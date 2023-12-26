@@ -1,0 +1,3 @@
+echo Building \'MakePureDOSDAT-`uname -m`\' ...
+gcc -std=c++11 MakePureDOSDAT.cpp -lstdc++ -Wall -o MakePureDOSDAT-`uname -m`
+echo Done!
