@@ -4,8 +4,8 @@
 	<header>
 		<name>Pure DOS DAT</name>
 		<description>DOS Games</description>
-		<version>2023-12-26 00-00-00</version>
-		<date>2023-12-26 00-00-00</date>
+		<version>2024-02-17 00-00-00</version>
+		<date>2024-02-17 00-00-00</date>
 		<author>Pure DOS DAT</author>
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
@@ -500,6 +500,49 @@
 		<rom name="ROLAND.IMS" size="18976" crc="8e983877" md5="98c9453b486e9cbff95c97c480c1a8d9" sha1="cd21c98036bfe54ae986941b3301f0c73c4f4f16"/>
 		<rom name="SOUNBLAS.IMS" size="24808" crc="a95c63ec" md5="09ba62c3bc9f2bdc50868466cc4576b5" sha1="a1436072b308f073116aa57757b72709148c60b9"/>
 		<rom name="SPEAKER.IMS" size="20062" crc="db85d8fd" md5="0c0a385da45ac811b23bbd47c9935990" sha1="953e2d5268125c97201674a55b6919c83f4d379c"/>
+	</game>
+	<game name="Prince of Persia (1992) (Broderbund Software).dosz">
+		<description>Prince of Persia</description>
+		<comment>Based on the 3.5" disk of version 1.3</comment>
+		<comment_dosc>Sound and video config and patch to disable copy protection</comment_dosc>
+		<year>1992</year>
+		<developer>Broderbund Software</developer>
+		<rom name="CDUNGEON.DAT" size="9407" crc="8dfd8a32" md5="673cff6493fa4ca6ca7a33c9156019c7" sha1="3a81f4598ecc08a5439b040b526927c8e2deb629"/>
+		<rom name="CONEDIT.COM" size="10996" crc="6b919f7a" md5="3ad40ca6b04bbeaff88ca1398aeceb2f" sha1="8a77bd83c32061c018e5389dbc703e2410c952fa"/>
+		<rom name="CONFIG.DAT" size="28" crc="ddb9f7ef" md5="478d71ff5eee5becbdc4ac00b992cd30" sha1="cf30e87633d6353810c230d8c236ddfce9cbfd7d"/>
+		<rom name="CPALACE.DAT" size="12889" crc="d99b4d4d" md5="10054079c32dc7bb227f178be6903e47" sha1="dc5a5302a709cac52f15e755f47f5595dba2585e"/>
+		<rom name="DESKTOPD.CFG" size="55" crc="61e90209" md5="95a621f5380347f4a62a09092323de8a" sha1="c11430c24e8d1f3c74d6f7012580d71801678aa0"/>
+		<rom name="DIGISND1.DAT" size="50101" crc="6b313cec" md5="5d879d52a71c7ad0fb3f317cc7a84160" sha1="27dc74b67e3ef9e261762b9d36dc3e01f9c318f5"/>
+		<rom name="DIGISND2.DAT" size="32426" crc="027c8347" md5="194112b026f14a4ff305873db13fb58a" sha1="cb5b90c548233f7d48f85769aa8f96d55a2ce087"/>
+		<rom name="DIGISND3.DAT" size="31008" crc="bdc949b3" md5="ba84d441f58ff1b09ed9873835fd9113" sha1="41cb8eaf953e1d54bd9a57727fb3e9cd6b029492"/>
+		<rom name="EDUNGEON.DAT" size="10165" crc="d0001fc6" md5="5bcf2e961557f8a03a8c8603b3327dbf" sha1="c2fb886f1c00cc0be41b9b29b2580f33d2ddb48a"/>
+		<rom name="EPALACE.DAT" size="13876" crc="2d059e03" md5="c3388992315aa340934febb783bcd3dc" sha1="5e6bfdc9cc905f8c5e78491af1053f9c2607e7b7"/>
+		<rom name="FAT.DAT" size="6521" crc="955ce8c6" md5="c7145b333d1b82840afe273199127641" sha1="cabacc01e292a54bae75a7c3514b10231a575454"/>
+		<rom name="GUARD.DAT" size="6950" crc="594674d6" md5="27a45a2b2cc5ff2cc6589137572e3d33" sha1="900c3b2eb4d84dc45e6fd086ae15b93347694103"/>
+		<rom name="GUARD1.DAT" size="117" crc="4c32b5a2" md5="c9c4289cc0782bedbac1e6ee3af2db72" sha1="1f3bd8b571d7e42f230d6d4740b6ec6a81400af0"/>
+		<rom name="GUARD2.DAT" size="117" crc="a5b5de91" md5="ec0681974515a399eacafadd565c79cc" sha1="32540281af1594610d2cb83d41f1b5691e89b50d"/>
+		<rom name="IBM_SND1.DAT" size="3684" crc="a5bcb241" md5="08b61289714383532198cfbdaa3fab61" sha1="92f68afe878fa233d44bb0338de374c2c37264b9"/>
+		<rom name="IBM_SND2.DAT" size="3784" crc="79de3dcb" md5="3f26ac4ccf927a2dc33d426fe8cd9f55" sha1="cf74cae4a55521a41e618c1a21a0c6ad92b0412e"/>
+		<rom name="INSTALL.EXE" size="11289" crc="88e31b3c" md5="c1d8abfa2fe2c35a7586bf86b6aea4e3" sha1="7a709db4dd1f53c8d4ab369f3ded8061a0698b26"/>
+		<rom name="INSTALL.PDM" size="4233" crc="9282635d" md5="c8306d955c016839d31d366fb75a7e9e" sha1="086d1c1dc4f3c0a2ca3fb7859dbcead443dd059a"/>
+		<rom name="KID.DAT" size="37149" crc="90e5edb6" md5="b6f0e8591dc0e317d9ef6427b04e19ad" sha1="c7e841443c247bf65ff94c13a4b01fdaca767dca"/>
+		<rom name="LEVELS.DAT" size="37031" crc="dd46eefc" md5="be363625e64533fda1b0ef3263b26ac5" sha1="2cd58bb1eece062ef98fd8411377b58f3c72c031"/>
+		<rom name="MIDISND1.DAT" size="7096" crc="5abc54f4" md5="5678f24ff4ac6328e76bed96e3528619" sha1="30bbcc0c3e893dba2e4288f600294cc5ba1fc11a"/>
+		<rom name="MIDISND2.DAT" size="18958" crc="f393fe9f" md5="0fda68c9ea8c62d03d232c7fe2fea0a5" sha1="8320c09113c4e3b31f00959402f79f31738b09e3"/>
+		<rom name="MT32SND1.DAT" size="3833" crc="db7893ba" md5="01ac435a4b2758306b3c5d262190babc" sha1="54ec975654d46788ba0a98c579f150d2ef87aea8"/>
+		<rom name="MT32SND2.DAT" size="1129" crc="d1cd19e7" md5="27a0f1395aee8670adf4240de1c4402c" sha1="53697b9a7645410c25b361bad1be0249dfdb82c6"/>
+		<rom name="PRINCE.DAT" size="25600" crc="42f548d8" md5="860ce4252b111cebd11493a0d21e9eaf" sha1="57fede2fbf1bb4a211066393353b6a2e0060b9bd"/>
+		<rom name="PRINCE.EXE" size="125115" crc="a3599864" md5="7fb2c81764429aeffb95a1f2b9cc82cc" sha1="205252335e188b1a56c3fb170da8c124955a9af4"/>
+		<rom name="PV.DAT" size="25829" crc="772e7706" md5="ad6eee596a6816eebab1702b879d9210" sha1="da20d2c8ed3da6e93cc882e7023bd502e0fc7bf9"/>
+		<rom name="SETUP.CFG" size="225" crc="1bdae531" md5="7af59b8a3cc0d197c620077c32600ef1" sha1="f18eafefccbbb0e4f742cee8868403b7894653af"/>
+		<rom name="SETUP.DAT" size="28" crc="3aeff1a3" md5="d137d6563b1cc0bee07a605fe013db74" sha1="657c6ff9f71a886efb851c38fba9f79d85fba8dc"/>
+		<rom name="SETUP.EXE" size="35983" crc="2dff1cb0" md5="06430e0192adf181dc91055a5e1f04d2" sha1="28bacc1cc2257cd5ece1193b6cfa71c02c633dc7"/>
+		<rom name="SHADOW.DAT" size="4715" crc="d886b145" md5="0163c73287f822882a7b2b2d37f334e0" sha1="cbc976a65730ca2b8f14a7cf79ca14f413701053"/>
+		<rom name="SKEL.DAT" size="3868" crc="d348a9ac" md5="1a39934a7444360fba6ad109f8634be1" sha1="b02ddff312ed99ef529d3651fffd475e6f27c540"/>
+		<rom name="TITLE.DAT" size="36799" crc="50168e4f" md5="92b0415cc24f413d4de96530b170b4fb" sha1="8c6e587317b34f6a7e79798df38731b693138b42"/>
+		<rom name="VDUNGEON.DAT" size="10933" crc="3f2a9627" md5="fa018ba3d098fea7444b9b978695be4a" sha1="9f71fa4d364175035fb07b4396aae21e2cfdf41b"/>
+		<rom name="VIZIER.DAT" size="6111" crc="6010d5ca" md5="33a910991b0afb800868b631efaca1f3" sha1="f3bbe710982bbcdb51f43ab5c97d0e23efd0f633"/>
+		<rom name="VPALACE.DAT" size="14212" crc="1c712ce9" md5="cc86fb01fddb7f54b0a903314e391eff" sha1="09f261c0493c90d8fa16123c5215a881e138fa58"/>
 	</game>
 	<game name="Ultima VII - The Black Gate + The Forge of Virtue (1992) (ORIGIN Systems).dosz">
 		<description>Ultima VII - The Black Gate + The Forge of Virtue</description>
