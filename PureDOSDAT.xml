@@ -4,8 +4,8 @@
 	<header>
 		<name>Pure DOS DAT</name>
 		<description>DOS Games</description>
-		<version>2024-02-17 00-00-00</version>
-		<date>2024-02-17 00-00-00</date>
+		<version>2024-02-19 00-00-00</version>
+		<date>2024-02-19 00-00-00</date>
 		<author>Pure DOS DAT</author>
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
@@ -751,5 +751,21 @@
 		<rom name="U7.CFG" size="16" crc="7d8f7f55" md5="d67d1e3afe96c86e512d6cc17a8f18fe" sha1="b0eac0412ce5fc5d459cc63f9ec018dbc95afe72"/>
 		<rom name="U7.EXE" size="689248" crc="a1122b73" md5="8cb6bee88ae2e363c9facd769a7fdd7b" sha1="5f2887c84474cbbd0752634925d8dd5d6425e981"/>
 		<rom name="ULTIMA7.COM" size="690" crc="e79371f8" md5="3bef7a544e91ffc2f9cb53d02416bf7d" sha1="042824339943ec12550d53633e0f5ba859223ae2"/>
+	</game>
+	<game name="Wolfenstein 3D (1992) (id Software).dosz">
+		<description>Wolfenstein 3D</description>
+		<comment>Based on version 1.4g with Activision branding</comment>
+		<comment_dosc>Maximized view setting</comment_dosc>
+		<year>1992</year>
+		<developer>id Software</developer>
+		<rom name="AUDIOHED.WL6" size="1156" crc="2f3bcb70" md5="a41af25a2f193e7d4afbcc4301b3d1ce" sha1="2a8407cd436250b6df9d6022c971030882ae37ca"/>
+		<rom name="AUDIOT.WL6" size="320209" crc="c79efd4c" md5="2385b488b18f8721633e5b2bdf054853" sha1="8a1e19ec1dc669ebe6916b1e24a261d10d9d5ff3"/>
+		<rom name="GAMEMAPS.WL6" size="150652" crc="ada5c827" md5="a4e73706e100dc0cadfb02d23de46481" sha1="22bfcde221efec232b48258117d7fc04337cce3a"/>
+		<rom name="MAPHEAD.WL6" size="402" crc="015803e9" md5="b8d2a78bc7c50da7ec9ab1d94f7975e1" sha1="1b5bf23e6edae13f6a582a44f72729c6e5a0e692"/>
+		<rom name="VGADICT.WL6" size="1024" crc="aa22054e" md5="dec8939cff5a4ec27ae7b43e8f52ec28" sha1="4883109b6e3b9eb989fbadaff456410522f3e843"/>
+		<rom name="VGAGRAPH.WL6" size="275774" crc="a4b1de1d" md5="8b40b5b785f898e229bf1c2f2e3ee003" sha1="f04ee31c8193d4cdc2dd48a6bf34445345652d68"/>
+		<rom name="VGAHEAD.WL6" size="450" crc="ab2b44d3" md5="8e75e3ffb842ed3d08abe6ffea97b231" sha1="19444414fe3e7b1ceb95a8cfd60a8ac54c69daaf"/>
+		<rom name="VSWAP.WL6" size="1544376" crc="e610c664" md5="b8ff4997461bafa5ef2a94c11f9de001" sha1="e604f436f31a456b003e99f8a3d14fe3ecdcec23"/>
+		<rom name="WOLF3D.EXE" size="108779" crc="6d818dbe" md5="ce402023d1c5dc16307c62df639940cb" sha1="f5ef58a27cafc2f260207f16a5d78d33af721986"/>
 	</game>
 </datafile>
