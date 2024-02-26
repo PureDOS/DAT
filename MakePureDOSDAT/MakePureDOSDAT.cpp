@@ -22,11 +22,11 @@ typedef unsigned long long Bit64u;
 #endif
 
 #if defined (_MSC_VER)
-#define	strcasecmp(a,b) stricmp(a,b)
+#define strcasecmp(a,b) stricmp(a,b)
 #define strncasecmp(a,b,n) _strnicmp(a,b,n)
 #endif
 
-// Use 64-bit fseek and ftell (based on libretro-common/vfs/vfs_implementation.c)
+// Use 64-bit fseek and ftell
 #if defined(_MSC_VER) && _MSC_VER >= 1400 // VC2005 and up have a special 64-bit fseek
 #define fseek_wrap(fp, offset, whence) _fseeki64(fp, (__int64)offset, whence)
 #define ftell_wrap(fp) _ftelli64(fp)
@@ -38,7 +38,6 @@ typedef unsigned long long Bit64u;
 #define ftell_wrap(fp) ftell(fp)
 #endif
 
-#ifndef NDEBUG
 static Bit32u CRC32(const void* data, size_t data_size)
 {
 	// A compact CCITT crc16 and crc32 C implementation that balances processor cache usage against speed
@@ -48,7 +47,6 @@ static Bit32u CRC32(const void* data, size_t data_size)
 	for (Bit8u b, *p = (Bit8u*)data;data_size--;) { b = *p++; crcu32 = (crcu32 >> 4) ^ s_crc32[(crcu32 & 0xF) ^ (b & 0xF)]; crcu32 = (crcu32 >> 4) ^ s_crc32[(crcu32 & 0xF) ^ (b >> 4)]; }
 	return ~crcu32;
 }
-#endif
 
 #if 0
 static void MD5(const void* data, size_t data_size, Bit8u res[16])
@@ -322,11 +320,117 @@ enum
 #define ZIP_READ_LE16(p) ((Bit16u)(((const Bit8u *)(p))[0]) | ((Bit16u)(((const Bit8u *)(p))[1]) << 8U))
 #define ZIP_READ_LE32(p) ((Bit32u)(((const Bit8u *)(p))[0]) | ((Bit32u)(((const Bit8u *)(p))[1]) << 8U) | ((Bit32u)(((const Bit8u *)(p))[2]) << 16U) | ((Bit32u)(((const Bit8u *)(p))[3]) << 24U))
 #define ZIP_READ_LE64(p) ((Bit64u)(((const Bit8u *)(p))[0]) | ((Bit64u)(((const Bit8u *)(p))[1]) << 8U) | ((Bit64u)(((const Bit8u *)(p))[2]) << 16U) | ((Bit64u)(((const Bit8u *)(p))[3]) << 24U) | ((Bit64u)(((const Bit8u *)(p))[4]) << 32U) | ((Bit64u)(((const Bit8u *)(p))[5]) << 40U) | ((Bit64u)(((const Bit8u *)(p))[6]) << 48U) | ((Bit64u)(((const Bit8u *)(p))[7]) << 56U))
+#define ZIP_READ_BE32(p) ((Bit32u)((((const Bit8u *)(p))[0] << 24) | (((const Bit8u *)(p))[1] << 16) | (((const Bit8u *)(p))[2] << 8) | ((const Bit8u *)(p))[3]))
+#define ZIP_READ_BE64(p) ((Bit64u)((((Bit64u)((const Bit8u *)(p))[0] << 56) | ((Bit64u)((const Bit8u *)(p))[1] << 48) | ((Bit64u)((const Bit8u *)(p))[2] << 40) | ((Bit64u)((const Bit8u *)(p))[3] << 32) | ((Bit64u)((const Bit8u *)(p))[4] << 24) | ((Bit64u)((const Bit8u *)(p))[5] << 16) | ((Bit64u)((const Bit8u *)(p))[6] << 8) | (Bit64u)((const Bit8u *)(p))[7])))
+
 #ifdef NDEBUG
 #define ZIP_ASSERT(cond)
 #else
 #define ZIP_ASSERT(cond) (void)((cond) ? ((int)0) : *(volatile int*)0 |= 0xbad|fprintf(stderr, "FAILED ASSERT (%s)\n", #cond))
 #endif
+
+void ListCHDTracks(const Bit8u* chd_data, size_t chd_size)
+{
+	enum { CHD_V5_HEADER_SIZE = 124, CHD_V5_UNCOMPMAPENTRYBYTES = 4, CD_MAX_SECTOR_DATA = 2352, CD_MAX_SUBCODE_DATA = 96, CD_FRAME_SIZE = CD_MAX_SECTOR_DATA + CD_MAX_SUBCODE_DATA };
+	enum { METADATA_HEADER_SIZE = 16, CDROM_TRACK_METADATA_TAG = 1128813650, CDROM_TRACK_METADATA2_TAG = 1128813618, CD_TRACK_PADDING = 4 };
+
+	// Read CHD header and check signature
+	Bit32u* chd_hunkmap = NULL;
+	const Bit8u* rawheader = chd_data;
+	if (chd_size < CHD_V5_HEADER_SIZE || memcmp(rawheader, "MComprHD", 8))
+	{
+		chderr:
+		fprintf(stderr, "Invalid/unsupported CHD file\n");
+		if (chd_hunkmap) free(chd_hunkmap);
+		return;
+	}
+
+	// Check supported version, flags and compression
+	Bit32u hdr_length = ZIP_READ_BE32(&rawheader[8]);
+	Bit32u hdr_version = ZIP_READ_BE32(&rawheader[12]);
+	if (hdr_version != 5 || hdr_length != CHD_V5_HEADER_SIZE) goto chderr; // only ver 5 is supported
+	if (ZIP_READ_BE32(&rawheader[16])) goto chderr; // compression is not supported
+
+	// Make sure it's a CD image
+	Bit32u unitsize = ZIP_READ_BE32(&rawheader[60]);
+	int chd_hunkbytes = (int)ZIP_READ_BE32(&rawheader[56]);
+	if (unitsize != CD_FRAME_SIZE || (chd_hunkbytes % CD_FRAME_SIZE) || !chd_hunkbytes) goto chderr; // not CD sector size
+
+	// Read file offsets for hunk mapping and track meta data
+	Bit64u filelen = (Bit64u)chd_size;
+	Bit64u logicalbytes = ZIP_READ_BE64(&rawheader[32]);
+	Bit64u mapoffset = ZIP_READ_BE64(&rawheader[40]);
+	Bit64u metaoffset = ZIP_READ_BE64(&rawheader[48]);
+	if (mapoffset < CHD_V5_HEADER_SIZE || mapoffset >= filelen || metaoffset < CHD_V5_HEADER_SIZE || metaoffset >= filelen || !logicalbytes) goto chderr;
+
+	// Read hunk mapping and convert to file offsets
+	Bit32u hunkcount = (Bit32u)((logicalbytes + chd_hunkbytes - 1) / chd_hunkbytes);
+	if (chd_size < mapoffset + hunkcount * CHD_V5_UNCOMPMAPENTRYBYTES) goto chderr;
+	const Bit8u* raw_hunkmap = chd_data + (size_t)mapoffset;
+	chd_hunkmap = (Bit32u*)malloc(hunkcount * CHD_V5_UNCOMPMAPENTRYBYTES);
+	for (Bit32u i = 0; i != hunkcount; i++)
+	{
+		chd_hunkmap[i] = ZIP_READ_BE32(&raw_hunkmap[i * CHD_V5_UNCOMPMAPENTRYBYTES]) * chd_hunkbytes;
+		if (chd_size < chd_hunkmap[i] + chd_hunkbytes) goto chderr;
+	}
+
+	// Read track meta data
+	Bit32u track_frame = 0;
+	for (Bit64u metaentry_offset = metaoffset, metaentry_next; metaentry_offset != 0; metaentry_offset = metaentry_next)
+	{
+		char mt_type[32], mt_subtype[32];
+		if (chd_size < metaentry_offset + METADATA_HEADER_SIZE) goto chderr;
+		const Bit8u* raw_meta_header = chd_data + metaentry_offset;
+		Bit32u metaentry_metatag = ZIP_READ_BE32(&raw_meta_header[0]);
+		Bit32u metaentry_length = (ZIP_READ_BE32(&raw_meta_header[4]) & 0x00ffffff);
+		metaentry_next = ZIP_READ_BE64(&raw_meta_header[8]);
+		if (metaentry_metatag != CDROM_TRACK_METADATA_TAG && metaentry_metatag != CDROM_TRACK_METADATA2_TAG) continue;
+		if (chd_size < (size_t)(metaentry_offset + METADATA_HEADER_SIZE) + metaentry_length) goto chderr;
+		const char* meta = (const char*)(chd_data + metaentry_offset + METADATA_HEADER_SIZE);
+
+		int mt_track_no = 0, mt_frames = 0, mt_pregap = 0;
+		if (sscanf(meta,
+			(metaentry_metatag == CDROM_TRACK_METADATA2_TAG ? "TRACK:%d TYPE:%30s SUBTYPE:%30s FRAMES:%d PREGAP:%d" : "TRACK:%d TYPE:%30s SUBTYPE:%30s FRAMES:%d"),
+			&mt_track_no, mt_type, mt_subtype, &mt_frames, &mt_pregap) < 4) continue;
+
+		// In CHD files tracks are padded to a to a 4-sector boundary.
+		track_frame += mt_pregap;
+		track_frame += ((CD_TRACK_PADDING - (track_frame % CD_TRACK_PADDING)) % CD_TRACK_PADDING);
+
+		// Read track data and calculate hashes (CHD sectorSize is always 2448, data_size is based on chdman source)
+		const bool isAudio = !strcmp(mt_type, "AUDIO");
+		const bool ds2048 = !strcmp(mt_type, "MODE1") || !strcmp(mt_type, "MODE2_FORM1");
+		const bool ds2324 = !strcmp(mt_type, "MODE2_FORM2");
+		const bool ds2336 = !strcmp(mt_type, "MODE2") || !strcmp(mt_type, "MODE2_FORM_MIX");
+		const size_t data_size = (ds2048 ? 2048 : ds2324 ? 2324 : ds2336 ? 2336 : CD_MAX_SECTOR_DATA);
+		const size_t track_size = (size_t)mt_frames * data_size;
+		Bit8u* track_data = (Bit8u*)malloc(track_size), *track_out = track_data;
+		for (Bit32u track_frame_end = track_frame + mt_frames; track_frame != track_frame_end; track_frame++, track_out += data_size)
+		{
+			size_t p = track_frame * CD_FRAME_SIZE, hunk = (p / chd_hunkbytes), hunk_ofs = (p % chd_hunkbytes), hunk_pos = chd_hunkmap[hunk];
+			if (!hunk_pos) { memset(track_out, 0, data_size); }
+			else { memcpy(track_out, chd_data + hunk_pos + hunk_ofs, data_size); }
+		}
+		if (isAudio) // CHD audio endian swap
+			for (Bit8u *p = track_data, *pEnd = p + track_size, tmp; p != pEnd; p += 2)
+				{ tmp = p[0]; p[0] = p[1]; p[1] = tmp; }
+		Bit8u trackmd5[16], tracksha1[20];
+		FastMD5(track_data, (size_t)track_size, trackmd5);
+		SHA1(track_data, (size_t)track_size, tracksha1);
+		Bit32u trackcrc32 = CRC32(track_data, (size_t)track_size);
+		free(track_data);
+
+		printf("			<track number=\"%d\" type=\"%s\" frames=\"%d\" pregap=\"%d\" duration=\"%02d:%02d:%02d\" size=\"%u\"",
+			mt_track_no, mt_type, mt_frames, mt_pregap, (mt_frames/75/60), (mt_frames/75)%60, mt_frames%75, (Bit32u)track_size);
+		printf(" crc=\"%08x\" md5=\"", trackcrc32);
+		for (int md5i = 0; md5i != 16; md5i++) printf("%02x", trackmd5[md5i]);
+		printf("\" sha1=\"");
+		for (int sha1i = 0; sha1i != 20; sha1i++) printf("%02x", tracksha1[sha1i]);
+		printf("\"/>\n");
+	}
+
+	free(chd_hunkmap);
+}
 
 int main(int argc, char *argv[])
 {
@@ -541,12 +645,13 @@ int main(int argc, char *argv[])
 
 			std::vector<Bit8u> mem_data;
 			archive.Unpack(local_header_ofs, (Bit32u)comp_size, (Bit32u)decomp_size, (Bit8u)bit_flag, (Bit8u)method, mem_data);
+			const Bit8u* mem_ptr = (decomp_size ? &mem_data[0] : NULL);
 			ZIP_ASSERT(mem_data.size() == decomp_size);
-			ZIP_ASSERT(crc32 == CRC32(&mem_data[0], (size_t)decomp_size));
+			ZIP_ASSERT(crc32 == CRC32(mem_ptr, (size_t)decomp_size));
 
 			Bit8u md5[16], sha1[20];
-			FastMD5(&mem_data[0], (size_t)decomp_size, md5);
-			SHA1(&mem_data[0], (size_t)decomp_size, sha1);
+			FastMD5(mem_ptr, (size_t)decomp_size, md5);
+			SHA1(mem_ptr, (size_t)decomp_size, sha1);
 
 			const char *name = (const char*)(p + ZIP_CENTRAL_DIR_HEADER_SIZE);
 			printf("		<rom name=\"%.*s\" size=\"%u\"", (int)filename_len, name, (unsigned)decomp_size);
@@ -554,7 +659,18 @@ int main(int argc, char *argv[])
 			for (int md5i = 0; md5i != 16; md5i++) printf("%02x", md5[md5i]);
 			printf("\" sha1=\"");
 			for (int sha1i = 0; sha1i != 20; sha1i++) printf("%02x", sha1[sha1i]);
-			printf("\"/>\n");
+
+			// If this is a CHD file, print out track information
+			if (filename_len > 4 && !strncasecmp(name + filename_len - 4, ".chd", 4))
+			{
+				printf("\">\n");
+				ListCHDTracks( mem_ptr, (size_t)decomp_size);
+				printf("		</rom>\n");
+			}
+			else
+			{
+				printf("\"/>\n");
+			}
 		}
 		free(m_central_dir);
 		printf("	</game>\n");
@@ -1417,7 +1533,7 @@ struct unz_explode
 
 bool Zip_Archive::Unpack(Bit64u zf_data_ofs, Bit32u zf_comp_size, Bit32u zf_uncomp_size, Bit8u zf_bit_flags, Bit8u zf_method, std::vector<Bit8u>& mem_data)
 {
-	char local_header[ZIP_LOCAL_DIR_HEADER_SIZE];
+	Bit8u local_header[ZIP_LOCAL_DIR_HEADER_SIZE];
 	if (Read(zf_data_ofs, local_header, ZIP_LOCAL_DIR_HEADER_SIZE) != ZIP_LOCAL_DIR_HEADER_SIZE)
 		return false;
 	if (ZIP_READ_LE32(local_header) != ZIP_LOCAL_DIR_HEADER_SIG)
