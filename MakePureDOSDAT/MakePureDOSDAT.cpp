@@ -6,6 +6,7 @@
 #include <memory.h>
 #include <stdlib.h>
 #include <stdio.h>
+#include <stdarg.h>
 #include <string.h>
 #include <time.h>
 #include <vector>
@@ -308,7 +309,7 @@ enum
 	ZIP_ECDH_CDIR_TOTAL_ENTRIES_OFS = 10, ZIP_ECDH_CDIR_SIZE_OFS = 12, ZIP_ECDH_CDIR_OFS_OFS = 16, ZIP_ECDH_COMMENT_SIZE_OFS = 20,
 	ZIP64_ECDL_ECDH_OFS_OFS = 8, ZIP64_ECDH_CDIR_TOTAL_ENTRIES_OFS = 32, ZIP64_ECDH_CDIR_SIZE_OFS = 40, ZIP64_ECDH_CDIR_OFS_OFS = 48,
 	// Central directory header record offsets
-	ZIP_CDH_BIT_FLAG_OFS = 8, ZIP_CDH_METHOD_OFS = 10, ZIP_CDH_CRC32_OFS = 16,
+	ZIP_CDH_BIT_FLAG_OFS = 8, ZIP_CDH_METHOD_OFS = 10, ZIP_CDH_FILE_TIME_OFS = 12, ZIP_CDH_FILE_DATE_OFS = 14, ZIP_CDH_CRC32_OFS = 16,
 	ZIP_CDH_COMPRESSED_SIZE_OFS = 20, ZIP_CDH_DECOMPRESSED_SIZE_OFS = 24, ZIP_CDH_FILENAME_LEN_OFS = 28, ZIP_CDH_EXTRA_LEN_OFS = 30,
 	ZIP_CDH_COMMENT_LEN_OFS = 32, ZIP_CDH_EXTERNAL_ATTR_OFS = 38, ZIP_CDH_LOCAL_HEADER_OFS = 42,
 	// Local directory header offsets
@@ -329,7 +330,19 @@ enum
 #define ZIP_ASSERT(cond) (void)((cond) ? ((int)0) : *(volatile int*)0 |= 0xbad|fprintf(stderr, "FAILED ASSERT (%s)\n", #cond))
 #endif
 
-void ListCHDTracks(const Bit8u* chd_data, size_t chd_size)
+void AppendPrintf(std::vector<Bit8u>& buf, int maxlen, char const* format, ...)
+{
+	size_t oldlen = buf.size();
+	buf.resize(oldlen + maxlen + 1);
+	va_list va;
+	va_start(va, format);
+	int res = vsprintf((char*)&buf[oldlen], format, va);
+	ZIP_ASSERT(maxlen >= res);
+	buf.resize(oldlen + res);
+	va_end(va);
+}
+
+void ListCHDTracks(std::vector<Bit8u>& line, const Bit8u* chd_data, size_t chd_size)
 {
 	enum { CHD_V5_HEADER_SIZE = 124, CHD_V5_UNCOMPMAPENTRYBYTES = 4, CD_MAX_SECTOR_DATA = 2352, CD_MAX_SUBCODE_DATA = 96, CD_FRAME_SIZE = CD_MAX_SECTOR_DATA + CD_MAX_SUBCODE_DATA };
 	enum { METADATA_HEADER_SIZE = 16, CDROM_TRACK_METADATA_TAG = 1128813650, CDROM_TRACK_METADATA2_TAG = 1128813618, CD_TRACK_PADDING = 4 };
@@ -420,13 +433,13 @@ void ListCHDTracks(const Bit8u* chd_data, size_t chd_size)
 		Bit32u trackcrc32 = CRC32(track_data, (size_t)track_size);
 		free(track_data);
 
-		printf("			<track number=\"%d\" type=\"%s\" frames=\"%d\" pregap=\"%d\" duration=\"%02d:%02d:%02d\" size=\"%u\"",
+		AppendPrintf(line, 200, "			<track number=\"%d\" type=\"%s\" frames=\"%d\" pregap=\"%d\" duration=\"%02d:%02d:%02d\" size=\"%u\"",
 			mt_track_no, mt_type, mt_frames, mt_pregap, (mt_frames/75/60), (mt_frames/75)%60, mt_frames%75, (Bit32u)track_size);
-		printf(" crc=\"%08x\" md5=\"", trackcrc32);
-		for (int md5i = 0; md5i != 16; md5i++) printf("%02x", trackmd5[md5i]);
-		printf("\" sha1=\"");
-		for (int sha1i = 0; sha1i != 20; sha1i++) printf("%02x", tracksha1[sha1i]);
-		printf("\"/>\n");
+		AppendPrintf(line, 21, " crc=\"%08x\" md5=\"", trackcrc32);
+		for (int md5i = 0; md5i != 16; md5i++) AppendPrintf(line, 2, "%02x", trackmd5[md5i]);
+		AppendPrintf(line, 8, "\" sha1=\"");
+		for (int sha1i = 0; sha1i != 20; sha1i++) AppendPrintf(line, 2, "%02x", tracksha1[sha1i]);
+		AppendPrintf(line, 4, "\"/>\n");
 	}
 
 	free(chd_hunkmap);
@@ -593,15 +606,19 @@ int main(int argc, char *argv[])
 
 		// Now create an index into the central directory file records, do some basic sanity checking on each record, and check for zip64 entries (which are not yet supported).
 		p = cdir_start;
+		std::vector< std::vector<Bit8u> > roms;
 		for (Bit32u i = 0, total_header_size; i < total_files && p >= cdir_start && p < cdir_end && ZIP_READ_LE32(p) == ZIP_CENTRAL_DIR_HEADER_SIG; i++, p += total_header_size)
 		{
 			Bit32u bit_flag         = ZIP_READ_LE16(p + ZIP_CDH_BIT_FLAG_OFS);
 			Bit32u method           = ZIP_READ_LE16(p + ZIP_CDH_METHOD_OFS);
+			Bit16u file_time        = ZIP_READ_LE16(p + ZIP_CDH_FILE_TIME_OFS);
+			Bit16u file_date        = ZIP_READ_LE16(p + ZIP_CDH_FILE_DATE_OFS);
 			Bit32u crc32            = ZIP_READ_LE32(p + ZIP_CDH_CRC32_OFS);
 			Bit64u comp_size        = ZIP_READ_LE32(p + ZIP_CDH_COMPRESSED_SIZE_OFS);
 			Bit64u decomp_size      = ZIP_READ_LE32(p + ZIP_CDH_DECOMPRESSED_SIZE_OFS);
 			Bit32u filename_len     = ZIP_READ_LE16(p + ZIP_CDH_FILENAME_LEN_OFS);
 			Bit32s extra_len        = ZIP_READ_LE16(p + ZIP_CDH_EXTRA_LEN_OFS);
+			Bit32s external_attr    = ZIP_READ_LE32(p + ZIP_CDH_EXTERNAL_ATTR_OFS);
 			Bit64u local_header_ofs = ZIP_READ_LE32(p + ZIP_CDH_LOCAL_HEADER_OFS);
 			total_header_size = ZIP_CENTRAL_DIR_HEADER_SIZE + filename_len + extra_len + ZIP_READ_LE16(p + ZIP_CDH_COMMENT_LEN_OFS);
 
@@ -653,26 +670,82 @@ int main(int argc, char *argv[])
 			FastMD5(mem_ptr, (size_t)decomp_size, md5);
 			SHA1(mem_ptr, (size_t)decomp_size, sha1);
 
-			const char *name = (const char*)(p + ZIP_CENTRAL_DIR_HEADER_SIZE);
-			printf("		<rom name=\"%.*s\" size=\"%u\"", (int)filename_len, name, (unsigned)decomp_size);
-			printf(" crc=\"%08x\" md5=\"", crc32);
-			for (int md5i = 0; md5i != 16; md5i++) printf("%02x", md5[md5i]);
-			printf("\" sha1=\"");
-			for (int sha1i = 0; sha1i != 20; sha1i++) printf("%02x", sha1[sha1i]);
+			char *name = (char*)(p + ZIP_CENTRAL_DIR_HEADER_SIZE);
+			for (char *p = name, *name_end = name + filename_len; p != name_end; p++)
+				if (*p == '\\')
+					*p = '/'; // convert back-slashes to regular slashes
+
+			bool is_dir = (name[filename_len - 1] == '/' || (external_attr & 0x10));
+			if (is_dir && (file_date >> 9) >= 44)
+			{
+				// Fix time stamp of directory records from 2024 and newer to 1999-12-31 (and skip them when outputting records of non-empty directories below)
+				file_date = ((19 << 9) | (12 << 5) | 31);
+				file_time = 0;
+			}
+			else if (file_date == 8600 && file_time == 48128)
+			{
+				// Don't output the TrrntZip default time stamp (1996-12-24 23:32:00)
+				file_date = file_time = 0;
+			}
+
+			// Terminate file name with \b for sorting below (is changed to " during output)
+			roms.push_back(std::vector<Bit8u>());
+			std::vector<Bit8u>& line = roms.back();
+			AppendPrintf(line, 15+filename_len, "		<rom name=\"%.*s%s\b", (int)filename_len, name, ((is_dir && name[filename_len - 1] != '/') ? "/" : ""));
+			AppendPrintf(line, 40, " size=\"%u\" crc=\"%08x\" md5=\"", (unsigned)decomp_size, crc32);
+			for (int md5i = 0; md5i != 16; md5i++) AppendPrintf(line, 2, "%02x", md5[md5i]);
+			AppendPrintf(line, 8, "\" sha1=\"");
+			for (int sha1i = 0; sha1i != 20; sha1i++) AppendPrintf(line, 2, "%02x", sha1[sha1i]);
+			if (file_date || file_time)
+				AppendPrintf(line, 27, "\" date=\"%04d-%02d-%02d %02d:%02d:%02d", ((file_date >> 9) + 1980), ((file_date >> 5) & 0xf), (file_date & 0x1f), (file_time >> 11), ((file_time >> 5) & 0x3f), ((file_time & 0x1f) * 2));
 
 			// If this is a CHD file, print out track information
 			if (filename_len > 4 && !strncasecmp(name + filename_len - 4, ".chd", 4))
 			{
-				printf("\">\n");
-				ListCHDTracks( mem_ptr, (size_t)decomp_size);
-				printf("		</rom>\n");
+				AppendPrintf(line, 3, "\">\n");
+				ListCHDTracks(line, mem_ptr, (size_t)decomp_size);
+				AppendPrintf(line, 9, "		</rom>\n");
 			}
 			else
 			{
-				printf("\"/>\n");
+				AppendPrintf(line, 4, "\"/>\n");
 			}
 		}
 		free(m_central_dir);
+
+		// Sort strings (which sorts it by filename)
+		struct Local
+		{
+			static int SortFunc(const void* va, const void* vb)
+			{
+				std::vector<Bit8u> &a = *(std::vector<Bit8u>*)va, &b = *(std::vector<Bit8u>*)vb;
+				for (char *pa = (char*)&a[0], *pb = (char*)&b[0];;)
+				{
+					char ca = *(pa++), cb = *(pb++);
+					int d = ((ca >= 'A' && ca <= 'Z') ? (ca|0x20) : ca) - ((cb >= 'A' && cb <= 'Z') ? (cb|0x20) : cb);
+					if (d) return d;
+					if (!ca) return 0;
+				}
+			}
+		};
+		qsort(&roms[0], roms.size(), sizeof(roms[0]), Local::SortFunc);
+
+		// Output rom strings (except directories)
+		for (size_t j = 0, iend = roms.size(); j != iend; j++)
+		{
+			char *line = (char*)&roms[j][0],  *name_end = strchr(line, '\b');
+			if (name_end[-1] == '/')
+			{
+				// Don't print rom element for non-empty directory record with a too new time stamp
+				bool empty_dir = (j == iend - 1 || memcmp(line, &roms[j+1][0], (name_end - line)));
+				bool ignore_dir = (!empty_dir && (strstr(line, " date=\"1999-12-31 00:00:00\"") || !strstr(line, " date=\"")));
+				if (ignore_dir)
+					continue;
+			}
+			*name_end = '"'; // fix \b to " now that entries are sorted and directories are checked
+			printf("%.*s", (unsigned)roms[j].size(), line);
+		}
+
 		printf("	</game>\n");
 	}
 	printf("</datafile>\n");

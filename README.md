@@ -12,7 +12,7 @@ For adding a new game to the DAT file, see [Contributing](#contributing) for how
 ## PureDOSDAT.xml
 This is the DAT file which can be loaded in a ROM management tool to verify and build DOSZ and DOSC files.
 
-[RomVault](https://www.romvault.com/) is recommended because by default it builds correct ZIP files in Trrntzip format.
+[RomVault](https://www.romvault.com/) is recommended because it is easy to use and by default builds correct ZIP files.
 Depending on your Windows or .NET installation, you might want to use [version 3.2.5](https://www.romvault.com/download/ROMVault_V3.2.5.zip) or the latest available.
 
 While working with a ROM manager, the files will need to be named .DOSZ.ZIP and .DOSC.ZIP.
@@ -25,12 +25,11 @@ IF EXIST *.DOSZ ( ren *.dosz *.dosz.zip & ren *.dosc *.dosc.zip ) ELSE ( ren *.d
 Similar to the primary file this contains secondary variants of game packages which includes regional variants as well as original installation media.
 
 ## DOSZ Files
-A DOSZ file is a ZIP file prepared with [Trrntzip](https://www.romvault.com/trrntzip/) which contains one DOS game
-that can be loaded in a DOS emulator similar to how a console game ROM from that era is used with console emulators.
+A DOSZ file is a ZIP file which contains one DOS game that can be loaded in a DOS emulator similar to how a console game ROM from that era is used with console emulators.
 
 ## DOSC Files
-A DOSC file is also a ZIP file prepared with Trrntzip but it contains config files created from a setup program
-separate from the games installation as well as IPS/BPS/VCDIFF patches that remove copy protection schemes.
+A DOSC file is also a ZIP file but it contains config files created from a setup program separate from the games installation
+as well as binary patches (in IPS/BPS/VCDIFF format) that remove copy protection schemes.
 
 An existing DOSC file is always loaded as a file system overlay for a DOSZ file with a matching name.
 
@@ -101,8 +100,7 @@ it should not be included in the primary variant but instead be in a separate "I
 
 #### CD-ROM Images
 CD-ROM images should be included in the .DOSZ file in uncompressed, version 5 CHD format (created with `chdman.exe createcd -c none`).
-This is to avoid double compression by both CHD and Torrentzip, which would be a detriment for load time and performance,
-while keeping a full game in a single .DOSZ file.
+This is to avoid double compression by both CHD and ZIP, which would be a detriment for load time and performance, while keeping a full game in a single .DOSZ file.
 
 #### Floppy Disk Images
 Floppy disk images should be included in the .DOSZ file in uncompressed raw disk IMG format.
