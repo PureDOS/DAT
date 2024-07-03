@@ -701,6 +701,11 @@ int main(int argc, char *argv[])
 				// Don't output the TrrntZip default time stamp (1996-12-24 23:32:00)
 				file_date = file_time = 0;
 			}
+			else if ((file_date >> 9) >= 44)
+			{
+				// Don't output file time stamps from 2024 and newer
+				file_date = file_time = 0;
+			}
 
 			// Terminate file name with \b for sorting below (is changed to " during output)
 			roms.push_back(std::vector<Bit8u>());
