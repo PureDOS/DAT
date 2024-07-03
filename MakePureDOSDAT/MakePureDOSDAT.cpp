@@ -444,16 +444,18 @@ void ListCHDTracks(std::vector<Bit8u>& line, const Bit8u* chd_data, size_t chd_s
 		Bit8u trackmd5[16], tracksha1[20];
 		FastMD5(track_data, (size_t)track_size, trackmd5);
 		SHA1(track_data, (size_t)track_size, tracksha1);
-		Bit32u trackcrc32 = CRC32(track_data, (size_t)track_size);
+		Bit32u trackcrc32 = CRC32(track_data, (size_t)track_size), in_zeros, out_zeros;
+		for (in_zeros = 0; in_zeros != track_size && track_data[in_zeros] == 0; in_zeros++) {}
+		for (out_zeros = 0; out_zeros != track_size && track_data[track_size - 1 - out_zeros] == 0; out_zeros++) {}
 		free(track_data);
 
 		XMLAppendRawF(line, 200, "			<track number=\"%d\" type=\"%s\" frames=\"%d\" pregap=\"%d\" duration=\"%02d:%02d:%02d\" size=\"%u\"",
 			mt_track_no, mt_type, mt_frames, mt_pregap, (mt_frames/75/60), (mt_frames/75)%60, mt_frames%75, (Bit32u)track_size);
 		XMLAppendRawF(line, 21, " crc=\"%08x\" md5=\"", trackcrc32);
 		for (int md5i = 0; md5i != 16; md5i++) XMLAppendRawF(line, 2, "%02x", trackmd5[md5i]);
-		XMLAppendRawF(line, 8, "\" sha1=\"");
+		XMLAppendRaw(line, 8, "\" sha1=\"");
 		for (int sha1i = 0; sha1i != 20; sha1i++) XMLAppendRawF(line, 2, "%02x", tracksha1[sha1i]);
-		XMLAppendRaw(line, 4, "\"/>\n");
+		XMLAppendRawF(line, 64, "\" in_zeros=\"%u\" out_zeros=\"%u\"/>\n", in_zeros, out_zeros);
 	}
 
 	free(chd_hunkmap);
