@@ -330,16 +330,31 @@ enum
 #define ZIP_ASSERT(cond) (void)((cond) ? ((int)0) : *(volatile int*)0 |= 0xbad|fprintf(stderr, "FAILED ASSERT (%s)\n", #cond))
 #endif
 
-void AppendPrintf(std::vector<Bit8u>& buf, int maxlen, char const* format, ...)
+void XMLAppendRawF(std::vector<Bit8u>& buf, size_t maxlen, char const* format, ...)
 {
 	size_t oldlen = buf.size();
 	buf.resize(oldlen + maxlen + 1);
 	va_list va;
 	va_start(va, format);
 	int res = vsprintf((char*)&buf[oldlen], format, va);
-	ZIP_ASSERT(maxlen >= res);
-	buf.resize(oldlen + res);
 	va_end(va);
+	ZIP_ASSERT(maxlen >= (size_t)res);
+	buf.resize(oldlen + res);
+}
+
+void XMLAppendRaw(std::vector<Bit8u>& buf, size_t len, const char* str)
+{
+	buf.resize(buf.size() + len);
+	memcpy(&buf[buf.size() - len], str, len);
+}
+
+void XMLAppendEscaped(std::vector<Bit8u>& buf, size_t len, const char* str)
+{
+	for (; len--; str++)
+		if (*str == '&') XMLAppendRaw(buf, 5, "&amp;");
+		else if (*str == '<') XMLAppendRaw(buf, 4, "&lt;");
+		else if (*str == '>') XMLAppendRaw(buf, 4, "&gt;");
+		else buf.push_back((Bit8u)*str);
 }
 
 void ListCHDTracks(std::vector<Bit8u>& line, const Bit8u* chd_data, size_t chd_size)
@@ -432,13 +447,13 @@ void ListCHDTracks(std::vector<Bit8u>& line, const Bit8u* chd_data, size_t chd_s
 		Bit32u trackcrc32 = CRC32(track_data, (size_t)track_size);
 		free(track_data);
 
-		AppendPrintf(line, 200, "			<track number=\"%d\" type=\"%s\" frames=\"%d\" pregap=\"%d\" duration=\"%02d:%02d:%02d\" size=\"%u\"",
+		XMLAppendRawF(line, 200, "			<track number=\"%d\" type=\"%s\" frames=\"%d\" pregap=\"%d\" duration=\"%02d:%02d:%02d\" size=\"%u\"",
 			mt_track_no, mt_type, mt_frames, mt_pregap, (mt_frames/75/60), (mt_frames/75)%60, mt_frames%75, (Bit32u)track_size);
-		AppendPrintf(line, 21, " crc=\"%08x\" md5=\"", trackcrc32);
-		for (int md5i = 0; md5i != 16; md5i++) AppendPrintf(line, 2, "%02x", trackmd5[md5i]);
-		AppendPrintf(line, 8, "\" sha1=\"");
-		for (int sha1i = 0; sha1i != 20; sha1i++) AppendPrintf(line, 2, "%02x", tracksha1[sha1i]);
-		AppendPrintf(line, 4, "\"/>\n");
+		XMLAppendRawF(line, 21, " crc=\"%08x\" md5=\"", trackcrc32);
+		for (int md5i = 0; md5i != 16; md5i++) XMLAppendRawF(line, 2, "%02x", trackmd5[md5i]);
+		XMLAppendRawF(line, 8, "\" sha1=\"");
+		for (int sha1i = 0; sha1i != 20; sha1i++) XMLAppendRawF(line, 2, "%02x", tracksha1[sha1i]);
+		XMLAppendRaw(line, 4, "\"/>\n");
 	}
 
 	free(chd_hunkmap);
@@ -525,27 +540,27 @@ int main(int argc, char *argv[])
 			free(tmp);
 		}
 
-		printf("	<game name=\"%.*s%s\">\n", (int)((ext ? ext : pathend) - fname), fname, (ext && (ext[4]|0x20) == 'c' ? ".dosc" : ".dosz"));
-		printf("		<description>%.*s</description>\n", (int)(fname_gameend-fname), fname);
+		std::vector<Bit8u> gametag;
+		XMLAppendRaw(gametag, 13, "	<game name=\""); XMLAppendEscaped(gametag, ((ext ? ext : pathend)-fname), fname); XMLAppendRaw(gametag, 8, (ext && (ext[4]|0x20) == 'c' ? ".dosc\">\n" : ".dosz\">\n"));
+		XMLAppendRaw(gametag, 15, "		<description>"); XMLAppendEscaped(gametag, (fname_gameend-fname), fname); XMLAppendRaw(gametag, 15, "</description>\n");
 		if (fTXT)
 		{
-			char c;
-			printf("		<comment>");
-			while (fread(&c, 1, 1, fTXT)) printf("%c", (c < ' ' ? ' ' : c));
-			printf("</comment>\n");
+			XMLAppendRaw(gametag, 11, "		<comment>");
+			for (int n, c[4]; (n = fread(c, 1, sizeof(c), fTXT)) != 0;) XMLAppendEscaped(gametag, n, (char*)c);
+			XMLAppendRaw(gametag, 11, "</comment>\n");
 			fclose(fTXT);
 		}
 		if (fDOSCTXT)
 		{
-			char c;
-			printf("		<comment_dosc>");
-			while (fread(&c, 1, 1, fDOSCTXT)) printf("%c", (c < ' ' ? ' ' : c));
-			printf("</comment_dosc>\n");
+			XMLAppendRawF(gametag, 16, "		<comment_dosc>");
+			for (int n, c[4]; (n = fread(c, 1, sizeof(c), fDOSCTXT)) != 0;) XMLAppendEscaped(gametag, n, (char*)c);
+			XMLAppendRawF(gametag, 16, "</comment_dosc>\n");
 			fclose(fDOSCTXT);
 		}
-		if (year >= 1970) printf("		<year>%d</year>\n", year);
-		if (developer) printf("		<developer>%.*s</developer>\n", (int)(developerEd-developer), developer);
-		if (variant)   printf("		<variant>%.*s</variant>\n", (int)(variantEd-variant), variant);
+		if (year >= 1970 && year <= 9999) XMLAppendRawF(gametag, 20, "		<year>%d</year>\n", year);
+		if (developer) { XMLAppendRaw(gametag, 13, "		<developer>"); XMLAppendEscaped(gametag, (developerEd-developer), developer); XMLAppendRaw(gametag, 13, "</developer>\n"); }
+		if (variant)   { XMLAppendRaw(gametag, 11, "		<variant>"); XMLAppendEscaped(gametag, (variantEd-variant), variant); XMLAppendRaw(gametag, 11, "</variant>\n"); }
+		printf("%.*s", (unsigned)gametag.size(), (char*)&gametag[0]);
 
 		Zip_Archive archive(fZIP);
 
@@ -690,24 +705,26 @@ int main(int argc, char *argv[])
 			// Terminate file name with \b for sorting below (is changed to " during output)
 			roms.push_back(std::vector<Bit8u>());
 			std::vector<Bit8u>& line = roms.back();
-			AppendPrintf(line, 15+filename_len, "		<rom name=\"%.*s%s\b", (int)filename_len, name, ((is_dir && name[filename_len - 1] != '/') ? "/" : ""));
-			AppendPrintf(line, 40, " size=\"%u\" crc=\"%08x\" md5=\"", (unsigned)decomp_size, crc32);
-			for (int md5i = 0; md5i != 16; md5i++) AppendPrintf(line, 2, "%02x", md5[md5i]);
-			AppendPrintf(line, 8, "\" sha1=\"");
-			for (int sha1i = 0; sha1i != 20; sha1i++) AppendPrintf(line, 2, "%02x", sha1[sha1i]);
+			XMLAppendRaw(line, 13, "		<rom name=\"");
+			XMLAppendEscaped(line, filename_len, name);
+			if (is_dir && name[filename_len - 1] != '/') line.push_back('/');
+			XMLAppendRawF(line, 41, "\b size=\"%u\" crc=\"%08x\" md5=\"", (unsigned)decomp_size, crc32);
+			for (int md5i = 0; md5i != 16; md5i++) XMLAppendRawF(line, 2, "%02x", md5[md5i]);
+			XMLAppendRaw(line, 8, "\" sha1=\"");
+			for (int sha1i = 0; sha1i != 20; sha1i++) XMLAppendRawF(line, 2, "%02x", sha1[sha1i]);
 			if (file_date || file_time)
-				AppendPrintf(line, 27, "\" date=\"%04d-%02d-%02d %02d:%02d:%02d", ((file_date >> 9) + 1980), ((file_date >> 5) & 0xf), (file_date & 0x1f), (file_time >> 11), ((file_time >> 5) & 0x3f), ((file_time & 0x1f) * 2));
+				XMLAppendRawF(line, 27, "\" date=\"%04d-%02d-%02d %02d:%02d:%02d", ((file_date >> 9) + 1980), ((file_date >> 5) & 0xf), (file_date & 0x1f), (file_time >> 11), ((file_time >> 5) & 0x3f), ((file_time & 0x1f) * 2));
 
 			// If this is a CHD file, print out track information
 			if (filename_len > 4 && !strncasecmp(name + filename_len - 4, ".chd", 4))
 			{
-				AppendPrintf(line, 3, "\">\n");
+				XMLAppendRaw(line, 3, "\">\n");
 				ListCHDTracks(line, mem_ptr, (size_t)decomp_size);
-				AppendPrintf(line, 9, "		</rom>\n");
+				XMLAppendRaw(line, 9, "		</rom>\n");
 			}
 			else
 			{
-				AppendPrintf(line, 4, "\"/>\n");
+				XMLAppendRaw(line, 4, "\"/>\n");
 			}
 		}
 		free(m_central_dir);
