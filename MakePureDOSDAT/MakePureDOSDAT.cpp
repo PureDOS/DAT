@@ -407,7 +407,6 @@ void ListCHDTracks(std::vector<Bit8u>& line, const Bit8u* chd_data, size_t chd_s
 			&mt_track_no, mt_type, mt_subtype, &mt_frames, &mt_pregap) < 4) continue;
 
 		// In CHD files tracks are padded to a to a 4-sector boundary.
-		track_frame += mt_pregap;
 		track_frame += ((CD_TRACK_PADDING - (track_frame % CD_TRACK_PADDING)) % CD_TRACK_PADDING);
 
 		// Read track data and calculate hashes (CHD sectorSize is always 2448, data_size is based on chdman source)
