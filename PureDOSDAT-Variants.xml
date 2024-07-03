@@ -4,12 +4,20 @@
 	<header>
 		<name>Pure DOS DAT Variants</name>
 		<description>DOS Game Variants</description>
-		<version>2023-12-26 00-00-00</version>
-		<date>2023-12-26 00-00-00</date>
+		<version>2024-07-03 00-00-00</version>
+		<date>2024-07-03 00-00-00</date>
 		<author>Pure DOS DAT</author>
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
-	</header>
+  	</header>
+  	<game name="Caesar (1992) (Impressions Games) (Installation).dosz">
+		<description>Caesar</description>
+		<year>1992</year>
+		<developer>Impressions Games</developer>
+		<variant>Installation</variant>
+		<rom name="Caesar (USA).bin" size="2843568" crc="c91ddc42" md5="43c1b816d440b9a640c45f0392926f80" sha1="10aec44bf9f2d0ef7f89b500a598e74039688c19"/>
+		<rom name="Caesar (USA).cue" size="101" crc="88d7ee2e" md5="84415c8164d8d7d8d3c9871a36a8edf2" sha1="5f24e2a05d920232488e2e587722e9379fa97af3"/>
+	</game>
 	<game name="Monkey Island 2 - LeChuck's Revenge (1991) (Lucasfilm Games) (Installation).dosz">
 		<description>Monkey Island 2 - LeChuck's Revenge</description>
 		<year>1991</year>
