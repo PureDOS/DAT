@@ -12,11 +12,13 @@
   	</header>
   	<game name="Caesar (1992) (Impressions Games) (Installation).dosz">
 		<description>Caesar</description>
+		<comment>SierraOriginals CD re-release from 1995</comment>
 		<year>1992</year>
 		<developer>Impressions Games</developer>
 		<variant>Installation</variant>
-		<rom name="Caesar (USA).bin" size="2843568" crc="c91ddc42" md5="43c1b816d440b9a640c45f0392926f80" sha1="10aec44bf9f2d0ef7f89b500a598e74039688c19"/>
-		<rom name="Caesar (USA).cue" size="101" crc="88d7ee2e" md5="84415c8164d8d7d8d3c9871a36a8edf2" sha1="5f24e2a05d920232488e2e587722e9379fa97af3"/>
+		<rom name="Caesar (USA).chd" size="2996352" crc="c7f4cac9" md5="85914cc00c2ff6ce0e70ab8da6681d46" sha1="9c33f227ff4054373e6b66042b125f0ac43a7dfe">
+			<track number="1" type="MODE1_RAW" frames="1209" pregap="0" duration="00:16:09" size="2843568" crc="c91ddc42" md5="43c1b816d440b9a640c45f0392926f80" sha1="10aec44bf9f2d0ef7f89b500a598e74039688c19"/>
+		</rom>
 	</game>
 	<game name="Monkey Island 2 - LeChuck's Revenge (1991) (Lucasfilm Games) (Installation).dosz">
 		<description>Monkey Island 2 - LeChuck's Revenge</description>
