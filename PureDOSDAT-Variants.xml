@@ -32,19 +32,20 @@
 		<rom name="disk4.img" size="1474560" crc="eaccbf49" md5="bcadceb2bd764084ae1b1154302d4d2f" sha1="55186766f3953759686383cb6abfbec2e5bbc9c3"/>
 		<rom name="disk5.img" size="1474560" crc="fddb2a3a" md5="ae25cfa9f49894e5e0891104f43746ae" sha1="3a6abe5d401c13743a0d76ee2085945fff79e389"/>
 	</game>
-	<game name="Warcraft - Orcs & Humans (1994) (Blizzard Entertainment) (Installation).dosz">
-		<description>Warcraft - Orcs & Humans</description>
+	<game name="Warcraft - Orcs &amp; Humans (1994) (Blizzard Entertainment) (Installation).dosz">
+		<description>Warcraft - Orcs &amp; Humans</description>
 		<year>1994</year>
 		<developer>Blizzard Entertainment</developer>
 		<variant>Installation</variant>
-		<rom name="WarCraft - Orcs & Humans (USA) (Rerelease) (1996-10-13) (Track 1).bin" size="313874400" crc="aaad48f1" md5="6dc5d021bf0271517184ced84863355b" sha1="12821639d94417a48f39ab2a9b8486368a19c6bc"/>
-		<rom name="WarCraft - Orcs & Humans (USA) (Rerelease) (1996-10-13) (Track 2).bin" size="8747088" crc="b5bac361" md5="89a5ce631415f746af14d45f87e6f1b8" sha1="65478801fcd0f568279573a2f4537f4d6c65ffb3"/>
-		<rom name="WarCraft - Orcs & Humans (USA) (Rerelease) (1996-10-13) (Track 3).bin" size="44417520" crc="2dae0380" md5="1193e467a96b63c7209189e6c2fca676" sha1="fec7d31b5e51e0bb64c3555e3cd1c7712b6c1e1f"/>
-		<rom name="WarCraft - Orcs & Humans (USA) (Rerelease) (1996-10-13) (Track 4).bin" size="40023984" crc="a882a224" md5="c7f2b90d76dd00b11c5c54e85b153b1e" sha1="23ca65b79223af51fa817da66d8997678a63c903"/>
-		<rom name="WarCraft - Orcs & Humans (USA) (Rerelease) (1996-10-13) (Track 5).bin" size="39191376" crc="9d96c69e" md5="809d34a4bb4ec11d9cb7d2612c33f523" sha1="8399957949918994b00cc55492ac5e9802700781"/>
-		<rom name="WarCraft - Orcs & Humans (USA) (Rerelease) (1996-10-13) (Track 6).bin" size="40456752" crc="6df9cb0b" md5="f6fdecb195495f4361e4fd10cb1ec814" sha1="d1e61e0b770de2ab523c66b7f9b2c83c194ce34e"/>
-		<rom name="WarCraft - Orcs & Humans (USA) (Rerelease) (1996-10-13) (Track 7).bin" size="38459904" crc="03a04050" md5="91572bec099bf08e29a254d96be6f2c3" sha1="ab1ca0881d21f24cfb1eea8302cacc72cc5dce4a"/>
-		<rom name="WarCraft - Orcs & Humans (USA) (Rerelease) (1996-10-13) (Track 8).bin" size="41816208" crc="53e0141c" md5="5d7ca6b788c30b78c7ae456d391c6d3e" sha1="07d2a9d51fa6742ff6430d5057e81650e80d94be"/>
-		<rom name="WarCraft - Orcs & Humans (USA) (Rerelease) (1996-10-13).cue" size="1036" crc="c32799d5" md5="bc3837200c61aef57503ea9e6eddfe35" sha1="bf02478d40763f81c3fc128afdc4bf1cd08a2c37"/>
+		<rom name="WarCraft - Orcs &amp; Humans (USA) (Rerelease) (1996-10-13).chd" size="582173568" crc="b8b3c879" md5="c26ff4b7eea501508043b9b5d731f4e9" sha1="4dc9030e0546bb73ac1617c307a4aa61f7e45805">
+			<track number="1" type="MODE1_RAW" frames="133450" pregap="0" duration="29:39:25" size="313874400" crc="aaad48f1" md5="6dc5d021bf0271517184ced84863355b" sha1="12821639d94417a48f39ab2a9b8486368a19c6bc" in_zeros="1" out_zeros="0"/>
+			<track number="2" type="AUDIO" frames="3719" pregap="150" duration="00:49:44" size="8747088" crc="b5bac361" md5="89a5ce631415f746af14d45f87e6f1b8" sha1="65478801fcd0f568279573a2f4537f4d6c65ffb3" in_zeros="371986" out_zeros="1057211"/>
+			<track number="3" type="AUDIO" frames="18885" pregap="0" duration="04:11:60" size="44417520" crc="2dae0380" md5="1193e467a96b63c7209189e6c2fca676" sha1="fec7d31b5e51e0bb64c3555e3cd1c7712b6c1e1f" in_zeros="20358" out_zeros="1055138"/>
+			<track number="4" type="AUDIO" frames="17017" pregap="0" duration="03:46:67" size="40023984" crc="a882a224" md5="c7f2b90d76dd00b11c5c54e85b153b1e" sha1="23ca65b79223af51fa817da66d8997678a63c903" in_zeros="20194" out_zeros="1059727"/>
+			<track number="5" type="AUDIO" frames="16663" pregap="0" duration="03:42:13" size="39191376" crc="9d96c69e" md5="809d34a4bb4ec11d9cb7d2612c33f523" sha1="8399957949918994b00cc55492ac5e9802700781" in_zeros="21250" out_zeros="1058329"/>
+			<track number="6" type="AUDIO" frames="17201" pregap="0" duration="03:49:26" size="40456752" crc="6df9cb0b" md5="f6fdecb195495f4361e4fd10cb1ec814" sha1="d1e61e0b770de2ab523c66b7f9b2c83c194ce34e" in_zeros="19714" out_zeros="1060757"/>
+			<track number="7" type="AUDIO" frames="16352" pregap="0" duration="03:38:02" size="38459904" crc="03a04050" md5="91572bec099bf08e29a254d96be6f2c3" sha1="ab1ca0881d21f24cfb1eea8302cacc72cc5dce4a" in_zeros="21266" out_zeros="1073089"/>
+			<track number="8" type="AUDIO" frames="17779" pregap="0" duration="03:57:04" size="41816208" crc="53e0141c" md5="5d7ca6b788c30b78c7ae456d391c6d3e" sha1="07d2a9d51fa6742ff6430d5057e81650e80d94be" in_zeros="18942" out_zeros="1055089"/>
+		</rom>
 	</game>
 </datafile>
