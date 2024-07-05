@@ -1895,7 +1895,7 @@
 	<game name="Warcraft II - Tides of Darkness + Beyond the Dark Portal (1996) (Blizzard Entertainment).dosz">
 		<description>Warcraft II - Tides of Darkness + Beyond the Dark Portal</description>
 		<comment>Main game with expansion v1.33 installed from CD rereleases, CD images made from BIN/CUE</comment>
-		<comment_dosc>CD path and sound config</comment_dosc>
+		<comment_dosc>Sound config</comment_dosc>
 		<year>1996</year>
 		<developer>Blizzard Entertainment</developer>
 		<rom name="ALAMO.PUD" size="71902" crc="dd714468" md5="4b5cf9bdc9820045e00aa0809a93b77c" sha1="cac77b156bfb19dc256e9a8377629809e3a7db6e"/>
@@ -2033,13 +2033,14 @@
 		<rom name="SFXED95.EXE" size="23040" crc="90de9ae6" md5="2442094ff743a8ee2cca839e965d92e2" sha1="12d9895f638e5acb24a58006d5faa6162ad3bb7a"/>
 		<rom name="UVCONFIG.EXE" size="260250" crc="3731ecd2" md5="43e7d6c9a606c9d3c7f703e2056fdb1b" sha1="3c4c61563ab6df1fb145b05c925b178095c83ea9"/>
 		<rom name="WAR2.EXE" size="900539" crc="f8d6360e" md5="262b0b342721ca257fdcda137b6d72ad" sha1="b0996a8966190377d4f5bce987ba07bea6bfc481"/>
+		<rom name="WAR2.INI" size="365" crc="1213a8e0" md5="195e9e67a54dd65b07a922b760f2027f" sha1="eed37c196bd7ea731c940112cd4b4e82a12f1e47"/>
 		<rom name="WAR2.PIF" size="967" crc="25e8d2ca" md5="782379eb530521f08327c78de2403b57" sha1="f95fc40f297c477a985aea0aaec3e3e4d0c93b2b"/>
 		<rom name="WAR2ED95.EXE" size="370176" crc="9cb1effd" md5="7fdd803eb69affffe08990cd8e66008d" sha1="c01b3a87c47c56e4cea8b38c14e97402d123943d"/>
 		<rom name="WAR2ED95.HLP" size="70025" crc="61717575" md5="ff8e969ecacd486564ad5b7851a59fd6" sha1="73ed6e24e293578acc1a16dd8b545ac1dbe0b03e"/>
 		<rom name="WAR2EDIT.EXE" size="11264" crc="59a87a0f" md5="94542a0a0d03ea7f2b5884cb77626f7c" sha1="0b041e4a7307798681498f830fcfff4f834e0b15"/>
 		<rom name="WAR2ICON.DLL" size="15360" crc="cf8fd9fd" md5="340e6d0d9c2941531e078b692e7f7abc" sha1="70e1a5be0f94f034a466e28f3162ead4d586d6ab"/>
 		<rom name="WAR2KALI.EXE" size="3376" crc="f0b46eb2" md5="6432f373331845d92c2af7abac97d338" sha1="0fc6bef0f1653c1d85e8439feffd074a98b0bb2f"/>
-		<rom name="WC2BTDP.chd" size="745699968" crc="83b86dc4" md5="dfe6788b9987f6f936c54ecd03dfdff3" sha1="05738612d8453846700ca4d4a36feb23b8691c25">
+		<rom name="Warcraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09).chd" size="745699968" crc="83b86dc4" md5="dfe6788b9987f6f936c54ecd03dfdff3" sha1="05738612d8453846700ca4d4a36feb23b8691c25">
 			<track number="1" type="MODE1_RAW" frames="89405" pregap="0" duration="19:52:05" size="210280560" crc="18fb96e8" md5="a786cd34c4945d5ce932cbe06f9e1959" sha1="a2419eded71d9e013711977b71361c1f678f9abd" in_zeros="1" out_zeros="0"/>
 			<track number="2" type="AUDIO" frames="602" pregap="150" duration="00:08:02" size="1415904" crc="afe8ab5c" md5="2a79497726bdc49ba59c756a092bf9cb" sha1="944037ebec20fc40d858631a2243b4fb86beb51e" in_zeros="1415904" out_zeros="1415904"/>
 			<track number="3" type="AUDIO" frames="29309" pregap="0" duration="06:30:59" size="68934768" crc="a878e778" md5="b4a9464ba2fc726bde8f72b974c08bab" sha1="6622ae17d3fb4feda6afaf91ae795a4ff03d2ee6" in_zeros="7776" out_zeros="719088"/>
@@ -2059,7 +2060,7 @@
 			<track number="17" type="AUDIO" frames="3419" pregap="0" duration="00:45:44" size="8041488" crc="2f60ea52" md5="e20a09df03ddf1c8077ce6b2c1eadb3a" sha1="d312f3e3f6aec016641377b825c735999a891f2a" in_zeros="7792" out_zeros="715801"/>
 			<track number="18" type="AUDIO" frames="10355" pregap="0" duration="02:18:05" size="24354960" crc="3550d756" md5="133a174ef15f178832850c52437e40c2" sha1="cf7830d058fcd94ed39b95f78288b522cb9cc225" in_zeros="7776" out_zeros="707242"/>
 		</rom>
-		<rom name="WC2TOD.chd" size="695349504" crc="a61956f7" md5="9c126e8b88c2692150c203829954aa3c" sha1="6f0734edb93e22603528b7a72f15a2536288ed77">
+		<rom name="Warcraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05).chd" size="695349504" crc="a61956f7" md5="9c126e8b88c2692150c203829954aa3c" sha1="6f0734edb93e22603528b7a72f15a2536288ed77">
 			<track number="1" type="MODE1_RAW" frames="101997" pregap="0" duration="22:39:72" size="239896944" crc="697d7350" md5="e501a3ab84f7d974056fabe4535dc622" sha1="e5197f073219536fab896b68d26dfa1f8ce5fe5c" in_zeros="1" out_zeros="0"/>
 			<track number="2" type="AUDIO" frames="602" pregap="150" duration="00:08:02" size="1415904" crc="afe8ab5c" md5="2a79497726bdc49ba59c756a092bf9cb" sha1="944037ebec20fc40d858631a2243b4fb86beb51e" in_zeros="1415904" out_zeros="1415904"/>
 			<track number="3" type="AUDIO" frames="16520" pregap="0" duration="03:40:20" size="38855040" crc="53e94ac2" md5="99e3d65cec3a00794270323984df42da" sha1="55371d426d87676c2a399c180de0543dcaa65078" in_zeros="14380" out_zeros="1069124"/>
