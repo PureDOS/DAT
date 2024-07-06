@@ -62,6 +62,16 @@
 		<rom name="disk4.img" size="1474560" crc="eaccbf49" md5="bcadceb2bd764084ae1b1154302d4d2f" sha1="55186766f3953759686383cb6abfbec2e5bbc9c3"/>
 		<rom name="disk5.img" size="1474560" crc="fddb2a3a" md5="ae25cfa9f49894e5e0891104f43746ae" sha1="3a6abe5d401c13743a0d76ee2085945fff79e389"/>
 	</game>
+	<game name="Sid Meier's Railroad Tycoon (1990) (MPS Labs) (Installation).dosz">
+		<description>Sid Meier's Railroad Tycoon</description>
+		<comment>v455.03 1995 re-release CD</comment>
+		<year>1990</year>
+		<developer>MPS Labs</developer>
+		<variant>Installation</variant>
+		<rom name="Sid Meier's Railroad Tycoon (USA) (Rerelease).chd" size="112666752" crc="e5160b67" md5="66ef6b6837d23cb29605760786ec5f37" sha1="2618fe210659460a54dcdc0aa1a725360e932fe0">
+			<track number="1" type="MODE1_RAW" frames="46008" pregap="0" duration="10:13:33" size="108210816" crc="256548cb" md5="1cda6c4279533aa29514af69580987e1" sha1="7a6ba155ae31fe39e2396ab67e5798108b7f8a8d" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
 	<game name="Theme Hospital (1997) (Bullfrog Productions) (Extracted).dosz">
 		<description>Theme Hospital</description>
 		<comment>Max install from EU/AU Beta Five 13-5-9 CD-ROM with extracted CD contents identical to GOG release</comment>
