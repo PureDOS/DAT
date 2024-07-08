@@ -62,6 +62,24 @@
 		<rom name="disk4.img" size="1474560" crc="eaccbf49" md5="bcadceb2bd764084ae1b1154302d4d2f" sha1="55186766f3953759686383cb6abfbec2e5bbc9c3"/>
 		<rom name="disk5.img" size="1474560" crc="fddb2a3a" md5="ae25cfa9f49894e5e0891104f43746ae" sha1="3a6abe5d401c13743a0d76ee2085945fff79e389"/>
 	</game>
+	<game name="Ultimate Doom, The (1995) (id Software) (GOG).dosz">
+		<description>Ultimate Doom, The</description>
+		<comment_dosc>Default GOG config</comment_dosc>
+		<year>1995</year>
+		<developer>id Software</developer>
+		<variant>GOG</variant>
+		<rom name="dm.dat" size="1114" crc="62c3d5a2" md5="69cdbee71b551dd5fd1c7bd2d5ca7d45" sha1="1e69b76c69043e2513a66b3c2c4cbe7692cc9871"/>
+		<rom name="DM.DOC" size="6397" crc="e272977c" md5="fb4bbd49248f37d0fb63766c34b73093" sha1="b9ca766d0fe156366359724fce97b6092e8960ac"/>
+		<rom name="DM.EXE" size="34815" crc="08f3cbc5" md5="ea9928974c35cfe74879d8a72ac9df29" sha1="c2d24dd853dbd72ce910fb167a762766bf4e04a8"/>
+		<rom name="DOOM.EXE" size="715493" crc="b5ceb8ac" md5="742a5f9953871687341e3794468894d8" sha1="64e6df0ee478868b42d5eb7d443430283b0ddc0c"/>
+		<rom name="DOOM.WAD" size="12408292" crc="bf0eaac0" md5="c4fe9fd920207691a9f493668e0a2083" sha1="9b07b02ab3c275a6a7570c3f73cc20d63a0e3833"/>
+		<rom name="IPXSETUP.EXE" size="18051" crc="8bf1d4d4" md5="7000e71566d8a50848a68969ec9c3b75" sha1="c76c6eb16dd2d27acfd8da049d0727744381095b"/>
+		<rom name="MODEM.CFG" size="67" crc="e4f84b43" md5="e807d9a94ecc7d3f015c45fce1699666" sha1="e5f8d54b59c60462ff62749f8f02b6574e054902"/>
+		<rom name="MODEM.NUM" size="67" crc="264c0c20" md5="7557fff62c050a1d354d6d56cf6bf6b9" sha1="1f57a9324b83d6335a88083c63b8b40f334b6d29"/>
+		<rom name="MODEM.STR" size="3405" crc="a320697b" md5="7294d0d7a6a6bdf653f2164dcb42b75a" sha1="2fcebfce4a22c717357879f8051f9799fa4c06e3"/>
+		<rom name="SERSETUP.EXE" size="20257" crc="6f8c2806" md5="573d6f784c0ca293383b6737b2a8e2c5" sha1="c34e1d9bbfcdcd8868fb4141201d3d02473c0fe1"/>
+		<rom name="SETUP.EXE" size="46665" crc="9a6be6d8" md5="729df5c0727cd290c1c34ffd29a04490" sha1="4664dbf04047a7b1733fed3654e6dd6b25b1613a"/>
+	</game>
 	<game name="Ultimate Doom, The (1995) (id Software) (Installation).dosz">
 		<description>Ultimate Doom, The</description>
 		<year>1995</year>
@@ -70,6 +88,15 @@
 		<rom name="Ultimate Doom, The (USA).chd" size="28005120" crc="552628d8" md5="9800ed15c1acba4bc379bd3cf1bcb89d" sha1="e6c7c8e1f23cb76ef432349c4261fe5abfc406ef">
 			<track number="1" type="MODE1_RAW" frames="11431" pregap="0" duration="02:32:31" size="26885712" crc="a9898633" md5="f0e687b879e13e9b230b47ba28288468" sha1="5de4c416ed6b25324120ad0ba4f7a26bc51a4190" in_zeros="1" out_zeros="0"/>
 		</rom>
+	</game>
+	<game name="Ultimate Doom, The (1995) (id Software) (Steam).dosz">
+		<description>Ultimate Doom, The</description>
+		<comment_dosc>Default Steam config</comment_dosc>
+		<year>1995</year>
+		<developer>id Software</developer>
+		<variant>Steam</variant>
+		<rom name="DOOM.EXE" size="715493" crc="b5ceb8ac" md5="742a5f9953871687341e3794468894d8" sha1="64e6df0ee478868b42d5eb7d443430283b0ddc0c" date="2023-09-05 13:14:42"/>
+		<rom name="DOOM.WAD" size="12408292" crc="bf0eaac0" md5="c4fe9fd920207691a9f493668e0a2083" sha1="9b07b02ab3c275a6a7570c3f73cc20d63a0e3833" date="2023-09-05 13:14:42"/>
 	</game>
 	<game name="Warcraft - Orcs &amp; Humans (1994) (Blizzard Entertainment) (Installation).dosz">
 		<description>Warcraft - Orcs &amp; Humans</description>
