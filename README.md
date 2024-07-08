@@ -16,11 +16,25 @@ This is the DAT file which can be loaded in a ROM management tool to verify and 
 Depending on your Windows or .NET installation, you might want to use [version 3.2.5](https://www.romvault.com/download/ROMVault_V3.2.5.zip) or the latest available.
 
 While working with a ROM manager, the files will need to be named .DOSZ.ZIP and .DOSC.ZIP.
-To do this easily in Windows, create a file _swap_zip_extension.bat with the content:
+To do this easily in Windows, create a file named `_swap_zip_extension.bat` with the content:
 ```bat
 IF EXIST *.DOSZ ( ren *.dosz *.dosz.zip & ren *.dosc *.dosc.zip ) ELSE ( ren *.dosz.zip *. & ren *.dosc.zip *. )
 ```
+Alternatively as a shell script:
+```sh
+#!/bin/sh
 
+if ls -- *.dosz > /dev/null 2>&1
+then
+    for file in *.dosz *.dosc
+    do mv "$file" "$file".zip
+    done
+else
+    for file in *.zip
+    do rename ".zip" "" "$file"
+    done
+fi
+```
 ### PureDOSDAT-Variants.xml
 Similar to the primary file this contains secondary variants of game packages which includes regional variants as well as original installation media.
 
