@@ -1614,18 +1614,22 @@
 	</game>
 	<game name="Quake (1996) (id Software).dosz">
 		<description>Quake</description>
-		<comment>Installed v1.8 from CD</comment>
-		<comment_dosc>No game config, DOS.YML for auto-run</comment_dosc>
+		<comment>Installed v1.8 from Quake: The Offering CD, WinQuake and GLQuake files removed</comment>
+		<comment_dosc>Default config</comment_dosc>
 		<year>1996</year>
 		<developer>id Software</developer>
 		<rom name="CWSDPMI.EXE" size="25920" crc="4fc60ecd" md5="cdba7e5b5050d3f3be9ddaf79a943ed4" sha1="d7a811b9d2f887dc94e145ce80dd9ced5fdf1548" date="1996-09-26 12:07:22"/>
 		<rom name="DOCS/DOS/COMEXP.TXT" size="25462" crc="68bda64a" md5="0575bbd0df753f6e44b7a0f67ffc1413" sha1="606c21d258d58823a605fc20f5c45600d9b0ffb0" date="1996-07-12 17:31:50"/>
+		<rom name="DOCS/DOS/HELP.TXT" size="9510" crc="ec075939" md5="be86e294465931e700eeac0539ccdb51" sha1="3945b34a83af2acce1a233bc03f7f277302975c0" date="1998-09-16 13:04:36"/>
+		<rom name="DOCS/DOS/LICENSE.TXT" size="14554" crc="a5a1215a" md5="be58e6beab67da309eabc3a4048e943f" sha1="5154fe8f92a174b273152bfbe24aad6668ffb980" date="1998-09-17 19:31:28"/>
 		<rom name="DOCS/DOS/LICINFO.TXT" size="9308" crc="53dc674a" md5="0f77362a55b35e623d9f4710ed86cda7" sha1="130760d7c88c66bdbfae26e5a75aecdf783532f9" date="1996-10-29 16:33:10"/>
 		<rom name="DOCS/DOS/MANUAL.TXT" size="39341" crc="efaab6f8" md5="16823ee496b1e315fa7a2561393f816f" sha1="cee7df229bca857462d00c1f4280460ae74cc43a" date="1996-10-29 19:24:44"/>
 		<rom name="DOCS/DOS/ORDER.TXT" size="5654" crc="53119f69" md5="02afa1f00f8372b2dc1bc28ac2af94db" sha1="3883c4a6969a10d02de414f46e49a0791d209cf5" date="1996-11-02 17:09:32"/>
+		<rom name="DOCS/DOS/README.TXT" size="9729" crc="68439b0b" md5="78d545344bdd390b8407ad8b6bef9261" sha1="a77229305eeb0fe524ba0ad40de2e638d8c050eb" date="1998-09-21 14:46:16"/>
 		<rom name="DOCS/DOS/TECHINFO.TXT" size="72454" crc="bc82690e" md5="ce3466883b6012f39a4b82e214dcbb37" sha1="4526db82113ba62e34c6b08f284e97cf73d98f4e" date="1996-10-31 16:18:52"/>
+		<rom name="DOCS/QUAKE.CNT" size="1394" crc="ee0acce3" md5="ebe85b3e57c0314e53e2a52b360747e3" sha1="c9a1470bc939cec2dbb9ad8f72b35b151192c893" date="1998-09-16 16:51:00"/>
+		<rom name="DOCS/QUAKE.HLP" size="2142857" crc="a26eb96d" md5="a78512171c7392bf35cd1177ef7ecd62" sha1="0ee8004c53bf2e2ba1de8d0f26fb08081159b61e" date="1998-09-18 11:44:38"/>
 		<rom name="GENVXD.DLL" size="17408" crc="d870380f" md5="66b04b2cf4025111d94e3821fec0eec0" sha1="a0a3de2bc065cf57e3d4733324a43b1e606de0f1" date="1996-09-26 12:07:22"/>
-		<rom name="ID1/CONFIG.CFG" size="2018" crc="6a7f3db6" md5="b51a946220f23460455862d0bcae9c85" sha1="baa9fc37de3f00500cd574ca0a4484058edf5cf2" date="1997-10-09 14:29:02"/>
 		<rom name="ID1/PAK0.PAK" size="18689235" crc="74e3b084" md5="5906e5998fc3d896ddaf5e6a62e03abb" sha1="36b42dc7b6313fd9cabc0be8b9e9864840929735" date="1996-10-01 14:25:58"/>
 		<rom name="ID1/PAK1.PAK" size="34257856" crc="2e803216" md5="d76b3e5678f0b64ac74ce5e340e6a685" sha1="6fd0d1643047612f41afb2001b972d830c792921" date="1996-07-12 17:31:52"/>
 		<rom name="MGENVXD.VXD" size="9883" crc="6fa6e02a" md5="4c7fc48ca4d16f4efbcf176c4eb0538e" sha1="2b085ce2c72e1fe5f37683192ffda2d99d8582e2" date="1996-09-26 12:07:22"/>
