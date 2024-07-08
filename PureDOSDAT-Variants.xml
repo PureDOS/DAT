@@ -20,6 +20,25 @@
 			<track number="1" type="MODE1_RAW" frames="1209" pregap="0" duration="00:16:09" size="2843568" crc="c91ddc42" md5="43c1b816d440b9a640c45f0392926f80" sha1="10aec44bf9f2d0ef7f89b500a598e74039688c19"/>
 		</rom>
 	</game>
+	<game name="Doom II (1994) (id Software) (GOG).dosz">
+		<description>Doom II</description>
+		<comment>Doom II v1.9, DeathManager v1.5</comment>
+		<comment_dosc>Default GOG config</comment_dosc>
+		<year>1994</year>
+		<developer>id Software</developer>
+		<variant>GOG</variant>
+		<rom name="dm.dat" size="975" crc="d95c5466" md5="9d8b43e8da7a648e0f865fb65d0e59ee" sha1="2c0fe8e98878ee4ed17f3c9070ef503d9f40e6c1"/>
+		<rom name="DM.EXE" size="34815" crc="08f3cbc5" md5="ea9928974c35cfe74879d8a72ac9df29" sha1="c2d24dd853dbd72ce910fb167a762766bf4e04a8"/>
+		<rom name="DOOM2.EXE" size="709905" crc="be91c727" md5="e2382b7dc47ae2433d26b6e6bc312999" sha1="aa0668fae2f743ee5e3e5634ee42d3c8ace7d907"/>
+		<rom name="DOOM2.WAD" size="14604584" crc="ec8725db" md5="25e1459ca71d321525f84628f45ca8cd" sha1="7ec7652fcfce8ddc6e801839291f0e28ef1d5ae7"/>
+		<rom name="IPXSETUP.EXE" size="18051" crc="339c813a" md5="34d66cd0ef46d0a0a14f4cf255d4b725" sha1="e4d9fc21173ed58b8b4f16f0b485d0cb3ae5a278"/>
+		<rom name="MODEM.CFG" size="67" crc="e4f84b43" md5="e807d9a94ecc7d3f015c45fce1699666" sha1="e5f8d54b59c60462ff62749f8f02b6574e054902"/>
+		<rom name="MODEM.NUM" size="67" crc="264c0c20" md5="7557fff62c050a1d354d6d56cf6bf6b9" sha1="1f57a9324b83d6335a88083c63b8b40f334b6d29"/>
+		<rom name="MODEM.STR" size="3405" crc="a320697b" md5="7294d0d7a6a6bdf653f2164dcb42b75a" sha1="2fcebfce4a22c717357879f8051f9799fa4c06e3"/>
+		<rom name="MOUSE.CFG" size="771" crc="ec2e6a86" md5="73e19f52f4ce55339d568e16b3373da8" sha1="ab863ed6c09f54dc66086f866d0044bb2255f098"/>
+		<rom name="SERSETUP.EXE" size="20257" crc="64ea3378" md5="4494aa8d1840676aa676c6aac772b2eb" sha1="f41ebfc15378d2e2d0b70e60f4349bc4a3ccc2bd"/>
+		<rom name="SETUP.EXE" size="45745" crc="0025fe95" md5="675564fcd380f5ef9beb0e7b21a51f79" sha1="f8644ace438896f9a788629d8da869bd34926f91"/>
+	</game>
 	<game name="Doom II (1994) (id Software) (Installation).dosz">
 		<description>Doom II</description>
 		<year>1994</year>
@@ -28,6 +47,16 @@
 		<rom name="Doom II (USA) (v1.9).chd" size="31824000" crc="d62437b9" md5="84de4ede7a57360a775e6a4100ed1439" sha1="cb36a4ce84926d43ff64af6b73358e4c653eb2d3">
 			<track number="1" type="MODE1_RAW" frames="12991" pregap="0" duration="02:53:16" size="30554832" crc="f167628b" md5="b06b0d9245b60cd9649413f47c43c164" sha1="208a68cc32f421dfde34a6dba2d1bff67f4b9ad7" in_zeros="1" out_zeros="0"/>
 		</rom>
+	</game>
+	<game name="Doom II (1994) (id Software) (Steam).dosz">
+		<description>Doom II</description>
+		<comment>v1.9</comment>
+		<comment_dosc>Default Steam config</comment_dosc>
+		<year>1994</year>
+		<developer>id Software</developer>
+		<variant>Steam</variant>
+		<rom name="DOOM2.EXE" size="709905" crc="be91c727" md5="e2382b7dc47ae2433d26b6e6bc312999" sha1="aa0668fae2f743ee5e3e5634ee42d3c8ace7d907" date="2023-09-06 09:52:28"/>
+		<rom name="DOOM2.WAD" size="14604584" crc="ec8725db" md5="25e1459ca71d321525f84628f45ca8cd" sha1="7ec7652fcfce8ddc6e801839291f0e28ef1d5ae7" date="2023-09-06 09:52:28"/>
 	</game>
 	<game name="Jazz Jackrabbit (1994) (Epic MegaGames) (v1.3).dosz">
 		<description>Jazz Jackrabbit</description>
