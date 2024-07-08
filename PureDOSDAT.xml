@@ -1612,6 +1612,43 @@
 		<rom name="VIZIER.DAT" size="6111" crc="6010d5ca" md5="33a910991b0afb800868b631efaca1f3" sha1="f3bbe710982bbcdb51f43ab5c97d0e23efd0f633" date="1992-04-02 13:00:02"/>
 		<rom name="VPALACE.DAT" size="14212" crc="1c712ce9" md5="cc86fb01fddb7f54b0a903314e391eff" sha1="09f261c0493c90d8fa16123c5215a881e138fa58" date="1992-04-02 13:00:02"/>
 	</game>
+	<game name="Quake (1996) (id Software).dosz">
+		<description>Quake</description>
+		<comment>Installed v1.8 from CD</comment>
+		<comment_dosc>No game config, DOS.YML for auto-run</comment_dosc>
+		<year>1996</year>
+		<developer>id Software</developer>
+		<rom name="CWSDPMI.EXE" size="25920" crc="4fc60ecd" md5="cdba7e5b5050d3f3be9ddaf79a943ed4" sha1="d7a811b9d2f887dc94e145ce80dd9ced5fdf1548" date="1996-09-26 12:07:22"/>
+		<rom name="DOCS/DOS/COMEXP.TXT" size="25462" crc="68bda64a" md5="0575bbd0df753f6e44b7a0f67ffc1413" sha1="606c21d258d58823a605fc20f5c45600d9b0ffb0" date="1996-07-12 17:31:50"/>
+		<rom name="DOCS/DOS/LICINFO.TXT" size="9308" crc="53dc674a" md5="0f77362a55b35e623d9f4710ed86cda7" sha1="130760d7c88c66bdbfae26e5a75aecdf783532f9" date="1996-10-29 16:33:10"/>
+		<rom name="DOCS/DOS/MANUAL.TXT" size="39341" crc="efaab6f8" md5="16823ee496b1e315fa7a2561393f816f" sha1="cee7df229bca857462d00c1f4280460ae74cc43a" date="1996-10-29 19:24:44"/>
+		<rom name="DOCS/DOS/ORDER.TXT" size="5654" crc="53119f69" md5="02afa1f00f8372b2dc1bc28ac2af94db" sha1="3883c4a6969a10d02de414f46e49a0791d209cf5" date="1996-11-02 17:09:32"/>
+		<rom name="DOCS/DOS/TECHINFO.TXT" size="72454" crc="bc82690e" md5="ce3466883b6012f39a4b82e214dcbb37" sha1="4526db82113ba62e34c6b08f284e97cf73d98f4e" date="1996-10-31 16:18:52"/>
+		<rom name="GENVXD.DLL" size="17408" crc="d870380f" md5="66b04b2cf4025111d94e3821fec0eec0" sha1="a0a3de2bc065cf57e3d4733324a43b1e606de0f1" date="1996-09-26 12:07:22"/>
+		<rom name="ID1/CONFIG.CFG" size="2018" crc="6a7f3db6" md5="b51a946220f23460455862d0bcae9c85" sha1="baa9fc37de3f00500cd574ca0a4484058edf5cf2" date="1997-10-09 14:29:02"/>
+		<rom name="ID1/PAK0.PAK" size="18689235" crc="74e3b084" md5="5906e5998fc3d896ddaf5e6a62e03abb" sha1="36b42dc7b6313fd9cabc0be8b9e9864840929735" date="1996-10-01 14:25:58"/>
+		<rom name="ID1/PAK1.PAK" size="34257856" crc="2e803216" md5="d76b3e5678f0b64ac74ce5e340e6a685" sha1="6fd0d1643047612f41afb2001b972d830c792921" date="1996-07-12 17:31:52"/>
+		<rom name="MGENVXD.VXD" size="9883" crc="6fa6e02a" md5="4c7fc48ca4d16f4efbcf176c4eb0538e" sha1="2b085ce2c72e1fe5f37683192ffda2d99d8582e2" date="1996-09-26 12:07:22"/>
+		<rom name="PDIPX.COM" size="26511" crc="67d084d8" md5="e5c20d96ef3e999e078623ef767c99d8" sha1="8c4e910775e8b75a28200af54676f967e7fe0ddf" date="1996-09-26 12:07:22"/>
+		<rom name="Q95.BAT" size="65" crc="81de9058" md5="508b2a9c968c3415b3752cdadad6bc19" sha1="89b8790f67b4379c8a9170fc0d604207934511ab" date="1996-09-26 12:07:22"/>
+		<rom name="QLAUNCH.EXE" size="314880" crc="69bf72a2" md5="09c329ac9d2cfdb50b450f8144f4c62d" sha1="00c7ae60b6680a002c5affbc5eb8cb69ceb1b632" date="1996-09-26 12:07:22"/>
+		<rom name="Quake (USA) (Rerelease) (1998-09-21).chd" size="744877440" crc="7ed7068d" md5="6ee6a3c821c660806cd0899558fc919f" sha1="2e7ee3f308d6c45dcd15d82ca81a952aeadc2393">
+			<track number="1" type="MODE1_RAW" frames="40457" pregap="0" duration="08:59:32" size="95154864" crc="eed8cdf5" md5="22dc28b0c3b91ca861e36e7f5caf4b75" sha1="97c53d8b3b45940008476f496c89894d071c047e" in_zeros="1" out_zeros="0"/>
+			<track number="2" type="AUDIO" frames="23220" pregap="75" duration="05:09:45" size="54613440" crc="b8bca15a" md5="bfe5874130fcb3a4d11d51238deefe36" sha1="8a856458828da44360696aac9a61485a61863269" in_zeros="181933" out_zeros="352525"/>
+			<track number="3" type="AUDIO" frames="10801" pregap="0" duration="02:24:01" size="25403952" crc="622f9b43" md5="d4a7e714c62e318b4b1d652276c180ad" sha1="9c38d7cdcde4fc75c38c5b5a3f14ff3065825b56" in_zeros="5532" out_zeros="2089"/>
+			<track number="4" type="AUDIO" frames="37518" pregap="149" duration="08:20:18" size="88242336" crc="adc45184" md5="450050096176aa66f273469f07118934" sha1="7128966c48faa0abb5706dd6cbaa189104a7e382" in_zeros="356004" out_zeros="2048"/>
+			<track number="5" type="AUDIO" frames="27403" pregap="149" duration="06:05:28" size="64451856" crc="d5d4d62d" md5="97c3c4b6eb9190710263f615c759eeb6" sha1="965c9debd6d1601bcd4d0f9c042a846a3dee41e4" in_zeros="355980" out_zeros="2096"/>
+			<track number="6" type="AUDIO" frames="33343" pregap="149" duration="07:24:43" size="78422736" crc="607f18aa" md5="bebb40e26d23fa76617586ec567041a9" sha1="43c36e6093b14770eb3809a1a8ddf1cffed54c39" in_zeros="355980" out_zeros="2073"/>
+			<track number="7" type="AUDIO" frames="38866" pregap="149" duration="08:38:16" size="91412832" crc="6134454b" md5="3d832ee7f399cf9bbe515d7a86062d3d" sha1="ea6449f0806179d592f8f6029e19442ee1b67c73" in_zeros="355980" out_zeros="2073"/>
+			<track number="8" type="AUDIO" frames="25193" pregap="149" duration="05:35:68" size="59253936" crc="684af090" md5="1b662973ec2c73eb55d57035e8702143" sha1="ef935e8b731d8d2319f51418921225cabf66bc94" in_zeros="355980" out_zeros="2079"/>
+			<track number="9" type="AUDIO" frames="29168" pregap="149" duration="06:28:68" size="68603136" crc="0bef23a3" md5="5709deeab2cf503322cce7a7fa62efc5" sha1="f2c07b79c8b283103245be1d4c450383983fdd6e" in_zeros="355982" out_zeros="2568"/>
+			<track number="10" type="AUDIO" frames="15941" pregap="149" duration="03:32:41" size="37493232" crc="fef9951a" md5="724ace8140191ff54173f1fefad6a10b" sha1="75762afc139a4a84e5336f7266a207792159dd94" in_zeros="355980" out_zeros="2632"/>
+			<track number="11" type="AUDIO" frames="23653" pregap="149" duration="05:15:28" size="55631856" crc="6f299181" md5="09701dd44e7bbc7a973cec257e68711a" sha1="774aedd61f6b60b182a2e544af7768291c82d6fb" in_zeros="355980" out_zeros="63"/>
+		</rom>
+		<rom name="QUAKE.EXE" size="409600" crc="3bc26700" md5="e3e7fcc920610a5fa66c1dd030939fac" sha1="97427017467717a78b1b9e4a01b70ef0f7161856" date="1997-03-11 18:29:24"/>
+		<rom name="QUAKEUDP.DLL" size="32256" crc="ef1b2965" md5="4171e8bc542225eae34e0903dbdc37f1" sha1="295eba904544a87f401b5d31887a2c81ad192b1b" date="1996-09-26 12:07:22"/>
+		<rom name="VQUAKE.EXE" size="558080" crc="838fea97" md5="a63c60fe408366b04e6de7115f4bc0d3" sha1="ed128df430b6ceaec6ec411b11aca3cfcfc27091" date="1997-10-30 11:06:34"/>
+	</game>
 	<game name="Sid Meier's Railroad Tycoon (1990) (MPS Labs).dosz">
 		<description>Sid Meier's Railroad Tycoon</description>
 		<comment>Installed from v455.03 1995 re-release CD</comment>
