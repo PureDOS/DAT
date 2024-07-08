@@ -20,21 +20,27 @@ To do this easily in Windows, create a file named `_swap_zip_extension.bat` with
 ```bat
 IF EXIST *.DOSZ ( ren *.dosz *.dosz.zip & ren *.dosc *.dosc.zip ) ELSE ( ren *.dosz.zip *. & ren *.dosc.zip *. )
 ```
-Alternatively as a shell script:
-```sh
-#!/bin/sh
 
-if ls -- *.dosz > /dev/null 2>&1
-then
-    for file in *.dosz *.dosc
-    do mv "$file" "$file".zip
-    done
-else
-    for file in *.zip
-    do rename ".zip" "" "$file"
-    done
-fi
-```
+<details>
+  <summary>Alternatively as a shell script:</summary>
+
+  ```sh
+  #!/bin/sh
+
+  if ls -- *.dosz > /dev/null 2>&1
+  then
+      for file in *.dosz *.dosc
+      do mv "$file" "$file".zip
+      done
+  else
+      for file in *.zip
+      do rename ".zip" "" "$file"
+      done
+  fi
+  ```
+
+</details>
+
 ### PureDOSDAT-Variants.xml
 Similar to the primary file this contains secondary variants of game packages which includes regional variants as well as original installation media.
 
