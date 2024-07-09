@@ -22,12 +22,33 @@
 	</game>
 	<game name="Final Doom (1996) (id Software) (Installation).dosz">
 		<description>Final Doom</description>
+		<comment>Contains Final Doom version with bug fixes, also other Doom games</comment>
 		<year>1996</year>
 		<developer>id Software</developer>
 		<variant>Installation</variant>
-		<rom name="Final Doom (USA).chd" size="81586944" crc="39f7aa27" md5="4a6dfb4ce060c93577950ff8e68228ed" sha1="7ba71f25c793f910ae89b69ed1bfbc40cd336ab6">
-			<track number="1" type="MODE1_RAW" frames="33319" pregap="0" duration="07:24:19" size="78366288" crc="40e8c4dc" md5="43c3e03e89f1ebbb271445f2f7944065" sha1="1559afffa269372b9761e1c644e206752d690372" in_zeros="1" out_zeros="0"/>
+		<rom name="id Anthology (USA) (Disc 2) (Doom) (Rev 1).chd" size="232403328" crc="94796723" md5="15d0cc524df85ad29d5eb605362ca25e" sha1="2cfd2ee746af2c34cef52ae2d574425c1aedbb6d">
+			<track number="1" type="MODE1_RAW" frames="94909" pregap="0" duration="21:05:34" size="223225968" crc="6ff080ba" md5="1f24387fb3ea227c44ce7a1b3e982f20" sha1="26856c342897ba02edb326f8657ef69429eaddc7" in_zeros="1" out_zeros="0"/>
 		</rom>
+	</game>
+	<game name="Final Doom - The Plutonia Experiment (1996) (id Software) (Steam).dosz">
+		<description>Final Doom - The Plutonia Experiment</description>
+		<comment>Original version without bug fixes</comment>
+		<comment_dosc>Default Steam config</comment_dosc>
+		<year>1996</year>
+		<developer>id Software</developer>
+		<variant>Steam</variant>
+		<rom name="DOOM2.EXE" size="722629" crc="12ee2811" md5="f006de4fd282ba61d7d0af41a993f9ba" sha1="9269fa5c095715d926015cad3381a4218e4f2d7e" date="1996-06-10 01:00:02"/>
+		<rom name="PLUTONIA.WAD" size="17420824" crc="48d1453c" md5="75c8cf89566741fa9d22447604053bd7" sha1="90361e2a538d2388506657252ae41aceeb1ba360" date="1996-06-10 01:00:02"/>
+	</game>
+	<game name="Final Doom - TNT - Evilution (1996) (id Software) (Steam).dosz">
+		<description>Final Doom - TNT - Evilution</description>
+		<comment>Original version without bug fixes</comment>
+		<comment_dosc>Default Steam config</comment_dosc>
+		<year>1996</year>
+		<developer>id Software</developer>
+		<variant>Steam</variant>
+		<rom name="DOOM2.EXE" size="722629" crc="12ee2811" md5="f006de4fd282ba61d7d0af41a993f9ba" sha1="9269fa5c095715d926015cad3381a4218e4f2d7e" date="1996-06-10 01:00:02"/>
+		<rom name="TNT.WAD" size="18195736" crc="903dcc27" md5="4e158d9953c79ccf97bd0663244cc6b6" sha1="9fbc66aedef7fe3bae0986cdb9323d2b8db4c9d3" date="1996-06-10 01:00:02"/>
 	</game>
 	<game name="Jazz Jackrabbit (1994) (Epic MegaGames) (v1.3).dosz">
 		<description>Jazz Jackrabbit</description>
