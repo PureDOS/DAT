@@ -40,6 +40,17 @@
 			<track number="1" type="MODE1_RAW" frames="28318" pregap="0" duration="06:17:43" size="66603936" crc="eb4ea23a" md5="d6e97ef537d0bb30af57630c6efac168" sha1="b430f2a6e63e4e93bb2db3ac54fd2f0c6d573336" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
+	<game name="Mario Teaches Typing (1992) (Interplay Entertainment) (Installation).dosz">
+		<description>Mario Teaches Typing</description>
+		<comment>USA CD-ROM</comment>
+		<year>1992</year>
+		<developer>Interplay Entertainment</developer>
+		<variant>Installation</variant>
+		<rom name="Mario Teaches Typing (USA).chd" size="328697856" crc="22c82217" md5="8c274d93e54bc9f58b87682f0170995f" sha1="cdb95b49b794d9c47d31b2a0e238f0436b02e659">
+			<track number="1" type="MODE1_RAW" frames="116681" pregap="0" duration="25:55:56" size="274433712" crc="cd815612" md5="4b443974d60062432dfdacd79022c589" sha1="15eb553e1ea975369a89ca41680507bd0641e1d4" in_zeros="1" out_zeros="0"/>
+			<track number="2" type="AUDIO" frames="18062" pregap="150" duration="04:00:62" size="42481824" crc="0b3672b9" md5="3d975b5d1bcd2ca5d8955d1e3150e588" sha1="ea7a421eaa51474b5e7bceb27c7798d969f23c11" in_zeros="360130" out_zeros="880067"/>
+		</rom>
+	</game>
 	<game name="Mario's Game Gallery (1995) (Presage Software) (Installation).dosz">
 		<description>Mario's Game Gallery</description>
 		<comment>USA CD-ROM</comment>
@@ -72,6 +83,23 @@
 		<rom name="disk4.img" size="1474560" crc="eaccbf49" md5="bcadceb2bd764084ae1b1154302d4d2f" sha1="55186766f3953759686383cb6abfbec2e5bbc9c3"/>
 		<rom name="disk5.img" size="1474560" crc="fddb2a3a" md5="ae25cfa9f49894e5e0891104f43746ae" sha1="3a6abe5d401c13743a0d76ee2085945fff79e389"/>
 	</game>
+	<game name="Quake (1996) (id Software) (GOG).dosz">
+		<description>Quake</description>
+		<comment>v1.8</comment>
+		<comment_dosc>Default GOG config</comment_dosc>
+		<year>1996</year>
+		<developer>id Software</developer>
+		<variant>GOG</variant>
+		<rom name="CWSDPMI.EXE" size="25920" crc="4fc60ecd" md5="cdba7e5b5050d3f3be9ddaf79a943ed4" sha1="d7a811b9d2f887dc94e145ce80dd9ced5fdf1548" date="1996-09-26 14:07:22"/>
+		<rom name="Docs/COMEXP.TXT" size="25462" crc="68bda64a" md5="0575bbd0df753f6e44b7a0f67ffc1413" sha1="606c21d258d58823a605fc20f5c45600d9b0ffb0" date="1996-07-12 18:31:50"/>
+		<rom name="Docs/LICINFO.TXT" size="9308" crc="53dc674a" md5="0f77362a55b35e623d9f4710ed86cda7" sha1="130760d7c88c66bdbfae26e5a75aecdf783532f9" date="1996-10-29 17:33:10"/>
+		<rom name="Docs/TECHINFO.TXT" size="73444" crc="ec4ce17b" md5="d77f9db740e1ab65b874f2727dc68c34" sha1="61b853d47347950936e53fe16f133b725a095108" date="2001-09-06 17:57:12"/>
+		<rom name="game.cue" size="477" crc="913f3c04" md5="904c3b60ea72df51529f5f2e7338ccd4" sha1="e3d6350abcee29451a8c2f378ca60078dc9659d8" date="2015-08-26 20:49:10"/>
+		<rom name="game.gog" size="767725728" crc="44136b44" md5="f91e5688efd91eefc6d42c6626cb89a4" sha1="041c0a99c3c6cdad3c8cb8605f0a6151ddef8a3a" date="2007-01-29 00:34:14"/>
+		<rom name="id1/PAK0.PAK" size="18689235" crc="74e3b084" md5="5906e5998fc3d896ddaf5e6a62e03abb" sha1="36b42dc7b6313fd9cabc0be8b9e9864840929735" date="1996-10-01 16:25:58"/>
+		<rom name="id1/PAK1.PAK" size="34257856" crc="2e803216" md5="d76b3e5678f0b64ac74ce5e340e6a685" sha1="6fd0d1643047612f41afb2001b972d830c792921" date="1996-07-12 19:31:52"/>
+		<rom name="quake.exe" size="409600" crc="3bc26700" md5="e3e7fcc920610a5fa66c1dd030939fac" sha1="97427017467717a78b1b9e4a01b70ef0f7161856" date="1997-03-11 20:29:24"/>
+	</game>
 	<game name="Sid Meier's Railroad Tycoon (1990) (MPS Labs) (Installation).dosz">
 		<description>Sid Meier's Railroad Tycoon</description>
 		<comment>v455.03 1995 re-release CD</comment>
@@ -81,6 +109,106 @@
 		<rom name="Sid Meier's Railroad Tycoon (USA) (Rerelease).chd" size="112666752" crc="e5160b67" md5="66ef6b6837d23cb29605760786ec5f37" sha1="2618fe210659460a54dcdc0aa1a725360e932fe0">
 			<track number="1" type="MODE1_RAW" frames="46008" pregap="0" duration="10:13:33" size="108210816" crc="256548cb" md5="1cda6c4279533aa29514af69580987e1" sha1="7a6ba155ae31fe39e2396ab67e5798108b7f8a8d" in_zeros="1" out_zeros="0"/>
 		</rom>
+	</game>
+	<game name="Solitile (1989) (Everett Kaser) (Accessory Disk #2 + #3).dosz">
+		<description>Solitile</description>
+		<comment>Release version 3.5w with added content from Accessory Disk #2 and #3</comment>
+		<year>1989</year>
+		<developer>Everett Kaser</developer>
+		<variant>Accessory Disk #2 + #3</variant>
+		<rom name="10HIDING.LYT" size="534" crc="76b82686" md5="7fbc4ac8ca5d92f0998bb559f918deb6" sha1="a21911188569f9ecae96d0920abd76d51a687872" date="1991-10-05 14:27:06"/>
+		<rom name="ALPHA.STL" size="19636" crc="6f8f7c4f" md5="dc355c7c6be1ce68b28947c407ed8d98" sha1="75cd64845afbf0ccdef21d5d0fcfd7a0f97a9690" date="1991-11-28 19:08:16"/>
+		<rom name="AMERPIE.MUS" size="724" crc="f5922afd" md5="98e1b96b07853a4044e17891fee96f54" sha1="fe3250a0f1f7393ed281b8fadafe1d7e7a8d85eb" date="1991-12-07 15:08:12"/>
+		<rom name="ASTERIX.GIF" size="8127" crc="51b49322" md5="65c8696d6a645be5a297e7ad5daa94cf" sha1="50ab479dfb91ec6ae919462823401bf476998ebc" date="1991-09-16 14:40:46"/>
+		<rom name="BABS.GIF" size="3712" crc="a089ea16" md5="552ba844805a77f19f754832387f85b9" sha1="e3827ccbbac2c81804e554f79ec4ddb97a822e86" date="1991-09-16 14:48:50"/>
+		<rom name="BASEBALL.STL" size="25214" crc="9fffddd2" md5="b53ba046eb3f9d0d645d67dc85cc21e7" sha1="8199366c913ba4d54b679276f33a12cef2a37545" date="1991-10-05 11:47:48"/>
+		<rom name="BEEPER.GIF" size="3840" crc="145117e2" md5="331ed200bdf084d82d20aaab1b9612d8" sha1="5a2d9917f538f8ee0e6f07271e8a7d74a214bc0d" date="1991-09-16 14:52:06"/>
+		<rom name="BEGINNER.LYT" size="534" crc="588999cb" md5="3386d6f3b02c92eae2d36bb691824d9e" sha1="dd649b785077a1cf86d2ff3e44d4e33f90079185"/>
+		<rom name="BILL.GIF" size="5732" crc="2316b150" md5="399fdc2a2c8e9cc79771715c54f8fae6" sha1="3e50d9d5c124421d166fc31e98b8545aed409f92" date="1991-09-16 14:53:42"/>
+		<rom name="BLASTOFF.GIF" size="27776" crc="374ea416" md5="52c61ee674a5a1ce6d4becdc2c3fcda9" sha1="45d2fc99fe560ce69ab9350f4baa3c0f23a43f19" date="1988-05-09 10:33:46"/>
+		<rom name="BOAT.GIF" size="7446" crc="e92f622b" md5="1722e20b9dead7b501ddfc67f7e456eb" sha1="d2964ec8ede21c806271be64f10b3ac83d7682d4" date="1991-09-16 14:54:38"/>
+		<rom name="BODY.STL" size="22155" crc="7cc5dbab" md5="ace9c724b1703941d193793f9a4c00b0" sha1="9de17b504379ad7b032d2af368a2533c35dcd374" date="1991-10-05 10:28:58"/>
+		<rom name="BRIDGE.LYT" size="534" crc="1c7134a9" md5="2eee290069d7b4eafe9465fc8b9ec759" sha1="6e1c63ae3bd52cfd935a57efe738803d531c61c0"/>
+		<rom name="BRIDGE.MUS" size="375" crc="64615dea" md5="3d6426f55f5b8c0c280881abc7e8bc76" sha1="c37f084cab32e9896f4231a5567f5d7993e92878" date="1991-10-05 19:01:38"/>
+		<rom name="CABARET.MUS" size="241" crc="aac288f4" md5="8ba6948201b903d2ae572a8fed893374" sha1="18f63bf1526be1881725ed91005311030f2f2001" date="1991-10-05 18:20:12"/>
+		<rom name="CANDY.STL" size="22325" crc="18763241" md5="681cdd23cb857f960139354fd8cfa1c3" sha1="474eea66f1407dd57735d4aed915c63c11c83ae2" date="1991-10-05 10:57:50"/>
+		<rom name="CAPNOPUS.GIF" size="3293" crc="37b98bf8" md5="ace5a6137f71f43710b626bb2adf9755" sha1="dee6bb95035451faf5a31b033b88bf83e3cff88e" date="1991-09-17 09:47:44"/>
+		<rom name="CARDS.STL" size="26516" crc="999ced1a" md5="0e647b2548fbdfc2ef02d2718e1e953c" sha1="74aeea485b23dd78272f527e3c8e5ef867fd179d" date="1991-11-28 19:42:50"/>
+		<rom name="CARDS2.STL" size="24674" crc="99d95d5a" md5="7ab9565558c499f9df859d3782a11936" sha1="2b153a817be70fb5561c28ac0d3710a92801c5c1" date="1991-12-01 12:57:18"/>
+		<rom name="CARS1.STL" size="22808" crc="b600bd0f" md5="9f73dd061bcd2400ccec650fbd426c54" sha1="3a010d0259ae74f8570a87a75474404f1a63fa29" date="1991-11-28 19:20:02"/>
+		<rom name="CHECK.LYT" size="534" crc="ae5e2a2b" md5="e9fd9b677ca3dc6026df01130fe2bae9" sha1="a05508465eeba628e8ea2bc1b5a7ce634b3980ec" date="1991-12-07 10:42:12"/>
+		<rom name="CHEETAH.GIF" size="25424" crc="a3413ae6" md5="1a20dab39970ba399286af07cf7c5a07" sha1="906f18d0b6c0178fa40f75f6a4ca8e6e8cebfc7d" date="1991-09-17 09:47:58"/>
+		<rom name="CHIPMONK.GIF" size="11136" crc="c35c8e9f" md5="7356ad13dceacaa6772f9d32564aff93" sha1="78688f7a6df841e6fe18656304ecef7f16cd72d7" date="1991-09-17 09:48:02"/>
+		<rom name="COLLAGE.STL" size="22835" crc="a9d7d62c" md5="ec2e2930f50564a4ad17a8b4215eb6d2" sha1="5c5fdc0948803af77655376addb62dab5477012d" date="1991-12-01 12:19:22"/>
+		<rom name="COMICS.STL" size="23554" crc="13ebdd03" md5="b4341677367d761ab463e88adcfb29a4" sha1="aa46aa4f7dbc98adae980e9a8cac07fefc3825c4" date="1991-11-29 10:41:24"/>
+		<rom name="COYOTE.GIF" size="8378" crc="2ffa8045" md5="fcb9e470cfbe4dec9021d88e0ea8cd5d" sha1="34712db84e686326bc6ae8c9aa3ccd61a6369f18" date="1991-09-17 09:48:32"/>
+		<rom name="DISTANCE.MUS" size="492" crc="ce7aa5c3" md5="b8ba09cf103a5f8a5fe85f66f7dbd72d" sha1="bbbc955d6fa38cb4e3b600ec7fc8b69364de27bb" date="1991-12-07 12:34:02"/>
+		<rom name="DONDAISY.GIF" size="9472" crc="76ccee0e" md5="abb19ace2f807f86a3b2610e8d5d9ada" sha1="3a94a358056199a623b6ab5f38db1bc019bd0039" date="1991-09-16 15:11:28"/>
+		<rom name="DONDUCK.GIF" size="5547" crc="67c36e8a" md5="db5b165d77bb3a1c7b71dfa6a3a8ae26" sha1="943fb677d2dfdd73b5a35bb5f5b70bfa33dfc50f" date="1991-09-16 15:11:26"/>
+		<rom name="EAGLE.GIF" size="44160" crc="35641ea6" md5="497c194dd2caa9a7793963877057e915" sha1="6bf50f9c02fda5dbe43e5de76d7fb5511c3fad1c"/>
+		<rom name="ENCIRCLE.LYT" size="534" crc="80e4fc9d" md5="712e3f5b10f5cdcf37d0aa735e7d461a" sha1="697f864779808b061ddaf0ff87d56bf33824b87c"/>
+		<rom name="ENGINE.LYT" size="534" crc="328bb37a" md5="8bae4f81b68f381f11ce547ae3a2b1ce" sha1="36515dd16bc2f76e95b25973dba3302276bc63cd" date="1991-12-07 10:37:20"/>
+		<rom name="EYES.GIF" size="3072" crc="dd9704ae" md5="e217f60208245081431c01eba0775ac2" sha1="4fc8f7d0b1a9b0a96579699efbf0189402e6afb1" date="1991-09-17 14:01:10"/>
+		<rom name="FILE_ID.DIZ" size="128" crc="76479202" md5="9f55019507bcd2a2be46a327063896e9" sha1="42cffe593e9aa6d38ad6d9d38a6487f81af15190" date="1992-02-06 20:57:14"/>
+		<rom name="FLAGS.STL" size="19273" crc="8935f26e" md5="186bf8fdcbd4e2667dcb911a4548f776" sha1="d0a4334582beeba77f63010314e688f30a291ac6" date="1991-12-01 14:02:40"/>
+		<rom name="FLATCAT.LYT" size="534" crc="9a643c43" md5="d8b06558e361da9e74773bc317457e54" sha1="f62b80d669da1d8ef83e11430652d2bd12322963" date="1991-10-03 20:38:24"/>
+		<rom name="FLOWER.STL" size="22971" crc="23723d32" md5="776b9a7b959f4b2315fdf23f22a01e44" sha1="ebcc7d39e982d34ea4e7a7c9911dcf16d032189f" date="1991-11-28 19:16:30"/>
+		<rom name="FLWRGONE.MUS" size="255" crc="776f76ab" md5="621038520e9c417c68dbee9d18813381" sha1="e1f7e531e2a5db855db13deb73a4f0a6a4e7a30e" date="1991-11-04 20:28:20"/>
+		<rom name="FORUM.LYT" size="534" crc="c963d352" md5="b8d6b2f04725650f468a856d61b293bb" sha1="0bf8cda05ef184eca60a8d3997952803b6238f0b"/>
+		<rom name="FURELISE.MUS" size="381" crc="70dabe1e" md5="7a824dfec697c325f4e1290637d0a440" sha1="3fb0fb74acfa20af5daa7fd0b179497d3d0aec3f"/>
+		<rom name="GEORGY.MUS" size="376" crc="fe75d817" md5="4617c4e47d0c68f33e4c96914b879273" sha1="5e8ae358c4c9bcccd6b612c65840898fe695c8b0" date="1991-10-05 18:40:00"/>
+		<rom name="GOTANAME.MUS" size="468" crc="d1b27251" md5="fc975c61941a7a4457cd17e68104bd2f" sha1="7feef6687eb8986a172c63f26150373e0ab21148" date="1991-12-07 11:31:04"/>
+		<rom name="GRNDCNYN.LYT" size="534" crc="ae22bdd9" md5="d6ccd84833337bf03a4c55ee53aedc61" sha1="c63e009a4393c10034b1de0a9cb953d3d45a034d" date="1991-12-07 10:32:54"/>
+		<rom name="HALLELUJ.MUS" size="298" crc="d5f02d23" md5="09cddfbcb5d6f3aaf4a4cc2ae6d85904" sha1="951149bb9e7021ccaaef7c8f1a3dd16dc4878c31"/>
+		<rom name="HAMTON.GIF" size="3456" crc="bed23352" md5="e9cf808d86758a46ece9f728e8936b05" sha1="c6d44d7c0636cde6cbd1bc97669f086d9c9ad9a2" date="1991-09-17 14:09:56"/>
+		<rom name="HOVER.GIF" size="4914" crc="32a25dfe" md5="ea49f9a5a91b0a1e592989906379ecf1" sha1="dd8bcc4b83b19b2340b8b77525b588aa513852b0" date="1991-09-17 14:10:50"/>
+		<rom name="IMAGINAT.GIF" size="8429" crc="63f6bb69" md5="6322e9cdb7f41346f19095a67291d417" sha1="f241f759b7d1da022588947830e0c2c3c3c7fbcf" date="1991-09-17 14:11:56"/>
+		<rom name="INDIAN.GIF" size="5583" crc="f2b564ce" md5="852b274dc424ed3c7a8b1939083c8127" sha1="87e9125b77f8f5e29a7c4b03c3177bdd9b70744a" date="1991-09-17 14:11:58"/>
+		<rom name="JAILBRAK.LYT" size="534" crc="35e8d138" md5="8fedff442d47b3f343356b2b6978626e" sha1="a7e1679aea966f3f4e1d5b845854dcc6820e3a3a" date="1991-10-03 19:42:32"/>
+		<rom name="KINGROAD.MUS" size="320" crc="dc80e8df" md5="29c7ac31f5c3f509e08438b4259e597b" sha1="3ac23238bae5229a9c0dfe5e61bfaeb134e31ec7" date="1991-10-05 20:14:12"/>
+		<rom name="KINGTUT.GIF" size="12735" crc="5fe3b7b0" md5="b01691b6c66a2b8607214ed2d566fc52" sha1="b98b58c167da9dc378ee1a38bb6bc9e8c63ce4c7" date="1991-09-17 17:27:00"/>
+		<rom name="MAX.GIF" size="8064" crc="8489e865" md5="8e320c1ba4a1d2fb24b231bfa4bed3e4" sha1="2f4fe51b0c9b21c75d5bd8babfc74f7ba4e5c3d6" date="1991-09-17 17:37:30"/>
+		<rom name="MICKEY2.GIF" size="9344" crc="6d1b9182" md5="f5e16dca803df56c3254ca911a7297b8" sha1="d4e39586d8d5ee726d094701afc54a764e8e9f63" date="1991-09-17 17:39:30"/>
+		<rom name="MOONRIVR.MUS" size="384" crc="4d986fba" md5="983621b2d92121dbe9728411d944e1be" sha1="8312581a4948a5274075d709a2836c57d138ed78" date="1991-11-04 20:27:26"/>
+		<rom name="MUSIC.COM" size="1799" crc="1ac152a5" md5="e86f1d84db1511b3391af429aff4e33d" sha1="a29a7b34b8cfd014710211e9cd04f8826daa5164" date="1991-12-07 10:15:58"/>
+		<rom name="MUSIC.DOC" size="3608" crc="2c24183a" md5="6fe045e5582efda319de2e20d3e1c2e2" sha1="106f02bb330d302f24eeebba65392cb16dadbe02" date="1991-12-07 18:49:46"/>
+		<rom name="NAGEL11.GIF" size="6016" crc="07c9387c" md5="8bbba15f5edfdba6d35938d1cb7f060d" sha1="a01a2688d4b37883a899d19df19005374bf5c16e" date="1991-09-19 15:48:46"/>
+		<rom name="NOBODY.MUS" size="428" crc="d302f4d5" md5="90081839e32f11a2325be637b637e5e7" sha1="f8c5cd247ded20f70ed7db5007339259186504e3" date="1991-12-07 18:20:04"/>
+		<rom name="ODIE.GIF" size="2048" crc="da820bdb" md5="c69edcb64e6bb3ccf9aff47062787721" sha1="cb03efb6d029b96af3225d10cd70b7b816e04762" date="1991-09-19 15:51:06"/>
+		<rom name="OLIVER2.GIF" size="4992" crc="aaea5abc" md5="8d5ca340ff220188282f18e5046822e3" sha1="1269457e9a820bf39ea35697e592835619e0c5b3" date="1991-09-19 15:52:32"/>
+		<rom name="OWL.GIF" size="6425" crc="81904563" md5="3192a1f50fe28d3bbeb282a808a113a2" sha1="58afe8ebb249cddd3c0e7798ae871ae0ffa456f7" date="1991-09-19 15:53:04"/>
+		<rom name="PAGODA.GIF" size="4864" crc="2ad9b43a" md5="571b50fb153ea3648e4fe6a458630a27" sha1="a503beb679dac2f9a39b0d55c82415b4eaa4515f" date="1991-09-25 12:45:20"/>
+		<rom name="POOHBEAR.GIF" size="6400" crc="eb4d9f5c" md5="edc43105d04d21b53a5d863b37a0852d" sha1="ae3b3c894ebc4f399fc2b9a58f8cbba9e8a9047e" date="1991-09-25 12:49:42"/>
+		<rom name="PYRAMID.LYT" size="534" crc="7e2b09fa" md5="d7dfbcde53e0fea15d280a52b9cc03d3" sha1="5769f38c253bbb9d8a0dbc265be749615969e734"/>
+		<rom name="RAINDROP.MUS" size="356" crc="eeb74d13" md5="e527a47131ee03e46ee9c4c20da38885" sha1="f4f905c5c47e3891ed1e77f9e49d653154ec70f3" date="1991-11-04 20:30:34"/>
+		<rom name="ROBOT.GIF" size="10629" crc="80c19bde" md5="6f107a57a58c8d3a1edb1bdf599ba13c" sha1="f709822f1d56e3122ae4f7f82232bd228d376307" date="1991-09-25 12:56:36"/>
+		<rom name="ROGER.GIF" size="33792" crc="9ef35cfa" md5="2718451cb4f9772d965a6e98b550a020" sha1="b8b2aa7deb48ab5ecc4ade656def037766924c3a" date="1991-09-25 12:56:54"/>
+		<rom name="SHARON.STL" size="24166" crc="be3ec5d5" md5="4eefbe2680768b74a2fad8f8b65af7a4" sha1="60d9db08635b8a3e99127fad6858ee3ece49fb2e"/>
+		<rom name="SHIRLEY.GIF" size="4096" crc="a86a92f2" md5="707968fe2f4836190ca6b85015a17d40" sha1="ee4dc7baed0b96f2205a1e97b0fee236621ba5aa" date="1991-09-25 14:39:48"/>
+		<rom name="SHUTTLE.GIF" size="10368" crc="fb08da2f" md5="c63eabac3fa6b70986f414649c6a548f" sha1="48128d6e609bd6bf259cb85338194dccf2ef6494" date="1991-09-25 14:40:14"/>
+		<rom name="SNDSILNC.MUS" size="250" crc="c6d310fe" md5="c61dae301e8b43ba4e192b557f3d2e84" sha1="1210336b97774acdbe9708af293f9141ea52d27d" date="1991-10-05 20:55:00"/>
+		<rom name="SOLITILE.DOC" size="46682" crc="fff39ec9" md5="5271dbc14be41afdc40bdd43139f3655" sha1="7e1d67ca5df3df56aa623cfa28739d6ff145f4bf"/>
+		<rom name="SOLITILE.EXE" size="93806" crc="eadf34e2" md5="3e0ff9024658cbb2d138445133d0d160" sha1="fe38e2b054be667cf5dab3e9dae74e24e8f981bb"/>
+		<rom name="SOLITILE.GIF" size="39235" crc="c627c1e5" md5="7c39d49cf190e9f89ea1cca3fb265cc2" sha1="0b03bf432e65ba8bd5bb7903c25e24b707900c5d"/>
+		<rom name="SOLITILE.STL" size="23804" crc="41b32994" md5="1fd7774b5f9454a72006e9072ae65c14" sha1="161bf5bf8e528fae39a9860a9723c4229f551d24"/>
+		<rom name="SPIDER.LYT" size="534" crc="65c31e19" md5="6f62617ca47466cf1e820af6b903e921" sha1="c0f3d1fa8526e58bb92f8647943e7365e003a198"/>
+		<rom name="SPRAYER.LYT" size="534" crc="c5282407" md5="690a4c62339994a6765ab0ce1174158c" sha1="8bc579bf86ebc1367e01b3f2ced3b6f6aac486fe" date="1991-10-05 13:41:14"/>
+		<rom name="SQUARFAC.LYT" size="534" crc="c1ffb6aa" md5="5e93f11aec1dda9098329f6e112a6473" sha1="2ac220c56cdb76b3ea9e0b81cb8fea3d97961551" date="1991-10-03 20:33:10"/>
+		<rom name="ST2TO3.DOC" size="3714" crc="212c66c9" md5="9bdd3e9538dc0bcac7ec6c7e9c977b83" sha1="ef7d929e54d6255f1d917974f9a37afa57db2d58" date="1991-12-08 10:53:54"/>
+		<rom name="ST2TO3.EXE" size="10867" crc="f476f012" md5="1a652669b425b70652f250ba1172cae1" sha1="cd60fae6d3f1959c3f466609cc524f34b732967c" date="1991-11-29 12:59:54"/>
+		<rom name="STAMPS.STL" size="24115" crc="e4ee6847" md5="ee4a3192683eb536cd4faa249909f163" sha1="ab1bc7165a6ad0d9951c8d0797567cf891b309a7" date="1991-10-05 12:05:24"/>
+		<rom name="STARSHIP.LYT" size="534" crc="78a60e14" md5="5a9b54af26a398290ba77a3518e9f1a8" sha1="2b9ce116f88d1d685e1ea26e5bd567159482ca45"/>
+		<rom name="STARSKY.LYT" size="534" crc="b8e04761" md5="9597217f864aafb97666712efa87b2c7" sha1="2085d8f62e44db53a76cd3967bbb197cfa97a1b1" date="1991-12-07 10:27:12"/>
+		<rom name="SUN.LYT" size="534" crc="d7450840" md5="6ac6c9861ea0a9d8c31790a7ea715327" sha1="0dd87c5c2a54b3c5541deab3b5a2cda5da7a41de"/>
+		<rom name="TEMPLE.LYT" size="534" crc="608f6316" md5="43a79955764d2879455b7b084f8deb01" sha1="2b0293279895f67999496e81d2daf4119d2f16b9"/>
+		<rom name="THOSDAYS.MUS" size="205" crc="68e9db4f" md5="88f67d1d5ab648063b23b5029e98f925" sha1="7879a786166d15a032000d1f55b1392df61fe1ac" date="1991-10-05 21:03:22"/>
+		<rom name="TIMBOTTL.MUS" size="361" crc="a0b07933" md5="5b8f5cea056482727652cd8d82c672c7" sha1="dd895bbc77768957f1f71cf8ac9cc68ebcc35a5f" date="1991-12-07 11:50:28"/>
+		<rom name="TOONS.STL" size="25444" crc="eeffba54" md5="3a1b11f4a55db8d3806350cf16430904" sha1="e4ed8bcdbd9457fd2d05dff36866f7ec472fd257" date="1991-11-28 19:59:56"/>
+		<rom name="TRAFFIC.STL" size="21507" crc="8e00995d" md5="1bb828c5eb27071c0bcbfca2a6c2a288" sha1="38f41f4999cede06b3d45ec00636f24ec9b311f6" date="1991-11-28 19:48:08"/>
+		<rom name="VALLEY.LYT" size="534" crc="3fba61ff" md5="8e3bbca7f4126c649f4efb61b8eb8d74" sha1="7c178cb2def622323b3ad2037093b577d7474c94"/>
+		<rom name="WEDGES.LYT" size="534" crc="c47bbcc4" md5="4fe5cd3e50e7d04481695ee38a191c8e" sha1="00185d675e9a0aea550937cf5baa1e88f565114f"/>
+		<rom name="WINTILE1.STL" size="25792" crc="bcf97e59" md5="e596c9e84f16103ca02ae8b60ab26557" sha1="8d8577b0757dde1421583f93405ad62c725b3054" date="1991-10-05 10:42:38"/>
+		<rom name="WORLD.GIF" size="39470" crc="2700a426" md5="7a50599bd34594c3547d0165ca1704ec" sha1="b5362ee263a99bc44aa6a35c1959b1dbe780dda4" date="1988-05-26 13:50:50"/>
 	</game>
 	<game name="Theme Hospital (1997) (Bullfrog Productions) (Extracted).dosz">
 		<description>Theme Hospital</description>
