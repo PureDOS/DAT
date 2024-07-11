@@ -29,6 +29,7 @@ The following settings are supported, the default value is the first one listed 
 | `sound_mpu401`  | If a MPU401 MIDI Processing Unit is present      | __true__ / false                                            |
 | `sound_mt32`    | If a MT-32 MIDI synthesizer module is present    | __false__ / true (if set overrides `sound_mpu401`)          |
 | `sound_gus`     | If a Gravis UltraSound expansion card is present | __false__ / true                                            |
+| `sound_tandy`   | If a Tandy Sound Device is present               | __false__ / true (always on with video_card: generic_tandy) |
 | `run_path`      | Default program to launch                        | Full path, i.e. C:\PROGRAM.EXE                              |
 | `run_boot`      | Default disk image to boot (floppy or hard disk) | Path relative to DOSZ, i.e. DISKS\DISK1.IMG                 |
 | `run_mount`     | Default disk image to mount (floppy or CD-ROM)   | Path relative to DOSZ, i.e. CD\GAME.CHD                     |
