@@ -1915,6 +1915,18 @@
 		<rom name="VIZIER.DAT" size="6111" crc="6010d5ca" md5="33a910991b0afb800868b631efaca1f3" sha1="f3bbe710982bbcdb51f43ab5c97d0e23efd0f633" date="1992-04-02 13:00:02"/>
 		<rom name="VPALACE.DAT" size="14212" crc="1c712ce9" md5="cc86fb01fddb7f54b0a903314e391eff" sha1="09f261c0493c90d8fa16123c5215a881e138fa58" date="1992-04-02 13:00:02"/>
 	</game>
+	<game name="Quake - Dimension of the Past (2016) (MachineGames).dosz">
+		<description>Quake - Dimension of the Past</description>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>2016</year>
+		<developer>MachineGames</developer>
+		<parent>Quake (1996) (id Software).dosz</parent>
+		<rom name="dopa/dopa.bat" size="24" crc="2a93a0b9" md5="97f63da87a0c68955bdc9abce194ec2f" sha1="7010bde5354133877f3f3751909da6050c355d88"/>
+		<rom name="dopa/dopa_readme.txt" size="1175" crc="d4c91c76" md5="196bcfcdf416d652d23d130e7e5a9573" sha1="bfc7b0048e032016d7245663986b78c0038753b2" date="2016-06-22 01:47:38"/>
+		<rom name="dopa/pak0.pak" size="18557329" crc="1b697f8a" md5="ca73d4d3643612b5becac7e7e1edcb7e" sha1="c84c7678695f16865f6bd477a3a992445e53c68c" date="2016-06-21 14:18:06"/>
+		<rom name="dopa/quake.rc" size="298" crc="ad3f6f7d" md5="e433c9ee75ddcec65453b330e79c179f" sha1="a7467927eeac47161274949e7b55999a2020fd42" date="2016-06-22 01:46:42"/>
+		<rom name="Quake (1996) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
 	<game name="Quake (1996) (id Software).dosz">
 		<description>Quake</description>
 		<comment>Installed v1.8 from Quake: The Offering CD, Windows-only files and VQuake removed</comment>
@@ -1948,6 +1960,58 @@
 			<track number="11" type="AUDIO" frames="23653" pregap="149" duration="05:15:28" size="55631856" crc="6f299181" md5="09701dd44e7bbc7a973cec257e68711a" sha1="774aedd61f6b60b182a2e544af7768291c82d6fb" in_zeros="355980" out_zeros="63"/>
 		</rom>
 		<rom name="QUAKE.EXE" size="409600" crc="3bc26700" md5="e3e7fcc920610a5fa66c1dd030939fac" sha1="97427017467717a78b1b9e4a01b70ef0f7161856" date="1997-03-11 18:29:24"/>
+	</game>
+	<game name="Quake Mission Pack No. 1 - Scourge of Armagon (1997) (id Software).dosz">
+		<description>Quake Mission Pack No. 1 - Scourge of Armagon</description>
+		<comment>Installed v1.0 from CD. BAT files must have paths edited to C:\quake.exe</comment>
+		<comment_dosc>Default config and auto start</comment_dosc>
+		<year>1997</year>
+		<developer>id Software</developer>
+		<parent>Quake (1996) (id Software).dosz</parent>
+		<rom name="ARMAGON.BAT" size="37" crc="105e2749" md5="1f1284b7a1323337d2e8b60e5d33e966" sha1="c8d3741b9052bb5211deb55de52baa89d860e4e5"/>
+		<rom name="DEDICATE.BAT" size="50" crc="f3af7c50" md5="994b0410ced0b4da94b8020268575e02" sha1="187882f76f68ab484a0535469406bcfcead5e863"/>
+		<rom name="HIPNOTIC/PAK0.PAK" size="35527205" crc="d17835fb" md5="0ab83681aaf841c4320269e02941a14a" sha1="1b089a41dd0cf9268668a5072acfb858a7fb8cc2" date="1997-02-11 18:41:06"/>
+		<rom name="LISTEN.BAT" size="47" crc="979d48ed" md5="371688ba8ac7131a4591032af9119034" sha1="1230b747f1edeb357ff79cf29d76a3298bed1d63"/>
+		<rom name="Quake (1996) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Quake Mission Pack No. 1 - Scourge of Armagon (USA).chd" size="347380992" crc="97ebff8b" md5="8b9fcda46579cfc90d411f470c7df80c" sha1="cf4493780f7d4826f750d62830bcb06a8f0ed0d9">
+			<track number="1" type="MODE1_RAW" frames="30043" pregap="0" duration="06:40:43" size="70661136" crc="316b6658" md5="f88f15185ef4de2318db1dd0065d99e8" sha1="58dbd2e88265fe55235012afbfd28c8662884f55" in_zeros="1" out_zeros="0"/>
+			<track number="2" type="AUDIO" frames="14387" pregap="74" duration="03:11:62" size="33838224" crc="df7821e0" md5="10a2e77aed9827c5764db166edc23eb7" sha1="655beb180b420be55f0d1976ca588b32c9b66cca" in_zeros="184052" out_zeros="349633"/>
+			<track number="3" type="AUDIO" frames="14338" pregap="0" duration="03:11:13" size="33722976" crc="d7105bc2" md5="8f01257507bc713b2f6b40cc6b0fcd77" sha1="a0c240af8660a5a1ab6429cc8d21183a7b06c5f5" in_zeros="10004" out_zeros="347981"/>
+			<track number="4" type="AUDIO" frames="13778" pregap="0" duration="03:03:53" size="32405856" crc="9b11d7bb" md5="a8b4a692c17b82b587b7dfcd1cdd51cc" sha1="eab1020eb2f52a33c4aa2496479b9fa5b7c0fc2a" in_zeros="10004" out_zeros="348080"/>
+			<track number="5" type="AUDIO" frames="14422" pregap="0" duration="03:12:22" size="33920544" crc="79007ec7" md5="e203ad2d10f345944a5aeeaef5a84dd5" sha1="ef8264ff8a04cbf1d8f5b8a84c70218a9c9f014d" in_zeros="10004" out_zeros="347684"/>
+			<track number="6" type="AUDIO" frames="14480" pregap="0" duration="03:13:05" size="34056960" crc="910d6668" md5="a12a309a9653cdf6aa7941eff3fe7ae4" sha1="9bb4dc0d07709aa14c7d6f2ffc16ae61f28a5b44" in_zeros="10004" out_zeros="348961"/>
+			<track number="7" type="AUDIO" frames="13999" pregap="0" duration="03:06:49" size="32925648" crc="5002c01f" md5="39e407d7ed3b816adcb81b72443257b5" sha1="e2ae714998cc2759d57606cd07a13f90f0efb270" in_zeros="10004" out_zeros="347628"/>
+			<track number="8" type="AUDIO" frames="13743" pregap="0" duration="03:03:18" size="32323536" crc="89352c41" md5="1f809397db12d9e97e96e08bf2c80582" sha1="9a626606f0208d632b9dc6ea50710022d465ff8d" in_zeros="10004" out_zeros="349252"/>
+			<track number="9" type="AUDIO" frames="13755" pregap="0" duration="03:03:30" size="32351760" crc="58d2a520" md5="cd5c07fb049ada0a22ea5b5d831d447a" sha1="dc775a80ca4da3fbbee22a42ca382637a9c89e68" in_zeros="10004" out_zeros="2352"/>
+		</rom>
+	</game>
+	<game name="Quake Mission Pack No. 2 - Dissolution of Eternity (1997) (id Software).dosz">
+		<description>Quake Mission Pack No. 2 - Dissolution of Eternity</description>
+		<comment>Installed v1.0 from CD</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>1997</year>
+		<developer>id Software</developer>
+		<parent>Quake (1996) (id Software).dosz</parent>
+		<rom name="Quake (1996) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Quake Mission Pack No. 2 - Dissolution of Eternity (USA).chd" size="362029824" crc="b823878d" md5="a17a4e8aa6400f90b5731df8a34006bb" sha1="7eaedd05a64c780995b8832b86a66924d48d4529">
+			<track number="1" type="MODE1_RAW" frames="35237" pregap="0" duration="07:49:62" size="82877424" crc="b49fe594" md5="71a4298c7d9f72214f2f341d038a056c" sha1="dd0994b1334f4f0cbdc27e25cdf551c48deef53f" in_zeros="1" out_zeros="0"/>
+			<track number="2" type="AUDIO" frames="14474" pregap="74" duration="03:12:74" size="34042848" crc="48bca855" md5="1f00693d320a82090dbc8c68bac54856" sha1="89d94e9898b000f20e0219ad59f2740c7a1db2a9" in_zeros="184072" out_zeros="348376"/>
+			<track number="3" type="AUDIO" frames="14226" pregap="0" duration="03:09:51" size="33459552" crc="5212126e" md5="c19802eff59dfa7ce3aeaba9338200d9" sha1="9db85ec87d30ebdc045d3cbae5ff2545c7b50fe2" in_zeros="10024" out_zeros="349241"/>
+			<track number="4" type="AUDIO" frames="14011" pregap="0" duration="03:06:61" size="32953872" crc="ddddf093" md5="25141df52cb2bd6968a0708616e68400" sha1="f2919ff443c37086edd5e3de425266967a63800c" in_zeros="10024" out_zeros="349416"/>
+			<track number="5" type="AUDIO" frames="14191" pregap="0" duration="03:09:16" size="33377232" crc="94456e87" md5="6e3fffced88c1a4538f68bcc77fc7f29" sha1="280a51dbd9ce110395a7eef7619db9344cf1de1c" in_zeros="10024" out_zeros="349109"/>
+			<track number="6" type="AUDIO" frames="14801" pregap="0" duration="03:17:26" size="34811952" crc="24fcc35c" md5="68ab61da8b4b9db836eb83949ae9e02a" sha1="eada1f8086a329b96e80ca94127a895a8e5c85b1" in_zeros="10024" out_zeros="348936"/>
+			<track number="7" type="AUDIO" frames="13801" pregap="0" duration="03:04:01" size="32459952" crc="68f087e0" md5="d57bf13bc84fd8ede31465f04f7d4703" sha1="37c5e14ee825f6bb60155ce3da696dd5c9cd3c73" in_zeros="10024" out_zeros="348553"/>
+			<track number="8" type="AUDIO" frames="13993" pregap="0" duration="03:06:43" size="32911536" crc="48c07fc5" md5="3e88c53cb6f7ecb432d0a31db743a6e8" sha1="b6a690f24cbacc80bf3c4fbebbcb6e98e4faf57e" in_zeros="10024" out_zeros="347529"/>
+			<track number="9" type="AUDIO" frames="14210" pregap="0" duration="03:09:35" size="33421920" crc="c35710a0" md5="5eb5f76728db7f619fe6b6380550daa8" sha1="fa3cf0a0c7b66b8c620ca364ae952aca8bd6b5e6" in_zeros="10024" out_zeros="0"/>
+		</rom>
+		<rom name="ROGUE/1FLAG.BAT" size="48" crc="b78e9625" md5="5508244d4357015601337588783db89d" sha1="c48fd909948932789aba974a0fb215af49776dd9" date="1997-03-09 11:52:14"/>
+		<rom name="ROGUE/3TEAM.BAT" size="48" crc="2e6cf024" md5="a01a32476eed878f7ecee4967c3bde76" sha1="af879a3562f3bb46bf24002ee0a0e74d92985be1" date="1997-03-09 11:52:20"/>
+		<rom name="ROGUE/CTF.BAT" size="48" crc="760049e5" md5="150688afdaa5750e28a943fccda8c5c5" sha1="b524e7f4a2888df9b11877af4329510c92af1a74" date="1997-03-09 11:52:26"/>
+		<rom name="ROGUE/DEDICATE.BAT" size="40" crc="c0a14592" md5="d4d713a98401ada0aef5028ccc3d9429" sha1="4b15224854b17187d5347a151299ac078eaf7926" date="1997-03-09 11:52:36"/>
+		<rom name="ROGUE/DISS.BAT" size="18" crc="4b474473" md5="d75b4947393954004557acfb67e1f213" sha1="797fd4f47b23c9b0731fbb56875ec4b9f7849650" date="1997-03-11 09:31:32"/>
+		<rom name="ROGUE/LISTEN.BAT" size="26" crc="ee3db7a8" md5="2aa14e2dfe1476f3f7f4e8fc5800d216" sha1="ed95dde24333db09a2b3b308ccfc7d8fb3370b2e" date="1997-03-11 09:31:24"/>
+		<rom name="ROGUE/PAK0.PAK" size="37875279" crc="38b70ce8" md5="c38a4e04219c317cd1b02f386bdfe11f" sha1="78df8ce771d1bef5eb9da3d51c7628b11b4ae2c8" date="1997-03-11 14:35:30"/>
+		<rom name="ROGUE/TAG.BAT" size="49" crc="6200c184" md5="76e402dbe29b4ef690d1782317722a9a" sha1="555bdf58d60674d735fffe9a14d5610f9cbe89b5" date="1997-03-07 15:38:20"/>
 	</game>
 	<game name="Rogue (1984) (A.I. Design).dosz">
 		<description>Rogue</description>
