@@ -873,6 +873,16 @@
 		<rom name="VGA/SUR.VGA" size="20839" crc="51ecd850" md5="bea783389c42a32c8e971f8aa4bc1d3b" sha1="1bfc4e572a12064627fc5c0d12b188265a4603dc" date="1995-06-19 21:38:00"/>
 		<rom name="VGA/SURS.VGA" size="21364" crc="e82c34e9" md5="e79fe0ee93af419dcdbded356f9afa85" sha1="f7a099691c80d572682abd411ee7c01a63577bb6" date="1995-06-19 21:38:00"/>
 	</game>
+	<game name="Doom II - No Rest for the Living (2010) (Nerve Software).dosz">
+		<description>Doom II - No Rest for the Living</description>
+		<comment>Original version</comment>
+		<comment_dosc>DOS.YML only</comment_dosc>
+		<year>2010</year>
+		<developer>Nerve Software</developer>
+		<parent>MBF-SNM + Doom II (2019) (Sakitoshi).dosz</parent>
+		<rom name="MBF-SNM + Doom II (2019) (Sakitoshi).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="NERVE.WAD" size="3819855" crc="ad7f9292" md5="967d5ae23daf45196212ae1b605da3b0" sha1="3451288383fb16e196f273d9f85d58c1fda97bf4"/>
+	</game>
 	<game name="Gobliins 2 (1992) (Coktel Vision).dosz">
 		<description>Gobliins 2</description>
 		<comment>Installed from CD, CD image made from BIN/CUE</comment>
@@ -1912,16 +1922,6 @@
 		<rom name="ROLAND.IMS" size="18976" crc="8e983877" md5="98c9453b486e9cbff95c97c480c1a8d9" sha1="cd21c98036bfe54ae986941b3301f0c73c4f4f16" date="1991-11-21 13:33:38"/>
 		<rom name="SOUNBLAS.IMS" size="24808" crc="a95c63ec" md5="09ba62c3bc9f2bdc50868466cc4576b5" sha1="a1436072b308f073116aa57757b72709148c60b9" date="1991-11-21 13:33:38"/>
 		<rom name="SPEAKER.IMS" size="20062" crc="db85d8fd" md5="0c0a385da45ac811b23bbd47c9935990" sha1="953e2d5268125c97201674a55b6919c83f4d379c" date="1991-11-21 13:33:38"/>
-	</game>
-	<game name="No Rest for the Living (2010) (Nerve Software).dosz">
-		<description>No Rest for the Living</description>
-		<comment>Original version</comment>
-		<comment_dosc>DOS.YML only</comment_dosc>
-		<year>2010</year>
-		<developer>Nerve Software</developer>
-		<parent>MBF-SNM + Doom II (2019) (Sakitoshi).dosz</parent>
-		<rom name="MBF-SNM + Doom II (2019) (Sakitoshi).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="NERVE.WAD" size="3819855" crc="ad7f9292" md5="967d5ae23daf45196212ae1b605da3b0" sha1="3451288383fb16e196f273d9f85d58c1fda97bf4"/>
 	</game>
 	<game name="Prince of Persia (1992) (Broderbund Software).dosz">
 		<description>Prince of Persia</description>
