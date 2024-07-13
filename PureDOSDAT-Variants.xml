@@ -1574,6 +1574,26 @@
 			<track number="1" type="MODE1_RAW" frames="46008" pregap="0" duration="10:13:33" size="108210816" crc="256548cb" md5="1cda6c4279533aa29514af69580987e1" sha1="7a6ba155ae31fe39e2396ab67e5798108b7f8a8d" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
+	<game name="SimAnt (1991) (Maxis) (Installation).dosz">
+		<description>SimAnt</description>
+		<comment>Two v1.08 3.5" floppy disks</comment>
+		<year>1991</year>
+		<developer>Maxis</developer>
+		<variant>Installation</variant>
+		<rom name="data.img" size="737280" crc="8bb95ed3" md5="b06610fd24172756a2cff7fb2b97e60f" sha1="645a03ee24ff564ab027620f00a0ab37a00fb41f"/>
+		<rom name="install.img" size="737280" crc="a70ec01f" md5="9c2cd15b85cb056f2148fb0d34249b88" sha1="0f4f26dbd9303cbff96c9f21b6c1bec8866acd1f"/>
+	</game>
+	<game name="SimAnt (1991) (Maxis) (Installation, 5.25 Inch).dosz">
+		<description>SimAnt</description>
+		<comment>Four v1.08 5.25" floppy disks</comment>
+		<year>1991</year>
+		<developer>Maxis</developer>
+		<variant>Installation, 5.25 Inch</variant>
+		<rom name="data.img" size="368640" crc="e4f60677" md5="17d0e06bcd077fb5ab036e9cf121877a" sha1="59319ce8ad2a8ac3b4ee374a5d8255f28347d9a6"/>
+		<rom name="install.img" size="368640" crc="5e92d840" md5="5e0fc7e6f2490bb35357894e6c4ec03b" sha1="6f6c0b277f863629c8939384815c6a4de450c6f6"/>
+		<rom name="prgdata.img" size="368640" crc="b759b84b" md5="c66ae30df5bee80ab4ef1fde05162370" sha1="9da114568b5de7080086fa0fa419995b8ae931a1"/>
+		<rom name="program.img" size="368640" crc="0d34f94d" md5="7c1f7983989b98f7522d8730df21a0bc" sha1="18b5912774a28dfd64793468f174b2c020d58f6b"/>
+	</game>
 	<game name="Solitile (1989) (Everett Kaser) (Accessory Disk #2 + #3).dosz">
 		<description>Solitile</description>
 		<comment>Release version 3.5w with added content from Accessory Disk #2 and #3</comment>
