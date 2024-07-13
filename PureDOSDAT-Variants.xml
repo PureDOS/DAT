@@ -20,6 +20,36 @@
 			<track number="1" type="MODE1_RAW" frames="1209" pregap="0" duration="00:16:09" size="2843568" crc="c91ddc42" md5="43c1b816d440b9a640c45f0392926f80" sha1="10aec44bf9f2d0ef7f89b500a598e74039688c19"/>
 		</rom>
 	</game>
+	<game name="Final Doom (1996) (id Software) (Installation).dosz">
+		<description>Final Doom</description>
+		<comment>Contains Final Doom version with bug fixes, also other Doom games</comment>
+		<year>1996</year>
+		<developer>id Software</developer>
+		<variant>Installation</variant>
+		<rom name="id Anthology (USA) (Disc 2) (Doom) (Rev 1).chd" size="232403328" crc="94796723" md5="15d0cc524df85ad29d5eb605362ca25e" sha1="2cfd2ee746af2c34cef52ae2d574425c1aedbb6d">
+			<track number="1" type="MODE1_RAW" frames="94909" pregap="0" duration="21:05:34" size="223225968" crc="6ff080ba" md5="1f24387fb3ea227c44ce7a1b3e982f20" sha1="26856c342897ba02edb326f8657ef69429eaddc7" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
+	<game name="Final Doom - The Plutonia Experiment (1996) (id Software) (Steam).dosz">
+		<description>Final Doom - The Plutonia Experiment</description>
+		<comment>Original version without bug fixes</comment>
+		<comment_dosc>Default Steam config</comment_dosc>
+		<year>1996</year>
+		<developer>id Software</developer>
+		<variant>Steam</variant>
+		<rom name="DOOM2.EXE" size="722629" crc="12ee2811" md5="f006de4fd282ba61d7d0af41a993f9ba" sha1="9269fa5c095715d926015cad3381a4218e4f2d7e"/>
+		<rom name="PLUTONIA.WAD" size="17420824" crc="48d1453c" md5="75c8cf89566741fa9d22447604053bd7" sha1="90361e2a538d2388506657252ae41aceeb1ba360"/>
+	</game>
+	<game name="Final Doom - TNT - Evilution (1996) (id Software) (Steam).dosz">
+		<description>Final Doom - TNT - Evilution</description>
+		<comment>Original version without bug fixes</comment>
+		<comment_dosc>Default Steam config</comment_dosc>
+		<year>1996</year>
+		<developer>id Software</developer>
+		<variant>Steam</variant>
+		<rom name="DOOM2.EXE" size="722629" crc="12ee2811" md5="f006de4fd282ba61d7d0af41a993f9ba" sha1="9269fa5c095715d926015cad3381a4218e4f2d7e"/>
+		<rom name="TNT.WAD" size="18195736" crc="903dcc27" md5="4e158d9953c79ccf97bd0663244cc6b6" sha1="9fbc66aedef7fe3bae0986cdb9323d2b8db4c9d3"/>
+	</game>
 	<game name="Heretic - Shadow of the Serpent Riders (1996) (Raven Software) (Installation).dosz">
 		<description>Heretic - Shadow of the Serpent Riders</description>
 		<year>1996</year>
