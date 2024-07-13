@@ -667,6 +667,38 @@
 		<rom name="SOUND/WSS.ADD" size="48" crc="d625f396" md5="0879106beb6bd78253fe90bfb8c8e61f" sha1="eda3abb190a8ca2f3104c2ed8ec8c06ff1ae20b0" date="1993-05-18 15:07:44"/>
 		<rom name="SOUND/WSS.ADV" size="15991" crc="1c3f3b50" md5="0f2a8f3531219d33d094e92b00d41a0e" sha1="4d360564b8d05866165e4dc03257c7f372a1347c" date="1993-02-13 21:03:02"/>
 	</game>
+	<game name="Chex Quest (1996) (Digital Cafe).dosz">
+		<description>Chex Quest</description>
+		<comment>Installed from CD</comment>
+		<comment_dosc>Keyboard + Mouse controls, Sound Blaster config, and auto start</comment_dosc>
+		<year>1996</year>
+		<developer>Digital Cafe</developer>
+		<rom name="chex.exe" size="713017" crc="dd3e1573" md5="d58fc123f7ed425bcc060afb7269bc9c" sha1="77fae773cd3c1dc6c436e1a80b31a3988c16998d" date="1996-10-31 10:35:34"/>
+		<rom name="chex.wad" size="12361532" crc="298dd5b5" md5="25485721882b050afa96a56e5758dd52" sha1="eca9cff1014ce5081804e193588d96c6ddb35432" date="1996-10-31 13:44:40"/>
+		<rom name="chex1.bat" size="17" crc="b28909ae" md5="54a767d60c76ca47153ec8863307c814" sha1="5688e08ad07fd17205482a89f5d492ddab87442d" date="1996-10-28 12:47:08"/>
+		<rom name="end.exe" size="5696" crc="c7f31a77" md5="1e8a3032f5b277e236d69c0508ae9955" sha1="aa9c8cb437992782baaf3613ebf58a634127bb04" date="1996-10-30 14:58:58"/>
+		<rom name="end.smk" size="4586344" crc="f243667b" md5="9bb6d4522da0c21c9c5f826db08a4a97" sha1="4778f9e8b56d7a48074158dc710b928fbcb8bad7" date="1996-10-30 13:27:38"/>
+		<rom name="intro.exe" size="5728" crc="238df621" md5="c0db6db12922b5b53fcc819e1a476db5" sha1="6b7217e6e39e3e366bb0fb8ea62032337696c912" date="1996-10-30 14:57:48"/>
+		<rom name="intro.smk" size="17600460" crc="5a0dfcf2" md5="309dc7f31e5d98b551473219a7c996ca" sha1="7f691048b494e54f5869f5c0aca1f0a410980443" date="1996-10-27 10:48:58"/>
+		<rom name="menu.exe" size="6373120" crc="42553b86" md5="87738dd7b8aec4ff6c4ab0c84e634216" sha1="6cab45d21be705876644bcb7239a653dd9c5a0d6" date="1996-11-11 10:42:54"/>
+		<rom name="readme.txt" size="286" crc="e0b5633e" md5="bfc819c3624fa55afb13dcfb0027ae09" sha1="3bbc91c9e5c9ce926342971400e0489bde388947" date="1996-11-11 11:51:52"/>
+		<rom name="setup.exe" size="107056" crc="2746a131" md5="29b77e8bd8a81b825ce289d9972d450e" sha1="9ddceff147f32242b835e5f3649579cde6df3385" date="1996-10-31 08:28:52"/>
+		<rom name="SMACKE16.DLL" size="85948" crc="b8a0cb20" md5="b4ee21f683ad0b1ebf12c6616160d214" sha1="459060be8d4ca5c5c8eb1f200079a93db7eafd0b" date="1996-08-23 13:02:16"/>
+		<rom name="SMACKW16.DLL" size="17298" crc="3240687d" md5="099ab5781daa8a70a8a4a762bdd18cb2" sha1="ab4243bb1eff01c10219a1f79ea1f8b42d09437f" date="1996-08-23 13:02:10"/>
+		<rom name="SMACKW32.DLL" size="66560" crc="78c07775" md5="349e94977ffc5643e62d1492aa376683" sha1="7295813ad4b396a15c63000396a830e6c52f1673" date="1996-08-23 13:02:06"/>
+	</game>
+	<game name="Chex Quest 2 - Flemoids Take Chextropolis (1997) (Digital Cafe).dosz">
+		<description>Chex Quest 2 - Flemoids Take Chextropolis</description>
+		<comment>Freeware</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>1997</year>
+		<developer>Digital Cafe</developer>
+		<parent>Chex Quest (1996) (Digital Cafe).dosz</comment>
+		<rom name="Chex Quest (1996) (Digital Cafe).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="CHEX2.BAT" size="22" crc="c0681194" md5="d9cd68f1c024f63f79df2e3b2cf85de5" sha1="a6a74e62cafb7c3204259c89d5346d5d93fafd0d" date="1997-02-04 13:46:20"/>
+		<rom name="CHEX2.ICO" size="766" crc="021474f3" md5="4b075245a247a7fb00db53910b43148d" sha1="86d11c676e5bb74683c0d793372ca59558199073" date="1997-02-04 14:25:28"/>
+		<rom name="CHEX2.WAD" size="7585664" crc="30aab11e" md5="fdc4ffa57e1983e30912c006284a3e01" sha1="d5b970834b8ff364d377ef04eb7d12fa6035e10a" date="1997-02-05 16:37:42"/>
+	</game>
 	<game name="Commander Keen in Invasion of the Vorticons - Episode One - Marooned on Mars (1990) (id Software).dosz">
 		<description>Commander Keen in Invasion of the Vorticons - Episode One - Marooned on Mars</description>
 		<comment>Shareware episode v1.31</comment>
