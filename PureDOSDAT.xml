@@ -2142,6 +2142,15 @@
 		<rom name="SOUNBLAS.IMS" size="24808" crc="a95c63ec" md5="09ba62c3bc9f2bdc50868466cc4576b5" sha1="a1436072b308f073116aa57757b72709148c60b9" date="1991-11-21 13:33:38"/>
 		<rom name="SPEAKER.IMS" size="20062" crc="db85d8fd" md5="0c0a385da45ac811b23bbd47c9935990" sha1="953e2d5268125c97201674a55b6919c83f4d379c" date="1991-11-21 13:33:38"/>
 	</game>
+	<game name="Neuromancer (1989) (Interplay).dosz">
+		<description>Neuromancer</description>
+		<comment>5.25" floppy dump that is simply an executable file and two DATs</comment>
+		<comment_dosc>DOSC includes NEURO1.DAT, which was taken from the dump after mouse support and EGA were configured. NEURO1.DAT is also used for save games.</comment_dosc>
+		<year>1989</year>
+		<developer>Interplay</developer>
+		<rom name="NEURO.EXE" size="94921" crc="e1979265" md5="a583c5d83269cedf37fd2743971940ad" sha1="cc8d5cb6b7931b08967fc919dab9adb1be176ae1" date="1989-09-26 16:31:22"/>
+		<rom name="NEURO2.DAT" size="361755" crc="f2e46cbe" md5="a82f19c98916fe4b76905bdd9c57e479" sha1="cd1808fdc2ca6e40f82483c86bd8e61113efeaa0" date="1989-09-26 16:31:22"/>
+	</game>
 	<game name="Prince of Persia (1992) (Broderbund Software).dosz">
 		<description>Prince of Persia</description>
 		<comment>Based on the 3.5" disk of version 1.3</comment>
