@@ -737,25 +737,24 @@
 	</game>
 	<game name="Cyberbykes - Shadow Racer VR (1995) (Gametek).dosz">
 		<description>Cyberbykes - Shadow Racer VR</description>
-		<comment>Installed from CD, CD image made from BIN/CUE</comment>
-		<comment_dosc>Sound and video config file</comment_dosc>
+		<comment>Extracted from Redump dump of the game</comment>
 		<year>1995</year>
 		<developer>Gametek</developer>
-		<rom name="BITMAP.BIN" size="2324032" crc="ba827d34" md5="ac8693746bd5d7f7e72e65ca88ddfa7a" sha1="ce0b8e429f448d930682daa1a26eb8f005aeabac" date="1995-06-24 23:26:50"/>
-		<rom name="CYBER.EXE" size="931605" crc="2aeceb99" md5="4bca2a780b80220fcef61bee295bc697" sha1="7fa5a2ff5d761a0aaa206a3f13e102dc742b6ba4" date="1995-06-27 14:05:08"/>
-		<rom name="CYBER.TXT" size="6992" crc="e2305a7b" md5="ce68122d79f2908f1f71bd8e67c3ad2c" sha1="67cfa4165212c87b1ed224d93737d52386e33616" date="1995-06-26 05:37:14"/>
-		<rom name="Cyberbykes.chd" size="129215232" crc="25dff19d" md5="fb3f2d111cd8c5b307ea2f15eb1b26fe" sha1="a5f57115dacfae53df8b8bc052a6050c05267a0f">
-			<track number="1" type="MODE1_RAW" frames="52768" pregap="0" duration="11:43:43" size="124110336" crc="38f6af75" md5="49c3bd0af627e59f4e6a2baea31b3292" sha1="bda85561b295f8b9e1b4d5cd6115d5082175f912"/>
+		<rom name="BITMAP.BIN" size="2324032" crc="ba827d34" md5="ac8693746bd5d7f7e72e65ca88ddfa7a" sha1="ce0b8e429f448d930682daa1a26eb8f005aeabac" date="1995-06-24 17:26:50"/>
+		<rom name="CYBER.EXE" size="931605" crc="2aeceb99" md5="4bca2a780b80220fcef61bee295bc697" sha1="7fa5a2ff5d761a0aaa206a3f13e102dc742b6ba4" date="1995-06-27 08:05:08"/>
+		<rom name="CYBER.TXT" size="6992" crc="e2305a7b" md5="ce68122d79f2908f1f71bd8e67c3ad2c" sha1="67cfa4165212c87b1ed224d93737d52386e33616" date="1995-06-25 23:37:14"/>
+		<rom name="Cyberbykes - Shadow Racer VR (USA).chd" size="802728576" crc="23c48b25" md5="be9752a182e0f25d60197429809ab360" sha1="795d3b7aa4f394efaeef04cc87a21b3994fb5f56">
+			<track number="1" type="MODE1_RAW" frames="327839" pregap="0" duration="72:51:14" size="771077328" crc="ed82fc25" md5="86aa6ebfc9618c57139790e1b2ac5f6b" sha1="9f884724e21ae3df717a375a5ddae2f887f7c3ca" in_zeros="1" out_zeros="0"/>
 		</rom>
-		<rom name="DRIVER.BIN" size="312868" crc="6f04b792" md5="0fca11a530c89f01110cdae2c6a02303" sha1="9297a1af790701aa70ade65d2d0edb9234df7bac" date="1995-06-12 22:32:02"/>
-		<rom name="EARTH.FLC" size="528778" crc="2bc14fb9" md5="9ffb16f402b6d36ac2183fad8a36baca" sha1="1253d9079766af6825318bf1c7cff50b8acee653" date="1995-05-05 17:15:00"/>
-		<rom name="EARTH640.FLC" size="2242664" crc="015eb128" md5="0c6e311c521f8cc6df4672879e991ac5" sha1="45cc01ac6cc3b6bca82dd2b8c9d29d4555b5979a" date="1995-04-20 16:03:34"/>
-		<rom name="FONT.BIN" size="54107" crc="b7d53ce6" md5="d7f1ebcf6a38ca44862111d70c3676ba" sha1="40b959de016bc5980214446b0636612b3f7d04c1" date="1995-05-03 12:57:06"/>
-		<rom name="MEMO.BIN" size="22749" crc="35de79c8" md5="8303fe52a9d8446e43c047c52b108fb5" sha1="fe53132c781d47e0a6624cef45923dcb1a431f3c" date="1995-06-27 15:42:30"/>
-		<rom name="POLY.BIN" size="386468" crc="515b7b53" md5="a2771f0e4ac92b5c1213739a2b54c872" sha1="b81caf838e61e2c750d5e71a00010a4279f059e6" date="1995-06-26 01:11:24"/>
-		<rom name="READ.ME" size="17081" crc="d0f45de6" md5="2ec03bb72edf540da9d4dde7ea2acde5" sha1="29829f30f91d181f30c8ebea9fda3aee5097d3f8" date="1995-06-26 05:58:16"/>
-		<rom name="SOUND.BIN" size="574586" crc="5897f701" md5="892bef54c0ce35f1d0ec8e465c4b8596" sha1="3c5d33dc2b80c40595de250f05b7116689e580fa" date="1995-06-26 08:47:08"/>
-		<rom name="VOICE.BIN" size="589048" crc="70aaaea1" md5="adaa389813a6ee1eace95104e08f735b" sha1="da34dc717e7b2e747771db6f8d48a1d932772a28" date="1995-05-07 22:11:32"/>
+		<rom name="DRIVER.BIN" size="312868" crc="6f04b792" md5="0fca11a530c89f01110cdae2c6a02303" sha1="9297a1af790701aa70ade65d2d0edb9234df7bac" date="1995-06-12 16:32:02"/>
+		<rom name="EARTH.FLC" size="528778" crc="2bc14fb9" md5="9ffb16f402b6d36ac2183fad8a36baca" sha1="1253d9079766af6825318bf1c7cff50b8acee653" date="1995-05-05 11:15:00"/>
+		<rom name="EARTH640.FLC" size="2242664" crc="015eb128" md5="0c6e311c521f8cc6df4672879e991ac5" sha1="45cc01ac6cc3b6bca82dd2b8c9d29d4555b5979a" date="1995-04-20 10:03:34"/>
+		<rom name="FONT.BIN" size="54107" crc="b7d53ce6" md5="d7f1ebcf6a38ca44862111d70c3676ba" sha1="40b959de016bc5980214446b0636612b3f7d04c1" date="1995-05-03 06:57:06"/>
+		<rom name="MEMO.BIN" size="22749" crc="35de79c8" md5="8303fe52a9d8446e43c047c52b108fb5" sha1="fe53132c781d47e0a6624cef45923dcb1a431f3c" date="1995-06-27 09:42:30"/>
+		<rom name="POLY.BIN" size="386468" crc="515b7b53" md5="a2771f0e4ac92b5c1213739a2b54c872" sha1="b81caf838e61e2c750d5e71a00010a4279f059e6" date="1995-06-25 19:11:24"/>
+		<rom name="READ.ME" size="17095" crc="07febff9" md5="102f93cf42c0b20169f0b69a20558c12" sha1="f2a6897da9abc9ad2c8afd4917b24c21f1ef920e" date="1995-06-25 23:58:16"/>
+		<rom name="SOUND.BIN" size="574586" crc="5897f701" md5="892bef54c0ce35f1d0ec8e465c4b8596" sha1="3c5d33dc2b80c40595de250f05b7116689e580fa" date="1995-06-26 02:47:08"/>
+		<rom name="VOICE.BIN" size="589048" crc="819137d4" md5="92ccbf191d4be775aa4a8bd6599b546e" sha1="a17f025634fbc51c29c8662b373fe8dff03e66af" date="1995-05-07 16:11:32"/>
 	</game>
 	<game name="D-Generation (1991) (Mindscape).dosz">
 		<description>D-Generation</description>
