@@ -57,6 +57,15 @@
 		<rom name="DOOM2.EXE" size="709905" crc="be91c727" md5="e2382b7dc47ae2433d26b6e6bc312999" sha1="aa0668fae2f743ee5e3e5634ee42d3c8ace7d907"/>
 		<rom name="DOOM2.WAD" size="14604584" crc="ec8725db" md5="25e1459ca71d321525f84628f45ca8cd" sha1="7ec7652fcfce8ddc6e801839291f0e28ef1d5ae7"/>
 	</game>
+	<game name="Elder Scrolls Adventures, The - Redguard (1998) (Bethesda Softworks) (Installation).dosz">
+		<description>Elder Scrolls Adventures, The - Redguard</description>
+		<year>1998</year>
+		<developer>Bethesda Softworks</developer>
+		<variant>Installation</variant>
+		<rom name="Elder Scrolls Adventures, The - Redguard (USA) (Disc 1) (Install Disc).chd" size="388761984" crc="1756af8b" md5="72c09e24a9aa1366f4b122697521838e" sha1="c35a9d5a67feb727b96bb090e2c3bea34e4fb6ed">
+			<track number="1" type="MODE1_RAW" frames="158761" pregap="0" duration="35:16:61" size="373405872" crc="4123900d" md5="470ce60627e52d8c7ea84a3eca9f2482" sha1="a43c6a3d3306028e8dafb916df1cf058f296399c" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
 	<game name="Final Doom (1996) (id Software) (Installation).dosz">
 		<description>Final Doom</description>
 		<comment>Contains Final Doom version with bug fixes, also other Doom games</comment>
