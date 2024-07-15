@@ -1791,6 +1791,39 @@
 		<rom name="XMAS2.PSM" size="136849" crc="4bf10799" md5="2cff502e4831a658b1c63257838a3ebf" sha1="cb1483acc93019333d5923abead301e10b565afb" date="1995-09-27 03:01:40"/>
 		<rom name="XMAS3.PSM" size="181650" crc="fe0ed271" md5="f1f1b66abb6fa42dcb0221fb21c97319" sha1="d08254373447fc0e68b5f280f6367030dd27b2a7" date="1995-09-27 03:03:42"/>
 	</game>
+	<game name="Malice (1997) (Quantum Axcess).dosz">
+		<description>Malice</description>
+		<comment>Installed from CD</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>1997</year>
+		<developer>Quantum Axcess</developer>
+		<parent>Quake (1996) (id Software).dosz</parent>
+		<rom name="Malice (USA).chd" size="596841984" crc="41a4d7f7" md5="2907557a4d5b565e9f4e1b32dd7b8d46" sha1="b52ca5e0265f2bf84057632f793bd9d12279d3e4">
+			<track number="1" type="MODE2_RAW" frames="39182" pregap="0" duration="08:42:32" size="92156064" crc="16a0bedd" md5="e73ddab27fc08d83ab4f88e9e7ff0506" sha1="6eb343270f75f0650d939ea095cda8da2a5fb774" in_zeros="1" out_zeros="4681"/>
+			<track number="2" type="AUDIO" frames="24646" pregap="224" duration="05:28:46" size="57967392" crc="1773f345" md5="59e16bd63da11a05017a732813803e17" sha1="9f3969d769702553fdbfa90d6236436ab927387f" in_zeros="526856" out_zeros="10537"/>
+			<track number="3" type="AUDIO" frames="10333" pregap="148" duration="02:17:58" size="24303216" crc="62c972cd" md5="d8217d584c2e1d93e5853f9143a4bbf3" sha1="c667d6fecabe630cd20b6de049e0813cd70f67b4" in_zeros="348124" out_zeros="7029"/>
+			<track number="4" type="AUDIO" frames="25439" pregap="149" duration="05:39:14" size="59832528" crc="3a5e9b0d" md5="76a567a3c092de4ee377fdd4e8f45071" sha1="75cf4d8a6c090aa7851669eaeb2efa5341f6f2f3" in_zeros="350460" out_zeros="10725"/>
+			<track number="5" type="AUDIO" frames="29732" pregap="148" duration="06:36:32" size="69929664" crc="8d579ae8" md5="e7ab05cc72eb6c8c4f27560634f6d115" sha1="b60af19f3f10e3c2c5e88646f73bcd417d927356" in_zeros="348172" out_zeros="9413"/>
+			<track number="6" type="AUDIO" frames="29176" pregap="148" duration="06:29:01" size="68621952" crc="ce35a72e" md5="b8b47ef30c502f861d9ad293157de218" sha1="3c8ff5cb781b41fa6749b63dd17c5572640eb593" in_zeros="348188" out_zeros="10357"/>
+			<track number="7" type="AUDIO" frames="30722" pregap="148" duration="06:49:47" size="72258144" crc="6479655a" md5="12228f3910c134ee23a4a0736e3182fd" sha1="2febe71704f99b106429ecec6783e874d5f54234" in_zeros="348228" out_zeros="10797"/>
+			<track number="8" type="AUDIO" frames="20791" pregap="148" duration="04:37:16" size="48900432" crc="6bbe0a73" md5="feb3af0171d4e2250d2ad355b63ff4cc" sha1="333b498e03f122b2ddca1d14651e406f2b7bbc93" in_zeros="348260" out_zeros="11005"/>
+			<track number="9" type="AUDIO" frames="26305" pregap="148" duration="05:50:55" size="61869360" crc="1cb03548" md5="5d3b178354bbac3e3668920dc533891f" sha1="95176c6068c8b2b3fb29497abe85f9aba1428daf" in_zeros="348292" out_zeros="9213"/>
+			<track number="10" type="AUDIO" frames="8823" pregap="148" duration="01:57:48" size="20751696" crc="ca0dfff0" md5="c949c6db0ff439744c9858c2a0e70009" sha1="f91a31b26bb208a5cf78244c66a418dc375e700e" in_zeros="348308" out_zeros="4704"/>
+		</rom>
+		<rom name="MALICE.BAT" size="59" crc="bc65b89e" md5="10e7d94a4bc7d9e1d00adfcf06b6b0f8" sha1="0e704055fc15d65e70d1c9e7fcc313b340937b4a"/>
+		<rom name="MALICE/MALICE.TXT" size="31171" crc="37abfde2" md5="ccc71fd16121f2941ae394ba8503f320" sha1="873db30331e0d414c7999cc8ca6aca864159cae2"/>
+		<rom name="MALICE/MLICENSE.TXT" size="8529" crc="de591a11" md5="18a16ad94cb3f175c3c382bd9609173a" sha1="7c11678f80a4b8cacbb489db4a36afea23a65cbd"/>
+		<rom name="MALICE/PAK0.PAK" size="18989583" crc="5d79b74d" md5="36eca7e938f5d93922d58c42eccc2895" sha1="40788cb50fab2acba022cc89db8e1431820ef0bb"/>
+		<rom name="MALICE/PAK1.PAK" size="604424" crc="0c44bf19" md5="2ee378919cdd78e63dc809bc3707c1ba" sha1="a859fde7c0faa1dc2eb3c8cd8110574db49d6898"/>
+		<rom name="MALICE/PAK2.PAK" size="12644111" crc="2faec885" md5="2c7e3de6cff6dc5a972a305ed3351a03" sha1="f98386f7f5947cb8862879eefdf127c4faa05797"/>
+		<rom name="MALICE/PAK3.PAK" size="46749039" crc="ad99e9ba" md5="54f371884c588da16694e564b0f73a98" sha1="a733c8cebf615183818fcb97c4b1711649b0c8f4"/>
+		<rom name="MALICE/README.TXT" size="5423" crc="8765929a" md5="a788e872bcb1d565ead69dc9945b2b68" sha1="5882e6bb8a6f1ec0655099acc2c247562e816e2e"/>
+		<rom name="MALICE/REGISTER.TXT" size="2458" crc="122a63ea" md5="780de6c30706ea9a67dc16ff3b68d7ed" sha1="a6a46846ee82a7b9dedb9ba68634687d99505c53"/>
+		<rom name="MALICE/STRAT1.TXT" size="5441" crc="4c4e5cf6" md5="d550dab2f1b2c24b3adcaf92e95403e3" sha1="78859460c93d476b589a73c1fbb2f39c527f374d"/>
+		<rom name="MALICE/STRAT2.TXT" size="7537" crc="faa6cace" md5="3a167fd9a63d59b65bdf38ee2d69ed53" sha1="8e4046625e0a5316834d70998d42e655f6487849"/>
+		<rom name="MALICE/STRAT3.TXT" size="5068" crc="3b8be95a" md5="9e053c63e4165897ad470f56899a5fab" sha1="53d43a765f98f9d9efe0ae3903de1f535237e7a9"/>
+		<rom name="Quake (1996) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
 	<game name="Mario Brothers VGA (1990) (Dave Sharpless).dosz">
 		<description>Mario Brothers VGA</description>
 		<comment_dosc>Auto run</comment_dosc>
