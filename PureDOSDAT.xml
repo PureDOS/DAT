@@ -340,7 +340,7 @@
 		<rom name="TEXTURES.FPG" size="482002" crc="ffe31e4b" md5="9d8229c2b4fe2b00f9046d662271de5e" sha1="4d0af126795811d8d52569bc6d71a48217913f4e" date="2002-04-30 21:40:06"/>
 		<rom name="TITEL.FPG" size="257656" crc="e5e52d00" md5="be00e8a1e534efe09c21e9cc9deb1222" sha1="cc64c37a1331c339e66da97b7f458253a1f40013" date="2002-04-30 21:40:04"/>
 	</game>
- 	<game name="Caesar (1992) (Impressions Games).dosz">
+	<game name="Caesar (1992) (Impressions Games).dosz">
 		<description>Caesar</description>
 		<comment>Installed from SierraOriginals CD re-release from 1995</comment>
 		<comment_dosc>Sound config</comment_dosc>
@@ -716,6 +716,50 @@
 		<rom name="PREVIEWS.CK1" size="2160" crc="a5021ef9" md5="c480310fb66b36854b293264dbf6d8ff" sha1="f73fa1495d3753ffc680f4bcf5761920fc8a3f4c" date="1990-01-23 13:31:00"/>
 		<rom name="SOUNDS.CK1" size="8898" crc="569e89e0" md5="c726f4948d49c5b212cc6f6bc8a72247" sha1="42cf2e625428c4605a352fbdffbb525e18dce7da" date="1990-01-23 13:31:00"/>
 		<rom name="STORYTXT.CK1" size="3504" crc="231a12cf" md5="0f6e2c7fc0ec2df428757386b072b071" sha1="d930d9066f7c9a2035c6cd8f85e2f6a149fbe147" date="1990-01-23 13:31:00"/>
+	</game>
+	<game name="Crusader - No Remorse (1996) (Origin Systems).dosz">
+		<description>Crusader - No Remorse</description>
+		<comment>Full installation using Redump-verified disc. Used the 1997-02-02 rerelease (v1.21).</comment>
+		<comment_dosc>Sound configuration, keyboard/mouse support, subtitles enabled, large video setting, and auto-start.</comment_dosc>
+		<year>1996</year>
+		<developer>Origin Systems</developer>
+		<rom name="ASYLUM.DLL" size="116440" crc="8be52a4a" md5="cf01473ea7fc03b8b393b1e719854cfb" sha1="66670941ca4364359884a2bacee1625c2f59d53d"/>
+		<rom name="AUTORUN.INF" size="56" crc="69ddebc7" md5="689cc29e6b2bbbcfafa6513a97a01eec" sha1="374a0513d7dc10229f2007929836fb8595029779"/>
+		<rom name="CDROM.DAT" size="20" crc="22cf43b6" md5="aec80c498ed269d93ccc9cbd5b0688af" sha1="0ea3e70158386d21d0e675f8c55399d7fe678dc9"/>
+		<rom name="Crusader.chd" size="805352832" crc="432908ab" md5="0c7e6a026cf1b46301016c0146302db5" sha1="e430247043c6886cd6c07a44e339fd7a21f2ed81">
+				<track number="1" type="MODE1_RAW" frames="328908" pregap="0" duration="73:05:33" size="773591616" crc="740f2fa9" md5="71defca82899595376996c19a552e89a" sha1="d9d56d352036cd0be4efc16835258db84aa20d24" in_zeros="1" out_zeros="0"/>
+		</rom>
+		<rom name="CRUSADER.EXE" size="991878" crc="09e186bf" md5="13a9250b280d4889c7b48a1fd084a8b1" sha1="5f3eb75202fa54cdc6703b875bfc505eb1ee320d"/>
+		<rom name="CRUSADER.ICO" size="3126" crc="98c7421e" md5="7dff0ec39b7ca73f67cab5f6cdf5ed31" sha1="d971b2f1c5f486dc6741a8890046a29ed1144284"/>
+		<rom name="INSTALL.EXE" size="456754" crc="e18f55a6" md5="6ba663b953d15961ba1e567ec69e4892" sha1="de973d6e59d768192fd96c924231720e4475a7ad"/>
+		<rom name="JOYTEST.EXE" size="13572" crc="4354f240" md5="149a9a2234ec65583f6f6f661d62a1e7" sha1="28f8b0f39c26523aa0943f180a5e1871704a1c56"/>
+		<rom name="MOD2AMF.EXE" size="351086" crc="cbcfd269" md5="44ea74293b417739b6ddc27354e9bca3" sha1="9eb2ed82e446145bcb0727edfec53eeffa596716"/>
+		<rom name="README.TXT" size="17689" crc="d8c4bb40" md5="7b2564c253d0d08474e63cec6c639f20" sha1="727825b94224ba60055f17d14de81805ba7c7c5a"/>
+		<rom name="SOUND/SOUND.FLX" size="4504087" crc="fe3dd21c" md5="00b3f8e8e7e7d5a2d5d71508c2425a25" sha1="15a67046d1fe863365f27169c7e2a67bc4d14cd1"/>
+		<rom name="STATIC/ANIM.DAT" size="228052" crc="34896104" md5="99d650f00233a39def64891b63f2f729" sha1="e2534c012968b813fbe3595740fa59349f0c1050"/>
+		<rom name="STATIC/COMBAT.DAT" size="1734" crc="32350a00" md5="349a37391b6fe7278c0dbf4811ad5a1d" sha1="024848ad082c6c14e79c749854c41e5571544bbf"/>
+		<rom name="STATIC/DAMAGE.FLX" size="12424" crc="b46f5575" md5="b463d1be42d56320fb7b968b50c03fd4" sha1="9671e66e1fc3801be4071da8d744ddf4ac51cdfa"/>
+		<rom name="STATIC/DIFF.PAL" size="768" crc="0870267b" md5="d098d70bb64d5b8481724310d68b757d" sha1="fa79bcae462aaa066da9ad4ec99a51d707339006"/>
+		<rom name="STATIC/DTABLE.FLX" size="11520" crc="f6b97814" md5="37d4c7eca90471d88e6bcc90e76e4ef2" sha1="2961ce1c2fb592814b74c0575ec29b3471be717e"/>
+		<rom name="STATIC/FONTS.FLX" size="198877" crc="1c73fb78" md5="38f0129c43f580439215cff2415755fb" sha1="b85b3f2f6a69eb3328c070ccb1a6d188abd54085"/>
+		<rom name="STATIC/GAMEPAL.PAL" size="768" crc="e381eaf9" md5="d940c09cb7cdf1febf72ab03900eb7a0" sha1="017d37b2d53ced7fd42b25c51ec3530699124523"/>
+		<rom name="STATIC/GLOB.FLX" size="264974" crc="40e5320e" md5="63cec4ebc233f2fafc4d360169ebb8b8" sha1="9e26b13f81e425c33cfb1d5a6cf202aaeb8c0f00"/>
+		<rom name="STATIC/GUMPS.FLX" size="501404" crc="93886491" md5="6f6b807697ade0ed647412659bbb0d00" sha1="2532dbe66f616ccdc565ec6c786a9022155ebb02"/>
+		<rom name="STATIC/MISC.PAL" size="768" crc="a74a9d5b" md5="c9e20056033bd5266280af13a57e639d" sha1="2b67a5e797d3574a04bed2c8513698acf5ee3da0"/>
+		<rom name="STATIC/MISC2.PAL" size="768" crc="0870267b" md5="d098d70bb64d5b8481724310d68b757d" sha1="fa79bcae462aaa066da9ad4ec99a51d707339006"/>
+		<rom name="STATIC/MOUSE.SHP" size="15617" crc="7cf8d765" md5="1d48c4771fe9113da7c9b4a4ebafb189" sha1="3dbe7d693ea907911f0b64e0e739f2c2d8cd4cff"/>
+		<rom name="STATIC/SHAPES.FLX" size="42218623" crc="13eafcbe" md5="df20812d9911e0e75e3617f273879273" sha1="6493d62b7e8d627d1fb0d0ef7f89ad297f11b2e9"/>
+		<rom name="STATIC/STAR.PAL" size="768" crc="2162b46c" md5="aded1d9f59d85330fd2747a634075d79" sha1="05c254f9220a26452984a491daeaf25713fc0767"/>
+		<rom name="STATIC/STUFF.DAT" size="9660" crc="c00544a4" md5="90931585ed7ce5b4e687366ab010d3ed" sha1="541058437d2f0d71c345df5cb0c347c4bebc9c5f"/>
+		<rom name="STATIC/TRIG.DAT" size="3072" crc="b3191ac3" md5="6d73cf685dc0680cf7b73be8c5d266cc" sha1="c801b20e89ae16fadeabed20d3b2c81afb8286f6"/>
+		<rom name="STATIC/TYPEFLAG.DAT" size="18432" crc="ad1e22be" md5="4bc341ae5235d5a47c2bc159d8a8f19a" sha1="ef200dfa632b39b567ebbd07aea19ba18a277ba7"/>
+		<rom name="STATIC/WPNOVLAY.DAT" size="154360" crc="1fd7e7d3" md5="48912be8945cde6be6df64656a0dc592" sha1="5ba83d9b8962da06dd458cc2d43c1bdf6057d67e"/>
+		<rom name="STATIC/XFORMPAL.DAT" size="2480" crc="c6b64e9e" md5="522ab1be1e07a40e670e1c8b138672e1" sha1="e87a1b8e9e55d6d323d7a7b44cd38abd7a61dbe9"/>
+		<rom name="UNIVBE.EXE" size="74412" crc="35483491" md5="d65d1a199c9db67c61bf05abd80d8e53" sha1="71c05805c0b9b5ece4720d16b4fa1618af80404c"/>
+		<rom name="USECODE/EUSECODE.FLX" size="556613" crc="ff277cf2" md5="a3c0950f44693eb5983227b4e834a3b6" sha1="d7912724673f27c5d2e5b4fb9c41b22d67ae828a"/>
+		<rom name="USECODE/OVERLOAD.DAT" size="39936" crc="c76684a6" md5="1b5347ff77c8f0079f8a2734e7a14bc4" sha1="712e8d47a5b07990a14266a2a0d6ca065fdd593e"/>
+		<rom name="USECODE/UNKCOFF.DAT" size="1244" crc="d8dad5da" md5="6bd9d3a6e2a78c618e9c7f487d45cb02" sha1="c8188cbb434d2866667b94e1e3357431c9601d58"/>
+		<rom name="USECODE/UNKDS.DAT" size="66" crc="7d2bddcb" md5="d4fbe0f4d2e88878a33dcf0bc8d43324" sha1="8e5f81182af580aaf991207029d1923724cf79f1"/>
 	</game>
 	<game name="Crystal Caves Vol. 1 - Troubles with Twibbles (1991) (Apogee Software).dosz">
 		<description>Crystal Caves Vol. 1 - Troubles with Twibbles</description>
