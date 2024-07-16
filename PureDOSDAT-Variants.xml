@@ -2593,4 +2593,23 @@
 			<track number="8" type="AUDIO" frames="17779" pregap="0" duration="03:57:04" size="41816208" crc="53e0141c" md5="5d7ca6b788c30b78c7ae456d391c6d3e" sha1="07d2a9d51fa6742ff6430d5057e81650e80d94be" in_zeros="18942" out_zeros="1055089"/>
 		</rom>
 	</game>
+	<game name="Zork I - The Great Underground Empire (1980) (Infocom) (GOG).dosz">
+		<description>Zork I - The Great Underground Empire</description>
+		<year>1980</year>
+		<developer>Infocom</developer>
+		<variant>GOG</variant>
+		<rom name="_ZORK1.COM" size="11402" crc="036192bc" md5="ac11c891d24cd6b7825bc8f83ed63ced" sha1="d1ab6ff70b3856d8930dca3444ae401ccdb057bd"/>
+		<rom name="DATA/ZORK1.DAT" size="92160" crc="bf60ef9d" md5="b732a93a6244ddd92a9b9a3e3a46c687" sha1="70b9e127569a66ac8dc005395e9deccc52e84056"/>
+		<rom name="NNANSI.COM" size="5221" crc="c3001c87" md5="baa0a5a499ddb07d2fc71f1e1f1e04e6" sha1="71f9f566009b7d2ac4af1ccf7ec84b41cf4601b8"/>
+		<rom name="SAVE/ZORK1.DAT" size="12883" crc="21ecff1a" md5="e9089c0d11db1d68f12c45affeccdd61" sha1="21196f50d5f97ca0c50da6756f9f2c702d9aea9b"/>
+		<rom name="SETUP.INF" size="3" crc="8bdcb97d" md5="56d258bd897f5bb1b04ce55d31431366" sha1="b24951cc8c9d943894c558fa045e943e8916946a"/>
+	</game>
+	<game name="Zork I - The Great Underground Empire (1980) (Infocom) (Installation).dosz">
+		<description>Zork I - The Great Underground Empire</description>
+		<comment>Revision 88 1985 3L floppy disk</comment>
+		<year>1980</year>
+		<developer>Infocom</developer>
+		<variant>Installation</variant>
+		<rom name="disk1.img" size="184320" crc="225929c2" md5="0766c190723b49afead59f23de83a52e" sha1="2d305780d4cdf64f32d77bb9a8aed5d277eaf9f7"/>
+	</game>
 </datafile>
