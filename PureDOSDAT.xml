@@ -327,6 +327,30 @@
 		<rom name="SFX/ZAP3.WAV" size="9448" crc="c58c799a" md5="33c38a9e024e33721e5c42b0fcc18eba" sha1="b83706f5e97e4416278a9564a319362c2c5a504f" date="1995-08-26 05:30:20"/>
 		<rom name="TEST.RAW" size="40320" crc="0d2d49b8" md5="7cc517930c314be6ca818395934e9850" sha1="13b15b9f8a0b7d98176f9437aca149301c576458" date="1995-08-15 19:57:50"/>
  	</game>
+	<game name="ACE Engine for Doom 2 (2020) (kgsws).dosz">
+		<description>ACE Engine for Doom 2</description>
+		<comment>Version 4</comment>
+		<year>2020</year>
+		<developer>kgsws</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="ace.wad" size="540882" crc="5ba94da8" md5="1c50b1aed275284c3f2d6d634c7de690" sha1="68a51c40a3461200021bcfd8bc3d5e1f82cf18f5" date="2023-11-12 08:33:26"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Airstrik (1998) (Sir Kenny).dosz">
+		<description>Airstrik</description>
+		<comment>Version 1 with CWSDPMI Version 7</comment>
+		<year>1998</year>
+		<developer>Sir Kenny</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="AIRSTRIK.EXE" size="814592" crc="a0648943" md5="b7e1ebd3753341b296a46e9272607e35" sha1="a2e78a958ae147269606798e092280b275d6f39d" date="1998-11-13 09:11:46"/>
+		<rom name="AIRSTRIK.TXT" size="2257" crc="d78bc8f6" md5="74e237c66efac91024ffa88d2d9f4046" sha1="4f49460ac9f521c41e8c5c5531c79baea0c1df63" date="2002-09-18 23:18:06"/>
+		<rom name="AIRSTRIK.WAD" size="617668" crc="2f164d7f" md5="453854f60534f55cd8266c2082818b23" sha1="cc8de4881a060c4cb59021909a3bafad3f91e1ac" date="1998-11-13 09:04:14"/>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 23:06:10"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOM3.WAD" size="776992" crc="13ac6af1" md5="e02272ec1dda386792a8138b32ea8ee3" sha1="f368318e0addb85c673faf2685761fe5a9293a77" date="1998-08-24 23:55:54"/>
+		<rom name="DOOMLIC.TXT" size="5606" crc="c5bdffe3" md5="890b5c678b2fe6d3806ed23b49f22f19" sha1="a5441d7a598233c92066799448122aea0bb6e26b" date="1997-12-22 22:44:18"/>
+		<rom name="LEGACY.TXT" size="22926" crc="6438d5df" md5="2e20cf87b3db08a720c9616b9052fa6c" sha1="ee782396effa2474c7172d11ede35b1734da83da" date="1998-08-25 01:45:58"/>
+	</game>
 	<game name="Big Mac (2002) (BB Software).dosz">
 		<description>Big Mac</description>
 		<year>2002</year>
@@ -680,6 +704,30 @@
 		<rom name="SOUND/WSS.ADD" size="48" crc="d625f396" md5="0879106beb6bd78253fe90bfb8c8e61f" sha1="eda3abb190a8ca2f3104c2ed8ec8c06ff1ae20b0" date="1993-05-18 15:07:44"/>
 		<rom name="SOUND/WSS.ADV" size="15991" crc="1c3f3b50" md5="0f2a8f3531219d33d094e92b00d41a0e" sha1="4d360564b8d05866165e4dc03257c7f372a1347c" date="1993-02-13 21:03:02"/>
 	</game>
+	<game name="CDoom + Doom II (2016) (compatibledoom).dosz">
+		<description>CDoom + Doom II</description>
+		<comment>v2.07</comment>
+		<year>2016</year>
+		<developer>compatibledoom</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="CDoom.exe" size="105880" crc="e1d2131e" md5="c545535ec4411fe86a9b27d3c8693981" sha1="86d4578dd065390dc80b35e3c8bab82b295ae85f" date="2022-02-14 12:31:08"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="doom.cfg" size="90" crc="bbbfd5d0" md5="311cbc317089cd092d2b23b1966385a1" sha1="cdb5022bd3f7d8d25c30a3fca347a52329066de3" date="2014-02-19 18:30:42"/>
+		<rom name="S4.bat" size="33" crc="cc39e390" md5="b639b52e9e16cc293462ca251e7f3861" sha1="116f780f9f227a2dcab646d6bbfaea9ba6b898eb" date="2013-12-09 21:59:06"/>
+		<rom name="S4.wad" size="450733" crc="8a9730fe" md5="f9a7c196b09de80578d7b9c74a2dbca7" sha1="667de728dff14c0afd7f0c3bbd6fd62f1737f691" date="2014-07-25 18:31:42"/>
+	</game>
+	<game name="CDoom + The Ultimate Doom (2016) (compatibledoom).dosz">
+		<description>CDoom + The Ultimate Doom</description>
+		<comment>v2.07</comment>
+		<year>2016</year>
+		<developer>compatibledoom</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="CDoom.exe" size="105880" crc="e1d2131e" md5="c545535ec4411fe86a9b27d3c8693981" sha1="86d4578dd065390dc80b35e3c8bab82b295ae85f" date="2022-02-14 12:31:08"/>
+		<rom name="doom.cfg" size="90" crc="bbbfd5d0" md5="311cbc317089cd092d2b23b1966385a1" sha1="cdb5022bd3f7d8d25c30a3fca347a52329066de3" date="2014-02-19 18:30:42"/>
+		<rom name="S4.bat" size="33" crc="cc39e390" md5="b639b52e9e16cc293462ca251e7f3861" sha1="116f780f9f227a2dcab646d6bbfaea9ba6b898eb" date="2013-12-09 21:59:06"/>
+		<rom name="S4.wad" size="450733" crc="8a9730fe" md5="f9a7c196b09de80578d7b9c74a2dbca7" sha1="667de728dff14c0afd7f0c3bbd6fd62f1737f691" date="2014-07-25 18:31:42"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
 	<game name="Commander Keen in Invasion of the Vorticons - Episode One - Marooned on Mars (1990) (id Software).dosz">
 		<description>Commander Keen in Invasion of the Vorticons - Episode One - Marooned on Mars</description>
 		<comment>Shareware episode v1.31</comment>
@@ -734,6 +782,48 @@
 		<rom name="CC1.EXE" size="73256" crc="7be5f203" md5="904d1091d560f340f107d5c8d3ee5159" sha1="90dfa04aaa370725599bc8eef33c7bfe5d399ba0" date="2005-10-23 13:01:00"/>
 		<rom name="CC1.GFX" size="184069" crc="5bff4464" md5="973b1236ea57d073749563b152d6e9e9" sha1="1a91824d14a6df7f053ed52c30cbdb0ad09cb8fc" date="1991-11-11 13:00:06"/>
 		<rom name="CC1.TTL" size="18328" crc="b3eb1a2e" md5="595bb26f9b7499fcafdac264730f8a3a" sha1="3397d17b222054b0e7d85804ece35449513661aa" date="1991-11-11 13:00:56"/>
+	</game>
+	<game name="CTFDoom + Doom II (1998) (John Cole).dosz">
+		<description>CTFDoom + Doom II</description>
+		<comment>v0.8</comment>
+		<year>1998</year>
+		<developer>John Cole</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="3TEAMSV4.WAD" size="48955" crc="2ca183be" md5="06f6cf1dd6410ce491c2d1b7d434cee1" sha1="919ae7fc27c852f3f581f69c825ca3d3e4d6cb7d" date="1998-04-19 19:56:26"/>
+		<rom name="CTFD.WAD" size="115580" crc="26f3df55" md5="f042cd6a4744cb9c5644f84f31e8fa18" sha1="9c45951c7ea2e1b84f3b988798a359468d40e141" date="1998-04-19 19:56:26"/>
+		<rom name="CTFDOOM.EXE" size="401972" crc="28216b3b" md5="3f6d2a33fa4cb657b43332e383cdbed7" sha1="f9c31d29992a4da74290e9c800d8be557f840a56" date="1998-04-19 19:56:26"/>
+		<rom name="CTFDOOM.TXT" size="27735" crc="4dfc6216" md5="8d7ac2bc8a6073519f27188c4b546039" sha1="dc26fe5cc740e39b083c06ce1da79274ca9cde10" date="1998-04-19 19:56:26"/>
+		<rom name="CWSDPMI.EXE" size="20473" crc="80fa6999" md5="da922d33e83c4ca711a92e59f2c6a9fc" sha1="3de2eb058ed95a0bbe7f19eae24f77a025b2e3bb" date="1998-04-19 19:56:26"/>
+		<rom name="DM2018.WAD" size="45568" crc="6f6f295a" md5="8221c0ad0f02c9376d45b45b7691bb0a" sha1="2baad46c376f2613b8afc1173fc32b1357ed2267" date="1998-04-19 19:56:26"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOMLIC.TXT" size="5494" crc="1492fddd" md5="1cdfdebf5ce458980ccff1826add9e47" sha1="b735f2f4021989e6f598d50722b3d9d475fb2178" date="1998-04-19 19:56:26"/>
+		<rom name="FILES.TXT" size="514" crc="ab198fa5" md5="fba87bccd165f8378393e72f364160a7" sha1="5771b27f2231c784e6ca1e582e112b46708492a7" date="1998-04-19 19:56:26"/>
+		<rom name="FLAGS.ZIP" size="43439" crc="26caaf86" md5="98e8cd0ce47e23ef664d1a2effbf5fbe" sha1="8fdcf65f44613287ca3a114419b352a89017c00e" date="1998-04-19 19:56:26"/>
+		<rom name="IPXSETUP.EXE" size="31587" crc="6481a7d1" md5="b8a15d04f96f851a32908e73c33ed920" sha1="474fb363ad11c865d27081ca8fe40e50b6ab9f3b" date="1998-04-19 19:56:26"/>
+		<rom name="IPXSETUP.TXT" size="3652" crc="fd4d80f7" md5="1c2fd12d5ab5c51ac125ee4d8fcd915e" sha1="73b678c552a0d03836643a934b763f2a273fd1df" date="1998-04-19 19:56:26"/>
+		<rom name="PLAYBACK.WAD" size="11684" crc="1070c9cd" md5="734061223edd0641ea63d2561b0584b8" sha1="6e86a74aea09dc058629ab16ad37eeeb34c9b00c" date="1998-04-19 19:56:26"/>
+		<rom name="WHATS.NEW" size="1304" crc="eae653dd" md5="c26a0dce79a4133d90512c07cd978bcd" sha1="7218cb614913624bd9f79b1d8c1f36735b9f6e9b" date="1998-04-19 19:56:26"/>
+	</game>
+	<game name="CTFDoom + The Ultimate Doom (1998) (John Cole).dosz">
+		<description>CTFDoom + The Ultimate Doom</description>
+		<comment>v0.8</comment>
+		<year>1998</year>
+		<developer>John Cole</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="3TEAMSV4.WAD" size="48955" crc="2ca183be" md5="06f6cf1dd6410ce491c2d1b7d434cee1" sha1="919ae7fc27c852f3f581f69c825ca3d3e4d6cb7d" date="1998-04-19 19:56:26"/>
+		<rom name="CTFD.WAD" size="115580" crc="26f3df55" md5="f042cd6a4744cb9c5644f84f31e8fa18" sha1="9c45951c7ea2e1b84f3b988798a359468d40e141" date="1998-04-19 19:56:26"/>
+		<rom name="CTFDOOM.EXE" size="401972" crc="28216b3b" md5="3f6d2a33fa4cb657b43332e383cdbed7" sha1="f9c31d29992a4da74290e9c800d8be557f840a56" date="1998-04-19 19:56:26"/>
+		<rom name="CTFDOOM.TXT" size="27735" crc="4dfc6216" md5="8d7ac2bc8a6073519f27188c4b546039" sha1="dc26fe5cc740e39b083c06ce1da79274ca9cde10" date="1998-04-19 19:56:26"/>
+		<rom name="CWSDPMI.EXE" size="20473" crc="80fa6999" md5="da922d33e83c4ca711a92e59f2c6a9fc" sha1="3de2eb058ed95a0bbe7f19eae24f77a025b2e3bb" date="1998-04-19 19:56:26"/>
+		<rom name="DM2018.WAD" size="45568" crc="6f6f295a" md5="8221c0ad0f02c9376d45b45b7691bb0a" sha1="2baad46c376f2613b8afc1173fc32b1357ed2267" date="1998-04-19 19:56:26"/>
+		<rom name="DOOMLIC.TXT" size="5494" crc="1492fddd" md5="1cdfdebf5ce458980ccff1826add9e47" sha1="b735f2f4021989e6f598d50722b3d9d475fb2178" date="1998-04-19 19:56:26"/>
+		<rom name="FILES.TXT" size="514" crc="ab198fa5" md5="fba87bccd165f8378393e72f364160a7" sha1="5771b27f2231c784e6ca1e582e112b46708492a7" date="1998-04-19 19:56:26"/>
+		<rom name="FLAGS.ZIP" size="43439" crc="26caaf86" md5="98e8cd0ce47e23ef664d1a2effbf5fbe" sha1="8fdcf65f44613287ca3a114419b352a89017c00e" date="1998-04-19 19:56:26"/>
+		<rom name="IPXSETUP.EXE" size="31587" crc="6481a7d1" md5="b8a15d04f96f851a32908e73c33ed920" sha1="474fb363ad11c865d27081ca8fe40e50b6ab9f3b" date="1998-04-19 19:56:26"/>
+		<rom name="IPXSETUP.TXT" size="3652" crc="fd4d80f7" md5="1c2fd12d5ab5c51ac125ee4d8fcd915e" sha1="73b678c552a0d03836643a934b763f2a273fd1df" date="1998-04-19 19:56:26"/>
+		<rom name="PLAYBACK.WAD" size="11684" crc="1070c9cd" md5="734061223edd0641ea63d2561b0584b8" sha1="6e86a74aea09dc058629ab16ad37eeeb34c9b00c" date="1998-04-19 19:56:26"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="WHATS.NEW" size="1304" crc="eae653dd" md5="c26a0dce79a4133d90512c07cd978bcd" sha1="7218cb614913624bd9f79b1d8c1f36735b9f6e9b" date="1998-04-19 19:56:26"/>
 	</game>
 	<game name="Cyberbykes - Shadow Racer VR (1995) (Gametek).dosz">
 		<description>Cyberbykes - Shadow Racer VR</description>
@@ -874,6 +964,113 @@
 		<rom name="SOUND.CFG" size="32" crc="2b79d7be" md5="51d70b5660a9826a2fc3de3f547b5d35" sha1="6880992e8e59b584149614deaa637ba89775c3df" date="2002-03-28 23:08:48"/>
 		<rom name="SOURCE/DKONG.PRG" size="27319" crc="c822e9fe" md5="291e4c00991c709786afc9b9ffd15c30" sha1="36b6f6e0324b312875be611a677e0659fd00f788" date="2002-03-28 22:54:28"/>
 	</game>
+	<game name="Doom-plus (2007) (entryway).dosz">
+		<description>Doom-plus</description>
+		<comment>v1.92.2</comment>
+		<year>2007</year>
+		<developer>entryway</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="DOOMP.EXE" size="715493" crc="0806c5de" md5="dcd5e7f9d295a9315966dd434a0a00cc" sha1="121501f3b2667978b2e2c7dab886cc4120798c3a" date="2007-04-01 23:33:12"/>
+		<rom name="readme.txt" size="597" crc="d3b84921" md5="20742db55cf25664922bfa0599d1e8b5" sha1="1586f553c6f403ff1f2af9ce2a3957beae8da452" date="2006-07-07 00:13:28"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Doom2-plus (2006) (entryway).dosz">
+		<description>Doom2-plus</description>
+		<comment>v1.92.2</comment>
+		<year>2006</year>
+		<developer>entryway</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOM2P.EXE" size="709905" crc="2157ac71" md5="dc1096fab589bde2d096687f3216b1dd" sha1="efc468eb0da6b93ac34e6bd18f89eeef9ec5b6a4" date="2006-07-07 00:15:30"/>
+		<rom name="readme.txt" size="597" crc="d3b84921" md5="20742db55cf25664922bfa0599d1e8b5" sha1="1586f553c6f403ff1f2af9ce2a3957beae8da452" date="2006-07-07 00:13:28"/>
+	</game>
+	<game name="Doom32 (2012) (Xttl, ConSiGno).dosz">
+		<description>Doom32</description>
+		<comment>Version 1</comment>
+		<year>2012</year>
+		<developer>Xttl, ConSiGno</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="DOOM32.EXE" size="709905" crc="300fb4b3" md5="ed757a8326530045c0b6c5d04b5cca12" sha1="39790004a882b83e4dfe65bb9f0a16f24dbe2728" date="2011-10-11 11:14:34"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Doom128 + Doom II (2022) (Gibbon).dosz">
+		<description>Doom128 + Doom II</description>
+		<comment>v18022022 with DOS/32A v9.1.2 renamed to DOS4GW.EXE</comment>
+		<year>2022</year>
+		<developer>Gibbon</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOM128_D2.EXE" size="603293" crc="013b36a2" md5="e2efd613b98b45beae2e3c4b233a6953" sha1="0e4b2e0afddc9ee31aad3642755578d9e8e48d00" date="2022-04-19 09:58:36"/>
+		<rom name="DOS4GW.EXE" size="27504" crc="2bd6cff1" md5="a5f5195b509b10228efe61c47427ca54" sha1="cfa0f60c34e4693758f575ef82277060aa40fc32" date="2006-04-20 11:11:12"/>
+	</game>
+	<game name="Doom128 + The Ultimate Doom (2022) (Gibbon).dosz">
+		<description>Doom128 + The Ultimate Doom</description>
+		<comment>v18022022 with DOS/32A v9.1.2 renamed to DOS4GW.EXE</comment>
+		<year>2022</year>
+		<developer>Gibbon</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="DOOM128_UD.EXE" size="608993" crc="903a8bc4" md5="c8d582aced20a66d8b52de6774275759" sha1="c3dbcc6d064bb9902ed59d42776711a322e5a1e5" date="2022-04-19 10:17:22"/>
+		<rom name="DOS4GW.EXE" size="27504" crc="2bd6cff1" md5="a5f5195b509b10228efe61c47427ca54" sha1="cfa0f60c34e4693758f575ef82277060aa40fc32" date="2006-04-20 11:11:12"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="DoomNew + Doom II (2012) (Maraakate).dosz">
+		<description>DoomNew + Doom II</description>
+		<comment>v1.9a</comment>
+		<year>2012</year>
+		<developer>Maraakate</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="changes.txt" size="10817" crc="7dd6a140" md5="0a427c41eabf5a4e06ddfd6c60fca0d3" sha1="8dce937ba1fec25a693c784046f78ce763c78e6a" date="2015-10-21 15:45:54"/>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2015-08-19 01:07:02"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="doom_dj.exe" size="614602" crc="3cb51c8a" md5="cc840ec7c44199875d7cfffa20a4c1bc" sha1="ddb2af6310de73306ff339b1e606606cf77b13f8" date="2015-10-21 15:50:58"/>
+		<rom name="DOOMNEW.EXE" size="802344" crc="d7641920" md5="e47d7008e3d355c9abd92c80e34357d5" sha1="a17f8bd84a0c38b5db56a52038d345788c956d6a" date="2015-10-21 15:50:20"/>
+		<rom name="DOOMVR.EXE" size="832494" crc="bf0b8ab2" md5="babea1795298d82cb29544f436bee13b" sha1="f22b95a641e8c0a849b2b616308265ff85a80b09" date="2015-10-21 15:50:26"/>
+		<rom name="ipxsetup.exe" size="14059" crc="01ada8cc" md5="3c5291c18bb8cacbe60064ad0dca610f" sha1="6c244c46625d31a39089e1d67925c8d9a105d68e" date="2013-09-02 05:32:48"/>
+		<rom name="todo.txt" size="330" crc="bdc4b88f" md5="f00307d900bbe44d982f20fbde2d45ab" sha1="bb220e13fdc08dc7541fa850163eeeb0dec9b5ff" date="2013-10-13 07:07:54"/>
+	</game>
+	<game name="DoomNew + The Ultimate Doom (2012) (Maraakate).dosz">
+		<description>DoomNew + The Ultimate Doom</description>
+		<comment>v1.9a</comment>
+		<year>2012</year>
+		<developer>Maraakate</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="changes.txt" size="10817" crc="7dd6a140" md5="0a427c41eabf5a4e06ddfd6c60fca0d3" sha1="8dce937ba1fec25a693c784046f78ce763c78e6a" date="2015-10-21 15:45:54"/>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2015-08-19 01:07:02"/>
+		<rom name="doom_dj.exe" size="614602" crc="3cb51c8a" md5="cc840ec7c44199875d7cfffa20a4c1bc" sha1="ddb2af6310de73306ff339b1e606606cf77b13f8" date="2015-10-21 15:50:58"/>
+		<rom name="DOOMNEW.EXE" size="802344" crc="d7641920" md5="e47d7008e3d355c9abd92c80e34357d5" sha1="a17f8bd84a0c38b5db56a52038d345788c956d6a" date="2015-10-21 15:50:20"/>
+		<rom name="DOOMVR.EXE" size="832494" crc="bf0b8ab2" md5="babea1795298d82cb29544f436bee13b" sha1="f22b95a641e8c0a849b2b616308265ff85a80b09" date="2015-10-21 15:50:26"/>
+		<rom name="ipxsetup.exe" size="14059" crc="01ada8cc" md5="3c5291c18bb8cacbe60064ad0dca610f" sha1="6c244c46625d31a39089e1d67925c8d9a105d68e" date="2013-09-02 05:32:48"/>
+		<rom name="todo.txt" size="330" crc="bdc4b88f" md5="f00307d900bbe44d982f20fbde2d45ab" sha1="bb220e13fdc08dc7541fa850163eeeb0dec9b5ff" date="2013-10-13 07:07:54"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="DoomWorld + Doom II (1998) (vmlinuz).dosz">
+		<description>DoomWorld + Doom II</description>
+		<comment>Version 1 with CWSDPMI Version 7</comment>
+		<year>1998</year>
+		<developer>vmlinuz</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 23:06:10"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOMWRLD.DOC" size="582" crc="a60e7cbf" md5="f6ada39a36b7d7867d6f95bf3d08bcdd" sha1="52a961c94ad3c72554a4e018b9ea302d0b489a16" date="1998-05-21 15:37:12"/>
+		<rom name="DOOMWRLD.EXE" size="2390121" crc="81dbca73" md5="ca01f15cc4b632b0fe352b274cf8aa38" sha1="4bc7b387be7e1381b345d33d6e7dc0eb8f38fcdd" date="1998-05-21 15:44:18"/>
+		<rom name="DW.BAT" size="68" crc="34a644d5" md5="68cc34721e190bde367b49cf7c3caaf5" sha1="952826a3a217e0c3d114a1583d6d461d6f7d6d1e" date="1998-05-20 14:37:06"/>
+		<rom name="HOST.BAT" size="138" crc="30a4f472" md5="f6c35fad5afdbdac21b7a6579d2ce198" sha1="16f72488a874ebbbd9fbe5b653fff9c9e54852ac" date="1998-05-22 15:31:22"/>
+		<rom name="JOIN.BAT" size="76" crc="dd4a7741" md5="212266d2d9275729e1c2f12310453149" sha1="9fec1f5df322abe0a4303c9b8cb78b9c46f77d34" date="1998-05-22 15:31:24"/>
+	</game>
+	<game name="DoomWorld + The Ultimate Doom (1998) (vmlinuz).dosz">
+		<description>DoomWorld + The Ultimate Doom</description>
+		<comment>Version 1 with CWSDPMI Version 7</comment>
+		<year>1998</year>
+		<developer>vmlinuz</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 23:06:10"/>
+		<rom name="DOOMWRLD.DOC" size="582" crc="a60e7cbf" md5="f6ada39a36b7d7867d6f95bf3d08bcdd" sha1="52a961c94ad3c72554a4e018b9ea302d0b489a16" date="1998-05-21 15:37:12"/>
+		<rom name="DOOMWRLD.EXE" size="2390121" crc="81dbca73" md5="ca01f15cc4b632b0fe352b274cf8aa38" sha1="4bc7b387be7e1381b345d33d6e7dc0eb8f38fcdd" date="1998-05-21 15:44:18"/>
+		<rom name="DW.BAT" size="68" crc="34a644d5" md5="68cc34721e190bde367b49cf7c3caaf5" sha1="952826a3a217e0c3d114a1583d6d461d6f7d6d1e" date="1998-05-20 14:37:06"/>
+		<rom name="HOST.BAT" size="138" crc="30a4f472" md5="f6c35fad5afdbdac21b7a6579d2ce198" sha1="16f72488a874ebbbd9fbe5b653fff9c9e54852ac" date="1998-05-22 15:31:22"/>
+		<rom name="JOIN.BAT" size="76" crc="dd4a7741" md5="212266d2d9275729e1c2f12310453149" sha1="9fec1f5df322abe0a4303c9b8cb78b9c46f77d34" date="1998-05-22 15:31:24"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
 	<game name="Doom II (1994) (id Software).dosz">
 		<description>Doom II</description>
 		<comment>Installed v1.9 from CD, with DeathManager v1.1 and FAQs added from Doom v1.9 shareware</comment>
@@ -900,6 +1097,396 @@
 		<rom name="README.TXT" size="22128" crc="6b328417" md5="0439d5c9b64f05df1fbb0051b405d5fd" sha1="0e1b22f9fdd048a49e5af906ca64b73b88b75ff1" date="1995-02-01 01:09:04"/>
 		<rom name="SERSETUP.EXE" size="20257" crc="64ea3378" md5="4494aa8d1840676aa676c6aac772b2eb" sha1="f41ebfc15378d2e2d0b70e60f4349bc4a3ccc2bd" date="1995-02-01 01:09:04"/>
 		<rom name="SETUP.EXE" size="45745" crc="0025fe95" md5="675564fcd380f5ef9beb0e7b21a51f79" sha1="f8644ace438896f9a788629d8da869bd34926f91" date="1995-02-01 01:09:04"/>
+	</game>
+	<game name="Doom Legacy + Doom II (1998) (Boris Pereira, faB, Hurdler, Wesley Johnson).dosz">
+		<description>Legacy Doom + Doom II</description>
+		<comment>v1.40rc1 with CWSDPMI Version 7</comment>
+		<year>1998</year>
+		<developer>Boris Pereira, faB, Hurdler, Wesley Johnson</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="autoexec.cfg" size="1344" crc="937b93fa" md5="42b536edfce50ada1d4bde141cbdf9d9" sha1="16ae2eb8db19b69169979e5b534bfe08792194f7" date="2001-05-06 11:54:18"/>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 23:06:10"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="doom3.exe" size="1166336" crc="580d6b04" md5="4b8ccb518d4a8b7c6205cacc7f6c5849" sha1="1c3e01e03c65dd75dc50bcefb1ca570c81f7b249" date="2002-07-31 20:15:06"/>
+		<rom name="DOOMATIC.EXE" size="90386" crc="39c35de3" md5="07a0a6bdb4819346a44302bbd33c2c0b" sha1="80175d3893732d3875650e3ef2376d965834f017" date="1999-07-09 21:32:08"/>
+		<rom name="FILE_ID.DIZ" size="388" crc="5f6f29ba" md5="d49c2f5ee0b3e89ff8ab914bd1f295e6" sha1="3fd69085c561b2aec4bdae3a788a83ddee9be99f" date="2002-07-31 20:15:50"/>
+		<rom name="legacy.dat" size="951045" crc="e40b45ba" md5="0c5c812a357644d5e87e6c52529de6fa" sha1="309f489dd33c1837bc3f07fb98383a3943f73046" date="2002-07-29 23:51:12"/>
+		<rom name="LEGACY.DOC/3dfloors.html" size="9254" crc="adad5992" md5="9f6bab99eeeb18c835f52a0b23972c17" sha1="454b71416a1a06ceb23a8cdebf78ad48c1fa40cf" date="2002-07-30 01:58:58"/>
+		<rom name="LEGACY.DOC/add_fs.zip" size="56193" crc="979c6cd0" md5="36ad29c91dbc7a311be1af2aa759a20b" sha1="71c3a8d2120547dcbee93c14db0489e6b97924c1" date="2001-08-13 21:43:46"/>
+		<rom name="LEGACY.DOC/boomref.html" size="159109" crc="2bed2f92" md5="d9d6fd5317100a8dceb318f8a8b1ba43" sha1="7b4afcaa14511de4c788e4a7621f77137d6444dc" date="2002-07-30 01:58:58"/>
+		<rom name="LEGACY.DOC/Console.html" size="51048" crc="d054a13d" md5="54d04d3c5ee0e3e792084dc626d91d4e" sha1="bda3992e16b803e557733be3a47910af91185dca" date="2002-07-30 01:58:58"/>
+		<rom name="LEGACY.DOC/COPYING" size="18321" crc="0767480b" md5="ad4652e2dcfd4a0ecf91a2c01a7defd5" sha1="b6bf3e6e140e34af95f38bd7e59b9517cc88506d" date="2002-01-03 21:02:16"/>
+		<rom name="LEGACY.DOC/doomatic.txt" size="30658" crc="b8331d1a" md5="b9656b6e02865ad84fd35e0dc58a3d60" sha1="fdb0ff0051c3767bd40fa4446efcfc6de4fb0bac" date="2001-05-01 23:10:14"/>
+		<rom name="LEGACY.DOC/Editing.html" size="11067" crc="06ed36d2" md5="6fcfc11c60fa3840845d1fbc89ff4b28" sha1="8166efcde6bae2f2296920f485ff5069a24f3f9e" date="2002-07-30 01:58:58"/>
+		<rom name="LEGACY.DOC/editspecs.html" size="4442" crc="459e85e0" md5="2d737cd2f9eaf018d969f294fabb41c3" sha1="9107c9a8304ee03be708573e6b13bc4d85bc43a5" date="2002-07-30 01:58:58"/>
+		<rom name="LEGACY.DOC/Faq.html" size="14035" crc="d540b467" md5="41c25f5c7c185c06d28f9a6e087d312d" sha1="81140bb4cbd5a7e0f4029ecebd9ac7f60bf340a0" date="2002-07-30 01:58:58"/>
+		<rom name="LEGACY.DOC/fsbasic.html" size="32610" crc="4cc70a66" md5="576798fb2385c769e879ea43932cd968" sha1="eb6d475eee0a5889b3b1b264186a3db5686e3241" date="2002-07-30 01:58:58"/>
+		<rom name="LEGACY.DOC/fsfuncs.html" size="45696" crc="3b89a04d" md5="b613d4eeaecf7d491ff1fac656a104bb" sha1="f22974f5d1c8f31e7e08e5fbc7a888a913afceda" date="2002-07-30 01:58:58"/>
+		<rom name="LEGACY.DOC/index.html" size="1726" crc="a1d1ad7f" md5="5b3399720584cb47b3d6478b91c5148a" sha1="076bce7fbff429fa0ddc4a6f55997116994bcae2" date="2002-07-30 01:58:58"/>
+		<rom name="LEGACY.DOC/Legacy.html" size="36493" crc="b8c05478" md5="9f78ac58ee9d4ce22c9d249e6a1addac" sha1="0cf2eddc448ceb39af490a9a49c5e4eb4354fab2" date="2002-07-30 01:58:58"/>
+		<rom name="LEGACY.DOC/Skinspec.html" size="10732" crc="e1975eed" md5="98f36d6adaaf80d150e2d7a3cd4c9af0" sha1="86645ebc11f514b46de3fac15a1b6c3d07fee959" date="2002-07-30 01:58:58"/>
+		<rom name="LEGACY.DOC/source.html" size="7808" crc="16edd9f2" md5="045f89e1e9c7edbc41f995154eded117" sha1="e07f258c47909902f335a53d01a3592ee36a4e29" date="2002-07-30 01:58:58"/>
+		<rom name="LEGACY.DOC/Whatsnew.html" size="44996" crc="c8458438" md5="bab66646d6fecf7f8ab53238d340d560" sha1="883ecdb5b19a9c1a489e8d167a913c64a8dfceff" date="2002-07-30 01:58:58"/>
+		<rom name="Samples/HIPAFRAG.TXT" size="2310" crc="f5da6df5" md5="613e094be312144bccd03205806a0988" sha1="a981b95d963b20c6c9b6a3e94d42a4487cec2ad3" date="2000-08-09 10:51:56"/>
+		<rom name="Samples/HIPAFRAG.WAD" size="41771" crc="740dd722" md5="b9429e5908f7bd613c2654e7917efdbd" sha1="107e5b313a1ad4aa0ad0c39603c62d86f170e691" date="1998-02-14 07:09:06"/>
+		<rom name="Samples/LEPRSKIN.WAD" size="158683" crc="42c3ae39" md5="70da32c3282b628a7f3ed8c19062022d" sha1="25c51cefbdeab6eb8233719f8a1d2c1f19489aba" date="1998-08-23 02:02:46"/>
+		<rom name="Samples/RainBowStar.txt" size="3274" crc="93594a56" md5="b4a785cbebb6fa632d1c2bbcd3ba23b7" sha1="80d64fa6ecc111adeec88bb92686b50558097e89" date="2001-12-31 15:59:50"/>
+		<rom name="Samples/rainbowstar.wad" size="213417" crc="539d7383" md5="d96badd96d112df0d6421e048e271cac" sha1="fa77936525243a85ef02a6526fed3dda1bce6999" date="2002-06-30 23:50:52"/>
+	</game>
+	<game name="Doom Legacy + The Ultimate Doom (1998) (Boris Pereira, faB, Hurdler, Wesley Johnson).dosz">
+		<description>Legacy Doom + The Ultimate Doom</description>
+		<comment>v1.40rc1 with CWSDPMI Version 7</comment>
+		<year>1998</year>
+		<developer>Boris Pereira, faB, Hurdler, Wesley Johnson</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="autoexec.cfg" size="1344" crc="937b93fa" md5="42b536edfce50ada1d4bde141cbdf9d9" sha1="16ae2eb8db19b69169979e5b534bfe08792194f7" date="2001-05-06 11:54:18"/>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 23:06:10"/>
+		<rom name="doom3.exe" size="1166336" crc="580d6b04" md5="4b8ccb518d4a8b7c6205cacc7f6c5849" sha1="1c3e01e03c65dd75dc50bcefb1ca570c81f7b249" date="2002-07-31 20:15:06"/>
+		<rom name="DOOMATIC.EXE" size="90386" crc="39c35de3" md5="07a0a6bdb4819346a44302bbd33c2c0b" sha1="80175d3893732d3875650e3ef2376d965834f017" date="1999-07-09 21:32:08"/>
+		<rom name="FILE_ID.DIZ" size="388" crc="5f6f29ba" md5="d49c2f5ee0b3e89ff8ab914bd1f295e6" sha1="3fd69085c561b2aec4bdae3a788a83ddee9be99f" date="2002-07-31 20:15:50"/>
+		<rom name="legacy.dat" size="951045" crc="e40b45ba" md5="0c5c812a357644d5e87e6c52529de6fa" sha1="309f489dd33c1837bc3f07fb98383a3943f73046" date="2002-07-29 23:51:12"/>
+		<rom name="LEGACY.DOC/3dfloors.html" size="9254" crc="adad5992" md5="9f6bab99eeeb18c835f52a0b23972c17" sha1="454b71416a1a06ceb23a8cdebf78ad48c1fa40cf" date="2002-07-30 01:58:58"/>
+		<rom name="LEGACY.DOC/add_fs.zip" size="56193" crc="979c6cd0" md5="36ad29c91dbc7a311be1af2aa759a20b" sha1="71c3a8d2120547dcbee93c14db0489e6b97924c1" date="2001-08-13 21:43:46"/>
+		<rom name="LEGACY.DOC/boomref.html" size="159109" crc="2bed2f92" md5="d9d6fd5317100a8dceb318f8a8b1ba43" sha1="7b4afcaa14511de4c788e4a7621f77137d6444dc" date="2002-07-30 01:58:58"/>
+		<rom name="LEGACY.DOC/Console.html" size="51048" crc="d054a13d" md5="54d04d3c5ee0e3e792084dc626d91d4e" sha1="bda3992e16b803e557733be3a47910af91185dca" date="2002-07-30 01:58:58"/>
+		<rom name="LEGACY.DOC/COPYING" size="18321" crc="0767480b" md5="ad4652e2dcfd4a0ecf91a2c01a7defd5" sha1="b6bf3e6e140e34af95f38bd7e59b9517cc88506d" date="2002-01-03 21:02:16"/>
+		<rom name="LEGACY.DOC/doomatic.txt" size="30658" crc="b8331d1a" md5="b9656b6e02865ad84fd35e0dc58a3d60" sha1="fdb0ff0051c3767bd40fa4446efcfc6de4fb0bac" date="2001-05-01 23:10:14"/>
+		<rom name="LEGACY.DOC/Editing.html" size="11067" crc="06ed36d2" md5="6fcfc11c60fa3840845d1fbc89ff4b28" sha1="8166efcde6bae2f2296920f485ff5069a24f3f9e" date="2002-07-30 01:58:58"/>
+		<rom name="LEGACY.DOC/editspecs.html" size="4442" crc="459e85e0" md5="2d737cd2f9eaf018d969f294fabb41c3" sha1="9107c9a8304ee03be708573e6b13bc4d85bc43a5" date="2002-07-30 01:58:58"/>
+		<rom name="LEGACY.DOC/Faq.html" size="14035" crc="d540b467" md5="41c25f5c7c185c06d28f9a6e087d312d" sha1="81140bb4cbd5a7e0f4029ecebd9ac7f60bf340a0" date="2002-07-30 01:58:58"/>
+		<rom name="LEGACY.DOC/fsbasic.html" size="32610" crc="4cc70a66" md5="576798fb2385c769e879ea43932cd968" sha1="eb6d475eee0a5889b3b1b264186a3db5686e3241" date="2002-07-30 01:58:58"/>
+		<rom name="LEGACY.DOC/fsfuncs.html" size="45696" crc="3b89a04d" md5="b613d4eeaecf7d491ff1fac656a104bb" sha1="f22974f5d1c8f31e7e08e5fbc7a888a913afceda" date="2002-07-30 01:58:58"/>
+		<rom name="LEGACY.DOC/index.html" size="1726" crc="a1d1ad7f" md5="5b3399720584cb47b3d6478b91c5148a" sha1="076bce7fbff429fa0ddc4a6f55997116994bcae2" date="2002-07-30 01:58:58"/>
+		<rom name="LEGACY.DOC/Legacy.html" size="36493" crc="b8c05478" md5="9f78ac58ee9d4ce22c9d249e6a1addac" sha1="0cf2eddc448ceb39af490a9a49c5e4eb4354fab2" date="2002-07-30 01:58:58"/>
+		<rom name="LEGACY.DOC/Skinspec.html" size="10732" crc="e1975eed" md5="98f36d6adaaf80d150e2d7a3cd4c9af0" sha1="86645ebc11f514b46de3fac15a1b6c3d07fee959" date="2002-07-30 01:58:58"/>
+		<rom name="LEGACY.DOC/source.html" size="7808" crc="16edd9f2" md5="045f89e1e9c7edbc41f995154eded117" sha1="e07f258c47909902f335a53d01a3592ee36a4e29" date="2002-07-30 01:58:58"/>
+		<rom name="LEGACY.DOC/Whatsnew.html" size="44996" crc="c8458438" md5="bab66646d6fecf7f8ab53238d340d560" sha1="883ecdb5b19a9c1a489e8d167a913c64a8dfceff" date="2002-07-30 01:58:58"/>
+		<rom name="Samples/HIPAFRAG.TXT" size="2310" crc="f5da6df5" md5="613e094be312144bccd03205806a0988" sha1="a981b95d963b20c6c9b6a3e94d42a4487cec2ad3" date="2000-08-09 10:51:56"/>
+		<rom name="Samples/HIPAFRAG.WAD" size="41771" crc="740dd722" md5="b9429e5908f7bd613c2654e7917efdbd" sha1="107e5b313a1ad4aa0ad0c39603c62d86f170e691" date="1998-02-14 07:09:06"/>
+		<rom name="Samples/LEPRSKIN.WAD" size="158683" crc="42c3ae39" md5="70da32c3282b628a7f3ed8c19062022d" sha1="25c51cefbdeab6eb8233719f8a1d2c1f19489aba" date="1998-08-23 02:02:46"/>
+		<rom name="Samples/RainBowStar.txt" size="3274" crc="93594a56" md5="b4a785cbebb6fa632d1c2bbcd3ba23b7" sha1="80d64fa6ecc111adeec88bb92686b50558097e89" date="2001-12-31 15:59:50"/>
+		<rom name="Samples/rainbowstar.wad" size="213417" crc="539d7383" md5="d96badd96d112df0d6421e048e271cac" sha1="fa77936525243a85ef02a6526fed3dda1bce6999" date="2002-06-30 23:50:52"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Doom Vanille + Doom II (2017) (AXDOOMER).dosz">
+		<description>Doom Vanille + Doom II</description>
+		<comment>v671</comment>
+		<year>2017</year>
+		<developer>AXDOOMER</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOM2.EXE" size="650192" crc="4daec298" md5="963ad99e762f18d1bc042373aea1bfc3" sha1="20c525b6c3780c679161753ebcc2e18446d0f8f4" date="2020-06-24 01:15:14"/>
+	</game>
+	<game name="Doom Vanille + The Ultimate Doom (2017) (AXDOOMER).dosz">
+		<description>Doom Vanille + The Ultimate Doom</description>
+		<comment>v671</comment>
+		<year>2017</year>
+		<developer>AXDOOMER</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="DOOM2.EXE" size="650192" crc="4daec298" md5="963ad99e762f18d1bc042373aea1bfc3" sha1="20c525b6c3780c679161753ebcc2e18446d0f8f4" date="2020-06-24 01:15:14"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="DOSDoom + Doom II (1997) (The DOSDoom Team).dosz">
+		<description>DOSDoom + Doom II</description>
+		<comment>v0.653</comment>
+		<year>1997</year>
+		<developer>The DOSDoom Team</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="ANIMS.DDF" size="2128" crc="b5757830" md5="a7d380062961757eecf8066c1ea50d4d" sha1="e024b329086b9bac7fbb117ce9cb265eb1f29bfc" date="1998-09-27 10:27:20"/>
+		<rom name="ATTACKS.DDF" size="13261" crc="6c756254" md5="e7d8d33543e7fe846e8b7036172a70fa" sha1="d799fe4bdaa8cbe6eefde72520d2d1a72cee52c1" date="1999-02-01 12:40:14"/>
+		<rom name="CWSDPMI.EXE" size="20473" crc="80fa6999" md5="da922d33e83c4ca711a92e59f2c6a9fc" sha1="3de2eb058ed95a0bbe7f19eae24f77a025b2e3bb" date="1997-10-19 21:48:14"/>
+		<rom name="DEFAULT.CFG" size="1727" crc="4110884d" md5="573447dd572b0df884e8e64bbffc683a" sha1="721d33c81e83b507ccec014142b4d1357f57c167" date="1999-04-10 19:44:32"/>
+		<rom name="DEFAULT.LDF" size="125713" crc="9364b418" md5="b7737f92de56e8d618f220d7d1297826" sha1="c0ad6604f9c6c78d8cca69c9ece49f291afb4249" date="1999-02-17 18:30:30"/>
+		<rom name="docs/CODERS.TXT" size="1552" crc="4fc6ebea" md5="5902a010816f2f78d671666bdcdd8a5c" sha1="e6913608ca84fcc6e80d48cfa238942b8b86df60" date="1998-12-22 16:09:58"/>
+		<rom name="DOCS/DDF_MAIN.HTM" size="57271" crc="64a1346b" md5="2cbd79279ac6f4df3e59c2a47a9433c5" sha1="1b069f13e29a1230c5b54de3b2072a7105009748" date="1998-12-21 16:54:14"/>
+		<rom name="docs/ddf_main.html" size="57271" crc="64a1346b" md5="2cbd79279ac6f4df3e59c2a47a9433c5" sha1="1b069f13e29a1230c5b54de3b2072a7105009748" date="1998-12-21 16:54:14"/>
+		<rom name="docs/doomlic.txt" size="5606" crc="c5bdffe3" md5="890b5c678b2fe6d3806ed23b49f22f19" sha1="a5441d7a598233c92066799448122aea0bb6e26b" date="1997-12-22 21:44:16"/>
+		<rom name="docs/DOSDOOM.TXT" size="13039" crc="66405a46" md5="fa2c9dafc27af6e4912230a3e7d1f6cb" sha1="9ab68572a66f77783a2d2bcfc82d84b2b9da0d05" date="1998-12-22 15:30:52"/>
+		<rom name="DOCS/IMAGES/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-04-10 19:43:16"/>
+		<rom name="docs/images/rts_draw.gif" size="5744" crc="20afda1b" md5="069cfa205063c5d804cd809653f23453" sha1="b9a478baa604cd43e22684d1d08d918a0fb7a6bf" date="1998-11-08 20:11:08"/>
+		<rom name="DOCS/LOGS/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-04-10 19:43:16"/>
+		<rom name="docs/logs/changes.log" size="99893" crc="3112eff0" md5="af43e1faeacf0e721111482002aca1f3" sha1="c51fad7a2fa837654253461e6ddb781b63e4a316" date="1998-12-22 15:49:38"/>
+		<rom name="DOCS/RADIUS.HTM" size="65300" crc="5af0b5ff" md5="dcb3340d5f44416927d0ec2956a077c5" sha1="a7764ad481b39ca4cd7c20bb0f36311035794168" date="1998-11-12 19:52:48"/>
+		<rom name="docs/radius.html" size="65300" crc="5af0b5ff" md5="dcb3340d5f44416927d0ec2956a077c5" sha1="a7764ad481b39ca4cd7c20bb0f36311035794168" date="1998-11-12 19:52:48"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="dosdoom.exe" size="400508" crc="c52372c3" md5="191127d282b1ad1c14f4ca8a85d7b93a" sha1="067663bff64382758ead3dd8a19c820b49474aeb" date="1999-04-10 19:25:12"/>
+		<rom name="DOSDOOM.WAD" size="464692" crc="789d27bc" md5="bd91a7361edbcc0f3adecff014dda497" sha1="140c74c5de1e5723982541bf0669ae60b125d49c" date="1998-12-23 14:18:56"/>
+		<rom name="ITEMSDDF.TXT" size="19968" crc="e664fca1" md5="0e0b1403c8e4653d3d1b0b66dc20d0ef" sha1="cf0fb0abe18e306be447420ef8cc520973f33ec1" date="1998-07-29 17:10:30"/>
+		<rom name="LEVELS.DDF" size="16342" crc="e919b5fe" md5="d57760311658e1a5eeb596d7a8f85cda" sha1="da615e3f4d15df3cd101214e28cfec3b39a5891f" date="1999-02-09 11:50:30"/>
+		<rom name="LINES.DDF" size="40016" crc="48102503" md5="d5f91c75f2818c04e8b940787368aa59" sha1="83559a5a956c175581407ad7d20e0833f1a1294e" date="1999-02-08 17:47:54"/>
+		<rom name="MISSION.DDF" size="3388" crc="c704dc53" md5="9d494d163796fdd6d32268fd050ce009" sha1="e5cecaeecf021441a1534f3de2a575ba219f5eaa" date="1998-12-21 12:37:28"/>
+		<rom name="SECTORS.DDF" size="1372" crc="27814a2c" md5="b6eecd3d8e0127060a48706bbcbb50da" sha1="14c06054192b10185a9407fedab9eabbde23adb1" date="1998-10-03 17:20:58"/>
+		<rom name="SOUNDS.DDF" size="7035" crc="d1576825" md5="b7436ad0eb77b957e754fa8a4bdd64fd" sha1="526013b0bc5993a659a81e366dddde5d0365138d" date="1999-01-06 16:18:46"/>
+		<rom name="SWITCH.DDF" size="3609" crc="ccdd61cb" md5="afb8c5d4ee28d8b7fc949f2429523cf3" sha1="ec445d5e59aad59e92addfea6251d50f472eaf3f" date="1998-09-09 13:27:06"/>
+		<rom name="THINGS.DDF" size="80908" crc="3d916624" md5="f9d28def52ee4bfe48ef587fc4139b27" sha1="7070291c68e0f0e6f3272a0715c777fd0803c92e" date="1999-03-02 01:46:16"/>
+		<rom name="WEAPONS.DDF" size="5715" crc="dac1cabe" md5="60f3a246a80c3e68ef0a01b919c42d02" sha1="b35dd642a4bdff6a73d4b8698ba2457852c0ba58" date="1999-02-01 13:28:56"/>
+	</game>
+	<game name="DOSDoom + The Ultimate Doom (1997) (The DOSDoom Team).dosz">
+		<description>DOSDoom + The Ultimate Doom</description>
+		<comment>v0.653</comment>
+		<year>1997</year>
+		<developer>The DOSDoom Team</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="ANIMS.DDF" size="2128" crc="b5757830" md5="a7d380062961757eecf8066c1ea50d4d" sha1="e024b329086b9bac7fbb117ce9cb265eb1f29bfc" date="1998-09-27 10:27:20"/>
+		<rom name="ATTACKS.DDF" size="13261" crc="6c756254" md5="e7d8d33543e7fe846e8b7036172a70fa" sha1="d799fe4bdaa8cbe6eefde72520d2d1a72cee52c1" date="1999-02-01 12:40:14"/>
+		<rom name="CWSDPMI.EXE" size="20473" crc="80fa6999" md5="da922d33e83c4ca711a92e59f2c6a9fc" sha1="3de2eb058ed95a0bbe7f19eae24f77a025b2e3bb" date="1997-10-19 21:48:14"/>
+		<rom name="DEFAULT.CFG" size="1727" crc="4110884d" md5="573447dd572b0df884e8e64bbffc683a" sha1="721d33c81e83b507ccec014142b4d1357f57c167" date="1999-04-10 19:44:32"/>
+		<rom name="DEFAULT.LDF" size="125713" crc="9364b418" md5="b7737f92de56e8d618f220d7d1297826" sha1="c0ad6604f9c6c78d8cca69c9ece49f291afb4249" date="1999-02-17 18:30:30"/>
+		<rom name="docs/CODERS.TXT" size="1552" crc="4fc6ebea" md5="5902a010816f2f78d671666bdcdd8a5c" sha1="e6913608ca84fcc6e80d48cfa238942b8b86df60" date="1998-12-22 16:09:58"/>
+		<rom name="DOCS/DDF_MAIN.HTM" size="57271" crc="64a1346b" md5="2cbd79279ac6f4df3e59c2a47a9433c5" sha1="1b069f13e29a1230c5b54de3b2072a7105009748" date="1998-12-21 16:54:14"/>
+		<rom name="docs/ddf_main.html" size="57271" crc="64a1346b" md5="2cbd79279ac6f4df3e59c2a47a9433c5" sha1="1b069f13e29a1230c5b54de3b2072a7105009748" date="1998-12-21 16:54:14"/>
+		<rom name="docs/doomlic.txt" size="5606" crc="c5bdffe3" md5="890b5c678b2fe6d3806ed23b49f22f19" sha1="a5441d7a598233c92066799448122aea0bb6e26b" date="1997-12-22 21:44:16"/>
+		<rom name="docs/DOSDOOM.TXT" size="13039" crc="66405a46" md5="fa2c9dafc27af6e4912230a3e7d1f6cb" sha1="9ab68572a66f77783a2d2bcfc82d84b2b9da0d05" date="1998-12-22 15:30:52"/>
+		<rom name="DOCS/IMAGES/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-04-10 19:43:16"/>
+		<rom name="docs/images/rts_draw.gif" size="5744" crc="20afda1b" md5="069cfa205063c5d804cd809653f23453" sha1="b9a478baa604cd43e22684d1d08d918a0fb7a6bf" date="1998-11-08 20:11:08"/>
+		<rom name="DOCS/LOGS/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-04-10 19:43:16"/>
+		<rom name="docs/logs/changes.log" size="99893" crc="3112eff0" md5="af43e1faeacf0e721111482002aca1f3" sha1="c51fad7a2fa837654253461e6ddb781b63e4a316" date="1998-12-22 15:49:38"/>
+		<rom name="DOCS/RADIUS.HTM" size="65300" crc="5af0b5ff" md5="dcb3340d5f44416927d0ec2956a077c5" sha1="a7764ad481b39ca4cd7c20bb0f36311035794168" date="1998-11-12 19:52:48"/>
+		<rom name="docs/radius.html" size="65300" crc="5af0b5ff" md5="dcb3340d5f44416927d0ec2956a077c5" sha1="a7764ad481b39ca4cd7c20bb0f36311035794168" date="1998-11-12 19:52:48"/>
+		<rom name="dosdoom.exe" size="400508" crc="c52372c3" md5="191127d282b1ad1c14f4ca8a85d7b93a" sha1="067663bff64382758ead3dd8a19c820b49474aeb" date="1999-04-10 19:25:12"/>
+		<rom name="DOSDOOM.WAD" size="464692" crc="789d27bc" md5="bd91a7361edbcc0f3adecff014dda497" sha1="140c74c5de1e5723982541bf0669ae60b125d49c" date="1998-12-23 14:18:56"/>
+		<rom name="ITEMSDDF.TXT" size="19968" crc="e664fca1" md5="0e0b1403c8e4653d3d1b0b66dc20d0ef" sha1="cf0fb0abe18e306be447420ef8cc520973f33ec1" date="1998-07-29 17:10:30"/>
+		<rom name="LEVELS.DDF" size="16342" crc="e919b5fe" md5="d57760311658e1a5eeb596d7a8f85cda" sha1="da615e3f4d15df3cd101214e28cfec3b39a5891f" date="1999-02-09 11:50:30"/>
+		<rom name="LINES.DDF" size="40016" crc="48102503" md5="d5f91c75f2818c04e8b940787368aa59" sha1="83559a5a956c175581407ad7d20e0833f1a1294e" date="1999-02-08 17:47:54"/>
+		<rom name="MISSION.DDF" size="3388" crc="c704dc53" md5="9d494d163796fdd6d32268fd050ce009" sha1="e5cecaeecf021441a1534f3de2a575ba219f5eaa" date="1998-12-21 12:37:28"/>
+		<rom name="SECTORS.DDF" size="1372" crc="27814a2c" md5="b6eecd3d8e0127060a48706bbcbb50da" sha1="14c06054192b10185a9407fedab9eabbde23adb1" date="1998-10-03 17:20:58"/>
+		<rom name="SOUNDS.DDF" size="7035" crc="d1576825" md5="b7436ad0eb77b957e754fa8a4bdd64fd" sha1="526013b0bc5993a659a81e366dddde5d0365138d" date="1999-01-06 16:18:46"/>
+		<rom name="SWITCH.DDF" size="3609" crc="ccdd61cb" md5="afb8c5d4ee28d8b7fc949f2429523cf3" sha1="ec445d5e59aad59e92addfea6251d50f472eaf3f" date="1998-09-09 13:27:06"/>
+		<rom name="THINGS.DDF" size="80908" crc="3d916624" md5="f9d28def52ee4bfe48ef587fc4139b27" sha1="7070291c68e0f0e6f3272a0715c777fd0803c92e" date="1999-03-02 01:46:16"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="WEAPONS.DDF" size="5715" crc="dac1cabe" md5="60f3a246a80c3e68ef0a01b919c42d02" sha1="b35dd642a4bdff6a73d4b8698ba2457852c0ba58" date="1999-02-01 13:28:56"/>
+	</game>
+	<game name="Eternity Engine + Doom II (2001) (Team Eternity).dosz">
+		<description>Eternity Engine + Doom II</description>
+		<comment>v3.31b7</comment>
+		<year>2001</year>
+		<developer>Team Eternity</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="cast.edf" size="2640" crc="6b7a22fb" md5="4ab2071dd1c2e5c327c8d2cbe71e183b" sha1="524e17992e64a5fbfbfb523d2ba78a3269c5eefc" date="2003-12-12 19:36:18"/>
+		<rom name="COPYING" size="17982" crc="82734a69" md5="8ca43cbc842c2336e835926c2166c28b" sha1="075d599585584bb0e4b526f5c40cb6b17e0da35a" date="1993-11-28 07:15:36"/>
+		<rom name="COPYING.DJ" size="1625" crc="9bc17601" md5="ead084c557c7d429bb510d631cec97db" sha1="e1438d76f1bfd045c1eb5e7cd0fbb6a25e65c312" date="1993-06-01 01:30:54"/>
+		<rom name="CWSDPMI.EXE" size="20217" crc="6ba5fa62" md5="7010b5c42dbe97b0c841f652a8580d90" sha1="f3e66d75aab6a3cece6fad9d09a07b1a15e2ad7a" date="1996-08-18 18:46:18"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="ee331b7-dos.txt" size="7613" crc="355da27e" md5="b33375aee1d3c885d71175e8748e9d37" sha1="232de15a1032fcbec5660cbfa0c34f19e37b814e" date="2004-04-11 14:49:26"/>
+		<rom name="ETERNITY.EXE" size="569436" crc="b16d6856" md5="9d7bc649b11c780a87814437f67ce17b" sha1="ed6e51d617572256c12d848dbe78a2bfad7e5b41" date="2004-04-11 15:02:26"/>
+		<rom name="eternity.wad" size="1224920" crc="64ea93bc" md5="dd88fcb1bc9527beb831fd6b833d55ff" sha1="79e01b1051d828529a2fcab25d7cc2e1c8f7de82" date="2004-01-22 13:03:56"/>
+		<rom name="frames.edf" size="144965" crc="1a26bc55" md5="fc55a47ad68a98095b6be622bc4e4099" sha1="ff38bb2015bda08be10c1c0136d2a76220ad5660" date="2004-01-16 02:46:52"/>
+		<rom name="misc.edf" size="319" crc="d23da34e" md5="d85b672e39ddd604a024fbbacc959e60" sha1="6bc72cd4948588c416a351698ef5100d6bb6315c" date="2003-12-12 19:37:00"/>
+		<rom name="root.edf" size="336" crc="c522506e" md5="8aaacf6211eef44092e7e46ef0d7fd21" sha1="73eab7a7198a90a70698244dc6691eca3c5806aa" date="2003-12-12 19:36:00"/>
+		<rom name="sounds.edf" size="13985" crc="002ebb28" md5="90fc3fbfa620c89fe2a17fa12fdab573" sha1="27e79763f200219da6bff3b0e69c4eaf93d7e88e" date="2004-01-16 02:18:20"/>
+		<rom name="sprites.edf" size="4443" crc="62f12430" md5="5ff6468f6af02587a9855eb0df2bc474" sha1="a9c436f1c6dae2904fc207ad7642cf8311919b95" date="2004-01-16 03:05:14"/>
+		<rom name="things.edf" size="55511" crc="04b6721c" md5="0b16a5e7f253859cbcc0e0051b54b1f8" sha1="0a63f1f4efd538888191a544eef5cb330fb207e3" date="2004-01-19 22:04:32"/>
+		<rom name="zdoomcode-license.txt" size="1747" crc="75ff107b" md5="76e1b73a24edb8c12f7450dbe7abc4c6" sha1="b87fd68329cfc4d7d98661cc265e592e990ebdd6" date="2002-09-05 16:15:52"/>
+	</game>
+	<game name="Eternity Engine + The Ultimate Doom (2001) (Team Eternity).dosz">
+		<description>Eternity Engine + The Ultimate Doom</description>
+		<comment>v3.31b7</comment>
+		<year>2001</year>
+		<developer>Team Eternity</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="cast.edf" size="2640" crc="6b7a22fb" md5="4ab2071dd1c2e5c327c8d2cbe71e183b" sha1="524e17992e64a5fbfbfb523d2ba78a3269c5eefc" date="2003-12-12 19:36:18"/>
+		<rom name="COPYING" size="17982" crc="82734a69" md5="8ca43cbc842c2336e835926c2166c28b" sha1="075d599585584bb0e4b526f5c40cb6b17e0da35a" date="1993-11-28 07:15:36"/>
+		<rom name="COPYING.DJ" size="1625" crc="9bc17601" md5="ead084c557c7d429bb510d631cec97db" sha1="e1438d76f1bfd045c1eb5e7cd0fbb6a25e65c312" date="1993-06-01 01:30:54"/>
+		<rom name="CWSDPMI.EXE" size="20217" crc="6ba5fa62" md5="7010b5c42dbe97b0c841f652a8580d90" sha1="f3e66d75aab6a3cece6fad9d09a07b1a15e2ad7a" date="1996-08-18 18:46:18"/>
+		<rom name="ee331b7-dos.txt" size="7613" crc="355da27e" md5="b33375aee1d3c885d71175e8748e9d37" sha1="232de15a1032fcbec5660cbfa0c34f19e37b814e" date="2004-04-11 14:49:26"/>
+		<rom name="ETERNITY.EXE" size="569436" crc="b16d6856" md5="9d7bc649b11c780a87814437f67ce17b" sha1="ed6e51d617572256c12d848dbe78a2bfad7e5b41" date="2004-04-11 15:02:26"/>
+		<rom name="eternity.wad" size="1224920" crc="64ea93bc" md5="dd88fcb1bc9527beb831fd6b833d55ff" sha1="79e01b1051d828529a2fcab25d7cc2e1c8f7de82" date="2004-01-22 13:03:56"/>
+		<rom name="frames.edf" size="144965" crc="1a26bc55" md5="fc55a47ad68a98095b6be622bc4e4099" sha1="ff38bb2015bda08be10c1c0136d2a76220ad5660" date="2004-01-16 02:46:52"/>
+		<rom name="misc.edf" size="319" crc="d23da34e" md5="d85b672e39ddd604a024fbbacc959e60" sha1="6bc72cd4948588c416a351698ef5100d6bb6315c" date="2003-12-12 19:37:00"/>
+		<rom name="root.edf" size="336" crc="c522506e" md5="8aaacf6211eef44092e7e46ef0d7fd21" sha1="73eab7a7198a90a70698244dc6691eca3c5806aa" date="2003-12-12 19:36:00"/>
+		<rom name="sounds.edf" size="13985" crc="002ebb28" md5="90fc3fbfa620c89fe2a17fa12fdab573" sha1="27e79763f200219da6bff3b0e69c4eaf93d7e88e" date="2004-01-16 02:18:20"/>
+		<rom name="sprites.edf" size="4443" crc="62f12430" md5="5ff6468f6af02587a9855eb0df2bc474" sha1="a9c436f1c6dae2904fc207ad7642cf8311919b95" date="2004-01-16 03:05:14"/>
+		<rom name="things.edf" size="55511" crc="04b6721c" md5="0b16a5e7f253859cbcc0e0051b54b1f8" sha1="0a63f1f4efd538888191a544eef5cb330fb207e3" date="2004-01-19 22:04:32"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="zdoomcode-license.txt" size="1747" crc="75ff107b" md5="76e1b73a24edb8c12f7450dbe7abc4c6" sha1="b87fd68329cfc4d7d98661cc265e592e990ebdd6" date="2002-09-05 16:15:52"/>
+	</game>
+	<game name="FastDoom + Doom II (2020) (viti95).dosz">
+		<description>FastDoom + Doom II</description>
+		<comment>v0.9.9e</comment>
+		<year>2020</year>
+		<developer>viti95</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="BENCH.BAT" size="38" crc="9883249a" md5="88242d7a2658b3d70b2ec61ad36a1a48" sha1="8689744f9c3583de50a57e97a4aa66074ab5b7eb"/>
+		<rom name="BENCH/ARCH.BNC" size="532" crc="ccc2a5e1" md5="3f10367a44d30aebce37249cc9b7ea01" sha1="a4f8ee080077769b0d429e2879a33119a2692b09"/>
+		<rom name="BENCH/NORMAL.BNC" size="517" crc="05b5c885" md5="d2e9aea637af09bafd444d24ff749537" sha1="34d236efbd5449728d5b07854a963b70c305846c"/>
+		<rom name="BENCH/PHILS.BNC" size="116" crc="48fbe94a" md5="62347e3bbd79d670ebded0f302b09d1a" sha1="b8c457456fb1531a3cd2938cd592491c1728f44d"/>
+		<rom name="BENCH/QUICK.BNC" size="176" crc="55c9552c" md5="449015f795e60c93f7319d0f3db3d480" sha1="2611e1c6de5c4d9f387d194400beb2d47a95fbd0"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOM.TCF" size="65536" crc="04743972" md5="328559dff476821b54438558a18e2fea" sha1="4a8e42a33eca00029d260cba8b20accae2e4f461"/>
+		<rom name="DOOM1.TCF" size="65536" crc="04743972" md5="328559dff476821b54438558a18e2fea" sha1="4a8e42a33eca00029d260cba8b20accae2e4f461"/>
+		<rom name="DOOM2.TCF" size="65536" crc="04743972" md5="328559dff476821b54438558a18e2fea" sha1="4a8e42a33eca00029d260cba8b20accae2e4f461"/>
+		<rom name="DOOMU.TCF" size="65536" crc="04743972" md5="328559dff476821b54438558a18e2fea" sha1="4a8e42a33eca00029d260cba8b20accae2e4f461"/>
+		<rom name="FDBENCH.EXE" size="30138" crc="506af225" md5="43dc130102241a146b0dd7e6fcc3803d" sha1="c8a36db44a63aec46c9b2df46c8fe0770cff6bd2"/>
+		<rom name="FDM1024D.EXE" size="1110980" crc="0a0e4f66" md5="a447e5dfedfc4d5ad40c04a4f1ad0dcd" sha1="39907b26f282f7dfbf13fadfbee7e1358126d342"/>
+		<rom name="FDM1024R.EXE" size="1175224" crc="1a5d9e0a" md5="d0c7477f54ed3053f0c3c850829bb825" sha1="c20ff970f5013ff159cd5fd0e6ff1ba785bcaab6"/>
+		<rom name="FDM240D.EXE" size="725132" crc="230e4ada" md5="2ad8fd2b5530e92b7287bec89133a17e" sha1="00c89936251a960aa8f8eee1bfde110ce4d447c2"/>
+		<rom name="FDM240R.EXE" size="740300" crc="bb695677" md5="14efe0ad729503d8689c3e76bb23e72d" sha1="1a6d3395bd270408b6e81b478fde46c525d0f081"/>
+		<rom name="FDM300D.EXE" size="756344" crc="ce19ac52" md5="88fc69545df6a124df1cfda6a4062cde" sha1="0274662fe75fb9871b159716b2b6b5ef72f5077c"/>
+		<rom name="FDM300R.EXE" size="773024" crc="9ee1c81a" md5="cb0a64be872f7c2cab245e3fc64f8685" sha1="7cd7a520b981a962a2771f1fd335227878af1119"/>
+		<rom name="FDM384D.EXE" size="800016" crc="0fe5d4c9" md5="e68b2a803fa7696b0c3d9f47cd325f1d" sha1="d81ec4862ef0323479f1e5aacad6118ee3372c50"/>
+		<rom name="FDM384R.EXE" size="822948" crc="f33a1246" md5="94f3d7247052143d210e739d8bb42e99" sha1="13cab1793fa00ca0c1c051b3d1e7e82d2f7231bb"/>
+		<rom name="FDM400D.EXE" size="819988" crc="fe9c1bb1" md5="3edc081e5139ce08ce6b12d124bb15e3" sha1="7d98ae7fb469cb200f6f15e0ece5c9e1e5451754"/>
+		<rom name="FDM400R.EXE" size="847484" crc="070a9a02" md5="5848ab9060c641b2008a8945c05b50f5" sha1="0ce54d79e9cbb6c103feb06dcf11de7ef32638bc"/>
+		<rom name="FDM480D.EXE" size="845788" crc="c3630ad1" md5="44f0124edb81c81848a2b90c8d8a7c92" sha1="656e6c1d43241e01f78472f874374b052fb36974"/>
+		<rom name="FDM480R.EXE" size="879508" crc="7d81947b" md5="1e96748583fcdedf544ca411fdf8f315" sha1="c401e764c4f0323d9ee6223dcfa7f130c8098ce7"/>
+		<rom name="FDM600D.EXE" size="908200" crc="e3926043" md5="91b83b562028a049f469d794fb2bebbf" sha1="14969ce7a260fcfd064bfd44b2f3fd0f9b3afc96"/>
+		<rom name="FDM600R.EXE" size="945020" crc="ca60266e" md5="41a59fe84d171df4b6bbf27726ece7e7" sha1="8c52f86169367bbfd9b6083d2bcfebafa4b492b5"/>
+		<rom name="FDM768D.EXE" size="995484" crc="bb2fedc6" md5="1d561c15869aa49af72fcf95b219b182" sha1="c14cc7c882a31cf9c4eea4648c29f2a7b37151eb"/>
+		<rom name="FDM768R.EXE" size="1040768" crc="b76f5b4c" md5="b4edd3b27633844a197c966112fea286" sha1="b119b4a497883f3a5f6b513b6b781a468ab3f983"/>
+		<rom name="FDM800D.EXE" size="1039612" crc="1d197db7" md5="1811f989ce6a7a8f9bd4d0acd4697be0" sha1="47daa3488188b19ec4f1e2abc426225a6996289e"/>
+		<rom name="FDM800R.EXE" size="1089840" crc="7bb5a500" md5="4cba0ada0af48a761de1f1292864db6e" sha1="65b46c589b11a3f0a3a30a1f18c2525df0dd8553"/>
+		<rom name="FDOOM.EXE" size="633720" crc="7e6c91b6" md5="f81679897f6bf8f7b60f9a3e956b4de1" sha1="d28114afc023359f9c8ab043a8c2407dd1f0e3fd"/>
+		<rom name="FDOOM13H.EXE" size="786592" crc="60343034" md5="98628026b6d47c727b966f09f546ce70" sha1="70047178e01995ba9326918c8f51b5e47e993f55"/>
+		<rom name="FDOOM400.EXE" size="749936" crc="74d64993" md5="3a02513fd2951351c252503a59ffff28" sha1="2247e761752de5068538cc3ca3dd0fc7d7c72250"/>
+		<rom name="FDOOM512.EXE" size="737584" crc="00feb8d2" md5="533fe9532c7cbff37a751fd2dd938e51" sha1="14f0ded51f738c5a83ba611638716c95ed75a7a9"/>
+		<rom name="FDOOMBWC.EXE" size="737960" crc="60fc44eb" md5="ad8e9bbc1922a566d3877cb7cfbf3795" sha1="68c5220b70d55d132e486f3a2cd73949192e64fe"/>
+		<rom name="FDOOMC16.EXE" size="737412" crc="ee1f2032" md5="7982204cb7af73e9e7095dce13ac6ecc" sha1="f0e5770b4aa8f437cd68de5fabc05395dc3925de"/>
+		<rom name="FDOOMCAH.EXE" size="847976" crc="a8220530" md5="f29ecb4103c83d76bbfd56d004ae824e" sha1="b450de3e3936e8f630f2b64081a656c48c5ffd55"/>
+		<rom name="FDOOMCGA.EXE" size="737992" crc="bcee5d41" md5="e6ff9bb4870c4260f918833c1e8e2d72" sha1="0d0dad31fb6def2c1eabf2de005f52f3be37a1d1"/>
+		<rom name="FDOOMCVB.EXE" size="738072" crc="b618611b" md5="4fae384100b5edb3ade851723bc84a65" sha1="d49cbf955fc865f6d2cfbc045684bdd0912b3cce"/>
+		<rom name="FDOOMEGA.EXE" size="753612" crc="f5e1e013" md5="3a16447cd3441bb43e174df1b298904b" sha1="fdcacf4795d0ccc16afb085fd79e3dab3e71acf1"/>
+		<rom name="FDOOMH.EXE" size="624424" crc="a1bb6981" md5="15c0d41e52f2882fdce222ed6785adc6" sha1="43b2aad4a3f73b368732e5d5ee8447063a887c67"/>
+		<rom name="FDOOMHGC.EXE" size="749980" crc="f391bdc4" md5="af1fe4f2448eae23ccd7fc6717065855" sha1="e03ae2d0d5066277c8c61b1ac32e34b3792219db"/>
+		<rom name="FDOOMINC.EXE" size="720732" crc="65dbfa08" md5="ee501f463e0fd23d64524da55285a3f8" sha1="a241c50fc1043be3d60434c7246358f75394a48a"/>
+		<rom name="FDOOMMDA.EXE" size="572072" crc="bb140489" md5="2456a06c600359a767c0aa980e34fb4b" sha1="31e7eec4ca511c10bfc398b21960d6ed27394dc6"/>
+		<rom name="FDOOMPCP.EXE" size="754356" crc="9aba69bd" md5="a860aa8bc28b8c47616d74d4f3db0b28" sha1="f1274ec4330c62d096352cbafbc3737f99639f70"/>
+		<rom name="FDOOMT1.EXE" size="572864" crc="0cde1825" md5="148fcff49246199d418e4b26cee0debe" sha1="9c1f9be363070f8fda3c81c73ae70e3162d5adc8"/>
+		<rom name="FDOOMT12.EXE" size="573088" crc="f69dcd35" md5="af261b698b8e65a7066f1565919e8e60" sha1="c75f4cb129703836b235015af176aa26872c2b08"/>
+		<rom name="FDOOMT25.EXE" size="573096" crc="6407fdcd" md5="81bcf012bca9e6596090d8cb3973d492" sha1="27f1f4558c6bb1c8dfb51705ec3335bc78996664"/>
+		<rom name="FDOOMT43.EXE" size="572880" crc="b5442ff3" md5="5570816d1db02822510553944bc0a4ea" sha1="817c2c962869f42cb9541751b69342f375d199c2"/>
+		<rom name="FDOOMT50.EXE" size="572924" crc="519bea44" md5="bb4c891447ee3cb95e5cae2232ee8933" sha1="12c45fc18145d66c8fcb9b6d10dc1ab49e1010cc"/>
+		<rom name="FDOOMVBD.EXE" size="712248" crc="073a0985" md5="65cdb89682b851a9a5f6c050366a0a15" sha1="570e78545c2400e0cddb2023ba9da52df3e831c8"/>
+		<rom name="FDOOMVBR.EXE" size="722200" crc="7983830e" md5="a2edbed052edcf3fa7b6526110e4596d" sha1="a282a93bca6857188e725375dbd0943439fb920d"/>
+		<rom name="FDOOMX.EXE" size="640072" crc="23dd6582" md5="3f0a6584cebb82c2f33f00c288747929" sha1="9aac349bf0e9ef567894afd94cc1adb70ad3b9f0"/>
+		<rom name="FDSETUP.EXE" size="87736" crc="a434af21" md5="0017ea1ab33d6eaa111bbe8f07f161b3" sha1="d89ce5bdf3826704e967c3994f6250b354d0d1d6"/>
+		<rom name="FONTH.WAD" size="5817" crc="d58e6263" md5="22c4a70d1fd1fb2d9b3d24b969ade62a" sha1="25129b8c33d3d6e8df609f18257f6b3de5f717b3"/>
+		<rom name="FREEDM1.TCF" size="65536" crc="04743972" md5="328559dff476821b54438558a18e2fea" sha1="4a8e42a33eca00029d260cba8b20accae2e4f461"/>
+		<rom name="FREEDM2.TCF" size="65536" crc="04743972" md5="328559dff476821b54438558a18e2fea" sha1="4a8e42a33eca00029d260cba8b20accae2e4f461"/>
+		<rom name="INTER/C1.txt" size="405" crc="8bb9ff83" md5="4f5fc79a68dfdf2e226ade2b3146504a" sha1="5e8dbe28583aa3aeb2d9a2699317c5a1a7da7c41"/>
+		<rom name="INTER/C2.txt" size="616" crc="39d9a5a8" md5="d531f9ffc1f59f841652bd3e7f0d338f" sha1="f29eae06e807d1132c88159a11b0b699e21309b5"/>
+		<rom name="INTER/C3.txt" size="312" crc="cb171c6d" md5="e2447ffdc0499a25f27f7a94ca91af93" sha1="43d3cda904564c48819987e6cfb42f44c4619606"/>
+		<rom name="INTER/C4.txt" size="493" crc="93842d5b" md5="3adf617123dcdeba76b9f45b7de4f3f8" sha1="6802610073e4a4b59db641f48df9ac14c8350361"/>
+		<rom name="INTER/C5.txt" size="164" crc="ae4f13a6" md5="ee13c74698c4a028593c1563684e2a68" sha1="789f7337d4dd8f1884006667e552069f6228d82b"/>
+		<rom name="INTER/C6.txt" size="90" crc="f2d4e8b1" md5="64281ec067cdd7c24963315db766e0a3" sha1="5049ffbd7dcad102a83066b5c16924f67ee463cc"/>
+		<rom name="INTER/E1.txt" size="438" crc="27840f24" md5="fecbb15aafcaa8c6aaa7b15ce416ebe2" sha1="67da05cf40c926167d1bc1f772673fa3874bf497"/>
+		<rom name="INTER/E2.txt" size="466" crc="a5106518" md5="85b2facfa7ec50005829331e5ea476bd" sha1="5d181f60fbeea677a19cb614aafe4026cc59a5b0"/>
+		<rom name="INTER/E3.txt" size="492" crc="822fabfc" md5="9177d15e6475a71e1426cd98cd4695c6" sha1="be8cd7a7577f019aa32e06ba81c3c150c3bd1a26"/>
+		<rom name="INTER/E4.txt" size="502" crc="bf98e241" md5="77d058a8a78d9a33dd6d429db6cfc5e9" sha1="2221e8416e40a89787ac7f26307f89d9ab8764c8"/>
+		<rom name="INTER/P1.txt" size="429" crc="cbcdbfbd" md5="ada654838852ec71a9db1ead0ec7d256" sha1="d3a45eb18ee7ba4e3c1abc2efaa5a48bcf69ec2f"/>
+		<rom name="INTER/P2.txt" size="193" crc="e8064b47" md5="1f460c88903fb1e61e847648f4fc7000" sha1="bc40ef9299043aeb8643c06c3f1de7f0181d9e19"/>
+		<rom name="INTER/P3.txt" size="326" crc="77513543" md5="87b25229f97e4d0d2b1ee5c8c9c91948" sha1="91b5951c94601c70bf1073d261a3ff1bbb2e4fc1"/>
+		<rom name="INTER/P4.txt" size="456" crc="0ee134cd" md5="64345e66d9ec9647ca1e522984ec4e79" sha1="73d129a0bd98c8c04847218b477cc86e97c7baf2"/>
+		<rom name="INTER/P5.txt" size="158" crc="3f42b6ea" md5="8021866346c7d8d9ff8c60d31d6afde5" sha1="2f45f7d139144eada2bbc4439a196569867caad5"/>
+		<rom name="INTER/P6.txt" size="105" crc="4f973ced" md5="7e9c5848fa9f8e9abf4dcf7dcbbac7db" sha1="9ed3c162a8ac39c4e618787d37b11838cad2854a"/>
+		<rom name="INTER/T1.txt" size="388" crc="64da6fc3" md5="c15858c6d19d6ae231134a9d82dee066" sha1="a0b0402454de85bdda66e27dd756e4a080a51c49"/>
+		<rom name="INTER/T2.txt" size="309" crc="dad6b266" md5="235e0e9b3ba99ee4c2409c3fe469545f" sha1="991abab1d08dc5b9a4f4da1e1f77b444b5f85670"/>
+		<rom name="INTER/T3.txt" size="309" crc="7abe972f" md5="7f7d13a83551cb1bd587fc49b9b9a45c" sha1="bb740e56b90bda59be4dc290153793d8c37d647d"/>
+		<rom name="INTER/T4.txt" size="383" crc="b6125b94" md5="02408dadd5d29a22670eabca93c4b3a8" sha1="d2bcac3b4749cb7a3a7e64c31931868f5fc44ffe"/>
+		<rom name="INTER/T5.txt" size="174" crc="398a91f6" md5="a5590eb6a2e8bcf04d5907c02a0a2842" sha1="37b3a333cccb089e81c338b759d09adba56fbfff"/>
+		<rom name="INTER/T6.txt" size="353" crc="ec22d2aa" md5="4db9eaf5ad2cbe959a82fa4e5f5c50ba" sha1="d08ad1504d25da60a298b174a4e5ba07679360e8"/>
+		<rom name="MODE16.WAD" size="19500" crc="4971a39a" md5="8a2c53a5e88a353a40ff30ebdbe699ea" sha1="0346b78516ff3b7c7dd449b2735359c6b1c6b254"/>
+		<rom name="MODE4.WAD" size="19500" crc="1518f89e" md5="eebf8c5ecb292ae4b1ea0f09abc0a2b7" sha1="3c6125d0b27a4383aafa004ae3c885eb0df9b407"/>
+		<rom name="MODEBW.WAD" size="8732" crc="a2dd6f18" md5="61728b887aa099f01d9b3ab05d81f4a6" sha1="3242ce1ffc02432818376c9cd5fc7ddb3fb6af71"/>
+		<rom name="MODECVBS.WAD" size="19500" crc="39c5ace9" md5="f539a0cf6f57bcc570d3c09b94e7e342" sha1="fbc5ce20c159331cbe5df528177b60e726394b38"/>
+		<rom name="MODETXT.WAD" size="19500" crc="4971a39a" md5="8a2c53a5e88a353a40ff30ebdbe699ea" sha1="0346b78516ff3b7c7dd449b2735359c6b1c6b254"/>
+		<rom name="PLUTONIA.TCF" size="65536" crc="04743972" md5="328559dff476821b54438558a18e2fea" sha1="4a8e42a33eca00029d260cba8b20accae2e4f461"/>
+		<rom name="README.txt" size="14800" crc="cee163eb" md5="5916c2e4b29d7d9110b448f3dc04858f" sha1="8b317531168f1664ca9da99dfbdba1d4b631cbdb"/>
+		<rom name="synthgs.sbk" size="577322" crc="a625bfc0" md5="10200c2d12b8f0935030a47ace63f6c5" sha1="a4c2b6b31395f141baa0170b84ab0d5efc535914"/>
+		<rom name="TNT.TCF" size="65536" crc="04743972" md5="328559dff476821b54438558a18e2fea" sha1="4a8e42a33eca00029d260cba8b20accae2e4f461"/>
+	</game>
+	<game name="FastDoom + The Ultimate Doom (2020) (viti95).dosz">
+		<description>FastDoom + The Ultimate Doom</description>
+		<comment>v0.9.9e</comment>
+		<year>2020</year>
+		<developer>viti95</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="BENCH.BAT" size="38" crc="9883249a" md5="88242d7a2658b3d70b2ec61ad36a1a48" sha1="8689744f9c3583de50a57e97a4aa66074ab5b7eb"/>
+		<rom name="BENCH/ARCH.BNC" size="532" crc="ccc2a5e1" md5="3f10367a44d30aebce37249cc9b7ea01" sha1="a4f8ee080077769b0d429e2879a33119a2692b09"/>
+		<rom name="BENCH/NORMAL.BNC" size="517" crc="05b5c885" md5="d2e9aea637af09bafd444d24ff749537" sha1="34d236efbd5449728d5b07854a963b70c305846c"/>
+		<rom name="BENCH/PHILS.BNC" size="116" crc="48fbe94a" md5="62347e3bbd79d670ebded0f302b09d1a" sha1="b8c457456fb1531a3cd2938cd592491c1728f44d"/>
+		<rom name="BENCH/QUICK.BNC" size="176" crc="55c9552c" md5="449015f795e60c93f7319d0f3db3d480" sha1="2611e1c6de5c4d9f387d194400beb2d47a95fbd0"/>
+		<rom name="DOOM.TCF" size="65536" crc="04743972" md5="328559dff476821b54438558a18e2fea" sha1="4a8e42a33eca00029d260cba8b20accae2e4f461"/>
+		<rom name="DOOM1.TCF" size="65536" crc="04743972" md5="328559dff476821b54438558a18e2fea" sha1="4a8e42a33eca00029d260cba8b20accae2e4f461"/>
+		<rom name="DOOM2.TCF" size="65536" crc="04743972" md5="328559dff476821b54438558a18e2fea" sha1="4a8e42a33eca00029d260cba8b20accae2e4f461"/>
+		<rom name="DOOMU.TCF" size="65536" crc="04743972" md5="328559dff476821b54438558a18e2fea" sha1="4a8e42a33eca00029d260cba8b20accae2e4f461"/>
+		<rom name="FDBENCH.EXE" size="30138" crc="506af225" md5="43dc130102241a146b0dd7e6fcc3803d" sha1="c8a36db44a63aec46c9b2df46c8fe0770cff6bd2"/>
+		<rom name="FDM1024D.EXE" size="1110980" crc="0a0e4f66" md5="a447e5dfedfc4d5ad40c04a4f1ad0dcd" sha1="39907b26f282f7dfbf13fadfbee7e1358126d342"/>
+		<rom name="FDM1024R.EXE" size="1175224" crc="1a5d9e0a" md5="d0c7477f54ed3053f0c3c850829bb825" sha1="c20ff970f5013ff159cd5fd0e6ff1ba785bcaab6"/>
+		<rom name="FDM240D.EXE" size="725132" crc="230e4ada" md5="2ad8fd2b5530e92b7287bec89133a17e" sha1="00c89936251a960aa8f8eee1bfde110ce4d447c2"/>
+		<rom name="FDM240R.EXE" size="740300" crc="bb695677" md5="14efe0ad729503d8689c3e76bb23e72d" sha1="1a6d3395bd270408b6e81b478fde46c525d0f081"/>
+		<rom name="FDM300D.EXE" size="756344" crc="ce19ac52" md5="88fc69545df6a124df1cfda6a4062cde" sha1="0274662fe75fb9871b159716b2b6b5ef72f5077c"/>
+		<rom name="FDM300R.EXE" size="773024" crc="9ee1c81a" md5="cb0a64be872f7c2cab245e3fc64f8685" sha1="7cd7a520b981a962a2771f1fd335227878af1119"/>
+		<rom name="FDM384D.EXE" size="800016" crc="0fe5d4c9" md5="e68b2a803fa7696b0c3d9f47cd325f1d" sha1="d81ec4862ef0323479f1e5aacad6118ee3372c50"/>
+		<rom name="FDM384R.EXE" size="822948" crc="f33a1246" md5="94f3d7247052143d210e739d8bb42e99" sha1="13cab1793fa00ca0c1c051b3d1e7e82d2f7231bb"/>
+		<rom name="FDM400D.EXE" size="819988" crc="fe9c1bb1" md5="3edc081e5139ce08ce6b12d124bb15e3" sha1="7d98ae7fb469cb200f6f15e0ece5c9e1e5451754"/>
+		<rom name="FDM400R.EXE" size="847484" crc="070a9a02" md5="5848ab9060c641b2008a8945c05b50f5" sha1="0ce54d79e9cbb6c103feb06dcf11de7ef32638bc"/>
+		<rom name="FDM480D.EXE" size="845788" crc="c3630ad1" md5="44f0124edb81c81848a2b90c8d8a7c92" sha1="656e6c1d43241e01f78472f874374b052fb36974"/>
+		<rom name="FDM480R.EXE" size="879508" crc="7d81947b" md5="1e96748583fcdedf544ca411fdf8f315" sha1="c401e764c4f0323d9ee6223dcfa7f130c8098ce7"/>
+		<rom name="FDM600D.EXE" size="908200" crc="e3926043" md5="91b83b562028a049f469d794fb2bebbf" sha1="14969ce7a260fcfd064bfd44b2f3fd0f9b3afc96"/>
+		<rom name="FDM600R.EXE" size="945020" crc="ca60266e" md5="41a59fe84d171df4b6bbf27726ece7e7" sha1="8c52f86169367bbfd9b6083d2bcfebafa4b492b5"/>
+		<rom name="FDM768D.EXE" size="995484" crc="bb2fedc6" md5="1d561c15869aa49af72fcf95b219b182" sha1="c14cc7c882a31cf9c4eea4648c29f2a7b37151eb"/>
+		<rom name="FDM768R.EXE" size="1040768" crc="b76f5b4c" md5="b4edd3b27633844a197c966112fea286" sha1="b119b4a497883f3a5f6b513b6b781a468ab3f983"/>
+		<rom name="FDM800D.EXE" size="1039612" crc="1d197db7" md5="1811f989ce6a7a8f9bd4d0acd4697be0" sha1="47daa3488188b19ec4f1e2abc426225a6996289e"/>
+		<rom name="FDM800R.EXE" size="1089840" crc="7bb5a500" md5="4cba0ada0af48a761de1f1292864db6e" sha1="65b46c589b11a3f0a3a30a1f18c2525df0dd8553"/>
+		<rom name="FDOOM.EXE" size="633720" crc="7e6c91b6" md5="f81679897f6bf8f7b60f9a3e956b4de1" sha1="d28114afc023359f9c8ab043a8c2407dd1f0e3fd"/>
+		<rom name="FDOOM13H.EXE" size="786592" crc="60343034" md5="98628026b6d47c727b966f09f546ce70" sha1="70047178e01995ba9326918c8f51b5e47e993f55"/>
+		<rom name="FDOOM400.EXE" size="749936" crc="74d64993" md5="3a02513fd2951351c252503a59ffff28" sha1="2247e761752de5068538cc3ca3dd0fc7d7c72250"/>
+		<rom name="FDOOM512.EXE" size="737584" crc="00feb8d2" md5="533fe9532c7cbff37a751fd2dd938e51" sha1="14f0ded51f738c5a83ba611638716c95ed75a7a9"/>
+		<rom name="FDOOMBWC.EXE" size="737960" crc="60fc44eb" md5="ad8e9bbc1922a566d3877cb7cfbf3795" sha1="68c5220b70d55d132e486f3a2cd73949192e64fe"/>
+		<rom name="FDOOMC16.EXE" size="737412" crc="ee1f2032" md5="7982204cb7af73e9e7095dce13ac6ecc" sha1="f0e5770b4aa8f437cd68de5fabc05395dc3925de"/>
+		<rom name="FDOOMCAH.EXE" size="847976" crc="a8220530" md5="f29ecb4103c83d76bbfd56d004ae824e" sha1="b450de3e3936e8f630f2b64081a656c48c5ffd55"/>
+		<rom name="FDOOMCGA.EXE" size="737992" crc="bcee5d41" md5="e6ff9bb4870c4260f918833c1e8e2d72" sha1="0d0dad31fb6def2c1eabf2de005f52f3be37a1d1"/>
+		<rom name="FDOOMCVB.EXE" size="738072" crc="b618611b" md5="4fae384100b5edb3ade851723bc84a65" sha1="d49cbf955fc865f6d2cfbc045684bdd0912b3cce"/>
+		<rom name="FDOOMEGA.EXE" size="753612" crc="f5e1e013" md5="3a16447cd3441bb43e174df1b298904b" sha1="fdcacf4795d0ccc16afb085fd79e3dab3e71acf1"/>
+		<rom name="FDOOMH.EXE" size="624424" crc="a1bb6981" md5="15c0d41e52f2882fdce222ed6785adc6" sha1="43b2aad4a3f73b368732e5d5ee8447063a887c67"/>
+		<rom name="FDOOMHGC.EXE" size="749980" crc="f391bdc4" md5="af1fe4f2448eae23ccd7fc6717065855" sha1="e03ae2d0d5066277c8c61b1ac32e34b3792219db"/>
+		<rom name="FDOOMINC.EXE" size="720732" crc="65dbfa08" md5="ee501f463e0fd23d64524da55285a3f8" sha1="a241c50fc1043be3d60434c7246358f75394a48a"/>
+		<rom name="FDOOMMDA.EXE" size="572072" crc="bb140489" md5="2456a06c600359a767c0aa980e34fb4b" sha1="31e7eec4ca511c10bfc398b21960d6ed27394dc6"/>
+		<rom name="FDOOMPCP.EXE" size="754356" crc="9aba69bd" md5="a860aa8bc28b8c47616d74d4f3db0b28" sha1="f1274ec4330c62d096352cbafbc3737f99639f70"/>
+		<rom name="FDOOMT1.EXE" size="572864" crc="0cde1825" md5="148fcff49246199d418e4b26cee0debe" sha1="9c1f9be363070f8fda3c81c73ae70e3162d5adc8"/>
+		<rom name="FDOOMT12.EXE" size="573088" crc="f69dcd35" md5="af261b698b8e65a7066f1565919e8e60" sha1="c75f4cb129703836b235015af176aa26872c2b08"/>
+		<rom name="FDOOMT25.EXE" size="573096" crc="6407fdcd" md5="81bcf012bca9e6596090d8cb3973d492" sha1="27f1f4558c6bb1c8dfb51705ec3335bc78996664"/>
+		<rom name="FDOOMT43.EXE" size="572880" crc="b5442ff3" md5="5570816d1db02822510553944bc0a4ea" sha1="817c2c962869f42cb9541751b69342f375d199c2"/>
+		<rom name="FDOOMT50.EXE" size="572924" crc="519bea44" md5="bb4c891447ee3cb95e5cae2232ee8933" sha1="12c45fc18145d66c8fcb9b6d10dc1ab49e1010cc"/>
+		<rom name="FDOOMVBD.EXE" size="712248" crc="073a0985" md5="65cdb89682b851a9a5f6c050366a0a15" sha1="570e78545c2400e0cddb2023ba9da52df3e831c8"/>
+		<rom name="FDOOMVBR.EXE" size="722200" crc="7983830e" md5="a2edbed052edcf3fa7b6526110e4596d" sha1="a282a93bca6857188e725375dbd0943439fb920d"/>
+		<rom name="FDOOMX.EXE" size="640072" crc="23dd6582" md5="3f0a6584cebb82c2f33f00c288747929" sha1="9aac349bf0e9ef567894afd94cc1adb70ad3b9f0"/>
+		<rom name="FDSETUP.EXE" size="87736" crc="a434af21" md5="0017ea1ab33d6eaa111bbe8f07f161b3" sha1="d89ce5bdf3826704e967c3994f6250b354d0d1d6"/>
+		<rom name="FONTH.WAD" size="5817" crc="d58e6263" md5="22c4a70d1fd1fb2d9b3d24b969ade62a" sha1="25129b8c33d3d6e8df609f18257f6b3de5f717b3"/>
+		<rom name="FREEDM1.TCF" size="65536" crc="04743972" md5="328559dff476821b54438558a18e2fea" sha1="4a8e42a33eca00029d260cba8b20accae2e4f461"/>
+		<rom name="FREEDM2.TCF" size="65536" crc="04743972" md5="328559dff476821b54438558a18e2fea" sha1="4a8e42a33eca00029d260cba8b20accae2e4f461"/>
+		<rom name="INTER/C1.txt" size="405" crc="8bb9ff83" md5="4f5fc79a68dfdf2e226ade2b3146504a" sha1="5e8dbe28583aa3aeb2d9a2699317c5a1a7da7c41"/>
+		<rom name="INTER/C2.txt" size="616" crc="39d9a5a8" md5="d531f9ffc1f59f841652bd3e7f0d338f" sha1="f29eae06e807d1132c88159a11b0b699e21309b5"/>
+		<rom name="INTER/C3.txt" size="312" crc="cb171c6d" md5="e2447ffdc0499a25f27f7a94ca91af93" sha1="43d3cda904564c48819987e6cfb42f44c4619606"/>
+		<rom name="INTER/C4.txt" size="493" crc="93842d5b" md5="3adf617123dcdeba76b9f45b7de4f3f8" sha1="6802610073e4a4b59db641f48df9ac14c8350361"/>
+		<rom name="INTER/C5.txt" size="164" crc="ae4f13a6" md5="ee13c74698c4a028593c1563684e2a68" sha1="789f7337d4dd8f1884006667e552069f6228d82b"/>
+		<rom name="INTER/C6.txt" size="90" crc="f2d4e8b1" md5="64281ec067cdd7c24963315db766e0a3" sha1="5049ffbd7dcad102a83066b5c16924f67ee463cc"/>
+		<rom name="INTER/E1.txt" size="438" crc="27840f24" md5="fecbb15aafcaa8c6aaa7b15ce416ebe2" sha1="67da05cf40c926167d1bc1f772673fa3874bf497"/>
+		<rom name="INTER/E2.txt" size="466" crc="a5106518" md5="85b2facfa7ec50005829331e5ea476bd" sha1="5d181f60fbeea677a19cb614aafe4026cc59a5b0"/>
+		<rom name="INTER/E3.txt" size="492" crc="822fabfc" md5="9177d15e6475a71e1426cd98cd4695c6" sha1="be8cd7a7577f019aa32e06ba81c3c150c3bd1a26"/>
+		<rom name="INTER/E4.txt" size="502" crc="bf98e241" md5="77d058a8a78d9a33dd6d429db6cfc5e9" sha1="2221e8416e40a89787ac7f26307f89d9ab8764c8"/>
+		<rom name="INTER/P1.txt" size="429" crc="cbcdbfbd" md5="ada654838852ec71a9db1ead0ec7d256" sha1="d3a45eb18ee7ba4e3c1abc2efaa5a48bcf69ec2f"/>
+		<rom name="INTER/P2.txt" size="193" crc="e8064b47" md5="1f460c88903fb1e61e847648f4fc7000" sha1="bc40ef9299043aeb8643c06c3f1de7f0181d9e19"/>
+		<rom name="INTER/P3.txt" size="326" crc="77513543" md5="87b25229f97e4d0d2b1ee5c8c9c91948" sha1="91b5951c94601c70bf1073d261a3ff1bbb2e4fc1"/>
+		<rom name="INTER/P4.txt" size="456" crc="0ee134cd" md5="64345e66d9ec9647ca1e522984ec4e79" sha1="73d129a0bd98c8c04847218b477cc86e97c7baf2"/>
+		<rom name="INTER/P5.txt" size="158" crc="3f42b6ea" md5="8021866346c7d8d9ff8c60d31d6afde5" sha1="2f45f7d139144eada2bbc4439a196569867caad5"/>
+		<rom name="INTER/P6.txt" size="105" crc="4f973ced" md5="7e9c5848fa9f8e9abf4dcf7dcbbac7db" sha1="9ed3c162a8ac39c4e618787d37b11838cad2854a"/>
+		<rom name="INTER/T1.txt" size="388" crc="64da6fc3" md5="c15858c6d19d6ae231134a9d82dee066" sha1="a0b0402454de85bdda66e27dd756e4a080a51c49"/>
+		<rom name="INTER/T2.txt" size="309" crc="dad6b266" md5="235e0e9b3ba99ee4c2409c3fe469545f" sha1="991abab1d08dc5b9a4f4da1e1f77b444b5f85670"/>
+		<rom name="INTER/T3.txt" size="309" crc="7abe972f" md5="7f7d13a83551cb1bd587fc49b9b9a45c" sha1="bb740e56b90bda59be4dc290153793d8c37d647d"/>
+		<rom name="INTER/T4.txt" size="383" crc="b6125b94" md5="02408dadd5d29a22670eabca93c4b3a8" sha1="d2bcac3b4749cb7a3a7e64c31931868f5fc44ffe"/>
+		<rom name="INTER/T5.txt" size="174" crc="398a91f6" md5="a5590eb6a2e8bcf04d5907c02a0a2842" sha1="37b3a333cccb089e81c338b759d09adba56fbfff"/>
+		<rom name="INTER/T6.txt" size="353" crc="ec22d2aa" md5="4db9eaf5ad2cbe959a82fa4e5f5c50ba" sha1="d08ad1504d25da60a298b174a4e5ba07679360e8"/>
+		<rom name="MODE16.WAD" size="19500" crc="4971a39a" md5="8a2c53a5e88a353a40ff30ebdbe699ea" sha1="0346b78516ff3b7c7dd449b2735359c6b1c6b254"/>
+		<rom name="MODE4.WAD" size="19500" crc="1518f89e" md5="eebf8c5ecb292ae4b1ea0f09abc0a2b7" sha1="3c6125d0b27a4383aafa004ae3c885eb0df9b407"/>
+		<rom name="MODEBW.WAD" size="8732" crc="a2dd6f18" md5="61728b887aa099f01d9b3ab05d81f4a6" sha1="3242ce1ffc02432818376c9cd5fc7ddb3fb6af71"/>
+		<rom name="MODECVBS.WAD" size="19500" crc="39c5ace9" md5="f539a0cf6f57bcc570d3c09b94e7e342" sha1="fbc5ce20c159331cbe5df528177b60e726394b38"/>
+		<rom name="MODETXT.WAD" size="19500" crc="4971a39a" md5="8a2c53a5e88a353a40ff30ebdbe699ea" sha1="0346b78516ff3b7c7dd449b2735359c6b1c6b254"/>
+		<rom name="PLUTONIA.TCF" size="65536" crc="04743972" md5="328559dff476821b54438558a18e2fea" sha1="4a8e42a33eca00029d260cba8b20accae2e4f461"/>
+		<rom name="README.txt" size="14800" crc="cee163eb" md5="5916c2e4b29d7d9110b448f3dc04858f" sha1="8b317531168f1664ca9da99dfbdba1d4b631cbdb"/>
+		<rom name="synthgs.sbk" size="577322" crc="a625bfc0" md5="10200c2d12b8f0935030a47ace63f6c5" sha1="a4c2b6b31395f141baa0170b84ab0d5efc535914"/>
+		<rom name="TNT.TCF" size="65536" crc="04743972" md5="328559dff476821b54438558a18e2fea" sha1="4a8e42a33eca00029d260cba8b20accae2e4f461"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
 	<game name="Final Doom - The Plutonia Experiment (1996) (id Software).dosz">
 		<description>Final Doom - The Plutonia Experiment</description>
@@ -942,6 +1529,28 @@
 		<rom name="SERSETUP.EXE" size="20257" crc="64ea3378" md5="4494aa8d1840676aa676c6aac772b2eb" sha1="f41ebfc15378d2e2d0b70e60f4349bc4a3ccc2bd" date="1996-06-10 01:00:02"/>
 		<rom name="SETUP.EXE" size="45745" crc="0025fe95" md5="675564fcd380f5ef9beb0e7b21a51f79" sha1="f8644ace438896f9a788629d8da869bd34926f91" date="1996-06-10 01:00:02"/>
 		<rom name="TNT.WAD" size="18654796" crc="d4bb05c0" md5="1d39e405bf6ee3df69a8d2646c8d5c49" sha1="4a65c8b960225505187c36040b41a40b152f8f3e" date="1996-11-14 12:10:34"/>
+	</game>
+	<game name="Fusion + Doom II (2002) (David Wood).dosz">
+		<description>Fusion + Doom II</description>
+		<comment>v1.0</comment>
+		<year>2002</year>
+		<developer>David Wood</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="fusion.exe" size="1186096" crc="5de61d42" md5="466e8ad03b3ca0d6699ef07645e35f6c" sha1="9ac093f6c3c349a7fc8e642005f0b1169bc0a626" date="2000-12-07 08:15:00"/>
+		<rom name="FUSION.TXT" size="749" crc="a0984f67" md5="00b4c50f121ba8fb182e9cc1a1963dba" sha1="f99376701a87cb5a9cc9a85a9b3354f79cd38a0d" date="2002-09-07 12:00:52"/>
+		<rom name="textdemo.zip" size="47506" crc="a73d1992" md5="62a58a2bc502640efc2d84f4452c82ab" sha1="4559a7b2ee2cceb620bf43a6ccd62a274ad54bfb" date="2002-09-08 19:52:42"/>
+	</game>
+	<game name="Fusion + The Ultimate Doom (2002) (David Wood).dosz">
+		<description>Fusion + The Ultimate Doom</description>
+		<comment>v1.0</comment>
+		<year>2002</year>
+		<developer>David Wood</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="fusion.exe" size="1186096" crc="5de61d42" md5="466e8ad03b3ca0d6699ef07645e35f6c" sha1="9ac093f6c3c349a7fc8e642005f0b1169bc0a626" date="2000-12-07 08:15:00"/>
+		<rom name="FUSION.TXT" size="749" crc="a0984f67" md5="00b4c50f121ba8fb182e9cc1a1963dba" sha1="f99376701a87cb5a9cc9a85a9b3354f79cd38a0d" date="2002-09-07 12:00:52"/>
+		<rom name="textdemo.zip" size="47506" crc="a73d1992" md5="62a58a2bc502640efc2d84f4452c82ab" sha1="4559a7b2ee2cceb620bf43a6ccd62a274ad54bfb" date="2002-09-08 19:52:42"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
 	<game name="Gobliins 2 (1992) (Coktel Vision).dosz">
 		<description>Gobliins 2</description>
@@ -1791,6 +2400,30 @@
 		<rom name="XMAS2.PSM" size="136849" crc="4bf10799" md5="2cff502e4831a658b1c63257838a3ebf" sha1="cb1483acc93019333d5923abead301e10b565afb" date="1995-09-27 03:01:40"/>
 		<rom name="XMAS3.PSM" size="181650" crc="fe0ed271" md5="f1f1b66abb6fa42dcb0221fb21c97319" sha1="d08254373447fc0e68b5f280f6367030dd27b2a7" date="1995-09-27 03:03:42"/>
 	</game>
+	<game name="JDP + Doom II (2001) (Joel Murdoch).dosz">
+		<description>JDP + Doom II</description>
+		<comment>v1.01</comment>
+		<year>2001</year>
+		<developer>Joel Murdoch</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="asetup.exe" size="238752" crc="41dbbb0e" md5="b484fc0b71e22b51e67c26a2d66feaa8" sha1="0870e25f1c90b1add0f6eed46930e45915a6ce3e" date="1998-09-08 18:28:22"/>
+		<rom name="CWSDPMI.EXE" size="20217" crc="6ba5fa62" md5="7010b5c42dbe97b0c841f652a8580d90" sha1="f3e66d75aab6a3cece6fad9d09a07b1a15e2ad7a" date="1996-08-18 18:46:18"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="jdp.exe" size="536936" crc="1949b095" md5="30ed4b61d9e9b3df525ef2ed71fd42bb" sha1="e58d05a827d5d460ccacfea17362c3b45f112d2c" date="2001-01-05 02:55:00"/>
+		<rom name="jdp.txt" size="3614" crc="7357d93e" md5="18b72f81212756920d0be66e92f47f12" sha1="e93d7bc82bf0b71e297ed6edb2cd6b33db4b0d23" date="2001-01-14 21:10:04"/>
+	</game>
+	<game name="JDP + The Ultimate Doom (2001) (Joel Murdoch).dosz">
+		<description>JDP + The Ultimate Doom</description>
+		<comment>v1.01</comment>
+		<year>2001</year>
+		<developer>Joel Murdoch</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="asetup.exe" size="238752" crc="41dbbb0e" md5="b484fc0b71e22b51e67c26a2d66feaa8" sha1="0870e25f1c90b1add0f6eed46930e45915a6ce3e" date="1998-09-08 18:28:22"/>
+		<rom name="CWSDPMI.EXE" size="20217" crc="6ba5fa62" md5="7010b5c42dbe97b0c841f652a8580d90" sha1="f3e66d75aab6a3cece6fad9d09a07b1a15e2ad7a" date="1996-08-18 18:46:18"/>
+		<rom name="jdp.exe" size="536936" crc="1949b095" md5="30ed4b61d9e9b3df525ef2ed71fd42bb" sha1="e58d05a827d5d460ccacfea17362c3b45f112d2c" date="2001-01-05 02:55:00"/>
+		<rom name="jdp.txt" size="3614" crc="7357d93e" md5="18b72f81212756920d0be66e92f47f12" sha1="e93d7bc82bf0b71e297ed6edb2cd6b33db4b0d23" date="2001-01-14 21:10:04"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
 	<game name="Malice (1997) (Quantum Axcess).dosz">
 		<description>Malice</description>
 		<comment>Installed from CD</comment>
@@ -2179,6 +2812,38 @@
 		<rom name="WADS/VIRGIL.TXT" size="2813" crc="d5047ed6" md5="e767d645de816a9d5411075d0d002a78" sha1="c8315f125088644b3b666cc9b227ced6226ca7d9"/>
 		<rom name="WADS/VIRGIL.WAD" size="171232" crc="4d0b58e8" md5="3c0874f2df3c06a002ee2a18aba0f0e8" sha1="e3de77406aff3b6e5f06c3d450d70b8e6c6a34f9"/>
 	</game>
+	<game name="MidDoom + Doom II (1998) (Ryan Nunn).dosz">
+		<description>MidDoom + Doom II</description>
+		<comment>v0.3 with CWSDPMI Version 7</comment>
+		<year>1998</year>
+		<developer>Ryan Nunn</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="Asetup.exe" size="820822" crc="7be4f369" md5="381ce2a6bb65c49be20f3c8e27623759" sha1="9634f89f5686ec00a0d8729c89bd4b235883b808" date="1998-01-09 05:33:14"/>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 23:06:10"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Doomlic.txt" size="5494" crc="1492fddd" md5="1cdfdebf5ce458980ccff1826add9e47" sha1="b735f2f4021989e6f598d50722b3d9d475fb2178" date="1997-12-22 21:44:16"/>
+		<rom name="hud.wad" size="6032" crc="708a750c" md5="3be32afe4b6ca6bb8bc2cb57e6e8cd33" sha1="c9fcf66e2e1f40b0db7a4a30ab640f33f06f76f3" date="1998-01-31 16:49:16"/>
+		<rom name="MIDDOOM.EXE" size="1888468" crc="00bc6c76" md5="de1d6033b7539950ec76768cfca408d6" sha1="90d13d224af72843c14f3998af71c3e6e4d8ffc9" date="1998-02-01 17:07:36"/>
+		<rom name="Readme" size="6968" crc="75cc2f50" md5="09775f903f52de7e7be140471bafef37" sha1="38a061b11859161a4a122d87e1171389970aa88f" date="1998-02-01 18:31:14"/>
+		<rom name="remap.cd" size="52" crc="a47edc61" md5="f4c88ce3df78ec6364d232de248051f9" sha1="eea5786cef44297f5100acdd0210dab29d162b97" date="1998-01-09 07:17:26"/>
+		<rom name="tracks.def" size="1577" crc="f7a1e95d" md5="fe5a7ecdd15ded21366805a1772f73ec" sha1="2b2398fb702e7cdeed3577c272f00518b992be8b" date="1998-01-09 07:47:28"/>
+	</game>
+	<game name="MidDoom + The Ultimate Doom (1998) (Ryan Nunn).dosz">
+		<description>MidDoom + The Ultimate Doom</description>
+		<comment>v0.3 with CWSDPMI Version 7</comment>
+		<year>1998</year>
+		<developer>Ryan Nunn</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="Asetup.exe" size="820822" crc="7be4f369" md5="381ce2a6bb65c49be20f3c8e27623759" sha1="9634f89f5686ec00a0d8729c89bd4b235883b808" date="1998-01-09 05:33:14"/>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 23:06:10"/>
+		<rom name="Doomlic.txt" size="5494" crc="1492fddd" md5="1cdfdebf5ce458980ccff1826add9e47" sha1="b735f2f4021989e6f598d50722b3d9d475fb2178" date="1997-12-22 21:44:16"/>
+		<rom name="hud.wad" size="6032" crc="708a750c" md5="3be32afe4b6ca6bb8bc2cb57e6e8cd33" sha1="c9fcf66e2e1f40b0db7a4a30ab640f33f06f76f3" date="1998-01-31 16:49:16"/>
+		<rom name="MIDDOOM.EXE" size="1888468" crc="00bc6c76" md5="de1d6033b7539950ec76768cfca408d6" sha1="90d13d224af72843c14f3998af71c3e6e4d8ffc9" date="1998-02-01 17:07:36"/>
+		<rom name="Readme" size="6968" crc="75cc2f50" md5="09775f903f52de7e7be140471bafef37" sha1="38a061b11859161a4a122d87e1171389970aa88f" date="1998-02-01 18:31:14"/>
+		<rom name="remap.cd" size="52" crc="a47edc61" md5="f4c88ce3df78ec6364d232de248051f9" sha1="eea5786cef44297f5100acdd0210dab29d162b97" date="1998-01-09 07:17:26"/>
+		<rom name="tracks.def" size="1577" crc="f7a1e95d" md5="fe5a7ecdd15ded21366805a1772f73ec" sha1="2b2398fb702e7cdeed3577c272f00518b992be8b" date="1998-01-09 07:47:28"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
 	<game name="Monkey Island 2 - LeChuck's Revenge (1991) (Lucasfilm Games).dosz">
 		<description>Monkey Island 2 - LeChuck's Revenge</description>
 		<comment>Installed from the 5 English 3.5" disks</comment>
@@ -2192,6 +2857,30 @@
 		<rom name="ROLAND.IMS" size="18976" crc="8e983877" md5="98c9453b486e9cbff95c97c480c1a8d9" sha1="cd21c98036bfe54ae986941b3301f0c73c4f4f16" date="1991-11-21 13:33:38"/>
 		<rom name="SOUNBLAS.IMS" size="24808" crc="a95c63ec" md5="09ba62c3bc9f2bdc50868466cc4576b5" sha1="a1436072b308f073116aa57757b72709148c60b9" date="1991-11-21 13:33:38"/>
 		<rom name="SPEAKER.IMS" size="20062" crc="db85d8fd" md5="0c0a385da45ac811b23bbd47c9935990" sha1="953e2d5268125c97201674a55b6919c83f4d379c" date="1991-11-21 13:33:38"/>
+	</game>
+	<game name="PDoom + Doom II (1998) (Aurigae).dosz">
+		<description>PDoom + Doom II</description>
+		<comment>v0.1</comment>
+		<year>1998</year>
+		<developer>Aurigae</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="cwsdpmi.exe" size="20217" crc="6ba5fa62" md5="7010b5c42dbe97b0c841f652a8580d90" sha1="f3e66d75aab6a3cece6fad9d09a07b1a15e2ad7a" date="1997-02-19 09:43:00"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="dosdoom.exe" size="704512" crc="572d0334" md5="5cdb82ced66fdb1ffac162522ae40b77" sha1="a68f1d37e22e437c8ca7d65740973a9519193215" date="1998-01-02 00:25:40"/>
+		<rom name="readme.dos" size="2343" crc="128250ba" md5="5df39615c6b982bbed61e0470bbe7580" sha1="f66a31c98e163a829a324b41add6876284569e4e" date="1997-12-26 16:07:06"/>
+		<rom name="readme.now" size="2511" crc="12234e90" md5="606801304d9d184b87ccb3817259fc8e" sha1="6b5ce4bcc47691a2ee4676dac70a07577f3382bd" date="1998-01-02 00:40:24"/>
+	</game>
+	<game name="PDoom + The Ultimate Doom (1998) (Aurigae).dosz">
+		<description>PDoom + The Ultimate Doom</description>
+		<comment>v0.1</comment>
+		<year>1998</year>
+		<developer>Aurigae</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="cwsdpmi.exe" size="20217" crc="6ba5fa62" md5="7010b5c42dbe97b0c841f652a8580d90" sha1="f3e66d75aab6a3cece6fad9d09a07b1a15e2ad7a" date="1997-02-19 09:43:00"/>
+		<rom name="dosdoom.exe" size="704512" crc="572d0334" md5="5cdb82ced66fdb1ffac162522ae40b77" sha1="a68f1d37e22e437c8ca7d65740973a9519193215" date="1998-01-02 00:25:40"/>
+		<rom name="readme.dos" size="2343" crc="128250ba" md5="5df39615c6b982bbed61e0470bbe7580" sha1="f66a31c98e163a829a324b41add6876284569e4e" date="1997-12-26 16:07:06"/>
+		<rom name="readme.now" size="2511" crc="12234e90" md5="606801304d9d184b87ccb3817259fc8e" sha1="6b5ce4bcc47691a2ee4676dac70a07577f3382bd" date="1998-01-02 00:40:24"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
 	<game name="Prince of Persia (1992) (Broderbund Software).dosz">
 		<description>Prince of Persia</description>
@@ -2235,6 +2924,34 @@
 		<rom name="VIZIER.DAT" size="6111" crc="6010d5ca" md5="33a910991b0afb800868b631efaca1f3" sha1="f3bbe710982bbcdb51f43ab5c97d0e23efd0f633" date="1992-04-02 13:00:02"/>
 		<rom name="VPALACE.DAT" size="14212" crc="1c712ce9" md5="cc86fb01fddb7f54b0a903314e391eff" sha1="09f261c0493c90d8fa16123c5215a881e138fa58" date="1992-04-02 13:00:02"/>
 	</game>
+	<game name="PrjDoom + Doom II (1998) (Stephen Friederichs, Rethcir, DoomWiz).dosz">
+		<description>PrjDoom + Doom II</description>
+		<comment>v0.1 with CWSDPMI Version 7</comment>
+		<year>1998</year>
+		<developer>Stephen Friederichs, Rethcir, DoomWiz</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 23:06:10"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="prjboom.txt" size="5077" crc="429ce0b7" md5="e9ba1845c7143095efe5eb5a16232859" sha1="4334c88ac1212a4a36fbda71d0ae55f8916fdca5" date="1998-12-29 14:59:08"/>
+		<rom name="prjdoom.exe" size="459156" crc="26803d72" md5="03b849c470d6972c3aab92218834f930" sha1="2c85041f3f23ec13ff965c9f9941247f105f4730" date="1998-12-29 15:24:52"/>
+		<rom name="prjdoom.wad" size="196719" crc="d23fbd1e" md5="e6915416556b5f51862c581352202b55" sha1="30d337fb2dcd98735049e1355eb06ce60101d9b9" date="1998-12-29 14:43:18"/>
+		<rom name="SKY_1.WAD" size="46376" crc="e854d5ec" md5="c9e83cc0985d5cafd3e0faca03240cbc" sha1="1f2bcc72792a383cbdb0132bbf27b6b3d08a5869" date="1998-09-14 16:13:52"/>
+		<rom name="SKY_DEF.WAD" size="21352" crc="d35a0807" md5="e8e5e86fb0017b41132d28c0e4c3e01f" sha1="76ae1fc619e8866dc1b6d259d2813df3a3a7a360" date="1998-09-14 15:37:18"/>
+	</game>
+	<game name="PrjDoom + The Ultimate Doom (1998) (Stephen Friederichs, Rethcir, DoomWiz).dosz">
+		<description>PrjDoom + The Ultimate Doom</description>
+		<comment>v0.1 with CWSDPMI Version 7</comment>
+		<year>1998</year>
+		<developer>Stephen Friederichs, Rethcir, DoomWiz</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 23:06:10"/>
+		<rom name="prjboom.txt" size="5077" crc="429ce0b7" md5="e9ba1845c7143095efe5eb5a16232859" sha1="4334c88ac1212a4a36fbda71d0ae55f8916fdca5" date="1998-12-29 14:59:08"/>
+		<rom name="prjdoom.exe" size="459156" crc="26803d72" md5="03b849c470d6972c3aab92218834f930" sha1="2c85041f3f23ec13ff965c9f9941247f105f4730" date="1998-12-29 15:24:52"/>
+		<rom name="prjdoom.wad" size="196719" crc="d23fbd1e" md5="e6915416556b5f51862c581352202b55" sha1="30d337fb2dcd98735049e1355eb06ce60101d9b9" date="1998-12-29 14:43:18"/>
+		<rom name="SKY_1.WAD" size="46376" crc="e854d5ec" md5="c9e83cc0985d5cafd3e0faca03240cbc" sha1="1f2bcc72792a383cbdb0132bbf27b6b3d08a5869" date="1998-09-14 16:13:52"/>
+		<rom name="SKY_DEF.WAD" size="21352" crc="d35a0807" md5="e8e5e86fb0017b41132d28c0e4c3e01f" sha1="76ae1fc619e8866dc1b6d259d2813df3a3a7a360" date="1998-09-14 15:37:18"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
 	<game name="Quake (1996) (id Software).dosz">
 		<description>Quake</description>
 		<comment>Installed v1.08 from Quake: The Offering CD, Windows-only files and VQuake removed</comment>
@@ -2269,6 +2986,52 @@
 		</rom>
 		<rom name="QUAKE.EXE" size="409600" crc="3bc26700" md5="e3e7fcc920610a5fa66c1dd030939fac" sha1="97427017467717a78b1b9e4a01b70ef0f7161856" date="1997-03-11 18:29:24"/>
 	</game>
+	<game name="ReMooD + Doom II (2008) (RestlessRodent).dosz">
+		<description>ReMooD + Doom II</description>
+		<comment>v1.0a "Stuffed Cabbage"</comment>
+		<year>2008</year>
+		<developer>RestlessRodent</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="cwsdpmi.exe" size="20125" crc="1d1b569c" md5="bddab7c3bab53d1c7edf64c2f4e0b86a" sha1="e7891629d6d4e27aefe9d9d9b56e1fdd872c4937" date="2000-10-22 12:55:00"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="README" size="3076" crc="3557b212" md5="0e602d5a74905a1d7e62519af2dad84c" sha1="21b3689eb0f54bc72b9e64aa290b58e61ec7ef75" date="2011-08-09 22:36:56"/>
+		<rom name="README.cmp" size="6434" crc="997806ae" md5="32259d79734a30e1957895b43ba73d7a" sha1="9987c3144fa7a4ae0c76f7e769562d1ea54c49cf" date="2011-08-07 03:27:06"/>
+		<rom name="remood.exe" size="1970711" crc="06782c6e" md5="6ff386879b991f1f7590454a11c367b3" sha1="00dfe2239b7cf88bb6146587f065f72505b00bac" date="2011-08-16 01:58:10"/>
+		<rom name="remood.wad" size="1119036" crc="f55e040d" md5="d1ee971387e318da6ef3d7b43afb7880" sha1="b06c0a9b132a1fe890a75ab41aa717a7d8fdbd9e" date="2011-08-09 22:45:06"/>
+	</game>
+	<game name="ReMooD + The Ultimate Doom (2008) (RestlessRodent).dosz">
+		<description>ReMooD + The Ultimate Doom</description>
+		<comment>v1.0a "Stuffed Cabbage"</comment>
+		<year>2008</year>
+		<developer>RestlessRodent</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="cwsdpmi.exe" size="20125" crc="1d1b569c" md5="bddab7c3bab53d1c7edf64c2f4e0b86a" sha1="e7891629d6d4e27aefe9d9d9b56e1fdd872c4937" date="2000-10-22 12:55:00"/>
+		<rom name="README" size="3076" crc="3557b212" md5="0e602d5a74905a1d7e62519af2dad84c" sha1="21b3689eb0f54bc72b9e64aa290b58e61ec7ef75" date="2011-08-09 22:36:56"/>
+		<rom name="README.cmp" size="6434" crc="997806ae" md5="32259d79734a30e1957895b43ba73d7a" sha1="9987c3144fa7a4ae0c76f7e769562d1ea54c49cf" date="2011-08-07 03:27:06"/>
+		<rom name="remood.exe" size="1970711" crc="06782c6e" md5="6ff386879b991f1f7590454a11c367b3" sha1="00dfe2239b7cf88bb6146587f065f72505b00bac" date="2011-08-16 01:58:10"/>
+		<rom name="remood.wad" size="1119036" crc="f55e040d" md5="d1ee971387e318da6ef3d7b43afb7880" sha1="b06c0a9b132a1fe890a75ab41aa717a7d8fdbd9e" date="2011-08-09 22:45:06"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="RORDoom + Doom II (2000) (Julian Hope).dosz">
+		<description>RORDoom + Doom II</description>
+		<comment>Alpha 6 with CWSDPMI Version 7</comment>
+		<year>2000</year>
+		<developer>Julian Hope</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="alpharor.exe" size="978944" crc="6672bfc8" md5="20489d5520960d43ef294024fdd8443b" sha1="7ec83b46cbe18ad175d8086bb35d6239cb6b7303" date="2000-03-04 03:30:08"/>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 23:06:10"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="RORDoom + The Ultimate Doom (2000) (Julian Hope).dosz">
+		<description>RORDoom + The Ultimate Doom</description>
+		<comment>Alpha 6 with CWSDPMI Version 7</comment>
+		<year>2000</year>
+		<developer>Julian Hope</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="alpharor.exe" size="978944" crc="6672bfc8" md5="20489d5520960d43ef294024fdd8443b" sha1="7ec83b46cbe18ad175d8086bb35d6239cb6b7303" date="2000-03-04 03:30:08"/>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 23:06:10"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
 	<game name="Rogue (1984) (A.I. Design).dosz">
 		<description>Rogue</description>
 		<comment>Version 1.49</comment>
@@ -2280,6 +3043,62 @@
 		<rom name="ROGUE.OPT" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="ROGUE.PIC" size="16391" crc="57106c0e" md5="afb883b611c35f79f2a5168365349ba7" sha1="954278268827812fce8d8bde04954a9c3b828a48" date="1985-03-25 16:53:10"/>
 		<rom name="ROGUE.SCR" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Russian Doom + Doom II (2017) (Julia Nechaevskaya).dosz">
+		<description>Russian Doom + Doom II</description>
+		<comment>v1.8</comment>
+		<year>2017</year>
+		<developer>Julia Nechaevskaya</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="DOCS/DOS32.TXT" size="1860" crc="e74750bf" md5="2c7cf7b0b463d9e53961cdda611f0986" sha1="6f55759c718801409143adc630a999e8ba55dcb7" date="2006-04-20 11:11:12"/>
+		<rom name="DOCS/GPL.TXT" size="22161" crc="fa3d9188" md5="d91be3fccf0d5150654943692808cfea" sha1="95e53bf4a922fa8a49544f9e55f705dd38983e94" date="2017-11-17 14:51:10"/>
+		<rom name="DOCS/INFO_EN.TXT" size="5802" crc="bd881e14" md5="5305b5181d681ce86a3aae2d098fc9b5" sha1="27026b0111419127fbd6528a3ff5811da4fd991c" date="2020-06-09 17:33:16"/>
+		<rom name="DOCS/INFO_RU.TXT" size="6092" crc="387ce7f9" md5="a0dddfc10cabcf11cafef0d4fae09963" sha1="d3f9869671c8abb143c8ada4a5b02315573a1d07" date="2020-06-09 17:33:20"/>
+		<rom name="DOCS/ORDER.TXT" size="5491" crc="057a81b0" md5="60f31345904f85de31f0e1f92ce753aa" sha1="8a2ca3e4cf589eda3eaa1be05c0386db916f7149" date="2017-05-27 10:23:26"/>
+		<rom name="DOCS/VENDOR.TXT" size="481" crc="31cb7ef0" md5="e36b9739a92071ffca8fd989bce7bbe0" sha1="754acfb9274b009de1276f22f5ca777de2270d46" date="2017-05-25 13:15:30"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="RUSDOOM.EXE" size="885678" crc="211a0752" md5="435e745c2bb3d81958ab40f71f005e01" sha1="c56f4cb8d39d3c7710780115ea81249bb110d412" date="2020-06-09 17:26:44"/>
+		<rom name="RUSDOOM.WAD" size="1906858" crc="5c26bfeb" md5="470315cb4e3a0d83983e6d5476c70810" sha1="cf5d045b18f2b63ee6abfd812a5f35b9796a1e1a" date="2020-06-07 22:49:26"/>
+	</game>
+	<game name="Russian Doom + The Ultimate Doom (2017) (Julia Nechaevskaya).dosz">
+		<description>Russian Doom + The Ultimate Doom</description>
+		<comment>v1.8</comment>
+		<year>2017</year>
+		<developer>Julia Nechaevskaya</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="DOCS/DOS32.TXT" size="1860" crc="e74750bf" md5="2c7cf7b0b463d9e53961cdda611f0986" sha1="6f55759c718801409143adc630a999e8ba55dcb7" date="2006-04-20 11:11:12"/>
+		<rom name="DOCS/GPL.TXT" size="22161" crc="fa3d9188" md5="d91be3fccf0d5150654943692808cfea" sha1="95e53bf4a922fa8a49544f9e55f705dd38983e94" date="2017-11-17 14:51:10"/>
+		<rom name="DOCS/INFO_EN.TXT" size="5802" crc="bd881e14" md5="5305b5181d681ce86a3aae2d098fc9b5" sha1="27026b0111419127fbd6528a3ff5811da4fd991c" date="2020-06-09 17:33:16"/>
+		<rom name="DOCS/INFO_RU.TXT" size="6092" crc="387ce7f9" md5="a0dddfc10cabcf11cafef0d4fae09963" sha1="d3f9869671c8abb143c8ada4a5b02315573a1d07" date="2020-06-09 17:33:20"/>
+		<rom name="DOCS/ORDER.TXT" size="5491" crc="057a81b0" md5="60f31345904f85de31f0e1f92ce753aa" sha1="8a2ca3e4cf589eda3eaa1be05c0386db916f7149" date="2017-05-27 10:23:26"/>
+		<rom name="DOCS/VENDOR.TXT" size="481" crc="31cb7ef0" md5="e36b9739a92071ffca8fd989bce7bbe0" sha1="754acfb9274b009de1276f22f5ca777de2270d46" date="2017-05-25 13:15:30"/>
+		<rom name="RUSDOOM.EXE" size="885678" crc="211a0752" md5="435e745c2bb3d81958ab40f71f005e01" sha1="c56f4cb8d39d3c7710780115ea81249bb110d412" date="2020-06-09 17:26:44"/>
+		<rom name="RUSDOOM.WAD" size="1906858" crc="5c26bfeb" md5="470315cb4e3a0d83983e6d5476c70810" sha1="cf5d045b18f2b63ee6abfd812a5f35b9796a1e1a" date="2020-06-07 22:49:26"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="sF-Doom + Doom II (1999) (Fraggle).dosz">
+		<description>sF-Doom + Doom II</description>
+		<comment>v1.21 with CWSDPMI Version 7</comment>
+		<year>1999</year>
+		<developer>Fraggle</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 23:06:10"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="SFDOOM.EXE" size="720384" crc="d0c8425f" md5="5f1a55ff3a58acca2ef4d93c009f8e44" sha1="c272306c5ceb4456c81bb15912adea59f8e2a37f" date="1999-02-05 20:35:02"/>
+		<rom name="SFDOOM.TXT" size="2120" crc="c4f4382d" md5="6f4ef148edee69f7403bd4a4a414b495" sha1="130824b69c37215e2854fa79f65e1eb41a744925" date="1999-02-05 20:09:40"/>
+		<rom name="SFDOOM.WAD" size="34779" crc="b740bb85" md5="ff8f90b2d084ba79dce8c9978437e1ce" sha1="9759752bbac75efa670b2207534c4daad786ec9c" date="1999-02-05 17:00:52"/>
+	</game>
+	<game name="sF-Doom + The Ultimate Doom (1999) (Fraggle).dosz">
+		<description>sF-Doom + The Ultimate Doom</description>
+		<comment>v1.21 with CWSDPMI Version 7</comment>
+		<year>1999</year>
+		<developer>Fraggle</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 23:06:10"/>
+		<rom name="SFDOOM.EXE" size="720384" crc="d0c8425f" md5="5f1a55ff3a58acca2ef4d93c009f8e44" sha1="c272306c5ceb4456c81bb15912adea59f8e2a37f" date="1999-02-05 20:35:02"/>
+		<rom name="SFDOOM.TXT" size="2120" crc="c4f4382d" md5="6f4ef148edee69f7403bd4a4a414b495" sha1="130824b69c37215e2854fa79f65e1eb41a744925" date="1999-02-05 20:09:40"/>
+		<rom name="SFDOOM.WAD" size="34779" crc="b740bb85" md5="ff8f90b2d084ba79dce8c9978437e1ce" sha1="9759752bbac75efa670b2207534c4daad786ec9c" date="1999-02-05 17:00:52"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
 	<game name="Sid Meier's Railroad Tycoon (1990) (MPS Labs).dosz">
 		<description>Sid Meier's Railroad Tycoon</description>
@@ -3127,6 +3946,34 @@
 		<rom name="XSACARS.SPC" size="22816" crc="02f5b6b6" md5="1388289b51045cf1d0a8e3aad88f8672" sha1="e2687e6de1223cef9bc80f3b91764dcd416dbc48"/>
 		<rom name="YEEHA.8" size="26585" crc="9a8f6912" md5="1eddab5ccdce94436dc0715e244caabb" sha1="cb29d127cf54a56db39c168ad3450954a4041466"/>
 	</game>
+	<game name="SMMU + Doom II (1999) (Fraggle).dosz">
+		<description>SMMU + Doom II</description>
+		<comment>v3.30</comment>
+		<year>1999</year>
+		<developer>Fraggle</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="COPYING" size="17982" crc="82734a69" md5="8ca43cbc842c2336e835926c2166c28b" sha1="075d599585584bb0e4b526f5c40cb6b17e0da35a" date="1998-04-06 09:34:06"/>
+		<rom name="CWSDPMI.EXE" size="20473" crc="80fa6999" md5="da922d33e83c4ca711a92e59f2c6a9fc" sha1="3de2eb058ed95a0bbe7f19eae24f77a025b2e3bb" date="1997-10-19 21:48:14"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="SMMU.EXE" size="610716" crc="63355fb9" md5="d7d35b7ae157c5b25b8d9d4b2be6c0dc" sha1="1edc1e0f1c8cce1328338098096c39e1b4d65603" date="2000-08-18 00:41:40"/>
+		<rom name="SMMU.WAD" size="1036957" crc="80afe6d4" md5="8309eb552d6aa5fb9dd28928bdad9ba4" sha1="6e20dcf676333d30cda8b0f0c0bf3325db635147" date="1999-12-25 18:21:20"/>
+		<rom name="SOCK.VXD" size="17198" crc="0f549e9a" md5="9097efe0a841d0b1a51cb61d1556520c" sha1="4d0a5b202223848deeb02c99ffa3013e8c39a94e" date="1998-12-14 14:18:36"/>
+		<rom name="WINSOCK2.BAT" size="724" crc="fb634175" md5="02e2204605d7ce6033dcae2094f91857" sha1="88fbdd8848ffce9cb96043e1e853af3eee785013" date="2000-04-30 20:12:08"/>
+	</game>
+	<game name="SMMU + The Ultimate Doom (1999) (Fraggle).dosz">
+		<description>SMMU + The Ultimate Doom</description>
+		<comment>v3.30</comment>
+		<year>1999</year>
+		<developer>Fraggle</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="COPYING" size="17982" crc="82734a69" md5="8ca43cbc842c2336e835926c2166c28b" sha1="075d599585584bb0e4b526f5c40cb6b17e0da35a" date="1998-04-06 09:34:06"/>
+		<rom name="CWSDPMI.EXE" size="20473" crc="80fa6999" md5="da922d33e83c4ca711a92e59f2c6a9fc" sha1="3de2eb058ed95a0bbe7f19eae24f77a025b2e3bb" date="1997-10-19 21:48:14"/>
+		<rom name="SMMU.EXE" size="610716" crc="63355fb9" md5="d7d35b7ae157c5b25b8d9d4b2be6c0dc" sha1="1edc1e0f1c8cce1328338098096c39e1b4d65603" date="2000-08-18 00:41:40"/>
+		<rom name="SMMU.WAD" size="1036957" crc="80afe6d4" md5="8309eb552d6aa5fb9dd28928bdad9ba4" sha1="6e20dcf676333d30cda8b0f0c0bf3325db635147" date="1999-12-25 18:21:20"/>
+		<rom name="SOCK.VXD" size="17198" crc="0f549e9a" md5="9097efe0a841d0b1a51cb61d1556520c" sha1="4d0a5b202223848deeb02c99ffa3013e8c39a94e" date="1998-12-14 14:18:36"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="WINSOCK2.BAT" size="724" crc="fb634175" md5="02e2204605d7ce6033dcae2094f91857" sha1="88fbdd8848ffce9cb96043e1e853af3eee785013" date="2000-04-30 20:12:08"/>
+	</game>
 	<game name="Sonic PC (2002) (BB Software).dosz">
 		<description>Sonic PC</description>
 		<comment>Demo 1</comment>
@@ -3163,6 +4010,38 @@
 		<rom name="STRIFE1.WAD" size="28377364" crc="4234ace5" md5="2fed2031a5b03892106e0f117f17901f" sha1="64c13b951a845ca7f8081f68138a6181557458d1" date="1996-05-23 18:03:58"/>
 		<rom name="VERSION.TXT" size="24" crc="4c683baa" md5="921821ff44c39c541babfba6cd101cca" sha1="0d1051c6eba9f13feb865a5681e301d455edab2c" date="1996-05-20 14:24:48"/>
 		<rom name="VOICES.WAD" size="27319149" crc="cd12ebcf" md5="082234d6a3f7086424856478b5aa9e95" sha1="ec6883100d807b894a98f426d024d22c77b63e7f" date="1996-04-15 15:49:46"/>
+	</game>
+	<game name="Steve Boom + Doom II (1998) (Steve).dosz">
+		<description>Steve Boom + Doom II</description>
+		<comment>v0.5</comment>
+		<year>1998</year>
+		<developer>Steve</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="DHE.WAD" size="339" crc="4733a929" md5="3bb11a00ab53e080ff847c7f79d44ff5" sha1="7994030062cd87052ea35aa2f61f6a92dc5786af" date="1998-09-29 20:14:14"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="HOST.BAT" size="138" crc="30a4f472" md5="f6c35fad5afdbdac21b7a6579d2ce198" sha1="16f72488a874ebbbd9fbe5b653fff9c9e54852ac" date="1998-05-22 15:31:22"/>
+		<rom name="JOIN.BAT" size="76" crc="dd4a7741" md5="212266d2d9275729e1c2f12310453149" sha1="9fec1f5df322abe0a4303c9b8cb78b9c46f77d34" date="1998-05-22 15:31:24"/>
+		<rom name="prjboom.exe" size="451856" crc="fb0367e4" md5="d78d4202253e3de8143f2fe88fcda435" sha1="c95ec2a1c0d0e221aeb75af6028ba55797bee47e" date="1998-09-29 19:41:44"/>
+		<rom name="prjboom.txt" size="6589" crc="8e850673" md5="b410069c194dd913c7a1d0d778834123" sha1="42459ccc8b9d16cec86fe954b0e847ede2a41d67" date="1998-09-29 20:15:38"/>
+		<rom name="prjboom.wad" size="174678" crc="b80eb7b9" md5="a91b6aadef9a348025836b5c6652655a" sha1="1bec636ee638efd9b4da823eb477e3f0d061d238" date="1998-09-14 15:37:48"/>
+		<rom name="SKY_1.WAD" size="46376" crc="e854d5ec" md5="c9e83cc0985d5cafd3e0faca03240cbc" sha1="1f2bcc72792a383cbdb0132bbf27b6b3d08a5869" date="1998-09-14 16:13:52"/>
+		<rom name="SKY_DEF.WAD" size="21352" crc="d35a0807" md5="e8e5e86fb0017b41132d28c0e4c3e01f" sha1="76ae1fc619e8866dc1b6d259d2813df3a3a7a360" date="1998-09-14 15:37:18"/>
+	</game>
+	<game name="Steve Boom + The Ultimate Doom (1998) (Steve).dosz">
+		<description>Steve Boom + The Ultimate Doom</description>
+		<comment>v0.5</comment>
+		<year>1998</year>
+		<developer>Steve</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="DHE.WAD" size="339" crc="4733a929" md5="3bb11a00ab53e080ff847c7f79d44ff5" sha1="7994030062cd87052ea35aa2f61f6a92dc5786af" date="1998-09-29 20:14:14"/>
+		<rom name="HOST.BAT" size="138" crc="30a4f472" md5="f6c35fad5afdbdac21b7a6579d2ce198" sha1="16f72488a874ebbbd9fbe5b653fff9c9e54852ac" date="1998-05-22 15:31:22"/>
+		<rom name="JOIN.BAT" size="76" crc="dd4a7741" md5="212266d2d9275729e1c2f12310453149" sha1="9fec1f5df322abe0a4303c9b8cb78b9c46f77d34" date="1998-05-22 15:31:24"/>
+		<rom name="prjboom.exe" size="451856" crc="fb0367e4" md5="d78d4202253e3de8143f2fe88fcda435" sha1="c95ec2a1c0d0e221aeb75af6028ba55797bee47e" date="1998-09-29 19:41:44"/>
+		<rom name="prjboom.txt" size="6589" crc="8e850673" md5="b410069c194dd913c7a1d0d778834123" sha1="42459ccc8b9d16cec86fe954b0e847ede2a41d67" date="1998-09-29 20:15:38"/>
+		<rom name="prjboom.wad" size="174678" crc="b80eb7b9" md5="a91b6aadef9a348025836b5c6652655a" sha1="1bec636ee638efd9b4da823eb477e3f0d061d238" date="1998-09-14 15:37:48"/>
+		<rom name="SKY_1.WAD" size="46376" crc="e854d5ec" md5="c9e83cc0985d5cafd3e0faca03240cbc" sha1="1f2bcc72792a383cbdb0132bbf27b6b3d08a5869" date="1998-09-14 16:13:52"/>
+		<rom name="SKY_DEF.WAD" size="21352" crc="d35a0807" md5="e8e5e86fb0017b41132d28c0e4c3e01f" sha1="76ae1fc619e8866dc1b6d259d2813df3a3a7a360" date="1998-09-14 15:37:18"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
 	<game name="Super Mario World DX (2002) (BB Software).dosz">
 		<description>Super Mario World DX</description>
@@ -3234,6 +4113,82 @@
 		<rom name="SMWDX.EXE" size="578039" crc="b4a6e4e4" md5="d47e2196cb7d2cec4c26cbe1ad062caf" sha1="aed245df5f08d30881825431a182afd5c8a225b9" date="2002-03-23 19:44:42"/>
 		<rom name="SMWDXEditor_1.30.zip" size="444500" crc="9e6246b9" md5="2150f2493b83cd97db2c6b9f20c47460" sha1="269104e4aaba0301cb464cb2143b7620337147b7" date="2002-05-04 17:12:58"/>
 		<rom name="SOUND.CFG" size="32" crc="2b79d7be" md5="51d70b5660a9826a2fc3de3f547b5d35" sha1="6880992e8e59b584149614deaa637ba89775c3df" date="2002-03-23 19:45:16"/>
+	</game>
+	<game name="Tartar + Doom II (2021) (ludicrous_peridot).dosz">
+		<description>Tartar + Doom II</description>
+		<comment>Version tartar-stage5m1</comment>
+		<year>2021</year>
+		<developer>ludicrous_peridot</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2022-05-11 21:38:04"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="ETERNITY.WAD" size="1165696" crc="6b8a58ff" md5="2b5a72557899cd80a35d9a44d40a0ead" sha1="80b9ea08c66af67aa8aec60d3001ce909d686abf" date="2021-11-07 10:38:42"/>
+		<rom name="FIXES/PLUTONIA/noslmfix.wad" size="49" crc="388e709e" md5="0addf427e180c1e734223feff96ebbc4" sha1="f9e746209446b47839761f0e3426a1eb753b7617" date="2023-01-22 01:02:42"/>
+		<rom name="keyboard.dat" size="4450" crc="f1f3f4de" md5="b91702fe6d203b338b0477c55663b767" sha1="6ed1373ee87ea153a75e9ab4b6ec53375be92134" date="1997-11-29 13:01:20"/>
+		<rom name="SETUP.EXE" size="233348" crc="8614f560" md5="58112e5a45f477fcf3610057993dd6c7" sha1="dbd8c8f9b25274e5dd045a790f3c3f7f02333bb4"/>
+		<rom name="TARTAR.EXE" size="451256" crc="e178fb19" md5="89ef56de7d5b5ac2f3dedccf5b19c469" sha1="5b6a59e322191f89b0be607aae8cfd8d128e92ba"/>
+	</game>
+	<game name="Tartar + The Ultimate Doom (2021) (ludicrous_peridot).dosz">
+		<description>Tartar + The Ultimate Doom</description>
+		<comment>Version tartar-stage5m1</comment>
+		<year>2021</year>
+		<developer>ludicrous_peridot</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2022-05-11 21:38:04"/>
+		<rom name="ETERNITY.WAD" size="1165696" crc="6b8a58ff" md5="2b5a72557899cd80a35d9a44d40a0ead" sha1="80b9ea08c66af67aa8aec60d3001ce909d686abf" date="2021-11-07 10:38:42"/>
+		<rom name="FIXES/PLUTONIA/noslmfix.wad" size="49" crc="388e709e" md5="0addf427e180c1e734223feff96ebbc4" sha1="f9e746209446b47839761f0e3426a1eb753b7617" date="2023-01-22 01:02:42"/>
+		<rom name="keyboard.dat" size="4450" crc="f1f3f4de" md5="b91702fe6d203b338b0477c55663b767" sha1="6ed1373ee87ea153a75e9ab4b6ec53375be92134" date="1997-11-29 13:01:20"/>
+		<rom name="SETUP.EXE" size="233348" crc="8614f560" md5="58112e5a45f477fcf3610057993dd6c7" sha1="dbd8c8f9b25274e5dd045a790f3c3f7f02333bb4"/>
+		<rom name="TARTAR.EXE" size="451256" crc="e178fb19" md5="89ef56de7d5b5ac2f3dedccf5b19c469" sha1="5b6a59e322191f89b0be607aae8cfd8d128e92ba"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="TASDoom + Doom II (1998) (TAS Team).dosz">
+		<description>TASDoom + Doom II</description>
+		<comment>Version 1 with CWSDPMI Version 7</comment>
+		<year>1998</year>
+		<developer>TAS Team</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 23:06:10"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="tasdoom.exe" size="746800" crc="050cd926" md5="f9c6484a943288fd6cd57f71c72be46e" sha1="7e4b009ec11d3c33580389afa0ea80c3401332aa" date="1998-12-15 22:48:56"/>
+		<rom name="tasdoom.txt" size="3110" crc="dd72fd6b" md5="6c471a1a025df7fdb5a04415d31b36b6" sha1="0d6415b79c86247184c5628d06c1cd2492bac239" date="1999-07-15 17:04:10"/>
+	</game>
+	<game name="TASDoom + The Ultimate Doom (1998) (TAS Team).dosz">
+		<description>TASDoom + The Ultimate Doom</description>
+		<comment>Version 1 with CWSDPMI Version 7</comment>
+		<year>1998</year>
+		<developer>TAS Team</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 23:06:10"/>
+		<rom name="tasdoom.exe" size="746800" crc="050cd926" md5="f9c6484a943288fd6cd57f71c72be46e" sha1="7e4b009ec11d3c33580389afa0ea80c3401332aa" date="1998-12-15 22:48:56"/>
+		<rom name="tasdoom.txt" size="3110" crc="dd72fd6b" md5="6c471a1a025df7fdb5a04415d31b36b6" sha1="0d6415b79c86247184c5628d06c1cd2492bac239" date="1999-07-15 17:04:10"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="TASMBF + Doom II (1999) (TAS Team).dosz">
+		<description>TASMBF + Doom II</description>
+		<comment>Version 1 with CWSDPMI Version 7</comment>
+		<year>1999</year>
+		<developer>TAS Team</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 23:06:10"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="MbfLmpc.exe" size="276480" crc="780263d6" md5="64e6f57a28d7b28999fc6216f463ae2d" sha1="f5c8f657b0055eea3bed57ab7f2ded85936c18fd" date="1999-01-10 16:56:26"/>
+		<rom name="mbflmpc.txt" size="2649" crc="3fb7b937" md5="8324f15c9f87d774249bcf27639a958c" sha1="d2a173b1bcdc0345a171b4e7c5fab20e508ebb2d" date="1999-07-06 18:08:12"/>
+		<rom name="tasmbf.exe" size="536204" crc="e943cff5" md5="682d1af6abdab483d1cb640318c684e8" sha1="bd2beaac399f3df0f164694579b4c21dc66e6da9" date="1999-01-10 14:40:48"/>
+		<rom name="tastutor.txt" size="2018" crc="802396ca" md5="06296eb136c662c901d82807a19ca6ed" sha1="8b9ab9c20e8e30e6b7f4d3e64b1fc2cc28309703" date="1999-07-15 17:17:54"/>
+	</game>
+	<game name="TASMBF + The Ultimate Doom (1999) (TAS Team).dosz">
+		<description>TASMBF + The Ultimate Doom</description>
+		<comment>Version 1 with CWSDPMI Version 7</comment>
+		<year>1999</year>
+		<developer>TAS Team</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 23:06:10"/>
+		<rom name="MbfLmpc.exe" size="276480" crc="780263d6" md5="64e6f57a28d7b28999fc6216f463ae2d" sha1="f5c8f657b0055eea3bed57ab7f2ded85936c18fd" date="1999-01-10 16:56:26"/>
+		<rom name="mbflmpc.txt" size="2649" crc="3fb7b937" md5="8324f15c9f87d774249bcf27639a958c" sha1="d2a173b1bcdc0345a171b4e7c5fab20e508ebb2d" date="1999-07-06 18:08:12"/>
+		<rom name="tasmbf.exe" size="536204" crc="e943cff5" md5="682d1af6abdab483d1cb640318c684e8" sha1="bd2beaac399f3df0f164694579b4c21dc66e6da9" date="1999-01-10 14:40:48"/>
+		<rom name="tastutor.txt" size="2018" crc="802396ca" md5="06296eb136c662c901d82807a19ca6ed" sha1="8b9ab9c20e8e30e6b7f4d3e64b1fc2cc28309703" date="1999-07-15 17:17:54"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
 	<game name="Theme Hospital (1997) (Bullfrog Productions).dosz">
 		<description>Theme Hospital</description>
@@ -3699,6 +4654,37 @@
 			<track number="1" type="MODE1_RAW" frames="104140" pregap="0" duration="23:08:40" size="244937280" crc="c392334e" md5="2ed9e3e319b2696e96d09a81b91c217c" sha1="b6002007d77a266a7133b6b5884c4648242f644f" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
+	<game name="Timer + Doom II (2000) (Andy Kempling, Adam Hegyi).dosz">
+		<description>Timer + Doom II</description>
+		<comment>CWSDPMI Version 7</comment>
+		<year>2000</year>
+		<developer>Andy Kempling, Adam Hegyi</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 23:06:10"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="timer.exe" size="365628" crc="e170d4b8" md5="a14154d6bb596ecb38b53151b51993c4" sha1="717ceca9e5d6b96570831ec6b25447374e95a43f" date="2000-09-19 14:45:26"/>
+		<rom name="timer.txt" size="1693" crc="074a41ad" md5="508b066e14b116d2a35f717a02e3bcf7" sha1="a6591d8bd2e14febeb3e84c00fc5c90f07961594" date="2000-09-18 23:37:22"/>
+	</game>
+	<game name="Timer + The Ultimate Doom (2000) (Andy Kempling, Adam Hegyi).dosz">
+		<description>Timer + The Ultimate Doom</description>
+		<comment>CWSDPMI Version 7</comment>
+		<year>2000</year>
+		<developer>Andy Kempling, Adam Hegyi</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 23:06:10"/>
+		<rom name="timer.exe" size="365628" crc="e170d4b8" md5="a14154d6bb596ecb38b53151b51993c4" sha1="717ceca9e5d6b96570831ec6b25447374e95a43f" date="2000-09-19 14:45:26"/>
+		<rom name="timer.txt" size="1693" crc="074a41ad" md5="508b066e14b116d2a35f717a02e3bcf7" sha1="a6591d8bd2e14febeb3e84c00fc5c90f07961594" date="2000-09-18 23:37:22"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="UDoom32 (2021) (OpenRift).dosz">
+		<description>UDoom32</description>
+		<comment>v1.92.1</comment>
+		<year>2021</year>
+		<developer>OpenRift</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="UDOOM32.EXE" size="715493" crc="b8bb6dd5" md5="f53ef01bf83c5a2865130de4498a2c62" sha1="bd518991e8f7363810d55925530ca235b30b9b41" date="2021-05-26 15:34:52"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
 	<game name="Ultima VII - The Black Gate + The Forge of Virtue (1992) (ORIGIN Systems).dosz">
 		<description>Ultima VII - The Black Gate + The Forge of Virtue</description>
 		<comment>Main game with add-in v3.4 from The Complete Ultima VII CD</comment>
@@ -3934,6 +4920,86 @@
 		<rom name="README.TXT" size="21989" crc="07cabff5" md5="946215052a908247220689be2dd580d7" sha1="0abd50120ae1cb217ec3763255f91a98771df48b" date="1995-05-25 01:09:10"/>
 		<rom name="SERSETUP.EXE" size="20257" crc="6f8c2806" md5="573d6f784c0ca293383b6737b2a8e2c5" sha1="c34e1d9bbfcdcd8868fb4141201d3d02473c0fe1" date="1995-05-25 01:09:10"/>
 		<rom name="SETUP.EXE" size="46665" crc="9a6be6d8" md5="729df5c0727cd290c1c34ffd29a04490" sha1="4664dbf04047a7b1733fed3654e6dd6b25b1613a" date="1995-05-25 01:09:10"/>
+	</game>
+	<game name="Vavoom + Doom II (2000) (Janis Legzdinsh, Firebrand).dosz">
+		<description>Vavoom + Doom II</description>
+		<comment>Version 1.26 with CWSDPMI Version 7</comment>
+		<year>2000</year>
+		<developer>Janis Legzdinsh, Firebrand</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="asetup.exe" size="821248" crc="d9fc2cd8" md5="1da816b15eca62e9d2df00df6c4b1b56" sha1="4cd0ff7af72fd7d89f90171ec73c90b0f96224c3" date="2004-10-05 16:07:00"/>
+		<rom name="basev/common/basepak.pk3" size="152336" crc="845e0457" md5="d138b80e879a609670b65bdf8b3d5f37" sha1="416996745b63aeb20e7b8950017ce7abd65d25f1" date="2008-01-19 18:54:06"/>
+		<rom name="basev/doom/basepak.pk3" size="26320" crc="f04efe0a" md5="af9a25a7aa89c22505271a5e5be39889" sha1="4b412285562e1f1061b5603fa9c77f902e042d6f" date="2008-01-19 18:54:06"/>
+		<rom name="basev/doom1/base.txt" size="22" crc="e5cb6ed7" md5="919ea8ae7a13452161a4338e84aa71fe" sha1="8352188aff75383b9d18a07c34cd47c929c4e678" date="2008-01-19 18:54:08"/>
+		<rom name="basev/doom1/basepak.pk3" size="58354" crc="4b47a5bc" md5="6e36c7982c120b6fd420e0d0ec114eaf" sha1="59f9bebec362825a95c4a622b13070d58a6c0ed1" date="2008-01-19 18:54:08"/>
+		<rom name="basev/doom2/base.txt" size="22" crc="e5cb6ed7" md5="919ea8ae7a13452161a4338e84aa71fe" sha1="8352188aff75383b9d18a07c34cd47c929c4e678" date="2008-01-19 18:54:08"/>
+		<rom name="basev/doom2/basepak.pk3" size="56265" crc="baa1a434" md5="bd703967868dde9cd425adc28f21a467" sha1="0af1847a487b9f5f20427fcc4287139f2664e37d" date="2008-01-19 18:54:08"/>
+		<rom name="basev/games.txt" size="1156" crc="f5990560" md5="abade192621ac875a00bbd7e74bfabe9" sha1="75458e903ec54d5cb858f00528c23b19c6df76a3" date="2008-01-19 18:54:14"/>
+		<rom name="basev/heretic/basepak.pk3" size="61991" crc="0945baa7" md5="ab7358440e1eda8536eaed869bff2151" sha1="d412ab4156f9d9e8eb301eb232c8366fbffdd4d2" date="2008-01-19 18:54:10"/>
+		<rom name="basev/hexen/basepak.pk3" size="95026" crc="82764c78" md5="49b0395fd8710b6cd61fce6a8fc1a27e" sha1="6feb83915f950f3e4c6843fcdfd1615cfabb7fa8" date="2008-01-19 18:54:10"/>
+		<rom name="basev/plutonia/base.txt" size="23" crc="5a47ff47" md5="c77669849bef8d264925101b5f6cb45f" sha1="bd5da45594945253fed76c84865ea0c8ed6cfffc" date="2008-01-19 18:54:12"/>
+		<rom name="basev/plutonia/basepak.pk3" size="1022" crc="e02142ea" md5="cdc3a6d7e4eae466c9a52393e81edac9" sha1="7663c322afb2bf132c7de1177d5c8ff916470a42" date="2008-01-19 18:54:12"/>
+		<rom name="basev/strife/basepak.pk3" size="89216" crc="2ede67e1" md5="eaad39e9e834bec0ce4b9169b595b1bb" sha1="5bacf1f13bef8747dc261d0d4c49b5b83c92dd58" date="2008-01-19 18:54:12"/>
+		<rom name="basev/tnt/base.txt" size="21" crc="f727fa4b" md5="5810d120de75447f175df55953c432be" sha1="b61a1af1879bc6d03081be988a85b12a10c1a072" date="2008-01-19 18:54:12"/>
+		<rom name="basev/tnt/basepak.pk3" size="1022" crc="b4cb67e9" md5="9842510237f1a4cf5f13b99f7d1cedcf" sha1="061768a1a463a5bfdec46d6c375b7b65a63e9178" date="2008-01-19 18:54:14"/>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 23:06:10"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="gnu.txt" size="18321" crc="0767480b" md5="ad4652e2dcfd4a0ecf91a2c01a7defd5" sha1="b6bf3e6e140e34af95f38bd7e59b9517cc88506d" date="2006-06-22 15:31:54"/>dosz">
+		<rom name="Vavoom.exe" size="3453952" crc="f46cf700" md5="8d7f0370be8832b60d60c0539944edb3" sha1="9c72a5bf157732430db7b8a6eb60da9f7fc89172" date="2008-01-19 18:46:44"/>
+		<rom name="vavoom.txt" size="43792" crc="79a659eb" md5="307d5b133a85560e5ed17da74177fa8d" sha1="7b2074dcf43a5c9cdfddfd039ffb4e9945c480ad" date="2008-01-19 17:46:08"/>
+	</game>
+	<game name="Vavoom + The Ultimate Doom (2000) (Janis Legzdinsh, Firebrand).dosz">
+		<description>Vavoom + The Ultimate Doom</description>
+		<comment>Version 1.26 with CWSDPMI Version 7</comment>
+		<year>2000</year>
+		<developer>Janis Legzdinsh, Firebrand</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="asetup.exe" size="821248" crc="d9fc2cd8" md5="1da816b15eca62e9d2df00df6c4b1b56" sha1="4cd0ff7af72fd7d89f90171ec73c90b0f96224c3" date="2004-10-05 16:07:00"/>
+		<rom name="basev/common/basepak.pk3" size="152336" crc="845e0457" md5="d138b80e879a609670b65bdf8b3d5f37" sha1="416996745b63aeb20e7b8950017ce7abd65d25f1" date="2008-01-19 18:54:06"/>
+		<rom name="basev/doom/basepak.pk3" size="26320" crc="f04efe0a" md5="af9a25a7aa89c22505271a5e5be39889" sha1="4b412285562e1f1061b5603fa9c77f902e042d6f" date="2008-01-19 18:54:06"/>
+		<rom name="basev/doom1/base.txt" size="22" crc="e5cb6ed7" md5="919ea8ae7a13452161a4338e84aa71fe" sha1="8352188aff75383b9d18a07c34cd47c929c4e678" date="2008-01-19 18:54:08"/>
+		<rom name="basev/doom1/basepak.pk3" size="58354" crc="4b47a5bc" md5="6e36c7982c120b6fd420e0d0ec114eaf" sha1="59f9bebec362825a95c4a622b13070d58a6c0ed1" date="2008-01-19 18:54:08"/>
+		<rom name="basev/doom2/base.txt" size="22" crc="e5cb6ed7" md5="919ea8ae7a13452161a4338e84aa71fe" sha1="8352188aff75383b9d18a07c34cd47c929c4e678" date="2008-01-19 18:54:08"/>
+		<rom name="basev/doom2/basepak.pk3" size="56265" crc="baa1a434" md5="bd703967868dde9cd425adc28f21a467" sha1="0af1847a487b9f5f20427fcc4287139f2664e37d" date="2008-01-19 18:54:08"/>
+		<rom name="basev/games.txt" size="1156" crc="f5990560" md5="abade192621ac875a00bbd7e74bfabe9" sha1="75458e903ec54d5cb858f00528c23b19c6df76a3" date="2008-01-19 18:54:14"/>
+		<rom name="basev/heretic/basepak.pk3" size="61991" crc="0945baa7" md5="ab7358440e1eda8536eaed869bff2151" sha1="d412ab4156f9d9e8eb301eb232c8366fbffdd4d2" date="2008-01-19 18:54:10"/>
+		<rom name="basev/hexen/basepak.pk3" size="95026" crc="82764c78" md5="49b0395fd8710b6cd61fce6a8fc1a27e" sha1="6feb83915f950f3e4c6843fcdfd1615cfabb7fa8" date="2008-01-19 18:54:10"/>
+		<rom name="basev/plutonia/base.txt" size="23" crc="5a47ff47" md5="c77669849bef8d264925101b5f6cb45f" sha1="bd5da45594945253fed76c84865ea0c8ed6cfffc" date="2008-01-19 18:54:12"/>
+		<rom name="basev/plutonia/basepak.pk3" size="1022" crc="e02142ea" md5="cdc3a6d7e4eae466c9a52393e81edac9" sha1="7663c322afb2bf132c7de1177d5c8ff916470a42" date="2008-01-19 18:54:12"/>
+		<rom name="basev/strife/basepak.pk3" size="89216" crc="2ede67e1" md5="eaad39e9e834bec0ce4b9169b595b1bb" sha1="5bacf1f13bef8747dc261d0d4c49b5b83c92dd58" date="2008-01-19 18:54:12"/>
+		<rom name="basev/tnt/base.txt" size="21" crc="f727fa4b" md5="5810d120de75447f175df55953c432be" sha1="b61a1af1879bc6d03081be988a85b12a10c1a072" date="2008-01-19 18:54:12"/>
+		<rom name="basev/tnt/basepak.pk3" size="1022" crc="b4cb67e9" md5="9842510237f1a4cf5f13b99f7d1cedcf" sha1="061768a1a463a5bfdec46d6c375b7b65a63e9178" date="2008-01-19 18:54:14"/>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 23:06:10"/>
+		<rom name="gnu.txt" size="18321" crc="0767480b" md5="ad4652e2dcfd4a0ecf91a2c01a7defd5" sha1="b6bf3e6e140e34af95f38bd7e59b9517cc88506d" date="2006-06-22 15:31:54"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Vavoom.exe" size="3453952" crc="f46cf700" md5="8d7f0370be8832b60d60c0539944edb3" sha1="9c72a5bf157732430db7b8a6eb60da9f7fc89172" date="2008-01-19 18:46:44"/>
+		<rom name="vavoom.txt" size="43792" crc="79a659eb" md5="307d5b133a85560e5ed17da74177fa8d" sha1="7b2074dcf43a5c9cdfddfd039ffb4e9945c480ad" date="2008-01-19 17:46:08"/>
+	</game>
+	<game name="VSB Doom + Doom II (1998) (DOUG the Eagle).dosz">
+		<description>VSB Doom + Doom II</description>
+		<comment>v0.2</comment>
+		<year>1998</year>
+		<developer>DOUG the Eagle</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<rom name="CWSDPMI.EXE" size="20473" crc="80fa6999" md5="da922d33e83c4ca711a92e59f2c6a9fc" sha1="3de2eb058ed95a0bbe7f19eae24f77a025b2e3bb" date="1997-10-19 21:48:14"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="README.VSB" size="6463" crc="68e75131" md5="e7b785cd43ae7dd076ca8ffb4df51495" sha1="9a3aa49ee8f6e7ea934a01d942fcd8b69b138e1b" date="1998-02-10 21:55:04"/>
+		<rom name="VSB.BAT" size="50" crc="5f5f813f" md5="db8c3b0f4f5c5825c26a623ea543338b" sha1="35cc151fe7ce51ff583f2c29936a2a3d88421930" date="1998-02-10 21:55:14"/>
+		<rom name="VSB047.EXE" size="352548" crc="aec49dee" md5="1784ddf7229c44bc7c49543dca3cb87e" sha1="63381fdee73bf3d751a9de1ca5138f661ff5b324" date="1998-02-10 21:42:46"/>
+		<rom name="VSB72.WAD" size="20657" crc="69c6ebd5" md5="67b78a41d1acce2d82d4fa7e0c1c3198" sha1="3d80aea9be38d326458253c9186b0328e0f4864d" date="1998-01-12 01:53:34"/>
+	</game>
+	<game name="VSB Doom + The Ultimate Doom (1998) (DOUG the Eagle).dosz">
+		<description>VSB Doom + The Ultimate Doom</description>
+		<comment>v0.2</comment>
+		<year>1998</year>
+		<developer>DOUG the Eagle</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<rom name="CWSDPMI.EXE" size="20473" crc="80fa6999" md5="da922d33e83c4ca711a92e59f2c6a9fc" sha1="3de2eb058ed95a0bbe7f19eae24f77a025b2e3bb" date="1997-10-19 21:48:14"/>
+		<rom name="README.VSB" size="6463" crc="68e75131" md5="e7b785cd43ae7dd076ca8ffb4df51495" sha1="9a3aa49ee8f6e7ea934a01d942fcd8b69b138e1b" date="1998-02-10 21:55:04"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="VSB.BAT" size="50" crc="5f5f813f" md5="db8c3b0f4f5c5825c26a623ea543338b" sha1="35cc151fe7ce51ff583f2c29936a2a3d88421930" date="1998-02-10 21:55:14"/>
+		<rom name="VSB047.EXE" size="352548" crc="aec49dee" md5="1784ddf7229c44bc7c49543dca3cb87e" sha1="63381fdee73bf3d751a9de1ca5138f661ff5b324" date="1998-02-10 21:42:46"/>
+		<rom name="VSB72.WAD" size="20657" crc="69c6ebd5" md5="67b78a41d1acce2d82d4fa7e0c1c3198" sha1="3d80aea9be38d326458253c9186b0328e0f4864d" date="1998-01-12 01:53:34"/>
 	</game>
 	<game name="Warcraft - Orcs &amp; Humans (1994) (Blizzard Entertainment).dosz">
 		<description>Warcraft - Orcs &amp; Humans</description>
