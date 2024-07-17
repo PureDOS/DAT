@@ -10,6 +10,25 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
   	</header>
+	<game name="Beyond Zork - The Coconut of Quendor (1987) (Infocom) (GOG).dosz">
+		<description>Beyond Zork - The Coconut of Quendor</description>
+		<comment_dosc>Auto run</comment_dosc>
+		<year>1987</year>
+		<developer>Infocom</developer>
+		<variant>GOG</variant>
+		<rom name="beyondzo.mg1" size="18966" crc="f094c017" md5="e4af432b9f2658b694865c8ed06c1ef0" sha1="ec938f335900c585d010a84a67524cbbd8b8a755"/>
+		<rom name="BZORK.EXE" size="33946" crc="1dc537af" md5="8d4962391e158abdb34688f46ffb26c9" sha1="c2ea83e899fc7eb1609ce622a0b559a910933823"/>
+		<rom name="Data/BEYONDZO.DAT" size="276480" crc="27d97873" md5="743c4a97b9c85d89d85d4f1e8e8bfe85" sha1="835145b092498eba5be24542a0a2aec8e3199557"/>
+		<rom name="FROTZ.EXE" size="79232" crc="9b8608bd" md5="6927ece724e1c910add0cef574f02823" sha1="a768d7c3cfb2705b005ba46f6ce5a657c9ec2dfe"/>
+	</game>
+	<game name="Beyond Zork - The Coconut of Quendor (1987) (Infocom) (Installation).dosz">
+		<description>Beyond Zork - The Coconut of Quendor</description>
+		<comment>Version 57, Serial 871221 1987 5G floppy disk</comment>
+		<year>1987</year>
+		<developer>Infocom</developer>
+		<variant>Installation</variant>
+		<rom name="disk1.img" size="368640" crc="b6fbab29" md5="a716c0f9f814b86bb1423f503c6c39dd" sha1="7bd3b82740163365d33e8d630f29d148b39e0ddc"/>
+	</game>
   	<game name="Caesar (1992) (Impressions Games) (Installation).dosz">
 		<description>Caesar</description>
 		<comment>SierraOriginals CD re-release from 1995</comment>
