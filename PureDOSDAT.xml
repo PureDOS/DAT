@@ -2808,8 +2808,8 @@
 	</game>
 	<game name="SimCity 2000 Special Edition (1994) (Maxis).dosz">
 		<description>SimCity 2000 Special Edition</description>
-		<comment>Installed from the USA v1.1 CD-ROM</comment>
-		<comment_dosc>Sound config and auto run</comment_dosc>
+		<comment>Installed from the USA v1.1 CD-ROM with default name and organization, full install, and Sound Blaster 16 music/SFX. WILLTV files were then extracted to C:\DATA with the WILLTV field in SC2000.CFG changed to reflect that</comment>
+                <comment_dosc>Auto run</comment_dosc>
 		<year>1994</year>
 		<developer>Maxis</developer>
 		<rom name="ATISET.EXE" size="5496" crc="17ec9bfc" md5="5a73da61b3eeed7d899217ddd2c902c3" sha1="9e14a690194ef20abef89a25605a25a16a36c7d9"/>
@@ -2889,6 +2889,16 @@
 		<rom name="CITIES/VIRTUALV.SC2" size="113537" crc="815b81b4" md5="d2b2dbd2ac44237354f26921bce86949" sha1="974025e693c782a108e40a0cde78ad87b79e91a2"/>
 		<rom name="CITIES/VOLCANO.SC2" size="67397" crc="f589bbf6" md5="92f1ab9517fb68ab42fe1550dc74c6be" sha1="f384788411bf0103fb85bde3ad152e26f200b511"/>
 		<rom name="CITIES/ZUTHERLA.SC2" size="77507" crc="f019b864" md5="2a5444238bf2b2f9c73a84655334571d" sha1="19737f9c3ce3751ad5d09e6888a077877cd544d5"/>
+		<rom name="DATA/INTROA.SMK" size="1626888" crc="3afa834d" md5="f6663007122689dad4a4310376887a6f" sha1="f89961012b8d793394eca9ce907a2b14082c25f0" date="1996-03-06 15:22:32"/>
+		<rom name="DATA/INTROB.SMK" size="4688440" crc="bc3d9ca0" md5="056ec9e6ddc06a7bea2537079777f8e1" sha1="e9230b230054e5eccf192fefc3da707bab188b02" date="1996-03-06 15:22:44"/>
+		<rom name="DATA/WILL1A.SMK" size="140456" crc="967935df" md5="9b06278b086a2aa65329eb9d02b0d2da" sha1="df98e5957a43dcd645569a0ba7ee49af99dd3bd3" date="1996-03-06 23:11:56"/>
+		<rom name="DATA/WILL1B.SMK" size="11566780" crc="a0dc00a2" md5="944ff0ce76da901c87a8c80d377ebfd6" sha1="76a14afd999714a2b866cc963f1da068875b2006" date="1996-03-06 04:15:20"/>
+		<rom name="DATA/WILL2A.SMK" size="141436" crc="527af07f" md5="d0b7122f8dc964d6a9ff11563214ff36" sha1="143ba9809688f4713595775a9a0e27e803cb9fc6" date="1996-03-06 23:12:34"/>
+		<rom name="DATA/WILL2B.SMK" size="12001112" crc="a1756b66" md5="e43ca7bf56c97932d034625dffbb7126" sha1="a5c691d9223d2f1540c8fa0ef2c89fe9256cff92" date="1996-03-06 04:16:06"/>
+		<rom name="DATA/WILL3A.SMK" size="138060" crc="86f246d3" md5="72b68ef04cec9fc09dc5b0b3e17bc544" sha1="10078224ea37fdf0dbf19dcaaaf628915bd68cec" date="1996-03-06 23:13:00"/>
+		<rom name="DATA/WILL3B.SMK" size="14833228" crc="92e1d3fa" md5="9280721cff637f53605a393771a3e052" sha1="76b84e1c4ba8f883cce9dedcabec2be02417ac90" date="1996-03-06 04:17:06"/>
+		<rom name="DATA/WILL4A.SMK" size="141876" crc="f4f3861d" md5="63ab1f1c42e9aac05ff5267e8ffb33b6" sha1="94fa7d0d6c1dcc6eab3819c38c4608e91687fc56" date="1996-03-06 23:11:18"/>
+		<rom name="DATA/WILL4B.SMK" size="4485036" crc="b725d573" md5="f3a2af1085bd527d5bd87fb89c1ec3f5" sha1="5d2bce2c2a557490582a9d3a10e6615339290920" date="1996-03-06 15:25:26"/>
 		<rom name="DOS4GW.EXE" size="254556" crc="95d35b4d" md5="498c3f0c7bc7a9206a7b1b049f0c3234" sha1="b6c2bed388c6ea1b3c02b941c9541500598f2de0"/>
 		<rom name="GM1.BNK" size="23907" crc="6cfff3f4" md5="3e504e9356643dcab5675417da2134d6" sha1="7661125d585b7e4dead1e8bbfcb707f4317d9283"/>
 		<rom name="GM2.BNK" size="24273" crc="8a5f778f" md5="ad44f792b94e736274eab433b10881bf" sha1="e03c1667745bb8c78209ff756880b15b3371aa79"/>
@@ -2903,6 +2913,7 @@
 		<rom name="README.TXT" size="46938" crc="574a056d" md5="1bf7df917c4ebee91b9788d52a0e859d" sha1="b82b3542c4840aa4c29bf1def2dd7ebeabac076d"/>
 		<rom name="RESOURCE.URK" size="466303" crc="4c1bc904" md5="0e56196ce9568df3ae52bd5e5835f1a9" sha1="14f062286711a013d99f7fc05a8caced9eeb568f"/>
 		<rom name="SC2000.BAT" size="343" crc="d90bba48" md5="7c4d77d4ce61a0c357fd363843f5642c" sha1="b64f1478766a0624f7a4f35b19bac9616cae4eac"/>
+		<rom name="SC2000.CFG" size="386" crc="c073c1a6" md5="9178c26775a7bd52a083cc9460a06e71" sha1="336ff3a4200ea6b31904f40174f444dcb87a92d1"/>
 		<rom name="SC2000.DAT" size="2629981" crc="db03f42e" md5="9fc5c79ad6d733809c307ca1655f2baa" sha1="6de1f567ee717012887c36cfc9706d966def8035"/>
 		<rom name="SC2K.EXE" size="1111536" crc="33e75ab3" md5="921112b0fa92228eb5c2231a5b92829b" sha1="cfee6101341e792d075c6b7ee41c728fe727dda7"/>
 		<rom name="SC2VESA.BAT" size="36" crc="f37e05fc" md5="201fedb4d116b08954b82c504b39f3af" sha1="232547773a1bb6783b28e223e882b8d08f05d9e7"/>
