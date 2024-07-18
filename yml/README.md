@@ -2,7 +2,7 @@
 DOS.YML files describe hardware and software configuration for the DOS emulator to make running a game correctly as seamless as possible.
 
 ## Format
-The format of the DOS.YML file is very simple, it is just pairs of `KEY: VALUE` separated by line breaks.
+The format of the DOS.YML file is very simple, it is just pairs of `KEY: VALUE` followed by a line break.
 Line breaks in DOS.YML files use the DOS format (CR + LF).
 
 The following settings are supported, the default value is the first one listed in __bold__:
@@ -26,8 +26,8 @@ The following settings are supported, the default value is the first one listed 
 | `sound_irq`     | The IRQ number of the sound card                 | __7__ / 5 / 3 / 9 / 10 / 11 / 12                            |
 | `sound_dma`     | The DMA number of the sound card                 | __1__ / 5 / 3 / 6 / 7                                       |
 | `sound_hdma`    | The High DMA number of the sound card            | __5__ / 6 / 7                                               |
-| `sound_mpu401`  | If a MPU401 MIDI Processing Unit is present      | __true__ / false                                            |
-| `sound_mt32`    | If a MT-32 MIDI synthesizer module is present    | __false__ / true (if set overrides `sound_mpu401`)          |
+| `sound_midi`    | If a MPU401 MIDI Processing Unit is present      | __true__ / false / path to a ZIP with a soundfont           |
+| `sound_mt32`    | If a MT-32 MIDI synthesizer module is present    | __false__ / true / path to a ZIP with a MT-32 ROM (if set overrides `sound_midi`) |
 | `sound_gus`     | If a Gravis UltraSound expansion card is present | __false__ / true                                            |
 | `sound_tandy`   | If a Tandy Sound Device is present               | __false__ / true (always on with video_card: generic_tandy) |
 | `run_path`      | Default program to launch                        | Full path, i.e. C:\PROGRAM.EXE                              |
@@ -53,3 +53,5 @@ Wait will do nothing for a given number of milliseconds. An emulator should fast
 the time will pass while in real time it should be as quick as possible. This can be used to skip loading times or wait for an input prompt.
 Delay by itself will not do anything but it sets how many milliseconds are waited after releasing a key until pressing the next key in the
 sequence. The default delay time is 70 milliseconds. Example `(WAIT:2000)(DELAY:15)i5j`
+
+List of keyboard key names: `1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`,`0`,`q`,`w`,`e`,`r`,`t`,`y`,`u`,`i`,`o`,`p`,`a`,`s`,`d`,`f`,`g`,`h`,`j`,`k`,`l`,`z`,`x`,`c`,`v`,`b`,`n`,`m`,`F1`,`F2`,`F3`,`F4`,`F5`,`F6`,`F7`,`F8`,`F9`,`F10`,`F11`,`F12`,`ESC`,`TAB`,`BACKSPACE`,`ENTER`,`SPACE`,`LEFTALT`,`RIGHTALT`,`LEFTCTRL`,`RIGHTCTRL`,`LEFTSHIFT`,`RIGHTSHIFT`,`CAPSLOCK`,`SCROLLLOCK`,`NUMLOCK`,`GRAVE`,`MINUS`,`EQUALS`,`BACKSLASH`,`LEFTBRACKET`,`RIGHTBRACKET`,`SEMICOLON`,`QUOTE`,`PERIOD`,`COMMA`,`SLASH`,`EXTRA_LT_GT`,`PRINTSCREEN`,`PAUSE`,`INSERT`,`HOME`,`PAGEUP`,`DELETE`,`END`,`PAGEDOWN`,`LEFT`,`UP`,`DOWN`,`RIGHT`,`KP1`,`KP2`,`KP3`,`KP4`,`KP5`,`KP6`,`KP7`,`KP8`,`KP9`,`KP0`,`KPDIVIDE`,`KPMULTIPLY`,`KPMINUS`,`KPPLUS`,`KPENTER`,`KPPERIOD`
