@@ -1812,7 +1812,7 @@
 		<rom name="WOODPAN2.PIK" size="19894" crc="6a78198f" md5="5defe22a6c08c56680becd5a907e6a77" sha1="af5f3baa707f19ee9ce428cf22db28fedb74e8e7" date="1994-09-01 16:35:38"/>
 		<rom name="WOODPANL.PIK" size="19257" crc="0ce5584b" md5="ecdf773249dd588285d07566b9c6784e" sha1="e9f6899a134e2c400051c1b439da3b245a818c61" date="1994-08-05 08:46:36"/>
 		<rom name="WOODTILE.SS" size="1102" crc="119235c3" md5="aec56ce013cd6da48a4c54ca957a6fe4" sha1="cadea39aa19f35639262eaa0a2fa863a087ff3cd" date="1994-06-07 09:59:08"/>
-  </game>
+  	</game>
 	<game name="Sid Meier's Railroad Tycoon (1990) (MPS Labs) (Installation).dosz">
 		<description>Sid Meier's Railroad Tycoon</description>
 		<comment>v455.03 1995 re-release CD</comment>
@@ -2034,6 +2034,26 @@
 		<rom name="SimCity Enhanced CD-ROM (Europe) (Rev 1).chd" size="505286784" crc="07df0e33" md5="5f6e216293898ba485572f0a7b106e29" sha1="137fa1aa71d85164ee5655e0593366a2a58672cc">
 			<track number="1" type="MODE1_RAW" frames="206360" pregap="0" duration="45:51:35" size="485358720" crc="5da0acf6" md5="14833d5ea16c5ff53fea7b84797c16b0" sha1="ee00caa3c2cbdea6a01d57a1b2eabe17c454083c" in_zeros="1" out_zeros="0"/>
 		</rom>
+	</game>
+	<game name="SimEarth (1990) (Maxis) (Installation).dosz">
+		<description>SimEarth - The Living Planet</description>
+		<comment>Two v1.05 3.5" floppy disks</comment>
+		<year>1990</year>
+		<developer>Maxis</developer>
+		<variant>Installation</variant>
+		<rom name="disk1.img" size="737280" crc="c7d6d1eb" md5="580c7f6bd63fcb9ed104f7aad632b194" sha1="54735ac00a1dc45347d6988e6da6c06cd4f0d2af"/>
+		<rom name="disk2.img" size="737280" crc="41a57486" md5="f7454636d1cbee4b38fbca981b4e0f4e" sha1="b8041bfdd085aeee7a7917c33545bdf92a920d41"/>
+	</game>
+	<game name="SimEarth (1990) (Maxis) (Installation, 5.25 Inch).dosz">
+		<description>SimEarth - The Living Planet</description>
+		<comment>Four v1.05 5.25" floppy disks</comment>
+		<year>1990</year>
+		<developer>Maxis</developer>
+		<variant>Installation, 5.25 Inch</variant>
+		<rom name="disk1.img" size="368640" crc="2c85da86" md5="3b6d9e37755b7cf3dd9b459cf7f15464" sha1="41b0aca1f8a60d644fc0a92d7f56c0d2701241d9"/>
+		<rom name="disk2.img" size="368640" crc="79f6ecd1" md5="f23bb08a6cb5af91fb553c83f8200a2a" sha1="8c9c407e618af3eb829fd4186c08899e16f754fd"/>
+		<rom name="disk3.img" size="368640" crc="9f3a566e" md5="e5f3a89727f502498604bcceffcb388e" sha1="4ea63651b989abc8acd532d55634c8d1bbabeed4"/>
+		<rom name="disk4.img" size="368640" crc="f841aec6" md5="b46a6c3a336a6279e52de68bad090c46" sha1="0f79efa3ea5f8f1ffff4379217a4dbb9d343b368"/>
 	</game>
 	<game name="Solitile (1989) (Everett Kaser) (Accessory Disk #2 + #3).dosz">
 		<description>Solitile</description>
