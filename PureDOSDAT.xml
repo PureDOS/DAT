@@ -1084,92 +1084,78 @@
 	</game>
 	<game name="Hexen II + Hammer of Thyrion (1997) (Raven Software).dosz">
 		<description>Hexen II + Hammer of Thyrion</description>
-		<comment>Hexen II v1.11 with Hammer of Thyrion v1.5.9</comment>
-		<comment_dosc>BAT file for running the game</comment_dosc>
+		<comment>Hexen II v1.11 with Hammer of Thyrion v1.5.9. Needs DOS.YML with mem_size: 65536</comment>
+		<comment_dosc>640x400 resolution, BAT file for running the game, and auto start</comment_dosc>
 		<year>1997</year>
 		<developer>Raven Software</developer>
-		<rom name="3DFX/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2018-05-31 23:01:00"/>
-		<rom name="3DFX/FXMESA/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2018-05-31 23:01:00"/>
-		<rom name="3DFX/FXMESA/GL.DXE" size="1529186" crc="54734d28" md5="e7797cf068f9cadbdbb2e5cfcfd8e816" sha1="8b3e8a7f77e5e4d683afd73cf07b1c9c2715789c" date="2016-08-07 16:55:50"/>
-		<rom name="3DFX/MESA/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2018-05-31 23:01:00"/>
-		<rom name="3DFX/MESA/GL.DXE" size="1785323" crc="5ec738c5" md5="8586475d249de4a7e7bab22d794f2cf1" sha1="cc4f46b31534a87fd3a226850945059c09f2e8df" date="2016-05-03 00:41:40"/>
-		<rom name="3DFX/OPENGL.TXT" size="621" crc="6e08a050" md5="4bda158c221a1e568283719fe00d48a9" sha1="2caada0c014fdd2213331f1b5f997de78d4542e7" date="2016-05-01 06:56:10"/>
-		<rom name="3DFX/SAGE/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2018-05-31 23:01:00"/>
-		<rom name="3DFX/SAGE/GL.DXE" size="341102" crc="e69ffaa5" md5="70e1604ec35018fb7510cda3f7a1dc01" sha1="8c2a96d9835ea5aedc4d767b5a3cb2155caa3d5d" date="2016-04-01 06:55:10"/>
-		<rom name="3DFX/SAGE/SAGE.INI" size="4283" crc="4c07e469" md5="ddbacff740f8dac66a1a364c2e5504ca" sha1="cba25dd3f15101c20370d8ba5bc28ff72dfb450c" date="2015-10-03 17:55:00"/>
-		<rom name="3DFX/VOODOO/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2018-05-31 23:01:00"/>
-		<rom name="3DFX/VOODOO/CVG/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2018-05-31 23:01:00"/>
-		<rom name="3DFX/VOODOO/CVG/GLIDE3X.DXE" size="180774" crc="7ff07054" md5="5893a3f3a8f09a3eb4f810217628b6d8" sha1="bd44709225391eae3e46dd0f778321f66b6e5aac" date="2016-03-11 06:11:00"/>
-		<rom name="3DFX/VOODOO/H3/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2018-05-31 23:01:00"/>
-		<rom name="3DFX/VOODOO/H3/GLIDE3X.DXE" size="137635" crc="b06382bb" md5="dc745aa9aa73a8da2e4566fa9952252d" sha1="497de29f47efd0255acafe51e8783c371b93e51d" date="2016-03-11 06:11:00"/>
-		<rom name="3DFX/VOODOO/H5/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2018-05-31 23:01:00"/>
-		<rom name="3DFX/VOODOO/H5/GLIDE3X.DXE" size="262374" crc="7e1a1b96" md5="d7d146fd6cbe5fbc1c275c5bafd0ee7e" sha1="f440648898d1cb2acd65672daab3211dec4d145e" date="2016-03-11 06:11:00"/>
-		<rom name="3DFX/VOODOO/SST1/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2018-05-31 23:01:00"/>
-		<rom name="3DFX/VOODOO/SST1/GLIDE3X.DXE" size="151700" crc="7288af73" md5="394236231b0e1840f474e07959218e39" sha1="4084c2ea61837da8204e8254570db80346ec46f4" date="2016-03-11 06:11:00"/>
-		<rom name="3DFX/VOODOO/SST96/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2018-05-31 23:01:00"/>
-		<rom name="3DFX/VOODOO/SST96/GLIDE3X.DXE" size="249311" crc="07f62d00" md5="6810f7d1fed992038420ff0872a45eee" sha1="5382b88bde631ad12b4f2a0b74014c0c849a874d" date="2016-03-11 06:11:00"/>
-		<rom name="3DFX/VOODOO/VOODOO.TXT" size="337" crc="c6bf4e95" md5="851f50d3172c9349db50861a8b2ae38f" sha1="ea9e1f61e2a48fb04a97d75ba83ae813387fe51e" date="2015-10-10 09:10:00"/>
-		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 22:06:10"/>
-		<rom name="DATA1/AUTOEXEC.CFG" size="2" crc="14a285ac" md5="81051bcc2cf1bedf378224b0a93e2877" sha1="ba8ab5a0280b953aa97435ff8946cbcbb2755a27" date="1997-09-03 09:44:38"/>
-		<rom name="DATA1/DEFAULT.CFG" size="1976" crc="e1691848" md5="2dd184a619a483faf4671973bc74b21a" sha1="bda1112e8075fc0604846b5a39dc33b2e2002dd8" date="2007-06-08 11:03:26"/>
-		<rom name="DATA1/DEMO1.DEM" size="246557" crc="7213a2a8" md5="d455a1508e90cd7dde7e8d96c99fd48f" sha1="9b54e7b7fa02c442590845204efd6a57407f0dba" date="2005-06-14 20:40:22"/>
-		<rom name="DATA1/DEMO2.DEM" size="126935" crc="37b64acd" md5="030442f17ad7382152b85cc54817fcd6" sha1="e85bb6f46a21dd372a92b28c89b8cedb208b1e1e" date="2005-06-14 20:40:22"/>
-		<rom name="DATA1/DEMO3.DEM" size="408500" crc="d5957163" md5="2ec2f7ed676db89d4cf621f8ee6aeb15" sha1="7c79a0afa409f9f1f77c9d5f567cbc02f9784fa7" date="2005-06-14 20:40:22"/>
-		<rom name="DATA1/HEXEN.RC" size="363" crc="198bdac1" md5="6f0b0627911cafcc8e9e4dd4285d5ffd" sha1="76f6c66b655bb99533c2fb04d6ef732ed72e44d8" date="2007-02-17 11:37:12"/>
-		<rom name="DATA1/MAPS/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2018-05-31 23:01:00"/>
-		<rom name="DATA1/MAPS/CATH.ENT" size="50333" crc="9ecb4ed9" md5="a06a75409cbb868037477ea94030ed9d" sha1="2c1754a2d2e20f322ff940824f29202cc01a0283" date="2011-06-19 18:21:06"/>
-		<rom name="DATA1/MAPS/CATH.TXT" size="789" crc="07d3eacb" md5="dfac5086677fdb6731aca8e485b37232" sha1="d8f0634c59262ea99c066dc2621f843440d8fe18" date="2011-06-19 18:21:06"/>
-		<rom name="DATA1/MAPS/DEMO2.ENT" size="55132" crc="55551472" md5="c1710b41874d36be57237f2a943281e9" sha1="e0585fb19b56f90ea4f4f9906bcf7ede6e1e2395" date="2011-05-04 09:11:36"/>
-		<rom name="DATA1/MAPS/DEMO2.TXT" size="584" crc="0b167a1d" md5="4e7987609ba043680b118e26fb120e5c" sha1="2e4fb9182d87ebd6da29a3abb2d31999964e09a3" date="2011-05-04 09:11:36"/>
-		<rom name="DATA1/MAPS/EGYPT4.ENT" size="41422" crc="7fa45ccf" md5="e4fb20b418fc61a79829ba813336fee2" sha1="b33e849bd6b13c4831d297c0d536b3bbfd24dbfd" date="2011-05-04 09:11:36"/>
-		<rom name="DATA1/MAPS/EGYPT4.TXT" size="410" crc="e959dd50" md5="b4f6758ecad1c072a6e39ec8122751de" sha1="dcbf2104d9c42ce3ad84c871d64fa631955747b4" date="2011-05-04 09:11:36"/>
-		<rom name="DATA1/MAPS/EGYPT5.ENT" size="48683" crc="deacbeb2" md5="9dc73fcdb2f6fc7cfd1c879e47409baa" sha1="7033d7a793f5c147acfbcb6908273436ccf2cd7f" date="2010-11-27 10:50:16"/>
-		<rom name="DATA1/MAPS/EGYPT5.TXT" size="669" crc="49c4065c" md5="1b24fa239623fac084863b77bef964c8" sha1="98679362518aa987870bd2e6ba056faea3869302" date="2010-12-30 10:55:34"/>
-		<rom name="DATA1/MAPS/README.TXT" size="501" crc="da38f2ed" md5="9a08a9127c2f1dc8b0dd30c36e2a362d" sha1="94269768b095e742bd11b53095babf2ad14a25f6" date="2011-05-22 19:25:38"/>
-		<rom name="DATA1/MAPS/ROMERIC5.ENT" size="40961" crc="1b81a146" md5="2ac58caf33c6334e4b9feaa2fce1a33e" sha1="6d3b6779a19b2c207ffaa4619b4d9ac6a79537fc" date="2010-12-29 19:50:52"/>
-		<rom name="DATA1/MAPS/ROMERIC5.TXT" size="1002" crc="e1071629" md5="a1a4b57344e78d67631b287a2a4a8edc" sha1="b8a5b50f013b38fc1b62db29dfee5edaea82b1fc" date="2010-12-30 10:55:34"/>
-		<rom name="DATA1/MAPS/TOWER.ENT" size="42963" crc="82628df0" md5="462c34ef88a46f8649d9007a1324e880" sha1="e0b69c0e7fc89009bf351af33d22c5b3c24bbad8" date="2011-05-20 23:27:52"/>
-		<rom name="DATA1/MAPS/TOWER.TXT" size="770" crc="25cbf16e" md5="74b73cc46bfbd5583e0af17474fad1f6" sha1="73af8567786dec783fcd16d994d7f1df247045ba" date="2011-05-20 23:27:52"/>
-		<rom name="DATA1/MUSIC/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2018-05-31 23:01:00"/>
-		<rom name="DATA1/OLDDEMO1.DEM" size="85122" crc="08e15fb8" md5="944d2440ee4a610ec74e27ff1d43c5f3" sha1="d81d2b6597cfe4c04cfffb158ef107047b099bc5" date="1997-09-03 09:44:38"/>
-		<rom name="DATA1/OLDDEMO2.DEM" size="152197" crc="25d1ac41" md5="671478a8a25722a1a8e5cf541b428387" sha1="9593e83db8d5fd259f6e75c938326ff1ba904327" date="1997-09-03 09:44:38"/>
-		<rom name="DATA1/OLDDEMO3.DEM" size="116529" crc="613d5edf" md5="09b1f2519720fbf9bd70f48f38b6bad9" sha1="4256875991609f9f149f4d846a48e5f614d828e7" date="1997-09-03 09:44:38"/>
-		<rom name="DATA1/PAK0.PAK" size="22704056" crc="9b25fc97" md5="c9675191e75dd25a3b9ed81ee7e05eff" sha1="7c6b19d76ce85771026ea8dbdc397cd1109355b7" date="1997-10-01 12:11:48"/>
-		<rom name="DATA1/PAK1.PAK" size="75601170" crc="65c5e6f4" md5="c2ac5b0640773eed9ebe1cda2eca2ad0" sha1="34c17f508bb6cd9ae4401307d0930a6f00761826" date="1997-10-01 12:13:12"/>
-		<rom name="DATA1/PROGS.DAT" size="886592" crc="c8777ae6" md5="8fcfd4760656d345f634051d58c3b8e5" sha1="d52ef3d648335c014c139c39f19bb1991e12dd95" date="2018-02-20 11:21:28"/>
-		<rom name="DATA1/PROGS2.DAT" size="837016" crc="e1b15d02" md5="197ae644e5f5ea8d4f515df9e1dab811" sha1="8c4a6bce1c97a63489637a312b7a840224d98005" date="2018-02-20 11:21:28"/>
-		<rom name="DATA1/STRINGS.TXT" size="16545" crc="f3d6ad60" md5="4a5c2c8806edebd5cc4dd1cffad4330c" sha1="33ada3957463e9ea3f492c25aa3925cc74e09b06" date="2011-05-19 09:56:16"/>
-		<rom name="DOCS/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2018-05-31 23:01:00"/>
-		<rom name="DOCS/ABOUT.TXT" size="776" crc="9a548e98" md5="12dfaa14908faa8946f764758280f701" sha1="324b715b73a4e211502c3409bab9af71b34ffdc6" date="2017-04-07 17:56:18"/>
-		<rom name="DOCS/AUTHORS.TXT" size="2504" crc="eb595897" md5="b283ce796671b194d4a1e26ff96a15db" sha1="235442e8462d6ad3e680be654980afb8aa16dcb0" date="2015-12-25 07:28:10"/>
-		<rom name="DOCS/BUGS.TXT" size="1710" crc="99448632" md5="c3c487f2cdfe80998f385224f66042c3" sha1="e62ca7b48dca5ae8165fff2c2ecbb619dd978382" date="2016-08-12 22:50:02"/>
-		<rom name="DOCS/CHANGES.OLD" size="274277" crc="1955096e" md5="dadec9f0133314210f7efb98939af082" sha1="d1852abad1b67227caf1e4462a3b847154e5fe30" date="2008-04-04 10:35:52"/>
-		<rom name="DOCS/CHANGES.TXT" size="322279" crc="9b0ad9e6" md5="c758ad4dcc40d046d3a63e0b6320e366" sha1="6c8c596b105100ba7cb93f009f986e33d427717a" date="2016-01-10 09:56:40"/>
-		<rom name="DOCS/COMPILE.TXT" size="12620" crc="2b44efe5" md5="591fc3da21fe9e1a2822b03dc357a1aa" sha1="9da6a9997d8396e3fcb618896641ddf63104d36d" date="2017-12-15 18:41:46"/>
-		<rom name="DOCS/COPYING.TXT" size="18431" crc="a6d3a2f5" md5="ffa10f40b98be2c2bc9608f56827ed23" sha1="dc8f2e570bf431427dbc3bab9d4d551b53a60208" date="2011-08-05 09:00:38"/>
-		<rom name="DOCS/FEATURES.TXT" size="3133" crc="3c1f78ff" md5="5f7d687cac4878270f194d8ab7c92de0" sha1="4ffb06da489842bf00fc8ce713e507aed768983c" date="2017-04-07 17:56:18"/>
-		<rom name="DOCS/HWCL.TXT" size="2847" crc="27a27e7a" md5="f420e4ae6ac89f468877160b18168b1e" sha1="36e0e631388cc85a69e2b1b847361b15c006b034" date="2012-04-10 09:11:00"/>
-		<rom name="DOCS/HWSV.TXT" size="5556" crc="5829a21e" md5="1471604239827614fbb7b330a638b62a" sha1="1ccf3c438e7e910d366c60ec670209647c1f8d02" date="2013-03-08 22:55:20"/>
-		<rom name="DOCS/MUSIC.TXT" size="6840" crc="4ef3d79a" md5="06d45743a8d820328c979f2f7167d97c" sha1="87d3f1c6988ad251bfcb8b7b858c67fb49dab1f0" date="2012-05-28 18:02:16"/>
-		<rom name="DOCS/README.DOS" size="5785" crc="08177c60" md5="05bb5cd191292e2312dc130d85c6595e" sha1="ba41cf0e462a9568512961affd86d571f866f42b" date="2017-04-07 17:56:18"/>
-		<rom name="DOCS/README.TXT" size="29416" crc="ebcbd82e" md5="e7a2f5a317e1ccada19635b7adb3eb04" sha1="10de50daeb3dd8742b010dd8552fa422f1b1bd7e" date="2017-04-07 17:56:18"/>
-		<rom name="DOCS/RELNOTES.OLD" size="37524" crc="dad02a75" md5="0d3728761e03e23bfa8d4d9f579334fd" sha1="834be4cd63b799f2d849cb1f3728dfa8ccc1450c" date="2008-04-04 10:35:52"/>
-		<rom name="DOCS/RELNOTES.TXT" size="32415" crc="077a1963" md5="2984edabf9d5b7fa2642945ad4fba242" sha1="c2bcd2272bda50a31df4aed7777cdba1a8810e57" date="2018-05-31 10:10:10"/>
-		<rom name="DOCS/SRCNOTES.TXT" size="6924" crc="c99a66bc" md5="eabe8d51088fdb4227c23064d76f0d03" sha1="e8732127eeb088c9233948c0ab45d0a85cd42622" date="2013-03-02 11:33:56"/>
-		<rom name="DOCS/TODO.TXT" size="1143" crc="c49cea38" md5="623f8445818129f52511f8d4f303e60c" sha1="61b6101631d410d98eb78dd4b61d01d405e7b0bf" date="2016-01-10 09:41:14"/>
-		<rom name="DPMI/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2018-05-31 23:01:00"/>
-		<rom name="DPMI/CWSDPMI.TXT" size="430" crc="ac235e2b" md5="487f08b3239604c1d77de43da02c5abb" sha1="3c237085526516517d0e1e3b5a678b92772b77be" date="2011-10-22 09:33:00"/>
-		<rom name="DPMI/R5/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2018-05-31 23:01:00"/>
-		<rom name="DPMI/R5/CSDPMI5B.ZIP" size="54642" crc="d3c1526b" md5="83f13c30d544c0c90f2e26b018e5c6e9" sha1="18390dd8402b423b0bc91be159ee7c72a4f73754" date="2008-08-19 01:49:08"/>
-		<rom name="DPMI/R5/CSDPMI5S.ZIP" size="88692" crc="977da517" md5="102872d2c1d4ae7a57e448468c421e7b" sha1="a725735462f7db43468626caa8de7060a0c56aae" date="2008-08-19 01:37:00"/>
-		<rom name="DPMI/R7/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2018-05-31 23:01:00"/>
-		<rom name="DPMI/R7/CSDPMI7B.ZIP" size="71339" crc="a224dc1c" md5="6e9c8a7c396454031abdf586fa55b70f" sha1="710c9161c5d0e30eceaa13ce93dc22ca1cdb07c5" date="2010-01-08 06:06:18"/>
-		<rom name="DPMI/R7/CSDPMI7S.ZIP" size="89872" crc="3e2bee3c" md5="ceb787a2267839868f234b39154ab1d3" sha1="168242aa8b7024638b427d0e002a835ea854a5a2" date="2010-01-08 06:06:32"/>
-		<rom name="GL.DXE" size="1529186" crc="54734d28" md5="e7797cf068f9cadbdbb2e5cfcfd8e816" sha1="8b3e8a7f77e5e4d683afd73cf07b1c9c2715789c" date="2016-08-07 16:55:50"/>
-		<rom name="GLH2DOS.EXE" size="922112" crc="24577370" md5="6332abd542b572a8d2a1fdc9ce859742" sha1="927a987b25a12a5aeffe5babb90aac62b3be329b" date="2018-05-31 21:37:50"/>
-		<rom name="H2DED.EXE" size="421376" crc="7ca80343" md5="bf0926633f08c5b5414f383adc020035" sha1="1793d71e2b56cf9515d102243264db73308d497c" date="2018-05-31 21:37:50"/>
-		<rom name="H2DOS.EXE" size="952832" crc="d049fb63" md5="1d68988033c8033515b62439f2c62eda" sha1="80d52d327a88640845bc17089183f35bc346b22b" date="2018-05-31 21:37:50"/>
-		<rom name="H2PATCH.EXE" size="94720" crc="5ef7cfc3" md5="6cb7b56520320b069beb5d5c050f550f" sha1="08bd7ce5fb5342f4fcef0757fa7e6006afb0f72e" date="2018-05-31 21:37:50"/>
+		<rom name="3DFX/FXMESA/GL.DXE" size="1529186" crc="54734d28" md5="e7797cf068f9cadbdbb2e5cfcfd8e816" sha1="8b3e8a7f77e5e4d683afd73cf07b1c9c2715789c"/>
+		<rom name="3DFX/MESA/GL.DXE" size="1785323" crc="5ec738c5" md5="8586475d249de4a7e7bab22d794f2cf1" sha1="cc4f46b31534a87fd3a226850945059c09f2e8df"/>
+		<rom name="3DFX/OPENGL.TXT" size="621" crc="6e08a050" md5="4bda158c221a1e568283719fe00d48a9" sha1="2caada0c014fdd2213331f1b5f997de78d4542e7"/>
+		<rom name="3DFX/SAGE/GL.DXE" size="341102" crc="e69ffaa5" md5="70e1604ec35018fb7510cda3f7a1dc01" sha1="8c2a96d9835ea5aedc4d767b5a3cb2155caa3d5d"/>
+		<rom name="3DFX/SAGE/SAGE.INI" size="4283" crc="4c07e469" md5="ddbacff740f8dac66a1a364c2e5504ca" sha1="cba25dd3f15101c20370d8ba5bc28ff72dfb450c"/>
+		<rom name="3DFX/VOODOO/CVG/GLIDE3X.DXE" size="180774" crc="7ff07054" md5="5893a3f3a8f09a3eb4f810217628b6d8" sha1="bd44709225391eae3e46dd0f778321f66b6e5aac"/>
+		<rom name="3DFX/VOODOO/H3/GLIDE3X.DXE" size="137635" crc="b06382bb" md5="dc745aa9aa73a8da2e4566fa9952252d" sha1="497de29f47efd0255acafe51e8783c371b93e51d"/>
+		<rom name="3DFX/VOODOO/H5/GLIDE3X.DXE" size="262374" crc="7e1a1b96" md5="d7d146fd6cbe5fbc1c275c5bafd0ee7e" sha1="f440648898d1cb2acd65672daab3211dec4d145e"/>
+		<rom name="3DFX/VOODOO/SST1/GLIDE3X.DXE" size="151700" crc="7288af73" md5="394236231b0e1840f474e07959218e39" sha1="4084c2ea61837da8204e8254570db80346ec46f4"/>
+		<rom name="3DFX/VOODOO/SST96/GLIDE3X.DXE" size="249311" crc="07f62d00" md5="6810f7d1fed992038420ff0872a45eee" sha1="5382b88bde631ad12b4f2a0b74014c0c849a874d"/>
+		<rom name="3DFX/VOODOO/VOODOO.TXT" size="337" crc="c6bf4e95" md5="851f50d3172c9349db50861a8b2ae38f" sha1="ea9e1f61e2a48fb04a97d75ba83ae813387fe51e"/>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc"/>
+		<rom name="DATA1/AUTOEXEC.CFG" size="2" crc="14a285ac" md5="81051bcc2cf1bedf378224b0a93e2877" sha1="ba8ab5a0280b953aa97435ff8946cbcbb2755a27"/>
+		<rom name="DATA1/DEFAULT.CFG" size="1976" crc="e1691848" md5="2dd184a619a483faf4671973bc74b21a" sha1="bda1112e8075fc0604846b5a39dc33b2e2002dd8"/>
+		<rom name="DATA1/DEMO1.DEM" size="246557" crc="7213a2a8" md5="d455a1508e90cd7dde7e8d96c99fd48f" sha1="9b54e7b7fa02c442590845204efd6a57407f0dba"/>
+		<rom name="DATA1/DEMO2.DEM" size="126935" crc="37b64acd" md5="030442f17ad7382152b85cc54817fcd6" sha1="e85bb6f46a21dd372a92b28c89b8cedb208b1e1e"/>
+		<rom name="DATA1/DEMO3.DEM" size="408500" crc="d5957163" md5="2ec2f7ed676db89d4cf621f8ee6aeb15" sha1="7c79a0afa409f9f1f77c9d5f567cbc02f9784fa7"/>
+		<rom name="DATA1/HEXEN.RC" size="363" crc="198bdac1" md5="6f0b0627911cafcc8e9e4dd4285d5ffd" sha1="76f6c66b655bb99533c2fb04d6ef732ed72e44d8"/>
+		<rom name="DATA1/MAPS/CATH.ENT" size="50333" crc="9ecb4ed9" md5="a06a75409cbb868037477ea94030ed9d" sha1="2c1754a2d2e20f322ff940824f29202cc01a0283"/>
+		<rom name="DATA1/MAPS/CATH.TXT" size="789" crc="07d3eacb" md5="dfac5086677fdb6731aca8e485b37232" sha1="d8f0634c59262ea99c066dc2621f843440d8fe18"/>
+		<rom name="DATA1/MAPS/DEMO2.ENT" size="55132" crc="55551472" md5="c1710b41874d36be57237f2a943281e9" sha1="e0585fb19b56f90ea4f4f9906bcf7ede6e1e2395"/>
+		<rom name="DATA1/MAPS/DEMO2.TXT" size="584" crc="0b167a1d" md5="4e7987609ba043680b118e26fb120e5c" sha1="2e4fb9182d87ebd6da29a3abb2d31999964e09a3"/>
+		<rom name="DATA1/MAPS/EGYPT4.ENT" size="41422" crc="7fa45ccf" md5="e4fb20b418fc61a79829ba813336fee2" sha1="b33e849bd6b13c4831d297c0d536b3bbfd24dbfd"/>
+		<rom name="DATA1/MAPS/EGYPT4.TXT" size="410" crc="e959dd50" md5="b4f6758ecad1c072a6e39ec8122751de" sha1="dcbf2104d9c42ce3ad84c871d64fa631955747b4"/>
+		<rom name="DATA1/MAPS/EGYPT5.ENT" size="48683" crc="deacbeb2" md5="9dc73fcdb2f6fc7cfd1c879e47409baa" sha1="7033d7a793f5c147acfbcb6908273436ccf2cd7f"/>
+		<rom name="DATA1/MAPS/EGYPT5.TXT" size="669" crc="49c4065c" md5="1b24fa239623fac084863b77bef964c8" sha1="98679362518aa987870bd2e6ba056faea3869302"/>
+		<rom name="DATA1/MAPS/README.TXT" size="501" crc="da38f2ed" md5="9a08a9127c2f1dc8b0dd30c36e2a362d" sha1="94269768b095e742bd11b53095babf2ad14a25f6"/>
+		<rom name="DATA1/MAPS/ROMERIC5.ENT" size="40961" crc="1b81a146" md5="2ac58caf33c6334e4b9feaa2fce1a33e" sha1="6d3b6779a19b2c207ffaa4619b4d9ac6a79537fc"/>
+		<rom name="DATA1/MAPS/ROMERIC5.TXT" size="1002" crc="e1071629" md5="a1a4b57344e78d67631b287a2a4a8edc" sha1="b8a5b50f013b38fc1b62db29dfee5edaea82b1fc"/>
+		<rom name="DATA1/MAPS/TOWER.ENT" size="42963" crc="82628df0" md5="462c34ef88a46f8649d9007a1324e880" sha1="e0b69c0e7fc89009bf351af33d22c5b3c24bbad8"/>
+		<rom name="DATA1/MAPS/TOWER.TXT" size="770" crc="25cbf16e" md5="74b73cc46bfbd5583e0af17474fad1f6" sha1="73af8567786dec783fcd16d994d7f1df247045ba"/>
+		<rom name="DATA1/MUSIC/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DATA1/OLDDEMO1.DEM" size="85122" crc="08e15fb8" md5="944d2440ee4a610ec74e27ff1d43c5f3" sha1="d81d2b6597cfe4c04cfffb158ef107047b099bc5"/>
+		<rom name="DATA1/OLDDEMO2.DEM" size="152197" crc="25d1ac41" md5="671478a8a25722a1a8e5cf541b428387" sha1="9593e83db8d5fd259f6e75c938326ff1ba904327"/>
+		<rom name="DATA1/OLDDEMO3.DEM" size="116529" crc="613d5edf" md5="09b1f2519720fbf9bd70f48f38b6bad9" sha1="4256875991609f9f149f4d846a48e5f614d828e7"/>
+		<rom name="DATA1/PAK0.PAK" size="22704056" crc="9b25fc97" md5="c9675191e75dd25a3b9ed81ee7e05eff" sha1="7c6b19d76ce85771026ea8dbdc397cd1109355b7"/>
+		<rom name="DATA1/PAK1.PAK" size="75601170" crc="65c5e6f4" md5="c2ac5b0640773eed9ebe1cda2eca2ad0" sha1="34c17f508bb6cd9ae4401307d0930a6f00761826"/>
+		<rom name="DATA1/PROGS.DAT" size="886592" crc="c8777ae6" md5="8fcfd4760656d345f634051d58c3b8e5" sha1="d52ef3d648335c014c139c39f19bb1991e12dd95"/>
+		<rom name="DATA1/PROGS2.DAT" size="837016" crc="e1b15d02" md5="197ae644e5f5ea8d4f515df9e1dab811" sha1="8c4a6bce1c97a63489637a312b7a840224d98005"/>
+		<rom name="DATA1/STRINGS.TXT" size="16545" crc="f3d6ad60" md5="4a5c2c8806edebd5cc4dd1cffad4330c" sha1="33ada3957463e9ea3f492c25aa3925cc74e09b06"/>
+		<rom name="DOCS/ABOUT.TXT" size="776" crc="9a548e98" md5="12dfaa14908faa8946f764758280f701" sha1="324b715b73a4e211502c3409bab9af71b34ffdc6"/>
+		<rom name="DOCS/AUTHORS.TXT" size="2504" crc="eb595897" md5="b283ce796671b194d4a1e26ff96a15db" sha1="235442e8462d6ad3e680be654980afb8aa16dcb0"/>
+		<rom name="DOCS/BUGS.TXT" size="1710" crc="99448632" md5="c3c487f2cdfe80998f385224f66042c3" sha1="e62ca7b48dca5ae8165fff2c2ecbb619dd978382"/>
+		<rom name="DOCS/CHANGES.OLD" size="274277" crc="1955096e" md5="dadec9f0133314210f7efb98939af082" sha1="d1852abad1b67227caf1e4462a3b847154e5fe30"/>
+		<rom name="DOCS/CHANGES.TXT" size="322279" crc="9b0ad9e6" md5="c758ad4dcc40d046d3a63e0b6320e366" sha1="6c8c596b105100ba7cb93f009f986e33d427717a"/>
+		<rom name="DOCS/COMPILE.TXT" size="12620" crc="2b44efe5" md5="591fc3da21fe9e1a2822b03dc357a1aa" sha1="9da6a9997d8396e3fcb618896641ddf63104d36d"/>
+		<rom name="DOCS/COPYING.TXT" size="18431" crc="a6d3a2f5" md5="ffa10f40b98be2c2bc9608f56827ed23" sha1="dc8f2e570bf431427dbc3bab9d4d551b53a60208"/>
+		<rom name="DOCS/FEATURES.TXT" size="3133" crc="3c1f78ff" md5="5f7d687cac4878270f194d8ab7c92de0" sha1="4ffb06da489842bf00fc8ce713e507aed768983c"/>
+		<rom name="DOCS/HWCL.TXT" size="2847" crc="27a27e7a" md5="f420e4ae6ac89f468877160b18168b1e" sha1="36e0e631388cc85a69e2b1b847361b15c006b034"/>
+		<rom name="DOCS/HWSV.TXT" size="5556" crc="5829a21e" md5="1471604239827614fbb7b330a638b62a" sha1="1ccf3c438e7e910d366c60ec670209647c1f8d02"/>
+		<rom name="DOCS/MUSIC.TXT" size="6840" crc="4ef3d79a" md5="06d45743a8d820328c979f2f7167d97c" sha1="87d3f1c6988ad251bfcb8b7b858c67fb49dab1f0"/>
+		<rom name="DOCS/README.DOS" size="5785" crc="08177c60" md5="05bb5cd191292e2312dc130d85c6595e" sha1="ba41cf0e462a9568512961affd86d571f866f42b"/>
+		<rom name="DOCS/README.TXT" size="29416" crc="ebcbd82e" md5="e7a2f5a317e1ccada19635b7adb3eb04" sha1="10de50daeb3dd8742b010dd8552fa422f1b1bd7e"/>
+		<rom name="DOCS/RELNOTES.OLD" size="37524" crc="dad02a75" md5="0d3728761e03e23bfa8d4d9f579334fd" sha1="834be4cd63b799f2d849cb1f3728dfa8ccc1450c"/>
+		<rom name="DOCS/RELNOTES.TXT" size="32415" crc="077a1963" md5="2984edabf9d5b7fa2642945ad4fba242" sha1="c2bcd2272bda50a31df4aed7777cdba1a8810e57"/>
+		<rom name="DOCS/SRCNOTES.TXT" size="6924" crc="c99a66bc" md5="eabe8d51088fdb4227c23064d76f0d03" sha1="e8732127eeb088c9233948c0ab45d0a85cd42622"/>
+		<rom name="DOCS/TODO.TXT" size="1143" crc="c49cea38" md5="623f8445818129f52511f8d4f303e60c" sha1="61b6101631d410d98eb78dd4b61d01d405e7b0bf"/>
+		<rom name="DOS.YML" size="17" crc="9e2ade80" md5="5e4e9514ccbed110c66ed799f2b0c449" sha1="7ff552bf9a73a8ba6fe5089d140c63e3d6be659c"/>
+		<rom name="DPMI/CWSDPMI.TXT" size="430" crc="ac235e2b" md5="487f08b3239604c1d77de43da02c5abb" sha1="3c237085526516517d0e1e3b5a678b92772b77be"/>
+		<rom name="DPMI/R5/CSDPMI5B.ZIP" size="54642" crc="d3c1526b" md5="83f13c30d544c0c90f2e26b018e5c6e9" sha1="18390dd8402b423b0bc91be159ee7c72a4f73754"/>
+		<rom name="DPMI/R5/CSDPMI5S.ZIP" size="88692" crc="977da517" md5="102872d2c1d4ae7a57e448468c421e7b" sha1="a725735462f7db43468626caa8de7060a0c56aae"/>
+		<rom name="DPMI/R7/CSDPMI7B.ZIP" size="71339" crc="a224dc1c" md5="6e9c8a7c396454031abdf586fa55b70f" sha1="710c9161c5d0e30eceaa13ce93dc22ca1cdb07c5"/>
+		<rom name="DPMI/R7/CSDPMI7S.ZIP" size="89872" crc="3e2bee3c" md5="ceb787a2267839868f234b39154ab1d3" sha1="168242aa8b7024638b427d0e002a835ea854a5a2"/>
+		<rom name="GL.DXE" size="1529186" crc="54734d28" md5="e7797cf068f9cadbdbb2e5cfcfd8e816" sha1="8b3e8a7f77e5e4d683afd73cf07b1c9c2715789c"/>
+		<rom name="GLH2DOS.EXE" size="922112" crc="24577370" md5="6332abd542b572a8d2a1fdc9ce859742" sha1="927a987b25a12a5aeffe5babb90aac62b3be329b"/>
+		<rom name="H2DED.EXE" size="421376" crc="7ca80343" md5="bf0926633f08c5b5414f383adc020035" sha1="1793d71e2b56cf9515d102243264db73308d497c"/>
+		<rom name="H2DOS.EXE" size="952832" crc="d049fb63" md5="1d68988033c8033515b62439f2c62eda" sha1="80d52d327a88640845bc17089183f35bc346b22b"/>
+		<rom name="H2PATCH.EXE" size="94720" crc="5ef7cfc3" md5="6cb7b56520320b069beb5d5c050f550f" sha1="08bd7ce5fb5342f4fcef0757fa7e6006afb0f72e"/>
 		<rom name="Hexen II (USA) (v1.11).chd" size="745367040" crc="41f81faf" md5="2f5f3c2d0c85d5ca0a4b208761b7802b" sha1="5d3f1751d32d8c5427f2fdaf3620db791fdcfaff">
 			<track number="1" type="MODE1_RAW" frames="79827" pregap="0" duration="17:44:27" size="187753104" crc="80ec6e86" md5="be40b4ba95d63bf8985789c34b149bae" sha1="942d1f02baf7946984acff16342f5bc95ed983b8" in_zeros="1" out_zeros="0"/>
 			<track number="2" type="AUDIO" frames="14089" pregap="75" duration="03:07:64" size="33137328" crc="d5eb5949" md5="7d5d17151f6993f82d1059a06afc1e85" sha1="230d92420bd50441d827110d1846455579d3ef2e" in_zeros="180568" out_zeros="1"/>
@@ -1189,33 +1175,30 @@
 			<track number="16" type="AUDIO" frames="13326" pregap="0" duration="02:57:51" size="31342752" crc="1d8458ee" md5="a9e85fb7c912a04d56b9509914cdf649" sha1="bdbe294b1748775ad797b412571c79cb92bbc253" in_zeros="0" out_zeros="1"/>
 			<track number="17" type="AUDIO" frames="13804" pregap="0" duration="03:04:04" size="32467008" crc="bff37132" md5="43d5eb424cca94daa6ea7ceacc2d6523" sha1="e627504f4750dbe94341e909b7040ce1c5fa3261" in_zeros="0" out_zeros="3"/>
 		</rom>
-		<rom name="LICENSE.TXT" size="18431" crc="a6d3a2f5" md5="ffa10f40b98be2c2bc9608f56827ed23" sha1="dc8f2e570bf431427dbc3bab9d4d551b53a60208" date="2011-08-05 09:00:38"/>
-		<rom name="PATCHDAT.TXT" size="796" crc="89f65f3c" md5="400166cfa0e816f875eb891b8771ceeb" sha1="6bf11ecded0d3659f22d81bd2092390dabb9730f" date="2015-06-17 14:11:00"/>
-		<rom name="PATCHDAT/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2018-05-31 23:01:00"/>
-		<rom name="PATCHDAT/DATA1/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2018-05-31 23:01:00"/>
-		<rom name="PATCHDAT/DATA1/DATA1PK0.XD3" size="1712606" crc="80bc90a4" md5="651875f3aae22893050846f9b1cb4449" sha1="d14ee80d5c0224230888bd27f697ad59a78a441b" date="2011-05-23 21:35:40"/>
-		<rom name="PATCHDAT/DATA1/DATA1PK1.XD3" size="1422024" crc="85b19747" md5="3b7f2bb3ae64ac1cfa8ad7e3084efc8b" sha1="e9cc009c8ac2b9795e7fcd3f60f794470e0c7f56" date="2011-05-23 21:35:40"/>
-		<rom name="PORTALS/DEFAULT.CFG" size="1769" crc="6cfe39b7" md5="acdfd0a968043d71137f0ece2cfd4cf7" sha1="4b76b3dde5a8b0baeb1551441bddf88489ccd0ea" date="2007-06-08 11:03:26"/>
-		<rom name="PORTALS/HEXEN.RC" size="363" crc="198bdac1" md5="6f0b0627911cafcc8e9e4dd4285d5ffd" sha1="76f6c66b655bb99533c2fb04d6ef732ed72e44d8" date="2007-02-17 11:37:12"/>
-		<rom name="PORTALS/INFOLIST.TXT" size="3071" crc="26cebdf9" md5="5ebdca473f47729144f088c2ee5e22bb" sha1="e71efba23cca611cfe8436dc7c411d833c48c75a" date="2004-11-29 12:41:32"/>
-		<rom name="PORTALS/MAPLIST.TXT" size="3" crc="8e51abd1" md5="21438ef4b9ad4fc266b6129a2f60de29" sha1="5eb8e2242eeb4f5432beeec8b873f1ab0a6b71fd" date="2006-04-05 08:12:44"/>
-		<rom name="PORTALS/MAPS/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2018-05-31 23:01:00"/>
-		<rom name="PORTALS/MAPS/README.TXT" size="327" crc="4ca9cc01" md5="a919c93e2da72aadaadc93e718333f30" sha1="d7cadeee0da8af1cef14e9a3d58af1fb5fa0006a" date="2011-05-22 19:25:38"/>
-		<rom name="PORTALS/MAPS/TIBET2.ENT" size="47605" crc="9154959b" md5="40c658bafdf575be4ff0aeb4c93dc746" sha1="3674d953fd78e7c0d3a1142babea24bec68f696c" date="2011-01-04 21:25:48"/>
-		<rom name="PORTALS/MAPS/TIBET2.TXT" size="1135" crc="1aa7820c" md5="8b0b36f51cf36e6cc2df3b31f9e79e02" sha1="df2e6703c0af64f031768c1c74cf3a2d1de345a2" date="2011-01-04 21:25:48"/>
-		<rom name="PORTALS/MAPS/TIBET9.ENT" size="35800" crc="1fc240f5" md5="2c0701bc2a3fa5d5d487abb584deb424" sha1="ddfbe731c1dcabba72bf906cb8e97c5af55276c1" date="2011-01-05 00:20:30"/>
-		<rom name="PORTALS/MAPS/TIBET9.TXT" size="555" crc="41e0add2" md5="7a6577317afacbf86f0ac02ed4f87d38" sha1="dc056682c737899ed308271f18ee3471fbccaecf" date="2011-01-05 00:20:30"/>
-		<rom name="PORTALS/MUSIC/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2018-05-31 23:01:00"/>
-		<rom name="PORTALS/PROGS.DAT" size="1144652" crc="f8c42f17" md5="43c13d1c9f7fc211172f5ccdbcaf5a93" sha1="3bbab079a43b5a9147cda0527257a79679c69d3f" date="2018-02-20 11:21:28"/>
-		<rom name="PORTALS/PUZZLES.TXT" size="1712" crc="8b508d2a" md5="df7c95d83638c187e703cf9c3644339a" sha1="2cc04569fb4133194a14ae56b50392b4684ee419" date="2004-11-29 12:41:32"/>
-		<rom name="PORTALS/STRINGS.TXT" size="23378" crc="f548b7c2" md5="2d312e6e828f97dbba2738e21d5c426b" sha1="d981cb24d95cf1c654cc09029e9b1df92e20411e" date="2011-05-19 09:56:16"/>
-		<rom name="README.TXT" size="5785" crc="08177c60" md5="05bb5cd191292e2312dc130d85c6595e" sha1="ba41cf0e462a9568512961affd86d571f866f42b" date="2017-04-07 17:56:18"/>
-		<rom name="SNDPCI.DXE" size="42556" crc="81d4924f" md5="50515c7ce77d59ca6f4cea646eb0223c" sha1="8b674bd96f0246a1d091baa46746ece585259739" date="2016-07-27 22:00:50"/>
+		<rom name="LICENSE.TXT" size="18431" crc="a6d3a2f5" md5="ffa10f40b98be2c2bc9608f56827ed23" sha1="dc8f2e570bf431427dbc3bab9d4d551b53a60208"/>
+		<rom name="PATCHDAT.TXT" size="796" crc="89f65f3c" md5="400166cfa0e816f875eb891b8771ceeb" sha1="6bf11ecded0d3659f22d81bd2092390dabb9730f"/>
+		<rom name="PATCHDAT/DATA1/DATA1PK0.XD3" size="1712606" crc="80bc90a4" md5="651875f3aae22893050846f9b1cb4449" sha1="d14ee80d5c0224230888bd27f697ad59a78a441b"/>
+		<rom name="PATCHDAT/DATA1/DATA1PK1.XD3" size="1422024" crc="85b19747" md5="3b7f2bb3ae64ac1cfa8ad7e3084efc8b" sha1="e9cc009c8ac2b9795e7fcd3f60f794470e0c7f56"/>
+		<rom name="PORTALS/DEFAULT.CFG" size="1769" crc="6cfe39b7" md5="acdfd0a968043d71137f0ece2cfd4cf7" sha1="4b76b3dde5a8b0baeb1551441bddf88489ccd0ea"/>
+		<rom name="PORTALS/HEXEN.RC" size="363" crc="198bdac1" md5="6f0b0627911cafcc8e9e4dd4285d5ffd" sha1="76f6c66b655bb99533c2fb04d6ef732ed72e44d8"/>
+		<rom name="PORTALS/INFOLIST.TXT" size="3071" crc="26cebdf9" md5="5ebdca473f47729144f088c2ee5e22bb" sha1="e71efba23cca611cfe8436dc7c411d833c48c75a"/>
+		<rom name="PORTALS/MAPLIST.TXT" size="3" crc="8e51abd1" md5="21438ef4b9ad4fc266b6129a2f60de29" sha1="5eb8e2242eeb4f5432beeec8b873f1ab0a6b71fd"/>
+		<rom name="PORTALS/MAPS/README.TXT" size="327" crc="4ca9cc01" md5="a919c93e2da72aadaadc93e718333f30" sha1="d7cadeee0da8af1cef14e9a3d58af1fb5fa0006a"/>
+		<rom name="PORTALS/MAPS/TIBET2.ENT" size="47605" crc="9154959b" md5="40c658bafdf575be4ff0aeb4c93dc746" sha1="3674d953fd78e7c0d3a1142babea24bec68f696c"/>
+		<rom name="PORTALS/MAPS/TIBET2.TXT" size="1135" crc="1aa7820c" md5="8b0b36f51cf36e6cc2df3b31f9e79e02" sha1="df2e6703c0af64f031768c1c74cf3a2d1de345a2"/>
+		<rom name="PORTALS/MAPS/TIBET9.ENT" size="35800" crc="1fc240f5" md5="2c0701bc2a3fa5d5d487abb584deb424" sha1="ddfbe731c1dcabba72bf906cb8e97c5af55276c1"/>
+		<rom name="PORTALS/MAPS/TIBET9.TXT" size="555" crc="41e0add2" md5="7a6577317afacbf86f0ac02ed4f87d38" sha1="dc056682c737899ed308271f18ee3471fbccaecf"/>
+		<rom name="PORTALS/MUSIC/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="PORTALS/PROGS.DAT" size="1144652" crc="f8c42f17" md5="43c13d1c9f7fc211172f5ccdbcaf5a93" sha1="3bbab079a43b5a9147cda0527257a79679c69d3f"/>
+		<rom name="PORTALS/PUZZLES.TXT" size="1712" crc="8b508d2a" md5="df7c95d83638c187e703cf9c3644339a" sha1="2cc04569fb4133194a14ae56b50392b4684ee419"/>
+		<rom name="PORTALS/STRINGS.TXT" size="23378" crc="f548b7c2" md5="2d312e6e828f97dbba2738e21d5c426b" sha1="d981cb24d95cf1c654cc09029e9b1df92e20411e"/>
+		<rom name="README.TXT" size="5785" crc="08177c60" md5="05bb5cd191292e2312dc130d85c6595e" sha1="ba41cf0e462a9568512961affd86d571f866f42b"/>
+		<rom name="SNDPCI.DXE" size="42556" crc="81d4924f" md5="50515c7ce77d59ca6f4cea646eb0223c" sha1="8b674bd96f0246a1d091baa46746ece585259739"/>
 	</game>
 	<game name="Hexen II Mission Pack - Portal of Praevus + Hammer of Thyrion (1998) (Raven Software).dosz">
 		<description>Hexen II Mission Pack - Portal of Praevus + Hammer of Thyrion</description>
 		<comment>Portal of Praevus v1.12 with Hammer of Thyrion v1.5.9</comment>
-		<comment_dosc>BAT file for running the game</comment_dosc>
+		<comment_dosc>BAT file for running the game and auto start</comment_dosc>
 		<year>1998</year>
 		<developer>Raven Software</developer>
 		<parent>Hexen II + Hammer of Thyrion (1997) (Raven Software).dosz</parent>
