@@ -327,6 +327,115 @@
 		<rom name="SFX/ZAP3.WAV" size="9448" crc="c58c799a" md5="33c38a9e024e33721e5c42b0fcc18eba" sha1="b83706f5e97e4416278a9564a319362c2c5a504f" date="1995-08-26 05:30:20"/>
 		<rom name="TEST.RAW" size="40320" crc="0d2d49b8" md5="7cc517930c314be6ca818395934e9850" sha1="13b15b9f8a0b7d98176f9437aca149301c576458" date="1995-08-15 19:57:50"/>
  	</game>
+	<game name="Alone in the Dark (Infogrames) (1992).dosz">
+		<description>Alone in the Dark</description>
+    <year>1992</year>
+		<developer>Infogrames</developer>
+    <comment>Installed from the 1996 Alone in the Dark trilogy release on Redump.</comment>
+    <comment_dosc>DOSC includes sound and language options for Alone in the Dark and Jack in the Dark.</comment_dosc>
+		<rom name="Alone in the Dark (1992).chd" size="362636928" crc="64e3f363" md5="1ba4754605ae53419d3c47dcd791a935" sha1="0a29af00ef04c422cc37eb6e28e930359c9e6809">
+			<track number="1" type="MODE1_RAW" frames="24605" pregap="0" duration="05:28:05" size="57870960" crc="504955c2" md5="0bce68808946eff250d1a5291793f57a" sha1="590904a2d0c6bc96b1d593c6cf2b57e76814dd98" in_zeros="1" out_zeros="0"/>
+			<track number="2" type="AUDIO" frames="6139" pregap="150" duration="01:21:64" size="14438928" crc="14cd623c" md5="87fe356e225c19e2d02f77b8fb421da1" sha1="1d46512181c17ac4a8face713c25bfe478e20b74" in_zeros="360592" out_zeros="351095"/>
+			<track number="3" type="AUDIO" frames="5753" pregap="0" duration="01:16:53" size="13531056" crc="4bf7cbf6" md5="1a8c9b0dc2e3d364199fe5e117a50dd9" sha1="56c0e55d2b20384c8e2a8ef44dbc07c0c36eb2d1" in_zeros="7552" out_zeros="350743"/>
+			<track number="4" type="AUDIO" frames="9573" pregap="0" duration="02:07:48" size="22515696" crc="f575dcd0" md5="cafae63daad8abc8d3b85e8dc2dde5ef" sha1="b00a65b4d08847e431437ba4b97eab34d2ea9525" in_zeros="7580" out_zeros="350785"/>
+			<track number="5" type="AUDIO" frames="7806" pregap="0" duration="01:44:06" size="18359712" crc="7f5d72a1" md5="ec400f570ec785b078960e19d0ae1cd2" sha1="78cd47a9b300d5bdf1a70fd64c22d19f371e71e6" in_zeros="7580" out_zeros="351731"/>
+			<track number="6" type="AUDIO" frames="17376" pregap="0" duration="03:51:51" size="40868352" crc="a27f5a32" md5="49e87ec66286e8c943d762c78f8da73e" sha1="9cb9b3022004c057ab8ac62310249f798b87049f" in_zeros="7584" out_zeros="350809"/>
+			<track number="7" type="AUDIO" frames="9185" pregap="0" duration="02:02:35" size="21603120" crc="d1688386" md5="dc86eb75466ae1afc7e36770ad8aaf3a" sha1="03da99888c08717016e1f24fd7486d0c2e6ced09" in_zeros="7556" out_zeros="350615"/>
+			<track number="8" type="AUDIO" frames="2518" pregap="0" duration="00:33:43" size="5922336" crc="e4831022" md5="da6d99a5afd90b51e2074e49fe0a4980" sha1="e1fad79bb78ba9f6f3041edfe613e1bc45694837" in_zeros="7604" out_zeros="350818"/>
+			<track number="9" type="AUDIO" frames="6701" pregap="0" duration="01:29:26" size="15760752" crc="4b167741" md5="8bf0fcb78c83fd47df4fea5d88d9d163" sha1="0c83104c11385b0fb5c9e34b96cb370bd9097460" in_zeros="7576" out_zeros="352208"/>
+			<track number="10" type="AUDIO" frames="6216" pregap="0" duration="01:22:66" size="14620032" crc="0225ee00" md5="07491b86ac5a08786d0102a4cdbb828f" sha1="e2a7e7499b5bb2d07b66a88bb14ce135a5a0e68b" in_zeros="7560" out_zeros="350178"/>
+			<track number="11" type="AUDIO" frames="14992" pregap="0" duration="03:19:67" size="35261184" crc="d02ebba2" md5="1b0450187a4fbb459390cd36421eac3b" sha1="a01b151cba57c77154e1b36b7cb2e7bfafde82ae" in_zeros="7580" out_zeros="350390"/>
+			<track number="12" type="AUDIO" frames="1842" pregap="0" duration="00:24:42" size="4332384" crc="4fdd2750" md5="304f4357abcf6307b9d008c12012ec75" sha1="001ad9692b08db641e7438687cbf464da21eb799" in_zeros="7552" out_zeros="350666"/>
+			<track number="13" type="AUDIO" frames="797" pregap="0" duration="00:10:47" size="1874544" crc="36ea5bac" md5="431e1fdeac7e7780ad6d9b9e3e05cff8" sha1="2c74e34c70f0565fdb89ea2c6f0f7ffc5ec9650c" in_zeros="7552" out_zeros="350426"/>
+			<track number="14" type="AUDIO" frames="638" pregap="0" duration="00:08:38" size="1500576" crc="47be543e" md5="591280a8897a46fd7ea712cafb377e5f" sha1="33be1a63c4fb540fe48c5e8495962fb7811c5645" in_zeros="7552" out_zeros="352267"/>
+			<track number="15" type="AUDIO" frames="12858" pregap="0" duration="02:51:33" size="30242016" crc="23a47512" md5="9e88c2baa829a22796fe52e77ff21017" sha1="0ca197cef41057d5926a726e1b9cdb14b602e32e" in_zeros="7580" out_zeros="350568"/>
+			<track number="16" type="AUDIO" frames="7404" pregap="0" duration="01:38:54" size="17414208" crc="d3825e14" md5="16f0dc5fff184609ceb9154fa29a27c4" sha1="ce44fa0c9266b91640566d10cb91c97b98075fe0" in_zeros="7600" out_zeros="350469"/>
+			<track number="17" type="AUDIO" frames="16137" pregap="0" duration="03:35:12" size="37954224" crc="bf890322" md5="42ce8ec1a946c8f0133f2c8559cd5e6a" sha1="55fb37516365babf207a03a0dcdef045e2920a40" in_zeros="7580" out_zeros="352001"/>
+		</rom>
+		<rom name="I-MOTION/INDARK/ADLIBM.COM" size="3534" crc="9523a572" md5="990132a0d6fc0404aeff05816c1dea07" sha1="04010db378f266c17f1fff0e675d8ccbd2bd8596"/>
+		<rom name="I-MOTION/INDARK/CAMERA00.PAK" size="143007" crc="57b0ccb7" md5="97c310b058ec23fa111a109d7f07dad0" sha1="4cda14c0cd536abaaa217851d24ddf51183ea596"/>
+		<rom name="I-MOTION/INDARK/CAMERA01.PAK" size="209442" crc="91aff534" md5="1994b933be38afd608dad9df75df7b63" sha1="4a6c530cb2c0ba2585177ea95e4dbd08e937009f"/>
+		<rom name="I-MOTION/INDARK/CAMERA02.PAK" size="606722" crc="69a149c0" md5="e387f8f0f7fa0b0e2966fb8615d871c6" sha1="564a41bdcd5834c9ddd08f72e1da6274254ffc89"/>
+		<rom name="I-MOTION/INDARK/CAMERA03.PAK" size="519297" crc="3d38027f" md5="230b68eede2ce3a85f8ced31adba7736" sha1="8bbc2a93b3e09a5dc8944ee7f32a7f88b92a1aef"/>
+		<rom name="I-MOTION/INDARK/CAMERA04.PAK" size="112840" crc="806ea160" md5="78ea3b253e4712dd2d476c1b7d1a267b" sha1="9e55e405f668b07567c24dd07d0b4b2e6873561a"/>
+		<rom name="I-MOTION/INDARK/CAMERA05.PAK" size="840998" crc="5eaa6506" md5="ebf009d1bba82b1d06728c2ca7dff315" sha1="1f72deb4a6cd011ecd2bca3226597fa97343d3b7"/>
+		<rom name="I-MOTION/INDARK/CAMERA06.PAK" size="390359" crc="e5e31d35" md5="7654ac8e842690cc3b72bcce038463cb" sha1="04649b60a3ecc162e976c621e4529a0bdd052c45"/>
+		<rom name="I-MOTION/INDARK/CAMERA07.PAK" size="167091" crc="50f8d03f" md5="4193f1ebaf0391043da99de8d50c82e9" sha1="a4d6204be0e01883b726a1d629f8df99df3c0831"/>
+		<rom name="I-MOTION/INDARK/CLEARDRV.EXE" size="8426" crc="9cc76e37" md5="96b87617284f455c5cc5c67e572f6d5f" sha1="3690fe106a6383046f33012ee73dd983fc1eab19"/>
+		<rom name="I-MOTION/INDARK/DEFINES.ITD" size="90" crc="40c288c5" md5="883858fac6e300da9b23e5a6db8ca1eb" sha1="c1999b2ac9675eca83001f266fd6686a73397637"/>
+		<rom name="I-MOTION/INDARK/DEUTSCH.PAK" size="28085" crc="423765f8" md5="6cb6612215a895e0e34c4f679d725de2" sha1="26a524d06e7f00e0d4d7e78e6a70582e7ba06d30"/>
+		<rom name="I-MOTION/INDARK/DRV_BZ.COM" size="761" crc="fbbc80a7" md5="21a16614c2b6d8c0eefecb3d1f36e325" sha1="c378cf8653a820f8b078befceff2e3a1e6052687"/>
+		<rom name="I-MOTION/INDARK/DRV_SB.COM" size="1571" crc="f26bbe07" md5="fe2562c29e5a2e952ac1483822bedb74" sha1="a963c411519627ff3f0741748ca75f1d505c0184"/>
+		<rom name="I-MOTION/INDARK/DRV_SBD.COM" size="932" crc="1cc6fa59" md5="8e714d7ddc2c73bb3ce71108eb99e834" sha1="f6ac092139e3caa9d89580626f15dc1b877210f7"/>
+		<rom name="I-MOTION/INDARK/DRV_SS.COM" size="913" crc="75315862" md5="cf06ec327f5c9aa20ace8c9a2f29b9a6" sha1="b22eb538b96ea7d8cd78613e03b8023d695ab828"/>
+		<rom name="I-MOTION/INDARK/ENDSEQ.PAK" size="43847" crc="b049751f" md5="5f43f1a81d0b32711ff5cd11553cb42e" sha1="3c11a9fe875b7c17736b88b003f2577e5d85c272"/>
+		<rom name="I-MOTION/INDARK/ENGLISH.PAK" size="28211" crc="c06b31a0" md5="8894ab24ca998b4e4c78637b2d3f060c" sha1="1c5a7e8d5597fb6fe41355f1cf0a2f743bdcfb68"/>
+		<rom name="I-MOTION/INDARK/ESPAGNOL.PAK" size="28247" crc="d1320835" md5="faf036325fe42f6b8419ba3b8ed3c000" sha1="39a57c2cc36f086b041343178c9abf1b913a7995"/>
+		<rom name="I-MOTION/INDARK/ETAGE00.PAK" size="2652" crc="79c4ec36" md5="f7c614c5f32082429e0e06baa474d80a" sha1="864f00524d8accd821461505eac9a6775f148b9a"/>
+		<rom name="I-MOTION/INDARK/ETAGE01.PAK" size="6478" crc="cb37d5c8" md5="12c87e705ed5f54a4e815e6dbc65d98c" sha1="e859a084730d2560804a966bc79c3e55e3964d69"/>
+		<rom name="I-MOTION/INDARK/ETAGE02.PAK" size="15858" crc="66afa6d9" md5="55469cfc30f05177501d6a597b6c9ffc" sha1="2191e4502b1bd358f21b57baefc3da82db857613"/>
+		<rom name="I-MOTION/INDARK/ETAGE03.PAK" size="15176" crc="bae83da5" md5="06a3acce8ede839b283a05ff4f6c36b8" sha1="4b84dc9c9e6db1eb03515d1027209ede3090f0c5"/>
+		<rom name="I-MOTION/INDARK/ETAGE04.PAK" size="2050" crc="aab44109" md5="19815b73eeee417f5fc0fda7d074acbd" sha1="61d5052852324378e88a6451ad3e3f9458209bcd"/>
+		<rom name="I-MOTION/INDARK/ETAGE05.PAK" size="15507" crc="1655776c" md5="b28ffe103db409e89adde246970b7e34" sha1="bf898cdea3c4e3423382eff42d6b1966915c1741"/>
+		<rom name="I-MOTION/INDARK/ETAGE06.PAK" size="6411" crc="8cc668d6" md5="7ef849b47b61718c8e6ce7119134d9ec" sha1="de4610a385b2c1414c71c839aac0d56feb366360"/>
+		<rom name="I-MOTION/INDARK/ETAGE07.PAK" size="2071" crc="858f2f5a" md5="3a1f4040a67923c8fa234b68c89eb2e9" sha1="52dc91be084f6aab300fe662b1253fc9b403282d"/>
+		<rom name="I-MOTION/INDARK/FRANCAIS.PAK" size="27928" crc="3869d036" md5="7c1687fb0abd68bea84599b056216932" sha1="c97efcb5d94604702d83b29563cee877bf665919"/>
+		<rom name="I-MOTION/INDARK/INDARK.EXE" size="155088" crc="5db6cd9b" md5="dfb8ed7a937e316815108e0c7259b6a5" sha1="40d879b7e51bfb9a4a8d39c4acc7b86d3eca713b"/>
+		<rom name="I-MOTION/INDARK/INDARK.ICO" size="2686" crc="37a48615" md5="39c251de44939677bd7f1a38061432b9" sha1="8c21db11748920d0e84c9c891cb4073b834ff995"/>
+		<rom name="I-MOTION/INDARK/INDARK.PIF" size="573" crc="ffec2982" md5="57d5da91bbee50c2bafc661aeb4da7d8" sha1="daee49a8e1c6f93507f58c7b6de8fa95925d7243"/>
+		<rom name="I-MOTION/INDARK/INSTALL.EXE" size="99863" crc="1eb982bc" md5="1716a522dea7a0fbbc2de2d3df608f97" sha1="60daa09547aac03447700e43ee505aa2e2b2907d"/>
+		<rom name="I-MOTION/INDARK/ITALIANO.PAK" size="28725" crc="b3090f48" md5="97f6739311308fa0be7060c5a80153f1" sha1="1f712c3eb7918a1de4070df67703f6ff10432a1b"/>
+		<rom name="I-MOTION/INDARK/ITD_RESS.PAK" size="361916" crc="5958d672" md5="1c3f86b87efd76ede8c98be1dddf3003" sha1="714eeac8e450aee8e54b7318866a898d0976712e"/>
+		<rom name="I-MOTION/INDARK/LISTANI2.PAK" size="59810" crc="fc14b1ac" md5="c6db3e407c6ec21bc14d1112a7d44496" sha1="01c0375d2f8eeceacf962a7ac9b2c10da1b16a85"/>
+		<rom name="I-MOTION/INDARK/LISTANIM.PAK" size="59818" crc="63669b8c" md5="e7a34bd8909c16efab856ea5b42bf873" sha1="983cc373efe9147e98d32e7beb857a696668ac79"/>
+		<rom name="I-MOTION/INDARK/LISTBOD2.PAK" size="268430" crc="9d2a93e5" md5="409534352ab3a5f1227c91fc3344b753" sha1="8857df2e06a5b66afba6c65ae141ae3fb141aea9"/>
+		<rom name="I-MOTION/INDARK/LISTBODY.PAK" size="264831" crc="0850b994" md5="325690bfe699257bfbcb0fc98a3565a1" sha1="45ab705a9c39426d19800f8b16ffb758edcf1f6b"/>
+		<rom name="I-MOTION/INDARK/LISTLIFE.PAK" size="74618" crc="23216ddf" md5="0a059193d7df11e1abe69a531cb18b23" sha1="06e97a5c698642feb963d019c959eb62e4a7d384"/>
+		<rom name="I-MOTION/INDARK/LISTMUS.PAK" size="12469" crc="0d83929a" md5="8d510de664e04e840cbbfa9394c6dc5b" sha1="3bebbe6f4bd29020a514d29c6632c59ad8eee52b"/>
+		<rom name="I-MOTION/INDARK/LISTSAMP.PAK" size="961234" crc="5a1bd139" md5="9ac0b6f318818503d4290750b2d752fd" sha1="a83b124e4102e3e9e3e5c1beffcf671234218aa6"/>
+		<rom name="I-MOTION/INDARK/LISTTRAK.PAK" size="3696" crc="11a416eb" md5="2c57147bddf3940552c05f9222eb0de4" sha1="6f9d2639038339efc735aec21eea5d73cde55f38"/>
+		<rom name="I-MOTION/INDARK/OBJETS.ITD" size="15186" crc="e5758859" md5="3164fb4c39fba65cb080e02c0f8e4353" sha1="555d532ed510f71781ac9b514b723af972757562"/>
+		<rom name="I-MOTION/INDARK/PRESENT.PAK" size="267190" crc="ece04fbc" md5="f818ce56b6743cca4f4f83a32d38f179" sha1="b0b985f1dc32603e78b74789c77908f96cd3874f"/>
+		<rom name="I-MOTION/INDARK/PRIORITY.ITD" size="101" crc="9bd73bf2" md5="b035089120d253e63bf3a7f0ff8421a2" sha1="24db7726e041bfc6858e155b92ebb45503c330a1"/>
+		<rom name="I-MOTION/INDARK/USA.PAK" size="28211" crc="0e455cdf" md5="e35b7f93b82bd25b9f40b7cf78035497" sha1="54e090e82c2e218a228b8eb6bf15493197cc4bb1"/>
+		<rom name="I-MOTION/INDARK/VARS.ITD" size="414" crc="91f59b08" md5="5c5c27c8147a2e759b984bbeb4056a0c" sha1="12256a101b1b35a96f98362fa71a1b0f9d72f73e"/>
+		<rom name="I-MOTION/JACK/ADLIBM.COM" size="4122" crc="9b9aaeea" md5="ee4e242a803dc95e0722a4a61b98148b" sha1="978f7b5fb94d280ddba256f76bca94540db5e8e3"/>
+		<rom name="I-MOTION/JACK/ANIM16.PAK" size="28906" crc="5eb45012" md5="008b535991b4120dddfd1a398a01f426" sha1="7d2a98fcb8f3879e87b7d3f197e3d00949d49b96"/>
+		<rom name="I-MOTION/JACK/CAMERA16.PAK" size="250225" crc="371552b9" md5="624fc901ffc6de62061d2b723ca41de8" sha1="2cad6674770be9994a166f8865bd086c67ec7b9b"/>
+		<rom name="I-MOTION/JACK/CLEARDRV.EXE" size="8426" crc="9cc76e37" md5="96b87617284f455c5cc5c67e572f6d5f" sha1="3690fe106a6383046f33012ee73dd983fc1eab19"/>
+		<rom name="I-MOTION/JACK/DEFINES.ITD" size="30" crc="ccf86514" md5="ea342f964a9ac83e7063dcb9275fa7be" sha1="df282f75f38bcd3be0261d73b44c794cdfcedc48"/>
+		<rom name="I-MOTION/JACK/DEUTSCH.PAK" size="3457" crc="442bab2e" md5="29fc377bf34653ff5041481505e20225" sha1="eb7cac928fc1e2a0ae54088938c6240471639e6f"/>
+		<rom name="I-MOTION/JACK/DRV_BZ.COM" size="761" crc="fbbc80a7" md5="21a16614c2b6d8c0eefecb3d1f36e325" sha1="c378cf8653a820f8b078befceff2e3a1e6052687"/>
+		<rom name="I-MOTION/JACK/DRV_SB.COM" size="1571" crc="f26bbe07" md5="fe2562c29e5a2e952ac1483822bedb74" sha1="a963c411519627ff3f0741748ca75f1d505c0184"/>
+		<rom name="I-MOTION/JACK/DRV_SBD.COM" size="932" crc="1cc6fa59" md5="8e714d7ddc2c73bb3ce71108eb99e834" sha1="f6ac092139e3caa9d89580626f15dc1b877210f7"/>
+		<rom name="I-MOTION/JACK/DRV_SMP.COM" size="708" crc="8a958763" md5="e8db3e7f2ba5343243de64b62d702fb2" sha1="f7bf355b30e238b0113e9923b50bdfe1d2226dd3"/>
+		<rom name="I-MOTION/JACK/DRV_SS.COM" size="913" crc="75315862" md5="cf06ec327f5c9aa20ace8c9a2f29b9a6" sha1="b22eb538b96ea7d8cd78613e03b8023d695ab828"/>
+		<rom name="I-MOTION/JACK/DRV_VM.COM" size="1448" crc="9f13c48a" md5="3f65cee43fe2cec081a6dd1a6e742b6f" sha1="d30d01234aed8d09c2e0ca244af430f8320c2ad3"/>
+		<rom name="I-MOTION/JACK/ENGLISH.PAK" size="3245" crc="423436a6" md5="3b6417f2ddae71729d3d9551128586f0" sha1="dcf6b962e36a07dccdc568d729a380d0ab544dff"/>
+		<rom name="I-MOTION/JACK/ESPAGNOL.PAK" size="3339" crc="0085eca9" md5="ef136af52f3530bbe9cf87d3c35273b9" sha1="fb35f16a2a1c8c4b5743b9aa1838d549a153bcbd"/>
+		<rom name="I-MOTION/JACK/ETAGE16.PAK" size="2736" crc="b104f230" md5="d6f97930957fcae2ea74fee775e93180" sha1="1631690cf7ec1af09d2dba703a7c9c296f793306"/>
+		<rom name="I-MOTION/JACK/FRANCAIS.PAK" size="3373" crc="68ea2a6f" md5="f49b29be13a1cf99a1bb0231e7bf418f" sha1="06aaea6c0c098f9c546e5160e6a3b1c2c5853236"/>
+		<rom name="I-MOTION/JACK/INDARK2.EXE" size="66552" crc="9f17f7d8" md5="c2edffbf36cb2504137b79a10aa50db9" sha1="06c9dd8a0531f433fba978103e37b1368c48d91e"/>
+		<rom name="I-MOTION/JACK/INSTALL.EXE" size="99863" crc="1eb982bc" md5="1716a522dea7a0fbbc2de2d3df608f97" sha1="60daa09547aac03447700e43ee505aa2e2b2907d"/>
+		<rom name="I-MOTION/JACK/ITALIANO.PAK" size="3395" crc="c4822bfb" md5="bbedc67c75481fd07408adf132be71b8" sha1="ec7e5eeb0589d8079fd93cfdfaeeea58e2f7c6c0"/>
+		<rom name="I-MOTION/JACK/ITD_RESS.PAK" size="272741" crc="f5023e89" md5="65ad91559fe8e850f8d7aab51edb54df" sha1="162385a5176d15c68edfe2a543fee55903f99578"/>
+		<rom name="I-MOTION/JACK/JACK.BAT" size="42" crc="87394250" md5="67ad683234bc274b695f15b0adfbfbe5" sha1="336f73c6013c12e3dc8f7b8ece8a4758ed268052"/>
+		<rom name="I-MOTION/JACK/JACK.ICO" size="766" crc="091a186e" md5="950ff9a618ce5d9ad199b501a8e5ca82" sha1="df8ecc462ae5d35559d7aa92b578f2d8a74ee6cf"/>
+		<rom name="I-MOTION/JACK/JACK.PIF" size="573" crc="e8706168" md5="aee91a06412f9752bf5db8fe158e5184" sha1="32a90ec8b3fd7e31c0f815911aeace11e0100c8d"/>
+		<rom name="I-MOTION/JACK/LISTANIM.PAK" size="62121" crc="a7d75835" md5="fa1728037bafc55728c109169553db9e" sha1="c5e03ea25eb51d4c3c1b7aa8311989acf468c0bf"/>
+		<rom name="I-MOTION/JACK/LISTBODY.PAK" size="57221" crc="dd58574c" md5="4930049b14d52ea7a15e62a6f5986554" sha1="1af26683992efbe34bbe77c66c834c47c298a0ba"/>
+		<rom name="I-MOTION/JACK/LISTHYB.PAK" size="3039" crc="35505355" md5="df4ef7e0e5a48a497e78edc2d87d70aa" sha1="3ce296eb3b91aa64692c99c74ecbee4dbb16149b"/>
+		<rom name="I-MOTION/JACK/LISTLIFE.PAK" size="9152" crc="1beefed9" md5="c0a9fa8ee4fcb3414f6fb2c290471f8d" sha1="6e70358d6d47197627b6204c2fe035967ea5dce4"/>
+		<rom name="I-MOTION/JACK/LISTMAT.PAK" size="360" crc="6736e848" md5="a1297f7cf218f20e69f43f1f4e5f5701" sha1="7d2eac3cc3e55aeebb3a3c59f80e38b209065fc0"/>
+		<rom name="I-MOTION/JACK/LISTMUS.PAK" size="2862" crc="62197d81" md5="f592a7d62c3c57eef6178ff014fa488b" sha1="b8241c1843adc10991f1c807defb044859d9373b"/>
+		<rom name="I-MOTION/JACK/LISTSAMP.PAK" size="188375" crc="95624e75" md5="8eb2fbb6695c01742012b2a456e33a6d" sha1="ea84ec1b4f361cf8257bb81f9565bddba1fb2ada"/>
+		<rom name="I-MOTION/JACK/LISTTRAK.PAK" size="1654" crc="d0bb7546" md5="4bd356b77df52894cf9b20794ebb7b90" sha1="134666730b77cf6995cc4616098987163d2dbbf9"/>
+		<rom name="I-MOTION/JACK/MASK16.PAK" size="12013" crc="9128aa45" md5="d6539bb95813f13b8f0675ea287bc0fd" sha1="431c63421dc4c6c5a43da76d492ac3389ef2d040"/>
+		<rom name="I-MOTION/JACK/OBJETS.ITD" size="1784" crc="b726f3da" md5="738c00ade112c1281dc6e8af701a90f8" sha1="582ef41319ceaa1f9ca5333576e5dc2c81481bc1"/>
+		<rom name="I-MOTION/JACK/PERE.PAK" size="296437" crc="52f18c89" md5="925b7d48547cccf1dbeec5a54e8c3411" sha1="88f1ae75d712629b8c70664613d57e4452c96c0e"/>
+		<rom name="I-MOTION/JACK/PRIORITY.ITD" size="26" crc="93995958" md5="5d8469004109ce29e6c91d3a44e74724" sha1="bfc921a99b46a690f08cdd9d8db14a0210e8895d"/>
+		<rom name="I-MOTION/JACK/VARS.ITD" size="104" crc="9fe1fe81" md5="068ff40cb6e4031aacb1efc3fd61af70" sha1="339ff56a310570772809f18032edf7adc6dc2cf5"/>
+	</game>  
 	<game name="Big Mac (2002) (BB Software).dosz">
 		<description>Big Mac</description>
 		<year>2002</year>
