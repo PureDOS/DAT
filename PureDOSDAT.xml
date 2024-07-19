@@ -2808,10 +2808,11 @@
 	</game>
 	<game name="SimFarm (1993) (Maxis).dosz">
 		<description>SimFarm</description>
-		<comment>Installed from the two v1.01 3.5" floppy disks with name set to "Maxine"</comment>
+		<comment>Installed from the two v1.01 3.5" floppy disks with files installed from the official v1.3 update</comment>
 		<comment_dosc>Sound config and auto run</comment_dosc>
 		<year>1993</year>
 		<developer>Maxis</developer>
+		<variant>v1.3</variant>
 		<rom name="CROPS/ALMONDS.CRP" size="5890" crc="98fde1d6" md5="3b3ac81f60818bf19fcaff2e56197f61" sha1="b306779b8d19ceb85dbc06a6a3c79f07fd556d1c"/>
 		<rom name="CROPS/APPLES.CRP" size="5890" crc="4618297c" md5="41d25b1ad4f424785f0aaa5144153ddf" sha1="1a46eff5c5faa4b63439323640c34fd01756d4c8"/>
 		<rom name="CROPS/BARLEY.CRP" size="5890" crc="0f8c8a7a" md5="e636a4a261abe9f347a94b9258e90a45" sha1="8a6f83691e09d3a709a8e6587d20556015ce425c"/>
@@ -2837,13 +2838,14 @@
 		<rom name="CROPS/TOMATOES.CRP" size="5890" crc="1bc85598" md5="b22d62c3afadc60300845938ed4e6ded" sha1="89a29c9d2f7172fa76110de7a9801383b447206e"/>
 		<rom name="CROPS/WHEAT.CRP" size="5890" crc="97c37061" md5="fd48fafad2a7de15932f3f5a9fce39f6" sha1="eb4007d6f13bba9f553ab40bd652a06289321b8e"/>
 		<rom name="INFO.EXE" size="27025" crc="0ca7edf9" md5="542b49ff0295a80b41e8810466a4f7d9" sha1="4f7cfcab956da967b3d7bb495322f278c435ab40"/>
-		<rom name="INSTALL.EXE" size="103735" crc="d52a9ec0" md5="3ed43e8c545485dfe9844d2c1193ef71" sha1="0300c44078c7bc176497383b1f63cb631a3557c9"/>
+		<rom name="INSTALL.EXE" size="103735" crc="7ac88950" md5="dc971c172d7a1985075cbde10792ebd2" sha1="3fb933fa805cccf5d331b0873b13b635113d0715"/>
 		<rom name="INSTALL.MXS" size="5580" crc="52af560f" md5="cab9d158a06da4cabf9752485e025dbb" sha1="8cf97f61e044e813104375bb8038628ee16d5353"/>
 		<rom name="MAXIS.CIM" size="67557" crc="c3a936aa" md5="f72d088903d12d48a971394d8189d786" sha1="1ef265adc2b45601d2ad9e8c7dcc3190a312140c"/>
 		<rom name="MEGADATA.EEA" size="2213377" crc="db943043" md5="6e12ffb6097ac6fb3f1341cfd8dfeec1" sha1="2291832e7249fdca6e504bf5d74359d5cfdc4bc1"/>
 		<rom name="MEGADATA.IDX" size="3040" crc="be13f0fa" md5="9acf8b0220a0987c23b94026ecfb1c47" sha1="e47633c7635a8ec496cd8e9990b034587cde64bd"/>
 		<rom name="POSTCARD.CIM" size="15341" crc="0455f154" md5="194b271abc8fdc7d04fe6c0a0158d624" sha1="f24cba91926ff6ecf68dc893e213826a2bc5fb81"/>
 		<rom name="README.TXT" size="3993" crc="0cab10c2" md5="b850be153bc3c674638fc53773231a47" sha1="a3999e4d430ea4883af9bf2a94ed8af2fcf4e573"/>
+		<rom name="README_U.TXT" size="1072" crc="4721b179" md5="78295c688575616a04fced100b41276f" sha1="ccd3accce5732e9faa12ae800e0d16d2a94f2013"/>
 		<rom name="SCEN0.SSM" size="139072" crc="fde7a25b" md5="a3fca36b8b9d3a03d06a09c54c0dd54f" sha1="8361a53550a1305a7443ba9a5025746c7ef6c6ff"/>
 		<rom name="SCEN1.SSM" size="139072" crc="6c516940" md5="5fc95436906d977228a0e8d00f2956df" sha1="cc875c3a0db0849297947792dca9c0ac8d84c466"/>
 		<rom name="SCEN2.SSM" size="139072" crc="aaecc809" md5="a5da41346b38fa1ce73b3949ffce5d8f" sha1="c0ae95416dbe8f091f42c3842308dd6cc8e3b9cc"/>
@@ -2852,7 +2854,7 @@
 		<rom name="SCEN5.SSM" size="139072" crc="d2f2fe16" md5="a9e6c1e5d28eeafed1a383b18cdbf706" sha1="aa9ea0e30734c6ce08ac54fab61a2dc9e9039a70"/>
 		<rom name="SCEN6.SSM" size="139072" crc="07e2c9c8" md5="3f457534fa95eac71fa98265071af907" sha1="0df5c6bcdb17208166d2d5976afafd2f81edb836"/>
 		<rom name="SCEN7.SSM" size="139072" crc="abd25802" md5="55db14c7a565632d752f3a23785f0c2f" sha1="c42d3de83163329cc3b807032befbe48e110bde4"/>
-		<rom name="SIMFARM.EXE" size="621735" crc="88d2e00e" md5="5ba392b50f2b6829135efe668d55b3b8" sha1="cd687126eda1b5edb70d755c147425559004042f"/>
+		<rom name="SIMFARM.EXE" size="595897" crc="79217fa6" md5="e4ad8613132f875b633b35aaf0ad5968" sha1="44173188731b46aff5aa9c1f5fafb1564a7a6b0b"/>
 		<rom name="SOUND/ADLIB.ADV" size="14775" crc="865e52d2" md5="ee12a7f90e99376ac3ca7526deccbd65" sha1="5223b1b79c06ca36a576d1827119d3b9122ed8db"/>
 		<rom name="SOUND/ADLIBG.ADV" size="16257" crc="aacc891f" md5="8eb9d194484a94dbc1d4014333f4d141" sha1="b89e8cc677980a4c206515653f29f748c667cce3"/>
 		<rom name="SOUND/ALGDIG.ADV" size="5770" crc="a7ecbb4b" md5="6b0b2bae9437e8451b306061750b1152" sha1="5e894a3bee42dc08d50240ec395f2b5eeafb84df"/>
