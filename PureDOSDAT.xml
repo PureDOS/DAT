@@ -903,10 +903,11 @@
 	</game>
 	<game name="Elder Scrolls Adventures, The - Redguard (1998) (Bethesda Softworks).dosz">
 		<description>Elder Scrolls Adventures, The - Redguard</description>
-		<comment>Software rendering version, installed from CD</comment>
+		<comment>Software rendering version, installed from CD. Needs DOS.YML with mem_size: 65536</comment>
 		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
 		<year>1998</year>
 		<developer>Bethesda Softworks</developer>
+		<rom name="DOS.YML" size="17" crc="9e2ade80" md5="5e4e9514ccbed110c66ed799f2b0c449" sha1="7ff552bf9a73a8ba6fe5089d140c63e3d6be659c"/>
 		<rom name="Elder Scrolls Adventures, The - Redguard (USA) (Disc 2) (Play Disc).chd" size="755080704" crc="5b0457a1" md5="e1b8235063dc8f461e0822b01e1ddc37" sha1="6b133792e366d287adf70651b467550817ea8d9a">
 			<track number="1" type="MODE1_RAW" frames="233846" pregap="0" duration="51:57:71" size="550005792" crc="414dddb5" md5="e1461e632f81a6704b526637a38725a8" sha1="6d850011c7caf838c6b4539ca3e81dc1231b48bd" in_zeros="1" out_zeros="0"/>
 			<track number="2" type="AUDIO" frames="26029" pregap="150" duration="05:47:04" size="61220208" crc="28a74068" md5="e55e60d7970d132471823bff5f222d0b" sha1="fcd5a1318b30b80574cd441d0dedd6dd43fd8d0d" in_zeros="355556" out_zeros="4860"/>
