@@ -737,25 +737,55 @@
 	</game>
 	<game name="Cyberbykes - Shadow Racer VR (1995) (Gametek).dosz">
 		<description>Cyberbykes - Shadow Racer VR</description>
-		<comment>Installed from CD, CD image made from BIN/CUE</comment>
-		<comment_dosc>Sound and video config file</comment_dosc>
+		<comment>Files extracted from CD-ROM of US release</comment>
+		<comment_dosc>Sound and video config file, auto start</comment_dosc>
 		<year>1995</year>
 		<developer>Gametek</developer>
-		<rom name="BITMAP.BIN" size="2324032" crc="ba827d34" md5="ac8693746bd5d7f7e72e65ca88ddfa7a" sha1="ce0b8e429f448d930682daa1a26eb8f005aeabac" date="1995-06-24 23:26:50"/>
-		<rom name="CYBER.EXE" size="931605" crc="2aeceb99" md5="4bca2a780b80220fcef61bee295bc697" sha1="7fa5a2ff5d761a0aaa206a3f13e102dc742b6ba4" date="1995-06-27 14:05:08"/>
-		<rom name="CYBER.TXT" size="6992" crc="e2305a7b" md5="ce68122d79f2908f1f71bd8e67c3ad2c" sha1="67cfa4165212c87b1ed224d93737d52386e33616" date="1995-06-26 05:37:14"/>
-		<rom name="Cyberbykes.chd" size="129215232" crc="25dff19d" md5="fb3f2d111cd8c5b307ea2f15eb1b26fe" sha1="a5f57115dacfae53df8b8bc052a6050c05267a0f">
-			<track number="1" type="MODE1_RAW" frames="52768" pregap="0" duration="11:43:43" size="124110336" crc="38f6af75" md5="49c3bd0af627e59f4e6a2baea31b3292" sha1="bda85561b295f8b9e1b4d5cd6115d5082175f912"/>
-		</rom>
-		<rom name="DRIVER.BIN" size="312868" crc="6f04b792" md5="0fca11a530c89f01110cdae2c6a02303" sha1="9297a1af790701aa70ade65d2d0edb9234df7bac" date="1995-06-12 22:32:02"/>
-		<rom name="EARTH.FLC" size="528778" crc="2bc14fb9" md5="9ffb16f402b6d36ac2183fad8a36baca" sha1="1253d9079766af6825318bf1c7cff50b8acee653" date="1995-05-05 17:15:00"/>
-		<rom name="EARTH640.FLC" size="2242664" crc="015eb128" md5="0c6e311c521f8cc6df4672879e991ac5" sha1="45cc01ac6cc3b6bca82dd2b8c9d29d4555b5979a" date="1995-04-20 16:03:34"/>
-		<rom name="FONT.BIN" size="54107" crc="b7d53ce6" md5="d7f1ebcf6a38ca44862111d70c3676ba" sha1="40b959de016bc5980214446b0636612b3f7d04c1" date="1995-05-03 12:57:06"/>
-		<rom name="MEMO.BIN" size="22749" crc="35de79c8" md5="8303fe52a9d8446e43c047c52b108fb5" sha1="fe53132c781d47e0a6624cef45923dcb1a431f3c" date="1995-06-27 15:42:30"/>
-		<rom name="POLY.BIN" size="386468" crc="515b7b53" md5="a2771f0e4ac92b5c1213739a2b54c872" sha1="b81caf838e61e2c750d5e71a00010a4279f059e6" date="1995-06-26 01:11:24"/>
-		<rom name="READ.ME" size="17081" crc="d0f45de6" md5="2ec03bb72edf540da9d4dde7ea2acde5" sha1="29829f30f91d181f30c8ebea9fda3aee5097d3f8" date="1995-06-26 05:58:16"/>
-		<rom name="SOUND.BIN" size="574586" crc="5897f701" md5="892bef54c0ce35f1d0ec8e465c4b8596" sha1="3c5d33dc2b80c40595de250f05b7116689e580fa" date="1995-06-26 08:47:08"/>
-		<rom name="VOICE.BIN" size="589048" crc="70aaaea1" md5="adaa389813a6ee1eace95104e08f735b" sha1="da34dc717e7b2e747771db6f8d48a1d932772a28" date="1995-05-07 22:11:32"/>
+		<rom name="ABORTD.FLC" size="610422" crc="fe55ba07" md5="f9690c0695989d33860fd4c8082313cc" sha1="d2bca0b016473e9f0f774d29cf80b368bf9d6bdd" date="1995-06-22 08:31:40"/>
+		<rom name="ABORTE.FLC" size="1057464" crc="48eb346b" md5="36a8e4be1bb43318f6764927646f2ec6" sha1="184f7c517580c9cea99fc0c27b01fdf947b9aa0d" date="1995-06-22 11:15:20"/>
+		<rom name="ABORTN.FLC" size="521728" crc="5b255c17" md5="a0ee07cda2a09e7a168479010f6d8f1f" sha1="dc2d835a07cecec03d6a34e8be699bdf56a188de" date="1995-06-22 09:44:28"/>
+		<rom name="ATLANTIS.LVL" size="1402434" crc="440f0f96" md5="0785da74dd58875f7230ed9a7c09a030" sha1="47720dfc8a0b121ca2b7f8da3719cb6570efd8af" date="1995-06-25 17:22:18"/>
+		<rom name="BITMAP.BIN" size="2324032" crc="ba827d34" md5="ac8693746bd5d7f7e72e65ca88ddfa7a" sha1="ce0b8e429f448d930682daa1a26eb8f005aeabac" date="1995-06-25 07:26:50"/>
+		<rom name="BLAKEDOW.LVL" size="660994" crc="e778f01e" md5="d874a15fc69a7ec096e26d5ebe83f863" sha1="93a1cdca621b2ab3d1a1b214c94d39c31597af93" date="1995-06-26 17:17:06"/>
+		<rom name="BLD_INFO.CFG" size="1164" crc="71640683" md5="ee305b25fa650827c071ad9a91127d15" sha1="58338df63b57ada231cb35b02d8fe1cecd93902f" date="1995-06-28 02:56:30"/>
+		<rom name="BOMBAY.LVL" size="1229216" crc="09160ec5" md5="8032a70ab14f422e05ed08769c09a0fc" sha1="6fa572ba23c8c1e32597b6ed69cf1e650c99bacd" date="1995-06-26 17:28:32"/>
+		<rom name="CAIRO.LVL" size="1478838" crc="5e4c092a" md5="f952828a5d87fc60d55fda6172512aec" sha1="5b6620f61d5c6c0a3f4b5483b6ce7c2ea8d8235d" date="1995-06-26 14:54:46"/>
+		<rom name="CYBER.EXE" size="931605" crc="2aeceb99" md5="4bca2a780b80220fcef61bee295bc697" sha1="7fa5a2ff5d761a0aaa206a3f13e102dc742b6ba4" date="1995-06-27 22:05:08"/>
+		<rom name="CYBER.TXT" size="6992" crc="e2305a7b" md5="ce68122d79f2908f1f71bd8e67c3ad2c" sha1="67cfa4165212c87b1ed224d93737d52386e33616" date="1995-06-26 13:37:14"/>
+		<rom name="DRIVER.BIN" size="312868" crc="6f04b792" md5="0fca11a530c89f01110cdae2c6a02303" sha1="9297a1af790701aa70ade65d2d0edb9234df7bac" date="1995-06-13 06:32:02"/>
+		<rom name="DROP.FLC" size="12802594" crc="35925963" md5="38a45f07bba427e927728599c9704c99" sha1="bff19b4e0e181a932fdc1aadc2964bf3409bf0d0" date="1995-06-12 18:00:28"/>
+		<rom name="EARTH.FLC" size="528778" crc="2bc14fb9" md5="9ffb16f402b6d36ac2183fad8a36baca" sha1="1253d9079766af6825318bf1c7cff50b8acee653" date="1995-05-06 01:15:00"/>
+		<rom name="EARTH640.FLC" size="2242664" crc="015eb128" md5="0c6e311c521f8cc6df4672879e991ac5" sha1="45cc01ac6cc3b6bca82dd2b8c9d29d4555b5979a" date="1995-04-21 00:03:34"/>
+		<rom name="FINISH.FLC" size="7149618" crc="eee376ba" md5="00282a5f42d4be2aabe9931f2f829c46" sha1="abada33e063e2647b8baf69aff20f24df732e4a1" date="1995-06-25 01:09:04"/>
+		<rom name="FONT.BIN" size="54107" crc="b7d53ce6" md5="d7f1ebcf6a38ca44862111d70c3676ba" sha1="40b959de016bc5980214446b0636612b3f7d04c1" date="1995-05-03 20:57:06"/>
+		<rom name="GALLERY.LVL" size="1280182" crc="1f3314a0" md5="72a6292b4d22172ecc206e4f04befa83" sha1="dd725d581e54b13a4ea7bd419769e2da30f4bbcd" date="1995-06-26 17:19:18"/>
+		<rom name="GAMETEK1.1" size="4376895" crc="aae0e5b1" md5="b0c5b77afd10cc28892a4dd426b943cf" sha1="24a2be979429a0ba0a2f2582fb3d7a36ac2cc994" date="1995-06-28 05:31:02"/>
+		<rom name="GAMETEK2.1" size="9455771" crc="3d2f82b5" md5="10c98af16c665860ae9417f1ab4ac90f" sha1="d03ef44ee677f7007c57a6e2e36ad4e7563e1b2c" date="1995-06-28 02:56:30"/>
+		<rom name="GAMETEK3.1" size="20581108" crc="04d4c072" md5="232f92182ad7ba40642685d27d508fc2" sha1="293c63455c5ce4606b877712611b016d5f56fa34" date="1995-06-27 03:29:00"/>
+		<rom name="IMAGE1.DAT" size="437" crc="37afdaab" md5="1030ddd9f719f8e64cc2e01413fac2c0" sha1="83dc6761c8f8d83cd9b9a26991c2c2ddada97c64" date="1995-06-28 05:31:02"/>
+		<rom name="IMAGE2.DAT" size="751" crc="f74f9b26" md5="e441b029f37edcbce9b38149802872d5" sha1="4d1a0198e18dbca287d7802f8a8ae3e9cc44e60e" date="1995-06-28 02:56:30"/>
+		<rom name="IMAGE3.DAT" size="229" crc="f504f409" md5="1333c582a722ca0c8b668a4f602e0068" sha1="40d3f98ed88bb66d059d8dd093903315866744b5" date="1995-06-27 03:29:00"/>
+		<rom name="LANGRC.RES" size="5914" crc="0dc15e8d" md5="40b3fa33f8a59c1f796f50ccf9d3030c" sha1="87efe15954bcfa3f3ab0b97ff08c77e05f4cf8f7" date="1995-06-28 02:56:32"/>
+		<rom name="LOS_ANGE.LVL" size="1552744" crc="59874619" md5="72855272de728376ceabc420e16011ca" sha1="3938070a5ee5d61fbf954c7fb878553ad8c2a954" date="1995-06-27 23:39:10"/>
+		<rom name="LUNA_ONE.LVL" size="1253892" crc="0e33d484" md5="b34189f10d14331d6514d2bc739fcb2f" sha1="1622f31ed485747d0b19d2d5b8023fe7f1731cdf" date="1995-06-26 14:10:10"/>
+		<rom name="MEMO.BIN" size="22749" crc="35de79c8" md5="8303fe52a9d8446e43c047c52b108fb5" sha1="fe53132c781d47e0a6624cef45923dcb1a431f3c" date="1995-06-27 23:42:30"/>
+		<rom name="MEXICO.LVL" size="1492768" crc="3adc2cd0" md5="68bc72c148bcc84d6b6b1f26ce8494fa" sha1="072b41b51a281e0583b5d61c6ce7fd6645dda2e7" date="1995-06-26 17:23:44"/>
+		<rom name="NEW_YORK.LVL" size="1425328" crc="a3f53ef3" md5="4f8fefce281dd7cbd300cbb17aedf68b" sha1="7d32812669f8e81507017b900c107d17ea918864" date="1995-06-27 23:31:34"/>
+		<rom name="OCEANVIE.LVL" size="1178156" crc="a525f290" md5="36444990ccf5d99aaf29d388ac309b82" sha1="b039d7a9ada4e27bf4660cdb16c848a92aa447ed" date="1995-06-28 01:00:56"/>
+		<rom name="PARIS.LVL" size="1659080" crc="d994575b" md5="f0770d98e75fecb40a641fec53c97c7e" sha1="c8d00905e8607ba0087b05e855a48b6e56789fea" date="1995-06-27 23:02:38"/>
+		<rom name="POLY.BIN" size="386468" crc="515b7b53" md5="a2771f0e4ac92b5c1213739a2b54c872" sha1="b81caf838e61e2c750d5e71a00010a4279f059e6" date="1995-06-26 09:11:24"/>
+		<rom name="PRIDE.LVL" size="1674402" crc="633459c2" md5="92fb97a9f454e5a4cbc058bf25d8e2ea" sha1="e2dae56f6640403fd33b398a02581300270c041b" date="1995-06-26 07:08:12"/>
+		<rom name="READ.ME" size="17095" crc="07febff9" md5="102f93cf42c0b20169f0b69a20558c12" sha1="f2a6897da9abc9ad2c8afd4917b24c21f1ef920e" date="1995-06-26 13:58:16"/>
+		<rom name="SOUND.BIN" size="574586" crc="5897f701" md5="892bef54c0ce35f1d0ec8e465c4b8596" sha1="3c5d33dc2b80c40595de250f05b7116689e580fa" date="1995-06-26 16:47:08"/>
+		<rom name="SOUTH_SL.LVL" size="909384" crc="0ba52341" md5="d2eb3a070f9cfd8247a82e8518bf9a47" sha1="07c0bde9fdad80bf4ec99530c1ebe3e0a27a3e2a" date="1995-06-27 22:35:24"/>
+		<rom name="TASMANIA.LVL" size="1094292" crc="6155199d" md5="0d037f5a4f545ceb8a805a02e3599994" sha1="9139640e580e081f25898e0353860c6482133902" date="1995-06-26 14:57:00"/>
+		<rom name="TEL_MEGI.LVL" size="1358500" crc="5644ce6a" md5="f47246a43f93b217c576951c08e26798" sha1="841ecaa3ffe08b18b9a4745a918576894d292267" date="1995-06-26 14:59:08"/>
+		<rom name="TIRYNS.LVL" size="1596876" crc="9b1a17bd" md5="a14da449a6bd311747a4c39831476b98" sha1="aef7d0c39d99aa8fb85639dffedd055a2f25aeb9" date="1995-06-26 17:32:20"/>
+		<rom name="TITLE.FLC" size="13835590" crc="348e9fdd" md5="011b95e150fd491d5dafcd6e5990ecc6" sha1="0e5b39b7ef7edab42a731abbd0ace5aeedbcba37" date="1995-06-22 18:50:20"/>
+		<rom name="VOICE.BIN" size="589048" crc="819137d4" md5="92ccbf191d4be775aa4a8bd6599b546e" sha1="a17f025634fbc51c29c8662b373fe8dff03e66af" date="1995-05-08 06:11:32"/>
+		<rom name="WARTHOG.LVL" size="1275944" crc="eb56d7f8" md5="bdcb3566079ca92e5859a7f856707f8c" sha1="53adfeadd3386bb3b72301e823a18d0b6be59743" date="1995-06-27 23:00:18"/>
+		<rom name="WARWICK.LVL" size="1485652" crc="5cd386b6" md5="95072be8629dc9824d7e8b6f9f98020b" sha1="161b65aef4652150a9ddcc8e7bbbb9390c5d6aa8" date="1995-06-26 11:00:44"/>
+		<rom name="XANADU.LVL" size="1450054" crc="0b847100" md5="7362eab99b695d1be763c305a0eee1ef" sha1="cc0ce8ee35b3343b94b275c53567539834bb9267" date="1995-06-26 11:12:36"/>
 	</game>
 	<game name="D-Generation (1991) (Mindscape).dosz">
 		<description>D-Generation</description>
