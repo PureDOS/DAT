@@ -20,6 +20,22 @@
 			<track number="1" type="MODE1_RAW" frames="1209" pregap="0" duration="00:16:09" size="2843568" crc="c91ddc42" md5="43c1b816d440b9a640c45f0392926f80" sha1="10aec44bf9f2d0ef7f89b500a598e74039688c19"/>
 		</rom>
 	</game>
+	<game name="Descent II - The Vertigo Series (1996) (Parallax Software) (Installation).dosz">
+		<description>Descent II - The Vertigo Series</description>
+		<year>1996</year>
+		<developer>Parallax Software</developer>
+		<variant>Installation</variant>
+		<rom name="Descent II - The Vertigo Series (USA).chd" size="349554816" crc="575a068a" md5="b1d60a226da022f15672f7ac067569ad" sha1="01e7e723766ea48c49ff60291d696aa1f5d7a664">
+			<track number="1" type="MODE1_RAW" frames="23311" pregap="0" duration="05:10:61" size="54827472" crc="1e380cb7" md5="fe2533786993dbef1c38ce3439252192" sha1="b79c8791884832aec8e6a2c5d5209aa8c24cbafa" in_zeros="1" out_zeros="0"/>
+			<track number="2" type="AUDIO" frames="20866" pregap="150" duration="04:38:16" size="49076832" crc="319cf256" md5="ca3f6142a32dfea00c9385fd43e197df" sha1="2f3ebe895f5951d6c8a041286ac53dea29e2369d" in_zeros="364918" out_zeros="562072"/>
+			<track number="3" type="AUDIO" frames="9737" pregap="0" duration="02:09:62" size="22901424" crc="c1f0fb3b" md5="9e5f6be8f3964932551997fced8d6f50" sha1="e52803c674af6c0342151d97cb9e5d98fc6a0deb" in_zeros="6052" out_zeros="348661"/>
+			<track number="4" type="AUDIO" frames="22121" pregap="0" duration="04:54:71" size="52028592" crc="700f5fd3" md5="3000b409f24824b91487dd807f44f726" sha1="fab533265ceb3b0b53cf0d5bc32863da0e2e5548" in_zeros="6048" out_zeros="346757"/>
+			<track number="5" type="AUDIO" frames="16417" pregap="0" duration="03:38:67" size="38612784" crc="90ca4b7a" md5="17939e42bc6033b1c6fb4fd02859c7bf" sha1="2adcf0c8eba23d66dad3407bb5c3b0243ee0ac1e" in_zeros="11604" out_zeros="352801"/>
+			<track number="6" type="AUDIO" frames="17381" pregap="0" duration="03:51:56" size="40880112" crc="cfc06c72" md5="2610d680fa53874799382113dd2ab4bf" sha1="4f3154f9cfd2e3a0ae0769aa44821e519dd45aa3" in_zeros="8220" out_zeros="362975"/>
+			<track number="7" type="AUDIO" frames="19454" pregap="0" duration="04:19:29" size="45755808" crc="0e50d09a" md5="2899e391dcb2dc642f80b254e89aac9d" sha1="9a45bc9179e9b08b65a0b3bdfb1379d996df14b7" in_zeros="9796" out_zeros="386955"/>
+			<track number="8" type="AUDIO" frames="14901" pregap="0" duration="03:18:51" size="35047152" crc="975af50c" md5="fe83c4562b96d7a504dc80494e6d0b61" sha1="b05ae5cd5fc87bfc28859637571395a19135bdfc" in_zeros="9638" out_zeros="719287"/>
+		</rom>
+	</game>
 	<game name="Doom II (1994) (id Software) (GOG).dosz">
 		<description>Doom II</description>
 		<comment>Doom II v1.9, DeathManager v1.5</comment>
