@@ -933,7 +933,7 @@
 	</game>
 	<game name="Fallout (1997) (Interplay).dosz">
 		<description>Fallout</description>
-		<comment>Full "Humongous" install from Redump-verified Fallout (USA) (Rerelease) (1999-11-10) CD-ROM (v1.1) - Patched to v1.2 then v1.3.5 by TeamX.</comment>
+		<comment>Full "Humongous" install from Redump-verified Fallout (USA) (Rerelease) (1999-11-10) CD-ROM (v1.1).</comment>
 		<comment_dosc>CD mount, auto-start, sound config</comment_dosc>
 		<year>1997</year>
 		<developer>Interplay</developer>
@@ -941,260 +941,31 @@
 			<track number="1" type="MODE1_RAW" frames="322560" pregap="0" duration="71:40:60" size="758661120" crc="69e22761" md5="c0e6c652aeb828eaf4e825de34475473" sha1="ed76abe517236378743ff6444336a9f347b5da1d" in_zeros="1" out_zeros="0"/>
 		</rom>
 		<rom name="CRITTER.DAT" size="158022057" crc="f11b382f" md5="b92ca2ad7c9afc404468a9287983ad90" sha1="4040dbe7dd65c8996afdec8c2df40870186677f3"/>
-		<rom name="DATA/ART/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2009-08-07 13:13:24"/>
-		<rom name="DATA/ART/CRITTERS/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2009-08-07 13:13:24"/>
-		<rom name="DATA/ART/CRITTERS/hmmaxxat.frm" size="117910" crc="4694ed4f" md5="9e96a2d3f6c57613f9f1b546fb60b897" sha1="6f5fda7879d2274dafc1215e808274648f705b2a" date="2005-12-17 14:19:58"/>
-		<rom name="DATA/DATA/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2009-08-07 13:13:24"/>
-		<rom name="DATA/DATA/VAULT13.GAM" size="37965" crc="893416a6" md5="688fe7161dcc221e431987c8fa9dad78" sha1="aa8834a105eefb58c6f4485d0592503d5332e362" date="2005-11-07 13:20:26"/>
-		<rom name="DATA/MAPS/childrn1.map" size="316352" crc="ac30e006" md5="2a4eab24bc4f7e61b181d532d62b963a" sha1="f1377157d2dabb6d65c2915b61e8fb3e2fa66800" date="2006-08-11 22:29:52"/>
-		<rom name="DATA/MAPS/childrn2.map" size="198916" crc="5f32a67a" md5="6bc58857e51522c33a3397ebafa7fe41" sha1="e4f653077387dfea6b746b395d3370ade5774214" date="2006-08-11 22:29:52"/>
-		<rom name="DATA/MAPS/descrvn1.gam" size="144" crc="43571fc8" md5="73141ce4cee277897e4f08b774afacb5" sha1="cbbb18182397d250d21c4469b9f3e0e2e2138fd6" date="2005-07-20 13:46:38"/>
-		<rom name="DATA/MAPS/descrvn2.gam" size="144" crc="43571fc8" md5="73141ce4cee277897e4f08b774afacb5" sha1="cbbb18182397d250d21c4469b9f3e0e2e2138fd6" date="2005-07-20 13:46:38"/>
-		<rom name="DATA/MAPS/descrvn4.gam" size="144" crc="43571fc8" md5="73141ce4cee277897e4f08b774afacb5" sha1="cbbb18182397d250d21c4469b9f3e0e2e2138fd6" date="2005-07-20 13:46:38"/>
-		<rom name="DATA/MAPS/hubdwntn.map" size="420208" crc="d804b332" md5="84e8636f5cf0aef1a185806b44646a0b" sha1="29ab64b5f5879a961f21e258a82eba103677e605" date="2007-08-29 17:59:28"/>
-		<rom name="DATA/MAPS/hubmis1.MAP" size="161844" crc="98ed6972" md5="c826c17834d5ebe0703781d31340cd3a" sha1="9e2f3cbb765d09dcc6f2aa938887a39d239138b4" date="2005-07-25 19:06:40"/>
-		<rom name="DATA/MAPS/HUBOLDTN.GAM" size="455" crc="b0b5e012" md5="5bd9a41f49d0025e4d60d40af591632e" sha1="75799813003b184c75bd214822a69fdb2718a6a4" date="2005-07-28 22:20:22"/>
-		<rom name="DATA/MAPS/huboldtn.map" size="310256" crc="f7c3f4b8" md5="672586dfdf7a693ee535f7ceaaa69c25" sha1="d54ec9e44fff885db389a96766118fee5441b4c1" date="2006-03-05 19:41:40"/>
-		<rom name="DATA/MAPS/hubwater.map" size="250848" crc="1dfcfa3f" md5="b36483f9ee97ffa6cd97f6e879d45b39" sha1="37014962f07fb71cb86c792e2446eb9f6df82503" date="2005-08-26 15:56:22"/>
-		<rom name="DATA/MAPS/junkcsno.map" size="275184" crc="778af645" md5="233b26e9d6ca540a1a3c45ac8d006d17" sha1="20123d5025696fa89e5b0fc3d938b3fb084d58cf" date="2006-08-11 22:29:52"/>
-		<rom name="DATA/MAPS/junkkill.map" size="257288" crc="73fc0e77" md5="828d20125d00d055931a426555537b0c" sha1="4f987399e990512d89d15e690274dd94423124cd" date="2006-08-11 22:29:52"/>
-		<rom name="DATA/MAPS/lablades.gam" size="130" crc="dcb43d82" md5="b4d210c7dc7c5ca81f0af8028061e0f2" sha1="a7a9fa312df2fb186a5895b56e3f9c44d2e72f8a" date="2005-07-29 02:28:48"/>
-		<rom name="DATA/MAPS/mbent.gam" size="588" crc="b27eba84" md5="0d59b1934f272a66d44955bf8ab9bc43" sha1="730747815694144bae4d3d0ad2494839644ab5f1" date="2009-07-30 14:04:50"/>
-		<rom name="DATA/MAPS/mntcrvn1.gam" size="144" crc="43571fc8" md5="73141ce4cee277897e4f08b774afacb5" sha1="cbbb18182397d250d21c4469b9f3e0e2e2138fd6" date="2005-07-20 13:46:38"/>
-		<rom name="DATA/MAPS/mntcrvn2.gam" size="144" crc="43571fc8" md5="73141ce4cee277897e4f08b774afacb5" sha1="cbbb18182397d250d21c4469b9f3e0e2e2138fd6" date="2005-07-20 13:46:38"/>
-		<rom name="DATA/MAPS/mntcrvn4.gam" size="144" crc="43571fc8" md5="73141ce4cee277897e4f08b774afacb5" sha1="cbbb18182397d250d21c4469b9f3e0e2e2138fd6" date="2005-07-20 13:46:38"/>
-		<rom name="DATA/PROTO/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2009-08-07 13:13:24"/>
-		<rom name="DATA/PROTO/CRITTERS/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2009-08-07 13:13:24"/>
-		<rom name="DATA/PROTO/CRITTERS/00000044.pro" size="412" crc="b151ce1b" md5="5cacbd3234a4fcea197a5d52e5ed35f9" sha1="ac56217d5ea64958d69449a22da7a9d778007241" date="2006-08-11 22:29:56"/>
-		<rom name="DATA/PROTO/CRITTERS/00000307.pro" size="412" crc="5611b54a" md5="c1724a3a2358d7c98563fc1df307402b" sha1="b1867e0a3689ea9bc1d7e75e24ec7636e871a5a5" date="2007-08-29 17:47:28"/>
-		<rom name="DATA/PROTO/CRITTERS/00000309.pro" size="412" crc="4df3ed30" md5="cea72ac7639a95a170266f1b2d77f70e" sha1="91abacfcc89a291ffef1edf0b320da5f06576a6e" date="2007-08-29 17:50:48"/>
-		<rom name="DATA/SCRIPTS/abel.int" size="5114" crc="34aa9a66" md5="f8150352e43ac1ac89ba47a62f2099fa" sha1="68f25aa2734645e4c6ea906e46e1886522face4d" date="2009-07-30 16:07:38"/>
-		<rom name="DATA/SCRIPTS/allnone.int" size="4836" crc="929d71fe" md5="dac72cf014070962c314a929f7bd09a0" sha1="e1fa8721785c29d32345b6968e8e7549f516eeb5" date="2006-03-05 20:11:28"/>
-		<rom name="DATA/SCRIPTS/andrew.int" size="3474" crc="a7a4d13b" md5="ea0e4317d5a555b686b75ae623f72626" sha1="33802fd61395e2e46d0e76428095f842636dd601" date="2005-11-07 13:22:10"/>
-		<rom name="DATA/SCRIPTS/aradesh.int" size="18952" crc="3f2fcd67" md5="5d613df8aaa79c397521113db617c9a5" sha1="8e83e88333776cced9be05a06bd034747fcab081" date="2009-07-29 15:23:04"/>
-		<rom name="DATA/SCRIPTS/assblow.int" size="10280" crc="7d4f7cf3" md5="29ab3171dc34f05a929913ee0e568b93" sha1="0965a05b4cef0623fa1f8605a51c4752699b94c5" date="2008-01-03 16:57:58"/>
-		<rom name="DATA/SCRIPTS/barfly.int" size="2592" crc="41ff325a" md5="063acf70752cc733489b1bb918904139" sha1="890dc514f0245372aaf743c091ca0ff4aaaef1c8" date="2005-11-07 13:23:16"/>
-		<rom name="DATA/SCRIPTS/barry.int" size="1932" crc="c49060c4" md5="388a2dd01d534a56964437ed7f0a918d" sha1="b86570901cd81ae960fc5dc7df03b4403c615473" date="2006-06-25 20:51:10"/>
-		<rom name="DATA/SCRIPTS/bhdoor.int" size="2044" crc="08ac9f6e" md5="efb259cfcd631c0053284eddad410a0d" sha1="47b41d9c163bbc324068483615cb8c0efd83541c" date="2008-01-24 12:21:42"/>
+		<rom name="DATA/MAPS/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-12-31 00:00:00"/>
 		<rom name="DATA/SCRIPTS/BITSBOB.INT" size="14180" crc="24cc3e7b" md5="020f1e1c2593ff829fe58e5731f9c406" sha1="56aeb2eb9cd424a61918e8795d2310132ac8e834"/>
-		<rom name="DATA/SCRIPTS/boslori.int" size="9750" crc="dc15ce01" md5="289882cfb8e7c9c08f2ec5f29a202b77" sha1="20b58637ba3df07b15435f910232c015f6058378" date="2008-01-03 15:22:32"/>
-		<rom name="DATA/SCRIPTS/boxguard.int" size="2048" crc="ee4b369b" md5="21f26cc032ad443ee130bc8d8225d37a" sha1="f8af47dd00588c12db78c5b93bb66561ce69eda1" date="2005-11-07 13:23:26"/>
-		<rom name="DATA/SCRIPTS/brohdent.int" size="2700" crc="59c3c9f3" md5="201a91efabd4106a3a962652ed8d852a" sha1="53801c46634bd7845f69158b2416731befaf5aab" date="2008-01-03 21:36:16"/>
-		<rom name="DATA/SCRIPTS/broinvad.int" size="2152" crc="8c25c163" md5="e7b814312d24f22ee7bdabedddb35dcf" sha1="4fb99213ecc78954311ade877886a5650d2e580f" date="2006-03-13 15:20:24"/>
-		<rom name="DATA/SCRIPTS/bygreg.int" size="4618" crc="b1ec1551" md5="e56832347c89d1c9a464e61fa1f83999" sha1="75c57c532b8cb4d174b5d4d88d31f3e05c5dcb22" date="2008-01-04 02:06:24"/>
-		<rom name="DATA/SCRIPTS/BYMIKE.int" size="5316" crc="b2f024b8" md5="dffa82a19eedf84d5338aba2e7c9eb83" sha1="f4b87e39462cc99e379de58e186c39ad3578fe8d" date="2008-01-04 02:06:24"/>
-		<rom name="DATA/SCRIPTS/calder.int" size="12212" crc="ebc28e33" md5="dcb27399d0c417c9a1afec01ab0c322b" sha1="8f854c9e6c8efecdd85cb74cfe34054da7ef4fc5" date="2008-01-04 11:41:22"/>
-		<rom name="DATA/SCRIPTS/caleb.int" size="6886" crc="745da01f" md5="cf60fc1501f63037db4d12ccfa7f3324" sha1="abe5eab882013fa68af33ccd1a84b24fb4ca1ed3" date="2008-01-02 16:57:10"/>
-		<rom name="DATA/SCRIPTS/carenctr.int" size="33816" crc="37ecff87" md5="82fed10df2e1c35aaffb8f53ffc80a77" sha1="78498390744f72ad5fe63ed7084712d76dda23de" date="2005-08-13 10:56:16"/>
-		<rom name="DATA/SCRIPTS/carvlead.int" size="10448" crc="a7118519" md5="1368bf85e365f9f79c6191d90f2434ca" sha1="61dd753ae244bdf3f7d4f8fb33473d35fc5fc437" date="2006-03-13 15:28:14"/>
-		<rom name="DATA/SCRIPTS/child.int" size="3188" crc="15767454" md5="86c18f667f0a690e5fb2d85af92d4feb" sha1="dfbddb44eaa7588e491b6c6fab62b95884334a3a" date="2006-03-15 21:37:30"/>
-		<rom name="DATA/SCRIPTS/childmem.int" size="7328" crc="fdac0da6" md5="9c3f45e5df47b53994c826e6e1d8e7b1" sha1="0da8ed27bc6489ce740a088ff1b373d59011c82a" date="2008-01-05 13:43:18"/>
-		<rom name="DATA/SCRIPTS/chuck.int" size="8030" crc="5d30df2d" md5="de94591b37466d4be18f107ade9975cd" sha1="e2934313879a6b93f2df7bc53f190e250707f14d" date="2007-08-29 11:34:06"/>
-		<rom name="DATA/SCRIPTS/cleo.int" size="8462" crc="82bce400" md5="0da8edfa52c12980473580b45f7b9360" sha1="3464853d45bc1e2f6bacf37f1214b12cfa3cf2de" date="2008-04-25 14:38:32"/>
 		<rom name="DATA/SCRIPTS/COCDOOR.INT" size="414" crc="0f63d187" md5="96e4e63dd19b9fd0b4dae845c393fd5d" sha1="fab151571ddc54ea0d2ed855824e8693f14eaa36"/>
-		<rom name="DATA/SCRIPTS/colatruk.int" size="3150" crc="edad7f37" md5="2bdcc8fb21629cdbe7ccbec58a7f3834" sha1="27c5ca9a47bee03f9986d0bb934144e19c17c37d" date="2006-06-27 18:06:02"/>
-		<rom name="DATA/SCRIPTS/command.int" size="2310" crc="66c2af25" md5="88a4bd6de075c03afff2812c76726831" sha1="7bc30978e677cbe087838dbb8a8117fb64c66ae7" date="2006-10-19 01:49:18"/>
-		<rom name="DATA/SCRIPTS/comptrol.int" size="3286" crc="d44b4db6" md5="c2f4dd61ce0d6665232677ed45010b6b" sha1="0f280841904d1058ec038493dc16eb75108b7e96" date="2009-07-30 14:08:46"/>
-		<rom name="DATA/SCRIPTS/cook.int" size="2290" crc="1d0c6bba" md5="f2a516d86e50708b3b8103f6d4984137" sha1="3005bf853374c96ad34c9afe095119d68f965c59" date="2008-01-04 11:18:46"/>
-		<rom name="DATA/SCRIPTS/cougar.int" size="2148" crc="805c1e3e" md5="6e2bc1547ce6d5181f3f4a045ad9dd17" sha1="823c62452f0e007515d71328e54333689d0c4154" date="2005-11-07 13:23:36"/>
-		<rom name="DATA/SCRIPTS/cow.int" size="1474" crc="71b5aa3f" md5="3216588162b5be30218a93751e52a283" sha1="b7fc9018581610884ea8a93fd5f3c0ed83cd392e" date="2008-01-03 15:04:20"/>
-		<rom name="DATA/SCRIPTS/crashrm.int" size="1340" crc="510cc5d1" md5="956812bb41b7390929dc39f09ebc60eb" sha1="5fd693b8162a5ddc2435cbdc6f497cde89f6e0f2" date="2008-01-05 01:46:00"/>
-		<rom name="DATA/SCRIPTS/crvnenmy.int" size="1048" crc="6b1271ab" md5="81ce20e21f3d3cdaf2e167b9f628a3ac" sha1="b1890c96f349d64067d227666de755ba2f6ad814" date="2005-07-21 00:23:56"/>
-		<rom name="DATA/SCRIPTS/crvnmstr.int" size="1064" crc="dca7746c" md5="14712fba1d28da986dca6cf495474767" sha1="42fd3b03b7b58036c932f0c616bcb36dc4c208a3" date="2005-07-21 00:23:56"/>
-		<rom name="DATA/SCRIPTS/crvnteam.int" size="1034" crc="90310231" md5="18346f63f0084e2eceddfe5780412a18" sha1="bb1583c6ba21ed1abc4b82da9427bb3c71a73d94" date="2005-08-13 23:53:56"/>
-		<rom name="DATA/SCRIPTS/Curtis.int" size="4896" crc="48eee847" md5="1dec133ef0f6e6bf34a19e35195fec55" sha1="4e6a53d98889d39d72c79f412dd99b6c4f4b3dd6" date="2008-04-18 11:15:36"/>
-		<rom name="DATA/SCRIPTS/dane.int" size="9372" crc="8ef7a008" md5="562fb1197057fd423224a284b32c682d" sha1="72a2b0463997f8360cf9fc81d6e4bb384d4ce20a" date="2007-08-29 12:45:02"/>
-		<rom name="DATA/SCRIPTS/darrel.int" size="10858" crc="0afeb5c2" md5="1c3b36212c6a0a353766cab0188401de" sha1="fc78ea26dd6f18d4da1bc8f56353a73b6e0b172c" date="2008-01-03 21:04:54"/>
-		<rom name="DATA/SCRIPTS/decker.int" size="9446" crc="643382bf" md5="128182920d55cd10aa626c4343fcf7ad" sha1="8c7db402d1952e46bb07ccc0dee6d9086575e0f9" date="2007-08-28 13:19:32"/>
-		<rom name="DATA/SCRIPTS/demetre.int" size="12774" crc="d6d72063" md5="4be366b41eaedec7bd18cc6c1e6bd6ae" sha1="63ab5e1c26dc0ba63d46a2dd8e3fa2b8555ac0f6" date="2005-07-21 22:48:48"/>
-		<rom name="DATA/SCRIPTS/diana.int" size="5664" crc="2d93002b" md5="0d6d61c004a70321f9b87cc6bfd6fd3b" sha1="217c262114040a0a7a4cb36465c0b98b6eb59c81" date="2008-04-18 11:26:30"/>
-		<rom name="DATA/SCRIPTS/door.int" size="1652" crc="40fd031c" md5="ec4485966a59de2599ec2eafda94545b" sha1="906081be8f0716dd47329738c8728cbcc380cc1d" date="2009-07-29 16:30:32"/>
-		<rom name="DATA/SCRIPTS/doorcode.int" size="352" crc="0d9d9a57" md5="364a4beea875db7655988df03c0b1141" sha1="1480988b479793bcbc426d29538edf6ddda7fadd" date="2005-11-04 18:45:26"/>
-		<rom name="DATA/SCRIPTS/drwhomap.int" size="2594" crc="b359df73" md5="c7a160cf53cc350c14f7a911a564f6d3" sha1="0192e54deef9949d8a41e6189705d082da939c2a" date="2006-06-27 18:06:02"/>
-		<rom name="DATA/SCRIPTS/emiter1a.int" size="1308" crc="6a712c95" md5="e9c36da1c8f2a178abb9e2bb647e8bee" sha1="587557456aa17bd10a06c66f89d0eb3fc195997d" date="2007-08-31 00:12:10"/>
-		<rom name="DATA/SCRIPTS/emiter1b.int" size="1308" crc="61c0bedb" md5="a91e54a0f8227ccff3f3f3c51518b75b" sha1="49473fa1891cd9108331cfc4241797bcdc3c5c94" date="2007-08-31 00:12:12"/>
-		<rom name="DATA/SCRIPTS/emiter1c.int" size="1308" crc="b1818cfa" md5="a79d690a8a3d90a355b0e3d33867619b" sha1="fb28410b8e1807d115a17304ce1e2e39937f7da1" date="2007-08-31 00:12:14"/>
-		<rom name="DATA/SCRIPTS/emiter2a.int" size="1308" crc="5ffcac07" md5="23a80ace3e109878b85e773ab82841e4" sha1="449a11c3b088c4f4bf4b8d5c3936f195a34d1cc7" date="2007-08-31 00:12:16"/>
-		<rom name="DATA/SCRIPTS/emiter2b.int" size="1308" crc="544d3e49" md5="3535e54f59eb856a7545ba598023fcd5" sha1="0b9103770d55c4fdd8cd90a4c6db97eefe23315c" date="2007-08-31 00:12:18"/>
-		<rom name="DATA/SCRIPTS/emiter2c.int" size="1308" crc="b7c63a5b" md5="c7b3173eb0cbab1dd60acdaf84f8d452" sha1="276243d2f74968722612767c411ff94163524a9f" date="2007-08-31 00:12:20"/>
-		<rom name="DATA/SCRIPTS/emiter3a.int" size="1308" crc="b4257fbd" md5="0c84096f6cc9823f2744db97e39eb890" sha1="d080e4b697b119cc078f2c5474fe9e042e5eb74c" date="2007-08-31 00:12:22"/>
-		<rom name="DATA/SCRIPTS/emiter4a.int" size="1308" crc="eecdf8e2" md5="854a4dd949e1471471fdd0b6d8df6527" sha1="c8e91f6e8948c062b514fb6ac93fefa1feb2058d" date="2007-08-31 00:12:24"/>
-		<rom name="DATA/SCRIPTS/emiter5a.int" size="1308" crc="b8a77486" md5="48df8b52c1edf55af447b0021b8536b1" sha1="630fcf045317e3f8eb22b4e6aaf5703fbf941577" date="2007-08-31 00:12:26"/>
-		<rom name="DATA/SCRIPTS/emiter6a.int" size="1308" crc="8d2af414" md5="9678d35ec95c92bc537721eb7718b259" sha1="eccc42871394485cc1fc5aa82442619d86fe5dd9" date="2007-08-31 00:12:28"/>
-		<rom name="DATA/SCRIPTS/femfarmr.int" size="5132" crc="b1bb8c39" md5="28cc7587ceca34db4146732a82f0349f" sha1="515c339b3fe173aa4b4ccbe4da437428400de003" date="2008-01-04 21:36:14"/>
-		<rom name="DATA/SCRIPTS/fgtcarvn.int" size="14110" crc="372768b0" md5="8066073cfabb4c26c27509c02dd72760" sha1="14b04a8ba72edf80dfdf90a95cd02c2548190bfb" date="2005-08-14 12:39:16"/>
-		<rom name="DATA/SCRIPTS/fishrson.int" size="7888" crc="60f36f4a" md5="69346f7d71e0b377306c97c3f49895dc" sha1="8c3022a58f9be044a652a8ad76a9d78ba49e6d52" date="2007-08-28 21:14:38"/>
-		<rom name="DATA/SCRIPTS/flash.int" size="6690" crc="74c8095b" md5="0cbb1ef4fdaf5ca1c762c645a2d3eba1" sha1="e246ac9344db3fdf6d918cc97975608c8664a942" date="2005-11-07 13:23:42"/>
-		<rom name="DATA/SCRIPTS/folinvad.int" size="2150" crc="87a77c40" md5="b9abb006f0ca14b9168110777b2d59e3" sha1="abd10a7dee4ba7a7f5e843ea36b59870ecccc1e1" date="2008-01-03 20:36:22"/>
-		<rom name="DATA/SCRIPTS/footmap.int" size="2622" crc="c2049496" md5="655f6fead47dfa310aefbb884d6872b6" sha1="55e0459a1d590b3aed542e06c44a58d7b92102fa" date="2006-06-27 18:06:02"/>
-		<rom name="DATA/SCRIPTS/forccomp.int" size="564" crc="5a640d8f" md5="61cbf27b10aa423bceff078e995affc2" sha1="5ef4ed64b4f8cf12fff9ba14f6379656a1e170ed" date="2006-10-19 01:49:16"/>
-		<rom name="DATA/SCRIPTS/forcecon.int" size="490" crc="e4631ff7" md5="b29908379ad84fa4935b443f0d590113" sha1="0a366d7370c8599c9eaf5fb227a4b7fa845d9bfc" date="2006-10-19 01:49:16"/>
-		<rom name="DATA/SCRIPTS/fsauser.int" size="2434" crc="0cbe2e94" md5="157b73cdb0da7fb6f4ec15dbd09784ee" sha1="491f515dd357906b428b6d2653fe5719f8b3434e" date="2006-06-27 18:06:04"/>
-		<rom name="DATA/SCRIPTS/gabriel.int" size="8280" crc="bcefa6d1" md5="877a9f35121e93fef31f7581a077062a" sha1="5c6faab519470818c5534a731bfffc52adfb6297" date="2008-08-23 13:42:22"/>
-		<rom name="DATA/SCRIPTS/GARL.int" size="13982" crc="fbd9c72c" md5="e3c7ddfe04eca130157227793447efbf" sha1="7af877e25b530af320ddb4b917d640e81b9d3374" date="2005-07-21 05:50:58"/>
-		<rom name="DATA/SCRIPTS/gary.int" size="1932" crc="51b593d5" md5="e981895d9664739a7ed02b79bbd51a31" sha1="2543afee3c3ac6e0d883c8565fd2fe53ab859a58" date="2006-06-25 20:51:10"/>
-		<rom name="DATA/SCRIPTS/gdoor.int" size="1688" crc="9cd0f661" md5="1efee0b5fc4693e4b0c5d043889bd036" sha1="925e8fe936d44f1f5396cc0774799d6e44dc21c1" date="2009-07-29 16:32:56"/>
-		<rom name="DATA/SCRIPTS/gencop.int" size="5840" crc="511de5d1" md5="603675b6d0e9282b8d2027bcf36e7873" sha1="cd0e1f1df8ee6a33f595f721b99feaa48f099fdc" date="2009-07-29 12:47:12"/>
-		<rom name="DATA/SCRIPTS/gengambl.int" size="3330" crc="487ad81a" md5="04ca2f8757525dd5214b5676ab40642d" sha1="1e35dd2fb9b81f21918d9765317644ab101eac4d" date="2008-01-02 17:33:04"/>
-		<rom name="DATA/SCRIPTS/genmerca.int" size="3232" crc="4e52e3bc" md5="5c4c434af2f9a0a140ef0d21c6fd9af6" sha1="f8260c0bc6bb1ace7a26b119a1b1380ef4d3a9fa" date="2005-08-13 20:44:38"/>
-		<rom name="DATA/SCRIPTS/genpris.int" size="1944" crc="1ca523ca" md5="f18481460f9b849d2040b5cdb745b804" sha1="04a706de9cb54d5468751bf45f0db13b19c6bc98" date="2007-08-28 21:12:56"/>
-		<rom name="DATA/SCRIPTS/genskulz.int" size="4848" crc="6e962949" md5="70000c9466f52d573ba1026f1af6cca2" sha1="78aef134332d1e0edaa6af566b470ea816cc9100" date="2006-10-18 16:39:54"/>
-		<rom name="DATA/SCRIPTS/gensupr.int" size="5560" crc="48185237" md5="e0abba56ceb31110f21bb29c10ce62a9" sha1="69a70486b7eb8e8969bf253f35a3fd614ddcf563" date="2009-07-30 14:08:46"/>
-		<rom name="DATA/SCRIPTS/genvault.int" size="9616" crc="a127e312" md5="29f297fc9c8b55213e99f2b5ba5e6443" sha1="6ba6ca6c7e220b7894a19b676ee7eb4b982185d9" date="2006-03-15 18:33:04"/>
-		<rom name="DATA/SCRIPTS/gizguard.int" size="3528" crc="0d49aac8" md5="e63d4606bc47c55572d57e1af592c339" sha1="f66532d501c15db51c748c0829af0094a50c6e67" date="2008-01-02 17:33:04"/>
-		<rom name="DATA/SCRIPTS/GIZMO.int" size="13128" crc="18a2a141" md5="d0c9d1d9c6fbced41d2dd8a9ce6c2594" sha1="ba97719088c61e8fd17417ad83b6f80b50cdf817" date="2008-01-02 22:44:26"/>
-		<rom name="DATA/SCRIPTS/globldor.int" size="10286" crc="b26de6a5" md5="608fb81a46da80d92250aaf5b1572734" sha1="982836be31160af2ce3d59275bfb03145669c133" date="2007-08-29 00:55:08"/>
-		<rom name="DATA/SCRIPTS/glorddor.int" size="10286" crc="02d5ba33" md5="992319bd5dc29e87e68a40af77754fc2" sha1="953825fa3649727a50abef89f62cd8db3c4ac774" date="2007-08-29 00:55:08"/>
-		<rom name="DATA/SCRIPTS/glowgen.int" size="1088" crc="6c1f7b35" md5="6ebbd13f24cce1872fe61a2bb815df10" sha1="c719cd64dbd37a9e6b5b7769b8ff31dfbc00a5f8" date="2005-08-20 03:11:02"/>
-		<rom name="DATA/SCRIPTS/gloyldor.int" size="10170" crc="fbbc61bb" md5="b6a7dae3de2d14281306d19a5cc0b8da" sha1="63295cbbc62629a0a62cbeb028c57714a809f1ae" date="2007-08-29 00:55:08"/>
-		<rom name="DATA/SCRIPTS/gretch.int" size="6970" crc="0b8ed8ec" md5="fca2693737f692f2e686c77f6ba7776d" sha1="933f1558b494132c4a831238692bd7fc2022b7ce" date="2005-11-07 13:24:20"/>
-		<rom name="DATA/SCRIPTS/grnfarm.int" size="4832" crc="bd8ab225" md5="c5952d0c2eb989a3dfb4337392884a19" sha1="cc39f09793430143c167eddb54a886205fa8719c" date="2008-01-04 21:08:58"/>
-		<rom name="DATA/SCRIPTS/gsenrob.int" size="938" crc="ec108706" md5="2d18a98995a991c08791497a251f330b" sha1="73907b067dfaba30573bd2749af97d5009aee577" date="2008-01-03 15:27:00"/>
-		<rom name="DATA/SCRIPTS/gustofer.int" size="7918" crc="ba6f01f9" md5="6abeeb17de47b3cd26347f9a9dcf13a2" sha1="dd176d510c6461ee28d2ba2406abcfbdb4542417" date="2008-01-02 17:33:02"/>
-		<rom name="DATA/SCRIPTS/gwen.int" size="5574" crc="55f1de16" md5="1f63958d20157cdf5550e7fa612252a9" sha1="13cd6597b6d1cf23cb5c2a7df16b4ae753203601" date="2008-04-25 15:19:42"/>
-		<rom name="DATA/SCRIPTS/hallded1.int" size="4708" crc="7276af54" md5="71d5c6caf4b96e1861a11f822c82d23d" sha1="bfefca615994d51c1815296f5e19305aa65ae1a8" date="2007-08-29 17:39:06"/>
-		<rom name="DATA/SCRIPTS/harry.int" size="12548" crc="600e1d0e" md5="81522e9bbf4ccdd89bd78181bfa4eb2e" sha1="1d91d90b5e01048a4993dbfd23df333e2a897b76" date="2008-01-03 11:14:36"/>
-		<rom name="DATA/SCRIPTS/hbeth.int" size="20016" crc="66c6f437" md5="b994694d984112e4d304fbd12e9d15b2" sha1="1efb28c4d092325343f37b7f0d5abde16e021da7" date="2006-03-05 20:28:10"/>
-		<rom name="DATA/SCRIPTS/hdealer.int" size="6710" crc="96830762" md5="4c81cbaf984af51010f6f21d9c318c77" sha1="13746778706d33ee89ff1ca9f33e61dd5eed5564" date="2005-11-07 13:24:46"/>
-		<rom name="DATA/SCRIPTS/hgenfarm.int" size="4832" crc="098bfa0b" md5="6f0a5cc91027f7b7bc034460ecc55475" sha1="796a8439540d638c6f375a1eba711b92fc851c66" date="2008-01-04 21:12:30"/>
-		<rom name="DATA/SCRIPTS/higheld.int" size="8026" crc="80d7de8d" md5="8afcb0dbe4f51818046a54d1ec0234b3" sha1="37eecf5815e4e553a90c4413d57d41501d566be1" date="2006-10-19 09:43:32"/>
-		<rom name="DATA/SCRIPTS/hord.int" size="786" crc="4cd4f4b0" md5="cca5c84523b964943dd01e240fc8c08e" sha1="d968132b3e793286695691d42cd1238332e506b0" date="2007-08-28 14:19:52"/>
-		<rom name="DATA/SCRIPTS/hotelmap.int" size="3890" crc="969d59c8" md5="31f193debc13ce075ffb50bfc97edb6e" sha1="82fea5dfe01d41f708b6fa449f71ec7789699b3d" date="2007-08-29 17:39:08"/>
-		<rom name="DATA/SCRIPTS/htwrbox.int" size="2958" crc="a240dad3" md5="9a38445a7514ac3962f2dcc07dbd77ff" sha1="966aa5adef01f4611c4519937fa0b64fa2bbe03b" date="2008-01-03 15:34:42"/>
-		<rom name="DATA/SCRIPTS/hubdwntn.int" size="3424" crc="0c5cb57b" md5="bbf34da3a514421ba681954dcc187524" sha1="323556c9fa91ebed29ff187a3c279901372211c4" date="2008-01-03 13:47:54"/>
-		<rom name="DATA/SCRIPTS/hubenctr.int" size="33284" crc="fd00aafc" md5="376393569d321c970b09f0d29d5f8e32" sha1="047a5aa73c43aaa1855b2b7785108c76de1ed98e" date="2005-08-13 10:56:42"/>
-		<rom name="DATA/SCRIPTS/hubjake.int" size="7746" crc="04f98177" md5="cdc9e264a8a51ce2d02dfcd40e931efd" sha1="809dd0a1857eaf5d6bad941a0f237f268254b0bd" date="2006-03-05 20:22:48"/>
-		<rom name="DATA/SCRIPTS/hubmis1.int" size="2810" crc="39b072d0" md5="de51c17b80f403a10cc5276ec3d91e85" sha1="2ff081a6b584a01293d8d5a27d8f053f27649da1" date="2005-11-05 13:39:32"/>
-		<rom name="DATA/SCRIPTS/IAN.int" size="11442" crc="e11d9478" md5="3519d239e8403a3f6b332626cd861ad7" sha1="dd84e4138d4f02f0df2cb178086e775677762f5d" date="2008-04-18 12:39:46"/>
-		<rom name="DATA/SCRIPTS/inblade.int" size="4312" crc="447b6cbb" md5="7ab71f2d988e054d5e9e10341ded1e63" sha1="55aad39dda4d56dda80c8cc571273d5b6a2b3994" date="2005-08-20 03:11:02"/>
-		<rom name="DATA/SCRIPTS/irwin.int" size="5430" crc="1db5d035" md5="d3a7fa92f043684309489633f08cf0b5" sha1="b894e22e092a515abe2b6afd58910cc9fd042712" date="2008-01-03 15:20:18"/>
-		<rom name="DATA/SCRIPTS/ismarc.int" size="7538" crc="512d2fd1" md5="ac1c28bb8179361a433d2c411d1b3885" sha1="152e6640051f2d985b6d2dc9d4bf3fdf9616aafb" date="2006-06-22 22:16:50"/>
-		<rom name="DATA/SCRIPTS/izo.int" size="1926" crc="5c13d18f" md5="1ff95d91675e4db2f735df356aaf2309" sha1="6152a9079f9fbe5545a827f891d46f37cf0fbfd4" date="2008-01-02 22:44:14"/>
-		<rom name="DATA/SCRIPTS/Jarvis.int" size="4014" crc="1fd6ce99" md5="8ca9375459d349400d8c7028d1fa8428" sha1="fc52861e0c8310fbff068d81be6623f3021d70ab" date="2006-04-19 17:55:54"/>
-		<rom name="DATA/SCRIPTS/jboxer.int" size="630" crc="fbc1467a" md5="04a065900ce6f9c15960a38a93f8c703" sha1="4451aa87f4aec193b2c24989630725895405b4f1" date="2005-11-07 14:24:44"/>
-		<rom name="DATA/SCRIPTS/jchidmem.int" size="8778" crc="fb7c80b4" md5="fcf668d94c9fb7da3d492fb580e8455c" sha1="dede0c49290813e72ba2307c10b723cdf38741fc" date="2008-01-03 02:38:34"/>
-		<rom name="DATA/SCRIPTS/john.int" size="7782" crc="c1eccd16" md5="f2222b0f876cf5d76a47b3fc5ce1c5e5" sha1="0cc204446d17c8866eec784759357e74a334cc45" date="2008-01-03 18:14:36"/>
-		<rom name="DATA/SCRIPTS/jon.int" size="8758" crc="a759aea7" md5="bdd4f17a881afed5295173999db7a291" sha1="7943da18de54d661ae16d8942fc7b9d82ddbc5b2" date="2006-03-23 14:37:54"/>
-		<rom name="DATA/SCRIPTS/jtgengrd.int" size="8658" crc="ecfe1fe2" md5="4a37e0e789a0eefdffcb9313ab6833f8" sha1="bf3c41a29f918a27b094db14434061eac9627cc8" date="2006-06-25 22:44:38"/>
-		<rom name="DATA/SCRIPTS/jtraider.int" size="12050" crc="beb7a29d" md5="9c8d90f62f148cee0bbfbf8e25daba45" sha1="c5e490814ad9f021e9720e555786d03f086bf60e" date="2008-01-05 11:53:06"/>
-		<rom name="DATA/SCRIPTS/JUNKCAS.int" size="6598" crc="3e0dc146" md5="94ef082f34e6f7040476deae8bba9936" sha1="b649882239ef40a8db631bb8c6b67db2053c156e" date="2006-10-18 14:19:22"/>
-		<rom name="DATA/SCRIPTS/junkdog.int" size="2170" crc="83ff5021" md5="64f0f62dc62d17671e6d90f5ff8ddebb" sha1="8b8f3fae59d73288968b71b5a90327c43ef21015" date="2008-01-03 01:22:08"/>
+		<rom name="DATA/SCRIPTS/GABRIEL.INT" size="8302" crc="f127f0be" md5="0289e80c7155c2f30395731f841c0c97" sha1="d4423ec86b59d39340630fae0147e7fc2a5d9255"/>
+		<rom name="DATA/SCRIPTS/GIZMO.INT" size="13084" crc="6b7c810a" md5="ff45bc5bf288b02b113a4de9b32b45ad" sha1="9d069dbd773533428448da26898f02640790cc26"/>
+		<rom name="DATA/SCRIPTS/HALLDED1.INT" size="4680" crc="f782a1c8" md5="da1ec2080c453d3ac6ce071f75afe4da" sha1="3eb7e894f85745da659da8cdfce52360537a1cce"/>
+		<rom name="DATA/SCRIPTS/HARRY.INT" size="12388" crc="acc1eb4d" md5="6ecc082cddc1d080361713194f297d89" sha1="89153df1f2c458d8ae8aff52d0327ddcbee39169"/>
+		<rom name="DATA/SCRIPTS/HOTELMAP.INT" size="3864" crc="722dd4ed" md5="8dfc0b62372a012dd410354c2ea2eac8" sha1="d8a484b4de56d9db97eef64e9598d5bd240cb83c"/>
+		<rom name="DATA/SCRIPTS/HUBDWNTN.INT" size="3380" crc="2317abeb" md5="cd3a7819748248e7a40b7504d686b831" sha1="19580731e2e92ba50a784f31a67c45278112463b"/>
+		<rom name="DATA/SCRIPTS/JUNKCAS.INT" size="6502" crc="f5099e45" md5="45089119fde211d22e1966c8743ae476" sha1="3dd8a844aefb4b7a00eeae72cb1b1780ed2a5dcc"/>
 		<rom name="DATA/SCRIPTS/JUNKENT.INT" size="3336" crc="3b1481a6" md5="239973edf9371717bee0ad399cfea197" sha1="d4b727df37eb94d5fa3097281fc205473b6b487c"/>
-		<rom name="DATA/SCRIPTS/junkjail.int" size="1680" crc="167fe600" md5="cedc43c0a487e3a1dc7313bbe8c112c4" sha1="2f7479a0b98649a2428f0d44abe6d33eb3d6e3bc" date="2007-08-28 20:40:36"/>
-		<rom name="DATA/SCRIPTS/JUNKKILL.INT" size="3596" crc="df80166c" md5="17960bf401c13c93c6ed5d16b3f61b97" sha1="fbce2287d1c604d403f5326f4c3d6982ebdeda3a" date="2005-07-19 04:54:10"/>
-		<rom name="DATA/SCRIPTS/junkpeas.int" size="2712" crc="bd2a9dcc" md5="cafb3732aff123b267dfce7cf5ff494c" sha1="cfe5a5ce07f16e0059516ec42c4dc59ed69efcd2" date="2008-01-02 17:33:02"/>
-		<rom name="DATA/SCRIPTS/justin.int" size="10826" crc="2dbccb70" md5="85cd18963712c47cbe39982b4287fbe5" sha1="7897039d0f55f81aa3583fb97da0b67f7a69a1aa" date="2008-01-03 14:03:18"/>
-		<rom name="DATA/SCRIPTS/kane.int" size="24046" crc="3b46260c" md5="82d61685f223df4152f090043470f7e3" sha1="cb73afb1bd8d7f115972ae1d16091cded994e7b3" date="2008-08-23 13:13:34"/>
-		<rom name="DATA/SCRIPTS/KATJA.int" size="9332" crc="8ebe8e40" md5="db6975e2d59d738aa0a84f4fa6906440" sha1="452a3287181550625fc7272e23efe1940049f4ff" date="2008-04-18 12:40:10"/>
-		<rom name="DATA/SCRIPTS/keri.int" size="15890" crc="e4dbdc53" md5="81737821c5d131315771c210ca5f06d6" sha1="606e32000421caf77271d6e4d9aceab48bc8f098" date="2005-07-23 13:31:10"/>
-		<rom name="DATA/SCRIPTS/kildoor1.int" size="1556" crc="d935fa0e" md5="d897f9359535f2001b434484d95f7d92" sha1="c6d7a2579cb78d79eb32a3c0987a7baf861edd8e" date="2008-01-02 20:44:34"/>
-		<rom name="DATA/SCRIPTS/kildoor2.int" size="1690" crc="aedbe688" md5="e145c260dec7b9a2c5db575da10a75f6" sha1="393660f228ffb1307ff843ec8196a3a7e13b3cc7" date="2008-01-02 20:44:34"/>
-		<rom name="DATA/SCRIPTS/KILLIAN.int" size="23256" crc="22b299af" md5="3b23815c70b0b15914e0f5f726741689" sha1="2c552d363c905a18a8770027c2fc54c3d9c0d467" date="2009-07-29 11:42:02"/>
-		<rom name="DATA/SCRIPTS/kyle.int" size="8834" crc="22c97b6f" md5="928869d9ec6b1735b28bddc4c508ea9a" sha1="9098437f6eb9f23cb981af6b5490b3df3f62eea9" date="2008-08-23 14:00:20"/>
-		<rom name="DATA/SCRIPTS/laadytum.int" size="4806" crc="a85ac50d" md5="c42b7df0a754e752f4f5bddc9c957ad9" sha1="6eaa06a51e07205766288bbb45ef455114f60692" date="2006-10-18 16:02:28"/>
-		<rom name="DATA/SCRIPTS/lablades.int" size="3218" crc="fc2a9971" md5="33bb43a5cc8e3a742c6aea447b5fe8f2" sha1="e75cfe08a67497552398d4cf7cb1f826431598ab" date="2006-03-23 14:30:38"/>
-		<rom name="DATA/SCRIPTS/lance.int" size="12784" crc="5739a8f1" md5="78bfa0d3b4ba4a00045b5f7b2b6d57c9" sha1="cd206ffa49a18bfd5f3b4a8f2187ca87016b6794" date="2005-08-14 12:55:06"/>
-		<rom name="DATA/SCRIPTS/laripper.int" size="3890" crc="492a698e" md5="deb08855e521c3102aba72001f4175e6" sha1="40e426886576cf28a6027f525618fc8279bdc087" date="2005-11-06 13:49:26"/>
-		<rom name="DATA/SCRIPTS/larry.int" size="1972" crc="04706c18" md5="7f9df997b7395ac50a6f14377e88aa68" sha1="ccd12c2ea4edc4c85537ad53768644341aebd312" date="2006-06-25 20:51:10"/>
-		<rom name="DATA/SCRIPTS/LARS.int" size="9896" crc="17008991" md5="fc8b7c1888bc7470b582cf5457d818ad" sha1="47eb32d92eb3e8f8be2191f171c74bd7087143ce" date="2008-01-03 14:56:42"/>
-		<rom name="DATA/SCRIPTS/lasher.int" size="10836" crc="26135a86" md5="146b5fc7c2f876b8d47b78e0e99e98cb" sha1="39c5471154cc5fc164b7bb39f3874c10e9181ab2" date="2006-10-18 14:51:46"/>
-		<rom name="DATA/SCRIPTS/lemmy.int" size="11602" crc="14013517" md5="4a43836d870e7f04ce8ae2ab36fb8f91" sha1="04a87e9503b78cca3c40e8368ca6e4fe834a28f8" date="2006-03-05 19:33:22"/>
-		<rom name="DATA/SCRIPTS/lenore.int" size="2226" crc="2edcc676" md5="c5c12a590109451acaae925346ce7331" sha1="829f8f0b93805d3ed208ae4120ad82302d7da69e" date="2005-11-07 13:45:34"/>
-		<rom name="DATA/SCRIPTS/libcomp.int" size="842" crc="9bf93aa8" md5="5cb5d2d0ce9f78c4ae75c40b776ba2e3" sha1="e133e2a8dc1392a3a876f19ad61a5365e894da09" date="2008-01-03 15:06:42"/>
-		<rom name="DATA/SCRIPTS/lt.int" size="14936" crc="bc6b6c1c" md5="f732fb03a9ecb716bc945cd5aedc238e" sha1="c8f8f9c29c4a6bf6e52841142e23d37611b5fc23" date="2008-01-04 01:25:46"/>
-		<rom name="DATA/SCRIPTS/luke.int" size="7618" crc="f1b37072" md5="a91e3c569b781f421c06669b81b43ded" sha1="cb1f968cc766f527ba9b3216cf6835d6ffdf5524" date="2008-01-03 18:14:34"/>
-		<rom name="DATA/SCRIPTS/marcelle.int" size="15030" crc="ae038822" md5="5eff40e13819c864a495f10c0b1620f2" sha1="a403d40384b84aa3d2245c2a7bce368b7d6371f2" date="2008-08-23 10:45:12"/>
-		<rom name="DATA/SCRIPTS/master.int" size="12656" crc="8615510b" md5="f2f95cfa59f34c809c09827808f57fef" sha1="1e485a76630ab07e38997f5683f6c565d14e6708" date="2008-01-03 19:52:52"/>
-		<rom name="DATA/SCRIPTS/master1.int" size="3526" crc="ceb4185a" md5="b27652b84a80d7b183a839d27f2ea229" sha1="d1cd261bac99d2502ab5d7f71adbafa3f8e31059" date="2006-10-18 21:20:12"/>
-		<rom name="DATA/SCRIPTS/master2.int" size="5020" crc="6733d5e8" md5="ad612f820a05ec3152f418a1584bf588" sha1="a4ad2bb5b31d8aadf8e561da189743582bef233d" date="2008-01-03 19:14:46"/>
-		<rom name="DATA/SCRIPTS/maxson.int" size="11056" crc="7bede480" md5="1b35125f7ed51e8d6d7db121f4245153" sha1="58ef1e8f82657a4402402092e84727073399b016" date="2006-10-18 21:03:38"/>
-		<rom name="DATA/SCRIPTS/mbout2in.int" size="1608" crc="2a3bc7b0" md5="29762c4ac14677ab50ec8effc0ed17ea" sha1="1e981eb64d4f22eb3dc6a3aa6cc6ddde380e99e9" date="2005-11-04 18:45:28"/>
-		<rom name="DATA/SCRIPTS/mbvats.int" size="4358" crc="a548202b" md5="35396a0e38c64e2a29987a7b09b78fb8" sha1="2786e53cea025d071db730cdbfb2aed4db1b9fc6" date="2008-01-03 10:37:18"/>
-		<rom name="DATA/SCRIPTS/michael.int" size="18728" crc="a92a80c8" md5="cdd24de5846553f6f2bb0f709f4f58c5" sha1="1f7e1a1045c2cff7ac75e8938e0ec7eee91d5ae0" date="2007-08-31 00:24:20"/>
-		<rom name="DATA/SCRIPTS/moatgrd.int" size="5048" crc="12e1b68d" md5="9f68d3eadab68aecc33095173b17be11" sha1="d8f1eb73fd2ca0f89ca4d11f95328844f70ad328" date="2008-01-04 01:51:44"/>
-		<rom name="DATA/SCRIPTS/morbid.int" size="16304" crc="eb1c2faa" md5="1c660c6c11c3df00d78dec7fbc7fb17b" sha1="a8060c4e0a175af9f290182767de1de110c5fee2" date="2008-04-25 13:37:28"/>
-		<rom name="DATA/SCRIPTS/morph.int" size="14914" crc="cdc55aa4" md5="505daff556dcca92d3b3fd9b4b5d7d0f" sha1="2cad5d9bdad83fa06ae4d0e404e076229c084e97" date="2008-01-03 19:45:12"/>
-		<rom name="DATA/SCRIPTS/mrhandya.int" size="1766" crc="d611b819" md5="4f3023862f0211ec6352549dce6ea2a8" sha1="cb42b47a34f9581c68359200b7844cdb30f7a6ae" date="2006-06-30 14:57:12"/>
-		<rom name="DATA/SCRIPTS/mrhandyb.int" size="1294" crc="b9b6b5a0" md5="2e5d0b85292b6802aa711f72682978aa" sha1="6240dbd8978c452b905d10cfa66fc4bf6af74b14" date="2006-06-30 14:57:14"/>
-		<rom name="DATA/SCRIPTS/mstmerch.int" size="8310" crc="63d72e77" md5="73585d496019250f2447b91b64e4774f" sha1="609a8cb2504c3c914d0fe7827d1e3e6f0784d757" date="2008-01-03 14:32:42"/>
-		<rom name="DATA/SCRIPTS/neal.int" size="11082" crc="b937ab43" md5="bd083785920e539e20a6608abdfe29eb" sha1="5fd6a9106c8441f840818e9551ef74fa6b2f785c" date="2009-07-29 15:01:06"/>
+		<rom name="DATA/SCRIPTS/KILLIAN.INT" size="22916" crc="0bd5791f" md5="f2406860950c14697ec55db8bdf0b859" sha1="a0330611fcea2d7fb667736bc864180e83f52d99"/>
+		<rom name="DATA/SCRIPTS/LARIPPER.INT" size="3864" crc="fdaa4f6b" md5="29902d4ab55a607e0fce2599327ff62d" sha1="37082daad8adb199c990ca7a24e320ec5611289a"/>
+		<rom name="DATA/SCRIPTS/LARS.INT" size="9778" crc="2d94e0d2" md5="9f81933a2c26a8b3afa9acabb247e194" sha1="cb7ee4e374b2725e7472f5a2eae50bf845cf8512"/>
+		<rom name="DATA/SCRIPTS/MASTER1.INT" size="3504" crc="7d08bc9d" md5="ee15e3b8625976309cea98d43acc630c" sha1="5577c1dd6e02c2fa03d4bb14fd0812dd23972929"/>
+		<rom name="DATA/SCRIPTS/MASTER2.INT" size="4974" crc="13505a7b" md5="a95e9522dd7011a68dcf7c37e0888533" sha1="2cc5b98ac7cdd4be013db76a48fa9df2e3e62038"/>
+		<rom name="DATA/SCRIPTS/MORPH.INT" size="14846" crc="6d77d887" md5="fec8074a2c99c51f690bf4dfcf68a60e" sha1="ba9634fd4141a3f4a386792e65fee36eb979abdb"/>
+		<rom name="DATA/SCRIPTS/MSTMERCH.INT" size="7906" crc="ed5d9e83" md5="54d7d05ccfb24da072c1e16a64573f10" sha1="9ebaf7c273b61f56146882aa34304167db3697db"/>
 		<rom name="DATA/SCRIPTS/NH2OPUMP.INT" size="1400" crc="0750c80b" md5="f9f6b0b818db4443b0873e5c0bfa8e13" sha1="a0d8b912047ddaa4614dce8f8a48d46684c8d841"/>
-		<rom name="DATA/SCRIPTS/nicole.int" size="10524" crc="c1fdb624" md5="192f1fed9de545d8c53f70d3d49dec71" sha1="bfe3235ed4467646c9d476d69a1079c32497a034" date="2008-08-23 13:34:06"/>
-		<rom name="DATA/SCRIPTS/officer.int" size="8198" crc="0bfe6c74" md5="752bac094dc2e8096ade22eef362e701" sha1="fc10de465351e250396e27752002c30b29e66c49" date="2007-08-29 17:13:48"/>
-		<rom name="DATA/SCRIPTS/OVER.int" size="16028" crc="65f9d2dd" md5="a39380769fb9350fe91eec3fa6d99852" sha1="7226dff7d563a83efe8cc1b9aabcdb849b91a67f" date="2008-04-25 13:08:08"/>
-		<rom name="DATA/SCRIPTS/patrick.int" size="5498" crc="0fcd4454" md5="a756e0f188284e7d61c7c2321eb8c40c" sha1="0516d6a2df2d3ca13ebfa86231067b8d0036c9eb" date="2009-07-29 11:49:22"/>
-		<rom name="DATA/SCRIPTS/peasantc.int" size="4904" crc="f4073451" md5="ce4b1d6f19d652067005ef403a34b375" sha1="a478b044c09a157e9208a4ccba17ca8753df7103" date="2008-01-03 02:41:28"/>
-		<rom name="DATA/SCRIPTS/PEASVICT.int" size="2224" crc="f67968f5" md5="3df8f457aa27c260304c91f1cf166f3b" sha1="3e92820884badebf25421ddca3fdaa71ea504490" date="2008-04-18 15:53:06"/>
-		<rom name="DATA/SCRIPTS/pguard.int" size="2090" crc="3f63706f" md5="1d1d5af0e78d8c93573d3350d112fe5e" sha1="733d21f9e8986dee8cf97297da846c4950122230" date="2008-04-22 11:58:36"/>
-		<rom name="DATA/SCRIPTS/phil.int" size="6034" crc="81b88abf" md5="bdb200e0948ef1cb1b61c60eefd0606b" sha1="4595342091992502d8d478ca755b78d5f7f20067" date="2005-11-07 13:44:36"/>
-		<rom name="DATA/SCRIPTS/powermut.int" size="1232" crc="d0ef49ff" md5="d3cfadec312681a6ccf7c73a15cf8abb" sha1="5ef084b33cf1c49431b84606079f5f8d11e128d1" date="2008-01-03 22:08:38"/>
 		<rom name="DATA/SCRIPTS/RAIDMAP.INT" size="3626" crc="c1af9fe9" md5="b1a0989a9071d6f74c0ba6e66608d7d4" sha1="24ffc3e5bbfd132526cfba008906fa141d6de8ce"/>
-		<rom name="DATA/SCRIPTS/razlo.int" size="16258" crc="8c692cf6" md5="ce4eca0a0619ade5c6693197ff2c7b3f" sha1="4f8f7de908bca532ddf89747470be48f73a9659c" date="2007-08-28 13:40:58"/>
-		<rom name="DATA/SCRIPTS/razor.int" size="11974" crc="4c66ff3f" md5="f15ab5ad7b43ca7aedc4e8f28cdb7394" sha1="7a85b81257f3d2cf2394a3d73176ad94ec4e3ac8" date="2007-08-29 12:16:36"/>
-		<rom name="DATA/SCRIPTS/RD1INIT.int" size="4960" crc="08febb17" md5="ab7f66730220b904e4fe3267fe5761e6" sha1="45689bd2fa28d36e2762e29fd1d74ae911f49d1d" date="2009-08-06 21:18:44"/>
-		<rom name="DATA/SCRIPTS/redfarm.int" size="4832" crc="4d204924" md5="bf042a83f592baba8dc28def4b0a52ad" sha1="6eb3456e959e163a0b57b3d66873433ba665b067" date="2008-01-04 21:13:10"/>
-		<rom name="DATA/SCRIPTS/rhombus.int" size="14890" crc="9beb8062" md5="19e8d7e8bece85fe1cbbc9295bef9b3e" sha1="41de42519effb9e8b8739196f7f9531e63cb9d96" date="2007-08-29 10:11:06"/>
+		<rom name="DATA/SCRIPTS/RAZOR.INT" size="11652" crc="76dd3c04" md5="f3c8ee192adeda267f2c8e8be7610b24" sha1="eb35df04c8042e06e81751a00e4e0d4476c21f70"/>
 		<rom name="DATA/SCRIPTS/RHOMDOOR.INT" size="1428" crc="3364dcdf" md5="300e674b095b4381662a0e56a88dac6e" sha1="56daa6fb20956dfa7d67063a55b4e8f6a2d5814b"/>
-		<rom name="DATA/SCRIPTS/rndcity.int" size="16434" crc="a1a96c81" md5="a1802740396fd87d41c80daa1c7837b3" sha1="a5f7dc4d38430a13b0d125ab7b36a359afc26bfa" date="2008-04-27 19:31:20"/>
-		<rom name="DATA/SCRIPTS/rnddesrt.int" size="104962" crc="bb5cc3a4" md5="cccbeabac653a0a261f74a39458c1168" sha1="c222feb52e23413ec4875e10c7d740509d4175ba" date="2008-04-27 19:31:20"/>
-		<rom name="DATA/SCRIPTS/rndmtn.int" size="25198" crc="94970489" md5="76e12149cc08575024678b48e3bfc117" sha1="b9b4202070e2dcf18b1a879270672c58418bce4b" date="2007-08-28 18:28:06"/>
-		<rom name="DATA/SCRIPTS/robctrl.int" size="6744" crc="369ba584" md5="5ab3ad08f423d7feca4822d69e1d18c3" sha1="c411fa7a87d7fd12485c214175b3a3eca515f10c" date="2008-01-03 15:33:36"/>
-		<rom name="DATA/SCRIPTS/rutger.int" size="19846" crc="6d201265" md5="8a325d1fe50f7a425740966dd41fae8b" sha1="ff8ae6320a51fe8004b9840499001dac3c810904" date="2005-07-22 12:00:06"/>
-		<rom name="DATA/SCRIPTS/sally.int" size="1598" crc="13735448" md5="bf5946aeb40ff900e44ee70d9f0eb7bc" sha1="5e52d48ae1b1d6016dfa33d4a432791b9703acd4" date="2006-06-25 20:51:10"/>
-		<rom name="DATA/SCRIPTS/sarah.int" size="4868" crc="35dfc3f6" md5="411909360d65ead637109977e40c74b9" sha1="3351ffa623227b77eed1cc4869d8296c8d2d4072" date="2008-04-27 10:36:22"/>
-		<rom name="DATA/SCRIPTS/SAUL.int" size="12718" crc="dfaf1357" md5="27d2379a6b9ed70c5591b721b9736b05" sha1="07c059bf253c0886c331e59cbc057df418367a01" date="2006-10-19 12:27:42"/>
-		<rom name="DATA/SCRIPTS/SCRIPTS.LST" size="106160" crc="79229df9" md5="16bd3a5ee3f2f1009c70b9f57c32ee1c" sha1="62a1e37df1a5ac3b7c927271ad1e4e4b48a0c245" date="2008-01-03 15:31:48"/>
-		<rom name="DATA/SCRIPTS/secdoor.int" size="1712" crc="481aeee3" md5="10522c3313f47575f79db1f6bb281439" sha1="1d890f2f804532909aa94c2d2beb2d435efb7933" date="2007-08-29 17:14:08"/>
-		<rom name="DATA/SCRIPTS/set.int" size="19062" crc="14cb6c62" md5="8568f35a34a56ada95b425d6da837228" sha1="d26f3636f4d2314bb9a850c1b4f20936382ac154" date="2005-01-31 21:15:08"/>
-		<rom name="DATA/SCRIPTS/setdoor.int" size="5124" crc="ce5cabb3" md5="c79d5beaf1ff6a5d4de3fb76f8ef41f2" sha1="dca70051f29df3451c560eef520dc749ffa32565" date="2007-08-29 00:19:38"/>
-		<rom name="DATA/SCRIPTS/seth.int" size="10292" crc="4e2c7d05" md5="f4296eff76d7be9c2aac3687e90e1e57" sha1="9e1e33304acc6c704289cc410238416746f983b0" date="2009-08-09 19:51:36"/>
-		<rom name="DATA/SCRIPTS/shark.int" size="7306" crc="90bb1042" md5="bc0f41457d4add492f3b032b859bb61c" sha1="341718613f8ca4a9154af66db684bd699134d14d" date="2005-11-07 13:27:26"/>
-		<rom name="DATA/SCRIPTS/sherry.int" size="9922" crc="5e88f850" md5="6adc47fdceae6d577750947e38628a01" sha1="158c828b8b100cd05508cd18cfb239834b39b7df" date="2006-06-27 15:30:22"/>
-		<rom name="DATA/SCRIPTS/sinthia.int" size="10920" crc="81b7bb2a" md5="835300a31a6b03917c132ac0a30fbe04" sha1="24c994ec320122425539e9ab9eeebf4402eceac1" date="2008-01-05 11:53:12"/>
-		<rom name="DATA/SCRIPTS/skumdoor.int" size="1996" crc="87e10f8b" md5="7f361bce47b1a5110ae17fbe821f2aaa" sha1="f582e53662eb3535c643ecc39e12ea819006956b" date="2009-07-29 15:01:04"/>
-		<rom name="DATA/SCRIPTS/SLAPPY.int" size="5836" crc="63f716f3" md5="5e6e0ca4ccd1df1c9d1a7c653e1f2365" sha1="641d994a8eb6289420b3afba189cd9c3d86ce93f" date="2005-07-28 22:21:46"/>
-		<rom name="DATA/SCRIPTS/smitty.int" size="6300" crc="23b14bff" md5="be5dbe5c238ea8ea827f3248701c5c71" sha1="e9e0a36558420716a9bb538795ae3bbcc8d996bf" date="2008-04-25 14:24:44"/>
-		<rom name="DATA/SCRIPTS/SSGUIDE.int" size="7926" crc="0462d48b" md5="40e1a8662c0b654bdf34fd2c1428c3c3" sha1="ca5ee111963740d4c763ef1e3920f3f4202022fa" date="2008-04-25 14:46:52"/>
-		<rom name="DATA/SCRIPTS/ssradsco.int" size="1284" crc="8dbdf837" md5="834481aaa70521b77613c034f9d4d850" sha1="c9e1bdae5cec15bb5d90fa3b5df14129f508b334" date="2006-03-19 14:47:36"/>
-		<rom name="DATA/SCRIPTS/stapbox.int" size="280" crc="b131e4a0" md5="8027d219a58ee7a9423722388e237a23" sha1="e5e91550aefd33a0254c504b5383a76fdca3719b" date="2006-03-19 16:37:58"/>
-		<rom name="DATA/SCRIPTS/staple.int" size="8072" crc="44ba8ac3" md5="da930fef70d368b4dfbe3855ce964ce9" sha1="8a80daec78582062eca8bd12204e0b29b6eeac3e" date="2008-01-02 16:53:20"/>
-		<rom name="DATA/SCRIPTS/talius.int" size="8558" crc="c988936e" md5="0c683451e9e69d4bfbb0a5009d699f32" sha1="8f4f573395b5ffe43eb772e99086072352f4646a" date="2008-01-03 15:36:14"/>
-		<rom name="DATA/SCRIPTS/talkcows.int" size="2622" crc="246c8a35" md5="4ec444310e43c3e3a767727c903367ce" sha1="7352086eebad33bdc04f8966228289e4030be5b3" date="2006-06-27 18:06:04"/>
-		<rom name="DATA/SCRIPTS/talus.int" size="14056" crc="4c05b2fa" md5="06be44a9e4fd153422a4cba1962f75be" sha1="782d0f0405292eebb013dff79d031e8a2ff34294" date="2007-08-29 11:08:10"/>
-		<rom name="DATA/SCRIPTS/tandi.int" size="14878" crc="9b5e0bc2" md5="7792cfcd59032e6a4be072434d125930" sha1="22febfeebf1fad0a9b6ce6ae22b9ce9eb7f4f22b" date="2006-03-23 13:40:46"/>
-		<rom name="DATA/SCRIPTS/term1.int" size="1044" crc="68a7cc2a" md5="c7d35c0bb6ac297a0d10e75c15bb0f4a" sha1="ffe03463957732d1846ecf5816d9699ab5404046" date="2007-08-29 10:35:02"/>
-		<rom name="DATA/SCRIPTS/terry.int" size="2288" crc="57e0f5ca" md5="ca2019a7f62ffbcafad6227d51c3bba1" sha1="dd5f9c548cd18d508088fd20f65605ac7e01fd84" date="2006-06-25 20:51:12"/>
-		<rom name="DATA/SCRIPTS/tguard.int" size="8016" crc="3f23ad23" md5="aeac0425fb94a863ef2a0b2147748fd2" sha1="4ac5a1fe7ebdc183d0d42c1a2c38f4c958dfdb9f" date="2008-08-23 19:25:36"/>
-		<rom name="DATA/SCRIPTS/thfu2d.int" size="314" crc="2d237c5b" md5="a0c637d3e4dbded4bb7238ce97b84b96" sha1="8a74acffe496698fc262d51602e8b111a0fb93ec" date="2006-10-18 15:54:04"/>
-		<rom name="DATA/SCRIPTS/toggle.int" size="544" crc="49d07903" md5="295270c3b70d732114b9bb3e1f22c13e" sha1="18e6d982c3874b16cb352abe071ca059375fdfa3" date="2009-07-30 15:44:40"/>
-		<rom name="DATA/SCRIPTS/TOLYA.int" size="5848" crc="dd9b4e75" md5="ae0fea1b080d6b53fb6f2e54268c2049" sha1="2ad534fb28f0f1781cb90a12633624ed17cabfc8" date="2009-08-06 21:03:34"/>
-		<rom name="DATA/SCRIPTS/trent.int" size="8294" crc="f6216894" md5="03d6b75d02acd73d81c52f984199a799" sha1="05f3c7243fd1a6b11b10a2335c2fdec91e69c4cf" date="2007-08-28 21:44:44"/>
-		<rom name="DATA/SCRIPTS/trish.int" size="10908" crc="5498d5ea" md5="69a4c52cece50f84d8a5b42ea5fa4a6a" sha1="60141d8ea2dbf27239038d35aff1fbcea78cf0bd" date="2009-07-29 10:31:30"/>
-		<rom name="DATA/SCRIPTS/TYCHO.int" size="14092" crc="03b3b008" md5="8210b958ebefb2a7c41bd941e062091f" sha1="57cabdcd17b632ee1013a016a13402576c40e9ac" date="2009-07-30 16:12:54"/>
-		<rom name="DATA/SCRIPTS/usedcar.int" size="2528" crc="ea7b6014" md5="90faf985def3ad9a93d33ac74995111a" sha1="e0d1a2d348b133c7cedfa90c9052ce1d853e9087" date="2006-06-27 18:22:02"/>
-		<rom name="DATA/SCRIPTS/v13cave.int" size="8658" crc="5de8b928" md5="b2d884120951e99f6c9ba5adc19cb30f" sha1="ff7c7afbfe7671a2d8703cf1a02fae66336474a9" date="2005-11-05 13:14:38"/>
-		<rom name="DATA/SCRIPTS/vance.int" size="7254" crc="c1cb5f7d" md5="b2203fefac626a16ff8776b8b64d6281" sha1="e2780e3308ebe6c6a6d0bc15c6ad854989bd28fc" date="2005-11-06 14:17:38"/>
-		<rom name="DATA/SCRIPTS/vconcomp.int" size="8376" crc="44c482e8" md5="716e03ca48c8c20282a1b329e5a9833a" sha1="76818649a7c5843054bd4a2a9ae84fe8106276dd" date="2008-04-25 15:35:58"/>
-		<rom name="DATA/SCRIPTS/vdoormut.int" size="5406" crc="cf3630d2" md5="0c3be90578b8b1c05dbc2eb5c98d21d0" sha1="fdd42d6b335883e3cf13c13ce9a27642038c542a" date="2009-07-30 14:07:10"/>
-		<rom name="DATA/SCRIPTS/vfencemt.int" size="5910" crc="e236242c" md5="d8d2f6bc23609242e0433795a5b66b71" sha1="bcdc978a0c13121482f1b38400e3f1cb2021407b" date="2009-07-30 14:07:12"/>
-		<rom name="DATA/SCRIPTS/vgatemut.int" size="5972" crc="08e13dc9" md5="55a44c62710e8a3ad8a211aeedfb25fa" sha1="1ade11e3324da1aa0efdc8aea02e77f05bb33f96" date="2009-07-30 14:07:46"/>
-		<rom name="DATA/SCRIPTS/victor.int" size="3718" crc="d75c76f5" md5="80d99eda3a5848afb8983799494923ff" sha1="118182198780318111ba223c3ec04fa31d344c7c" date="2005-11-07 13:29:48"/>
-		<rom name="DATA/SCRIPTS/vinnie.int" size="7006" crc="14000bfc" md5="80c2348fd201dc67a503c5df9f10bcab" sha1="66313023c33c9e0da1cc3dd163964a311b699541" date="2006-04-19 17:29:16"/>
-		<rom name="DATA/SCRIPTS/vplotmut.int" size="6044" crc="8997a5ea" md5="c8905ef19c33833eb81f519a25f2ae9b" sha1="8ab00dd0cefa6ef08ae34aadb0a4cc401cd918e5" date="2009-07-30 14:08:18"/>
-		<rom name="DATA/SCRIPTS/vree.int" size="12478" crc="f147d08d" md5="9e87c508e86025633ec9c7a00af6d5aa" sha1="6628d9c062a1b2432a55b5e26745c8140eac9184" date="2007-08-29 10:36:52"/>
-		<rom name="DATA/SCRIPTS/vteam1.int" size="5924" crc="3b5615bf" md5="eca9b1ecf2ffa0040a9797ed6b0ffecf" sha1="5376376fd6d86d646657e8d3192673be50c44ed3" date="2009-07-30 14:08:48"/>
-		<rom name="DATA/SCRIPTS/vteam2.int" size="5400" crc="0b0bef60" md5="9cb8449513784dd91838a9c94dfee01c" sha1="1532b5479365ba19aa2886d367c945dcd60aa280" date="2009-07-30 14:08:28"/>
-		<rom name="DATA/SCRIPTS/vteam3.int" size="6076" crc="26679eed" md5="3c2b4bbf5a40f4d67dfabdd6969328c0" sha1="48c9fda943ef33b69609a4b046a094755eead0ca" date="2009-07-30 14:35:02"/>
-		<rom name="DATA/SCRIPTS/vteam4.int" size="6642" crc="a2db202a" md5="be7d2c5a6c5894f4847041270b744036" sha1="cd2b8f9101d26428689c4a7dfb224f1013832662" date="2009-07-30 14:35:28"/>
-		<rom name="DATA/SCRIPTS/vteam7.int" size="5954" crc="68dc764c" md5="39933b1749bfa4e3d19ecb7d54387d55" sha1="df3907d7f4dfd48d43af7e7ae253fec01d41172e" date="2009-07-30 14:08:28"/>
-		<rom name="DATA/SCRIPTS/vteam8.int" size="5428" crc="a9dedfad" md5="ee1ce831bb88b6df39b1a5a4763a6914" sha1="6fbc012a0d3070493f07a22fa1ec16caa9af6c01" date="2009-07-30 14:08:30"/>
-		<rom name="DATA/SCRIPTS/watrshed.int" size="4274" crc="f965de7a" md5="0aa84155a6ae813017116ff8181e84ee" sha1="302c5bef647a49bfb2bfedac76725a991e7094f2" date="2007-08-29 17:39:08"/>
-		<rom name="DATA/SCRIPTS/wmcarvn.int" size="13854" crc="0c32984d" md5="ad1c97a80413e0df7783233bac1cb549" sha1="b1501a31c8fce640f33c1db860f73c8928e951bc" date="2005-08-14 12:39:32"/>
-		<rom name="DATA/SCRIPTS/wtrgrd.int" size="7134" crc="93e64551" md5="34bed46f5ae7ea338495b8e95a5eed72" sha1="e27636b5b5ea9941f1d31f911c478e34335a4d00" date="2005-10-03 04:17:30"/>
-		<rom name="DATA/SCRIPTS/wtrthief.int" size="7912" crc="c1df546a" md5="15a50afd36476257049f04539befe0a8" sha1="cc9ad58e8b9c3475d242ecdcbd0e8543aff2eea3" date="2009-07-30 10:36:14"/>
-		<rom name="DATA/SCRIPTS/zack.int" size="5730" crc="4e9bae9d" md5="2963b8f5ed68e530f2052c2650a1b147" sha1="af9bcb1263b2b78ff463a1d8fa98907a6c6ca793" date="2008-01-04 01:55:04"/>
-		<rom name="DATA/SCRIPTS/zark.int" size="18814" crc="c1c8c7ac" md5="cc950604315e576460902a86369bf493" sha1="3f6ed6c4f5db07688b3a7061f88bdfc1772116b3" date="2008-01-04 11:41:34"/>
-		<rom name="DATA/SCRIPTS/zax.int" size="14388" crc="5d71fa2d" md5="a558041e69d58f701e91275cb32a2273" sha1="a7b4906824d13f14fc85e4fc4b786a34fea8b1f1" date="2009-07-29 10:38:58"/>
+		<rom name="DATA/SCRIPTS/SLAPPY.INT" size="5738" crc="f4c1b151" md5="ad3862bfb947832369035eaec6659534" sha1="5ff903b4f82c58a20764cbc482687a064a6d7a52"/>
+		<rom name="DATA/SCRIPTS/TANDI.INT" size="14484" crc="43a14922" md5="b99b49c38abbdead3b94b3e2f310b470" sha1="eb4e126f7d46e7164b14230fb00c19c7fb12e629"/>
+		<rom name="DATA/SCRIPTS/V13CAVE.INT" size="8638" crc="4dee0194" md5="2e9226ff05cd0fc8fc45a2204743401e" sha1="c5de2463fe2c08c80b3988490b73f62993edd09b"/>
 		<rom name="DATA/SOUND/MUSIC/01HUB.ACM" size="5271351" crc="cddaebae" md5="ce646702e749d1bd8de0537bb112d026" sha1="999c8a543704aba788b65126e495ff8b09a79fbc"/>
 		<rom name="DATA/SOUND/MUSIC/02MSTRLR.ACM" size="4061386" crc="35e90feb" md5="b1c749fad31572fe37ed70230e95b970" sha1="934f590af10f1eeba483d010a6a6ffe5fc3a1ca3"/>
 		<rom name="DATA/SOUND/MUSIC/03WRLDMP.ACM" size="3939405" crc="c67bcf3e" md5="07fe0a0351e778e3e8df5313649b8c25" sha1="875e6062113bf587329649b71fcffc5a7364ce39"/>
@@ -1214,38 +985,23 @@
 		<rom name="DATA/SOUND/MUSIC/MAYBE.ACM" size="3692533" crc="00d4cf9b" md5="868b8374e6b2a0c07fbbaac4bace618a" sha1="2bf39455423a350c1b4ea125de535dfd424aef25"/>
 		<rom name="DATA/SOUND/MUSIC/WIND1.ACM" size="136918" crc="e392102e" md5="4a78f754004a7802c3a6e7e22f63d5f2" sha1="8bb59d638c05fa9b131256cf8f5c3a594365effd"/>
 		<rom name="DATA/SOUND/MUSIC/WIND2.ACM" size="120544" crc="07cd3f89" md5="6697ea9a4fa5a18600a72a65ef1e1ea5" sha1="0a8881d3b9ee1fd89f8797e8f44ff9079f29a281"/>
-		<rom name="DATA/TEXT/ENGLISH/DIALOG/CARVLEAD.MSG" size="4149" crc="097c240f" md5="cebe224426c2fc038672934c095f49d6" sha1="a0a2fd56cf0d1ac2d757d07f29113628c4462f62" date="2006-10-22 20:23:48"/>
-		<rom name="DATA/TEXT/ENGLISH/DIALOG/crvnteam.msg" size="301" crc="3e08e5b1" md5="f20d64e52597d2432e7f7b6312716a96" sha1="7fe134361ec8a32ad514cb080ec0e1dd1359fc1e" date="2006-10-22 20:23:50"/>
-		<rom name="DATA/TEXT/ENGLISH/DIALOG/IAN.MSG" size="11887" crc="a7187403" md5="0260834ff67548c790cea3851bde2e0d" sha1="edc91223bfa31df2e5f435d2cf6fdcbbf21ff7d3" date="2006-10-22 18:10:18"/>
-		<rom name="DATA/TEXT/ENGLISH/DIALOG/KATJA.MSG" size="12963" crc="6df3c84c" md5="a3f88f146a8facf22c55f8f82ad088d0" sha1="8ac130dfb7a17817cbf6eba54170747a9e8df2bb" date="2006-10-22 18:10:18"/>
-		<rom name="DATA/TEXT/ENGLISH/DIALOG/MICHAEL.MSG" size="14695" crc="ea6b5ed4" md5="41b80e2831cf5607002c8a0af8ee0936" sha1="b286b693641d171059b8331bcc404e7f9581d573" date="2007-08-31 00:22:30"/>
-		<rom name="DATA/TEXT/ENGLISH/DIALOG/MSTMERCH.MSG" size="4880" crc="cbd857f1" md5="d96b94c3a84d5b8395715aad180fd05f" sha1="4037cc3a78e05e83c50032f23f380fa07adb86fa" date="2006-10-22 18:24:44"/>
-		<rom name="DATA/TEXT/ENGLISH/DIALOG/NICOLE.MSG" size="18221" crc="b22e5158" md5="b11213856300b939df0b0129fafa2ce2" sha1="22531d987c799d466080da0b94e48eb41adccd13" date="2006-10-22 18:31:44"/>
-		<rom name="DATA/TEXT/ENGLISH/DIALOG/OBJ_DUDE.MSG" size="51730" crc="08cc7ce7" md5="a52ed4639b27698826ff1bff51020a1d" sha1="f74db18a83eb3aec8745f7b2e3c35c22c06d947e" date="2008-03-08 02:51:46"/>
-		<rom name="DATA/TEXT/ENGLISH/DIALOG/RAZOR.MSG" size="10150" crc="471c6a6f" md5="0a6f0a447ae0322301aae9844b9d70ff" sha1="ddccf7276ac612b5c279a5be97ab3f4899b00b51" date="2006-10-22 20:24:00"/>
-		<rom name="DATA/TEXT/ENGLISH/DIALOG/TANDI.MSG" size="11328" crc="61737d85" md5="6b369396271e04de9fd0f225490e8250" sha1="f9be856768ebe9ccc17ac712082c19fec4f3c9b0" date="2006-10-22 20:24:04"/>
-		<rom name="DATA/TEXT/ENGLISH/DIALOG/TYCHO.MSG" size="12972" crc="f7bb0ede" md5="3100d253944616eb6f63981e0bfa489e" sha1="e0c7f8392f121b52e53d81fb2176752657a60b17" date="2006-10-22 18:10:18"/>
-		<rom name="DATA/TEXT/ENGLISH/GAME/combat.msg" size="29754" crc="6ac10c9a" md5="dca3aca951bc8e56b6746913d6d99284" sha1="638f591bfb8111f2b8d8ba8685f12a3175752ce0" date="2005-01-01 02:10:28"/>
-		<rom name="DATA/TEXT/ENGLISH/GAME/COMBATAI.MSG" size="170927" crc="6e370c66" md5="e5431277aeec46b3e9e25bfc1016b2ef" sha1="d5cd084c40c2c5cad63e9674778ed4abcf87ef16" date="2008-04-18 11:00:34"/>
+		<rom name="DATA/TEXT/ENGLISH/DIALOG/RAZOR.MSG" size="9829" crc="84c4b5b0" md5="0c76af1922db5cfd5de3ff9e98255923" sha1="d0703fdf4afb319cda02d0e723855deec9e2cd7f"/>
+		<rom name="DATA/TEXT/ENGLISH/GAME/COMBAT.MSG" size="27619" crc="509b555e" md5="06957df8685e68201a1465febd4466c6" sha1="45b1c4dc26b223af67565240caf065ba0ff1f655"/>
 		<rom name="DATA/TEXT/ENGLISH/GAME/LSGAME.MSG" size="1497" crc="b9c585fc" md5="9d6989bbff30af468ecea49c85f22f85" sha1="5c9d9b5bd34991737f2f0afa9b6e8ad6b4e7b37f"/>
 		<rom name="DATA/TEXT/ENGLISH/GAME/MAP.MSG" size="10356" crc="528ca148" md5="3f9b6accfaa2f2cc8ca776cf2af70ac1" sha1="2c2bdfac7603a8c821964da4e471fbca13a78ce9"/>
-		<rom name="DATA/TEXT/ENGLISH/GAME/PIPBOY.MSG" size="54961" crc="5a558f27" md5="b03768042065792d678a7a04d670c234" sha1="c100840a460a249a77a15dfd9b1c2c95b417a6e8" date="2008-04-18 11:02:16"/>
-		<rom name="DATA/TEXT/ENGLISH/GAME/PROTO.MSG" size="6127" crc="08b73b65" md5="9209334ee4849d424e9f4c6581d85499" sha1="e5bd6b90838f526bb97553741abd8c10a68c7a0e" date="2005-10-15 02:01:04"/>
-		<rom name="DATA/TEXT/ENGLISH/GAME/SCRNAME.MSG" size="66708" crc="2aeae6ec" md5="b84b310a064017c26c49ba19bfa56f91" sha1="c9d84cd69233db96061dc3c266407851fcdf2081" date="2006-10-22 20:24:10"/>
 		<rom name="DIGITEST.RAW" size="37448" crc="09f5d3d7" md5="c5efde8ea9a81fa0d1612057601df4c7" sha1="ddac978f336f19058cfc00fa6d2f59d7265e3b02"/>
 		<rom name="DOS4GW.EXE" size="265396" crc="5cc34b0f" md5="006211ca60fa3d4b38a9a8da2ade1056" sha1="c489f83dc15a9ffc3c502707da40e581ec79bfe6"/>
 		<rom name="EREG/E2.EXE" size="97137" crc="884e862b" md5="42d56856d154d1363c92066840f7febe" sha1="940cba20c52bc37235a5bc3515bf18c2942399ec"/>
 		<rom name="EREG/EREGCARD.INI" size="129" crc="a586bd52" md5="e8dc9e330bd838bacd990a364891acd2" sha1="e5de2aedfde2e1f874bd3eceb50b584821f242b6"/>
 		<rom name="FALL.BAT" size="41" crc="53f9078a" md5="75b321d30d5572bc23e20206dcdea4f4" sha1="fb2f143d9fe0b152bd884911c6f8e239c45195bf"/>
-		<rom name="FALLOUT.CFG" size="248" crc="e55f975b" md5="76c91315da805f564763a1ca7433194e" sha1="e656d2d8630bea037145ac0e1e75597626a76a6f"/>
-		<rom name="fallout.exe" size="1498090" crc="40da952d" md5="3dcf41fa6784030bd5c71be81954c899" sha1="df2da053979457d0521f4eff4ad5fce4bc5385f3" date="2007-06-16 11:18:22"/>
-		<rom name="Falloutw.exe" size="1244672" crc="6ee99455" md5="c32ae6f10573f654380702f40b4bf8db" sha1="ec3e4d5ce4af5e6fbd494c92fca558089b2dedc1" date="1998-03-10 18:07:26"/>
+		<rom name="FALLOUT.CFG" size="248" crc="f5e32eb1" md5="fc35734a8bb24655a1a1a82f409b4fca" sha1="d47d84c14cf84b5608203b900daa00d2ca4e3a01"/>
+		<rom name="FALLOUT.EXE" size="1498058" crc="bad93c1b" md5="6a41c641b789b44fd7be1805ce030c9b" sha1="acbbc7e81bb30a878c7ee0fa755a4e13a2275b11"/>
 		<rom name="HMIDET.386" size="81990" crc="637c56a8" md5="59b3f813848cda336763648d628db917" sha1="27a06eb94b0abf13139c311ebed73358b20bcdab"/>
 		<rom name="HMIDRV.386" size="261425" crc="f6d116a3" md5="bd16499c7c0ef8cebb0999373edc5361" sha1="becd7f4a413a1966986b4c41c860b678d7244d58"/>
 		<rom name="MASTER.DAT" size="333674504" crc="c75956c9" md5="fb6a92a206191adf15440b2f9cbf014c" sha1="b367417522702246c7accf4339e896d02b5677f1"/>
 		<rom name="README.TXT" size="19758" crc="98626cb0" md5="8392a1ba32cb8333d6a6f86bbb164f14" sha1="412ef9b5017b280c5f886fdab94a8e7e08f08e50"/>
 		<rom name="SOUND.EXE" size="115350" crc="f95a1591" md5="cd40c433bad4ea027b60d422cc5b40e2" sha1="b83bccc1913ad36d7f9f3ea26ccf6a394916c514"/>
-		<rom name="UNINST.LOG" size="3816" crc="961e13a6" md5="76ace4745362cdf466e1008327c02117" sha1="ea3d2328353482c0ebcf6d2de3ff5e785a38b315"/>
+		<rom name="UNINST.LOG" size="3816" crc="9bb5c326" md5="19316714ad1832edfae4d13d61c2cecf" sha1="117243764458dad27b26e9bf92907aa4f176e016"/>
 	</game>
 	<game name="Final Doom - The Plutonia Experiment (1996) (id Software).dosz">
 		<description>Final Doom - The Plutonia Experiment</description>
