@@ -4175,24 +4175,24 @@
 	<game name="Wasteland (1988) (Interplay).dosz">
 		<description>Wasteland</description>
 		<comment>Installed from 2 x 5.25" floppies with EGA/RGB selected as the graphics/monitor combination.</comment>
-		<comment_dosc>Includes the GAME1 file, which is used for game saves. Game auto-starts as-is.</comment_dosc>
 		<year>1988</year>
 		<developer>Interplay</developer>
-		<rom name="ALLHTDS1" size="34307" crc="1e364b50" md5="8385cca481fd21d129284c48cc99cfde" sha1="6d89b0ea7bde0b6ff6af8744c8cdebdf7e42858c"/>
-		<rom name="ALLHTDS2" size="39230" crc="632ed018" md5="7960ee69d688a9a65ba60471d9374c01" sha1="5f09dc531826057dc916f7e400e3bd3e1d7274ce"/>
-		<rom name="ALLPICS1" size="105866" crc="a047b063" md5="dedde5c98dbe00a004fd01b5dc34abb0" sha1="67c91e09ba91be32b0622ee0dcf0ea51f0d664ee"/>
-		<rom name="ALLPICS2" size="133433" crc="f51c6063" md5="56a4e3867e1d447f30b581dec61a42da" sha1="bb08ffb3716e633232f2f2e2cf533b883a7143eb"/>
-		<rom name="COLORF.FNT" size="5504" crc="3ef70a01" md5="5e201369552775fe073fca194c4d21e0" sha1="3074f70a86aa82ca5ca8ae7233028b92b2c25680"/>
-		<rom name="CURS" size="2048" crc="8868f9b9" md5="0779ab890a51618ff5caf8d144032913" sha1="e87aa77188f52fab4cb2baa687026679e14d38be"/>
-		<rom name="END.CPA" size="21027" crc="72be5aff" md5="1f730a19c375a0966e59018cfa90192a" sha1="f380601ed059d24295a195cd540c910169cd0f3a"/>
-		<rom name="GAME2" size="172235" crc="a5ef709c" md5="d1b1637f04d986425582168465d9d90f" sha1="7c5e03a9b6338182cdb8159c385f3fbb05dc8382"/>
-		<rom name="IC0-9.WLF" size="1280" crc="8ac5d743" md5="9798f71314ce2271a0d15f994398eba5" sha1="e2d44a1f0e0121a91ded136e6eb2d3e7b146c1cf"/>
-		<rom name="INFO" size="2" crc="9a8d0e39" md5="dd1c7ceb4c92653a696b7907a4dd4df1" sha1="bf86c9e9e7fe0ef09a2eae8066cdc31f859254cc"/>
-		<rom name="MASKS.WLF" size="320" crc="a63f2362" md5="611067c313372682ecfafbf2a75b131b" sha1="0adada5201e705136b35b20a87aeb6ba6e91d392"/>
-		<rom name="TITLE.PIC" size="18432" crc="e8a4d42e" md5="e2ce386b81f24e2a5cff9feabed533c0" sha1="9d5308fc75194b2233e7280fe9f1d658b0460d8d"/>
-		<rom name="TRANSTBL" size="800" crc="9acb24f5" md5="b414ba1e85f85c16ad36963495e23797" sha1="30562921ce09caac64e68b881caa428231967491"/>
-		<rom name="WL.EXE" size="62549" crc="8dc6cb12" md5="cda6a97c822dae9e406663bb0ea0d933" sha1="d77aa9f4a6f33f2bf1dcfb49448c18f57394a4c1"/>
-		<rom name="WLA.BIN" size="4209" crc="19ceeaee" md5="0c5ebd7f4936eaa9beb7b085927f05e7" sha1="14cc1b337dce8199952f6ebe4e00d5ff236711e5"/>
+			<rom name="ALLHTDS1" size="34307" crc="1e364b50" md5="8385cca481fd21d129284c48cc99cfde" sha1="6d89b0ea7bde0b6ff6af8744c8cdebdf7e42858c"/>
+			<rom name="ALLHTDS2" size="39230" crc="632ed018" md5="7960ee69d688a9a65ba60471d9374c01" sha1="5f09dc531826057dc916f7e400e3bd3e1d7274ce"/>
+			<rom name="ALLPICS1" size="105866" crc="a047b063" md5="dedde5c98dbe00a004fd01b5dc34abb0" sha1="67c91e09ba91be32b0622ee0dcf0ea51f0d664ee"/>
+			<rom name="ALLPICS2" size="133433" crc="f51c6063" md5="56a4e3867e1d447f30b581dec61a42da" sha1="bb08ffb3716e633232f2f2e2cf533b883a7143eb"/>
+			<rom name="COLORF.FNT" size="5504" crc="3ef70a01" md5="5e201369552775fe073fca194c4d21e0" sha1="3074f70a86aa82ca5ca8ae7233028b92b2c25680"/>
+			<rom name="CURS" size="2048" crc="8868f9b9" md5="0779ab890a51618ff5caf8d144032913" sha1="e87aa77188f52fab4cb2baa687026679e14d38be"/>
+			<rom name="END.CPA" size="21027" crc="72be5aff" md5="1f730a19c375a0966e59018cfa90192a" sha1="f380601ed059d24295a195cd540c910169cd0f3a"/>
+			<rom name="GAME1" size="159429" crc="68f09dc4" md5="8b8288cd471359e7f742955047e66451" sha1="e5d95675012161ee6322a641e8bc8b04be467ac3"/>
+			<rom name="GAME2" size="172235" crc="a5ef709c" md5="d1b1637f04d986425582168465d9d90f" sha1="7c5e03a9b6338182cdb8159c385f3fbb05dc8382"/>
+			<rom name="IC0-9.WLF" size="1280" crc="8ac5d743" md5="9798f71314ce2271a0d15f994398eba5" sha1="e2d44a1f0e0121a91ded136e6eb2d3e7b146c1cf"/>
+			<rom name="INFO" size="2" crc="9a8d0e39" md5="dd1c7ceb4c92653a696b7907a4dd4df1" sha1="bf86c9e9e7fe0ef09a2eae8066cdc31f859254cc"/>
+			<rom name="MASKS.WLF" size="320" crc="a63f2362" md5="611067c313372682ecfafbf2a75b131b" sha1="0adada5201e705136b35b20a87aeb6ba6e91d392"/>
+			<rom name="TITLE.PIC" size="18432" crc="e8a4d42e" md5="e2ce386b81f24e2a5cff9feabed533c0" sha1="9d5308fc75194b2233e7280fe9f1d658b0460d8d"/>
+			<rom name="TRANSTBL" size="800" crc="9acb24f5" md5="b414ba1e85f85c16ad36963495e23797" sha1="30562921ce09caac64e68b881caa428231967491"/>
+			<rom name="WL.EXE" size="62549" crc="8dc6cb12" md5="cda6a97c822dae9e406663bb0ea0d933" sha1="d77aa9f4a6f33f2bf1dcfb49448c18f57394a4c1"/>
+			<rom name="WLA.BIN" size="4209" crc="19ceeaee" md5="0c5ebd7f4936eaa9beb7b085927f05e7" sha1="14cc1b337dce8199952f6ebe4e00d5ff236711e5"/>
 	</game>
 	<game name="Wolfenstein 3D (1992) (id Software).dosz">
 		<description>Wolfenstein 3D</description>
