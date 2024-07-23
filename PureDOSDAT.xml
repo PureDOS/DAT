@@ -718,16 +718,16 @@
 		<rom name="STORYTXT.CK1" size="3504" crc="231a12cf" md5="0f6e2c7fc0ec2df428757386b072b071" sha1="d930d9066f7c9a2035c6cd8f85e2f6a149fbe147" date="1990-01-23 13:31:00"/>
 	</game>
 	<game name="Crusader - No Remorse (1995) (Origin Systems).dosz">
-		<description>Crusader - No Remorse</description>
-		<comment>Full installation using Redump-verified disc. Used the 1997-02-02 rerelease (v1.21).</comment>
-		<comment_dosc>Sound configuration, keyboard/mouse support, subtitles enabled, large video setting, and auto-start.</comment_dosc>
+		<comment>Full installation using Redump-verified disc. Used the 1997-02-02 rerelease (v1.21). Keyboard/mouse support, subtitles enabled, large video setting, default sound settings.</comment>
+		<comment_dosc>Auto-starts</comment_dosc>
 		<year>1995</year>
 		<developer>Origin Systems</developer>
 		<rom name="ASYLUM.DLL" size="116440" crc="8be52a4a" md5="cf01473ea7fc03b8b393b1e719854cfb" sha1="66670941ca4364359884a2bacee1625c2f59d53d"/>
 		<rom name="AUTORUN.INF" size="56" crc="69ddebc7" md5="689cc29e6b2bbbcfafa6513a97a01eec" sha1="374a0513d7dc10229f2007929836fb8595029779"/>
 		<rom name="CDROM.DAT" size="20" crc="22cf43b6" md5="aec80c498ed269d93ccc9cbd5b0688af" sha1="0ea3e70158386d21d0e675f8c55399d7fe678dc9"/>
+		<rom name="CRUSADER.CFG" size="163" crc="63eb1ee8" md5="43eb65f22e39152c516e7107e86cec6b" sha1="e7c0f20fab588fd5d6a91229e29922a2e46f3311"/>
 		<rom name="Crusader.chd" size="805352832" crc="432908ab" md5="0c7e6a026cf1b46301016c0146302db5" sha1="e430247043c6886cd6c07a44e339fd7a21f2ed81">
-				<track number="1" type="MODE1_RAW" frames="328908" pregap="0" duration="73:05:33" size="773591616" crc="740f2fa9" md5="71defca82899595376996c19a552e89a" sha1="d9d56d352036cd0be4efc16835258db84aa20d24" in_zeros="1" out_zeros="0"/>
+			<track number="1" type="MODE1_RAW" frames="328908" pregap="0" duration="73:05:33" size="773591616" crc="740f2fa9" md5="71defca82899595376996c19a552e89a" sha1="d9d56d352036cd0be4efc16835258db84aa20d24" in_zeros="1" out_zeros="0"/>
 		</rom>
 		<rom name="CRUSADER.EXE" size="991878" crc="09e186bf" md5="13a9250b280d4889c7b48a1fd084a8b1" sha1="5f3eb75202fa54cdc6703b875bfc505eb1ee320d"/>
 		<rom name="CRUSADER.ICO" size="3126" crc="98c7421e" md5="7dff0ec39b7ca73f67cab5f6cdf5ed31" sha1="d971b2f1c5f486dc6741a8890046a29ed1144284"/>
@@ -735,6 +735,7 @@
 		<rom name="JOYTEST.EXE" size="13572" crc="4354f240" md5="149a9a2234ec65583f6f6f661d62a1e7" sha1="28f8b0f39c26523aa0943f180a5e1871704a1c56"/>
 		<rom name="MOD2AMF.EXE" size="351086" crc="cbcfd269" md5="44ea74293b417739b6ddc27354e9bca3" sha1="9eb2ed82e446145bcb0727edfec53eeffa596716"/>
 		<rom name="README.TXT" size="17689" crc="d8c4bb40" md5="7b2564c253d0d08474e63cec6c639f20" sha1="727825b94224ba60055f17d14de81805ba7c7c5a"/>
+		<rom name="SOUND/SOUND.FLX" size="4504087" crc="fe3dd21c" md5="00b3f8e8e7e7d5a2d5d71508c2425a25" sha1="15a67046d1fe863365f27169c7e2a67bc4d14cd1"/>
 		<rom name="STATIC/ANIM.DAT" size="228052" crc="34896104" md5="99d650f00233a39def64891b63f2f729" sha1="e2534c012968b813fbe3595740fa59349f0c1050"/>
 		<rom name="STATIC/COMBAT.DAT" size="1734" crc="32350a00" md5="349a37391b6fe7278c0dbf4811ad5a1d" sha1="024848ad082c6c14e79c749854c41e5571544bbf"/>
 		<rom name="STATIC/DAMAGE.FLX" size="12424" crc="b46f5575" md5="b463d1be42d56320fb7b968b50c03fd4" sha1="9671e66e1fc3801be4071da8d744ddf4ac51cdfa"/>
