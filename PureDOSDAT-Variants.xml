@@ -59,4 +59,24 @@
 		<variant>Installation</variant>
 		<rom name="disk1.img" size="184320" crc="cb741f9e" md5="aa255d7cfe77e77c0784cc6c7155ceb2" sha1="cfa6381c4a7e524c1327a33d57abc8b7074256f9"/>
 	</game>
+	<game name="Zork III - The Dungeon Master (1982) (Infocom) (GOG).dosz">
+		<description>Zork III - The Dungeon Master</description>
+		<comment_dosc>Auto run</comment_dosc>
+		<year>1982</year>
+		<developer>Infocom</developer>
+		<variant>GOG</variant>
+		<rom name="_ZORK3.COM" size="11402" crc="290aed43" md5="f4c907653b71a8610a8153bb04ff2a1e" sha1="a660b3c41951c38559b23504deb84b7ddde542a1"/>
+		<rom name="DATA/ZORK3.DAT" size="92160" crc="3df200a4" md5="ffda9ee2d428fa2fa8e75a1914ff6959" sha1="008441c48b8ffa0c64d78cba5e9735a2045f359d"/>
+		<rom name="NNANSI.COM" size="5221" crc="c3001c87" md5="baa0a5a499ddb07d2fc71f1e1f1e04e6" sha1="71f9f566009b7d2ac4af1ccf7ec84b41cf4601b8"/>
+		<rom name="SAVE/ZORK3.DAT" size="12680" crc="fe5bb7b4" md5="61081257b7daa25933e2c1d72d0fc203" sha1="f25e5058961eb1d54196f170326dfe9446acd231"/>
+		<rom name="SETUP.INF" size="3" crc="8bdcb97d" md5="56d258bd897f5bb1b04ce55d31431366" sha1="b24951cc8c9d943894c558fa045e943e8916946a"/>
+	</game>
+	<game name="Zork III - The Dungeon Master (1982) (Infocom) (Installation).dosz">
+		<description>Zork III - The Dungeon Master</description>
+		<comment>Release 17, Serial 840727 1985 5.25" floppy disk</comment>
+		<year>1982</year>
+		<developer>Infocom</developer>
+		<variant>Installation</variant>
+		<rom name="disk1.img" size="184320" crc="37e13f11" md5="e1a716bf27ccf59d427382a8ebed7222" sha1="71d0abbe9b1ee1403570f56514173963b66253bd"/>
+	</game>
 </datafile>
