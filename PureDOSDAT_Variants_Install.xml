@@ -160,6 +160,14 @@
 		<rom name="disk4.img" size="1474560" crc="eaccbf49" md5="bcadceb2bd764084ae1b1154302d4d2f" sha1="55186766f3953759686383cb6abfbec2e5bbc9c3"/>
 		<rom name="disk5.img" size="1474560" crc="fddb2a3a" md5="ae25cfa9f49894e5e0891104f43746ae" sha1="3a6abe5d401c13743a0d76ee2085945fff79e389"/>
 	</game>
+	<game name="Moonmist (1986) (Infocom) (Installation).dosz">
+		<description>Moonmist</description>
+		<comment>1987 Release 9, Serial 861022 3.5" floppy disk</comment>
+		<year>1986</year>
+		<developer>Infocom</developer>
+		<variant>Installation</variant>
+		<rom name="disk1.img" size="368640" crc="d5e7c2ff" md5="e7f5a9fdf8d83b3924d1d98fb5d8266d" sha1="09cdf2f26f13b900a4910b4b456464320710d2cf"/>
+	</game>
 	<game name="Ultimate Doom, The (1995) (id Software) (Installation).dosz">
 		<description>Ultimate Doom, The</description>
 		<year>1995</year>
@@ -369,5 +377,15 @@
 			<track number="7" type="AUDIO" frames="16352" pregap="0" duration="03:38:02" size="38459904" crc="03a04050" md5="91572bec099bf08e29a254d96be6f2c3" sha1="ab1ca0881d21f24cfb1eea8302cacc72cc5dce4a" in_zeros="21266" out_zeros="1073089"/>
 			<track number="8" type="AUDIO" frames="17779" pregap="0" duration="03:57:04" size="41816208" crc="53e0141c" md5="5d7ca6b788c30b78c7ae456d391c6d3e" sha1="07d2a9d51fa6742ff6430d5057e81650e80d94be" in_zeros="18942" out_zeros="1055089"/>
 		</rom>
+	</game>
+	<game name="Zork Zero - The Revenge of Megaboz (1988) (Infocom) (Installation).dosz">
+		<description>Zork Zero - The Revenge of Megaboz</description>
+		<comment>Three 5.25" Release 393, Serial 890714 1989 floppy disks</comment>
+		<year>1988</year>
+		<developer>Infocom</developer>
+		<variant>Installation</variant>
+		<rom name="disk1.img" size="368640" crc="11cd7452" md5="3828cc78c798e66a1e2777f6046360c1" sha1="ddb25aaa942df182a07f3b76b496feab82f9e335"/>
+		<rom name="disk2.img" size="368640" crc="9cfc119b" md5="c8f55d51b0f5962d486c1668b44a14b8" sha1="05e4c43ea0177727ae1d66316657eda3da80bdcb"/>
+		<rom name="disk3.img" size="368640" crc="d86be876" md5="b91d1a599b9a23535561e9647795c99b" sha1="f5df4705338fcbd2a61fe947a81473cccc90ea79"/>
 	</game>
 </datafile>
