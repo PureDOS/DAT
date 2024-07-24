@@ -39,4 +39,24 @@
 		<variant>Solid Gold</variant>
 		<rom name="disk1.img" size="184320" crc="c5ffab28" md5="2cf0bd9f6d9c1b1793d40fe258dc703d" sha1="2a2420704b8acd487f85d1001103796770f75dd8"/>
 	</game>
+	<game name="Zork II - The Wizard of Frobozz (1981) (Infocom) (GOG).dosz">
+		<description>Zork II - The Wizard of Frobozz</description>
+		<comment_dosc>Auto run</comment_dosc>
+		<year>1981</year>
+		<developer>Infocom</developer>
+		<variant>GOG</variant>
+		<rom name="_ZORK2.COM" size="11402" crc="d187d19c" md5="9122f2ce75baae3a85aae21505291b38" sha1="5a73e833dccf8d0dfab7a5855cdc4626a2df0890"/>
+		<rom name="DATA/ZORK2.DAT" size="92160" crc="8c126869" md5="5bcd91ee055e9bd42812617571be227b" sha1="ca4667b30f5c50474da707d276cbbb4be35ee90b"/>
+		<rom name="NNANSI.COM" size="5221" crc="c3001c87" md5="baa0a5a499ddb07d2fc71f1e1f1e04e6" sha1="71f9f566009b7d2ac4af1ccf7ec84b41cf4601b8"/>
+		<rom name="SAVE/ZORK2.DAT" size="12213" crc="631a2842" md5="926a3320664eb14bd3824e9ab17ff079" sha1="75aa70d3bdab944b5e0801d908abdf971f3b8ce8"/>
+		<rom name="SETUP.INF" size="3" crc="8bdcb97d" md5="56d258bd897f5bb1b04ce55d31431366" sha1="b24951cc8c9d943894c558fa045e943e8916946a"/>
+	</game>
+	<game name="Zork II - The Wizard of Frobozz (1981) (Infocom) (Installation).dosz">
+		<description>Zork II - The Wizard of Frobozz</description>
+		<comment>Version 48, Serial 840904 1985 5.25" floppy disk</comment>
+		<year>1981</year>
+		<developer>Infocom</developer>
+		<variant>Installation</variant>
+		<rom name="disk1.img" size="184320" crc="cb741f9e" md5="aa255d7cfe77e77c0784cc6c7155ceb2" sha1="cfa6381c4a7e524c1327a33d57abc8b7074256f9"/>
+	</game>
 </datafile>
