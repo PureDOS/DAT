@@ -689,6 +689,110 @@
 		<rom name="id1/PAK1.PAK" size="34257856" crc="2e803216" md5="d76b3e5678f0b64ac74ce5e340e6a685" sha1="6fd0d1643047612f41afb2001b972d830c792921" date="1996-07-12 19:31:52"/>
 		<rom name="quake.exe" size="409600" crc="3bc26700" md5="e3e7fcc920610a5fa66c1dd030939fac" sha1="97427017467717a78b1b9e4a01b70ef0f7161856" date="1997-03-11 20:29:24"/>
 	</game>
+	<game name="Red Baron (1990) (Dynamix) (GOG).dosz">
+		<description>Red Baron</description>
+		<comment_dosc>Default GOG config and auto start</comment_dosc>
+		<year>1990</year>
+		<developer>Dynamix</developer>
+		<variant>GOG</variant>
+		<rom name="ACE.DAT" size="13135" crc="7ffecb2c" md5="8b105b7da93239f9f97a82ac2637a63b" sha1="9212d5d1c231d6a3a110d8d2c5747ba4866f100b"/>
+		<rom name="ADL.DRV" size="9295" crc="2596aa71" md5="5b3b93130e29620927a2056ca1d31084" sha1="01af3ec72b8b94ccc088d61538d75046d5f6c19e"/>
+		<rom name="APLANE.DAT" size="6161" crc="e9f22cc3" md5="ed97ad1ffb37928c3cfdf0b6ff382c06" sha1="2d509ee85204cb7ed85e886524fe8bcaae6b274a"/>
+		<rom name="BARONCD.BAT" size="27" crc="e2e9125a" md5="2fb4e919ace7ab5605654410ca191bb6" sha1="9ad4ffc087e1e28e235a330ff3cbca49553ad137"/>
+		<rom name="BFC.DAT" size="171" crc="ad68ea50" md5="ce9002fe5afd309e5c5a0cb7a564e717" sha1="d9e0e2b1f32cd309a41e9816f061c34e3666a237"/>
+		<rom name="CONTROL.PRF" size="6" crc="488f1b4e" md5="bc475a1730a1e3567ffa7135bb181e68" sha1="e622406013c863ef8c28a8980205e1c427dbcb8e"/>
+		<rom name="CREAL.PRF" size="26" crc="3d1ca938" md5="055c4420d5bae5223e46591464b42e4e" sha1="41e45c4be774ea4d42a501edb263a35e80622dd3"/>
+		<rom name="CUSTOM/BARON78.CUS" size="1416" crc="3a3ab694" md5="6b86f478f43ffdae958c3937def9152a" sha1="08ef80589f45272f636e50e6d92dfb6258575cb4"/>
+		<rom name="CUSTOM/BISHOP.CUS" size="1115" crc="965f420a" md5="7bc5ce962efafa04b6a9fba430530df7" sha1="216ff35e6e28661c5fd06eea0cd4e79ddd084734"/>
+		<rom name="CUSTOM/CARNAGE.CUS" size="1099" crc="fe688531" md5="b92cba6f834997d2c6351c634769bd19" sha1="a35a15bb9d3a42a9b1f4a9920efb341678ff9cfd"/>
+		<rom name="CUSTOM/DECPASC.CUS" size="1342" crc="16fc286b" md5="07ab150d91a6c28c0541204cb56e4909" sha1="6da24c2851a087b0a2ea49de9ea1960902156d1d"/>
+		<rom name="CUSTOM/ESCAPE.CUS" size="1448" crc="692c6e78" md5="a7499be78d97fb7721526f15c6a5a63d" sha1="a39cb04de8f8392f0effa920d70fdee7c7dcdce4"/>
+		<rom name="CUSTOM/FONCK6.CUS" size="1271" crc="05c7ebb5" md5="f7f0c8d5de6ed87203d9575d2ab29adf" sha1="9039ce0f0382526a5fa0bfd1dee454c60d60f9f6"/>
+		<rom name="CUSTOM/KURTSMIS.CUS" size="1161" crc="a90b63f9" md5="227a90c240f2f28dd8435c1afe892ac2" sha1="42554215608f84f7b55e0908fd555aad6efc6d59"/>
+		<rom name="CUSTOM/LITLBGDY.CUS" size="1355" crc="a2a52f3f" md5="d933ff51e81b3871569977975f939535" sha1="f8e6be7d1cf6129310865e0f50e4b71d884c0a11"/>
+		<rom name="CUSTOM/NIGHTGOT.CUS" size="1168" crc="96d72eea" md5="3c358169ae7fefceec0b46840cc823f7" sha1="67a31cd01b2efea392e6fcf545e60c09f5e7385e"/>
+		<rom name="CUSTOM/VOSSLAST.CUS" size="989" crc="c12b187e" md5="d0b06d415878659161e010daace1eb09" sha1="6535b8ddfb56d770a4f6356820efafcb18b3c6ec"/>
+		<rom name="ELITE.DAT" size="3092" crc="60978e82" md5="e0bbc3a3ed98fd644abdcb688728c1aa" sha1="4ddef91de3467867a1284f12e79325b521a0fd76"/>
+		<rom name="EVADE.DAT" size="291" crc="d972140d" md5="c122688ce8035c887431e00cb072c71f" sha1="b901e0542490b3b471f8d69858ee00514add0692"/>
+		<rom name="FIGHTER.DAT" size="497" crc="0d68e966" md5="0a29a695fa107e4ea6f80ccb64ee8c07" sha1="effeac6c0e715a3d6e5b149d9f4242f39ff09012"/>
+		<rom name="FOKD7.CLG" size="146" crc="3564a40f" md5="082421649f570a9018d4932acfbc94c4" sha1="edd73a5e7a77fcca2cbc52bbdbaa0045316190e8"/>
+		<rom name="FOKD7.TBL" size="6314" crc="a2b546a1" md5="fa1c11589ca3a00938ce88ba5353d66c" sha1="4852bd87b22dfd66b7859b040450d99902f9aa41"/>
+		<rom name="FOKD8.CLG" size="154" crc="375e7cbe" md5="679b4eb6d505bd5d21d9820ad0cb1054" sha1="ed0edd22c819ff99caadd1fb719bbd21375b0b23"/>
+		<rom name="FOKD8.DAT" size="234" crc="44cdcce4" md5="755e0dfec4938d293ce8c2d4e759dbb3" sha1="f8aa875502bd26340ab4893d2446c13cf7542579"/>
+		<rom name="FOKD8.TBL" size="5311" crc="8c754ce9" md5="b517598f5c1fc406748c3ae36f9edd73" sha1="ac77fd8cbbbb63a87e3902856cae43ee081bab6e"/>
+		<rom name="FOKD8.TTM" size="3296" crc="4f39de95" md5="b945fab7e1b4e447075e75d38d86161b" sha1="69c12a8df09974159eddfbd815a97740f2b35ead"/>
+		<rom name="FTEXT.DAT" size="2789" crc="0cb11c6c" md5="711f25ddaee410f6ff8137712956c3ea" sha1="45c1086cb4795d2befceade6cfc4d7c12a166bd3"/>
+		<rom name="GCD.COM" size="742" crc="81fe9da8" md5="7d179e59d589d03cb5da1fcaefcf0cf5" sha1="cd3cd39b383223335439978b60c569bba3552b7e"/>
+		<rom name="GENERICF.DAT" size="986" crc="2e9c3892" md5="555751e19f75a32529c9e56bacb83d5d" sha1="7ef13c21092d37b1ef681aedfa1408e0e3df1a76"/>
+		<rom name="GENERICR.DAT" size="654" crc="e543ebc9" md5="23b96011d6152270f415acd2766e3673" sha1="c1ced4625e8c8e71cd2d1dfcf66f6bbba9a10bda"/>
+		<rom name="HALBD2.CLG" size="196" crc="7297e9bf" md5="85510f2cc16222458f1ab8f1497bc115" sha1="96b622cc79d2e108bc4c9d98ac7811292a3ae2d5"/>
+		<rom name="HALBD2.DAT" size="234" crc="17b80486" md5="84dd28191bc8e77024e224e52c582243" sha1="d6d4222e0e154d4c814fad0f46195226e068ddcf"/>
+		<rom name="HALBD2.TBL" size="5644" crc="b979ea7b" md5="32b06b9c5d4c21890f9281508772b7c6" sha1="76b60f365b3767f7b6c3067870b826bfb34aaecf"/>
+		<rom name="HALBD2.TTM" size="3974" crc="c6f2b936" md5="133117e17a196e3b1e89b1059374c7c8" sha1="654ac8e337b58519afad7162b5c5e3202edd0602"/>
+		<rom name="HEADS.BMP" size="58112" crc="9249a58b" md5="422b00bdb93d43429bb8dc805d5c23ae" sha1="6faf655dc821d9baafaafa66bfd28981c6b5413d"/>
+		<rom name="HISTORIC.DAT" size="4166" crc="90029d1b" md5="28d5041883a1ce778df2806b0ad4ff9f" sha1="544e58754cc1d9633c52c331c427afa7be9974b6"/>
+		<rom name="IBMPS1.DRV" size="4018" crc="bc5b5bbe" md5="eacc88538ed711cc103e3c9bd40efc86" sha1="6f37810818e5d4c77f40950bb1695de55652daf8"/>
+		<rom name="INST.EXE" size="76525" crc="56f2ee82" md5="e344e299ff25827245dba1e4b66ceb65" sha1="2a24c4b09ab6e560351ffa5a45f247181e1b1468"/>
+		<rom name="install.bat" size="60" crc="ff1eda84" md5="9c4ab1c53391aa4a8f57eed90c62d54c" sha1="61a0d70cdedc685e37bcbab288edd7d7b239ae59"/>
+		<rom name="INSTALL.HLP" size="20894" crc="529f6fee" md5="a6636010a5ee0abb053464dab88bde48" sha1="4cad7fe245343c27c0e53686845e5cf3c6374bde"/>
+		<rom name="INSTALL.SCR" size="5775" crc="21b71f98" md5="256ff5bdd88c41e5e27518f0a309cbad" sha1="b00fbf7d9c2b2a9ae07ef01928ea21421008717e"/>
+		<rom name="INSTALL.TXT" size="9590" crc="eba20f31" md5="de8f1f93678f6c928628b87b4a102838" sha1="a1d4a8935c1affff4a43f5a75f7e04f79e00aa6a"/>
+		<rom name="MREAL.PRF" size="26" crc="3971620a" md5="aa8bc958c502508f0771cde1e85db624" sha1="e1a387b3835e4cb7117ba3dfe1620af7de582c63"/>
+		<rom name="MT32.DRV" size="2542" crc="a885862d" md5="e2bcbb34b6bfe586c52605258ef9a312" sha1="a3fa61612dcd448a4a1fab54cf64e4c0b1e51559"/>
+		<rom name="NIEU11.CLG" size="186" crc="81ae32ad" md5="af684ddfc03c0d1e76fdebab1c5a5c36" sha1="2e1e630bfe817ade2d05ceaae29d4bae241602ae"/>
+		<rom name="NIEU11.DAT" size="234" crc="e114d6ea" md5="5b0176581ff52c7969833a5749f628e1" sha1="89c5df0d51ff2d6fe16f9d579cedafed7757d496"/>
+		<rom name="NIEU11.TBL" size="6092" crc="062e82b1" md5="5091bae7d23a21223af72b96f924cd58" sha1="65aa93e4d0aedc4b1908d23c8bcbae34155e6311"/>
+		<rom name="NIEU11.TTM" size="3901" crc="dcefee99" md5="e174142c353c1d25628d436ae68d2e73" sha1="14528e9e2f016c758532ff87d0ba10f6d4352569"/>
+		<rom name="NIEU28.CLG" size="164" crc="65333903" md5="9d1795f1cce2f113b1e5a371b519531e" sha1="01b2d1b78be0037552f357fb0ab177262b52535a"/>
+		<rom name="NIEU28.DAT" size="234" crc="fb201270" md5="665634befba0a8dadf0e5de7d587f359" sha1="4e43c22c1dda3714255e9eafeef84f840b016eee"/>
+		<rom name="NIEU28.TBL" size="6139" crc="c8312d66" md5="552e9331190ac13f61223153fc280f28" sha1="97f5be6a91e0d2b57c7497ca3303ea6005e758f4"/>
+		<rom name="NIEU28.TTM" size="3991" crc="138ce598" md5="76fc05b70a98b82a2ea265770a380886" sha1="50a20d5e59167aab3bfcfd3ee692cdb2acc37a23"/>
+		<rom name="ORDINARY.DAT" size="7438" crc="11cf4bd4" md5="3bb364018f1de233add0ec6f57384871" sha1="246084537d7b4c2a4389bfd9ccb2cee359cf3426"/>
+		<rom name="PS.EXE" size="269590" crc="f4fd40aa" md5="7a5a56e29a5609bde542a4cd48b65b23" sha1="262c663bdca16099b177a81c77482cc5b1fc7472"/>
+		<rom name="PSVOLS.MAP" size="8" crc="907dae14" md5="416f9e084a5d0ec8e039067c0670da47" sha1="0293c9f60106d9ead97d4b367bc091674bfce5d1"/>
+		<rom name="PTPLANE.TBL" size="8418" crc="4c9e7ce7" md5="8a212af371ac6da7d42fdf986a3d6f25" sha1="d4e90635ba07f7c82b303ffc6e87a6a78149003f"/>
+		<rom name="RB.EXE" size="308080" crc="1ab383e5" md5="846081d298a7f16ec8358a8e010a1916" sha1="e69e1a9f5dff7159e2a10f8861ee83d165ceb557"/>
+		<rom name="RBMB.EXE" size="216699" crc="3e1b0c92" md5="0d24ae03181e664f784ed6553bc7a597" sha1="6d3fd59ab9765404f184d2792d348a2a30ad750b"/>
+		<rom name="RBMB.OVL" size="125239" crc="9b40a895" md5="86c865610336566d6422ec30bdad676e" sha1="7f49dc521899ac80c710a24970d048dc2585de2a"/>
+		<rom name="RC2CP.EXE" size="8514" crc="300fa526" md5="c6e813c7d1a17d9f34805edd3b1c528b" sha1="13051e311e906599cb53ae60eebcfab127ca3569"/>
+		<rom name="README.MVB" size="16384" crc="75fb376c" md5="c1d96b43a59588182ff35f92d6be5bbe" sha1="74d811151567031dbca64d77176519db51673b83"/>
+		<rom name="Readme.txt" size="2626" crc="6ce8b3b1" md5="c89215b10d7d200c567d62edb3576860" sha1="b2a5a4e19af70915219aa0b8aefb853b03ad2bbe"/>
+		<rom name="ROSTER.DAT" size="908" crc="d5d82c63" md5="49dda0f03f1500d57d3a021ac9cdbf33" sha1="6fb54dca871662dcd8c94d1f649860b1049a401b"/>
+		<rom name="SCRIPT.DAT" size="360" crc="e757344e" md5="639b1d2ddbde4511ba39b36cc37da883" sha1="db4caa54265392980852c36ac19f27d509fd3743"/>
+		<rom name="SDEF.DAT" size="270" crc="3791d268" md5="38c5a139d3d07ea693f986275dc82c23" sha1="67e9555bcfcd20e03579b22c48f8cde654909a0b"/>
+		<rom name="SIEMENS.CLG" size="170" crc="7b94f162" md5="6d2211b4841de8ddeff6699bf8f4953b" sha1="fd8ac7a41fd741aedc8676f468672c3b98da781e"/>
+		<rom name="SIEMENS.DAT" size="234" crc="a364ca69" md5="489e8655567d235903bf525322177741" sha1="b6c8f1049a53eac37423e4981b066399f76d841b"/>
+		<rom name="SIEMENS.TBL" size="5320" crc="eb4bc9e6" md5="da0b813f30acbd1241d4284535c8984c" sha1="76e1652ff57c6abe5b6e6ae113ebdf9c2382118b"/>
+		<rom name="SIEMENS.TTM" size="4027" crc="4c74e1fd" md5="b92cd3166029b39e6d9c88c638ecb3c4" sha1="f9dfb64d9f830f374cbb724b23cf41b165885211"/>
+		<rom name="SIM.IN" size="12" crc="318e0cbb" md5="333ffd50b16d519c08db33ac020df779" sha1="e8a3a63f4ff9da255d7cf2130c20798787a06144"/>
+		<rom name="SIM.OUT" size="62" crc="fe6a86a3" md5="3318b5cb0f2b54eb33e794c5c86bdb07" sha1="061c5511c9e93c4ee24f363b58541371ba203767"/>
+		<rom name="SIMPREFS.PRF" size="82" crc="3511e65b" md5="b8551f226a0eccb087f335880580552b" sha1="d456ae5ae44c4402b6efcb07b8e0063817441821"/>
+		<rom name="SIMVOLS.MAP" size="8" crc="22a53711" md5="0645f89b97f0a27b13d23ea2fab9c410" sha1="fff3d1a247a31c7cef25730f86ef788aa0b928a2"/>
+		<rom name="SKILL.DAT" size="584" crc="69a22cd4" md5="c21c4a70525430c29093068ea54f7aba" sha1="a2f7e2d73d95fba8b41e0727f81a03b4f8722a15"/>
+		<rom name="STD.DRV" size="1481" crc="578efe57" md5="aa444eeb77bc162d0ee52379df408358" sha1="bdc955928878536bc2bd664eec8f9968483e2c0f"/>
+		<rom name="SYSTEM.FNT" size="1576" crc="f2705497" md5="23a1aa7beb13b910c9e3515be267ea28" sha1="b1d8d1eb73cfcfec55b7d5f70bdc4d931e6b38b3"/>
+		<rom name="TAPES/BAR_ROLL.VCR" size="1262" crc="131f9a36" md5="74e88401c904d7f67ae3451e1a81db1a" sha1="36a61e4f4f03cee879367e52110b9ec3a9a0f7b1"/>
+		<rom name="TAPES/DEMOBLN1.VCR" size="3842" crc="42ce8981" md5="c92816ee8d43aab5def9cc3c6d17149f" sha1="90ab7e1f294a5322c6a08b9b58c26cb6ae4fd987"/>
+		<rom name="TAPES/DEMOSQD1.VCR" size="2046" crc="82176034" md5="2ccc38b722ae981fb87c9e5c5fbdfabe" sha1="f0d8af7c904413ed9c7c8174f9317628a0a83582"/>
+		<rom name="TAPES/DEMOZEPP.VCR" size="3198" crc="ce5295d1" md5="d73a175de7a52654aaa2396216b3f739" sha1="56653a3b79ed228223eb8b7447cd7ef4c527f429"/>
+		<rom name="TAPES/DIVE.VCR" size="1152" crc="f91a4150" md5="7157ef8a98f9d314c7bdd29bc4b45c6c" sha1="bb7f55469ef0723e8c85374a081dc25de181f455"/>
+		<rom name="TAPES/HALFLOOP.VCR" size="1438" crc="c0a8b5ff" md5="a3203f5fe559242a65bb58104c55fbce" sha1="3dd6b9f84685f1a4e7570537706f00da7f6b268e"/>
+		<rom name="TAPES/IMMEL.VCR" size="1237" crc="ebb94cca" md5="b8b39b2c6bf25c3f5c1f3ced27334ba1" sha1="5685b1ff30596f4687f8914de9a61476cf3901ff"/>
+		<rom name="TAPES/LOOP.VCR" size="1264" crc="3ca3e34d" md5="aa27b76850d5b6014fb11ed3cca04f10" sha1="390279548fdaa03431913316ee938a89b87a6fd6"/>
+		<rom name="TAPES/RETOURN.VCR" size="1306" crc="af28e33b" md5="9a50c5d1b80e56f7b7a809a536376101" sha1="8f77d9f15dcd061b670864e8477de99254d7e6e9"/>
+		<rom name="TAPES/SIDESLIP.VCR" size="1444" crc="7c1fbd6f" md5="cf1380949f394f9625eb4145d9bb0678" sha1="798c09614e0f9cb6b99d407d43a8c1f50dbef406"/>
+		<rom name="TAPES/SLIPTURN.VCR" size="1068" crc="ea83b4ec" md5="203f9cb0f02ca96b8685c95bbab4fba8" sha1="4a3021dbfb15f129be2ead5eb986045eb306e560"/>
+		<rom name="TAPES/SPLIT_S.VCR" size="1298" crc="56ce3522" md5="2ee5509b930cbd3ece1ce95e7215aa8e" sha1="bba4f0b6fd56a2429eacebe0d8900afe6f6cb0f5"/>
+		<rom name="TAPES/ZOOM.VCR" size="1447" crc="12be12bb" md5="93e3716b7ba11ad6ba7adb1773fce5a5" sha1="4322d74e045fc50c6e1876d26933e421d3749795"/>
+		<rom name="VOLUME.001" size="75397" crc="3bfdf2c2" md5="1643d79041966df834c48b1cfd6fbce5" sha1="8163cb64f524c0d39aec1a319616b910cb4034f2"/>
+		<rom name="VOLUME.002" size="16253" crc="f447c613" md5="d0002402618a54ba2b72f37f454355b5" sha1="ff1a4a1b43be96e3e191cc99df2a4d96873e7934"/>
+		<rom name="VOLUME.003" size="122013" crc="5700582d" md5="0ed92203d4b63b2bdffb6758a9088702" sha1="f1a99a915afae5f4369f379067fc68a9c37b8afa"/>
+		<rom name="VOLUME.004" size="362276" crc="b61fee7a" md5="76de794b17847423738f60f2b2d140af" sha1="fd66657f0b1da380c2bcac0308e01a21078f1867"/>
+		<rom name="VOLUME.005" size="511611" crc="8d9073f9" md5="62891261f6adc16c92570bacd9fc0507" sha1="b0365c9bc4a999e5ee5c15b44b120cb43525e7fc"/>
+		<rom name="VOLUME.006" size="562539" crc="e2467ccc" md5="0d61d448e931e8e78d5fc63c823faace" sha1="73a9e5683602e0ab9681ce2fd90a7b33af47da2d"/>
+		<rom name="VOLUME.007" size="139298" crc="ea045912" md5="04fc8cb96692bebc091ac840b691d610" sha1="dc067c5f2878a4906b379626f7a238fd442e164c"/>
+		<rom name="VOLUME.RMF" size="2678" crc="7988aab6" md5="ac4e1aad89c1928168940cb2551a3d21" sha1="42660acfbca09fece8b9214b3a3602481399c7f1"/>
+	</game>
 	<game name="SimCity 2000 Special Edition (1994) (Maxis) (GOG).dosz">
 		<description>SimCity 2000 Special Edition</description>
 		<year>1994</year>
