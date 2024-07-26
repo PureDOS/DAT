@@ -10,6 +10,14 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
 	</header>
+	<game name="Beyond Zork - The Coconut of Quendor (1987) (Infocom) (Installation).dosz">
+		<description>Beyond Zork - The Coconut of Quendor</description>
+		<comment>Version 57, Serial 871221 1987 3.5" floppy disk</comment>
+		<year>1987</year>
+		<developer>Infocom</developer>
+		<variant>Installation</variant>
+		<rom name="disk1.img" size="368640" crc="b6fbab29" md5="a716c0f9f814b86bb1423f503c6c39dd" sha1="7bd3b82740163365d33e8d630f29d148b39e0ddc"/>
+	</game>
 	<game name="Caesar (1992) (Impressions Games) (Installation).dosz">
 		<description>Caesar</description>
 		<comment>SierraOriginals CD re-release from 1995</comment>
@@ -76,6 +84,14 @@
 		<rom name="Hexen - Deathkings of the Dark Citadel (USA) (Rev 1).chd" size="83878272" crc="8bab54fa" md5="22e69ff6c87c9e7401e45177637aa1be" sha1="1f7d3a3bdb9490dde1e210bac5007153314144bb">
 			<track number="1" type="MODE1_RAW" frames="34256" pregap="0" duration="07:36:56" size="80570112" crc="231a1b07" md5="e2c6fc7952c09af4b0dad77e9e02c8fc" sha1="afbba6c84233ebf7f5cac556f5fbe6689259ac29" in_zeros="1" out_zeros="0"/>
 		</rom>
+	</game>
+	<game name="Hitchhiker's Guide to the Galaxy, The (1984) (Infocom) (Installation).dosz">
+		<description>Hitchhiker's Guide to the Galaxy, The</description>
+		<comment>1985 Release 58, Serial 851002 5.25" floppy disk</comment>
+		<year>1984</year>
+		<developer>Infocom</developer>
+		<variant>Installation</variant>
+		<rom name="disk1.img" size="184320" crc="1744adb6" md5="93c30ca487736067ace1ea60a2a1ebe4" sha1="e6b78bb2ed4336111df696c13144c824b7fe1ef0"/>
 	</game>
 	<game name="Jazz Jackrabbit (1994) (Epic MegaGames) (Installation).dosz">
 		<description>Jazz Jackrabbit</description>
@@ -377,6 +393,39 @@
 			<track number="7" type="AUDIO" frames="16352" pregap="0" duration="03:38:02" size="38459904" crc="03a04050" md5="91572bec099bf08e29a254d96be6f2c3" sha1="ab1ca0881d21f24cfb1eea8302cacc72cc5dce4a" in_zeros="21266" out_zeros="1073089"/>
 			<track number="8" type="AUDIO" frames="17779" pregap="0" duration="03:57:04" size="41816208" crc="53e0141c" md5="5d7ca6b788c30b78c7ae456d391c6d3e" sha1="07d2a9d51fa6742ff6430d5057e81650e80d94be" in_zeros="18942" out_zeros="1055089"/>
 		</rom>
+	</game>
+	<game name="Zork I - The Great Underground Empire (1980) (Infocom) (Installation).dosz">
+		<description>Zork I - The Great Underground Empire</description>
+		<comment>Revision 88, Serial 840726 1985 5.25" floppy disk</comment>
+		<year>1980</year>
+		<developer>Infocom</developer>
+		<variant>Installation</variant>
+		<rom name="disk1.img" size="184320" crc="225929c2" md5="0766c190723b49afead59f23de83a52e" sha1="2d305780d4cdf64f32d77bb9a8aed5d277eaf9f7"/>
+	</game>
+	<game name="Zork I - The Great Underground Empire (1980) (Infocom) (Solid Gold).dosz">
+		<description>Zork I - The Great Underground Empire</description>
+		<comment>Release 52, Serial 871125 "Solid Gold" 1987 5.25" floppy disk</comment>
+		<comment_dosc>Auto run</comment_dosc>
+		<year>1980</year>
+		<developer>Infocom</developer>
+		<variant>Solid Gold</variant>
+		<rom name="disk1.img" size="184320" crc="c5ffab28" md5="2cf0bd9f6d9c1b1793d40fe258dc703d" sha1="2a2420704b8acd487f85d1001103796770f75dd8"/>
+	</game>
+	<game name="Zork II - The Wizard of Frobozz (1981) (Infocom) (Installation).dosz">
+		<description>Zork II - The Wizard of Frobozz</description>
+		<comment>Version 48, Serial 840904 1985 5.25" floppy disk</comment>
+		<year>1981</year>
+		<developer>Infocom</developer>
+		<variant>Installation</variant>
+		<rom name="disk1.img" size="184320" crc="cb741f9e" md5="aa255d7cfe77e77c0784cc6c7155ceb2" sha1="cfa6381c4a7e524c1327a33d57abc8b7074256f9"/>
+	</game>
+	<game name="Zork III - The Dungeon Master (1982) (Infocom) (Installation).dosz">
+		<description>Zork III - The Dungeon Master</description>
+		<comment>Release 17, Serial 840727 1985 5.25" floppy disk</comment>
+		<year>1982</year>
+		<developer>Infocom</developer>
+		<variant>Installation</variant>
+		<rom name="disk1.img" size="184320" crc="37e13f11" md5="e1a716bf27ccf59d427382a8ebed7222" sha1="71d0abbe9b1ee1403570f56514173963b66253bd"/>
 	</game>
 	<game name="Zork Zero - The Revenge of Megaboz (1988) (Infocom) (Installation).dosz">
 		<description>Zork Zero - The Revenge of Megaboz</description>
