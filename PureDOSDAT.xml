@@ -1387,6 +1387,28 @@
 		<rom name="SOUND/WSS.ADD" size="48" crc="d625f396" md5="0879106beb6bd78253fe90bfb8c8e61f" sha1="eda3abb190a8ca2f3104c2ed8ec8c06ff1ae20b0" date="1993-05-18 15:07:44"/>
 		<rom name="SOUND/WSS.ADV" size="15991" crc="1c3f3b50" md5="0f2a8f3531219d33d094e92b00d41a0e" sha1="4d360564b8d05866165e4dc03257c7f372a1347c" date="1993-02-13 21:03:02"/>
 	</game>
+	<game name="Chex Quest (1996) (Digital Cafe).dosz">
+		<description>Chex Quest</description>
+		<comment>Installed from CD</comment>
+		<comment_dosc>Keyboard + Mouse controls, Sound Blaster config, and auto start</comment_dosc>
+		<year>1996</year>
+		<developer>Digital Cafe</developer>
+		<rom name="chex.exe" size="713017" crc="dd3e1573" md5="d58fc123f7ed425bcc060afb7269bc9c" sha1="77fae773cd3c1dc6c436e1a80b31a3988c16998d" date="1996-10-31 10:35:34"/>
+		<rom name="chex.wad" size="12361532" crc="298dd5b5" md5="25485721882b050afa96a56e5758dd52" sha1="eca9cff1014ce5081804e193588d96c6ddb35432" date="1996-10-31 13:44:40"/>
+		<rom name="setup.exe" size="107056" crc="2746a131" md5="29b77e8bd8a81b825ce289d9972d450e" sha1="9ddceff147f32242b835e5f3649579cde6df3385" date="1996-10-31 08:28:52"/>
+	</game>
+	<game name="Chex Quest 2 - Flemoids Take Chextropolis (1997) (Digital Cafe).dosz">
+		<description>Chex Quest 2 - Flemoids Take Chextropolis</description>
+		<comment>Freeware</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>1997</year>
+		<developer>Digital Cafe</developer>
+		<parent>Chex Quest (1996) (Digital Cafe).dosz</parent>
+		<rom name="Chex Quest (1996) (Digital Cafe).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="CHEX2.BAT" size="22" crc="c0681194" md5="d9cd68f1c024f63f79df2e3b2cf85de5" sha1="a6a74e62cafb7c3204259c89d5346d5d93fafd0d" date="1997-02-04 13:46:20"/>
+		<rom name="CHEX2.ICO" size="766" crc="021474f3" md5="4b075245a247a7fb00db53910b43148d" sha1="86d11c676e5bb74683c0d793372ca59558199073" date="1997-02-04 14:25:28"/>
+		<rom name="CHEX2.WAD" size="7585664" crc="30aab11e" md5="fdc4ffa57e1983e30912c006284a3e01" sha1="d5b970834b8ff364d377ef04eb7d12fa6035e10a" date="1997-02-05 16:37:42"/>
+	</game>
 	<game name="Commander Keen in Invasion of the Vorticons - Episode One - Marooned on Mars (1990) (id Software).dosz">
 		<description>Commander Keen in Invasion of the Vorticons - Episode One - Marooned on Mars</description>
 		<comment>Shareware episode v1.31</comment>
