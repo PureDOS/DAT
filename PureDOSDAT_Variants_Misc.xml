@@ -800,4 +800,18 @@
 		<rom name="WINTILE1.STL" size="25792" crc="bcf97e59" md5="e596c9e84f16103ca02ae8b60ab26557" sha1="8d8577b0757dde1421583f93405ad62c725b3054" date="1991-10-05 10:42:38"/>
 		<rom name="WORLD.GIF" size="39470" crc="2700a426" md5="7a50599bd34594c3547d0165ca1704ec" sha1="b5362ee263a99bc44aa6a35c1959b1dbe780dda4" date="1988-05-26 13:50:50"/>
 	</game>
+	<game name="Witchaven (1995) (Capstone Software) (EGwhaven).dosz">
+		<description>Witchaven</description>
+		<comment>v1.3b</comment>
+		<comment_dosc>Video config and auto start</comment_dosc>
+		<link type="patch">https://ettingrinder.youfailit.net/wh-egwhaven.html</link>
+		<year>1995</year>
+		<developer>Capstone Software</developer>
+		<variant>EGwhaven</variant>
+		<parent>Witchaven (1995) (Capstone Software).dosz</parent>
+		<rom name="DOS4GW.EXE" size="265420" crc="cb214447" md5="ee4033581845b3b8d28c4b7287eb4fc2" sha1="a897c7eb79145a308c4e60b43413bb2daa360506" date="2017-08-17 04:33:28"/>
+		<rom name="EGSETUP.EXE" size="62530" crc="21c59d6f" md5="f658553d85aaae30f2ee011deb13262c" sha1="cc2270eb34395eb21fe6a9bdbd63c8bb398476d7" date="2017-10-20 16:32:28"/>
+		<rom name="egwh1.exe" size="710310" crc="8262f686" md5="9e4d4727f7e9c3022732482c38b83764" sha1="b89a3f4cc049bc4a01176c8d5457050f71b21394" date="2018-04-27 16:22:30"/>
+		<rom name="Witchaven (1995) (Capstone Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
 </datafile>
