@@ -1507,6 +1507,106 @@
 		<rom name="SOUND/ULTRA.DIG" size="9478" crc="430d67f5" md5="000e584a06712d2f2b58eb2e17b65248" sha1="4327d6bb924b4e40fa7ff035bdfb73a879c31836"/>
 		<rom name="SOUND/ULTRA.MDI" size="49672" crc="04849dc3" md5="9a1b881ab9e8f6d827f6c27c5df40d85" sha1="8337ada0962de33ee3eb8ebbf9d5d0c898f41fd2"/>
 	</game>
+	<game name="Witchaven (1995) (Capstone Software) (GOG, Enhanced).dosz">
+		<description>Witchaven</description>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="store">https://www.gog.com/game/witchaven</link>
+		<year>1995</year>
+		<developer>Capstone Software</developer>
+		<variant>GOG, Enhanced</variant>
+		<parent>Witchaven (1995) (Capstone Software) (GOG, Original).dosz</parent>
+		<rom name="EGPREF.CFG" size="811" crc="69b58a10" md5="b5eb2860814449b4285d8e37a4d3d7ab" sha1="39f8274bf37c7b0c0b37da8f65fef5a6bbffa94b"/>
+		<rom name="EGSETUP.EXE" size="62530" crc="21c59d6f" md5="f658553d85aaae30f2ee011deb13262c" sha1="cc2270eb34395eb21fe6a9bdbd63c8bb398476d7"/>
+		<rom name="egwh1.exe" size="710310" crc="8262f686" md5="9e4d4727f7e9c3022732482c38b83764" sha1="b89a3f4cc049bc4a01176c8d5457050f71b21394"/>
+		<rom name="SETUP.DAT" size="46" crc="87d2a731" md5="a628644584d418ffba3912953c304995" sha1="829eb3a594b3eda57d43c96470aeb6d50524191e"/>
+		<rom name="SETUP.EXE" size="50800" crc="1c9e4404" md5="cbee7038c87e784f0df46f48147753b8" sha1="d9a6f5827d0498584ca93cbc2dc6aa16c2ceb3df"/>
+		<rom name="WH.EXE" size="675280" crc="add43dcc" md5="055f1e862870a6854de8b331dc90e4d4" sha1="526a2d647cf2bb59438dd19da4c3c41216e3bf76"/>
+		<rom name="WHAVEN.BAT" size="52" crc="f3b0b715" md5="852a1949cfa4ee1f6c9919fd3715db3a" sha1="957b00e92a64e0c3cf3e3b7b16b11df18b5a6951"/>
+		<rom name="Witchaven (1995) (Capstone Software) (GOG, Original).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Witchaven (1995) (Capstone Software) (GOG, Original).dosz">
+		<description>Witchaven</description>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="store">https://www.gog.com/game/witchaven</link>
+		<year>1995</year>
+		<developer>Capstone Software</developer>
+		<variant>GOG, Original</variant>
+		<rom name="AUDIO.EXE" size="188279" crc="4619d072" md5="32cc9f4bf18d7ead0b009cb3c521bfe0" sha1="03063a1e4ee8378a8ee3490747e399330548ffa3"/>
+		<rom name="CD.DAT" size="3" crc="dda96b5d" md5="6cc41b7a2f29a0dc5ac9ade53bdcee6a" sha1="372cfac69bbf33ed90989f64a8fa07d0d1e2fd66"/>
+		<rom name="DOS4GW.EXE" size="265420" crc="cb214447" md5="ee4033581845b3b8d28c4b7287eb4fc2" sha1="a897c7eb79145a308c4e60b43413bb2daa360506"/>
+		<rom name="DRUM.BNK" size="5404" crc="19cde7ae" md5="d7ff7b6a671863e284329c8ceeb46326" sha1="9f35dc8284117dafe767c90a7917ec4fe99a05fb"/>
+		<rom name="GRAVIS.EXE" size="49194" crc="066c5e51" md5="b24134b3fab09b2727b49a0fe1d64d8e" sha1="d9ba6f21e0e7a7210fc7bdc99495343cadd07d9d"/>
+		<rom name="HMIDET.386" size="81956" crc="9ebfe500" md5="4262f607e983978d66f1d4db9002e564" sha1="cb36bd50000c5fbc0a5c80a5f74b60f5015686b5"/>
+		<rom name="HMIDRV.386" size="261425" crc="f6d116a3" md5="bd16499c7c0ef8cebb0999373edc5361" sha1="becd7f4a413a1966986b4c41c860b678d7244d58"/>
+		<rom name="HMIMDRV.386" size="117816" crc="b7d651e1" md5="9cb79e2d5947ced61c4c8865d84f60ab" sha1="1bbeec4012d30e1347e4c886a91841a10312dc9e"/>
+		<rom name="HMISET.CFG" size="233" crc="6676f612" md5="a0d18fed51b1ca2d52f7a01461483436" sha1="3f3ddd28a13ef8b9de57e2a90e6b0072cb8616cf"/>
+		<rom name="JOESND" size="2797568" crc="4cc892b7" md5="95f6dfdfbdfb51a7a2cb3d87130f51ab" sha1="fee7808cd83b9d62c748ee90304f67f704a3056b"/>
+		<rom name="LEVEL1.MAP" size="96866" crc="da9612cb" md5="ab0c3dd8398d09e4065c342eb331a565" sha1="6390a4cb5f420d54d61423b348b5150da230012a"/>
+		<rom name="LEVEL10.MAP" size="105648" crc="22fd7dde" md5="19f8aa38460c320b1cdd6aaba3c45288" sha1="e156d3506740b4672a853b79ab85864a231d055f"/>
+		<rom name="LEVEL11.MAP" size="103338" crc="202e1828" md5="9629a2254958f1d3c1aa5fa058012697" sha1="c7831f746d96b5fa7b3cc52a6ac4fd7c7ba279f4"/>
+		<rom name="LEVEL12.MAP" size="66546" crc="c29e101c" md5="c0259f1713b464e8f5d3be8119dd6219" sha1="bec50f6d33ad199d8a05b2598fa2fd8516fb1fd8"/>
+		<rom name="LEVEL13.MAP" size="111909" crc="a43746dc" md5="bdcb556d5e9894efb155186fadde9ed4" sha1="7650c48a2a588556e638019d2e26281c6f8a1356"/>
+		<rom name="LEVEL14.MAP" size="105148" crc="147b4ac9" md5="d63a3ecfe40e43562899c50949d19c17" sha1="0dd103e3e76c7d0c3cdda1d7a8c9d18da1481d8f"/>
+		<rom name="LEVEL15.MAP" size="97658" crc="458c8b50" md5="b4fa16d9c320b8fc89789222ec240266" sha1="81786a257cd93c4efe9e1a8250c3223aed4572d4"/>
+		<rom name="LEVEL16.MAP" size="107121" crc="64045559" md5="a120f3ea1076c0d9a8e9a5705290f5b9" sha1="e12853f9e7d5e1c4006ec67cb37bbddfa8341f41"/>
+		<rom name="LEVEL17.MAP" size="124741" crc="ddd62486" md5="d5b5f4dd58258d4112224c5197c6dad9" sha1="d18fa5fe621731a8656b1692491c0cc209eae14b"/>
+		<rom name="LEVEL18.MAP" size="110811" crc="52eb02ed" md5="9135897a836b1c011ac681a34406fbc5" sha1="f85d73a5a124dd67f3eaaedfcc17e40eb4f9ddbe"/>
+		<rom name="LEVEL19.MAP" size="112013" crc="76171f1c" md5="01254181b159a03409fb454458e14949" sha1="90d69f4b054c5e4a29531965a126ba3a7af43cd3"/>
+		<rom name="LEVEL2.MAP" size="76834" crc="19ef221d" md5="1b06d671b92fe40f9f01a0717c90e73b" sha1="1a942e0b069669b4b47dbb83e7573fe66e07f119"/>
+		<rom name="LEVEL20.MAP" size="68354" crc="937407a0" md5="9b931ef26f7220df207caf128e142aa1" sha1="59f8f37c17d4b94f0993b69169a39055c0e9bb0c"/>
+		<rom name="LEVEL21.MAP" size="78429" crc="d10f0db5" md5="396431e6c0918d50aeb4c200e118fb10" sha1="b97c91fee4e781cd95c7f5dcb21bf089a220ed26"/>
+		<rom name="LEVEL22.MAP" size="70849" crc="56c38513" md5="5111513e1605fe946f619c1a79b72696" sha1="361bf32c862a42a3ffd3bb27483e710f1d1759bd"/>
+		<rom name="LEVEL23.MAP" size="101943" crc="19a957eb" md5="3a8ec2b045e4f47010b9f670e6ee3e0a" sha1="ec8766a9de1639bece6bc46ef0c642f69954b91f"/>
+		<rom name="LEVEL24.MAP" size="65694" crc="af62f4dd" md5="9f74306d40159eb90b78d1ae9e09d67c" sha1="f3851de7fadd37dcc02a2c84c3be88b3292666b5"/>
+		<rom name="LEVEL25.MAP" size="67327" crc="6085a041" md5="9b17fb7665a269d6881e56bcb4ad53c1" sha1="05963f837848a2ac979a643401bed29ca284e4c6"/>
+		<rom name="LEVEL3.MAP" size="106356" crc="3595a1fe" md5="c644498b8537d2b4e8d518afa872119a" sha1="733c42b2b190e5d0b75dcb3ffda79d1256a30d10"/>
+		<rom name="LEVEL30.MAP" size="25625" crc="48106941" md5="c2878496b746dbb8d9beb17c497642e9" sha1="92da3fb3913a44e048b9947e071c3d3ce71c3d0a"/>
+		<rom name="LEVEL31.MAP" size="20243" crc="7c0fd6cc" md5="fa4fbaf0ade339805068e7be20f541e4" sha1="f79ff7c599a01186041d8481dac43b54427c4a93"/>
+		<rom name="LEVEL32.MAP" size="56039" crc="52763a20" md5="e77002e3d6c0fe30ed524f0f109b30f5" sha1="cbefdb1cc2ef4616a496fced5915c02bc29f630f"/>
+		<rom name="LEVEL33.MAP" size="56203" crc="b59bc9f4" md5="cddc1b23dae9181df55b2ed3dc99eeb6" sha1="e31b65d8bebe56b5d3d871e09ec833975e4cc237"/>
+		<rom name="LEVEL34.MAP" size="34589" crc="8ad80d12" md5="cf265794b1104ca071f20d3899ef6980" sha1="ca964c494cacd0bb844dc9d088e6d29c3a89cc9e"/>
+		<rom name="LEVEL35.MAP" size="19055" crc="c395cc4f" md5="eed2739ba89aeb2716f652ce987c11fb" sha1="6e4c264cc683a070843dfa0950cb55e035a3c7dc"/>
+		<rom name="LEVEL4.MAP" size="109882" crc="80ff75d0" md5="6d977f5f2e373f1cc7576b9e9bf49649" sha1="0588eb3ef28cd90a7636426b779d9a0df0652c42"/>
+		<rom name="LEVEL5.MAP" size="103838" crc="729e5fcf" md5="d5d3ea7c9409e71962c6d8a25dd2947d" sha1="b3bd4dd09be65e631e05c60211cfcdf819937526"/>
+		<rom name="LEVEL6.MAP" size="91317" crc="d7383c10" md5="e9ddb4a77e805e57e3d7d84c2b4f96fd" sha1="a4948845929c9f08d036c031d87c99d1559644e0"/>
+		<rom name="LEVEL7.MAP" size="113594" crc="d1a48978" md5="b94273533e7638a5f060be350cd006f1" sha1="d755281d887b7e56e94309c7bcce25bb7ce071ac"/>
+		<rom name="LEVEL8.MAP" size="88715" crc="5e073a2b" md5="91c0810992b76bb14872e4b3f39b8b8c" sha1="36419aed0df193e23ccd44f7dc8c0ec9905784e9"/>
+		<rom name="LEVEL9.MAP" size="95033" crc="20616db5" md5="94aaa1ef8b4e9ff6a64434e07a5f55c0" sha1="91822013a61dc2a2672fa28a0bf4f993c64c9b64"/>
+		<rom name="LOOKUP.DAT" size="3085" crc="99d93d5a" md5="900218dfe97aecfa5a3d9f3401e254b1" sha1="5db94a6a0f487e48e632c546de6e59526e2f0686"/>
+		<rom name="MCGA.DAT" size="46" crc="f73c7d83" md5="d56f0490697a9d739f9aa63fc6205db7" sha1="a9358d14b3c5c8eef36e1f148b3274c20c67ea26"/>
+		<rom name="MELODIC.BNK" size="5404" crc="1c477be4" md5="80ac8dceb4d4b8e92c1d3e5e29e5e195" sha1="e6f8bb05c7c47c8a8381d1b823870ebb97d3db3c"/>
+		<rom name="MENUPAL.DAT" size="41600" crc="8c50e52d" md5="fd4b2ec065ce54439c695d2acd59d9a7" sha1="303c984a642e07ab4be559d65bda50098dfed0c6"/>
+		<rom name="MODEM.BAT" size="97" crc="122faef3" md5="b572ea58cb098ee4bcc19358fe34606d" sha1="2f6f3fbd17afcb063b7a5b343aa4f1e4fba8f6f2"/>
+		<rom name="NETWORK.BAT" size="33" crc="b3cf92ab" md5="17114e0d773c7f59a8f88fdc3d8e422e" sha1="408b82385375d385080f4aa1d2680c7344e529ee"/>
+		<rom name="PALETTE.DAT" size="41600" crc="b006f5ce" md5="3cfb374e448a9a98537696c64a7b1db5" sha1="9e13cf325376deec8f337f8b6ee2ee184a0d3fca"/>
+		<rom name="PATCHES.INI" size="6854" crc="3e21bbcc" md5="66562c95363b5a8160d7b8339de922b3" sha1="b2bb44b87b7a44d7a8624e3c5e91183d35ad7c45"/>
+		<rom name="PREF.DAT" size="12" crc="6f809f40" md5="206175c9b5ac324e7a16df142cc1509b" sha1="7cb3309c066469e1266063e333c288d3f4ce1988"/>
+		<rom name="README" size="291" crc="13cde381" md5="59925245481b8d20f5be97325c80aeb7" sha1="78dec67df27af341a7dfb578344731128bd39443"/>
+		<rom name="SETUP.DAT" size="47" crc="4b3c6ffd" md5="e8b877734169822ad7ddc80f55021a59" sha1="6a03332cc923e2c48f87a192e72a8d1e8628a5f4"/>
+		<rom name="SETUP.EXE" size="80400" crc="befda062" md5="f9b76ebe7e05cbb28f54b8786c80d291" sha1="99b18d0d05ff6961dd14dbe02fe1022fc389ca21"/>
+		<rom name="SETUP.INI" size="3357" crc="623f96ca" md5="b88fccf50fa5d43dc0aeaa9cd6485ef9" sha1="fb592f7ceabcc8ac11d5cd915cd87353fe02e7e6"/>
+		<rom name="SMACKPLY.EXE" size="92954" crc="55416f65" md5="7477f5373b3bf44359c4e6ec588f0eca" sha1="7bd929889bd960b9b836c0af0e6309f9c0bc4c0c"/>
+		<rom name="SONGS" size="532480" crc="c81c8045" md5="50f7641cafde0e5f6695fa37281d1b4d" sha1="f63be49065494e738a023ec68613e77c23e03862"/>
+		<rom name="TABLES.DAT" size="11904" crc="6117b2dd" md5="f16adb8c2a84b6e149b323f45cc99538" sha1="ddc82647142f90d73c8629f6e7d964b02decae95"/>
+		<rom name="TEST.HMP" size="79495" crc="4a6415a8" md5="7ccaece5c608f89091f479a9c18746c1" sha1="aa4c071c21224d6c2efee62d5588f73234416673"/>
+		<rom name="TEST.RAW" size="39806" crc="a53633e6" md5="88a615d3915a5a2117de034d0ec571b7" sha1="99dd09b6e383b8a5acf4458aaa09593b6d664b60"/>
+		<rom name="TILES000.ART" size="4300805" crc="66610c31" md5="b4f36d0466af8ae8a80e92ba8f6f671d" sha1="7628386bd990f66ad3fc11d38b8106fcdd4a8ddf"/>
+		<rom name="TILES001.ART" size="1996296" crc="3a34ae61" md5="514922ec69d5c7957e2859720d5a6d11" sha1="bc8742f94dc8fcec412f2786edaba7aa5c2560ba"/>
+		<rom name="TILES002.ART" size="904239" crc="fd42872e" md5="c27027be149441e88181d20ade3eea8c" sha1="61a720463b3bb26c2cb123851a926a8f86ae2071"/>
+		<rom name="TILES003.ART" size="1928939" crc="458d93d6" md5="f45afaba9e1ade7517c5058e4a1001d9" sha1="707eee5c547f49d903419a0c24a1596c9bf3d557"/>
+		<rom name="TILES004.ART" size="3074158" crc="f958daec" md5="c192f7e8adbadb5f6ab3c56dae7b7265" sha1="c5feca88510630782f9be2c45ce5ce12b4722971"/>
+		<rom name="TILES005.ART" size="4443091" crc="5b864f04" md5="9a35029c72292d0a72aba9738b3596d2" sha1="e8514c4a7686934a53d0ea3269ed8f3d0d1c7c2e"/>
+		<rom name="TILES006.ART" size="1149902" crc="214d2888" md5="be4359920349a5c36231e7a5189f5aaf" sha1="56835090607fa873e63277ce4098ab69a3633acc"/>
+		<rom name="TILES007.ART" size="3138731" crc="3c68b92a" md5="a8441d343c1e17f478b262da32a0e3f7" sha1="321e4a6d65862068cbd06961e84bff67560d3368"/>
+		<rom name="TILES008.ART" size="2772715" crc="62264f08" md5="781cbab6ee200f8d2795b73220651810" sha1="fa85548128dd4634ce16c4c375f08f1d3aff0dea"/>
+		<rom name="TILES009.ART" size="2462301" crc="50f1286e" md5="347cb2e38b7111c204b1b3dee64a86ae" sha1="179c627effe7a5cc65ab5d761c303d7db16b8b04"/>
+		<rom name="TILES010.ART" size="5813871" crc="e56e0cd5" md5="6bdb0f3bb967d8604c3e5a2dc39d1758" sha1="cd9f4a98c092dc9be9769c429cc6117293184964"/>
+		<rom name="VER1.DAT" size="10" crc="ee486149" md5="95b27cbca9596e5c106e2380afb31136" sha1="253a5a54a5de97489fde24ef46ff0e580540d25b"/>
+		<rom name="WH.EXE" size="621249" crc="c0d73b83" md5="a67299858fb3e1f21ca93b2ea84bac82" sha1="e39f960d1fa17e2bedd61094a62d1b89afde24b4"/>
+		<rom name="WHAVEN.BAT" size="53" crc="aba79216" md5="9d1bc181d922c1a4b530cf635b0100fb" sha1="f639aca4f6c940c7f95e6f98b223175a06ad4bf2"/>
+		<rom name="WHMDM.EXE" size="99280" crc="fd01417b" md5="3c2555ce7ab5c5683d7959085e232c5a" sha1="ee2c5823c3baf59edd9e21d0983871dc7e0642cd"/>
+		<rom name="Witch.iso" size="107098112" crc="8d224510" md5="ef75a252e36cf0b51570f6f0f8864b56" sha1="79c3c77e72d7b17b2cfdf6f15c0bd78337fa11b7"/>
+	</game>
 	<game name="Zork I - The Great Underground Empire (1980) (Infocom) (GOG).dosz">
 		<description>Zork I - The Great Underground Empire</description>
 		<comment_dosc>Auto run</comment_dosc>

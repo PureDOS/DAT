@@ -394,6 +394,18 @@
 			<track number="8" type="AUDIO" frames="17779" pregap="0" duration="03:57:04" size="41816208" crc="53e0141c" md5="5d7ca6b788c30b78c7ae456d391c6d3e" sha1="07d2a9d51fa6742ff6430d5057e81650e80d94be" in_zeros="18942" out_zeros="1055089"/>
 		</rom>
 	</game>
+	<game name="Witchaven (1995) (Capstone Software) (Installation).dosz">
+		<description>Witchaven</description>
+		<comment>Installed from Europe re-release CD-ROM (Serial: PWH144AB-CD)</comment>
+		<link type="media">http://redump.org/disc/2055/</link>
+		<year>1995</year>
+		<developer>Capstone Software</developer>
+		<variant>Installation</variant>
+		<rom name="Witchaven (Europe) (Rerelease).chd" size="164407680" crc="502b04b2" md5="eea35599d0a00a3efa7c0edae2aaa6ef" sha1="bfb6618fcd8d89527df8c0dedac61d63f73cc005">
+			<track number="1" type="MODE1_RAW" frames="50302" pregap="0" duration="11:10:52" size="118310304" crc="2d6ab9d9" md5="6fd7a0e5a25a287a43bfc2fa2f0fd896" sha1="7b25e2fc688e95cba2a9872b6cb2aa343ac1ae84" in_zeros="1" out_zeros="0"/>
+			<track number="2" type="AUDIO" frames="17125" pregap="150" duration="03:48:25" size="40278000" crc="16cbbba4" md5="712e340e71d102a7af96c27548c2e437" sha1="7110ac6b6c115a64dd522a695d32ba9d373f7264" in_zeros="352800" out_zeros="350229"/>
+		</rom>
+	</game>
 	<game name="Zork I - The Great Underground Empire (1980) (Infocom) (Installation).dosz">
 		<description>Zork I - The Great Underground Empire</description>
 		<comment>Revision 88, Serial 840726 1985 5.25" floppy disk</comment>
