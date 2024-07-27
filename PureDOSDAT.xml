@@ -6608,12 +6608,13 @@
 	</game>
 	<game name="Witchaven (1995) (Capstone Software).dosz">
 		<description>Witchaven</description>
-		<comment>Installed from Europe re-release CD-ROM (Serial: PWH144AB-CD) with the official mouse patch applied</comment>
+		<comment>Installed from Europe re-release CD-ROM (Serial: PWH144AB-CD) with both the official mouse patch and final patch applied</comment>
 		<comment_dosc>Video config, sound config, and auto start</comment_dosc>
 		<link type="media">http://redump.org/disc/2055/</link>
 		<year>1995</year>
 		<developer>Capstone Software</developer>
 		<rom name="AUDIO.EXE" size="188279" crc="4619d072" md5="32cc9f4bf18d7ead0b009cb3c521bfe0" sha1="03063a1e4ee8378a8ee3490747e399330548ffa3" date="1995-03-22 09:45:08"/>
+		<rom name="DAPI.CFG" size="97" crc="ee26508f" md5="59ca38f45e08c1b4216f1b14f73feb05" sha1="d72c0d50e916262a26893c296d75a0a9382c7808" date="1996-03-05 10:21:54"/>
 		<rom name="DOS4GW.EXE" size="265420" crc="cb214447" md5="ee4033581845b3b8d28c4b7287eb4fc2" sha1="a897c7eb79145a308c4e60b43413bb2daa360506" date="1994-09-01 10:00:00"/>
 		<rom name="DRUM.BNK" size="5404" crc="19cde7ae" md5="d7ff7b6a671863e284329c8ceeb46326" sha1="9f35dc8284117dafe767c90a7917ec4fe99a05fb" date="1994-02-04 13:33:12"/>
 		<rom name="GRAVIS.EXE" size="49194" crc="066c5e51" md5="b24134b3fab09b2727b49a0fe1d64d8e" sha1="d9ba6f21e0e7a7210fc7bdc99495343cadd07d9d" date="1995-02-06 03:00:00"/>
@@ -6661,6 +6662,7 @@
 		<rom name="PALETTE.DAT" size="41600" crc="b006f5ce" md5="3cfb374e448a9a98537696c64a7b1db5" sha1="9e13cf325376deec8f337f8b6ee2ee184a0d3fca" date="1995-04-20 12:14:28"/>
 		<rom name="PATCHES.INI" size="6854" crc="3e21bbcc" md5="66562c95363b5a8160d7b8339de922b3" sha1="b2bb44b87b7a44d7a8624e3c5e91183d35ad7c45" date="1995-08-30 18:35:42"/>
 		<rom name="README" size="291" crc="13cde381" md5="59925245481b8d20f5be97325c80aeb7" sha1="78dec67df27af341a7dfb578344731128bd39443" date="1995-11-08 15:25:22"/>
+		<rom name="README.TXT" size="163" crc="8e33e855" md5="5c9fadf1403c25cf980c86dec67629e4" sha1="054d8bcc2025d7de1fc271f5b5c0a93fd6d08c5e" date="1996-01-12 07:28:40"/>
 		<rom name="SETUP.DAT" size="46" crc="022a85fe" md5="f73a43db34157c89bae854269bcf0282" sha1="2ba7c0230d2c6446544d19ea369ad13ea0bd4144" date="1995-09-03 20:08:08"/>
 		<rom name="SETUP.EXE" size="80400" crc="befda062" md5="f9b76ebe7e05cbb28f54b8786c80d291" sha1="99b18d0d05ff6961dd14dbe02fe1022fc389ca21" date="1995-11-08 15:10:46"/>
 		<rom name="SETUP.INI" size="3357" crc="623f96ca" md5="b88fccf50fa5d43dc0aeaa9cd6485ef9" sha1="fb592f7ceabcc8ac11d5cd915cd87353fe02e7e6" date="1995-03-22 09:41:16"/>
@@ -6680,7 +6682,7 @@
 		<rom name="TILES008.ART" size="2772715" crc="62264f08" md5="781cbab6ee200f8d2795b73220651810" sha1="fa85548128dd4634ce16c4c375f08f1d3aff0dea" date="1995-08-29 12:10:04"/>
 		<rom name="TILES009.ART" size="2462301" crc="50f1286e" md5="347cb2e38b7111c204b1b3dee64a86ae" sha1="179c627effe7a5cc65ab5d761c303d7db16b8b04" date="1995-08-26 15:30:52"/>
 		<rom name="TILES010.ART" size="5813871" crc="e56e0cd5" md5="6bdb0f3bb967d8604c3e5a2dc39d1758" sha1="cd9f4a98c092dc9be9769c429cc6117293184964" date="1995-08-31 23:00:12"/>
-		<rom name="WH.EXE" size="621249" crc="c0d73b83" md5="a67299858fb3e1f21ca93b2ea84bac82" sha1="e39f960d1fa17e2bedd61094a62d1b89afde24b4" date="1995-11-08 14:21:00"/>
+		<rom name="WH.EXE" size="765149" crc="4495fdef" md5="6d1035bb3d5e9c0aa5b7617d0695e053" sha1="ac23ff5a45d383f9c8562a92d5925e27ed18e3ae" date="1996-03-05 10:19:38"/>
 		<rom name="WHMDM.EXE" size="99280" crc="fd01417b" md5="3c2555ce7ab5c5683d7959085e232c5a" sha1="ee2c5823c3baf59edd9e21d0983871dc7e0642cd" date="1995-09-03 17:29:42"/>
 	</game>
 	<game name="Wolfenstein 3D (1992) (id Software).dosz">
