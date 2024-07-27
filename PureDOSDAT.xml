@@ -327,6 +327,220 @@
 		<rom name="SFX/ZAP3.WAV" size="9448" crc="c58c799a" md5="33c38a9e024e33721e5c42b0fcc18eba" sha1="b83706f5e97e4416278a9564a319362c2c5a504f" date="1995-08-26 05:30:20"/>
 		<rom name="TEST.RAW" size="40320" crc="0d2d49b8" md5="7cc517930c314be6ca818395934e9850" sha1="13b15b9f8a0b7d98176f9437aca149301c576458" date="1995-08-15 19:57:50"/>
  	</game>
+	 <game name="Alone in the Dark 3 (1995) (Infogrames).dosz">
+		<description>Alone in the Dark 3</description>
+		<year>1995</year>
+		<developer>Infogrames</developer>
+		<rom name="AITD3.EXE" size="210704" crc="5541cbf2" md5="622e820e2a993a9357b89eb17681d447" sha1="f24b349742bc8205db6c921b9a693dcda9b8c12d"/>
+		<rom name="Alone in the Dark 3 (1995) (Infogrames).chd" size="478280448" crc="a4d905e7" md5="3b21b1f03f5dd3a0910df89e87e3442a" sha1="de527598e6b809482dea1da7c4c7c2f1dfb820e9">
+			<track number="1" type="MODE2_RAW" frames="18548" pregap="0" duration="04:07:23" size="43624896" crc="1aa0de9c" md5="2c84ea1aedd91397f1cb8de031c886b0" sha1="157f35c3a4051a262193112c6d9b9de195823c65" in_zeros="1" out_zeros="0"/>
+			<track number="2" type="AUDIO" frames="8918" pregap="225" duration="01:58:68" size="20975136" crc="3cbad9ed" md5="83486aa837d1ad68dd33c923aa00e9d6" sha1="8abf6a02df1ee84a7610606cfbaf1c6cfdc85645" in_zeros="538000" out_zeros="2048"/>
+			<track number="3" type="AUDIO" frames="2551" pregap="150" duration="00:34:01" size="5999952" crc="c4bf6205" md5="f69e20055462a46aa5352038e2cc7570" sha1="cb6926dfc98c11b74b90cc19c0168635e2c2d478" in_zeros="360912" out_zeros="2048"/>
+			<track number="4" type="AUDIO" frames="10185" pregap="150" duration="02:15:60" size="23955120" crc="21931631" md5="346e5d89db037123fceb0705852d8dcb" sha1="4661ad1174e4bd56ebb017fd04717f7f0e058f06" in_zeros="362652" out_zeros="2049"/>
+			<track number="5" type="AUDIO" frames="910" pregap="150" duration="00:12:10" size="2140320" crc="9ce7c9d9" md5="3007a852ae00ab422cd6e502831cc63a" sha1="1fb6c5c0c8ed0ae52335d7756e1f46156ed2c433" in_zeros="361480" out_zeros="2048"/>
+			<track number="6" type="AUDIO" frames="891" pregap="150" duration="00:11:66" size="2095632" crc="3547afcb" md5="3d81b98365bad5de0e8ccf479d2dd029" sha1="b343c55df5a734f8282933fe92dffa7fa7c230eb" in_zeros="362024" out_zeros="2048"/>
+			<track number="7" type="AUDIO" frames="9788" pregap="150" duration="02:10:38" size="23021376" crc="ba999f6d" md5="70529d7032feb09752fea86becd86cf5" sha1="ae729365af94e68ac5f7b7e719c1d7b856629a95" in_zeros="360750" out_zeros="2048"/>
+			<track number="8" type="AUDIO" frames="1572" pregap="150" duration="00:20:72" size="3697344" crc="43bbcbfb" md5="26f0d6fe61e8e98e6f9664e3156e862b" sha1="971f87af1017efdeeea8d970e5716bd1ec4951a7" in_zeros="360792" out_zeros="2049"/>
+			<track number="9" type="AUDIO" frames="10232" pregap="150" duration="02:16:32" size="24065664" crc="0aa9990a" md5="40dd7e09a58190e6b21f93a27156c242" sha1="7d23e41c0ea6a1c79941df8bbf28e285c8bb22f2" in_zeros="361516" out_zeros="2048"/>
+			<track number="10" type="AUDIO" frames="1084" pregap="150" duration="00:14:34" size="2549568" crc="cd4df7fe" md5="4f5264738a24cfe0bdbb8cc38a554a41" sha1="dc4334eed17aa10ac3ecec1d42155176ade4217e" in_zeros="360880" out_zeros="2049"/>
+			<track number="11" type="AUDIO" frames="4785" pregap="150" duration="01:03:60" size="11254320" crc="e7eaafe0" md5="4fcb626c8344823996c05bd8b82b69f6" sha1="23e29fd5af79e3312e663f7364bfd439dcc737bc" in_zeros="361744" out_zeros="2048"/>
+			<track number="12" type="AUDIO" frames="5703" pregap="150" duration="01:16:03" size="13413456" crc="1c2e8163" md5="d09bbdb6b76d4ae90e112e2f66d39846" sha1="78fb293e897e121819c8c41a667fbffbfe3390b3" in_zeros="361524" out_zeros="2048"/>
+			<track number="13" type="AUDIO" frames="1168" pregap="150" duration="00:15:43" size="2747136" crc="1ef9ae98" md5="c2086fea727a8bf1d934691199a2273d" sha1="2a446716b9a37ed899eff9f91b4933d0b8bb5f32" in_zeros="362620" out_zeros="2049"/>
+			<track number="14" type="AUDIO" frames="10809" pregap="150" duration="02:24:09" size="25422768" crc="7d9e2398" md5="9cbb5acf719082c928e7893774b0c327" sha1="bcd3b9fe8db01e8bfca1e74957c3d6ff891fabd5" in_zeros="361688" out_zeros="2049"/>
+			<track number="15" type="AUDIO" frames="10648" pregap="150" duration="02:21:73" size="25044096" crc="d018c7e3" md5="b81a310eeda1602c5dde98b45602cc91" sha1="956885997e870fb183b2729eea202b8fc84dcbd5" in_zeros="360764" out_zeros="2048"/>
+			<track number="16" type="AUDIO" frames="10777" pregap="150" duration="02:23:52" size="25347504" crc="fb83f6b7" md5="c5eaff8243c95809337dad82934b5507" sha1="5e60f20e32ffd6eb354dde4ba948697694b1d457" in_zeros="360776" out_zeros="2048"/>
+			<track number="17" type="AUDIO" frames="4695" pregap="150" duration="01:02:45" size="11042640" crc="db71fe30" md5="ec6bf980a34413ef014ff4613f8deee3" sha1="c83fd343044f9bfc09ea77bced08551d7232097e" in_zeros="362276" out_zeros="2049"/>
+			<track number="18" type="AUDIO" frames="7736" pregap="150" duration="01:43:11" size="18195072" crc="38a575c8" md5="e00b2e15fab7212c695a95f4bbeb1aa2" sha1="86311771ddc41519f455e883c481c8f606251011" in_zeros="362544" out_zeros="2049"/>
+			<track number="19" type="AUDIO" frames="10622" pregap="150" duration="02:21:47" size="24982944" crc="249b48ff" md5="3807ad68c9d030be11f1899f432dc336" sha1="304bc53295cac8683ccea1eb9a58ea42e82e41ae" in_zeros="360532" out_zeros="2049"/>
+			<track number="20" type="AUDIO" frames="10356" pregap="150" duration="02:18:06" size="24357312" crc="537ec527" md5="d46c3ecef68ff14fab915f07aab0d89b" sha1="eabad959ac6e8e3761b206f724cee6b0653d8892" in_zeros="362548" out_zeros="2048"/>
+			<track number="21" type="AUDIO" frames="3687" pregap="150" duration="00:49:12" size="8671824" crc="53f0f537" md5="b767e78ea4cc5b2f1f562eb590449898" sha1="2c47b1c4523601a5eb85a1e21fa7db2f47944083" in_zeros="494420" out_zeros="2048"/>
+			<track number="22" type="AUDIO" frames="7692" pregap="150" duration="01:42:42" size="18091584" crc="437467ee" md5="bad89064236a890d3c37507075c1d049" sha1="8597be8bf388e7f214c56c92509af37e275ef942" in_zeros="360888" out_zeros="2049"/>
+			<track number="23" type="AUDIO" frames="7395" pregap="150" duration="01:38:45" size="17393040" crc="6410655a" md5="4dcba954408460286330a5c8e805016d" sha1="324d41d989661c93831cde2702b26b6adf3a78e0" in_zeros="362360" out_zeros="2048"/>
+			<track number="24" type="AUDIO" frames="630" pregap="150" duration="00:08:30" size="1481760" crc="34021efa" md5="21fd0edc83b1c5355605049a4b84c41b" sha1="b9ed1625348efafef05ec7188efc93aa9ebd4e19" in_zeros="361356" out_zeros="2048"/>
+			<track number="25" type="AUDIO" frames="2289" pregap="150" duration="00:30:39" size="5383728" crc="103eca66" md5="249ded7531dd717038cc050a3eddf772" sha1="0936d04ebb16a836547e596f938d1740cd6ba835" in_zeros="366528" out_zeros="2048"/>
+			<track number="26" type="AUDIO" frames="3181" pregap="150" duration="00:42:31" size="7481712" crc="4c632038" md5="926e8193d8d3d2bd636a746f7916f772" sha1="d49c94ffbf929d92c509808e4197a6334c81213b" in_zeros="370508" out_zeros="2048"/>
+			<track number="27" type="AUDIO" frames="2331" pregap="150" duration="00:31:06" size="5482512" crc="40b960de" md5="2a5739ca4e61ff55ca1b9b55665d0309" sha1="d89386b2c26f212f7abdd9e38710fbf7fb5fd1b0" in_zeros="368884" out_zeros="2048"/>
+			<track number="28" type="AUDIO" frames="796" pregap="150" duration="00:10:46" size="1872192" crc="582a04dd" md5="ddf92173363fe26e7aea8f5295e9a735" sha1="87a0278ba56287ca8be270282de15113e54d82fe" in_zeros="369704" out_zeros="2049"/>
+			<track number="29" type="AUDIO" frames="874" pregap="150" duration="00:11:49" size="2055648" crc="dea02613" md5="0292ee35c0ae437db634a4053df9b5cd" sha1="31909f9846fcd851ce8b19ea09f3c0c7fc1c3425" in_zeros="369020" out_zeros="2048"/>
+			<track number="30" type="AUDIO" frames="951" pregap="150" duration="00:12:51" size="2236752" crc="ec1fac1f" md5="b25481e291902b0250c65b199da87be2" sha1="8ffe3079507a6b19f8c4410cd592679f35497fee" in_zeros="366520" out_zeros="2049"/>
+			<track number="31" type="AUDIO" frames="1646" pregap="150" duration="00:21:71" size="3871392" crc="c24f7f7d" md5="9345f17be58957d1680425ee74b69124" sha1="407a06511fe92d45d83d1e8c4f79525de3e1d6f5" in_zeros="362148" out_zeros="2048"/>
+			<track number="32" type="AUDIO" frames="769" pregap="150" duration="00:10:19" size="1808688" crc="04270989" md5="4159263023027a4f0d8443557893c2f3" sha1="04499c2ac894117bff0a7f33a930c08cd235d1fb" in_zeros="362180" out_zeros="2048"/>
+			<track number="33" type="AUDIO" frames="708" pregap="150" duration="00:09:33" size="1665216" crc="789d177b" md5="d8a9b98f9e56ef2a16b34c856d7c5d0f" sha1="957e7d77b7ade50f5f92d30e2c11d644d9194cf8" in_zeros="364996" out_zeros="2048"/>
+			<track number="34" type="AUDIO" frames="1767" pregap="150" duration="00:23:42" size="4155984" crc="4f6d4c79" md5="4286c767d33f2bef03824f11d45b8568" sha1="f17f87d988f793fbe3e8ce8847e56b6601f4b3d4" in_zeros="362436" out_zeros="2049"/>
+			<track number="35" type="AUDIO" frames="988" pregap="150" duration="00:13:13" size="2323776" crc="4af41808" md5="be28a37b3d6f027fed9d278759034253" sha1="e4966e91c9d1f94001cd7961ea9f0dd4aa4cbc3f" in_zeros="361664" out_zeros="2048"/>
+			<track number="36" type="AUDIO" frames="814" pregap="150" duration="00:10:64" size="1914528" crc="d01bcfb1" md5="e33efc4f70903aaf96db4e3b9e11cc16" sha1="fdf2da7d285205084628a913f4cd9aced6c73946" in_zeros="361312" out_zeros="2048"/>
+			<track number="37" type="AUDIO" frames="973" pregap="150" duration="00:12:73" size="2288496" crc="58e156cc" md5="45ccb6e313f280c1c0c747c2ce71daed" sha1="a33d82218f39b8c48038e9af0a4b848eb70cef55" in_zeros="361304" out_zeros="2048"/>
+			<track number="38" type="AUDIO" frames="483" pregap="150" duration="00:06:33" size="1136016" crc="f8b54147" md5="f39be601ed43ffa0c58da857ad914a2b" sha1="a11cba21a0ea88d622580d68d37df25f057ece68" in_zeros="362100" out_zeros="2048"/>
+			<track number="39" type="AUDIO" frames="1346" pregap="150" duration="00:17:71" size="3165792" crc="01146fbc" md5="8409c565436be9aed64d7b023de779d9" sha1="50a7a473fbb1d33a7d42d610096504782d6b792b" in_zeros="361368" out_zeros="2048"/>
+			<track number="40" type="AUDIO" frames="1172" pregap="150" duration="00:15:47" size="2756544" crc="21d6559b" md5="7d25328484f3191f7826da16cfeb3cca" sha1="c9b2f2eb506b6a73d92e00587934df8a0f6a4552" in_zeros="361488" out_zeros="2048"/>
+			<track number="41" type="AUDIO" frames="385" pregap="150" duration="00:05:10" size="905520" crc="86f5992b" md5="69e733a884220f401e68c76768c21e85" sha1="27f8688ff2306e2817da64169df6cf20013f0110" in_zeros="363660" out_zeros="2048"/>
+			<track number="42" type="AUDIO" frames="2306" pregap="150" duration="00:30:56" size="5423712" crc="88e7c720" md5="469b314a7ad94d025d7db0180698e35e" sha1="208e00cf6bfb7a4f29980e180faf18226e15995c" in_zeros="364644" out_zeros="2048"/>
+			<track number="43" type="AUDIO" frames="806" pregap="150" duration="00:10:56" size="1895712" crc="47233dbc" md5="bb14368539b4fdd7284f9a07eb40cbff" sha1="118095eaefb220a7c6041554e84f81516b2d25a9" in_zeros="364592" out_zeros="2048"/>
+			<track number="44" type="AUDIO" frames="698" pregap="150" duration="00:09:23" size="1641696" crc="3edc51f5" md5="5fc162951ab9360843552a43d986123d" sha1="da1e7eb509e9c943132ff15aaa106988a8a4749f" in_zeros="361164" out_zeros="2048"/>
+			<track number="45" type="AUDIO" frames="767" pregap="150" duration="00:10:17" size="1803984" crc="63ab7e95" md5="004fd8982a1f0dc7b8fea7a13cbfb7ff" sha1="8a1e2ca659fd880355d5c7706f39ce0da566a7fc" in_zeros="370704" out_zeros="2048"/>
+			<track number="46" type="AUDIO" frames="1467" pregap="150" duration="00:19:42" size="3450384" crc="a555fdab" md5="06adccfc16bb6b5f44da7f6da14eb075" sha1="1a2cbdb5a4abdde546fad401c2ec8c6ce8e465ad" in_zeros="370140" out_zeros="2048"/>
+			<track number="47" type="AUDIO" frames="776" pregap="150" duration="00:10:26" size="1825152" crc="ef473433" md5="0ee5786c0d6a135cb4aa753dcef56c0c" sha1="501d215cb2bc2021ce4c3a6e0423b192af6143e7" in_zeros="369248" out_zeros="2048"/>
+			<track number="48" type="AUDIO" frames="893" pregap="150" duration="00:11:68" size="2100336" crc="7d8d5148" md5="b36963646037156032377014967f006b" sha1="36669f4d3e927d6e0ff183968eff8b9b6795e69f" in_zeros="361084" out_zeros="2048"/>
+			<track number="49" type="AUDIO" frames="926" pregap="150" duration="00:12:26" size="2177952" crc="e48ba5f2" md5="9f71eb5037f7c63b4e0eb760ada0e3ac" sha1="108328f716e8a9c9e9e196c215173abc9d7c95a3" in_zeros="362156" out_zeros="2048"/>
+			<track number="50" type="AUDIO" frames="701" pregap="150" duration="00:09:26" size="1648752" crc="e50cdcc8" md5="25d41b9f1d1c19d0d198da40cc0f0360" sha1="ee0bcbd62d3e3c1fad54d5ee14ce8849bb4520ae" in_zeros="361756" out_zeros="2048"/>
+			<track number="51" type="AUDIO" frames="817" pregap="150" duration="00:10:67" size="1921584" crc="ff763284" md5="a591d30383759c749e6d8c29bbdc1a42" sha1="fab60522d9dd779cc265bf5d5ab3eda68a799271" in_zeros="360912" out_zeros="2049"/>
+			<track number="52" type="AUDIO" frames="853" pregap="150" duration="00:11:28" size="2006256" crc="530f0fc2" md5="c42670d0ac033db769ffcc094035555c" sha1="8820ccdea5c4c4ab861d357af7e28e1839f04d3f" in_zeros="360784" out_zeros="2048"/>
+			<track number="53" type="AUDIO" frames="1335" pregap="150" duration="00:17:60" size="3139920" crc="5be447bc" md5="d9150630bb74a97aacb38cc621c2ecdd" sha1="10d9ce45ae18e595ec23d4c8f07e96dd228e7ceb" in_zeros="361336" out_zeros="2048"/>
+			<track number="54" type="AUDIO" frames="1393" pregap="150" duration="00:18:43" size="3276336" crc="ec123dae" md5="945423c1ea819219e61be4d16024e9b0" sha1="44ecd2424f2a1e3dc57e7e7f33271581f0bebdb2" in_zeros="361056" out_zeros="2048"/>
+			<track number="55" type="AUDIO" frames="1122" pregap="150" duration="00:14:72" size="2638944" crc="e9485192" md5="83d15a237e522037c72fc885c62a99f6" sha1="783a72481e8785f20e293e881aa23830166e58f2" in_zeros="360924" out_zeros="2048"/>
+			<track number="56" type="AUDIO" frames="883" pregap="150" duration="00:11:58" size="2076816" crc="4488b3b3" md5="fd0b575632f397487a5cff968102f4da" sha1="0358914dcfce103114a902ab504d3dcd003596d3" in_zeros="362392" out_zeros="2048"/>
+			<track number="57" type="AUDIO" frames="2136" pregap="150" duration="00:28:36" size="5023872" crc="d974d76c" md5="1a7afea984fc7361a66fcbdc819a9c3f" sha1="d2e0b6f9dfa370242b0bf95dc99acdb1102ad8ca" in_zeros="362580" out_zeros="2048"/>
+			<track number="58" type="AUDIO" frames="624" pregap="150" duration="00:08:24" size="1467648" crc="985c4744" md5="6e1b3c68f79f29489c678d4aa7dbf9d4" sha1="495f558175198edcbd996a2af5ce89d192ca6978" in_zeros="360972" out_zeros="2048"/>
+			<track number="59" type="AUDIO" frames="1002" pregap="150" duration="00:13:27" size="2356704" crc="78713f27" md5="e6495fa860c6861517452008806ea585" sha1="8f3c03ef3875907a5d55c6a4277094c138884708" in_zeros="367656" out_zeros="2048"/>
+			<track number="60" type="AUDIO" frames="1154" pregap="150" duration="00:15:29" size="2714208" crc="95a9e5b0" md5="4ac15d0d28d3d71c61e4ce60d5cb1ed5" sha1="b524da2be8c3a239f72c8ec449f413b33e62e61d" in_zeros="365276" out_zeros="2048"/>
+			<track number="61" type="AUDIO" frames="910" pregap="150" duration="00:12:10" size="2140320" crc="82cba3bd" md5="ca76e7c773920bbbbd3e4d57a7ff0529" sha1="974d8d32d5fa676627349c871a26bdaccbc424c9" in_zeros="367144" out_zeros="2048"/>
+		</rom>
+		<rom name="ALONE3.ICO" size="766" crc="7e8b66fd" md5="f091c0ace049a27cb33bf793753ff5ce" sha1="ce50b7a2ba19a4e06c6281a1c484a86434bc1be3"/>
+		<rom name="AN1.PAK" size="306902" crc="66f1688d" md5="5293345bd4307ecddddc0a8ed525e63a" sha1="0d289552f41edee8e8aa888bb7b9d276826d6b11"/>
+		<rom name="AN14.PAK" size="177430" crc="d3c8aae5" md5="59afa9288f589f68345101cbc4f5df6c" sha1="e772601f5695fdacc44b3d2c66381a518b5b0129"/>
+		<rom name="AN17.PAK" size="904691" crc="2895b6dc" md5="dd4d4c88041a1508b0d3fca0c0ddb093" sha1="32b4fc8182409d626656d6b89f923aa34ec8111c"/>
+		<rom name="AN18.PAK" size="176917" crc="91a6e7af" md5="8cfaa8eb253b74576a711ada5417c589" sha1="e67661d0f78494e766fee0dc0734b9ccc5fae67c"/>
+		<rom name="AN19.PAK" size="68109" crc="ab06bf73" md5="c8c9063d2e17822b343ea68abcefa3e2" sha1="728c7b34c63005528b8bd64256ea7a4f253e9861"/>
+		<rom name="AN2.PAK" size="547310" crc="b8306421" md5="c5dd2037e933f779f0ac811dedd858fc" sha1="d318ed594ffc093d440ed88a19a4b7bc40f792a2"/>
+		<rom name="AN21.PAK" size="661484" crc="452bd7bd" md5="cb72df7268f2e9129bb46677f299e185" sha1="9f57c64d2c57645e3575af9cccda84f0d6fb0e54"/>
+		<rom name="AN22.PAK" size="300147" crc="2a9d158d" md5="c293a4eecbb7a98a06597d8ed1502f47" sha1="24722f8ce44d945d862522214dd97c9eff8af8ab"/>
+		<rom name="AN23.PAK" size="223649" crc="8275b964" md5="1c10e6204171cd4575e5d3c7151c3c6d" sha1="370b71c83568c2d60cb2ade4fd123faa7b91acc1"/>
+		<rom name="AN24.PAK" size="197846" crc="ba3c0d85" md5="985ec69aca046300a02220cbf3905c6d" sha1="7db1706194d07f6b73b68dea778b824b92816ece"/>
+		<rom name="AN25.PAK" size="221916" crc="a8c2bbdb" md5="e16a0baa9b28f23cf93360799ea9f14c" sha1="0392d7376d1bee46c0db0b4e304892a836d8a175"/>
+		<rom name="AN26.PAK" size="865897" crc="b708a14c" md5="ba0b0a404735a7a3d4d4392acb0c40fb" sha1="ce86ba73461bfc144d1d9be5f77af7ebf0b33ac9"/>
+		<rom name="AN27.PAK" size="865897" crc="b708a14c" md5="ba0b0a404735a7a3d4d4392acb0c40fb" sha1="ce86ba73461bfc144d1d9be5f77af7ebf0b33ac9"/>
+		<rom name="AN28.PAK" size="368714" crc="a35ab327" md5="20af527c8a0e48a1aa3c663b79a21f00" sha1="0017af323dbc5894f82e5f82b39695d3607719e3"/>
+		<rom name="AN3.PAK" size="98893" crc="c7428bea" md5="5620d6325e3ebc9f664327b8637c36a5" sha1="f8408977cb7bed2128b6e07f4bfb1626f9cabcdb"/>
+		<rom name="AN30.PAK" size="89089" crc="4def3a32" md5="0bc863e926e85589e7e95c3f60e735af" sha1="a54a5dba1fcd1fb2338aa9522248aec6949ab873"/>
+		<rom name="AN31.PAK" size="44832" crc="1632539c" md5="45c15c88913734f1208fc666566db8bb" sha1="ae8bab344f0b12e17a4ac3dd8cedded62570f9c3"/>
+		<rom name="AN32.PAK" size="49222" crc="66c88557" md5="a899e2a6e9e1ecc6d9914549ad424924" sha1="ee62c84422f8eb7ce720892f352ac82bed3c74df"/>
+		<rom name="AN33.PAK" size="54268" crc="b3926db8" md5="52f72894054e9ac8ef14f90b8089c186" sha1="e239ca006627d9dae275b76c7cf96856e098b0dc"/>
+		<rom name="AN34.PAK" size="64976" crc="b1adebf0" md5="a5775bfe0d458a6cdf0c3206cba7749d" sha1="b3a9ec83720e3a81ec05d96600f734dcd88f4bf6"/>
+		<rom name="AN35.PAK" size="62581" crc="7935dd3a" md5="feed938317ebb44574547591bdab3c66" sha1="c4802123a3b8e380c76d6dba30557098481c6fda"/>
+		<rom name="AN36.PAK" size="22433" crc="023a7029" md5="42f0ac8f68d9e4d0a3cac11bdd4ab033" sha1="fb11748005e9cc0a8ba170432a5cc440a766b4dc"/>
+		<rom name="AN37.PAK" size="145883" crc="703b0479" md5="bb717c485051b149b5f7f654e281cf86" sha1="865c799e7003f92908a7151f132ee583c76d54d1"/>
+		<rom name="AN38.PAK" size="614549" crc="73fbdd04" md5="257e6b955d761f0cdbddd5084397b597" sha1="2c1a5cc9a9c8cfd2801da246b9473179ae0a0d07"/>
+		<rom name="AN39.PAK" size="387501" crc="a81801c3" md5="5f938973fa4cebc86b26b8afabdc1703" sha1="8197f2a3d042a33c3944d41d2a021b3a7bd3fc6c"/>
+		<rom name="AN4.PAK" size="51395" crc="220d75c5" md5="ad292b0bb26262511e4508a1f0eb5b4e" sha1="700ead2e27a5760b8f8feae3e8bb278518205743"/>
+		<rom name="AN40.PAK" size="66006" crc="98fa8ed3" md5="bc292a739bc2a7e19c64c50bcf1b1bdf" sha1="29705c6f83cfcc011339735180add9febb2a51af"/>
+		<rom name="AN41.PAK" size="151853" crc="f3700c9a" md5="2f0e3c26ec56ed724f76525615a2ad4c" sha1="cdde455c0879f9dbfbefc15889c095caad6672da"/>
+		<rom name="AN42.PAK" size="196383" crc="5733c156" md5="2a3dce6b4435747595dd537477183192" sha1="4143eb2eed902591e0f84f35ab9e8914c2b48490"/>
+		<rom name="AN43.PAK" size="178678" crc="200ed507" md5="b28e03fd00c783bfc0e8407c70226cdd" sha1="9c65922f0be23d4dbdbaae39b1f5841f1dada1a6"/>
+		<rom name="AN44.PAK" size="83981" crc="dc415d6b" md5="bf90d5b4b097c00a0c0f40a300d1a3eb" sha1="eecc48ef647ce0b331c82faef7c14d6a9697309b"/>
+		<rom name="AN45.PAK" size="27051" crc="1b536d53" md5="d76019f2f16e44ba8dfa0e31286de3e8" sha1="faaff9382fbcbc88cc0748197f22740fb19c9018"/>
+		<rom name="AN46.PAK" size="16893" crc="0f9624d1" md5="bf14163fa6cf6b081647ca20dfba9877" sha1="115632d27599ab62d4d3aec17989d9e0b5ec6427"/>
+		<rom name="AN47.PAK" size="500568" crc="f571e95f" md5="7ae7bafdda32f93e44812d597296d209" sha1="ed84ed8fa2063c0a101b081ad253e9971cbcaaae"/>
+		<rom name="AN48.PAK" size="2370938" crc="c428d0a0" md5="bb7c963987ceb4344932a8ddec5400e3" sha1="5dfb3c6b755f0ce5af54fdfe4db488fa06a4277f"/>
+		<rom name="AN49.PAK" size="435313" crc="0b2a4c1c" md5="bb2160466a2e7fa88187d0164e9f5198" sha1="80005611fadb766c5be8e9bb396ebcd1a9d89b11"/>
+		<rom name="AN5.PAK" size="172896" crc="73f7e966" md5="062b5440fa6ccb54dbef7ad861af383f" sha1="741700cf4126fe1a3e5c9dd71ad8f70dc0328a06"/>
+		<rom name="AN50.PAK" size="1029847" crc="99d0e4dd" md5="d6b96989d8486fd92c981574462443fe" sha1="6bf668c27f09a89713b04e6f1594ee40a6a3661d"/>
+		<rom name="AN51.PAK" size="3016766" crc="c5d95c20" md5="b100ee9d0dfae83b5671d52d9c09f974" sha1="17e463c8930427c27e0c06b51d9a37512c0f46ef"/>
+		<rom name="AN52.PAK" size="533202" crc="15929c61" md5="636e54880a659d96ff60399785153f25" sha1="a04a7fc625135132c95047258c8a86577187652b"/>
+		<rom name="AN53.PAK" size="284387" crc="118359dc" md5="765d0761708e2197a8c3974029639b2f" sha1="6fab4fc2d2ba93f3295d4f228938406595238627"/>
+		<rom name="AN54.PAK" size="170407" crc="ec9b2d77" md5="7dafc6f7f07f20de4583f6ab48d4d490" sha1="7f5debf4bdde82b2202dc88345a261d8fd87889b"/>
+		<rom name="AN55.PAK" size="254948" crc="19fb66cd" md5="1a9af0b815b55839f227216ca384b869" sha1="f38bd643dc6b36169df27644fc6fded43826f8d8"/>
+		<rom name="AN56.PAK" size="41892" crc="e6498eb6" md5="12d5d383de9a8566309951e8a3e31568" sha1="7ea3f900b743e9af15140fccef3f0ec92b6d7f20"/>
+		<rom name="AN57.PAK" size="81054" crc="fc4441b7" md5="2d6cfb848ca525b2d69703f276a2a5fc" sha1="40480a9e9e74bc19bb55f5c29351503e298af028"/>
+		<rom name="AN58.PAK" size="94398" crc="c3c6b55a" md5="02d9ae65d075819afa841a72a5924802" sha1="8c34e6792c78fa18b74fdca812d2ca4a909fb9dc"/>
+		<rom name="AN59.PAK" size="94168" crc="1283fd7a" md5="c66ba56e14c74800f882a47901fe8724" sha1="c4f64763eb728930017e89be08eed2f6ec587eec"/>
+		<rom name="AN6.PAK" size="108628" crc="b669439b" md5="e41c8dba6dd282d2257acfa20e6e8f80" sha1="b7318e43c0c0add6f16628eada0575325a13a8df"/>
+		<rom name="AN60.PAK" size="158215" crc="a7abaeea" md5="8544807dc8ab661f74636e53cc5b09ce" sha1="4701facde0609e9c2837c741e6f2493aaa28938a"/>
+		<rom name="AN61.PAK" size="37419" crc="66991318" md5="8e52d39d9379fc098a24e6b9853508a7" sha1="89f277b25475e4e168b4efde5d57231745a5ec7c"/>
+		<rom name="AN62.PAK" size="36706" crc="b10263b5" md5="dbc0a10ec2fd25053bc8347c59343256" sha1="c7aa6e1b0f6df8ecdbbb57335dc4a0003b185d2a"/>
+		<rom name="AN63.PAK" size="21296" crc="b48aaf15" md5="df13e059f2c13a7324722d3c105ead19" sha1="a765f98b009aba7580dc44558ca74bbae28eda9f"/>
+		<rom name="AN7.PAK" size="218868" crc="189587da" md5="211c0cdd870b63d63364c60c125184b9" sha1="4321b4aa1a40e2e4e9712abc71f3e3ea7705136e"/>
+		<rom name="AN8.PAK" size="53594" crc="54685e43" md5="3bd808e717abfa411dd1c5a5b91e1595" sha1="7d34a7243db8a6c35da55fca59417f0cad907ff5"/>
+		<rom name="ANIM00.PAK" size="14381" crc="670dd314" md5="3cbd8ec078cc042f3b26bd6f108ce9da" sha1="2a66ac878555806e31cd5f8bb3fd1667df06c2ff"/>
+		<rom name="ANIM01.PAK" size="12949" crc="3dfcd810" md5="1baf3bd6ca987e7e07040067d4995da6" sha1="ae1908b6dbe1d7d9b1c5ae7ada4aa948d6157601"/>
+		<rom name="ANIM02.PAK" size="6711" crc="b78894d0" md5="b8338c5f44c5f46eb5b8ea28cf84c02a" sha1="c115cf9bac4c9a82d829c66ecb91f3345132ea28"/>
+		<rom name="ANIM03.PAK" size="15445" crc="6387a647" md5="10ba00b0dc51d33d95acbf4710a295fa" sha1="685fcb2cf20a0e0b5d2a9560c2bb649c2bfa3240"/>
+		<rom name="ANIM04.PAK" size="9067" crc="72a43dc9" md5="6bf7a49be5dc6e02a66b5a46963a5f6a" sha1="66a48fc2fcfd0dfce2a7cd3a6d312d5ad15fc97f"/>
+		<rom name="ANIM05.PAK" size="5906" crc="979ffbd5" md5="96f9d5f92d6687881bd3f362e96a34db" sha1="1958d0e9b346ba2ef5c1ea69b4344cd07a5a2bb9"/>
+		<rom name="ANIM06.PAK" size="19334" crc="5ecf18b3" md5="5220f9b592988bb138f4c35791a1866b" sha1="539956570d2532bf8a180e1809d82a74c29d8297"/>
+		<rom name="ANIM07.PAK" size="5800" crc="eab62b87" md5="60edf4964a9ca8a3d9cd9c28326a3ee1" sha1="b76ba54d26b7a5ee511f050273a849ccf10d6b66"/>
+		<rom name="ANIM08.PAK" size="9408" crc="52fd5e73" md5="a90ce72ff3f8567d6861fb570c8a2dc8" sha1="212db57fa5511be4f47e84cacfcbe82ef79bc65c"/>
+		<rom name="ANIM09.PAK" size="17967" crc="db8a0ba5" md5="434a514519c5d09be4d2139668d96e51" sha1="4d27d9323f3791e762d25febbb0ac4bf2659c458"/>
+		<rom name="ANIM10.PAK" size="7732" crc="a0e23020" md5="bbe169924716dd9c4773b04bc6ccc538" sha1="7bf3cf39bf1b931830104ae5016ef39dafbdaf88"/>
+		<rom name="ANIM11.PAK" size="7249" crc="b130470f" md5="59a62b2f84fd840249f79aa5f4020b66" sha1="c25cb3a614010edf6d8a7e79b18b075a3cc4ce70"/>
+		<rom name="ANIM12.PAK" size="4506" crc="5992b9f8" md5="974abd89b2ac2c85ba2ddf32e42525e8" sha1="ba7299514b318de9fad44ebde897a69a5928bfeb"/>
+		<rom name="ANIM13.PAK" size="10630" crc="4e586858" md5="72bee32419f88b7484854bc713805d82" sha1="17dde583d41cb1548dbbf1c6f494255b8d362bf4"/>
+		<rom name="CAMERA00.PAK" size="738235" crc="00a05f26" md5="4e6205b6098375087d9683e7b64d908f" sha1="97c8b99559a92b95e486b6eb6d1a94da18582356"/>
+		<rom name="CAMERA01.PAK" size="881181" crc="73869d49" md5="f366d8bab674d6a50d5076a0fa40b066" sha1="bdf8b9031777a40cc68ce3467445694512db077f"/>
+		<rom name="CAMERA02.PAK" size="420426" crc="decbdca6" md5="dd10d986b7c66222f6489e08f8db8560" sha1="698cb405e50d8778e6a5bd5565aea7bbe4b8d746"/>
+		<rom name="CAMERA03.PAK" size="990523" crc="6d375cf3" md5="439176c8f7af542d35a34b971b60d98b" sha1="589b297ad3714a3dd4ebcb7dc7fa3d2b31de12bb"/>
+		<rom name="CAMERA04.PAK" size="252208" crc="ec69b87b" md5="938e7e6dea2901da74d3a767888b4f16" sha1="5772a604af94fb196d34e6c47eb4636e5d0a0d4f"/>
+		<rom name="CAMERA05.PAK" size="227742" crc="d37aa282" md5="9c836b7f441046ab58067a214ef984d4" sha1="4ba0c635e916f06ef79f20cd9f9ab8243fa84f17"/>
+		<rom name="CAMERA06.PAK" size="1202103" crc="451d42b3" md5="c92f9b598e5f3f863f8c10e91f4ff5ec" sha1="598b658436510d6f6a2c2c72861e6c334b109230"/>
+		<rom name="CAMERA07.PAK" size="453342" crc="2b728f63" md5="11b7e6eec7238ae63f01153cc089bfc8" sha1="f3c1d6fe7b7fca3843497bd24b0ca9d6284980a5"/>
+		<rom name="CAMERA08.PAK" size="738108" crc="6cd0de60" md5="90ad80961005a09d41e97cfd9e6b059e" sha1="5f6437d1dd1a90683b6ecbb8c03edcd3d7e5f934"/>
+		<rom name="CAMERA09.PAK" size="948770" crc="0c6d2708" md5="6db5047c77517725575509f04345e75e" sha1="42280c94ec70f72f4ceb39af7778f28bcabdd663"/>
+		<rom name="CAMERA10.PAK" size="560729" crc="bf7bd043" md5="ce5fa9e748b281cb586a7e7d1c254f8f" sha1="36027e312aba81787b091ece8051dce9698b1aea"/>
+		<rom name="CAMERA11.PAK" size="598753" crc="3f6edd9e" md5="5ba4047183da0c9aab5efab0578c43fe" sha1="c6ed89813d1fe7f3ce2689bf52eef9aee8e0db7c"/>
+		<rom name="CAMERA12.PAK" size="264195" crc="edf536eb" md5="c5ffed7109c0c7ec7653a9f3a33e6351" sha1="1e76aa0fcf9f5a38bcb13fba9c7255500b76fc28"/>
+		<rom name="CAMERA13.PAK" size="713049" crc="98bc86e2" md5="e40ec99a2997fa6e5706df1929e2740c" sha1="729338372b26308534dad8be23da4625e097d876"/>
+		<rom name="CLEARDRV.EXE" size="8426" crc="9cc76e37" md5="96b87617284f455c5cc5c67e572f6d5f" sha1="3690fe106a6383046f33012ee73dd983fc1eab19"/>
+		<rom name="DEFINES.ITD" size="140" crc="f09cb58b" md5="080c505fa1e802d2a1ea87fa138158ed" sha1="c636d8fd8bfca66120cea38d4e7118212a2a156d"/>
+		<rom name="DEUTSCH.PAK" size="15319" crc="757c1947" md5="3329b3f34cbfab3a19b009102b9d31dd" sha1="c577dd6234896ff893923a9bd72ca1b601f47563"/>
+		<rom name="DRV_BZ.COM" size="761" crc="fbbc80a7" md5="21a16614c2b6d8c0eefecb3d1f36e325" sha1="c378cf8653a820f8b078befceff2e3a1e6052687"/>
+		<rom name="DRV_SB.COM" size="1499" crc="843da64d" md5="83bd59a529018586a1fd679266f75535" sha1="5dc7e22e2a52b43c864b4a212067b5b886a0979f"/>
+		<rom name="DRV_SBD.COM" size="932" crc="1cc6fa59" md5="8e714d7ddc2c73bb3ce71108eb99e834" sha1="f6ac092139e3caa9d89580626f15dc1b877210f7"/>
+		<rom name="DRV_SMP.COM" size="708" crc="8a958763" md5="e8db3e7f2ba5343243de64b62d702fb2" sha1="f7bf355b30e238b0113e9923b50bdfe1d2226dd3"/>
+		<rom name="DRV_SS.COM" size="913" crc="75315862" md5="cf06ec327f5c9aa20ace8c9a2f29b9a6" sha1="b22eb538b96ea7d8cd78613e03b8023d695ab828"/>
+		<rom name="DRV_VM.COM" size="1448" crc="9f13c48a" md5="3f65cee43fe2cec081a6dd1a6e742b6f" sha1="d30d01234aed8d09c2e0ca244af430f8320c2ad3"/>
+		<rom name="ENGLISH.PAK" size="13849" crc="c4240446" md5="277b59c6232ee6d4f4d6101cb790d161" sha1="a008412d910c7bfaa6f3aa0e2cc007a95b8c68de"/>
+		<rom name="ESPAGNOL.PAK" size="14801" crc="61f43756" md5="4d490374356ceedfaa08b93bd4b85006" sha1="9d15fea41fc58bdb80e7e8fa0f3b4c967e756412"/>
+		<rom name="ETAGE00.PAK" size="6939" crc="43de581e" md5="c8ca33348000393c1c31b2693b993e57" sha1="dfb7b20586e6ecdbf4270eddb40d355a306aa472"/>
+		<rom name="ETAGE01.PAK" size="4695" crc="79b9fa3d" md5="f2ec71fb7c8311df512a8cfe88074aec" sha1="545a0ee3bc1fab053d5aeeda9acf175b42f0c745"/>
+		<rom name="ETAGE02.PAK" size="3075" crc="e05aab1e" md5="de0f142f71620e0564dd84153609cce1" sha1="a5108fe73022b422fc45eb1a17cf9dda8073b1fb"/>
+		<rom name="ETAGE03.PAK" size="7236" crc="555324ed" md5="73abc0016deb06d078dea4ca90cef4a7" sha1="14cd60f48500b9feed5f581b243cf5f9b9defe53"/>
+		<rom name="ETAGE04.PAK" size="2660" crc="4865e5d3" md5="427b758089a7b80c09c1e3b27a926091" sha1="71effadd0f84207e01da25f662400773867fee38"/>
+		<rom name="ETAGE05.PAK" size="1445" crc="b505586e" md5="d72ad1f99fe9ee54bd7210c431c99cd7" sha1="da83e7441861674b02b7f9eb82b73c730482f7d2"/>
+		<rom name="ETAGE06.PAK" size="5691" crc="da2cfe98" md5="b13d89458c3599482edb99e9e6ca6e29" sha1="3c71643085b32f3bb50ae9828f4ab18fc3d31469"/>
+		<rom name="ETAGE07.PAK" size="2353" crc="42f80694" md5="e3de04c83f885863c8195960f9dae49a" sha1="b79322543bcb1ff4678f60a071222c76e1ebe172"/>
+		<rom name="ETAGE08.PAK" size="4232" crc="df9e7ee8" md5="3a70cfe89aee14fa686cd49f5b26b1c5" sha1="601a999db05c34053dc34a8d2ad24658470ff7b2"/>
+		<rom name="ETAGE09.PAK" size="7042" crc="5fc12ab3" md5="e5660c6c1df9cce30215d1e479dcf30c" sha1="e9f969271a079fe8749dd4326bd58d290736f9e3"/>
+		<rom name="ETAGE10.PAK" size="4605" crc="86cfddc4" md5="97ec2ca1502be6c0940117171faf1ffa" sha1="a07d415a799adfee224e7d807ab2814525ecd5d2"/>
+		<rom name="ETAGE11.PAK" size="4515" crc="44b47123" md5="97f17b844ad5adf7070cdc2113f55c2f" sha1="38cb44c85dafacfa109507f8d8ded7af8508df98"/>
+		<rom name="ETAGE12.PAK" size="2354" crc="69dd9737" md5="991d310a45805540eb8a1a12433d0d2c" sha1="8264ab56a0921d67dc4b2698c7c7fbbaf84abcc0"/>
+		<rom name="ETAGE13.PAK" size="5296" crc="30f5683b" md5="8c3022d205f55f2372d3814cf1d2f80a" sha1="cf91b79a6f974e73ff7da310c6bdd390e725fda8"/>
+		<rom name="FRANCAIS.PAK" size="15137" crc="7bd08dec" md5="e6dc63c2fba942155887dcf0baed01fd" sha1="974882cc90204712f0270a568cf1e5760e3a952c"/>
+		<rom name="INDARK3.PIF" size="545" crc="f2aff0ff" md5="ac90d7204dc8c0585b4671bfdae8bcfe" sha1="3ff99e1b754ade876f548c57ffe418bed76f7c21"/>
+		<rom name="INSTALL.EXE" size="99895" crc="491d4d04" md5="958e7c4bf969eae3ed569ccf73239434" sha1="dd8c95da0f69f6af44334234ee85a64b403affae"/>
+		<rom name="ITALIANO.PAK" size="15058" crc="12936928" md5="917065beee327c3ca773ef7f2985ae1a" sha1="19f5e3c05f7c70863e289849d46da22d404db89f"/>
+		<rom name="ITD_RUSA.PAK" size="1975851" crc="5849bb46" md5="7a135143889d8c7524acd69e7ec0fc59" sha1="81787a06b6f216fedb3c4aaea248b97c529e52ea"/>
+		<rom name="LEAME.WRI" size="18304" crc="7cee64e6" md5="b845a7ff928f7f26e3c73760adb56c2d" sha1="f537127cd2dbd9c42d5139c23e1633ca5ba02d1b"/>
+		<rom name="LEGGIMI.WRI" size="19584" crc="7e2cb91d" md5="205cd5fdd029fb59f43e9af8ffca338c" sha1="0524286563e3f304298e6e723fd10088c395440d"/>
+		<rom name="LIESMICH.WRI" size="18304" crc="31f3b468" md5="14ff1bc9d0ca2e6809024ecad2d0c5cc" sha1="8ac43300906a5f11c3fa8c3054dd897ac6910d25"/>
+		<rom name="LISEZMOI.WRI" size="22528" crc="972a5232" md5="9c24d65867b1ddf9143d627fd6f2b105" sha1="f3e266354b39ec6e88fa7a67ed2dc219a27541c9"/>
+		<rom name="LISTANIM.PAK" size="401036" crc="69437cad" md5="bae4d17bf217638bb1332f7d7d202de7" sha1="dacdf3fdaa5ec3eb481c3bd7216257058d422dc5"/>
+		<rom name="LISTBODY.PAK" size="863027" crc="d40f8447" md5="0b1709886bd90384585efc9ddd0c8eb3" sha1="429b57d40687b7b196128fbca1410071e8a6d921"/>
+		<rom name="LISTHYB.PAK" size="14737" crc="74b69947" md5="14b08ced0e4430d80996d7293b75ffa3" sha1="fe0cb3aea36cdae0cd31e3465ae91700dbc75ce9"/>
+		<rom name="LISTLIFE.PAK" size="206461" crc="3d42d698" md5="904e65d35421347d8d6f8b3a09868534" sha1="7590ca6801bce624e6a1f9d3b0810a328d3f1966"/>
+		<rom name="LISTMAT.PAK" size="25675" crc="4fe7cc65" md5="142c8acba87ac3f6302a7096003dfb7b" sha1="a8f9f22b6e9d8c33a385465c1c60a45c3906516a"/>
+		<rom name="LISTSAMP.PAK" size="2799397" crc="94c62765" md5="0587644211de9bea11f0521d894a8357" sha1="4945584851aae91b472e996256e8df92f85b93c3"/>
+		<rom name="LISTTRAK.PAK" size="74606" crc="98b7674d" md5="3aaf665523a9a0b9d8c86eefc459cf63" sha1="8d88215c15474a5b705bd7f0b0237b076ed9f6a5"/>
+		<rom name="MASK00.PAK" size="24327" crc="8150c438" md5="4574d30e868acbdaa4fc2039eda49aee" sha1="f99491ee89cd57ca5de2a27d77de35b8356f234b"/>
+		<rom name="MASK01.PAK" size="16431" crc="1fec232d" md5="208fd53283e752e393f56112be0f4593" sha1="2327a4d37af6b1cdf5b36b5d4beb3aa249c96715"/>
+		<rom name="MASK02.PAK" size="8313" crc="ad31aaca" md5="08e87074ac03c0d2c544056f03b1aebb" sha1="4aad51bbb71f97ba6dfbab7afbcb632034ea0af2"/>
+		<rom name="MASK03.PAK" size="19122" crc="63fbd39b" md5="a800891a9ca03a72cd8738c25db910e3" sha1="7e261b861a8b414199ceeb67d6cbe7217f39c79f"/>
+		<rom name="MASK04.PAK" size="3042" crc="5d21aafa" md5="07681ea2ced49e092f934f49b9ac5e59" sha1="4251db294cf0f1ad4402baf9a5f0a07d3750b1e7"/>
+		<rom name="MASK05.PAK" size="2372" crc="2ad0062e" md5="20716f8efc0c1c245c0236e9c7486ba3" sha1="545fbc6710b1e2b7080a8e2edbf9edf41f41ce31"/>
+		<rom name="MASK06.PAK" size="18522" crc="1f4e1415" md5="ba1004283901f22eaa03e24066a72f6a" sha1="0f3e9fc854b40791b53bcb003d1fb3f40f7b541f"/>
+		<rom name="MASK07.PAK" size="6129" crc="8161279f" md5="4ec03aa6916b86216cb80113f6d07b3e" sha1="062b09da90981670d7c76a7277eff05e775cbd6e"/>
+		<rom name="MASK08.PAK" size="8886" crc="fdf4a286" md5="69d9c198747823ec3f90323e78951637" sha1="6b718527a233567c0afdc0b662ffb1fedfa6bc47"/>
+		<rom name="MASK09.PAK" size="20421" crc="babab0d5" md5="fd8cc7d9a96a3712408f6a782e30731b" sha1="943f66bf6f27a207b41badf5ad99977927492fd7"/>
+		<rom name="MASK10.PAK" size="15684" crc="5d78195d" md5="b04e4bb5f7dbf13cdb1254e9115759ba" sha1="a33597c9e6e5ee33521fd750d414503ddd617bce"/>
+		<rom name="MASK11.PAK" size="9749" crc="0c5435d5" md5="4852f20124fb934a7d1c0f82fed4897d" sha1="26af8df424a1f3e8b9f9413b1224fd9996beccca"/>
+		<rom name="MASK12.PAK" size="4038" crc="dd4c7b64" md5="7be17699a38cbae6682182fd5dd3b7cf" sha1="a9432a44f09aed36f00097b8f6b61a0313add99c"/>
+		<rom name="MASK13.PAK" size="18907" crc="d4e9b27c" md5="85c1b27795f858690a0c54403b9612a4" sha1="49d1ac55d6de663c2babcb8e0b5392dec26f9bc7"/>
+		<rom name="NASK01.PAK" size="16627" crc="730ad88b" md5="3f195f66e7c8fd1cea71892bbfda5139" sha1="d5443bf555cca0124c891d02ba6440761791adc2"/>
+		<rom name="OBJETS.ITD" size="30242" crc="0b9da90a" md5="4774deacf7cdf27cf3ce5ab6f341d9ee" sha1="e73a50caa1dce69e99187bc05ae69e29c5ee6c58"/>
+		<rom name="PRIORITY.ITD" size="247" crc="db7faf4c" md5="f0f427d10f43409970ebbb6ac89e6108" sha1="7227a8fa5ce9146001ba848a4a938e8783a4b2ff"/>
+		<rom name="READALON.ICO" size="766" crc="7a2c6ea5" md5="5197e85bb468715050ed1ddae142610f" sha1="0423c7281a97f8568d6611fa231181c1b71d941a"/>
+		<rom name="README.WRI" size="16640" crc="5fcd714f" md5="435823adcebe2e90857980ae63815206" sha1="cb8ba84901a8e5aa68b9e6cc28d90e8156445470"/>
+		<rom name="VARS.ITD" size="940" crc="de9c31ef" md5="1b8ef8c0eca0c17adce0533bb440b5b5" sha1="f1e7cb79f00e1ebe4c41f8c36ed676b0f9c35e3f"/>
+		<rom name="WINSTALL.EXE" size="148496" crc="ffcdde36" md5="a490b5766250d9b80278a65625eb6dde" sha1="d7b540152ec45570f5a15e48eae19493186f8284"/>
+	</game>
 	<game name="Big Mac (2002) (BB Software).dosz">
 		<description>Big Mac</description>
 		<year>2002</year>
