@@ -1409,6 +1409,70 @@
 		<rom name="CHEX2.ICO" size="766" crc="021474f3" md5="4b075245a247a7fb00db53910b43148d" sha1="86d11c676e5bb74683c0d793372ca59558199073" date="1997-02-04 14:25:28"/>
 		<rom name="CHEX2.WAD" size="7585664" crc="30aab11e" md5="fdc4ffa57e1983e30912c006284a3e01" sha1="d5b970834b8ff364d377ef04eb7d12fa6035e10a" date="1997-02-05 16:37:42"/>
 	</game>
+	<game name="Command &amp; Conquer + The Covert Operations (1996) (Westwood Studios).dosz">
+		<description>Command &amp; Conquer + The Covert Operations</description>
+		<comment>Installed Command &amp; Conquer v1.22 from the White Label CD rerelease, then installed The Covert Missions</comment>
+		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
+		<year>1996</year>
+		<developer>Westwood Studios</developer>
+		<link type="media">http://redump.org/disc/34560/</link>
+		<link type="media">http://redump.org/disc/34561/</link>
+		<link type="media">http://redump.org/disc/28908/</link>
+		<rom name="_SETUP.EXE" size="627411" crc="3ad516fe" md5="74800f49cfcf18374c855a1ec1ba973a" sha1="a6f32a338ab87c214359b002317b7fa2ae9c95c3" date="1996-04-03 14:11:42"/>
+		<rom name="_SETUP.PIF" size="967" crc="001f584a" md5="42e92b490c99bf1bd424085342e0870e" sha1="27d8df3253b052c92567a51ab752340ed70fc10d" date="1996-05-22 10:38:40"/>
+		<rom name="BCAST16.WAV" size="213050" crc="c198e868" md5="cbb18642c2c076cbf428e75ec257487b" sha1="63991e23350646aebdf93f470da30d7d6010e09a" date="1995-12-29 13:43:00"/>
+		<rom name="BCAST8.WAV" size="106542" crc="154f63f0" md5="40c2820864c5ca78b592dddd4e5554c8" sha1="b44d074fbaeb9a4b07880cd3152a7b84b74db15e" date="1996-01-02 17:08:02"/>
+		<rom name="C&amp;C.COM" size="1519" crc="66b6b0c5" md5="9dad140caaf33a1cffa504804d822a48" sha1="637d54ec6874e413109dc4c52aa1b09a3793c85a" date="1996-06-13 10:52:40"/>
+		<rom name="C&amp;C.EXE" size="1519" crc="0b2d803d" md5="b0dd67df2acb20914c52a31c0250c9cb" sha1="67de311db78f0cbe96c7f784d8f4b863837ae991" date="1995-08-29 13:52:18"/>
+		<rom name="C&amp;C.PIF" size="967" crc="5fc969ae" md5="556e120c6308749b3eaf13cf30bea468" sha1="c4a7d6da69e90850bbfd13eeb60790ad0410f1cd" date="1996-05-22 10:44:12"/>
+		<rom name="Command &amp; Conquer (USA) (Disc 1) (Rerelease).chd" size="584797824" crc="87d7c447" md5="f9e0510576fdccb44acdfe70819c7cd3" sha1="27a32eec31b106e91541ddf5dfa78ca96b4bba21">
+			<track number="1" type="MODE1_RAW" frames="238828" pregap="0" duration="53:04:28" size="561723456" crc="3a6baa4b" md5="4de761e387e1a28eb21763f5fd740817" sha1="7636b6c4490e2035c1fdd0032b952e6def158ac3" in_zeros="1" out_zeros="0"/>
+		</rom>
+		<rom name="Command &amp; Conquer (USA) (Disc 2) (Rerelease).chd" size="564959232" crc="53c01a3d" md5="98504f5e63121c2427e3aea4442930dd" sha1="0d1e9f45938116b51f0dcaf36e873f34b80538a9">
+			<track number="1" type="MODE1_RAW" frames="230733" pregap="0" duration="51:16:33" size="542684016" crc="9e93dfd8" md5="b43b43b47061e4d0c98a3b5566e00a40" sha1="f6ec1c60ff681ac5e4dbd5401792ad85c1eabad1" in_zeros="1" out_zeros="0"/>
+		</rom>
+		<rom name="Command &amp; Conquer - The Covert Operations (USA).chd" size="699070464" crc="f7ab6ffa" md5="5432b5a09a6ceee7fdd76b673ce1522d" sha1="62913367bea5e60d1a66628de320baa0d64ce8e1">
+			<track number="1" type="MODE1_RAW" frames="151344" pregap="0" duration="33:37:69" size="355961088" crc="6aab1c1f" md5="20c40a8666541bdcead5c9e5e1521651" sha1="9ed886bde4a0072db2843280ce2ecda91707388c" in_zeros="1" out_zeros="0"/>
+			<track number="2" type="AUDIO" frames="22937" pregap="150" duration="05:05:62" size="53947824" crc="e12c37fb" md5="689a55a0ac13d4b430f25491b4ee1f46" sha1="b970d986fe1acc9709b1d59eaa17f6dbd5d89183" in_zeros="356260" out_zeros="5769"/>
+			<track number="3" type="AUDIO" frames="19213" pregap="149" duration="04:16:13" size="45188976" crc="009909a0" md5="e14d82d3b85e6b56a1c358d9b08b7c61" sha1="23960c744c1fc66ba5c89d8cc3cf190319b5fc45" in_zeros="353912" out_zeros="5493"/>
+			<track number="4" type="AUDIO" frames="16657" pregap="149" duration="03:42:07" size="39177264" crc="04106ece" md5="6048f2f412f2afb76078e4b864026afc" sha1="4d818c820472ff32dfe686563197321a8c95eb29" in_zeros="353932" out_zeros="293803"/>
+			<track number="5" type="AUDIO" frames="20363" pregap="149" duration="04:31:38" size="47893776" crc="a0afaec6" md5="0aaccbf7e8cb30bf123d56a407950eb1" sha1="982e73ee8d0038a21a20d8135dfd2eb879f691b9" in_zeros="353948" out_zeros="5361"/>
+			<track number="6" type="AUDIO" frames="15915" pregap="149" duration="03:32:15" size="37432080" crc="abeea6e3" md5="cc6ba4f3bf5d60a35c1d138d2716bca9" sha1="787f1b93a80163302afeed6a6bb568b9a867d95f" in_zeros="353928" out_zeros="3844"/>
+			<track number="7" type="AUDIO" frames="19594" pregap="149" duration="04:21:19" size="46085088" crc="7f2a3051" md5="01ad047c95169e318797d2134b4c9643" sha1="cc25ba3749ba8e6aabdbb47186cbbd2c3b7bbc64" in_zeros="353952" out_zeros="5571"/>
+			<track number="8" type="AUDIO" frames="20620" pregap="149" duration="04:34:70" size="48498240" crc="9ebb5f58" md5="640a294d11a0177519417053270a7954" sha1="e78caf599cd08b0ed1be6d085508de9b0790eae2" in_zeros="353928" out_zeros="3124"/>
+		</rom>
+		<rom name="ENABLE16.WAV" size="56570" crc="4d9c511d" md5="59d5d037974db54454e60f29cf0eca72" sha1="974c4cbd07a5006ed1af3c7cd360eb24f9fe75a0" date="1996-01-02 17:06:14"/>
+		<rom name="ENABLE8.WAV" size="28270" crc="7b2fab53" md5="10924494fd831c66db071ce18d505fef" sha1="f5c4e6d18fee461bdf8fc66a11b087cead23189e" date="1996-01-02 17:08:02"/>
+		<rom name="GAME.DAT" size="1216921" crc="17542384" md5="a74ec423ec8457173d0c3432431c90bf" sha1="be5a6c4c0a581da09e8f34a3bbf7bd17e525085c" date="1996-02-06 14:43:34"/>
+		<rom name="GAME.NEW" size="1215025" crc="7e77f09a" md5="97c84f9b5ca8c78174beb32b4744f9fd" sha1="cba8126df60ddf10526c4a1f982326a2161b16dc" date="1996-06-21 12:41:14"/>
+		<rom name="HMIDET.386" size="83152" crc="5f211903" md5="b688842b23e50a66c57ac23b481c128f" sha1="0f463c99fb5995d98af07840fb60556a4119d13c" date="1995-05-17 10:10:54"/>
+		<rom name="HMIDRV.386" size="261425" crc="f6d116a3" md5="bd16499c7c0ef8cebb0999373edc5361" sha1="becd7f4a413a1966986b4c41c860b678d7244d58" date="1995-02-06 03:00:00"/>
+		<rom name="INSTICON.EXE" size="133808" crc="5050fd1c" md5="2dfaf306c96b7a7558647e577006a2c2" sha1="5e2d6b0f516edb21ad59e0eca6d89c9a4e42c14b" date="1996-02-12 15:48:46"/>
+		<rom name="KICK16.WAV" size="6626" crc="42cb24ef" md5="75afbb8944b2e2d6d9d3a45b43eba653" sha1="7a7280ac73e919e992a998d620597c67ecdd1859" date="1995-12-18 15:47:04"/>
+		<rom name="KICK8.WAV" size="3350" crc="ed670b56" md5="caac3200bb5bc9203a39c128ca2f3da4" sha1="22068e1d68e0c7ebf4837d2b0c27446da85036f1" date="1996-01-02 17:08:02"/>
+		<rom name="LOCAL.MIX" size="114387" crc="f9c8089c" md5="0894fb759204804bccbe089322796a6f" sha1="5a5e81b2173aabb571b70068e12fd3aea2532992" date="1996-01-29 10:49:06"/>
+		<rom name="NOTES.ICO" size="766" crc="6511b250" md5="10098adb59286ed6dd01fa783a831f3d" sha1="2db246e814711530d17cc2ebbb0fcb05de3acab7" date="1995-06-21 16:56:46"/>
+		<rom name="READ_ME.EXE" size="239934" crc="915041d4" md5="456f9418cc252411dbecfeedec9320b1" sha1="3a7e59bc6c56944f77ca3ff789a48ab795023991" date="1996-06-20 15:14:06"/>
+		<rom name="READ_ME.TXT" size="57042" crc="39f46df8" md5="1021c60beaeeb06ace3607c4889c8a7f" sha1="28beca3ecb75c3802f1dfd28b18f636f4a9aeb70" date="1996-06-21 12:24:26"/>
+		<rom name="READ_ME.WRI" size="66560" crc="95b6a51c" md5="7a9bb87cbc537297454cab659cc6a71b" sha1="a45518e9e2109e01a750b200de64a0bef5d80379" date="1996-06-21 12:28:40"/>
+		<rom name="README.EXE" size="244874" crc="ab1e7961" md5="3aa00c5d8d042cdef0b7246c1d5eaa64" sha1="6abed65497d2d357b8670993253e7179a957237f" date="1995-08-22 14:31:26"/>
+		<rom name="README.TXT" size="68796" crc="3f1d8c61" md5="3d430ef417abf70c2c3bb7ec3ccf9b31" sha1="46d4c747db29a5493be89ca15525becbdd7be780" date="1996-02-08 11:05:54"/>
+		<rom name="README.WRI" size="81152" crc="17bf0686" md5="8c273a8626882cdb1ba855f5249ab45b" sha1="3b5e6a83f1a0d15e199c7af307318e3ea674402c" date="1996-02-07 17:54:56"/>
+		<rom name="RUNC&amp;C.EXE" size="100368" crc="736c8291" md5="ed2baadaf9d50512148f7ba333bebe57" sha1="9ee42b0774e5d1482940baa450a2c719e6cba311" date="1996-06-19 13:56:38"/>
+		<rom name="RUNGAME.EXE" size="90128" crc="900ab203" md5="005068a3c23fe4e0942da9dbb52f05e8" sha1="a29db084c7d48b389bdbcdc6d00f22be63ce0a87" date="1996-02-06 17:02:08"/>
+		<rom name="SC-000.MIX" size="185937" crc="0c5dbfba" md5="cd814e2ee319f30a741a0bf64c16d9ed" sha1="088c2abdf5b6280369e55cfb941748760628803e" date="1996-01-04 07:13:40"/>
+		<rom name="SC-001.MIX" size="490318" crc="d173fce3" md5="70dcde28a3222e87e08341f82975ef93" sha1="299c66987acd47987436b8465b69331673a963d4" date="1996-02-02 10:13:52"/>
+		<rom name="SETUP.EXE" size="104958" crc="09267da3" md5="6713733b03d29fe5c65465bf05f5968f" sha1="be583420304d9b67ceacee264566de3c7eac7908" date="1996-02-08 12:20:38"/>
+		<rom name="SPEECH.MIX" size="947949" crc="a8a85722" md5="9b37111b5a2db4ede7777dbfe76aa0f5" sha1="0c9a040027841201feac98f04d18195d58baef36" date="1995-08-25 18:39:16"/>
+		<rom name="THANKS16.WAV" size="52962" crc="559b2bb9" md5="183a68e08cdec998f827e022ae2e9c07" sha1="b90d2d68356d8899559cac43ba938f948c6ba5c9" date="1995-12-21 18:13:18"/>
+		<rom name="THANKS8.WAV" size="26518" crc="38001d08" md5="e5fdc283169a629a760665ffd7abb9ec" sha1="f9e96d553ef12ab97dea4e0e8dadd0cfd506a103" date="1996-01-02 17:08:02"/>
+		<rom name="TRANSIT.MIX" size="4105646" crc="ce4d7722" md5="6cf61431f99c0ce3b93d954c70553823" sha1="c63c735cb515bb5c06458cf91a05eb1d32643929" date="1996-01-03 09:48:24"/>
+		<rom name="WCHAT.EXE" size="447538" crc="46048707" md5="b0411ce3c43dc6b0786514a43570aeeb" sha1="3fdf4f32746860c155392dfec5ca02a9452d0a60" date="1996-02-12 09:10:58"/>
+		<rom name="WCHAT.HLP" size="18763" crc="6706a797" md5="dbc41b1237cc3ba96820a91f8dbe7c97" sha1="cae434c0b8ee856bdf3d88044e1dcd9f0ec0da68" date="1996-02-13 09:27:00"/>
+		<rom name="WCHAT.ICO" size="766" crc="0d339cb5" md5="27ec15daf76723c0a38d28b645d593bd" sha1="032d23101199cd41fae5a9d762780045a24cfd88" date="1995-09-22 10:54:06"/>
+		<rom name="WELCOM16.WAV" size="63456" crc="8d1bda5c" md5="f53ec02546a3e98bb762d860631ff6ef" sha1="d6678523996a50b893a405425436a38017c6a19b" date="1995-12-21 18:09:14"/>
+		<rom name="WELCOM8.WAV" size="31764" crc="62cc3e49" md5="9fcd83547dc5dca2135e555c970e32a3" sha1="ead48a464b647773f1687a057155867f378d76ec" date="1996-01-02 17:08:02"/>
+	</game>
 	<game name="Commander Keen in Invasion of the Vorticons - Episode One - Marooned on Mars (1990) (id Software).dosz">
 		<description>Commander Keen in Invasion of the Vorticons - Episode One - Marooned on Mars</description>
 		<comment>Shareware episode v1.31</comment>
