@@ -5392,6 +5392,26 @@
 		<rom name="upd_net.dll" size="180246" crc="5a69dc8a" md5="7eb561bbab417eeec6a5570b9a519ad3" sha1="61ebc02a99c643a899fbe58af291849ed48210e4" date="2001-12-24 23:44:32"/>
 		<rom name="update.upd" size="1206600" crc="5fe71872" md5="60e77ffe5a61183b23dda5191f6fcb31" sha1="0b630335f5e4f448a49ba527a79cda6403e805a6" date="2002-03-08 19:11:24"/>
 	</game>
+	<game name="Starflight (1986) (Binary Systems).dosz">
+		<description>Starflight</description>
+		<comment>Extracted from 5.25" floppy disks. Needs DOS.YML with cpu_cycles: 1500 and video_card: generic_cga</comment>
+		<comment_dosc>Color TV/Composite mode and auto start</comment_dosc>
+		<year>1986</year>
+		<developer>Binary Systems</developer>
+		<rom name="DOS.YML" size="43" crc="8f08aee0" md5="139b9040f04bf8803735d07864f3510b" sha1="5c590839b4b8ffad5a8bc219215dfddc8c95c752"/>
+		<rom name="HDINSTL.BAT" size="1578" crc="fce87b39" md5="2cab2f35b0f2bc33aad95fb98d605d20" sha1="d42689f84883918e58e3dadcd8f1ee7a06248846" date="1986-08-01 11:53:52"/>
+		<rom name="HDNOTES.TXT" size="1330" crc="60ba694b" md5="fedd22fbf590614c0ac80dfc832c3f31" sha1="617b648cacdd2aaa850718a516c3c83858b36613" date="1986-08-01 12:00:04"/>
+		<rom name="README.BAT" size="256" crc="06e18b92" md5="0150b0e157da5785428e0bd8c2798a35" sha1="8aa5a6a47499a80ee06768ed5977b78488ddf4d4" date="1986-07-31 20:16:04"/>
+		<rom name="README.TXT" size="3968" crc="ac3ef08b" md5="47c486b447438700a94513b7b3b45a84" sha1="95e2b380b42f1cbc5a28ee9784752ad0128ce382" date="1986-07-31 20:35:30"/>
+		<rom name="READMEA.TXT" size="896" crc="16ed349f" md5="4a4157a552f8cd1c713db78308e0583e" sha1="95f2a30e1a825e8e54264ec27a2b8dcebd9fee23" date="1986-07-31 19:52:18"/>
+		<rom name="READMEB.TXT" size="1280" crc="af6f9abe" md5="07c672a87b71de586bd6199418727e66" sha1="8751e03b07e323ffcc6696cb60c0cf2b44277778" date="1986-07-31 20:17:00"/>
+		<rom name="READMEC.TXT" size="896" crc="f30e4d71" md5="db87a3ab6d505cd6be4d3c7323210ef5" sha1="401642ec3c894e8eb92fbff58aab041f44673d84" date="1986-07-31 20:36:26"/>
+		<rom name="READMED.TXT" size="896" crc="303e53d5" md5="82dd9e44b3c8339bb9376ef5fcab5c1f" sha1="3014f0dfe98132c56b5b6fc738c118282a8fe24e" date="1986-07-31 20:19:28"/>
+		<rom name="STARA.COM" size="256000" crc="5ebbc806" md5="61ee1649655aa8565342c7ac896e09e3" sha1="9b8218701f700552879a08f78bda45e3ca5aa7ee" date="1986-07-31 13:32:40"/>
+		<rom name="STARB.COM" size="362496" crc="34041c09" md5="06915a19ca1ec63a9030aea6cc737164" sha1="3606b0ae23af5012e0b9e2011865845d9dfed13a" date="1986-07-31 14:14:52"/>
+		<rom name="STARFLT.COM" size="54198" crc="d978558c" md5="5fe52f969e1b6aea14d9d7c55eaf7bd8" sha1="d145516071d4e25900d45e5cde5db1f34c1034fd" date="1986-07-31 14:14:14"/>
+		<rom name="STRFLINS.BAT" size="803" crc="ec3d4ffe" md5="3a671828937b80efb5a32060e304596f" sha1="e098c0418ab04ad39fc10350ea72a1a0f1b69bd4" date="1986-08-01 11:56:50"/>
+	</game>
 	<game name="Strife (1996) (Rogue Entertainment).dosz">
 		<description>Strife</description>
 		<comment>Installed v1.2 from CD</comment>
