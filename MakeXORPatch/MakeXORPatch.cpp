@@ -80,9 +80,10 @@ int main(int argc, char *argv[])
 		FILE* fBase   = fopen(basePath, "rb");   if (!fBase)   { fprintf(stderr, "Unable to open base file '%s'\n\n",   basePath);   return 1; }
 		FILE* fTarget = fopen(targetPath, "rb"); if (!fTarget) { fprintf(stderr, "Unable to open target file '%s'\n\n", targetPath); return 1; }
 		FILE* fOutput = fopen(outputPath, "wb"); if (!fOutput) { fprintf(stderr, "Unable to open output file '%s'\n\n", outputPath); return 1; }
-		fseek_wrap(fBase,   0, SEEK_END); fseek_wrap(fTarget, 0, SEEK_END); Bit64u targetSize = (Bit64u)ftell_wrap(fTarget);
-		if (!ftell_wrap(fBase)) { fprintf(stderr, "Base file '%s' is an empty file and cannot be used\n\n",   basePath);   return 1; } fseek_wrap(fBase,   0, SEEK_SET);
-		if (!targetSize)        { fprintf(stderr, "Target file '%s' is an empty file and cannot be used\n\n", targetPath); return 1; } fseek_wrap(fTarget, 0, SEEK_SET);
+		fseek_wrap(fBase,   0, SEEK_END); Bit64u baseSize   = (Bit64u)ftell_wrap(fBase);   fseek_wrap(fBase,   0, SEEK_SET);
+		fseek_wrap(fTarget, 0, SEEK_END); Bit64u targetSize = (Bit64u)ftell_wrap(fTarget); fseek_wrap(fTarget, 0, SEEK_SET);
+		if (!baseSize)   { fprintf(stderr, "Base file '%s' is an empty file and cannot be used\n\n",   basePath);   return 1; }
+		if (!targetSize) { fprintf(stderr, "Target file '%s' is an empty file and cannot be used\n\n", targetPath); return 1; }
 
 		int relativeParentDirs = 0;
 		for (int lastSlash = 0, i = 0;; i++)
@@ -104,14 +105,40 @@ int main(int argc, char *argv[])
 		for (const char* k = relPath; *k; k++) printf("%c", (*k == '\\' ? '/' : *k));
 		printf("' ...\n");
 
-		unsigned char hdrMagic[4], baseOffset = 0;
+		unsigned char hdrMagic[4];
 		XOR_WRITE_LE32(hdrMagic, 0x50524F58);
 		fwrite(hdrMagic, sizeof(hdrMagic), 1, fOutput);
 
+		// Try to find a base offset where some (or all) bytes at the end match with the target so the size of the output file can be reduced
+		Bit64u baseOffset = 0;
+		if (baseSize < 10*1024*1024 && baseSize > targetSize)
+		{
+			size_t maxPattern = (targetSize > 32768 ? 32768 : (size_t)targetSize), bestMatch = 0;
+			unsigned char *buf = (unsigned char*)malloc((size_t)(maxPattern + baseSize)), *targetPattern = buf, *baseData = buf + maxPattern;
+			fseek_wrap(fTarget, targetSize - maxPattern, SEEK_SET);
+			size_t patternLen = (size_t)fread(targetPattern, 1, maxPattern, fTarget), minPattern = (patternLen > 8 ? 8 : patternLen);
+			fseek_wrap(fTarget, 0, SEEK_SET);
+			fread(baseData, (size_t)baseSize, 1, fBase);
+			fseek_wrap(fBase, 0, SEEK_SET);
+			const unsigned char *targetMinPattern = targetPattern + patternLen - minPattern;
+			for (Bit64u i = targetSize - minPattern, iLast = baseSize - minPattern; i <= iLast; i++)
+			{
+				if (memcmp(baseData + i, targetMinPattern, minPattern)) continue;
+				size_t match = minPattern;
+				for (const unsigned char *p = baseData + i - 1, *pEnd = p + minPattern - patternLen, *q = targetMinPattern - 1; p != pEnd && *(p--) == *(q--);) match++;
+				if (match < bestMatch) continue;
+				baseOffset = i + minPattern - patternLen;
+				bestMatch = match;
+				if (match == patternLen) break;
+			}
+			fseek_wrap(fBase, baseOffset, SEEK_SET);
+			if (baseOffset) printf("Found %u matching trailing bytes at base offset %u\n", (unsigned)bestMatch, (unsigned)baseOffset);
+		}
+
 		for (int l = 0; l != relativeParentDirs; l++) fwrite("../", 3, 1, fOutput);
 		for (const char* m = relPath; ; m++) { char c = (*m == '\\' ? '/' : *m); fwrite(&c, 1, 1, fOutput); if (!c) break; }
-		fwrite(&baseOffset, 1, 1, fOutput); // offset to target encoded as LEB128 (for now fixed to 0)
-		for (Bit64u n = targetSize;;) { unsigned char b = (unsigned char)((n & 0x7F) | ((n > 0x7F) ? 0x80 : 0)); fwrite(&b, 1, 1, fOutput); if (!(n >>= 7)) break; } // target size encoded as LEB128
+		for (Bit64u n1 = baseOffset;;) { unsigned char b = (unsigned char)((n1 & 0x7F) | ((n1 > 0x7F) ? 0x80 : 0)); fwrite(&b, 1, 1, fOutput); if (!(n1 >>= 7)) break; } // base offset encoded as LEB128
+		for (Bit64u n2 = targetSize;;) { unsigned char b = (unsigned char)((n2 & 0x7F) | ((n2 > 0x7F) ? 0x80 : 0)); fwrite(&b, 1, 1, fOutput); if (!(n2 >>= 7)) break; } // target size encoded as LEB128
 
 		XORAndClose(fBase, fTarget, fOutput, targetPath, outputPath, targetSize, false);
 	}
@@ -126,8 +153,8 @@ int main(int argc, char *argv[])
 		for (char c; fread(&c, 1, 1, fXOR) && c; basePathLen++) basePath[basePathLen] = ((c == '\\' || c == '/') ? CROSS_FILESPLIT : c);
 		basePath[basePathLen] = '\0';
 		Bit64u baseOffset = 0, targetSize = 0;
-		for (unsigned char b1, num1 = 0; fread(&b1, 1, 1, fXOR) && b1;) baseOffset |= (Bit64u)b1 << (7 * (num1++));
-		for (unsigned char b2, num2 = 0; fread(&b2, 1, 1, fXOR) && b2;) targetSize |= (Bit64u)b2 << (7 * (num2++));
+		for (unsigned char b1, num1 = 0; fread(&b1, 1, 1, fXOR);) { baseOffset |= (Bit64u)(b1 & 0x7f) << (7 * (num1++)); if (b1 < 0x80) break; }
+		for (unsigned char b2, num2 = 0; fread(&b2, 1, 1, fXOR);) { targetSize |= (Bit64u)(b2 & 0x7f) << (7 * (num2++)); if (b2 < 0x80) break; }
 
 		if (argc == 3) // Apply XOR Patch
 		{
