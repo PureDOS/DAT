@@ -548,27 +548,30 @@ int main(int argc, char *argv[])
 		if (fTXT)
 		{
 			XMLAppendRaw(gametag, 11, "		<comment>");
-			for (int n, c[4]; (n = fread(c, 1, sizeof(c), fTXT)) != 0;) XMLAppendEscaped(gametag, n, (char*)c);
+			for (int n, c[4]; (n = (int)fread(c, 1, sizeof(c), fTXT)) != 0;) XMLAppendEscaped(gametag, n, (char*)c);
 			XMLAppendRaw(gametag, 11, "</comment>\n");
 			fclose(fTXT);
 		}
 		if (fDOSCTXT)
 		{
 			XMLAppendRawF(gametag, 16, "		<comment_dosc>");
-			for (int n, c[4]; (n = fread(c, 1, sizeof(c), fDOSCTXT)) != 0;) XMLAppendEscaped(gametag, n, (char*)c);
+			for (int n, c[4]; (n = (int)fread(c, 1, sizeof(c), fDOSCTXT)) != 0;) XMLAppendEscaped(gametag, n, (char*)c);
 			XMLAppendRawF(gametag, 16, "</comment_dosc>\n");
 			fclose(fDOSCTXT);
 		}
 		if (year >= 1970 && year <= 9999) XMLAppendRawF(gametag, 20, "		<year>%d</year>\n", year);
 		if (developer) { XMLAppendRaw(gametag, 13, "		<developer>"); XMLAppendEscaped(gametag, (developerEd-developer), developer); XMLAppendRaw(gametag, 13, "</developer>\n"); }
 		if (variant)   { XMLAppendRaw(gametag, 11, "		<variant>"); XMLAppendEscaped(gametag, (variantEd-variant), variant); XMLAppendRaw(gametag, 11, "</variant>\n"); }
-		printf("%.*s", (unsigned)gametag.size(), (char*)&gametag[0]);
 
 		Zip_Archive archive(fZIP);
 
 		// Basic sanity checks - reject files which are too small.
 		if (archive.size < ZIP_END_OF_CENTRAL_DIR_HEADER_SIZE)
+		{
+			invalid_zip:
+			fprintf(stderr, "Invalid or unsupported ZIP file: %s\n", path);
 			return 1;
+		}
 
 		// Find the end of central directory record by scanning the file from the end towards the beginning.
 		Bit8u buf[4096];
@@ -576,10 +579,10 @@ int main(int argc, char *argv[])
 		for (;; ecdh_ofs = ZIP_MAX(ecdh_ofs - (sizeof(buf) - 3), 0))
 		{
 			Bit32s i, n = (Bit32s)ZIP_MIN(sizeof(buf), archive.size - ecdh_ofs);
-			if (archive.Read(ecdh_ofs, buf, (Bit32u)n) != (Bit32u)n) return 1;
+			if (archive.Read(ecdh_ofs, buf, (Bit32u)n) != (Bit32u)n) goto invalid_zip;
 			for (i = n - 4; i >= 0; --i) { if (ZIP_READ_LE32(buf + i) == ZIP_END_OF_CENTRAL_DIR_HEADER_SIG) break; }
 			if (i >= 0) { ecdh_ofs += i; break; }
-			if (!ecdh_ofs || (archive.size - ecdh_ofs) >= (0xFFFF + ZIP_END_OF_CENTRAL_DIR_HEADER_SIZE)) return 1;
+			if (!ecdh_ofs || (archive.size - ecdh_ofs) >= (0xFFFF + ZIP_END_OF_CENTRAL_DIR_HEADER_SIZE)) goto invalid_zip;
 		}
 
 		// Read and verify the end of central directory record.
@@ -610,20 +613,17 @@ int main(int argc, char *argv[])
 			|| (cdir_size >= 0x10000000) // limit to 256MB content directory
 			|| (cdir_size < total_files * ZIP_CENTRAL_DIR_HEADER_SIZE)
 			|| ((cdir_ofs + cdir_size) > archive.size)
-			) return 1;
+			) goto invalid_zip;
 
 		void* m_central_dir = malloc((size_t)cdir_size);
 		if (archive.Read(cdir_ofs, m_central_dir, (Bit32u)cdir_size) != cdir_size)
-		{
-			free(m_central_dir);
-			return 1;
-		}
+			goto invalid_zip;
 		const Bit8u *cdir_start = (const Bit8u*)m_central_dir, *cdir_end = cdir_start + cdir_size, *p = cdir_start;
 
 		// Now create an index into the central directory file records, do some basic sanity checking on each record, and check for zip64 entries (which are not yet supported).
 		p = cdir_start;
 		std::vector< std::vector<Bit8u> > roms;
-		for (Bit32u i = 0, total_header_size; i < total_files && p >= cdir_start && p < cdir_end && ZIP_READ_LE32(p) == ZIP_CENTRAL_DIR_HEADER_SIG; i++, p += total_header_size)
+		for (Bit32u i = 0, nparents = 0, total_header_size; i < total_files && p >= cdir_start && p < cdir_end && ZIP_READ_LE32(p) == ZIP_CENTRAL_DIR_HEADER_SIG; i++, p += total_header_size)
 		{
 			Bit32u bit_flag         = ZIP_READ_LE16(p + ZIP_CDH_BIT_FLAG_OFS);
 			Bit32u method           = ZIP_READ_LE16(p + ZIP_CDH_METHOD_OFS);
@@ -641,7 +641,7 @@ int main(int argc, char *argv[])
 			if (!Zip_Archive::MethodSupported(method)
 				|| (p + total_header_size > cdir_end)
 				|| (bit_flag & (1 | 32)) // Encryption and patch files are not supported.
-				) { invalid_cdh: continue; }
+				) goto invalid_zip;
 
 			if (decomp_size == 0xFFFFFFFF || comp_size == 0xFFFFFFFF || local_header_ofs == 0xFFFFFFFF)
 			{
@@ -651,19 +651,19 @@ int main(int argc, char *argv[])
 					if (ZIP_READ_LE16(x) != 0x0001 || fieldEnd > xEnd) { x = fieldEnd; continue; } // Not Zip64 extended information extra field
 					if (decomp_size == 0xFFFFFFFF)
 					{
-						if ((size_t)(fieldEnd - field) < sizeof(Bit64u)) goto invalid_cdh;
+						if ((size_t)(fieldEnd - field) < sizeof(Bit64u)) goto invalid_zip;
 						decomp_size = ZIP_READ_LE64(field);
 						field += sizeof(Bit64u);
 					}
 					if (comp_size == 0xFFFFFFFF)
 					{
-						if ((size_t)(fieldEnd - field) < sizeof(Bit64u)) goto invalid_cdh;
+						if ((size_t)(fieldEnd - field) < sizeof(Bit64u)) goto invalid_zip;
 						comp_size = ZIP_READ_LE64(field);
 						field += sizeof(Bit64u);
 					}
 					if (local_header_ofs == 0xFFFFFFFF)
 					{
-						if ((size_t)(fieldEnd - field) < sizeof(Bit64u)) goto invalid_cdh;
+						if ((size_t)(fieldEnd - field) < sizeof(Bit64u)) goto invalid_zip;
 						local_header_ofs = ZIP_READ_LE64(field);
 						field += sizeof(Bit64u);
 					}
@@ -674,7 +674,7 @@ int main(int argc, char *argv[])
 			if (((!method) && (decomp_size != comp_size)) || (decomp_size && !comp_size)
 				|| (decomp_size > 0xFFFFFFFF) || (comp_size > 0xFFFFFFFF) // not supported on DOS file systems
 				|| ((local_header_ofs + ZIP_LOCAL_DIR_HEADER_SIZE + comp_size) > archive.size)
-				) continue;
+				) goto invalid_zip;
 
 			std::vector<Bit8u> mem_data;
 			archive.Unpack(local_header_ofs, (Bit32u)comp_size, (Bit32u)decomp_size, (Bit8u)bit_flag, (Bit8u)method, mem_data);
@@ -733,6 +733,17 @@ int main(int argc, char *argv[])
 			{
 				XMLAppendRaw(line, 4, "\"/>\n");
 			}
+
+			/* DOSZ files can contain special empty <base>.dosz.parent files which means a parent dosz file is used */
+			if (filename_len > 7 && decomp_size == 0 && !strncasecmp(name + filename_len - 7, ".parent", 7) && !memchr(name, '/', filename_len))
+			{
+				if (nparents++)
+				{
+					fprintf(stderr, "DOSZ file has multiple parents: %s\n", path);
+					return 1;
+				}
+				XMLAppendRawF(gametag, 20 + filename_len - 7, "		<parent>%.*s</parent>\n", filename_len - 7, name);
+			}
 		}
 		free(m_central_dir);
 
@@ -753,7 +764,8 @@ int main(int argc, char *argv[])
 		};
 		qsort(&roms[0], roms.size(), sizeof(roms[0]), Local::SortFunc);
 
-		// Output rom strings (except directories)
+		// Output game tag and rom strings (skip directory entries)
+		printf("%.*s", (unsigned)gametag.size(), (char*)&gametag[0]);
 		for (size_t j = 0, iend = roms.size(); j != iend; j++)
 		{
 			char *line = (char*)&roms[j][0],  *name_end = strchr(line, '\b');
