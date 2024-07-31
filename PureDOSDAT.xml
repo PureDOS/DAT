@@ -903,8 +903,8 @@
 	</game>
 	<game name="Elder Scrolls II, The - Daggerfall (1996) (Bethesda Softworks).dosz">
 		<description>Elder Scrolls II, The - Daggerfall</description>
-		<comment>Installed v1.07.213 from 1997 CD, with CompUSA Special Edition content included. Max install, plus all files from ARENA2 on CD must be extracted into installation's ARENA2 folder. Z.CFG must be edited to "path c:\arena2\" and "pathcd c:\arena2\"</comment>
-		<comment_dosc>Sound Blaster 16 config, BAT file for launching the game, and auto start</comment_dosc>
+		<comment>Installed from free GOG release, or installed v1.07.213 from 1997 CD re-release (any size install, but all files from ARENA2 on CD must be extracted into installation's ARENA2 folder). The file Z.CFG must be edited to "type dfall_huge", "path c:\arena2\" and "pathcd c:\arena2\". In GOG release, the line "CHEATMODE 0" needs to be removed.</comment>
+		<comment_dosc>Required Z.CFG file, Sound Blaster 16 config, BAT file for launching the game, and auto start</comment_dosc>
 		<year>1996</year>
 		<developer>Bethesda Softworks</developer>
 		<rom name="ARENA2/$CUREVAM.QBN" size="5219" crc="2fc04f0f" md5="843228976500bf23432aea2111230a57" sha1="9a92c817ce685abd40dfa4dab80fcb7de11a7f02" date="1996-09-06 01:00:02"/>
@@ -1184,7 +1184,6 @@
 		<rom name="ARENA2/BOOKS/BOK00109.TXT" size="11291" crc="e25327b6" md5="8feae547d66bb8b8fcb3bb24ce12ff73" sha1="4c90ac8ea85bb54f44e82c8dcc28e01dc7b5c4f3" date="1996-09-06 01:00:32"/>
 		<rom name="ARENA2/BOOKS/BOK00110.TXT" size="15507" crc="30b3197d" md5="f9b8affc5b4b87538de8c80f7b99c097" sha1="85a6044f0c21da47143b3a60c71c21e919c9cd36" date="1996-09-06 01:00:32"/>
 		<rom name="ARENA2/BOOKS/BOK00111.TXT" size="20296" crc="56598ff0" md5="8b1ea0453bedfd6478faf702cdbd7f8a" sha1="87f0fa36580ae0c6316652a3069b124f4b540e00" date="1996-09-06 01:00:32"/>
-		<rom name="ARENA2/BOOKS/BOK10000.TXT" size="3791" crc="1784c1b8" md5="e66fb7ff695c2cbc7a92de2f8a2609b2" sha1="05eb8016727d7244877614921ad886fc2e8ebb55" date="1996-09-06 01:00:32"/>
 		<rom name="ARENA2/BPAINT.CIF" size="38496" crc="1d5ef69a" md5="f3e03dbc65e272fd7ace0e4d6e250a36" sha1="ad2b7a517bb2270d55aa3791bb460159cb653758" date="1996-09-06 01:00:02"/>
 		<rom name="ARENA2/BUTN00I0.IMG" size="4108" crc="7a9295c9" md5="f9f42b0422bb54a7a184bd1129b8ffc1" sha1="b14fda95c681e152075f080d6509c322efa66b74" date="1996-09-06 01:00:02"/>
 		<rom name="ARENA2/BUTN01I0.IMG" size="26496" crc="2d36171c" md5="e96b4a253966293a919d0951da344e0a" sha1="a051c46849d5ddb4a5e720082cc9d0d5e3572be5" date="1996-09-06 01:00:02"/>
@@ -2473,11 +2472,8 @@
 		<rom name="ARENA2/Z0C00Y00.QBN" size="2158" crc="6b5e9ad4" md5="efe21384cf1d106d40a9b7cfe9e081e9" sha1="0612cb3a0cd0ceaee87c9e2e83dd478fe2021851" date="1996-09-06 01:00:02"/>
 		<rom name="ARENA2/Z0C00Y00.QRC" size="3308" crc="73078894" md5="6f5a0ee610c803601da55b8742f55c73" sha1="e89756810be7eff9d84cc59fc440f436a8c8f1b2" date="1996-09-06 01:00:02"/>
 		<rom name="CASTER.CFG" size="56" crc="dfccbe58" md5="5a087f1eef608aafe34fec04f1d01467" sha1="9c9c6d789c0518940a5ffb7de9d775e78b2d0b63" date="1996-09-06 01:00:14"/>
-		<rom name="DAG213A.EXE" size="1269381" crc="7c71d7c9" md5="9435bbe13ba7f232e7fc910a7a488e92" sha1="0fa45c9f0e32b27c65a6d7778f0eed1b165da61b" date="1997-05-06 11:44:08"/>
-		<rom name="DAG213B.EXE" size="324507" crc="e79a32c0" md5="bf44ad6dc5b5df8d72d7eac74e3c57fa" sha1="ef885cd566607289622d1b1847991ce3871995b4" date="1997-05-06 11:44:02"/>
 		<rom name="DAGGER.EXE" size="20728" crc="e8d799b6" md5="e758e936ca979f46e1217b8233478670" sha1="3cc4a152bbc4ddcbbca9ac0e044a3805a8a62b08" date="1996-09-27 01:01:00"/>
 		<rom name="DAGGER.ICO" size="766" crc="ea01603b" md5="9f4c59a27ae9477707dace3ba2ba6a93" sha1="0de4274c5586e7fa5003869e1cf1b1a86c9267d7" date="1996-09-06 01:00:14"/>
-		<rom name="DAGGER.PIF" size="967" crc="c7f019dd" md5="c7fc274d10529ee714c51a7886ed5c0a" sha1="6d9f7f34fd835885f8b8b0dfc563f68003933676" date="1997-06-26 18:11:20"/>
 		<rom name="DATA/DAG_HUGE.LST" size="656" crc="3b01fdf5" md5="c1ca2d27fd8595c1e44068bd28fbe198" sha1="7f9382cde99ae0571cfdcf703fadd69021ecb8b0" date="1996-09-06 01:00:10"/>
 		<rom name="DATA/DAG_MEDI.LST" size="11524" crc="e21895f0" md5="f47dffa2e54d3897c742b175ea4feb3f" sha1="7cd34041d2dac63020125c585b779d7a03b4b5c2" date="1996-09-27 01:01:00"/>
 		<rom name="DATA/DAG_MINI.LST" size="396" crc="444dcd36" md5="475a9f119e5d629cb7b3b634b4960a0f" sha1="030fb34dd2f5d4cc07a79c65542242db2e309838" date="1996-09-06 01:00:10"/>
@@ -2489,14 +2485,9 @@
 		<rom name="DATA/POINTER.IMG" size="111" crc="a889d21b" md5="7c790663bc43754b47f917e6d74e7a5a" sha1="8fb482321ad329dfc32d6a044dd1491bf573a924" date="1996-09-06 01:00:10"/>
 		<rom name="DRUM.BNK" size="5404" crc="edf62adb" md5="b41a03b1e0030fd02c0189a5543428ea" sha1="b83b8cad4c23dfe653215e22eb59bfc3226d90f3" date="1996-09-06 01:00:14"/>
 		<rom name="FALL.EXE" size="1864183" crc="c08225d9" md5="40521280419d602e470e84fcc90f2ec2" sha1="c49a2ceb677239af733d0e0127ac810ec859c0ac" date="1997-06-26 18:13:52"/>
-		<rom name="FIXMAPS.EXE" size="132712" crc="74ca4931" md5="9c3dbea1b4e5e65b8c6fea6e202d1c43" sha1="2f782ad86d071e5b9d9ecf2ee6ea97d7814d5630" date="1997-06-26 18:14:20"/>
-		<rom name="FIXSAVE.EXE" size="149580" crc="59016e2a" md5="77c64ca49a0d8a05b872a556a1ecbdf4" sha1="1dfdf9ed94f13153cab43821a3a327ef06748c2d" date="1997-06-26 18:14:18"/>
-		<rom name="FIXSAVE.TXT" size="11615" crc="e8df9113" md5="ea4b8e44b27dc323220b80820dd6d12c" sha1="01ed90a598cdd20213bc0ed083bd7a700dfb2aa5" date="1997-06-26 18:14:20"/>
 		<rom name="HMIDET.386" size="83774" crc="ae8d1a06" md5="b6656f8af855be3184d2b9f10de91ef5" sha1="c3b75ab63273edfed1bb15acf59b321102781a96" date="1996-09-06 01:00:14"/>
 		<rom name="HMIDRV.386" size="317317" crc="21c398b8" md5="2de5f490362469628841199644a38e02" sha1="32c89e02cae4c33d1c0b93562f4ca0fe86c4a199" date="1996-09-06 01:00:14"/>
 		<rom name="HMIMDRV.386" size="117852" crc="833fbc45" md5="642245e78d1584edbf7cc21ca05c4992" sha1="f6b1154e9f1e5c3e191c68a971bd66afc1b45290" date="1996-09-06 01:00:14"/>
-		<rom name="INSTALL.EXE" size="233392" crc="9db9b55e" md5="3f15efd00fa3ddda96ff77348fa7e39c" sha1="af6c4a9e8158402d749e45cc4cdb56a66f5324f4" date="1996-09-06 01:00:02"/>
-		<rom name="INSTALL.PIF" size="967" crc="2b28e722" md5="375c4bb317df46b0422ae3661b93e67c" sha1="9a447ab244369b6a484a2a28d83c3c21079edf2f" date="1997-06-26 18:38:42"/>
 		<rom name="INSTALL.SCR" size="11248" crc="c18e2ad2" md5="66b89d11d95a3c64db36d555ba30459c" sha1="67e34a4565c7a9bd64fe9c8cfe1416290bb4fd6f" date="1996-09-27 01:01:00"/>
 		<rom name="MELODIC.BNK" size="5404" crc="9b4b9cfd" md5="c7fb6219d571d796c6c48ee04f9f6a9b" sha1="f738bde4eea6f27268547fbd966e03f3409c489e" date="1996-09-06 01:00:14"/>
 		<rom name="PATCHED.TXT" size="20152" crc="73727ec9" md5="211801957cf6d8fd78fc331e0cee186f" sha1="3c52b3f3950ba87061f709e687748c2e81bd0cf5" date="1997-06-26 18:13:52"/>
@@ -2508,7 +2499,6 @@
 		<rom name="SAVE5/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-12-31 00:00:00"/>
 		<rom name="SETUP.EXE" size="207769" crc="a7330112" md5="264be98a9f9d18cf84f1b7d0ca949019" sha1="c9e5ca2b4e92f6c12c6cea23fd62e7387966c697" date="1997-06-26 18:13:50"/>
 		<rom name="SETUP.INI" size="3559" crc="f3777e2d" md5="4a94c0f82647536d177b3dacbf17093f" sha1="83aec01e8e4f98b69e9d9d6f9953b6b874c66435" date="1996-09-06 01:00:14"/>
-		<rom name="SETUP.PIF" size="967" crc="adae9708" md5="809186164fa048ec2d5da7ee35dae1c3" sha1="f750d5f207320fe76df2002b62cc605e8ca3978b" date="1996-09-06 01:00:14"/>
 		<rom name="TEST.HMI" size="13109" crc="47cacf65" md5="89f1cbbc131e5a3e963fd8c2aff62d00" sha1="2e9fbbdc63e0bf0e9077305c41f2b6077aaf9ae4" date="1996-09-06 01:00:14"/>
 		<rom name="TEST.HMP" size="19069" crc="5355c0db" md5="3b39691c4bb3fd99a881c0c95e5c9411" sha1="9a0f0e758964714d780e68639c1d9c4fddf9eafc" date="1996-09-06 01:00:14"/>
 		<rom name="TEST.RAW" size="83036" crc="959c358e" md5="9f5971f0641acdbb996a9ab0bad86f85" sha1="3a9acc496ccf4eee552c0e47793657623e6d0ba0" date="1996-09-06 01:00:14"/>
