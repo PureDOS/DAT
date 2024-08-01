@@ -1,0 +1,3 @@
+echo Building \'MakeXORPatch-`uname -m`\' ...
+clang -std=c++11 MakeXORPatch.cpp -lstdc++ -Wall -o MakeXORPatch-`uname -m`
+echo Done!
