@@ -1660,6 +1660,16 @@
 		<rom name="SERSETUP.EXE" size="20257" crc="64ea3378" md5="4494aa8d1840676aa676c6aac772b2eb" sha1="f41ebfc15378d2e2d0b70e60f4349bc4a3ccc2bd" date="1995-02-01 01:09:04"/>
 		<rom name="SETUP.EXE" size="45745" crc="0025fe95" md5="675564fcd380f5ef9beb0e7b21a51f79" sha1="f8644ace438896f9a788629d8da869bd34926f91" date="1995-02-01 01:09:04"/>
 	</game>
+	<game name="Elder Scrolls, The - Arena (1994) (Bethesda Softworks).dosz">
+		<description>Elder Scrolls, The - Arena</description>
+		<comment>v1.07 CD-ROM. Everything runs from the CD</comment>
+		<comment_dosc>Sound Blaster 16 config, BAT file for launching the game, and auto start</comment_dosc>
+		<year>1994</year>
+		<developer>Bethesda Softworks</developer>
+		<rom name="Elder Scrolls, The - Chapter One - Arena (USA).chd" size="108495360" crc="4da96e1f" md5="b9eb57a5ee6d2249eeca87263f4a81d3" sha1="d875d3bda3ae9111c4429caf05b36e689033ae68">
+			<track number="1" type="MODE1_RAW" frames="44298" pregap="0" duration="09:50:48" size="104188896" crc="2c3ec2cb" md5="a567e0099119b7c040e7577c26f264cb" sha1="f8520a1f5bf32e91deb7d6ee75d5181d99797774" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
 	<game name="Final Doom - The Plutonia Experiment (1996) (id Software).dosz">
 		<description>Final Doom - The Plutonia Experiment</description>
 		<comment>id Anthology version with bug fixes, also matches GOG</comment>
