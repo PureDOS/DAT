@@ -10,6 +10,32 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
 	</header>
+	<game name="Battle Arena Toshinden (1996) (Tamsoft) (Installation).dosz">
+		<description>Battle Arena Toshinden</description>
+		<comment>Redump-verified CD-ROM of Battle Arena Toshinden (USA)></comment>
+		<link>http://redump.org/disc/46394/</link>
+		<year>1996</year>
+		<developer>Tamsoft</developer>
+		<variant>Installation</variant>
+		<rom name="Battle Arena Toshinden (USA).chd" size="514687104" crc="002cff24" md5="8fafb9ebd1ebb065de2bd94a7626fa64" sha1="7e2599349c903c17a30d01c836827dc962617a5f">
+			<track number="1" type="MODE1_RAW" frames="36753" pregap="0" duration="08:10:03" size="86443056" crc="4cc44ade" md5="a489a24cbebde5ee93ba02eb37dbb28c" sha1="78e771d76e163b76b7f84e6b88ce819b7f343a52" in_zeros="1" out_zeros="2352"/>
+			<track number="2" type="AUDIO" frames="14680" pregap="149" duration="03:15:55" size="34527360" crc="dbd52584" md5="3438c192ac882e2624d734884e79c3a9" sha1="e7243e7536b87ab3c561542c1bcc20fa9543c176" in_zeros="350448" out_zeros="358182"/>
+			<track number="3" type="AUDIO" frames="14428" pregap="149" duration="03:12:28" size="33934656" crc="12602a79" md5="d0a833d9921a1ee6b08870ae29f8cd45" sha1="1edbb5baca2d0f3583cce16300811221913e3592" in_zeros="350448" out_zeros="357780"/>
+			<track number="4" type="AUDIO" frames="15815" pregap="149" duration="03:30:65" size="37196880" crc="c194b8c2" md5="d4c8cc5055db9119a82e2358f75352d0" sha1="91b6f45618b43a1c811358e635f0e0a6e13ede0f" in_zeros="350448" out_zeros="354681"/>
+			<track number="5" type="AUDIO" frames="16624" pregap="149" duration="03:41:49" size="39099648" crc="d2dcb39d" md5="2efe0385070375185d25167893c67001" sha1="3691fcbac030e2cc3fe4e64b4e5af0c23f6fad7f" in_zeros="350448" out_zeros="356301"/>
+			<track number="6" type="AUDIO" frames="14503" pregap="149" duration="03:13:28" size="34111056" crc="b26f7e21" md5="7cdb53ea7457ff69e5dfb26e2f989043" sha1="9502496d4922d6d82b0a59bcbd7a10f1cae60a60" in_zeros="350448" out_zeros="356619"/>
+			<track number="7" type="AUDIO" frames="14234" pregap="149" duration="03:09:59" size="33478368" crc="c44d82e8" md5="50509c36f43ad042aafcd2ebf788f79b" sha1="41509e88dfdf66fd8fd98286a219bbecbcc95ab0" in_zeros="350472" out_zeros="355379"/>
+			<track number="8" type="AUDIO" frames="15074" pregap="149" duration="03:20:74" size="35454048" crc="5440d188" md5="9a2edb523a0cdca9b80f1d07597e2a6b" sha1="638c752506963d54a85fac8ff1a1d2d9e4f3fa4b" in_zeros="350472" out_zeros="355109"/>
+			<track number="9" type="AUDIO" frames="16507" pregap="149" duration="03:40:07" size="38824464" crc="e858d37d" md5="d31d6e085709db855db6321ac582ae54" sha1="f2c9ce4ef302e9b33ed5687d850defdc98785411" in_zeros="350472" out_zeros="356717"/>
+			<track number="10" type="AUDIO" frames="15737" pregap="149" duration="03:29:62" size="37013424" crc="47e12459" md5="11118c785f4112e543f8c7e37e950792" sha1="dbdcbf5a7a18f56f516542032a68fa255e7dd765" in_zeros="350496" out_zeros="355973"/>
+			<track number="11" type="AUDIO" frames="16622" pregap="149" duration="03:41:47" size="39094944" crc="61e30355" md5="b95bf8768835a5b29394266499345a1e" sha1="89847eff55dd3bf490abc511dd97c3ed7143d5c6" in_zeros="350497" out_zeros="357053"/>
+			<track number="12" type="AUDIO" frames="8245" pregap="149" duration="01:49:70" size="19392240" crc="061dfd63" md5="eaac2673a96b170f5e0e50bafb89512b" sha1="272df199917a487233a8b4be50333af295f4095a" in_zeros="350496" out_zeros="1075092"/>
+			<track number="13" type="AUDIO" frames="3322" pregap="149" duration="00:44:22" size="7813344" crc="c39f020c" md5="2a9f8a7c5b1da80946b9cb8417915678" sha1="c73b499607c13b498edf06372d6303910a6a2874" in_zeros="350496" out_zeros="357255"/>
+			<track number="14" type="AUDIO" frames="8501" pregap="149" duration="01:53:26" size="19994352" crc="a7b47b34" md5="3b80ff3dd41a2b1639006f7cff82fb51" sha1="3d3eb7f46c6cd5755c395bbc493182f0db365afd" in_zeros="350496" out_zeros="7009"/>
+			<track number="15" type="AUDIO" frames="2440" pregap="149" duration="00:32:40" size="5738880" crc="2f693c02" md5="668118396289c88ae222ca3efa00acdb" sha1="abd48d32d8a6dd0a373140487e853e67de2d2b5d" in_zeros="350496" out_zeros="7008"/>
+			<track number="16" type="AUDIO" frames="976" pregap="149" duration="00:13:01" size="2295552" crc="7586cf19" md5="eedcd27ec557c98af9cc76162ad5a95e" sha1="1c70862aa3c5fadc44af678279a992acd492df77" in_zeros="350520" out_zeros="4632"/>
+		</rom>
+	</game>
 	<game name="Beyond Zork - The Coconut of Quendor (1987) (Infocom) (Installation).dosz">
 		<description>Beyond Zork - The Coconut of Quendor</description>
 		<comment>Version 57, Serial 871221 1987 3.5" floppy disk</comment>
