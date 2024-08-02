@@ -7686,22 +7686,18 @@
 	<game name="Transport Tycoon Deluxe (1995) (Chris Sawyer).dosz">
 		<description>Transport Tycoon Deluxe</description>
 		<comment>v2.01.119 October build</comment>
-		<comment_dosc>Sound config and auto run</comment_dosc>
+		<comment_dosc>Sound config and auto start</comment_dosc>
 		<year>1995</year>
 		<developer>Chris Sawyer</developer>
 		<rom name="ADLIB.CAT" size="313670" crc="dce3a585" md5="0ab0f0a43c7e91a8d286a532be925ee0" sha1="d2e981ee9012e7440a5b20167397733b351f568f" date="1995-10-11 14:25:04"/>
-		<rom name="CD.ROM" size="8" crc="b6308e2b" md5="8a5cf4fa7ac5679396b5a11dac93dc14" sha1="9366ba7dfd7dcdfe68be2605a0152c6c7310ad9a" date="1995-10-11 14:25:04"/>
+		<rom name="CD.ROM" size="8" crc="b6308e2b" md5="8a5cf4fa7ac5679396b5a11dac93dc14" sha1="9366ba7dfd7dcdfe68be2605a0152c6c7310ad9a" date="1995-09-22 16:31:32"/>
 		<rom name="DRIVERS.CAT" size="139298" crc="f17735bc" md5="a5665e4b242bd8026a70ecc4fb3ddc6a" sha1="1d4a0880dabbdcd6c5b77df14db4cb7ad45e0d0a" date="1995-09-22 16:31:02"/>
 		<rom name="GM.CAT" size="424909" crc="b7819c75" md5="7a29d2d0c4f7d2e03091ffa9b2bdfffb" sha1="dc38373e9c42de808a0071ae9e9746602beea87a" date="1995-10-11 14:25:04"/>
-		<rom name="HS.DAT" size="1322" crc="c64f39ac" md5="d7c31142e3de710e1107ace2957ac99e" sha1="2441d7341a7536568f0e6b8dd83dea045bf5d038"/>
-		<rom name="INSTALL.DAT" size="14146" crc="f9da8998" md5="5cba3cfb62cfc23039cb085294bbc557" sha1="d60c61a758954796b6c74c672c9fdfe0d2778542"/>
-		<rom name="INSTALL.EXE" size="56185" crc="e794c060" md5="0b7aaaa2e903ebf41852ced5e573a522" sha1="84a3e5a832ec708418b8f462a5d7caa89c1c8e74"/>
+		<rom name="INSTALL.DAT" size="14146" crc="f9da8998" md5="5cba3cfb62cfc23039cb085294bbc557" sha1="d60c61a758954796b6c74c672c9fdfe0d2778542" date="1995-10-11 16:04:22"/>
+		<rom name="INSTALL.EXE" size="56185" crc="e794c060" md5="0b7aaaa2e903ebf41852ced5e573a522" sha1="84a3e5a832ec708418b8f462a5d7caa89c1c8e74" date="1995-10-10 15:21:40"/>
 		<rom name="LAPC1.PAT" size="1068" crc="a0bdb80f" md5="c238d1c6837ee186cf1a30df1228bb28" sha1="9cf40b0c9ca80d1322ab62268b29fc498337b159" date="1995-10-11 14:25:04"/>
-		<rom name="MUSIC.COM" size="6310" crc="eb6d95ed" md5="25f4606a802b2928e32e3ee40f9ec890" sha1="5a946dd6fe4b0839c935ece2910a588004695411"/>
 		<rom name="ROLAND.CAT" size="382015" crc="d0b54bc4" md5="235ac6ba482d111d13b601eb4bf61f25" sha1="019af45581f939877d8226312c5f778a6dc41db2" date="1995-10-11 14:25:04"/>
 		<rom name="SAMPLE.CAT" size="1606806" crc="bf0f7e8f" md5="422ea3dd074d2859bb51639a6e0e85da" sha1="207a137e90b3608e15b19a714bbfbc5b286acdda" date="1995-10-11 14:25:04"/>
-		<rom name="SOUND.COM" size="5044" crc="efae8e4c" md5="4ef6eec56a27a495b68d125165ba4430" sha1="38c893424923cbda4aa456aea586510b2a8fd3f7"/>
-		<rom name="SOUNDRV.COM" size="4704" crc="02aaddfc" md5="55e09abcf97150cbd719b4a60452eeaf" sha1="485cec1163a3b6a0d763e201ab449fa2d31c055c"/>
 		<rom name="TITLE.DAT" size="205327" crc="edce6344" md5="62162b68e7410b3cc19dd0c5982b9701" sha1="b94c9de7b05e3aae228b63d10dae0434f54055df" date="1995-10-11 14:25:04"/>
 		<rom name="TREND.GRF" size="219307" crc="6876a0a5" md5="1263882418f88647aa2f579c2cfaf742" sha1="db932a28ec018dafb9000513c995c71c6c293e45" date="1995-10-11 14:25:04"/>
 		<rom name="TRG1.GRF" size="2426283" crc="afd68acf" md5="9311676280e5b14077a8ee41c1b42192" sha1="f3b3f29de608ef330efd2128592698b28a39612d" date="1995-10-11 14:25:04"/>
@@ -7712,7 +7708,7 @@
 		<rom name="TRHCOM.GRF" size="973770" crc="3f6934a7" md5="917469d0dadc3315af30903199c83cd5" sha1="8db834d63493da9d2fecdd168be0c5ec2b3d00c9" date="1995-10-11 14:25:04"/>
 		<rom name="TRTITLE.GRF" size="92088" crc="0daa154c" md5="b77cbca9d79513f14bd8c9b7924c03ea" sha1="67a90af03c0468d9569614c93b666c71b88a0d65" date="1995-10-11 14:25:04"/>
 		<rom name="TTDX.EXE" size="496601" crc="2f964c58" md5="d6f928a4c11cb8eb65a48fde5b36544c" sha1="71ed08c77e82cadae0a427795837279855e4ee3a" date="1995-10-06 17:20:44"/>
-		<rom name="TYCOON.OVL" size="207316" crc="f73498d6" md5="95c31482b47dd2b0b141bf29f84fd584" sha1="9614c2430eca10041991255802e9ae88364ab658" date="1995-09-22 16:31:02"/>
+		<rom name="TYCOON.OVL" size="207316" crc="f73498d6" md5="95c31482b47dd2b0b141bf29f84fd584" sha1="9614c2430eca10041991255802e9ae88364ab658" date="1995-10-11 14:25:04"/>
 	</game>
 	<game name="Ultima VII - The Black Gate + The Forge of Virtue (1992) (ORIGIN Systems).dosz">
 		<description>Ultima VII - The Black Gate + The Forge of Virtue</description>
