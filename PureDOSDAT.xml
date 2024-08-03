@@ -1951,7 +1951,7 @@
 	</game>
 	<game name="Quake II + Q2DOS (1997) (id Software).dosz">
 		<description>Quake II + Q2DOS</description>
-		<comment>Quake II v3.20 with Q2DOS 2021-07-21</comment>
+		<comment>Quake II v3.20 with Q2DOS 2021-07-21. Needs DOS.YML with mem_size: 65536</comment>
 		<comment_dosc>640x400 resolution and auto start</comment_dosc>
 		<year>1997</year>
 		<developer>id Software</developer>
@@ -2205,6 +2205,7 @@
 		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2016-06-23 16:51:40"/>
 		<rom name="dday/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2021-07-21 00:10:06"/>
 		<rom name="dday/gamex86.dxe" size="688451" crc="eaa9d6ed" md5="472439868ed049656643eac0602d2e7f" sha1="790b76f6f9c22b82ac8daca88faf9e0930da6ec9" date="2021-07-21 00:10:06"/>
+		<rom name="DOS.YML" size="17" crc="9e2ade80" md5="5e4e9514ccbed110c66ed799f2b0c449" sha1="7ff552bf9a73a8ba6fe5089d140c63e3d6be659c"/>		
 		<rom name="gamespy.dxe" size="13627" crc="6a484010" md5="c9830129c425c1d396a5f7f0a4320b88" sha1="b711bd27b6d01e6321402a9a38ff305c76e71edd" date="2021-07-21 00:10:06"/>
 		<rom name="gl.dxe" size="1527724" crc="be4b3f83" md5="360f2a644e84b6d75b0b8a2fc3582124" sha1="519e3f55167b743faa880e78616787d826c8ebb3" date="2021-07-20 23:05:42"/>
 		<rom name="opengl/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2016-06-23 16:51:40"/>
