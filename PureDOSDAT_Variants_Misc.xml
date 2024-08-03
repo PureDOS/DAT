@@ -10,6 +10,15 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
 	</header>
+	<game name="Alley Cat (1984) (Synapse Software) (DOS Conversion).dosz">
+		<description>Alley Cat</description>
+		<comment>DOS conversion from PC booter. Matches with TDC</comment>
+		<comment_dosc>PCjr mode + TV/external speaker mode</comment_dosc>
+		<year>1984</year>
+		<developer>Synapse Software</developer>
+		<variant>DOS Conversion</variant>
+		<rom name="ALLEYCAT.COM" size="56144" crc="02728187" md5="e908334450f7268655951a9673293fa1" sha1="94942ca5b064e0e54f3afe90ecf19fc510ddcfea"/>
+	</game>
 	<game name="Elder Scrolls II, The - Daggerfall (1996) (Bethesda Softworks) (Unofficial Fixes).dosz">
 		<description>Elder Scrolls II, The - Daggerfall</description>
 		<comment>Installed from DaggerfallSetup v3.1.0, with default settings (all unofficial fixes, no unofficial quests or utilities). Needs DOS.YML with mem_size: 65536</comment>
