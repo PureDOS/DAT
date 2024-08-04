@@ -4312,6 +4312,44 @@
 		<rom name="XMAS2.PSM" size="136849" crc="4bf10799" md5="2cff502e4831a658b1c63257838a3ebf" sha1="cb1483acc93019333d5923abead301e10b565afb" date="1995-09-27 03:01:40"/>
 		<rom name="XMAS3.PSM" size="181650" crc="fe0ed271" md5="f1f1b66abb6fa42dcb0221fb21c97319" sha1="d08254373447fc0e68b5f280f6367030dd27b2a7" date="1995-09-27 03:03:42"/>
 	</game>
+	<game name="Jumpman (1984) (Epyx).dosz">
+		<description>Jumpman</description>
+        <comment>DOS conversion from PC booter. Matches with TDC</comment>
+        <comment_dosc>Default high score file, game speed reduced (cpu_hz: 500), PCjr mode, no joystick, and auto start</comment_dosc>
+		<year>1984</year>
+		<developer>Epyx</developer>
+		<rom name="JUMPMAN.EXE" size="37504" crc="a8be85dd" md5="d8e28f4c6b755898617ed5ba30eb0161" sha1="f7499cb919b81019e658bb94ad93e41e1077baca" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL01.DAT" size="8192" crc="20320dc4" md5="abc48562856d90487fb5f80067a74f37" sha1="2262fd3c8160b52297732d3e9f3cc80598432b11" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL02.DAT" size="8192" crc="6790dc9c" md5="48728ac22e78b80b6e8ab1ec02196aa2" sha1="26e68f5e2f47411e58ba55bf257b12354c89d9eb" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL03.DAT" size="8192" crc="3b15ab4e" md5="7f5b177abd96afbbb721f900e22a477a" sha1="81d2df46c10ea2f7511186c3f68283c440f4330e" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL04.DAT" size="8192" crc="db7b074c" md5="5e19720c8b492295b88f5171c39fcf0b" sha1="b1b26f081612390089cb854cbac0588cc0458359" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL05.DAT" size="8192" crc="ee55f70a" md5="cd7fbe92b931d508b0033614d1c1a476" sha1="7d2f83cb36b1a23c4ec48a5e3ff5f70a29734267" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL06.DAT" size="8192" crc="c4ad6160" md5="c78fa9c3ee47ee73ded723d35a765682" sha1="21f31befe4973787687e67d2a62fe8872ec64692" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL07.DAT" size="8192" crc="123c5bb9" md5="136de62fa6b1620cbfc6db20ea722703" sha1="762b87fc8dc9db812ebe719c4701d42cb11e0980" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL08.DAT" size="8192" crc="26b5cbe5" md5="a55ca61f843873b2785f8b6062ae63a9" sha1="e285df9a31f3c6888167be0b109653e142825627" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL09.DAT" size="8192" crc="ea99ad4f" md5="c195ce2a28afac0971364fd383fe522a" sha1="46ece8878c03e5f4ae20395965c1c5ed208f03c5" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL10.DAT" size="8192" crc="b39fbde9" md5="4d5d9b3a2d994dd2097a33bf29eea66b" sha1="6e282986cb622dd02654f784c0dc10323148b39b" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL11.DAT" size="8192" crc="311d4c39" md5="eeaa5ff8168bfa174fe120989a175af0" sha1="7f36dc546612dcd47e89b54c1591bd988fba9358" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL12.DAT" size="8192" crc="8b3da1fa" md5="6e84f78d914e8bb61c86bf9f062846ae" sha1="e5d55a196f76b3acf6bcbbf4c3ed0bc29dbc0700" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL13.DAT" size="8192" crc="7d3a350a" md5="340d4225aa3d2d3b9be5a1b602b1c4cb" sha1="ac4c88ffad439d994baed02be2d6ab4e52f98541" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL14.DAT" size="8192" crc="87e6de41" md5="c0e1818c70011035e122d49a809cc4c8" sha1="3d40f5fc6ceaa9fad23153f45de17b0bd82353cb" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL15.DAT" size="8192" crc="f230b599" md5="8146c1b819b8aa894c232b28ec7d4b13" sha1="a21f60dd1821325b9668ed2d9f45bf612f9937f5" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL16.DAT" size="8192" crc="0a1a38a5" md5="44bc7cda53647549530fc8d580d6bd5b" sha1="3de327bf35d4d97dbb4c0d15c51ca304b1088400" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL17.DAT" size="8192" crc="c616b41a" md5="d378b779fa6c13e9b3724c0130891bb3" sha1="11c8303a535c5ae76e940f43484bdc35720914ba" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL18.DAT" size="8192" crc="839d12a4" md5="ec3f458936ee2207deaaf193d9052842" sha1="8110e52bb90b580c3514a0a2b2d3547dc488d6d6" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL19.DAT" size="8192" crc="a4379275" md5="330033654d0d10a201f509454ed06259" sha1="1f3a849013e1b0fec7adcddd142505d8b64b5593" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL20.DAT" size="8192" crc="7293c904" md5="92a99c3b0fae5087108dc9e536e47687" sha1="3dfd76aaccc8c7fd99351f015b9250667b04f2c7" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL21.DAT" size="8192" crc="38b1ff2f" md5="d61d4a127f409ee97e8b9b869fbdfbf7" sha1="64409fec0a9be9713e57c2a3f05e0916b428bbad" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL22.DAT" size="8192" crc="0f59aa09" md5="46a599afd9ae2d232a35589f810e3b99" sha1="9882d5133e60d581563e9f85ad3e22fd5ab6eeb2" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL23.DAT" size="8192" crc="581ac8af" md5="fecb54992278e17f2363f2197afd078a" sha1="9739d0e0bc7aec42e02c2380f24e1edd7b18569f" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL24.DAT" size="8192" crc="0a70fe7c" md5="eba78ebe838a7f41a34d94fe34d92a3b" sha1="4cf99ef25f51309ecdcf842071e51ff058dedb56" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL25.DAT" size="8192" crc="4d10382b" md5="f2bb49f5fb5b6bdb19e747135e902658" sha1="4fd84a408a0e976d3ed13af52ea00e663ab3c83c" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL26.DAT" size="8192" crc="f6166e1f" md5="b684ff055f982f441c23810b6472bd33" sha1="5d3336dee482050d1cd8a7bd38769ebad9ca25a6" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL27.DAT" size="8192" crc="03967eb3" md5="a7dd2f8bf456369c5aaadb6bc6001b34" sha1="93c55630de0060638312e5d293877df2c477bf47" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL28.DAT" size="8192" crc="83327fe1" md5="e99739422d640a4849accc04ecb37e2d" sha1="814c52e925d28726516833e82929b6595c802611" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL29.DAT" size="8192" crc="d3b4789f" md5="85dc9fe9d2d25f3bf7a7301fcc936820" sha1="4cff9977cf0c683231c9e43534dbc0da46393051" date="1984-06-01 03:00:00"/>
+		<rom name="LEVEL30.DAT" size="8192" crc="daa33856" md5="ed7005381b051e9e58c6d6607b55a396" sha1="b0561f84a91c0071fb8295176ac6980847b54a8e" date="1984-06-01 03:00:00"/>
+	</game>
 	<game name="Malice (1997) (Quantum Axcess).dosz">
 		<description>Malice</description>
 		<comment>Installed from CD</comment>
