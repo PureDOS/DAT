@@ -349,14 +349,6 @@
 		<rom name="TEXTURES.FPG" size="482002" crc="ffe31e4b" md5="9d8229c2b4fe2b00f9046d662271de5e" sha1="4d0af126795811d8d52569bc6d71a48217913f4e" date="2002-04-30 21:40:06"/>
 		<rom name="TITEL.FPG" size="257656" crc="e5e52d00" md5="be00e8a1e534efe09c21e9cc9deb1222" sha1="cc64c37a1331c339e66da97b7f458253a1f40013" date="2002-04-30 21:40:04"/>
 	</game>
-	<game name="Boulder Dash Construction Kit (1987) (First Star Software).dosz">
-		<description>Boulder Dash Construction Kit</description>
-		<comment_dosc>CGA mode, no joystick, and auto start</comment_dosc>
-		<year>1987</year>
-		<developer>First Star Software</developer>
-		<link type="media">https://www.goodolddays.net/diskimages/id%2C2570/</link>
-		<rom name="disk1.img" size="737280" crc="043554f2" md5="b56baadba97f8506b4b1e812b5f2923f" sha1="0109dbc341e85fd97f1d36b998cf743f4f52de38" date="2018-04-05 12:44:58"/>
-	</game>
 	<game name="Caesar (1992) (Impressions Games).dosz">
 		<description>Caesar</description>
 		<comment>Installed from SierraOriginals CD re-release from 1995</comment>
@@ -1394,6 +1386,15 @@
 		<rom name="SOUND/VESAMID.ADV" size="12352" crc="1a975e72" md5="a36d162e5ca82b0f013e8efe2a2e48af" sha1="2c4cc67c64e6c3da265f950ca1698d35d76164da" date="1994-04-18 19:35:18"/>
 		<rom name="SOUND/WSS.ADD" size="48" crc="d625f396" md5="0879106beb6bd78253fe90bfb8c8e61f" sha1="eda3abb190a8ca2f3104c2ed8ec8c06ff1ae20b0" date="1993-05-18 15:07:44"/>
 		<rom name="SOUND/WSS.ADV" size="15991" crc="1c3f3b50" md5="0f2a8f3531219d33d094e92b00d41a0e" sha1="4d360564b8d05866165e4dc03257c7f372a1347c" date="1993-02-13 21:03:02"/>
+	</game>
+	<game name="Championship Lode Runner (1984) (Broderbund).dosz">
+		<description>Championship Lode Runner</description>
+		<comment>PC booter disk</comment>
+		<comment_dosc>Reduced game speed (cpu_hz: 500) and auto boot</comment_dosc>
+		<year>1984</year>
+		<developer>Broderbund</developer>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C2141/</link>
+		<rom name="disk01.img" size="163840" crc="e260deca" md5="190605a2baf5e0953f0e5418d67955b3" sha1="1c9ff1639cc1a64426f84c43b3b08d73175b959c"/>
 	</game>
 	<game name="Chex Quest (1996) (Digital Cafe).dosz">
 		<description>Chex Quest</description>
@@ -4319,6 +4320,15 @@
 		<rom name="XM3.PSM" size="86521" crc="9795981d" md5="782580588c0b6698907d367665cd9fe2" sha1="37a2ecd5d4e24dfaad007f9bcab835d952df1f84" date="1994-11-29 18:33:58"/>
 		<rom name="XMAS2.PSM" size="136849" crc="4bf10799" md5="2cff502e4831a658b1c63257838a3ebf" sha1="cb1483acc93019333d5923abead301e10b565afb" date="1995-09-27 03:01:40"/>
 		<rom name="XMAS3.PSM" size="181650" crc="fe0ed271" md5="f1f1b66abb6fa42dcb0221fb21c97319" sha1="d08254373447fc0e68b5f280f6367030dd27b2a7" date="1995-09-27 03:03:42"/>
+	</game>
+	<game name="Lode Runner (1983) (Broderbund).dosz">
+		<description>Lode Runner</description>
+		<comment>Cracked PC booter disk</comment>
+		<comment_dosc>Reduced game speed (cpu_hz: 750) and auto boot</comment_dosc>
+		<year>1983</year>
+		<developer>Broderbund</developer>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C292/</link>
+		<rom name="disk1.img" size="368640" crc="284b4c71" md5="2f55f431bd31ff157a93578ed9eec87e" sha1="4665489aa1f8e4ff3a0572335bcddc26bf9d0017"/>
 	</game>
 	<game name="Malice (1997) (Quantum Axcess).dosz">
 		<description>Malice</description>
