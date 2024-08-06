@@ -4822,6 +4822,54 @@
 		<rom name="NEURO1.DAT" size="260174" crc="5aa8b7ce" md5="01218fa649d7ba7a02f7ebdcb50afdea" sha1="ee2f45d97c562bd6c9b5e5e523c63ec93ea8f730" date="1989-09-26 16:31:22"/>
 		<rom name="NEURO2.DAT" size="361755" crc="f2e46cbe" md5="a82f19c98916fe4b76905bdd9c57e479" sha1="cd1808fdc2ca6e40f82483c86bd8e61113efeaa0" date="1989-09-26 16:31:22"/>
 	</game>
+	<game name="Powerslave (1996) (Lobotomy Software).dosz">
+		<description>Powerslave</description>
+		<comment>Installed from CD</comment>
+		<comment_dosc>Sound Blaster 16 config, Keyboard and Mouse controls, 640 screen width, and auto start</comment_dosc>
+		<year>1996</year>
+		<developer>Lobotomy Software</developer>
+		<link type="media">http://redump.org/disc/24321/</link>
+		<rom name="ADRV688.DIG" size="11278" crc="96dfb75d" md5="feabc78729e3a458ae2f6ab40146f0d9" sha1="255ecb5d649895d65bca49bd6afcbdf875e34bf2"/>
+		<rom name="AILDRVR.LST" size="16073" crc="338ed056" md5="a1ce7dd36b05fdc9a2a781c443ed7c9b" sha1="5cfacde01df4de3e9988ca771ab1bda9e37aee13"/>
+		<rom name="DEMO.VCR" size="214959" crc="e0c82d56" md5="204b0a50847658e29ed042c8b082b297" sha1="3bb7ab94eb7efbac60adbe7bf0e7e805b6d85956"/>
+		<rom name="DOS4GW.EXE" size="240580" crc="7dd43c8b" md5="3ec2f6e3f1ade4e21143cfeff7a4c0cb" sha1="93356e639fcf0fbe4d9e86adf8743d42e3a4874d"/>
+		<rom name="JAMMER.DIG" size="3219" crc="230129e0" md5="4922c729c5e7b347089a2be44f296859" sha1="103e0bf92c6fd1c9fc925fd57bdc22e56170b395"/>
+		<rom name="MENU.EXE" size="406173" crc="69ff24c9" md5="a57b71bfb6a9c5697b28dc5d28ebbe02" sha1="db5dd9d7ba99088d0efeb876057ac2c43f42d3f9"/>
+		<rom name="Powerslave (USA).chd" size="394108416" crc="b85d2d32" md5="ad0bb9ba2d0d2f6b9ac1cefd975774f9" sha1="fd34007e6bd0bb8c839a73eceec40f426909c80b">
+			<track number="1" type="MODE1_RAW" frames="19064" pregap="0" duration="04:14:14" size="44838528" crc="7518ae85" md5="5d49f3b46dea8f7ee5af616b05e590b6" sha1="aa9ad83d3c879a10c648653aa3d138251e0b1707" in_zeros="1" out_zeros="0"/>
+			<track number="2" type="AUDIO" frames="7372" pregap="151" duration="01:38:22" size="17338944" crc="021ca09f" md5="cc67a8383471632d6264cc7665d73f45" sha1="9fb77d166e07c137346996d6a82b27879510c7b2" in_zeros="1" out_zeros="361720"/>
+			<track number="3" type="AUDIO" frames="3823" pregap="149" duration="00:50:73" size="8991696" crc="7217d31c" md5="d81b89b929638056a186cea0991c4f17" sha1="280e3590d27a7353986d78d90d54e70f5a1a9d1c" in_zeros="351752" out_zeros="363292"/>
+			<track number="4" type="AUDIO" frames="2210" pregap="149" duration="00:29:35" size="5197920" crc="f4f039f4" md5="49ab9a82e389075508e16b5234b73e6d" sha1="c1e6d85e3019e2dd86c6035e534342288c0ebb95" in_zeros="351776" out_zeros="362036"/>
+			<track number="5" type="AUDIO" frames="2045" pregap="149" duration="00:27:20" size="4809840" crc="fea4c204" md5="e843b6a8d95becdbd7f968346460f188" sha1="65aa5ae1e717c200e507bf6ddadc02022a3497fe" in_zeros="351776" out_zeros="360048"/>
+			<track number="6" type="AUDIO" frames="2170" pregap="149" duration="00:28:70" size="5103840" crc="9b218358" md5="811850f5eef6cf160a48d0096e1c830c" sha1="72745c253de4fc22520de5b5c92cf46277dae2b9" in_zeros="351776" out_zeros="362580"/>
+			<track number="7" type="AUDIO" frames="3953" pregap="149" duration="00:52:53" size="9297456" crc="4b1894c6" md5="2216d4d75109c657ca14604bfc564ad4" sha1="b8d27722bc77da5c062b2eec7459ec07b741e17d" in_zeros="351776" out_zeros="362980"/>
+			<track number="8" type="AUDIO" frames="3002" pregap="149" duration="00:40:02" size="7060704" crc="9742b897" md5="172d79cf17cfc5471da3665b8388515e" sha1="b7b5ec8a5e06ee61cc6a4dc4dd7708ce0205bb5a" in_zeros="351776" out_zeros="363936"/>
+			<track number="9" type="AUDIO" frames="3413" pregap="149" duration="00:45:38" size="8027376" crc="59ca2f50" md5="94295f15173ebf8a8714e29d73ba664b" sha1="55c9b125352c026c9d84fb9ac5a27ba12e6c7541" in_zeros="351752" out_zeros="362229"/>
+			<track number="10" type="AUDIO" frames="3055" pregap="149" duration="00:40:55" size="7185360" crc="32aae786" md5="c59ab9030c30a3847b94be7a3d0429de" sha1="c1cc76a32257dcdf20b5bcb95b9a291323a3d352" in_zeros="351776" out_zeros="363373"/>
+			<track number="11" type="AUDIO" frames="10802" pregap="149" duration="02:24:02" size="25406304" crc="ca3a9316" md5="4241c5534720c2e9a9b10cebc5c870b7" sha1="77ee75c77b10b749e52e93adc1fa093fb04ce3f4" in_zeros="351776" out_zeros="361496"/>
+			<track number="12" type="AUDIO" frames="10250" pregap="149" duration="02:16:50" size="24108000" crc="39426eee" md5="bdfe89f2d054f5455883c7f9e565c140" sha1="0d6b64cf6a940bf52156e3b8c46f52ccf79e610a" in_zeros="351752" out_zeros="362632"/>
+			<track number="13" type="AUDIO" frames="10574" pregap="149" duration="02:20:74" size="24870048" crc="247edbe2" md5="0951cc51baae50c65aad8df265782b43" sha1="b07790159bca092de294228ad9d7f4618798be67" in_zeros="351752" out_zeros="360513"/>
+			<track number="14" type="AUDIO" frames="13621" pregap="149" duration="03:01:46" size="32036592" crc="014e2c94" md5="77bafba2cc3efca75ad084f0aa01d08c" sha1="a38ce0067879b320e4e740e8997d7950bddd78b7" in_zeros="351754" out_zeros="363332"/>
+			<track number="15" type="AUDIO" frames="15706" pregap="149" duration="03:29:31" size="36940512" crc="5c058cfa" md5="5c9b457754a14c3bf3a39fe062f9e4bd" sha1="f5c56fb285955a3c7cd21e056d17fb3eeba2906d" in_zeros="351752" out_zeros="363512"/>
+			<track number="16" type="AUDIO" frames="9592" pregap="149" duration="02:07:67" size="22560384" crc="dfdbdf25" md5="010a9fcc14bb3b069273ee1d159c5457" sha1="08d72e84ab49be9434a091401623f0446ea6e225" in_zeros="351752" out_zeros="362024"/>
+			<track number="17" type="AUDIO" frames="9641" pregap="149" duration="02:08:41" size="22675632" crc="f6e06ab1" md5="646dc03252c5f7f9cd7205e665bd487d" sha1="f1ea449ba604ce971c1b870d6a3191f740a034f8" in_zeros="351752" out_zeros="360912"/>
+			<track number="18" type="AUDIO" frames="13024" pregap="149" duration="02:53:49" size="30632448" crc="bf92e7a7" md5="bec66d6eec06080183e70fccb67d492a" sha1="a53e7d82d068c96a2c5a6e83b01d37f1621fe1ca" in_zeros="351752" out_zeros="362772"/>
+			<track number="19" type="AUDIO" frames="22882" pregap="149" duration="05:05:07" size="53818464" crc="d335fad5" md5="93516610b65fd0e6e14f95769f19361c" sha1="b2b25ca64dab4d4be81636d69fdcc61968342566" in_zeros="351752" out_zeros="14112"/>
+		</rom>
+		<rom name="PROAUDIO.DIG" size="2127" crc="4b071066" md5="a054071be574b2bcf47a0386f1a98ae6" sha1="8debfb262849ebce1da3d45387d1595712c2667b"/>
+		<rom name="PS.EXE" size="818966" crc="bebf9963" md5="097f245491efd919d2d5cbd6fe8e4a2f" sha1="9be5058dbc0bafb879401797519c12d938467f68"/>
+		<rom name="PS.LID" size="458" crc="ae2796c0" md5="57d791003db4de5184084821c83e522c" sha1="2933e9412deb091424ebef443b71f7d94bd0ead2"/>
+		<rom name="PWRSLAVE.LID" size="458" crc="ae2796c0" md5="57d791003db4de5184084821c83e522c" sha1="2933e9412deb091424ebef443b71f7d94bd0ead2"/>
+		<rom name="RAP10.DIG" size="2849" crc="47373ef0" md5="bb846bb23ee9065a09373afdb73cf054" sha1="6081bc6e447afeaad48a8361c92e7ce280f6ea7e"/>
+		<rom name="README.TXT" size="4022" crc="a95f2347" md5="97baffac0c4f828db4d9e5b030220a5b" sha1="29be7f17a2cf98a02cd8645b5d3a0d30f6752dff"/>
+		<rom name="SB16.DIG" size="2812" crc="c5d3dc1a" md5="d821437468279994b5aeeecad67ac0ad" sha1="75dec727034779d4550d6a769cf292ce176189e6"/>
+		<rom name="SBLASTER.DIG" size="2984" crc="bf414d3b" md5="fafa23a9df15ca6451344b71e50bcb0a" sha1="4b19974321eabbd40cfbf2fbb781e0799c092b95"/>
+		<rom name="SBPRO.DIG" size="2763" crc="1061490f" md5="b0fe50da778c24cc4066e960a3d1a7c3" sha1="8bc27ebd0ec30dabfd354b948801946b7e8f33d8"/>
+		<rom name="SETUP.BAT" size="92" crc="c0e1dce2" md5="4b88798151d5b08fa0f82ab3c8ac5334" sha1="b68f7f85158a9560863f756b125903a65f7dd3e9"/>
+		<rom name="SNDSCAPE.DIG" size="4171" crc="708a96a2" md5="9d7a052a680f45d244e0ee4735b7b55f" sha1="f9902b74d545813315194f5a1791c4ea0a9a1e0d"/>
+		<rom name="STUFF.DAT" size="27020745" crc="303cbd89" md5="0b230cb737c423d4b9a6f5287736df76" sha1="72d536494fd68dd89ab02d581e1c4672621643a8"/>
+		<rom name="ULTRA.DIG" size="9478" crc="430d67f5" md5="000e584a06712d2f2b58eb2e17b65248" sha1="4327d6bb924b4e40fa7ff035bdfb73a879c31836"/>
+	</game>
 	<game name="Prince of Persia (1992) (Broderbund Software).dosz">
 		<description>Prince of Persia</description>
 		<comment>Based on the 3.5" disk of version 1.3</comment>
