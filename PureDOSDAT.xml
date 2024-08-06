@@ -7305,6 +7305,923 @@
 			<track number="1" type="MODE1_RAW" frames="156147" pregap="0" duration="34:41:72" size="367257744" crc="3e4470e9" md5="5a1f6a305978559cf138467267b82170" sha1="c0d1ab6b2cf31385f0336f26cde510eb4579bf50" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
+	<game name="Terminator, The (1991) (Bethesda Softworks).dosz">
+		<description>Terminator, The</description>
+		<comment>Installed using floppies matching TGOD ID: 1669</comment>
+		<comment_dosc>Auto-starts</comment_dosc>
+		<year>1991</year>
+		<developer>Bethesda Softworks</developer>
+		<media_link>https://www.goodolddays.net/diskimages/id%2C1313/</media_link>
+		<rom name="TERM/AAM.RS" size="8559" crc="ea7e3562" md5="d5ece0351b409efcaa4558945033e812" sha1="02004e65f39827baa0d2dbb3e5697e65efa53dd9" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/AMRAAM.SPN" size="452" crc="6d6b56b5" md5="860e53f0c2b03953f5f7a5bd2b479616" sha1="63a9d288ab7a82de25f5ed73e52dadb2e6a4043e" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/AQUIRED.RS" size="1007" crc="2dc0f1dd" md5="1b6d63c63573b481651a613f403188dd" sha1="d3c06963e3a52826e75b48e53e527862ef941f4b" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/ARM256.IMG" size="8544" crc="06c2bf18" md5="f3c6a36e4d04328dffd3525d7eb9d00d" sha1="677fc5e98881018b245117ca337b0d7a542a44bb" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/ARMORY.MSK" size="4992" crc="4083e515" md5="b1598dac19e6a7b25094e0c65922af17" sha1="4b66bbda049547493da966d52d461b79a5325038" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/AUTOTR.IMG" size="384" crc="5d3160bc" md5="a464c62bd26604c9fa886353439c0476" sha1="8070fe6e6c77a85fc60087029d0fb8eaaaa3d08e" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/BANK256.IMG" size="7957" crc="cbc7af0e" md5="cf29931db5a0c1d77fcc31618128ca43" sha1="d51177ffacc716baf0e3f6127ba7bea1c8befc1a" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/BBAC.DFB" size="30728" crc="39f125af" md5="20df97e2512a65333b067eabe7e0aa2c" sha1="cc47385010cb50890d766435bf708e681f8376ad" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/BBAC.DFF" size="17688" crc="e9b12be4" md5="2b3392872e4c345c7e2ba522f6105512" sha1="32a5dc2fa8d40f329f9f1436b915c4e8657b8a45" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/BIGDOG.RS" size="6541" crc="82f0389a" md5="62a0947d4fe0c9802a686bb39681f83c" sha1="2b7f7ccf8677c92bf2cbab6c27d6163d5a8e9c1c" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/BINOS.IMG" size="3930" crc="3d580692" md5="fdf9650cc51152d7a8c3693e85b7ecde" sha1="cb3bf8d157874181c2001877f424eccfae12177f" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/BMAP.IMG" size="14262" crc="16205894" md5="040775afa98d05e2a07ced0df9318458" sha1="f8e27ad287edb2434671e4849ee1801ab6ca4335" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/BOMB.DFB" size="12778" crc="204a03a8" md5="0361f6627cf3a30173deacf224ec8b97" sha1="60736d0d620437982b98de390143d57a9b64a354" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/BOMB.DFF" size="85188" crc="ce2f39d1" md5="3abe26a7f94f310ce6fbeb2de219ece6" sha1="666f4318b4dd95b849bd9e956c4e5c98a9aed1ea" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/CAR_NOW_.RS" size="8383" crc="59245dfa" md5="ac1e6ee8d23aa04770c9af966eb3f9b3" sha1="f0adedb7fe205200efa96d9537c08f80a0c5f289" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/CAR_STAR.RS" size="2697" crc="dc11f180" md5="39f83af85e45e7993881aa8bacdd0185" sha1="e77aedc87c0ad5438d57282d918dfea9f4d37ce8" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/CASH.RS" size="11177" crc="461a5267" md5="d264307141007fbcd4cf5aca78950cfd" sha1="ae953094fe3249a898c5739ef377f6b0d073263e" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/COP.CAF" size="12698" crc="fe4c8f84" md5="fa79604e3270e4bdaa7fdcad26d6d13e" sha1="c0ef681683f2ff5445deada6e6092c69a1fc3f2c" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/COP.CSF" size="13073" crc="8771e869" md5="2b56e2029327583171337f7ee853520d" sha1="ad011a663b379eda8f201352d0f217ad41f42203" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/CREDITS" size="3687" crc="27853cbc" md5="455f13e1f7a6af5f3817a6f2f821ff23" sha1="c96b438a2def4d3737fbaa89f6ff83c9b1aa4847" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/DAM256.IMG" size="7170" crc="6ad4fe60" md5="39d80ebabb9c9c3feb0c16d8f404cf90" sha1="278fecaecce4421787df423f3ff9aa806e3d1e38" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/DOOR.RS" size="1939" crc="95b15fb0" md5="6bb206a47b6c7475771499be4c52f5ef" sha1="bbbf3cb852e86711ee01264c3f4535b700eeccb3" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/DOR.ATF" size="4158" crc="1b59e6e6" md5="353111186d0fe43f6cba40087c8095bf" sha1="975eda22781bb2b570d2653597c60fefc3ac6768" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/DOR.DFB" size="42500" crc="ad25aa68" md5="3af8dd3735c6001d6c6155f66321bd74" sha1="50f08d6c0f3667278fa6dc43356e7f791ca28ea5" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/DOR.DFF" size="116348" crc="1aa43ddd" md5="c595011edd98c9ffa3b77e42a3db287c" sha1="959bb264b8d555b8fe9ea0e4b930fac348940a5a" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/DOS.ATF" size="2976" crc="7ef89d34" md5="7c870a7bbf45f453c4028e64d7eb990a" sha1="068c9a2e793cd872a1cb9a4aaacd11fea7a8c867" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/DOS.DFB" size="17934" crc="f3a6c32b" md5="bfe7e3250e4613698e827e2b9577205e" sha1="c18a7a366879da03c0289e3f2df1863ef0791911" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/DOS.DFF" size="121754" crc="2fbddbf1" md5="35eef94366ac1e72e8238d8f7862eab6" sha1="27e597289fcfb2e9785ec085bf60294e7d1fbced" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/DOT.ATF" size="2884" crc="bfd56b3e" md5="a527cc05f634ae0b5ce6c15e4830aa85" sha1="1825978455c84c8c9d81fb3a58059db1dd4e0d55" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/DOT.DFB" size="31020" crc="60981520" md5="018d56e0dee2465853bacba710855c07" sha1="975db0ab57a5e76a3188379d5666e4c6aebfe1cd" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/DOT.DFF" size="130298" crc="3690ecce" md5="c188901031d9fcc56930e78ce9b339eb" sha1="a43e142bd8357684139b495f16fee72897d129a3" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/DROP.SPN" size="169" crc="5fc7c6dd" md5="1e305420d2ab5e98344f1e611a6fe9d6" sha1="ed759cf0154c97f57cd9fc416d68b2738f382a45" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/DROW.ATF" size="1976" crc="1f469554" md5="0453753aa3582d023116de6523ae3626" sha1="cd51b52108126c470663f5c6b2ec6bda42499a06" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/DROW.DFB" size="20334" crc="170d1602" md5="fa1af7feb87794974c68c9684177b652" sha1="cff4cf6dd93e3867d09e1584377521c5adb5bb7f" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/DROW.DFF" size="56488" crc="1664a233" md5="fff032bdd513a795b71af433a2eed97b" sha1="4aff9cfc74e3ed69086a954f2b449bc20fc1662e" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/DRUG256.IMG" size="12289" crc="9685112e" md5="f3171a1bd5408e9a3ac919390a7ffb69" sha1="43e60d35cece548bde1a24d0f4b49bdb6d32dd2c" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/DRUGSTOR.MSK" size="8510" crc="b18b849b" md5="664437e7b46682c4b3341328b79e700e" sha1="6dc1ae4212b87f2552089e451b651efa5e5b266a" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/ENEMIES.CSF" size="63856" crc="175969c8" md5="ccaa28ea0f1b6dd9370d7a43366cd540" sha1="56ffc1e287c26d05363620924397ff4a2ecc718a" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/EXP.RS" size="6195" crc="53227293" md5="ff2d19569624a9a0ca2865e709ea54a4" sha1="3b4ba04e24adf19e341183fa9c14e594d38f72e4" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/EXPL.RS" size="7209" crc="cb4de652" md5="6d55ceffaab02a5c7f5393d27b3cb210" sha1="f99b84f5f0287696fbf334b17b0437b5a2eb8a11" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/FONT.DMP" size="1024" crc="91241294" md5="4345b943a7658615e8d4cce6b58d2561" sha1="1380a95cbe613f82edfa1c8e4fb45e7da8c1be20" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/FONT.PCK" size="1680" crc="437f76eb" md5="d1334d9ecb1d7f98c5a16c542135bcc8" sha1="87eb69e0ea70dc06618ba386baf8f5f6af4d15d0" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/FRAME.IMG" size="756" crc="5c38ac3e" md5="0d9a784274a29d31769ea756487be17d" sha1="5e3edfe9ec7789fd95e7d98e743b2382c4a2ab64" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/GRENADE.SPN" size="1014" crc="6ef198b1" md5="ad792342df2e7d1ab0a95cb770fdd1dc" sha1="e412c8f2270049b0dce1a2a39c88f6031e299f92" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/GUN256.IMG" size="15719" crc="7b901e7b" md5="09bcf8b5a14e2ad742d8992227c88730" sha1="df71f7f55281471d0c3728152c9025befd904102" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/GUNSHOT.RS" size="3773" crc="46f2a3b3" md5="8af71c5672c44865cfe98ac2919f294b" sha1="d034bb8ef542baf40641dc7124343bc73d3976fa" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/GUNSTORE.MSK" size="3818" crc="2628a29b" md5="1409a05e8fc6c28bba7dc96a96e48bbe" sha1="af14d99ce1f9f9c0dac55f99869751e8bde9bc17" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/HEART.RS" size="1059" crc="077edf13" md5="aeb8a87195b8a7a8034f6083d487cf37" sha1="0179a5ed25725687afeeb84c4b63ed774f531323" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/HORIZON.IMG" size="13568" crc="ec0ce2a3" md5="11a65247d42c1485fc991a011f9c87af" sha1="a3be97e003063729befa6177715a1f6144406545" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/HOSP256.IMG" size="13515" crc="da2da6c8" md5="82b5fd48f432e8ab93c94cbbf0578064" sha1="1382e450d696ced749c0c591f701f2a211ebf48e" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/HUD1.IMG" size="114" crc="3b2acab0" md5="b9b4d51f0791d19f3f701fc7a795a4c6" sha1="6e69677c6189bdd9506aa4c0f6252ab151c1e679" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/HUD2.IMG" size="898" crc="467adf29" md5="b20144904d26289ccc793a8de09fb216" sha1="913928d41a3dc9050ac2904dd54407a0b3069047" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/HUD3.IMG" size="678" crc="19758976" md5="4aea89d54c4fb2f5566c6b9d2ebd7e1a" sha1="9d5272cf41da1160de7e5237544302aa90e899a3" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/HUD4.IMG" size="578" crc="13a5e5fa" md5="221e9215c3d93e5921a82313dc8d6c73" sha1="0efe22ca164cf6758e31df0f1421600db1625354" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/HUD5.IMG" size="114" crc="2f5d2700" md5="63ed821c78fb2d21d0dc6827059f5288" sha1="3105c8b1fc46657df176600265db6cebdce4e41e" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/ILL.RS" size="6323" crc="721cc678" md5="a9373f078c02571b13c456bb10ef5336" sha1="95ebe28dfb5af699bca593683d02ee50826a558e" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/INTRO.DFB" size="33846" crc="e42aca9f" md5="3ea84d266ff9122c61865c7ebdb1c4aa" sha1="876fcefc10bbad972aa1fbc6638a792f6fad6839" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/INTRO.DFF" size="59574" crc="08769250" md5="97732691145d1633b5d8ea5d25d887f6" sha1="589bc243ac8585f658c02725081ca4fa6ae0879f" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/INTROTXT.IMG" size="25733" crc="c279bde7" md5="e5796b13dcbed2ddef97e7bf283a803a" sha1="2ed14863b8cb9d85fe1d595f615f2710aa3b9e2d" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/LA.BMP" size="19101" crc="0aa0014f" md5="f164523409f5a8eb465ac3c874a5250b" sha1="b483f51fdc13a246455556c71f56fabd864671b4" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/LA.DEF" size="57876" crc="95adfe9b" md5="4f6a6c9544418b97b327b4efb7d95eb7" sha1="6514af0918cea1a0c1570973cb5ea4d8514f1af2" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/LAA1.BIG" size="34264" crc="cd385815" md5="a446e44b0a42264aaf9a36836e767607" sha1="d34879d2c68671a4c4ec5f9811389e78ba23801e" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/LAA1.SCT" size="42784" crc="b5e599f4" md5="2e009fa4028638f6f36cb93ce50a3bb3" sha1="226407da84386c681161ecd8a622c2a01ea5b146" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/LAA2.BIG" size="43228" crc="a54afe41" md5="391e1fe3948e6cc43888f7d8102af927" sha1="e34399dd1b495dc92f2ed58550f84b58125bb8ea" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/LAA2.SCT" size="47712" crc="fce4346a" md5="7d6f15b3d774de4d926238d1d226cdbb" sha1="183cd0aaa3d6b52818c54cf4751112e6ea55c3d4" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/LAA3.BIG" size="34738" crc="9b17133b" md5="a37a79c83e4814dadf36d3c1186be478" sha1="b0534dffea6c0b6efa74f4204cdc76e7303495c3" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/LAA3.SCT" size="45952" crc="fb06784d" md5="4f73c94bd4b2d349da8d8ccdb418b1d1" sha1="40c31ead10268cb3b94117b581b8975137c58673" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/LAB1.BIG" size="35240" crc="1c37bdfe" md5="88dbcbea9b8375cc58c86afebbd48ab8" sha1="be0718877cec2852c48e8cd624ed199eff522cdc" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/LAB1.SCT" size="44658" crc="caa4ef0a" md5="e455c75018ead6438c3c33b5a227120a" sha1="53072225f978ac24cf98f56b664c1675d579dd1b" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/LAB2.BIG" size="31572" crc="e35fc3ad" md5="9817875e02c796369c1a12149eb34f94" sha1="26a78dc4763ca9f449909d2a907c2aa94d3cd3a7" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/LAB2.SCT" size="47354" crc="d3ce89a7" md5="ccdf8e89b6b24f49293f8bf841a0835b" sha1="afe8966a3180cd887b5bb0f02a0b6b7b99b6cbcb" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/LAB3.BIG" size="33614" crc="c54fa1bb" md5="748a604d81f89b2deabb67724680e51f" sha1="42fb3cbe23497ba1b26bcdb88519bae40365916b" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/LAB3.SCT" size="48438" crc="900eec0d" md5="ca37d08ba9b86d9c41e826bdb786a7e8" sha1="016eaca4cbb59e34402f73c4ffd67a4f1b07eef3" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/LFRAME.IMG" size="1278" crc="7784eab5" md5="c7bb375035a7180805f3a6c6fa6eb614" sha1="bf57c089cede9299acf419a58dbf4984d5af56a2" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/MANWOM.CAF" size="22372" crc="9e19156e" md5="e2b9d4bef45e3e031e49eb1851893fab" sha1="c4ffbbc56606c648a727756e1886d507f26b2d8b" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/MANWOM.CSF" size="36860" crc="fcf8e368" md5="3ec19052367ea5c954ea0b5cecd1f023" sha1="997071e1a5e77a78d5b684ceea551923ec31839c" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/MAP.IMG" size="1820" crc="c5e8035e" md5="b6a18814a58887789c5acd1d49c7541d" sha1="5affb3ce565cbd9ad0672d8a991d883cd52e1421" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/MAPMASK.IMG" size="1586" crc="6557eeeb" md5="6700756eba7ea03208cf0055e3dd3e5f" sha1="7df864470bde285d3b766a816dbca037380721c8" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/MENU256.IMG" size="23224" crc="8e0a99ef" md5="2550a7c41a976d29a7d053a552577651" sha1="3344c0fd5c4cff0897ebd31958015d1ff7be6730" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/MISSILE.SPN" size="529" crc="4bfa5d9e" md5="32e6715a9b08ffb9b5b3a61c231d575f" sha1="5f46443576eb877ac401f61fa58effcbffacc862" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/NET.ATF" size="4900" crc="313f4c94" md5="0fdd277200334d378388d298e55459cb" sha1="2c6a177330a22658522fa1c1b9afe850389c447a" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/NET.DFB" size="19678" crc="485dfa07" md5="b2ca0330dd1adddd26444043a552318b" sha1="206455733c342c7e9eeb2b905554bade345cbe7e" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/NET.DFF" size="185078" crc="2ee53596" md5="8282ea46ef7248cd4cab10bcf285d8ef" sha1="fed4455b5f1799cefdebcb32ab00557c14a29069" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/NOAMMO.RS" size="1081" crc="6b0bcb0c" md5="3a36ae11f66b837edaaaac69209bfe94" sha1="1d6c45a27c4e0cf3ea06ab10bcac2015680901ef" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/NUMBERS.IMG" size="112" crc="3623c931" md5="a5a94dd54764e69f2ea235ae47ee0e02" sha1="5885ae48d07720abe93d89ce0224dba9eaaccc2d" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/NY.ATF" size="1356" crc="77ae4b2e" md5="0ae716fe3eb85c8b68d646d492e37dfc" sha1="5fbacb48b637963c7cb7474a9c05be1bdf946fd3" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/NY.DFB" size="20984" crc="e6595360" md5="7a6ce050c4bfc1f55c1949876bca7881" sha1="cff25bc4a34a771a0d8cacd0c2fc50acb17df295" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/NY.DFF" size="84772" crc="4b7c1765" md5="b0ca3f15a245076ad605aa1e5a859ee6" sha1="90c131a3213ee7a6a3c825f9010c5b802e0fd05c" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/PANEL.IMG" size="4197" crc="22c0dd4d" md5="59185be9d5dcf281a8cba9ecfcb66fbb" sha1="49d65d8d5f4f6b07b64c1b3b9f46242c41550615" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/PASS256.IMG" size="64784" crc="5c7c2ef4" md5="f002138daeed9fb8107270ff723e8917" sha1="bf01beb51e0abf7508f8cb0ad03837636d23d912" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/PHONEHDR.IMG" size="740" crc="01be5161" md5="cf701a7d2d38ccc41e5b612e1df046d0" sha1="28b69cde9a3e57f963384a656fd55fdea2ab2af4" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/POINTER.IMG" size="34" crc="b5f56242" md5="845fe3e45c133bb964973345df66f017" sha1="fc4ce83004f7ffd98e54283e9a6d0cd7ee9262ea" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/PP.IMG" size="46" crc="61013283" md5="9c67e48193507931e6df71a89fb74358" sha1="e718c77897ef1379ec596596ecab6de1a8d4dddb" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/RANGE256.IMG" size="9281" crc="1e829515" md5="9e51b9901f231b298bc67cac8ec52b3f" sha1="c54a256deeea1505c9bbfb5148188b60b80ff3ba" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/RAT256.IMG" size="31177" crc="6a5c90db" md5="7acf3a664bda3ee6bae29065776fb78f" sha1="cdde80fc6e88f8d1f4e9d24e85d8f9ac188b2be0" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/RATINGS.RSE" size="207" crc="07f823ab" md5="96b4a6f44c21bb596ca34b81062b395b" sha1="0b315aa0f98f8eb4a866cb3deeeba944e33d2c5e" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/RATINGS.TRM" size="207" crc="07f823ab" md5="96b4a6f44c21bb596ca34b81062b395b" sha1="0b315aa0f98f8eb4a866cb3deeeba944e33d2c5e" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/S8X59.IMG" size="488" crc="440d44ad" md5="923a051f9ac8fb0b527f1c2e28a7939c" sha1="7780aa359ccd0ce445bf33382e6de7201b247684" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/SARAH.ATF" size="3142" crc="b0ad11c4" md5="83a91f3b1600943778bf385a6a063889" sha1="6af5e36731610ae1f789e6e232568fec5c3e00d7" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/SCOPES.IMG" size="3892" crc="f8d9e625" md5="d1f4d9620dc806bed7e9c7825b6bd4e4" sha1="a6ebd14218a2dc0af7cf6dd68cfb31c2f5e8e585" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/SCREAM.RS" size="2325" crc="b147e3ca" md5="03cfb4f49009f3f8368d945f82eb8e14" sha1="7546983056a64d4e4d37d297af0330c0445bdc18" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/SHAPES.IMG" size="7468" crc="5d1285bc" md5="4845f4303cd6d2713bd9f55329afc168" sha1="e0a2717a65d7fbb9d792f9f052ef81a91844c00c" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/SHOOT256.IMG" size="12178" crc="d9a75ff8" md5="1a04671a19fb93dccc59b88a81b8ccc8" sha1="910595a29a39cc6f3ff77846cffd6a933252a47e" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/SIREN1.RS" size="7881" crc="e57992e8" md5="1bb135fa008987e4dbc4f20b1a4d3997" sha1="5dee494e35151559479e27bd0bb61930280f01b2" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/SIREN2.RS" size="7771" crc="0c263420" md5="3413ad27536006f35ebc8bee5ed3a468" sha1="08217de6e65d24686a73eabeb6e1f03e32eaffe4" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/SMALLER.IMG" size="176" crc="6748206b" md5="a25675eec253361d296deeda9c11c960" sha1="784a454e1a31f1cf38ee5926c1e29ac8e73736b8" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/SNOW.RS" size="3825" crc="f3f905fe" md5="a260727eb3b4efe24c67856b7146119d" sha1="37a0e61efa413fa0cd3a7bd14078090c15fb24b4" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/SOL.CAF" size="17376" crc="3027227b" md5="682356ab3c0ef315cb8a447f816af8b5" sha1="2afebfc015cd37ad3b08fe689254474d6046090e" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/SOL.CSF" size="13884" crc="8ca5b61d" md5="c0cf65c782fbb315f7cd6791bc3140ab" sha1="a1b085eba3d1e1f536f7768e53b232ca6d773bb7" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/SONG1.CMF" size="10059" crc="4a3201a6" md5="c61cee50b2207981b46e664c92ab0b07" sha1="79fd35ec4ccc6e8a0d1d089590bb1ceed6c96ace" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/SPECCHAR.CHR" size="252" crc="19a6fa12" md5="190a1c83302b64942dcf47c5887588b9" sha1="9035ce2d58219f04c98b08c069e33273f3fe91f2" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/SPORT256.IMG" size="11558" crc="237272e8" md5="5676d591f8a5403c9542436cece36dc8" sha1="daa528e7b0b6a37583f37026ab3c564bc03706f7" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/SPORTSTO.MSK" size="3522" crc="83a4c306" md5="60ee8d5ec96df8a653f4fe411e6c72b9" sha1="c88a3f4b8bf149ce59ac8c5dc2d3947cdda142ae" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/SUBGUN1.RS" size="2243" crc="e7d83ba5" md5="5b91f97ebc7152cce219f35b17ab8691" sha1="ee92530661ccade9031cd23f724382cb01aca1a5" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/SUBGUN2.RS" size="3335" crc="d5867ec7" md5="0878f8fae106c27252897e557e146d00" sha1="3e6f0029e14c7ca4563661ed392df5d0ba8a33ff" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/TARGET.IMG" size="32" crc="63f7e276" md5="bf9895d4da8450b49c59ba3546ba1b8c" sha1="fae7c2e3f8c324c9b680e3a79f64a6a906c57e76" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/TDOR.ATF" size="2362" crc="b396490e" md5="dd7d0ff50e23610b4062ec00804238d2" sha1="b1eb9ecdebdc0a39188263854cc96ba7a3010540" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/TDOS.ATF" size="2862" crc="16d4e814" md5="1e4ff404ac6c951bacb82fac38576385" sha1="29642aeb3a645c03583c2982757ab1c679d96e78" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/TDOT.ATF" size="2744" crc="ea40ffb5" md5="7723ad745482328b3a07c1ed718b70bb" sha1="4d612dd36b098fcdb71926a9f63ce1b733938027" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/TDROW.ATF" size="3464" crc="282ec5d5" md5="795b57a940b6bf64b44b94f7a6e4e1a9" sha1="d91e00ae7c39253888919c3aac3a639a33b86c9b" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/TERM.EXE" size="87565" crc="b0636026" md5="b26e9b044c3a1a9358630f417477c8ef" sha1="44342837dfa5a43e44ad8025d7ba5c415007131c" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/TERMHUD.CIF" size="688" crc="1d46586d" md5="9645feb9089e0296a639dff514c7a7f5" sha1="55a1adec6419125f025ad839adcf83ba90cd3f7b" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/TNY.ATF" size="1196" crc="7cd8efa5" md5="8e136df82ade07edb9831591586ee0cd" sha1="7a72e76d2b719d1dc9166a1a98b6c81d4eb8f004" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/TRACER.SPN" size="186" crc="6c3de644" md5="53c9dd851119f0dfb02bca4de2242699" sha1="91e72e2f24e05623c3de98c193c1808682785db6" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/TS.ATF" size="1276" crc="c04e6462" md5="7e32633788e18dda58eaf992d5d45449" sha1="969c3e6ea70c9d535b3c7ea83595d9ea558920ea" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/TS.DFB" size="34752" crc="3a9c8074" md5="78a4e07b0c4283d91699cc51810c26e6" sha1="1acdf9f00ca0069ebf7530319295c1190419d0c5" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/TS.DFF" size="13076" crc="3d82ac80" md5="b89dfbb52e0ff99584221e88d0840f20" sha1="c4d08eca774f4fba9401ec61020c4d6ce0a11e5c" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/UMPH.RS" size="2907" crc="394705e7" md5="cea2d6e073fbc7f56bd9b55cc37e7200" sha1="7aa713df297839ef08cb707ca2359d7f07d6ab64" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/WALKER.RS" size="1035" crc="2ae7e08b" md5="cb2f78d8c9274f3eb486ecbf6d50d89a" sha1="4c9ad4124391a44327ec161d8f9d334f9c066686" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/WEAPONS.CIF" size="2196" crc="6ce4674c" md5="fb516286fd7a41cfbc6fdb399d72b1b2" sha1="119dc2f40b6aa8289a4feefaca5708db01cce277" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/WHEELS.CIF" size="11682" crc="768729aa" md5="3af72e43d39104fe855f9a4f5abce07e" sha1="5b375572042fd2c0ff00542de2af50cc8142571a" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/WPANEL.IMG" size="2770" crc="b1602818" md5="be3d3ed873803bd4af41b1aa941f7659" sha1="c5ec26f3a998111782077c0d82e5f909a8256352" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/WPANELT.IMG" size="2042" crc="7bb922e5" md5="67487edc4fd11e3c1eacf47135975a47" sha1="f2f4923dc0255bf3c870fc927dfb9e9b29904b3a" date="1996-12-24 21:32:00"/>
+		<rom name="TERM/YELLOWPG.CIF" size="23404" crc="c17e4bc2" md5="03fc2143ae2db2d966fd7c2ec4c4f216" sha1="ae54e8450d3c1493fea501b4eb72065b51d42ede" date="1996-12-24 21:32:00"/>
+	</game>
+	<game name="Terminator 2029, The (1992) (Bethesda Softworks).dosz">
+		<description>Terminator 2029, The</description>
+		<comment>Installed using Redump-verified CD-ROM Terminator 2029, The (USA) - Includes Operation Scour expansion</comment>
+		<comment_dosc>Mounts CD, sound config, and auto-starts</comment_dosc>
+		<year>1992</year>
+		<developer>Bethesda Softworks</developer>
+		<media_link>http://redump.org/disc/21161/</media_link>
+		<rom name="2029_CD/2029.BAT" size="112" crc="7bf784c3" md5="f1b8586f8eb41fdc0e1019a80d2e4044" sha1="cfc00347324a54ad59a6f034d6064bec367859e7" date="1996-12-25 05:32:00"/>
+		<rom name="2029_CD/SOUND.CFG" size="4282" crc="17f8b300" md5="82c4fc2f61e4ff0626a7dace511c79aa" sha1="f1f87311fb42d641fdba1ae2cb022b75a58594ea"/>
+		<rom name="CD/Terminator 2029, The (USA).chd" size="471700224" crc="20fd24b0" md5="ade30352fd39c13b7ec5869bb4c80423" sha1="7438c571f6e405c7a45659010b0d16d5394d8275">
+			<track number="1" type="MODE1_RAW" frames="192647" pregap="0" duration="42:48:47" size="453105744" crc="22fd684f" md5="a33d5d3fe565a0c6d94b24d763db70b9" sha1="c20d296c47163a334cfd39fc555b1bac8954bfdc" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
+	<game name="Terminator, The - Rampage (1993) (Bethesda Softworks).dosz">
+		<description>Terminator, The - Rampage</description>
+		<comment>Installed using Redump-verified CD-ROM Terminator, The - Rampage (USA) (Rerelease)</comment>
+		<comment_dosc>Mounts CD, sound config, and auto-starts</comment_dosc>
+		<year>1993</year>
+		<developer>Bethesda Softworks</developer>
+		<media_link>http://redump.org/disc/88760/</media_link>
+		<rom name="CD/Terminator, The - Rampage (USA) (Rerelease).chd" size="26986752" crc="6d918d33" md5="fff5ec88385da6bf972cda33274b253d" sha1="0298061bd34821d67bae326287aea1c02d87d850">
+			<track number="1" type="MODE1_RAW" frames="11012" pregap="0" duration="02:26:62" size="25900224" crc="1672395f" md5="f67079c14cb603a2124de8624c9522d8" sha1="c45460eedcbd7fd74af61e1d5ad8d79c864b9c03" in_zeros="1" out_zeros="0"/>
+		</rom>
+		<rom name="RAMDATA/RAMPAGE.BAT" size="35" crc="01e0b55f" md5="63771cc2c6efe225ac5ffc147c1076e5" sha1="bd9e32112424b431cb8a5ee03a778a3023fb0edb"/>
+		<rom name="RAMDATA/TERM.BAT" size="35" crc="01e0b55f" md5="63771cc2c6efe225ac5ffc147c1076e5" sha1="bd9e32112424b431cb8a5ee03a778a3023fb0edb"/>
+	</game>
+	<game name="Terminator, The - Future Shock (1995) (Bethesda Softworks).dosz">
+		<description>Terminator, The - Future Shock</description>
+		<comment>Installed using Redump-verified CD-ROM Terminator, The - Future Shock (USA) (Rerelease) - Large installation option used</comment>
+		<comment_dosc>Mounts CD, sound config, and auto-starts</comment_dosc>
+		<year>1995</year>
+		<developer>Bethesda Softworks</developer>
+		<media_link>http://redump.org/disc/59172/</media_link>
+		<rom name="CD/Terminator, The - Future Shock (USA) (Rerelease).chd" size="111746304" crc="944167ff" md5="5bf463675b7f90760c5ecf4dc33281d8" sha1="bdffda1a28f2263c58339a640433e941f2701ad7">
+			<track number="1" type="MODE1_RAW" frames="45629" pregap="0" duration="10:08:29" size="107319408" crc="39e54eab" md5="e0ccf8586483455f7f8fc66d8c01ebbc" sha1="dda20d6ec0dc90fab742f3ffde504f949990cf5e" in_zeros="1" out_zeros="0"/>
+		</rom>
+		<rom name="GAMES/SHOCK/DRUM.BNK" size="5404" crc="c9e2e6bf" md5="636328b50967305130726109c7f06fa3" sha1="97eb48f79220aa8957a25bab5a3076380dd3791f"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/BRIEF.COL" size="776" crc="1dba0513" md5="561de021fbfdf7fe5779f4b3522dab67" sha1="ac7e4188773f55f1667f6f845e395b4fdc2c044a"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/CREDITS.COL" size="776" crc="7dc03848" md5="9ed3ceb1f81082351d142ac24838fa8d" sha1="b41adcdeb884ea446270f467dc65376871637186"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/DEMOSCR3.COL" size="768" crc="ab20064c" md5="9079b210b6d42560be62d68fa030b1c1" sha1="73125f2deaa67c5be624c80aaa17e05eb4958e30"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/DEMOSCRN.COL" size="768" crc="b2afbeb1" md5="79a34b9846688efd5e641f7d117da99c" sha1="3e67cd7723261fd64b426c5b64da0330e2225d1a"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/FONT0000.FNT" size="8644" crc="ec3cdaac" md5="4ef3df2d5c7afa5ed4c08d4ab9fae4b3" sha1="a47cc42e4583d807cadc8e5410eae9b60f9c3b25"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/FONT0001.FNT" size="8644" crc="fb056d05" md5="14eab33018a5473ca72ad61a16be923c" sha1="6adab65f8ce291e9a47ef9a561bd256c3008ce66"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/FONT0002.FNT" size="8644" crc="8ff8e5d7" md5="c6476358ce5ea9341d40b3a2769642fa" sha1="30568e8cb87203d02e02f670f3d624f9dcb63aff"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/FONT0003.FNT" size="8644" crc="3317db7b" md5="d3eeb9085080195236e68378bcc83031" sha1="d5c9113ebb2f2a3416133454c236fc37153f1cfb"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/FONT0004.FNT" size="8644" crc="5291674c" md5="bb7be3f5866ae7e5f6a8b0d8dac18a92" sha1="f53845b7460aa70b41b788cedac2d75942a30bc6"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/FONT0005.FNT" size="8644" crc="876f502d" md5="d4bbcf001df1d89ab4db18ff54b81200" sha1="00abf5ca76641161557daa35d379e52240d368f8"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/FONT0006.FNT" size="8644" crc="d2123a7a" md5="02a3c4962b98310a1b8726041e535562" sha1="8518ad1c385e604fab9df5b3e9f0869ba2ad2407"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/FONT0007.FNT" size="8644" crc="9f412ec9" md5="47f64e4abe1e0504dd08657d412425ff" sha1="938b6ff19b0e3b4c040a65deac4c9526f09fd65c"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/FONT0008.FNT" size="8644" crc="a276365f" md5="01eb875f262502a48b0ee2b040f6a91d" sha1="c7bc844a0af4fac9ae86c9359f8fd3c21a6c38cf"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/FONT0009.FNT" size="8644" crc="daf9d842" md5="4a6897440beb6a44370c971acad2ffeb" sha1="6faa7ecf6e3febd1b7793d12d3b2afd66fb94e48"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/FONT0010.FNT" size="8644" crc="e663918e" md5="14bf097a4fcdac1b4a44241fe2ecefdb" sha1="a1c46349ca897a2724bfc513a719c028ca883f92"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/FONT0011.FNT" size="8644" crc="82d9151e" md5="aedbaf3d6583e9ef69a2b2782dd3a0d5" sha1="5aaa1055bd9e82202582fa97f3667a7f810aac85"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/HAZE.000" size="16384" crc="123f4e37" md5="cbd482ab5b656b032e18d3a07b1c1d43" sha1="4fe374f34f3be6cc1f048d3777649762fa20f58f"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/LIGHT.DAT" size="65536" crc="b4e04e6d" md5="c9682ae13550a3ae73f9563dfecf687c" sha1="6f315a977368872232a139eeb66032892af61cfe"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/LOGOMENU.COL" size="776" crc="7dc03848" md5="9ed3ceb1f81082351d142ac24838fa8d" sha1="b41adcdeb884ea446270f467dc65376871637186"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/MDMDENMS.BSA" size="3536596" crc="b55646bd" md5="e8959170ce00e35222329b4d5b7d7e01" sha1="bd7958d6dd3233e68bdd1f3ec076f91fac53965f"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/MDMDIMGS.BSA" size="3651807" crc="94a7eaf0" md5="26e707c9fa0b4ede905a93ee5131a193" sha1="7b34eb5d09afc255a43d4b794ce2be0cfd18f683"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/MDMDMAPS.BSA" size="6564216" crc="5376f0e4" md5="acf30ecc262f93167e8339fe020d6d19" sha1="47280d84cf6b43722a67139aaabf7bdc5c0238f4"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/MDMDOBJS.BSA" size="5924896" crc="aeeac09b" md5="e8262d702171ab9a89d07f20a7f1e74b" sha1="7ce92106c84dc605f97a1d04b614034c3eb8d009"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/MDMDSFXS.BSA" size="2713079" crc="37d78c96" md5="029e53aab6d801b4550dcf3aef9b5dd3" sha1="d1539e9c37b245a533d49b9b715b12b6ea3c1919"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/RUN.COL" size="768" crc="25b02817" md5="ed37d66ac2f5f9a03cbc289e5450d770" sha1="baf5d5c9168cfbb96f23f03cdda8356fb2f563b5"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/SHADE.000" size="16384" crc="123f4e37" md5="cbd482ab5b656b032e18d3a07b1c1d43" sha1="4fe374f34f3be6cc1f048d3777649762fa20f58f"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/SHADE.001" size="16384" crc="4839bf48" md5="cb728bc71c62973bb9d47204969f2dc2" sha1="1141d66e4d87b29410729e37ecd0b34c163f3178"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/SHADE.002" size="16384" crc="f1c737a4" md5="9d90005f14dc8bb931dea59134cde41d" sha1="0de43c25823434491a005c36926d087fb05d733a"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/SHOCK.COL" size="776" crc="85a8a7ae" md5="3cbbe0bfd7edf01b9ea47ee74f519dc4" sha1="4cbeeec0d1801c00550bfecfd2e0f69786f31d3d"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/SHOCKRED.000" size="2048" crc="b505257c" md5="19ab3ff4d9140d5c33281ddf4a26ee1c" sha1="72bfeeedfe1d92577c3f34353918ce81d710edd4"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/START.COL" size="776" crc="a2b7b8f6" md5="62405b4b56d45971290c28ae49f07a75" sha1="8415b425203431a652db66fddadff3652a8a9cc1"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/T01.HMI" size="8325" crc="363b1744" md5="8569206f7dbf84df9cb02869bf673e90" sha1="dc07a5996e6770d72ebabf238bfe9e596083e0b1"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/T03.HMI" size="3098" crc="6c3492be" md5="71abb2673fbcd5012afceb45eba897ac" sha1="4584767c32a432b2684fed366a16911d2ebe44f8"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/T100.HMI" size="6463" crc="70317750" md5="86fa19ad3f235a467a411d4a5723cffa" sha1="9f76552fea5952dfe01a55f949c35fb0fa47e100"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/T101.HMI" size="6472" crc="22cb5fe2" md5="83ef928a6db60d81192a05314a631aec" sha1="a2706034e10341ffd264b57f8e78982ff5b54fd2"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/T102.HMI" size="3601" crc="019b83fd" md5="37c3399e26cd6ca9cf7897cc88a9e623" sha1="95265840b4bd6364c2cc7d82935a35ba485f3366"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/T103.HMI" size="3547" crc="a2bbccd2" md5="97e9c9c2bc6337420d4105565f8d37e1" sha1="88f8db8f32ed1aaadf6fbcae2735a669bc3ba7f8"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/T104.HMI" size="3437" crc="15d4ec5f" md5="1138d0ef58a0b78232ae537ad97cf0ae" sha1="62180278e97287a2d22dc76440f3118d92a21785"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/T200.HMI" size="15479" crc="09db3fa1" md5="e41c5ce9e35467481c4a83e60995f73a" sha1="ceea00a8386fa41e9af45f7874be7dadc045fdec"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/T201.HMI" size="17364" crc="b8582978" md5="6451f0059531149bd5c7fa670bf58400" sha1="527e95288ea0d5bc10cbe5a908ad5300de3dec39"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/T202.HMI" size="14491" crc="a5d38392" md5="2611297fc8c56eaa09472ea345b34df8" sha1="7f7a17d9c6a5353d77964e063d0795fad159fb7c"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/T203.HMI" size="10938" crc="741a082b" md5="2e03a25ca04ce6060d0b31609fc07814" sha1="65af26f31513867bef8e22177bc3e1097ef449e5"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/T204.HMI" size="18065" crc="acca324b" md5="954ced3d8e93b475dbb1be5ac65d86a3" sha1="7734ab691dea7abd1913b8e86f178fe86be3f27a"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/T205.HMI" size="26047" crc="d8b7e84f" md5="09b68d8ca1253fe579560a683b3cd0e1" sha1="853fa9d698c212f568f7c249d91bfb703ee159d8"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/T206.HMI" size="10181" crc="51142e84" md5="005cf31e9c689b65e1adf7ffe38f77aa" sha1="55a5353af5237268c492680f0981c02670300763"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEST.HMI" size="13125" crc="7fc4ae55" md5="17ad6180fac8a6bf23115b0ad169885a" sha1="30fdc0f7bfb84c848150c8570a34714e73c27c60"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEST.WAV" size="80684" crc="482a08f6" md5="43b48823c98c370bec77460f2eac21fa" sha1="5306d9843fabb9b6a0ff4a1932b59d4f68427d01"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.000" size="2586" crc="7037d7ae" md5="778f858a66f96c6422b9ac1f1789bd9e" sha1="7e68f79b7491932ec245faf62d252a6fcfd2b4f2"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.001" size="2586" crc="06fca23c" md5="03a793c2b99ac68c8313bad09776ef1b" sha1="2630b2a73b613bbadfdc908cee9411c9b8737ef1"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.013" size="23130" crc="8f8ffb74" md5="32b66cf6ffa32ec6752e73886c33ee0b" sha1="341bc4b2087abd8a0288c429d3e0f6dcde802887"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.025" size="126" crc="b5eefed3" md5="60d372a26ab22fac546f94b5301bab68" sha1="9047590f2382ece9636883ba1fc08ed020b4e6cc"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.120" size="16650" crc="de914b66" md5="cf785164c6c5eae3db8e9db61b2e7a72" sha1="eed52237ae35fdc24f1b89aa39b3272ba4568051"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.200" size="29418" crc="023cb923" md5="12e255a27f328fbca195225f63e714b6" sha1="e1a40191bfdd7a372154b64cef1f497ee82ce691"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.201" size="16682" crc="a45802bf" md5="742b2ac1f686cf45375778988fb8a509" sha1="f1c70741946b27ceb1928d6c5fd13c760f71f079"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.202" size="102495" crc="5fda8bbe" md5="5b476b1d38144852b1137d2bb6c2aa59" sha1="643bfe70bc9d0190a1299f979ac526e759e4c4ff"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.203" size="14570" crc="498d0ac3" md5="638b2b1e1f002675ba4a5199b2143f51" sha1="968d1280bb290fa4271c0e46af7ab5a8bd278708"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.204" size="110574" crc="a26faa4a" md5="f7b612513d229c0a9b384e9ee649bf21" sha1="b0ce48cd18800c7d0fe39a27a7879c00e319298c"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.205" size="76922" crc="34fa79ed" md5="6285d572191da554cbf9b08aa768a30c" sha1="9fcdddb8ad28018ba2620286a69fc763a2b3da1b"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.206" size="18177" crc="8e5f27de" md5="f668623d9f8549783d8e052bad87c9ff" sha1="c2909b85c23b2e5bd72938fd374b64696d866dc1"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.207" size="14522" crc="0d2ab2d4" md5="e2866dbfbb61c04e5d1d16843f7ceb62" sha1="72d1f8deb3c77db72032e8bc0b90e0ec5b5618f3"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.208" size="45123" crc="4ec1a7b1" md5="49a6e3bccae127dc4c9de6e3326762ee" sha1="e9222c690d4096813bdb8115bfad7d2e2181e1c0"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.209" size="34490" crc="1f384d88" md5="19a18986851bc527f6468cc8d6bfded8" sha1="0be073ca3fad9e91a811cfb31d1ae41bb750037e"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.210" size="6890" crc="5074ea90" md5="78262d98ca82535f3a9be225bef9cf4a" sha1="865c1ef9dfa1f1917fc4c87e67ee55f86775b3b5"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.211" size="11802" crc="2198aa5a" md5="29b8f5bf9bda617c0609fd995bc03542" sha1="2e2772b38d3f99cf4a5c8b99671b6316c9271708"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.212" size="11514" crc="31c9cbda" md5="24e8aa743c83f045cbb5fd69871eb51e" sha1="ebbae5e37552dd42b8b1b55fa5ec9db5863076e6"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.213" size="18618" crc="059bb9be" md5="9701f53e41e7952ec0ee6951c44a44d0" sha1="dd439e4d53d82a1b9e937cc3501bf2c128de55df"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.214" size="15536" crc="8276f718" md5="273320f325bd36d48ac2ebbeee6e2086" sha1="18257e33c53c6a0813b778d996cb9dd0b9b87a85"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.215" size="30778" crc="c6a8ecfa" md5="c5254d37be6bc65c1e0e356a160426aa" sha1="d465239c5f1f02ee928730b76e42827039edf958"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.216" size="13694" crc="0c1f79b0" md5="d800a8bc9240396b96e78fd3007c8aa8" sha1="24a1dde80588b1569cbb408b6277f276c4b615a2"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.217" size="42614" crc="a8a98042" md5="570072afd3f77062b1207aed23e2f6b7" sha1="590eb5e9252fd19bca754062556e532081c01a3c"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.218" size="39462" crc="2ae88d24" md5="3e9f8f9ddfe63def907f74b94bcdc8c0" sha1="bf3c5f764d19989c65cc4ed2f657911302d1d12e"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.219" size="572" crc="c7e5d354" md5="b6dbd2ca15be63e180ae71732173b0c1" sha1="04b8091d882536beac061d87a9def24e52571689"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.220" size="76697" crc="d331a85f" md5="37d67dd1f265297b58e00d62564fc8b8" sha1="926d8afe81faad9c780aa6009d63c65c095402c6"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.221" size="17914" crc="b70def9b" md5="c06bb5de5f07c476664dca558e1323e9" sha1="36539cf9df45ede55907f6b2eac2fbc8007bba4b"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.222" size="24810" crc="fd04d7e8" md5="3753c1a85544aa99f05beb74b4a56e3a" sha1="a3fa3339e0c1597ebbda4c1b37f10b90c09cec76"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.223" size="12698" crc="8b8e9cf5" md5="33a82e6bcbedc1035cafcecd5f959221" sha1="c220400d0424042cc784ae43c7f2cedf118b823c"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.224" size="16650" crc="6f51b870" md5="6d2853c2d8814f1e39f39b2e27e4e6aa" sha1="97f76ba9191a4160cf6002eccf90c165e4d55c2d"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.225" size="65706" crc="7bc0a437" md5="79a665dc79a281ed94f3f6b5fb5c5405" sha1="84ba982a527a1c0578e2cd9c861c4dc0afda31c2"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.226" size="70730" crc="3b8709be" md5="a97d7971b4d49c79602069b5e43f7a60" sha1="583aaf6091f98adeabcfa83234e51bbc03c8945e"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.227" size="35898" crc="79ec52c2" md5="99b8b00bed224c06490b452496d05e51" sha1="274c0fff06d9116de4deb918aa02fafc05797990"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.228" size="41962" crc="94412eac" md5="a7874c4c2b6f5eded3e9edd44b83175d" sha1="fea7a3c89cc93677bdff68fb5c6af77ed97c4cb4"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.229" size="105594" crc="6bfaa1fb" md5="cef46e5fe73664b4f9e87aaaf1f9cca8" sha1="c2b6a953e33b380657ca5e4fdb1efda0e64226f6"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.230" size="74138" crc="fe8fdb20" md5="2c0d80347124fa8d8342ee4b5ec50af4" sha1="892802b25345d4f654fe3bc56411de9186833af0"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.231" size="66090" crc="99c51772" md5="f59a7a3092629884061bd8273a78c911" sha1="32799f7c4957ad0b54a2bd1c5fdc56d238d55315"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.232" size="24986" crc="4003d0fe" md5="df7e6418ac5f3f29f4c7925a4f70aafa" sha1="3f14a3b5cf149d74e0b7c96cf87db36bddc9a625"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.233" size="16554" crc="da931e86" md5="fdddf58cd5875328dde5951e94f49f06" sha1="99db92e0a85eed59d44709538d03983993566731"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.234" size="18650" crc="dad20ca7" md5="f97c278b497d126609518ed7249a1198" sha1="a48949c33ac5afe97970e1bbd6f3cd65dd2156cd"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.235" size="39514" crc="3886ddc1" md5="223997e0183b40b2cca80712921aba55" sha1="44c8cc15792df8bb8a23b37515d53bd715b59ea8"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.236" size="29642" crc="458f111e" md5="214420df1d175812dc99f9fdbec8ea93" sha1="b443bf428adc76f8f41ff0debdd3fd07370624a1"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.237" size="53390" crc="5c69b1b4" md5="d97afb16d2844c3f1e0aa513d0835720" sha1="c3969be67f115623d368849ebedb7a0f3e820750"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.238" size="52034" crc="f94da080" md5="c6f81459bc2641db754fb8220ae049e4" sha1="d6cc030c46fb16f524a977ab5041b2f780a77942"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.239" size="16602" crc="18bb520b" md5="c5ebe5afff91a9aa27cf7612696b572a" sha1="762b62bc4ee7beb3ffa07750ba82c813bf9f3e69"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.240" size="57754" crc="20399f26" md5="09c6a6dac65db589d93cd2fbb9af3bf4" sha1="95c42ac13124f332153c2a47fc23c8c131f32537"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.241" size="39514" crc="eaedeb9d" md5="760964a33cf86c74bdaba31e9a845591" sha1="4e89d9598e026d07100f47e36926eeabf33af345"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.242" size="16234" crc="870b5b68" md5="57d1492ed8bcacd670d3242ccf1190d8" sha1="5fce2c2345ce52e7b8ac0e82447c055530fd686e"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.243" size="32890" crc="7ad8df0e" md5="9998ec79ce889a494c6df1564177bd0e" sha1="913565600a9d2a026de8787e56239822ce66c78e"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.288" size="147418" crc="3036dc55" md5="4cc57d1369dbad663e2715ccebeeb138" sha1="155e6c9df4d0a42141024c4548a8b97729700447"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.289" size="208698" crc="173f27be" md5="7dd318b812f21f60bdc87a8d3d1605b3" sha1="5f4f8a36600422e3b2290eb550ff2371be553934"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.298" size="4602" crc="b2ff86cf" md5="b8c0cc5e3007212e737a67e9ef942d4e" sha1="d5cc8649c1108aff6dc44a3a3b94af1ed35d038b"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.299" size="111322" crc="3789ebf0" md5="a7ca29577930904757beb53b854d8a50" sha1="51e07282168b259437bd6e38ba18fafc84645299"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.300" size="278266" crc="0f849afc" md5="92fe8f69bbd2af529dd88f6d3fafe15a" sha1="cd3dca1ce8aefe4bc8ac1daf2039bbf3a33d24e4"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.302" size="278266" crc="ea001135" md5="300779451b7bb917b3e4fb7b086429d1" sha1="0223567a3cf8c5610fe7eab0974338f9990170f1"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.303" size="5994" crc="159bc8b5" md5="38eff62d89281572f6dc7ce4ada214e3" sha1="4287f05017a305b033a7bc22cfbe96bf5563592b"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.354" size="37834" crc="d38ff897" md5="ddd023f1a7d156cd6da14e0f896cf2ee" sha1="27ea0c12720d3b3bcb63985fac4a70f6626d2f75"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.355" size="56522" crc="52bb1117" md5="a1afb6ce6436967cc18ea9fade8832ab" sha1="1fe4fa4bce006a43fad5bd188a0cc00a9fc560e2"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.356" size="48838" crc="d6366a6b" md5="c3581a71854aad79d1d13eb69738b2c7" sha1="c89dd3b027e6d8866467501c4dfb125a7399dc53"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.357" size="1511" crc="50a54043" md5="a14cc491adfd2ac33eca60c2fa0b2e49" sha1="dfeed0a3dcbba572f8067082dbe9aef0af8794ef"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.358" size="97570" crc="801afcbf" md5="0bcceeac4b56fe645adeb628e82f2937" sha1="49577b135773b615f73a871699d757ac8cf851d7"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.359" size="14734" crc="412dbfef" md5="e4e9c00c60f7625ac8d7769a4cf2886e" sha1="dde236cca5b3ef0e17a7859b60b0906f9d342816"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.360" size="52064" crc="29e1be16" md5="4a5da476940c045ebea6d5c7341ff41c" sha1="f11ed43d3f17cc03e55a78f2e945b993d499db3e"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.361" size="32986" crc="6bf3180c" md5="da46a6d39283a7837253bd5a452689f2" sha1="286d5f64137193563391b4752f2b6e23b696a173"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.362" size="29642" crc="5072dedb" md5="b0d958f211070f535da2d7376f838129" sha1="7ec4194512acaee0fb497431283c11b90f029063"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.363" size="37184" crc="4155eb15" md5="2d2f33de74a30da8b2f6a3ea2ddffbe8" sha1="17e0a564d72ae00d690c1cac625f752f89fdc55e"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.364" size="21081" crc="5b54cb3e" md5="c8dca9617742a18bcc0249cc5e4ba539" sha1="84ea740151e44d1d8c0027a5d4457025f30ea208"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.365" size="14738" crc="2cdd07a1" md5="c3bfe657d960337d971ac5a347b8d638" sha1="bc76336aca7a100ee0d22a4792d198ae2033aed6"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.366" size="71797" crc="f6ce5d1c" md5="56cf3b11d9af0ada1c8a06b8c3095a40" sha1="78abf704cccb85450e2105f2aed7d0245518a212"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.367" size="21645" crc="e77d8629" md5="60def1a2ac5ef9035ee3396594a3c4fa" sha1="68d883efaae8db619dc7369a09d487a520135c37"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.368" size="24890" crc="ce503796" md5="57e5682a7b500c42aead34663881ef19" sha1="338fc99e41631bf3ba78e20440d92d10d8170ea6"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.369" size="49610" crc="99e2ff35" md5="5760ed566ab8b2e7dcd39acaeeca84b7" sha1="e3d9e43a57f9c4c3cb1bebf4ed61ad4cbd08b612"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.370" size="15986" crc="14fbc5e3" md5="38d026dc5c90e61d47a49756de33f6f5" sha1="a815f25eff1a8ddcaf58d23fbebf0a272155d7d1"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.371" size="33034" crc="3cfb427f" md5="76c7d53ec482e6dc6c5146e5face5ffd" sha1="f3918c8b5b056ebcbb1f74b5fe7a693b1f2da5fd"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.372" size="28522" crc="85e1936b" md5="1574ed04fafbab105fce4f18f074fb74" sha1="ff90c104ef4621c072190ce027dd0cf1ff1f74b5"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.373" size="44730" crc="6483f2a4" md5="e5d615f7bf29977192cb3fc848919c2f" sha1="450b3e74f53858c2c7f04496e407edb34d2c7a34"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.374" size="47562" crc="d8be6870" md5="da8da588a8807fbd17b0c948e19d5c4c" sha1="d486cf28f7aa9a73dd0f466f7d7f34bceba9e3b0"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.375" size="44346" crc="c58a7e2d" md5="2eae72f2ba98444075d126e95322f6f9" sha1="bb758265d2c049418eef88ac32060b31e14a1453"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.376" size="53098" crc="e4fd0f26" md5="44a8ea55e3d429ecf388e2b6f7a3b14a" sha1="5a8623beefc26f2ff58ec47c8b8a5bcbb181ba1a"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.377" size="49658" crc="cb0f261c" md5="5be535d599aff931c41d1715fa61b1d3" sha1="f42fb767b9ba77bf3e66bc691b5a444263caa49f"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.378" size="71162" crc="b9aef3f8" md5="e620eae4f4a4d18ca69e57b2cfbeac08" sha1="9a9b9d2d87958592a6986f1a1695fab89a8ce54b"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.379" size="84266" crc="dcb84119" md5="6085027fb036a91e4e68854e19957c3d" sha1="b09a004a943e04fc87e0acbf893ee5cf9d508558"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.380" size="38954" crc="eb52b61e" md5="7c6675895ad7ef9697735d5c0442a99a" sha1="fea1e4a225ab0efa31cadb76189c0cb15d1e0479"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.381" size="46586" crc="30241ac5" md5="c4b1d01e2c04d71ca1cd847908e737f3" sha1="20daebed7663cc702595fd4d8e9e64c7b32ed424"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.382" size="40074" crc="48798ad6" md5="4c763288d079277f61753fff6568933b" sha1="98cb7e5b84b755edc3ade559cb231d5dafa90039"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.383" size="55898" crc="35fbff45" md5="3624411d95588c7b934941e014d43d5b" sha1="b9fc261056cb34e422c3484fe59a6945085cde0f"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.384" size="4410" crc="c8037949" md5="9c9e5cbd9f7937322695156ba94d4417" sha1="e80e02171e0711816005a63dbdf1320d7a3098ce"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.385" size="12890" crc="4aeebd11" md5="c2c3221f9b57a5f134de556038b92679" sha1="5ce5d7679c5e2e4d0b384836107035720c0bbd8a"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.386" size="42314" crc="977ac929" md5="b9466003847552b038bf19dd23e3fe60" sha1="33b4c134b1fd94554dd27a525914410010721809"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.387" size="18090" crc="5f62af36" md5="c632664fce0dada66ab2db656f13cbe9" sha1="a251a907ed1d83bb06265d4768fa74e184375321"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.388" size="17178" crc="4cc9dfec" md5="968d01b960f093166b6ae42e14db3b7b" sha1="5fd98a83f54588b40077400fc2e7e1724ff0aae0"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.389" size="8458" crc="738860e5" md5="b39389a9b03df2d45022a4f8319de536" sha1="67e5fd86153bb877c4285daf379fa6d06176f654"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.390" size="49386" crc="2c768d9b" md5="02155d240a411326fc66c13f2415c8a5" sha1="95f961a6d10710429c07a51518e12fe41b0219d3"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.391" size="31322" crc="3e0db8dd" md5="c0a6f53e28326336d2891e59b401d869" sha1="10ccaed2c6b76b0c07e86867c6af92bc559a7f1b"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.392" size="39978" crc="f6303710" md5="f37ff3518ee86d423ad24c3d7a4cb5fe" sha1="b3935c2ec9abc12b7d33d0b425304e4882d887b0"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.393" size="52538" crc="45ef644a" md5="2a31d01b6cec35a17f606c14b2b5c064" sha1="0007a15618c13feb0e95157caa92d63fa6f2ceea"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.394" size="54138" crc="167a7a5a" md5="aa85ef75093f432c0b2fa71e84f89f1b" sha1="c8564cfb56714862b4659fd484600b33bba765ac"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.395" size="16602" crc="2efbbc5e" md5="8c92bbb08c3815b645c560bdfea69aa8" sha1="323a7f5fb06dd9b268d4622b0289bdb4b282cf53"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.396" size="47146" crc="f336aa79" md5="c12d899cc882a959d501799fc9d85b38" sha1="94e958a447a30ff84226ce061b668a62c31a525c"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.397" size="33914" crc="9a808267" md5="a91a5f3d0e483a248dfc0e4fa6d79a62" sha1="51d9314a1cd51b05b928d958d06486b72c21fc46"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.398" size="33946" crc="59322472" md5="6fa3844f848791583fdfca374b24bd92" sha1="10d851d24cb6865df9802ceb05a9be768aabc179"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.399" size="20746" crc="e5d3b30a" md5="512a6174e11e2eef5caa7255e39de4fa" sha1="86f2aca4c70b078c481e6706a2d60d87b1102304"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.400" size="20154" crc="57645cb8" md5="7de987ba0abeca1fc072c686fa627a0f" sha1="8e65abe871ade11574f1fabde1da0deb2e3c6417"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.401" size="20714" crc="db5e79d5" md5="c713a5bd1c8e3e543ecdfb166f52c84b" sha1="3a214b0f664c3d0e8a50fcd7fabf2a222aa86332"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.402" size="19034" crc="c1bd704b" md5="4ab4f9a0fa4f7b5e06d48407c32ed5dc" sha1="2eda6a80961ea3d1432e8f59a0aaa56efb85718b"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.403" size="14346" crc="07159917" md5="fb1376edc941dff6fe4240c19a60c10e" sha1="cd8548ad6f4b0655f5018cce659b6d3797d17a48"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.404" size="49162" crc="6f3ac44d" md5="6904662b0a1bf74ef6117012ac4577bb" sha1="16516f0ea82ffbcde1f3e2f07586e0b82f022c36"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.405" size="30586" crc="7490dbde" md5="974da4b86754b62913945a3626d5c18a" sha1="63dd1ddd047f58b60e6859cfdda3cf48076cdcfa"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.406" size="54778" crc="50f9a9ad" md5="82fa8eada9313faf01b0800c68973ed3" sha1="cd120cc3154bb3a1f549c5878d163191a321291f"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.407" size="54778" crc="5921d66b" md5="a95e0916d8bb237cabff7263d1d48faf" sha1="478e7a44d2325ce21d9d8d05756f738a2efef0d9"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.408" size="47146" crc="22dd3199" md5="4aa9f799a34b61826ef6453150cf8c1c" sha1="163f730abcd052894eb09eed6ad83c68a7be2ac5"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.409" size="10458" crc="19ec4eca" md5="ade3918a5e7518ccd6a33ece6edb3885" sha1="5e8f4189cd3ba449542d15894c618e81e74caad1"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.410" size="56154" crc="691f3d40" md5="04520835ae9e795d01a45bc24605193d" sha1="4baf2b9f18649f812a42fe8251961a2a355bffd7"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.411" size="66042" crc="9227495f" md5="087e125760e12f659c5d70230ae96983" sha1="1df7e94938850cbdd0db328d0139e04a1eb449ec"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.412" size="57802" crc="04072398" md5="9c58671f3a4127066ef965e46312651a" sha1="009e2a0b7681d18534ba560a807e5ea64218aff9"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.413" size="65898" crc="ecf96698" md5="4ad81b81130ed8498ca2ffaf7294fc8e" sha1="9d61d731105bc1e808912bc005da5f1eb1261437"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.414" size="65994" crc="8843c8e3" md5="744291104359bf858d7e2f47328d1364" sha1="511da779ce85b72bf5c9d3678cb3bedbe31b4288"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.415" size="33082" crc="56e157e7" md5="ab1e1fedfcaaa754fdc979f006c9b4f6" sha1="03432a6980fb86341de41575b13e2234046e925e"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.416" size="17530" crc="f654b390" md5="6d3315236658501e8eab6f61c09fae64" sha1="b7e369a1f345f7acc98836eed84e1ffaee00d527"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.417" size="25674" crc="2237fcc3" md5="a62f5ba1fb700b77ac5e23272014a346" sha1="de72c622f4e1ccf7a3aaed04cb91ad765549ec52"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.418" size="25674" crc="cbdf6df7" md5="574ab3e088b38025333c43a8f229d5c5" sha1="65b014c39e370af1541cd6d148661f656ba37936"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.419" size="16458" crc="584292fc" md5="b5bbed177f08f8a6c316acb96ab4369b" sha1="6081f66a6869591c468100022eb139b41122d656"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.420" size="43258" crc="67abdc8f" md5="2da44c4a6435bde5e2dbc20dd7bb36be" sha1="91779bfa715abbc0ae9e62df0d835834d5de9ce7"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.421" size="4266" crc="42f5d578" md5="c633db446b1a00b031669ed9ce2a046c" sha1="d2d857673837e915e6cfac94bf91690f2dab59a6"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.422" size="33370" crc="b418d76f" md5="ab362398932f8d32f59e1d819236eb82" sha1="e96ad4370e702339c5e01417c8b53989537fd920"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.423" size="49850" crc="7930e30b" md5="3a14fe246b060a4cfaa6a3d3140f7ad5" sha1="59ab33e455be4a180e8df45af2c03d545098aee2"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.424" size="16970" crc="510ebdb9" md5="48f235608312e45dcaf66d0fd148e1c9" sha1="94757b607c313b980d60bfbf60170343e0747596"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.425" size="48490" crc="3201424c" md5="231f6cee599315c55a5f1e2fe5a62c71" sha1="42cbd2883fcfc8f9bd00742a814b60308a7f247d"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.426" size="9338" crc="6f6c1e19" md5="6952042d5242167387762c938f7a127e" sha1="f6c95ff69b32f7eee17d74c12b5fc4652f3b97ac"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.427" size="35034" crc="e1219d42" md5="bca04e1f7f325e30e862390ee09933c2" sha1="b360e5ac0721479bcbd6744f655212d917ea6aa8"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.428" size="8362" crc="1937044f" md5="1020b41924f86e73723909ef9e022a0c" sha1="7e1c7e1cf77224fca60ce54762eff3f6553b4552"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.429" size="16554" crc="6ba4687b" md5="7bbd53b9c4943cc1ed0cd0d86302ac6f" sha1="5333cf938bbe897d40fadcc7abd36904c8fa8a09"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.430" size="47146" crc="6b3ae9bd" md5="1b0e3e61727a48ba718f0c144512a793" sha1="dc09e89499950a4095f6d0ac60f540fc80f77bd9"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.431" size="32938" crc="7d0ba5f5" md5="da9f5bfbeb8bd62aeee5350e7f86237f" sha1="0caa48a845b869d70b56f090adbbc73f2df341e4"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.432" size="32938" crc="fb6eb0a1" md5="a2bc68008a70f9b0b594f9e9196f2d88" sha1="faf50882ee0eaf6efcd4766d7ebd7689eb1badee"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.433" size="32938" crc="24024501" md5="6a76d6f036dfe8ff48f705ecf03c5e7d" sha1="07f100dbd338d4945f57cee7963aa870504eb50b"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.434" size="40634" crc="7571a6a8" md5="3de5b4bd77d5a52cea6aacbf920b4f0d" sha1="fe935dbce21b08d79a88f1435408b389e04f9b0e"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.435" size="18090" crc="e60188f3" md5="58cc07ad0265166b3701c57680745050" sha1="e74dd490368ab50e8668db0208b5c063dd748be7"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.436" size="13994" crc="ad57f387" md5="d623276258035f8228be393aa5364d33" sha1="0851c2fb073ab45ea22aed26d4c9acb669d3e9a3"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.437" size="23498" crc="c1e8e2a7" md5="8a5c45b56a24a05db9d4cf8f98337d86" sha1="953678423954869ce6f342e8474538bbf24930b9"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.438" size="33370" crc="75c61d0c" md5="db21fdf9f6bfb777fbac2c13a55394b5" sha1="a2b3763669eeeabaf6d8ee6ab16a516e6ac77305"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.439" size="21034" crc="bc405f33" md5="0840e94ef8a597255d4289e3359365f9" sha1="a2a5d706a4a2c8f1694794fd7416a9ccd18cbcc1"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.440" size="32986" crc="a54d37ab" md5="c6689eac1a8d4363ae67b59b4f9e24ad" sha1="04b8f290bb0ed54a927f89cdc80a99e02a28c91d"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.441" size="8506" crc="4a219e4d" md5="aac9e080a107d8ca37c6cf6bf1d9ffc0" sha1="36248ab3036f85c2721aef98adfbffa14c488917"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.442" size="25546" crc="47cda6e7" md5="ded165945008dd4b6e54e563f9239502" sha1="479380e77a34df068ac064b60134862f1bac6796"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.443" size="12650" crc="00e88cb6" md5="04712226196b1503ff88e92dd43b7591" sha1="c2ae6394b1d351a15218c7d131f5b8b623c66351"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.444" size="35594" crc="4d7256a1" md5="990dc3f8d1e3a57740d63bed6010208a" sha1="ec379112dbf8567c33756ec9878a81c98156f961"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.445" size="18090" crc="b3bf3b6a" md5="b5ae702fe27656464c00e7076b870df2" sha1="44db9473747faf4ac78d10480032dea8b0b004bf"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.446" size="37274" crc="87e50857" md5="0e6bae20e391bf772bba4d078c361ad7" sha1="4f378cf7626ae28513a1753e30a38b01969b9794"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.447" size="53658" crc="c2890e66" md5="cbc3f1b3c2c3855d5ab0f67436d21e6f" sha1="d762a6603ecadc9bb6475f4c4085e4afbbae0f69"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.448" size="33130" crc="0121fc02" md5="9aab8414c115d24131d9433e188c12a1" sha1="9ce9f2e39564dc6a63cb39de232e3b2be4645fd1"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.449" size="33178" crc="efa17591" md5="f2d6c08850639129d1de84fe312928ba" sha1="c3b66a4c29e74d08b9ad5be98f830b048c523a7b"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.450" size="33130" crc="2aa5c83e" md5="e1da3013d5019b3c57bad84dfb175eae" sha1="85f0da2af292128a2fd3a168a161cd7f8839689d"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.451" size="49562" crc="172bfb5d" md5="cc94fe9985b9606f527369bc073d0f08" sha1="d5e2288dbbfd67806ce025ba3ff5cb090993f0e5"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.452" size="19594" crc="81279994" md5="ed7803c821157681ec37409a13f3f6bf" sha1="4c9646a4ddb0a703e23a9d920cccef9dadc26832"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.453" size="36154" crc="f3830b37" md5="a99041ddea90a83c5425c19bf5b179d6" sha1="6542b227babaeabdd47c22053ac9d07cf21cdd95"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.454" size="35978" crc="f479dc61" md5="c498b041257e4af643d6b3b0e70fa9a4" sha1="fde66e801f1c395181f58bdfb393588c539a64d7"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.455" size="17738" crc="a62cb54c" md5="e5b53aa14081b909d9936beed32cb8c9" sha1="4001bf5ffeac790688680f7b77676dcce744a712"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.456" size="38954" crc="b11ad191" md5="f7daa823bdc1abe2d312b5e9b3661fa7" sha1="9297b484be9f49cf1f41ae54cf862d5e133f0217"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.457" size="41978" crc="24436c9f" md5="eee61cb5e1f2ee50c43726ccbac5c27e" sha1="feb4f31f4712288eaf91ff61667387f63f1a2033"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.458" size="49370" crc="ba6141ee" md5="a28ca8ca40a1dda42b88337a3e4b9a34" sha1="6ab4c5a3eb3b32874ba91ebc2a0e9c2f3b8915ad"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.459" size="36154" crc="8948429d" md5="b74bdf8ec3b35f68b1d4c2ee738a0050" sha1="1927e002a6882a8a60c142fc9b103e599105035c"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.460" size="51978" crc="ea7e6c74" md5="39d7748d6a51643a846b534ec2402c91" sha1="7b9ce489f4c5728778e42864b35b2a8c3bd2f4e6"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.461" size="32938" crc="df11a565" md5="f4bdba240a3d50344bfbfa7cdb7d1a68" sha1="eee2eefb3a89289fa329df24d38daecb9b8b1711"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.462" size="55898" crc="486bf793" md5="414615200cb28c8908c166ab1bd5e02e" sha1="87576c867e2d1729652f169400edba163f8deca8"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.463" size="67258" crc="1137e9fe" md5="6619894b07455e13d514658c22e52295" sha1="e6f8da1cf4b0be6373b1eedc7a50f4f1e8aa2d16"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.464" size="18090" crc="53545caa" md5="e826d373ff8890dc669cb559ae2fd389" sha1="c24d03a01552dd90eb590b6b092cf82bb1f13b45"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.465" size="33914" crc="f0c1ea6c" md5="71523de925ab028123449fa079b976e8" sha1="52c04f29f2f4dfcbe9d13383e20d098155b0f677"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.466" size="17530" crc="686ddd72" md5="b86c668f81d9bce61e8dec61d30a2085" sha1="eba77c4545dfa92bdf6243b112329770d9252f51"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.467" size="50858" crc="ae9e4311" md5="8fdfdff6fe91178d40cd403978ce0a5a" sha1="22160c5637140186a885b451e824686f72673cfd"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.468" size="34474" crc="00501cff" md5="c9bbb623c3d1b1e36507e3f2bbe8b8bd" sha1="1a3bca68da91543315c17b5b28cafcc4d82d9b7f"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.469" size="18090" crc="2619a72d" md5="9eb4b211a30c0872a5b7953c3fd6f62c" sha1="c571d5977a454299e0e5b7401e495f864c4ab04e"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.470" size="50858" crc="50caeffd" md5="d879895a4dfe907ef4f30fa462dc80f7" sha1="9c012194464ec4c7f97a8007ba3c732f5d6604b6"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.471" size="67242" crc="2018d294" md5="d2e6e7def6403c8d02c89540bed364bc" sha1="5f78a775358066c24dd42c1009d9d04f60b0b575"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.472" size="19770" crc="cef6711c" md5="6d1fba2f0fa5c6c9c4b301cb17596d09" sha1="ccc62a356e8353d236f0500ff285b90784861bed"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.474" size="33914" crc="4e0dddcd" md5="caa4ef485cdf475c6f5cb1f0a1089ead" sha1="2346121d2552823155c9d9f5258bf993dc8edfc5"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.475" size="34474" crc="f8f32c58" md5="7a590ede06ee6860325e1cfbe6748e41" sha1="03c250c4456b438ddf69018dd43b5631c16fb3c9"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.476" size="33354" crc="d9b0fac6" md5="2d82c2978625147a1417aeb16b5d6fe1" sha1="4f88f76e128293ded7f5398448ad33c09549a592"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.477" size="18090" crc="590251f3" md5="e813509df9fc1b38d1e27d74b0c4ad9b" sha1="644a6101d31f48fcd5b94967542ad5fdf790a93c"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.478" size="18090" crc="a165ad7d" md5="1ab4b06c53e31828467ede14d20acd5d" sha1="4598c446151e260e68fe70fe5454d12dcde32365"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.479" size="18090" crc="1b51cff1" md5="be3711bb6dbf7119902886498d10fa62" sha1="59c0be9582ed9cad031aadb7c40b02551b18f4c5"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.480" size="17530" crc="0d1c5fe0" md5="1483f6606afff9ba9d31f6268efe8735" sha1="3118cb24a9e795730e3e8d4137d7762e18e91a12"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.481" size="67226" crc="37204d4a" md5="a47040c15ecac695e3962100fdbe8892" sha1="1a37d80cb966cc5a63ffbd6066a55caeac8014d3"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.482" size="34474" crc="f0840ef7" md5="aff9d2e4702f9fd26b28faed78ff1e73" sha1="4a2ba3096146aa3dfaa65c6b7432d5256665edcc"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.483" size="18090" crc="6332fc44" md5="45c1c012ba4cf19f258731415f949e5f" sha1="74126d12df6525f38a40a08cca36b5fdb4445f5f"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.484" size="18090" crc="a1238305" md5="5fadddbb492f2cff905f464b62695cb1" sha1="aa57f2ff692cb5d61364f224e9ac7790831331dc"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.485" size="39834" crc="62757b33" md5="694182c91cb1dbf8838927036f07f494" sha1="3448b036707011491c6f532b42cb30173c650a24"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.486" size="32938" crc="3e279524" md5="70e8ed3cf9a5acd88cc7ef3343183d12" sha1="7a719b7498e196a464f812f50f4990cd27bb5f0c"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.487" size="32938" crc="740afedf" md5="a645e042710068b48dc8b015ec904074" sha1="9a0c7cef37bf3651a2fe97875199a5ea48c70227"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.488" size="32938" crc="41c7553a" md5="754ce8b268e11b8c5e2b0d90f775675c" sha1="8980d990b83a821222ba3080b16e0fcf0962c210"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.489" size="32938" crc="315c55e9" md5="73222b194988994d97b584d70854bc67" sha1="fd066e7ee0e46f9b944f78a7273e3e0d047a106b"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.490" size="32938" crc="1e1835bd" md5="56a3d146c9dd0e2e99f2febd4f3b66b6" sha1="d43b103006043664dc27a2da4277d93b86dc7d74"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.491" size="32986" crc="717f75dd" md5="5f9439584901cc93f9c5a85c68b73ddf" sha1="98c07cbe17885195df49d33ab509f22049c70b3c"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.492" size="34474" crc="2847a3e6" md5="fcecfcdac4d8bcc92c631c23758cb713" sha1="1f28a5a2a5ffeb19a68ea22cea09389803a7b174"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.493" size="52538" crc="043acad4" md5="a68b4dc78d011cbca2cdbcafd6288681" sha1="b90c9995e120d52763802b436c824f845eba6d93"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.494" size="33914" crc="bda0912c" md5="c08a361f2284bc51359efff32fcc75fb" sha1="973d979a82e95f56d6375e4fed53605c06e29197"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.495" size="17530" crc="5cb7c3d4" md5="05fab6c5a0d9cf7a7b2425d2e96b469c" sha1="c00f888211538a0a9e5055a8a7feaf5d398d47d4"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.496" size="9338" crc="51dc5151" md5="2328374181d8a1ad74f394973ef149c5" sha1="aa9556ae80633b81c93e973d3eb601d9dd5d97ea"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.497" size="33914" crc="feb6b1a7" md5="cf9f618f0ef5e1fe4a4c21f0b2b6bb39" sha1="164a7f26540aaccaf4ebe70077355f1d3f3a2d6f"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.498" size="17530" crc="3386e587" md5="5306c5b0a3a02106b24cfa6309bdb6c8" sha1="b447af0b5055f4d25d664edf1dda142d792c4b9c"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.499" size="33914" crc="477aadd3" md5="dcbe88729007fdbbf48e5770dab6f5fe" sha1="0b7510d7d167a0191069c1f7d446c6d2c31a763e"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.500" size="17530" crc="b10c7291" md5="935cca168dcb67a375a1510f40e28ba2" sha1="698f10738d1c5e2f8d8a9adadaa8278a9fc188be"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.501" size="17530" crc="75e042b2" md5="037e70ec91c6ff60ab6b5896fb63cc19" sha1="e78f5cec5f1b26c69e9b5b4c485423c63ab43f92"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.502" size="9338" crc="70f62205" md5="b4c10d0fddae919d01dc90eea532f94d" sha1="129cae62976b05fe78f2babd85df45329d719fa0"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.503" size="17530" crc="1003918e" md5="2100ae20920c1219a44586ccb7b579f7" sha1="2e85f1cee70c95a648a6e14aa0e0474ba46893f8"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.504" size="34250" crc="2d17cf0b" md5="e708dc4f9fa89c71459b20efd0054173" sha1="33087fa2378c85007f1b65fcb21a372ff8734965"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.505" size="275258" crc="565f19cd" md5="1a16dabbc622c2e69f49f11f815c0d9e" sha1="d5e4d150b62376b6838a1c33e463d89c5cb21536"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.506" size="33354" crc="095d65e6" md5="09614f5044b41d0c1c442b7688231ca6" sha1="7eff44e0c67b1587f2b3e14fbae05d7cd84dbc73"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.507" size="46138" crc="4d9d0590" md5="4df959a40204d09672b3d0c1a6573656" sha1="a5808464868cd962a0e6c04d4f10e73b28a01073"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.508" size="54778" crc="b23e3e74" md5="4a86556e9b9f916c3d0463e474ec5be0" sha1="c12c3f0015005b8b8d0f52fae3481b952d67f74a"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.509" size="41930" crc="b25a2c29" md5="f7a7be00f65dcebb15c7e55e6dd9d313" sha1="da3ae8f098c8ed8db23f410ffea23ae346e746aa"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.510" size="56458" crc="b85fdeda" md5="c0866f4bc6e6a595b453e7e3892991e8" sha1="7edbac9ce5a156977d45122265616fd1ec41ec83"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TEXTURE.511" size="25586" crc="6839a0af" md5="153af4e5d38e87dd09ab2ad1177f552b" sha1="a40f375f4793ce40d50c85139faa58a1b74349ef"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TITLE.HMI" size="9968" crc="0a2a6f7d" md5="5c1226bd0c8ef7c473003d8d5cb48c8b" sha1="0a8b797708b67d00ffecacb2b722a2ff9863c2f9"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TXTSCRN1.COL" size="768" crc="ae911634" md5="d8c84283200e6ac0be5a186d5af1d7ff" sha1="4351c297beb9b08a32382d1dda43235a657cd33e"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TXTSCRN2.COL" size="768" crc="a06e245b" md5="59fc7ef7791e1ebd65eb91e51f05ef95" sha1="fea84059d530f6fb11b6edc094d81ab1d7edfd2f"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/TXTSCRN5.COL" size="768" crc="1f69e0e6" md5="e2e86a56b2dc1b645a951a347411db46" sha1="51f8a139fabe24aa2d40ef4b7826844941f51b00"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/WLD.010" size="263416" crc="c66f936f" md5="ba948edaf3b2eeec630945545781efd5" sha1="ba333f34d29cd305538fd6d7202ba0e3a7222efa"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/WLD.020" size="263420" crc="edf591f4" md5="6dd72331c9674c595924fd567040e458" sha1="8999c47e328546aea15cf9d7c626a4b7c9168369"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/WLD.030" size="263432" crc="3d7f8c0a" md5="e7f234855ba06fe1f03a344fa520406a" sha1="3ca141841f1737ab615897390dd2128a2c707f6a"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/WLD.050" size="263416" crc="3c1cb777" md5="bdf045271d5cbbf0a18ae3fd89068c4b" sha1="f4bb8bb498f23fe93a887c9a81a3fd66bd74451d"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/WLD.060" size="263432" crc="11944417" md5="ea9b31886a8ff47f696bdb79128f58c9" sha1="872b39980a48095c50c05e28942bc5027d3315fb"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/WLD.070" size="263420" crc="2db78781" md5="539ac3e1591e787fef972fa0614ebaaa" sha1="681f9665843cea1bed831cbb7fa84a02305a00be"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/WLD.090" size="263420" crc="d16236c7" md5="dcc51358f1c12ad0bf5396c8818da720" sha1="42031c028d91153a0af581b2eaafbb23cb4e4520"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/WLD.100" size="263432" crc="f68d40b4" md5="21120946f81bdf74e2d4183e3f4f3f3a" sha1="d5dd574c240407ac15cc7bea5d8e88ce638d59c8"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/WLD.110" size="263432" crc="3a7a4d2b" md5="079ca92da5745c5837dd1dd48f29bcd2" sha1="6318db4cd9bbc8c7dcbd318f455acd42e32dddf3"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/WLD.120" size="263432" crc="e00f2815" md5="7283f7a9337f34e093b45d9087db5d28" sha1="1f55db0c6cc70777de2884cd9ebd83cd69bdc8a3"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/WLD.130" size="263416" crc="d5c0f488" md5="180ae966a7ab455ced8dd17a769e96dc" sha1="728e382239cf06a3ddaf4af118c4acd7747dee3b"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/WLD.140" size="263432" crc="32065946" md5="8ddba49b8ff565eeb11b1acaf369fbaf" sha1="daa4660fc5fbe0ee0cecbb2083a9557492125e26"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/WLD.150" size="263432" crc="e889914a" md5="9c10a852e4e18a582c99af2fab54c141" sha1="4e5784516c0973485f6fb7fe5b77ce13053decf4"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/WLD.160" size="263416" crc="4c13920c" md5="b0fbb93cdf82db59d9d0f2af10206096" sha1="a222d0020783da61fdf86e8e428397d4f2518d74"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/WLD.170" size="263416" crc="05630e2d" md5="0e16e5c2cf99b146dee2aba4787ef96f" sha1="47cd9d3caafd83f6d820782c9924ebce488ede79"/>
+		<rom name="GAMES/SHOCK/GAMEDATA/WLD.180" size="263416" crc="505a2261" md5="a4da58471ce7c2330b297192e524d474" sha1="592d063931fcc378c87a6bf38a74fb1e145680a9"/>
+		<rom name="GAMES/SHOCK/HMIDET.386" size="83774" crc="ae8d1a06" md5="b6656f8af855be3184d2b9f10de91ef5" sha1="c3b75ab63273edfed1bb15acf59b321102781a96"/>
+		<rom name="GAMES/SHOCK/HMIDRV.386" size="317317" crc="21c398b8" md5="2de5f490362469628841199644a38e02" sha1="32c89e02cae4c33d1c0b93562f4ca0fe86c4a199"/>
+		<rom name="GAMES/SHOCK/HMIMDRV.386" size="117852" crc="833fbc45" md5="642245e78d1584edbf7cc21ca05c4992" sha1="f6b1154e9f1e5c3e191c68a971bd66afc1b45290"/>
+		<rom name="GAMES/SHOCK/INSTALL.EXE" size="392220" crc="2853a2cd" md5="5af3b08ccc8e942d454e9fa1b85f92c8" sha1="7786b21b269eacb6a5f178b615d944faea895f6f"/>
+		<rom name="GAMES/SHOCK/INSTALL.SCR" size="12579" crc="b4a6ec48" md5="f4dee9fe8530457596a851e426fc8ee9" sha1="d96dd17315ea6a1792ad9f3fe52508fb6ff4d4b5"/>
+		<rom name="GAMES/SHOCK/LOADPATS.EXE" size="49194" crc="066c5e51" md5="b24134b3fab09b2727b49a0fe1d64d8e" sha1="d9ba6f21e0e7a7210fc7bdc99495343cadd07d9d"/>
+		<rom name="GAMES/SHOCK/MELODIC.BNK" size="5404" crc="fe9aae07" md5="06c2043a65046cd0f0fcfe8437ab3b9a" sha1="c6268e3e38eaf99d0035908ee3bf14c4d52dff50"/>
+		<rom name="GAMES/SHOCK/PATCHES.INI" size="2131" crc="a10e7e50" md5="fc68407f5011a83090ea7ea5ec35898c" sha1="11b5f0c2307be1feb2b4e6382bc7f4c0cffb4a33"/>
+		<rom name="GAMES/SHOCK/READ.ME" size="6216" crc="e2c00cf1" md5="7e32089efe09a80d19c840329b7dd867" sha1="50eb8741b3344cd1fe0aff767c0a19ec4406effc"/>
+		<rom name="GAMES/SHOCK/SETUP.EXE" size="383595" crc="00dfaec5" md5="bef1e467f9d2f81b6b741964b8f73961" sha1="62ba5977d23827968510d5bfeddafba6343d1004"/>
+		<rom name="GAMES/SHOCK/SHOCK.EXE" size="1579672" crc="c8223d0f" md5="1901308ea844cb187c09f8df0e8a0268" sha1="3916fa4e92cb73d6723cceb4202ed848a45711da"/>
+		<rom name="GAMES/SHOCK/SHOCK.ICO" size="766" crc="cbbd5e06" md5="3565fd49c64a19a4b972bb3236936fa4" sha1="323d5057b48d5ef9058dc255ba5034a7f86a3135"/>
+	</game>
+	<game name="Terminator, The - SkyNET (1996) (Bethesda Softworks).dosz">
+		<description>Terminator, The - SkyNET</description>
+		<comment>Installed using Redump-verified CD-ROM Terminator, The - SkyNET (USA) - Large installation option used</comment>
+		<comment_dosc>Mounts CD, sound config, and auto-starts</comment_dosc>
+		<year>1996</year>
+		<developer>Bethesda Softworks</developer>
+		<media_link>http://redump.org/disc/9061/</media_link>
+		<rom name="CD/Terminator, The - SkyNET (USA).chd" size="398044800" crc="f955ad99" md5="4497ca7f0061af2e1459ec94579c4305" sha1="cfb0f7c875fcc317f4690601a02622b3fd558eed">
+			<track number="1" type="MODE1_RAW" frames="162554" pregap="0" duration="36:07:29" size="382327008" crc="57266e62" md5="0c5f4b208430d3daa1b1a056afb4ec05" sha1="7c6c789e85e67b02ca1e2a5aa621f8682138aeaf" in_zeros="1" out_zeros="0"/>
+		</rom>
+		<rom name="GAMES/SKYNET/CONTROLS.DAT" size="154" crc="632a180a" md5="ae3ded6fb835f64f90876c98a4f8316a" sha1="23363e4742d2e8e1d820f453de92cb78a5c00793" date="1996-10-31 16:11:50"/>
+		<rom name="GAMES/SKYNET/DATA/FONT0000.FNT" size="8644" crc="c22f664a" md5="14fa84046107e0f1cea52c9b7c30fb67" sha1="2edf87c95b761581094f1a9219d032107f989ed9" date="1996-02-02 15:12:56"/>
+		<rom name="GAMES/SKYNET/DATA/LARGE.LST" size="484" crc="4653fda7" md5="a64c4b4c75651939ba354e2479f72884" sha1="97bd22dd41bed86c7287df6dd09477b51f6772f4" date="1996-10-30 15:32:28"/>
+		<rom name="GAMES/SKYNET/DATA/MEDIUM.LST" size="574" crc="797df669" md5="c35eff9bf257b5d3c6b1099f8f735c78" sha1="de251ec4d749bb27d53d999b7fb697c258c020b8" date="1996-10-15 12:22:32"/>
+		<rom name="GAMES/SKYNET/DATA/POINTER.IMG" size="111" crc="9c9af2cf" md5="a94c5cf72b624793cd43ba15bdf1c3a9" sha1="a466e1e8456daa8a9e7921d1b1054ca5da3c1714" date="1996-10-21 15:27:56"/>
+		<rom name="GAMES/SKYNET/DATA/SCREEN.COL" size="776" crc="3a755712" md5="474c5a5fc8850703e66f112701f54cb9" sha1="447a2279b874819236073821c10749b87fd650a1" date="1996-10-21 13:08:52"/>
+		<rom name="GAMES/SKYNET/DATA/SCREEN.IMG" size="64012" crc="ad76f443" md5="bc48526863d5fde3caec46419761b5a9" sha1="da8c5d4c32edfc40d0b20f42b5acfc341dd8af7f" date="1996-10-21 13:09:08"/>
+		<rom name="GAMES/SKYNET/DATA/SKYAUTO.EXE" size="220160" crc="06aeb96f" md5="97ddad03a7f9cb1e61f61415e46ac03d" sha1="152508974792310c6a223fed2b50f910839faa88" date="1996-10-16 16:20:16"/>
+		<rom name="GAMES/SKYNET/DATA/SMALL.LST" size="448" crc="f5de227d" md5="59523fd6784be3cbec9b3adb7193a96b" sha1="e0bdf682699b896131a5f63fd739dc555c27fead" date="1996-10-15 12:22:36"/>
+		<rom name="GAMES/SKYNET/DOS4GW.EXE" size="265420" crc="cb214447" md5="ee4033581845b3b8d28c4b7287eb4fc2" sha1="a897c7eb79145a308c4e60b43413bb2daa360506" date="1996-10-31 16:11:50"/>
+		<rom name="GAMES/SKYNET/DRUM.BNK" size="5404" crc="c9e2e6bf" md5="636328b50967305130726109c7f06fa3" sha1="97eb48f79220aa8957a25bab5a3076380dd3791f" date="1996-10-31 16:11:50"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/FONT0000.FNT" size="8644" crc="ec3cdaac" md5="4ef3df2d5c7afa5ed4c08d4ab9fae4b3" sha1="a47cc42e4583d807cadc8e5410eae9b60f9c3b25" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/FONT0001.FNT" size="8644" crc="fb056d05" md5="14eab33018a5473ca72ad61a16be923c" sha1="6adab65f8ce291e9a47ef9a561bd256c3008ce66" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/FONT0002.FNT" size="8644" crc="8ff8e5d7" md5="c6476358ce5ea9341d40b3a2769642fa" sha1="30568e8cb87203d02e02f670f3d624f9dcb63aff" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/FONT0003.FNT" size="8644" crc="3317db7b" md5="d3eeb9085080195236e68378bcc83031" sha1="d5c9113ebb2f2a3416133454c236fc37153f1cfb" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/FONT0004.FNT" size="8644" crc="5291674c" md5="bb7be3f5866ae7e5f6a8b0d8dac18a92" sha1="f53845b7460aa70b41b788cedac2d75942a30bc6" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/FONT0005.FNT" size="8644" crc="876f502d" md5="d4bbcf001df1d89ab4db18ff54b81200" sha1="00abf5ca76641161557daa35d379e52240d368f8" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/FONT0006.FNT" size="8644" crc="d2123a7a" md5="02a3c4962b98310a1b8726041e535562" sha1="8518ad1c385e604fab9df5b3e9f0869ba2ad2407" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/FONT0007.FNT" size="8644" crc="9f412ec9" md5="47f64e4abe1e0504dd08657d412425ff" sha1="938b6ff19b0e3b4c040a65deac4c9526f09fd65c" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/FONT0008.FNT" size="8644" crc="a276365f" md5="01eb875f262502a48b0ee2b040f6a91d" sha1="c7bc844a0af4fac9ae86c9359f8fd3c21a6c38cf" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/FONT0009.FNT" size="8644" crc="daf9d842" md5="4a6897440beb6a44370c971acad2ffeb" sha1="6faa7ecf6e3febd1b7793d12d3b2afd66fb94e48" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/FONT0010.FNT" size="8644" crc="e663918e" md5="14bf097a4fcdac1b4a44241fe2ecefdb" sha1="a1c46349ca897a2724bfc513a719c028ca883f92" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/FONT0011.FNT" size="8644" crc="82d9151e" md5="aedbaf3d6583e9ef69a2b2782dd3a0d5" sha1="5aaa1055bd9e82202582fa97f3667a7f810aac85" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/HAZE.000" size="16384" crc="2f1a1e6b" md5="8ed45291f9bc91ba07066198a49de983" sha1="bb43435d1d966f47c05368cf4646c4fdb5621be6" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/HAZE.005" size="16384" crc="010f912b" md5="51a0a57fffe8ed461aa677246ec85180" sha1="f0ace57215f783be1a86e18481439fb18fb3b3e0" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/LIGHT.DAT" size="65536" crc="b4e04e6d" md5="c9682ae13550a3ae73f9563dfecf687c" sha1="6f315a977368872232a139eeb66032892af61cfe" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/MDMDBRIF.BSA" size="125933" crc="9adf6cdf" md5="83a8c70ca2559f271ce6247ca60766da" sha1="aa810c7681302a61a39cedb51405e30a0f95265a" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/MDMDENMS.BSA" size="3600592" crc="f5719689" md5="64feaa48784facb4858ea0060db9221c" sha1="12dbe4a2c9f2f97043c754f73ceed82f12d5cbf0" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/MDMDHRES.BSA" size="2530340" crc="c3248bbf" md5="53ee94434430568f0d7b99d40c5503a8" sha1="06ad39f3d54d552b6c7c6e9c3ec865a61df2206f" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/MDMDIMGS.BSA" size="5424890" crc="61fc5f52" md5="91ffb8dfe27ce6abd59cf410c9f7fdfb" sha1="961407a58b30a89b108e283763e23f272cb14da9" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/MDMDMAP2.BSA" size="3242716" crc="e3aef031" md5="409b99ecbbed39a9b5f1b4761a3a8c1b" sha1="be39d7571fdead9a8e5762d6830c216f32c72cf0" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/MDMDMUSC.BSA" size="384626" crc="18ac2e84" md5="58ba9061ec37e9b4731204cb0663da63" sha1="b63417d098cb0fac5d76335d105ae5c37313d402" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/MDMDOBJS.BSA" size="13274384" crc="e733df2d" md5="759a58c002fdd84cf4a509d7500c7a1e" sha1="baf53b10818b0d830f1cb112f67017c8fe449a61" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/MDMDSFXS.BSA" size="6346453" crc="41cbb947" md5="a591876945558a864b0e231bda84db1e" sha1="9f0eaab71a44a5d2b792b6adbdca0e9aa88c3530" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/NETLEVEL.PRS" size="6249" crc="f70fb325" md5="0f7887be547e93001938addb622c5713" sha1="6fddfc1cb373a750b9cc99e664d7310ac9c72a81" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/SHADE.000" size="16384" crc="2f1a1e6b" md5="8ed45291f9bc91ba07066198a49de983" sha1="bb43435d1d966f47c05368cf4646c4fdb5621be6" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/SHADE.001" size="16384" crc="4839bf48" md5="cb728bc71c62973bb9d47204969f2dc2" sha1="1141d66e4d87b29410729e37ecd0b34c163f3178" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/SHADE.002" size="16384" crc="9c15f353" md5="5eefba42d78b8a579e7957ee6f5af4da" sha1="7359e31094295cd88748b6e50bbe202b09bac50b" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/SHADE.003" size="2048" crc="06c71f29" md5="2adcb0545e28c54a4263fb1c7355c141" sha1="b885c1596b92588e181157b22f2ca8a623a198fa" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/SHADE.004" size="16384" crc="0b68199d" md5="a70bd4b97daa52e53e320a0a06be6278" sha1="8d0787d2161d9443e0c97fd5a19a609d30e1bc22" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/SHADE.005" size="8192" crc="69d6e150" md5="5ff6b78bc71d7e50735c30229b8f181c" sha1="0d6a6c4013510445cbb5f211d57033414bc7dad7" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/SHADE.006" size="256" crc="9010c4b9" md5="50ae40a42ba9f262c17ed4548dcf6b98" sha1="fd0f34fc57711cc373653748ecd6a48abd7ca9f3" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/SHADE.007" size="16384" crc="db0d9c92" md5="39ed6c1f782396ea5950bf8a23295e92" sha1="926c749c1204cf520a52a983ba585500c45a0629" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/T01.HMI" size="8325" crc="363b1744" md5="8569206f7dbf84df9cb02869bf673e90" sha1="dc07a5996e6770d72ebabf238bfe9e596083e0b1" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/T03.HMI" size="3098" crc="6c3492be" md5="71abb2673fbcd5012afceb45eba897ac" sha1="4584767c32a432b2684fed366a16911d2ebe44f8" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/T100.HMI" size="6463" crc="70317750" md5="86fa19ad3f235a467a411d4a5723cffa" sha1="9f76552fea5952dfe01a55f949c35fb0fa47e100" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/T101.HMI" size="6472" crc="22cb5fe2" md5="83ef928a6db60d81192a05314a631aec" sha1="a2706034e10341ffd264b57f8e78982ff5b54fd2" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/T102.HMI" size="3601" crc="019b83fd" md5="37c3399e26cd6ca9cf7897cc88a9e623" sha1="95265840b4bd6364c2cc7d82935a35ba485f3366" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/T103.HMI" size="3547" crc="a2bbccd2" md5="97e9c9c2bc6337420d4105565f8d37e1" sha1="88f8db8f32ed1aaadf6fbcae2735a669bc3ba7f8" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/T104.HMI" size="3437" crc="15d4ec5f" md5="1138d0ef58a0b78232ae537ad97cf0ae" sha1="62180278e97287a2d22dc76440f3118d92a21785" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/T200.HMI" size="15479" crc="09db3fa1" md5="e41c5ce9e35467481c4a83e60995f73a" sha1="ceea00a8386fa41e9af45f7874be7dadc045fdec" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/T201.HMI" size="17364" crc="b8582978" md5="6451f0059531149bd5c7fa670bf58400" sha1="527e95288ea0d5bc10cbe5a908ad5300de3dec39" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/T202.HMI" size="14491" crc="a5d38392" md5="2611297fc8c56eaa09472ea345b34df8" sha1="7f7a17d9c6a5353d77964e063d0795fad159fb7c" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/T203.HMI" size="10938" crc="741a082b" md5="2e03a25ca04ce6060d0b31609fc07814" sha1="65af26f31513867bef8e22177bc3e1097ef449e5" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/T204.HMI" size="18065" crc="acca324b" md5="954ced3d8e93b475dbb1be5ac65d86a3" sha1="7734ab691dea7abd1913b8e86f178fe86be3f27a" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/T205.HMI" size="26047" crc="d8b7e84f" md5="09b68d8ca1253fe579560a683b3cd0e1" sha1="853fa9d698c212f568f7c249d91bfb703ee159d8" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/T206.HMI" size="10181" crc="51142e84" md5="005cf31e9c689b65e1adf7ffe38f77aa" sha1="55a5353af5237268c492680f0981c02670300763" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/T300.HMI" size="31782" crc="c7c977a1" md5="b8e48f8ac288a91ceb872a19d9a3eed8" sha1="2143d9ec86cfff42be3110c94b1c8a08f8f1cbf7" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/T300NEW.HMI" size="30225" crc="a7c8e095" md5="649d3f717fe335524a552d4a9d067f13" sha1="6c283761ff3e4544c679fdd6d7fcad1f2bc44186" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/T301.HMI" size="21087" crc="579fa787" md5="7d349fd8db89b2c42e061254497af4f0" sha1="9bf657b0a14a2bd1af04a9e3e78548a1299207ab" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/T302.HMI" size="21168" crc="71a1b5fc" md5="d01435b40492f7d9d038406ef0b1d844" sha1="a363784a993ded1f2f26cb6e210000c311ed1928" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/T303.HMI" size="34952" crc="1c6ef360" md5="c25278242dd874747f7790aaef151e76" sha1="8c584e60fa410387ede11fa737288d980391bcea" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/T305.HMI" size="15847" crc="ce88933b" md5="7f8235ff1645bc8da6b99276073f007e" sha1="1660f4a540502fba4a3addbaa576c51aa335893e" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEST.HMI" size="13125" crc="7fc4ae55" md5="17ad6180fac8a6bf23115b0ad169885a" sha1="30fdc0f7bfb84c848150c8570a34714e73c27c60" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEST.WAV" size="80684" crc="482a08f6" md5="43b48823c98c370bec77460f2eac21fa" sha1="5306d9843fabb9b6a0ff4a1932b59d4f68427d01" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.000" size="2586" crc="7037d7ae" md5="778f858a66f96c6422b9ac1f1789bd9e" sha1="7e68f79b7491932ec245faf62d252a6fcfd2b4f2" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.001" size="2586" crc="06fca23c" md5="03a793c2b99ac68c8313bad09776ef1b" sha1="2630b2a73b613bbadfdc908cee9411c9b8737ef1" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.013" size="107098" crc="a2695b98" md5="d56e2e413b50a2c5745bba9ffced47ac" sha1="e9eacf85ed8994cf0a0e4cefb7ec5deefc2ecfac" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.044" size="132634" crc="3b91ad40" md5="51e25f6f7f7aa3d11d70d6d267477650" sha1="cc5719f63a69083bbf9652b099329baa6fee5a1a" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.046" size="115914" crc="320f9fe1" md5="ec4ef41d37bea2b1da97385890f5f552" sha1="fe9ab2e545d1b91a03e3884fbc7d41f04853d466" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.174" size="8602" crc="98dd3099" md5="c99989075fc3a497ac4a9d3fb42d37e3" sha1="5a82e602c32c15ba2383f9508b113f8fda9021b1" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.175" size="63530" crc="90b427fc" md5="f20bfbb747f414d1f872924feeb5023b" sha1="3963b8a9161a6218b725500276005e8ef12271b3" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.176" size="63530" crc="9b3f2a01" md5="99d3be69b19a37015fdea0f0c19d53e0" sha1="7f59b3e6a1def2956461f9ad52e252614a90e64e" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.177" size="61850" crc="69df76ae" md5="e35e98917a1ef563586ed36686980f36" sha1="3d372dec6618b47b0b9da3fc6281c6a4842d6d45" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.180" size="8778" crc="9df25ca6" md5="ebef70982ee2b46e624f1159417599f4" sha1="fe6b41e58a0acd972cd68ac7382394f93a9dafa7" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.182" size="73211" crc="532e52c4" md5="e066e6cd22a158c0778ed72165887d04" sha1="6596841b995b8752910b3bcacecdbeaa870b82e9" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.183" size="74714" crc="89038b40" md5="0087c0f4b73ec35977ca99aa5a19eb92" sha1="233bdcd137a3803c5668e57d44585dcac591a49f" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.184" size="16458" crc="c2aa39b4" md5="aba97939c728bb61121563e27bccfb7a" sha1="01865c314b54b3fbabc648048121da7788fba659" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.185" size="46970" crc="0b9193a1" md5="805ad4564c653853289b989aa6b6d58f" sha1="222aa4129938e614826305e3e3747ba63673428e" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.186" size="187842" crc="75a46722" md5="872798b2d013e5e2d15a2fa8633af287" sha1="e2b48279a2e02030e016721aa07f005328940bac" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.187" size="51130" crc="ffe1fe41" md5="f519e43457bab47927c002b79f187a6e" sha1="73d5b253880b0a4123614fad2cf60357ca0bd723" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.188" size="74186" crc="7dd17412" md5="0a4b587abef76c89d178c2af6da33a84" sha1="817ee74d771308162b58ce16475a8641dd9bd725" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.189" size="41946" crc="ccd5d812" md5="8fb73d47e21264de5d48069a230f2f26" sha1="7d18b227650c456b938b8b5c65cb9b7b18a0b50d" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.190" size="22106" crc="46d88d75" md5="70aba0436cf6b4174bf94c8943b4988d" sha1="ba0d35e820944f093d7bea48a593f5ae40b44d24" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.191" size="17354" crc="32ccfd9e" md5="08227f66c6bcc1e42ba217e7b7260eef" sha1="ef611d5b4ea4579bc325f268e786b8388cd1f695" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.192" size="2242" crc="2a266dcd" md5="799fbf95673cf5da218021782ed02fd0" sha1="2cef273058abaf53f9a6d35174b9a020dd1ff1be" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.193" size="18090" crc="01c27739" md5="4c33b62ceb8d4356c7c2e35fe597a7e0" sha1="3ad75b2a7a963f1322b9ae162a239780fcc9dcf0" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.194" size="133226" crc="cd31cca4" md5="2fbf4b97b091b048860cc7136ea78c98" sha1="bd23e1955d25f0f51041676c047c8559cab80e14" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.195" size="46586" crc="5ef00e32" md5="70ff52bedda5e87caf0b74424f83a901" sha1="d1cf1f97fea4562868299571dca9a20ebde8892d" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.196" size="46026" crc="b9a37535" md5="128af8807397adf67ed948167a085747" sha1="47ff3501b92866d8d959c19d11cbf86b5890e068" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.197" size="24874" crc="cbaa9191" md5="ff1fce01a6956f1d0cfe0f9d4734df9c" sha1="ad90cf47910c4446887416566fb925e255f508fd" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.198" size="42410" crc="fe02221c" md5="7ae44c7ee3dae8ef3035ff8464c937f8" sha1="06209355d2995f36c225a8e04d14afcefd9c6f72" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.199" size="37834" crc="50c7f131" md5="7f9f53d834eba5b7c6fc9eb1afc84f9e" sha1="895b60c8a185b09705db5103a9da71f3fe806659" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.200" size="29418" crc="023cb923" md5="12e255a27f328fbca195225f63e714b6" sha1="e1a40191bfdd7a372154b64cef1f497ee82ce691" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.201" size="16682" crc="a45802bf" md5="742b2ac1f686cf45375778988fb8a509" sha1="f1c70741946b27ceb1928d6c5fd13c760f71f079" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.202" size="102495" crc="5fda8bbe" md5="5b476b1d38144852b1137d2bb6c2aa59" sha1="643bfe70bc9d0190a1299f979ac526e759e4c4ff" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.203" size="14570" crc="498d0ac3" md5="638b2b1e1f002675ba4a5199b2143f51" sha1="968d1280bb290fa4271c0e46af7ab5a8bd278708" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.204" size="110574" crc="a26faa4a" md5="f7b612513d229c0a9b384e9ee649bf21" sha1="b0ce48cd18800c7d0fe39a27a7879c00e319298c" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.205" size="76922" crc="34fa79ed" md5="6285d572191da554cbf9b08aa768a30c" sha1="9fcdddb8ad28018ba2620286a69fc763a2b3da1b" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.206" size="18177" crc="8e5f27de" md5="f668623d9f8549783d8e052bad87c9ff" sha1="c2909b85c23b2e5bd72938fd374b64696d866dc1" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.207" size="14522" crc="0d2ab2d4" md5="e2866dbfbb61c04e5d1d16843f7ceb62" sha1="72d1f8deb3c77db72032e8bc0b90e0ec5b5618f3" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.208" size="45123" crc="4ec1a7b1" md5="49a6e3bccae127dc4c9de6e3326762ee" sha1="e9222c690d4096813bdb8115bfad7d2e2181e1c0" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.209" size="34490" crc="1f384d88" md5="19a18986851bc527f6468cc8d6bfded8" sha1="0be073ca3fad9e91a811cfb31d1ae41bb750037e" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.210" size="6890" crc="5074ea90" md5="78262d98ca82535f3a9be225bef9cf4a" sha1="865c1ef9dfa1f1917fc4c87e67ee55f86775b3b5" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.211" size="11802" crc="2198aa5a" md5="29b8f5bf9bda617c0609fd995bc03542" sha1="2e2772b38d3f99cf4a5c8b99671b6316c9271708" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.212" size="11514" crc="31c9cbda" md5="24e8aa743c83f045cbb5fd69871eb51e" sha1="ebbae5e37552dd42b8b1b55fa5ec9db5863076e6" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.213" size="18618" crc="059bb9be" md5="9701f53e41e7952ec0ee6951c44a44d0" sha1="dd439e4d53d82a1b9e937cc3501bf2c128de55df" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.214" size="15536" crc="8276f718" md5="273320f325bd36d48ac2ebbeee6e2086" sha1="18257e33c53c6a0813b778d996cb9dd0b9b87a85" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.215" size="30778" crc="c6a8ecfa" md5="c5254d37be6bc65c1e0e356a160426aa" sha1="d465239c5f1f02ee928730b76e42827039edf958" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.216" size="13694" crc="0c1f79b0" md5="d800a8bc9240396b96e78fd3007c8aa8" sha1="24a1dde80588b1569cbb408b6277f276c4b615a2" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.217" size="42614" crc="a8a98042" md5="570072afd3f77062b1207aed23e2f6b7" sha1="590eb5e9252fd19bca754062556e532081c01a3c" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.218" size="39462" crc="2ae88d24" md5="3e9f8f9ddfe63def907f74b94bcdc8c0" sha1="bf3c5f764d19989c65cc4ed2f657911302d1d12e" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.219" size="572" crc="c7e5d354" md5="b6dbd2ca15be63e180ae71732173b0c1" sha1="04b8091d882536beac061d87a9def24e52571689" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.220" size="76697" crc="d331a85f" md5="37d67dd1f265297b58e00d62564fc8b8" sha1="926d8afe81faad9c780aa6009d63c65c095402c6" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.221" size="17914" crc="b70def9b" md5="c06bb5de5f07c476664dca558e1323e9" sha1="36539cf9df45ede55907f6b2eac2fbc8007bba4b" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.222" size="24810" crc="c07a78e2" md5="1ab0eb54a8ea909c9b706152b368390b" sha1="65695179efe4c7fe4dc96f85c8acf08a474b9b38" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.223" size="12698" crc="8b8e9cf5" md5="33a82e6bcbedc1035cafcecd5f959221" sha1="c220400d0424042cc784ae43c7f2cedf118b823c" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.224" size="16650" crc="6f51b870" md5="6d2853c2d8814f1e39f39b2e27e4e6aa" sha1="97f76ba9191a4160cf6002eccf90c165e4d55c2d" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.225" size="65706" crc="7bc0a437" md5="79a665dc79a281ed94f3f6b5fb5c5405" sha1="84ba982a527a1c0578e2cd9c861c4dc0afda31c2" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.226" size="70730" crc="3b8709be" md5="a97d7971b4d49c79602069b5e43f7a60" sha1="583aaf6091f98adeabcfa83234e51bbc03c8945e" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.227" size="35898" crc="7c413cc9" md5="3386da797f98f6ba0705de8e0ed79fe1" sha1="06e686ed33aed6ec9955e9980d4400d4d03587a5" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.228" size="41962" crc="94412eac" md5="a7874c4c2b6f5eded3e9edd44b83175d" sha1="fea7a3c89cc93677bdff68fb5c6af77ed97c4cb4" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.229" size="105594" crc="6bfaa1fb" md5="cef46e5fe73664b4f9e87aaaf1f9cca8" sha1="c2b6a953e33b380657ca5e4fdb1efda0e64226f6" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.230" size="74138" crc="fe8fdb20" md5="2c0d80347124fa8d8342ee4b5ec50af4" sha1="892802b25345d4f654fe3bc56411de9186833af0" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.231" size="66090" crc="99c51772" md5="f59a7a3092629884061bd8273a78c911" sha1="32799f7c4957ad0b54a2bd1c5fdc56d238d55315" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.232" size="24986" crc="4003d0fe" md5="df7e6418ac5f3f29f4c7925a4f70aafa" sha1="3f14a3b5cf149d74e0b7c96cf87db36bddc9a625" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.233" size="16554" crc="da931e86" md5="fdddf58cd5875328dde5951e94f49f06" sha1="99db92e0a85eed59d44709538d03983993566731" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.234" size="18650" crc="dad20ca7" md5="f97c278b497d126609518ed7249a1198" sha1="a48949c33ac5afe97970e1bbd6f3cd65dd2156cd" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.235" size="39514" crc="3886ddc1" md5="223997e0183b40b2cca80712921aba55" sha1="44c8cc15792df8bb8a23b37515d53bd715b59ea8" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.236" size="29642" crc="458f111e" md5="214420df1d175812dc99f9fdbec8ea93" sha1="b443bf428adc76f8f41ff0debdd3fd07370624a1" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.237" size="53390" crc="5c69b1b4" md5="d97afb16d2844c3f1e0aa513d0835720" sha1="c3969be67f115623d368849ebedb7a0f3e820750" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.238" size="52034" crc="f94da080" md5="c6f81459bc2641db754fb8220ae049e4" sha1="d6cc030c46fb16f524a977ab5041b2f780a77942" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.239" size="16602" crc="18bb520b" md5="c5ebe5afff91a9aa27cf7612696b572a" sha1="762b62bc4ee7beb3ffa07750ba82c813bf9f3e69" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.240" size="57754" crc="20399f26" md5="09c6a6dac65db589d93cd2fbb9af3bf4" sha1="95c42ac13124f332153c2a47fc23c8c131f32537" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.241" size="54410" crc="2b100e43" md5="b25d3b444f403aa2179af7454d100846" sha1="1ebb2b2a599d3e1c6758d993eca8367d8a674e6c" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.242" size="16234" crc="870b5b68" md5="57d1492ed8bcacd670d3242ccf1190d8" sha1="5fce2c2345ce52e7b8ac0e82447c055530fd686e" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.243" size="32890" crc="7ad8df0e" md5="9998ec79ce889a494c6df1564177bd0e" sha1="913565600a9d2a026de8787e56239822ce66c78e" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.244" size="52554" crc="5a34dff4" md5="1742608823fdc808b6abf45e62b40c0d" sha1="6078293e2bc5a17c25fd611649529e5885815f1c" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.245" size="103370" crc="4f2d46a4" md5="477f0873ce5e8ad03973a9ffb0a39594" sha1="69ec5d954431da4a39ec15e13cf56d9b5eb9c88d" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.246" size="5242" crc="0fc1b5ab" md5="4b7110d4b0db5aa0eb956bedd3e3b934" sha1="cdca13320606db5397bbfa92591b181c7d425923" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.247" size="138378" crc="bff35e3a" md5="02811326a67d83b1c65d34fdc2e54b7d" sha1="5510713dc47909332722c99092e1038704330a6b" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.248" size="33914" crc="9a7ee4f7" md5="56028b7f9a7350b2c996963adca7a875" sha1="90dd2387ccc071ed35c52356348635ee7e5d3a58" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.249" size="16970" crc="262411c0" md5="86f14439074f149acecf79a9d0ea9080" sha1="2073a9b22d659803ed567057bdef2443535f9223" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.250" size="148250" crc="916ff82f" md5="4ac8f035cd65b00635af518d508e5439" sha1="6004fc7438c7caed83b710bf59a5f358893b72f3" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.251" size="19770" crc="805db180" md5="cc6e93935b477366ab783483167f5d13" sha1="70ccdc6060b4737d7563b29d67b1f6d912c45095" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.252" size="35034" crc="a1abdd23" md5="60f0b5b7a443f8f2fe2bd34091f2bc76" sha1="e87e20ae896ccc359294ebdafd3428f824b5571a" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.253" size="72650" crc="0c2a3435" md5="7b3679fbab485d37c952357e75b2e47a" sha1="532d84e198fb300292b9325ebe0bacda17b8db53" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.254" size="106730" crc="a6940225" md5="7682ffd33b210f7aa47e059e4da66b8c" sha1="f667d13195270cabbffb0d35b6fef9a84219a869" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.255" size="17530" crc="e94f67f0" md5="618b8a221f126f9408ef7fa53f1e0c07" sha1="b2b320f3e4be904fa7a5316b0760fab515379a15" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.256" size="36410" crc="e8eb958c" md5="0a18c0d2fa2c7af236541ebecf611e00" sha1="de7d4f05b6f2b34b75350d2e68cdfb5c2659f03f" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.257" size="34858" crc="31f1dfc8" md5="a8b9811948090d3698d86889c1aa190a" sha1="664f29fbc01701fc6608cfce8b8c5d2b799d5509" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.258" size="20890" crc="58ecc4ed" md5="6087b7499e2b94788fe4bb4f4f94509e" sha1="3f358c0941090499a269c7b0118a20a58ed4dee5" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.260" size="54218" crc="58231c21" md5="e978d12d566813c8b0c1ebed770c010d" sha1="42895178784454e78d447574f17467aaac3e2e99" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.261" size="26106" crc="e1b3b3d0" md5="c1a11d44ad50634ea508be7f8a934ea7" sha1="dd334262c0bf585a1111bb3b812df498f88ecead" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.262" size="18650" crc="68689103" md5="31d439e2eccb63d7d2a1bb7dc1a7dfb4" sha1="2933af253d96c7c148f4d4badec6c4e7956f07e8" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.263" size="9338" crc="b4b21906" md5="4c7d57c10f9ee5610ca58db8bc75bd5b" sha1="b60811d994a2b03df675357a1d8b885a6c42abeb" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.264" size="202794" crc="7caf7d16" md5="58c3b04af40d86f306650724d3e32ae7" sha1="fe44236beb42b04eb10ebc0b98ab1fec8ebb15e3" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.265" size="33354" crc="0a739ed2" md5="3e4c0088742a979c060964ef575f6cf3" sha1="949bf96d7875c4410b10748cb6fdb1f83ed1468a" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.266" size="77114" crc="6ea03529" md5="a9aff708bf22889f292ac6a327d523fe" sha1="d0e5fb19fdaa6e721c340be9894ab48c71b0b1d5" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.267" size="35594" crc="3271801a" md5="fd98b7780831fd04c6cc7481bf9eb852" sha1="bca09d849aa62ba029397149bac0a0c6f80c5f45" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.268" size="33914" crc="f1375ac8" md5="b26f71fd35bdcc58971278d102013233" sha1="8abd665f95d23958ad2f9b53a7d3ca2bc5430fe8" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.269" size="20330" crc="7b8dbebd" md5="209e06eb772773c70da023f39f3664f3" sha1="3bbd37f0d321213bcf672c6ea7888bc8d22ab7aa" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.270" size="103930" crc="867877b3" md5="3cc58ebd530a8de0d188f3d44ec53479" sha1="c9b57ebac9504ca99504f3b151020acf2504abae" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.271" size="14746" crc="2aa34e11" md5="ac712cfac6c5197d9274c5f6c5ab2346" sha1="4ef1199adb13f58c92be3d84fc0ad2544a824335" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.272" size="17530" crc="dba29fa7" md5="6bf3897404608b95a5189111483b27e1" sha1="f0680afce22fff32ba65a66f565f7be3b18cb794" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.273" size="72282" crc="ec4cdeba" md5="6d7e27c3335563193b2b2f7a9dc2b606" sha1="39ca14ba917757f00afbfec6009fbfd888d6c525" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.274" size="89674" crc="3b53aef6" md5="8fd3614325fc0e2f9af4007c06e9f205" sha1="29caa3f2707c5a61da7ea706425cdabfe8d04039" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.275" size="67850" crc="14fcfaec" md5="94f9bea4471f940dc97e90580b724f90" sha1="31382d38aeb40e5a17500e3033e6d603ef6043ec" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.276" size="37274" crc="d34a00c5" md5="4acdb52615d3db6a74008ff12a7585f4" sha1="4ac96bd4e6383d3967eccd288b3ca7d2ca39ada2" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.277" size="76938" crc="324f7d47" md5="1662c5fc34623f45e303476aa6a89f5f" sha1="dd76c5cfc24bc533c13bce3b3a47cc8545f68b14" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.278" size="70602" crc="b23f6a30" md5="4689ff47b5e9ab6d54f41263a7c57f5a" sha1="06eb50402444107d02553bf1837b42f5c969789f" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.279" size="81594" crc="bd482697" md5="7e298ff58dda58af0d7d516b5a75d049" sha1="82aa68175b2fdd88bdc891de47baaec57a3f6015" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.280" size="34490" crc="d68d5ea0" md5="b42a3fdf529dcddd2b4d7fb66c223998" sha1="6cf57ac7dd165c88b87f646a038758e2684e5369" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.281" size="41194" crc="590665f5" md5="58165b1f2071c2db3d8469d6e8980343" sha1="97dc2e06f79cb7965cdf8679d19597a105575bb0" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.282" size="22010" crc="c27f6185" md5="e33411ce2db3d0b3f58046f0b3372152" sha1="ee82a48e194752a01f26fd78374462616af35e59" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.283" size="19210" crc="b8e85b6b" md5="fce93680d9430ee2c1bb2e87b3f69fe5" sha1="c9d864afbd6847e0a17d95817d001416ee0002bd" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.284" size="46026" crc="1bcc6233" md5="8138a66689e97cf4ed4e5a8ed0c63a3e" sha1="b72604376e3b416df160edfd71712b83a4d8b373" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.285" size="24426" crc="73f286a9" md5="613dc72818d2b894b7d49714a51e5a8c" sha1="07f1ab9328727b7046d69e1097b3a3fa1dbda37a" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.286" size="46586" crc="49210659" md5="7493eee4eec142e5d9c21a80fa073c96" sha1="4c37b61e7771ca110eac66f61b219086867d2236" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.287" size="44906" crc="1568a280" md5="c4c3227f5059b206ca3e3cc06534590e" sha1="905048cb988a1e431ed9f6c767b610ba9198cbf3" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.288" size="147418" crc="0e1b7d6a" md5="8ad5bda22f5bb9602867a5874fe6593f" sha1="1bce93e9dc736e35f02adc438a93991d9e92aad0" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.289" size="251546" crc="060712e5" md5="5ab0b6940d238f96df261bb96b2bcbd0" sha1="fff666631d7e9f21da7d02d4c6ff344439cb54d2" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.290" size="21082" crc="97128454" md5="5eefc35901614ae18dce5456e5159074" sha1="8529ebd787cf60002b62629759e14625a1e1fa1d" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.291" size="29962" crc="df8ba85f" md5="3f0c2db8bbb58b5497d15cdc9444cfae" sha1="5be71d879d3042e93c9775c03d214ae3bf2343c4" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.292" size="26202" crc="52f3d3a1" md5="54638a6eb5be62a00cd649b86434200a" sha1="c7aa0e08e656b9f5642899eb6b5b746eb0422b44" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.293" size="40506" crc="1953c7e5" md5="9f814f5d7d41580123da9d8967f74626" sha1="782713a46cd230c1057511277ed0630a365e4ecc" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.294" size="46586" crc="4011334a" md5="8a664f136a27410f2bb5f5c4b87283e2" sha1="9e4c7f6b4e4e02c6c172cd86d3f701e5854ca1a2" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.295" size="37274" crc="bdabd95d" md5="6e3def357e346e83522f543b25112065" sha1="c3aabbbd0f4f241dc0abbaa9276b082425615990" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.296" size="47146" crc="6b01b24f" md5="e7ae8ce525e7a6cad15d64726f513c11" sha1="b0cbeec94172f2c09fd62fd4312b7d22846ce997" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.297" size="16458" crc="6f416ea6" md5="5b768f4cd0094cc9b05ed6b581fd3907" sha1="8a83994977c24cffffcd1b64426efef23bdfe9a5" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.298" size="4602" crc="b2ff86cf" md5="b8c0cc5e3007212e737a67e9ef942d4e" sha1="d5cc8649c1108aff6dc44a3a3b94af1ed35d038b" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.299" size="119802" crc="341eaed0" md5="bece65a803c3f7172860049a3b962ea5" sha1="511e0186a73f46ae0356b4b351e7d18eb24e630c" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.300" size="278266" crc="0f849afc" md5="92fe8f69bbd2af529dd88f6d3fafe15a" sha1="cd3dca1ce8aefe4bc8ac1daf2039bbf3a33d24e4" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.302" size="346170" crc="8b93b83a" md5="37cca17bb6bd24352d7666410c6e87cc" sha1="c15b7e306e721fc37699bbded6b57b50a8666cee" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.303" size="5994" crc="159bc8b5" md5="38eff62d89281572f6dc7ce4ada214e3" sha1="4287f05017a305b033a7bc22cfbe96bf5563592b" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.304" size="39498" crc="e3850957" md5="75b68019e5075a15bebe84889f2662b9" sha1="2d61af5f7ad63a92fa109f822301d4132fda3890" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.305" size="72842" crc="724f783f" md5="b5c39985e39db46417a329c2767d95f7" sha1="0448d3e6197ef97d6675d02c61b0d20689dd96dc" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.306" size="46170" crc="fb1d7331" md5="e821c57fcf1f8fc0eccec3b99faad3c0" sha1="bb4a03f78d80d660090dfc801ae48579a67f95a7" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.307" size="46170" crc="1b790fc9" md5="3fa51bde7a3eda605925dc6bf88654f3" sha1="31633860bdd4837fa38ccdce5c64ec0389d4e07a" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.308" size="40506" crc="d1cc854f" md5="ccaabb984f27507631a7313aff821441" sha1="52e89b7615d99cdb73cb9f2453a11e8793b68049" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.309" size="40506" crc="32e847ce" md5="8108750896353f58ea3bc901e7b950cd" sha1="d1fdab23f40a1acd79442e18dcee3626e321bceb" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.310" size="40506" crc="880ad4d9" md5="ff943408fadc6ccb60e9fe0aada59cfb" sha1="d33e82964f3bd9b01d716334a3850b4f48724504" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.311" size="40506" crc="2d84d376" md5="e1e33f941dbf55ac80e483922bf5322a" sha1="11e1ad4dfad44eb967acd1c386e5d9d948e8fdd2" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.312" size="42042" crc="74d24d6e" md5="ec51e6dd017f63b632ee24b57aef5271" sha1="aa0cb31f8d759ef2d7eaaa237fd12fe8cc695317" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.313" size="43386" crc="ac82c5f9" md5="f8437b66d3801fd97ac75021f0e1e8a4" sha1="797c93e350af4a600f0f7db99ef698a37c9ca81f" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.314" size="43386" crc="d851279b" md5="59e7792f3ee4f1c90c63bc3deacce8f3" sha1="7747c8f0975ac2f2c5f8370db33747042066797d" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.315" size="43386" crc="3c248e72" md5="178d4c224b0e2a51a1677a2201f6bd62" sha1="701f1f1da4898996337debb477671d73526804c8" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.316" size="43386" crc="eb3fdc06" md5="7bca0e73e045fa62e37b1459a3186a8d" sha1="9445c28b0baff03e034bbaefe155a53545fb3820" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.317" size="46170" crc="d6e4d3f7" md5="e63da7eca755add49b052297dc10497a" sha1="dc20857c40d55b58d84be138f91b5d14644729a4" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.318" size="42234" crc="b996602e" md5="fe614c538da23c256ac113f4e048abd8" sha1="64d74d8ce5db3f75814145998d4418576fc49788" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.319" size="42042" crc="74d24d6e" md5="ec51e6dd017f63b632ee24b57aef5271" sha1="aa0cb31f8d759ef2d7eaaa237fd12fe8cc695317" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.320" size="36154" crc="6f6ed999" md5="b43ffb105bb9d0eeaa9629a30496ee6f" sha1="ee5b3fa5860eeb726c9a8fe725c2931a04147553" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.321" size="36714" crc="d736c281" md5="f0dd7c7c451745af4e175607719e6c35" sha1="40ea3547ecd6b9de3391fd49c449f2a307ef94cf" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.322" size="67802" crc="4c31c59c" md5="21b08be0622cefe35915c72e3136b158" sha1="0b858fbbb856ccd882ace0cc1f6b963b2b070686" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.323" size="34474" crc="cbb779ba" md5="95b0628b6bd7a75cba7f5ebda422652f" sha1="e4f8c06a39073c3a5da35051ecefb0d81b9543e1" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.324" size="33914" crc="80c6a055" md5="def3dc0227e337e5a8d66a81ba360814" sha1="92548721e8e889baf7cccfc601403321bc499c30" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.325" size="34474" crc="9f62765a" md5="15ade72aa52c68d8b0be97ac2edcbfed" sha1="b4de7455d8bba56ebcc6a5477a837d4e024075b6" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.326" size="34474" crc="e2719832" md5="848dc7c97e11d283bcfb5594359491f2" sha1="8427f7a93105777e4ae4faca846da8023ce48b85" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.327" size="33914" crc="ea25499e" md5="986cdd65282c9b8a2025f98c42c260fa" sha1="28579e21efda5590207ca477f7e3c63e9269b14b" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.328" size="35034" crc="fd19af4c" md5="d8cc2e68e6d827be7faf434a2351008d" sha1="25c7857d0584803ac26e31f35dec27f4c1e37264" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.329" size="67242" crc="316dfa94" md5="8e3e5b4ae08e588b15ff848b111de49a" sha1="730e13a35b7cd32ad54f971469b4f4e60893683d" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.330" size="33914" crc="41ff9afd" md5="c2be6af566b4dc6226bcb5e38c24c00a" sha1="663e992e9a0fd028f87b73c663d0122216d8c241" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.331" size="35034" crc="59880723" md5="8ad5fa0409227c942c1d59dc944f10b2" sha1="29497b2a63c0f92ff9fccba78f52c12ed8efcf6e" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.332" size="51418" crc="377a7d02" md5="67dd3027237a44ee6a1f801e6d6b8b8d" sha1="6228a932d9bbae69688414b71c8a9c363742626a" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.333" size="225498" crc="308b6a99" md5="8f74d32a83dfb0f365ed188ce61f1841" sha1="bbd7282f54226e0590dd950e8f9217f133ae7fb2" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.334" size="52210" crc="f359d669" md5="536680a87ae47ebafa62b7e80697e536" sha1="6d515cc4b5fa78488ee0e7bca10989900028e346" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.335" size="81594" crc="287ca0e9" md5="735ed8c6240b6050e7c0fe6416fcc26b" sha1="2509b29b1b5f2a4c2bc95248c6f6096838f3cba4" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.336" size="29562" crc="ca0190de" md5="d52cc01f20839f208056e489e91c73c4" sha1="9e7161a8b17d7fa4d5d97778a233106edd25390e" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.337" size="12770" crc="e3a6e4b8" md5="2a61a2fdc5d6a08dd1a82c1f6c6e84ff" sha1="f805c306853685eb5c33f6586275096768c42cc6" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.338" size="326250" crc="899a0c01" md5="7fb6421cb4935f2958eb8af768a56ef7" sha1="d3e714278c00a96f392906b296b0b27f05d0744d" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.340" size="70042" crc="0d7af0ac" md5="9b0781c264bab266003fae5b025ed088" sha1="70808de34df627d6e7bb446097fdf8cd24c4fa43" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.341" size="17530" crc="3e3ae2bf" md5="f208bd5ec19581509870fbe40957f361" sha1="c05b500c79ae4db5b40daa1b02cff5c6930d7672" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.342" size="138378" crc="02bbd7e5" md5="aebc2694cfefff94a93e38ad62189e83" sha1="188bdff06df8a40e4208679b7e73c3322bb4c75a" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.346" size="70042" crc="32139fb9" md5="0e5c4021cdd8b0496f36ccf9d95a99d5" sha1="8cdd6fd6d9dccfcbc4600787e29e4fa005a913e0" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.347" size="50890" crc="2920a0f6" md5="d60f0d8531123a4114d83bf824684f32" sha1="54e10f8c03964508ce6da480a1f2f5e11bbf9b9a" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.354" size="37834" crc="d38ff897" md5="ddd023f1a7d156cd6da14e0f896cf2ee" sha1="27ea0c12720d3b3bcb63985fac4a70f6626d2f75" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.355" size="56522" crc="52bb1117" md5="a1afb6ce6436967cc18ea9fade8832ab" sha1="1fe4fa4bce006a43fad5bd188a0cc00a9fc560e2" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.356" size="48838" crc="d6366a6b" md5="c3581a71854aad79d1d13eb69738b2c7" sha1="c89dd3b027e6d8866467501c4dfb125a7399dc53" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.357" size="1511" crc="50a54043" md5="a14cc491adfd2ac33eca60c2fa0b2e49" sha1="dfeed0a3dcbba572f8067082dbe9aef0af8794ef" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.358" size="97570" crc="801afcbf" md5="0bcceeac4b56fe645adeb628e82f2937" sha1="49577b135773b615f73a871699d757ac8cf851d7" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.359" size="14222" crc="b4effcc0" md5="6592e3c4f1197ccdabc2d2ae9b969e80" sha1="85a796dc4260ce9039e3316aaa22ce958cd7e39b" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.360" size="52064" crc="29e1be16" md5="4a5da476940c045ebea6d5c7341ff41c" sha1="f11ed43d3f17cc03e55a78f2e945b993d499db3e" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.361" size="32986" crc="6bf3180c" md5="da46a6d39283a7837253bd5a452689f2" sha1="286d5f64137193563391b4752f2b6e23b696a173" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.362" size="29642" crc="5072dedb" md5="b0d958f211070f535da2d7376f838129" sha1="7ec4194512acaee0fb497431283c11b90f029063" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.363" size="37184" crc="4155eb15" md5="2d2f33de74a30da8b2f6a3ea2ddffbe8" sha1="17e0a564d72ae00d690c1cac625f752f89fdc55e" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.364" size="21081" crc="5b54cb3e" md5="c8dca9617742a18bcc0249cc5e4ba539" sha1="84ea740151e44d1d8c0027a5d4457025f30ea208" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.365" size="14738" crc="2cdd07a1" md5="c3bfe657d960337d971ac5a347b8d638" sha1="bc76336aca7a100ee0d22a4792d198ae2033aed6" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.366" size="71797" crc="f6ce5d1c" md5="56cf3b11d9af0ada1c8a06b8c3095a40" sha1="78abf704cccb85450e2105f2aed7d0245518a212" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.367" size="21645" crc="e77d8629" md5="60def1a2ac5ef9035ee3396594a3c4fa" sha1="68d883efaae8db619dc7369a09d487a520135c37" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.368" size="24890" crc="ce503796" md5="57e5682a7b500c42aead34663881ef19" sha1="338fc99e41631bf3ba78e20440d92d10d8170ea6" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.369" size="49610" crc="99e2ff35" md5="5760ed566ab8b2e7dcd39acaeeca84b7" sha1="e3d9e43a57f9c4c3cb1bebf4ed61ad4cbd08b612" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.370" size="14890" crc="bc996f12" md5="b41b638cc3e049b7a461e15d4d8a816b" sha1="178d1b05c0e3288f72c6f96816aed2d40dd05906" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.371" size="33034" crc="3cfb427f" md5="76c7d53ec482e6dc6c5146e5face5ffd" sha1="f3918c8b5b056ebcbb1f74b5fe7a693b1f2da5fd" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.372" size="28522" crc="85e1936b" md5="1574ed04fafbab105fce4f18f074fb74" sha1="ff90c104ef4621c072190ce027dd0cf1ff1f74b5" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.373" size="44730" crc="6483f2a4" md5="e5d615f7bf29977192cb3fc848919c2f" sha1="450b3e74f53858c2c7f04496e407edb34d2c7a34" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.374" size="47562" crc="d8be6870" md5="da8da588a8807fbd17b0c948e19d5c4c" sha1="d486cf28f7aa9a73dd0f466f7d7f34bceba9e3b0" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.375" size="44346" crc="c58a7e2d" md5="2eae72f2ba98444075d126e95322f6f9" sha1="bb758265d2c049418eef88ac32060b31e14a1453" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.376" size="53098" crc="e4fd0f26" md5="44a8ea55e3d429ecf388e2b6f7a3b14a" sha1="5a8623beefc26f2ff58ec47c8b8a5bcbb181ba1a" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.377" size="49658" crc="cb0f261c" md5="5be535d599aff931c41d1715fa61b1d3" sha1="f42fb767b9ba77bf3e66bc691b5a444263caa49f" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.378" size="71162" crc="2914d065" md5="9489ddb53f197c242947271bca10f3f7" sha1="4a44415a94295645437f8b0ed9b2e84ef71ed4e2" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.379" size="84266" crc="dcb84119" md5="6085027fb036a91e4e68854e19957c3d" sha1="b09a004a943e04fc87e0acbf893ee5cf9d508558" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.380" size="38954" crc="eb52b61e" md5="7c6675895ad7ef9697735d5c0442a99a" sha1="fea1e4a225ab0efa31cadb76189c0cb15d1e0479" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.381" size="46586" crc="30241ac5" md5="c4b1d01e2c04d71ca1cd847908e737f3" sha1="20daebed7663cc702595fd4d8e9e64c7b32ed424" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.382" size="40074" crc="48798ad6" md5="4c763288d079277f61753fff6568933b" sha1="98cb7e5b84b755edc3ade559cb231d5dafa90039" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.383" size="55898" crc="35fbff45" md5="3624411d95588c7b934941e014d43d5b" sha1="b9fc261056cb34e422c3484fe59a6945085cde0f" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.384" size="4410" crc="c8037949" md5="9c9e5cbd9f7937322695156ba94d4417" sha1="e80e02171e0711816005a63dbdf1320d7a3098ce" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.385" size="12890" crc="4aeebd11" md5="c2c3221f9b57a5f134de556038b92679" sha1="5ce5d7679c5e2e4d0b384836107035720c0bbd8a" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.386" size="42314" crc="977ac929" md5="b9466003847552b038bf19dd23e3fe60" sha1="33b4c134b1fd94554dd27a525914410010721809" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.387" size="18090" crc="5f62af36" md5="c632664fce0dada66ab2db656f13cbe9" sha1="a251a907ed1d83bb06265d4768fa74e184375321" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.388" size="17178" crc="4cc9dfec" md5="968d01b960f093166b6ae42e14db3b7b" sha1="5fd98a83f54588b40077400fc2e7e1724ff0aae0" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.389" size="8458" crc="738860e5" md5="b39389a9b03df2d45022a4f8319de536" sha1="67e5fd86153bb877c4285daf379fa6d06176f654" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.390" size="49386" crc="2c768d9b" md5="02155d240a411326fc66c13f2415c8a5" sha1="95f961a6d10710429c07a51518e12fe41b0219d3" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.391" size="31322" crc="3e0db8dd" md5="c0a6f53e28326336d2891e59b401d869" sha1="10ccaed2c6b76b0c07e86867c6af92bc559a7f1b" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.392" size="39978" crc="f6303710" md5="f37ff3518ee86d423ad24c3d7a4cb5fe" sha1="b3935c2ec9abc12b7d33d0b425304e4882d887b0" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.393" size="52538" crc="45ef644a" md5="2a31d01b6cec35a17f606c14b2b5c064" sha1="0007a15618c13feb0e95157caa92d63fa6f2ceea" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.394" size="54186" crc="7dd292ba" md5="f6359ed6d78ade4b7db0d4ca218dac37" sha1="106c7a46efa45b3963e1945146be4772f3bf9aa7" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.395" size="16602" crc="2efbbc5e" md5="8c92bbb08c3815b645c560bdfea69aa8" sha1="323a7f5fb06dd9b268d4622b0289bdb4b282cf53" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.396" size="38954" crc="ee80adbe" md5="086093dc8442a3746381a68e3330b163" sha1="4a302f45dda68c51f5b8346fcff278f4195674fb" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.397" size="33914" crc="9a808267" md5="a91a5f3d0e483a248dfc0e4fa6d79a62" sha1="51d9314a1cd51b05b928d958d06486b72c21fc46" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.398" size="33946" crc="59322472" md5="6fa3844f848791583fdfca374b24bd92" sha1="10d851d24cb6865df9802ceb05a9be768aabc179" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.399" size="20746" crc="e5d3b30a" md5="512a6174e11e2eef5caa7255e39de4fa" sha1="86f2aca4c70b078c481e6706a2d60d87b1102304" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.400" size="20154" crc="57645cb8" md5="7de987ba0abeca1fc072c686fa627a0f" sha1="8e65abe871ade11574f1fabde1da0deb2e3c6417" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.401" size="20714" crc="db5e79d5" md5="c713a5bd1c8e3e543ecdfb166f52c84b" sha1="3a214b0f664c3d0e8a50fcd7fabf2a222aa86332" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.402" size="19034" crc="c1bd704b" md5="4ab4f9a0fa4f7b5e06d48407c32ed5dc" sha1="2eda6a80961ea3d1432e8f59a0aaa56efb85718b" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.403" size="14346" crc="07159917" md5="fb1376edc941dff6fe4240c19a60c10e" sha1="cd8548ad6f4b0655f5018cce659b6d3797d17a48" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.404" size="49162" crc="6f3ac44d" md5="6904662b0a1bf74ef6117012ac4577bb" sha1="16516f0ea82ffbcde1f3e2f07586e0b82f022c36" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.405" size="30586" crc="7490dbde" md5="974da4b86754b62913945a3626d5c18a" sha1="63dd1ddd047f58b60e6859cfdda3cf48076cdcfa" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.406" size="54778" crc="50f9a9ad" md5="82fa8eada9313faf01b0800c68973ed3" sha1="cd120cc3154bb3a1f549c5878d163191a321291f" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.407" size="54778" crc="5921d66b" md5="a95e0916d8bb237cabff7263d1d48faf" sha1="478e7a44d2325ce21d9d8d05756f738a2efef0d9" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.408" size="47146" crc="0d2f729b" md5="833eec00e945b8304c84a3178407d1d9" sha1="eeea9d373334a341974ae4a8186af4b744c6dd2d" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.409" size="10458" crc="19ec4eca" md5="ade3918a5e7518ccd6a33ece6edb3885" sha1="5e8f4189cd3ba449542d15894c618e81e74caad1" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.410" size="55898" crc="d21c6567" md5="c73de2cc6dd689bf6a8047502273638d" sha1="9518e477299470943c5867e027735095d2bc6ad8" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.411" size="66042" crc="9227495f" md5="087e125760e12f659c5d70230ae96983" sha1="1df7e94938850cbdd0db328d0139e04a1eb449ec" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.412" size="57802" crc="04072398" md5="9c58671f3a4127066ef965e46312651a" sha1="009e2a0b7681d18534ba560a807e5ea64218aff9" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.413" size="65898" crc="ecf96698" md5="4ad81b81130ed8498ca2ffaf7294fc8e" sha1="9d61d731105bc1e808912bc005da5f1eb1261437" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.414" size="65994" crc="8843c8e3" md5="744291104359bf858d7e2f47328d1364" sha1="511da779ce85b72bf5c9d3678cb3bedbe31b4288" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.415" size="33082" crc="4b5ec399" md5="6065083cbd13860798b1fcd03d360a8c" sha1="ccc90d6fbf3025a8524cfc03aa9f76485a69e050" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.416" size="17530" crc="f654b390" md5="6d3315236658501e8eab6f61c09fae64" sha1="b7e369a1f345f7acc98836eed84e1ffaee00d527" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.417" size="25674" crc="2237fcc3" md5="a62f5ba1fb700b77ac5e23272014a346" sha1="de72c622f4e1ccf7a3aaed04cb91ad765549ec52" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.418" size="16458" crc="2bb4df6d" md5="5ba2e04f9bd8ace391446c6585b38333" sha1="f751288d818c88d01fee6116663d2b74dbe54c9a" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.419" size="16458" crc="584292fc" md5="b5bbed177f08f8a6c316acb96ab4369b" sha1="6081f66a6869591c468100022eb139b41122d656" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.420" size="43258" crc="67abdc8f" md5="2da44c4a6435bde5e2dbc20dd7bb36be" sha1="91779bfa715abbc0ae9e62df0d835834d5de9ce7" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.421" size="4266" crc="42f5d578" md5="c633db446b1a00b031669ed9ce2a046c" sha1="d2d857673837e915e6cfac94bf91690f2dab59a6" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.422" size="33370" crc="b418d76f" md5="ab362398932f8d32f59e1d819236eb82" sha1="e96ad4370e702339c5e01417c8b53989537fd920" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.423" size="49850" crc="7930e30b" md5="3a14fe246b060a4cfaa6a3d3140f7ad5" sha1="59ab33e455be4a180e8df45af2c03d545098aee2" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.424" size="16970" crc="510ebdb9" md5="48f235608312e45dcaf66d0fd148e1c9" sha1="94757b607c313b980d60bfbf60170343e0747596" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.425" size="48490" crc="3201424c" md5="231f6cee599315c55a5f1e2fe5a62c71" sha1="42cbd2883fcfc8f9bd00742a814b60308a7f247d" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.426" size="9338" crc="6f6c1e19" md5="6952042d5242167387762c938f7a127e" sha1="f6c95ff69b32f7eee17d74c12b5fc4652f3b97ac" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.427" size="35034" crc="e1219d42" md5="bca04e1f7f325e30e862390ee09933c2" sha1="b360e5ac0721479bcbd6744f655212d917ea6aa8" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.428" size="8362" crc="1937044f" md5="1020b41924f86e73723909ef9e022a0c" sha1="7e1c7e1cf77224fca60ce54762eff3f6553b4552" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.429" size="16554" crc="6ba4687b" md5="7bbd53b9c4943cc1ed0cd0d86302ac6f" sha1="5333cf938bbe897d40fadcc7abd36904c8fa8a09" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.430" size="47146" crc="f60f07e3" md5="f8e2d9b4a94271db773b5aa53b823158" sha1="4e499c938e91ba1e185ec93aa6d89b2435c21e04" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.431" size="32986" crc="fa6f9448" md5="455a2f7cf6bd8719d725176ae7ca3495" sha1="503e03e961c98cc8e6487c1630c5a113027ca5a0" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.432" size="32938" crc="fb6eb0a1" md5="a2bc68008a70f9b0b594f9e9196f2d88" sha1="faf50882ee0eaf6efcd4766d7ebd7689eb1badee" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.433" size="32938" crc="24024501" md5="6a76d6f036dfe8ff48f705ecf03c5e7d" sha1="07f100dbd338d4945f57cee7963aa870504eb50b" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.434" size="48090" crc="e8aee726" md5="a78061f7979c573c5e529ff46dd200a7" sha1="72d950c7aa59cc581ddd90cc1925477b1361012c" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.435" size="18090" crc="e60188f3" md5="58cc07ad0265166b3701c57680745050" sha1="e74dd490368ab50e8668db0208b5c063dd748be7" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.436" size="13994" crc="ad57f387" md5="d623276258035f8228be393aa5364d33" sha1="0851c2fb073ab45ea22aed26d4c9acb669d3e9a3" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.437" size="21450" crc="8871d6e2" md5="f40b8b8170ef4a46ff9ded8614f52bfb" sha1="a7651caf9a021d37fe24e00458409bc7964495e6" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.438" size="35418" crc="bdcc7b58" md5="51f2e0a652f2e251175f28c71b7d6890" sha1="c6ccc77c850e136766b8d9cf7ed8ce71e3059af6" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.439" size="21034" crc="c3054d46" md5="136d16f4c0d66c855ae206a5ea9f42a0" sha1="faab9623b1e8cd1cdc90f2177c1d517d2bf06743" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.440" size="42298" crc="f09457ea" md5="77abfa6b2fe29fe177f28c60df4db933" sha1="6534db23b0c7544b02a9d8ecfe47c50287074014" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.441" size="8506" crc="4a219e4d" md5="aac9e080a107d8ca37c6cf6bf1d9ffc0" sha1="36248ab3036f85c2721aef98adfbffa14c488917" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.442" size="25546" crc="47cda6e7" md5="ded165945008dd4b6e54e563f9239502" sha1="479380e77a34df068ac064b60134862f1bac6796" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.443" size="12650" crc="00e88cb6" md5="04712226196b1503ff88e92dd43b7591" sha1="c2ae6394b1d351a15218c7d131f5b8b623c66351" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.444" size="35594" crc="4d7256a1" md5="990dc3f8d1e3a57740d63bed6010208a" sha1="ec379112dbf8567c33756ec9878a81c98156f961" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.445" size="18090" crc="b3bf3b6a" md5="b5ae702fe27656464c00e7076b870df2" sha1="44db9473747faf4ac78d10480032dea8b0b004bf" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.446" size="37274" crc="87e50857" md5="0e6bae20e391bf772bba4d078c361ad7" sha1="4f378cf7626ae28513a1753e30a38b01969b9794" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.447" size="53658" crc="c2890e66" md5="cbc3f1b3c2c3855d5ab0f67436d21e6f" sha1="d762a6603ecadc9bb6475f4c4085e4afbbae0f69" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.448" size="33130" crc="0121fc02" md5="9aab8414c115d24131d9433e188c12a1" sha1="9ce9f2e39564dc6a63cb39de232e3b2be4645fd1" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.449" size="33178" crc="efa17591" md5="f2d6c08850639129d1de84fe312928ba" sha1="c3b66a4c29e74d08b9ad5be98f830b048c523a7b" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.450" size="33130" crc="2aa5c83e" md5="e1da3013d5019b3c57bad84dfb175eae" sha1="85f0da2af292128a2fd3a168a161cd7f8839689d" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.451" size="49562" crc="172bfb5d" md5="cc94fe9985b9606f527369bc073d0f08" sha1="d5e2288dbbfd67806ce025ba3ff5cb090993f0e5" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.452" size="19594" crc="81279994" md5="ed7803c821157681ec37409a13f3f6bf" sha1="4c9646a4ddb0a703e23a9d920cccef9dadc26832" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.453" size="36154" crc="f3830b37" md5="a99041ddea90a83c5425c19bf5b179d6" sha1="6542b227babaeabdd47c22053ac9d07cf21cdd95" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.454" size="35978" crc="306fb108" md5="b86d17f71941b6f2a6713d9539f452ce" sha1="b8fdbff19814c7dfc86c35ad15f6721c39502bd5" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.455" size="17738" crc="a62cb54c" md5="e5b53aa14081b909d9936beed32cb8c9" sha1="4001bf5ffeac790688680f7b77676dcce744a712" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.456" size="38954" crc="b11ad191" md5="f7daa823bdc1abe2d312b5e9b3661fa7" sha1="9297b484be9f49cf1f41ae54cf862d5e133f0217" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.457" size="41978" crc="24436c9f" md5="eee61cb5e1f2ee50c43726ccbac5c27e" sha1="feb4f31f4712288eaf91ff61667387f63f1a2033" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.458" size="49370" crc="ba6141ee" md5="a28ca8ca40a1dda42b88337a3e4b9a34" sha1="6ab4c5a3eb3b32874ba91ebc2a0e9c2f3b8915ad" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.459" size="36154" crc="8948429d" md5="b74bdf8ec3b35f68b1d4c2ee738a0050" sha1="1927e002a6882a8a60c142fc9b103e599105035c" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.460" size="51978" crc="ea7e6c74" md5="39d7748d6a51643a846b534ec2402c91" sha1="7b9ce489f4c5728778e42864b35b2a8c3bd2f4e6" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.461" size="32938" crc="df11a565" md5="f4bdba240a3d50344bfbfa7cdb7d1a68" sha1="eee2eefb3a89289fa329df24d38daecb9b8b1711" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.462" size="55898" crc="486bf793" md5="414615200cb28c8908c166ab1bd5e02e" sha1="87576c867e2d1729652f169400edba163f8deca8" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.463" size="67258" crc="1137e9fe" md5="6619894b07455e13d514658c22e52295" sha1="e6f8da1cf4b0be6373b1eedc7a50f4f1e8aa2d16" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.464" size="18090" crc="53545caa" md5="e826d373ff8890dc669cb559ae2fd389" sha1="c24d03a01552dd90eb590b6b092cf82bb1f13b45" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.465" size="33914" crc="f0c1ea6c" md5="71523de925ab028123449fa079b976e8" sha1="52c04f29f2f4dfcbe9d13383e20d098155b0f677" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.466" size="17530" crc="686ddd72" md5="b86c668f81d9bce61e8dec61d30a2085" sha1="eba77c4545dfa92bdf6243b112329770d9252f51" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.467" size="50858" crc="ae9e4311" md5="8fdfdff6fe91178d40cd403978ce0a5a" sha1="22160c5637140186a885b451e824686f72673cfd" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.468" size="34474" crc="00501cff" md5="c9bbb623c3d1b1e36507e3f2bbe8b8bd" sha1="1a3bca68da91543315c17b5b28cafcc4d82d9b7f" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.469" size="18090" crc="2619a72d" md5="9eb4b211a30c0872a5b7953c3fd6f62c" sha1="c571d5977a454299e0e5b7401e495f864c4ab04e" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.470" size="50858" crc="50caeffd" md5="d879895a4dfe907ef4f30fa462dc80f7" sha1="9c012194464ec4c7f97a8007ba3c732f5d6604b6" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.471" size="67242" crc="2018d294" md5="d2e6e7def6403c8d02c89540bed364bc" sha1="5f78a775358066c24dd42c1009d9d04f60b0b575" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.472" size="19770" crc="cef6711c" md5="6d1fba2f0fa5c6c9c4b301cb17596d09" sha1="ccc62a356e8353d236f0500ff285b90784861bed" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.473" size="36538" crc="f220d12c" md5="b8858c331a7847aba5590a8a8228d017" sha1="bec35623065f6bbf392f616e637edc407b9d28e3" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.474" size="33914" crc="4e0dddcd" md5="caa4ef485cdf475c6f5cb1f0a1089ead" sha1="2346121d2552823155c9d9f5258bf993dc8edfc5" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.475" size="34474" crc="f8f32c58" md5="7a590ede06ee6860325e1cfbe6748e41" sha1="03c250c4456b438ddf69018dd43b5631c16fb3c9" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.476" size="33354" crc="d9b0fac6" md5="2d82c2978625147a1417aeb16b5d6fe1" sha1="4f88f76e128293ded7f5398448ad33c09549a592" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.477" size="18090" crc="590251f3" md5="e813509df9fc1b38d1e27d74b0c4ad9b" sha1="644a6101d31f48fcd5b94967542ad5fdf790a93c" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.478" size="18090" crc="a165ad7d" md5="1ab4b06c53e31828467ede14d20acd5d" sha1="4598c446151e260e68fe70fe5454d12dcde32365" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.479" size="18090" crc="1b51cff1" md5="be3711bb6dbf7119902886498d10fa62" sha1="59c0be9582ed9cad031aadb7c40b02551b18f4c5" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.480" size="17530" crc="0d1c5fe0" md5="1483f6606afff9ba9d31f6268efe8735" sha1="3118cb24a9e795730e3e8d4137d7762e18e91a12" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.481" size="67226" crc="37204d4a" md5="a47040c15ecac695e3962100fdbe8892" sha1="1a37d80cb966cc5a63ffbd6066a55caeac8014d3" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.482" size="34474" crc="f0840ef7" md5="aff9d2e4702f9fd26b28faed78ff1e73" sha1="4a2ba3096146aa3dfaa65c6b7432d5256665edcc" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.483" size="18090" crc="6332fc44" md5="45c1c012ba4cf19f258731415f949e5f" sha1="74126d12df6525f38a40a08cca36b5fdb4445f5f" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.484" size="18090" crc="a1238305" md5="5fadddbb492f2cff905f464b62695cb1" sha1="aa57f2ff692cb5d61364f224e9ac7790831331dc" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.485" size="25930" crc="7f0b2089" md5="54a592e790a439556ea04da8c1a8d7c1" sha1="a80d43de77126616c349241e34ee87134cce291f" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.486" size="32938" crc="3e279524" md5="70e8ed3cf9a5acd88cc7ef3343183d12" sha1="7a719b7498e196a464f812f50f4990cd27bb5f0c" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.487" size="32938" crc="740afedf" md5="a645e042710068b48dc8b015ec904074" sha1="9a0c7cef37bf3651a2fe97875199a5ea48c70227" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.488" size="32938" crc="41c7553a" md5="754ce8b268e11b8c5e2b0d90f775675c" sha1="8980d990b83a821222ba3080b16e0fcf0962c210" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.489" size="32938" crc="315c55e9" md5="73222b194988994d97b584d70854bc67" sha1="fd066e7ee0e46f9b944f78a7273e3e0d047a106b" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.490" size="32938" crc="1e1835bd" md5="56a3d146c9dd0e2e99f2febd4f3b66b6" sha1="d43b103006043664dc27a2da4277d93b86dc7d74" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.491" size="32986" crc="717f75dd" md5="5f9439584901cc93f9c5a85c68b73ddf" sha1="98c07cbe17885195df49d33ab509f22049c70b3c" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.492" size="34474" crc="2847a3e6" md5="fcecfcdac4d8bcc92c631c23758cb713" sha1="1f28a5a2a5ffeb19a68ea22cea09389803a7b174" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.493" size="52538" crc="043acad4" md5="a68b4dc78d011cbca2cdbcafd6288681" sha1="b90c9995e120d52763802b436c824f845eba6d93" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.494" size="66698" crc="7b9bdfad" md5="760f8d80db5d0b25161aa0ade8241749" sha1="ec385d02473376700e29a98da7c3b77936dd0e42" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.495" size="17530" crc="5cb7c3d4" md5="05fab6c5a0d9cf7a7b2425d2e96b469c" sha1="c00f888211538a0a9e5055a8a7feaf5d398d47d4" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.496" size="9338" crc="51dc5151" md5="2328374181d8a1ad74f394973ef149c5" sha1="aa9556ae80633b81c93e973d3eb601d9dd5d97ea" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.497" size="33914" crc="feb6b1a7" md5="cf9f618f0ef5e1fe4a4c21f0b2b6bb39" sha1="164a7f26540aaccaf4ebe70077355f1d3f3a2d6f" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.498" size="17530" crc="3386e587" md5="5306c5b0a3a02106b24cfa6309bdb6c8" sha1="b447af0b5055f4d25d664edf1dda142d792c4b9c" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.499" size="33914" crc="477aadd3" md5="dcbe88729007fdbbf48e5770dab6f5fe" sha1="0b7510d7d167a0191069c1f7d446c6d2c31a763e" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.500" size="17530" crc="b10c7291" md5="935cca168dcb67a375a1510f40e28ba2" sha1="698f10738d1c5e2f8d8a9adadaa8278a9fc188be" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.501" size="17530" crc="75e042b2" md5="037e70ec91c6ff60ab6b5896fb63cc19" sha1="e78f5cec5f1b26c69e9b5b4c485423c63ab43f92" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.502" size="9338" crc="70f62205" md5="b4c10d0fddae919d01dc90eea532f94d" sha1="129cae62976b05fe78f2babd85df45329d719fa0" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.503" size="17530" crc="1003918e" md5="2100ae20920c1219a44586ccb7b579f7" sha1="2e85f1cee70c95a648a6e14aa0e0474ba46893f8" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.504" size="34250" crc="2d17cf0b" md5="e708dc4f9fa89c71459b20efd0054173" sha1="33087fa2378c85007f1b65fcb21a372ff8734965" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.505" size="275258" crc="565f19cd" md5="1a16dabbc622c2e69f49f11f815c0d9e" sha1="d5e4d150b62376b6838a1c33e463d89c5cb21536" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.506" size="33354" crc="095d65e6" md5="09614f5044b41d0c1c442b7688231ca6" sha1="7eff44e0c67b1587f2b3e14fbae05d7cd84dbc73" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.507" size="46138" crc="4d9d0590" md5="4df959a40204d09672b3d0c1a6573656" sha1="a5808464868cd962a0e6c04d4f10e73b28a01073" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.508" size="54778" crc="b23e3e74" md5="4a86556e9b9f916c3d0463e474ec5be0" sha1="c12c3f0015005b8b8d0f52fae3481b952d67f74a" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.509" size="61674" crc="a2b04544" md5="34ba47ef3b0bbe8fbcc038a985f0cd8a" sha1="a9db182f6e47673e481ba8236c4592ebae3602c3" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.510" size="73402" crc="4008d935" md5="828eb851fb2ac893f8f0bae231519558" sha1="2ec015c01a64040ed860c071b8afcdd2944eced8" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TEXTURE.511" size="25586" crc="6839a0af" md5="153af4e5d38e87dd09ab2ad1177f552b" sha1="a40f375f4793ce40d50c85139faa58a1b74349ef" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/TITLE.HMI" size="9968" crc="0a2a6f7d" md5="5c1226bd0c8ef7c473003d8d5cb48c8b" sha1="0a8b797708b67d00ffecacb2b722a2ff9863c2f9" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/WLD.200" size="263432" crc="8e47961d" md5="1bbed26e8cae48e2b2d7129358d26007" sha1="84aaf8d02662472a266583e2a8b0f22f00958c8d" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/WLD.202" size="263432" crc="8e47961d" md5="1bbed26e8cae48e2b2d7129358d26007" sha1="84aaf8d02662472a266583e2a8b0f22f00958c8d" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/WLD.210" size="263432" crc="e684a52b" md5="15c957137c22b73ce210367c0a2b3aef" sha1="737d149246bf85bf433a3e3841910ec6736ef3de" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/WLD.216" size="263432" crc="d88a51b7" md5="d5d4a5bbd525e55a2299736809d5a884" sha1="5a9f6e0d720a9647ae5c2992679d165901e2aa13" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/WLD.217" size="263432" crc="d88a51b7" md5="d5d4a5bbd525e55a2299736809d5a884" sha1="5a9f6e0d720a9647ae5c2992679d165901e2aa13" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/WLD.220" size="263432" crc="9660191d" md5="e3880371cf7a3247636a94cb8b45eb3e" sha1="0ebd0e379b54bb4c17cac3dc9ba18819432959f1" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/WLD.230" size="263432" crc="3e69e217" md5="34dd667a9cd05a732f72f71dbc96949c" sha1="bd900a406b0b7167d65b1084c8bf7ccceaca8cc2" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/WLD.234" size="263432" crc="3e69e217" md5="34dd667a9cd05a732f72f71dbc96949c" sha1="bd900a406b0b7167d65b1084c8bf7ccceaca8cc2" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/WLD.235" size="263432" crc="3e69e217" md5="34dd667a9cd05a732f72f71dbc96949c" sha1="bd900a406b0b7167d65b1084c8bf7ccceaca8cc2" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/WLD.240" size="263432" crc="9f08ffcd" md5="d48c9b748f6f9a884157c971c672ca5a" sha1="709a957bdd72f994fbe13e9b33300b51645ac554" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/WLD.245" size="263416" crc="c3eda1ba" md5="2ebd17d78155b4be2ce2ca0274404645" sha1="fb3d3145defef30705b4e1c8fa9e422164d99591" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/WLD.250" size="263432" crc="9f08ffcd" md5="d48c9b748f6f9a884157c971c672ca5a" sha1="709a957bdd72f994fbe13e9b33300b51645ac554" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/WLD.260" size="263432" crc="c847ae11" md5="40054c454523c8119fb18c00296fcae6" sha1="826b1352de594a5e1dce66ebb7a70b49ffb3cfa9" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/WLD.270" size="263432" crc="b3505842" md5="8e6e66844ead11fb544060a7d0dea408" sha1="0cfb95d9bd7675f9152ac2ba3d930ad918d77993" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/WLD.271" size="263432" crc="d28a9ccb" md5="fa6fecf52071ba9c09710953ec0fe2c1" sha1="13de5ee7205e81d482b2bba2232a4965cf6e569f" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/WLD.272" size="263432" crc="6c4e9225" md5="ece23683087b9a2135276421a0ada6d3" sha1="edaad3fef1c4fc34e9a0a42bdcdcab503b852c6f" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/WLD.280" size="263432" crc="206189b5" md5="39637b08cd4492bbc22536bdbe965109" sha1="c6574b589cb008a9482b35e71f43069cdaa7ee62" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/WLD.600" size="263416" crc="ee502961" md5="549c227c89e36ab95fbe3a2427c0a0aa" sha1="b181535e894523211081da497f0fab19b24cd934" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/WLD.601" size="263416" crc="a506081a" md5="53e831ae562a56a54df124f6aef715cc" sha1="a30716e0074b941d85f5bcd57c6d1e1ae05d6b8b" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/WLD.602" size="263416" crc="787343cb" md5="7558933378408713ff0ce23b7d39bc1d" sha1="8cb85530656c1689cb26299e0a650bdbdfc33d9f" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/WLD.603" size="263416" crc="71445a9c" md5="b752d32509276d7f4aaf47e29353de90" sha1="46236f5b5b3275fa110d6749ee4e2f12668bf488" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/WLD.605" size="263432" crc="3582a260" md5="27ec8547646bcd3c1eef1ebf7726a645" sha1="e4e503338090aa148055e6cd956b36e0380122fd" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/WLD.606" size="263416" crc="a9634a82" md5="70d2250d57e45bed7b0235f049f217c7" sha1="635d386943780ce8e6a577034cc81412e22104d0" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/WLD.609" size="263416" crc="8c6e1b94" md5="c303899a56d2ae7e28e6cb46c2b0e177" sha1="437dc68ed16d6e5fa11a8f87ec2a97f31d005d1e" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/WLD.610" size="263416" crc="ee502961" md5="549c227c89e36ab95fbe3a2427c0a0aa" sha1="b181535e894523211081da497f0fab19b24cd934" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/WLD.616" size="263416" crc="8c6e1b94" md5="c303899a56d2ae7e28e6cb46c2b0e177" sha1="437dc68ed16d6e5fa11a8f87ec2a97f31d005d1e" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/GAMEDATA/WLD.696" size="263416" crc="7a21f3ea" md5="2fa77828f131726b18fa05f1095fad50" sha1="ae1b06c5107f262ed58da8813a5e45c6e3f8eaac" date="1996-10-31 16:11:54"/>
+		<rom name="GAMES/SKYNET/HMIDET.386" size="83774" crc="ae8d1a06" md5="b6656f8af855be3184d2b9f10de91ef5" sha1="c3b75ab63273edfed1bb15acf59b321102781a96" date="1996-10-31 16:11:50"/>
+		<rom name="GAMES/SKYNET/HMIDRV.386" size="317317" crc="21c398b8" md5="2de5f490362469628841199644a38e02" sha1="32c89e02cae4c33d1c0b93562f4ca0fe86c4a199" date="1996-10-31 16:11:50"/>
+		<rom name="GAMES/SKYNET/HMIMDRV.386" size="117852" crc="833fbc45" md5="642245e78d1584edbf7cc21ca05c4992" sha1="f6b1154e9f1e5c3e191c68a971bd66afc1b45290" date="1996-10-31 16:11:50"/>
+		<rom name="GAMES/SKYNET/INSTALL.EXE" size="416600" crc="5471789e" md5="a80ff5dc855c8ff0e7a6a7ca71d30cff" sha1="2e849914470a248882ac4f1b5fbe3b1b82e2cfed" date="1996-10-22 13:41:38"/>
+		<rom name="GAMES/SKYNET/INSTALL.PIF" size="967" crc="f51c0856" md5="6a777ebad78b6e6983b8c056e525d282" sha1="bb0c22e5f5ce2c9900093807423d35cdb8b59b8a" date="1996-10-23 12:44:04"/>
+		<rom name="GAMES/SKYNET/INSTALL.SCR" size="10023" crc="c3b7ae35" md5="214f244ebc1e3f577183a65fdf583caa" sha1="0e59c8e428a95d8f8d65486e1230d2ca8c8b6409" date="1996-10-23 13:05:30"/>
+		<rom name="GAMES/SKYNET/LOADPATS.EXE" size="49194" crc="066c5e51" md5="b24134b3fab09b2727b49a0fe1d64d8e" sha1="d9ba6f21e0e7a7210fc7bdc99495343cadd07d9d" date="1996-10-31 16:11:50"/>
+		<rom name="GAMES/SKYNET/MELODIC.BNK" size="5404" crc="fe9aae07" md5="06c2043a65046cd0f0fcfe8437ab3b9a" sha1="c6268e3e38eaf99d0035908ee3bf14c4d52dff50" date="1996-10-31 16:11:50"/>
+		<rom name="GAMES/SKYNET/PATCHES.INI" size="2131" crc="a10e7e50" md5="fc68407f5011a83090ea7ea5ec35898c" sha1="11b5f0c2307be1feb2b4e6382bc7f4c0cffb4a33" date="1996-10-31 16:11:50"/>
+		<rom name="GAMES/SKYNET/SETUP.EXE" size="383595" crc="00dfaec5" md5="bef1e467f9d2f81b6b741964b8f73961" sha1="62ba5977d23827968510d5bfeddafba6343d1004" date="1996-10-31 16:11:50"/>
+		<rom name="GAMES/SKYNET/SETUP.PIF" size="967" crc="adae9708" md5="809186164fa048ec2d5da7ee35dae1c3" sha1="f750d5f207320fe76df2002b62cc605e8ca3978b" date="1996-10-31 16:11:50"/>
+		<rom name="GAMES/SKYNET/SKYNET.EXE" size="1834683" crc="fbe659bb" md5="e9e45885f122411b698462d6db03143a" sha1="8f170b0cca5e02275a9d3cf2c0dd7c706a66f277" date="1996-10-31 16:11:50"/>
+		<rom name="GAMES/SKYNET/SKYNET.ICO" size="766" crc="cbbd5e06" md5="3565fd49c64a19a4b972bb3236936fa4" sha1="323d5057b48d5ef9058dc255ba5034a7f86a3135" date="1996-10-31 16:11:50"/>
+	</game>
 	<game name="Theme Hospital (1997) (Bullfrog Productions).dosz">
 		<description>Theme Hospital</description>
 		<comment>Max install from EU/AU Beta Five 13-5-9 CD-ROM, CD image made from BIN/CUE</comment>
