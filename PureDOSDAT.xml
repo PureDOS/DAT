@@ -1687,6 +1687,26 @@
 		<rom name="VGA/SUR.VGA" size="20839" crc="51ecd850" md5="bea783389c42a32c8e971f8aa4bc1d3b" sha1="1bfc4e572a12064627fc5c0d12b188265a4603dc" date="1995-06-19 21:38:00"/>
 		<rom name="VGA/SURS.VGA" size="21364" crc="e82c34e9" md5="e79fe0ee93af419dcdbded356f9afa85" sha1="f7a099691c80d572682abd411ee7c01a63577bb6" date="1995-06-19 21:38:00"/>
 	</game>
+	<game name="Dark Seed (1992) (Cyberdreams).dosz">
+		<description>Dark Seed</description>
+		<comment>Installed from CD. CDLETTER file must say D</comment>
+		<comment_dosc>Default config and auto start</comment_dosc>
+		<year>1992</year>
+		<developer>Cyberdreams</developer>
+		<link type="media">http://redump.org/disc/12371/</link>
+		<rom name="BINMOD.EXE" size="9114" crc="24ccf908" md5="94a490f548be8a7f7e038c353d78f86e" sha1="ac67dd2c8bcb6a7b0853dd316eb015c7d8bc4e44" date="1993-08-25 03:08:20"/>
+		<rom name="CDLETTER" size="1" crc="a3b36a04" md5="f623e75af30e62bbd73d6df5b50bb7b5" sha1="50c9e8d5fc98727b4bbc93cf5d64a68db647f04f" date="1993-11-04 17:00:28"/>
+		<rom name="Darkseed (USA).chd" size="39246336" crc="5a2cbb13" md5="bc816051a835b34f54c77ad9dc9019a1" sha1="1c6158ce08f656e2336b589577179d2c50f15775">
+			<track number="1" type="MODE1_RAW" frames="16022" pregap="0" duration="03:33:47" size="37683744" crc="a39e19e0" md5="7f058c545fc2f5d022343e29ab72148e" sha1="415515e8d4084a1ca7aeef83d8190e5fc679089a" in_zeros="1" out_zeros="0"/>
+		</rom>
+		<rom name="DS.BAT" size="272" crc="90beb229" md5="2b02b981125fd028f47aa9fc1b74c47b" sha1="6b2c6394dc67f7708b4f871e7fd86c3680dc4535" date="1994-05-24 15:56:24"/>
+		<rom name="README.TXT" size="8816" crc="8deb5e61" md5="79e3ffaeb0f9052d2e8f6fb5fe732c64" sha1="231b13d86fb07d3443ddfb637945ecb1add0bd17" date="1995-10-16 17:39:58"/>
+		<rom name="README.WRI" size="10368" crc="46ae7beb" md5="950880534ba51d3af19903308afac3ed" sha1="69d208892eb03c21ff11fbac6536c1f08a50fab1" date="1995-10-16 17:40:34"/>
+		<rom name="RESTART.SAV" size="2795" crc="40d1dfb4" md5="b534f5f616bdd9f14e35e5aad31350d9" sha1="c056eacb2771c02a840c8f795aaec6b32f605a37" date="1994-02-23 12:09:50"/>
+		<rom name="START.EXE" size="63424" crc="d215612a" md5="be21990a32e80dca910ce0c67e37c212" sha1="4ab38c25cfa7ffef119a5fa3c9311790d1efea99" date="1994-05-24 16:33:18"/>
+		<rom name="TOS.EXE" size="168480" crc="ca812740" md5="f33506ad8be60b44ead0e7c649389222" sha1="f5f062d8e9283313179b4a5b52bf34dca33edae5" date="1994-05-24 16:00:58"/>
+		<rom name="TOSTEXT.BIN" size="43778" crc="047c676e" md5="f242a1406d0ab0be8fb647665ebbc921" sha1="3c2439e17a098628d70142b8813a6f295763faab" date="1994-02-11 12:36:22"/>
+	</game>
 	<game name="Donkey Kong PC (2002) (BB Software).dosz">
 		<description>Donkey Kong PC</description>
 		<year>2002</year>
