@@ -13,6 +13,9 @@ The following settings are supported, the default value is the first one listed 
 | `cpu_year`      | Emulate speed of CPU released that year          | Default unset, must be between 1980 and 2000                |
 | `cpu_hz`        | Emulate speed of CPU with frequency              | Default unset, must be 500 or more                          |
 | `cpu_cycles`    | Emulate speed of CPU by DOSBox cycles            | Default unset, must be 100 or more                          |
+| `cpu_max_year`  | Emulate CPU as fast as possible with upper limit | Default unset, must be between 1980 and 2000                |
+| `cpu_max_hz`    | Emulate CPU as fast as possible with upper limit | Default unset, must be 500 or more                          |
+| `cpu_max_cycles`| Emulate CPU as fast as possible with upper limit | Default unset, must be 100 or more                          |
 | `mem_size`      | Total RAM size in kilobytes                      | __16384__                                                   |
 | `mem_xms`       | Whether to use XMS (Extended Memory)             | __true__ / false                                            |
 | `mem_ems`       | Whether to use EMS (Expanded Memory)             | __true__ / false                                            |
