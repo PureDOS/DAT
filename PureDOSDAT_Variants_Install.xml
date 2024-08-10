@@ -182,6 +182,15 @@
 		<variant>Installation</variant>
 		<rom name="disk1.img" size="184320" crc="1744adb6" md5="93c30ca487736067ace1ea60a2a1ebe4" sha1="e6b78bb2ed4336111df696c13144c824b7fe1ef0"/>
 	</game>
+	<game name="I Have No Mouth, and I Must Scream (USA).dosz">
+		<description>I Have No Mouth, and I Must Scream</description>
+		<comment>Redump-verified CD-ROM: I Have No Mouth, and I Must Scream (USA)</comment>
+		<developer>USA</developer>
+		<link type="media">http://redump.org/disc/82875/</link>
+		<rom name="I Have No Mouth, and I Must Scream (USA).chd" size="807918336" crc="c20358db" md5="47e038c9cae0f1531c37348ad0e92a54" sha1="26de5b1d7eec0af44d1d6165bcc0b7c37a3c2a58">
+			<track number="1" type="MODE1_RAW" frames="329957" pregap="0" duration="73:19:32" size="776058864" crc="25c6f2df" md5="5a16928d295a1f5c3230be4ee134e6c4" sha1="7cc16485bf508b7cb86ebff5951fc603c31367ee" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
 	<game name="Jazz Jackrabbit (1994) (Epic MegaGames) (Installation).dosz">
 		<description>Jazz Jackrabbit</description>
 		<comment>Enhanced CD-ROM packaged with Jazz Jackrabbit 2</comment>
@@ -538,6 +547,7 @@
 		<year>1995</year>
 		<developer>Microprose</developer>
 		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/66563/</link>
 		<rom name="X-COM - Terror from the Deep (USA) (En,Fr,De,Es).chd" size="85268736" crc="5637cd9f" md5="8ef4e4731b3fda9f984abd341e756ade" sha1="9ba51d66cd79c2f112d6997b96ade0b2b55eea58">
 			<track number="1" type="MODE1_RAW" frames="34819" pregap="0" duration="07:44:19" size="81894288" crc="ad2fc02a" md5="4b9f3d7d2c686f6b70b08197f736434a" sha1="80572e89fbe39b634abd0134751b3a832c04e6bf" in_zeros="1" out_zeros="0"/>
 		</rom>
