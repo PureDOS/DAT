@@ -4900,15 +4900,15 @@
 	</game>
 	<game name="Realms of the Haunting (1996) (Gremlin Interactive).dosz">
 		<description>Realms of the Haunting</description>
-		<comment>Maximum installation from CD, with default Sound Blaster 16 config. CONFIG.INI needs edit to DestinationPath=C:</comment>
-		<comment_dosc>Improved BAT file for launching the game, and auto start</comment_dosc>
+		<comment>Maximum installation from CD, with default Sound Blaster 16 config. CONFIG.INI needs edit to DestinationPath=C: and CDTransferRate line needs to be deleted</comment>
+		<comment_dosc>Required CONFIG.INI file, improved BAT file for launching the game, and auto start</comment_dosc>
 		<year>1996</year>
 		<developer>Gremlin Interactive</developer>
 		<link type="media">http://redump.org/disc/46368/</link>
 		<link type="media">http://redump.org/disc/4696/</link>
 		<link type="media">http://redump.org/disc/4697/</link>
 		<link type="media">http://redump.org/disc/4698/</link>
-		<rom name="CONFIG.INI" size="222" crc="39fed165" md5="0968954b7770eef949363c0f5a94ab3a" sha1="bbe2966d6422060e298e9d77c4f77827ca7cefc5"/>
+		<rom name="CONFIG.INI" size="201" crc="1f1de311" md5="3c037b07f16572cdb97fc8efb282af3c" sha1="407a95e992c6469d9321c509cf990d5bcecca06e"/>
 		<rom name="DATA/BACKDROP.RAW" size="173832" crc="b6ba13fc" md5="2c9debcf210c1bfa089c5dbfae7d2f40" sha1="d5c3b0170ca5079bd6f9a6f953c78440742287a7" date="1996-11-08 21:14:06"/>
 		<rom name="DATA/FXSCRIPT.SFX" size="14764542" crc="4fb0f7e6" md5="3999135d197890ce4aad9895112ebc91" sha1="8b37ca1c2328e6d79a9cc5bb5c7eea84adbcf308" date="1996-11-08 10:01:14"/>
 		<rom name="DATA/ICONS.ALL" size="56440" crc="e8b95239" md5="91c4c33339cc0661be9568d79ead8911" sha1="b5ff5d037b5718ac53a66a8e0b08db599afeb429" date="1996-11-28 01:57:42"/>
