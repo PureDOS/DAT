@@ -5234,8 +5234,8 @@
 		</rom>
 		<rom name="QUAKE.EXE" size="409600" crc="3bc26700" md5="e3e7fcc920610a5fa66c1dd030939fac" sha1="97427017467717a78b1b9e4a01b70ef0f7161856" date="1997-03-11 18:29:24"/>
 	</game>
-	<game name="Quake II + Q2DOS (1997) (id Software).dosz">
-		<description>Quake II + Q2DOS</description>
+	<game name="Quake II (1997) (id Software).dosz">
+		<description>Quake II</description>
 		<comment>Quake II v3.20 with Q2DOS 2021-07-21. Needs DOS.YML with mem_size: 65536</comment>
 		<comment_dosc>640x400 resolution and auto start</comment_dosc>
 		<year>1997</year>
@@ -5540,14 +5540,14 @@
 		<rom name="zaero/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2021-07-21 00:10:06"/>
 		<rom name="zaero/gamex86.dxe" size="541251" crc="51c80090" md5="ba85aba51a97dfe55ed9cc843eb7728c" sha1="da50206668a531635816d672590f2bb30177e070" date="2021-07-21 00:10:06"/>
 	</game>
-	<game name="Quake II Mission Pack - Ground Zero + Q2DOS (1998) (id Software).dosz">
-		<description>Quake II Mission Pack - Ground Zero + Q2DOS</description>
+	<game name="Quake II Mission Pack - Ground Zero (1998) (id Software).dosz">
+		<description>Quake II Mission Pack - Ground Zero</description>
 		<comment>Ground Zero v3.20 with Q2DOS 2021-07-21</comment>
 		<comment_dosc>Auto start and a BAT file for launching the game</comment_dosc>
 		<year>1998</year>
 		<developer>id Software</developer>
-		<parent>Quake II + Q2DOS (1997) (id Software).dosz</parent>
-		<rom name="Quake II + Q2DOS (1997) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<parent>Quake II (1997) (id Software).dosz</parent>
+		<rom name="Quake II (1997) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="Quake II Mission Pack - Ground Zero (USA).chd" size="639946368" crc="48f2f4da" md5="bc34b3f01997b71fbffcb8bdfd0e91c4" sha1="3c1f8d288e2e87418d89f5b2cdfb27eff31af228">
 			<track number="1" type="MODE1_RAW" frames="124685" pregap="0" duration="27:42:35" size="293259120" crc="762d6b41" md5="54e9f0229119c694b353807577c8b172" sha1="a8661435144fb6ed25d837957d0662d37505396b" in_zeros="1" out_zeros="0"/>
 			<track number="2" type="AUDIO" frames="13160" pregap="75" duration="02:55:35" size="30952320" crc="fe51905c" md5="50588c72dddf5d9b03e3ddb7af628435" sha1="2a2c2a1eb5b8ca3d12e4cc49ea0316deda3526a4" in_zeros="184654" out_zeros="178949"/>
@@ -5571,14 +5571,14 @@
 		<rom name="rogue/video/reu4_.cin" size="14809635" crc="8bcdc9e6" md5="1db9b40d45926bbdeae66e92eeee1c5b" sha1="65756654193ee74aaffc792c7d1ade463d98c4ad" date="1998-09-01 05:01:22"/>
 		<rom name="rogue/video/rintro.cin" size="38434032" crc="fc019931" md5="3b6b90af398deccff95dbba63a8a38bf" sha1="7b79eab8955e632153d3dc9e5435885909cc7052" date="1998-08-31 23:53:32"/>
 	</game>
-	<game name="Quake II Mission Pack - The Reckoning + Q2DOS (1998) (id Software).dosz">
-		<description>Quake II Mission Pack - The Reckoning + Q2DOS</description>
+	<game name="Quake II Mission Pack - The Reckoning (1998) (id Software).dosz">
+		<description>Quake II Mission Pack - The Reckoning</description>
 		<comment>The Reckoning v3.20 with Q2DOS 2021-07-21</comment>
 		<comment_dosc>Auto start and a BAT file for launching the game</comment_dosc>
 		<year>1998</year>
 		<developer>id Software</developer>
-		<parent>Quake II + Q2DOS (1997) (id Software).dosz</parent>
-		<rom name="Quake II + Q2DOS (1997) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<parent>Quake II (1997) (id Software).dosz</parent>
+		<rom name="Quake II (1997) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="Quake II Mission Pack - The Reckoning (USA).chd" size="570423168" crc="47fa3f5b" md5="0ccc3f80d79cf7b6904846e0a68c9517" sha1="0a5ff6aaca29ca6ae4d357a8ef4ac41774d3ed54">
 			<track number="1" type="MODE1_RAW" frames="102538" pregap="0" duration="22:47:13" size="241169376" crc="aefa5c3a" md5="3ad68e8892daa2c4801b1b87f9267c46" sha1="5d3c9f7cb3e7437d49f16253f8e4dbe2627c3683" in_zeros="1" out_zeros="0"/>
 			<track number="2" type="AUDIO" frames="11762" pregap="75" duration="02:36:62" size="27664224" crc="cdf823cb" md5="1de23a412ba0e1f321593966ef49d891" sha1="cfd34d9720a4053be46427629e4f0b62b1cd9b90" in_zeros="179176" out_zeros="5969"/>
