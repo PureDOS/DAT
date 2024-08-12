@@ -5234,6 +5234,356 @@
 		</rom>
 		<rom name="QUAKE.EXE" size="409600" crc="3bc26700" md5="e3e7fcc920610a5fa66c1dd030939fac" sha1="97427017467717a78b1b9e4a01b70ef0f7161856" date="1997-03-11 18:29:24"/>
 	</game>
+	<game name="Quake II (1997) (id Software).dosz">
+		<description>Quake II</description>
+		<comment>Quake II v3.20 with Q2DOS 2021-07-21. Needs DOS.YML with mem_size: 65536</comment>
+		<comment_dosc>640x400 resolution and auto start</comment_dosc>
+		<year>1997</year>
+		<developer>id Software</developer>
+		<rom name="3zb2/3ZB.cfg" size="12052" crc="e3e7c460" md5="a430e26540d18ea80a39dca7a052b41e" sha1="3983340c4894b6cf3c9ea2e51bb337841e931037" date="2016-06-24 05:51:40"/>
+		<rom name="3zb2/gamex86.dxe" size="392987" crc="6529d728" md5="ab346509b1b5ac310e5e149236921361" sha1="b2234dd1d759655369777309be20a1de89b4111b" date="2021-07-21 13:10:00"/>
+		<rom name="ace/gamex86.dxe" size="439812" crc="0820844b" md5="87aa60d8298aa4f93f9347b7af1a158b" sha1="0c109e22e33735467b802f68ee3527533d7410a0" date="2021-07-21 13:10:00"/>
+		<rom name="action/gamex86.dxe" size="408044" crc="c44fc0a9" md5="094e7ac5d4f2cf31ff1e93fea94569f7" sha1="038ecaddb63966b687dd8d8b242c0e347bc3c55c" date="2021-07-21 13:10:02"/>
+		<rom name="baseq2/gamex86.dll" size="397824" crc="edbd5fae" md5="a0a29c9dcd4c5b4c458ce25498533407" sha1="1c98dc8c57aa20398d8574693ce97bc347abf9d8" date="1998-10-16 15:39:28"/>
+		<rom name="baseq2/gamex86.dxe" size="421233" crc="7b0b90e5" md5="b3e87d04ea4c3c9dcf5a19a139f7afcc" sha1="70fec9e9d0aa97c22b6adb1b7adf3828be9081b4" date="2021-07-21 13:09:54"/>
+		<rom name="baseq2/maps.lst" size="1063" crc="a77ba6cb" md5="b2c3358d7be61f05651c88d9ef97d6aa" sha1="2a1b3b479e56fab0581d64c2bca6360bf2f372b7" date="1998-01-11 02:09:26"/>
+		<rom name="baseq2/pak0.pak" size="183997730" crc="6888136e" md5="1ec55a724dc3109fd50dde71ab581d70" sha1="1dd586a3230d1ac5bfd34e57cc796000d4c252c2" date="1997-11-30 05:59:58"/>
+		<rom name="baseq2/pak1.pak" size="12992754" crc="b232f881" md5="42663ea709b7cd3eb9b634b36cfecb1a" sha1="588ef09965dee539521b4eb6da4337ce78a2ea21" date="1998-02-12 22:01:46"/>
+		<rom name="baseq2/pak2.pak" size="45055" crc="f3f70bd7" md5="c8217cc5557b672a87fc210c2347d98d" sha1="67e76a7f3234646507ae59ec1bf755637c1dad03" date="1998-04-01 13:20:42"/>
+		<rom name="baseq2/players/crakhor/a_grenades.md2" size="31329" crc="3813d270" md5="14d330fe2a9af05a6254b2c2bda9f384" sha1="c5ff3d06fd9ae2676df0ea74f1bb381fc433c1cb" date="1998-03-11 20:44:00"/>
+		<rom name="baseq2/players/crakhor/w_bfg.md2" size="96757" crc="3d96be89" md5="30c768e9efd766b977cf09efe169d469" sha1="ff3f87bbc6f81a346946967b08194dcb19dd90c0" date="1998-10-09 13:14:56"/>
+		<rom name="baseq2/players/crakhor/w_blaster.md2" size="83685" crc="653d5f5f" md5="6083f459e8a4436d9c53aa9e56b8aea2" sha1="82547a076343e4d38388d5fe43f087ec1e7e711f" date="1998-10-09 13:14:56"/>
+		<rom name="baseq2/players/crakhor/w_chainfist.md2" size="151453" crc="2cc4ef10" md5="f374193db83cce95d2994ee4ddbb8aa5" sha1="0116b596182426aea02abf89befa515325c2b662" date="1998-08-11 19:01:32"/>
+		<rom name="baseq2/players/crakhor/w_chaingun.md2" size="63409" crc="84bf644f" md5="0dadb2a3db589b16108519f72ca9276c" sha1="5d28ba8725aa728d5c3d026c7910257b538021a9" date="1998-10-09 13:14:56"/>
+		<rom name="baseq2/players/crakhor/w_disrupt.md2" size="155189" crc="4c49ab90" md5="760332f4732df928850ee11b0339eba8" sha1="9b7c8c3cf96d763d46c23e6a3c16137a025e6147" date="1998-08-11 11:57:28"/>
+		<rom name="baseq2/players/crakhor/w_etfrifle.md2" size="107893" crc="ae02d879" md5="beb85d38cd38200f932ab1bd49da2ad7" sha1="365e591bd95b62b8034046f6f768a1a33470aadd" date="1998-08-11 11:58:08"/>
+		<rom name="baseq2/players/crakhor/w_glauncher.md2" size="91541" crc="5dfb97fb" md5="ebf78a4bac3751312b567e4338543025" sha1="8a58109811cfd7ecf20900dc2bb4d279d4774f9e" date="1998-10-09 13:14:56"/>
+		<rom name="baseq2/players/crakhor/w_grapple.md2" size="62717" crc="b48fa985" md5="0ff87ffebae73170d8c1ce80b21d4bf4" sha1="2ffc112213bc0f280514744d18b31cedae7f79fa" date="1998-10-09 13:14:56"/>
+		<rom name="baseq2/players/crakhor/w_hyperblaster.md2" size="71613" crc="2969b7e4" md5="21c61d7b08ba7439d4c04acdf4188147" sha1="63e951442347636a7474ea722e6580b55ce4b613" date="1998-10-09 13:14:56"/>
+		<rom name="baseq2/players/crakhor/w_machinegun.md2" size="65453" crc="dfd0e60d" md5="78bfd0e09d09a1c8eb68ede057c94a0a" sha1="5e6697c455f423ef054462a310eb6b8befbbe77d" date="1998-10-09 13:14:56"/>
+		<rom name="baseq2/players/crakhor/w_phalanx.md2" size="127481" crc="2ef38485" md5="77c6ee11392be666a06de53ec626ebdb" sha1="d648fc337e074148911d9dfb8cdc124c44b8b379" date="1998-08-11 11:58:46"/>
+		<rom name="baseq2/players/crakhor/w_plasma.md2" size="101221" crc="9b43f9db" md5="ab3779c7b64d5407c3003b6877f805ad" sha1="360b20927ceaf54e867ab3534852aed0272c048a" date="1998-08-11 12:00:18"/>
+		<rom name="baseq2/players/crakhor/w_plauncher.md2" size="91565" crc="d7fef82f" md5="84a112fe3e53111bde93daba9af2ce12" sha1="07be8d78d58a65a0f93fa39366ec2cc68f66cbd3" date="1998-08-11 16:25:16"/>
+		<rom name="baseq2/players/crakhor/w_railgun.md2" size="92173" crc="18f8776a" md5="8eb180849cb82aa7f2c11f48939c496c" sha1="a7cb98a5f65ab1aef96b88c1584db60f9517774d" date="1998-10-09 13:14:56"/>
+		<rom name="baseq2/players/crakhor/w_ripper.md2" size="91881" crc="c9b07c5c" md5="45686bcf0256db68e31d625f81e08a01" sha1="4a8deca18dcda01edc400be57f9441638d283244" date="1998-08-11 12:02:38"/>
+		<rom name="baseq2/players/crakhor/w_rlauncher.md2" size="97221" crc="b8b0f7aa" md5="61bbf8e9a1fed45ef6c9eda9b2831f4c" sha1="f114eb10db9085a29dc97dbbdd7d60273111ceb5" date="1998-10-09 13:14:56"/>
+		<rom name="baseq2/players/crakhor/w_shotgun.md2" size="38912" crc="45a8b527" md5="ef962916f8286a8ac41a789691e7301d" sha1="949e6e875e8f95616136142faf561f5cf86fbe91" date="1998-10-09 13:14:56"/>
+		<rom name="baseq2/players/crakhor/w_sshotgun.md2" size="85556" crc="f3205d55" md5="3b33ccd6743b80073f4876f10f4f777a" sha1="a796f21cbbba8894ee0e0c75d0ae8a9b55cc90d7" date="1998-10-09 13:14:56"/>
+		<rom name="baseq2/players/cyborg/a_grenades.md2" size="31329" crc="0948107b" md5="8b26b6a4863b7e2c30b4dcd7867a6d10" sha1="fd120f6d3ef83c2d65b367aa720a77c389cda5dd" date="1998-03-31 13:28:42"/>
+		<rom name="baseq2/players/cyborg/bump1.wav" size="13916" crc="9de28634" md5="b2f11bdabf2b09eb66075a18315dc1cf" sha1="4537f88fcd1ea8a487988589e21c03e2aced0ebd" date="1998-01-12 21:02:50"/>
+		<rom name="baseq2/players/cyborg/death1.wav" size="40296" crc="f2cabb71" md5="3cbdf3527ca1bd4ae8ede5e2d7d08dd1" sha1="0fa0bb674ac97fd84d65e4cc73d9b966c268ad4b" date="1998-01-17 23:16:10"/>
+		<rom name="baseq2/players/cyborg/death2.wav" size="67190" crc="f05cc7a8" md5="5d45198b91768b300eb812cd13c9e8ea" sha1="bc56f45113535991ba6a0fd16f6366847f841a0f" date="1998-01-17 23:04:30"/>
+		<rom name="baseq2/players/cyborg/death3.wav" size="29898" crc="4a009e56" md5="f9aee3bd80a468a333fdd0c886dfd779" sha1="83b2816fccbd691fb50cd2069680242fd84c3c6f" date="1998-01-17 23:07:06"/>
+		<rom name="baseq2/players/cyborg/death4.wav" size="48066" crc="be553272" md5="093fd87e237c7631b19f0d93e01100c4" sha1="eb388ece1cbc4cc0dbc654a2ed386a5aa1784283" date="1998-01-17 23:09:58"/>
+		<rom name="baseq2/players/cyborg/disguise.pcx" size="52438" crc="aaf826fd" md5="1861c07e779ee4f4879fdfbdbd2c1c52" sha1="9aa1a3c6f513265406f7dbcd3f55ee4a92814107" date="1998-08-13 20:24:04"/>
+		<rom name="baseq2/players/cyborg/disguise_i.pcx" size="1989" crc="cf791958" md5="346d62644537e11ce028b95db6022049" sha1="125994a41e9a7d4a7eec060d86f8d47df606a67d" date="1998-08-13 20:23:58"/>
+		<rom name="baseq2/players/cyborg/drown1.wav" size="56134" crc="7cb6b345" md5="d456b69f89e817dc418fc2f2b31be087" sha1="bf1b045e0553369ebd901899c78dc920e58c7b41" date="1998-01-17 23:12:08"/>
+		<rom name="baseq2/players/cyborg/fall1.wav" size="29490" crc="9560706a" md5="e0d17ec11d2d9a2f6c58c6d287674e81" sha1="feb7f8c33e2172862b7bfb40eba1c7faa3ecd87d" date="1998-01-26 14:12:16"/>
+		<rom name="baseq2/players/cyborg/fall2.wav" size="21690" crc="f3d83fdd" md5="772fba8054bfe34d0d14be259e57db93" sha1="678685121b41f0a17ae34170d09dc7acd968abb2" date="1998-01-26 14:11:58"/>
+		<rom name="baseq2/players/cyborg/gurp1.wav" size="18382" crc="88ba1af2" md5="9014a110ccd4a86bc7fa9e32e96f4a96" sha1="01a804fde6b3c4a3020be35cfb31bd3bad42740e" date="1998-01-26 14:12:30"/>
+		<rom name="baseq2/players/cyborg/gurp2.wav" size="18376" crc="66c90132" md5="b5699e778086ffcf4fb3d8d7e6d8c552" sha1="07d5edf6a1296f2abf6030548ddbae4e424fea67" date="1998-01-26 14:12:44"/>
+		<rom name="baseq2/players/cyborg/jump1.wav" size="15258" crc="71b2dab4" md5="3abaf0d5951560f08271542d9dbc4dc2" sha1="8afdeea147a062e68a21be68768e59952c4a73c3" date="1998-01-26 14:12:56"/>
+		<rom name="baseq2/players/cyborg/oni911.pcx" size="52358" crc="53267ac2" md5="e9424f28e3b36c8de2f2899755a845cf" sha1="badd8255622414a79c14019e507a78ee3b145c71" date="1998-01-26 11:31:38"/>
+		<rom name="baseq2/players/cyborg/oni911_i.pcx" size="1967" crc="dbc5acfc" md5="7b6efcd5a23445644ef6fb77e16a05b2" sha1="8f414801557a15666b8e24b77fdebe8d777f259a" date="1998-01-26 11:31:38"/>
+		<rom name="baseq2/players/cyborg/pain100_1.wav" size="17292" crc="1fb320ee" md5="61bf93c3191a21b52c6a6881a20d8553" sha1="cf7b9ffc6b2f4265dd8830ed0bd34f1930ea5e2e" date="1998-01-26 14:13:08"/>
+		<rom name="baseq2/players/cyborg/pain100_2.wav" size="20282" crc="deeb3176" md5="4468325ba9f977c507289f1d581dfc3b" sha1="9c9b9d9399bc2158b94ec081e6a116bbb567b61a" date="1998-01-26 14:13:18"/>
+		<rom name="baseq2/players/cyborg/pain25_1.wav" size="21252" crc="5654a0d6" md5="a4e56dfd05b20782c81f3eda87320865" sha1="dc46aba3008ac86876d476babd7d3a49a4996dc1" date="1998-01-26 14:13:32"/>
+		<rom name="baseq2/players/cyborg/pain25_2.wav" size="22626" crc="0de5eec4" md5="3807c207936e9b547fea16be7f54386f" sha1="cf1627c213a8ae4c705c85a82a6e351c3d4eeefa" date="1998-01-26 14:13:40"/>
+		<rom name="baseq2/players/cyborg/pain50_1.wav" size="34010" crc="3e895f39" md5="9af5ee44b6ff7b213b17b2a0688027d2" sha1="0ab3cdc54f53ac9803ece7b2e8bfb42005b01e4d" date="1998-01-26 14:13:52"/>
+		<rom name="baseq2/players/cyborg/pain50_2.wav" size="23452" crc="d93fbf10" md5="461a32c9acf2b7199c0013a9b1235258" sha1="9045b06147c49769639e0171702e597fd4589a9e" date="1998-01-26 14:14:00"/>
+		<rom name="baseq2/players/cyborg/pain75_1.wav" size="18784" crc="9595cfc1" md5="657511d0b3c5fae1bbb9a26096c1b0c5" sha1="47b6fe25299c87b0865efe805ee492bd8210ada4" date="1998-01-26 14:14:12"/>
+		<rom name="baseq2/players/cyborg/pain75_2.wav" size="22572" crc="42a37c87" md5="a3b382dab260dfa68c46b62d6aa49771" sha1="0ebeb0aa0ebb1c4757f155c213401973ebfaa388" date="1998-01-26 14:14:20"/>
+		<rom name="baseq2/players/cyborg/ps9000.pcx" size="52102" crc="31a37af8" md5="de6d6afe1209f5e404267063b12b3bb6" sha1="f375cf601c6ff9a87a28a0931b8dc2556f75a10f" date="1998-01-26 11:31:38"/>
+		<rom name="baseq2/players/cyborg/ps9000_i.pcx" size="1975" crc="92fd9225" md5="001f9d9a6b34c702f7561fa931a20fd3" sha1="a84b3ef703b9c994484cb880ba9369fb7ba0c204" date="1998-01-26 11:31:38"/>
+		<rom name="baseq2/players/cyborg/tris.md2" size="280024" crc="5a6f6186" md5="43298b5020639a55db7d1e15d006495e" sha1="5ae8cbfb12fd61ee35bc83feaee85595430efef8" date="1998-01-26 11:32:02"/>
+		<rom name="baseq2/players/cyborg/tyr574.pcx" size="51941" crc="bd7eb66f" md5="992145603059a94688f36200e131d5eb" sha1="2b8b2c19e2ea69dd720faa48c023c6f86e0e5e96" date="1998-01-26 11:31:38"/>
+		<rom name="baseq2/players/cyborg/tyr574_i.pcx" size="1929" crc="288dbf06" md5="bb75a77e28a1ab81d518680bd7ebc86c" sha1="52a90b4a631eb87760f971b64790c2b406e676dd" date="1998-01-26 11:31:38"/>
+		<rom name="baseq2/players/cyborg/w_bfg.md2" size="96757" crc="18f3842e" md5="234b1c49e4cc1dc86e9e46e4ab105479" sha1="08cd3df6f04daecbbf423b55080b7966daba2fa3" date="1998-03-31 09:04:56"/>
+		<rom name="baseq2/players/cyborg/w_blaster.md2" size="72520" crc="f64d845d" md5="68a19777b8a25f1657e321d78b949347" sha1="11f153e211545085fef8bc71173e1120f6e12bab" date="1998-04-01 11:17:02"/>
+		<rom name="baseq2/players/cyborg/w_chainfist.md2" size="151453" crc="7624eae6" md5="48890c7dae7053a8e9089abcaaa95cf9" sha1="4dc53a650bd2693bf6ae80bbcb15860332ded85a" date="1998-08-11 18:22:48"/>
+		<rom name="baseq2/players/cyborg/w_chaingun.md2" size="63409" crc="f1bd87c8" md5="fb92d87e2255d767e692dd4d5dda490b" sha1="dea4578bf0e3048cd23f48ff4ed913f4c37cc161" date="1998-03-31 15:29:52"/>
+		<rom name="baseq2/players/cyborg/w_disrupt.md2" size="155189" crc="dd8a2427" md5="a471b38d21d586da0a1064bfdeca9d04" sha1="798a68866956e1b8cac315241824f5091714d849" date="1998-08-11 11:45:34"/>
+		<rom name="baseq2/players/cyborg/w_etfrifle.md2" size="107893" crc="7539f658" md5="48747d1bc3d81e698cf1fa6ee05607ea" sha1="a2609f78911266e33bbf46917e882a5c31466291" date="1998-08-11 11:46:06"/>
+		<rom name="baseq2/players/cyborg/w_glauncher.md2" size="81120" crc="7cf8c987" md5="3c22c7dcfc75ce786bd7e5d5c61defb4" sha1="07ceb23f044f41fd9d0e0ceea1277b032933529a" date="1998-04-01 11:19:34"/>
+		<rom name="baseq2/players/cyborg/w_grapple.md2" size="62717" crc="3b5d67d5" md5="6081b82197fa8105e8380445a6422904" sha1="9afff991c834e4c5c016d314ae0bf68440f6311e" date="1998-03-31 09:04:56"/>
+		<rom name="baseq2/players/cyborg/w_hyperblaster.md2" size="71613" crc="7f3087d7" md5="eaa308d4893857646dba28cba84b35f9" sha1="1fec9d29a891985bead7de588bc5ccf154d36109" date="1998-03-31 09:04:56"/>
+		<rom name="baseq2/players/cyborg/w_machinegun.md2" size="65453" crc="b26cdf1f" md5="f0db74b83301a5b6d5414abc115f268b" sha1="9da211e0d5318636d32a9a93990f676fce14f1bd" date="1998-03-31 09:04:56"/>
+		<rom name="baseq2/players/cyborg/w_phalanx.md2" size="127481" crc="f555b8e5" md5="f99b7aa61adbfc59038a414e81b9af53" sha1="3091c94fc0176657c225b001e3c57305edf4a1c0" date="1998-08-11 11:46:38"/>
+		<rom name="baseq2/players/cyborg/w_plasma.md2" size="101221" crc="2c03e5ca" md5="b70e91170b6923f83e089a865b26591e" sha1="f3a177117f12863d9e829d9beaaa42e0cb57b48b" date="1998-08-11 11:47:12"/>
+		<rom name="baseq2/players/cyborg/w_plauncher.md2" size="91565" crc="04bc30d8" md5="80caf9d707d2e681e0c54dda1f4fabf9" sha1="c4627faae8529371b8bb6acbd54d0674541dd492" date="1998-08-11 16:20:06"/>
+		<rom name="baseq2/players/cyborg/w_railgun.md2" size="92173" crc="0acc153e" md5="b5a6a8e1235e0129ba6474983aef9989" sha1="3d3d7370dbb2a8cae18f40149f2ab58abfc90e97" date="1998-03-31 09:04:56"/>
+		<rom name="baseq2/players/cyborg/w_ripper.md2" size="91881" crc="b3c03114" md5="b00cd4cce1cb9fdd9a6eeb1837f79778" sha1="00de49a187f59804d1fb92b8b0fa54fa9d1aed9b" date="1998-08-11 11:47:42"/>
+		<rom name="baseq2/players/cyborg/w_rlauncher.md2" size="97221" crc="106474ca" md5="9656c56907b8284bbbf30fe60443b211" sha1="95017fe5fc294b0af3017c1d02e51aa783e9777e" date="1998-03-31 09:04:56"/>
+		<rom name="baseq2/players/cyborg/w_shotgun.md2" size="38912" crc="47a7291d" md5="e9a5e9b2df9bf2fa5e53794f929419af" sha1="56f77c1121dd9fde187529a37723420703a2a74a" date="1997-11-27 02:18:08"/>
+		<rom name="baseq2/players/cyborg/w_sshotgun.md2" size="85556" crc="476bec1d" md5="46967dbfad628470a7bc344b20086d53" sha1="7e2d56deee8cf4efa08374998f67fe3c10efd6b6" date="1998-04-01 11:04:12"/>
+		<rom name="baseq2/players/cyborg/weapon.md2" size="38912" crc="ebd5ea87" md5="7a1e0e90a91338c5fa3f3733e6f0691c" sha1="9fc7c02155847f45ed0a1497b9d3e38ae7a21e50" date="1998-01-26 11:32:06"/>
+		<rom name="baseq2/players/cyborg/weapon.pcx" size="9089" crc="942b09fb" md5="0758d59ebfcb5931bda2b0985faf98a9" sha1="7fd2251f2a90c38f3c21e4551b75d7643c3764ac" date="1998-01-23 15:38:32"/>
+		<rom name="baseq2/players/cyborg/weapon.pcx.pcx" size="9089" crc="942b09fb" md5="0758d59ebfcb5931bda2b0985faf98a9" sha1="7fd2251f2a90c38f3c21e4551b75d7643c3764ac" date="1998-01-23 15:38:32"/>
+		<rom name="baseq2/players/female/a_grenades.md2" size="31329" crc="298ac9eb" md5="3caf27fabfc11a5ee6c4b1c29ce12a9d" sha1="725d79083c7d4ab7adc1aabc7200574f3c35b4e6" date="1998-03-31 13:29:14"/>
+		<rom name="baseq2/players/female/athena.pcx" size="50156" crc="9cbdae2a" md5="55a4e452af3d421ab4f6b3497706cae2" sha1="eddb823ba9d2660a33ed9d05f72da0072c04f29c" date="1997-11-27 02:16:48"/>
+		<rom name="baseq2/players/female/athena_i.pcx" size="1921" crc="ea65f155" md5="7245940c17b3afd002e65afbe79d218c" sha1="31ce226f86be8bc5c8ab6d6fb39164da02b5b7f5" date="1997-11-27 02:16:46"/>
+		<rom name="baseq2/players/female/brianna.pcx" size="50897" crc="40a81c17" md5="b3396956b5e178638110dc95b855b288" sha1="5caa95d0171c3be7ce57be7e3fbd8d6441f41516" date="1997-11-27 02:16:48"/>
+		<rom name="baseq2/players/female/brianna_i.pcx" size="1968" crc="09819bbb" md5="cdd8629513c6c45b2540cb519e985a49" sha1="f894ff3a6319a359cba8128d6f939320f7acdd32" date="1997-11-27 02:16:46"/>
+		<rom name="baseq2/players/female/cobalt.pcx" size="50813" crc="deee2bb7" md5="5a8ab463b5d9bc80fad22d3391b0b09e" sha1="35b3ff93358412275f760901066dbb4b422c0b2b" date="1997-11-27 02:16:48"/>
+		<rom name="baseq2/players/female/cobalt_i.pcx" size="1940" crc="e828450f" md5="5e1788c5cdd379217f2f8be625073da4" sha1="a1db608a9d71bac348c2cfa3edb8bc97e2215951" date="1997-11-27 02:16:46"/>
+		<rom name="baseq2/players/female/death1.wav" size="34330" crc="8d3aad14" md5="2ead5a8b2b647d6cfc8b461c60da9096" sha1="fb412f68af3d984fc77fcb212c195ac1e126288e" date="1997-11-25 03:16:00"/>
+		<rom name="baseq2/players/female/death2.wav" size="42764" crc="88858c2a" md5="7e5bc1e979422e551786343e49d587a8" sha1="8501819c4f13615789824f826d9448700a6dd940" date="1997-11-25 03:16:32"/>
+		<rom name="baseq2/players/female/death3.wav" size="48128" crc="84d7b5bf" md5="3759e298e7744bff928ea992dd8e4a67" sha1="ec68be9e4cf264b4238a314d4c9b04e61f00d462" date="1997-11-25 03:22:52"/>
+		<rom name="baseq2/players/female/death4.wav" size="52896" crc="1b862412" md5="2ae0c9acf42e52ef829995950f2069a9" sha1="2faf73719812fbdd0eb9c9742544a2d96e507047" date="1997-11-25 03:23:12"/>
+		<rom name="baseq2/players/female/disguise.pcx" size="50932" crc="bf63c970" md5="b5f240c68238e3d8ff2b7ca6374e8972" sha1="5bea58edc2951cd2bdace438591647dbf3695c20" date="1998-08-13 20:24:02"/>
+		<rom name="baseq2/players/female/disguise_i.pcx" size="1950" crc="8f1eb911" md5="d285f07d4e10398e95ffa239cc0254d2" sha1="24ac595e762c62d2ef08942398fb218d62f829c4" date="1998-08-13 20:24:00"/>
+		<rom name="baseq2/players/female/drown.wav" size="66440" crc="1a50e3f0" md5="f26db3a913b6d88a93a89968eb4eede4" sha1="37bac4d05c0533f1e11af9f85bdc9c6425e4283a" date="1997-11-26 03:36:52"/>
+		<rom name="baseq2/players/female/ensign.pcx" size="52745" crc="7e438375" md5="9c03b38b6e3fcd5548664310fd8650fe" sha1="2162332ecde90f75372453998e03aa837846c8c7" date="1997-11-27 02:16:46"/>
+		<rom name="baseq2/players/female/ensign_i.pcx" size="1971" crc="17f0ae67" md5="1f7aa7364f1990f3fdec49510e828a1d" sha1="58540940a2a2eb78bae7e49e8a613d6131f24846" date="1997-11-27 02:16:44"/>
+		<rom name="baseq2/players/female/fall1.wav" size="9121" crc="62fef541" md5="dfda3c3e0cf1ffe4c856724af363fad7" sha1="0c0cc1a27154656019c1b9444568b1c8836745c7" date="1997-11-25 03:23:18"/>
+		<rom name="baseq2/players/female/fall2.wav" size="17176" crc="f6c33498" md5="4b50b8ec2644d0e69311b49ef56d8a5b" sha1="24379be4aef6fb83a2854814b9cdfbd3f7e49386" date="1997-11-25 03:23:30"/>
+		<rom name="baseq2/players/female/gurp1.wav" size="23348" crc="c0e1584e" md5="7bd437017d09f2a7b9555036809a7697" sha1="13e39f437b6acb214cc5fd290b97af22cc46aef0" date="1997-11-25 03:23:42"/>
+		<rom name="baseq2/players/female/gurp2.wav" size="17062" crc="42410671" md5="c3c2d82563576e7fc7096a2fe2786f06" sha1="84648cb5dcd24a77ebf9ee1117b043d3cc0985aa" date="1997-11-25 03:23:54"/>
+		<rom name="baseq2/players/female/jezebel.pcx" size="51062" crc="cb4c9f90" md5="95bcfe6a4e4dc5ab8bfdbaea76807742" sha1="7feed9bc9e84a526e22a17de4ef76244e6dbb186" date="1997-11-27 02:16:48"/>
+		<rom name="baseq2/players/female/jezebel_i.pcx" size="1950" crc="9c0f4598" md5="b7f862734bbb31404322d4932908e86b" sha1="48bb1508b5938d77bcf6624af8a0f59cd0501262" date="1997-11-27 02:16:44"/>
+		<rom name="baseq2/players/female/jump1.wav" size="14602" crc="7d373507" md5="3628485bc515bd527bbe7e318a713a68" sha1="340dce6a0365026378e40f2b28a86e56af54d9f4" date="1997-11-25 03:24:02"/>
+		<rom name="baseq2/players/female/jungle.pcx" size="61037" crc="c87a3454" md5="d6214e7b3546ea04838ab3e3806fce88" sha1="d415fbce0f670d4d02c1deb5b6942e1af8d630c1" date="1997-11-27 02:16:46"/>
+		<rom name="baseq2/players/female/jungle_i.pcx" size="2118" crc="d96387fd" md5="cd2d2f629d051b00e2d4b2b0ef4ae31a" sha1="7ab186994a21ea7eb88c97bc5bf4dd0619cdbbfd" date="1997-11-27 02:16:44"/>
+		<rom name="baseq2/players/female/lotus.pcx" size="54147" crc="1ddc942b" md5="e86de1939672ab98cd2161db163b0537" sha1="9f8bdb4803ed04ba98571d487fe8d68fd9e2eca4" date="1997-11-27 02:16:48"/>
+		<rom name="baseq2/players/female/lotus_i.pcx" size="2021" crc="8d151c01" md5="03c18db9988e87c576308d28a93a9458" sha1="4743a71687335a5acc3972673ff3bf66f53e9998" date="1997-11-27 02:16:46"/>
+		<rom name="baseq2/players/female/pain100_1.wav" size="30024" crc="be0c075d" md5="241eb12ed56a20eb1c53d8bd2d7e7a71" sha1="757896f1b541fe734b78c7ac6dc17e31943f7cb6" date="1997-11-25 03:24:12"/>
+		<rom name="baseq2/players/female/pain100_2.wav" size="32854" crc="44d8742a" md5="538694819553ff50bce8888b5056c928" sha1="7809f2670227ffb33ae61df3430a9b7d613d2887" date="1997-11-25 03:24:18"/>
+		<rom name="baseq2/players/female/pain25_1.wav" size="21452" crc="ddd4e85d" md5="bf03ccdad210756600a94b2dc0e80aa9" sha1="a938714c331765661d54a74fa96ecea7ea6889c1" date="1997-11-25 03:24:32"/>
+		<rom name="baseq2/players/female/pain25_2.wav" size="29306" crc="0772f357" md5="67596d7a46283dd12378a3fa17081de1" sha1="aef327d7f4b574e911f5fe163fcf49c3f3651854" date="1997-11-25 03:25:02"/>
+		<rom name="baseq2/players/female/pain50_1.wav" size="26216" crc="5fc92b1c" md5="440e887fd6f8cd37de9c894ec399b3fc" sha1="bd0cbabf5c1e3cd78846be1a8f4a4e5863448df9" date="1997-11-25 03:25:48"/>
+		<rom name="baseq2/players/female/pain50_2.wav" size="16274" crc="87b736b9" md5="b78b8303d5a972eeab44f80b951b722b" sha1="966d423b5de6afe823826625d0a458e48ceb8a10" date="1997-11-25 03:26:06"/>
+		<rom name="baseq2/players/female/pain75_1.wav" size="29568" crc="68ca1693" md5="a182517b0f96aa72cfae9bafd77a459f" sha1="36364177a960f4384273e6674e6a93afe46e2262" date="1997-11-25 03:26:40"/>
+		<rom name="baseq2/players/female/pain75_2.wav" size="20754" crc="0ed1d3f6" md5="3ac3a69c0d8a43ad53f910bde1401432" sha1="691f2084eb30e7ee685a4ee5bc63e70d934d4fb2" date="1997-11-25 03:26:56"/>
+		<rom name="baseq2/players/female/rogue_b.pcx" size="50768" crc="000aaef6" md5="fa3b94af6af809301283666915a82d4c" sha1="b038301637012cebf879c611624d9efecbf17319" date="1998-08-13 20:24:04"/>
+		<rom name="baseq2/players/female/rogue_b_i.pcx" size="1936" crc="f8d421a1" md5="e61f7831603fae2c2426287a3e4dd9cb" sha1="4323a4d5b2ff6d0f757f4474e0ef62e95aefb017" date="1998-08-13 20:24:00"/>
+		<rom name="baseq2/players/female/rogue_r.pcx" size="50768" crc="b73db5fa" md5="f3d1a5b6ceeb6eaeb2344b3241331bd1" sha1="dfea3d5d379c3d2a467d0de14279b834c9ab249d" date="1998-08-13 20:24:04"/>
+		<rom name="baseq2/players/female/rogue_r_i.pcx" size="1946" crc="8510aa7f" md5="bfb9fc4b82174370e46b25dc8fc9b61a" sha1="7a796ae74c9bb381169444efef9afdc157ec3482" date="1998-08-13 20:24:00"/>
+		<rom name="baseq2/players/female/stiletto.pcx" size="54074" crc="6163079f" md5="af481347560c60880570696910c19bd7" sha1="91573bc8a21cbac73385082f0b6a3fe700758318" date="1997-11-27 02:16:48"/>
+		<rom name="baseq2/players/female/stiletto_i.pcx" size="2040" crc="ec0a3c45" md5="483e6c39fadcaf3df78e1741a83f5fe6" sha1="425999416056af037222d4405216811687226931" date="1997-11-27 02:16:44"/>
+		<rom name="baseq2/players/female/tris.md2" size="275632" crc="3a394fc4" md5="24148fcc60c08e8325f8eee82f23c88d" sha1="4e521251e71d17bd7b5b20078898facb1038065b" date="1997-11-27 02:17:22"/>
+		<rom name="baseq2/players/female/venus.pcx" size="50891" crc="05cd9b0d" md5="b5e2d772f3c469f96cdb7be947e5522e" sha1="f52fd10b9e15eef7fef483a30204f7524b2c7e64" date="1997-11-27 02:16:48"/>
+		<rom name="baseq2/players/female/venus_i.pcx" size="1963" crc="a63baeef" md5="d12db2c18be1206bd53eb64d486ce655" sha1="de0fc5ca86b60d0cbd499d7b4ac79e2f1f8f6da3" date="1997-11-27 02:16:44"/>
+		<rom name="baseq2/players/female/voodoo.pcx" size="51033" crc="55980736" md5="c2ca5827551749ea7959d3326be7154d" sha1="58f39c21539a9d1ee97afcbab1771f761dd16851" date="1997-11-27 02:16:48"/>
+		<rom name="baseq2/players/female/voodoo_i.pcx" size="1970" crc="055c4a54" md5="7d199b6f0f36655fbea4338ee85a7c89" sha1="9cd78ca365ff6e5d60f6b320dc2d61cfc1c29bc8" date="1997-11-27 02:16:46"/>
+		<rom name="baseq2/players/female/w_bfg.md2" size="96757" crc="7bbe7070" md5="ace25cc0e1481a671f1cfff27ad73485" sha1="8c49eb29faccc5195a5d16f2af4186d3520ef096" date="1998-03-31 09:04:56"/>
+		<rom name="baseq2/players/female/w_blaster.md2" size="72520" crc="7711b8c0" md5="7d38c30abb113cdfcea142b8aacf25c4" sha1="de2eec639f8f3047e5b1aa22e5df8e8ba0d39af6" date="1998-04-01 11:21:56"/>
+		<rom name="baseq2/players/female/w_chainfist.md2" size="151453" crc="d1d9ad44" md5="d58bf8f9701422f21cf5133b6266b6b0" sha1="2254492e9f9062d9724356058e23cf18899317d4" date="1998-08-11 18:54:04"/>
+		<rom name="baseq2/players/female/w_chaingun.md2" size="63409" crc="651cc521" md5="86103877e85726cb3af3a808f8088137" sha1="683e243c66b0919ed4a612a3a59270aba79d4789" date="1998-03-31 15:32:22"/>
+		<rom name="baseq2/players/female/w_disrupt.md2" size="155189" crc="7d345d3a" md5="b37f73c57cbbf24e86f50465b845cdf2" sha1="6cd635c256973ee4c7c4173e05e1d700d99c51ae" date="1998-08-11 11:48:20"/>
+		<rom name="baseq2/players/female/w_etfrifle.md2" size="107893" crc="a53d3576" md5="c1e2e35d6a5d43e879c7a715497871a6" sha1="96b3560168b7061d2ffeeec3856808bcf130fbfc" date="1998-08-11 11:48:52"/>
+		<rom name="baseq2/players/female/w_glauncher.md2" size="81120" crc="1821a8c8" md5="eabe7f32985a66f32a710dc65d9ac630" sha1="288dd539ca2f892bfa10e9eaf4145b87e7f25fce" date="1998-04-01 11:22:32"/>
+		<rom name="baseq2/players/female/w_grapple.md2" size="62717" crc="2fdbab66" md5="47e6bbf70c729754c66de7c3de7f9874" sha1="629f05dba6b5ba162b9477cfbef56f51deb604c1" date="1998-03-31 09:04:56"/>
+		<rom name="baseq2/players/female/w_hyperblaster.md2" size="71613" crc="4382e2dc" md5="30eb0a369e941c767044c74d0ced815e" sha1="15f62707eaf9475f9e37d65fd21fe5742a826d9e" date="1998-03-31 09:04:56"/>
+		<rom name="baseq2/players/female/w_machinegun.md2" size="65453" crc="1e22a557" md5="be6523a01f07a909f2297d4701d0c6cb" sha1="94e2cf611226759b6f29e0b44851e3e10e82f51a" date="1998-03-31 09:04:56"/>
+		<rom name="baseq2/players/female/w_phalanx.md2" size="127481" crc="e96c6241" md5="b71a2557746052945fa90f7e13a3e2b2" sha1="e59f74cbd82351938e84393683e857a8fe08dac2" date="1998-08-11 11:49:24"/>
+		<rom name="baseq2/players/female/w_plasma.md2" size="101221" crc="2941e79e" md5="814ece94ac2d5bc3a002d6ae3daa5860" sha1="103d8e4dd177bd432eca49cba0fdaf3132e65a84" date="1998-08-11 11:49:58"/>
+		<rom name="baseq2/players/female/w_plauncher.md2" size="91565" crc="003cd10e" md5="f4e0e9f8c6cc9d5b4fd7947360a3fe1d" sha1="945709d02fcce45482764e0bc61e11ce63f2897d" date="1998-08-11 16:20:46"/>
+		<rom name="baseq2/players/female/w_railgun.md2" size="92173" crc="f7d0accc" md5="ec79193998da672c5f17aec8a781ceac" sha1="40f87ce2c439b7863b4be63f1a1f294606352c8d" date="1998-03-31 09:04:56"/>
+		<rom name="baseq2/players/female/w_ripper.md2" size="91881" crc="2655f396" md5="bfcac9f7d7e9a69e45355faae9364589" sha1="01b2c61235d1e8d1617b6167048f4f6c0cb17504" date="1998-08-11 11:50:28"/>
+		<rom name="baseq2/players/female/w_rlauncher.md2" size="97221" crc="d7648273" md5="877ab9be5145d030cd5f682e61695007" sha1="8c49ba6bb7ef7ccafb861b3a3517a1641ac334c6" date="1998-03-31 09:04:56"/>
+		<rom name="baseq2/players/female/w_shotgun.md2" size="38912" crc="d8ae1111" md5="3b9968c41e9fef1c8ce34305cc38d6f1" sha1="6d690918f2fdd52af5eae345e283fde469d37ad3" date="1997-11-27 02:17:32"/>
+		<rom name="baseq2/players/female/w_sshotgun.md2" size="85556" crc="80040fd2" md5="fbc4b51287c4b006b5a4d52a422db229" sha1="ac04974b999762a159588c8e4a48372e71c9abac" date="1998-04-01 11:06:20"/>
+		<rom name="baseq2/players/female/weapon.md2" size="38912" crc="d8ae1111" md5="3b9968c41e9fef1c8ce34305cc38d6f1" sha1="6d690918f2fdd52af5eae345e283fde469d37ad3" date="1997-11-27 02:17:32"/>
+		<rom name="baseq2/players/female/weapon.pcx" size="9089" crc="942b09fb" md5="0758d59ebfcb5931bda2b0985faf98a9" sha1="7fd2251f2a90c38f3c21e4551b75d7643c3764ac" date="1998-01-23 15:38:32"/>
+		<rom name="baseq2/players/male/a_grenades.md2" size="31329" crc="0948107b" md5="8b26b6a4863b7e2c30b4dcd7867a6d10" sha1="fd120f6d3ef83c2d65b367aa720a77c389cda5dd" date="1998-03-31 13:28:42"/>
+		<rom name="baseq2/players/male/bump1.wav" size="13916" crc="7f8fc0af" md5="998f5a453be87f1301823ad4f2e3c818" sha1="a84d0a4b52eabc08f27e68df9cdb6e9e125e0bb6" date="1997-11-04 20:09:20"/>
+		<rom name="baseq2/players/male/cipher.pcx" size="56554" crc="082611e3" md5="8b27adf487714b21c900af1474cecf9e" sha1="8e9b500876a872a87379e6479773f91bc93fe5c5" date="1997-11-27 02:16:46"/>
+		<rom name="baseq2/players/male/cipher_i.pcx" size="1940" crc="c4ccb6fe" md5="d0c3e03850569d223a9705cd5aba608e" sha1="e231dbbfa42ce8204220635881679284a746dbfb" date="1997-11-27 02:16:44"/>
+		<rom name="baseq2/players/male/claymore.pcx" size="56727" crc="05762bce" md5="f192147481f31b16524d0bd4f9a7db5d" sha1="9fa34cbac655197b0004c21c4b4d124ad49054bf" date="1997-11-27 02:16:46"/>
+		<rom name="baseq2/players/male/claymore_i.pcx" size="1939" crc="1b64c029" md5="e80f697c4ee4680b5c667b83b4a1b48c" sha1="a8c267bc4741c1e5947d8279ddfb6d707d4c9730" date="1997-11-27 02:16:44"/>
+		<rom name="baseq2/players/male/cyborg/disguise.pcx" size="52438" crc="aaf826fd" md5="1861c07e779ee4f4879fdfbdbd2c1c52" sha1="9aa1a3c6f513265406f7dbcd3f55ee4a92814107" date="1998-08-13 20:24:04"/>
+		<rom name="baseq2/players/male/cyborg/disguise_i.pcx" size="1989" crc="cf791958" md5="346d62644537e11ce028b95db6022049" sha1="125994a41e9a7d4a7eec060d86f8d47df606a67d" date="1998-08-13 20:23:58"/>
+		<rom name="baseq2/players/male/death1.wav" size="45892" crc="332855f5" md5="c1a37ac609cd280dde4eb40c6554cc4c" sha1="9fba8e21d831fe78f5caf0bffff51cd46922e29b" date="1997-10-03 17:01:30"/>
+		<rom name="baseq2/players/male/death2.wav" size="83464" crc="e2a02a23" md5="e3596b73010d485fd4eb30930024c215" sha1="9b2c3a52676172a0ae399e1d7bb1b13ee3af29fd" date="1997-10-07 18:34:22"/>
+		<rom name="baseq2/players/male/death3.wav" size="29898" crc="4f290d4d" md5="bbed4c80620d0889c265b6a3d9ba1201" sha1="e8df7cdd824c76442a595e92d9e682fe149a1906" date="1997-10-07 17:11:32"/>
+		<rom name="baseq2/players/male/death4.wav" size="48066" crc="bf0ec742" md5="6f064673e3889697a2fe282c98348690" sha1="ad9b166ce3646423d4515ee004d04bb8969e7a97" date="1997-10-07 17:12:02"/>
+		<rom name="baseq2/players/male/disguise.pcx" size="56519" crc="321a1a9c" md5="b23f817d634af038a962d8f9d0a95f4e" sha1="2ddbe8c6bbc6eedffbca8e603b10b276b19d2b69" date="1998-08-13 20:24:00"/>
+		<rom name="baseq2/players/male/disguise_i.pcx" size="1986" crc="71429489" md5="986096c2d98ba630c0dd3260c8981571" sha1="f08c1a0819c43c1db4bc6abc44ef66e6b88ac384" date="1998-08-13 20:24:00"/>
+		<rom name="baseq2/players/male/drown1.wav" size="56134" crc="530c2d9c" md5="b0ed6afa04b2e57f59727ff6eb85c7d1" sha1="ec736aa70fd84e60d3de910c08873751d46cc1be" date="1997-11-26 03:37:20"/>
+		<rom name="baseq2/players/male/fall1.wav" size="25760" crc="507a464b" md5="7a2943c4824d0365a57b2bf3e0e81128" sha1="1abe8f82326f6f082ae2b76f58e1c76e8031baf9" date="1997-10-07 17:22:44"/>
+		<rom name="baseq2/players/male/fall2.wav" size="12412" crc="727ed067" md5="28c39bb738169587d5e971181ccf16b1" sha1="870ca371fd5fbb1c5163ed453732919b6c6fbd65" date="1997-10-07 17:40:34"/>
+		<rom name="baseq2/players/male/female/disguise.pcx" size="50932" crc="bf63c970" md5="b5f240c68238e3d8ff2b7ca6374e8972" sha1="5bea58edc2951cd2bdace438591647dbf3695c20" date="1998-08-13 20:24:02"/>
+		<rom name="baseq2/players/male/female/disguise_i.pcx" size="1950" crc="8f1eb911" md5="d285f07d4e10398e95ffa239cc0254d2" sha1="24ac595e762c62d2ef08942398fb218d62f829c4" date="1998-08-13 20:24:00"/>
+		<rom name="baseq2/players/male/flak.pcx" size="56636" crc="8180032f" md5="a25da9175683d7516631da1961c5f3ef" sha1="73a09418ff165e742ce80adbeb02191a488a591f" date="1997-11-27 02:16:46"/>
+		<rom name="baseq2/players/male/flak_i.pcx" size="1971" crc="b97bb3e5" md5="ed16d176fb1a3b6a1ea2fed2f863bd2a" sha1="02bdc9dffc7ef33eb531fae38e07ba331b01cb22" date="1997-11-27 02:16:44"/>
+		<rom name="baseq2/players/male/grunt.pcx" size="58004" crc="c97e896f" md5="34eaa46104de21bd7c4f8e8f48fac32e" sha1="e9f27e4bcf3537546f6b7993470a33b8fc7d771a" date="1997-11-27 02:16:46"/>
+		<rom name="baseq2/players/male/grunt_i.pcx" size="1967" crc="beefff9d" md5="0a57ea0f39fb763e0338e736bd59bc22" sha1="aeed789727a0fadcddee89f220bbc084045e2134" date="1997-11-27 02:16:44"/>
+		<rom name="baseq2/players/male/gurp1.wav" size="18382" crc="4a9dd946" md5="53644df5f8c2d1ace04f3fa555c79ae0" sha1="e46100e9940e82a0f2a7866e2d7dec56bb4c7999" date="1997-10-07 17:48:24"/>
+		<rom name="baseq2/players/male/gurp2.wav" size="18376" crc="a154e394" md5="7829cd11b6dc9bad808c293293ec907c" sha1="0129c2f8eb2816410b5363f09880f21cab300e1e" date="1997-10-07 17:50:52"/>
+		<rom name="baseq2/players/male/howitzer.pcx" size="59655" crc="e45dc37f" md5="f4a15fdb5036f2020c2a23462a4a8ae2" sha1="1ac3c6bf49caa9ac9ad4e6e6e3a8aee570dc4bd0" date="1997-11-27 02:16:46"/>
+		<rom name="baseq2/players/male/howitzer_i.pcx" size="1979" crc="89db2925" md5="3c9211a549d9bc126c168ea49a94741d" sha1="84e2aef6aa9b950a7f9989b94f598846e7c87f82" date="1997-11-27 02:16:44"/>
+		<rom name="baseq2/players/male/jump1.wav" size="15288" crc="a7e16ca9" md5="ee794f58cbced0643e2143d08d14d3a6" sha1="e093a3207a625991e15e96d1c8056a5bedd06ca9" date="1997-10-14 01:56:12"/>
+		<rom name="baseq2/players/male/major.pcx" size="58158" crc="58a489a7" md5="ba536b3b53506f47bbecd8699f78e755" sha1="e65e3651b1bf4a5b7bc4d3eb10df3457499e96c1" date="1997-11-27 02:16:46"/>
+		<rom name="baseq2/players/male/major_i.pcx" size="1971" crc="57d65b0d" md5="905dee6998c121babc9e62751e52703b" sha1="c4bb48c554509f405064cfbec846a192b8155252" date="1997-11-27 02:16:44"/>
+		<rom name="baseq2/players/male/male/disguise.pcx" size="56519" crc="321a1a9c" md5="b23f817d634af038a962d8f9d0a95f4e" sha1="2ddbe8c6bbc6eedffbca8e603b10b276b19d2b69" date="1998-08-13 20:24:00"/>
+		<rom name="baseq2/players/male/male/disguise_i.pcx" size="1986" crc="71429489" md5="986096c2d98ba630c0dd3260c8981571" sha1="f08c1a0819c43c1db4bc6abc44ef66e6b88ac384" date="1998-08-13 20:24:00"/>
+		<rom name="baseq2/players/male/nightops.pcx" size="57938" crc="72c9c675" md5="0ebaa3df3adb2f12a983a94ea82c15f0" sha1="86d1d9b6e143fe82b7d04ac97643f7cb95b7548b" date="1997-11-27 02:16:46"/>
+		<rom name="baseq2/players/male/nightops_i.pcx" size="1976" crc="35d7691b" md5="83c2754d59312ace64b5cf3ad11f9a71" sha1="56a8325c5558dd97ca9a95c572b4e16ac596134f" date="1997-11-27 02:16:44"/>
+		<rom name="baseq2/players/male/pain100_1.wav" size="17292" crc="db523565" md5="d492e20850243948166e91471d0b7839" sha1="744a0570981c397c1d07f7f73ae60c222bed0f3d" date="1997-10-03 16:59:38"/>
+		<rom name="baseq2/players/male/pain100_2.wav" size="20282" crc="0402ff42" md5="99438e6a46feabab8bec63411bba1dd6" sha1="7fd24504b267355642245572f3161435b3fdd72f" date="1997-10-03 17:14:32"/>
+		<rom name="baseq2/players/male/pain25_1.wav" size="21252" crc="eb754b78" md5="6a24f43061f8db2961b4adde76bf016d" sha1="289b2c61b10d46177d7de52a7ec663723358ea19" date="1997-10-03 17:01:22"/>
+		<rom name="baseq2/players/male/pain25_2.wav" size="22626" crc="c11f5e23" md5="825558a1abb9d5138952f6ec210efcef" sha1="cd2c2ec6f93848fa15070eaa831713464db19699" date="1997-10-07 18:36:00"/>
+		<rom name="baseq2/players/male/pain50_1.wav" size="34012" crc="f91fc097" md5="1096f5798b8ac7b8a4dede4d189ee2c1" sha1="95f7719a98062452c8a6a5881ae3f839c0ac5b38" date="1997-10-03 17:01:04"/>
+		<rom name="baseq2/players/male/pain50_2.wav" size="23452" crc="e90d0807" md5="49ac063de6c8f8d791428333b76d7363" sha1="065e3c6802783d6c14b744d1e870be8d6c30ba46" date="1997-10-07 17:10:24"/>
+		<rom name="baseq2/players/male/pain75_1.wav" size="18786" crc="adbf236e" md5="35d962b7fd722802bd445c7489b460d9" sha1="04d7549f8d9ce3dc06ce8ef02ea2b0daf10950e4" date="1997-11-15 00:20:12"/>
+		<rom name="baseq2/players/male/pain75_2.wav" size="22572" crc="db710b1f" md5="a11b2ba8ddde40cd9b44c7e2211ab627" sha1="e52bbe097532ea43c85fc9781c491bea1553cf9a" date="1997-10-03 17:00:28"/>
+		<rom name="baseq2/players/male/pointman.pcx" size="58619" crc="eff6b8b4" md5="10d6b2cf74286f7396fc1ac73840437c" sha1="4eba8e5cb10f1600210f03c54ece942a26372d2f" date="1997-11-27 02:16:46"/>
+		<rom name="baseq2/players/male/pointman_i.pcx" size="1956" crc="3074610c" md5="494824048e031d490e691ca9fefa8eb2" sha1="a83b1fab48587add55557dfcd79ee613c69bbfb2" date="1997-11-27 02:16:44"/>
+		<rom name="baseq2/players/male/psycho.pcx" size="56607" crc="3f94907e" md5="f600b69cb8a5d1b09bf2af436a7049a9" sha1="74ea1ca3f3ba0e1263b4b5cf72da578f8c560a29" date="1997-11-27 02:16:46"/>
+		<rom name="baseq2/players/male/psycho_i.pcx" size="1937" crc="63b94b33" md5="817a284dbbc63870c99e35f1c874f04c" sha1="7a5e0866f761d03440d3bf0df9f37de967953c89" date="1997-11-27 02:16:44"/>
+		<rom name="baseq2/players/male/rampage.pcx" size="56685" crc="e782507b" md5="1950086c138cd3c9d38660dc60fc9a6e" sha1="0e08ad046cd0021427e7bf0d20e4b8f1365e74e5" date="1997-11-27 02:16:46"/>
+		<rom name="baseq2/players/male/rampage_i.pcx" size="1936" crc="20809dcd" md5="0c1e9f726b37ef6d633343c39ad0d441" sha1="0fd0d6f6f4085c8bc76b2d7c8c32a39f64d9c775" date="1997-11-27 02:16:44"/>
+		<rom name="baseq2/players/male/razor.pcx" size="56767" crc="127a5c72" md5="f2a90e8e9c7756c7bc8a5c9ab22c7f86" sha1="140d46da98a8d47e6a68a2bf4c2607a80b96c003" date="1997-11-27 02:16:46"/>
+		<rom name="baseq2/players/male/razor_i.pcx" size="1924" crc="9a63ebf0" md5="68d88b858c7bfdd847217bf9e4ce694b" sha1="23360af8dc26503cc9c1c16f5aec0750fe47b5f8" date="1997-11-27 02:16:44"/>
+		<rom name="baseq2/players/male/recon.pcx" size="56672" crc="d1b0146e" md5="2e6dc986cf21d5eee1e2ffc5ba81f241" sha1="e2b9308ed0bfef460ed0c083e4244e6cd49642f3" date="1997-11-27 02:16:46"/>
+		<rom name="baseq2/players/male/recon_i.pcx" size="1936" crc="98fd5335" md5="0351e8eee92b10c286f1516384b150cb" sha1="20b009c0b343121df319e54b3ab69a680323203c" date="1997-11-27 02:16:44"/>
+		<rom name="baseq2/players/male/rogue_b.pcx" size="56441" crc="8cc597ba" md5="2d523b243c2137c9a0fbf56c8b4e93b2" sha1="85ae403d7ddab3fbafd0a5e61337e6714eb78f52" date="1998-08-13 20:24:02"/>
+		<rom name="baseq2/players/male/rogue_b_i.pcx" size="2043" crc="6aac7cbe" md5="a9493d515dbd2d4f04fd955ae5173ce8" sha1="a2eb53b8f047fd30adbe477d80a63256c2063ec8" date="1998-08-13 20:24:00"/>
+		<rom name="baseq2/players/male/rogue_r.pcx" size="56441" crc="014b807c" md5="cac300109c2b374041576e99ae24c333" sha1="fd45752bfa1349fe7c27c51fed7f5a7fa385908d" date="1998-08-13 20:24:02"/>
+		<rom name="baseq2/players/male/rogue_r_i.pcx" size="2043" crc="83e38558" md5="34375d7fd7e3a21e3600c8d3bb32eca8" sha1="fe5cd75426fd695c7dcf202ca868ce1b2d7f74fb" date="1998-08-13 20:24:00"/>
+		<rom name="baseq2/players/male/scout.pcx" size="57298" crc="6bd12a25" md5="05d6229df32e289c8e2e95d9aa627d51" sha1="4a8eba83ec5ce0ae0502e4a642320813af790bea" date="1997-11-27 02:16:46"/>
+		<rom name="baseq2/players/male/scout_i.pcx" size="1959" crc="668412dd" md5="328b0bd036961fcf20d352eeef9d1059" sha1="5fccbbfffd1af59e5e528d17360a5961609a340c" date="1997-11-27 02:16:44"/>
+		<rom name="baseq2/players/male/sniper.pcx" size="61661" crc="3479c1f9" md5="5c9c6ecd148ddfd14a5191d92d42bd0c" sha1="b04aad26c7c0ab4e6c68c4ad353cb2f937657cb1" date="1997-11-27 02:16:46"/>
+		<rom name="baseq2/players/male/sniper_i.pcx" size="2109" crc="d936909b" md5="e0e503251db60e1c867f1675d287a2fc" sha1="d2c887403f90415367bdd44a49d84983059e9b29" date="1997-11-27 02:16:44"/>
+		<rom name="baseq2/players/male/tris.md2" size="278592" crc="0661a4e7" md5="930dd7b37f9a40dc0ed02aaa86039710" sha1="aad2399af446673a88c6aaffef744b323f4fdb8a" date="1997-11-27 02:18:00"/>
+		<rom name="baseq2/players/male/viper.pcx" size="56334" crc="d8a3c594" md5="bfbba21b67600e4e7a02ce4cb92dd0b9" sha1="621aa5882f431ee037dd357476419bb4a34b78ce" date="1997-11-27 02:16:46"/>
+		<rom name="baseq2/players/male/viper_i.pcx" size="1925" crc="92600e86" md5="05cc280cee4ce1cb61bed6fa87eae5f1" sha1="4043be084443866dff939c9ff6ec9169426f56c2" date="1997-11-27 02:16:44"/>
+		<rom name="baseq2/players/male/w_bfg.md2" size="96757" crc="18f3842e" md5="234b1c49e4cc1dc86e9e46e4ab105479" sha1="08cd3df6f04daecbbf423b55080b7966daba2fa3" date="1998-03-31 09:04:56"/>
+		<rom name="baseq2/players/male/w_blaster.md2" size="72520" crc="f64d845d" md5="68a19777b8a25f1657e321d78b949347" sha1="11f153e211545085fef8bc71173e1120f6e12bab" date="1998-04-01 11:17:02"/>
+		<rom name="baseq2/players/male/w_chainfist.md2" size="151453" crc="7624eae6" md5="48890c7dae7053a8e9089abcaaa95cf9" sha1="4dc53a650bd2693bf6ae80bbcb15860332ded85a" date="1998-08-11 18:22:48"/>
+		<rom name="baseq2/players/male/w_chaingun.md2" size="63409" crc="f1bd87c8" md5="fb92d87e2255d767e692dd4d5dda490b" sha1="dea4578bf0e3048cd23f48ff4ed913f4c37cc161" date="1998-03-31 15:29:52"/>
+		<rom name="baseq2/players/male/w_disrupt.md2" size="155189" crc="dd8a2427" md5="a471b38d21d586da0a1064bfdeca9d04" sha1="798a68866956e1b8cac315241824f5091714d849" date="1998-08-11 11:45:34"/>
+		<rom name="baseq2/players/male/w_etfrifle.md2" size="107893" crc="7539f658" md5="48747d1bc3d81e698cf1fa6ee05607ea" sha1="a2609f78911266e33bbf46917e882a5c31466291" date="1998-08-11 11:46:06"/>
+		<rom name="baseq2/players/male/w_glauncher.md2" size="81120" crc="7cf8c987" md5="3c22c7dcfc75ce786bd7e5d5c61defb4" sha1="07ceb23f044f41fd9d0e0ceea1277b032933529a" date="1998-04-01 11:19:34"/>
+		<rom name="baseq2/players/male/w_grapple.md2" size="62717" crc="3b5d67d5" md5="6081b82197fa8105e8380445a6422904" sha1="9afff991c834e4c5c016d314ae0bf68440f6311e" date="1998-03-31 09:04:56"/>
+		<rom name="baseq2/players/male/w_hyperblaster.md2" size="71613" crc="7f3087d7" md5="eaa308d4893857646dba28cba84b35f9" sha1="1fec9d29a891985bead7de588bc5ccf154d36109" date="1998-03-31 09:04:56"/>
+		<rom name="baseq2/players/male/w_machinegun.md2" size="65453" crc="b26cdf1f" md5="f0db74b83301a5b6d5414abc115f268b" sha1="9da211e0d5318636d32a9a93990f676fce14f1bd" date="1998-03-31 09:04:56"/>
+		<rom name="baseq2/players/male/w_phalanx.md2" size="127481" crc="f555b8e5" md5="f99b7aa61adbfc59038a414e81b9af53" sha1="3091c94fc0176657c225b001e3c57305edf4a1c0" date="1998-08-11 11:46:38"/>
+		<rom name="baseq2/players/male/w_plasma.md2" size="101221" crc="2c03e5ca" md5="b70e91170b6923f83e089a865b26591e" sha1="f3a177117f12863d9e829d9beaaa42e0cb57b48b" date="1998-08-11 11:47:12"/>
+		<rom name="baseq2/players/male/w_plauncher.md2" size="91565" crc="04bc30d8" md5="80caf9d707d2e681e0c54dda1f4fabf9" sha1="c4627faae8529371b8bb6acbd54d0674541dd492" date="1998-08-11 16:20:06"/>
+		<rom name="baseq2/players/male/w_railgun.md2" size="92173" crc="0acc153e" md5="b5a6a8e1235e0129ba6474983aef9989" sha1="3d3d7370dbb2a8cae18f40149f2ab58abfc90e97" date="1998-03-31 09:04:56"/>
+		<rom name="baseq2/players/male/w_ripper.md2" size="91881" crc="b3c03114" md5="b00cd4cce1cb9fdd9a6eeb1837f79778" sha1="00de49a187f59804d1fb92b8b0fa54fa9d1aed9b" date="1998-08-11 11:47:42"/>
+		<rom name="baseq2/players/male/w_rlauncher.md2" size="97221" crc="106474ca" md5="9656c56907b8284bbbf30fe60443b211" sha1="95017fe5fc294b0af3017c1d02e51aa783e9777e" date="1998-03-31 09:04:56"/>
+		<rom name="baseq2/players/male/w_shotgun.md2" size="38912" crc="47a7291d" md5="e9a5e9b2df9bf2fa5e53794f929419af" sha1="56f77c1121dd9fde187529a37723420703a2a74a" date="1997-11-27 02:18:08"/>
+		<rom name="baseq2/players/male/w_sshotgun.md2" size="85556" crc="476bec1d" md5="46967dbfad628470a7bc344b20086d53" sha1="7e2d56deee8cf4efa08374998f67fe3c10efd6b6" date="1998-04-01 11:04:12"/>
+		<rom name="baseq2/players/male/weapon.md2" size="38912" crc="47a7291d" md5="e9a5e9b2df9bf2fa5e53794f929419af" sha1="56f77c1121dd9fde187529a37723420703a2a74a" date="1997-11-27 02:18:08"/>
+		<rom name="baseq2/players/male/weapon.pcx" size="9089" crc="942b09fb" md5="0758d59ebfcb5931bda2b0985faf98a9" sha1="7fd2251f2a90c38f3c21e4551b75d7643c3764ac" date="1998-01-23 15:38:32"/>
+		<rom name="baseq2/video/end.cin" size="19311290" crc="c9b1461e" md5="36fdaddd1c1b56ba10472466e4486ff8" sha1="69724888bcf2a39ea6b87a940e7e701149f4da31" date="1997-11-26 01:45:56"/>
+		<rom name="baseq2/video/eou1_.cin" size="6038210" crc="7829021c" md5="cbab517cddc03ec676d7153eeb13417b" sha1="62a17b060f85b6525f197a1fd0d1902967ae9bf4" date="1997-11-17 20:32:30"/>
+		<rom name="baseq2/video/eou2_.cin" size="6586381" crc="5ae2edce" md5="37201aa9c798982e7739dfdbad61c004" sha1="1b7b7febbaa99bbb1f5e4f4ecf9bb4e7fa62d994" date="1997-11-17 20:33:54"/>
+		<rom name="baseq2/video/eou3_.cin" size="6708418" crc="7bb7ee4b" md5="f2b7fac58d5aa24bcf76ec942253dfcc" sha1="4f0048e4bead1e20c62c33253e27129c21e0dfd8" date="1997-11-17 20:35:20"/>
+		<rom name="baseq2/video/eou4_.cin" size="5464002" crc="c4698367" md5="b0e360a5c4a55789e00d3f2223e23dc4" sha1="f3adb001510b0a13ebd8c1c12315668c41ea769e" date="1997-11-17 20:36:34"/>
+		<rom name="baseq2/video/eou5_.cin" size="6848133" crc="8a74de9d" md5="76651dc4f2d92ed278ee8e2cac7c7600" sha1="11a09767aea79d97f1fffd4d44e41433eff99bfa" date="1997-11-17 20:38:00"/>
+		<rom name="baseq2/video/eou6_.cin" size="7099332" crc="aaba55c8" md5="0b14fff288b8d260f812e830ce6bff7c" sha1="10c586f074d2d2f037b37332233b8cb11cc1fdbc" date="1997-11-17 20:39:34"/>
+		<rom name="baseq2/video/eou7_.cin" size="7766671" crc="b0bed9b0" md5="a342a79fadfe9efa2ce549842168ec7c" sha1="1ddcedcbf4bc536f54e8d0186074e90f3c61848d" date="1997-11-17 20:41:06"/>
+		<rom name="baseq2/video/eou8_.cin" size="11875656" crc="b46ab8a3" md5="24a5178220322b3a4fb42f6b0757b821" sha1="d594aeac56260475db9950a90d2a81862b0ac0ae" date="1997-11-17 20:43:30"/>
+		<rom name="baseq2/video/idlog.cin" size="3159828" crc="6c91ba56" md5="0747670d94cc873f8ce522d7652143a1" sha1="d5538f2b4f5eba4e7d9465d14c7f984686387fd7" date="1997-11-26 23:05:16"/>
+		<rom name="baseq2/video/ntro.cin" size="82836235" crc="928c9cd3" md5="72846e547415856028006aaa4089c9c9" sha1="bf815fbf6362216172a2df3e422202d3a62d4429" date="1997-11-26 23:15:04"/>
+		<rom name="chaos/gamex86.dxe" size="416060" crc="b261d648" md5="83ab4f2f881da075c6304dae06e411b3" sha1="cba05096b02db2e483122e10001d2ae7502144c8" date="2021-07-21 13:10:02"/>
+		<rom name="ctf/gamex86.dxe" size="256006" crc="ee551023" md5="a3fc3f3c9ac75b7d0e243084ff10c383" sha1="5eb2c10b4bc0b0840449cde86b542c6b229ab8f9" date="2021-07-21 13:09:56"/>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2016-06-24 05:51:40"/>
+		<rom name="dday/gamex86.dxe" size="688451" crc="eaa9d6ed" md5="472439868ed049656643eac0602d2e7f" sha1="790b76f6f9c22b82ac8daca88faf9e0930da6ec9" date="2021-07-21 13:10:04"/>
+		<rom name="DOS.YML" size="17" crc="9e2ade80" md5="5e4e9514ccbed110c66ed799f2b0c449" sha1="7ff552bf9a73a8ba6fe5089d140c63e3d6be659c"/>
+		<rom name="gamespy.dxe" size="13627" crc="6a484010" md5="c9830129c425c1d396a5f7f0a4320b88" sha1="b711bd27b6d01e6321402a9a38ff305c76e71edd" date="2021-07-21 13:10:06"/>
+		<rom name="gl.dxe" size="1527724" crc="be4b3f83" md5="360f2a644e84b6d75b0b8a2fc3582124" sha1="519e3f55167b743faa880e78616787d826c8ebb3" date="2021-07-21 12:05:40"/>
+		<rom name="glide3x.dxe" size="151003" crc="555b8b81" md5="4cb3ffbaf6f44ec1ea0430dacd3cb124" sha1="02e7c1efcaef85a3f2b2d90c319948227bcd13fa" date="2019-05-21 12:21:24"/>
+		<rom name="opengl/fxmesa/gl.dxe" size="1527724" crc="be4b3f83" md5="360f2a644e84b6d75b0b8a2fc3582124" sha1="519e3f55167b743faa880e78616787d826c8ebb3" date="2021-07-21 12:05:40"/>
+		<rom name="opengl/mesa/gl.dxe" size="1702855" crc="9eeb781c" md5="55fc598031ef1539dfcc2d2f487d8a15" sha1="a90f146a4025c06491a5b7d33992b92d00483fd3" date="2016-06-24 05:51:40"/>
+		<rom name="opengl/opengl.txt" size="590" crc="e3d9201b" md5="181939bafc7df2c065e91818628ea480" sha1="b40e5d05bf1cc80cb5537bdb045db057b73b9c3e" date="2016-06-24 05:51:40"/>
+		<rom name="opengl/sage/gl.dxe" size="341202" crc="dd4cc786" md5="dec813a7f1ef683d7d67fd0d06d64e7e" sha1="6cb49f6f294daf81a59f3fb7bfa831706e580ffa" date="2021-07-21 12:05:40"/>
+		<rom name="opengl/sage/sage.ini" size="4283" crc="4c07e469" md5="ddbacff740f8dac66a1a364c2e5504ca" sha1="cba25dd3f15101c20370d8ba5bc28ff72dfb450c" date="2018-04-27 00:28:20"/>
+		<rom name="q2.exe" size="834048" crc="9ac4b1bd" md5="371c18747f059274b3dba4e07c1f1fb3" sha1="b3ec67601f857dfd4e8996f116662fd6ec02eaa3" date="2021-07-21 13:10:06"/>
+		<rom name="Quake II (USA) (Rerelease) (1998-08-25).chd" size="763599744" crc="272dba97" md5="7a38e37dfd60b0a9c87f170dfd394de2" sha1="7119664bbfbd119ccb78a9bfb1792c169f46afe5">
+			<track number="1" type="MODE1_RAW" frames="190284" pregap="0" duration="42:17:09" size="447547968" crc="09705b99" md5="83fbef3c2ed31f785636f8513fb5ff24" sha1="8fc984ec91ae9ba1f762d4afb417262cdac45380"/>
+			<track number="2" type="AUDIO" frames="15733" pregap="75" duration="03:29:58" size="37004016" crc="e145a106" md5="fe0255fb99eb7bc8e321966e2a18582c" sha1="0ba4b0b6b07f7873ac7279f6c85751cd46950843" in_zeros="184705" out_zeros="0" trimmed_crc="5373e396"/>
+			<track number="3" type="AUDIO" frames="10321" pregap="0" duration="02:17:46" size="24274992" crc="b3fc76e3" md5="3d08b9e56cbb0d611c42bf91152438d9" sha1="ee14d6bc5fe8e0def32c1d3906521b3e6294dbfc" in_zeros="0" out_zeros="0" trimmed_crc="b3fc76e3"/>
+			<track number="4" type="AUDIO" frames="11403" pregap="0" duration="02:32:03" size="26819856" crc="e4a2505e" md5="49c89e6ac99bdaee09424128f9b44fe7" sha1="32ab4ad7a311d0bd2f65800604192e03a9aee2d5" in_zeros="0" out_zeros="0" trimmed_crc="e4a2505e"/>
+			<track number="5" type="AUDIO" frames="12855" pregap="0" duration="02:51:30" size="30234960" crc="ad30c223" md5="5faa778537d857ffa343e87ac4127352" sha1="84534c387c8da75ec68582ed96af7cfa81af66d4" in_zeros="0" out_zeros="0" trimmed_crc="ad30c223"/>
+			<track number="6" type="AUDIO" frames="11611" pregap="0" duration="02:34:61" size="27309072" crc="e5978c25" md5="9e1b08dc0c6dbe3cddd4e23627864eef" sha1="6b8ad7ce7653929d333a8bd048f63778772a2bc6" in_zeros="0" out_zeros="0" trimmed_crc="e5978c25"/>
+			<track number="7" type="AUDIO" frames="16131" pregap="0" duration="03:35:06" size="37940112" crc="59535e4b" md5="7b2a6051f12c16ef99fd7f1ff74c321b" sha1="dc09c735e73106b7f93f8b6442e2e4c59ee0018e" in_zeros="2" out_zeros="0" trimmed_crc="4d8a33f2"/>
+			<track number="8" type="AUDIO" frames="13810" pregap="0" duration="03:04:10" size="32481120" crc="7336b4b6" md5="c8da07d5def9f3f7f081299813bb0ba1" sha1="cb08838c742d1b89828d001231955765ebfe2fe4" in_zeros="0" out_zeros="1" trimmed_crc="e5c845a1"/>
+			<track number="9" type="AUDIO" frames="11687" pregap="0" duration="02:35:62" size="27487824" crc="89cdec42" md5="f7ccd6e0fb28c37a4bf27e69f6a1dcd6" sha1="406acb44cbf98e0770cf4d8d3e903db5fc093e5f" in_zeros="0" out_zeros="0" trimmed_crc="89cdec42"/>
+			<track number="10" type="AUDIO" frames="8998" pregap="0" duration="01:59:73" size="21163296" crc="36ee81fa" md5="f5902df891e7c753298efca00fe30d40" sha1="13da4c66cc580d82429b9bc39a62a1fcedcd1425" in_zeros="0" out_zeros="1" trimmed_crc="e2a17c8c"/>
+			<track number="11" type="AUDIO" frames="9080" pregap="0" duration="02:01:05" size="21356160" crc="229e3c2e" md5="be8c7f377d15dcd376fc62467216fd73" sha1="e17c16d1f472fa036fcb89491d66ebcba52518bd" in_zeros="0" out_zeros="0" trimmed_crc="229e3c2e"/>
+		</rom>
+		<rom name="readme.fx" size="9243" crc="68ef47c4" md5="1471e2c6cfad850059e4712fb0cf0a41" sha1="b605a9f4afb08856d092d7dbe5ee36d9d51e1425" date="2017-06-25 05:15:44"/>
+		<rom name="readme.txt" size="6954" crc="ddb844fe" md5="acbf85146d24a67ff93cdf521febe428" sha1="3eae65afad23abd30551e5abc81ffc1100fe21b1" date="2017-06-25 05:15:44"/>
+		<rom name="ref_gl.dxe" size="182228" crc="25fcdd95" md5="560c0d60192fe88c2ce26a0ca5a6971c" sha1="6dcc874062abc5a7b82d992f5bc2fab700648f02" date="2021-07-21 13:09:54"/>
+		<rom name="ref_soft.dxe" size="139622" crc="e1036b98" md5="585fb74cd69d8d6d36e337dbad1c6075" sha1="8327daa82cec6e03b79f6a3199169462bd5735f8" date="2021-07-21 13:09:52"/>
+		<rom name="rogue/gamex86.dxe" size="625923" crc="dbed19cc" md5="91a546a42950d4e1562571c1595cc9fe" sha1="0481bf969fd09d1575063f42e7ed296d4040d316" date="2021-07-21 13:09:58"/>
+		<rom name="sndpci.dxe" size="43364" crc="b0b8bf6e" md5="777150578f3779192eb0718350a9386c" sha1="586d6707373fc03d22ef59b2d39607772a072774" date="2021-07-21 12:05:40"/>
+		<rom name="voodoo/cvg/glide3x.dxe" size="178411" crc="33332168" md5="142c6d9c0d3ea3426c47049f4b4b2b3e" sha1="797669aa26b56d1fc07f8e8fed5055716040e550" date="2019-05-21 12:21:24"/>
+		<rom name="voodoo/h3/glide3x.dxe" size="116366" crc="59779c09" md5="8ef8a4839b0c4c11efacc021bf7c1233" sha1="04a9d27542c4c3568783419f97fefa767d899b97" date="2019-05-21 12:21:24"/>
+		<rom name="voodoo/h5/glide3x.dxe" size="236385" crc="ccf12291" md5="7d7b0b7acaa35622127d63a1ad8ed8d4" sha1="b842961dcd1ab793f7892e97ff0fc48c5e2c809d" date="2019-05-21 12:21:24"/>
+		<rom name="voodoo/sst1/glide3x.dxe" size="151003" crc="555b8b81" md5="4cb3ffbaf6f44ec1ea0430dacd3cb124" sha1="02e7c1efcaef85a3f2b2d90c319948227bcd13fa" date="2019-05-21 12:21:24"/>
+		<rom name="voodoo/sst96/glide3x.dxe" size="243766" crc="7f762e0a" md5="7020281a5e8ef1245094e97ed3e9612a" sha1="64ea3a4b37cbe762ec78eec6efbea2e5d737c4e9" date="2019-05-21 12:21:24"/>
+		<rom name="voodoo/voodoo.txt" size="331" crc="7fdcea0a" md5="5ae9c10a11d4e7682e1c7924b9f947a2" sha1="fcce7c33232808f4b9870ef8f5e347a82ca06843" date="2016-06-24 05:51:40"/>
+		<rom name="xatrix/gamex86.dxe" size="518947" crc="625df6fa" md5="e59bf0264c970b310f5c5009d2145ed9" sha1="ae4cf58bc5b3ff50a31d64739e0fc916c6364f90" date="2021-07-21 13:09:56"/>
+		<rom name="zaero/gamex86.dxe" size="541251" crc="51c80090" md5="ba85aba51a97dfe55ed9cc843eb7728c" sha1="da50206668a531635816d672590f2bb30177e070" date="2021-07-21 13:10:06"/>
+	</game>
+	<game name="Quake II Mission Pack - Ground Zero (1998) (id Software).dosz">
+		<description>Quake II Mission Pack - Ground Zero</description>
+		<comment>Ground Zero v3.20 with Q2DOS 2021-07-21</comment>
+		<comment_dosc>Auto start and a BAT file for launching the game</comment_dosc>
+		<year>1998</year>
+		<developer>id Software</developer>
+		<parent>Quake II (1997) (id Software).dosz</parent>
+		<rom name="Quake II (1997) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Quake II Mission Pack - Ground Zero (USA).chd" size="639946368" crc="48f2f4da" md5="bc34b3f01997b71fbffcb8bdfd0e91c4" sha1="3c1f8d288e2e87418d89f5b2cdfb27eff31af228">
+			<track number="1" type="MODE1_RAW" frames="124685" pregap="0" duration="27:42:35" size="293259120" crc="762d6b41" md5="54e9f0229119c694b353807577c8b172" sha1="a8661435144fb6ed25d837957d0662d37505396b" in_zeros="1" out_zeros="0"/>
+			<track number="2" type="AUDIO" frames="13160" pregap="75" duration="02:55:35" size="30952320" crc="fe51905c" md5="50588c72dddf5d9b03e3ddb7af628435" sha1="2a2c2a1eb5b8ca3d12e4cc49ea0316deda3526a4" in_zeros="184654" out_zeros="178949"/>
+			<track number="3" type="AUDIO" frames="11662" pregap="149" duration="02:35:37" size="27429024" crc="c2cb414b" md5="6c0c662ce2aed390e318357203b28f2f" sha1="feb4764fb7e8303f9426991a0acbed2511a9d4e4" in_zeros="359038" out_zeros="4304"/>
+			<track number="4" type="AUDIO" frames="14547" pregap="149" duration="03:13:72" size="34214544" crc="eddd8811" md5="7ac4d1eccbbcd2e817775e52aa5cdd1b" sha1="0649b4885f76899b572e5cab94d7ac03cb378217" in_zeros="360094" out_zeros="177557"/>
+			<track number="5" type="AUDIO" frames="13307" pregap="149" duration="02:57:32" size="31298064" crc="2272da96" md5="4831010f9d019912580192db66827064" sha1="b1a7479c59b2ffdd48443375a7a537d2eacfcfef" in_zeros="360530" out_zeros="177124"/>
+			<track number="6" type="AUDIO" frames="13487" pregap="149" duration="02:59:62" size="31721424" crc="f4754762" md5="76b38a48a357e54c92a0b011681f5d1f" sha1="46f86dddce82327f0193427a81cce28186d0bcbf" in_zeros="358622" out_zeros="6128"/>
+			<track number="7" type="AUDIO" frames="13418" pregap="149" duration="02:58:68" size="31559136" crc="80b8cb75" md5="55929bafa02b47e0d00193ce7ebaa66c" sha1="bd844fb02dbf4af2830d32912a55ae92743d5407" in_zeros="359370" out_zeros="5291"/>
+			<track number="8" type="AUDIO" frames="13054" pregap="149" duration="02:54:04" size="30703008" crc="7d695e40" md5="6a222b6ccf7ef83a4303fb9b01fb0f99" sha1="f1301227a8f0fb2007cbc43f25f26bb2cf10c123" in_zeros="359812" out_zeros="4904"/>
+			<track number="9" type="AUDIO" frames="13878" pregap="149" duration="03:05:03" size="32641056" crc="563cb0fe" md5="4b76e35c56c1d8c3b73b175aa6011d1c" sha1="8c3b3ac95753e3dbe99d220b273c3b473cf07f3f" in_zeros="358750" out_zeros="178876"/>
+			<track number="10" type="AUDIO" frames="11145" pregap="149" duration="02:28:45" size="26213040" crc="eb849043" md5="9f69eb0064ae86d8437561fce68880ce" sha1="e3536b548773fb6ae25aed3a6d76d1bce032e883" in_zeros="359720" out_zeros="6245"/>
+			<track number="11" type="AUDIO" frames="20717" pregap="149" duration="04:36:17" size="48726384" crc="9398a662" md5="5f8b70795010174c4f0632be1af507a6" sha1="c3b0e81c0118536f678881dd51a97650b3186c43" in_zeros="356684" out_zeros="4462"/>
+		</rom>
+		<rom name="rogue/gamex86.dll" size="561152" crc="b6ca0929" md5="89213bdb367e265d8c2b6a0254decb75" sha1="2fdab91bee3c8da1cdd1a24878009d2ce5f39caf" date="1998-10-16 15:39:30"/>
+		<rom name="rogue/pak0.pak" size="109117652" crc="a0663de3" md5="5e2ecbe9287152a1e6e0d77b3f47dcb2" sha1="8d3979e90f2ffd97692c5d1461b6ddaa5bf84ce6" date="1998-09-02 18:11:18"/>
+		<rom name="rogue/video/logo.cin" size="3157924" crc="0df00853" md5="258c3dbaa0d7a1c2f1f35731b0eed728" sha1="b954d4f352ca4802a57c22aeaf68fb76ccd05d21" date="1998-08-25 18:08:48"/>
+		<rom name="rogue/video/rend.cin" size="22580919" crc="84a1f81e" md5="ee51eb59ac4b75fb432af829235d656c" sha1="7788691774125b7193c55b6b205f8c6a96f2736c" date="1998-09-01 04:43:02"/>
+		<rom name="rogue/video/reu1_.cin" size="13926931" crc="cd050220" md5="72137151ae5d7528aaf999975c2e105b" sha1="f44cbc4058cb6428ce8d3eb436395fa62d035823" date="1998-09-01 04:59:20"/>
+		<rom name="rogue/video/reu2_.cin" size="12118957" crc="be108ed5" md5="ed125b89f04f5454c9e101654601539f" sha1="7e5bc0a4b56d8fc12134b5607b3a4025dc1243d1" date="1998-09-01 04:59:48"/>
+		<rom name="rogue/video/reu3_.cin" size="12172697" crc="f3e243d3" md5="dca7fd5fe6680ff066808798478fd139" sha1="69918cdfad9ec6e9c4e0d82e330e6cfcb975654f" date="1998-09-01 05:00:32"/>
+		<rom name="rogue/video/reu4_.cin" size="14809635" crc="8bcdc9e6" md5="1db9b40d45926bbdeae66e92eeee1c5b" sha1="65756654193ee74aaffc792c7d1ade463d98c4ad" date="1998-09-01 05:01:22"/>
+		<rom name="rogue/video/rintro.cin" size="38434032" crc="fc019931" md5="3b6b90af398deccff95dbba63a8a38bf" sha1="7b79eab8955e632153d3dc9e5435885909cc7052" date="1998-08-31 23:53:32"/>
+	</game>
+	<game name="Quake II Mission Pack - The Reckoning (1998) (id Software).dosz">
+		<description>Quake II Mission Pack - The Reckoning</description>
+		<comment>The Reckoning v3.20 with Q2DOS 2021-07-21</comment>
+		<comment_dosc>Auto start and a BAT file for launching the game</comment_dosc>
+		<year>1998</year>
+		<developer>id Software</developer>
+		<parent>Quake II (1997) (id Software).dosz</parent>
+		<rom name="Quake II (1997) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Quake II Mission Pack - The Reckoning (USA).chd" size="570423168" crc="47fa3f5b" md5="0ccc3f80d79cf7b6904846e0a68c9517" sha1="0a5ff6aaca29ca6ae4d357a8ef4ac41774d3ed54">
+			<track number="1" type="MODE1_RAW" frames="102538" pregap="0" duration="22:47:13" size="241169376" crc="aefa5c3a" md5="3ad68e8892daa2c4801b1b87f9267c46" sha1="5d3c9f7cb3e7437d49f16253f8e4dbe2627c3683" in_zeros="1" out_zeros="0"/>
+			<track number="2" type="AUDIO" frames="11762" pregap="75" duration="02:36:62" size="27664224" crc="cdf823cb" md5="1de23a412ba0e1f321593966ef49d891" sha1="cfd34d9720a4053be46427629e4f0b62b1cd9b90" in_zeros="179176" out_zeros="5969"/>
+			<track number="3" type="AUDIO" frames="11661" pregap="149" duration="02:35:36" size="27426672" crc="d4b229a0" md5="fccf9e7b49294694a04e11703c9bf2cb" sha1="049be07ec0dfd2e87bd9bfaa7d0c29853f981ee8" in_zeros="353226" out_zeros="5296"/>
+			<track number="4" type="AUDIO" frames="14471" pregap="149" duration="03:12:71" size="34035792" crc="df4400e8" md5="7ab6880bee3d2e6b5ea4e609b7fe681d" sha1="175bd18b667c23e6140e1fc19014f6038bec9977" in_zeros="353226" out_zeros="6361"/>
+			<track number="5" type="AUDIO" frames="16279" pregap="149" duration="03:37:04" size="38288208" crc="4693cdc9" md5="3efe9b31b98b549960f1615cb037e670" sha1="02b30dfd93e16bfd0b8f29c75490bee867875056" in_zeros="353226" out_zeros="4364"/>
+			<track number="6" type="AUDIO" frames="13487" pregap="149" duration="02:59:62" size="31721424" crc="a627226a" md5="976acfc8b356626849be91c14b2f43d7" sha1="f7a9b576b1e0195eb47b76ce110de2381d4c1140" in_zeros="353226" out_zeros="5153"/>
+			<track number="7" type="AUDIO" frames="15806" pregap="149" duration="03:30:56" size="37175712" crc="9475f6ca" md5="2f395b4598658192fedd03552d29c2cd" sha1="5cf58bbb1506feba87de5d3c5147eb1877f2ae25" in_zeros="353225" out_zeros="5052"/>
+			<track number="8" type="AUDIO" frames="13231" pregap="149" duration="02:56:31" size="31119312" crc="ea89596e" md5="353303c3b3aac19dd09897e1ef734288" sha1="5af678ada8af5541a418c2f94c595c16d75604f9" in_zeros="353226" out_zeros="4978"/>
+			<track number="9" type="AUDIO" frames="10469" pregap="149" duration="02:19:44" size="24623088" crc="afac9abd" md5="d4a3e363aae511cffd757c00d8bd4f1f" sha1="936d99459e45edd7376c032894bc82e52d9a5ade" in_zeros="353224" out_zeros="5175"/>
+			<track number="10" type="AUDIO" frames="11552" pregap="149" duration="02:34:02" size="27170304" crc="5423b8c1" md5="0aac4d4e5a1cc94e944a340cdfb2aede" sha1="ebd25ce813b836a67b5ac0b07f8a1063b12655f3" in_zeros="353224" out_zeros="5412"/>
+			<track number="11" type="AUDIO" frames="13053" pregap="149" duration="02:54:03" size="30700656" crc="672496c2" md5="f8fc44ff29176e6fb61b555394063bdf" sha1="9e8782cadef2ca7f7082c489817029c7daf5e98e" in_zeros="353224" out_zeros="2692"/>
+		</rom>
+		<rom name="xatrix/gamex86.dll" size="468992" crc="cd5dfd89" md5="ec77f4b1722bd1755e80dd5bfa91a27e" sha1="93f7e1e3cb347221906b4ba6404637f5c382f0b2" date="1998-10-16 15:39:30"/>
+		<rom name="xatrix/pak0.pak" size="93310499" crc="f2b3724e" md5="f5e7b04f7d6b9530c59c5e1daa873b51" sha1="05070e2567ac3f726b4ef8eb62f0c645cdc24547" date="1998-05-17 18:22:26"/>
+		<rom name="xatrix/video/idlog.cin" size="3159828" crc="6c91ba56" md5="0747670d94cc873f8ce522d7652143a1" sha1="d5538f2b4f5eba4e7d9465d14c7f984686387fd7" date="1997-11-26 19:05:16"/>
+		<rom name="xatrix/video/logo.cin" size="4704610" crc="c5328fcd" md5="ec903190f143a5d52eee0fd36f755f7a" sha1="e9e8e03ae07dc31b58c9bd6c1846b03c25ed9450" date="1998-05-07 07:16:14"/>
+		<rom name="xatrix/video/xin.cin" size="13226649" crc="aa12e1a7" md5="1143b2b76e4e218192cb6640bf71b2a1" sha1="995a1c746036da47906c42f84dccc48d85b863da" date="1998-05-13 06:48:00"/>
+		<rom name="xatrix/video/xout.cin" size="11194445" crc="1e2de301" md5="a0d77fc0672986b572f3f514ac5ec555" sha1="ca917aa09a8bab1e3b26fc48831b37db9951269f" date="1998-05-12 12:13:42"/>
+		<rom name="xatrix/video/xu1.cin" size="18476149" crc="02f42d4b" md5="1079f01bd0ad17faf2405a266d7d4733" sha1="98f4a4acb55205d18a075e10fe11beaaa8274d4c" date="1998-05-01 13:07:42"/>
+		<rom name="xatrix/video/xu2.cin" size="14513573" crc="752a0586" md5="e0c7f0af29060ebe7476ea4b000b096d" sha1="587d53e951d7687e56c66954c1dcf7850642b61d" date="1998-05-01 13:08:14"/>
+		<rom name="xatrix/video/xu3.cin" size="9192461" crc="43465ab8" md5="9ad6f4cbc9834784420a3b6bd6d2c76b" sha1="420e0463f44337dcea84d0340dfd504b8289b9c3" date="1998-05-01 13:08:40"/>
+		<rom name="xatrix/video/xu4.cin" size="14874670" crc="8ae0be42" md5="441e0e33ef48aa028896dfcee3613f74" sha1="b4de86dc16c59ca93c9f2953d8e273dbe4272e87" date="1998-05-01 13:09:18"/>
+	</game>
 	<game name="Return to Zork (1993) (Infocom).dosz">
 		<description>Return to Zork</description>
 		<comment>Installed from v1.1 USA Bundle Version OEM CD-ROM with patch v1.2 applied</comment>
