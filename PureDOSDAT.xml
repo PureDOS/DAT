@@ -1534,9 +1534,11 @@
 	</game>
 	<game name="Crystal Caves Vol. 1 - Troubles with Twibbles (1991) (Apogee Software).dosz">
 		<description>Crystal Caves Vol. 1 - Troubles with Twibbles</description>
-		<comment>Shareware episode v1.0a</comment>
+		<comment>Shareware episode v1.0a. Also matches with GOG</comment>
+		<comment_dosc>Auto start</comment_dosc>
 		<year>1991</year>
 		<developer>Apogee Software</developer>
+		<link type="shareware">https://archive.org/download/ftp.3drealms.com-20090517/ftp.3drealms.com-20090517.zip/share%2F1cc10a.zip</link>
 		<rom name="CC1-1.SND" size="7320" crc="4b469c40" md5="6be53a3d1297e3284be3a05d2221e50d" sha1="08372b6a43fbd3c9171df22036dc31732de2ce5f" date="1991-11-11 13:00:02"/>
 		<rom name="CC1-2.SND" size="7320" crc="623318a6" md5="28b7fbaaad8336cb7114f1bd8d89a3e4" sha1="5047087828f7c5e43190ab448aa9f853de44b691" date="1991-11-11 13:00:06"/>
 		<rom name="CC1-3.SND" size="7320" crc="272a69f7" md5="e3a22ded451c3ba8e4be1a84b6f603d9" sha1="f8adbe9578c4ee5a80d24a022886c766ca2b0995" date="1991-11-11 13:00:32"/>
@@ -1549,6 +1551,48 @@
 		<rom name="CC1.EXE" size="73256" crc="7be5f203" md5="904d1091d560f340f107d5c8d3ee5159" sha1="90dfa04aaa370725599bc8eef33c7bfe5d399ba0" date="2005-10-23 13:01:00"/>
 		<rom name="CC1.GFX" size="184069" crc="5bff4464" md5="973b1236ea57d073749563b152d6e9e9" sha1="1a91824d14a6df7f053ed52c30cbdb0ad09cb8fc" date="1991-11-11 13:00:06"/>
 		<rom name="CC1.TTL" size="18328" crc="b3eb1a2e" md5="595bb26f9b7499fcafdac264730f8a3a" sha1="3397d17b222054b0e7d85804ece35449513661aa" date="1991-11-11 13:00:56"/>
+	</game>
+	<game name="Crystal Caves Vol. 2 - Slugging It Out (1991) (Apogee Software).dosz">
+		<description>Crystal Caves Vol. 2 - Slugging It Out</description>
+		<comment>Installed v1.0 from CD, then patched to v1.0a. Patcher may need Windows 9x or XP. Also matches with GOG</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>1991</year>
+		<developer>Apogee Software</developer>
+		<link type="patch">https://archive.org/download/ftp.3drealms.com-20090517/ftp.3drealms.com-20090517.zip/patches%2Fcc10apt.zip</link>
+		<rom name="CC2-1.SND" size="7320" crc="4b469c40" md5="6be53a3d1297e3284be3a05d2221e50d" sha1="08372b6a43fbd3c9171df22036dc31732de2ce5f" date="1991-11-11 13:00:02"/>
+		<rom name="CC2-2.SND" size="7320" crc="623318a6" md5="28b7fbaaad8336cb7114f1bd8d89a3e4" sha1="5047087828f7c5e43190ab448aa9f853de44b691" date="1991-11-11 13:00:06"/>
+		<rom name="CC2-3.SND" size="7320" crc="272a69f7" md5="e3a22ded451c3ba8e4be1a84b6f603d9" sha1="f8adbe9578c4ee5a80d24a022886c766ca2b0995" date="1991-11-11 13:00:32"/>
+		<rom name="CC2-F1.MNI" size="2048" crc="2e36f797" md5="eb972c5b8c6327044ab8797182e6dabb" sha1="906f88f00299b46ffe8dcd71bebeffd446528df2" date="1991-11-11 13:00:28"/>
+		<rom name="CC2-F2.MNI" size="2048" crc="b3e23d8d" md5="6664757c4dae3b57fde59d17a0fe76a9" sha1="eee92e9c927b24d70ed4082558592b472ca23c0e" date="1991-11-11 13:00:32"/>
+		<rom name="CC2-SPL.MNI" size="2048" crc="f749e4ca" md5="585d84a9fb8b65ff564b8bb8722556b6" sha1="7606dab03bb447d6d1cb6d8dd25f8c8d9494554d" date="1991-11-11 13:00:00"/>
+		<rom name="CC2.APG" size="16304" crc="abf56ada" md5="ad09252d62aa8e68f615c95de7026f0f" sha1="9120a9bce95015dada513b127f6e228ada4d2ec6" date="1991-11-11 13:00:24"/>
+		<rom name="CC2.CDT" size="26717" crc="775e7fed" md5="5f98361cd3378b03e28aef7127a68cce" sha1="e656b0505838cc8176d82d5a4c2af64cc281f9d2" date="1991-11-11 13:00:50"/>
+		<rom name="CC2.END" size="27486" crc="d66a3152" md5="0ef65f7bbf99c139d2a73a3255ac633d" sha1="931d454d57ed2419a381a6ea8b829530d9118bee" date="1991-11-11 13:00:12"/>
+		<rom name="CC2.EXE" size="72858" crc="cf766c2e" md5="12183506016f0a3cf5f6e57f2e2ecb05" sha1="2e28b3449c812522bbc0923e5fbde78f1d4c4d16" date="2005-10-23 13:01:00"/>
+		<rom name="CC2.GFX" size="184069" crc="5bff4464" md5="973b1236ea57d073749563b152d6e9e9" sha1="1a91824d14a6df7f053ed52c30cbdb0ad09cb8fc" date="1991-11-11 13:00:06"/>
+		<rom name="CC2.TTL" size="18201" crc="da0d4f30" md5="339fee1de3cb9dc6c2baa5bc0d24f016" sha1="ab96ce95ee2eb50eac6266f66129bd46d8846b84" date="1991-11-11 13:00:44"/>
+	</game>
+	<game name="Crystal Caves Vol. 3 - Mylo Versus the Supernova (1991) (Apogee Software).dosz">
+		<description>Crystal Caves Vol. 3 - Mylo Versus the Supernova</description>
+		<comment>Installed v1.0 from CD, then patched to v1.0a. Patcher may need Windows 9x or XP. Also matches with GOG</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>1991</year>
+		<developer>Apogee Software</developer>
+		<link type="patch">https://archive.org/download/ftp.3drealms.com-20090517/ftp.3drealms.com-20090517.zip/patches%2Fcc10apt.zip</link>
+		<rom name="CC3-1.SND" size="7320" crc="4b469c40" md5="6be53a3d1297e3284be3a05d2221e50d" sha1="08372b6a43fbd3c9171df22036dc31732de2ce5f" date="1991-11-11 13:00:02"/>
+		<rom name="CC3-2.SND" size="7320" crc="623318a6" md5="28b7fbaaad8336cb7114f1bd8d89a3e4" sha1="5047087828f7c5e43190ab448aa9f853de44b691" date="1991-11-11 13:00:06"/>
+		<rom name="CC3-3.SND" size="7320" crc="272a69f7" md5="e3a22ded451c3ba8e4be1a84b6f603d9" sha1="f8adbe9578c4ee5a80d24a022886c766ca2b0995" date="1991-11-11 13:00:32"/>
+		<rom name="CC3-END1.END" size="13412" crc="16cbf452" md5="34e0616872678ec13c8801118c98b4d7" sha1="ec0599fbd2c9de73833b75fea8a18d19f944e1e5" date="1991-11-11 13:00:00"/>
+		<rom name="CC3-END2.END" size="17231" crc="b5f53554" md5="cb7236f5e0099dd171bee7319d831061" sha1="0ad10488772e6e4172a4925620915ab409277470" date="1991-11-11 13:00:12"/>
+		<rom name="CC3-END3.END" size="23922" crc="f968b916" md5="cc06407901b7ae4dcf892241a82c0b07" sha1="50ecd54a37a395bffe553fcc80cacd81e8661322" date="1991-11-11 13:00:46"/>
+		<rom name="CC3-F1.MNI" size="2048" crc="2e36f797" md5="eb972c5b8c6327044ab8797182e6dabb" sha1="906f88f00299b46ffe8dcd71bebeffd446528df2" date="1991-11-11 13:00:28"/>
+		<rom name="CC3-F2.MNI" size="2048" crc="b3e23d8d" md5="6664757c4dae3b57fde59d17a0fe76a9" sha1="eee92e9c927b24d70ed4082558592b472ca23c0e" date="1991-11-11 13:00:32"/>
+		<rom name="CC3-SPL.MNI" size="2048" crc="f749e4ca" md5="585d84a9fb8b65ff564b8bb8722556b6" sha1="7606dab03bb447d6d1cb6d8dd25f8c8d9494554d" date="1991-11-11 13:00:00"/>
+		<rom name="CC3.APG" size="16304" crc="abf56ada" md5="ad09252d62aa8e68f615c95de7026f0f" sha1="9120a9bce95015dada513b127f6e228ada4d2ec6" date="1991-11-11 13:00:24"/>
+		<rom name="CC3.CDT" size="26717" crc="775e7fed" md5="5f98361cd3378b03e28aef7127a68cce" sha1="e656b0505838cc8176d82d5a4c2af64cc281f9d2" date="1991-11-11 13:00:50"/>
+		<rom name="CC3.EXE" size="75524" crc="9c059b24" md5="d3fc6cc22482d44de4346f46864f26e0" sha1="694db4d4e969d99419a57d401b4f708d73da30c3" date="2005-10-23 13:01:00"/>
+		<rom name="CC3.GFX" size="184069" crc="5bff4464" md5="973b1236ea57d073749563b152d6e9e9" sha1="1a91824d14a6df7f053ed52c30cbdb0ad09cb8fc" date="1991-11-11 13:00:06"/>
+		<rom name="CC3.TTL" size="18493" crc="c062644c" md5="2a19c1781e7590cb68736bfaf276ecf3" sha1="fc36e8450852ff988b1bf17a7b7183a12bd0c1ce" date="1991-11-11 13:00:10"/>
 	</game>
 	<game name="Cyberbykes - Shadow Racer VR (1995) (Gametek).dosz">
 		<description>Cyberbykes - Shadow Racer VR</description>
