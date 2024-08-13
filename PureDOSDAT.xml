@@ -2082,6 +2082,20 @@
 		<rom name="SERSETUP.EXE" size="20257" crc="64ea3378" md5="4494aa8d1840676aa676c6aac772b2eb" sha1="f41ebfc15378d2e2d0b70e60f4349bc4a3ccc2bd" date="1995-02-01 01:09:04"/>
 		<rom name="SETUP.EXE" size="45745" crc="0025fe95" md5="675564fcd380f5ef9beb0e7b21a51f79" sha1="f8644ace438896f9a788629d8da869bd34926f91" date="1995-02-01 01:09:04"/>
 	</game>
+	<game name="Dune (1992) (Cryo Interactive).dosz">
+		<description>Dune</description>
+		<comment>Installed from Redump-verified CD-ROM - CD's contents were then extracted to the install directory. DUNE.BAT was modified to change the CD drive letter from "D" to "C" and installation directory was changed from "WRIC:\DUNECD" to "WRI.\"</comment>
+		<comment_dosc>Auto-starts and skips the oddly long screen before the game actually launches</comment_dosc>
+		<year>1992</year>
+		<developer>Cryo Interactive</developer>
+		<rom name="DNCDPRG.EXE" size="78730" crc="9e129811" md5="448317979d6bfdd7b032b37e49484248" sha1="72c5029a38c66b481a8aeba99ab88aabf7a07478" date="1993-06-27 16:01:04"/>
+		<rom name="DUNE.DAT" size="397796624" crc="825b7ae4" md5="d49a8100f0754e894268aa2c65f64f05" sha1="1464511f05cbf742106bbc4318b4fbfdccf08c6a" date="1993-07-05 21:26:44"/>
+		<rom name="DUNE.EXE" size="6486" crc="bb7dda7e" md5="ad7e383ec8f75b3c2923a5e9ee029567" sha1="ee03d220dc9468d6f976ae5f3450808874c7c728" date="1993-03-12 10:34:50"/>
+		<rom name="DUNECD/DUNE.BAT" size="97" crc="189d64de" md5="3cc06b08f7300bc37f7014365718d25a" sha1="05cda42243e77475fd67e2ad8c7568b95b4b7243"/>
+		<rom name="INSTALL.EXE" size="13221" crc="6e71d44f" md5="328ebc429ee21fcb529b59d131edc7de" sha1="c792eec6ccb7042825f5f2f26ac092fd330c2c2c" date="1993-07-07 19:54:40"/>
+		<rom name="README.BAT" size="30" crc="0c66cf09" md5="dce263be131122b927f81d92ddc62aa9" sha1="58c4be464445cbea4454dfefebab6790b3616daf" date="1993-02-19 23:04:52"/>
+		<rom name="README.DOC" size="7037" crc="340dfb3b" md5="4153f231f55b5ffe6fe766620b6f9218" sha1="20561811e2855324842e6d64d9706aad39e73d7a" date="1993-03-12 10:20:44"/>
+	</game>
 	<game name="Elder Scrolls II, The - Daggerfall (1996) (Bethesda Softworks).dosz">
 		<description>Elder Scrolls II, The - Daggerfall</description>
 		<comment>Installed from free GOG release, or installed v1.07.213 from 1997 CD re-release (any size install, but all files from ARENA2 on CD must be extracted into installation's ARENA2 folder). The file Z.CFG must be edited to "type dfall_huge", "path c:\arena2\" and "pathcd c:\arena2\". In GOG release, the line "CHEATMODE 0" needs to be removed.</comment>
