@@ -2082,6 +2082,924 @@
 		<rom name="SERSETUP.EXE" size="20257" crc="64ea3378" md5="4494aa8d1840676aa676c6aac772b2eb" sha1="f41ebfc15378d2e2d0b70e60f4349bc4a3ccc2bd" date="1995-02-01 01:09:04"/>
 		<rom name="SETUP.EXE" size="45745" crc="0025fe95" md5="675564fcd380f5ef9beb0e7b21a51f79" sha1="f8644ace438896f9a788629d8da869bd34926f91" date="1995-02-01 01:09:04"/>
 	</game>
+	<game name="Dungeon Keeper Gold (1997) (Bullfrog Productions).dosz">
+		<description>Dungeon Keeper Gold</description>
+		<comment>Installed using Redump-verified CD-ROM: Dungeon Keeper - Gold Edition (USA) (En,Fr,Es,Nl,Sv,Pl)</comment>
+		<comment_dosc>Mounts disc, auto-starts, and sound config</comment_dosc>
+		<year>1997</year>
+		<developer>Bullfrog Productions</developer>
+		<link type="media">http://redump.org/disc/46253/</link>
+		<rom name="CD/KEEPER.CHD" size="769298688" crc="4deeab3d" md5="04b7c123cbf8cf1af1c4f9bc8cb5d2eb" sha1="8d7016f7e08dd8f34ba6dba0d5d6124d6e4ae0ff">
+			<track number="1" type="MODE1_RAW" frames="189515" pregap="0" duration="42:06:65" size="445739280" crc="bae1083e" md5="259770567f7343a3e14c8b7e739b71e9" sha1="53cc8e5729c37187bd5a0be9f76a4f41bf1c559b" in_zeros="1" out_zeros="0"/>
+			<track number="2" type="AUDIO" frames="19708" pregap="150" duration="04:22:58" size="46353216" crc="248c5afc" md5="7c7a397a90b97c1ad5ecbe23c5a4a8dd" sha1="8f39a55f869c65c15a80f3c8bc2c55652e0c6867" in_zeros="535600" out_zeros="131043"/>
+			<track number="3" type="AUDIO" frames="24591" pregap="0" duration="05:27:66" size="57838032" crc="41b143c3" md5="b21565c0dd03e39ec5b1d5452bc0510b" sha1="cd587296af95a336750464b7cbc79b5c43d86a85" in_zeros="182792" out_zeros="350890"/>
+			<track number="4" type="AUDIO" frames="23131" pregap="0" duration="05:08:31" size="54404112" crc="1059e191" md5="fc9a79fcfb4b8d584c544af5b132b9e3" sha1="dc3f84687c6582eb271f86e6e46c21e58c318e82" in_zeros="182794" out_zeros="350892"/>
+			<track number="5" type="AUDIO" frames="22631" pregap="0" duration="05:01:56" size="53228112" crc="f8b0d916" md5="c7462e6f800191d0bdbf5e3680468174" sha1="607e49f01f8ee61f3c4470cf512ebc0427410c8a" in_zeros="182800" out_zeros="0"/>
+			<track number="6" type="AUDIO" frames="21562" pregap="0" duration="04:47:37" size="50713824" crc="d3beb634" md5="f6ae9e14ae24c7d9b9e3e476157e99ba" sha1="0ac5fa55deed0ebc5b7a6364a13b23f540c09072" in_zeros="190940" out_zeros="354154"/>
+			<track number="7" type="AUDIO" frames="14249" pregap="0" duration="03:09:74" size="33513648" crc="5d59e56b" md5="be13e8213114c259414f20630ba0dee3" sha1="9f8bde921b792a27cc00d69d3d9bf6cd3c837bfa" in_zeros="182796" out_zeros="352802"/>
+		</rom>
+		<rom name="KEEPER/DATA/ALPHA.COL" size="10496" crc="4c724527" md5="b06aeb5396c237445ead5e91b4c1e731" sha1="a2e9f0800cc32bacd58329d24f7515fb74516d08"/>
+		<rom name="KEEPER/DATA/ALPHA.DAT" size="1641" crc="ffb1fd8b" md5="720ba26fde2a2f395f00c073fc7180b6" sha1="28912f144e912a6b601838eac830379801226f62"/>
+		<rom name="KEEPER/DATA/ALPHA.TAB" size="36" crc="93489817" md5="19962a6a63ea00f6cd4c520e143ba4c9" sha1="22d98d718aceca8cdf3096aa66a850c7443487c4"/>
+		<rom name="KEEPER/DATA/BLOCK.TAB" size="722" crc="7421b778" md5="8685b0ea00a37eba883baf648a5fdf25" sha1="68b3f85ef10fd2e67579b0f34d51c054e41aadb9"/>
+		<rom name="KEEPER/DATA/BLUEPAL.DAT" size="518" crc="c34b09f8" md5="3d9864a0df1a1801428d6afc58d2121c" sha1="7df6885714179bce6dddb92d614168bae1bd0282"/>
+		<rom name="KEEPER/DATA/BLUEPALL.DAT" size="518" crc="c34b09f8" md5="3d9864a0df1a1801428d6afc58d2121c" sha1="7df6885714179bce6dddb92d614168bae1bd0282"/>
+		<rom name="KEEPER/DATA/BORD0-0.DAT" size="1008" crc="9dfd6368" md5="be1296a8f1059a49ac632ed3a0275c7a" sha1="49cb33eb280ed7c9c333f05fce3494b4858d3b0d"/>
+		<rom name="KEEPER/DATA/BORD0-0.TAB" size="94" crc="cea0dd26" md5="b9ac56a8894d3a6b336022d728a6b81b" sha1="fbc46b8392db2e2d9301693decf2be4bc3325615"/>
+		<rom name="KEEPER/DATA/BORD0-1.DAT" size="1008" crc="9dfd6368" md5="be1296a8f1059a49ac632ed3a0275c7a" sha1="49cb33eb280ed7c9c333f05fce3494b4858d3b0d"/>
+		<rom name="KEEPER/DATA/BORD0-1.TAB" size="94" crc="cea0dd26" md5="b9ac56a8894d3a6b336022d728a6b81b" sha1="fbc46b8392db2e2d9301693decf2be4bc3325615"/>
+		<rom name="KEEPER/DATA/CEILING.TXT" size="2880" crc="3c60cd4e" md5="52db19da9390c64860e661bd0b444f37" sha1="313cccce3f1f1617e5db22f01b44018c2a440a6b"/>
+		<rom name="KEEPER/DATA/COLOURS.COL" size="4096" crc="a3274cff" md5="bea56fab6e58592d281986eb245c4c67" sha1="a103991140bed0684c30c7ff98bb9b33147f4c0c"/>
+		<rom name="KEEPER/DATA/CREAT1.TAB" size="771" crc="4a0a73cd" md5="94adab45d8d00b8eaec51befa385697c" sha1="885a5829b546acf678118f60e45b209497932607"/>
+		<rom name="KEEPER/DATA/CREATURE.JTY" size="13139560" crc="66077a03" md5="8adf3ddedd8254f1463910c67640882d" sha1="fa1be486c1b20ce82b0b17717b23d305fcbe1a50"/>
+		<rom name="KEEPER/DATA/CREATURE.TAB" size="146400" crc="20115606" md5="059ca84a1f7a36eee701ff59f393d294" sha1="f403f8d24b754567fc940688aab9369cf9859c33"/>
+		<rom name="KEEPER/DATA/CREATURE.TXT" size="44048" crc="f8a3db96" md5="43d68e55e66cff810535014371a31dae" sha1="0ac40c82734ae59c8f916367d1c761510ba3d295"/>
+		<rom name="KEEPER/DATA/CRET0000.DAT" size="385" crc="33d99599" md5="cb4f35b151a1b04c6b8cb2e51689b4cf" sha1="6e880722bb151387ea8795908087fadc2811928c"/>
+		<rom name="KEEPER/DATA/CUBE.DAT" size="9220" crc="51541fd3" md5="c942863305fafc89adedbedf6794f5ac" sha1="12283ebb78ff972557a3a2c4d46c99c0b45d3726"/>
+		<rom name="KEEPER/DATA/CUBEGRP.DAT" size="192" crc="37585001" md5="ff1f8582d26e71228611403d08e4c444" sha1="db6ceb85166e7879fb85061649bfbff67a9d822f"/>
+		<rom name="KEEPER/DATA/DD1CREAT.TXT" size="44048" crc="8dab3d80" md5="a17c1b3059e421e6e196a13da6b92e63" sha1="c3bd6563212844e64eefb5dd5cdd9f7bea8b94c8"/>
+		<rom name="KEEPER/DATA/DOGPAL.PAL" size="768" crc="962834cd" md5="480d73ea0e210501c9b8a38ea1340734" sha1="ec5a6adb010b4132caafac4e27706db9988e1296"/>
+		<rom name="KEEPER/DATA/DP_PREFS" size="324" crc="b63840a3" md5="da98718c2c952ab8eb6569d0ad85b1d6" sha1="ef9c2e17c5350e22538f7bc81973318f41967ea5"/>
+		<rom name="KEEPER/DATA/EDITICN1.DAT" size="594" crc="04706928" md5="9057f09cdf8c02fbdc4dd4b81a859ca1" sha1="16934e33bd28a9cd5e3da5b2af9261af6030817f"/>
+		<rom name="KEEPER/DATA/EDITICN1.TAB" size="83" crc="76f29a86" md5="da1a8fd26921732f46ee1989afebd7b1" sha1="26c747aca413a811be40eea59c9eba9c7dbcafa3"/>
+		<rom name="KEEPER/DATA/EDITICN2.DAT" size="783" crc="b57df9de" md5="82449f2f1dd6ec496da8e02023c9efa9" sha1="bf5afe6275930c582c203866670518b31d9a08a7"/>
+		<rom name="KEEPER/DATA/EDITICN2.TAB" size="79" crc="4f3dbdf9" md5="1b69eaac4105cb6c43c4327395463c1f" sha1="a0e84d1771db4a7781d1b765de8912c751d48524"/>
+		<rom name="KEEPER/DATA/FONT0-0.DAT" size="4867" crc="0fb1b771" md5="0f1e8b6ba8799735139cf69da2d9fef3" sha1="cfde9242748fa11c4fbab80fb5664af126994b78"/>
+		<rom name="KEEPER/DATA/FONT0-0.TAB" size="822" crc="77df047a" md5="34869146c0929c02eee7002ad3d9b5f8" sha1="e3202d461417b811559b6befa513b221b9ae49ab"/>
+		<rom name="KEEPER/DATA/FONT0-1.DAT" size="13062" crc="d83c6803" md5="9907f483fa6010b62224b786f3fd5280" sha1="1f9cdb3ca8de0f7414208b42fdc0a283bb19d47b"/>
+		<rom name="KEEPER/DATA/FONT0-1.TAB" size="594" crc="26d15d5a" md5="26b354f5651b6ede6bcfe034db6b9b6c" sha1="c2fb7ddd0b741da05f98ae847e8251b0fbebad27"/>
+		<rom name="KEEPER/DATA/FONT2-0.DAT" size="8642" crc="2a458704" md5="704b39454474234b16d039f11938d25a" sha1="9ef6632bad139614a7c4cc2b0664b48d706634fa"/>
+		<rom name="KEEPER/DATA/FONT2-0.TAB" size="1338" crc="ee66f49b" md5="44a13105c41bc0c3759353949a793199" sha1="ec1881a6ef343d9338f87e6ce28844c434c9a00b"/>
+		<rom name="KEEPER/DATA/FONT2-1.DAT" size="23364" crc="5a58850c" md5="e2254e6c15d1eb7783e0f527f96ed755" sha1="acf41cff02fe2c048f61d074d3fc2f941171e7f9"/>
+		<rom name="KEEPER/DATA/FONT2-1.TAB" size="1338" crc="23ff123e" md5="44c4cfb73c6e51e9d61d92da9bf1c29a" sha1="bc13c2015e9d5f9a1ac0ff5ac68c14e328dab47d"/>
+		<rom name="KEEPER/DATA/FRAC00.DAT" size="25955" crc="ce5ccaa0" md5="90a304012e8b938a430c53887b6765ff" sha1="0308d18da7da53b1621608aadd7e0ab52efe3830"/>
+		<rom name="KEEPER/DATA/FRAC01.DAT" size="55840" crc="d96ee934" md5="5ffeb1bc810572c6efd79fa149dd2f26" sha1="1ac6f52aaeaa1682ec52882f4474583f13488ecb"/>
+		<rom name="KEEPER/DATA/FRAC02.DAT" size="28223" crc="3641a37b" md5="de4701809fd07ab7c5124b0f94ae6ce1" sha1="9ab290b2d6a64aeac47f4ffb2bfaf0527e682e01"/>
+		<rom name="KEEPER/DATA/FRAC03.DAT" size="44925" crc="e82254fd" md5="9cd71902c94953d88d70beac5abd6dff" sha1="a936266dec0c4ecb989c4a477715390c3395f2bc"/>
+		<rom name="KEEPER/DATA/FRAC04.DAT" size="49585" crc="e8b38d36" md5="570728cf32ea104068a56aae471bf3da" sha1="eb9c533100086822886380528aea0cf5296a7c5b"/>
+		<rom name="KEEPER/DATA/FRAC05.DAT" size="58016" crc="f452be3a" md5="c70775f5d02b8248c8f33318e20473bb" sha1="e5f19c368c6d2d143b83eda7edfd4ff0d7154198"/>
+		<rom name="KEEPER/DATA/FRAC06.DAT" size="4129" crc="f31cabfd" md5="01af2ba44e8a32b95f175c4a7f464349" sha1="462b3ab7ff2bef6c3df1ba92b500d49a6e4bedf9"/>
+		<rom name="KEEPER/DATA/FRAC07.DAT" size="1520" crc="99270d1b" md5="7923422fa1a52185e6b23b090f242f8f" sha1="16497566c5a8b5f3e9f93357182989f76f89b798"/>
+		<rom name="KEEPER/DATA/FRAC08.DAT" size="48458" crc="8d2d2ecd" md5="62cb2192f4058448be901ab01806487d" sha1="45fc067f5d168b3e36f8319a3440a3e4228693a9"/>
+		<rom name="KEEPER/DATA/FRAME0-0.DAT" size="4470" crc="3aa1d314" md5="6268c5b47b915bcb324d9cde84a63598" sha1="bb77967256a5022c117d4dd720f745a24c19dad4"/>
+		<rom name="KEEPER/DATA/FRAME0-0.TAB" size="136" crc="19017405" md5="2b0c453986dcacfee79aa490f54d86bd" sha1="4f4dbbd6d4b626761bba239767a2d25fbb9e8939"/>
+		<rom name="KEEPER/DATA/FRAME0-1.DAT" size="4470" crc="3aa1d314" md5="6268c5b47b915bcb324d9cde84a63598" sha1="bb77967256a5022c117d4dd720f745a24c19dad4"/>
+		<rom name="KEEPER/DATA/FRAME0-1.TAB" size="136" crc="19017405" md5="2b0c453986dcacfee79aa490f54d86bd" sha1="4f4dbbd6d4b626761bba239767a2d25fbb9e8939"/>
+		<rom name="KEEPER/DATA/FRONTEND.PAL" size="768" crc="ea3bfe99" md5="fa29257f6d11a0f8b5ffc52384d3aeae" sha1="59c0c0d23e5d4c8a1d3b7a425b2f23cb439d7fa4"/>
+		<rom name="KEEPER/DATA/FRONTEND.RAW" size="14289" crc="446838ef" md5="ae7594c5bbfd12ec6e8282ca800cca4a" sha1="90ea83024ce2d7753c6b1cc415f7d10abcdbc4d8"/>
+		<rom name="KEEPER/DATA/GMAP.RAW" size="32336" crc="807d7d57" md5="0a54899e4feee2ecdda1628ddc02e045" sha1="fc4a257c3e08f576732946fa2110546971a5d2fd"/>
+		<rom name="KEEPER/DATA/GMAPBUG.DAT" size="7190" crc="c2eb97e1" md5="071d589951344f3459a19710e77a8728" sha1="f6924805f48795613e8f7f80c5cf202dab104783"/>
+		<rom name="KEEPER/DATA/GMAPBUG.TAB" size="147" crc="dd74ce80" md5="77399cfe1e5ad68e39595763b08022cb" sha1="8421ec49fcef8ca8447a6910d25d7e48a4474a5f"/>
+		<rom name="KEEPER/DATA/GMAPHI.RAW" size="138735" crc="5bd93b3a" md5="21776aeb531053d5306545b51efb183f" sha1="dbed2b8be73c87c857c2eceb4a3c8187be057dc4"/>
+		<rom name="KEEPER/DATA/GUI.DAT" size="54961" crc="03163cb8" md5="4910ba78283ed14dd113f2d6be7c0d98" sha1="bfa30908d76de24d4fc3e063ea9c9c63598c860b"/>
+		<rom name="KEEPER/DATA/GUI.TAB" size="1290" crc="f521533a" md5="65c40d35775a9e2492cdf807e682e668" sha1="7816684f273fd290716a559396360983957d4fc5"/>
+		<rom name="KEEPER/DATA/GUI2-0-0.DAT" size="125942" crc="d794b23c" md5="cd9732eb706256077d0f5a9fa7a04f0f" sha1="036703120079d9499d73a20f5ff49a88b0c0870c"/>
+		<rom name="KEEPER/DATA/GUI2-0-0.TAB" size="3090" crc="cbe7639b" md5="56067824a1af1a4890fa73c703c9fcdf" sha1="c5af4cafb2ef58e96dc912579bc182c3a4989637"/>
+		<rom name="KEEPER/DATA/GUI2-0-1.DAT" size="426144" crc="d060d5f1" md5="436c8169a7ed6cd066de7da7ea8bcbe8" sha1="af036b35fb09f3ba88e1c654b1f00345178298bd"/>
+		<rom name="KEEPER/DATA/GUI2-0-1.TAB" size="3090" crc="fa339a57" md5="189b8b3f845e1f93226065d3841f2b9d" sha1="4dd420436b40e54140b3d6424e159c9f74870ff2"/>
+		<rom name="KEEPER/DATA/GUIHI.DAT" size="177104" crc="30e86d60" md5="60025f5ac45c44cca26032fc879ef369" sha1="6963bea5f3ef30992cf0fc5cfdc2f7840875bc9c"/>
+		<rom name="KEEPER/DATA/GUIHI.TAB" size="1290" crc="b16d5a18" md5="6f9ee6838600faa7f1d7a8d69e734576" sha1="f2296e2b20e9b142fbfe02e3953965b842cff605"/>
+		<rom name="KEEPER/DATA/HBUY0-0.DAT" size="1427" crc="31308974" md5="11d29dcf525d779719b46d7b029621af" sha1="710286181ae706f621396a40e2cf176c2722eb69"/>
+		<rom name="KEEPER/DATA/HBUY0-0.TAB" size="100" crc="a825167d" md5="3c9a341607f756d7fba12ceab157a6d1" sha1="ad340259ded1c767f7fe9b2d14d0a607d8ae19b8"/>
+		<rom name="KEEPER/DATA/HBUYSCRN.DAT" size="12812" crc="8a4ce279" md5="9964d490b58ebdb11754036005df911c" sha1="965031eee4355c972967a838057ab8598ceb0dc6"/>
+		<rom name="KEEPER/DATA/HIFONT.DAT" size="807" crc="c6c6e807" md5="4a9ab6590d053c5f1f36ee1075d4595f" sha1="d86c1d9a48533aa5c8b79bc6f71b4297ba10c28d"/>
+		<rom name="KEEPER/DATA/HIFONT.TAB" size="311" crc="a52b83c3" md5="cd66fdbf8555f8b065489f72a41fa231" sha1="430e145d0df7572189083671871172e55cbc0ebc"/>
+		<rom name="KEEPER/DATA/HITPALL.DAT" size="375" crc="ce69c4d4" md5="d6b89ad3dc2450eb0e2b46116b0bf3fd" sha1="980114385ef58a4243f616e34bae064cffaf9c23"/>
+		<rom name="KEEPER/DATA/HPOINTER.DAT" size="78701" crc="e8b901fc" md5="ef58a5c185f5a0778eced949caa6bf22" sha1="4755c61bba34f42231db8627e495928618e99f51"/>
+		<rom name="KEEPER/DATA/HPOINTER.TAB" size="864" crc="756f47bd" md5="3525a62528fe48f4633e69c01bdbea7c" sha1="21b26e4a5fec6766efd93cc748c166838a101882"/>
+		<rom name="KEEPER/DATA/HPOINTS.DAT" size="25510" crc="da1c3fcc" md5="9cf2a5a4678ad0f2f4e9ecd01648407a" sha1="f0bbb3f9f46cfe0b5a469d36cd7e1bfdf10f0240"/>
+		<rom name="KEEPER/DATA/HPOINTS.TAB" size="318" crc="62c7c5e7" md5="0f162746bbba49238a12d25128664158" sha1="7255aca665d7cb97da8919dc2b0cbdd3e1d0c193"/>
+		<rom name="KEEPER/DATA/HUESHADE.TAB" size="276" crc="0276ade4" md5="016fa6a90ef756e46cc66abeb9d33b8d" sha1="a862da90f479b7838524506d8b5c30e409d7f65f"/>
+		<rom name="KEEPER/DATA/ICONS0-0.DAT" size="41771" crc="f7894ef2" md5="7b56dec6411fb64947c4a2ebf242d490" sha1="338c7a1db08ceef4e109a2cb7f0f8e8e43a72332"/>
+		<rom name="KEEPER/DATA/ICONS0-0.TAB" size="867" crc="848bdc1e" md5="9b25042fb6b6eee3e13d23cc2e319b88" sha1="3f86e1cb5e47a4d75c7a90acedb5e7805a6e91b3"/>
+		<rom name="KEEPER/DATA/ICONS0-1.DAT" size="38008" crc="878835ba" md5="eab5364052a154ee66773a28f225db0b" sha1="a28a0d35b65c993abe6769f60d27d5e67704a9c0"/>
+		<rom name="KEEPER/DATA/ICONS0-1.TAB" size="641" crc="5a0d1c25" md5="ef1817dbe20401986a5bfe637dc939af" sha1="1827b32a473c40621c1af0cc6e810fb93a0f354b"/>
+		<rom name="KEEPER/DATA/KSEFFECT.JTY" size="9232" crc="ff5a33df" md5="07fb47f8783fa7612a5ad99853223aa1" sha1="3dd2cee83536f6876bb54312f29efc1119662501"/>
+		<rom name="KEEPER/DATA/LEGAL.PAL" size="768" crc="7f0ac5d9" md5="2094b9fb8cee7aac8f85dab8a3efafb8" sha1="0586a87c7747d2b56237aa6a7527cc31ab8133f4"/>
+		<rom name="KEEPER/DATA/LEGAL.RAW" size="307200" crc="062e95dd" md5="34a643e03ab14628c5cfde18a1b20292" sha1="3b8767af327bb954ef27305b2d4594393ddf832b"/>
+		<rom name="KEEPER/DATA/LIGHTNG.PAL" size="768" crc="17991d6c" md5="dbc3ec4b670fdf0ea0e2cf0159ce42f0" sha1="d6404377aad94335a953ce3686708ea4fd2b3c30"/>
+		<rom name="KEEPER/DATA/LOADING.PAL" size="768" crc="743d51b1" md5="de60363ff1f60122db02c96ef8435317" sha1="d0d0c4c69a73d77e8d5fa156e80cdaf71c9027c8"/>
+		<rom name="KEEPER/DATA/LOADING.RAW" size="64000" crc="ada8d643" md5="d7d7cf24cf30f57db60c04160cf214f4" sha1="cd3bdbe792f84ec90e22f0ad1c35185ab5f692ed"/>
+		<rom name="KEEPER/DATA/LOFONT.DAT" size="477" crc="0fdd5539" md5="74dd6a64b0ece0ab6fa086dc0b18dd9b" sha1="e675967012002d130bc988253c77a13ba3a16d83"/>
+		<rom name="KEEPER/DATA/LOFONT.TAB" size="265" crc="540768b7" md5="ece8f4af2d6c5070402105b43ab56cde" sha1="857d22058d1906093565118f5e49f2d7aa08ffb8"/>
+		<rom name="KEEPER/DATA/LPOINTER.DAT" size="78701" crc="e8b901fc" md5="ef58a5c185f5a0778eced949caa6bf22" sha1="4755c61bba34f42231db8627e495928618e99f51"/>
+		<rom name="KEEPER/DATA/LPOINTER.TAB" size="864" crc="756f47bd" md5="3525a62528fe48f4633e69c01bdbea7c" sha1="21b26e4a5fec6766efd93cc748c166838a101882"/>
+		<rom name="KEEPER/DATA/LPOINTS.DAT" size="25451" crc="e41c0039" md5="f63521bdf829cd19a93a3d611105e339" sha1="17bfdfbd98044ba2d11a6453d294ead8688d3ba0"/>
+		<rom name="KEEPER/DATA/LPOINTS.TAB" size="318" crc="42add84b" md5="0bdc28ad5b6c8a0b519348cd9a0e8513" sha1="29bb0cea85f16953af171cc5705289bcd9a0df7d"/>
+		<rom name="KEEPER/DATA/MAIN.PAL" size="768" crc="998f704a" md5="08c5bed319051131a3b75707fe2f3384" sha1="656c203ba4a2d2328732eb4d48c249a486a80903"/>
+		<rom name="KEEPER/DATA/MAP00000.ANM" size="512" crc="f57d3e4e" md5="8132dc21fcbcdf7e79aa87b171a1bb66" sha1="32d3905218c9e885d7c02cd4f7d81136f7be38b0"/>
+		<rom name="KEEPER/DATA/MAP00000.CUB" size="9220" crc="3b1c62c4" md5="ce5481b2f4a4abb81eff36fa91ababb6" sha1="bf4df7d3d33836ec8ee81cdadb1105afb0bb7cdf"/>
+		<rom name="KEEPER/DATA/MAPFADEG.DAT" size="24120" crc="aebdc0d9" md5="bcd469c1eda956d47337833083a32d87" sha1="769d43c64a866807e7e0eabed623a90d77287fe6"/>
+		<rom name="KEEPER/DATA/MENUBLK1.DAT" size="1781" crc="68938a4b" md5="7a98c15fe72b608db542b081a767c482" sha1="41eaf0a23bbd2876c96310268c5a3667e8389a85"/>
+		<rom name="KEEPER/DATA/MENUBLK1.TAB" size="166" crc="0294a5eb" md5="5567f28ae149dd404d5683a178f969a2" sha1="25f9aa1069fbd560d759b625998dbee78dbce6d8"/>
+		<rom name="KEEPER/DATA/NOCD.PAL" size="768" crc="743d51b1" md5="de60363ff1f60122db02c96ef8435317" sha1="d0d0c4c69a73d77e8d5fa156e80cdaf71c9027c8"/>
+		<rom name="KEEPER/DATA/NOCD.RAW" size="64000" crc="f6ee523b" md5="6d2bfc7d2987950dd625dcddaa288fde" sha1="005160a31f422f8955bc6cc2c0d8e2636e6fbef6"/>
+		<rom name="KEEPER/DATA/PAL00000.DAT" size="760" crc="472bf397" md5="f8f420ca66ed942326306da776282d04" sha1="ee6a57c956616a6d05d3c5b2fcb0774086408b9b"/>
+		<rom name="KEEPER/DATA/PAL00001.DAT" size="736" crc="e38eec34" md5="f3ea9f2e59a4d580f74353457841d49a" sha1="58979f7ef4e3271d39f1d84f63fb7831e2655de7"/>
+		<rom name="KEEPER/DATA/PAL00002.DAT" size="691" crc="a4a60273" md5="b120553ae9de3182cfdc70eb822c5c39" sha1="563076b5e5de349cedcc264bd5c118c707825e9a"/>
+		<rom name="KEEPER/DATA/PAL00003.DAT" size="647" crc="9d09bf33" md5="f0b9d5d3558ec710361d6fbdaae7d752" sha1="15f2d7dbeae82b98819673981700d253ab0c1fda"/>
+		<rom name="KEEPER/DATA/PAL00004.DAT" size="561" crc="2bde7f26" md5="ae7f06500ed1caf43b013cb188792ae7" sha1="487c270d88592990661a9fb6d98bc324f7e108d5"/>
+		<rom name="KEEPER/DATA/PALETTE.DAT" size="760" crc="472bf397" md5="f8f420ca66ed942326306da776282d04" sha1="ee6a57c956616a6d05d3c5b2fcb0774086408b9b"/>
+		<rom name="KEEPER/DATA/POINTERS.DAT" size="86" crc="03064584" md5="c0af7d2e653362af991a21a8f0c2f75d" sha1="26f9e854373efccedd54634797e139008df99b52"/>
+		<rom name="KEEPER/DATA/POINTERS.TAB" size="12" crc="69115920" md5="4ddb104aa56301eb317a7ccd98842565" sha1="6027313aca8c7df3ffd79cb864134dfc5766b092"/>
+		<rom name="KEEPER/DATA/PORT0-0.DAT" size="24746" crc="9dd82cae" md5="776d35befd03b3ea9f7e6f0a4e01ccee" sha1="aeb55263750e30484540d6683d8a0627f5e9aca7"/>
+		<rom name="KEEPER/DATA/PORT0-0.TAB" size="109" crc="ee9ae8a5" md5="cee37aa45c4818788cfe560db3cef760" sha1="73e02ff27b0b6bba75424a31ff5f4cdf3263efc1"/>
+		<rom name="KEEPER/DATA/PORT0-1.DAT" size="16191" crc="f530cc73" md5="8ef8e7a44bbcd2d10c8ddcd94e047adb" sha1="acfb106fc14474922ea5a89fa8ee788027ee3090"/>
+		<rom name="KEEPER/DATA/PORT0-1.TAB" size="64" crc="7960f853" md5="46e02864aaa64193c2c9f56ed9632abe" sha1="16662e03c162f342f4908f380cac9914a207b2b6"/>
+		<rom name="KEEPER/DATA/REDPAL.COL" size="256" crc="428f4ed1" md5="c19f69e644d9dcfda3f3a2c1cecc79a2" sha1="85f5060c0be60e97bf3ced9a58c9ecb51005187c"/>
+		<rom name="KEEPER/DATA/REDPALL.DAT" size="595" crc="41c499c0" md5="9d02266b92d5a5d9226050d16f60b39f" sha1="a9323df2449218bdbfbac0440fb639f388a615f7"/>
+		<rom name="KEEPER/DATA/ROOM0-0.DAT" size="6091" crc="4704567d" md5="e3cace5fcf4d65853c2264f7c47e522a" sha1="b40d7fab0cfbb8e74673e242d28dee94064b8f32"/>
+		<rom name="KEEPER/DATA/ROOM0-0.TAB" size="116" crc="7f59004b" md5="ccc4e65286b95cd233ea195fe54c72d7" sha1="d231475ad5f2ed4f494cef2b914901a20d92fb18"/>
+		<rom name="KEEPER/DATA/ROOM0-1.DAT" size="3355" crc="6a8d2970" md5="ffa461ee50427fd27e8123856234d744" sha1="6979757e82136c47113b24b44391537afbd9c379"/>
+		<rom name="KEEPER/DATA/ROOM0-1.TAB" size="80" crc="290ab9dd" md5="9aeae1832dc90081ff4c4b27b3cea666" sha1="0e2d8d05b51b3d2314ca205352c304ee2b959807"/>
+		<rom name="KEEPER/DATA/SAVE.CAT" size="85" crc="60912bef" md5="275be66af514d3c1332058290d1f2071" sha1="b08366cb91d605a6c72324629eeb0b125c87daeb"/>
+		<rom name="KEEPER/DATA/SETTINGS.DAT" size="26" crc="270ad51d" md5="e3483f35dbe8414a4296d0a6d6ed223f" sha1="a5cbf1c6aa641e30ba45fcd9424109651fd0201e"/>
+		<rom name="KEEPER/DATA/SHADE.TAB" size="2801" crc="7eebfaf0" md5="4db3a11f8604d2e062f52ba164f70549" sha1="af638319892f6e8f03a8c328923468f0b13c38df"/>
+		<rom name="KEEPER/DATA/SLAB.DAT" size="1795" crc="d2c2ac6e" md5="8c7b025017e78fa15989cf0e6bf510a2" sha1="446feac506ad957f24bfb2520e0490ed2ec1d3f7"/>
+		<rom name="KEEPER/DATA/SLAB0-0.DAT" size="1801" crc="6ab00060" md5="f7f677780bd4adc727f841210f5fa7e0" sha1="8b23c8fe4e9bbc790de172616742dbb123ddd51a"/>
+		<rom name="KEEPER/DATA/SLAB0-1.DAT" size="1801" crc="6ab00060" md5="f7f677780bd4adc727f841210f5fa7e0" sha1="8b23c8fe4e9bbc790de172616742dbb123ddd51a"/>
+		<rom name="KEEPER/DATA/SLABS.CLM" size="49156" crc="3cf0db0b" md5="d117a8d38a79f7ecd58e89a6ebeccd77" sha1="7b4c550c98adec540afd5ff3f4d08a58111b86ea"/>
+		<rom name="KEEPER/DATA/SLABS.DAT" size="23474" crc="428aed20" md5="5626e37de3e0ba860ccd2da0be6d6b2b" sha1="8537629e2bc412948c067c0c2cd9900814ffca3a"/>
+		<rom name="KEEPER/DATA/SLABS.OBJ" size="7474" crc="f8479af3" md5="62066cfee9a10d0196b25893d6fba5b7" sha1="08f6170dece61f4f6988a4938c7e85bb0c2ed97e"/>
+		<rom name="KEEPER/DATA/SLABS.TNG" size="9266" crc="64c0b0a7" md5="6cbf602e06daa9db4a0123c651ab30bd" sha1="4b3fc4220fd926a891f892619c3322bf3d321601"/>
+		<rom name="KEEPER/DATA/STAT0-0.DAT" size="9806" crc="2d37760f" md5="300966f6e8bbec46e2e7275562b36ff5" sha1="c20a48be79d6dd124546ff9796241dc06fa2ab3a"/>
+		<rom name="KEEPER/DATA/STAT0-0.TAB" size="98" crc="b90d2044" md5="0fb80c28d2c57fead90d620cde57f231" sha1="362ba3d75ef7eae016dc6876dbb4d80b78bc22e0"/>
+		<rom name="KEEPER/DATA/STATE.RST" size="205" crc="6af2e6be" md5="295ce66ec1b7d6dc379471bb0bfc82d0" sha1="c653e5bd0f7ea7efc84ed35f8ce15489e74c88af"/>
+		<rom name="KEEPER/DATA/SWIPE1.DAT" size="1854" crc="d27b6097" md5="eeddd2e1faea7d092fe1ff94158a52a6" sha1="e3858d4bdd8109dc593e929b8c7c5e859ab29846"/>
+		<rom name="KEEPER/DATA/SWIPE1.TAB" size="54" crc="ef9a90f9" md5="a521f5629dd5ad0294080a8a0fb6bcb0" sha1="ed98b68ecbafb40d65bfaff469ecbfa1292062b1"/>
+		<rom name="KEEPER/DATA/SWPE00.DAT" size="318" crc="c2b99858" md5="3322c5d874623e1d703d1fb4361eb60b" sha1="dbb2c1dc968b6bd9c507692014bea835610664d4"/>
+		<rom name="KEEPER/DATA/SWPE00.TAB" size="42" crc="8e4ae61a" md5="42adc4eed8f85cd8f56e391a6d74d6e3" sha1="fa99295bdb3ee668e4c01584e9eb1b66c598a9b4"/>
+		<rom name="KEEPER/DATA/SWPE01.DAT" size="428" crc="afe3a8b2" md5="89d093bbd096497894d48ad7a097abf4" sha1="2ae9b7eabc86d056a390e4256490eee2adeb6602"/>
+		<rom name="KEEPER/DATA/SWPE01.TAB" size="42" crc="f3d695dd" md5="888dc94d5d67cacdac84da0a197b51eb" sha1="7a0ea8e8a5c92268dead11639b85238647889544"/>
+		<rom name="KEEPER/DATA/SWPE02.DAT" size="505" crc="14c05d2c" md5="74c2ffc39a671105d9f3b95be7a3a8d8" sha1="52ba80d14a5cefe2d3153235fe74da0cd74371e2"/>
+		<rom name="KEEPER/DATA/SWPE02.TAB" size="42" crc="a0e60716" md5="ccd969c3358e356dac2700fa358112d1" sha1="a9178142b9b1459cd203d401c45d884dd69a912b"/>
+		<rom name="KEEPER/DATA/SWPE03.DAT" size="517" crc="ddb286d8" md5="6a3e1dc5ff293977c5e2317e37fd4125" sha1="7fe72e8fd409a58abc71ef38239d1f0ebebc31b4"/>
+		<rom name="KEEPER/DATA/SWPE03.TAB" size="42" crc="22658a2c" md5="6c7885ffc99d88911f06b07e9b4617af" sha1="315434468998ded801ba480f0c9ff9e0a78a98f2"/>
+		<rom name="KEEPER/DATA/SWPE04.DAT" size="361" crc="0181156b" md5="552d1bf7d85853a95dadd1628ee578e4" sha1="d95d3fb3e4778cc2a451a5d6abdf34dfe1f89185"/>
+		<rom name="KEEPER/DATA/SWPE04.TAB" size="42" crc="8182246a" md5="d3383c4c36c2a3b0749de6990c57a5b4" sha1="c5cea23a7f1c0fd95126e2e691b65019e48484b2"/>
+		<rom name="KEEPER/DATA/SWPE05.DAT" size="242" crc="1e3e387e" md5="db1264bde0351cad64356991f9f5a81e" sha1="48a68d6bb17fb0b6c2656bd149cde235db291e5c"/>
+		<rom name="KEEPER/DATA/SWPE05.TAB" size="42" crc="101a3003" md5="773d7dad3526ca0dfb5c15b881430be7" sha1="679056adf2f6830a730d82576982be3a55da8e33"/>
+		<rom name="KEEPER/DATA/SWPE06.DAT" size="412" crc="44c286e5" md5="ee41b199b7abe8039b710c872cac6d5b" sha1="b2d732dff75e9d2ca32dc4ae3eeba6d6f322337b"/>
+		<rom name="KEEPER/DATA/SWPE06.TAB" size="42" crc="c1284824" md5="84fdfc4514af9069b7e592ceacc899db" sha1="a2936ed8babe5c08765385d561bfdfc847916a08"/>
+		<rom name="KEEPER/DATA/SWPE07.DAT" size="436" crc="71c4dda0" md5="c401ccae73332a6156c8386e1ec0e4e8" sha1="59284537af585daf1bdaa3f06e1e9ed1b9b4c662"/>
+		<rom name="KEEPER/DATA/SWPE07.TAB" size="42" crc="e2f9362a" md5="adc8e0c69d7d28c9ff6c1f531113a2a0" sha1="7e38dbf21c226a30194ce27a7be955ef95624ab9"/>
+		<rom name="KEEPER/DATA/SWPE08.DAT" size="434" crc="91bc8d73" md5="b090d6a6c5d6898cdc20b59b236e8ad5" sha1="453a40959f9935d27552bb32c8fa12b4bffbc4fc"/>
+		<rom name="KEEPER/DATA/SWPE08.TAB" size="42" crc="b2db5ebe" md5="449bd2553762a4d9659e1324463b0e04" sha1="d0f3edaaddefcd8fa45a6f3154d09d0358e84c27"/>
+		<rom name="KEEPER/DATA/SWPE09.DAT" size="315" crc="f1c73399" md5="65251da0331289ac71267f7dd62f58cf" sha1="541e8da8bfbd3e4ab69bc4b8ed4219ecb07d2c40"/>
+		<rom name="KEEPER/DATA/SWPE09.TAB" size="42" crc="54cd3fdc" md5="9cf80d3ab0fa91f28f1665e42255eb7f" sha1="5005c1d47f50fddf49e8b1fd2bf1f9a6925a4dc7"/>
+		<rom name="KEEPER/DATA/SWPE10.DAT" size="303" crc="882188fb" md5="465d6d6e435dacf6e04a5bc03d7bdc86" sha1="40e9d5fd76c727f8dc75ebb6cbe5a74510a17ea1"/>
+		<rom name="KEEPER/DATA/SWPE10.TAB" size="42" crc="2c8a4b76" md5="dfad913a43eda3ad6bd9a7e12c3761b8" sha1="cc97f75c41be3719aab0ad7afff9902b51e2a08e"/>
+		<rom name="KEEPER/DATA/SWPE11.DAT" size="372" crc="73ea784b" md5="651b29a17c0f5c38936bbfee8386c79d" sha1="acd7d101db9aabb17acaf10395a84efa71f4b5c3"/>
+		<rom name="KEEPER/DATA/SWPE11.TAB" size="42" crc="1aa8b5e1" md5="de1289df248c92a80c388aac28ff72a0" sha1="f501c7598e9dc533cff54540f436aedd8d81da17"/>
+		<rom name="KEEPER/DATA/SWPE12.DAT" size="277" crc="594f3620" md5="7358202539d7abf6c74c9ad1f1c1a71a" sha1="7e7afaab236038e2afbfe3de1ee21a1685aa5f10"/>
+		<rom name="KEEPER/DATA/SWPE12.TAB" size="42" crc="a687c739" md5="bdccf53edc79a39bce6a183cab985a8a" sha1="a5e1902af6f95c95bba4961f1253c474bd0ac543"/>
+		<rom name="KEEPER/DATA/SWPE13.DAT" size="236" crc="39effcea" md5="a57875aaf324018649bc17915cf3e836" sha1="dbf2a7e8c96075b05108c5e24e0a2760b531b3e7"/>
+		<rom name="KEEPER/DATA/SWPE13.TAB" size="42" crc="8a4c3adf" md5="6d57c78819dece56496e5316202f3519" sha1="e6ea7818c11b8314828d546ba379678a4320c068"/>
+		<rom name="KEEPER/DATA/SWPE14.DAT" size="256" crc="438d02a5" md5="8399465a82b82000090e78e1e58ef1f5" sha1="8ba9fb87aa0997cb11867ed9a9dae60d5e16cbf1"/>
+		<rom name="KEEPER/DATA/SWPE14.TAB" size="42" crc="45ec0c85" md5="29fbebe7d5413dc40ef95eb155267f86" sha1="4fb42ddfb19ea636d1eac6a8766125659babba12"/>
+		<rom name="KEEPER/DATA/SWPE15.DAT" size="81" crc="dda7e13c" md5="376f387e1b2e7730c31a1bab4a9a6fbc" sha1="45b80b1bae6f683d897af8a4236be847bd2046af"/>
+		<rom name="KEEPER/DATA/SWPE15.TAB" size="42" crc="46e642e6" md5="5adaf67af76436e6cda011e46a7d8ebc" sha1="7e45782177d3625b21a6f9fc1802806166600bde"/>
+		<rom name="KEEPER/DATA/SWPE16.DAT" size="507" crc="1bfe2c65" md5="e84906c093596d171f22dbd2f3a427a3" sha1="41d4853d5daf2afb1970fcb82517c398f72c1e0a"/>
+		<rom name="KEEPER/DATA/SWPE16.TAB" size="42" crc="2d2b19ea" md5="7f28054f1923ead6d90d5f9711d7e35e" sha1="d4b5debf8b09093087b0ea7bb88b063df542f7bf"/>
+		<rom name="KEEPER/DATA/SWPE17.DAT" size="536" crc="59b8447c" md5="8fec2d164c4fd28b1170ed8b16d10348" sha1="4b279910db4f479fb83c1b872975ec5c80ca0198"/>
+		<rom name="KEEPER/DATA/SWPE17.TAB" size="42" crc="7a273158" md5="892d1c79620e6e36512bf1994f842b95" sha1="8669cc05cebed48b3ebe7509eb1df32e9bdf025e"/>
+		<rom name="KEEPER/DATA/SWPE18.DAT" size="355" crc="82914d0a" md5="3bf0edecae364f76546b83780945d57f" sha1="698a426319ba4b80bac7152cac72e513214bac6f"/>
+		<rom name="KEEPER/DATA/SWPE18.TAB" size="42" crc="e05de65f" md5="654c470d9ffa15f90711336bb7a28a61" sha1="92debba2c152960df5d9eb325d4bd30b0c36de46"/>
+		<rom name="KEEPER/DATA/SWPE19.DAT" size="302" crc="b05a82b7" md5="68ed29afde598db694ae6192fe2a012e" sha1="1ba988b5b3c006677d772418079b6082ca3401eb"/>
+		<rom name="KEEPER/DATA/SWPE19.TAB" size="42" crc="9f129394" md5="a7cc1aba96d886af645931130140d9a2" sha1="b0981da6225b84adcce0ef221af0c7cbfa47fa6b"/>
+		<rom name="KEEPER/DATA/SWPE20.DAT" size="70" crc="f4f12659" md5="1fc9745b585bc3678f02a7b6e0ba06df" sha1="50eb57fd1a9549a77b6ce202e4060f0cb642b767"/>
+		<rom name="KEEPER/DATA/SWPE20.TAB" size="42" crc="3da88b1b" md5="89c2a4885a035878c46f6127bbc8e66c" sha1="5529bc6b81e5bc9068ca5461ecc143e4299ff19a"/>
+		<rom name="KEEPER/DATA/SWPE21.DAT" size="481" crc="232e9c49" md5="1b9f6f299a77dc3a2c8d326124c083d9" sha1="87b9fae0f43a5ab56011d1a59c0ad7a9819cc2a9"/>
+		<rom name="KEEPER/DATA/SWPE21.TAB" size="42" crc="eb6d1f24" md5="55d42b6e3a506035a80e7f81f2b35d2b" sha1="dd12b9b22be1f9b7827a956247212f655b1abc72"/>
+		<rom name="KEEPER/DATA/SWPE22.DAT" size="584" crc="1c2bcda0" md5="c7466e15205fdfdc7e969c482cc9a9a1" sha1="60d2c758133bdeb66bee4b10470a6dbe0cb2ee19"/>
+		<rom name="KEEPER/DATA/SWPE22.TAB" size="42" crc="6f157e04" md5="d6b2c4bbaabc62714eb6ab4834a51d71" sha1="31c67bc5c654909ce8f55d06632687cd0e130342"/>
+		<rom name="KEEPER/DATA/SWPE23.DAT" size="338" crc="8b0ca2f4" md5="4422e85195d073ba2d1ef9ffea028ffc" sha1="91bbe7df1c0311524eea9aba1e57cf7f88f5b612"/>
+		<rom name="KEEPER/DATA/SWPE23.TAB" size="42" crc="ce993e07" md5="b7d8695a9f3ff155e9652ab2a239dc23" sha1="8c5e00412b66b42feb1593f6c621ec237c16d3e5"/>
+		<rom name="KEEPER/DATA/SWPE24.DAT" size="272" crc="531ca4ac" md5="ffca1ddc7f633ea3cb1430def65128a7" sha1="b6d883f0d40647ac1bc573270c46e13589876cc9"/>
+		<rom name="KEEPER/DATA/SWPE24.TAB" size="42" crc="635c0556" md5="978e9b657a4075c0e6c536dd1787bb01" sha1="a2952482fb6acbb1126af8da248eeb38c6eb0b0f"/>
+		<rom name="KEEPER/DATA/SWPE25.DAT" size="373" crc="8cc9c0df" md5="1f35f814dc781f31aa6c9170c852e72b" sha1="6c5f91c97b6634af83f2a69a7f519ba67f6b03a8"/>
+		<rom name="KEEPER/DATA/SWPE25.TAB" size="42" crc="ad144a04" md5="136af1c93713b08960754b844349d1d0" sha1="1820ea92c3d79128981e51ca40ac93e2c5a4fe44"/>
+		<rom name="KEEPER/DATA/SWPE26.DAT" size="288" crc="06bad8d6" md5="54fd13885290a09c125e47ef1ead2a40" sha1="cb282dcbd918b7f8e48ce33936b950299f62a59a"/>
+		<rom name="KEEPER/DATA/SWPE26.TAB" size="42" crc="2ac1eb8e" md5="61237d8873b2ee2bd5cccfd8c59c47c0" sha1="32d6925d57b6c6010c8ee155e1864b7b01d0deb8"/>
+		<rom name="KEEPER/DATA/SWPE27.DAT" size="448" crc="d0a520c7" md5="d3804d97d4cfcc3f5d3da16aceb90eea" sha1="4939a01f5237e8e5ab29225e6505dc87835f05d3"/>
+		<rom name="KEEPER/DATA/SWPE27.TAB" size="42" crc="3df2d4a2" md5="fadd3d9569162b39a2f610acc08c215a" sha1="a0b77245c69663f4e5738b54d77093a86ddca119"/>
+		<rom name="KEEPER/DATA/SWPE28.DAT" size="681" crc="40eb4fdf" md5="e0c7dce8436e255752ed6742f539719e" sha1="c3630068c42cf2d8c588057595cdf649ad0fe45f"/>
+		<rom name="KEEPER/DATA/SWPE28.TAB" size="42" crc="65a9e022" md5="41ae6c61679ff5277059bb9a24518f5b" sha1="ba196d4ab37f0af93972e00a346e6894461ed87e"/>
+		<rom name="KEEPER/DATA/SWPE29.DAT" size="388" crc="1aefb58a" md5="36d31a777814c81aac5b0b75bb86e07d" sha1="36ab97b1e658fc46d0365ba9ac6a2f4ca90e38ab"/>
+		<rom name="KEEPER/DATA/SWPE29.TAB" size="42" crc="bd3f2656" md5="55385bde07057429ebde267b6b535ad8" sha1="794493b975f6eb6ff1ed3b08d170ea1454e79e07"/>
+		<rom name="KEEPER/DATA/TABLES.DAT" size="84224" crc="d21f40fb" md5="3696268178fde64589a9c309921750cb" sha1="621c71794c280f5d5bc9ef0e29eede63f5bc01ef"/>
+		<rom name="KEEPER/DATA/TEXT.DAT" size="45894" crc="30055f97" md5="1c704bae32a7eee3e27ce0ccc4bf439c" sha1="322ef780c2fb013f4375ce5f0f9e8e9b367ae5cb"/>
+		<rom name="KEEPER/DATA/TICON0-0.DAT" size="1484" crc="79fa7370" md5="fcfb5044467cfa74dd8b4cb697de22a3" sha1="95df5cbd314583c10b1b70192a466fbbbc1284fb"/>
+		<rom name="KEEPER/DATA/TICON0-0.TAB" size="132" crc="372e435e" md5="eed3f08a3e54e6711a46fa7989d9a8d3" sha1="ad669be86d0c67f923d35a4698c6984af1e7eafe"/>
+		<rom name="KEEPER/DATA/TMAPA000.DAT" size="181845" crc="0c49118d" md5="96b43aab2f510b1eac5db69c8aca91d8" sha1="bcb08ec21bf4b3d5ec7fef945bb58e1a4e922c7a"/>
+		<rom name="KEEPER/DATA/TMAPA001.DAT" size="188739" crc="56095ac8" md5="a71f6b474b5100915037aeb6dd5102b8" sha1="f22de55c11c4c7503c77ab3c9c94f6f83d40c543"/>
+		<rom name="KEEPER/DATA/TMAPA002.DAT" size="171599" crc="c6707333" md5="ec6e0a2899b0587955f6ef648c411214" sha1="f968822141db0376eb0dfd4b1db3b08edb573bf3"/>
+		<rom name="KEEPER/DATA/TMAPA003.DAT" size="557056" crc="7cf76ee2" md5="debe6e9246a4dc752a6ddecf5e3a4bef" sha1="ab1ff4f909de25d21d8d4e90b92bcb324bcdf494"/>
+		<rom name="KEEPER/DATA/TMAPA004.DAT" size="557056" crc="779dba62" md5="9fadeaa8c6a45bdcee02318f230a489c" sha1="df781a8b8b4058fb66450d51983b1c52ddfeb69d"/>
+		<rom name="KEEPER/DATA/TMAPA005.DAT" size="557056" crc="85393cd1" md5="b4113d16ebad5644f0f8c365cd9cb921" sha1="000996d898625dc204d217a30f27b021e35b97c0"/>
+		<rom name="KEEPER/DATA/TMAPA006.DAT" size="557056" crc="6c7abe42" md5="20e743d71ae3b70dc998ca0eddc8dc51" sha1="163c974b30f8b5d4b502a1807db6b962bb7cd38b"/>
+		<rom name="KEEPER/DATA/TMAPA007.DAT" size="557056" crc="84cdceb4" md5="98e7ed886f7fb28d808e28e1954c4c35" sha1="bf9578c562e741327a3830cf579d277c72c7d302"/>
+		<rom name="KEEPER/DATA/TMAPANIM.DAT" size="368" crc="84544e54" md5="1cea552cd6ddae6cbae339f22ae78831" sha1="0980e1c328bd5e43bb9cc8d39d171325b68c6431"/>
+		<rom name="KEEPER/DATA/VAMPAL.PAL" size="768" crc="c39f5ccc" md5="811f66ae4d064f4e27bad4be50e7791a" sha1="e7670e12a63847bd0749bad42b489643875d47ac"/>
+		<rom name="KEEPER/DATA/WHITEPAL.COL" size="256" crc="e206c312" md5="d4cee3212b23a01a3c2a2b1b4a0e1a17" sha1="d877e6d34bdb77121a99db9f3497a4a272c27e21"/>
+		<rom name="KEEPER/DOS4GW.EXE" size="265396" crc="5cc34b0f" md5="006211ca60fa3d4b38a9a8da2ade1056" sha1="c489f83dc15a9ffc3c502707da40e581ec79bfe6"/>
+		<rom name="KEEPER/KEEPER.EXE" size="1923995" crc="23365a08" md5="b4c137fe9a54a8bc16fccebd525e1b18" sha1="946767857551dfff4fe5554f382748013e6e6cbd"/>
+		<rom name="KEEPER/SAVE/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-12-31 00:00:00"/>
+		<rom name="KEEPER/SOUND/ADRV688.DIG" size="11278" crc="96dfb75d" md5="feabc78729e3a458ae2f6ab40146f0d9" sha1="255ecb5d649895d65bca49bd6afcbdf875e34bf2"/>
+		<rom name="KEEPER/SOUND/AILDRVR.LST" size="17340" crc="95dd989f" md5="957fc8cef97bf9a3a931548f6d0ab26b" sha1="faeb92a59071dfb8c53111f3c3a3b7bfa830d0cb"/>
+		<rom name="KEEPER/SOUND/AILDRVRG.LST" size="18343" crc="7d44fb5d" md5="e0a1758358dcac2f58bd8fef93749695" sha1="a52b4bc62c1e3be95e09edb4f8b5a4d739f8df37"/>
+		<rom name="KEEPER/SOUND/AILDRVRI.LST" size="17423" crc="5d4c30ab" md5="4f66ab20ab4a8ba442c1b34e4ea562c6" sha1="05640349f53680799651c9164a0ab8c8e3156f06"/>
+		<rom name="KEEPER/SOUND/ATLAS/BAD01.WAV" size="141662" crc="327ffaed" md5="1140b9fc8daa60da19b3595d363556f9" sha1="aab5da0049dd868626a2e45fc45aadf1fcc1887d"/>
+		<rom name="KEEPER/SOUND/ATLAS/BAD02.WAV" size="164086" crc="5a14fd43" md5="35bec01fafb165698cad1ef62c073d77" sha1="18876046eb7647716d1df35b2fbc04c21546f594"/>
+		<rom name="KEEPER/SOUND/ATLAS/BAD03.WAV" size="183134" crc="a86a4a28" md5="408d2ecbd5a5f9de9132a98868bccad3" sha1="735bce53598a8755ce18fdd43cb57e2582205222"/>
+		<rom name="KEEPER/SOUND/ATLAS/BAD04.WAV" size="157534" crc="bc1c05ee" md5="11c7008ba1c6e43259097e817b4eec78" sha1="86cbc83e966a621d0f693bb858ba8be50b240780"/>
+		<rom name="KEEPER/SOUND/ATLAS/BAD05.WAV" size="174326" crc="ff397369" md5="e2c07a2f07f43a02d9f724f8e9fc6a5d" sha1="7d3e1cd8e7850c32f09a64bf140944a725093207"/>
+		<rom name="KEEPER/SOUND/ATLAS/BAD06.WAV" size="186798" crc="adc5f649" md5="fe6262b29ae2811314b79799fd59a01d" sha1="9b27607b398a106cc8476db3565a0394ec4a1bc6"/>
+		<rom name="KEEPER/SOUND/ATLAS/BAD07.WAV" size="189278" crc="b81192a6" md5="7be49ff27959b9cb4f4364521aa91136" sha1="7cb2ba73552676733dae53f3d0b17a0054166f16"/>
+		<rom name="KEEPER/SOUND/ATLAS/BAD08.WAV" size="167774" crc="e84947b6" md5="65aea53e5b49f378243878492510f151" sha1="d48baafc3bf3dcc51cd9a44fbcc8b16d9625ed1b"/>
+		<rom name="KEEPER/SOUND/ATLAS/BAD09.WAV" size="150366" crc="0aac38d6" md5="8d3986e865258059e8710089081bb0d5" sha1="5e0d68e0742ef23df8e1f88546a7dbc1f9141366"/>
+		<rom name="KEEPER/SOUND/ATLAS/BAD10.WAV" size="191222" crc="90008839" md5="2442b7434639d97ceb0a65ea55f5947a" sha1="87f522f306b3010baa33a3a7a45f292dce42b00e"/>
+		<rom name="KEEPER/SOUND/ATLAS/BAD11.WAV" size="170846" crc="54573959" md5="a2718dc3557abd7e35e052ef57279ef4" sha1="74d466112033929f42a596061af8bb8f31a19864"/>
+		<rom name="KEEPER/SOUND/ATLAS/BAD12.WAV" size="151390" crc="707d535b" md5="8d27c031338f7548a7e38835a02eead7" sha1="5da7aea9fe9f3105c4f43d03fa491cd24e65a73c"/>
+		<rom name="KEEPER/SOUND/ATLAS/BAD13.WAV" size="171006" crc="0abc19d9" md5="180ca7cfff5af2ffcc9227bf84b37df0" sha1="51ad9bdf595061c9e53e1f115d544d819a0fb258"/>
+		<rom name="KEEPER/SOUND/ATLAS/BAD14.WAV" size="175966" crc="7be33606" md5="4f5456027f6e3493babac2c7f47a90e8" sha1="9d77314bea6f04775a7f8f24e2f720ae93e32411"/>
+		<rom name="KEEPER/SOUND/ATLAS/BAD15.WAV" size="218358" crc="1991d0a7" md5="13afd0550197eb214698dc9465b90e95" sha1="ec1607a4ce87d3165650175e3264a031fbbc0945"/>
+		<rom name="KEEPER/SOUND/ATLAS/BAD16.WAV" size="180062" crc="765980c7" md5="77c0bf1044a219cd67281869528167b0" sha1="2a61c85f2011a20b876a12441f65445a4a0dc95f"/>
+		<rom name="KEEPER/SOUND/ATLAS/BAD17.WAV" size="193374" crc="b4b7a1f3" md5="8887bcc0013a6b60593a8c94a9734cfb" sha1="583ac594bbaee8d10c276c8d1e53ab5b59a95cb1"/>
+		<rom name="KEEPER/SOUND/ATLAS/BAD18.WAV" size="151390" crc="ed8a58f7" md5="e0559f177b4753ae2f92c234e23e5b7c" sha1="86d2a0439c0b01bcdee2d46b62123545b62b00a4"/>
+		<rom name="KEEPER/SOUND/ATLAS/BAD19.WAV" size="180062" crc="462f8c7f" md5="234152feef23d134f4a6ec6b458164d6" sha1="ca1e48fc5d30ccfa94c35e41920950a6ef32c323"/>
+		<rom name="KEEPER/SOUND/ATLAS/BAD20.WAV" size="186614" crc="c98c9511" md5="92f0663c8f7429a5565642601c5513d7" sha1="ac0d893bdcbf3d3114731dc3e323f77c262edd75"/>
+		<rom name="KEEPER/SOUND/ATLAS/GOOD01.WAV" size="201054" crc="62ce06f4" md5="73623e3f970f2735423cf93a4cfc0cf8" sha1="3b6bc918ff217f2ee3f0a936fdff1c87e7df8ab8"/>
+		<rom name="KEEPER/SOUND/ATLAS/GOOD02.WAV" size="177582" crc="71b2818e" md5="458a07ea4dc5feabe3cb47e97a1d77cd" sha1="bb74d1255514fa1a23b8bacbc379f78ae51a1bca"/>
+		<rom name="KEEPER/SOUND/ATLAS/GOOD03.WAV" size="165214" crc="abf67a86" md5="0234c6f5528cd23cc00793f8d2c0ac24" sha1="fa08306c23066a17d5ff83b32e5649232dfea8b2"/>
+		<rom name="KEEPER/SOUND/ATLAS/GOOD04.WAV" size="174430" crc="3732fc6a" md5="9fa26db86e087e528e339e4015a18f60" sha1="d7f453cc7407f4d77eb8d8a0a955621fa5a41793"/>
+		<rom name="KEEPER/SOUND/ATLAS/GOOD05.WAV" size="227678" crc="a1974202" md5="e2482adf59ed10b53fe2468afa0a2e3f" sha1="a1fc66ff45f7237690c0f9e6c0b652d3ca1c4e47"/>
+		<rom name="KEEPER/SOUND/ATLAS/GOOD06.WAV" size="201054" crc="7d1ec489" md5="75b2555fcc8655f2c1612a15fa81a2d4" sha1="ff8c503d63d92f443e7eaeb244a806617b0a977b"/>
+		<rom name="KEEPER/SOUND/ATLAS/GOOD07.WAV" size="160094" crc="7d450a26" md5="db5df433502fd284bf519c3b98a84893" sha1="3dc6d2adefd3b9cd3565abb0aed7e4657c598ead"/>
+		<rom name="KEEPER/SOUND/ATLAS/GOOD08.WAV" size="156078" crc="05677ffe" md5="57f8a5ceef7708f861f342950c99b764" sha1="ac36998671fadb225cb6c3dc853f349447eb3932"/>
+		<rom name="KEEPER/SOUND/ATLAS/GOOD09.WAV" size="158046" crc="938b9f76" md5="fb82c8f7c3ade2d70cd929112039aef1" sha1="e5bb53338ff2c8bd2672af42b7457434f5a70a6a"/>
+		<rom name="KEEPER/SOUND/ATLAS/GOOD10.WAV" size="189358" crc="b5306ec7" md5="b384e98fbfd2cb0dc6bbfee9bf678606" sha1="6a1351f44f1fea1a20049b35001bee5f647461e4"/>
+		<rom name="KEEPER/SOUND/ATLAS/GOOD11.WAV" size="149934" crc="59f3d36c" md5="4a8ce3b62f4b84d4ace830070e7ead12" sha1="7b862857bd0f7a951a67853ab6da40df6f5ecfc7"/>
+		<rom name="KEEPER/SOUND/ATLAS/GOOD12.WAV" size="214878" crc="0bbc6f5c" md5="2e92da607e782477e57b9038248f5514" sha1="b4d0e4731ca0bc11ae27a8801e6e4c42c4fdbfb0"/>
+		<rom name="KEEPER/SOUND/ATLAS/GOOD13.WAV" size="218462" crc="26b60169" md5="5d7f931e78aa5796c8b9e476eb3706d7" sha1="87b62d4fe064bd8596dafb28e9ce35954ef338c2"/>
+		<rom name="KEEPER/SOUND/ATLAS/GOOD14.WAV" size="181086" crc="2c9a31cf" md5="0f8b9aaf1d0f11b120d8adddab2850c9" sha1="998844199fb184b004e837efeb893caec5fb8a23"/>
+		<rom name="KEEPER/SOUND/ATLAS/GOOD15.WAV" size="159070" crc="dc706b1a" md5="a03887fabc5fc10a974e98971645cff0" sha1="9e5e005760df7586ce00a53fdfc1c64b843d068a"/>
+		<rom name="KEEPER/SOUND/ATLAS/GOOD16.WAV" size="159582" crc="941b81b1" md5="f0b40957329ccf6a6fe5ebed43118c21" sha1="95420e14a3297f7a28e839ca8a76c3b6518f07e7"/>
+		<rom name="KEEPER/SOUND/ATLAS/GOOD17.WAV" size="188766" crc="85dda536" md5="bff55c3e36d7f9e424d08263eebffa4d" sha1="0a62477746bd821f499c438ddf5fd2689f46607d"/>
+		<rom name="KEEPER/SOUND/ATLAS/GOOD18.WAV" size="176990" crc="1d9acb1a" md5="af7933b378f07872fee1463146483f18" sha1="b909de7003f5649d666b8cdaf3a9dc8ecafee668"/>
+		<rom name="KEEPER/SOUND/ATLAS/GOOD19.WAV" size="181598" crc="114bf6f4" md5="07e4401438173062757a53dfb5251740" sha1="0fe9506bcf4176d6b4e20b30282e6e8a828f853a"/>
+		<rom name="KEEPER/SOUND/ATLAS/GOOD20.WAV" size="227678" crc="dad320e7" md5="cbd751a5a6b150e19a998e633b3929d1" sha1="4d6d0630ba06c1daa289bf2fdb103bb1702e047a"/>
+		<rom name="KEEPER/SOUND/ATMOS1.SBK" size="508146" crc="f295ce71" md5="f4ed41d565bf2e7443a0ed3eaaf56292" sha1="6fe942b2bff2ddde459538c5a2baa9a31438ea83"/>
+		<rom name="KEEPER/SOUND/ATMOS2.SBK" size="506838" crc="b5f921d4" md5="787eed5d5367abcdc2dfbeb9c3cc8d20" sha1="20250aea0c45bf6c6ed3e4ecdca5fa65bd0b74b7"/>
+		<rom name="KEEPER/SOUND/AUDIODRV.DIG" size="11372" crc="f4e8e5ff" md5="593c549bdc6cae6cd9520344c4f9a32e" sha1="b099389bdcecf7ebb1f23a1a06898cdf569e5bf8"/>
+		<rom name="KEEPER/SOUND/BULLFROG.SBK" size="508142" crc="f6b197af" md5="40ecde48a19fc963decd48112d9055b3" sha1="16f079f9e15cae9046d868b66c2dcf78674479f4"/>
+		<rom name="KEEPER/SOUND/IWAV.DIG" size="2585" crc="b9199db2" md5="20bb8743d82ddbb6b79cc3b02a65d59f" sha1="efd99ed5c598648567df82dd6a0236f8584cc38f"/>
+		<rom name="KEEPER/SOUND/JAMMER.DIG" size="3219" crc="230129e0" md5="4922c729c5e7b347089a2be44f296859" sha1="103e0bf92c6fd1c9fc925fd57bdc22e56170b395"/>
+		<rom name="KEEPER/SOUND/MSSDRVR.LST" size="20446" crc="6b26dda5" md5="44d05216303cbf4763c6a8933d6d4ab1" sha1="79916abc28d5d3fb0697be545ce6157308211502"/>
+		<rom name="KEEPER/SOUND/MSSW95.EXE" size="8039" crc="592882fd" md5="977eb2eb6e9342dcfc83e6302c268015" sha1="49ad6f9a9f18333b9ee9478e6975aa13f0e5784f"/>
+		<rom name="KEEPER/SOUND/MUSIC.DAT" size="636" crc="b17d01ea" md5="3a787da11055cb39ac37772be729c5ce" sha1="68d3c3e24f2bbcfab338dffb6d9a217c1c9bfda5"/>
+		<rom name="KEEPER/SOUND/NVDIG.DIG" size="1877" crc="7630b20c" md5="57cec94828e14d3174ec0a4908156fa2" sha1="822f20d70297cd414189f54035b5a0bcf84947d6"/>
+		<rom name="KEEPER/SOUND/PROAUDIO.DIG" size="2214" crc="4473b6b4" md5="9598df4705dc5d8ce46b0e9663e04419" sha1="96116c2c8f88bf624e2ee6977c431e941ad463b0"/>
+		<rom name="KEEPER/SOUND/RAP10.DIG" size="2936" crc="d36fe2b3" md5="e0a53f128f13db92d7df8ed18cdc7766" sha1="8b9cedd2ceb44099e763ff81f0af53e6fe2a0e74"/>
+		<rom name="KEEPER/SOUND/SB16.DIG" size="2923" crc="8beea4ee" md5="29dcf6c89c16aad5220d9df80ed5b909" sha1="33911627218dcf2b5962bfde380885e5fc6b6fc3"/>
+		<rom name="KEEPER/SOUND/SBAWE32.MDI" size="36880" crc="f5490e80" md5="aaf6d9cb67e09ed6f54c7c059f2bc482" sha1="b61d1967a819325e4b91325baddc02e4701f2d85"/>
+		<rom name="KEEPER/SOUND/SBLASTER.DIG" size="3212" crc="bb45de43" md5="31ae92951d530bde6a93ed572ee5f09b" sha1="23fdd3462a6a79f13d80adaadbd1ec76549fdb7e"/>
+		<rom name="KEEPER/SOUND/SBPRO.DIG" size="2871" crc="1a882630" md5="6d1b11190b51690fe68005a04475ba9b" sha1="58fa78e05946fda1eef7b25f234740c43659e088"/>
+		<rom name="KEEPER/SOUND/SETSOUND.EXE" size="120721" crc="ad2854a5" md5="c7c8339e4de8c3a75aed379dd3ae2460" sha1="a4c2fe2aa85aed1a9cdbcfc27c51596782fd1bf3"/>
+		<rom name="KEEPER/SOUND/SNDSCAPE.DIG" size="4171" crc="708a96a2" md5="9d7a052a680f45d244e0ee4735b7b55f" sha1="f9902b74d545813315194f5a1791c4ea0a9a1e0d"/>
+		<rom name="KEEPER/SOUND/SNDSYS.DIG" size="3419" crc="f076c17f" md5="4c6b9b9d53328038e7e7ec29806f88a5" sha1="fb03652e2f3c45b99f6a76e11a84a8d95debaee8"/>
+		<rom name="KEEPER/SOUND/SOUND.DAT" size="23618254" crc="7ba70671" md5="605eb51b25b12c8d0158518591baa85a" sha1="7b752303ffdc94b9bb71cf0868b8db4169ac5626"/>
+		<rom name="KEEPER/SOUND/SPEECH.DAT" size="11405582" crc="d8c492da" md5="1db1601ebc65769be5642deae03a7e78" sha1="e7cc22cafa6e3885f9d582a999fcc938dd610b58"/>
+		<rom name="KEEPER/SOUND/ULTRA.DIG" size="9478" crc="430d67f5" md5="000e584a06712d2f2b58eb2e17b65248" sha1="4327d6bb924b4e40fa7ff035bdfb73a879c31836"/>
+	</game>
+	<game name="Dungeon Keeper - The Deeper Dungeons (1997) (Bullfrog Productions).dosz">
+		<description>Dungeon Keeper - The Deeper Dungeons</description>
+		<comment>Installed using Redump-verified CD-ROM: Dungeon Keeper - Gold Edition (USA) (En,Fr,Es,Nl,Sv,Pl)</comment>
+		<comment_dosc>Mounts disc, auto-starts, and sound config</comment_dosc>
+		<year>1997</year>
+		<developer>Bullfrog Productions</developer>
+		<parent>Dungeon Keeper Gold (1997) (Bullfrog Productions).dosz</parent>
+		<link type="media">http://redump.org/disc/46253/</link>
+		<rom name="Dungeon Keeper Gold (1997) (Bullfrog Productions).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOS4GW.EXE" size="265396" crc="5cc34b0f" md5="006211ca60fa3d4b38a9a8da2ade1056" sha1="c489f83dc15a9ffc3c502707da40e581ec79bfe6" date="1996-07-03 08:02:34"/>
+		<rom name="KEEPER/BULLWEB.URL" size="53" crc="db99b4fa" md5="4766ac997e5d6b00645eadafe80226ff" sha1="4046b25a00dddeacce1fdc2d0754d173ca5221b6" date="1997-09-19 02:51:42"/>
+		<rom name="KEEPER/DATA/DD1TEXT.DAT" size="51963" crc="bf49774e" md5="3667c4f878ce526d78b4a8c8486ad50f" sha1="61dffa2b912a07a825247b17b14d42523c1f888c"/>
+		<rom name="KEEPER/DATA/DUTCH/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-10-23 03:11:38"/>
+		<rom name="KEEPER/DATA/DUTCH/DD1TEXT.DAT" size="52977" crc="90522eca" md5="551524ebce42053fe2f2213b2e5fc3f8" sha1="f42e50925ece99036d4807828f625d82673e945a" date="1997-10-16 22:09:46"/>
+		<rom name="KEEPER/DATA/ENGLISH/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-10-23 03:11:38"/>
+		<rom name="KEEPER/DATA/ENGLISH/DD1TEXT.DAT" size="51963" crc="bf49774e" md5="3667c4f878ce526d78b4a8c8486ad50f" sha1="61dffa2b912a07a825247b17b14d42523c1f888c" date="1997-09-17 21:16:58"/>
+		<rom name="KEEPER/DATA/FRENCH/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-10-23 03:11:38"/>
+		<rom name="KEEPER/DATA/FRENCH/DD1TEXT.DAT" size="61514" crc="ff38601b" md5="161936f1f6c32063cd3049d8dd808ed9" sha1="6bea0054d6d2e5a18be94d196a9150aa7326f55e" date="1997-09-28 22:35:00"/>
+		<rom name="KEEPER/DATA/GERMAN/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-10-23 03:11:38"/>
+		<rom name="KEEPER/DATA/GERMAN/DD1TEXT.DAT" size="62747" crc="f9927015" md5="7fa3b8df2882c8d4e842c25b60a31614" sha1="4e8023a7ea5cc4ad6f0b4f93a9ccb6cf22908d21" date="1997-10-16 22:09:46"/>
+		<rom name="KEEPER/DATA/ITALIAN/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-10-23 03:11:38"/>
+		<rom name="KEEPER/DATA/ITALIAN/DD1TEXT.DAT" size="57272" crc="3a4290c2" md5="498d7d0132608b8055e4f9ef47a034ff" sha1="ca751ca30b557eee9c505224149274ca297540ff" date="1997-10-16 22:09:46"/>
+		<rom name="KEEPER/DATA/POLISH/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-10-23 03:11:38"/>
+		<rom name="KEEPER/DATA/POLISH/DD1TEXT.DAT" size="55523" crc="0f4fa764" md5="b2fd869e80a122ce79c47addb505ab9c" sha1="794c5eef53b1341f8023dcb4c36a14daaab07760" date="1997-10-01 00:33:24"/>
+		<rom name="KEEPER/DATA/SPANISH/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-10-23 03:11:38"/>
+		<rom name="KEEPER/DATA/SPANISH/DD1TEXT.DAT" size="58227" crc="ef14283c" md5="d23b46f902b31e0a244e40b5f82cd6f6" sha1="a74220a6f3d09b87ddea177c8516aa69b5dccc8d" date="1997-10-16 22:09:48"/>
+		<rom name="KEEPER/DATA/SWEDISH/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-10-23 03:11:38"/>
+		<rom name="KEEPER/DATA/SWEDISH/DD1TEXT.DAT" size="53680" crc="bfacac9f" md5="add4fff4823bbebfdd22c6603424888b" sha1="0d64bbec419b7636fe22e79afd8416e1b479e255" date="1997-09-17 21:17:00"/>
+		<rom name="KEEPER/DEEPER.EXE" size="1988515" crc="549553a2" md5="bdcdee53dd1e9ba1c3b923b8cedbac11" sha1="8fc10c7d37de4fcd5d0f73970e8ed3d771300631" date="1997-10-01 04:04:04"/>
+		<rom name="KEEPER/DOSSETUP/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-10-23 03:11:38"/>
+		<rom name="KEEPER/DOSSETUP/DOS4GW.EXE" size="265396" crc="5cc34b0f" md5="006211ca60fa3d4b38a9a8da2ade1056" sha1="c489f83dc15a9ffc3c502707da40e581ec79bfe6" date="1996-07-03 08:02:34"/>
+		<rom name="KEEPER/DOSSETUP/SETUP.EXE" size="64472" crc="10220a4a" md5="4e009253f7c6aedb943b8d2b379b79ef" sha1="af4f7afb69995555aef2697df21c69cb70100343" date="1997-09-24 22:37:12"/>
+		<rom name="KEEPER/LDATA/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-10-23 03:11:38"/>
+		<rom name="KEEPER/LDATA/DKFLAG00.DAT" size="29938" crc="1c6d1a7a" md5="c5b9dbe2b56f03015986979ad5dd1c4f" sha1="f6ca4db1ad7575bc5921f7654874b514885dbf36" date="1997-05-30 09:06:38"/>
+		<rom name="KEEPER/LDATA/DKFLAG00.TAB" size="210" crc="8e2b18a7" md5="055e6637557cf3da1cbf42a7e1f57d0b" sha1="2c4426c12e187f7ef51614c9247743713fcfc630" date="1997-05-30 07:51:48"/>
+		<rom name="KEEPER/LDATA/DKMAP00.PAL" size="768" crc="c6935466" md5="c2a9ec9c4e905d05f4ea261d2138de22" sha1="001565436a1538139d9fc6b2970167673b98bd3d" date="1997-05-21 20:29:58"/>
+		<rom name="KEEPER/LDATA/DKMAP00.RAW" size="1228800" crc="6c80ff46" md5="13866d21e212e8901705ee919587542f" sha1="e8bfc23f96a7bdcd97220b1ffd22c4b02eb57564" date="1997-05-21 20:29:26"/>
+		<rom name="KEEPER/LDATA/DKWIND00.DAT" size="391554" crc="a72d933f" md5="ce6e7a79f07b450ce26da57cee0c63a0" sha1="eef648843a2abbff5a321ab4720cf6ae576db806" date="1997-05-30 09:06:50"/>
+		<rom name="KEEPER/LDATA/DOOR01.DAT" size="107207" crc="e9c7ddb5" md5="4182a240a00cfe873ff5542e3cf126fc" sha1="150514cc916910ef8218fa831021fcf50336d45c" date="1997-05-21 20:59:24"/>
+		<rom name="KEEPER/LDATA/DOOR01.TAB" size="66" crc="153f9712" md5="7443046523d68acb0972639f24cc7af8" sha1="9f4ff3dfeedc6d946d4cd4d1207b85aa36c5fddb" date="1997-05-30 09:05:32"/>
+		<rom name="KEEPER/LDATA/DOOR02.DAT" size="83830" crc="014856b2" md5="de3775b0e45c5f4c57701388d0f2cd8e" sha1="06dbc3d6c9aa33b2c90e4ac012d71183ce34fc87" date="1997-05-21 20:59:44"/>
+		<rom name="KEEPER/LDATA/DOOR02.TAB" size="65" crc="2d9c0d95" md5="e9f967be67bab93678b150dffe7fc4a7" sha1="e2b1e09c3f79f0c213ce76df4bc8cd691e3c13ed" date="1997-05-30 09:05:32"/>
+		<rom name="KEEPER/LDATA/DOOR03.DAT" size="105212" crc="1e60ca74" md5="6f273e574f2944cc92f73f8a844a1ba8" sha1="45b1186195977afc65c6c24771b8ea0479cab27a" date="1997-05-21 20:59:50"/>
+		<rom name="KEEPER/LDATA/DOOR03.TAB" size="66" crc="22d8d8c4" md5="9bf7ef9b7eea738c6d0502d0c7ecb5c5" sha1="095037434e3922099b8b2d86d09ada3deb07724e" date="1997-05-30 09:05:32"/>
+		<rom name="KEEPER/LDATA/DOOR04.DAT" size="103630" crc="3764beca" md5="3dd7727b091917bbadf8123e179f561f" sha1="9e3318fabef4737aad6a9660f3aa4308ade15fcf" date="1997-05-21 20:59:56"/>
+		<rom name="KEEPER/LDATA/DOOR04.TAB" size="66" crc="98b03604" md5="c004d18d275babf36dccfb485f7a10ef" sha1="5ce72438811c61c0e5b00c5e331e3254a0f0a9f1" date="1997-05-30 09:05:32"/>
+		<rom name="KEEPER/LDATA/DOOR05.DAT" size="65129" crc="646f00bd" md5="b306fc4e1bc6f35efcc9c0b7fa67fc02" sha1="c9d1889770aeeb5a03b28e792ac86be0afaee0ef" date="1997-05-21 20:59:58"/>
+		<rom name="KEEPER/LDATA/DOOR05.TAB" size="66" crc="c52362b1" md5="f0adbe31fa53b66c1203a3ad41bacf4a" sha1="46393555c3ab6bcb0e5270da217646cf36f655a9" date="1997-05-30 09:05:32"/>
+		<rom name="KEEPER/LDATA/DOOR06.DAT" size="46736" crc="51e4923c" md5="678369b88abf2d593cbdf3ad9193ee07" sha1="5b83aafabe4d011fd669b1e97324df49b8586438" date="1997-05-21 21:00:04"/>
+		<rom name="KEEPER/LDATA/DOOR06.TAB" size="64" crc="8c9ba6bc" md5="c6a6bc86d094f9513433fe4256d20cb3" sha1="45f6fe75c4d45f81b0dc7dede545f4c4d883e33b" date="1997-05-30 09:05:32"/>
+		<rom name="KEEPER/LDATA/DOOR07.DAT" size="50534" crc="6ca08f27" md5="295b8cd85967d789ea3ee5a634622fca" sha1="1383d7e06494f02e49cdf9f75983e1cf0edc1f10" date="1997-05-21 21:00:06"/>
+		<rom name="KEEPER/LDATA/DOOR07.TAB" size="64" crc="0ec21254" md5="af5d7e00def55a3ab79bce70b1256e5a" sha1="cf33f36e03697ebf643d559b243943cda659a7e6" date="1997-05-30 09:05:32"/>
+		<rom name="KEEPER/LDATA/DOOR08.DAT" size="50003" crc="5a66bcc0" md5="f72c5913936a9348bfbe4f33b3b4688b" sha1="3072ec40af4ec19e0e1993df0e07fe2db07c1824" date="1997-05-21 21:00:10"/>
+		<rom name="KEEPER/LDATA/DOOR08.TAB" size="64" crc="aac87f12" md5="ba7d4556017372a98da8831fc02ab2a1" sha1="3253334a3a65950773d51f99c7808f12d79b788b" date="1997-05-30 09:05:32"/>
+		<rom name="KEEPER/LDATA/DOOR09.DAT" size="65250" crc="141f3ed9" md5="6e6315dcb95354d8fc948113f89706c5" sha1="7423336b733c40d02f2afc48365f84a1b9853e42" date="1997-05-21 21:00:12"/>
+		<rom name="KEEPER/LDATA/DOOR09.TAB" size="65" crc="972b2380" md5="cac939ae4126ee64986182bb7ae8562f" sha1="6e2227384a08e822e66c1c43a478584d2575cdff" date="1997-05-30 09:05:32"/>
+		<rom name="KEEPER/LDATA/EMPTY" size="3" crc="927708a1" md5="bc949ea893a9384070c31f083ccefd26" sha1="cbb8391cb65c20e2c05a2f29211e55c49939c3db" date="1997-01-06 01:55:34"/>
+		<rom name="KEEPER/LDATA/FRONT.PAL" size="768" crc="22f9c365" md5="157896dc3931bed8148f7e9003232237" sha1="a84d4442adc662443ed678d283156feb253cc1aa" date="1997-05-27 22:53:24"/>
+		<rom name="KEEPER/LDATA/FRONT.RAW" size="307200" crc="b459940b" md5="5fc7f046ba25f5fde4f9e13f3cd952df" sha1="c001df61ab3e851929ea603c9c875ff31b016e6c" date="1997-05-27 22:53:16"/>
+		<rom name="KEEPER/LDATA/FRONTBIT.DAT" size="198395" crc="716ed54b" md5="3bc5806c9cc1107521af56ca2c48a195" sha1="91235f81ad19fa46dab845848362aeeabc51f6ae" date="1997-05-31 00:31:28"/>
+		<rom name="KEEPER/LDATA/FRONTBIT.TAB" size="570" crc="81e4b64a" md5="4ad8c6c2106a03a430f1faacf8198680" sha1="a8e399271165b90e4166d5d3184f672b6f30305d" date="1997-05-31 00:31:28"/>
+		<rom name="KEEPER/LDATA/FRONTFT1.DAT" size="13759" crc="578ef431" md5="975bf5ff89e3a20a123b27c4702875b6" sha1="be19cc5df98a61d1dc56e21ddaf72039d3eb4277" date="1997-05-30 09:05:44"/>
+		<rom name="KEEPER/LDATA/FRONTFT1.TAB" size="1338" crc="f37a98cf" md5="eef6e1db28d0875f106aaf4beee55503" sha1="28f0f7b1c32aec24f14ea984211324c90d7e3391" date="1997-05-28 13:28:34"/>
+		<rom name="KEEPER/LDATA/FRONTFT2.DAT" size="7913" crc="6ead7fd6" md5="c949ea65e00c2c566e770ee3ad67f7a2" sha1="f6193cdb5c41d5041280255e947f8c07d2c1614a" date="1997-05-30 09:05:46"/>
+		<rom name="KEEPER/LDATA/FRONTFT2.TAB" size="1338" crc="b52b9e21" md5="02780a1c3138250f59407f66bdee14e6" sha1="d63a390fb80de1033566b2b7b48ad91508241b93" date="1997-05-28 13:28:34"/>
+		<rom name="KEEPER/LDATA/FRONTFT3.DAT" size="25657" crc="1566b058" md5="e55444beb335252d138f361e1e41496f" sha1="bcaf7873476733c3802974c72ae7266965df94d1" date="1997-09-23 22:17:04"/>
+		<rom name="KEEPER/LDATA/FRONTFT3.TAB" size="1338" crc="05f96552" md5="b340ec82e4867fd7638f162ed33ceb58" sha1="7bc60136f2f276d258951f277a3f3b81c68f9fdc" date="1997-09-23 22:17:04"/>
+		<rom name="KEEPER/LDATA/FRONTFT4.DAT" size="6939" crc="78bd38ed" md5="154ec1241e9d0e2e7868812489be9d0f" sha1="5c52c1cf40790423c31b563b942086771a681d6e" date="1997-05-30 09:05:34"/>
+		<rom name="KEEPER/LDATA/FRONTFT4.TAB" size="1338" crc="f40e5b94" md5="90ef311b733f7426029d643c44b83719" sha1="fff5a1f1e385119494c62744e9c8b97045d9800d" date="1997-05-28 13:28:38"/>
+		<rom name="KEEPER/LDATA/FRONTTOR.DAT" size="785" crc="a35ac44b" md5="a80017cf6ae5212764bd62ba3cc396c7" sha1="95f1203ec58f94f4a108ecb283360b6b1b12f117" date="1997-06-01 07:38:56"/>
+		<rom name="KEEPER/LDATA/FRONTTOR.TAB" size="12" crc="b8823c69" md5="ea4467267c1e6d20ae78c7239c308108" sha1="8e424bcbec41934b03dc437234a207f95546f5bd" date="1997-06-01 07:38:56"/>
+		<rom name="KEEPER/LDATA/INTROMIX.SMK" size="25344192" crc="5de1c980" md5="a10323df41fd8fc4bff6dcf3a642307a" sha1="64b20d92a2c56763f42091de91d858e0785dcb97" date="1997-05-30 00:14:22"/>
+		<rom name="KEEPER/LDATA/MAPHAND.DAT" size="8718" crc="c54f2378" md5="a89e79aed741e91c86840de5c3767dca" sha1="4ed1a66850752f9e271c61e034326f1c40d95762" date="1997-05-30 09:05:48"/>
+		<rom name="KEEPER/LDATA/MAPHAND.TAB" size="132" crc="96d98d1e" md5="ce6163c783c7d1c6cf7e8cf709a94ad1" sha1="8b8622dea0638731dc359fefa2d95883d8188f2a" date="1997-05-30 07:51:52"/>
+		<rom name="KEEPER/LDATA/NETFLAG.DAT" size="258" crc="e5bcd072" md5="6585899b7e52f021d4f1acebac7f1814" sha1="b4e4a3edb9a17551c7daa5180f5ab9c49c9f95af" date="1997-05-21 21:00:18"/>
+		<rom name="KEEPER/LDATA/NETFLAG.TAB" size="59" crc="f8ef3fc1" md5="684ff1c5046d862f8d1734bc8c884489" sha1="ad6be7aba5c4f2667dad870f539d8f5b14b74494" date="1997-05-30 09:05:32"/>
+		<rom name="KEEPER/LDATA/NETFONT.DAT" size="1365" crc="f0a9967d" md5="52832308d263179083a8646c501542ad" sha1="cc8a05f374c312ac4b019dc4d2125ef72b64b5b4" date="1997-05-30 09:05:50"/>
+		<rom name="KEEPER/LDATA/NETFONT.TAB" size="1338" crc="ee66f49b" md5="44a13105c41bc0c3759353949a793199" sha1="ec1881a6ef343d9338f87e6ce28844c434c9a00b" date="1997-05-27 10:45:56"/>
+		<rom name="KEEPER/LDATA/TORTURE.DAT" size="2" crc="58c223be" md5="25daad3d9e60b45043a70c4ab7d3b1c6" sha1="0e356ba505631fbf715758bed27d503f8b260e3a" date="1997-02-22 10:25:50"/>
+		<rom name="KEEPER/LDATA/TORTURE.PAL" size="768" crc="3ce40d52" md5="0fb6420f047ed5a463518f1a86debf87" sha1="8544b81d98163c3c02e757948abe04d19cf3834b" date="1997-05-21 20:30:48"/>
+		<rom name="KEEPER/LDATA/TORTURE.RAW" size="307200" crc="33305ed5" md5="b4f986163365c7ea4d1a9cf675d722e5" sha1="b2c8aa60b8b27fa310b68d923dd26760686d083b" date="1997-05-21 20:30:46"/>
+		<rom name="KEEPER/LEVELS/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-10-23 03:11:38"/>
+		<rom name="KEEPER/LEVELS/DD1LEV.TXT" size="420" crc="0b65f050" md5="6d410a28e1c124489e72e7d94eaa871e" sha1="26c43859578c58158700ba573a1ad958e8556534" date="1997-09-29 01:33:26"/>
+		<rom name="KEEPER/LEVELS/DDISK1.LIF" size="210" crc="182e9d02" md5="524dd6c928069cc7527ad394f29eee91" sha1="6e344c8c18413b74a9b65cc59a1a50d0cc50a41c" date="1997-09-24 20:21:24"/>
+		<rom name="KEEPER/LEVELS/MAP00080.APT" size="20" crc="3af8b583" md5="9f89906f7b9b7bdc11795c5fce48c584" sha1="594d59d7c3697e69d9ce3ab22c7f89199474b6bf" date="1997-09-17 21:16:36"/>
+		<rom name="KEEPER/LEVELS/MAP00080.BAK" size="3804" crc="b8e8071c" md5="cf870cef20fff2e15eaf41a95774a636" sha1="c8990af3d3c4130a65af0e6f53b367edb2a46dbe" date="1997-08-26 03:53:12"/>
+		<rom name="KEEPER/LEVELS/MAP00080.CEI" size="65536" crc="60fd5a31" md5="fa1bb4ebd4f5d6e9b0168f7108c16838" sha1="25dc78411c21b9dc4a7f9b2991a47f688311bfac" date="1997-04-27 01:13:02"/>
+		<rom name="KEEPER/LEVELS/MAP00080.CLM" size="49160" crc="3e42fb93" md5="48127067ee50dc799636b9f3ad121711" sha1="d8687b6aef13a67d64f6bb52888d5b932150ba5f" date="1997-09-17 21:16:36"/>
+		<rom name="KEEPER/LEVELS/MAP00080.DAT" size="131072" crc="46dee215" md5="6a98f16b4a158935a43bcf1546d5682a" sha1="7a1c5491a13d26e938ada3c13bbcd03cf2a6e84a" date="1997-09-17 21:16:36"/>
+		<rom name="KEEPER/LEVELS/MAP00080.ERR" size="332" crc="259bca95" md5="d0e5c3abd4d859202550e26d52162f67" sha1="ededd341442aa1062517f4c4b163c907d80fdc2a" date="1997-03-20 04:55:00"/>
+		<rom name="KEEPER/LEVELS/MAP00080.FLG" size="131072" crc="a0155d5c" md5="653363e04c9f812d5640037260929c30" sha1="7aeb850ce60cf8039d11a5584c53e036442c938d" date="1997-03-24 08:45:38"/>
+		<rom name="KEEPER/LEVELS/MAP00080.INF" size="1" crc="d56f2b94" md5="ec7f7e7bb43742ce868145f71d37b53c" sha1="a42c6cf1de3abfdea9b95f34687cbbe92b9a7383" date="1997-09-17 21:16:36"/>
+		<rom name="KEEPER/LEVELS/MAP00080.LGT" size="1664" crc="3819f4c7" md5="879de0682715471a91c705a7184fd6d4" sha1="7fd053608b5cc5056b4a418135a695692050ec74" date="1997-09-17 21:16:36"/>
+		<rom name="KEEPER/LEVELS/MAP00080.ORI" size="65536" crc="d7978eeb" md5="fcd6bcb56c1689fcef28b57c22475bad" sha1="1adc95bebe9eea8c112d40cd04ab7a8d75c4f961" date="1997-03-26 04:43:18"/>
+		<rom name="KEEPER/LEVELS/MAP00080.OWN" size="65536" crc="0e506c30" md5="4a98f5e54b156c071f3e1f18f872bd7b" sha1="0f052b4af81325de847cfb64753877e2e39ab1d5" date="1997-09-17 21:16:36"/>
+		<rom name="KEEPER/LEVELS/MAP00080.SLB" size="14450" crc="602343cb" md5="ffc54e059153933bcdb6a5e879e8e4ea" sha1="43605e57ef2dd4c7c64bd51a8f8e40fc7c82cb01" date="1997-09-17 21:16:36"/>
+		<rom name="KEEPER/LEVELS/MAP00080.TMN" size="1" crc="d202ef8d" md5="93b885adfe0da089cdf634904fd59f71" sha1="5ba93c9db0cff93f52b521d7420e43f6eda2784f" date="1997-04-27 01:13:02"/>
+		<rom name="KEEPER/LEVELS/MAP00080.TNG" size="6659" crc="aa9b1e10" md5="b7a4d1a2a982e8b782b3c2972a1fb4ab" sha1="d8bc26d56ae80f2f7586496de6dbb0ad29f26d4d" date="1997-09-17 21:16:36"/>
+		<rom name="KEEPER/LEVELS/MAP00080.TXT" size="3483" crc="d114678c" md5="28a6020033d04a452b3865f96b75b359" sha1="272fc810a03e7562c355f382cfc0948002cfe267" date="1997-08-28 20:19:24"/>
+		<rom name="KEEPER/LEVELS/MAP00080.WIB" size="65536" crc="c85907dc" md5="c93828f3dbb95c77d0de00b7a099a5ce" sha1="63aafa27dc748446290e5cabc27bcc19f8cd2a8a" date="1997-09-17 21:16:36"/>
+		<rom name="KEEPER/LEVELS/MAP00080.WLB" size="7225" crc="bff27cee" md5="a66705ffb2b1bae6c59254586b15d26f" sha1="cff32f5c6ecb6d7c86dd04c556a3720840d2e0fe" date="1997-09-17 21:16:36"/>
+		<rom name="KEEPER/LEVELS/MAP00081.APT" size="4" crc="2144df1c" md5="f1d3ff8443297732862df21dc4e57262" sha1="9069ca78e7450a285173431b3e52c5c25299e473" date="1997-09-17 21:17:16"/>
+		<rom name="KEEPER/LEVELS/MAP00081.BAK" size="2849" crc="54f7700e" md5="80a9f9b58716c1ca33f9fa61a01a0628" sha1="4682a4aeef3f7342667c9d52657048af8ce855e3" date="1997-08-13 20:20:08"/>
+		<rom name="KEEPER/LEVELS/MAP00081.CLM" size="49160" crc="5d5575e5" md5="efa27b9b39e0eefcf2236451acb81152" sha1="83ac6df9238860a0b9ce29bfd717e37386701e28" date="1997-09-17 21:17:16"/>
+		<rom name="KEEPER/LEVELS/MAP00081.DAT" size="131072" crc="71c18b72" md5="630fe57db7470501c455a113d4fa7eac" sha1="ece2578992e2e9fba233ee242449742ece7deed6" date="1997-09-17 21:17:16"/>
+		<rom name="KEEPER/LEVELS/MAP00081.INF" size="1" crc="a2681b02" md5="8bb6c17838643f9691cc6a4de6c51709" sha1="8dc00598417d4eb788a77ac6ccef3cb484905d8b" date="1997-09-17 21:17:16"/>
+		<rom name="KEEPER/LEVELS/MAP00081.LGT" size="984" crc="5446b414" md5="4aa295ecaa5a908d80d797412eb6b92c" sha1="8b5f864ded20c8ebdf6db2850c5ad7ebf81c2e4e" date="1997-09-17 21:17:16"/>
+		<rom name="KEEPER/LEVELS/MAP00081.OWN" size="65536" crc="03908538" md5="2590e3b1d53f5943029dbfbfeb4379fc" sha1="ba677c3a375f0b7fe15eb55203ce79cf25d2fc17" date="1997-09-17 21:17:16"/>
+		<rom name="KEEPER/LEVELS/MAP00081.SLB" size="14450" crc="e0746161" md5="2b0b1e2a5c11e791b500cbc1324f708a" sha1="3d5d7d052b4772da48487d43d029adb7dc1d9cce" date="1997-09-17 21:17:16"/>
+		<rom name="KEEPER/LEVELS/MAP00081.TNG" size="11405" crc="17234c86" md5="46005c5c47d5a94969f3e557d1bea1c2" sha1="d227da0e443b410959ed01c9cef425484339cd5c" date="1997-09-17 21:17:16"/>
+		<rom name="KEEPER/LEVELS/MAP00081.TXT" size="2620" crc="75534cb6" md5="9059490ffe07d51a02a06a6501be1297" sha1="38a05b88d1d3386288cd59cc6d7cc5b81b8cca3c" date="1997-08-28 20:19:24"/>
+		<rom name="KEEPER/LEVELS/MAP00081.WIB" size="65536" crc="088b583e" md5="eb21b5ce1572e672071d4229b89178ba" sha1="e8bb2015876242d6884bad43a2a83bb8e904fb89" date="1997-09-17 21:17:16"/>
+		<rom name="KEEPER/LEVELS/MAP00081.WLB" size="7225" crc="b037cbaf" md5="e4910742352430bdbbef1cae19a303f9" sha1="cd05bf436f5661617527e43ece87d65203b5496a" date="1997-09-17 21:17:16"/>
+		<rom name="KEEPER/LEVELS/MAP00082.APT" size="4" crc="2144df1c" md5="f1d3ff8443297732862df21dc4e57262" sha1="9069ca78e7450a285173431b3e52c5c25299e473" date="1997-09-17 21:18:04"/>
+		<rom name="KEEPER/LEVELS/MAP00082.BAK" size="2630" crc="e5e0e121" md5="de5bc45195a9cdfd3e28f35da64dcd90" sha1="0a99de75ee6f43ee4e5e54c0d7de0e670d58cb15" date="1997-08-15 01:35:56"/>
+		<rom name="KEEPER/LEVELS/MAP00082.CLM" size="49160" crc="db2857bc" md5="40ff4be802ee3091796344b9511783c4" sha1="785c29c5706591b428db4281c46bbf6ef03f3e39" date="1997-09-17 21:18:04"/>
+		<rom name="KEEPER/LEVELS/MAP00082.DAT" size="131072" crc="7ca2dc78" md5="20ce694b6d061a0011a117a596216ce2" sha1="49e2bddcc5cc4c25b351bf4ed9bd5eb77383ff8b" date="1997-09-17 21:18:04"/>
+		<rom name="KEEPER/LEVELS/MAP00082.INF" size="1" crc="3b614ab8" md5="06eca1b437c7904cc3ce6546c8110110" sha1="2d0134ed3b9de132c720fe697b532b4c232ff9fe" date="1997-09-17 21:18:04"/>
+		<rom name="KEEPER/LEVELS/MAP00082.LGT" size="584" crc="981d1fb0" md5="f3275825ed643efedd61dd81f9f8b5e7" sha1="35196dc1998e20ecc2443bda9ed77ffe0d619579" date="1997-09-17 21:18:04"/>
+		<rom name="KEEPER/LEVELS/MAP00082.OWN" size="65536" crc="8417dec4" md5="83fc330191b04c059e09d941de552bae" sha1="e623130242750313c1a3658220fc09f88e891f43" date="1997-09-17 21:18:04"/>
+		<rom name="KEEPER/LEVELS/MAP00082.SLB" size="14450" crc="5be6ca4a" md5="99f8bca293abef9b0dc377553653dbbe" sha1="d5cad7a95d830fadeb02377875c0d54835505a7a" date="1997-09-17 21:18:04"/>
+		<rom name="KEEPER/LEVELS/MAP00082.TNG" size="13778" crc="6531d5fe" md5="b77763c95f6438c87eebf0c02647c61f" sha1="1463f2d770245fd98606eac9b6f3597838b929ce" date="1997-09-17 21:18:04"/>
+		<rom name="KEEPER/LEVELS/MAP00082.TXT" size="2400" crc="23bfc3a3" md5="d1e51a5d7de2fe7cc45f0ba0b27f1729" sha1="9935f4129c90fc4e51ae1b75f46a7382cc22121e" date="1997-08-28 20:19:24"/>
+		<rom name="KEEPER/LEVELS/MAP00082.WIB" size="65536" crc="020862e7" md5="eeaf8dfa42ad069ada78dfee9411e27e" sha1="2613c25851164f39061511b56493574a231d2968" date="1997-09-17 21:18:04"/>
+		<rom name="KEEPER/LEVELS/MAP00082.WLB" size="7225" crc="8e46d791" md5="64aa4f76af3d215106dd53d508f726da" sha1="52bd53cee2ad780c2bd2bd26d4ea12b5f7bf6790" date="1997-09-17 21:18:04"/>
+		<rom name="KEEPER/LEVELS/MAP00083.APT" size="4" crc="2144df1c" md5="f1d3ff8443297732862df21dc4e57262" sha1="9069ca78e7450a285173431b3e52c5c25299e473" date="1997-09-17 21:18:40"/>
+		<rom name="KEEPER/LEVELS/MAP00083.BAK" size="3549" crc="15a855b8" md5="88f9a3ff8ffe21597714377ac9f868ee" sha1="0ab1765bb5d3c55b432bad92500dd5747f602464" date="1997-08-28 00:27:20"/>
+		<rom name="KEEPER/LEVELS/MAP00083.CLM" size="49160" crc="1aaa3f3b" md5="071544df915a1e20b6c8bab72b295f74" sha1="4f3c73f9b2b2343f373fb795264b72c5916250ad" date="1997-09-17 21:18:40"/>
+		<rom name="KEEPER/LEVELS/MAP00083.DAT" size="131072" crc="504cb301" md5="64b600c26df11d352f4f023b7f878f04" sha1="9c83275666657c31e426d202e7c6f368385d7ec5" date="1997-09-17 21:18:40"/>
+		<rom name="KEEPER/LEVELS/MAP00083.INF" size="1" crc="4c667a2e" md5="89e74e640b8c46257a29de0616794d5d" sha1="5d1be7e9dda1ee8896be5b7e34a85ee16452a7b4" date="1997-09-17 21:18:40"/>
+		<rom name="KEEPER/LEVELS/MAP00083.LGT" size="784" crc="34ef615d" md5="41ae1cd85c9f49a1607cd03f85f891df" sha1="8ae0d40a98e59a68927d19b2559b5e9e4e98c870" date="1997-09-17 21:18:40"/>
+		<rom name="KEEPER/LEVELS/MAP00083.OWN" size="65536" crc="b5668d29" md5="57de3e0cb18485d0561f91843b377acd" sha1="134e01a0ea4a6dc51c8367f05fdc9e5c05614ba7" date="1997-09-17 21:18:40"/>
+		<rom name="KEEPER/LEVELS/MAP00083.SLB" size="14450" crc="09f524a4" md5="0ae7e7a6bc19cae71f9ae2cb6feb3516" sha1="fe17b3c117255561981f564eb0cffabc6c693798" date="1997-09-17 21:18:40"/>
+		<rom name="KEEPER/LEVELS/MAP00083.TNG" size="9956" crc="9b04e342" md5="6a6363310da9d142dd81d9c7f1d1649b" sha1="20a30ac212d8226be09bc93c9a478228245f6bdb" date="1997-09-17 21:18:40"/>
+		<rom name="KEEPER/LEVELS/MAP00083.TXT" size="3096" crc="267e9fc3" md5="b1f516a5097443670a8496e311d65a5c" sha1="7a4dd55a2a27c29f88cf7a01b06078840b492155" date="1997-09-02 20:27:02"/>
+		<rom name="KEEPER/LEVELS/MAP00083.WIB" size="65536" crc="8be86525" md5="a7f987024ca6824dd96ff4a62b21bd8b" sha1="e6aad6ea05b284c7eb44c61640d79a00e0d4a260" date="1997-09-17 21:18:40"/>
+		<rom name="KEEPER/LEVELS/MAP00083.WLB" size="7225" crc="1f219c0e" md5="df500795f3d1e68dec41df1ff72cf2a2" sha1="2b56d0182c2aa4cf04580bcefbdfbb9e3d994b17" date="1997-09-17 21:18:40"/>
+		<rom name="KEEPER/LEVELS/MAP00084.APT" size="116" crc="18ea5aec" md5="41ead0286c45bd42230d18e284d38da3" sha1="a6d57abb511fbb7ac91ab6edfc04de2247414731" date="1997-08-28 22:54:38"/>
+		<rom name="KEEPER/LEVELS/MAP00084.BAK" size="8387" crc="6dbe05fb" md5="6e685a937afd7291d8cb7be570be4c07" sha1="6e84106f0ceca93bafe56c7f3b3ba9f63638e3f1" date="1997-08-28 20:19:24"/>
+		<rom name="KEEPER/LEVELS/MAP00084.CLM" size="49160" crc="2e98c526" md5="7007fe81c28423fffdcf645feaa10713" sha1="4a5b257c9dfb25e82cc452148ee13a6913721eda" date="1997-08-28 22:54:38"/>
+		<rom name="KEEPER/LEVELS/MAP00084.DAT" size="131072" crc="1d9d58c1" md5="b5d39e3355a153747189e40c6ce5c2c1" sha1="43ba23383df204d3c33479378a6048fc932302f4" date="1997-08-28 22:54:38"/>
+		<rom name="KEEPER/LEVELS/MAP00084.INF" size="1" crc="d202ef8d" md5="93b885adfe0da089cdf634904fd59f71" sha1="5ba93c9db0cff93f52b521d7420e43f6eda2784f" date="1997-08-28 22:54:38"/>
+		<rom name="KEEPER/LEVELS/MAP00084.LGT" size="324" crc="d3eb74a6" md5="110950c617e31d444ed025e69a6c9e84" sha1="fd1483e803240791ba43ea00b79b9f80ea735993" date="1997-08-28 22:54:38"/>
+		<rom name="KEEPER/LEVELS/MAP00084.OWN" size="65536" crc="0d127e05" md5="f0ba3e302aac7a3b3c04bb4658322f75" sha1="4c96f9e57e5a7bbe66524df5d55b7d921d88e382" date="1997-08-28 22:54:38"/>
+		<rom name="KEEPER/LEVELS/MAP00084.SLB" size="14450" crc="f9cfc839" md5="07a903513933d790038965875771e2ad" sha1="59ad3f5eec2c6938214182840b737ef199512c71" date="1997-08-28 22:54:38"/>
+		<rom name="KEEPER/LEVELS/MAP00084.TNG" size="14009" crc="69c786a9" md5="3096e227be01a3a1c9976d1dd9b3eb08" sha1="5e4aba69b4e194942b34f82147b0517ab4587130" date="1997-08-28 22:54:38"/>
+		<rom name="KEEPER/LEVELS/MAP00084.TXT" size="8350" crc="53b4230e" md5="4afba818aa6938454b1912f24506a234" sha1="1e9870a4d6fd0811c9b9936e38d3151e2e94bea1" date="1997-09-16 00:36:14"/>
+		<rom name="KEEPER/LEVELS/MAP00084.WIB" size="65536" crc="83890114" md5="34945e2bb3dbc627018238f1b0a00843" sha1="b331f081a02a96aad3ddca5b307a211d9730fbd8" date="1997-08-28 22:54:38"/>
+		<rom name="KEEPER/LEVELS/MAP00084.WLB" size="7225" crc="3502eca6" md5="6c6f798bcec8161340b59acf562cd631" sha1="fb2f596f1ee640c475df5ed3659f82e844da3ea7" date="1997-08-28 22:54:38"/>
+		<rom name="KEEPER/LEVELS/MAP00085.APT" size="20" crc="97ad3409" md5="1be2c3766eff4f0de3af62ef7330c2e1" sha1="98fdc3e0ed8b122b1868563479ed7b221e03a8a5" date="1997-09-17 21:20:28"/>
+		<rom name="KEEPER/LEVELS/MAP00085.BAK" size="3295" crc="0732bcef" md5="ad00fb6121b70658d8c5b3e40a7d9865" sha1="43d43da8d6c6467b36236e18eba85b5396efccf6" date="1997-08-28 20:19:24"/>
+		<rom name="KEEPER/LEVELS/MAP00085.CLM" size="49160" crc="989ec5ab" md5="75de29f2dea03e26ef138c178f8324ce" sha1="3678e4d6c9545b8f0782fafbc19ff143ba79669e" date="1997-09-17 21:20:28"/>
+		<rom name="KEEPER/LEVELS/MAP00085.DAT" size="131072" crc="0c1204b6" md5="2b6672f86ff1899642e4f1d33fe5b94b" sha1="189d0a77a2ff07356fbfdf2160028ff1d14a43fa" date="1997-09-17 21:20:26"/>
+		<rom name="KEEPER/LEVELS/MAP00085.INF" size="1" crc="a505df1b" md5="55a54008ad1ba589aa210d2629c1df41" sha1="bf8b4530d8d246dd74ac53a13471bba17941dff7" date="1997-09-17 21:20:28"/>
+		<rom name="KEEPER/LEVELS/MAP00085.LGT" size="384" crc="a8fd7763" md5="2542cdc44992c48103e53894cf233a12" sha1="214ecfc902d62e809ae066a42e3ba72e8f3b7338" date="1997-09-17 21:20:28"/>
+		<rom name="KEEPER/LEVELS/MAP00085.OWN" size="65536" crc="0c0cbd4b" md5="f5250499ca232359f37e3d8637d5f577" sha1="771e15c768b3363eee0e5f01919e7cfe4ce2a54c" date="1997-09-17 21:20:26"/>
+		<rom name="KEEPER/LEVELS/MAP00085.SLB" size="14450" crc="749b3f90" md5="315198c0566369acca618380bc2cbefc" sha1="a96897651c09e2d825ad966324c60b8c8f9972a2" date="1997-09-17 21:20:28"/>
+		<rom name="KEEPER/LEVELS/MAP00085.TNG" size="18482" crc="adccaef0" md5="4e6fbc58d9958018daa8c984424cc73c" sha1="72088e36096d27d9261a9bfe7a3155a2a1485fa1" date="1997-09-17 21:20:28"/>
+		<rom name="KEEPER/LEVELS/MAP00085.TXT" size="3357" crc="436de331" md5="bd80e365e028ba751ab345aba5f4c834" sha1="26d10665b80ec5b0bd1e70a675e4449774955b5e" date="1997-09-16 00:41:12"/>
+		<rom name="KEEPER/LEVELS/MAP00085.WIB" size="65536" crc="dd4f5b0c" md5="62d0c78eda264bee175d3482dd3d83ed" sha1="385e7a4f671ee60e034c9043b29286290b79923f" date="1997-09-17 21:20:26"/>
+		<rom name="KEEPER/LEVELS/MAP00085.WLB" size="7225" crc="04e6d6dd" md5="f67a8ccd476f39e4a1e6e09bf543c93c" sha1="c29f6096c085e3c64a595c2215a6ef8f54f415c6" date="1997-09-17 21:20:28"/>
+		<rom name="KEEPER/LEVELS/MAP00086.APT" size="116" crc="0bc7488e" md5="ca5ecdfbee17ed300577c75ddb7a5bf4" sha1="acafae1302759c74076220370481290d20bbee28" date="1997-09-17 21:21:32"/>
+		<rom name="KEEPER/LEVELS/MAP00086.BAK" size="9114" crc="38817838" md5="bc9f753142fd9fbec281a0503cad1e29" sha1="de037f34897ab14d153591b99fa528a23b07acc3" date="1997-08-13 21:58:52"/>
+		<rom name="KEEPER/LEVELS/MAP00086.CLM" size="49160" crc="ab40a2d5" md5="9747c8c0b1c1974caa6178ad4af03af7" sha1="53ce13b905f9aa1bdf82535b95e2e0415280bac3" date="1997-09-17 21:21:32"/>
+		<rom name="KEEPER/LEVELS/MAP00086.DAT" size="131072" crc="f38a6b46" md5="9bf660c439ece0b6577a102226bd7be2" sha1="41a83237edc3febb916baf0a932b16ee018c966e" date="1997-09-17 21:21:32"/>
+		<rom name="KEEPER/LEVELS/MAP00086.INF" size="1" crc="3c0c8ea1" md5="9e688c58a5487b8eaf69c9e1005ad0bf" sha1="c4ea21bb365bbeeaf5f2c654883e56d11e43c44e" date="1997-09-17 21:21:32"/>
+		<rom name="KEEPER/LEVELS/MAP00086.LGT" size="104" crc="90d1523d" md5="e1c9c2298798dec70466a92eea93a439" sha1="d3299691fcc93f1f30acea69d417e9b35be3629f" date="1997-09-17 21:21:32"/>
+		<rom name="KEEPER/LEVELS/MAP00086.OWN" size="65536" crc="0a3688ed" md5="c0eacd782a5867fac6977e806b451f8d" sha1="b56d1535d63267393027231af7c5933326b6f6dd" date="1997-09-17 21:21:32"/>
+		<rom name="KEEPER/LEVELS/MAP00086.SLB" size="14450" crc="30c8d2c3" md5="b6f27acac4d58325d0eaee3b112c1993" sha1="cb9e2c097677da6ac1c0c282ace260e0bcac233b" date="1997-09-17 21:21:32"/>
+		<rom name="KEEPER/LEVELS/MAP00086.TNG" size="12749" crc="64a07015" md5="773f9d3b605380e50645724e6859869e" sha1="c7451053c03df2f09d0e89de0b528b06fd2855d7" date="1997-09-17 21:21:32"/>
+		<rom name="KEEPER/LEVELS/MAP00086.TXT" size="8939" crc="518982e5" md5="93e4670efb2c93064962af10bfdc4c8a" sha1="3a37eb7c68a32833b9a442b742c81b1fe3c0a7aa" date="1997-08-28 20:19:24"/>
+		<rom name="KEEPER/LEVELS/MAP00086.WIB" size="65536" crc="3ce8378e" md5="be53c7c0c9f3180ae0857861d705a5a8" sha1="4a1dc951c47957542db5da971586e7e6054301f4" date="1997-09-17 21:21:32"/>
+		<rom name="KEEPER/LEVELS/MAP00086.WLB" size="7225" crc="6a039be3" md5="b780cc7b820f893ab0785626c3447cf1" sha1="b9857c1f6a50ba11e66b428a32440259cbc4f075" date="1997-09-17 21:21:32"/>
+		<rom name="KEEPER/LEVELS/MAP00087.APT" size="20" crc="fc3da6ac" md5="d89274719bed991bd89629bbb57c8333" sha1="0583475d31a6739e9440b3042c3923fb77520478" date="1997-09-17 21:22:10"/>
+		<rom name="KEEPER/LEVELS/MAP00087.BAK" size="4299" crc="68047ca3" md5="5bd7ec57a6e8e7be68562b254d313c54" sha1="3f12aaebefb620d049d069be79a5e7be8d70f7d8" date="1997-08-20 20:07:46"/>
+		<rom name="KEEPER/LEVELS/MAP00087.CLM" size="49160" crc="751849be" md5="a41a18668ca10ffe42f1317ca24322bd" sha1="3a202bcaead02775aa58f0c6c94390792849fd61" date="1997-09-17 21:22:10"/>
+		<rom name="KEEPER/LEVELS/MAP00087.DAT" size="131072" crc="a54da979" md5="a904d1ec29bfaaadfc46dabce424da6d" sha1="b9410a2edfb140997c9c10040f9a9539d59d9413" date="1997-09-17 21:22:10"/>
+		<rom name="KEEPER/LEVELS/MAP00087.INF" size="1" crc="4b0bbe37" md5="8666683506aacd900bbd5a74ac4edf68" sha1="9842926af7ca0a8cca12604f945414f07b01e13d" date="1997-09-17 21:22:10"/>
+		<rom name="KEEPER/LEVELS/MAP00087.LGT" size="444" crc="a8a724b2" md5="089ff73a2e0d4ea178a99f97736e7c90" sha1="f0d29e5e5d9db5958079c7a6a9ea1bfd45024ec4" date="1997-09-17 21:22:10"/>
+		<rom name="KEEPER/LEVELS/MAP00087.OWN" size="65536" crc="7fe0c463" md5="da342a3ae26172581c19da675a45ac60" sha1="ee8627ca205f36ea93cc1eaeacdd1adb197b4801" date="1997-09-17 21:22:10"/>
+		<rom name="KEEPER/LEVELS/MAP00087.SLB" size="14450" crc="6ecccb2a" md5="363e4c0d594cd91c4d76c8148c4615c4" sha1="d553e95c214d5f9b730c24ed8e64bd249eadfee2" date="1997-09-17 21:22:10"/>
+		<rom name="KEEPER/LEVELS/MAP00087.TNG" size="12203" crc="18f59d99" md5="6e2cd19f9cddec122b9d3be6bf1ae9d7" sha1="a5cac90ec45966460227d2a7f7043a1b38fb7b95" date="1997-09-17 21:22:10"/>
+		<rom name="KEEPER/LEVELS/MAP00087.TXT" size="4170" crc="601a807e" md5="952c28ec1a5c121a6f1048c5798e8c69" sha1="8f7a476e7ad0945da1af3f8bf31e794c02b67c9f" date="1997-08-28 20:19:24"/>
+		<rom name="KEEPER/LEVELS/MAP00087.WIB" size="65536" crc="a75aaa24" md5="c228e9188f6a0af9670fe98305556f85" sha1="6080e02494ca7cf6b62b13f9c9bdecc21b9d6ca3" date="1997-09-17 21:22:10"/>
+		<rom name="KEEPER/LEVELS/MAP00087.WLB" size="7225" crc="172a547c" md5="76e4b50a40e23475696e400e5653b799" sha1="3c2e28740a431b687223a2bec754f3e861848ca2" date="1997-09-17 21:22:10"/>
+		<rom name="KEEPER/LEVELS/MAP00088.APT" size="28" crc="67450cd9" md5="175d023c397c911ecfcd55cbd3d28bd2" sha1="298c124a3f52ec306b42b2557ba82c4f9925fa39" date="1997-09-17 21:22:40"/>
+		<rom name="KEEPER/LEVELS/MAP00088.BAK" size="5895" crc="c0a379c0" md5="d4a71baf392566ce12f8f2870f547d7e" sha1="a276d1231684276e103916171eb8c49823e0cc7a" date="1997-08-27 22:17:46"/>
+		<rom name="KEEPER/LEVELS/MAP00088.CLM" size="49160" crc="7aa3c592" md5="bae2e480296d36ec5893576c0e0c6fff" sha1="6be4fbfc7f78540305b2829d5846775da2171a14" date="1997-09-17 21:22:40"/>
+		<rom name="KEEPER/LEVELS/MAP00088.DAT" size="131072" crc="03f94876" md5="25192e0346b043deee581bd50c44bbb2" sha1="41e953ea40d88a43bab6a3d4c43517a4aa63c6f0" date="1997-09-17 21:22:40"/>
+		<rom name="KEEPER/LEVELS/MAP00088.INF" size="1" crc="d56f2b94" md5="ec7f7e7bb43742ce868145f71d37b53c" sha1="a42c6cf1de3abfdea9b95f34687cbbe92b9a7383" date="1997-09-17 21:22:40"/>
+		<rom name="KEEPER/LEVELS/MAP00088.LGT" size="4" crc="2144df1c" md5="f1d3ff8443297732862df21dc4e57262" sha1="9069ca78e7450a285173431b3e52c5c25299e473" date="1997-09-17 21:22:40"/>
+		<rom name="KEEPER/LEVELS/MAP00088.OWN" size="65536" crc="750b47a8" md5="ab9852355402ea7b3e3e85b259e2819f" sha1="329e806ca89ae79e823efd3e5d3d70cd742efa2f" date="1997-09-17 21:22:40"/>
+		<rom name="KEEPER/LEVELS/MAP00088.SLB" size="14450" crc="f3097325" md5="b294dec3b28649a2a9deeb008d3b4173" sha1="713b6dcf4b08394c61ab00ef1ca32b8cbf56c3c4" date="1997-09-17 21:22:40"/>
+		<rom name="KEEPER/LEVELS/MAP00088.TNG" size="21002" crc="cc5d042b" md5="f6fe771cca5a38cff9fc3e5fb2b4142a" sha1="6c9bb58c86c707b5f0b502e36802699dd08218db" date="1997-09-17 21:22:40"/>
+		<rom name="KEEPER/LEVELS/MAP00088.TXT" size="5736" crc="7e2830a7" md5="2887f5b286680211006d9f9c3eb83872" sha1="c09e6e5c4f9dd815010f08422d1eac21208a1a0b" date="1997-08-28 20:19:24"/>
+		<rom name="KEEPER/LEVELS/MAP00088.WIB" size="65536" crc="edbe969b" md5="1570d1c7fe13452d0a26cc3df2f6c5bb" sha1="74ba2f8d15c29f9feda43cb1b25fbc49fa7358d6" date="1997-09-17 21:22:40"/>
+		<rom name="KEEPER/LEVELS/MAP00088.WLB" size="7225" crc="d132b5cd" md5="59da1d951b2d6b7fe35fe6192564ce92" sha1="8a65eabe893a856c235db2b6f9f3d9cf5c91af41" date="1997-09-17 21:22:40"/>
+		<rom name="KEEPER/LEVELS/MAP00091.APT" size="116" crc="f92b72ba" md5="cffd26130d409f0c46bc202f10e2a6cf" sha1="c97a8e2a924c6a02f9430d44dc83aa4e6507013d" date="1997-09-14 21:58:32"/>
+		<rom name="KEEPER/LEVELS/MAP00091.BAK" size="7488" crc="4c6745c4" md5="201552dd3d6da8b8de79676fdbd5013a" sha1="1b39f0928ab22004ef71cbfc8cc48eb9e2fc0b87" date="1997-08-26 20:40:52"/>
+		<rom name="KEEPER/LEVELS/MAP00091.CLM" size="49160" crc="2b2579ab" md5="b1b2eb9f3abcaf8c334bcc4daaad3c2f" sha1="74f89aaec3db285d024bd261b1848be9d5e5b1a3" date="1997-09-14 21:58:32"/>
+		<rom name="KEEPER/LEVELS/MAP00091.DAT" size="131072" crc="e423cf4c" md5="e97669bf2dfcd7694408cea69a0747ba" sha1="3fcd7cdedc817978f4e34d4e85c1c6df39872a58" date="1997-09-14 21:58:32"/>
+		<rom name="KEEPER/LEVELS/MAP00091.INF" size="1" crc="a2681b02" md5="8bb6c17838643f9691cc6a4de6c51709" sha1="8dc00598417d4eb788a77ac6ccef3cb484905d8b" date="1997-09-14 21:58:32"/>
+		<rom name="KEEPER/LEVELS/MAP00091.LGT" size="1764" crc="9aa2cdbd" md5="8841baec98efe09a0f25e6f8aa375f14" sha1="1ebab8e3b34cb6dd8ac40d2ddbb660dd9814c70a" date="1997-09-14 21:58:32"/>
+		<rom name="KEEPER/LEVELS/MAP00091.OWN" size="65536" crc="50c8b16b" md5="1f3480ef1182af68bfbec9c71da0af6b" sha1="05ebccad956ce37f0bd3de9b1d6aee4c7bad8ed8" date="1997-09-14 21:58:32"/>
+		<rom name="KEEPER/LEVELS/MAP00091.SLB" size="14450" crc="46d1a242" md5="28ae72011c54a28cec792d91870a2d31" sha1="90b88c71ef05b4644f8ad49cb478003f3b989ab4" date="1997-09-14 21:58:32"/>
+		<rom name="KEEPER/LEVELS/MAP00091.TMN" size="1" crc="d202ef8d" md5="93b885adfe0da089cdf634904fd59f71" sha1="5ba93c9db0cff93f52b521d7420e43f6eda2784f" date="1997-04-04 00:24:54"/>
+		<rom name="KEEPER/LEVELS/MAP00091.TNG" size="6869" crc="42a5f1a0" md5="b40ea236b53fec5811acbc973e4dd936" sha1="b404c00c26a2545bbafbd75fde8c9495d9904b35" date="1997-09-14 21:58:32"/>
+		<rom name="KEEPER/LEVELS/MAP00091.TXT" size="7053" crc="281d0075" md5="98d8a2c45d695abc8919644bea24ebf9" sha1="13e4f714774383763d78204e09e886f47c71a884" date="1997-08-29 03:05:44"/>
+		<rom name="KEEPER/LEVELS/MAP00091.WIB" size="65536" crc="9f4fba08" md5="1a0cb381eb0283509e3fffe231b3bd9d" sha1="a0771ad9ca4687ddc59b1d1630dcf6e158f17764" date="1997-09-14 21:58:32"/>
+		<rom name="KEEPER/LEVELS/MAP00091.WLB" size="7225" crc="32fe6b72" md5="6942e8c51ed7d982e71685b3639e0b4f" sha1="98575946b18964500d3d912577200eef76575399" date="1997-09-14 21:58:32"/>
+		<rom name="KEEPER/LEVELS/MAP00092.APT" size="212" crc="52164b0d" md5="0b4791cf5eb5fdd21147945e8c68feb1" sha1="c61f72479fe69defd4daabd28f94c942f89c16b0" date="1997-09-14 21:59:58"/>
+		<rom name="KEEPER/LEVELS/MAP00092.BAK" size="10405" crc="2bd07767" md5="37cd791af447e3aa90e8ecf8ba53128e" sha1="58af7e0988cfb69f225fcd197ed92357a7f0bb88" date="1997-08-28 20:21:08"/>
+		<rom name="KEEPER/LEVELS/MAP00092.CLM" size="49160" crc="75761d07" md5="d5a96f3a61110240d6dd6749244f28a2" sha1="21faa11f7131e699e1edac96257ee2faf9628c2b" date="1997-09-14 21:59:58"/>
+		<rom name="KEEPER/LEVELS/MAP00092.DAT" size="131072" crc="e86430e8" md5="d66f844308a51e4d2fcb50c2619a4472" sha1="a560395de18df7081c5a3269f286b3021532d849" date="1997-09-14 21:59:58"/>
+		<rom name="KEEPER/LEVELS/MAP00092.FLG" size="1292" crc="7ea107fa" md5="7990e8a199af44518cec4dceffd1fc6b" sha1="04887b02f3c5cafe217be7f4d51b13bf7f8d770e" date="1997-04-19 10:08:40"/>
+		<rom name="KEEPER/LEVELS/MAP00092.INF" size="1" crc="3b614ab8" md5="06eca1b437c7904cc3ce6546c8110110" sha1="2d0134ed3b9de132c720fe697b532b4c232ff9fe" date="1997-09-14 21:59:58"/>
+		<rom name="KEEPER/LEVELS/MAP00092.LGT" size="1324" crc="8b4804f4" md5="00de66516103e47c82af6f7f85424956" sha1="0fd0bc197a7841814fe5130bdff02ba628f2e567" date="1997-09-14 21:59:58"/>
+		<rom name="KEEPER/LEVELS/MAP00092.ORI" size="117" crc="3f5c354e" md5="0db93677721e6cf1f9a26182beaa212d" sha1="7ea94ab582282f320644d87be32d0db0214c1aab" date="1997-04-19 10:10:32"/>
+		<rom name="KEEPER/LEVELS/MAP00092.OWN" size="65536" crc="5ec8abdd" md5="8697df9fe4d2db1994a0af2a7bb89c8e" sha1="8ddd8d1e7425bad7dda29945daaeccad2918c7e4" date="1997-09-14 21:59:56"/>
+		<rom name="KEEPER/LEVELS/MAP00092.SLB" size="14450" crc="f42884d5" md5="59f26cac447512c1d63f97647298baa9" sha1="7999b0886efd78726b9b56b3fdd75a27f8681424" date="1997-09-14 21:59:58"/>
+		<rom name="KEEPER/LEVELS/MAP00092.TMN" size="1" crc="d202ef8d" md5="93b885adfe0da089cdf634904fd59f71" sha1="5ba93c9db0cff93f52b521d7420e43f6eda2784f" date="1997-03-26 06:37:44"/>
+		<rom name="KEEPER/LEVELS/MAP00092.TNG" size="8738" crc="b3d1002f" md5="1df68e7e8b47bb4e8fafae2c02c7fc88" sha1="6686f172ab02382c156f52d8172869472a488915" date="1997-09-14 21:59:58"/>
+		<rom name="KEEPER/LEVELS/MAP00092.TXT" size="10450" crc="04191561" md5="bf271dcba6662ff7346f61dc826793dc" sha1="fe3975989d6f35fdb8f7776b5d29aa8564f676a1" date="1997-08-29 01:10:16"/>
+		<rom name="KEEPER/LEVELS/MAP00092.WIB" size="65536" crc="55422307" md5="f5d32f4b58e85f2378a6f213cab671a8" sha1="b7f9cb3de15c87823d22815b2cd72756d87baf82" date="1997-09-14 21:59:56"/>
+		<rom name="KEEPER/LEVELS/MAP00092.WLB" size="7225" crc="1543043b" md5="1088fc4fb07304e84086eed7dc2b9532" sha1="7950bb5624eff8a988617bce959fb1a77ed4d5d5" date="1997-09-14 21:59:58"/>
+		<rom name="KEEPER/LEVELS/MAP00093.APT" size="108" crc="2c35c742" md5="a86e29565c8677983909a20247d877f6" sha1="1eb9b984fed8ddbb409da970d85d822e4ca10ec0" date="1997-09-14 22:00:32"/>
+		<rom name="KEEPER/LEVELS/MAP00093.BAK" size="12368" crc="88ff97de" md5="87a725db048d451b4efd2cc78c87745e" sha1="c7f9c02b2a83202e40cb3a25b4bde3cf93457179" date="1997-08-28 02:23:48"/>
+		<rom name="KEEPER/LEVELS/MAP00093.CLM" size="49160" crc="c98f9de4" md5="22528baeb0f618022b09f0b12cded747" sha1="06724f63231850e4fedd7f4fc58f744b5251e459" date="1997-09-14 22:00:30"/>
+		<rom name="KEEPER/LEVELS/MAP00093.DAT" size="131072" crc="11733ef2" md5="dd3a70720532c171b0bf8be99b55e5b3" sha1="7f649c6d9cc47fa9e6da6646ebd36934b019fccb" date="1997-09-14 22:00:30"/>
+		<rom name="KEEPER/LEVELS/MAP00093.FLG" size="1791" crc="f49505a5" md5="3fa78aa420cb05cdb497944d846c41ad" sha1="836aa28f11d878a9016263b7604cf10c072fe8a6" date="1997-04-19 09:59:16"/>
+		<rom name="KEEPER/LEVELS/MAP00093.INF" size="1" crc="4c667a2e" md5="89e74e640b8c46257a29de0616794d5d" sha1="5d1be7e9dda1ee8896be5b7e34a85ee16452a7b4" date="1997-09-14 22:00:30"/>
+		<rom name="KEEPER/LEVELS/MAP00093.LGT" size="1124" crc="064f1a02" md5="4e5efa3638c5a41fe32851dc610126ae" sha1="feb3adb9a450a717fba7a1980021cddc6344da8f" date="1997-09-14 22:00:30"/>
+		<rom name="KEEPER/LEVELS/MAP00093.ORI" size="117" crc="3f5c354e" md5="0db93677721e6cf1f9a26182beaa212d" sha1="7ea94ab582282f320644d87be32d0db0214c1aab" date="1997-04-19 10:10:22"/>
+		<rom name="KEEPER/LEVELS/MAP00093.OWN" size="65536" crc="fb7b7f04" md5="5eaf4c4d95eada26b4d11c4d2cdc74eb" sha1="c620c385905904936ac0f4defad39c3cea518e9b" date="1997-09-14 22:00:30"/>
+		<rom name="KEEPER/LEVELS/MAP00093.SLB" size="14450" crc="36721c07" md5="4c915a70326294c795c2e38655b37f9f" sha1="9600147df2dfdd4325e62bf48af6e6610e91a280" date="1997-09-14 22:00:32"/>
+		<rom name="KEEPER/LEVELS/MAP00093.TMN" size="1" crc="d202ef8d" md5="93b885adfe0da089cdf634904fd59f71" sha1="5ba93c9db0cff93f52b521d7420e43f6eda2784f" date="1997-03-26 06:41:02"/>
+		<rom name="KEEPER/LEVELS/MAP00093.TNG" size="5399" crc="af7b81cd" md5="e34c882834b1153ee34e9bcc22c0ac0e" sha1="ad550654b538cfde9723dcfd06e632a1f069fa1d" date="1997-09-14 22:00:30"/>
+		<rom name="KEEPER/LEVELS/MAP00093.TXT" size="12110" crc="9c1afde4" md5="973ad899b5bc0c3b13883acd8eea1aae" sha1="1d564fed571614e06e6ac745fde058c9908b9917" date="1997-08-28 20:21:08"/>
+		<rom name="KEEPER/LEVELS/MAP00093.WIB" size="65536" crc="dbf3685c" md5="2e6ae9ca78e70301229307c978b81ec7" sha1="e65ccf9b111417359e528f7794323a00a7a115d0" date="1997-09-14 22:00:30"/>
+		<rom name="KEEPER/LEVELS/MAP00093.WLB" size="7225" crc="b3b13f58" md5="f4115b3ac63fb824e49cedbc101f6cf3" sha1="8b8d12ba12f701a6076a4b5053c7c44a32e33693" date="1997-09-14 22:00:32"/>
+		<rom name="KEEPER/LEVELS/MAP00094.APT" size="124" crc="bbcca942" md5="e95012a885f9de36e58628561ba0e294" sha1="5817261b7b25c77ece839225430d0718d81c0844" date="1997-09-14 22:01:04"/>
+		<rom name="KEEPER/LEVELS/MAP00094.BAK" size="8325" crc="dedde329" md5="dfe69717dbba67e329be4d0ac47d6358" sha1="590cb01c39bb61a5ca4a84b97ed68f22b6ffcd4c" date="1997-08-25 21:57:08"/>
+		<rom name="KEEPER/LEVELS/MAP00094.CLM" size="49160" crc="e3673647" md5="d995587e03ecc7e9f19c069eedf0cef5" sha1="46dd3a9e0c6791486d7c21f9936fa26340a7c0cb" date="1997-09-14 22:01:02"/>
+		<rom name="KEEPER/LEVELS/MAP00094.DAT" size="131072" crc="a2cfffb4" md5="af4714925f638450fecfa68eeee4aa59" sha1="c37cd2d6d3487979f4b4bcc10818c99c11aded6e" date="1997-09-14 22:01:02"/>
+		<rom name="KEEPER/LEVELS/MAP00094.FLG" size="381" crc="81b46d1e" md5="ca1478fcd7a0a36f9b24a9e2cb5e3767" sha1="2f5983faed1cc1d0adc8733f1f824d1a43908463" date="1997-04-19 10:07:26"/>
+		<rom name="KEEPER/LEVELS/MAP00094.INF" size="1" crc="a505df1b" md5="55a54008ad1ba589aa210d2629c1df41" sha1="bf8b4530d8d246dd74ac53a13471bba17941dff7" date="1997-09-14 22:01:02"/>
+		<rom name="KEEPER/LEVELS/MAP00094.LGT" size="1564" crc="cd47fc7f" md5="5f1cb1bb0c2ead92b0a98a6a6cee0803" sha1="98caf295edb11864ed4602ed7633cd735c4af0c2" date="1997-09-14 22:01:02"/>
+		<rom name="KEEPER/LEVELS/MAP00094.ORI" size="117" crc="3f5c354e" md5="0db93677721e6cf1f9a26182beaa212d" sha1="7ea94ab582282f320644d87be32d0db0214c1aab" date="1997-04-19 10:10:30"/>
+		<rom name="KEEPER/LEVELS/MAP00094.OWN" size="65536" crc="ea116c0a" md5="301fb100bf4ae7ae3a3094926b918c0a" sha1="aed9508297a2c578203428a1c90a02ee17f766e4" date="1997-09-14 22:01:02"/>
+		<rom name="KEEPER/LEVELS/MAP00094.SLB" size="14450" crc="75661a66" md5="a395a3e05f0171f5134c091e38464a35" sha1="a9401f255ef8209ab0bed05956964f41018213da" date="1997-09-14 22:01:02"/>
+		<rom name="KEEPER/LEVELS/MAP00094.TMN" size="1" crc="d202ef8d" md5="93b885adfe0da089cdf634904fd59f71" sha1="5ba93c9db0cff93f52b521d7420e43f6eda2784f" date="1997-03-26 06:43:24"/>
+		<rom name="KEEPER/LEVELS/MAP00094.TNG" size="5147" crc="c6759c3f" md5="abe2c0d4c1940b0c7123c0931ac43706" sha1="5a2a2d308e7041cebd958f7ab852c9cdd586f683" date="1997-09-14 22:01:02"/>
+		<rom name="KEEPER/LEVELS/MAP00094.TXT" size="8163" crc="bdd3d971" md5="9ef7b1c65c7fcb1f9bc32dfa3f6fb97a" sha1="b98f492f5bc82750dbb7e6b73f30cae807cba2da" date="1997-08-28 20:21:08"/>
+		<rom name="KEEPER/LEVELS/MAP00094.WIB" size="65536" crc="c75f74ae" md5="2fb9ceb0baafee9de70f7a8d3924deb1" sha1="8bb3a93bc82de673c7b5d9f30db85c06375a722f" date="1997-09-14 22:01:02"/>
+		<rom name="KEEPER/LEVELS/MAP00094.WLB" size="7225" crc="31feb938" md5="12fd2ccfce50886ae046107a682516c0" sha1="6015b1ec2e0ff46cea534e3799bafe992bf2b016" date="1997-09-14 22:01:02"/>
+		<rom name="KEEPER/LEVELS/MAP00095.APT" size="132" crc="1bdf306e" md5="bd9446d69bfd757d86fe8d059ff30c64" sha1="8687dcb2a64f91e609603d384c96819ae8da37d1" date="1997-09-17 21:25:24"/>
+		<rom name="KEEPER/LEVELS/MAP00095.BAK" size="8316" crc="2ce9c93b" md5="444457e969416f762ddcc6fe24c3025c" sha1="c43b42e2dd300fe6fad83ce1961fd40bdf30f6c9" date="1997-08-25 21:57:26"/>
+		<rom name="KEEPER/LEVELS/MAP00095.CLM" size="49160" crc="f7a2d273" md5="907ad612fd17a9ebca01174b03c0e476" sha1="baa5ad27dde3f9dca9c23558138217dc08f5cebe" date="1997-09-17 21:25:24"/>
+		<rom name="KEEPER/LEVELS/MAP00095.DAT" size="131072" crc="99da8fbb" md5="e5e7855284dd4a013cc65226365edd5b" sha1="41d821a3d6f9766ec8bdf297428d667b7b4f550f" date="1997-09-17 21:25:24"/>
+		<rom name="KEEPER/LEVELS/MAP00095.FLG" size="1266" crc="bc9ec451" md5="2fae6c134474299591bbdfaa7e9f9777" sha1="1dd3b2f50f60a4de22b3986d0a456313bff162cb" date="1997-04-19 10:03:30"/>
+		<rom name="KEEPER/LEVELS/MAP00095.INF" size="1" crc="3c0c8ea1" md5="9e688c58a5487b8eaf69c9e1005ad0bf" sha1="c4ea21bb365bbeeaf5f2c654883e56d11e43c44e" date="1997-09-17 21:25:24"/>
+		<rom name="KEEPER/LEVELS/MAP00095.LGT" size="4" crc="2144df1c" md5="f1d3ff8443297732862df21dc4e57262" sha1="9069ca78e7450a285173431b3e52c5c25299e473" date="1997-09-17 21:25:24"/>
+		<rom name="KEEPER/LEVELS/MAP00095.ORI" size="117" crc="3f5c354e" md5="0db93677721e6cf1f9a26182beaa212d" sha1="7ea94ab582282f320644d87be32d0db0214c1aab" date="1997-04-19 10:10:22"/>
+		<rom name="KEEPER/LEVELS/MAP00095.OWN" size="65536" crc="81476ef2" md5="8f8ccd5154c16ef9bc43ee729affe6b2" sha1="e3ca7daf18ff6bfb9fa4c3570c067436ba5d57f5" date="1997-09-17 21:25:24"/>
+		<rom name="KEEPER/LEVELS/MAP00095.SLB" size="14450" crc="545077f1" md5="fcd76565945e76710a65234224e939a0" sha1="44745ecaa114ac5d53937ef3e1128183f3eeff69" date="1997-09-17 21:25:24"/>
+		<rom name="KEEPER/LEVELS/MAP00095.TMN" size="1" crc="d202ef8d" md5="93b885adfe0da089cdf634904fd59f71" sha1="5ba93c9db0cff93f52b521d7420e43f6eda2784f" date="1997-03-26 06:44:34"/>
+		<rom name="KEEPER/LEVELS/MAP00095.TNG" size="16361" crc="f107acf5" md5="8401a439b1ff23fc2a34efb16b51510b" sha1="2ea9a2a8c4eceb5b802d900cd729a09387a74aac" date="1997-09-17 21:25:24"/>
+		<rom name="KEEPER/LEVELS/MAP00095.TXT" size="8097" crc="7717d8e4" md5="bca03c0642cb80e5da5c43196172dea4" sha1="7be79d291235bccb6dcc4a805b392002c51f103f" date="1997-09-14 20:59:52"/>
+		<rom name="KEEPER/LEVELS/MAP00095.WIB" size="65536" crc="e277734b" md5="8e84c93196cb07f2d946400489621b89" sha1="a0499868f36352f61fe77fc7e9bb076b9189762c" date="1997-09-17 21:25:24"/>
+		<rom name="KEEPER/LEVELS/MAP00095.WLB" size="7225" crc="228324d0" md5="71a281049307b8cd2dce119e99ef17a5" sha1="d9163b726e2092251f604324ec8bf39068fbadec" date="1997-09-17 21:25:24"/>
+		<rom name="KEEPER/LEVELS/MAP00097.APT" size="164" crc="e4401b49" md5="2f02ece90812d49e286f6f4c23fb7815" sha1="2a102970dde4665397903ccca28e1d570ecc7d38" date="1997-09-17 21:26:10"/>
+		<rom name="KEEPER/LEVELS/MAP00097.BAK" size="8170" crc="ffd975c6" md5="cb6f73f62d213b69d2a8ec7adb327921" sha1="34f7b6b697a0b6c9c0246fcf93da6892de90e64a" date="1997-09-16 18:48:54"/>
+		<rom name="KEEPER/LEVELS/MAP00097.CLM" size="49160" crc="dc31ef72" md5="8d30d22cfe7e82752fce0802aef49067" sha1="c361309b2b5ff5ca3414a5b7d907fbc0f5353584" date="1997-09-17 21:26:10"/>
+		<rom name="KEEPER/LEVELS/MAP00097.DAT" size="131072" crc="34dab1e6" md5="9cfd5daea100c56861a422f7a7d9a3b7" sha1="42154aee06583ed893e1a585a2bc23537a44505d" date="1997-09-17 21:26:10"/>
+		<rom name="KEEPER/LEVELS/MAP00097.INF" size="1" crc="4b0bbe37" md5="8666683506aacd900bbd5a74ac4edf68" sha1="9842926af7ca0a8cca12604f945414f07b01e13d" date="1997-09-17 21:26:10"/>
+		<rom name="KEEPER/LEVELS/MAP00097.LGT" size="904" crc="f13e3f2c" md5="b84778eeeb0df29327de75903b232557" sha1="92588c16cae4cadca6725b27ce87ca58ed9a8604" date="1997-09-17 21:26:10"/>
+		<rom name="KEEPER/LEVELS/MAP00097.OWN" size="65536" crc="3852f27c" md5="52676d4ae02c6850e28b9efdb26ab5f9" sha1="47efb177f85020c20b55f560c8a448e6b975c155" date="1997-09-17 21:26:10"/>
+		<rom name="KEEPER/LEVELS/MAP00097.SLB" size="14450" crc="0449d4a6" md5="fd38ca6780d4f85340d7c8b46f54f01f" sha1="69bd1f870b4576253fe0b3d32ef26b6d8c88833e" date="1997-09-17 21:26:10"/>
+		<rom name="KEEPER/LEVELS/MAP00097.TNG" size="10964" crc="324f6343" md5="d74a27abbd43e236da5c961caf5fc1a3" sha1="de03108a0082e0c8e22d2848c0238d48dd494f14" date="1997-09-17 21:26:10"/>
+		<rom name="KEEPER/LEVELS/MAP00097.TXT" size="7514" crc="c057222a" md5="dd5605a88464027a8ca4f29c4aae4068" sha1="0e7751dccdb852e6d87b4378ad4fc29970dfe1f0" date="1997-09-16 18:49:08"/>
+		<rom name="KEEPER/LEVELS/MAP00097.WIB" size="65536" crc="ac92dec0" md5="e3d3760dae67d10de5d63c0e96e485bb" sha1="d2cabf66c5951262041a61384ebbdab790026d39" date="1997-09-17 21:26:10"/>
+		<rom name="KEEPER/LEVELS/MAP00097.WLB" size="7225" crc="e6f70ec0" md5="72b5b3918f67f4009ef72d85f3905ede" sha1="29df756445ef5dec02784f5d3aa3f6a171a5b1b0" date="1997-09-17 21:26:10"/>
+		<rom name="KEEPER/LEVELS/MAP00122.APT" size="4" crc="2144df1c" md5="f1d3ff8443297732862df21dc4e57262" sha1="9069ca78e7450a285173431b3e52c5c25299e473" date="1997-09-14 22:56:46"/>
+		<rom name="KEEPER/LEVELS/MAP00122.CLM" size="49160" crc="a5cc5d00" md5="eeb6286fb2c7aabadac0238e12762138" sha1="d9e0dabbab730b3fabb6a39efa54c395095914ab" date="1997-09-14 22:56:44"/>
+		<rom name="KEEPER/LEVELS/MAP00122.DAT" size="131072" crc="b0243e67" md5="033a487d6ba63335813ebbdd3d171ec7" sha1="8e5497d1475cf802ec1c7fa30c557b694e81e0f5" date="1997-09-14 22:56:44"/>
+		<rom name="KEEPER/LEVELS/MAP00122.INF" size="1" crc="d202ef8d" md5="93b885adfe0da089cdf634904fd59f71" sha1="5ba93c9db0cff93f52b521d7420e43f6eda2784f" date="1997-09-14 22:56:46"/>
+		<rom name="KEEPER/LEVELS/MAP00122.LGT" size="4" crc="2144df1c" md5="f1d3ff8443297732862df21dc4e57262" sha1="9069ca78e7450a285173431b3e52c5c25299e473" date="1997-09-14 22:56:46"/>
+		<rom name="KEEPER/LEVELS/MAP00122.OWN" size="65536" crc="87a9fc2f" md5="88d235400b6f666791f467b62ad9c13d" sha1="15c6a8522dcf78c4bfff00ac13cdb7d2017c3b22" date="1997-09-14 22:56:44"/>
+		<rom name="KEEPER/LEVELS/MAP00122.SLB" size="14450" crc="07b1c2b9" md5="7fd6ef91da769cb9c0bf6d890d29605a" sha1="493b07d7a764248d7dcd7a2d0d1c917a8a852d7b" date="1997-09-14 22:56:46"/>
+		<rom name="KEEPER/LEVELS/MAP00122.TNG" size="653" crc="64988db8" md5="1d76eef8a3f112b8f4623a5592c955cc" sha1="64c2142addb9bc48976443f3e42002c69c8ddb2a" date="1997-09-14 22:56:46"/>
+		<rom name="KEEPER/LEVELS/MAP00122.TXT" size="3062" crc="7c811f4e" md5="448c97afc62be6d7bbed7aef387e9dd0" sha1="0f906a3632b26f9c4888872490f35091ebee2fff" date="1997-09-15 02:44:16"/>
+		<rom name="KEEPER/LEVELS/MAP00122.WIB" size="65536" crc="4f427e8c" md5="3e6c81a3ca82216ab0c38b015a3f2542" sha1="cb734f04debaf0c568300d7717a2dec043ed5f98" date="1997-09-14 22:56:44"/>
+		<rom name="KEEPER/LEVELS/MAP00122.WLB" size="7225" crc="86c8fcdd" md5="be526e610b3a981f0f401986975124d4" sha1="0cbf97c5e9dc25e33afeec4731b35c94602dfe53" date="1997-09-14 22:56:46"/>
+		<rom name="KEEPER/LEVELS/MAP00123.APT" size="4" crc="2144df1c" md5="f1d3ff8443297732862df21dc4e57262" sha1="9069ca78e7450a285173431b3e52c5c25299e473" date="1997-09-15 01:25:52"/>
+		<rom name="KEEPER/LEVELS/MAP00123.CLM" size="49160" crc="5a3a8bc9" md5="f1a38d83a415a15c1c9b3ebcf1c4de57" sha1="e8f4e38eae59176d9de1781ae3b2fc703d700746" date="1997-09-15 01:25:52"/>
+		<rom name="KEEPER/LEVELS/MAP00123.DAT" size="131072" crc="a3ce8046" md5="3e5d5a886e1260688641320b7b1817ae" sha1="4fa139939fe3229cda4470900f58fd7cff5fb940" date="1997-09-15 01:25:52"/>
+		<rom name="KEEPER/LEVELS/MAP00123.INF" size="1" crc="d202ef8d" md5="93b885adfe0da089cdf634904fd59f71" sha1="5ba93c9db0cff93f52b521d7420e43f6eda2784f" date="1997-09-15 01:25:52"/>
+		<rom name="KEEPER/LEVELS/MAP00123.LGT" size="364" crc="5b94600e" md5="48c4f4c8b236b83ad06d39d7c584da3c" sha1="996931d97aeb8027e4c4245b45b053d8c1697c3f" date="1997-09-15 01:25:52"/>
+		<rom name="KEEPER/LEVELS/MAP00123.OWN" size="65536" crc="8d4dfb7c" md5="1e199ec477a2c259a565554fe2243203" sha1="136afca41f079538fdfe47d8747f6212506b199c" date="1997-09-15 01:25:52"/>
+		<rom name="KEEPER/LEVELS/MAP00123.SLB" size="14450" crc="f5d6dac9" md5="7a870adab7518c884f49b2a21726025d" sha1="2dc66f0e23cd075cad9a200b5f61027c18b97ca8" date="1997-09-15 01:25:52"/>
+		<rom name="KEEPER/LEVELS/MAP00123.TNG" size="1451" crc="d6c8dbf5" md5="45eef25afc883da1e5515cc76ff69f18" sha1="ba5b1f08dec472614d8145eab4d536beaeb9c76f" date="1997-09-15 01:25:52"/>
+		<rom name="KEEPER/LEVELS/MAP00123.TXT" size="3062" crc="7c811f4e" md5="448c97afc62be6d7bbed7aef387e9dd0" sha1="0f906a3632b26f9c4888872490f35091ebee2fff" date="1997-09-15 02:44:32"/>
+		<rom name="KEEPER/LEVELS/MAP00123.WIB" size="65536" crc="f087fc67" md5="9b34f4d2454f7f6e5c9580ca58e2b01f" sha1="8118650f010851d620969196e1a19d11084551eb" date="1997-09-15 01:25:50"/>
+		<rom name="KEEPER/LEVELS/MAP00123.WLB" size="7225" crc="cff955c5" md5="0305492c86dbc424365fe5be1ae1cbd8" sha1="7cec91a719d69e40a2246124c8abb4da21aeee4f" date="1997-09-15 01:25:52"/>
+		<rom name="KEEPER/LEVELS/MAP00124.APT" size="4" crc="2144df1c" md5="f1d3ff8443297732862df21dc4e57262" sha1="9069ca78e7450a285173431b3e52c5c25299e473" date="1997-09-15 03:25:28"/>
+		<rom name="KEEPER/LEVELS/MAP00124.BAK" size="3064" crc="938b2753" md5="ec2198d33f4639f1a06fc934aaad00a0" sha1="7719ca59ee467a094672f64093dd3c515e8d6f79" date="1997-08-18 03:33:26"/>
+		<rom name="KEEPER/LEVELS/MAP00124.CLM" size="49160" crc="f8109c18" md5="002308cf9c2cbd2eaa6c0303a50a55c5" sha1="b70945af5e4aa6451c989bfb0dcacd1e9c06db44" date="1997-09-15 03:25:28"/>
+		<rom name="KEEPER/LEVELS/MAP00124.DAT" size="131072" crc="c6a0fb58" md5="4705bd9b2a03c5a3a96b25aa20f2ff1a" sha1="2b16d59ca39170ec6cb4cbf62aeffa3d9793b6ba" date="1997-09-15 03:25:26"/>
+		<rom name="KEEPER/LEVELS/MAP00124.INF" size="1" crc="d202ef8d" md5="93b885adfe0da089cdf634904fd59f71" sha1="5ba93c9db0cff93f52b521d7420e43f6eda2784f" date="1997-09-15 03:25:28"/>
+		<rom name="KEEPER/LEVELS/MAP00124.LGT" size="504" crc="3eadb039" md5="8aea30372b1aab8428fd602f1a3cb8a6" sha1="62751f92901fedd1f1bad887fa2ea0ea274bcd04" date="1997-09-15 03:25:28"/>
+		<rom name="KEEPER/LEVELS/MAP00124.OWN" size="65536" crc="db58a59f" md5="bf5528837c30a13bd480f2b8c2ab6419" sha1="65a41570636ad59a8cd8538e8a5301252fd28aef" date="1997-09-15 03:25:26"/>
+		<rom name="KEEPER/LEVELS/MAP00124.SLB" size="14450" crc="9af1fcff" md5="94e8a7d44011635d93e3df3023d0efd3" sha1="6c688f6afc114d7073812640529e59b98c08285c" date="1997-09-15 03:25:28"/>
+		<rom name="KEEPER/LEVELS/MAP00124.TNG" size="1073" crc="05cf6684" md5="afdebf51d762bfcc1690abd5c6f85877" sha1="9bd154f5e099e5101dc57748e8c9eedf10b7b12e" date="1997-09-15 03:25:28"/>
+		<rom name="KEEPER/LEVELS/MAP00124.TXT" size="3062" crc="7c811f4e" md5="448c97afc62be6d7bbed7aef387e9dd0" sha1="0f906a3632b26f9c4888872490f35091ebee2fff" date="1997-09-15 02:44:50"/>
+		<rom name="KEEPER/LEVELS/MAP00124.WIB" size="65536" crc="18793acd" md5="29be6e5d5b618c60b02f06e7e5df7bf5" sha1="a5770581c2a1075fc8223e65cfd97398e1b389a1" date="1997-09-15 03:25:26"/>
+		<rom name="KEEPER/LEVELS/MAP00124.WLB" size="7225" crc="a5fb667e" md5="92826fc88e48adb56996ca4a357971d9" sha1="2ffe366d40db76a7e9475ceed2c1e4fe9af35342" date="1997-09-15 03:25:28"/>
+		<rom name="KEEPER/LEVELS/MAP00126.APT" size="60" crc="0507931d" md5="46bdb71edca5cd3f97196897fa95b519" sha1="8b6819526253383639a371e3ea7c3bb10e6398bb" date="1997-09-17 22:03:04"/>
+		<rom name="KEEPER/LEVELS/MAP00126.BAK" size="3644" crc="cd9b3d01" md5="67452a0e399ff47dab83893cfdb96f63" sha1="7cd7da3244979ef938ef675cbb78dc0dd7341dfb" date="1997-08-17 20:17:02"/>
+		<rom name="KEEPER/LEVELS/MAP00126.CLM" size="49160" crc="55cbd688" md5="2f2668d0701330c93e03b9b16844e7ad" sha1="ae825c016a9885e7e0f5976e2be80b1507807d96" date="1997-09-17 22:03:04"/>
+		<rom name="KEEPER/LEVELS/MAP00126.DAT" size="131072" crc="c6ec9f1b" md5="2834cde1466b1cce44bd76049314df6a" sha1="617810281c16fe445b8a279d06263866e940be43" date="1997-09-17 22:03:04"/>
+		<rom name="KEEPER/LEVELS/MAP00126.INF" size="1" crc="3b614ab8" md5="06eca1b437c7904cc3ce6546c8110110" sha1="2d0134ed3b9de132c720fe697b532b4c232ff9fe" date="1997-09-17 22:03:04"/>
+		<rom name="KEEPER/LEVELS/MAP00126.LGT" size="4" crc="2144df1c" md5="f1d3ff8443297732862df21dc4e57262" sha1="9069ca78e7450a285173431b3e52c5c25299e473" date="1997-09-17 22:03:04"/>
+		<rom name="KEEPER/LEVELS/MAP00126.OWN" size="65536" crc="1ff51d5e" md5="985bdc0737973a0a0e2024c8a0d8e828" sha1="63dae704a2f8bcfe769315fc8f4e037d92c5bb16" date="1997-09-17 22:03:04"/>
+		<rom name="KEEPER/LEVELS/MAP00126.SLB" size="14450" crc="2ae0c10e" md5="081b1ebf5ce3d1d59fc2e0938ad99949" sha1="61357678c0cf57aaddc7c3c022a60d486b607e70" date="1997-09-17 22:03:04"/>
+		<rom name="KEEPER/LEVELS/MAP00126.TNG" size="5147" crc="573a0f73" md5="89760b8f08f55d5f74e8affbe79f4cb9" sha1="e58411016b7ca6e3b29098fab3d8fd4d7b6ff4a3" date="1997-09-17 22:03:04"/>
+		<rom name="KEEPER/LEVELS/MAP00126.TXT" size="3401" crc="b03f9375" md5="b75774a0865d9f46efe3d0a526c73bde" sha1="17b07a04330072c0287d1304e24d00d813529ff5" date="1997-09-16 02:38:54"/>
+		<rom name="KEEPER/LEVELS/MAP00126.WIB" size="65536" crc="d50ff888" md5="824bc727839b8b3c35c9ea4f21573482" sha1="44e7a4e068885fd9b360be59987f2bdbfa75dea4" date="1997-09-17 22:03:04"/>
+		<rom name="KEEPER/LEVELS/MAP00126.WLB" size="7225" crc="636390dc" md5="d31ca33b36fde6e40170fe1a246ed9ab" sha1="246f76236769f8d7926b777c2d843697d61220a0" date="1997-09-17 22:03:04"/>
+		<rom name="KEEPER/LEVELS/MAP00127.APT" size="4" crc="2144df1c" md5="f1d3ff8443297732862df21dc4e57262" sha1="9069ca78e7450a285173431b3e52c5c25299e473" date="1997-09-14 21:01:38"/>
+		<rom name="KEEPER/LEVELS/MAP00127.CLM" size="49160" crc="01f802a2" md5="4efbc5787b7e38fcc521d6b4cef3bfd2" sha1="d30f5771586cbf3deb74a26f81d679ade2500c73" date="1997-09-14 21:01:38"/>
+		<rom name="KEEPER/LEVELS/MAP00127.DAT" size="131072" crc="8b1b41c0" md5="bb0bd71636a585fdaf6382c8b38437d7" sha1="3bfc9b9f97a43c581af07f7a21c526e14e70d299" date="1997-09-14 21:01:38"/>
+		<rom name="KEEPER/LEVELS/MAP00127.INF" size="1" crc="a2681b02" md5="8bb6c17838643f9691cc6a4de6c51709" sha1="8dc00598417d4eb788a77ac6ccef3cb484905d8b" date="1997-09-14 21:01:38"/>
+		<rom name="KEEPER/LEVELS/MAP00127.LGT" size="4" crc="2144df1c" md5="f1d3ff8443297732862df21dc4e57262" sha1="9069ca78e7450a285173431b3e52c5c25299e473" date="1997-09-14 21:01:38"/>
+		<rom name="KEEPER/LEVELS/MAP00127.OWN" size="65536" crc="cceef16f" md5="21e6a3e04957b7357a3ad749deb12ca3" sha1="6e5cb25315595d42a70b51474b82655776c4b35e" date="1997-09-14 21:01:38"/>
+		<rom name="KEEPER/LEVELS/MAP00127.SLB" size="14450" crc="f3eb7df8" md5="fb167f6735f4ecb2ca9693164ea30df7" sha1="a587cfec93b413bf95f9d55aa7f364ff2e176d7e" date="1997-09-14 21:01:38"/>
+		<rom name="KEEPER/LEVELS/MAP00127.TNG" size="3719" crc="3f39dd57" md5="17d2feee09e13bc0d396d8029fb5398f" sha1="bd2e5c732ed6e25ba16a35d384b453830abe5510" date="1997-09-14 21:01:38"/>
+		<rom name="KEEPER/LEVELS/MAP00127.TXT" size="1546" crc="ca76ec69" md5="b5e9501575275a86bd628c2c3bb9b495" sha1="5efc27f4314cf28b62225e59f3567d6a388ec697" date="1997-09-14 19:44:00"/>
+		<rom name="KEEPER/LEVELS/MAP00127.WIB" size="65536" crc="f05e6f80" md5="31b4a6f978d119c3838148816bd0db82" sha1="796c9f7a6e15731b4365bf4c320953e714d8b29e" date="1997-09-14 21:01:38"/>
+		<rom name="KEEPER/LEVELS/MAP00127.WLB" size="7225" crc="80cc87a3" md5="ad541044bbb3a259221b3efeac9baed2" sha1="c0cd2112fa07b9030cd9e5717b5301366eb4e9e8" date="1997-09-14 21:01:38"/>
+		<rom name="KEEPER/LEVELS/MAP00130.APT" size="4" crc="2144df1c" md5="f1d3ff8443297732862df21dc4e57262" sha1="9069ca78e7450a285173431b3e52c5c25299e473" date="1997-09-14 22:17:38"/>
+		<rom name="KEEPER/LEVELS/MAP00130.CLM" size="49160" crc="69460801" md5="ab1f7b556d300ddda78a1c2ad5f7e968" sha1="3d470f29940a64f886798389ae74712ebcc9401e" date="1997-09-14 22:17:38"/>
+		<rom name="KEEPER/LEVELS/MAP00130.DAT" size="131072" crc="8d972647" md5="0459a42358f6cce640924129e64db4cf" sha1="654c9c61514571fd53fcc495eae8cbbc0c9ff35d" date="1997-09-14 22:17:38"/>
+		<rom name="KEEPER/LEVELS/MAP00130.INF" size="1" crc="d202ef8d" md5="93b885adfe0da089cdf634904fd59f71" sha1="5ba93c9db0cff93f52b521d7420e43f6eda2784f" date="1997-09-14 22:17:38"/>
+		<rom name="KEEPER/LEVELS/MAP00130.LGT" size="224" crc="cfcaddef" md5="2c061bc1aa180f5597d991ae93439c27" sha1="449c740ba1a716ad62ee44a6b0eab8b3ada8ad1c" date="1997-09-14 22:17:38"/>
+		<rom name="KEEPER/LEVELS/MAP00130.OWN" size="65536" crc="fe9a08c1" md5="8d62bbe8d3c8749feee629485dc471e0" sha1="bb0f898d254582e74e88776ceca2bf3b55f288c7" date="1997-09-14 22:17:38"/>
+		<rom name="KEEPER/LEVELS/MAP00130.SLB" size="14450" crc="6b1613a8" md5="4d56146bcbc877c00de5c591c5696f57" sha1="33799b0a926e25af9b7578e237e0e154f3462c09" date="1997-09-14 22:17:38"/>
+		<rom name="KEEPER/LEVELS/MAP00130.TNG" size="905" crc="16d685fd" md5="f407e613ee15af55b5ed32fb8823e548" sha1="1199fe46f13fd66fddfa31c58b6cc29cfc3ff3b4" date="1997-09-14 22:17:38"/>
+		<rom name="KEEPER/LEVELS/MAP00130.TXT" size="3117" crc="ee5b7cd9" md5="c224f100d8bc9d51212754006af41004" sha1="a6296b605d112e9cd38b1d92875001f61ea3ab5a" date="1997-09-15 02:45:06"/>
+		<rom name="KEEPER/LEVELS/MAP00130.WIB" size="65536" crc="5ff3e97f" md5="1d9065f3b6870f277be084e464c4e66c" sha1="7a257fbfa0c8f07447fbcd425df7a3597ed350ff" date="1997-09-14 22:17:36"/>
+		<rom name="KEEPER/LEVELS/MAP00130.WLB" size="7225" crc="86c8fcdd" md5="be526e610b3a981f0f401986975124d4" sha1="0cbf97c5e9dc25e33afeec4731b35c94602dfe53" date="1997-09-14 22:17:38"/>
+		<rom name="KEEPER/LEVELS/MAP00131.APT" size="4" crc="2144df1c" md5="f1d3ff8443297732862df21dc4e57262" sha1="9069ca78e7450a285173431b3e52c5c25299e473" date="1997-09-14 21:18:26"/>
+		<rom name="KEEPER/LEVELS/MAP00131.BAK" size="3119" crc="793099b6" md5="0ffe7a5deb3cc62968e8640ff3aa9b4a" sha1="670712672f83e60f68cdd68de48a7b89b85e5075" date="1997-08-18 03:34:16"/>
+		<rom name="KEEPER/LEVELS/MAP00131.CLM" size="49160" crc="6696e8fe" md5="7de1bb1f0848024a8417ba54b82bd07f" sha1="f7ba944a715761a26cee8b546582188c7a4a7620" date="1997-09-14 21:18:26"/>
+		<rom name="KEEPER/LEVELS/MAP00131.DAT" size="131072" crc="774ee6c1" md5="dfbcfa0a65b55f15eec88cf8f293eaae" sha1="21d08f0e7c4cbb51c7541b1bc0caa660639f7a1a" date="1997-09-14 21:18:26"/>
+		<rom name="KEEPER/LEVELS/MAP00131.INF" size="1" crc="d202ef8d" md5="93b885adfe0da089cdf634904fd59f71" sha1="5ba93c9db0cff93f52b521d7420e43f6eda2784f" date="1997-09-14 21:18:26"/>
+		<rom name="KEEPER/LEVELS/MAP00131.LGT" size="4" crc="2144df1c" md5="f1d3ff8443297732862df21dc4e57262" sha1="9069ca78e7450a285173431b3e52c5c25299e473" date="1997-09-14 21:18:26"/>
+		<rom name="KEEPER/LEVELS/MAP00131.OWN" size="65536" crc="9071915f" md5="7adca85fd966108c3d5a38ac46375ea2" sha1="4a26427b25024dd09128bd69465f24d14a974fd3" date="1997-09-14 21:18:26"/>
+		<rom name="KEEPER/LEVELS/MAP00131.SLB" size="14450" crc="0356a2dc" md5="48cc1507913cb6a7c4b5288d4d7efdf6" sha1="53458125caf0a4d2573c864c1f1ac92651f68d83" date="1997-09-14 21:18:26"/>
+		<rom name="KEEPER/LEVELS/MAP00131.TNG" size="968" crc="2dc1862f" md5="cec65d71ff3d1deee6b9d88ba7521739" sha1="4ad3f5a22c15ab87a8992ecf32cf7ade0d714581" date="1997-09-14 21:18:26"/>
+		<rom name="KEEPER/LEVELS/MAP00131.TXT" size="3117" crc="25b4c4b1" md5="d357939afadc712b662a5c9f6296d8ee" sha1="a3b36e4c3bdba54fbc151d5e45ebc8672dcffa1c" date="1997-09-15 02:45:24"/>
+		<rom name="KEEPER/LEVELS/MAP00131.WIB" size="65536" crc="fa679752" md5="e8a2c4a1bc93886d12c637a922fe9d01" sha1="529bd390e512ab60e5ca589432b4e01d4ccd582e" date="1997-09-14 21:18:26"/>
+		<rom name="KEEPER/LEVELS/MAP00131.WLB" size="7225" crc="b9fbb96a" md5="68df7bebeefe6a8fdf9d5916b929a9a4" sha1="affa2f9f91a7165debc82bf098142fab46aaa383" date="1997-09-14 21:18:26"/>
+		<rom name="KEEPER/LEVELS/MAP00132.APT" size="4" crc="2144df1c" md5="f1d3ff8443297732862df21dc4e57262" sha1="9069ca78e7450a285173431b3e52c5c25299e473" date="1997-09-14 21:31:00"/>
+		<rom name="KEEPER/LEVELS/MAP00132.CLM" size="49160" crc="f0a173bd" md5="86aa1562ad3abf54663e92201336292b" sha1="3226675db1948dd4059034c95b31f3dd49cedeac" date="1997-09-14 21:31:00"/>
+		<rom name="KEEPER/LEVELS/MAP00132.DAT" size="131072" crc="fded5b1d" md5="51780b285c1bffa590b354acf003f23d" sha1="662514eed6ee34e5fefda7b981c95e45e178919c" date="1997-09-14 21:30:58"/>
+		<rom name="KEEPER/LEVELS/MAP00132.INF" size="1" crc="d202ef8d" md5="93b885adfe0da089cdf634904fd59f71" sha1="5ba93c9db0cff93f52b521d7420e43f6eda2784f" date="1997-09-14 21:31:00"/>
+		<rom name="KEEPER/LEVELS/MAP00132.LGT" size="4" crc="2144df1c" md5="f1d3ff8443297732862df21dc4e57262" sha1="9069ca78e7450a285173431b3e52c5c25299e473" date="1997-09-14 21:31:00"/>
+		<rom name="KEEPER/LEVELS/MAP00132.OWN" size="65536" crc="a66d6ae0" md5="46f8b550e45405d0d7eb91cd6f9f0993" sha1="9e89c77b5bd70c95584a45a900ed46f7e858991b" date="1997-09-14 21:30:58"/>
+		<rom name="KEEPER/LEVELS/MAP00132.SLB" size="14450" crc="7797f56d" md5="d8cc12ac2066c9d9622a9acb934ea8b4" sha1="ce41f54c83555d900ca383ecd92f6faa55a51c19" date="1997-09-14 21:31:00"/>
+		<rom name="KEEPER/LEVELS/MAP00132.TNG" size="1388" crc="9d38fd29" md5="d03cb83527c9c0f9de3136364db3b613" sha1="64b493235393a9ddc21363a453ed7c7b154addef" date="1997-09-14 21:31:00"/>
+		<rom name="KEEPER/LEVELS/MAP00132.TXT" size="3117" crc="ee5b7cd9" md5="c224f100d8bc9d51212754006af41004" sha1="a6296b605d112e9cd38b1d92875001f61ea3ab5a" date="1997-09-15 02:45:40"/>
+		<rom name="KEEPER/LEVELS/MAP00132.WIB" size="65536" crc="ff5e3a18" md5="6ce6b3ef147c883cac94dc7f65ef5126" sha1="b63ef8eb005c6a965ecb612add58ac1e8744f1f1" date="1997-09-14 21:30:58"/>
+		<rom name="KEEPER/LEVELS/MAP00132.WLB" size="7225" crc="d550591b" md5="2b24bdb4da10cffea48b64981fe73618" sha1="cc678c7b114fe3e9cd089fc8ffacb29b3aae5127" date="1997-09-14 21:31:00"/>
+		<rom name="KEEPER/LEVELS/MAP00133.APT" size="4" crc="2144df1c" md5="f1d3ff8443297732862df21dc4e57262" sha1="9069ca78e7450a285173431b3e52c5c25299e473" date="1997-09-16 00:41:52"/>
+		<rom name="KEEPER/LEVELS/MAP00133.BAK" size="3121" crc="8898b561" md5="31539360deb5ae4e3a68b1c9d8f597d4" sha1="d7a48be571d13904e313717360be3dba1595f514" date="1997-09-15 01:32:16"/>
+		<rom name="KEEPER/LEVELS/MAP00133.CLM" size="49160" crc="abd867c0" md5="02306a5c842ec14149f7f4438b3f3f16" sha1="0cb6aaf8f25b7ce25efb1b8fccefa8f66f9406a9" date="1997-09-16 00:41:52"/>
+		<rom name="KEEPER/LEVELS/MAP00133.DAT" size="131072" crc="6416a4f6" md5="7b3ef73d26d5bc4a0c79c724e1f0a282" sha1="df40cec7f9723d5cd916c58916b6cfe3a5d80a9a" date="1997-09-16 00:41:50"/>
+		<rom name="KEEPER/LEVELS/MAP00133.INF" size="1" crc="d202ef8d" md5="93b885adfe0da089cdf634904fd59f71" sha1="5ba93c9db0cff93f52b521d7420e43f6eda2784f" date="1997-09-16 00:41:52"/>
+		<rom name="KEEPER/LEVELS/MAP00133.LGT" size="464" crc="1a33ba13" md5="a23e968490121c9f860017b8a8b15402" sha1="ca129912e2813f00c7a02e5747f4acbbac738bc0" date="1997-09-16 00:41:52"/>
+		<rom name="KEEPER/LEVELS/MAP00133.OWN" size="65536" crc="2a575415" md5="2e911e5622da77ff6f047639a227e949" sha1="76a5b5578d73c841fb4cd0590a9196b0ab1fbb95" date="1997-09-16 00:41:50"/>
+		<rom name="KEEPER/LEVELS/MAP00133.SLB" size="14450" crc="f92e981b" md5="ebe341a8c0bda71c381d4a62556e0c9f" sha1="50a1604d090396628fe177e2796f0fcd98cc83fb" date="1997-09-16 00:41:52"/>
+		<rom name="KEEPER/LEVELS/MAP00133.TNG" size="2165" crc="e10d0aa1" md5="b37fa244ebbe5e4f0515c4cc6e79540c" sha1="9d41aef6e221b54b760e97034e6d15285c276543" date="1997-09-16 00:41:52"/>
+		<rom name="KEEPER/LEVELS/MAP00133.TXT" size="3121" crc="5c7cf840" md5="6552c008a1a58b68b4b277fede3610a2" sha1="bfd56ec824d1c4350104f1af8fc575bfef434690" date="1997-09-15 22:46:24"/>
+		<rom name="KEEPER/LEVELS/MAP00133.WIB" size="65536" crc="2b0a3c42" md5="b2bdfd96dc7e8a06a2d22ceb471af7fa" sha1="12fad240a32b7495c7df32c66c08c0d84684fa9d" date="1997-09-16 00:41:50"/>
+		<rom name="KEEPER/LEVELS/MAP00133.WLB" size="7225" crc="a0bb11f0" md5="ca3adab377342aff378236511ae87b67" sha1="5052203dc1bcd775fe2f8b6d306455e77b3bbdb9" date="1997-09-16 00:41:52"/>
+		<rom name="KEEPER/LEVELS/MAP00135.APT" size="4" crc="2144df1c" md5="f1d3ff8443297732862df21dc4e57262" sha1="9069ca78e7450a285173431b3e52c5c25299e473" date="1997-09-15 03:34:14"/>
+		<rom name="KEEPER/LEVELS/MAP00135.CLM" size="49160" crc="5d481b84" md5="c1bde156857ad1bf27fe3738af69050d" sha1="bfeace51f3812297cb8cce36b43154428ce1b60f" date="1997-09-15 03:34:14"/>
+		<rom name="KEEPER/LEVELS/MAP00135.DAT" size="131072" crc="f4789e3e" md5="982e50ca65a080f3d89a1e1f0cf1e9c5" sha1="005ff80e7c61d670e707b44a2200a51c0335daa1" date="1997-09-15 03:34:14"/>
+		<rom name="KEEPER/LEVELS/MAP00135.INF" size="1" crc="d56f2b94" md5="ec7f7e7bb43742ce868145f71d37b53c" sha1="a42c6cf1de3abfdea9b95f34687cbbe92b9a7383" date="1997-09-15 03:34:14"/>
+		<rom name="KEEPER/LEVELS/MAP00135.LGT" size="664" crc="b1e14ff6" md5="35be2fe5efa00a50447299b23af4b175" sha1="d043bf351c1a8152d88f587cea3522a66ca3bc76" date="1997-09-15 03:34:14"/>
+		<rom name="KEEPER/LEVELS/MAP00135.OWN" size="65536" crc="9a33a40b" md5="31ebc105c270c92697e4a1883ec378b7" sha1="4fbeaab6d2f989f9d44bbe8b6fc1f95d84ab8540" date="1997-09-15 03:34:14"/>
+		<rom name="KEEPER/LEVELS/MAP00135.SLB" size="14450" crc="8e5d47aa" md5="c5ff33ea3761f04f40293e06f4018478" sha1="4ffa78e795ee69b78df95db6349f9c1db1abffaa" date="1997-09-15 03:34:14"/>
+		<rom name="KEEPER/LEVELS/MAP00135.TNG" size="3488" crc="9af9cb66" md5="3512feedd79c59bc19173c993f4828d6" sha1="7a5e07b39d0607a3e42d69ae1b9e91d5ca28a18d" date="1997-09-15 03:34:14"/>
+		<rom name="KEEPER/LEVELS/MAP00135.TXT" size="1955" crc="835429c9" md5="452517f555e3fecef46a4f456f7f19ac" sha1="f52a93c928d4c31ff85bddc448cf631d4e335cd7" date="1997-09-15 03:29:10"/>
+		<rom name="KEEPER/LEVELS/MAP00135.WIB" size="65536" crc="8d821cd8" md5="f52ddc4f13f44fb06a114b24f6a64ef5" sha1="14074db1201df964116b91277a5ccb8ce1c1d547" date="1997-09-15 03:34:14"/>
+		<rom name="KEEPER/LEVELS/MAP00135.WLB" size="7225" crc="15a95d2c" md5="013d4576d773dd8f90f5cb61a4064d9a" sha1="519441b480d5f399e391b4073f738e7bd346bf28" date="1997-09-15 03:34:14"/>
+		<rom name="KEEPER/LEVELS/MAP00145.APT" size="4" crc="2144df1c" md5="f1d3ff8443297732862df21dc4e57262" sha1="9069ca78e7450a285173431b3e52c5c25299e473" date="1997-09-17 22:08:32"/>
+		<rom name="KEEPER/LEVELS/MAP00145.CLM" size="49160" crc="d405e904" md5="ca108f3ced2cbf84ad139d04a269de05" sha1="7ee9495ed5c9221cbe702fc08f7714ff9a7e392f" date="1997-09-17 22:08:32"/>
+		<rom name="KEEPER/LEVELS/MAP00145.DAT" size="131072" crc="53fe8ea7" md5="7405ee1d3e1c4334975c0a888b1d7220" sha1="9d4918e5782bac21683381ec209bdfc846a002ee" date="1997-09-17 22:08:32"/>
+		<rom name="KEEPER/LEVELS/MAP00145.INF" size="1" crc="4b0bbe37" md5="8666683506aacd900bbd5a74ac4edf68" sha1="9842926af7ca0a8cca12604f945414f07b01e13d" date="1997-09-17 22:08:32"/>
+		<rom name="KEEPER/LEVELS/MAP00145.LGT" size="4" crc="2144df1c" md5="f1d3ff8443297732862df21dc4e57262" sha1="9069ca78e7450a285173431b3e52c5c25299e473" date="1997-09-17 22:08:32"/>
+		<rom name="KEEPER/LEVELS/MAP00145.OWN" size="65536" crc="3d9fe360" md5="f26308811e05d038b2cd92b667dc0d69" sha1="721ce79c4bcd5359e9956b1495c37fcedb7b0c23" date="1997-09-17 22:08:32"/>
+		<rom name="KEEPER/LEVELS/MAP00145.SLB" size="14450" crc="e8097be0" md5="8367e7f991dfd3b75112f6fc6d74518d" sha1="87737231ba42e8b46b7f39f43827b2f2af79dd97" date="1997-09-17 22:08:32"/>
+		<rom name="KEEPER/LEVELS/MAP00145.TNG" size="3950" crc="428de123" md5="313ea94cc7d32d1bdb80540f4e154044" sha1="7c4904173418ede0e484a1cb440100b8358934b8" date="1997-09-17 22:08:32"/>
+		<rom name="KEEPER/LEVELS/MAP00145.TXT" size="2639" crc="d8e9832e" md5="1d4b3c9f477e0cc01f9235c331284ff0" sha1="ecc634321d015ceb967bf0dcdc721f57be90f2cf" date="1997-09-10 21:16:52"/>
+		<rom name="KEEPER/LEVELS/MAP00145.WIB" size="65536" crc="1bafede3" md5="0d4d9025093f38e71cdda5b253843eb4" sha1="6a413944d0c4369ba68f24565e75277f82baf005" date="1997-09-17 22:08:32"/>
+		<rom name="KEEPER/LEVELS/MAP00145.WLB" size="7225" crc="ce502aab" md5="5e6630274884c76b4dbc514f588d8b8c" sha1="a4732488fed0f692be4bedbfafc5243c265f817e" date="1997-09-17 22:08:32"/>
+		<rom name="KEEPER/LEVELS/MAP00146.APT" size="4" crc="2144df1c" md5="f1d3ff8443297732862df21dc4e57262" sha1="9069ca78e7450a285173431b3e52c5c25299e473" date="1997-09-18 20:04:28"/>
+		<rom name="KEEPER/LEVELS/MAP00146.CLM" size="49160" crc="0043a7e1" md5="f68e0a20918e2882e0af60a14dd57938" sha1="01c8cbdf27e37f4e57e96b0695388233d9bec21d" date="1997-09-18 20:04:28"/>
+		<rom name="KEEPER/LEVELS/MAP00146.DAT" size="131072" crc="8213ce14" md5="bbe8e68dae88a646483a867d0ea679ee" sha1="c40bb0013aff274e592acd70a6815b12f21dc371" date="1997-09-18 20:04:28"/>
+		<rom name="KEEPER/LEVELS/MAP00146.INF" size="1" crc="d56f2b94" md5="ec7f7e7bb43742ce868145f71d37b53c" sha1="a42c6cf1de3abfdea9b95f34687cbbe92b9a7383" date="1997-09-18 20:04:28"/>
+		<rom name="KEEPER/LEVELS/MAP00146.LGT" size="4" crc="2144df1c" md5="f1d3ff8443297732862df21dc4e57262" sha1="9069ca78e7450a285173431b3e52c5c25299e473" date="1997-09-18 20:04:28"/>
+		<rom name="KEEPER/LEVELS/MAP00146.OWN" size="65536" crc="c8dab3f8" md5="4c8d0d8a75c8e80888aa0ba1bfbcd705" sha1="e5beb1d39f048e00ec89beb60e46a1f149a0f227" date="1997-09-18 20:04:28"/>
+		<rom name="KEEPER/LEVELS/MAP00146.SLB" size="14450" crc="ed7bfe9a" md5="e4dc8d0ee425ed5b8e4909e454cf5b2d" sha1="c810e45a6496fd6acdd3fea3a8f04ce751b698fa" date="1997-09-18 20:04:28"/>
+		<rom name="KEEPER/LEVELS/MAP00146.TNG" size="3404" crc="67ea65d6" md5="b48a6cdece7f4f037dd3619edaa257f8" sha1="e070b82ae70ab6cf63f5a6a3cd60903b154d81e4" date="1997-09-18 20:04:28"/>
+		<rom name="KEEPER/LEVELS/MAP00146.TXT" size="2637" crc="e97921a2" md5="e80e1219f7c8286fac41946492f541cd" sha1="cf5908aa4b91a1f4b3bce46445ad1bb62747e9e9" date="1997-09-18 20:05:06"/>
+		<rom name="KEEPER/LEVELS/MAP00146.WIB" size="65536" crc="2235edcb" md5="f1a1a2d4ac74b070cbd960bdaa896022" sha1="d7276a0d47f9514231aada1205daf1083aeb7858" date="1997-09-18 20:04:28"/>
+		<rom name="KEEPER/LEVELS/MAP00146.WLB" size="7225" crc="f6652dd9" md5="0be9d24dc2fd1a46ebda21d9cd3ab2b2" sha1="275633f21bea7edcafbae3e4c8969f2ca6e86db2" date="1997-09-18 20:04:28"/>
+		<rom name="KEEPER/LEVELS/MAP00147.APT" size="4" crc="2144df1c" md5="f1d3ff8443297732862df21dc4e57262" sha1="9069ca78e7450a285173431b3e52c5c25299e473" date="1997-09-17 22:09:22"/>
+		<rom name="KEEPER/LEVELS/MAP00147.CLM" size="49160" crc="c6f9e24c" md5="32b26d6760c5cbf140e223eb5d2da753" sha1="ac106429eac4edca344597ba88ec93050f7f457a" date="1997-09-17 22:09:22"/>
+		<rom name="KEEPER/LEVELS/MAP00147.DAT" size="131072" crc="8461e32b" md5="caa19c7076500d966d9c74b2759e8b2b" sha1="dc360afd7c187b5946c0782d2e161383f22a464f" date="1997-09-17 22:09:22"/>
+		<rom name="KEEPER/LEVELS/MAP00147.INF" size="1" crc="a2681b02" md5="8bb6c17838643f9691cc6a4de6c51709" sha1="8dc00598417d4eb788a77ac6ccef3cb484905d8b" date="1997-09-17 22:09:22"/>
+		<rom name="KEEPER/LEVELS/MAP00147.LGT" size="1284" crc="77e8e678" md5="d6ba59a4c974a3e23b8f0f17e8aba61e" sha1="845fbdcaa52d3bc2422507a6dba1e63408d07fb6" date="1997-09-17 22:09:22"/>
+		<rom name="KEEPER/LEVELS/MAP00147.OWN" size="65536" crc="f85c7782" md5="6dca1ff8b6bd429428e5ed3f848d8db1" sha1="8bf20656284165ca8d8a69d46dfee06791177d1a" date="1997-09-17 22:09:22"/>
+		<rom name="KEEPER/LEVELS/MAP00147.SLB" size="14450" crc="edbe5ad7" md5="cb13b042a6b2f031b295c9fe87237098" sha1="00fe398affb6f9f58faedcf1714d6ac070dc914b" date="1997-09-17 22:09:22"/>
+		<rom name="KEEPER/LEVELS/MAP00147.TNG" size="6113" crc="155e56da" md5="044425f188f1058b9001bea50f08d86d" sha1="a88e913223deb25b36adc2bb3848a57d45bbea3e" date="1997-09-17 22:09:22"/>
+		<rom name="KEEPER/LEVELS/MAP00147.TXT" size="2190" crc="3208cba0" md5="828352748a735ffaeaeaaa64c64b2a6a" sha1="be6b15b5d134b943ebc6c416ef2468b64546b25a" date="1997-09-10 21:47:24"/>
+		<rom name="KEEPER/LEVELS/MAP00147.WIB" size="65536" crc="de659af4" md5="92178c543293cdb982d35c85321105ba" sha1="e0460b45641486c76d4f0de8965c334a23a819a8" date="1997-09-17 22:09:22"/>
+		<rom name="KEEPER/LEVELS/MAP00147.WLB" size="7225" crc="86c8fcdd" md5="be526e610b3a981f0f401986975124d4" sha1="0cbf97c5e9dc25e33afeec4731b35c94602dfe53" date="1997-09-17 22:09:22"/>
+		<rom name="KEEPER/LEVELS/MAP00149.APT" size="4" crc="2144df1c" md5="f1d3ff8443297732862df21dc4e57262" sha1="9069ca78e7450a285173431b3e52c5c25299e473" date="1997-09-17 22:13:08"/>
+		<rom name="KEEPER/LEVELS/MAP00149.CLM" size="49160" crc="387cf48c" md5="bcd83a1f07d135b2e4bb2b1e6a0e6fe1" sha1="29210f6a7a681755c34aa9c765a9aee401af3c0d" date="1997-09-17 22:13:08"/>
+		<rom name="KEEPER/LEVELS/MAP00149.DAT" size="131072" crc="e587d6a2" md5="0b38423e6526848bdaedb373969735e1" sha1="f63bdb6c9e9252867d4d7bb10cb4f54948fff914" date="1997-09-17 22:13:08"/>
+		<rom name="KEEPER/LEVELS/MAP00149.INF" size="1" crc="3b614ab8" md5="06eca1b437c7904cc3ce6546c8110110" sha1="2d0134ed3b9de132c720fe697b532b4c232ff9fe" date="1997-09-17 22:13:08"/>
+		<rom name="KEEPER/LEVELS/MAP00149.LGT" size="164" crc="14e47281" md5="dc717a4fef8a387b7c24a02c59d0a010" sha1="a4dabc52572e69a87d13ab6cfb10c04f55f5d6c0" date="1997-09-17 22:13:08"/>
+		<rom name="KEEPER/LEVELS/MAP00149.OWN" size="65536" crc="5e286440" md5="ba8870f57678a984e2bec73c44ff0cea" sha1="087fab668b3aeadab4e7a08c3217c93c34dee68c" date="1997-09-17 22:13:08"/>
+		<rom name="KEEPER/LEVELS/MAP00149.SLB" size="14450" crc="2ef98d11" md5="d52336b95c470f4d511de5ccbcf01d09" sha1="dcb675ff57252037f5f06bf806d44726091d47b8" date="1997-09-17 22:13:08"/>
+		<rom name="KEEPER/LEVELS/MAP00149.TNG" size="4076" crc="e172258d" md5="61aa62d4a6c87b95d6673bf529e8feca" sha1="e52ea41dfbf89e8215c87df5e0fb376be2cdc403" date="1997-09-17 22:13:08"/>
+		<rom name="KEEPER/LEVELS/MAP00149.TXT" size="2384" crc="3d0a0e16" md5="529205d40d9c9c7fb4bb08fbe32b22eb" sha1="6523da88d9f4e74575b263b4bdce801cf7ebdfc8" date="1997-09-11 01:12:54"/>
+		<rom name="KEEPER/LEVELS/MAP00149.WIB" size="65536" crc="a68d83cd" md5="d21feb168e23ef21d786a93887c509f5" sha1="597c4e913c785c7ef922324dae75b7bbce1fd836" date="1997-09-17 22:13:08"/>
+		<rom name="KEEPER/LEVELS/MAP00149.WLB" size="7225" crc="cd846ce5" md5="8c36fa867f170d197dfdd18ba56c82ed" sha1="b1b5eb5eafd822cf5edf641cc585d9f0bbb2ab63" date="1997-09-17 22:13:08"/>
+		<rom name="KEEPER/LEVELS/MAP00150.APT" size="4" crc="2144df1c" md5="f1d3ff8443297732862df21dc4e57262" sha1="9069ca78e7450a285173431b3e52c5c25299e473" date="1997-09-17 22:13:36"/>
+		<rom name="KEEPER/LEVELS/MAP00150.CLM" size="49160" crc="57247f47" md5="db0bd87ca08b88acdd65314d4d98ba62" sha1="334e7d7e9350c853a74e512c2726973692e0e891" date="1997-09-17 22:13:36"/>
+		<rom name="KEEPER/LEVELS/MAP00150.DAT" size="131072" crc="e3524334" md5="53fed5a26ec9f85556f6f64713957892" sha1="1d06144e9bf87aaa159c95f0005be89b15ad6412" date="1997-09-17 22:13:36"/>
+		<rom name="KEEPER/LEVELS/MAP00150.INF" size="1" crc="4c667a2e" md5="89e74e640b8c46257a29de0616794d5d" sha1="5d1be7e9dda1ee8896be5b7e34a85ee16452a7b4" date="1997-09-17 22:13:36"/>
+		<rom name="KEEPER/LEVELS/MAP00150.LGT" size="244" crc="2999b8ce" md5="bcd3fe10def51831426c44ba50df90ba" sha1="dd24f25950d2de758dfee905e630ebc51de6a3d1" date="1997-09-17 22:13:36"/>
+		<rom name="KEEPER/LEVELS/MAP00150.OWN" size="65536" crc="948ce5f7" md5="124319083bcecb2255a8d5111b7a0478" sha1="58419e0d7d4af470586b30edf6c7ca7c82a63f58" date="1997-09-17 22:13:36"/>
+		<rom name="KEEPER/LEVELS/MAP00150.SLB" size="14450" crc="42649186" md5="e4da7005d1a9d038054f3ba19ded0d8c" sha1="4c9fc33fd29106e9e3642a76c622cf3c51a60c08" date="1997-09-17 22:13:36"/>
+		<rom name="KEEPER/LEVELS/MAP00150.TNG" size="7100" crc="444f36e0" md5="759486bd8aa273c8b3e92c8b56039fb3" sha1="a04879e54a32969375013f0e31c685a96c6cbf3e" date="1997-09-17 22:13:36"/>
+		<rom name="KEEPER/LEVELS/MAP00150.TXT" size="3193" crc="1a3f1059" md5="9038cba246cc2e2ebfe49dcd87112934" sha1="16023a40052a71af4167445cd9b42eb396be98e4" date="1997-08-15 01:25:42"/>
+		<rom name="KEEPER/LEVELS/MAP00150.WIB" size="65536" crc="cf1fdaa5" md5="99dd4e282a7e14f88d8a050103c1c4ed" sha1="8514517d4542b25778ce070405f5b32bbae8907e" date="1997-09-17 22:13:36"/>
+		<rom name="KEEPER/LEVELS/MAP00150.WLB" size="7225" crc="ab6cb245" md5="bf714fe67f50a8d64f5315720539983c" sha1="1a1d4f15b4887a0c35c02a69e5239e3b54d6cc57" date="1997-09-17 22:13:36"/>
+		<rom name="KEEPER/SAVE/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-12-31 00:00:00"/>
+		<rom name="KEEPER/WINSETUP/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-10-23 03:11:38"/>
+		<rom name="KEEPER/WINSETUP/_INST32I.EX_" size="306748" crc="109e4b5a" md5="9294ec2b510f469ef95242275dbc5ad0" sha1="b3301f6ed67ea8f451c72780acee5c79dbe685a3" date="1996-02-18 03:33:06"/>
+		<rom name="KEEPER/WINSETUP/_ISDEL.EXE" size="8192" crc="db6ff40d" md5="c3200e3277aef0e5d150d797aa62d55f" sha1="fe96bd82d167f50cb8cd9c9a32d72b77f45f8002" date="1995-09-07 05:22:40"/>
+		<rom name="KEEPER/WINSETUP/_SETUP.DLL" size="10752" crc="838cf8c9" md5="c56a2555964ea49bc8d893b199b69f93" sha1="140bee85e817a79d5ccc1d1e8e1d66199e41ffbe" date="1995-09-25 10:33:58"/>
+		<rom name="KEEPER/WINSETUP/_SETUP.LIB" size="43957" crc="88785da6" md5="3884706f30742ef8b3940f12a801260e" sha1="899ab624d314c51a245bd48c2ebb23c0e6065f93" date="1996-01-23 02:34:10"/>
+		<rom name="KEEPER/WINSETUP/ART/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-10-23 03:11:38"/>
+		<rom name="KEEPER/WINSETUP/ART/BACK.BMP" size="308278" crc="255dac2a" md5="2b45c577f00fcaa44144d203874ff564" sha1="4973e8caee66df47c0dd87967e4e4ff7a0e8124e" date="1997-05-08 21:11:02"/>
+		<rom name="KEEPER/WINSETUP/DUTCH/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-10-23 03:11:38"/>
+		<rom name="KEEPER/WINSETUP/DUTCH/_INST32I.EX_" size="306748" crc="109e4b5a" md5="9294ec2b510f469ef95242275dbc5ad0" sha1="b3301f6ed67ea8f451c72780acee5c79dbe685a3" date="1996-02-18 03:33:06"/>
+		<rom name="KEEPER/WINSETUP/DUTCH/_ISDEL.EXE" size="8192" crc="db6ff40d" md5="c3200e3277aef0e5d150d797aa62d55f" sha1="fe96bd82d167f50cb8cd9c9a32d72b77f45f8002" date="1995-09-07 05:22:40"/>
+		<rom name="KEEPER/WINSETUP/DUTCH/_ISRES.DLL" size="92160" crc="6cd69526" md5="3912d37b783e15cadbeadbb4e9529708" sha1="cf3a1b2857f26b14f4fd1eee768de917574f8315" date="1996-02-15 04:48:00"/>
+		<rom name="KEEPER/WINSETUP/DUTCH/_SETUP.DLL" size="10240" crc="50ebfc6a" md5="951df2512795a11dbea4d1c808657738" sha1="5a7527cee3e59de2fbe1f5aa415f46eccefc5783" date="1996-02-19 02:24:24"/>
+		<rom name="KEEPER/WINSETUP/DUTCH/_SETUP.LIB" size="44335" crc="85870de2" md5="8fe62a1b81ec62c893ea55791775bf1c" sha1="ed529c1a672685ecc1283d947d44c8dd95a37f68" date="1996-02-20 23:28:28"/>
+		<rom name="KEEPER/WINSETUP/DUTCH/DISK1.ID" size="3" crc="f0145bb1" md5="658b5d7ffc63ba3b327351d7c29d6c7b" sha1="2c6139739a1beef58d9671e1622c0e8b96ba9125" date="1995-04-30 21:01:06"/>
+		<rom name="KEEPER/WINSETUP/DUTCH/ITEXT.TXT" size="1753" crc="ef04b09a" md5="2deca42f2fa6ab350270830df81e8f90" sha1="79015ca1c8cbb53cda78a9b67e5df58bf9ce65ac" date="1997-09-28 21:38:46"/>
+		<rom name="KEEPER/WINSETUP/DUTCH/LISTDAT.TXT" size="94" crc="3aed2217" md5="ca7599d56da30599b25287c48e11b416" sha1="d2cb1fc795ad090273a7952b178dd531fd10ad00" date="1997-09-18 03:55:34"/>
+		<rom name="KEEPER/WINSETUP/DUTCH/PACKLIST.BAK" size="803" crc="1c1c5c32" md5="e260a03d0fb8f42e11dcd4a847ac8333" sha1="671c7a018a2a9b18dee50f5ec95db32fdd83fac6" date="1997-09-22 04:50:10"/>
+		<rom name="KEEPER/WINSETUP/DUTCH/PACKLIST.TXT" size="799" crc="ab2a5028" md5="a5ebabb1ed03742102f73e0501dc6596" sha1="42f7c591483be5f67f7365089eff514406b70ac5" date="1997-09-28 22:57:04"/>
+		<rom name="KEEPER/WINSETUP/DUTCH/SETUP.DBG" size="21626" crc="38f2e23f" md5="b4e1cfd4fa944976ac91e7d144ad553e" sha1="8cedbae5bf5c12e06df2a390acb75559ca821b24" date="1997-03-17 02:01:38"/>
+		<rom name="KEEPER/WINSETUP/DUTCH/SETUP.EXE" size="47616" crc="6976ee0e" md5="e6799bde5dbd22a1e240eae3f0f3397f" sha1="b5180cec2c08ce1ff8580672acf8391f3c9fd705" date="1996-02-18 03:18:54"/>
+		<rom name="KEEPER/WINSETUP/DUTCH/SETUP.INI" size="58" crc="20c26b8d" md5="179daa7be5a5180346612cafb7456a91" sha1="91975e6130e4777276dc15748d5a2e7f9b100d8e" date="1997-09-18 00:35:24"/>
+		<rom name="KEEPER/WINSETUP/DUTCH/SETUP.INS" size="59999" crc="7186843d" md5="96867a309d1b491565e981724fc16dde" sha1="5ef331be796d6ffe104bd179e9121be2da9d9c2f" date="1997-10-08 03:28:02"/>
+		<rom name="KEEPER/WINSETUP/DUTCH/SETUP.PKG" size="418" crc="ad8b17ee" md5="83d096cb187b078d2385f6dc613f4f67" sha1="b1c8fa9f6a96d028cbc8e1ace2eaf51aba15b59c" date="1997-09-28 22:58:14"/>
+		<rom name="KEEPER/WINSETUP/DUTCH/SETUP.RUL" size="12625" crc="a0214eeb" md5="bd12fa362d2c5ee78979343f7c2b8867" sha1="8643f94b6269b376774764d510c75f1f91a18eb8" date="1997-10-08 03:23:24"/>
+		<rom name="KEEPER/WINSETUP/DUTCH/UNINST.EXE" size="284160" crc="3391abdc" md5="05e04e16e0d92cc2844183a6cda12e83" sha1="df93a676155aa32e3611244eae944f130b86d624" date="1996-02-07 19:52:06"/>
+		<rom name="KEEPER/WINSETUP/ENGLISH/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-10-23 03:11:38"/>
+		<rom name="KEEPER/WINSETUP/ENGLISH/_INST32I.EX_" size="306748" crc="109e4b5a" md5="9294ec2b510f469ef95242275dbc5ad0" sha1="b3301f6ed67ea8f451c72780acee5c79dbe685a3" date="1996-02-18 03:33:06"/>
+		<rom name="KEEPER/WINSETUP/ENGLISH/_ISDEL.EXE" size="8192" crc="db6ff40d" md5="c3200e3277aef0e5d150d797aa62d55f" sha1="fe96bd82d167f50cb8cd9c9a32d72b77f45f8002" date="1995-09-07 05:22:40"/>
+		<rom name="KEEPER/WINSETUP/ENGLISH/_SETUP.DLL" size="10752" crc="838cf8c9" md5="c56a2555964ea49bc8d893b199b69f93" sha1="140bee85e817a79d5ccc1d1e8e1d66199e41ffbe" date="1995-09-25 10:33:58"/>
+		<rom name="KEEPER/WINSETUP/ENGLISH/_SETUP.LIB" size="43957" crc="88785da6" md5="3884706f30742ef8b3940f12a801260e" sha1="899ab624d314c51a245bd48c2ebb23c0e6065f93" date="1996-01-23 02:34:10"/>
+		<rom name="KEEPER/WINSETUP/ENGLISH/DISK1.ID" size="3" crc="f0145bb1" md5="658b5d7ffc63ba3b327351d7c29d6c7b" sha1="2c6139739a1beef58d9671e1622c0e8b96ba9125" date="1995-04-30 21:01:06"/>
+		<rom name="KEEPER/WINSETUP/ENGLISH/ITEXT.TXT" size="1752" crc="53ed1088" md5="05f5b4b24b39ce20c23a2ef8dd2b7577" sha1="89f6b9f952127551aaa0cad42fde5306758d1627" date="1997-10-07 21:58:20"/>
+		<rom name="KEEPER/WINSETUP/ENGLISH/LISTDAT.TXT" size="94" crc="3aed2217" md5="ca7599d56da30599b25287c48e11b416" sha1="d2cb1fc795ad090273a7952b178dd531fd10ad00" date="1997-09-18 03:55:34"/>
+		<rom name="KEEPER/WINSETUP/ENGLISH/PACKLIST.T" size="722" crc="12be5d46" md5="c4cb95c82bacccf335717e06ec2819fc" sha1="218f4bb26104752c8154213607610254c06e9ecb" date="1997-09-22 04:49:48"/>
+		<rom name="KEEPER/WINSETUP/ENGLISH/PACKLIST.TXT" size="803" crc="1c1c5c32" md5="e260a03d0fb8f42e11dcd4a847ac8333" sha1="671c7a018a2a9b18dee50f5ec95db32fdd83fac6" date="1997-09-22 04:50:10"/>
+		<rom name="KEEPER/WINSETUP/ENGLISH/SETUP.BAK" size="15900" crc="174f87bc" md5="7626a9150174eb939c53c6fa37d586a2" sha1="a9bdb383bb645fb61b863c217bafd958f29f2c1b" date="1997-04-15 22:27:22"/>
+		<rom name="KEEPER/WINSETUP/ENGLISH/SETUP.DBG" size="22090" crc="40974a87" md5="0fbde41972d3c537cf724e192974493f" sha1="59d25b4bd65d3405bfca8a6616786e3359e54249" date="1997-05-20 21:28:00"/>
+		<rom name="KEEPER/WINSETUP/ENGLISH/SETUP.EXE" size="47616" crc="6976ee0e" md5="e6799bde5dbd22a1e240eae3f0f3397f" sha1="b5180cec2c08ce1ff8580672acf8391f3c9fd705" date="1996-02-18 03:18:54"/>
+		<rom name="KEEPER/WINSETUP/ENGLISH/SETUP.INI" size="58" crc="20c26b8d" md5="179daa7be5a5180346612cafb7456a91" sha1="91975e6130e4777276dc15748d5a2e7f9b100d8e" date="1997-09-18 00:35:24"/>
+		<rom name="KEEPER/WINSETUP/ENGLISH/SETUP.INS" size="60011" crc="a9869185" md5="083753f5a78b19578b53043356d07cbe" sha1="5f6ef83bd28362335351a37ab0e786156fd3e7d0" date="1997-10-08 03:26:28"/>
+		<rom name="KEEPER/WINSETUP/ENGLISH/SETUP.PKG" size="420" crc="42a4ec2c" md5="2afece2dfe5c92277394f6d4c94eb7d9" sha1="2b6f02ac3fedc35f3857ffbe69895b990d4fd871" date="1997-09-28 22:55:16"/>
+		<rom name="KEEPER/WINSETUP/ENGLISH/SETUP.RUL" size="12637" crc="8681c2a6" md5="5c5fe5eb2dab1a6c7b0b201804f610c6" sha1="c58bdd89b6b72cefbeec4d05a4f25127944729dc" date="1997-10-08 03:22:42"/>
+		<rom name="KEEPER/WINSETUP/ENGLISH/STATE.RST" size="289" crc="187c0f55" md5="e7223a9a35e4e6f43987ecef0d8e1d4a" sha1="ec4d0b6e7c9ca5b8ad3e472c5bc65c927588ff5c" date="1997-06-05 11:43:16"/>
+		<rom name="KEEPER/WINSETUP/ENGLISH/UNINST.EXE" size="283648" crc="7062b2d4" md5="aede1bf4042e5960bd177d2d4c32abe8" sha1="2f552e287fa2bf057ad13956447618235d22ac07" date="1996-01-08 20:38:54"/>
+		<rom name="KEEPER/WINSETUP/FRENCH/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-10-23 03:11:38"/>
+		<rom name="KEEPER/WINSETUP/FRENCH/_INST32I.EX_" size="306748" crc="109e4b5a" md5="9294ec2b510f469ef95242275dbc5ad0" sha1="b3301f6ed67ea8f451c72780acee5c79dbe685a3" date="1996-02-18 03:33:06"/>
+		<rom name="KEEPER/WINSETUP/FRENCH/_ISDEL.EXE" size="8192" crc="db6ff40d" md5="c3200e3277aef0e5d150d797aa62d55f" sha1="fe96bd82d167f50cb8cd9c9a32d72b77f45f8002" date="1995-09-07 05:22:40"/>
+		<rom name="KEEPER/WINSETUP/FRENCH/_ISRES.DLL" size="103424" crc="4ff2f39a" md5="85e5264ddbd17c33608c8a5e722c0bd8" sha1="8f9430c261c802f155ed6be4f26c66c4e6f44f53" date="1996-02-19 19:20:20"/>
+		<rom name="KEEPER/WINSETUP/FRENCH/_SETUP.DLL" size="10240" crc="57dec0d0" md5="7d43aed8798d5657a08ab0376b1e815d" sha1="338901aedcf6baab0d34b6866261ef509778dd57" date="1996-02-07 19:54:34"/>
+		<rom name="KEEPER/WINSETUP/FRENCH/_SETUP.LIB" size="45242" crc="b9124dd5" md5="e1646045d8394fcd4cdfd21b2201f12c" sha1="8886f9423c9d8a5bf0de907d61c42a830eba48d4" date="1996-02-20 23:28:52"/>
+		<rom name="KEEPER/WINSETUP/FRENCH/DATALIST.BAK" size="9213" crc="9212d84b" md5="aa5fd6dce9b40febdccc706fe13688a1" sha1="8f4c3763033ffc1cf35f0f3df6805c0d6f97fa52" date="1997-04-22 06:35:32"/>
+		<rom name="KEEPER/WINSETUP/FRENCH/DISK1.ID" size="3" crc="f0145bb1" md5="658b5d7ffc63ba3b327351d7c29d6c7b" sha1="2c6139739a1beef58d9671e1622c0e8b96ba9125" date="1995-04-30 21:01:06"/>
+		<rom name="KEEPER/WINSETUP/FRENCH/ITEXT.TXT" size="1553" crc="d4a38ce3" md5="2d485aac272bd46702d3d4ba52f8f36c" sha1="adb4d0287eabe4bf27696f45794e9e064cd46fef" date="1997-09-28 21:38:26"/>
+		<rom name="KEEPER/WINSETUP/FRENCH/LISTDAT.TXT" size="94" crc="3aed2217" md5="ca7599d56da30599b25287c48e11b416" sha1="d2cb1fc795ad090273a7952b178dd531fd10ad00" date="1997-09-18 03:55:34"/>
+		<rom name="KEEPER/WINSETUP/FRENCH/PACKLIST.BAK" size="737" crc="bea65db3" md5="fec2e032d3c0f6460216e428c52a9dcf" sha1="ca84a27bfc9bf0be5a9321b2c9f243266223e790" date="1997-09-17 21:31:36"/>
+		<rom name="KEEPER/WINSETUP/FRENCH/PACKLIST.TX" size="803" crc="1c1c5c32" md5="e260a03d0fb8f42e11dcd4a847ac8333" sha1="671c7a018a2a9b18dee50f5ec95db32fdd83fac6" date="1997-09-22 04:50:10"/>
+		<rom name="KEEPER/WINSETUP/FRENCH/PACKLIST.TXT" size="801" crc="89b7d2b4" md5="43df2be3d30a14109d005b42cf917cad" sha1="2fd79986863d8b383f030d39fe12893e5dea18ff" date="1997-09-28 22:56:38"/>
+		<rom name="KEEPER/WINSETUP/FRENCH/SETUP.DBG" size="21626" crc="38f2e23f" md5="b4e1cfd4fa944976ac91e7d144ad553e" sha1="8cedbae5bf5c12e06df2a390acb75559ca821b24" date="1997-03-17 02:01:38"/>
+		<rom name="KEEPER/WINSETUP/FRENCH/SETUP.EXE" size="47616" crc="6976ee0e" md5="e6799bde5dbd22a1e240eae3f0f3397f" sha1="b5180cec2c08ce1ff8580672acf8391f3c9fd705" date="1996-02-18 03:18:54"/>
+		<rom name="KEEPER/WINSETUP/FRENCH/SETUP.INI" size="58" crc="20c26b8d" md5="179daa7be5a5180346612cafb7456a91" sha1="91975e6130e4777276dc15748d5a2e7f9b100d8e" date="1997-09-18 00:35:24"/>
+		<rom name="KEEPER/WINSETUP/FRENCH/SETUP.INS" size="60000" crc="05c24697" md5="22d8e8ffa028373ded156be32e18b726" sha1="3a6a76ec75ce1800d3757137bf26f6ab074f71a0" date="1997-10-08 03:27:06"/>
+		<rom name="KEEPER/WINSETUP/FRENCH/SETUP.PKG" size="419" crc="a7869d89" md5="aeecd1224989ae7e78f016049c45f32e" sha1="99a464ea66ecf3aac62bfbfa6f0d84f75f9c7fae" date="1997-09-28 22:58:02"/>
+		<rom name="KEEPER/WINSETUP/FRENCH/SETUP.RUL" size="12626" crc="49841b52" md5="f0372da77b9b47e6580626dafa1e599d" sha1="9a3ccb98dcb398c2fabdb3c86c6a8c8133f67c13" date="1997-10-08 03:23:40"/>
+		<rom name="KEEPER/WINSETUP/FRENCH/UNINST.EXE" size="284160" crc="3a726f86" md5="32a7dcb9f65f4c7c0bec38c6f1899f35" sha1="3900a0e343159e42cd9ff630e9bce5eb26b08f6c" date="1996-02-07 19:54:24"/>
+		<rom name="KEEPER/WINSETUP/GERMAN/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-10-23 03:11:38"/>
+		<rom name="KEEPER/WINSETUP/GERMAN/_INST32I.EX_" size="306748" crc="109e4b5a" md5="9294ec2b510f469ef95242275dbc5ad0" sha1="b3301f6ed67ea8f451c72780acee5c79dbe685a3" date="1996-02-18 03:33:06"/>
+		<rom name="KEEPER/WINSETUP/GERMAN/_ISDEL.EXE" size="8192" crc="db6ff40d" md5="c3200e3277aef0e5d150d797aa62d55f" sha1="fe96bd82d167f50cb8cd9c9a32d72b77f45f8002" date="1995-09-07 05:22:40"/>
+		<rom name="KEEPER/WINSETUP/GERMAN/_ISRES.DLL" size="107008" crc="27ab1817" md5="42294df48c1cf2e6688723f38759add9" sha1="d480e6f05a916a3b48e209c4dfbd9e7db1affaa0" date="1996-02-20 22:15:24"/>
+		<rom name="KEEPER/WINSETUP/GERMAN/_SETUP.DLL" size="10752" crc="96b8076b" md5="1e4f8e41182f98496ccba5ef0dd70803" sha1="82809ea3217b2fc3820b0a8c9dd45060aa160005" date="1996-02-19 02:22:10"/>
+		<rom name="KEEPER/WINSETUP/GERMAN/_SETUP.LIB" size="45387" crc="d9ba9367" md5="f68486c4f745015df7777123f5a7bef7" sha1="05b0c7c68dc1f0e6108754cc7e4d2d76d7f0c896" date="1996-02-20 23:28:54"/>
+		<rom name="KEEPER/WINSETUP/GERMAN/DATALIST.BAK" size="9213" crc="9212d84b" md5="aa5fd6dce9b40febdccc706fe13688a1" sha1="8f4c3763033ffc1cf35f0f3df6805c0d6f97fa52" date="1997-04-22 06:35:32"/>
+		<rom name="KEEPER/WINSETUP/GERMAN/DISK1.ID" size="3" crc="f0145bb1" md5="658b5d7ffc63ba3b327351d7c29d6c7b" sha1="2c6139739a1beef58d9671e1622c0e8b96ba9125" date="1995-04-30 21:01:06"/>
+		<rom name="KEEPER/WINSETUP/GERMAN/ITEXT.TXT" size="1843" crc="2a0f970d" md5="7dfb66eef395da600edb13dba06d5c47" sha1="29a0b3847bbee1bf55cf2be4451d0799eb0d714c" date="1997-09-28 21:38:10"/>
+		<rom name="KEEPER/WINSETUP/GERMAN/LISTDAT.TXT" size="94" crc="3aed2217" md5="ca7599d56da30599b25287c48e11b416" sha1="d2cb1fc795ad090273a7952b178dd531fd10ad00" date="1997-09-18 03:55:34"/>
+		<rom name="KEEPER/WINSETUP/GERMAN/PACKLIST.BAK" size="737" crc="bea65db3" md5="fec2e032d3c0f6460216e428c52a9dcf" sha1="ca84a27bfc9bf0be5a9321b2c9f243266223e790" date="1997-09-17 21:31:36"/>
+		<rom name="KEEPER/WINSETUP/GERMAN/PACKLIST.TX" size="803" crc="1c1c5c32" md5="e260a03d0fb8f42e11dcd4a847ac8333" sha1="671c7a018a2a9b18dee50f5ec95db32fdd83fac6" date="1997-09-22 04:50:10"/>
+		<rom name="KEEPER/WINSETUP/GERMAN/PACKLIST.TXT" size="801" crc="c589be9d" md5="ad599559f65d522f7ea0d51e8aa37f29" sha1="303059e64a4a850656b987fa0161568ea3e049e8" date="1997-09-28 22:56:52"/>
+		<rom name="KEEPER/WINSETUP/GERMAN/SETUP.DBG" size="21626" crc="38f2e23f" md5="b4e1cfd4fa944976ac91e7d144ad553e" sha1="8cedbae5bf5c12e06df2a390acb75559ca821b24" date="1997-03-17 02:01:38"/>
+		<rom name="KEEPER/WINSETUP/GERMAN/SETUP.EXE" size="47616" crc="6976ee0e" md5="e6799bde5dbd22a1e240eae3f0f3397f" sha1="b5180cec2c08ce1ff8580672acf8391f3c9fd705" date="1996-02-18 03:18:54"/>
+		<rom name="KEEPER/WINSETUP/GERMAN/SETUP.INI" size="58" crc="20c26b8d" md5="179daa7be5a5180346612cafb7456a91" sha1="91975e6130e4777276dc15748d5a2e7f9b100d8e" date="1997-09-18 00:35:24"/>
+		<rom name="KEEPER/WINSETUP/GERMAN/SETUP.INS" size="60000" crc="9fb2bbaf" md5="f201b754a90228f9fb7133057f6de704" sha1="974ac911bf55e535b208ff86ac6856dc8dec3889" date="1997-10-08 03:27:18"/>
+		<rom name="KEEPER/WINSETUP/GERMAN/SETUP.PKG" size="419" crc="d4c4488f" md5="b0ee544e75e942f60cd9e6c85b1ea78d" sha1="5beb3f41bd3e3ea640749fd513b33dc02bb6900d" date="1997-09-28 22:58:06"/>
+		<rom name="KEEPER/WINSETUP/GERMAN/SETUP.RUL" size="12626" crc="dc65dd10" md5="e4bfda3743ca4496e04069d42eae1b5e" sha1="99e60fbbdb104dcdc61d93766dc7dfb5bd780f5b" date="1997-10-08 03:23:50"/>
+		<rom name="KEEPER/WINSETUP/GERMAN/UNINST.EXE" size="284160" crc="7c68d548" md5="7b26e3693d2bff085c371d3ba3d5d2e9" sha1="3af0152af431eabc229584201f09da7b3198411c" date="1996-02-08 03:06:18"/>
+		<rom name="KEEPER/WINSETUP/ISDBGN.DLL" size="129536" crc="9c251b9c" md5="af27400c04853a40206e5e5f8606f39e" sha1="6d7409a6fda2307015777bcc5c2f16d574cf5b21" date="1995-10-01 22:26:48"/>
+		<rom name="KEEPER/WINSETUP/ITALIAN/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-10-23 03:11:38"/>
+		<rom name="KEEPER/WINSETUP/ITALIAN/_INST32I.EX_" size="306748" crc="109e4b5a" md5="9294ec2b510f469ef95242275dbc5ad0" sha1="b3301f6ed67ea8f451c72780acee5c79dbe685a3" date="1996-02-18 03:33:06"/>
+		<rom name="KEEPER/WINSETUP/ITALIAN/_ISDEL.EXE" size="8192" crc="db6ff40d" md5="c3200e3277aef0e5d150d797aa62d55f" sha1="fe96bd82d167f50cb8cd9c9a32d72b77f45f8002" date="1995-09-07 05:22:40"/>
+		<rom name="KEEPER/WINSETUP/ITALIAN/_ISRES.DLL" size="103424" crc="00639ca2" md5="6eff2f36de94e1d0fe4dc394f99e3709" sha1="7fef5024e70ba29d29c42aba9731bfd85398ba49" date="1996-02-15 04:49:52"/>
+		<rom name="KEEPER/WINSETUP/ITALIAN/_SETUP.DLL" size="10752" crc="bfbc1f65" md5="90a80907834021e55375b70ca7a16354" sha1="a6a0c0599c3e00c0e70cfee3b22ce4a49b91f54b" date="1996-02-08 03:07:42"/>
+		<rom name="KEEPER/WINSETUP/ITALIAN/_SETUP.LIB" size="44784" crc="d8f3625e" md5="633bf0f3de96b47d73056b0dcfd22e53" sha1="6d46c47c318ac973fd0fc0d84fc64597e5474c64" date="1996-02-20 23:28:58"/>
+		<rom name="KEEPER/WINSETUP/ITALIAN/DATALIST.BAK" size="9213" crc="9212d84b" md5="aa5fd6dce9b40febdccc706fe13688a1" sha1="8f4c3763033ffc1cf35f0f3df6805c0d6f97fa52" date="1997-04-22 06:35:32"/>
+		<rom name="KEEPER/WINSETUP/ITALIAN/DISK1.ID" size="3" crc="f0145bb1" md5="658b5d7ffc63ba3b327351d7c29d6c7b" sha1="2c6139739a1beef58d9671e1622c0e8b96ba9125" date="1995-04-30 21:01:06"/>
+		<rom name="KEEPER/WINSETUP/ITALIAN/ITEXT.TXT" size="1693" crc="c3d9fd01" md5="9bde4cb4280861c12ce81815339d9382" sha1="8081bec3ed49ad81db734688da341989d0231b62" date="1997-09-28 21:38:02"/>
+		<rom name="KEEPER/WINSETUP/ITALIAN/LISTDAT.TXT" size="94" crc="3aed2217" md5="ca7599d56da30599b25287c48e11b416" sha1="d2cb1fc795ad090273a7952b178dd531fd10ad00" date="1997-09-18 03:55:34"/>
+		<rom name="KEEPER/WINSETUP/ITALIAN/PACKLIST.BAK" size="737" crc="bea65db3" md5="fec2e032d3c0f6460216e428c52a9dcf" sha1="ca84a27bfc9bf0be5a9321b2c9f243266223e790" date="1997-09-17 21:31:36"/>
+		<rom name="KEEPER/WINSETUP/ITALIAN/PACKLIST.T" size="803" crc="1c1c5c32" md5="e260a03d0fb8f42e11dcd4a847ac8333" sha1="671c7a018a2a9b18dee50f5ec95db32fdd83fac6" date="1997-09-22 04:50:10"/>
+		<rom name="KEEPER/WINSETUP/ITALIAN/PACKLIST.TXT" size="803" crc="2f2c2880" md5="b99e5b6954c956055f88e9352d42bc1a" sha1="affd358d976473f899c3e8ac80a261711e737f8e" date="1997-09-28 22:57:14"/>
+		<rom name="KEEPER/WINSETUP/ITALIAN/SETUP.DBG" size="21626" crc="38f2e23f" md5="b4e1cfd4fa944976ac91e7d144ad553e" sha1="8cedbae5bf5c12e06df2a390acb75559ca821b24" date="1997-03-17 02:01:38"/>
+		<rom name="KEEPER/WINSETUP/ITALIAN/SETUP.EXE" size="47616" crc="6976ee0e" md5="e6799bde5dbd22a1e240eae3f0f3397f" sha1="b5180cec2c08ce1ff8580672acf8391f3c9fd705" date="1996-02-18 03:18:54"/>
+		<rom name="KEEPER/WINSETUP/ITALIAN/SETUP.INI" size="58" crc="20c26b8d" md5="179daa7be5a5180346612cafb7456a91" sha1="91975e6130e4777276dc15748d5a2e7f9b100d8e" date="1997-09-18 00:35:24"/>
+		<rom name="KEEPER/WINSETUP/ITALIAN/SETUP.INS" size="60001" crc="96519f86" md5="bbda730738743844ebf8942633373043" sha1="0f2a2e00a921e496b02e4a6348423a3affa78429" date="1997-10-08 03:27:38"/>
+		<rom name="KEEPER/WINSETUP/ITALIAN/SETUP.PKG" size="420" crc="472fa55e" md5="fe76472c2e4c068d0f6ca2a467601b62" sha1="31df171fb9fb5fea0a089584cde978a5fd2cf0d5" date="1997-09-28 22:58:18"/>
+		<rom name="KEEPER/WINSETUP/ITALIAN/SETUP.RUL" size="12627" crc="f152acce" md5="8616242604a23b6cf37a43e500a1813e" sha1="696066a43132f52fa1f1a4b0bfef895e6b672184" date="1997-10-08 03:24:00"/>
+		<rom name="KEEPER/WINSETUP/ITALIAN/UNINST.EXE" size="284160" crc="117c3072" md5="b68dc056a703c5b54655ad764c18c8b7" sha1="f32f8a86a6262fbdbe67245914baa7886f614f11" date="1996-02-08 03:07:32"/>
+		<rom name="KEEPER/WINSETUP/PACKALL.BAT" size="353" crc="09949da5" md5="30a3056486430f81c7178fa2039fdef3" sha1="da0d5e184d52e267a1c89112f50f70dc7f4a6fc6" date="1997-09-28 22:52:16"/>
+		<rom name="KEEPER/WINSETUP/POLISH/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-10-23 03:11:38"/>
+		<rom name="KEEPER/WINSETUP/POLISH/_INST32I.EX_" size="306748" crc="109e4b5a" md5="9294ec2b510f469ef95242275dbc5ad0" sha1="b3301f6ed67ea8f451c72780acee5c79dbe685a3" date="1996-02-18 03:33:06"/>
+		<rom name="KEEPER/WINSETUP/POLISH/_ISDEL.EXE" size="8192" crc="db6ff40d" md5="c3200e3277aef0e5d150d797aa62d55f" sha1="fe96bd82d167f50cb8cd9c9a32d72b77f45f8002" date="1995-09-07 05:22:40"/>
+		<rom name="KEEPER/WINSETUP/POLISH/_ISRES.DLL" size="92672" crc="f16ca83a" md5="a5995d627e3c1f5d7278f719ac5e1c6a" sha1="af7d22d1172e429380018c3df3ee7929bf53c1a2" date="1996-02-15 04:51:58"/>
+		<rom name="KEEPER/WINSETUP/POLISH/_SETUP.DLL" size="10752" crc="c6f65bc4" md5="43529a927d934dad875ee80418d9a75d" sha1="97e6290a34066acce123bfa4fce006987f55ede1" date="1996-02-07 20:05:26"/>
+		<rom name="KEEPER/WINSETUP/POLISH/_SETUP.LIB" size="44783" crc="b53754c0" md5="e13e4c0cbda83a2c75f11e7b4a26b997" sha1="3fb4b89042a82610a81545611a6a1cd96673fb83" date="1996-02-20 23:29:20"/>
+		<rom name="KEEPER/WINSETUP/POLISH/DATALIST.BAK" size="9213" crc="9212d84b" md5="aa5fd6dce9b40febdccc706fe13688a1" sha1="8f4c3763033ffc1cf35f0f3df6805c0d6f97fa52" date="1997-04-22 06:35:32"/>
+		<rom name="KEEPER/WINSETUP/POLISH/DISK1.ID" size="3" crc="f0145bb1" md5="658b5d7ffc63ba3b327351d7c29d6c7b" sha1="2c6139739a1beef58d9671e1622c0e8b96ba9125" date="1995-04-30 21:01:06"/>
+		<rom name="KEEPER/WINSETUP/POLISH/ITEXT.TXT" size="1719" crc="12ca7866" md5="0f9faddf57b9e664f6fc13ca7aa42fe0" sha1="51340cdf8fc1967d97c0512fdf4ea3f8cd950b66" date="1997-09-28 21:37:52"/>
+		<rom name="KEEPER/WINSETUP/POLISH/LISTDAT.TXT" size="94" crc="3aed2217" md5="ca7599d56da30599b25287c48e11b416" sha1="d2cb1fc795ad090273a7952b178dd531fd10ad00" date="1997-09-18 03:55:34"/>
+		<rom name="KEEPER/WINSETUP/POLISH/PACKLIST.BAK" size="737" crc="bea65db3" md5="fec2e032d3c0f6460216e428c52a9dcf" sha1="ca84a27bfc9bf0be5a9321b2c9f243266223e790" date="1997-09-17 21:31:36"/>
+		<rom name="KEEPER/WINSETUP/POLISH/PACKLIST.TX" size="803" crc="1c1c5c32" md5="e260a03d0fb8f42e11dcd4a847ac8333" sha1="671c7a018a2a9b18dee50f5ec95db32fdd83fac6" date="1997-09-22 04:50:10"/>
+		<rom name="KEEPER/WINSETUP/POLISH/PACKLIST.TXT" size="801" crc="cdc5d8bf" md5="7929f96798cf68ab182c587302da284e" sha1="1e5113284f48f5d87e5c637c534d8e347b642aef" date="1997-09-28 22:57:48"/>
+		<rom name="KEEPER/WINSETUP/POLISH/SETUP.DBG" size="21626" crc="38f2e23f" md5="b4e1cfd4fa944976ac91e7d144ad553e" sha1="8cedbae5bf5c12e06df2a390acb75559ca821b24" date="1997-03-17 02:01:38"/>
+		<rom name="KEEPER/WINSETUP/POLISH/SETUP.EXE" size="47616" crc="6976ee0e" md5="e6799bde5dbd22a1e240eae3f0f3397f" sha1="b5180cec2c08ce1ff8580672acf8391f3c9fd705" date="1996-02-18 03:18:54"/>
+		<rom name="KEEPER/WINSETUP/POLISH/SETUP.INI" size="58" crc="20c26b8d" md5="179daa7be5a5180346612cafb7456a91" sha1="91975e6130e4777276dc15748d5a2e7f9b100d8e" date="1997-09-18 00:35:24"/>
+		<rom name="KEEPER/WINSETUP/POLISH/SETUP.INS" size="60000" crc="2f0c981b" md5="6206346d97a151e36c04284d287462fc" sha1="a697ca9b08d7eb156eefaaac308ab5c17e2aaba8" date="1997-10-08 03:27:54"/>
+		<rom name="KEEPER/WINSETUP/POLISH/SETUP.PKG" size="419" crc="68d97732" md5="ae861f7d722d4f047aca97c5db171311" sha1="679ff5c2a792cce5f56743b891d37daae2c07cad" date="1997-09-28 22:58:52"/>
+		<rom name="KEEPER/WINSETUP/POLISH/SETUP.RUL" size="12626" crc="19f464a7" md5="ec512d2415b723cc1c26b820f67fb875" sha1="f61527f7be42af3a3bfaa68c1f4ce2b912b83f08" date="1997-10-08 03:24:10"/>
+		<rom name="KEEPER/WINSETUP/POLISH/UNINST.EXE" size="284160" crc="cda7ed8a" md5="d6f12742554a75dc48e8691b405454b7" sha1="ca007c22bd643f216d632bf5036c5db3af7d272e" date="1996-02-07 20:05:08"/>
+		<rom name="KEEPER/WINSETUP/SETALL.BAT" size="272" crc="1400320e" md5="e0b2c9606c7405f95443098dc4699a39" sha1="54766cafa52a49c0d23725ef51cdf4f070910fdf" date="1997-10-08 03:24:54"/>
+		<rom name="KEEPER/WINSETUP/SETUP.DBG" size="803" crc="4dc65e8c" md5="19a73379dafc57c2434ed036f2c98841" sha1="7b5cb16e6bdcf888656f03be16f448c0ce3da5ce" date="1997-03-17 02:04:14"/>
+		<rom name="KEEPER/WINSETUP/SETUP.EXE" size="47616" crc="6976ee0e" md5="e6799bde5dbd22a1e240eae3f0f3397f" sha1="b5180cec2c08ce1ff8580672acf8391f3c9fd705" date="1996-02-18 03:18:54"/>
+		<rom name="KEEPER/WINSETUP/SETUP.INI" size="59" crc="2366501d" md5="fd81142b1eb14e54c3450ea8a8cd8871" sha1="d095cafbf038dcd51a03f3482e2135271ca57f03" date="1997-09-18 04:22:00"/>
+		<rom name="KEEPER/WINSETUP/SETUP.INS" size="2481" crc="ccafef11" md5="acff47b726447b8bdf4d41498aa90977" sha1="fe8aab44b396f15698c3a04297b4031e324560fe" date="1997-10-07 20:09:02"/>
+		<rom name="KEEPER/WINSETUP/SETUP.RUL" size="5017" crc="b63220b8" md5="3c983048f9234df834409835bcad507b" sha1="e5171882e6cfef5962d6e44a6851a9b1a9862b89" date="1997-10-07 20:08:42"/>
+		<rom name="KEEPER/WINSETUP/SPANISH/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-10-23 03:11:38"/>
+		<rom name="KEEPER/WINSETUP/SPANISH/_INST32I.EX_" size="306748" crc="109e4b5a" md5="9294ec2b510f469ef95242275dbc5ad0" sha1="b3301f6ed67ea8f451c72780acee5c79dbe685a3" date="1996-02-18 03:33:06"/>
+		<rom name="KEEPER/WINSETUP/SPANISH/_ISDEL.EXE" size="8192" crc="db6ff40d" md5="c3200e3277aef0e5d150d797aa62d55f" sha1="fe96bd82d167f50cb8cd9c9a32d72b77f45f8002" date="1995-09-07 05:22:40"/>
+		<rom name="KEEPER/WINSETUP/SPANISH/_ISRES.DLL" size="98304" crc="708d94c3" md5="a15198684f3c747ed76ee22cb85c9f38" sha1="312e6109da14249284c284946b4e8dcb13ce8fe9" date="1996-02-15 04:53:38"/>
+		<rom name="KEEPER/WINSETUP/SPANISH/_SETUP.DLL" size="10752" crc="be76ef96" md5="453f7efa82c871381bd163f8263c5275" sha1="e7a68766e06343026c5a4d6b01bece2b0eccb6fb" date="1996-02-07 20:14:08"/>
+		<rom name="KEEPER/WINSETUP/SPANISH/_SETUP.LIB" size="45049" crc="c6f62c10" md5="ffa0a239ccb3f64dcc4f2080cf6cefba" sha1="72fb4a8a051b74a6a6bc12e9246156ffa8314df8" date="1996-02-20 23:29:06"/>
+		<rom name="KEEPER/WINSETUP/SPANISH/DATALIST.BAK" size="9213" crc="9212d84b" md5="aa5fd6dce9b40febdccc706fe13688a1" sha1="8f4c3763033ffc1cf35f0f3df6805c0d6f97fa52" date="1997-04-22 06:35:32"/>
+		<rom name="KEEPER/WINSETUP/SPANISH/DISK1.ID" size="3" crc="f0145bb1" md5="658b5d7ffc63ba3b327351d7c29d6c7b" sha1="2c6139739a1beef58d9671e1622c0e8b96ba9125" date="1995-04-30 21:01:06"/>
+		<rom name="KEEPER/WINSETUP/SPANISH/ITEXT.TXT" size="1723" crc="ed1f7b95" md5="421b28bc9fb89fda90b4ad58e90e4027" sha1="560eb21bd633a4d76df4733d50d86b56fce25b5d" date="1997-09-28 21:37:36"/>
+		<rom name="KEEPER/WINSETUP/SPANISH/LISTDAT.TXT" size="94" crc="3aed2217" md5="ca7599d56da30599b25287c48e11b416" sha1="d2cb1fc795ad090273a7952b178dd531fd10ad00" date="1997-09-18 03:55:34"/>
+		<rom name="KEEPER/WINSETUP/SPANISH/PACKLIST.BAK" size="737" crc="bea65db3" md5="fec2e032d3c0f6460216e428c52a9dcf" sha1="ca84a27bfc9bf0be5a9321b2c9f243266223e790" date="1997-09-17 21:31:36"/>
+		<rom name="KEEPER/WINSETUP/SPANISH/PACKLIST.T" size="803" crc="1c1c5c32" md5="e260a03d0fb8f42e11dcd4a847ac8333" sha1="671c7a018a2a9b18dee50f5ec95db32fdd83fac6" date="1997-09-22 04:50:10"/>
+		<rom name="KEEPER/WINSETUP/SPANISH/PACKLIST.TXT" size="803" crc="404e5f7c" md5="6b029cda47751daa123f59b03993c331" sha1="a3ed56e3b91de2501f5f978f9aa5fde265d08168" date="1997-09-28 22:57:28"/>
+		<rom name="KEEPER/WINSETUP/SPANISH/SETUP.DBG" size="21626" crc="38f2e23f" md5="b4e1cfd4fa944976ac91e7d144ad553e" sha1="8cedbae5bf5c12e06df2a390acb75559ca821b24" date="1997-03-17 02:01:38"/>
+		<rom name="KEEPER/WINSETUP/SPANISH/SETUP.EXE" size="47616" crc="6976ee0e" md5="e6799bde5dbd22a1e240eae3f0f3397f" sha1="b5180cec2c08ce1ff8580672acf8391f3c9fd705" date="1996-02-18 03:18:54"/>
+		<rom name="KEEPER/WINSETUP/SPANISH/SETUP.INI" size="58" crc="20c26b8d" md5="179daa7be5a5180346612cafb7456a91" sha1="91975e6130e4777276dc15748d5a2e7f9b100d8e" date="1997-09-18 00:35:24"/>
+		<rom name="KEEPER/WINSETUP/SPANISH/SETUP.INS" size="60001" crc="1f4bac68" md5="e9d510cf79593e5380d3ae25e4ef3f51" sha1="6211a8f54f75f7993df85b9e0ca97a4478a5148f" date="1997-10-08 03:27:24"/>
+		<rom name="KEEPER/WINSETUP/SPANISH/SETUP.PKG" size="420" crc="dfeac34c" md5="6d374a088afee2e7c78f94306177c406" sha1="0303e7573e46b38e9174007963237a50d589a7eb" date="1997-09-28 22:58:28"/>
+		<rom name="KEEPER/WINSETUP/SPANISH/SETUP.RUL" size="12627" crc="23586ab3" md5="85c62c74fb98ff11389e02c4fff8887c" sha1="dd50ce3562181fd0131fca48662a48d4ce84389f" date="1997-10-08 03:24:22"/>
+		<rom name="KEEPER/WINSETUP/SPANISH/UNINST.EXE" size="284672" crc="b2f82cb6" md5="314b4f57bc777889c3666042bf044740" sha1="b60b2668f92de9522ef796c8b8d1c5430760bdb6" date="1996-02-07 20:13:52"/>
+		<rom name="KEEPER/WINSETUP/STATE.RST" size="271" crc="f7011e5e" md5="4324d08437d384065d16cfb48e1d772b" sha1="cc289d5fbff7b5e6abb5041cf1f679612dcfec39" date="1997-06-06 11:40:50"/>
+		<rom name="KEEPER/WINSETUP/SWEDISH/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-10-23 03:11:38"/>
+		<rom name="KEEPER/WINSETUP/SWEDISH/_INST32I.EX_" size="306748" crc="109e4b5a" md5="9294ec2b510f469ef95242275dbc5ad0" sha1="b3301f6ed67ea8f451c72780acee5c79dbe685a3" date="1996-02-18 03:33:06"/>
+		<rom name="KEEPER/WINSETUP/SWEDISH/_ISDEL.EXE" size="8192" crc="db6ff40d" md5="c3200e3277aef0e5d150d797aa62d55f" sha1="fe96bd82d167f50cb8cd9c9a32d72b77f45f8002" date="1995-09-07 05:22:40"/>
+		<rom name="KEEPER/WINSETUP/SWEDISH/_ISRES.DLL" size="90112" crc="889fac33" md5="15c0c106afefa3817eeb5e9da094d4f0" sha1="3f41d5e04f21bf3fb5279f23f65ff6fe941143e9" date="1996-02-15 04:53:52"/>
+		<rom name="KEEPER/WINSETUP/SWEDISH/_SETUP.DLL" size="10240" crc="9eca27b1" md5="7b6de97c6fe8a362e7dbc8c187214d05" sha1="ddf665c22e235b8cd5e98cdea84d5aa11b309fea" date="1996-02-08 03:09:00"/>
+		<rom name="KEEPER/WINSETUP/SWEDISH/_SETUP.LIB" size="43537" crc="3072da7e" md5="c53ad21fef528e9c62412b80c471682c" sha1="9ed40f0338ff4d75a2dbf0ac86cf7fdff2cd3ea0" date="1996-02-20 23:29:08"/>
+		<rom name="KEEPER/WINSETUP/SWEDISH/DATALIST.BAK" size="9213" crc="9212d84b" md5="aa5fd6dce9b40febdccc706fe13688a1" sha1="8f4c3763033ffc1cf35f0f3df6805c0d6f97fa52" date="1997-04-22 06:35:32"/>
+		<rom name="KEEPER/WINSETUP/SWEDISH/DISK1.ID" size="3" crc="f0145bb1" md5="658b5d7ffc63ba3b327351d7c29d6c7b" sha1="2c6139739a1beef58d9671e1622c0e8b96ba9125" date="1995-04-30 21:01:06"/>
+		<rom name="KEEPER/WINSETUP/SWEDISH/ITEXT.TXT" size="1693" crc="0ebed74d" md5="a1d4deb2fa6eaf628361eaba480b998b" sha1="9f486e28423ed1dd21853eee0d8917a15e69a241" date="1997-09-28 21:37:26"/>
+		<rom name="KEEPER/WINSETUP/SWEDISH/LISTDAT.TXT" size="94" crc="3aed2217" md5="ca7599d56da30599b25287c48e11b416" sha1="d2cb1fc795ad090273a7952b178dd531fd10ad00" date="1997-09-18 03:55:34"/>
+		<rom name="KEEPER/WINSETUP/SWEDISH/PACKLIST.BAK" size="737" crc="bea65db3" md5="fec2e032d3c0f6460216e428c52a9dcf" sha1="ca84a27bfc9bf0be5a9321b2c9f243266223e790" date="1997-09-17 21:31:36"/>
+		<rom name="KEEPER/WINSETUP/SWEDISH/PACKLIST.T" size="803" crc="1c1c5c32" md5="e260a03d0fb8f42e11dcd4a847ac8333" sha1="671c7a018a2a9b18dee50f5ec95db32fdd83fac6" date="1997-09-22 04:50:10"/>
+		<rom name="KEEPER/WINSETUP/SWEDISH/PACKLIST.TXT" size="803" crc="330e2dc2" md5="8d295950638f4892b1161ca277513df8" sha1="17968a2feea1dd0586c7c924f1d4192a1b88622a" date="1997-09-28 22:57:38"/>
+		<rom name="KEEPER/WINSETUP/SWEDISH/SETUP.DBG" size="21626" crc="38f2e23f" md5="b4e1cfd4fa944976ac91e7d144ad553e" sha1="8cedbae5bf5c12e06df2a390acb75559ca821b24" date="1997-03-17 02:01:38"/>
+		<rom name="KEEPER/WINSETUP/SWEDISH/SETUP.EXE" size="47616" crc="6976ee0e" md5="e6799bde5dbd22a1e240eae3f0f3397f" sha1="b5180cec2c08ce1ff8580672acf8391f3c9fd705" date="1996-02-18 03:18:54"/>
+		<rom name="KEEPER/WINSETUP/SWEDISH/SETUP.INI" size="58" crc="20c26b8d" md5="179daa7be5a5180346612cafb7456a91" sha1="91975e6130e4777276dc15748d5a2e7f9b100d8e" date="1997-09-18 00:35:24"/>
+		<rom name="KEEPER/WINSETUP/SWEDISH/SETUP.INS" size="60001" crc="0844bde9" md5="d6f4255939eee4244327ed1607c58e51" sha1="79d4c7f57ab22290a19d36bb2adf5f3933ee21bf" date="1997-10-08 03:27:32"/>
+		<rom name="KEEPER/WINSETUP/SWEDISH/SETUP.PKG" size="420" crc="3aaaca3e" md5="ceaaa2e8b914545a7774146ed8789613" sha1="958cffa4e79d33d47c81c85302bccffcb92adc20" date="1997-09-28 22:58:22"/>
+		<rom name="KEEPER/WINSETUP/SWEDISH/SETUP.RUL" size="12627" crc="416ebb5f" md5="8cc035bfb98c8d73cfbc28e0da4dbd07" sha1="c759803b790819133ba9a7aaf4ffeedfbaf5871b" date="1997-10-08 03:24:32"/>
+		<rom name="KEEPER/WINSETUP/SWEDISH/UNINST.EXE" size="283648" crc="9c0d942d" md5="023393fc1a5a25675d5e32c8f798e2a3" sha1="794a472835f92d5fcc7d95f5b9ece9bb8ae5a65e" date="1996-02-08 03:08:44"/>
+		<rom name="KEEPER/WINSETUP/UNINST.EXE" size="283648" crc="7062b2d4" md5="aede1bf4042e5960bd177d2d4c32abe8" sha1="2f552e287fa2bf057ad13956447618235d22ac07" date="1996-01-08 20:38:54"/>
+		<rom name="SETUP.EXE" size="41984" crc="7b2e55ec" md5="8802dc97eabd102ae66c92e3a153a4dc" sha1="3e6e60168376b36ff6a722b4ddb3b6fbcebe59d6" date="1997-09-22 04:32:52"/>
+	</game>
 	<game name="Elder Scrolls II, The - Daggerfall (1996) (Bethesda Softworks).dosz">
 		<description>Elder Scrolls II, The - Daggerfall</description>
 		<comment>Installed from free GOG release, or installed v1.07.213 from 1997 CD re-release (any size install, but all files from ARENA2 on CD must be extracted into installation's ARENA2 folder). The file Z.CFG must be edited to "type dfall_huge", "path c:\arena2\" and "pathcd c:\arena2\". In GOG release, the line "CHEATMODE 0" needs to be removed.</comment>
