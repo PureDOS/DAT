@@ -2269,22 +2269,10 @@
 		</rom>
 		<rom name="QUAKE.EXE" size="409600" crc="3bc26700" md5="e3e7fcc920610a5fa66c1dd030939fac" sha1="97427017467717a78b1b9e4a01b70ef0f7161856" date="1997-03-11 18:29:24"/>
 	</game>
-	<game name="Rogue (1984) (A.I. Design).dosz">
-		<description>Rogue</description>
-		<comment>Version 1.49</comment>
-		<comment_dosc>Patch to disable copy protection and auto run</comment_dosc>
-		<year>1984</year>
-		<developer>A.I. Design</developer>
-		<rom name="MKOPT.EXE" size="14016" crc="c827b49c" md5="e8f7c7b97210f480c7b741a0d58951bd" sha1="4146c4a4b0b21b829fc732f0283efd2d073f21a4" date="1985-03-25 14:33:18"/>
-		<rom name="ROGUE.EXE" size="71520" crc="dc7b742c" md5="11cc922975d21f9a32812ff6c5ed3430" sha1="7e4645c6872bfc079d83ab1005b168a2a771de53" date="1986-05-30 12:55:50"/>
-		<rom name="ROGUE.OPT" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="ROGUE.PIC" size="16391" crc="57106c0e" md5="afb883b611c35f79f2a5168365349ba7" sha1="954278268827812fce8d8bde04954a9c3b828a48" date="1985-03-25 16:53:10"/>
-		<rom name="ROGUE.SCR" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-	</game>
 	<game name="Rise of the Triad - Dark War (1994) (Apogee Software).dosz">
 		<description>Rise of the Triad - Dark War</description>
-		<comment>Installed from Redump's Rise of the Triad - Dark War (USA) (Site License) (v1.3) - Includes several level add-ons from expansions and from 3D Realm's website.</comment>
-		<comment_dosc>DOSC auto-starts + contains CONFIG.ROT, BATTLE.ROT, SOUND.ROT, and SCORES.ROT<comment_dosc>
+		<comment>Installed from Redump's Rise of the Triad - Dark War (USA) (Site License) (v1.3)</comment>
+		<comment_dosc>Auto-starts</comment_dosc>
 		<year>1994</year>
 		<developer>Apogee Software</developer>
 		<rom name="BATTLE.ROT" size="7317" crc="126e28da" md5="6d37a5f642e81bd18410bea90b2b2980" sha1="38154692a1a68e6c46e0a432c1f87f7ea3aa28b2"/>
@@ -2328,6 +2316,18 @@
 		<rom name="SOUND.ROT" size="1347" crc="811dc983" md5="7cf0681e5ed85d8a5c3718d8754854f0" sha1="7285c2a48e9a5cf36ad6c95006a522d6c5f221a1"/>
 		<rom name="UASPRAY.EXE" size="31744" crc="6fc0a1bf" md5="45b4b867f0a11a158f9206719896050a" sha1="a01a0e3801604a75bbd39e435c127c6b4fb6d598"/>
 		<rom name="WOLF3D.RTL" size="15096" crc="ad0c5d7b" md5="d548bd38148553107d63bcde698be0a2" sha1="5ddb75a4a00ab4b207d0f7ea142918057accf88a" date="1995-07-24 17:30:00"/>
+	</game>
+	<game name="Rogue (1984) (A.I. Design).dosz">
+		<description>Rogue</description>
+		<comment>Version 1.49</comment>
+		<comment_dosc>Patch to disable copy protection and auto run</comment_dosc>
+		<year>1984</year>
+		<developer>A.I. Design</developer>
+		<rom name="MKOPT.EXE" size="14016" crc="c827b49c" md5="e8f7c7b97210f480c7b741a0d58951bd" sha1="4146c4a4b0b21b829fc732f0283efd2d073f21a4" date="1985-03-25 14:33:18"/>
+		<rom name="ROGUE.EXE" size="71520" crc="dc7b742c" md5="11cc922975d21f9a32812ff6c5ed3430" sha1="7e4645c6872bfc079d83ab1005b168a2a771de53" date="1986-05-30 12:55:50"/>
+		<rom name="ROGUE.OPT" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="ROGUE.PIC" size="16391" crc="57106c0e" md5="afb883b611c35f79f2a5168365349ba7" sha1="954278268827812fce8d8bde04954a9c3b828a48" date="1985-03-25 16:53:10"/>
+		<rom name="ROGUE.SCR" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
 	<game name="Sid Meier's Railroad Tycoon (1990) (MPS Labs).dosz">
 		<description>Sid Meier's Railroad Tycoon</description>
