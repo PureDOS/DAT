@@ -8571,11 +8571,13 @@
 	</game>
 	<game name="Super Street Fighter II Turbo (1995) (Capcom).dosz">
 		<description>Super Street Fighter II Turbo</description>
-		<comment>Installed from CD</comment>
+		<comment>Installed from CD, patched to v1.5, then patched to v1.6</comment>
 		<comment_dosc>Sound Blaster 16 config, keyboard controls, game speed reduced, and auto start</comment_dosc>
 		<year>1995</year>
 		<developer>Capcom</developer>
 		<link type="media">http://redump.org/disc/27832/</link>
+		<link type="patch">https://web.archive.org/web/19961105041529/http://www.gametek.com/webfinall/patch/ssf2t.zip</link>
+		<link type="patch">https://archive.org/download/SF2TUSC6_ZIP/SF2TUSC6.ZIP</link>
 		<rom name="32RTM.EXE" size="152108" crc="82b4d638" md5="ee90c3b6230fe1b4c4bda498979dcbd2" sha1="c6305d12d59808dbae3435613017b50b89cce97b"/>
 		<rom name="BLD_INFO.CFG" size="1791" crc="52d1b069" md5="7f6938c30b4cb8090053703ae8687b02" sha1="e8b01a9244d35f6f6b1bfec58fb7474818829187" date="1995-05-01 14:28:44"/>
 		<rom name="CONTINUE/AKUMA1.SPR" size="806" crc="c55e820f" md5="72fdb5df27d0de1c244e66ea02e1b517" sha1="143af23507e8d5947c32758bf9711f8de20d7dd9"/>
