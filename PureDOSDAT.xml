@@ -329,8 +329,9 @@
  	</game>
 	<game name="Alien Breed (1993) (Team 17).dosz">
 		<description>Alien Breed</description>
-		<comment>Installed from 3.5" floppy disk image that matches The Good Old Day's ID:708. VGA 256 Normal, Soundblaster Pro + Default Settings, Adlib/Soundblaster, Keyboard (1 Player) + Default Mapping, Very Fast PC.</comment>
-		<comment_dosc>Auto-starts. Contains IPS patch that replaces copy protection with a prompt to type "000"</comment_dosc>
+		<comment>Game installed from 1.44 MB 3.5" floppy disk</comment>
+		<comment_dosc>Audio and input config, copy protection removal and auto start</comment_dosc>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C708/</link>
 		<year>1993</year>
 		<developer>Team 17</developer>
 		<rom name="0BIGBAD.EHF" size="4640" crc="dacb3702" md5="5640c8bd44d253598e81b599c1eea62f" sha1="602a49033a8db2e08aef23ef6b0d1ff77facd1f4"/>
@@ -453,7 +454,6 @@
 		<rom name="SAMS/URRGH1.VOC" size="2029" crc="a726e32b" md5="fd3249ca31dbf283ecb1e3eebabf080d" sha1="0b51575dcec5f904e049268f0ea1a18d51718314"/>
 		<rom name="SBCOMP.DOC" size="252" crc="fb724c09" md5="b201af490479303bf0defcd16bf3c3c5" sha1="cf7e88b712f899fff44476cedd292388f6d469de"/>
 		<rom name="SBCOMP.EXE" size="3457" crc="a6dca1eb" md5="362b41276b77f34a93950631730b2b09" sha1="d2bb127a7665151323bb2975425e59854aea8f02"/>
-		<rom name="SETUP.DAT" size="103" crc="0dc261d2" md5="4e8051add7be6b31f6eda1cc4ec85f05" sha1="fbe6dd9f43c1e12e4069d2f828a880ecc0f62d71"/>
 		<rom name="SFX_ADL.BIN" size="5309" crc="58717dd5" md5="af0b2d7b25655897e0cdb40029778881" sha1="76b08f23bbfbdc57293af18cc1497ca5ac163be5"/>
 		<rom name="SFX_BEP.BIN" size="3414" crc="b88989fc" md5="5716da006046c703d6275aec04d3bcd0" sha1="7b01a41e4c70b830378d33c894129706a5fefbf9"/>
 		<rom name="SFX_ROL.BIN" size="3518" crc="f3106510" md5="38c8b6f6678d1b9ba75dd24a6f01a932" sha1="554ef734b92ef64f6882821cf3159e915f183248"/>
