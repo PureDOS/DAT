@@ -51,10 +51,12 @@ Examples for keyboard key presses are `(ENTER)`, `(SPACE)` or `(leftctrl:DOWN)c(
 When performing a single event (with DOWN or UP) no time is waited and the sequence continues immediately.
 Otherwise the time between pressing and releasing a key is fixed at 70 milliseconds and the sequence continues after waiting a configurable delay time.
 
-Special commands are WAIT and DELAY.
-Wait will do nothing for a given number of milliseconds. An emulator should fast forward that wait time so only for the emulated software
+Special commands are WAIT, WAITMODECHANGE and DELAY.
+WAIT will do nothing for a given number of milliseconds. An emulator should fast forward that wait time so only for the emulated software
 the time will pass while in real time it should be as quick as possible. This can be used to skip loading times or wait for an input prompt.
-Delay by itself will not do anything but it sets how many milliseconds are waited after releasing a key until pressing the next key in the
-sequence. The default delay time is 70 milliseconds. Example `(WAIT:2000)(DELAY:15)i5j`
+WAITMODECHANGE will wait until the video mode changes. This can be used to skip the console at the very startup until the game changes
+into a graphics mode. Like WAIT an emulator will fast forward this time as best as it can. Can be repeated to skip multiple mode changes.
+DELAY by itself will not do anything but it sets how many milliseconds are waited after releasing a key until pressing the next key in the
+sequence. The default delay time is 70 milliseconds. Example `(WAITMODECHANGE)(WAIT:500)(DELAY:15)i5j`
 
 List of keyboard key names: `1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`,`0`,`q`,`w`,`e`,`r`,`t`,`y`,`u`,`i`,`o`,`p`,`a`,`s`,`d`,`f`,`g`,`h`,`j`,`k`,`l`,`z`,`x`,`c`,`v`,`b`,`n`,`m`,`F1`,`F2`,`F3`,`F4`,`F5`,`F6`,`F7`,`F8`,`F9`,`F10`,`F11`,`F12`,`ESC`,`TAB`,`BACKSPACE`,`ENTER`,`SPACE`,`LEFTALT`,`RIGHTALT`,`LEFTCTRL`,`RIGHTCTRL`,`LEFTSHIFT`,`RIGHTSHIFT`,`CAPSLOCK`,`SCROLLLOCK`,`NUMLOCK`,`GRAVE`,`MINUS`,`EQUALS`,`BACKSLASH`,`LEFTBRACKET`,`RIGHTBRACKET`,`SEMICOLON`,`QUOTE`,`PERIOD`,`COMMA`,`SLASH`,`EXTRA_LT_GT`,`PRINTSCREEN`,`PAUSE`,`INSERT`,`HOME`,`PAGEUP`,`DELETE`,`END`,`PAGEDOWN`,`LEFT`,`UP`,`DOWN`,`RIGHT`,`KP1`,`KP2`,`KP3`,`KP4`,`KP5`,`KP6`,`KP7`,`KP8`,`KP9`,`KP0`,`KPDIVIDE`,`KPMULTIPLY`,`KPMINUS`,`KPPLUS`,`KPENTER`,`KPPERIOD`
