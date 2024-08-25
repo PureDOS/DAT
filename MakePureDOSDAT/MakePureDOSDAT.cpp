@@ -187,19 +187,23 @@ static void FastMD5(const void* data, size_t data_size, Bit8u res[16])
 	#undef OUT
 }
 
-static void SHA1(const void* data, size_t data_size, Bit8u res[20])
+static void SHA1(const Bit8u* data, size_t data_size, Bit8u res[20])
 {
 	// BASED ON SHA-1 in C (public domain)
 	// By Steve Reid - https://github.com/clibs/sha1
 	struct SHA1_CTX
 	{
-		static void Transform(Bit32u* state, const void* buffer)
+		static void Transform(Bit32u* state, const Bit8u* buffer)
 		{
-			Bit32u block[16];
-			memcpy(block, buffer, 64);
+			Bit32u block[16]; memcpy(block, buffer, 64); // Non destructive (can have input buffer be const)
+			//Bit32u* block = buffer; // Destructive (buffer will be modified in place)
 			Bit32u a = state[0], b = state[1], c = state[2], d = state[3], e = state[4];
 			#define SHA1ROL(value, bits) (((value) << (bits)) | ((value) >> (32 - (bits))))
+			#ifdef WORDS_BIGENDIAN
+			#define SHA1BLK0(i) block[i]
+			#else
 			#define SHA1BLK0(i) (block[i] = (SHA1ROL(block[i],24)&0xFF00FF00)|(SHA1ROL(block[i],8)&0x00FF00FF))
+			#endif
 			#define SHA1BLK(i) (block[i&15] = SHA1ROL(block[(i+13)&15]^block[(i+8)&15]^block[(i+2)&15]^block[i&15],1))
 			#define SHA1R0(v,w,x,y,z,i) z+=((w&(x^y))^y)+SHA1BLK0(i)+0x5A827999+SHA1ROL(v,5);w=SHA1ROL(w,30);
 			#define SHA1R1(v,w,x,y,z,i) z+=((w&(x^y))^y)+SHA1BLK(i)+0x5A827999+SHA1ROL(v,5);w=SHA1ROL(w,30);
@@ -230,9 +234,9 @@ static void SHA1(const void* data, size_t data_size, Bit8u res[20])
 		}
 		void Process(const Bit8u* data, size_t len)
 		{
-			size_t i, j = count[0];
-			if ((count[0] += (len << 3)) < j) count[1]++;
-			count[1] += (len>>29);
+			size_t i; Bit32u j = count[0];
+			if ((count[0] += (Bit32u)(len << 3)) < j) count[1]++;
+			count[1] += (Bit32u)(len>>29);
 			j = (j >> 3) & 63;
 			if ((j + len) > 63)
 			{
@@ -244,8 +248,7 @@ static void SHA1(const void* data, size_t data_size, Bit8u res[20])
 			else i = 0;
 			memcpy(&buffer[j], &data[i], len - i);
 		}
-		size_t count[2];
-		Bit32u state[5];
+		Bit32u count[2], state[5];
 		Bit8u buffer[64];
 	} ctx;
 	ctx.count[0] = ctx.count[1] = 0;
@@ -254,7 +257,7 @@ static void SHA1(const void* data, size_t data_size, Bit8u res[20])
 	ctx.state[2] = 0x98BADCFE;
 	ctx.state[3] = 0x10325476;
 	ctx.state[4] = 0xC3D2E1F0;
-	ctx.Process((const Bit8u*)data, data_size);
+	ctx.Process(data, data_size);
 	Bit8u finalcount[8];
 	for (unsigned i = 0; i < 8; i++)  finalcount[i] = (Bit8u)((ctx.count[(i >= 4 ? 0 : 1)] >> ((3-(i & 3)) * 8) ) & 255);
 	Bit8u c = 0200;
@@ -438,16 +441,21 @@ void ListCHDTracks(std::vector<Bit8u>& line, const Bit8u* chd_data, size_t chd_s
 			if (!hunk_pos) { memset(track_out, 0, data_size); }
 			else { memcpy(track_out, chd_data + hunk_pos + hunk_ofs, data_size); }
 		}
-		if (isAudio) // CHD audio endian swap
+		Bit32u in_zeros = 0, out_zeros = 0, datacrc32 = 0;
+		if (isAudio)
+		{
+			// CHD audio endian swap
 			for (Bit8u *p = track_data, *pEnd = p + track_size, tmp; p != pEnd; p += 2)
 				{ tmp = p[0]; p[0] = p[1]; p[1] = tmp; }
+			// Additional info for audio tracks
+			for (in_zeros = 0; in_zeros != track_size && track_data[in_zeros] == 0; in_zeros++) {}
+			for (out_zeros = 0; out_zeros != track_size && track_data[track_size - 1 - out_zeros] == 0; out_zeros++) {}
+			datacrc32 = CRC32(track_data + in_zeros, (size_t)(track_size - in_zeros - out_zeros));
+		}
+		Bit32u trackcrc32 = CRC32(track_data, (size_t)track_size);
 		Bit8u trackmd5[16], tracksha1[20];
 		FastMD5(track_data, (size_t)track_size, trackmd5);
 		SHA1(track_data, (size_t)track_size, tracksha1);
-		Bit32u trackcrc32 = CRC32(track_data, (size_t)track_size), in_zeros, out_zeros;
-		for (in_zeros = 0; in_zeros != track_size && track_data[in_zeros] == 0; in_zeros++) {}
-		for (out_zeros = 0; out_zeros != track_size && track_data[track_size - 1 - out_zeros] == 0; out_zeros++) {}
-		free(track_data);
 
 		XMLAppendRawF(line, 200, "			<track number=\"%d\" type=\"%s\" frames=\"%d\" pregap=\"%d\" duration=\"%02d:%02d:%02d\" size=\"%u\"",
 			mt_track_no, mt_type, mt_frames, mt_pregap, (mt_frames/75/60), (mt_frames/75)%60, mt_frames%75, (Bit32u)track_size);
@@ -455,7 +463,10 @@ void ListCHDTracks(std::vector<Bit8u>& line, const Bit8u* chd_data, size_t chd_s
 		for (int md5i = 0; md5i != 16; md5i++) XMLAppendRawF(line, 2, "%02x", trackmd5[md5i]);
 		XMLAppendRaw(line, 8, "\" sha1=\"");
 		for (int sha1i = 0; sha1i != 20; sha1i++) XMLAppendRawF(line, 2, "%02x", tracksha1[sha1i]);
-		XMLAppendRawF(line, 64, "\" in_zeros=\"%u\" out_zeros=\"%u\"/>\n", in_zeros, out_zeros);
+		if (isAudio)
+			XMLAppendRawF(line, 72, "\" in_zeros=\"%u\" out_zeros=\"%u\" trimmed_crc=\"%08x", in_zeros, out_zeros, datacrc32);
+		XMLAppendRaw(line, 4, "\"/>\n");
+		free(track_data);
 	}
 
 	free(chd_hunkmap);
