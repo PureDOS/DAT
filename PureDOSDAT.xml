@@ -329,10 +329,20 @@
 	</game>
 	<game name="Bedlam (1996) (GT Interactive).dosz">
 		<description>Bedlam</description>
-		<comment>Installed from Redump-verified version of Bedlam (USA)</comment>
-		<comment_dosc>Auto-start</comment_dosc>
+		<comment>Installed from CD, audio tracks converted with CHDtoOGG with empty data track</comment>
+		<comment_dosc>Sound config and auto start</comment_dosc>
+		<link type="media">http://redump.org/disc/37471/</link>
 		<year>1996</year>
 		<developer>GT Interactive</developer>
+		<rom name="CD/Bedlam (USA) (Track 1).bin" size="56448" crc="1be232e7" md5="052315fdf52a4076530b6fa185e9c628" sha1="ddbbf38c7623ae8712248ed015380b4f1aaafc2e"/>
+		<rom name="CD/Bedlam (USA) (Track 2).ogg" size="7134540" crc="e0e41fc5" md5="0a2c7b7b41a3e882e9a8952bf82344f6" sha1="089d001ef1837fac4098626c39ae76835a4cb6d1"/>
+		<rom name="CD/Bedlam (USA) (Track 3).ogg" size="6882755" crc="68d6c8bf" md5="475196fd6db88ad1ceb1384d0f0e3f67" sha1="15444d3868b0be2c52bbc100cfcaf98f428f9533"/>
+		<rom name="CD/Bedlam (USA) (Track 4).ogg" size="6735612" crc="acd60cbb" md5="ae082dd94112f403bcc3c8c82e37f8e9" sha1="c673b50641755edb4392276b9163aeb57ddf4807"/>
+		<rom name="CD/Bedlam (USA) (Track 5).ogg" size="7006819" crc="ae257799" md5="0814f137d3dee3e6ac4b2acd954b3461" sha1="b392795d1ea2dcacc72395539446cab17574585d"/>
+		<rom name="CD/Bedlam (USA) (Track 6).ogg" size="6555314" crc="84e74700" md5="80e4d87b25ba10900869db29863fe9c1" sha1="735ea76e091cad4b83d050199c83b32e08f2109b"/>
+		<rom name="CD/Bedlam (USA) (Track 7).ogg" size="6735228" crc="50365303" md5="b1abbff6f65efc083e66a90401e6f93d" sha1="44d7c75331871ac9dedb59d7d2538f49bfbbfa76"/>
+		<rom name="CD/Bedlam (USA) (Track 8).ogg" size="7026900" crc="9bfca459" md5="3fe457ac65953234f4e2b7b3e49a25c2" sha1="baca45d2e869a7dd4298b4d2c12ab1cfbd0f51e1"/>
+		<rom name="CD/Bedlam (USA).cue" size="648" crc="2f037ae7" md5="432590772e2a4590ed1bef6bb6c7f8e5" sha1="42d032728e1aa398ddb586bd44197781c43f5090"/>
 		<rom name="MIRAGE/BEDLAM/AUTORUN.INF" size="47" crc="9f8dd94b" md5="a0944fabd49ffd533bee44a9d5da1be6" sha1="10d480a7eb11c1a3eb192ef68b589ee9afd5851a"/>
 		<rom name="MIRAGE/BEDLAM/BEDLAM.EXD" size="655133" crc="c784f35d" md5="53814ca001eb7ecd3c6a0f3a6fbafeb9" sha1="a58972c2b384ad4526415b08096cda01e0659de4"/>
 		<rom name="MIRAGE/BEDLAM/BEDLAM.EXE" size="268800" crc="9f99b68d" md5="9e0f04db62d24aeabbbb72d75205a48d" sha1="fad93f84107ca5cdc9d0cea179a8f1d5bd60ef8e"/>
