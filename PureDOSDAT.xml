@@ -6893,6 +6893,857 @@
 		<rom name="xatrix/video/xu3.cin" size="9192461" crc="43465ab8" md5="9ad6f4cbc9834784420a3b6bd6d2c76b" sha1="420e0463f44337dcea84d0340dfd504b8289b9c3" date="1998-05-01 13:08:40"/>
 		<rom name="xatrix/video/xu4.cin" size="14874670" crc="8ae0be42" md5="441e0e33ef48aa028896dfcee3613f74" sha1="b4de86dc16c59ca93c9f2953d8e273dbe4272e87" date="1998-05-01 13:09:18"/>
 	</game>
+	<game name="Rayman (1995) (Ubi Soft).dosz">
+		<description>Rayman</description>
+		<comment>Installed from CD. English language and SB16 sound chosen during installation</comment>
+		<comment_dosc>Required RAYMAN.CFG file and auto start. French and German options</comment_dosc>
+		<year>1995</year>
+		<developer>Ubi Soft</developer>
+		<link type="media">http://redump.org/disc/57505/</link>
+		<rom name="CONCLU.DAT" size="8731018" crc="511b2cb4" md5="0588cc952afb2a590c982374ec3325ce" sha1="cacd687ed37740a885271b3f9f40cdf8456e9c28"/>
+		<rom name="HMIDET.386" size="81990" crc="637c56a8" md5="59b3f813848cda336763648d628db917" sha1="27a06eb94b0abf13139c311ebed73358b20bcdab"/>
+		<rom name="HMIDRV.386" size="261425" crc="f6d116a3" md5="bd16499c7c0ef8cebb0999373edc5361" sha1="becd7f4a413a1966986b4c41c860b678d7244d58"/>
+		<rom name="INTRO.DAT" size="48143020" crc="f37493b8" md5="479cd0d3f0fd7bc9b14e1c9d462a7e2e" sha1="ac0d58a4f4c254991d0960ec04a2ddbbed8e4ba0"/>
+		<rom name="PCMAP/ALLFIX.DAT" size="519234" crc="8cd2f586" md5="edeea6cc92f551ddea643028d208fc57" sha1="b693ff23d2d6bf783835d75e3c6386806364f0b9"/>
+		<rom name="PCMAP/BRAY.DAT" size="98229" crc="045704bc" md5="f95caec93c8ed839ac9e833e84e61635" sha1="6737e0bc2428b376277bc9d6e0a1cda868509832"/>
+		<rom name="PCMAP/CAKE/RAY1.LEV" size="435280" crc="37917bdf" md5="4077085a999e3cafd2c76f1735ed8fe4" sha1="3e89d9d88b60ca72a2a54a49706520c8a7bab005"/>
+		<rom name="PCMAP/CAKE/RAY2.LEV" size="482414" crc="897dbbf0" md5="2f5e88473c5a96c1b8ac8b7380caf4c3" sha1="2bfcdf82c2fe2ffb1057a8fac1b904bffee0707b"/>
+		<rom name="PCMAP/CAKE/RAY3.LEV" size="537426" crc="8e9bbccd" md5="a546c5237fc863752a4634d971d1d9af" sha1="7d6a866d1945e9c5b27856d1e4f15c468fc8f81c"/>
+		<rom name="PCMAP/CAKE/RAY4.LEV" size="41158" crc="e8f50d3a" md5="c590da2b233b483666136ad0c45424f1" sha1="327008021f6bba8e048178addd393cb590bcfe16"/>
+		<rom name="PCMAP/CAVE/RAY1.LEV" size="261654" crc="cfecc6c8" md5="b40c216b2dc47408589c28a121383ef5" sha1="040ef582a809f95dd458d38bf07ca1b5a43ef77b"/>
+		<rom name="PCMAP/CAVE/RAY10.LEV" size="157527" crc="633451ca" md5="028a98bb1baabf2ea1a4a25caa1335c8" sha1="fc04b9aaaabc8985534843a497a5707886c2c0d5"/>
+		<rom name="PCMAP/CAVE/RAY11.LEV" size="26496" crc="30d1ba9b" md5="145c840d37ffd2f56023a4da06267a4c" sha1="955a17c604e7d12b8627e256ee072c84ffbf093c"/>
+		<rom name="PCMAP/CAVE/RAY12.LEV" size="256632" crc="b5c1f0a5" md5="36cfca914cbe22de8c1167b18b171f1f" sha1="ffba285c1f2c96fdeeea0c0b5e6094ab44b1a6dc"/>
+		<rom name="PCMAP/CAVE/RAY2.LEV" size="446494" crc="c7b131a2" md5="989368916c0299647039336ad39520fb" sha1="c13b46a7a2e0157ac3492b4a263f3cc186d0c487"/>
+		<rom name="PCMAP/CAVE/RAY3.LEV" size="23552" crc="cd851e5d" md5="5f18b5739f560a5205dc7fc65c9c2f0e" sha1="2691c72d9244beb0b9f39b14a82f42424dc28f50"/>
+		<rom name="PCMAP/CAVE/RAY4.LEV" size="257822" crc="e38373b9" md5="4728502181de0db1a0bafc577af45cc3" sha1="3807a97fd788c1dc2eb5b879610df52ae406b891"/>
+		<rom name="PCMAP/CAVE/RAY5.LEV" size="529262" crc="7d2eaf9e" md5="0274b56fa0a6a2fe7f20d78c0910caaf" sha1="1c52927293f2ea810801f62b3eb43298a4d33345"/>
+		<rom name="PCMAP/CAVE/RAY6.LEV" size="258504" crc="3ac431ee" md5="fe3a21cd647c272de794a57db7e1979b" sha1="b9b568efaa70fc293eecbfc8a5adcc702dc27785"/>
+		<rom name="PCMAP/CAVE/RAY7.LEV" size="501874" crc="7d964d1e" md5="4afc0cc4834dcce3856a697c07e4d9bd" sha1="52e96c158a87666735562862120af55b5461bcc4"/>
+		<rom name="PCMAP/CAVE/RAY8.LEV" size="370734" crc="0e669358" md5="090e037fe7c50a598470bef4d1741768" sha1="a4e64abbf5de9931563cc74003d537f75d5a0f05"/>
+		<rom name="PCMAP/CAVE/RAY9.LEV" size="324777" crc="3dfded4a" md5="4486a83ae16f014ca1b6b0e4840be964" sha1="2c674e6729c56761953c21480e21627e1ca5fa5a"/>
+		<rom name="PCMAP/IMAGE/RAY1.LEV" size="246270" crc="99387f9c" md5="680fabb3f0466c3d78ec172bc1650baf" sha1="75fc2e9b41aba4761deb40e1a324ba2d87670f42"/>
+		<rom name="PCMAP/IMAGE/RAY10.LEV" size="234060" crc="ad2b6e20" md5="4fb1500e61c73beabd7abeae5e2de273" sha1="4ac595923a76172318d3d6b0367a9f99a2672544"/>
+		<rom name="PCMAP/IMAGE/RAY11.LEV" size="34956" crc="8e908544" md5="ad879af746b4aaa8e97d44aa24c3ca0c" sha1="a0157724bfd92003a3a80b41919150c5c952e127"/>
+		<rom name="PCMAP/IMAGE/RAY12.LEV" size="164166" crc="4ffd0231" md5="82502609e744e2b5ebde706985a0613b" sha1="dd8cc657a79a5c9646fb73817e1dc60de89c35df"/>
+		<rom name="PCMAP/IMAGE/RAY13.LEV" size="111048" crc="b1dbf759" md5="d0342c4a2bc2c531342f335d9558cd18" sha1="ae88074b347be62a310e9b91146026e3d310e848"/>
+		<rom name="PCMAP/IMAGE/RAY2.LEV" size="268242" crc="523c9eab" md5="f75713fffa45386461b6208b37af1914" sha1="c79f0220ac75f8b6ea7e182c14e736f30d7ae20c"/>
+		<rom name="PCMAP/IMAGE/RAY3.LEV" size="422029" crc="488eb037" md5="9416264fb2d3b6a649acfa37b012c42e" sha1="531bf72a9af017e262e5a7679dcc3eada9a1543d"/>
+		<rom name="PCMAP/IMAGE/RAY4.LEV" size="29996" crc="52ee7283" md5="2db90ba47c5bee3f1ae665da0602de78" sha1="e6086766209ff94ff8b7c62a4daded00f00ce13c"/>
+		<rom name="PCMAP/IMAGE/RAY5.LEV" size="441007" crc="6d578f48" md5="2cd16024e5dbb461c3df0140befcf05d" sha1="db5c18a2eeb1526a589776ef75aabd66cc3b4163"/>
+		<rom name="PCMAP/IMAGE/RAY6.LEV" size="323900" crc="a35fba8a" md5="7da676842bda3c00f15bbfdbbae3241b" sha1="d9a4ce7663d78fd3fa78611011360fdabac96559"/>
+		<rom name="PCMAP/IMAGE/RAY7.LEV" size="264143" crc="c67ed5db" md5="52d59a5f3c6f600bca066f752c136d7f" sha1="640e4d4c5a67f2bb0082afc8bdf43576c48ed93b"/>
+		<rom name="PCMAP/IMAGE/RAY8.LEV" size="474493" crc="c3776dcc" md5="ac125d28fad0c360e07f0bc523a69762" sha1="c0a1c72a80f6909bf9812b2040a799e2cd6815bf"/>
+		<rom name="PCMAP/IMAGE/RAY9.LEV" size="335138" crc="50f1f075" md5="20c708797b69735adfb79791d90f1331" sha1="55a245fa518884a18feb7a1b51b4a537adb362a3"/>
+		<rom name="PCMAP/JUNGLE/RAY1.LEV" size="322667" crc="4cc9b4ef" md5="4ed31e48dd746b0ad6febb51ae09a809" sha1="f28642e9b0961a008fc0e75e0420078db0a23a06"/>
+		<rom name="PCMAP/JUNGLE/RAY10.LEV" size="293946" crc="54428771" md5="95f949a047d933a0d5467c1e59a9c26b" sha1="5aa14e68bc8708189d2431b9759b883b3d3c47e7"/>
+		<rom name="PCMAP/JUNGLE/RAY11.LEV" size="442411" crc="2e2605a9" md5="b49653efdf179c530534eecf951d9af5" sha1="3e6812d2f98f2a169abd4b1a1c3fbf6f5203e985"/>
+		<rom name="PCMAP/JUNGLE/RAY12.LEV" size="566732" crc="37de8877" md5="788aebfc801aac01e59965215cfca2f6" sha1="dd5f4adeb18eccbff221feac8a25d253d13fce1b"/>
+		<rom name="PCMAP/JUNGLE/RAY13.LEV" size="493598" crc="89794c56" md5="1566cf6518aae6c0be75c8994b0061dc" sha1="e448ce4eb8306ce3da1c337058acfe734d41688f"/>
+		<rom name="PCMAP/JUNGLE/RAY14.LEV" size="380120" crc="109ed84f" md5="05eb24ecc56cf14d474dbac4248ab47d" sha1="a13fdfa1d1fbfe9413fa68dca9e35b55427f62e4"/>
+		<rom name="PCMAP/JUNGLE/RAY15.LEV" size="333814" crc="57766a82" md5="b31d669508efdcba64a0ab5680cb0bba" sha1="09b5f7c031487fb413f21969f7633d335c272fa5"/>
+		<rom name="PCMAP/JUNGLE/RAY16.LEV" size="27688" crc="c25a5763" md5="e257fa695e5e1c7a73940088eee0ace0" sha1="1095f948f0ad93da886b05bc487176181897f30c"/>
+		<rom name="PCMAP/JUNGLE/RAY17.LEV" size="196089" crc="8553edcb" md5="f0b3ec53e5cf9130c8b5557440d7108c" sha1="c46806542270bf61aadf3e7d0942757b7c1c0666"/>
+		<rom name="PCMAP/JUNGLE/RAY18.LEV" size="246687" crc="2a683e8b" md5="5a9875b13bba6a3dbfdd0e553b5a0b87" sha1="0dbfc6fc2b46651e59c9162df842711beed3ad3f"/>
+		<rom name="PCMAP/JUNGLE/RAY19.LEV" size="258083" crc="be862f6d" md5="b6989822bca583a7b636d94d154f3cbc" sha1="21a8ecaf78e9f215b8cffe29d72d7e256a19d73c"/>
+		<rom name="PCMAP/JUNGLE/RAY2.LEV" size="483583" crc="d21ec648" md5="4431dec1e7232a1af0ff7b136f836e97" sha1="095cbaf704a125a8eb586eb9150d42a89674c2ed"/>
+		<rom name="PCMAP/JUNGLE/RAY20.LEV" size="200300" crc="a0362720" md5="cfe9b1fc68db08ecbd50cee6d079da25" sha1="eaa66522705ea289d1a2e1df1324d5bbc49b353d"/>
+		<rom name="PCMAP/JUNGLE/RAY21.LEV" size="152206" crc="0edfa580" md5="cc89a8c480aa8f6e2c021fd595ddb506" sha1="81ac9ef037e3ffc8ce343db6c1e501e1f054f2af"/>
+		<rom name="PCMAP/JUNGLE/RAY22.LEV" size="28250" crc="cb836a4c" md5="28046ccb89ce5d5a2b4ed432b9fde00d" sha1="32246bd2067a0d3177218c54864dff5801c97cce"/>
+		<rom name="PCMAP/JUNGLE/RAY3.LEV" size="176086" crc="bac532d5" md5="1b157c102160167f9151acc867ac2c47" sha1="83ba608c2eddf1fd5d859c24f4131db5a19a3350"/>
+		<rom name="PCMAP/JUNGLE/RAY4.LEV" size="383232" crc="8b74c345" md5="70580d4fcd291c0a12c99c35214fc004" sha1="01f15f38433de6deea560bdb2fdb3bc0c19c4a8b"/>
+		<rom name="PCMAP/JUNGLE/RAY5.LEV" size="474060" crc="cf01b816" md5="00f72eea6757c94c9271b5afd6924cfe" sha1="a08ab0777556515edc0098f1c6c5019a410eae1b"/>
+		<rom name="PCMAP/JUNGLE/RAY6.LEV" size="267305" crc="10f82b5d" md5="4e7a62b2e83a3c601a1aa10333510358" sha1="f1d7c41880ac47633528d5b0493473ee687a80f7"/>
+		<rom name="PCMAP/JUNGLE/RAY7.LEV" size="261228" crc="ec69c612" md5="83aeb412985d0cf621bf92f50e278918" sha1="78cd7d90a0e7ca8938d51a1f298e817469655654"/>
+		<rom name="PCMAP/JUNGLE/RAY8.LEV" size="245441" crc="756629e5" md5="6d42d606c7675fffb4a5094d345695da" sha1="27d2177cc99c7bc42ed12ac4ff4a0e841a2cc406"/>
+		<rom name="PCMAP/JUNGLE/RAY9.LEV" size="241860" crc="897a0e30" md5="ee874f7d2ac988ccab8a1424a8eac465" sha1="0f7c501a85bb24ce970cb49efb3ca12a3d0b8d09"/>
+		<rom name="PCMAP/MOUNTAIN/RAY1.LEV" size="306499" crc="96a18d9f" md5="9a710c36089a8f6b69051a73c4d817da" sha1="009a3f082dac3d9eb55b485fbe4ef8fc17162283"/>
+		<rom name="PCMAP/MOUNTAIN/RAY10.LEV" size="33402" crc="571738cc" md5="b4ddf495f7cd77afc83d98c53f93baf6" sha1="977bbc2773dd53b8b1161633554a4ff9ca466fcb"/>
+		<rom name="PCMAP/MOUNTAIN/RAY11.LEV" size="135057" crc="30f9a16c" md5="aa631b02a878c385a0ef97ea8b918fef" sha1="bd43d5f99d79df76f0cd64f8cd89be243eba7c17"/>
+		<rom name="PCMAP/MOUNTAIN/RAY12.LEV" size="108368" crc="ddf21839" md5="c0d261c31648d0581f84ec2100ab9d8d" sha1="049d90cf74fd5ea7b3cebd0bed786993b5e3e47e"/>
+		<rom name="PCMAP/MOUNTAIN/RAY13.LEV" size="93785" crc="863d7ef7" md5="20d7ba622d814043fa2b30cb547838ef" sha1="a71119df7e47630680f6e1a2d00a11f1822e41fc"/>
+		<rom name="PCMAP/MOUNTAIN/RAY2.LEV" size="447326" crc="7e306bce" md5="34b21bd047ea63c641bd25a4c12d09b8" sha1="b6647696bce756f1014a508a52852a4e11f7189c"/>
+		<rom name="PCMAP/MOUNTAIN/RAY3.LEV" size="358327" crc="90180b87" md5="713fa5e492cacd4d51b07c85dd2dddca" sha1="c3e5e9890e92c469539f24763b0883639a65cc3a"/>
+		<rom name="PCMAP/MOUNTAIN/RAY4.LEV" size="430054" crc="8a99846e" md5="8506a0fc0fef643e759cbb61ed3aa0bd" sha1="571b708a2c4a0193a3e486b77d5c1ea7574abd28"/>
+		<rom name="PCMAP/MOUNTAIN/RAY5.LEV" size="320732" crc="d9c07a9f" md5="9c30afa1f3f1337d0a64bad53c2e1a0c" sha1="6357fd7dbc57c9058cf8fc1a0341f1d881f7a6f0"/>
+		<rom name="PCMAP/MOUNTAIN/RAY6.LEV" size="366075" crc="d8b492e5" md5="424b944c3c736d38bde597540a7cbaaf" sha1="7147d562f501f6e59c0e6af88ab4c015237058a9"/>
+		<rom name="PCMAP/MOUNTAIN/RAY7.LEV" size="206442" crc="d0653824" md5="4dab7c366daaf5bdb35a957287c0649f" sha1="c60ea4fbc69b7797cbd5114e07d36242cc096e16"/>
+		<rom name="PCMAP/MOUNTAIN/RAY8.LEV" size="432135" crc="e2d34602" md5="e690dc3786ce9a743455b9b9cf9fb837" sha1="40e3578be8269ebde6f8afa2f0414de4718ef13f"/>
+		<rom name="PCMAP/MOUNTAIN/RAY9.LEV" size="446533" crc="30e03424" md5="580535540595989961951c667e4c03c9" sha1="6c8d69a30b35eeb7b298f432e5d2e98c9779ccf7"/>
+		<rom name="PCMAP/MUSIC/RAY1.LEV" size="626839" crc="80afaad9" md5="58c02cb7abb30a8d9d5500d8b142ed13" sha1="3494101378ac4245adc1275b53c83043cd7256fb"/>
+		<rom name="PCMAP/MUSIC/RAY10.LEV" size="485964" crc="63b0703f" md5="b310fe939bfa8d0cee433e7ee03049b2" sha1="8959165dbd25e551dc663246eca6a619c0e67196"/>
+		<rom name="PCMAP/MUSIC/RAY11.LEV" size="238850" crc="559edaf2" md5="aaa86019c6be393eee903c432cf73ff1" sha1="8f8ecf628521a04967a33ba29962e97054a7af3a"/>
+		<rom name="PCMAP/MUSIC/RAY12.LEV" size="303465" crc="c2368293" md5="1097b7bf20367838e8da63bce426634f" sha1="63304f09c87e158ec2aaf665d80e2e0bd0a6d132"/>
+		<rom name="PCMAP/MUSIC/RAY13.LEV" size="222994" crc="b48a0121" md5="4cc2f35a54bf09194443b1a60af60870" sha1="a82d2bf756e886e1ec7ff503e2a22ab96ccb2f9c"/>
+		<rom name="PCMAP/MUSIC/RAY14.LEV" size="568472" crc="6d8de97d" md5="9e67438051e29b3469745c2873716ae7" sha1="f7926a231d0ab788c1d1094c0acd0d96c0013535"/>
+		<rom name="PCMAP/MUSIC/RAY15.LEV" size="210493" crc="bd469766" md5="ed4e96f21b17e219cd325c9a4dccd2ca" sha1="7193b60828701c1f87b62b081624c5b63c228393"/>
+		<rom name="PCMAP/MUSIC/RAY16.LEV" size="30452" crc="e1f5b33d" md5="0597180636730b0ada7bd8e376c6bd5a" sha1="6f9775fd5f00e6f32e44565a6ff8421cf26bdecd"/>
+		<rom name="PCMAP/MUSIC/RAY17.LEV" size="53972" crc="e076f967" md5="1d1194442128231a51063f7ec50dc890" sha1="8f9a9b46c0cb60724ea190ea80a501262db1c280"/>
+		<rom name="PCMAP/MUSIC/RAY18.LEV" size="52002" crc="25ae83f6" md5="eea8dc42b3f6d37e199d93fa017751ae" sha1="f356df3fd1b11c7fd5abe12b7aa1af7725af3bb8"/>
+		<rom name="PCMAP/MUSIC/RAY2.LEV" size="275994" crc="7a8abc14" md5="563030b09361c4e5625bd989024ffe6d" sha1="bc380a985e60a9d6dc604ec7576219e9a43efe5f"/>
+		<rom name="PCMAP/MUSIC/RAY3.LEV" size="413900" crc="d644af4d" md5="3a00e039cdf146f23fca3948a6ca3349" sha1="f15ac26bffab6360dc95f794911e1e6d7d8743b6"/>
+		<rom name="PCMAP/MUSIC/RAY4.LEV" size="313536" crc="cea4436a" md5="1a4a5ccdfb2c878d99a4b59ac69f377e" sha1="0b9aac84cd4fd26de4b5bd92b0a5d90913d35ffe"/>
+		<rom name="PCMAP/MUSIC/RAY5.LEV" size="397746" crc="e9e32ba1" md5="89dfff672932e5eecb4c3b01ea518d76" sha1="1748e6baefea68622cb664a42e8a041661ef8089"/>
+		<rom name="PCMAP/MUSIC/RAY6.LEV" size="271390" crc="db94edc7" md5="a03880cb9748268d7472274de4254d74" sha1="7354130b5fda1b3ebe5e90e231966cecfaa4638d"/>
+		<rom name="PCMAP/MUSIC/RAY7.LEV" size="320268" crc="cb140b23" md5="b3f8712554150a66d6db91c1a2a45a0d" sha1="e4f807befd0b5084205fd5ba45247aa382802784"/>
+		<rom name="PCMAP/MUSIC/RAY8.LEV" size="368372" crc="d50f435f" md5="28f7849ce4a0fcc892ced9208f692036" sha1="1994e3562018ee813bf129ac79bb2bfbcbc32555"/>
+		<rom name="PCMAP/MUSIC/RAY9.LEV" size="478117" crc="a3e1d5fc" md5="e75785e6ef29aa393907f8b120d65726" sha1="dd3cd3c27222ee094c40a452717d655086db0d79"/>
+		<rom name="PCMAP/RAY1.WLD" size="903731" crc="159a0eb0" md5="4e55ada366f3e26d56fcb706677c6776" sha1="b0810dab150bd482de4d58c22627f3d4a6095de2"/>
+		<rom name="PCMAP/RAY2.WLD" size="853899" crc="91ac64ab" md5="57f53fd831df85b93b51795edaf02ce5" sha1="d5e3c638184627f4f61ce83dd0b2bb91150f22e0"/>
+		<rom name="PCMAP/RAY3.WLD" size="772177" crc="6543b93d" md5="d0231afaa24ed6aee29f35618e167edd" sha1="669f6d581d906df64b4f8f321d7dea412c01871f"/>
+		<rom name="PCMAP/RAY4.WLD" size="919132" crc="55952dde" md5="30e7d9ef09d8693a0d0f5a8b9caa616b" sha1="a56a23d9e21c54b16deedeb23c4018b0db8ce931"/>
+		<rom name="PCMAP/RAY5.WLD" size="995747" crc="7bd9e231" md5="ad1746d206638c968a44469585665ee7" sha1="bbb17d4653f0b1acdb4943c24ce3016c5ea1f541"/>
+		<rom name="PCMAP/RAY6.WLD" size="778784" crc="95179743" md5="4c776db42321fba82722194a05f18f40" sha1="2382512b65a291eed481dc195a01463da546265c"/>
+		<rom name="RAY.LNG" size="13606" crc="e154107c" md5="76476102aca1137300e48dcc7714cbb8" sha1="3bfab944976fbe58ab6a3cf3efd3a40f64c2c55c"/>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 1).bin" size="108234336" crc="7c9150b0" md5="2b2c8a4c427318365baa2b812d8743ba" sha1="a10f2686131f185edd48ba4c77ecaac8f263c291"/>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 2).ogg" size="4433589" crc="d18c07b0" md5="ace63b68eabd25bbedb4ba9f0d209835" sha1="6937020cc5f5bdabd35403fde4d22bcb25d03522">
+			<source frames="11251" pregap="151" duration="02:30:01" size="26462352" crc="6f8e03dd" md5="c0aaab8a173fbd326972427c3eadd311" sha1="7dc2019445fe1d55db4c4a46d4f77c1cf28ce8ec" in_zeros="1" out_zeros="0" trimmed_crc="08ecc970" quality="8"/>
+		</rom>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 3).ogg" size="4387076" crc="81a4e704" md5="b3d9b1fe2976567ad432cf6c17965b56" sha1="a5eaa3b45ed6709812607e8f0fb6bcaaed7fdf82">
+			<source frames="11033" pregap="149" duration="02:27:08" size="25949616" crc="da9b3925" md5="79fc41354018bae4d8fc97db4bf4c338" sha1="1eb7d7677c08597a3dcae40162dfaac27a2f1b35" in_zeros="0" out_zeros="1" trimmed_crc="f4eb854d" quality="8"/>
+		</rom>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 4).ogg" size="4279910" crc="d9cc438f" md5="5b7364a4cf4a37036e66809a4c60cec8" sha1="9c300704087474f44ca2193d58767ab0928cbf82">
+			<source frames="13623" pregap="149" duration="03:01:48" size="32041296" crc="fdb3d476" md5="d37be8c2861035eeb83098c13f47a495" sha1="faf78653bf9f18bcbd3cd4bf2298fb0688183df5" in_zeros="0" out_zeros="0" trimmed_crc="fdb3d476" quality="8"/>
+		</rom>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 5).ogg" size="4607892" crc="dbeecf53" md5="1c017bf8fca8ca8df4bfba9e9a2deb89" sha1="d84d7295379710454fea207fb2505510381f7659">
+			<source frames="11410" pregap="149" duration="02:32:10" size="26836320" crc="121929ab" md5="3cc5892c710bb2a86a0faacf42da4990" sha1="831d66e749f0ca93e13c5c9096ccac6c4b125b5d" in_zeros="0" out_zeros="1" trimmed_crc="a1aa8b7f" quality="8"/>
+		</rom>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 6).ogg" size="4646912" crc="3de0a79d" md5="deb584a3eacfbbe7c54b1ba73d220532" sha1="97e3ed12385901b158bc94d576ca300aa81388b2">
+			<source frames="11199" pregap="149" duration="02:29:24" size="26340048" crc="bb3e3252" md5="1c959a11b3a60d9a8649ee7e86a12394" sha1="1f184df82980b24130aa7aae723acec4ff5cd9b1" in_zeros="0" out_zeros="0" trimmed_crc="bb3e3252" quality="8"/>
+		</rom>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 7).ogg" size="4627534" crc="6ba0c0ca" md5="ec587acd0b8b6b3f5aabb8ac196e311c" sha1="da84dc75a8d536a86fef1fea8103577271081092">
+			<source frames="11284" pregap="149" duration="02:30:34" size="26539968" crc="fc7c3e99" md5="99288ed3fdcab3000b0420fe90331b46" sha1="f47a36d44cc4eeeb6f283f193f1590975a92f1ee" in_zeros="0" out_zeros="1" trimmed_crc="cadc957d" quality="8"/>
+		</rom>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 8).ogg" size="8933620" crc="6aca9835" md5="15eaf84e55b4a6bc61d6d650c3cd5209" sha1="f78fbaee2651de08c7bc670ab65357409e9ce3fb">
+			<source frames="21243" pregap="149" duration="04:43:18" size="49963536" crc="3250bcad" md5="30b9a9da0c5d8ffdc791283e09e7f641" sha1="c50042145254f35cdcb2820a1b4a9627369895e4" in_zeros="0" out_zeros="0" trimmed_crc="3250bcad" quality="8"/>
+		</rom>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 9).ogg" size="2801940" crc="ed557df0" md5="29c8695bcc65aa8155814712d7408724" sha1="495b1f0b96a3a4db1ba53d18498595319de8034d">
+			<source frames="6210" pregap="149" duration="01:22:60" size="14605920" crc="a534c7ce" md5="1661517f033afb7220eee0467bcc2c10" sha1="09760d0d6504e9a0e7cd373b53d8d8b701b2d972" in_zeros="0" out_zeros="1" trimmed_crc="3118d501" quality="8"/>
+		</rom>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 10).ogg" size="1086014" crc="72127d36" md5="8f01714dc712e3ba71b95e7cb45e12cc" sha1="40987eaa88bb58cc498ed0ace977e5d9aad70e84">
+			<source frames="2649" pregap="149" duration="00:35:24" size="6230448" crc="44c54991" md5="e1c0141cfd484ce2c6801192d664889e" sha1="3d3427c98047dd5c91b4428337a758e25b91fcfb" in_zeros="0" out_zeros="0" trimmed_crc="44c54991" quality="8"/>
+		</rom>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 11).ogg" size="6281869" crc="eac9f0b8" md5="8b732b88a5e2aa92254715992c9d593f" sha1="cf3ec5d87823adf42268745d39f442ba72bb3c82">
+			<source frames="16278" pregap="149" duration="03:37:03" size="38285856" crc="22dc94cc" md5="a48daecac1792991f5c01489f5e26d26" sha1="edf3eee2ec763660da2545d71698bb7a4e490cb2" in_zeros="0" out_zeros="1" trimmed_crc="d1e80590" quality="8"/>
+		</rom>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 12).ogg" size="249608" crc="ad60a3a4" md5="ce51e5e514b94d49542abef0b08abf64" sha1="0fad2288ab59bfe63e8d79d18bcea2178cd7bbbc">
+			<source frames="808" pregap="149" duration="00:10:58" size="1900416" crc="e9fa0161" md5="5afd2285f8267c2323895f8d1f3525a9" sha1="9cf71ad22d007fe1e5355106db5036f205b25831" in_zeros="0" out_zeros="0" trimmed_crc="e9fa0161" quality="8"/>
+		</rom>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 13).ogg" size="7630577" crc="33d85f52" md5="5091e315a149b046bb10b585e0333a4b" sha1="e2d203b0ff9c976055422f7f81606577b4d7eaa9">
+			<source frames="19447" pregap="149" duration="04:19:22" size="45739344" crc="40fe099c" md5="9bae4ae0557930cbe1a9f2e3e08bf35c" sha1="83454b02ee3aecf295fdb1bb5b5d0a0411c59c54" in_zeros="1" out_zeros="1" trimmed_crc="efa0177c" quality="8"/>
+		</rom>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 14).ogg" size="8727073" crc="060037ba" md5="baea13a4607285326887f161c05ed7d9" sha1="a2c4d624706fa4b9b97eb34d9167ec7efbc6dd14">
+			<source frames="22098" pregap="149" duration="04:54:48" size="51974496" crc="47ac242d" md5="71f823da877ed1aa0eb379f356c8b1e2" sha1="3f4ac225a516b9d024d083a6c149ebcc5d346a76" in_zeros="0" out_zeros="0" trimmed_crc="47ac242d" quality="8"/>
+		</rom>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 15).ogg" size="2236924" crc="b90bedc9" md5="ab5fed3853498da1835eb007dd595344" sha1="ff3a43ee4948f53bebd79b3942cb822a834168db">
+			<source frames="5356" pregap="149" duration="01:11:31" size="12597312" crc="618f52e0" md5="8957e861d5adac796b0f346b295f8c13" sha1="0675587297ed8827a5eb670e7ea5ede561b1cac2" in_zeros="0" out_zeros="1" trimmed_crc="ebc743f8" quality="8"/>
+		</rom>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 16).ogg" size="5845265" crc="0622625c" md5="075060a3288f62e20cdde256e3581d9f" sha1="ea44a4ed1029b5fbddad6ce7b11e77aa72d2edb5">
+			<source frames="15574" pregap="149" duration="03:27:49" size="36630048" crc="0436cf44" md5="5ef4b113c7eb7aca0de6e28fa0aa88f9" sha1="b1c17a127815a68533df3b9dec47d9e4ec5fb26b" in_zeros="0" out_zeros="0" trimmed_crc="0436cf44" quality="8"/>
+		</rom>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 17).ogg" size="9133146" crc="f93d22cf" md5="44958d48ebbf182852a322dbc3bb2f1b" sha1="ee3b16f5872573e2704d4e676297c6323200144b">
+			<source frames="23735" pregap="149" duration="05:16:35" size="55824720" crc="83901f67" md5="4a4ea69c238605d8703e00983e927927" sha1="0e0551851a0b193b1c64f79bea8bf6f328038baf" in_zeros="0" out_zeros="1" trimmed_crc="4cf0d031" quality="8"/>
+		</rom>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 18).ogg" size="2436226" crc="6f574938" md5="9e6889be02b88ae856648f5153732ab1" sha1="85d6098096c11120807caa0d6a9056c7dbe47eb3">
+			<source frames="5164" pregap="149" duration="01:08:64" size="12145728" crc="7e35cbb3" md5="b25240aaaac18731b7d8bbaf70391dab" sha1="51d5ab746e1904d709e71dd0c3ec6523c8cb628c" in_zeros="0" out_zeros="0" trimmed_crc="7e35cbb3" quality="8"/>
+		</rom>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 19).ogg" size="2066728" crc="80de9741" md5="d582745efb735f56953f1831b64a0550" sha1="12fa73f7356d6823b11bb4a0b4b71e0fc1c60431">
+			<source frames="4498" pregap="149" duration="00:59:73" size="10579296" crc="b7af1f9e" md5="dce51f2a8b22750f1b1a6b3a50bb9e40" sha1="853466ec99f1201261992181c77ee0a5eab56229" in_zeros="0" out_zeros="1" trimmed_crc="1d29d558" quality="8"/>
+		</rom>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 20).ogg" size="3653366" crc="948e5015" md5="7528ddb787e53dacc4a53bd746f2e2da" sha1="2718167b40d2c0e7cb1751826e145618701a3377">
+			<source frames="9183" pregap="149" duration="02:02:33" size="21598416" crc="2b3360a8" md5="85b1ed5d9509d33eb60a839d3280832a" sha1="a3437f599d96ed584661aa549205ebab64a45dc3" in_zeros="0" out_zeros="0" trimmed_crc="2b3360a8" quality="8"/>
+		</rom>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 21).ogg" size="3969162" crc="3b94bacd" md5="365b4ab159e9ebb488353dab9b36d8bc" sha1="76ebe254e7c351a222cc086ebaf32ca780ed5df8">
+			<source frames="9195" pregap="149" duration="02:02:45" size="21626640" crc="445d30fd" md5="e2e583dd037a7bba498961750ab025e4" sha1="81e3a6d5a01877fd37bf0d2abaa7a2c868588dd6" in_zeros="0" out_zeros="3" trimmed_crc="3ec0ef96" quality="8"/>
+		</rom>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 22).ogg" size="4246846" crc="4f2e2210" md5="9703a837daf87498e5a05f58f82842fa" sha1="884a154e5835f26078b2bdee4bb6ef7bcc6a46c1">
+			<source frames="9199" pregap="149" duration="02:02:49" size="21636048" crc="2b43ee6e" md5="f96f74f91a55ab78a7bbc119668cd592" sha1="2ec8c4406c76ba8605e4d33542b78374eb1121f8" in_zeros="0" out_zeros="0" trimmed_crc="2b43ee6e" quality="8"/>
+		</rom>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 23).ogg" size="534732" crc="f57a437f" md5="863570c2954ec209fff757279e01d97a" sha1="facd9f7d64945bd99b6588ebf8ec6d0de9edcec5">
+			<source frames="1491" pregap="149" duration="00:19:66" size="3506832" crc="ca3bb99a" md5="ad73247c15ba87b632cd0fcc4380397b" sha1="6ba36c46b262dbf1e759f154ca65db8e3a507012" in_zeros="0" out_zeros="1" trimmed_crc="8e1160d7" quality="8"/>
+		</rom>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 24).ogg" size="418486" crc="1c4995ea" md5="30277a3e12a146fa1ffdfaa46366b871" sha1="9a939fc9b1395235397aed23e843ff9a57c82ddf">
+			<source frames="1216" pregap="149" duration="00:16:16" size="2860032" crc="9de48e9c" md5="64cdf4519f24d6773891ea7e1e0f52e0" sha1="24757df9d139607428ab009418dc80ed81e8fde8" in_zeros="0" out_zeros="2" trimmed_crc="9f9a11c5" quality="8"/>
+		</rom>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 25).ogg" size="431936" crc="75696e19" md5="22c1b85a02e28911b0209cd5ca528813" sha1="27202f7bb9b7115e469eaeef7bbd13dcdc425fc8">
+			<source frames="1371" pregap="149" duration="00:18:21" size="3224592" crc="d3281062" md5="b09b652002c5e6ce43c6baff3585716a" sha1="12740ead22a73e33db2ff939bb47d12097fe8c55" in_zeros="0" out_zeros="373969" trimmed_crc="a4d64a30" quality="8"/>
+		</rom>
+		<rom name="Rayman (USA) (En,Fr,De).cue" size="2299" crc="5aff210a" md5="e29570a24fb0eac991ca8253a7eaf695" sha1="079af8ddcaad88d8d97ca9124fd8c8e10e38f7bb"/>
+		<rom name="RAYMAN.CFG" size="132" crc="d398a48f" md5="7c9fc758759660e666d411162fd0f84d" sha1="b242b4357d277643f910f0198abbbe3e74b64dce"/>
+		<rom name="RAYMAN.EXE" size="426732" crc="de044407" md5="73bd60338b4ed09396fab3c3bfd4c176" sha1="2bdbebead2c6a5a96e8ee8198fa14c174e65be7f"/>
+		<rom name="SNDD8B.DAT" size="1338224" crc="2318046d" md5="36205407f5301614e8c6536083d124e7" sha1="d0cfd48d37617fd5610547a7f73e0840e7f53beb"/>
+		<rom name="SNDH8B.DAT" size="14336" crc="7b18d453" md5="d1928fb120e9492e75b1eab2b4ef70ed" sha1="fa44d50956f47f236aa1cf98342860b65df22679"/>
+		<rom name="SNDVIG.DAT" size="727854" crc="c583e280" md5="f21e470496e612465fedf12a230f5b95" sha1="666591e3768e708621aa6e4cb3cf73d7a60d6e92"/>
+		<rom name="VIGNET.DAT" size="2946944" crc="f65074f4" md5="edc45209de8c770d8f272a2bacecce25" sha1="2b6da6b1a2c00603ececb7f01d238017f589ec09"/>
+	</game>
+	<game name="Rayman 60 Levels (1999) (Ubi Soft).dosz">
+		<description>Rayman 60 Levels</description>
+		<comment>Files copied from Rayman Compilation CD</comment>
+		<comment_dosc>Sound Blaster 16 config and auto start. French option</comment_dosc>
+		<year>1999</year>
+		<developer>Ubi Soft</developer>
+		<link type="media">http://redump.org/disc/55659/</link>
+		<rom name="DATA/FR.BIN" size="2292" crc="be63bd35" md5="524a2952a615c448d826e9cc2b376fb1" sha1="184c4c836104b3785f5064f17310309ac8b20eb9" date="1996-11-12 19:30:18"/>
+		<rom name="DATA/KITFOND.PCX" size="26402" crc="9a6d5520" md5="aa4052253c1e92e9eaeb7e5edf970941" sha1="37f75480a05028bb8d47d4b9d8490d9741b9d6c3" date="1998-07-09 18:53:54"/>
+		<rom name="DATA/LET.OBF" size="780" crc="e616fcc4" md5="99b02210f5102aff57a426ee8264202e" sha1="c77ddb8f7b7774e8a2d53c35dc0c74d6fae12564" date="1996-08-02 12:05:26"/>
+		<rom name="DATA/LET.SPR" size="9908" crc="bb6a307d" md5="6a33d149c85a70ec471d5208b585f37c" sha1="746f1aeee7ea645dcdfa636cb9e288cc94b146d3" date="1996-08-02 12:05:26"/>
+		<rom name="DATA/LET2.OBF" size="1116" crc="15dd1a7f" md5="58db8890932be595a275c3aaa517ae77" sha1="8542f759e4e9bba7792db7653af0b254eb5b0124" date="1996-07-31 14:05:36"/>
+		<rom name="DATA/LET2.SPR" size="36828" crc="827eaf77" md5="3ebed606eb5c006c2c2287853e5e4021" sha1="c6a72be412b990f950add57d8618739a56f8e9f1" date="1996-07-31 14:05:36"/>
+		<rom name="DATA/PERFECT.VIG" size="25472" crc="2fb45b87" md5="bf986ed2bcf1a972fd669e5e70105c4b" sha1="bf78cfa4c233562baa5026962627717cc4842739" date="1995-09-06 15:06:40"/>
+		<rom name="DATA/SOUND.BIN" size="2415" crc="9c97dcea" md5="0c8aa2abb8f050eaed72a85d5038005a" sha1="8f15d5a730200d1891a4b350bbe7d77c688df9b5" date="1996-11-12 19:48:18"/>
+		<rom name="DATA/USA.BIN" size="2002" crc="5ad0dc7f" md5="4947b95fb2a2dd406561f3dc30d5ca46" sha1="ebc96b723b0c9132759e1813d30a2b6918a7e8f9" date="1996-11-12 19:48:18"/>
+		<rom name="DATA/VERSION.BIN" size="229" crc="6e4f148f" md5="0f102f1aa2ab60d97cbfbab070fda386" sha1="202f6a36920e88ac31ef4582413e981337ca7ba6" date="1996-11-12 19:40:08"/>
+		<rom name="FR/RAYMAN.BAT" size="29" crc="4f30d2ae" md5="fe4d9968ad4495a89014a10066e3288f" sha1="044c2b811233d267e43de37589ffa2c262e0acaf" date="1999-07-15 16:55:54"/>
+		<rom name="FR/SETSOUND.BAT" size="87" crc="47b22d93" md5="a851329e760f6019f9078f7d83c1bf1c" sha1="dddef446fdc40ef57785fab8247ecf640b9be34a" date="1997-05-23 12:21:16"/>
+		<rom name="HMIDET.386" size="81990" crc="637c56a8" md5="59b3f813848cda336763648d628db917" sha1="27a06eb94b0abf13139c311ebed73358b20bcdab" date="1995-02-06 03:00:00"/>
+		<rom name="HMIDRV.386" size="261425" crc="f6d116a3" md5="bd16499c7c0ef8cebb0999373edc5361" sha1="becd7f4a413a1966986b4c41c860b678d7244d58" date="1995-02-06 03:00:00"/>
+		<rom name="INSTDATA/UBI.ENG" size="212" crc="82436ece" md5="30d381781b84ce593148b64ee1e720cf" sha1="c46e00b893276c52410bb205161d598a8c7b95b4" date="2000-11-02 17:43:58"/>
+		<rom name="INSTDATA/UBI.INS" size="4027" crc="efafe051" md5="253733ca651b59b9063f5573455d5436" sha1="ffeb6293336f7cb389eec30108068a1314e08f10" date="2000-11-13 11:01:42"/>
+		<rom name="PCMAP/ALLFIX.DAT" size="482820" crc="8b10001d" md5="ca8bd9df85bcd7ead1f2b37ef85f4bb8" sha1="570b796994002ca1952e47df2e9bffb2b0f0773b" date="2000-11-02 17:29:06"/>
+		<rom name="PCMAP/BIGRAY.DAT" size="94578" crc="9bd2e5b6" md5="b84a07dafa4d37da4080cb41dad698ce" sha1="46f801dcafc9b40736ec9c409e8ee093960bc95b" date="2000-11-02 17:29:06"/>
+		<rom name="PCMAP/CAK01.LEV" size="665800" crc="19717f9f" md5="804f39f8fcc2549a0cebfa641dc6c6cd" sha1="5d7b94d4b78dd6adfec6e1e2abc18d3272faa69f" date="2000-11-02 17:29:56"/>
+		<rom name="PCMAP/CAK02.LEV" size="647541" crc="16ca99c5" md5="8a3962ed24e6e2cf705a78d09ef89b72" sha1="d040b4bb5606c0e89c3732680fda91275a04ecd5" date="2000-11-02 17:29:58"/>
+		<rom name="PCMAP/CAK03.LEV" size="664341" crc="02562373" md5="6fa65035d2739e1897d928fbba92a0ec" sha1="0d394886493337406ea05eae10936562174a33b2" date="2000-11-02 17:29:58"/>
+		<rom name="PCMAP/CAK04.LEV" size="713427" crc="83e29280" md5="f84679cbadf6cd4438ef2d161474c877" sha1="438f26439c0de771474a0b07f2235b7f0172a904" date="2000-11-02 17:30:00"/>
+		<rom name="PCMAP/CAK05.LEV" size="724818" crc="456f0c66" md5="0ef9605267a4dd40c996e611cb85a58e" sha1="6915db93e5a5cc136c861b0228dc86b50c5ca16c" date="2000-11-02 17:30:00"/>
+		<rom name="PCMAP/CAK06.LEV" size="695805" crc="ff0c1898" md5="6f5a06d48045262f5c7dd2ce67e75d49" sha1="f991179ba3f96727be84f3296dc0bd396d91ec0d" date="2000-11-02 17:30:00"/>
+		<rom name="PCMAP/CAK07.LEV" size="728371" crc="28fff8e0" md5="1a750f6f56027cf2dc9e44977aeed856" sha1="6e592aba7004931d402c7e84c614185e2000fdda" date="2000-11-02 17:30:02"/>
+		<rom name="PCMAP/CAK08.LEV" size="654527" crc="4c2f15b0" md5="fc07caf55f96bb2e333b3d7cfbd2e213" sha1="b288a34937fffc9afefffc002b2bd489a5ea1a19" date="2000-11-02 17:30:02"/>
+		<rom name="PCMAP/CAK09.LEV" size="820548" crc="cc7234a9" md5="3b4c22a2563a35ee5eafe3664fa16597" sha1="21594c6e4df2318d062b7fe2c6333edc8fdc1930" date="2000-11-02 17:30:02"/>
+		<rom name="PCMAP/CAK10.LEV" size="692143" crc="e337b824" md5="828e4861648893c7facd3478916bfb6d" sha1="3f1f727280ac03746c9881cbcb27b2585e22cefd" date="2000-11-02 17:30:04"/>
+		<rom name="PCMAP/CAV01.LEV" size="665790" crc="05afed1f" md5="9430dfc4d233a04f7e9ce0a21abd8e6d" sha1="3a7cbf1356cdb4333f59da1c5edba572cfc0dafe" date="2000-11-02 17:29:48"/>
+		<rom name="PCMAP/CAV02.LEV" size="662633" crc="acd654fb" md5="cfdb8b9a95dd8553b5240820ea55b936" sha1="131bebf7ddf4938288f8ec3d54f865ceb601e457" date="2000-11-02 17:29:48"/>
+		<rom name="PCMAP/CAV03.LEV" size="664288" crc="0258b4b3" md5="7a8be3afcf8c4de599457c4652f136ad" sha1="0e5ba78820e3b47e0ab534b8dbf9b1b57e3dd3c2" date="2000-11-02 17:29:48"/>
+		<rom name="PCMAP/CAV04.LEV" size="556680" crc="acc5e9d6" md5="e67a25cf31ef35bf26e44a4fdafe80a7" sha1="5db4d07d79e426bb485adabe4c5456c243ab560d" date="2000-11-02 17:29:50"/>
+		<rom name="PCMAP/CAV05.LEV" size="783706" crc="6189f5a1" md5="1edda3b5caa25d0b3e4f10f4ec510cc5" sha1="7fe9dbc0af3c37ceb4b201b7ad495edaf992f4ff" date="2000-11-02 17:29:50"/>
+		<rom name="PCMAP/CAV06.LEV" size="668447" crc="c7fc9e97" md5="beca0b87671c85de994f89eb7792ef7a" sha1="07536abf5766c316e63a5c23a7a448192269163d" date="2000-11-02 17:29:52"/>
+		<rom name="PCMAP/CAV07.LEV" size="645641" crc="cda3097b" md5="cf36954d632cf76727683940bcc5bd1e" sha1="720f853bcd233fab01a4d2f097e5e0ad56b36dec" date="2000-11-02 17:29:52"/>
+		<rom name="PCMAP/CAV08.LEV" size="661299" crc="51520fae" md5="8e0a618ad71ccff9f60e1e5561163675" sha1="8aa5376117374e5b85f226339c87605ce3a89dde" date="2000-11-02 17:29:52"/>
+		<rom name="PCMAP/CAV09.LEV" size="696220" crc="c7446135" md5="77fff79190e8cae0b449db5441f55cb8" sha1="898572e0cfa3b45163384241a3cf488edea58a90" date="2000-11-02 17:29:52"/>
+		<rom name="PCMAP/CAV10.LEV" size="660899" crc="4cd10501" md5="a6b4d42e03cd0094c7dc848b36c71bbe" sha1="e547eb71e34b174e39d5fb2dc5c71ed664d71cd5" date="2000-11-02 17:29:54"/>
+		<rom name="PCMAP/COMMON.DAT" size="9439" crc="d2af2e93" md5="21a5403ac1b8dbad2fb5b0bf97a05b3c" sha1="a54bebf04d549d008852609deba0b14bd24f57b3" date="2000-11-02 17:28:38"/>
+		<rom name="PCMAP/FR/SNDSMP.DAT" size="386527" crc="40989e35" md5="0bf5483d217f84c817194b9a674f721c" sha1="eae8541ce503b70db768267a1e8102b357687ddd" date="1999-06-23 17:58:10"/>
+		<rom name="PCMAP/FR/SPECIAL.DAT" size="18211" crc="b593442b" md5="f239482cf1b24c3f2d7a44d71a51f113" sha1="aa68d0c8b3bfc1d83268e8e17c89d24412d770f8" date="1999-08-02 16:04:54"/>
+		<rom name="PCMAP/IMA01.LEV" size="601277" crc="5cd2bdf4" md5="5cc78c66dc0accfa2a40b134acf4a184" sha1="872d4446a73ef74b752164275367d31d7367c6dd" date="2000-11-02 17:29:38"/>
+		<rom name="PCMAP/IMA02.LEV" size="628006" crc="a7369d8d" md5="effb5457efc3fc3d5f670e453bf71c87" sha1="9692c515c2b1e38a030e40143359621d1b8cda00" date="2000-11-02 17:29:40"/>
+		<rom name="PCMAP/IMA03.LEV" size="628568" crc="56e39ffd" md5="a52736eb11336c2bfb1603adb1809091" sha1="1526d10300c6962e8937bf32c5b98bbcbe30be29" date="2000-11-02 17:29:40"/>
+		<rom name="PCMAP/IMA04.LEV" size="648181" crc="1a2afe30" md5="0595dd9397ee4821c128124033da8f6a" sha1="12e5b807c01691f55623ed7b567ecb80059e9405" date="2000-11-02 17:29:40"/>
+		<rom name="PCMAP/IMA05.LEV" size="735615" crc="e2438255" md5="699ddb7f4b17f828ca73407dc6a0d5f2" sha1="dd35bdb609764728210bbec1332ab670a91f4e80" date="2000-11-02 17:29:42"/>
+		<rom name="PCMAP/IMA06.LEV" size="660485" crc="35edb274" md5="0d772f25479ea7e43650f1eef38a3729" sha1="b3771f6e1017e71fe50f1563ff2598bfd08f24b7" date="2000-11-02 17:29:42"/>
+		<rom name="PCMAP/IMA07.LEV" size="622447" crc="88061167" md5="05ab31f602e2471852ac89feb7be8c2e" sha1="bf48c796447558274c9e6af5f6c47c51ab381af5" date="2000-11-02 17:29:42"/>
+		<rom name="PCMAP/IMA08.LEV" size="623076" crc="2dcc9428" md5="68606b51d72bb79405d55a2383dffe62" sha1="eab088000415676d395464b18c077e23cee491d3" date="2000-11-02 17:29:44"/>
+		<rom name="PCMAP/IMA09.LEV" size="617246" crc="85980e8b" md5="e066403b45f8900cdb8b06093a0b7d84" sha1="859d10644844a63456a53a324581281fed72c901" date="2000-11-02 17:29:44"/>
+		<rom name="PCMAP/IMA10.LEV" size="631946" crc="d942e534" md5="7174263e8bccbd176b0078d5cc48b58e" sha1="cc49a23f3588498a1c3534cb98f2439a93e6e47d" date="2000-11-02 17:29:44"/>
+		<rom name="PCMAP/JUN01.LEV" size="783499" crc="c86ed31d" md5="df1128ad17715b5db0b070884f9219c3" sha1="13702c9fb716836d2917fe1acb6e39cf0061e391" date="2000-11-02 17:29:10"/>
+		<rom name="PCMAP/JUN02.LEV" size="821004" crc="20b5995e" md5="cdcd4b73ee5b924517680d4a67b02eb3" sha1="c8c1ef462f5fc41dbd7e9bca6583011df43ffea0" date="2000-11-02 17:29:12"/>
+		<rom name="PCMAP/JUN03.LEV" size="806219" crc="205300bd" md5="fbb5dcf9b91cd92cb9ce2c137b8e4e77" sha1="3ce373fc6b9554c7374382aa30abef9e968bcf8c" date="2000-11-02 17:29:12"/>
+		<rom name="PCMAP/JUN04.LEV" size="823472" crc="a9388979" md5="ae54a78334735ea59d4fb07c55d8895a" sha1="6eb57f52aba17a70216c7fdc94c7530857c43766" date="2000-11-02 17:29:14"/>
+		<rom name="PCMAP/JUN05.LEV" size="866990" crc="4eabb390" md5="203dfe06b956d39835719b2978de7eab" sha1="188a051d18f0f010fd072cbcdf733f177cffedcb" date="2000-11-02 17:29:14"/>
+		<rom name="PCMAP/JUN06.LEV" size="621129" crc="0f363ca8" md5="9e20b8bb276a15346c763c2374a0cdd8" sha1="cb60e48f28d3943eff08824b84cf2ddb2cb62ade" date="2000-11-02 17:29:14"/>
+		<rom name="PCMAP/JUN07.LEV" size="790858" crc="35905d9b" md5="973e6abe56e981a907a7b918000fcd8b" sha1="219abc16ba93ca5d69bee255da7f8df7325e0b90" date="2000-11-02 17:29:16"/>
+		<rom name="PCMAP/JUN08.LEV" size="798407" crc="8692398a" md5="863654c5e2a10df005e9f0426431466f" sha1="40510b4611f4e88cc195f0cb769daac6cf663036" date="2000-11-02 17:29:16"/>
+		<rom name="PCMAP/JUN09.LEV" size="739512" crc="a09b5009" md5="5644ba0b4347f29f9f6f0c3a5ad867bd" sha1="dd7c0f84798f938dae78dda6149aba1c29ba37e3" date="2000-11-02 17:29:18"/>
+		<rom name="PCMAP/JUN10.LEV" size="797985" crc="814417c0" md5="7edf85a2ccceee2ad5a0a5475a8ae82f" sha1="1ee23475973d4521464ea3099d57c64517dbd2ea" date="2000-11-02 17:29:18"/>
+		<rom name="PCMAP/MON01.LEV" size="624314" crc="d186864d" md5="df2dc264fc5d9525ada602fb3c3f8138" sha1="692d461a19185eeb135e4255c90edbb937152ddf" date="2000-11-02 17:29:30"/>
+		<rom name="PCMAP/MON02.LEV" size="607440" crc="7ed616f5" md5="49a18a6436f60602307033a240f15aa7" sha1="dd1655e5ead2c756e34043ea8922d25753aea89e" date="2000-11-02 17:29:30"/>
+		<rom name="PCMAP/MON03.LEV" size="644902" crc="e1f4e143" md5="30fd0937faa3491d2f531d2aabb81f3a" sha1="9cf85360ba5218d44f145ec65a13812d9a5650c7" date="2000-11-02 17:29:32"/>
+		<rom name="PCMAP/MON04.LEV" size="662028" crc="e77ce6d3" md5="8b76102594134a0dc59a3a119a1cc2a6" sha1="9ecb93edec27c81652d3430a8a9ad96ca7c6f871" date="2000-11-02 17:29:32"/>
+		<rom name="PCMAP/MON05.LEV" size="643437" crc="ec3110ab" md5="a5c028c6e0fcad5a08a5ce5e9ff4e71d" sha1="9853a94b1f91090ba8b0406ca9c69a76d19f682a" date="2000-11-02 17:29:32"/>
+		<rom name="PCMAP/MON06.LEV" size="777895" crc="10d9d9dc" md5="57b51d68cc8058e393e2ba54d2866408" sha1="4a8ec7b3c867478868ccda4bc9dcd151453cab75" date="2000-11-02 17:29:34"/>
+		<rom name="PCMAP/MON07.LEV" size="658459" crc="49fd0213" md5="e6363aca767f5545d9cf1b446f0bf222" sha1="1b487e522093c44f7ca857b1bdf359cab6784c07" date="2000-11-02 17:29:34"/>
+		<rom name="PCMAP/MON08.LEV" size="524904" crc="88bf5f31" md5="638b8df012c8bc2ecfa015257a48fb00" sha1="a0416ed13d2e7c2a4ee64cf814af0f00a9d74668" date="2000-11-02 17:29:34"/>
+		<rom name="PCMAP/MON09.LEV" size="749815" crc="610983f0" md5="4bcfe245834f65e6f22a3e13545215e8" sha1="1bc3cd6633be21f026e7c031a903eba58fef40ff" date="2000-11-02 17:29:36"/>
+		<rom name="PCMAP/MON10.LEV" size="747527" crc="dc84f2e7" md5="1066ab1309c36642a0041efbc72d925a" sha1="7271955ce766afc4851f4a452d8b81e2b927bb04" date="2000-11-02 17:29:36"/>
+		<rom name="PCMAP/MUS01.LEV" size="701426" crc="776a826a" md5="4d36f054af618e8f88f41d6ca6db72b1" sha1="d04d37ae26952a018dc021c35522578b154c822b" date="2000-11-02 17:29:20"/>
+		<rom name="PCMAP/MUS02.LEV" size="588676" crc="b43488db" md5="c2cb8e8e0474ac03da52ef0337e60064" sha1="ca7fc2d4501019623bd1422e17c798d9701ef907" date="2000-11-02 17:29:20"/>
+		<rom name="PCMAP/MUS03.LEV" size="723257" crc="887dced5" md5="7f07bb603d7d0fa668efcffd57d38e07" sha1="000ded83c2bee866ca1e521bfd8ee108800aaddd" date="2000-11-02 17:29:22"/>
+		<rom name="PCMAP/MUS04.LEV" size="840944" crc="d50140bf" md5="da464997d31a55e724d1650b93b0ec93" sha1="b439ffe954b712b49807dd297391b51ccba43abe" date="2000-11-02 17:29:22"/>
+		<rom name="PCMAP/MUS05.LEV" size="781332" crc="6600406c" md5="cae165a296d8e6eac40e7e457b6c3cd5" sha1="6fb7f0fd9192e43116fcda94c956a2ab7cdc1135" date="2000-11-02 17:29:24"/>
+		<rom name="PCMAP/MUS06.LEV" size="708347" crc="c3763cc5" md5="2da54f8d51bd0c9b91bc8c34391844c3" sha1="b86f6c34b04a007c8ad64d87a6326997d01e21bd" date="2000-11-02 17:29:24"/>
+		<rom name="PCMAP/MUS07.LEV" size="696890" crc="e80768f9" md5="436847498d5c61ae95786fa817a4b2b5" sha1="4cbd9183c4b955ad925d0ccb5e4fa31d68d3e686" date="2000-11-02 17:29:24"/>
+		<rom name="PCMAP/MUS08.LEV" size="613878" crc="2256e176" md5="ebab3295d93787b2b4c5443b02fbf29e" sha1="ba886fb03d7d662b8c4d72967e278d16594ff966" date="2000-11-02 17:29:26"/>
+		<rom name="PCMAP/MUS09.LEV" size="701439" crc="d6ab624d" md5="cfb057ec45c76a8dd5f483c92d14f50d" sha1="ea9bcb2fd429000fed68ff6a7943f4502e0049ab" date="2000-11-02 17:29:26"/>
+		<rom name="PCMAP/MUS10.LEV" size="755104" crc="c806f93f" md5="daa8a631c24400c05e832df05a49f4b6" sha1="e4e838ef05ac61b9cdb4c369ec06c4d0d2f085ec" date="2000-11-02 17:29:26"/>
+		<rom name="PCMAP/RAY01.WLD" size="721867" crc="c21db5a5" md5="0f830df1ec2951be14d51633337ab67b" sha1="77b9fc766ee303936f8448abd1eaeca14f51a9bf" date="2000-11-02 17:29:10"/>
+		<rom name="PCMAP/RAY02.WLD" size="602872" crc="6197ac40" md5="a6006926db95a2d151ff2df02d16ba6f" sha1="d81cbf9125c04a0f3520cb8d905b4bdcfe168cd0" date="2000-11-02 17:29:20"/>
+		<rom name="PCMAP/RAY03.WLD" size="594736" crc="b8d35ef3" md5="73f1e1467032a264395a84464299c68d" sha1="078de11c298b15567a52ea18f0b32ff6b751f0d9" date="2000-11-02 17:29:30"/>
+		<rom name="PCMAP/RAY04.WLD" size="450398" crc="4336d54d" md5="cae99e6a24fc5376caf25b6429528c19" sha1="499a3f46ec64fac3be4d32f4edc3ddc94ea9f255" date="2000-11-02 17:29:38"/>
+		<rom name="PCMAP/RAY05.WLD" size="483623" crc="400832b3" md5="f143976d328bbd2ec39678d41cc9a3da" sha1="f7d56a9426d84f00901ddf98b3629e805c14d611" date="2000-11-02 17:29:46"/>
+		<rom name="PCMAP/RAY06.WLD" size="604711" crc="4a5ac058" md5="39c054f39eb65dc9e88b09e6feb39446" sha1="6a8864129360af003350c61bfbe862fb0b6e5320" date="2000-11-02 17:29:56"/>
+		<rom name="PCMAP/SNDD8B.DAT" size="1383096" crc="913761ce" md5="ecf169b9cc427f496c893ed6dd8d3bcb" sha1="de94e463178d6342b4cfc416eb7f42b190297dae" date="2000-11-02 17:28:38"/>
+		<rom name="PCMAP/SNDH8B.DAT" size="14500" crc="3ed72711" md5="8a8f2366904428a15015ad614251ba93" sha1="f4672fb46182a3cdfe03eea94c78988ab231a526" date="2000-11-02 17:28:38"/>
+		<rom name="PCMAP/USA/SNDSMP.DAT" size="394573" crc="6deefe34" md5="ef1dc1dfece8bc5ca73276dc8990aa0d" sha1="5ce77a995cd7ee212f150e338f783db5bf305182" date="2000-11-02 17:27:10"/>
+		<rom name="PCMAP/USA/SPECIAL.DAT" size="9852" crc="76aa8534" md5="a4440e813b874730df0ebcc37de192be" sha1="9e4cd59a5e6853120592ff8ba0507d2ee4b8c021" date="2000-11-02 17:28:40"/>
+		<rom name="PCMAP/VIGNET.DAT" size="1894839" crc="25838c22" md5="b9823d95d0c4b55c23d26216e2200acd" sha1="031ab7f0e4dc47edb9b73ed58601679fd77f21ca" date="2000-11-02 17:28:38"/>
+		<rom name="RAY60N.ICO" size="766" crc="f4356ca4" md5="3bb9dd57d729f3505f4e589b0f19475b" sha1="68160e2f65f624aedb235e9a5a26d51482f53865" date="1995-08-21 16:39:24"/>
+		<rom name="Rayman Compilation (Europe) (Track 1).bin" size="217562352" crc="4520d936" md5="3061b76a14646808f5995907bff07cf0" sha1="bcce1a372a457b57d05b9389b4c7229d4f8a6dc4"/>
+		<rom name="Rayman Compilation (Europe) (Track 2).ogg" size="4436054" crc="87dac193" md5="b1e150dab431da3b521e220a7988bcb8" sha1="c07c5570eff320272bfaef08126aef1201ead54a">
+			<source frames="11241" pregap="150" duration="02:29:66" size="26438832" crc="adb059ea" md5="ad2a82a0a09e4d1bef7b11f0963c5315" sha1="d0f9297c0d2519d099d004fcb1e1c4a68f0446c6" in_zeros="404520" out_zeros="5469" trimmed_crc="2af375a9" quality="8"/>
+		</rom>
+		<rom name="Rayman Compilation (Europe) (Track 3).ogg" size="4388942" crc="a6966dc7" md5="316144d40b7d2616ed79aed15da56311" sha1="3d48eadd2615686e072c3b83a6deab166b8f5571">
+			<source frames="11038" pregap="150" duration="02:27:13" size="25961376" crc="6a9b35fb" md5="c3551e09a5ca3460f213882e8817c718" sha1="f957b8f9edf41f45b5fb85809032452a37ba9e79" in_zeros="448588" out_zeros="5145" trimmed_crc="161f36f4" quality="8"/>
+		</rom>
+		<rom name="Rayman Compilation (Europe) (Track 4).ogg" size="4288828" crc="3be24915" md5="3b1eb13cbda89ee3017e8f72a8704f9c" sha1="a345768051350b181e6687a1ae56899f4387de8b">
+			<source frames="13614" pregap="150" duration="03:01:39" size="32020128" crc="ef065df8" md5="fc9ddce1c05e8dfeae652a98bceef34c" sha1="6f2253a7d86e0a9a6175cad6e44fcdbeafc70f83" in_zeros="379972" out_zeros="6697" trimmed_crc="4f67d389" quality="8"/>
+		</rom>
+		<rom name="Rayman Compilation (Europe) (Track 5).ogg" size="4620757" crc="54f9631f" md5="e38e08ae9f7a2c6c20cd1df468110320" sha1="5e396b9e4e66184cac9958169c602e62edded751">
+			<source frames="11380" pregap="150" duration="02:31:55" size="26765760" crc="daedeb30" md5="75a2123459dbd906c066ba92847f60c4" sha1="522c80cf018af25ce1c5d4f30aae6c23881e6e57" in_zeros="396872" out_zeros="4720" trimmed_crc="c20863f7" quality="8"/>
+		</rom>
+		<rom name="Rayman Compilation (Europe) (Track 6).ogg" size="4629185" crc="81a6a50e" md5="0aaebfad15c43d6f31cc9c78f8a2ab50" sha1="741d3be0a8599a63e5d11fcfe9e876f2b1eddde7">
+			<source frames="11194" pregap="150" duration="02:29:19" size="26328288" crc="dee14b58" md5="396cdc79c71e8ff49e9b96daf4d6b0b6" sha1="c56b4fa8d73992109bfd892ba6e8a52728768f3b" in_zeros="390724" out_zeros="5025" trimmed_crc="3ab0c964" quality="8"/>
+		</rom>
+		<rom name="Rayman Compilation (Europe) (Track 7).ogg" size="4629217" crc="3bf15940" md5="149cce0b7ac8125800650fc87c6c4af8" sha1="8694eac6867e82a461e8141a774fe7beaa7398a6">
+			<source frames="11286" pregap="150" duration="02:30:36" size="26544672" crc="54d9d564" md5="a701e9728accae4bd0d4ca142c6fd4be" sha1="3a99060e0320c21378e690477a053d8a1439b9b1" in_zeros="404552" out_zeros="6037" trimmed_crc="6cca2a68" quality="8"/>
+		</rom>
+		<rom name="Rayman Compilation (Europe) (Track 8).ogg" size="8908076" crc="66bf1427" md5="0366806f4be3146b1d393f118a919ac1" sha1="3df179236278072aab7162ad0593d0579b2917a2">
+			<source frames="21248" pregap="150" duration="04:43:23" size="49975296" crc="d2e6ffb0" md5="b6063ff8d26431c2301cfe55d76bbda8" sha1="a3d5642209f3dd2d42583f6db739cfc228e73d58" in_zeros="386136" out_zeros="5093" trimmed_crc="506f22b6" quality="8"/>
+		</rom>
+		<rom name="Rayman Compilation (Europe) (Track 9).ogg" size="2799556" crc="87074f80" md5="27fa956413bb308b95adafb3ba9acfbc" sha1="20c58cdcddf5aea0e2ea96bd9bf15f145b227d8a">
+			<source frames="6216" pregap="150" duration="01:22:66" size="14620032" crc="ef1c379f" md5="a92876a9f19e79437d5b58c9f36db726" sha1="3cae67e10aeceb4b580c0cce801f7d2d120fa99f" in_zeros="365106" out_zeros="6851" trimmed_crc="6e2f5ac0" quality="8"/>
+		</rom>
+		<rom name="Rayman Compilation (Europe) (Track 10).ogg" size="1169653" crc="7e7cea25" md5="b6ea9400e9b59622766a5f51bc0e3c7b" sha1="53f8e4a5d552985fe726b45d0d2bdbd716619487">
+			<source frames="3261" pregap="150" duration="00:43:36" size="7669872" crc="ef37f0b1" md5="166a161a30bdc9e3ca49d120726b18d8" sha1="392351e8ba9c6ce8a5516535656b1da4afa4c91b" in_zeros="365122" out_zeros="6490" trimmed_crc="2b7f9e6b" quality="8"/>
+		</rom>
+		<rom name="Rayman Compilation (Europe) (Track 11).ogg" size="6292040" crc="74df2f92" md5="ab93d93e6742f240f759c04a81b1f09d" sha1="712d32f2e2c78ecf50dc889b80cd31965082209a">
+			<source frames="16243" pregap="150" duration="03:36:43" size="38203536" crc="2dc4f362" md5="546b3e1a79d8a69fe9e54e1fd7431f14" sha1="2860dd334a7986b80f26cab2b54b3dc39bb5cede" in_zeros="390968" out_zeros="6061" trimmed_crc="7fe3730b" quality="8"/>
+		</rom>
+		<rom name="Rayman Compilation (Europe) (Track 12).ogg" size="247509" crc="1a941ae5" md5="78daa25f0932883eed77d1f9864281d9" sha1="ddf066ae4f2b38f3be92bbebbd68365e72033d26">
+			<source frames="816" pregap="150" duration="00:10:66" size="1919232" crc="a3a91576" md5="0b5e9993dfc95ff60ee5cf353e57202c" sha1="19e2a7174f70b27567dadf07e2162818f361d066" in_zeros="365994" out_zeros="6486" trimmed_crc="25cf9746" quality="8"/>
+		</rom>
+		<rom name="Rayman Compilation (Europe) (Track 13).ogg" size="7621323" crc="3150cac8" md5="086ac420cff9fa7c19cde1cb3d6956a6" sha1="3471ce68a9e84a2bccaa3ca2643e58a9a7c4bf86">
+			<source frames="19450" pregap="150" duration="04:19:25" size="45746400" crc="62b78202" md5="d96b3834a3860960cd7ce50b8bbfba53" sha1="cd6843315b7b886c4e854dcccd58700bce2f3a36" in_zeros="387632" out_zeros="6061" trimmed_crc="503315bf" quality="8"/>
+		</rom>
+		<rom name="Rayman Compilation (Europe) (Track 14).ogg" size="8751591" crc="b6ac03b0" md5="e63e7c57f7fddb948f8a28f98a3a6f84" sha1="798156d52d0733eacb4803a6f0c9a4002a21c658">
+			<source frames="22095" pregap="150" duration="04:54:45" size="51967440" crc="d545b997" md5="9583e001d4a6c6e07637f1f3e1a1e46e" sha1="43e7a5a32033b48cedd22f49de3bd66ad0f44a88" in_zeros="398900" out_zeros="5541" trimmed_crc="6b43edc1" quality="8"/>
+		</rom>
+		<rom name="Rayman Compilation (Europe) (Track 15).ogg" size="2231027" crc="dbb94130" md5="f63a5102e47eb8a63d2169961715f63d" sha1="0ff41fe9d6105fbbdf162680c6eedefa2771286b">
+			<source frames="5364" pregap="150" duration="01:11:39" size="12616128" crc="aeb31853" md5="d57f481996d958c5f982d2870e566e02" sha1="fdb72409f5ff6dbbd6311216047f2da024f18e0d" in_zeros="365126" out_zeros="6482" trimmed_crc="6f2e2f72" quality="8"/>
+		</rom>
+		<rom name="Rayman Compilation (Europe) (Track 16).ogg" size="5831131" crc="65be1fac" md5="52ff9a23eabada1985fc548fa3bb5175" sha1="9fb2c72696cb96cb4e85098b8dfaa32a6df85a68">
+			<source frames="15579" pregap="150" duration="03:27:54" size="36641808" crc="18098ab6" md5="c2e5835dd1652687bb4854f60ba11c9e" sha1="0ef135741494ca24727da00cd5d13e07319691fc" in_zeros="380492" out_zeros="5969" trimmed_crc="9af49a21" quality="8"/>
+		</rom>
+		<rom name="Rayman Compilation (Europe) (Track 17).ogg" size="9126025" crc="5106d341" md5="bbb57ee051243918c51da190c09704b4" sha1="35702725745319cbfea26fae9511925b9d643e0f">
+			<source frames="23722" pregap="150" duration="05:16:22" size="55794144" crc="dcaef5d6" md5="e9edc6de1cbebc7f08000bc44bdcf6ab" sha1="70cb5293d3b6f034b02723d6d46ca5b0245fc6df" in_zeros="392268" out_zeros="5009" trimmed_crc="886dc933" quality="8"/>
+		</rom>
+		<rom name="Rayman Compilation (Europe) (Track 18).ogg" size="2438828" crc="2cad716d" md5="dc29ee0fdac495c7998dba89c38ab7b6" sha1="f59c4914b14e9826bde916900e91c2d69dfd815e">
+			<source frames="5172" pregap="150" duration="01:08:72" size="12164544" crc="c1e24941" md5="8ca922834880e2ddddd1cc26b876697c" sha1="c6ed79a882253d31fcac2e658cd199fb65c54ede" in_zeros="365084" out_zeros="6518" trimmed_crc="57c70fe8" quality="8"/>
+		</rom>
+		<rom name="Rayman Compilation (Europe) (Track 19).ogg" size="2066720" crc="b50313e9" md5="6671817f35338bea2812eef4b7da8322" sha1="83e1ddff24fe7460176f6293facbfce3c2e0be51">
+			<source frames="4503" pregap="150" duration="01:00:03" size="10591056" crc="a1adaec1" md5="81fabdda9345637de470c0ff1dd5fe51" sha1="080dfe448fe4aeb54d655c7d5a024ac359dcf8dd" in_zeros="365070" out_zeros="5263" trimmed_crc="f63f1d1e" quality="8"/>
+		</rom>
+		<rom name="Rayman Compilation (Europe) (Track 20).ogg" size="1086719" crc="027c229c" md5="cbc641cf7011acc6a793309604c35c48" sha1="6085e6ac26829967251834ce829b7ef6fd1f9b61">
+			<source frames="2801" pregap="150" duration="00:37:26" size="6587952" crc="cc15bfdf" md5="2c7c863607e14297b92b64016c6f4ab6" sha1="a6ca6ac509c93bcc99928d080918b1199461243b" in_zeros="365098" out_zeros="354157" trimmed_crc="870fd1e8" quality="8"/>
+		</rom>
+		<rom name="Rayman Compilation (Europe).cue" size="1919" crc="f5297e89" md5="a9b10255da8c8acdac7a9f22cb0e4284" sha1="386eba060ed4a29825479d552a87cc316e5b61d3"/>
+		<rom name="RAYMAN.BAT" size="30" crc="1587cfef" md5="e113506d3b6dd723f263a66f8eeb6fe4" sha1="72fde3abd430c812e15bb5236490cf93e65d0aa4" date="2000-10-31 18:53:30"/>
+		<rom name="RAYPLUS.EXE" size="403024" crc="271c90dc" md5="83473fc41fc100f1fdf017e5ae73d225" sha1="2f9b9e9d06086b6fc9fa8c2135f7a9bd741f7120" date="1999-08-02 19:37:54"/>
+		<rom name="SETSOUND.BAT" size="88" crc="9faf0c93" md5="d60c8e0e440fbed14dd4ca8e874d831c" sha1="7546a32e769e19f28dd00f4f9ec1d7bc121e7aa7" date="2000-10-31 18:53:42"/>
+		<rom name="SETSOUND.EXE" size="99896" crc="480eddcd" md5="b8a614c0997f2a4b6264a2c902a9cfb1" sha1="9d3ff9d78e28ff5458ee3e55f0f2a9157bdc84d0" date="1998-07-15 18:20:40"/>
+		<rom name="USA/RAYMAN.BAT" size="30" crc="1587cfef" md5="e113506d3b6dd723f263a66f8eeb6fe4" sha1="72fde3abd430c812e15bb5236490cf93e65d0aa4" date="2000-10-31 18:53:30"/>
+		<rom name="USA/SETSOUND.BAT" size="88" crc="9faf0c93" md5="d60c8e0e440fbed14dd4ca8e874d831c" sha1="7546a32e769e19f28dd00f4f9ec1d7bc121e7aa7" date="2000-10-31 18:53:42"/>
+	</game>
+	<game name="Rayman by His Fans (1998) (Ubi Soft).dosz">
+		<description>Rayman by His Fans</description>
+		<comment>Files copied from Rayman Forever CD. Track 8, 13, and 14 OGG files taken from "Rayman (USA) (En,Fr,De)" and renamed</comment>
+		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
+		<year>1998</year>
+		<developer>Ubi Soft</developer>
+		<link type="media">http://redump.org/disc/45463/</link>
+		<rom name="DATA/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-03-01 05:04:32"/>
+		<rom name="DATA/Kitfond.pcx" size="26402" crc="9a6d5520" md5="aa4052253c1e92e9eaeb7e5edf970941" sha1="37f75480a05028bb8d47d4b9d8490d9741b9d6c3" date="1998-07-09 14:53:54"/>
+		<rom name="DATA/LET.OBF" size="780" crc="e616fcc4" md5="99b02210f5102aff57a426ee8264202e" sha1="c77ddb8f7b7774e8a2d53c35dc0c74d6fae12564" date="1996-08-02 08:05:26"/>
+		<rom name="DATA/LET.SPR" size="9908" crc="bb6a307d" md5="6a33d149c85a70ec471d5208b585f37c" sha1="746f1aeee7ea645dcdfa636cb9e288cc94b146d3" date="1996-08-02 08:05:26"/>
+		<rom name="DATA/LET2.OBF" size="1116" crc="15dd1a7f" md5="58db8890932be595a275c3aaa517ae77" sha1="8542f759e4e9bba7792db7653af0b254eb5b0124" date="1996-07-31 10:05:36"/>
+		<rom name="DATA/LET2.SPR" size="36828" crc="827eaf77" md5="3ebed606eb5c006c2c2287853e5e4021" sha1="c6a72be412b990f950add57d8618739a56f8e9f1" date="1996-07-31 10:05:36"/>
+		<rom name="DATA/PERFECT.VIG" size="25472" crc="2fb45b87" md5="bf986ed2bcf1a972fd669e5e70105c4b" sha1="bf78cfa4c233562baa5026962627717cc4842739" date="1995-09-06 11:06:40"/>
+		<rom name="DATA/SOUND.BIN" size="2415" crc="9c97dcea" md5="0c8aa2abb8f050eaed72a85d5038005a" sha1="8f15d5a730200d1891a4b350bbe7d77c688df9b5" date="1996-11-12 15:48:18"/>
+		<rom name="DATA/USA.BIN" size="2002" crc="5ad0dc7f" md5="4947b95fb2a2dd406561f3dc30d5ca46" sha1="ebc96b723b0c9132759e1813d30a2b6918a7e8f9" date="1996-11-12 15:48:18"/>
+		<rom name="DATA/VERSION.BIN" size="229" crc="6e4f148f" md5="0f102f1aa2ab60d97cbfbab070fda386" sha1="202f6a36920e88ac31ef4582413e981337ca7ba6" date="1996-11-12 15:40:08"/>
+		<rom name="HMIDET.386" size="81990" crc="637c56a8" md5="59b3f813848cda336763648d628db917" sha1="27a06eb94b0abf13139c311ebed73358b20bcdab" date="1995-02-05 23:00:00"/>
+		<rom name="HMIDRV.386" size="261425" crc="f6d116a3" md5="bd16499c7c0ef8cebb0999373edc5361" sha1="becd7f4a413a1966986b4c41c860b678d7244d58" date="1995-02-05 23:00:00"/>
+		<rom name="Instdata/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-03-01 05:04:32"/>
+		<rom name="Instdata/Ubi.eng" size="209" crc="283c8fdb" md5="f03ce3899b25b626a25fba8ff941413e" sha1="c7e4d51019e4f100d1551ae04ef176465f58537f" date="1999-01-27 06:35:10"/>
+		<rom name="Instdata/Ubiins.dat" size="3735" crc="2ace0dcf" md5="2711eb041bb2002a1296e0af3e6183c9" sha1="70ef8da8a0879dc4c0dee6a53feccd3e621a11d8" date="1999-02-04 05:36:40"/>
+		<rom name="pcmap/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-03-01 05:03:56"/>
+		<rom name="pcmap/ALLFIX.DAT" size="482820" crc="ffffdf1d" md5="d8aec890ad24bd6bdaef0a073b93e4b7" sha1="de5ae886011775e906ad8690424ef6697c8de508" date="1999-01-27 07:18:24"/>
+		<rom name="pcmap/BIGRAY.DAT" size="94578" crc="ea1eeceb" md5="a052c208bf04a736ecabfad599b21536" sha1="b177d8d99403b45c41c9bf1454ef568a15e847fc" date="1999-01-27 07:18:24"/>
+		<rom name="pcmap/CAK01.LEV" size="720942" crc="a8950a3a" md5="316d2a1655190feed1698454dd32c8ef" sha1="23b0888967f364443df1037d2a0677ca73eb0f39" date="1999-01-27 07:18:56"/>
+		<rom name="pcmap/CAK02.LEV" size="712396" crc="b4c59be2" md5="44998b28dec7778a5501b006d196c862" sha1="703a64a5a60c1a30d803206371fac95965b408f6" date="1999-01-27 07:18:56"/>
+		<rom name="pcmap/CAK03.LEV" size="674579" crc="704210d1" md5="605285282f76f8324ec4807ada52767f" sha1="7d31cf5d7f7419ee3b075247a32bcf5e6265845f" date="1999-01-27 07:18:56"/>
+		<rom name="pcmap/CAK04.LEV" size="701565" crc="6229dc9d" md5="aed6baeb728068fa3e2e1a31cab0ca91" sha1="6baa05a64b7ad5bd65f311e1edcb8af9ed32566a" date="1999-01-27 07:18:56"/>
+		<rom name="pcmap/CAK05.LEV" size="712474" crc="979022c3" md5="418c10c4c8828d3940a0ec7d83860237" sha1="9d9c1961adb912019d29e998f020cf243a1cb7f3" date="1999-01-27 07:18:58"/>
+		<rom name="pcmap/CAK06.LEV" size="734827" crc="5a4ae044" md5="0c88daa1a95763735554570d3985db50" sha1="71c7a57434965bc6377a2070f414ee85f7cc68b6" date="1999-01-27 07:18:58"/>
+		<rom name="pcmap/CAV01.LEV" size="792942" crc="fe7feb1e" md5="7d3653acf171681ea904d0ea41ba5678" sha1="acc41cdd100e5c1cc560876a3ab5c3f47c05ed2a" date="1999-01-27 07:18:52"/>
+		<rom name="pcmap/CAV02.LEV" size="697623" crc="6ec5f2f3" md5="a7717ddc055772f7a760c778471cb4ad" sha1="141ad0903af3017d80327c8a3b5aa9ac331db8e6" date="1999-01-27 07:18:52"/>
+		<rom name="pcmap/CAV03.LEV" size="726029" crc="c48f793b" md5="98accfee847c0dd805271f0e6133e39f" sha1="4c60bbb5cfe9e94f54a039c476c8056f9084a2ff" date="1999-01-27 07:18:52"/>
+		<rom name="pcmap/CAV04.LEV" size="745201" crc="ee26c27a" md5="a0e4d845066eb121ca211e431534ed9e" sha1="cd6bb175bb21929a6b1b0ff8a73b1331a79b9821" date="1999-01-27 07:18:54"/>
+		<rom name="pcmap/CAV05.LEV" size="719517" crc="7a522a4e" md5="e2ffb067f2b0978d6476cb5b3287c7f9" sha1="d247da9767dc43a1140e64597ed6281e86e7a139" date="1999-01-27 07:18:54"/>
+		<rom name="pcmap/COMMON.DAT" size="9439" crc="c6582444" md5="afcc913fa54301417c0810928cfbfa2c" sha1="c36d91160857d864eea0672c2a4b5113a5cbd548" date="1999-01-27 07:18:02"/>
+		<rom name="pcmap/IMA01.LEV" size="651878" crc="f713ea54" md5="a2d19f0e9c9299305d139255e97202a0" sha1="5f0ac936f8f82cf335346c1bfc09df12120a2615" date="1999-01-27 07:18:48"/>
+		<rom name="pcmap/IMA02.LEV" size="596447" crc="769cdd6a" md5="d8032fe2c25e83cbeae64838353c8d79" sha1="10d0f0c4c2be088cdc96d8f3638af1774f07949f" date="1999-01-27 07:18:48"/>
+		<rom name="pcmap/IMA03.LEV" size="605220" crc="2ddf3f14" md5="a31383d759b1a9df015f269007ee5ca6" sha1="b478610201b3cb0e499ad98de48920f7c4d9eb20" date="1999-01-27 07:18:48"/>
+		<rom name="pcmap/IMA04.LEV" size="615898" crc="9e1ae8e4" md5="5f501e24ffc8f6e59580bc0962f62639" sha1="47893e16a1a39ea45b3e1b19b0dd4a2ce3ba7614" date="1999-01-27 07:18:48"/>
+		<rom name="pcmap/IMA05.LEV" size="615968" crc="3a2f6886" md5="2a5ac1ca8e988025f09c92437254e687" sha1="90fd705e9cbda81b533fea9c9aa219ff45adce4e" date="1999-01-27 07:18:50"/>
+		<rom name="pcmap/IMA06.LEV" size="647195" crc="541d9e9b" md5="9bb751c2cb0a5af6dd49b6b2c5df0ad3" sha1="adb2c980e991e406ee0dc83bf78e4af0e0d2c37e" date="1999-01-27 07:18:50"/>
+		<rom name="pcmap/IMA07.LEV" size="659084" crc="b060baac" md5="a5d35afbd4995631eba46a55d149eb30" sha1="f1b7b4d30b706f8cdebb6dbf88aa8fa4a8283df3" date="1999-01-27 07:18:50"/>
+		<rom name="pcmap/JUN01.LEV" size="723563" crc="9758d12e" md5="cda1098b449a134e263ef59e61d97a85" sha1="1acf84cba44d53af76542ce97126dc4e540a63fd" date="1999-01-27 07:18:28"/>
+		<rom name="pcmap/JUN02.LEV" size="899396" crc="55532e73" md5="b6ea9a9bfeb97c3f2e1100aaca164fa7" sha1="1d3f1d1f599e47b50f454e3d324c9ff08d34eec0" date="1999-01-27 07:18:28"/>
+		<rom name="pcmap/JUN03.LEV" size="906892" crc="fe1b5622" md5="49f024b077a972b6d5d9adc965f8c77c" sha1="b74efc858d16256c0dc35f16c1ef54e17ce6f734" date="1999-01-27 07:18:30"/>
+		<rom name="pcmap/JUN04.LEV" size="899404" crc="f348fb93" md5="2d09d57c14f487cd935e28d18dd5186a" sha1="84f1eb800d73d607ded7732b2be475f619f1d2e1" date="1999-01-27 07:18:30"/>
+		<rom name="pcmap/JUN05.LEV" size="1049734" crc="03f8ed89" md5="56a3c86364f44d80718fe1f2e84a488d" sha1="8546bf1315630ad9e913566c83e2495ac20d5902" date="1999-01-27 07:18:32"/>
+		<rom name="pcmap/JUN06.LEV" size="913808" crc="64b4194c" md5="611acbfbc23230f443e0259cdf2ca0c7" sha1="be918aeb0c9d3881494c3cfd557878fe2f4a48ed" date="1999-01-27 07:18:32"/>
+		<rom name="pcmap/JUN07.LEV" size="921508" crc="bf7d69a4" md5="0ff96cebe86243180050beec6d58831b" sha1="39ea12bed4428a48f73e2b07d81a0b2734ad6fd0" date="1999-01-27 07:18:32"/>
+		<rom name="pcmap/MON01.LEV" size="858008" crc="8a123588" md5="d08dc54d01a4cb1bd09890355c856beb" sha1="ae1b87c21530d4e241376fd10b96afcf0739054b" date="1999-01-27 07:18:38"/>
+		<rom name="pcmap/MON02.LEV" size="895576" crc="f3e9312e" md5="6f01529f572a83fabdc8f83f62ad22a1" sha1="db4d9cf00da500adc9f774b648e08ef62dac0073" date="1999-01-27 07:18:40"/>
+		<rom name="pcmap/MON03.LEV" size="865554" crc="ed9df63c" md5="d183fc48614ccd554230a14b625369a7" sha1="df177c236fbd6e893720bffbfc14f814663a45b7" date="1999-01-27 07:18:40"/>
+		<rom name="pcmap/MON04.LEV" size="681609" crc="fbc53970" md5="a4ff47efb9acfcad202fbbb2d0026218" sha1="8dab849184982fea3e1a2221d454cc1d821f6090" date="1999-01-27 07:18:40"/>
+		<rom name="pcmap/MON05.LEV" size="880011" crc="f60c3f5f" md5="915f06cf1fd524ae917f6ef2333a7582" sha1="87629b946e6b2a61ae67d94061326b5181bc7913" date="1999-01-27 07:18:42"/>
+		<rom name="pcmap/MON06.LEV" size="879984" crc="52f1bad7" md5="3bbedfac47a30fbd8f09661fd2801200" sha1="7429bfcdcbc549c3e9e70a04ef2d9873462e30a2" date="1999-01-27 07:18:42"/>
+		<rom name="pcmap/MON07.LEV" size="781133" crc="f63143be" md5="2ee8708c3e211acc8f0dc6a3819825ce" sha1="bf5342cff7dd19cb0d46f5e5a8931bc5b80bb52b" date="1999-01-27 07:18:44"/>
+		<rom name="pcmap/MON08.LEV" size="757018" crc="32fcf338" md5="54637ea5e1b18f76ef1be6ae07675cbc" sha1="75d84320429ea798dca618acc078061533bc28d5" date="1999-01-27 07:18:44"/>
+		<rom name="pcmap/MON09.LEV" size="789638" crc="8ae6bbbc" md5="2088a0aec2d383c0c3b31312c966d5d3" sha1="c1b8aa56df1dec7405c2c21e7deaab4c752a99e6" date="1999-01-27 07:18:44"/>
+		<rom name="pcmap/MON10.LEV" size="772071" crc="62b733de" md5="c536635d3be4a8d5deac95a06a1a556a" sha1="5409167c09844747bd6d8eadda53300c51d0f604" date="1999-01-27 07:18:46"/>
+		<rom name="pcmap/MUS01.LEV" size="576576" crc="08fce871" md5="9c3c479e6314dc6174c74a1fa0aad686" sha1="49b74bb1dca7ade0e7aa2a8db6932bef74c40cb5" date="1999-01-27 07:18:34"/>
+		<rom name="pcmap/MUS02.LEV" size="829954" crc="7fe63277" md5="aa3c23dc1ed2f05e0f38ea3f4e20d9b2" sha1="ec773ec81cb9e3d38d795b6bb0a6b146f4e77fa8" date="1999-01-27 07:18:36"/>
+		<rom name="pcmap/MUS03.LEV" size="729460" crc="e2f17740" md5="82afbdd76b0f5a0113582888c892f56d" sha1="80256e36cd3a496b0afbce57feb238bff38a1d55" date="1999-01-27 07:18:36"/>
+		<rom name="pcmap/MUS04.LEV" size="846169" crc="4f67eefb" md5="d59a76c71c9d7679c421ef525cc75747" sha1="743b388d9c4f5934a51bacbce999f3679b77c487" date="1999-01-27 07:18:36"/>
+		<rom name="pcmap/MUS05.LEV" size="845036" crc="35f45eda" md5="18628ea42224fe75c6a00db10590b2c4" sha1="4ed20008a894560f60a6b3d3f77a1c9e09724e37" date="1999-01-27 07:18:38"/>
+		<rom name="pcmap/RAY01.WLD" size="721867" crc="d9be4cc6" md5="e4577566431aec4fdeaa32fa51c338b5" sha1="c7810943d2ea622e7b5bcd09fbac4692983aca11" date="1999-01-27 07:18:28"/>
+		<rom name="pcmap/RAY02.WLD" size="602872" crc="7c449620" md5="80cec62d8687f5d0d97fd6e84725ff2c" sha1="497a47f9ddf861eaed6053aed4c1f1912b1eb766" date="1999-01-27 07:18:34"/>
+		<rom name="pcmap/RAY03.WLD" size="594736" crc="3d8bf6b5" md5="4d9ae06bf4784a2f4fb4cd69d74c9b91" sha1="b9d00cf2a29dd6f407c333a4af4625d088878c17" date="1999-01-27 07:18:38"/>
+		<rom name="pcmap/RAY04.WLD" size="450398" crc="d2e45492" md5="4c4f8424e54eb443b413b045b12c68d8" sha1="3bbf7385954ce13a78c7b12ec22788000b80f611" date="1999-01-27 07:18:46"/>
+		<rom name="pcmap/RAY05.WLD" size="483623" crc="0ce66981" md5="daa18bfe0bb1e201b10b2007d6dc5705" sha1="c0c7cb3f157af246524af545d1a255d562657d85" date="1999-01-27 07:18:50"/>
+		<rom name="pcmap/RAY06.WLD" size="604711" crc="d4acb66b" md5="571c5ae64705edd845072b314b29e949" sha1="a894f9d1a20ea3e9c3b4223af846912e8e4063bd" date="1999-01-27 07:18:54"/>
+		<rom name="pcmap/SNDD8B.DAT" size="1383096" crc="b82c538c" md5="50d11aa4df25931968478c9b1cfa6848" sha1="c73d2ed69dd5fc4379615d6b96700c4fbcd04b2a" date="1999-01-27 07:17:58"/>
+		<rom name="pcmap/SNDH8B.DAT" size="14500" crc="2cfaab7f" md5="3ae617a4e231872b1cab52ab95bae3a1" sha1="b5207890094f9bf6c1643d4cbcd404fe8542512e" date="1999-01-27 07:17:58"/>
+		<rom name="pcmap/usa/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-03-01 05:04:32"/>
+		<rom name="pcmap/usa/EVNAME00.WLD" size="6556" crc="7afd831b" md5="b344e3f6dc4098f554c515cbc6786785" sha1="097b23e0d17fad8b55fe896982e0066476da0423" date="1999-01-27 07:18:54"/>
+		<rom name="pcmap/usa/EVNAME01.WLD" size="4163" crc="36d670e4" md5="c1b305f9c025552ef85fa096e543f840" sha1="c3a24382eedbd3cc7216ebc7069da0f1364b7ff8" date="1999-01-27 07:18:28"/>
+		<rom name="pcmap/usa/EVNAME02.WLD" size="5321" crc="db4e0201" md5="efc175c0496a050cc8bc693bd6f4bbae" sha1="4dc5cabe7b4c58ca49d5d772128573211299f596" date="1999-01-27 07:18:34"/>
+		<rom name="pcmap/usa/EVNAME03.WLD" size="4912" crc="7ecd046e" md5="01d96df2a22b3fb9cae7ceb0abffadb5" sha1="449d496166b983c6bcb9f702981f551ea9d15133" date="1999-01-27 07:18:38"/>
+		<rom name="pcmap/usa/EVNAME04.WLD" size="7409" crc="e3a1f5db" md5="838935a3b6a18d1667e5c089b168686c" sha1="c4b16c4733830d001a497f979e64a9385751cc6f" date="1999-01-27 07:18:46"/>
+		<rom name="pcmap/usa/EVNAME05.WLD" size="6319" crc="ceaf53c7" md5="60955168398021eb8814b87c6ad41130" sha1="379049aec4e6f2de362924f683e44f64b0339363" date="1999-01-27 07:18:50"/>
+		<rom name="pcmap/usa/EVNAME06.WLD" size="4415" crc="4f725d02" md5="2310ad9deb7aef96c205cc21f8800cad" sha1="6a8265fb2e75384ca11ba051ef30d2c5e9787dd7" date="1999-01-27 07:18:54"/>
+		<rom name="pcmap/usa/SNDSMP.DAT" size="394573" crc="e3557597" md5="96d5bc8f4c24bebf0ca2e64b8b5253e2" sha1="ecbcece6be19e3a8670a0ee35131b911056ed405" date="1999-01-27 07:17:58"/>
+		<rom name="pcmap/usa/SPECIAL.DAT" size="10037" crc="71ddbc88" md5="8efc6cf0a08ca4bc2fcff68d6d89598d" sha1="470c220136c1ced4a8b3afc062b74044c4855716" date="1999-02-04 05:04:06"/>
+		<rom name="pcmap/VIGNET.DAT" size="1842334" crc="67d26d0c" md5="01316582b68a925664e2662c5041542d" sha1="1bde57867961751b773c745b6eb8420a564ef418" date="1999-01-27 07:17:58"/>
+		<rom name="RAYFAN.EXE" size="442330" crc="11ab99ee" md5="89e5135e8b08652ad132fded7e79ec17" sha1="e1c3b5a538c9581ac9f535f79e0ad0ec758227ca" date="1998-08-04 11:23:10"/>
+		<rom name="RayFan.ico" size="766" crc="f4356ca4" md5="3bb9dd57d729f3505f4e589b0f19475b" sha1="68160e2f65f624aedb235e9a5a26d51482f53865" date="1995-08-21 12:39:24"/>
+		<rom name="Rayman Forever (USA) (Track 1).bin" size="361507104" crc="9842ef16" md5="74e8e46cb9c8e093b3786153cc199092" sha1="9b1a7b1da3c6d0aa90f025f95b0c6ac9238da225"/>
+		<rom name="Rayman Forever (USA) (Track 2).ogg" size="4427026" crc="433adc48" md5="be40732ae6d6755851485c14e7890661" sha1="402a5764e1c111816eab9737f9d69b5bc3978e19">
+			<source frames="11248" pregap="150" duration="02:29:73" size="26455296" crc="515ef975" md5="06e0fc57275a356c8db34444f9054377" sha1="a5a4037306f90caa2d0235311bc2056761493f97" in_zeros="396248" out_zeros="30209" trimmed_crc="d7df1088" quality="8"/>
+		</rom>
+		<rom name="Rayman Forever (USA) (Track 3).ogg" size="4385243" crc="0a20b8bc" md5="00d7bb6f2cc1c69284f0e8705688ecd0" sha1="075ade9ac73259b3fd1fc36b3723f5c74805e2c9">
+			<source frames="10882" pregap="0" duration="02:25:07" size="25594464" crc="bdc7c3a2" md5="bc111fa5edf592a324d5fcbf676b3e30" sha1="17cb98c5d42e9333cc87b538a05aa1eae53593a5" in_zeros="87480" out_zeros="53245" trimmed_crc="c56b32a7" quality="8"/>
+		</rom>
+		<rom name="Rayman Forever (USA) (Track 4).ogg" size="4278347" crc="f8c5ce32" md5="08a1cbb8276d93ae02812e8c880e7de1" sha1="05c58955c75e3a89f6129e07be5ce5947ea22cf3">
+			<source frames="13472" pregap="0" duration="02:59:47" size="31686144" crc="49b61dbe" md5="e2f9064c7db9d61f302c720066c7cafe" sha1="bcc1342b5a1637ac4535eed435eed6ff78ad7be3" in_zeros="2568" out_zeros="33805" trimmed_crc="a9629bc9" quality="8"/>
+		</rom>
+		<rom name="Rayman Forever (USA) (Track 5).ogg" size="4603031" crc="a8cb9e66" md5="23e95e67ab64b150f935a81372dfaaca" sha1="c5420785689d39cd9f47e16d37c408f0b4b41c29">
+			<source frames="11259" pregap="0" duration="02:30:09" size="26481168" crc="a6bc5efa" md5="a43202fe8915741f15c372200f7280e3" sha1="a4490734928e075bc0a36dc930ceb00d787e9b08" in_zeros="35768" out_zeros="81216" trimmed_crc="5f351ef3" quality="8"/>
+		</rom>
+		<rom name="Rayman Forever (USA) (Track 6).ogg" size="4640699" crc="142cd363" md5="b6188b6b2b25332883a76e7ff7645578" sha1="f057378b1c5e16508edf1e6dd42286703967ccd0">
+			<source frames="11048" pregap="0" duration="02:27:23" size="25984896" crc="b35c031c" md5="bc5beeba2dba6649f960a1db7775abc1" sha1="8b962c17870f0db70e5e617f8f3ec30bce8e9c1b" in_zeros="29624" out_zeros="22721" trimmed_crc="59520cb0" quality="8"/>
+		</rom>
+		<rom name="Rayman Forever (USA) (Track 7).ogg" size="4609204" crc="4c71b344" md5="85051f62bd46a524b455f37f273c9e9f" sha1="1597138ef320a064ef540ed3f83e01f0b4d44ced">
+			<source frames="11133" pregap="0" duration="02:28:33" size="26184816" crc="6d0cf536" md5="c7acd1cff3f06c1f9d4f1fb4567d8d8e" sha1="2835a9a7f19bd1593bd7e4333368bbb0ff7603e8" in_zeros="43448" out_zeros="593" trimmed_crc="3cac1be8" quality="8"/>
+		</rom>
+		<rom name="Rayman Forever (USA) (Track 8).ogg" size="8933620" crc="6aca9835" md5="15eaf84e55b4a6bc61d6d650c3cd5209" sha1="f78fbaee2651de08c7bc670ab65357409e9ce3fb">
+			<source frames="21243" pregap="149" duration="04:43:18" size="49963536" crc="3250bcad" md5="30b9a9da0c5d8ffdc791283e09e7f641" sha1="c50042145254f35cdcb2820a1b4a9627369895e4" in_zeros="0" out_zeros="0" trimmed_crc="3250bcad" quality="8"/>
+		</rom>
+		<rom name="Rayman Forever (USA) (Track 9).ogg" size="2805042" crc="5a108323" md5="e304d4608e07db80f82a6160bdf64f39" sha1="5601016ad4fd4c34e5c546140466e312f8dfe006">
+			<source frames="6059" pregap="0" duration="01:20:59" size="14250768" crc="19fd2dda" md5="8a8c3e8d13973e98206f8aec02162e93" sha1="f33900fe8f98a53b305ffc9ba30ce24f0da50b3b" in_zeros="0" out_zeros="1" trimmed_crc="9e71dbb0" quality="8"/>
+		</rom>
+		<rom name="Rayman Forever (USA) (Track 10).ogg" size="1161143" crc="9ef1c686" md5="6cfea86300e96595729c6a73e8d69198" sha1="ed6e935300a6b6df7f725cee514be2e5ee6dc044">
+			<source frames="3102" pregap="0" duration="00:41:27" size="7295904" crc="a7d74026" md5="9f61ff192d5a791ee368ba7df6dcf8a3" sha1="2e4caa902483046efecba28408dc0a0b5ded4d5b" in_zeros="0" out_zeros="1" trimmed_crc="bf0c37c2" quality="8"/>
+		</rom>
+		<rom name="Rayman Forever (USA) (Track 11).ogg" size="6277867" crc="b3b44836" md5="23fe4ccce4a23c9fb44c8d89eb56ed1b" sha1="21a7fd38e52b41a57de07aab8a5b7806353a792d">
+			<source frames="16127" pregap="0" duration="03:35:02" size="37930704" crc="3bde15a9" md5="e4d8c45be7649411d30dde35f108f512" sha1="2c6875ac6def276a48de4db6a3a61e5bcdb8dc9d" in_zeros="0" out_zeros="54789" trimmed_crc="3efa403b" quality="8"/>
+		</rom>
+		<rom name="Rayman Forever (USA) (Track 12).ogg" size="246478" crc="8fa9e35b" md5="88ebf7a79d9dd2098ca65041e932198a" sha1="e8e78ef76c8ffa9e0fca7a85b88056338c9f34d7">
+			<source frames="657" pregap="0" duration="00:08:57" size="1545264" crc="7b28bc83" md5="c301e667a1d73369c673258de495b883" sha1="6f8ac95b4932581253843d6ea339a7539f8b0ebf" in_zeros="4890" out_zeros="92" trimmed_crc="0d64c9df" quality="8"/>
+		</rom>
+		<rom name="Rayman Forever (USA) (Track 13).ogg" size="7630577" crc="33d85f52" md5="5091e315a149b046bb10b585e0333a4b" sha1="e2d203b0ff9c976055422f7f81606577b4d7eaa9">
+			<source frames="19447" pregap="149" duration="04:19:22" size="45739344" crc="40fe099c" md5="9bae4ae0557930cbe1a9f2e3e08bf35c" sha1="83454b02ee3aecf295fdb1bb5b5d0a0411c59c54" in_zeros="1" out_zeros="1" trimmed_crc="efa0177c" quality="8"/>
+		</rom>
+		<rom name="Rayman Forever (USA) (Track 14).ogg" size="8727073" crc="060037ba" md5="baea13a4607285326887f161c05ed7d9" sha1="a2c4d624706fa4b9b97eb34d9167ec7efbc6dd14">
+			<source frames="22098" pregap="149" duration="04:54:48" size="51974496" crc="47ac242d" md5="71f823da877ed1aa0eb379f356c8b1e2" sha1="3f4ac225a516b9d024d083a6c149ebcc5d346a76" in_zeros="0" out_zeros="0" trimmed_crc="47ac242d" quality="8"/>
+		</rom>
+		<rom name="Rayman Forever (USA) (Track 15).ogg" size="2233802" crc="f35535d8" md5="11dfb15df788df56ae0971cf6cc8aff5" sha1="43f7b766b6b17c48d40e8f47a01cc2965ce829d0">
+			<source frames="5205" pregap="0" duration="01:09:30" size="12242160" crc="06514d24" md5="95822b836e56e3dfdcdf5e00be062d0f" sha1="74b9e7a0206642dabb0e9df7a203f4a53b84dc2e" in_zeros="0" out_zeros="1" trimmed_crc="e8924b63" quality="8"/>
+		</rom>
+		<rom name="Rayman Forever (USA) (Track 16).ogg" size="5838377" crc="a22ec758" md5="62f49f94ac85e91a92c9eaa775bdfdd1" sha1="fc32359e50f0327afae9e260483cf045d1de29d7">
+			<source frames="15423" pregap="0" duration="03:25:48" size="36274896" crc="c4ba4c87" md5="fe68dd3e91fad81091fc401b1f0695df" sha1="4217ba06129cfc1816be770e29877ab18caa1770" in_zeros="0" out_zeros="98873" trimmed_crc="c793195b" quality="8"/>
+		</rom>
+		<rom name="Rayman Forever (USA) (Track 17).ogg" size="9131745" crc="c2f09609" md5="2f967db4c78b5d0b6b967a8dea67fd21" sha1="8123f75d66e8221929569c38a89cf112f3681f1c">
+			<source frames="23584" pregap="0" duration="05:14:34" size="55469568" crc="423b43f7" md5="b592751e27e63598cfd685b573422a91" sha1="48dc503a21e4e6c33bff060fc54e6530382357ee" in_zeros="31892" out_zeros="40817" trimmed_crc="e8bd5fb4" quality="8"/>
+		</rom>
+		<rom name="Rayman Forever (USA) (Track 18).ogg" size="2435706" crc="83ed6e45" md5="a14e771da8f0291943d8497e0b16bed0" sha1="fe90c6c21616a2d8fe776e219428a4a118f62658">
+			<source frames="5013" pregap="0" duration="01:06:63" size="11790576" crc="9dc3e16a" md5="07ee804f2fc3444ccc63a6fd7b5a1714" sha1="4a9e69f325d4b599aab3968d7653920dee89dbf0" in_zeros="4028" out_zeros="1" trimmed_crc="9f40bfd5" quality="8"/>
+		</rom>
+		<rom name="Rayman Forever (USA) (Track 19).ogg" size="2056419" crc="54d27eb7" md5="eb3172669a1d26f6fc9f8ad75203a10d" sha1="740bd076cfe14bb471b12c6944abe0172d232669">
+			<source frames="4347" pregap="0" duration="00:57:72" size="10224144" crc="6dae3a6f" md5="342250f1c9380b6bbc1dd3916e6466e4" sha1="fe4edb92b4a9e3ad1ec41d8bb5292af642c561fa" in_zeros="0" out_zeros="1" trimmed_crc="7cb4f433" quality="8"/>
+		</rom>
+		<rom name="Rayman Forever (USA) (Track 20).ogg" size="1080240" crc="5360df59" md5="b3d2e73cb4bdc302d5fe8cefcfbe53af" sha1="5fc1f12a6092e376a37525647c19553b1593234a">
+			<source frames="2497" pregap="0" duration="00:33:22" size="5872944" crc="c25c84e3" md5="cb90fe623cd98b669651cb46a80d7c98" sha1="412cd24301bf88563a9abcce854b8cbac3672e19" in_zeros="0" out_zeros="1" trimmed_crc="8411349a" quality="8"/>
+		</rom>
+		<rom name="Rayman Forever (USA).cue" size="1779" crc="45a825fe" md5="6d85201b4ff5ded636c10886e35585e8" sha1="b9ccc238a7d7893ec6c7388eb2941ce0b916dacb"/>
+		<rom name="Rayman.bat" size="29" crc="e148efdc" md5="8cf06ba15e9d8442d70a0d5dec417820" sha1="161f7b0f6da4eaf07df13329f3ca44ee58b06a53" date="1999-01-27 07:26:58"/>
+		<rom name="SETSOUND.BAT" size="88" crc="9faf0c93" md5="d60c8e0e440fbed14dd4ca8e874d831c" sha1="7546a32e769e19f28dd00f4f9ec1d7bc121e7aa7" date="1999-01-26 11:13:20"/>
+		<rom name="SETSOUND.EXE" size="99896" crc="480eddcd" md5="b8a614c0997f2a4b6264a2c902a9cfb1" sha1="9d3ff9d78e28ff5458ee3e55f0f2a9157bdc84d0" date="1998-07-15 14:20:40"/>
+		<rom name="Usa/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-03-01 05:03:54"/>
+		<rom name="Usa/Rayman.bat" size="29" crc="e148efdc" md5="8cf06ba15e9d8442d70a0d5dec417820" sha1="161f7b0f6da4eaf07df13329f3ca44ee58b06a53" date="1999-01-27 07:26:58"/>
+		<rom name="Usa/SETSOUND.BAT" size="88" crc="9faf0c93" md5="d60c8e0e440fbed14dd4ca8e874d831c" sha1="7546a32e769e19f28dd00f4f9ec1d7bc121e7aa7" date="1999-01-26 11:13:20"/>
+	</game>
+	<game name="Rayman Designer (1997) (Ubi Soft).dosz">
+		<description>Rayman Designer</description>
+		<comment>Files copied from CD</comment>
+		<comment_dosc>Sound Blaster 16 config and auto start. French and German options</comment_dosc>
+		<year>1997</year>
+		<developer>Ubi Soft</developer>
+		<link type="media">http://redump.org/disc/36177/</link>
+		<rom name="AL/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:12"/>
+		<rom name="AL/MAPPER.EXE" size="452096" crc="d76d5dc4" md5="dfc1780d861c5bbc476941bab21b0d47" sha1="eee2b0d094eeb85369d10efac3d4f1373c8a836d" date="1997-07-11 07:40:10"/>
+		<rom name="AL/RAYMAN.BAT" size="28" crc="9da60f48" md5="6a267f40fbe0422bea40c36b89f4b9b0" sha1="7876aef82672047b35aaf34584112bb0ae6926ee" date="1997-06-19 13:07:00"/>
+		<rom name="AL/SETSOUND.BAT" size="87" crc="c16caf09" md5="010d2f99cbd8dda13539b88ce7fe06ab" sha1="07a4c4a454a8941b8fc595a73022e06d6a339536" date="1997-05-23 07:21:06"/>
+		<rom name="CAKE/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:14"/>
+		<rom name="CAKE/CAK.MAP" size="36004" crc="f689d3aa" md5="39fabd82023635b36312886f20c44092" sha1="cb9053e8fef66a66e8b638255ad1c08252ebce26" date="1997-02-05 08:23:14"/>
+		<rom name="CAKE/CAK.PCX" size="82705" crc="71bde569" md5="cbc75da7cda88c08575d47f95ce87e52" sha1="4170f2e982e81f5f25104dfee141b070a1e2171a" date="1997-06-02 11:27:26"/>
+		<rom name="CAKE/EVE.MLT" size="35365" crc="610079f4" md5="f675152e2780158adf2ac6f40b2426d7" sha1="08c381174571406eb237e57de89721a1e18504e7" date="1997-06-11 16:34:18"/>
+		<rom name="CAKE/MAP_101/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:14"/>
+		<rom name="CAKE/MAP_101/EVENT.MAP" size="96004" crc="702bab40" md5="5404b3421746357745d961922b3f1bee" sha1="7c245f5cf2e8ca930f41fe52ae7261cba7065eb5" date="1997-05-14 11:48:40"/>
+		<rom name="CAKE/MAP_101/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="CAKE/MAP_101/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="CAKE/MAP_101/MAP.INI" size="189" crc="30cfb15e" md5="04101af47c2629030421ea7ef53091bb" sha1="d5b03707fb2fabf34d4d886b50f1b83e1d20b5b9" date="1997-07-29 11:58:22"/>
+		<rom name="CAKE/MAP_102/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:14"/>
+		<rom name="CAKE/MAP_102/EVENT.MAP" size="96004" crc="39807402" md5="de7d621a3059061be358a3685df74118" sha1="5e35d2c01e1621ef2365bd1d94b784fda0ca8700" date="1997-04-18 07:52:12"/>
+		<rom name="CAKE/MAP_102/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="CAKE/MAP_102/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="CAKE/MAP_102/MAP.INI" size="189" crc="30cfb15e" md5="04101af47c2629030421ea7ef53091bb" sha1="d5b03707fb2fabf34d4d886b50f1b83e1d20b5b9" date="1997-07-29 11:58:22"/>
+		<rom name="CAKE/MAP_103/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:14"/>
+		<rom name="CAKE/MAP_103/EVENT.MAP" size="160004" crc="2a8a3866" md5="2f3853adc4185fba87010db2585c5be5" sha1="d84c5166d330411259911ba4b4240e2505f31ed7" date="1997-05-14 11:49:06"/>
+		<rom name="CAKE/MAP_103/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="CAKE/MAP_103/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="CAKE/MAP_103/MAP.INI" size="189" crc="30cfb15e" md5="04101af47c2629030421ea7ef53091bb" sha1="d5b03707fb2fabf34d4d886b50f1b83e1d20b5b9" date="1997-07-29 11:58:22"/>
+		<rom name="CAKE/MAP_104/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:14"/>
+		<rom name="CAKE/MAP_104/EVENT.MAP" size="80004" crc="e42b6ffc" md5="45c3c8e2d441fd3f805ec99fa0579295" sha1="ac211e2ccda397af6e2fc0d1ae3d1294c7f92b01" date="1997-05-14 11:49:20"/>
+		<rom name="CAKE/MAP_104/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="CAKE/MAP_104/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="CAKE/MAP_104/MAP.INI" size="189" crc="30cfb15e" md5="04101af47c2629030421ea7ef53091bb" sha1="d5b03707fb2fabf34d4d886b50f1b83e1d20b5b9" date="1997-07-29 11:58:22"/>
+		<rom name="CAKE/MAP_105/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:14"/>
+		<rom name="CAKE/MAP_105/EVENT.MAP" size="80004" crc="ef19cefe" md5="87f48c3d0ae20632ea21f45b78eff25b" sha1="c801a8e5bb2eaeca383b251ecbc6119d6af0df3a" date="1997-05-14 11:49:42"/>
+		<rom name="CAKE/MAP_105/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="CAKE/MAP_105/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="CAKE/MAP_105/MAP.INI" size="189" crc="30cfb15e" md5="04101af47c2629030421ea7ef53091bb" sha1="d5b03707fb2fabf34d4d886b50f1b83e1d20b5b9" date="1997-07-29 11:56:34"/>
+		<rom name="CAVE/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:36"/>
+		<rom name="CAVE/CAV.MAP" size="19204" crc="f303efd0" md5="1f474d0a72abea41257669f37cfb8d11" sha1="bb94aced0b1fa3ee30302c4ee5f67785177f5613" date="1997-04-18 07:17:32"/>
+		<rom name="CAVE/CAV.PCX" size="86057" crc="50834c42" md5="febd7db1f722d733fe25a20fcf02c02a" sha1="b962607c8ed582d913f3914f46a060ee9ad46d89" date="1997-06-02 11:20:48"/>
+		<rom name="CAVE/EVE.MLT" size="41938" crc="fc863deb" md5="0a2e9cdc9251253854253a2235eff5d8" sha1="8bfec85c9b6ccd55592ea580b9beadbe5d399414" date="1997-06-27 12:33:22"/>
+		<rom name="CAVE/MAP_101/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:36"/>
+		<rom name="CAVE/MAP_101/EVENT.MAP" size="96004" crc="fc29075d" md5="8cd7e61115c69c9c77c7f3505f72aa87" sha1="cc2936276a575ebd808de3ae5c06de18acd8f6d5" date="1997-05-14 11:47:32"/>
+		<rom name="CAVE/MAP_101/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="CAVE/MAP_101/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="CAVE/MAP_101/MAP.INI" size="189" crc="6bc278fe" md5="4a32eff1e87f622a9bee1d87f0d75edb" sha1="6c1080f77c514f05c4edcf62ca88b43666d8326e" date="1997-07-29 11:58:24"/>
+		<rom name="CAVE/MAP_102/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:36"/>
+		<rom name="CAVE/MAP_102/EVENT.MAP" size="32004" crc="d76803fb" md5="312e937d2e701f5d77eff0b07e0a1214" sha1="29c027056e39ad919fa91e4338b98b99b0dc2759" date="1997-05-14 11:47:20"/>
+		<rom name="CAVE/MAP_102/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="CAVE/MAP_102/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="CAVE/MAP_102/MAP.INI" size="189" crc="6bc278fe" md5="4a32eff1e87f622a9bee1d87f0d75edb" sha1="6c1080f77c514f05c4edcf62ca88b43666d8326e" date="1997-07-29 11:58:24"/>
+		<rom name="CAVE/MAP_103/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:36"/>
+		<rom name="CAVE/MAP_103/EVENT.MAP" size="160004" crc="c46de510" md5="3d31499cb4827c0a3afd80f61b84e2ad" sha1="36543810ad170a98e34c2b7d1edcd70e2c98199a" date="1997-05-14 11:46:32"/>
+		<rom name="CAVE/MAP_103/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="CAVE/MAP_103/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="CAVE/MAP_103/MAP.INI" size="189" crc="6bc278fe" md5="4a32eff1e87f622a9bee1d87f0d75edb" sha1="6c1080f77c514f05c4edcf62ca88b43666d8326e" date="1997-07-29 11:58:24"/>
+		<rom name="CAVE/MAP_104/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:36"/>
+		<rom name="CAVE/MAP_104/EVENT.MAP" size="80004" crc="bd349dd5" md5="a41d5e24f4fa0de6cfbb728353c73442" sha1="dd1f609d1af6a7b5100079be6d376da772b5497a" date="1997-05-14 11:45:18"/>
+		<rom name="CAVE/MAP_104/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="CAVE/MAP_104/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="CAVE/MAP_104/MAP.INI" size="189" crc="6bc278fe" md5="4a32eff1e87f622a9bee1d87f0d75edb" sha1="6c1080f77c514f05c4edcf62ca88b43666d8326e" date="1997-07-29 11:58:24"/>
+		<rom name="CAVE/MAP_105/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:36"/>
+		<rom name="CAVE/MAP_105/EVENT.MAP" size="80004" crc="e75e5378" md5="c155843f5fc0d34da57477b7ca920ba7" sha1="d859bd7bd7adee5eb0c4e9f8a83ba7881499cbdd" date="1997-05-14 11:45:04"/>
+		<rom name="CAVE/MAP_105/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="CAVE/MAP_105/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="CAVE/MAP_105/MAP.INI" size="189" crc="6bc278fe" md5="4a32eff1e87f622a9bee1d87f0d75edb" sha1="6c1080f77c514f05c4edcf62ca88b43666d8326e" date="1997-07-29 11:58:24"/>
+		<rom name="DATA/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:36"/>
+		<rom name="DATA/AL.BIN" size="2173" crc="db0544bd" md5="b35b4688091bf1d36062743041ccc5c1" sha1="839eb80e2c2bf803bbc78cc96ca95bf2e6405fe9" date="1997-06-19 11:50:00"/>
+		<rom name="DATA/FR.BIN" size="2292" crc="be63bd35" md5="524a2952a615c448d826e9cc2b376fb1" sha1="184c4c836104b3785f5064f17310309ac8b20eb9" date="1996-11-12 14:30:18"/>
+		<rom name="DATA/KITFOND.PCX" size="19446" crc="4d1c3690" md5="bac17e00dc786f634a9fc58410dcf647" sha1="48cce28d80cc02c906a26fe5028e5be57ee5fcc3" date="1996-10-10 11:42:52"/>
+		<rom name="DATA/LET.OBF" size="780" crc="e616fcc4" md5="99b02210f5102aff57a426ee8264202e" sha1="c77ddb8f7b7774e8a2d53c35dc0c74d6fae12564" date="1996-08-02 07:05:26"/>
+		<rom name="DATA/LET.SPR" size="9908" crc="bb6a307d" md5="6a33d149c85a70ec471d5208b585f37c" sha1="746f1aeee7ea645dcdfa636cb9e288cc94b146d3" date="1996-08-02 07:05:26"/>
+		<rom name="DATA/LET2.OBF" size="1116" crc="15dd1a7f" md5="58db8890932be595a275c3aaa517ae77" sha1="8542f759e4e9bba7792db7653af0b254eb5b0124" date="1996-07-31 09:05:36"/>
+		<rom name="DATA/LET2.SPR" size="36828" crc="827eaf77" md5="3ebed606eb5c006c2c2287853e5e4021" sha1="c6a72be412b990f950add57d8618739a56f8e9f1" date="1996-07-31 09:05:36"/>
+		<rom name="DATA/PERFECT.VIG" size="25472" crc="2fb45b87" md5="bf986ed2bcf1a972fd669e5e70105c4b" sha1="bf78cfa4c233562baa5026962627717cc4842739" date="1995-09-06 11:06:40"/>
+		<rom name="DATA/SOUND.BIN" size="2415" crc="9c97dcea" md5="0c8aa2abb8f050eaed72a85d5038005a" sha1="8f15d5a730200d1891a4b350bbe7d77c688df9b5" date="1996-11-12 14:48:18"/>
+		<rom name="DATA/USA.BIN" size="2002" crc="5ad0dc7f" md5="4947b95fb2a2dd406561f3dc30d5ca46" sha1="ebc96b723b0c9132759e1813d30a2b6918a7e8f9" date="1996-11-12 14:48:18"/>
+		<rom name="DATA/VERSION.BIN" size="229" crc="6e4f148f" md5="0f102f1aa2ab60d97cbfbab070fda386" sha1="202f6a36920e88ac31ef4582413e981337ca7ba6" date="1996-11-12 14:40:08"/>
+		<rom name="FR/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:14"/>
+		<rom name="FR/MAPPER.EXE" size="451584" crc="2ead3a1c" md5="9e6a22906b5f3ab7a05848e46fdbdd14" sha1="09f44f0220de264bac3bc3def270407ffd2128d0" date="1997-07-11 07:31:22"/>
+		<rom name="FR/RAYMAN.BAT" size="28" crc="5f731613" md5="3e2b324ec1491ae842fc8837e73bce41" sha1="a1654d80aaaf685c69b8a4a18a3127fc1cebd811" date="1997-06-20 06:43:34"/>
+		<rom name="FR/SETSOUND.BAT" size="87" crc="47b22d93" md5="a851329e760f6019f9078f7d83c1bf1c" sha1="dddef446fdc40ef57785fab8247ecf640b9be34a" date="1997-05-23 07:21:16"/>
+		<rom name="HMIDET.386" size="81990" crc="637c56a8" md5="59b3f813848cda336763648d628db917" sha1="27a06eb94b0abf13139c311ebed73358b20bcdab" date="1995-02-05 22:00:00"/>
+		<rom name="HMIDRV.386" size="261425" crc="f6d116a3" md5="bd16499c7c0ef8cebb0999373edc5361" sha1="becd7f4a413a1966986b4c41c860b678d7244d58" date="1995-02-05 22:00:00"/>
+		<rom name="IMAGE/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:34"/>
+		<rom name="IMAGE/EVE.MLT" size="33666" crc="582530f0" md5="23129b9b1da897aee8bc532e1b6177c4" sha1="52d18728967919af65c55ad88f4de725f48f06ed" date="1997-06-11 16:34:22"/>
+		<rom name="IMAGE/IMA.MAP" size="35204" crc="4562e6f6" md5="d0ce43ebd816df885f2d893d6be5fa7e" sha1="827f6109bae4832827a55739c192c2b906ff5b64" date="1997-04-18 07:18:48"/>
+		<rom name="IMAGE/IMA.PCX" size="59762" crc="01569fff" md5="b0caf6c95d6dee63b71a4ea3277de62d" sha1="60aef7aab70b2b70c109ff06ea0c63ac13b3d16f" date="1997-06-24 13:52:06"/>
+		<rom name="IMAGE/MAP_101/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:36"/>
+		<rom name="IMAGE/MAP_101/EVENT.MAP" size="96004" crc="3ccb0e16" md5="fa15b9f1f43151e5e7aa0e8e1c10f901" sha1="b326f96e4db2d56464b7efc7bce6802479ddeb4b" date="1997-05-14 11:23:06"/>
+		<rom name="IMAGE/MAP_101/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="IMAGE/MAP_101/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="IMAGE/MAP_101/MAP.INI" size="189" crc="31d9c8a3" md5="28c6a46c085b7561bf35940103075d40" sha1="9f0318a23181f65164e3a2c03a9ecd21fc1da049" date="1997-07-29 11:58:24"/>
+		<rom name="IMAGE/MAP_102/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:36"/>
+		<rom name="IMAGE/MAP_102/EVENT.MAP" size="32004" crc="af3fc3ef" md5="d5ba134de11360c5dd30f22a68906dc7" sha1="24917c56dc20ea87fe32bc983d7df8e60ee8797f" date="1997-05-14 11:21:28"/>
+		<rom name="IMAGE/MAP_102/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="IMAGE/MAP_102/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="IMAGE/MAP_102/MAP.INI" size="189" crc="31d9c8a3" md5="28c6a46c085b7561bf35940103075d40" sha1="9f0318a23181f65164e3a2c03a9ecd21fc1da049" date="1997-07-29 11:58:24"/>
+		<rom name="IMAGE/MAP_103/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:36"/>
+		<rom name="IMAGE/MAP_103/EVENT.MAP" size="160004" crc="9b755d71" md5="1780f3dc68cde61c87ea9e73e8666ac5" sha1="07063814a536868da978eccad1ed656e38ed2091" date="1997-05-14 11:20:54"/>
+		<rom name="IMAGE/MAP_103/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="IMAGE/MAP_103/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="IMAGE/MAP_103/MAP.INI" size="189" crc="31d9c8a3" md5="28c6a46c085b7561bf35940103075d40" sha1="9f0318a23181f65164e3a2c03a9ecd21fc1da049" date="1997-07-29 11:58:22"/>
+		<rom name="IMAGE/MAP_104/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:34"/>
+		<rom name="IMAGE/MAP_104/EVENT.MAP" size="80004" crc="63ed41b7" md5="9395e984b749fa0d14ec24fb10d0c2f7" sha1="4fe0ec0c68eb632fd2748015ec50da73004c7b04" date="1997-05-14 11:20:26"/>
+		<rom name="IMAGE/MAP_104/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="IMAGE/MAP_104/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="IMAGE/MAP_104/MAP.INI" size="189" crc="31d9c8a3" md5="28c6a46c085b7561bf35940103075d40" sha1="9f0318a23181f65164e3a2c03a9ecd21fc1da049" date="1997-07-29 11:58:22"/>
+		<rom name="IMAGE/MAP_105/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:34"/>
+		<rom name="IMAGE/MAP_105/EVENT.MAP" size="80004" crc="fe2b2b33" md5="f8c8f0580e90474490b5c58a0db7b8d0" sha1="a0ed8b4904ee69851656936dc393b945ce96d02c" date="1997-05-14 11:17:48"/>
+		<rom name="IMAGE/MAP_105/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="IMAGE/MAP_105/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="IMAGE/MAP_105/MAP.INI" size="189" crc="31d9c8a3" md5="28c6a46c085b7561bf35940103075d40" sha1="9f0318a23181f65164e3a2c03a9ecd21fc1da049" date="1997-07-29 11:58:22"/>
+		<rom name="INSTDATA/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:12"/>
+		<rom name="INSTDATA/UBI.ENG" size="210" crc="5fc90f0f" md5="a13a2caa95bc1c81bdab0e37dc33a47d" sha1="561f3e5c5b91400e79c4a25c5d4714592210fd7a" date="1997-07-10 18:43:34"/>
+		<rom name="INSTDATA/UBI.FRA" size="202" crc="e2cba09b" md5="943f92d97ec51eac43ac4abe6f226fff" sha1="2e1f3dc2c0412f4ab0cd3e0a388157dca91ff8f4" date="1997-07-10 18:43:02"/>
+		<rom name="INSTDATA/UBI.GER" size="202" crc="e2795284" md5="9b6d48bab119a2472f86b2dd19f6ffb5" sha1="894cc6fd40f8cf297e49d743e3a3ec7a8af7fe4a" date="1997-07-10 18:43:20"/>
+		<rom name="INSTDATA/UBI.INS" size="11548" crc="76f84715" md5="7f1d8d067812ace01a8fa1fa8ccba99d" sha1="aa19a3761866842b7a19dcaa2b5d137320391312" date="1997-08-06 15:08:10"/>
+		<rom name="JUNGLE/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:34"/>
+		<rom name="JUNGLE/EVE.MLT" size="35641" crc="baf9c0fb" md5="3774f75f57ee882edccbc6f1f13fea88" sha1="a1039945ecd74da62d0583758b165e5832d89da6" date="1997-06-11 16:34:16"/>
+		<rom name="JUNGLE/JUN.MAP" size="22404" crc="c57ff269" md5="5448bbf3e2dbaa354386bffd106b03fc" sha1="95f763cd10adb56e84af8ab333ef2f56632d3483" date="1997-04-18 07:23:06"/>
+		<rom name="JUNGLE/JUN.PCX" size="132255" crc="61ae61ac" md5="031a781378d532ea209780606062d351" sha1="7e445e8575e08ef430d7ab6060e9d9cbab1a5ea9" date="1997-06-02 11:22:10"/>
+		<rom name="JUNGLE/MAP_101/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:34"/>
+		<rom name="JUNGLE/MAP_101/EVENT.MAP" size="96004" crc="6bf20a1c" md5="ac0b97de95a256330bfabf95cbca7ec6" sha1="43fb5703b8a2fcc79de364fccf32f21fe11f8a9d" date="1997-04-18 08:19:14"/>
+		<rom name="JUNGLE/MAP_101/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="JUNGLE/MAP_101/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="JUNGLE/MAP_101/MAP.INI" size="189" crc="d8ddbfcb" md5="9019f89629a7e26fb4b0f5e46b8eb657" sha1="1a0b632a561b8e536ecab979de84e1f95fc84e4b" date="1997-07-29 11:58:22"/>
+		<rom name="JUNGLE/MAP_102/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:34"/>
+		<rom name="JUNGLE/MAP_102/EVENT.MAP" size="32004" crc="e6bb2dae" md5="9ab8cf5d064d7e372534082faf909cc4" sha1="b2b2c4c049dab8cae8f1f995962108d771253884" date="1997-04-18 08:17:04"/>
+		<rom name="JUNGLE/MAP_102/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="JUNGLE/MAP_102/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="JUNGLE/MAP_102/MAP.INI" size="189" crc="d8ddbfcb" md5="9019f89629a7e26fb4b0f5e46b8eb657" sha1="1a0b632a561b8e536ecab979de84e1f95fc84e4b" date="1997-07-29 11:58:22"/>
+		<rom name="JUNGLE/MAP_103/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:34"/>
+		<rom name="JUNGLE/MAP_103/EVENT.MAP" size="160004" crc="74e68ac9" md5="4ca110bbf0dbaebf9f7f90207323c412" sha1="fa570145f2009a3c508bbf186f04b595856c73d8" date="1997-04-18 08:16:04"/>
+		<rom name="JUNGLE/MAP_103/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="JUNGLE/MAP_103/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="JUNGLE/MAP_103/MAP.INI" size="189" crc="d8ddbfcb" md5="9019f89629a7e26fb4b0f5e46b8eb657" sha1="1a0b632a561b8e536ecab979de84e1f95fc84e4b" date="1997-07-29 11:58:22"/>
+		<rom name="JUNGLE/MAP_104/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:34"/>
+		<rom name="JUNGLE/MAP_104/EVENT.MAP" size="80004" crc="9e4cdc00" md5="f51d2c1d783315022eeca0ab43934e18" sha1="6e5e59f92789b72193c99642e6c97362047690b1" date="1997-04-18 08:13:50"/>
+		<rom name="JUNGLE/MAP_104/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="JUNGLE/MAP_104/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="JUNGLE/MAP_104/MAP.INI" size="189" crc="d8ddbfcb" md5="9019f89629a7e26fb4b0f5e46b8eb657" sha1="1a0b632a561b8e536ecab979de84e1f95fc84e4b" date="1997-07-29 11:58:22"/>
+		<rom name="JUNGLE/MAP_105/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:34"/>
+		<rom name="JUNGLE/MAP_105/EVENT.MAP" size="80004" crc="84be988b" md5="49c205ff039bf419fc0e77ace5e48a3b" sha1="b4b09107dbdd1eadc9c5e1a608e310fefaca052e" date="1997-05-14 08:21:26"/>
+		<rom name="JUNGLE/MAP_105/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="JUNGLE/MAP_105/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="JUNGLE/MAP_105/MAP.INI" size="189" crc="d8ddbfcb" md5="9019f89629a7e26fb4b0f5e46b8eb657" sha1="1a0b632a561b8e536ecab979de84e1f95fc84e4b" date="1997-07-29 11:58:22"/>
+		<rom name="MAPPER.EXE" size="449024" crc="dff3f205" md5="d4b1af48638e70f77f6e377b4923b842" sha1="80e0bb687ca826ecbc4f4826679c5721e4994879" date="1997-07-11 07:25:16"/>
+		<rom name="MOUNTAIN/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:32"/>
+		<rom name="MOUNTAIN/EVE.MLT" size="40501" crc="64206591" md5="04f7a56c8c1f760a1ddb1075aed90689" sha1="13c4c39e90eb81df862c673c242be873d6bd8a68" date="1997-06-11 16:34:16"/>
+		<rom name="MOUNTAIN/MAP_101/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:34"/>
+		<rom name="MOUNTAIN/MAP_101/EVENT.MAP" size="96004" crc="7ffb016e" md5="7501f93490d34b056f05df3d295cfa82" sha1="4088eefcf1e564325f8c07d428c9d3f9fd27953b" date="1997-05-14 11:10:04"/>
+		<rom name="MOUNTAIN/MAP_101/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="MOUNTAIN/MAP_101/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="MOUNTAIN/MAP_101/MAP.INI" size="189" crc="6ceadf71" md5="85a96e2042921d8d4e763ce1aa0e15cb" sha1="fb386104c383b5308a6af473773fb281c05b5cb5" date="1997-07-29 11:58:22"/>
+		<rom name="MOUNTAIN/MAP_102/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:34"/>
+		<rom name="MOUNTAIN/MAP_102/EVENT.MAP" size="32004" crc="b8636e9e" md5="01fc87d436bbb97f210d0665f0844802" sha1="61261e1be8886d5353c0cb24400acc0fdc428348" date="1997-05-14 11:10:56"/>
+		<rom name="MOUNTAIN/MAP_102/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="MOUNTAIN/MAP_102/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="MOUNTAIN/MAP_102/MAP.INI" size="189" crc="6ceadf71" md5="85a96e2042921d8d4e763ce1aa0e15cb" sha1="fb386104c383b5308a6af473773fb281c05b5cb5" date="1997-07-29 11:58:22"/>
+		<rom name="MOUNTAIN/MAP_103/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:32"/>
+		<rom name="MOUNTAIN/MAP_103/EVENT.MAP" size="160004" crc="a9e4f3cb" md5="18fb7c3dda2694ce8c912cd9da03ecbf" sha1="ccc5f5cb1c6951d1a6ee0c63d384b6d4fd0e3307" date="1997-05-14 11:11:18"/>
+		<rom name="MOUNTAIN/MAP_103/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="MOUNTAIN/MAP_103/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="MOUNTAIN/MAP_103/MAP.INI" size="189" crc="6ceadf71" md5="85a96e2042921d8d4e763ce1aa0e15cb" sha1="fb386104c383b5308a6af473773fb281c05b5cb5" date="1997-07-29 11:58:22"/>
+		<rom name="MOUNTAIN/MAP_104/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:32"/>
+		<rom name="MOUNTAIN/MAP_104/EVENT.MAP" size="80004" crc="3836e790" md5="05231cb64338e46d89e2466718f7a572" sha1="a68099a98a450379f5b6a391ad5022d8987dcd77" date="1997-05-14 11:11:46"/>
+		<rom name="MOUNTAIN/MAP_104/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="MOUNTAIN/MAP_104/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="MOUNTAIN/MAP_104/MAP.INI" size="189" crc="6ceadf71" md5="85a96e2042921d8d4e763ce1aa0e15cb" sha1="fb386104c383b5308a6af473773fb281c05b5cb5" date="1997-07-29 11:58:22"/>
+		<rom name="MOUNTAIN/MAP_105/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:32"/>
+		<rom name="MOUNTAIN/MAP_105/EVENT.MAP" size="80004" crc="8b9c28bd" md5="810825414b713a7e9afbe2d14812b1f9" sha1="7d52a90e43d59fa7fc0644e884e71628355ec4fe" date="1997-05-14 11:15:12"/>
+		<rom name="MOUNTAIN/MAP_105/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="MOUNTAIN/MAP_105/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="MOUNTAIN/MAP_105/MAP.INI" size="189" crc="6ceadf71" md5="85a96e2042921d8d4e763ce1aa0e15cb" sha1="fb386104c383b5308a6af473773fb281c05b5cb5" date="1997-07-29 11:58:22"/>
+		<rom name="MOUNTAIN/MON.MAP" size="25204" crc="6bd00121" md5="54c34559688a771b62e162f046fab3ac" sha1="56cc5a789a3cdba7351ae1bcf32ae25c65838677" date="1997-04-18 07:42:04"/>
+		<rom name="MOUNTAIN/MON.PCX" size="67348" crc="5999b8cb" md5="f97129f1bfa3e9b9a48c7600afdb284c" sha1="e66c58812c29a217ad119a9b1b2ea2639e9c6b8b" date="1997-06-02 11:23:04"/>
+		<rom name="MUSIC/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:32"/>
+		<rom name="MUSIC/EVE.MLT" size="38182" crc="877836ae" md5="916bae3e6c58b45051e7823fcca23855" sha1="46e061804be4dde459ab803208b523f5726462e2" date="1997-06-11 16:34:20"/>
+		<rom name="MUSIC/MAP_101/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:32"/>
+		<rom name="MUSIC/MAP_101/EVENT.MAP" size="96004" crc="e8ea424c" md5="564473fa0ab0fa435bf98ce1e03cba94" sha1="1f720aa17039afe4f4c6cf5fa088c57150e8d891" date="1997-05-14 08:25:08"/>
+		<rom name="MUSIC/MAP_101/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="MUSIC/MAP_101/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="MUSIC/MAP_101/MAP.INI" size="189" crc="36f16f2c" md5="c2cf463201e504cf6944721ba452b224" sha1="817e546c9e59309c4c40cc7f943ee9c6678f1c47" date="1997-07-29 11:58:22"/>
+		<rom name="MUSIC/MAP_102/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:32"/>
+		<rom name="MUSIC/MAP_102/EVENT.MAP" size="32004" crc="ee644550" md5="a024df12c796434ca9d9c6b88c933704" sha1="2b00c67a5ba257580dfa34a9fe9f5ca37eba4f35" date="1997-05-14 08:25:56"/>
+		<rom name="MUSIC/MAP_102/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="MUSIC/MAP_102/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="MUSIC/MAP_102/MAP.INI" size="189" crc="36f16f2c" md5="c2cf463201e504cf6944721ba452b224" sha1="817e546c9e59309c4c40cc7f943ee9c6678f1c47" date="1997-07-29 11:58:22"/>
+		<rom name="MUSIC/MAP_103/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:32"/>
+		<rom name="MUSIC/MAP_103/EVENT.MAP" size="160004" crc="9c5164b4" md5="f46d6cbb588fb2371b11ca8c73e049d9" sha1="3b129c26640cf327f79fc48de89b24d14094c505" date="1997-05-14 08:26:16"/>
+		<rom name="MUSIC/MAP_103/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="MUSIC/MAP_103/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="MUSIC/MAP_103/MAP.INI" size="189" crc="36f16f2c" md5="c2cf463201e504cf6944721ba452b224" sha1="817e546c9e59309c4c40cc7f943ee9c6678f1c47" date="1997-07-29 11:58:22"/>
+		<rom name="MUSIC/MAP_104/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:32"/>
+		<rom name="MUSIC/MAP_104/EVENT.MAP" size="80004" crc="b361410a" md5="a5bf15e248f5ab8457bba5492be0f87c" sha1="08127cfe4cf403a037720f13abbba5f44e2f38ca" date="1997-05-14 08:26:34"/>
+		<rom name="MUSIC/MAP_104/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="MUSIC/MAP_104/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="MUSIC/MAP_104/MAP.INI" size="189" crc="36f16f2c" md5="c2cf463201e504cf6944721ba452b224" sha1="817e546c9e59309c4c40cc7f943ee9c6678f1c47" date="1997-07-29 11:58:22"/>
+		<rom name="MUSIC/MAP_105/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:32"/>
+		<rom name="MUSIC/MAP_105/EVENT.MAP" size="80004" crc="05478a2c" md5="31b056d20d9cb8617b6c089e8ed429aa" sha1="b9c86d258fdb9ab5788f969bf460d67cf4262adc" date="1997-05-14 08:27:30"/>
+		<rom name="MUSIC/MAP_105/EVENT.MEV" size="3788" crc="7b4b1b23" md5="612a9fb2feba6fed170bca8b26435d8f" sha1="5893a3386ce55f936c5ea085f5910805003310c9" date="1996-10-15 09:24:24"/>
+		<rom name="MUSIC/MAP_105/EVENT.SEV" size="169" crc="5461f488" md5="998a4e02045ab6d0b4b6c67f1fbfae2a" sha1="6de51a39781f8cc7b7af2f31bf726cc79672481f" date="1996-10-15 09:24:24"/>
+		<rom name="MUSIC/MAP_105/MAP.INI" size="189" crc="36f16f2c" md5="c2cf463201e504cf6944721ba452b224" sha1="817e546c9e59309c4c40cc7f943ee9c6678f1c47" date="1997-07-29 11:58:22"/>
+		<rom name="MUSIC/MUS.MAP" size="30004" crc="cd80c642" md5="01f326f816aa9d53b51b14ea0dbcc08f" sha1="7bd76d1803ebb4316296f0a5a0bd3c6e6463912a" date="1997-04-18 07:46:16"/>
+		<rom name="MUSIC/MUS.PCX" size="63812" crc="ce840f30" md5="f2be8062f396a3ca50c174a45f3014a9" sha1="f8faa16e956e18e569fac366792d907001a5c9b3" date="1997-06-02 11:23:46"/>
+		<rom name="PCMAP/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:14"/>
+		<rom name="PCMAP/AL/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:30"/>
+		<rom name="PCMAP/AL/EVNAME00.WLD" size="7350" crc="2e889c2d" md5="4c044f5a55d656ec2be2f079430ddfc0" sha1="d86dcc36a4e1647174d1f3596efe2418406470ac" date="1997-07-11 06:53:10"/>
+		<rom name="PCMAP/AL/EVNAME01.WLD" size="4927" crc="be7259e2" md5="56dba16f70b9055954958c9879c945a3" sha1="61f7d5cbc22ec577f62fc6b53fbc7e959a00631a" date="1997-07-11 06:52:36"/>
+		<rom name="PCMAP/AL/EVNAME02.WLD" size="6110" crc="823f9da4" md5="17e4439170281f824c49d50cf43c9b72" sha1="5f7bcc1aabc8e263c985d7115a98e907d11610a2" date="1997-07-11 06:52:44"/>
+		<rom name="PCMAP/AL/EVNAME03.WLD" size="5923" crc="0363ecbc" md5="db0c4b5b815539bba422080a892839c9" sha1="8ae598c17c4e0d1ad550ff667ac4e9dfdd545afb" date="1997-07-11 06:52:50"/>
+		<rom name="PCMAP/AL/EVNAME04.WLD" size="8654" crc="679d56d3" md5="9ec0c276e0ece7f5bb07e0700fc9f45b" sha1="d2077979447712029d6c5c6b87b5a0512ec23511" date="1997-07-11 06:52:58"/>
+		<rom name="PCMAP/AL/EVNAME05.WLD" size="7517" crc="11ebbe71" md5="06254fc2059e6e9d56566c0fa2a6ce30" sha1="edf2dcb97612dba1de8657b6f2b44ada0ed7a966" date="1997-07-11 06:53:04"/>
+		<rom name="PCMAP/AL/EVNAME06.WLD" size="5052" crc="47e40d78" md5="b44067ef69cfd932dd3c17db1c4fe4b5" sha1="74498f48c9d35f3f962c011e093249dd49e2df98" date="1997-07-11 06:53:10"/>
+		<rom name="PCMAP/AL/SNDSMP.DAT" size="405743" crc="ddde9e1f" md5="b0c49d39454ee12232f2d9b4aa26776a" sha1="81c7f3f54679016247ca15722118f8fbdcbc2c40" date="1997-06-25 14:17:50"/>
+		<rom name="PCMAP/AL/SPECIAL.DAT" size="10370" crc="4ccdeda8" md5="bcfe5544a7fdd2be4316d03a6474f7cd" sha1="c21ef8562be18757b2131129bd00b355a6e5f65d" date="1997-07-11 06:54:40"/>
+		<rom name="PCMAP/ALLFIX.DAT" size="490498" crc="0e5780f6" md5="77fc2867ffb13f57edb4589c7a02e661" sha1="ffe2d9c6c8f0767a6b57e1f599554e70b8a7c587" date="1997-07-11 06:53:26"/>
+		<rom name="PCMAP/BIGRAY.DAT" size="94578" crc="4f5d4af3" md5="b3f3fe45f00cb046b1a6e292ca1e0bca" sha1="b9fb85fa2ee7971753777d6132019892bcccdbf3" date="1997-07-11 06:53:22"/>
+		<rom name="PCMAP/CAK01.LEV" size="705409" crc="dcff96a7" md5="0326c5b389e5141809d0babfa622a5ec" sha1="a462ac3c961f8b3678d800867c6b6855bb2f4a13" date="1997-08-06 14:45:02"/>
+		<rom name="PCMAP/CAK02.LEV" size="884486" crc="7fbc78dd" md5="c2abbcf6261623ee056a95c256dddc7d" sha1="45aeb9e9c51bd424a95738ae59f10b5eff06b56f" date="1997-08-06 14:52:20"/>
+		<rom name="PCMAP/CAK03.LEV" size="790639" crc="eacfbd97" md5="a476a40313733ab360500c8206143040" sha1="4e23550b20526e4e23de806d57f0dc7d22c37be3" date="1997-08-06 14:52:10"/>
+		<rom name="PCMAP/CAK04.LEV" size="716172" crc="02584a7b" md5="14f6246cff2fa82d6768760e75ff172a" sha1="da9d92e8d4799193a974347bccaccaee5a49dd28" date="1997-08-06 14:51:56"/>
+		<rom name="PCMAP/CAV01.LEV" size="664934" crc="6bf50c4d" md5="4ca1e0055072867876be4f0fe39ae764" sha1="edccc09e2515d295c10128447b2ec4087c5f677c" date="1997-08-06 14:51:20"/>
+		<rom name="PCMAP/CAV02.LEV" size="805199" crc="fe43823c" md5="cfbbb49d600b15a1c656bea1e23b244d" sha1="6b6778786386f034e9a800282d0c9c44fba70ce0" date="1997-08-06 14:51:02"/>
+		<rom name="PCMAP/CAV03.LEV" size="692746" crc="7a46d618" md5="ec6a0c8b6c5a72fa03cde266f57c22e0" sha1="1b54b6d795dd22f8d72cf71297d9018606d86d09" date="1997-08-06 14:50:42"/>
+		<rom name="PCMAP/CAV04.LEV" size="590099" crc="2c344444" md5="5d854245c9ab9177097b3a64cccd7e7e" sha1="3164f13d630c53c41db11143750a64496a3d0888" date="1997-08-06 14:50:10"/>
+		<rom name="PCMAP/COMMON.DAT" size="9439" crc="8edba80f" md5="986d4aac655439c3091c5d22ab05346f" sha1="703fbe0ae9dbf84f09a0a8a1be7cd1437d1a8d55" date="1997-07-11 06:54:52"/>
+		<rom name="PCMAP/FR/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:30"/>
+		<rom name="PCMAP/FR/EVNAME00.WLD" size="7217" crc="253bc525" md5="bb0891326ca91afeb573c854ec320322" sha1="6cbf864fd7e8a0ceb47ef4659c12ab2ebd900dac" date="1997-07-11 06:54:08"/>
+		<rom name="PCMAP/FR/EVNAME01.WLD" size="4505" crc="2b890d33" md5="10299c9c225e4f32a08025765e329740" sha1="6868fe9dd9d77bb3e4909b3fd0aa3d23d4ba26ff" date="1997-07-11 06:53:32"/>
+		<rom name="PCMAP/FR/EVNAME02.WLD" size="6022" crc="309528a4" md5="af9a83655c3783ed7b2dcf9f1593ea2b" sha1="e9cd7f58fb78eb1a80de8910a9fe3f293302d42c" date="1997-07-11 06:53:40"/>
+		<rom name="PCMAP/FR/EVNAME03.WLD" size="5631" crc="59981227" md5="62c2434ca4de6563c0d9c002e8bc59fd" sha1="5164f1dd3b0fb646fbe23ac57a21f7290c3e4e71" date="1997-07-11 06:53:48"/>
+		<rom name="PCMAP/FR/EVNAME04.WLD" size="7918" crc="d27bf87b" md5="ea4853b65da3ce5cc01734c0f2bdbc91" sha1="f98081a40a251ecc185a08708a00d3a3eaef0af9" date="1997-07-11 06:53:54"/>
+		<rom name="PCMAP/FR/EVNAME05.WLD" size="7226" crc="2f0a3a44" md5="3a5a2ce1d3dda166e7849a8b751a918d" sha1="f3787ad40aa52541fb9503c9eac998ab3d201b24" date="1997-07-11 06:54:00"/>
+		<rom name="PCMAP/FR/EVNAME06.WLD" size="4854" crc="0a223c0a" md5="94fa0af5ecf86aef2d331cf904a38800" sha1="3fe117c2176d7acf7cd12b43393b335578a7e39a" date="1997-07-11 06:54:08"/>
+		<rom name="PCMAP/FR/SNDSMP.DAT" size="386527" crc="2cfbb2c3" md5="83d77fc00da2a3413b4f711eba9d4861" sha1="61369ee620f6af9d4a0a8c9d9cc3144aa1dee4b3" date="1997-06-25 12:48:02"/>
+		<rom name="PCMAP/FR/SPECIAL.DAT" size="17904" crc="abbc296f" md5="d501de8534ad94a03d45beac84b1f03a" sha1="7b4773f4fe0e6d4292c4e6bbf0a2afa5753f474c" date="1997-07-11 06:54:54"/>
+		<rom name="PCMAP/IMA01.LEV" size="711199" crc="5185fe06" md5="0c1a5a4b4c3e5f0229fdefd1b1ebe4e7" sha1="c9ca220271558e3c0bb59c0e7a1416d6e08095e4" date="1997-08-06 14:49:48"/>
+		<rom name="PCMAP/IMA02.LEV" size="602509" crc="4d7c2732" md5="d451dbb5bd9e8ca3bb698846d06a408d" sha1="d4209b7f0de0bf108ae3c31f27d7b2d4cdff5351" date="1997-08-06 14:49:20"/>
+		<rom name="PCMAP/IMA03.LEV" size="639101" crc="2c909743" md5="622b59f374e9128db5fcf36b030d1c7f" sha1="d8d37c27128baf16556c3fc017616a9e660863e9" date="1997-08-06 14:49:06"/>
+		<rom name="PCMAP/IMA04.LEV" size="568678" crc="a0ab2b9a" md5="763a17b5c0a5c7166527b9d2c9c18866" sha1="ba16c979de362c09185050217a7d1e04cf459a56" date="1997-08-06 14:48:44"/>
+		<rom name="PCMAP/JUN01.LEV" size="927567" crc="10596530" md5="a4e4454531bb45e587b6470674d6c0cc" sha1="9fb9478eaa5b0571eefcaff112d6871e5707dc65" date="1997-08-06 14:43:38"/>
+		<rom name="PCMAP/JUN02.LEV" size="804150" crc="b9eb0f81" md5="8b08d611f8aa3c8e2ae8ed7d30c06e7b" sha1="59381bed613cb1e1ac49421d8e1a5195fbd80d71" date="1997-08-06 14:48:12"/>
+		<rom name="PCMAP/JUN03.LEV" size="898337" crc="5aed05ac" md5="90ee324a9b54a1a2318e9ad558f7c50e" sha1="15b0216fed2fdaae95f1613c6812db65a96bf6dd" date="1997-08-06 14:47:50"/>
+		<rom name="PCMAP/JUN04.LEV" size="652619" crc="6f363b8e" md5="7a980471459d6d624bd6f916ea2bddc2" sha1="6672f19c07691486b1dac71dc880d89008c97e3d" date="1997-08-06 14:47:32"/>
+		<rom name="PCMAP/MON01.LEV" size="781719" crc="b189af66" md5="26c4b661d1e79fcf296c7c979c56b8d6" sha1="46c99ad38f5ba8a4c5ef3d12492b5cfdea05ff25" date="1997-08-06 14:47:12"/>
+		<rom name="PCMAP/MON02.LEV" size="606750" crc="8263738b" md5="f154659dc9e3ee50abf420a0f9f11b4a" sha1="a858e4b465264b81d8694ffce31ff47e67bc9059" date="1997-08-06 14:46:36"/>
+		<rom name="PCMAP/MON03.LEV" size="733074" crc="f45fd0e3" md5="040ddf9022305ad41038ca1084c7c0e0" sha1="f82425b2b669f45eb17f0672a8035c10eb55650d" date="1997-08-06 14:46:14"/>
+		<rom name="PCMAP/MON04.LEV" size="945074" crc="5368fead" md5="64e0177e252af9d12993782fe22c7b31" sha1="e97d3b5b190beef3e2055c0287ec38887f70b91f" date="1997-08-06 14:45:36"/>
+		<rom name="PCMAP/MUS01.LEV" size="906259" crc="c178125f" md5="4175cee2e79a911fec0e815a1d886597" sha1="9aa3d1c2e097d837860708e6da5ed5fd8ac794c4" date="1997-08-06 14:52:34"/>
+		<rom name="PCMAP/MUS02.LEV" size="678167" crc="fbb32a64" md5="a32603c24c34d56262d6b5b90ca2688c" sha1="62a8e9c8813ea4627a8930ec6e26ae3317a44a65" date="1997-08-06 14:44:46"/>
+		<rom name="PCMAP/MUS03.LEV" size="814226" crc="5328368a" md5="7937fab7527d9ac6b317ead2bf067516" sha1="6144265977d09d4cd0e0dcc4d0cc6f5ac406da9c" date="1997-08-06 14:44:20"/>
+		<rom name="PCMAP/MUS04.LEV" size="717738" crc="16f696c8" md5="974c91a720adab8220c53bc12246f244" sha1="e59c0e9e1a17681089d594b32801eeb11a6b88ab" date="1997-08-06 14:44:02"/>
+		<rom name="PCMAP/RAY01.WLD" size="721867" crc="60d5e8e9" md5="cf4cd988c26e31c68140e901947dda98" sha1="ca29c422d71ed5b4a6c9a8d36dcbfea67b99ef2f" date="1997-07-11 06:53:32"/>
+		<rom name="PCMAP/RAY02.WLD" size="602872" crc="3af1395a" md5="28bd79b17eed4747ab4b9344d8b26747" sha1="5f27aaaa970207be19e7e51d7632c36c7b3d93d2" date="1997-07-11 16:46:20"/>
+		<rom name="PCMAP/RAY03.WLD" size="594736" crc="c3e8788a" md5="598d3b5eb539fd2dc4663c0740aa6fea" sha1="30d5da4c3c48500950d2f59389385c25efbb9b9d" date="1997-07-11 16:46:46"/>
+		<rom name="PCMAP/RAY04.WLD" size="450398" crc="325ba11e" md5="15d3c140db3fe4c3654aeab0cf8c656c" sha1="333ff67f45163073be473a48531ffc4751d461e1" date="1997-07-11 16:47:10"/>
+		<rom name="PCMAP/RAY05.WLD" size="483623" crc="8cfa665b" md5="f2ed1659705a74bb275a396b949422ee" sha1="cf06e5d5544b07a248525cf342206c1b5345ffcb" date="1997-07-11 16:47:28"/>
+		<rom name="PCMAP/RAY06.WLD" size="604711" crc="bd14df04" md5="454970b8592e4e75285b9b8a87372761" sha1="13465619eea7638ad053db453d6db63da38f040c" date="1997-07-11 16:47:46"/>
+		<rom name="PCMAP/SNDD8B.DAT" size="1383096" crc="dea5f31e" md5="5b1e64614c2013b4706dd927a2762d75" sha1="68a2cfb385bf8c40f644bc8cbf93c28ffab6f483" date="1997-04-28 12:23:18"/>
+		<rom name="PCMAP/SNDH8B.DAT" size="14500" crc="59ef7c59" md5="b52e07c7ae3d67f6eb181ef69ac8bde2" sha1="16bbcca2cec63f3b175e1724120a9bf3cc6f47ec" date="1997-04-28 12:23:28"/>
+		<rom name="PCMAP/USA/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:30"/>
+		<rom name="PCMAP/USA/EVNAME00.WLD" size="6556" crc="7afd831b" md5="b344e3f6dc4098f554c515cbc6786785" sha1="097b23e0d17fad8b55fe896982e0066476da0423" date="1997-07-11 06:52:12"/>
+		<rom name="PCMAP/USA/EVNAME01.WLD" size="4163" crc="36d670e4" md5="c1b305f9c025552ef85fa096e543f840" sha1="c3a24382eedbd3cc7216ebc7069da0f1364b7ff8" date="1997-07-11 06:51:36"/>
+		<rom name="PCMAP/USA/EVNAME02.WLD" size="5321" crc="db4e0201" md5="efc175c0496a050cc8bc693bd6f4bbae" sha1="4dc5cabe7b4c58ca49d5d772128573211299f596" date="1997-07-11 06:51:44"/>
+		<rom name="PCMAP/USA/EVNAME03.WLD" size="4912" crc="7ecd046e" md5="01d96df2a22b3fb9cae7ceb0abffadb5" sha1="449d496166b983c6bcb9f702981f551ea9d15133" date="1997-07-11 06:51:52"/>
+		<rom name="PCMAP/USA/EVNAME04.WLD" size="7409" crc="e3a1f5db" md5="838935a3b6a18d1667e5c089b168686c" sha1="c4b16c4733830d001a497f979e64a9385751cc6f" date="1997-07-11 06:51:58"/>
+		<rom name="PCMAP/USA/EVNAME05.WLD" size="6319" crc="ceaf53c7" md5="60955168398021eb8814b87c6ad41130" sha1="379049aec4e6f2de362924f683e44f64b0339363" date="1997-07-11 06:52:06"/>
+		<rom name="PCMAP/USA/EVNAME06.WLD" size="4415" crc="4f725d02" md5="2310ad9deb7aef96c205cc21f8800cad" sha1="6a8265fb2e75384ca11ba051ef30d2c5e9787dd7" date="1997-07-11 06:52:12"/>
+		<rom name="PCMAP/USA/SNDSMP.DAT" size="394573" crc="409d3f4f" md5="78813e8fbcf8e0baea84dd7a803c5e08" sha1="ff8f3761e89b32d45dd94a50a767335a90664d42" date="1997-06-25 14:18:06"/>
+		<rom name="PCMAP/USA/SPECIAL.DAT" size="9852" crc="a6a87561" md5="6cc3de22aa7c467ae53baeba1a42f12d" sha1="9e43b7464033b1c8e89eecf54e76e3bb61bf24c1" date="1997-07-11 06:54:28"/>
+		<rom name="PCMAP/VIGNET.DAT" size="1778719" crc="42aa3a2c" md5="045f258a1af22224b7bce81c981e74df" sha1="91b23a3ae5def82279ab3ea2da27dd70bdb4e67d" date="1997-07-11 06:50:20"/>
+		<rom name="RAYKIT.EXE" size="440664" crc="6137f688" md5="4c2f316141ab68d26702644271223e36" sha1="16072c8c7856359689c965f39a69b4995463ee63" date="1997-08-06 12:51:36"/>
+		<rom name="RAYKIT.ICO" size="766" crc="f4356ca4" md5="3bb9dd57d729f3505f4e589b0f19475b" sha1="68160e2f65f624aedb235e9a5a26d51482f53865" date="1995-08-21 12:39:24"/>
+		<rom name="Rayman Designer (Europe) (En,Fr,De) (Track 1).bin" size="40955376" crc="df2d9ba7" md5="015c979ff5b851af969d194796780b44" sha1="3d597947b527557f3b1aa46eb25cd3e5e1395912"/>
+		<rom name="Rayman Designer (Europe) (En,Fr,De) (Track 2).ogg" size="4436853" crc="843a385b" md5="81a18e39c19d0a77e255d771aaae1486" sha1="49aa3f7ed47ba1559b850c03c879fc9569893b70">
+			<source frames="11247" pregap="150" duration="02:29:72" size="26452944" crc="c2775b85" md5="d796673b264d6ca40a3ac52e67ca09e9" sha1="ca170b5273c5d20cfd4659ca516d2af622d49abc" in_zeros="392224" out_zeros="31881" trimmed_crc="d7df1088" quality="8"/>
+		</rom>
+		<rom name="Rayman Designer (Europe) (En,Fr,De) (Track 3).ogg" size="4393092" crc="f4c77c27" md5="9006bbb3591707b0c16645908910ada1" sha1="f355df92e27f19d4614de087bf82a5c4e0a29c18">
+			<source frames="10881" pregap="0" duration="02:25:06" size="25592112" crc="17e11db5" md5="f4d8cd24fba40b2d57808aea168f6fed" sha1="de11c035052b096b90ba16ba17267a26ae1f4403" in_zeros="83456" out_zeros="1021" trimmed_crc="efea3ab5" quality="8"/>
+		</rom>
+		<rom name="Rayman Designer (Europe) (En,Fr,De) (Track 4).ogg" size="4281309" crc="ce3a40bb" md5="077c328d48d25e1e2af2b1b737a5659f" sha1="ce80b16322ed90fbf14afe3a871656135bdd4225">
+			<source frames="13471" pregap="0" duration="02:59:46" size="31683792" crc="f429591c" md5="8542062c3d55a2d193b721db4b7206ef" sha1="7b5ff8b6702ea3ffcfb27db77fa4b5bd1327aa14" in_zeros="14848" out_zeros="35477" trimmed_crc="e03f87ca" quality="8"/>
+		</rom>
+		<rom name="Rayman Designer (Europe) (En,Fr,De) (Track 5).ogg" size="4615087" crc="748b2b9c" md5="baf8dc4ff1ceaee32ab4564c2445f9ab" sha1="53be69a37dad04e9fce2321d5d7e30154bf1afe9">
+			<source frames="11258" pregap="0" duration="02:30:08" size="26478816" crc="e7837703" md5="008bd49115064f7aefbb68ac4526a0ce" sha1="1f1507de379074e5b95d6ad0de0b307ed92ee258" in_zeros="31744" out_zeros="82888" trimmed_crc="5f351ef3" quality="8"/>
+		</rom>
+		<rom name="Rayman Designer (Europe) (En,Fr,De) (Track 6).ogg" size="4633099" crc="41c57ab0" md5="fe1080a003fa41ac390f115a4ffb31a1" sha1="f6f2cb10dc2dd1b3aa0c81a14f5a858062fd4fa8">
+			<source frames="11047" pregap="0" duration="02:27:22" size="25982544" crc="e433cb22" md5="8c9f252ab02efb2d73b76a03243ab273" sha1="5309626d7290a395d97db6aa6f173ba3e2f43b5b" in_zeros="25600" out_zeros="24393" trimmed_crc="90cc6c84" quality="8"/>
+		</rom>
+		<rom name="Rayman Designer (Europe) (En,Fr,De) (Track 7).ogg" size="4624165" crc="e0c0f57f" md5="6c94da84d5197afb7f4be7d1e5296573" sha1="70bd29c284e7c5c126d9925921ffb79fb6d8fb96">
+			<source frames="11132" pregap="0" duration="02:28:32" size="26182464" crc="444b6517" md5="2ceecf9eeb64e6aeca762d9028916378" sha1="3648d341d4a000e02ca40e239408df51140967d4" in_zeros="39424" out_zeros="2265" trimmed_crc="3cac1be8" quality="8"/>
+		</rom>
+		<rom name="Rayman Designer (Europe) (En,Fr,De) (Track 8).ogg" size="8929542" crc="7088d325" md5="b57cb3193ffffe3d53fec41064b2b37b" sha1="34aa933fbe2fb1fd61c7cf14f1b531d1376048a8">
+			<source frames="21091" pregap="0" duration="04:41:16" size="49606032" crc="0a892914" md5="cccb083473c0e48c81dd4809dfd1e95a" sha1="7a68fcbebea6ce7f300488a7fde1bd082486282f" in_zeros="20992" out_zeros="941" trimmed_crc="5937e14c" quality="8"/>
+		</rom>
+		<rom name="Rayman Designer (Europe) (En,Fr,De) (Track 9).ogg" size="2800579" crc="e55a4a31" md5="e93d3070432462cdb2e8ee38c8bb84c6" sha1="ec080ba78e3d2b2f31647e3670878a41166bbece">
+			<source frames="6058" pregap="0" duration="01:20:58" size="14248416" crc="db931dc9" md5="8c9a737e91358f21ce408376ec300dc7" sha1="05a417e4c4f1588c2915513f130c1cef754da78f" in_zeros="2" out_zeros="327" trimmed_crc="5d8e9523" quality="8"/>
+		</rom>
+		<rom name="Rayman Designer (Europe) (En,Fr,De) (Track 10).ogg" size="1172334" crc="efe0d8f3" md5="ac949c45809c8f1934706224fd0e7629" sha1="4229941239e0693da2d074117835694037439966">
+			<source frames="3101" pregap="0" duration="00:41:26" size="7293552" crc="3585217a" md5="62393aa3dbd7f203d860d01410dbd87a" sha1="f1882328777090f2150290f62437892f5fdb64ed" in_zeros="2" out_zeros="575" trimmed_crc="499e2687" quality="8"/>
+		</rom>
+		<rom name="Rayman Designer (Europe) (En,Fr,De) (Track 11).ogg" size="6282444" crc="eb0e29b9" md5="2d7550cad17b05eda4b98bc08273c866" sha1="ad35c699c4d4364becff706b0d1f9f764c892689">
+			<source frames="16126" pregap="0" duration="03:35:01" size="37928352" crc="523a8fbe" md5="01b3af40629f89d1d9ba2495f235b7b4" sha1="9d4d7fbdb1c8938c12250df900f5bbcde6757222" in_zeros="25856" out_zeros="57189" trimmed_crc="9e086aa2" quality="8"/>
+		</rom>
+		<rom name="Rayman Designer (Europe) (En,Fr,De) (Track 12).ogg" size="248129" crc="51dcfbcd" md5="9b07942a641578bf6407cace793df8e3" sha1="215e462738d9133f9e84b2418072bd8031fafc4f">
+			<source frames="656" pregap="0" duration="00:08:56" size="1542912" crc="26a8e258" md5="a6d9dfef2a0c073a43b65aeebf6abbb1" sha1="d1c472df5699bd9ede55e72a93bb0badb89b9fcb" in_zeros="866" out_zeros="1764" trimmed_crc="0d64c9df" quality="8"/>
+		</rom>
+		<rom name="Rayman Designer (Europe) (En,Fr,De) (Track 13).ogg" size="7630655" crc="fd04ce01" md5="22a23174c09eac8bb6a75585f03ccce4" sha1="acb8c4bfbe97c8c447ed2fc3dd286c732248270e">
+			<source frames="19295" pregap="0" duration="04:17:20" size="45381840" crc="7e90c2cd" md5="5326519b6268af6a084b5b23c4b19c2e" sha1="78f40cc4cf24adb7278c8057a9b0916672567f86" in_zeros="22528" out_zeros="1249" trimmed_crc="afb842f9" quality="8"/>
+		</rom>
+		<rom name="Rayman Designer (Europe) (En,Fr,De) (Track 14).ogg" size="8740082" crc="6b34b0da" md5="271b568109f217c690d263679a659cbe" sha1="64f9e4afbb6b03500c09157103da77c7ac8f5a0d">
+			<source frames="21946" pregap="0" duration="04:52:46" size="51616992" crc="042045a3" md5="6caccc4b7e52de60d450db4e93e856ff" sha1="80c7e5c110314493f7e260c77af10b069b82f0eb" in_zeros="33792" out_zeros="20221" trimmed_crc="3c26e22a" quality="8"/>
+		</rom>
+		<rom name="Rayman Designer (Europe) (En,Fr,De) (Track 15).ogg" size="2232938" crc="f2715d18" md5="0aedc412ba9af3826f0dd64fb513ba8e" sha1="617a1fa9f95d8890303eb55cdf4b1a5f3dff8ac4">
+			<source frames="5204" pregap="0" duration="01:09:29" size="12239808" crc="a099560d" md5="8d70dff346bc8a1c6a729115c0049016" sha1="7b49ab268facc3360bd8f7ad3fce74a00b1f6709" in_zeros="2" out_zeros="79" trimmed_crc="824dbfc3" quality="8"/>
+		</rom>
+		<rom name="Rayman Designer (Europe) (En,Fr,De) (Track 16).ogg" size="5849214" crc="6ca0fca6" md5="b7461aa0b1e37ac848d797f20ba8739d" sha1="80d1e0fef80a83c9749941a4a96cceb141743e32">
+			<source frames="15422" pregap="0" duration="03:25:47" size="36272544" crc="95a91058" md5="adb9b58a59c09055a23077a98c964c9d" sha1="ae332645a0e6a82324a2103870c444102e96ee38" in_zeros="15360" out_zeros="1825" trimmed_crc="5b9acc41" quality="8"/>
+		</rom>
+		<rom name="Rayman Designer (Europe) (En,Fr,De) (Track 17).ogg" size="9157257" crc="55cd87fa" md5="5186d94083c71a14affe9dde306fc077" sha1="9fd44510a298fc3b92102410b366861e5703eb82">
+			<source frames="23583" pregap="0" duration="05:14:33" size="55467216" crc="c4734209" md5="292491aed8a5740540c3a4d9e807369c" sha1="d39ef493a0943f3a268c38cdcfe2b7613045ff9b" in_zeros="27136" out_zeros="43201" trimmed_crc="e2a635ed" quality="8"/>
+		</rom>
+		<rom name="Rayman Designer (Europe) (En,Fr,De) (Track 18).ogg" size="2439472" crc="aa0d38e5" md5="cfd4e6ebb65581040efafde8cc048917" sha1="68088daa5a5ed3bd1d6e5e4729a64f8cedfa007e">
+			<source frames="5012" pregap="0" duration="01:06:62" size="11788224" crc="381c4590" md5="6c2fd3c230aee9de8cc0da4ffd186514" sha1="dd804e1ad7e99cf47350ec045b1b72722a92c04f" in_zeros="4" out_zeros="82" trimmed_crc="5d0b77fe" quality="8"/>
+		</rom>
+		<rom name="Rayman Designer (Europe) (En,Fr,De) (Track 19).ogg" size="2057573" crc="465ab20b" md5="55a91d0f155d7b98233e7b5baca9cd78" sha1="6d334d67e0d1bc9db1e38c593d481cb66afbe2e7">
+			<source frames="4346" pregap="0" duration="00:57:71" size="10221792" crc="f2d54b77" md5="4a3cbd60b966766b67b9957c1be312cb" sha1="ff31a04ffc5c56539a7230f973cfc13c2f354bcb" in_zeros="2" out_zeros="1067" trimmed_crc="e8716af5" quality="8"/>
+		</rom>
+		<rom name="Rayman Designer (Europe) (En,Fr,De) (Track 20).ogg" size="1082163" crc="00892533" md5="139a823cb701d9893a28fa5e5dacd3f1" sha1="27825d5a7bc8621fe689262f4302e8f1a5be7580">
+			<source frames="2497" pregap="0" duration="00:33:22" size="5872944" crc="9fb8d401" md5="c34f9517eb76f625201e1ac84dc1cf22" sha1="1b682c644d40329b2df1606e2dd243e65370867d" in_zeros="2" out_zeros="2251" trimmed_crc="57bdee48" quality="8"/>
+		</rom>
+		<rom name="Rayman Designer (Europe) (En,Fr,De).cue" size="2079" crc="5502042e" md5="0ab7d52d0d48f1e1c7684d5297c530c0" sha1="4cadac0ee19c65b48bf8cb4a12eb3d28d752d2fa"/>
+		<rom name="RAYMAN.BAT" size="29" crc="a047431a" md5="b87a3ffe490353dc6ea4757c7dcb9d7e" sha1="5291c9796f98f92ea8c8de7be214410dfc6adfee" date="1997-06-20 06:44:48"/>
+		<rom name="RAYPOINT.ANI" size="13656" crc="325a52c5" md5="1799a495aa7986f71598dbca6563188f" sha1="b4fe4ec0d36a64c6af4b7c2569197dc82a4eb5b0" date="1996-11-18 09:28:56"/>
+		<rom name="RAYRUN.ANI" size="67712" crc="f6db3484" md5="ceeeda1f4cdd02a84b4d5227b4b4d2ac" sha1="2b93cefb6e5e0e5458ce3cd0fce2d2987c75a1c0" date="1996-11-18 09:28:46"/>
+		<rom name="RAYRUN.EXE" size="228864" crc="ab12b82d" md5="c3396d2990127431776c25ee902b70a2" sha1="8ed548510bd19650184a449f19f0e62f8a6a06dd" date="1997-07-29 10:08:56"/>
+		<rom name="RAYWALK.ANI" size="69966" crc="451e16d6" md5="2eb370749a2204e39215aceb3e237d36" sha1="7c3793ddcbdace20a5c025591a19f0bc982f5faf" date="1996-11-18 09:28:32"/>
+		<rom name="SETSOUND.BAT" size="88" crc="9faf0c93" md5="d60c8e0e440fbed14dd4ca8e874d831c" sha1="7546a32e769e19f28dd00f4f9ec1d7bc121e7aa7" date="1997-05-23 07:21:28"/>
+		<rom name="SETSOUND.EXE" size="99680" crc="e49a455a" md5="47d05eb6670ed6dde0e173268889fd8b" sha1="55cfe5155686b9ec60544eedaabf2928f3e7443f" date="1997-07-11 07:05:38"/>
+		<rom name="USA/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-31 11:28:14"/>
+		<rom name="USA/MAPPER.EXE" size="449024" crc="dff3f205" md5="d4b1af48638e70f77f6e377b4923b842" sha1="80e0bb687ca826ecbc4f4826679c5721e4994879" date="1997-07-11 07:25:16"/>
+		<rom name="USA/RAYMAN.BAT" size="29" crc="a047431a" md5="b87a3ffe490353dc6ea4757c7dcb9d7e" sha1="5291c9796f98f92ea8c8de7be214410dfc6adfee" date="1997-06-20 06:44:48"/>
+		<rom name="USA/SETSOUND.BAT" size="88" crc="9faf0c93" md5="d60c8e0e440fbed14dd4ca8e874d831c" sha1="7546a32e769e19f28dd00f4f9ec1d7bc121e7aa7" date="1997-05-23 07:21:28"/>
+	</game>
 	<game name="Return to Zork (1993) (Infocom).dosz">
 		<description>Return to Zork</description>
 		<comment>Installed from v1.1 USA Bundle Version OEM CD-ROM with patch v1.2 applied</comment>
