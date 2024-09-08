@@ -8603,8 +8603,8 @@
 	</game>
 	<game name="Tomb Raider - Unfinished Business (1998) (Core Design).dosz">
 		<description>Tomb Raider - Unfinished Business</description>
-		<comment>Installed from Tomb Raider Gold CD</comment>
-		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
+		<comment>Installed from Tomb Raider Gold CD. Needs 3dfx TOMBUB.EXE (renamed to TOMBUB3D.EXE) extracted from the CD</comment>
+		<comment_dosc>Sound Blaster 16 config and auto start. 3dfx option</comment_dosc>
 		<year>1998</year>
 		<developer>Core Design</developer>
 		<link type="media">http://redump.org/disc/25488/</link>
@@ -8624,11 +8624,12 @@
 		</rom>
 		<rom name="Tomb Raider Gold (USA) (Disc 2).cue" size="404" crc="580ad262" md5="6394f4b879af8b4bd5ac690f710d973a" sha1="43d054c1cf5e8892b666bb01d2956857fcdc06c6"/>
 		<rom name="TOMBUB.EXE" size="766067" crc="363a6531" md5="ffae2f04e5ede27a4a09e2bcec176f82" sha1="a6acbd43bf475dc07ea3f9e0ea53e917fa1eb719"/>
+		<rom name="TOMBUB3D.EXE" size="868075" crc="34638910" md5="5bc8cb71fa1561e6912ca0a1265c7537" sha1="7eaa8651491fd92a876443cb36116b753a8318ef" date="1998-02-16 12:03:36"/>
 	</game>
 	<game name="Tomb Raider (1996) (Core Design).dosz">
 		<description>Tomb Raider</description>
-		<comment>Installed from Tomb Raider Gold CD</comment>
-		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
+		<comment>Installed from Tomb Raider Gold CD. Needs 3dfx TOMB.EXE (renamed to TOMB3D.EXE) extracted from the CD</comment>
+		<comment_dosc>Sound Blaster 16 config and auto start. 3dfx option</comment_dosc>
 		<year>1996</year>
 		<developer>Core Design</developer>
 		<link type="media">http://redump.org/disc/66618/</link>
@@ -8668,6 +8669,7 @@
 		<rom name="TOMB.EXE" size="768563" crc="1772dba0" md5="15699b22176f77154c102b4aad8759a7" sha1="cb59304ca4544bb116b89e5edb887bd54e358bbd"/>
 		<rom name="TOMB.PIF" size="967" crc="d7908a39" md5="69fb9fbc53b0421c97855aa8d0e48f74" sha1="a2548d6aff3f968dbc217dbb94f8fedb92785134"/>
 		<rom name="TOMB.SP" size="11888" crc="f3b1c414" md5="ee1ef1c7eb343df39054f98fb2efe177" sha1="a7d5d004eef9122841f453a768f50472f8f9ebf3"/>
+		<rom name="TOMB3D.EXE" size="1140735" crc="0288f887" md5="83d03a2b4b4d3f1e95aa04735daf3cf7" sha1="a439867d43b8d27c6c0cc97efcbecb7e83dc3cf9" date="1997-02-11 13:21:04"/>
 	</game>
 	<game name="Transport Tycoon Deluxe (1995) (Chris Sawyer).dosz">
 		<description>Transport Tycoon Deluxe</description>
