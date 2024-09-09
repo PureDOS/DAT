@@ -10,6 +10,77 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
 	</header>
+	<game name="Albion (1995) (Blue Byte Software) (GOG).dosz">
+		<description>Albion</description>
+		<comment_dosc>Auto start and config files</comment_dosc>
+		<link type="store">https://www.gog.com/en/game/albion</link>
+		<year>1995</year>
+		<developer>Blue Byte Software</developer>
+		<variant>GOG</variant>
+		<rom name="ALBILOW.BAT" size="41" crc="38cb292d" md5="a24d827b5b53309ef891c0c4e04045ba" sha1="719ba67f59753ff3b51bbc50dd5cdaf87ac578d5"/>
+		<rom name="ALBION.EXE" size="19342" crc="81dadb5e" md5="298f3f7673f866a371b635bbab7c8d5a" sha1="e8327eb876e1db92be3e3599362e45d9c20ca756"/>
+		<rom name="ALBION.VMC" size="95" crc="3b7a0f78" md5="017721b43ccf5bab0376ea117a9fe69d" sha1="eb78814383e1eec0b84c4a81a916cf855c49ae1c"/>
+		<rom name="DOS4GW.EXE" size="265420" crc="cb214447" md5="ee4033581845b3b8d28c4b7287eb4fc2" sha1="a897c7eb79145a308c4e60b43413bb2daa360506"/>
+		<rom name="DRIVERS/ADLIB.MDI" size="14986" crc="6871f64c" md5="5cb112d060d70a43ee7c89b7ffe4f029" sha1="1f19c757259cac7b5f04281ac8830f8bece3c8d2"/>
+		<rom name="DRIVERS/ADLIBG.MDI" size="16377" crc="1d2a278b" md5="79d8137d4e6b78735b78cd8a4bd14827" sha1="14f61539bf8438f68add723fef2ef76821fa9fd8"/>
+		<rom name="DRIVERS/ADRV688.DIG" size="11278" crc="96dfb75d" md5="feabc78729e3a458ae2f6ab40146f0d9" sha1="255ecb5d649895d65bca49bd6afcbdf875e34bf2"/>
+		<rom name="DRIVERS/AILDRVR.LST" size="17948" crc="a9fdfa78" md5="074cd0f0f6e52e5deeb250e3cf70d544" sha1="ab4b2fa02954eac48fbba6c8c6818fe6e5b067cf"/>
+		<rom name="DRIVERS/ALBISND.AD" size="3622" crc="0ab378df" md5="3cce7683e5f2b8e0cca251613120eab9" sha1="f7e71a11957899980da5bb929de05c0b0ec124aa"/>
+		<rom name="DRIVERS/ALBISND.OPL" size="3622" crc="0ab378df" md5="3cce7683e5f2b8e0cca251613120eab9" sha1="f7e71a11957899980da5bb929de05c0b0ec124aa"/>
+		<rom name="DRIVERS/DOS4GW.EXE" size="265396" crc="5cc34b0f" md5="006211ca60fa3d4b38a9a8da2ade1056" sha1="c489f83dc15a9ffc3c502707da40e581ec79bfe6"/>
+		<rom name="DRIVERS/ESFM.MDI" size="15896" crc="399a4039" md5="6d0ab12338dd4acf62cf07dc1ec78239" sha1="cb3f3af40fb3069917ea2a1b7a57860f5d14f295"/>
+		<rom name="DRIVERS/JAMMER.DIG" size="3219" crc="230129e0" md5="4922c729c5e7b347089a2be44f296859" sha1="103e0bf92c6fd1c9fc925fd57bdc22e56170b395"/>
+		<rom name="DRIVERS/MPU401.MDI" size="1927" crc="b46f56c4" md5="0e641bcd4e0cc4d2e7d61df97384ebb5" sha1="3818842ce3ee2e5b3a536fdfba7b0680499323e3"/>
+		<rom name="DRIVERS/MT32MPU.MDI" size="6980" crc="bdaf0222" md5="609666cbd6fe795d576a9b6aff5ac7d0" sha1="08a6bc68a710c57f48dc33cacaa83151767a0dec"/>
+		<rom name="DRIVERS/NULL.MDI" size="1609" crc="93d88470" md5="8416b75a9db53a3a25f254ed45da4c57" sha1="be1424015a0c59de59dfc21226f3f2bfafbdb4ff"/>
+		<rom name="DRIVERS/OPL3.MDI" size="16387" crc="74aad2f1" md5="84ce740acea5af9ef8d118174bff88c8" sha1="310b8b21f088ec0180c02c9fbe1edd744d76c9b2"/>
+		<rom name="DRIVERS/PAS.MDI" size="15425" crc="01d01110" md5="bcc2a72a36663f40c019d0af2c95df13" sha1="a94fcb63700f1cbf46698d074526b5db48754b90"/>
+		<rom name="DRIVERS/PASPLUS.MDI" size="16458" crc="c5a2ded9" md5="f5515c19a269ca2b1af13e9b3e3c3d3a" sha1="a9c4967e8ca11c529a49d8a54f8730b223c0289f"/>
+		<rom name="DRIVERS/PCSPKR.MDI" size="4705" crc="9f6b860c" md5="29d094687340cb9536852f145e35114e" sha1="30a83056b006f4ed27aa9fa6e529fa823159bf1c"/>
+		<rom name="DRIVERS/PROAUDIO.DIG" size="2127" crc="4b071066" md5="a054071be574b2bcf47a0386f1a98ae6" sha1="8debfb262849ebce1da3d45387d1595712c2667b"/>
+		<rom name="DRIVERS/RAP10.DIG" size="2849" crc="47373ef0" md5="bb846bb23ee9065a09373afdb73cf054" sha1="6081bc6e447afeaad48a8361c92e7ce280f6ea7e"/>
+		<rom name="DRIVERS/SB16.DIG" size="2836" crc="6ddaa5d2" md5="b24e361b7634b9b3eafcd2cbb592ba9b" sha1="f0734dae77c034f5cfcd7b353cd75adfb57871af"/>
+		<rom name="DRIVERS/SBAWE32.MDI" size="32694" crc="dd43a7b8" md5="a66e04b5c067b95932857aff75f48f5d" sha1="a608005dd369a07f16e6acdadfd0fcdf95cc02ec"/>
+		<rom name="DRIVERS/SBLASTER.DIG" size="3125" crc="d1b1a7d7" md5="b456d6385b74b700f09aec22ba14ca19" sha1="5eec3b5791ad5855c7a4440909db651b6aca3b2f"/>
+		<rom name="DRIVERS/SBLASTER.MDI" size="15118" crc="670d5af4" md5="20fc92cf9e0d0d8e2447cd30252faee4" sha1="8e44d8bf0291e453d45477c6dd36fbd5ca40ac95"/>
+		<rom name="DRIVERS/SBPRO.DIG" size="2763" crc="1061490f" md5="b0fe50da778c24cc4066e960a3d1a7c3" sha1="8bc27ebd0ec30dabfd354b948801946b7e8f33d8"/>
+		<rom name="DRIVERS/SBPRO1.MDI" size="15471" crc="25370f67" md5="998eced7549230f6d621766f0cce4c39" sha1="92775d93ad5ee563ae8bf2b6f51ba8d444039e52"/>
+		<rom name="DRIVERS/SBPRO2.MDI" size="16541" crc="0ab0493a" md5="8879265bf3b414346f66c326389e32ae" sha1="4a9d598979e14f4f8c0e76fe0246b305fb848955"/>
+		<rom name="DRIVERS/SETSOUND.EXE" size="168737" crc="7a1fa975" md5="9912211c09ce1cf2e85f6da7bf4cd4ea" sha1="4bb75d2024abed1b3aab2a999a6744726564f9cf"/>
+		<rom name="DRIVERS/SNDSCAPE.DIG" size="4171" crc="708a96a2" md5="9d7a052a680f45d244e0ee4735b7b55f" sha1="f9902b74d545813315194f5a1791c4ea0a9a1e0d"/>
+		<rom name="DRIVERS/SNDSCAPE.MDI" size="2971" crc="ad1df3c2" md5="31ec7e6e06a3eb9e0bebff3e52ef1b0f" sha1="01e3ffef3aa6e9d312f190a9403ff8d167743aed"/>
+		<rom name="DRIVERS/SNDSYS.DIG" size="3332" crc="86ecb774" md5="c67142fe53599b28ff7d53565576dbae" sha1="72a300265348a67c33945d0aa6b5c0ec3933dbcd"/>
+		<rom name="DRIVERS/TANDY.MDI" size="5010" crc="8abb61f4" md5="59153a3c31e3e62b403cac8c11a5e848" sha1="6fe77cabd4b9b621568c38f6feaa36696b8aa56b"/>
+		<rom name="DRIVERS/ULTRA.DIG" size="9478" crc="430d67f5" md5="000e584a06712d2f2b58eb2e17b65248" sha1="4327d6bb924b4e40fa7ff035bdfb73a879c31836"/>
+		<rom name="DRIVERS/ULTRA.MDI" size="49672" crc="04849dc3" md5="9a1b881ab9e8f6d827f6c27c5df40d85" sha1="8337ada0962de33ee3eb8ebbf9d5d0c898f41fd2"/>
+		<rom name="game.gog" size="141722112" crc="e2531bbb" md5="860e7c2ce78375049d8ef78cff64bed8" sha1="5bc76ad09c3f1486ac8f80243eb8ae2674b4edd5"/>
+		<rom name="game.ins" size="70" crc="4f4c655a" md5="c8d1e91ca9b06a78028a17b5bcc795ec" sha1="477d4f28425ebd40014f7c93df19634dba0dba47"/>
+		<rom name="INSTALL.LBM" size="66852" crc="4b9b4c35" md5="9fa914974605dc05c7a0f4b65388eb80" sha1="7a3a07d7695fbea5a4bce8bd96cd449e6e49c291"/>
+		<rom name="INSTALL.SCR" size="2532" crc="c2eadf72" md5="a50d16966020904cc05cfd7560620444" sha1="be2fe6c989957855dc284a6014e217c6e5652513"/>
+		<rom name="MAIN.EXE" size="1109655" crc="05f36e83" md5="c4171d5eb0ebd36b132e081f8362a075" sha1="e8f3a6df8909f8e6bc54bcced643cd4a6e2dd3cc"/>
+		<rom name="Readme.txt" size="5344" crc="b835befc" md5="b9ffc21c5221bb0d81dec0e1a21d4c37" sha1="20b94235e86d8c6bcfad8a44159d5932db3c29bc"/>
+		<rom name="SAVES/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-12-31 00:00:00"/>
+		<rom name="SETUP.EXE" size="189511" crc="969f9aa9" md5="cb27d7ca7617c861c85f322144d4c0c2" sha1="d66f3beb0073a55d05dcc54b66519fa86ca407bf"/>
+		<rom name="XLDLIBS/CURRENT/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-12-31 00:00:00"/>
+		<rom name="XLDLIBS/INITIAL/AUTOMAP1.XLD" size="13329" crc="14544c58" md5="dd22bc0d86a3a78632c31f2d7fca17af" sha1="9e3014ca1ce4230236e98b7785d97aacf21d6ea0"/>
+		<rom name="XLDLIBS/INITIAL/AUTOMAP2.XLD" size="5022" crc="4c225199" md5="953f955f91628acc373b4bbb1c571742" sha1="3c4e69e9a817b0cdb5d5d49766179855978fbed3"/>
+		<rom name="XLDLIBS/INITIAL/AUTOMAP3.XLD" size="573" crc="ff1c136a" md5="d8d9211fe643beeac1bad3c2d48746ce" sha1="9682eb48b27ca303b8c4b37ed29eea3801edca18"/>
+		<rom name="XLDLIBS/INITIAL/CHESTDT0.XLD" size="312" crc="6e715bad" md5="e1107987836bab0e2dd1cd4ae02dbc25" sha1="efa2380f61747f93c42384e3d2e166ea44e9fe0c"/>
+		<rom name="XLDLIBS/INITIAL/CHESTDT1.XLD" size="15208" crc="fc0a62be" md5="0544735d979b9564bf565e57f904e637" sha1="2d8e6e1ab7b96f830d940475854a2edd0cbf616b"/>
+		<rom name="XLDLIBS/INITIAL/CHESTDT2.XLD" size="10176" crc="c3d281dd" md5="9737d7c71c4e13e92559b5fc9c64472d" sha1="ead428efc2d72c02a01e6a4e5134e86ad9fbd847"/>
+		<rom name="XLDLIBS/INITIAL/CHESTDT5.XLD" size="11508" crc="9acb4a0c" md5="050ef5eceabecf5e1e470b99c3fd6010" sha1="76f408e9e43654770ef225719f04413b9ca72a2b"/>
+		<rom name="XLDLIBS/INITIAL/MERCHDT0.XLD" size="156" crc="a892e3f4" md5="226ba5786393be134433ba09b0d5276c" sha1="f5678f3da4442262145c5c3698d02affb3219648"/>
+		<rom name="XLDLIBS/INITIAL/MERCHDT1.XLD" size="1848" crc="c2951412" md5="6ce47cc10d4d41db1885e663ca7bb57d" sha1="8262f394cbde03f0f51611afdf1d5d387c931624"/>
+		<rom name="XLDLIBS/INITIAL/MERCHDT2.XLD" size="1992" crc="c9970380" md5="e65fdfd959d040b5bd8c0ac3c9890d4e" sha1="47afc06d4444ea92c815123c92710e9499ef4b0f"/>
+		<rom name="XLDLIBS/INITIAL/NPCCHAR0.XLD" size="21906" crc="e322bc1f" md5="2f62c3df1cfa301803798050d718726d" sha1="75028ebc3087f88d3c399119930b320684d6b0c2"/>
+		<rom name="XLDLIBS/INITIAL/NPCCHAR1.XLD" size="67930" crc="a427d527" md5="2d0ffa595e57628681ca499429fbc404" sha1="61b03cb636a02e096d57d9766e9ca05639cb9612"/>
+		<rom name="XLDLIBS/INITIAL/NPCCHAR2.XLD" size="34540" crc="ab366757" md5="60eebb16d33557f61e59a7578c980967" sha1="0f59de908543a7f1594e98cd359913101f6d82f0"/>
+		<rom name="XLDLIBS/INITIAL/PRTCHAR0.XLD" size="13400" crc="c4a6d16d" md5="4de52f01ac37f3dc5eebece8778e3d8e" sha1="03b74fc0d2b585086fe31b720a2b5091a34eb393"/>
+		<rom name="XLDLIBS/INITIAL/PRTCHAR1.XLD" size="4168" crc="f24e60f3" md5="b660bddddbf4cd347f5c42551a5ccf45" sha1="78344d41333b387862fbc9670e520f40a88c7d4a"/>
+		<rom name="XLDLIBS/INITIAL/PRTCHAR2.XLD" size="19208" crc="6572b5cc" md5="1313ae4f011b02ae60dd162068677255" sha1="04f1a75b99fac4a16b51de2ea2cdd55cb1f5c375"/>
+		<rom name="XLDLIBS/PALETTE.000" size="192" crc="c63eeb1f" md5="648df0fb4d7586766c169a282236ffbe" sha1="d8d0a222bd268fd666defab115c7c5291ae32df1"/>
+		<rom name="XLDLIBS/PALETTE0.XLD" size="31336" crc="8e40a82a" md5="62f90b10b1f6b6f2c7d41fda090cc7a1" sha1="d4ac6291d7ac72fbd93ee0ebaded89a7ab78d3ce"/>
+	</game>
 	<game name="Alien Breed (1993) (Team 17) (GOG).dosz">
 		<description>Alien Breed</description>
 		<year>1993</year>
