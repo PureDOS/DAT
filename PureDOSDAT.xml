@@ -6043,6 +6043,115 @@
 		<rom name="XMAS2.PSM" size="136849" crc="4bf10799" md5="2cff502e4831a658b1c63257838a3ebf" sha1="cb1483acc93019333d5923abead301e10b565afb" date="1995-09-27 03:01:40"/>
 		<rom name="XMAS3.PSM" size="181650" crc="fe0ed271" md5="f1f1b66abb6fa42dcb0221fb21c97319" sha1="d08254373447fc0e68b5f280f6367030dd27b2a7" date="1995-09-27 03:03:42"/>
 	</game>
+	<game name="Legend of Kyrandia, The - Book One (1992) (Westwood Studios).dosz">
+		<description>Legend of Kyrandia, The - Book One</description>
+		<comment>Installed from CD. French and German versions of MAIN.EXE also need to be installed/copied from CD</comment>
+		<comment_dosc>English language, VGA 256k+ video RAM, Sound Blaster Pro, mouse enabled, and auto start. Options for French, German, and MT-32</comment_dosc>
+		<year>1992</year>
+		<developer>Westwood Studios</developer>
+		<link type="media">http://redump.org/disc/65309/</link>
+		<rom name="FRE/MAIN.EXE" size="282976" crc="d1f25a43" md5="307c5d4a554d9068ac3d326e350ae4a6" sha1="ff53173ab09083d5f05f45cda79d1d172c64206c" date="1993-04-08 12:16:34"/>
+		<rom name="GER/MAIN.EXE" size="282880" crc="eb3dd8ca" md5="c65d381184f98ac26d9efd2d45baef51" sha1="684e20cff1cddc508f279bf00a598771d42d5de7" date="1993-04-08 12:16:10"/>
+		<rom name="KYRACD.BAT" size="6" crc="f0e62a2a" md5="21f9c3f69e5247a36f61ceabe0cac163" sha1="49c7adc7353c1edbab3f551ed3fcffb5edae1bb0"/>
+		<rom name="Legend of Kyrandia, The - Book One (USA) (En,Fr,De).chd" size="610119936" crc="d369c9d1" md5="97dbed57ff2961244e76f7352fc1052b" sha1="d59d254ece725b948daa1b00dee4c00bf179bffb">
+			<track number="1" type="MODE1_RAW" frames="249174" pregap="0" duration="55:22:24" size="586057248" crc="4663b299" md5="59f38a4ce9f63634a20ed03ee0853aa8" sha1="f9a75162811f4ee23ded4301ac8ef4a0e97b3298" in_zeros="1" out_zeros="0"/>
+		</rom>
+		<rom name="MAIN.EXE" size="281408" crc="ec39a23e" md5="1ebc18f3e7fbb72474a55cb0fa089ed4" sha1="4d533853808aa9fb0f9ff0642d2c19f609ec4892"/>
+		<rom name="SETUP.EXE" size="91694" crc="eb7bd481" md5="3c67ded586aa76cad6e3785d4f82321b" sha1="d29ed5d2f33f6b66057eeedf4d021eeb5421c303"/>
+		<rom name="SETUPENG.DIP" size="3723" crc="6129c247" md5="a139977b347a7ac4ba80d75eb4de6c1d" sha1="57b36304b92dc574cca3e3396f23208c6aa70e67"/>
+		<rom name="SETUPFRE.DIP" size="3879" crc="ed1ce73a" md5="6cd84acab8ca464e83ab6f651084b4cc" sha1="487d4e343e78d1fa34d7dd76c4d1b8ed6ff8a725"/>
+		<rom name="SETUPGER.DIP" size="3824" crc="0596334f" md5="bb878135c108bbdd06bd9ffa936be0c4" sha1="540712a89aa3d04241ded05426344639eaf95e84"/>
+	</game>
+	<game name="Legend of Kyrandia, The - Book Three - Malcolm's Revenge (1994) (Westwood Studios).dosz">
+		<description>Legend of Kyrandia, The - Book Three - Malcolm's Revenge</description>
+		<comment>Installed from CD</comment>
+		<comment_dosc>English language, Sound Blaster 16, and auto start</comment_dosc>
+		<year>1994</year>
+		<developer>Westwood Studios</developer>
+		<link type="media">http://redump.org/disc/71012/</link>
+		<rom name="8.FNT" size="6048" crc="c53c1af8" md5="8d952f488e7c513cbaa9b51ffae4ea88" sha1="acd18f1a9aba535483a91fd41dc6666678d022f4"/>
+		<rom name="AUD.PAK" size="4310606" crc="d85065ad" md5="1d2269d8552981105ba252fab7096488" sha1="605dcf3ac8491647491aa07bd506e8207c3a8c41"/>
+		<rom name="BWCC.DLL" size="157472" crc="bc080ac4" md5="21cf28b2bede6e6d9aa710f3c79dbab4" sha1="cd4928871c872959d1c941a15ce9c530793d7ed5"/>
+		<rom name="COST0_SH.PAK" size="519740" crc="9e76457c" md5="003e9d368a011fdea3f91a86baa6cb01" sha1="9ecf159b86d9e65d7c794e4086e7e8935ac67d77"/>
+		<rom name="COST10_S.PAK" size="270829" crc="9db21b43" md5="b122a3aa20ac4d28b1c44dd65d915a0c" sha1="c9616643893921fc23bbddbabbe0f26f0fa756c0"/>
+		<rom name="COST11_S.PAK" size="327151" crc="2b01cfbd" md5="f8ae1b276b3f3dffb084ba9b4d2ce998" sha1="b970d35c75b6fdafdc61e7659fa4551adbf221b5"/>
+		<rom name="COST1_SH.PAK" size="379120" crc="92dd142b" md5="912511d30beb142f2a14fa7d135fb488" sha1="13a67c4d4cb81e8d96505b8884c3082ec603444f"/>
+		<rom name="COST2_SH.PAK" size="371627" crc="74e43921" md5="b2a4f409f6cb6fd0888139734b0e7cbd" sha1="0cd8020c40418fc776adfd80d3311b5586933111"/>
+		<rom name="COST3_SH.PAK" size="363331" crc="3d5fe026" md5="a1f0b18695e9255f4f3ffbcbc27a7efe" sha1="c4a89f03d61faf8e01a94ec458bd51b8d4b21603"/>
+		<rom name="COST4_SH.PAK" size="349941" crc="7816c751" md5="6123969ef36e5c69ba22be337c9e4f17" sha1="cf774bd7a4706c258dc06fe30504d71d6843b91b"/>
+		<rom name="COST5_SH.PAK" size="271295" crc="f344be46" md5="867e6b2413058f676a09e02b80ce4da4" sha1="77c9f2807b8adb5f8b20865bfd1c739f3f5cdc45"/>
+		<rom name="COST6_SH.PAK" size="249609" crc="901d7d0a" md5="1e0a26d7b64ee856ccd5b04bb9fef8da" sha1="927535a30b2f6eef2a545f4cc0d3e0fa0120fff7"/>
+		<rom name="COST7_SH.PAK" size="260817" crc="5da8aaf9" md5="6260a109a80604fbe6c73ac562cbe00f" sha1="be6647ac663dc08697eefa67a8811ff88384c2e0"/>
+		<rom name="COST8_SH.PAK" size="243814" crc="827728a0" md5="228763573f7d75f3484579c591629f19" sha1="50cef8ce5741d65392a789da8f47c809b6c6b4a1"/>
+		<rom name="COST9_SH.PAK" size="261129" crc="8ba41595" md5="53e4ba4197e9d1e775e7499a0bcbf856" sha1="fcf17a1cc03bf932a04ce0935736a333f0c12f6e"/>
+		<rom name="CREATIVE.ICO" size="766" crc="ccf34090" md5="1686d68038ea8adbc0893cb96b427af6" sha1="231bc00648c2ffcc2162ef9124fe90b403f6bb31"/>
+		<rom name="GADGETS.COL" size="768" crc="1528b6b4" md5="be54204d62ea9a9c7dece6b1d81a7532" sha1="8ac7b817a734dee08447fe764667b03e522f2ac4"/>
+		<rom name="GADGETS.SHP" size="4117" crc="ebf5d787" md5="be61e3993d2bea4c9d0aa53b4e191a94" sha1="de7906005cb041651c8f241ed8c918593af1158f"/>
+		<rom name="GUNTHER.PAK" size="504948" crc="0c0d75e1" md5="5e67a79ea24bc2c05487d91dea108a58" sha1="80c8a14d23c47c7db1e1f601fae326b8955290dd"/>
+		<rom name="HDETECT.EXE" size="43856" crc="84da82d1" md5="ed3c5636561481531e83e739f4335af7" sha1="9f2331b6d67974ed7dcc79b3c02f242d6ed51e38"/>
+		<rom name="HDETECT.PIF" size="545" crc="c4dc2a1e" md5="38dc516db88d1336e6d0627f61a1117d" sha1="41d2438fb661077a6205a3bae87202c5f8537c4e"/>
+		<rom name="HMIDET.DRV" size="49295" crc="e2dd133a" md5="1b34780cbd14737c01090701670e4f27" sha1="28c0d1c6703c6b90eb34b06110e5b7f9c5811d1b"/>
+		<rom name="HMIDRV.DRV" size="177416" crc="0f5349d6" md5="8847c16b0ed4e833a394250137263c0b" sha1="5e7293a43b06fb45f543047ee036f84ad3c1d4b5"/>
+		<rom name="HVERIFY.EXE" size="44928" crc="fb6f72fb" md5="27e4f06d682eb0e1981256bbb64c98ea" sha1="4b8ad8c933ffc445c4547e8fb75efe18e488b6d2"/>
+		<rom name="HVERIFY.PIF" size="545" crc="d903b986" md5="8770129acacc73244e0b3ce0a8d35c0b" sha1="4d7abf4f1ba2df6cd1fa105202c4288a22a5af5f"/>
+		<rom name="INSTALVQ.EXE" size="105104" crc="2aecb822" md5="ef3d349526bcb2878e6f7c536f689f38" sha1="e48b5c79ece1063c8cf25161d8759335d0eae99d"/>
+		<rom name="INSTALVQ.LOG" size="1222" crc="ef7acd70" md5="8d85cfb750c03ca1d121e9bc742b79d9" sha1="8119e6f16a8141a9423aa97bf3ac29f19f551e45"/>
+		<rom name="INSTALVQ.PIF" size="545" crc="9839ec51" md5="74db5ec2b2bee075e2b46b163054e328" sha1="b7c07c025507c9bf2d587788b4feab4deb6e4d24"/>
+		<rom name="Legend of Kyrandia, The - Book Three (USA) (En,Fr,De).chd" size="713817216" crc="0e889f17" md5="167d11e97eaf7843d0abdebe4894ae58" sha1="8a31973dfcdbdd30d04dcf04d02acf798cb9d355">
+			<track number="1" type="MODE1_RAW" frames="291525" pregap="0" duration="64:47:00" size="685666800" crc="8b8a7103" md5="2aa760f4e68050be64b1e1d0cf979d96" sha1="031674af2eb4ae64fb4d83364e105cab24e4b824" in_zeros="1" out_zeros="0"/>
+		</rom>
+		<rom name="MAIN.EXE" size="321920" crc="1dad6fa8" md5="bf68701eb591d0b72219f314c0d32688" sha1="37c1afb52fdae667d3662f44305a5ffcf8b04e5a"/>
+		<rom name="MALCOLM.BAT" size="10" crc="e3e7688a" md5="fb1a73d0debe1ff458b645af2bc5022f" sha1="448b949867f3ae4d8b5df0f0a4fdec5462590e5c"/>
+		<rom name="MALCOLM.ICO" size="766" crc="39c20c91" md5="5e63683140041077851bfeac8592e294" sha1="15e0a35b4068c44898488e409ac980c56bf21772"/>
+		<rom name="MALCOLM.PIF" size="545" crc="e83cc1f0" md5="10482efb3aa05cd59349f129d369aa98" sha1="b0d8a2bda7ecc9dceb1e5a877c6c74938843acfe"/>
+		<rom name="MISC_CPS.PAK" size="5517" crc="33c859fb" md5="d64b7999e45cf9951f96c93af28388fc" sha1="f234bd6f3701eb766d6f345bb7ec441310487f1f"/>
+		<rom name="MISC_EMC.PAK" size="5835" crc="cd462ffc" md5="56c3bfa41ae2f7a2e769eebdcd1b49fe" sha1="e4f478a4833bbeb72a680b73b4d6f1d664cb3091"/>
+		<rom name="OTHER.PAK" size="76624" crc="14991c9f" md5="be5a01df7336214c2de2ea0620b3a482" sha1="a2e19cb1bb0b152713ff1cd97221f1d8d5b21a5a"/>
+		<rom name="README.TXT" size="9733" crc="9feb786e" md5="89c4bfb32c38c0513079fed37bd02f86" sha1="cdcaba3a15a29bbd6686638253d3409fe7fbede8"/>
+		<rom name="RUNCREAT.EXE" size="114192" crc="79e1bc32" md5="3f4c7c7522a6557e5cfbadac905bbded" sha1="92756be3e06bfa1ae5be0cedbbc746c3be79a26f"/>
+		<rom name="RUNGAME.EXE" size="112656" crc="dec85126" md5="799a0f0eadf1d1e672015f46f790164f" sha1="f20ec4056fe4fea7b8cb67838444dfda8dde6385"/>
+		<rom name="RUNMAIN.EXE" size="39872" crc="ba9541fd" md5="3d1a57a87c2b3bb007837e06e03e11a5" sha1="ba88f20ee0b00e74f4eaee27e985208e84625e95"/>
+		<rom name="SETUP.DAT" size="208266" crc="23508a9e" md5="ed9361f9de9f07f03ce8a0a3a2e66f60" sha1="39055da94a00f9496e19d9d441fb72012d77f076"/>
+		<rom name="SETUP.EXE" size="257552" crc="50d46417" md5="65a469fea265c64ed003504007ffc997" sha1="2f8e0fdf6588bd284831068b84d7c2cb687603bc"/>
+		<rom name="SETUP.ICO" size="766" crc="d0e20902" md5="f05266ab73b4d9fd402f9820e36e0361" sha1="5bf80775a1aab798f59b8380fadd9c4e9923b5ca"/>
+		<rom name="SETUP.VOC" size="86722" crc="0287301f" md5="e4c3c5f17b30ddc67a39aeb95f129664" sha1="9b8720ad2ab3c8707926f7c2c413bbc60ed1abfb"/>
+		<rom name="SETUPENG.DIP" size="5892" crc="9b5ea6c3" md5="023c4ee5458ae96867f9e15f4c99119e" sha1="ea73ccde77b5dc93226a01c2f34afbed3e6e89a4"/>
+		<rom name="SETUPFRE.DIP" size="6728" crc="14c90c46" md5="8dfa0970fc401fe047b771cf599b6387" sha1="51e627b14251cf17b082316d882ea28fcbe47d99"/>
+		<rom name="SETUPGER.DIP" size="7013" crc="8ab197a0" md5="149d844f1d934c032a5e79c56c2b6bb5" sha1="70b9eda7f2f4180c89e940f33d4566d17f854111"/>
+		<rom name="STEWART.PAK" size="246903" crc="1918b550" md5="3ffc1ebb5bdd50fef96059bb36de7ede" sha1="f94347e8a8f599a762c153f7a2b74416e7b95391"/>
+		<rom name="WW.CPS" size="9218" crc="04bb9271" md5="29aa88ffc3a88f3d25ad7d419b84c19f" sha1="261ca6d230528199d44e4613bdcbbccff70e68ae"/>
+		<rom name="WWFORMAT.EXE" size="105112" crc="17eec175" md5="e16047ad69c2c1d7a7cf90cfdb150a55" sha1="77780aa7f996e8c04014ae3d4d8d96d13939a891"/>
+	</game>
+	<game name="Legend of Kyrandia, The - Book Two - The Hand of Fate (1993) (Westwood Studios).dosz">
+		<description>Legend of Kyrandia, The - Book Two - The Hand of Fate</description>
+		<comment>Installed from CD</comment>
+		<comment_dosc>English language, Sound Blaster 16, digitized samples enabled, and auto start. Options for MT-32 and General MIDI</comment_dosc>
+		<year>1993</year>
+		<developer>Westwood Studios</developer>
+		<link type="media">http://redump.org/disc/37514/</link>
+		<rom name="DOSETUP.PIF" size="545" crc="41092f14" md5="e525c307c3c42c948cba1d60ea1b4447" sha1="1c0e0bff87f7457d8ff22cf660bd1b74bb2226b6"/>
+		<rom name="Hand of Fate (USA, Europe) (En,Fr,De).chd" size="251262720" crc="f89fb43a" md5="5073e4319ecfd519f62fb720ad37c953" sha1="a2db4c8c67eaf70e830b91f6cbee4aca9fe42249">
+			<track number="1" type="MODE1_RAW" frames="102611" pregap="0" duration="22:48:11" size="241341072" crc="2948f649" md5="566f6c020dc6748a3ca4979a21d2d50b" sha1="fbbe6b851811128b6968bf051137266c9f398b35" in_zeros="1" out_zeros="0"/>
+		</rom>
+		<rom name="HOF.ICO" size="766" crc="844282b1" md5="7b48764448ae7a92d75142b45d44dd5f" sha1="b26a0dd23f114a7e287daee4d32d57406e84f514"/>
+		<rom name="HOF.PIF" size="545" crc="2aef3fd2" md5="7190efeb0a734bea78a03f3709f61b5d" sha1="8255cc98c6e4446984e82d385c6b731847b84b87"/>
+		<rom name="HOFCD.EXE" size="199284" crc="6ed635b7" md5="85bbc1cc6c4cef6ad31fc6ee79518efb" sha1="c260b6714f50e4ca6063c9e1c6c201e536a28d6d"/>
+		<rom name="MAINDOS.EXE" size="283328" crc="6a5f0f1c" md5="e20d0d2e500f01e399ec588247a7e213" sha1="7851e81cc1040514e0fb6041cd843886e5304628"/>
+		<rom name="MAINWIN.EXE" size="280000" crc="03e3b004" md5="b8589f78a1046e4db9030068075afd1e" sha1="403056e31f6b2f496d4ad036bf5d9cb90dc85a6d"/>
+		<rom name="MISC_EMC.PAK" size="58352" crc="0836422c" md5="7307968a964ff12ab8613eb9f8020a96" sha1="5209a18cb86c454419ce86d8f30420422d5da322"/>
+		<rom name="OTHER.PAK" size="498118" crc="d6cd3f6d" md5="bddd0c243e927fe87ca44f0594b58ebe" sha1="3e12081ca2afa7aa417463ca16cc36ba4c94000e"/>
+		<rom name="README.BAT" size="15" crc="17c39f52" md5="447fa3f456b7a24cff6ecb67ab6623af" sha1="37b08ab9b13c339aa6da3864f70845c246395853"/>
+		<rom name="README.TXT" size="1006" crc="e80cac6f" md5="6a7cebe5dda09fdce8f402ced1e411c3" sha1="2db8a76268d0de471e496d4c584eef889deb18ad"/>
+		<rom name="SETUP.EXE" size="126460" crc="28cd8bee" md5="c034cabac1997e5eab1ab42ee71f8434" sha1="95b0a49a8f5d70984c1d83d64279e28d12b05c2e"/>
+		<rom name="SETUP.ICO" size="766" crc="c0900b8e" md5="d0a2d74dd2eae9552d57dba51657542c" sha1="2fe022d94895e37ed8065958f5716dbca0fb24c2"/>
+		<rom name="SETUPENG.DIP" size="4087" crc="3bac0351" md5="516e16e6068e203ae66c6604ec33dd6a" sha1="d5ee4d2a8cbe89fb2962736fbb03392cec15f723"/>
+		<rom name="SETUPFRE.DIP" size="4684" crc="dd783881" md5="04741f30ccaea5bd1ef3f5a3b836d677" sha1="c612512749a6a5c14388c50727822489c83f8621"/>
+		<rom name="SETUPGER.DIP" size="4831" crc="8025d0d9" md5="b42144c1011cf93fbd297f46bc2f41aa" sha1="816e1ed041f6c103c502e849cfaeb24beb7e6ef9"/>
+		<rom name="VDSPD.386" size="10936" crc="b871b0c3" md5="f78918d0dc0464c95de8aaec4340a171" sha1="4ab0bb20efa0c9b0850b7d827212462695eca410"/>
+		<rom name="VISBIOS.COM" size="30976" crc="9ea39142" md5="a6ad1269c7e09f4ce18d5a078d91e8a8" sha1="591bd8f9c2a61b4e9f412ef0c5979ea197d37e82"/>
+		<rom name="VOC.PAK" size="1958925" crc="8320fe04" md5="4e3197fe772fad431069463b090e6f88" sha1="d635fad288fb00cf7970a6624a37617630e1a4de"/>
+		<rom name="VWWSD.386" size="5371" crc="50b392a3" md5="006443d5741bf8193e0aae470adabced" sha1="898a6e4cfb0aff58338e48072e2b79e411f3f50b"/>
+	</game>
 	<game name="Malice (1997) (Quantum Axcess).dosz">
 		<description>Malice</description>
 		<comment>Installed from CD</comment>
