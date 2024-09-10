@@ -5662,8 +5662,8 @@
 		<rom name="ROGUE.PIC" size="16391" crc="57106c0e" md5="afb883b611c35f79f2a5168365349ba7" sha1="954278268827812fce8d8bde04954a9c3b828a48" date="1985-03-25 16:53:10"/>
 		<rom name="ROGUE.SCR" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
-	<game name="Secret of Monkey Island, The - CD-ROM Version (1992) (Lucasfilm Games).dosz">
-		<description>Secret of Monkey Island, The - CD-ROM Version</description>
+	<game name="Secret of Monkey Island, The (1990) (Lucasfilm Games).dosz">
+		<description>Secret of Monkey Island, The</description>
 		<comment>Extracted files from CD</comment>
 		<comment_dosc>Auto start</comment_dosc>
 		<year>1990</year>
@@ -5738,31 +5738,6 @@
 		<rom name="SPANISH/ROLAND.IMS" size="18976" crc="3f89f7f5" md5="809419ebc2434bab057c78959c264bdf" sha1="cdaf7470e93aac8f913d021354e337935eb4c818" date="1992-05-15 13:37:18"/>
 		<rom name="SPANISH/SOUNBLAS.IMS" size="24904" crc="d9fa717a" md5="746a0ce01a57e4793207baa01b6ed39d" sha1="b66ce9048fd5aeec8062287266b451366e0549f8" date="1992-05-15 13:37:20"/>
 		<rom name="SPANISH/SPEAKER.IMS" size="20062" crc="4fb49af3" md5="a321a722c7dafdad89924dc5a4456b58" sha1="d08501afd07e3901af1509bb2a2aa853ef9dd2f6" date="1992-05-15 13:37:22"/>
-	</game>
-	<game name="Secret of Monkey Island, The (1990) (Lucasfilm Games).dosz">
-		<description>Secret of Monkey Island, The</description>
-		<comment>Installed VGA v1.1 from XL Kixx 3.5" floppy disks, then patched with 486/Sound Blaster fix</comment>
-		<comment_dosc>Copy protection patch and auto start</comment_dosc>
-		<year>1990</year>
-		<developer>Lucasfilm Games</developer>
-		<link type="patch">http://static.dolimg.com/mh_netstorage/lucasfilm/patches/pc/Monkey.exe</link>
-		<rom name="000.LFL" size="8357" crc="88872747" md5="08656dd9698ddf1023ba9bf8a195e37b" sha1="8ccf3b3e4d397b023694e66799b61594a2cffd59" date="1991-02-15 12:00:00"/>
-		<rom name="901.LFL" size="2264" crc="94539b31" md5="280f20d081cc7701c38dfdc8b701c58c" sha1="bb4a3b8f2af0c919e2d7b3b01ae3b8837ffd8a6f" date="1991-02-15 12:00:00"/>
-		<rom name="902.LFL" size="3335" crc="7f36e7ac" md5="13a9297cca1b33c4ef9c24ed1dacc64d" sha1="c72b60b4f58603ef5651d66e708fc5b8fd776f5a" date="1991-02-15 12:00:00"/>
-		<rom name="903.LFL" size="2019" crc="c1ebb5b3" md5="0c60481ff858c0e8ab136adab5fa5bdc" sha1="8ad3b1901bac27c7d1bf61e55bb43de3d1ddedc1" date="1991-02-15 12:00:00"/>
-		<rom name="904.LFL" size="4368" crc="8e69a5d8" md5="6c99003057f3b84d9fedf7a88dba813b" sha1="0685377f67a289e70c0fd22435ee6183aa659b74" date="1991-02-15 12:00:00"/>
-		<rom name="_INSTALL.BAT" size="1526" crc="07e66ba2" md5="38d9736e7615068f90f9f7e09546024e" sha1="a2413969a37c2d6eb789bdc185cd7fac1cce659a" date="1993-10-21 20:19:22"/>
-		<rom name="DISK01.LEC" size="599209" crc="490dbedb" md5="7c7bd8b42622e45909250c4d79a89759" sha1="3eb1b68d6594ead4bb9edc86726a92d285d61566" date="1991-02-15 12:00:00"/>
-		<rom name="DISK02.LEC" size="655465" crc="02ef5896" md5="a8cc170323b532e47016934efcda9975" sha1="3b95fe13c480b0a7300bb141e8c2652532aa809c" date="1991-02-15 12:00:00"/>
-		<rom name="DISK03.LEC" size="641088" crc="c49390c9" md5="38d3b8e0cb445c088814865316e53c96" sha1="3c93f811ee3c94bb1a2c721bfbf8516606be6a42" date="1991-02-15 12:00:00"/>
-		<rom name="DISK04.LEC" size="689124" crc="e166ec1c" md5="f98109c4fea670f8b25d90455e49f0e7" sha1="0272a05eda1348c7215089158b0f47ce34a1dcb0" date="1991-02-15 12:00:00"/>
-		<rom name="DISK05.LEC" size="575735" crc="e6667520" md5="eb67fc5e033c0a2cb3fffce6b989f077" sha1="b7678f6483f8b2cd9f62710eb6f1147d56a17f1c" date="1991-02-15 12:00:00"/>
-		<rom name="DISK06.LEC" size="615087" crc="b98a16ba" md5="6f163d6b9fc13a969a1949898d2e90dc" sha1="e4d62b719b0bbe1b984ae39430f53c5e746a1bdf" date="1991-02-15 12:00:00"/>
-		<rom name="DISK07.LEC" size="666332" crc="54c4ff6e" md5="3d1296f136683fec576438447b1dfd7d" sha1="7ca6ad2e256e2299cc59d9123019b5e56db14b1a" date="1991-02-15 12:00:00"/>
-		<rom name="INSTALL.BAT" size="3224" crc="c62acf57" md5="c3c2b4bd0cd92a4680a9ba5f7571b968" sha1="eee7ab620f3e4234f8846a9dd20c525767a3fc43" date="1993-10-21 19:57:00"/>
-		<rom name="LHA.EXE" size="34283" crc="2c68a172" md5="251d86c1da79710ce1de3e1c7f5b1f74" sha1="6d5dfa381e6570c4418a189bb55269077c635795" date="1991-07-20 02:13:00"/>
-		<rom name="LHA213.EXE" size="44381" crc="e45194cb" md5="70c0b4bfd8c0f3e1e0abdcdf51def15a" sha1="003abe71e8a05eefdb749bdb4a2635a8f299f55a" date="1993-09-26 12:22:00"/>
-		<rom name="MONKEY.EXE" size="69637" crc="ee833990" md5="bf345756e26e06453cc761abeae49672" sha1="e6bfd1df08637deec477edbf8c1fbbd8fc70d899" date="1991-09-03 12:43:28"/>
 	</game>
 	<game name="Sid Meier's Railroad Tycoon (1990) (MPS Labs).dosz">
 		<description>Sid Meier's Railroad Tycoon</description>
