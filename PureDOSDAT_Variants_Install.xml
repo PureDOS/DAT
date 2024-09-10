@@ -42,6 +42,21 @@
 		<variant>Installation</variant>
 		<rom name="disk1.img" size="368640" crc="b6fbab29" md5="a716c0f9f814b86bb1423f503c6c39dd" sha1="7bd3b82740163365d33e8d630f29d148b39e0ddc"/>
 	</game>
+	<game name="Bureau 13 (1995) (Take-Two Interactive Software) (Installation).dosz">
+		<description>Bureau 13</description>
+		<link type="media">http://redump.org/disc/107101/</link>
+		<year>1995</year>
+		<developer>Take-Two Interactive Software</developer>
+		<variant>Installation</variant>
+		<rom name="Bureau 13 (USA).chd" size="543612672" crc="f4af8477" md5="6100a696af1b0984438bccbfb05d20a3" sha1="ad5e49d1a142b5dc338d98e144f1120027791b28">
+			<track number="1" type="MODE1_RAW" frames="145045" pregap="0" duration="32:13:70" size="341145840" crc="87d6da0e" md5="eb993028d46e4c34dd1eecf941da7c8e" sha1="8190037dd2037b0e75020d4427d142748bf40f53"/>
+			<track number="2" type="AUDIO" frames="13730" pregap="151" duration="03:03:05" size="32292960" crc="e26033f6" md5="d28115c1f1c6ce75f1201b02ef795b6d" sha1="47285c7fea7e7cfe1cc0364b4efc6171dc6e92ec" in_zeros="1" out_zeros="398605" trimmed_crc="e3c54b94"/>
+			<track number="3" type="AUDIO" frames="17477" pregap="148" duration="03:53:02" size="41105904" crc="7d1a1fc6" md5="320cc64c6a99ce0febf3348dd58ca9de" sha1="ceb0b147ec4cabce2275e34a1c7ec870cfe5c1b5" in_zeros="362408" out_zeros="457004" trimmed_crc="5679c0e5"/>
+			<track number="4" type="AUDIO" frames="14102" pregap="148" duration="03:08:02" size="33167904" crc="e7843d7f" md5="285c400507888424e58dd3158eee48c4" sha1="f22ccef0363080440bf29de7d6141782616b5f60" in_zeros="349376" out_zeros="381277" trimmed_crc="9ac7df52"/>
+			<track number="5" type="AUDIO" frames="19577" pregap="148" duration="04:21:02" size="46045104" crc="df500ab1" md5="cf31a6ed57d42843993582b10e19dd32" sha1="0324e7d864a6f7867f05e3a23bfd1b94445821c1" in_zeros="349376" out_zeros="525036" trimmed_crc="192dd51c"/>
+			<track number="6" type="AUDIO" frames="13800" pregap="148" duration="03:04:00" size="32457600" crc="f1c1471c" md5="0ac2b71e433c987fa469c1ccf1f6afaf" sha1="d212e4e2606737319a9e33d41e8ed65fb327a31e" in_zeros="354298" out_zeros="556521" trimmed_crc="b2ea2218"/>
+		</rom>
+	</game>
 	<game name="Caesar (1992) (Impressions Games) (Installation).dosz">
 		<description>Caesar</description>
 		<comment>SierraOriginals CD re-release from 1995</comment>
