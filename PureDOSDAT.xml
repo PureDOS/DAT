@@ -5047,11 +5047,11 @@
 		<rom name="SETUP.EXE" size="45745" crc="0025fe95" md5="675564fcd380f5ef9beb0e7b21a51f79" sha1="f8644ace438896f9a788629d8da869bd34926f91" date="1996-06-10 01:00:02"/>
 		<rom name="TNT.WAD" size="18654796" crc="d4bb05c0" md5="1d39e405bf6ee3df69a8d2646c8d5c49" sha1="4a65c8b960225505187c36040b41a40b152f8f3e" date="1996-11-14 12:10:34"/>
 	</game>
-	<game name="Freddy Pharkas - Frontier Pharmacist - CD-ROM Version (1994) (Sierra On-Line).dosz">
-		<description>Freddy Pharkas - Frontier Pharmacist - CD-ROM Version</description>
+	<game name="Freddy Pharkas - Frontier Pharmacist (1993) (Sierra On-Line).dosz">
+		<description>Freddy Pharkas - Frontier Pharmacist</description>
 		<comment>Maximum install from CD, with AUDIO folder manually copied from disc. Options: Sound Blaster Pro music, Sound Blaster audio, mouse enabled, extra memory enabled, directory C:\SIERRA\FPFPCD. In RESOURCE.CFG, line 15 must be edited to " patchDir  = C:\;C:\audio    " and line 16 must be edited to " resAUD    = C:\audio           ". Almost matches with GOG, except for RESOURCE.CFG</comment>
 		<comment_dosc>Required RESOURCE.CFG and auto start. MT-32 option</comment_dosc>
-		<year>1994</year>
+		<year>1993</year>
 		<developer>Sierra On-Line</developer>
 		<rom name="2998.SYN" size="4568" crc="f53d3f34" md5="c02f95cc8dba95a424fc6e7c7e4434d4" sha1="0c9247da07ba62475edbead9f6cd190abb694907" date="1994-09-13 16:53:32"/>
 		<rom name="2999.SYN" size="2936" crc="c1ce2e4c" md5="6f45720a7c7bc8339a21645ab5aaa7f1" sha1="487367a58ab1102d05d2842b537d3d3581a17ea3" date="1994-09-14 00:30:46"/>
@@ -5131,62 +5131,6 @@
 		<rom name="STD.DRV" size="1481" crc="578efe57" md5="aa444eeb77bc162d0ee52379df408358" sha1="bdc955928878536bc2bd664eec8f9968483e2c0f" date="1993-03-17 09:37:54"/>
 		<rom name="VERSION" size="7" crc="8ec4273a" md5="fa5ccbff55174b9e9881db1aa6126c62" sha1="eb3564da37431989b58412975a92b2512d69e13d" date="1994-09-19 13:52:20"/>
 		<rom name="VGA320.DRV" size="8252" crc="9f7e188a" md5="66e9037b9913d1ecf67a251bcac1b327" sha1="00ca3a5a742436c980ef6084ac49b247a0c79ef6" date="1993-02-09 17:40:04"/>
-	</game>
-	<game name="Freddy Pharkas - Frontier Pharmacist (1993) (Sierra On-Line).dosz">
-		<description>Freddy Pharkas - Frontier Pharmacist</description>
-		<comment>Maximum install from 3.5" floppy disks. Options: VGA 256 color graphics, Sound Blaster Pro music, Disney Sound Source audio, joystick disabled, mouse enabled, extra memory enabled, directory C:\SIERRA\FPFP. Almost matches with GOG, except for RESOURCE.CFG</comment>
-		<comment_dosc>Required RESOURCE.CFG and auto start. MT-32 option</comment_dosc>
-		<year>1993</year>
-		<developer>Sierra On-Line</developer>
-		<rom name="15.MSG" size="21743" crc="8e47f64c" md5="266e1c623e61bad056aa2b06b0fa0d39" sha1="61edfc80f987e8640b082b6f1db64db04636976c" date="1993-04-18 09:37:58"/>
-		<rom name="300.HEP" size="3080" crc="34972edc" md5="cbc967d807196b274db468a220b59980" sha1="07c52501e45c85f42fb1c11c0c7b651a6e1db042" date="1993-04-16 18:31:58"/>
-		<rom name="300.SCR" size="4896" crc="0e51d52c" md5="707db72ba1883092f219a851d76b17e1" sha1="8079a193bf70d497736be463b457c37b595d2090" date="1993-04-16 18:31:58"/>
-		<rom name="600.HEP" size="4420" crc="a32fc89c" md5="ae702048b18ac50b42ff0e852061f161" sha1="8cc98d07d6cc5df26310dbc782fbe219b8fb9c52" date="1993-04-18 09:40:36"/>
-		<rom name="600.SCR" size="10358" crc="47c45623" md5="ca88f290d0a670314259f69c00679b63" sha1="59d72f4dc813ee1f0a0ca7fe09f70a98c92b0101" date="1993-04-18 09:40:36"/>
-		<rom name="670.HEP" size="5016" crc="38235a2d" md5="aae05c70b711f4369dd85311be00bc56" sha1="c0185d17a2a93673e8875796f48cab6e450f89b6" date="1993-04-19 12:35:32"/>
-		<rom name="670.SCR" size="5904" crc="a5e6ad62" md5="0463c6b72581a2c00f844dc4a0414a00" sha1="1b4053b3591acbe4d23db3271d733aca00203f08" date="1993-04-19 12:35:32"/>
-		<rom name="671.HEP" size="5286" crc="02f28795" md5="511b4374bafdd6d1582cf6390fe88f6e" sha1="3ea0e740a90fd1d36cdad242023d0e7e346a485f" date="1993-04-18 22:55:48"/>
-		<rom name="671.SCR" size="7638" crc="e45d6d9f" md5="b7bd4c1b1d5d469b2969a5f572593fbb" sha1="bb8eaf527b2cbf2f5536da42f1d4546ceb3d7ccd" date="1993-04-18 22:55:48"/>
-		<rom name="720.HEP" size="3432" crc="f9d3fc85" md5="c520d7b8bef39602d59b244fb62bc7e8" sha1="3205468717fc6bbeec52a5c086145eef11cfaa53" date="1993-04-18 09:24:06"/>
-		<rom name="720.SCR" size="2858" crc="5ddc1fc7" md5="d069b86f3bc3a384e9214fdace35efde" sha1="8ef1701b1d2a651440b6a7a6567fc93b8b43cf87" date="1993-04-18 09:24:06"/>
-		<rom name="ADL.DRV" size="9295" crc="2596aa71" md5="5b3b93130e29620927a2056ca1d31084" sha1="01af3ec72b8b94ccc088d61538d75046d5f6c19e" date="1992-10-02 09:30:04"/>
-		<rom name="AUDBLAST.DRV" size="6552" crc="6e285dc6" md5="8988cd85741a3575fb0813ee437a6282" sha1="3ade51030c9d9027f5068cae7be9ea9e3be532ab" date="1993-02-01 07:03:16"/>
-		<rom name="AUDCDROM.DRV" size="726" crc="9a9ea8c3" md5="ecd42511321491c16447744d33aff9cb" sha1="117897aa7ff3a07f4ece42bb3572598a4278fc00" date="1993-02-08 13:32:30"/>
-		<rom name="AUDDISNY.DRV" size="5280" crc="d1dcfbb4" md5="9ef05c13681c16c45fc54c10feb51815" sha1="2ddc3958515a53a956efb39c9ff0f23e0f2c308c" date="1993-02-01 07:03:12"/>
-		<rom name="AUDMSSYS.DRV" size="3995" crc="885ee375" md5="dc8e1d36ca78b15672d2e1a62a7cb069" sha1="f09c20ef76b10bc0136c5d17ae3a396ecbba5dd4" date="1993-02-01 07:02:56"/>
-		<rom name="AUDNONE.DRV" size="1100" crc="2deb6ee1" md5="2c7dc2f6d8cb40e6e361a2d6bf8bcf43" sha1="ca645da8cf869e3bc2a93c34d0f4412d43f65abe" date="1993-02-01 07:02:50"/>
-		<rom name="AUDPRO.DRV" size="6113" crc="f13c1f73" md5="9bbe259708ee9695133d9d24f2409065" sha1="cdc5650b980b49a3192717036bf1741aeae3534f" date="1993-03-16 08:50:06"/>
-		<rom name="AUDPRO16.DRV" size="4109" crc="1a938d51" md5="f622cd009615cbf37105fc80c77544d2" sha1="f4c8525b4aefbc15f08a55c7909b6302701e7b60" date="1993-02-01 07:03:06"/>
-		<rom name="AUDPS1.DRV" size="4859" crc="6dc64007" md5="e813414fdd141446a687745388b75517" sha1="d70113b694beb5854f5d89f008d5e4b623ed5df9" date="1993-02-01 07:02:46"/>
-		<rom name="AUDTHUND.DRV" size="6579" crc="628e7ec2" md5="8d1987ef799c70480378e8eaaba98b0e" sha1="28a9f9e6aa0f3ea870b91b944819f9bc6c72d55a" date="1993-02-01 07:03:00"/>
-		<rom name="EGA640.DRV" size="5923" crc="f55a1183" md5="36e21e035d55cf46308a6e685fbc328f" sha1="132d3a88c5638703ef91db0c8547cf4268bac232" date="1992-05-11 11:54:40"/>
-		<rom name="GENMIDI.DRV" size="2549" crc="7b72c3f8" md5="22aa153907cb69d5aac4b128555f7b62" sha1="108131afe980ebf608d95b5eddd44075262977cb" date="1993-01-13 10:01:40"/>
-		<rom name="IBMKBD.DRV" size="758" crc="8caddcb1" md5="3e33931a9bfe41408806d392c26f57b3" sha1="362a05ef7487397c085bf733d329b141ea8347b8" date="1993-02-10 14:01:24"/>
-		<rom name="IBMPS1.DRV" size="4018" crc="bc5b5bbe" md5="eacc88538ed711cc103e3c9bd40efc86" sha1="6f37810818e5d4c77f40950bb1695de55652daf8" date="1992-07-09 15:54:50"/>
-		<rom name="INSTALL.EXE" size="75896" crc="6ea3c94f" md5="f3707cd100d8b1552ace46a5fa4e3dee" sha1="ef82ada6a3671af35c7cccecc27a49eaba835d74" date="1993-04-14 11:42:34"/>
-		<rom name="INSTALL.HLP" size="17637" crc="5e8e91da" md5="d47900a162ea77a7e185a176cd77c64a" sha1="f1b752efa0a2e6a29aba7ab5a91472a2e45a895f" date="1993-03-12 08:50:52"/>
-		<rom name="INSTALL.SCR" size="4740" crc="6cd7f210" md5="b8773e4f843723cc530f63816f9493f0" sha1="1b3967cd67978f326c400dd5a3cc50df1b013e62" date="1993-04-16 15:56:44"/>
-		<rom name="INSTALL.TXT" size="9438" crc="3b84f25e" md5="ddcc8e78a6f9df75bae2925b1e1eef35" sha1="5858219b9a009da431826c6d13020f1bd9c109db" date="1993-02-22 15:09:46"/>
-		<rom name="INTERP.ERR" size="6158" crc="407fc3c1" md5="d04ebc1cc8f6d247ee19ab40bdff531e" sha1="597690966090ca0fb26c1ea187d4eba2a19df7fa" date="1993-04-02 10:06:00"/>
-		<rom name="JOYSTICK.DRV" size="607" crc="baeddd01" md5="c75b73974160ff652a909a0d01f97214" sha1="bc843d1164e8262349454664740dfa5a5d4f1618" date="1991-07-01 09:05:54"/>
-		<rom name="MESSAGE.MAP" size="596" crc="c546223c" md5="3ec24765153fa639bdd3c7cbd3f78b90" sha1="751896bfd23242756f223235dd5d6ba82318ed2d" date="1993-04-16 16:07:20"/>
-		<rom name="MICROSOF.DRV" size="9725" crc="0d41aba3" md5="963fc9e3860753fce5ad00815288c5a7" sha1="71e62fc380824234f278aed16984d3df00653f16" date="1993-01-28 13:10:38"/>
-		<rom name="MT32.DRV" size="2542" crc="a885862d" md5="e2bcbb34b6bfe586c52605258ef9a312" sha1="a3fa61612dcd448a4a1fab54cf64e4c0b1e51559" date="1993-01-13 10:52:12"/>
-		<rom name="PROAUDIO.DRV" size="9909" crc="6bd30391" md5="09cd350cef9fa31487365942e282cd07" sha1="3fa67eac1072a8924a7927a05c718f40a3052508" date="1993-03-16 10:57:58"/>
-		<rom name="READ.ME" size="5577" crc="346e45d1" md5="134feb12892f88c01d4a0ee60fa0c4ac" sha1="7674ab48c668828d63ae87e1393e44ab3092b8be" date="1993-04-19 13:26:46"/>
-		<rom name="README.BAT" size="29" crc="0ccee6a6" md5="c826a3d09b06f4f45e5383732f742737" sha1="955dcdcc5a4ed6a45e00cf50c2e57025317ecaac"/>
-		<rom name="RESOURCE.000" size="5233230" crc="7cded47f" md5="0b85b81519b05affce6a764c5708256b" sha1="0d540a1156007000e0d9caa15f2f827c0da0321f"/>
-		<rom name="RESOURCE.AUD" size="4123462" crc="cd21fead" md5="fbac7fe90ea61c7232a328ccb3c09d30" sha1="53103c1d6031c88be3f8f4910ae8d9df588f9c96"/>
-		<rom name="RESOURCE.CFG" size="303" crc="cdd5f0a4" md5="f2083b1aa9ccf4cd34faa8d162ffceca" sha1="9b86cd0084ddfe8eeaa1f33a330bc41aa7c38df8"/>
-		<rom name="RESOURCE.MAP" size="5816" crc="356fed16" md5="5d6ba5fe9528da7b8a1132e251d589be" sha1="d161d0b07e89b017a04d821e399ca7e4bf04f044" date="1993-04-16 16:23:22"/>
-		<rom name="RESOURCE.MSG" size="331706" crc="005841fd" md5="f98b8c693321003c783842a4557f59a0" sha1="43c5f9bc36266b5eb3d71a2f972b1c1cdac13683" date="1993-04-16 16:07:20"/>
-		<rom name="SBPRO.DRV" size="9766" crc="5dd20d37" md5="1ecb03e9ef121104b9a5cb6a44a5e061" sha1="d8f711fe52ab045d74e154bde17ac9e350393de3" date="1993-03-16 11:11:36"/>
-		<rom name="SIERRA.EXE" size="71005" crc="cb2974d0" md5="7cc5255876f22d531a261d06fed6349a" sha1="e96c5f56b32d13feac7a427b73404282c84cd4f5" date="1993-04-12 15:59:00"/>
-		<rom name="STD.DRV" size="1481" crc="578efe57" md5="aa444eeb77bc162d0ee52379df408358" sha1="bdc955928878536bc2bd664eec8f9968483e2c0f" date="1993-03-17 09:37:54"/>
-		<rom name="TANDY3V.DRV" size="4029" crc="02910016" md5="30b93377dbfe1b748d3f4e70d8ebef9a" sha1="714945a970fccd1554fb75621561bec5fc35232b" date="1992-07-09 15:54:58"/>
-		<rom name="VERSION" size="7" crc="8ec4273a" md5="fa5ccbff55174b9e9881db1aa6126c62" sha1="eb3564da37431989b58412975a92b2512d69e13d" date="1993-04-19 15:40:30"/>
-		<rom name="VGA320.DRV" size="8252" crc="9f7e188a" md5="66e9037b9913d1ecf67a251bcac1b327" sha1="00ca3a5a742436c980ef6084ac49b247a0c79ef6" date="1993-02-09 17:40:04"/>
-		<rom name="VGA320BW.DRV" size="5905" crc="19838a03" md5="143ce4219d360a31cb2d01aa81019af7" sha1="a3db064a90b725a103dd68482bda0992c9dad495" date="1992-09-05 11:22:14"/>
 	</game>
 	<game name="Gobliins 2 (1992) (Coktel Vision).dosz">
 		<description>Gobliins 2</description>
