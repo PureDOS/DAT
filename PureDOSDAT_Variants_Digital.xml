@@ -887,10 +887,11 @@
 	</game>
 	<game name="Star Wars - TIE Fighter - Collector's CD-ROM (1995) (LucasArts) (GOG).dosz">
 		<description>Star Wars - TIE Fighter - Collector's CD-ROM</description>
-		<comment_dosc>Default GOG config and auto start</comment_dosc>
+		<comment_dosc>Default GOG config and auto start. General MIDI option</comment_dosc>
 		<year>1995</year>
 		<developer>LucasArts</developer>
 		<variant>GOG</variant>
+		<link type="store">https://www.gog.com/en/game/star_wars_tie_fighter_special_edition</link>
 		<rom name="ASTREAM/A.WRK" size="2935770" crc="91b4dbdf" md5="10bafabcda2efa3cd5a57c80328fd79b" sha1="69660872e1bbaaf57213928e138c8e968907bac3"/>
 		<rom name="ASTREAM/CHASE1B.WRK" size="462240" crc="502bb664" md5="f7b523c512c7cc0c0d25b537454fa52a" sha1="2b7a3282691ace7fcbd9ea2b8ade8cefe401615c"/>
 		<rom name="ASTREAM/CITY.WRK" size="348917" crc="32f0bcda" md5="e90a38a23e7cf9b29dc04168bb51d800" sha1="b38fbe659b327e3fad967ecba612099970c5a5f0"/>
@@ -1276,12 +1277,13 @@
 		<rom name="Z_TIE2__.EXE" size="12630" crc="95202efa" md5="7182f4888f405fc1b8244e932d6b666f" sha1="9386a3097d90f9d9ebc7a126c4d382cdef08e2a9"/>
 		<rom name="Z_TIE__.EXE" size="1031495" crc="00e8c644" md5="b13baed386bf1798a658ba66694105ff" sha1="699565eff973bbb4d7a99ea3db7a0d798a4ad1ea"/>
 	</game>
-	<game name="Star Wars - TIE Fighter + Defender of the Empire (1994) (LucasArts) (GOG).dosz">
+	<game name="Star Wars - TIE Fighter + Defender of the Empire (1994) (LucasArts) (GOG, Floppy Version).dosz">
 		<description>Star Wars - TIE Fighter + Defender of the Empire</description>
-		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
+		<comment_dosc>Sound Blaster 16 config and auto start. MT-32 and General MIDI options</comment_dosc>
 		<year>1994</year>
 		<developer>LucasArts</developer>
-		<variant>GOG</variant>
+		<variant>GOG, Floppy Version</variant>
+		<link type="store">https://www.gog.com/en/game/star_wars_tie_fighter_special_edition</link>
 		<rom name="AWEMID.MDR" size="17096" crc="67e10a2e" md5="8559c4e9399801aaaed1cc452661a288" sha1="ded5b3540280fd77622ea7515f2f84abd4d02454"/>
 		<rom name="AWEWAV.WDR" size="3428" crc="17b8ee23" md5="a5f83b0512960d188baa973cc3939ee5" sha1="61919da15e0a623300950252f892c33434b08fa7"/>
 		<rom name="BOOTDISK.EXE" size="54351" crc="05bd71d9" md5="6b1101fe05bb0e967e014bcb768dc63e" sha1="0d5bf62f5f5df77ec99b44652202733ed81e805d"/>
