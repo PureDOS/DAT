@@ -5049,7 +5049,7 @@
 	</game>
 	<game name="Freddy Pharkas - Frontier Pharmacist (1993) (Sierra On-Line).dosz">
 		<description>Freddy Pharkas - Frontier Pharmacist</description>
-		<comment>Maximum install from CD, with AUDIO folder manually copied from disc. Options: Sound Blaster Pro music, Sound Blaster audio, mouse enabled, extra memory enabled, directory C:\SIERRA\FPFPCD. In RESOURCE.CFG, line 15 must be edited to " patchDir  = C:\;C:\audio    " and line 16 must be edited to " resAUD    = C:\audio           ". Almost matches with GOG, except for RESOURCE.CFG</comment>
+		<comment>Maximum install from CD, with AUDIO folder manually copied from disc. Options: Sound Blaster Pro music, Sound Blaster audio, mouse enabled, extra memory enabled, directory C:\SIERRA\FPFPCD. In RESOURCE.CFG, line 8 ( directory = \SIERRA\FPFPCD) must be deleted, line 15 must be edited to " patchDir  = C:;C:\audio", and line 16 must be edited to " resAUD    = C:\audio" (no spaces at the end of these lines). Almost matches with GOG, except for RESOURCE.CFG</comment>
 		<comment_dosc>Required RESOURCE.CFG and auto start. MT-32 option</comment_dosc>
 		<year>1993</year>
 		<developer>Sierra On-Line</developer>
@@ -5123,7 +5123,7 @@
 		<rom name="PROAUDIO.DRV" size="9909" crc="10226ead" md5="184fbf00cfb5cf1f6ef43982a9045d56" sha1="cdbc8c1c8918527344b9c6b3eee8002cd5b6d8b9" date="1993-03-19 13:55:28"/>
 		<rom name="READ.ME" size="2347" crc="66f45660" md5="d1f2dedb960d33fd325179721e2226ad" sha1="f310bafe502d787fb03a6c0bd6ad640fa706c2c6" date="1994-09-16 17:47:02"/>
 		<rom name="RESOURCE.000" size="5490246" crc="aa7a41ad" md5="25ee9f7e9ff3c47e24cf061bcbd5bf54" sha1="8d8e3811f2ae94bedbd183c74a71164233091a5e" date="1994-09-20 16:51:28"/>
-		<rom name="RESOURCE.CFG" size="394" crc="5bd6f6e3" md5="35227fb9248761b2d5df98d2f348a543" sha1="524403b9fee8531ed5702929cbfea286dd4e8563"/>
+		<rom name="RESOURCE.CFG" size="349" crc="855776ce" md5="d3a7dc0412cc3d003b06ef081dc5df7e" sha1="fa1e32ee90a36696e445d518dc338675c435bc0f"/>
 		<rom name="RESOURCE.MAP" size="6058" crc="c76ff860" md5="c421287532ed6192f4a55918ee2650a0" sha1="ecc7698966f79f1e71c51d4b70dc44c477d994e8" date="1994-09-20 16:51:28"/>
 		<rom name="RESOURCE.SFX" size="16743534" crc="84be194a" md5="cfed0ff63d616554f85034355ac79785" sha1="812f817e9151717d241d060827f442b7521d8e39" date="1994-09-20 16:48:14"/>
 		<rom name="SBPRO.DRV" size="9766" crc="5dd20d37" md5="1ecb03e9ef121104b9a5cb6a44a5e061" sha1="d8f711fe52ab045d74e154bde17ac9e350393de3" date="1993-03-16 11:11:36"/>
