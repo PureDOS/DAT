@@ -254,6 +254,25 @@
 		<variant>Installation</variant>
 		<rom name="disk1.img" size="368640" crc="d5e7c2ff" md5="e7f5a9fdf8d83b3924d1d98fb5d8266d" sha1="09cdf2f26f13b900a4910b4b456464320710d2cf"/>
 	</game>
+	<game name="Out of This World (1991) (Delphine Software) (Installation).dosz">
+		<description>Out of This World</description>
+		<comment>Redump-verified CD-ROM of Out of This World (USA) (Rerelease)</comment>
+		<year>1991</year>
+		<developer>Delphine Software</developer>
+		<variant>Installation</variant>
+		<rom name="Out of This World (USA) (Rerelease).chd" size="279542016" crc="3f20cef5" md5="7df8219370ab7cf79b38e532c9b1da5a" sha1="b12a6f73d95d76863f472a174303edd68dcbc1db">
+			<track number="1" type="MODE1_RAW" frames="92655" pregap="0" duration="20:35:30" size="217924560" crc="e7c6d372" md5="021c3300ecf3082bc2ad0faa871995dd" sha1="b5cf6aa21f461215f9a73670f6feb35d1caad4ce" in_zeros="1" out_zeros="0"/>
+			<track number="2" type="AUDIO" frames="2555" pregap="149" duration="00:34:05" size="6009360" crc="3653683a" md5="5c15bef2ecf745ba4146ee9f975dae8c" sha1="56749ada161fb256913acd26a6bda1f025d0bc93" in_zeros="354126" out_zeros="3"/>
+			<track number="3" type="AUDIO" frames="2527" pregap="150" duration="00:33:52" size="5943504" crc="f011f08b" md5="d7bd351c65f5a638fffc29e979d48760" sha1="2a76f1ff5e08881fcbd1d30d38d04141a096161f" in_zeros="0" out_zeros="0"/>
+			<track number="4" type="AUDIO" frames="2715" pregap="150" duration="00:36:15" size="6385680" crc="5af83beb" md5="904ed8166fd49b17b5a95e5b87e12433" sha1="687c93addc56c7402d977382d93ed002da1784a5" in_zeros="0" out_zeros="349485"/>
+			<track number="5" type="AUDIO" frames="2337" pregap="0" duration="00:31:12" size="5496624" crc="9ddfd50f" md5="2af2c885c83f42c2efe9915db9b10c5a" sha1="6d626bfd29f8e02fb5a020b6878f9514e39ce31c" in_zeros="4008" out_zeros="0"/>
+			<track number="6" type="AUDIO" frames="2474" pregap="150" duration="00:32:74" size="5818848" crc="decf37a0" md5="20dfeda29f7f7fc050e7545f8f03a344" sha1="68bc8bd85059f531b49a37491cb19fb6c39b3cff" in_zeros="8" out_zeros="8"/>
+			<track number="7" type="AUDIO" frames="450" pregap="150" duration="00:06:00" size="1058400" crc="18e99015" md5="de697adb7d61d7426df309890900e52c" sha1="599879f46537dd56c7f79644946872dd2e857168" in_zeros="6" out_zeros="140937"/>
+			<track number="8" type="AUDIO" frames="6264" pregap="150" duration="01:23:39" size="14732928" crc="861662f9" md5="f217d51a3a439731e1ac5513b1fb631c" sha1="5f6f8ed9e1ec8a88aa99d1f0470ca546123a74c1" in_zeros="356416" out_zeros="0"/>
+			<track number="9" type="AUDIO" frames="3014" pregap="150" duration="00:40:14" size="7088928" crc="c08d60e9" md5="7fd9e8aed2e9c37bc071e81cef56b32f" sha1="85054ccfedae4e695e6e14bee888c4846182168d" in_zeros="0" out_zeros="0"/>
+			<track number="10" type="AUDIO" frames="734" pregap="150" duration="00:09:59" size="1726368" crc="300e8553" md5="77894b232602d3cdd65573a8144ea0b9" sha1="fa08cdc1e90e92098a686812a4db9a6cec35e7c5" in_zeros="0" out_zeros="527643"/>
+		</rom>
+	</game>
 	<game name="Ultimate Doom, The (1995) (id Software) (Installation).dosz">
 		<description>Ultimate Doom, The</description>
 		<year>1995</year>
