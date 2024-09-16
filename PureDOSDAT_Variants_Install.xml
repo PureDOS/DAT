@@ -10,6 +10,30 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
 	</header>
+	<game name="Alien Breed (1993) (Team 17) (Installation).dosz">
+		<description>Alien Breed</description>
+		<comment>Disk image that matches The Good Old Days ID:708</comment>
+		<year>1993</year>
+		<developer>Team 17</developer>
+		<variant>Installation</variant>
+		<rom name="disk1.img" size="1474560" crc="290b4415" md5="4c68650818babb5951cb2b26cc9a4c54" sha1="0f9d5322520b8de908dd7dce1980bd9e322f6685"/>
+	</game>
+	<game name="Bedlam (1996) (GT Interactive) (Installation).dosz">
+		<description>Bedlam</description>
+		<comment>Redump-verified version of Bedlam (USA)</comment>
+		<year>1996</year>
+		<developer>GT Interactive</developer>
+		<rom name="Bedlam (USA).chd" size="449354880" crc="289aa5f6" md5="08e6d4686283fedb35b11a6b5c9232b8" sha1="4099700fbae91f3da4ff613403c28a6502e3e52b">
+			<track number="1" type="MODE1_RAW" frames="72232" pregap="0" duration="16:03:07" size="169889664" crc="eed02bec" md5="fd60af2411bb5824d767e3e425027660" sha1="a379a62b2806801be05cbec2e494ec37a50d61b1" in_zeros="1" out_zeros="0"/>
+			<track number="2" type="AUDIO" frames="16921" pregap="149" duration="03:45:46" size="39798192" crc="5fb405f9" md5="80908e7315907a83d7401a2b6806142b" sha1="605b9dc46d0b5c8abda688ab1c5d549a639aaba9" in_zeros="358678" out_zeros="705273"/>
+			<track number="3" type="AUDIO" frames="17056" pregap="150" duration="03:47:31" size="40115712" crc="3bd3e71a" md5="778313933d7b9d75adc519448953635f" sha1="30530e8f16dafa50d20d27f5b90d725e2f315c62" in_zeros="358654" out_zeros="704210"/>
+			<track number="4" type="AUDIO" frames="16182" pregap="150" duration="03:35:57" size="38060064" crc="3548f85f" md5="76d17d8f951e1c8023f52affa4477bbd" sha1="5f34bb2dbf37fb960f12fcc4d4ca8dc3ddf01fe6" in_zeros="362854" out_zeros="700775"/>
+			<track number="5" type="AUDIO" frames="16488" pregap="150" duration="03:39:63" size="38779776" crc="8db100a3" md5="ec1d8d557935962256137d15590a51aa" sha1="040d1929da4a24cce69afeace42f6db33c0e15d2" in_zeros="362374" out_zeros="701283"/>
+			<track number="6" type="AUDIO" frames="15875" pregap="150" duration="03:31:50" size="37338000" crc="07abc8b5" md5="97880c0b09fd07411fe16190038b394a" sha1="6ca9ca7c1ed877c8566426aebb3b8f29a63b03a6" in_zeros="361272" out_zeros="703474"/>
+			<track number="7" type="AUDIO" frames="16230" pregap="150" duration="03:36:30" size="38172960" crc="fae599da" md5="fbb49518a6cfe1fe40478e0711909e45" sha1="1c6440ca2c9f20cdc277336a473b84729b532a3f" in_zeros="362566" out_zeros="700622"/>
+			<track number="8" type="AUDIO" frames="15637" pregap="150" duration="03:28:37" size="36778224" crc="ffd79b1b" md5="e8e6eaf74e636f02f0ca6ceb89d84fb4" sha1="3a018b5ce17f142039879034d64f43a222870fe6" in_zeros="363214" out_zeros="699890"/>
+		</rom>
+	</game>
 	<game name="Beyond Zork - The Coconut of Quendor (1987) (Infocom) (Installation).dosz">
 		<description>Beyond Zork - The Coconut of Quendor</description>
 		<comment>Version 57, Serial 871221 1987 3.5" floppy disk</comment>
@@ -38,6 +62,23 @@
 			<track number="1" type="MODE1_RAW" frames="263040" pregap="0" duration="58:27:15" size="618670080" crc="25379a53" md5="2a0de5f9474b892a5609c53079b6a851" sha1="5a7c2e463c6b856de0c2e634f1d742c70ad69140"/>
 		</rom>
 	</game>
+	<game name="Castlevania (1990) (Konami) (Installation).dosz">
+		<description>Castlevania</description>
+		<year>1990</year>
+		<developer>Konami</developer>
+		<variant>Installation</variant>
+		<media_link>https://www.goodolddays.net/diskimages/id%2C1898/</media_link>
+		<rom name="disk01.img" size="737280" crc="9776cd95" md5="b4788f1222eda2d3e751cfb5084f9b4d" sha1="444fd99964e5c8e1b8fdbeae5c07299d966186a6"/>
+	</game>
+	<game name="Chex Quest (1996) (Digital Cafe) (Installation).dosz">
+		<description>Chex Quest</description>
+		<year>1996</year>
+		<developer>Digital Cafe</developer>
+		<variant>Installation</variant>
+		<rom name="Chex Quest (USA).chd" size="339606144" crc="aa5c3bd5" md5="a649838fade0065b0209de7cd5b995be" sha1="d51b7d5fb5e56ddae7bea686678af311f41bd95c">
+			<track number="1" type="MODE1_RAW" frames="138689" pregap="0" duration="30:49:14" size="326196528" crc="aa9d8045" md5="cfbebc31b492ed9691ed4580dbdcb8a2" sha1="32759f9de67831f3bc5ab802dcdd75965ed10296" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
 	<game name="Cyberbykes - Shadow Racer VR (1995) (Gametek) (Installation).dosz">
 		<description>Cyberbykes - Shadow Racer VR</description>
 		<year>1995</year>
@@ -47,6 +88,15 @@
 			<track number="1" type="MODE1_RAW" frames="327839" pregap="0" duration="72:51:14" size="771077328" crc="ed82fc25" md5="86aa6ebfc9618c57139790e1b2ac5f6b" sha1="9f884724e21ae3df717a375a5ddae2f887f7c3ca"/>
 		</rom>
 	</game>
+	<game name="Descent (1995) (Parallax Software) (Installation).dosz">
+		<description>Descent</description>
+		<year>1995</year>
+		<developer>Parallax Software</developer>
+		<variant>Installation</variant>
+		<rom name="Descent - Anniversary Edition (USA).chd" size="97939584" crc="442a1693" md5="464eaea1ab0e3ef70781e3781a0baa9c" sha1="a751362f14a8e683ef90f2776be0c83a07409c19">
+			<track number="1" type="MODE1_RAW" frames="39989" pregap="0" duration="08:53:14" size="94054128" crc="2c7dfb2e" md5="4192ae6d5e831e7ff51adf83b0873277" sha1="7ca8db8efa193146030c39525cf9d06f3591ca56" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
 	<game name="Doom II (1994) (id Software) (Installation).dosz">
 		<description>Doom II</description>
 		<year>1994</year>
@@ -54,6 +104,26 @@
 		<variant>Installation</variant>
 		<rom name="Doom II (USA) (v1.9).chd" size="31824000" crc="d62437b9" md5="84de4ede7a57360a775e6a4100ed1439" sha1="cb36a4ce84926d43ff64af6b73358e4c653eb2d3">
 			<track number="1" type="MODE1_RAW" frames="12991" pregap="0" duration="02:53:16" size="30554832" crc="f167628b" md5="b06b0d9245b60cd9649413f47c43c164" sha1="208a68cc32f421dfde34a6dba2d1bff67f4b9ad7" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
+	<game name="Elder Scrolls Adventures, The - Redguard (1998) (Bethesda Softworks) (Installation).dosz">
+		<description>Elder Scrolls Adventures, The - Redguard</description>
+		<year>1998</year>
+		<developer>Bethesda Softworks</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/2071/</link>
+		<rom name="Elder Scrolls Adventures, The - Redguard (USA) (Disc 1) (Install Disc).chd" size="388761984" crc="1756af8b" md5="72c09e24a9aa1366f4b122697521838e" sha1="c35a9d5a67feb727b96bb090e2c3bea34e4fb6ed">
+			<track number="1" type="MODE1_RAW" frames="158761" pregap="0" duration="35:16:61" size="373405872" crc="4123900d" md5="470ce60627e52d8c7ea84a3eca9f2482" sha1="a43c6a3d3306028e8dafb916df1cf058f296399c" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
+	<game name="Epic Pinball (1993) (Epic MegaGames) (Installation).dosz">
+		<description>Epic Pinball</description>
+		<comment>Redump-verified CD: Epic Pinball (USA) (Rerelease) (1997-03-18)</comment>
+		<year>1993</year>
+		<developer>Epic MegaGames</developer>
+		<variant>Installation</variant>
+		<rom name="Epic Pinball (USA) (Rerelease) (1997-03-18).chd" size="17527680" crc="231416f5" md5="6b08ec1d795074fe4658160d4ea72cf2" sha1="5d3a76ccf7f19d9e47037d2b543cdbf146fac866">
+			<track number="1" type="MODE2_RAW" frames="7147" pregap="0" duration="01:35:22" size="16809744" crc="3c06366d" md5="4e17986fb980f0bdd60cabd4de85eaff" sha1="c48261f4e4907986fe6042ac534a61978945a0f6" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
 	<game name="Final Doom (1996) (id Software) (Installation).dosz">
@@ -210,6 +280,17 @@
 		<variant>Installation</variant>
 		<rom name="Ultimate Doom, The (USA).chd" size="28005120" crc="552628d8" md5="9800ed15c1acba4bc379bd3cf1bcb89d" sha1="e6c7c8e1f23cb76ef432349c4261fe5abfc406ef">
 			<track number="1" type="MODE1_RAW" frames="11431" pregap="0" duration="02:32:31" size="26885712" crc="a9898633" md5="f0e687b879e13e9b230b47ba28288468" sha1="5de4c416ed6b25324120ad0ba4f7a26bc51a4190" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
+	<game name="Red Baron (1990) (Dynamix) (Installation).dosz">
+		<description>Red Baron</description>
+		<comment>SierraOriginals CD-ROM. Also includes installer for A-10 Tank Killer</comment>
+		<year>1990</year>
+		<developer>Dynamix</developer>
+		<variant>Installation</variant>
+		<media_link>http://redump.org/disc/10602/</media_link>
+		<rom name="Red Baron (USA).chd" size="48372480" crc="f942e723" md5="69f53c684ee16443919cc913005d5ff3" sha1="71a447272cfde5dbfdcc63ad1a5b6c3effd5ee90">
+			<track number="1" type="MODE1_RAW" frames="19746" pregap="0" duration="04:23:21" size="46442592" crc="e80700a1" md5="e997bc0ce05e9a46489ebab6662b9433" sha1="8eb230db83fa549b2f059fe5aae8656b4a535058" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
 	<game name="Return to Zork (1993) (Infocom) (Installation).dosz">
@@ -411,6 +492,26 @@
 			<track number="6" type="AUDIO" frames="17201" pregap="0" duration="03:49:26" size="40456752" crc="6df9cb0b" md5="f6fdecb195495f4361e4fd10cb1ec814" sha1="d1e61e0b770de2ab523c66b7f9b2c83c194ce34e" in_zeros="19714" out_zeros="1060757"/>
 			<track number="7" type="AUDIO" frames="16352" pregap="0" duration="03:38:02" size="38459904" crc="03a04050" md5="91572bec099bf08e29a254d96be6f2c3" sha1="ab1ca0881d21f24cfb1eea8302cacc72cc5dce4a" in_zeros="21266" out_zeros="1073089"/>
 			<track number="8" type="AUDIO" frames="17779" pregap="0" duration="03:57:04" size="41816208" crc="53e0141c" md5="5d7ca6b788c30b78c7ae456d391c6d3e" sha1="07d2a9d51fa6742ff6430d5057e81650e80d94be" in_zeros="18942" out_zeros="1055089"/>
+		</rom>
+	</game>
+	<game name="X-COM - Terror from the Deep (1995) (Microprose) (Installation).dosz">
+		<description>X-COM - Terror from the Deep</description>
+		<year>1995</year>
+		<developer>Microprose</developer>
+		<variant>Installation</variant>
+		<rom name="X-COM - Terror from the Deep (USA) (En,Fr,De,Es).chd" size="85268736" crc="5637cd9f" md5="8ef4e4731b3fda9f984abd341e756ade" sha1="9ba51d66cd79c2f112d6997b96ade0b2b55eea58">
+			<track number="1" type="MODE1_RAW" frames="34819" pregap="0" duration="07:44:19" size="81894288" crc="ad2fc02a" md5="4b9f3d7d2c686f6b70b08197f736434a" sha1="80572e89fbe39b634abd0134751b3a832c04e6bf" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
+	<game name="X-COM - UFO Defense (1994) (Microprose) (Installation).dosz">
+		<description>X-COM - UFO Defense</description>
+		<comment>1997 CD-ROM re-release</comment>
+		<year>1994</year>
+		<developer>Microprose</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/34427/</link>
+		<rom name="X-COM - UFO Defense (USA) (En,Fr,De).chd" size="31040640" crc="83a7eb93" md5="06063c285578c1f17699921f3ed517b9" sha1="52f064ee38314f82ddba6a8789de51f7436e61ce">
+			<track number="1" type="MODE1_RAW" frames="12665" pregap="0" duration="02:48:65" size="29788080" crc="7a850409" md5="ba84986cad1caafbfa233af33a30e9ad" sha1="6a3d23ef91a56b404a5e9611c58113c00c07c012" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
 	<game name="Zork I - The Great Underground Empire (1980) (Infocom) (Installation).dosz">
