@@ -330,10 +330,11 @@
 	<game name="Boom + Doom II (1998) (TeamTNT).dosz">
 		<description>Boom + Doom II</description>
 		<comment>v2.02</comment>
-		<comment_dosc>Auto start</comment_dosc>
+		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
 		<year>1998</year>
 		<developer>TeamTNT</developer>
 		<parent>Doom II (1994) (id Software).dosz</parent>
+		<link type="freeware">https://www.doomworld.com/idgames/themes/TeamTNT/boom/boom202</link>
 		<rom name="ABOUT.TXT" size="1372" crc="05c2554c" md5="0b3c646b63468551051ea2f775d221df" sha1="19ac4a706c368a3b9249ba35942270448babc61d" date="1999-10-09 17:03:54"/>
 		<rom name="ASETUP.EXE" size="238752" crc="41dbbb0e" md5="b484fc0b71e22b51e67c26a2d66feaa8" sha1="0870e25f1c90b1add0f6eed46930e45915a6ce3e" date="1998-04-06 09:34:06"/>
 		<rom name="BOOM.EXE" size="453496" crc="8b51fcf1" md5="4dd1091ef987c3941a619d1d7b154244" sha1="959369a884764081d32fda622d06b5b66e47d3a5" date="1999-10-09 17:06:50"/>
@@ -352,10 +353,11 @@
 	<game name="Boom + The Ultimate Doom (1998) (TeamTNT).dosz">
 		<description>Boom + The Ultimate Doom</description>
 		<comment>v2.02</comment>
-		<comment_dosc>Auto start</comment_dosc>
+		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
 		<year>1998</year>
 		<developer>TeamTNT</developer>
 		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<link type="freeware">https://www.doomworld.com/idgames/themes/TeamTNT/boom/boom202</link>
 		<rom name="ABOUT.TXT" size="1372" crc="05c2554c" md5="0b3c646b63468551051ea2f775d221df" sha1="19ac4a706c368a3b9249ba35942270448babc61d" date="1999-10-09 17:03:54"/>
 		<rom name="ASETUP.EXE" size="238752" crc="41dbbb0e" md5="b484fc0b71e22b51e67c26a2d66feaa8" sha1="0870e25f1c90b1add0f6eed46930e45915a6ce3e" date="1998-04-06 09:34:06"/>
 		<rom name="BOOM.EXE" size="453496" crc="8b51fcf1" md5="4dd1091ef987c3941a619d1d7b154244" sha1="959369a884764081d32fda622d06b5b66e47d3a5" date="1999-10-09 17:06:50"/>
@@ -872,16 +874,6 @@
 		<rom name="VGA/SHPLY.VGA" size="24416" crc="72e35f72" md5="994abcfb78ab79329d23fcd2d903d049" sha1="170375d38c99ab96cba7301a1f9341f50585281c" date="1995-06-19 21:38:00"/>
 		<rom name="VGA/SUR.VGA" size="20839" crc="51ecd850" md5="bea783389c42a32c8e971f8aa4bc1d3b" sha1="1bfc4e572a12064627fc5c0d12b188265a4603dc" date="1995-06-19 21:38:00"/>
 		<rom name="VGA/SURS.VGA" size="21364" crc="e82c34e9" md5="e79fe0ee93af419dcdbded356f9afa85" sha1="f7a099691c80d572682abd411ee7c01a63577bb6" date="1995-06-19 21:38:00"/>
-	</game>
-	<game name="Doom II - No Rest for the Living (2010) (Nerve Software).dosz">
-		<description>Doom II - No Rest for the Living</description>
-		<comment>Original version</comment>
-		<comment_dosc>Auto start</comment_dosc>
-		<year>2010</year>
-		<developer>Nerve Software</developer>
-		<parent>MBF-SNM + Doom II (2019) (Sakitoshi).dosz</parent>
-		<rom name="MBF-SNM + Doom II (2019) (Sakitoshi).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="NERVE.WAD" size="3819855" crc="ad7f9292" md5="967d5ae23daf45196212ae1b605da3b0" sha1="3451288383fb16e196f273d9f85d58c1fda97bf4"/>
 	</game>
 	<game name="Gobliins 2 (1992) (Coktel Vision).dosz">
 		<description>Gobliins 2</description>
@@ -1610,6 +1602,122 @@
 		<rom name="XMAS2.PSM" size="136849" crc="4bf10799" md5="2cff502e4831a658b1c63257838a3ebf" sha1="cb1483acc93019333d5923abead301e10b565afb" date="1995-09-27 03:01:40"/>
 		<rom name="XMAS3.PSM" size="181650" crc="fe0ed271" md5="f1f1b66abb6fa42dcb0221fb21c97319" sha1="d08254373447fc0e68b5f280f6367030dd27b2a7" date="1995-09-27 03:03:42"/>
 	</game>
+	<game name="Marine's Best Friend + Doom II (1998) (Lee Killough).dosz">
+		<description>Marine's Best Friend + Doom II</description>
+		<comment>v2.03</comment>
+		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
+		<year>1998</year>
+		<developer>Lee Killough</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<link type="freeware">https://www.doomworld.com/idgames/source/mbf</link>
+		<rom name="ASETUP.EXE" size="524800" crc="9006fb47" md5="49d865af954b0b6f26180b4d2d3f2be7" sha1="180f6cbcb1ba35a0a42db8ca997f92b46c8ae9c7" date="1998-09-08 18:28:22"/>
+		<rom name="BETAGRPH.WAD" size="750624" crc="d4cd6303" md5="2ed0f02281bee22bded4d4aac980558f" sha1="bd1b63d219622eddcb54825a85c65d5289c69ace" date="1998-10-18 18:57:14"/>
+		<rom name="BETALEVL.WAD" size="1157999" crc="ee40c68a" md5="3806ec51258d6fc1fae78b52809b631c" sha1="97d0f961ec7f08c3b6ba86230653b52daae98010" date="1998-11-01 23:59:48"/>
+		<rom name="COMMON.CFG" size="34531" crc="bdefc5e4" md5="574d3d4c168b345f6ca263ed466209cb" sha1="6b19ac0ad64e4375a68e7c73e1235b8ab1b25262" date="1998-11-01 22:29:58"/>
+		<rom name="COPYING" size="18445" crc="29c91be7" md5="155e6318a36dd84df99cb5d41b4ae3f0" sha1="c5d76dff23914c557b008c1870309ede7f7d3a02" date="1999-10-08 12:21:32"/>
+		<rom name="COPYING.DJ" size="1625" crc="9bc17601" md5="ead084c557c7d429bb510d631cec97db" sha1="e1438d76f1bfd045c1eb5e7cd0fbb6a25e65c312" date="1993-06-01 01:30:54"/>
+		<rom name="CWSDPMI.EXE" size="20217" crc="6ba5fa62" md5="7010b5c42dbe97b0c841f652a8580d90" sha1="f3e66d75aab6a3cece6fad9d09a07b1a15e2ad7a" date="1996-08-18 18:46:18"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOM17.DAT" size="13683" crc="d83b3d77" md5="37d3c5149f9adcad65893ab60d1b9340" sha1="d635a2b2361f1b8cddc656462aa11cc314d993e8" date="1998-11-16 01:07:06"/>
+		<rom name="DOOMLIC.TXT" size="5494" crc="1492fddd" md5="1cdfdebf5ce458980ccff1826add9e47" sha1="b735f2f4021989e6f598d50722b3d9d475fb2178" date="1998-01-26 19:29:26"/>
+		<rom name="EXAMPLES.ZIP" size="197647" crc="ee4ed5a2" md5="463ffa98316b0f54d00de590d6dba42a" sha1="e6c1eb69d159ecc73266762907547274c337d4e2" date="1999-01-02 14:01:44"/>
+		<rom name="MBF.EXE" size="1154048" crc="0abec956" md5="538da693e20431b1f20481c9b281029d" sha1="a374bccccaa4b337c74d5a86e4833fbf6fc39ea2" date="1999-01-02 12:19:14"/>
+		<rom name="MBF.TXT" size="14923" crc="19f05436" md5="a26a3d811857639d4492f0f5fc3d127f" sha1="5bd65025462e0ed47fa1405c72e88d3d60d7a2cb" date="2000-02-15 15:55:30"/>
+		<rom name="MBFEDIT.TXT" size="15632" crc="bf161cd3" md5="0657a2aa660384b66ae95b5dc68f5a08" sha1="25ed4990fe1a72cb2de5b7565f7db719d5d3001f" date="1998-12-24 08:22:54"/>
+		<rom name="MBFFAQ.TXT" size="6834" crc="36d15ea2" md5="4f0cebaa33f69d688b5c2d6a3d103a73" sha1="9bea43fa52a4830cb0905bca426143b014f78c81" date="1998-12-22 14:31:20"/>
+		<rom name="OPTIONS.TXT" size="17028" crc="38c3410f" md5="13f317640017c42ad4e6b8c0dccdbfc7" sha1="b7a2c73eb6906adc2ba805a92286c6b137e2b201" date="1998-12-22 12:01:28"/>
+		<rom name="README.1ST" size="695" crc="5e71a53d" md5="d2cc1bfda5ff90456d1d2348c25596c2" sha1="2979a91ee0ceafe0ba7353e50cc98e3bd42ca6f2" date="1999-01-02 11:56:54"/>
+		<rom name="SNDDRVR.TXT" size="9282" crc="2b8aafd3" md5="fdfad02a68447f94c8fe58af0139d24d" sha1="3502672622fde69ca5939687aa94d7b308c97f12" date="1998-05-12 11:41:06"/>
+	</game>
+	<game name="Marine's Best Friend + The Ultimate Doom (1998) (Lee Killough).dosz">
+		<description>Marine's Best Friend + The Ultimate Doom</description>
+		<comment>v2.03</comment>
+		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
+		<year>1998</year>
+		<developer>Lee Killough</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<link type="freeware">https://www.doomworld.com/idgames/source/mbf</link>
+		<rom name="ASETUP.EXE" size="524800" crc="9006fb47" md5="49d865af954b0b6f26180b4d2d3f2be7" sha1="180f6cbcb1ba35a0a42db8ca997f92b46c8ae9c7" date="1998-09-08 18:28:22"/>
+		<rom name="BETAGRPH.WAD" size="750624" crc="d4cd6303" md5="2ed0f02281bee22bded4d4aac980558f" sha1="bd1b63d219622eddcb54825a85c65d5289c69ace" date="1998-10-18 18:57:14"/>
+		<rom name="BETALEVL.WAD" size="1157999" crc="ee40c68a" md5="3806ec51258d6fc1fae78b52809b631c" sha1="97d0f961ec7f08c3b6ba86230653b52daae98010" date="1998-11-01 23:59:48"/>
+		<rom name="COMMON.CFG" size="34531" crc="bdefc5e4" md5="574d3d4c168b345f6ca263ed466209cb" sha1="6b19ac0ad64e4375a68e7c73e1235b8ab1b25262" date="1998-11-01 22:29:58"/>
+		<rom name="COPYING" size="18445" crc="29c91be7" md5="155e6318a36dd84df99cb5d41b4ae3f0" sha1="c5d76dff23914c557b008c1870309ede7f7d3a02" date="1999-10-08 12:21:32"/>
+		<rom name="COPYING.DJ" size="1625" crc="9bc17601" md5="ead084c557c7d429bb510d631cec97db" sha1="e1438d76f1bfd045c1eb5e7cd0fbb6a25e65c312" date="1993-06-01 01:30:54"/>
+		<rom name="CWSDPMI.EXE" size="20217" crc="6ba5fa62" md5="7010b5c42dbe97b0c841f652a8580d90" sha1="f3e66d75aab6a3cece6fad9d09a07b1a15e2ad7a" date="1996-08-18 18:46:18"/>
+		<rom name="DOOM17.DAT" size="13683" crc="d83b3d77" md5="37d3c5149f9adcad65893ab60d1b9340" sha1="d635a2b2361f1b8cddc656462aa11cc314d993e8" date="1998-11-16 01:07:06"/>
+		<rom name="DOOMLIC.TXT" size="5494" crc="1492fddd" md5="1cdfdebf5ce458980ccff1826add9e47" sha1="b735f2f4021989e6f598d50722b3d9d475fb2178" date="1998-01-26 19:29:26"/>
+		<rom name="EXAMPLES.ZIP" size="197647" crc="ee4ed5a2" md5="463ffa98316b0f54d00de590d6dba42a" sha1="e6c1eb69d159ecc73266762907547274c337d4e2" date="1999-01-02 14:01:44"/>
+		<rom name="MBF.EXE" size="1154048" crc="0abec956" md5="538da693e20431b1f20481c9b281029d" sha1="a374bccccaa4b337c74d5a86e4833fbf6fc39ea2" date="1999-01-02 12:19:14"/>
+		<rom name="MBF.TXT" size="14923" crc="19f05436" md5="a26a3d811857639d4492f0f5fc3d127f" sha1="5bd65025462e0ed47fa1405c72e88d3d60d7a2cb" date="2000-02-15 15:55:30"/>
+		<rom name="MBFEDIT.TXT" size="15632" crc="bf161cd3" md5="0657a2aa660384b66ae95b5dc68f5a08" sha1="25ed4990fe1a72cb2de5b7565f7db719d5d3001f" date="1998-12-24 08:22:54"/>
+		<rom name="MBFFAQ.TXT" size="6834" crc="36d15ea2" md5="4f0cebaa33f69d688b5c2d6a3d103a73" sha1="9bea43fa52a4830cb0905bca426143b014f78c81" date="1998-12-22 14:31:20"/>
+		<rom name="OPTIONS.TXT" size="17028" crc="38c3410f" md5="13f317640017c42ad4e6b8c0dccdbfc7" sha1="b7a2c73eb6906adc2ba805a92286c6b137e2b201" date="1998-12-22 12:01:28"/>
+		<rom name="README.1ST" size="695" crc="5e71a53d" md5="d2cc1bfda5ff90456d1d2348c25596c2" sha1="2979a91ee0ceafe0ba7353e50cc98e3bd42ca6f2" date="1999-01-02 11:56:54"/>
+		<rom name="SNDDRVR.TXT" size="9282" crc="2b8aafd3" md5="fdfad02a68447f94c8fe58af0139d24d" sha1="3502672622fde69ca5939687aa94d7b308c97f12" date="1998-05-12 11:41:06"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Marine's Best Friend SNM + Doom II (2019) (Sakitoshi).dosz">
+		<description>Marine's Best Friend SNM + Doom II</description>
+		<comment>v2.04-snm11</comment>
+		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
+		<year>2019</year>
+		<developer>Sakitoshi</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<link type="freeware">https://github.com/Sakitoshi/mbf_sigil/releases/tag/v2.04-snm11</link>
+		<rom name="ASETUP.EXE" size="524800" crc="9006fb47" md5="49d865af954b0b6f26180b4d2d3f2be7" sha1="180f6cbcb1ba35a0a42db8ca997f92b46c8ae9c7" date="1998-09-08 18:28:22"/>
+		<rom name="BETAGRPH.WAD" size="750624" crc="d4cd6303" md5="2ed0f02281bee22bded4d4aac980558f" sha1="bd1b63d219622eddcb54825a85c65d5289c69ace" date="1998-10-18 17:57:14"/>
+		<rom name="BETALEVL.WAD" size="1157999" crc="ee40c68a" md5="3806ec51258d6fc1fae78b52809b631c" sha1="97d0f961ec7f08c3b6ba86230653b52daae98010" date="1998-11-01 22:59:48"/>
+		<rom name="COPYING" size="18445" crc="29c91be7" md5="155e6318a36dd84df99cb5d41b4ae3f0" sha1="c5d76dff23914c557b008c1870309ede7f7d3a02" date="1999-10-08 12:21:32"/>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 22:06:10"/>
+		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOMLIC.TXT" size="5494" crc="1492fddd" md5="1cdfdebf5ce458980ccff1826add9e47" sha1="b735f2f4021989e6f598d50722b3d9d475fb2178" date="1998-01-26 18:29:26"/>
+		<rom name="EVITERNITY.BAT" size="462" crc="e4186679" md5="2917df2b5f8df5b1414340dc3436881f" sha1="2561fcc23e1f1b16dc01fae4c4d410600bf395a6" date="2019-09-30 22:46:06"/>
+		<rom name="EXAMPLES.ZIP" size="197647" crc="ee4ed5a2" md5="463ffa98316b0f54d00de590d6dba42a" sha1="e6c1eb69d159ecc73266762907547274c337d4e2" date="1999-01-02 13:01:44"/>
+		<rom name="MASTER.BAT" size="462" crc="4d484978" md5="b88ba94eb56ac4bc1c8f1c5426e7cc43" sha1="6ae3d309515f962e12fc7c338e7708dde17734f9" date="2019-09-26 21:42:24"/>
+		<rom name="MBF.EXE" size="1113088" crc="298ec81e" md5="39533558b210164a3c2c2e5f59079e43" sha1="f40864125f7c929c7d8243336755f2c82177a00a" date="2023-12-20 13:22:52"/>
+		<rom name="MBF.TXT" size="14923" crc="19f05436" md5="a26a3d811857639d4492f0f5fc3d127f" sha1="5bd65025462e0ed47fa1405c72e88d3d60d7a2cb" date="2000-02-15 14:55:30"/>
+		<rom name="MBFEDIT.TXT" size="15632" crc="bf161cd3" md5="0657a2aa660384b66ae95b5dc68f5a08" sha1="25ed4990fe1a72cb2de5b7565f7db719d5d3001f" date="1998-12-24 07:22:54"/>
+		<rom name="MBFFAQ.TXT" size="6834" crc="36d15ea2" md5="4f0cebaa33f69d688b5c2d6a3d103a73" sha1="9bea43fa52a4830cb0905bca426143b014f78c81" date="1998-12-22 13:31:20"/>
+		<rom name="MBFUP204.TXT" size="14967" crc="f5486df1" md5="80afb3881ddd0503e8e4f0b50ff9a2fd" sha1="99fdb635c3fe7543a3727721755ec6651d53674e" date="2019-06-07 13:48:00"/>
+		<rom name="MSTRSKY.WAD" size="35108" crc="ae6f63af" md5="7dab313ffbd5480fd241f1ec92df6b1b" sha1="1cc3a03418a4ec8777545966f4666d0ce2e059b9" date="2019-08-07 18:37:12"/>
+		<rom name="NERVE.BAT" size="293" crc="4ad2db01" md5="d95091db25fbc19803127b59632db2da" sha1="0fd8749fd5f8372d880158b00ef06e7dd1101130" date="2019-09-26 21:42:22"/>
+		<rom name="OPTIONS.TXT" size="17028" crc="38c3410f" md5="13f317640017c42ad4e6b8c0dccdbfc7" sha1="b7a2c73eb6906adc2ba805a92286c6b137e2b201" date="1998-12-22 11:01:28"/>
+		<rom name="SIGIL.BAT" size="231" crc="854ef53b" md5="ecbc5edbdbf34de9c346a4ad1e6c008b" sha1="045c8dcd152e78cc775482776f71fe4d0f7a7cc2" date="2019-09-26 21:42:14"/>
+		<rom name="SIGIL2.BAT" size="309" crc="dbe03bc7" md5="4c899c2084d7c1023253d11a12d73e34" sha1="39dd2e129ba22daee98867cc2974dcfbd6848910" date="2023-12-16 18:40:00"/>
+		<rom name="SNDDRVR.TXT" size="9282" crc="2b8aafd3" md5="fdfad02a68447f94c8fe58af0139d24d" sha1="3502672622fde69ca5939687aa94d7b308c97f12" date="1998-05-12 11:41:06"/>
+		<rom name="TRANMAP.DAT" size="65793" crc="3ef2025d" md5="6ccff68ad1930aabb15601e269c34913" sha1="0033762aec68cafe9a3c6f83129fcb0cf75e15d8" date="2019-06-07 19:31:14"/>
+	</game>
+	<game name="Marine's Best Friend SNM + The Ultimate Doom (2019) (Sakitoshi).dosz">
+		<description>Marine's Best Friend SNM + The Ultimate Doom</description>
+		<comment>v2.04-snm11</comment>
+		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
+		<year>2019</year>
+		<developer>Sakitoshi</developer>
+		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
+		<link type="freeware">https://github.com/Sakitoshi/mbf_sigil/releases/tag/v2.04-snm11</link>
+		<rom name="ASETUP.EXE" size="524800" crc="9006fb47" md5="49d865af954b0b6f26180b4d2d3f2be7" sha1="180f6cbcb1ba35a0a42db8ca997f92b46c8ae9c7" date="1998-09-08 18:28:22"/>
+		<rom name="BETAGRPH.WAD" size="750624" crc="d4cd6303" md5="2ed0f02281bee22bded4d4aac980558f" sha1="bd1b63d219622eddcb54825a85c65d5289c69ace" date="1998-10-18 17:57:14"/>
+		<rom name="BETALEVL.WAD" size="1157999" crc="ee40c68a" md5="3806ec51258d6fc1fae78b52809b631c" sha1="97d0f961ec7f08c3b6ba86230653b52daae98010" date="1998-11-01 22:59:48"/>
+		<rom name="COPYING" size="18445" crc="29c91be7" md5="155e6318a36dd84df99cb5d41b4ae3f0" sha1="c5d76dff23914c557b008c1870309ede7f7d3a02" date="1999-10-08 12:21:32"/>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 22:06:10"/>
+		<rom name="DOOMLIC.TXT" size="5494" crc="1492fddd" md5="1cdfdebf5ce458980ccff1826add9e47" sha1="b735f2f4021989e6f598d50722b3d9d475fb2178" date="1998-01-26 18:29:26"/>
+		<rom name="EVITERNITY.BAT" size="462" crc="e4186679" md5="2917df2b5f8df5b1414340dc3436881f" sha1="2561fcc23e1f1b16dc01fae4c4d410600bf395a6" date="2019-09-30 22:46:06"/>
+		<rom name="EXAMPLES.ZIP" size="197647" crc="ee4ed5a2" md5="463ffa98316b0f54d00de590d6dba42a" sha1="e6c1eb69d159ecc73266762907547274c337d4e2" date="1999-01-02 13:01:44"/>
+		<rom name="MASTER.BAT" size="462" crc="4d484978" md5="b88ba94eb56ac4bc1c8f1c5426e7cc43" sha1="6ae3d309515f962e12fc7c338e7708dde17734f9" date="2019-09-26 21:42:24"/>
+		<rom name="MBF.EXE" size="1113088" crc="298ec81e" md5="39533558b210164a3c2c2e5f59079e43" sha1="f40864125f7c929c7d8243336755f2c82177a00a" date="2023-12-20 13:22:52"/>
+		<rom name="MBF.TXT" size="14923" crc="19f05436" md5="a26a3d811857639d4492f0f5fc3d127f" sha1="5bd65025462e0ed47fa1405c72e88d3d60d7a2cb" date="2000-02-15 14:55:30"/>
+		<rom name="MBFEDIT.TXT" size="15632" crc="bf161cd3" md5="0657a2aa660384b66ae95b5dc68f5a08" sha1="25ed4990fe1a72cb2de5b7565f7db719d5d3001f" date="1998-12-24 07:22:54"/>
+		<rom name="MBFFAQ.TXT" size="6834" crc="36d15ea2" md5="4f0cebaa33f69d688b5c2d6a3d103a73" sha1="9bea43fa52a4830cb0905bca426143b014f78c81" date="1998-12-22 13:31:20"/>
+		<rom name="MBFUP204.TXT" size="14967" crc="f5486df1" md5="80afb3881ddd0503e8e4f0b50ff9a2fd" sha1="99fdb635c3fe7543a3727721755ec6651d53674e" date="2019-06-07 13:48:00"/>
+		<rom name="MSTRSKY.WAD" size="35108" crc="ae6f63af" md5="7dab313ffbd5480fd241f1ec92df6b1b" sha1="1cc3a03418a4ec8777545966f4666d0ce2e059b9" date="2019-08-07 18:37:12"/>
+		<rom name="NERVE.BAT" size="293" crc="4ad2db01" md5="d95091db25fbc19803127b59632db2da" sha1="0fd8749fd5f8372d880158b00ef06e7dd1101130" date="2019-09-26 21:42:22"/>
+		<rom name="OPTIONS.TXT" size="17028" crc="38c3410f" md5="13f317640017c42ad4e6b8c0dccdbfc7" sha1="b7a2c73eb6906adc2ba805a92286c6b137e2b201" date="1998-12-22 11:01:28"/>
+		<rom name="SIGIL.BAT" size="231" crc="854ef53b" md5="ecbc5edbdbf34de9c346a4ad1e6c008b" sha1="045c8dcd152e78cc775482776f71fe4d0f7a7cc2" date="2019-09-26 21:42:14"/>
+		<rom name="SIGIL2.BAT" size="309" crc="dbe03bc7" md5="4c899c2084d7c1023253d11a12d73e34" sha1="39dd2e129ba22daee98867cc2974dcfbd6848910" date="2023-12-16 18:40:00"/>
+		<rom name="SNDDRVR.TXT" size="9282" crc="2b8aafd3" md5="fdfad02a68447f94c8fe58af0139d24d" sha1="3502672622fde69ca5939687aa94d7b308c97f12" date="1998-05-12 11:41:06"/>
+		<rom name="TRANMAP.DAT" size="65793" crc="3ef2025d" md5="6ccff68ad1930aabb15601e269c34913" sha1="0033762aec68cafe9a3c6f83129fcb0cf75e15d8" date="2019-06-07 19:31:14"/>
+		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
 	<game name="Mario Teaches Typing (1992) (Interplay Entertainment).dosz">
 		<description>Mario Teaches Typing</description>
 		<comment>Installed from USA CD-ROM, CD image made from BIN/CUE</comment>
@@ -1797,118 +1905,6 @@
 		<rom name="WCAS.BAN" size="13646" crc="3de441ee" md5="abc3e416bebe2d71a72e0949ed53356f" sha1="b543b1d7dbe1c28050ac00c7c3ac26b10137b056"/>
 		<rom name="WCAS0001.CRX" size="17077" crc="512adab3" md5="5d6273b6f5b1d5bddac577afed8718d5" sha1="e3e1b41971b6e050b1fa4607f51fe1121c0fd0f3"/>
 	</game>
-	<game name="MBF + Doom II (1998) (Lee Killough).dosz">
-		<description>MBF + Doom II</description>
-		<comment>v2.03</comment>
-		<comment_dosc>Auto start</comment_dosc>
-		<year>1998</year>
-		<developer>Lee Killough</developer>
-		<parent>Doom II (1994) (id Software).dosz</parent>
-		<rom name="ASETUP.EXE" size="524800" crc="9006fb47" md5="49d865af954b0b6f26180b4d2d3f2be7" sha1="180f6cbcb1ba35a0a42db8ca997f92b46c8ae9c7" date="1998-09-08 18:28:22"/>
-		<rom name="BETAGRPH.WAD" size="750624" crc="d4cd6303" md5="2ed0f02281bee22bded4d4aac980558f" sha1="bd1b63d219622eddcb54825a85c65d5289c69ace" date="1998-10-18 18:57:14"/>
-		<rom name="BETALEVL.WAD" size="1157999" crc="ee40c68a" md5="3806ec51258d6fc1fae78b52809b631c" sha1="97d0f961ec7f08c3b6ba86230653b52daae98010" date="1998-11-01 23:59:48"/>
-		<rom name="COMMON.CFG" size="34531" crc="bdefc5e4" md5="574d3d4c168b345f6ca263ed466209cb" sha1="6b19ac0ad64e4375a68e7c73e1235b8ab1b25262" date="1998-11-01 22:29:58"/>
-		<rom name="COPYING" size="18445" crc="29c91be7" md5="155e6318a36dd84df99cb5d41b4ae3f0" sha1="c5d76dff23914c557b008c1870309ede7f7d3a02" date="1999-10-08 12:21:32"/>
-		<rom name="COPYING.DJ" size="1625" crc="9bc17601" md5="ead084c557c7d429bb510d631cec97db" sha1="e1438d76f1bfd045c1eb5e7cd0fbb6a25e65c312" date="1993-06-01 01:30:54"/>
-		<rom name="CWSDPMI.EXE" size="20217" crc="6ba5fa62" md5="7010b5c42dbe97b0c841f652a8580d90" sha1="f3e66d75aab6a3cece6fad9d09a07b1a15e2ad7a" date="1996-08-18 18:46:18"/>
-		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="DOOM17.DAT" size="13683" crc="d83b3d77" md5="37d3c5149f9adcad65893ab60d1b9340" sha1="d635a2b2361f1b8cddc656462aa11cc314d993e8" date="1998-11-16 01:07:06"/>
-		<rom name="DOOMLIC.TXT" size="5494" crc="1492fddd" md5="1cdfdebf5ce458980ccff1826add9e47" sha1="b735f2f4021989e6f598d50722b3d9d475fb2178" date="1998-01-26 19:29:26"/>
-		<rom name="EXAMPLES.ZIP" size="197647" crc="ee4ed5a2" md5="463ffa98316b0f54d00de590d6dba42a" sha1="e6c1eb69d159ecc73266762907547274c337d4e2" date="1999-01-02 14:01:44"/>
-		<rom name="MBF.EXE" size="1154048" crc="0abec956" md5="538da693e20431b1f20481c9b281029d" sha1="a374bccccaa4b337c74d5a86e4833fbf6fc39ea2" date="1999-01-02 12:19:14"/>
-		<rom name="MBF.TXT" size="14923" crc="19f05436" md5="a26a3d811857639d4492f0f5fc3d127f" sha1="5bd65025462e0ed47fa1405c72e88d3d60d7a2cb" date="2000-02-15 15:55:30"/>
-		<rom name="MBFEDIT.TXT" size="15632" crc="bf161cd3" md5="0657a2aa660384b66ae95b5dc68f5a08" sha1="25ed4990fe1a72cb2de5b7565f7db719d5d3001f" date="1998-12-24 08:22:54"/>
-		<rom name="MBFFAQ.TXT" size="6834" crc="36d15ea2" md5="4f0cebaa33f69d688b5c2d6a3d103a73" sha1="9bea43fa52a4830cb0905bca426143b014f78c81" date="1998-12-22 14:31:20"/>
-		<rom name="OPTIONS.TXT" size="17028" crc="38c3410f" md5="13f317640017c42ad4e6b8c0dccdbfc7" sha1="b7a2c73eb6906adc2ba805a92286c6b137e2b201" date="1998-12-22 12:01:28"/>
-		<rom name="README.1ST" size="695" crc="5e71a53d" md5="d2cc1bfda5ff90456d1d2348c25596c2" sha1="2979a91ee0ceafe0ba7353e50cc98e3bd42ca6f2" date="1999-01-02 11:56:54"/>
-		<rom name="SNDDRVR.TXT" size="9282" crc="2b8aafd3" md5="fdfad02a68447f94c8fe58af0139d24d" sha1="3502672622fde69ca5939687aa94d7b308c97f12" date="1998-05-12 11:41:06"/>
-	</game>
-	<game name="MBF + The Ultimate Doom (1998) (Lee Killough).dosz">
-		<description>MBF + The Ultimate Doom</description>
-		<comment>v2.03</comment>
-		<comment_dosc>Auto start</comment_dosc>
-		<year>1998</year>
-		<developer>Lee Killough</developer>
-		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
-		<rom name="ASETUP.EXE" size="524800" crc="9006fb47" md5="49d865af954b0b6f26180b4d2d3f2be7" sha1="180f6cbcb1ba35a0a42db8ca997f92b46c8ae9c7" date="1998-09-08 18:28:22"/>
-		<rom name="BETAGRPH.WAD" size="750624" crc="d4cd6303" md5="2ed0f02281bee22bded4d4aac980558f" sha1="bd1b63d219622eddcb54825a85c65d5289c69ace" date="1998-10-18 18:57:14"/>
-		<rom name="BETALEVL.WAD" size="1157999" crc="ee40c68a" md5="3806ec51258d6fc1fae78b52809b631c" sha1="97d0f961ec7f08c3b6ba86230653b52daae98010" date="1998-11-01 23:59:48"/>
-		<rom name="COMMON.CFG" size="34531" crc="bdefc5e4" md5="574d3d4c168b345f6ca263ed466209cb" sha1="6b19ac0ad64e4375a68e7c73e1235b8ab1b25262" date="1998-11-01 22:29:58"/>
-		<rom name="COPYING" size="18445" crc="29c91be7" md5="155e6318a36dd84df99cb5d41b4ae3f0" sha1="c5d76dff23914c557b008c1870309ede7f7d3a02" date="1999-10-08 12:21:32"/>
-		<rom name="COPYING.DJ" size="1625" crc="9bc17601" md5="ead084c557c7d429bb510d631cec97db" sha1="e1438d76f1bfd045c1eb5e7cd0fbb6a25e65c312" date="1993-06-01 01:30:54"/>
-		<rom name="CWSDPMI.EXE" size="20217" crc="6ba5fa62" md5="7010b5c42dbe97b0c841f652a8580d90" sha1="f3e66d75aab6a3cece6fad9d09a07b1a15e2ad7a" date="1996-08-18 18:46:18"/>
-		<rom name="DOOM17.DAT" size="13683" crc="d83b3d77" md5="37d3c5149f9adcad65893ab60d1b9340" sha1="d635a2b2361f1b8cddc656462aa11cc314d993e8" date="1998-11-16 01:07:06"/>
-		<rom name="DOOMLIC.TXT" size="5494" crc="1492fddd" md5="1cdfdebf5ce458980ccff1826add9e47" sha1="b735f2f4021989e6f598d50722b3d9d475fb2178" date="1998-01-26 19:29:26"/>
-		<rom name="EXAMPLES.ZIP" size="197647" crc="ee4ed5a2" md5="463ffa98316b0f54d00de590d6dba42a" sha1="e6c1eb69d159ecc73266762907547274c337d4e2" date="1999-01-02 14:01:44"/>
-		<rom name="MBF.EXE" size="1154048" crc="0abec956" md5="538da693e20431b1f20481c9b281029d" sha1="a374bccccaa4b337c74d5a86e4833fbf6fc39ea2" date="1999-01-02 12:19:14"/>
-		<rom name="MBF.TXT" size="14923" crc="19f05436" md5="a26a3d811857639d4492f0f5fc3d127f" sha1="5bd65025462e0ed47fa1405c72e88d3d60d7a2cb" date="2000-02-15 15:55:30"/>
-		<rom name="MBFEDIT.TXT" size="15632" crc="bf161cd3" md5="0657a2aa660384b66ae95b5dc68f5a08" sha1="25ed4990fe1a72cb2de5b7565f7db719d5d3001f" date="1998-12-24 08:22:54"/>
-		<rom name="MBFFAQ.TXT" size="6834" crc="36d15ea2" md5="4f0cebaa33f69d688b5c2d6a3d103a73" sha1="9bea43fa52a4830cb0905bca426143b014f78c81" date="1998-12-22 14:31:20"/>
-		<rom name="OPTIONS.TXT" size="17028" crc="38c3410f" md5="13f317640017c42ad4e6b8c0dccdbfc7" sha1="b7a2c73eb6906adc2ba805a92286c6b137e2b201" date="1998-12-22 12:01:28"/>
-		<rom name="README.1ST" size="695" crc="5e71a53d" md5="d2cc1bfda5ff90456d1d2348c25596c2" sha1="2979a91ee0ceafe0ba7353e50cc98e3bd42ca6f2" date="1999-01-02 11:56:54"/>
-		<rom name="SNDDRVR.TXT" size="9282" crc="2b8aafd3" md5="fdfad02a68447f94c8fe58af0139d24d" sha1="3502672622fde69ca5939687aa94d7b308c97f12" date="1998-05-12 11:41:06"/>
-		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-	</game>
-	<game name="MBF-SNM + Doom II (2019) (Sakitoshi).dosz">
-		<description>MBF-SNM + Doom II</description>
-		<comment>v2.04-snm11</comment>
-		<comment_dosc>Sound config and auto start</comment_dosc>
-		<year>2019</year>
-		<developer>Sakitoshi</developer>
-		<parent>Doom II (1994) (id Software).dosz</parent>
-		<rom name="ASETUP.EXE" size="524800" crc="9006fb47" md5="49d865af954b0b6f26180b4d2d3f2be7" sha1="180f6cbcb1ba35a0a42db8ca997f92b46c8ae9c7" date="1998-09-08 18:28:22"/>
-		<rom name="BETAGRPH.WAD" size="750624" crc="d4cd6303" md5="2ed0f02281bee22bded4d4aac980558f" sha1="bd1b63d219622eddcb54825a85c65d5289c69ace" date="1998-10-18 17:57:14"/>
-		<rom name="BETALEVL.WAD" size="1157999" crc="ee40c68a" md5="3806ec51258d6fc1fae78b52809b631c" sha1="97d0f961ec7f08c3b6ba86230653b52daae98010" date="1998-11-01 22:59:48"/>
-		<rom name="COPYING" size="18445" crc="29c91be7" md5="155e6318a36dd84df99cb5d41b4ae3f0" sha1="c5d76dff23914c557b008c1870309ede7f7d3a02" date="1999-10-08 12:21:32"/>
-		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 22:06:10"/>
-		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="DOOMLIC.TXT" size="5494" crc="1492fddd" md5="1cdfdebf5ce458980ccff1826add9e47" sha1="b735f2f4021989e6f598d50722b3d9d475fb2178" date="1998-01-26 18:29:26"/>
-		<rom name="EVITERNITY.BAT" size="462" crc="e4186679" md5="2917df2b5f8df5b1414340dc3436881f" sha1="2561fcc23e1f1b16dc01fae4c4d410600bf395a6" date="2019-09-30 22:46:06"/>
-		<rom name="EXAMPLES.ZIP" size="197647" crc="ee4ed5a2" md5="463ffa98316b0f54d00de590d6dba42a" sha1="e6c1eb69d159ecc73266762907547274c337d4e2" date="1999-01-02 13:01:44"/>
-		<rom name="MASTER.BAT" size="462" crc="4d484978" md5="b88ba94eb56ac4bc1c8f1c5426e7cc43" sha1="6ae3d309515f962e12fc7c338e7708dde17734f9" date="2019-09-26 21:42:24"/>
-		<rom name="MBF.EXE" size="1113088" crc="298ec81e" md5="39533558b210164a3c2c2e5f59079e43" sha1="f40864125f7c929c7d8243336755f2c82177a00a" date="2023-12-20 13:22:52"/>
-		<rom name="MBF.TXT" size="14923" crc="19f05436" md5="a26a3d811857639d4492f0f5fc3d127f" sha1="5bd65025462e0ed47fa1405c72e88d3d60d7a2cb" date="2000-02-15 14:55:30"/>
-		<rom name="MBFEDIT.TXT" size="15632" crc="bf161cd3" md5="0657a2aa660384b66ae95b5dc68f5a08" sha1="25ed4990fe1a72cb2de5b7565f7db719d5d3001f" date="1998-12-24 07:22:54"/>
-		<rom name="MBFFAQ.TXT" size="6834" crc="36d15ea2" md5="4f0cebaa33f69d688b5c2d6a3d103a73" sha1="9bea43fa52a4830cb0905bca426143b014f78c81" date="1998-12-22 13:31:20"/>
-		<rom name="MBFUP204.TXT" size="14967" crc="f5486df1" md5="80afb3881ddd0503e8e4f0b50ff9a2fd" sha1="99fdb635c3fe7543a3727721755ec6651d53674e" date="2019-06-07 13:48:00"/>
-		<rom name="MSTRSKY.WAD" size="35108" crc="ae6f63af" md5="7dab313ffbd5480fd241f1ec92df6b1b" sha1="1cc3a03418a4ec8777545966f4666d0ce2e059b9" date="2019-08-07 18:37:12"/>
-		<rom name="NERVE.BAT" size="293" crc="4ad2db01" md5="d95091db25fbc19803127b59632db2da" sha1="0fd8749fd5f8372d880158b00ef06e7dd1101130" date="2019-09-26 21:42:22"/>
-		<rom name="OPTIONS.TXT" size="17028" crc="38c3410f" md5="13f317640017c42ad4e6b8c0dccdbfc7" sha1="b7a2c73eb6906adc2ba805a92286c6b137e2b201" date="1998-12-22 11:01:28"/>
-		<rom name="SIGIL.BAT" size="231" crc="854ef53b" md5="ecbc5edbdbf34de9c346a4ad1e6c008b" sha1="045c8dcd152e78cc775482776f71fe4d0f7a7cc2" date="2019-09-26 21:42:14"/>
-		<rom name="SIGIL2.BAT" size="309" crc="dbe03bc7" md5="4c899c2084d7c1023253d11a12d73e34" sha1="39dd2e129ba22daee98867cc2974dcfbd6848910" date="2023-12-16 18:40:00"/>
-		<rom name="SNDDRVR.TXT" size="9282" crc="2b8aafd3" md5="fdfad02a68447f94c8fe58af0139d24d" sha1="3502672622fde69ca5939687aa94d7b308c97f12" date="1998-05-12 11:41:06"/>
-		<rom name="TRANMAP.DAT" size="65793" crc="3ef2025d" md5="6ccff68ad1930aabb15601e269c34913" sha1="0033762aec68cafe9a3c6f83129fcb0cf75e15d8" date="2019-06-07 19:31:14"/>
-	</game>
-	<game name="MBF-SNM + The Ultimate Doom (2019) (Sakitoshi).dosz">
-		<description>MBF-SNM + The Ultimate Doom</description>
-		<comment>v2.04-snm11</comment>
-		<comment_dosc>Sound config and auto start</comment_dosc>
-		<year>2019</year>
-		<developer>Sakitoshi</developer>
-		<parent>Ultimate Doom, The (1995) (id Software).dosz</parent>
-		<rom name="ASETUP.EXE" size="524800" crc="9006fb47" md5="49d865af954b0b6f26180b4d2d3f2be7" sha1="180f6cbcb1ba35a0a42db8ca997f92b46c8ae9c7" date="1998-09-08 18:28:22"/>
-		<rom name="BETAGRPH.WAD" size="750624" crc="d4cd6303" md5="2ed0f02281bee22bded4d4aac980558f" sha1="bd1b63d219622eddcb54825a85c65d5289c69ace" date="1998-10-18 17:57:14"/>
-		<rom name="BETALEVL.WAD" size="1157999" crc="ee40c68a" md5="3806ec51258d6fc1fae78b52809b631c" sha1="97d0f961ec7f08c3b6ba86230653b52daae98010" date="1998-11-01 22:59:48"/>
-		<rom name="COPYING" size="18445" crc="29c91be7" md5="155e6318a36dd84df99cb5d41b4ae3f0" sha1="c5d76dff23914c557b008c1870309ede7f7d3a02" date="1999-10-08 12:21:32"/>
-		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 22:06:10"/>
-		<rom name="DOOMLIC.TXT" size="5494" crc="1492fddd" md5="1cdfdebf5ce458980ccff1826add9e47" sha1="b735f2f4021989e6f598d50722b3d9d475fb2178" date="1998-01-26 18:29:26"/>
-		<rom name="EVITERNITY.BAT" size="462" crc="e4186679" md5="2917df2b5f8df5b1414340dc3436881f" sha1="2561fcc23e1f1b16dc01fae4c4d410600bf395a6" date="2019-09-30 22:46:06"/>
-		<rom name="EXAMPLES.ZIP" size="197647" crc="ee4ed5a2" md5="463ffa98316b0f54d00de590d6dba42a" sha1="e6c1eb69d159ecc73266762907547274c337d4e2" date="1999-01-02 13:01:44"/>
-		<rom name="MASTER.BAT" size="462" crc="4d484978" md5="b88ba94eb56ac4bc1c8f1c5426e7cc43" sha1="6ae3d309515f962e12fc7c338e7708dde17734f9" date="2019-09-26 21:42:24"/>
-		<rom name="MBF.EXE" size="1113088" crc="298ec81e" md5="39533558b210164a3c2c2e5f59079e43" sha1="f40864125f7c929c7d8243336755f2c82177a00a" date="2023-12-20 13:22:52"/>
-		<rom name="MBF.TXT" size="14923" crc="19f05436" md5="a26a3d811857639d4492f0f5fc3d127f" sha1="5bd65025462e0ed47fa1405c72e88d3d60d7a2cb" date="2000-02-15 14:55:30"/>
-		<rom name="MBFEDIT.TXT" size="15632" crc="bf161cd3" md5="0657a2aa660384b66ae95b5dc68f5a08" sha1="25ed4990fe1a72cb2de5b7565f7db719d5d3001f" date="1998-12-24 07:22:54"/>
-		<rom name="MBFFAQ.TXT" size="6834" crc="36d15ea2" md5="4f0cebaa33f69d688b5c2d6a3d103a73" sha1="9bea43fa52a4830cb0905bca426143b014f78c81" date="1998-12-22 13:31:20"/>
-		<rom name="MBFUP204.TXT" size="14967" crc="f5486df1" md5="80afb3881ddd0503e8e4f0b50ff9a2fd" sha1="99fdb635c3fe7543a3727721755ec6651d53674e" date="2019-06-07 13:48:00"/>
-		<rom name="MSTRSKY.WAD" size="35108" crc="ae6f63af" md5="7dab313ffbd5480fd241f1ec92df6b1b" sha1="1cc3a03418a4ec8777545966f4666d0ce2e059b9" date="2019-08-07 18:37:12"/>
-		<rom name="NERVE.BAT" size="293" crc="4ad2db01" md5="d95091db25fbc19803127b59632db2da" sha1="0fd8749fd5f8372d880158b00ef06e7dd1101130" date="2019-09-26 21:42:22"/>
-		<rom name="OPTIONS.TXT" size="17028" crc="38c3410f" md5="13f317640017c42ad4e6b8c0dccdbfc7" sha1="b7a2c73eb6906adc2ba805a92286c6b137e2b201" date="1998-12-22 11:01:28"/>
-		<rom name="SIGIL.BAT" size="231" crc="854ef53b" md5="ecbc5edbdbf34de9c346a4ad1e6c008b" sha1="045c8dcd152e78cc775482776f71fe4d0f7a7cc2" date="2019-09-26 21:42:14"/>
-		<rom name="SIGIL2.BAT" size="309" crc="dbe03bc7" md5="4c899c2084d7c1023253d11a12d73e34" sha1="39dd2e129ba22daee98867cc2974dcfbd6848910" date="2023-12-16 18:40:00"/>
-		<rom name="SNDDRVR.TXT" size="9282" crc="2b8aafd3" md5="fdfad02a68447f94c8fe58af0139d24d" sha1="3502672622fde69ca5939687aa94d7b308c97f12" date="1998-05-12 11:41:06"/>
-		<rom name="TRANMAP.DAT" size="65793" crc="3ef2025d" md5="6ccff68ad1930aabb15601e269c34913" sha1="0033762aec68cafe9a3c6f83129fcb0cf75e15d8" date="2019-06-07 19:31:14"/>
-		<rom name="Ultimate Doom, The (1995) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-	</game>
 	<game name="Monkey Island 2 - LeChuck's Revenge (1991) (Lucasfilm Games).dosz">
 		<description>Monkey Island 2 - LeChuck's Revenge</description>
 		<comment>Installed from the 5 English 3.5" disks</comment>
@@ -1922,6 +1918,16 @@
 		<rom name="ROLAND.IMS" size="18976" crc="8e983877" md5="98c9453b486e9cbff95c97c480c1a8d9" sha1="cd21c98036bfe54ae986941b3301f0c73c4f4f16" date="1991-11-21 13:33:38"/>
 		<rom name="SOUNBLAS.IMS" size="24808" crc="a95c63ec" md5="09ba62c3bc9f2bdc50868466cc4576b5" sha1="a1436072b308f073116aa57757b72709148c60b9" date="1991-11-21 13:33:38"/>
 		<rom name="SPEAKER.IMS" size="20062" crc="db85d8fd" md5="0c0a385da45ac811b23bbd47c9935990" sha1="953e2d5268125c97201674a55b6919c83f4d379c" date="1991-11-21 13:33:38"/>
+	</game>
+	<game name="No Rest for the Living (2010) (Nerve Software).dosz">
+		<description>No Rest for the Living</description>
+		<comment>Original version</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>2010</year>
+		<developer>Nerve Software</developer>
+		<parent>Marine's Best Friend SNM + Doom II (2019) (Sakitoshi).dosz</parent>
+		<rom name="Marine's Best Friend SNM + Doom II (2019) (Sakitoshi).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="NERVE.WAD" size="3819855" crc="ad7f9292" md5="967d5ae23daf45196212ae1b605da3b0" sha1="3451288383fb16e196f273d9f85d58c1fda97bf4"/>
 	</game>
 	<game name="Prince of Persia (1992) (Broderbund Software).dosz">
 		<description>Prince of Persia</description>
@@ -2363,23 +2369,25 @@
 	</game>
 	<game name="Sigil (2019) (John Romero).dosz">
 		<description>Sigil</description>
-		<comment>Free v1.21</comment>
+		<comment>Freeware v1.21</comment>
 		<comment_dosc>Auto start</comment_dosc>
 		<year>2019</year>
 		<developer>John Romero</developer>
-		<parent>MBF-SNM + The Ultimate Doom (2019) (Sakitoshi).dosz</parent>
-		<rom name="MBF-SNM + The Ultimate Doom (2019) (Sakitoshi).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<parent>Marine's Best Friend SNM + The Ultimate Doom (2019) (Sakitoshi).dosz</parent>
+		<link type="freeware">https://romero.com/sigil</link>
+		<rom name="Marine's Best Friend SNM + The Ultimate Doom (2019) (Sakitoshi).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="SIGIL.wad" size="4640210" crc="f9216574" md5="743d6323cb2b9be24c258ff0fc350883" sha1="e2efdf379e1383c4e15c03de89063361897cd459" date="2019-09-23 19:18:42"/>
 		<rom name="SIGIL_instructions.txt" size="10316" crc="6b7aa748" md5="7464e4a07fb4a0a382e88f6cc7ea847c" sha1="7cd856b28fefb7c21260dadcf4b817af64765f33" date="2019-09-23 19:21:38"/>
 		<rom name="SIGIL_v1_21.txt" size="5030" crc="c0120009" md5="b9f7622bc7cf7b0c3f67274d74b0f4ce" sha1="4b2eadb3288a996e786669cfc16e7d4e5e104682" date="2019-09-20 13:21:32"/>
 	</game>
 	<game name="Sigil II (2023) (John Romero).dosz">
 		<description>Sigil II</description>
-		<comment>Free v1.0</comment>
+		<comment>Freeware v1.0</comment>
 		<comment_dosc>Auto start</comment_dosc>
 		<year>2023</year>
 		<developer>John Romero</developer>
 		<parent>Sigil (2019) (John Romero).dosz</parent>
+		<link type="freeware">https://romero.com/sigil</link>
 		<rom name="Sigil (2019) (John Romero).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="SIGIL2.WAD" size="5632323" crc="d210db36" md5="d0442f5a75f2faef3405c09a0c3acc58" sha1="ad2c6e8367afbeef74e9e09b6b1e4da88c0576b4" date="2023-12-05 22:01:16"/>
 		<rom name="SIGIL_II_README_V1_0.txt" size="9442" crc="dcb4f63b" md5="bbea1e6f433eb9f9e4f7edf1c673ee76" sha1="3f62349fd92b9154f6ea0556e2ef8596d6dad873" date="2023-12-09 14:41:20"/>
