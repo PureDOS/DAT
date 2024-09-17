@@ -4900,7 +4900,7 @@
 	</game>
 	<game name="Redneck Rampage Rides Again (1998) (Xatrix Entertainment).dosz">
 		<description>Redneck Rampage Rides Again</description>
-		<comment>Installed from CD</comment>
+		<comment>Installed from CD. Audio tracks converted with CHDtoOGG using -n option</comment>
 		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
 		<year>1998</year>
 		<developer>Xatrix Entertainment</developer>
@@ -4956,18 +4956,35 @@
 		<rom name="RABBIT.CON" size="5458" crc="6aa13550" md5="bb75ae5a98db9d3c9a74cf82b2bfb132" sha1="1759fec65558308994d1971eb2b4df3e896832a6"/>
 		<rom name="RDHELP.EXE" size="57834" crc="05d3f319" md5="f8de11a5fff2034a3fa103f67539a0b0" sha1="5d6ee6cdc571a4370d5a779b4b0cfa6ec43b7c83"/>
 		<rom name="REDINT.MVE" size="22972722" crc="a461050b" md5="a2f4caea0c7535ede36a3d3f29dd74af" sha1="a18496fee461a583e959e22df268c8eb1a0f6a9b"/>
-		<rom name="Redneck Rampage Rides Again - Arkansas (USA).chd" size="559612800" crc="171fb9e6" md5="6fa7b18d6215ea242cdb9ca944b7c5b7" sha1="abde25353f30f9ab9b72e3a056906089b45ad448">
-			<track number="1" type="MODE1_RAW" frames="147606" pregap="0" duration="32:48:06" size="347169312" crc="507c6ee0" md5="101bf43898d9530fa1ec9435bb9e5c9d" sha1="d72bcbd311b4e569145275ce8a30dc539bc3a2d7" in_zeros="1" out_zeros="0"/>
-			<track number="2" type="AUDIO" frames="16725" pregap="150" duration="03:43:00" size="39337200" crc="d4fefe90" md5="df1222cd8183428f3dc25d072442ebff" sha1="702a7dbe6c2493c783af6463dd6bb183a2e8e297" in_zeros="397512" out_zeros="899216"/>
-			<track number="3" type="AUDIO" frames="7800" pregap="0" duration="01:44:00" size="18345600" crc="0fa4655d" md5="e710e59e10ef0bc503c74fd8ce687cda" sha1="504c40955f83b8eb3628a7663aab5fe899385ff4" in_zeros="44724" out_zeros="882753"/>
-			<track number="4" type="AUDIO" frames="5550" pregap="0" duration="01:14:00" size="13053600" crc="b6b53c63" md5="cbb3d1683a16b4cdc70e1dbcd421287b" sha1="9a90c7b906b8ae20cb46a769b5e3d01b6f49e92d" in_zeros="44724" out_zeros="901569"/>
-			<track number="5" type="AUDIO" frames="16425" pregap="0" duration="03:39:00" size="38631600" crc="2dcb9615" md5="91e54b52b44d0e607411061e08d3895e" sha1="adbd97f7bcb6233825c8b75576b8cb737551a646" in_zeros="44596" out_zeros="936964"/>
-			<track number="6" type="AUDIO" frames="3750" pregap="0" duration="00:50:00" size="8820000" crc="38b7ea0f" md5="46f446e2345990a1f6c90387b4370b2d" sha1="1d9a6003749625a0b7ccfdd5110d28d96206b3bd" in_zeros="44724" out_zeros="939201"/>
-			<track number="7" type="AUDIO" frames="13125" pregap="0" duration="02:55:00" size="30870000" crc="c7ee98dc" md5="5d20febcb978ac88ffd7a9113e09a8c7" sha1="660029784afa4258e416b966ba51203128c6cfdb" in_zeros="46080" out_zeros="896864"/>
-			<track number="8" type="AUDIO" frames="7125" pregap="0" duration="01:35:00" size="16758000" crc="49aa1efc" md5="dc11e1b083480db5bd950a175f482847" sha1="bf19e938d5309509613294f49d18c42c75e22a06" in_zeros="44724" out_zeros="1033280"/>
-			<track number="9" type="AUDIO" frames="8475" pregap="0" duration="01:53:00" size="19933200" crc="da756ad1" md5="86005b764c61e9dddacf2279af812c29" sha1="b5d83a5515ed0403c61a19cf9cc543c87dffbe10" in_zeros="46736" out_zeros="1000353"/>
-			<track number="10" type="AUDIO" frames="5475" pregap="0" duration="01:13:00" size="12877200" crc="d2df65f3" md5="70f687bb4679e9677af2401c3e4ee8fd" sha1="bac261e2e697d0d50e93f733ce642e79056d21ca" in_zeros="47328" out_zeros="171399"/>
+		<rom name="Redneck Rampage Rides Again - Arkansas (USA) (Track 1).bin" size="56448" crc="1be232e7" md5="052315fdf52a4076530b6fa185e9c628" sha1="ddbbf38c7623ae8712248ed015380b4f1aaafc2e"/>
+		<rom name="Redneck Rampage Rides Again - Arkansas (USA) (Track 2).ogg" size="7325999" crc="f5096288" md5="6bd2650851f24d6647373b97f31db0a4" sha1="3a268d0678d05c6c20d9316ca9442808aeb04e0a">
+			<source frames="16725" pregap="150" duration="03:43:00" size="38984400" crc="d7d7ee2d" md5="564aed9d2af053c590eb09b3e220fdd8" sha1="6c413d6447a126fc6ad13692a38513b3fa68d24d" in_zeros="44712" out_zeros="899216" trimmed_crc="6041671e" quality="8"/>
 		</rom>
+		<rom name="Redneck Rampage Rides Again - Arkansas (USA) (Track 3).ogg" size="3597620" crc="da6696ab" md5="b6995075bf01d5abdb06f962638e03db" sha1="1e0216d0eda7c889c1519f83f3c04f9fc6248af3">
+			<source frames="7800" pregap="0" duration="01:44:00" size="18345600" crc="0fa4655d" md5="e710e59e10ef0bc503c74fd8ce687cda" sha1="504c40955f83b8eb3628a7663aab5fe899385ff4" in_zeros="44724" out_zeros="882753" trimmed_crc="6054eaff" quality="8"/>
+		</rom>
+		<rom name="Redneck Rampage Rides Again - Arkansas (USA) (Track 4).ogg" size="2292002" crc="37305989" md5="83ad85a75bf767b820a9c0c664b10c30" sha1="0908451bdf4fb9c93a5361c282cbb4b5f12718dd">
+			<source frames="5550" pregap="0" duration="01:14:00" size="13053600" crc="b6b53c63" md5="cbb3d1683a16b4cdc70e1dbcd421287b" sha1="9a90c7b906b8ae20cb46a769b5e3d01b6f49e92d" in_zeros="44724" out_zeros="901569" trimmed_crc="381e9608" quality="8"/>
+		</rom>
+		<rom name="Redneck Rampage Rides Again - Arkansas (USA) (Track 5).ogg" size="7205777" crc="3dbcbc27" md5="f18197aa1da0b5b7d15480334ca847f3" sha1="ef6903f03b0e942fc4e0e0f1b23e1818fab4d693">
+			<source frames="16425" pregap="0" duration="03:39:00" size="38631600" crc="2dcb9615" md5="91e54b52b44d0e607411061e08d3895e" sha1="adbd97f7bcb6233825c8b75576b8cb737551a646" in_zeros="44596" out_zeros="936964" trimmed_crc="de921d43" quality="8"/>
+		</rom>
+		<rom name="Redneck Rampage Rides Again - Arkansas (USA) (Track 6).ogg" size="1584730" crc="757dce5d" md5="52b737021a7e94c8167b69049e1380a2" sha1="68d760bb58b7cfbf79f02519d640476dd8f909c1">
+			<source frames="3750" pregap="0" duration="00:50:00" size="8820000" crc="38b7ea0f" md5="46f446e2345990a1f6c90387b4370b2d" sha1="1d9a6003749625a0b7ccfdd5110d28d96206b3bd" in_zeros="44724" out_zeros="939201" trimmed_crc="c9d0ccc7" quality="8"/>
+		</rom>
+		<rom name="Redneck Rampage Rides Again - Arkansas (USA) (Track 7).ogg" size="5761237" crc="c5eefc09" md5="5e7f2aa97b4519a246d2762ab3a0fd98" sha1="0a376eef1a5c2fb1cbe9aeb7e95aeba102c7f824">
+			<source frames="13125" pregap="0" duration="02:55:00" size="30870000" crc="c7ee98dc" md5="5d20febcb978ac88ffd7a9113e09a8c7" sha1="660029784afa4258e416b966ba51203128c6cfdb" in_zeros="46080" out_zeros="896864" trimmed_crc="3588f500" quality="8"/>
+		</rom>
+		<rom name="Redneck Rampage Rides Again - Arkansas (USA) (Track 8).ogg" size="3549663" crc="305fffe6" md5="3c997f0b58882467887e557f3a202377" sha1="ba9163b30c25bc6a11a5c61e3c639ea5ac855a3d">
+			<source frames="7125" pregap="0" duration="01:35:00" size="16758000" crc="49aa1efc" md5="dc11e1b083480db5bd950a175f482847" sha1="bf19e938d5309509613294f49d18c42c75e22a06" in_zeros="44724" out_zeros="1033280" trimmed_crc="ef156e8f" quality="8"/>
+		</rom>
+		<rom name="Redneck Rampage Rides Again - Arkansas (USA) (Track 9).ogg" size="3648152" crc="01ef1e1b" md5="0ca87df5c9b7e31a09125d1ca5731155" sha1="4fe173c83e73a0460271ac6c932bfbb8b2751da1">
+			<source frames="8475" pregap="0" duration="01:53:00" size="19933200" crc="da756ad1" md5="86005b764c61e9dddacf2279af812c29" sha1="b5d83a5515ed0403c61a19cf9cc543c87dffbe10" in_zeros="46736" out_zeros="1000353" trimmed_crc="f19e2d9b" quality="8"/>
+		</rom>
+		<rom name="Redneck Rampage Rides Again - Arkansas (USA) (Track 10).ogg" size="1936674" crc="4f6ea01b" md5="6dcdd581f76ed16765e8ad5f6e6446d8" sha1="03cfaf436afecf2a91b131578eed336ee8eed641">
+			<source frames="5475" pregap="0" duration="01:13:00" size="12877200" crc="d2df65f3" md5="70f687bb4679e9677af2401c3e4ee8fd" sha1="bac261e2e697d0d50e93f733ce642e79056d21ca" in_zeros="47328" out_zeros="171399" trimmed_crc="eafcfb35" quality="8"/>
+		</rom>
+		<rom name="Redneck Rampage Rides Again - Arkansas (USA).cue" size="1150" crc="192c730a" md5="519b04cda84b5bb464603aecc813df4b" sha1="3e352b737634376a5a4e792527eff54982315921"/>
 		<rom name="REDNECK.GRP" size="191798609" crc="958018c6" md5="ed33b10e66b684d34eb5c7d710f480da" sha1="8382850e56943985bd82bab78fb64ea6c9415b54"/>
 		<rom name="REDNECK.RTS" size="1038870" crc="1c4a37dd" md5="fde74164c319b5e080a6569c0b832e2e" sha1="03b1d91c9c3f6122410c8b142b4e5be7f1b1a816"/>
 		<rom name="ROCK.CON" size="458" crc="9e088b12" md5="5eee6d0c49aecfcbbbf98bf2923b7693" sha1="f2b01eba7528215d3f11d1e15ebd2a29198282d1"/>
