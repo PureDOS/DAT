@@ -4898,12 +4898,12 @@
 		</rom>
 		<rom name="QUAKE.EXE" size="409600" crc="3bc26700" md5="e3e7fcc920610a5fa66c1dd030939fac" sha1="97427017467717a78b1b9e4a01b70ef0f7161856" date="1997-03-11 18:29:24"/>
 	</game>
-	<game name="Redneck Rampage - Suckin' Grits on Route 66 (1997) (Xatrix Entertainment).dosz">
+	<game name="Redneck Rampage - Suckin' Grits on Route 66 (1997) (Sunstorm Interactive).dosz">
 		<description>Redneck Rampage - Suckin' Grits on Route 66</description>
 		<comment>Installed from CD</comment>
 		<comment_dosc>Auto start</comment_dosc>
 		<year>1997</year>
-		<developer>Xatrix Entertainment</developer>
+		<developer>Sunstorm Interactive</developer>
 		<parent>Redneck Rampage (1997) (Xatrix Entertainment).dosz</parent>
 		<rom name="ASYAMB.VOC" size="537449" crc="1b47f44d" md5="c775fed36f933d1f8c70a5778276cd5c" sha1="aa528ae5c5eae026eb1e1d1282750c930ab22a1f"/>
 		<rom name="BUBBA66.CON" size="5540" crc="7f54fc62" md5="3c62b06fa3d024ea929c2b4b8c345087" sha1="4ed194d0d8c7b7b67e549f42920ba9d9c31b76e6"/>
@@ -5007,18 +5007,37 @@
 		<rom name="RAMPAGE.BAT" size="153" crc="99e56fbb" md5="a12820d2f7066a5189ba5212a5b32080" sha1="5a4c678fe237e2c6c93d034cb904c2c8842ee706"/>
 		<rom name="RAMPAGE.PIF" size="967" crc="f31ddadd" md5="c2bfb8dbe759ff629c0a784eb72bb091" sha1="338f607d14cc5aea06e3906b7d6895db04eae91b"/>
 		<rom name="RDHELP.EXE" size="89755" crc="1edf0c0a" md5="ba823ac6aeef5498046518394b43dc91" sha1="698f6c87495701cb22890b5d5ed4635c7902e904"/>
-		<rom name="Redneck Rampage (USA).chd" size="601385472" crc="e4942727" md5="45d43ca73ecfd5c7ecfd89bdeebae160" sha1="4fc92cd68627188b4b73de069184b8d9b33e57ee">
-			<track number="1" type="MODE1_RAW" frames="111252" pregap="0" duration="24:43:27" size="261664704" crc="8d06d8ac" md5="96b3ae5fd66021345e3f49e8e34761a4" sha1="ed3db6c986ea73cb930b2921dd3349a234df65ee" in_zeros="1" out_zeros="0"/>
-			<track number="2" type="AUDIO" frames="17105" pregap="152" duration="03:48:05" size="40230960" crc="bfc05ebb" md5="5cfb758536bd48b1066867a799e2e670" sha1="d1088883b5dd6366003c30829b1d04d7e3b941e2" in_zeros="1" out_zeros="417260"/>
-			<track number="3" type="AUDIO" frames="13802" pregap="149" duration="03:04:02" size="32462304" crc="cc3699c3" md5="d1242404103952ff6049d4008e6929ff" sha1="fe5efeca2882ee0729d897a5205865b76310dbb8" in_zeros="354040" out_zeros="175160"/>
-			<track number="4" type="AUDIO" frames="18227" pregap="149" duration="04:03:02" size="42869904" crc="8b89bd95" md5="139e66121747d06fa9bc5363668c71b3" sha1="f38cf5b0d15f73a17848bf815a121256f3a64cce" in_zeros="413488" out_zeros="81081"/>
-			<track number="5" type="AUDIO" frames="20177" pregap="149" duration="04:29:02" size="47456304" crc="6323bbdd" md5="af295e8bab9d04a3bb93df489f026bb4" sha1="4f502521462f6f232697750f474422f1723086c0" in_zeros="424046" out_zeros="825009"/>
-			<track number="6" type="AUDIO" frames="9752" pregap="149" duration="02:10:02" size="22936704" crc="be5a9388" md5="01e5c1f11264a9557d4b9ff017aa7b60" sha1="a9f19eb9e878022023c2c2bbdc217e7f4654fda1" in_zeros="354040" out_zeros="179865"/>
-			<track number="7" type="AUDIO" frames="13727" pregap="149" duration="03:03:02" size="32285904" crc="f7c1c0b2" md5="fccc878bddda9b2323b003b00c2f3b2f" sha1="af14a925846595f5442f7f39fe27177ec93cd7af" in_zeros="414660" out_zeros="558008"/>
-			<track number="8" type="AUDIO" frames="15002" pregap="149" duration="03:20:02" size="35284704" crc="54ffe7dd" md5="464821c06dde02d312ce69c5c4f7bb5e" sha1="602f66d26e75b20a87fc260362b9c39de54b2294" in_zeros="426592" out_zeros="668645"/>
-			<track number="9" type="AUDIO" frames="29252" pregap="149" duration="06:30:02" size="68800704" crc="262b6dfb" md5="706da2084ada54f0c6e88d498dfaa5be" sha1="050c5872be5b01b456a57e5827bc833acd603a76" in_zeros="420476" out_zeros="336374"/>
-			<track number="10" type="AUDIO" frames="676" pregap="149" duration="00:09:01" size="1589952" crc="12ce2bab" md5="12932b6df5ea9d831dd73312c499bba4" sha1="7c3e7d40492e53aee1edf9776e7f52a7e0e2ff9a" in_zeros="1589952" out_zeros="1589952"/>
+		<rom name="Redneck Rampage (USA) (Track 1).bin" size="56448" crc="1be232e7" md5="052315fdf52a4076530b6fa185e9c628" sha1="ddbbf38c7623ae8712248ed015380b4f1aaafc2e"/>
+			<source frames="111252" pregap="0" duration="24:43:27" size="261664704" crc="8d06d8ac" md5="96b3ae5fd66021345e3f49e8e34761a4" sha1="ed3db6c986ea73cb930b2921dd3349a234df65ee"/>
 		</rom>
+		<rom name="Redneck Rampage (USA) (Track 2).ogg" size="6988046" crc="7fdd4700" md5="abc0e6ee72f7d5466bff0e87e48fbb6f" sha1="dea71c3637a14f4b5daea53a5929a89481561ec7">
+			<source frames="17105" pregap="152" duration="03:48:05" size="40230960" crc="bfc05ebb" md5="5cfb758536bd48b1066867a799e2e670" sha1="d1088883b5dd6366003c30829b1d04d7e3b941e2" in_zeros="1" out_zeros="417260" trimmed_crc="97d5081a" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="Redneck Rampage (USA) (Track 3).ogg" size="5905556" crc="a7e5f437" md5="2b4cf5d625f85b35a08f9042527d0229" sha1="9f25b3cf8e0fbf53c271cd934d892ca3311e6e5a">
+			<source frames="13802" pregap="149" duration="03:04:02" size="32462304" crc="cc3699c3" md5="d1242404103952ff6049d4008e6929ff" sha1="fe5efeca2882ee0729d897a5205865b76310dbb8" in_zeros="354040" out_zeros="175160" trimmed_crc="ad0bed81" quality="8"/>
+		</rom>
+		<rom name="Redneck Rampage (USA) (Track 4).ogg" size="8027954" crc="943a91fe" md5="e0a470bb66387e9bd635cc87b3c664fe" sha1="810a83c3002331a9bba0f9601773d643a6835705">
+			<source frames="18227" pregap="149" duration="04:03:02" size="42869904" crc="8b89bd95" md5="139e66121747d06fa9bc5363668c71b3" sha1="f38cf5b0d15f73a17848bf815a121256f3a64cce" in_zeros="413488" out_zeros="81081" trimmed_crc="0a535880" quality="8"/>
+		</rom>
+		<rom name="Redneck Rampage (USA) (Track 5).ogg" size="8331203" crc="276f1af8" md5="37d12f528262ba10c2cddb8b1d84e4c1" sha1="4e398096d9f35294fe85a164a4cd0fca63fdddbb">
+			<source frames="20177" pregap="149" duration="04:29:02" size="47456304" crc="6323bbdd" md5="af295e8bab9d04a3bb93df489f026bb4" sha1="4f502521462f6f232697750f474422f1723086c0" in_zeros="424046" out_zeros="825009" trimmed_crc="182973a7" quality="8"/>
+		</rom>
+		<rom name="Redneck Rampage (USA) (Track 6).ogg" size="4798205" crc="325c4e53" md5="04008bbeaf6271ce9432791ddc9d839e" sha1="b2c2e8ac4b54146b8aa511d3b9c6d2dba3558677">
+			<source frames="9752" pregap="149" duration="02:10:02" size="22936704" crc="be5a9388" md5="01e5c1f11264a9557d4b9ff017aa7b60" sha1="a9f19eb9e878022023c2c2bbdc217e7f4654fda1" in_zeros="354040" out_zeros="179865" trimmed_crc="86fce44e" quality="8"/>
+		</rom>
+		<rom name="Redneck Rampage (USA) (Track 7).ogg" size="5950051" crc="6ce38800" md5="7b31916888f56e3080a3ec6d18e5482c" sha1="8f4ea7e1aebe0267afe2019f7c9278d4c92c2608">
+			<source frames="13727" pregap="149" duration="03:03:02" size="32285904" crc="f7c1c0b2" md5="fccc878bddda9b2323b003b00c2f3b2f" sha1="af14a925846595f5442f7f39fe27177ec93cd7af" in_zeros="414660" out_zeros="558008" trimmed_crc="b8c86f41" quality="8"/>
+		</rom>
+		<rom name="Redneck Rampage (USA) (Track 8).ogg" size="6757246" crc="b1f431be" md5="1c8451a406b89c45ce06e7c457fbef4e" sha1="9f0013c48cf7a065283349eff797818dc516ac31">
+			<source frames="15002" pregap="149" duration="03:20:02" size="35284704" crc="54ffe7dd" md5="464821c06dde02d312ce69c5c4f7bb5e" sha1="602f66d26e75b20a87fc260362b9c39de54b2294" in_zeros="426592" out_zeros="668645" trimmed_crc="28ddf141" quality="8"/>
+		</rom>
+		<rom name="Redneck Rampage (USA) (Track 9).ogg" size="13176470" crc="7c4ee364" md5="9bf5e68191b72fac46f550dcea7e8f65" sha1="085d4a284056ca4981eb02b7eb439d3a4d5e01d8">
+			<source frames="29252" pregap="149" duration="06:30:02" size="68800704" crc="262b6dfb" md5="706da2084ada54f0c6e88d498dfaa5be" sha1="050c5872be5b01b456a57e5827bc833acd603a76" in_zeros="420476" out_zeros="336374" trimmed_crc="bbb34397" quality="8"/>
+		</rom>
+		<rom name="Redneck Rampage (USA) (Track 10).ogg" size="4695" crc="e780a774" md5="a4ef74ed40629b094e32db2b4cb7f694" sha1="e2e04c67bf282b5cd47a3ae4ed7993becb375450">
+			<source frames="676" pregap="149" duration="00:09:01" size="1589952" crc="12ce2bab" md5="12932b6df5ea9d831dd73312c499bba4" sha1="7c3e7d40492e53aee1edf9776e7f52a7e0e2ff9a" in_zeros="1589952" out_zeros="0" trimmed_crc="00000000" quality="8"/>
+		</rom>
+		<rom name="Redneck Rampage (USA).cue" size="1088" crc="32ad0b4b" md5="7774d8722488be77aea1c1e82530883e" sha1="5b68f9b84612282c561592312fcfe3d382440090"/>
 		<rom name="REDNECK.GRP" size="141174222" crc="19d9bc79" md5="88457bae377dabfe0d55dccf8f50c6d3" sha1="1d676ae77b492d671c86e2050cc9b831532c22b7"/>
 		<rom name="REDNECK.RTS" size="1038870" crc="1c4a37dd" md5="fde74164c319b5e080a6569c0b832e2e" sha1="03b1d91c9c3f6122410c8b142b4e5be7f1b1a816"/>
 		<rom name="RR.EXE" size="1172333" crc="455de2cd" md5="1e62852f4723d1a0ad329df7c4bf3b57" sha1="fbf248118da217a56adf0a9b65c53cae88e4ea13"/>

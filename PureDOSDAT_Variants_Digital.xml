@@ -700,15 +700,14 @@
 		<rom name="id1/PAK1.PAK" size="34257856" crc="2e803216" md5="d76b3e5678f0b64ac74ce5e340e6a685" sha1="6fd0d1643047612f41afb2001b972d830c792921" date="1996-07-12 19:31:52"/>
 		<rom name="quake.exe" size="409600" crc="3bc26700" md5="e3e7fcc920610a5fa66c1dd030939fac" sha1="97427017467717a78b1b9e4a01b70ef0f7161856" date="1997-03-11 20:29:24"/>
 	</game>
-	<game name="Redneck Rampage - Suckin' Grits on Route 66 (1997) (Xatrix Entertainment) (GOG).dosz">
+	<game name="Redneck Rampage - Suckin' Grits on Route 66 (1997) (Sunstorm Interactive) (GOG).dosz">
 		<description>Redneck Rampage - Suckin' Grits on Route 66</description>
 		<comment_dosc>Auto start</comment_dosc>
 		<year>1997</year>
-		<developer>Xatrix Entertainment</developer>
+		<developer>Sunstorm Interactive</developer>
 		<variant>GOG</variant>
 		<parent>Redneck Rampage (1997) (Xatrix Entertainment) (GOG).dosz</parent>
 		<link type="store">https://www.gog.com/en/game/redneck_rampage_collection</link>
-		<rom name="_ISDEL.EXE" size="8192" crc="db6ff40d" md5="c3200e3277aef0e5d150d797aa62d55f" sha1="fe96bd82d167f50cb8cd9c9a32d72b77f45f8002"/>
 		<rom name="ASYAMB.VOC" size="537449" crc="1b47f44d" md5="c775fed36f933d1f8c70a5778276cd5c" sha1="aa528ae5c5eae026eb1e1d1282750c930ab22a1f"/>
 		<rom name="BUBBA66.CON" size="5540" crc="7f54fc62" md5="3c62b06fa3d024ea929c2b4b8c345087" sha1="4ed194d0d8c7b7b67e549f42920ba9d9c31b76e6"/>
 		<rom name="DEFS66.CON" size="24986" crc="aa54e1fe" md5="d7be66a529aa0244a9fe0e8a10074ea8" sha1="ec3d1767fa567016792143ca173620eb6e9dff36"/>
@@ -738,6 +737,7 @@
 		<rom name="ROUTE66/START.MAP" size="9222" crc="0b22cd1c" md5="e0d48c9e97d227a7e2077cf2183b0b18" sha1="ea5c9ba2beb5b5f8dd71d8e825873db1f2b32e94"/>
 		<rom name="ROUTE66/TRUCKSTP.MAP" size="166618" crc="b8f0545f" md5="bff56bd12fe75e43ba1e114cb5b99593" sha1="29dc60b5d35ed71eaf9f5a11fc7112006d355a0a"/>
 		<rom name="ROUTE66M.EXE" size="10288" crc="1a39167c" md5="fad3eca1402759b5af666fe0a7d2c3a4" sha1="2825de565c4cb75410ee7e8b3431cf81aed76214"/>
+		<rom name="RR.EXE" size="1172333" crc="a7317b04" md5="b3d7d731f2c3d54e9cbbba476626968e" sha1="f9083c8cf7194451184b21e51cfd047db7326a8d"/>
 		<rom name="TILESA66.ART" size="4215237" crc="3248e472" md5="07c90b69718acc814cfae3f723910c9f" sha1="ebf9ae9863f70dc6f1d4917af5e3cfcecf37127f"/>
 		<rom name="TILESB66.ART" size="5764256" crc="8a2591cb" md5="f9eb5d9a03cddcfded6b9da9f7a889a6" sha1="e73bbe8e2128ef1e9a4aec89769bb8ef0023a11e"/>
 		<rom name="TURD66.ANM" size="2858" crc="33870117" md5="722cef2aef30190a6ee63ca96ba83a43" sha1="145d5cf4216e81c8e3d68237261e3f3bda528568"/>
@@ -746,7 +746,7 @@
 	</game>
 	<game name="Redneck Rampage (1997) (Xatrix Entertainment) (GOG).dosz">
 		<description>Redneck Rampage</description>
-		<comment_dosc>Default GOG config and auto start</comment_dosc>
+		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
 		<year>1997</year>
 		<developer>Xatrix Entertainment</developer>
 		<variant>GOG</variant>
