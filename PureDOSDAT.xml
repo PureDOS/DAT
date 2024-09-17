@@ -5704,33 +5704,80 @@
 		<rom name="MONKEY.STR" size="613" crc="d5c5b4fb" md5="365ec609a464105adc7edbd007311913" sha1="e4bf2140408c74508ad2dfbeb74154a798d04489" date="1992-05-15 13:31:32"/>
 		<rom name="MONKEY.TII" size="3227" crc="1d176e7d" md5="315e01a04a1d339c75ccf5b302e97314" sha1="162a0c05119d6e0d2031fe9799ee3e26d17ed10d" date="1992-05-15 13:31:30"/>
 		<rom name="MONKEY.VGH" size="67570" crc="25031312" md5="8f3ce6b963475a7b562a0046a4df2698" sha1="eae991a4a1055c6d6df41c21d8a90aa4b60bb01e" date="1992-05-15 13:31:32"/>
-		<rom name="Secret of Monkey Island, The (USA) (En,Fr,De,Es,It).chd" size="574986240" crc="df44a4fa" md5="f7488bce7334e6f84516251bf500e3a1" sha1="a53219fcb70b6ebf8e8578e3708b4084e6f23c8c">
-			<track number="1" type="MODE1_RAW" frames="22182" pregap="0" duration="04:55:57" size="52172064" crc="26ef1021" md5="bd3d6a86374ba9340591ee5492749643" sha1="44113741bfd826fa473413e25f28a57c01840f66" in_zeros="1" out_zeros="0"/>
-			<track number="2" type="AUDIO" frames="9503" pregap="318" duration="02:06:53" size="22351056" crc="bbdefd36" md5="2e964b5efd0c214c02ad6ff36041eee1" sha1="2d1e616de47661ed302c70ec5ceddfd055d34e34" in_zeros="770748" out_zeros="261393"/>
-			<track number="3" type="AUDIO" frames="9640" pregap="0" duration="02:08:40" size="22673280" crc="ab4dee31" md5="27a259f599fba1f059534dff73f8c30e" sha1="551cfe36fe83ded809f6144102921599718da190" in_zeros="0" out_zeros="1"/>
-			<track number="4" type="AUDIO" frames="9630" pregap="0" duration="02:08:30" size="22649760" crc="11b71601" md5="b93454c222c871d6775b8dcf3bd988e0" sha1="6c089b48e61791efb3fb83738da3f5426354d5b0" in_zeros="0" out_zeros="2"/>
-			<track number="5" type="AUDIO" frames="8895" pregap="0" duration="01:58:45" size="20921040" crc="dcdfc6aa" md5="c11b67a68f950c805fa797f79baeb29e" sha1="efba4f9f8e539e883576d92d6f90e8aef725021f" in_zeros="0" out_zeros="1"/>
-			<track number="6" type="AUDIO" frames="9735" pregap="0" duration="02:09:60" size="22896720" crc="8e1369a1" md5="17021eff5362e0a6fe5aff46e5b5e649" sha1="2ea5c2bf607f4775477f1b605fcabd98f7735a4d" in_zeros="0" out_zeros="1"/>
-			<track number="7" type="AUDIO" frames="1140" pregap="0" duration="00:15:15" size="2681280" crc="0a32000e" md5="2850faf22b6ad87de52d2924a949b651" sha1="3d0f8c4feb8443b3ab9687cd4763fb6f54c69a5b" in_zeros="0" out_zeros="1"/>
-			<track number="8" type="AUDIO" frames="5535" pregap="0" duration="01:13:60" size="13018320" crc="ea3a86c2" md5="995db6293be050fd932369dbf5621a7c" sha1="ff0bd3a51f5bca20adce790863b1e1e0e0777fa2" in_zeros="0" out_zeros="0"/>
-			<track number="9" type="AUDIO" frames="10630" pregap="0" duration="02:21:55" size="25001760" crc="03477a54" md5="8560aac1c7fba4037b4dd5eebb130329" sha1="5ce5106474e38f2b6411c6ce3fa3462368e644fb" in_zeros="0" out_zeros="1"/>
-			<track number="10" type="AUDIO" frames="9485" pregap="0" duration="02:06:35" size="22308720" crc="7995d201" md5="f7ccca70f53b582afc4114c934e4c0f0" sha1="5d9076b931dea58deb8b0113a4b25bd5b50dc0e2" in_zeros="0" out_zeros="1"/>
-			<track number="11" type="AUDIO" frames="7125" pregap="0" duration="01:35:00" size="16758000" crc="8e09e5ac" md5="ce5821776d0b87f674a60f3ecd7ef3a5" sha1="2fb59da8cc1cc3e3f181d98186280c2656d61c44" in_zeros="0" out_zeros="2"/>
-			<track number="12" type="AUDIO" frames="10625" pregap="0" duration="02:21:50" size="24990000" crc="20de0164" md5="9d418f9fa54b001072a081dfb929fa32" sha1="52e7e898b2245b512369cc0ae5a9d546936da611" in_zeros="0" out_zeros="1"/>
-			<track number="13" type="AUDIO" frames="9420" pregap="0" duration="02:05:45" size="22155840" crc="1f6e4ca5" md5="b795f2aeaa5bd487a789626bed1e5999" sha1="6869587020f4c82f818eef2f81dc8b82957d92ae" in_zeros="0" out_zeros="2"/>
-			<track number="14" type="AUDIO" frames="1555" pregap="0" duration="00:20:55" size="3657360" crc="f19f35f8" md5="af5d7a0c9852666272cfc257993187e2" sha1="c7846c6c7cedd4630e8e72ba62e66fd68a83ce83" in_zeros="0" out_zeros="1"/>
-			<track number="15" type="AUDIO" frames="12020" pregap="0" duration="02:40:20" size="28271040" crc="435a8654" md5="64fe4a3613cdc316c8aeb6c6e6a7f4b8" sha1="5345a04be21448352fa0c28d3c53ead454ad517b" in_zeros="0" out_zeros="1"/>
-			<track number="16" type="AUDIO" frames="11430" pregap="0" duration="02:32:30" size="26883360" crc="4fcdec58" md5="2121f9be7b1fa381927df36e4315bf6d" sha1="cae365d26f90dcddc313286c4496d6a6538938fa" in_zeros="0" out_zeros="1"/>
-			<track number="17" type="AUDIO" frames="16675" pregap="0" duration="03:42:25" size="39219600" crc="416f49fa" md5="43f0449bd4cb7c24be7558990aa83094" sha1="eafb63291aacaf5882936de18424eda0325e0f44" in_zeros="0" out_zeros="1"/>
-			<track number="18" type="AUDIO" frames="12200" pregap="0" duration="02:42:50" size="28694400" crc="8bea3386" md5="452acd441114df793e0106132d7c9916" sha1="a58711b07878ea425785d6b9b491994fde0f2938" in_zeros="0" out_zeros="1"/>
-			<track number="19" type="AUDIO" frames="11885" pregap="0" duration="02:38:35" size="27953520" crc="dcc4e029" md5="45cf6a7af103c62823bc326de906fb45" sha1="10648d0a15404b5c935e7d5b08249be9f0ef288d" in_zeros="0" out_zeros="1"/>
-			<track number="20" type="AUDIO" frames="1490" pregap="0" duration="00:19:65" size="3504480" crc="c0592583" md5="cc7625efe149b94fed1570f13eb9eb4a" sha1="a60b6226df9135aa7633b8b98a3ed94a540852b6" in_zeros="0" out_zeros="1"/>
-			<track number="21" type="AUDIO" frames="1360" pregap="0" duration="00:18:10" size="3198720" crc="de32efc0" md5="ac1182ec4a87af620f944a3dfa680f05" sha1="194901283d6d899be1a5127c8818055e0efaef76" in_zeros="0" out_zeros="0"/>
-			<track number="22" type="AUDIO" frames="10340" pregap="0" duration="02:17:65" size="24319680" crc="975f5f28" md5="bb921bf32dfa628247da95a38936f366" sha1="fcf04c8e8123ef4cf0292f5c72be75087feac533" in_zeros="0" out_zeros="1"/>
-			<track number="23" type="AUDIO" frames="11045" pregap="0" duration="02:27:20" size="25977840" crc="11a87b66" md5="1e501e54c5aa55685931ec8ca1d72b87" sha1="8432e1116c30a784ce40c2a422b62ceb4904cab0" in_zeros="0" out_zeros="2"/>
-			<track number="24" type="AUDIO" frames="10350" pregap="0" duration="02:18:00" size="24343200" crc="f0b1618d" md5="ebd8e131683f20c3ff92cb5072e1f3d3" sha1="7dfc1499d75cbed1e81bb37fb71f698e650e51a5" in_zeros="0" out_zeros="1"/>
-			<track number="25" type="AUDIO" frames="11605" pregap="0" duration="02:34:55" size="27294960" crc="12fe490a" md5="197b784339b8a3ce6023debd52aee258" sha1="1493f391729754f1b1a99f55ce17c93bfea2cdd5" in_zeros="0" out_zeros="501134"/>
+		<rom name="Secret of Monkey Island, The (USA) (En,Fr,De,Es,It) (Track 1).bin" size="52172064" crc="26ef1021" md5="bd3d6a86374ba9340591ee5492749643" sha1="44113741bfd826fa473413e25f28a57c01840f66"/>
+		<rom name="Secret of Monkey Island, The (USA) (En,Fr,De,Es,It) (Track 2).ogg" size="3399593" crc="cedeb3db" md5="9657b7903391ccee2db8e10facd6a4fa" sha1="c5d278b8c5dc305dd07dd9f702ce38ce5972c773">
+			<source frames="9503" pregap="318" duration="02:06:53" size="21603120" crc="e010ab50" md5="3197bcc99843cba494602856d1d44608" sha1="69d96ecdffd3ce4a1497fc1807c6bd6a0a46f0ab" in_zeros="22812" out_zeros="261393" trimmed_crc="e5f13e73" quality="8"/>
 		</rom>
+		<rom name="Secret of Monkey Island, The (USA) (En,Fr,De,Es,It) (Track 3).ogg" size="3601788" crc="2d39a08c" md5="9d14767ab8f92dc635a2039df8ec61c3" sha1="4da541da1756fdba831ca4ca2690cb39efc2573d">
+			<source frames="9640" pregap="0" duration="02:08:40" size="22673280" crc="ab4dee31" md5="27a259f599fba1f059534dff73f8c30e" sha1="551cfe36fe83ded809f6144102921599718da190" in_zeros="0" out_zeros="1" trimmed_crc="93b91809" quality="8"/>
+		</rom>
+		<rom name="Secret of Monkey Island, The (USA) (En,Fr,De,Es,It) (Track 4).ogg" size="3577109" crc="c9c8f013" md5="6cff6c46d0ecfbf8ff371fe7d95bd41a" sha1="31bdcd50ee97c23a2dcf187b6b659ab59502ba75">
+			<source frames="9630" pregap="0" duration="02:08:30" size="22649760" crc="11b71601" md5="b93454c222c871d6775b8dcf3bd988e0" sha1="6c089b48e61791efb3fb83738da3f5426354d5b0" in_zeros="0" out_zeros="2" trimmed_crc="1e938450" quality="8"/>
+		</rom>
+		<rom name="Secret of Monkey Island, The (USA) (En,Fr,De,Es,It) (Track 5).ogg" size="3218492" crc="a17ad3ca" md5="66d9fa76e6afaed401660afff2595d39" sha1="57fd78afa1dbb197b71c501e8c75966a9df33ee4">
+			<source frames="8895" pregap="0" duration="01:58:45" size="20921040" crc="dcdfc6aa" md5="c11b67a68f950c805fa797f79baeb29e" sha1="efba4f9f8e539e883576d92d6f90e8aef725021f" in_zeros="0" out_zeros="1" trimmed_crc="06a11508" quality="8"/>
+		</rom>
+		<rom name="Secret of Monkey Island, The (USA) (En,Fr,De,Es,It) (Track 6).ogg" size="4252255" crc="2c38884b" md5="5ef9eba67f57791cba16fb9f4564bcc8" sha1="ef24d2421ed24612b6d8c87d3843e1ccdb8a8014">
+			<source frames="9735" pregap="0" duration="02:09:60" size="22896720" crc="8e1369a1" md5="17021eff5362e0a6fe5aff46e5b5e649" sha1="2ea5c2bf607f4775477f1b605fcabd98f7735a4d" in_zeros="0" out_zeros="1" trimmed_crc="a2ec28bb" quality="8"/>
+		</rom>
+		<rom name="Secret of Monkey Island, The (USA) (En,Fr,De,Es,It) (Track 7).ogg" size="436202" crc="c4f9cf48" md5="cb4c8068d1a0518c8ed31c9c1014799f" sha1="908fd27b5f42490c9225728b5901c20937459444">
+			<source frames="1140" pregap="0" duration="00:15:15" size="2681280" crc="0a32000e" md5="2850faf22b6ad87de52d2924a949b651" sha1="3d0f8c4feb8443b3ab9687cd4763fb6f54c69a5b" in_zeros="0" out_zeros="1" trimmed_crc="3dc459a8" quality="8"/>
+		</rom>
+		<rom name="Secret of Monkey Island, The (USA) (En,Fr,De,Es,It) (Track 8).ogg" size="2076096" crc="de023740" md5="800ff51d487e68c3c2d2a792d54523dd" sha1="e5d677e59b68af62b26e6c9f5166d9616d1994f4">
+			<source frames="5535" pregap="0" duration="01:13:60" size="13018320" crc="ea3a86c2" md5="995db6293be050fd932369dbf5621a7c" sha1="ff0bd3a51f5bca20adce790863b1e1e0e0777fa2" in_zeros="0" out_zeros="0" trimmed_crc="ea3a86c2" quality="8"/>
+		</rom>
+		<rom name="Secret of Monkey Island, The (USA) (En,Fr,De,Es,It) (Track 9).ogg" size="4401715" crc="63ce3e58" md5="b524b50c834262a56e9f3d0f690574b0" sha1="fec5564baa62d9a51b95137e7237c6c788064e45">
+			<source frames="10630" pregap="0" duration="02:21:55" size="25001760" crc="03477a54" md5="8560aac1c7fba4037b4dd5eebb130329" sha1="5ce5106474e38f2b6411c6ce3fa3462368e644fb" in_zeros="0" out_zeros="1" trimmed_crc="fef228a4" quality="8"/>
+		</rom>
+		<rom name="Secret of Monkey Island, The (USA) (En,Fr,De,Es,It) (Track 10).ogg" size="3993848" crc="bc2c0032" md5="53a8d0fcbb8d1bb8f927e7585c48d519" sha1="e3ad1255ddf1a7426fe0d8fc0281b728aff6706d">
+			<source frames="9485" pregap="0" duration="02:06:35" size="22308720" crc="7995d201" md5="f7ccca70f53b582afc4114c934e4c0f0" sha1="5d9076b931dea58deb8b0113a4b25bd5b50dc0e2" in_zeros="0" out_zeros="1" trimmed_crc="4600d52f" quality="8"/>
+		</rom>
+		<rom name="Secret of Monkey Island, The (USA) (En,Fr,De,Es,It) (Track 11).ogg" size="2874729" crc="064bcf51" md5="d7e23962d011fcb99153d096c67c8786" sha1="9b180d2190a9885f6dbbd907e61b486c99a54688">
+			<source frames="7125" pregap="0" duration="01:35:00" size="16758000" crc="8e09e5ac" md5="ce5821776d0b87f674a60f3ecd7ef3a5" sha1="2fb59da8cc1cc3e3f181d98186280c2656d61c44" in_zeros="0" out_zeros="2" trimmed_crc="d2eac411" quality="8"/>
+		</rom>
+		<rom name="Secret of Monkey Island, The (USA) (En,Fr,De,Es,It) (Track 12).ogg" size="4530737" crc="e77d8e57" md5="cd5a9bde5dc735d11d75fef293affa2b" sha1="a51f8a8e8092948685fbadde8403732fb40ed933">
+			<source frames="10625" pregap="0" duration="02:21:50" size="24990000" crc="20de0164" md5="9d418f9fa54b001072a081dfb929fa32" sha1="52e7e898b2245b512369cc0ae5a9d546936da611" in_zeros="0" out_zeros="1" trimmed_crc="beeea753" quality="8"/>
+		</rom>
+		<rom name="Secret of Monkey Island, The (USA) (En,Fr,De,Es,It) (Track 13).ogg" size="3873274" crc="b98f7a11" md5="a917bdc3b2a0a53137bf8710119d3a1d" sha1="8f57b2ab6a6133e5069434ef07d05326ddfc0e2f">
+			<source frames="9420" pregap="0" duration="02:05:45" size="22155840" crc="1f6e4ca5" md5="b795f2aeaa5bd487a789626bed1e5999" sha1="6869587020f4c82f818eef2f81dc8b82957d92ae" in_zeros="0" out_zeros="2" trimmed_crc="a1968693" quality="8"/>
+		</rom>
+		<rom name="Secret of Monkey Island, The (USA) (En,Fr,De,Es,It) (Track 14).ogg" size="594989" crc="5e3f29bd" md5="61d21769a3e7a6eb26a3da887b8dc8b5" sha1="9a4deb3ccc800d0dce8e6a9b5129e9d68e7e32f6">
+			<source frames="1555" pregap="0" duration="00:20:55" size="3657360" crc="f19f35f8" md5="af5d7a0c9852666272cfc257993187e2" sha1="c7846c6c7cedd4630e8e72ba62e66fd68a83ce83" in_zeros="0" out_zeros="1" trimmed_crc="44bdcaf7" quality="8"/>
+		</rom>
+		<rom name="Secret of Monkey Island, The (USA) (En,Fr,De,Es,It) (Track 15).ogg" size="5219081" crc="2e2783c3" md5="c04bbb1b15424a8f0a58b6c6c2befa14" sha1="28af85852c6b3c6a4865a4aeb9bd74b582f8af98">
+			<source frames="12020" pregap="0" duration="02:40:20" size="28271040" crc="435a8654" md5="64fe4a3613cdc316c8aeb6c6e6a7f4b8" sha1="5345a04be21448352fa0c28d3c53ead454ad517b" in_zeros="0" out_zeros="1" trimmed_crc="3c054e4e" quality="8"/>
+		</rom>
+		<rom name="Secret of Monkey Island, The (USA) (En,Fr,De,Es,It) (Track 16).ogg" size="4642748" crc="4411468b" md5="183374ec0bfb492176584a9074f7ea3f" sha1="56c588ad271211a526a40b7fcc2caa04e8ce19ce">
+			<source frames="11430" pregap="0" duration="02:32:30" size="26883360" crc="4fcdec58" md5="2121f9be7b1fa381927df36e4315bf6d" sha1="cae365d26f90dcddc313286c4496d6a6538938fa" in_zeros="0" out_zeros="1" trimmed_crc="1d747a85" quality="8"/>
+		</rom>
+		<rom name="Secret of Monkey Island, The (USA) (En,Fr,De,Es,It) (Track 17).ogg" size="6521884" crc="b3fa7d0c" md5="b4766fc500873ad69644b3ffb61490bd" sha1="a5e3d4e8ce8404b1cd50ffa9c18ae1cd429893f8">
+			<source frames="16675" pregap="0" duration="03:42:25" size="39219600" crc="416f49fa" md5="43f0449bd4cb7c24be7558990aa83094" sha1="eafb63291aacaf5882936de18424eda0325e0f44" in_zeros="0" out_zeros="1" trimmed_crc="6459ea8d" quality="8"/>
+		</rom>
+		<rom name="Secret of Monkey Island, The (USA) (En,Fr,De,Es,It) (Track 18).ogg" size="4764518" crc="0f4c8ce9" md5="54a15a192b3577bb7ea42100c02f63cc" sha1="847378d5a213174918e13ec34fd1b158c3988b32">
+			<source frames="12200" pregap="0" duration="02:42:50" size="28694400" crc="8bea3386" md5="452acd441114df793e0106132d7c9916" sha1="a58711b07878ea425785d6b9b491994fde0f2938" in_zeros="0" out_zeros="1" trimmed_crc="5be11c7c" quality="8"/>
+		</rom>
+		<rom name="Secret of Monkey Island, The (USA) (En,Fr,De,Es,It) (Track 19).ogg" size="4692964" crc="9e6dcf3e" md5="15511e9bc87b70bcc6864e1073c1db48" sha1="3f9f201a9acb8b7f3be274cf5937a5161be9e2da">
+			<source frames="11885" pregap="0" duration="02:38:35" size="27953520" crc="dcc4e029" md5="45cf6a7af103c62823bc326de906fb45" sha1="10648d0a15404b5c935e7d5b08249be9f0ef288d" in_zeros="0" out_zeros="1" trimmed_crc="1d879608" quality="8"/>
+		</rom>
+		<rom name="Secret of Monkey Island, The (USA) (En,Fr,De,Es,It) (Track 20).ogg" size="510975" crc="9a3d14c5" md5="d2cc01e67856127fc6e4bf4360f959e1" sha1="7290ff181bab050de95399649def3cb0bdc17737">
+			<source frames="1490" pregap="0" duration="00:19:65" size="3504480" crc="c0592583" md5="cc7625efe149b94fed1570f13eb9eb4a" sha1="a60b6226df9135aa7633b8b98a3ed94a540852b6" in_zeros="0" out_zeros="1" trimmed_crc="ec235e59" quality="8"/>
+		</rom>
+		<rom name="Secret of Monkey Island, The (USA) (En,Fr,De,Es,It) (Track 21).ogg" size="503910" crc="0e81f4a3" md5="10b227d19728625d387f769a4c5dffc9" sha1="14e98eef92fd3705aba01c763d45ac288c8b8ddb">
+			<source frames="1360" pregap="0" duration="00:18:10" size="3198720" crc="de32efc0" md5="ac1182ec4a87af620f944a3dfa680f05" sha1="194901283d6d899be1a5127c8818055e0efaef76" in_zeros="0" out_zeros="0" trimmed_crc="de32efc0" quality="8"/>
+		</rom>
+		<rom name="Secret of Monkey Island, The (USA) (En,Fr,De,Es,It) (Track 22).ogg" size="4728800" crc="58e9effa" md5="6585e10015408f4a7e0a5fd3476537b9" sha1="f7b59c7b2cf3f5b5d97a1c1100d711613bfaa3fe">
+			<source frames="10340" pregap="0" duration="02:17:65" size="24319680" crc="975f5f28" md5="bb921bf32dfa628247da95a38936f366" sha1="fcf04c8e8123ef4cf0292f5c72be75087feac533" in_zeros="0" out_zeros="1" trimmed_crc="82ecd02d" quality="8"/>
+		</rom>
+		<rom name="Secret of Monkey Island, The (USA) (En,Fr,De,Es,It) (Track 23).ogg" size="5238872" crc="1ee78fb0" md5="b141174c836a7b3587c8b58eb6e3b19d" sha1="f4cf81e39b99345fba9058fd6659da8ccce0eb6b">
+			<source frames="11045" pregap="0" duration="02:27:20" size="25977840" crc="11a87b66" md5="1e501e54c5aa55685931ec8ca1d72b87" sha1="8432e1116c30a784ce40c2a422b62ceb4904cab0" in_zeros="0" out_zeros="2" trimmed_crc="a977ea83" quality="8"/>
+		</rom>
+		<rom name="Secret of Monkey Island, The (USA) (En,Fr,De,Es,It) (Track 24).ogg" size="3530181" crc="51e065e3" md5="1cc4f0456319d6af79b558ac3770c3c6" sha1="b018c026509128b4f1da86f6e2f2004f9982ce03">
+			<source frames="10350" pregap="0" duration="02:18:00" size="24343200" crc="f0b1618d" md5="ebd8e131683f20c3ff92cb5072e1f3d3" sha1="7dfc1499d75cbed1e81bb37fb71f698e650e51a5" in_zeros="0" out_zeros="1" trimmed_crc="b198b9b6" quality="8"/>
+		</rom>
+		<rom name="Secret of Monkey Island, The (USA) (En,Fr,De,Es,It) (Track 25).ogg" size="3937559" crc="8619bb1a" md5="0cfb72bcf1c5dac38a80dd6cce7ded1b" sha1="1ba7263618a033452e71183040c896ece5ac7196">
+			<source frames="11605" pregap="0" duration="02:34:55" size="27294960" crc="12fe490a" md5="197b784339b8a3ce6023debd52aee258" sha1="1493f391729754f1b1a99f55ce17c93bfea2cdd5" in_zeros="0" out_zeros="501134" trimmed_crc="72058510" quality="8"/>
+		</rom>
+		<rom name="Secret of Monkey Island, The (USA) (En,Fr,De,Es,It).cue" size="3020" crc="fafda890" md5="8483e431e54a2c772680eb38d425738b" sha1="75fd1f2c4c9df170df9421e2c7b6df88ab039de4"/>
 		<rom name="SPANISH/ADLIB.IMS" size="20736" crc="9e74edec" md5="2a7b5085d178470ac1c93553b385ed2c" sha1="243fd137b5e4fb9507310a221ae6bab3bfcbc8c6" date="1992-05-15 13:37:20"/>
 		<rom name="SPANISH/MONKEY.000" size="8955" crc="5092187f" md5="f049e38c1f8302b5db6170f1872af89a" sha1="0fe51741703dfd42008a528216b6f38c190fd476" date="1992-05-15 13:37:16"/>
 		<rom name="SPANISH/MONKEY.001" size="4782166" crc="0ce0b11c" md5="ac27b299c2c18662f96451b0a691990f" sha1="170b363a3d4f6fec0e70161da97297066ee9576a" date="1992-05-15 13:37:16"/>
