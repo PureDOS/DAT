@@ -1678,6 +1678,20 @@
 			<track number="1" type="MODE1_RAW" frames="12263" pregap="0" duration="02:43:38" size="28842576" crc="595159ca" md5="f62af4712ca5d4307acb8e149288d3ec" sha1="f6a6beb9ac156153f28ee93477b2b2b00dbdd2df" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
+	<game name="Might and Magic - World of Xeen (1993) (New World Computing) (Floppy Version).dosz">
+		<description>Might and Magic - World of Xeen</description>
+		<comment>Non-voiced version, installed from the Might and Magic Trilogy CD. Also matches with the Ultimate Might and Magic Archives CD</comment>
+		<comment_dosc>Copy protection patch, Sound Blaster config, and auto start. MT-32 option</comment_dosc>
+		<year>1993</year>
+		<developer>New World Computing</developer>
+		<variant>Floppy Version</variant>
+		<rom name="DARK.CC" size="11217676" crc="d5e96530" md5="89d5c3a3a31fdaf5868728b64541c9bd" sha1="29665d274acedc80a7acb7fad3939fd78fd74846" date="1993-05-19 05:43:24"/>
+		<rom name="INSTALL.EXE" size="21876" crc="5e91925d" md5="7e2668b0ffdb4dc182800d5ac0c62a64" sha1="da976a1c0f1c5a8ed886ce13a1a852a884de88fb" date="1993-05-24 11:11:42"/>
+		<rom name="INTRO.CC" size="8986211" crc="3d514392" md5="26d3415d232861b0a7695deace4e187d" sha1="3818b2b1b2326b86bd3cd9962d094910b85891c4" date="1993-05-19 05:39:32"/>
+		<rom name="XEEN.CC" size="13435646" crc="ecf2e3ab" md5="60933c74b1ddb2a6b93b86757b0995e4" sha1="8b2cff57083c1d7c0a6e663637fe76cdae5e6cf8" date="1992-10-07 18:40:36"/>
+		<rom name="XEEN.DAT" size="153919" crc="97d96e6d" md5="a505da1618a3cc6245d227d800d1c601" sha1="d377086f7154514d554ac7842e6cbe7c68f5f4b3" date="1993-07-19 15:08:32"/>
+		<rom name="XEEN.EXE" size="53681" crc="b9ad93d2" md5="e3c0ccd6ecb3dccab52475baad40d3b3" sha1="975469d96c151248d797c2ebfae369c1da869793" date="1993-06-10 17:10:42"/>
+	</game>
 	<game name="Sid Meier's Civilization (1991) (MPS Labs) (v474.05).dosz">
 		<description>Sid Meier's Civilization</description>
 		<comment>Installed from the 2 v474.04 3.5" floppy disks with a replaced CIV.EXE from an officially distributed upgrade</comment>
