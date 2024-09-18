@@ -903,21 +903,37 @@
 	</game>
 	<game name="Elder Scrolls Legend, An - Battlespire (1997) (Bethesda Softworks).dosz">
 		<description>Elder Scrolls Legend, An - Battlespire</description>
-		<comment>Installed v1.5 from Europe CD-ROM. Video driver bypass disabled, video captions enabled, and childguard feature disabled during installation. SPIRE.CFG must have path edited to C:\. Needs DOS.YML with mem_size: 65536</comment>
+		<comment>Installed v1.5 from Europe CD-ROM. Video driver bypass disabled, video captions enabled, and childguard feature disabled during installation. SPIRE.CFG must have path edited to C:\. Needs DOS.YML with mem_size: 65536. Audio tracks converted with CHDtoOGG</comment>
 		<comment_dosc>Sound Blaster 16 config, edited SPIRE.BAT and SPIRE.CFG to prevent issues, and auto start</comment_dosc>
 		<year>1997</year>
 		<developer>Bethesda Softworks</developer>
+		<link type="media">http://redump.org/disc/37479/</link>
 		<rom name="DOS.YML" size="17" crc="9e2ade80" md5="5e4e9514ccbed110c66ed799f2b0c449" sha1="7ff552bf9a73a8ba6fe5089d140c63e3d6be659c"/>
-		<rom name="Elder Scrolls Legend, An - Battlespire (Europe).chd" size="757489536" crc="494f1715" md5="44ed2911f2355da06ef7132e0bb7fd85" sha1="1860f47f762e6d62a4b8c2a42823e4640432f499">
-			<track number="1" type="MODE1_RAW" frames="211756" pregap="0" duration="47:03:31" size="498050112" crc="90f4434b" md5="a4d7567a6073e8451de662e7f973e650" sha1="ec3abaf717701db0078ef0ecd4aff847b7e2ce7c" in_zeros="1" out_zeros="0"/>
-			<track number="2" type="AUDIO" frames="14036" pregap="0" duration="03:07:11" size="33012672" crc="58fbca52" md5="ccd4e5ee48a9d583de890e221508938b" sha1="74a6fa664fe75a56d72355fb4458c2bc217efaec" in_zeros="7056" out_zeros="0"/>
-			<track number="3" type="AUDIO" frames="13576" pregap="0" duration="03:01:01" size="31930752" crc="f40ec8ee" md5="ed667b525e17f2b4770d765098802c68" sha1="3b4cb5df322f8531db4f33f62fe0a3e0035ca56e" in_zeros="0" out_zeros="0"/>
-			<track number="4" type="AUDIO" frames="13751" pregap="0" duration="03:03:26" size="32342352" crc="29e42e91" md5="0726b93349994f352e1c57628bf48c0d" sha1="7e16be3142d4e00356cb20b9613b7da3fe926eb2" in_zeros="0" out_zeros="3"/>
-			<track number="5" type="AUDIO" frames="14897" pregap="0" duration="03:18:47" size="35037744" crc="5fb00725" md5="126548c555a3caef15cd939aa75be716" sha1="3dc596588f6a17cafe153b379e1be56e29ebb56a" in_zeros="0" out_zeros="6"/>
-			<track number="6" type="AUDIO" frames="13684" pregap="0" duration="03:02:34" size="32184768" crc="4ed9263e" md5="9912caecb1bcce9046e79801bfb725d7" sha1="c67bd308b0618fe6f1ac0794df1d1f0df54ead17" in_zeros="0" out_zeros="1"/>
-			<track number="7" type="AUDIO" frames="14321" pregap="0" duration="03:10:71" size="33682992" crc="5e0b7956" md5="5f59eb736e750136623eb8250f50d1be" sha1="cc6b0f587e92a761e01c23ce2bd01831e64e7047" in_zeros="0" out_zeros="0"/>
-			<track number="8" type="AUDIO" frames="14165" pregap="0" duration="03:08:65" size="33316080" crc="8726abe9" md5="b8878c15fee3870ba54f32c490390b98" sha1="addf7f82cf8baba5493aff4f8135a75276bc4295" in_zeros="0" out_zeros="7057"/>
+		<rom name="Elder Scrolls Legend, An - Battlespire (Europe) (Track 1).bin" size="498050112" crc="90f4434b" md5="a4d7567a6073e8451de662e7f973e650" sha1="ec3abaf717701db0078ef0ecd4aff847b7e2ce7c"/>
+			<source frames="211756" pregap="0" duration="47:03:31" size="498050112" crc="90f4434b" md5="a4d7567a6073e8451de662e7f973e650" sha1="ec3abaf717701db0078ef0ecd4aff847b7e2ce7c"/>
 		</rom>
+		<rom name="Elder Scrolls Legend, An - Battlespire (Europe) (Track 2).ogg" size="4951198" crc="ecd6d904" md5="d37248ae2d7d67c0f587722034b21ff4" sha1="5b98229bcb47b8f8a9cf4cf93d2df7d25313b918">
+			<source frames="14036" pregap="0" duration="03:07:11" size="33012672" crc="58fbca52" md5="ccd4e5ee48a9d583de890e221508938b" sha1="74a6fa664fe75a56d72355fb4458c2bc217efaec" in_zeros="7056" out_zeros="0" trimmed_crc="17a7f6d8" quality="8"/>
+		</rom>
+		<rom name="Elder Scrolls Legend, An - Battlespire (Europe) (Track 3).ogg" size="5104591" crc="19cbb319" md5="a77fd6991e77ea4697c5bad044216df7" sha1="0e401beb4863f80ffd7ca109ed28409c54acc2bf">
+			<source frames="13576" pregap="0" duration="03:01:01" size="31930752" crc="f40ec8ee" md5="ed667b525e17f2b4770d765098802c68" sha1="3b4cb5df322f8531db4f33f62fe0a3e0035ca56e" in_zeros="0" out_zeros="0" trimmed_crc="f40ec8ee" quality="8"/>
+		</rom>
+		<rom name="Elder Scrolls Legend, An - Battlespire (Europe) (Track 4).ogg" size="4785948" crc="a2247693" md5="2624dcf7524223384dae93805628bae6" sha1="28b55997b07967540745999348facc73af3d6631">
+			<source frames="13751" pregap="0" duration="03:03:26" size="32342352" crc="29e42e91" md5="0726b93349994f352e1c57628bf48c0d" sha1="7e16be3142d4e00356cb20b9613b7da3fe926eb2" in_zeros="0" out_zeros="3" trimmed_crc="757961d8" quality="8"/>
+		</rom>
+		<rom name="Elder Scrolls Legend, An - Battlespire (Europe) (Track 5).ogg" size="5529139" crc="590be79f" md5="724917051e8a115bdbec4cffa519c3fa" sha1="0339c713777b80960480694601a38cbc58f1aeb8">
+			<source frames="14897" pregap="0" duration="03:18:47" size="35037744" crc="5fb00725" md5="126548c555a3caef15cd939aa75be716" sha1="3dc596588f6a17cafe153b379e1be56e29ebb56a" in_zeros="0" out_zeros="6" trimmed_crc="7372a603" quality="8"/>
+		</rom>
+		<rom name="Elder Scrolls Legend, An - Battlespire (Europe) (Track 6).ogg" size="4908498" crc="8d091ba6" md5="7333c72678d7bf4d0e4b79c6880eb3c5" sha1="f48b514ee3c9d164cf77b27478deb95e4e4adff0">
+			<source frames="13684" pregap="0" duration="03:02:34" size="32184768" crc="4ed9263e" md5="9912caecb1bcce9046e79801bfb725d7" sha1="c67bd308b0618fe6f1ac0794df1d1f0df54ead17" in_zeros="0" out_zeros="1" trimmed_crc="d2cf1ac4" quality="8"/>
+		</rom>
+		<rom name="Elder Scrolls Legend, An - Battlespire (Europe) (Track 7).ogg" size="4759393" crc="3a174fb6" md5="eec84cfc6cbc71a2e652bcce20e8ed28" sha1="007b6fe1a9c3f393976519295cd790a142728c0d">
+			<source frames="14321" pregap="0" duration="03:10:71" size="33682992" crc="5e0b7956" md5="5f59eb736e750136623eb8250f50d1be" sha1="cc6b0f587e92a761e01c23ce2bd01831e64e7047" in_zeros="0" out_zeros="0" trimmed_crc="5e0b7956" quality="8"/>
+		</rom>
+		<rom name="Elder Scrolls Legend, An - Battlespire (Europe) (Track 8).ogg" size="5097955" crc="f0d2adf1" md5="505fdd479397b7909cdeff47ce6234fa" sha1="d2c1cb10b820b32e4fd9f6f573da09577764d331">
+			<source frames="14165" pregap="0" duration="03:08:65" size="33316080" crc="8726abe9" md5="b8878c15fee3870ba54f32c490390b98" sha1="addf7f82cf8baba5493aff4f8135a75276bc4295" in_zeros="0" out_zeros="7057" trimmed_crc="349a3876" quality="8"/>
+		</rom>
+		<rom name="Elder Scrolls Legend, An - Battlespire (Europe).cue" size="928" crc="e055ffd2" md5="081a6d6132d5bfc9277675549fb2af41" sha1="b7361323050e8c21e66269b0cb177623346fe8d6"/>
 		<rom name="GAME.EXE" size="1228254" crc="f688e31d" md5="809fb0dbc3f3ab9575c142bce4fadb20" sha1="3eaeb69e25a13d29bf726cb5530c7d6a2ece83a3" date="1998-01-21 17:32:34"/>
 		<rom name="GAMEDATA/23ET.3D" size="3038" crc="7183bdfa" md5="41957536e22b1fd3c5e3cac3162c1045" sha1="3eb2b8919b687c543fe4b8ee42d4427cc70d5f2a" date="1997-09-04 13:57:20"/>
 		<rom name="GAMEDATA/3D.BS6" size="4995513" crc="0c13818d" md5="2a48ad3f2dbd4ee07adcc4f5ce1d934c" sha1="ab4d2eabed9cb8b8512084f206fc55ea47764d77" date="1997-10-29 15:57:08"/>

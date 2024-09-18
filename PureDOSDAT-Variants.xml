@@ -60,10 +60,11 @@
 	<game name="Elder Scrolls Legend, An - Battlespire (1997) (Bethesda Softworks) (GOG).dosz">
 		<description>Elder Scrolls Legend, An - Battlespire</description>
 		<comment>v1.5. Needs DOS.YML with mem_size: 65536</comment>
-		<comment_dosc>Default GOG config and auto start</comment_dosc>
+		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
 		<year>1997</year>
 		<developer>Bethesda Softworks</developer>
 		<variant>GOG</variant>
+		<link type="store">https://www.gog.com/en/game/an_elder_scrolls_legend_battlespire</link>
 		<rom name="DOS.YML" size="17" crc="9e2ade80" md5="5e4e9514ccbed110c66ed799f2b0c449" sha1="7ff552bf9a73a8ba6fe5089d140c63e3d6be659c"/>
 		<rom name="GAME.EXE" size="1228254" crc="f688e31d" md5="809fb0dbc3f3ab9575c142bce4fadb20" sha1="3eaeb69e25a13d29bf726cb5530c7d6a2ece83a3"/>
 		<rom name="game.gog" size="495613440" crc="3fab86af" md5="238d1883c1f07d33f9ea3601cc70db97" sha1="d4b3b430284a8b394151a6cb20fe8e5ed972bfe0"/>
