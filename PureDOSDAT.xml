@@ -6995,80 +6995,82 @@
 		<rom name="PCMAP/RAY5.WLD" size="995747" crc="7bd9e231" md5="ad1746d206638c968a44469585665ee7" sha1="bbb17d4653f0b1acdb4943c24ce3016c5ea1f541"/>
 		<rom name="PCMAP/RAY6.WLD" size="778784" crc="95179743" md5="4c776db42321fba82722194a05f18f40" sha1="2382512b65a291eed481dc195a01463da546265c"/>
 		<rom name="RAY.LNG" size="13606" crc="e154107c" md5="76476102aca1137300e48dcc7714cbb8" sha1="3bfab944976fbe58ab6a3cf3efd3a40f64c2c55c"/>
-		<rom name="Rayman (USA) (En,Fr,De) (Track 1).bin" size="108234336" crc="7c9150b0" md5="2b2c8a4c427318365baa2b812d8743ba" sha1="a10f2686131f185edd48ba4c77ecaac8f263c291"/>
-		<rom name="Rayman (USA) (En,Fr,De) (Track 2).ogg" size="4433589" crc="d18c07b0" md5="ace63b68eabd25bbedb4ba9f0d209835" sha1="6937020cc5f5bdabd35403fde4d22bcb25d03522">
-			<source frames="11251" pregap="151" duration="02:30:01" size="26462352" crc="6f8e03dd" md5="c0aaab8a173fbd326972427c3eadd311" sha1="7dc2019445fe1d55db4c4a46d4f77c1cf28ce8ec" in_zeros="1" out_zeros="0" trimmed_crc="08ecc970" quality="8"/>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 1).bin" size="108234336" crc="7c9150b0" md5="2b2c8a4c427318365baa2b812d8743ba" sha1="a10f2686131f185edd48ba4c77ecaac8f263c291">
+			<source frames="46018" pregap="0" duration="10:13:43" size="108234336" crc="7c9150b0" md5="2b2c8a4c427318365baa2b812d8743ba" sha1="a10f2686131f185edd48ba4c77ecaac8f263c291"/>
 		</rom>
-		<rom name="Rayman (USA) (En,Fr,De) (Track 3).ogg" size="4387076" crc="81a4e704" md5="b3d9b1fe2976567ad432cf6c17965b56" sha1="a5eaa3b45ed6709812607e8f0fb6bcaaed7fdf82">
-			<source frames="11033" pregap="149" duration="02:27:08" size="25949616" crc="da9b3925" md5="79fc41354018bae4d8fc97db4bf4c338" sha1="1eb7d7677c08597a3dcae40162dfaac27a2f1b35" in_zeros="0" out_zeros="1" trimmed_crc="f4eb854d" quality="8"/>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 2).ogg" size="4434780" crc="ed7ac51e" md5="da2807b3b875b61aa4a872e27b1a4452" sha1="38148ae1ee11f775b31526294b71b1c16a7fff75">
+			<source frames="11251" pregap="151" duration="02:30:01" size="26462352" crc="6f8e03dd" md5="c0aaab8a173fbd326972427c3eadd311" sha1="7dc2019445fe1d55db4c4a46d4f77c1cf28ce8ec" in_zeros="1" out_zeros="0" trimmed_crc="08ecc970" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Rayman (USA) (En,Fr,De) (Track 4).ogg" size="4279910" crc="d9cc438f" md5="5b7364a4cf4a37036e66809a4c60cec8" sha1="9c300704087474f44ca2193d58767ab0928cbf82">
-			<source frames="13623" pregap="149" duration="03:01:48" size="32041296" crc="fdb3d476" md5="d37be8c2861035eeb83098c13f47a495" sha1="faf78653bf9f18bcbd3cd4bf2298fb0688183df5" in_zeros="0" out_zeros="0" trimmed_crc="fdb3d476" quality="8"/>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 3).ogg" size="4389339" crc="b62f9130" md5="f3f1b36f18c9f47668cb591ca75ca1f8" sha1="de7402a6465ad4fa63fe23a0304f439fe45e9d34">
+			<source frames="11033" pregap="149" duration="02:27:08" size="25949616" crc="da9b3925" md5="79fc41354018bae4d8fc97db4bf4c338" sha1="1eb7d7677c08597a3dcae40162dfaac27a2f1b35" in_zeros="0" out_zeros="1" trimmed_crc="f4eb854d" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Rayman (USA) (En,Fr,De) (Track 5).ogg" size="4607892" crc="dbeecf53" md5="1c017bf8fca8ca8df4bfba9e9a2deb89" sha1="d84d7295379710454fea207fb2505510381f7659">
-			<source frames="11410" pregap="149" duration="02:32:10" size="26836320" crc="121929ab" md5="3cc5892c710bb2a86a0faacf42da4990" sha1="831d66e749f0ca93e13c5c9096ccac6c4b125b5d" in_zeros="0" out_zeros="1" trimmed_crc="a1aa8b7f" quality="8"/>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 4).ogg" size="4272267" crc="8552842f" md5="5c81b4e2183fcaa27e2602dda550d83f" sha1="a905bb6464f83044a3e427314ebefe123a7123b2">
+			<source frames="13623" pregap="149" duration="03:01:48" size="32041296" crc="fdb3d476" md5="d37be8c2861035eeb83098c13f47a495" sha1="faf78653bf9f18bcbd3cd4bf2298fb0688183df5" in_zeros="0" out_zeros="0" trimmed_crc="fdb3d476" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Rayman (USA) (En,Fr,De) (Track 6).ogg" size="4646912" crc="3de0a79d" md5="deb584a3eacfbbe7c54b1ba73d220532" sha1="97e3ed12385901b158bc94d576ca300aa81388b2">
-			<source frames="11199" pregap="149" duration="02:29:24" size="26340048" crc="bb3e3252" md5="1c959a11b3a60d9a8649ee7e86a12394" sha1="1f184df82980b24130aa7aae723acec4ff5cd9b1" in_zeros="0" out_zeros="0" trimmed_crc="bb3e3252" quality="8"/>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 5).ogg" size="4610854" crc="a32f22d2" md5="09fae8bda045cce7d2a0f3acacdf710d" sha1="3c3ca25a62ef1ca8f02e8dca6ac8e83243385196">
+			<source frames="11410" pregap="149" duration="02:32:10" size="26836320" crc="121929ab" md5="3cc5892c710bb2a86a0faacf42da4990" sha1="831d66e749f0ca93e13c5c9096ccac6c4b125b5d" in_zeros="0" out_zeros="1" trimmed_crc="a1aa8b7f" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Rayman (USA) (En,Fr,De) (Track 7).ogg" size="4627534" crc="6ba0c0ca" md5="ec587acd0b8b6b3f5aabb8ac196e311c" sha1="da84dc75a8d536a86fef1fea8103577271081092">
-			<source frames="11284" pregap="149" duration="02:30:34" size="26539968" crc="fc7c3e99" md5="99288ed3fdcab3000b0420fe90331b46" sha1="f47a36d44cc4eeeb6f283f193f1590975a92f1ee" in_zeros="0" out_zeros="1" trimmed_crc="cadc957d" quality="8"/>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 6).ogg" size="4641857" crc="3be48fb7" md5="05df5c1c8f22cdbc007560e3593bf7b8" sha1="0083eda1acd331e578431363b07fccb7694445fd">
+			<source frames="11199" pregap="149" duration="02:29:24" size="26340048" crc="bb3e3252" md5="1c959a11b3a60d9a8649ee7e86a12394" sha1="1f184df82980b24130aa7aae723acec4ff5cd9b1" in_zeros="0" out_zeros="0" trimmed_crc="bb3e3252" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Rayman (USA) (En,Fr,De) (Track 8).ogg" size="8933620" crc="6aca9835" md5="15eaf84e55b4a6bc61d6d650c3cd5209" sha1="f78fbaee2651de08c7bc670ab65357409e9ce3fb">
-			<source frames="21243" pregap="149" duration="04:43:18" size="49963536" crc="3250bcad" md5="30b9a9da0c5d8ffdc791283e09e7f641" sha1="c50042145254f35cdcb2820a1b4a9627369895e4" in_zeros="0" out_zeros="0" trimmed_crc="3250bcad" quality="8"/>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 7).ogg" size="4627503" crc="47bdf54e" md5="faf7c6e6fe5f39bbad6e81cdf547a7a4" sha1="b8c4ce8ad11d5504ff15384782db1c41855b96b1">
+			<source frames="11284" pregap="149" duration="02:30:34" size="26539968" crc="fc7c3e99" md5="99288ed3fdcab3000b0420fe90331b46" sha1="f47a36d44cc4eeeb6f283f193f1590975a92f1ee" in_zeros="0" out_zeros="1" trimmed_crc="cadc957d" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Rayman (USA) (En,Fr,De) (Track 9).ogg" size="2801940" crc="ed557df0" md5="29c8695bcc65aa8155814712d7408724" sha1="495b1f0b96a3a4db1ba53d18498595319de8034d">
-			<source frames="6210" pregap="149" duration="01:22:60" size="14605920" crc="a534c7ce" md5="1661517f033afb7220eee0467bcc2c10" sha1="09760d0d6504e9a0e7cd373b53d8d8b701b2d972" in_zeros="0" out_zeros="1" trimmed_crc="3118d501" quality="8"/>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 8).ogg" size="8921848" crc="ae4a7568" md5="028613b4e1eb1c80a0fe48d02bf88835" sha1="0abf6c03ec905f551818e85e2489e41c38b1d0bc">
+			<source frames="21243" pregap="149" duration="04:43:18" size="49963536" crc="3250bcad" md5="30b9a9da0c5d8ffdc791283e09e7f641" sha1="c50042145254f35cdcb2820a1b4a9627369895e4" in_zeros="0" out_zeros="0" trimmed_crc="3250bcad" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Rayman (USA) (En,Fr,De) (Track 10).ogg" size="1086014" crc="72127d36" md5="8f01714dc712e3ba71b95e7cb45e12cc" sha1="40987eaa88bb58cc498ed0ace977e5d9aad70e84">
-			<source frames="2649" pregap="149" duration="00:35:24" size="6230448" crc="44c54991" md5="e1c0141cfd484ce2c6801192d664889e" sha1="3d3427c98047dd5c91b4428337a758e25b91fcfb" in_zeros="0" out_zeros="0" trimmed_crc="44c54991" quality="8"/>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 9).ogg" size="2797915" crc="c72d1bb4" md5="7aa70edf9051d61a4d7dca487b93f399" sha1="c72931420ddc941b67836347c21620d40b45b061">
+			<source frames="6210" pregap="149" duration="01:22:60" size="14605920" crc="a534c7ce" md5="1661517f033afb7220eee0467bcc2c10" sha1="09760d0d6504e9a0e7cd373b53d8d8b701b2d972" in_zeros="0" out_zeros="1" trimmed_crc="3118d501" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Rayman (USA) (En,Fr,De) (Track 11).ogg" size="6281869" crc="eac9f0b8" md5="8b732b88a5e2aa92254715992c9d593f" sha1="cf3ec5d87823adf42268745d39f442ba72bb3c82">
-			<source frames="16278" pregap="149" duration="03:37:03" size="38285856" crc="22dc94cc" md5="a48daecac1792991f5c01489f5e26d26" sha1="edf3eee2ec763660da2545d71698bb7a4e490cb2" in_zeros="0" out_zeros="1" trimmed_crc="d1e80590" quality="8"/>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 10).ogg" size="1078324" crc="e029ddd1" md5="ce301501316ee8441027577a030ae419" sha1="d87dcd983ace519afc8fdf9c66ae13bc8423e0de">
+			<source frames="2649" pregap="149" duration="00:35:24" size="6230448" crc="44c54991" md5="e1c0141cfd484ce2c6801192d664889e" sha1="3d3427c98047dd5c91b4428337a758e25b91fcfb" in_zeros="0" out_zeros="0" trimmed_crc="44c54991" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Rayman (USA) (En,Fr,De) (Track 12).ogg" size="249608" crc="ad60a3a4" md5="ce51e5e514b94d49542abef0b08abf64" sha1="0fad2288ab59bfe63e8d79d18bcea2178cd7bbbc">
-			<source frames="808" pregap="149" duration="00:10:58" size="1900416" crc="e9fa0161" md5="5afd2285f8267c2323895f8d1f3525a9" sha1="9cf71ad22d007fe1e5355106db5036f205b25831" in_zeros="0" out_zeros="0" trimmed_crc="e9fa0161" quality="8"/>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 11).ogg" size="6272102" crc="aed67cb9" md5="bb20b1a88cc9face5513809c790b46f5" sha1="1b5686cafcdcb975a2607e0ae6b6f7fa03cfe977">
+			<source frames="16278" pregap="149" duration="03:37:03" size="38285856" crc="22dc94cc" md5="a48daecac1792991f5c01489f5e26d26" sha1="edf3eee2ec763660da2545d71698bb7a4e490cb2" in_zeros="0" out_zeros="1" trimmed_crc="d1e80590" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Rayman (USA) (En,Fr,De) (Track 13).ogg" size="7630577" crc="33d85f52" md5="5091e315a149b046bb10b585e0333a4b" sha1="e2d203b0ff9c976055422f7f81606577b4d7eaa9">
-			<source frames="19447" pregap="149" duration="04:19:22" size="45739344" crc="40fe099c" md5="9bae4ae0557930cbe1a9f2e3e08bf35c" sha1="83454b02ee3aecf295fdb1bb5b5d0a0411c59c54" in_zeros="1" out_zeros="1" trimmed_crc="efa0177c" quality="8"/>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 12).ogg" size="247175" crc="5360d119" md5="ab75488b74078ce5044708c5a3e5f206" sha1="5c27847e323d7e10c47c67f843ebabf763920103">
+			<source frames="808" pregap="149" duration="00:10:58" size="1900416" crc="e9fa0161" md5="5afd2285f8267c2323895f8d1f3525a9" sha1="9cf71ad22d007fe1e5355106db5036f205b25831" in_zeros="0" out_zeros="0" trimmed_crc="e9fa0161" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Rayman (USA) (En,Fr,De) (Track 14).ogg" size="8727073" crc="060037ba" md5="baea13a4607285326887f161c05ed7d9" sha1="a2c4d624706fa4b9b97eb34d9167ec7efbc6dd14">
-			<source frames="22098" pregap="149" duration="04:54:48" size="51974496" crc="47ac242d" md5="71f823da877ed1aa0eb379f356c8b1e2" sha1="3f4ac225a516b9d024d083a6c149ebcc5d346a76" in_zeros="0" out_zeros="0" trimmed_crc="47ac242d" quality="8"/>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 13).ogg" size="7629696" crc="aee798f8" md5="a4939e64f58f76fa0cd2ef0a4640e009" sha1="e665ae8ec1f620e0fa2efc578b842fe8cd8a6c9d">
+			<source frames="19447" pregap="149" duration="04:19:22" size="45739344" crc="40fe099c" md5="9bae4ae0557930cbe1a9f2e3e08bf35c" sha1="83454b02ee3aecf295fdb1bb5b5d0a0411c59c54" in_zeros="1" out_zeros="1" trimmed_crc="efa0177c" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Rayman (USA) (En,Fr,De) (Track 15).ogg" size="2236924" crc="b90bedc9" md5="ab5fed3853498da1835eb007dd595344" sha1="ff3a43ee4948f53bebd79b3942cb822a834168db">
-			<source frames="5356" pregap="149" duration="01:11:31" size="12597312" crc="618f52e0" md5="8957e861d5adac796b0f346b295f8c13" sha1="0675587297ed8827a5eb670e7ea5ede561b1cac2" in_zeros="0" out_zeros="1" trimmed_crc="ebc743f8" quality="8"/>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 14).ogg" size="8733727" crc="cf328193" md5="fd2f3deaf8532d910f620fe7817578dc" sha1="c0560c1d50188d5e08cbd2c82d8a21731805c54e">
+			<source frames="22098" pregap="149" duration="04:54:48" size="51974496" crc="47ac242d" md5="71f823da877ed1aa0eb379f356c8b1e2" sha1="3f4ac225a516b9d024d083a6c149ebcc5d346a76" in_zeros="0" out_zeros="0" trimmed_crc="47ac242d" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Rayman (USA) (En,Fr,De) (Track 16).ogg" size="5845265" crc="0622625c" md5="075060a3288f62e20cdde256e3581d9f" sha1="ea44a4ed1029b5fbddad6ce7b11e77aa72d2edb5">
-			<source frames="15574" pregap="149" duration="03:27:49" size="36630048" crc="0436cf44" md5="5ef4b113c7eb7aca0de6e28fa0aa88f9" sha1="b1c17a127815a68533df3b9dec47d9e4ec5fb26b" in_zeros="0" out_zeros="0" trimmed_crc="0436cf44" quality="8"/>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 15).ogg" size="2231904" crc="9f496512" md5="05b753cc25ec6327b40ed3bb78b94841" sha1="3d37c41337040fffa60429f41a14e862210e1659">
+			<source frames="5356" pregap="149" duration="01:11:31" size="12597312" crc="618f52e0" md5="8957e861d5adac796b0f346b295f8c13" sha1="0675587297ed8827a5eb670e7ea5ede561b1cac2" in_zeros="0" out_zeros="1" trimmed_crc="ebc743f8" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Rayman (USA) (En,Fr,De) (Track 17).ogg" size="9133146" crc="f93d22cf" md5="44958d48ebbf182852a322dbc3bb2f1b" sha1="ee3b16f5872573e2704d4e676297c6323200144b">
-			<source frames="23735" pregap="149" duration="05:16:35" size="55824720" crc="83901f67" md5="4a4ea69c238605d8703e00983e927927" sha1="0e0551851a0b193b1c64f79bea8bf6f328038baf" in_zeros="0" out_zeros="1" trimmed_crc="4cf0d031" quality="8"/>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 16).ogg" size="5846481" crc="737e5587" md5="539c288cb7c180a684aadfbe68d09405" sha1="0f7bc5e4312fea79c4f2a109866ab0418de74382">
+			<source frames="15574" pregap="149" duration="03:27:49" size="36630048" crc="0436cf44" md5="5ef4b113c7eb7aca0de6e28fa0aa88f9" sha1="b1c17a127815a68533df3b9dec47d9e4ec5fb26b" in_zeros="0" out_zeros="0" trimmed_crc="0436cf44" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Rayman (USA) (En,Fr,De) (Track 18).ogg" size="2436226" crc="6f574938" md5="9e6889be02b88ae856648f5153732ab1" sha1="85d6098096c11120807caa0d6a9056c7dbe47eb3">
-			<source frames="5164" pregap="149" duration="01:08:64" size="12145728" crc="7e35cbb3" md5="b25240aaaac18731b7d8bbaf70391dab" sha1="51d5ab746e1904d709e71dd0c3ec6523c8cb628c" in_zeros="0" out_zeros="0" trimmed_crc="7e35cbb3" quality="8"/>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 17).ogg" size="9140680" crc="8dd3456e" md5="c9c9463c86937f99cdc00ad57fde2be9" sha1="1054770e0519bfccf18c648eb8e31590b8ae3afd">
+			<source frames="23735" pregap="149" duration="05:16:35" size="55824720" crc="83901f67" md5="4a4ea69c238605d8703e00983e927927" sha1="0e0551851a0b193b1c64f79bea8bf6f328038baf" in_zeros="0" out_zeros="1" trimmed_crc="4cf0d031" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Rayman (USA) (En,Fr,De) (Track 19).ogg" size="2066728" crc="80de9741" md5="d582745efb735f56953f1831b64a0550" sha1="12fa73f7356d6823b11bb4a0b4b71e0fc1c60431">
-			<source frames="4498" pregap="149" duration="00:59:73" size="10579296" crc="b7af1f9e" md5="dce51f2a8b22750f1b1a6b3a50bb9e40" sha1="853466ec99f1201261992181c77ee0a5eab56229" in_zeros="0" out_zeros="1" trimmed_crc="1d29d558" quality="8"/>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 18).ogg" size="2441332" crc="3baea21d" md5="6cf436fd8e2ed01876ad7d7bbeb2aeae" sha1="92161548350956fdf5e74fc3eacafaa536cf9252">
+			<source frames="5164" pregap="149" duration="01:08:64" size="12145728" crc="7e35cbb3" md5="b25240aaaac18731b7d8bbaf70391dab" sha1="51d5ab746e1904d709e71dd0c3ec6523c8cb628c" in_zeros="0" out_zeros="0" trimmed_crc="7e35cbb3" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Rayman (USA) (En,Fr,De) (Track 20).ogg" size="3653366" crc="948e5015" md5="7528ddb787e53dacc4a53bd746f2e2da" sha1="2718167b40d2c0e7cb1751826e145618701a3377">
-			<source frames="9183" pregap="149" duration="02:02:33" size="21598416" crc="2b3360a8" md5="85b1ed5d9509d33eb60a839d3280832a" sha1="a3437f599d96ed584661aa549205ebab64a45dc3" in_zeros="0" out_zeros="0" trimmed_crc="2b3360a8" quality="8"/>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 19).ogg" size="2063069" crc="dce89950" md5="a5d2b47ad84e1dbdc2d1fd25249e238d" sha1="da834c071e1ff5c23220324440bc50d52c1295c8">
+			<source frames="4498" pregap="149" duration="00:59:73" size="10579296" crc="b7af1f9e" md5="dce51f2a8b22750f1b1a6b3a50bb9e40" sha1="853466ec99f1201261992181c77ee0a5eab56229" in_zeros="0" out_zeros="1" trimmed_crc="1d29d558" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Rayman (USA) (En,Fr,De) (Track 21).ogg" size="3969162" crc="3b94bacd" md5="365b4ab159e9ebb488353dab9b36d8bc" sha1="76ebe254e7c351a222cc086ebaf32ca780ed5df8">
-			<source frames="9195" pregap="149" duration="02:02:45" size="21626640" crc="445d30fd" md5="e2e583dd037a7bba498961750ab025e4" sha1="81e3a6d5a01877fd37bf0d2abaa7a2c868588dd6" in_zeros="0" out_zeros="3" trimmed_crc="3ec0ef96" quality="8"/>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 20).ogg" size="3675568" crc="81e17f8c" md5="89319f126aa7f80fdc8d639bd41995ec" sha1="4ee678b46a9eaa6788bd2a8cacfe0903c90b9adb">
+			<source frames="9183" pregap="149" duration="02:02:33" size="21598416" crc="2b3360a8" md5="85b1ed5d9509d33eb60a839d3280832a" sha1="a3437f599d96ed584661aa549205ebab64a45dc3" in_zeros="0" out_zeros="0" trimmed_crc="2b3360a8" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Rayman (USA) (En,Fr,De) (Track 22).ogg" size="4246846" crc="4f2e2210" md5="9703a837daf87498e5a05f58f82842fa" sha1="884a154e5835f26078b2bdee4bb6ef7bcc6a46c1">
-			<source frames="9199" pregap="149" duration="02:02:49" size="21636048" crc="2b43ee6e" md5="f96f74f91a55ab78a7bbc119668cd592" sha1="2ec8c4406c76ba8605e4d33542b78374eb1121f8" in_zeros="0" out_zeros="0" trimmed_crc="2b43ee6e" quality="8"/>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 21).ogg" size="3995956" crc="953aeff2" md5="08974bfff7e4a7fbd52734152d2050a3" sha1="b44ee8e5b6155ce65cce8cbc3014f310f2610989">
+			<source frames="9195" pregap="149" duration="02:02:45" size="21626640" crc="445d30fd" md5="e2e583dd037a7bba498961750ab025e4" sha1="81e3a6d5a01877fd37bf0d2abaa7a2c868588dd6" in_zeros="0" out_zeros="3" trimmed_crc="3ec0ef96" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Rayman (USA) (En,Fr,De) (Track 23).ogg" size="534732" crc="f57a437f" md5="863570c2954ec209fff757279e01d97a" sha1="facd9f7d64945bd99b6588ebf8ec6d0de9edcec5">
-			<source frames="1491" pregap="149" duration="00:19:66" size="3506832" crc="ca3bb99a" md5="ad73247c15ba87b632cd0fcc4380397b" sha1="6ba36c46b262dbf1e759f154ca65db8e3a507012" in_zeros="0" out_zeros="1" trimmed_crc="8e1160d7" quality="8"/>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 22).ogg" size="4247739" crc="94d524d5" md5="64567163218913d3670710d52f880e9f" sha1="80eb0a71195e436e5df7eed8d2da1d78b827845c">
+			<source frames="9199" pregap="149" duration="02:02:49" size="21636048" crc="2b43ee6e" md5="f96f74f91a55ab78a7bbc119668cd592" sha1="2ec8c4406c76ba8605e4d33542b78374eb1121f8" in_zeros="0" out_zeros="0" trimmed_crc="2b43ee6e" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Rayman (USA) (En,Fr,De) (Track 24).ogg" size="418486" crc="1c4995ea" md5="30277a3e12a146fa1ffdfaa46366b871" sha1="9a939fc9b1395235397aed23e843ff9a57c82ddf">
-			<source frames="1216" pregap="149" duration="00:16:16" size="2860032" crc="9de48e9c" md5="64cdf4519f24d6773891ea7e1e0f52e0" sha1="24757df9d139607428ab009418dc80ed81e8fde8" in_zeros="0" out_zeros="2" trimmed_crc="9f9a11c5" quality="8"/>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 23).ogg" size="538031" crc="0898fbf3" md5="69dbd0cf3aa5f44e396f7cc6692ea01d" sha1="d4e05f50b98997faa093e0f313e2581235c62983">
+			<source frames="1491" pregap="149" duration="00:19:66" size="3506832" crc="ca3bb99a" md5="ad73247c15ba87b632cd0fcc4380397b" sha1="6ba36c46b262dbf1e759f154ca65db8e3a507012" in_zeros="0" out_zeros="1" trimmed_crc="8e1160d7" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Rayman (USA) (En,Fr,De) (Track 25).ogg" size="431936" crc="75696e19" md5="22c1b85a02e28911b0209cd5ca528813" sha1="27202f7bb9b7115e469eaeef7bbd13dcdc425fc8">
-			<source frames="1371" pregap="149" duration="00:18:21" size="3224592" crc="d3281062" md5="b09b652002c5e6ce43c6baff3585716a" sha1="12740ead22a73e33db2ff939bb47d12097fe8c55" in_zeros="0" out_zeros="373969" trimmed_crc="a4d64a30" quality="8"/>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 24).ogg" size="416624" crc="e926afe0" md5="a28d5a94eca6be44431246d6e4a4c0aa" sha1="b1a40ed9c24b1e215bbfb9e021ae2d4a29a9a5f1">
+			<source frames="1216" pregap="149" duration="00:16:16" size="2860032" crc="9de48e9c" md5="64cdf4519f24d6773891ea7e1e0f52e0" sha1="24757df9d139607428ab009418dc80ed81e8fde8" in_zeros="0" out_zeros="2" trimmed_crc="9f9a11c5" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Rayman (USA) (En,Fr,De).cue" size="2299" crc="5aff210a" md5="e29570a24fb0eac991ca8253a7eaf695" sha1="079af8ddcaad88d8d97ca9124fd8c8e10e38f7bb"/>
+		<rom name="Rayman (USA) (En,Fr,De) (Track 25).ogg" size="428610" crc="a13c6dd3" md5="05b7e82ae6129c1fd430e79df328cc81" sha1="57c9988c8a1b6a5c276d225215c1d0216d19a771">
+			<source frames="1371" pregap="149" duration="00:18:21" size="3224592" crc="d3281062" md5="b09b652002c5e6ce43c6baff3585716a" sha1="12740ead22a73e33db2ff939bb47d12097fe8c55" in_zeros="0" out_zeros="373969" trimmed_crc="a4d64a30" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="Rayman (USA) (En,Fr,De).cue" size="2803" crc="189e6faa" md5="a1352ede951347f12edf10a547bfced1" sha1="d60e9f4965f2b0249173eb50c380736de66c4ded"/>
 		<rom name="RAYMAN.CFG" size="132" crc="d398a48f" md5="7c9fc758759660e666d411162fd0f84d" sha1="b242b4357d277643f910f0198abbbe3e74b64dce"/>
 		<rom name="RAYMAN.EXE" size="426732" crc="de044407" md5="73bd60338b4ed09396fab3c3bfd4c176" sha1="2bdbebead2c6a5a96e8ee8198fa14c174e65be7f"/>
 		<rom name="SNDD8B.DAT" size="1338224" crc="2318046d" md5="36205407f5301614e8c6536083d124e7" sha1="d0cfd48d37617fd5610547a7f73e0840e7f53beb"/>
@@ -7176,65 +7178,67 @@
 		<rom name="PCMAP/USA/SPECIAL.DAT" size="9852" crc="76aa8534" md5="a4440e813b874730df0ebcc37de192be" sha1="9e4cd59a5e6853120592ff8ba0507d2ee4b8c021" date="2000-11-02 17:28:40"/>
 		<rom name="PCMAP/VIGNET.DAT" size="1894839" crc="25838c22" md5="b9823d95d0c4b55c23d26216e2200acd" sha1="031ab7f0e4dc47edb9b73ed58601679fd77f21ca" date="2000-11-02 17:28:38"/>
 		<rom name="RAY60N.ICO" size="766" crc="f4356ca4" md5="3bb9dd57d729f3505f4e589b0f19475b" sha1="68160e2f65f624aedb235e9a5a26d51482f53865" date="1995-08-21 16:39:24"/>
-		<rom name="Rayman Compilation (Europe) (Track 1).bin" size="217562352" crc="4520d936" md5="3061b76a14646808f5995907bff07cf0" sha1="bcce1a372a457b57d05b9389b4c7229d4f8a6dc4"/>
-		<rom name="Rayman Compilation (Europe) (Track 2).ogg" size="4436054" crc="87dac193" md5="b1e150dab431da3b521e220a7988bcb8" sha1="c07c5570eff320272bfaef08126aef1201ead54a">
+		<rom name="Rayman Compilation (Europe) (Track 1).bin" size="217562352" crc="4520d936" md5="3061b76a14646808f5995907bff07cf0" sha1="bcce1a372a457b57d05b9389b4c7229d4f8a6dc4">
+			<source frames="92501" pregap="0" duration="20:33:26" size="217562352" crc="4520d936" md5="3061b76a14646808f5995907bff07cf0" sha1="bcce1a372a457b57d05b9389b4c7229d4f8a6dc4"/>
+		</rom>
+		<rom name="Rayman Compilation (Europe) (Track 2).ogg" size="4434404" crc="a846d3bd" md5="66387682ff5e31889108f95d1c8dc8fe" sha1="fc49c6dcd0d7f3d65d61c9106a44322f9caf5cb0">
 			<source frames="11241" pregap="150" duration="02:29:66" size="26438832" crc="adb059ea" md5="ad2a82a0a09e4d1bef7b11f0963c5315" sha1="d0f9297c0d2519d099d004fcb1e1c4a68f0446c6" in_zeros="404520" out_zeros="5469" trimmed_crc="2af375a9" quality="8"/>
 		</rom>
-		<rom name="Rayman Compilation (Europe) (Track 3).ogg" size="4388942" crc="a6966dc7" md5="316144d40b7d2616ed79aed15da56311" sha1="3d48eadd2615686e072c3b83a6deab166b8f5571">
+		<rom name="Rayman Compilation (Europe) (Track 3).ogg" size="4397517" crc="8a119a86" md5="505da101172408e4b7bc49c84d9c22cc" sha1="84cc67292c5e203b167f393c830511a48c41f117">
 			<source frames="11038" pregap="150" duration="02:27:13" size="25961376" crc="6a9b35fb" md5="c3551e09a5ca3460f213882e8817c718" sha1="f957b8f9edf41f45b5fb85809032452a37ba9e79" in_zeros="448588" out_zeros="5145" trimmed_crc="161f36f4" quality="8"/>
 		</rom>
-		<rom name="Rayman Compilation (Europe) (Track 4).ogg" size="4288828" crc="3be24915" md5="3b1eb13cbda89ee3017e8f72a8704f9c" sha1="a345768051350b181e6687a1ae56899f4387de8b">
+		<rom name="Rayman Compilation (Europe) (Track 4).ogg" size="4285755" crc="b7876ed9" md5="931f05ed0c18719a24636edb3cb64852" sha1="627ea0c6136ee68777d269dabef9b1c5b1ef8f52">
 			<source frames="13614" pregap="150" duration="03:01:39" size="32020128" crc="ef065df8" md5="fc9ddce1c05e8dfeae652a98bceef34c" sha1="6f2253a7d86e0a9a6175cad6e44fcdbeafc70f83" in_zeros="379972" out_zeros="6697" trimmed_crc="4f67d389" quality="8"/>
 		</rom>
-		<rom name="Rayman Compilation (Europe) (Track 5).ogg" size="4620757" crc="54f9631f" md5="e38e08ae9f7a2c6c20cd1df468110320" sha1="5e396b9e4e66184cac9958169c602e62edded751">
+		<rom name="Rayman Compilation (Europe) (Track 5).ogg" size="4615854" crc="20ad46b9" md5="8f57727dd35ddf9c1c7cfd080fdfa709" sha1="32631a80cc4ffcd7ed25766ef59081db008b029d">
 			<source frames="11380" pregap="150" duration="02:31:55" size="26765760" crc="daedeb30" md5="75a2123459dbd906c066ba92847f60c4" sha1="522c80cf018af25ce1c5d4f30aae6c23881e6e57" in_zeros="396872" out_zeros="4720" trimmed_crc="c20863f7" quality="8"/>
 		</rom>
-		<rom name="Rayman Compilation (Europe) (Track 6).ogg" size="4629185" crc="81a6a50e" md5="0aaebfad15c43d6f31cc9c78f8a2ab50" sha1="741d3be0a8599a63e5d11fcfe9e876f2b1eddde7">
+		<rom name="Rayman Compilation (Europe) (Track 6).ogg" size="4641030" crc="2d1ed7db" md5="3a6a977fc8947aa5e3d8a0504a9297e2" sha1="07e6f3f79a1aebfb219923ba77460579359a5523">
 			<source frames="11194" pregap="150" duration="02:29:19" size="26328288" crc="dee14b58" md5="396cdc79c71e8ff49e9b96daf4d6b0b6" sha1="c56b4fa8d73992109bfd892ba6e8a52728768f3b" in_zeros="390724" out_zeros="5025" trimmed_crc="3ab0c964" quality="8"/>
 		</rom>
-		<rom name="Rayman Compilation (Europe) (Track 7).ogg" size="4629217" crc="3bf15940" md5="149cce0b7ac8125800650fc87c6c4af8" sha1="8694eac6867e82a461e8141a774fe7beaa7398a6">
+		<rom name="Rayman Compilation (Europe) (Track 7).ogg" size="4611006" crc="32199ef8" md5="3c52126771427461b073fd76256d9d89" sha1="6b9e70a47dbc418209a7f8060ff43b31772f96f9">
 			<source frames="11286" pregap="150" duration="02:30:36" size="26544672" crc="54d9d564" md5="a701e9728accae4bd0d4ca142c6fd4be" sha1="3a99060e0320c21378e690477a053d8a1439b9b1" in_zeros="404552" out_zeros="6037" trimmed_crc="6cca2a68" quality="8"/>
 		</rom>
-		<rom name="Rayman Compilation (Europe) (Track 8).ogg" size="8908076" crc="66bf1427" md5="0366806f4be3146b1d393f118a919ac1" sha1="3df179236278072aab7162ad0593d0579b2917a2">
+		<rom name="Rayman Compilation (Europe) (Track 8).ogg" size="8927078" crc="4ea58ff8" md5="654ef56cd94eacf0288600cf8a4dfb3b" sha1="565527aa9fbdd07c63f40823bf75245d505b5501">
 			<source frames="21248" pregap="150" duration="04:43:23" size="49975296" crc="d2e6ffb0" md5="b6063ff8d26431c2301cfe55d76bbda8" sha1="a3d5642209f3dd2d42583f6db739cfc228e73d58" in_zeros="386136" out_zeros="5093" trimmed_crc="506f22b6" quality="8"/>
 		</rom>
-		<rom name="Rayman Compilation (Europe) (Track 9).ogg" size="2799556" crc="87074f80" md5="27fa956413bb308b95adafb3ba9acfbc" sha1="20c58cdcddf5aea0e2ea96bd9bf15f145b227d8a">
+		<rom name="Rayman Compilation (Europe) (Track 9).ogg" size="2801225" crc="62dd9d32" md5="0674c50b80ea91e536a53f750247f78c" sha1="d9abcdb82695fd87e0ce076a25cba85db304986c">
 			<source frames="6216" pregap="150" duration="01:22:66" size="14620032" crc="ef1c379f" md5="a92876a9f19e79437d5b58c9f36db726" sha1="3cae67e10aeceb4b580c0cce801f7d2d120fa99f" in_zeros="365106" out_zeros="6851" trimmed_crc="6e2f5ac0" quality="8"/>
 		</rom>
-		<rom name="Rayman Compilation (Europe) (Track 10).ogg" size="1169653" crc="7e7cea25" md5="b6ea9400e9b59622766a5f51bc0e3c7b" sha1="53f8e4a5d552985fe726b45d0d2bdbd716619487">
+		<rom name="Rayman Compilation (Europe) (Track 10).ogg" size="1164093" crc="179c44bc" md5="d5e48c7e0b59b2f98d9590debbeb3a70" sha1="cef1e3e723a009984719cd054a7f4374d5a84597">
 			<source frames="3261" pregap="150" duration="00:43:36" size="7669872" crc="ef37f0b1" md5="166a161a30bdc9e3ca49d120726b18d8" sha1="392351e8ba9c6ce8a5516535656b1da4afa4c91b" in_zeros="365122" out_zeros="6490" trimmed_crc="2b7f9e6b" quality="8"/>
 		</rom>
-		<rom name="Rayman Compilation (Europe) (Track 11).ogg" size="6292040" crc="74df2f92" md5="ab93d93e6742f240f759c04a81b1f09d" sha1="712d32f2e2c78ecf50dc889b80cd31965082209a">
+		<rom name="Rayman Compilation (Europe) (Track 11).ogg" size="6282316" crc="7aa648ad" md5="5b97451378ae5cd61f35c078b63b4da5" sha1="d07a058ab5e0cc154ca4d8a3240ca69e9ae848c9">
 			<source frames="16243" pregap="150" duration="03:36:43" size="38203536" crc="2dc4f362" md5="546b3e1a79d8a69fe9e54e1fd7431f14" sha1="2860dd334a7986b80f26cab2b54b3dc39bb5cede" in_zeros="390968" out_zeros="6061" trimmed_crc="7fe3730b" quality="8"/>
 		</rom>
-		<rom name="Rayman Compilation (Europe) (Track 12).ogg" size="247509" crc="1a941ae5" md5="78daa25f0932883eed77d1f9864281d9" sha1="ddf066ae4f2b38f3be92bbebbd68365e72033d26">
+		<rom name="Rayman Compilation (Europe) (Track 12).ogg" size="247511" crc="c27a2f95" md5="7af5e8d5276d11cf5886a57080482f2f" sha1="80f22d8aa60b5d498dbd14d6e2d7804e0b928726">
 			<source frames="816" pregap="150" duration="00:10:66" size="1919232" crc="a3a91576" md5="0b5e9993dfc95ff60ee5cf353e57202c" sha1="19e2a7174f70b27567dadf07e2162818f361d066" in_zeros="365994" out_zeros="6486" trimmed_crc="25cf9746" quality="8"/>
 		</rom>
-		<rom name="Rayman Compilation (Europe) (Track 13).ogg" size="7621323" crc="3150cac8" md5="086ac420cff9fa7c19cde1cb3d6956a6" sha1="3471ce68a9e84a2bccaa3ca2643e58a9a7c4bf86">
+		<rom name="Rayman Compilation (Europe) (Track 13).ogg" size="7635747" crc="aa17a49a" md5="79d16ddbd1f0a6c9bd20fd3a4e2a19e3" sha1="8492df22a1b8e0f18f07dcd493d38bd7ae0a00a9">
 			<source frames="19450" pregap="150" duration="04:19:25" size="45746400" crc="62b78202" md5="d96b3834a3860960cd7ce50b8bbfba53" sha1="cd6843315b7b886c4e854dcccd58700bce2f3a36" in_zeros="387632" out_zeros="6061" trimmed_crc="503315bf" quality="8"/>
 		</rom>
-		<rom name="Rayman Compilation (Europe) (Track 14).ogg" size="8751591" crc="b6ac03b0" md5="e63e7c57f7fddb948f8a28f98a3a6f84" sha1="798156d52d0733eacb4803a6f0c9a4002a21c658">
+		<rom name="Rayman Compilation (Europe) (Track 14).ogg" size="8759577" crc="c7334646" md5="252e66477f7a591f481ec372473a5ab2" sha1="44140b00f83e4c6c417b45f4f484f81b81d95b77">
 			<source frames="22095" pregap="150" duration="04:54:45" size="51967440" crc="d545b997" md5="9583e001d4a6c6e07637f1f3e1a1e46e" sha1="43e7a5a32033b48cedd22f49de3bd66ad0f44a88" in_zeros="398900" out_zeros="5541" trimmed_crc="6b43edc1" quality="8"/>
 		</rom>
-		<rom name="Rayman Compilation (Europe) (Track 15).ogg" size="2231027" crc="dbb94130" md5="f63a5102e47eb8a63d2169961715f63d" sha1="0ff41fe9d6105fbbdf162680c6eedefa2771286b">
+		<rom name="Rayman Compilation (Europe) (Track 15).ogg" size="2235692" crc="4f5aecdb" md5="f7ee3e6984807096d0592363fd7232c2" sha1="bc107137c7177f9cd81a18dd7a21c09cce49027d">
 			<source frames="5364" pregap="150" duration="01:11:39" size="12616128" crc="aeb31853" md5="d57f481996d958c5f982d2870e566e02" sha1="fdb72409f5ff6dbbd6311216047f2da024f18e0d" in_zeros="365126" out_zeros="6482" trimmed_crc="6f2e2f72" quality="8"/>
 		</rom>
-		<rom name="Rayman Compilation (Europe) (Track 16).ogg" size="5831131" crc="65be1fac" md5="52ff9a23eabada1985fc548fa3bb5175" sha1="9fb2c72696cb96cb4e85098b8dfaa32a6df85a68">
+		<rom name="Rayman Compilation (Europe) (Track 16).ogg" size="5838237" crc="deb294e9" md5="3a6516afd86ccea8f72d09ed42121fc8" sha1="6bc0e585057716e6e012aeb37bdd58ba797bb98f">
 			<source frames="15579" pregap="150" duration="03:27:54" size="36641808" crc="18098ab6" md5="c2e5835dd1652687bb4854f60ba11c9e" sha1="0ef135741494ca24727da00cd5d13e07319691fc" in_zeros="380492" out_zeros="5969" trimmed_crc="9af49a21" quality="8"/>
 		</rom>
-		<rom name="Rayman Compilation (Europe) (Track 17).ogg" size="9126025" crc="5106d341" md5="bbb57ee051243918c51da190c09704b4" sha1="35702725745319cbfea26fae9511925b9d643e0f">
+		<rom name="Rayman Compilation (Europe) (Track 17).ogg" size="9128384" crc="bcd84f37" md5="173bc135808adde222e1ca4f5da0f556" sha1="c6053416f43af91b9b0ef957beddd7d651f0832a">
 			<source frames="23722" pregap="150" duration="05:16:22" size="55794144" crc="dcaef5d6" md5="e9edc6de1cbebc7f08000bc44bdcf6ab" sha1="70cb5293d3b6f034b02723d6d46ca5b0245fc6df" in_zeros="392268" out_zeros="5009" trimmed_crc="886dc933" quality="8"/>
 		</rom>
-		<rom name="Rayman Compilation (Europe) (Track 18).ogg" size="2438828" crc="2cad716d" md5="dc29ee0fdac495c7998dba89c38ab7b6" sha1="f59c4914b14e9826bde916900e91c2d69dfd815e">
+		<rom name="Rayman Compilation (Europe) (Track 18).ogg" size="2434544" crc="fb26a5ae" md5="23c44d384ed40ff747aed5ac65c184d4" sha1="f8ede680a7cde9730c7f092c59ce88352296240a">
 			<source frames="5172" pregap="150" duration="01:08:72" size="12164544" crc="c1e24941" md5="8ca922834880e2ddddd1cc26b876697c" sha1="c6ed79a882253d31fcac2e658cd199fb65c54ede" in_zeros="365084" out_zeros="6518" trimmed_crc="57c70fe8" quality="8"/>
 		</rom>
-		<rom name="Rayman Compilation (Europe) (Track 19).ogg" size="2066720" crc="b50313e9" md5="6671817f35338bea2812eef4b7da8322" sha1="83e1ddff24fe7460176f6293facbfce3c2e0be51">
+		<rom name="Rayman Compilation (Europe) (Track 19).ogg" size="2057777" crc="f9c1fdc2" md5="0dd99e7d6247700797e706a08c87ab2d" sha1="71ca1e684982b9705ac6ee1e8d3d8d0ffc6a7ff6">
 			<source frames="4503" pregap="150" duration="01:00:03" size="10591056" crc="a1adaec1" md5="81fabdda9345637de470c0ff1dd5fe51" sha1="080dfe448fe4aeb54d655c7d5a024ac359dcf8dd" in_zeros="365070" out_zeros="5263" trimmed_crc="f63f1d1e" quality="8"/>
 		</rom>
-		<rom name="Rayman Compilation (Europe) (Track 20).ogg" size="1086719" crc="027c229c" md5="cbc641cf7011acc6a793309604c35c48" sha1="6085e6ac26829967251834ce829b7ef6fd1f9b61">
+		<rom name="Rayman Compilation (Europe) (Track 20).ogg" size="1082049" crc="a4070c5b" md5="9be1c7292e04479235faab81d1706329" sha1="c71dd89d372d01d91be355c3bdefb58a9b124a34">
 			<source frames="2801" pregap="150" duration="00:37:26" size="6587952" crc="cc15bfdf" md5="2c7c863607e14297b92b64016c6f4ab6" sha1="a6ca6ac509c93bcc99928d080918b1199461243b" in_zeros="365098" out_zeros="354157" trimmed_crc="870fd1e8" quality="8"/>
 		</rom>
-		<rom name="Rayman Compilation (Europe).cue" size="1919" crc="f5297e89" md5="a9b10255da8c8acdac7a9f22cb0e4284" sha1="386eba060ed4a29825479d552a87cc316e5b61d3"/>
+		<rom name="Rayman Compilation (Europe).cue" size="2318" crc="a458fd07" md5="fa646e5b0d640b9967853f7671652ec1" sha1="5e3a63fbdc8b120926381db831cc0c1f4e6138f7"/>
 		<rom name="RAYMAN.BAT" size="30" crc="1587cfef" md5="e113506d3b6dd723f263a66f8eeb6fe4" sha1="72fde3abd430c812e15bb5236490cf93e65d0aa4" date="2000-10-31 18:53:30"/>
 		<rom name="RAYPLUS.EXE" size="403024" crc="271c90dc" md5="83473fc41fc100f1fdf017e5ae73d225" sha1="2f9b9e9d06086b6fc9fa8c2135f7a9bd741f7120" date="1999-08-02 19:37:54"/>
 		<rom name="SETSOUND.BAT" size="88" crc="9faf0c93" md5="d60c8e0e440fbed14dd4ca8e874d831c" sha1="7546a32e769e19f28dd00f4f9ec1d7bc121e7aa7" date="2000-10-31 18:53:42"/>
@@ -7329,8 +7333,10 @@
 		<rom name="pcmap/VIGNET.DAT" size="1842334" crc="67d26d0c" md5="01316582b68a925664e2662c5041542d" sha1="1bde57867961751b773c745b6eb8420a564ef418" date="1999-01-27 07:17:58"/>
 		<rom name="RAYFAN.EXE" size="442330" crc="11ab99ee" md5="89e5135e8b08652ad132fded7e79ec17" sha1="e1c3b5a538c9581ac9f535f79e0ad0ec758227ca" date="1998-08-04 11:23:10"/>
 		<rom name="RayFan.ico" size="766" crc="f4356ca4" md5="3bb9dd57d729f3505f4e589b0f19475b" sha1="68160e2f65f624aedb235e9a5a26d51482f53865" date="1995-08-21 12:39:24"/>
-		<rom name="Rayman Forever (USA) (Track 1).bin" size="361507104" crc="9842ef16" md5="74e8e46cb9c8e093b3786153cc199092" sha1="9b1a7b1da3c6d0aa90f025f95b0c6ac9238da225"/>
-		<rom name="Rayman Forever (USA) (Track 2).ogg" size="4427026" crc="433adc48" md5="be40732ae6d6755851485c14e7890661" sha1="402a5764e1c111816eab9737f9d69b5bc3978e19">
+		<rom name="Rayman Forever (USA) (Track 1).bin" size="361507104" crc="9842ef16" md5="74e8e46cb9c8e093b3786153cc199092" sha1="9b1a7b1da3c6d0aa90f025f95b0c6ac9238da225">
+			<source frames="153702" pregap="0" duration="34:09:27" size="361507104" crc="9842ef16" md5="74e8e46cb9c8e093b3786153cc199092" sha1="9b1a7b1da3c6d0aa90f025f95b0c6ac9238da225"/>
+		</rom>
+		<rom name="Rayman Forever (USA) (Track 2).ogg" size="4436174" crc="7d728f6c" md5="5320526dccb622797b87fb6674e67513" sha1="8b8ab804046f957fbbaa4cd63c756d104d58f675">
 			<source frames="11248" pregap="150" duration="02:29:73" size="26455296" crc="515ef975" md5="06e0fc57275a356c8db34444f9054377" sha1="a5a4037306f90caa2d0235311bc2056761493f97" in_zeros="396248" out_zeros="30209" trimmed_crc="d7df1088" quality="8"/>
 		</rom>
 		<rom name="Rayman Forever (USA) (Track 3).ogg" size="4385243" crc="0a20b8bc" md5="00d7bb6f2cc1c69284f0e8705688ecd0" sha1="075ade9ac73259b3fd1fc36b3723f5c74805e2c9">
@@ -7348,8 +7354,8 @@
 		<rom name="Rayman Forever (USA) (Track 7).ogg" size="4609204" crc="4c71b344" md5="85051f62bd46a524b455f37f273c9e9f" sha1="1597138ef320a064ef540ed3f83e01f0b4d44ced">
 			<source frames="11133" pregap="0" duration="02:28:33" size="26184816" crc="6d0cf536" md5="c7acd1cff3f06c1f9d4f1fb4567d8d8e" sha1="2835a9a7f19bd1593bd7e4333368bbb0ff7603e8" in_zeros="43448" out_zeros="593" trimmed_crc="3cac1be8" quality="8"/>
 		</rom>
-		<rom name="Rayman Forever (USA) (Track 8).ogg" size="8933620" crc="6aca9835" md5="15eaf84e55b4a6bc61d6d650c3cd5209" sha1="f78fbaee2651de08c7bc670ab65357409e9ce3fb">
-			<source frames="21243" pregap="149" duration="04:43:18" size="49963536" crc="3250bcad" md5="30b9a9da0c5d8ffdc791283e09e7f641" sha1="c50042145254f35cdcb2820a1b4a9627369895e4" in_zeros="0" out_zeros="0" trimmed_crc="3250bcad" quality="8"/>
+		<rom name="Rayman Forever (USA) (Track 8).ogg" size="8921848" crc="ae4a7568" md5="028613b4e1eb1c80a0fe48d02bf88835" sha1="0abf6c03ec905f551818e85e2489e41c38b1d0bc">
+			<source frames="21243" pregap="149" duration="04:43:18" size="49963536" crc="3250bcad" md5="30b9a9da0c5d8ffdc791283e09e7f641" sha1="c50042145254f35cdcb2820a1b4a9627369895e4" in_zeros="0" out_zeros="0" trimmed_crc="3250bcad" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="Rayman Forever (USA) (Track 9).ogg" size="2805042" crc="5a108323" md5="e304d4608e07db80f82a6160bdf64f39" sha1="5601016ad4fd4c34e5c546140466e312f8dfe006">
 			<source frames="6059" pregap="0" duration="01:20:59" size="14250768" crc="19fd2dda" md5="8a8c3e8d13973e98206f8aec02162e93" sha1="f33900fe8f98a53b305ffc9ba30ce24f0da50b3b" in_zeros="0" out_zeros="1" trimmed_crc="9e71dbb0" quality="8"/>
@@ -7363,11 +7369,11 @@
 		<rom name="Rayman Forever (USA) (Track 12).ogg" size="246478" crc="8fa9e35b" md5="88ebf7a79d9dd2098ca65041e932198a" sha1="e8e78ef76c8ffa9e0fca7a85b88056338c9f34d7">
 			<source frames="657" pregap="0" duration="00:08:57" size="1545264" crc="7b28bc83" md5="c301e667a1d73369c673258de495b883" sha1="6f8ac95b4932581253843d6ea339a7539f8b0ebf" in_zeros="4890" out_zeros="92" trimmed_crc="0d64c9df" quality="8"/>
 		</rom>
-		<rom name="Rayman Forever (USA) (Track 13).ogg" size="7630577" crc="33d85f52" md5="5091e315a149b046bb10b585e0333a4b" sha1="e2d203b0ff9c976055422f7f81606577b4d7eaa9">
-			<source frames="19447" pregap="149" duration="04:19:22" size="45739344" crc="40fe099c" md5="9bae4ae0557930cbe1a9f2e3e08bf35c" sha1="83454b02ee3aecf295fdb1bb5b5d0a0411c59c54" in_zeros="1" out_zeros="1" trimmed_crc="efa0177c" quality="8"/>
+		<rom name="Rayman Forever (USA) (Track 13).ogg" size="7629696" crc="aee798f8" md5="a4939e64f58f76fa0cd2ef0a4640e009" sha1="e665ae8ec1f620e0fa2efc578b842fe8cd8a6c9d">
+			<source frames="19447" pregap="149" duration="04:19:22" size="45739344" crc="40fe099c" md5="9bae4ae0557930cbe1a9f2e3e08bf35c" sha1="83454b02ee3aecf295fdb1bb5b5d0a0411c59c54" in_zeros="1" out_zeros="1" trimmed_crc="efa0177c" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Rayman Forever (USA) (Track 14).ogg" size="8727073" crc="060037ba" md5="baea13a4607285326887f161c05ed7d9" sha1="a2c4d624706fa4b9b97eb34d9167ec7efbc6dd14">
-			<source frames="22098" pregap="149" duration="04:54:48" size="51974496" crc="47ac242d" md5="71f823da877ed1aa0eb379f356c8b1e2" sha1="3f4ac225a516b9d024d083a6c149ebcc5d346a76" in_zeros="0" out_zeros="0" trimmed_crc="47ac242d" quality="8"/>
+		<rom name="Rayman Forever (USA) (Track 14).ogg" size="8733727" crc="cf328193" md5="fd2f3deaf8532d910f620fe7817578dc" sha1="c0560c1d50188d5e08cbd2c82d8a21731805c54e">
+			<source frames="22098" pregap="149" duration="04:54:48" size="51974496" crc="47ac242d" md5="71f823da877ed1aa0eb379f356c8b1e2" sha1="3f4ac225a516b9d024d083a6c149ebcc5d346a76" in_zeros="0" out_zeros="0" trimmed_crc="47ac242d" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="Rayman Forever (USA) (Track 15).ogg" size="2233802" crc="f35535d8" md5="11dfb15df788df56ae0971cf6cc8aff5" sha1="43f7b766b6b17c48d40e8f47a01cc2965ce829d0">
 			<source frames="5205" pregap="0" duration="01:09:30" size="12242160" crc="06514d24" md5="95822b836e56e3dfdcdf5e00be062d0f" sha1="74b9e7a0206642dabb0e9df7a203f4a53b84dc2e" in_zeros="0" out_zeros="1" trimmed_crc="e8924b63" quality="8"/>
@@ -7387,7 +7393,7 @@
 		<rom name="Rayman Forever (USA) (Track 20).ogg" size="1080240" crc="5360df59" md5="b3d2e73cb4bdc302d5fe8cefcfbe53af" sha1="5fc1f12a6092e376a37525647c19553b1593234a">
 			<source frames="2497" pregap="0" duration="00:33:22" size="5872944" crc="c25c84e3" md5="cb90fe623cd98b669651cb46a80d7c98" sha1="412cd24301bf88563a9abcce854b8cbac3672e19" in_zeros="0" out_zeros="1" trimmed_crc="8411349a" quality="8"/>
 		</rom>
-		<rom name="Rayman Forever (USA).cue" size="1779" crc="45a825fe" md5="6d85201b4ff5ded636c10886e35585e8" sha1="b9ccc238a7d7893ec6c7388eb2941ce0b916dacb"/>
+		<rom name="Rayman Forever (USA).cue" size="1800" crc="e2e28efb" md5="769b9b32420ce2af22e3ff3e03b82d24" sha1="5e3744d44bb7f63c32588cda4d032a48cd21d509"/>
 		<rom name="Rayman.bat" size="29" crc="e148efdc" md5="8cf06ba15e9d8442d70a0d5dec417820" sha1="161f7b0f6da4eaf07df13329f3ca44ee58b06a53" date="1999-01-27 07:26:58"/>
 		<rom name="SETSOUND.BAT" size="88" crc="9faf0c93" md5="d60c8e0e440fbed14dd4ca8e874d831c" sha1="7546a32e769e19f28dd00f4f9ec1d7bc121e7aa7" date="1999-01-26 11:13:20"/>
 		<rom name="SETSOUND.EXE" size="99896" crc="480eddcd" md5="b8a614c0997f2a4b6264a2c902a9cfb1" sha1="9d3ff9d78e28ff5458ee3e55f0f2a9157bdc84d0" date="1998-07-15 14:20:40"/>
@@ -7673,8 +7679,10 @@
 		<rom name="PCMAP/VIGNET.DAT" size="1778719" crc="42aa3a2c" md5="045f258a1af22224b7bce81c981e74df" sha1="91b23a3ae5def82279ab3ea2da27dd70bdb4e67d" date="1997-07-11 06:50:20"/>
 		<rom name="RAYKIT.EXE" size="440664" crc="6137f688" md5="4c2f316141ab68d26702644271223e36" sha1="16072c8c7856359689c965f39a69b4995463ee63" date="1997-08-06 12:51:36"/>
 		<rom name="RAYKIT.ICO" size="766" crc="f4356ca4" md5="3bb9dd57d729f3505f4e589b0f19475b" sha1="68160e2f65f624aedb235e9a5a26d51482f53865" date="1995-08-21 12:39:24"/>
-		<rom name="Rayman Designer (Europe) (En,Fr,De) (Track 1).bin" size="40955376" crc="df2d9ba7" md5="015c979ff5b851af969d194796780b44" sha1="3d597947b527557f3b1aa46eb25cd3e5e1395912"/>
-		<rom name="Rayman Designer (Europe) (En,Fr,De) (Track 2).ogg" size="4436853" crc="843a385b" md5="81a18e39c19d0a77e255d771aaae1486" sha1="49aa3f7ed47ba1559b850c03c879fc9569893b70">
+		<rom name="Rayman Designer (Europe) (En,Fr,De) (Track 1).bin" size="40955376" crc="df2d9ba7" md5="015c979ff5b851af969d194796780b44" sha1="3d597947b527557f3b1aa46eb25cd3e5e1395912">
+			<source frames="17413" pregap="0" duration="03:52:13" size="40955376" crc="df2d9ba7" md5="015c979ff5b851af969d194796780b44" sha1="3d597947b527557f3b1aa46eb25cd3e5e1395912"/>
+		</rom>
+		<rom name="Rayman Designer (Europe) (En,Fr,De) (Track 2).ogg" size="4440025" crc="542b8a60" md5="fdb4486234f994f0ca26c633a96ab6eb" sha1="a0dc26d1f8c2e9112755ca35ab447d5de28bdffd">
 			<source frames="11247" pregap="150" duration="02:29:72" size="26452944" crc="c2775b85" md5="d796673b264d6ca40a3ac52e67ca09e9" sha1="ca170b5273c5d20cfd4659ca516d2af622d49abc" in_zeros="392224" out_zeros="31881" trimmed_crc="d7df1088" quality="8"/>
 		</rom>
 		<rom name="Rayman Designer (Europe) (En,Fr,De) (Track 3).ogg" size="4393092" crc="f4c77c27" md5="9006bbb3591707b0c16645908910ada1" sha1="f355df92e27f19d4614de087bf82a5c4e0a29c18">
@@ -7731,7 +7739,7 @@
 		<rom name="Rayman Designer (Europe) (En,Fr,De) (Track 20).ogg" size="1082163" crc="00892533" md5="139a823cb701d9893a28fa5e5dacd3f1" sha1="27825d5a7bc8621fe689262f4302e8f1a5be7580">
 			<source frames="2497" pregap="0" duration="00:33:22" size="5872944" crc="9fb8d401" md5="c34f9517eb76f625201e1ac84dc1cf22" sha1="1b682c644d40329b2df1606e2dd243e65370867d" in_zeros="2" out_zeros="2251" trimmed_crc="57bdee48" quality="8"/>
 		</rom>
-		<rom name="Rayman Designer (Europe) (En,Fr,De).cue" size="2079" crc="5502042e" md5="0ab7d52d0d48f1e1c7684d5297c530c0" sha1="4cadac0ee19c65b48bf8cb4a12eb3d28d752d2fa"/>
+		<rom name="Rayman Designer (Europe) (En,Fr,De).cue" size="2100" crc="b987996b" md5="59245b341b745a5b432e6932aafbe5d9" sha1="2224430ae27e757ea600cd4aef7a57e4fe4e40da"/>
 		<rom name="RAYMAN.BAT" size="29" crc="a047431a" md5="b87a3ffe490353dc6ea4757c7dcb9d7e" sha1="5291c9796f98f92ea8c8de7be214410dfc6adfee" date="1997-06-20 06:44:48"/>
 		<rom name="RAYPOINT.ANI" size="13656" crc="325a52c5" md5="1799a495aa7986f71598dbca6563188f" sha1="b4fe4ec0d36a64c6af4b7c2569197dc82a4eb5b0" date="1996-11-18 09:28:56"/>
 		<rom name="RAYRUN.ANI" size="67712" crc="f6db3484" md5="ceeeda1f4cdd02a84b4d5227b4b4d2ac" sha1="2b93cefb6e5e0e5458ce3cd0fce2d2987c75a1c0" date="1996-11-18 09:28:46"/>
