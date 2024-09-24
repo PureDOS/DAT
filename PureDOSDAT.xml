@@ -7503,6 +7503,102 @@
 		<rom name="SETUP.INF" size="3" crc="8bdcb97d" md5="56d258bd897f5bb1b04ce55d31431366" sha1="b24951cc8c9d943894c558fa045e943e8916946a"/>
 		<rom name="STATLINE.BAT" size="2304" crc="a605f617" md5="d39f347955716b8c0fa3d6b64e2b098c" sha1="d515a1bd5771885421a5330227e890a60d21be8b"/>
 	</game>
+	<game name="Incredible Machine 2, The (1994) (Dynamix).dosz">
+		<description>Incredible Machine 2, The</description>
+		<comment>Full installation from CD, English language. CD image converted with CHDtoOGG</comment>
+		<comment_dosc>Sound Blaster config and auto start. French, German, and Spanish options</comment_dosc>
+		<year>1994</year>
+		<developer>Dynamix</developer>
+		<link type="media">http://redump.org/disc/64891/</link>
+		<rom name="ADL.DRV" size="9295" crc="2596aa71" md5="5b3b93130e29620927a2056ca1d31084" sha1="01af3ec72b8b94ccc088d61538d75046d5f6c19e" date="1994-11-08 01:00:00"/>
+		<rom name="AUDBLAST.DRV" size="3307" crc="ffae4027" md5="3bc9b7b3504acf5e2975689723dde61b" sha1="187a9fe67fc2d686439ec75097cb14c9c146d011" date="1994-11-08 01:00:00"/>
+		<rom name="AUDNONE.DRV" size="727" crc="fd535e8c" md5="3aa8dea76851902320f89d22e7759de0" sha1="034a529157205855379f0236d3622e5dc3a98fb5" date="1994-11-08 01:00:00"/>
+		<rom name="AUDPRO.DRV" size="2835" crc="73d17443" md5="a10c6ee365acdff4bd9ae93110196be6" sha1="a783252d5afb8c8c5ec8dddcff6ed174fb91b727" date="1994-11-08 01:00:00"/>
+		<rom name="AUDPS1.DRV" size="2003" crc="14f13450" md5="efebafb4c679a7586d0b5bce59b3fdee" sha1="24d6df51543d88d6ccec833c5fb76aede07fdeca" date="1994-11-08 01:00:00"/>
+		<rom name="ENGLISH.DAT" size="112099" crc="a37d4adf" md5="cb5dab7017568b25e0120dbeddf041fb" sha1="48acde7f4208a3286a3b61089dfe0948c1483f18" date="1994-11-08 01:00:00"/>
+		<rom name="FRENCH.DAT" size="303993" crc="13ba0636" md5="126113809266a3351f89a4610b5246ae" sha1="d83d22c6a7f8e025df33def00e801d32f544d802" date="1994-11-08 01:00:00"/>
+		<rom name="GENMIDI.DRV" size="2577" crc="f4542ca0" md5="136f2e332bfef214348c182eeca56d6a" sha1="33ea59df373e671e6fa599fa8a3612effc97507b" date="1994-11-08 01:00:00"/>
+		<rom name="GERMAN.DAT" size="332115" crc="322948eb" md5="9bbcdd4215471b629152f51a6475c610" sha1="80806f9ade9e9b6e1a9b829922cfa4e0e6958b08" date="1994-11-08 01:00:00"/>
+		<rom name="IBMPS1.DRV" size="4018" crc="bc5b5bbe" md5="eacc88538ed711cc103e3c9bd40efc86" sha1="6f37810818e5d4c77f40950bb1695de55652daf8" date="1994-11-08 01:00:00"/>
+		<rom name="Incredible Machine 2, The (USA) (En,Fr,De,Es) (Track 1).bin" size="49333200" crc="7c7f7b69" md5="92a75c32404968e43abacf0f5ac9a9a0" sha1="3b0526d5f26330c7eb94fa98457b058ee4f3cdc2"/>
+			<source frames="20975" pregap="0" duration="04:39:50" size="49333200" crc="7c7f7b69" md5="92a75c32404968e43abacf0f5ac9a9a0" sha1="3b0526d5f26330c7eb94fa98457b058ee4f3cdc2"/>
+		</rom>
+		<rom name="Incredible Machine 2, The (USA) (En,Fr,De,Es) (Track 2).ogg" size="6188394" crc="8132e6e3" md5="985f3b8563f8c540c6a95603192ebcd1" sha1="a6ff0a9d5075b8e46401b55793544c1868d54786">
+			<source frames="13067" pregap="223" duration="02:54:17" size="30733584" crc="ec1d3db0" md5="670a445a1652b7862441cf484f631409" sha1="138980bcbb544196463c8a900204f1e888fc3853" in_zeros="1" out_zeros="362305" trimmed_crc="8a8417ba" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="Incredible Machine 2, The (USA) (En,Fr,De,Es) (Track 3).ogg" size="6697160" crc="5e22337e" md5="3e01736f7ab0aef677a11b01c43713d8" sha1="2c0d2e472256a3467994f81bcd2f1faa5f736259">
+			<source frames="12554" pregap="149" duration="02:47:29" size="29527008" crc="bf37757d" md5="4b73bf8064617487881dfacdde224f0f" sha1="5c44084bc56d3d03dd1550fa8ae734671276db61" in_zeros="350360" out_zeros="362519" trimmed_crc="9112983b" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="Incredible Machine 2, The (USA) (En,Fr,De,Es) (Track 4).ogg" size="5797955" crc="2fa53613" md5="a22e257a8b2bb94fb8668d0ea8e2ea44" sha1="feede30f86f208b1f2e79b80177f2b6b5008be06">
+			<source frames="14540" pregap="149" duration="03:13:65" size="34198080" crc="476dcffb" md5="9c8b2223548697fe68563d948dd0a32c" sha1="4d38e3caf5f19bbd3ad3620ad510460f80c8c15d" in_zeros="350384" out_zeros="363471" trimmed_crc="c0e124d6" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="Incredible Machine 2, The (USA) (En,Fr,De,Es) (Track 5).ogg" size="7882734" crc="1424ff2a" md5="b8e09e9d9426a447eeaf1f4c7212112b" sha1="3df9ca27ea3707841bf6f3fa543a4a56bd7d14b3">
+			<source frames="14362" pregap="148" duration="03:11:37" size="33779424" crc="e4477ed5" md5="9cd40aa9c299de03ea45e29908ad123f" sha1="592aea10c4d60f3e3e1c83812d2c2750490af8a9" in_zeros="348056" out_zeros="366465" trimmed_crc="5fc88943" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="Incredible Machine 2, The (USA) (En,Fr,De,Es) (Track 6).ogg" size="5781512" crc="8444781c" md5="d3518c52402adc26326a7b1ba35b4665" sha1="a04c34c4be6b5ab4736dbabdbf8153c581d98fd6">
+			<source frames="12024" pregap="148" duration="02:40:24" size="28280448" crc="ed86456a" md5="467bb63912c05b8158ca6bd930f5ae6b" sha1="9e667dfd2c68aceb33e4419607f26ada79820968" in_zeros="348104" out_zeros="360763" trimmed_crc="2da2c522" quality="8"/>
+		</rom>
+		<rom name="Incredible Machine 2, The (USA) (En,Fr,De,Es) (Track 7).ogg" size="7494654" crc="58955f41" md5="38b1809454a0339c6c89e30c984ddc3c" sha1="4de34b28781c6450847bbeec84f470c817713207">
+			<source frames="12441" pregap="149" duration="02:45:66" size="29261232" crc="9ba1f940" md5="50fd298087c27bd5fe910e67c68dfae6" sha1="c5363d690bf264dcf466562b34a6395dd07041b7" in_zeros="350480" out_zeros="361743" trimmed_crc="2f7c4ae2" quality="8"/>
+		</rom>
+		<rom name="Incredible Machine 2, The (USA) (En,Fr,De,Es) (Track 8).ogg" size="6917946" crc="6af967e6" md5="b39a5964aa4d34ce790f1565f1ea8a6a" sha1="bf572a35f7bc15ab94f4de06dcaf972a766eac1d">
+			<source frames="12389" pregap="149" duration="02:45:14" size="29138928" crc="ce79fd65" md5="3cd64e20eaa881943b926cac8a7ed395" sha1="e47cd8aa53366953dc3c75163d3df2355f978139" in_zeros="350456" out_zeros="360735" trimmed_crc="93a9060e" quality="8"/>
+		</rom>
+		<rom name="Incredible Machine 2, The (USA) (En,Fr,De,Es) (Track 9).ogg" size="4863940" crc="76bc418d" md5="3342f67fc220a1ad94c6635cc9004a62" sha1="0da3a2f69b37b20895b6bb1df78ec40d74cfb96f">
+			<source frames="11622" pregap="149" duration="02:34:72" size="27334944" crc="1e905bd5" md5="452b61f7f3a826847d4c4439d051c1ac" sha1="ee9df6db1ea0db4df826c2211f499eeba803f398" in_zeros="350456" out_zeros="362579" trimmed_crc="ff1f7f58" quality="8"/>
+		</rom>
+		<rom name="Incredible Machine 2, The (USA) (En,Fr,De,Es) (Track 10).ogg" size="3879970" crc="2ebe5702" md5="5a006d44c457764ede86deee5f50006d" sha1="c5e80e7aeff02508045b82be897c90597b1cfd4d">
+			<source frames="8794" pregap="148" duration="01:57:19" size="20683488" crc="96d47a9a" md5="2fc2086bd21a7108cda8b41c6d2aad34" sha1="0be8a892cc2e7c5a3e815ca8e94d53cc2019fec4" in_zeros="348128" out_zeros="364067" trimmed_crc="dbf2f196" quality="8"/>
+		</rom>
+		<rom name="Incredible Machine 2, The (USA) (En,Fr,De,Es) (Track 11).ogg" size="5705217" crc="801dbc2e" md5="cb1949ee6139a394f0bee24220f22192" sha1="23098fa9d729268e747c75a5238004107bdc1176">
+			<source frames="12817" pregap="148" duration="02:50:67" size="30145584" crc="ac4f0430" md5="10134f7f03cb432061d40e23daac27af" sha1="80d256b5a3059aa5732efe0c1f0e345c7959b47b" in_zeros="348104" out_zeros="360565" trimmed_crc="86415b10" quality="8"/>
+		</rom>
+		<rom name="Incredible Machine 2, The (USA) (En,Fr,De,Es) (Track 12).ogg" size="7157685" crc="7d9515be" md5="a8c6b31a6ce24c91775b46e5c09f7ed7" sha1="1f1142a80c3f641175524a85ca7ac3f47fdf0ebc">
+			<source frames="14178" pregap="149" duration="03:09:03" size="33346656" crc="55fe10e7" md5="2c14c25b1cd6bf56f8328e99a027fe88" sha1="bd77c231c6b511c951520ca1b50a698b47c6c7f5" in_zeros="350456" out_zeros="360257" trimmed_crc="2e8e2d9f" quality="8"/>
+		</rom>
+		<rom name="Incredible Machine 2, The (USA) (En,Fr,De,Es) (Track 13).ogg" size="4472679" crc="a5d93849" md5="d459a83158c2650076ccc2cc35e985da" sha1="d318904617db587783d32eac808141c68dc78c8b">
+			<source frames="10791" pregap="149" duration="02:23:66" size="25380432" crc="c2010204" md5="4da451f524e0e5bf833051f576b3e2a7" sha1="0c0effd58f714a9e3d13bd7147b43c4a454f5374" in_zeros="350456" out_zeros="362307" trimmed_crc="4b16aa92" quality="8"/>
+		</rom>
+		<rom name="Incredible Machine 2, The (USA) (En,Fr,De,Es) (Track 14).ogg" size="4303576" crc="0b7f034a" md5="3b9b1eac80566f0bf785890e429e2102" sha1="ba962b194a3c00fd48248a5c14e9ea928cb94a28">
+			<source frames="10310" pregap="148" duration="02:17:35" size="24249120" crc="82f0ee63" md5="869319aab0674d8ef4885d7a75669c6c" sha1="47ef097998123103e5e1f07fee8964fc4894f5ff" in_zeros="348176" out_zeros="361210" trimmed_crc="8de1b91f" quality="8"/>
+		</rom>
+		<rom name="Incredible Machine 2, The (USA) (En,Fr,De,Es) (Track 15).ogg" size="6324607" crc="6421a8a5" md5="0b60b17d503f8d1909c5139a756064f1" sha1="fea445541abbaea1b5ad81cdc1bd6f4b1494e15a">
+			<source frames="12946" pregap="149" duration="02:52:46" size="30448992" crc="e731620b" md5="f60bdd518d96471dc7949ebd47f8c145" sha1="fc742a857b51cb97b54031eab060e60bfb896317" in_zeros="350528" out_zeros="365153" trimmed_crc="3f89c7cc" quality="8"/>
+		</rom>
+		<rom name="Incredible Machine 2, The (USA) (En,Fr,De,Es) (Track 16).ogg" size="6021209" crc="cb95012d" md5="de210de9287d8ee901bc771c7db0e932" sha1="1ddc896a5253699e2aced36410a8d189cf6b22d3">
+			<source frames="13796" pregap="148" duration="03:03:71" size="32448192" crc="78733d2a" md5="b6e508afecdb437ad7e925b393f03ce6" sha1="bebda48248f2c7d68432378fb43a8d97b05c8bb8" in_zeros="348224" out_zeros="363405" trimmed_crc="b929f6b7" quality="8"/>
+		</rom>
+		<rom name="Incredible Machine 2, The (USA) (En,Fr,De,Es) (Track 17).ogg" size="6300617" crc="441c816e" md5="cd25e6cf6859c6055e89b7023a1d2b2f" sha1="ac43cac62b17d10bd3b03a65584e867b596e69e7">
+			<source frames="14410" pregap="148" duration="03:12:10" size="33892320" crc="5acc230d" md5="23e13ba52435a26884c94f39ee992367" sha1="95626426233bb5c1f570da79a25cedab8ff28617" in_zeros="348176" out_zeros="359879" trimmed_crc="7de56d13" quality="8"/>
+		</rom>
+		<rom name="Incredible Machine 2, The (USA) (En,Fr,De,Es) (Track 18).ogg" size="5530619" crc="9823dfaa" md5="55451058595192bf02e88b13b015444f" sha1="e09a21e548ac5cf7b438e3e2218c7b4486ef0cb5">
+			<source frames="14680" pregap="149" duration="03:15:55" size="34527360" crc="ebdbf0de" md5="c73683efb9fa0461ed6fbc3d6d97d4b5" sha1="6efa65a3a008ec4ad23f0148388684e725d5054e" in_zeros="350528" out_zeros="360919" trimmed_crc="1b738005" quality="8"/>
+		</rom>
+		<rom name="Incredible Machine 2, The (USA) (En,Fr,De,Es) (Track 19).ogg" size="4046951" crc="916caf05" md5="40117c4b4747656077ec9d1182055133" sha1="327fe329d6ac79248283fcba6659306f1825ac66">
+			<source frames="10102" pregap="149" duration="02:14:52" size="23759904" crc="29b46a03" md5="6d97be37d65e5f1ff4dfafbdf21a2408" sha1="5863352f52ee7da80ae6c8c300cd69db34fed8e4" in_zeros="350552" out_zeros="363074" trimmed_crc="3b2c4185" quality="8"/>
+		</rom>
+		<rom name="Incredible Machine 2, The (USA) (En,Fr,De,Es) (Track 20).ogg" size="6773418" crc="5588b40e" md5="0658f689de8feee797c15eb47d24f183" sha1="55036f355bd73136a0f44fa4a41b9845ec1530c3">
+			<source frames="13389" pregap="148" duration="02:58:39" size="31490928" crc="b977990c" md5="2c21680babc02ec5a2ded12dc387b1d3" sha1="595a4d41d13bbdc2217cbbb58d0175251f7d9897" in_zeros="348296" out_zeros="363751" trimmed_crc="bfe01272" quality="8"/>
+		</rom>
+		<rom name="Incredible Machine 2, The (USA) (En,Fr,De,Es) (Track 21).ogg" size="6303262" crc="d3919c71" md5="a7ccc9319f0908331a7b2d9329e28fbf" sha1="c593bd7804379ccea81209a6d2a1295f1bc5c687">
+			<source frames="13517" pregap="148" duration="03:00:17" size="31791984" crc="a993d4da" md5="c25268a2ecfe3e64da7f0d6bb75f0a78" sha1="afd4d59b8cea2d1fa6832884f1165cdd517a7d8d" in_zeros="348320" out_zeros="362695" trimmed_crc="e4aa0a6e" quality="8"/>
+		</rom>
+		<rom name="Incredible Machine 2, The (USA) (En,Fr,De,Es) (Track 22).ogg" size="4774" crc="52704319" md5="48c9584e5354ae4a59a588624f44b25c" sha1="b2c2d6a7bffb34bdd518fef7df45c5d6d3924236">
+			<source frames="448" pregap="148" duration="00:05:73" size="1053696" crc="2281fdfc" md5="4cf425657003af775bb909f6a475158c" sha1="407d37b84431fbd55c7f07efccb4525a6abbcb30" in_zeros="348296" out_zeros="705396" trimmed_crc="830fae98" quality="8"/>
+		</rom>
+		<rom name="Incredible Machine 2, The (USA) (En,Fr,De,Es).cue" size="2948" crc="5fb8e80b" md5="a99ee283430593796b92869edd961061" sha1="8f38d1b193d2b674b2023e7f2bb673e3fdc804b6"/>
+		<rom name="INSTALL.EXE" size="76437" crc="4ba74253" md5="a650ef0938d63338fd9d6ef11502c9f4" sha1="4ebe8aa06b3bfefa0068c6090caec6182a86237a" date="1994-11-08 01:00:00"/>
+		<rom name="INSTALL.HLP" size="20789" crc="25681597" md5="c0795ef3a73837c3b64fa3777a70b4ae" sha1="af8f716debc11f41e34a44d7e7f157078acd91e2" date="1994-11-08 01:00:12"/>
+		<rom name="INSTALL.TXT" size="9726" crc="cbbc28d7" md5="39f47f21e89de0b1660db82d248c9404" sha1="c0442d85fe7deba1a5966d54451c367c9f8aaac6" date="1994-11-08 01:00:12"/>
+		<rom name="MT32.DRV" size="2542" crc="a885862d" md5="e2bcbb34b6bfe586c52605258ef9a312" sha1="a3fa61612dcd448a4a1fab54cf64e4c0b1e51559" date="1994-11-08 01:00:00"/>
+		<rom name="PROAUDIO.DRV" size="9880" crc="e9a585f1" md5="d973d5a2f7ca818de041b62b4aa9b614" sha1="02c39f2364bfb7a5aded228a1815810dc93ca97b" date="1994-11-08 01:00:00"/>
+		<rom name="RESOURCE.001" size="3692848" crc="bbbfda41" md5="11241c3592f4d1d31a3f2c62eb75d1f9" sha1="5be610e9aaa56bce819bcea0cd358be2a869e768" date="1994-11-08 01:00:00"/>
+		<rom name="RESOURCE.MAP" size="11757" crc="93d3f4be" md5="a2ab3afafc13636ba08505164b4685d3" sha1="03260d1775fc76283e15bf945f0225fe70086c29" date="1994-11-08 01:00:00"/>
+		<rom name="SBPRO.DRV" size="9701" crc="0c22d8a3" md5="1b15c2c58bdf71f1333e9683036efc72" sha1="eecf231d05ab6c887cd8f7c5dba017583b3f6e94" date="1994-11-08 01:00:00"/>
+		<rom name="SPANISH.DAT" size="297040" crc="80df6672" md5="c20159bf4f6209c73abd05956853bf2d" sha1="810feb1c54ce193a1800cb733f45dc9476e17e1f" date="1994-11-08 01:00:00"/>
+		<rom name="STD.DRV" size="1481" crc="578efe57" md5="aa444eeb77bc162d0ee52379df408358" sha1="bdc955928878536bc2bd664eec8f9968483e2c0f" date="1994-11-08 01:00:00"/>
+		<rom name="TIM2.EXE" size="457168" crc="b6eeba67" md5="7b63389c637cdfe92e7a342c31aa3c2c" sha1="9747c9626c2dfdad60d869a2f5f1955a046deebd" date="1994-11-08 01:00:00"/>
+	</game>
 	<game name="Jazz Jackrabbit (1994) (Epic MegaGames).dosz">
 		<description>Jazz Jackrabbit</description>
 		<comment>Installed from USA Enhanced CD-ROM packaged with Jazz Jackrabbit 2</comment>
