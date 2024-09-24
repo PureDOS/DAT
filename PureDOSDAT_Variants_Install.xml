@@ -478,6 +478,20 @@
 			<track number="1" type="MODE1_RAW" frames="33713" pregap="0" duration="07:29:38" size="79292976" crc="acd9a3c4" md5="b18ae6264b6d9553748e913835106b78" sha1="1a13d9580317e928e0e52db609b4adf016033c29" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
+	<game name="Toonstruck (1996) (Burst Studios) (Installation).dosz">
+		<description>Toonstruck</description>
+		<comment>Redump-verified CD-ROMs: Toonstruck (Europe) (Disc 1) and Toonstruck (Europe) (Disc 2)</comment>
+		<year>1996</year>
+		<developer>Burst Studios</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/15798/ and http://redump.org/disc/15799/</link>
+		<rom name="Toonstruck (Europe) (Disc 1).chd" size="670614912" crc="fdc4ebf5" md5="b81f0a56734c66ad233b822040f203d7" sha1="cd2aa6534e61b75b601cb3ddaf58924ceb0b1774">
+			<track number="1" type="MODE1_RAW" frames="273880" pregap="0" duration="60:51:55" size="644165760" crc="c6cc9f07" md5="d4189b9f7f1d12046dce2a5a332cf79f" sha1="354e2b10181afd30efa63905562605762165fb7c"/>
+		</rom>
+		<rom name="Toonstruck (Europe) (Disc 2).chd" size="701635968" crc="16b404ed" md5="e51021a0ba149a358edc70244885be06" sha1="d36e3f20800b8b19139cb03ebccde17af7a7e77c">
+			<track number="1" type="MODE1_RAW" frames="286551" pregap="0" duration="63:40:51" size="673967952" crc="78236c95" md5="06984ff648904bb98f5a6310d1db4f3b" sha1="65089432727ecc385ef441b6aaf38012f97e0bd3"/>
+		</rom>
+	</game>
 	<game name="Warcraft - Orcs &amp; Humans (1994) (Blizzard Entertainment) (Installation).dosz">
 		<description>Warcraft - Orcs &amp; Humans</description>
 		<year>1994</year>
