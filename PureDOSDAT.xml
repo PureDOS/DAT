@@ -327,115 +327,148 @@
 		<rom name="SFX/ZAP3.WAV" size="9448" crc="c58c799a" md5="33c38a9e024e33721e5c42b0fcc18eba" sha1="b83706f5e97e4416278a9564a319362c2c5a504f" date="1995-08-26 05:30:20"/>
 		<rom name="TEST.RAW" size="40320" crc="0d2d49b8" md5="7cc517930c314be6ca818395934e9850" sha1="13b15b9f8a0b7d98176f9437aca149301c576458" date="1995-08-15 19:57:50"/>
 	</game>
-	<game name="Alone in the Dark (Infogrames) (1992).dosz">
+	<game name="Alone in the Dark (1992) (Infogrames).dosz">
 		<description>Alone in the Dark</description>
+		<comment>Installed from the 1996 Alone in the Dark Trilogy European White Label CD re-release, CD image converted with CHDtoOGG</comment>
+		<comment_dosc>Sound and language settings and auto start configurations for the main game and Jack in the Dark</comment_dosc>
+		<link type="media">http://redump.org/disc/1706/</link>
 		<year>1992</year>
 		<developer>Infogrames</developer>
-		<comment>Installed from the 1996 Alone in the Dark Trilogy European White Label release on Redump.</comment>
-		<rom name="Alone in the Dark (1992) (Infogrames).chd" size="362871936" crc="435592e7" md5="3bff2b796e6ba18e3a5bcbffe4d2f59f" sha1="0560cd5feeb0093cb4bf99e4c19d92acc618fb25">
-			<track number="1" type="MODE1_RAW" frames="24694" pregap="0" duration="05:29:19" size="58080288" crc="a3c195af" md5="02e0ffd64ecaeeba5afff01907212f41" sha1="fcf22656d1858b6d8c811d3240cbf41d9e2bcbdd" in_zeros="1" out_zeros="0"/>
-			<track number="2" type="AUDIO" frames="5989" pregap="150" duration="01:19:64" size="14086128" crc="ac8ced45" md5="4684b44013db8f60054426b535f7cf51" sha1="87c6e946e764d1824a7693365d255f6c1492715e" in_zeros="360080" out_zeros="0"/>
-			<track number="3" type="AUDIO" frames="5753" pregap="150" duration="01:16:53" size="13531056" crc="22715d94" md5="147f8c8e959ee0c2cfcc9a758c85a71a" sha1="d15a158e3e82ddac638b60b0786f4158e986a400" in_zeros="0" out_zeros="3"/>
-			<track number="4" type="AUDIO" frames="9573" pregap="150" duration="02:07:48" size="22515696" crc="8764aa07" md5="8ef990e12c1dad23b5562e30a486f7f6" sha1="2e8ab7aadd6950f3a6c2d1e9de110219ea6304f4" in_zeros="2" out_zeros="1"/>
-			<track number="5" type="AUDIO" frames="7806" pregap="150" duration="01:44:06" size="18359712" crc="6e56e373" md5="b46a858bf377f6f057a968e55645b44c" sha1="3dd8e04118de464e698e7ee5076a4aff45f43b27" in_zeros="2" out_zeros="0"/>
-			<track number="6" type="AUDIO" frames="17376" pregap="150" duration="03:51:51" size="40868352" crc="b021fe84" md5="f57f5a4fa84f3d3f088c91e1492116d9" sha1="c0921b0864126e12eda839e477599376e44ac574" in_zeros="0" out_zeros="1"/>
-			<track number="7" type="AUDIO" frames="9185" pregap="150" duration="02:02:35" size="21603120" crc="03119c25" md5="a1d02cd4b317e4511a532c002cee98cd" sha1="020707d1f7f5446732a740ee0598b5754db6c538" in_zeros="2" out_zeros="1"/>
-			<track number="8" type="AUDIO" frames="2518" pregap="150" duration="00:33:43" size="5922336" crc="f65ee156" md5="5f0b35d801005181431facb704f758ef" sha1="420103a6445f02f73de48a971f0cc9e7ce0ca4c4" in_zeros="0" out_zeros="1"/>
-			<track number="9" type="AUDIO" frames="6701" pregap="150" duration="01:29:26" size="15760752" crc="48655cea" md5="413a5aebffb97dcc20c15211f79d50a1" sha1="11b46fc93655661de1763bde68e1e88f01f289e0" in_zeros="0" out_zeros="0"/>
-			<track number="10" type="AUDIO" frames="6216" pregap="150" duration="01:22:66" size="14620032" crc="215c2aa2" md5="ab9df935a4fe53e2de72008e94416dea" sha1="019c46a8d2b98ef7e2748de8178685a99fd15f97" in_zeros="0" out_zeros="1"/>
-			<track number="11" type="AUDIO" frames="14992" pregap="150" duration="03:19:67" size="35261184" crc="f435b00d" md5="6bc68845f256744bc9afa82b2d0c2bf5" sha1="817aee06629a8c81534d617297d9d1687e977f15" in_zeros="0" out_zeros="1"/>
-			<track number="12" type="AUDIO" frames="1842" pregap="150" duration="00:24:42" size="4332384" crc="40a5ec85" md5="bdb51bb2da319b5d1171ecc1351c0d81" sha1="1afb824e06138099aa80694048cecadcf5f8fdbf" in_zeros="0" out_zeros="1"/>
-			<track number="13" type="AUDIO" frames="797" pregap="150" duration="00:10:47" size="1874544" crc="60910467" md5="bf6f78292f0d001ae1ca09915b93b034" sha1="d2e426e6932c5bda666ad70d3439c8143526dd2f" in_zeros="0" out_zeros="1"/>
-			<track number="14" type="AUDIO" frames="638" pregap="150" duration="00:08:38" size="1500576" crc="5e935b28" md5="66e9a58df5d1fd1e0ba7ad33ef5772ca" sha1="6b775fb11da71b5a8067c0cf9509d18a99794b0f" in_zeros="0" out_zeros="0"/>
-			<track number="15" type="AUDIO" frames="12858" pregap="150" duration="02:51:33" size="30242016" crc="5665a48b" md5="4fadc418da7341394b668a37e3f428ee" sha1="0390f7bffb37e138f2b0c4678fc8ed7403ee5a76" in_zeros="0" out_zeros="1"/>
-			<track number="16" type="AUDIO" frames="7404" pregap="150" duration="01:38:54" size="17414208" crc="f1c5e17e" md5="0455060525448efe73556b542de4ccf0" sha1="2aba4a5c823a8904de3cc90b5700c753b8b8be17" in_zeros="0" out_zeros="1"/>
-			<track number="17" type="AUDIO" frames="16137" pregap="150" duration="03:35:12" size="37954224" crc="e8743b90" md5="dc46405566ffbede6f6f54d0ac07a696" sha1="e760670e01a69ce7d7099b6f83a014725d82fa79" in_zeros="0" out_zeros="1"/>
+		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 1).bin" size="58080288" crc="a3c195af" md5="02e0ffd64ecaeeba5afff01907212f41" sha1="fcf22656d1858b6d8c811d3240cbf41d9e2bcbdd">
+			<source frames="24694" pregap="0" duration="05:29:19" size="58080288" crc="a3c195af" md5="02e0ffd64ecaeeba5afff01907212f41" sha1="fcf22656d1858b6d8c811d3240cbf41d9e2bcbdd"/>
 		</rom>
-		<rom name="INDARK/ADLIBM.COM" size="3534" crc="9523a572" md5="990132a0d6fc0404aeff05816c1dea07" sha1="04010db378f266c17f1fff0e675d8ccbd2bd8596"/>
-		<rom name="INDARK/CAMERA00.PAK" size="143007" crc="57b0ccb7" md5="97c310b058ec23fa111a109d7f07dad0" sha1="4cda14c0cd536abaaa217851d24ddf51183ea596"/>
-		<rom name="INDARK/CAMERA01.PAK" size="209442" crc="91aff534" md5="1994b933be38afd608dad9df75df7b63" sha1="4a6c530cb2c0ba2585177ea95e4dbd08e937009f"/>
-		<rom name="INDARK/CAMERA02.PAK" size="606722" crc="69a149c0" md5="e387f8f0f7fa0b0e2966fb8615d871c6" sha1="564a41bdcd5834c9ddd08f72e1da6274254ffc89"/>
-		<rom name="INDARK/CAMERA03.PAK" size="519297" crc="3d38027f" md5="230b68eede2ce3a85f8ced31adba7736" sha1="8bbc2a93b3e09a5dc8944ee7f32a7f88b92a1aef"/>
-		<rom name="INDARK/CAMERA04.PAK" size="112840" crc="806ea160" md5="78ea3b253e4712dd2d476c1b7d1a267b" sha1="9e55e405f668b07567c24dd07d0b4b2e6873561a"/>
-		<rom name="INDARK/CAMERA05.PAK" size="840998" crc="5eaa6506" md5="ebf009d1bba82b1d06728c2ca7dff315" sha1="1f72deb4a6cd011ecd2bca3226597fa97343d3b7"/>
-		<rom name="INDARK/CAMERA06.PAK" size="390359" crc="e5e31d35" md5="7654ac8e842690cc3b72bcce038463cb" sha1="04649b60a3ecc162e976c621e4529a0bdd052c45"/>
-		<rom name="INDARK/CAMERA07.PAK" size="167091" crc="50f8d03f" md5="4193f1ebaf0391043da99de8d50c82e9" sha1="a4d6204be0e01883b726a1d629f8df99df3c0831"/>
-		<rom name="INDARK/CLEARDRV.EXE" size="8426" crc="9cc76e37" md5="96b87617284f455c5cc5c67e572f6d5f" sha1="3690fe106a6383046f33012ee73dd983fc1eab19"/>
-		<rom name="INDARK/DEFINES.ITD" size="90" crc="40c288c5" md5="883858fac6e300da9b23e5a6db8ca1eb" sha1="c1999b2ac9675eca83001f266fd6686a73397637"/>
-		<rom name="INDARK/DEUTSCH.PAK" size="28085" crc="423765f8" md5="6cb6612215a895e0e34c4f679d725de2" sha1="26a524d06e7f00e0d4d7e78e6a70582e7ba06d30"/>
-		<rom name="INDARK/DRV_BZ.COM" size="761" crc="fbbc80a7" md5="21a16614c2b6d8c0eefecb3d1f36e325" sha1="c378cf8653a820f8b078befceff2e3a1e6052687"/>
-		<rom name="INDARK/DRV_SB.COM" size="1571" crc="f26bbe07" md5="fe2562c29e5a2e952ac1483822bedb74" sha1="a963c411519627ff3f0741748ca75f1d505c0184"/>
-		<rom name="INDARK/DRV_SBD.COM" size="932" crc="1cc6fa59" md5="8e714d7ddc2c73bb3ce71108eb99e834" sha1="f6ac092139e3caa9d89580626f15dc1b877210f7"/>
-		<rom name="INDARK/DRV_SS.COM" size="913" crc="75315862" md5="cf06ec327f5c9aa20ace8c9a2f29b9a6" sha1="b22eb538b96ea7d8cd78613e03b8023d695ab828"/>
-		<rom name="INDARK/ENDSEQ.PAK" size="43847" crc="b049751f" md5="5f43f1a81d0b32711ff5cd11553cb42e" sha1="3c11a9fe875b7c17736b88b003f2577e5d85c272"/>
-		<rom name="INDARK/ENGLISH.PAK" size="28211" crc="c06b31a0" md5="8894ab24ca998b4e4c78637b2d3f060c" sha1="1c5a7e8d5597fb6fe41355f1cf0a2f743bdcfb68"/>
-		<rom name="INDARK/ESPAGNOL.PAK" size="28247" crc="d1320835" md5="faf036325fe42f6b8419ba3b8ed3c000" sha1="39a57c2cc36f086b041343178c9abf1b913a7995"/>
-		<rom name="INDARK/ETAGE00.PAK" size="2652" crc="79c4ec36" md5="f7c614c5f32082429e0e06baa474d80a" sha1="864f00524d8accd821461505eac9a6775f148b9a"/>
-		<rom name="INDARK/ETAGE01.PAK" size="6478" crc="cb37d5c8" md5="12c87e705ed5f54a4e815e6dbc65d98c" sha1="e859a084730d2560804a966bc79c3e55e3964d69"/>
-		<rom name="INDARK/ETAGE02.PAK" size="15858" crc="66afa6d9" md5="55469cfc30f05177501d6a597b6c9ffc" sha1="2191e4502b1bd358f21b57baefc3da82db857613"/>
-		<rom name="INDARK/ETAGE03.PAK" size="15176" crc="bae83da5" md5="06a3acce8ede839b283a05ff4f6c36b8" sha1="4b84dc9c9e6db1eb03515d1027209ede3090f0c5"/>
-		<rom name="INDARK/ETAGE04.PAK" size="2050" crc="aab44109" md5="19815b73eeee417f5fc0fda7d074acbd" sha1="61d5052852324378e88a6451ad3e3f9458209bcd"/>
-		<rom name="INDARK/ETAGE05.PAK" size="15507" crc="1655776c" md5="b28ffe103db409e89adde246970b7e34" sha1="bf898cdea3c4e3423382eff42d6b1966915c1741"/>
-		<rom name="INDARK/ETAGE06.PAK" size="6411" crc="8cc668d6" md5="7ef849b47b61718c8e6ce7119134d9ec" sha1="de4610a385b2c1414c71c839aac0d56feb366360"/>
-		<rom name="INDARK/ETAGE07.PAK" size="2071" crc="858f2f5a" md5="3a1f4040a67923c8fa234b68c89eb2e9" sha1="52dc91be084f6aab300fe662b1253fc9b403282d"/>
-		<rom name="INDARK/FRANCAIS.PAK" size="27928" crc="3869d036" md5="7c1687fb0abd68bea84599b056216932" sha1="c97efcb5d94604702d83b29563cee877bf665919"/>
-		<rom name="INDARK/INDARK.EXE" size="155088" crc="5db6cd9b" md5="dfb8ed7a937e316815108e0c7259b6a5" sha1="40d879b7e51bfb9a4a8d39c4acc7b86d3eca713b"/>
-		<rom name="INDARK/INDARK.ICO" size="2686" crc="37a48615" md5="39c251de44939677bd7f1a38061432b9" sha1="8c21db11748920d0e84c9c891cb4073b834ff995"/>
-		<rom name="INDARK/INDARK.PIF" size="573" crc="ffec2982" md5="57d5da91bbee50c2bafc661aeb4da7d8" sha1="daee49a8e1c6f93507f58c7b6de8fa95925d7243"/>
-		<rom name="INDARK/INSTALL.EXE" size="99571" crc="c644414c" md5="0cd0ba45529a7adcca28ae6b3f485510" sha1="f0eaf68ec04498fca47fbe0e915c63d8356d7be3"/>
-		<rom name="INDARK/ITALIANO.PAK" size="28725" crc="b3090f48" md5="97f6739311308fa0be7060c5a80153f1" sha1="1f712c3eb7918a1de4070df67703f6ff10432a1b"/>
-		<rom name="INDARK/ITD_RESS.PAK" size="362835" crc="48144720" md5="5880742da8863c10026f6ab6852eda79" sha1="74e9ecc5404f92c3fa916e4eae85c1b9d84af09f"/>
-		<rom name="INDARK/LISTANI2.PAK" size="59810" crc="fc14b1ac" md5="c6db3e407c6ec21bc14d1112a7d44496" sha1="01c0375d2f8eeceacf962a7ac9b2c10da1b16a85"/>
-		<rom name="INDARK/LISTANIM.PAK" size="59818" crc="63669b8c" md5="e7a34bd8909c16efab856ea5b42bf873" sha1="983cc373efe9147e98d32e7beb857a696668ac79"/>
-		<rom name="INDARK/LISTBOD2.PAK" size="268430" crc="1b18fc8b" md5="ecc26d142bf3e03228de91a54998f303" sha1="d7d2f7c3b182e5c9b514b9962e25280d3d444eba"/>
-		<rom name="INDARK/LISTBODY.PAK" size="264831" crc="8e62d6fa" md5="f4c0ed1b5c3365b3568bf3415760ce63" sha1="8c42cfaab8a0536ce2e1ee9edc0f5d4db3bd067e"/>
-		<rom name="INDARK/LISTLIFE.PAK" size="74618" crc="c454aa40" md5="9144d2c4173e336f8d71d63a41354198" sha1="2a14a585d847af64a87dba167b75cbb848f8ba41"/>
-		<rom name="INDARK/LISTMUS.PAK" size="12469" crc="0d83929a" md5="8d510de664e04e840cbbfa9394c6dc5b" sha1="3bebbe6f4bd29020a514d29c6632c59ad8eee52b"/>
-		<rom name="INDARK/LISTSAMP.PAK" size="961234" crc="5a1bd139" md5="9ac0b6f318818503d4290750b2d752fd" sha1="a83b124e4102e3e9e3e5c1beffcf671234218aa6"/>
-		<rom name="INDARK/LISTTRAK.PAK" size="3696" crc="a4847809" md5="42672ebe42d8af11a5ad05ea7d4bfcfc" sha1="600b52480148692494f1b1f790d174d3d05c6ca6"/>
-		<rom name="INDARK/OBJETS.ITD" size="15186" crc="e5758859" md5="3164fb4c39fba65cb080e02c0f8e4353" sha1="555d532ed510f71781ac9b514b723af972757562"/>
-		<rom name="INDARK/PRESENT.PAK" size="267190" crc="ece04fbc" md5="f818ce56b6743cca4f4f83a32d38f179" sha1="b0b985f1dc32603e78b74789c77908f96cd3874f"/>
-		<rom name="INDARK/PRIORITY.ITD" size="101" crc="9bd73bf2" md5="b035089120d253e63bf3a7f0ff8421a2" sha1="24db7726e041bfc6858e155b92ebb45503c330a1"/>
-		<rom name="INDARK/USA.PAK" size="28211" crc="c702c0cf" md5="6d9e3dd834d53df354920e86e03f2031" sha1="4ea60f3a0e6347247883d6c08f3fef1a1eaddbf5"/>
-		<rom name="INDARK/VARS.ITD" size="414" crc="91f59b08" md5="5c5c27c8147a2e759b984bbeb4056a0c" sha1="12256a101b1b35a96f98362fa71a1b0f9d72f73e"/>
-		<rom name="INDARK/WINSTALL.EXE" size="147472" crc="c07521f5" md5="54fae0ca6fc05692cbd2768b34d417cb" sha1="e1abebb552297dde64165f9198039e828a5206c4"/>
-		<rom name="JACK/ADLIBM.COM" size="4122" crc="9b9aaeea" md5="ee4e242a803dc95e0722a4a61b98148b" sha1="978f7b5fb94d280ddba256f76bca94540db5e8e3"/>
-		<rom name="JACK/ANIM16.PAK" size="28906" crc="5eb45012" md5="008b535991b4120dddfd1a398a01f426" sha1="7d2a98fcb8f3879e87b7d3f197e3d00949d49b96"/>
-		<rom name="JACK/CAMERA16.PAK" size="250225" crc="371552b9" md5="624fc901ffc6de62061d2b723ca41de8" sha1="2cad6674770be9994a166f8865bd086c67ec7b9b"/>
-		<rom name="JACK/CLEARDRV.EXE" size="8426" crc="9cc76e37" md5="96b87617284f455c5cc5c67e572f6d5f" sha1="3690fe106a6383046f33012ee73dd983fc1eab19"/>
-		<rom name="JACK/DEFINES.ITD" size="30" crc="ccf86514" md5="ea342f964a9ac83e7063dcb9275fa7be" sha1="df282f75f38bcd3be0261d73b44c794cdfcedc48"/>
-		<rom name="JACK/DEUTSCH.PAK" size="3457" crc="442bab2e" md5="29fc377bf34653ff5041481505e20225" sha1="eb7cac928fc1e2a0ae54088938c6240471639e6f"/>
-		<rom name="JACK/DRV_BZ.COM" size="761" crc="fbbc80a7" md5="21a16614c2b6d8c0eefecb3d1f36e325" sha1="c378cf8653a820f8b078befceff2e3a1e6052687"/>
-		<rom name="JACK/DRV_SB.COM" size="1571" crc="f26bbe07" md5="fe2562c29e5a2e952ac1483822bedb74" sha1="a963c411519627ff3f0741748ca75f1d505c0184"/>
-		<rom name="JACK/DRV_SBD.COM" size="932" crc="1cc6fa59" md5="8e714d7ddc2c73bb3ce71108eb99e834" sha1="f6ac092139e3caa9d89580626f15dc1b877210f7"/>
-		<rom name="JACK/DRV_SMP.COM" size="708" crc="8a958763" md5="e8db3e7f2ba5343243de64b62d702fb2" sha1="f7bf355b30e238b0113e9923b50bdfe1d2226dd3"/>
-		<rom name="JACK/DRV_SS.COM" size="913" crc="75315862" md5="cf06ec327f5c9aa20ace8c9a2f29b9a6" sha1="b22eb538b96ea7d8cd78613e03b8023d695ab828"/>
-		<rom name="JACK/DRV_VM.COM" size="1448" crc="9f13c48a" md5="3f65cee43fe2cec081a6dd1a6e742b6f" sha1="d30d01234aed8d09c2e0ca244af430f8320c2ad3"/>
-		<rom name="JACK/ENGLISH.PAK" size="3245" crc="423436a6" md5="3b6417f2ddae71729d3d9551128586f0" sha1="dcf6b962e36a07dccdc568d729a380d0ab544dff"/>
-		<rom name="JACK/ESPAGNOL.PAK" size="3339" crc="0085eca9" md5="ef136af52f3530bbe9cf87d3c35273b9" sha1="fb35f16a2a1c8c4b5743b9aa1838d549a153bcbd"/>
-		<rom name="JACK/ETAGE16.PAK" size="2736" crc="b104f230" md5="d6f97930957fcae2ea74fee775e93180" sha1="1631690cf7ec1af09d2dba703a7c9c296f793306"/>
-		<rom name="JACK/FRANCAIS.PAK" size="3373" crc="68ea2a6f" md5="f49b29be13a1cf99a1bb0231e7bf418f" sha1="06aaea6c0c098f9c546e5160e6a3b1c2c5853236"/>
-		<rom name="JACK/INDARK2.EXE" size="66552" crc="9f17f7d8" md5="c2edffbf36cb2504137b79a10aa50db9" sha1="06c9dd8a0531f433fba978103e37b1368c48d91e"/>
-		<rom name="JACK/INSTALL.EXE" size="99571" crc="c644414c" md5="0cd0ba45529a7adcca28ae6b3f485510" sha1="f0eaf68ec04498fca47fbe0e915c63d8356d7be3"/>
-		<rom name="JACK/ITALIANO.PAK" size="3395" crc="c4822bfb" md5="bbedc67c75481fd07408adf132be71b8" sha1="ec7e5eeb0589d8079fd93cfdfaeeea58e2f7c6c0"/>
-		<rom name="JACK/ITD_RESS.PAK" size="272741" crc="f5023e89" md5="65ad91559fe8e850f8d7aab51edb54df" sha1="162385a5176d15c68edfe2a543fee55903f99578"/>
-		<rom name="JACK/JACK.BAT" size="42" crc="87394250" md5="67ad683234bc274b695f15b0adfbfbe5" sha1="336f73c6013c12e3dc8f7b8ece8a4758ed268052"/>
-		<rom name="JACK/JACK.ICO" size="766" crc="091a186e" md5="950ff9a618ce5d9ad199b501a8e5ca82" sha1="df8ecc462ae5d35559d7aa92b578f2d8a74ee6cf"/>
-		<rom name="JACK/JACK.PIF" size="573" crc="e8706168" md5="aee91a06412f9752bf5db8fe158e5184" sha1="32a90ec8b3fd7e31c0f815911aeace11e0100c8d"/>
-		<rom name="JACK/LISTANIM.PAK" size="62121" crc="a7d75835" md5="fa1728037bafc55728c109169553db9e" sha1="c5e03ea25eb51d4c3c1b7aa8311989acf468c0bf"/>
-		<rom name="JACK/LISTBODY.PAK" size="57221" crc="dd58574c" md5="4930049b14d52ea7a15e62a6f5986554" sha1="1af26683992efbe34bbe77c66c834c47c298a0ba"/>
-		<rom name="JACK/LISTHYB.PAK" size="3039" crc="35505355" md5="df4ef7e0e5a48a497e78edc2d87d70aa" sha1="3ce296eb3b91aa64692c99c74ecbee4dbb16149b"/>
-		<rom name="JACK/LISTLIFE.PAK" size="9152" crc="1beefed9" md5="c0a9fa8ee4fcb3414f6fb2c290471f8d" sha1="6e70358d6d47197627b6204c2fe035967ea5dce4"/>
-		<rom name="JACK/LISTMAT.PAK" size="360" crc="6736e848" md5="a1297f7cf218f20e69f43f1f4e5f5701" sha1="7d2eac3cc3e55aeebb3a3c59f80e38b209065fc0"/>
-		<rom name="JACK/LISTMUS.PAK" size="2862" crc="62197d81" md5="f592a7d62c3c57eef6178ff014fa488b" sha1="b8241c1843adc10991f1c807defb044859d9373b"/>
-		<rom name="JACK/LISTSAMP.PAK" size="188375" crc="95624e75" md5="8eb2fbb6695c01742012b2a456e33a6d" sha1="ea84ec1b4f361cf8257bb81f9565bddba1fb2ada"/>
-		<rom name="JACK/LISTTRAK.PAK" size="1654" crc="d0bb7546" md5="4bd356b77df52894cf9b20794ebb7b90" sha1="134666730b77cf6995cc4616098987163d2dbbf9"/>
-		<rom name="JACK/MASK16.PAK" size="12013" crc="9128aa45" md5="d6539bb95813f13b8f0675ea287bc0fd" sha1="431c63421dc4c6c5a43da76d492ac3389ef2d040"/>
-		<rom name="JACK/OBJETS.ITD" size="1784" crc="b726f3da" md5="738c00ade112c1281dc6e8af701a90f8" sha1="582ef41319ceaa1f9ca5333576e5dc2c81481bc1"/>
-		<rom name="JACK/PERE.PAK" size="296437" crc="52f18c89" md5="925b7d48547cccf1dbeec5a54e8c3411" sha1="88f1ae75d712629b8c70664613d57e4452c96c0e"/>
-		<rom name="JACK/PRIORITY.ITD" size="26" crc="93995958" md5="5d8469004109ce29e6c91d3a44e74724" sha1="bfc921a99b46a690f08cdd9d8db14a0210e8895d"/>
-		<rom name="JACK/VARS.ITD" size="104" crc="9fe1fe81" md5="068ff40cb6e4031aacb1efc3fd61af70" sha1="339ff56a310570772809f18032edf7adc6dc2cf5"/>
-		<rom name="JACK/WINSTALL.EXE" size="147472" crc="c07521f5" md5="54fae0ca6fc05692cbd2768b34d417cb" sha1="e1abebb552297dde64165f9198039e828a5206c4"/>
+		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 2).ogg" size="2247894" crc="5c3064dd" md5="6326479b547054d7a5d8528283bf7c55" sha1="95a4d4044ef95778f0e6db94e008411e0ef7e1b1">
+			<source frames="5989" pregap="150" duration="01:19:64" size="14086128" crc="ac8ced45" md5="4684b44013db8f60054426b535f7cf51" sha1="87c6e946e764d1824a7693365d255f6c1492715e" in_zeros="360080" out_zeros="0" trimmed_crc="5c8f1a6b" quality="8"/>
+		</rom>
+		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 3).ogg" size="2113717" crc="9ba1b9cc" md5="f1dbdf5abb5fd5849abfaa2504bc33ed" sha1="195048c495220fc48562eeb5693cecc9b567087c">
+			<source frames="5753" pregap="150" duration="01:16:53" size="13531056" crc="22715d94" md5="147f8c8e959ee0c2cfcc9a758c85a71a" sha1="d15a158e3e82ddac638b60b0786f4158e986a400" in_zeros="0" out_zeros="3" trimmed_crc="b53dd675" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 4).ogg" size="3706250" crc="c543b2d2" md5="1344062c802a44b187ee86aa53d9b569" sha1="268ddcbb96306a3be0ee8e9044dfa2db7527b109">
+			<source frames="9573" pregap="150" duration="02:07:48" size="22515696" crc="8764aa07" md5="8ef990e12c1dad23b5562e30a486f7f6" sha1="2e8ab7aadd6950f3a6c2d1e9de110219ea6304f4" in_zeros="2" out_zeros="1" trimmed_crc="c15ce455" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 5).ogg" size="3116308" crc="f499bada" md5="c5e9db7cecc6fa4a28764962bb88b605" sha1="8802a00c3a56bb5104fc792d8336eb396da45884">
+			<source frames="7806" pregap="150" duration="01:44:06" size="18359712" crc="6e56e373" md5="b46a858bf377f6f057a968e55645b44c" sha1="3dd8e04118de464e698e7ee5076a4aff45f43b27" in_zeros="2" out_zeros="0" trimmed_crc="cfe02a35" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 6).ogg" size="6616445" crc="7d581bda" md5="0cfad218d15ade76377e24657431d305" sha1="ca445ce142ebb673a8d9ddc032f9e81055e12fc4">
+			<source frames="17376" pregap="150" duration="03:51:51" size="40868352" crc="b021fe84" md5="f57f5a4fa84f3d3f088c91e1492116d9" sha1="c0921b0864126e12eda839e477599376e44ac574" in_zeros="0" out_zeros="1" trimmed_crc="fe0cd65c" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 7).ogg" size="3308147" crc="63c408a5" md5="a6fa1bf13032c8640020c43415d7a908" sha1="9b6ddc1fff8cd122e8197b811a683ee332e2834b">
+			<source frames="9185" pregap="150" duration="02:02:35" size="21603120" crc="03119c25" md5="a1d02cd4b317e4511a532c002cee98cd" sha1="020707d1f7f5446732a740ee0598b5754db6c538" in_zeros="2" out_zeros="1" trimmed_crc="720fbae4" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 8).ogg" size="883843" crc="763ee718" md5="a0eb6ce5f74de50dc5e8532a8c2a00c9" sha1="49f1ef8f391593f6aba293bb199088d5deccde5e">
+			<source frames="2518" pregap="150" duration="00:33:43" size="5922336" crc="f65ee156" md5="5f0b35d801005181431facb704f758ef" sha1="420103a6445f02f73de48a971f0cc9e7ce0ca4c4" in_zeros="0" out_zeros="1" trimmed_crc="e8ad7df3" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 9).ogg" size="3009316" crc="27043313" md5="ba19ef1a4e5edf8f29bd8a58f28d0fc3" sha1="aa8fc0a57d73736f25630fffec88630aa66d8fcf">
+			<source frames="6701" pregap="150" duration="01:29:26" size="15760752" crc="48655cea" md5="413a5aebffb97dcc20c15211f79d50a1" sha1="11b46fc93655661de1763bde68e1e88f01f289e0" in_zeros="0" out_zeros="0" trimmed_crc="48655cea" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 10).ogg" size="2874113" crc="7a41c3c1" md5="372735d62e3b7a740917a26927465064" sha1="e24a4a9d9d53f681620941b39b01836b3b9897f2">
+			<source frames="6216" pregap="150" duration="01:22:66" size="14620032" crc="215c2aa2" md5="ab9df935a4fe53e2de72008e94416dea" sha1="019c46a8d2b98ef7e2748de8178685a99fd15f97" in_zeros="0" out_zeros="1" trimmed_crc="e7b46712" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 11).ogg" size="5876285" crc="b41cc523" md5="7e09aafba84faf4c64e251104781cf05" sha1="78c4b9878ed5a884ab98da312a91ac9fe37ddb08">
+			<source frames="14992" pregap="150" duration="03:19:67" size="35261184" crc="f435b00d" md5="6bc68845f256744bc9afa82b2d0c2bf5" sha1="817aee06629a8c81534d617297d9d1687e977f15" in_zeros="0" out_zeros="1" trimmed_crc="ee6f2c30" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 12).ogg" size="689048" crc="671aa132" md5="97dafd14d9b8d43a5ff8f96ce5ae0588" sha1="5ddfd4213c89f069f354e2f7c218434696c70ede">
+			<source frames="1842" pregap="150" duration="00:24:42" size="4332384" crc="40a5ec85" md5="bdb51bb2da319b5d1171ecc1351c0d81" sha1="1afb824e06138099aa80694048cecadcf5f8fdbf" in_zeros="0" out_zeros="1" trimmed_crc="758d93cc" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 13).ogg" size="239844" crc="7db46358" md5="02f74fbc389903e065e4ded759070059" sha1="4ff1ac5ae06422191b8596d52cd3be649f133060">
+			<source frames="797" pregap="150" duration="00:10:47" size="1874544" crc="60910467" md5="bf6f78292f0d001ae1ca09915b93b034" sha1="d2e426e6932c5bda666ad70d3439c8143526dd2f" in_zeros="0" out_zeros="1" trimmed_crc="2ee0c2b9" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 14).ogg" size="179466" crc="866726dc" md5="cab3ac3af64723a9dc8eeacf5c4f51d3" sha1="54b670b7182806eead38dd6c8d732cc0bd83a892">
+			<source frames="638" pregap="150" duration="00:08:38" size="1500576" crc="5e935b28" md5="66e9a58df5d1fd1e0ba7ad33ef5772ca" sha1="6b775fb11da71b5a8067c0cf9509d18a99794b0f" in_zeros="0" out_zeros="0" trimmed_crc="5e935b28" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 15).ogg" size="4586595" crc="a92ef9d1" md5="6df596ce4032744ed04867f16e4ca312" sha1="a573a3760a0cdff94e5094ca34be0247d50deac0">
+			<source frames="12858" pregap="150" duration="02:51:33" size="30242016" crc="5665a48b" md5="4fadc418da7341394b668a37e3f428ee" sha1="0390f7bffb37e138f2b0c4678fc8ed7403ee5a76" in_zeros="0" out_zeros="1" trimmed_crc="d90ad813" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 16).ogg" size="2686910" crc="28bcecfe" md5="d7a1270f8b4ff2bbeb07bddc33aac786" sha1="e1e5869681ea12b20a02d741843ad93790530a9d">
+			<source frames="7404" pregap="150" duration="01:38:54" size="17414208" crc="f1c5e17e" md5="0455060525448efe73556b542de4ccf0" sha1="2aba4a5c823a8904de3cc90b5700c753b8b8be17" in_zeros="0" out_zeros="1" trimmed_crc="1e694cf7" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 17).ogg" size="6031554" crc="2074adf6" md5="fef4c069b6b2b2311cd5655751efda68" sha1="a42673480f8a0c7234ab88b3f8d5719e8b14a9ae">
+			<source frames="16137" pregap="150" duration="03:35:12" size="37954224" crc="e8743b90" md5="dc46405566ffbede6f6f54d0ac07a696" sha1="e760670e01a69ce7d7099b6f83a014725d82fa79" in_zeros="0" out_zeros="1" trimmed_crc="c385d361" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt).cue" size="2800" crc="a88ca1ef" md5="db04bfef09795c238a9b5750ec9756d0" sha1="55b3f36d7156844b7612598fc13837cc9346f3f1"/>
+		<rom name="INDARK/ADLIBM.COM" size="3534" crc="9523a572" md5="990132a0d6fc0404aeff05816c1dea07" sha1="04010db378f266c17f1fff0e675d8ccbd2bd8596" date="1992-08-25 12:31:50"/>
+		<rom name="INDARK/CAMERA00.PAK" size="143007" crc="57b0ccb7" md5="97c310b058ec23fa111a109d7f07dad0" sha1="4cda14c0cd536abaaa217851d24ddf51183ea596" date="1993-03-02 14:03:54"/>
+		<rom name="INDARK/CAMERA01.PAK" size="209442" crc="91aff534" md5="1994b933be38afd608dad9df75df7b63" sha1="4a6c530cb2c0ba2585177ea95e4dbd08e937009f" date="1993-03-02 14:06:10"/>
+		<rom name="INDARK/CAMERA02.PAK" size="606722" crc="69a149c0" md5="e387f8f0f7fa0b0e2966fb8615d871c6" sha1="564a41bdcd5834c9ddd08f72e1da6274254ffc89" date="1993-03-02 14:12:04"/>
+		<rom name="INDARK/CAMERA03.PAK" size="519297" crc="3d38027f" md5="230b68eede2ce3a85f8ced31adba7736" sha1="8bbc2a93b3e09a5dc8944ee7f32a7f88b92a1aef" date="1993-03-02 14:16:06"/>
+		<rom name="INDARK/CAMERA04.PAK" size="112840" crc="806ea160" md5="78ea3b253e4712dd2d476c1b7d1a267b" sha1="9e55e405f668b07567c24dd07d0b4b2e6873561a" date="1993-03-04 13:33:24"/>
+		<rom name="INDARK/CAMERA05.PAK" size="840998" crc="5eaa6506" md5="ebf009d1bba82b1d06728c2ca7dff315" sha1="1f72deb4a6cd011ecd2bca3226597fa97343d3b7" date="1993-03-02 14:23:04"/>
+		<rom name="INDARK/CAMERA06.PAK" size="390359" crc="e5e31d35" md5="7654ac8e842690cc3b72bcce038463cb" sha1="04649b60a3ecc162e976c621e4529a0bdd052c45" date="1993-03-02 14:25:46"/>
+		<rom name="INDARK/CAMERA07.PAK" size="167091" crc="50f8d03f" md5="4193f1ebaf0391043da99de8d50c82e9" sha1="a4d6204be0e01883b726a1d629f8df99df3c0831" date="1993-04-19 11:07:26"/>
+		<rom name="INDARK/CLEARDRV.EXE" size="8426" crc="9cc76e37" md5="96b87617284f455c5cc5c67e572f6d5f" sha1="3690fe106a6383046f33012ee73dd983fc1eab19" date="1990-07-18 20:32:22"/>
+		<rom name="INDARK/DEFINES.ITD" size="90" crc="40c288c5" md5="883858fac6e300da9b23e5a6db8ca1eb" sha1="c1999b2ac9675eca83001f266fd6686a73397637" date="1994-04-05 15:09:58"/>
+		<rom name="INDARK/DEUTSCH.PAK" size="28085" crc="423765f8" md5="6cb6612215a895e0e34c4f679d725de2" sha1="26a524d06e7f00e0d4d7e78e6a70582e7ba06d30" date="1994-04-05 15:14:28"/>
+		<rom name="INDARK/DRV_BZ.COM" size="761" crc="fbbc80a7" md5="21a16614c2b6d8c0eefecb3d1f36e325" sha1="c378cf8653a820f8b078befceff2e3a1e6052687" date="1992-08-28 16:42:14"/>
+		<rom name="INDARK/DRV_SB.COM" size="1571" crc="f26bbe07" md5="fe2562c29e5a2e952ac1483822bedb74" sha1="a963c411519627ff3f0741748ca75f1d505c0184" date="1992-08-28 16:42:08"/>
+		<rom name="INDARK/DRV_SBD.COM" size="932" crc="1cc6fa59" md5="8e714d7ddc2c73bb3ce71108eb99e834" sha1="f6ac092139e3caa9d89580626f15dc1b877210f7" date="1992-08-27 12:09:56"/>
+		<rom name="INDARK/DRV_SS.COM" size="913" crc="75315862" md5="cf06ec327f5c9aa20ace8c9a2f29b9a6" sha1="b22eb538b96ea7d8cd78613e03b8023d695ab828" date="1992-08-26 18:09:04"/>
+		<rom name="INDARK/ENDSEQ.PAK" size="43847" crc="b049751f" md5="5f43f1a81d0b32711ff5cd11553cb42e" sha1="3c11a9fe875b7c17736b88b003f2577e5d85c272" date="1992-09-29 09:20:38"/>
+		<rom name="INDARK/ENGLISH.PAK" size="28211" crc="c06b31a0" md5="8894ab24ca998b4e4c78637b2d3f060c" sha1="1c5a7e8d5597fb6fe41355f1cf0a2f743bdcfb68" date="1994-04-05 15:14:08"/>
+		<rom name="INDARK/ESPAGNOL.PAK" size="28247" crc="d1320835" md5="faf036325fe42f6b8419ba3b8ed3c000" sha1="39a57c2cc36f086b041343178c9abf1b913a7995" date="1994-04-05 15:14:42"/>
+		<rom name="INDARK/ETAGE00.PAK" size="2652" crc="79c4ec36" md5="f7c614c5f32082429e0e06baa474d80a" sha1="864f00524d8accd821461505eac9a6775f148b9a" date="1993-06-28 10:47:20"/>
+		<rom name="INDARK/ETAGE01.PAK" size="6478" crc="cb37d5c8" md5="12c87e705ed5f54a4e815e6dbc65d98c" sha1="e859a084730d2560804a966bc79c3e55e3964d69" date="1993-05-19 17:26:20"/>
+		<rom name="INDARK/ETAGE02.PAK" size="15858" crc="66afa6d9" md5="55469cfc30f05177501d6a597b6c9ffc" sha1="2191e4502b1bd358f21b57baefc3da82db857613" date="1992-10-22 15:54:46"/>
+		<rom name="INDARK/ETAGE03.PAK" size="15176" crc="bae83da5" md5="06a3acce8ede839b283a05ff4f6c36b8" sha1="4b84dc9c9e6db1eb03515d1027209ede3090f0c5" date="1993-02-01 21:17:50"/>
+		<rom name="INDARK/ETAGE04.PAK" size="2050" crc="aab44109" md5="19815b73eeee417f5fc0fda7d074acbd" sha1="61d5052852324378e88a6451ad3e3f9458209bcd" date="1992-10-22 15:55:38"/>
+		<rom name="INDARK/ETAGE05.PAK" size="15507" crc="1655776c" md5="b28ffe103db409e89adde246970b7e34" sha1="bf898cdea3c4e3423382eff42d6b1966915c1741" date="1993-06-08 12:47:38"/>
+		<rom name="INDARK/ETAGE06.PAK" size="6411" crc="8cc668d6" md5="7ef849b47b61718c8e6ce7119134d9ec" sha1="de4610a385b2c1414c71c839aac0d56feb366360" date="1992-10-22 15:56:40"/>
+		<rom name="INDARK/ETAGE07.PAK" size="2071" crc="858f2f5a" md5="3a1f4040a67923c8fa234b68c89eb2e9" sha1="52dc91be084f6aab300fe662b1253fc9b403282d" date="1992-10-22 15:56:54"/>
+		<rom name="INDARK/FRANCAIS.PAK" size="27928" crc="3869d036" md5="7c1687fb0abd68bea84599b056216932" sha1="c97efcb5d94604702d83b29563cee877bf665919" date="1994-04-05 15:14:22"/>
+		<rom name="INDARK/INDARK.EXE" size="155088" crc="5db6cd9b" md5="dfb8ed7a937e316815108e0c7259b6a5" sha1="40d879b7e51bfb9a4a8d39c4acc7b86d3eca713b" date="1994-02-23 19:45:46"/>
+		<rom name="INDARK/INDARK2.CFG" size="88" crc="b1cdc07e" md5="d6caf07a431f8fd59b2d05ab88d36104" sha1="cac2b612b37932fbc735515868ac350a192d04d5"/>
+		<rom name="INDARK/INSTALL.EXE" size="99571" crc="c644414c" md5="0cd0ba45529a7adcca28ae6b3f485510" sha1="f0eaf68ec04498fca47fbe0e915c63d8356d7be3" date="1994-04-01 16:16:04"/>
+		<rom name="INDARK/INSTALL.OPT" size="6719" crc="0b09e3dc" md5="9e2567905a4c34e6897a63623abe7d19" sha1="2b449dc0bffb71fc45be7496f33e7492fa22536c"/>
+		<rom name="INDARK/ITALIANO.PAK" size="28725" crc="b3090f48" md5="97f6739311308fa0be7060c5a80153f1" sha1="1f712c3eb7918a1de4070df67703f6ff10432a1b" date="1994-04-05 15:14:36"/>
+		<rom name="INDARK/ITD_RESS.PAK" size="362835" crc="48144720" md5="5880742da8863c10026f6ab6852eda79" sha1="74e9ecc5404f92c3fa916e4eae85c1b9d84af09f" date="1993-09-23 14:38:28"/>
+		<rom name="INDARK/LISTANI2.PAK" size="59810" crc="fc14b1ac" md5="c6db3e407c6ec21bc14d1112a7d44496" sha1="01c0375d2f8eeceacf962a7ac9b2c10da1b16a85" date="1994-03-09 18:14:52"/>
+		<rom name="INDARK/LISTANIM.PAK" size="59818" crc="63669b8c" md5="e7a34bd8909c16efab856ea5b42bf873" sha1="983cc373efe9147e98d32e7beb857a696668ac79" date="1994-03-09 18:13:38"/>
+		<rom name="INDARK/LISTBOD2.PAK" size="268430" crc="1b18fc8b" md5="ecc26d142bf3e03228de91a54998f303" sha1="d7d2f7c3b182e5c9b514b9962e25280d3d444eba" date="1994-04-05 15:11:04"/>
+		<rom name="INDARK/LISTBODY.PAK" size="264831" crc="8e62d6fa" md5="f4c0ed1b5c3365b3568bf3415760ce63" sha1="8c42cfaab8a0536ce2e1ee9edc0f5d4db3bd067e" date="1994-04-05 15:10:28"/>
+		<rom name="INDARK/LISTLIFE.PAK" size="74618" crc="c454aa40" md5="9144d2c4173e336f8d71d63a41354198" sha1="2a14a585d847af64a87dba167b75cbb848f8ba41" date="1994-04-05 15:13:44"/>
+		<rom name="INDARK/LISTMUS.PAK" size="12469" crc="0d83929a" md5="8d510de664e04e840cbbfa9394c6dc5b" sha1="3bebbe6f4bd29020a514d29c6632c59ad8eee52b" date="1993-05-17 14:12:02"/>
+		<rom name="INDARK/LISTSAMP.PAK" size="961234" crc="5a1bd139" md5="9ac0b6f318818503d4290750b2d752fd" sha1="a83b124e4102e3e9e3e5c1beffcf671234218aa6" date="1994-03-09 18:16:06"/>
+		<rom name="INDARK/LISTTRAK.PAK" size="3696" crc="a4847809" md5="42672ebe42d8af11a5ad05ea7d4bfcfc" sha1="600b52480148692494f1b1f790d174d3d05c6ca6" date="1994-04-05 15:13:54"/>
+		<rom name="INDARK/OBJETS.ITD" size="15186" crc="e5758859" md5="3164fb4c39fba65cb080e02c0f8e4353" sha1="555d532ed510f71781ac9b514b723af972757562" date="1994-04-05 15:09:58"/>
+		<rom name="INDARK/PRESENT.PAK" size="267190" crc="ece04fbc" md5="f818ce56b6743cca4f4f83a32d38f179" sha1="b0b985f1dc32603e78b74789c77908f96cd3874f" date="1992-11-25 15:17:48"/>
+		<rom name="INDARK/PRIORITY.ITD" size="101" crc="9bd73bf2" md5="b035089120d253e63bf3a7f0ff8421a2" sha1="24db7726e041bfc6858e155b92ebb45503c330a1" date="1994-04-05 15:09:58"/>
+		<rom name="INDARK/USA.PAK" size="28211" crc="c702c0cf" md5="6d9e3dd834d53df354920e86e03f2031" sha1="4ea60f3a0e6347247883d6c08f3fef1a1eaddbf5" date="1994-03-31 17:30:04"/>
+		<rom name="INDARK/VARS.ITD" size="414" crc="91f59b08" md5="5c5c27c8147a2e759b984bbeb4056a0c" sha1="12256a101b1b35a96f98362fa71a1b0f9d72f73e" date="1994-04-05 15:09:58"/>
+		<rom name="JACK/ADLIBM.COM" size="4122" crc="9b9aaeea" md5="ee4e242a803dc95e0722a4a61b98148b" sha1="978f7b5fb94d280ddba256f76bca94540db5e8e3" date="1993-09-02 22:35:08"/>
+		<rom name="JACK/ANIM16.PAK" size="28906" crc="5eb45012" md5="008b535991b4120dddfd1a398a01f426" sha1="7d2a98fcb8f3879e87b7d3f197e3d00949d49b96" date="1993-09-17 14:30:46"/>
+		<rom name="JACK/CAMERA16.PAK" size="250225" crc="371552b9" md5="624fc901ffc6de62061d2b723ca41de8" sha1="2cad6674770be9994a166f8865bd086c67ec7b9b" date="1993-08-27 19:08:06"/>
+		<rom name="JACK/CLEARDRV.EXE" size="8426" crc="9cc76e37" md5="96b87617284f455c5cc5c67e572f6d5f" sha1="3690fe106a6383046f33012ee73dd983fc1eab19" date="1990-07-18 20:32:22"/>
+		<rom name="JACK/DEFINES.ITD" size="30" crc="ccf86514" md5="ea342f964a9ac83e7063dcb9275fa7be" sha1="df282f75f38bcd3be0261d73b44c794cdfcedc48" date="1993-09-21 17:55:24"/>
+		<rom name="JACK/DEUTSCH.PAK" size="3457" crc="442bab2e" md5="29fc377bf34653ff5041481505e20225" sha1="eb7cac928fc1e2a0ae54088938c6240471639e6f" date="1993-09-16 16:36:58"/>
+		<rom name="JACK/DRV_BZ.COM" size="761" crc="fbbc80a7" md5="21a16614c2b6d8c0eefecb3d1f36e325" sha1="c378cf8653a820f8b078befceff2e3a1e6052687" date="1992-08-28 16:42:14"/>
+		<rom name="JACK/DRV_SB.COM" size="1571" crc="f26bbe07" md5="fe2562c29e5a2e952ac1483822bedb74" sha1="a963c411519627ff3f0741748ca75f1d505c0184" date="1992-08-28 16:42:08"/>
+		<rom name="JACK/DRV_SBD.COM" size="932" crc="1cc6fa59" md5="8e714d7ddc2c73bb3ce71108eb99e834" sha1="f6ac092139e3caa9d89580626f15dc1b877210f7" date="1992-08-27 12:09:56"/>
+		<rom name="JACK/DRV_SMP.COM" size="708" crc="8a958763" md5="e8db3e7f2ba5343243de64b62d702fb2" sha1="f7bf355b30e238b0113e9923b50bdfe1d2226dd3" date="1993-09-02 22:35:20"/>
+		<rom name="JACK/DRV_SS.COM" size="913" crc="75315862" md5="cf06ec327f5c9aa20ace8c9a2f29b9a6" sha1="b22eb538b96ea7d8cd78613e03b8023d695ab828" date="1992-08-26 18:09:04"/>
+		<rom name="JACK/DRV_VM.COM" size="1448" crc="9f13c48a" md5="3f65cee43fe2cec081a6dd1a6e742b6f" sha1="d30d01234aed8d09c2e0ca244af430f8320c2ad3" date="1993-09-02 22:35:18"/>
+		<rom name="JACK/ENGLISH.PAK" size="3245" crc="423436a6" md5="3b6417f2ddae71729d3d9551128586f0" sha1="dcf6b962e36a07dccdc568d729a380d0ab544dff" date="1993-09-16 16:36:54"/>
+		<rom name="JACK/ESPAGNOL.PAK" size="3339" crc="0085eca9" md5="ef136af52f3530bbe9cf87d3c35273b9" sha1="fb35f16a2a1c8c4b5743b9aa1838d549a153bcbd" date="1993-09-16 16:37:00"/>
+		<rom name="JACK/ETAGE16.PAK" size="2736" crc="b104f230" md5="d6f97930957fcae2ea74fee775e93180" sha1="1631690cf7ec1af09d2dba703a7c9c296f793306" date="1993-09-17 14:30:30"/>
+		<rom name="JACK/FRANCAIS.PAK" size="3373" crc="68ea2a6f" md5="f49b29be13a1cf99a1bb0231e7bf418f" sha1="06aaea6c0c098f9c546e5160e6a3b1c2c5853236" date="1993-09-16 16:36:56"/>
+		<rom name="JACK/INDARK2.CFG" size="88" crc="c4574550" md5="d8ac13b22816e9eea1e303e1c3d6d46f" sha1="eb623970dfd1fa3381ddcca8abc0a19abf4f383f"/>
+		<rom name="JACK/INDARK2.EXE" size="66552" crc="9f17f7d8" md5="c2edffbf36cb2504137b79a10aa50db9" sha1="06c9dd8a0531f433fba978103e37b1368c48d91e" date="1993-09-21 15:19:36"/>
+		<rom name="JACK/INSTALL.EXE" size="99571" crc="c644414c" md5="0cd0ba45529a7adcca28ae6b3f485510" sha1="f0eaf68ec04498fca47fbe0e915c63d8356d7be3" date="1994-04-01 16:16:04"/>
+		<rom name="JACK/INSTALL.OPT" size="6719" crc="0b09e3dc" md5="9e2567905a4c34e6897a63623abe7d19" sha1="2b449dc0bffb71fc45be7496f33e7492fa22536c"/>
+		<rom name="JACK/ITALIANO.PAK" size="3395" crc="c4822bfb" md5="bbedc67c75481fd07408adf132be71b8" sha1="ec7e5eeb0589d8079fd93cfdfaeeea58e2f7c6c0" date="1993-09-16 16:37:00"/>
+		<rom name="JACK/ITD_RESS.PAK" size="272741" crc="f5023e89" md5="65ad91559fe8e850f8d7aab51edb54df" sha1="162385a5176d15c68edfe2a543fee55903f99578" date="1993-09-02 20:31:20"/>
+		<rom name="JACK/JACK.BAT" size="42" crc="87394250" md5="67ad683234bc274b695f15b0adfbfbe5" sha1="336f73c6013c12e3dc8f7b8ece8a4758ed268052" date="1993-09-09 18:28:08"/>
+		<rom name="JACK/LISTANIM.PAK" size="62121" crc="a7d75835" md5="fa1728037bafc55728c109169553db9e" sha1="c5e03ea25eb51d4c3c1b7aa8311989acf468c0bf" date="1993-09-20 11:17:32"/>
+		<rom name="JACK/LISTBODY.PAK" size="57221" crc="dd58574c" md5="4930049b14d52ea7a15e62a6f5986554" sha1="1af26683992efbe34bbe77c66c834c47c298a0ba" date="1993-09-20 11:17:20"/>
+		<rom name="JACK/LISTHYB.PAK" size="3039" crc="35505355" md5="df4ef7e0e5a48a497e78edc2d87d70aa" sha1="3ce296eb3b91aa64692c99c74ecbee4dbb16149b" date="1993-09-21 17:55:38"/>
+		<rom name="JACK/LISTLIFE.PAK" size="9152" crc="1beefed9" md5="c0a9fa8ee4fcb3414f6fb2c290471f8d" sha1="6e70358d6d47197627b6204c2fe035967ea5dce4" date="1993-09-21 17:55:44"/>
+		<rom name="JACK/LISTMAT.PAK" size="360" crc="6736e848" md5="a1297f7cf218f20e69f43f1f4e5f5701" sha1="7d2eac3cc3e55aeebb3a3c59f80e38b209065fc0" date="1993-09-21 17:55:52"/>
+		<rom name="JACK/LISTMUS.PAK" size="2862" crc="62197d81" md5="f592a7d62c3c57eef6178ff014fa488b" sha1="b8241c1843adc10991f1c807defb044859d9373b" date="1993-09-13 12:00:54"/>
+		<rom name="JACK/LISTSAMP.PAK" size="188375" crc="95624e75" md5="8eb2fbb6695c01742012b2a456e33a6d" sha1="ea84ec1b4f361cf8257bb81f9565bddba1fb2ada" date="1993-09-13 12:00:52"/>
+		<rom name="JACK/LISTTRAK.PAK" size="1654" crc="d0bb7546" md5="4bd356b77df52894cf9b20794ebb7b90" sha1="134666730b77cf6995cc4616098987163d2dbbf9" date="1993-09-21 17:55:50"/>
+		<rom name="JACK/MASK16.PAK" size="12013" crc="9128aa45" md5="d6539bb95813f13b8f0675ea287bc0fd" sha1="431c63421dc4c6c5a43da76d492ac3389ef2d040" date="1993-09-17 14:30:40"/>
+		<rom name="JACK/OBJETS.ITD" size="1784" crc="b726f3da" md5="738c00ade112c1281dc6e8af701a90f8" sha1="582ef41319ceaa1f9ca5333576e5dc2c81481bc1" date="1993-09-21 17:55:24"/>
+		<rom name="JACK/PERE.PAK" size="296437" crc="52f18c89" md5="925b7d48547cccf1dbeec5a54e8c3411" sha1="88f1ae75d712629b8c70664613d57e4452c96c0e" date="1993-09-09 18:25:04"/>
+		<rom name="JACK/PRIORITY.ITD" size="26" crc="93995958" md5="5d8469004109ce29e6c91d3a44e74724" sha1="bfc921a99b46a690f08cdd9d8db14a0210e8895d" date="1993-09-21 17:55:24"/>
+		<rom name="JACK/VARS.ITD" size="104" crc="9fe1fe81" md5="068ff40cb6e4031aacb1efc3fd61af70" sha1="339ff56a310570772809f18032edf7adc6dc2cf5" date="1993-09-21 17:55:24"/>
 	</game>
 	<game name="Bedlam (1996) (GT Interactive).dosz">
 		<description>Bedlam</description>
