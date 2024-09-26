@@ -49,7 +49,7 @@ A DOSZ file is a ZIP file which contains one DOS game that can be loaded in a DO
 
 ## DOSC Files
 A DOSC file is also a ZIP file but it contains config files created from a setup program separate from the games installation
-as well as binary patches (in IPS/BPS/VCDIFF/[XOR](MakeXORPatch) format) that remove copy protection schemes.
+as well as binary patches (in IPS/BPS/VCDIFF/[XOR](../../../MakeXORPatch) format) that remove copy protection schemes.
 
 An existing DOSC file is always loaded as a file system overlay for a DOSZ file with a matching name.
 
@@ -126,4 +126,4 @@ This is to avoid double compression by both CHD and ZIP, which would be a detrim
 Floppy disk images should be included in the .DOSZ file in uncompressed raw disk IMG format.
 
 ## Generating DAT from ZIPs
-To generate the data file XML elements you can use the bundled [MakePureDOSDAT utility](MakePureDOSDAT).
+To generate the data file XML elements you can use the bundled [MakePureDOSDAT utility](../../../MakePureDOSDAT).
