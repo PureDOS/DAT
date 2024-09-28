@@ -7434,6 +7434,21 @@
 		<rom name="SETUP.EXE" size="45745" crc="0025fe95" md5="675564fcd380f5ef9beb0e7b21a51f79" sha1="f8644ace438896f9a788629d8da869bd34926f91" date="1996-06-10 01:00:02"/>
 		<rom name="TNT.WAD" size="18654796" crc="d4bb05c0" md5="1d39e405bf6ee3df69a8d2646c8d5c49" sha1="4a65c8b960225505187c36040b41a40b152f8f3e" date="1996-11-14 12:10:34"/>
 	</game>
+	<game name="Full Throttle (1995) (LucasArts).dosz">
+		<description>Full Throttle</description>
+		<comment>Installed from CD</comment>
+		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
+		<year>1995</year>
+		<developer>LucasArts</developer>
+		<link type="media">http://redump.org/disc/32020/</link>
+		<rom name="BOOTFULL.EXE" size="59499" crc="ba1d2488" md5="8c48fd831fcb766c7f696b98a6c9d498" sha1="3e718bb2d5686bdf5008f4f0e3d033658c6248a8"/>
+		<rom name="DOS4GW.EXE" size="244716" crc="c8e3cf7d" md5="a75fdc120ae2fbb4cb2fd9e7b6a94858" sha1="2f315369607aefc123f0b539283c28a9e7527e86"/>
+		<rom name="Full Throttle (USA, Europe).chd" size="669596544" crc="308aeeac" md5="a1bbf6f11ccb3b2e7b1999c49bee6924" sha1="6d95ca3ed511bb61ba4446523c4435e8c06b1e74">
+			<track number="1" type="MODE1_RAW" frames="273470" pregap="0" duration="60:46:20" size="643201440" crc="2384cad6" md5="285711d68b8152244b5a91d57ecc94b7" sha1="9242c0599554ac98e6094a499407182369abc90c" in_zeros="1" out_zeros="0"/>
+		</rom>
+		<rom name="README.DOC" size="6337" crc="8f755f58" md5="cdac16c64b4285a61c4dca92ea9e91a0" sha1="b62f1982268f47216b4f53d895ee36697f634055"/>
+		<rom name="THROTTLE.EXE" size="330953" crc="4082f39d" md5="b5df1919d3cbcd09744c5af7df5a9af1" sha1="3ba4fff6d09458c043010cee8831c26e546dde26"/>
+	</game>
 	<game name="Gobliins 2 (1992) (Coktel Vision).dosz">
 		<description>Gobliins 2</description>
 		<comment>Installed from CD, CD image made from BIN/CUE</comment>
