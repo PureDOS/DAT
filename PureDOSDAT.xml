@@ -10,6 +10,129 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
 	</header>
+	<game name="7th Guest, The (1993) (Virgin Interactive).dosz">
+		<description>7th Guest, The</description>
+		<comment>Installed using Redump-verified CD-ROM: 7th Guest, The (USA) (Disc 1 and 2) (Rerelease)</comment>
+		<comment_dosc>Sets CPU Max Cycles to 15000, Memory size to 65536, uses extended memory, mounts disc, auto-starts, and sound config</comment_dosc>
+		<year>1993</year>
+		<developer>Virgin Interactive</developer>
+		<link type="media">http://redump.org/disc/51040/ and http://redump.org/disc/29778/</link>
+		<rom name="CD/7th Guest, The (USA) (Disc 1) (Rerelease).chd" size="749303424" crc="a9d17505" md5="fd7528862f864719daf7f71a7644a64f" sha1="18970d1af774b5017d63ef719b8dad7c50df89fc">
+			<track number="1" type="MODE1_RAW" frames="300442" pregap="0" duration="66:45:67" size="706639584" crc="821351e1" md5="d3776283450e21c7f9cfb1ba9949c690" sha1="1016a58fc4c71cdb08ed00119a1583a09275da9a" in_zeros="1" out_zeros="0"/>
+			<track number="2" type="AUDIO" frames="5552" pregap="150" duration="01:14:02" size="13058304" crc="2abd7bdf" md5="1493799a12792d6260e250d280fab5f9" sha1="1926345b9c0f13dd496dd43dae458e28a23b25ce" in_zeros="471156" out_zeros="1987"/>
+			<track number="3" type="AUDIO" frames="526" pregap="150" duration="00:07:01" size="1237152" crc="3c59b696" md5="6706deb1c70bc3b3fe6f06a47c0622ab" sha1="e6708649810ca52d95ae610dca8171d2e816c998" in_zeros="754500" out_zeros="0"/>
+		</rom>
+		<rom name="CD/7th Guest, The (USA) (Disc 2) (Rerelease).chd" size="412595712" crc="4f466f94" md5="978b94f63b0f049dd930981c283bcdb4" sha1="3cf8e846219b1054a34c599cff91fde471699626">
+			<track number="1" type="MODE1_RAW" frames="45234" pregap="0" duration="10:03:09" size="106390368" crc="c6ffdc03" md5="26a3948310d63de85d85235b09f54a0a" sha1="aebad750f84407705dfd7d1044b719291a27eace" in_zeros="1" out_zeros="0"/>
+			<track number="2" type="AUDIO" frames="127207" pregap="3906" duration="28:16:07" size="299190864" crc="892c4b15" md5="48e45a7db6db2c647a07de047535604a" sha1="faa48c7f5bb0ccd66f582435486d25bcd95d78e7" in_zeros="9302500" out_zeros="1"/>
+		</rom>
+		<rom name="T7G/ADLIB.ADV" size="14775" crc="865e52d2" md5="ee12a7f90e99376ac3ca7526deccbd65" sha1="5223b1b79c06ca36a576d1827119d3b9122ed8db"/>
+		<rom name="T7G/ADLIB.COM" size="2848" crc="0ac5aa30" md5="93e642c0e8954f42cd3a0690b1982d69" sha1="dd82292c6a21ebd29284af9095449006d13a6be6"/>
+		<rom name="T7G/ADLIBG.ADV" size="16257" crc="aacc891f" md5="8eb9d194484a94dbc1d4014333f4d141" sha1="b89e8cc677980a4c206515653f29f748c667cce3"/>
+		<rom name="T7G/ADLIBG.COM" size="5296" crc="0c6a1219" md5="d758856aba8df85571837ae436059f2f" sha1="a4cf83ca91f8ba88107f5a07d464f2538bec043d"/>
+		<rom name="T7G/ALGDIG.ADV" size="5770" crc="a7ecbb4b" md5="6b0b2bae9437e8451b306061750b1152" sha1="5e894a3bee42dc08d50240ec395f2b5eeafb84df"/>
+		<rom name="T7G/ARIADIG.ADV" size="5931" crc="225cfac0" md5="bea2601d621be18153b2a9f737b4fe3d" sha1="10dc3b8c530e4ac60426041adedfbbc3e29aa53f"/>
+		<rom name="T7G/ARIAXMID.ADV" size="44836" crc="569aa8c4" md5="b49f682f8967a1e718c8ea293fa4d136" sha1="b51d7d137cdcb390c4c5f5889e0a654a2fa54448"/>
+		<rom name="T7G/AT.GRV" size="6725" crc="22a90682" md5="1b96fe1e03d1f8014dbfae46d691d02a" sha1="5d35f5df8d287d01bcade11cee132e5b71358d41"/>
+		<rom name="T7G/AT.RL" size="760" crc="31634d00" md5="c0b257d351b4ad3780afad8797b1119a" sha1="8a30909213376f36b225b9f5b94dd9b588d8799b"/>
+		<rom name="T7G/AUDIO.DAT" size="2837" crc="93a22d80" md5="43967bfaac2f29b7fb65637e97a29f2d" sha1="3f96117ec563b786f8170c528850d0c0bd9e7fec" date="1993-07-21 14:44:28"/>
+		<rom name="T7G/B.GRV" size="2388" crc="c12b3d63" md5="bde8013625bd18c73f3d8b82291708ec" sha1="3f6f2b89f7a21e40a7a338d02af0b112d77f8097"/>
+		<rom name="T7G/B.RL" size="2800" crc="b96a38f2" md5="44fabe6563455e70f8aa93d2078f7284" sha1="07a2121db963bfa3463e268e51c2620355de11aa"/>
+		<rom name="T7G/CH.GRV" size="7365" crc="4f03534b" md5="9c72fc4fa4d21b7423c275647eda5813" sha1="87e39f32fcf0548f6e6f8ab81483ee8f621b5348"/>
+		<rom name="T7G/CH.RL" size="1620" crc="66b088df" md5="dbd662d6b51d0c0c3c3ea74ee118e2be" sha1="76c3f2681511675d267a72a8b2c443657987c98e"/>
+		<rom name="T7G/CR.GRV" size="1654" crc="ce255881" md5="06aa5392b0b81de082bcce65ee8b2798" sha1="d169f8267ca9b30d83456e8199aa7d65c4d04112"/>
+		<rom name="T7G/CVXSND.COM" size="2320" crc="5a883888" md5="7e8b601abc41f5ec178db6ab3b33db37" sha1="1f50e8673e03986238064ece810d88f370cdd23c"/>
+		<rom name="T7G/D.GRV" size="2100" crc="4e34c965" md5="9830281686311904bf5ed3701ecea1cb" sha1="2e3b916adfc08c331220d840fa054e5a226f8262"/>
+		<rom name="T7G/D.RL" size="7100" crc="f359e9f7" md5="2c5612c09a7cd92f3b8e5d5ca460a3d8" sha1="76d37fecb1487817568b08c74f48485c74d5241a"/>
+		<rom name="T7G/DEBUG.T7G" size="890" crc="476fe122" md5="d269aed2189c7da43c4e302c47d3012f" sha1="54418c7be5794b0e866a84455c9ff08961c0fe7b"/>
+		<rom name="T7G/DEMO.GRV" size="466" crc="8ff49ac3" md5="b59ba1089a518fec63142b7233651b51" sha1="cba92d5211a30c06080766b8b8fbe152b96e52c4"/>
+		<rom name="T7G/DIGISP.COM" size="2256" crc="f0c786ef" md5="41aa741d5190873ae2ff1f4f8f64b141" sha1="f2229e2547c1fc8546f25c4fea7b2c95717d0c04"/>
+		<rom name="T7G/DR.GRV" size="5546" crc="9b67e1c2" md5="0851ad80c1b734ae90376a3eeb66aeba" sha1="4ae2739841669f5eb29f5ef3a34ce1acca84f36e"/>
+		<rom name="T7G/DR.RL" size="2140" crc="5a11e17d" md5="7201c6f2984ab0773afa0e5e42ae9fe5" sha1="b775b614eb4731e0bf0f3207e13c9c5eb44477d1"/>
+		<rom name="T7G/ECHOII.COM" size="2480" crc="3ee61f24" md5="67737008a17fdc22495862d7c415d8a2" sha1="8ee0d5cf63de4e9ac4abe6b8fcbad9a903666451"/>
+		<rom name="T7G/EK.GRV" size="3169" crc="1438337b" md5="14c05d8ed81ea6a8516decd828ec1bee" sha1="91e73d9a0861b30458daa0d96338c9179e42300f"/>
+		<rom name="T7G/F.GRV" size="1349" crc="f89e22a1" md5="83bc5d0956a87b20ba802fd445c0341d" sha1="265d7343fd1c3239b03316095b1150f2298b017c"/>
+		<rom name="T7G/FAT.AD" size="3622" crc="e4659619" md5="9504bb5cb3292d29fc67186c01bcfdb4" sha1="a00a63b4985968c61e3e6c00ecbf52fd49d20344"/>
+		<rom name="T7G/FAT.MT" size="48770" crc="36702796" md5="c77379bd231d9ed7011162ac4e3e5816" sha1="d9d7c3b7ee4c1417a22721f01d35d60325256ea9"/>
+		<rom name="T7G/FAT.OPL" size="3622" crc="e4659619" md5="9504bb5cb3292d29fc67186c01bcfdb4" sha1="a00a63b4985968c61e3e6c00ecbf52fd49d20344"/>
+		<rom name="T7G/FH.RL" size="3960" crc="56d0bb02" md5="9c92b4f455eb62c905b6337a30a2dcf1" sha1="32ab71075e7dcacea070f98c722a7c278001a1c8"/>
+		<rom name="T7G/FILES.AL" size="1426" crc="7e2b701e" md5="06cef3b7d2f2e28f522f0ef4395b817a" sha1="aba788f3207b9000aca88673dcd6d89ae04696f1" date="1993-07-27 15:12:30"/>
+		<rom name="T7G/GA.GRV" size="2442" crc="465dc0f6" md5="c796d39a6897fb73ed10261897a78fab" sha1="f2c7f0385953653dcbbcfe8389098b6f2a7bb4f6"/>
+		<rom name="T7G/GA.RL" size="2860" crc="41a3676f" md5="f40bcfb8509a1ef3f47101aba3b65bf3" sha1="d07aa45d50b99a7a0e80167c292905457768cc6c"/>
+		<rom name="T7G/GAMWAV.RL" size="3700" crc="4fcc917a" md5="1627d8dd0edd4e4e2557ba32f89de958" sha1="27ca00561497b438692845d8d359623f780c9093"/>
+		<rom name="T7G/GF166.COM" size="5392" crc="448bd9d1" md5="d7e63b55bdcbffbb68bcbfc95e24c5a8" sha1="7fe69d464a188217c5da9ef52055606dfa13d4ac"/>
+		<rom name="T7G/GF1MIDI.ADV" size="10816" crc="c56a3452" md5="cb92161e2506d17b962eb9aa38a8d30e" sha1="cb13965bda168ba800f74abc0d3f3232b537494a"/>
+		<rom name="T7G/GM1.BNK" size="23907" crc="6cfff3f4" md5="3e504e9356643dcab5675417da2134d6" sha1="7661125d585b7e4dead1e8bbfcb707f4317d9283"/>
+		<rom name="T7G/GM2.BNK" size="24273" crc="8a5f778f" md5="ad44f792b94e736274eab433b10881bf" sha1="e03c1667745bb8c78209ff756880b15b3371aa79"/>
+		<rom name="T7G/GRATE.GRV" size="1086" crc="1e4f397a" md5="c049041f30c6f8be6f691803879d006c" sha1="08d8016809362f9d09c2ebf9eddbc953327ff7ba"/>
+		<rom name="T7G/H.GRV" size="3140" crc="fd0faee4" md5="a499f1c9ecc6ff2adaaabd58e0a83ea7" sha1="3a265aa4250a4e1f445235117cbcfed3e38f436b"/>
+		<rom name="T7G/HDISK.GJD" size="4098309" crc="c9f7ddbd" md5="7a208817c5ae9e20073c50a89b183cbc" sha1="e773e5233ef45b720a5ed45e15f0db88b956a4b5"/>
+		<rom name="T7G/HDISK.RL" size="160" crc="c0287578" md5="988ee8007e52cc34dd33d53ac730c1e9" sha1="c01f2dde426bada66bde2a748e58d21c29d2e676"/>
+		<rom name="T7G/HM.GRV" size="5153" crc="6308cfcb" md5="c752574c383a481a0031c51114a428fc" sha1="056d40acbe6a646712851ade5456f273ad33005e"/>
+		<rom name="T7G/HTBD.RL" size="3960" crc="953c6932" md5="ad3d9afb7264dd2361d12d3742121441" sha1="f5d7be335a9eb7b64325417517a415790d01f3a0"/>
+		<rom name="T7G/INSTALL.EXE" size="43704" crc="4033d8ee" md5="d56a2cffddea5080a9cc7b21db7fc383" sha1="acb2e01664c18e643c324887722509e67b873cba"/>
+		<rom name="T7G/INTRO.RL" size="1960" crc="f5aaabaf" md5="1827f9447c403d1e76aa1efa72cbb51f" sha1="eeb94e3c0aea9e51f1be6ff9662ed6de41152e02"/>
+		<rom name="T7G/JH.GRV" size="3224" crc="6a6e4586" md5="2fe64b1354f5410e08ad42f01840255b" sha1="e2733c2495575e28d500a66bfd0e82860885d19c"/>
+		<rom name="T7G/JHEK.RL" size="4760" crc="bdde9fc4" md5="8689b6fc964aae8032ef1ecfacb6c47a" sha1="603f1d9a36faaaba678c26bbec1abe4e89686e50"/>
+		<rom name="T7G/K.GRV" size="1873" crc="059caa8a" md5="4198d8c2b6e2ae2f9deb85525ba2d0c9" sha1="51502258567a0b39f8ec82e5a2f63cef15ce71c8"/>
+		<rom name="T7G/K.RL" size="16360" crc="cca0d3bd" md5="b4a667ff27742bc3038353c789ef1dd1" sha1="6ea442d14bd4fd18540928dcb6f2ee8f225df6a1"/>
+		<rom name="T7G/LA.GRV" size="5939" crc="001b7022" md5="a81d3015daa89edb408a288cf3753953" sha1="bf02dc0465805f664e5ae4a9188c2ee560e68a83"/>
+		<rom name="T7G/LA.RL" size="2500" crc="e343e8e5" md5="1de5da049c7219487dd38d3a12ea1c1a" sha1="2d41b69943375a2662b4f865055670733986fc9a"/>
+		<rom name="T7G/LI.GRV" size="2168" crc="40e3e777" md5="f10f7ed3f27ecdae73329eb01c471783" sha1="138f41f441be48a35973300d411c305d943d0e2b"/>
+		<rom name="T7G/LI.RL" size="2000" crc="b1041558" md5="ae7a4484d859b505237b0184df2739d3" sha1="a45f4a66e67d0c782c15af3bb609d33f0196df9f"/>
+		<rom name="T7G/LSIZE.COM" size="3120" crc="755b57bf" md5="19f8bee6596c634b61482a9ae80522ba" sha1="60bac0b3e8e560df574668115b6f27e829746c24"/>
+		<rom name="T7G/MAZE.GRV" size="3652" crc="6fe677da" md5="d080b4f498370f97e7419c42058034f7" sha1="4b5fe8a089f76aef2575d68203700fc601ae4b6e"/>
+		<rom name="T7G/MB.GRV" size="3981" crc="38defc3f" md5="3aac0bfa248d63a5e51eeeff3dde3c77" sha1="62da281d6ccdf15f801d5d230b4777122003d26d"/>
+		<rom name="T7G/MB.RL" size="1280" crc="a31bbdee" md5="5d5073876862873906c47492b0f8e862" sha1="fb77006766e88fee82beef98e034b370ce89a470"/>
+		<rom name="T7G/MC.RL" size="2240" crc="b2210d4b" md5="963e41e1d589bd4eeb0412ca6bea25f5" sha1="dd207b3e815c1ce1f79f5ec1ee8c7ae011a04f70"/>
+		<rom name="T7G/MMSYNTH.ADV" size="7070" crc="3c0b4b96" md5="3579d3b8ffdbfcacf677805b6424ba74" sha1="5b16ddbe62e605c65c8f23bdb556ff6c42bb5b4f"/>
+		<rom name="T7G/MT1.BNK" size="23451" crc="72a45ac7" md5="355637ac5c49a5c37aff07caa94a361f" sha1="b0f25c730afde00ac0aa191fe6089c8cc2f874f5"/>
+		<rom name="T7G/MT2.BNK" size="23679" crc="9f2aafd7" md5="66072ee46ee6d8ea2e15d7d352c56581" sha1="a9da31a95e7b7be728f23f35d276f35b230f812d"/>
+		<rom name="T7G/MT32MPU.ADV" size="10707" crc="cfd00e6c" md5="0efb9fdfd0827889a34c757fe1df1dd3" sha1="cea64dbdc3c655f5677f892d7e5b33173903d4f4"/>
+		<rom name="T7G/MU.GRV" size="1354" crc="c8eb020a" md5="080a83407ac10111a52bc80e3a042dd8" sha1="cc26721e970d434ae91c188d6a39aa4683e49a80"/>
+		<rom name="T7G/MU.RL" size="860" crc="e5d0d10b" md5="5cb6382958eb3a0c3e2c55ad81ce4500" sha1="0ec238176c35f003ad00556bc8752cd79322aeb3"/>
+		<rom name="T7G/MULTISND.ADV" size="7042" crc="602d954e" md5="8f6f5acb4be82c9fee3f7dc12b528a65" sha1="ce5c75f218dc69c119e0b6de6e75790c483084b2"/>
+		<rom name="T7G/MULTISND.COM" size="13536" crc="e78d87e9" md5="7b4480b48eb19f98cc3846406f551e03" sha1="06c094286324b8d56330490adecfe56d9d05bcc5"/>
+		<rom name="T7G/N.GRV" size="842" crc="59cec2a6" md5="d1cedd3a901003f201a69197e6d9997f" sha1="f1f534270483e0f53fbecd379f2a2a801a60912e"/>
+		<rom name="T7G/N.RL" size="10920" crc="9084d454" md5="708e3d93aebd92175beb6d94e1693e32" sha1="aa17a574e18670fa86b1d91ce026c17caedb23c3"/>
+		<rom name="T7G/P.GRV" size="1125" crc="73444306" md5="1969728168c9145d22b1a58d337a8f58" sha1="7b4e44835101c53a323dd4760bd5c3a6b9819765"/>
+		<rom name="T7G/P.RL" size="880" crc="a697234f" md5="231208e544adbe891f8ec9bcb5fef901" sha1="8741a7627baeaf2e8202dcadbb5d54c99607ae82"/>
+		<rom name="T7G/PAS16.COM" size="5024" crc="5596559a" md5="3eef09cfd92ade3ee570b35e8f27e8c5" sha1="d67d08a12ea1dad8f530da100a0250c6983b35f5"/>
+		<rom name="T7G/PASDIG.ADV" size="4612" crc="434930eb" md5="9153ff9214052428eeb136acfe5a649c" sha1="5f8bb3e23ec4f7340f2160318a5ff55af172c8cd"/>
+		<rom name="T7G/PASFM.ADV" size="15242" crc="d73676bd" md5="62ed2af8cfc840103a65735093b614a6" sha1="a3be993fcc168ce0f07cf027daebaef11c3bcba1"/>
+		<rom name="T7G/PASOPL.ADV" size="16333" crc="527b4aef" md5="ce1373cfecf25fa46746edf657166310" sha1="4214b7dffacc5d61337ab00c9f08e42d727f484e"/>
+		<rom name="T7G/PAUDIO.COM" size="3936" crc="0ab7f623" md5="7335a1cb339730568c8677607a905352" sha1="ffb408fd91d5314f249aef8aa5fae3eeb9ab0c26"/>
+		<rom name="T7G/README.TXT" size="2934" crc="ae032c9d" md5="30c9eb303ebbd4dade69f5303ba16153" sha1="336ad27563b608bcae9c97504fe6266abbfc76c4"/>
+		<rom name="T7G/ROB.GJD" size="47668" crc="0c3bd017" md5="0de4f4056e2efb81226ef043624067e6" sha1="6dab11313a313e3a48fdc573f00046200039a2ad"/>
+		<rom name="T7G/SAVE.Z" size="1315" crc="24c08890" md5="d6031a7012b9a0f7f7a7a44438a54340" sha1="e531faf296663f65d7c8a0f4661c0e7e5d53920c"/>
+		<rom name="T7G/SBDIG.ADV" size="4623" crc="bb2e4494" md5="9fb1d7908cc5161676ebe07cdeb1aca9" sha1="66d3a0b38017f74eb99d60d7f4be626808a428fe"/>
+		<rom name="T7G/SBFM.ADV" size="14825" crc="aa4f129e" md5="0ad686a94882b7bde4b67bfa99ea12d6" sha1="7bc12471fb8f15470bba97bddad4ff5859c36d2d"/>
+		<rom name="T7G/SBLASTER.COM" size="3344" crc="c09da7d8" md5="0c2d84477a4bcb288eef3aeac34775c7" sha1="ff41c4361ed3f9bf5f4ca1f79d0fda67e46a0e57"/>
+		<rom name="T7G/SBP1FM.ADV" size="15235" crc="8abc7aa2" md5="a310dafb89c600323de65a41eee47117" sha1="f2b4485d23da6b773fccd9cb92d8e8998f85bce2"/>
+		<rom name="T7G/SBP2FM.ADV" size="16357" crc="87e2ad7b" md5="b079454d7500f46b60733dd0b264d01e" sha1="6d3e5d5dc59e398855ddec7fa90ecc8b53ad038e"/>
+		<rom name="T7G/SBPDIG.ADV" size="4902" crc="f0f519f3" md5="8117fe7e0799a4c5055008676efeaa94" sha1="04fa718228b5a3e60a8fae6ecfd159f043ae33a0"/>
+		<rom name="T7G/SBPRO.COM" size="4400" crc="823e0a46" md5="5c39e56ee57b96dffbc2a3b5e302566a" sha1="c0248381960ea50c7e8aade3a8043b4f8e2206ca"/>
+		<rom name="T7G/SCRIPT.GRV" size="16659" crc="1f8d3f99" md5="846878336210a9d3b11995ea9cef35ca" sha1="d8858a1720a5a07b92067c4c62f46bd74195738e"/>
+		<rom name="T7G/SENSAT.ADV" size="15991" crc="1c3f3b50" md5="0f2a8f3531219d33d094e92b00d41a0e" sha1="4d360564b8d05866165e4dc03257c7f372a1347c"/>
+		<rom name="T7G/SMSND.COM" size="2304" crc="4226f529" md5="db74a5aa1fa74991f6b27bd42501204c" sha1="42219a0b0d4916b2cf0f66145d373b89047daf01"/>
+		<rom name="T7G/SNDSYS.COM" size="5955" crc="aa97a13a" md5="68bac972d533ee6a3a5bd0387ae55bbd" sha1="0622ee2abff99dbd8187bdb3c812e2aaee88cd93"/>
+		<rom name="T7G/SOUNDRV.COM" size="4240" crc="e5c47c48" md5="d41002105fe6bf19db81b9275e7d553f" sha1="6a48203799d34fde683ddb15d312b080f84d3702"/>
+		<rom name="T7G/SOURCE.COM" size="2368" crc="8e216b5c" md5="f182f4af68863a53273657feacebec69" sha1="1449909833ea906ce4ddf721ad9d36b34ce74f4c"/>
+		<rom name="T7G/SPHINX.FNT" size="11112" crc="bdbf5244" md5="64d3d919b5d615e98b70991cdc925195" sha1="81f9c8c570e17f77411a857565a5ca9522907a8d"/>
+		<rom name="T7G/STFX.COM" size="4272" crc="cf8c0329" md5="4bb5ba1d442bc23d18169f94d88af300" sha1="5245d45150c654545dbd9d3c6850f29ada344dbc"/>
+		<rom name="T7G/T7G.BAT" size="6" crc="04ceaa1a" md5="8a7074a8978640a8a485576931fd25f9" sha1="864d1d2f1bdbd556badb9769a522f9913c487257"/>
+		<rom name="T7G/T7G130.TXT" size="741" crc="f80a747c" md5="f6bf23415d7cd4c8d5e168ffb1c93311" sha1="623b42cae32585592125f616d461e71a3713d70a" date="1993-08-11 14:53:58"/>
+		<rom name="T7G/T7GDEMO.BAT" size="8" crc="36de6fb2" md5="f164ef27b9c3583d59616921139acc36" sha1="cfdf0de61a29a4dec585a4a057ebc79c28df2cc1"/>
+		<rom name="T7G/TANDY.ADV" size="8556" crc="444c8d0e" md5="5fec7321c9aab32d74a80b3fc2d27093" sha1="75e7761812bc097e184b98a4f195e6b22c2051e5"/>
+		<rom name="T7G/TANDY.DRV" size="2160" crc="e940ca99" md5="3fa3b691f5e727fb644d31b8bbe5188c" sha1="0235eb1ab63dda3b6b754c3ab15ab78fd76e7963"/>
+		<rom name="T7G/ULTRAMID.EXE" size="31812" crc="e1fe9605" md5="d051082e529527804a368532f01ab4f5" sha1="bf8b5354cd8e3357093fc0367e0c64723513c3e4"/>
+		<rom name="T7G/ULTRAMID.INI" size="6234" crc="cb283b53" md5="36942a27e6b8c2c6d09582251b391da5" sha1="3f71801bf3f7b16c40e7de53004056e0fbb7b671"/>
+		<rom name="T7G/V.EXE" size="23425" crc="6fd2868b" md5="83cd4fd862ca434f283bf51e10357351" sha1="cd4df44658a1819dd0db6b3e110aa1fe4cf4270f"/>
+		<rom name="T7G/VMSND.COM" size="2304" crc="b371143b" md5="bd4a9ef4b94e589636d58d36e2a0020e" sha1="ed5fd4bad7d7e37368478930660f5070de0320ff"/>
+		<rom name="T7G/WSS.ADV" size="15991" crc="1c3f3b50" md5="0f2a8f3531219d33d094e92b00d41a0e" sha1="4d360564b8d05866165e4dc03257c7f372a1347c"/>
+		<rom name="T7G/XMI.GJD" size="257251" crc="7bbd39a4" md5="566058e3fad1624c306c54f081cbb8fa" sha1="6ed73b7256a57d5387f28daf72b34b5a9fe5d1a2"/>
+		<rom name="T7G/XMI.RL" size="1420" crc="d62ea80f" md5="bcec2a30ece33bae04402b486b8f96b8" sha1="7c3485c0853360e0ac34534678a76b6ca64d063b"/>
+	</game>
 	<game name="Abuse (1995) (Crack Dot Com).dosz">
 		<description>Abuse</description>
 		<comment>Installed Abuse v2.0f</comment>
