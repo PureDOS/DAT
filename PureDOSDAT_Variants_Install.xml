@@ -62,6 +62,18 @@
 			<track number="1" type="MODE1_RAW" frames="263040" pregap="0" duration="58:27:15" size="618670080" crc="25379a53" md5="2a0de5f9474b892a5609c53079b6a851" sha1="5a7c2e463c6b856de0c2e634f1d742c70ad69140"/>
 		</rom>
 	</game>
+	<game name="Castles II - Siege and Conquest (1992) (Quicksilver Software) (Installation).dosz">
+		<description>Castles II - Siege and Conquest</description>
+		<comment>Redump-verified CD-ROM: Interplay All-Nighter - Anthology No. 2 (USA) (Disc 3)</comment>
+		<year>1992</year>
+		<developer>Quicksilver Software</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/81019/</link>
+		<rom name="Interplay All-Nighter - Anthology No. 2 (USA) (Disc 3).chd" size="792956160" crc="bba052cb" md5="33b37cbf107daa92d478c62928065344" sha1="da39f5574cbcf1eb332343210890c4c9a920c693">
+			<track number="1" type="MODE1_RAW" frames="313249" pregap="0" duration="69:36:49" size="736761648" crc="d7f570cd" md5="2499180b15f13fbffaa1e985085d136a" sha1="73d8bf11784c33e7f93a4165162e3dee0ab6a24b"/>
+			<track number="2" type="AUDIO" frames="11121" pregap="149" duration="02:28:21" size="26156592" crc="f0bf26c9" md5="0dd2dcd6454dac63a751b2da72e5403e" sha1="493fe89e44af45a4b2319b4b07af4a98199f14c1" in_zeros="358384" out_zeros="886498" trimmed_crc="2ca40db9"/>
+		</rom>
+	</game>
 	<game name="Castlevania (1990) (Konami) (Installation).dosz">
 		<description>Castlevania</description>
 		<year>1990</year>
