@@ -178,6 +178,17 @@
 		<rom name="DOOM2.WAD" size="14604584" crc="ec8725db" md5="25e1459ca71d321525f84628f45ca8cd" sha1="7ec7652fcfce8ddc6e801839291f0e28ef1d5ae7"/>
 		<rom name="SETUP.EXE" size="45745" crc="0025fe95" md5="675564fcd380f5ef9beb0e7b21a51f79" sha1="f8644ace438896f9a788629d8da869bd34926f91"/>
 	</game>
+	<game name="Doom Series Mod Base.dosz">
+		<description>Doom Series Mod Base</description>
+		<comment>Used as a base for individual source ports. Minimal files from Ultimate Doom, Doom II, and Final Doom. Needs DOS.YML with mem_size: 65536</comment>
+		<rom name="DOOM.WAD" size="12408292" crc="bf0eaac0" md5="c4fe9fd920207691a9f493668e0a2083" sha1="9b07b02ab3c275a6a7570c3f73cc20d63a0e3833"/>
+		<rom name="DOOM2.WAD" size="14604584" crc="ec8725db" md5="25e1459ca71d321525f84628f45ca8cd" sha1="7ec7652fcfce8ddc6e801839291f0e28ef1d5ae7"/>
+		<rom name="DOS.YML" size="17" crc="9e2ade80" md5="5e4e9514ccbed110c66ed799f2b0c449" sha1="7ff552bf9a73a8ba6fe5089d140c63e3d6be659c"/>
+		<rom name="IPXSETUP.EXE" size="18051" crc="339c813a" md5="34d66cd0ef46d0a0a14f4cf255d4b725" sha1="e4d9fc21173ed58b8b4f16f0b485d0cb3ae5a278"/>
+		<rom name="PLUTONIA.WAD" size="18240172" crc="15cd1448" md5="3493be7e1e2588bc9c8b31eab2587a04" sha1="f131cbe1946d7fddb3caec4aa258c83399c21e60"/>
+		<rom name="SETUP.EXE" size="45745" crc="0025fe95" md5="675564fcd380f5ef9beb0e7b21a51f79" sha1="f8644ace438896f9a788629d8da869bd34926f91"/>
+		<rom name="TNT.WAD" size="18654796" crc="d4bb05c0" md5="1d39e405bf6ee3df69a8d2646c8d5c49" sha1="4a65c8b960225505187c36040b41a40b152f8f3e"/>
+	</game>
 	<game name="Marine's Best Friend (1998) (Lee Killough).dosz">
 		<description>Marine's Best Friend</description>
 		<comment>v2.03. Extracted EXAMPLES.ZIP</comment>
