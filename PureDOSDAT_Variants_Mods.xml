@@ -10,6 +10,37 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
 	</header>
+	<game name="Army of Darkness Doom (1996) (Various).dosz">
+		<description>Army of Darkness Doom</description>
+		<comment>Doom II version. EXE created with DeHackEd and Doom32 (renamed to DOOM2.EXE). WAD created with DeuSF (deusf -app aoddoom2.wad)</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>1996</year>
+		<developer>Various</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<link type="freeware">https://www.doomworld.com/idgames/themes/aod/aoddoom2</link>
+		<rom name="aod-faq.txt" size="61719" crc="82b7062d" md5="bebae9e9f53029e04b6b6f39a298fc4c" sha1="4029033d4ee684eb6e01e2e866697c65a046e0b1" date="2003-11-26 14:36:50"/>
+		<rom name="aoddoom2.deh" size="10484" crc="c9176fc1" md5="1e6a7130fb093d6e3b4f09e24fc29a40" sha1="9a7d8001cc5d474fe43dbe118e073e5c020b0787" date="1995-08-02 09:38:54"/>
+		<rom name="AODDOOM2.EXE" size="709905" crc="ebdaaead" md5="d1f4997805412875021d04f33228b159" sha1="1a556ed1addad45d192b78fc0d6d6987f7581017"/>
+		<rom name="aoddoom2.txt" size="2915" crc="080426d0" md5="5187b0e718fca0e32d0c8f483cd018ac" sha1="bbaf33f0c4a166e84ff9f75a7eedd861b603e80f" date="2003-11-29 23:58:50"/>
+		<rom name="AODDOOM2.WAD" size="9521036" crc="4dfc700f" md5="7665b479c05441be2c9018c928677da0" sha1="d39188e82aff136e7ee4b0b17a80a852d42d6075"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Back to Saturn X - Episode 1 - Get out of My Stations (2012) (Esselfortium et al).dosz">
+		<description>Back to Saturn X - Episode 1 - Get out of My Stations</description>
+		<comment>EXE created with DeHackEd and Doom32 (renamed to DOOM2.EXE). Also includes helper WAD for Tartar</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>2012</year>
+		<developer>Esselfortium et al</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/btsx_e1</link>
+		<rom name="btsx_e1.deh" size="4985" crc="886b0b4e" md5="d0be88dfb7c8820807dfe1e162a92764" sha1="12eda8aa7b0f9b09cf32b50cd3a05b0fe32e9972" date="2017-02-28 22:47:18"/>
+		<rom name="BTSX_E1.EXE" size="709905" crc="ec5f31c1" md5="8e93693f1be10df7a2b518cf1b56d34a" sha1="d1788c95cfcc8b634b8ba29dd2ce78745366bfc0"/>
+		<rom name="btsx_e1.txt" size="15746" crc="9f99bf0b" md5="8347202f5543af31a0b0d94ce3869180" sha1="e74f850524fc6f6bd46df2dffabb3c87aea2addf" date="2020-08-13 11:00:00"/>
+		<rom name="btsx_e1a.wad" size="22307013" crc="bc5709e2" md5="96530f7e149ab838b3a80c29570cd275" sha1="9c19bdf92d7a44249c88e0baf8cc6ec8b9b9e5d3" date="2020-08-13 11:15:08"/>
+		<rom name="btsx_e1b.wad" size="29449016" crc="65c1b3fa" md5="667a7b6160ab0f64d853a5142a9a31de" sha1="6535aa24ad7b68b7e598dceabf25043b88f6dc12" date="2020-06-22 23:43:58"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="TARTAR/SHIMS/btsx_e1a.wad" size="61" crc="64badc7c" md5="274301dc260895382c551ea01b8cd382" sha1="31f9e732f275f95adfa13b83f88d3f8a4e83c79c" date="2023-11-27 10:30:30"/>
+	</game>
 	<game name="Boom (1998) (TeamTNT).dosz">
 		<description>Boom</description>
 		<comment>v2.02</comment>
@@ -187,6 +218,20 @@
 		<rom name="PLUTONIA.WAD" size="18240172" crc="15cd1448" md5="3493be7e1e2588bc9c8b31eab2587a04" sha1="f131cbe1946d7fddb3caec4aa258c83399c21e60"/>
 		<rom name="TNT.WAD" size="18654796" crc="d4bb05c0" md5="1d39e405bf6ee3df69a8d2646c8d5c49" sha1="4a65c8b960225505187c36040b41a40b152f8f3e"/>
 	</game>
+	<game name="Doom the Way id Did (2011) (Various).dosz">
+		<description>Doom the Way id Did</description>
+		<comment>EXE created with DeHackEd and UDoom32 (renamed to DOOM.EXE)</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>2011</year>
+		<developer>Various</developer>
+		<parent>Ultimate Doom Mod Base.dosz</parent>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom/megawads/dtwid</link>
+		<rom name="DTWID.deh" size="2047" crc="3786ba31" md5="28266c6405a5f7c026a52143a686da2d" sha1="2cec9b60b23a615ae24bd92303e2aa321c8be12a" date="2011-12-11 18:11:32"/>
+		<rom name="DTWID.EXE" size="715493" crc="41bf86c1" md5="85b70c9ec8631a15296b5a301014fdb6" sha1="85b2a42043f78d843875c60a33fc53d5abda4a90"/>
+		<rom name="DTWID.txt" size="8448" crc="3535419b" md5="3ec926cdc1ed38d59359c4c55bb475d8" sha1="afff310f13d50b7539dfef4002414767608d88ae" date="2012-02-05 15:20:28"/>
+		<rom name="DTWID.wad" size="5073423" crc="5d99d356" md5="73f2c37d5b42a3eada2127dbdd23907b" sha1="ae8fa5c60b74baac9c8fdc125c995589c3d0338b" date="2012-02-07 13:54:56"/>
+		<rom name="Ultimate Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
 	<game name="Marine's Best Friend (1998) (Lee Killough).dosz">
 		<description>Marine's Best Friend</description>
 		<comment>v2.03. Extracted EXAMPLES.ZIP</comment>
@@ -303,6 +348,22 @@
 		<rom name="nr4tl.txt" size="924" crc="6224824d" md5="fb335a397c15b83c540b0dd5958280eb" sha1="c5e10c79c974acfac58adb1947fbab14a74c5d77" date="2016-02-24 15:00:34"/>
 		<rom name="TARTAR/SHIMS/NERVE.WAD" size="292751" crc="145aa2e7" md5="c6ca724e5a108c4f3974ac74ae3f9208" sha1="05f4d0263b064f120f1976be3451a839c425f778" date="2022-06-14 15:23:10"/>
 	</game>
+	<game name="Plutonia 2 (2008) (Plutonia 2 Team).dosz">
+		<description>Plutonia 2</description>
+		<comment>EXE created with DeHackEd (2020 version), FDoom32 (renamed to DOOM2.EXE), and PLUTONIA.WAD (renamed to DOOM2.WAD)</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>2008</year>
+		<developer>Plutonia 2 Team</developer>
+		<parent>Plutonia Experiment Mod Base.dosz</parent>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/pl2</link>
+		<rom name="PL2.DEH" size="7359" crc="f51290d9" md5="e1992d75c1ddcd492dd0d50835ffbcb4" sha1="aa4b313dcb1bee7f2d96d2d4fab715ae443c05ed" date="2008-12-31 16:12:26"/>
+		<rom name="PL2.EXE" size="722629" crc="57c120b7" md5="3f4a8e8e419817bb462a63298ebdec56" sha1="05ff1b8632b992af9ef9fe57264a4164957509d6"/>
+		<rom name="PL2.ICO" size="22486" crc="e2bfe5d7" md5="83fde3d43a5ef1cca6992fcb1279072c" sha1="db6aa40b254c2c38c4d2d43a0df1b55d7a4d2c16" date="2008-12-30 02:52:38"/>
+		<rom name="PL2.TXT" size="3915" crc="6ee2c3b7" md5="b3029492beb1dced390651c017851685" sha1="d20259a8b1fde7eb2d6dfb6ce7fe1078a653f71f" date="2008-12-31 13:56:18"/>
+		<rom name="PL2.WAD" size="18131932" crc="9030f6aa" md5="ba0566478ac42bd2c3845fa97098bf70" sha1="4ef41ba4b3c0d39d79fc592b2b258765bca36657" date="2008-12-31 19:50:38"/>
+		<rom name="PL2INFO.TXT" size="66591" crc="51ff9130" md5="cb81c64e8038ed10ecbf941a409d3adb" sha1="bed315d7fc819b30920e5927f8b4613391216957" date="2008-12-31 17:43:22"/>
+		<rom name="Plutonia Experiment Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
 	<game name="Plutonia Experiment Mod Base.dosz">
 		<description>Plutonia Experiment Mod Base</description>
 		<comment>Minimal files from Final Doom (id Anthology fixed version)</comment>
@@ -352,6 +413,20 @@
 		<rom name="DOOM2.EXE" size="722629" crc="503d9154" md5="ccd2769f32b38d74d361085e905d8f9c" sha1="91ee0d260785fdc778a1e7c10812275e5c758776"/>
 		<rom name="SETUP.EXE" size="45745" crc="0025fe95" md5="675564fcd380f5ef9beb0e7b21a51f79" sha1="f8644ace438896f9a788629d8da869bd34926f91"/>
 		<rom name="TNT.WAD" size="18654796" crc="d4bb05c0" md5="1d39e405bf6ee3df69a8d2646c8d5c49" sha1="4a65c8b960225505187c36040b41a40b152f8f3e"/>
+	</game>
+	<game name="TNT - Revilution (2017) (Various).dosz">
+		<description>TNT - Revilution</description>
+		<comment>EXE created with DeHackEd (2020 version), FDoom32 (renamed to DOOM2.EXE), and TNT.WAD (renamed to DOOM2.WAD). WAD created with DeuSF (deusf -app tntr.wad)</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>2017</year>
+		<developer>Various</developer>
+		<parent>TNT - Evilution Mod Base.dosz</parent>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/tntr</link>
+		<rom name="TNT - Evilution Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="TNTR.deh" size="10372" crc="89d708ed" md5="4bfa7ee31d760b7562c334f7f9f2eee9" sha1="20a251ccdb3be8bc91ce718b7930eb3953eefe12" date="2017-06-28 15:23:30"/>
+		<rom name="TNTR.EXE" size="722629" crc="623f1f1d" md5="4bc7b5a4b694d0b681c63356ebd13e8f" sha1="ad651b2fc8209d3b72e3409aabcc980fca0e5c1b"/>
+		<rom name="TNTR.txt" size="10182" crc="c09743b1" md5="56e65411faa50ad2df4f1618bec92db5" sha1="e1733dcf5a2e2aca467ea0946ff4220435cc569a" date="2017-07-08 08:17:46"/>
+		<rom name="TNTR.WAD" size="33154280" crc="8ef9597d" md5="4195830cbf793edfaf1656354066f9fb" sha1="c0ba9bfae66a6011ca227770917dd6d2d85483fc"/>
 	</game>
 	<game name="Ultimate Doom Mod Base.dosz">
 		<description>Ultimate Doom Mod Base</description>
