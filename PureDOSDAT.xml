@@ -2360,6 +2360,26 @@
 		<rom name="TEXTURES.FPG" size="482002" crc="ffe31e4b" md5="9d8229c2b4fe2b00f9046d662271de5e" sha1="4d0af126795811d8d52569bc6d71a48217913f4e" date="2002-04-30 21:40:06"/>
 		<rom name="TITEL.FPG" size="257656" crc="e5e52d00" md5="be00e8a1e534efe09c21e9cc9deb1222" sha1="cc64c37a1331c339e66da97b7f458253a1f40013" date="2002-04-30 21:40:04"/>
 	</game>
+	<game name="Boulder Dash (1984) (First Star Software).dosz">
+		<description>Boulder Dash</description>
+		<comment>DOS conversion from PC booter. Super Boulder Dash version, which adds a Tandy mode. Matches with TDC</comment>
+		<comment_dosc>PCjr mode and auto start</comment_dosc>
+		<year>1984</year>
+		<developer>First Star Software</developer>
+		<rom name="BD1PC.COM" size="31007" crc="80eba074" md5="6c708d4c6f78b9a58f20806222d0b9f4" sha1="8a7de62c574df14cec9a5dfaa571f8fab88b8dbf"/>
+		<rom name="BD1PCJR.COM" size="30991" crc="553b2243" md5="68d671387550daaf9691e7c011b2d12a" sha1="fc02402c81d6542b2a57dee21929548929d73d06"/>
+		<rom name="BD1TANDY.COM" size="31551" crc="ccfefcfe" md5="4e89ffaeedc5a363d18a789dff14dd9d" sha1="f89d5653c13287a2ae33337153c3f2744e9f8e87"/>
+	</game>
+	<game name="Boulder Dash II (1985) (First Star Software).dosz">
+		<description>Boulder Dash II</description>
+		<comment>DOS conversion from PC booter. Super Boulder Dash version, which adds a Tandy mode. Matches with TDC</comment>
+		<comment_dosc>PCjr mode and auto start</comment_dosc>
+		<year>1985</year>
+		<developer>First Star Software</developer>
+		<rom name="BD2PC.COM" size="44655" crc="c107218e" md5="6ec31198b427825a3af1fb1bba66a265" sha1="8a4399a93d58a34d1e25d4a82dfe383b7e28d3fe"/>
+		<rom name="BD2PCJR.COM" size="44671" crc="ad370678" md5="882d4dc081bcf5dd0a77926bcfa2c3e4" sha1="658f75ba6a3af8d2b6bdeaedc62f64f2f5340487"/>
+		<rom name="BD2TANDY.COM" size="45343" crc="3b471cf5" md5="be558798b5250311cd6b968f64e6bae1" sha1="a70aec8a6fee8161bb994ad4bf538ea3eaf296da"/>
+	</game>
 	<game name="Bubble Bobble (1989) (Taito).dosz">
 		<description>Bubble Bobble</description>
 		<comment>Extracted from cracked 5.25" floppy disks</comment>
