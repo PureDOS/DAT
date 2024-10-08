@@ -1949,20 +1949,6 @@
 		</rom>
 		<rom name="QUAKE.EXE" size="409600" crc="3bc26700" md5="e3e7fcc920610a5fa66c1dd030939fac" sha1="97427017467717a78b1b9e4a01b70ef0f7161856" date="1997-03-11 18:29:24"/>
 	</game>
-	<game name="Quake Episode 5 - Dimension of the Past (2016) (MachineGames).dosz">
-		<description>Quake Episode 5 - Dimension of the Past</description>
-		<comment>dopa.bat must be edited from winquake to quake</comment>
-		<comment_dosc>Auto start</comment_dosc>
-		<year>2016</year>
-		<developer>MachineGames</developer>
-		<parent>Quake (1996) (id Software).dosz</parent>
-		<link type="freeware">https://www.quaddicted.com/reviews/dopa.html</link>
-		<rom name="dopa/dopa.bat" size="24" crc="2a93a0b9" md5="97f63da87a0c68955bdc9abce194ec2f" sha1="7010bde5354133877f3f3751909da6050c355d88"/>
-		<rom name="dopa/dopa_readme.txt" size="1175" crc="d4c91c76" md5="196bcfcdf416d652d23d130e7e5a9573" sha1="bfc7b0048e032016d7245663986b78c0038753b2" date="2016-06-22 01:47:38"/>
-		<rom name="dopa/pak0.pak" size="18557329" crc="1b697f8a" md5="ca73d4d3643612b5becac7e7e1edcb7e" sha1="c84c7678695f16865f6bd477a3a992445e53c68c" date="2016-06-21 14:18:06"/>
-		<rom name="dopa/quake.rc" size="298" crc="ad3f6f7d" md5="e433c9ee75ddcec65453b330e79c179f" sha1="a7467927eeac47161274949e7b55999a2020fd42" date="2016-06-22 01:46:42"/>
-		<rom name="Quake (1996) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-	</game>
 	<game name="Quake Mission Pack No. 1 - Scourge of Armagon (1997) (Hipnotic Interactive).dosz">
 		<description>Quake Mission Pack No. 1 - Scourge of Armagon</description>
 		<comment>Installed v1.0 from CD. BAT files must have paths edited to C:\quake.exe. Converted audio tracks with CHDtoOGG using -n option</comment>
