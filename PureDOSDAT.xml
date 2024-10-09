@@ -3928,9 +3928,9 @@
 		<description>Hoyle Official Book of Games - Volume 3</description>
 		<comment>
 			Installed from 2 3.5" floppy disks matching The Good Old Days ID: 249
-			Installation options: VGA (256 Colors), AdLib, no joystick, IBM keyboard, use mouse, use extra memory
+			Installation options: VGA (256 Colors), Sound Blaster, no joystick, IBM keyboard, use mouse, use extra memory
 		</comment>
-		<comment_dosc>Auto start, sound config, and MT-32 option</comment_dosc>
+		<comment_dosc>Auto start, sound config, MT-32 option, and patches for the sound drivers</comment_dosc>
 		<link type="media">https://www.goodolddays.net/diskimages/id%2C249/</link>
 		<year>1991</year>
 		<developer>Sierra On-Line</developer>
@@ -3950,7 +3950,7 @@
 		<rom name="PROAUDIO.DRV" size="12128" crc="be98ebcf" md5="c422891eab3ef747a72afd9ed311c9bb" sha1="2913576e9f7f2dd336c2594c0171af01b74dba65" date="1991-09-25 10:39:36"/>
 		<rom name="RESOURCE.000" size="541845" crc="9a83616a" md5="a0b41aab221b70e714b196a7f9879f0c" sha1="53504cfeab6d4cd24043ad0ee098d36f0746ac8e" date="1991-11-02 20:05:14"/>
 		<rom name="RESOURCE.001" size="845795" crc="5534b7d6" md5="ed219a1ff2329e9ee6a292f2da248dba" sha1="3bc97681224dee255a88952981378c31275e6386" date="1991-11-02 20:07:02"/>
-		<rom name="RESOURCE.CFG" size="180" crc="257245aa" md5="754eba239b247eb13472d6350ef5017a" sha1="fb71643e6e69223d508c75d65554efdbac560a26"/>
+		<rom name="RESOURCE.CFG" size="185" crc="3d359ed8" md5="f47c4d14e633edd88596b508cd522527" sha1="b3411d65c2af134cfe16f1b77ea0bd2a9a1ecc41"/>
 		<rom name="RESOURCE.MAP" size="2247" crc="2d087d56" md5="7216a2972f9c595c45ab314941628e43" sha1="67f78053f2b88f8666bd1ec5fbfc0abf7ec06402" date="1991-11-02 20:07:02"/>
 		<rom name="SCIDHUV.EXE" size="96361" crc="4f3e2e2c" md5="ea536b27f5d8d28f1737353fe294ed8e" sha1="8cc5e932cd79947ae1b1e4fd9ad8356f1b54664e" date="1991-10-09 09:21:48"/>
 		<rom name="SIERRA.BAT" size="37" crc="fb698b53" md5="7a0addc4cee6c5ad3dc2221020d47ec3" sha1="0d11d7f87246e26dccd8aa5c90e619acb78d916d" date="1991-10-31 16:34:00"/>
