@@ -12584,13 +12584,11 @@
 		<rom name="EREGCARD.INI" size="39" crc="58641143" md5="80f34fb248a1166e154a7da6ae6e381e" sha1="dd5d5e6d81d338635a51e1d06cd3294d78c6c722" date="1995-10-20 01:05:02"/>
 		<rom name="README.TXT" size="16003" crc="439998ca" md5="f481e1676d03322ec95f29893763693e" sha1="226c37602ab48a6c9eab19df8d43295b2e8fda1d" date="1996-01-04 13:27:04"/>
 		<rom name="SETUP.EXE" size="200403" crc="cdba7c42" md5="98e50b54faecee857fd472826e18fedd" sha1="f299754e9089d0fb1af0f169c336d4fc5b6362dc" date="1995-12-22 18:42:20"/>
-		<rom name="SETUP.PIF" size="967" crc="917e1427" md5="e145bf25b061c102b9fc32917a738fcc" sha1="6c039dfd982030f3377778bce6fb171828350115"/>
 		<rom name="SK.BAT" size="54" crc="548eb9c1" md5="784ebb2828bfbf67e7231f5c89f20817" sha1="a273a239dc1fe48b7dc77afc7ac266b72a519813"/>
 		<rom name="Stonekeep (USA) (v1.2).chd" size="718478208" crc="9ce8724c" md5="69fd47ac74a3eda2c07f05c92cdeed5e" sha1="789d0afbd3e0fa746635754b6aaa68563fa5142c">
-			<track number="1" type="MODE1_RAW" frames="275047" pregap="0" duration="61:07:22" size="646910544" crc="bee4966e" md5="5c45b7b84975956d5254969b21f76dda" sha1="60550afe2763f3bab1ecc88af8110c5b31a8c9e4" in_zeros="1" out_zeros="0"/>
-			<track number="2" type="AUDIO" frames="18973" pregap="150" duration="04:12:73" size="44624496" crc="6d29b3ac" md5="614e068bc95fded8f75057028ab94bab" sha1="5d334bf58228e4fc30c5d135a003ea6fd1e783e9" in_zeros="364968" out_zeros="695792"/>
+			<track number="1" type="MODE1_RAW" frames="275047" pregap="0" duration="61:07:22" size="646910544" crc="bee4966e" md5="5c45b7b84975956d5254969b21f76dda" sha1="60550afe2763f3bab1ecc88af8110c5b31a8c9e4"/>
+			<track number="2" type="AUDIO" frames="18973" pregap="150" duration="04:12:73" size="44624496" crc="6d29b3ac" md5="614e068bc95fded8f75057028ab94bab" sha1="5d334bf58228e4fc30c5d135a003ea6fd1e783e9" in_zeros="364968" out_zeros="695792" trimmed_crc="bb95a9d4"/>
 		</rom>
-		<rom name="STONKEEP.PIF" size="967" crc="7468b546" md5="6cf0961d432bb926713b2d9ec0e2e22b" sha1="e33a054ed3fe8eb959d4acfbfc362e771b89708f"/>
 	</game>
 	<game name="Strife (1996) (Rogue Entertainment).dosz">
 		<description>Strife</description>
