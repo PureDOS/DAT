@@ -1689,8 +1689,12 @@
 	</game>
 	<game name="Death Gate (1994) (Legend Entertainment).dosz">
 		<description>Death Gate</description>
-		<comment>Installed using Redump-verified CD-ROM: Death Gate (USA, Europe) (v1.2)</comment>
-		<comment_dosc>Auto start and config file</comment_dosc>
+		<comment>
+			Installed using Redump-verified CD-ROM: Death Gate (USA, Europe) (v1.2)
+			Installation options: Display Mode 640x480, Optimum Performance Installation, Triple or Quad Speed CD-ROM, Sound Blaster 16 Music, Sound Blaster 16 Sound
+			After install, change all directories in LEGEND.INI to C:\
+		</comment>
+		<comment_dosc>Auto start, sound config, and MT-32/General MIDI options</comment_dosc>
 		<link type="media">http://redump.org/disc/56190/</link>
 		<year>1994</year>
 		<developer>Legend Entertainment</developer>
@@ -1835,7 +1839,7 @@
 		<rom name="KL_THRON.FLI" size="81782" crc="128ab5df" md5="f402217e2818c7722ed4158f7961a390" sha1="23975ed547f442bc64494a0d749c7e019438dfcf" date="1995-03-15 21:02:00"/>
 		<rom name="KLEI_FIN.FLI" size="5542859" crc="12b57e19" md5="024e3cc91799327ef66519c0c7f626f4" sha1="420830b502038d8f1034d5846916c0ddbbbcbadd" date="1995-03-15 21:02:00"/>
 		<rom name="KLEIDEAD.FLI" size="167534" crc="f5149221" md5="4b841a3114b35f4e06d6a3f7270c2700" sha1="a74e990c4101701d6e2fc2f07531d8848f7ce483" date="1995-03-15 21:02:00"/>
-		<rom name="LEGEND.INI" size="119" crc="cecc8b83" md5="4eace6e282330d0b0e00b36403cd3b58" sha1="65f3df1e8a899c1951bf2ce3eac9113820c67cb5"/>
+		<rom name="LEGEND.INI" size="113" crc="90f57ca5" md5="204984ad4f3d2492a54e49571034db47" sha1="413ee979cd2ff5471ff8efd7e1ffe9ac4d6d437e"/>
 		<rom name="MIN.LST" size="847" crc="cb46e634" md5="79fa8f4bbf8c7b6d0f357c4a0e9d7fc9" sha1="3e64f31ba1346fd78e795faaf0e6c7420eacf427" date="1995-03-15 21:02:00"/>
 		<rom name="MPU401.MDI" size="1896" crc="d664eb39" md5="d7397b29490983cdecb0c54aff0ff605" sha1="bd85ca0990c60148d63594c0b4d30af511674f64" date="1995-03-16 02:02:00"/>
 		<rom name="MT32MPU.MDI" size="6980" crc="bdaf0222" md5="609666cbd6fe795d576a9b6aff5ac7d0" sha1="08a6bc68a710c57f48dc33cacaa83151767a0dec" date="1995-03-16 02:02:00"/>
