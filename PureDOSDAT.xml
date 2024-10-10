@@ -1363,11 +1363,15 @@
 	</game>
 	<game name="Callahan's Crosstime Saloon (1997) (Legend Entertainment).dosz">
 		<description>Callahan's Crosstime Saloon</description>
-		<comment>Installed using Redump-verified CD-ROM: Callahan's Crosstime Saloon (USA)</comment>
-		<comment_dosc>CPU cycles set to 100000, auto start, and config files</comment_dosc>
-		<link type="media">http://redump.org/disc/69449/</link>
 		<year>1997</year>
 		<developer>Legend Entertainment</developer>
+		<comment>
+			Installed using Redump-verified CD-ROM: Callahan's Crosstime Saloon (USA)
+			Installation options: Optimum Performance Installation
+			After install, copy all *.Q and *.VOC files from the CD to the install directory and change all file locations in LEGEND.INI to C:\
+		</comment>
+		<comment_dosc>CPU cycles set to 100000, auto start, and sound config</comment_dosc>
+		<link type="media">http://redump.org/disc/69449/</link>
 		<rom name="ADLIB.MDI" size="14986" crc="6871f64c" md5="5cb112d060d70a43ee7c89b7ffe4f029" sha1="1f19c757259cac7b5f04281ac8830f8bece3c8d2" date="1996-12-30 02:00:00"/>
 		<rom name="ADLIBG.MDI" size="16377" crc="1d2a278b" md5="79d8137d4e6b78735b78cd8a4bd14827" sha1="14f61539bf8438f68add723fef2ef76821fa9fd8" date="1996-12-30 02:00:00"/>
 		<rom name="ADRV688.DIG" size="11278" crc="96dfb75d" md5="feabc78729e3a458ae2f6ab40146f0d9" sha1="255ecb5d649895d65bca49bd6afcbdf875e34bf2" date="1996-12-30 02:00:00"/>
