@@ -9658,8 +9658,12 @@
 		<description>Pepper's Adventures in Time</description>
 		<year>1993</year>
 		<developer>Sierra On-Line</developer>
-		<comment>Installed from 5 3.5" floppy disks matching The Good Old Days ID: 1790</comment>
-		<comment_dosc>Auto-start and sound config</comment_dosc>
+		<comment>
+			Installed from 5 3.5" floppy disks matching The Good Old Days ID: 1790
+			Installation options: VGA (256 Colors), Sound Blaster Music, Sound Blaster Audio, no joystick, use mouse, use extra memory
+			After install, delete the directory line in RESOURCE.CFG
+		</comment>
+		<comment_dosc>CPU year set to 1991, auto start, sound config, and MT-32 and General MIDI options</comment_dosc>
 		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1790</link>
 		<rom name="120.HEP" size="3474" crc="84fcf10d" md5="250e4df22da5594ceff99e449c4a8681" sha1="426c2bb6be3278a807e145c49c7233382aeab124" date="1993-02-08 11:26:32"/>
 		<rom name="120.SCR" size="12770" crc="e542d821" md5="aa11a5c0921dc7648a09081f43ca68df" sha1="7817f1794bcce6da169841afdaf473cbe23a2c0a" date="1993-02-08 11:26:32"/>
@@ -9697,7 +9701,7 @@
 		<rom name="README" size="2762" crc="1fbbbe2c" md5="d39ed2699495477fa786cb0cb0c7defe" sha1="15d355e1150817beffc0709de2a44a0cf19dbfa1" date="1993-02-16 10:27:58"/>
 		<rom name="RESOURCE.000" size="5459574" crc="9107cc59" md5="5b8eb671a7d8996e449cf6b5ccb920ad" sha1="6797b3d889c0ce572bb87957cf4b7dd8938bd5b4"/>
 		<rom name="RESOURCE.AUD" size="3404966" crc="53aaffe2" md5="c528d96578b0bef5e6d0c7e0ef79ff12" sha1="6aad43d5e5584dafb3dbed85860891d07423e5ef"/>
-		<rom name="RESOURCE.CFG" size="249" crc="588151e0" md5="e62271ee01f3552019e56f7e98fba618" sha1="3674bd171b1e52a1aad4216ff9c404c885c2ef4e"/>
+		<rom name="RESOURCE.CFG" size="219" crc="ae96b45b" md5="94dedafea23eb1d09d2070aeeb39e88c" sha1="86e108dabede0bdb6dd2edf9841275fabfa002d6"/>
 		<rom name="RESOURCE.MAP" size="5179" crc="595e3a60" md5="57de1ece1b3544d974a7df6c61e9bd4a" sha1="d2457acb71110a511a170eca33a588261ae32c13" date="1993-02-02 10:44:30"/>
 		<rom name="SIERRA.EXE" size="69357" crc="da4d51f7" md5="2312fc7c23f5d96c482623de7d176d83" sha1="542970d491f62d768febacd324d2bd635771bde3" date="1993-01-28 07:10:00"/>
 		<rom name="STD.DRV" size="1465" crc="c6c6fb9e" md5="f545b3c136e25c7397ae9e38163a1148" sha1="8b06894d3693fe24c9cd8501333669ede76862eb" date="1992-07-02 11:44:16"/>
