@@ -13288,6 +13288,68 @@
 			<track number="1" type="MODE1_RAW" frames="104140" pregap="0" duration="23:08:40" size="244937280" crc="c392334e" md5="2ed9e3e319b2696e96d09a81b91c217c" sha1="b6002007d77a266a7133b6b5884c4648242f644f" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
+	<game name="Torin's Passage (1995) (Sierra On-Line).dosz">
+		<description>Torin's Passage</description>
+		<year>1995</year>
+		<developer>Sierra On-Line</developer>
+		<comment>
+			Installed from Redump-verified CD-ROM: Torin's Passage (USA)
+			After install, change the directory in line 4 of RESOURCE.CFG to .\
+			Change C:\SIERRA\TORINDOS in line 26 of RESOURCE.CFG to C:\
+			Copy the files from the official Torin's Passage patch to the install directory
+		</comment>
+		<comment_dosc>Auto start and French and German options</comment_dosc>
+		<link type="media">http://redump.org/disc/10234/</link>
+		<link type="patch">http://www.sierrahelp.com/Patches-Updates/Patches-Updates-Games/MiscGamesUpdates.html#Torin</link>
+		<rom name="12000.HEP" size="1374" crc="4c34daa3" md5="ca809a91bd44c9d52ccb92a574683cb8" sha1="7d4f6db7b6bc993875dff2e4b6f625af8a432519" date="1995-12-07 12:59:42"/>
+		<rom name="12000.SCR" size="2932" crc="19b4d0c1" md5="5693d6ec7932c24dffbd9c5d187fd54f" sha1="249259e07d145df59610f2d4d2ca9e417264be7b" date="1995-12-07 12:59:42"/>
+		<rom name="51200.HEP" size="1764" crc="3862ddec" md5="d672a9e3751afa50a65aa635ef56ac92" sha1="59bf8cff5e988b5d0c85c57bfe5458556ec1b2bc" date="1995-12-07 12:59:44"/>
+		<rom name="51200.SCR" size="4414" crc="17ebf9b3" md5="9f80fddb0fd232a06960c9c1178616aa" sha1="5c5a3610a85254cf3246e9c50ff7fc7a94114e6f" date="1995-12-07 12:59:44"/>
+		<rom name="64000.HEP" size="3468" crc="1884aa12" md5="5f6b0c4646238ace82207b2c5f42789f" sha1="d088c43c2af127128616b9b857348e5499cfb376" date="1995-12-13 16:18:34"/>
+		<rom name="64000.SCR" size="2484" crc="4c01d110" md5="411b56f9caf1870cc9554208ae071de3" sha1="662f99b9e4857a5c87d5dacf9c0c7ac5d67ef7aa" date="1995-12-13 16:18:34"/>
+		<rom name="64865.HEP" size="504" crc="152320de" md5="48d9ea72764a580c19edf3463091a4f2" sha1="521eee076228953424dee0cbe9b908b6c3ff5127" date="1995-12-07 12:59:48"/>
+		<rom name="64865.SCR" size="3786" crc="0afda7fc" md5="d31ddc44981f99fc99ee4d35bf23868a" sha1="30a970678ed9f1838233cd5b7f866420ce922d2d" date="1995-12-07 12:59:48"/>
+		<rom name="64892.HEP" size="496" crc="068e71cc" md5="ab9198350cd5e84d9eb18f6657a5450a" sha1="1c6f6effecd56456e28b4814471c92b5d253df38" date="1995-12-13 16:18:34"/>
+		<rom name="64892.SCR" size="3570" crc="5f1bf5ea" md5="661eeffb7d20024012a0b715eec72467" sha1="d67de27c5de9668726afa600eea1d38120f605bb" date="1995-12-13 16:18:34"/>
+		<rom name="64893.HEP" size="278" crc="46564d71" md5="f6a46f95b2ea588ce7f5237d80d145d7" sha1="a2fcc993e4ded883cc670b5cdc13b61afd2db8cd" date="1995-12-07 12:59:46"/>
+		<rom name="64893.SCR" size="5682" crc="d58d06ff" md5="1b99f7557b08c38bc624d0f463f12689" sha1="a7e3e595d7b02d2686a9715ae33611a48c056d80" date="1995-12-07 12:59:46"/>
+		<rom name="64897.HEP" size="1934" crc="8aaf2013" md5="f5d789298a8855332fcfcbe54364e87c" sha1="59d5b665c1b5c6683638f5ce8a9401dc348ced4b" date="1995-12-07 12:59:14"/>
+		<rom name="64897.SCR" size="4364" crc="35e6c12f" md5="03c09e23c25bd5f54a10f71ab2bb7a93" sha1="663e9240bf3e1800c681e97c03f5e4012f012fad" date="1995-12-07 12:59:14"/>
+		<rom name="BOOTDISK.EXE" size="36371" crc="031d1607" md5="baedf560bf41f48859d5f015886aeb8d" sha1="eb798411b03ef4be39217d5539edad1e5be31607" date="1995-11-06 19:27:50"/>
+		<rom name="CHECKCD.BAT" size="635" crc="86e82b65" md5="ed6baaf3694f1f6c10e7f2d12a00fa22" sha1="f8d71dd0b4c109f0cef27068eadccd8082719188" date="1995-11-06 19:27:50"/>
+		<rom name="CPUID.EXE" size="50437" crc="b42a2892" md5="6069f0c1e6398c005766cbcea45372bb" sha1="41bb475f05088c31a1f5f69a72622db42631d2ad" date="1995-11-06 19:27:50"/>
+		<rom name="DACBLAST.DRV" size="4404" crc="253e5a22" md5="58954b91b7e677d4d61bcb4842b04d9b" sha1="04baf400bc3d85cf35085a2f7bf79fca2cad61a9" date="1995-11-06 19:27:50"/>
+		<rom name="DACMSSYS.DRV" size="2447" crc="88001895" md5="d38731b19c332cb88a0789cf91330bf6" sha1="8fff709c294cb100ecac0ede5897dc05c6eb64ec" date="1995-11-06 19:27:50"/>
+		<rom name="DACPRO.DRV" size="2805" crc="7749378e" md5="22836fc9989c727b44b60f6e2b0623fa" sha1="4ce9d362cadc88519dc5591779cd9850b1bd581d" date="1995-11-06 19:27:50"/>
+		<rom name="DACPRO16.DRV" size="2729" crc="5fd843e1" md5="2a401cb35ca5e0ef9f4770831957eb08" sha1="db4c1da9cff92da1a5c98948e822e2ed0e31a2c9" date="1995-11-06 19:27:50"/>
+		<rom name="DACPRO8.DRV" size="2587" crc="43a428e0" md5="6b7ca0b18041c7f56fc6330b37129540" sha1="7f4a3f56d5ee7f77fc571a940d95283485f6f895" date="1995-11-06 19:27:50"/>
+		<rom name="DACTHUND.DRV" size="3399" crc="d30db585" md5="a5aa7d99e4744ef3a8a866a5d49cc85e" sha1="d8acc50d5470fff5d0a276c3e626fb5e6a31d0e2" date="1995-11-06 19:27:50"/>
+		<rom name="DOS4GW.EXE" size="265420" crc="cb214447" md5="ee4033581845b3b8d28c4b7287eb4fc2" sha1="a897c7eb79145a308c4e60b43413bb2daa360506" date="1995-11-06 19:27:52"/>
+		<rom name="ENGLISH.BAT" size="150" crc="a7abb2fb" md5="1208c97fae2b2d73ed2ea0bb93e99773" sha1="ca86e4d2da208bdbccb131c85866b5986b05816b"/>
+		<rom name="FRENCH.BAT" size="136" crc="f174ba5d" md5="667fc34f1f076d51a1766fb907cea479" sha1="1490c83eda0a60751d1eb642edd2e465caa8bede"/>
+		<rom name="FROG.BMP" size="57624" crc="9b177578" md5="d62e98cd5eaa4cdc2651ad044962e1cd" sha1="92ca8c6062db4021708dd4ee00ee1d86b55345f7" date="1995-11-06 19:27:52"/>
+		<rom name="GERMAN.BAT" size="135" crc="6411cdb5" md5="10d05a129b8029f276b337db4934a5c6" sha1="cbb9ba5dffb712c3c63842d5d4cbb7b11dbd933e"/>
+		<rom name="HAVEVESA.EXE" size="6659" crc="5d282f48" md5="0574fb4a4ee88c7300486b8e78a0c9c7" sha1="db1752b9791d4cf231950e4c694b67b6bab384f3" date="1995-11-06 19:27:54"/>
+		<rom name="HDDTEC.EXE" size="83586" crc="e99ec7dd" md5="9c27d65d6a5cfcedd850484cd799cfcd" sha1="f583c862ecf50372715b79a83db38666df42883e" date="1995-08-04 13:46:00"/>
+		<rom name="INSTALL.EXE" size="87524" crc="82607fdb" md5="70a5e183e06dfedc09b7d0f31b31dbc4" sha1="81498daa5f39d2464a8d82e1ecdc5ba17141c01f" date="1995-11-06 19:27:54"/>
+		<rom name="INSTALL.HLP" size="21746" crc="5ce081fc" md5="09ba2de1b3ab25f3c5832eee1d293d80" sha1="216539761d7c19f42685ea29408790311e346f2f" date="1995-11-06 19:27:54"/>
+		<rom name="INSTALL.INN" size="9620" crc="1f82a8cd" md5="639a08568516b5c1f982bd74e0a14516" sha1="089ddda6e57087dcf59c5f4d8a3af7cffbf1f545" date="1995-11-06 19:27:54"/>
+		<rom name="INSTALL.SCR" size="4171" crc="98b7288c" md5="7ea1091e50d5c744c0e8b06c7f238226" sha1="a732e9ce100b0906d7e26be44487d880958121c7" date="1995-11-06 19:27:56"/>
+		<rom name="INSTALL.TXT" size="9589" crc="38b46fdc" md5="a0af8d8aed12994173ea863a857686dc" sha1="aaa7a9cb67e1714429203f53e8b667c3f129057c" date="1995-11-06 19:27:56"/>
+		<rom name="MIDNONE.DRV" size="10427" crc="a21ad12c" md5="6447a122d198fea2715888a4a537429c" sha1="cb2680f695047d24106740e175e8775120f8c4ee" date="1995-11-06 19:27:56"/>
+		<rom name="README.BAT" size="31" crc="700b65e6" md5="15c6ce14691b4246b4e333b3c1432831" sha1="6ebc1072eaab67b984e8dedc4162394b8d45c9cb" date="1995-11-06 19:27:56"/>
+		<rom name="README.TXT" size="17794" crc="74d89972" md5="13b50a45e27d1e24d4a714884bc65006" sha1="a7fa1fdc068532b6cf2b3f0f8d2a39be6c073a0c" date="1995-11-07 13:13:32"/>
+		<rom name="RESOURCE.CFG" size="505" crc="4a8a0e06" md5="833a543db278eadee46415c9e6f02e2b" sha1="8b94d70a5b4b68e2184f05e55c85b667cf535634"/>
+		<rom name="SIERRA.ERR" size="8474" crc="ba1ed435" md5="7888c4184452c69689558686fd188aea" sha1="6795ef39c2889dbb2e054bca8825a745f8176151" date="1994-08-12 11:57:18"/>
+		<rom name="SIERRAH.EXE" size="828099" crc="f179349d" md5="3e6b07d0b48bc9505c624873aef5bcd7" sha1="e47b83fddc9d5af0374a1c83fc1e3894f60fcc84" date="1995-11-02 19:12:36"/>
+		<rom name="Torin's Passage (USA).chd" size="513394560" crc="4ed73016" md5="3f23525ff00a2cfc0452c1b53e20e5c6" sha1="93548814f082393ce5bb53038051a5f5527b4a65">
+			<track number="1" type="MODE1_RAW" frames="209671" pregap="0" duration="46:35:46" size="493146192" crc="890a28f9" md5="d1586c01aadd19d688def2dbb82701a7" sha1="f275e7bf6f2a412f80868014bd2560da69411a40"/>
+		</rom>
+		<rom name="TORIN.BAT" size="218" crc="9b72ba74" md5="861fc6b2fdf20f84ff274a484882df32" sha1="3d8cbfba112bfe1fe64c833a88d4199eac7c60f9"/>
+		<rom name="UVCONFIG.EXE" size="260250" crc="3731ecd2" md5="43e7d6c9a606c9d3c7f703e2056fdb1b" sha1="3c4c61563ab6df1fb145b05c925b178095c83ea9" date="1995-11-06 19:27:58"/>
+		<rom name="VESA.DRV" size="35" crc="d3c60945" md5="8b6220a473e9a6c0f7a8ec471a401782" sha1="2526f8324466ea58c69b67e4412b1e6153a25f14" date="1995-11-06 19:27:58"/>
+		<rom name="WHAT.EXE" size="3170" crc="6b71137c" md5="e78b5d342f77badf9f807d07a8e01cc8" sha1="9a892246c42aeb358ab999120bc6a0eddd294925" date="1995-11-06 19:27:58"/>
+	</game>
 	<game name="Transport Tycoon Deluxe (1995) (Chris Sawyer).dosz">
 		<description>Transport Tycoon Deluxe</description>
 		<comment>v2.01.119 October build</comment>
