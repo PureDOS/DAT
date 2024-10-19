@@ -4909,7 +4909,7 @@
 			4. Set music device the same as sound device
 
 			Next, setting it up so CD images aren't needed:
-			1. Create a folder called CD and copy all files from disc 1 into it
+			1. Create a folder called CD and copy all files from disc 1 into it (except DIGI, INSTALL, M, MIDI, STARTREK folders)
 			2. Copy all files from the GDV folders in disc 2, 3, and 4 to the CD\GDV folder with disc 1 files. Skip any repeated files that it asks to overwrite
 			3. Open CD\DATA\FILELIST.TXT and delete these lines from the disc 2, 3, and 4 sections:
 				dbase300.dat  
