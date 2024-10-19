@@ -4940,9 +4940,6 @@
 		<rom name="CD/DBASE300.DAT" size="22446670" crc="317366a1" md5="1cfa7a08b7cd7c881b3ecb02f466421d" sha1="741fc8ed891ad2deec9099597980579201c68fea" date="1997-01-29 09:48:10"/>
 		<rom name="CD/DBASE400.DAT" size="176758" crc="de9df870" md5="00001c12d9e773e82252d74f0b1ce7fa" sha1="6caa0a2899a76dc253af0ccb03cb6efdf1b1bc0c" date="1997-01-29 09:48:10"/>
 		<rom name="CD/DBASE500.DAT" size="127913056" crc="33e54405" md5="e8639ae1dbc6bd71d6f5d8277b149a8e" sha1="eb4308e6e4c62fa05c4b945266c9c3dfcbbd623d" date="1997-01-29 09:48:10"/>
-		<rom name="CD/DIGI/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-02-18 21:51:56"/>
-		<rom name="CD/DIGI/HMIDET.386" size="81990" crc="637c56a8" md5="59b3f813848cda336763648d628db917" sha1="27a06eb94b0abf13139c311ebed73358b20bcdab" date="1996-04-01 07:27:40"/>
-		<rom name="CD/DIGI/HMIDRV.386" size="261425" crc="f7d9cbbc" md5="d730de4f9e6e4d8b95738f7cdde7c140" sha1="23c6a4928cd1ca317254b0ad7fac1f0abcb61f16" date="1996-03-12 10:01:22"/>
 		<rom name="CD/DOS4GW.EXE" size="265396" crc="5cc34b0f" md5="006211ca60fa3d4b38a9a8da2ade1056" sha1="c489f83dc15a9ffc3c502707da40e581ec79bfe6" date="1995-07-11 07:05:00"/>
 		<rom name="CD/GDV/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-02-18 21:51:56"/>
 		<rom name="CD/GDV/ABADON1A.GDV" size="3625447" crc="c552c303" md5="875aaa7bfca53c1446112cf7fd01017c" sha1="5b5ac25dd7e39bb13eefa822c70ab919a921f879" date="1996-10-01 10:01:44"/>
@@ -5112,84 +5109,7 @@
 		<rom name="CD/GDV/WALKWY1A.GDV" size="14188110" crc="eccc9160" md5="00bfbd5caf042f1b824257e4081f03d4" sha1="ae1cdbb5103f4ce053e209268a7ac9e38dc2edf3" date="1996-10-11 06:23:36"/>
 		<rom name="CD/INSTALL.EXE" size="154608" crc="d6dfef15" md5="10c0ddd74a3aa6a1f850beea96c80c25" sha1="6d5e6035f0f32b992955cd4b5ada709aaa87d038" date="1997-02-13 00:14:22"/>
 		<rom name="CD/INSTALL.PIF" size="967" crc="4a8f85fc" md5="ff7009cc1aa16f626871e6bc06e56e43" sha1="b2c5f80b2ab4d9baff875a80a66a2fc1942fa2a5" date="1997-01-24 13:01:30"/>
-		<rom name="CD/INSTALL/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-02-18 21:51:56"/>
-		<rom name="CD/INSTALL/EREGCARD.EXE" size="85609" crc="d2e6bb29" md5="bef38da621fe89f8ff7b4e3e8db04276" sha1="2840622ff7eb6069aa7c497be9875047ab04a79f" date="1996-07-26 02:36:14"/>
-		<rom name="CD/INSTALL/EREGCARD.INI" size="65" crc="aa86d921" md5="cf20702b1eb205663186f566bd5047d5" sha1="fbc7424eeca8245265ce1dad111dcbfca77b9984" date="1997-02-14 07:11:44"/>
-		<rom name="CD/INSTALL/HMIDET.DRV" size="52856" crc="fb8bd7b4" md5="f4e4ed8302f18aac0a8f8bb153a61566" sha1="9499170383de96410e2038426ce993c6a21a085e" date="1995-02-05 22:00:00"/>
-		<rom name="CD/INSTALL/HMIDRV.DRV" size="188711" crc="5e017030" md5="cef61ca0b324c59d8e38c59ba1ddb191" sha1="cf8b1a87ec41c992c6ab9f09199fa5c6fac1fe50" date="1995-02-05 22:00:00"/>
-		<rom name="CD/INSTALL/HMIMDRV.DRV" size="100647" crc="9680fa48" md5="59ad9c334c62a258b576728ef69d8af5" sha1="19dbb274ae812ad2c6f176af46099403ce4449f7" date="1995-02-05 22:00:00"/>
-		<rom name="CD/INSTALL/INSTALL.INI" size="29855" crc="e16d0973" md5="59a1f83e3f53234bd0824e017a786356" sha1="0fd637a3dcc3b920d23dc886d240fa1e22ffa3b5" date="1997-02-11 11:13:48"/>
-		<rom name="CD/INSTALL/INSTGRAV.INI" size="63" crc="9dcf25c8" md5="8bf7b8cf7ba33e1353d2de82e142b41c" sha1="ec2ed32284f8f344b077744fa7cad50794047bd4" date="1995-01-24 09:26:26"/>
-		<rom name="CD/INSTALL/LOADPATS.EXE" size="49194" crc="066c5e51" md5="b24134b3fab09b2727b49a0fe1d64d8e" sha1="d9ba6f21e0e7a7210fc7bdc99495343cadd07d9d" date="1994-12-08 09:19:04"/>
-		<rom name="CD/INSTALL/REALMS.BAT" size="32" crc="f8fc7c74" md5="dc657e5d8e011c99cfb6de2f2fac164d" sha1="f307b2a5480ace433177a8251df9ddca100f9875" date="1997-01-09 12:06:22"/>
-		<rom name="CD/INSTALL/ROTH.EXE" size="472915" crc="447209a4" md5="f588469eb868373a339bebb5fba5a9bb" sha1="8831dfb9f7f3b9e4e27c3e6c4b943f9735497ef4" date="1997-02-06 21:08:16"/>
-		<rom name="CD/INSTALL/ROTH.RES" size="877" crc="a3256af9" md5="c0247b5d64b43bbf1e7edb12198fbb72" sha1="62e09d10b66d44440935354a749b41f6b16932d3" date="1997-02-07 09:42:44"/>
-		<rom name="CD/INSTALL/VESAFIX.COM" size="2264" crc="076eef61" md5="6e7856703cbc291e1b5009180edd3f90" sha1="4fa8dc69a4ad7ea6a9d72d75ac383339daeedf09" date="1996-05-08 20:13:28"/>
-		<rom name="CD/INSTALL/WIN95RUN.PIF" size="967" crc="cb9ec751" md5="3313c20924fc9fa83319c34ea840f264" sha1="e2e937386d5202f503b2112db9fc30f8e1e13864" date="1996-12-16 13:16:16"/>
-		<rom name="CD/M/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-02-18 21:51:56"/>
-		<rom name="CD/M/ABAGATE2.RAW" size="25282" crc="aa226df5" md5="36a05ba9452fd5a14249a06cf78a304a" sha1="16a8c836e7eeb45b244a8a94c400ce2e897e2abd" date="1996-11-15 01:53:40"/>
-		<rom name="CD/M/ADEMO.DAS" size="19470288" crc="273d38b7" md5="724ce6eb75a1b9e1a3eecceace333de0" sha1="bfcc53ba388cbdec764a93ffca6a07a75b4d2621" date="1996-11-06 10:32:04"/>
-		<rom name="CD/M/AELF.RAW" size="78512" crc="c9e5cc1c" md5="615223ddd754fc89641c2c50a6fa5f84" sha1="cceb7f46d4ed498441038a232de830a7964c486a" date="1996-11-15 01:53:54"/>
-		<rom name="CD/M/ANUBIS.RAW" size="51704" crc="4e3513dc" md5="799026a5e1574e5a312601b02ce93879" sha1="fd7d2091d549555b6c7d89309a5ce0dc776ffcd6" date="1997-01-29 13:15:24"/>
-		<rom name="CD/M/AQUA1.RAW" size="68796" crc="5375b861" md5="359b9a370554826a7482422487e5155c" sha1="bf84828567f12eee69c67371dae1a56071de6af9" date="1996-11-15 01:54:30"/>
-		<rom name="CD/M/AQUA2.RAW" size="57962" crc="2cef6c3b" md5="813d6ac1dad118a676494b7a82a3853f" sha1="732cf209558096cd11cf253d3814fd47ecc43d55" date="1996-11-15 01:54:32"/>
-		<rom name="CD/M/CAVERNS.RAW" size="86934" crc="b686755f" md5="f8c281067b0cbb4377cd88ed1468765f" sha1="fadfa147e89597eadd01362a2fd5d3b00a1b27e1" date="1996-11-15 01:54:16"/>
-		<rom name="CD/M/CAVERNS2.RAW" size="15010" crc="ad43240a" md5="3305d61219ef7697d77e04fe3c250c72" sha1="0732df7a4fcee56d27a3ae3fe932aed5925c3458" date="1996-11-15 01:53:56"/>
-		<rom name="CD/M/CAVERNS3.RAW" size="80606" crc="3555e41e" md5="8e3ea4e4789f1521cfb7db1dd2266158" sha1="b30e460b35e71fd8f3af70a2263af492347eb0f5" date="1996-11-15 01:53:58"/>
-		<rom name="CD/M/CHURCH1.RAW" size="90484" crc="b1b2fa37" md5="6b9c0a0bc540feebd2b66a30a30c0d3d" sha1="07e349763b7aa6542ace9e7750bc04ff0b07aa2e" date="1996-11-23 14:30:18"/>
-		<rom name="CD/M/DEMO.DAS" size="15821238" crc="e020ac72" md5="19b82c32cebb7004b457d8a30e2d2afa" sha1="cd628fad3471a2c0722216b04ef29d2172ce1a5b" date="1996-11-05 20:32:24"/>
-		<rom name="CD/M/DEMO1.DAS" size="17449076" crc="d7e49513" md5="4d6963b6709e1ddb2b5f51967b0f88a6" sha1="92bc738ccdf75656b367f921b8f8d760abbb7e9d" date="1996-11-05 13:34:54"/>
-		<rom name="CD/M/DEMO2.DAS" size="4291910" crc="0624cd0d" md5="1829a6e04d3eb32bd12a7804816efbdb" sha1="52ffec045cc622c7e1c3202ec41b52876917d929" date="1996-12-19 09:49:26"/>
-		<rom name="CD/M/DEMO3.DAS" size="7286362" crc="4fd49920" md5="e083da270769a0269091a527b6931fc6" sha1="6c4b0aa65facbb3f01c75587a0a5cabf2ae8cb06" date="1996-11-05 13:22:20"/>
-		<rom name="CD/M/DEMO4.DAS" size="13033962" crc="1cc2c3d5" md5="37fc5e2daef6dc350c69a66b3299a7e0" sha1="d8ece340470f886ad369e3f925650acd289b322f" date="1996-03-31 11:18:30"/>
-		<rom name="CD/M/DOMINION.RAW" size="69414" crc="7d452b5d" md5="44896acbc3f57ff4d546754bc60d1514" sha1="26b1ba5092d57d2a7e3adf587e7a5558fc691b50" date="1996-11-15 16:14:40"/>
-		<rom name="CD/M/DOPPLE.RAW" size="61632" crc="69e45b2b" md5="6ef4d4f64212f65904b1d065270f9393" sha1="e49b851fc65f3fbae2a863fd639058767508ab0f" date="1996-11-21 12:06:04"/>
-		<rom name="CD/M/ELOHIM1.RAW" size="27690" crc="dfd45c93" md5="608a9d479938d1bfa0807f94439b1954" sha1="0c76db425004891c89332fb3a7aaeaca45ccc04d" date="1996-11-15 01:54:40"/>
-		<rom name="CD/M/GNARL1.RAW" size="14786" crc="9fcdd6af" md5="a7a8e89d195151ee4acdf8a85e9fa4c7" sha1="a04020ee6bd4e77291eb9a1f79b605a64e792701" date="1996-11-15 01:53:42"/>
-		<rom name="CD/M/GRAVE.RAW" size="48794" crc="be9f8321" md5="2a943d9ede5841111a79a621c471cbca" sha1="b72c757b83efc95840dc4b737cea4d781014e44c" date="1996-11-21 12:12:56"/>
-		<rom name="CD/M/LRINTH.RAW" size="48498" crc="88ef6c5b" md5="c360fa64b41a962ef74715a752e2a601" sha1="1155fcf861729c380df69da49d83b7caca8be7b6" date="1996-11-15 01:54:34"/>
-		<rom name="CD/M/LRINTH1.RAW" size="44012" crc="68c4af18" md5="c33ea660d0195daadaefb9c4ac6d4973" sha1="9ff073ebd11075cb665b817d34441dc7b26a0883" date="1996-11-15 01:54:34"/>
-		<rom name="CD/M/MAS3.RAW" size="35928" crc="70a35063" md5="9433fe3c8650f02c17f660f48ed96105" sha1="0a5823bdb258dd048e571600afeb6487a22c22db" date="1996-11-21 12:10:44"/>
-		<rom name="CD/M/MAS4.RAW" size="31498" crc="5f481763" md5="495899fadc5e0aed8bf4629f1dd10742" sha1="b271538856c1ae31580a211852554ebb5035f4c1" date="1996-11-15 01:53:52"/>
-		<rom name="CD/M/MAS6.RAW" size="10322" crc="5a1c1955" md5="1e126f561296eeaa88df5490455558c1" sha1="77e70072ed01c912a81a0b25a1e913d5c80a11b5" date="1996-11-15 01:53:52"/>
-		<rom name="CD/M/MAS7.RAW" size="42150" crc="aa890c6d" md5="ea15ea4a67b9a7953b5066821953a002" sha1="a9910449b962e92b358ae89106814858cfa602f4" date="1996-11-15 01:53:54"/>
-		<rom name="CD/M/MAUSO1EA.RAW" size="59048" crc="41f05f2a" md5="a0b76820c14600753823f6bd723c5ff4" sha1="0fa7d676927570ba9ee1771396956697bef33afa" date="1996-11-16 00:39:04"/>
-		<rom name="CD/M/MAUSO1EB.RAW" size="40446" crc="ad25ed45" md5="fa68e3e52147984fad267fad99febd0a" sha1="389f22328bb433f68c8635d46e1e6e378bda575b" date="1996-11-15 01:53:50"/>
-		<rom name="CD/M/MAZE.RAW" size="46318" crc="4fd48936" md5="756dc91868d45eb57c6c67345f414b1d" sha1="2590a9d53beb845b586c765b7be0806dd72e563a" date="1996-11-15 01:54:00"/>
-		<rom name="CD/M/OPTEMP1.RAW" size="22624" crc="068a39c0" md5="474639af854a2703e63cd812244b6164" sha1="38ec19d8fbf92c1e1d4dbde828ae021a4f9ebf85" date="1996-11-15 01:54:36"/>
-		<rom name="CD/M/RAQUIA1.RAW" size="53484" crc="ad6bbb06" md5="8a990b37e82d828325cda02e1490b979" sha1="a62e24e8cbdb3d16306189173ec80e2a4917eca0" date="1996-11-15 01:54:20"/>
-		<rom name="CD/M/RAQUIA2.RAW" size="50522" crc="d8d4a5ab" md5="5ddb7d371939be302e0a34a868999093" sha1="44adc9c8bb2d07e16a1a17c4aca58147a2701de9" date="1996-11-15 01:54:22"/>
-		<rom name="CD/M/RAQUIA3.RAW" size="59892" crc="4359f056" md5="818341506472bb50a6ae8d7f1e586092" sha1="6ec405abd5b6cae350aafc423c0be7198c4e681f" date="1996-11-23 14:30:08"/>
-		<rom name="CD/M/RAQUIA4.RAW" size="29882" crc="b6301946" md5="84e8913763e0be3f5122b3708e006c95" sha1="a0799f274b3026013dbf5e37c975ad1e70dde217" date="1996-11-15 01:54:24"/>
-		<rom name="CD/M/RAQUIA5.RAW" size="69444" crc="587438ec" md5="35392803892e846d34e1bbdfabbb79ab" sha1="1e6aacaa1fc553f307064220270e02bd4e77df23" date="1996-11-21 12:05:56"/>
-		<rom name="CD/M/SALVAT.RAW" size="67876" crc="738bc403" md5="53b13eeb5ab7fec93515dd054e62aa08" sha1="e15c0a4173f74fe038588804919abaeda9ef1262" date="1996-11-15 01:54:04"/>
-		<rom name="CD/M/SOULST2.RAW" size="56786" crc="f2d92a1b" md5="f0cad71c8afc062d53608ef11cb6d909" sha1="91f0a0c4a2b5e218e94304142820839c6d05a0bb" date="1996-11-15 01:54:06"/>
-		<rom name="CD/M/SOULST3.RAW" size="54676" crc="b5b53348" md5="a8e7a235bc9abcbd77b48b53edda6d65" sha1="6650a6ce119f160cc2c44c0139e21cb8364cb4b1" date="1996-11-16 22:49:44"/>
-		<rom name="CD/M/STUDY1.RAW" size="84924" crc="195afe31" md5="bfa4969d04e8d3b7733422e48416b0de" sha1="25a6fe67422a28965e463b03616d7681cb7dbf85" date="1997-01-03 12:58:26"/>
-		<rom name="CD/M/STUDY2.RAW" size="94306" crc="069539f5" md5="08ff34b8a5fd3960e87348249baee7c5" sha1="009980e02dbc9636a56d6024c736b493b66b5409" date="1996-11-23 14:30:00"/>
-		<rom name="CD/M/STUDY3.RAW" size="39416" crc="e32542b0" md5="470b41d230e77e43af5f61b83586fe1a" sha1="5e37ce95c3af28fd80247ef0fa4ea114ca9413ab" date="1996-11-15 01:53:38"/>
-		<rom name="CD/M/STUDY4.RAW" size="37222" crc="b409c2c3" md5="5d35a447593aca6456bbf7661db072bf" sha1="e49bce76a452ce82e37a52e1ce49a5353b88c5ea" date="1996-11-15 01:53:40"/>
-		<rom name="CD/M/TEMPLE1.RAW" size="51270" crc="7721212e" md5="b3ce9b844300a9770bb1b81f9fc28b9b" sha1="78aad4becd9948e6847cb477c480e15042b557b6" date="1996-11-15 01:54:18"/>
-		<rom name="CD/M/TGATE1F.RAW" size="76774" crc="c6a7bed3" md5="156e4258fe3ee25689f74e215a8f1e13" sha1="35a5da90ac2a3734f2f32de475ee2146e77604f9" date="1996-12-19 10:08:42"/>
-		<rom name="CD/M/TGATE1G.RAW" size="37134" crc="3de28ad6" md5="1027ec59614318cae2d0e8b51bcaf54b" sha1="8f78ed51cf5508c14c34e4c8608d53ed0b36c356" date="1996-12-19 10:13:16"/>
-		<rom name="CD/M/TGATE1H.RAW" size="76492" crc="3197b4ea" md5="23e6938f1d51a510c60fd72f961cbac9" sha1="46bee77bd969876a3497089f812abc21b8c3b123" date="1996-11-15 01:54:14"/>
-		<rom name="CD/M/TGATE1I.RAW" size="18922" crc="b7131bd2" md5="7e590a67b84c2f0dee9dcd918f7a51e5" sha1="e54b5f42b6347d24f557f7b7e6fd72e84c2f0405" date="1996-11-15 01:54:14"/>
-		<rom name="CD/M/TOWER1.RAW" size="84954" crc="15633587" md5="b3a9b47f44776e99c37c626cb974a1b2" sha1="5b5f7f026ef31645aef86f8dbcca0c61db89e7d4" date="1996-12-19 10:16:52"/>
-		<rom name="CD/M/VICAR.RAW" size="45898" crc="2b582686" md5="6d0916d51019a8dda162240aa72d4abf" sha1="030771c9d13bef812042d171517ceec42f60d817" date="1997-01-21 12:03:48"/>
-		<rom name="CD/M/VICAR1.RAW" size="29008" crc="4927ec8e" md5="7fd18c3fe1800bc607fe5a1cf30bb024" sha1="3795b7ddfefde9adf7c8468a672fef8258009306" date="1996-11-15 01:54:40"/>
-		<rom name="CD/MIDI/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-02-18 21:51:56"/>
-		<rom name="CD/MIDI/DRUM.BNK" size="5404" crc="de24f428" md5="7ecc2b70d2eb0d93475aca120b21e46b" sha1="9de1d6bcb7237d72a86ad89c863be6bdf90710e3" date="1994-12-12 07:26:52"/>
-		<rom name="CD/MIDI/GRAVIS.INI" size="536" crc="94912b82" md5="e6f30ac9fe0d9f8d0a0f9bdb68ba0134" sha1="ae95332082d6cb61d05603dcb955cec1c57f654c" date="1995-10-26 11:39:42"/>
-		<rom name="CD/MIDI/HMIMDRV.386" size="117776" crc="24ef6991" md5="ddfac2fec57dfd841ccfb64adee3b35e" sha1="2a5465355553646586de2368c4cd70d30697247f" date="1995-02-05 23:00:00"/>
-		<rom name="CD/MIDI/MELODIC.BNK" size="5404" crc="14230f9e" md5="2adb649534bd5cd78900d416149c9642" sha1="4ed686ff38407ed0a33d20f0eadd45452f0d4d63" date="1994-12-12 07:26:52"/>
-		<rom name="CD/MIDI/MT32MAP.MTX" size="1104" crc="1b753745" md5="23aa641a6b7a5855eecfb6fb48be7dc1" sha1="ca6c84a6f50c2f989bf3cace9767dec8a699b614" date="1994-09-01 07:56:48"/>
 		<rom name="CD/README.TXT" size="13403" crc="7a99a4e7" md5="e4d4824c3d7a1492438813b9cbf13ba6" sha1="21628f282c224fa231e79e003b310780f2a98773" date="1997-02-12 06:43:26"/>
-		<rom name="CD/STARTREK/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-02-18 21:51:56"/>
-		<rom name="CD/STARTREK/DATA.DAT" size="83782" crc="85819afd" md5="553690fa5391bec3d48198bf38c39db1" sha1="533f4531bb2bc7c0b26a2357aa38b4eb9cd87840" date="1997-02-13 10:49:12"/>
-		<rom name="CD/STARTREK/HMIDET.386" size="81990" crc="637c56a8" md5="59b3f813848cda336763648d628db917" sha1="27a06eb94b0abf13139c311ebed73358b20bcdab" date="1995-05-30 08:08:52"/>
-		<rom name="CD/STARTREK/HMIDRV.386" size="261425" crc="f6d116a3" md5="bd16499c7c0ef8cebb0999373edc5361" sha1="becd7f4a413a1966986b4c41c860b678d7244d58" date="1995-05-30 08:08:52"/>
-		<rom name="CD/STARTREK/SFADEMO.EXE" size="537999" crc="d266e87e" md5="1509d2536e4392b481a5d66db4f1d606" sha1="c7d868c685c4b270646a15766ed9664528a8326d" date="1997-02-17 13:37:40"/>
-		<rom name="CD/STARTREK/TRAILER.SFA" size="19786542" crc="e717fd50" md5="6b50c9a87ae47febf76c5acf6c2182fa" sha1="ad47c19c80f1fd6c3fc29c5c747bc4f5e0f35309" date="1996-10-23 07:42:14"/>
 		<rom name="CONFIG.INI" size="204" crc="06a82468" md5="4defbe27dfb5662955ef1c172de78ba9" sha1="d334a8e4491c0543de83ebbee66f09bc37f5173e"/>
 		<rom name="DATA/BACKDROP.RAW" size="173832" crc="b6ba13fc" md5="2c9debcf210c1bfa089c5dbfae7d2f40" sha1="d5c3b0170ca5079bd6f9a6f953c78440742287a7" date="1996-11-08 21:14:06"/>
 		<rom name="DATA/FXSCRIPT.SFX" size="14764542" crc="4fb0f7e6" md5="3999135d197890ce4aad9895112ebc91" sha1="8b37ca1c2328e6d79a9cc5bb5c7eea84adbcf308" date="1996-11-08 10:01:14"/>
