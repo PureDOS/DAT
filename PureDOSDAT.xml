@@ -5049,8 +5049,24 @@
 	</game>
 	<game name="Freddy Pharkas - Frontier Pharmacist (1993) (Sierra On-Line).dosz">
 		<description>Freddy Pharkas - Frontier Pharmacist</description>
-		<comment>Maximum install from CD, with AUDIO folder manually copied from disc. Options: Sound Blaster Pro music, Sound Blaster audio, mouse enabled, extra memory enabled, directory C:\SIERRA\FPFPCD. In RESOURCE.CFG, line 8 ( directory = \SIERRA\FPFPCD) must be deleted, line 15 must be edited to " patchDir  = C:;C:\audio", and line 16 must be edited to " resAUD    = C:\audio" (no spaces at the end of these lines). Almost matches with GOG, except for RESOURCE.CFG</comment>
-		<comment_dosc>Required RESOURCE.CFG and auto start. MT-32 option</comment_dosc>
+		<comment>
+			Installed from CD.
+			Installation options:
+				Music: Sound Blaster Pro
+				Audio: Sound Blaster (Default)
+				Mouse: Use Microsoft compatible mouse (Default)
+				Memory: Use your machine's extra memory (Default)
+				Directory: C:\SIERRA\FPFPCD (Default)
+				Large installation size
+			Then manually copy the AUDIO folder from the disc.
+			In RESOURCE.CFG:
+				Delete line 8 ( directory = \SIERRA\FPFPCD)
+				Edit line 15 to " patchDir  = C:;C:\audio" (no spaces at the end)
+				Edit line 16 to " resAUD    = C:\audio" (no spaces at the end)
+			RESOURCE.CFG must be in the DOSZ for the game to run.
+			Almost matches with GOG, except for RESOURCE.CFG (grab it from the DOSC)
+		</comment>
+		<comment_dosc>Required RESOURCE.CFG and auto start. MT-32 option. CPU speed reduced</comment_dosc>
 		<year>1993</year>
 		<developer>Sierra On-Line</developer>
 		<rom name="2998.SYN" size="4568" crc="f53d3f34" md5="c02f95cc8dba95a424fc6e7c7e4434d4" sha1="0c9247da07ba62475edbead9f6cd190abb694907" date="1994-09-13 16:53:32"/>

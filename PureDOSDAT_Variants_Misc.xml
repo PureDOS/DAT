@@ -1623,8 +1623,22 @@
 	</game>
 	<game name="Freddy Pharkas - Frontier Pharmacist (1993) (Sierra On-Line) (Floppy Version).dosz">
 		<description>Freddy Pharkas - Frontier Pharmacist</description>
-		<comment>Maximum install from 3.5" floppy disks. Options: VGA 256 color graphics, Sound Blaster Pro music, Disney Sound Source audio, joystick disabled, mouse enabled, extra memory enabled, directory C:\SIERRA\FPFP. Almost matches with GOG, except for RESOURCE.CFG</comment>
-		<comment_dosc>Required RESOURCE.CFG and auto start. MT-32 option</comment_dosc>
+		<comment>
+			Installed from 3.5" floppy disks.
+			Installation options:
+				Graphics: VGA or IBM PS2 - 256 Colors (Default)
+				Music: Sound Blaster Pro
+				Audio: Sound Blaster (Default)
+				Joystick: Don't use a joystick (Default)
+				Mouse: Use Microsoft compatible mouse (Default)
+				Memory: Use your machine's extra memory (Default)
+				Directory: C:\SIERRA\FPFP (Default)
+				Say Yes to using samples
+			Then in RESOURCE.CFG, delete line 8 ( directory = \SIERRA\FPFP)
+			RESOURCE.CFG is needed in the DOSZ to run the game.
+			Almost matches with GOG, except for RESOURCE.CFG (grab it from the DOSC)
+		</comment>
+		<comment_dosc>Required RESOURCE.CFG and auto start. MT-32 option. CPU speed reduced to make Sound Blaster Pro driver work</comment_dosc>
 		<year>1993</year>
 		<developer>Sierra On-Line</developer>
 		<variant>Floppy Version</variant>
@@ -1667,7 +1681,7 @@
 		<rom name="README.BAT" size="29" crc="0ccee6a6" md5="c826a3d09b06f4f45e5383732f742737" sha1="955dcdcc5a4ed6a45e00cf50c2e57025317ecaac"/>
 		<rom name="RESOURCE.000" size="5233230" crc="7cded47f" md5="0b85b81519b05affce6a764c5708256b" sha1="0d540a1156007000e0d9caa15f2f827c0da0321f"/>
 		<rom name="RESOURCE.AUD" size="4123462" crc="cd21fead" md5="fbac7fe90ea61c7232a328ccb3c09d30" sha1="53103c1d6031c88be3f8f4910ae8d9df588f9c96"/>
-		<rom name="RESOURCE.CFG" size="303" crc="cdd5f0a4" md5="f2083b1aa9ccf4cd34faa8d162ffceca" sha1="9b86cd0084ddfe8eeaa1f33a330bc41aa7c38df8"/>
+		<rom name="RESOURCE.CFG" size="276" crc="c20f3c98" md5="af531ea80e614d6822adb2a40acf39bd" sha1="e850f6ff82c83ed1c136e3f5d3f0eddcc25030cc"/>
 		<rom name="RESOURCE.MAP" size="5816" crc="356fed16" md5="5d6ba5fe9528da7b8a1132e251d589be" sha1="d161d0b07e89b017a04d821e399ca7e4bf04f044" date="1993-04-16 16:23:22"/>
 		<rom name="RESOURCE.MSG" size="331706" crc="005841fd" md5="f98b8c693321003c783842a4557f59a0" sha1="43c5f9bc36266b5eb3d71a2f972b1c1cdac13683" date="1993-04-16 16:07:20"/>
 		<rom name="SBPRO.DRV" size="9766" crc="5dd20d37" md5="1ecb03e9ef121104b9a5cb6a44a5e061" sha1="d8f711fe52ab045d74e154bde17ac9e350393de3" date="1993-03-16 11:11:36"/>
