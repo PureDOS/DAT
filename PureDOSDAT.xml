@@ -5049,13 +5049,65 @@
 	</game>
 	<game name="Gabriel Knight - Sins of the Fathers (1993) (Sierra On-Line).dosz">
 		<description>Gabriel Knight - Sins of the Fathers</description>
-		<comment>Installed v1.1 from CD</comment>
-		<comment_dosc>VESA 640x480, Sound Blaster Pro, and auto start. MT-32 and General MIDI options</comment_dosc>
+		<comment>
+			Installed v1.1 from CD.
+			Installation options:
+				Graphics: VESA
+				Music: Sound Blaster Pro
+				Audio: Sound Blaster (default)
+				Directory: C:\SIERRA\GKCD (default)
+				Full installation size
+				Yes to copy high resolution art
+			Then manually copy the AUD, PATCHES, SEQ, and SFX folders from the disc.
+			In RESOURCE.CFG:
+				Delete line 5 (directory = \SIERRA\GKCD)
+			And edit these lines like this (no spaces at the end of each):
+				audio=C:;C:\sfx;C:\patches;C:\aud
+				sync=C:\aud
+				movieDir=C:\seq
+				patchDir=C:;C:\patches
+			RESOURCE.CFG needs to be in the DOSZ for the game to run.
+			Almost matches with GOG, except for RESOURCE.CFG (grab it from the DOSC)
+		</comment>
+		<comment_dosc>Required RESOURCE.CFG and auto start. Game speed reduced. MT-32 and General MIDI options</comment_dosc>
 		<year>1993</year>
 		<developer>Sierra On-Line</developer>
 		<link type="media">http://redump.org/disc/1767/</link>
 		<rom name="ADL.DRV" size="10445" crc="97b288f9" md5="b7901ed6f8863cee5fa743cd430c8ceb" sha1="11f9d0fac0190967e094196ec2050c7c3885bfb5" date="1993-11-18 10:04:18"/>
 		<rom name="ALT.MAP" size="364" crc="a772d755" md5="edd20299dc96776eaa45e9d193dcc711" sha1="88bfc538617a91c46c68cb9be97d48063cb6ec96" date="1993-12-05 08:42:36"/>
+		<rom name="AUD/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1996-01-09 03:31:08"/>
+		<rom name="AUD/#01J0439.2B4" size="616" crc="4f7892af" md5="44f59527222e74836891dbf86951fa01" sha1="885f3e60cc6ea861c45ad85aade8f8120e42f6cb" date="1993-12-07 08:26:58"/>
+		<rom name="AUD/#01K043J.166" size="800" crc="3c16d14b" md5="51e5cf199bc311bc84fc0f7129df1e1f" sha1="dcfe1341a6bb6b9bf09720832012bc715430f8fa" date="1993-12-07 08:25:00"/>
+		<rom name="AUD/#0IM0100.015" size="56" crc="bba93a62" md5="e5167fa184c0b6eb0e2a2a73707c6698" sha1="b725af9ee58c8da349814f38a860a10c094f0a80" date="1993-11-16 10:11:20"/>
+		<rom name="AUD/#0IM0100.017" size="376" crc="a0cc8255" md5="65ab64c386d68a85a2a6d78d9aaceb4d" sha1="ce801a5daabce3681a6e2053282c1b84955b636c" date="1993-11-16 10:16:32"/>
+		<rom name="AUD/#0IM0100.019" size="168" crc="8adaf94e" md5="44b02d4b91a77d40f9cbac005bffefbf" sha1="71ee063217daa41755c5913ea6469b650f288bb4" date="1993-11-16 10:19:42"/>
+		<rom name="AUD/#0IM0100.01B" size="584" crc="c8699966" md5="327fae64da2a36f2d2c5be2fd61abe49" sha1="9d3cde13b092d15f20ffda09a476caaed875c203" date="1993-11-16 10:26:46"/>
+		<rom name="AUD/#0IM0100.01F" size="104" crc="695e52e0" md5="e00bacc816f84f58359337b72c13c3cd" sha1="3aee2fd2b8fe035c692db3062e1a880ebf4aa583" date="1993-11-16 10:27:58"/>
+		<rom name="AUD/#0IM0100.01H" size="272" crc="8399f94c" md5="c5ea4d1b5395e2323aa6c58bb5ce88af" sha1="7b73685d5c5d65ee4d990a9f2bf55558c9c6f8fe" date="1993-11-16 10:31:20"/>
+		<rom name="AUD/#0IM0100.01J" size="32" crc="2fbb5a84" md5="ce3718aefc94a4612a2534cadc59c29c" sha1="186afa1a8bd979d303a7bc9d3fd8bbdb918f6044" date="1993-11-16 10:33:44"/>
+		<rom name="AUD/#0IM0100.01L" size="80" crc="c87f9994" md5="4ee542c17928e733abd7b8ea89d93a25" sha1="635e4f46842fc48460dd6f08c8acd1b425e16f73" date="1993-11-16 10:34:54"/>
+		<rom name="AUD/@05V0L07.001" size="148694" crc="6d67725e" md5="f776f0d0dbd5b2fadb6efe3a9317e28a" sha1="928854e836d88aaa8cf96ef28dd7cd4e25272b5d" date="1993-12-05 11:20:56"/>
+		<rom name="AUD/@05V0R08.001" size="162315" crc="1757467d" md5="4d1f6ee22ff35a6697cf499a2f5b3940" sha1="a321529305b69069f6e89f199cc86dc1018a18cc" date="1993-12-05 13:26:42"/>
+		<rom name="AUD/@06Y0907.001" size="119479" crc="db8a4fec" md5="17a53cae14f246ed399e4650adfe865e" sha1="fe517eb5478167d6dc47d99eae2d3e1963ab027f" date="1993-12-05 13:26:40"/>
+		<rom name="AUD/@08W0907.001" size="111142" crc="edf19ee9" md5="d475ac560b1619d554565dda78495722" sha1="67185491864801d38d724d81f67ef5262710c143" date="1993-12-05 13:26:18"/>
+		<rom name="AUD/@0960607.081" size="278170" crc="a59f7618" md5="9367640bb43bf6b2740f4caba58c9b00" sha1="66b6604e2334b1f13864b1ec5038c2f2d3e36874" date="1993-12-05 13:26:34"/>
+		<rom name="AUD/@0960607.0A1" size="124009" crc="78fde601" md5="1bf525f03896ca3dd14fb1af4a2a6612" sha1="63c77634b54e730355097c181451d4739b270926" date="1993-12-05 13:26:28"/>
+		<rom name="AUD/@0BO020C.022" size="172474" crc="567d8d81" md5="25c624821571b0c745aad7810980198d" sha1="94c2f119c6b85094531788f12817963b8e6e4e36" date="1993-12-07 07:47:42"/>
+		<rom name="AUD/@0CS0M00.0X1" size="52720" crc="bcab0341" md5="05c9028be4d76be6f2ad40d1f5b77b7b" sha1="d277f1edca0578ca508f33d01789b1feff1003e9" date="1993-12-04 10:38:22"/>
+		<rom name="AUD/@0E6092T.001" size="38925" crc="6a0827a0" md5="e8dcb407170f55d5880f629b70d730e0" sha1="bd7f92ded05e61f16cfab5666ce06f0c142409a1" date="1993-12-04 05:22:18"/>
+		<rom name="AUD/@0E60G2D.091" size="65515" crc="1cef76c2" md5="fc94c92fa9a502f33a43ae781f366933" sha1="6d8bdf9a9a85f43a11b65fc157b97e97f35ee0e1" date="1993-12-04 11:26:42"/>
+		<rom name="AUD/@0IM0100.021" size="30861" crc="5e1bcd49" md5="8b7e87ffb497227f7a18752ebfa338ec" sha1="16ff4ec742e6df061cadd022bacacbe63d7c5d37" date="1993-12-05 15:55:14"/>
+		<rom name="AUD/@0IM0100.023" size="30989" crc="5589a510" md5="42480df56a094fda687db3a3df083681" sha1="c3fe2f14992b696039c083ef8e23d47c9cad379a" date="1993-12-05 15:59:12"/>
+		<rom name="AUD/@0IM0100.025" size="193010" crc="3f1d96ef" md5="b5a15eb3d5e861c062fc0be52f40dc82" sha1="db9c3ecf524e80b213765066d2ac5ab53e15c091" date="1993-12-05 16:02:12"/>
+		<rom name="AUD/@0IM0100.027" size="76826" crc="10a547c9" md5="43ed21bd7b2bbe7380cbfd9931e36d36" sha1="234c6f4a2f12a866bfcd880afd18914d75ec844a" date="1993-12-05 16:03:16"/>
+		<rom name="AUD/@0IM0100.029" size="7501" crc="a548eea3" md5="06aec15a02b051fa6a6bc1aba7b3c4e6" sha1="bcd9b6352a09f74474f0ff5a73a93f9ab3a981d1" date="1993-12-05 16:04:32"/>
+		<rom name="AUD/@0JQ062T.001" size="92941" crc="ee091554" md5="592667f29687031e5e80c9fd46b4d544" sha1="591b9875ada1e274de7e6d346ff3110ec5e25f43" date="1993-12-04 13:30:30"/>
+		<rom name="AUD/@0M80707.0N1" size="69250" crc="6909f7a2" md5="b06871f386ddab57584fbb0aa8e7f101" sha1="0ae06b98930f7a4c270beaec5de79ec152e9c0ea" date="1993-12-05 12:58:02"/>
+		<rom name="AUD/@0MA0207.001" size="146819" crc="0b8c55c0" md5="5c4fd184c9f8728edac26d8882b9803b" sha1="3a2e4e6608967749d2433bb44d1c7f53b6c0dba5" date="1993-12-05 13:26:24"/>
+		<rom name="AUD/@0MA0900.071" size="89329" crc="2bfacb0c" md5="e681d9eaa0713c00c31e1fc89d51fad5" sha1="7fb63b1aeb865d520119a8ec93dd4ff4940fe872" date="1993-12-05 13:26:36"/>
+		<rom name="AUD/@0MB0A00.018" size="182662" crc="678c3298" md5="cee705b8265d63cf1c27e6ea3a976942" sha1="acca43479f107805798717eb8eeb73d0e2e3afea" date="1993-12-05 13:26:22"/>
+		<rom name="AUD/@0MF0406.001" size="50237" crc="1a4a0881" md5="5311d89588f6652e3dfc9038f5adf341" sha1="1e9f24ad7c96636232aa4fe043a730bc5797b03a" date="1993-12-05 13:00:52"/>
+		<rom name="AUD/RESOURCE.AUD" size="354272859" crc="e993df3a" md5="0e2229c87873ca1d861cc67f1813b668" sha1="66738b76dad2b4590ba66424642a4f7f58981877" date="1993-12-03 22:15:08"/>
 		<rom name="CHECKCD.BAT" size="800" crc="bb7f6216" md5="a8448da5df2e2eb04b4f12153640a68b" sha1="34de23160cfef10b84437e7ac4857f6eb70ee2ae" date="1993-11-15 07:56:10"/>
 		<rom name="DACBLAST.DRV" size="4717" crc="a577da3b" md5="49457eb8e21cf8e538b27b6b295087b8" sha1="ac14463cfa20c70119920872759bbc2d6598f1d8" date="1994-02-04 08:35:00"/>
 		<rom name="DACMSSYS.DRV" size="2745" crc="ab47a093" md5="ec96180b719b82913f76d1360e957f42" sha1="ec2cded28f0fb44069e53768579f7a9ebf5ac9c1" date="1993-12-07 13:33:40"/>
@@ -5063,9 +5115,6 @@
 		<rom name="DACPRO.DRV" size="2956" crc="efe84434" md5="b4dcd5ce04380953769947ce988b9fd0" sha1="1ff23d80f81546ac3765375aa932015b634f0550" date="1993-12-07 13:33:36"/>
 		<rom name="DACPRO16.DRV" size="3098" crc="ba17233a" md5="15b7e946ed0ea14c920b70580cd57575" sha1="0c173662b7e3910082ea083e153572aa02d07b63" date="1993-12-07 13:33:36"/>
 		<rom name="DACTHUND.DRV" size="3752" crc="85c36f83" md5="623ec04ae57e3c2d29393442660cc2c4" sha1="3e75e7025deb6d6f6a4cc244c447e03ceb8ad808" date="1993-12-07 13:52:34"/>
-		<rom name="Gabriel Knight - Sins of the Fathers (USA, Europe) (Rerelease).chd" size="758390400" crc="470238bf" md5="032bee3bef6f1abd6f7f783bb9cc59e5" sha1="2cf76419a128dee3bd2fad2a772d8c95c45436be">
-			<track number="1" type="MODE1_RAW" frames="309731" pregap="0" duration="68:49:56" size="728487312" crc="e43d414c" md5="f7765f402d2404e2227a4dcb527b68c0" sha1="4d18f228822e6530968ed4b69b96bbce141f988f" in_zeros="1" out_zeros="0"/>
-		</rom>
 		<rom name="GENMIDI.DRV" size="3058" crc="cf739a2f" md5="d7760675c2fd359b459513384dd2a858" sha1="cf37b4eedbc1e7fdc1a4a42578be63ed01dabdae" date="1993-10-31 15:29:44"/>
 		<rom name="GKCD.BAT" size="38" crc="06d0c56a" md5="6c9d689aa22534b36ccf094f2e65ed30" sha1="3efdaa8094a62193797395ae810f12b9b104d63d"/>
 		<rom name="INSTALL.EXE" size="87524" crc="82607fdb" md5="70a5e183e06dfedc09b7d0f31b31dbc4" sha1="81498daa5f39d2464a8d82e1ecdc5ba17141c01f" date="1995-08-01 15:23:54"/>
@@ -5076,14 +5125,248 @@
 		<rom name="MICROSOF.DRV" size="10926" crc="26c6b2c8" md5="0281447fb80a1a4dc3e6aa1e70fe3f08" sha1="277a6d10644d952f1d0e39a6519083c01f2dba14" date="1993-11-21 13:48:02"/>
 		<rom name="MIDNONE.DRV" size="10427" crc="a21ad12c" md5="6447a122d198fea2715888a4a537429c" sha1="cb2680f695047d24106740e175e8775120f8c4ee" date="1993-10-08 13:22:50"/>
 		<rom name="MT32.DRV" size="3098" crc="09cb013b" md5="b3c987ca06e78e582ec1a953de4b3b66" sha1="832b0f4f66df721e707925f79d5172f880c60abd" date="1993-11-06 14:41:20"/>
+		<rom name="PATCHES/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1996-01-09 05:33:36"/>
+		<rom name="PATCHES/0.MSG" size="17791" crc="5586b602" md5="fd697e376694f65975d8d7f53743f191" sha1="03afcb7472348f72bb8aaab6bdb59df1397b7b9c" date="1993-12-10 07:14:30"/>
+		<rom name="PATCHES/10.HEP" size="50" crc="6552bc65" md5="855fdc81bbd83e3e2f5707822ea0d00e" sha1="e8ff451f4bd15fceaf8d14581f73c17c3ec181d8" date="1993-12-08 01:19:52"/>
+		<rom name="PATCHES/10.SCR" size="308" crc="15b4d4e0" md5="78d117f9a7df1bc3ba4b91c5234f4c1c" sha1="24ad9ec3f1f770b083bd0c04bd5365cebf612648" date="1993-12-08 01:19:52"/>
+		<rom name="PATCHES/10609.V56" size="308110" crc="f7846150" md5="c46ae3fec7492666ca48c5f2a74ec3a9" sha1="c662788813265be8dec88b7c10e56bdae17149bb" date="1993-11-02 05:31:24"/>
+		<rom name="PATCHES/10971.V56" size="61509" crc="105a81e9" md5="8b13e5640cf9234b66e3dede0cf16ba7" sha1="b28684f13e2d4cd058c73cd6871cad531c3fe19e" date="1993-12-05 13:15:48"/>
+		<rom name="PATCHES/10974.V56" size="68793" crc="a236eb1c" md5="45fb952631ac905da95ee160aae7f8e5" sha1="b93e5f23c4f687cd2e901689a9b11f574f8ecd93" date="1993-12-05 13:27:16"/>
+		<rom name="PATCHES/10982.V56" size="82934" crc="91da3d3a" md5="4206e0fb45beedb19743e97c04fd21df" sha1="fe7e2dcc4047875c95f784c7b186d0f02383c1e3" date="1993-12-05 13:30:40"/>
+		<rom name="PATCHES/10984.V56" size="89057" crc="033ffc2f" md5="12d04112f40b05e90f3c8852c4334e1a" sha1="56d8c79c3b770db203786ce9d7131e57eadafc4f" date="1993-11-12 12:11:50"/>
+		<rom name="PATCHES/116.P56" size="22240" crc="550ba59e" md5="babfa241ce19f77c6d81066384f98c00" sha1="ed3925a004aedf0bc6dd327fdb24ee2339698430" date="1993-11-16 11:18:18"/>
+		<rom name="PATCHES/117.P56" size="20613" crc="1252a4f0" md5="301b1d6f09717ee77ea4ee7fdf2e828b" sha1="3c0f131cb941a3120f268d40ca3b2f1840a910b4" date="1993-11-16 11:18:28"/>
+		<rom name="PATCHES/118.P56" size="18572" crc="cb3afbff" md5="fda521f74749cbc4120675dd92d67a41" sha1="5265958abe409f7d1436ba29cf0613a304e009fd" date="1993-11-16 11:18:36"/>
+		<rom name="PATCHES/119.P56" size="20463" crc="2e98ebc2" md5="63dea6642a41406703fe6ab3bec4d55d" sha1="1c92b56616b319c362e473e33071d9e4f319f430" date="1993-11-16 11:18:46"/>
+		<rom name="PATCHES/126.P56" size="7768" crc="5f60f67d" md5="1bfdba4124bcf8e9c858620e402355b3" sha1="b53c0ef1691a72255019b6da04928326a56e0189" date="1993-11-16 11:20:58"/>
+		<rom name="PATCHES/132.P56" size="26973" crc="3b5f5d70" md5="cccb5cd0294735664c6072ace39402da" sha1="6d52d5fbefbea2c47349ee93688189dd89cbb7f6" date="1993-11-16 11:25:16"/>
+		<rom name="PATCHES/133.P56" size="25284" crc="6147adda" md5="0368b945046cfc69a885be47f9565542" sha1="f61e169b0c77ee1e682cace020edea0e57190e60" date="1993-11-16 11:25:34"/>
+		<rom name="PATCHES/134.P56" size="26221" crc="42ee6d01" md5="43f7032329a49f1f1d91209f78ba5213" sha1="71bd546b527525ed75c08b52698443b76853c032" date="1993-11-16 11:25:44"/>
+		<rom name="PATCHES/135.P56" size="26857" crc="f8109e9c" md5="4d00655c0f4ca5e68166b000393452e5" sha1="ee3fce7bf280de00641235a9f3097ca794e4578b" date="1993-11-16 11:25:54"/>
+		<rom name="PATCHES/136.P56" size="26819" crc="6310815c" md5="16462eaf907661df19fc4d77c76ed942" sha1="d3625cf5cdb9f9078066316c0856ab7ff813afa4" date="1993-11-16 11:26:02"/>
+		<rom name="PATCHES/14.HEP" size="4476" crc="9a218470" md5="81eb7ef8fad2e3d782cef1bd6751af73" sha1="e9aff4622eb546218e04e0f35e5e1d943a1a9ea2" date="1993-12-06 09:31:12"/>
+		<rom name="PATCHES/14.SCR" size="4012" crc="e3e2027d" md5="e8b91e4067177d26b1c1dbe65b2ac65a" sha1="938767d49c6423e20861ddcee47e1791e0eda6b2" date="1993-12-06 09:31:12"/>
+		<rom name="PATCHES/17.HEP" size="176" crc="411a6334" md5="8843e8a5a986af55341925c7ddebde53" sha1="22be4c5669606b6fc0540ea7f57c6d6d83ab7553" date="1993-12-15 07:19:38"/>
+		<rom name="PATCHES/17.SCR" size="196" crc="698b49f7" md5="cd408984af66a705cc2acf067fa73d32" sha1="12f6369aa13fff01b3e22cef9b9b341df47d84d9" date="1993-12-15 07:19:38"/>
+		<rom name="PATCHES/180.HEP" size="530" crc="b2a207fc" md5="d5bae3f5afeb559a56d41c136f41772f" sha1="6f96cba1db6c69b8d588ea4f9a45b741f8246f54" date="1993-12-13 05:05:10"/>
+		<rom name="PATCHES/180.SCR" size="1458" crc="1faf42ed" md5="1ab61167e66d3672f2f1f9c97929c168" sha1="2bcfc02c27a5410a70f2cb75d0440a3f3540a8d8" date="1993-12-13 05:05:10"/>
+		<rom name="PATCHES/190.HEP" size="800" crc="8224faaa" md5="d82529f7328c4bfda9b3dd530ef40966" sha1="abfce8b9157db5bf3a441580be47a2038c69c2df" date="1993-12-10 09:01:24"/>
+		<rom name="PATCHES/190.SCR" size="2920" crc="0482f17d" md5="047df6ef8b7ed712bdc669ff468401e2" sha1="5fc09c969388b1424096389cf6a4ba512978c6e4" date="1993-12-10 09:01:24"/>
+		<rom name="PATCHES/19702.V56" size="69530" crc="295d12fc" md5="013aabda7850be225d44a1d962f5166b" sha1="def76d952bd3c73a4f5cb57d49dfc6c9bc7641e9" date="1993-12-05 13:32:58"/>
+		<rom name="PATCHES/19741.V56" size="68922" crc="b0c134ed" md5="9a013edab3da10c3903eb26af819f13d" sha1="22ae89c1224375e13a10e717c544c485f57260b6" date="1993-12-05 14:02:48"/>
+		<rom name="PATCHES/20.HEP" size="256" crc="bb66a307" md5="d67392e153f4fe0ec6145bfb5b2f7a12" sha1="156f5e2089af4be463b2c6af8376a7b0b06044b9" date="1993-12-05 15:05:14"/>
+		<rom name="PATCHES/20.SCR" size="1462" crc="32093b24" md5="d285ba2e213eb6c0f208e2ef42771762" sha1="60b2797bca51fbfb4a97302e71322aeeaa6262c8" date="1993-12-05 15:05:14"/>
+		<rom name="PATCHES/200.HEP" size="1996" crc="2bed9a75" md5="4c6989c74d6e488620497bdf2fb62e04" sha1="b40febe2ba5058d54bebf7735388016472ed40bc" date="1993-12-07 19:11:22"/>
+		<rom name="PATCHES/200.SCR" size="5888" crc="4b3d2703" md5="34c29a9edec3d75fa48dd757f19cd9cd" sha1="e25f2c65ebebf8ae09285708472fc58cad782848" date="1993-12-07 19:11:22"/>
+		<rom name="PATCHES/205.HEP" size="1292" crc="a654a59b" md5="f90e4441db78fead477230aa30fb6134" sha1="8f5156647c9882112df446dba9232cbac838beb8" date="1993-12-07 19:11:28"/>
+		<rom name="PATCHES/205.SCR" size="3008" crc="f8a82eb5" md5="3928f9dca36003910283d675e2b19471" sha1="c26caf8ae5f815aeb7278156d9df2f13f3d3a4f7" date="1993-12-07 19:11:28"/>
+		<rom name="PATCHES/21.HEP" size="60" crc="de22dc22" md5="0285a32b747599df3d656bd2bba53523" sha1="8821a5bcf6e4ce535794734bc842db63b1d2fa16" date="1993-12-13 09:49:46"/>
+		<rom name="PATCHES/21.SCR" size="510" crc="4d08cbd5" md5="fa37bdcf491896156af3d23f402f1d8b" sha1="f784c0d1ad2ae5d1c7b70cb3357e79aaac120c2b" date="1993-12-13 09:49:46"/>
+		<rom name="PATCHES/210.HEP" size="4232" crc="9c3db67f" md5="f948424260cbaa9143efe6a70ae3781d" sha1="9eb6f91256d4b7325c0623872ce9406f60f6621f" date="1993-12-06 09:56:40"/>
+		<rom name="PATCHES/210.SCR" size="15832" crc="a06d83a9" md5="fe5a0e9cf264a441a125ea836b3a071d" sha1="9a937033fa6c44267d899153c6fb0a79a4323456" date="1993-12-06 09:56:40"/>
+		<rom name="PATCHES/211.HEP" size="748" crc="62686a4c" md5="f33628fb5bb6cbe3f6b3c68b73a3b2a4" sha1="bcd430556d580c00810b603f9850b4a0850083f3" date="1993-12-06 14:47:44"/>
+		<rom name="PATCHES/211.SCR" size="7930" crc="0a1aa779" md5="5518675d210f96ca3454daa1949975cc" sha1="3d01b9fe7598acb0b8a297c55b802c6d18b54d8e" date="1993-12-06 14:47:44"/>
+		<rom name="PATCHES/212.HEP" size="1486" crc="cd4ef205" md5="4950664b29c01d5625173803fc892dbf" sha1="03a9e46cc464210375fafe075f4ea689e4fd7f24" date="1993-12-14 12:22:22"/>
+		<rom name="PATCHES/212.SCR" size="14486" crc="37552dc5" md5="6abe0b653cd7c8a1d5bad4512ca62967" sha1="868493c37785dd7261ddda584b507ff35695131d" date="1993-12-14 12:22:22"/>
+		<rom name="PATCHES/214.HEP" size="844" crc="f421f61c" md5="ef30dfc578e74e6f6590a9c75443fa3e" sha1="7e1993868acdb395fddd8aa438cad1f3d7ff14eb" date="1993-12-06 14:48:18"/>
+		<rom name="PATCHES/214.SCR" size="6048" crc="de23e88d" md5="4c8de8d275347c5307118df08475e287" sha1="e69369c5c8bf16cb05a1a6aa8d7a5073a7f8287a" date="1993-12-06 14:48:18"/>
+		<rom name="PATCHES/216.HEP" size="2274" crc="8e8ad695" md5="343ef631dcb799b08729c883d9609b76" sha1="d5175d92f35d04ee1a0fdd57fae7e07671509ad0" date="1993-12-15 08:45:44"/>
+		<rom name="PATCHES/216.SCR" size="2194" crc="5ab49de6" md5="98ae991fec218d6bf63f4d4777ecf2e0" sha1="35bb7e4d547f0a98b3a7ec0f750f1919a4ad98f6" date="1993-12-15 08:45:44"/>
+		<rom name="PATCHES/227.SND" size="30412" crc="f64ea78a" md5="1f2bc18bc7da9e9b16805e30b3da238c" sha1="433a2dfcc0f3fdafca93fc3bf1d1394f365600f6" date="1993-11-29 08:40:28"/>
+		<rom name="PATCHES/228.SND" size="19318" crc="6df976eb" md5="db80ad2a5cb1eb1504dac81558461d93" sha1="405a23f4cd4db61544df7caed97c55cd955d2941" date="1993-12-02 07:24:26"/>
+		<rom name="PATCHES/230.HEP" size="2764" crc="af932291" md5="3c5eb96c6edc7b00d448289e2319d590" sha1="de6b18ab8478e03487fcab88eef05e79d13ba882" date="1993-12-05 05:42:48"/>
+		<rom name="PATCHES/230.SCR" size="18426" crc="2747919d" md5="ab4f081eb888556775fd92c011876b3c" sha1="c30e869c0ec0c646c9d0dca27299d391584ad21a" date="1993-12-05 05:42:48"/>
+		<rom name="PATCHES/231.HEP" size="3272" crc="9f39055a" md5="95f50ba7ccaedee8682a2a28452be315" sha1="faaf9a04ff0b1107bd7a881bcdac8da45e6a7cc7" date="1993-12-06 05:10:12"/>
+		<rom name="PATCHES/231.SCR" size="4738" crc="70d3a9dc" md5="1981da733302fc93f3c9d757656b53ec" sha1="94f396c28011eef507f0d000474fe09700800262" date="1993-12-06 05:10:12"/>
+		<rom name="PATCHES/240.HEP" size="2228" crc="b9c4e8ce" md5="8daabb8d0709c789e99d9e50e2f9b699" sha1="6e216db168f4fba03c77e3f2e499ae211e78a87b" date="1993-12-15 17:00:46"/>
+		<rom name="PATCHES/240.SCR" size="19982" crc="383dfbd1" md5="d6870926ef4c852999ee34b1c3e0ce4e" sha1="afe2698f151d5813ba82c85f23e7aaa0863199c3" date="1993-12-15 17:00:46"/>
+		<rom name="PATCHES/260.HEP" size="4446" crc="c4df0bfe" md5="0889b86ec794f010229522a088d04b53" sha1="40bb57c50a5a04cdc73c1007a9f6d8ca08755d02" date="1993-12-09 05:20:02"/>
+		<rom name="PATCHES/260.SCR" size="16504" crc="d2d5dfe9" md5="ed351806c2fa7fed6c2048255131fcf3" sha1="617787307c86eaf0f99214ab8eaa0c1a4d6f8588" date="1993-12-09 05:20:02"/>
+		<rom name="PATCHES/2601.SND" size="98" crc="bd6c8d8a" md5="13a5cd9be077defd569fba8a1e41083c" sha1="a79cf06d3861e8985d894b4d65b7af7d1adb108f" date="1993-12-05 12:15:38"/>
+		<rom name="PATCHES/261.HEP" size="372" crc="d0dd7f5b" md5="c409bb2304c9548c131572562b83af3f" sha1="a8e35d9bd97b0e0d232a15621180f59eb5312f5b" date="1993-12-05 14:39:58"/>
+		<rom name="PATCHES/261.SCR" size="2080" crc="94aed381" md5="9d020bebfbe1d094a0b4b5088cad33aa" sha1="98e22ffdef1f49fd6c9c1149ba4ade4d45b9c1bf" date="1993-12-05 14:39:58"/>
+		<rom name="PATCHES/264.SND" size="38" crc="3563b29e" md5="e7c1226576eab7fcd24e22a2d73a11b4" sha1="cd4f6b09e3aa33a24851b106bbf38c7f4d0db506" date="1993-12-06 07:13:12"/>
+		<rom name="PATCHES/280.HEP" size="2528" crc="45964a2d" md5="983f2ce00f56a33ace6ac6dc6c41b090" sha1="314ec89836ed43322e221fa4f2e12f1c3641b9d6" date="1993-12-05 05:27:34"/>
+		<rom name="PATCHES/280.SCR" size="7274" crc="3dba9276" md5="bf0fb9c5e0e0a5e65a2a7e546b83611c" sha1="5430a657e441075c3d9db2f19a94b995e3e0d15d" date="1993-12-05 05:27:34"/>
+		<rom name="PATCHES/290.HEP" size="2736" crc="dc2ced54" md5="fdaeae3531df381cf0bc7762a2386f83" sha1="b3d8da172aedf081e2a1f137f80194f49f014598" date="1993-12-06 13:33:20"/>
+		<rom name="PATCHES/290.SCR" size="9930" crc="95b18b70" md5="77015dbb414b2632437c2f69ba9c87a0" sha1="8d695002d9f7902a0cba8fffec47d420d7697c3e" date="1993-12-06 13:33:20"/>
+		<rom name="PATCHES/316.SND" size="30412" crc="f64ea78a" md5="1f2bc18bc7da9e9b16805e30b3da238c" sha1="433a2dfcc0f3fdafca93fc3bf1d1394f365600f6" date="1993-11-29 08:40:28"/>
+		<rom name="PATCHES/325.HEP" size="1722" crc="353c74f8" md5="904b45914b8cfa8e8f0e16aab12c87a8" sha1="e4186e32eca57bcd6c9736dd9753c53e4b28db5e" date="1993-12-05 07:44:30"/>
+		<rom name="PATCHES/325.SCR" size="6842" crc="a9f9d955" md5="90fb6c48838945f739e44b1fd866d755" sha1="ca3974bb0740113005a0c91a2d5e98cbcaeef40c" date="1993-12-05 07:44:30"/>
+		<rom name="PATCHES/330.HEP" size="3468" crc="a09b06a4" md5="adfe33acf8431f3761a1e592588f4875" sha1="966a47fa3871ba4d50bda242ee33fc0a5c0c83ba" date="1993-12-06 21:59:56"/>
+		<rom name="PATCHES/330.SCR" size="5766" crc="175b666a" md5="1ae9db112cc9e2febb93ccf0a4e9aeea" sha1="35beebf44100aa2a1a6d4d61b102ebfa8104fff6" date="1993-12-06 21:59:56"/>
+		<rom name="PATCHES/331.HEP" size="280" crc="b2f2daaa" md5="cd3457188f092b14b8c2d5b7dbbe5e92" sha1="9035cfadad3458ed8996390180043576da4b9aaa" date="1993-12-05 10:24:14"/>
+		<rom name="PATCHES/331.SCR" size="702" crc="405fd31b" md5="3f885d3e889e1cf662ce1ab059ac9df9" sha1="45ca1cb68a4aecd8f86d8325ef584515881203f2" date="1993-12-05 10:24:14"/>
+		<rom name="PATCHES/332.SND" size="22852" crc="f177935c" md5="251fe59f7bcd22037944943d75bb0c97" sha1="9a86647c2237936731c2c9d23f3315ac63921dca" date="1993-12-05 10:13:30"/>
+		<rom name="PATCHES/360.HEP" size="2782" crc="d9842cab" md5="e0321a572d8503c9e47e8b6008615b02" sha1="d12b28ba84cb11478bb82073cfef189fa446c220" date="1993-12-06 20:26:50"/>
+		<rom name="PATCHES/360.SCR" size="6358" crc="cfbbd672" md5="6ecf66176cce496d7b826e20119c4487" sha1="ed0cea41c0705e04823528cbb4629968141baa5e" date="1993-12-06 20:26:50"/>
+		<rom name="PATCHES/370.HEP" size="2104" crc="799d0b76" md5="84cedab0f940a1410eb74077c8953e5a" sha1="ca723a704988e04818e3a34c9bc728c1a56f3a52" date="1993-12-07 09:31:14"/>
+		<rom name="PATCHES/370.SCR" size="6200" crc="f8c3801e" md5="f2a4f530966d994f214585ee74886174" sha1="b4985fded7a5622868484831d816b3eca950738e" date="1993-12-07 09:31:14"/>
+		<rom name="PATCHES/371.HEP" size="1318" crc="7518337c" md5="195c2f90ac10e38d7831db22449dd8c8" sha1="af7eef81dd94bfbed1b1fcb1f538a81285b7fb5e" date="1993-12-16 04:17:28"/>
+		<rom name="PATCHES/371.SCR" size="4062" crc="6f050fe7" md5="16aa85baa1917173aa9155d81a486a8e" sha1="6a6375c01716cca4b3a914aff558b2b6ec585fc5" date="1993-12-16 04:17:28"/>
+		<rom name="PATCHES/372.HEP" size="310" crc="7c0554a2" md5="b4cd9627a2cf66309df2d0236e0d7908" sha1="2583a4c470f5c727cd8ebd403b4c35059d25aea1" date="1993-12-15 07:38:26"/>
+		<rom name="PATCHES/372.SCR" size="576" crc="c5347d81" md5="20bc077534c080cf55ed21bee456a67d" sha1="fec9be6d16cd69a4e656dca804686031366c13fd" date="1993-12-15 07:38:26"/>
+		<rom name="PATCHES/372.V56" size="24632" crc="f99c0452" md5="1b041c86a1aff779532ae237252adf35" sha1="6ada2ea58a3d57f045c96d7f40f1f2c85885915e" date="1993-12-05 10:50:58"/>
+		<rom name="PATCHES/391.HEP" size="1906" crc="4ea4a74c" md5="efb94f35bd995b368eb5ee39caaee7f4" sha1="6921abf527f1d3faa308c535a2c6c4f8b8a7b369" date="1994-01-17 09:52:08"/>
+		<rom name="PATCHES/391.SCR" size="4054" crc="331756ce" md5="3fc9cd2e06361922a9c59dd0ec7cbf75" sha1="d01c48659408323f768ed6d35d7f66bb7c31a3bd" date="1994-01-17 09:52:08"/>
+		<rom name="PATCHES/400.HEP" size="1144" crc="c51b2203" md5="52b102456d7ad39174867992bb4362fb" sha1="46916dc056b1170a66552a38d8ac25aad987de4b" date="1993-12-07 08:42:06"/>
+		<rom name="PATCHES/400.SCR" size="2526" crc="2429a785" md5="1cbf63c9fcb790ee35748b29cbb92b4f" sha1="ac5b1add6728e41ee196bcab1e10b7f5c03e6c83" date="1993-12-07 08:42:06"/>
+		<rom name="PATCHES/401.HEP" size="2358" crc="db0c4bcb" md5="741850213e3df400a11320010a346714" sha1="f114cfc6fafe6d296c97c6134837279fbe981987" date="1993-12-07 05:42:26"/>
+		<rom name="PATCHES/401.SCR" size="6112" crc="068d4263" md5="8fb3771b7d6bbe9ba5505fc7dc8cd979" sha1="8fb03df43589ad507a1a65b8d0f6aef55d87e3af" date="1993-12-07 05:42:26"/>
+		<rom name="PATCHES/410.HEP" size="2402" crc="d0c786c6" md5="03f25f06c101a577cdd733b3299aefb4" sha1="5dbb378481f036c0d22a7f41da307014f132096e" date="1993-12-10 07:27:20"/>
+		<rom name="PATCHES/410.SCR" size="8306" crc="3851aa8e" md5="007d97d5bc226cee416b8d8b3025f1d6" sha1="3af56d0dc199e27ea395f9a47c4e445e380f8f72" date="1993-12-10 07:27:20"/>
+		<rom name="PATCHES/410.SND" size="1262" crc="ff7bae36" md5="17db2feec3e7646d8b2c066a309ed09c" sha1="17cffc0522f087304c851d99c45e5ad9efcea030" date="1993-11-19 09:14:32"/>
+		<rom name="PATCHES/420.HEP" size="3816" crc="f7de0999" md5="2a23ae2b142cc64c9092dce566478087" sha1="b996329535846cd078167f199fd494d7dda7f5b1" date="1993-12-07 08:42:36"/>
+		<rom name="PATCHES/420.SCR" size="11790" crc="8f922074" md5="45df52a66f7eac3e5b41df22ce8c73a3" sha1="1bdea2e825565b1d82b7891d025235fd0e2db28a" date="1993-12-07 08:42:36"/>
+		<rom name="PATCHES/421.HEP" size="532" crc="0b45efb0" md5="144ebc814e56e303108e25a35c6067d1" sha1="9d6484709f771ed6e659bf2fc488a4df9a3f7771" date="1993-12-09 05:23:16"/>
+		<rom name="PATCHES/421.SCR" size="362" crc="99ac7063" md5="9c6942aaf957d9e2ac9f9c3d26680e76" sha1="182e25bb54824c617d2e2f04073c8b95eb7f92cc" date="1993-12-09 05:23:16"/>
+		<rom name="PATCHES/430.HEP" size="2162" crc="f0995456" md5="f7316084b14e5ec1e39e9d8f5a4e0cf8" sha1="3a91730fc7681d957dd52ad49c5a660d605b2eb8" date="1993-12-07 08:42:52"/>
+		<rom name="PATCHES/430.SCR" size="6572" crc="81caaf6b" md5="f8741db23588e618a67c9da408016b44" sha1="597af4b032274eacf754370b6e2891c87f2c47be" date="1993-12-07 08:42:52"/>
+		<rom name="PATCHES/430.SND" size="14256" crc="6a0b89e8" md5="f3c0fa2719d78c7d0c7f0f4e70ba7317" sha1="aee11ec61cf3816f40a23e3b099d384ca7b9ec6d" date="1993-12-01 07:20:40"/>
+		<rom name="PATCHES/440.HEP" size="2950" crc="a51fcb1b" md5="38e37b76a4bed8e6ece1993b7b6808bf" sha1="2cba2616956c4df04b0ae5c6a19b04c595c228f4" date="1993-12-07 11:07:18"/>
+		<rom name="PATCHES/440.SCR" size="6886" crc="d119cc35" md5="0f3950160cf9909a2ee6a93593ceb96f" sha1="ddf47cac1f8e97e92d7f29f649dc66659c624a51" date="1993-12-07 11:07:18"/>
+		<rom name="PATCHES/460.HEP" size="3104" crc="7980a34b" md5="80e4fba408be9126a060fdd0ed50fbb0" sha1="d44722eca0454f3f23626443e34490b618feedba" date="1993-12-13 11:08:02"/>
+		<rom name="PATCHES/460.SCR" size="11510" crc="b9fe27d4" md5="101155550c2386536a1993b98e1a82f5" sha1="8652a24246be68e5b1da559d01d8040e3eee650e" date="1993-12-13 11:08:02"/>
+		<rom name="PATCHES/460.SND" size="31038" crc="e329ab7e" md5="16b63e61bbe58a860b33f47fa59f53e5" sha1="32d26598aa9a227517ddff7d33f908b4f1b94e9a" date="1993-12-15 11:11:16"/>
+		<rom name="PATCHES/470.HEP" size="4992" crc="73d0dbf9" md5="fa06d6e02050da71bb06ebf1a2b93211" sha1="2435e7e747b8f121699d5b395fbe426cf5916915" date="1993-12-09 12:07:02"/>
+		<rom name="PATCHES/470.SCR" size="12264" crc="aa7b0552" md5="d6bb1360f214eee460ba18e0feb09a53" sha1="af20422b29119e49b57759a5c1521772ff24c0e7" date="1993-12-09 12:07:02"/>
+		<rom name="PATCHES/480.HEP" size="6670" crc="cb69c2ca" md5="e0fd572e628b9104d7655e8b464946d2" sha1="3f28b5c6ef62b932de0fd63dcaa31c7aba5218f2" date="1993-12-16 05:47:46"/>
+		<rom name="PATCHES/480.MSG" size="10810" crc="2622a2ae" md5="cde3d3a19f4638a9b8b597376b8d0019" sha1="2dde477c6b86115c7323c227fa6a35a3a174bbc5" date="1993-12-06 10:20:56"/>
+		<rom name="PATCHES/480.SCR" size="9446" crc="8db9d9d2" md5="eacdde591e1c489514df2380fa1e7c06" sha1="82c447f9849e6de124c57326a4d4ba5606e4134e" date="1993-12-16 05:47:46"/>
+		<rom name="PATCHES/480.SND" size="18400" crc="24f75914" md5="6d959326edf4b2c30e0165fc33effff8" sha1="0a6a1a4a594e2602536419396da80fafeb6b7257" date="1993-12-15 11:28:34"/>
+		<rom name="PATCHES/490.HEP" size="1898" crc="d4375b56" md5="29d5f60e4c6cb419ccbac489445e2a8b" sha1="3e86624db5c8b7a9f10c2fefa8b4a9174ed8c8b0" date="1993-12-05 08:31:14"/>
+		<rom name="PATCHES/490.SCR" size="13426" crc="a3d13c7f" md5="568910c36c33cece5b7efdf58e191005" sha1="f98923941743c5e450cd9a397c2aaeee626281da" date="1993-12-05 08:31:14"/>
+		<rom name="PATCHES/500.HEP" size="1980" crc="56c93058" md5="fa8ac110b88cbd4ab19d2ea48d57f644" sha1="d4e52e451ff6315935c197ada08c2cc8077dcc1c" date="1993-12-06 13:31:12"/>
+		<rom name="PATCHES/500.SCR" size="1738" crc="4ed7b24e" md5="e12d72ba42c6d2a93d073ff8218d9d6c" sha1="f8101697f398a01af77b69100e9eb606ae8a1bd0" date="1993-12-06 13:31:12"/>
+		<rom name="PATCHES/510.HEP" size="2964" crc="274ffe29" md5="ec27b435b6de9f49047937494f53642c" sha1="2758f1493414699b15b215cae8aa99938cdbf435" date="1993-12-09 10:07:12"/>
+		<rom name="PATCHES/510.SCR" size="7928" crc="3a1e3f91" md5="5fc15ba9a2ef074395fc3298a6b972f8" sha1="f4cf21d733db43ffca1ec406bf80dc41a4074712" date="1993-12-09 10:07:12"/>
+		<rom name="PATCHES/530.HEP" size="2652" crc="a02844dc" md5="e733b1e7cb7aa1aa79921f5894c12656" sha1="34c2b303f4418ddbb3d4b42938c62dff3f49c46a" date="1993-12-06 13:30:52"/>
+		<rom name="PATCHES/530.SCR" size="7950" crc="db3bcd39" md5="794cf0e33544e27d23b9760e8eb01415" sha1="6d1ba077179601712be6890e311d3e132cb809ce" date="1993-12-06 13:30:52"/>
+		<rom name="PATCHES/540.HEP" size="2378" crc="7a11d83a" md5="7703204c434c1246304c7c0406ce96f3" sha1="0885f1378208cde557c96ca762b3ff900034efa7" date="1993-12-06 13:30:28"/>
+		<rom name="PATCHES/540.SCR" size="5690" crc="8ab0fc17" md5="4d0cd699405ef3bdf776ec5b2356b943" sha1="1114304dbe46209c85c72cce83c1787560e33bfb" date="1993-12-06 13:30:28"/>
+		<rom name="PATCHES/550.HEP" size="2828" crc="e329f160" md5="6c73560fbd31d67a58e8c9174da0c950" sha1="4fdca41e021022367920a9301487a6af5c56422b" date="1993-12-16 05:34:44"/>
+		<rom name="PATCHES/550.SCR" size="6606" crc="79f9acec" md5="6241ed1e224b8ef51ab6f50dada39ccf" sha1="4150707b5bdd5e5d3c4cade767b5b63db0371d82" date="1993-12-16 05:34:44"/>
+		<rom name="PATCHES/64921.HEP" size="98" crc="432871ac" md5="c8601c88e4922145339e3ae097107a6c" sha1="38288295987b87cf93b238efc53f892d0916e2a7" date="1994-01-05 09:53:02"/>
+		<rom name="PATCHES/64921.SCR" size="3650" crc="e0b2dfec" md5="9b05233c9a224e3157d2ba6662709ed2" sha1="9166d4f9d2bc50719820dbf42272906b01ba0e3e" date="1994-01-05 09:53:02"/>
+		<rom name="PATCHES/64924.HEP" size="236" crc="93f1bb36" md5="f4168a7e3c935e69b35711cdfc24dfb6" sha1="74d518ba98f4f0cdd94fbfda864f8f83e61a050b" date="1993-12-07 02:02:02"/>
+		<rom name="PATCHES/64924.SCR" size="1302" crc="13f1efba" md5="090fcd9ac40425c78a4180a80f2683c6" sha1="f8c68203a347848335df546cbadb61fa8a666fe8" date="1993-12-07 02:02:02"/>
+		<rom name="PATCHES/64929.HEP" size="118" crc="dae4f4c3" md5="e7b2b987667bfa9c7768fa24e9609f59" sha1="c9919252b57dedff598b140c260e4fb5ec5d01c0" date="1994-01-07 07:00:44"/>
+		<rom name="PATCHES/64929.SCR" size="732" crc="510dbfb7" md5="8b28219f3bba225d5c8c23b515f3656a" sha1="e9100da8c6a8fbbe696c89d1b9060aaf8e5e1dbc" date="1994-01-07 07:00:44"/>
+		<rom name="PATCHES/666.V56" size="14634" crc="e9bd2f2e" md5="16a8cdfe80a2a0ac9407dc44b467a630" sha1="6b3f1599e2172876d8fde17d1382c2d46a296eb9" date="1993-12-02 07:07:48"/>
+		<rom name="PATCHES/675.V56" size="16970" crc="f0e36df4" md5="a96c933721f854fd7b80cc6c4c793a9a" sha1="fe0b954da8ba30e39f6920bde7209f40db215c59" date="1993-12-05 07:48:16"/>
+		<rom name="PATCHES/700.HEP" size="1186" crc="fdfbab4a" md5="db601a74e81aa4c3e8f2863aacba9913" sha1="0bf4427132fd2c70ba26c730005faca999560c39" date="1993-12-06 12:40:52"/>
+		<rom name="PATCHES/700.SCR" size="2820" crc="549993c5" md5="9af8841486609d85748f5f3d97806b7c" sha1="0c58618cb0cb3468fe9cd7f6e1abe5f8e4518c86" date="1993-12-06 12:40:52"/>
+		<rom name="PATCHES/710.HEP" size="4278" crc="1b4892db" md5="acadb052a90f68df2e8a6bf6b04a6573" sha1="32814891717ab98033166f16a476e7117abc1029" date="1993-12-14 08:26:20"/>
+		<rom name="PATCHES/710.MSG" size="17749" crc="4831e5c0" md5="9061ad25288448388155ef380bba28e0" sha1="8be3f20a3ff7cf20884d24d7d4e8f5055df34e78" date="1993-12-04 14:33:04"/>
+		<rom name="PATCHES/710.SCR" size="16286" crc="9ecc6165" md5="b428efbaaec2eb2a308315a75065b036" sha1="c51ccf1e66637d00e5d67cd902922476d747a51b" date="1993-12-14 08:26:20"/>
+		<rom name="PATCHES/720.HEP" size="3926" crc="d6b1f2ac" md5="f87584c5cba7adb94a3c4b8b3c233d81" sha1="d716dc299518629ff4048f82e322cede154ac4c2" date="1993-12-16 10:16:22"/>
+		<rom name="PATCHES/720.SCR" size="12552" crc="1586f156" md5="2d2eeed37babb742df3e92a9514f4e83" sha1="fb75e9d4fc0287e6d59e340089842ef89723bc89" date="1993-12-16 10:16:22"/>
+		<rom name="PATCHES/770.HEP" size="484" crc="191569fc" md5="e883f5e548191fb4095c7ac7d6fa4c94" sha1="e27a201d09bd571ee644167d2a6b71d56d4614db" date="1993-12-06 13:00:32"/>
+		<rom name="PATCHES/770.SCR" size="652" crc="ceff9d20" md5="3406b27b75b64278b999a4d6a96a8472" sha1="6c12d55b16fb154ec6033a38cffdd98531c28032" date="1993-12-06 13:00:32"/>
+		<rom name="PATCHES/791.V56" size="47654" crc="849bacc4" md5="c1717dde72ae6a9294a6543d0bb7be23" sha1="fad650d9dd7df1bbcbd0189cf554f35d16e47fe1" date="1993-12-06 05:14:40"/>
+		<rom name="PATCHES/800.HEP" size="2154" crc="dc334423" md5="69ce4c629de245b834461f5078d2a915" sha1="bec1c7c923512f3dc0054faf541e01017f956919" date="1993-12-06 07:50:50"/>
+		<rom name="PATCHES/800.SCR" size="11490" crc="abe063bc" md5="746df23013cd166eab9c77b80eccfb77" sha1="e7d4307ec1d566c92b56c015a372f3f31cb1129f" date="1993-12-06 07:50:50"/>
+		<rom name="PATCHES/802.HEP" size="1428" crc="80e0f822" md5="80bc69ed1711b9f99b859b79af8f491a" sha1="bbc6b7e0926963254b779db23ea4e28ff862f130" date="1993-12-05 14:05:08"/>
+		<rom name="PATCHES/802.SCR" size="3896" crc="121caa8b" md5="ed2ee52f88f735f2b1393caf68efebba" sha1="22b5196114ebc9193856a936efac65ccd66a7d26" date="1993-12-05 14:05:08"/>
+		<rom name="PATCHES/803.HEP" size="2160" crc="d489d9e1" md5="eb987854623543b9d8e48ab8363c736f" sha1="579421d4031365cbddd030439fe8001d3f978d1b" date="1993-12-05 14:05:14"/>
+		<rom name="PATCHES/803.SCR" size="3754" crc="7d34c87d" md5="f7bdfb786c8a7b870027066e6f0a454d" sha1="029048bd5a7d4c97066f951b18f8b9246369f318" date="1993-12-05 14:05:14"/>
+		<rom name="PATCHES/805.HEP" size="2126" crc="6fb5a396" md5="bad6deafdaf56db0ee0a8bec37a201ff" sha1="d97dc907e1e30688b103ba5781b6d19725ea44e6" date="1993-12-05 14:05:22"/>
+		<rom name="PATCHES/805.SCR" size="2348" crc="dc9f9e8c" md5="e35f81909e063750f8003a20cd32879c" sha1="c65bc95eca49f8eb6662041106f7d5cc97131a00" date="1993-12-05 14:05:22"/>
+		<rom name="PATCHES/808.HEP" size="2068" crc="8b04e9f3" md5="f86bc2c7f71453ce9de89ebbd6209d09" sha1="05c6dacded24aa3a09c64ae757f13971252bedd6" date="1993-12-05 14:05:32"/>
+		<rom name="PATCHES/808.SCR" size="8006" crc="5cc42817" md5="37081864df636faf238292219fc2a3cd" sha1="6f0c6ffb04571975767481ccf8b499d5e703e67c" date="1993-12-05 14:05:32"/>
+		<rom name="PATCHES/810.HEP" size="2308" crc="748de4fb" md5="ec065c500103b6835484cf441c2a469d" sha1="9d04029d50f68462856d8e8c879a6f3b355eb595" date="1993-12-05 14:05:42"/>
+		<rom name="PATCHES/810.MSG" size="1878" crc="e980c4b0" md5="562282a5d57a31734cd226f55e43e4d5" sha1="f307cabee7ab932bbd81cb64bc8a8d6863ea5dc9" date="1993-12-05 08:58:54"/>
+		<rom name="PATCHES/810.SCR" size="1402" crc="3db7103f" md5="e142f7626c29842032c67063eec94881" sha1="4208cda3fc513b46d6bd184b7131e33f47ed1dcc" date="1993-12-05 14:05:42"/>
+		<rom name="PATCHES/899.HEP" size="2162" crc="db247786" md5="cda64794e3d9a7366059ec28fe49f994" sha1="ecd72859c9e7af2b89df571cf632f29c66066df4" date="1993-12-06 06:19:44"/>
+		<rom name="PATCHES/899.SCR" size="17032" crc="8f528b1d" md5="88e6ada7a6cc8bbbf9c696c8295c2827" sha1="0a3c7c6231ee0bcbbdcd3d6a650e086061d0f52a" date="1993-12-06 06:19:44"/>
+		<rom name="PATCHES/900.HEP" size="1206" crc="f87c384f" md5="33690bc5e1220b2884c499f25f401014" sha1="28f5da078c1de220bc6d675dcf7aa03c85c52768" date="1993-12-07 07:44:22"/>
+		<rom name="PATCHES/900.MSG" size="26722" crc="c48b88ec" md5="cc246a457088df0c01c62fa01315844e" sha1="a375ebf06ba0c247fc3ea98e2bba58083f7dc846" date="1993-12-06 10:11:54"/>
+		<rom name="PATCHES/900.SCR" size="7142" crc="7ce43989" md5="62433c0fa990e8984fe97ae9c11d4de6" sha1="465c9e3f521ab9f160cf93d961a1853caba095b0" date="1993-12-07 07:44:22"/>
+		<rom name="PATCHES/93.HEP" size="288" crc="01d1e40f" md5="27fbc96e4e0e4fee5d577c325d7deb22" sha1="a00fbe686b2bf51b7b4b44b9129cff494ee98887" date="1993-12-06 21:36:22"/>
+		<rom name="PATCHES/93.SCR" size="622" crc="8e661d33" md5="53e5d0a55aa8c99296c2f2307c75eae2" sha1="63a8896f3c5164f1e209b19bfffafe10677ab028" date="1993-12-06 21:36:22"/>
+		<rom name="PATCHES/94.HEP" size="392" crc="873d43ff" md5="628eb32884668a9438d1b677a22f07a3" sha1="86e93609cb70c018b6b5b4e292f8f25f28f4ee46" date="1993-12-14 00:49:52"/>
+		<rom name="PATCHES/94.SCR" size="352" crc="4007e450" md5="0636a624602e96456dcf881c968acb85" sha1="8e425476c66f39db1abe57c1a409ec4f0401f8c5" date="1993-12-14 00:49:52"/>
 		<rom name="PROAUDIO.DRV" size="11411" crc="d176473d" md5="b7fb4946ad4ec02d471e1ac9e56fbec1" sha1="8096fb94ec5e7538a72fddd88a93da198dcbe4a3" date="1993-11-18 14:57:32"/>
 		<rom name="RESOURCE.000" size="12581736" crc="79be8b9f" md5="131d3a2c2c60a569c5b82b2697df4d99" sha1="faef4f118522ac1cd5784e6eba3c3d17bd17d995" date="1993-12-04 09:34:20"/>
 		<rom name="RESOURCE.ALT" size="3622654" crc="57a7e56c" md5="296049aa7dcf7f515a9abd2b0764c77a" sha1="08c5a07b3c3b29f1b609a8b400e850676324fe24" date="1993-12-05 08:42:36"/>
-		<rom name="RESOURCE.CFG" size="370" crc="e5db4ec6" md5="5c8689733cd2b1da00be2179b8ea8425" sha1="973eefdb80906e38bcc89c9c2ebdd901058b6320"/>
+		<rom name="RESOURCE.CFG" size="310" crc="22ef607c" md5="5d486353154209931d21d91abfbfac26" sha1="75155782c9134cce8ebe1186c58a2699d564ce1d"/>
 		<rom name="RESOURCE.MAP" size="10996" crc="13a69dcb" md5="0bc1ce4063f6cf8daf3e14f36475451c" sha1="5cf8bdcd01c0f2cb4f6e0bdd859d0517d2dc1d9f" date="1993-12-15 13:00:42"/>
 		<rom name="RESOURCE.SFX" size="13589592" crc="a8603a44" md5="537f51c8e32c2bef90b24a09b549e8b0" sha1="4a5a8c42e0dbd0b9bd46a6bd8808620a2ef9b877" date="1993-12-04 08:25:06"/>
 		<rom name="SADL.DRV" size="10429" crc="2231e08d" md5="b030e8c495e215d2689c01d570c30419" sha1="5266e66a06ff9c1e413274ab9711541663fe65a6" date="1993-11-21 14:08:46"/>
 		<rom name="SBPRO.DRV" size="10970" crc="466fac86" md5="162d35e8828f43fe2fcd087aadddf851" sha1="57c83a841c12570db2ca809ba140326a6f30e025" date="1993-11-21 13:47:06"/>
+		<rom name="SEQ/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1996-01-09 05:34:28"/>
+		<rom name="SEQ/1.SEQ" size="473370" crc="315b40b5" md5="1d2548a973ad91e09ac0b02564958a7c" sha1="643df2db45aa671eddfbd4f9c136f9adc6b6d53d" date="1993-05-28 13:23:22"/>
+		<rom name="SEQ/2.SEQ" size="1018418" crc="2add1bfe" md5="7a67b74ce0617c8d2cd15dfcb39a93a6" sha1="dbfc22bfa1fc53239c3efc638797ccb0f89d110c" date="1993-10-15 07:18:26"/>
+		<rom name="SEQ/205.SEQ" size="278572" crc="33b92d10" md5="62e5b6a5edc1f861e2587867a4e07fd2" sha1="84f0cb4cdd36264b62eea513fd9a6c147beb0249" date="1993-10-16 10:58:28"/>
+		<rom name="SEQ/905.SEQ" size="595112" crc="a58b3b0a" md5="b5ddb28832b3e8e62053fb36ee1fd9d3" sha1="f03fd23bca18559d1e64dc9c1de3240a7e2f8d2d" date="1993-08-25 07:49:46"/>
+		<rom name="SEQ/BLAST.SEQ" size="368403" crc="8817d6f3" md5="11b75cd9cf56f2d4e693423f0bd11ef5" sha1="5ae3f74d4f8a799a0097a061de4bfd9081bc63d6" date="1993-10-01 12:49:12"/>
+		<rom name="SEQ/BLOOD.SEQ" size="197528" crc="7d3fc89d" md5="b28a7790b9d88155049e47b175214d04" sha1="b9eecfb56d8ee09fb9c00470a9c1116dea7b16ff" date="1993-09-22 11:00:54"/>
+		<rom name="SEQ/DRAGON.SEQ" size="615440" crc="38b5e5bc" md5="084e58376389adba0677fa70ea4137f5" sha1="5a54c722580bd23715d2f4de26110998cf5dede8" date="1993-11-03 04:03:26"/>
+		<rom name="SEQ/FIREWALL.SEQ" size="209236" crc="d4ced0f5" md5="9e15de3bd8a83180ab9dc14a6ac62119" sha1="9ad4f3d531870707865c443d39a5546d30accce6" date="1993-10-01 13:07:20"/>
+		<rom name="SEQ/HANG.SEQ" size="475352" crc="d0dbb821" md5="ae792ed1519d214a369f79d8692e01b5" sha1="d22bc7be4dc36b321a86bd641cae4cd418cd052e" date="1993-05-28 05:40:26"/>
+		<rom name="SEQ/KNIFE.SEQ" size="339392" crc="8a0974b4" md5="8721eeb899fd248842e9bc7263bdf5b5" sha1="f1903e3d9402f77a762c80449005e8435a91ec7e" date="1993-11-02 12:24:46"/>
+		<rom name="SEQ/MAP.SEQ" size="315088" crc="2e85faf8" md5="6e5d2feeeff27469021dba116b5a37c4" sha1="3c658d63a4371e1765d3c9de7d642e42893bdde9" date="1993-10-19 10:45:24"/>
+		<rom name="SEQ/MORPH.SEQ" size="426781" crc="6044884f" md5="70067cc9699bb750b89ac8472a12db95" sha1="5e90894d391bf4ef9c0f2f3a125ec6e262914e31" date="1993-09-22 11:07:58"/>
+		<rom name="SEQ/MOTOR.SEQ" size="662399" crc="c818900f" md5="043df8adb843f7adae7914925d0a84aa" sha1="a660ce576a357841e9af016b6424664c3f7f538f" date="1993-11-08 10:52:06"/>
+		<rom name="SEQ/OLDTALIS.SEQ" size="436745" crc="9125ad81" md5="c596e4049dd6b175ef305b4ed7f0261a" sha1="68882eddd97f9a6bcceef25b2474ae7b9dd06ec0" date="1993-11-03 07:57:08"/>
+		<rom name="SEQ/ONLY.SEQ" size="128767" crc="4f4430e8" md5="930e8edd3a4ece0b2fb24d809247cf96" sha1="3835bdff89716d28206b474d203e2ca6e1cb0a79" date="1993-05-28 14:59:02"/>
+		<rom name="SEQ/PAN1.SEQ" size="823275" crc="a8eeac28" md5="83859b469d01aa421af390ac5f34c47d" sha1="75c5547f985a75a071b9c8caaa4a6dfcd3970607" date="1993-05-30 07:26:26"/>
+		<rom name="SEQ/PAN2.SEQ" size="809046" crc="f3525180" md5="ee1d7495c5f2196500b5d098ac57e86a" sha1="00a57bdc84119e82c617d6dd694252af10dde7b9" date="1993-05-30 07:31:12"/>
+		<rom name="SEQ/SHRINK.SEQ" size="234009" crc="25bdbde0" md5="f7b2e4ee79ffa35cb75661cbb642284f" sha1="800fab8e8c6235380667435850bad66a142f140b" date="1993-10-01 13:13:16"/>
+		<rom name="SEQ/SNAKE.SEQ" size="309659" crc="a051b81c" md5="7fb86d278c91e401fb54e4c234b4cf2e" sha1="7f2fb754083eb4c0e981ba2509a2a51b17a5b047" date="1993-05-28 14:03:18"/>
+		<rom name="SEQ/STAB.SEQ" size="124341" crc="40f92842" md5="31047ff24897feaf420274b5173b044c" sha1="54a358b66e6052bdb82c3fe0e16e4d1c47bf9236" date="1993-10-01 13:18:26"/>
+		<rom name="SEQ/SWORD.SEQ" size="207478" crc="dca94af0" md5="091368a945c9912379a6881cc5620432" sha1="81ed30fa56eff9b14ffb178a351d7f1a7686302a" date="1993-10-04 03:31:20"/>
+		<rom name="SEQ/TALIS.SEQ" size="834460" crc="061c754a" md5="9fb9f140d61c427ac0d35744fa9b2b9d" sha1="f31c52261c285cb5fe78059da4f79251655f2548" date="1993-09-22 10:49:12"/>
+		<rom name="SEQ/VEVE.SEQ" size="172306" crc="f701f9e3" md5="c11fbbfa5bf5fef2e5f3bced9e016bde" sha1="01b7f1b0d8d30b430bf0f8a5355fe8d649444f26" date="1993-11-02 07:07:22"/>
+		<rom name="SEQ/WAKE.SEQ" size="238813" crc="304f536c" md5="e6969ec55ab71b4b6dcfed118f1425bb" sha1="57dbebb6bc32edf420c9c8018537e7d657990e26" date="1993-11-17 13:31:42"/>
+		<rom name="SEQ/WICKED.SEQ" size="573952" crc="f2ed6b38" md5="ff73a13b7cdecec87242d7a87b6c2331" sha1="556b57e6deeeb228b626dea421567d30c120b7a4" date="1993-10-04 03:43:56"/>
+		<rom name="SFX/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1996-01-09 05:36:08"/>
+		<rom name="SFX/14.WAV" size="36912" crc="b23fc212" md5="4992935d44f92e8266fa394a317e3059" sha1="2ce5d18bb1ea9faac1d423e9841d8d58f7a92411" date="1993-12-01 06:22:52"/>
+		<rom name="SFX/201.WAV" size="283979" crc="8bbc708d" md5="e32d46b994702ab2b3372019fbe3913e" sha1="e7187cccdfdf80319015aae2171223bf6f65a81a" date="1993-12-03 10:19:22"/>
+		<rom name="SFX/264.WAV" size="11537" crc="33269f77" md5="5de72a6842f3c17a6d31a6c8cb69c1b8" sha1="4bd4ea83006b9ef8ee810edbba87f58dca960cf8" date="1993-12-06 07:13:12"/>
+		<rom name="SFX/299.WAV" size="71981" crc="9d1fabe6" md5="25370c0b75a6e6632da1429b9c549172" sha1="7d0c3d7ee4d10d1167f8c22a3299aaebec4e5bd6" date="1993-12-05 06:49:44"/>
+		<rom name="SFX/303.WAV" size="3690" crc="f5cd2ad5" md5="70e006fbc44a17b6a4579d901be06e63" sha1="8752fb74d430d1263eb64ba468202284042132ef" date="1993-12-01 06:29:06"/>
+		<rom name="SFX/306.WAV" size="12543" crc="ddbb49c9" md5="3473c0fed878691ed9c7617989ded0be" sha1="15bad63866c233e00284ef11564e114da91823c5" date="1993-12-01 06:29:08"/>
+		<rom name="SFX/307.WAV" size="67135" crc="b4aacc14" md5="931b785ebc20a230ea12f6ef2f912183" sha1="b14e1a1a088c46e17ab32f0f0ff0199a19f78674" date="1993-12-01 06:29:16"/>
+		<rom name="SFX/375.WAV" size="516038" crc="8c4a2401" md5="0cd2c49681760ef06e1836698bafcebe" sha1="462cc478acb9c7b67b41e80bad13521dbfa5a681" date="1993-12-01 06:30:28"/>
+		<rom name="SFX/376.WAV" size="45934" crc="2d71fc0d" md5="b860b4b5eb27a954e030d60ac4303c84" sha1="7d3ed07c3bd12d8ebb93492e8c3abcf718ee1dab" date="1993-12-01 06:30:32"/>
+		<rom name="SFX/4301.WAV" size="55663" crc="e3f90072" md5="e5c330c50d29f0d0346d0f11dc86b655" sha1="e1e5db3bbe4c7c2f2a3e98eec499cefe0a80255e" date="1993-12-01 06:56:40"/>
+		<rom name="SFX/4302.WAV" size="87875" crc="cc2829aa" md5="fe7806403a92879e859957aa88aa47d3" sha1="c820dd352650517766009856322c22a739927cc2" date="1993-12-01 06:56:50"/>
+		<rom name="SFX/4303.WAV" size="73551" crc="ab4a131e" md5="657550163fa9a5f3c77c3a28894b2b80" sha1="bca40ff5c1282d88af6ad22a5b71945fd593328b" date="1993-12-01 06:56:58"/>
+		<rom name="SFX/4304.WAV" size="43227" crc="789cf80b" md5="e1cab842bcbb835169a567ca2bb24c18" sha1="2aa4563ca9e8953919bd5f1ab496cc92edf953d4" date="1993-12-01 06:57:02"/>
+		<rom name="SFX/4305.WAV" size="164983" crc="801eb17b" md5="a2671ba1d28d7385551abc8bd1bab298" sha1="8b2f9eb46021c44da5f4e9553df3839faa2249c2" date="1993-12-01 06:57:20"/>
+		<rom name="SFX/4306.WAV" size="170715" crc="6e6ae671" md5="0ec76a388e849a31a0de6a18d6523b6f" sha1="85ebdb6dfe85b74582e37b177f69efedb223a307" date="1993-12-01 06:57:38"/>
+		<rom name="SFX/4307.WAV" size="136759" crc="4ec15c30" md5="113c01d210471aad55b44504975cbd53" sha1="17bba143537478a4d3381c6c1772d24881c91913" date="1993-12-01 06:57:52"/>
+		<rom name="SFX/4308.WAV" size="80755" crc="0bcb46a5" md5="e9afc7acc4532a837832e949c2bc6c6f" sha1="1188cd5b97411de3a93157b902766deb31ac0ce7" date="1993-12-01 06:58:02"/>
+		<rom name="SFX/4309.WAV" size="158811" crc="2448a684" md5="8cd96e99a825b3645d9a4e60d42c1e25" sha1="285a3efbf8e82a6e77bc41b71ab1dc10022f8dc2" date="1993-12-01 06:58:18"/>
+		<rom name="SFX/4310.WAV" size="248775" crc="4e8a6753" md5="2d3cba20ece89e7ffb02a1f49c165f33" sha1="c069565baa947973fbb301b555ef8159f9f68a24" date="1993-12-01 06:58:44"/>
+		<rom name="SFX/4311.WAV" size="281409" crc="6eac36f1" md5="4ee8e1b1984241508137ec173cb62573" sha1="416abe6a25e4813c5ec1ac9748c1dad972461f95" date="1993-12-01 06:59:14"/>
+		<rom name="SFX/4312.WAV" size="25688" crc="7806d9b5" md5="5b785b7046aa5a700c8a709e7a1ac2dc" sha1="916572c22b043eec8fc1ff6583fdf712efa11abf" date="1993-12-01 06:59:18"/>
+		<rom name="SFX/4313.WAV" size="12504" crc="1e72ebb8" md5="b4c78d595afa0d56c89b8cb97b561c23" sha1="90259bb633aef9e638d0a4ef309710161d315671" date="1993-12-01 06:59:18"/>
+		<rom name="SFX/443.WAV" size="103648" crc="f6d59ab9" md5="a00bb1b2b2b22acabed08a49314776f3" sha1="aaca6adcbe6fedaf58245338f7c1faf12b28d4b8" date="1993-12-05 06:25:02"/>
+		<rom name="SFX/461.WAV" size="123947" crc="990e192c" md5="3deed8c4db2f6410d748ca1ee2f17c18" sha1="3c9a8f68fecb3a2f1461ad8e1e4a334ebdff20ee" date="1993-12-06 09:46:40"/>
+		<rom name="SFX/482.WAV" size="165854" crc="9e01eb17" md5="52ecd5a09641fc14a03454e78f5fb9d5" sha1="3a731d0066e23506a02c9e9c6638bf4d5f33583b" date="1993-12-06 10:28:22"/>
+		<rom name="SFX/5.WAV" size="6951493" crc="c294112a" md5="ef68706542bbb8d3fa633246a4ae9e4e" sha1="6ee9ba2ca2e6a96f64e555f61abb0498cd10d344" date="1993-12-02 06:32:36"/>
+		<rom name="SFX/504.WAV" size="128696" crc="9d852b86" md5="1815640bf1a9e307bc12b9cbef7534ae" sha1="cc43c60617e9bd006db0a14e38e371161e01c6e5" date="1993-12-03 14:46:34"/>
+		<rom name="SFX/532.WAV" size="125870" crc="6d921013" md5="baf886114061ad4fe7d56d94ecab9c7c" sha1="fd89d33563841fed0dbbb1f6a5059ce552075ac4" date="1993-12-06 09:44:18"/>
+		<rom name="SFX/5400.WAV" size="6686197" crc="c48eeea4" md5="7065ae27f97b2f8d2cbdc8745e135e0e" sha1="73d4a3f52e124eb1242b726fb2653a0b4078837b" date="1993-12-02 06:53:50"/>
+		<rom name="SFX/551.WAV" size="24479" crc="3f6ff1d1" md5="43f36085714fd0335e69b6a2b6059597" sha1="911c8fda58bf4f36b7067c7c1badb1d8862fd31f" date="1993-11-07 08:59:24"/>
+		<rom name="SFX/553.WAV" size="224445" crc="3f65191f" md5="80841e2afe1e43c05741bc11ea6c8b2f" sha1="7c3d24483fb3b4328cea29c7dbcdfadc4619b206" date="1993-11-07 08:59:52"/>
+		<rom name="SFX/554.WAV" size="38987" crc="6cc6f5b2" md5="4c0090ace21e60bc1be823d62edd4caa" sha1="d161e5d9f988b0e0950ac2148d93c18ec857f2db" date="1993-11-07 08:59:56"/>
+		<rom name="SFX/555.WAV" size="274603" crc="7a30896e" md5="9f40b9938f7ff137ea0492a8b2be02b1" sha1="e682ccb20222f411be3b26f40d5aec325243c952" date="1993-11-07 09:00:24"/>
+		<rom name="SFX/671.WAV" size="102870" crc="141fd622" md5="ce73d4eb09de49dd03eedf3a1169e786" sha1="1b9c34fb7e5184047de64fbc0f835e140bec5064" date="1993-12-06 09:45:02"/>
+		<rom name="SFX/701.WAV" size="106351" crc="5b017ab2" md5="84c996d2e4c34bfba589c68bb6b913f8" sha1="2ff5649d2aba30d6ed62ca618a0b0f8e3902079d" date="1993-12-06 09:46:06"/>
+		<rom name="SFX/712.WAV" size="480653" crc="c13c3a67" md5="225337db0990f13d0d018098f4001ff6" sha1="555d02252457eb0a241c71ce709b47948a37b4c2" date="1993-12-04 11:59:22"/>
+		<rom name="SFX/714.WAV" size="100505" crc="eba44f6a" md5="4a9e137c3d94d76d750ff0bca04048e0" sha1="d39c06cae4122fdf69703d4ed229b417c39e16e4" date="1993-12-01 06:48:42"/>
+		<rom name="SFX/756.WAV" size="122275" crc="e80da999" md5="6a53a9845651a2c3fa19cd4ceb8474c8" sha1="b7a51e33b5cef81be3bbc32c214e641f684ac408" date="1993-12-01 06:48:56"/>
+		<rom name="SFX/757.WAV" size="154075" crc="22c64f41" md5="7fd38ec96ca9f46e3b035a57e2f1a6d9" sha1="f0436a2c2f0bff6c7ad1a63618ce13a51da218e6" date="1993-12-03 14:47:28"/>
+		<rom name="SFX/758.WAV" size="188631" crc="b49753f0" md5="d6e11135bfe3e1ceaedfff0823376303" sha1="91b1cf9d3325903b56c9afff12fa699dd138a91e" date="1993-12-01 06:49:50"/>
+		<rom name="SFX/759.WAV" size="154673" crc="f8f213cb" md5="86faa32a49297ccb3ace0066fe77b336" sha1="464bf2199296e8f922b13cffc3cef7744d611cf6" date="1993-12-01 06:50:06"/>
+		<rom name="SFX/801.WAV" size="100782" crc="c998e4f6" md5="205b739ee45ffc7eb5c75da03a18a79c" sha1="008159650201867d1269e5621376e2ef6c5091b7" date="1993-12-03 14:47:38"/>
+		<rom name="SFX/871.WAV" size="252355" crc="53ae6824" md5="932bbabf9892e5ba2461bee1a8100a79" sha1="137d7ff2845c9faab46d8db9cec031a8544c2586" date="1993-12-01 06:51:12"/>
+		<rom name="SFX/872.WAV" size="72599" crc="fc3877a9" md5="fb8720b3f0f9688cc5683ca008e6ed2f" sha1="ad7e7eada71b375937bb5d1132962673534c1457" date="1993-12-01 06:51:20"/>
+		<rom name="SFX/873.WAV" size="189209" crc="89824fe1" md5="b84b94a89034da9fdffbe20721423c15" sha1="be6892c93c7b5a8d48a68aafbf3e9d3a1947108c" date="1993-12-01 06:51:40"/>
+		<rom name="SFX/99.WAV" size="5352671" crc="3074bc19" md5="fae2002ffbcf011f2a9b96ecaa01f083" sha1="16ffe10fcca05c853e6368137cae3a8ee1372bd0" date="1993-12-02 06:42:00"/>
 		<rom name="SIERRA.ERR" size="8475" crc="7969cc00" md5="4d9122131775e6349c3c8b6574ec612c" sha1="6c4c90770f853b6d2a6c90111a1aa42f6a9b1e24" date="1994-08-12 11:57:18"/>
 		<rom name="SIERRA.EXE" size="692384" crc="30ee0b69" md5="60c6ce7ea98b9575394962d26a0a7358" sha1="66c8fe86a81ef1d3233c6959bcec543f2e70e7dc" date="1994-01-11 12:06:12"/>
 		<rom name="VESA.DRV" size="35" crc="d3c60945" md5="8b6220a473e9a6c0f7a8ec471a401782" sha1="2526f8324466ea58c69b67e4412b1e6153a25f14" date="1993-10-20 12:26:36"/>
