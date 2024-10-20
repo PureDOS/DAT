@@ -1530,8 +1530,20 @@
 	</game>
 	<game name="Beast Within, The - A Gabriel Knight Mystery (1995) (Sierra On-Line).dosz">
 		<description>Beast Within, The - A Gabriel Knight Mystery</description>
-		<comment>Installed v1.11 from CD</comment>
-		<comment_dosc>Sound Blaster config and auto start</comment_dosc>
+		<comment>
+			Installed v1.11 from CD.
+			Default options, small installation size.
+			In RESOURCE.CFG, delete these lines:
+				directory = \sierra\gk2dos
+				cdSpeed=2
+				discID=GK2R1
+			And edit these lines like this (no spaces at the end of each):
+				resMAP=CD:\;C:
+				patchDir=C:;CD:\
+			RESOURCE.CFG is needed in the DOSZ for the game to run.
+			The exact version is provided in the DOSC
+		</comment>
+		<comment_dosc>Required RESOURCE.CFG file and auto start</comment_dosc>
 		<year>1995</year>
 		<developer>Sierra On-Line</developer>
 		<link type="media">http://redump.org/disc/79795/</link>
