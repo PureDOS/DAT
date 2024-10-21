@@ -391,30 +391,73 @@
 		<rom name="BAM2CFG.BAT" size="38" crc="687a6535" md5="5629accbf550d4006aecd227b8b1be81" sha1="377bf6126855cec8f60b405669dcd57a4f5f597c" date="1997-10-17 18:13:04"/>
 		<rom name="BM2.EXE" size="716021" crc="de554b77" md5="c2fb0e02231ed7ebb096101f88728dbf" sha1="9ee66e15e3c663f848ccab83940a533b8a08c072" date="1997-12-31 13:24:28"/>
 		<rom name="BM2.PIF" size="967" crc="5041347a" md5="01d8fd85efcd87079127dfd0d70922ed" sha1="644377822e0410badc556f7b5fc1664e27cdc418" date="1997-11-24 19:03:20"/>
-		<rom name="Bust-A-Move 2 - Arcade Edition (Europe).chd" size="396869760" crc="5a9f9c28" md5="72a822f8c6d7d0072a5c52ef24e0ff47" sha1="e8441f29e31a7df2dbb8d86f029fcaf8c65e65fe">
-			<track number="1" type="MODE1_RAW" frames="31726" pregap="0" duration="07:03:01" size="74619552" crc="7d9b40b4" md5="e0d6acb7ae96af59c0ad01f16eaac0b8" sha1="44697699e6b09a254da22cb864dd22d00766c655" in_zeros="1" out_zeros="0"/>
-			<track number="2" type="AUDIO" frames="12481" pregap="150" duration="02:46:31" size="29355312" crc="9770dc1f" md5="70f4c85f162aa09f79d89624689f4870" sha1="b759ba8cac1d81ad804cb9b44aec43ff8fc0e116" in_zeros="357552" out_zeros="359213"/>
-			<track number="3" type="AUDIO" frames="13571" pregap="0" duration="03:00:71" size="31918992" crc="fa315754" md5="f59f5b1ec6fb411d281cfc957a108e52" sha1="ec94b1cd9f83d0b556a8e79df34104bd77d43118" in_zeros="4768" out_zeros="368539"/>
-			<track number="4" type="AUDIO" frames="12586" pregap="0" duration="02:47:61" size="29602272" crc="ec37af8d" md5="b674309a8ac4350f56ae19fa9fa7c034" sha1="ef7e9977ee1fd9c5280958b8fb7d54e3f49905c6" in_zeros="5484" out_zeros="365057"/>
-			<track number="5" type="AUDIO" frames="12964" pregap="0" duration="02:52:64" size="30491328" crc="aa1dc152" md5="fd6b8a8ee6e58dc2cdaa77bd9b829958" sha1="30e9266651224af5536186e7520cb87736ec97ab" in_zeros="5384" out_zeros="363880"/>
-			<track number="6" type="AUDIO" frames="13128" pregap="0" duration="02:55:03" size="30877056" crc="19023772" md5="9ec43663d21cd3b3108e40abbf917d24" sha1="86cc189f2c63425087961077f88726aeba47c073" in_zeros="5340" out_zeros="360030"/>
-			<track number="7" type="AUDIO" frames="12391" pregap="0" duration="02:45:16" size="29143632" crc="e2c80844" md5="23de07b4ba515bfd9b24e2f72396ca53" sha1="b82313a3d527e2ccfafcd830d435ce29ab34d5d1" in_zeros="5776" out_zeros="359529"/>
-			<track number="8" type="AUDIO" frames="13156" pregap="0" duration="02:55:31" size="30942912" crc="55c9c699" md5="a5890378b7fb904cdd07672e6a3eb8ee" sha1="4ad32b3c3f5384771b7ad9f8782ef6d55cad6585" in_zeros="5480" out_zeros="365732"/>
-			<track number="9" type="AUDIO" frames="5678" pregap="0" duration="01:15:53" size="13354656" crc="7c868dec" md5="f68d2b429062044224814ec859b60ea9" sha1="9b57fc53868037ed90242b4470d6ccdf32b21bea" in_zeros="4796" out_zeros="368116"/>
-			<track number="10" type="AUDIO" frames="5415" pregap="0" duration="01:12:15" size="12736080" crc="a384530f" md5="5e70f39ca96aaac609919af8b301fe95" sha1="11c949213a63dbf9d6f4c6fa9e568b7a43ab6c4b" in_zeros="6320" out_zeros="357993"/>
-			<track number="11" type="AUDIO" frames="799" pregap="0" duration="00:10:49" size="1879248" crc="eab3f33f" md5="ca11812a3160f73ebb4cee7992ff9c01" sha1="fe55a5fa88f9c4925dcb6a91246409e41d6d90b6" in_zeros="4684" out_zeros="358757"/>
-			<track number="12" type="AUDIO" frames="723" pregap="0" duration="00:09:48" size="1700496" crc="0002b7d0" md5="d5615100dbc6bc273dea153386065dce" sha1="325f3c21e588223eed757817bd166ae6e969585b" in_zeros="5740" out_zeros="359943"/>
-			<track number="13" type="AUDIO" frames="5554" pregap="0" duration="01:14:04" size="13063008" crc="6867c5ca" md5="ce7c2cca3fe67afad3e78dcec084c26f" sha1="4b758b45711f661039522bad4bfb62560bb3f67e" in_zeros="4272" out_zeros="362948"/>
-			<track number="14" type="AUDIO" frames="4270" pregap="0" duration="00:56:70" size="10043040" crc="06e1a72b" md5="923921e58de27e15e7b70bff30924d1b" sha1="6954c80e885b968962fb064686a616bef12a5a9f" in_zeros="6016" out_zeros="360741"/>
-			<track number="15" type="AUDIO" frames="10828" pregap="0" duration="02:24:28" size="25467456" crc="851af5f7" md5="d837fc0b262b36cc0835193b4ff00c13" sha1="cca03588e93dcb54dfc6b1909dc4d48a0be7462d" in_zeros="4468" out_zeros="359417"/>
-			<track number="16" type="AUDIO" frames="1805" pregap="0" duration="00:24:05" size="4245360" crc="866dfac3" md5="a486ad6fa4d906cb102e0f6a9beadf16" sha1="77be2668b74ec5076c90ef758e75916acf594062" in_zeros="5572" out_zeros="363697"/>
-			<track number="17" type="AUDIO" frames="2141" pregap="0" duration="00:28:41" size="5035632" crc="9984cddb" md5="5cae7b24cc8c95d2943819ab37237036" sha1="ccd778fae09c384c4aaa78dbcea7a9e044080531" in_zeros="6308" out_zeros="357259"/>
-			<track number="18" type="AUDIO" frames="1926" pregap="0" duration="00:25:51" size="4529952" crc="37c8b153" md5="75a7b366e1cdeb731eb46fde99085b54" sha1="b5fe8fbbce887cfc0b705eb0267178bcbed293b7" in_zeros="5440" out_zeros="360305"/>
-			<track number="19" type="AUDIO" frames="1634" pregap="0" duration="00:21:59" size="3843168" crc="a476099f" md5="f18b3f02c5acdbd06bc55427820c5e7c" sha1="48c82a5f6fcce286db80952e82ea0c274d10adfd" in_zeros="4248" out_zeros="360342"/>
-			<track number="20" type="AUDIO" frames="1702" pregap="0" duration="00:22:52" size="4003104" crc="289ee6e2" md5="75039508e04a48e8cbfbfd8a70abc387" sha1="f350da822619ff86481996f655dc85bc3b7bb331" in_zeros="4580" out_zeros="359599"/>
-			<track number="21" type="AUDIO" frames="561" pregap="0" duration="00:07:36" size="1319472" crc="c4594d65" md5="83344ad6389456022a40b8ae4cfec138" sha1="4985306cc8f2d39fca4faba0b7c6e098e30a8e60" in_zeros="4176" out_zeros="669525"/>
-			<track number="22" type="AUDIO" frames="711" pregap="0" duration="00:09:36" size="1672272" crc="d551ace3" md5="7f6228ddc719be3f362af5b50bcfd4e6" sha1="364279129300ebd376324f120a09a8f2943062be" in_zeros="4528" out_zeros="1035345"/>
+		<rom name="Bust-A-Move 2 - Arcade Edition (Europe) (Track 1).bin" size="74619552" crc="7d9b40b4" md5="e0d6acb7ae96af59c0ad01f16eaac0b8" sha1="44697699e6b09a254da22cb864dd22d00766c655">
+			<source frames="31726" pregap="0" duration="07:03:01" size="74619552" crc="7d9b40b4" md5="e0d6acb7ae96af59c0ad01f16eaac0b8" sha1="44697699e6b09a254da22cb864dd22d00766c655"/>
 		</rom>
+		<rom name="Bust-A-Move 2 - Arcade Edition (Europe) (Track 2).ogg" size="5768176" crc="b4c68826" md5="eaee3cac0cc0552ad008d1c3983429c8" sha1="b92cb83e3205f152e014d74555c944aab8fa670b">
+			<source frames="12481" pregap="150" duration="02:46:31" size="29355312" crc="9770dc1f" md5="70f4c85f162aa09f79d89624689f4870" sha1="b759ba8cac1d81ad804cb9b44aec43ff8fc0e116" in_zeros="357552" out_zeros="359213" trimmed_crc="a60bee53" quality="8"/>
+		</rom>
+		<rom name="Bust-A-Move 2 - Arcade Edition (Europe) (Track 3).ogg" size="6174482" crc="e648dc34" md5="c51782cf2006c98ca3510b2183d108b8" sha1="4bc08e4c3a9e003301546d0f9116fa1ea2b0c4e4">
+			<source frames="13571" pregap="0" duration="03:00:71" size="31918992" crc="fa315754" md5="f59f5b1ec6fb411d281cfc957a108e52" sha1="ec94b1cd9f83d0b556a8e79df34104bd77d43118" in_zeros="4768" out_zeros="368539" trimmed_crc="36571a89" quality="8"/>
+		</rom>
+		<rom name="Bust-A-Move 2 - Arcade Edition (Europe) (Track 4).ogg" size="5950793" crc="5d9c1efe" md5="6e9bb16c1412d5e5414c6430607491a9" sha1="af2d1c827b69acba3a30148e2fb3da1c7931f30b">
+			<source frames="12586" pregap="0" duration="02:47:61" size="29602272" crc="ec37af8d" md5="b674309a8ac4350f56ae19fa9fa7c034" sha1="ef7e9977ee1fd9c5280958b8fb7d54e3f49905c6" in_zeros="5484" out_zeros="365057" trimmed_crc="5ffd1ae7" quality="8"/>
+		</rom>
+		<rom name="Bust-A-Move 2 - Arcade Edition (Europe) (Track 5).ogg" size="5729804" crc="21757268" md5="923b2a4cdf0e908c4cf08ac344936a17" sha1="198dbfcd6db8f2882dc0bd78802540910cfa8c0d">
+			<source frames="12964" pregap="0" duration="02:52:64" size="30491328" crc="aa1dc152" md5="fd6b8a8ee6e58dc2cdaa77bd9b829958" sha1="30e9266651224af5536186e7520cb87736ec97ab" in_zeros="5384" out_zeros="363880" trimmed_crc="08cbd7d1" quality="8"/>
+		</rom>
+		<rom name="Bust-A-Move 2 - Arcade Edition (Europe) (Track 6).ogg" size="6006435" crc="6afbeefe" md5="3bb6de598504ea380d078f40cd58820a" sha1="85fda823f741b55d1aa29aac5eceea3d47f1458b">
+			<source frames="13128" pregap="0" duration="02:55:03" size="30877056" crc="19023772" md5="9ec43663d21cd3b3108e40abbf917d24" sha1="86cc189f2c63425087961077f88726aeba47c073" in_zeros="5340" out_zeros="360030" trimmed_crc="8992dc18" quality="8"/>
+		</rom>
+		<rom name="Bust-A-Move 2 - Arcade Edition (Europe) (Track 7).ogg" size="5514467" crc="39d70329" md5="d0eff4056bf630841c031fa8ec0f3562" sha1="d6f5aca88f00c2cbebe7f99c520e13daec3e2b4c">
+			<source frames="12391" pregap="0" duration="02:45:16" size="29143632" crc="e2c80844" md5="23de07b4ba515bfd9b24e2f72396ca53" sha1="b82313a3d527e2ccfafcd830d435ce29ab34d5d1" in_zeros="5776" out_zeros="359529" trimmed_crc="f8994835" quality="8"/>
+		</rom>
+		<rom name="Bust-A-Move 2 - Arcade Edition (Europe) (Track 8).ogg" size="6104962" crc="52946b09" md5="724e18d29dc598d2961f8a6d31d84c3f" sha1="d52339f4cf45c2df363e2305511b1012e7173a0d">
+			<source frames="13156" pregap="0" duration="02:55:31" size="30942912" crc="55c9c699" md5="a5890378b7fb904cdd07672e6a3eb8ee" sha1="4ad32b3c3f5384771b7ad9f8782ef6d55cad6585" in_zeros="5480" out_zeros="365732" trimmed_crc="1f0067bc" quality="8"/>
+		</rom>
+		<rom name="Bust-A-Move 2 - Arcade Edition (Europe) (Track 9).ogg" size="2335623" crc="42ec3071" md5="fce09084edcfa30d11d1f33ac5124e44" sha1="5479430a6196ba8d5bdf13906b3cff972b1904db">
+			<source frames="5678" pregap="0" duration="01:15:53" size="13354656" crc="7c868dec" md5="f68d2b429062044224814ec859b60ea9" sha1="9b57fc53868037ed90242b4470d6ccdf32b21bea" in_zeros="4796" out_zeros="368116" trimmed_crc="a26f027e" quality="8"/>
+		</rom>
+		<rom name="Bust-A-Move 2 - Arcade Edition (Europe) (Track 10).ogg" size="2429623" crc="739c4c68" md5="aee3da9d371b836c180a645fb8f4b18d" sha1="b9642fa6427d7b75cfea74614aa53035d07d463b">
+			<source frames="5415" pregap="0" duration="01:12:15" size="12736080" crc="a384530f" md5="5e70f39ca96aaac609919af8b301fe95" sha1="11c949213a63dbf9d6f4c6fa9e568b7a43ab6c4b" in_zeros="6320" out_zeros="357993" trimmed_crc="c53efbfe" quality="8"/>
+		</rom>
+		<rom name="Bust-A-Move 2 - Arcade Edition (Europe) (Track 11).ogg" size="271745" crc="2b6e88f9" md5="0d4d82bbe9707c83b8e9017fd1776102" sha1="dcbfb6a4c9aab578b2556bdde569775df1b7e82a">
+			<source frames="799" pregap="0" duration="00:10:49" size="1879248" crc="eab3f33f" md5="ca11812a3160f73ebb4cee7992ff9c01" sha1="fe55a5fa88f9c4925dcb6a91246409e41d6d90b6" in_zeros="4684" out_zeros="358757" trimmed_crc="59df1e3b" quality="8"/>
+		</rom>
+		<rom name="Bust-A-Move 2 - Arcade Edition (Europe) (Track 12).ogg" size="267647" crc="bc61b762" md5="8d4742d9ed9d09d7b8d3ec75423b2d40" sha1="2724e5550f863b2d4bbdaca143c520d5a90c7cf3">
+			<source frames="723" pregap="0" duration="00:09:48" size="1700496" crc="0002b7d0" md5="d5615100dbc6bc273dea153386065dce" sha1="325f3c21e588223eed757817bd166ae6e969585b" in_zeros="5740" out_zeros="359943" trimmed_crc="44f650ed" quality="8"/>
+		</rom>
+		<rom name="Bust-A-Move 2 - Arcade Edition (Europe) (Track 13).ogg" size="2279727" crc="ea9f0f1a" md5="f821141b68e190f75192558bac1c4a72" sha1="b65da5cd505ce7893de336ad6a75a6e71a3977e3">
+			<source frames="5554" pregap="0" duration="01:14:04" size="13063008" crc="6867c5ca" md5="ce7c2cca3fe67afad3e78dcec084c26f" sha1="4b758b45711f661039522bad4bfb62560bb3f67e" in_zeros="4272" out_zeros="362948" trimmed_crc="69a01921" quality="8"/>
+		</rom>
+		<rom name="Bust-A-Move 2 - Arcade Edition (Europe) (Track 14).ogg" size="1703470" crc="e080b616" md5="856fb42942cf71bf3b66f88d638fb89a" sha1="2820f15a192baf2b88dbc9256e8c60a434ada631">
+			<source frames="4270" pregap="0" duration="00:56:70" size="10043040" crc="06e1a72b" md5="923921e58de27e15e7b70bff30924d1b" sha1="6954c80e885b968962fb064686a616bef12a5a9f" in_zeros="6016" out_zeros="360741" trimmed_crc="b009083f" quality="8"/>
+		</rom>
+		<rom name="Bust-A-Move 2 - Arcade Edition (Europe) (Track 15).ogg" size="4499191" crc="721aa36f" md5="94ae6af2c33a72df78ac90b94af7ea07" sha1="996bd1c32e5a0099d3b6872ce0b96b75c5c0ee44">
+			<source frames="10828" pregap="0" duration="02:24:28" size="25467456" crc="851af5f7" md5="d837fc0b262b36cc0835193b4ff00c13" sha1="cca03588e93dcb54dfc6b1909dc4d48a0be7462d" in_zeros="4468" out_zeros="359417" trimmed_crc="c8219315" quality="8"/>
+		</rom>
+		<rom name="Bust-A-Move 2 - Arcade Edition (Europe) (Track 16).ogg" size="727018" crc="0ca50b56" md5="4a55fa3ed3ded5b0eac246ad79d27896" sha1="1ca013cca931dd58058f0f206843a1eda80e47f2">
+			<source frames="1805" pregap="0" duration="00:24:05" size="4245360" crc="866dfac3" md5="a486ad6fa4d906cb102e0f6a9beadf16" sha1="77be2668b74ec5076c90ef758e75916acf594062" in_zeros="5572" out_zeros="363697" trimmed_crc="20574e6d" quality="8"/>
+		</rom>
+		<rom name="Bust-A-Move 2 - Arcade Edition (Europe) (Track 17).ogg" size="957432" crc="f0c6ca32" md5="0b18f4feef1d9db9fe1756eb934a6378" sha1="36d56ee57f2596de6ea182b921bdde2b0471a219">
+			<source frames="2141" pregap="0" duration="00:28:41" size="5035632" crc="9984cddb" md5="5cae7b24cc8c95d2943819ab37237036" sha1="ccd778fae09c384c4aaa78dbcea7a9e044080531" in_zeros="6308" out_zeros="357259" trimmed_crc="7b696d11" quality="8"/>
+		</rom>
+		<rom name="Bust-A-Move 2 - Arcade Edition (Europe) (Track 18).ogg" size="766541" crc="68f7862a" md5="caeecd85d9e5e754a34565cc532f09ce" sha1="90b4673868ffa1b2ec222ea95850e5399277ee3e">
+			<source frames="1926" pregap="0" duration="00:25:51" size="4529952" crc="37c8b153" md5="75a7b366e1cdeb731eb46fde99085b54" sha1="b5fe8fbbce887cfc0b705eb0267178bcbed293b7" in_zeros="5440" out_zeros="360305" trimmed_crc="c28e8554" quality="8"/>
+		</rom>
+		<rom name="Bust-A-Move 2 - Arcade Edition (Europe) (Track 19).ogg" size="641213" crc="e53c1610" md5="cbafacb354a2d4bc7dba70cf6a0a1aac" sha1="16d20c1ffedf9395b4d6d60c40903a53f5634e45">
+			<source frames="1634" pregap="0" duration="00:21:59" size="3843168" crc="a476099f" md5="f18b3f02c5acdbd06bc55427820c5e7c" sha1="48c82a5f6fcce286db80952e82ea0c274d10adfd" in_zeros="4248" out_zeros="360342" trimmed_crc="eddea50d" quality="8"/>
+		</rom>
+		<rom name="Bust-A-Move 2 - Arcade Edition (Europe) (Track 20).ogg" size="691394" crc="03e3701a" md5="b7aea6245ebe50e87369cf717872bbe9" sha1="98eeabc48d321297a12b1e4d91eda00811384d22">
+			<source frames="1702" pregap="0" duration="00:22:52" size="4003104" crc="289ee6e2" md5="75039508e04a48e8cbfbfd8a70abc387" sha1="f350da822619ff86481996f655dc85bc3b7bb331" in_zeros="4580" out_zeros="359599" trimmed_crc="78ed7e20" quality="8"/>
+		</rom>
+		<rom name="Bust-A-Move 2 - Arcade Edition (Europe) (Track 21).ogg" size="134158" crc="efb54ca3" md5="4e124aec8d5d2fa3e6207eaeb860a760" sha1="28739cffb0ddf2ca88bfadb45e124f10e7e1a392">
+			<source frames="561" pregap="0" duration="00:07:36" size="1319472" crc="c4594d65" md5="83344ad6389456022a40b8ae4cfec138" sha1="4985306cc8f2d39fca4faba0b7c6e098e30a8e60" in_zeros="4176" out_zeros="669525" trimmed_crc="7fbe807e" quality="8"/>
+		</rom>
+		<rom name="Bust-A-Move 2 - Arcade Edition (Europe) (Track 22).ogg" size="130297" crc="eaa214cd" md5="725aeba02b6595435090a6ee8d05c6af" sha1="3b9366b3125a6efaefff4b5525a388bcd4cf411a">
+			<source frames="711" pregap="0" duration="00:09:36" size="1672272" crc="d551ace3" md5="7f6228ddc719be3f362af5b50bcfd4e6" sha1="364279129300ebd376324f120a09a8f2943062be" in_zeros="4528" out_zeros="1035345" trimmed_crc="86b69455" quality="8"/>
+		</rom>
+		<rom name="Bust-A-Move 2 - Arcade Edition (Europe).cue" size="2396" crc="d46443f9" md5="d452d6aef8b39d0a9acc90d63b1d388a" sha1="48259072217d840c18635b3aef61799ae37fb515"/>
 		<rom name="DIG/AUDIODRV.DIG" size="11372" crc="f4e8e5ff" md5="593c549bdc6cae6cd9520344c4f9a32e" sha1="b099389bdcecf7ebb1f23a1a06898cdf569e5bf8" date="1996-09-23 13:19:10"/>
 		<rom name="DIG/IWAV.DIG" size="2585" crc="b9199db2" md5="20bb8743d82ddbb6b79cc3b02a65d59f" sha1="efd99ed5c598648567df82dd6a0236f8584cc38f" date="1996-07-16 12:20:56"/>
 		<rom name="DIG/JAMMER.DIG" size="3219" crc="230129e0" md5="4922c729c5e7b347089a2be44f296859" sha1="103e0bf92c6fd1c9fc925fd57bdc22e56170b395" date="1995-11-07 06:00:00"/>
