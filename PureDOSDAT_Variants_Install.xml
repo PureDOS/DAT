@@ -85,6 +85,7 @@
 		<year>1996</year>
 		<developer>Digital Cafe</developer>
 		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/4490/</link>
 		<rom name="Chex Quest (USA).chd" size="339606144" crc="aa5c3bd5" md5="a649838fade0065b0209de7cd5b995be" sha1="d51b7d5fb5e56ddae7bea686678af311f41bd95c">
 			<track number="1" type="MODE1_RAW" frames="138689" pregap="0" duration="30:49:14" size="326196528" crc="aa9d8045" md5="cfbebc31b492ed9691ed4580dbdcb8a2" sha1="32759f9de67831f3bc5ab802dcdd75965ed10296" in_zeros="1" out_zeros="0"/>
 		</rom>
@@ -112,6 +113,7 @@
 		<year>1994</year>
 		<developer>id Software</developer>
 		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/62840/</link>
 		<rom name="Doom II (USA) (v1.9).chd" size="31824000" crc="d62437b9" md5="84de4ede7a57360a775e6a4100ed1439" sha1="cb36a4ce84926d43ff64af6b73358e4c653eb2d3">
 			<track number="1" type="MODE1_RAW" frames="12991" pregap="0" duration="02:53:16" size="30554832" crc="f167628b" md5="b06b0d9245b60cd9649413f47c43c164" sha1="208a68cc32f421dfde34a6dba2d1bff67f4b9ad7" in_zeros="1" out_zeros="0"/>
 		</rom>
@@ -134,16 +136,6 @@
 		<variant>Installation</variant>
 		<rom name="Epic Pinball (USA) (Rerelease) (1997-03-18).chd" size="17527680" crc="231416f5" md5="6b08ec1d795074fe4658160d4ea72cf2" sha1="5d3a76ccf7f19d9e47037d2b543cdbf146fac866">
 			<track number="1" type="MODE2_RAW" frames="7147" pregap="0" duration="01:35:22" size="16809744" crc="3c06366d" md5="4e17986fb980f0bdd60cabd4de85eaff" sha1="c48261f4e4907986fe6042ac534a61978945a0f6" in_zeros="1" out_zeros="0"/>
-		</rom>
-	</game>
-	<game name="Final Doom (1996) (id Software) (Installation).dosz">
-		<description>Final Doom</description>
-		<comment>Contains Final Doom version with bug fixes, also other Doom games</comment>
-		<year>1996</year>
-		<developer>id Software</developer>
-		<variant>Installation</variant>
-		<rom name="id Anthology (USA) (Disc 2) (Doom) (Rev 1).chd" size="232403328" crc="94796723" md5="15d0cc524df85ad29d5eb605362ca25e" sha1="2cfd2ee746af2c34cef52ae2d574425c1aedbb6d">
-			<track number="1" type="MODE1_RAW" frames="94909" pregap="0" duration="21:05:34" size="223225968" crc="6ff080ba" md5="1f24387fb3ea227c44ce7a1b3e982f20" sha1="26856c342897ba02edb326f8657ef69429eaddc7" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
 	<game name="Heretic - Shadow of the Serpent Riders (1996) (Raven Software) (Installation).dosz">
@@ -172,6 +164,17 @@
 		<developer>Infocom</developer>
 		<variant>Installation</variant>
 		<rom name="disk1.img" size="184320" crc="1744adb6" md5="93c30ca487736067ace1ea60a2a1ebe4" sha1="e6b78bb2ed4336111df696c13144c824b7fe1ef0"/>
+	</game>
+	<game name="id Anthology (1996) (id Software) (Installation).dosz">
+		<description>id Anthology</description>
+		<comment>Contains Final Doom version with bug fixes, also other Doom games</comment>
+		<year>1996</year>
+		<developer>id Software</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/28675/</link>
+		<rom name="id Anthology (USA) (Disc 2) (Doom) (Rev 1).chd" size="232403328" crc="94796723" md5="15d0cc524df85ad29d5eb605362ca25e" sha1="2cfd2ee746af2c34cef52ae2d574425c1aedbb6d">
+			<track number="1" type="MODE1_RAW" frames="94909" pregap="0" duration="21:05:34" size="223225968" crc="6ff080ba" md5="1f24387fb3ea227c44ce7a1b3e982f20" sha1="26856c342897ba02edb326f8657ef69429eaddc7" in_zeros="1" out_zeros="0"/>
+		</rom>
 	</game>
 	<game name="Jazz Jackrabbit (1994) (Epic MegaGames) (Installation).dosz">
 		<description>Jazz Jackrabbit</description>
@@ -230,6 +233,7 @@
 		<year>1995</year>
 		<developer>id Software</developer>
 		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/21230/</link>
 		<rom name="Master Levels for Doom II (USA).chd" size="507911040" crc="0bdb6143" md5="19265982665b802a274581e3bd5fa355" sha1="195f805768498aca29163f250f71cb2f22b25e6b">
 			<track number="1" type="MODE1_RAW" frames="207432" pregap="0" duration="46:05:57" size="487880064" crc="18f7a961" md5="3a90800d4f30f74e31b81693db27841a" sha1="17f0d0db38e076901e0d77c2f856887a99bab058" in_zeros="1" out_zeros="0"/>
 		</rom>
@@ -291,15 +295,6 @@
 			<track number="8" type="AUDIO" frames="6264" pregap="150" duration="01:23:39" size="14732928" crc="861662f9" md5="f217d51a3a439731e1ac5513b1fb631c" sha1="5f6f8ed9e1ec8a88aa99d1f0470ca546123a74c1" in_zeros="356416" out_zeros="0"/>
 			<track number="9" type="AUDIO" frames="3014" pregap="150" duration="00:40:14" size="7088928" crc="c08d60e9" md5="7fd9e8aed2e9c37bc071e81cef56b32f" sha1="85054ccfedae4e695e6e14bee888c4846182168d" in_zeros="0" out_zeros="0"/>
 			<track number="10" type="AUDIO" frames="734" pregap="150" duration="00:09:59" size="1726368" crc="300e8553" md5="77894b232602d3cdd65573a8144ea0b9" sha1="fa08cdc1e90e92098a686812a4db9a6cec35e7c5" in_zeros="0" out_zeros="527643"/>
-		</rom>
-	</game>
-	<game name="Ultimate Doom, The (1995) (id Software) (Installation).dosz">
-		<description>Ultimate Doom, The</description>
-		<year>1995</year>
-		<developer>id Software</developer>
-		<variant>Installation</variant>
-		<rom name="Ultimate Doom, The (USA).chd" size="28005120" crc="552628d8" md5="9800ed15c1acba4bc379bd3cf1bcb89d" sha1="e6c7c8e1f23cb76ef432349c4261fe5abfc406ef">
-			<track number="1" type="MODE1_RAW" frames="11431" pregap="0" duration="02:32:31" size="26885712" crc="a9898633" md5="f0e687b879e13e9b230b47ba28288468" sha1="5de4c416ed6b25324120ad0ba4f7a26bc51a4190" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
 	<game name="Red Baron (1990) (Dynamix) (Installation).dosz">
@@ -506,6 +501,16 @@
 		<variant>Installation</variant>
 		<rom name="Strife (USA) (v1.2).chd" size="82566144" crc="84b6900e" md5="1b24c0a927fa4b73ce45a39efa15d1b8" sha1="a2b5b922463701ccf0a8bbd28421629f9dac6ac0">
 			<track number="1" type="MODE1_RAW" frames="33713" pregap="0" duration="07:29:38" size="79292976" crc="acd9a3c4" md5="b18ae6264b6d9553748e913835106b78" sha1="1a13d9580317e928e0e52db609b4adf016033c29" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
+	<game name="Ultimate Doom, The (1995) (id Software) (Installation).dosz">
+		<description>Ultimate Doom, The</description>
+		<year>1995</year>
+		<developer>id Software</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/4427/</link>
+		<rom name="Ultimate Doom, The (USA).chd" size="28005120" crc="552628d8" md5="9800ed15c1acba4bc379bd3cf1bcb89d" sha1="e6c7c8e1f23cb76ef432349c4261fe5abfc406ef">
+			<track number="1" type="MODE1_RAW" frames="11431" pregap="0" duration="02:32:31" size="26885712" crc="a9898633" md5="f0e687b879e13e9b230b47ba28288468" sha1="5de4c416ed6b25324120ad0ba4f7a26bc51a4190" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
 	<game name="Warcraft - Orcs &amp; Humans (1994) (Blizzard Entertainment) (Installation).dosz">
