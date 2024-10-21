@@ -8571,7 +8571,7 @@
 	</game>
 	<game name="Super Street Fighter II Turbo (1995) (Capcom).dosz">
 		<description>Super Street Fighter II Turbo</description>
-		<comment>Installed from CD, patched to v1.5, then patched to v1.6</comment>
+		<comment>Installed from CD, patched to v1.5, then patched to v1.6. CD image converted with CHDtoOGG</comment>
 		<comment_dosc>Sound Blaster 16 config, keyboard controls, game speed reduced, and auto start</comment_dosc>
 		<year>1995</year>
 		<developer>Capcom</developer>
@@ -9788,52 +9788,140 @@
 		<rom name="SPRITES/ZANGIEF.NIX" size="760" crc="29e70eee" md5="0d1a32eb7fc775b88af16a4edbcf88d1" sha1="dd7acc9432722f12fa2bdae2332c16e37d77254d"/>
 		<rom name="SPRITES/ZANGIEF.PAL" size="768" crc="8deaa4f9" md5="142f6117cbcd5746e4fd8fd04c5ca143" sha1="2c0c03ba601efc01ac0122bb2d2684362da65c64"/>
 		<rom name="SSF2T.BAT" size="139" crc="1c905e36" md5="456366be37492250384c2fc6637401d5" sha1="c09ad1d74f6e33022be5a08b4f53bf1f5fae116e" date="1995-05-17 06:58:38"/>
-		<rom name="Super Street Fighter II Turbo (USA).chd" size="615172608" crc="2ec6a1a0" md5="dd4933d4292b142fe91c6f7ad8f5498c" sha1="0205dd5e078fc48f1e2eb7537634c5d073ac21a2">
-			<track number="1" type="MODE1_RAW" frames="5334" pregap="0" duration="01:11:09" size="12545568" crc="e33a679f" md5="3655edbb953b6b6ff6b26575b06e3a9f" sha1="a35fc3fa04f8db3f1e195dfb083dbd0c3cadf558" in_zeros="1" out_zeros="0"/>
-			<track number="2" type="AUDIO" frames="2627" pregap="225" duration="00:35:02" size="6178704" crc="5a07c1dc" md5="dbe73c554463b50e4840ca00ebc3637d" sha1="0eb8815e58c272d0891fe89b80cb6501625da9e9" in_zeros="1" out_zeros="5901"/>
-			<track number="3" type="AUDIO" frames="2391" pregap="150" duration="00:31:66" size="5623632" crc="fe918a3b" md5="66d52f88a187213df9724b342a9bcb92" sha1="a324120fe49691632d21a909616d2d6a13ab3eb3" in_zeros="353364" out_zeros="4725"/>
-			<track number="4" type="AUDIO" frames="9153" pregap="150" duration="02:02:03" size="21527856" crc="d3adee9c" md5="eab78e4b3e121a24cc67b5666c2f0dc7" sha1="0283adf393102b16260c705e354278fa94be02b7" in_zeros="353438" out_zeros="6496"/>
-			<track number="5" type="AUDIO" frames="9153" pregap="150" duration="02:02:03" size="21527856" crc="8d07b7d5" md5="f8d8761b49deedaeba4c643b3449477d" sha1="efe18cad727278fd5c04b80287471b1f17883fe2" in_zeros="353440" out_zeros="6488"/>
-			<track number="6" type="AUDIO" frames="9603" pregap="150" duration="02:08:03" size="22586256" crc="bf500705" md5="0e3bd79ce4a3bdbbf4012fef683324da" sha1="9780fadbba4cb8baab280001a11fcd46502a1710" in_zeros="353428" out_zeros="6540"/>
-			<track number="7" type="AUDIO" frames="9753" pregap="150" duration="02:10:03" size="22939056" crc="347be790" md5="869ec91836dc8c718bbae0718ac02775" sha1="0e1400305a2e739de5294d0c2b3004873113ab73" in_zeros="353392" out_zeros="6498"/>
-			<track number="8" type="AUDIO" frames="9753" pregap="150" duration="02:10:03" size="22939056" crc="bd849d94" md5="cf91f756f025806763080a10a802622e" sha1="1cb743471e2f1e5da6884b2fb30a42648c572afc" in_zeros="353408" out_zeros="6489"/>
-			<track number="9" type="AUDIO" frames="9153" pregap="150" duration="02:02:03" size="21527856" crc="b1b82bcb" md5="0dcf52be89cb466f86f6225edd76bb34" sha1="9ce16a7a6869926412cfa9adce174fa843e0037b" in_zeros="353512" out_zeros="6604"/>
-			<track number="10" type="AUDIO" frames="9303" pregap="150" duration="02:04:03" size="21880656" crc="fe35db75" md5="2d31c74f753e9ecec43ed6865091521f" sha1="e44d8f89851b523ea28a1f7c2b5858bd3df99264" in_zeros="353296" out_zeros="6561"/>
-			<track number="11" type="AUDIO" frames="9228" pregap="150" duration="02:03:03" size="21704256" crc="9e09b9ce" md5="166dc8e87d6b8ca5d33a978198b17fce" sha1="8ba3671b38625ac2c9f71a0f6f4aceb7b8b3d820" in_zeros="356408" out_zeros="6568"/>
-			<track number="12" type="AUDIO" frames="9303" pregap="150" duration="02:04:03" size="21880656" crc="231f0446" md5="99a1f7d06675475c5e35387fcf6c4d0c" sha1="13a0f96112d2bde7603aac11da37394215130126" in_zeros="353364" out_zeros="6517"/>
-			<track number="13" type="AUDIO" frames="9378" pregap="150" duration="02:05:03" size="22057056" crc="7c3b9571" md5="93dccd48576cc617be07a6871e1f2eda" sha1="672c0eeb011d8d12eee645f1b3c79c1ae22e7f82" in_zeros="356902" out_zeros="6524"/>
-			<track number="14" type="AUDIO" frames="9153" pregap="150" duration="02:02:03" size="21527856" crc="9a4c0cc4" md5="0d242d631887206f8bd5649ef5134e03" sha1="9b01d0fd046fb9e451ee16fee415f875e78bee94" in_zeros="353356" out_zeros="6524"/>
-			<track number="15" type="AUDIO" frames="9528" pregap="150" duration="02:07:03" size="22409856" crc="6e6ed8a7" md5="c3703c9ecc792865db06539c4fb239ab" sha1="6e1f1b02b14eaee4b00790a53df108d527da73b5" in_zeros="353384" out_zeros="6524"/>
-			<track number="16" type="AUDIO" frames="9453" pregap="150" duration="02:06:03" size="22233456" crc="b4767aaf" md5="d1cc4ae843fff6ebbe82a2eac4ee25b0" sha1="8110a0efd276548b35321410f7699f208035e65a" in_zeros="353396" out_zeros="6540"/>
-			<track number="17" type="AUDIO" frames="9228" pregap="150" duration="02:03:03" size="21704256" crc="041eb8d6" md5="af38e9b1c17ec317122091e2b8ef77bb" sha1="e3df59a733f90e44a5b6f32af31e60b61b3ca927" in_zeros="353352" out_zeros="6577"/>
-			<track number="18" type="AUDIO" frames="9153" pregap="150" duration="02:02:03" size="21527856" crc="7a1f0280" md5="5bc7c802b8c96731b5f3431ce51e6c5e" sha1="3ebaa8e07e9c70f7db9ccda56efe527a7daa2c67" in_zeros="353316" out_zeros="6540"/>
-			<track number="19" type="AUDIO" frames="9153" pregap="150" duration="02:02:03" size="21527856" crc="fcc1e5bf" md5="ccb2cd26647bbc203fa6c5bdca36b0bf" sha1="f0481dde6ec59b7847fe73bf9390e9b9e14d2e7c" in_zeros="353392" out_zeros="6548"/>
-			<track number="20" type="AUDIO" frames="4751" pregap="150" duration="01:03:26" size="11174352" crc="5015f8bf" md5="4c2b2c937edd8530ba2ae3fa935d5009" sha1="bf6a96dc8ce3d81e1ba88c55814fdee19b1a1df6" in_zeros="353756" out_zeros="5913"/>
-			<track number="21" type="AUDIO" frames="4653" pregap="150" duration="01:02:03" size="10943856" crc="e022a13a" md5="39ec265d426df66944b25df0f183934b" sha1="a78c78382ff9152c1a879925abcc30f96ba359ad" in_zeros="353372" out_zeros="6495"/>
-			<track number="22" type="AUDIO" frames="4653" pregap="150" duration="01:02:03" size="10943856" crc="564c4853" md5="21474d1dd3ef0804d95def649b9d4ade" sha1="9ed385148f847d336999a3260570f3f944690a15" in_zeros="353378" out_zeros="6493"/>
-			<track number="23" type="AUDIO" frames="4653" pregap="150" duration="01:02:03" size="10943856" crc="33b9e9dc" md5="9e509769a8a31aceb1ac336de88a124e" sha1="9f21ba84eedeb71cda267d7d7efa2afc2dadac57" in_zeros="353392" out_zeros="6493"/>
-			<track number="24" type="AUDIO" frames="4653" pregap="150" duration="01:02:03" size="10943856" crc="541a61eb" md5="ae931b991ff08eeb157794f1a42dc01c" sha1="54eadbc48b45c153f5f126e3acb1a27bfe0f47b2" in_zeros="353376" out_zeros="6548"/>
-			<track number="25" type="AUDIO" frames="4803" pregap="150" duration="01:04:03" size="11296656" crc="b96a0b0a" md5="e3734240b4921afd45691af6075334eb" sha1="5e408412575059847502b8e3c6399fac824ce42a" in_zeros="353292" out_zeros="6565"/>
-			<track number="26" type="AUDIO" frames="4653" pregap="150" duration="01:02:03" size="10943856" crc="25ea82ef" md5="a332ec2a30bf71dd53ad8b0bea153215" sha1="71d6a41efb06d6a1bb7c6f46711bea3005b8f850" in_zeros="353312" out_zeros="6548"/>
-			<track number="27" type="AUDIO" frames="4653" pregap="150" duration="01:02:03" size="10943856" crc="46082a0c" md5="08b5f97cd8c1612e8287779a29a50d52" sha1="a42cad59e6abbc695c80f812c3ffea910206c3bf" in_zeros="353400" out_zeros="6497"/>
-			<track number="28" type="AUDIO" frames="2770" pregap="150" duration="00:36:70" size="6515040" crc="a8cff9d1" md5="99d1885cbe9863bb1335f5801e6e7d2b" sha1="ac179a9a4b20fbbde501f5a9c962656f5c0dce7f" in_zeros="353340" out_zeros="4704"/>
-			<track number="29" type="AUDIO" frames="4653" pregap="150" duration="01:02:03" size="10943856" crc="2333ee00" md5="9d684dad18aa3da7f6c176573fa8775f" sha1="fda716e85d8a564c0db6cfa0e373cf87fd5fd200" in_zeros="353316" out_zeros="6541"/>
-			<track number="30" type="AUDIO" frames="4653" pregap="150" duration="01:02:03" size="10943856" crc="3486a4f7" md5="778d3112fe2a00f9f9d1a0d4f9c1f3da" sha1="8f73940f1b26afec75f748ad8e15d7744b009255" in_zeros="353364" out_zeros="6541"/>
-			<track number="31" type="AUDIO" frames="4878" pregap="150" duration="01:05:03" size="11473056" crc="68700d42" md5="4e3c0a9152f72383497a0b2589c70c3e" sha1="e0c4095c090b6398cd703f67343f3564fba7a548" in_zeros="353352" out_zeros="6548"/>
-			<track number="32" type="AUDIO" frames="4653" pregap="150" duration="01:02:03" size="10943856" crc="78d6a735" md5="37fe6f8cab8ae7d7c796d9e6533ee831" sha1="3e95951de0c68edbdd44bc1cba0a7de3337d198c" in_zeros="353292" out_zeros="6565"/>
-			<track number="33" type="AUDIO" frames="4653" pregap="150" duration="01:02:03" size="10943856" crc="e2865e75" md5="9df003f9426e17bc3b40892a753f9c12" sha1="faeb2ff7f97da2543d004a8eb80abbb27d963edc" in_zeros="353510" out_zeros="6500"/>
-			<track number="34" type="AUDIO" frames="5028" pregap="150" duration="01:07:03" size="11825856" crc="112c3e68" md5="fc6c757418aa2de31127ba13666b2ee9" sha1="4970f38a2c8908d5a6f8a3985326cb20a16f1a25" in_zeros="353364" out_zeros="6502"/>
-			<track number="35" type="AUDIO" frames="4653" pregap="150" duration="01:02:03" size="10943856" crc="20d27ad4" md5="17e4c2ce9c8fa54524e6fc81dd48082f" sha1="61ee65321081541bb212d1e209524123c6877f86" in_zeros="353364" out_zeros="6493"/>
-			<track number="36" type="AUDIO" frames="4653" pregap="150" duration="01:02:03" size="10943856" crc="8fb06ff0" md5="1867df27bcf8ee0a6cbdf42418043c5a" sha1="4158e28fe55075027ad23a0abbbf34417a1da2a8" in_zeros="353384" out_zeros="6492"/>
-			<track number="37" type="AUDIO" frames="4653" pregap="150" duration="01:02:03" size="10943856" crc="213a220a" md5="4e4d34cce488550fcaed06a8f69ac305" sha1="775e6e6adad4a108ec291273dba9ac8da09c712f" in_zeros="353344" out_zeros="6520"/>
-			<track number="38" type="AUDIO" frames="2403" pregap="150" duration="00:32:03" size="5651856" crc="94852d97" md5="18e6ab5210fb50b82365e716510bd2fa" sha1="108454cd856cb254721357511ac24b0cf754df42" in_zeros="353338" out_zeros="6521"/>
-			<track number="39" type="AUDIO" frames="753" pregap="150" duration="00:10:03" size="1771056" crc="a99bf599" md5="b5f84678d8560ff79f2f7a61a245fc6a" sha1="5661d8c3190629989779ec50bec91065b0491d63" in_zeros="353318" out_zeros="6548"/>
-			<track number="40" type="AUDIO" frames="450" pregap="150" duration="00:06:00" size="1058400" crc="a8694d0f" md5="1fdf0bc4552bbfaeae1dbedea2f5b81f" sha1="e71a995813753c468d53c40bf40e69ece7e89714" in_zeros="353340" out_zeros="63704"/>
-			<track number="41" type="AUDIO" frames="583" pregap="150" duration="00:07:58" size="1371216" crc="31e6904f" md5="67aefce2abcc864d923bc3afd23efd34" sha1="df52b3cfd53026153766f8e01a40d73f86ff0f85" in_zeros="353310" out_zeros="5377"/>
-			<track number="42" type="AUDIO" frames="6282" pregap="150" duration="01:23:57" size="14775264" crc="36439636" md5="58033a483bb53c095ebcdfe4e2fef6fb" sha1="1f0fb31ba021173707429f572898dde8edc01a59" in_zeros="353478" out_zeros="5084"/>
-			<track number="43" type="AUDIO" frames="483" pregap="150" duration="00:06:33" size="1136016" crc="5c4036c0" md5="8239016d21afb163e2e3a68b3c046e93" sha1="2dad640468eceefa99b906f7053d48f315d0647c" in_zeros="353378" out_zeros="6496"/>
-			<track number="44" type="AUDIO" frames="873" pregap="150" duration="00:11:48" size="2053296" crc="b1946a9e" md5="128e7da84260aa425b9d80d0dcceac82" sha1="ced069a8afbdf50b762845892bfc7f7a28673640" in_zeros="353390" out_zeros="5796"/>
-			<track number="45" type="AUDIO" frames="3282" pregap="150" duration="00:43:57" size="7719264" crc="19f4485d" md5="c0dce7aaca91229d871550f22e21747c" sha1="b50136dd3c2536f02facb96bb446bc9266fab1c9" in_zeros="353360" out_zeros="4705"/>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 1).bin" size="12545568" crc="e33a679f" md5="3655edbb953b6b6ff6b26575b06e3a9f" sha1="a35fc3fa04f8db3f1e195dfb083dbd0c3cadf558">
+			<source frames="5334" pregap="0" duration="01:11:09" size="12545568" crc="e33a679f" md5="3655edbb953b6b6ff6b26575b06e3a9f" sha1="a35fc3fa04f8db3f1e195dfb083dbd0c3cadf558"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 2).ogg" size="1004664" crc="98e79382" md5="be0b62ffbe9d7f7f57285347ab05f006" sha1="ee60232b36af05796477eaa936068b27747a6a58">
+			<source frames="2627" pregap="225" duration="00:35:02" size="6178704" crc="5a07c1dc" md5="dbe73c554463b50e4840ca00ebc3637d" sha1="0eb8815e58c272d0891fe89b80cb6501625da9e9" in_zeros="1" out_zeros="5901" trimmed_crc="88415653" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 3).ogg" size="897612" crc="cc892a6c" md5="1a3d1a8856ab59c63c69f7c09266e165" sha1="7a4dc57ab6940d2611d682edd8ee721af926738d">
+			<source frames="2391" pregap="150" duration="00:31:66" size="5623632" crc="fe918a3b" md5="66d52f88a187213df9724b342a9bcb92" sha1="a324120fe49691632d21a909616d2d6a13ab3eb3" in_zeros="353364" out_zeros="4725" trimmed_crc="fe5d4335" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 4).ogg" size="4119688" crc="8847f7a5" md5="534bfb0ba88e5f381603e2944789344f" sha1="18af69b5bdf28d5e18b051bc23c30f4f041ce735">
+			<source frames="9153" pregap="150" duration="02:02:03" size="21527856" crc="d3adee9c" md5="eab78e4b3e121a24cc67b5666c2f0dc7" sha1="0283adf393102b16260c705e354278fa94be02b7" in_zeros="353438" out_zeros="6496" trimmed_crc="95d20920" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 5).ogg" size="4060558" crc="17a48c42" md5="64a17b39e1e7faf49064875369eb49e2" sha1="df3b6ee523070f2d2bef5b668cf964966b683ef7">
+			<source frames="9153" pregap="150" duration="02:02:03" size="21527856" crc="8d07b7d5" md5="f8d8761b49deedaeba4c643b3449477d" sha1="efe18cad727278fd5c04b80287471b1f17883fe2" in_zeros="353440" out_zeros="6488" trimmed_crc="98cb3f1f" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 6).ogg" size="4443537" crc="3d9bdc39" md5="f7217e470955b1a79bf0eb24ab55a695" sha1="2153f802a4909cb3fa0c165d513d6076c3fd759f">
+			<source frames="9603" pregap="150" duration="02:08:03" size="22586256" crc="bf500705" md5="0e3bd79ce4a3bdbbf4012fef683324da" sha1="9780fadbba4cb8baab280001a11fcd46502a1710" in_zeros="353428" out_zeros="6540" trimmed_crc="1e6e69f4" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 7).ogg" size="4740814" crc="7a08bb3c" md5="5aa7ec43931267c80ec4318a9ba725d8" sha1="b074b7b52a1ecd11fd6710c812e7b2a5b7dd8afd">
+			<source frames="9753" pregap="150" duration="02:10:03" size="22939056" crc="347be790" md5="869ec91836dc8c718bbae0718ac02775" sha1="0e1400305a2e739de5294d0c2b3004873113ab73" in_zeros="353392" out_zeros="6498" trimmed_crc="a8ed8120" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 8).ogg" size="3954221" crc="9040e755" md5="45ff26238f92182f3761fd8fbbf5608a" sha1="c8511e8866ffc5d95f357a7520f054b28fa197b8">
+			<source frames="9753" pregap="150" duration="02:10:03" size="22939056" crc="bd849d94" md5="cf91f756f025806763080a10a802622e" sha1="1cb743471e2f1e5da6884b2fb30a42648c572afc" in_zeros="353408" out_zeros="6489" trimmed_crc="d775ac31" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 9).ogg" size="3748512" crc="80d78c2c" md5="18693e87cc855ad816d9b730905b002a" sha1="719e3184ca7c1f212879e915f6de5b0770f5efa1">
+			<source frames="9153" pregap="150" duration="02:02:03" size="21527856" crc="b1b82bcb" md5="0dcf52be89cb466f86f6225edd76bb34" sha1="9ce16a7a6869926412cfa9adce174fa843e0037b" in_zeros="353512" out_zeros="6604" trimmed_crc="f4596eb9" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 10).ogg" size="4225777" crc="2219f05c" md5="8cec94ef018394d8ade1be870cee93fc" sha1="0a1421d2779e46af09c81aa8d3441431ca8b4244">
+			<source frames="9303" pregap="150" duration="02:04:03" size="21880656" crc="fe35db75" md5="2d31c74f753e9ecec43ed6865091521f" sha1="e44d8f89851b523ea28a1f7c2b5858bd3df99264" in_zeros="353296" out_zeros="6561" trimmed_crc="586a9a46" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 11).ogg" size="4209793" crc="cc978d84" md5="eca0cac98003b1e60d4b70665265cec9" sha1="4cf018ef10c8f82b2153a532d92f65f951fbc0df">
+			<source frames="9228" pregap="150" duration="02:03:03" size="21704256" crc="9e09b9ce" md5="166dc8e87d6b8ca5d33a978198b17fce" sha1="8ba3671b38625ac2c9f71a0f6f4aceb7b8b3d820" in_zeros="356408" out_zeros="6568" trimmed_crc="a6479d11" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 12).ogg" size="4343929" crc="97fad7db" md5="80c949c7d10430c4a357f43e62d3a840" sha1="1b05b36232bba08f80213f1b37d3ebf2d5bbb73f">
+			<source frames="9303" pregap="150" duration="02:04:03" size="21880656" crc="231f0446" md5="99a1f7d06675475c5e35387fcf6c4d0c" sha1="13a0f96112d2bde7603aac11da37394215130126" in_zeros="353364" out_zeros="6517" trimmed_crc="6945fd2e" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 13).ogg" size="4419648" crc="3bd9e707" md5="59d6719f711ca3eefcad4f6e36f421d5" sha1="7b44cb13ed65019dba4a55adce79816ec84ca760">
+			<source frames="9378" pregap="150" duration="02:05:03" size="22057056" crc="7c3b9571" md5="93dccd48576cc617be07a6871e1f2eda" sha1="672c0eeb011d8d12eee645f1b3c79c1ae22e7f82" in_zeros="356902" out_zeros="6524" trimmed_crc="434c9942" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 14).ogg" size="4378993" crc="916b54b9" md5="7a1315001b1b4d9e5470498da959f750" sha1="463700767bdbcb8326eec6a6f41130e15eade072">
+			<source frames="9153" pregap="150" duration="02:02:03" size="21527856" crc="9a4c0cc4" md5="0d242d631887206f8bd5649ef5134e03" sha1="9b01d0fd046fb9e451ee16fee415f875e78bee94" in_zeros="353356" out_zeros="6524" trimmed_crc="59436c56" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 15).ogg" size="4143837" crc="ec877f4e" md5="637979fcecd5f46e225cf1b39c2debd3" sha1="27390d323f982adda46a7d3814525b80743b9522">
+			<source frames="9528" pregap="150" duration="02:07:03" size="22409856" crc="6e6ed8a7" md5="c3703c9ecc792865db06539c4fb239ab" sha1="6e1f1b02b14eaee4b00790a53df108d527da73b5" in_zeros="353384" out_zeros="6524" trimmed_crc="745ce982" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 16).ogg" size="4230332" crc="8e445248" md5="8b8adafbf4fecf285718a4167570cb58" sha1="70b27f66423c1cb7876f3fa0b5e5dcdc5df254ce">
+			<source frames="9453" pregap="150" duration="02:06:03" size="22233456" crc="b4767aaf" md5="d1cc4ae843fff6ebbe82a2eac4ee25b0" sha1="8110a0efd276548b35321410f7699f208035e65a" in_zeros="353396" out_zeros="6540" trimmed_crc="23301f7f" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 17).ogg" size="3974365" crc="72316fe0" md5="3ab4d4353f7f2a063a1e89cfdb4acbe5" sha1="ed6fb554c86912360e8a54f9f98771f8c02d721a">
+			<source frames="9228" pregap="150" duration="02:03:03" size="21704256" crc="041eb8d6" md5="af38e9b1c17ec317122091e2b8ef77bb" sha1="e3df59a733f90e44a5b6f32af31e60b61b3ca927" in_zeros="353352" out_zeros="6577" trimmed_crc="782077a9" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 18).ogg" size="4187200" crc="4f62ceb3" md5="8e4f3882ff01603916527d401ade0bca" sha1="3310c321dcef154c47d0ffc7740fbdaba9f64849">
+			<source frames="9153" pregap="150" duration="02:02:03" size="21527856" crc="7a1f0280" md5="5bc7c802b8c96731b5f3431ce51e6c5e" sha1="3ebaa8e07e9c70f7db9ccda56efe527a7daa2c67" in_zeros="353316" out_zeros="6540" trimmed_crc="a9dd83e2" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 19).ogg" size="4346276" crc="a1199660" md5="4f9ef81971ca0037d2b43aec6352a82a" sha1="67a7414683d72ec50afcad54cf88b61f150399ba">
+			<source frames="9153" pregap="150" duration="02:02:03" size="21527856" crc="fcc1e5bf" md5="ccb2cd26647bbc203fa6c5bdca36b0bf" sha1="f0481dde6ec59b7847fe73bf9390e9b9e14d2e7c" in_zeros="353392" out_zeros="6548" trimmed_crc="2caeb001" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 20).ogg" size="2018130" crc="e6ec6314" md5="97e19d1d8f672ad27caf4405ae8302a6" sha1="a06fece104fdf19893d6e2bf24275079d9f935c0">
+			<source frames="4751" pregap="150" duration="01:03:26" size="11174352" crc="5015f8bf" md5="4c2b2c937edd8530ba2ae3fa935d5009" sha1="bf6a96dc8ce3d81e1ba88c55814fdee19b1a1df6" in_zeros="353756" out_zeros="5913" trimmed_crc="37057f2a" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 21).ogg" size="1623745" crc="2ae27e7d" md5="12c097ae53b25908eccfa4576d394892" sha1="a1cacdd4b159bdf3bc6ec28fe761d1c9e2f190ff">
+			<source frames="4653" pregap="150" duration="01:02:03" size="10943856" crc="e022a13a" md5="39ec265d426df66944b25df0f183934b" sha1="a78c78382ff9152c1a879925abcc30f96ba359ad" in_zeros="353372" out_zeros="6495" trimmed_crc="c51a5cca" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 22).ogg" size="2153393" crc="89470aca" md5="09613cdf41a7e8ca738a84f0b3fcc4d0" sha1="cf671d7432be86899f0d68fdd4c2230c3a758cb9">
+			<source frames="4653" pregap="150" duration="01:02:03" size="10943856" crc="564c4853" md5="21474d1dd3ef0804d95def649b9d4ade" sha1="9ed385148f847d336999a3260570f3f944690a15" in_zeros="353378" out_zeros="6493" trimmed_crc="435a60e1" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 23).ogg" size="1911949" crc="133e372b" md5="fefed9346c60fcedef7a66e4de1fba3c" sha1="7c8c0ad77465e6ed29addcd3ea4b99eb25d64bda">
+			<source frames="4653" pregap="150" duration="01:02:03" size="10943856" crc="33b9e9dc" md5="9e509769a8a31aceb1ac336de88a124e" sha1="9f21ba84eedeb71cda267d7d7efa2afc2dadac57" in_zeros="353392" out_zeros="6493" trimmed_crc="99fee1dc" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 24).ogg" size="2036828" crc="6b96d804" md5="9df19e86667b56231d30a79be7bb9e4c" sha1="66001a63d83055d020bbe1c061f0ef02681ee58e">
+			<source frames="4653" pregap="150" duration="01:02:03" size="10943856" crc="541a61eb" md5="ae931b991ff08eeb157794f1a42dc01c" sha1="54eadbc48b45c153f5f126e3acb1a27bfe0f47b2" in_zeros="353376" out_zeros="6548" trimmed_crc="37af6c4d" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 25).ogg" size="2215848" crc="965b575e" md5="b42d1f287985fcee0fd8140649472802" sha1="565006328f935e525b2f043d7261d599a872c0fb">
+			<source frames="4803" pregap="150" duration="01:04:03" size="11296656" crc="b96a0b0a" md5="e3734240b4921afd45691af6075334eb" sha1="5e408412575059847502b8e3c6399fac824ce42a" in_zeros="353292" out_zeros="6565" trimmed_crc="b63ed543" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 26).ogg" size="1891839" crc="7801223d" md5="0831e66abc027f8aefeaaec193e7ece1" sha1="9867671b8f7c73155583de2476ed0c4d7844f584">
+			<source frames="4653" pregap="150" duration="01:02:03" size="10943856" crc="25ea82ef" md5="a332ec2a30bf71dd53ad8b0bea153215" sha1="71d6a41efb06d6a1bb7c6f46711bea3005b8f850" in_zeros="353312" out_zeros="6548" trimmed_crc="12f67eec" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 27).ogg" size="2026354" crc="93d2bb42" md5="f96df349ab6af8bf80c11cf0cb1d64b1" sha1="942cdcfb49a439e8c27e384a251a96d98c5c44f5">
+			<source frames="4653" pregap="150" duration="01:02:03" size="10943856" crc="46082a0c" md5="08b5f97cd8c1612e8287779a29a50d52" sha1="a42cad59e6abbc695c80f812c3ffea910206c3bf" in_zeros="353400" out_zeros="6497" trimmed_crc="313ff830" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 28).ogg" size="1180680" crc="ecf7ff00" md5="63847d200d173979bf51ad8da5b5758a" sha1="9dfede8ce89a9767df10a099460a452c0979fe79">
+			<source frames="2770" pregap="150" duration="00:36:70" size="6515040" crc="a8cff9d1" md5="99d1885cbe9863bb1335f5801e6e7d2b" sha1="ac179a9a4b20fbbde501f5a9c962656f5c0dce7f" in_zeros="353340" out_zeros="4704" trimmed_crc="19bee260" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 29).ogg" size="1945439" crc="d9ec10be" md5="e16c60c8cab54a6a40b8de2e2df3ff1a" sha1="e5e81ea62b017110212a124e766d8eec62037988">
+			<source frames="4653" pregap="150" duration="01:02:03" size="10943856" crc="2333ee00" md5="9d684dad18aa3da7f6c176573fa8775f" sha1="fda716e85d8a564c0db6cfa0e373cf87fd5fd200" in_zeros="353316" out_zeros="6541" trimmed_crc="66001bc6" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 30).ogg" size="1882968" crc="2c495dca" md5="e33bd23dafde19535fe0f2f43c81428f" sha1="7fe5a526fb781a616328121b33cf98c0acf40e14">
+			<source frames="4653" pregap="150" duration="01:02:03" size="10943856" crc="3486a4f7" md5="778d3112fe2a00f9f9d1a0d4f9c1f3da" sha1="8f73940f1b26afec75f748ad8e15d7744b009255" in_zeros="353364" out_zeros="6541" trimmed_crc="40131e2f" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 31).ogg" size="1781924" crc="1868c794" md5="4c1b38dac24e8c8a19e7191d2b96a07a" sha1="3f7833fcd91a79e9ea6ddc66ff8817383019b97d">
+			<source frames="4878" pregap="150" duration="01:05:03" size="11473056" crc="68700d42" md5="4e3c0a9152f72383497a0b2589c70c3e" sha1="e0c4095c090b6398cd703f67343f3564fba7a548" in_zeros="353352" out_zeros="6548" trimmed_crc="53c3117f" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 32).ogg" size="1996909" crc="b22915e7" md5="aeb0adad6aed7c46f5fc4cb5ffdcd393" sha1="b9c00c61dfb9ead4a5f8415f20129739587fe847">
+			<source frames="4653" pregap="150" duration="01:02:03" size="10943856" crc="78d6a735" md5="37fe6f8cab8ae7d7c796d9e6533ee831" sha1="3e95951de0c68edbdd44bc1cba0a7de3337d198c" in_zeros="353292" out_zeros="6565" trimmed_crc="61412cf3" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 33).ogg" size="1870762" crc="76a5605e" md5="9e725bfe5f13fccc75bfa50627c4774a" sha1="2be54ebcbe88d53c7496f11825d9a15f3ce81cc3">
+			<source frames="4653" pregap="150" duration="01:02:03" size="10943856" crc="e2865e75" md5="9df003f9426e17bc3b40892a753f9c12" sha1="faeb2ff7f97da2543d004a8eb80abbb27d963edc" in_zeros="353510" out_zeros="6500" trimmed_crc="975bed62" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 34).ogg" size="1823766" crc="1e8c9d12" md5="490a48ef5b06abb2ad63dcf3ae0b49a0" sha1="41c488d9e4825fc9c2b72c44d742ab8dac59a492">
+			<source frames="5028" pregap="150" duration="01:07:03" size="11825856" crc="112c3e68" md5="fc6c757418aa2de31127ba13666b2ee9" sha1="4970f38a2c8908d5a6f8a3985326cb20a16f1a25" in_zeros="353364" out_zeros="6502" trimmed_crc="64a2ac39" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 35).ogg" size="1874521" crc="91f33961" md5="8ce69d08db6371d603025a7f191f3dc4" sha1="5f25c6d80e139d4935e8a3717a5b731d8210f73f">
+			<source frames="4653" pregap="150" duration="01:02:03" size="10943856" crc="20d27ad4" md5="17e4c2ce9c8fa54524e6fc81dd48082f" sha1="61ee65321081541bb212d1e209524123c6877f86" in_zeros="353364" out_zeros="6493" trimmed_crc="dbb9caa7" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 36).ogg" size="1751151" crc="d06a1525" md5="32069403ee38c43136c896337824cc04" sha1="b7d3730f7db47b3fced4e2e6085d59168c2c1f8f">
+			<source frames="4653" pregap="150" duration="01:02:03" size="10943856" crc="8fb06ff0" md5="1867df27bcf8ee0a6cbdf42418043c5a" sha1="4158e28fe55075027ad23a0abbbf34417a1da2a8" in_zeros="353384" out_zeros="6492" trimmed_crc="a6d5af7e" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 37).ogg" size="2238501" crc="ad6cc670" md5="9f1de72f646bd516a5507381f0576efb" sha1="0e31e80c79e15da156701ace773530710c27182b">
+			<source frames="4653" pregap="150" duration="01:02:03" size="10943856" crc="213a220a" md5="4e4d34cce488550fcaed06a8f69ac305" sha1="775e6e6adad4a108ec291273dba9ac8da09c712f" in_zeros="353344" out_zeros="6520" trimmed_crc="047562f1" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 38).ogg" size="1000326" crc="f7e755b9" md5="3a4e6083bef79ef2460ee54654f1db1a" sha1="0f685157fc521125ed7ba7915165fa2373cf764b">
+			<source frames="2403" pregap="150" duration="00:32:03" size="5651856" crc="94852d97" md5="18e6ab5210fb50b82365e716510bd2fa" sha1="108454cd856cb254721357511ac24b0cf754df42" in_zeros="353338" out_zeros="6521" trimmed_crc="6a903bdd" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 39).ogg" size="242669" crc="3b141631" md5="1ce975aa78548427a5b22beecac5ca22" sha1="7bb6103d574de84e5a9eb5d7099b73347e9c44aa">
+			<source frames="753" pregap="150" duration="00:10:03" size="1771056" crc="a99bf599" md5="b5f84678d8560ff79f2f7a61a245fc6a" sha1="5661d8c3190629989779ec50bec91065b0491d63" in_zeros="353318" out_zeros="6548" trimmed_crc="cdc1b212" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 40).ogg" size="96319" crc="b8a01f6c" md5="aa84e425ac288df1482a596c98e66716" sha1="ea9e50d4df66a1ed4534ccc405ee12991b9734a6">
+			<source frames="450" pregap="150" duration="00:06:00" size="1058400" crc="a8694d0f" md5="1fdf0bc4552bbfaeae1dbedea2f5b81f" sha1="e71a995813753c468d53c40bf40e69ece7e89714" in_zeros="353340" out_zeros="63704" trimmed_crc="76a5f719" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 41).ogg" size="172724" crc="2b5a35fe" md5="e1619a5deec6a405f8bd64f9b7a3db04" sha1="7e2841b09c2ae794b233c9a5ad00c2fe7843ed96">
+			<source frames="583" pregap="150" duration="00:07:58" size="1371216" crc="31e6904f" md5="67aefce2abcc864d923bc3afd23efd34" sha1="df52b3cfd53026153766f8e01a40d73f86ff0f85" in_zeros="353310" out_zeros="5377" trimmed_crc="b3c1f7a8" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 42).ogg" size="2087599" crc="83843d1c" md5="fddcf982e7a541db30d4e368f177e7ef" sha1="a2223d56ba2762cf327f20d128c58b2beef47a76">
+			<source frames="6282" pregap="150" duration="01:23:57" size="14775264" crc="36439636" md5="58033a483bb53c095ebcdfe4e2fef6fb" sha1="1f0fb31ba021173707429f572898dde8edc01a59" in_zeros="353478" out_zeros="5084" trimmed_crc="09d0bbfc" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 43).ogg" size="125381" crc="2858612e" md5="d9282d03fdd1ec0cbcf9ece5165506d1" sha1="416ae3ea9a05cb4fcadf8718649bda9b11692f6f">
+			<source frames="483" pregap="150" duration="00:06:33" size="1136016" crc="5c4036c0" md5="8239016d21afb163e2e3a68b3c046e93" sha1="2dad640468eceefa99b906f7053d48f315d0647c" in_zeros="353378" out_zeros="6496" trimmed_crc="fa2aeec0" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 44).ogg" size="287597" crc="c6088d3c" md5="5d8c8c436d9069a29661b37370ca871c" sha1="9cd80079e1fe9648b036320ab6697422d1c350dd">
+			<source frames="873" pregap="150" duration="00:11:48" size="2053296" crc="b1946a9e" md5="128e7da84260aa425b9d80d0dcceac82" sha1="ced069a8afbdf50b762845892bfc7f7a28673640" in_zeros="353390" out_zeros="5796" trimmed_crc="03dac792" quality="8"/>
+		</rom>
+		<rom name="Super Street Fighter II Turbo (USA) (Track 45).ogg" size="1374239" crc="f463774f" md5="bf3146a40e39b84d82cdb38dc97845f9" sha1="ea245436e92b1858db282b409e129488be53ea34">
+			<source frames="3282" pregap="150" duration="00:43:57" size="7719264" crc="19f4485d" md5="c0dce7aaca91229d871550f22e21747c" sha1="b50136dd3c2536f02facb96bb446bc9266fab1c9" in_zeros="353360" out_zeros="4705" trimmed_crc="03262d87" quality="8"/>
 		</rom>
 		<rom name="TABLES/AKUMA.FRM" size="14376" crc="1552fc9d" md5="fbd2730b4ef84577b0018640c0056ee0" sha1="41d0fc1818964c9bc5037a0e4757ff31dc0172c4"/>
 		<rom name="TABLES/AKUMA.MAI" size="92" crc="9fa3ab3b" md5="4ca807221c3415425c8a623c108d0888" sha1="5d09ebb4a1e8a28f4ec85cde15fd57ac0a816b7a"/>
