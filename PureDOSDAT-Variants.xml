@@ -22,7 +22,8 @@
 	</game>
 	<game name="Descent II (1996) (Parallax Software) (GOG).dosz">
 		<description>Descent II</description>
-		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
+		<comment>Needs GOG's default DESCENT.CFG file</comment>
+		<comment_dosc>Required DESCENT.CFG file and auto start</comment_dosc>
 		<year>1996</year>
 		<developer>Parallax Software</developer>
 		<variant>GOG</variant>
@@ -30,6 +31,7 @@
 		<rom name="ALIEN1.PIG" size="5016232" crc="3d44d665" md5="b0619642eeb50ac4d5198499a26b7355" sha1="80e040199b347f8f17f31afb32d551113cf40956" date="2017-11-22 13:42:28"/>
 		<rom name="ALIEN2.PIG" size="4912053" crc="106032b2" md5="a242d46dfd0f16454f6f5377cbb424a5" sha1="2bbb8d941f8b06b56d5ddc7f723a206907a95548" date="2017-11-22 13:42:28"/>
 		<rom name="DEMOS/descent2.dem" size="1168217" crc="5cf37eba" md5="6c0d51cd4ff04030e66423895f74be72" sha1="26ab4ceb00ef1cbd1dfd29a6f7bdd9f6bb28de07" date="2017-11-22 13:42:28"/>
+		<rom name="DESCENT.CFG" size="390" crc="d298fb65" md5="856c04c96fb278d8a825ee0fb48aeb96" sha1="d5f9e7e387f252efa870f6cff317b9eb7906ea07" date="2017-11-22 13:42:36"/>
 		<rom name="DESCENT2.EXE" size="1507821" crc="183f70f3" md5="f6a3c0f932e776b892d7529bca7f05f7" sha1="8a57115ff07574b729f2994d59e92a2b5f9aa11e" date="2017-11-22 13:42:28"/>
 		<rom name="DESCENT2.HAM" size="1307598" crc="7e4781ed" md5="7f30c3d7d4087b8584b49012a53ce022" sha1="9f621706cbd601bd6938a44f5fb7e5cc55d4b61f" date="2017-11-22 13:42:28"/>
 		<rom name="DESCENT2.HOG" size="7595079" crc="60bb6742" md5="1d4cd6418dd7adfc5d312c04c265e5e6" sha1="8e73beb4b64a7222fa2b5214282d5e671b313992" date="2017-11-22 13:42:28"/>
