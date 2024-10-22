@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Pure DOS DAT - Freeware</name>
+		<description>Free DOS Games by Indie Devs</description>
+		<version>2024-08-08 00-00-00</version>
+		<date>2024-08-08 00-00-00</date>
+		<author>Pure DOS DAT</author>
+		<homepage>Pure DOS DAT</homepage>
+		<url>https://github.com/PureDOS/DAT</url>
+	</header>
+	<game name="Angband (1993) (Angband Dev Team).dosz">
+		<description>Angband</description>
+		<comment>Freeware v3.0.6</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>1993</year>
+		<developer>Angband Dev Team</developer>
+		<link type="freeware">https://rephial.org/release/3.0.6</link>
+		<rom name="angband.exe" size="560680" crc="30b7845b" md5="61db1570dc75ecadeb9f0c327433d579" sha1="bd28360f95cf6706b1dd06d109d538578747b6b4" date="2005-06-18 15:33:34"/>
+		<rom name="angdos.cfg" size="8745" crc="6f17b5a7" md5="64c2a6b320ae94c30196d4b2d7e55534" sha1="d3a193e83fd767d016c21078e6a5aded441c5ed0" date="2005-06-18 15:33:34"/>
+		<rom name="Authors.txt" size="443" crc="8eab0413" md5="6a26a2af467bd9eee27f4c5cedf87432" sha1="572a9f883d81b6e379e4230f17f12fe4d070f7f1" date="2005-06-18 15:33:34"/>
+		<rom name="changes.txt" size="51909" crc="b3ad9392" md5="f6e525ce1a2d7843f58ee2ab82c0a409" sha1="f174b3368a9f5ae0ee9c5a4af1df6b1dbd835a45" date="2005-06-18 15:33:34"/>
+		<rom name="Copying.txt" size="830" crc="daf7af33" md5="b04fa19fc2cd14064983045169362ad0" sha1="db1071e5b0c58b341f1b0c6554b862031d4448cf" date="2005-06-18 15:33:34"/>
+		<rom name="cwsdpmi.exe" size="20473" crc="80fa6999" md5="da922d33e83c4ca711a92e59f2c6a9fc" sha1="3de2eb058ed95a0bbe7f19eae24f77a025b2e3bb" date="2005-06-18 15:33:34"/>
+		<rom name="lib/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2005-06-18 15:33:34"/>
+		<rom name="lib/apex/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2005-06-18 15:33:34"/>
+		<rom name="lib/apex/delete.me" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2005-06-18 15:33:34"/>
+		<rom name="lib/bone/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2005-06-18 15:33:34"/>
+		<rom name="lib/bone/delete.me" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2005-06-18 15:33:34"/>
+		<rom name="lib/data/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2005-06-18 15:33:34"/>
+		<rom name="lib/data/delete.me" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2005-06-18 15:33:34"/>
+		<rom name="lib/edit/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2005-06-18 15:33:34"/>
+		<rom name="lib/edit/artifact.txt" size="55646" crc="ac395878" md5="1840e9ce63895964a5ae14ec965de637" sha1="f732b0385cc61aa04e8a09c00ab4d1764fe80dd8" date="2005-06-18 15:33:36"/>
+		<rom name="lib/edit/cost_adj.txt" size="1180" crc="18719c41" md5="171c496d620ebbd5427d0b9544e1bc6d" sha1="a9e809beff01a8ed212d689b75054c93bc810a45" date="2005-06-18 15:33:36"/>
+		<rom name="lib/edit/ego_item.txt" size="15452" crc="463204a7" md5="47351907ec63cfa892ca0ef7c4f9d6b6" sha1="546e68822a4d31574a8fbc5e86c7c58a78651807" date="2005-06-18 15:33:36"/>
+		<rom name="lib/edit/flavor.txt" size="9439" crc="e757f6a9" md5="b0ec6e560cc2e84d6e78e67b5a52671f" sha1="a16ad80b93237556486aff96154467b72580a28b" date="2005-06-18 15:33:36"/>
+		<rom name="lib/edit/limits.txt" size="1352" crc="70ed5b79" md5="47f435d888f24b25d15afc335851af93" sha1="c0ed156466cf189bcf8325baf033b80e8adfc659" date="2005-06-18 15:33:36"/>
+		<rom name="lib/edit/monster.txt" size="224211" crc="40705a50" md5="ef9619016e004c492e996a5cbf82ea30" sha1="d3481ec5ff5ab27b982ee72740a439fc01d848db" date="2005-06-18 15:33:36"/>
+		<rom name="lib/edit/object.txt" size="75240" crc="470ace56" md5="3f9c4490df62012e47a7dad76fb0c333" sha1="e21aa0275d6360ee868df51399665ce739839802" date="2005-06-18 15:33:36"/>
+		<rom name="lib/edit/p_class.txt" size="9455" crc="99145325" md5="7c189694ec1c336aef5607896e7664ff" sha1="2862ff0949266c1cf211488f76b56b86041a4b1c" date="2005-06-18 15:33:36"/>
+		<rom name="lib/edit/p_hist.txt" size="8024" crc="66d3df5b" md5="3349ae7d80085989409106bbdfcefd7b" sha1="d5df76f937d4f92463b31e5d5ed20aace74d60f0" date="2005-06-18 15:33:36"/>
+		<rom name="lib/edit/p_race.txt" size="3099" crc="e5b15ca6" md5="48c50218bec02b7ae2f7d199d89b1960" sha1="66affcc28c73f9f2fa7c71af4b0fa30156e39f75" date="2005-06-18 15:33:36"/>
+		<rom name="lib/edit/shop_own.txt" size="1879" crc="d9576259" md5="5bc88ee61cdb709a966a374908cad6cc" sha1="f33516ca13ae4ea48c84e788733fa854f4e2f11e" date="2005-06-18 15:33:36"/>
+		<rom name="lib/edit/terrain.txt" size="5575" crc="5317b589" md5="a50356d02a6d489b702964112d4b10a0" sha1="5018b5b4ffa6c6d0a7f578320b0e8b2bbe1eecbb" date="2005-06-18 15:33:36"/>
+		<rom name="lib/edit/vault.txt" size="38425" crc="286cbae3" md5="94726dc14460e2a6c1aad34295565409" sha1="61ffe666771910ebd9f31d5176a3476514cc0315" date="2005-06-18 15:33:36"/>
+		<rom name="lib/file/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2005-06-18 15:33:34"/>
+		<rom name="lib/file/dead.txt" size="1622" crc="9d964299" md5="ddfab40251a7fa50d539d16b9734533e" sha1="67f741de39e30cbfd2b487a55ed442033ccd10d8" date="2005-06-18 15:33:36"/>
+		<rom name="lib/file/news.txt" size="1011" crc="cf608e85" md5="05a49912035b22519c48c223c47f72fb" sha1="df41e129deb13137708055545dbf4e72e8556458" date="2005-06-18 15:33:36"/>
+		<rom name="lib/help/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2005-06-18 15:33:34"/>
+		<rom name="lib/help/attack.txt" size="33506" crc="b99bb5d2" md5="8cc312d78df86281b451a79f587a3739" sha1="bcb48e514243ebb49763a1aceef5b0567e38ded5" date="2005-06-18 15:33:36"/>
+		<rom name="lib/help/birth.txt" size="33376" crc="ae28e910" md5="bcb4964b6e6ec6c1297a9ad78139603d" sha1="6cc86d0da85e7f03e2eadea4fb538a3a454bcccf" date="2005-06-18 15:33:36"/>
+		<rom name="lib/help/command.txt" size="36399" crc="8b0fc94a" md5="80f0426a4d2c7dba1218b7da74e90365" sha1="ed6ff25d3c6982321c27af218ebd293922b296a2" date="2005-06-18 15:33:36"/>
+		<rom name="lib/help/dungeon.txt" size="23689" crc="5e019d86" md5="3928e9da1a2ef3565b8c3f3580629462" sha1="a91f82829893f45c760356aaf1eeb1c2de8cc5dd" date="2005-06-18 15:33:36"/>
+		<rom name="lib/help/general.txt" size="19328" crc="1dc77e59" md5="8b7d90455c81e260fc0d9e9463f553ae" sha1="29982ae296f36a56074a933599c12c3dd7620581" date="2005-06-18 15:33:36"/>
+		<rom name="lib/help/help.hlp" size="1150" crc="b764644c" md5="4adab25a118006f82510206bd0325c86" sha1="d6e7d4d173444d9aee44ac02fff08429d4b1a7ac" date="2005-06-18 15:33:36"/>
+		<rom name="lib/help/option.txt" size="29198" crc="f507053c" md5="f4290b1ca029febe8ae38391b67b2f2f" sha1="6a1de126b3482b56cfa8e49f9f047316c7698764" date="2005-06-18 15:33:36"/>
+		<rom name="lib/help/playing.txt" size="26408" crc="76aa6fba" md5="c0111bdb1a1794a7368f4fc771174fa3" sha1="c668a80ab37b219fbcdff870023e779439e084fb" date="2005-06-18 15:33:36"/>
+		<rom name="lib/help/version.txt" size="23247" crc="5b8b9696" md5="244df89cd94944ef8f92de6533a2b422" sha1="a46dd0e38cfb8579b38885216f5a130f65cdcc52" date="2005-06-18 15:33:36"/>
+		<rom name="lib/info/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2005-06-18 15:33:34"/>
+		<rom name="lib/info/delete.me" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2005-06-18 15:33:34"/>
+		<rom name="lib/pref/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2005-06-18 15:33:34"/>
+		<rom name="lib/pref/flvr-dvg.prf" size="10607" crc="896d487a" md5="b68a5189c4332bb75fe4e89e92b5d5b7" sha1="7dcaf9c5f7025dcaba0ad7880ee3586a2c8894fc" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/flvr-new.prf" size="10607" crc="b072c068" md5="a305cdb1305e218525068bac27405533" sha1="ef5b89e8110b6a327543676e09baffca0a6e0ea3" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/flvr-xxx.prf" size="10607" crc="aae454f0" md5="58f4a32645f19c62a5bacbe5efd4487e" sha1="292fef05a12ccb1aff82f1347dfde042c8b81d9b" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/font-ami.prf" size="589" crc="a7e04270" md5="2ee390b854ebeadfbd5f15a68ba3d986" sha1="7836001e3451b67b4422ccec057628f38fe7db4c" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/font-dos.prf" size="246" crc="829d754b" md5="dc23e16e892a730822c3181f8909fb23" sha1="a8138fd8ac2ba8f56031bae47abc26b317f2f60b" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/font-ibm.prf" size="815" crc="43eb15c8" md5="d411a0f646aaa7ff5649678615f54ed8" sha1="da9c35fa659229e44b6425b46a54211008a1ad95" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/font-lfb.prf" size="563" crc="ea8e5670" md5="b71cef84263f314c29ef554f66895cc5" sha1="d9dedc70a6a8a0dc7d19162e8d60a9dabc725d70" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/font-mac.prf" size="883" crc="fa4f1f20" md5="ce8af38071cbcc360f5d1358be669e73" sha1="1b4fa8733515c2db7e2a0791a09a13561e6b7bc8" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/font-win.prf" size="1004" crc="1e40d1be" md5="50f98d901d093432b4f4a29b80294651" sha1="3f516a30c91d2ec93fb9b5924d223d1473ec820e" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/font-x11.prf" size="1021" crc="b3f5e080" md5="07fcc73e485120e9b20fa0b063058005" sha1="22305eb679839c6e844daa56dc580567e7cd8712" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/font-xxx.prf" size="6058" crc="baa354b3" md5="7df94faad35e758f96b7c7258963396c" sha1="4f34e96e2cf8b4a13a704532f7221aeabfbb235d" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/font.prf" size="913" crc="c2594708" md5="0b8c5bc90c15a6dbac7e58ea7277cff6" sha1="ec025affd4d8c7639b2bd3ca973fdba379a1c0da" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/graf-ami.prf" size="1210" crc="18958b8c" md5="06f182d8ceb1789827b48c50665e56af" sha1="49ace0f7cab617864fcceb16ebe0530401f1ab4c" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/graf-dvg.prf" size="46089" crc="a2c21091" md5="1bf891b14e965690d4d38c005a04075e" sha1="56d6feb334fd4f7ec710d6edf204ec50b5a15b1d" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/graf-gcu.prf" size="540" crc="fd3c8f86" md5="fc3f64ea858d6ccaad0d68eb3de69100" sha1="b6fc323dedfd5ac88df0d23f8b4cfa4fd5e668ca" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/graf-ibm.prf" size="35173" crc="12fdedeb" md5="fafa24c73f8d4a0c86647e28a9baf5bb" sha1="36aaf95639a489d5cc290c628ffdac257a318f61" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/graf-lfb.prf" size="247" crc="d988fb35" md5="a73b6c85265009918c6c5fdbc328c6ec" sha1="d1556c54a113e518d980c3ba72173b47b8dd66da" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/graf-lsl.prf" size="217" crc="29422250" md5="a278a1c223888cac8f73d13d2e00a94a" sha1="d00c06a3ca44a967b729e29cba84ff9a39566be5" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/graf-mac.prf" size="347" crc="e65ce10b" md5="78de66497b98b8fa42f55e25979db312" sha1="168d9e1fc497487c16a0fc62d75a6ccdd9a3cb3d" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/graf-new.prf" size="48901" crc="d1ab8fef" md5="f91bc8c467a0f892a80b84d5a068f0d8" sha1="f04217c16cf123c6432a228bb3b28c3ea7305a29" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/graf-win.prf" size="347" crc="e651cb68" md5="541f19681c0c78772abab084726845e2" sha1="269d815dfcfb61c9ff44abf9c3784e6b2ab5dd01" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/graf-x11.prf" size="733" crc="2b26d07a" md5="2b6dbfd35aa0ac096618c23a10ab88ed" sha1="2b3ecb87a2ba3aa48709ab408793a2f45d531b20" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/graf-xxx.prf" size="46408" crc="77277cc4" md5="70129b85e9d02ea32554a41277ebad56" sha1="0110a3334e94b0a6c7b359db334378fcae98a826" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/graf.prf" size="758" crc="7c403f5b" md5="23b7dbd3fb6c0654bd406345e9c44a1f" sha1="8bf6287506c896d72e5236a6b76524ec8b3192dc" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/message.prf" size="1238" crc="17ea4f97" md5="335bd15adc174e2a7cc76a1e7d5d8025" sha1="26933b111ee33e8ff195bdd1e70671a70cb5d1b0" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/pref-acn.prf" size="779" crc="edae0fe8" md5="b0c38404b59de3e386e4b4d7d297b204" sha1="1c687a843e0f720f7f91d65405fc842f73a8e259" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/pref-ami.prf" size="133" crc="2b2f7f40" md5="a924f6fde5a3e80bdf9863acd3d0cb4a" sha1="4d0b461b6f77f4d60c66ae0082b38df5ea7441e5" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/pref-dos.prf" size="5058" crc="6708caf2" md5="912d569af4d9d6bc225272271fe4aa2a" sha1="74814c316448d5dff085bf7e9c683761fe6ea447" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/pref-emx.prf" size="344" crc="33a69aa4" md5="eacf0b6262993f154a600c1b7e582a1c" sha1="b10b3dd203ed4791581cc0fafe35387ba7c75b25" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/pref-gcu.prf" size="743" crc="0f09fb20" md5="5837b482877f60a7324541e05378a620" sha1="bdd75adbcc99439eac4e51af99d87e60a0c20d04" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/pref-mac.prf" size="2200" crc="34532e45" md5="a6d744682c9264af32a8ca0bd3111237" sha1="dbb175e81e2e0fb55f7a437ca5519e1043863c5d" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/pref-win.prf" size="4929" crc="1b2e0a9e" md5="689937399bdeb2f3b936aeb5f19b1df2" sha1="b0d198b8f8764362d9a7b7db3655207731fbef81" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/pref-x11.prf" size="6374" crc="ef3ade4e" md5="3c4040161d79e493628399ce08456127" sha1="9d64e0b9e0ef3bcd915dda1519619436e21c5f48" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/pref.prf" size="2854" crc="09d8b2b2" md5="6dfc2c54557b8b4a1d9f22e3dee0aceb" sha1="b98927db26c46555b9aa323cf8a3c5c5f5b8b04e" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/user-mac.prf" size="2366" crc="ac35b02e" md5="e896d207cfbbaee84ac9993620caa0e4" sha1="1c6b8c370d5ac62e7e2cae980fff01244bc3bd5e" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/user.prf" size="1623" crc="c2265fbc" md5="0a78b6d05ebb103d4a66118a1653087d" sha1="07e6a813f5ada1cd589939714ecfcf2c23314ff3" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/xtra-dvg.prf" size="4539" crc="b67757af" md5="9a1b10ba85c6024d3d9f31774b0e0f9d" sha1="ee68e0fdb4d5250bc471ffb38f2708f10805018f" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/xtra-new.prf" size="4573" crc="11273857" md5="86252491e254aa5ebfeac43748892980" sha1="963782389f4d4b775c9d33ca271c52500614dd3a" date="2005-06-18 15:33:36"/>
+		<rom name="lib/pref/xtra-xxx.prf" size="4474" crc="5079e3f7" md5="480fad5c5094564011ec93109d4c12f7" sha1="651b3622a6828bf470d5bca8d9ca7d213bbfe0c4" date="2005-06-18 15:33:36"/>
+		<rom name="lib/save/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2005-06-18 15:33:34"/>
+		<rom name="lib/save/delete.me" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2005-06-18 15:33:34"/>
+		<rom name="lib/script/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2005-06-18 15:33:34"/>
+		<rom name="lib/script/birth.lua" size="748" crc="51359584" md5="fde318600605b70309f99a42f35546f7" sha1="a2c2452f3edc4cf8eff1f7e22b2807ebaaad39be" date="2005-06-18 15:33:36"/>
+		<rom name="lib/script/event.lua" size="1891" crc="49d32df8" md5="402a00f4cb04b6565c9d99c189138df0" sha1="1b5acc4c70746b1d600a2b9e1218e5346ba4f0c3" date="2005-06-18 15:33:36"/>
+		<rom name="lib/script/init.lua" size="971" crc="1cac738f" md5="145b322d2e4fb12d0097dba9828473b8" sha1="7177b995a4c864675ff5170b034a447c3feb73c5" date="2005-06-18 15:33:36"/>
+		<rom name="lib/script/object.lua" size="52523" crc="555d0ba0" md5="33428e5688e48bd8e3371319eae1cf8b" sha1="140fb5caa7f588c78d9676058d40d1303fc16825" date="2005-06-18 15:33:36"/>
+		<rom name="lib/script/player.lua" size="1206" crc="e2c1101a" md5="41bf75f91299604fa21ce1cf01b92124" sha1="b3d9495f819a695c633f2a954d3b5edadc13a8b2" date="2005-06-18 15:33:36"/>
+		<rom name="lib/script/spell.lua" size="36639" crc="7b925a15" md5="6ca44126e4b004435a168361428e4c2b" sha1="c5fbcf8a13eb5ff6e302a767cd80b6bdc3119845" date="2005-06-18 15:33:36"/>
+		<rom name="lib/script/store.lua" size="9943" crc="19025925" md5="b1ba48cfceced2ba8bdd6a1692898fbd" sha1="31565e88c25cf00b37dd37a59e43505e271af780" date="2005-06-18 15:33:36"/>
+		<rom name="lib/script/test.lua" size="5730" crc="e5afa00b" md5="c9fe5729993c8db295b5d3a3bd98fb86" sha1="f0b75df784dacbbd448455adc0bdee45c965fe94" date="2005-06-18 15:33:36"/>
+		<rom name="lib/script/trace.lua" size="593" crc="09c123d7" md5="32de72a57ef122b01dca4d8f7f93afeb" sha1="e7bbdbf3b36ce275d6a6a784e1425a11aff9b2c0" date="2005-06-18 15:33:36"/>
+		<rom name="lib/user/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2005-06-18 15:33:34"/>
+		<rom name="lib/user/delete.me" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2005-06-18 15:33:34"/>
+		<rom name="lib/xtra/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2005-06-18 15:33:34"/>
+		<rom name="lib/xtra/font/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2005-06-18 15:33:34"/>
+		<rom name="lib/xtra/font/10x17.dat" size="7499" crc="7d4ee3af" md5="06718a7418e6b1e70081606b8d91d2a8" sha1="d24151e00fce9d083d615a0498fa73aca32bb159" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/font/10x17b.dat" size="3790" crc="fa55b541" md5="18f92885aeb64ecfbad12eb49453205b" sha1="9bc43853857b414b8dd10171acd8f0d2cb2b5387" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/font/12x20.dat" size="4358" crc="309188f9" md5="2541de605e54a0bd74f2dda5b4a69469" sha1="40a35df68a97f5c36f3d96b0936c8f501606011b" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/font/12x20b.dat" size="4360" crc="b0943f86" md5="730ac87e98410abfd6b993b69012e265" sha1="f19f35d6d4c95c0b7c1c98a373d575e610c19424" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/font/16x25.dat" size="5308" crc="df82be5e" md5="50c223ced5caa8250930bcfcbbfc2b9d" sha1="5deabed7e4004cd8751f05c3effad07fce7b083c" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/font/16x25b.dat" size="5310" crc="f0b4d6d6" md5="1788ce217bd7616ff09f1d3acd981d6a" sha1="b064d4991ec4b2dd03fbbf374568d090337b84a7" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/font/4x6.dat" size="2054" crc="8940e06b" md5="929a443d3cc6b12dfb50dbcc9e267620" sha1="07597deafdba7d3826881696ee42ce924a41a569" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/font/5x8.dat" size="2494" crc="60ed3e7d" md5="a1d7bc884dd1866bf9ed4a4899d60a9c" sha1="71d02357f4cfb2920fdea758661d9fca1d7e2517" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/font/6x12.dat" size="1696" crc="cfc0efda" md5="39af50b77c1042f0ee1028d6507b351e" sha1="5ff0b4c085e85d339bfc46b8494cd9e2c3023838" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/font/6x12b.dat" size="1698" crc="80223535" md5="76977e52a380ba6a6ddce3d2a6cfd66b" sha1="88e0d51ec4b5dada4b0925ea1e1c78e4e1371f36" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/font/8x13.dat" size="4073" crc="eea00e0e" md5="68d8802cdc35e3dc9e2e3a13928bef76" sha1="6509fb3799a6369ef673135ee207937c3e5730fd" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/font/8x13b.dat" size="4071" crc="d30664ce" md5="f917c838585a9abef5ddf05fe3431f32" sha1="bcbba15858c1f38f61a941538aa9c6f5268b3d1f" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/font/8x16.dat" size="2076" crc="32d9e7a0" md5="dc5bda3a50eccafa50639d139a5cdb89" sha1="c4b32973c1e9ca7053a08ac7d9de66bcb9f4c486" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/font/8x16b.dat" size="2078" crc="ce3e2db4" md5="d1c806a69b2dba1b110bf003a0c315f2" sha1="ac4f72d2d4282176a106119ce3c8af075bf6da9b" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/graf/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2005-06-18 15:33:34"/>
+		<rom name="lib/xtra/graf/16x16.bmp" size="492598" crc="467f0f75" md5="ba406bc30ba1221b814e92bcfe333af2" sha1="d987b8d257d36fd894d61ae34fb27f2f56e4cc5c" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/graf/8x8.bmp" size="203830" crc="c60b8e79" md5="785b4d3b900114029c6a086d46e18b60" sha1="5e3e150a2c1acaabf5b378e87678009b523ad28e" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/graf/backgrnd.bmp" size="200758" crc="db45ecaa" md5="e85f3d99e14ad0ff469dd3a57f90c31c" sha1="ff650aff0e2b5c3f323ebc6b7edb5f70a97cb6f6" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/graf/readme.txt" size="343" crc="5c937c90" md5="41c0fdb5df0d92824aedbfcf757c1ca6" sha1="c67e0f17e6e5c9677a0406425333ee81d05ee18b" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/music/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2005-06-18 15:33:34"/>
+		<rom name="lib/xtra/sound/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2005-06-18 15:33:34"/>
+		<rom name="lib/xtra/sound/breath.wav" size="22806" crc="a484fc28" md5="670815293d7d7f23c62dd19d8b777854" sha1="18df0fc79bb204465606a4b3eaa57d67c3f20fd7" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/sound/clunk.wav" size="2598" crc="f802d0b0" md5="c2d459ae5a47ce3d81a1ec7fc53851cb" sha1="f0f596e39b1e1af286eeb94d6c73ebd176881050" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/sound/death.wav" size="11102" crc="93dbf2e5" md5="4ac8933e44967ca12917371f9da61576" sha1="0ec409e962915a0d4c1abb26b8192277a2dc8145" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/sound/destroy.wav" size="9088" crc="b081ea1d" md5="0cdb29a6fab3b50f480155069be8ee3e" sha1="c6ac6de4faa1d9f95f978f89383342e368acb33b" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/sound/drop.wav" size="6330" crc="ff011fc4" md5="74c902a63650d99cdf869dff60cd671c" sha1="e348cd3ffc2226200dbf019c869b52eade260e68" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/sound/eat.wav" size="2586" crc="0c16ca28" md5="7acaa0f4c7ccbc1628d1bdbb73ed3712" sha1="87e0b9e428e656b2cdc230ea1dab0adbe6895666" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/sound/flee.wav" size="10882" crc="61bf9037" md5="ec581f89204625463d5b1ee3c9ea9706" sha1="57aad922312cae6172df47a79c9282549e999d8e" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/sound/hallu.wav" size="14512" crc="dba64f8f" md5="ae9ec3397af540c424ae3f229051e3ef" sha1="2fc6d28ee4f1b0299e43edc1f479c28140db2b63" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/sound/hit.wav" size="4660" crc="3cebf58e" md5="a121dbdad591eb5a25a06e6341a41dd3" sha1="eab580a244f110ad3d84d5da02ec7be494cb0d15" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/sound/hit1.wav" size="19682" crc="b167016b" md5="3a8692eb3265347a111b048b7e0b6d25" sha1="430bf72ab4a7e83c82c0e0d84b55a1af0c4f5242" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/sound/kill.wav" size="14958" crc="f89711b7" md5="c7a5599e5899bbe66f66049ff4c98346" sha1="21ced7a6a9c23bbd0b0b14ff166b89cb8b6ea36f" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/sound/kill1.wav" size="25636" crc="46b825d1" md5="e263a46e2caa0ecc623c5a3f2e413a5d" sha1="8e7c6979c6a75f921c1008d0963447f9de684133" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/sound/level.wav" size="5706" crc="e798548a" md5="49363f6517aac52893004aae176e9294" sha1="a80300114f30f7c06700e590b4ddb1bc379ff9be" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/sound/miss.wav" size="2732" crc="a98e596c" md5="7e06aa3e60015a6773e156bb425b1ad5" sha1="034f366087f34c862bc21950caa424af7efdb188" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/sound/miss1.wav" size="7748" crc="80ca59d8" md5="9e0954cd78c9aae91bd81d09e4fed9c3" sha1="f555caad298bf710288c17dc00b4f78a47c26067" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/sound/money.wav" size="13654" crc="f003b05e" md5="88c237ee8ed9dd7ff59ae6b47ea7df57" sha1="52ad66ad3b6129ded94261d68b5d5713ce835be5" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/sound/opendoor.wav" size="10144" crc="cd19d744" md5="d9607fb87ab3bd2fb0435480ea64caa3" sha1="b0ecfe7515e98e7f723b37765cc21665664c82c0" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/sound/shutdoor.wav" size="5786" crc="c3e95b8b" md5="914a55eb8407936eff800f33602e86ca" sha1="45d0c0069593f4ab5dc93fd4b44b95e70cd237e9" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/sound/sound.cfg" size="7136" crc="8039d433" md5="a958c37e344e64d47d6153321672240c" sha1="f38f5b61a557a847155ccaf54232bb24115b005f" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/sound/thump.wav" size="3686" crc="94a25af9" md5="d8c30369d86e542d0b2a651a3f55d643" sha1="0f80782904ecf6ff05f60dc70624f747b0a6701d" date="2005-06-18 15:33:36"/>
+		<rom name="lib/xtra/sound/vomit.wav" size="18998" crc="222b6aeb" md5="1b7a26d11b3c60a092c79dc736c7ed58" sha1="545fb049eff6e586726a39f963b19a2aa1887bce" date="2005-06-18 15:33:36"/>
+		<rom name="readme.txt" size="12897" crc="fd56cba2" md5="15f25ad069110f7e2bd385d51492e45e" sha1="7ef646d4c2a110307a778c6cda3d9d35defd4d53" date="2005-06-18 15:33:34"/>
+		<rom name="Thanks.txt" size="3233" crc="f8f6d07f" md5="64c23d227672abe6f30821f029e33550" sha1="1da261c72719ebf38fdfed1242a90bd4f6b457d8" date="2005-06-18 15:33:34"/>
+	</game>
+	<game name="UMoria (1987) (James E. Wilson).dosz">
+		<description>UMoria</description>
+		<comment>v5.52. Matches with TDC: UMoria v5.52 (1994)(James E. Wilson) [Adventure, Role-Playing (RPG)]</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>1987</year>
+		<developer>James E. Wilson</developer>
+		<rom name="CWSDPMI.DOC" size="7186" crc="9e137891" md5="eaf7083210c775417a3595ec27d96652" sha1="7ad7284ddd568ae81259a7e021e477bf4884aff0" date="1996-08-07 22:35:14"/>
+		<rom name="CWSDPMI.EXE" size="20217" crc="6ba5fa62" md5="7010b5c42dbe97b0c841f652a8580d90" sha1="f3e66d75aab6a3cece6fad9d09a07b1a15e2ad7a" date="1996-08-18 18:46:18"/>
+		<rom name="doc/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2004-05-09 18:32:04"/>
+		<rom name="doc/dragon.inf" size="2517" crc="a0c66358" md5="eb74c8110412cf2a66263b51788171af" sha1="261adf106f5851e848119e41846f2155e461faf5" date="1994-07-21 22:36:20"/>
+		<rom name="doc/ERRORS" size="746" crc="76e63128" md5="b4683bfd67c1e88c3ddf32759be1642a" sha1="28aa603c4f41fbca465ae0b01feb00187f9a4bc6" date="1994-07-21 22:36:20"/>
+		<rom name="doc/exp.doc" size="6074" crc="016ad323" md5="078aca44b845ee8a787a324c1e827200" sha1="1fcb7a58ed8fa8625d43e49d81e7d913d20a9111" date="1994-07-21 22:36:20"/>
+		<rom name="doc/faq" size="28276" crc="7a3d1f6e" md5="745f62030660f29612a233d618d714d9" sha1="4eae2970b417ec3997a6bb043a8021a98e0deafe" date="1994-07-22 02:07:46"/>
+		<rom name="doc/FEATURES.NEW" size="12043" crc="7a33796e" md5="5e70f35e12c603aa4a95f2ef409cbbdf" sha1="16060a27e23e16c462f5eb73ae229b58f3dcf08f" date="1994-07-21 22:36:20"/>
+		<rom name="doc/history" size="6788" crc="87bc24b6" md5="f0b8defa1a3ab85ad3d601bb676075a8" sha1="a4bfc177b2151079e5bdfce8048b437d5e850741" date="1994-07-21 22:36:18"/>
+		<rom name="doc/moria.6" size="3509" crc="4aa5ada3" md5="f693bf7280b06bee8c81a39963632463" sha1="733fa1b83f8df4ac8f7e059dd4aa59901ce55af4" date="1994-07-21 22:36:20"/>
+		<rom name="doc/moria.man" size="3544" crc="5d6132ca" md5="a09bdc66be13cb143d5b4060d1b64705" sha1="ef9dce96121ab2ed4d2a4df8e73f9d470fa65f8b" date="1994-07-21 22:36:20"/>
+		<rom name="doc/moria1.ms" size="55307" crc="02a26348" md5="d0446f1b7e45796452d27126aeee2199" sha1="7edf112258c7cfed148765a4e37f64e5a58d8a51" date="1994-07-21 22:36:18"/>
+		<rom name="doc/moria1.txt" size="49264" crc="a1470b23" md5="fd5f1865ad02b8fe2fc519db58c8b5b4" sha1="3c0d8509b818909d2c899b4c1b72d76de4b2bd86" date="1994-07-21 22:36:22"/>
+		<rom name="doc/moria2.ms" size="26698" crc="c171c33b" md5="c68838873ced091105ec9225b45e2814" sha1="1e0e804eee721e7a43b3fb0b722a5dd93ff8b9a3" date="1994-07-21 22:36:20"/>
+		<rom name="doc/moria2.txt" size="58383" crc="18dca6cf" md5="62f4f9329289cead835d7c6150c5bb73" sha1="dc240b1c4fc85068212f850b0236b50bbf3ca4e6" date="1994-07-21 22:36:24"/>
+		<rom name="doc/pronounc" size="2553" crc="417e1f89" md5="63a90076ece502374fc3bcd88d65a210" sha1="cf3eb29d9a4d2c74c8510fa993948a75183adc33" date="1994-07-21 22:36:18"/>
+		<rom name="doc/README" size="1511" crc="2d852e16" md5="d43f90436a600a69a8599b830774cf76" sha1="56e88eb83dc58cb16831bbc4de9fceec9b85e9b5" date="1994-07-21 22:36:20"/>
+		<rom name="doc/spells.doc" size="11528" crc="f7655cde" md5="232576bc571cda7e65a2a96b83a76a42" sha1="aa15b4c5c823ff8b47f380e93321fbfdeab3fcf6" date="1994-07-21 22:36:18"/>
+		<rom name="doc/where.inf" size="4339" crc="9465af10" md5="bb310f346bff498024d84d78522b97e4" sha1="5c2b77361f599d777178dd5b4625120c95d7bb88" date="1994-07-21 22:36:20"/>
+		<rom name="hours" size="350" crc="06233693" md5="afb2e0575be9f0865ec0fa2727d107d1" sha1="1e5f0d17a23dffdc6cd6bc8829b54d864eef8a61" date="1994-07-21 22:36:16"/>
+		<rom name="MORIA.CNF" size="2798" crc="6d49947e" md5="10257fc13805ee3faf5b22b24c671b07" sha1="fa3a281a2ca6ffedddb0282fd5e25037a2cbbd1a" date="1997-09-08 11:53:20"/>
+		<rom name="news" size="767" crc="a8e6fc8b" md5="4fe2c0e4df21ed8848e0ed8936229a59" sha1="2211b8184e724ebc7daf7d57f0d5696f0c78a0d5" date="1997-09-08 11:29:00"/>
+		<rom name="origcmds.hlp" size="2852" crc="41cae7a6" md5="fae30fdd85dfbe8cdfab5eb122539f12" sha1="790184237db8e6e1a28389cea6f38a978896e673" date="1994-07-21 22:36:16"/>
+		<rom name="owizcmds.hlp" size="376" crc="d99dfb04" md5="1e568cf3719cc40cca1d85711c962911" sha1="3f601f3a5bbebe4cdfc931855b612359fc2ec2d8" date="1994-07-21 22:36:16"/>
+		<rom name="Read.Me" size="2261" crc="f25bc8b7" md5="e1449dcfb6714d4063a4eafde9c511d9" sha1="6c416e5d4efdf92f7360ac661544465d8fb58aa8" date="1997-09-08 11:57:08"/>
+		<rom name="roglcmds.hlp" size="3049" crc="23014710" md5="d58526b722f335e4db1616e52d7fb533" sha1="dbf13d5464c09c6f1ed81e76768f19d16f046a59" date="1994-07-21 22:36:18"/>
+		<rom name="rwizcmds.hlp" size="376" crc="422be4f2" md5="1e343c31d9600d000a9aec76aa774448" sha1="4714675e5d0aa7c1a78a4a5f22e85a2ad3b3bb60" date="1994-07-21 22:36:18"/>
+		<rom name="scores" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-09-08 11:25:52"/>
+		<rom name="umoria.exe" size="404992" crc="4bc92a0e" md5="2a40548c34c540e80cfed03f145cf89f" sha1="1ee6345d8bfa6593d8cc33ffd3b6a4c34f6ecb44" date="1997-09-08 11:54:18"/>
+		<rom name="version.hlp" size="2242" crc="1c3940e0" md5="9dfba839279b9bad8bc535d3e376ac6e" sha1="07a1276616cc8073b462fb56243c5a3bd4b750f6" date="1997-09-08 11:27:42"/>
+		<rom name="welcome.hlp" size="423" crc="3dcdf30c" md5="07fdaebf594f9b34d54544c2b6aa36d8" sha1="fd9209651a3c1395355bc0513ea658562013c0c4" date="1994-07-21 22:36:16"/>
+	</game>
+</datafile>
