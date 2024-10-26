@@ -10,6 +10,119 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
 	</header>
+	<game name="Duke Nukem (1991) (Apogee Software) (Shareware).dosz">
+		<description>Duke Nukem</description>
+		<comment>Shareware episode v2.0. Installed from 1duke.zip</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>1991</year>
+		<developer>Apogee Software</developer>
+		<variant>Shareware</variant>
+		<link type="shareware">https://www.dukeworld.com/classic%20dukeworld/share/</link>
+		<rom name="ANIM0.DN1" size="8064" crc="6e73908c" md5="e6dae1553ce2fdd911a136ac5003bff7" sha1="1bec866b846fe46290444fb8d704b8b08c23ca73" date="1991-11-01 14:00:00"/>
+		<rom name="ANIM1.DN1" size="8064" crc="d2b09e16" md5="333a8098deccfc5c2c3f21ea5a66fd85" sha1="516511adfaf458df170692038da5f3382c5579fe" date="1991-11-01 14:00:00"/>
+		<rom name="ANIM2.DN1" size="8064" crc="32961acc" md5="81da711ebf8b45df247339bdeeb8dfa6" sha1="0e915e334294718eabf01427905993aa772bda10" date="1991-11-01 14:00:00"/>
+		<rom name="ANIM3.DN1" size="8064" crc="e56d6d5b" md5="86231f6a17e8a69dd31018efca655a70" sha1="5dc93f747631dc83ef22243c4e45c176df2f0ffa" date="1991-11-01 14:00:00"/>
+		<rom name="ANIM4.DN1" size="8064" crc="e80dee94" md5="d8c4d0b6c41e948f4de5b17e01719d7c" sha1="644e294683a74cf6043a250db557c2fc7e7ff382" date="1991-11-01 14:00:00"/>
+		<rom name="ANIM5.DN1" size="8064" crc="9aca8ae0" md5="8760e32c6a3db9a5d691bac1e42d3e86" sha1="3bd9cdcf76738ddfed9d1b1c9b183a897be693c7" date="1991-11-01 14:00:00"/>
+		<rom name="BACK0.DN1" size="8064" crc="81ac2877" md5="e34fc580059e0f19c4d1898da268b839" sha1="4aed96294119ea5f64d2ae8f7d2847404ef63c59" date="1991-11-01 14:00:00"/>
+		<rom name="BACK1.DN1" size="8064" crc="0bdcf48e" md5="e373513ab1d01abe51d53f1c7886736a" sha1="313988d52b7a873a4ac293f57ad480b04b78c4be" date="1991-11-01 14:00:00"/>
+		<rom name="BACK2.DN1" size="8064" crc="c2051fcf" md5="4919b7fb67eff52230ebdefa337df534" sha1="8d260e4436f9f363412e083f881274e0c0f2fd83" date="1991-11-01 14:00:00"/>
+		<rom name="BACK3.DN1" size="8064" crc="b8e1522b" md5="68b101e4688413d157c131c1b56a02e4" sha1="1cdfc510305e4fd626bd87a1242d71b5d3930b5b" date="1991-11-01 14:00:00"/>
+		<rom name="BADGUY.DN1" size="32000" crc="59de2b71" md5="3ddaa83fb968f471f80510442013a25c" sha1="22508eafc12a720bfe191b69a24b8922e6c17e05" date="1991-11-01 14:00:00"/>
+		<rom name="BORDER.DN1" size="7808" crc="8938a2d8" md5="08198cfb11ff2c0a8e89d5a71c45424c" sha1="1206bf2f2f0b75b15935ba198b5ba171f86c05e7" date="1991-11-01 14:00:00"/>
+		<rom name="CREDITS.DN1" size="32000" crc="74ac221e" md5="25c401217e70bb10d36ed0451ba2ebf8" sha1="85235a5b1df485152248d19b1cf1b25bca96f91b" date="1991-11-01 14:00:00"/>
+		<rom name="DN.DN1" size="32000" crc="a4940f39" md5="11e3019facc4e4604f3371512306c55a" sha1="ade2d2c2e70ba6711b8b1c84f22c5c00173f3209" date="1991-11-01 14:00:00"/>
+		<rom name="DN1.EXE" size="54688" crc="c81fdf89" md5="c6c8513ed6fda53265e8e4b90719f97a" sha1="94333898b0be4031102e8d3a1bcbc723f04cca5c" date="1991-11-01 14:00:00"/>
+		<rom name="DROP0.DN1" size="20803" crc="235dca0b" md5="03b286a7843b9f57247e5c2e536868e5" sha1="56507e2fa3a05549fb3af2fa05f8423a622f1889" date="1991-11-01 14:00:00"/>
+		<rom name="DROP1.DN1" size="20803" crc="9bae975b" md5="b3031c1333267191ff8f70b2c65f9489" sha1="0fa853bb906a99fbd11cb9156cbf3caf66f98dee" date="1991-11-01 14:00:00"/>
+		<rom name="DROP11.DN1" size="20803" crc="041a74fe" md5="ce949a32ec01cd8d62d7eb7368fd3f2d" sha1="9a42f3e1a1ee3ee749554b468acd76d188d4ac68" date="1991-11-01 14:00:00"/>
+		<rom name="DROP13.DN1" size="20803" crc="f8d4979e" md5="ad1bc17a68b722c8b4c45fcb3e96d714" sha1="700975bff06034b98026ba84c7cc9f93319ead42" date="1991-11-01 14:00:00"/>
+		<rom name="DROP2.DN1" size="20803" crc="747ab41a" md5="a19494bb28b073049d01bf30eda9aa7f" sha1="e7929cccbe70514bd7f73200785c5c93d837b555" date="1991-11-01 14:00:00"/>
+		<rom name="DROP3.DN1" size="20803" crc="b1dbcb7d" md5="71eab337abffdb05ef8b91b1fedfb69c" sha1="13d2cac56e38638431a38768756ed3171abd99b4" date="1991-11-01 14:00:00"/>
+		<rom name="DROP5.DN1" size="20803" crc="ddb08fc6" md5="316ccbc339da5bdb9ed3f7e2062450f3" sha1="e70e0646785d6477eb4b8054558e842a983d698e" date="1991-11-01 14:00:00"/>
+		<rom name="DROP7.DN1" size="20803" crc="1c2339ca" md5="2b8f67a319abd0c68a829d6e1f9891b3" sha1="d821525c3f96c4d0ebc02eb07c37d94f4a90f901" date="1991-11-01 14:00:00"/>
+		<rom name="DROP9.DN1" size="20803" crc="a4bbbd9a" md5="050b69d192bb7fbece4216a6ffcc55c1" sha1="7283417a8838f92dc52770e5a4a996ec1c3325e9" date="1991-11-01 14:00:00"/>
+		<rom name="DUKE.DN1" size="32000" crc="4361b43c" md5="c30d140a90b0a743a725f51c14da3a33" sha1="a71e03b96cf76f2176b0de3b111c677bb1c250fb" date="1991-11-01 14:00:00"/>
+		<rom name="DUKE1-B.DN1" size="6158" crc="b5aef346" md5="e7d5ee22e177536dbce19e8fdbe06b01" sha1="2117776ca8b107854801819347aaf501891a2046" date="1991-11-01 14:00:00"/>
+		<rom name="DUKE1.DN1" size="5692" crc="fe6562ba" md5="f5fed342c74c0b61659316dedcc692ed" sha1="08d07728e972defc78104aa5dc8036c5e5650946" date="1991-11-01 14:00:00"/>
+		<rom name="END.DN1" size="32000" crc="a9211ba9" md5="0fcdddc14b8e580f3652b9498468805e" sha1="953e33144b61fd3482b3aa56f128e58eae888641" date="1991-11-01 14:00:00"/>
+		<rom name="FONT1.DN1" size="2048" crc="11317baf" md5="17758580d225eb9f9de1d64a321c9ccd" sha1="c46d3cbf5ca6eb715a5a50b6278495f2aec35f97" date="1991-11-01 14:00:00"/>
+		<rom name="FONT2.DN1" size="2048" crc="7e6c2856" md5="b263b8e50a0f9e8fd70b2474e2e39e15" sha1="8e9a2ba8867959ee5352cf87440939696d0253f5" date="1991-11-01 14:00:00"/>
+		<rom name="MAN0.DN1" size="8064" crc="36c1c080" md5="fc86775d54bf8edd0418654850584ed7" sha1="3f00cab9bb493a43ab439b4a6b9e0aceecf65fd0" date="1991-11-01 14:00:00"/>
+		<rom name="MAN1.DN1" size="8064" crc="0610e641" md5="d31b9f0e908c3f4dca228bf0a5b561ae" sha1="65f16c79426e2fbf0492fc2e56afef22b3c92f45" date="1991-11-01 14:00:00"/>
+		<rom name="MAN2.DN1" size="8064" crc="41c5af0f" md5="269ef795d799b720dc7c9ba63a7dd382" sha1="36921d6771be2a3117eade59296d0a685488d1a0" date="1991-11-01 14:00:00"/>
+		<rom name="MAN3.DN1" size="8064" crc="fb54717f" md5="fa6c51170200e70eb6b796557674130f" sha1="6609c18d21f52eac0faadbfe5f18b15f1b7e0382" date="1991-11-01 14:00:00"/>
+		<rom name="MAN4.DN1" size="8064" crc="73d30ab9" md5="7a02e12b3e523211e13e92f40274caee" sha1="616f52ac5d65bb504a8a5f1263d9c65413e5fb2e" date="1991-11-01 14:00:00"/>
+		<rom name="MY_DEMO.DN1" size="17002" crc="fce73898" md5="96c846a3f651322ce81026dc5ef17cd0" sha1="61812c25557e289780eba2901219c56e04fe65f2" date="1991-11-01 14:00:00"/>
+		<rom name="NUKUM.TXT" size="951" crc="145c81b3" md5="d2bd921c7f71d4c0dbe3b7dc9cc798a8" sha1="92f11b74ebd9fa10f7d4ac10c67a2e6e0e3c695a" date="1998-07-21 22:40:06"/>
+		<rom name="NUMBERS.DN1" size="7168" crc="971db682" md5="669b75020276e2fe120289abf62541c9" sha1="f6ad1ea1a4af2f0bfe42efa36670cf02eef9d737" date="1991-11-01 14:00:00"/>
+		<rom name="OBJECT0.DN1" size="8064" crc="2f563d8e" md5="a4437ce58739b7573e020d723ddcc9fb" sha1="8446ef061fcbedd3d57ac8836cba97e491972d77" date="1991-11-01 14:00:00"/>
+		<rom name="OBJECT1.DN1" size="8064" crc="b44892eb" md5="96dc616fd7c4603efdeac55d826a41d3" sha1="3679b28bbd55d44616fd2169dbebfd2050525444" date="1991-11-01 14:00:00"/>
+		<rom name="OBJECT2.DN1" size="8064" crc="1b394f84" md5="021c0aa40bacaf4e4650dcef424bdea4" sha1="31aaa4582b00bc130856a206a7632cb7db4e415d" date="1991-11-01 14:00:00"/>
+		<rom name="ORDER.FRM" size="5913" crc="69192e44" md5="0d31f362153df49087d40ce132c8a24e" sha1="fa80ae85edeb6865da9f97f0dd923e3f6d184aa6" date="1994-07-15 00:00:00"/>
+		<rom name="SOLID0.DN1" size="8064" crc="5001c4b3" md5="b5ed093bb0b1250c6572b2de9c40ec79" sha1="d49e7ad9df27b05fa54ebca935a1e1fa7aac900a" date="1991-11-01 14:00:00"/>
+		<rom name="SOLID1.DN1" size="8064" crc="131cd76c" md5="424037761854d7daa4e24941c350e2cb" sha1="2191f3b99812979c4f4604060046ce941ce6527d" date="1991-11-01 14:00:00"/>
+		<rom name="SOLID2.DN1" size="8064" crc="d230fc96" md5="481319fefa2f09b39b950bad5b5f2121" sha1="1ee1b6513e39240de4f9d33e3c4128426a30fc12" date="1991-11-01 14:00:00"/>
+		<rom name="SOLID3.DN1" size="8064" crc="6cdf9f73" md5="98a3eae4f9f752162f9cabe766cefbf5" sha1="284a56d1573cf6564e6ab31ae844a8cde8e0de66" date="1991-11-01 14:00:00"/>
+		<rom name="VENDOR.DOC" size="10072" crc="138b252c" md5="9d8b2f6f0eef573e77b226a839e0b3d7" sha1="04105d53c5c62bce59267b325741686cddfbf479" date="1998-07-21 22:38:36"/>
+		<rom name="WORLDAL1.DN1" size="23040" crc="588fdd7d" md5="a4679b674e13e47a9d4b32d170669347" sha1="5373a05c6e9ad08bb857448ffecd7ae0cb75a97a" date="1991-11-01 14:00:00"/>
+		<rom name="WORLDAL2.DN1" size="23040" crc="b1c63b2d" md5="d12ce309b080083a91e67f244bf82656" sha1="4ab082764b395f1e98f170024840b2d4dc2cec12" date="1991-11-01 14:00:00"/>
+		<rom name="WORLDAL3.DN1" size="23040" crc="4b9872ee" md5="82e4382062ae95ab9e1bac372fd0b0cc" sha1="fabfdde8e548737cfb605c28931942f416c9904f" date="1991-11-01 14:00:00"/>
+		<rom name="WORLDAL4.DN1" size="23040" crc="9d7f40b0" md5="6bed1873bae9cad2852da67cc07bf139" sha1="f5865d675bb6dd168e7ad53e6dab20bfddd86360" date="1991-11-01 14:00:00"/>
+		<rom name="WORLDAL5.DN1" size="23040" crc="ce18a14c" md5="e070ebbb78522364f400e2edc7d7e0a2" sha1="e6ab024064edc5acd258288da8daa212440ed454" date="1991-11-01 14:00:00"/>
+		<rom name="WORLDAL6.DN1" size="23040" crc="8d5578ac" md5="dd0dd12e80f07682b15b8825bbd89cf1" sha1="1a50547589af2f4d4126dd885c1844f7cec3818b" date="1991-11-01 14:00:00"/>
+		<rom name="WORLDAL7.DN1" size="23040" crc="9e8643bc" md5="48892facb724df54e89eede27a6fe88f" sha1="b886d344c58b1f479e1de6faf2907bf128f0d8b9" date="1991-11-01 14:00:00"/>
+		<rom name="WORLDAL8.DN1" size="23040" crc="8fa2b978" md5="0137e980f9b52481856d589fed5e06ff" sha1="ff328184fc501eb0bba10e7bd31181ddce2683a1" date="1991-11-01 14:00:00"/>
+		<rom name="WORLDAL9.DN1" size="23040" crc="af65b90d" md5="5017cb9e3e850335299cda0bb8d9b54f" sha1="4a69631eab40ae38f611ed376211ad8dcdaac6f7" date="1991-11-01 14:00:00"/>
+		<rom name="WORLDALA.DN1" size="23040" crc="331cc0af" md5="a39601513ce3bd1b5250a6b31fa14c46" sha1="e2863e9a97560a53522309f8a3b55f2fb4ba6ed7" date="1991-11-01 14:00:00"/>
+		<rom name="WORLDALB.DN1" size="23040" crc="99d5ec33" md5="54641896d683222f41743866cad2fedc" sha1="14a0c999910c4d5a96cb7e1565b957b0f13ebbb6" date="1991-11-01 14:00:00"/>
+		<rom name="WORLDALC.DN1" size="23040" crc="de8f7d71" md5="b4b2a1b67524b9370a93cde679c213fa" sha1="0309da207dfb0adf8818478903aafb75c8222e79" date="1991-11-01 14:00:00"/>
+	</game>
+	<game name="Duke Nukem 3D (1996) (3D Realms) (Shareware).dosz">
+		<description>Duke Nukem 3D</description>
+		<comment>Shareware episode v1.3d. Installed from 3dduke13.zip</comment>
+		<comment_dosc>Sound Blaster 16 config, 640x480 resolution, and auto start. General MIDI option</comment_dosc>
+		<year>1996</year>
+		<developer>3D Realms</developer>
+		<variant>Shareware</variant>
+		<link type="shareware">https://www.dukeworld.com/classic%20dukeworld/share/</link>
+		<rom name="COMMIT.EXE" size="25942" crc="06602bb8" md5="47384300062357bc68c65b3a7fe8cd28" sha1="fbb3d9ae08cd451b2a4cfc75b92de6dedc82d4b2" date="1996-04-24 13:30:00"/>
+		<rom name="DEFS.CON" size="28893" crc="70ef6dfa" md5="4d7789f1542d69e473a89f0b21ec44e4" sha1="72a34f03047898d27a7807bec4317027624c956e" date="1996-04-24 13:30:00"/>
+		<rom name="DEMO1.DMO" size="6226" crc="21a4683f" md5="85f71bc53ef9f61244f59ad849cbce92" sha1="1986c363b82fc9e50d26cc98e856807cb0645b63" date="1996-04-24 13:30:00"/>
+		<rom name="DEMO2.DMO" size="9701" crc="c97b103b" md5="bb04c6ce57b7777e5ff3dc9b09f971d3" sha1="677aae480f445113e703ccf18dcae6748ef0ca08" date="1996-04-24 13:30:00"/>
+		<rom name="DEMO3.DMO" size="3759" crc="0f186133" md5="3fc4971bab61715b614adfc8d55e44df" sha1="f1c67c23d18f43b3e995d2637511911be8872d51" date="1996-04-24 13:30:00"/>
+		<rom name="DN3DHELP.EXE" size="73594" crc="64e0e19a" md5="3016c73c14b8a951fc20dc821d8a5f89" sha1="eceefd4f9fa868ced33fcdd68673f1fb9cd8bfc5" date="1996-04-24 13:30:00"/>
+		<rom name="DUKE.RTS" size="188954" crc="504086c1" md5="9d29f9673bbdb56068acf7645c13749c" sha1="738c7f5fd0c8b57ee2e87ae7a97bf8e21a821d07" date="1996-04-24 13:30:00"/>
+		<rom name="DUKE3D.EXE" size="1178963" crc="b1757729" md5="522be90658f0241fb7ebb8368138de0b" sha1="8f3d99cfcbdef212a02c471eadfe8683f673dd15" date="1996-04-24 13:30:00"/>
+		<rom name="DUKE3D.GRP" size="11035779" crc="983ad923" md5="c03558e3a78d1c5356dc69b6134c5b55" sha1="a58bdbfaf28416528a0d9a4452f896f46774a806" date="1996-04-24 13:30:00"/>
+		<rom name="GAME.CON" size="99639" crc="cc08e0a8" md5="aac2c561d79ed37ffc04cfeff907ba42" sha1="1c38973690e88bc93b8ab9bbbe26c1c1e0a4f65c" date="1996-04-24 13:30:00"/>
+		<rom name="LICENSE.TXT" size="9108" crc="5c41fbe4" md5="583bf2a6cb3d404a21c2205041c45481" sha1="efb92cf5a397ec80f1752f0a75590529a5b30fc0" date="1998-07-16 15:56:14"/>
+		<rom name="MODEM.PCK" size="4125" crc="9bc828c4" md5="80104ab45e28b6a2c16ca9723ffcd4d7" sha1="c0353741d28ded860d708f0915a27028fb47b9f3" date="1996-04-24 13:30:00"/>
+		<rom name="README.DOC" size="2760" crc="2ac0cf34" md5="b9da7097bcd359de8debdff0466018b6" sha1="d1f737dee42e8476d3fbbcc1008b79d8711f6a9d" date="1996-04-24 13:30:00"/>
+		<rom name="SETMAIN.EXE" size="95177" crc="c927e301" md5="f3eceb4eb268f0f214145467e47f39a9" sha1="f59053ea8d748d056d160dbbac5c058c9c6ad6cd" date="1996-04-24 13:30:00"/>
+		<rom name="SETUP.EXE" size="27153" crc="f8dbc57d" md5="faa2b2804f9fdafdd57ea9def319e19a" sha1="7110b4b66e5823527750dcda2a8df5939a978c9b" date="1996-04-24 13:30:00"/>
+		<rom name="ULTRAMID.INI" size="6871" crc="5ae1f4fd" md5="b0e3f94780c1c5dab6ec26ef021b69a2" sha1="54a404652aecfddf73aea0c11326f9f95fdd1e25" date="1996-04-24 13:30:00"/>
+		<rom name="USER.CON" size="36960" crc="20446233" md5="159a0931fed4f14cf2e41478f7240bbe" sha1="8129e3f44060aea790f92f4aaebb235a7898e31d" date="1996-04-24 13:30:00"/>
+	</game>
+	<game name="Duke Nukem II (1993) (Apogee Software) (Shareware).dosz">
+		<description>Duke Nukem II</description>
+		<comment>Shareware episode v1.0. Installed from 4duke.zip</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>1993</year>
+		<developer>Apogee Software</developer>
+		<variant>Shareware</variant>
+		<link type="shareware">https://www.dukeworld.com/classic%20dukeworld/share/</link>
+		<rom name="DN2HELP.EXE" size="10795" crc="bb1fa181" md5="706ca630fa56053388b322f0da4ab3d5" sha1="000cd08a3ef9931b417379a3939b2886400a9707" date="1993-12-01 13:00:00"/>
+		<rom name="NUKEM2.CMP" size="3075327" crc="492cc028" md5="61447afe23f25c8da6a0244f30e4a7bf" sha1="d358f7e0b1f54a822e020635ebbd339f195da133" date="1993-12-01 13:00:00"/>
+		<rom name="NUKEM2.EXE" size="58852" crc="fca456a7" md5="9378afe46a9d6d16b2d12de1f9b7c9ad" sha1="d2c0a9b01bf090de52ebbfee2dfb9a452ce25baa" date="1993-12-01 13:00:00"/>
+		<rom name="NUKEM2.F1" size="98960" crc="8d79d883" md5="b5985516a2e46f5ef81cb9abfa3265f3" sha1="30f22f1aa232ed9d6cd54d4ca6399fed184288c3" date="1993-12-01 13:00:00"/>
+		<rom name="NUKEM2.F2" size="38622" crc="903fc92f" md5="f517c739beb6ef8d7e51e937854100c3" sha1="d43720390f13d93f6ab10fe15ba0000f0ee60bd6" date="1993-12-01 13:00:00"/>
+		<rom name="NUKEM2.F3" size="52427" crc="5cbc97a6" md5="3eafe45253ef83669ac9c8476fa97de7" sha1="4f89d2b24fd6d42ea82ddfcccfa87951b0b5d8d7" date="1993-12-01 13:00:00"/>
+		<rom name="NUKEM2.F4" size="240848" crc="d5b8b979" md5="f63eeeeb24c07f73b8fb4da56653e690" sha1="19e693d5a210f1ab0c955f6ed59d2aef83429af0" date="1993-12-01 13:00:00"/>
+		<rom name="NUKEM2.F5" size="33911" crc="96bb414e" md5="98f0584c244df06d13f367206445cb72" sha1="bf23458d322ee4603af6be705a154740c972dac9" date="1993-12-01 13:00:00"/>
+		<rom name="ORDER.FRM" size="5714" crc="b78426b8" md5="063d3bfda9c014b6395c1aa952ad2f8b" sha1="fe0f879a1a67be874ed4f02f59c657a3ee48b37c" date="1998-04-21 13:24:38"/>
+		<rom name="VENDOR.DOC" size="7537" crc="c2251eaa" md5="0c3dc4c9494b45292300057bf16f89f7" sha1="f74bb9fbdf51ca1e5d31d2d1111db60a69d6e0b7" date="1998-07-21 21:39:36"/>
+	</game>
 	<game name="Elder Scrolls II, The - Daggerfall (1996) (Bethesda Softworks) (Unofficial Fixes).dosz">
 		<description>Elder Scrolls II, The - Daggerfall</description>
 		<comment>Installed from DaggerfallSetup v3.1.0, with default settings (all unofficial fixes, no unofficial quests or utilities). Needs DOS.YML with mem_size: 65536</comment>
