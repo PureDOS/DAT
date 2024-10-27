@@ -10,6 +10,30 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
 	</header>
+	<game name="Crystal Caves (1991) (Apogee Software) (Shareware).dosz">
+		<description>Crystal Caves</description>
+		<comment>Shareware episode v1.0a. Installed from 1cc10a.zip</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>1991</year>
+		<developer>Apogee Software</developer>
+		<variant>Shareware</variant>
+		<link type="shareware">https://www.dukeworld.com/classic%20dukeworld/share/</link>
+		<rom name="CC1-1.SND" size="7320" crc="4b469c40" md5="6be53a3d1297e3284be3a05d2221e50d" sha1="08372b6a43fbd3c9171df22036dc31732de2ce5f" date="1991-11-11 13:00:02"/>
+		<rom name="CC1-2.SND" size="7320" crc="623318a6" md5="28b7fbaaad8336cb7114f1bd8d89a3e4" sha1="5047087828f7c5e43190ab448aa9f853de44b691" date="1991-11-11 13:00:06"/>
+		<rom name="CC1-3.SND" size="7320" crc="272a69f7" md5="e3a22ded451c3ba8e4be1a84b6f603d9" sha1="f8adbe9578c4ee5a80d24a022886c766ca2b0995" date="1991-11-11 13:00:32"/>
+		<rom name="CC1-F1.MNI" size="2048" crc="2e36f797" md5="eb972c5b8c6327044ab8797182e6dabb" sha1="906f88f00299b46ffe8dcd71bebeffd446528df2" date="1991-11-11 13:00:28"/>
+		<rom name="CC1-F2.MNI" size="2048" crc="b3e23d8d" md5="6664757c4dae3b57fde59d17a0fe76a9" sha1="eee92e9c927b24d70ed4082558592b472ca23c0e" date="1991-11-11 13:00:32"/>
+		<rom name="CC1-SPL.MNI" size="2048" crc="f749e4ca" md5="585d84a9fb8b65ff564b8bb8722556b6" sha1="7606dab03bb447d6d1cb6d8dd25f8c8d9494554d" date="1991-11-11 13:00:00"/>
+		<rom name="CC1.APG" size="16304" crc="abf56ada" md5="ad09252d62aa8e68f615c95de7026f0f" sha1="9120a9bce95015dada513b127f6e228ada4d2ec6" date="1991-11-11 13:00:24"/>
+		<rom name="CC1.CDT" size="26717" crc="775e7fed" md5="5f98361cd3378b03e28aef7127a68cce" sha1="e656b0505838cc8176d82d5a4c2af64cc281f9d2" date="1991-11-11 13:00:50"/>
+		<rom name="CC1.END" size="19625" crc="4093b70e" md5="a4a6094aa54e8ef6d6a1c949d7f3de81" sha1="6faf2c6230ae83c234e6d8f925893b5abcac9779" date="1991-11-11 13:00:28"/>
+		<rom name="CC1.EXE" size="73256" crc="7be5f203" md5="904d1091d560f340f107d5c8d3ee5159" sha1="90dfa04aaa370725599bc8eef33c7bfe5d399ba0" date="2005-10-23 13:01:00"/>
+		<rom name="CC1.GFX" size="184069" crc="5bff4464" md5="973b1236ea57d073749563b152d6e9e9" sha1="1a91824d14a6df7f053ed52c30cbdb0ad09cb8fc" date="1991-11-11 13:00:06"/>
+		<rom name="CC1.TTL" size="18328" crc="b3eb1a2e" md5="595bb26f9b7499fcafdac264730f8a3a" sha1="3397d17b222054b0e7d85804ece35449513661aa" date="1991-11-11 13:00:56"/>
+		<rom name="ORDER.FRM" size="4941" crc="0390135a" md5="55b37834d30ccd899172d8b6cac23cea" sha1="13bd3dae5f3c2c9cb01735c76315652fbb793afb" date="2005-10-21 10:53:34"/>
+		<rom name="ORDERFRM.TXT" size="4941" crc="0390135a" md5="55b37834d30ccd899172d8b6cac23cea" sha1="13bd3dae5f3c2c9cb01735c76315652fbb793afb" date="2005-10-21 10:53:34"/>
+		<rom name="VENDOR.DOC" size="7749" crc="0804a72f" md5="39cc15347549cd8b8adfcb0492c48beb" sha1="17efdfe2bb4425a0927714c25f48a1bc85036a35" date="2005-10-23 13:01:00"/>
+	</game>
 	<game name="Elder Scrolls II, The - Daggerfall (1996) (Bethesda Softworks) (Unofficial Fixes).dosz">
 		<description>Elder Scrolls II, The - Daggerfall</description>
 		<comment>Installed from DaggerfallSetup v3.1.0, with default settings (all unofficial fixes, no unofficial quests or utilities). Needs DOS.YML with mem_size: 65536</comment>
