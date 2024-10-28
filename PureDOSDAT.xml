@@ -326,7 +326,7 @@
 		<rom name="SFX/ZAP2.WAV" size="7544" crc="f4e298bb" md5="32d69c2471488878a70996c4b201d943" sha1="d9642e710c36c6cd034249b251677c338c82d969" date="1995-07-23 01:54:30"/>
 		<rom name="SFX/ZAP3.WAV" size="9448" crc="c58c799a" md5="33c38a9e024e33721e5c42b0fcc18eba" sha1="b83706f5e97e4416278a9564a319362c2c5a504f" date="1995-08-26 05:30:20"/>
 		<rom name="TEST.RAW" size="40320" crc="0d2d49b8" md5="7cc517930c314be6ca818395934e9850" sha1="13b15b9f8a0b7d98176f9437aca149301c576458" date="1995-08-15 19:57:50"/>
-	</game>
+ 	</game>
 	<game name="Alley Cat (1984) (Synapse Software).dosz">
 		<description>Alley Cat</description>
 		<comment>Cracked PC booter disk</comment>
@@ -1122,6 +1122,165 @@
 		<rom name="READALON.ICO" size="766" crc="7a2c6ea5" md5="5197e85bb468715050ed1ddae142610f" sha1="0423c7281a97f8568d6611fa231181c1b71d941a" date="1995-02-23 20:06:16"/>
 		<rom name="README.WRI" size="16640" crc="5fcd714f" md5="435823adcebe2e90857980ae63815206" sha1="cb8ba84901a8e5aa68b9e6cc28d90e8156445470" date="1995-03-07 10:21:30"/>
 		<rom name="VARS.ITD" size="940" crc="de9c31ef" md5="1b8ef8c0eca0c17adce0533bb440b5b5" sha1="f1e7cb79f00e1ebe4c41f8c36ed676b0f9c35e3f" date="1995-02-17 11:52:40"/>
+	</game>
+	<game name="Ancient Land of Ys (1989) (Nihon Falcom).dosz">
+		<description>Ancient Land of Ys</description>
+		<comment>Files extracted from original floppy</comment>
+		<comment_dosc>Copy protection removal and auto start</comment_dosc>
+		<year>1989</year>
+		<developer>Nihon Falcom</developer>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C2674/</link>
+		<rom name="BARTER/ARMOUR.PCS" size="1904" crc="1f790c3f" md5="03d0ed08634ee8e4a140eb612b322e14" sha1="d6a0349ce2a44f5de17b45dac50cef0474708650" date="1989-07-31 12:00:00"/>
+		<rom name="BARTER/ARMOUR.PES" size="4171" crc="281e9352" md5="3b95a08d3a8461b8a8c444eccf7feee0" sha1="b786d3bed41fbf32369d9c5eb3f37d944955c5bf" date="1989-07-31 12:00:00"/>
+		<rom name="BARTER/BARTDAT.PDA" size="9182" crc="63b6198c" md5="eff7fb7582a11e528c698b5dc9dfc5de" sha1="a36cbe1000eb80e865f0eaab76da583c6deb2523" date="1989-07-31 12:00:00"/>
+		<rom name="BARTER/CHIEFTAN.PCS" size="1541" crc="46589ee7" md5="3d8f21883627d8cb93a18e140a1588e1" sha1="3f313ed0e53fe6391c708589fa0ac5752bd6e87c" date="1989-07-31 12:00:00"/>
+		<rom name="BARTER/CHIEFTAN.PES" size="2729" crc="8a9e13bc" md5="f7fd3c9838567df77f648a2405c0d988" sha1="4a489ecdaf043838ae9d653fca1bea7c6b92dbd5" date="1989-07-31 12:00:00"/>
+		<rom name="BARTER/FORTNTLR.PCS" size="2532" crc="f6118278" md5="849ddb2b3dc5ca9812cf4a510478c364" sha1="11643b67b13c3242336692909dd99d23959c7329" date="1989-07-31 12:00:00"/>
+		<rom name="BARTER/FORTNTLR.PES" size="3889" crc="ebf79e1b" md5="a88fe171073a0d0d5f9f824f32175820" sha1="4dcfa63882d9bd76181387ac0a2cba8b1356e457" date="1989-07-31 12:00:00"/>
+		<rom name="BARTER/HAGSHUT.PCS" size="2131" crc="caaa971d" md5="0958819b3bf3777f7e92ae61481a7453" sha1="1a42eb9780bc0bdcaf773a82129b8fbbc2a3099e" date="1989-07-31 12:00:00"/>
+		<rom name="BARTER/HAGSHUT.PES" size="2644" crc="1a192f64" md5="629f2cde698787db57da0063f9367751" sha1="fd276e406286d9eccdb942b56ac61b0283713fbd" date="1989-07-31 12:00:00"/>
+		<rom name="BARTER/NURSSPAD.PCS" size="1321" crc="1d92f68d" md5="64b7686e0c158d77f6cdc555827fecbd" sha1="85673a57436e274ab543dd4c17ad44b8714212ea" date="1989-07-31 12:00:00"/>
+		<rom name="BARTER/NURSSPAD.PES" size="2041" crc="ecf8c5b3" md5="552c5a87621c45d99fab562a0d9d6908" sha1="ac78e95aa72a4d3571013a9661d4e8b395a18a67" date="1989-07-31 12:00:00"/>
+		<rom name="BARTER/PAWNSHOP.PCS" size="1299" crc="4a0ab422" md5="0b2b7836ee8241fb730cb59d4af0b695" sha1="77c8b22b1082e21425b3afb989d0885d0648262e" date="1989-07-31 12:00:00"/>
+		<rom name="BARTER/PAWNSHOP.PES" size="1724" crc="93823e57" md5="120cca5943eb00e882efa3c286b951be" sha1="9895f826143ae73a0ca94af41b441549dcba3bca" date="1989-07-31 12:00:00"/>
+		<rom name="BARTER/SWRDSHOP.PCS" size="1309" crc="62432b2c" md5="ebe6e560f83bb96b53879e99b7827564" sha1="025df375ec91dbb279df6c18a180f75acb31833f" date="1989-07-31 12:00:00"/>
+		<rom name="BARTER/SWRDSHOP.PES" size="2998" crc="baaa72a7" md5="d0e6269a6a87153c4e9552ff1bc90563" sha1="07bb0ce6d6d7030deaaf06056e1422709f02ea8f" date="1989-07-31 12:00:00"/>
+		<rom name="BARTER/THEPUB.PCS" size="1951" crc="fce2d0ef" md5="eafb2d6a6b4d680d5120447f06975dfc" sha1="7593dfa73d55e703fbeda94a5e8f964f6e62de1f" date="1989-07-31 12:00:00"/>
+		<rom name="BARTER/THEPUB.PES" size="2450" crc="88cedeee" md5="0d3afb78c3af53ee9dbd8c1654c231d4" sha1="1819535491b3628499a3d3d87e7271835d580c7b" date="1989-07-31 12:00:00"/>
+		<rom name="BARTER/THIEFSHK.PCS" size="1206" crc="2c4bb573" md5="c9a16e6b104035de312175953870c839" sha1="6d9c9e13e89b695507c7f26e15c3eee61b556bbb" date="1989-07-31 12:00:00"/>
+		<rom name="BARTER/THIEFSHK.PES" size="1524" crc="4ac65b19" md5="84c1995966c248af9474eea8d156b7bb" sha1="6d9771c9aca7e70312f1b1e87255125bba44e7eb" date="1989-07-31 12:00:00"/>
+		<rom name="BORDER.PCS" size="1585" crc="e653849b" md5="062f0f0405d9d3fc06bcd371e88d4b47" sha1="a2a9478584ffba796a3f121130a702b7326ab83e" date="1989-07-31 12:00:00"/>
+		<rom name="BORDER.PES" size="4556" crc="c1c17265" md5="a4fb59c5fa8b22534abefabc66d1002f" sha1="6104ad8a174b39c0bc7efd3d9956853c246d4584" date="1989-07-31 12:00:00"/>
+		<rom name="CVMASK1.PCH" size="612" crc="d20e0178" md5="bb37e42adc5cb3d8d64b0d642c948ab3" sha1="c9da5eef55d6e13c7c453ea16c3bb761481ca4c3" date="1989-07-31 12:00:00"/>
+		<rom name="FADEMASK.PCH" size="407" crc="c95413d1" md5="a4f721f248ab4f444645b36064c7ff7e" sha1="228314dbed34c53a38ea705700b2919569037f87" date="1989-07-31 12:00:00"/>
+		<rom name="FEENA.BIN" size="299" crc="8ee93ba6" md5="a2fb9c5af677976f50cda44090f38524" sha1="3b7fcead12b929b50c649bb61fb054833a6636c4" date="1989-07-31 12:00:00"/>
+		<rom name="FIGHTS/DKMON1.PCH" size="911" crc="a6be9f94" md5="3cad6a6cc36a5d088dcb1244c79ee436" sha1="9ef829f3f71dc73bc877a62de560ff099d3b497d" date="1989-07-31 12:00:00"/>
+		<rom name="FIGHTS/DKMON1M.PCH" size="438" crc="2520be02" md5="d77138df308524db7b02d69aef99565f" sha1="886620bc69361833448d95f2b59e0ac47c2114d5" date="1989-07-31 12:00:00"/>
+		<rom name="FIGHTS/DKMON2.PCH" size="2169" crc="f678b03f" md5="a64176a8809ad7895a267f4513f5cb8d" sha1="46755f12b4fbd4eaa28a2d2f95fc7623666429b5" date="1989-07-31 12:00:00"/>
+		<rom name="FIGHTS/DKMON2M.PCH" size="1127" crc="749606c6" md5="32b3bb1a5621e3cc527dad505da3cd45" sha1="6bb38aac5d6986f067c3b0ab85a351338f43b0da" date="1989-07-31 12:00:00"/>
+		<rom name="FIGHTS/DKMON3.PCH" size="1184" crc="cf8cbaa3" md5="a64e7a145f3cb340b17dfa84a9aa323a" sha1="2c8456f6f508d5856c2a323ba921322e3bcae0ea" date="1989-07-31 12:00:00"/>
+		<rom name="FIGHTS/DKMON3M.PCH" size="723" crc="0a12f5ea" md5="a5c425a13200a6f62f59bfdbfa9759a8" sha1="b68c65a70b6567899aa6a0ba267d8bf73684301a" date="1989-07-31 12:00:00"/>
+		<rom name="FIGHTS/DKMON4.PCH" size="1165" crc="e03432a3" md5="b4ac485e22b4a1441dc5a6658356e30e" sha1="54dceeb8eeb3d27d2eca83a691893af404471b45" date="1989-07-31 12:00:00"/>
+		<rom name="FIGHTS/DKMON4M.PCH" size="237" crc="96f3bab4" md5="b08a52fdfff06c3cb43ecb066df592e7" sha1="9297dbb2df4085555e785156e5409151ac650f0d" date="1989-07-31 12:00:00"/>
+		<rom name="FIGHTS/DKMON5.PCH" size="1280" crc="0199d9ef" md5="b8c84964e9bba1db720ee77ed5f6d890" sha1="c45c471ec75befc3c6b8126b74517102997758a6" date="1989-07-31 12:00:00"/>
+		<rom name="FIGHTS/DKMON5M.PCH" size="650" crc="8331d685" md5="71da74886e118037626f9966066daf41" sha1="2ebdfa18b6952d2b4ab3e212965224523a814af2" date="1989-07-31 12:00:00"/>
+		<rom name="FIGHTS/DKMON6.PCH" size="1638" crc="f77e7a83" md5="f82d421b4862ba606dc86a10a4041490" sha1="b92d4f00a6fee61b3675d3a34356a077ac6cbf36" date="1989-07-31 12:00:00"/>
+		<rom name="FIGHTS/DKMON6M.PCH" size="699" crc="b6686901" md5="56deb67317a0fc1ab1855d7fdc47dd62" sha1="502296473a659c6570cfea59fb2b67bc5bddb5a3" date="1989-07-31 12:00:00"/>
+		<rom name="FIGHTS/DKMON7.PCH" size="1585" crc="070d119e" md5="bc2888d23293b9d09f6355ad2bedd86f" sha1="a648dacf438fa75240d46d6895d164dc771731b7" date="1989-07-31 12:00:00"/>
+		<rom name="FIGHTS/DKMON7M.PCH" size="902" crc="de0bcd8e" md5="31543686c9c76579b1d10ac4e5225d72" sha1="3b7c70fd10148777a5b36c607ea821eff8110c92" date="1989-07-31 12:00:00"/>
+		<rom name="FINAL.PCS" size="5441" crc="a063d26a" md5="7ba5fb01797707e4f66dcc2e5dd763a1" sha1="d99aa766b0dd9d13923be7fb52a4a746825f0740" date="1989-07-31 12:00:00"/>
+		<rom name="FINAL.PES" size="6587" crc="a0f904f8" md5="d053961991908193398d089ed9123eb7" sha1="f727381f504cf25b80c411aa90c6081cf4a43244" date="1989-07-31 12:00:00"/>
+		<rom name="INVTRY.PCS" size="3057" crc="44c88a37" md5="aa986b798a71e1a871f752ef745e2a85" sha1="a56d22bd81967b686444094838f7a10006c2eaa7" date="1989-07-31 12:00:00"/>
+		<rom name="INVTRY.PES" size="5002" crc="dc526678" md5="a6085c15bf08921ee91d40ff59d8f9b9" sha1="ab063a4e905a5d1c9dfa1ce485191b17f2e8a458" date="1989-07-31 12:00:00"/>
+		<rom name="MAN.PCH" size="2864" crc="ebffc024" md5="9f509d054e51e3b5c477f3896bed928a" sha1="6bfafc422644efaad2ada4ab0c82441ebc63cee7" date="1989-07-31 12:00:00"/>
+		<rom name="MANM.PCH" size="1241" crc="c179d92d" md5="701283385daae0f50e9a471eb2f3799c" sha1="41fccbb22a09b319000c75f4fc25dbd279c74fd1" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/C1MON.PCH" size="2062" crc="9c832c54" md5="d04d9c6bf8f710d30398de21915a17bb" sha1="3b25ea672d5f8a5baefcb92fa3860a7d77223e3c" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/C1MONM.PCH" size="930" crc="94297f8e" md5="46736adb1df26e494a2624cdf8de59ca" sha1="8e36d89f6453b3d6550f0b15be18c22faba1f769" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/C2MON.PCH" size="2665" crc="87420a91" md5="6d461d1dda3d63dc45d87ac5f13e749c" sha1="48d4a24e1b2c418bd2a7321286827c6ea84526f7" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/C2MONM.PCH" size="798" crc="ece2b4ca" md5="7e6840a93f628247ccdfd12513220534" sha1="9f58d1c1db290ab0bb9a657842902674755098a0" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/C3MON.PCH" size="2865" crc="2d3b7a0d" md5="29e7b2fc7405fd9c069f3568c2959bf0" sha1="b5f40dad48976c14d4d388e9031783960a628113" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/C3MONM.PCH" size="736" crc="ee6370ec" md5="4fc22c7c026ef1d573f1a7e232e0e940" sha1="1fc198fd214500d103a06b7ab3def2df1f10b9a5" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/CAVE1.MPP" size="5121" crc="8fbdfe7b" md5="f84b91b590350fb75c9777b2298eed72" sha1="409fe956638b680d14e8f6fe8d62406595f1723d" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/CAVE1.PA" size="2151" crc="a76927c9" md5="26b30a60e2c68824dae4e3fc3aacad44" sha1="dcfa1ac565dfc4b56acae236f4275a39fa05d7a4" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/CAVE2.MPP" size="4970" crc="0db962d1" md5="f08fb35e1af2d18f9264ef42e5a59ce0" sha1="93b45fd43a8deefe6bc580fad7791dffe2aa2987" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/CAVE2.PA" size="2276" crc="c9d2d8d6" md5="91e531c81e39e2b44141443bbb2188f8" sha1="8215d59d8776587a3cf6934f7bcfc5a9ae6ac4bf" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/CAVE3.MPP" size="3930" crc="354c4747" md5="3930ebaba165c7e45fb843d4483e1a85" sha1="eb13d6af731f4e5dbe4c3b8b975e5dafe8805eaa" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/CAVE3.PA" size="2095" crc="1408a668" md5="efba401f8827074ff4bf0b2185dfa5a0" sha1="257384de4c41b60ab31172fb13743616b7459b0a" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/CAVECHR.PCH" size="5115" crc="0df7aedc" md5="51c71bef3f3b4c25ce5e0e7b29aa86ed" sha1="ec57ff1b92c114359800c998b901da54fd13a6b3" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/CAVECHRM.PCH" size="650" crc="3754fa67" md5="a4430458f8bc38a9cc1574147eb0bddd" sha1="e8d902f857bcfef101d1edc8e2a61db694d131d9" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/CHRD10.PCH" size="2459" crc="78c9355b" md5="b30107d87efd48b1c10a45ae3cd1027d" sha1="70a23f30c3be8ae0c4ca47c4bcc4a925b01e27cd" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/CHRD10M.PCH" size="559" crc="559960b4" md5="b13a4d29f3a7473049e2c1bd4b5d14b4" sha1="76f099a480a7ff82ed3a018944f16c299f283930" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/CHRD11.PCH" size="3629" crc="66027fca" md5="403934d9c4987bee7719487a2d5b7aa9" sha1="44b107d8bdee718ba6af7909d92356c69dcac46d" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/CHRD11M.PCH" size="375" crc="265fc9bd" md5="a3fbef04e269f272132b6af32d6e690f" sha1="0de3e3c3db70fde6b96ea7e97cd7fd59429597af" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/CHRD90.PCH" size="3063" crc="66522ac1" md5="5d6de4bd1ed1f64d4792139a8999feb8" sha1="67586a5e86e8d2e81153e588428e9634bcb1031f" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/CHRD90M.PCH" size="291" crc="e65e263c" md5="a95c38a0a4ec94ef3f39045a97556690" sha1="c56d1c0e68d33c111b710c6d7397411fae8e7251" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/ENDG.MPP" size="3625" crc="5f2f3173" md5="7c10409138fd07e022049f84f7debd6c" sha1="f6e4ff9cc95ef09f2f5e28f32cd144796359b132" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/ENDG.PA" size="408" crc="93a23404" md5="69d90ca60c9854e3487330a8ddc87214" sha1="6b028d1716d641fc58cc5306889649edabe5c02f" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/FOREST.MPP" size="4415" crc="db6545ac" md5="2d36887a1b5e08cfbfb56e87fc5d51c8" sha1="0b62da95fe9205c375cd3437a353577112bcb555" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/FOREST.PA" size="2110" crc="0c87b020" md5="4b507552defe8f10c31cbe221d968e2e" sha1="8b2549e20b53ad986b44e8e529f588d3e3ca1dcb" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/FORMON.PCH" size="1679" crc="ab992564" md5="063a7294c88aa2680de71fe53c88e056" sha1="edbf761677ea4ce329c48cb8af1cecb26a460a0b" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/FORMONM.PCH" size="1107" crc="634b5a7d" md5="d8a4f9ffd08cf299248ab03bc36667ca" sha1="3f70b1045682bdbc9224f64edfa48e9883284669" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/NEW30.PCH" size="5314" crc="261f14d8" md5="403d288a941161c23ac89cffda17f045" sha1="c392d76c54ec4e5916622b1195c88b0530333a61" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/NEW30M.PCH" size="690" crc="df86cae5" md5="dd93bf569a2576d2f87f2ce643165ae3" sha1="a230a51829d6f53134dcdab57c767157d1575e35" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/OUTERVIL.MPP" size="5438" crc="dd5bd931" md5="79759e7655bdd7cb1467f03712c51ea4" sha1="cf4071cbd83f4e9829c42583bb0c92c8d8a7cf09" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/OUTERVIL.PA" size="2027" crc="e56be001" md5="33086205bfb5546a84b88793c9d18056" sha1="dbdf2a563dbbd4ef91408194da72379d0933ef22" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/SEPMON.PCH" size="2602" crc="e110997b" md5="4e6c17c57a4385b3d17ced4a75f06170" sha1="e37a40c303b4092d12a97244609c951365637fde" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/SEPMONM.PCH" size="688" crc="fa28548f" md5="c9ae06f80e0f2c329d38d9f9813b6e26" sha1="9c2f45ff5457bb634b2bc89ab5f3e5fafaa68ead" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/T1MON.PCH" size="1306" crc="62641a0d" md5="e1696f2ce604dce16f78139ad1013a43" sha1="f20a4ac153cf2d2d9db8deda2ac844a531b4670e" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/T1MONM.PCH" size="754" crc="f93aa258" md5="378d482048be7dca33bc9bcc48e22627" sha1="76810e703224ecd39e50bc62f67ab33df669c23e" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/T2MON.PCH" size="2151" crc="0b066e0d" md5="c90588a42681489be12cebcf1282f8b6" sha1="af86baa1bf5f300171f5623bb425d3126b0ef9b9" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/T2MONM.PCH" size="679" crc="2c3d6e89" md5="9e4ed5fefc0c314bc6535ec5b27b350d" sha1="b3fcb59332c31586e4f0b3b67b760e26ecffba5f" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/T3MON.PCH" size="1426" crc="a16fc841" md5="a75a31911b4c6a15420a4db0c8411164" sha1="3455322137f60ed567794eefb537ab5b7a4e849d" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/T3MONM.PCH" size="527" crc="72592a6a" md5="86cb8270ba6c4329bb6f75a837ca85da" sha1="4f4b505ebdeb6530c00371c4b238463b09a06f82" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/T4MON.PCH" size="1223" crc="0bf0732b" md5="366d2649e84a16437c0ded9469266fce" sha1="97c315f15291db03b658845cc077dd4f63cb686d" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/T4MONM.PCH" size="542" crc="00e78a64" md5="ac7c3718fb2afa74463916564259fb13" sha1="c47d7fa157e04e991034a0a6ee827a6d6f868de9" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/T5MON.PCH" size="1881" crc="12870af2" md5="36b4b2f4262b6e784cde4e73f9ff8b35" sha1="6622a52ecb3a6ceedf552d8385099736712d7748" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/T5MONM.PCH" size="714" crc="30b13ecb" md5="fd805c4076a968fa5292ea33f331f714" sha1="a62dad422ff575205312de4aa1e1a9b91c9f340a" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/T6MON.PCH" size="1928" crc="36b9ce76" md5="f784928f57a8f27c711c9d8a63cd23a6" sha1="c6a943585352673c24e25fc0cb5dd31e06043052" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/T6MONM.PCH" size="614" crc="ac835b41" md5="810b17c183e5aff199dd919e646035d3" sha1="f6a340053aae4cc6ab21c8495b33964c7da6f13c" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/T7MON.PCH" size="2959" crc="3d251b1b" md5="41f288bdf61a06a32469f12d53b51cef" sha1="c816340c9f9d4ef3b5b50780b650e412f6427bef" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/T7MONM.PCH" size="893" crc="bb5c85f4" md5="3ab68adef510267fd1815de114784cc4" sha1="6ccef6ec8b5510d4833b4ae0ad14ac63bbfc6232" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/T8MON.PCH" size="2782" crc="220b8a3b" md5="03609bec3ad1887551ece3be69c27864" sha1="f8d3bb9c169cd918d46d1a875bbc30dc75049704" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/T8MONM.PCH" size="800" crc="88550db5" md5="2224eba6eef4d7f8a0b6b0379496766e" sha1="04a9e918b21501ab9d935f114ee39c396878d1c4" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TCHR1.PCH" size="4217" crc="3386a27d" md5="9b613172b3eb65e430c458eac54b1fb5" sha1="9f8e9e835d961edc9dff9d6350a4156c04cf52e8" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TCHR1M.PCH" size="785" crc="75728fef" md5="7fb770040af340e9f5f54f9759a0dffe" sha1="aebc8ace70a98c814a45a6450cb942a51c00169c" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TE2MON.PCH" size="3100" crc="6d10604a" md5="5d5c5f80e7aaca696513beac1ef60700" sha1="bc8aa01afa2a3e2b7e567b472b4e37d5265ec328" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TE2MONM.PCH" size="1148" crc="39c3939f" md5="caa902a3bff80e80b4371b943170ef31" sha1="23da40cd98ad16bd0305cc4979ecf179770dcb11" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TE3MON.PCH" size="2332" crc="eda99204" md5="230161c8df163a42df8007357e805c69" sha1="95beef3748533d43a2a553707735a544ccd75ff9" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TE3MONM.PCH" size="687" crc="c16019ca" md5="862f05db8abd7a5fbf8ce06d85b33577" sha1="4bc632ce4ffbd360e0499621d248f7404566964a" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TEMPLE1.MPP" size="1479" crc="0c2d9561" md5="c49810a0d12342f19544b7bc1db6b4d4" sha1="0423477275b9f17a4e31ae9c4fe26d6aca6dd3c2" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TEMPLE1.PA" size="913" crc="c813986e" md5="76f134afe93acb9d800f65ab8c1485af" sha1="ebc6277c6ea289aca3da6ae5c6cf4d27c7835187" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TEMPLE2.MPP" size="3779" crc="ce2523da" md5="9fc8df8ca6b6e672feb9b400f58c3a23" sha1="c6e40b9097a4cf34b87139de9e70ad5a85f90b6c" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TEMPLE2.PA" size="2513" crc="5451d9e9" md5="110f1f69fab6c51e0b9fca13f1f7fb96" sha1="af93459e39a2bca0c11a16756f7297ad95dc49d0" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TEMPLE3.MPP" size="3784" crc="5caf7c23" md5="a65d9fb290617fa81a55d3456a0ebe13" sha1="da8962103371fdeb65e5bf2d8ccfb71da273bf80" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TEMPLE3.PA" size="2475" crc="b3110788" md5="35240ce50d99df324b1e237aacf96965" sha1="981a52e1490329defb4257b2973c156a1fc85fe8" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/THIEFSHA.MPP" size="2454" crc="e291a8f7" md5="77aecfcc7ea4a34c91f08fe578d5a38f" sha1="3f132611d5454b2ff78bffb21a353c47ea61970e" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/THIEFSHA.PA" size="761" crc="80953590" md5="e4abb7bcbf9896fccdf49efa952ba035" sha1="9d4f28be78a952ca8bc773dd747d46614242e66a" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TOWER1.MPP" size="1624" crc="11284e2b" md5="b991cee441ad084541da7d40eee6a911" sha1="e5d99f17a537791ed35ddf3286305c7ed3fc712c" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TOWER1.PA" size="905" crc="2c91b6fd" md5="8b6df61bb683c30715ada7ae3b9b22cd" sha1="b23e64efe95a30c69d759d31adc5ea59f4f7745f" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TOWER2.MPP" size="2552" crc="03ee5a5c" md5="3c896dc9136ee5fc04e5870db3924d9c" sha1="13dbd732a8e4f5700c9576bbb64ca66e839d5493" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TOWER2.PA" size="1759" crc="656d9fa7" md5="c7e7471ba4ebeafa3045ca1ce4cf529f" sha1="acfed44871668ca57f5974017692f709d62ffd38" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TOWER3.MPP" size="2663" crc="7dfbc44a" md5="5044a666d3a0d0f67b2d6bef240750fd" sha1="faf2ecc9fafd8eb05c808def3c276993565bd709" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TOWER3.PA" size="1712" crc="33dcfb61" md5="491d494011c91da51ca38bb712357599" sha1="8430da1f566e8e757ee2b98ce39ef62bbdc146ce" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TOWER4.MPP" size="2407" crc="13aa16cd" md5="f6cdbaab09b11ab04a24b2953664c91c" sha1="b8cd4cf58249392721e5dab7a74260766bed34d9" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TOWER4.PA" size="1547" crc="48a647b2" md5="738b535a513e179362d2f0a609f96692" sha1="5290208d707e1aa4fd2303ee87c33ce055a66c3c" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TOWER5.MPP" size="3629" crc="aaf88815" md5="4a19b0bf1c8e0f87748f0d3df1cded18" sha1="c706fe1fa6daa218eba4f6fb9e35c5a5741578e9" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TOWER5.PA" size="2460" crc="933a63a8" md5="7918027957c8f410ba4df323f6e4105c" sha1="d7d9c1ba577244e38ead3d7be74ac5a09e81ce75" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TOWER6.MPP" size="2503" crc="fb6948f3" md5="691acde286bb49e6e51157d31e40a5c4" sha1="374e3f45e614eca9731b1168742fa9322d750f88" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TOWER6.PA" size="1462" crc="84fd81e3" md5="fbf11521e14df0318b7e596f3decd390" sha1="f4c9695358f4e9f6b03ae0a382f6c81eebf98b2e" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TOWER7.MPP" size="2260" crc="817a9b68" md5="64a58f97f91e641d0c6fa907e5da4569" sha1="3a1ddcb4b8eb1bc0803b09162595256a0612c8da" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TOWER7.PA" size="1487" crc="92d8c8e1" md5="29c10d774b50da191deccdd87681083a" sha1="5c706afb64f2a44819927b4932060472772ab7d4" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TOWER8.MPP" size="2502" crc="64ddd967" md5="02c230698154663582112781da289bfa" sha1="336bbf8977102ea7d6f98dd20e240aba8d824043" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/TOWER8.PA" size="1622" crc="a2deee63" md5="bc8dccb6f10546f30ec354b84c05f69f" sha1="7d724c3ff6908f2f9c1b5c162cee423c40ae55d7" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/VILLAGE.MPP" size="2450" crc="97742054" md5="8e3127062e08947b508c41efbc1793c4" sha1="2eaf0a2186814bccb063b9a76c3092ef22262d2c" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/VILLAGE.PA" size="908" crc="7fc79248" md5="bb2a53405bedd30f08ab2979221b671f" sha1="7582e149eb22926ec2079b2eb6de6c6efd2be35f" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/VILPEOP.PCH" size="2060" crc="b64e69ac" md5="1e3655ce197ed8d432eb8ee0780b45fa" sha1="a4cc4ea6ebf4601a2187da0c050772fba12562a0" date="1989-07-31 12:00:00"/>
+		<rom name="MAPS/VILPEOPM.PCH" size="1066" crc="f51a8ef0" md5="a92efeafc4a0e06fa44a831470f61287" sha1="deda571d92875cdd891706784f97ab4c483195d4" date="1989-07-31 12:00:00"/>
+		<rom name="MUSIC/AWARDSNG.BIN" size="200" crc="e984550f" md5="06ec5ea806484ce26639ac4de0486449" sha1="4645596f4bc661324bc07a498ef0a033cea562d5" date="1989-07-31 12:00:00"/>
+		<rom name="MUSIC/CAVE.BIN" size="447" crc="08d3a938" md5="a3ab548aa4e6dbc57e06d32dc985f7fc" sha1="3fee42cb4e20d936542fa70620a7575c74f2d2b0" date="1989-07-31 12:00:00"/>
+		<rom name="MUSIC/EXPLODE.BIN" size="772" crc="f16bb9b8" md5="c51c3f787c78073e8184a17435931f00" sha1="a44c616510c6fb1c23dae360c9d9c486ca2e675f" date="1989-07-31 12:00:00"/>
+		<rom name="MUSIC/FINALBAT.BIN" size="209" crc="a6dd4bf9" md5="8b80e537550fa878dd0376b1de0b65fa" sha1="55f055e30ea3d77d44fe7f6911cce88ade270458" date="1989-07-31 12:00:00"/>
+		<rom name="MUSIC/FORSONG.BIN" size="372" crc="bd563a8d" md5="44347c0de747343390787ba3d7198142" sha1="74431c140a4bdefa620da4b370b906efba003083" date="1989-07-31 12:00:00"/>
+		<rom name="MUSIC/FXSONG.BIN" size="733" crc="73565a79" md5="5bb4883b6bd127ea2192741e29eb40cf" sha1="0d8389b17021521e3a81e1a03dbe0cddb40323a1" date="1989-07-31 12:00:00"/>
+		<rom name="MUSIC/FXVOICES.BIN" size="640" crc="a41736c3" md5="c775a02de77b95b40f8bf6ff3142f844" sha1="4003ec8fe1dd497ca6f6645bcd3c118b6289c634" date="1989-07-31 12:00:00"/>
+		<rom name="MUSIC/HOPSONG.BIN" size="470" crc="02f05f83" md5="7e9b84529b41c7c1e10da8758e462e09" sha1="e69def1e799565152a2a6a30d5a070559cbc5908" date="1989-07-31 12:00:00"/>
+		<rom name="MUSIC/LASTROOM.BIN" size="424" crc="73d005c2" md5="8f87953b7f5eb94b101df07b24f8be0c" sha1="d4000e808a5e52487094ddf0830de2c077bf9d97" date="1989-07-31 12:00:00"/>
+		<rom name="MUSIC/MORNING.BIN" size="722" crc="585f7fb5" md5="6be64b03f8422962724b02d368d0b586" sha1="6f535b0870aeebd1b30bbb2e2c5936b8c6c44c8d" date="1989-07-31 12:00:00"/>
+		<rom name="MUSIC/SYONIN.BIN" size="194" crc="56f8bd47" md5="d80f5e92b117b58bba3e4c50c70057d0" sha1="23d5b4461c6bf3aaa6ce9a5e30c46f1cd42bd5be" date="1989-07-31 12:00:00"/>
+		<rom name="MUSIC/TEARS.BIN" size="184" crc="ef9e1714" md5="c1a671b911a306866ce32eea23e4e3bc" sha1="4d5677bf1ee02a552275b9d5ec33c4f043317219" date="1989-07-31 12:00:00"/>
+		<rom name="MUSIC/TEMPLE1.BIN" size="519" crc="8d373326" md5="d3fbd564ded4b331af80493eda6211ff" sha1="36c6e0fe571ed6ad5860089086c15afc8d47f8c9" date="1989-07-31 12:00:00"/>
+		<rom name="MUSIC/TEMPLE2.BIN" size="397" crc="1667d6a1" md5="c31d4ba0648058451b19df23979cd4bc" sha1="9b307be3735e97648890b7724dfedffc907f58db" date="1989-07-31 12:00:00"/>
+		<rom name="MUSIC/TOW1SNG.BIN" size="440" crc="bbf6b59c" md5="d1b6a116cadef1c3bd8a74f13f584b57" sha1="477a35174994e427a6e5bc574687f1351d377767" date="1989-07-31 12:00:00"/>
+		<rom name="MUSIC/VILLSONG.BIN" size="256" crc="66c4793b" md5="794441c579dcf312c4ac16021d68281b" sha1="74c700b12a4683a610706a49ec3492de9f591d41" date="1989-07-31 12:00:00"/>
+		<rom name="PEOPDAT.PDA" size="3918" crc="ba19ecb0" md5="50394da988f13bd0d694012c91b31b09" sha1="0dfd6c795aa750a5890f5c5100e08e34b6ab527f" date="1989-07-31 12:00:00"/>
+		<rom name="TEXTDAT.PDA" size="8678" crc="c42c9992" md5="36bd4ce6756045764dbcf9f79efdd88b" sha1="948c7398a73714a9c4637905a37a075cfeae726b" date="1989-07-31 12:00:00"/>
+		<rom name="TITLE.PCS" size="4778" crc="bb35b0aa" md5="8206c9a6fded4428f925f84130e7fe5c" sha1="0b4eb9d9101a24dd2e7d0f3f3409b6f6a4fc20fe" date="1989-07-31 12:00:00"/>
+		<rom name="TITLE.PES" size="8339" crc="a5565ae4" md5="8c067a0c5f5c00720b553c2e1824f9ae" sha1="18c89ea4ab7f95066554ca99fba73804df65b2b5" date="1989-07-31 12:00:00"/>
+		<rom name="YS.EXE" size="1120" crc="6aa97d43" md5="4a63717ca6bb1c2255d39265b8244755" sha1="37c83de04ff2b147aa61c99bb402cf64c16d90c7" date="1989-07-31 12:00:00"/>
+		<rom name="YSCGA.EXE" size="110811" crc="3d78dbc1" md5="4670b0cc7587b8ce248cb9149861cd33" sha1="b3536bba3d332b9416760143ee3b9b61b642b011" date="1989-07-31 12:00:00"/>
+		<rom name="YSEGA.EXE" size="117445" crc="10fd86c5" md5="8dd913592b4478ae8e3ad8c3488dcd86" sha1="8c1d59813be9c19cd3d0e328fdffd37fc8b129cb" date="1989-07-31 12:00:00"/>
+		<rom name="YSTDY.EXE" size="110021" crc="b21092c5" md5="030b02bb9a014dc24f9d1954c4f024e5" sha1="ff91056689312a113f28ad308fdbc86ebb4c70c6" date="1989-07-31 12:00:00"/>
+		<rom name="YSVOICES.BIN" size="288" crc="5676d353" md5="f986c994a0403dc8e5f11113853b7520" sha1="da1c002f1dc1257c904ebc67b9cd042a3211c99f" date="1989-07-31 12:00:00"/>
 	</game>
 	<game name="Bedlam (1996) (GT Interactive).dosz">
 		<description>Bedlam</description>
