@@ -4871,17 +4871,27 @@
 	</game>
 	<game name="Lands of Lore - The Throne of Chaos (1993) (Westwood Studios).dosz">
 		<description>Lands of Lore - The Throne of Chaos</description>
-		<comment>Installed using Redump-verified CD-ROM: Lands of Lore - The Throne of Chaos (USA) (Rerelease)</comment>
-		<comment_dosc>Sets sound card to Soundblaster Pro, mounts disk, auto-starts, and configures sound settings</comment_dosc>
-		<link type="media">http://redump.org/disc/71669/</link>
 		<year>1993</year>
 		<developer>Westwood Studios</developer>
-		<rom name="CD/Lands of Lore - The Throne of Chaos (USA) (Rerelease).chd" size="378774144" crc="0281e23a" md5="1c51db585d3ef655a661735ea024edbe" sha1="8d5736e0df7de36e16cdbccbb7ddcecb5e2cd275">
-			<track number="1" type="MODE1_RAW" frames="154691" pregap="0" duration="34:22:41" size="363833232" crc="1dfef8a7" md5="d1e9e74a0db41e7b644a9bae0218c2ac" sha1="0a69709bc0c24f1711ea060180264779634d8b89" in_zeros="1" out_zeros="0"/>
-		</rom>
+		<comment>
+			Installed using Redump-verified CD-ROM: Lands of Lore - The Throne of Chaos (USA) (Rerelease)
+			After install, apply the official 1.02 CD version patch
+		</comment>
+		<comment_dosc>
+			Sound card set to sbpro2
+			Auto start
+			Configuration file
+			MT-32 and General MIDI (Roland SC-55) sound options
+			English, French, and German language options
+		</comment_dosc>
+		<link type="media">http://redump.org/disc/71669/</link>
+		<link type="patch">https://archive.org/details/LOLCDPCH_ZIP</link>
 		<rom name="ENG.LM" size="1794" crc="64a7607b" md5="cebe8cbf84b117540e352244f1c9ec82" sha1="faa898701d780d69ef84d587b2398b89a7c56a7f" date="1993-11-16 08:29:56"/>
 		<rom name="FRE.LM" size="2338" crc="9c2583d2" md5="57cb2be3e3b5ed52940d38ad2b80df86" sha1="1f21949840576b93e81c5f2f3ec36515e468737c" date="1993-11-16 08:34:34"/>
 		<rom name="GER.LM" size="2477" crc="6ac34cf3" md5="7db5431b6a7757d55687efff789c0258" sha1="0c24e1fc5d7ca1bdba776aad4d974a8c184b81fb" date="1993-11-16 08:29:56"/>
+		<rom name="Lands of Lore - The Throne of Chaos (USA) (Rerelease).chd" size="378774144" crc="0281e23a" md5="1c51db585d3ef655a661735ea024edbe" sha1="8d5736e0df7de36e16cdbccbb7ddcecb5e2cd275">
+			<track number="1" type="MODE1_RAW" frames="154691" pregap="0" duration="34:22:41" size="363833232" crc="1dfef8a7" md5="d1e9e74a0db41e7b644a9bae0218c2ac" sha1="0a69709bc0c24f1711ea060180264779634d8b89"/>
+		</rom>
 		<rom name="LOLCD.EXE" size="19356" crc="455809a6" md5="a1e40d425c2ee96f353d341962feb477" sha1="35fde9a7f89120328cae6c665e30f965a806be4a" date="1994-01-17 13:30:08"/>
 		<rom name="LORE01A.ADL" size="20431" crc="90b7d61f" md5="e861e7725ba773f53a16fc913dee08d1" sha1="714ace9867993e47005f92ed758bdcfe2a0adbfc" date="1994-02-09 19:01:26"/>
 		<rom name="LORE01B.ADL" size="21343" crc="58cc7c0e" md5="2cdd56d91d8fb0867eaf2c3b98d3316d" sha1="98573e7a6f194c0dbd6231d87676e4b90095e058" date="1994-02-09 19:01:30"/>

@@ -754,11 +754,17 @@
 	</game>
 	<game name="Lands of Lore - The Throne of Chaos (1993) (Westwood Studios) (GOG).dosz">
 		<description>Lands of Lore - The Throne of Chaos</description>
-		<comment_dosc>Sets sound card to Soundblaster Pro, mounts disk, auto-starts, and configures sound settings</comment_dosc>
-		<link type="store">https://www.gog.com/en/game/lands_of_lore_1_2</link>
 		<year>1993</year>
 		<developer>Westwood Studios</developer>
 		<variant>GOG</variant>
+		<comment_dosc>
+			Sound card set to sbpro2
+			Auto start
+			Configuration file
+			MT-32 and General MIDI (Roland SC-55) sound options
+			English, French, and German language options
+		</comment_dosc>
+		<link type="store">https://www.gog.com/en/game/lands_of_lore_1_2</link>
 		<rom name="ENG.LM" size="1794" crc="64a7607b" md5="cebe8cbf84b117540e352244f1c9ec82" sha1="faa898701d780d69ef84d587b2398b89a7c56a7f"/>
 		<rom name="FRE.LM" size="2338" crc="9c2583d2" md5="57cb2be3e3b5ed52940d38ad2b80df86" sha1="1f21949840576b93e81c5f2f3ec36515e468737c"/>
 		<rom name="GAME.ISO" size="306751488" crc="0e184201" md5="c394e86662462133867fc2d5c9740bdc" sha1="8c576fbd6c2a04199d50e50e49fdd41cb0d25c9c"/>
