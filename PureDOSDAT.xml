@@ -6895,7 +6895,15 @@
 	</game>
 	<game name="Rayman (1995) (Ubi Soft).dosz">
 		<description>Rayman</description>
-		<comment>Installed from CD. English language and SB16 sound chosen during installation</comment>
+		<comment>
+			Installed from CD.
+			Installation options, in order:
+				English language
+				Extended install with video
+				Directory: C:\RAYMAN
+				Sound: SB16, IRQ 7, Port 220, DMA 5
+			Exact RAYMAN.CFG file is in the DOSC
+		</comment>
 		<comment_dosc>Required RAYMAN.CFG file and auto start. French and German options</comment_dosc>
 		<year>1995</year>
 		<developer>Ubi Soft</developer>
@@ -7071,7 +7079,7 @@
 			<source frames="1371" pregap="149" duration="00:18:21" size="3224592" crc="d3281062" md5="b09b652002c5e6ce43c6baff3585716a" sha1="12740ead22a73e33db2ff939bb47d12097fe8c55" in_zeros="0" out_zeros="373969" trimmed_crc="a4d64a30" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="Rayman (USA) (En,Fr,De).cue" size="2803" crc="189e6faa" md5="a1352ede951347f12edf10a547bfced1" sha1="d60e9f4965f2b0249173eb50c380736de66c4ded"/>
-		<rom name="RAYMAN.CFG" size="132" crc="d398a48f" md5="7c9fc758759660e666d411162fd0f84d" sha1="b242b4357d277643f910f0198abbbe3e74b64dce"/>
+		<rom name="RAYMAN.CFG" size="132" crc="193df09d" md5="efb711a5dc8dabbcc59f8c45af22f0ae" sha1="d7dbcfd32ccacdee10675056f25d61df5a78930a"/>
 		<rom name="RAYMAN.EXE" size="426732" crc="de044407" md5="73bd60338b4ed09396fab3c3bfd4c176" sha1="2bdbebead2c6a5a96e8ee8198fa14c174e65be7f"/>
 		<rom name="SNDD8B.DAT" size="1338224" crc="2318046d" md5="36205407f5301614e8c6536083d124e7" sha1="d0cfd48d37617fd5610547a7f73e0840e7f53beb"/>
 		<rom name="SNDH8B.DAT" size="14336" crc="7b18d453" md5="d1928fb120e9492e75b1eab2b4ef70ed" sha1="fa44d50956f47f236aa1cf98342860b65df22679"/>
