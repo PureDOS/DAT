@@ -1546,11 +1546,16 @@
 	</game>
 	<game name="Colonel's Bequest, The (1989) (Sierra On-Line).dosz">
 		<description>Colonel's Bequest, The</description>
-		<comment>Installed from 4 3.5" floppy disks matching The Good Old Days ID: 171</comment>
-		<comment_dosc>Auto start, sound configuration, and copy protection patch</comment_dosc>
-		<link type="media">https://www.goodolddays.net/diskimages/id%2C171/</link>
 		<year>1989</year>
 		<developer>Sierra On-Line</developer>
+		<comment>Installed v1.000.046 from 4 3.5" floppy disks matching The Good Old Days ID: 171</comment>
+		<comment_dosc>
+			Auto start
+			Configuration file
+			MT-32 option
+			Copy protection patch
+		</comment_dosc>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=171</link>
 		<rom name="__INSTH.BAT" size="1032" crc="341c5556" md5="d964fa85e1adf47eae020d0f8f0a58fe" sha1="0e2e84113503629db30957013a2c140c786d98f7" date="1989-12-14 09:39:16"/>
 		<rom name="ADL.DRV" size="8997" crc="bc3f487e" md5="e7bad0eacbe0435944723b1863a32a39" sha1="bf628d93229a42f737425d218aadd23f87f6b510" date="1989-12-05 15:49:48"/>
 		<rom name="CGA320M.DRV" size="2029" crc="4f711b2c" md5="820e5c97ea0ec931ffce90b6048af2aa" sha1="e67143c8fb1d22ee7a67c5663a00414264d42c61" date="1989-09-20 09:38:50"/>
