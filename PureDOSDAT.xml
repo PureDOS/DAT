@@ -5204,7 +5204,7 @@
 	<game name="Might and Magic - Clouds of Xeen (1992) (New World Computing).dosz">
 		<description>Might and Magic - Clouds of Xeen</description>
 		<comment>Installed from the Might and Magic Trilogy CD</comment>
-		<comment_dosc>Copy protection patch, Sound Blaster config, and auto start. MT-32 option</comment_dosc>
+		<comment_dosc>Copy protection patch, Sound Blaster config, and auto start. MT-32 and General MIDI options</comment_dosc>
 		<year>1992</year>
 		<developer>New World Computing</developer>
 		<rom name="INSTALL.EXE" size="19501" crc="67e79ddb" md5="9461f141fab3b7f3dcdcb46572c59342" sha1="2f2e597f7f4e9b78c5e3dfb81b9f213683ccc7bf" date="1995-11-01 13:38:56"/>
@@ -5215,7 +5215,7 @@
 	<game name="Might and Magic - Darkside of Xeen (1993) (New World Computing).dosz">
 		<description>Might and Magic - Darkside of Xeen</description>
 		<comment>Installed from the Might and Magic Trilogy CD. Also matches with the Ultimate Might and Magic Archives CD</comment>
-		<comment_dosc>Copy protection patch, Sound Blaster config, and auto start. MT-32 option</comment_dosc>
+		<comment_dosc>Copy protection patch, Sound Blaster config, and auto start. MT-32 and General MIDI options</comment_dosc>
 		<year>1993</year>
 		<developer>New World Computing</developer>
 		<rom name="DARK.CC" size="11217676" crc="d5e96530" md5="89d5c3a3a31fdaf5868728b64541c9bd" sha1="29665d274acedc80a7acb7fad3939fd78fd74846" date="1993-05-19 05:43:24"/>
@@ -5227,7 +5227,7 @@
 	<game name="Might and Magic - Swords of Xeen (1995) (Catware).dosz">
 		<description>Might and Magic - Swords of Xeen</description>
 		<comment>Installed from the Might and Magic Trilogy CD. Also matches with GOG and with the Ultimate Might and Magic Archives CD</comment>
-		<comment_dosc>Sound Blaster config and auto start. MT-32 option</comment_dosc>
+		<comment_dosc>Sound Blaster config and auto start. MT-32 and General MIDI options</comment_dosc>
 		<year>1995</year>
 		<developer>Catware</developer>
 		<rom name="INSTALL.EXE" size="102566" crc="75e86bcf" md5="c73c2067a9f9d56569fc303dd72ebab9" sha1="595af4063e87a4d525a26742b1e66fda3e417dcf" date="1995-05-19 15:15:42"/>
@@ -5237,8 +5237,8 @@
 	</game>
 	<game name="Might and Magic - World of Xeen (1993) (New World Computing).dosz">
 		<description>Might and Magic - World of Xeen</description>
-		<comment>Fully voiced version, installed from CD. Audio tracks converted with CHDtoOGG</comment>
-		<comment_dosc>Sound Blaster config and auto start. MT-32 option</comment_dosc>
+		<comment>Fully voiced version, installed from CD, minimal install size. CD image converted with CHDtoOGG</comment>
+		<comment_dosc>Sound Blaster config and auto start. MT-32 and General MIDI options</comment_dosc>
 		<year>1993</year>
 		<developer>New World Computing</developer>
 		<link type="media">http://redump.org/disc/20403/</link>
@@ -5424,10 +5424,7 @@
 			<source frames="20561" pregap="0" duration="04:34:11" size="48359472" crc="5316d42c" md5="937f4f793e535ca7cfb47d1fe922b429" sha1="e79e0e136e419b01a783be648b3570dce5daf842" in_zeros="1492" out_zeros="528468" trimmed_crc="f90cd0a8" quality="8"/>
 		</rom>
 		<rom name="Might and Magic - World of Xeen (USA) (Disc 2).cue" size="3470" crc="d38af848" md5="3c000a91e4d58d098072ba9b17e5a420" sha1="7b477ca7ba1e8748a87274585795e16f4731bc7f"/>
-		<rom name="WORLD/DARK.CC" size="11288403" crc="6421f2f8" md5="00a90f7b2696dc80d7167bdceb54d4e1" sha1="96fda506aba04aa545eeb1a90766217866ad08d8"/>
 		<rom name="WORLD/INSTALL.EXE" size="38514" crc="ca42566d" md5="41c1042a8743f5691063a5ecb2f76c82" sha1="58bdfc504b61b2b4e8e36c8cbc86e0597ea8acbf"/>
-		<rom name="WORLD/INTRO.CC" size="12393360" crc="94a6fd11" md5="0cb10f51a783bb6b52ee19ca628bf831" sha1="4e2bf1fd72f48fded650f45b0b95a4f5c8ced3fb"/>
-		<rom name="WORLD/XEEN.CC" size="13438429" crc="2d073b21" md5="0653c52953ec8e02eb03095dac762607" sha1="138bc9aa11572d51b6ecd21fd2ce5b4aaebac33b"/>
 		<rom name="WORLD/XEEN.DAT" size="156361" crc="63da06ea" md5="26ac547a5c572222d5b6f5d32ecb5b4f" sha1="d0c09f1b8dfa561595f60ffc26e5e4fe886ee75c"/>
 		<rom name="WORLD/XEEN.EXE" size="56786" crc="d3ac0567" md5="75eed8578391a0c3c723da22f0fe26a3" sha1="1241e4c41883bca28c64f34cd568f3097951cf55"/>
 	</game>
