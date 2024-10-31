@@ -6043,8 +6043,8 @@
 		<rom name="XMAS2.PSM" size="136849" crc="4bf10799" md5="2cff502e4831a658b1c63257838a3ebf" sha1="cb1483acc93019333d5923abead301e10b565afb" date="1995-09-27 03:01:40"/>
 		<rom name="XMAS3.PSM" size="181650" crc="fe0ed271" md5="f1f1b66abb6fa42dcb0221fb21c97319" sha1="d08254373447fc0e68b5f280f6367030dd27b2a7" date="1995-09-27 03:03:42"/>
 	</game>
-	<game name="Legend of Kyrandia, The - Book One (1992) (Westwood Studios).dosz">
-		<description>Legend of Kyrandia, The - Book One</description>
+	<game name="Legend of Kyrandia, The - Book 1 (1992) (Westwood Studios).dosz">
+		<description>Legend of Kyrandia, The - Book 1</description>
 		<comment>Installed from CD. French and German versions of MAIN.EXE also need to be installed/copied from CD</comment>
 		<comment_dosc>English language, VGA 256k+ video RAM, Sound Blaster Pro, mouse enabled, and auto start. Options for French, German, and MT-32</comment_dosc>
 		<year>1992</year>
@@ -6062,8 +6062,38 @@
 		<rom name="SETUPFRE.DIP" size="3879" crc="ed1ce73a" md5="6cd84acab8ca464e83ab6f651084b4cc" sha1="487d4e343e78d1fa34d7dd76c4d1b8ed6ff8a725"/>
 		<rom name="SETUPGER.DIP" size="3824" crc="0596334f" md5="bb878135c108bbdd06bd9ffa936be0c4" sha1="540712a89aa3d04241ded05426344639eaf95e84"/>
 	</game>
-	<game name="Legend of Kyrandia, The - Book Three - Malcolm's Revenge (1994) (Westwood Studios).dosz">
-		<description>Legend of Kyrandia, The - Book Three - Malcolm's Revenge</description>
+	<game name="Legend of Kyrandia, The - Book 2 - The Hand of Fate (1993) (Westwood Studios).dosz">
+		<description>Legend of Kyrandia, The - Book 2 - The Hand of Fate</description>
+		<comment>Installed from CD</comment>
+		<comment_dosc>English language, Sound Blaster 16, digitized samples enabled, and auto start. Options for MT-32 and General MIDI</comment_dosc>
+		<year>1993</year>
+		<developer>Westwood Studios</developer>
+		<link type="media">http://redump.org/disc/37514/</link>
+		<rom name="DOSETUP.PIF" size="545" crc="41092f14" md5="e525c307c3c42c948cba1d60ea1b4447" sha1="1c0e0bff87f7457d8ff22cf660bd1b74bb2226b6"/>
+		<rom name="Hand of Fate (USA, Europe) (En,Fr,De).chd" size="251262720" crc="f89fb43a" md5="5073e4319ecfd519f62fb720ad37c953" sha1="a2db4c8c67eaf70e830b91f6cbee4aca9fe42249">
+			<track number="1" type="MODE1_RAW" frames="102611" pregap="0" duration="22:48:11" size="241341072" crc="2948f649" md5="566f6c020dc6748a3ca4979a21d2d50b" sha1="fbbe6b851811128b6968bf051137266c9f398b35" in_zeros="1" out_zeros="0"/>
+		</rom>
+		<rom name="HOF.ICO" size="766" crc="844282b1" md5="7b48764448ae7a92d75142b45d44dd5f" sha1="b26a0dd23f114a7e287daee4d32d57406e84f514"/>
+		<rom name="HOF.PIF" size="545" crc="2aef3fd2" md5="7190efeb0a734bea78a03f3709f61b5d" sha1="8255cc98c6e4446984e82d385c6b731847b84b87"/>
+		<rom name="HOFCD.EXE" size="199284" crc="6ed635b7" md5="85bbc1cc6c4cef6ad31fc6ee79518efb" sha1="c260b6714f50e4ca6063c9e1c6c201e536a28d6d"/>
+		<rom name="MAINDOS.EXE" size="283328" crc="6a5f0f1c" md5="e20d0d2e500f01e399ec588247a7e213" sha1="7851e81cc1040514e0fb6041cd843886e5304628"/>
+		<rom name="MAINWIN.EXE" size="280000" crc="03e3b004" md5="b8589f78a1046e4db9030068075afd1e" sha1="403056e31f6b2f496d4ad036bf5d9cb90dc85a6d"/>
+		<rom name="MISC_EMC.PAK" size="58352" crc="0836422c" md5="7307968a964ff12ab8613eb9f8020a96" sha1="5209a18cb86c454419ce86d8f30420422d5da322"/>
+		<rom name="OTHER.PAK" size="498118" crc="d6cd3f6d" md5="bddd0c243e927fe87ca44f0594b58ebe" sha1="3e12081ca2afa7aa417463ca16cc36ba4c94000e"/>
+		<rom name="README.BAT" size="15" crc="17c39f52" md5="447fa3f456b7a24cff6ecb67ab6623af" sha1="37b08ab9b13c339aa6da3864f70845c246395853"/>
+		<rom name="README.TXT" size="1006" crc="e80cac6f" md5="6a7cebe5dda09fdce8f402ced1e411c3" sha1="2db8a76268d0de471e496d4c584eef889deb18ad"/>
+		<rom name="SETUP.EXE" size="126460" crc="28cd8bee" md5="c034cabac1997e5eab1ab42ee71f8434" sha1="95b0a49a8f5d70984c1d83d64279e28d12b05c2e"/>
+		<rom name="SETUP.ICO" size="766" crc="c0900b8e" md5="d0a2d74dd2eae9552d57dba51657542c" sha1="2fe022d94895e37ed8065958f5716dbca0fb24c2"/>
+		<rom name="SETUPENG.DIP" size="4087" crc="3bac0351" md5="516e16e6068e203ae66c6604ec33dd6a" sha1="d5ee4d2a8cbe89fb2962736fbb03392cec15f723"/>
+		<rom name="SETUPFRE.DIP" size="4684" crc="dd783881" md5="04741f30ccaea5bd1ef3f5a3b836d677" sha1="c612512749a6a5c14388c50727822489c83f8621"/>
+		<rom name="SETUPGER.DIP" size="4831" crc="8025d0d9" md5="b42144c1011cf93fbd297f46bc2f41aa" sha1="816e1ed041f6c103c502e849cfaeb24beb7e6ef9"/>
+		<rom name="VDSPD.386" size="10936" crc="b871b0c3" md5="f78918d0dc0464c95de8aaec4340a171" sha1="4ab0bb20efa0c9b0850b7d827212462695eca410"/>
+		<rom name="VISBIOS.COM" size="30976" crc="9ea39142" md5="a6ad1269c7e09f4ce18d5a078d91e8a8" sha1="591bd8f9c2a61b4e9f412ef0c5979ea197d37e82"/>
+		<rom name="VOC.PAK" size="1958925" crc="8320fe04" md5="4e3197fe772fad431069463b090e6f88" sha1="d635fad288fb00cf7970a6624a37617630e1a4de"/>
+		<rom name="VWWSD.386" size="5371" crc="50b392a3" md5="006443d5741bf8193e0aae470adabced" sha1="898a6e4cfb0aff58338e48072e2b79e411f3f50b"/>
+	</game>
+	<game name="Legend of Kyrandia, The - Book 3 - Malcolm's Revenge (1994) (Westwood Studios).dosz">
+		<description>Legend of Kyrandia, The - Book 3 - Malcolm's Revenge</description>
 		<comment>Installed from CD</comment>
 		<comment_dosc>English language, Sound Blaster 16, and auto start</comment_dosc>
 		<year>1994</year>
@@ -6120,36 +6150,6 @@
 		<rom name="STEWART.PAK" size="246903" crc="1918b550" md5="3ffc1ebb5bdd50fef96059bb36de7ede" sha1="f94347e8a8f599a762c153f7a2b74416e7b95391"/>
 		<rom name="WW.CPS" size="9218" crc="04bb9271" md5="29aa88ffc3a88f3d25ad7d419b84c19f" sha1="261ca6d230528199d44e4613bdcbbccff70e68ae"/>
 		<rom name="WWFORMAT.EXE" size="105112" crc="17eec175" md5="e16047ad69c2c1d7a7cf90cfdb150a55" sha1="77780aa7f996e8c04014ae3d4d8d96d13939a891"/>
-	</game>
-	<game name="Legend of Kyrandia, The - Book Two - The Hand of Fate (1993) (Westwood Studios).dosz">
-		<description>Legend of Kyrandia, The - Book Two - The Hand of Fate</description>
-		<comment>Installed from CD</comment>
-		<comment_dosc>English language, Sound Blaster 16, digitized samples enabled, and auto start. Options for MT-32 and General MIDI</comment_dosc>
-		<year>1993</year>
-		<developer>Westwood Studios</developer>
-		<link type="media">http://redump.org/disc/37514/</link>
-		<rom name="DOSETUP.PIF" size="545" crc="41092f14" md5="e525c307c3c42c948cba1d60ea1b4447" sha1="1c0e0bff87f7457d8ff22cf660bd1b74bb2226b6"/>
-		<rom name="Hand of Fate (USA, Europe) (En,Fr,De).chd" size="251262720" crc="f89fb43a" md5="5073e4319ecfd519f62fb720ad37c953" sha1="a2db4c8c67eaf70e830b91f6cbee4aca9fe42249">
-			<track number="1" type="MODE1_RAW" frames="102611" pregap="0" duration="22:48:11" size="241341072" crc="2948f649" md5="566f6c020dc6748a3ca4979a21d2d50b" sha1="fbbe6b851811128b6968bf051137266c9f398b35" in_zeros="1" out_zeros="0"/>
-		</rom>
-		<rom name="HOF.ICO" size="766" crc="844282b1" md5="7b48764448ae7a92d75142b45d44dd5f" sha1="b26a0dd23f114a7e287daee4d32d57406e84f514"/>
-		<rom name="HOF.PIF" size="545" crc="2aef3fd2" md5="7190efeb0a734bea78a03f3709f61b5d" sha1="8255cc98c6e4446984e82d385c6b731847b84b87"/>
-		<rom name="HOFCD.EXE" size="199284" crc="6ed635b7" md5="85bbc1cc6c4cef6ad31fc6ee79518efb" sha1="c260b6714f50e4ca6063c9e1c6c201e536a28d6d"/>
-		<rom name="MAINDOS.EXE" size="283328" crc="6a5f0f1c" md5="e20d0d2e500f01e399ec588247a7e213" sha1="7851e81cc1040514e0fb6041cd843886e5304628"/>
-		<rom name="MAINWIN.EXE" size="280000" crc="03e3b004" md5="b8589f78a1046e4db9030068075afd1e" sha1="403056e31f6b2f496d4ad036bf5d9cb90dc85a6d"/>
-		<rom name="MISC_EMC.PAK" size="58352" crc="0836422c" md5="7307968a964ff12ab8613eb9f8020a96" sha1="5209a18cb86c454419ce86d8f30420422d5da322"/>
-		<rom name="OTHER.PAK" size="498118" crc="d6cd3f6d" md5="bddd0c243e927fe87ca44f0594b58ebe" sha1="3e12081ca2afa7aa417463ca16cc36ba4c94000e"/>
-		<rom name="README.BAT" size="15" crc="17c39f52" md5="447fa3f456b7a24cff6ecb67ab6623af" sha1="37b08ab9b13c339aa6da3864f70845c246395853"/>
-		<rom name="README.TXT" size="1006" crc="e80cac6f" md5="6a7cebe5dda09fdce8f402ced1e411c3" sha1="2db8a76268d0de471e496d4c584eef889deb18ad"/>
-		<rom name="SETUP.EXE" size="126460" crc="28cd8bee" md5="c034cabac1997e5eab1ab42ee71f8434" sha1="95b0a49a8f5d70984c1d83d64279e28d12b05c2e"/>
-		<rom name="SETUP.ICO" size="766" crc="c0900b8e" md5="d0a2d74dd2eae9552d57dba51657542c" sha1="2fe022d94895e37ed8065958f5716dbca0fb24c2"/>
-		<rom name="SETUPENG.DIP" size="4087" crc="3bac0351" md5="516e16e6068e203ae66c6604ec33dd6a" sha1="d5ee4d2a8cbe89fb2962736fbb03392cec15f723"/>
-		<rom name="SETUPFRE.DIP" size="4684" crc="dd783881" md5="04741f30ccaea5bd1ef3f5a3b836d677" sha1="c612512749a6a5c14388c50727822489c83f8621"/>
-		<rom name="SETUPGER.DIP" size="4831" crc="8025d0d9" md5="b42144c1011cf93fbd297f46bc2f41aa" sha1="816e1ed041f6c103c502e849cfaeb24beb7e6ef9"/>
-		<rom name="VDSPD.386" size="10936" crc="b871b0c3" md5="f78918d0dc0464c95de8aaec4340a171" sha1="4ab0bb20efa0c9b0850b7d827212462695eca410"/>
-		<rom name="VISBIOS.COM" size="30976" crc="9ea39142" md5="a6ad1269c7e09f4ce18d5a078d91e8a8" sha1="591bd8f9c2a61b4e9f412ef0c5979ea197d37e82"/>
-		<rom name="VOC.PAK" size="1958925" crc="8320fe04" md5="4e3197fe772fad431069463b090e6f88" sha1="d635fad288fb00cf7970a6624a37617630e1a4de"/>
-		<rom name="VWWSD.386" size="5371" crc="50b392a3" md5="006443d5741bf8193e0aae470adabced" sha1="898a6e4cfb0aff58338e48072e2b79e411f3f50b"/>
 	</game>
 	<game name="Malice (1997) (Quantum Axcess).dosz">
 		<description>Malice</description>
