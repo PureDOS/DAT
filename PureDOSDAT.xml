@@ -7505,7 +7505,7 @@
 	</game>
 	<game name="Incredible Machine 2, The (1994) (Dynamix).dosz">
 		<description>Incredible Machine 2, The</description>
-		<comment>Full installation from CD, English language. CD image converted with CHDtoOGG</comment>
+		<comment>Full installation from CD, English language. Other language files copied from disc. CD image converted with CHDtoOGG</comment>
 		<comment_dosc>Sound Blaster config and auto start. French, German, and Spanish options</comment_dosc>
 		<year>1994</year>
 		<developer>Dynamix</developer>
@@ -7517,8 +7517,14 @@
 		<rom name="AUDPS1.DRV" size="2003" crc="14f13450" md5="efebafb4c679a7586d0b5bce59b3fdee" sha1="24d6df51543d88d6ccec833c5fb76aede07fdeca" date="1994-11-08 01:00:00"/>
 		<rom name="ENGLISH.DAT" size="112099" crc="a37d4adf" md5="cb5dab7017568b25e0120dbeddf041fb" sha1="48acde7f4208a3286a3b61089dfe0948c1483f18" date="1994-11-08 01:00:00"/>
 		<rom name="FRENCH.DAT" size="303993" crc="13ba0636" md5="126113809266a3351f89a4610b5246ae" sha1="d83d22c6a7f8e025df33def00e801d32f544d802" date="1994-11-08 01:00:00"/>
+		<rom name="FRENCH/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1994-11-08 04:00:00"/>
+		<rom name="FRENCH/INSTALL.HLP" size="22874" crc="db83bb4e" md5="fe03b9589dc5042dbfd02fde64ca45a4" sha1="e2346a1b372570cc3fec4a417888c9244a36fca7" date="1994-11-08 04:00:16"/>
+		<rom name="FRENCH/INSTALL.TXT" size="11302" crc="51ffc518" md5="2e405ceffd1f5d4bea621597d93cf917" sha1="8ac88506879a7dbc058fc16005774a841fa50fa9" date="1994-11-08 04:00:16"/>
 		<rom name="GENMIDI.DRV" size="2577" crc="f4542ca0" md5="136f2e332bfef214348c182eeca56d6a" sha1="33ea59df373e671e6fa599fa8a3612effc97507b" date="1994-11-08 01:00:00"/>
 		<rom name="GERMAN.DAT" size="332115" crc="322948eb" md5="9bbcdd4215471b629152f51a6475c610" sha1="80806f9ade9e9b6e1a9b829922cfa4e0e6958b08" date="1994-11-08 01:00:00"/>
+		<rom name="GERMAN/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1994-11-08 04:00:00"/>
+		<rom name="GERMAN/INSTALL.HLP" size="21662" crc="eadb892a" md5="9c0c74dd096197beca324e5b35d9dd0a" sha1="fae85b236deedcf1714246de1d6f084db8da7fc2" date="1994-11-08 04:00:18"/>
+		<rom name="GERMAN/INSTALL.TXT" size="11084" crc="2b985598" md5="ed7af1015d09e26da96f5f497d93723f" sha1="aecd950537db4c038238cb21075205733001b259" date="1994-11-08 04:00:18"/>
 		<rom name="IBMPS1.DRV" size="4018" crc="bc5b5bbe" md5="eacc88538ed711cc103e3c9bd40efc86" sha1="6f37810818e5d4c77f40950bb1695de55652daf8" date="1994-11-08 01:00:00"/>
 		<rom name="Incredible Machine 2, The (USA) (En,Fr,De,Es) (Track 1).bin" size="49333200" crc="7c7f7b69" md5="92a75c32404968e43abacf0f5ac9a9a0" sha1="3b0526d5f26330c7eb94fa98457b058ee4f3cdc2">
 			<source frames="20975" pregap="0" duration="04:39:50" size="49333200" crc="7c7f7b69" md5="92a75c32404968e43abacf0f5ac9a9a0" sha1="3b0526d5f26330c7eb94fa98457b058ee4f3cdc2"/>
@@ -7596,6 +7602,9 @@
 		<rom name="RESOURCE.MAP" size="11757" crc="93d3f4be" md5="a2ab3afafc13636ba08505164b4685d3" sha1="03260d1775fc76283e15bf945f0225fe70086c29" date="1994-11-08 01:00:00"/>
 		<rom name="SBPRO.DRV" size="9701" crc="0c22d8a3" md5="1b15c2c58bdf71f1333e9683036efc72" sha1="eecf231d05ab6c887cd8f7c5dba017583b3f6e94" date="1994-11-08 01:00:00"/>
 		<rom name="SPANISH.DAT" size="297040" crc="80df6672" md5="c20159bf4f6209c73abd05956853bf2d" sha1="810feb1c54ce193a1800cb733f45dc9476e17e1f" date="1994-11-08 01:00:00"/>
+		<rom name="SPANISH/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1994-11-08 04:00:00"/>
+		<rom name="SPANISH/INSTALL.HLP" size="22060" crc="cb9cf281" md5="9a08023bbe7d96ba4ca96d09c03fb22a" sha1="49c5ce16e3d6c6d44631da71e6841cce205876ac" date="1994-11-08 04:00:22"/>
+		<rom name="SPANISH/INSTALL.TXT" size="10591" crc="ef4a5961" md5="ba69c9bbe25556a68b4608867e5a2955" sha1="ec914d5fc4ada5c99b2e902b3edb402ca798552f" date="1994-11-08 04:00:22"/>
 		<rom name="STD.DRV" size="1481" crc="578efe57" md5="aa444eeb77bc162d0ee52379df408358" sha1="bdc955928878536bc2bd664eec8f9968483e2c0f" date="1994-11-08 01:00:00"/>
 		<rom name="TIM2.EXE" size="457168" crc="b6eeba67" md5="7b63389c637cdfe92e7a342c31aa3c2c" sha1="9747c9626c2dfdad60d869a2f5f1955a046deebd" date="1994-11-08 01:00:00"/>
 	</game>
