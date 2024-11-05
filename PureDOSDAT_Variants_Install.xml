@@ -283,6 +283,113 @@
 		<variant>Installation</variant>
 		<rom name="disk1.img" size="368640" crc="d5e7c2ff" md5="e7f5a9fdf8d83b3924d1d98fb5d8266d" sha1="09cdf2f26f13b900a4910b4b456464320710d2cf"/>
 	</game>
+	<game name="Mortal Kombat (1993) (Probe Software) (Installation).dosz">
+		<description>Mortal Kombat</description>
+		<comment>Redump verified CD-ROM: Mortal Kombat &amp; Mortal Kombat II (Europe)</comment>
+		<year>1993</year>
+		<developer>Probe Software</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/4649/</link>
+		<rom name="Mortal Kombat &amp; Mortal Kombat II (Europe).chd" size="50565888" crc="eb490b23" md5="55b4a7de305eacf044129421308aea30" sha1="9e7bc1f626c77d68a7538959fa6ca1f8f8ec1829">
+			<track number="1" type="MODE1_RAW" frames="20648" pregap="0" duration="04:35:23" size="48564096" crc="69d72c74" md5="d6aaf6930c7b5b2bc1815f5b919e7af6" sha1="20fbd31ef25e5c904a378d659a1b89fe13d0343c"/>
+		</rom>
+	</game>
+	<game name="Mortal Kombat 3 (1995) (Sculptured Software) (Installation).dosz">
+		<description>Mortal Kombat 3</description>
+		<comment>Redump-verified CD-ROM: Mortal Kombat 3 (USA) (Windows 95 &amp; MS-DOS)</comment>
+		<year>1995</year>
+		<developer>Sculptured Software</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/19880/</link>
+		<rom name="Mortal Kombat 3 (USA) (Windows 95 &amp; MS-DOS).chd" size="484038144" crc="83943e47" md5="f87d03d1019464fdb37b3d18286f3f7e" sha1="c55a82553ad304ca96fedf31cfc8cefb28e7bc53">
+			<track number="1" type="MODE1_RAW" frames="54493" pregap="0" duration="12:06:43" size="128167536" crc="b7dfdad1" md5="34e0ab3043dd2791a136df1549e8168d" sha1="f43558ccfc16fa4a4237616a0abc2aa1b2fcddfd"/>
+			<track number="2" type="AUDIO" frames="8306" pregap="224" duration="01:50:56" size="19535712" crc="d2f64d17" md5="5f6f5223c26e38de77429bbc5a1c462d" sha1="2e5492f90315b2210cc6003431577f30b386a157" in_zeros="532116" out_zeros="6656" trimmed_crc="2892e7c3"/>
+			<track number="3" type="AUDIO" frames="5947" pregap="148" duration="01:19:22" size="13987344" crc="1607be04" md5="9f4dfbc924a9077885410f58848ba592" sha1="2392656e70d8bb17b77074593f00e2be7eacaa0f" in_zeros="353300" out_zeros="18476" trimmed_crc="dd8556ca"/>
+			<track number="4" type="AUDIO" frames="616" pregap="143" duration="00:08:16" size="1448832" crc="346f7735" md5="becc1ea19e281db42399b1a3c10845cf" sha1="b14408e30b6cac3f8b12d550d6a932c8170c2ff8" in_zeros="341566" out_zeros="34924" trimmed_crc="54b7b937"/>
+			<track number="5" type="AUDIO" frames="611" pregap="136" duration="00:08:11" size="1437072" crc="e15556a5" md5="89c75e52981c530b79c4992552ab85f7" sha1="64a2dee961aa9ec35ecdb4dd97bcb1017e3190db" in_zeros="325044" out_zeros="39692" trimmed_crc="ecd9927b"/>
+			<track number="6" type="AUDIO" frames="655" pregap="134" duration="00:08:55" size="1540560" crc="dcd96def" md5="6c3a0b961e1e2a67e5033fca5efca270" sha1="7c7823573987d06d6a5490c40722cc93444c8fc2" in_zeros="320326" out_zeros="11485" trimmed_crc="e7267a56"/>
+			<track number="7" type="AUDIO" frames="728" pregap="146" duration="00:09:53" size="1712256" crc="7d7d92e6" md5="b7194cfef33e4c4bda0cb8710c3ac526" sha1="1c815aac959d6e304108c3f73f1b2b312d0db4c7" in_zeros="348496" out_zeros="2120" trimmed_crc="3e3b885c"/>
+			<track number="8" type="AUDIO" frames="8519" pregap="150" duration="01:53:44" size="20036688" crc="c3a59120" md5="924c078fa01aeae4283f792f667dffd3" sha1="143894b0edfac867c3fa69c3883b6a8c6472fcda" in_zeros="357896" out_zeros="32720" trimmed_crc="5a44dc75"/>
+			<track number="9" type="AUDIO" frames="597" pregap="137" duration="00:07:72" size="1404144" crc="8c6f1dfa" md5="c6b9b803d643e7cc7ca299d66df25408" sha1="0416120e51fcf972ebe42f90661c09c8c0ae0b8b" in_zeros="327266" out_zeros="9240" trimmed_crc="47909c35"/>
+			<track number="10" type="AUDIO" frames="4608" pregap="147" duration="01:01:33" size="10838016" crc="bb69fb52" md5="af52aa94e376f7250eaea275d8087c09" sha1="af4e47a2fed4872d8cf4413dbdd0b9de608c3377" in_zeros="350764" out_zeros="9272" trimmed_crc="4841df7a"/>
+			<track number="11" type="AUDIO" frames="618" pregap="147" duration="00:08:18" size="1453536" crc="58531c42" md5="7b27078abbfd08591bca9d29435bedff" sha1="4122f7be7b41e1c293413aa47da391e9fad1fdee" in_zeros="350680" out_zeros="32865" trimmed_crc="8b13b9dd"/>
+			<track number="12" type="AUDIO" frames="6051" pregap="137" duration="01:20:51" size="14231952" crc="23deb0f6" md5="e3b2ea4c6a892507f3d3616819fff014" sha1="aec70a1d6f6bc97e9eac8e5b3d40d8b2eb09f1c6" in_zeros="327096" out_zeros="2345" trimmed_crc="5dcd3b1b"/>
+			<track number="13" type="AUDIO" frames="675" pregap="150" duration="00:09:00" size="1587600" crc="a40aef56" md5="f1df8ec315de2df12334bf5b0b1874d2" sha1="737ec4a6c57f7af1c1e44530ac33e42a41917d7b" in_zeros="357652" out_zeros="7080" trimmed_crc="6affa2eb"/>
+			<track number="14" type="AUDIO" frames="5235" pregap="148" duration="01:09:60" size="12312720" crc="f47966bb" md5="26761acc4bc7ba2ac0cae5dd2f5a9376" sha1="62df0ed460fbf61bde6f699bfc311a7526e3d943" in_zeros="352944" out_zeros="2369" trimmed_crc="66a81699"/>
+			<track number="15" type="AUDIO" frames="1175" pregap="150" duration="00:15:50" size="2763600" crc="22d43dc9" md5="6b1b8cd65402c776132956fcb1994faf" sha1="ef37faa6da40ffb8cb5eb2ea2fe0a8e303bcb723" in_zeros="357630" out_zeros="2393" trimmed_crc="01b1c0a7"/>
+			<track number="16" type="AUDIO" frames="1872" pregap="150" duration="00:24:72" size="4402944" crc="5a634144" md5="acee26a53e282b9bde6463114aec8c0b" sha1="fd11016a2453d48ee409439ea8a72cde86fcb7a8" in_zeros="357636" out_zeros="7097" trimmed_crc="8aec8e93"/>
+			<track number="17" type="AUDIO" frames="606" pregap="148" duration="00:08:06" size="1425312" crc="bfd03e91" md5="9e8d6538d74e9c0a6bba0b2dd43cc70d" sha1="312a740e2e6b984ddfa077eb9f26a4ab5efbdfce" in_zeros="352910" out_zeros="2409" trimmed_crc="f188619d"/>
+			<track number="18" type="AUDIO" frames="8158" pregap="150" duration="01:48:58" size="19187616" crc="5e4ee548" md5="8969737bc7ab0594b58385ec8e107922" sha1="5dccadb002381e8316841b6d7795fa3321070595" in_zeros="357608" out_zeros="2421" trimmed_crc="f5eeb2eb"/>
+			<track number="19" type="AUDIO" frames="1683" pregap="150" duration="00:22:33" size="3958416" crc="52225177" md5="973c58ab7a1bde3485e3cd4474a058af" sha1="f2d27fd089350f9d612fdb905fbd5553864815c9" in_zeros="357604" out_zeros="2417" trimmed_crc="7b891e66"/>
+			<track number="20" type="AUDIO" frames="610" pregap="150" duration="00:08:10" size="1434720" crc="68bd3c47" md5="4a2ecbf8ac7d612e1e93fd84a19c24bc" sha1="643a73ac13560e7a092237683b72758f42029423" in_zeros="357616" out_zeros="2409" trimmed_crc="9cc83383"/>
+			<track number="21" type="AUDIO" frames="8107" pregap="150" duration="01:48:07" size="19067664" crc="b195a22b" md5="d8c9ac7c4ddfc427755d380692e2f3fd" sha1="29db00ccd4ded19ddad4da507cfa2fd904c855c3" in_zeros="357608" out_zeros="21232" trimmed_crc="53e247b3"/>
+			<track number="22" type="AUDIO" frames="1824" pregap="142" duration="00:24:24" size="4290048" crc="b07dfb01" md5="67c88b3a54d7603c0178e06360ce8ca4" sha1="030166400729a2c2649a4598b78e8258b1e54a3f" in_zeros="338792" out_zeros="21236" trimmed_crc="1336e014"/>
+			<track number="23" type="AUDIO" frames="623" pregap="142" duration="00:08:23" size="1465296" crc="c3cc7a05" md5="c699dcf276ce7cd0f8043ed3c8b4ab57" sha1="f062024f6980dbbcdb8d93c368e2da57c0503c2a" in_zeros="338738" out_zeros="37757" trimmed_crc="1a9b5890"/>
+			<track number="24" type="AUDIO" frames="8670" pregap="135" duration="01:55:45" size="20391840" crc="4e57e86d" md5="0f5f622fc81ec9f84d1791970b580a5a" sha1="cb247f8e1e0d6cafc56b5e95642a566427847646" in_zeros="322250" out_zeros="2496" trimmed_crc="ba0771e2"/>
+			<track number="25" type="AUDIO" frames="1363" pregap="150" duration="00:18:13" size="3205776" crc="7226ba16" md5="003ec5aa322b54e3cbe90f0681bdd991" sha1="f70c31b9ff409d16066fda1e9f94665933f8036b" in_zeros="357508" out_zeros="9588" trimmed_crc="0d21e34c"/>
+			<track number="26" type="AUDIO" frames="624" pregap="147" duration="00:08:24" size="1467648" crc="a23797ef" md5="1e2d350a7550350c3ae111774d63e750" sha1="d553a7448b5b96a4f744271767893f29da7a42fb" in_zeros="350464" out_zeros="21329" trimmed_crc="c741b8a8"/>
+			<track number="27" type="AUDIO" frames="1531" pregap="142" duration="00:20:31" size="3600912" crc="dc6377c0" md5="cac7edca35d323079c8579332b072ea0" sha1="2b64f3c2feb77ec3b90e2fe3c5a934ddd4436dff" in_zeros="338720" out_zeros="2489" trimmed_crc="8bf847f0"/>
+			<track number="28" type="AUDIO" frames="765" pregap="150" duration="00:10:15" size="1799280" crc="0db59e14" md5="b4c9079d28347b9259f5d3e0a74b5cda" sha1="0d03ce889a64b9ef697230365a57979579079fcf" in_zeros="357570" out_zeros="7161" trimmed_crc="c8a4fa49"/>
+			<track number="29" type="AUDIO" frames="8133" pregap="148" duration="01:48:33" size="19128816" crc="53167401" md5="5d8eea609acf8105f0641b6ac2ddb2df" sha1="6cabcc5d2c261220d0e19f26d74d02578d5a7e47" in_zeros="352860" out_zeros="54201" trimmed_crc="ac23f244"/>
+			<track number="30" type="AUDIO" frames="1456" pregap="128" duration="00:19:31" size="3424512" crc="e964f48b" md5="8c77f38fee5bc059209802922c8963ba" sha1="f534633a917a539618540057d2b0fb7be614857e" in_zeros="305812" out_zeros="2477" trimmed_crc="50d1e70e"/>
+			<track number="31" type="AUDIO" frames="643" pregap="150" duration="00:08:43" size="1512336" crc="20b7954a" md5="ccefebb4e93ef2ad36ccd0dca3ba8b40" sha1="2caa9b2f776135f45fcca50a9a1a1a94ad1e97e6" in_zeros="357544" out_zeros="30704" trimmed_crc="37ca61a7"/>
+			<track number="32" type="AUDIO" frames="2095" pregap="138" duration="00:27:70" size="4927440" crc="c1f1bfdf" md5="b0fc48bb7a2b50d8570e2f7677ec4101" sha1="850582f00b506c5820c444c26a7b0163c46e8f49" in_zeros="329292" out_zeros="2508" trimmed_crc="b70c9355"/>
+			<track number="33" type="AUDIO" frames="612" pregap="150" duration="00:08:12" size="1439424" crc="7ca68f6c" md5="7f83b1f234a025389dcfce30a1069a58" sha1="a7046dc0782ee2ad8c2b85a52b13ec5d7f6f3b73" in_zeros="357496" out_zeros="2544" trimmed_crc="d181f7f9"/>
+			<track number="34" type="AUDIO" frames="9520" pregap="150" duration="02:06:70" size="22391040" crc="de4975eb" md5="a9bde64bb92ea1e3283f61954dc95fa0" sha1="c678687d6cdc886051b9bc7cfa9662dcdd370ba8" in_zeros="357512" out_zeros="2525" trimmed_crc="c623bfc9"/>
+			<track number="35" type="AUDIO" frames="1248" pregap="150" duration="00:16:48" size="2935296" crc="cd46bb75" md5="a81bfb3e0b11bdc7dfb2cd9c73da49ed" sha1="a92430032abc379837b4cb5fb5a5ee1b745366dc" in_zeros="357508" out_zeros="2529" trimmed_crc="cee6e8d6"/>
+			<track number="36" type="AUDIO" frames="631" pregap="150" duration="00:08:31" size="1484112" crc="9f1f2a30" md5="70337e8bcbfa76e077de39537120ab15" sha1="a65e1b0e0cc40742c3d6847eea9aa0e02a480b8b" in_zeros="357484" out_zeros="14296" trimmed_crc="9212bf13"/>
+			<track number="37" type="AUDIO" frames="9029" pregap="145" duration="02:00:29" size="21236208" crc="7ec27113" md5="dad93b8c1784d83726c74c4efe7ad824" sha1="d023c4273983bfa37cb3dc35401a4940967b9ca8" in_zeros="345736" out_zeros="2516" trimmed_crc="411a35a5"/>
+			<track number="38" type="AUDIO" frames="1343" pregap="150" duration="00:17:68" size="3158736" crc="347b7d57" md5="5efc6ce508800dfda20fc2c229258d2a" sha1="a783b773b9065893e45cf7a394bad1ba48ac8a44" in_zeros="357444" out_zeros="7272" trimmed_crc="6a925c38"/>
+			<track number="39" type="AUDIO" frames="610" pregap="148" duration="00:08:10" size="1434720" crc="be4f3175" md5="d0dfb56cd45070276f7f4c4b3a0a2b70" sha1="e5adaad460ec816a8062ff32dce8eed2d3ef1c31" in_zeros="352784" out_zeros="2524" trimmed_crc="1247ea79"/>
+			<track number="40" type="AUDIO" frames="10735" pregap="150" duration="02:23:10" size="25248720" crc="e73d6201" md5="73ff1a2550f4185b1eb6f1d5387c7840" sha1="c083780ab88c885693abd42192b91acd1861f68c" in_zeros="357472" out_zeros="2541" trimmed_crc="921aa08c"/>
+			<track number="41" type="AUDIO" frames="1364" pregap="150" duration="00:18:14" size="3208128" crc="6e3ffc1c" md5="11542650a68beac6c4f12836b30278db" sha1="7b8b87fc2ba2cb2f546add1c8aa957da14c1db1a" in_zeros="357484" out_zeros="2529" trimmed_crc="ea06df75"/>
+			<track number="42" type="AUDIO" frames="609" pregap="150" duration="00:08:09" size="1432368" crc="30c2525c" md5="6993778dc7ace88d5b0f5661e7c341ab" sha1="529a0c53e61077cbcf8070571e2b0234bcfc272c" in_zeros="357476" out_zeros="2536" trimmed_crc="e82e5775"/>
+			<track number="43" type="AUDIO" frames="8665" pregap="150" duration="01:55:40" size="20380080" crc="2565c633" md5="14b0be1151ce4713519879ae8a6e22ac" sha1="7e5e8e3a18f846fc67d2ad73aea988432cd53eac" in_zeros="357484" out_zeros="2528" trimmed_crc="66fd31b6"/>
+			<track number="44" type="AUDIO" frames="1289" pregap="150" duration="00:17:14" size="3031728" crc="e0fd24f8" md5="9e9965a58680ad6a8be580ffbc15ecc6" sha1="8cbf9b496af93219f832608dc8e6a88559ae6ad3" in_zeros="357480" out_zeros="14292" trimmed_crc="3996ac49"/>
+			<track number="45" type="AUDIO" frames="607" pregap="145" duration="00:08:07" size="1427664" crc="a2df3bde" md5="366e67ac330ee775516d4db2c2c13509" sha1="998242547447ef343e60939754afd8224c5724b8" in_zeros="345672" out_zeros="2581" trimmed_crc="38f199ee"/>
+			<track number="46" type="AUDIO" frames="11218" pregap="150" duration="02:29:43" size="26384736" crc="da3e95dc" md5="ee31612da24b9d57b37aed7b392c5e97" sha1="fcf93c16c652c55d8ea770d45c4b422e66755d8b" in_zeros="357440" out_zeros="9640" trimmed_crc="e8bc51eb"/>
+			<track number="47" type="AUDIO" frames="6686" pregap="147" duration="01:29:11" size="15725472" crc="b68c2c74" md5="a143ae88711862c49958711b9989bdf4" sha1="05c22f782ce16d1852dc192f891472073961e332" in_zeros="350348" out_zeros="375353" trimmed_crc="f8b86d4c"/>
+		</rom>
+	</game>
+	<game name="Mortal Kombat Trilogy (1997) (Point of View) (Installation).dosz">
+		<description>Mortal Kombat Trilogy</description>
+		<comment>Redump-verified CD-ROM: Mortal Kombat Trilogy (USA)</comment>
+		<year>1997</year>
+		<developer>Point of View</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/12788/</link>
+		<rom name="Mortal Kombat Trilogy (USA).chd" size="629762688" crc="fab56237" md5="ebcfd8a4af7c2c433a06e744f635ab07" sha1="f72c421a2f56d15410cd4e0d7153ce5190c0e6ac">
+			<track number="1" type="MODE1_RAW" frames="66428" pregap="0" duration="14:45:53" size="156238656" crc="2252aa5c" md5="2c13da5c13149177d3b0743694b44cc5" sha1="9a7e1e1903fe8a7a8262d58267520789ea828881"/>
+			<track number="2" type="AUDIO" frames="9775" pregap="150" duration="02:10:25" size="22990800" crc="6aad8d52" md5="0615286c313ee787ea96c7fd81a1ec0d" sha1="0daa55e2fb451ce8dc9777cdd3654fc3b0121ba1" in_zeros="363036" out_zeros="1929" trimmed_crc="88026164"/>
+			<track number="3" type="AUDIO" frames="9461" pregap="149" duration="02:06:11" size="22252272" crc="f8b48a49" md5="e13c541e5c83866c80fba3702ac6278f" sha1="3f1cb28c968e490220fbc55097e2d2e18ec4ca46" in_zeros="360684" out_zeros="299181" trimmed_crc="2b285e38"/>
+			<track number="4" type="AUDIO" frames="7797" pregap="149" duration="01:43:72" size="18338544" crc="f282e1c5" md5="28f51d9ac2e405f07713c6e7881be947" sha1="656010c96921638d5520b066b4e529509ad50c39" in_zeros="360684" out_zeros="1929" trimmed_crc="772addc1"/>
+			<track number="5" type="AUDIO" frames="10288" pregap="149" duration="02:17:13" size="24197376" crc="5f9089d5" md5="fbd0fa72bd444a03663621e7b16f3315" sha1="5f1b3df3c4fb360580cf775827792b3232c328c6" in_zeros="360684" out_zeros="424156" trimmed_crc="74a3f7c9"/>
+			<track number="6" type="AUDIO" frames="12018" pregap="149" duration="02:40:18" size="28266336" crc="52b55cd1" md5="baa15998ce90af9d6e538617d11a1801" sha1="7696a5f21dd627c8ec2768dd8d345ef9bdd53919" in_zeros="360684" out_zeros="1929" trimmed_crc="0d920f12"/>
+			<track number="7" type="AUDIO" frames="8677" pregap="149" duration="01:55:52" size="20408304" crc="6a5167dc" md5="9dc8209a5ebd0bbb764300d1fedd14dc" sha1="e914f22162736ee2ed5104caab20ecbcf9be33e0" in_zeros="360684" out_zeros="1929" trimmed_crc="89fd9778"/>
+			<track number="8" type="AUDIO" frames="9463" pregap="149" duration="02:06:13" size="22256976" crc="3a94b941" md5="6bc77bfe2efd60670b6cd23e9c8cd7bb" sha1="8e8a37b5ada491a7d20bc726c781a534d766543f" in_zeros="360684" out_zeros="1929" trimmed_crc="9fd3c0f2"/>
+			<track number="9" type="AUDIO" frames="8710" pregap="149" duration="01:56:10" size="20485920" crc="19b260d6" md5="90a92f8ecc8416c54f3dd6838278352d" sha1="b067763d0672d5ed4e612e76723b01a97d20466b" in_zeros="360684" out_zeros="1929" trimmed_crc="b093e53e"/>
+			<track number="10" type="AUDIO" frames="8936" pregap="149" duration="01:59:11" size="21017472" crc="93d6e6cb" md5="d9ecc1a23166360f08c1e66e03d9967b" sha1="d110c915f119ecd7f0bc42c7e3093528f7991892" in_zeros="360684" out_zeros="1929" trimmed_crc="9c1a0a87"/>
+			<track number="11" type="AUDIO" frames="8868" pregap="149" duration="01:58:18" size="20857536" crc="33c77f56" md5="f975c3e156c1624051399dd0783299cd" sha1="7300dd4c0c5098139983e8f9b976013799d79637" in_zeros="360684" out_zeros="1929" trimmed_crc="6b5d2618"/>
+			<track number="12" type="AUDIO" frames="8705" pregap="149" duration="01:56:05" size="20474160" crc="d19b3d82" md5="f7e4f5550a6874c527cdcc13bcbadde2" sha1="f4adcfd6fba773b8c25d95cdfa15623ff1ff3d5d" in_zeros="361096" out_zeros="1928" trimmed_crc="961b2d1b"/>
+			<track number="13" type="AUDIO" frames="9306" pregap="149" duration="02:04:06" size="21887712" crc="e1bcaa21" md5="b6b3f26a3e39c93670116a712af7ea68" sha1="18a8604a90dda6ce3fc52707923a933558670a4b" in_zeros="360684" out_zeros="1928" trimmed_crc="ba140197"/>
+			<track number="14" type="AUDIO" frames="9728" pregap="149" duration="02:09:53" size="22880256" crc="0c973fa2" md5="b1f71ce07ee28d5d6cbe1b80ad6fd3de" sha1="ef86473ab4fad48ce9eafd80eb06089f10a8235d" in_zeros="360684" out_zeros="1929" trimmed_crc="3fac591e"/>
+			<track number="15" type="AUDIO" frames="8252" pregap="149" duration="01:50:02" size="19408704" crc="84972871" md5="bb31857e62f3f168481bb15ea3941009" sha1="720706a67522b6fcc62e32914b000d243de0e587" in_zeros="360684" out_zeros="1929" trimmed_crc="fc8a0caf"/>
+			<track number="16" type="AUDIO" frames="9643" pregap="149" duration="02:08:43" size="22680336" crc="bf6613f3" md5="12ea2d975c4e7446eb767811077e8b0e" sha1="c48fe46ba2a5076603d09046b2a857d8f370cc00" in_zeros="360684" out_zeros="8236" trimmed_crc="2b54ff71"/>
+			<track number="17" type="AUDIO" frames="8491" pregap="149" duration="01:53:16" size="19970832" crc="7d14d7cb" md5="06aa235b490956bb077be2e8b556a0d5" sha1="431b3984db36782646c3f1550a34ab95bce24220" in_zeros="360684" out_zeros="1929" trimmed_crc="1c1c7902"/>
+			<track number="18" type="AUDIO" frames="8841" pregap="149" duration="01:57:66" size="20794032" crc="48a75c46" md5="a9105ff131e6d41e65c800c9e9db1758" sha1="f69aebe772629e050ac6e52d00ea2d51d30ca6fc" in_zeros="360684" out_zeros="1929" trimmed_crc="21bbcfc8"/>
+			<track number="19" type="AUDIO" frames="2060" pregap="149" duration="00:27:35" size="4845120" crc="a0eb0780" md5="ef4108842c2f1b4c15f110cdb2028f5a" sha1="f4a4170a731c0e6688c8f60af2452eb949a217b7" in_zeros="360684" out_zeros="1929" trimmed_crc="a2da32c6"/>
+			<track number="20" type="AUDIO" frames="638" pregap="149" duration="00:08:38" size="1500576" crc="5c339fb8" md5="ab50bff2559e198ceae01fb8843bf9d1" sha1="0ca136068f9dae33d8db0c98df435e0b69c2f39f" in_zeros="360684" out_zeros="1929" trimmed_crc="f091e2ea"/>
+			<track number="21" type="AUDIO" frames="6284" pregap="149" duration="01:23:59" size="14779968" crc="19337e9d" md5="70508adc220ec75a9b6b2ecde223f288" sha1="4f7b779e970439352d4309b2a59af0d8ca911a3c" in_zeros="360684" out_zeros="1929" trimmed_crc="96e20102"/>
+			<track number="22" type="AUDIO" frames="6779" pregap="149" duration="01:30:29" size="15944208" crc="257c6632" md5="4f639b1326882439c65b1f2d7aa2478e" sha1="154e754677d60dd7bffc58230d9101a696af3387" in_zeros="360760" out_zeros="386081" trimmed_crc="cacd9b3c"/>
+			<track number="23" type="AUDIO" frames="484" pregap="149" duration="00:06:34" size="1138368" crc="a3ba2673" md5="236e83bc3acff263d9de3390819a0d65" sha1="2da49dda7c3bbf80f5b92d8a76d81d25e89463bd" in_zeros="360684" out_zeros="1929" trimmed_crc="7a1510bd"/>
+			<track number="24" type="AUDIO" frames="5058" pregap="149" duration="01:07:33" size="11896416" crc="05d97120" md5="97a8f437c49074224ce7c8634b11cb20" sha1="5262afcf5edff5f7ab380c5ad3fdcc5e3dff18bf" in_zeros="361048" out_zeros="1929" trimmed_crc="8ea28419"/>
+			<track number="25" type="AUDIO" frames="9275" pregap="149" duration="02:03:50" size="21814800" crc="2c54b05b" md5="4351f0df8006f2cfc41b05e14feb9c58" sha1="4540c44031ba5ac555caa27e058d2894a6bc89ce" in_zeros="360684" out_zeros="1929" trimmed_crc="45126654"/>
+			<track number="26" type="AUDIO" frames="5802" pregap="149" duration="01:17:27" size="13646304" crc="fbd2db74" md5="28a802411975717bfa45b015ae3c1267" sha1="d2a831c42933802261613f31ab2efa4533beb759" in_zeros="360686" out_zeros="1929" trimmed_crc="11f8c698"/>
+			<track number="27" type="AUDIO" frames="1156" pregap="149" duration="00:15:31" size="2718912" crc="168494f5" md5="5e427eac573f77f5c77002ceab18ed11" sha1="6de8fcce50c84d017607d657df7c7359b3aae1b4" in_zeros="361168" out_zeros="1929" trimmed_crc="2bf7bfdc"/>
+			<track number="28" type="AUDIO" frames="601" pregap="149" duration="00:08:01" size="1413552" crc="72fc8444" md5="0ab9578d8b856babcef5144de3665e09" sha1="3948d68dc2a91934f778c2a7369f6114949ff1dd" in_zeros="360684" out_zeros="352376" trimmed_crc="ba3436d2"/>
+			<track number="29" type="AUDIO" frames="452" pregap="0" duration="00:06:02" size="1063104" crc="626f3b24" md5="ab1232e0ff4e66f953cd2a3650381591" sha1="7377d668eb51b28d43027c08de4c919d74f37b70" in_zeros="10288" out_zeros="471628" trimmed_crc="c55b278c"/>
+		</rom>
+	</game>
 	<game name="Out of This World (1991) (Delphine Software) (Installation).dosz">
 		<description>Out of This World</description>
 		<comment>Redump-verified CD-ROM of Out of This World (USA) (Rerelease)</comment>
