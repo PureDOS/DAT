@@ -1689,26 +1689,81 @@
 	</game>
 	<game name="Death Gate (1994) (Legend Entertainment).dosz">
 		<description>Death Gate</description>
-		<comment>
-			Installed using Redump-verified CD-ROM: Death Gate (USA, Europe) (v1.2)
-			Installation options: Display Mode 640x480, Optimum Performance Installation, Triple or Quad Speed CD-ROM, Sound Blaster 16 Music, Sound Blaster 16 Sound
-			After install, change all directories in LEGEND.INI to C:\
-		</comment>
-		<comment_dosc>Auto start, sound config, and MT-32/General MIDI options</comment_dosc>
-		<link type="media">http://redump.org/disc/56190/</link>
 		<year>1994</year>
 		<developer>Legend Entertainment</developer>
-		<rom name="ABARRACH.FLI" size="277368" crc="e980aefd" md5="65d4500653eb78dbc9bc2d5fbf959e9d" sha1="b3cbade64ad7b14fe1454e4d86ca508da41965d5" date="1995-03-15 21:02:00"/>
+		<comment>
+			Installed using Redump-verified CD-ROM: Death Gate (USA, Europe) (v1.2)
+			Installation options:
+				Display Mode: 640x480 VESA compatible
+				Installation Options: Optimum Performance Installation
+				Test Option: Skip performance test
+				CD-ROM Speed: Triple or Quad Speed
+				Music Device: Sound Blaster Pro (OPL3)
+				Digitized Sound: Sound Blaster 16
+			After install, create the directory \CD\DGATE in the install directory and copy the contents of the \DGATE directory from the CD into it
+			Make the following changes to LEGEND.INI:
+				Change line 5 to GAMEDATA=C:\CD\DGATE\
+				Change line 6 to PICDATA=C:\
+				Change line 7 to VOCDATA=C:\CD\DGATE\
+				Change line 8 to SAVEDATA=C:\
+		</comment>
+		<comment_dosc>
+			Max CPU year set to 1994
+			Auto start
+			Configuration file
+			MT-32 and General MIDI (Roland SC-55) sound options
+		</comment_dosc>
+		<link type="media">http://redump.org/disc/56190/</link>
 		<rom name="ADLIB.MDI" size="14986" crc="6871f64c" md5="5cb112d060d70a43ee7c89b7ffe4f029" sha1="1f19c757259cac7b5f04281ac8830f8bece3c8d2" date="1995-03-16 02:02:00"/>
 		<rom name="ADLIBG.MDI" size="16377" crc="1d2a278b" md5="79d8137d4e6b78735b78cd8a4bd14827" sha1="14f61539bf8438f68add723fef2ef76821fa9fd8" date="1995-03-16 02:02:00"/>
 		<rom name="ADRV688.DIG" size="11278" crc="96dfb75d" md5="feabc78729e3a458ae2f6ab40146f0d9" sha1="255ecb5d649895d65bca49bd6afcbdf875e34bf2" date="1995-03-16 02:02:00"/>
 		<rom name="AILDIG.LST" size="383" crc="242354dc" md5="f84e190bca210364c497a8da9afbce83" sha1="75711708c0ec06c08d6aa43ea8302ce5ff6d758d" date="1995-03-16 02:02:00"/>
 		<rom name="AILMDI.LST" size="658" crc="cdd53798" md5="af8197dcb02f4174d71bc4de37aded60" sha1="5edfc451b3dcc6bdcd0addc4ed60387ede8e8a0a" date="1995-03-16 02:02:00"/>
-		<rom name="ARIANUS.FLI" size="265284" crc="b605ba63" md5="b37b223de685d96d0141b46e535c2070" sha1="8b71df3567dd1efde99ce193057894335c7f3552" date="1995-03-15 21:02:00"/>
-		<rom name="BALTAZAR.FLI" size="2768118" crc="2579d09e" md5="9b967606e69c5671b0c5b6c918cbccbf" sha1="0232b6d1dca37e6df04aa29b37a7e9cf9516be77" date="1995-03-15 21:02:00"/>
-		<rom name="BROTHOOD.FLI" size="2196670" crc="df4c3133" md5="43fc72f99a0ac096d9c6f62e1ee30f2f" sha1="214d0417a5360fccb8238a54de826ff108323280" date="1995-03-15 21:02:00"/>
-		<rom name="CHELESTR.FLI" size="142930" crc="42619581" md5="73b2f694d716706bf4a69b045108e5c4" sha1="dc3c46dd7cf19761ba1335125c275ec15e1a47a8" date="1995-03-15 21:02:00"/>
-		<rom name="DECKRUN.FLI" size="36823" crc="d690242e" md5="e9d2f74958f9e33712409cb0e1bb34a4" sha1="0403c655a6c03a8639ca9eac7419a29c52120134" date="1995-03-15 21:02:00"/>
+		<rom name="CD/DGATE/ABARRACH.FLI" size="277368" crc="e980aefd" md5="65d4500653eb78dbc9bc2d5fbf959e9d" sha1="b3cbade64ad7b14fe1454e4d86ca508da41965d5" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/ARIANUS.FLI" size="265284" crc="b605ba63" md5="b37b223de685d96d0141b46e535c2070" sha1="8b71df3567dd1efde99ce193057894335c7f3552" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/BALTAZAR.FLI" size="2768118" crc="2579d09e" md5="9b967606e69c5671b0c5b6c918cbccbf" sha1="0232b6d1dca37e6df04aa29b37a7e9cf9516be77" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/BROTHOOD.FLI" size="2196670" crc="df4c3133" md5="43fc72f99a0ac096d9c6f62e1ee30f2f" sha1="214d0417a5360fccb8238a54de826ff108323280" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/CHELESTR.FLI" size="142930" crc="42619581" md5="73b2f694d716706bf4a69b045108e5c4" sha1="dc3c46dd7cf19761ba1335125c275ec15e1a47a8" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/DECKRUN.FLI" size="36823" crc="d690242e" md5="e9d2f74958f9e33712409cb0e1bb34a4" sha1="0403c655a6c03a8639ca9eac7419a29c52120134" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/DGATE001.VOC" size="409305088" crc="2d6b2f7a" md5="c5b1786df29d20bf6a84b6aa73c5cf39" sha1="8fffdcff8d908f00ebba8655e7b3e6db70803143" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/DGATE10.DAT" size="373820" crc="85b5920b" md5="19f47ae7534a8c345439bd05174a61af" sha1="7b49c03ec6c799bdf7c5963ca1fd66d4d371176b" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/DGATE10.EXE" size="904465" crc="bb33a43f" md5="5fad58a7dd21c268172c68b4ed5f9ca2" sha1="183cd8b2031186d110ae7dc99dab2088ef4b89bd" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/DGATE100.Q" size="11729714" crc="1d46443b" md5="ffb1851eb434b71388bf0334dde58cd4" sha1="70e6ae0f0cb759a8841957eae9d3d8eec3ac5495" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/DGATE101.Q" size="524975" crc="cb265d96" md5="9e4d269ebfad39365710a9f0d0dc08d6" sha1="62329d77c50368e378e6560952d68a0092cb175a" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/DGATE102.Q" size="7695400" crc="03d8d38f" md5="a086be4a9419fd8dfc7c9983f06e8bc5" sha1="8ca23797952d92db1385b3724e7502330fb49536" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/DGATE103.Q" size="1056599" crc="5d643750" md5="405ef29ae0404bab2e3e71f13c04476f" sha1="cfddebc0692ed2ac54d6649183539813f80e4240" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/DGATE104.Q" size="11881604" crc="8d80e1a3" md5="ea6aa6ee374d7f0c79e853013c7f7d3d" sha1="db894e9f985f516da44b24c1bfcf07856798da57" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/DGATE105.Q" size="478477" crc="1be769ad" md5="62e0aa855754943cfb3d774663cc9e7c" sha1="44750b767b1dcffb1368c6b74992940467766f14" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/DGATE106.Q" size="2120938" crc="dcedc14d" md5="79232529aaefcdd685be4ab1512617a3" sha1="bc78e3ac4bb2e0cc25f3ff6834ab95016583463e" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/DGATE107.Q" size="2671558" crc="072a9baf" md5="48f1d8f9bee3134504ce1d563cdaef4e" sha1="6c5112d1d5afbc014f1576f8ff7362a9c7e5cd3d" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/DGATE108.Q" size="221522" crc="8820189b" md5="26d2f49f8222650e4167529786ebb4f9" sha1="25eb8b4165395d3d19ec44819e311fffaae74859" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/DGATE109.Q" size="2982138" crc="a416aefa" md5="89cbbd231e81e6497db81d7fc1fb6b0d" sha1="e2fbe3e9a99c3df5fd142764a3baa64a7ed513a6" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/DGATE11.DAT" size="373820" crc="85b5920b" md5="19f47ae7534a8c345439bd05174a61af" sha1="7b49c03ec6c799bdf7c5963ca1fd66d4d371176b" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/DGATE11.EXE" size="904465" crc="ad68006e" md5="b8a2b66283c9c2edf4a279313dde147b" sha1="c610da7df81f8c8c87d94f14017ded77011fa443" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/DGATE110.Q" size="2306589" crc="1f4431a4" md5="fadb8f0c5493660305a9d5cf18ae9dd1" sha1="3d275fe8eba268242e4b67b64a23b824fc9f7ae4" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/DGATE111.Q" size="1995098" crc="6ccb48b4" md5="89b64e519ae05bba1ae962f3d4a1aa64" sha1="425b8c1216ffccaab60d2c1695e6ee2eedde448e" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/DGATE112.Q" size="3760617" crc="e4b915f4" md5="11a2826be813b91e8050a1e0d4aaf8ed" sha1="0397c1279288ab712289c725cf509feb1054f64f" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/DGATE113.Q" size="281398" crc="fa6832cc" md5="2bb968e654aea936fc1fc2d250abbd6f" sha1="26fb36e3007240eabf72fb68a5e2fcc5d4d815ce" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/DGATE200.Q" size="5936559" crc="3f836b64" md5="680c0dca5ee5a7f085683c1968537062" sha1="8b32bfa18fe4dc119169ee0ecbdd17e9a1128539" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/DGATE202.Q" size="3915040" crc="40aadbf5" md5="fc5cb6a288dfc5983903b292e09d0beb" sha1="58e2004d9a69975967750b78f15bcf69333afaba" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/DGATE204.Q" size="5967823" crc="6c12e3e1" md5="8fd44c9a4e3ea7fd3453632faa1662ec" sha1="2059ddb5409e22bf83914671d6c913d7916b88eb" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/DGATE206.Q" size="1102284" crc="fca869ab" md5="df0c1afd56cf36767fd369d9f27b3cfc" sha1="c830a8fff3f0fca7cd45d895eb4d7b30f15f916b" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/GLOWFIN.FLI" size="219403" crc="f9dd4cae" md5="6028f5fb6ab0df23962f79924ea11403" sha1="0737d10b5cd153be6b557ee5eed9c1af2cb867b9" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/JOURNAL.FLI" size="2724750" crc="30caba39" md5="dd066c868e17c418ce4809d34ccb1e8e" sha1="61697d9039ef1ae564e7d048813ee87d47e4f7b1" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/KICKSEY.FLI" size="2174983" crc="4c598c4f" md5="995e3f9161153bdb564d0b21b7bc9c90" sha1="89a8e2f6451d4338f12a826d4959f6fe89775900" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/KL_SCPTR.FLI" size="46745" crc="33a69451" md5="cb95059a368708b3475d1740aed25c7b" sha1="d19f0d7e8ec750e2f8521acc0d5b67df1d9c509f" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/KL_THRON.FLI" size="81782" crc="128ab5df" md5="f402217e2818c7722ed4158f7961a390" sha1="23975ed547f442bc64494a0d749c7e019438dfcf" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/KLEI_FIN.FLI" size="5542859" crc="12b57e19" md5="024e3cc91799327ef66519c0c7f626f4" sha1="420830b502038d8f1034d5846916c0ddbbbcbadd" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/KLEIDEAD.FLI" size="167534" crc="f5149221" md5="4b841a3114b35f4e06d6a3f7270c2700" sha1="a74e990c4101701d6e2fc2f07531d8848f7ce483" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/NECROMAC.FLI" size="2781682" crc="161f67cc" md5="a553be9ae5860d06a2561ea798961285" sha1="94ae260bf903946821d441258a0e546049c2f440" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/POETRY.FLI" size="2692094" crc="8b849d7e" md5="295caee0f57a6284352950fbb686d5df" sha1="8cbed05000906331955d6b5499f88e33d7ca635b" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/PRYAN.FLI" size="2551481" crc="4549c211" md5="9044834cbb53313133ba5ee6651040a3" sha1="b0f8e012cdcb666a5fe028371e39b1910b856649" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/PRYANS.FLI" size="140263" crc="e59432b5" md5="75ba9656304e7c4f53f028f2581c14b6" sha1="cfcf064031bab4758a6d76d79ee52659841bf959" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/SUNDER.FLI" size="2488558" crc="f32c1400" md5="e12b76aa785e7ecf9cf101c77b8ce0fb" sha1="cca1629bc531bc486d23938e15462b00df1d42d4" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/TEST.Q" size="481306" crc="eb2ddf06" md5="65b9912979c76102434931e6d3c741e7" sha1="8310ef2b90fb40269300e925e5c4ff81a9fe0ba6" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/TRIAN.FLI" size="259476" crc="3cbfe6c5" md5="2ba9f39d28051cfca8139d47709281c3" sha1="d544107dee939c797e4ea77dfeff77a23978168f" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/ZIFNAB.FLI" size="3685279" crc="1886b68d" md5="fc4a48c6106caf555c7a467c7cc3fba3" sha1="aadb410c1511ff7253a97936794ee32173a6b475" date="1995-03-15 20:02:00"/>
+		<rom name="CD/DGATE/ZINGER.FLI" size="1481422" crc="06e32ba9" md5="ad71f40ad4faa95f3d898c7aeac79b0e" sha1="72a736f88fac339242dd44e45d4171b1389c9c02" date="1995-03-15 20:02:00"/>
 		<rom name="DGATE.EXE" size="904465" crc="c8c7c958" md5="ca2bbad08f8aca0dde9fb65f9a6678ce" sha1="ffdc8e55e33468f61f57644ba5441298325da9d6" date="1995-03-16 02:02:00"/>
 		<rom name="DGATE000.FNT" size="770" crc="f4f45e5e" md5="71f6577501d070147de8a822590a62b7" sha1="a269ba98d34e6003131ff54e79d477d5942add9d" date="1995-03-16 02:02:00"/>
 		<rom name="DGATE000.HLP" size="49342" crc="6fb952f0" md5="a35c9e83cd7407cc17d0833f11c05e9c" sha1="14ad11efbc75de00a76064255d05ba5e52664c85" date="1995-03-16 02:02:00"/>
@@ -1717,7 +1772,6 @@
 		<rom name="DGATE001.FNT" size="1786" crc="ceb48925" md5="c04684f56ff53c838cb0793d6915d326" sha1="5c0c7dfc33451e3ed1761c78abb530957a83bdd1" date="1995-03-16 02:02:00"/>
 		<rom name="DGATE001.MUS" size="1802240" crc="41035bd8" md5="d9366781ba10c800da2bbb4e5e07d856" sha1="7d982ba2f7813b30682b338ca7755f48aee9aaf9" date="1995-03-16 02:02:00"/>
 		<rom name="DGATE001.PIC" size="595160" crc="50a0b89b" md5="94b5bc05ae125093cbb24183e30f09e8" sha1="e5dfc62aaadecf499c880f03bbc2aaac84287f40" date="1995-03-16 02:02:00"/>
-		<rom name="DGATE001.VOC" size="409305088" crc="2d6b2f7a" md5="c5b1786df29d20bf6a84b6aa73c5cf39" sha1="8fffdcff8d908f00ebba8655e7b3e6db70803143" date="1995-03-15 21:02:00"/>
 		<rom name="DGATE002.PIC" size="1762688" crc="d3081a04" md5="d4508d0358431ed5a3d0d52d32209f0c" sha1="0fa10db51ce268d5eacef4196bdb61732a003352" date="1995-03-16 02:02:00"/>
 		<rom name="DGATE002.RGN" size="4862" crc="59d05e29" md5="436559d4ee9afbdc6fc18f155e593bc8" sha1="329fc20c788db735f1aabb63bc89cc4f055d5e3f" date="1995-03-16 02:02:00"/>
 		<rom name="DGATE003.PIC" size="957279" crc="92d47627" md5="cae520e7b35a07c698c942698eb969fe" sha1="985f07faa661e7ecc5c3aa148bc881b24dc08b14" date="1995-03-16 02:02:00"/>
@@ -1802,58 +1856,22 @@
 		<rom name="DGATE084.PIC" size="781665" crc="3b985824" md5="2217acf3583496383a589ce6c7650bc1" sha1="60f49cc6594ea496c2258abc2d42711bf2c97657" date="1995-03-16 02:02:00"/>
 		<rom name="DGATE085.PIC" size="1131719" crc="4224606e" md5="a8fd679ccc14ff67ed79cb269c755b5a" sha1="640b5379e4dc582942cdf4a0d9ea680b1339434b" date="1995-03-16 02:02:00"/>
 		<rom name="DGATE086.PIC" size="988095" crc="dc65b780" md5="85255917d4bff91495b21bf86ac4dabb" sha1="8a214d745ddc547b8824ec667729c5854c4091ce" date="1995-03-16 02:02:00"/>
-		<rom name="DGATE10.DAT" size="373820" crc="85b5920b" md5="19f47ae7534a8c345439bd05174a61af" sha1="7b49c03ec6c799bdf7c5963ca1fd66d4d371176b" date="1995-03-15 21:02:00"/>
-		<rom name="DGATE10.EXE" size="904465" crc="bb33a43f" md5="5fad58a7dd21c268172c68b4ed5f9ca2" sha1="183cd8b2031186d110ae7dc99dab2088ef4b89bd" date="1995-03-15 21:02:00"/>
 		<rom name="DGATE100.FNT" size="3050" crc="e86fb0e3" md5="fdbbf4d1ee759cc1f43759d1d0f8e53a" sha1="8c47c920944f868e1516fd07ed3e009e45f152f8" date="1995-03-16 02:02:00"/>
-		<rom name="DGATE100.Q" size="11729714" crc="1d46443b" md5="ffb1851eb434b71388bf0334dde58cd4" sha1="70e6ae0f0cb759a8841957eae9d3d8eec3ac5495" date="1995-03-15 21:02:00"/>
 		<rom name="DGATE101.FNT" size="5966" crc="f8fd50ed" md5="49f02e002579fcfbca5f561ff3d706cf" sha1="24fbaa092da34b8c3b601afb04dbafad7884f09d" date="1995-03-16 02:02:00"/>
-		<rom name="DGATE101.Q" size="524975" crc="cb265d96" md5="9e4d269ebfad39365710a9f0d0dc08d6" sha1="62329d77c50368e378e6560952d68a0092cb175a" date="1995-03-15 21:02:00"/>
-		<rom name="DGATE102.Q" size="7695400" crc="03d8d38f" md5="a086be4a9419fd8dfc7c9983f06e8bc5" sha1="8ca23797952d92db1385b3724e7502330fb49536" date="1995-03-15 21:02:00"/>
-		<rom name="DGATE103.Q" size="1056599" crc="5d643750" md5="405ef29ae0404bab2e3e71f13c04476f" sha1="cfddebc0692ed2ac54d6649183539813f80e4240" date="1995-03-15 21:02:00"/>
-		<rom name="DGATE104.Q" size="11881604" crc="8d80e1a3" md5="ea6aa6ee374d7f0c79e853013c7f7d3d" sha1="db894e9f985f516da44b24c1bfcf07856798da57" date="1995-03-15 21:02:00"/>
-		<rom name="DGATE105.Q" size="478477" crc="1be769ad" md5="62e0aa855754943cfb3d774663cc9e7c" sha1="44750b767b1dcffb1368c6b74992940467766f14" date="1995-03-15 21:02:00"/>
-		<rom name="DGATE106.Q" size="2120938" crc="dcedc14d" md5="79232529aaefcdd685be4ab1512617a3" sha1="bc78e3ac4bb2e0cc25f3ff6834ab95016583463e" date="1995-03-15 21:02:00"/>
-		<rom name="DGATE107.Q" size="2671558" crc="072a9baf" md5="48f1d8f9bee3134504ce1d563cdaef4e" sha1="6c5112d1d5afbc014f1576f8ff7362a9c7e5cd3d" date="1995-03-15 21:02:00"/>
-		<rom name="DGATE108.Q" size="221522" crc="8820189b" md5="26d2f49f8222650e4167529786ebb4f9" sha1="25eb8b4165395d3d19ec44819e311fffaae74859" date="1995-03-15 21:02:00"/>
-		<rom name="DGATE109.Q" size="2982138" crc="a416aefa" md5="89cbbd231e81e6497db81d7fc1fb6b0d" sha1="e2fbe3e9a99c3df5fd142764a3baa64a7ed513a6" date="1995-03-15 21:02:00"/>
-		<rom name="DGATE11.DAT" size="373820" crc="85b5920b" md5="19f47ae7534a8c345439bd05174a61af" sha1="7b49c03ec6c799bdf7c5963ca1fd66d4d371176b" date="1995-03-15 21:02:00"/>
-		<rom name="DGATE11.EXE" size="904465" crc="ad68006e" md5="b8a2b66283c9c2edf4a279313dde147b" sha1="c610da7df81f8c8c87d94f14017ded77011fa443" date="1995-03-15 21:02:00"/>
 		<rom name="DGATE110.FNT" size="3686" crc="682423da" md5="e06d4404201d7bc8f3427b871e95731b" sha1="774a5ee05081e33f1327286c19716acb6c91485d" date="1995-03-16 02:02:00"/>
-		<rom name="DGATE110.Q" size="2306589" crc="1f4431a4" md5="fadb8f0c5493660305a9d5cf18ae9dd1" sha1="3d275fe8eba268242e4b67b64a23b824fc9f7ae4" date="1995-03-15 21:02:00"/>
-		<rom name="DGATE111.Q" size="1995098" crc="6ccb48b4" md5="89b64e519ae05bba1ae962f3d4a1aa64" sha1="425b8c1216ffccaab60d2c1695e6ee2eedde448e" date="1995-03-15 21:02:00"/>
-		<rom name="DGATE112.Q" size="3760617" crc="e4b915f4" md5="11a2826be813b91e8050a1e0d4aaf8ed" sha1="0397c1279288ab712289c725cf509feb1054f64f" date="1995-03-15 21:02:00"/>
 		<rom name="DGATE113.FNT" size="3686" crc="682423da" md5="e06d4404201d7bc8f3427b871e95731b" sha1="774a5ee05081e33f1327286c19716acb6c91485d" date="1995-03-16 02:02:00"/>
-		<rom name="DGATE113.Q" size="281398" crc="fa6832cc" md5="2bb968e654aea936fc1fc2d250abbd6f" sha1="26fb36e3007240eabf72fb68a5e2fcc5d4d815ce" date="1995-03-15 21:02:00"/>
-		<rom name="DGATE200.Q" size="5936559" crc="3f836b64" md5="680c0dca5ee5a7f085683c1968537062" sha1="8b32bfa18fe4dc119169ee0ecbdd17e9a1128539" date="1995-03-15 21:02:00"/>
-		<rom name="DGATE202.Q" size="3915040" crc="40aadbf5" md5="fc5cb6a288dfc5983903b292e09d0beb" sha1="58e2004d9a69975967750b78f15bcf69333afaba" date="1995-03-15 21:02:00"/>
-		<rom name="DGATE204.Q" size="5967823" crc="6c12e3e1" md5="8fd44c9a4e3ea7fd3453632faa1662ec" sha1="2059ddb5409e22bf83914671d6c913d7916b88eb" date="1995-03-15 21:02:00"/>
-		<rom name="DGATE206.Q" size="1102284" crc="fca869ab" md5="df0c1afd56cf36767fd369d9f27b3cfc" sha1="c830a8fff3f0fca7cd45d895eb4d7b30f15f916b" date="1995-03-15 21:02:00"/>
 		<rom name="DGATESTR.DAT" size="373845" crc="114a1565" md5="697c012f64b652e633f825a40d275fdb" sha1="61baf1893deedbba0a7a0f2c1ccbfe67ca1a9662" date="1995-03-16 02:02:00"/>
-		<rom name="GLOWFIN.FLI" size="219403" crc="f9dd4cae" md5="6028f5fb6ab0df23962f79924ea11403" sha1="0737d10b5cd153be6b557ee5eed9c1af2cb867b9" date="1995-03-15 21:02:00"/>
 		<rom name="INSTALL.EXE" size="73098" crc="532625aa" md5="d6616f920d93cc231773611fb2366e35" sha1="df701fa2ea9d58cd9b5003cd13e11c151d6c995f" date="1995-03-16 02:02:00"/>
-		<rom name="INSTALL.TAG" size="144" crc="7ac53d6a" md5="d595c254cc16df18c3fa6251048ff0f8" sha1="fe84eb1b6486e5b0d7067e5438a3e8027cfe8e50" date="1995-03-15 21:02:00"/>
 		<rom name="JAMMER.DIG" size="3219" crc="230129e0" md5="4922c729c5e7b347089a2be44f296859" sha1="103e0bf92c6fd1c9fc925fd57bdc22e56170b395" date="1995-03-16 02:02:00"/>
-		<rom name="JOURNAL.FLI" size="2724750" crc="30caba39" md5="dd066c868e17c418ce4809d34ccb1e8e" sha1="61697d9039ef1ae564e7d048813ee87d47e4f7b1" date="1995-03-15 21:02:00"/>
-		<rom name="KICKSEY.FLI" size="2174983" crc="4c598c4f" md5="995e3f9161153bdb564d0b21b7bc9c90" sha1="89a8e2f6451d4338f12a826d4959f6fe89775900" date="1995-03-15 21:02:00"/>
-		<rom name="KL_SCPTR.FLI" size="46745" crc="33a69451" md5="cb95059a368708b3475d1740aed25c7b" sha1="d19f0d7e8ec750e2f8521acc0d5b67df1d9c509f" date="1995-03-15 21:02:00"/>
-		<rom name="KL_THRON.FLI" size="81782" crc="128ab5df" md5="f402217e2818c7722ed4158f7961a390" sha1="23975ed547f442bc64494a0d749c7e019438dfcf" date="1995-03-15 21:02:00"/>
-		<rom name="KLEI_FIN.FLI" size="5542859" crc="12b57e19" md5="024e3cc91799327ef66519c0c7f626f4" sha1="420830b502038d8f1034d5846916c0ddbbbcbadd" date="1995-03-15 21:02:00"/>
-		<rom name="KLEIDEAD.FLI" size="167534" crc="f5149221" md5="4b841a3114b35f4e06d6a3f7270c2700" sha1="a74e990c4101701d6e2fc2f07531d8848f7ce483" date="1995-03-15 21:02:00"/>
-		<rom name="LEGEND.INI" size="113" crc="90f57ca5" md5="204984ad4f3d2492a54e49571034db47" sha1="413ee979cd2ff5471ff8efd7e1ffe9ac4d6d437e"/>
-		<rom name="MIN.LST" size="847" crc="cb46e634" md5="79fa8f4bbf8c7b6d0f357c4a0e9d7fc9" sha1="3e64f31ba1346fd78e795faaf0e6c7420eacf427" date="1995-03-15 21:02:00"/>
+		<rom name="LEGEND.INI" size="131" crc="b720abaf" md5="cc9b369f208c76980e6fe9ae81744f19" sha1="b207599bb172c988e114d99c528dd8621ca3fcea"/>
 		<rom name="MPU401.MDI" size="1896" crc="d664eb39" md5="d7397b29490983cdecb0c54aff0ff605" sha1="bd85ca0990c60148d63594c0b4d30af511674f64" date="1995-03-16 02:02:00"/>
 		<rom name="MT32MPU.MDI" size="6980" crc="bdaf0222" md5="609666cbd6fe795d576a9b6aff5ac7d0" sha1="08a6bc68a710c57f48dc33cacaa83151767a0dec" date="1995-03-16 02:02:00"/>
-		<rom name="NECROMAC.FLI" size="2781682" crc="161f67cc" md5="a553be9ae5860d06a2561ea798961285" sha1="94ae260bf903946821d441258a0e546049c2f440" date="1995-03-15 21:02:00"/>
 		<rom name="NULL.MDI" size="1609" crc="93d88470" md5="8416b75a9db53a3a25f254ed45da4c57" sha1="be1424015a0c59de59dfc21226f3f2bfafbdb4ff" date="1995-03-16 02:02:00"/>
 		<rom name="OBJECT.DAT" size="4281" crc="46e786c9" md5="281a7b93bde90084be48c22bfc53f01a" sha1="8934f35ef38059fa569df0b53624c05cdb61db82" date="1995-03-16 02:02:00"/>
 		<rom name="OPL3.MDI" size="16387" crc="74aad2f1" md5="84ce740acea5af9ef8d118174bff88c8" sha1="310b8b21f088ec0180c02c9fbe1edd744d76c9b2" date="1995-03-16 02:02:00"/>
-		<rom name="OPT.LST" size="1701" crc="bb90c175" md5="82f18cc479191f2a7590490a762470e0" sha1="726dad924be3dce68340d6cdb4a464abeaf2870d" date="1995-03-15 21:02:00"/>
 		<rom name="PAS.MDI" size="15425" crc="01d01110" md5="bcc2a72a36663f40c019d0af2c95df13" sha1="a94fcb63700f1cbf46698d074526b5db48754b90" date="1995-03-16 02:02:00"/>
 		<rom name="PASPLUS.MDI" size="16458" crc="c5a2ded9" md5="f5515c19a269ca2b1af13e9b3e3c3d3a" sha1="a9c4967e8ca11c529a49d8a54f8730b223c0289f" date="1995-03-16 02:02:00"/>
-		<rom name="POETRY.FLI" size="2692094" crc="8b849d7e" md5="295caee0f57a6284352950fbb686d5df" sha1="8cbed05000906331955d6b5499f88e33d7ca635b" date="1995-03-15 21:02:00"/>
 		<rom name="PROAUDIO.DIG" size="2127" crc="4b071066" md5="a054071be574b2bcf47a0386f1a98ae6" sha1="8debfb262849ebce1da3d45387d1595712c2667b" date="1995-03-16 02:02:00"/>
-		<rom name="PRYAN.FLI" size="2551481" crc="4549c211" md5="9044834cbb53313133ba5ee6651040a3" sha1="b0f8e012cdcb666a5fe028371e39b1910b856649" date="1995-03-15 21:02:00"/>
-		<rom name="PRYANS.FLI" size="140263" crc="e59432b5" md5="75ba9656304e7c4f53f028f2581c14b6" sha1="cfcf064031bab4758a6d76d79ee52659841bf959" date="1995-03-15 21:02:00"/>
 		<rom name="QTEST.EXE" size="376288" crc="376b579f" md5="6ce07cdda26c6ebd1bd093e94f8c5a6b" sha1="abe139a0318a42c1682749a9c4adb255cf2be695" date="1995-03-16 02:02:00"/>
 		<rom name="RAP10.DIG" size="2849" crc="47373ef0" md5="bb846bb23ee9065a09373afdb73cf054" sha1="6081bc6e447afeaad48a8361c92e7ce280f6ea7e" date="1995-03-16 02:02:00"/>
 		<rom name="SAMPLE.AD" size="3702" crc="efb5948c" md5="b80579effa279544593b0a255e1f2af4" sha1="d738ecc8ba52b240d8eb1d2aa15c148dff237d2d" date="1995-03-16 02:02:00"/>
@@ -1867,14 +1885,9 @@
 		<rom name="SBPRO2.MDI" size="16541" crc="0ab0493a" md5="8879265bf3b414346f66c326389e32ae" sha1="4a9d598979e14f4f8c0e76fe0246b305fb848955" date="1995-03-16 02:02:00"/>
 		<rom name="SNDSCAPE.DIG" size="4171" crc="708a96a2" md5="9d7a052a680f45d244e0ee4735b7b55f" sha1="f9902b74d545813315194f5a1791c4ea0a9a1e0d" date="1995-03-16 02:02:00"/>
 		<rom name="SNDSCAPE.MDI" size="2971" crc="ad1df3c2" md5="31ec7e6e06a3eb9e0bebff3e52ef1b0f" sha1="01e3ffef3aa6e9d312f190a9403ff8d167743aed" date="1995-03-16 02:02:00"/>
-		<rom name="SUNDER.FLI" size="2488558" crc="f32c1400" md5="e12b76aa785e7ecf9cf101c77b8ce0fb" sha1="cca1629bc531bc486d23938e15462b00df1d42d4" date="1995-03-15 21:02:00"/>
 		<rom name="TANDY.MDI" size="5010" crc="8abb61f4" md5="59153a3c31e3e62b403cac8c11a5e848" sha1="6fe77cabd4b9b621568c38f6feaa36696b8aa56b" date="1995-03-16 02:02:00"/>
-		<rom name="TEST.Q" size="481306" crc="eb2ddf06" md5="65b9912979c76102434931e6d3c741e7" sha1="8310ef2b90fb40269300e925e5c4ff81a9fe0ba6" date="1995-03-15 21:02:00"/>
-		<rom name="TRIAN.FLI" size="259476" crc="3cbfe6c5" md5="2ba9f39d28051cfca8139d47709281c3" sha1="d544107dee939c797e4ea77dfeff77a23978168f" date="1995-03-15 21:02:00"/>
 		<rom name="ULTRA.DIG" size="9478" crc="430d67f5" md5="000e584a06712d2f2b58eb2e17b65248" sha1="4327d6bb924b4e40fa7ff035bdfb73a879c31836" date="1995-03-16 02:02:00"/>
 		<rom name="ULTRA.MDI" size="49672" crc="04849dc3" md5="9a1b881ab9e8f6d827f6c27c5df40d85" sha1="8337ada0962de33ee3eb8ebbf9d5d0c898f41fd2" date="1995-03-16 02:02:00"/>
-		<rom name="ZIFNAB.FLI" size="3685279" crc="1886b68d" md5="fc4a48c6106caf555c7a467c7cc3fba3" sha1="aadb410c1511ff7253a97936794ee32173a6b475" date="1995-03-15 21:02:00"/>
-		<rom name="ZINGER.FLI" size="1481422" crc="06e32ba9" md5="ad71f40ad4faa95f3d898c7aeac79b0e" sha1="72a736f88fac339242dd44e45d4171b1389c9c02" date="1995-03-15 21:02:00"/>
 	</game>
 	<game name="Descent - Anniversary Edition Levels (1996) (Parallax Software).dosz">
 		<description>Descent - Anniversary Edition Levels</description>
