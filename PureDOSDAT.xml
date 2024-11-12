@@ -6160,25 +6160,25 @@
 	</game>
 	<game name="Silverload (1995) (Nova Spring).dosz">
 		<description>Silverload</description>
-		<comment>Installed from Redump-verified CD-ROM: Silverload (USA)</comment>
-		<comment_dosc>Auto-starts, which requires skipping a black screen with (ESC) and (ENTER) + config</comment_dosc>
+		<comment>Installed from CD-ROM</comment>
+		<comment_dosc>Sound config and auto run</comment_dosc>
 		<year>1995</year>
 		<developer>Nova Spring</developer>
-		<link type="media">Silverload (USA)	http://redump.org/disc/107551/</link>
-		<rom name="CD/Silverload (USA).chd" size="417785472" crc="20472a8d" md5="6c07c2fdbbdfe111ccee0220aa6f5544" sha1="51cde0baf49803fc614afe7b8612c05aa8248779">
+		<link type="media">http://redump.org/disc/107551/</link>
+		<rom name="Silverload (USA).chd" size="417785472" crc="20472a8d" md5="6c07c2fdbbdfe111ccee0220aa6f5544" sha1="51cde0baf49803fc614afe7b8612c05aa8248779">
 			<track number="1" type="MODE1_RAW" frames="146733" pregap="0" duration="32:36:33" size="345116016" crc="bfc7db84" md5="f439566e3bde50164f188099013aff09" sha1="6a0e21755c1462ef22670963ca2a6052b9c96e95" in_zeros="1" out_zeros="0"/>
 			<track number="2" type="AUDIO" frames="24175" pregap="225" duration="05:22:25" size="56859600" crc="547847ba" md5="8bdc2c78965f382b266c3a2435253903" sha1="8af7981cc83fbadc2218b0768186ab4f86cbb8c5" in_zeros="1" out_zeros="354725"/>
 		</rom>
-		<rom name="GRAPHICS/3.KHF" size="5218158" crc="58e2cb25" md5="229a5b00ba4d06ddfee5e4dbd8d20891" sha1="68bf24a24194703be67a1edb8905d74f1f3407e9"/>
-		<rom name="GRAPHICS/GLOBALS.DTA" size="3951" crc="d3056799" md5="7d28e82401d839c02e03d3307dd74b25" sha1="14e07980fdcf1aae75bdc2b02a010170fcf5a402"/>
-		<rom name="GRAPHICS/PLOT1.DTA" size="40123" crc="3c5059e5" md5="2f5d13ae01f5af5d2aa40e724fb8052d" sha1="b2ba60b761ccd01cc6026f7aae3598912c8d05b8"/>
-		<rom name="SIGDRUM.BNK" size="5405" crc="ca6b8c0e" md5="ef56065ba23a6b91f4bd437d52784ec1" sha1="485e977da4569a7b8a91fbd811938ccb45372d1f"/>
-		<rom name="SIGMELOD.BNK" size="5405" crc="e8a39d4c" md5="6a3d50366636b3fdd389b4735eeaaf23" sha1="4658a3149da172d1f12ab8be90b5b62753ee49b9"/>
-		<rom name="SIGNOS.CFG" size="2" crc="eb3c8bb0" md5="4170acd6af571e8d0d59fdad999cc605" sha1="07306c8e3c85378f3f7ab169c6863cdf220910c0"/>
-		<rom name="SILVERLD.EXE" size="450945" crc="27aa55ab" md5="11e5fdc50f10814821e70f2986a9436b" sha1="475f7afbd597fbcafa82aef6da9b8f370fcc831c"/>
-		<rom name="SNDDET.DRV" size="52857" crc="33f7fc42" md5="5bd02fd154ca5f93d793d22a68de636f" sha1="dba2c36c2fe4cefbe4e53aa99351deccb43424b0"/>
-		<rom name="SNDDIGI.DRV" size="188712" crc="d98731dc" md5="0dd448d24e12b9e5eb0e20458a5e309b" sha1="e7bee43df11f6216ce9e2caf0ce2debd1754fce6"/>
-		<rom name="SNDMIDI.DRV" size="100648" crc="87914958" md5="98351a54456bf768cf999802a0bbbc79" sha1="9d1edc1d2bc3d5e37ba918497f67ae78bbcd2f7e"/>
+		<rom name="SILVERLD/GRAPHICS/3.KHF" size="5218158" crc="58e2cb25" md5="229a5b00ba4d06ddfee5e4dbd8d20891" sha1="68bf24a24194703be67a1edb8905d74f1f3407e9"/>
+		<rom name="SILVERLD/GRAPHICS/GLOBALS.DTA" size="3951" crc="d3056799" md5="7d28e82401d839c02e03d3307dd74b25" sha1="14e07980fdcf1aae75bdc2b02a010170fcf5a402"/>
+		<rom name="SILVERLD/GRAPHICS/PLOT1.DTA" size="40123" crc="3c5059e5" md5="2f5d13ae01f5af5d2aa40e724fb8052d" sha1="b2ba60b761ccd01cc6026f7aae3598912c8d05b8"/>
+		<rom name="SILVERLD/SIGDRUM.BNK" size="5405" crc="ca6b8c0e" md5="ef56065ba23a6b91f4bd437d52784ec1" sha1="485e977da4569a7b8a91fbd811938ccb45372d1f"/>
+		<rom name="SILVERLD/SIGMELOD.BNK" size="5405" crc="e8a39d4c" md5="6a3d50366636b3fdd389b4735eeaaf23" sha1="4658a3149da172d1f12ab8be90b5b62753ee49b9"/>
+		<rom name="SILVERLD/SIGNOS.CFG" size="2" crc="eb3c8bb0" md5="4170acd6af571e8d0d59fdad999cc605" sha1="07306c8e3c85378f3f7ab169c6863cdf220910c0"/>
+		<rom name="SILVERLD/SILVERLD.EXE" size="450945" crc="27aa55ab" md5="11e5fdc50f10814821e70f2986a9436b" sha1="475f7afbd597fbcafa82aef6da9b8f370fcc831c"/>
+		<rom name="SILVERLD/SNDDET.DRV" size="52857" crc="33f7fc42" md5="5bd02fd154ca5f93d793d22a68de636f" sha1="dba2c36c2fe4cefbe4e53aa99351deccb43424b0"/>
+		<rom name="SILVERLD/SNDDIGI.DRV" size="188712" crc="d98731dc" md5="0dd448d24e12b9e5eb0e20458a5e309b" sha1="e7bee43df11f6216ce9e2caf0ce2debd1754fce6"/>
+		<rom name="SILVERLD/SNDMIDI.DRV" size="100648" crc="87914958" md5="98351a54456bf768cf999802a0bbbc79" sha1="9d1edc1d2bc3d5e37ba918497f67ae78bbcd2f7e"/>
 	</game>
 	<game name="SimAnt (1991) (Maxis).dosz">
 		<description>SimAnt</description>
