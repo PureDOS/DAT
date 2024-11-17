@@ -7972,6 +7972,35 @@
 		<rom name="SONG8.PSM" size="48923" crc="f8ef93f4" md5="3f95988349a0745bd16e62022d26f357" sha1="c38baef41942a96182a78d05ee111f0b4aaebe61" date="1994-05-16 11:33:48"/>
 		<rom name="SONG9.PSM" size="86068" crc="f5665edc" md5="b1364fa6c2b92815acb561033f8d6685" sha1="b1056cb2d79c0bb92663d1a1fadd708a4b9eccdf" date="1994-05-06 07:44:24"/>
 	</game>
+	<game name="Fable (1996) (Sir-tech Software).dosz">
+		<description>Fable</description>
+		<year>1996</year>
+		<developer>Sir-tech Software</developer>
+		<comment>
+			Installed from Redump-verified CD-ROM: Fable (USA) (Simbiosis Interactive)
+			Installation Options:
+				Installation Type: Minimum installation
+				Card: Soundblaster Pro
+				DMA: 1
+				IRQ: 7
+		</comment>
+		<comment_dosc>
+			CPU max year set to 1996
+			Auto start
+			Configuration file
+		</comment_dosc>
+		<link type="media">http://redump.org/disc/97188/</link>
+		<rom name="DOS4GW.EXE" size="265396" crc="5cc34b0f" md5="006211ca60fa3d4b38a9a8da2ade1056" sha1="c489f83dc15a9ffc3c502707da40e581ec79bfe6" date="1997-02-11 10:00:00"/>
+		<rom name="Fable (USA) (Simbiosis Interactive).chd" size="451372032" crc="8984d4ae" md5="44a3c1da94ce0ad0c04fd24731f5e6dd" sha1="8f50edbf6f8b0b90813c1fb63fe6c2bb6d23fcd0">
+			<track number="1" type="MODE1_RAW" frames="184337" pregap="0" duration="40:57:62" size="433560624" crc="7cf7e0b1" md5="32cee693111311609912b75d824a19a1" sha1="4ee2234921c3aa44749e4e1ac5b67272c96c8712"/>
+		</rom>
+		<rom name="FABLE.CFG" size="179" crc="0f3a4536" md5="c4dc4a94784aca296021889eae670d56" sha1="ae7bafda42236746d8246be77a248e6654c9615d"/>
+		<rom name="FABLE.EXE" size="498939" crc="cca1af5f" md5="e8044e9b2e79681ebe9eec7590dcd183" sha1="f3e8a500e0f3dbe4baec3ac2e82f309a5df676c0" date="1997-02-11 10:00:00"/>
+		<rom name="HMIDET.386" size="83774" crc="ae8d1a06" md5="b6656f8af855be3184d2b9f10de91ef5" sha1="c3b75ab63273edfed1bb15acf59b321102781a96" date="1997-02-11 10:00:00"/>
+		<rom name="HMIDRV.386" size="317317" crc="21c398b8" md5="2de5f490362469628841199644a38e02" sha1="32c89e02cae4c33d1c0b93562f4ca0fe86c4a199" date="1997-02-11 10:00:00"/>
+		<rom name="SAVEGAME/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-12-31 00:00:00"/>
+		<rom name="SETUP.EXE" size="159069" crc="79c204c8" md5="1f06c32d42eb65f461fb3b4885ee1502" sha1="c0ea654d8bb32e77cdcbcd5d1699b58aef33e8a6" date="1997-02-11 10:00:00"/>
+	</game>
 	<game name="Final Doom - The Plutonia Experiment (1996) (id Software).dosz">
 		<description>Final Doom - The Plutonia Experiment</description>
 		<comment>id Anthology version with bug fixes, also matches GOG</comment>
