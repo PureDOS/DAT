@@ -7813,10 +7813,11 @@
 	</game>
 	<game name="Super C (1990) (Konami).dosz">
 		<description>Super C</description>
-		<comment>Matches with TDC</comment>
-		<comment_dosc>EGA video, AdLib sound, and auto start</comment_dosc>
 		<year>1990</year>
 		<developer>Konami</developer>
+		<comment>Installed from 5.25" floppy disks matching with TGOD ID: 2362. Also matches with TDC entry: Super C (1990)(Konami, Inc.) [Action]</comment>
+		<comment_dosc>Copy protection removal, EGA video, AdLib sound, and auto start</comment_dosc>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=2362</link>
 		<rom name="1.PAT" size="749" crc="7c6f27c4" md5="f909116494750dead3d8f6374378ef04" sha1="16a9597326b4b6a3520ffa713d8538d4e92a00cb" date="1990-06-12 11:40:52"/>
 		<rom name="1.PEC" size="6739" crc="d516b115" md5="2ff28124948c530e3520b7e8311f7f08" sha1="1bbed677f5ee6f2954a41b764ace4c2e47332db3" date="1990-03-21 03:32:36"/>
 		<rom name="1.PMP" size="13445" crc="058ea861" md5="17311a1affa7ed2d28429c1610d80b44" sha1="85e99c948ae9a5632dea41b9ba75dd0fd9bbd3a1" date="1990-06-12 11:39:24"/>
@@ -7854,7 +7855,6 @@
 		<rom name="EGA.HDR" size="5253" crc="ba819a89" md5="854a03ff5b91684f4c31e9ad73c401e7" sha1="62bd7f2ebd5603a91dd0b3d14f380d67c04b8282" date="1990-08-29 16:52:40"/>
 		<rom name="EXMASKS.PES" size="3072" crc="94dfa86a" md5="3f3c8fc80ee0c284c68031f6dd27c00f" sha1="5ffdabe4d01dc50acc679374157f411618f9cc62" date="1990-06-26 17:51:02"/>
 		<rom name="EXPLOS.PES" size="11264" crc="b0965d8f" md5="1cbe97a1cbce5704c2bbd6de64e7ca9c" sha1="f08d1d4a283bf9752fc125d3dc9c59ce5bb3d56b" date="1990-06-26 17:50:48"/>
-		<rom name="GO.BAT" size="31" crc="e9dc5537" md5="2488ef45b6b6cc091c9977e511fa5e60" sha1="c1193a9e28829d9237076296755a95e80cd41df7" date="1990-09-05 11:00:34"/>
 		<rom name="H1MASKS.PES" size="2620" crc="2bef063b" md5="5d55a767527c57ce85ff8899a124f528" sha1="fe111b6d5fac7f2963c62f50f0bc1a14cd5f031d" date="1990-06-26 18:00:20"/>
 		<rom name="H1SHAPES.PES" size="9866" crc="52b5baed" md5="fd5d15336f4c7181343b7b63e06a44be" sha1="14ad95eda683324fb7fa56de93699f083db9191a" date="1990-06-26 18:00:06"/>
 		<rom name="H2MASKS.PES" size="1894" crc="fde53511" md5="c42973a3a5f4bb682d6edf94bca01c43" sha1="1e04ccd63024537a00a04e5f660afc2f6dbded5e" date="1990-05-29 15:37:52"/>
@@ -7866,7 +7866,6 @@
 		<rom name="INSTALL.BAT" size="839" crc="297c9de4" md5="a3e9d0e15654a91a928200d7d66f0703" sha1="92823765cc536c04223b3a7877e48cc9f58107ee" date="1990-06-18 10:36:56"/>
 		<rom name="ISHAPES1.PES" size="11043" crc="cef3917d" md5="7402c92aaf0abf955111b1b0dcdf0804" sha1="d1dcac32272f788e4486e69e1fb03d4037f25f15" date="1990-06-04 15:02:34"/>
 		<rom name="ISHAPES2.PES" size="5238" crc="b8cf3e4d" md5="237376473d028013c64b03bb2b323276" sha1="6a084f0340568641433e309731402fd410c6dd46" date="1990-05-30 09:25:36"/>
-		<rom name="LOAD.COM" size="256" crc="d1f2931b" md5="65ee2115786fdf710fb0389fd9f46ef3" sha1="12a538a74be0bad6f5d8ca7962824a624de112ce" date="1980-01-01 13:00:00"/>
 		<rom name="LOAD.EXE" size="17085" crc="21cffe15" md5="96d6686127cf71e5c20786ad6f5cba4e" sha1="249c9220147bbab1ce9f03c2ed144ccff1696a75" date="1990-05-27 16:43:02"/>
 		<rom name="MNU.EXE" size="4213" crc="80459a80" md5="db6fbf63da7e7aaa5db5595bab61af02" sha1="2ef22d84b2c3f89505b68a9370ca0ebfd89e4c95" date="1990-05-30 12:03:32"/>
 		<rom name="OMASKS.PES" size="981" crc="1a008f4d" md5="e4ebcc674baba19a8a1a38789c876996" sha1="71aada009f141becb1318144c4703df593abd1b7" date="1990-05-29 15:55:30"/>
