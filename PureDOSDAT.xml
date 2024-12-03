@@ -4398,12 +4398,24 @@
 		<rom name="XMAS2.PSM" size="136849" crc="4bf10799" md5="2cff502e4831a658b1c63257838a3ebf" sha1="cb1483acc93019333d5923abead301e10b565afb" date="1995-09-27 03:01:40"/>
 		<rom name="XMAS3.PSM" size="181650" crc="fe0ed271" md5="f1f1b66abb6fa42dcb0221fb21c97319" sha1="d08254373447fc0e68b5f280f6367030dd27b2a7" date="1995-09-27 03:03:42"/>
 	</game>
-	<game name="Lode Runner - The Legend Returns (1994) (Presage).dosz">
+	<game name="Lode Runner - The Legend Returns (1994) (Presage Software).dosz">
 		<description>Lode Runner - The Legend Returns</description>
-		<comment>Installed v1.0 from 3.5" floppy disks. FM MIDI chosen during installation</comment>
-		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
 		<year>1994</year>
-		<developer>Presage</developer>
+		<developer>Presage Software</developer>
+		<comment>
+			Installed v1.0 from 3.5" floppy disks matching with TGOD ID: 2589, and also with TDC entry: Lode Runner- The Legend Returns v1.0 (1994)(Sierra On-Line, Inc.) [IMA][1440k]
+			Installation options:
+				Directory: C:\SIERRA\LODERUNN (default)
+				Sound: Sound Blaster 16, Port 220
+				MIDI: Sound Blaster Pro - OPL3
+				Device: FM MIDI device
+			Then make a separate install and choose:
+				MIDI: Roland Sound Canvas
+				Device: General MIDI device
+			This will give the LR16.PRS and LR256.PRS files found in the GM folder
+		</comment>
+		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C2589/</link>
 		<rom name="AUDIO/ADLIB.ADD" size="36" crc="014b761d" md5="c07465d6b29d922316efa30c323c189d" sha1="cd98f06842c8a2e59f13874abc1f974f2632c100"/>
 		<rom name="AUDIO/ADLIB.ADV" size="14693" crc="93779685" md5="d649a80db341ebf961f751f8f6d90e5c" sha1="9ccf42334c0eccc63f0365c74be7a53ce53e08e5"/>
 		<rom name="AUDIO/ADLIB.COM" size="3168" crc="c7707a40" md5="7ddc521fc713dddb6ac0ec16520e85e2" sha1="6a8dda7c1ae564ffb719d79f7f0db08b4a8dff0b"/>
@@ -4487,6 +4499,8 @@
 		<rom name="AUDIO/VMSND.COM" size="3104" crc="516cca33" md5="2fb5ff064fdea8da7100282521a95bb1" sha1="31980b54bacb613f84e09648a29cd22cff63d774"/>
 		<rom name="AUDIO/WSS.ADD" size="48" crc="d625f396" md5="0879106beb6bd78253fe90bfb8c8e61f" sha1="eda3abb190a8ca2f3104c2ed8ec8c06ff1ae20b0"/>
 		<rom name="AUDIO/WSS.ADV" size="15991" crc="1c3f3b50" md5="0f2a8f3531219d33d094e92b00d41a0e" sha1="4d360564b8d05866165e4dc03257c7f372a1347c"/>
+		<rom name="GM/LR16.PRS" size="2150876" crc="4475d6bc" md5="598a45d53b4712ec58cf6c3217f02a64" sha1="16399dcb374e3149f3daf75243a70cf740d3db87"/>
+		<rom name="GM/LR256.PRS" size="8054658" crc="80d1a08e" md5="81edab96a654aa5b34a46a80e094f2e0" sha1="038bec1978568b3c167d7e05bbfcb73a367b138e"/>
 		<rom name="INSTALL.EXE" size="77191" crc="fd841739" md5="01c9f9009d839e3b7e1caf1cfcde9305" sha1="45d5d12bbd2c32464811692915f528ec2d9b7caf" date="1994-09-23 01:00:00"/>
 		<rom name="INSTALL.HLP" size="20894" crc="529f6fee" md5="a6636010a5ee0abb053464dab88bde48" sha1="4cad7fe245343c27c0e53686845e5cf3c6374bde" date="1994-09-23 01:00:00"/>
 		<rom name="INSTALL.SCR" size="5195" crc="9dda06c6" md5="a44c1f0d7298dfe4c499a39f38bdbd72" sha1="33193e0ff5c54ef52971b3bef73d9d7e45570fee" date="1994-09-23 01:00:00"/>
