@@ -3798,11 +3798,14 @@
 	</game>
 	<game name="Circuit's Edge (1990) (Infocom).dosz">
 		<description>Circuit's Edge</description>
-		<comment>Installed from 3 5.25" floppy disks matching The Good Old Days ID: 2685</comment>
-		<comment_dosc>Auto start and sound configuration</comment_dosc>
-		<link type="media">https://www.goodolddays.net/diskimages/id%2C2685/</link>
 		<year>1990</year>
 		<developer>Infocom</developer>
+		<comment>Installed from 3 5.25" floppy disks matching The Good Old Days ID: 2685</comment>
+		<comment_dosc>
+			Auto start
+			MT-32 sound option
+		</comment_dosc>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=2685</link>
 		<rom name="ACTIONS.DAT" size="1693" crc="a87a88ef" md5="dfdf3280c28420ce63bfc869bb5f096c" sha1="40e1bdc333f78876f5740bf4158d18d70f59c331" date="1990-03-23 11:44:38"/>
 		<rom name="ALLANM.ANM" size="186456" crc="f4a8c804" md5="de06c4a41feae894573745dbdc92701e" sha1="fcd38f9f46a0a7c6e8c4f8677bf93baefdf02378" date="1990-02-08 05:59:20"/>
 		<rom name="ALLMAPS.MAP" size="3312" crc="7c59a940" md5="a79e50b8bdf2a6b4b7d5f957a3dbcb48" sha1="21a2f6e6e9f23af590944a64eed1a3c7d71f34f2" date="1989-10-17 22:37:26"/>
