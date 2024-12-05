@@ -1284,11 +1284,21 @@
 	</game>
 	<game name="Anvil of Dawn (1995) (New World Computing).dosz">
 		<description>Anvil of Dawn</description>
-		<comment>Installed using Redump-verified CD-ROM: Anvil of Dawn (USA)</comment>
-		<comment_dosc>Auto start and config file</comment_dosc>
-		<link type="media">http://redump.org/disc/105138/</link>
 		<year>1995</year>
 		<developer>New World Computing</developer>
+		<comment>
+			Installed from Redump-verified CD-ROM: Anvil of Dawn (USA)
+			Installation options:
+				Maximum Installation
+			After install, apply the official v1.1b95 patch
+		</comment>
+		<comment_dosc>
+			CPU max year set to 1996
+			Auto start
+			Configuration file
+		</comment_dosc>
+		<link type="media">http://redump.org/disc/105138/</link>
+		<link type="patch">https://community.pcgamingwiki.com/files/file/182-anvil-of-dawn-patch/</link>
 		<rom name="ANVIL.EXE" size="609117" crc="330147dd" md5="1636c2e26c9241bf57b607f83c1ca7c6" sha1="1c32610568ac3b1214769d018ed2ceda5ace9e83" date="1996-02-16 16:34:54"/>
 		<rom name="DATA/01402.DFA" size="605190" crc="31298c0f" md5="d32573c82136601b83b3ce20cb9bb169" sha1="748dbc312f7a50d4768f28e80487efd14035f446" date="1995-08-26 07:54:50"/>
 		<rom name="DATA/01CZZ.ACT" size="60" crc="9ba5fd81" md5="0bc1f0d1ef28bb0ad7270bf52392a336" sha1="dd51120189e102af1c31a4e21ef9b7074ae9dfdb" date="1995-10-23 08:53:10"/>
