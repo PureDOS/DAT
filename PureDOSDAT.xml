@@ -12,10 +12,11 @@
 	</header>
 	<game name="2400 A.D. (1988) (Origin Systems).dosz">
 		<description>2400 A.D.</description>
-		<comment>Extracted from 5.25" floppy disk image that matches ID: 756 from The Good Old Days</comment>
-		<comment_dosc>Auto-start and contains IPS patch for executable, which adds eXoDOS' changes</comment_dosc>
+		<comment>Extracted from 5.25" floppy disk image</comment>
+		<comment_dosc>Patch to enable running from C: drive, add hint to use C: as player drive, auto start</comment_dosc>
 		<year>1988</year>
 		<developer>Origin Systems</developer>
+		<link type="media">https://www.goodolddays.net/diskimages/?id=756</link>
 		<rom name="2400.CH" size="1024" crc="dabb8ee6" md5="6c7d72652db39a28929204ebd0cb376d" sha1="36602c088ba92e7a81d86515938cd722d4f295f4" date="1988-03-28 12:47:54"/>
 		<rom name="2400.HCS" size="3072" crc="64c3a9d5" md5="075603097ff662f7b2bc42f5a85218d5" sha1="81f3c40ea277bd251a068d44a572b10db7f12e58" date="1988-06-02 13:38:30"/>
 		<rom name="2400AD.EXE" size="26496" crc="5a7eee96" md5="156717c66a9ed8d165df46377661a8d4" sha1="6990f78dd210128ccbca47f9cee928cbd947bb5d" date="1988-08-02 08:41:22"/>
