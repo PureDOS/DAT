@@ -10,6 +10,46 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
 	</header>
+	<game name="2400 A.D. (1988) (Origin Systems).dosz">
+		<description>2400 A.D.</description>
+		<comment>Extracted from 5.25" floppy disk image</comment>
+		<comment_dosc>Patch to enable running from C: drive, add hint to use C: as player drive, auto start</comment_dosc>
+		<year>1988</year>
+		<developer>Origin Systems</developer>
+		<link type="media">https://www.goodolddays.net/diskimages/?id=756</link>
+		<rom name="2400.CH" size="1024" crc="dabb8ee6" md5="6c7d72652db39a28929204ebd0cb376d" sha1="36602c088ba92e7a81d86515938cd722d4f295f4" date="1988-03-28 12:47:54"/>
+		<rom name="2400.HCS" size="3072" crc="64c3a9d5" md5="075603097ff662f7b2bc42f5a85218d5" sha1="81f3c40ea277bd251a068d44a572b10db7f12e58" date="1988-06-02 13:38:30"/>
+		<rom name="2400AD.EXE" size="26496" crc="5a7eee96" md5="156717c66a9ed8d165df46377661a8d4" sha1="6990f78dd210128ccbca47f9cee928cbd947bb5d" date="1988-08-02 08:41:22"/>
+		<rom name="AD.16" size="4134" crc="afc18c05" md5="8e925afbde48351dfd80bcb2f1b2e97c" sha1="725ee53fcaed71f496fe011bde0065bbc33fc8d6" date="1988-06-08 15:18:54"/>
+		<rom name="AD.4" size="3606" crc="235dc2e2" md5="72a4aa7cfaa646b5d093284d9e72dbc5" sha1="3460cbda9eec05adb995dc3f8c5f32becff24d17" date="1988-06-08 15:18:46"/>
+		<rom name="BLST.A" size="512" crc="d08fcec5" md5="35ecafaf6b875fd60f94cc6e84681ee0" sha1="1a47c30a4c8ae8167bfdc4a83194626b85d7296b" date="1988-01-13 07:34:38"/>
+		<rom name="BLST.B" size="512" crc="3b624d53" md5="4634cc1b2642473c4441ee142a1aa97a" sha1="e3fbd1441b2feb694b9c77dbea4c173889d162d0" date="1988-01-13 07:35:08"/>
+		<rom name="CGA.DRV" size="5751" crc="67e53aba" md5="1025ff32ccffff269c5ee0acb6dab0af" sha1="6baf7036154b9abcb600912184d011ff70eefaab" date="1988-07-26 10:48:20"/>
+		<rom name="DATA.OVL" size="50368" crc="194ed7d4" md5="e3dd3c60cc01962c696a95e9853bfc4a" sha1="5f72739e4caaea0aa8c4a13e671aeba70e6b6197" date="1988-08-02 08:41:22"/>
+		<rom name="EGA.DRV" size="8441" crc="47f63958" md5="a41e32776dc9a32db4f06f8be649e363" sha1="dfcd3280d85c9262d014c7eb0c4e52c457c748c2" date="1988-06-13 08:43:32"/>
+		<rom name="GAME.OVL" size="35728" crc="6320c78f" md5="bea141114828b22e5661c3637d173977" sha1="befe080231cf603ff5528e00d9a99201d37318dc" date="1988-08-02 08:41:02"/>
+		<rom name="GENISIS.OVL" size="2272" crc="d8b8c460" md5="23ce541c8cbc2d5aafb06157a9d36170" sha1="7f8dd55c2768d86b1f718fbce0d8b29584ac54ea" date="1988-08-02 08:41:04"/>
+		<rom name="GUPPY1.OVL" size="2864" crc="a64961f1" md5="3dbddb0ba368df2af08f7c2892eb4382" sha1="5ad928ee50ccb524530a3da1ddc1470a39bb6e9e" date="1988-08-01 15:19:02"/>
+		<rom name="GUPPY2.OVL" size="1536" crc="df616a2f" md5="5005fbc1df8920ef72f99ebacb3469be" sha1="7c461fbfe3707351251d00138902b3bf8d457812" date="1988-08-01 15:19:04"/>
+		<rom name="GUPPY3.OVL" size="624" crc="852e5b4d" md5="22a474ee9160993e34232e370d118667" sha1="51a3120955f47aac22ebbd785e3cba79a48a06f6" date="1988-08-01 15:19:04"/>
+		<rom name="HER.DRV" size="6631" crc="b388df6f" md5="84d91316e8520663cb4ea392277d0e97" sha1="6fc3f48720aed1209f9b0587a96e8402fc56c7de" date="1988-06-08 18:02:30"/>
+		<rom name="MAP.A" size="28160" crc="e55a75af" md5="28b852aaa0dda616f612901ec91827bb" sha1="2f38f4c0e718dd69e401252f4f146cffe3008137" date="1988-01-11 16:20:08"/>
+		<rom name="MAP.B" size="37376" crc="1244ff8b" md5="ad5aab1120d808f3308cda95aa132f5a" sha1="6741a72173911b7bc302302ed69c753977edc835" date="1988-01-11 16:20:14"/>
+		<rom name="MERCH.OVL" size="2960" crc="12c6f506" md5="46427f3979d2603cd46612e5a26348f3" sha1="470ffeb0489d1132ca4ae868812752dadf0cbf19" date="1988-08-02 08:41:06"/>
+		<rom name="MERCH2.OVL" size="2048" crc="18058631" md5="a34c60878959379d29a96794d6157b88" sha1="29253352195bbcfae1492a1f683ce4f486d4cb01" date="1988-08-02 08:41:06"/>
+		<rom name="MERCH3.OVL" size="2048" crc="84cff57e" md5="9e3d48e8e3a0ba0018984e346893eb66" sha1="38ea29476c5e7549f3d86ebe8285c5d08aca25b9" date="1988-08-02 08:41:08"/>
+		<rom name="MTALK.DAT" size="4791" crc="bd81e58a" md5="68864f0b751ecbbdfa32a19132020833" sha1="22a9717be7c6094b194f0918033c3a2ff44718d2" date="1988-07-10 15:56:34"/>
+		<rom name="STUFF.OVL" size="2960" crc="5601ac4c" md5="bf0edb071ac681fbc28f57ddd3b604cd" sha1="d26ff817fb73e2a92f2561984b2337ac6d23bf83" date="1988-08-02 08:41:10"/>
+		<rom name="STUFF2.OVL" size="2352" crc="91f939bc" md5="819cf9841798be2c9da6c7ecc856ef6d" sha1="c5cc447880e99716c0d050b6d583fdb8ea2aad80" date="1988-08-02 08:41:12"/>
+		<rom name="T1K.DRV" size="4271" crc="f90df6c7" md5="00ddb88d633f25e8ad4f77f0152a4ee5" sha1="0cfb5bf011acc9b0b537157f6f93476ac0e60739" date="1988-08-08 14:25:46"/>
+		<rom name="TABLES" size="4256" crc="99ed046f" md5="095ff5d2f41a9e27efcb2ff15b3792f1" sha1="892d4c8f454b185ce47912422f87aec9e2bb6f48" date="1988-07-17 13:14:56"/>
+		<rom name="TALK4.DAT" size="20864" crc="64906134" md5="1e060e1699229bdfcab637f6a22c4865" sha1="88a9c3e014c73eb0979f8955b3c7e5135ecc40b7" date="1988-03-23 10:35:04"/>
+		<rom name="TALKNEW.DAT" size="2316" crc="fe1a0c78" md5="1f1e1d55d4ce0e9503a45b7961b17b85" sha1="e64f71a1b2d2b86009ae336d0eff5bb1e002dcb3" date="1988-05-20 21:14:44"/>
+		<rom name="TILES.16" size="32768" crc="24a50509" md5="54e378e3833a8141c5b7d9d9418f4623" sha1="ce8e530ec57116666fed621ac1430f100644c9d0" date="1988-07-20 14:10:20"/>
+		<rom name="TILES.4" size="16384" crc="e0535bb3" md5="2ca135185e189ed846fbd4e00819a22f" sha1="1ce9345acd9d4df5e9bd6861aa0f4301d6615772" date="1988-07-18 08:24:20"/>
+		<rom name="TITLE.DAT" size="18000" crc="9fdb6ef3" md5="8447d11d85956ef3652ddf0a13deb4cd" sha1="c7fefae38ee8c4fbf49249fd4a684019a034f23a" date="1988-04-15 09:53:50"/>
+		<rom name="TITLE.OVL" size="1232" crc="9acc5497" md5="5df66c41f7834ddc1f1cc982920a1be2" sha1="3809cc7157681584d39a7b46ca1e384c1efcf3e4" date="1988-08-02 08:40:44"/>
+	</game>
 	<game name="Abuse (1995) (Crack Dot Com).dosz">
 		<description>Abuse</description>
 		<comment>Installed Abuse v2.0f</comment>
