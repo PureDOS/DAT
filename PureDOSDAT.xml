@@ -10312,14 +10312,13 @@
 	</game>
 	<game name="Rise of the Triad - Dark War (1994) (Apogee Software).dosz">
 		<description>Rise of the Triad - Dark War</description>
-		<comment>Installed from Redump's Rise of the Triad - Dark War (USA) (Site License) (v1.3)</comment>
-		<comment_dosc>Auto-starts</comment_dosc>
+		<comment>Installed from Redump's Rise of the Triad - Dark War Site License v1.3 CD</comment>
+		<comment_dosc>Sound config and auto start</comment_dosc>
 		<year>1994</year>
 		<developer>Apogee Software</developer>
-		<rom name="BATTLE.ROT" size="7317" crc="126e28da" md5="6d37a5f642e81bd18410bea90b2b2980" sha1="38154692a1a68e6c46e0a432c1f87f7ea3aa28b2"/>
+		<link type="media">http://redump.org/disc/33505/</link>
 		<rom name="BLAKE01.BAT" size="496" crc="ff568cc5" md5="d50003ada81b9f4112b5f1dcf5f41235" sha1="e4ce0ea07ed8ff327ee286bc0e7035cef6027ab7" date="1995-09-03 12:59:02"/>
 		<rom name="BLAKE01.RTL" size="203016" crc="3c3176ef" md5="3972e69f4fbac5122316e213dc5711fb" sha1="0e9093c52dc080b5ec8602aa5a859b1278392b11" date="1995-09-03 16:50:44"/>
-		<rom name="CONFIG.ROT" size="3394" crc="ba9aa031" md5="6c3487140c55719d7042aaa5ce06f629" sha1="8176af89e3334364b339eae29645642cb1fddb84"/>
 		<rom name="DARKWAR.RTC" size="162646" crc="7dd14fde" md5="2823fe5baa07fa2a5a05df3af0cf8265" sha1="078384f66f48f8f3f26d62e49aaf0f908bbfa7e5" date="1995-08-01 13:30:00"/>
 		<rom name="DARKWAR.RTL" size="408096" crc="30e70925" md5="93a91694e7c3dec45b72708fe5914b37" sha1="6005b9e2b0ca32c86fe1fe2b7b96a0e815561d20" date="1995-08-01 13:30:00"/>
 		<rom name="DARKWAR.WAD" size="14610149" crc="f24e5c46" md5="e7bc1e06e6fa141e6601e64169f24697" sha1="57f76d3fdd234522e66ef7a33bce3dfb38308cf2" date="1995-08-01 13:30:00"/>
@@ -10327,9 +10326,7 @@
 		<rom name="DEMO2_3.DMO" size="17468" crc="1c2f9b46" md5="42f2e5042c7be99fab68a2330c5fcc94" sha1="35d76cb1741727ec55a4fff047342f88bfb817d4" date="1995-08-01 13:30:00"/>
 		<rom name="DEMO3_3.DMO" size="28508" crc="594a8d72" md5="70fd8261d8f7c32e1d368061bdf6e72f" sha1="8a1dbe3728e6226b361add363933c18c6b8dd112" date="1995-08-01 13:30:00"/>
 		<rom name="DEMO4_3.DMO" size="29612" crc="28253c08" md5="a14e5ad38dca4d6cffd0d661e002eeb9" sha1="79f9f25046237f87debcf997e22c2f77c6ada476" date="1995-08-01 13:30:00"/>
-		<rom name="EROTTRTL.EXE" size="99498" crc="9cc8dbd7" md5="180b2db253ead6bf299b457df6eee280" sha1="14452f17866887be2a49885d653d31cae05b6225"/>
 		<rom name="EXTREME.RTL" size="282646" crc="74d3eb57" md5="576acd279638958127caaa4c677007b6" sha1="098885bbd9a649d47f0792f563b6ef217e099951" date="1995-11-01 07:30:00"/>
-		<rom name="GUSMIDI.INI" size="6974" crc="e1cc102a" md5="f8f8db5b224060abbd4c13aa84577f72" sha1="e2d182cf6dda530d9d27874c191799976996c506"/>
 		<rom name="HUNTBGIN.RTC" size="54258" crc="1f924274" md5="4d90dec2da07a8eee1162efd3e23d98d" sha1="f0f530d700405ac75e3773b8f185568c787924e2" date="1995-08-01 13:30:00"/>
 		<rom name="HUNTBGIN.RTL" size="103316" crc="45095e4c" md5="b9b0a3be46a4f7fccabb1c1e8cf5455f" sha1="9a2bcd49a6a9710f95158edee5f3111baca0cea2" date="1995-08-01 13:30:00"/>
 		<rom name="HUNTBGN2.RTC" size="70068" crc="4330495c" md5="4869e5eefdc22ffab9984ec04626245f" sha1="433cea5d9807789a04d2c19906129940c77a3824" date="1995-05-22 13:31:00"/>
@@ -10338,7 +10335,6 @@
 		<rom name="LEVEL01.ASC" size="2576" crc="d31241f7" md5="9637ad77868aebdaf9d637ae418b197c" sha1="d506a4e3c8c73c857b707890d16c21804dda9735" date="1995-08-30 16:05:26"/>
 		<rom name="LICENSE.DOC" size="2605" crc="81059fca" md5="c8e56d24079ed488da342862a48520e1" sha1="071891d0825fdaa9c96889c626441cb9803e2e2a" date="1995-08-01 13:30:00"/>
 		<rom name="OHIO.RTC" size="25866" crc="a48bc502" md5="c196d7d7228641faa3e21166f28be558" sha1="80510ddfe5a636716f1ffbb613931d87c2c76239" date="1996-01-26 00:00:00"/>
-		<rom name="RAND0001.RTL" size="121639" crc="8783649b" md5="12e2ecc537ce2cad13b3381789bd27fe" sha1="9e6147b6847d9eb7b12e9e10100d1d6dba9b6e1d"/>
 		<rom name="RANDROTT.EXE" size="234860" crc="bf8c3c02" md5="964cd6c3612701e1ce8e79c25f773671" sha1="572d48bc526062e4ac91692ed1dbccf8d3da892a" date="1995-08-01 13:30:00"/>
 		<rom name="RANDROTT.RTR" size="281358" crc="45329203" md5="f5849519de870366079e8aba13416c5e" sha1="b1faca34e6ee733e73208782caaab2ea0494b161" date="1995-08-01 13:30:00"/>
 		<rom name="REJECTS.RTC" size="187276" crc="703755bb" md5="8f0c639c5526f7addd8800ed7b9f93c3" sha1="ad863e84cae96844af44cf48cfe9fe2d424caf29" date="1995-07-25 12:45:00"/>
@@ -10350,12 +10346,8 @@
 		<rom name="ROTTSER.EXE" size="21905" crc="157943ce" md5="6688cccfc700b54b03cc9356040baf1a" sha1="58977de2894f333f758647b1f0c9c3ab669917c2" date="1995-08-01 13:30:00"/>
 		<rom name="ROTTSITE.EXE" size="26495" crc="2fd3956d" md5="8933752fc98e08d6133e54995b9c7442" sha1="f340b37d8c2a195b8d739024eeb8c40f5c3714f0" date="1995-08-01 13:30:00"/>
 		<rom name="ROTTSITE.RTC" size="296840" crc="e84fa16a" md5="1230e7ddc462b2154fbbf3f0587aea29" sha1="e28cc5f820db3388284a2aa3a92c6f4cf08a8e9c" date="1995-08-01 13:30:00"/>
-		<rom name="SCORES.ROT" size="476" crc="edff43ab" md5="75f0f87b6d752db3b37e4372180255ee" sha1="e681706311d77281c8eae9065e7d37f439e7fdfc"/>
 		<rom name="SETUP.EXE" size="32682" crc="e9b64922" md5="c645d5e8042a2219917848d9a3f276a9" sha1="fe0854fd5901a8f7ae28ca4c7298bbceaf14c71f" date="1995-08-01 13:30:00"/>
-		<rom name="SETUP.ROT" size="685" crc="249202ea" md5="bb9a632eedabb72019b1596f349a5bb7" sha1="fa98a263c96a4c1c0daaca620ce2906df9779eb9"/>
 		<rom name="SNDSETUP.EXE" size="5756" crc="24487a35" md5="cabf455c9b27c6f0a6cc717837f3900c" sha1="1f5c2d087bff24532dfd81b47e39acd4b2502535" date="1995-08-01 13:30:00"/>
-		<rom name="SOUND.ROT" size="1347" crc="811dc983" md5="7cf0681e5ed85d8a5c3718d8754854f0" sha1="7285c2a48e9a5cf36ad6c95006a522d6c5f221a1"/>
-		<rom name="UASPRAY.EXE" size="31744" crc="6fc0a1bf" md5="45b4b867f0a11a158f9206719896050a" sha1="a01a0e3801604a75bbd39e435c127c6b4fb6d598"/>
 		<rom name="WOLF3D.RTL" size="15096" crc="ad0c5d7b" md5="d548bd38148553107d63bcde698be0a2" sha1="5ddb75a4a00ab4b207d0f7ea142918057accf88a" date="1995-07-24 17:30:00"/>
 	</game>
 	<game name="Quake II (1997) (id Software).dosz">
