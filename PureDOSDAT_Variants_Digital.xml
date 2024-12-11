@@ -12,11 +12,15 @@
 	</header>
 	<game name="Albion (1995) (Blue Byte Software) (GOG).dosz">
 		<description>Albion</description>
-		<comment_dosc>Auto start and config files</comment_dosc>
-		<link type="store">https://www.gog.com/en/game/albion</link>
 		<year>1995</year>
 		<developer>Blue Byte Software</developer>
 		<variant>GOG</variant>
+		<comment_dosc>
+			CPU max year set to 1995
+			Auto start
+			Configuration files
+		</comment_dosc>
+		<link type="store">https://www.gog.com/en/game/albion</link>
 		<rom name="ALBILOW.BAT" size="41" crc="38cb292d" md5="a24d827b5b53309ef891c0c4e04045ba" sha1="719ba67f59753ff3b51bbc50dd5cdaf87ac578d5"/>
 		<rom name="ALBION.EXE" size="19342" crc="81dadb5e" md5="298f3f7673f866a371b635bbab7c8d5a" sha1="e8327eb876e1db92be3e3599362e45d9c20ca756"/>
 		<rom name="ALBION.VMC" size="95" crc="3b7a0f78" md5="017721b43ccf5bab0376ea117a9fe69d" sha1="eb78814383e1eec0b84c4a81a916cf855c49ae1c"/>

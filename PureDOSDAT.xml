@@ -329,11 +329,15 @@
 	</game>
 	<game name="Albion (1995) (Blue Byte Software).dosz">
 		<description>Albion</description>
-		<comment>Installed from Redump-verified CD-ROM: Albion (USA)</comment>
-		<comment_dosc>Auto start and config files</comment_dosc>
-		<link type="media">http://redump.org/disc/107035/</link>
 		<year>1995</year>
 		<developer>Blue Byte Software</developer>
+		<comment>Installed from Redump-verified CD-ROM: Albion (USA)</comment>
+		<comment_dosc>
+			CPU max year set to 1995
+			Auto start
+			Configuration files
+		</comment_dosc>
+		<link type="media">http://redump.org/disc/107035/</link>
 		<rom name="ALBILOW.BAT" size="41" crc="38cb292d" md5="a24d827b5b53309ef891c0c4e04045ba" sha1="719ba67f59753ff3b51bbc50dd5cdaf87ac578d5" date="1995-11-13 19:49:26"/>
 		<rom name="Albion (USA).chd" size="557380224" crc="cac6b533" md5="1c0333b5458d7abb3190e8e04ce5985f" sha1="b0d220a73eab38feb7a7ffee03134be3d20f20dd">
 			<track number="1" type="MODE1_RAW" frames="227635" pregap="0" duration="50:35:10" size="535397520" crc="0464b6fc" md5="e99ba099429fbf136502abd6deb420a1" sha1="c5016378b195f2d639122ef8f49ed26e57a0f001"/>
