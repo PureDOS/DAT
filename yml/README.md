@@ -37,6 +37,7 @@ The following settings are supported, the default value is the first one listed 
 | `run_boot`      | Default disk image to boot (floppy or hard disk) | Path relative to DOSZ, i.e. DISKS\DISK1.IMG                 |
 | `run_mount`     | Default disk image to mount (floppy or CD-ROM)   | Path relative to DOSZ, i.e. CD\GAME.CHD                     |
 | `run_input`     | Input sequence performed at startup              | [See below for details](#run-input-sequence)                |
+| `run_utility`   | Mark a configuration to not start automatically  | __false__ / true                                            |
 
 ## Run Input Sequence
 An input sequence is composed of typed characters, pressed keyboard keys or special commands.
@@ -60,3 +61,27 @@ DELAY by itself will not do anything but it sets how many milliseconds are waite
 sequence. The default delay time is 70 milliseconds. Example `(WAITMODECHANGE)(WAIT:500)(DELAY:15)i5j`
 
 List of keyboard key names: `1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`,`0`,`q`,`w`,`e`,`r`,`t`,`y`,`u`,`i`,`o`,`p`,`a`,`s`,`d`,`f`,`g`,`h`,`j`,`k`,`l`,`z`,`x`,`c`,`v`,`b`,`n`,`m`,`F1`,`F2`,`F3`,`F4`,`F5`,`F6`,`F7`,`F8`,`F9`,`F10`,`F11`,`F12`,`ESC`,`TAB`,`BACKSPACE`,`ENTER`,`SPACE`,`LEFTALT`,`RIGHTALT`,`LEFTCTRL`,`RIGHTCTRL`,`LEFTSHIFT`,`RIGHTSHIFT`,`CAPSLOCK`,`SCROLLLOCK`,`NUMLOCK`,`GRAVE`,`MINUS`,`EQUALS`,`BACKSLASH`,`LEFTBRACKET`,`RIGHTBRACKET`,`SEMICOLON`,`QUOTE`,`PERIOD`,`COMMA`,`SLASH`,`EXTRA_LT_GT`,`PRINTSCREEN`,`PAUSE`,`INSERT`,`HOME`,`PAGEUP`,`DELETE`,`END`,`PAGEDOWN`,`LEFT`,`UP`,`DOWN`,`RIGHT`,`KP1`,`KP2`,`KP3`,`KP4`,`KP5`,`KP6`,`KP7`,`KP8`,`KP9`,`KP0`,`KPDIVIDE`,`KPMULTIPLY`,`KPMINUS`,`KPPLUS`,`KPENTER`,`KPPERIOD`
+
+## CPU Speeds
+| CPU Year | Comparable CPU Model  | Comparable DOSBox Cycles |
+|----------|-----------------------|--------------------------|
+| 1981     | 8088 @ 4.77 MHz       | 315                      |
+| 1982     | 8088 @ 8 MHz          | 900                      |
+| 1983     | 286 @ 10 MHz          | 1500                     |
+| 1984     | 286 @ 12 MHz          | 2100                     |
+| 1985     | 386 @ 16 Mhz          | 2750                     |
+| 1986     | 386 @ 20 MHz          | 3800                     |
+| 1987     | 386 @ 33 MHz          | 4800                     |
+| 1988     | 386DX @ 33 MHz        | 6300                     |
+| 1989     | 486SX @ 25 MHz        | 7800                     |
+| 1990     | 486DX @ 33 MHz        | 14000                    |
+| 1991     | 486DX @ 50 MHz        | 23800                    |
+| 1992     | 486DX @ 66 MHz        | 27000                    |
+| 1993     | Pentium @ 60 MHz      | 44000                    |
+| 1994     | Pentium @ 75 MHz      | 55000                    |
+| 1995     | Pentium @ 100 MHz     | 66800                    |
+| 1996     | Pentium @ 166 MHz     | 93000                    |
+| 1997     | Pentium @ 200 MHz     | 125000                   |
+| 1998     | Pentium II @ 300 MHz  | 200000                   |
+| 1999     | Pentium II @ 450 MHz  | 350000                   |
+| 2000     | Pentium III @ 600 MHz | 500000                   |

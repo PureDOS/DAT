@@ -18,6 +18,15 @@
 		<variant>Installation</variant>
 		<rom name="disk1.img" size="1474560" crc="290b4415" md5="4c68650818babb5951cb2b26cc9a4c54" sha1="0f9d5322520b8de908dd7dce1980bd9e322f6685"/>
 	</game>
+	<game name="Ancient Land of Ys (1989) (Nihon Falcom) (Installation).dosz">
+		<description>Ancient Land of Ys</description>
+		<comment>Disk image that matches The Good Old Days ID: 2674</comment>
+		<year>1989</year>
+		<developer>Nihon Falcom</developer>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C2674/</link>
+		<variant>Installation</variant>
+		<rom name="disk1.img" size="737280" crc="70b57db8" md5="c9249d3b69ba860e7e24373d484aa1d6" sha1="7ab88ce458e2cf2c88f466e3dca499d4af9c60df"/>
+	</game>
 	<game name="Bedlam (1996) (GT Interactive) (Installation).dosz">
 		<description>Bedlam</description>
 		<comment>Redump-verified version of Bedlam (USA)</comment>
@@ -41,6 +50,16 @@
 		<developer>Infocom</developer>
 		<variant>Installation</variant>
 		<rom name="disk1.img" size="368640" crc="b6fbab29" md5="a716c0f9f814b86bb1423f503c6c39dd" sha1="7bd3b82740163365d33e8d630f29d148b39e0ddc"/>
+	</game>
+	<game name="Bubble Bobble (1989) (Taito) (Installation).dosz">
+		<description>Bubble Bobble</description>
+		<comment>Cracked 5.25" floppy disks</comment>
+		<year>1989</year>
+		<developer>Taito</developer>
+		<variant>Installation</variant>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C447/</link>
+		<rom name="disk1.img" size="368640" crc="1dad38e6" md5="65f9f6f9381e47653eda759bf47fc3ac" sha1="6b2f5f9655ed5002dfd72b33b2cfb857c432752a"/>
+		<rom name="disk2.img" size="368640" crc="26d72672" md5="c27454cf673357ed0be4a413729e64ad" sha1="de10177bd95e576dcc00e90e73ad181bd97f5577"/>
 	</game>
 	<game name="Caesar (1992) (Impressions Games) (Installation).dosz">
 		<description>Caesar</description>
@@ -163,6 +182,17 @@
 		<variant>Installation</variant>
 		<rom name="disk1.img" size="184320" crc="1744adb6" md5="93c30ca487736067ace1ea60a2a1ebe4" sha1="e6b78bb2ed4336111df696c13144c824b7fe1ef0"/>
 	</game>
+	<game name="I Have No Mouth, and I Must Scream (1995) (Cyberdreams) (Installation).dosz">
+		<description>I Have No Mouth, and I Must Scream</description>
+		<comment>Redump-verified CD-ROM: I Have No Mouth, and I Must Scream (USA)</comment>
+		<year>1995</year>
+		<developer>Cyberdreams</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/82875/</link>
+		<rom name="I Have No Mouth, and I Must Scream (USA).chd" size="807918336" crc="c20358db" md5="47e038c9cae0f1531c37348ad0e92a54" sha1="26de5b1d7eec0af44d1d6165bcc0b7c37a3c2a58">
+			<track number="1" type="MODE1_RAW" frames="329957" pregap="0" duration="73:19:32" size="776058864" crc="25c6f2df" md5="5a16928d295a1f5c3230be4ee134e6c4" sha1="7cc16485bf508b7cb86ebff5951fc603c31367ee" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
 	<game name="Jazz Jackrabbit (1994) (Epic MegaGames) (Installation).dosz">
 		<description>Jazz Jackrabbit</description>
 		<comment>Enhanced CD-ROM packaged with Jazz Jackrabbit 2</comment>
@@ -172,6 +202,15 @@
 		<rom name="Jazz Jackrabbit (USA) (Rerelease).chd" size="69346944" crc="627806bc" md5="5c3b08ba42c4b6995209ec8a113fde2b" sha1="dece219ba9323f6469554d2487753bd4213ef79c">
 			<track number="1" type="MODE1_RAW" frames="28318" pregap="0" duration="06:17:43" size="66603936" crc="eb4ea23a" md5="d6e97ef537d0bb30af57630c6efac168" sha1="b430f2a6e63e4e93bb2db3ac54fd2f0c6d573336" in_zeros="1" out_zeros="0"/>
 		</rom>
+	</game>
+	<game name="Maniac Mansion (1988) (Lucasfilm Games) (Installation).dosz">
+		<description>Maniac Mansion</description>
+		<comment>Enhanced 1989 version, 3.5" floppy disk</comment>
+		<year>1988</year>
+		<developer>Lucasfilm Games</developer>
+		<variant>Installation</variant>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C2592/</link>
+		<rom name="disk1.img" size="737280" crc="d37be5a6" md5="7ce4b3d572bd25cebf59ea8ae3ba705e" sha1="7db244c05e7e1eff9610c266222402f807c8cba3" date="2018-05-09 07:47:58"/>
 	</game>
 	<game name="Mario Teaches Typing (1992) (Interplay Entertainment) (Installation).dosz">
 		<description>Mario Teaches Typing</description>
@@ -532,6 +571,7 @@
 		<year>1995</year>
 		<developer>Microprose</developer>
 		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/66563/</link>
 		<rom name="X-COM - Terror from the Deep (USA) (En,Fr,De,Es).chd" size="85268736" crc="5637cd9f" md5="8ef4e4731b3fda9f984abd341e756ade" sha1="9ba51d66cd79c2f112d6997b96ade0b2b55eea58">
 			<track number="1" type="MODE1_RAW" frames="34819" pregap="0" duration="07:44:19" size="81894288" crc="ad2fc02a" md5="4b9f3d7d2c686f6b70b08197f736434a" sha1="80572e89fbe39b634abd0134751b3a832c04e6bf" in_zeros="1" out_zeros="0"/>
 		</rom>
