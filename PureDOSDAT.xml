@@ -6377,10 +6377,11 @@
 	</game>
 	<game name="Martian Memorandum (1991) (Access Software).dosz">
 		<description>Martian Memorandum</description>
-		<comment>Installed from 3.5" floppy disks</comment>
-		<comment_dosc>AdLib music, RealSound, and auto start. MT-32 option</comment_dosc>
 		<year>1991</year>
 		<developer>Access Software</developer>
+		<comment>Installed from 3.5" floppy disks matching with TGOD ID: 1381</comment>
+		<comment_dosc>AdLib music, RealSound, and auto start. MT-32 option</comment_dosc>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C1381/</link>
 		<rom name="ADLIB.DRV" size="7375" crc="56a878aa" md5="7aecbbdb02ff720393fd24009f75d0e7" sha1="24912825114e246e7a96eb91e47c2a5a5336dacd"/>
 		<rom name="C02.AP" size="234109" crc="72999824" md5="50a06f472c2ff61649954a50fd0162ea" sha1="351ecf63f1cc087a1818d424ac9f7c748a179f94"/>
 		<rom name="C03.AP" size="17605" crc="6ad7913b" md5="bcdc1f107a8db1374bfa5ab618e5e25b" sha1="3911865362f52fedd17299f0d6a4eeaf9d23ab1f"/>
@@ -6519,11 +6520,16 @@
 	</game>
 	<game name="Mean Streets (1989) (Access Software).dosz">
 		<description>Mean Streets</description>
-		<comment>Installed v1.3 from 3.5" floppy disks, then patched to v1.4</comment>
-		<comment_dosc>VGA/MCGA mode and auto start</comment_dosc>
 		<year>1989</year>
 		<developer>Access Software</developer>
-		<link type="patch">https://archive.org/download/MEANST14_ZIP/MEANST14.ZIP</link>
+		<comment>
+			Installed v1.3 from 3.5" floppy disks matching with TGOD ID: 1459.
+			Then patched to v1.4.
+			Also matches with TDC entry: Mean Streets v1.4 (1993)(Access Software, Inc.) [Action, Adventure]
+		</comment>
+		<comment_dosc>VGA/MCGA mode and auto start</comment_dosc>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C1459/</link>
+		<link type="patch">https://www.patches-scrolls.de/patch/2628/7/46577/download</link>
 		<rom name="BACKDRP1.ACC" size="127981" crc="7df2c380" md5="0e8c0eed307f4ffbc3c2866a122f7f06" sha1="5f82425f0f1d06aa3d52d498ccf7dc5b0901f6f9" date="1989-09-13 22:17:10"/>
 		<rom name="BACKDRP2.ACC" size="157958" crc="e0840f4e" md5="a8bd0f870ef47202aecafd16d559e3fd" sha1="f797121c8413ac7cc617af92d485203acf2fe537" date="1989-09-13 22:17:18"/>
 		<rom name="CAR.ACC" size="46919" crc="47ca7e3c" md5="36381d378f1bf3e5c7c6dd1df3114c6b" sha1="2cc10aab1c8db81ec2a8a01eb028ad4e553a0552" date="1989-09-11 06:55:58"/>
@@ -6636,10 +6642,16 @@
 	</game>
 	<game name="Pandora Directive, The (1996) (Access Software).dosz">
 		<description>Pandora Directive, The</description>
-		<comment>Installed from CD. For digital sound, use Sound Blaster 16 at port 220, interrupt 7, DMA 5. For midi, use Sound Blaster 16 at port 388. If it crashes, manually edit CONFIG.INI to set line 17 to "Pass=1" and line 38 to "TransferRate=139945". Everything else default</comment>
-		<comment_dosc>Required CONFIG.INI and auto start</comment_dosc>
 		<year>1996</year>
 		<developer>Access Software</developer>
+		<comment>
+			Installed from CD.
+			For digital sound, use Sound Blaster 16 at port 220, interrupt 7, DMA 5.
+			For midi, use Sound Blaster 16 at port 388.
+			If it crashes, manually edit CONFIG.INI to set line 17 to "Pass=1" and line 38 to "TransferRate=139945".
+			Everything else default.
+		</comment>
+		<comment_dosc>Required CONFIG.INI and auto start</comment_dosc>
 		<link type="media">http://redump.org/disc/2037/</link>
 		<link type="media">http://redump.org/disc/2036/</link>
 		<link type="media">http://redump.org/disc/2065/</link>
@@ -10286,10 +10298,10 @@
 	</game>
 	<game name="Under a Killing Moon (1994) (Access Software).dosz">
 		<description>Under a Killing Moon</description>
-		<comment>Installed from CD</comment>
-		<comment_dosc>Sound Blaster 16 config and auto start. MT-32 and General MIDI options</comment_dosc>
 		<year>1994</year>
 		<developer>Access Software</developer>
+		<comment>Installed from CD</comment>
+		<comment_dosc>Sound Blaster 16 config and auto start. MT-32 and General MIDI options</comment_dosc>
 		<link type="media">http://redump.org/disc/53378/</link>
 		<link type="media">http://redump.org/disc/20134/</link>
 		<link type="media">http://redump.org/disc/20135/</link>
