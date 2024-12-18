@@ -10135,10 +10135,21 @@
 		<developer>Sierra On-Line</developer>
 		<comment>
 			Installed from 5 3.5" floppy disks matching The Good Old Days ID: 1790
-			Installation options: VGA (256 Colors), Sound Blaster Music, Sound Blaster Audio, no joystick, use mouse, use extra memory
-			After install, delete the directory line in RESOURCE.CFG
+			Installation options:
+				Graphics: VGA or IBM PS2 - 256 Colors
+				Music: Sound Blaster / AdLib Card (or compatibles)
+				Audio: Sound Blaster
+				Joystick: Don't use a joystick
+				Mouse: Use Microsoft compatible mouse
+				Memory: Use your machine's extra memory
+			After install, delete line 8 (directory) in RESOURCE.CFG
 		</comment>
-		<comment_dosc>CPU year set to 1991, auto start, sound config, and MT-32 and General MIDI options</comment_dosc>
+		<comment_dosc>
+			CPU year set to 1991
+			Auto start
+			Configuration file
+			MT-32 and General MIDI (Roland SC-55) sound options
+		</comment_dosc>
 		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1790</link>
 		<rom name="120.HEP" size="3474" crc="84fcf10d" md5="250e4df22da5594ceff99e449c4a8681" sha1="426c2bb6be3278a807e145c49c7233382aeab124" date="1993-02-08 11:26:32"/>
 		<rom name="120.SCR" size="12770" crc="e542d821" md5="aa11a5c0921dc7648a09081f43ca68df" sha1="7817f1794bcce6da169841afdaf473cbe23a2c0a" date="1993-02-08 11:26:32"/>
