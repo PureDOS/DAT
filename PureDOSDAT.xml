@@ -4202,7 +4202,7 @@
 		<comment>
 			Installed v1.0 from CD.
 			Options:
-				Small installation size
+				Medium installation size
 				High resolution movies
 				Sound: Sound Blaster 16, Port 220, IRQ 7, 8-bit DMA 1, 16-bit DMA 5
 				Music: SB Pro/16, Port 388
@@ -4219,10 +4219,7 @@
 		<link type="patch">https://soggi.org/misc/game-patches.htm</link>
 		<link type="patch">https://soggi.org/misc/3dfx-voodoo-game-patches.htm</link>
 		<link type="driver">https://www.vogonsdrivers.com/getfile.php?fileid=158&amp;menustate=2,1</link>
-		<rom name="D2.BAT" size="143" crc="9cb59df1" md5="76c23300fbeb201dfa265f70a5704399" sha1="60ffd07dbf689986c7a776f70dcb8b6d96eb4b80" date="1996-02-25 03:15:44"/>
-		<rom name="d2_3dfx.exe" size="1374737" crc="62d4975c" md5="83e219ca810f6c9faee81c9ce971d1a7" sha1="d40594ca574ed0d1b1ec0ca843bdcba392b66112" date="1998-03-04 15:15:20"/>
-		<rom name="DEMOS/DESCENT2.DEM" size="1168217" crc="5cf37eba" md5="6c0d51cd4ff04030e66423895f74be72" sha1="26ab4ceb00ef1cbd1dfd29a6f7bdd9f6bb28de07" date="1996-02-23 16:51:44"/>
-		<rom name="Descent II (USA) (Track 1).bin" size="404889744" crc="ed71e0e3" md5="f0cfbfd2b6def2a49df1efbd012dc510" sha1="b9e0093f9e88437b4be0d64f31433e3881a78f83"/>
+		<rom name="Descent II (USA) (Track 1).bin" size="404889744" crc="ed71e0e3" md5="f0cfbfd2b6def2a49df1efbd012dc510" sha1="b9e0093f9e88437b4be0d64f31433e3881a78f83">
 			<source frames="172147" pregap="0" duration="38:15:22" size="404889744" crc="ed71e0e3" md5="f0cfbfd2b6def2a49df1efbd012dc510" sha1="b9e0093f9e88437b4be0d64f31433e3881a78f83"/>
 		</rom>
 		<rom name="Descent II (USA) (Track 2).ogg" size="1362946" crc="84b399b6" md5="a508b2a68a86efd680a355b6f5a71185" sha1="bfc6852073bc16098b6fc8c2d84924955b6f9e5a">
@@ -4261,6 +4258,11 @@
 		<rom name="Descent II (USA) (Track 13).ogg" size="6146135" crc="68ca7dec" md5="834ac4a699fb928047694cbc47985cc6" sha1="0dacd8dce51f0c194233eed3b1339e10cee0f5df">
 			<source frames="13172" pregap="150" duration="02:55:47" size="30980544" crc="065c8254" md5="2e248eb1fc3247b98cac5a09db6956a8" sha1="e53f7e242ec223a28a4ff05f8ae1c904029e68cc" in_zeros="0" out_zeros="597050" trimmed_crc="ca6172b2" quality="8" non_silence_pregap="1"/>
 		</rom>
+		<rom name="ALIEN1.PIG" size="5016232" crc="3d44d665" md5="b0619642eeb50ac4d5198499a26b7355" sha1="80e040199b347f8f17f31afb32d551113cf40956" date="1996-02-21 16:51:58"/>
+		<rom name="ALIEN2.PIG" size="4912053" crc="106032b2" md5="a242d46dfd0f16454f6f5377cbb424a5" sha1="2bbb8d941f8b06b56d5ddc7f723a206907a95548" date="1996-02-21 16:55:30"/>
+		<rom name="D2.BAT" size="143" crc="9cb59df1" md5="76c23300fbeb201dfa265f70a5704399" sha1="60ffd07dbf689986c7a776f70dcb8b6d96eb4b80" date="1996-10-18 19:02:38"/>
+		<rom name="d2_3dfx.exe" size="1374737" crc="62d4975c" md5="83e219ca810f6c9faee81c9ce971d1a7" sha1="d40594ca574ed0d1b1ec0ca843bdcba392b66112" date="1998-03-05 04:15:20"/>
+		<rom name="DEMOS/DESCENT2.DEM" size="1168217" crc="5cf37eba" md5="6c0d51cd4ff04030e66423895f74be72" sha1="26ab4ceb00ef1cbd1dfd29a6f7bdd9f6bb28de07" date="1996-10-18 16:33:18"/>
 		<rom name="Descent II (USA).cue" size="1356" crc="b9efe6ee" md5="d24ef8592521008fd252ca688813a84e" sha1="2775c1fca47ed28b77a4ddcb4b1e78a1fc19edec"/>
 		<rom name="DESCENT.CFG" size="375" crc="9ce6cc73" md5="bbf7e678f424b0e9e24e5212635c9533" sha1="f873aa14fa5fb7992d38d405f35ffaaf67b20a5a"/>
 		<rom name="DESCENT2.EXE" size="1507821" crc="183f70f3" md5="f6a3c0f932e776b892d7529bca7f05f7" sha1="8a57115ff07574b729f2994d59e92a2b5f9aa11e" date="1996-11-27 13:08:48"/>
@@ -4270,22 +4272,25 @@
 		<rom name="DESCENT2.S22" size="5160905" crc="97f8408b" md5="9a96c651e3e68b5c4febae6e1f492897" sha1="f67d22b5aa2e06b286719e063b4e054169a765b1" date="1996-02-23 01:03:16"/>
 		<rom name="DESCENTG.INI" size="3311" crc="9ed8e4d2" md5="deaaa176b89f0d27a0392357e95da52a" sha1="5a7d59cc7a6ca3f1860e3803235283d56e36ed8a" date="1996-01-16 17:27:20"/>
 		<rom name="DOS.YML" size="17" crc="9e2ade80" md5="5e4e9514ccbed110c66ed799f2b0c449" sha1="7ff552bf9a73a8ba6fe5089d140c63e3d6be659c"/>
-		<rom name="Dos4gw.exe" size="265396" crc="5cc34b0f" md5="006211ca60fa3d4b38a9a8da2ade1056" sha1="c489f83dc15a9ffc3c502707da40e581ec79bfe6" date="1996-05-11 06:00:00"/>
+		<rom name="Dos4gw.exe" size="265396" crc="5cc34b0f" md5="006211ca60fa3d4b38a9a8da2ade1056" sha1="c489f83dc15a9ffc3c502707da40e581ec79bfe6" date="1996-05-11 19:00:00"/>
 		<rom name="EREGCARD.EXE" size="85596" crc="d88480ab" md5="ca63f6ff156a8132d7e0c41fab740c84" sha1="734185e8eed318384ff29f9afa184a77beeaf225" date="1995-12-15 14:41:58"/>
-		<rom name="glide2x.ovl" size="338207" crc="3954fbd7" md5="50ea8e8ea6d4921cb9924680b080023f" sha1="b1ee87b95400d29498848c167346ee7ba71d9ba5" date="1997-04-16 13:17:52"/>
-		<rom name="GROUPA.PIG" size="4931752" crc="6dcf8432" md5="b18a27d1ef0dd04aebbbf818c430a578" sha1="fc3dd5059ff445986d05c143c54284bd7ec2ee68" date="1996-02-25 03:15:44"/>
+		<rom name="FIRE.PIG" size="4973944" crc="e2bad00a" md5="b40c8690c6a9467d76ef5732b9e10663" sha1="6365ed9256411e883189e7c2149671f9de24526b" date="1996-02-21 16:44:58"/>
+		<rom name="glide2x.ovl" size="338207" crc="3954fbd7" md5="50ea8e8ea6d4921cb9924680b080023f" sha1="b1ee87b95400d29498848c167346ee7ba71d9ba5" date="1997-04-16 17:17:52"/>
+		<rom name="GROUPA.PIG" size="4931752" crc="6dcf8432" md5="b18a27d1ef0dd04aebbbf818c430a578" sha1="fc3dd5059ff445986d05c143c54284bd7ec2ee68" date="1996-10-18 19:02:38"/>
 		<rom name="HMIDET.386" size="81915" crc="a2e42083" md5="7edc1dc9570be886e80e91ec891edf54" sha1="ed25c710e8ac1c77117c8f6fb2739ba07c48464d" date="1996-02-02 19:10:08"/>
 		<rom name="HMIDRV.386" size="261273" crc="878b942a" md5="e337a2dd5dfdb5fded0af39efbb915f1" sha1="32c871ae855f84757c91c9aaf7f9cbb324dcd83f" date="1996-02-02 19:10:08"/>
 		<rom name="HMIMDRV.386" size="111928" crc="051fbae5" md5="cbf3af151d45f09831a213999dcfa3d5" sha1="b95c74f3968e6d2fb53d5343ec879d6abd1050bf" date="1996-02-02 19:10:08"/>
+		<rom name="ICE.PIG" size="4926111" crc="b5fb61be" md5="d2a2f49892935395592bb56ae1a0f21e" sha1="f3df0545359e9f2a7f58a4dd07615bd87cce10bf" date="1996-02-21 16:48:28"/>
 		<rom name="MISSIONS/D2-2PLYR.HOG" size="194870" crc="d1f90af0" md5="de49d2cef498e744270a8fd48290cb44" sha1="15767e36f12ed8667249e19e948686c13dd5d90b" date="1996-02-23 01:31:02"/>
 		<rom name="MISSIONS/D2-2PLYR.MN2" size="93" crc="77fa0c28" md5="02e864529ee9ea0d5003ca46c3766149" sha1="db13b038e5b3b8ccbc6f2418bbe49dc0bac87235" date="1996-02-20 18:41:36"/>
 		<rom name="MISSIONS/D2CHAOS.HOG" size="331847" crc="45178888" md5="e096dfef3276ba575309501f85f15f06" sha1="156f66ae7ae48fff582116bdf0e91e0f3386b3af" date="1996-02-23 01:31:00"/>
 		<rom name="MISSIONS/D2CHAOS.MN2" size="119" crc="27b1d67d" md5="70624a8ef81f7278a7fef8be38aa2732" sha1="bf266256dc726852bad4896861a1dfad4022f8b1" date="1996-02-20 18:41:42"/>
 		<rom name="MODEM.LST" size="98" crc="5d1f4698" md5="57fe3daab399e529e98182bb2a4626cd" sha1="3c29ddded2a0bbb015d540ced4813d15260ef270" date="1995-11-02 16:54:58"/>
-		<rom name="notice.txt" size="2268" crc="0131f7a7" md5="cb011a19df8cfb586b72477532ac9e9b" sha1="8c6c9b24c55d3e4892d262b3f80d3897e3a7121e" date="1998-03-04 15:18:44"/>
+		<rom name="notice.txt" size="2268" crc="0131f7a7" md5="cb011a19df8cfb586b72477532ac9e9b" sha1="8c6c9b24c55d3e4892d262b3f80d3897e3a7121e" date="1998-03-05 04:18:44"/>
 		<rom name="PCXVIEW.EXE" size="20028" crc="388aaa5d" md5="b043433a3d330733f09b2e2db146e902" sha1="8c63e99eaf1eb282dda4f7b472b5f4e423963718" date="1996-02-14 11:49:20"/>
 		<rom name="README.TXT" size="60170" crc="c085c794" md5="1441cdbfdecc0d948da739f5ffcb260a" sha1="1816793aed77aa9027c6516b76bb122959e225fe" date="1996-11-13 18:06:14"/>
 		<rom name="SETUP.EXE" size="559047" crc="2d94afcc" md5="b76aff8d1f33971fd1d474f4f9de8b58" sha1="316a020e1478c1f31ea3cf45647a6a55b4ae0754" date="1996-02-25 03:15:44"/>
+		<rom name="WATER.PIG" size="4833463" crc="3cf9b0be" md5="4722f02a4c5bfb3b17fe8da8d4141191" sha1="1874f70353680a803811a5ff2cce949e3f5d5076" date="1996-02-21 16:41:12"/>
 	</game>
 	<game name="Dark Seed (1992) (Cyberdreams).dosz">
 		<description>Dark Seed</description>
