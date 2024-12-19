@@ -8626,8 +8626,20 @@
 		<description>Inherit the Earth - Quest for the Orb</description>
 		<year>1994</year>
 		<developer>New World Computing</developer>
-		<comment>Installed from Redump-verified CD-ROM: Inherit the Earth - Quest for the Orb (USA)</comment>
-		<comment_dosc>Auto-start, sound config, and MT-32 support</comment_dosc>
+		<comment>
+			Installed from Redump-verified CD-ROM: Inherit the Earth - Quest for the Orb (USA)
+			Installation Options:
+				Special File Installation:
+					Do Not Install Scripts and Dialogs File
+					Do Not Install Sound Effects File
+					Do Not Install Graphics and Data File
+		</comment>
+		<comment_dosc>
+			CPU max year set to 1994
+			Auto start
+			Configuration file
+			MT-32 sound option
+		</comment_dosc>
 		<link type="media">http://redump.org/disc/79745/</link>
 		<rom name="CD/Inherit the Earth - Quest for the Orb (USA) (Track 1).bin" size="549732960" crc="624bced1" md5="c2d57634fe44f2cb825adf62f003d7b2" sha1="fcb22158f2042034a657a10ffc9fc0f8f0875748">
 			<source frames="233730" pregap="0" duration="51:56:30" size="549732960" crc="624bced1" md5="c2d57634fe44f2cb825adf62f003d7b2" sha1="fcb22158f2042034a657a10ffc9fc0f8f0875748"/>
