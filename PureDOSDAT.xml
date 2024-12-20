@@ -4601,10 +4601,22 @@
 		<developer>Sierra On-Line</developer>
 		<comment>
 			Installed from Redump-verified CD-ROM: EcoQuest - The Search for Cetus (USA) (Rerelease)
-			Installation options: VGA (256 Colors), Sound Blaster music, Sound Blaster speech/sound effects, no joystick, use mouse, use extra memory, install to hard drive
-			After install, copy RESOURCE.AUD from the CD to the install directory and change audio=D:\ to audio=C:\ in RESOURCE.CFG
+			Installation options:
+				Graphics adapter: VGA or IBM PS2 - 256 Colors
+				Music card: Sound Blaster / AdLib Card (or compatibles)
+				Speech/sound effects card: Sound Blaster
+				Joystick: Don't use a joystick
+				Mouse: Use Microsoft compatible mouse
+				Expanded, extended and/or XMS memory: Use your machine's extra memory
+				Install everything but the speech files to your hard drive: Yes
+			After install, copy the file RESOURCE.AUD from the CD to the install directory
+			Then change line 13 in RESOURCE.CFG to audio=C:\ (no spaces at the end)
 		</comment>
-		<comment_dosc>Auto start and MT-32 option</comment_dosc>
+		<comment_dosc>
+			Auto start
+			Configuration file
+			MT-32 sound option
+		</comment_dosc>
 		<link type="media">http://redump.org/disc/83469/</link>
 		<rom name="122.AUD" size="11081" crc="b0953f01" md5="ebe7179dd5e78266c8b449b0d230097f" sha1="2226b5bbf68e7549bee312043e8c4bf231743b99" date="1992-10-15 15:05:48"/>
 		<rom name="124.AUD" size="26597" crc="5e6b0668" md5="0c2b067a31ac4cdabd301e91e357f058" sha1="b369bce4c7e5b79b4411d0e8ec9c4e72907c7506" date="1992-10-15 15:06:04"/>
@@ -4759,7 +4771,7 @@
 		<rom name="README" size="12781" crc="21478494" md5="2d4a089a462635a476d1154ec018757f" sha1="abc4c519de77dc119fdaa2be36f3fa4d8d1b2195" date="1995-09-18 17:59:32"/>
 		<rom name="RESOURCE.000" size="3536046" crc="1593e181" md5="76ef3912ce484081f1bf063f26f3f638" sha1="c3dc90445b658f25beef00cc5a059b9b552151e7" date="1993-03-17 20:21:14"/>
 		<rom name="RESOURCE.AUD" size="305187924" crc="c3b3fa64" md5="c83fdc129980a255211264de2a18c3e9" sha1="f9950db9c67416433a0dea6c7e744ddb12fc7cb3" date="1993-03-14 09:07:40"/>
-		<rom name="RESOURCE.CFG" size="245" crc="92df0195" md5="6d000bbb0d7887b00beba4b99ef45f5c" sha1="de1eebcd1befce8a9794ac09c437976ee4b662ff"/>
+		<rom name="RESOURCE.CFG" size="244" crc="bcabb1ac" md5="5cee70fabd6fb507c6da00318d02cb9c" sha1="772d162ba1905fa7becf2221d6aa350076690ca2"/>
 		<rom name="RESOURCE.MAP" size="4804" crc="2fe7b676" md5="a4b73d5d2b55bdb6e44345e99c8fbdd0" sha1="d7ef3c03d21f70ee4ca46352199934f74b0d228d" date="1993-03-17 20:21:16"/>
 		<rom name="SIERRA.EXE" size="67960" crc="4ec77630" md5="4eaeb845ddfe56b925a9f5ac8f133134" sha1="f40293323222f59effc771945b9a6bd02e8723d6" date="1992-12-08 14:18:00"/>
 		<rom name="STD.DRV" size="1481" crc="578efe57" md5="aa444eeb77bc162d0ee52379df408358" sha1="bdc955928878536bc2bd664eec8f9968483e2c0f" date="1993-03-17 10:37:54"/>
