@@ -367,6 +367,62 @@
 		<rom name="SFX/ZAP3.WAV" size="9448" crc="c58c799a" md5="33c38a9e024e33721e5c42b0fcc18eba" sha1="b83706f5e97e4416278a9564a319362c2c5a504f" date="1995-08-26 05:30:20"/>
 		<rom name="TEST.RAW" size="40320" crc="0d2d49b8" md5="7cc517930c314be6ca818395934e9850" sha1="13b15b9f8a0b7d98176f9437aca149301c576458" date="1995-08-15 19:57:50"/>
  	</game>
+	<game name="Abyss of Pandemonium (1998) (Impel Development Team).dosz">
+		<description>Abyss of Pandemonium</description>
+		<year>1998</year>
+		<developer>Impel Development Team</developer>
+		<parent>Quake (1996) (id Software).dosz</parent>
+		<comment>
+			Files copied from CD matching with TDC entry: Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue]
+			CD image converted with CHDtoOGG using -n option
+		</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<rom name="Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue] (Track 1).bin" size="56448" crc="1be232e7" md5="052315fdf52a4076530b6fa185e9c628" sha1="ddbbf38c7623ae8712248ed015380b4f1aaafc2e">
+			<source frames="48490" pregap="0" duration="10:46:40" size="114048480" crc="1eefd95d" md5="311bed7c09efd3879964272401847faf" sha1="c1080729816d2cf732548de842c38a461c49b81e"/>
+		</rom>
+		<rom name="Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue] (Track 2).ogg" size="6436675" crc="8026afa2" md5="25c0037496f7951465024e6177f65962" sha1="93efbb17f3b26f1fb202122703b9931883d0f9f0">
+			<source frames="20639" pregap="150" duration="04:35:14" size="48542928" crc="245ddd3d" md5="b16ca0015abd7c26cbaf91a67661bf7c" sha1="1f8d6f74949c58aa9c766dce3095f14c8f1660d2" in_zeros="8774" out_zeros="375958" trimmed_crc="062c27ee" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue] (Track 3).ogg" size="7224802" crc="4ea2e989" md5="afe90c59ab2c66f41bf43bb724d9ff48" sha1="2acdde2370a70e3256220a75ae0bf670334f916b">
+			<source frames="27321" pregap="0" duration="06:04:21" size="64258992" crc="2188bbe0" md5="7e7d0ef9af31250e8580f6b538e17225" sha1="24f753cb4b2bf6810dd06adfabcc06fde1b90803" in_zeros="468" out_zeros="525244" trimmed_crc="cc481339" quality="8"/>
+		</rom>
+		<rom name="Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue] (Track 4).ogg" size="5733183" crc="a0ae1d59" md5="f0118d117557ab7a19764e5175dab627" sha1="ef44b5777a58062f8581e36f95304fe624849183">
+			<source frames="20323" pregap="0" duration="04:30:73" size="47799696" crc="6830e020" md5="9e2cdddb255add69a2a6c846403adb7f" sha1="39ad077b69f67e85e8be8d6839dfaba42fcbc1a2" in_zeros="468" out_zeros="525228" trimmed_crc="f7ad9507" quality="8"/>
+		</rom>
+		<rom name="Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue] (Track 5).ogg" size="8466397" crc="4c9e35fb" md5="ceecaeee984c9d451900b2a399834874" sha1="9e3de4fbe267f5b99b2857bb4e03980e30368a4b">
+			<source frames="33206" pregap="0" duration="07:22:56" size="78100512" crc="f490636f" md5="1896993560113f12c1ddf477115eb4b0" sha1="8156d36f4798cd29ba657033690d1d8bc9df1220" in_zeros="492" out_zeros="525176" trimmed_crc="b2d74b41" quality="8"/>
+		</rom>
+		<rom name="Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue] (Track 6).ogg" size="10780597" crc="c8a29795" md5="a5f28015e15bb6204ac6927709a5b0bd" sha1="65a80139b852200573746652beb3b96990e667e5">
+			<source frames="34163" pregap="0" duration="07:35:38" size="80351376" crc="c533689a" md5="31c2ed0db3e61d6eb475e9b2c8acceea" sha1="bc4651bd910a646633d6684b8504b0f4403cc2a8" in_zeros="492" out_zeros="357017" trimmed_crc="7645903c" quality="8"/>
+		</rom>
+		<rom name="Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue] (Track 7).ogg" size="5648540" crc="b161343a" md5="6490bd111eada5d467d7f583c6ff8736" sha1="6510c670e3ff5038e4507ae6a52b2428b9b9caad">
+			<source frames="22139" pregap="0" duration="04:55:14" size="52070928" crc="f710046c" md5="9c8c4576324f8df338e5d201eddc2681" sha1="765d0990f6adee668bbc2849cc47f420b4968b1d" in_zeros="516" out_zeros="356998" trimmed_crc="589740ae" quality="8"/>
+		</rom>
+		<rom name="Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue] (Track 8).ogg" size="6504768" crc="d89e8891" md5="c84605ff37f1254ed061913300f5dd59" sha1="3b979d62b7d3df9fd9dd4232b36899d7395f1529">
+			<source frames="23064" pregap="0" duration="05:07:39" size="54246528" crc="f0eaa05a" md5="4b758581bc049e48ea29598f9265e5f0" sha1="2ec61445a9a297144cd58c7a489aec5458cdc16c" in_zeros="516" out_zeros="525180" trimmed_crc="78044595" quality="8"/>
+		</rom>
+		<rom name="Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue] (Track 9).ogg" size="6113341" crc="00be769e" md5="8cd4a123d34cb56651bd2992bb4e657e" sha1="5dc8b5e0906796ae407aca07e742c8376356ae7e">
+			<source frames="20963" pregap="0" duration="04:39:38" size="49304976" crc="ae0a4d56" md5="f8c09c4412f76e0572debff6429be389" sha1="f38a7eea187430c79d5b5504ceb46104d4f03a8b" in_zeros="516" out_zeros="525160" trimmed_crc="eb3c4177" quality="8"/>
+		</rom>
+		<rom name="Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue] (Track 10).ogg" size="5096266" crc="3e040b5a" md5="0660943ff4c064982ae77ff420ae66d2" sha1="3dc2a2155d087b68fe2e68def71b3b9b4e32a4b3">
+			<source frames="17381" pregap="0" duration="03:51:56" size="40880112" crc="20b22ff0" md5="43d48f64b0efaf825c835d24018cbfa4" sha1="beeec3d7727fd9313fa3c04fe17330825b8a7988" in_zeros="540" out_zeros="356969" trimmed_crc="903b66a5" quality="8"/>
+		</rom>
+		<rom name="Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue] (Track 11).ogg" size="4639089" crc="8e93cd59" md5="58153cc949e5ef833490f094dc157515" sha1="1120cf7c2adcbc6ee83aff426d6ed557c32389e3">
+			<source frames="16828" pregap="0" duration="03:44:28" size="39579456" crc="5972f785" md5="a9edea8d433fd83bfb79e71cdf1bc419" sha1="214775e0621b841ef532d7b2f167955d7e21b917" in_zeros="564" out_zeros="6506" trimmed_crc="389db3cd" quality="8"/>
+		</rom>
+		<rom name="Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue].cue" size="1406" crc="0c7719c1" md5="b2eb163dd8d83a121a2e093479af4596" sha1="74dcae7a58d530726a27713162684fb4df191d1d"/>
+		<rom name="IMPEL/DEUTSCH.TXT" size="6128" crc="f0a5ed67" md5="fe8ac3a1afbfef29b0a5c99f50af2cfb" sha1="f8d1e5ea5a59886464cf33a78220dc56f5c9494c" date="1998-04-14 15:32:46"/>
+		<rom name="IMPEL/ENGLISH.TXT" size="10945" crc="aa0cf7a0" md5="91267c61f28f79292ca342be6836dd86" sha1="56fe03d2581c89c6703a33efe9cc4a4d0e948e45" date="1998-04-14 15:32:58"/>
+		<rom name="IMPEL/ESPANOLE.TXT" size="6804" crc="4d521234" md5="a41729bfca34dca5d814cb461352675c" sha1="0b8732960a205191a8c851f3d81ead5140dd3353" date="1998-04-14 15:33:10"/>
+		<rom name="IMPEL/FRANCAIS.TXT" size="6580" crc="af54b4f8" md5="bbdeac49c2e9305b0544bc9a1962303d" sha1="721cc23dbe6311d3cb8a00141eabe8b7452121d1" date="1998-04-14 15:33:24"/>
+		<rom name="IMPEL/ITALIANO.TXT" size="5764" crc="592d686a" md5="d70217a32e6b39abadf8f2a9c5177fd9" sha1="1287ea296aea17c03de735ae9c97def032b6e472" date="1998-04-14 15:33:36"/>
+		<rom name="IMPEL/LICENSE.TXT" size="4125" crc="998bff1c" md5="9995a36c559c6d839240311ba14dec5a" sha1="6942b33c35b7a22b8816237f1482f18246990e15" date="1998-03-27 12:04:26"/>
+		<rom name="IMPEL/MANUAL.DOC" size="15587" crc="e51fe2a6" md5="729fc99993120268c93d02c19a8c7e7a" sha1="ad148f03e77a60865596402f30f5dbfb12acc758" date="1998-04-09 13:19:22"/>
+		<rom name="IMPEL/PAK0.PAK" size="31837471" crc="988f73ef" md5="c5197d98e781dc2dbea84fa4a1240458" sha1="6db07efa61c5c5b2e379ff5bb903159a926947b0" date="1998-04-01 16:57:00"/>
+		<rom name="IMPEL/PROGS.DAT" size="668696" crc="cd69e4ba" md5="fd65f0b29f282ed886a032ac4e29ad7c" sha1="24f8591accc86c5544d9b1772166d9aaaf64989f" date="1998-03-21 14:58:20"/>
+		<rom name="IMPEL/README.TXT" size="769" crc="46705e99" md5="1ddd2c6dbe5dece695f1a8ecc2b52fd7" sha1="36dd8ae3f73678215f41f6a01946dedac992b559" date="1998-04-09 13:20:06"/>
+		<rom name="Quake (1996) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
 	<game name="Alley Cat (1984) (Synapse Software).dosz">
 		<description>Alley Cat</description>
 		<comment>Cracked PC booter disk</comment>
