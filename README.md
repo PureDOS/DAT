@@ -75,6 +75,16 @@ There can only be one .dosz.parent file but a parent can be a child of another p
 The DOSC for a child DOSZ can override files contained in a parent (DOSZ or DOSC).
 But a binary patch can only apply to a file that exists in the DOSZ with the same name as the DOSC.
 
+## Shared Saves
+If a DOSZ file contains an empty file with a .savename extension, modifications to the C: drive will
+be stored in a save file named after that file instead of the DOSZ file itself.
+
+For example, if parent and child DOSZ files each contain a .savename file with the same name,
+save data like configurations, options or game saves will be shared between them.
+
+Another example is for a game series in which a sequel can import save data from a predecessor. In such a case the
+DOSZ files of each entry of the series should be installed in a directory not directly in the root of the C: drive.
+
 ## DOSC Launch Configurations
 A DOSC file can specify more than one launch configuration by including a directory enclosed in [ ] brackets like `[My Config]`.  
 A supported emulator will then on startup ask the user which launch configuration (or the default) should be used.
