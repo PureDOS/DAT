@@ -4595,6 +4595,74 @@
 		<rom name="SERSETUP.EXE" size="20257" crc="64ea3378" md5="4494aa8d1840676aa676c6aac772b2eb" sha1="f41ebfc15378d2e2d0b70e60f4349bc4a3ccc2bd" date="1995-02-01 01:09:04"/>
 		<rom name="SETUP.EXE" size="45745" crc="0025fe95" md5="675564fcd380f5ef9beb0e7b21a51f79" sha1="f8644ace438896f9a788629d8da869bd34926f91" date="1995-02-01 01:09:04"/>
 	</game>
+	<game name="Dungeon Master (1992) (FTL Games).dosz">
+		<description>Dungeon Master</description>
+		<year>1992</year>
+		<developer>FTL Games</developer>
+		<comment>Installed from 1 3.5" floppy disk matching The Good Old Days ID: 1008</comment>
+		<comment_dosc>
+			Auto start with configuration setup
+			French and German language options
+		</comment_dosc>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1008</link>
+		<rom name="ANIM" size="5856" crc="aa76b615" md5="d0e7030ab590919047eba697c0127adf" sha1="654de702aece3c19a78369e9423612f6466d1298" date="1992-02-27 20:36:16"/>
+		<rom name="DM.EXE" size="11603" crc="8da23ef4" md5="37fcf2aa08aead7772de078f882ae223" sha1="106860d8a9ad2d9be87aa754e9cdfde68fc0da8f" date="1992-06-15 14:42:02"/>
+		<rom name="EGA" size="4938" crc="eb8796b0" md5="347c6f10f48c93008e8408195092f9f1" sha1="ed3589b3f716308f60f1c40cfe1c57f5487088e3" date="1992-03-12 11:49:14"/>
+		<rom name="END" size="364196" crc="5f4ac220" md5="c6df13a7d542a809b10aa8f620145525" sha1="167ba2e5bcabb0b48720709e1549e827415d705a" date="1991-10-25 18:40:26"/>
+		<rom name="EUDATA/DUNGEON.DAT" size="33357" crc="bf1c6ff1" md5="766450c940651fc021c92fe5d0d0b3a6" sha1="4cc39991e5ec2a66a070d82c2df99a076a9ac417" date="1991-12-02 03:31:52"/>
+		<rom name="EUDATA/DUNGEONF.DAT" size="33687" crc="289b0f89" md5="82c7802122e9cfb2dc117bc9d197f457" sha1="97369634076bc25e25cb2dfabb34b5a0faf135f3" date="1992-02-25 04:05:36"/>
+		<rom name="EUDATA/DUNGEONG.DAT" size="33705" crc="f491d31f" md5="b9487db563ff9e89605c77ee44d17d14" sha1="f84c09e5dd0d227d7053b4f22de0c4cf57dcdfef" date="1992-02-25 04:05:04"/>
+		<rom name="EUDATA/GRAPHICS.DAT" size="398925" crc="4c03cc00" md5="f934d97e43e1ba6e5159839acbcd0611" sha1="9c3c0174f8fc8f6440fdb87675b4d63a0f9e6c22" date="1992-02-26 14:59:10"/>
+		<rom name="EUDATA/SONG.DAT" size="162482" crc="f220742b" md5="c20e5b8f756e360a631595cc9260f62d" sha1="d7c1e87af19d5280de54f3860805e5741e04922c" date="1992-02-26 01:07:44"/>
+		<rom name="FIRES" size="94174" crc="8f37f87b" md5="1c9b81b5715c008a451012f95cd2177a" sha1="3fd497839e7d0563b63d92563f586c91459cc004" date="1992-05-05 17:28:32"/>
+		<rom name="IBMIO" size="8151" crc="db95546d" md5="f08ee4301329b467d1b3c7b524e111e6" sha1="325e339ce0b6e99f336e32b659420c3946cbf41e" date="1992-05-05 17:35:24"/>
+		<rom name="SELECTOR" size="15876" crc="2e0ebb1d" md5="d2b5f4ebd059e20de1c5220e5d8f0592" sha1="e946e606fa1b24a7adc0bc268af21a4c68025cea" date="1992-02-25 05:41:40"/>
+		<rom name="SWOOSH" size="7570" crc="418bc049" md5="a66b607f3850e604b6703e90bbfb5189" sha1="107dc43f9313a863d695e7a136d14cb3d4fa0e3e" date="1991-10-27 06:43:20"/>
+		<rom name="TANDY" size="4566" crc="4c1a47be" md5="1b810db031dd6703e326ef5527b406ce" sha1="23a0a9956c9545fef0f0857df4c6492dc15936c2" date="1991-10-27 06:09:46"/>
+		<rom name="TITLE" size="12002" crc="0b4488bd" md5="05c2ab94ce4dffe51b63985f7b0d1822" sha1="0c8e2bab9895927596cf99f0cd2ea17e7a47d62a" date="1991-10-28 16:56:30"/>
+		<rom name="VGA" size="4503" crc="37d43a95" md5="218895d977eaa86b25b803bf21c49f62" sha1="fdb1ef31efd3503af1cfe3b9ae282e19132e3b97" date="1992-05-05 17:35:32"/>
+	</game>
+	<game name="Dungeon Master II - The Legend of Skullkeep (1995) (Interplay Entertainment).dosz">
+		<description>Dungeon Master II - The Legend of Skullkeep</description>
+		<year>1995</year>
+		<developer>Interplay Entertainment</developer>
+		<comment>
+			Installed from Redump-verified CD-ROM: Dungeon Master II - The Legend of Skullkeep (USA)
+			Installation Options:
+				Animation files: SVGA animations
+			After install, delete line 1 (EREGCARD) from DM2.BAT
+		</comment>
+		<comment_dosc>
+			CPU max year set to 1995
+			Sound card set to sbpro2
+			Auto start
+			Configuration file
+		</comment_dosc>
+		<link type="media">http://redump.org/disc/23376/</link>
+		<rom name="CREDITS" size="5454542" crc="9ce23e0c" md5="8d83a751db963182d66efe6ca8af1c8b" sha1="957ddf0c2d791c00c5477fc3cf11f0c44f2e1d7c" date="1995-05-02 19:30:30"/>
+		<rom name="DATA/DUNGEON.DAT" size="39437" crc="2530a08a" md5="6caccd7875009e82fe2e28e7f6d6adc0" sha1="b0c15e9f69ccfedc9b69e85ae4653d243b75134c" date="1995-06-30 08:53:00"/>
+		<rom name="DATA/GRAPHICS.DAT" size="8639757" crc="c6d130f6" md5="25247ede4dabb6a71e5dabdfbcd5907d" sha1="0c6bd70b14e4bbe9bc623516bed32cc58a804478" date="1995-07-10 20:16:00"/>
+		<rom name="DATA/SONGLIST.DAT" size="63" crc="fa6cdaca" md5="bd11f8ded337c4aea978d1304b91b8eb" sha1="6dcd9bb8ad3a6445284a2653f3afe39ea9c3ff34" date="1995-05-10 10:17:00"/>
+		<rom name="DM2.BAT" size="20" crc="2d42ca9e" md5="03131e1fed57c266aa0d9a0b69d6e786" sha1="7712719a3e4bb1204ec585200e632e8ba01e8458"/>
+		<rom name="DOS4GW.EXE" size="265420" crc="cb214447" md5="ee4033581845b3b8d28c4b7287eb4fc2" sha1="a897c7eb79145a308c4e60b43413bb2daa360506" date="1994-09-22 09:07:00"/>
+		<rom name="DRUM.BNK" size="5404" crc="89422dd5" md5="eeb1a6fe3ccdd3634d1e05dfd7a83839" sha1="99e93d46b3997377f9b8264ffc0f69500b8ee450" date="1995-04-28 07:29:00"/>
+		<rom name="END" size="5078746" crc="8cd811cc" md5="ba2f2875963c47bd4195bf0a041d702d" sha1="eec9325ce1ebe794fda09a313f8262a15bf399a4" date="1995-05-02 19:51:44"/>
+		<rom name="FTL" size="495046" crc="7cace77a" md5="a354faedff81662cc8646a10acd94a4e" sha1="ab54454224e15ea2807fb4983a348fcf750ff31d" date="1995-04-20 20:35:46"/>
+		<rom name="HMIDET.386" size="83774" crc="ae8d1a06" md5="b6656f8af855be3184d2b9f10de91ef5" sha1="c3b75ab63273edfed1bb15acf59b321102781a96" date="1995-03-09 05:43:00"/>
+		<rom name="HMIDRV.386" size="317317" crc="21c398b8" md5="2de5f490362469628841199644a38e02" sha1="32c89e02cae4c33d1c0b93562f4ca0fe86c4a199" date="1995-03-09 05:42:00"/>
+		<rom name="HMIMDRV.386" size="117848" crc="8d8c0f2d" md5="c8702beb910ac9c082133d8ad235d3f0" sha1="b0ad2e339c5250b5dcee45f0fbaa366a0c119738" date="1995-04-24 02:23:00"/>
+		<rom name="IBMIOP.EXE" size="12626" crc="a76911bd" md5="5e5ab87181ce7f91e89ee8cf83f60cf9" sha1="6131f30a1e020ddb79d3b11f8792b914d57378a7" date="1995-07-12 19:04:00"/>
+		<rom name="INTRO" size="1747588" crc="6a3668c9" md5="8bca0cc92d0839dd47962a0d54b4f783" sha1="a4ee5119ea636f6d2e11cc798ee25d5430e935ff" date="1995-04-10 23:01:00"/>
+		<rom name="INTRPLAY.PCX" size="14545" crc="765c31b6" md5="24f1aec28055b94bedefaf5bd6ea1518" sha1="4f724f39f4dac842b74c3b3a4489d4589743dfd5" date="1995-05-08 20:14:00"/>
+		<rom name="MELODIC.BNK" size="5404" crc="4df263e3" md5="1d9a86daf501e15809e1564e1f11cd8d" sha1="16dd525007c488a25db2b9aaae92cdadf126c425" date="1995-04-28 07:29:00"/>
+		<rom name="README.TXT" size="1885" crc="21e7ab6a" md5="ca9af8eed3ccd706f181cf1423bbc362" sha1="0ce43aa7f884f31c7e4343f7da2a3d914ec484a5" date="1995-07-18 08:57:00"/>
+		<rom name="SETUP.EXE" size="188279" crc="4619d072" md5="32cc9f4bf18d7ead0b009cb3c521bfe0" sha1="03063a1e4ee8378a8ee3490747e399330548ffa3" date="1995-03-29 06:01:00"/>
+		<rom name="SETUP.INI" size="2702" crc="b7a0262c" md5="d50abc8cb6bdb17a34bf0c0e41a9659e" sha1="04305a9987045e2081504924345974f094c71c6c" date="1995-05-08 00:54:00"/>
+		<rom name="SKULL.EXE" size="522637" crc="c1526f95" md5="c03ec00e0f4e3d9b7fca6c26ced5936f" sha1="cac271f2a3302521f61b36a1d9b46d7d68f3ce3f" date="1995-07-13 09:54:00"/>
+		<rom name="SPLASH" size="22179" crc="649a0dc6" md5="a879d6074f8ae8d21b92aa05e03c3146" sha1="9583384d1228dfe39d53e6ea07d986b837993e5a" date="1995-04-18 23:49:00"/>
+		<rom name="TEST.HMP" size="9645" crc="cae81ef1" md5="761ae1cdb41e672efd6088bde8b95c47" sha1="3e19df024f4ec9727fc37eb1d487aaaf2d1e560e" date="1995-04-25 10:07:00"/>
+		<rom name="TEST.RAW" size="40320" crc="0d2d49b8" md5="7cc517930c314be6ca818395934e9850" sha1="13b15b9f8a0b7d98176f9437aca149301c576458" date="1995-03-29 06:01:00"/>
+	</game>
 	<game name="Elder Scrolls Adventures, The - Redguard (1998) (Bethesda Softworks).dosz">
 		<description>Elder Scrolls Adventures, The - Redguard</description>
 		<comment>Combined software rendering and 3dfx versions, installed from CD. Needs glide2x.ovl from Monster 3D v1.08 drivers. Needs DOS.YML with mem_size: 65536</comment>
