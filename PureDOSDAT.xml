@@ -15026,6 +15026,29 @@
 			<rom name="WL.EXE" size="62549" crc="8dc6cb12" md5="cda6a97c822dae9e406663bb0ea0d933" sha1="d77aa9f4a6f33f2bf1dcfb49448c18f57394a4c1"/>
 			<rom name="WLA.BIN" size="4209" crc="19ceeaee" md5="0c5ebd7f4936eaa9beb7b085927f05e7" sha1="14cc1b337dce8199952f6ebe4e00d5ff236711e5"/>
 	</game>
+	<game name="Wing Commander III - Heart of the Tiger (1994) (Origin Systems).dosz">
+		<description>Wing Commander III - Heart of the Tiger</description>
+		<year>1994</year>
+		<developer>Origin Systems</developer>
+		<comment>Runs directly from the discs</comment>
+		<comment_dosc>Sound Blaster 16 config, English language, subtitles enabled, mouse control enabled, and auto start. MT-32, General MIDI, French, and German options</comment_dosc>
+		<link type="media">http://redump.org/disc/22283/</link>
+		<link type="media">http://redump.org/disc/22284/</link>
+		<link type="media">http://redump.org/disc/22285/</link>
+		<link type="media">http://redump.org/disc/22286/</link>
+		<rom name="Wing Commander III - Heart of the Tiger (USA, Japan) (En,Fr,De) (Disc 1).chd" size="700128000" crc="55624ba1" md5="c50459456fce969fda42d4ef27e215bd" sha1="80daa163d0011e1fbf68cea33884730e95d180ba">
+			<track number="1" type="MODE1_RAW" frames="285931" pregap="0" duration="63:32:31" size="672509712" crc="705af4b8" md5="e7c50b265103cb6618bbca783f8fcb0e" sha1="ba3a6539b89eae5a81b0a7742e07631390bc89f6" in_zeros="1" out_zeros="0"/>
+		</rom>
+		<rom name="Wing Commander III - Heart of the Tiger (USA, Japan) (En,Fr,De) (Disc 2).chd" size="675922176" crc="67cefcd3" md5="6f1c32d6e992fb22a6c221fe210be2f2" sha1="c7e0f76ca47efd45641f86b7fc58302f3c54ad1f">
+			<track number="1" type="MODE1_RAW" frames="276046" pregap="0" duration="61:20:46" size="649260192" crc="69c14846" md5="fd76c56b559556e5b4f2cc43bcf67acc" sha1="2882c0a4a5333a5f8cbc8eddd1bb0896e6c1bb39" in_zeros="1" out_zeros="0"/>
+		</rom>
+		<rom name="Wing Commander III - Heart of the Tiger (USA, Japan) (En,Fr,De) (Disc 3).chd" size="690629760" crc="95932b16" md5="c5d286fea041b818a7b3a08324dfcc53" sha1="331c1e7b8ad415bf997a2d675715cd217ff18e7c">
+			<track number="1" type="MODE1_RAW" frames="282054" pregap="0" duration="62:40:54" size="663391008" crc="756d7020" md5="4fc6e28739e89d5f0df3efceb7892337" sha1="dc48190ca498eb45ae0967327621aff66a4faf48" in_zeros="1" out_zeros="0"/>
+		</rom>
+		<rom name="Wing Commander III - Heart of the Tiger (USA, Japan) (En,Fr,De) (Disc 4).chd" size="702478080" crc="0e8bc23e" md5="537fe478bfb70a980e955701427c5800" sha1="cf563863ffa452fd817ee2b41731a686a4edecca">
+			<track number="1" type="MODE1_RAW" frames="286891" pregap="0" duration="63:45:16" size="674767632" crc="09e0c53e" md5="8cbd84259685e20fc8df7fafed154ab4" sha1="b147a9e7b4f286f48e91f67003f57193a7b79051" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
 	<game name="Wolfenstein 3D (1992) (id Software).dosz">
 		<description>Wolfenstein 3D</description>
 		<comment>Based on version 1.4g with Activision branding</comment>
