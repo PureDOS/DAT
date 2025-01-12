@@ -27,6 +27,17 @@
 		<variant>Installation</variant>
 		<rom name="disk1.img" size="737280" crc="70b57db8" md5="c9249d3b69ba860e7e24373d484aa1d6" sha1="7ab88ce458e2cf2c88f466e3dca499d4af9c60df"/>
 	</game>
+	<game name="Asterix &amp; Obelix (1996) (Infogrames) (Installation).dosz">
+		<description>Asterix &amp; Obelix</description>
+		<year>1996</year>
+		<developer>Infogrames</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/30953/</link>
+		<rom name="Asterix &amp; Obelix (Europe) (En,Fr,De,Es,It,Pt).chd" size="29493504" crc="0ca046d6" md5="535034ea9a45aadbc44b285387590918" sha1="a89f144a493c1f58f19816b7a3e67244e17a3a60">
+			<track number="1" type="MODE2_RAW" frames="10260" pregap="0" duration="02:16:60" size="24131520" crc="ea38fe90" md5="6d499a76c72d0bbc5c93c0f69714605d" sha1="27d3b260564e7afbc7f300ba7f578a244d2d704d" in_zeros="1" out_zeros="0"/>
+			<track number="2" type="MODE2_RAW" frames="1774" pregap="150" duration="00:23:49" size="4172448" crc="3ab97680" md5="8ee6e37d5b78ec71a62a79e75692cdf3" sha1="b2f35b307de45f97a21ab2ed52b43e92b7a0b1c2" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
 	<game name="Bedlam (1996) (GT Interactive) (Installation).dosz">
 		<description>Bedlam</description>
 		<comment>Redump-verified version of Bedlam (USA)</comment>
