@@ -10,6 +10,63 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
 	</header>
+	<game name="Descent II (1996) (Parallax Software) (GOG).dosz">
+		<description>Descent II</description>
+		<comment>Needs GOG's default DESCENT.CFG file</comment>
+		<comment_dosc>Required DESCENT.CFG file and auto start</comment_dosc>
+		<year>1996</year>
+		<developer>Parallax Software</developer>
+		<variant>GOG</variant>
+		<link type="store">https://www.gog.com/en/game/descent_2</link>
+		<rom name="ALIEN1.PIG" size="5016232" crc="3d44d665" md5="b0619642eeb50ac4d5198499a26b7355" sha1="80e040199b347f8f17f31afb32d551113cf40956" date="2017-11-22 13:42:28"/>
+		<rom name="ALIEN2.PIG" size="4912053" crc="106032b2" md5="a242d46dfd0f16454f6f5377cbb424a5" sha1="2bbb8d941f8b06b56d5ddc7f723a206907a95548" date="2017-11-22 13:42:28"/>
+		<rom name="DEMOS/descent2.dem" size="1168217" crc="5cf37eba" md5="6c0d51cd4ff04030e66423895f74be72" sha1="26ab4ceb00ef1cbd1dfd29a6f7bdd9f6bb28de07" date="2017-11-22 13:42:28"/>
+		<rom name="DESCENT.CFG" size="390" crc="d298fb65" md5="856c04c96fb278d8a825ee0fb48aeb96" sha1="d5f9e7e387f252efa870f6cff317b9eb7906ea07" date="2017-11-22 13:42:36"/>
+		<rom name="DESCENT2.EXE" size="1507821" crc="183f70f3" md5="f6a3c0f932e776b892d7529bca7f05f7" sha1="8a57115ff07574b729f2994d59e92a2b5f9aa11e" date="2017-11-22 13:42:28"/>
+		<rom name="DESCENT2.HAM" size="1307598" crc="7e4781ed" md5="7f30c3d7d4087b8584b49012a53ce022" sha1="9f621706cbd601bd6938a44f5fb7e5cc55d4b61f" date="2017-11-22 13:42:28"/>
+		<rom name="DESCENT2.HOG" size="7595079" crc="60bb6742" md5="1d4cd6418dd7adfc5d312c04c265e5e6" sha1="8e73beb4b64a7222fa2b5214282d5e671b313992" date="2017-11-22 13:42:28"/>
+		<rom name="DESCENT2.S11" size="2602492" crc="5d127996" md5="cc802a0558775498748d301b86257e92" sha1="72372b2fc9f88553fae6e26aba34a7c433322051" date="2017-11-22 13:42:28"/>
+		<rom name="DESCENT2.S22" size="5160905" crc="97f8408b" md5="9a96c651e3e68b5c4febae6e1f492897" sha1="f67d22b5aa2e06b286719e063b4e054169a765b1" date="2017-11-22 13:42:28"/>
+		<rom name="DESCENT_II.gog" size="447992496" crc="f6c29212" md5="d2fa5822d1a0e630ccaf555114f8b676" sha1="fa7e8e70f63af1f0b96e6679284b3b38fd499412" date="2017-11-22 13:42:36"/>
+		<rom name="DESCENT_II.inst" size="404" crc="4bc3cc88" md5="3a6b9a8f73c6461cd7783d49d1767fb4" sha1="2bb61168536fc6a784c9ad456f9210d3c464cfa1" date="2017-11-22 13:42:28"/>
+		<rom name="DESCENTG.INI" size="3311" crc="9ed8e4d2" md5="deaaa176b89f0d27a0392357e95da52a" sha1="5a7d59cc7a6ca3f1860e3803235283d56e36ed8a" date="2017-11-22 13:42:28"/>
+		<rom name="FIRE.PIG" size="4973944" crc="e2bad00a" md5="b40c8690c6a9467d76ef5732b9e10663" sha1="6365ed9256411e883189e7c2149671f9de24526b" date="2017-11-22 13:42:28"/>
+		<rom name="GROUPA.PIG" size="4931752" crc="6dcf8432" md5="b18a27d1ef0dd04aebbbf818c430a578" sha1="fc3dd5059ff445986d05c143c54284bd7ec2ee68" date="2017-11-22 13:42:28"/>
+		<rom name="HMIDET.386" size="81915" crc="a2e42083" md5="7edc1dc9570be886e80e91ec891edf54" sha1="ed25c710e8ac1c77117c8f6fb2739ba07c48464d" date="2017-11-22 13:42:28"/>
+		<rom name="HMIDRV.386" size="261273" crc="878b942a" md5="e337a2dd5dfdb5fded0af39efbb915f1" sha1="32c871ae855f84757c91c9aaf7f9cbb324dcd83f" date="2017-11-22 13:42:28"/>
+		<rom name="HMIMDRV.386" size="111928" crc="051fbae5" md5="cbf3af151d45f09831a213999dcfa3d5" sha1="b95c74f3968e6d2fb53d5343ec879d6abd1050bf" date="2017-11-22 13:42:28"/>
+		<rom name="ICE.PIG" size="4926111" crc="b5fb61be" md5="d2a2f49892935395592bb56ae1a0f21e" sha1="f3df0545359e9f2a7f58a4dd07615bd87cce10bf" date="2017-11-22 13:42:28"/>
+		<rom name="INTRO-H.MVL" size="99782888" crc="976cce6d" md5="7853a531b3c2f0e20b3996f4cac14ae4" sha1="9614aac967aa9f2efe10af553e506e27bb91e5ba" date="2017-11-22 13:42:30"/>
+		<rom name="MISSIONS/d2-2plyr.hog" size="194870" crc="d1f90af0" md5="de49d2cef498e744270a8fd48290cb44" sha1="15767e36f12ed8667249e19e948686c13dd5d90b" date="2017-11-22 13:42:30"/>
+		<rom name="MISSIONS/d2-2plyr.mn2" size="93" crc="77fa0c28" md5="02e864529ee9ea0d5003ca46c3766149" sha1="db13b038e5b3b8ccbc6f2418bbe49dc0bac87235" date="2017-11-22 13:42:28"/>
+		<rom name="MISSIONS/d2chaos.hog" size="331847" crc="45178888" md5="e096dfef3276ba575309501f85f15f06" sha1="156f66ae7ae48fff582116bdf0e91e0f3386b3af" date="2017-11-22 13:42:30"/>
+		<rom name="MISSIONS/d2chaos.mn2" size="119" crc="27b1d67d" md5="70624a8ef81f7278a7fef8be38aa2732" sha1="bf266256dc726852bad4896861a1dfad4022f8b1" date="2017-11-22 13:42:30"/>
+		<rom name="MODEM.LST" size="98" crc="5d1f4698" md5="57fe3daab399e529e98182bb2a4626cd" sha1="3c29ddded2a0bbb015d540ced4813d15260ef270" date="2017-11-22 13:42:28"/>
+		<rom name="OTHER-H.MVL" size="104199780" crc="febefdf8" md5="1a366be61a37311b051ff1e38bc9156f" sha1="e8f1a2d643feb2731fc05974ab202c4cd3aea0fd" date="2017-11-22 13:42:30"/>
+		<rom name="PCXVIEW.EXE" size="20028" crc="388aaa5d" md5="b043433a3d330733f09b2e2db146e902" sha1="8c63e99eaf1eb282dda4f7b472b5f4e423963718" date="2017-11-22 13:42:28"/>
+		<rom name="readme.txt" size="39179" crc="3ab7a0af" md5="31dbbc0a3c7641036ee4d2adc2ed6f60" sha1="9be0238736785b59a5d7ef6077d5aca865df1135" date="2017-11-22 13:42:28"/>
+		<rom name="ROBOTS-H.MVL" size="16766970" crc="ab851ff2" md5="2e10f1d66cf7ab69db05673a32a9ca72" sha1="c130ecda730b5ce111947308a33b7911759fb3a5" date="2017-11-22 13:42:28"/>
+		<rom name="ROBOTS-L.MVL" size="5087804" crc="2639d408" md5="f4164b1db5b417aefa9558a0ccb4f6e1" sha1="42be364b135bb2c3497ca39839533bde49c08644" date="2017-11-22 13:42:28"/>
+		<rom name="SETUP.EXE" size="802783" crc="32319709" md5="a7e8d99619c7d5b6c34e450cf6436a65" sha1="60a040a0c7f881c34c8f083c8614c09ffc127294" date="2017-11-22 13:42:28"/>
+		<rom name="WATER.PIG" size="4833463" crc="3cf9b0be" md5="4722f02a4c5bfb3b17fe8da8d4141191" sha1="1874f70353680a803811a5ff2cce949e3f5d5076" date="2017-11-22 13:42:28"/>
+	</game>
+	<game name="Descent II - The Vertigo Series (1996) (Parallax Software) (Installation).dosz">
+		<description>Descent II - The Vertigo Series</description>
+		<year>1996</year>
+		<developer>Parallax Software</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/37289/</link>
+		<rom name="Descent II - The Vertigo Series (USA).chd" size="349554816" crc="575a068a" md5="b1d60a226da022f15672f7ac067569ad" sha1="01e7e723766ea48c49ff60291d696aa1f5d7a664">
+			<track number="1" type="MODE1_RAW" frames="23311" pregap="0" duration="05:10:61" size="54827472" crc="1e380cb7" md5="fe2533786993dbef1c38ce3439252192" sha1="b79c8791884832aec8e6a2c5d5209aa8c24cbafa" in_zeros="1" out_zeros="0"/>
+			<track number="2" type="AUDIO" frames="20866" pregap="150" duration="04:38:16" size="49076832" crc="319cf256" md5="ca3f6142a32dfea00c9385fd43e197df" sha1="2f3ebe895f5951d6c8a041286ac53dea29e2369d" in_zeros="364918" out_zeros="562072"/>
+			<track number="3" type="AUDIO" frames="9737" pregap="0" duration="02:09:62" size="22901424" crc="c1f0fb3b" md5="9e5f6be8f3964932551997fced8d6f50" sha1="e52803c674af6c0342151d97cb9e5d98fc6a0deb" in_zeros="6052" out_zeros="348661"/>
+			<track number="4" type="AUDIO" frames="22121" pregap="0" duration="04:54:71" size="52028592" crc="700f5fd3" md5="3000b409f24824b91487dd807f44f726" sha1="fab533265ceb3b0b53cf0d5bc32863da0e2e5548" in_zeros="6048" out_zeros="346757"/>
+			<track number="5" type="AUDIO" frames="16417" pregap="0" duration="03:38:67" size="38612784" crc="90ca4b7a" md5="17939e42bc6033b1c6fb4fd02859c7bf" sha1="2adcf0c8eba23d66dad3407bb5c3b0243ee0ac1e" in_zeros="11604" out_zeros="352801"/>
+			<track number="6" type="AUDIO" frames="17381" pregap="0" duration="03:51:56" size="40880112" crc="cfc06c72" md5="2610d680fa53874799382113dd2ab4bf" sha1="4f3154f9cfd2e3a0ae0769aa44821e519dd45aa3" in_zeros="8220" out_zeros="362975"/>
+			<track number="7" type="AUDIO" frames="19454" pregap="0" duration="04:19:29" size="45755808" crc="0e50d09a" md5="2899e391dcb2dc642f80b254e89aac9d" sha1="9a45bc9179e9b08b65a0b3bdfb1379d996df14b7" in_zeros="9796" out_zeros="386955"/>
+			<track number="8" type="AUDIO" frames="14901" pregap="0" duration="03:18:51" size="35047152" crc="975af50c" md5="fe83c4562b96d7a504dc80494e6d0b61" sha1="b05ae5cd5fc87bfc28859637571395a19135bdfc" in_zeros="9638" out_zeros="719287"/>
+		</rom>
+	</game>
 	<game name="Ultima Underworld I &amp; II (1993) (Looking Glass Technologies) (Installation).dosz">
 		<description>Ultima Underworld I &amp; II</description>
 		<year>1993</year>
