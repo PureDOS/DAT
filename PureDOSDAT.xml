@@ -9130,6 +9130,28 @@
 		<developer>Shamusoft Designs</developer>
 		<rom name="JMAN2.EXE" size="136431" crc="3dfb6c14" md5="e309d0b11099c3562a874c3d4fa7bd84" sha1="ec480c0b682169710cbd622903b717771ef75a74"/>
 	</game>
+	<game name="Jungle Book, The (1995) (East Point Software).dosz">
+		<description>Jungle Book, The</description>
+		<year>1995</year>
+		<developer>East Point Software</developer>
+		<comment>
+			Installed from 3.5" floppy disks matching with TGOD ID: 1921
+			Sound setup:
+				Sound Card: Sound Blaster 16
+				Base Address: 220
+				IRQ Number: 7
+				DMA Channel: 1
+			JUNGLE.CFG needs to be present for it to be changed again with INSTALL.EXE
+		</comment>
+		<comment_dosc>Required config file and auto start</comment_dosc>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1921</link>
+		<rom name="EPSMIX32.DLL" size="6144" crc="fe73806a" md5="e3d5a0c5f1ec011106ef1f1f22df7439" sha1="7549ca5f8396e2059e93dbb4e6004e3955cd0087"/>
+		<rom name="INSTALL.EXE" size="13048" crc="042754a4" md5="2787634d819bc0169a8e388c3cb059b1" sha1="2e5b9188ab8a0a4ef648b7a1a958d18cd9144bff"/>
+		<rom name="JUNGLE.CFG" size="125" crc="1450f1f8" md5="0931ff1393402ec9acbbafc693dadfef" sha1="0836cf47497c24b3d49cd3d197991d4b03bbd9fc"/>
+		<rom name="JUNGLE.EPF" size="2285395" crc="b1df83db" md5="8fedc9145e168a847e24909a65b261d7" sha1="3889a7a00b5e0dc77e46a655bb6b44deac2ecacc"/>
+		<rom name="JUNGLE.EXE" size="635639" crc="6dcdcff1" md5="6614958efda3d52fadbbc5cde5828219" sha1="a43080c19ca49500d40ad6c6fd471f59cdc51d86"/>
+		<rom name="JUNGLEW.EXE" size="265728" crc="b92f8b20" md5="6836c8634970af8a369d12127826a951" sha1="a76276733f077ae6193dfa102409999c8da287ec"/>
+	</game>
 	<game name="Liero (1999) (Joosa Riekkinen, Johan Otterud).dosz">
 		<description>Liero</description>
 		<comment>v1.33</comment>
