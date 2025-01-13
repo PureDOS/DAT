@@ -8736,6 +8736,145 @@
 		<rom name="VGA320.DRV" size="4461" crc="89f94bd3" md5="a20bc0b69ad2d3f04d9fab76f741b249" sha1="68495fab87f18109c23b80ee2e5feaa60235c638" date="1991-07-01 09:48:26"/>
 		<rom name="VGA320BW.DRV" size="4369" crc="68f8461e" md5="ed4c40263f1314548f71a3714cb3610a" sha1="23b6344e0429527534c7494d45bfc5b990ff3445" date="1991-05-06 11:21:52"/>
 	</game>
+	<game name="International Rugby League (1996) (The Creative Assembly).dosz">
+		<description>International Rugby League</description>
+		<year>1996</year>
+		<developer>The Creative Assembly</developer>
+		<comment>
+			aka ARL 96. Installed from CD matching with Redump: International Rugby League (Europe)
+			Installation options:
+				Path: C:\IRL
+				Digital Audio: Sound Blaster 16
+			CD image converted with CHDtoOGG
+			DIG.INI (audio config) is in the DOSZ because it can't be changed again without reinstalling the game
+			IRL.DAT contains the paths
+		</comment>
+		<comment_dosc>Required config files and auto start</comment_dosc>
+		<link type="media">http://redump.org/disc/72364/</link>
+		<rom name="International Rugby League (Europe) (Track 1).bin" size="258179040" crc="9df276dd" md5="adc892bf9676e0ae85a8f57da4050af9" sha1="6052cad1e6ba5c0e3fbb86d6bdae8f0d95ffad8f"/>
+		<rom name="International Rugby League (Europe) (Track 2).ogg" size="12299088" crc="6954fc35" md5="c93b3597a56cca04efffd4ba93ab81c9" sha1="75206e61656e1e112a81d41965664341fc966f87"/>
+		<rom name="International Rugby League (Europe) (Track 3).ogg" size="11307071" crc="006faef8" md5="c4ec696ea58a6b36f169565d103b7dc4" sha1="6a18ae6e169c672bab15144d5b83cbce3c24acb2"/>
+		<rom name="International Rugby League (Europe) (Track 4).ogg" size="12456890" crc="b2c9cea6" md5="739a9c89d44addb5f39bf020f51ba94d" sha1="fe40dd7e20958fcf5b25d8a9b66fb5618bba0e09"/>
+		<rom name="International Rugby League (Europe) (Track 5).ogg" size="12688951" crc="413734b5" md5="d2b61f002861836e80f914e16b8ad8a4" sha1="716c6341ca9d69b495c2019947b8217e4fe467db"/>
+		<rom name="International Rugby League (Europe) (Track 6).ogg" size="13659703" crc="689e35ff" md5="6c32062746c5a2faf9a4cb46678650d0" sha1="f5c4205bb8495b7f427a7245b6d5bd6fd07553f6"/>
+		<rom name="International Rugby League (Europe).cue" size="647" crc="941a0f23" md5="83b674fe7943b5b91d5e6321108f176e" sha1="c058db2c253cc80438344689fdfdcbfdb491dff5"/>
+		<rom name="IRL/ADRV688.DIG" size="11278" crc="96dfb75d" md5="feabc78729e3a458ae2f6ab40146f0d9" sha1="255ecb5d649895d65bca49bd6afcbdf875e34bf2"/>
+		<rom name="IRL/DATA/TEAMDB.TXT" size="8944" crc="75cd6ef0" md5="ac56fda66f6fb2dc41fabd7ebea5417e" sha1="d7e83882af588fc4055655f57841c0c9c15a5d74"/>
+		<rom name="IRL/DIG.INI" size="206" crc="fbbd45ac" md5="9b62de388b4acebbb53b9bcfdcb347af" sha1="931b07e30d0835e772227d51c16d08da0af8df7f"/>
+		<rom name="IRL/DOS4GW.EXE" size="265396" crc="5cc34b0f" md5="006211ca60fa3d4b38a9a8da2ade1056" sha1="c489f83dc15a9ffc3c502707da40e581ec79bfe6"/>
+		<rom name="IRL/DOSIRL.EXE" size="1577240" crc="7380e28c" md5="620a9699345c768093173f171291c01b" sha1="c652aa9c2b07b945863a1e046838b81383a7447f"/>
+		<rom name="IRL/DSETUP.DLL" size="20992" crc="7001694e" md5="f99d436727dab3f5437d32b69d6d227d" sha1="d6f8c0f152df75b3d7a5929bf61748dd0af55464"/>
+		<rom name="IRL/DSETUP16.DLL" size="33376" crc="4eceae92" md5="766d7f904f2eb525664bcbd3032a9dda" sha1="4f72c5a6f13202a6cb7948095a80dbca4575b2ba"/>
+		<rom name="IRL/DSETUP6E.DLL" size="34400" crc="d7d3f7db" md5="bad89cc54c69b16bf557529346f53c08" sha1="ddba6178820ba4e49649bd76759b51587f5a1c00"/>
+		<rom name="IRL/DSETUP6J.DLL" size="34288" crc="45927704" md5="de549d9848c41066daa04d71548a3287" sha1="aaa24580b679722d062af3df3703c3e89720c075"/>
+		<rom name="IRL/DSETUPE.DLL" size="41984" crc="9e1c77ee" md5="ccdadf340e2f857851171429d5eb98d1" sha1="cd846df41aae4ed94bc2848c2bcc32b2fd8b9c31"/>
+		<rom name="IRL/DSETUPJ.DLL" size="41984" crc="ab2f677e" md5="2ccfe4ef8215deb79d20f97cef09c669" sha1="83b97d9724c57edc1640a928c6cc87f6081f950f"/>
+		<rom name="IRL/FONT/480_01_D.DWD" size="376" crc="c068eb0b" md5="6de76d25775c971f2d8e659aad74e76d" sha1="8b58efb6ed5169e0813db9999d554f180734b644"/>
+		<rom name="IRL/FONT/480_01_D.SPR" size="19759" crc="ee10a9f7" md5="b189939f632c498ef8eeb2529cec558b" sha1="1f96b5941fa7469776317d4c02bd7129cb170c8c"/>
+		<rom name="IRL/FONT/480_01_D.WTH" size="98" crc="49126c0f" md5="401b726285ea9d7a141cac726e8d1506" sha1="870955b04d15df88d879bdac8b9fe1fc01e45a3f"/>
+		<rom name="IRL/FONT/480_01_L.DWD" size="376" crc="c068eb0b" md5="6de76d25775c971f2d8e659aad74e76d" sha1="8b58efb6ed5169e0813db9999d554f180734b644"/>
+		<rom name="IRL/FONT/480_01_L.SPR" size="19759" crc="3e9cbb57" md5="6dc5d326417f3487ebca8930f3e6da7c" sha1="c5e1d8d484efaba3348615727cdad25165498551"/>
+		<rom name="IRL/FONT/480_01_N.DWD" size="376" crc="c068eb0b" md5="6de76d25775c971f2d8e659aad74e76d" sha1="8b58efb6ed5169e0813db9999d554f180734b644"/>
+		<rom name="IRL/FONT/480_01_N.SPR" size="19759" crc="c08db08d" md5="ffe4721a0ffba649dc2962b94f35af66" sha1="c33e9d116d3d86db77be1bbd7f9ff61558d919fc"/>
+		<rom name="IRL/FONT/480_02_D.DWD" size="376" crc="0c576cf5" md5="05e1604a2cac307a443d656cee628aab" sha1="8e7f85599305cf20e50cba0af3526d1d5d2279c4"/>
+		<rom name="IRL/FONT/480_02_D.SPR" size="11397" crc="44cabbfe" md5="2a390899501b860102b56cbd61172abb" sha1="7524cfe86d5c2d05b2d407ff68e9d052d567de2b"/>
+		<rom name="IRL/FONT/480_02_D.WTH" size="98" crc="f77d58d2" md5="414e66b0048489859e2fdb697846e826" sha1="b75ab84e3f7fb75b2069b3c36cfef7bd6cf35e20"/>
+		<rom name="IRL/FONT/480_02_L.DWD" size="376" crc="189cc9e1" md5="769249eff011b5cd2fdd06c6787fac8c" sha1="4eeceb4c7cbcfdef67d7addcf27819b33fc3a29e"/>
+		<rom name="IRL/FONT/480_02_L.SPR" size="11410" crc="5ff3298e" md5="7da420469808638a90b40acd5050efe9" sha1="c4a18395489983d2a64c9a7eab869b0d1b0efba0"/>
+		<rom name="IRL/FONT/480_02_L.WTH" size="98" crc="c04a139b" md5="f59439662c80a9607f7d13c5e9e8945a" sha1="0a5caa3282d7a004806ba3dcdfea5e8c301cfd3a"/>
+		<rom name="IRL/FONT/480_02_N.DWD" size="376" crc="189cc9e1" md5="769249eff011b5cd2fdd06c6787fac8c" sha1="4eeceb4c7cbcfdef67d7addcf27819b33fc3a29e"/>
+		<rom name="IRL/FONT/480_02_N.SPR" size="11410" crc="21b229a0" md5="33dd078d4d2bc4f0a472b8f6a2ff77d0" sha1="31a84c3721a219125b99028082c59ad795afbb59"/>
+		<rom name="IRL/FONT/480_02_N.WTH" size="98" crc="c04a139b" md5="f59439662c80a9607f7d13c5e9e8945a" sha1="0a5caa3282d7a004806ba3dcdfea5e8c301cfd3a"/>
+		<rom name="IRL/FONT/T480_01.DWD" size="360" crc="02763991" md5="7c4570b2c6df86d591556a7d6635f74c" sha1="d97444da49c223740024707864fea9b9c916269f"/>
+		<rom name="IRL/FONT/T480_01.SPR" size="34581" crc="db07f0f8" md5="c609875646d975fe6e2dbed128d26f2d" sha1="fc9780b896b7a488af2e8bc75f1acd98d030159e"/>
+		<rom name="IRL/FONT/T480_01.WTH" size="94" crc="27c420e7" md5="6ff3d6f16cb7b7c10a6564079ff06b81" sha1="f06a3b7ebfeb98c8fa57f16923147d022ba61c7f"/>
+		<rom name="IRL/FRONT_EN/ANIM/FLAG.PAL" size="144" crc="f814cee1" md5="d958ccb8482c37b4b2032d7042998e24" sha1="4abfe4f65770793aef3093e79d409edffc129054"/>
+		<rom name="IRL/FRONT_EN/ANIM/VIDEO.PAL" size="384" crc="193e45f2" md5="7641a53beab4797a86380733a04915a7" sha1="3f0ff05ae3c252633e2b2c2f9dac8513a5140b9c"/>
+		<rom name="IRL/FRONT_EN/DRIVERS/ADRV688.DIG" size="11278" crc="96dfb75d" md5="feabc78729e3a458ae2f6ab40146f0d9" sha1="255ecb5d649895d65bca49bd6afcbdf875e34bf2"/>
+		<rom name="IRL/FRONT_EN/DRIVERS/AILDRVR.LST" size="17522" crc="b1247c84" md5="811e7f385ad1ea08c0b0eb6f5f24e425" sha1="e3f4cfbebc892feb223103c8f33d354301cbc3d9"/>
+		<rom name="IRL/FRONT_EN/DRIVERS/JAMMER.DIG" size="3219" crc="230129e0" md5="4922c729c5e7b347089a2be44f296859" sha1="103e0bf92c6fd1c9fc925fd57bdc22e56170b395"/>
+		<rom name="IRL/FRONT_EN/DRIVERS/PROAUDIO.DIG" size="2127" crc="4b071066" md5="a054071be574b2bcf47a0386f1a98ae6" sha1="8debfb262849ebce1da3d45387d1595712c2667b"/>
+		<rom name="IRL/FRONT_EN/DRIVERS/RAP10.DIG" size="2849" crc="47373ef0" md5="bb846bb23ee9065a09373afdb73cf054" sha1="6081bc6e447afeaad48a8361c92e7ce280f6ea7e"/>
+		<rom name="IRL/FRONT_EN/DRIVERS/SB16.DIG" size="2836" crc="6ddaa5d2" md5="b24e361b7634b9b3eafcd2cbb592ba9b" sha1="f0734dae77c034f5cfcd7b353cd75adfb57871af"/>
+		<rom name="IRL/FRONT_EN/DRIVERS/SBLASTER.DIG" size="2914" crc="bdc65841" md5="05c4b52546cea64ed1f0b1216278e884" sha1="79342d8819c9662fb1427a9c3be8272e84bf5bf6"/>
+		<rom name="IRL/FRONT_EN/DRIVERS/SBPRO.DIG" size="2763" crc="1061490f" md5="b0fe50da778c24cc4066e960a3d1a7c3" sha1="8bc27ebd0ec30dabfd354b948801946b7e8f33d8"/>
+		<rom name="IRL/FRONT_EN/DRIVERS/SNDSCAPE.DIG" size="4171" crc="708a96a2" md5="9d7a052a680f45d244e0ee4735b7b55f" sha1="f9902b74d545813315194f5a1791c4ea0a9a1e0d"/>
+		<rom name="IRL/FRONT_EN/DRIVERS/SNDSYS.DIG" size="3332" crc="86ecb774" md5="c67142fe53599b28ff7d53565576dbae" sha1="72a300265348a67c33945d0aa6b5c0ec3933dbcd"/>
+		<rom name="IRL/FRONT_EN/DRIVERS/ULTRA.DIG" size="9478" crc="430d67f5" md5="000e584a06712d2f2b58eb2e17b65248" sha1="4327d6bb924b4e40fa7ff035bdfb73a879c31836"/>
+		<rom name="IRL/FRONT_EN/DRIVERS/VESA480.DLL" size="19028" crc="4cc3d6da" md5="258f229be7137d7b8b1970d9199d0934" sha1="23471c2b0658e40eecb5ceb6f2641279323e4c2a"/>
+		<rom name="IRL/FRONT_EN/DRIVERS/VFXSCAN.DLL" size="4265" crc="2998a8ab" md5="c8badf999757b5107cd4e2fbe7ebdfc0" sha1="41a5f5b156a619b5ef0a53d083c0c006359e6eec"/>
+		<rom name="IRL/FRONT_EN/LANG/ENGLISH.DAT" size="4866" crc="19d14d2f" md5="2b6da77b5283578500408d9e7b910502" sha1="e7a4baa66941f6fdeb715ee361034f0082bd6f62"/>
+		<rom name="IRL/FRONT_EN/LANG/LANG2.DAT" size="3724" crc="c7841940" md5="c33233c60fd84c56e6004489d5b07440" sha1="8f3bc5c5db466234f7bda57260343d77f7824da9"/>
+		<rom name="IRL/FRONT_EN/LANG/LANG3.DAT" size="4271" crc="9c41f323" md5="289455eafb20b5390a4ea9db1d983055" sha1="005b9770b618a3cba8126032a569744af6b51c45"/>
+		<rom name="IRL/FRONT_EN/LANG/LANG4.DAT" size="4291" crc="d318f08c" md5="dc85d29f82a5a235fc82c1bed1e993d6" sha1="f3c54ddec35d4cdb894f56ecab2261de9377b313"/>
+		<rom name="IRL/GFX/C_SETUP.LBM" size="243786" crc="022884f4" md5="547b835339c63db00bbda28960ea3eb3" sha1="b3f16b51940850545896c8a8506080b6515c4b6e"/>
+		<rom name="IRL/GFX/CONFG_D1.LBM" size="263198" crc="ab686a32" md5="ada1bc63ed0557f638d693cee8f87dbf" sha1="595f5739f3251419dea9c3177406fbae240927b6"/>
+		<rom name="IRL/GFX/CONFG_J1.LBM" size="263750" crc="6f6e852f" md5="3e48e5104220d4bf60474b6e52a2083f" sha1="24fb3a6c18e3485b019db0b190d51db4989f9a3d"/>
+		<rom name="IRL/GFX/CONFG_J2.LBM" size="255790" crc="241d55dd" md5="cde2a7f670a3dfc1bec04348bd1aa1d0" sha1="a81bf960e7dbe0dec4a0a7ce38ac99d548f30909"/>
+		<rom name="IRL/GFX/CONFG_M1.LBM" size="265070" crc="e1b92a59" md5="20b31d13ce23d25a97d6b2c79b79e26f" sha1="ec9998d469145abae7d40e38b3d8d2780fd7cb69"/>
+		<rom name="IRL/GFX/CONFG_M2.LBM" size="266822" crc="dd45eecc" md5="fab3672e73474bdfe6787551bab7ba45" sha1="3342e0472eca2728f3a99739c155869efd7650cf"/>
+		<rom name="IRL/GFX/CONFG_S1.LBM" size="263012" crc="f4f661c3" md5="21a86ae7c2a7fd255840dd32ba7c9be8" sha1="bf116884b73b1e85b7e178c8a949bf2c13cfe7df"/>
+		<rom name="IRL/GFX/CONFG_S4.LBM" size="264364" crc="54fbf7b5" md5="cf090d34882b5bba3c95975e5df9930e" sha1="cd722a9c78ebf21b9a0efbf5650771141ce41915"/>
+		<rom name="IRL/GFX/CONFG_S5.LBM" size="258138" crc="64f5f37f" md5="3ae4b3e2cfeef9d2437664cf96310c94" sha1="44e24f17bf5ace2d3f65d7d0f9955eec4e112e4c"/>
+		<rom name="IRL/GFX/CONFG_S7.LBM" size="262328" crc="3a88350f" md5="a7e0f54d86ead45fd7419eac6db06e51" sha1="f7f929c4c58917faac4940c0b6c891d0a80433a3"/>
+		<rom name="IRL/GFX/CONFG_S8.LBM" size="261870" crc="24b0c117" md5="8de299898c8e2654116f581744251802" sha1="27799debc67baa3f9625b27a2dccad4639498878"/>
+		<rom name="IRL/GFX/CONFG_S9.LBM" size="262046" crc="e57df43d" md5="b405d8c80e1203eaddeb11ec68ee008e" sha1="f5e10e3fa19fdd09d5a4b9ac0a6e6cdb9b9a12ff"/>
+		<rom name="IRL/GFX/CONFIG_F.LBM" size="264018" crc="42341759" md5="35ed88ae104d3c971a9dd25ccf497b81" sha1="e4b3280c69fabd0f66ede4bd42dcbbdb9a5da9bf"/>
+		<rom name="IRL/GFX/CONFIG_J.LBM" size="264900" crc="a37111a7" md5="0c2df3b6402d30f03df3d7029ea5a81e" sha1="9a613a3106e1c394b268cc3a7633d46553855221"/>
+		<rom name="IRL/GFX/CONFIG_K.LBM" size="265258" crc="8c441dc6" md5="be4f58186b834b99d8e93c4b32e961b5" sha1="3b42a6a9546ff7121d0e8035ef8865f816eedfb8"/>
+		<rom name="IRL/GFX/CONFIG_M.LBM" size="265070" crc="e1b92a59" md5="20b31d13ce23d25a97d6b2c79b79e26f" sha1="ec9998d469145abae7d40e38b3d8d2780fd7cb69"/>
+		<rom name="IRL/GFX/CONFIG_R.LBM" size="264100" crc="8c5b6a5c" md5="d9135ce2b5106d6d0bf6c0c5b00a5f6a" sha1="b54641f2e1868a8fda740c2f217389b72355d096"/>
+		<rom name="IRL/GFX/CONFIG_V.LBM" size="264324" crc="b5c8344e" md5="677796deea3c06253f78d05004b26d21" sha1="cf3d41f0905547b0ff7b910290b20949a1226d76"/>
+		<rom name="IRL/GFX/CUP_EUR.LBM" size="239236" crc="0d001410" md5="ab92cbcb61d1c33e741e708d3f3096d6" sha1="3454553f0890c42303659d39a62d474e3b85d94e"/>
+		<rom name="IRL/GFX/CUP_INT.LBM" size="233144" crc="7aa149ba" md5="3027ab035b9235062ef2c0457a6bc3c4" sha1="4f5facefca2b3e3c0770aad4da8570d4ec0f61da"/>
+		<rom name="IRL/GFX/CUP_OPT.LBM" size="224158" crc="69ddd291" md5="6b98a49e88be3cc1fd4352ce3d094f11" sha1="2b4a9a9a3ec404d5360755d0f7f4a81dc6f55373"/>
+		<rom name="IRL/GFX/CUP_SOO.LBM" size="236382" crc="12936409" md5="7ea5fe0eb167ec5886356c03e12dc971" sha1="5138cdda9d9ac27a30fe1d23944992d000618da3"/>
+		<rom name="IRL/GFX/EL_FIX.LBM" size="238226" crc="9d105415" md5="b154d56a2b71615448b1fd5afb48442f" sha1="f7bdee9791604777411ef306d68d0dd0842f6bc0"/>
+		<rom name="IRL/GFX/EL_RES.LBM" size="236786" crc="661c5df1" md5="6b6aa8b644c73f10793d978121581902" sha1="bbcdc76bc84a129efa13fe5c04d8bc09b6e34ca8"/>
+		<rom name="IRL/GFX/EL_STAND.LBM" size="233496" crc="8b7f9bea" md5="e03d7877184bfa1c5a9c743bc52f7c38" sha1="c6a47a108b48f9beb808d85f5b467f81c20f80fb"/>
+		<rom name="IRL/GFX/F_TIME.LBM" size="236866" crc="6f998853" md5="926b3844dcf6e765d65ad5a5d8c5d02f" sha1="2b3037f013ae2f489d1d0f6dd0394405dd0e5639"/>
+		<rom name="IRL/GFX/FATTY.LBM" size="302610" crc="a46950f1" md5="a80aaba40cb9f48e9f915feb0a00d56a" sha1="c935fcb5b3ca11f6e8745fc80e99c6d4851c3890"/>
+		<rom name="IRL/GFX/H_TIME.LBM" size="238686" crc="96afcf19" md5="5e2b6c4de86944766fd313eabf97b17b" sha1="6175bad2bab16b87a8a2aef0ff87db664f62626e"/>
+		<rom name="IRL/GFX/IN_GME01.LBM" size="234884" crc="43e8613a" md5="dda12a4c649326a027eeed4d6d5f321c" sha1="71f69b9ea7cc5b3e3004fdeb268ae94af321fc2b"/>
+		<rom name="IRL/GFX/IN_GME02.LBM" size="211660" crc="2b69a882" md5="e5a5999a0ab3bf15483d6c9ce4be8f79" sha1="9351ad74e7695710c5f41f4fc86a172b07f64208"/>
+		<rom name="IRL/GFX/INSTLL_1.LBM" size="264696" crc="2a9bf169" md5="0d469b36b9f9779d3d553f0517bcd50a" sha1="ea3cdcd753018cd000c45898fa35b5f1fa62cdce"/>
+		<rom name="IRL/GFX/INSTLL_3.LBM" size="244218" crc="7f5f867d" md5="ff26946552f2c6d1ee91336d2f159dac" sha1="eebf601f20f201a10ff258c22eab29d331a239e2"/>
+		<rom name="IRL/GFX/INT_LOAD.LBM" size="284800" crc="795e812d" md5="a4b3f047ca56a3ff3faecffbb9df2fcb" sha1="4ee3d65f197e017e797ebf7e0c512594e623e6a2"/>
+		<rom name="IRL/GFX/OP_FIX.LBM" size="220386" crc="d5f06b7f" md5="6bb5f8c956ab246cb931751ab4210473" sha1="b6cd82806569bd0561cf2eaa900c18443b6fdfc1"/>
+		<rom name="IRL/GFX/OP_RES.LBM" size="218256" crc="2164535b" md5="9d5bcd75e7c1daca83162f04798e0d72" sha1="813f1d4db73c2e07196c65303fff827f8bcc816a"/>
+		<rom name="IRL/GFX/OP_STAND.LBM" size="220340" crc="02de2a4b" md5="43546a9d60f73a170cf82b1cbccc45e2" sha1="4df4883124622638e63112911578723748f3598a"/>
+		<rom name="IRL/GFX/OPTIONS.LBM" size="230358" crc="f983600a" md5="6b3f7702a2cdc9f805aa42b2ca3902fd" sha1="faf3951b48d0e7dab07b564381379cb2767d7f7d"/>
+		<rom name="IRL/GFX/R_FOUL.LBM" size="235132" crc="121ff1b9" md5="634f51bf830253fceedee187492fa755" sha1="480bfd5b727e8d5490e04f5eba1914b87e83bc9e"/>
+		<rom name="IRL/GFX/R_POSS.LBM" size="227256" crc="e0f4b1be" md5="746a4c6155dbccd3279adec917fdddce" sha1="e109294dbcaa809431fdfee61dfcf251bcc291a2"/>
+		<rom name="IRL/GFX/R_SCORE.LBM" size="235132" crc="121ff1b9" md5="634f51bf830253fceedee187492fa755" sha1="480bfd5b727e8d5490e04f5eba1914b87e83bc9e"/>
+		<rom name="IRL/GFX/REST_TN.LBM" size="238822" crc="240d4067" md5="3a74a25c55a442f853aa00ccad7a9da1" sha1="9c9eaeceab9005195d975dd6a7b9560e469b07be"/>
+		<rom name="IRL/GFX/S_REPLAY.LBM" size="236690" crc="017b1951" md5="ef232ed95e06ef6e28cfe3c98058e49c" sha1="6ab457f536acfeebfe34fa596e691ad42de40137"/>
+		<rom name="IRL/GFX/TM_INF.LBM" size="228444" crc="3b026921" md5="674e853b8bddcba1b2a12c05257858d6" sha1="caba3417d64a7e9e2f15ea2ccaae2f737516b1d6"/>
+		<rom name="IRL/GFX/TM_PRACT.LBM" size="237678" crc="bfac8b28" md5="99c29dda6a83345960eb319056b629fc" sha1="b91cb47765c3b79f442ef339b7cd300023806e36"/>
+		<rom name="IRL/GFX/TM_SEL.LBM" size="258328" crc="1dcf4747" md5="7eb4f40720d9aa7a7c88fd215c16a1e4" sha1="a036ea8ec3f5dfec8212bed68bf8668f9db1a2c4"/>
+		<rom name="IRL/GFX/V_REPLAY.LBM" size="240136" crc="e5d6cb9c" md5="7b2e1bb2cadfd94130814e2f42480c6b" sha1="e4fe7bf50fc6bf30a540e405f7399fa8584ffb95"/>
+		<rom name="IRL/HINTS.TXT" size="6050" crc="ea2631c0" md5="988a2516baa8a1336016888395b84ecb" sha1="3dc3f0b21139bac38028b8e9924b1e34e9c9f896"/>
+		<rom name="IRL/INSTDB.DAT" size="29388" crc="73c21297" md5="e9086d732741aea51648d3c8283776f3" sha1="f05183b96143de69d2d55a88f00f4325edb81718"/>
+		<rom name="IRL/IRL.DAT" size="948" crc="ad2583fe" md5="58960f7c8cc83a5e45fede5d4a5143b6" sha1="3ab367a2782b433e30c97d481c916957936a7b8f"/>
+		<rom name="IRL/JAMMER.DIG" size="3219" crc="230129e0" md5="4922c729c5e7b347089a2be44f296859" sha1="103e0bf92c6fd1c9fc925fd57bdc22e56170b395"/>
+		<rom name="IRL/PROAUDIO.DIG" size="2127" crc="4b071066" md5="a054071be574b2bcf47a0386f1a98ae6" sha1="8debfb262849ebce1da3d45387d1595712c2667b"/>
+		<rom name="IRL/RAP10.DIG" size="2849" crc="47373ef0" md5="bb846bb23ee9065a09373afdb73cf054" sha1="6081bc6e447afeaad48a8361c92e7ce280f6ea7e"/>
+		<rom name="IRL/SB16.DIG" size="2836" crc="6ddaa5d2" md5="b24e361b7634b9b3eafcd2cbb592ba9b" sha1="f0734dae77c034f5cfcd7b353cd75adfb57871af"/>
+		<rom name="IRL/SBLASTER.DIG" size="2914" crc="bdc65841" md5="05c4b52546cea64ed1f0b1216278e884" sha1="79342d8819c9662fb1427a9c3be8272e84bf5bf6"/>
+		<rom name="IRL/SBPRO.DIG" size="2763" crc="1061490f" md5="b0fe50da778c24cc4066e960a3d1a7c3" sha1="8bc27ebd0ec30dabfd354b948801946b7e8f33d8"/>
+		<rom name="IRL/SFX/COMMTEST.RAW" size="204093" crc="f983e24f" md5="5f1f36716c1f79842dad1746fa4b6282" sha1="253d664e6ead97715c9f693b9a3e83b75e896caa"/>
+		<rom name="IRL/SFX/COMMTEST.WAV" size="204190" crc="0eb97440" md5="83dfbc57c2f69c7c971cfacb9b9ecbf5" sha1="7a9d8d016e6ab67a34b353ed47c1566ce96b201c"/>
+		<rom name="IRL/SFX/CROWD.RAW" size="24264" crc="b5e4262e" md5="58965ad8b7f7572c11835196e1022567" sha1="db4b462833d8b1b0f153f53c8cd39ec73950048f"/>
+		<rom name="IRL/SFX/CROWD.WAV" size="24360" crc="1b37624f" md5="661e8169351b20a3ea6592f7d303f7cc" sha1="d2a29b2f637d5bfd803dcb101e023f0feccd6d3a"/>
+		<rom name="IRL/SFX/SFXTEST.RAW" size="71158" crc="5f70f4be" md5="9875120465ac0d00200738bbd6dcc743" sha1="2ba6b34e057a9707a1bc8ebd644e1ba26c81de0c"/>
+		<rom name="IRL/SFX/SFXTEST.WAV" size="71254" crc="8306e254" md5="28885522475ca7d2ef6169bfaea73f2d" sha1="b19c7730a1352bfb236eaa9213d38ba2407a9f78"/>
+		<rom name="IRL/SNDSCAPE.DIG" size="4171" crc="708a96a2" md5="9d7a052a680f45d244e0ee4735b7b55f" sha1="f9902b74d545813315194f5a1791c4ea0a9a1e0d"/>
+		<rom name="IRL/SNDSYS.DIG" size="3332" crc="86ecb774" md5="c67142fe53599b28ff7d53565576dbae" sha1="72a300265348a67c33945d0aa6b5c0ec3933dbcd"/>
+		<rom name="IRL/ULTRA.DIG" size="9478" crc="430d67f5" md5="000e584a06712d2f2b58eb2e17b65248" sha1="4327d6bb924b4e40fa7ff035bdfb73a879c31836"/>
+		<rom name="IRL/VESA480.DLL" size="19028" crc="4cc3d6da" md5="258f229be7137d7b8b1970d9199d0934" sha1="23471c2b0658e40eecb5ceb6f2641279323e4c2a"/>
+		<rom name="IRL/VFXSCAN.DLL" size="4265" crc="2998a8ab" md5="c8badf999757b5107cd4e2fbe7ebdfc0" sha1="41a5f5b156a619b5ef0a53d083c0c006359e6eec"/>
+		<rom name="IRL/WINIRL.EXE" size="1118720" crc="62875273" md5="1fce17221ae8d20940768370880b610c" sha1="516987a1c64076afa71ca1478b1ea85c72ff0d01"/>
+	</game>
 	<game name="Jazz Jackrabbit (1994) (Epic MegaGames).dosz">
 		<description>Jazz Jackrabbit</description>
 		<comment>Installed from USA Enhanced CD-ROM packaged with Jazz Jackrabbit 2</comment>
