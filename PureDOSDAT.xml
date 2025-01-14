@@ -10202,14 +10202,13 @@
 				Game Video: High Quality
 				Path: C:\NFS
 				Type: Minimum Install
+			PATHS.DAT is required to run the game, but may vary after every installation, regardless of these options - an exact copy can be grabbed from the DOSC
 		</comment>
-		<comment_dosc>Required config files and auto start. German option</comment_dosc>
+		<comment_dosc>Required config files, 640x480 resolution, and auto start. German option</comment_dosc>
 		<link type="media">http://redump.org/disc/64809/</link>
 		<rom name="DOS4GW.EXE" size="265420" crc="cb214447" md5="ee4033581845b3b8d28c4b7287eb4fc2" sha1="a897c7eb79145a308c4e60b43413bb2daa360506"/>
 		<rom name="FRONTEND/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-12-31 00:00:00"/>
-		<rom name="GAMEDATA/CONFIG/CONFIG.DAT" size="25552" crc="6a739ae3" md5="b7b5cb08e46f4623d684dd22988093f6" sha1="add282f389e326c37a99debffbd794ca1f1e62ac"/>
 		<rom name="GAMEDATA/CONFIG/PATHS.DAT" size="1440" crc="43fd4c65" md5="ed1d46601592eb1450f00932f49d8e87" sha1="16f96debdb0d45cde2eaaafae34d4ba7d381c050"/>
-		<rom name="GAMEDATA/CONFIG/TMP.TRI" size="1310720" crc="762c6b04" md5="bf64006cdc77f943260b6bd639324df4" sha1="c4e67a078673f874a172969ed919f5048d35a128"/>
 		<rom name="GAMEDATA/MODEM/MODEMS.CFG" size="2089" crc="4adadb40" md5="389a158725cd91105b39b303967a1849" sha1="6f96cdfdd4a604b6b2ec5edb4355df92c673032c"/>
 		<rom name="GAMEDATA/REPLAY/REPLAY.RPL" size="163053" crc="23a95ba9" md5="33e2884ec5d04d022680726902687638" sha1="bd0b34dee40ba1a70e590feff1a0c38b8f3f4a2f"/>
 		<rom name="GAMEDATA/REPLAY/REPLAY1.RPL" size="163053" crc="949d6b3e" md5="439bd5a76e19626646a5b3e3b632c1ca" sha1="0b5ae2de136dcbf34fd5c9d5e64f874dcd702e19"/>
