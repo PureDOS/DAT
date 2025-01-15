@@ -10925,6 +10925,20 @@
 		<rom name="ROGUE.PIC" size="16391" crc="57106c0e" md5="afb883b611c35f79f2a5168365349ba7" sha1="954278268827812fce8d8bde04954a9c3b828a48" date="1985-03-25 16:53:10"/>
 		<rom name="ROGUE.SCR" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
+	<game name="Shadow of the Comet (1993) (Infogrames).dosz">
+		<description>Shadow of the Comet</description>
+		<year>1993</year>
+		<developer>Infogrames</developer>
+		<comment>
+			Matches with Redump: Call of Cthulhu - Shadow of the Comet (Europe) (En,Fr,De,Es,It)
+			The game runs directly from the disc after installing 2 config files
+		</comment>
+		<comment_dosc>Sound Blaster config and auto start. French, German, Spanish, and Italian options</comment_dosc>
+		<link type="media">http://redump.org/disc/2884/</link>
+		<rom name="Call of Cthulhu - Shadow of the Comet (Europe) (En,Fr,De,Es,It).chd" size="179095680" crc="24f98c36" md5="ed4a4843378366bfcb20c6d2d81bc0e0" sha1="ba23870ec9619ecb070ebcb739fd737f42aaab31">
+			<track number="1" type="MODE1_RAW" frames="73143" pregap="0" duration="16:15:18" size="172032336" crc="2d81dc11" md5="2d609062c7e8a5f81d7cd32416715b9b" sha1="db00b73c8baf5e8dc3a502a60ff599a540728dfc" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
 	<game name="Sid Meier's Railroad Tycoon (1990) (MPS Labs).dosz">
 		<description>Sid Meier's Railroad Tycoon</description>
 		<comment>Installed from v455.03 1995 re-release CD</comment>
