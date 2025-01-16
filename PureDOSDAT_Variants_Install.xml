@@ -426,6 +426,33 @@
 			<track number="1" type="MODE1_RAW" frames="46008" pregap="0" duration="10:13:33" size="108210816" crc="256548cb" md5="1cda6c4279533aa29514af69580987e1" sha1="7a6ba155ae31fe39e2396ab67e5798108b7f8a8d" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
+	<game name="Silverball (1993) (Epic MegaGames) (Installation).dosz">
+		<description>Silverball</description>
+		<year>1993</year>
+		<developer>Epic MegaGames</developer>
+		<variant>Installation</variant>
+		<comment>
+			3.5" floppy disk matching with TGOD ID: 1368
+			Includes Fantasy, Blood, Snooker Champ, Odyssey, and Nova tables
+		</comment>
+		<comment_dosc>Sound Blaster Pro config and auto start</comment_dosc>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1368</link>
+		<rom name="disk1.img" size="1474560" crc="7009579e" md5="1f7e6e8e60bb567f374fc9772329cafd" sha1="73e328dc9d8025e40a717c8de866566bd753e4db"/>
+	</game>
+	<game name="Silverball Plus 2 (1994) (Epic MegaGames) (Installation).dosz">
+		<description>Silverball Plus 2</description>
+		<year>1994</year>
+		<developer>Epic MegaGames</developer>
+		<variant>Installation</variant>
+		<comment>
+			3.5" floppy disks matching with TGOD ID: 516
+			Includes Fantasy, Blood, Snooker Champ, Odyssey, Duel, and Warbot tables (but not Nova)
+		</comment>
+		<comment_dosc>Sound Blaster Pro config and auto start</comment_dosc>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=516</link>
+		<rom name="disk1.img" size="1474560" crc="d249822c" md5="90856a3e8ee8cd9f4c0254a2e2e3f944" sha1="919d79a81b04e0f6d74c1fc9441b96430dc6d633"/>
+		<rom name="disk2.img" size="737280" crc="05e3094e" md5="4db4b41dbcdf7feffd1272b0c5033bc9" sha1="1bb8b9bc0cbed8701a706f4a2f86102a20ccb29b"/>
+	</game>
 	<game name="SimAnt (1991) (Maxis) (Installation).dosz">
 		<description>SimAnt</description>
 		<comment>Two v1.08 3.5" floppy disks</comment>
