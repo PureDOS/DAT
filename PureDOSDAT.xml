@@ -13142,6 +13142,21 @@
 		<rom name="STRPICS.RAW" size="220100" crc="521d2e80" md5="d0d7251703ea200dc3a8dfa158fb66fd" sha1="7fa7aa0f5f4beb4bf8e4e4be2b0a4a6c223c9350" date="1995-05-16 16:10:26"/>
 		<rom name="TRPICS.VGA" size="58900" crc="eb3929f4" md5="de6462a80434290af48074b50238a5dc" sha1="f014a4bf1e1035d8bf0d575569c7b81c98f1459a" date="1995-05-16 16:10:26"/>
 	</game>
+	<game name="Stellar 7 (1990) (Dynamix).dosz">
+		<description>Stellar 7</description>
+		<year>1990</year>
+		<developer>Dynamix</developer>
+		<comment>
+			Matches with Redump: Stellar 7 (USA)
+			CD image converted with CHDtoOGG
+			The game works best when it runs directly from the disc
+		</comment>
+		<comment_dosc>CD audio selected, game speed reduced, and auto start. Sound Blaster and MT-32 options</comment_dosc>
+		<link type="media">http://redump.org/disc/45077/</link>
+		<rom name="Stellar 7 (USA) (Track 1).bin" size="23320080" crc="3d4511c1" md5="16e2a12bc81040fafda1129280f0623e" sha1="98b4d488e816c7f5e3c3f40dd26834ca7aad821a"/>
+		<rom name="Stellar 7 (USA) (Track 2).ogg" size="50079115" crc="f74cdd2a" md5="ca16235eb5e4c6f3c3244c9af33c0325" sha1="ae618ad42ed62939aa237ced0de7755093a5eed7"/>
+		<rom name="Stellar 7 (USA).cue" size="195" crc="6b4db93e" md5="2958558f07132820d503953eb7c22e52" sha1="81479f6dc60d78d58bc658bf466ae290fcfd0141"/>
+	</game>
 	<game name="Stonekeep (1995) (Interplay).dosz">
 		<description>Stonekeep</description>
 		<comment>Installed v1.2 from CD</comment>
