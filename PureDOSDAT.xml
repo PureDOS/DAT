@@ -10298,6 +10298,172 @@
 		<rom name="TEXTS.DAT" size="1984" crc="b46214d4" md5="2fcfad570214aabfa2909a675d6fabf2" sha1="80404e0dbc32b969707db51ce4eea90d354031b3" date="2011-11-06 19:44:20"/>
 		<rom name="THEME.DAT" size="140" crc="5f0ba2ed" md5="6b563d97f520cdd2d477c98e086e0e97" sha1="2a7b6d227794431d00b4e7e0084f6e2c625b9fdf" date="2011-11-04 08:40:42"/>
 	</game>
+	<game name="Pinball Illusions (1995) (FrontLine Design).dosz">
+		<description>Pinball Illusions</description>
+		<year>1995</year>
+		<developer>FrontLine Design</developer>
+		<comment>
+			ILLUSION.EXE copied from CD matching with Redump: Pinball Power Pack (Europe)
+			CD image converted with CHDtoOGG using -n option
+		</comment>
+		<comment_dosc>Sound Blaster 16 config, BAT file for launching setup, and auto start</comment_dosc>
+		<link type="media">http://redump.org/disc/65337/</link>
+		<rom name="ILLUSION.EXE" size="4463016" crc="625a18ce" md5="5780ebe403a595af700584520937d8ad" sha1="785f26749647a45a64aa984a8983725fc5bed1dd" date="1997-03-10 05:02:44"/>
+		<rom name="Pinball Power Pack (Europe) (Track 1).bin" size="56448" crc="1be232e7" md5="052315fdf52a4076530b6fa185e9c628" sha1="ddbbf38c7623ae8712248ed015380b4f1aaafc2e">
+			<source frames="5270" pregap="0" duration="01:10:20" size="12395040" crc="512666db" md5="2dcd7f0283c6a43f47b9195f04159b95" sha1="3083f4c555aca5965b893259346e7ed57b5aab17"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 2).ogg" size="5347553" crc="b5d7415e" md5="4c1a217e9b0fa2ffcb05f92eba868704" sha1="23a4d9876a06ac998875599c6654527b370cb441">
+			<source frames="13875" pregap="150" duration="03:05:00" size="32634000" crc="08fa50d1" md5="13e334844934fe91615a18961e8c4cc6" sha1="933a276fc1f08de3206f8e50722de9446c791233" in_zeros="352800" out_zeros="18817" trimmed_crc="6805e296" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 3).ogg" size="1318341" crc="ebe2a56a" md5="355ad43614ea932e63aa1ae1bc126ff0" sha1="c59099bf63cf00bf3d4bc48dd7e48d12178ecda5">
+			<source frames="3375" pregap="150" duration="00:45:00" size="7938000" crc="1b8ebd50" md5="7e3d9970ce63b17189c796aa5bf4ced3" sha1="425e6cfff5572eee75ca3797f717f2187593c4d6" in_zeros="354152" out_zeros="82320" trimmed_crc="5397f5dc" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 4).ogg" size="681275" crc="4bf80773" md5="0d3698a9a06f9439d6ef8f316c015b4c" sha1="983b9eddf4792581f7987537c6c284f0a1234c3a">
+			<source frames="1950" pregap="150" duration="00:26:00" size="4586400" crc="8fa0d162" md5="abd7d02fe9ce51fedec4b1c91ca024b6" sha1="40f0e50ab395c7cf98d6793986ba0a04bc073490" in_zeros="353808" out_zeros="497060" trimmed_crc="28c02c52" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 5).ogg" size="1792718" crc="0f5bb5e6" md5="46bdedff0508643ef691a32a8ea2578c" sha1="e7d69a292f75a7fd26f44cea347aed672c26b30d">
+			<source frames="4500" pregap="150" duration="01:00:00" size="10584000" crc="07eea43b" md5="5178cda170f5721223c2ae079555075b" sha1="96e3059b75672af09841c2686b63f9b7b3ce9782" in_zeros="352800" out_zeros="94081" trimmed_crc="8622d1ca" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 6).ogg" size="2204744" crc="518964f9" md5="8755513598f99be09d30e0391301de68" sha1="9d90769734ce5fb135dbcd22b943dd8f4958adee">
+			<source frames="4725" pregap="150" duration="01:03:00" size="11113200" crc="a74e302a" md5="c36aab2e7d2a080e4d15ae960d578a5b" sha1="f4bb8971d4a107608004f42e0715ad20b9b9d854" in_zeros="354984" out_zeros="431693" trimmed_crc="53c0c402" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 7).ogg" size="2321413" crc="3028f9ff" md5="a9be0757b0034f2e27983e6a48d7a04c" sha1="955399bea810c9bf9f21ffdd4a366361591332d2">
+			<source frames="5325" pregap="150" duration="01:11:00" size="12524400" crc="221410b6" md5="c5c86d20d90d6c1d2ab9085bd84a9614" sha1="0a15d8c92c786039f7b68296b2f37acc72c9815b" in_zeros="355020" out_zeros="509581" trimmed_crc="9b4b2ef6" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 8).ogg" size="2168833" crc="65918b24" md5="3cb9d9170bbb223c3f7395f888235da1" sha1="75399a81a3f882e656dbf2f1a2578507a99c0e4b">
+			<source frames="5175" pregap="150" duration="01:09:00" size="12171600" crc="34957ca4" md5="6fc4272de9b806c4720af2eec3f37342" sha1="eaa0aa9ab1d6057a1bbf9d3771d8d2f47fe4df56" in_zeros="355032" out_zeros="409773" trimmed_crc="1d1130e7" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 9).ogg" size="324695" crc="83a751bf" md5="ff55c62a0b49a851221c1d5f787cb152" sha1="520ce444665e9947fb21b8656b9d5a8b4f940986">
+			<source frames="1050" pregap="150" duration="00:14:00" size="2469600" crc="03b79d64" md5="28340d0c03482fb9df0c3722a5868904" sha1="1003ff584f0b335bc22deda2460739da4d180fa6" in_zeros="354972" out_zeros="376293" trimmed_crc="51df9533" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 10).ogg" size="1873836" crc="f1f0d6ce" md5="6f715b089c09e62a7fc8a122a581452a" sha1="bb6272640ebb79c525dd8e6e6d48573d3695ee9f">
+			<source frames="3975" pregap="150" duration="00:53:00" size="9349200" crc="926e2275" md5="f604bc462554e42dff6ca3568be4dc7e" sha1="e67ce02ab829633ec80a05e231eb2bb6a9d1ce76" in_zeros="353260" out_zeros="384265" trimmed_crc="e3944eae" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 11).ogg" size="1297071" crc="d59bb93f" md5="0bb0be6793eb6e7727581b0dca1a1dfe" sha1="f5ece5ca0e4e70f311182c84c5854e28af3b3d8f">
+			<source frames="3000" pregap="150" duration="00:40:00" size="7056000" crc="21ae176f" md5="29450c2100ed3c868737e56d0fc61914" sha1="1815dd55217e09d0dad9273f634d6b04dd74bdf4" in_zeros="352800" out_zeros="115249" trimmed_crc="8c71be17" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 12).ogg" size="1484903" crc="f2813ca2" md5="bcf21feb268a13eb26f60c8e825ae86b" sha1="783cfea26c63d3babc10f02947ed51a2a8983bd5">
+			<source frames="3750" pregap="150" duration="00:50:00" size="8820000" crc="15ae0af5" md5="82578338956948afcb96f95859f98b76" sha1="8506fb9e05e0e4265a5105525e25c1d95c2666f9" in_zeros="353056" out_zeros="412113" trimmed_crc="76953865" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 13).ogg" size="1727802" crc="d6e58f69" md5="3e16a74966337476beb761366622aba9" sha1="6f94b1808164fe1e63c0e169341501604900a22b">
+			<source frames="4350" pregap="150" duration="00:58:00" size="10231200" crc="e8470814" md5="c335290e095623ab7d6fafca8ebab949" sha1="bdfcae551cc949747e3d14284e90ef55c1135f69" in_zeros="353072" out_zeros="456625" trimmed_crc="d773cd77" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 14).ogg" size="7216791" crc="e19ad15b" md5="fc69594be8d43b8fb951e6d7412ba223" sha1="559e12bd6046a97079ec5a7153672d3013668483">
+			<source frames="16725" pregap="150" duration="03:43:00" size="39337200" crc="40c0cdac" md5="75be1dfd4954aeeb976c30bfe8587ce1" sha1="d56a1abcbb73a369f84e35c92b209a95213c7327" in_zeros="352800" out_zeros="42337" trimmed_crc="623b3f34" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 15).ogg" size="6745894" crc="daa8ce5e" md5="c672a5385459d7666ca583e5525a8f3a" sha1="eaf15abe07e996e6f92c9504bf9b6778efda0c74">
+			<source frames="16350" pregap="150" duration="03:38:00" size="38455200" crc="43f2ee09" md5="995f76b15ab49fcf8d46e595eeeb2daa" sha1="e41f4e2f0ed6e15b157ad12219c9ec0a6dfad14a" in_zeros="352800" out_zeros="32929" trimmed_crc="570c3c65" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 16).ogg" size="5043976" crc="9194b4f3" md5="baf8f19dc08c0c64ff1cd462f7d12816" sha1="0a3ab1c461b9342d4bedd9689e1a1aa38c79d32b">
+			<source frames="11025" pregap="150" duration="02:27:00" size="25930800" crc="b374310e" md5="25568476d25459941533ee959793291f" sha1="4d5e576ba2546c0c088d17d8879db0803f9b4c00" in_zeros="352984" out_zeros="447425" trimmed_crc="675c457a" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 17).ogg" size="1745284" crc="61b633bf" md5="6b7532babc914c4405cd9a0e56a21f12" sha1="16a0c2f066acaa776d415e1cc73c7a80354d19d1">
+			<source frames="3825" pregap="150" duration="00:51:00" size="8996400" crc="28b99c5b" md5="a401158192d7d05cde112a305943a470" sha1="383574238483ebb30eff573dcfa2ab275c6cc38f" in_zeros="352800" out_zeros="380729" trimmed_crc="d905d79d" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 18).ogg" size="3531781" crc="4a2b39dc" md5="214722bf02fcc93ee399309042b33488" sha1="9d30b32247dc0e017c44466ab69dee18dffbf469">
+			<source frames="7875" pregap="150" duration="01:45:00" size="18522000" crc="6e3feac5" md5="dbc4f14d695e8836ca5a0d97395624c9" sha1="1d9771fb1f6db514e92b37b2a144354c9c27e352" in_zeros="355084" out_zeros="501065" trimmed_crc="271485ed" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 19).ogg" size="611679" crc="411a3355" md5="c3180b54b48f768384bb46b5eca4e7b0" sha1="70a7c76d8c07ff866bac88c7886f25cf25c4df12">
+			<source frames="1650" pregap="150" duration="00:22:00" size="3880800" crc="f29cf9a3" md5="216d7866941f3428dca1da9dae5ce73b" sha1="57ba31bf4a32f511b85c3eda4be1c3b656842ed0" in_zeros="355048" out_zeros="510017" trimmed_crc="7f112505" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 20).ogg" size="2028924" crc="99a766a7" md5="b42806f7f3806b52accbe89d01e59319" sha1="843026dcbd9d8d76e2a6de4120b230e6523a3e5a">
+			<source frames="4725" pregap="150" duration="01:03:00" size="11113200" crc="8a82190e" md5="067fee6ab34d869bbc2605ab98084f09" sha1="5a36de024cdc416a2d9d65af643640e3105358c3" in_zeros="355096" out_zeros="455989" trimmed_crc="3574aa32" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 21).ogg" size="2149929" crc="f6313507" md5="36c503186c379ad1d220719f66bfae59" sha1="4299803702025ec7e4afbc864f9caeeeb2414446">
+			<source frames="5175" pregap="150" duration="01:09:00" size="12171600" crc="8c9947f7" md5="516325fd647dc4375d1aeb92ad0d89fc" sha1="806dea817088f4adeeeebf772dd68b7107ce2a74" in_zeros="355052" out_zeros="502441" trimmed_crc="f11dad1c" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 22).ogg" size="2135920" crc="139f60c3" md5="04a20158c4a5ffc5cc11d5d79471306b" sha1="1a09d4890cf6c3d169b01e5d9301bcc6c7d49f55">
+			<source frames="4875" pregap="150" duration="01:05:00" size="11466000" crc="a8317f5e" md5="3972b87d5d7a3ece87690255acd7cb5e" sha1="5b00d51744e231af46ee4db181b91e2db2e5f5a3" in_zeros="355080" out_zeros="377781" trimmed_crc="9263e2ed" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 23).ogg" size="3384359" crc="7da98ce0" md5="e916ef36d3447207da15914612d528fd" sha1="4e35c582f47ec713cc999e9001b2094f5548bea8">
+			<source frames="7800" pregap="150" duration="01:44:00" size="18345600" crc="33ac010b" md5="b2c6a1e0d4ca389334e95fb263a9ae80" sha1="8b738accc6016e0a04774d157aaa8f65baaa8b4e" in_zeros="355040" out_zeros="490524" trimmed_crc="c6befd0f" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 24).ogg" size="2223357" crc="d1a39125" md5="75e14cc4bfef2a6d54e6e0b4ee92ce2a" sha1="782bc0ec852f3c03e80a2689dfda47e411f944d4">
+			<source frames="5400" pregap="150" duration="01:12:00" size="12700800" crc="4925adc4" md5="a5b7d66071bfa2265df324b2df1b588b" sha1="ca46feaa2a6820a2be5016931d5a3018b0b20bab" in_zeros="355064" out_zeros="514181" trimmed_crc="368b7a9f" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 25).ogg" size="1860320" crc="83c30c8a" md5="fe5f8bdab61d25a4b92178f252108be4" sha1="2d91489dcb3ce85147338c3b34c6eb38ce2bbc64">
+			<source frames="4350" pregap="150" duration="00:58:00" size="10231200" crc="f31bb30f" md5="65725a15b68a3406aced9c5d44d66dd8" sha1="26de713c6a7a8dafa1aed88a22cc13902275fc71" in_zeros="355104" out_zeros="413833" trimmed_crc="4a49ab06" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 26).ogg" size="4061919" crc="8cd724a2" md5="51726de7603ab227a0514a666673f89a" sha1="9b7226e2db1f841d1f9cb6929582b2de974c98e1">
+			<source frames="10500" pregap="150" duration="02:20:00" size="24696000" crc="03192722" md5="81c1e257e7f1f31eea0883b4145f4fc5" sha1="0136b3c454e18c0c033f352a3bf51e4cc8eb152c" in_zeros="355080" out_zeros="368649" trimmed_crc="e71c6571" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 27).ogg" size="1741764" crc="921742ae" md5="f9be75a297941a3f82e3a32a2a80a2f9" sha1="9b7cc99f3aaaffed3b14ae2ddff770aad7aed57f">
+			<source frames="4650" pregap="150" duration="01:02:00" size="10936800" crc="e161f5c9" md5="014b938a0b0e957aa741aec635a292d9" sha1="b9141b691b8612a42a85402c688fba844806c5ec" in_zeros="355052" out_zeros="524041" trimmed_crc="7341e479" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 28).ogg" size="1109029" crc="a8bedc64" md5="e4af3f28c3a84da2c6fc0db91952f6b5" sha1="b335ef0b7dd306daee70b87e69405681afa0cbe1">
+			<source frames="3225" pregap="150" duration="00:43:00" size="7585200" crc="8e2c87ca" md5="6f08fa3a3627db0ce2f4c4d8eb6d7e7e" sha1="94f4531dce3b0b7c3c4fd253cdbbe9d819056f0c" in_zeros="355040" out_zeros="358069" trimmed_crc="64b73854" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 29).ogg" size="1710741" crc="d98163f8" md5="08131164380541f909233cae4c5b4126" sha1="1da5abcfddbd9858ae43d3371cf692af894d8722">
+			<source frames="4500" pregap="150" duration="01:00:00" size="10584000" crc="b81cdbdc" md5="a88e418b348b8c51aa4852aaafd6201e" sha1="b0763a23a358e70c96bbbb55a9e6dabfb91fb784" in_zeros="355064" out_zeros="358801" trimmed_crc="46103f84" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 30).ogg" size="1891457" crc="d1305908" md5="95f92ae9233e8f3c486b796d5f156f83" sha1="8215bdc14828270df6a9c02f7233a2a15cfadd70">
+			<source frames="5025" pregap="150" duration="01:07:00" size="11818800" crc="5d7e4aae" md5="223986b1370ad98c4b6338347c36e644" sha1="2b83b7932f298c64c750a0b12f7deb1635300a24" in_zeros="355072" out_zeros="454977" trimmed_crc="68d69348" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 31).ogg" size="1656153" crc="6d9232f3" md5="980be23b7e506a380937c914b87ef3a1" sha1="ff8bf62ba71ba0815669ffc4ee7e13d95da5584f">
+			<source frames="4725" pregap="150" duration="01:03:00" size="11113200" crc="c2f8fcdb" md5="2958e512ce2838872077f52776e41426" sha1="6520b7629c9bd4ef6789397d0228a0ac4c87fafd" in_zeros="355096" out_zeros="401181" trimmed_crc="0d005773" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 32).ogg" size="1486167" crc="9383aa21" md5="8823b249e07a9c11f3b0dac5fe63b5d5" sha1="0d91138a439a3a0560e935984897759e1cba4ca1">
+			<source frames="3975" pregap="150" duration="00:53:00" size="9349200" crc="bdde5f6f" md5="a2225893f34f27143ec95a6d92347d56" sha1="3b3acd25ceee44046adc3ae396c27794b53b6ea3" in_zeros="355048" out_zeros="367405" trimmed_crc="88f45bdb" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 33).ogg" size="1311485" crc="25d93488" md5="15403b5d0e5595a56bdcee807f5188e2" sha1="fe37aa8a5e9f132a3a7e983687e04e054627418b">
+			<source frames="3750" pregap="150" duration="00:50:00" size="8820000" crc="c014dbeb" md5="64905874fbe39f3b0602735b9ae56fb2" sha1="348b706af0fe3b251d2be7aa257a7c21c055be11" in_zeros="355040" out_zeros="449905" trimmed_crc="8eb7b568" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 34).ogg" size="1774053" crc="1005f6bc" md5="3d4b88396d59c57432cdcb6ca8557f0d" sha1="5ba99eb43bdefa2cbe376414f172618aa212fbc4">
+			<source frames="4800" pregap="150" duration="01:04:00" size="11289600" crc="5498f36d" md5="77b5147f54249800ceb6568045875a2a" sha1="7de9f48d0db43cc8ad13651984e13d73ca042014" in_zeros="355080" out_zeros="406761" trimmed_crc="9faaaaf4" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 35).ogg" size="1605555" crc="a615e133" md5="61f32baca2e43c0058de2932cad517e3" sha1="958d472063da3ae0c8de32ea8693e84b0fe7338e">
+			<source frames="4200" pregap="150" duration="00:56:00" size="9878400" crc="d46218cf" md5="ef1d9d905dfa9d297e896e6009b0b274" sha1="b1ed2e06b41b8597e255939d64d1b7a238678ca5" in_zeros="355076" out_zeros="447645" trimmed_crc="9d2a1062" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 36).ogg" size="1771774" crc="c1fac1f5" md5="f938a18a28414f81b20a4d67170a0316" sha1="4dd7ab661e38d2159db08ac98338fe05a360f64c">
+			<source frames="4200" pregap="150" duration="00:56:00" size="9878400" crc="84e2828c" md5="e75bdab62605805b039da6865d4a3526" sha1="a165f659f61a029a6627ab873d866ce238909521" in_zeros="355088" out_zeros="524725" trimmed_crc="d96f6b62" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 37).ogg" size="1386582" crc="b63c481f" md5="af2061bc0a913101f4efe204de9aea0b" sha1="8ed21be743ba6f48bebb5ac0b8b88783cc0fb537">
+			<source frames="3900" pregap="150" duration="00:52:00" size="9172800" crc="338cbfbb" md5="cfd34a4dbe9bb82a38fbee1db603e1f5" sha1="7e2845df2162ae0529839beccc17b623a2ee68e8" in_zeros="355048" out_zeros="451877" trimmed_crc="599c9e21" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 38).ogg" size="1793265" crc="35856cf3" md5="82944564721c8c03e1fdddcf9d6dd6dc" sha1="fec7d5903d49d4d894360fb03cb318d2931b699b">
+			<source frames="4650" pregap="150" duration="01:02:00" size="10936800" crc="76b66d75" md5="a319c48b3e628de10c4ccba44c0dd019" sha1="9b525449523eec26c51273d5e3eb1d5b76c297ed" in_zeros="355044" out_zeros="448145" trimmed_crc="82288641" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 39).ogg" size="3452383" crc="195af320" md5="c2b26d23f0bd663f20dee5649ac16309" sha1="94cd40eb3b88bd785fcfe8e1190efbd57c2b0e67">
+			<source frames="8625" pregap="150" duration="01:55:00" size="20286000" crc="cfd668d7" md5="07b4d811cfbe0c33a9c9048c66b3ddf1" sha1="565479e334c4f84a210a3df140c5636f7c103582" in_zeros="355084" out_zeros="376393" trimmed_crc="5bf16256" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 40).ogg" size="1121449" crc="d4404cf8" md5="57f3f32f628941f4081549e61d1c8379" sha1="ad1d051258e8856d2114c74986ba9afb5cb899a3">
+			<source frames="3225" pregap="150" duration="00:43:00" size="7585200" crc="b2fc1a69" md5="f5647afc6f27c0cf2c59ba267444d14c" sha1="99771d33bf825534503a4ff0f6b1f2a167f63b83" in_zeros="355052" out_zeros="472880" trimmed_crc="c973828d" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 41).ogg" size="1516250" crc="f84b3b8e" md5="c2bd3ad5df298b453d344a0e37ed8a05" sha1="807a949049898e971385032f6f579b9f1bcb908f">
+			<source frames="3750" pregap="150" duration="00:50:00" size="8820000" crc="2a4c0202" md5="1fd78d11d3bcf099c1672ca71dd5590c" sha1="200e7d65e487c969896569e865fab33438ec9680" in_zeros="355076" out_zeros="482264" trimmed_crc="f54fed15" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 42).ogg" size="1153102" crc="58702e0c" md5="1bc619afd4a5dc8f2c3e10649a74fa1a" sha1="acf6efccddf632733a526a09a29791367ac83853">
+			<source frames="3375" pregap="150" duration="00:45:00" size="7938000" crc="febc6ee8" md5="e76074bcf1d42d123221d0371c1142f2" sha1="37399aad58e8c562539af79a83bfd336b4642cbe" in_zeros="355048" out_zeros="435253" trimmed_crc="b548e311" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 43).ogg" size="1572094" crc="0f7bab3a" md5="df5acfde0eff030ab22ae1abde6073e3" sha1="c01d9e65cd4200ce9fbb05f72a50d97ec9283644">
+			<source frames="4275" pregap="150" duration="00:57:00" size="10054800" crc="6e60cf43" md5="28c18f3f63dd1e0ad058d2f0a21cd52d" sha1="6b7b5d39d9819c77839eb3328dce6b5e4ec2cbfb" in_zeros="355112" out_zeros="404612" trimmed_crc="0e29562c" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 44).ogg" size="1006830" crc="302d171b" md5="73d7ea687f7f74888711ad6c08cd3dae" sha1="e291f37d43b1f2644662aa57818b727b912eaea7">
+			<source frames="3525" pregap="150" duration="00:47:00" size="8290800" crc="fb0dff34" md5="c3d071401fa3f8f92d2e808f57cb5042" sha1="4a26d1d6bcc76b8d214b7614253a30a83890a8f0" in_zeros="355048" out_zeros="439933" trimmed_crc="e7595850" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 45).ogg" size="954917" crc="a090906f" md5="010b8ad433cea43e328cf939ffe720f1" sha1="8228e35bf4831a2b2ecd6e68e3d64b0506bd7ca8">
+			<source frames="2700" pregap="150" duration="00:36:00" size="6350400" crc="37edadf1" md5="7fa91d994af62499e27d9f76fc2c420e" sha1="2a064223eff355451500e19d86b5d60111424133" in_zeros="355096" out_zeros="399924" trimmed_crc="4b2822a3" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 46).ogg" size="1080436" crc="c6cfedb1" md5="99c48bf0ac716a61a8af0ebc0bad60f6" sha1="5952ebfd3406c3d114b7196e84529c02d6eebe6e">
+			<source frames="3075" pregap="150" duration="00:41:00" size="7232400" crc="f3547925" md5="1643815303fbb9fb46decd13e170a4de" sha1="379923bbd69fa5e938daba693f7ec751ea867ddf" in_zeros="355080" out_zeros="399940" trimmed_crc="324c5c55" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 47).ogg" size="1509129" crc="67dfdb99" md5="b122ec1f64e55e2421c11ee8a1320faf" sha1="403d0e8991bb25e764d6d46b50575c2fb482fbe1">
+			<source frames="4125" pregap="150" duration="00:55:00" size="9702000" crc="62b10877" md5="d312d1cfb3b4e3a3b9dc98b4b9927cfc" sha1="e1d866ae793fe0398a5b715dc8b3f5b8f4323f64" in_zeros="355088" out_zeros="529293" trimmed_crc="a3badac5" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 48).ogg" size="1284630" crc="f76f01ee" md5="734fb523c4e1946deb5a02e23ff87543" sha1="3caaa2f29ab4728b30e3563deb2cde51503d1dc1">
+			<source frames="3450" pregap="150" duration="00:46:00" size="8114400" crc="c4aa4501" md5="7bde37963673b6697e60fff9b0de7f1f" sha1="f20ea366a73a07ac74898ff44c8e027b6dfcd90c" in_zeros="355076" out_zeros="378777" trimmed_crc="85eaaed0" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 49).ogg" size="1194291" crc="cf6b260d" md5="9421193a077795670ccd95a43980d3bf" sha1="b7eb4c67e8329422325874034b5f5b9d1922eee6">
+			<source frames="3225" pregap="150" duration="00:43:00" size="7585200" crc="e8870bb8" md5="64eefaf6d1a81d2ddd37ae9f1f76f84c" sha1="19c59cb4c0713804d412e922d557b3e09b3e309d" in_zeros="355056" out_zeros="378797" trimmed_crc="40c94a52" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 50).ogg" size="1414282" crc="a7c2ce37" md5="158b7b6dce145275fe4bbea77fa70a50" sha1="585b57b7c80a600279802a72176393d5fff332a9">
+			<source frames="3975" pregap="150" duration="00:53:00" size="9349200" crc="b66b3792" md5="f22a899cb339cca70b16c0b67dd1197c" sha1="f8a6da474d1c97b8da213575091fadfffda35a08" in_zeros="355100" out_zeros="522224" trimmed_crc="cd20a259" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe) (Track 51).ogg" size="7019111" crc="fa5ac661" md5="3de9549b756534a249678db69a8bdd50" sha1="0e3bd748f2e7bdd31207a6ab9febac5490699536">
+			<source frames="15525" pregap="150" duration="03:27:00" size="36514800" crc="6e1938c5" md5="94e20d7aba956e9e5e92dfcd2230e481" sha1="748d14a16509a366469953e264c868e1d4b81caf" in_zeros="355084" out_zeros="385297" trimmed_crc="d52d4b8d" quality="8"/>
+		</rom>
+		<rom name="Pinball Power Pack (Europe).cue" size="5945" crc="04d5efc8" md5="df1e9462f94468f4b464233d924e70ea" sha1="272a9dc9fdcc29c9d49d627ced1d62be97edc320"/>
+	</game>
 	<game name="Prince of Persia (1992) (Broderbund Software).dosz">
 		<description>Prince of Persia</description>
 		<comment>Based on the 3.5" disk of version 1.3</comment>
