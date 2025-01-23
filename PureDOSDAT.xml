@@ -10346,13 +10346,15 @@
 		<developer>Infogrames</developer>
 		<comment>
 			Requires the GOG release
-			Use DOSZtoCHD to build the files in the "CD" folder into a CHD file
+			Create a DOSZ of the files in the "CD" folder - an installation variant has been added with the correct files
+			DoDAT is recommended for this - RomVault/TrrntZip may not work
 			Make sure the files are at the root of the DOSZ - don't include the "CD" folder itself
+			Use DOSZtoCHD to build this DOSZ into a CHD file (don't use the -l or -f parameters)
 		</comment>
 		<comment_dosc>Sound Blaster 16 config, 640x480 resolution, and auto start</comment_dosc>
 		<link type="store">https://www.gog.com/en/game/call_of_cthulhu_prisoner_of_ice</link>
-		<rom name="Prisoner of Ice (1995) (Infogrames).chd" size="351591552" crc="8b82c1f9" md5="a35b64dc8b60652d78537bbb85564e80" sha1="e377a05d748bc8f7d9bf157b7bfaabef40d28f4f">
-			<track number="1" type="MODE1" frames="143615" pregap="0" duration="31:54:65" size="294123520" crc="8899d283" md5="f9911a3f124c3bb30a275513cdeca585" sha1="6614bae80d0e6954aea30651569676e8111f883f" in_zeros="32768" out_zeros="1679"/>
+		<rom name="Prisoner of Ice (1995) (Infogrames).chd" size="351591552" crc="711a6cdf" md5="0ea343d2be20365d92c2c19974c649af" sha1="1be1a5a9291cf34948762e3cee3795c3d0684af0">
+			<track number="1" type="MODE1" frames="143615" pregap="0" duration="31:54:65" size="294123520" crc="93da2f3a" md5="bc2c1e9344c8747e06aca5312382566b" sha1="eb323e30cc739aa63095c50e8def810754a646bb" in_zeros="32768" out_zeros="1679"/>
 		</rom>
 	</game>
 	<game name="Quake (1996) (id Software).dosz">
