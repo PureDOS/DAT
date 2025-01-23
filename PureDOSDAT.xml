@@ -13947,6 +13947,31 @@
 		<rom name="TTDX.EXE" size="496601" crc="2f964c58" md5="d6f928a4c11cb8eb65a48fde5b36544c" sha1="71ed08c77e82cadae0a427795837279855e4ee3a" date="1995-10-06 17:20:44"/>
 		<rom name="TYCOON.OVL" size="207316" crc="f73498d6" md5="95c31482b47dd2b0b141bf29f84fd584" sha1="9614c2430eca10041991255802e9ae88364ab658" date="1995-10-11 14:25:04"/>
 	</game>
+	<game name="Tunnel B-1 (1996) (NEON).dosz">
+		<description>Tunnel B-1</description>
+		<comment>Game runs directly from Redump-verified disc: Tunnel B1 (Europe) (En,Fr,De,Es,It)</comment>
+		<comment_dosc>Sets CPU year to 1996, mounts disc, MT-32 option, and auto-starts</comment_dosc>
+		<year>1996</year>
+		<developer>NEON</developer>
+		<link type="media">http://redump.org/disc/9991/</link>
+		<rom name="Tunnel B1 (Europe) (En,Fr,De,Es,It).chd" size="439837056" crc="f3025b8c" md5="6682db8700bde23de63237882b789bca" sha1="9461e9cd57b26a4fe3e48b6123280a611ebf8de3">
+			<track number="1" type="MODE2_RAW" frames="48609" pregap="0" duration="10:48:09" size="114328368" crc="91732159" md5="c71e29a05faef3dd6162a8164299cfe3" sha1="e8123c72d4d4981e051b5d4356c16f06672f41c9"/>
+			<track number="2" type="AUDIO" frames="7896" pregap="150" duration="01:45:21" size="18571392" crc="b9ab00fa" md5="eb9c3bbd79d30636b22442eaafdeb5c5" sha1="9129fa8b4e35823bfb8b3a116fefadaad2833b9f" in_zeros="529606" out_zeros="4876" trimmed_crc="8262b9eb"/>
+			<track number="3" type="AUDIO" frames="8839" pregap="150" duration="01:57:64" size="20789328" crc="a97361f6" md5="142b894127d06b44782d8c86f67351cf" sha1="9a52ff7822a717ce791eb3feb6c1b7adbffc3e21" in_zeros="529606" out_zeros="5149" trimmed_crc="da4dabdb"/>
+			<track number="4" type="AUDIO" frames="8912" pregap="150" duration="01:58:62" size="20961024" crc="818f5ef2" md5="24d85ff56fb3f828b2300857f2ca1aa5" sha1="f464be9ccfa7ada086edfeb22926d0728bf163b2" in_zeros="529606" out_zeros="4300" trimmed_crc="c0294e89"/>
+			<track number="5" type="AUDIO" frames="4936" pregap="150" duration="01:05:61" size="11609472" crc="334d7a1a" md5="c32878f705c4e18e4e918b0377f5d20d" sha1="1944202dc1cbd6a8a089b49ab81b3eebfe361985" in_zeros="529606" out_zeros="4876" trimmed_crc="f4fe3928"/>
+			<track number="6" type="AUDIO" frames="7196" pregap="150" duration="01:35:71" size="16924992" crc="b5395c83" md5="2b31fdf5a39f7915ef33de9105953993" sha1="47c614283ec9c8fe03baef8bf155839e97369cc5" in_zeros="529604" out_zeros="4300" trimmed_crc="edc2832b"/>
+			<track number="7" type="AUDIO" frames="8811" pregap="150" duration="01:57:36" size="20723472" crc="8ed30249" md5="3fca68744c673ee45c8db66a397f565f" sha1="77225a4fa61a56dfc23c3edc456e0d46f2dcd143" in_zeros="529606" out_zeros="4300" trimmed_crc="dbaa4c3f"/>
+			<track number="8" type="AUDIO" frames="14779" pregap="150" duration="03:17:04" size="34760208" crc="3bf6cb49" md5="1bea1b021a07733cd15cb6fdab6c126f" sha1="bb2c08efc2232890de3be65bb96e65ccf9455ec2" in_zeros="529606" out_zeros="4300" trimmed_crc="6b67f4c7"/>
+			<track number="9" type="AUDIO" frames="15370" pregap="150" duration="03:24:70" size="36150240" crc="a3b92a64" md5="10c1c6f1c0e293561242d58104deb19e" sha1="2a3a8c98012aea3d7c75b30ec786fc5ee22178f5" in_zeros="529606" out_zeros="4300" trimmed_crc="d0e93a58"/>
+			<track number="10" type="AUDIO" frames="26363" pregap="150" duration="05:51:38" size="62005776" crc="dffb9e66" md5="e1337092b745b601bba2bb380e23d4c1" sha1="76e6ec6a57cc08c330bb79e315fb505bb6b4b77a" in_zeros="541492" out_zeros="24388" trimmed_crc="d0b10d7c"/>
+			<track number="11" type="AUDIO" frames="16762" pregap="150" duration="03:43:37" size="39424224" crc="481cf3bf" md5="262a1e1d3a689f91a3d2e7ccd336dca1" sha1="2e369ff6d7dc7948bd42c6a2236d2ab6406d7544" in_zeros="531204" out_zeros="56548" trimmed_crc="c1bc7315"/>
+			<track number="12" type="AUDIO" frames="682" pregap="149" duration="00:09:07" size="1604064" crc="7c1c798d" md5="dd3068ad60c58bc514783b1200a9f473" sha1="3cc2eb339f69afacfeb45072cfd94288b03c4741" in_zeros="527256" out_zeros="182766" trimmed_crc="895811d2"/>
+			<track number="13" type="AUDIO" frames="817" pregap="150" duration="00:10:67" size="1921584" crc="79829743" md5="1febdefa989494a89bc08bd5d8be1dc2" sha1="3dc8b4fc8efdcc9e3edb12bbc206ad247c7e690c" in_zeros="529608" out_zeros="4534" trimmed_crc="be1c4451"/>
+			<track number="14" type="AUDIO" frames="596" pregap="150" duration="00:07:71" size="1401792" crc="0dcd5a05" md5="3221de42ab226b84f42817736673a875" sha1="74a6c44be85798f9fb7c0cc850f9268c7147f856" in_zeros="529608" out_zeros="180515" trimmed_crc="c7dcf999"/>
+			<track number="15" type="AUDIO" frames="12317" pregap="150" duration="02:44:17" size="28969584" crc="f491a017" md5="fc9cd59806d79f1d1ca2733fcb520ae7" sha1="2fc2ece294a3a75e47081fc1b173f0f784e1bb45" in_zeros="532836" out_zeros="31096" trimmed_crc="e8662554"/>
+		</rom>
+	</game>
 	<game name="Ultima Underworld - The Stygian Abyss (1992) (Blue Sky Productions).dosz">
 		<description>Ultima Underworld - The Stygian Abyss</description>
 		<comment>Installed from Ultima Underworld I &amp; II CD-ROM, with all game files extracted after. Needs "No Sound" set during installation</comment>
