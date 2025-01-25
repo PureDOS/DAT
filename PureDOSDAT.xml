@@ -4714,68 +4714,67 @@
 		<comment>Installed using Redump-verified CD-ROM: Fallout (USA) (Rerelease) (1999-11-10), which is the v1.1 version.
 		Used the Humongous installation option
 		Sound Blaster 16/AWE32 sound option</comment>
-		<comment_dosc>Sets memory size to 65536, CPU max year to 1997, auto-starts, and has config</comment_dosc>
+		<comment_dosc>Contains FALLOUT.CFG with sound and path config for reference as well as auto start</comment_dosc>
 		<year>1997</year>
 		<developer>Interplay</developer>
-		<rom name="CRITTER.DAT" size="158022057" crc="f11b382f" md5="b92ca2ad7c9afc404468a9287983ad90" sha1="4040dbe7dd65c8996afdec8c2df40870186677f3"/>
-		<rom name="DATA/MAPS/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="DATA/SCRIPTS/BITSBOB.INT" size="14180" crc="24cc3e7b" md5="020f1e1c2593ff829fe58e5731f9c406" sha1="56aeb2eb9cd424a61918e8795d2310132ac8e834"/>
-		<rom name="DATA/SCRIPTS/COCDOOR.INT" size="414" crc="0f63d187" md5="96e4e63dd19b9fd0b4dae845c393fd5d" sha1="fab151571ddc54ea0d2ed855824e8693f14eaa36"/>
-		<rom name="DATA/SCRIPTS/GABRIEL.INT" size="8302" crc="f127f0be" md5="0289e80c7155c2f30395731f841c0c97" sha1="d4423ec86b59d39340630fae0147e7fc2a5d9255"/>
-		<rom name="DATA/SCRIPTS/GIZMO.INT" size="13084" crc="6b7c810a" md5="ff45bc5bf288b02b113a4de9b32b45ad" sha1="9d069dbd773533428448da26898f02640790cc26"/>
-		<rom name="DATA/SCRIPTS/HALLDED1.INT" size="4680" crc="f782a1c8" md5="da1ec2080c453d3ac6ce071f75afe4da" sha1="3eb7e894f85745da659da8cdfce52360537a1cce"/>
-		<rom name="DATA/SCRIPTS/HARRY.INT" size="12388" crc="acc1eb4d" md5="6ecc082cddc1d080361713194f297d89" sha1="89153df1f2c458d8ae8aff52d0327ddcbee39169"/>
-		<rom name="DATA/SCRIPTS/HOTELMAP.INT" size="3864" crc="722dd4ed" md5="8dfc0b62372a012dd410354c2ea2eac8" sha1="d8a484b4de56d9db97eef64e9598d5bd240cb83c"/>
-		<rom name="DATA/SCRIPTS/HUBDWNTN.INT" size="3380" crc="2317abeb" md5="cd3a7819748248e7a40b7504d686b831" sha1="19580731e2e92ba50a784f31a67c45278112463b"/>
-		<rom name="DATA/SCRIPTS/JUNKCAS.INT" size="6502" crc="f5099e45" md5="45089119fde211d22e1966c8743ae476" sha1="3dd8a844aefb4b7a00eeae72cb1b1780ed2a5dcc"/>
-		<rom name="DATA/SCRIPTS/JUNKENT.INT" size="3336" crc="3b1481a6" md5="239973edf9371717bee0ad399cfea197" sha1="d4b727df37eb94d5fa3097281fc205473b6b487c"/>
-		<rom name="DATA/SCRIPTS/KILLIAN.INT" size="22916" crc="0bd5791f" md5="f2406860950c14697ec55db8bdf0b859" sha1="a0330611fcea2d7fb667736bc864180e83f52d99"/>
-		<rom name="DATA/SCRIPTS/LARIPPER.INT" size="3864" crc="fdaa4f6b" md5="29902d4ab55a607e0fce2599327ff62d" sha1="37082daad8adb199c990ca7a24e320ec5611289a"/>
-		<rom name="DATA/SCRIPTS/LARS.INT" size="9778" crc="2d94e0d2" md5="9f81933a2c26a8b3afa9acabb247e194" sha1="cb7ee4e374b2725e7472f5a2eae50bf845cf8512"/>
-		<rom name="DATA/SCRIPTS/MASTER1.INT" size="3504" crc="7d08bc9d" md5="ee15e3b8625976309cea98d43acc630c" sha1="5577c1dd6e02c2fa03d4bb14fd0812dd23972929"/>
-		<rom name="DATA/SCRIPTS/MASTER2.INT" size="4974" crc="13505a7b" md5="a95e9522dd7011a68dcf7c37e0888533" sha1="2cc5b98ac7cdd4be013db76a48fa9df2e3e62038"/>
-		<rom name="DATA/SCRIPTS/MORPH.INT" size="14846" crc="6d77d887" md5="fec8074a2c99c51f690bf4dfcf68a60e" sha1="ba9634fd4141a3f4a386792e65fee36eb979abdb"/>
-		<rom name="DATA/SCRIPTS/MSTMERCH.INT" size="7906" crc="ed5d9e83" md5="54d7d05ccfb24da072c1e16a64573f10" sha1="9ebaf7c273b61f56146882aa34304167db3697db"/>
-		<rom name="DATA/SCRIPTS/NH2OPUMP.INT" size="1400" crc="0750c80b" md5="f9f6b0b818db4443b0873e5c0bfa8e13" sha1="a0d8b912047ddaa4614dce8f8a48d46684c8d841"/>
-		<rom name="DATA/SCRIPTS/RAIDMAP.INT" size="3626" crc="c1af9fe9" md5="b1a0989a9071d6f74c0ba6e66608d7d4" sha1="24ffc3e5bbfd132526cfba008906fa141d6de8ce"/>
-		<rom name="DATA/SCRIPTS/RAZOR.INT" size="11652" crc="76dd3c04" md5="f3c8ee192adeda267f2c8e8be7610b24" sha1="eb35df04c8042e06e81751a00e4e0d4476c21f70"/>
-		<rom name="DATA/SCRIPTS/RHOMDOOR.INT" size="1428" crc="3364dcdf" md5="300e674b095b4381662a0e56a88dac6e" sha1="56daa6fb20956dfa7d67063a55b4e8f6a2d5814b"/>
-		<rom name="DATA/SCRIPTS/SLAPPY.INT" size="5738" crc="f4c1b151" md5="ad3862bfb947832369035eaec6659534" sha1="5ff903b4f82c58a20764cbc482687a064a6d7a52"/>
-		<rom name="DATA/SCRIPTS/TANDI.INT" size="14484" crc="43a14922" md5="b99b49c38abbdead3b94b3e2f310b470" sha1="eb4e126f7d46e7164b14230fb00c19c7fb12e629"/>
-		<rom name="DATA/SCRIPTS/V13CAVE.INT" size="8638" crc="4dee0194" md5="2e9226ff05cd0fc8fc45a2204743401e" sha1="c5de2463fe2c08c80b3988490b73f62993edd09b"/>
-		<rom name="DATA/SOUND/MUSIC/01HUB.ACM" size="5271351" crc="cddaebae" md5="ce646702e749d1bd8de0537bb112d026" sha1="999c8a543704aba788b65126e495ff8b09a79fbc"/>
-		<rom name="DATA/SOUND/MUSIC/02MSTRLR.ACM" size="4061386" crc="35e90feb" md5="b1c749fad31572fe37ed70230e95b970" sha1="934f590af10f1eeba483d010a6a6ffe5fc3a1ca3"/>
-		<rom name="DATA/SOUND/MUSIC/03WRLDMP.ACM" size="3939405" crc="c67bcf3e" md5="07fe0a0351e778e3e8df5313649b8c25" sha1="875e6062113bf587329649b71fcffc5a7364ce39"/>
-		<rom name="DATA/SOUND/MUSIC/04BRTHRH.ACM" size="4419943" crc="fca52e67" md5="07cc0454bd25a2d6777d8e992a839cde" sha1="1123574501a0105aacc4ac26c3d2de8341840837"/>
-		<rom name="DATA/SOUND/MUSIC/05RAIDER.ACM" size="4340887" crc="ad82f382" md5="9415c781c835931b9e2d7217997ec4dd" sha1="1bdfe59d9e6610c95b7dffabf2c1205097f7a533"/>
-		<rom name="DATA/SOUND/MUSIC/06VAULT.ACM" size="5278078" crc="c0b604cf" md5="1cde846359d201de6a39e37acee3fbec" sha1="505d694fbdf182fc4fd2b737a8bda9784a0d8365"/>
-		<rom name="DATA/SOUND/MUSIC/07DESERT.ACM" size="4273282" crc="0d4b999c" md5="bb8c187f329c2fac5054fe86965725d5" sha1="af681bb478ff5b4a5e902d876f09ee2c18d2ddaf"/>
-		<rom name="DATA/SOUND/MUSIC/08VATS.ACM" size="4205084" crc="ed66dace" md5="bf86adee919d76d70fa9f6be49fd584c" sha1="94618fe10e36ba3c96e9ca71a2827c5b270164ff"/>
-		<rom name="DATA/SOUND/MUSIC/09GLOW.ACM" size="5100660" crc="af0f82b6" md5="bcce472b3514b06b86346c73bf9557b2" sha1="48bf45e3c4d8eefe9a96bc6033a6455f941948f9"/>
-		<rom name="DATA/SOUND/MUSIC/10LABONE.ACM" size="4682336" crc="9a16453c" md5="a4f02dd14c6a1fc83d96fec8eb8a129f" sha1="b1e44f12c445515e25395440f358367ac43c7923"/>
-		<rom name="DATA/SOUND/MUSIC/11CHILRN.ACM" size="4328676" crc="931bcd26" md5="8d4b4d6d1cd4c2e05a0780b364fda776" sha1="40e3da2c571896b80d92f6c05bc6e576495a67c1"/>
-		<rom name="DATA/SOUND/MUSIC/12JUNKTN.ACM" size="4422501" crc="60f99788" md5="dbce7aa813dc6083a567b4577b455b9f" sha1="b1da7cb3a7198db97a1f2a5cbe1591dbae697ae7"/>
-		<rom name="DATA/SOUND/MUSIC/13CARVRN.ACM" size="5045692" crc="17d201bb" md5="b7c42f3d6de93137138eaaefdaa2ffe4" sha1="94b683afa24a25276f1494753477b60d6f4c532a"/>
-		<rom name="DATA/SOUND/MUSIC/14NECRO.ACM" size="4464634" crc="a855c045" md5="eb0fd95eb78dbddfb8c0a4cc752d64e3" sha1="03cde11869b6d66514128623cd1ce08b176b5cf7"/>
-		<rom name="DATA/SOUND/MUSIC/15SHADY.ACM" size="5237668" crc="c2ae885c" md5="e5328dff1d58812131c4669fb47d286c" sha1="730cf2db15f68735c58a7c9e7bb81ef956345fff"/>
-		<rom name="DATA/SOUND/MUSIC/16FOLLOW.ACM" size="3820901" crc="63a74e2d" md5="fec079d7256c8bcee21dabab92d256c6" sha1="63a2d4995d92a52b51805845c2a6e0904ee7c59a"/>
-		<rom name="DATA/SOUND/MUSIC/MAYBE.ACM" size="3692533" crc="00d4cf9b" md5="868b8374e6b2a0c07fbbaac4bace618a" sha1="2bf39455423a350c1b4ea125de535dfd424aef25"/>
-		<rom name="DATA/SOUND/MUSIC/WIND1.ACM" size="136918" crc="e392102e" md5="4a78f754004a7802c3a6e7e22f63d5f2" sha1="8bb59d638c05fa9b131256cf8f5c3a594365effd"/>
-		<rom name="DATA/SOUND/MUSIC/WIND2.ACM" size="120544" crc="07cd3f89" md5="6697ea9a4fa5a18600a72a65ef1e1ea5" sha1="0a8881d3b9ee1fd89f8797e8f44ff9079f29a281"/>
-		<rom name="DATA/TEXT/ENGLISH/DIALOG/RAZOR.MSG" size="9829" crc="84c4b5b0" md5="0c76af1922db5cfd5de3ff9e98255923" sha1="d0703fdf4afb319cda02d0e723855deec9e2cd7f"/>
-		<rom name="DATA/TEXT/ENGLISH/GAME/COMBAT.MSG" size="27619" crc="509b555e" md5="06957df8685e68201a1465febd4466c6" sha1="45b1c4dc26b223af67565240caf065ba0ff1f655"/>
-		<rom name="DATA/TEXT/ENGLISH/GAME/LSGAME.MSG" size="1497" crc="b9c585fc" md5="9d6989bbff30af468ecea49c85f22f85" sha1="5c9d9b5bd34991737f2f0afa9b6e8ad6b4e7b37f"/>
-		<rom name="DATA/TEXT/ENGLISH/GAME/MAP.MSG" size="10356" crc="528ca148" md5="3f9b6accfaa2f2cc8ca776cf2af70ac1" sha1="2c2bdfac7603a8c821964da4e471fbca13a78ce9"/>
-		<rom name="DIGITEST.RAW" size="37448" crc="09f5d3d7" md5="c5efde8ea9a81fa0d1612057601df4c7" sha1="ddac978f336f19058cfc00fa6d2f59d7265e3b02"/>
-		<rom name="DOS4GW.EXE" size="265396" crc="5cc34b0f" md5="006211ca60fa3d4b38a9a8da2ade1056" sha1="c489f83dc15a9ffc3c502707da40e581ec79bfe6"/>
-		<rom name="FALL.BAT" size="41" crc="53f9078a" md5="75b321d30d5572bc23e20206dcdea4f4" sha1="fb2f143d9fe0b152bd884911c6f8e239c45195bf"/>
+		<rom name="CRITTER.DAT" size="158022057" crc="f11b382f" md5="b92ca2ad7c9afc404468a9287983ad90" sha1="4040dbe7dd65c8996afdec8c2df40870186677f3" date="1997-09-30 03:04:16"/>
+		<rom name="DATA/SCRIPTS/BITSBOB.INT" size="14180" crc="24cc3e7b" md5="020f1e1c2593ff829fe58e5731f9c406" sha1="56aeb2eb9cd424a61918e8795d2310132ac8e834" date="1997-10-30 12:43:42"/>
+		<rom name="DATA/SCRIPTS/COCDOOR.INT" size="414" crc="0f63d187" md5="96e4e63dd19b9fd0b4dae845c393fd5d" sha1="fab151571ddc54ea0d2ed855824e8693f14eaa36" date="1997-11-10 10:02:00"/>
+		<rom name="DATA/SCRIPTS/GABRIEL.INT" size="8302" crc="f127f0be" md5="0289e80c7155c2f30395731f841c0c97" sha1="d4423ec86b59d39340630fae0147e7fc2a5d9255" date="1997-10-29 08:38:34"/>
+		<rom name="DATA/SCRIPTS/GIZMO.INT" size="13084" crc="6b7c810a" md5="ff45bc5bf288b02b113a4de9b32b45ad" sha1="9d069dbd773533428448da26898f02640790cc26" date="1997-10-30 13:37:32"/>
+		<rom name="DATA/SCRIPTS/HALLDED1.INT" size="4680" crc="f782a1c8" md5="da1ec2080c453d3ac6ce071f75afe4da" sha1="3eb7e894f85745da659da8cdfce52360537a1cce" date="1997-10-30 16:06:16"/>
+		<rom name="DATA/SCRIPTS/HARRY.INT" size="12388" crc="acc1eb4d" md5="6ecc082cddc1d080361713194f297d89" sha1="89153df1f2c458d8ae8aff52d0327ddcbee39169" date="1997-10-29 08:54:10"/>
+		<rom name="DATA/SCRIPTS/HOTELMAP.INT" size="3864" crc="722dd4ed" md5="8dfc0b62372a012dd410354c2ea2eac8" sha1="d8a484b4de56d9db97eef64e9598d5bd240cb83c" date="1997-10-30 16:06:20"/>
+		<rom name="DATA/SCRIPTS/HUBDWNTN.INT" size="3380" crc="2317abeb" md5="cd3a7819748248e7a40b7504d686b831" sha1="19580731e2e92ba50a784f31a67c45278112463b" date="1997-10-30 16:06:26"/>
+		<rom name="DATA/SCRIPTS/JUNKCAS.INT" size="6502" crc="f5099e45" md5="45089119fde211d22e1966c8743ae476" sha1="3dd8a844aefb4b7a00eeae72cb1b1780ed2a5dcc" date="1997-10-30 16:06:30"/>
+		<rom name="DATA/SCRIPTS/JUNKENT.INT" size="3336" crc="3b1481a6" md5="239973edf9371717bee0ad399cfea197" sha1="d4b727df37eb94d5fa3097281fc205473b6b487c" date="1997-10-30 16:06:34"/>
+		<rom name="DATA/SCRIPTS/KILLIAN.INT" size="22916" crc="0bd5791f" md5="f2406860950c14697ec55db8bdf0b859" sha1="a0330611fcea2d7fb667736bc864180e83f52d99" date="1997-10-30 13:39:48"/>
+		<rom name="DATA/SCRIPTS/LARIPPER.INT" size="3864" crc="fdaa4f6b" md5="29902d4ab55a607e0fce2599327ff62d" sha1="37082daad8adb199c990ca7a24e320ec5611289a" date="1997-10-30 16:06:38"/>
+		<rom name="DATA/SCRIPTS/LARS.INT" size="9778" crc="2d94e0d2" md5="9f81933a2c26a8b3afa9acabb247e194" sha1="cb7ee4e374b2725e7472f5a2eae50bf845cf8512" date="1997-10-27 17:14:20"/>
+		<rom name="DATA/SCRIPTS/MASTER1.INT" size="3504" crc="7d08bc9d" md5="ee15e3b8625976309cea98d43acc630c" sha1="5577c1dd6e02c2fa03d4bb14fd0812dd23972929" date="1997-10-30 16:06:42"/>
+		<rom name="DATA/SCRIPTS/MASTER2.INT" size="4974" crc="13505a7b" md5="a95e9522dd7011a68dcf7c37e0888533" sha1="2cc5b98ac7cdd4be013db76a48fa9df2e3e62038" date="1997-10-30 16:06:46"/>
+		<rom name="DATA/SCRIPTS/MORPH.INT" size="14846" crc="6d77d887" md5="fec8074a2c99c51f690bf4dfcf68a60e" sha1="ba9634fd4141a3f4a386792e65fee36eb979abdb" date="1997-11-04 11:09:00"/>
+		<rom name="DATA/SCRIPTS/MSTMERCH.INT" size="7906" crc="ed5d9e83" md5="54d7d05ccfb24da072c1e16a64573f10" sha1="9ebaf7c273b61f56146882aa34304167db3697db" date="1997-10-27 11:34:44"/>
+		<rom name="DATA/SCRIPTS/NH2OPUMP.INT" size="1400" crc="0750c80b" md5="f9f6b0b818db4443b0873e5c0bfa8e13" sha1="a0d8b912047ddaa4614dce8f8a48d46684c8d841" date="1997-11-04 10:26:00"/>
+		<rom name="DATA/SCRIPTS/RAIDMAP.INT" size="3626" crc="c1af9fe9" md5="b1a0989a9071d6f74c0ba6e66608d7d4" sha1="24ffc3e5bbfd132526cfba008906fa141d6de8ce" date="1997-10-30 16:06:50"/>
+		<rom name="DATA/SCRIPTS/RAZOR.INT" size="11652" crc="76dd3c04" md5="f3c8ee192adeda267f2c8e8be7610b24" sha1="eb35df04c8042e06e81751a00e4e0d4476c21f70" date="1997-11-11 15:05:00"/>
+		<rom name="DATA/SCRIPTS/RHOMDOOR.INT" size="1428" crc="3364dcdf" md5="300e674b095b4381662a0e56a88dac6e" sha1="56daa6fb20956dfa7d67063a55b4e8f6a2d5814b" date="1997-11-07 14:37:00"/>
+		<rom name="DATA/SCRIPTS/SLAPPY.INT" size="5738" crc="f4c1b151" md5="ad3862bfb947832369035eaec6659534" sha1="5ff903b4f82c58a20764cbc482687a064a6d7a52" date="1997-10-27 11:54:14"/>
+		<rom name="DATA/SCRIPTS/TANDI.INT" size="14484" crc="43a14922" md5="b99b49c38abbdead3b94b3e2f310b470" sha1="eb4e126f7d46e7164b14230fb00c19c7fb12e629" date="1997-10-30 12:28:32"/>
+		<rom name="DATA/SCRIPTS/V13CAVE.INT" size="8638" crc="4dee0194" md5="2e9226ff05cd0fc8fc45a2204743401e" sha1="c5de2463fe2c08c80b3988490b73f62993edd09b" date="1997-10-06 12:13:42"/>
+		<rom name="DATA/SOUND/MUSIC/01HUB.ACM" size="5271351" crc="cddaebae" md5="ce646702e749d1bd8de0537bb112d026" sha1="999c8a543704aba788b65126e495ff8b09a79fbc" date="1997-08-30 15:57:10"/>
+		<rom name="DATA/SOUND/MUSIC/02MSTRLR.ACM" size="4061386" crc="35e90feb" md5="b1c749fad31572fe37ed70230e95b970" sha1="934f590af10f1eeba483d010a6a6ffe5fc3a1ca3" date="1997-06-27 19:46:22"/>
+		<rom name="DATA/SOUND/MUSIC/03WRLDMP.ACM" size="3939405" crc="c67bcf3e" md5="07fe0a0351e778e3e8df5313649b8c25" sha1="875e6062113bf587329649b71fcffc5a7364ce39" date="1997-06-27 20:25:16"/>
+		<rom name="DATA/SOUND/MUSIC/04BRTHRH.ACM" size="4419943" crc="fca52e67" md5="07cc0454bd25a2d6777d8e992a839cde" sha1="1123574501a0105aacc4ac26c3d2de8341840837" date="1997-06-27 21:06:30"/>
+		<rom name="DATA/SOUND/MUSIC/05RAIDER.ACM" size="4340887" crc="ad82f382" md5="9415c781c835931b9e2d7217997ec4dd" sha1="1bdfe59d9e6610c95b7dffabf2c1205097f7a533" date="1997-06-27 21:47:28"/>
+		<rom name="DATA/SOUND/MUSIC/06VAULT.ACM" size="5278078" crc="c0b604cf" md5="1cde846359d201de6a39e37acee3fbec" sha1="505d694fbdf182fc4fd2b737a8bda9784a0d8365" date="1997-06-27 22:37:20"/>
+		<rom name="DATA/SOUND/MUSIC/07DESERT.ACM" size="4273282" crc="0d4b999c" md5="bb8c187f329c2fac5054fe86965725d5" sha1="af681bb478ff5b4a5e902d876f09ee2c18d2ddaf" date="1997-06-27 23:17:56"/>
+		<rom name="DATA/SOUND/MUSIC/08VATS.ACM" size="4205084" crc="ed66dace" md5="bf86adee919d76d70fa9f6be49fd584c" sha1="94618fe10e36ba3c96e9ca71a2827c5b270164ff" date="1997-06-27 23:35:52"/>
+		<rom name="DATA/SOUND/MUSIC/09GLOW.ACM" size="5100660" crc="af0f82b6" md5="bcce472b3514b06b86346c73bf9557b2" sha1="48bf45e3c4d8eefe9a96bc6033a6455f941948f9" date="1997-06-27 23:54:08"/>
+		<rom name="DATA/SOUND/MUSIC/10LABONE.ACM" size="4682336" crc="9a16453c" md5="a4f02dd14c6a1fc83d96fec8eb8a129f" sha1="b1e44f12c445515e25395440f358367ac43c7923" date="1997-06-28 00:05:20"/>
+		<rom name="DATA/SOUND/MUSIC/11CHILRN.ACM" size="4328676" crc="931bcd26" md5="8d4b4d6d1cd4c2e05a0780b364fda776" sha1="40e3da2c571896b80d92f6c05bc6e576495a67c1" date="1997-06-28 00:15:36"/>
+		<rom name="DATA/SOUND/MUSIC/12JUNKTN.ACM" size="4422501" crc="60f99788" md5="dbce7aa813dc6083a567b4577b455b9f" sha1="b1da7cb3a7198db97a1f2a5cbe1591dbae697ae7" date="1997-06-28 00:26:06"/>
+		<rom name="DATA/SOUND/MUSIC/13CARVRN.ACM" size="5045692" crc="17d201bb" md5="b7c42f3d6de93137138eaaefdaa2ffe4" sha1="94b683afa24a25276f1494753477b60d6f4c532a" date="1997-06-28 00:38:06"/>
+		<rom name="DATA/SOUND/MUSIC/14NECRO.ACM" size="4464634" crc="a855c045" md5="eb0fd95eb78dbddfb8c0a4cc752d64e3" sha1="03cde11869b6d66514128623cd1ce08b176b5cf7" date="1997-06-28 00:48:48"/>
+		<rom name="DATA/SOUND/MUSIC/15SHADY.ACM" size="5237668" crc="c2ae885c" md5="e5328dff1d58812131c4669fb47d286c" sha1="730cf2db15f68735c58a7c9e7bb81ef956345fff" date="1997-06-28 01:01:14"/>
+		<rom name="DATA/SOUND/MUSIC/16FOLLOW.ACM" size="3820901" crc="63a74e2d" md5="fec079d7256c8bcee21dabab92d256c6" sha1="63a2d4995d92a52b51805845c2a6e0904ee7c59a" date="1997-06-28 01:10:22"/>
+		<rom name="DATA/SOUND/MUSIC/MAYBE.ACM" size="3692533" crc="00d4cf9b" md5="868b8374e6b2a0c07fbbaac4bace618a" sha1="2bf39455423a350c1b4ea125de535dfd424aef25" date="1997-07-18 13:00:02"/>
+		<rom name="DATA/SOUND/MUSIC/WIND1.ACM" size="136918" crc="e392102e" md5="4a78f754004a7802c3a6e7e22f63d5f2" sha1="8bb59d638c05fa9b131256cf8f5c3a594365effd" date="1997-06-26 14:11:58"/>
+		<rom name="DATA/SOUND/MUSIC/WIND2.ACM" size="120544" crc="07cd3f89" md5="6697ea9a4fa5a18600a72a65ef1e1ea5" sha1="0a8881d3b9ee1fd89f8797e8f44ff9079f29a281" date="1997-06-26 14:11:38"/>
+		<rom name="DATA/TEXT/ENGLISH/DIALOG/RAZOR.MSG" size="9829" crc="84c4b5b0" md5="0c76af1922db5cfd5de3ff9e98255923" sha1="d0703fdf4afb319cda02d0e723855deec9e2cd7f" date="1997-11-05 11:18:04"/>
+		<rom name="DATA/TEXT/ENGLISH/GAME/COMBAT.MSG" size="27619" crc="509b555e" md5="06957df8685e68201a1465febd4466c6" sha1="45b1c4dc26b223af67565240caf065ba0ff1f655" date="1997-10-30 10:12:44"/>
+		<rom name="DATA/TEXT/ENGLISH/GAME/LSGAME.MSG" size="1497" crc="b9c585fc" md5="9d6989bbff30af468ecea49c85f22f85" sha1="5c9d9b5bd34991737f2f0afa9b6e8ad6b4e7b37f" date="1997-10-29 09:34:54"/>
+		<rom name="DATA/TEXT/ENGLISH/GAME/MAP.MSG" size="10356" crc="528ca148" md5="3f9b6accfaa2f2cc8ca776cf2af70ac1" sha1="2c2bdfac7603a8c821964da4e471fbca13a78ce9" date="1997-10-30 16:00:04"/>
+		<rom name="DIGITEST.RAW" size="37448" crc="09f5d3d7" md5="c5efde8ea9a81fa0d1612057601df4c7" sha1="ddac978f336f19058cfc00fa6d2f59d7265e3b02" date="1997-07-07 14:20:28"/>
+		<rom name="DOS.YML" size="17" crc="96974fc7" md5="3bd57cdc515bb52b9d71eaadc7ad6f31" sha1="a596efb9fdc80c46388b5b942bb709257dcb9f1b" data="bWVtX3NpemU6IDMyNzY4DQo="/>
+		<rom name="DOS4GW.EXE" size="265396" crc="5cc34b0f" md5="006211ca60fa3d4b38a9a8da2ade1056" sha1="c489f83dc15a9ffc3c502707da40e581ec79bfe6" date="1996-02-29 08:06:00"/>
 		<rom name="FALLOUT.CFG" size="248" crc="e55f975b" md5="76c91315da805f564763a1ca7433194e" sha1="e656d2d8630bea037145ac0e1e75597626a76a6f"/>
-		<rom name="FALLOUT.EXE" size="1498058" crc="bad93c1b" md5="6a41c641b789b44fd7be1805ce030c9b" sha1="acbbc7e81bb30a878c7ee0fa755a4e13a2275b11"/>
-		<rom name="HMIDET.386" size="81990" crc="637c56a8" md5="59b3f813848cda336763648d628db917" sha1="27a06eb94b0abf13139c311ebed73358b20bcdab"/>
-		<rom name="HMIDRV.386" size="261425" crc="f6d116a3" md5="bd16499c7c0ef8cebb0999373edc5361" sha1="becd7f4a413a1966986b4c41c860b678d7244d58"/>
-		<rom name="MASTER.DAT" size="333674504" crc="c75956c9" md5="fb6a92a206191adf15440b2f9cbf014c" sha1="b367417522702246c7accf4339e896d02b5677f1"/>
-		<rom name="README.TXT" size="19758" crc="98626cb0" md5="8392a1ba32cb8333d6a6f86bbb164f14" sha1="412ef9b5017b280c5f886fdab94a8e7e08f08e50"/>
-		<rom name="SOUND.EXE" size="115350" crc="f95a1591" md5="cd40c433bad4ea027b60d422cc5b40e2" sha1="b83bccc1913ad36d7f9f3ea26ccf6a394916c514"/>
+		<rom name="FALLOUT.EXE" size="1498058" crc="bad93c1b" md5="6a41c641b789b44fd7be1805ce030c9b" sha1="acbbc7e81bb30a878c7ee0fa755a4e13a2275b11" date="1997-11-11 15:05:46"/>
+		<rom name="HMIDET.386" size="81990" crc="637c56a8" md5="59b3f813848cda336763648d628db917" sha1="27a06eb94b0abf13139c311ebed73358b20bcdab" date="1997-05-27 14:07:16"/>
+		<rom name="HMIDRV.386" size="261425" crc="f6d116a3" md5="bd16499c7c0ef8cebb0999373edc5361" sha1="becd7f4a413a1966986b4c41c860b678d7244d58" date="1997-05-27 14:07:16"/>
+		<rom name="MASTER.DAT" size="333674504" crc="c75956c9" md5="fb6a92a206191adf15440b2f9cbf014c" sha1="b367417522702246c7accf4339e896d02b5677f1" date="1997-09-30 14:43:02"/>
+		<rom name="README.TXT" size="19758" crc="98626cb0" md5="8392a1ba32cb8333d6a6f86bbb164f14" sha1="412ef9b5017b280c5f886fdab94a8e7e08f08e50" date="1999-11-09 12:30:10"/>
+		<rom name="SOUND.EXE" size="115350" crc="f95a1591" md5="cd40c433bad4ea027b60d422cc5b40e2" sha1="b83bccc1913ad36d7f9f3ea26ccf6a394916c514" date="1997-09-04 15:02:22"/>
 	</game>
 	<game name="Elder Scrolls Adventures, The - Redguard (1998) (Bethesda Softworks).dosz">
 		<description>Elder Scrolls Adventures, The - Redguard</description>
