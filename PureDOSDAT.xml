@@ -3285,15 +3285,14 @@
 	</game>
 	<game name="Fallout (1997) (Interplay).dosz">
 		<description>Fallout</description>
-		<comment>Full "Humongous" install from Redump-verified Fallout (USA) (Rerelease) (1999-11-10) CD-ROM (v1.1).</comment>
-		<comment_dosc>CD mount, auto-start, sound config</comment_dosc>
+		<comment>Installed using Redump-verified CD-ROM: Fallout (USA) (Rerelease) (1999-11-10), which is the v1.1 version.
+		Used the Humongous installation option
+		Sound Blaster 16/AWE32 sound option</comment>
+		<comment_dosc>Sets memory size to 65536, CPU max year to 1997, auto-starts, and has config</comment_dosc>
 		<year>1997</year>
 		<developer>Interplay</developer>
-		<rom name="CD/FALLOUT.CHD" size="789803136" crc="061d30d1" md5="b9a55a2de55c4d538ff325a643ec57ba" sha1="65e287ecab247c74642b9c5ffe598755e2650cdf">
-			<track number="1" type="MODE1_RAW" frames="322560" pregap="0" duration="71:40:60" size="758661120" crc="69e22761" md5="c0e6c652aeb828eaf4e825de34475473" sha1="ed76abe517236378743ff6444336a9f347b5da1d" in_zeros="1" out_zeros="0"/>
-		</rom>
 		<rom name="CRITTER.DAT" size="158022057" crc="f11b382f" md5="b92ca2ad7c9afc404468a9287983ad90" sha1="4040dbe7dd65c8996afdec8c2df40870186677f3"/>
-		<rom name="DATA/MAPS/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-12-31 00:00:00"/>
+		<rom name="DATA/MAPS/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="DATA/SCRIPTS/BITSBOB.INT" size="14180" crc="24cc3e7b" md5="020f1e1c2593ff829fe58e5731f9c406" sha1="56aeb2eb9cd424a61918e8795d2310132ac8e834"/>
 		<rom name="DATA/SCRIPTS/COCDOOR.INT" size="414" crc="0f63d187" md5="96e4e63dd19b9fd0b4dae845c393fd5d" sha1="fab151571ddc54ea0d2ed855824e8693f14eaa36"/>
 		<rom name="DATA/SCRIPTS/GABRIEL.INT" size="8302" crc="f127f0be" md5="0289e80c7155c2f30395731f841c0c97" sha1="d4423ec86b59d39340630fae0147e7fc2a5d9255"/>
@@ -3344,13 +3343,13 @@
 		<rom name="DIGITEST.RAW" size="37448" crc="09f5d3d7" md5="c5efde8ea9a81fa0d1612057601df4c7" sha1="ddac978f336f19058cfc00fa6d2f59d7265e3b02"/>
 		<rom name="DOS4GW.EXE" size="265396" crc="5cc34b0f" md5="006211ca60fa3d4b38a9a8da2ade1056" sha1="c489f83dc15a9ffc3c502707da40e581ec79bfe6"/>
 		<rom name="FALL.BAT" size="41" crc="53f9078a" md5="75b321d30d5572bc23e20206dcdea4f4" sha1="fb2f143d9fe0b152bd884911c6f8e239c45195bf"/>
+		<rom name="FALLOUT.CFG" size="248" crc="e55f975b" md5="76c91315da805f564763a1ca7433194e" sha1="e656d2d8630bea037145ac0e1e75597626a76a6f"/>
 		<rom name="FALLOUT.EXE" size="1498058" crc="bad93c1b" md5="6a41c641b789b44fd7be1805ce030c9b" sha1="acbbc7e81bb30a878c7ee0fa755a4e13a2275b11"/>
 		<rom name="HMIDET.386" size="81990" crc="637c56a8" md5="59b3f813848cda336763648d628db917" sha1="27a06eb94b0abf13139c311ebed73358b20bcdab"/>
 		<rom name="HMIDRV.386" size="261425" crc="f6d116a3" md5="bd16499c7c0ef8cebb0999373edc5361" sha1="becd7f4a413a1966986b4c41c860b678d7244d58"/>
 		<rom name="MASTER.DAT" size="333674504" crc="c75956c9" md5="fb6a92a206191adf15440b2f9cbf014c" sha1="b367417522702246c7accf4339e896d02b5677f1"/>
 		<rom name="README.TXT" size="19758" crc="98626cb0" md5="8392a1ba32cb8333d6a6f86bbb164f14" sha1="412ef9b5017b280c5f886fdab94a8e7e08f08e50"/>
 		<rom name="SOUND.EXE" size="115350" crc="f95a1591" md5="cd40c433bad4ea027b60d422cc5b40e2" sha1="b83bccc1913ad36d7f9f3ea26ccf6a394916c514"/>
-		<rom name="UNINST.LOG" size="3816" crc="9bb5c326" md5="19316714ad1832edfae4d13d61c2cecf" sha1="117243764458dad27b26e9bf92907aa4f176e016"/>
 	</game>
 	<game name="Elder Scrolls Adventures, The - Redguard (1998) (Bethesda Softworks).dosz">
 		<description>Elder Scrolls Adventures, The - Redguard</description>
