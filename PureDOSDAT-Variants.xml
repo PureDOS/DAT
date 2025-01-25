@@ -3230,14 +3230,22 @@
 	</game>
 	<game name="Ultima 0 - Akalabeth (1980) (Origin Systems) (GOG).dosz">
 		<description>Ultima 0 - Akalabeth</description>
-		<comment>Available for free</comment>
-		<comment_dosc>Auto-starts</comment_dosc>
+		<comment_dosc>Auto-starts and has sound config</comment_dosc>
 		<year>1980</year>
 		<developer>Origin Systems</developer>
 		<variant>GOG</variant>
 		<link type="store">https://www.gog.com/en/game/akalabeth_world_of_doom</link>
-		<rom name="AKLABETH.BAS" size="38929" crc="65a1032c" md5="fcc761f7209ade0d3380208d54e89c84" sha1="abb46bb3b4bf5502818c5a16251bf9d194c5e30d"/>
-		<rom name="AKLABETH.EXE" size="110712" crc="2410c1ed" md5="64a7bb131c02d39eaee92d802d56d72d" sha1="3d8f24ddd54941460957ec8d7563a45afe6a4e5f"/>
+		<rom name="AK.DAT" size="17241" crc="232013f5" md5="4ccf313629438b41a517f9b634f6e6dc" sha1="7209a15d6fe310bd92cc5c2d2299224456011297"/>
+		<rom name="AK.EXE" size="238962" crc="768211c2" md5="92284a450444e256b185dc3b7ba917d8" sha1="756637c80622b84b8167f8bc4192e221ac50187d"/>
+		<rom name="DUNGEON.MID" size="3488" crc="983b56f7" md5="9d7e3b05f2698d611957ef87a64796ee" sha1="3873a4310626366226b7d7ccb0c30e539aaf1e8b"/>
+		<rom name="INTRO.MID" size="4998" crc="50aa0ac6" md5="c81fbbe5e1788d7bc5631a73f50f3711" sha1="65ff091a21665050ab16defd482e4d9611764045"/>
+		<rom name="LORDBRIT.MID" size="5680" crc="20e76265" md5="c6b0d54b07f3790aaf065d5546531967" sha1="a270def93f7aedcef5c79fe91f8a71c66bf243cb"/>
+		<rom name="OVER.MID" size="3388" crc="c956b389" md5="564eb57552a41b670e4be2037dec6cde" sha1="3ef74c1a283d6555299e581b464678b34e89bf41"/>
+		<rom name="README.NOW" size="2488" crc="75904ac8" md5="f80b80ff8c3b584a68aeb1d6549075f5" sha1="015d114b405b6b57c4b28dcd212fada18825cfce"/>
+		<rom name="SETUP.EXE" size="190043" crc="da5503ff" md5="cd68583c1432609b347de8f5bbda7fdb" sha1="ce7882ccace12504e440e4ad4ece67a8ed702c40"/>
+		<rom name="SHOP.MID" size="4156" crc="91191069" md5="feee9ef44f4edfb26fe8996e185f318f" sha1="5d5a337e603041a8973512db955968bdc79725f9"/>
+		<rom name="SOUND.CFG" size="126" crc="8e025fb9" md5="8ce691c327ccd7cbe45682d76bf5a0c7" sha1="bdeb999839fb2c3267bdd53080cc63512cbe7bc0"/>
+		<rom name="WHATS.NEW" size="2320" crc="5a18c5f2" md5="dd1e66e5a159cdb03337b067a0e3d541" sha1="355a8616d1b7eb25e907c8d17aacd87eab4aa9d9"/>
 	</game>
 	<game name="Ultima I - The First Age of Darkness (1987) (Origin Systems) (GOG).dosz">
 		<description>Ultima I - The First Age of Darkness</description>

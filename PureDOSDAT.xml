@@ -5106,22 +5106,25 @@
 	</game>
 	<game name="Ultima 0 - Akalabeth (1980) (Origin Systems).dosz">
 		<description>Ultima 0 - Akalabeth</description>
-		<comment>Files extracted from Ultima Collection (1997) disc.</comment>
-		<comment_dosc>Auto-starts</comment_dosc>
+		<comment>Files extracted from Ultima Collection (1997) disc
+		Contains an updated CWSDPMI.EXE from https://sandmann.dotster.com/cwsdpmi/</comment>
+		<comment_dosc>Sets CPU year to 1983, has sound config, and contains AK.BAT with the following contents:
+		cwsdpmi -x
+		ak
+		Auto-starts by launching AK.BAT</comment_dosc>
 		<year>1980</year>
 		<developer>Origin Systems</developer>
-		<rom name="AK.DAT" size="17241" crc="232013f5" md5="4ccf313629438b41a517f9b634f6e6dc" sha1="7209a15d6fe310bd92cc5c2d2299224456011297" date="1997-11-20 13:54:16"/>
-		<rom name="AK.EXE" size="572510" crc="e92a77a0" md5="03f671746e9a55d92f1bcc204cd632fa" sha1="7789fc944801013dcccaa3eb0a9bc65682193bde" date="1998-01-14 11:16:20"/>
-		<rom name="CWSDPMI.EXE" size="20473" crc="80fa6999" md5="da922d33e83c4ca711a92e59f2c6a9fc" sha1="3de2eb058ed95a0bbe7f19eae24f77a025b2e3bb" date="1997-10-19 16:48:28"/>
-		<rom name="DUNGEON.MID" size="3488" crc="983b56f7" md5="9d7e3b05f2698d611957ef87a64796ee" sha1="3873a4310626366226b7d7ccb0c30e539aaf1e8b" date="1995-06-17 07:59:48"/>
-		<rom name="INTRO.MID" size="4998" crc="50aa0ac6" md5="c81fbbe5e1788d7bc5631a73f50f3711" sha1="65ff091a21665050ab16defd482e4d9611764045" date="1994-08-26 21:31:12"/>
-		<rom name="LORDBRIT.MID" size="5680" crc="20e76265" md5="c6b0d54b07f3790aaf065d5546531967" sha1="a270def93f7aedcef5c79fe91f8a71c66bf243cb" date="1995-06-17 07:59:52"/>
-		<rom name="OVER.MID" size="3388" crc="c956b389" md5="564eb57552a41b670e4be2037dec6cde" sha1="3ef74c1a283d6555299e581b464678b34e89bf41" date="1994-08-26 21:33:32"/>
-		<rom name="README.NOW" size="2488" crc="75904ac8" md5="f80b80ff8c3b584a68aeb1d6549075f5" sha1="015d114b405b6b57c4b28dcd212fada18825cfce" date="1999-06-21 08:24:36"/>
-		<rom name="SETUP.EXE" size="328192" crc="06c35e09" md5="5b8bd2cf910ac19349dc04768e27eafd" sha1="9648ab8f3b6bc824421633b2cc89a7a8e75c2c7f" date="1997-04-06 16:53:52"/>
-		<rom name="SHOP.MID" size="4156" crc="91191069" md5="feee9ef44f4edfb26fe8996e185f318f" sha1="5d5a337e603041a8973512db955968bdc79725f9" date="1995-06-17 07:59:52"/>
-		<rom name="SOUND.CFG" size="128" crc="04824691" md5="0da11c64dd950ca2e0942a744fef5b2b" sha1="474ee528a6652dbe07b70408300363d3a2869f44"/>
-		<rom name="WHATS.NEW" size="2320" crc="5a18c5f2" md5="dd1e66e5a159cdb03337b067a0e3d541" sha1="355a8616d1b7eb25e907c8d17aacd87eab4aa9d9" date="1998-01-14 11:18:32"/>
+		<rom name="AK.DAT" size="17241" crc="232013f5" md5="4ccf313629438b41a517f9b634f6e6dc" sha1="7209a15d6fe310bd92cc5c2d2299224456011297"/>
+		<rom name="AK.EXE" size="572510" crc="e92a77a0" md5="03f671746e9a55d92f1bcc204cd632fa" sha1="7789fc944801013dcccaa3eb0a9bc65682193bde"/>
+		<rom name="CWSDPMI.EXE" size="20473" crc="80fa6999" md5="da922d33e83c4ca711a92e59f2c6a9fc" sha1="3de2eb058ed95a0bbe7f19eae24f77a025b2e3bb"/>
+		<rom name="DUNGEON.MID" size="3488" crc="983b56f7" md5="9d7e3b05f2698d611957ef87a64796ee" sha1="3873a4310626366226b7d7ccb0c30e539aaf1e8b"/>
+		<rom name="INTRO.MID" size="4998" crc="50aa0ac6" md5="c81fbbe5e1788d7bc5631a73f50f3711" sha1="65ff091a21665050ab16defd482e4d9611764045"/>
+		<rom name="LORDBRIT.MID" size="5680" crc="20e76265" md5="c6b0d54b07f3790aaf065d5546531967" sha1="a270def93f7aedcef5c79fe91f8a71c66bf243cb"/>
+		<rom name="OVER.MID" size="3388" crc="c956b389" md5="564eb57552a41b670e4be2037dec6cde" sha1="3ef74c1a283d6555299e581b464678b34e89bf41"/>
+		<rom name="README.NOW" size="2488" crc="75904ac8" md5="f80b80ff8c3b584a68aeb1d6549075f5" sha1="015d114b405b6b57c4b28dcd212fada18825cfce"/>
+		<rom name="SETUP.EXE" size="328192" crc="06c35e09" md5="5b8bd2cf910ac19349dc04768e27eafd" sha1="9648ab8f3b6bc824421633b2cc89a7a8e75c2c7f"/>
+		<rom name="SHOP.MID" size="4156" crc="91191069" md5="feee9ef44f4edfb26fe8996e185f318f" sha1="5d5a337e603041a8973512db955968bdc79725f9"/>
+		<rom name="WHATS.NEW" size="2320" crc="5a18c5f2" md5="dd1e66e5a159cdb03337b067a0e3d541" sha1="355a8616d1b7eb25e907c8d17aacd87eab4aa9d9"/>
 	</game>
 	<game name="Ultima I - The First Age of Darkness (1987) (Origin Systems).dosz">
 		<description>Ultima I - The First Age of Darkness</description>
