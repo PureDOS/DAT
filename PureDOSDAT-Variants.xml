@@ -12,8 +12,12 @@
 	</header>
 	<game name="Elder Scrolls Legend, An - Battlespire (1997) (Bethesda Softworks) (GOG).dosz">
 		<description>Elder Scrolls Legend, An - Battlespire</description>
-		<comment>v1.5. Needs DOS.YML with mem_size: 65536</comment>
-		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
+		<comment>
+			v1.5
+			Needs DOS.YML with mem_size: 65536
+			Needs GOG's default SPIRE.CFG file
+		</comment>
+		<comment_dosc>Required SPIRE.CFG file, Sound Blaster 16 config, high resolution, and auto start</comment_dosc>
 		<year>1997</year>
 		<developer>Bethesda Softworks</developer>
 		<variant>GOG</variant>
