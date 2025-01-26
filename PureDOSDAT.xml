@@ -10344,13 +10344,7 @@
 		<description>Prisoner of Ice</description>
 		<year>1995</year>
 		<developer>Infogrames</developer>
-		<comment>
-			Requires the GOG release
-			Create a DOSZ of the files in the "CD" folder - an installation variant has been added with the correct files
-			DoDAT is recommended for this - RomVault/TrrntZip may not work
-			Make sure the files are at the root of the DOSZ - don't include the "CD" folder itself
-			Use DOSZtoCHD to build this DOSZ into a CHD file (don't use the -l or -f parameters)
-		</comment>
+		<comment>Use DOSZtoCHD with "Prisoner of Ice (1995) (Infogrames) (Installation).dosz" (built with DoDAT) to get the CHD file</comment>
 		<comment_dosc>Sound Blaster 16 config, 640x480 resolution, and auto start</comment_dosc>
 		<link type="store">https://www.gog.com/en/game/call_of_cthulhu_prisoner_of_ice</link>
 		<rom name="Prisoner of Ice (1995) (Infogrames).chd" size="351591552" crc="711a6cdf" md5="0ea343d2be20365d92c2c19974c649af" sha1="1be1a5a9291cf34948762e3cee3795c3d0684af0">
