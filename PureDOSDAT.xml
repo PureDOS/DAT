@@ -10408,6 +10408,17 @@
 		<rom name="VIZIER.DAT" size="6111" crc="6010d5ca" md5="33a910991b0afb800868b631efaca1f3" sha1="f3bbe710982bbcdb51f43ab5c97d0e23efd0f633" date="1992-04-02 13:00:02"/>
 		<rom name="VPALACE.DAT" size="14212" crc="1c712ce9" md5="cc86fb01fddb7f54b0a903314e391eff" sha1="09f261c0493c90d8fa16123c5215a881e138fa58" date="1992-04-02 13:00:02"/>
 	</game>
+	<game name="Prisoner of Ice (1995) (Infogrames).dosz">
+		<description>Prisoner of Ice</description>
+		<year>1995</year>
+		<developer>Infogrames</developer>
+		<comment>Use DOSZtoCHD with "Prisoner of Ice (1995) (Infogrames) (Installation).dosz" (built with DoDAT) to get the CHD file</comment>
+		<comment_dosc>Sound Blaster 16 config, 640x480 resolution, and auto start</comment_dosc>
+		<link type="store">https://www.gog.com/en/game/call_of_cthulhu_prisoner_of_ice</link>
+		<rom name="Prisoner of Ice (1995) (Infogrames).chd" size="351591552" crc="711a6cdf" md5="0ea343d2be20365d92c2c19974c649af" sha1="1be1a5a9291cf34948762e3cee3795c3d0684af0">
+			<track number="1" type="MODE1" frames="143615" pregap="0" duration="31:54:65" size="294123520" crc="93da2f3a" md5="bc2c1e9344c8747e06aca5312382566b" sha1="eb323e30cc739aa63095c50e8def810754a646bb" in_zeros="32768" out_zeros="1679"/>
+		</rom>
+	</game>
 	<game name="Quake (1996) (id Software).dosz">
 		<description>Quake</description>
 		<comment>Installed v1.08 from Quake: The Offering CD, Windows-only files and VQuake removed</comment>

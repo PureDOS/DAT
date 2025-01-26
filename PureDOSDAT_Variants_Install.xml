@@ -343,6 +343,98 @@
 			<track number="10" type="AUDIO" frames="734" pregap="150" duration="00:09:59" size="1726368" crc="300e8553" md5="77894b232602d3cdd65573a8144ea0b9" sha1="fa08cdc1e90e92098a686812a4db9a6cec35e7c5" in_zeros="0" out_zeros="527643"/>
 		</rom>
 	</game>
+	<game name="Prisoner of Ice (1995) (Infogrames) (Installation).dosz">
+		<description>Prisoner of Ice</description>
+		<year>1995</year>
+		<developer>Infogrames</developer>
+		<variant>Installation</variant>
+		<comment>Matches with the "CD" folder in GOG's release. Use with DOSZtoCHD to build these files into a CHD file.</comment>
+		<link type="store">https://www.gog.com/en/game/call_of_cthulhu_prisoner_of_ice</link>
+		<rom name="__ice__.par" size="41" crc="8b2778f2" md5="9a733d4fb59a927155cab2fb42d3eddd" sha1="a8151795e43658587a7bf4d979f9c2b066b08b68" date="2017-12-13 15:42:10"/>
+		<rom name="a_klang.bin" size="561" crc="21fe276c" md5="f20001d885aee4e6320052a4368bf8cf" sha1="1dd6f729d09e41b70fade1d1060293970eeaea55" date="2017-12-13 15:42:08"/>
+		<rom name="a_klang.kro" size="28719076" crc="ac2921c9" md5="8af53cf3e58a01e0f9e1894a10ecb349" sha1="e332e0fb87ad92dbf5c8cabec3600d88bc2df5f3" date="2017-12-13 15:42:08"/>
+		<rom name="drum.bnk" size="5404" crc="19cde7ae" md5="d7ff7b6a671863e284329c8ceeb46326" sha1="9f35dc8284117dafe767c90a7917ec4fe99a05fb" date="2017-12-13 15:42:08"/>
+		<rom name="gus.bat" size="23" crc="b6721b98" md5="5844b9bc047a97fee5cb53e1c3da479d" sha1="5fa98bf81162278515631c4fc8fe918bc362591b" date="2017-12-13 15:42:08"/>
+		<rom name="hmidet.386" size="81990" crc="637c56a8" md5="59b3f813848cda336763648d628db917" sha1="27a06eb94b0abf13139c311ebed73358b20bcdab" date="2017-12-13 15:42:08"/>
+		<rom name="hmidrv.386" size="261425" crc="f6d116a3" md5="bd16499c7c0ef8cebb0999373edc5361" sha1="becd7f4a413a1966986b4c41c860b678d7244d58" date="2017-12-13 15:42:10"/>
+		<rom name="hmimdrv.386" size="117776" crc="24ef6991" md5="ddfac2fec57dfd841ccfb64adee3b35e" sha1="2a5465355553646586de2368c4cd70d30697247f" date="2017-12-13 15:42:08"/>
+		<rom name="ice.pck" size="154" crc="bf2f53d7" md5="f16dd2a00f4c051a743d05ad2e70f998" sha1="637de5a9b6a8dea2431f3c7c281d1d5d15b88770" date="2017-12-13 15:42:08"/>
+		<rom name="ice320.exe" size="578535" crc="25ad4bae" md5="fda5736c82307f55601a206692051036" sha1="6e5051c1b09236ac47b6c4d1e7822cf853ce682c" date="2017-12-13 15:42:08"/>
+		<rom name="ice640.exe" size="578507" crc="4501d4a4" md5="15ab4bb29e6702271fa9c29a6cda03d8" sha1="08cb1e406577e8eb1ba35ab4116ccfe03cb116c6" date="2017-12-13 15:42:08"/>
+		<rom name="icegus.ini" size="3091" crc="362c1bbf" md5="a4b2562ff70839a7c1dd5ec455aff484" sha1="1f75999801630dcc1ffebecb30aaf26a7d5803d3" date="2017-12-13 15:42:08"/>
+		<rom name="ksound.kro" size="93838207" crc="01cdf9ae" md5="69511a81f8f1e61b39ae5bbfdb5209fb" sha1="22c3e316799c3306be3116128b54bcf24647f5c6" date="2017-12-13 15:42:10"/>
+		<rom name="ksvga.kro" size="45874014" crc="b01d295c" md5="edc2738715134e2a935ed86291e087a4" sha1="fdaf69bef806f5bb29689de24072276f76a03bd2" date="2017-12-13 15:42:08"/>
+		<rom name="kvga.kro" size="15468702" crc="9e7f3c2e" md5="bb7ddd4be122183b70804f5c949e4f36" sha1="fe086bde7cab4efc39e0544ca6568726f9c3e544" date="2017-12-13 15:42:08"/>
+		<rom name="loadpats.exe" size="49194" crc="066c5e51" md5="b24134b3fab09b2727b49a0fe1d64d8e" sha1="d9ba6f21e0e7a7210fc7bdc99495343cadd07d9d" date="2017-12-13 15:42:10"/>
+		<rom name="melodic.bnk" size="5404" crc="df69bfc0" md5="b34005401ea24906ec93c49612c7978b" sha1="c373f828b3db4edb305477b7ab58a60852bc14c2" date="2017-12-13 15:42:08"/>
+		<rom name="savesvga/readme.txt" size="304" crc="401932e1" md5="b8102cfc9e24b1253968ed6fce31b4ab" sha1="eefd37fce9d4f363c7a3c58517e93131e3e710d1" date="2017-12-13 15:42:10"/>
+		<rom name="savesvga/sav_90s.ice" size="51872" crc="e499fc39" md5="28fca9894663e0318ff6cc368f8974c9" sha1="977657eb1da81ea299d748b25e4123bbc5f2b24b" date="2017-12-13 15:42:10"/>
+		<rom name="savesvga/sav_91s.ice" size="50358" crc="f483353a" md5="935064ff6760af6ea765502e630e2572" sha1="7ba32bca425c1e0a7143e937c13a30b4dad2d6be" date="2017-12-13 15:42:10"/>
+		<rom name="savesvga/sav_92s.ice" size="51135" crc="7ce27061" md5="6356055913be3c84b7239f8de9090635" sha1="8be1d3827e8a43bb4153c2d84a664acdf35430cd" date="2017-12-13 15:42:10"/>
+		<rom name="savesvga/sav_93s.ice" size="49800" crc="d9794d00" md5="c22eb612988e2de90adf68eff1bb887f" sha1="a5eb324af5202eb0c8da65b499b12859e0ebd323" date="2017-12-13 15:42:10"/>
+		<rom name="savesvga/sav_94s.ice" size="49884" crc="86248b37" md5="9379755dfc432cca731369e9e8f7c182" sha1="2943369f5c74a1768f4b6f7b8ea64904a13d4ea5" date="2017-12-13 15:42:10"/>
+		<rom name="savesvga/sav_95s.ice" size="50859" crc="c1bab5e7" md5="beebb4d6d4d0246cb10847c1483eba69" sha1="f0d31ab90d7810f816c0b5906dd79ce061b6c1f9" date="2017-12-13 15:42:10"/>
+		<rom name="savesvga/sav_96s.ice" size="51422" crc="64bcf759" md5="bbb999f376a2ef74c093499eeb1468fc" sha1="7b2c9d4008d77d514135d0ef25e31b235db163eb" date="2017-12-13 15:42:10"/>
+		<rom name="savesvga/sav_97s.ice" size="50657" crc="fdb2224d" md5="7be679d32c6461a59b88d5159358f1b4" sha1="4e53231209357d648b281d169bb5ee713aa6c514" date="2017-12-13 15:42:10"/>
+		<rom name="savesvga/sav_98s.ice" size="50997" crc="c3cc11c4" md5="5b0918cd7d9b62f8b464bfaf2f415e3d" sha1="c231aa30b38da6f2af816e7c0875a3c10cd2d6b1" date="2017-12-13 15:42:10"/>
+		<rom name="savesvga/sav_99s.ice" size="49726" crc="02fc3ebe" md5="a8eddc22f9d7151a9399f853c8820479" sha1="8c2f8f806a7e1d2b79217344ed880b2dab61dfed" date="2017-12-13 15:42:10"/>
+		<rom name="savevga/readme.txt" size="304" crc="401932e1" md5="b8102cfc9e24b1253968ed6fce31b4ab" sha1="eefd37fce9d4f363c7a3c58517e93131e3e710d1" date="2017-12-13 15:42:10"/>
+		<rom name="savevga/sav_90v.ice" size="42272" crc="9ecdd901" md5="d73b1ede1ebc0e154700f87c0caac1eb" sha1="095a625980881e656e0f8cad0d0459c7e02be930" date="2017-12-13 15:42:10"/>
+		<rom name="savevga/sav_91v.ice" size="40758" crc="46b95329" md5="e787326d1bf06f4f755e4c0e4b61c2d2" sha1="be3a9b42ebd0aa17512b37f2c16daf0d472b7333" date="2017-12-13 15:42:10"/>
+		<rom name="savevga/sav_92v.ice" size="41535" crc="eecec80c" md5="dbda138bdc6346a28b76020fc693c3fb" sha1="ea9b09699a33618cd70638d4cf319578c5ad3ead" date="2017-12-13 15:42:10"/>
+		<rom name="savevga/sav_93v.ice" size="40200" crc="3f9e0842" md5="9f1fbf9a29e1bb130d490bd97d916042" sha1="8ca68eb4be77adcf745d7a126611ebd704341fc7" date="2017-12-13 15:42:10"/>
+		<rom name="savevga/sav_94v.ice" size="40284" crc="497d57b1" md5="78a45ddef2bdb14e381320bfa443923e" sha1="6fbc31f90ba3779eff6310dbd386de01c4bc9c7b" date="2017-12-13 15:42:10"/>
+		<rom name="savevga/sav_95v.ice" size="41379" crc="7156ce7c" md5="8ff09b750bbf7fbc64d211ff4edffdb4" sha1="3e934bd0e9d9c74c63bb8d0ea50a24b9c5e5568f" date="2017-12-13 15:42:10"/>
+		<rom name="savevga/sav_96v.ice" size="41822" crc="e10e79fa" md5="e22ccec5bcea28b82a6b93236362978e" sha1="c52e598b8e08caf19fa636b8397cd9c9c78e9884" date="2017-12-13 15:42:10"/>
+		<rom name="savevga/sav_97v.ice" size="41057" crc="d4f31a03" md5="c32997fb29f4eb4f1ad9023aca804ad2" sha1="24467676da73320279f47d80edd810ea00e9d2f2" date="2017-12-13 15:42:10"/>
+		<rom name="savevga/sav_98v.ice" size="41397" crc="7f0cb764" md5="6de52cabe63b78e469217176ed09d8bf" sha1="326c733062589b00d1f9824704ff1ef654234623" date="2017-12-13 15:42:10"/>
+		<rom name="savevga/sav_99v.ice" size="40156" crc="8d792b34" md5="743b8a16a20e00fecb4fe2413217ab98" sha1="fb96e6101bc10e2bac585c44580692c5436d800c" date="2017-12-13 15:42:10"/>
+		<rom name="video/safinal1.mux" size="6379312" crc="abb37ae7" md5="cd26143397ab9d41f92eafc116560afa" sha1="9ae1ae2c74b5e1dafca77119d2c6cacf10f56c3e" date="2017-12-13 15:42:10"/>
+		<rom name="video/safinal2.mux" size="2126664" crc="54989bf4" md5="f77670f446bc0384deedc0364f9aa9c8" sha1="36850513f388186f810ce73d4ff416e34d9b3911" date="2017-12-13 15:42:10"/>
+		<rom name="video/safinal3.mux" size="5723239" crc="9192f2f6" md5="c1b16e7f0d4eeac3414f83fea024deea" sha1="c8149eb582962aea7206b980b7d2b3e2965bda52" date="2017-12-13 15:42:10"/>
+		<rom name="video/safinal4.mux" size="3422835" crc="de889a7d" md5="065e550309072b3036010f8ceffd0b74" sha1="c1abc44b98bc1d31d19dc664fe6df64658ebb820" date="2017-12-13 15:42:10"/>
+		<rom name="video/sbestoff.mux" size="10197024" crc="2634dfea" md5="c27f64ad3636c18c2344cd6f42e33e63" sha1="27b399ee33892f8eb619ae74b10a822d8949cfe7" date="2017-12-13 15:42:10"/>
+		<rom name="video/sblood.mux" size="3127632" crc="b79d81c4" md5="89f58f875befb56c98333564d2f62c4e" sha1="98b65fd003d5194a1a6a7655c44793e359d53e21" date="2017-12-13 15:42:10"/>
+		<rom name="video/scredits.mux" size="4902657" crc="038c30ff" md5="4d1453a460a567c018dc72d38461748a" sha1="b991bf28a49493a41690428c92b15ed376c18e04" date="2017-12-13 15:42:10"/>
+		<rom name="video/sdead.mux" size="948325" crc="7fc94dbb" md5="090c4ce5ea03925e5db90ea7f833a2f7" sha1="f8e3b051c3980c770e70b3938fe2f51a16e81e6b" date="2017-12-13 15:42:10"/>
+		<rom name="video/sdiet.mux" size="277836" crc="487ca9a5" md5="c55a61d35d794f14a3efceeb21ec1af7" sha1="9af110392079ca1358c09e251979b8bb61860d63" date="2017-12-13 15:42:10"/>
+		<rom name="video/sepee.mux" size="1121448" crc="6f15cdf5" md5="71c825e75a9aa68d13df2cfa917e9749" sha1="211f9b04848a99fb3d19c55f43e1a600d05cdbf5" date="2017-12-13 15:42:10"/>
+		<rom name="video/sfilm.mux" size="2941718" crc="5b2e94ef" md5="35413f5a7cc21d14c68df03e889b24d1" sha1="d1c7a8f6f2b839c4f982d6bb0820eb97629e8377" date="2017-12-13 15:42:10"/>
+		<rom name="video/sice.mux" size="1085975" crc="6ad9460f" md5="9437f62197d398b8ed5be823738c5f5c" sha1="f618df2b7fce28cc0dd680440e72d389065a330c" date="2017-12-13 15:42:10"/>
+		<rom name="video/sin1.mux" size="1139181" crc="a3e1309c" md5="6901c1438d1cfedcf724e9813789ca32" sha1="49db572f32cdd6e05aedbd231aef139f25687ea5" date="2017-12-13 15:42:10"/>
+		<rom name="video/sin12.mux" size="651851" crc="76d38ea0" md5="9bc9c8b7fcff164717f15ce3e270e00f" sha1="7795a18c4b5d4fa3f6693487f57fcabbc37c8426" date="2017-12-13 15:42:10"/>
+		<rom name="video/sin2.mux" size="1029051" crc="e437e55c" md5="03f2604312a48cda381d41bb1523fa5a" sha1="82b342834ff3ea6aa4dbc1059e33bebd606c11a7" date="2017-12-13 15:42:10"/>
+		<rom name="video/sin3.mux" size="1279114" crc="e2e37b82" md5="4da14850654b8e08e08e414f413ebf37" sha1="ab56a304235c25783d872b173ef35104523b2391" date="2017-12-13 15:42:10"/>
+		<rom name="video/sin4.mux" size="997051" crc="97da88c7" md5="807db3106c0f5f7d1947315183b411a6" sha1="75ba6f7db7e8ce5bf731b5e57e345a9b6354660d" date="2017-12-13 15:42:10"/>
+		<rom name="video/sin5.mux" size="4236050" crc="ec7bbe35" md5="0a56bd08519d4e9b03549254cb2556f5" sha1="559a25cef565f8df74c208ef6675313bbfa6a59e" date="2017-12-13 15:42:10"/>
+		<rom name="video/sin9.mux" size="494785" crc="947c6813" md5="1b36850cc94db1f280ab90a3080798b4" sha1="51adb449e41ec15aab844ea2a1d2d489b8f7d604" date="2017-12-13 15:42:10"/>
+		<rom name="video/sintro.mux" size="5571079" crc="f674343e" md5="1e647ba49a3616ead283d0a1106174dd" sha1="8571360e77df8f3ce6640fd8aee26393e81016eb" date="2017-12-13 15:42:10"/>
+		<rom name="video/sover1.mux" size="704062" crc="2060f2fe" md5="65e68a30d6ca65a8fe38663228727358" sha1="61470354b82099cce84d3171207a5b329307637c" date="2017-12-13 15:42:10"/>
+		<rom name="video/sover2.mux" size="682726" crc="eef2dd8e" md5="5beae34d505bdf0fb5716c3ab26391f2" sha1="7ad506208f60da9724cd9ebf1220c0fbf7005746" date="2017-12-13 15:42:10"/>
+		<rom name="video/stitre.mux" size="9579446" crc="b80d9f60" md5="76f8b7be5b702518a0bd43adfd22e440" sha1="0de0538174c371ac1de129d9bf1a96c733a53f21" date="2017-12-13 15:42:10"/>
+		<rom name="video/vafinal1.mux" size="3738596" crc="7e95fd65" md5="6f4592d584c94ba1c9a8c04d61cbe776" sha1="3380fc3db74100ba02e9b19427e1638f6f563ac0" date="2017-12-13 15:42:10"/>
+		<rom name="video/vafinal2.mux" size="1425818" crc="fea1bd2c" md5="8e4f43d821ca5c78c5c7ca3354f31bcc" sha1="bb30f5cbe2fff9eab3162734637180724ea49232" date="2017-12-13 15:42:10"/>
+		<rom name="video/vafinal3.mux" size="3681479" crc="993d0a44" md5="e17c49862ab0d7ea04482c1aca3db23c" sha1="b3e0010093fac272e5025b53e107699c46ae39d8" date="2017-12-13 15:42:10"/>
+		<rom name="video/vafinal4.mux" size="2256949" crc="d4e887b6" md5="970704dc840971c24d7c0c34e0aa3c96" sha1="dacd2abc76e6bc753bf0448e4a55c75796dc5891" date="2017-12-13 15:42:10"/>
+		<rom name="video/vbestoff.mux" size="4957743" crc="ae04e7b0" md5="56e5f7c44c4a9bdbc52fa3e5587db684" sha1="cf5913290415901d74490f40c5bc3e822c313afe" date="2017-12-13 15:42:10"/>
+		<rom name="video/vblood.mux" size="1869361" crc="47f80b9a" md5="b25a40ae7f15381eeaac36e4d933af86" sha1="1087080250e1629e1684f95eb6356f568b34e6eb" date="2017-12-13 15:42:10"/>
+		<rom name="video/vcredits.mux" size="2995865" crc="47db2126" md5="174db8299595558a33f5befe64da1f71" sha1="33a6c853d36ac59808a1f977b47249f114692c7f" date="2017-12-13 15:42:10"/>
+		<rom name="video/vdead.mux" size="350878" crc="4afaeb74" md5="92233665c8c1f3a2ab9cb7dc9f159e16" sha1="0e9781b90897bdf2abc9e5b774551b13bf9b4f04" date="2017-12-13 15:42:10"/>
+		<rom name="video/vdiet.mux" size="184184" crc="5d1c15e3" md5="6ba59e31cb2d83986c58cf5b3ba22b2a" sha1="6d575acc51ed3ec8ab7b477245ccca7c0eea7d98" date="2017-12-13 15:42:10"/>
+		<rom name="video/vfilm.mux" size="1768943" crc="17d911a8" md5="ecc1cd762b429546b0c38f269db70673" sha1="bb8d12faf60fd7ed0e6e28082bd2d97395906650" date="2017-12-13 15:42:10"/>
+		<rom name="video/vice.mux" size="639180" crc="b3ca724f" md5="d198bc803734570ea735b9366ccb1115" sha1="830dca30602f2ab27ba9d3e0de916e563d88d821" date="2017-12-13 15:42:10"/>
+		<rom name="video/vin1.mux" size="698660" crc="e78eb53b" md5="8b2cc5934afb4f8b93d07020d921f2fb" sha1="1a26ad7c7be90ec68afdaa106c3ff92e9ed4fb55" date="2017-12-13 15:42:10"/>
+		<rom name="video/vin12.mux" size="297432" crc="ba0e9213" md5="5a5f503975ef2b609cfdb9c43aa46d34" sha1="67fc86fdf743070a96283729017fee954ab9b601" date="2017-12-13 15:42:10"/>
+		<rom name="video/vin2.mux" size="386333" crc="dcc84a8e" md5="ca05de99cfc9c7be12d42234a3d66ddb" sha1="d70b7608031ac16d493693d0a08a67babb2fec90" date="2017-12-13 15:42:10"/>
+		<rom name="video/vin3.mux" size="553390" crc="701c7e67" md5="7e83b37a764108d0cfe4381b45ca1b16" sha1="352d94d3b7afe26669e0e47256252385580847f8" date="2017-12-13 15:42:10"/>
+		<rom name="video/vin4.mux" size="483983" crc="d47c1890" md5="0cbb683acfd592815e4ba35d6f273342" sha1="b3ea992b040c580d5c0d67f993e4d581242e2ca3" date="2017-12-13 15:42:10"/>
+		<rom name="video/vin5.mux" size="1657909" crc="a8e131bc" md5="669b80a66f3e1505aa44a1790cf9d8a5" sha1="a38181dc626b8602d2da6a18d2a7e20732498f87" date="2017-12-13 15:42:10"/>
+		<rom name="video/vin9.mux" size="248462" crc="873c366f" md5="50349fb5e750259d77a5b6f135aff4b6" sha1="81201393f1c2c67e83bf1d143853c76f56c92401" date="2017-12-13 15:42:10"/>
+		<rom name="video/vintro.mux" size="2842051" crc="0549b776" md5="e8f2de092b49291c85cab2043d79f4a6" sha1="e60e64ac882cd0293b5550925dd378994a77634f" date="2017-12-13 15:42:10"/>
+		<rom name="video/vover1.mux" size="460191" crc="a0e06831" md5="63d7675752322996b65c2a0fa2e6db9c" sha1="6101bffe82a4c2f7264306d83d11db1e53ca55ad" date="2017-12-13 15:42:10"/>
+		<rom name="video/vover2.mux" size="460129" crc="6bf57923" md5="2980d9d6b7d2d811af56edfc28ab41f1" sha1="06faa04efd51799c4dcbe10aa19afca0cd00ff6e" date="2017-12-13 15:42:10"/>
+		<rom name="video/vtitre.mux" size="6902134" crc="f8c58f3b" md5="72bb23943219cea33ff5feab3a66da6e" sha1="f9e5ed805ddf62cc01bd92ae8d7afb214a8fa53f" date="2017-12-13 15:42:10"/>
+	</game>
 	<game name="Ultimate Doom, The (1995) (id Software) (Installation).dosz">
 		<description>Ultimate Doom, The</description>
 		<year>1995</year>
