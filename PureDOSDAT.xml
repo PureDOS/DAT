@@ -15567,12 +15567,22 @@
 		<rom name="UW2.EXE" size="675184" crc="c824fb97" md5="0ee4f7c678ea98c103fef8f04eccc035" sha1="41a23de0fa85c375920ae5d0dbd2ec5f4657c758" date="1993-06-16 18:01:36"/>
 		<rom name="UWSOUND.EXE" size="21734" crc="76ad7836" md5="d3b957e03653a7c9ed99d44299457726" sha1="591eba4bbc307af5bcab938bd76eddb7bc9592d7" date="1993-06-16 18:01:36"/>
 	</game>
-	<game name="Ultima VII - The Black Gate + The Forge of Virtue (1992) (ORIGIN Systems).dosz">
+	<game name="Ultima VII - The Black Gate + The Forge of Virtue (1992) (Origin Systems).dosz">
 		<description>Ultima VII - The Black Gate + The Forge of Virtue</description>
-		<comment>Main game with add-in v3.4 from The Complete Ultima VII CD</comment>
 		<year>1992</year>
-		<developer>ORIGIN Systems</developer>
-		<rom name="DOS.YML" size="32" crc="709d92a6" md5="4e1473d3eeae7d4a506e33972c967fae" sha1="c9830231e1b10fc93a274837ff7fc531ae19a0a6"/>
+		<developer>Origin Systems</developer>
+		<comment>
+			Main game with add-in v3.4 from CD matching with Redump: Ultima Collection (USA) (Rerelease)
+			Can also be installed from The Complete Ultima VII CD, matching with Redump: Complete Ultima VII, The (USA)
+			Also matches with GOG
+			Needs DOS.YML with these contents:
+				mem_ems: false
+				mem_umb: false
+		</comment>
+		<comment_dosc>Game speed reduced, Sound Blaster Pro config, and auto start. MT-32 option</comment_dosc>
+		<link type="media">http://redump.org/disc/2179/</link>
+		<link type="store">https://www.gog.com/en/game/ultima_7_complete</link>
+		<rom name="DOS.YML" size="32" crc="709d92a6" md5="4e1473d3eeae7d4a506e33972c967fae" sha1="c9830231e1b10fc93a274837ff7fc531ae19a0a6" data="bWVtX2VtczogZmFsc2UNCm1lbV91bWI6IGZhbHNlDQo="/>
 		<rom name="ENDGAME.EXE" size="107630" crc="7a4fb9db" md5="6fbf08095c42556308bb9db9ae8d873a" sha1="5f0622261373528149439e77958d56b0b58c95cf" date="1992-03-09 11:17:20"/>
 		<rom name="INSTALL.EXE" size="39134" crc="28fdc11b" md5="a5c8ea72b339415df1fd7dc2cfd47673" sha1="33d7c134f6f747077192de9d9a98ad5312e60f58" date="1994-02-03 10:12:20"/>
 		<rom name="INSTALL.PRM" size="94" crc="c3557c85" md5="65525bacb95465526b8fde3e6d09d659" sha1="221b0ac61b95f3f10c93e11d893fdf1b1f7c89d6" date="1994-02-03 10:12:22"/>
@@ -15771,7 +15781,6 @@
 		<rom name="STATIC/XFORM.TBL" size="4640" crc="e96808e9" md5="17f92ae579666969d95e4ed47e9f0582" sha1="c345d416ac6164c84e3276b85d6ee5a548c6125b" date="1992-03-12 01:53:08"/>
 		<rom name="STATIC/XMIDI.AD" size="2538" crc="3aa9c777" md5="2dca9b345ab89f40dc7549bf84d40c05" sha1="a1d5af1540a1ac23f259899bafd2b9013e9f449b" date="1992-01-16 16:43:52"/>
 		<rom name="STATIC/XMIDI.MT" size="9908" crc="66e64f74" md5="8a4757adf74821aa690d472d8889b6bb" sha1="f4b0e6a1b6a5af50f98baa130dae36f448df3acd" date="1992-01-08 11:58:28"/>
-		<rom name="U7.CFG" size="16" crc="7d8f7f55" md5="d67d1e3afe96c86e512d6cc17a8f18fe" sha1="b0eac0412ce5fc5d459cc63f9ec018dbc95afe72" date="1994-02-03 10:12:20"/>
 		<rom name="U7.EXE" size="689248" crc="a1122b73" md5="8cb6bee88ae2e363c9facd769a7fdd7b" sha1="5f2887c84474cbbd0752634925d8dd5d6425e981" date="1992-06-02 18:51:26"/>
 		<rom name="ULTIMA7.COM" size="690" crc="e79371f8" md5="3bef7a544e91ffc2f9cb53d02416bf7d" sha1="042824339943ec12550d53633e0f5ba859223ae2" date="1992-02-29 21:58:50"/>
 	</game>
