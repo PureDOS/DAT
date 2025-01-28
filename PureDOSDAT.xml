@@ -4729,7 +4729,7 @@
 		<comment_dosc>Required SPIRE.CFG and SPIRE.BAT files, Sound Blaster 16 config, high resolution, and auto start</comment_dosc>
 		<link type="media">http://redump.org/disc/37479/</link>
 		<rom name="DOS.YML" size="17" crc="9e2ade80" md5="5e4e9514ccbed110c66ed799f2b0c449" sha1="7ff552bf9a73a8ba6fe5089d140c63e3d6be659c" data="bWVtX3NpemU6IDY1NTM2DQo="/>
-		<rom name="Elder Scrolls Legend, An - Battlespire (Europe) (Track 1).bin" size="498050112" crc="90f4434b" md5="a4d7567a6073e8451de662e7f973e650" sha1="ec3abaf717701db0078ef0ecd4aff847b7e2ce7c"/>
+		<rom name="Elder Scrolls Legend, An - Battlespire (Europe) (Track 1).bin" size="498050112" crc="90f4434b" md5="a4d7567a6073e8451de662e7f973e650" sha1="ec3abaf717701db0078ef0ecd4aff847b7e2ce7c">
 			<source frames="211756" pregap="0" duration="47:03:31" size="498050112" crc="90f4434b" md5="a4d7567a6073e8451de662e7f973e650" sha1="ec3abaf717701db0078ef0ecd4aff847b7e2ce7c"/>
 		</rom>
 		<rom name="Elder Scrolls Legend, An - Battlespire (Europe) (Track 2).ogg" size="4951198" crc="ecd6d904" md5="d37248ae2d7d67c0f587722034b21ff4" sha1="5b98229bcb47b8f8a9cf4cf93d2df7d25313b918">
@@ -5104,7 +5104,9 @@
 		<rom name="SAVE7/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-12-31 00:00:00"/>
 		<rom name="SAVE8/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-12-31 00:00:00"/>
 		<rom name="SAVE9/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-12-31 00:00:00"/>
-		<rom name="SPIRE.BAT" size="397" crc="8d871dcf" md5="81dd0d3611a95b4c06f1c86662999382" sha1="5f10adf9e8a2625a9ebe466fca85ef9526c99a21" data="QGVjaG8gb2ZmDQpDTFMNCmVjaG8uDQplY2hvIFRoaXMgdmVyc2lvbiBvZiBCYXR0bGVzcGlyZSBoYXMgYmVlbiBwYXRjaGVkIHRvIFYxLjUuDQplY2hvIEZvciBmdXJ0aGVyIGluZm9ybWF0aW9uLCBwbGVhc2UgZXhhbWluZSB0aGUgZmlsZSBQQVRDSC5UWFQgDQplY2hvIHdoaWNoIGlzIGxvY2F0ZWQgb24geW91ciBCYXR0bGVzcGlyZSBDRC4NCmVjaG8uDQplY2hvLiANCmVjaG8gU3RhcnRpbmcgQmF0dGxlc3BpcmUgVjEuNS4uLg0KZWNoby4NCmVjaG8gUGxlYXNlIFdhaXQuLi4NCmVjaG8uDQplY2hvLg0Kc2V0IGNhdXNld2F5PU1BWE1FTTo3MDtQUkU6NDA7TkFNRTpzcGlyZS5zd3ANCjpyZXBnYW1lDQpnYW1lIHNwaXJlLmNmZyAlMQ0KaWYgZXhpc3QgcmVwLmRhdCBnb3RvIDpyZXBnYW1lDQoNCg=="/>
+		<rom name="SPIRE.BAT" size="397" crc="8d871dcf" md5="81dd0d3611a95b4c06f1c86662999382" sha1="5f10adf9e8a2625a9ebe466fca85ef9526c99a21"> 
+			<patch data="UEFUQ0gAATQAATdFT0Y=" size="397" crc="21c3ab57" md5="55cdea6851e8c4fd2ee1da48756938fa" sha1="2890a1de434cabfafdd82a875a6bc73ec64552c7"/>
+		</rom>
 		<rom name="SPIRE.CFG" size="125" crc="31e0b5c3" md5="74b17c3becbe3987f8e556fd1a38ebf2" sha1="3212171238eeb0462f7b7e61f816c3869f340bbc" data="cGF0aCAgICAgICAgIEM6XA0KcGF0aGNkICAgICAgIEQ6XA0KYnlwYXNzICAgICAgIDANCmNhcHRpb25zICAgICAxDQp2aWRlbyAgICAgICAgUzMgSW5jb3Jwb3JhdGVkLiBUcmlvNjQNCk9CSk1FTVNJWkUgICA5MDAwDQo="/>
 		<rom name="SPIRE.ICO" size="3774" crc="a5505d90" md5="4f9a390bd274951c89dd2acfcf54aa94" sha1="1e060ea32cb694517bf37c86ad76e359b03c3726" date="1997-07-25 11:22:52"/>
 		<rom name="UVCONFIG.EXE" size="309382" crc="e2293dae" md5="1067941c4e726630e7bda11f9e769deb" sha1="9f46963c2ac2b89101597609bde25784f759076a" date="1997-01-27 11:58:14"/>
