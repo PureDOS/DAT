@@ -2370,10 +2370,14 @@
 	</game>
 	<game name="System Shock (1994) (Looking Glass Technologies) (GOG, Steam).dosz">
 		<description>System Shock</description>
-		<comment_dosc>Auto start</comment_dosc>
 		<year>1994</year>
 		<developer>Looking Glass Technologies</developer>
 		<variant>GOG, Steam</variant>
+		<comment>Needs GOG's default CYB.CFG file</comment>
+		<comment_dosc>Required CYB.CFG file and auto start. General MIDI, French, and German options</comment_dosc>
+		<link type="store">https://www.gog.com/en/game/system_shock_enhanced_edition</link>
+		<link type="store">https://store.steampowered.com/app/410710/System_Shock_Enhanced_Edition/</link>
+		<rom name="CD/SystemShock.iso" size="319481856" crc="f8e8463a" md5="ac833ea4e564a8aef8ba147450e1504b" sha1="d424b6f86394e49e40a06d8e183936b5f1c8dad3" date="2015-05-18 02:18:56"/>
 		<rom name="CDSHOCK.BAT" size="24" crc="60f6cfb0" md5="f11bb58aced0dafbe4353b18bdfb384d" sha1="95a3fc2b409c47d0b96ed02a387591ca5fd304a8" date="2015-08-24 21:56:36"/>
 		<rom name="CDSHOCK.EXE" size="1543695" crc="ec0fbc52" md5="ca7d6016312453a1b099863ba2e689ab" sha1="432507b803ab080c8d59029ca47a5813884c91cb" date="1994-11-28 06:31:14"/>
 		<rom name="CYB.CFG" size="242" crc="d625a032" md5="7f58b1caeff8171fe046fd4c356efd3e" sha1="72c74f2f9505e296061b016e2acf17e9303a2d22" date="2015-09-04 23:23:26"/>

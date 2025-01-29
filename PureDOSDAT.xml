@@ -14334,13 +14334,20 @@
 	</game>
 	<game name="System Shock (1994) (Looking Glass Technologies).dosz">
 		<description>System Shock</description>
-		<comment>Installed from Enhanced CD-ROM. English language and Sound Blaster 16 configured</comment>
-		<comment_dosc>Auto start</comment_dosc>
-		<link type="media">http://redump.org/disc/31372/</link>
 		<year>1994</year>
 		<developer>Looking Glass Technologies</developer>
-		<rom name="CDSHOCK.BAT" size="33" crc="14048112" md5="3f721449fb1f1c52363d4fd428753bb6" sha1="ae4e853276ee50951d3184df7dec08cca0d80ce3"/>
-		<rom name="CYB.CFG" size="242" crc="d625a032" md5="7f58b1caeff8171fe046fd4c356efd3e" sha1="72c74f2f9505e296061b016e2acf17e9303a2d22"/>
+		<comment>
+			Installed from Enhanced CD-ROM matching with Redump: System Shock (USA) (En,Fr,De)
+			Installation options:	
+				Language: English
+				Music Card: Sound Blaster 16, Auto Setup
+				Sound Card: Sound Blaster 16, Auto Setup
+				Other options default
+		</comment>
+		<comment_dosc>Required CYB.CFG file and auto start. General MIDI, French, and German options</comment_dosc>
+		<link type="media">http://redump.org/disc/31372/</link>
+		<rom name="CDSHOCK.BAT" size="33" crc="14048112" md5="3f721449fb1f1c52363d4fd428753bb6" sha1="ae4e853276ee50951d3184df7dec08cca0d80ce3" data="QGVjaG8gb2ZmDQpEOlxjZHJvbVxjZHNob2NrLmV4ZQ0K"/>
+		<rom name="CYB.CFG" size="242" crc="d625a032" md5="7f58b1caeff8171fe046fd4c356efd3e" sha1="72c74f2f9505e296061b016e2acf17e9303a2d22" data="bWlkaV9saXN0IDMNCmxvd3Jlc19jdXRzY2VuZXMgMA0KbWlkaV9pbyAtMQ0KbWlkaV9pcnEgLTENCmlucDZkIC0xDQpkaWdpX2xpc3QgMw0Kam95c3RpY2sgMTI4DQptaWRpX2NhcmQgMw0KbWlkaV9kbWEgLTENCm1pZGlfZHJxIC0xDQpjZF9kYXRhX2Rpcl9wYXRoIEQ6XGNkcm9tXGRhdGENCmRpZ2lfaW8gLTENCmRpZ2lfaXJxIC0xDQpkaWdpX2NhcmQgMw0KZGlnaV9kbWEgLTENCmxhbmd1YWdlIDANCmRpZ2lfZHJxIC0xDQo="/>
 		<rom name="DATA/CITMAT.RES" size="105834" crc="456c207f" md5="e8727598d54c360eff5916b9b1570082" sha1="f7dc3b17ff0235eb23f12f70bee4a7d7733c16de" date="1994-07-18 00:28:10"/>
 		<rom name="DATA/CYBSTRNG.RES" size="170502" crc="3fae2d9e" md5="4d787cb54004df90220ab01c4bd68f6c" sha1="7993c9d918a0b8bfca2137e8dbce7ab4d5683f54" date="1994-11-26 07:24:02"/>
 		<rom name="DATA/DIGIFX.RES" size="1923868" crc="17ffda3f" md5="082bbd007989a02a2ccf73a85b5c1d5a" sha1="9250f63c01e02993def659aebf521fdbb848709f" date="1994-11-20 04:50:16"/>
@@ -14437,7 +14444,7 @@
 		<rom name="SOUND/THM7.DAT" size="690" crc="4cbc56e9" md5="53470e0b89d8f8022b33c35933751b6a" sha1="51a7107ffad9d29262b302e9dd0a6f44aa8d79de" date="1994-09-29 22:55:58"/>
 		<rom name="SOUND/UMID.DIG" size="1733" crc="d660694e" md5="353808d2009fdc28a026a34258653c62" sha1="e61da3f88d730ccc9b4133bc41cfd3bd9b3ad6cb" date="1994-11-22 16:13:56"/>
 		<rom name="SOUND/UMID.MDI" size="1696" crc="37a68a50" md5="0e182d53f6964437ef9ac95788b67d69" sha1="5a0793acd174583d58e89090ff9bfdf2fed99845" date="1994-11-22 16:12:24"/>
-		<rom name="SSHOCK.BAT" size="32" crc="ab766490" md5="ebf1761810ea2bc4354e6b9cf0919583" sha1="9458aaef81c09c57cdee2e510e3bcab68b32aceb"/>
+		<rom name="SSHOCK.BAT" size="32" crc="ab766490" md5="ebf1761810ea2bc4354e6b9cf0919583" sha1="9458aaef81c09c57cdee2e510e3bcab68b32aceb" data="QGVjaG8gb2ZmDQpEOlxjZHJvbVxzc2hvY2suZXhlDQo="/>
 		<rom name="System Shock (USA) (En,Fr,De).chd" size="382338432" crc="bbfc86a9" md5="ee2bb03e7bc9906edf39585eb9647d80" sha1="89f80ffac638e98105356bd997e19b30013d9701">
 			<track number="1" type="MODE1_RAW" frames="156147" pregap="0" duration="34:41:72" size="367257744" crc="3e4470e9" md5="5a1f6a305978559cf138467267b82170" sha1="c0d1ab6b2cf31385f0336f26cde510eb4579bf50"/>
 		</rom>
