@@ -16258,10 +16258,11 @@
 	</game>
 	<game name="Warcraft - Orcs &amp; Humans (1994) (Blizzard Entertainment).dosz">
 		<description>Warcraft - Orcs &amp; Humans</description>
-		<comment>Installed v1.22h from CD re-release from 1996</comment>
-		<comment_dosc>Sound config</comment_dosc>
 		<year>1994</year>
 		<developer>Blizzard Entertainment</developer>
+		<comment>Installed v1.22h from CD matching with Redump: WarCraft - Orcs &amp; Humans (USA) (Rerelease) (1996-10-13)</comment>
+		<comment_dosc>Sound Blaster 16 config and auto start. General MIDI option</comment_dosc>
+		<link type="media">http://redump.org/disc/35137/</link>
 		<rom name="DATA/CAVE1.WAR" size="3249252" crc="de16ca10" md5="ae8fcf5bf23f337c013f134acaa67176" sha1="c204475b73aa2cb86caf1da17360f1c542763cea" date="1994-10-15 03:46:06"/>
 		<rom name="DATA/CAVE2.WAR" size="72094" crc="fce1f529" md5="0aed9e150dcb64708820f4237af5624d" sha1="0e0511efedbe9814925c7a61b56d844b7bb772db" date="1994-10-15 03:46:12"/>
 		<rom name="DATA/CAVE3.WAR" size="1081692" crc="5729b05f" md5="81554cf0730d0f76474a61e2a536f1e2" sha1="4c7485c83c672d23c6c62ace0da38ef3951482d5" date="1994-10-15 03:46:08"/>
@@ -16328,72 +16329,23 @@
 		<rom name="WAR_EDIT.EXE" size="41792" crc="fc27bfe6" md5="6e40e4f0f53bdf5a29d05d948487a6d8" sha1="54aa44173d481c412437238d3e3511f07b667d26" date="1996-09-07 03:08:50"/>
 		<rom name="WAR_EDIT.TXT" size="4134" crc="71f95709" md5="cee5170c7bccb2165f3a979db777d2f5" sha1="1cd2e33bd7a3cccc82f0da4a0886fe2ad7ed1cd7" date="1996-09-07 03:08:50"/>
 	</game>
-	<game name="Warcraft II - Tides of Darkness + Beyond the Dark Portal (1996) (Blizzard Entertainment).dosz">
-		<description>Warcraft II - Tides of Darkness + Beyond the Dark Portal</description>
-		<comment>Main game with expansion v1.33 installed from CD rereleases, CD images made from BIN/CUE</comment>
-		<comment_dosc>Sound config</comment_dosc>
+	<game name="Warcraft II - Beyond the Dark Portal (1996) (Blizzard Entertainment).dosz">
+		<description>Warcraft II - Beyond the Dark Portal</description>
 		<year>1996</year>
 		<developer>Blizzard Entertainment</developer>
-		<rom name="ALAMO.PUD" size="71902" crc="dd714468" md5="4b5cf9bdc9820045e00aa0809a93b77c" sha1="cac77b156bfb19dc256e9a8377629809e3a7db6e"/>
+		<parent>Warcraft II - Tides of Darkness (1995) (Blizzard Entertainment).dosz</parent>
+		<comment>
+			Installed v1.33 from CD matching with Redump: WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09)
+			Then patched to v1.5
+			CD image converted with CHDtoOGG
+		</comment>
+		<link type="media">http://redump.org/disc/42787/</link>
+		<link type="patch">https://www.pcgamingwiki.com/wiki/Warcraft_II:_Tides_of_Darkness#Patches</link>
 		<rom name="AUTOKILL.EXE" size="4608" crc="1acc03c9" md5="65b71b45dade2a7ad31910fd61c51983" sha1="88b26faaa0bb63765f14344bbae09f607d5452bf"/>
-		<rom name="CHANNEL.PUD" size="71486" crc="09c4925c" md5="1948d2c3f0d3210091cc170ebd3eaead" sha1="1da09e1088113c653d3a1abbab570adb9bb18f2d"/>
-		<rom name="DATA/INSMAIN.INS" size="213855" crc="80064116" md5="89a910209b6d0bab136330124896330b" sha1="430130712055d514cbcfc20c352f065c83afdb5d"/>
-		<rom name="DATA/INSSTR.INS" size="12513" crc="57e6f593" md5="818af782449183d269e6e03178ba4f32" sha1="e926496ab888a283fc98f6a3454e07eb08fb8c18"/>
 		<rom name="DATA/MAINDAT.WAR" size="9831037" crc="04759fb9" md5="ffc62597b2001be9f30b13e908a2ec2a" sha1="a1adc3db34e991108d5a230164ada05a591de9ef"/>
 		<rom name="DATA/REZDAT.WAR" size="2811086" crc="61704053" md5="65321083c9b21fb6c2f31c6b52dec4e0" sha1="462c8d4f5a01bd0ce9175dc0e4b7b3c7f166a3ac"/>
 		<rom name="DATA/SFXDAT.SUD" size="5653599" crc="3641d942" md5="5443f7b8d9163a53b03e5d976f4e268b" sha1="725724f0b98df4f08fda013e20673031ec5d5903"/>
 		<rom name="DATA/STRDAT.WAR" size="77524" crc="0158213a" md5="eaee6010c559683d841158c930786651" sha1="23b2996572971bffaee01eb513915e40adf2cb3b"/>
-		<rom name="DEATH.PUD" size="37086" crc="e4853f46" md5="0f910d7d66ff3fa571fae1b800e8c2a7" sha1="8de2640c5b7d3ffb753aa1cbd8bdf8d31a165548"/>
-		<rom name="DRAGON.PUD" size="122006" crc="4be95c7a" md5="e56332d7feeaceba2aa2f153d37eba88" sha1="a66dec6d2171c7c8b3856594068c8a69cf020844"/>
-		<rom name="DRIVERS/ADLIB.MDI" size="14986" crc="6871f64c" md5="5cb112d060d70a43ee7c89b7ffe4f029" sha1="1f19c757259cac7b5f04281ac8830f8bece3c8d2"/>
-		<rom name="DRIVERS/ADLIBG.MDI" size="16377" crc="1d2a278b" md5="79d8137d4e6b78735b78cd8a4bd14827" sha1="14f61539bf8438f68add723fef2ef76821fa9fd8"/>
-		<rom name="DRIVERS/ADRV688.DIG" size="11278" crc="96dfb75d" md5="feabc78729e3a458ae2f6ab40146f0d9" sha1="255ecb5d649895d65bca49bd6afcbdf875e34bf2"/>
-		<rom name="DRIVERS/AILDRVR.LST" size="16885" crc="b13debb6" md5="83b8de65b09c95e7098104b7c9c19829" sha1="90636803056ed37a46c684b9d9ca53d9c4ab6cb0"/>
-		<rom name="DRIVERS/DIGTEST.WAV" size="53868" crc="ead2e54e" md5="c8116a6107886abea0947107b20fe8a7" sha1="50ba3a20a218f46197870ffa3713202f5c2fd038"/>
-		<rom name="DRIVERS/DIGTEST2.WAV" size="34604" crc="1804b1f7" md5="03ef9c1d6f410acd25a1539c7c5b97e7" sha1="69dcc5cf3024fbfd1ef050bae7050b3ed2eea6bf"/>
-		<rom name="DRIVERS/DIGTEST3.WAV" size="53406" crc="33ced2fe" md5="b1082c681446352ab242d56d2820742b" sha1="249a4326280286996d6ce5d9bcf8922d7228b56a"/>
-		<rom name="DRIVERS/ESFM.MDI" size="15084" crc="1aa86b62" md5="133a6b2b01da252dfa11b6e2ec5f5ebf" sha1="08b230f9306245fe00e1c8a098d3a6d3ee41fac0"/>
-		<rom name="DRIVERS/JAMMER.DIG" size="3219" crc="230129e0" md5="4922c729c5e7b347089a2be44f296859" sha1="103e0bf92c6fd1c9fc925fd57bdc22e56170b395"/>
-		<rom name="DRIVERS/MIDITEST.XMI" size="15838" crc="6026b413" md5="f0872c4a02b012e2839020d15ce073bd" sha1="15787f668e76b3d7a28154ddd784aa841623f6ea"/>
-		<rom name="DRIVERS/MIDITST2.XMI" size="15130" crc="1ab3574e" md5="73e8d49efd2e05fa0592e10c935b9f27" sha1="61ca7eab66b61424fa6feaa722d3805dda303d10"/>
-		<rom name="DRIVERS/MPU401.MDI" size="1915" crc="70a67ea6" md5="965a57d16212beb0f68cb9f62bc7259b" sha1="6ee8364704c81319d04a2459dcc8e65460749a30"/>
-		<rom name="DRIVERS/OPL3.MDI" size="16387" crc="74aad2f1" md5="84ce740acea5af9ef8d118174bff88c8" sha1="310b8b21f088ec0180c02c9fbe1edd744d76c9b2"/>
-		<rom name="DRIVERS/PAS.MDI" size="15425" crc="01d01110" md5="bcc2a72a36663f40c019d0af2c95df13" sha1="a94fcb63700f1cbf46698d074526b5db48754b90"/>
-		<rom name="DRIVERS/PASPLUS.MDI" size="16458" crc="c5a2ded9" md5="f5515c19a269ca2b1af13e9b3e3c3d3a" sha1="a9c4967e8ca11c529a49d8a54f8730b223c0289f"/>
-		<rom name="DRIVERS/PROAUDIO.DIG" size="2127" crc="4b071066" md5="a054071be574b2bcf47a0386f1a98ae6" sha1="8debfb262849ebce1da3d45387d1595712c2667b"/>
-		<rom name="DRIVERS/RAP10.DIG" size="2849" crc="47373ef0" md5="bb846bb23ee9065a09373afdb73cf054" sha1="6081bc6e447afeaad48a8361c92e7ce280f6ea7e"/>
-		<rom name="DRIVERS/SB16.DIG" size="2836" crc="6ddaa5d2" md5="b24e361b7634b9b3eafcd2cbb592ba9b" sha1="f0734dae77c034f5cfcd7b353cd75adfb57871af"/>
-		<rom name="DRIVERS/SBAWE32.MDI" size="32694" crc="dd43a7b8" md5="a66e04b5c067b95932857aff75f48f5d" sha1="a608005dd369a07f16e6acdadfd0fcdf95cc02ec"/>
-		<rom name="DRIVERS/SBLASTER.DIG" size="3125" crc="d1b1a7d7" md5="b456d6385b74b700f09aec22ba14ca19" sha1="5eec3b5791ad5855c7a4440909db651b6aca3b2f"/>
-		<rom name="DRIVERS/SBLASTER.MDI" size="15118" crc="670d5af4" md5="20fc92cf9e0d0d8e2447cd30252faee4" sha1="8e44d8bf0291e453d45477c6dd36fbd5ca40ac95"/>
-		<rom name="DRIVERS/SBPRO.DIG" size="2763" crc="1061490f" md5="b0fe50da778c24cc4066e960a3d1a7c3" sha1="8bc27ebd0ec30dabfd354b948801946b7e8f33d8"/>
-		<rom name="DRIVERS/SBPRO1.MDI" size="15471" crc="25370f67" md5="998eced7549230f6d621766f0cce4c39" sha1="92775d93ad5ee563ae8bf2b6f51ba8d444039e52"/>
-		<rom name="DRIVERS/SBPRO2.MDI" size="16541" crc="0ab0493a" md5="8879265bf3b414346f66c326389e32ae" sha1="4a9d598979e14f4f8c0e76fe0246b305fb848955"/>
-		<rom name="DRIVERS/SNDSCAPE.DIG" size="4171" crc="708a96a2" md5="9d7a052a680f45d244e0ee4735b7b55f" sha1="f9902b74d545813315194f5a1791c4ea0a9a1e0d"/>
-		<rom name="DRIVERS/SNDSCAPE.MDI" size="2971" crc="ad1df3c2" md5="31ec7e6e06a3eb9e0bebff3e52ef1b0f" sha1="01e3ffef3aa6e9d312f190a9403ff8d167743aed"/>
-		<rom name="DRIVERS/SNDSYS.DIG" size="3332" crc="86ecb774" md5="c67142fe53599b28ff7d53565576dbae" sha1="72a300265348a67c33945d0aa6b5c0ec3933dbcd"/>
-		<rom name="DRIVERS/ULTRA.DIG" size="9478" crc="430d67f5" md5="000e584a06712d2f2b58eb2e17b65248" sha1="4327d6bb924b4e40fa7ff035bdfb73a879c31836"/>
-		<rom name="DRIVERS/ULTRA.MDI" size="49672" crc="04849dc3" md5="9a1b881ab9e8f6d827f6c27c5df40d85" sha1="8337ada0962de33ee3eb8ebbf9d5d0c898f41fd2"/>
-		<rom name="DRIVERS/WARCRAFT.AD" size="3622" crc="d986716d" md5="432b2e2d05f1e1e00ca9eeb814a693b0" sha1="f0033a93d52f1cb112f7b89028afbe5b1815eb6d"/>
-		<rom name="DRIVERS/WARCRAFT.OPL" size="3622" crc="d986716d" md5="432b2e2d05f1e1e00ca9eeb814a693b0" sha1="f0033a93d52f1cb112f7b89028afbe5b1815eb6d"/>
-		<rom name="ICEBRDGE.PUD" size="122510" crc="04846780" md5="514b826ce910157238a86e119f7bb9a3" sha1="57313e40bb41c7b1242aae1bab9afdf68e745673"/>
-		<rom name="ISLANDS.PUD" size="71518" crc="76743537" md5="9e746fb245d7044c54c5ec08cdc4dc19" sha1="7ceaf1bc69880d353ce3c1d190ebbc02c3af09aa"/>
-		<rom name="KALI/FILE_ID.DIZ" size="508" crc="ae2b68ae" md5="5ca4971d89a4a246b1012e1ab352f136" sha1="9c0cdba1e5c749ed1f290f6f683b768d766c5715"/>
-		<rom name="KALI/ISP.HLP" size="27815" crc="54d30216" md5="87a496968efff2cb0827a5e6058d6b05" sha1="e72aaaccd400cff685d03b137f6efaad8c19e304"/>
-		<rom name="KALI/KALI.CFG" size="1015" crc="b801997e" md5="0147ec30fecbbaa4f64e1df9559d43e5" sha1="2a8eb2781ecce62a80f0e1c8bd6e3b323dafd363"/>
-		<rom name="KALI/KALI.DOC" size="57913" crc="298fb89f" md5="68a9b18965efd73fe219d46844b9c03e" sha1="ebb2691e25c5accc316cf333419449d471ae99b8"/>
-		<rom name="KALI/KALI.EXE" size="28641" crc="cc169801" md5="1f80260c4803ee4f556f069168bd5856" sha1="a2606271bd043622f98e4deb5741a23ae5308a6b"/>
-		<rom name="KALI/KALIGAME.FAQ" size="27410" crc="ca6919bb" md5="b341ffd27ebe962d53e7ff5891e43e8b" sha1="91ba93fa250c9284737df784cf95639472fb8f7c"/>
-		<rom name="KALI/KCHAT.CFG" size="850" crc="f01b15db" md5="3d69e71c8f52081ec38cfb277169aa8f" sha1="9d1fcdb82003bd5e240339bb6e37a932d761f487"/>
-		<rom name="KALI/KCHAT.EXE" size="24204" crc="3e333405" md5="bf81d65e52753aa6f9c819c0c983a09e" sha1="705214d3547a30ac5a89d1b26a81e19d3b22f920"/>
-		<rom name="KALI/ORDER.FRM" size="913" crc="487cf28d" md5="356d8200014403f8c70803e5a4ce2d73" sha1="4e870e1457271701c74418358ab9964186d122ed"/>
-		<rom name="KALI/README.NOW" size="1648" crc="050f4da9" md5="4816ff6efcd28b555d0c771e06cab201" sha1="98e41af64067212a5dcb554135e91347d6823115"/>
-		<rom name="KALI/REVISION.LST" size="8558" crc="60fb9e1e" md5="0d47e9607479c7156329d29d004e666f" sha1="0c208f1b1fa2f31cfe0d0673bf25f3be29dce678"/>
-		<rom name="KALI/SNATCH.DOC" size="1701" crc="607f3814" md5="66386a874b5d4dae4da90e59ee0a8ee0" sha1="ca46642d6c442d5a3e879e7d289d43f4b3ea0a73"/>
-		<rom name="KALI/SNATCH.EXE" size="8714" crc="203f9bdd" md5="074a1982820b68122545687c87b40689" sha1="3cc86b742542a20102cb6ec7ef646c4353d6aab6"/>
-		<rom name="KALI/WATTCP.CFG" size="982" crc="fe2d3f7a" md5="2dac35c26bdeb68311dcb60cfa007d43" sha1="3526bdd6033c2e4b632cc0450ad3d7d22af6e54c"/>
-		<rom name="LAND_SEA.PUD" size="71806" crc="31de68e9" md5="f5a2caac77de98c74d797a640b9afbd3" sha1="61e7ade12f82dbd74a0f31fa26a10cfcb5cd7c57"/>
-		<rom name="MUTTON.PUD" size="18790" crc="ee2337c4" md5="ebb44f9cd4e2ab97eb9cda0d4b312bea" sha1="28d8d09b8ce4e3ad44cf0522096ba8517c498d11"/>
 		<rom name="PUDS/MULTI/3VS3.PUD" size="122540" crc="1277ffae" md5="dafde0913c82d8a688118bab5ebf2132" sha1="6b8d9aec0d46fdc2061f2977ba3db6d3c0f5ecf2"/>
 		<rom name="PUDS/MULTI/3VS5.PUD" size="122868" crc="df507fed" md5="2e5773a6ee618be8ff03963e2caab7d9" sha1="ab54f8884289bf4b7325b7241e70d3d11d8cca8b"/>
 		<rom name="PUDS/MULTI/ARENA.PUD" size="35758" crc="42a1617c" md5="05d2c275ea67750e1366552050103741" sha1="a23811659b32f46a0dbec6d5cbf703af58ce8c6e"/>
@@ -16463,58 +16415,212 @@
 		<rom name="PUDS/STRANGE/FOOTBALL.PUD" size="14694" crc="2d549511" md5="cb33a83e2cf466481d51cf1546b24219" sha1="ca11d6bf9b91a8e553216ac8e8a6ecb0cb770f1a"/>
 		<rom name="PUDS/STRANGE/JAIL.PUD" size="15030" crc="f5694075" md5="9027430382c914b83e06b61eb3780009" sha1="80ef8dddb768b2bf628e0f41c38e7b8448787d37"/>
 		<rom name="PUDS/STRANGE/SUICIDE.PUD" size="15102" crc="87b59750" md5="1d700cc600571e39f83aaedeeb1a9bdb" sha1="eedca1bea5b7ce9ef521c9ed80e59e71d0e9e878"/>
+		<rom name="READ_133.TXT" size="1703" crc="d22ea8ec" md5="0d7ed4f5226d64087f21cd85a5e0f731" sha1="eedb2cc4cb240036745ea06a0799374b17761ca7" date="1996-10-05 13:43:32"/>
+		<rom name="READ_150.TXT" size="3284" crc="859f643a" md5="51e5e306fef41340607d4de3df414f79" sha1="1ab318e56f68d6e1873eab5b970d0ca72afedec4" date="1997-07-07 18:27:40"/>
 		<rom name="README.TXT" size="9966" crc="17e3805c" md5="70d53ffa606e916ece63ffa6d769d868" sha1="15b104e47a2779bf7901f61a93ac466debdf1236"/>
+		<rom name="SAVEFIX.EXE" size="26956" crc="5ad5462c" md5="4c0906ea2c934943eed44ce0c54ebc78" sha1="39a6ed55e3f3de0a4a0130968d3dfca4a9977ee7" date="1996-06-26 15:39:54"/>
+		<rom name="SFXED95.EXE" size="23040" crc="90de9ae6" md5="2442094ff743a8ee2cca839e965d92e2" sha1="12d9895f638e5acb24a58006d5faa6162ad3bb7a"/>
+		<rom name="WAR2.EXE" size="906927" crc="0c4be779" md5="b2ecc20b4aae8265b515a17d88784214" sha1="83311218e57ca6507fd0788aa8a6891784109cb4" date="1997-07-07 18:17:22"/>
+		<rom name="WAR2ED95.EXE" size="370176" crc="d73608ce" md5="9a35a68a4cd858de1bbf94f0b1651532" sha1="5979abd8692eef05a4b5084dd00b3bb40d9acc77" date="1996-07-23 17:41:52"/>
+		<rom name="WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 1).bin" size="210280560" crc="18fb96e8" md5="a786cd34c4945d5ce932cbe06f9e1959" sha1="a2419eded71d9e013711977b71361c1f678f9abd">
+			<source frames="89405" pregap="0" duration="19:52:05" size="210280560" crc="18fb96e8" md5="a786cd34c4945d5ce932cbe06f9e1959" sha1="a2419eded71d9e013711977b71361c1f678f9abd"/>
+		</rom>
+		<rom name="WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 2).ogg" size="4607" crc="74c584ed" md5="6a10b3ad1b2509f0a41b4eb0e7b4cfd4" sha1="a431a6993007ae0796cd79bdf7401a385df2a1d7">
+			<source frames="602" pregap="150" duration="00:08:02" size="1415904" crc="afe8ab5c" md5="2a79497726bdc49ba59c756a092bf9cb" sha1="944037ebec20fc40d858631a2243b4fb86beb51e" in_zeros="1415904" out_zeros="0" trimmed_crc="00000000" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 3).ogg" size="10796285" crc="24af35c0" md5="31497499f287d2d8a268ceb92f9edfc0" sha1="195de17db2ef1436ae733173f7a6a1303b47a6c3">
+			<source frames="29309" pregap="0" duration="06:30:59" size="68934768" crc="a878e778" md5="b4a9464ba2fc726bde8f72b974c08bab" sha1="6622ae17d3fb4feda6afaf91ae795a4ff03d2ee6" in_zeros="7776" out_zeros="719088" trimmed_crc="19e34277" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 4).ogg" size="12306224" crc="91947f26" md5="7f47f5f6cbd3054e344239b803e7b6cc" sha1="eb83317a5dd8998503859f9e686e826918bfbcf4">
+			<source frames="32387" pregap="0" duration="07:11:62" size="76174224" crc="47259a27" md5="5590e081e28e3a2a10a07af696ad4f39" sha1="3485ab8f227f1d85909630abcc7872ce5db27915" in_zeros="7788" out_zeros="713725" trimmed_crc="e99b44f5" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 5).ogg" size="6153871" crc="bd6f399b" md5="27b08135f3a4a531c7b5c5f0590ff5a7" sha1="9fb2aa2c787228330c6654c5c1eba5c871592d55">
+			<source frames="16656" pregap="0" duration="03:42:06" size="39174912" crc="20b04eba" md5="72fdb2e75495e5092fb1724e9ac1c71a" sha1="0b58f542dceeb53c7846a4902485f7e0cb128b2f" in_zeros="7768" out_zeros="716964" trimmed_crc="ed12b1e4" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 6).ogg" size="5942587" crc="026d0e46" md5="e98b77c3db150f717f93614c14cfdd35" sha1="238b50efa62e09395853e2afd4410cfa5243c19c">
+			<source frames="16228" pregap="0" duration="03:36:28" size="38168256" crc="f82c2939" md5="e4b8ae2795f7421798988252c86cf2e3" sha1="0cdf89bd20f6dc4b5507aadfb22d32c7a3167df0" in_zeros="7796" out_zeros="709784" trimmed_crc="54fe5568" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 7).ogg" size="1641181" crc="e893019c" md5="c3184f80fb691e992ad3502fef638154" sha1="ab7c2a6e19fcdb142c9f5781a986fbe8f38a004c">
+			<source frames="4353" pregap="0" duration="00:58:03" size="10238256" crc="ac09b7bb" md5="18783b6c7d281a1045992fb8eaa2a4ac" sha1="cc7e99752be0fc1215842a86fa7c7e1cb077f197" in_zeros="7780" out_zeros="712265" trimmed_crc="8ba241bb" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 8).ogg" size="1003646" crc="9c7e45a5" md5="169cfe3ef07c6fc99eb7d820dce07634" sha1="30b6c831609ff7d522d6d68e57ccc7aa21288f74">
+			<source frames="2836" pregap="0" duration="00:37:61" size="6670272" crc="610da223" md5="8718d41912d8e40982e9620533d0c6e3" sha1="ed7b6806116da02f7a2b1e51be6c607c7c16849f" in_zeros="7796" out_zeros="700149" trimmed_crc="251fe1ac" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 9).ogg" size="1394320" crc="a626ef06" md5="14dda791c32783ec2db36273e1f60528" sha1="69c2fecfa68ac85402c035c1d817ce1a842048a5">
+			<source frames="4304" pregap="0" duration="00:57:29" size="10123008" crc="13fda3d8" md5="572ce4744d12256ac75cf35a6e0b83f9" sha1="630ea4739b56929300b2141d99d962c658b09dc9" in_zeros="7780" out_zeros="712993" trimmed_crc="cb484655" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 10).ogg" size="10594068" crc="645cc952" md5="089084479937cd02272a82ca54bd03d8" sha1="57ce22ce2787af47f95fed5570a6cf5327a92823">
+			<source frames="26776" pregap="0" duration="05:57:01" size="62977152" crc="8f1f36f6" md5="420ecf86b9371f7bd939f9a8f1127925" sha1="370dc704f0b2d093c2a900e4f038e36e15020d83" in_zeros="7896" out_zeros="711781" trimmed_crc="5ccec545" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 11).ogg" size="6134524" crc="04b2b2cd" md5="2122a5efe14414a438cdd7f3e8059180" sha1="0da31b2649b4e9f398b4a68c7444601058e4701b">
+			<source frames="16246" pregap="0" duration="03:36:46" size="38210592" crc="08e33a76" md5="235903d29937b89c5f5827730dbeef59" sha1="817e60eab84fe1c628e3ff50864b96bd9a6ff3a4" in_zeros="7768" out_zeros="711784" trimmed_crc="1a5eb08b" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 12).ogg" size="6528397" crc="17afb338" md5="874504d284062ef919c42dbfa9d20a0a" sha1="056adc2fcc8bad452404d2f09309c68cdc85cceb">
+			<source frames="16201" pregap="0" duration="03:36:01" size="38104752" crc="bf66861c" md5="3c001734be4a12ff6801702cde026d02" sha1="c31d7407d7a803d0daac8ae119063258029ecaa9" in_zeros="8758" out_zeros="716777" trimmed_crc="dfad20af" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 13).ogg" size="6020661" crc="1ef294b3" md5="5b049337d0c1e496dad299b865039a88" sha1="8196f72c9e332f6caeeb0742caa885129cf131f1">
+			<source frames="15733" pregap="0" duration="03:29:58" size="37004016" crc="ed13bc88" md5="2a89bd9d29c317deb020380fa56348d6" sha1="0225aa53c1565e689182722a606ec8676a00131b" in_zeros="7796" out_zeros="714068" trimmed_crc="f2fd796d" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 14).ogg" size="6348983" crc="26d8611b" md5="c8ff040086efe4d5b31aa623aac4cff4" sha1="3f8cc9cb18dcfcc5147e6109984e396dbd5729bb">
+			<source frames="16088" pregap="0" duration="03:34:38" size="37838976" crc="2cd55328" md5="758fcfc5de63ba1fbe91ff044c6dfe8b" sha1="e86593ef348785a66aa1caf1e27696900a9349ba" in_zeros="7776" out_zeros="713344" trimmed_crc="5f0ed55a" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 15).ogg" size="2699870" crc="97b351c2" md5="b9d9ed9012602dd63c8adc2090e1f1de" sha1="28f171533f05763fb7b10fdc6474e52d8e1fbd54">
+			<source frames="6547" pregap="0" duration="01:27:22" size="15398544" crc="180ba631" md5="983270a04058ed59f092b39242c2c4ca" sha1="31625bd3f71cf117efef88790b62193cd0a33e0e" in_zeros="7796" out_zeros="712181" trimmed_crc="7f4db2fa" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 16).ogg" size="1177713" crc="e064d2e3" md5="9e4e30e959bea287b14d7b02e5e5b4ef" sha1="8597fd6d5399cb889d28ad0ac0af4347cc8f2c6a">
+			<source frames="3188" pregap="0" duration="00:42:38" size="7498176" crc="bcdc67b5" md5="cfe22c3a6e2a2659934bf305c6b6a0fd" sha1="691bb5c68fb9a88afb7b3a5a7172342af3518c71" in_zeros="7816" out_zeros="702476" trimmed_crc="79796140" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 17).ogg" size="1084801" crc="db95f4f8" md5="66bd8c057848d6fee937836ece44c5bd" sha1="5d81e541dba850ffeb585c96ebdafe9b9e2f9338">
+			<source frames="3419" pregap="0" duration="00:45:44" size="8041488" crc="2f60ea52" md5="e20a09df03ddf1c8077ce6b2c1eadb3a" sha1="d312f3e3f6aec016641377b825c735999a891f2a" in_zeros="7792" out_zeros="715801" trimmed_crc="1e97db56" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 18).ogg" size="4272146" crc="ebbc0d88" md5="f7c4703230a42fd6f581a219b79feb38" sha1="edaa483738019942e64da2540a6041fb3aa1caf7">
+			<source frames="10355" pregap="0" duration="02:18:05" size="24354960" crc="3550d756" md5="133a174ef15f178832850c52437e40c2" sha1="cf7830d058fcd94ed39b95f78288b522cb9cc225" in_zeros="7776" out_zeros="707242" trimmed_crc="229c7d9e" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09).cue" size="2756" crc="d18e8ca6" md5="004cb4180e090d4a7ec5745e11520307" sha1="b797f3c48d77652d7077aade81335c7814adab7e"/>
+		<rom name="Warcraft II - Tides of Darkness (1995) (Blizzard Entertainment).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Warcraft II.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Warcraft II - Tides of Darkness (1995) (Blizzard Entertainment).dosz">
+		<description>Warcraft II - Tides of Darkness</description>
+		<year>1995</year>
+		<developer>Blizzard Entertainment</developer>
+		<comment>
+			Installed v1.22 from CD matching with Redump: WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05)
+			Then patched to v1.4
+			CD image converted with CHDtoOGG
+		</comment>
+		<comment_dosc>CD audio config and auto start. General MIDI and Sound Blaster music options</comment_dosc>
+		<link type="media">http://redump.org/disc/42873/</link>
+		<link type="patch">https://www.pcgamingwiki.com/wiki/Warcraft_II:_Tides_of_Darkness#Patches</link>
+		<rom name="ALAMO.PUD" size="71902" crc="dd714468" md5="4b5cf9bdc9820045e00aa0809a93b77c" sha1="cac77b156bfb19dc256e9a8377629809e3a7db6e"/>
+		<rom name="CHANNEL.PUD" size="71486" crc="09c4925c" md5="1948d2c3f0d3210091cc170ebd3eaead" sha1="1da09e1088113c653d3a1abbab570adb9bb18f2d"/>
+		<rom name="DATA/INSMAIN.INS" size="213855" crc="80064116" md5="89a910209b6d0bab136330124896330b" sha1="430130712055d514cbcfc20c352f065c83afdb5d"/>
+		<rom name="DATA/INSSTR.INS" size="12513" crc="57e6f593" md5="818af782449183d269e6e03178ba4f32" sha1="e926496ab888a283fc98f6a3454e07eb08fb8c18"/>
+		<rom name="DATA/MAINDAT.WAR" size="8409933" crc="b1ccb82e" md5="9389265dc9fd70f6b250e0278dfb455a" sha1="81b4e61b90c680814b75d7c68e8d50e2a0373424"/>
+		<rom name="DATA/REZDAT.WAR" size="1894026" crc="ed5c0a9c" md5="4505a8cd442fa13b58da1d1be74bbb7b" sha1="19c045add6e20b0b24227f556c21f93ff3c1488f"/>
+		<rom name="DATA/SFXDAT.SUD" size="4302671" crc="79bc45f7" md5="8a678ac03214f6fa9f7f86a9cf0da2fd" sha1="fa31b793730ddd01226e3dc07c0208bb6a3c02a5"/>
+		<rom name="DATA/STRDAT.WAR" size="51550" crc="9a48d3df" md5="e23eea8cd243fdf63986c8091899cefb" sha1="b299340ea6a681cb17b7590270a2bdcc8fc8f078"/>
+		<rom name="DEATH.PUD" size="37086" crc="e4853f46" md5="0f910d7d66ff3fa571fae1b800e8c2a7" sha1="8de2640c5b7d3ffb753aa1cbd8bdf8d31a165548"/>
+		<rom name="DRAGON.PUD" size="122006" crc="4be95c7a" md5="e56332d7feeaceba2aa2f153d37eba88" sha1="a66dec6d2171c7c8b3856594068c8a69cf020844"/>
+		<rom name="DRIVERS/ADLIB.MDI" size="14986" crc="6871f64c" md5="5cb112d060d70a43ee7c89b7ffe4f029" sha1="1f19c757259cac7b5f04281ac8830f8bece3c8d2"/>
+		<rom name="DRIVERS/ADLIBG.MDI" size="16377" crc="1d2a278b" md5="79d8137d4e6b78735b78cd8a4bd14827" sha1="14f61539bf8438f68add723fef2ef76821fa9fd8"/>
+		<rom name="DRIVERS/ADRV688.DIG" size="11278" crc="96dfb75d" md5="feabc78729e3a458ae2f6ab40146f0d9" sha1="255ecb5d649895d65bca49bd6afcbdf875e34bf2"/>
+		<rom name="DRIVERS/AILDRVR.LST" size="16885" crc="b13debb6" md5="83b8de65b09c95e7098104b7c9c19829" sha1="90636803056ed37a46c684b9d9ca53d9c4ab6cb0"/>
+		<rom name="DRIVERS/DIG.INI" size="207" crc="21cd282e" md5="0d31f9eb5db6a319553f51eabe14deec" sha1="679f1b1c65be2acf9654e91b89c37a5823ae4764"/>
+		<rom name="DRIVERS/DIGTEST.WAV" size="53868" crc="ead2e54e" md5="c8116a6107886abea0947107b20fe8a7" sha1="50ba3a20a218f46197870ffa3713202f5c2fd038"/>
+		<rom name="DRIVERS/DIGTEST2.WAV" size="34604" crc="1804b1f7" md5="03ef9c1d6f410acd25a1539c7c5b97e7" sha1="69dcc5cf3024fbfd1ef050bae7050b3ed2eea6bf"/>
+		<rom name="DRIVERS/DIGTEST3.WAV" size="53406" crc="33ced2fe" md5="b1082c681446352ab242d56d2820742b" sha1="249a4326280286996d6ce5d9bcf8922d7228b56a"/>
+		<rom name="DRIVERS/ESFM.MDI" size="15084" crc="1aa86b62" md5="133a6b2b01da252dfa11b6e2ec5f5ebf" sha1="08b230f9306245fe00e1c8a098d3a6d3ee41fac0"/>
+		<rom name="DRIVERS/JAMMER.DIG" size="3219" crc="230129e0" md5="4922c729c5e7b347089a2be44f296859" sha1="103e0bf92c6fd1c9fc925fd57bdc22e56170b395"/>
+		<rom name="DRIVERS/MDI.INI" size="200" crc="4c3e0499" md5="5f8fbb933fd98d51e8d97df43e5eced9" sha1="399236cc977bbd7e84bc1ed11d965a2d48efdc76"/>
+		<rom name="DRIVERS/MIDITEST.XMI" size="15838" crc="6026b413" md5="f0872c4a02b012e2839020d15ce073bd" sha1="15787f668e76b3d7a28154ddd784aa841623f6ea"/>
+		<rom name="DRIVERS/MIDITST2.XMI" size="15130" crc="1ab3574e" md5="73e8d49efd2e05fa0592e10c935b9f27" sha1="61ca7eab66b61424fa6feaa722d3805dda303d10"/>
+		<rom name="DRIVERS/MPU401.MDI" size="1915" crc="70a67ea6" md5="965a57d16212beb0f68cb9f62bc7259b" sha1="6ee8364704c81319d04a2459dcc8e65460749a30"/>
+		<rom name="DRIVERS/OPL3.MDI" size="16387" crc="74aad2f1" md5="84ce740acea5af9ef8d118174bff88c8" sha1="310b8b21f088ec0180c02c9fbe1edd744d76c9b2"/>
+		<rom name="DRIVERS/PAS.MDI" size="15425" crc="01d01110" md5="bcc2a72a36663f40c019d0af2c95df13" sha1="a94fcb63700f1cbf46698d074526b5db48754b90"/>
+		<rom name="DRIVERS/PASPLUS.MDI" size="16458" crc="c5a2ded9" md5="f5515c19a269ca2b1af13e9b3e3c3d3a" sha1="a9c4967e8ca11c529a49d8a54f8730b223c0289f"/>
+		<rom name="DRIVERS/PROAUDIO.DIG" size="2127" crc="4b071066" md5="a054071be574b2bcf47a0386f1a98ae6" sha1="8debfb262849ebce1da3d45387d1595712c2667b"/>
+		<rom name="DRIVERS/RAP10.DIG" size="2849" crc="47373ef0" md5="bb846bb23ee9065a09373afdb73cf054" sha1="6081bc6e447afeaad48a8361c92e7ce280f6ea7e"/>
+		<rom name="DRIVERS/SB16.DIG" size="2836" crc="6ddaa5d2" md5="b24e361b7634b9b3eafcd2cbb592ba9b" sha1="f0734dae77c034f5cfcd7b353cd75adfb57871af"/>
+		<rom name="DRIVERS/SBAWE32.MDI" size="32694" crc="dd43a7b8" md5="a66e04b5c067b95932857aff75f48f5d" sha1="a608005dd369a07f16e6acdadfd0fcdf95cc02ec"/>
+		<rom name="DRIVERS/SBLASTER.DIG" size="3125" crc="d1b1a7d7" md5="b456d6385b74b700f09aec22ba14ca19" sha1="5eec3b5791ad5855c7a4440909db651b6aca3b2f"/>
+		<rom name="DRIVERS/SBLASTER.MDI" size="15118" crc="670d5af4" md5="20fc92cf9e0d0d8e2447cd30252faee4" sha1="8e44d8bf0291e453d45477c6dd36fbd5ca40ac95"/>
+		<rom name="DRIVERS/SBPRO.DIG" size="2763" crc="1061490f" md5="b0fe50da778c24cc4066e960a3d1a7c3" sha1="8bc27ebd0ec30dabfd354b948801946b7e8f33d8"/>
+		<rom name="DRIVERS/SBPRO1.MDI" size="15471" crc="25370f67" md5="998eced7549230f6d621766f0cce4c39" sha1="92775d93ad5ee563ae8bf2b6f51ba8d444039e52"/>
+		<rom name="DRIVERS/SBPRO2.MDI" size="16541" crc="0ab0493a" md5="8879265bf3b414346f66c326389e32ae" sha1="4a9d598979e14f4f8c0e76fe0246b305fb848955"/>
+		<rom name="DRIVERS/SNDSCAPE.DIG" size="4171" crc="708a96a2" md5="9d7a052a680f45d244e0ee4735b7b55f" sha1="f9902b74d545813315194f5a1791c4ea0a9a1e0d"/>
+		<rom name="DRIVERS/SNDSCAPE.MDI" size="2971" crc="ad1df3c2" md5="31ec7e6e06a3eb9e0bebff3e52ef1b0f" sha1="01e3ffef3aa6e9d312f190a9403ff8d167743aed"/>
+		<rom name="DRIVERS/SNDSYS.DIG" size="3332" crc="86ecb774" md5="c67142fe53599b28ff7d53565576dbae" sha1="72a300265348a67c33945d0aa6b5c0ec3933dbcd"/>
+		<rom name="DRIVERS/ULTRA.DIG" size="9478" crc="430d67f5" md5="000e584a06712d2f2b58eb2e17b65248" sha1="4327d6bb924b4e40fa7ff035bdfb73a879c31836"/>
+		<rom name="DRIVERS/ULTRA.MDI" size="49672" crc="04849dc3" md5="9a1b881ab9e8f6d827f6c27c5df40d85" sha1="8337ada0962de33ee3eb8ebbf9d5d0c898f41fd2"/>
+		<rom name="DRIVERS/WARCRAFT.AD" size="3622" crc="d986716d" md5="432b2e2d05f1e1e00ca9eeb814a693b0" sha1="f0033a93d52f1cb112f7b89028afbe5b1815eb6d"/>
+		<rom name="DRIVERS/WARCRAFT.OPL" size="3622" crc="d986716d" md5="432b2e2d05f1e1e00ca9eeb814a693b0" sha1="f0033a93d52f1cb112f7b89028afbe5b1815eb6d"/>
+		<rom name="ICEBRDGE.PUD" size="122510" crc="04846780" md5="514b826ce910157238a86e119f7bb9a3" sha1="57313e40bb41c7b1242aae1bab9afdf68e745673"/>
+		<rom name="INSTALL.HST" size="1819" crc="b6286657" md5="e0e36560d8b1bfea7e8cc8226c98c467" sha1="813b35aee3a5aae00c8fffb26a9c5c56260896d9"/>
+		<rom name="ISLANDS.PUD" size="71518" crc="76743537" md5="9e746fb245d7044c54c5ec08cdc4dc19" sha1="7ceaf1bc69880d353ce3c1d190ebbc02c3af09aa"/>
+		<rom name="KALI/FILE_ID.DIZ" size="508" crc="ae2b68ae" md5="5ca4971d89a4a246b1012e1ab352f136" sha1="9c0cdba1e5c749ed1f290f6f683b768d766c5715" date="1997-07-14 13:15:20"/>
+		<rom name="KALI/ISP.HLP" size="27815" crc="54d30216" md5="87a496968efff2cb0827a5e6058d6b05" sha1="e72aaaccd400cff685d03b137f6efaad8c19e304" date="1997-07-14 13:15:20"/>
+		<rom name="KALI/KALI.CFG" size="1015" crc="b801997e" md5="0147ec30fecbbaa4f64e1df9559d43e5" sha1="2a8eb2781ecce62a80f0e1c8bd6e3b323dafd363" date="1997-07-14 13:15:20"/>
+		<rom name="KALI/KALI.DOC" size="57913" crc="298fb89f" md5="68a9b18965efd73fe219d46844b9c03e" sha1="ebb2691e25c5accc316cf333419449d471ae99b8" date="1997-07-14 13:15:20"/>
+		<rom name="KALI/KALI.EXE" size="28641" crc="cc169801" md5="1f80260c4803ee4f556f069168bd5856" sha1="a2606271bd043622f98e4deb5741a23ae5308a6b" date="1997-07-14 13:15:20"/>
+		<rom name="KALI/KALIGAME.FAQ" size="27410" crc="ca6919bb" md5="b341ffd27ebe962d53e7ff5891e43e8b" sha1="91ba93fa250c9284737df784cf95639472fb8f7c" date="1997-07-14 13:15:20"/>
+		<rom name="KALI/KCHAT.CFG" size="850" crc="f01b15db" md5="3d69e71c8f52081ec38cfb277169aa8f" sha1="9d1fcdb82003bd5e240339bb6e37a932d761f487" date="1997-07-14 13:15:20"/>
+		<rom name="KALI/KCHAT.EXE" size="24204" crc="3e333405" md5="bf81d65e52753aa6f9c819c0c983a09e" sha1="705214d3547a30ac5a89d1b26a81e19d3b22f920" date="1997-07-14 13:15:20"/>
+		<rom name="KALI/ORDER.FRM" size="913" crc="487cf28d" md5="356d8200014403f8c70803e5a4ce2d73" sha1="4e870e1457271701c74418358ab9964186d122ed" date="1997-07-14 13:15:20"/>
+		<rom name="KALI/README.NOW" size="1648" crc="050f4da9" md5="4816ff6efcd28b555d0c771e06cab201" sha1="98e41af64067212a5dcb554135e91347d6823115" date="1997-07-14 13:15:20"/>
+		<rom name="KALI/REVISION.LST" size="8558" crc="60fb9e1e" md5="0d47e9607479c7156329d29d004e666f" sha1="0c208f1b1fa2f31cfe0d0673bf25f3be29dce678" date="1997-07-14 13:15:20"/>
+		<rom name="KALI/SNATCH.DOC" size="1701" crc="607f3814" md5="66386a874b5d4dae4da90e59ee0a8ee0" sha1="ca46642d6c442d5a3e879e7d289d43f4b3ea0a73" date="1997-07-14 13:15:20"/>
+		<rom name="KALI/SNATCH.EXE" size="8714" crc="203f9bdd" md5="074a1982820b68122545687c87b40689" sha1="3cc86b742542a20102cb6ec7ef646c4353d6aab6" date="1997-07-14 13:15:20"/>
+		<rom name="KALI/WATTCP.CFG" size="982" crc="fe2d3f7a" md5="2dac35c26bdeb68311dcb60cfa007d43" sha1="3526bdd6033c2e4b632cc0450ad3d7d22af6e54c" date="1997-07-14 13:15:20"/>
+		<rom name="LAND_SEA.PUD" size="71806" crc="31de68e9" md5="f5a2caac77de98c74d797a640b9afbd3" sha1="61e7ade12f82dbd74a0f31fa26a10cfcb5cd7c57"/>
+		<rom name="MUTTON.PUD" size="18790" crc="ee2337c4" md5="ebb44f9cd4e2ab97eb9cda0d4b312bea" sha1="28d8d09b8ce4e3ad44cf0522096ba8517c498d11"/>
+		<rom name="READ_140.TXT" size="3250" crc="a39196bc" md5="3f667164b667a37395dc710e2fc9eab9" sha1="f5b05e72de0bbe79e5c2edd9f461a08ec698b429" date="1997-07-14 13:21:40"/>
+		<rom name="README.TXT" size="8838" crc="1548421d" md5="d54af2fc07c746448a57c8692f0f07fc" sha1="8afd36e756d62e832b647bc039959fdc0c0c2736"/>
 		<rom name="SETUP.EXE" size="581465" crc="4b844b3c" md5="29701af3414280c9803c40fed926e1c6" sha1="76ae862c0bf26e46bc9084021d3acb58d9878a53"/>
 		<rom name="SETUP.PIF" size="967" crc="4490e8c7" md5="6f7fbd0ce0501c5a6f530edc05dfb6b1" sha1="c06f313a681fd03ce2e7049df2564a206050e2b5"/>
-		<rom name="SFXED95.EXE" size="23040" crc="90de9ae6" md5="2442094ff743a8ee2cca839e965d92e2" sha1="12d9895f638e5acb24a58006d5faa6162ad3bb7a"/>
+		<rom name="SFXED95.EXE" size="23040" crc="0d4939de" md5="40f57b0544d8b5ccbdb9711b03b3aca8" sha1="b01fd64bd3204656c30648132b399eb6a6e52acd"/>
 		<rom name="UVCONFIG.EXE" size="260250" crc="3731ecd2" md5="43e7d6c9a606c9d3c7f703e2056fdb1b" sha1="3c4c61563ab6df1fb145b05c925b178095c83ea9"/>
-		<rom name="WAR2.EXE" size="900539" crc="f8d6360e" md5="262b0b342721ca257fdcda137b6d72ad" sha1="b0996a8966190377d4f5bce987ba07bea6bfc481"/>
+		<rom name="WAR2.EXE" size="884571" crc="87267fd2" md5="56cff3e4568af6fe2225fbc8539fd734" sha1="a6d44b87ceb4cc0da27626aff1f6ed1fbec54387" date="1997-07-10 16:54:14"/>
 		<rom name="WAR2.INI" size="365" crc="1213a8e0" md5="195e9e67a54dd65b07a922b760f2027f" sha1="eed37c196bd7ea731c940112cd4b4e82a12f1e47"/>
 		<rom name="WAR2.PIF" size="967" crc="25e8d2ca" md5="782379eb530521f08327c78de2403b57" sha1="f95fc40f297c477a985aea0aaec3e3e4d0c93b2b"/>
-		<rom name="WAR2ED95.EXE" size="370176" crc="9cb1effd" md5="7fdd803eb69affffe08990cd8e66008d" sha1="c01b3a87c47c56e4cea8b38c14e97402d123943d"/>
+		<rom name="WAR2ED95.EXE" size="366592" crc="664c9070" md5="85dcf9a2b9de9efedb42cb3527f17289" sha1="9af85eab9a2210014645e325ab88e7957b0b2a15"/>
 		<rom name="WAR2ED95.HLP" size="70025" crc="61717575" md5="ff8e969ecacd486564ad5b7851a59fd6" sha1="73ed6e24e293578acc1a16dd8b545ac1dbe0b03e"/>
 		<rom name="WAR2EDIT.EXE" size="11264" crc="59a87a0f" md5="94542a0a0d03ea7f2b5884cb77626f7c" sha1="0b041e4a7307798681498f830fcfff4f834e0b15"/>
 		<rom name="WAR2ICON.DLL" size="15360" crc="cf8fd9fd" md5="340e6d0d9c2941531e078b692e7f7abc" sha1="70e1a5be0f94f034a466e28f3162ead4d586d6ab"/>
 		<rom name="WAR2KALI.EXE" size="3376" crc="f0b46eb2" md5="6432f373331845d92c2af7abac97d338" sha1="0fc6bef0f1653c1d85e8439feffd074a98b0bb2f"/>
-		<rom name="Warcraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09).chd" size="745699968" crc="83b86dc4" md5="dfe6788b9987f6f936c54ecd03dfdff3" sha1="05738612d8453846700ca4d4a36feb23b8691c25">
-			<track number="1" type="MODE1_RAW" frames="89405" pregap="0" duration="19:52:05" size="210280560" crc="18fb96e8" md5="a786cd34c4945d5ce932cbe06f9e1959" sha1="a2419eded71d9e013711977b71361c1f678f9abd" in_zeros="1" out_zeros="0"/>
-			<track number="2" type="AUDIO" frames="602" pregap="150" duration="00:08:02" size="1415904" crc="afe8ab5c" md5="2a79497726bdc49ba59c756a092bf9cb" sha1="944037ebec20fc40d858631a2243b4fb86beb51e" in_zeros="1415904" out_zeros="1415904"/>
-			<track number="3" type="AUDIO" frames="29309" pregap="0" duration="06:30:59" size="68934768" crc="a878e778" md5="b4a9464ba2fc726bde8f72b974c08bab" sha1="6622ae17d3fb4feda6afaf91ae795a4ff03d2ee6" in_zeros="7776" out_zeros="719088"/>
-			<track number="4" type="AUDIO" frames="32387" pregap="0" duration="07:11:62" size="76174224" crc="47259a27" md5="5590e081e28e3a2a10a07af696ad4f39" sha1="3485ab8f227f1d85909630abcc7872ce5db27915" in_zeros="7788" out_zeros="713725"/>
-			<track number="5" type="AUDIO" frames="16656" pregap="0" duration="03:42:06" size="39174912" crc="20b04eba" md5="72fdb2e75495e5092fb1724e9ac1c71a" sha1="0b58f542dceeb53c7846a4902485f7e0cb128b2f" in_zeros="7768" out_zeros="716964"/>
-			<track number="6" type="AUDIO" frames="16228" pregap="0" duration="03:36:28" size="38168256" crc="f82c2939" md5="e4b8ae2795f7421798988252c86cf2e3" sha1="0cdf89bd20f6dc4b5507aadfb22d32c7a3167df0" in_zeros="7796" out_zeros="709784"/>
-			<track number="7" type="AUDIO" frames="4353" pregap="0" duration="00:58:03" size="10238256" crc="ac09b7bb" md5="18783b6c7d281a1045992fb8eaa2a4ac" sha1="cc7e99752be0fc1215842a86fa7c7e1cb077f197" in_zeros="7780" out_zeros="712265"/>
-			<track number="8" type="AUDIO" frames="2836" pregap="0" duration="00:37:61" size="6670272" crc="610da223" md5="8718d41912d8e40982e9620533d0c6e3" sha1="ed7b6806116da02f7a2b1e51be6c607c7c16849f" in_zeros="7796" out_zeros="700149"/>
-			<track number="9" type="AUDIO" frames="4304" pregap="0" duration="00:57:29" size="10123008" crc="13fda3d8" md5="572ce4744d12256ac75cf35a6e0b83f9" sha1="630ea4739b56929300b2141d99d962c658b09dc9" in_zeros="7780" out_zeros="712993"/>
-			<track number="10" type="AUDIO" frames="26776" pregap="0" duration="05:57:01" size="62977152" crc="8f1f36f6" md5="420ecf86b9371f7bd939f9a8f1127925" sha1="370dc704f0b2d093c2a900e4f038e36e15020d83" in_zeros="7896" out_zeros="711781"/>
-			<track number="11" type="AUDIO" frames="16246" pregap="0" duration="03:36:46" size="38210592" crc="08e33a76" md5="235903d29937b89c5f5827730dbeef59" sha1="817e60eab84fe1c628e3ff50864b96bd9a6ff3a4" in_zeros="7768" out_zeros="711784"/>
-			<track number="12" type="AUDIO" frames="16201" pregap="0" duration="03:36:01" size="38104752" crc="bf66861c" md5="3c001734be4a12ff6801702cde026d02" sha1="c31d7407d7a803d0daac8ae119063258029ecaa9" in_zeros="8758" out_zeros="716777"/>
-			<track number="13" type="AUDIO" frames="15733" pregap="0" duration="03:29:58" size="37004016" crc="ed13bc88" md5="2a89bd9d29c317deb020380fa56348d6" sha1="0225aa53c1565e689182722a606ec8676a00131b" in_zeros="7796" out_zeros="714068"/>
-			<track number="14" type="AUDIO" frames="16088" pregap="0" duration="03:34:38" size="37838976" crc="2cd55328" md5="758fcfc5de63ba1fbe91ff044c6dfe8b" sha1="e86593ef348785a66aa1caf1e27696900a9349ba" in_zeros="7776" out_zeros="713344"/>
-			<track number="15" type="AUDIO" frames="6547" pregap="0" duration="01:27:22" size="15398544" crc="180ba631" md5="983270a04058ed59f092b39242c2c4ca" sha1="31625bd3f71cf117efef88790b62193cd0a33e0e" in_zeros="7796" out_zeros="712181"/>
-			<track number="16" type="AUDIO" frames="3188" pregap="0" duration="00:42:38" size="7498176" crc="bcdc67b5" md5="cfe22c3a6e2a2659934bf305c6b6a0fd" sha1="691bb5c68fb9a88afb7b3a5a7172342af3518c71" in_zeros="7816" out_zeros="702476"/>
-			<track number="17" type="AUDIO" frames="3419" pregap="0" duration="00:45:44" size="8041488" crc="2f60ea52" md5="e20a09df03ddf1c8077ce6b2c1eadb3a" sha1="d312f3e3f6aec016641377b825c735999a891f2a" in_zeros="7792" out_zeros="715801"/>
-			<track number="18" type="AUDIO" frames="10355" pregap="0" duration="02:18:05" size="24354960" crc="3550d756" md5="133a174ef15f178832850c52437e40c2" sha1="cf7830d058fcd94ed39b95f78288b522cb9cc225" in_zeros="7776" out_zeros="707242"/>
+		<rom name="WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 1).bin" size="239896944" crc="697d7350" md5="e501a3ab84f7d974056fabe4535dc622" sha1="e5197f073219536fab896b68d26dfa1f8ce5fe5c">
+			<source frames="101997" pregap="0" duration="22:39:72" size="239896944" crc="697d7350" md5="e501a3ab84f7d974056fabe4535dc622" sha1="e5197f073219536fab896b68d26dfa1f8ce5fe5c"/>
 		</rom>
-		<rom name="Warcraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05).chd" size="695349504" crc="a61956f7" md5="9c126e8b88c2692150c203829954aa3c" sha1="6f0734edb93e22603528b7a72f15a2536288ed77">
-			<track number="1" type="MODE1_RAW" frames="101997" pregap="0" duration="22:39:72" size="239896944" crc="697d7350" md5="e501a3ab84f7d974056fabe4535dc622" sha1="e5197f073219536fab896b68d26dfa1f8ce5fe5c" in_zeros="1" out_zeros="0"/>
-			<track number="2" type="AUDIO" frames="602" pregap="150" duration="00:08:02" size="1415904" crc="afe8ab5c" md5="2a79497726bdc49ba59c756a092bf9cb" sha1="944037ebec20fc40d858631a2243b4fb86beb51e" in_zeros="1415904" out_zeros="1415904"/>
-			<track number="3" type="AUDIO" frames="16520" pregap="0" duration="03:40:20" size="38855040" crc="53e94ac2" md5="99e3d65cec3a00794270323984df42da" sha1="55371d426d87676c2a399c180de0543dcaa65078" in_zeros="14380" out_zeros="1069124"/>
-			<track number="4" type="AUDIO" frames="32387" pregap="0" duration="07:11:62" size="76174224" crc="28184fae" md5="3a2f1d15b52c0de4cf96e58123afa1df" sha1="5735645ce673b40bb550e07c3d5db590cd944b8f" in_zeros="7784" out_zeros="713729"/>
-			<track number="5" type="AUDIO" frames="16656" pregap="0" duration="03:42:06" size="39174912" crc="5f0cab13" md5="ac94e0e4686b3115ea98649e8ca6ba7d" sha1="38767037eafc5fd08921688142d6d4ad5c8a66c0" in_zeros="7748" out_zeros="716984"/>
-			<track number="6" type="AUDIO" frames="16228" pregap="0" duration="03:36:28" size="38168256" crc="f82c2939" md5="e4b8ae2795f7421798988252c86cf2e3" sha1="0cdf89bd20f6dc4b5507aadfb22d32c7a3167df0" in_zeros="7796" out_zeros="709784"/>
-			<track number="7" type="AUDIO" frames="4353" pregap="0" duration="00:58:03" size="10238256" crc="8477429d" md5="da2ab3ea0a7c11e848d7600d3816e680" sha1="51dd0ce78181623d9a94638f94c2d45087ba6f32" in_zeros="7776" out_zeros="712269"/>
-			<track number="8" type="AUDIO" frames="2836" pregap="0" duration="00:37:61" size="6670272" crc="f20867e3" md5="a3b8a3e357c061cb782aa1277166c527" sha1="d859378fc8c0222437f5145ae83107ecf9b76679" in_zeros="7776" out_zeros="700169"/>
-			<track number="9" type="AUDIO" frames="4304" pregap="0" duration="00:57:29" size="10123008" crc="fb4c3f4b" md5="11fd0af1ea2e68c3e03597da3b4ab4ac" sha1="65bc233835beab41aa1a9011060624b1ab368c42" in_zeros="7776" out_zeros="712997"/>
-			<track number="10" type="AUDIO" frames="16188" pregap="0" duration="03:35:63" size="38074176" crc="62a366ed" md5="6f8a5cde64b0cebba4ed86fadbbecc8f" sha1="022166e8b4e75dfe204c44a9c82d00616c18a0bd" in_zeros="14164" out_zeros="1064945"/>
-			<track number="11" type="AUDIO" frames="16246" pregap="0" duration="03:36:46" size="38210592" crc="ec32ca9f" md5="60542a85fe1881fd396cd3d55b7ca009" sha1="0e6f39e446b62b81cdb3d4da56ddf17b995460f1" in_zeros="7776" out_zeros="711776"/>
-			<track number="12" type="AUDIO" frames="16201" pregap="0" duration="03:36:01" size="38104752" crc="bf66861c" md5="3c001734be4a12ff6801702cde026d02" sha1="c31d7407d7a803d0daac8ae119063258029ecaa9" in_zeros="8758" out_zeros="716777"/>
-			<track number="13" type="AUDIO" frames="15733" pregap="0" duration="03:29:58" size="37004016" crc="ed13bc88" md5="2a89bd9d29c317deb020380fa56348d6" sha1="0225aa53c1565e689182722a606ec8676a00131b" in_zeros="7796" out_zeros="714068"/>
-			<track number="14" type="AUDIO" frames="16088" pregap="0" duration="03:34:38" size="37838976" crc="1d92a045" md5="0002ff3b9f2bb6e791fffe68b2d664ae" sha1="f4a35ab6f598d1a465969d9a29532314d59e3ce9" in_zeros="7780" out_zeros="713340"/>
-			<track number="15" type="AUDIO" frames="6547" pregap="0" duration="01:27:22" size="15398544" crc="02c280ee" md5="2b5d7abdcfebb1815cb8e12e8b48c07d" sha1="38fa9c37985b20d71654d0bb6aa889bd5d9de517" in_zeros="7800" out_zeros="712177"/>
-			<track number="16" type="AUDIO" frames="3188" pregap="0" duration="00:42:38" size="7498176" crc="443019fc" md5="6a07819b07ecacc15effdac510ba67be" sha1="700fe4adf2c9ba6c307950179eefa45a4181f8c6" in_zeros="7800" out_zeros="702492"/>
-			<track number="17" type="AUDIO" frames="3419" pregap="0" duration="00:45:44" size="8041488" crc="ddaa8d6c" md5="13945e800f33143dda430ab30facbd93" sha1="b3a765059f61eaf10baae9e8fa20a2fcc3bb277a" in_zeros="7800" out_zeros="715793"/>
+		<rom name="WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 2).ogg" size="4607" crc="74c584ed" md5="6a10b3ad1b2509f0a41b4eb0e7b4cfd4" sha1="a431a6993007ae0796cd79bdf7401a385df2a1d7">
+			<source frames="602" pregap="150" duration="00:08:02" size="1415904" crc="afe8ab5c" md5="2a79497726bdc49ba59c756a092bf9cb" sha1="944037ebec20fc40d858631a2243b4fb86beb51e" in_zeros="1415904" out_zeros="0" trimmed_crc="00000000" quality="8"/>
 		</rom>
+		<rom name="WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 3).ogg" size="6187442" crc="ffd49e11" md5="4b10a5501dd0ad8d35d06b23bfde9911" sha1="43c766eb4b84c32f6447d4fd80154c4474eba621">
+			<source frames="16520" pregap="0" duration="03:40:20" size="38855040" crc="53e94ac2" md5="99e3d65cec3a00794270323984df42da" sha1="55371d426d87676c2a399c180de0543dcaa65078" in_zeros="14380" out_zeros="1069124" trimmed_crc="f9db27cf" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 4).ogg" size="12319388" crc="15949e4a" md5="caf0e022cabb320731bb609c3ee2959a" sha1="49b5378a7dc9520e6f8e3bcb71ca2a988385dca2">
+			<source frames="32387" pregap="0" duration="07:11:62" size="76174224" crc="28184fae" md5="3a2f1d15b52c0de4cf96e58123afa1df" sha1="5735645ce673b40bb550e07c3d5db590cd944b8f" in_zeros="7784" out_zeros="713729" trimmed_crc="e99b44f5" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 5).ogg" size="6147363" crc="6113f3a0" md5="5bb250dc5e0ff06d2d3f818d7be06a02" sha1="887025edd1a4f7f081d14af107f862882d8a5a93">
+			<source frames="16656" pregap="0" duration="03:42:06" size="39174912" crc="5f0cab13" md5="ac94e0e4686b3115ea98649e8ca6ba7d" sha1="38767037eafc5fd08921688142d6d4ad5c8a66c0" in_zeros="7748" out_zeros="716984" trimmed_crc="ed12b1e4" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 6).ogg" size="5942587" crc="026d0e46" md5="e98b77c3db150f717f93614c14cfdd35" sha1="238b50efa62e09395853e2afd4410cfa5243c19c">
+			<source frames="16228" pregap="0" duration="03:36:28" size="38168256" crc="f82c2939" md5="e4b8ae2795f7421798988252c86cf2e3" sha1="0cdf89bd20f6dc4b5507aadfb22d32c7a3167df0" in_zeros="7796" out_zeros="709784" trimmed_crc="54fe5568" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 7).ogg" size="1641144" crc="2a766e88" md5="74c56806a9748a983a96468f26d04edb" sha1="a76b0d2372fb6e07b865cd15bc0e2fdd74d04a37">
+			<source frames="4353" pregap="0" duration="00:58:03" size="10238256" crc="8477429d" md5="da2ab3ea0a7c11e848d7600d3816e680" sha1="51dd0ce78181623d9a94638f94c2d45087ba6f32" in_zeros="7776" out_zeros="712269" trimmed_crc="8ba241bb" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 8).ogg" size="994144" crc="ad7a1074" md5="e0adee61b02993d7fb2809d2a730cb21" sha1="f9cc05e97bf2f77cee3474f32677e77346ce53ad">
+			<source frames="2836" pregap="0" duration="00:37:61" size="6670272" crc="f20867e3" md5="a3b8a3e357c061cb782aa1277166c527" sha1="d859378fc8c0222437f5145ae83107ecf9b76679" in_zeros="7776" out_zeros="700169" trimmed_crc="251fe1ac" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 9).ogg" size="1405605" crc="48998ab2" md5="f18d435837713ad12ac6fc42701123a1" sha1="a365556ceb20240bc73ba1aaa5df98d32cd2e24b">
+			<source frames="4304" pregap="0" duration="00:57:29" size="10123008" crc="fb4c3f4b" md5="11fd0af1ea2e68c3e03597da3b4ab4ac" sha1="65bc233835beab41aa1a9011060624b1ab368c42" in_zeros="7776" out_zeros="712997" trimmed_crc="cb484655" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 10).ogg" size="6630777" crc="0871c5c6" md5="d1db82afe13d69a1703f8c30efe6aadd" sha1="b3be17073cfc13b0926a92ab733c64a13e55f347">
+			<source frames="16188" pregap="0" duration="03:35:63" size="38074176" crc="62a366ed" md5="6f8a5cde64b0cebba4ed86fadbbecc8f" sha1="022166e8b4e75dfe204c44a9c82d00616c18a0bd" in_zeros="14164" out_zeros="1064945" trimmed_crc="b8d1b687" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 11).ogg" size="6157446" crc="a1ef3592" md5="c4f963e1c8671d36772b9214e3547119" sha1="2a716fb3ba3eccbb27a9a8a3ea5529d744c56c1a">
+			<source frames="16246" pregap="0" duration="03:36:46" size="38210592" crc="ec32ca9f" md5="60542a85fe1881fd396cd3d55b7ca009" sha1="0e6f39e446b62b81cdb3d4da56ddf17b995460f1" in_zeros="7776" out_zeros="711776" trimmed_crc="1a5eb08b" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 12).ogg" size="6528397" crc="17afb338" md5="874504d284062ef919c42dbfa9d20a0a" sha1="056adc2fcc8bad452404d2f09309c68cdc85cceb">
+			<source frames="16201" pregap="0" duration="03:36:01" size="38104752" crc="bf66861c" md5="3c001734be4a12ff6801702cde026d02" sha1="c31d7407d7a803d0daac8ae119063258029ecaa9" in_zeros="8758" out_zeros="716777" trimmed_crc="dfad20af" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 13).ogg" size="6020661" crc="1ef294b3" md5="5b049337d0c1e496dad299b865039a88" sha1="8196f72c9e332f6caeeb0742caa885129cf131f1">
+			<source frames="15733" pregap="0" duration="03:29:58" size="37004016" crc="ed13bc88" md5="2a89bd9d29c317deb020380fa56348d6" sha1="0225aa53c1565e689182722a606ec8676a00131b" in_zeros="7796" out_zeros="714068" trimmed_crc="f2fd796d" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 14).ogg" size="6329877" crc="10756f50" md5="38224f6ed1fe25526b72b832cdaecabb" sha1="dd73f74072b12971915b6d5ef94c60ccf0f9bd72">
+			<source frames="16088" pregap="0" duration="03:34:38" size="37838976" crc="1d92a045" md5="0002ff3b9f2bb6e791fffe68b2d664ae" sha1="f4a35ab6f598d1a465969d9a29532314d59e3ce9" in_zeros="7780" out_zeros="713340" trimmed_crc="5f0ed55a" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 15).ogg" size="2698656" crc="e25e28ad" md5="e6fcf63f42dc88e242149016eea20309" sha1="0f3e47e0618c15bc1a83f046d5cf9f7e91b212c8">
+			<source frames="6547" pregap="0" duration="01:27:22" size="15398544" crc="02c280ee" md5="2b5d7abdcfebb1815cb8e12e8b48c07d" sha1="38fa9c37985b20d71654d0bb6aa889bd5d9de517" in_zeros="7800" out_zeros="712177" trimmed_crc="7f4db2fa" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 16).ogg" size="1174459" crc="1f0b977e" md5="9c4b1e26d019e7dcbdf38c74b5d4a505" sha1="5be90b29d7e670019759be9bcc588521f93de625">
+			<source frames="3188" pregap="0" duration="00:42:38" size="7498176" crc="443019fc" md5="6a07819b07ecacc15effdac510ba67be" sha1="700fe4adf2c9ba6c307950179eefa45a4181f8c6" in_zeros="7800" out_zeros="702492" trimmed_crc="79796140" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 17).ogg" size="1086733" crc="846313a3" md5="5628e9088ab914fdb5392464d02741f2" sha1="a3312cdc3f8f69a896d6bb8cfa454a1f21182a7b">
+			<source frames="3419" pregap="0" duration="00:45:44" size="8041488" crc="ddaa8d6c" md5="13945e800f33143dda430ab30facbd93" sha1="b3a765059f61eaf10baae9e8fa20a2fcc3bb277a" in_zeros="7800" out_zeros="715793" trimmed_crc="1e97db56" quality="8"/>
+		</rom>
+		<rom name="WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05).cue" size="2247" crc="978daf8d" md5="dcc09248d1aa4f9c79e87dd9476afa02" sha1="480dcbed3eec5f210d03f003f073ef9f884f3c67"/>
+		<rom name="Warcraft II.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
 	<game name="Wasteland (1988) (Interplay).dosz">
 		<description>Wasteland</description>
