@@ -13615,6 +13615,23 @@
 		<rom name="upd_net.dll" size="180246" crc="5a69dc8a" md5="7eb561bbab417eeec6a5570b9a519ad3" sha1="61ebc02a99c643a899fbe58af291849ed48210e4" date="2001-12-24 23:44:32"/>
 		<rom name="update.upd" size="1206600" crc="5fe71872" md5="60e77ffe5a61183b23dda5191f6fcb31" sha1="0b630335f5e4f448a49ba527a79cda6403e805a6" date="2002-03-08 19:11:24"/>
 	</game>
+	<game name="Star Wars - TIE Fighter - Collector's CD-ROM (1995) (LucasArts).dosz">
+		<description>Star Wars - TIE Fighter - Collector's CD-ROM</description>
+		<comment>Minimal installation from CD. TIE.CD must be edited to C:\</comment>
+		<comment_dosc>Required TIE.CD file, Sound Blaster 16 config, and auto start. General MIDI option</comment_dosc>
+		<year>1995</year>
+		<developer>LucasArts</developer>
+		<link type="media">http://redump.org/disc/25234/</link>
+		<rom name="NEWACE10.TFR" size="3856" crc="7023b11f" md5="0f6d45752949be2a49abcc00413c9bbf" sha1="e4b907acf3af109b207cb5f13fde68e6039bc71e" date="1995-10-30 12:06:18"/>
+		<rom name="NEWACE7.TFR" size="3856" crc="52ba47b9" md5="ff7330bbd0cca8083fbf07a373026284" sha1="ee5f77e257cd3d9839e53ff0e2027fb1bb4b94f9" date="1995-10-30 12:06:02"/>
+		<rom name="READ.ME" size="20039" crc="8fe9f87b" md5="522633cafc09439c0b9dbd34469235b5" sha1="7cdcad9fc59290726e7b1fdf4d0a9fd9a17bff35" date="1995-11-09 12:24:40"/>
+		<rom name="Star Wars - TIE Fighter - Collector's CD-ROM (USA).chd" size="649444608" crc="bb696806" md5="bedfcdbeac73034b1b7d9bbf5c9ba877" sha1="db084200df9defe329f9ab6bf67cc0f584823b92">
+			<track number="1" type="MODE1_RAW" frames="265238" pregap="0" duration="58:56:38" size="623839776" crc="52d13aeb" md5="4c56b69ae72ca2cb9c1eaa0cfcc2ef88" sha1="52f6900245257b15d1f22e31c3c1f869bf8da194"/>
+		</rom>
+		<rom name="TIE.CD" size="3" crc="cae9292d" md5="2f158c4731d76d5975b8546d85de1b34" sha1="950a8a45c14f012b9bd5a9280e3dfbcd141d38cf"/>
+		<rom name="TOPACE10.TFR" size="3856" crc="3886d60e" md5="6f3d867b984ddfcc5c984512a6e75742" sha1="d4b94b64d475f7dd39c08dfb4004fb7ede71335d" date="1995-10-20 14:38:28"/>
+		<rom name="TOPACE7.TFR" size="3856" crc="38f9a53e" md5="1706bf671e97c882fff549411b6d6458" sha1="1861929a2d1eefbc22b889c57f8885d740ba9b93" date="1995-10-20 14:38:22"/>
+	</game>
 	<game name="Star Wars - Dark Forces (1995) (LucasArts).dosz">
 		<description>Star Wars - Dark Forces</description>
 		<comment>Installed v1.0 Build 1 from CD. Custom minimal installation</comment>
