@@ -2370,64 +2370,35 @@
 	</game>
 	<game name="System Shock (1994) (Looking Glass Technologies) (GOG, Steam).dosz">
 		<description>System Shock</description>
-		<comment_dosc>Auto start</comment_dosc>
 		<year>1994</year>
 		<developer>Looking Glass Technologies</developer>
 		<variant>GOG, Steam</variant>
+		<comment>Needs GOG's default CYB.CFG file</comment>
+		<comment_dosc>Required CYB.CFG file and auto start. General MIDI, French, and German options</comment_dosc>
+		<link type="store">https://www.gog.com/en/game/system_shock_enhanced_edition</link>
+		<link type="store">https://store.steampowered.com/app/410710/System_Shock_Enhanced_Edition/</link>
+		<rom name="CD/SystemShock.iso" size="319481856" crc="f8e8463a" md5="ac833ea4e564a8aef8ba147450e1504b" sha1="d424b6f86394e49e40a06d8e183936b5f1c8dad3" date="2015-05-18 02:18:56"/>
 		<rom name="CDSHOCK.BAT" size="24" crc="60f6cfb0" md5="f11bb58aced0dafbe4353b18bdfb384d" sha1="95a3fc2b409c47d0b96ed02a387591ca5fd304a8" date="2015-08-24 21:56:36"/>
 		<rom name="CDSHOCK.EXE" size="1543695" crc="ec0fbc52" md5="ca7d6016312453a1b099863ba2e689ab" sha1="432507b803ab080c8d59029ca47a5813884c91cb" date="1994-11-28 06:31:14"/>
 		<rom name="CYB.CFG" size="242" crc="d625a032" md5="7f58b1caeff8171fe046fd4c356efd3e" sha1="72c74f2f9505e296061b016e2acf17e9303a2d22" date="2015-09-04 23:23:26"/>
-		<rom name="DATA/ARCHIVE.DAT" size="613566" crc="b9c6fa60" md5="d290ef2e3c4fe605473d7cf0b65a96dc" sha1="1418d1f179f9038f3d9011c3628b7620ba5a24a1" date="1994-11-25 05:00:40"/>
-		<rom name="DATA/BWTABL.DAT" size="4096" crc="e73ee56b" md5="e67ec160924b24d38eb4638050e02045" sha1="92c72252ceae83b395588f73d9dca8e924591c77" date="1994-06-10 20:58:10"/>
-		<rom name="DATA/CITALOG.RES" size="52721946" crc="6ee0f723" md5="02b3ae041c34c7fcfc0c23ae9c83abf2" sha1="6c354c5d22beb5b8e925d8efdcc02469a6a605c0" date="1994-11-04 09:58:02"/>
-		<rom name="DATA/CITBARK.RES" size="8982244" crc="d917b4cf" md5="ac61943ec4ff62acc92c90a9b50fe56c" sha1="d11b5b0a7127290bba02eb401115d47eab66eebf" date="1994-11-07 19:33:26"/>
 		<rom name="DATA/CITMAT.RES" size="105834" crc="456c207f" md5="e8727598d54c360eff5916b9b1570082" sha1="f7dc3b17ff0235eb23f12f70bee4a7d7733c16de" date="1994-07-17 21:13:10"/>
-		<rom name="DATA/CUTSPAL.RES" size="14138" crc="3d00d3f7" md5="c4f9098fb7ac72f05a378d5684f9bc84" sha1="b4e453f3b0facdf8d4a4ed8c5b837d021a9ec534" date="1994-09-01 22:55:18"/>
 		<rom name="DATA/CYBSTRNG.RES" size="170502" crc="3fae2d9e" md5="4d787cb54004df90220ab01c4bd68f6c" sha1="7993c9d918a0b8bfca2137e8dbce7ab4d5683f54" date="1994-11-26 04:09:02"/>
-		<rom name="DATA/DEATH.RES" size="354030" crc="86ac4b14" md5="9bdc3624ba98c3cb1d42c91e92fc5fc4" sha1="b3dff0c6d324b2af58b46bf164c9c9a4bb5e8d60" date="1994-09-11 04:55:54"/>
 		<rom name="DATA/DIGIFX.RES" size="1923868" crc="17ffda3f" md5="082bbd007989a02a2ccf73a85b5c1d5a" sha1="9250f63c01e02993def659aebf521fdbb848709f" date="1994-11-20 01:35:16"/>
 		<rom name="DATA/DIGIPARM.BIN" size="342" crc="75441d2e" md5="1cbcd3e456bf8b02c0524d0337e6dfcf" sha1="d2e88caae0bbac91f5ee70ce31a8aa26a66947b9" date="1994-11-21 15:45:20"/>
-		<rom name="DATA/FRNALOG.RES" size="60479002" crc="9c8e20d5" md5="504b30ff564af0229275fc3f2de61746" sha1="cd0edcc37e4473f9160a365fcc4750ac3346d5c0" date="1994-11-21 13:31:08"/>
-		<rom name="DATA/FRNBARK.RES" size="8121064" crc="0f1dcd9d" md5="98edc68e0f426dde35b7d6c87dc8f356" sha1="b568fbe633a2cbb11fdeb285a32d49a81ee12c93" date="1994-11-15 14:02:48"/>
 		<rom name="DATA/FRNSTRNG.RES" size="186858" crc="efad6d4f" md5="c404368eb79d54816a7e9c4a955b1369" sha1="7e9539544053250444674e7b75ae2d296e3939b2" date="1994-11-26 04:10:24"/>
-		<rom name="DATA/GAMEPAL.RES" size="2468" crc="ed99a70a" md5="2b8bb1d3eb1fd3000c2333792813e07b" sha1="844d9cdcca4006a101c2007a75a721cce00cf969" date="1994-06-10 20:55:40"/>
 		<rom name="DATA/GAMESCR.RES" size="415710" crc="8d916b08" md5="dfc0a63443db9c74ec46997b89fab298" sha1="8bad8a0d638fc34599a91be37c4d91c5bd6375b0" date="1994-11-08 14:53:54"/>
-		<rom name="DATA/GERALOG.RES" size="71656938" crc="48457ce7" md5="b1846112b85e38b2a98944860a2c8387" sha1="1a91f9feb0d5cbfd2419e63a815bb5e77e80d85b" date="1994-11-15 13:40:18"/>
-		<rom name="DATA/GERBARK.RES" size="8466032" crc="6b360448" md5="7a5baf2b58fe2dca989dd5e92c2f970c" sha1="ea807e4a5ce8ae9215b21a88ffcd6c489bcd0494" date="1994-11-07 19:34:54"/>
 		<rom name="DATA/GERSTRNG.RES" size="184806" crc="e1e80ccc" md5="dc234eeb3eaeda06bc0a3d201dc32697" sha1="f87ed4a2e0110489c4990cb35e77c4dbc09a9579" date="1994-11-26 04:09:44"/>
-		<rom name="DATA/GRYNTABL.DAT" size="2048" crc="e45861ad" md5="4bbf9bdc04547bf1330d6df802bc1546" sha1="7086941edeaf1e2274b71433f74429e95d2ba7f8" date="1994-06-10 20:58:54"/>
 		<rom name="DATA/HANDART.RES" size="22638" crc="0554de69" md5="789114bccd8d697d67244524464ad034" sha1="506a4a6a7f9430c6c3de77d8d3a4bafd842799ee" date="1994-07-15 11:31:48"/>
 		<rom name="DATA/INTRO.RES" size="177286" crc="37d542d5" md5="48b2e0a1c849ac02274bf052095e6e87" sha1="eb56c5558020dd7dfb10390cedc95cd44e1850a6" date="1994-10-13 21:36:02"/>
-		<rom name="DATA/IPAL.DAT" size="32768" crc="2e29511d" md5="13f2a5d7a35f7244a196da8e5848027e" sha1="b298463c87c222be66f696c82ec0dc95dc334fad" date="1994-09-06 05:34:06"/>
-		<rom name="DATA/LOFRINTR.RES" size="9294440" crc="b5fc5b08" md5="2dbf5e117cf93c38346f27d33c8114b0" sha1="8f012eb0a6f095268233c369721cfd6431271a8b" date="1994-11-23 01:20:02"/>
-		<rom name="DATA/LOGEINTR.RES" size="9294284" crc="20eada80" md5="4b78fb752ad11ccdaa2282496db3cf58" sha1="08bfdd1937ea23049f666cb55c2b0e74f4c37b15" date="1994-11-23 01:23:06"/>
-		<rom name="DATA/LOWDETH.RES" size="1052124" crc="372d32d8" md5="2932069a0290be138d9df6a551b7b41b" sha1="1cb24da37a10eff5f7eead6706a2517e78616b06" date="1994-11-26 00:03:08"/>
-		<rom name="DATA/LOWEND.RES" size="3219292" crc="2eb23f85" md5="a339a3ab6856d9711100f44cd6647eff" sha1="334da840bd09aec5a2b205356320c5856f6b2fb0" date="1994-11-26 00:03:04"/>
-		<rom name="DATA/LOWINTR.RES" size="9487056" crc="3489c58b" md5="55778990ca261574fa98699d891615f3" sha1="9fe0801871e231e38d028f1f2ea81b62498f8001" date="1994-11-23 01:17:26"/>
 		<rom name="DATA/MFDART.RES" size="150164" crc="333a2c5b" md5="f5a180966ec19d418b5758abebc410ce" sha1="5e110176464603004a9f92af0e2c03cc6ab9aca2" date="1994-11-22 16:19:00"/>
 		<rom name="DATA/MFDFRN.RES" size="150352" crc="ae37066d" md5="febeab6131efd363a7463c77af06e878" sha1="ebeb01fcae5ae623fb11659369b7a5a11894544a" date="1994-11-22 16:19:30"/>
 		<rom name="DATA/MFDGER.RES" size="150548" crc="dc5df9ea" md5="01d47daa642eade7ed71d21ccd1f67b1" sha1="025ba0d89e8d4ea90a2728f6b6f515b0344a8415" date="1994-11-22 16:19:16"/>
-		<rom name="DATA/MONGTABL.DAT" size="256" crc="4669d0ec" md5="eb59cd61b101b90304d7f4cffe686bfc" sha1="ef4a80195d824fa50adc0008f61ef37330b239f4" date="1994-06-10 20:58:04"/>
 		<rom name="DATA/OBJ3D.RES" size="136314" crc="b80b1abe" md5="54fb7e03f951525ade88e6391f9118a8" sha1="f8a62a77cff2ddc3d41ed7f9c80550a34b7894bd" date="1994-09-07 20:26:26"/>
-		<rom name="DATA/OBJART.RES" size="752192" crc="597bf84e" md5="e227fd4c6f016e00bbd3bdf3dd5995b4" sha1="1552a3223ae9fefe8e69b63e15e2f37e53c0062c" date="1994-09-10 00:30:34"/>
 		<rom name="DATA/OBJART2.RES" size="2653438" crc="6ce00c0c" md5="63f2042da3c725f3d8db9e99279ccd2a" sha1="cfbbfc0bb974bfc866c1b33482b42228f3e42b1a" date="1994-11-22 12:23:24"/>
 		<rom name="DATA/OBJART3.RES" size="3069734" crc="8a48d902" md5="fdd9d981829ba68eb8ec7a61198db5dd" sha1="afe0bc85b7d3b420728a0a9e4b0fc93c2d46f06e" date="1994-11-22 12:22:20"/>
 		<rom name="DATA/OBJPROP.DAT" size="17951" crc="ab0e4c85" md5="547ecaecd5aa3c852b462f7b1da92bb6" sha1="2ceca0389eb091074ac6511ebcf70f26421438f3" date="1994-11-11 15:34:14"/>
-		<rom name="DATA/SHADTABL.DAT" size="4096" crc="918de202" md5="8e9e5eaea80184d5c235b53b1a303543" sha1="69e8a84db4f982fdf023eb3218ae6fcdb307b238" date="1994-09-08 09:03:24"/>
 		<rom name="DATA/SIDEART.RES" size="4176" crc="9d789fe7" md5="f2059e67e855c1ce9775b240cd8661e8" sha1="3e1bdb87607750b18c8ae1d967b824591e936fd5" date="1994-06-04 12:40:50"/>
-		<rom name="DATA/SPLASH.RES" size="194564" crc="61978dee" md5="a481f537c1ffcd8cc5c4f88f783be1c9" sha1="f993e370c3a070f0a9fda3bd8f0963c5e412853f" date="1994-08-23 11:55:42"/>
-		<rom name="DATA/SPLSHPAL.RES" size="912" crc="177e8aab" md5="75b885fcdb98325db3ffad6d1eccebd9" sha1="13ee76f9b55d070790ce388ff1b2518fa1851a02" date="1994-04-06 05:10:22"/>
-		<rom name="DATA/START1.RES" size="3374810" crc="ec425595" md5="90586c6e4311a08be495ae15ef77bd87" sha1="bff7c32b1f86bfdae162dc575476e95a424483ad" date="1994-08-31 14:50:00"/>
-		<rom name="DATA/SVFRINTR.RES" size="14210524" crc="17562bc9" md5="952bc1a9b07f88a3db945876a56001ec" sha1="95b99aa5ec6767c33b046aeadd763766da740b3d" date="1994-11-23 01:18:48"/>
-		<rom name="DATA/SVGADETH.RES" size="1789040" crc="45e67b92" md5="7a41c97761ef389e8b197a55caea6472" sha1="dbf0002fb48e94f1009d5a6246edb81da29ec7b8" date="1994-11-26 00:02:54"/>
-		<rom name="DATA/SVGAEND.RES" size="4451160" crc="d1271070" md5="b94f04369c9b850d31c4b6f314e11961" sha1="7733e1ee15fd0ac829ebf5cbcb25374579ed3d64" date="1994-11-26 00:02:46"/>
-		<rom name="DATA/SVGAINTR.RES" size="14403140" crc="28ba90bc" md5="8b50ca9783f995881d0f0701a94ba2cd" sha1="8ec56c76168c3b16b929ceb5d61a85c582d9293f" date="1994-11-23 01:16:44"/>
-		<rom name="DATA/SVGEINTR.RES" size="14210368" crc="6cf42add" md5="11bb3a5aa761bbe3aa133868fccd8a3e" sha1="9ef59e5a29a2fc4d642474e45e28156f527027ff" date="1994-11-23 01:21:50"/>
-		<rom name="DATA/TEXTPROP.DAT" size="4004" crc="4b439dcd" md5="880f91b776f3ca32d33238dd600635f4" sha1="5b6cf3c52f6c0935c3142c64e88223c3303d3a4b" date="1994-09-05 21:06:38"/>
 		<rom name="DATA/TEXTURE.RES" size="6138380" crc="ad5abd51" md5="c81ca84e8852feff085cf0424462cb03" sha1="5b614ef4cea20699b49effd967f59878aff1db4b" date="1994-11-21 14:11:48"/>
-		<rom name="DATA/VIDMAIL.RES" size="816094" crc="5963641d" md5="f721cbc7814446fd3d4b419f1110b854" sha1="ef9a59eca8375078cf270e00803f8ee56bf4d4c7" date="1994-09-06 19:29:56"/>
-		<rom name="DATA/WHYTTABL.DAT" size="2048" crc="cb97bdb2" md5="45564e6d5d0032002d7c01d676f0dda6" sha1="bf6a9548ba7efe1b27abfcd4d42fdc8734ae7c3e" date="1994-06-10 20:58:18"/>
-		<rom name="DATA/WIN1.RES" size="511534" crc="eceec938" md5="42e11a86a912ffc8757ee059a0b4eafa" sha1="c18c1e58e8d13947a5dd64c43d67b9dbc33320f0" date="1994-08-31 14:47:34"/>
 		<rom name="GEN/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-12-31 00:00:00"/>
 		<rom name="INSTALL.EXE" size="360233" crc="5d569dcf" md5="ab8da894b5ca4524627cbcb41e2554c6" sha1="7a1daf3a0b0796e233169e1bea7b8ced74ab4d7f" date="2015-08-24 21:09:34"/>
 		<rom name="README.txt" size="20341" crc="5be89b50" md5="f542dce2ea5f7cc82b4412dfb98e901f" sha1="894c50304219dd826b948dfa0efd51c85f8dc35c" date="1994-11-22 15:37:50"/>
@@ -2449,26 +2420,6 @@
 		<rom name="SOUND/GENMIDI/THM6.XMI" size="42284" crc="a2477445" md5="9c33548e92bfa5ba9968cf0f27db4ea5" sha1="043047f571ea45f76538b461e836456e58d3a8be" date="1994-09-29 19:41:02"/>
 		<rom name="SOUND/GENMIDI/THM7.XMI" size="8142" crc="9ac40322" md5="ae9537deedcdaab6c9ea85a45f45a431" sha1="317b88651af647a89021cae3e92b0f427f2a0f66" date="1994-09-29 19:41:02"/>
 		<rom name="SOUND/GENMIDI/TITLOOP.XMI" size="4956" crc="9f54a1d4" md5="bb3ef557d7a8e71b6d6e3358afee2690" sha1="7453e43de255ca88525fbe03a6b82c4bb444b700" date="1994-09-29 19:41:02"/>
-		<rom name="SOUND/GRAVIS/CIT.INI" size="2737" crc="cda2889b" md5="a606f06fd93fc049a8a06d63deb70072" sha1="d3413fb6aaf6314f80ee84d4c641e4a18bd18efc" date="1994-11-08 08:55:26"/>
-		<rom name="SOUND/GRAVIS/LOADPATS.EXE" size="45280" crc="7f660716" md5="40c678b7e9a3e8c023ab460dafc2b2a2" sha1="172be98ff2ef9f16c7ca0bade79fb79b3483a5b4" date="1994-09-29 19:41:02"/>
-		<rom name="SOUND/GRAVIS/SS256K.INI" size="2477" crc="6f7efdc1" md5="a745dc8fc42386a3984dfdcaaf1938aa" sha1="1ebb8cdbf2ddf47e7f05b01b596c5bb2a2e0b25a" date="1994-09-29 19:41:04"/>
-		<rom name="SOUND/GRAVIS/SSBAGPIP.PAT" size="3799" crc="fe282018" md5="e3d505d021c9c532af1e3feef05ce288" sha1="94259903c5ae58d9526ea94caa65dc010b934089" date="1994-09-29 19:41:04"/>
-		<rom name="SOUND/GRAVIS/SSBASLED.PAT" size="53389" crc="44bed422" md5="efa91ff9fd1a069966c16a23ffcf6451" sha1="c36bc13ee1f32fd4e7064a20a42a9271a202c25c" date="1994-09-29 19:41:02"/>
-		<rom name="SOUND/GRAVIS/SSCHARNG.PAT" size="90661" crc="df8e2357" md5="d25e72189d80f33f77f91fbd7b943ee5" sha1="6496eb40f6aa847e3cfab8b1db8223e53f44d65b" date="1994-09-29 19:41:04"/>
-		<rom name="SOUND/GRAVIS/SSDISGTR.PAT" size="22035" crc="40732b62" md5="50eb204eabbe2dfe039f31ec48db3d69" sha1="109c4984e18364f0b27c54aa2d55a874626d90bb" date="1994-09-29 19:41:04"/>
-		<rom name="SOUND/GRAVIS/SSFLUTE.PAT" size="25419" crc="4d75dc3d" md5="c4fead6d15eff77c2e3a3d9ec2157c14" sha1="40e8874a3d3da178bacfa3d8c7921d021466244b" date="1994-09-29 19:41:04"/>
-		<rom name="SOUND/GRAVIS/SSKICK1.PAT" size="7358" crc="cf0a95af" md5="46b635d0479956a271bfaa7e9185c193" sha1="3b9f748e348a4b0cc64ab6406b09581a7fc157b5" date="1994-09-29 19:41:04"/>
-		<rom name="SOUND/GRAVIS/SSKICK2.PAT" size="10377" crc="0741a018" md5="9867c50e219573e7846aa5e485a24419" sha1="9a0ca3b9f3cf3fafa2fa18f1c5f14c8f4fcf1398" date="1994-09-29 19:41:04"/>
-		<rom name="SOUND/GRAVIS/SSKOTO.PAT" size="25199" crc="c7836fdd" md5="33b836bf4cc77bc431960da0e1a15ea8" sha1="c58bbd61c210cc60cb0a00522ba8449b52c0c9bb" date="1994-09-29 19:41:04"/>
-		<rom name="SOUND/GRAVIS/SSMUTGTR.PAT" size="27471" crc="093d0622" md5="ec4e764158b49e605b3decbaf737f9a2" sha1="8de6025a6d494ff1fc20a04517b758def7614c6d" date="1994-09-29 19:41:04"/>
-		<rom name="SOUND/GRAVIS/SSODGTR.PAT" size="8395" crc="0f43c625" md5="53e32d4712ac52900a40a20a1ea96e60" sha1="8b9ddbed1b5922c33d7bbb74f53ee39c35bf193a" date="1994-09-29 19:41:04"/>
-		<rom name="SOUND/GRAVIS/SSSLAP2.PAT" size="12627" crc="6f860d40" md5="0f7a810c346e02188d2950d52067af92" sha1="171797e20f6b5c73830406943952bdb6f72180a6" date="1994-09-29 19:41:04"/>
-		<rom name="SOUND/GRAVIS/SSSNAR1.PAT" size="9935" crc="9ce5f0c7" md5="b754659db8c3691344308c60b0530825" sha1="3800bcb7a9aba3ec3880a94f161bcfb0b9e78444" date="1994-09-29 19:41:04"/>
-		<rom name="SOUND/GRAVIS/SSSQRWAV.PAT" size="17347" crc="1ec3774b" md5="940e16d3549f3c18e0b28579bdd35c15" sha1="d8a6f761fedb00f4049f8601179044280a3db0ff" date="1994-09-29 19:41:04"/>
-		<rom name="SOUND/GRAVIS/SSSYNBA2.PAT" size="11535" crc="82232fd0" md5="d5ef6c53db777d0c631867e0bed87cf1" sha1="63217c212fb9ebf496531730aaba89a07351904a" date="1994-09-29 19:41:04"/>
-		<rom name="SOUND/GRAVIS/TEST.INI" size="248" crc="b49ec2d4" md5="5ddcb197ea2d0c38534318bcf42c478c" sha1="8aa2655bdfbf23762637ea237898292f2b253e1e" date="1994-09-29 19:41:02"/>
-		<rom name="SOUND/GRAVIS/ULTRAMID.EXE" size="40038" crc="0902b67a" md5="7597c9d14a90f6fc6899bd63416caa53" sha1="f13c9e6b180261f6ff1027be8b429924041fe25c" date="1994-09-20 00:42:00"/>
-		<rom name="SOUND/GRAVIS/ULTRAMID.INI" size="2737" crc="cda2889b" md5="a606f06fd93fc049a8a06d63deb70072" sha1="d3413fb6aaf6314f80ee84d4c641e4a18bd18efc" date="1994-11-08 08:55:26"/>
 		<rom name="SOUND/MPU401.MDI" size="1792" crc="bcdd59e7" md5="b4ea3c267c5fec4eb6c523c68ab64cf6" sha1="a5f81b327c9d2adbf4675689db8a2ed6a3f3abb6" date="1994-09-19 02:45:00"/>
 		<rom name="SOUND/MT32MPU.MDI" size="6900" crc="83310799" md5="a8e4c559db90ab7c00b6f8d6a2e780fe" sha1="d46e43a6dc84c6bf64988405f1795b7d5e1f18b2" date="1994-09-19 02:45:00"/>
 		<rom name="SOUND/NULL.MDI" size="1528" crc="dfb463f9" md5="6408d0645501ecf5ffefa8f55d6a5563" sha1="92ae84d06cc32ca0e8391452fab0c588df01edd0" date="1994-09-19 02:45:00"/>
@@ -2499,7 +2450,6 @@
 		<rom name="SOUND/SBPRO2.MDI" size="16356" crc="b3d9bdbd" md5="46a1c54383c5d55e6e04192817771152" sha1="fc84a1e6d4f896c7cc96d6687ff97f0c8c490506" date="1994-09-19 02:45:00"/>
 		<rom name="SOUND/SNDSCAPE.DIG" size="4171" crc="708a96a2" md5="9d7a052a680f45d244e0ee4735b7b55f" sha1="f9902b74d545813315194f5a1791c4ea0a9a1e0d" date="1994-10-25 14:48:12"/>
 		<rom name="SOUND/SNDSCAPE.MDI" size="2971" crc="ad1df3c2" md5="31ec7e6e06a3eb9e0bebff3e52ef1b0f" sha1="01e3ffef3aa6e9d312f190a9403ff8d167743aed" date="1994-10-25 14:47:30"/>
-		<rom name="SOUND/SWAPFIX.COM" size="192" crc="4bf748da" md5="a0f1678e2567a2e55901b104541889ec" sha1="3acf0a41bd0360218e4df82929e5718c61410c5d" date="2010-04-18 20:00:46"/>
 		<rom name="SOUND/TANDY.MDI" size="4930" crc="fab0acce" md5="ebfaee58fa6ccbb354e8b9ad7de19e1d" sha1="7dc54dfd9b331fce973e9150d87dad1ebbacf3eb" date="1994-09-19 02:45:00"/>
 		<rom name="SOUND/TEST.AD" size="3622" crc="15ab5fcb" md5="c0913c8770d4ca3f4a5c9147c6fec609" sha1="dc1f7fc385d7230558bff4c8163548711f983536" date="1994-09-29 19:40:58"/>
 		<rom name="SOUND/TEST.OPL" size="5019" crc="07a96704" md5="eb97d0d5c958a0bbaeba9d58d3cae15c" sha1="abe40ca454e50258d309f5d1d0f623876d4092e6" date="1994-09-29 19:40:58"/>
