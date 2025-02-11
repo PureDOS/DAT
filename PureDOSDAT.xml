@@ -384,55 +384,55 @@
 		<year>1992</year>
 		<developer>Infogrames</developer>
 		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 1).bin" size="58080288" crc="a3c195af" md5="02e0ffd64ecaeeba5afff01907212f41" sha1="fcf22656d1858b6d8c811d3240cbf41d9e2bcbdd">
-			<source frames="24694" pregap="0" duration="05:29:19" size="58080288" crc="a3c195af" md5="02e0ffd64ecaeeba5afff01907212f41" sha1="fcf22656d1858b6d8c811d3240cbf41d9e2bcbdd"/>
+			<source type="MODE1_RAW" frames="24694" duration="05:29:19"/>
 		</rom>
 		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 2).ogg" size="2247894" crc="5c3064dd" md5="6326479b547054d7a5d8528283bf7c55" sha1="95a4d4044ef95778f0e6db94e008411e0ef7e1b1">
-			<source frames="5989" pregap="150" duration="01:19:64" size="14086128" crc="ac8ced45" md5="4684b44013db8f60054426b535f7cf51" sha1="87c6e946e764d1824a7693365d255f6c1492715e" in_zeros="360080" out_zeros="0" trimmed_crc="5c8f1a6b" quality="8"/>
+			<source type="AUDIO" frames="5839" omitted_pregap="150" duration="01:17:64" size="13733328" crc="0ee67116" md5="6c82b872803926c506c5ca45fc1d3fff" sha1="71c18dc0cd031bc160bc9d01f9661fe1a7c0418b" in_zeros="7280" out_zeros="0" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 3).ogg" size="2113717" crc="9ba1b9cc" md5="f1dbdf5abb5fd5849abfaa2504bc33ed" sha1="195048c495220fc48562eeb5693cecc9b567087c">
-			<source frames="5753" pregap="150" duration="01:16:53" size="13531056" crc="22715d94" md5="147f8c8e959ee0c2cfcc9a758c85a71a" sha1="d15a158e3e82ddac638b60b0786f4158e986a400" in_zeros="0" out_zeros="3" trimmed_crc="b53dd675" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="5603" omitted_pregap="150" duration="01:14:53" size="13178256" crc="144249e0" md5="91094440ffaec34b8d05a6ce2acac1ab" sha1="f34ac8a866e1221ce40dd0e100d416c0b765adc8" in_zeros="7236" out_zeros="3" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 4).ogg" size="3706250" crc="c543b2d2" md5="1344062c802a44b187ee86aa53d9b569" sha1="268ddcbb96306a3be0ee8e9044dfa2db7527b109">
-			<source frames="9573" pregap="150" duration="02:07:48" size="22515696" crc="8764aa07" md5="8ef990e12c1dad23b5562e30a486f7f6" sha1="2e8ab7aadd6950f3a6c2d1e9de110219ea6304f4" in_zeros="2" out_zeros="1" trimmed_crc="c15ce455" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="9423" omitted_pregap="150" duration="02:05:48" size="22162896" crc="2784e3be" md5="f7d2159eb0861d5611e5c5a652eeff59" sha1="545bb1e99d7184d1929d857dd05f212b9111db1f" in_zeros="7252" out_zeros="1" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 5).ogg" size="3116308" crc="f499bada" md5="c5e9db7cecc6fa4a28764962bb88b605" sha1="8802a00c3a56bb5104fc792d8336eb396da45884">
-			<source frames="7806" pregap="150" duration="01:44:06" size="18359712" crc="6e56e373" md5="b46a858bf377f6f057a968e55645b44c" sha1="3dd8e04118de464e698e7ee5076a4aff45f43b27" in_zeros="2" out_zeros="0" trimmed_crc="cfe02a35" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="7656" omitted_pregap="150" duration="01:42:06" size="18006912" crc="91c5261a" md5="1d536b15b42df17ce86a55d7b5eec6ea" sha1="46715c5484b84f074fe738ae1cba6c3c18b57581" in_zeros="7228" out_zeros="0" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 6).ogg" size="6616445" crc="7d581bda" md5="0cfad218d15ade76377e24657431d305" sha1="ca445ce142ebb673a8d9ddc032f9e81055e12fc4">
-			<source frames="17376" pregap="150" duration="03:51:51" size="40868352" crc="b021fe84" md5="f57f5a4fa84f3d3f088c91e1492116d9" sha1="c0921b0864126e12eda839e477599376e44ac574" in_zeros="0" out_zeros="1" trimmed_crc="fe0cd65c" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="17226" omitted_pregap="150" duration="03:49:51" size="40515552" crc="b4175580" md5="e319d9879ae68ed55d955f9a40b0e15e" sha1="cb5c302f8d9c435d4c3b5e275230c5c46afdf180" in_zeros="7260" out_zeros="1" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 7).ogg" size="3308147" crc="63c408a5" md5="a6fa1bf13032c8640020c43415d7a908" sha1="9b6ddc1fff8cd122e8197b811a683ee332e2834b">
-			<source frames="9185" pregap="150" duration="02:02:35" size="21603120" crc="03119c25" md5="a1d02cd4b317e4511a532c002cee98cd" sha1="020707d1f7f5446732a740ee0598b5754db6c538" in_zeros="2" out_zeros="1" trimmed_crc="720fbae4" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="9035" omitted_pregap="150" duration="02:00:35" size="21250320" crc="924bb640" md5="dd72426467f72207dee3540f9576605b" sha1="84629169cb24f875d9094461916c80e94fe1b5a6" in_zeros="7232" out_zeros="1" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 8).ogg" size="883843" crc="763ee718" md5="a0eb6ce5f74de50dc5e8532a8c2a00c9" sha1="49f1ef8f391593f6aba293bb199088d5deccde5e">
-			<source frames="2518" pregap="150" duration="00:33:43" size="5922336" crc="f65ee156" md5="5f0b35d801005181431facb704f758ef" sha1="420103a6445f02f73de48a971f0cc9e7ce0ca4c4" in_zeros="0" out_zeros="1" trimmed_crc="e8ad7df3" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="2368" omitted_pregap="150" duration="00:31:43" size="5569536" crc="acc2ce11" md5="e8f7b0e1c3bd41ece48b2510ac26f6a0" sha1="bee6d66f2a0d08bfb5eb60ebdc6a0da9a42bd426" in_zeros="7260" out_zeros="1" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 9).ogg" size="3009316" crc="27043313" md5="ba19ef1a4e5edf8f29bd8a58f28d0fc3" sha1="aa8fc0a57d73736f25630fffec88630aa66d8fcf">
-			<source frames="6701" pregap="150" duration="01:29:26" size="15760752" crc="48655cea" md5="413a5aebffb97dcc20c15211f79d50a1" sha1="11b46fc93655661de1763bde68e1e88f01f289e0" in_zeros="0" out_zeros="0" trimmed_crc="48655cea" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="6551" omitted_pregap="150" duration="01:27:26" size="15407952" crc="27075613" md5="c2f8884c613c9ff488968f85b9e50903" sha1="6557783c4496f185285a86fcaf8f8a74ad12e515" in_zeros="7232" out_zeros="0" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 10).ogg" size="2874113" crc="7a41c3c1" md5="372735d62e3b7a740917a26927465064" sha1="e24a4a9d9d53f681620941b39b01836b3b9897f2">
-			<source frames="6216" pregap="150" duration="01:22:66" size="14620032" crc="215c2aa2" md5="ab9df935a4fe53e2de72008e94416dea" sha1="019c46a8d2b98ef7e2748de8178685a99fd15f97" in_zeros="0" out_zeros="1" trimmed_crc="e7b46712" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="6066" omitted_pregap="150" duration="01:20:66" size="14267232" crc="81dc5b22" md5="c5336cdbdd9a00a4e3a43d1bbbcf096c" sha1="ce57fe5fbd1be5cbdc342d52b3e0e55a4191a971" in_zeros="7272" out_zeros="1" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 11).ogg" size="5876285" crc="b41cc523" md5="7e09aafba84faf4c64e251104781cf05" sha1="78c4b9878ed5a884ab98da312a91ac9fe37ddb08">
-			<source frames="14992" pregap="150" duration="03:19:67" size="35261184" crc="f435b00d" md5="6bc68845f256744bc9afa82b2d0c2bf5" sha1="817aee06629a8c81534d617297d9d1687e977f15" in_zeros="0" out_zeros="1" trimmed_crc="ee6f2c30" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="14842" omitted_pregap="150" duration="03:17:67" size="34908384" crc="3de591c7" md5="78f6f1ad4131ce9df947cd26d8b4b09e" sha1="ca1b7e2e3a4a67d0ebb6d2be28b4f6e7df4a7bed" in_zeros="7236" out_zeros="1" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 12).ogg" size="689048" crc="671aa132" md5="97dafd14d9b8d43a5ff8f96ce5ae0588" sha1="5ddfd4213c89f069f354e2f7c218434696c70ede">
-			<source frames="1842" pregap="150" duration="00:24:42" size="4332384" crc="40a5ec85" md5="bdb51bb2da319b5d1171ecc1351c0d81" sha1="1afb824e06138099aa80694048cecadcf5f8fdbf" in_zeros="0" out_zeros="1" trimmed_crc="758d93cc" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="1692" omitted_pregap="150" duration="00:22:42" size="3979584" crc="2cffd531" md5="c0900bcde117049ae57eea2ace2b89d2" sha1="48438ef30d9d708736856f0427e43aa2ac9feb23" in_zeros="7244" out_zeros="1" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 13).ogg" size="239844" crc="7db46358" md5="02f74fbc389903e065e4ded759070059" sha1="4ff1ac5ae06422191b8596d52cd3be649f133060">
-			<source frames="797" pregap="150" duration="00:10:47" size="1874544" crc="60910467" md5="bf6f78292f0d001ae1ca09915b93b034" sha1="d2e426e6932c5bda666ad70d3439c8143526dd2f" in_zeros="0" out_zeros="1" trimmed_crc="2ee0c2b9" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="647" omitted_pregap="150" duration="00:08:47" size="1521744" crc="664a099a" md5="875c92004b62baa37908ed2c8fae9e2e" sha1="50bfc54fcf1e5c104c482a582e69d7b2c6628471" in_zeros="7252" out_zeros="1" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 14).ogg" size="179466" crc="866726dc" md5="cab3ac3af64723a9dc8eeacf5c4f51d3" sha1="54b670b7182806eead38dd6c8d732cc0bd83a892">
-			<source frames="638" pregap="150" duration="00:08:38" size="1500576" crc="5e935b28" md5="66e9a58df5d1fd1e0ba7ad33ef5772ca" sha1="6b775fb11da71b5a8067c0cf9509d18a99794b0f" in_zeros="0" out_zeros="0" trimmed_crc="5e935b28" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="488" omitted_pregap="150" duration="00:06:38" size="1147776" crc="36ad9147" md5="9722bdf80e50e82167c46d8dde028a00" sha1="91ecf443a51f802b29cb6bd014dc36f6428ef560" in_zeros="7240" out_zeros="0" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 15).ogg" size="4586595" crc="a92ef9d1" md5="6df596ce4032744ed04867f16e4ca312" sha1="a573a3760a0cdff94e5094ca34be0247d50deac0">
-			<source frames="12858" pregap="150" duration="02:51:33" size="30242016" crc="5665a48b" md5="4fadc418da7341394b668a37e3f428ee" sha1="0390f7bffb37e138f2b0c4678fc8ed7403ee5a76" in_zeros="0" out_zeros="1" trimmed_crc="d90ad813" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="12708" omitted_pregap="150" duration="02:49:33" size="29889216" crc="ad6b4034" md5="190c4289dcda520558d44fc870961080" sha1="388591d3e3d8fdf7c2737b4aa2c4fa3b4816c1e6" in_zeros="7252" out_zeros="1" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 16).ogg" size="2686910" crc="28bcecfe" md5="d7a1270f8b4ff2bbeb07bddc33aac786" sha1="e1e5869681ea12b20a02d741843ad93790530a9d">
-			<source frames="7404" pregap="150" duration="01:38:54" size="17414208" crc="f1c5e17e" md5="0455060525448efe73556b542de4ccf0" sha1="2aba4a5c823a8904de3cc90b5700c753b8b8be17" in_zeros="0" out_zeros="1" trimmed_crc="1e694cf7" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="7254" omitted_pregap="150" duration="01:36:54" size="17061408" crc="9a91d5da" md5="8222b495ea2a9c72a17df1ec16e86245" sha1="ace9f08889d7efda246b70180065f56bc577d1f1" in_zeros="7256" out_zeros="1" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt) (Track 17).ogg" size="6031554" crc="2074adf6" md5="fef4c069b6b2b2311cd5655751efda68" sha1="a42673480f8a0c7234ab88b3f8d5719e8b14a9ae">
-			<source frames="16137" pregap="150" duration="03:35:12" size="37954224" crc="e8743b90" md5="dc46405566ffbede6f6f54d0ac07a696" sha1="e760670e01a69ce7d7099b6f83a014725d82fa79" in_zeros="0" out_zeros="1" trimmed_crc="c385d361" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="15987" omitted_pregap="150" duration="03:33:12" size="37601424" crc="4d46fd3f" md5="9485c9bee8ed89269674950ed0cb1e6d" sha1="dc04726f7fcb300a8f4b8ad39ce1c79b60d0b40b" in_zeros="7232" out_zeros="1" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark + Jack in the Dark (Europe) (En,Fr,De,Es,It) (Rev 1) (Alt).cue" size="2800" crc="a88ca1ef" md5="db04bfef09795c238a9b5750ec9756d0" sha1="55b3f36d7156844b7612598fc13837cc9346f3f1"/>
 		<rom name="INDARK/ADLIBM.COM" size="3534" crc="9523a572" md5="990132a0d6fc0404aeff05816c1dea07" sha1="04010db378f266c17f1fff0e675d8ccbd2bd8596" date="1992-08-25 12:31:50"/>
@@ -527,193 +527,193 @@
 		<year>1993</year>
 		<developer>Infogrames</developer>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 1).bin" size="18745440" crc="52cb3e96" md5="e09da74dea869e9ea202a70f8700d259" sha1="a77fb21b4c928074103945b7466d8196b96f2d8f">
-			<source frames="7970" pregap="0" duration="01:46:20" size="18745440" crc="52cb3e96" md5="e09da74dea869e9ea202a70f8700d259" sha1="a77fb21b4c928074103945b7466d8196b96f2d8f"/>
+			<source type="MODE1_RAW" frames="7970" duration="01:46:20"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 2).ogg" size="2013956" crc="dee5d357" md5="a43ea54d9de01204902d27912e61ac87" sha1="c048e263a12c5313399c64c4c0f50319bc259dfd">
-			<source frames="4984" pregap="150" duration="01:06:34" size="11722368" crc="0238348c" md5="ca142156660185d1bb6f9f7b520a9e14" sha1="89eaa300d736c56bef07b029e2100e4f041bfd04" in_zeros="354080" out_zeros="4549" trimmed_crc="0b419457" quality="8"/>
+			<source type="AUDIO" frames="4834" omitted_pregap="150" duration="01:04:34" size="11369568" crc="29c4f98c" md5="bb56843b22b44a10a324167c31078cd7" sha1="66503adde4db57b5b097c00b10b45a60860a5ee3" in_zeros="1280" out_zeros="4549" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 3).ogg" size="3442824" crc="5f6882c8" md5="b58ef44d6b4bdad280c6d770ca9cb623" sha1="a429b02c6a6486689c81ce4af511377fede7cfef">
-			<source frames="8695" pregap="150" duration="01:55:70" size="20450640" crc="7ab19bda" md5="2ba1a236bb8398402d04316f3c1b8257" sha1="a31b7f97fdd65b659f75bac1775dde44d06e5eb2" in_zeros="1280" out_zeros="5141" trimmed_crc="15c48e6c" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="8545" omitted_pregap="150" duration="01:53:70" size="20097840" crc="ebed092f" md5="d50985a98343672d2434634edb3390ea" sha1="9a78ff5d51a55c3de6fab7e59a1c331c4c549750" in_zeros="1280" out_zeros="5141" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 4).ogg" size="3154617" crc="b7745cfc" md5="b10c19709c4f05e4d8769c943734f9ff" sha1="39f1f0d31434d83cb8c143073aaeb2769c052d2d">
-			<source frames="7899" pregap="150" duration="01:45:24" size="18578448" crc="22acc702" md5="8bea1bbfbf32856391ac0c2e8615ff35" sha1="8160ff6676107f2617b3d35598279786e0a587cf" in_zeros="1280" out_zeros="3709" trimmed_crc="1f48e1c2" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="7749" omitted_pregap="150" duration="01:43:24" size="18225648" crc="4ebd7022" md5="f512c5ce3d8ad9b97852914d821203de" sha1="6abceb08409f9a313154fcd2095e4e6869656c88" in_zeros="1300" out_zeros="3709" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 5).ogg" size="2895138" crc="efb2eefb" md5="5a48186db9726a0cf4cd561d66717b67" sha1="bb4a79b6011aca3ce836bca0a694f7bd21238ee9">
-			<source frames="7555" pregap="150" duration="01:40:55" size="17769360" crc="98592e06" md5="bb5265ca685423376f660ffe8154a2f4" sha1="3c24632e1bee681ea440f0ae19b013210239c502" in_zeros="1300" out_zeros="5273" trimmed_crc="ba35fcda" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="7405" omitted_pregap="150" duration="01:38:55" size="17416560" crc="f8ece08a" md5="41fcd34c9fac99b6f899f692475c84b0" sha1="c4cd785ab0503de841c93fd8dce9685808dc0438" in_zeros="1304" out_zeros="5273" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 6).ogg" size="1988875" crc="76867b1d" md5="7dbedcd177cbeabbef4b4a1e6badfe20" sha1="f63ff962569710b0b050db68fb1a4d7d60cf95de">
-			<source frames="5783" pregap="150" duration="01:17:08" size="13601616" crc="816f1475" md5="68c34c2f4dac9cdc32194e8f0240e0c3" sha1="4bb581d427e573a7a6b64140188b703ed4c03419" in_zeros="1304" out_zeros="5137" trimmed_crc="271da53a" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="5633" omitted_pregap="150" duration="01:15:08" size="13248816" crc="38732471" md5="c6ed15ee5ca7fb2eebe4ea5ab8180e5c" sha1="b1a8740e74fdc53c9b536ae44418e6314815c546" in_zeros="1280" out_zeros="5137" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 7).ogg" size="2155744" crc="35061534" md5="19cafd07cdf1b9f9ca2c4af45fe6f1d2" sha1="49b4a894ba851bf02d944b864b90afabad230a09">
-			<source frames="5352" pregap="150" duration="01:11:27" size="12587904" crc="4cf14b10" md5="21350fbde074906e06ac0f04f38e6e29" sha1="3857be97637fd288ee3a4aa73f52a2b6b154574d" in_zeros="1280" out_zeros="4553" trimmed_crc="d9129132" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="5202" omitted_pregap="150" duration="01:09:27" size="12235104" crc="6ff5143d" md5="3b649095f30d336bc52b25bd92ea4322" sha1="3346e3f7fc6a0d44558343f946db0ff558306902" in_zeros="1280" out_zeros="4553" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 8).ogg" size="2820663" crc="1b7dbd6f" md5="3c7dcc86f0de8e02bc9de971322163f1" sha1="785006f7bdd0e4391484ab07c840b1ab8706e9ba">
-			<source frames="6642" pregap="150" duration="01:28:42" size="15621984" crc="3441e39e" md5="8e0661d6bb71125f3782a30ae736698e" sha1="2894a85fb2da95ad8e6fc8d293e5a3e6f2329647" in_zeros="1280" out_zeros="5685" trimmed_crc="12672242" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="6492" omitted_pregap="150" duration="01:26:42" size="15269184" crc="8588ce96" md5="1d3083eaf3e361719d72f224cda983c3" sha1="eb4a4fbdd84a3214a7cfce445d26eeae903bcf5a" in_zeros="1288" out_zeros="5685" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 9).ogg" size="3614178" crc="bd7bc3da" md5="2301ba1e8faa46c2b0048ea6579086a0" sha1="8532268cc6f6c2cd4e1df0cd5de29a718ab45272">
-			<source frames="9059" pregap="150" duration="02:00:59" size="21306768" crc="98b4eae7" md5="7b217ef92d9a6893eb0b8f3bf4e9af68" sha1="077f879189e2f7869d015f67da6139d1c350f01b" in_zeros="1288" out_zeros="3533" trimmed_crc="ce7d5a89" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="8909" omitted_pregap="150" duration="01:58:59" size="20953968" crc="318aae67" md5="0e7336a1d6cf906006ec072b974d4e48" sha1="ff67e2bacfc764aab447d6894a7af97fd41d169f" in_zeros="1280" out_zeros="3533" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 10).ogg" size="1039269" crc="2a8f3cf8" md5="41b44b68b811ad0d6ca974c47d39ef62" sha1="6e9a51dcb8b575a542954e917c7116f0c1530647">
-			<source frames="2446" pregap="150" duration="00:32:46" size="5752992" crc="158725eb" md5="7a2dea82370f766e75e96209ba89bf09" sha1="89477d83103beb67e5f2a0d769ae6bdc7250f548" in_zeros="1280" out_zeros="5309" trimmed_crc="685ef58f" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="2296" omitted_pregap="150" duration="00:30:46" size="5400192" crc="a0f52ff0" md5="ef715a4cf107b907579f7316be0c62c7" sha1="351bed069b80673430f2eea5fd82b8056dfc7538" in_zeros="1284" out_zeros="5309" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 11).ogg" size="421197" crc="dde667f2" md5="fe6f7cdd95bf1582265d9af85f999980" sha1="411b4635c85f7566b2c02ee9acd063bf128d57cd">
-			<source frames="1384" pregap="150" duration="00:18:34" size="3255168" crc="92dc381e" md5="2cd482f6fab53264749b325869802cd7" sha1="ff56f1e866b84d4784ff7be9eff7f3643f5d8b3b" in_zeros="1284" out_zeros="3477" trimmed_crc="48c6bf71" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="1234" omitted_pregap="150" duration="00:16:34" size="2902368" crc="e3a78622" md5="4b6d8289b56c789c617c680810550e0a" sha1="efcdfc54b3b3c3b3081d8f408f343e9326e78710" in_zeros="1292" out_zeros="3477" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 12).ogg" size="578459" crc="fbc57787" md5="b908f4658e12963b4d5446b28f312dc2" sha1="8232b4677fab08aa189e5b4f6b47f3a81832eeba">
-			<source frames="1760" pregap="150" duration="00:23:35" size="4139520" crc="4248bb93" md5="9086b0f20fa6c97cfc402cf423d91a3a" sha1="84abad9c0805e50f053e6362bc6c512656bf1689" in_zeros="1292" out_zeros="5617" trimmed_crc="26155479" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="1610" omitted_pregap="150" duration="00:21:35" size="3786720" crc="1ed8d7b9" md5="7e435bd6426c17f50c8bfe3b0fc1e30a" sha1="275ad1ff0b5ec1915d5dfc38ee52bc7fd78c3dfa" in_zeros="1304" out_zeros="5617" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 13).ogg" size="3079928" crc="defbcf77" md5="40cea407bb4e450aa657c05bbf7d4c13" sha1="4d331a2f53b1bf6c60b1061606f555510fd9ceb2">
-			<source frames="7985" pregap="150" duration="01:46:35" size="18780720" crc="2c03f316" md5="b1ff2868c408e7d9ac8a13c44d50f62b" sha1="c627a6cdc28cb5f572c5b5d5bb167492a6635b26" in_zeros="1304" out_zeros="3928" trimmed_crc="4c8c93f5" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="7835" omitted_pregap="150" duration="01:44:35" size="18427920" crc="0a8d0be3" md5="7487010c72f1f811f09f71e0505c37bb" sha1="d5590152e07ff2d727c08bc60ed1605faedcf7e3" in_zeros="1308" out_zeros="3928" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 14).ogg" size="1269887" crc="18ad0a30" md5="aa63bd09bc850867d3f84374cadf85a7" sha1="145ee33e14a3dfa9904e8c2d2e6f46d07c8769a0">
-			<source frames="3048" pregap="150" duration="00:40:48" size="7168896" crc="57fc7ef7" md5="d06e5c414207dfef97af0b9ca42d8455" sha1="75db26d04d4d9cd27ceb17cad073861004bdf9bf" in_zeros="1308" out_zeros="5201" trimmed_crc="9f9a429f" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="2898" omitted_pregap="150" duration="00:38:48" size="6816096" crc="a77c9ee3" md5="a19898d5d2633aa33df1bfbd5d4014b0" sha1="381b6d64c2cdda47a38ca70bd7002d4d8b4bbe23" in_zeros="1296" out_zeros="5201" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 15).ogg" size="662279" crc="5912e555" md5="58d8e1f8bafd68c61bcc26982aa6aade" sha1="45d070e04ac2ff41446bd47e4eb46a048ab45d34">
-			<source frames="1786" pregap="150" duration="00:23:61" size="4200672" crc="bd684f5b" md5="e25a6c5c4a4f756597f4ef8a3480368f" sha1="fdd672555b94b270c748bed61c3b1887b7bec78e" in_zeros="1296" out_zeros="5385" trimmed_crc="5878a969" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="1636" omitted_pregap="150" duration="00:21:61" size="3847872" crc="6f67c054" md5="fbd73656357a68718a367b31a8bb7117" sha1="11a020be8f264bec291b4421efd417fd0b8db232" in_zeros="1288" out_zeros="5385" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 16).ogg" size="1906436" crc="8c0285f7" md5="f6a32e1e465a7bdf04323b0b26a0dab2" sha1="a5ce605cfab8622f500fc33cb2de1b76ab8d143d">
-			<source frames="5900" pregap="150" duration="01:18:50" size="13876800" crc="aca2d112" md5="a95b52feea47744e79bb05a095f2f67a" sha1="3ba33f65ae3087f3d4dd55dc0419053e9f00a7d6" in_zeros="1288" out_zeros="5585" trimmed_crc="aadec802" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="5750" omitted_pregap="150" duration="01:16:50" size="13524000" crc="cce121bf" md5="11e5e713667b85381b75e48df2df430d" sha1="a0440f5ea9ce30aca9afda92cbb49d0c078980f8" in_zeros="1300" out_zeros="5585" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 17).ogg" size="3017376" crc="2c6533ff" md5="0283a526dceb0ed70131c456ba8171d4" sha1="0e6176fbd56d17bd15342df899758f279606df7c">
-			<source frames="8072" pregap="150" duration="01:47:47" size="18985344" crc="dc03f403" md5="be6d7e123836e5dcc44ff1939bb920dd" sha1="4ec9ee95ac480bd6f70fe838914265bd69642499" in_zeros="1300" out_zeros="4881" trimmed_crc="1557507c" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="7922" omitted_pregap="150" duration="01:45:47" size="18632544" crc="ef7eb645" md5="512af8a892cf7b380cef03c35ccacc7b" sha1="974b52ae742187bd541db4fa58c3a1728772e4fa" in_zeros="1284" out_zeros="4881" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 18).ogg" size="3194313" crc="7c3a28bc" md5="568fec8d94394ac06847a3a1eea603ef" sha1="eb85b818c211d005a9e931890e9b083771297075">
-			<source frames="8137" pregap="150" duration="01:48:37" size="19138224" crc="f276dd7d" md5="46a6109125332f0519f387c504da7fd0" sha1="86b1a746f94d5683a6f861a3fbc6e4a9fb625e43" in_zeros="1284" out_zeros="4941" trimmed_crc="21303289" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="7987" omitted_pregap="150" duration="01:46:37" size="18785424" crc="1e49c266" md5="5b05483a4d172c0de8937a2edb15e371" sha1="6c79bce2fe424dfa81e9b20132530975e6594631" in_zeros="1304" out_zeros="4941" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 19).ogg" size="2099465" crc="20c78159" md5="8017abe28104da8bbbaa0f77eb0679f0" sha1="160c6853247748b6b959d65f5b54ec686c64623b">
-			<source frames="6057" pregap="150" duration="01:20:57" size="14246064" crc="e757a0c3" md5="46b7c45bb3787085aebec79666e2866a" sha1="5617b2756349dbfa45a1034de4b5727e499d9287" in_zeros="1304" out_zeros="5745" trimmed_crc="57cf6268" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="5907" omitted_pregap="150" duration="01:18:57" size="13893264" crc="ef7034e8" md5="18653906830b4ba66b7a885353f12ef8" sha1="066f6e10d8a6e223360fe1e5de754e45522fcded" in_zeros="1280" out_zeros="5745" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 20).ogg" size="2324572" crc="e87829c3" md5="1b7936d9fe4aca176fd96f59245020a0" sha1="747e459400ae7dfd00439ef1bec72ba24a961ca5">
-			<source frames="6089" pregap="150" duration="01:21:14" size="14321328" crc="3db4b623" md5="6d0bdde89ead35ead01ec53d2925753a" sha1="dc2d58cfef2323fdd2e984aab53ae51a135c7233" in_zeros="1280" out_zeros="4761" trimmed_crc="96427442" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="5939" omitted_pregap="150" duration="01:19:14" size="13968528" crc="10964251" md5="6a4231977bee2dc081f5cfe0d9f7cdfb" sha1="18a955a999595a85783ca6bcc742bb94975cda08" in_zeros="1280" out_zeros="4761" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 21).ogg" size="3105469" crc="aa433fa4" md5="f83638d4327ec9fe74e9eef89b356121" sha1="e1a12db77ec1ee10d11186cd8c6e41af806f38e2">
-			<source frames="7976" pregap="150" duration="01:46:26" size="18759552" crc="d527655a" md5="0a509737085d9b592fad9aac354d2a5e" sha1="26190669fcb39b9ff5b545bb8ff7a7bbec62044d" in_zeros="1280" out_zeros="5241" trimmed_crc="88f5e62b" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="7826" omitted_pregap="150" duration="01:44:26" size="18406752" crc="a2243ddc" md5="938a64a3740b70d4d390f9508cb70dd9" sha1="415f861563d9e830eeb7618916ad2b56b0a789fa" in_zeros="1276" out_zeros="5241" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 22).ogg" size="5151227" crc="f46665a2" md5="21d66862a4a89e0a378abe7ba35833de" sha1="0cdd50ee028a1f92816cf163537837f4656ae0de">
-			<source frames="13498" pregap="150" duration="02:59:73" size="31747296" crc="e6a2e672" md5="825607a9365dccb3b0c1e67b98312183" sha1="ebf6c935451645605c07fa9dfd456ef0cf8396db" in_zeros="1276" out_zeros="4861" trimmed_crc="78b09663" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="13348" omitted_pregap="150" duration="02:57:73" size="31394496" crc="2dad25a7" md5="bdc3862cdd6c1c3b71666142eaba1352" sha1="dcbf9bb229a7b605206889a990728e530c2dc1ce" in_zeros="1300" out_zeros="4861" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 23).ogg" size="142396" crc="940efa50" md5="3aaa9e63ff92775df3bf2efc89a544b8" sha1="6fc705a621b9764fe3466c5ba6b01b0b15c99e03">
-			<source frames="494" pregap="150" duration="00:06:44" size="1161888" crc="0e5fb0d3" md5="b631a62dfe1049ad7568b7c34560f476" sha1="6c26717064faf5b126d0b52eedba6df5001598ba" in_zeros="1300" out_zeros="5364" trimmed_crc="55be4387" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="344" omitted_pregap="150" duration="00:04:44" size="809088" crc="b3ce3d45" md5="6d40c236ecfafcdd3f8d7a71423955fd" sha1="0ff40d0174f28c06efa2643a99e9d05d225d1926" in_zeros="1260" out_zeros="5364" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 24).ogg" size="1290976" crc="d34acb52" md5="c9d2d1f34048e3f38ded00c10d1e6205" sha1="8600e0f3ff3cb5315e97bfc9312958bd8f3db6f5">
-			<source frames="3405" pregap="150" duration="00:45:30" size="8008560" crc="a77e492f" md5="a79c50a2f7da209e7c075a3d5f4b4b7e" sha1="639a4ed45062d62c6119ddfc20be16345e2fa77a" in_zeros="1260" out_zeros="3680" trimmed_crc="5961695e" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="3255" omitted_pregap="150" duration="00:43:30" size="7655760" crc="f5386397" md5="42980a7ac31ca9325c72ae6977cd4605" sha1="071e2743a551da30a16bcb336defd8af522eaf2a" in_zeros="1280" out_zeros="3680" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 25).ogg" size="1314875" crc="b3cf3d05" md5="eaac75981d006cd6cd2304ba0f8dfd02" sha1="58987e0239499dabba992d4407b351456219e21a">
-			<source frames="3492" pregap="150" duration="00:46:42" size="8213184" crc="c497f2f9" md5="612d9ee6abac1686ccce391d3766927b" sha1="cea9feb2c43256ae91be77b101b660d216e0d0aa" in_zeros="1280" out_zeros="3497" trimmed_crc="1ab805bc" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="3342" omitted_pregap="150" duration="00:44:42" size="7860384" crc="a31ee55f" md5="a7b099d13e93696be38208f4fe8abc3d" sha1="2c534196759909484a1502561e4354b5b994b521" in_zeros="1288" out_zeros="3497" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 26).ogg" size="812269" crc="073019cd" md5="30bf52c9bfac66f85bc10c1fd8fe40cd" sha1="942b0204b54209cd1f17f63365f8285bcf678cfd">
-			<source frames="2225" pregap="150" duration="00:29:50" size="5233200" crc="6b52c961" md5="543a6483298fe26df449de595dadc06a" sha1="f75f1b3239de90900f99baba92922de0c19e28c1" in_zeros="1288" out_zeros="4320" trimmed_crc="c13b0b85" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="2075" omitted_pregap="150" duration="00:27:50" size="4880400" crc="cada871d" md5="f66b50df1e28eda036b1a4100a934565" sha1="d22088196313b04e7699338841966d3f2ee93f42" in_zeros="1280" out_zeros="4320" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 27).ogg" size="1384049" crc="7347c955" md5="2eb7d3f48a8df4a30ad604c0bc1c9ca5" sha1="d261a4df7cdd6923c8c77b8987272f44352a1e63">
-			<source frames="4075" pregap="150" duration="00:54:25" size="9584400" crc="6db3b93d" md5="d5b475f6ac47a2ac24fcb54d713341d2" sha1="d4dbe3d0df636fddf3398c7bf3f0e096205dacdc" in_zeros="1280" out_zeros="4296" trimmed_crc="85eec22e" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="3925" omitted_pregap="150" duration="00:52:25" size="9231600" crc="d9f08ac7" md5="73aaf7e738f170a2229e8d496398f269" sha1="b5d61178678111a488e3cd51c1e77dc1730540a6" in_zeros="1304" out_zeros="4296" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 28).ogg" size="365941" crc="a53df3e8" md5="10df218252e1d165dfa9f0ba81463a66" sha1="8ed6b23e5ebbe14da5d4441ae2a0e5b686ada5e6">
-			<source frames="1129" pregap="150" duration="00:15:04" size="2655408" crc="c927f479" md5="86cb4faed2e635bf2f86854306fa75cf" sha1="61c35c5afee34a47206c184d693a74374256503c" in_zeros="1304" out_zeros="4925" trimmed_crc="89f7cb4e" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="979" omitted_pregap="150" duration="00:13:04" size="2302608" crc="cd679f3c" md5="fabeb8a74219ec483462e6414622fed9" sha1="10f45a477d2b50a03c497e1a55a2cfa97fbe636c" in_zeros="1284" out_zeros="4925" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 29).ogg" size="905401" crc="df225977" md5="284cf54d20d3a629859295b18a4bf08a" sha1="4c15b84eb30971569558510b5df215b31b9d241d">
-			<source frames="2279" pregap="150" duration="00:30:29" size="5360208" crc="4a14931a" md5="a0adfc4e21ddaaf59bd27c4a990e3c0b" sha1="817d700512a1f871e06f30b04ce53e315ea459bd" in_zeros="1284" out_zeros="5732" trimmed_crc="6332c117" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="2129" omitted_pregap="150" duration="00:28:29" size="5007408" crc="48cae9fb" md5="28bb0fc6e28e31e3cb6f798325d1c757" sha1="ff06dc88c6d212a77295a0a2102e3c397a4391f1" in_zeros="1276" out_zeros="5732" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 30).ogg" size="116362" crc="c0533236" md5="790cc1a986111c2f6fb957f07f6aaf84" sha1="7b50c681999a35e51054f773d498d9f31978a5c9">
-			<source frames="492" pregap="150" duration="00:06:42" size="1157184" crc="b48d94d4" md5="96967156c006d601e1affb91b38d660d" sha1="5340e4715cffe08fb88c16e1ccea3eb96b4c84d6" in_zeros="1276" out_zeros="3872" trimmed_crc="71999de4" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="342" omitted_pregap="150" duration="00:04:42" size="804384" crc="0937670f" md5="5e77bf6ceb6c3e9e11527339f6c9df6b" sha1="7847b4d331fd638d817420453be5edc764d6251b" in_zeros="1284" out_zeros="3872" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 31).ogg" size="1289925" crc="677aeb7e" md5="2bfbb8fd972d19a8a763e998d54ab464" sha1="42a88ba7951d2b81b6533c703633f3f1093951ed">
-			<source frames="3486" pregap="150" duration="00:46:36" size="8199072" crc="c37aca2c" md5="3677aca8326d787858362ab0f514e593" sha1="74eb14f461243ae8df0489ea17fe4b78af6142c6" in_zeros="3182" out_zeros="5369" trimmed_crc="af081adc" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="3336" omitted_pregap="150" duration="00:44:36" size="7846272" crc="b95190d1" md5="ff3ba79ebfa9d42c724f86023b7963b0" sha1="2e2f18ff3b147a24ed2a1c036b5894ebc7fb3a42" in_zeros="1304" out_zeros="5369" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 32).ogg" size="1043971" crc="bf471cc8" md5="6b20f3bc0c0824ecad7cb2fff5b497a9" sha1="cbf38985f8bde36fc3bd23f6af6ae5c19d9b161f">
-			<source frames="2967" pregap="150" duration="00:39:42" size="6978384" crc="eb8a8cde" md5="35fa2e184921074a110e7576e9347368" sha1="77ce9e2fec4c9a91e96c28a8db3000a1ef1b5f77" in_zeros="1304" out_zeros="4305" trimmed_crc="857ffae3" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="2817" omitted_pregap="150" duration="00:37:42" size="6625584" crc="9579c001" md5="31e7c92a2b66f255ab0f52f5e67ddbf7" sha1="2bd574a20f118f711ad9389d191203a55064e9fc" in_zeros="1280" out_zeros="4305" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 33).ogg" size="272684" crc="7c1eefb3" md5="fd24b35d02b7bb33e9a173e65153d18d" sha1="daca71dd9dc2c923ba3530bf9c512767821e19dc">
-			<source frames="967" pregap="150" duration="00:12:67" size="2274384" crc="b86521ec" md5="48786858a8dc72e5c889fd55b34ab183" sha1="1a3eccf0bf15f47e2c2b1e8a76b610112804a376" in_zeros="1280" out_zeros="3985" trimmed_crc="42190d64" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="817" omitted_pregap="150" duration="00:10:67" size="1921584" crc="276b6857" md5="f5a9b7263f551dd3dd9faabdb19748fe" sha1="63e5c7bfbdce9ae5107503901caaf29fff4d8e79" in_zeros="1252" out_zeros="3985" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 34).ogg" size="696997" crc="dea48818" md5="71e2bbc72d6c20be651b5b83a02e06fe" sha1="bf30e4f7f7e816a3de5d456074bfa631618452cb">
-			<source frames="2115" pregap="150" duration="00:28:15" size="4974480" crc="4fd309ab" md5="b7158c4a53fa5bd12a8d981e1043ed16" sha1="085c70c8cd0602428dd909953026224a2e3144fb" in_zeros="1252" out_zeros="4377" trimmed_crc="4e99f39d" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="1965" omitted_pregap="150" duration="00:26:15" size="4621680" crc="cf57ce39" md5="2589cf5b73772bdc503e5cdc1ad63cfa" sha1="f12f6b05f5ccd1ae21743857bd4b224617762695" in_zeros="1304" out_zeros="4377" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 35).ogg" size="766629" crc="dba4bbbe" md5="6a66c68bd262929a080303b6a1632197" sha1="32115a0ea2ce297601a9628fd759fc0ec6f1ffc4">
-			<source frames="2255" pregap="150" duration="00:30:05" size="5303760" crc="8e367f8a" md5="01ea58321c4dd48ce9f22672a5bfe290" sha1="363986b930ba80c33c300f691e3fd325c8231dad" in_zeros="1304" out_zeros="3684" trimmed_crc="c31b0495" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="2105" omitted_pregap="150" duration="00:28:05" size="4950960" crc="c31adf00" md5="466ec5eb846c04ef9ef48d0c9402cd2d" sha1="1e07ed7a95b233d790b99add551b8106147173b8" in_zeros="1276" out_zeros="3684" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 36).ogg" size="738507" crc="11c9b1a6" md5="30b3fc29b84169e60f11a4d448cd0dad" sha1="c63c648758decf86bcb77f6828b03a5d421b9053">
-			<source frames="2252" pregap="150" duration="00:30:02" size="5296704" crc="b6a4e93e" md5="15632305c5fc693ccd1f3b553a976329" sha1="8bcb95b0d21b2c6d5508246026889e4c844af2df" in_zeros="1276" out_zeros="3829" trimmed_crc="dae41127" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="2102" omitted_pregap="150" duration="00:28:02" size="4943904" crc="efb767c8" md5="8ab8a9a7ef84c4f97ac5ec94b5a50322" sha1="a4d873ec49f41d957492beb86e6248fc9dad28e7" in_zeros="1276" out_zeros="3829" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 37).ogg" size="1082904" crc="08e978da" md5="0d521f93d53426e00fdc1ab8087f8184" sha1="48ebe1aafccd61abcdc2bd20f058b6895b0c64b8">
-			<source frames="2767" pregap="150" duration="00:36:67" size="6507984" crc="1b2e7a37" md5="b7307910c8d910e98d38c0b3afbbfad9" sha1="4402299d6b873ac6c903f298c3a4d2e2e65b1dab" in_zeros="1276" out_zeros="4680" trimmed_crc="13f5744a" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="2617" omitted_pregap="150" duration="00:34:67" size="6155184" crc="fd13a8bf" md5="db713894f0509bee80dcea0551ba5893" sha1="bad2d1cd9f68a1bf9914d5c51e78f3b3730e28eb" in_zeros="1304" out_zeros="4680" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 38).ogg" size="237104" crc="aa75e513" md5="f655a3c65e40b0b3367b251ef710534e" sha1="02f351f7a402a0fc18b81627d221a5e26a423cd0">
-			<source frames="742" pregap="150" duration="00:09:67" size="1745184" crc="b5c0058f" md5="84f188c3c287ae1d083f94c00c918a29" sha1="56ebef1720b64f9b2f27e0def26a724acf6170b5" in_zeros="1304" out_zeros="4912" trimmed_crc="ca30cd4a" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="592" omitted_pregap="150" duration="00:07:67" size="1392384" crc="551e76e5" md5="9f3ba7b7751cbb871853dad468644628" sha1="7d7a8acd75b84d5f448757ae0f6204d4f09cb844" in_zeros="1304" out_zeros="4912" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 39).ogg" size="772380" crc="05c6c769" md5="3313df9f0e45829b75179bc97121ccf4" sha1="089c0554addc7c2f2770df9860b55187f8d6eb82">
-			<source frames="2106" pregap="150" duration="00:28:06" size="4953312" crc="77d4ff64" md5="1026c51f9db73c2f214bfd73ef3651f9" sha1="27ec0235afcb57a1cb6b0031dee6952ec95d6d5f" in_zeros="1304" out_zeros="4272" trimmed_crc="512a507b" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="1956" omitted_pregap="150" duration="00:26:06" size="4600512" crc="d3485c42" md5="7f7b2a7cf4c754f9704621a3d16edf6c" sha1="eabc6efb22787e03a88dc2741a540975045f015c" in_zeros="1280" out_zeros="4272" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 40).ogg" size="316585" crc="a3e9a4e0" md5="ed05f261ba118be7cde463e2b5581e1c" sha1="6fc6a5014cad87bc8559efafff8ad069b5b015c8">
-			<source frames="906" pregap="150" duration="00:12:06" size="2130912" crc="81fdf49f" md5="3c050f05a42383affff7642567bc9770" sha1="a790a6d0e531340b9082465698b0a075043c2e60" in_zeros="1280" out_zeros="3628" trimmed_crc="927cab21" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="756" omitted_pregap="150" duration="00:10:06" size="1778112" crc="3f916e12" md5="9385f904bb6233920f2c3d5de0f51476" sha1="a9fb4249b9a7a352918bd9c04b7774309d934d58" in_zeros="1284" out_zeros="3628" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 41).ogg" size="987868" crc="1e29be77" md5="7e02a420d527f568e01225e6b4f3dd7d" sha1="b0ee68e6e522a5fb6f36782901f891eb6ee7dab1">
-			<source frames="2753" pregap="150" duration="00:36:53" size="6475056" crc="1d0d4205" md5="a64fab728859cc8bc5856b05d435d29b" sha1="488f7b825d3ff20beeaabd352d90aca29db2ced5" in_zeros="1284" out_zeros="4172" trimmed_crc="96026d61" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="2603" omitted_pregap="150" duration="00:34:53" size="6122256" crc="5a755e93" md5="4ddbf3f0cac850a1e4fad360db23002b" sha1="f07647d588cd687dba945a92658c23824e6a6d90" in_zeros="1284" out_zeros="4172" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 42).ogg" size="1020333" crc="75847f3d" md5="5b345cece5f8537a150c44560f2dbb28" sha1="fa90f57b46779772f80824613c743c94ac4f37c9">
-			<source frames="2899" pregap="150" duration="00:38:49" size="6818448" crc="9f30363d" md5="8786888318bbfb14c97bc7dab0d26248" sha1="473a9735aa8b3a2778cfe493859a46e73ed0022d" in_zeros="1284" out_zeros="5365" trimmed_crc="eabf068d" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="2749" omitted_pregap="150" duration="00:36:49" size="6465648" crc="e5fcc275" md5="1884c1a8e33a7be071894ce34b251b30" sha1="af1ac50a11ce80f51885bc8b5fd86fcd25c5a435" in_zeros="1284" out_zeros="5365" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 43).ogg" size="1185747" crc="1712f873" md5="0def1db99fc8de01c7fc6c8072897f52" sha1="7f29f5fd327be2fb89dc866a7f268063e52c8132">
-			<source frames="2874" pregap="150" duration="00:38:24" size="6759648" crc="bc5af49b" md5="15da39a2d601b6e72e3a8e63cc22cdd5" sha1="75cdc64ea7d4727863f6c41b8a56649fa9e92d66" in_zeros="1284" out_zeros="4441" trimmed_crc="669dd407" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="2724" omitted_pregap="150" duration="00:36:24" size="6406848" crc="d9d5688e" md5="31c7c8ff57cfff7c0e65e8f0228bc9c5" sha1="99a7f63dfc687e31614d1bb3006349059c730185" in_zeros="1304" out_zeros="4441" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 44).ogg" size="314258" crc="3015b145" md5="2917df1a198ad44a8142b765d3ee3471" sha1="6df968886456b6f435a4bdc9ee750f3e55b7ecef">
-			<source frames="998" pregap="150" duration="00:13:23" size="2347296" crc="dbc52cf8" md5="d461f004967222a5626e55c64f1965a0" sha1="669e9c7971bc9f4aa4be6b6db43624e5c104ecba" in_zeros="1304" out_zeros="4792" trimmed_crc="6e6c3cab" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="848" omitted_pregap="150" duration="00:11:23" size="1994496" crc="e22bd19e" md5="acaef6f6348c047e4dc7cbe3f458f9da" sha1="7f1a93abb8afaa9d4f20361a4c9f35fe4c08474e" in_zeros="1304" out_zeros="4792" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 45).ogg" size="1052621" crc="ffe9dfa9" md5="01f8efb07eac36dbf815f908252b47ae" sha1="e5001edf9e69afb14d7d4b6465c463359ed83c3b">
-			<source frames="2909" pregap="150" duration="00:38:59" size="6841968" crc="d5bc054a" md5="ea7e51c6b944a1821aacda64ac49f65e" sha1="fe8b3019750dd1a64560f4b1974607132780dd36" in_zeros="1304" out_zeros="3789" trimmed_crc="0a904517" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="2759" omitted_pregap="150" duration="00:36:59" size="6489168" crc="8ca25c3e" md5="4c6849725358a0fbff38848e5eaad3f4" sha1="4f6fa301291709fc9a17ef67d4be60a4fae3de12" in_zeros="1300" out_zeros="3789" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 46).ogg" size="623183" crc="d9962385" md5="902ca11d7bd3c7ac3a9971177950efbf" sha1="ccaafb1b9cecfdfb455ef48d1d70ed03b5e15b64">
-			<source frames="1798" pregap="150" duration="00:23:73" size="4228896" crc="e856630a" md5="6222d2f6e258ab3d0a2b87dd6728b10f" sha1="622786731a26135542501350845685d30eecc775" in_zeros="1300" out_zeros="5592" trimmed_crc="c3d5e844" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="1648" omitted_pregap="150" duration="00:21:73" size="3876096" crc="70cc1852" md5="6324e03817f040f908a70a29f301979a" sha1="6cb22c6d42e70033b7e66b75e0ba0142b51732d3" in_zeros="1304" out_zeros="5592" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 47).ogg" size="1076849" crc="97c55881" md5="3d51fafabe873dc50a870385d0da5b35" sha1="745e60506e10b88e5a34178390df39649512620a">
-			<source frames="3009" pregap="150" duration="00:40:09" size="7077168" crc="9cdfd49a" md5="e7a8b64daf60fb04df5d55fe8aa4e367" sha1="35bbb5fa565b35dbc4e3b523fb28c738d431a191" in_zeros="1304" out_zeros="4605" trimmed_crc="ef66ed52" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="2859" omitted_pregap="150" duration="00:38:09" size="6724368" crc="782b1a12" md5="016260ae2decd00365198bf5cf172057" sha1="9a21984494bc6b6f2c4c84666eb0dfbcc451317a" in_zeros="1284" out_zeros="4605" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 48).ogg" size="748676" crc="00e24521" md5="4da4ef58ffaec210e10ea85c26c113c6" sha1="ef39ae49114a6164ea5c5b049250b953d658dde9">
-			<source frames="2128" pregap="150" duration="00:28:28" size="5005056" crc="ecbb35ee" md5="cef3ef10a9a5bd44f768d02fdf2182dd" sha1="8bebc4569adf613122b77c7020e26a68b22308fc" in_zeros="1284" out_zeros="4092" trimmed_crc="e9f5f699" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="1978" omitted_pregap="150" duration="00:26:28" size="4652256" crc="5786ed5c" md5="8f3ecdd3604ba2b7bc3f738f4c876df0" sha1="f81ede272c0dda0a2f8ae20929d9410e40691e06" in_zeros="1284" out_zeros="4092" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 49).ogg" size="1102108" crc="5c23f4f4" md5="4a21411a34577bf021431ca3152e9fb6" sha1="b21d43caaf79137c75d9f2907a692895c90c97d6">
-			<source frames="3162" pregap="150" duration="00:42:12" size="7437024" crc="e1ff0dbb" md5="2cf1c41ab11f2ee37e73180b22f49e00" sha1="7b7fda99db37bae854c0597c9e42882b1645b4ee" in_zeros="1284" out_zeros="5661" trimmed_crc="d7c237b2" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="3012" omitted_pregap="150" duration="00:40:12" size="7084224" crc="3f88d2d8" md5="fb0183b5cf7fc356639b614f324b46f0" sha1="883627b32ae9433685879d7b6ae4e5d17a2cebf6" in_zeros="1284" out_zeros="5661" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 50).ogg" size="782950" crc="5f735cb7" md5="267698520ec2a033b564e297ab43755d" sha1="95e7b457297acfd68fdac4630b0a4f4108f3d213">
-			<source frames="2243" pregap="150" duration="00:29:68" size="5275536" crc="54041b0a" md5="513835280c1066e2577fbbee57444531" sha1="88287bca04c0ce07dece0525d275b2b911cd7e99" in_zeros="1284" out_zeros="3836" trimmed_crc="285cfec6" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="2093" omitted_pregap="150" duration="00:27:68" size="4922736" crc="107d0deb" md5="83945d7a34423b1bec49870c9f92c9ce" sha1="d83f4d2564d2719a8cfcf46e082acc60def9213a" in_zeros="1304" out_zeros="3836" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 51).ogg" size="1059281" crc="77abf51b" md5="731357a01ce14b5f1f9d7b1be3598c76" sha1="3ce91bb2e15ba63ae17a912a16d52374a32c857b">
-			<source frames="3197" pregap="150" duration="00:42:47" size="7519344" crc="7a40d47a" md5="fc0ea781b22914ac311b876c00c434ba" sha1="0f04a328f7d879fc8bf8eb8367d990b743c9271e" in_zeros="1304" out_zeros="4065" trimmed_crc="28b5d37f" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="3047" omitted_pregap="150" duration="00:40:47" size="7166544" crc="8f279c42" md5="35a41fbb650db465c3889274e8c42b0a" sha1="04344ce286954b3060ce6cb401b95cb785f59586" in_zeros="1280" out_zeros="4065" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 52).ogg" size="294740" crc="44ccaeac" md5="300ffb684d1d9077623b0ebf38c3b1bb" sha1="f47970d7d92f7e05e28fe113e186ae40ca04a747">
-			<source frames="977" pregap="150" duration="00:13:02" size="2297904" crc="10fa6895" md5="762c299d72470259a58d789546d9c01c" sha1="4c3ea80405fce171a8241e1298bed797b6b7a981" in_zeros="1280" out_zeros="5401" trimmed_crc="d84d9ca0" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="827" omitted_pregap="150" duration="00:11:02" size="1945104" crc="016ba800" md5="79434843faf63eff43abc0725ea5dfd7" sha1="cb4f57aa7773c4354ce03a2956c1b013387cc88d" in_zeros="1304" out_zeros="5401" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 53).ogg" size="1079533" crc="033e4f9b" md5="41131ae04606b2f21c102f076431f07b" sha1="a0b90eecddc407073eaeb81226b9c69f7231dc57">
-			<source frames="3061" pregap="150" duration="00:40:61" size="7199472" crc="fe0a1f54" md5="55dff27d0508a4c90537de9c4e7109d9" sha1="291e05b62a6eea388aa36890880ece7e8d125fb3" in_zeros="1304" out_zeros="4993" trimmed_crc="ea506239" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="2911" omitted_pregap="150" duration="00:38:61" size="6846672" crc="38cb4537" md5="4b349d032e88c80af1381d3e014fb466" sha1="5f68026be3e741cf137b4c51b7ba92451da7358e" in_zeros="1280" out_zeros="4993" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 54).ogg" size="402564" crc="d2a8742e" md5="e5d85efcb9e2c4cabb38f34c53a3e29c" sha1="8d9baebd835f4e405a8680cd960b5c2b85fb8f5f">
-			<source frames="1212" pregap="150" duration="00:16:12" size="2850624" crc="11078631" md5="a39b02edabdf206d396628a8359c5c57" sha1="42a85dd99b6dcf8fe528e8494d600c872802c0ef" in_zeros="1280" out_zeros="3820" trimmed_crc="783a0059" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="1062" omitted_pregap="150" duration="00:14:12" size="2497824" crc="059b7fd9" md5="f918614ff22f6877e83ad8a86625a5c9" sha1="ecf50582dcd6db5d72150d208561eedfae591e66" in_zeros="1284" out_zeros="3820" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 55).ogg" size="822960" crc="2e19e1ad" md5="5e5a7e71c1e4387165ab31a519b9865b" sha1="2cd1482b88702641f8996ae7d1a9aaad6f6df569">
-			<source frames="2463" pregap="150" duration="00:32:63" size="5792976" crc="cc4fd569" md5="f000b0b3a1617d7feb0c550a81e03bfe" sha1="3c2db72233412647cc477af558321a9aaff8cef8" in_zeros="1284" out_zeros="4097" trimmed_crc="20ff2998" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="2313" omitted_pregap="150" duration="00:30:63" size="5440176" crc="fdc88e43" md5="dd9609ccfd3921b71eafbb23a9fa2296" sha1="fa40627546e1d9c7e5eb13f2d349779dd20bafda" in_zeros="1280" out_zeros="4097" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 56).ogg" size="564505" crc="4f4d8fcb" md5="b0c7df72601222d0f5b178365d28317e" sha1="74d203ea590eb5f5077fb3380779ef370bde8022">
-			<source frames="1571" pregap="150" duration="00:20:71" size="3694992" crc="78c67992" md5="febe929bd5cbe0abd79cb4d9c8cffb0f" sha1="e9fc0f3944b3c722a41164b0a1ca72d2d7264aee" in_zeros="1280" out_zeros="4908" trimmed_crc="cedc4967" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="1421" omitted_pregap="150" duration="00:18:71" size="3342192" crc="9b2de3f2" md5="0793e19aa3ad5a7373c3c8d04ca87d88" sha1="e5b6bfe2d4e9d45b0a3b4c3346aa92abb7d32162" in_zeros="1284" out_zeros="4908" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 57).ogg" size="1111514" crc="a8addeec" md5="09922d2e7f617d8c9308ad748a60f68b" sha1="42f8973a14b79ce12d5dab24867c936a34330fb1">
-			<source frames="3107" pregap="150" duration="00:41:32" size="7307664" crc="e0297a70" md5="e23b0e9b8f14d682cc156a85c0f276e7" sha1="bd790bdca7929a48b812cee0aef144b60868f6f8" in_zeros="1284" out_zeros="3800" trimmed_crc="2dce22f1" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="2957" omitted_pregap="150" duration="00:39:32" size="6954864" crc="7167184f" md5="68f3a386f815d224663c989195089b0f" sha1="98fa3a56dd185ffa9872732fbfeae9777138916a" in_zeros="1304" out_zeros="3800" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 58).ogg" size="260596" crc="49c9ad2f" md5="e919785a9dda7dde78099f4e40bbca60" sha1="8927799278818655d1ec1edc2308fc79ad6d84a1">
-			<source frames="902" pregap="150" duration="00:12:02" size="2121504" crc="383b672d" md5="0c741cec27435f87a8924942c2b4785f" sha1="fe7959213e35671b51ab861a3ab689c022e88b03" in_zeros="1304" out_zeros="4701" trimmed_crc="69af8311" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="752" omitted_pregap="150" duration="00:10:02" size="1768704" crc="8f940848" md5="b022fb408a01881edde1b657ae9def9e" sha1="bf807bdc54fb98b23e1f119659158078c6ceb968" in_zeros="1284" out_zeros="4701" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 59).ogg" size="216849" crc="a2c90437" md5="3a49b6ffb615dbe95b11395f6b371319" sha1="4acdb695480e1397210cab5946118e43addb631b">
-			<source frames="755" pregap="150" duration="00:10:05" size="1775760" crc="657f8ace" md5="01c7beccc22eeaae80dae4b0cd2ce93a" sha1="b85ebef4db60f194a6cccb5a6010d45629b4398a" in_zeros="1284" out_zeros="5037" trimmed_crc="9750242f" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="605" omitted_pregap="150" duration="00:08:05" size="1422960" crc="e037bc61" md5="3c48726700f3701dde3417ad9e2080e3" sha1="e3f47a4214700c3557c2020205b03551f284e4be" in_zeros="1284" out_zeros="5037" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 60).ogg" size="1081290" crc="9b93e355" md5="2f42abcd6eb2c9f1b8125b2e01e547b0" sha1="7ba5f82186fd5269527d614d570b81a3fb5f7e21">
-			<source frames="3326" pregap="150" duration="00:44:26" size="7822752" crc="5140fca6" md5="1e558f3e6f4d636bf5c36fee6d451594" sha1="fadd60b429f6f657363364cba98a6e620f1bfbae" in_zeros="1284" out_zeros="5709" trimmed_crc="98fdbc22" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="3176" omitted_pregap="150" duration="00:42:26" size="7469952" crc="1622b8b6" md5="3c1af1f8390bebd914acbf2fab4e09b8" sha1="1e7ec44453a0bd5911c6675e3b5c45436aa94321" in_zeros="1284" out_zeros="5709" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 61).ogg" size="1132936" crc="159a51ff" md5="2b3441768869c79c4fd916a64623b17c" sha1="2f1ac7e4f3ecc90b34247fc9ca3c109cb77b25a9">
-			<source frames="3272" pregap="150" duration="00:43:47" size="7695744" crc="aa5d5af7" md5="849d1663708363a3beed664497273513" sha1="ca8cfdea7bfd99e3fadf2c3ee55750ff5bc1ae65" in_zeros="1284" out_zeros="4305" trimmed_crc="5f183ebf" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="3122" omitted_pregap="150" duration="00:41:47" size="7342944" crc="88a72d6d" md5="0cd4a234c0414c1bfff3070c3fed32bb" sha1="24827e2a85ffc009c859954f9c01f45866dbd4a3" in_zeros="1280" out_zeros="4305" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 62).ogg" size="617409" crc="15fd5589" md5="ccedf06782cf0d20215b0d5f17b437cf" sha1="ce297107b495892105cf23eeca40bb408c679d1c">
-			<source frames="2059" pregap="150" duration="00:27:34" size="4842768" crc="92672958" md5="5016d2b3b18533838be79f27d5202203" sha1="e2e6f33e1a08bb589fcb2467c12bdf032d1f7cad" in_zeros="1280" out_zeros="5480" trimmed_crc="196a1cdd" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="1909" omitted_pregap="150" duration="00:25:34" size="4489968" crc="6ac18c1e" md5="76cf856306a14270e2ed21c01201829a" sha1="03fd79aff868654a7d638d8ff70687abb90615ae" in_zeros="1288" out_zeros="5480" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It) (Track 63).ogg" size="579614" crc="f1062a25" md5="54c425fcc263a63512e529773869b0ab" sha1="1abcc02436a403c2fde3653a37cd5ed615e5e19e">
-			<source frames="1549" pregap="150" duration="00:20:49" size="3643248" crc="00f76968" md5="cfb662c072bb4d585dc8121a6b6a6db3" sha1="3756ca8a3a212001c0196d35376e230c170fef32" in_zeros="1288" out_zeros="5161" trimmed_crc="43d761ce" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="1399" omitted_pregap="150" duration="00:18:49" size="3290448" crc="976938e5" md5="f2926eda1576c3f63b6cc766ea204cb7" sha1="e123384c78f1a6ff647bf0f470f4e557c3bbe77d" in_zeros="1288" out_zeros="5161" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 2 (Europe) (En,Fr,De,Es,It).cue" size="8483" crc="c81ae154" md5="a204f21e971bf61604ec83da80fc4704" sha1="119b1eb8679ab6636c18154cca2896b97354c775"/>
 		<rom name="AITD2.EXE" size="75063" crc="05efc6c9" md5="3835e7533cd48fb139275ed46807616b" sha1="150b5805cc621e6db197c5cb1a732fbf2d8cb3b7" date="1994-08-24 16:23:28"/>
@@ -835,187 +835,187 @@
 		<year>1995</year>
 		<developer>Infogrames</developer>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 1).bin" size="43624896" crc="1aa0de9c" md5="2c84ea1aedd91397f1cb8de031c886b0" sha1="157f35c3a4051a262193112c6d9b9de195823c65">
-			<source frames="18548" pregap="0" duration="04:07:23" size="43624896" crc="1aa0de9c" md5="2c84ea1aedd91397f1cb8de031c886b0" sha1="157f35c3a4051a262193112c6d9b9de195823c65"/>
+			<source type="MODE2_RAW" frames="18548" duration="04:07:23"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 2).ogg" size="4572645" crc="34065791" md5="8253b44a645d6d24b193cd6a6b5d5592" sha1="5e7cf04b8eed142869c0860662cc03a592c9e5ba">
-			<source frames="8918" pregap="225" duration="01:58:68" size="20975136" crc="823a0e10" md5="8f07c2be1974fc4f2f11799103a7a6bd" sha1="4bad16d278316cf927dfcd884c86980bd588430d" in_zeros="1" out_zeros="4704" trimmed_crc="2ddd060c" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="8693" omitted_pregap="225" duration="01:55:68" size="20445936" crc="4683b548" md5="b3c634296f72edab2a371df86bedb337" sha1="8e913c277a751b90f3f433e6663a6711329eb130" in_zeros="6144" out_zeros="4704" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 3).ogg" size="852458" crc="80d0240d" md5="47923f5bfe828bbf367fb9c0f67717e5" sha1="b4e4259503381d2a9a2603944ae7b5020947a22a">
-			<source frames="2551" pregap="150" duration="00:34:01" size="5999952" crc="19f00b52" md5="3efb5e47c6591d5b7aa4f1805ea92a5b" sha1="a8b6adc9bb9af52aeb896f4f9f7fe1dd65f8b51a" in_zeros="358256" out_zeros="4704" trimmed_crc="b0d59a04" quality="8"/>
+			<source type="AUDIO" frames="2401" omitted_pregap="150" duration="00:32:01" size="5647152" crc="fd472ed0" md5="e6f4ffe1cd6e942e17c26112ea221d8f" sha1="47b764ae3994505727e23e1ea761066103271474" in_zeros="5456" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 4).ogg" size="3931619" crc="5d28eb2f" md5="e32e532c326a0581636a81b9b529767c" sha1="083098cfc931fbae3e3c88af785230b7049ab2bc">
-			<source frames="10185" pregap="150" duration="02:15:60" size="23955120" crc="bd1999a7" md5="b8fd8fa82fe02f1cc18f7fa8d456f0ec" sha1="c0ff2f2bf28502a55be074eb6f413de5343cd30d" in_zeros="359996" out_zeros="4705" trimmed_crc="d117f2f0" quality="8"/>
+			<source type="AUDIO" frames="10035" omitted_pregap="150" duration="02:13:60" size="23602320" crc="fca01c90" md5="9e07554d4ee75fbb8fc2d422bae28ead" sha1="334a038cb97f812cd810fb8109db9bb3cbe7c412" in_zeros="7196" out_zeros="4705" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 5).ogg" size="247914" crc="5c427513" md5="5b4faf33437e4ab83a7cfd6af6cfd3a5" sha1="c051e1667c6da49224cc70c6cc21e65f484feac8">
-			<source frames="910" pregap="150" duration="00:12:10" size="2140320" crc="5e2ae08a" md5="62897b0e7154865107747fd5d65a0a94" sha1="a86f19ac0b7f56de0a40313d04a7c63a1321497c" in_zeros="358824" out_zeros="4704" trimmed_crc="d7960e07" quality="8"/>
+			<source type="AUDIO" frames="760" omitted_pregap="150" duration="00:10:10" size="1787520" crc="f9ea17ca" md5="842c460c4b10928af187911efd8267e1" sha1="07729ec66468fda6892ceba29d85971364ea45ef" in_zeros="6024" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 6).ogg" size="223602" crc="0c5e099e" md5="7196947cc7d6612676e0c658caa92940" sha1="1090052b2e3686add59ec8e5695ddbb5c554a08d">
-			<source frames="891" pregap="150" duration="00:11:66" size="2095632" crc="727aa751" md5="c45b537f9d748efb80901843be835e09" sha1="9b5db170a886f63a5c32f0450b45efac6834486a" in_zeros="359368" out_zeros="4704" trimmed_crc="912b9db3" quality="8"/>
+			<source type="AUDIO" frames="741" omitted_pregap="150" duration="00:09:66" size="1742832" crc="6629eb66" md5="bfdb6c00b2188a7a016f9f7c870ada2f" sha1="e30b0c91821e1442d4963a55891613724ebadbd5" in_zeros="6568" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 7).ogg" size="3592555" crc="d9299226" md5="c2475425b9fe3da53ee81830acbea9f4" sha1="52d3686e7cad1351faa75d48f72d630789127ebf">
-			<source frames="9788" pregap="150" duration="02:10:38" size="23021376" crc="44c223d8" md5="5f4c6b95ace165a80d60c10d601db6d2" sha1="142ca2b748ca935d7ae12a5d4045ab46e0aa3a20" in_zeros="358094" out_zeros="4704" trimmed_crc="9d770971" quality="8"/>
+			<source type="AUDIO" frames="9638" omitted_pregap="150" duration="02:08:38" size="22668576" crc="8edc28f7" md5="c0ef055ac97ff5c46860805ba6ac8133" sha1="8db555fd4563c8af2b26e8c622c3f376242652c2" in_zeros="5294" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 8).ogg" size="494424" crc="eed87679" md5="1f5acdba07eedbe71dced484ed06a02a" sha1="2b74df22e86d59e77d12636ec5ce17d5cb0f41d5">
-			<source frames="1572" pregap="150" duration="00:20:72" size="3697344" crc="92f00a9e" md5="e3ef51bc11158f12e5523fde9557bc93" sha1="1091bbbb8974a0644480d2aced11def263fa6ecc" in_zeros="358136" out_zeros="4705" trimmed_crc="07f32b75" quality="8"/>
+			<source type="AUDIO" frames="1422" omitted_pregap="150" duration="00:18:72" size="3344544" crc="41345a11" md5="7b806a5ce3929b536b16f16978527ec0" sha1="6b667002ec45d160e9df6e031068e50f832f60f7" in_zeros="5336" out_zeros="4705" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 9).ogg" size="3973662" crc="39caac23" md5="e45f3f5199a62b9cc158e7f7ec324772" sha1="ff2792bc7d8cf45563c1460665c5266e38ec4750">
-			<source frames="10232" pregap="150" duration="02:16:32" size="24065664" crc="a0da141d" md5="4e7a472f4b288222c504662e277dab02" sha1="5ffc4d82d473bd8fe76a708746d8aa4aefb09aa3" in_zeros="358860" out_zeros="4704" trimmed_crc="2a350ee3" quality="8"/>
+			<source type="AUDIO" frames="10082" omitted_pregap="150" duration="02:14:32" size="23712864" crc="2303a361" md5="c10df2d776dfc2a5f16d2e5a336788f3" sha1="a5482a11f0831b50db61ca7aeb13d07fbb41f72f" in_zeros="6060" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 10).ogg" size="311341" crc="f80002d4" md5="4e0249e2a7a201393f5e3393cd0d5302" sha1="7f5bc0c69d69cb090691c7c0a732a3641c37e70a">
-			<source frames="1084" pregap="150" duration="00:14:34" size="2549568" crc="1d723aef" md5="0507ca864d2a1ce4ca27ffa189da69c4" sha1="feb5f8e079675d3aad638434f3a60c68ddf6e0a8" in_zeros="358224" out_zeros="4705" trimmed_crc="f1825117" quality="8"/>
+			<source type="AUDIO" frames="934" omitted_pregap="150" duration="00:12:34" size="2196768" crc="4fdd3c24" md5="236c0a60fa82c89e85fa69a1c3174000" sha1="e60b372542813a2a78e1e5c0310209076e8b3b4c" in_zeros="5424" out_zeros="4705" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 11).ogg" size="1738250" crc="61ae91d4" md5="7aa7f8001a4c44f00f188a07e3a74c4d" sha1="f9768e29f1066db9b193cab9b82f98eccc22c038">
-			<source frames="4785" pregap="150" duration="01:03:60" size="11254320" crc="f5f914b1" md5="1044fd99bb18df156fcc52945717aa01" sha1="735909fa865023200b1d80e6fe189ad2c49732ff" in_zeros="359088" out_zeros="4704" trimmed_crc="d6edaecf" quality="8"/>
+			<source type="AUDIO" frames="4635" omitted_pregap="150" duration="01:01:60" size="10901520" crc="4e57001c" md5="24eda2a9e67d9301f7a8a06158b30da1" sha1="ab0f1406cf465dd78d8993d732e719930c22cdca" in_zeros="6288" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 12).ogg" size="2017811" crc="d2ddc6bd" md5="d32550c2ff938e20153602335a27e707" sha1="78c13d52b03d2a388d423650c63cab68458979f0">
-			<source frames="5703" pregap="150" duration="01:16:03" size="13413456" crc="4f80b15a" md5="c1d5e6f77e0dadf4c4d291ee46a201f1" sha1="ecbf3bfa963ff3a5564f21ba11808b250f978b11" in_zeros="358868" out_zeros="4704" trimmed_crc="47456f88" quality="8"/>
+			<source type="AUDIO" frames="5553" omitted_pregap="150" duration="01:14:03" size="13060656" crc="080931f0" md5="8ee52747ce82aa425ad333eeeb1d9b84" sha1="83d897bc3147ae6b18f114ad16cb06995339bac0" in_zeros="6068" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 13).ogg" size="379041" crc="d149ad1a" md5="35776b3fda5d44dcf594635aa85c5da8" sha1="3100a19fee2109edcc97c93dc453b42a4f0c7aee">
-			<source frames="1168" pregap="150" duration="00:15:43" size="2747136" crc="da3d22e0" md5="9bf8e6892b5d831e05a5b1fc942004b9" sha1="8f88dbd3acb352b28fa6c83d70a5d37f8fafe9ea" in_zeros="359964" out_zeros="4705" trimmed_crc="e871397c" quality="8"/>
+			<source type="AUDIO" frames="1018" omitted_pregap="150" duration="00:13:43" size="2394336" crc="8c5c1c55" md5="2a3f8e0c0d437aae0b5c8b76e01bd27c" sha1="fc95c798bbca42653609b22b565360cd407e2d2b" in_zeros="7164" out_zeros="4705" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 14).ogg" size="3438168" crc="b74c34d8" md5="85585ec4ed2673a3bc0ee9f686b8402f" sha1="e34698fa856c866524c481a116de78e999ca0633">
-			<source frames="10809" pregap="150" duration="02:24:09" size="25422768" crc="a377533b" md5="d41d0c7acdd1b6e602391b094a080bb2" sha1="abdec02ddac16c58b50b9dbbae1582d7270fe60a" in_zeros="359032" out_zeros="4705" trimmed_crc="f85e500a" quality="8"/>
+			<source type="AUDIO" frames="10659" omitted_pregap="150" duration="02:22:09" size="25069968" crc="b610d33c" md5="b78b7ee224ae6fcc770d1597a6563f08" sha1="63b3e208709c69947ad7d0e67db870dcc1abe78f" in_zeros="6232" out_zeros="4705" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 15).ogg" size="3724340" crc="588b15b3" md5="c1355dcf1560c369dc20aab401d709f1" sha1="42d1d68b70ed4ec86e8e20480ccdf1bf0439244f">
-			<source frames="10648" pregap="150" duration="02:21:73" size="25044096" crc="2771acb4" md5="1ecf815873e8f2666c659b3629624274" sha1="a3fdddf34b45f0690c61819a38aee03e844e7140" in_zeros="358108" out_zeros="4704" trimmed_crc="2afe3669" quality="8"/>
+			<source type="AUDIO" frames="10498" omitted_pregap="150" duration="02:19:73" size="24691296" crc="7a1126ab" md5="baaff73ad8cc5806034c3fe6cc2e10e3" sha1="a22afcc9e91b7d8030c5910bea66f76d84b5a5e2" in_zeros="5308" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 16).ogg" size="3921733" crc="0c42ab5b" md5="a6dacbf49b84cf253c6b03a77ae38247" sha1="990a77abb775951596fdac6d712aefc7de9ce86c">
-			<source frames="10777" pregap="150" duration="02:23:52" size="25347504" crc="aba21712" md5="fcc6407c6a9ab082fb6235c44d031803" sha1="3af8a89d0454b57e5a81e91d204ac8da030265b1" in_zeros="358120" out_zeros="4704" trimmed_crc="afb99db4" quality="8"/>
+			<source type="AUDIO" frames="10627" omitted_pregap="150" duration="02:21:52" size="24994704" crc="ba0b85e5" md5="f46f2ff976adb6e4547f534995b81d07" sha1="55725dea650a1cb6a2272b44c6d371c3b571b5dd" in_zeros="5320" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 17).ogg" size="1509853" crc="1d298766" md5="fcb332fc6947bcd0a36036f5866c910d" sha1="3f693ef2aec367190de5ec502cd03b9450b97e31">
-			<source frames="4695" pregap="150" duration="01:02:45" size="11042640" crc="c1d409cc" md5="43af5b4354f28df7842bc47c406babc4" sha1="7df8e2416674d28f588b81396a45ec54f7e08e95" in_zeros="359620" out_zeros="4705" trimmed_crc="dce76713" quality="8"/>
+			<source type="AUDIO" frames="4545" omitted_pregap="150" duration="01:00:45" size="10689840" crc="99d51541" md5="b8d9ed75d38f25314774e0dcf505cffc" sha1="c80911eb7705dc8b4ec789c6d7404712c2b6e08c" in_zeros="6820" out_zeros="4705" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 18).ogg" size="2679152" crc="35a4e0e6" md5="a5cc45ba974b4783f2ff4131e1f72639" sha1="8eae323f7c668ee505598e8388003d1867b76b52">
-			<source frames="7736" pregap="150" duration="01:43:11" size="18195072" crc="5466fcb2" md5="ff5ddd17a1ae7fe6a6d051b5f05d9023" sha1="96565a94b4646f8cd6232eebf15d5ac2da24d3d3" in_zeros="359888" out_zeros="4705" trimmed_crc="18713bd3" quality="8"/>
+			<source type="AUDIO" frames="7586" omitted_pregap="150" duration="01:41:11" size="17842272" crc="d8bcb93a" md5="e38728b041556ef6e909675578cbc3de" sha1="24cfc8b30e1b69940299dd26d0fd6106f87a3b08" in_zeros="7088" out_zeros="4705" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 19).ogg" size="3928955" crc="33117cfa" md5="8659f177c21415acba1556bd7bed95ad" sha1="657bb00cb2d0ca3a5a5592e690e2645ebca82a39">
-			<source frames="10622" pregap="150" duration="02:21:47" size="24982944" crc="8f851e5b" md5="73a4d00bb17b7aaabbda7aad82765c5c" sha1="ae5bef613862a9ac893e9d19511a61fc12cda003" in_zeros="357876" out_zeros="4705" trimmed_crc="93cf40fe" quality="8"/>
+			<source type="AUDIO" frames="10472" omitted_pregap="150" duration="02:19:47" size="24630144" crc="227f7073" md5="52bf6e7fc4d199287d1d733fb1ac2453" sha1="99c1e6bf90fba7bb1426851fb2e4b85c72f21581" in_zeros="5076" out_zeros="4705" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 20).ogg" size="3583880" crc="cad73c1a" md5="213e7fbba6a7e5c446405b338a90688f" sha1="f81ac3715e0b8a368d82690dbb315d662ffb3274">
-			<source frames="10356" pregap="150" duration="02:18:06" size="24357312" crc="dd826e08" md5="b1b9dbdb2ebfa0621cf6b2292f9b3c71" sha1="9daf05fe3894b1840f372e513761561281e06618" in_zeros="359892" out_zeros="4704" trimmed_crc="1e7a8182" quality="8"/>
+			<source type="AUDIO" frames="10206" omitted_pregap="150" duration="02:16:06" size="24004512" crc="d7c48261" md5="4c47d9259c84312fd70a90fb5ad79ae2" sha1="ec4ec36c3f593af36679d3628d8c041ea2fee34a" in_zeros="7092" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 21).ogg" size="957188" crc="c5ec0464" md5="a74de281ec25ec3340cfa1cc574756e4" sha1="bf77c39660cbcdc5a3d1a10343df379df679a5cd">
-			<source frames="3687" pregap="150" duration="00:49:12" size="8671824" crc="e1196905" md5="5a9f7523997c4c3ae927650d736d617f" sha1="b0770bd39cb2daaeb8107cffaff924a70a868d04" in_zeros="491764" out_zeros="4704" trimmed_crc="33f455e0" quality="8"/>
+			<source type="AUDIO" frames="3537" omitted_pregap="150" duration="00:47:12" size="8319024" crc="d06b490d" md5="5dc1ac8af650e82290a8dc57377c318a" sha1="100c3a82f45addcfe5aa2e37b7ff9e93cc303255" in_zeros="138964" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 22).ogg" size="3158039" crc="81176a9b" md5="7daead4cf938740a39c12be26699918d" sha1="450d1d777e5f20e233e71851ce9d93391a774855">
-			<source frames="7692" pregap="150" duration="01:42:42" size="18091584" crc="5ef9b4dd" md5="235b68e12ba859f826f8eb1e60087fbc" sha1="401b5150438c3119a3650de4978e24a481818a83" in_zeros="358232" out_zeros="4705" trimmed_crc="4c1a15db" quality="8"/>
+			<source type="AUDIO" frames="7542" omitted_pregap="150" duration="01:40:42" size="17738784" crc="750d54e7" md5="b4d0d4ef181a31e77b64786d54255ad5" sha1="fe00ca0d63d5471ac49edb58569470140b033138" in_zeros="5432" out_zeros="4705" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 23).ogg" size="2654006" crc="f31f1877" md5="aad15f82e35a952b413c3e083135b155" sha1="92c5810bbcd957296ab7aee6a50d6a95a4bcfca0">
-			<source frames="7395" pregap="150" duration="01:38:45" size="17393040" crc="90513e8f" md5="7cc44ad8c0db2635c76c209757110a7f" sha1="4c5600a4aad81805ebeae260729b10424fb8e2c5" in_zeros="359704" out_zeros="4704" trimmed_crc="fa613f0d" quality="8"/>
+			<source type="AUDIO" frames="7245" omitted_pregap="150" duration="01:36:45" size="17040240" crc="148c4274" md5="b7008629ec0950899927464485f32b0c" sha1="844ce8daaf357a414dfa854a904d350ab127da6e" in_zeros="6904" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 24).ogg" size="184132" crc="d9234e91" md5="dd8816be2ebfe7d9b1cbc18a6a1f3f93" sha1="271c31c6661cb09fec9af3a9f928d0e2e5253776">
-			<source frames="630" pregap="150" duration="00:08:30" size="1481760" crc="cf8a6428" md5="8c4662e14c0acf571fc2c06c726d2164" sha1="2730bfac0592cd341e4003881a0343344014258c" in_zeros="358700" out_zeros="4704" trimmed_crc="792e2792" quality="8"/>
+			<source type="AUDIO" frames="480" omitted_pregap="150" duration="00:06:30" size="1128960" crc="9a0ae95d" md5="f85aa2752645b5aca302d96fe704f3e3" sha1="2294f9b9acf903959fb265f3435c459f3008836c" in_zeros="5900" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 25).ogg" size="811767" crc="b1cc5316" md5="3b6f4aa827033f658a0bdf720f446e3f" sha1="be12ecf6c1faf59aea1e71d4008e18d5efdfa5cc">
-			<source frames="2289" pregap="150" duration="00:30:39" size="5383728" crc="1ae86982" md5="113021c2eb651c55cdb5106678db50af" sha1="4068f6f9396035b0aed5fb83dc7e6a6837709c9f" in_zeros="363872" out_zeros="4704" trimmed_crc="657576f7" quality="8"/>
+			<source type="AUDIO" frames="2139" omitted_pregap="150" duration="00:28:39" size="5030928" crc="c1bd1d4c" md5="a7071502f8a92b5c6ed2da8536f8d718" sha1="916cf306d79f155c4536b13ad749c4166cf3e434" in_zeros="11072" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 26).ogg" size="1150562" crc="6d88574a" md5="8f4b9237c668e477359312d38c4e8096" sha1="58ee054a6b4d85d13e757902a5e1848a9f840ab7">
-			<source frames="3181" pregap="150" duration="00:42:31" size="7481712" crc="38ef802e" md5="1773921c93492a0b5ad7b6903c0bf765" sha1="819786b6dbe751ef9f8fb126c749bab15786cc90" in_zeros="367852" out_zeros="4704" trimmed_crc="aa295d97" quality="8"/>
+			<source type="AUDIO" frames="3031" omitted_pregap="150" duration="00:40:31" size="7128912" crc="25a78a51" md5="4677777131b158445c48a65d10e07527" sha1="406d28f394535ea4f74344d28bda0cc9daf47b1a" in_zeros="15052" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 27).ogg" size="827369" crc="e522b0b9" md5="13a954c4869f8665c8ae45be3768b30a" sha1="f8468a0438a005c7b8d7c82fce32dce8625e60b8">
-			<source frames="2331" pregap="150" duration="00:31:06" size="5482512" crc="f494593c" md5="33f3ce823cf9dd7009813856d6a08bf2" sha1="8fc8bf5b63751bfe4a6d35e0388df7ebd3c7b0a6" in_zeros="366228" out_zeros="4704" trimmed_crc="aec2d727" quality="8"/>
+			<source type="AUDIO" frames="2181" omitted_pregap="150" duration="00:29:06" size="5129712" crc="412c2101" md5="585bd9df3daf312c704700c318bfa75f" sha1="13ba3b6b4d1350885e4f99f15bfc2cfadefc9c17" in_zeros="13428" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 28).ogg" size="241954" crc="66449541" md5="44a232259dd5f276c7055d5a3c414b2f" sha1="fe88d93ae8fd23669d72bf39995f7afcb1970f98">
-			<source frames="796" pregap="150" duration="00:10:46" size="1872192" crc="2a9ff533" md5="71ea914bd4b7646bc8711e2001dee0c2" sha1="393650c0170b3391d626feabdf81211a2d86d88e" in_zeros="367048" out_zeros="4705" trimmed_crc="0f5d1f4b" quality="8"/>
+			<source type="AUDIO" frames="646" omitted_pregap="150" duration="00:08:46" size="1519392" crc="50ca85bf" md5="c14e3f9bd6b0c460e97b8c82068d8639" sha1="52ca735f8aa192f343957a26a10833c55f1d949e" in_zeros="14248" out_zeros="4705" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 29).ogg" size="273015" crc="f1e3e83c" md5="4db4d70e11e9c92791356999a75b0ace" sha1="4a2527ae71d7f3bc268bd67f5f55cb74c318c2ee">
-			<source frames="874" pregap="150" duration="00:11:49" size="2055648" crc="fda3faba" md5="866e24c5867d4b249d60263c56fbd346" sha1="b57ee58e157019dd7dfbf1c872bc73e8e3f93ed0" in_zeros="366364" out_zeros="4704" trimmed_crc="2aedd1d6" quality="8"/>
+			<source type="AUDIO" frames="724" omitted_pregap="150" duration="00:09:49" size="1702848" crc="b4ffa0ad" md5="1e511cd01f8f39e9e8567a61afd38163" sha1="cbf00d1c21d475c353385f17302d01128ef8feb2" in_zeros="13564" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 30).ogg" size="325073" crc="07b4a176" md5="9624c45630b5636545318210f1413c57" sha1="456ab585c95267283a2422e3762994e3b5fefa06">
-			<source frames="951" pregap="150" duration="00:12:51" size="2236752" crc="3b681c68" md5="17547b10f2e4455e3335531e5c2d11b4" sha1="4a5a143fef31fd2a8b1d715f9a217f6bef23cd66" in_zeros="363864" out_zeros="4705" trimmed_crc="b146fa12" quality="8"/>
+			<source type="AUDIO" frames="801" omitted_pregap="150" duration="00:10:51" size="1883952" crc="66f054e2" md5="6d85be69b46754675518268a22c65e2c" sha1="79ede2f1aee16f78f70ad2df29df38b62a013d45" in_zeros="11064" out_zeros="4705" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 31).ogg" size="684868" crc="2b07cfd3" md5="4b5acd3b9f29c975a010497f544f3fd3" sha1="1f45dde222fb5c921c628266117e14a0621eee85">
-			<source frames="1646" pregap="150" duration="00:21:71" size="3871392" crc="545ceaf7" md5="a223edcdce04ae46b64843acdd8f50b1" sha1="d0cd8d3e532940df438c6841f195864ecf902483" in_zeros="359492" out_zeros="4704" trimmed_crc="124863ea" quality="8"/>
+			<source type="AUDIO" frames="1496" omitted_pregap="150" duration="00:19:71" size="3518592" crc="900c19b8" md5="79690815199a845889e60c2be1a00acb" sha1="686fd428cf3c4f29eb7e419cbeaf70a6dad70360" in_zeros="6692" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 32).ogg" size="231247" crc="cf71de51" md5="51e26788e0ba305a9659142b6e7bb938" sha1="73fa845b5c403c322b45e788f04aebf5e25076cd">
-			<source frames="769" pregap="150" duration="00:10:19" size="1808688" crc="611cebf9" md5="c1e1d5b7ba1dfb4952ccd1025ba1c4e4" sha1="a038b4d3f2b8ebea55b3f5843e08373f23e9b5b1" in_zeros="359524" out_zeros="4704" trimmed_crc="f3a93f51" quality="8"/>
+			<source type="AUDIO" frames="619" omitted_pregap="150" duration="00:08:19" size="1455888" crc="7123962c" md5="c2f8af5a7285930e37a65625fd788ff1" sha1="9968e81d7d203b3e3a0132136e3b4f4c8f416461" in_zeros="6724" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 33).ogg" size="225860" crc="860f2748" md5="397f0a5788f82c2fd47b75237fb42785" sha1="4994d4d3e06976796d692dc48df5bb7af78a8535">
-			<source frames="708" pregap="150" duration="00:09:33" size="1665216" crc="16b83599" md5="e3a71f1ed9b246527c17b671cefa05ef" sha1="58a0e11708020892b8c1135e31ec62ab1e4e0f10" in_zeros="362340" out_zeros="4704" trimmed_crc="0a14420a" quality="8"/>
+			<source type="AUDIO" frames="558" omitted_pregap="150" duration="00:07:33" size="1312416" crc="82b96642" md5="84091aa3e34ae10e3f6adb290a77e2c5" sha1="e93169c05769d3263b390012553314e64eeece04" in_zeros="9540" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 34).ogg" size="652290" crc="481d79bc" md5="985030ff05fa1b3635c02a4332b8549c" sha1="bc90ab1ac06ee63d20fa119aa4ced7a4b9f6c306">
-			<source frames="1767" pregap="150" duration="00:23:42" size="4155984" crc="1238caf2" md5="88b9b723ebb8b0434c62e19328643b4a" sha1="cf4081f102d6f3304ed7f13d7f916bef414fe52b" in_zeros="359780" out_zeros="4705" trimmed_crc="70a16c86" quality="8"/>
+			<source type="AUDIO" frames="1617" omitted_pregap="150" duration="00:21:42" size="3803184" crc="444f9e67" md5="f7d77393998c27663bac2e1c395ff696" sha1="d1ee7af2da1aae3b2ef7426ea7dc579907861358" in_zeros="6980" out_zeros="4705" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 35).ogg" size="328179" crc="055b5025" md5="1bf32522e1ebd51d5e59609ec0c682bc" sha1="bece39d083445638a69501696d6f7eacaefe5f30">
-			<source frames="988" pregap="150" duration="00:13:13" size="2323776" crc="241d7c1e" md5="1bb61b737eeb548e2718a005fd61a6a6" sha1="01e18a4e71e24a237fffb89250ea478116c14763" in_zeros="359008" out_zeros="4704" trimmed_crc="aa8c343f" quality="8"/>
+			<source type="AUDIO" frames="838" omitted_pregap="150" duration="00:11:13" size="1970976" crc="32b77098" md5="a6a3d8d590972c2b7bbb6e11df78c123" sha1="17942613aa1449f940d6601b3562074dffdb55a9" in_zeros="6208" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 36).ogg" size="277461" crc="4d5fc65a" md5="df3e5562d56e4ae08c137debd8501659" sha1="b09f583f5aaa150f0c6a4768e794cca41ebc7180">
-			<source frames="814" pregap="150" duration="00:10:64" size="1914528" crc="dd440f97" md5="2d60f953224bb84068d6c261a1742f77" sha1="9847b275b036b65aaaff25ef46f9e82a5ec529e9" in_zeros="358656" out_zeros="4704" trimmed_crc="d3cc905d" quality="8"/>
+			<source type="AUDIO" frames="664" omitted_pregap="150" duration="00:08:64" size="1561728" crc="e230f848" md5="1883769ae24c09e06ae2280e5255cb3c" sha1="a01e0928209906118c0a219d115416ec508a5370" in_zeros="5856" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 37).ogg" size="347461" crc="51f0f540" md5="e8b35b098fe4c9451de920f9cf24fc28" sha1="e1e6cefd04bb11884b5d9f7215391a3e6f976d0a">
-			<source frames="973" pregap="150" duration="00:12:73" size="2288496" crc="30882d33" md5="9d9e07c19dabe72aa81c819abfd674de" sha1="fa3b3c000f37369bdd94752bc80688ddb2a3e177" in_zeros="358648" out_zeros="4704" trimmed_crc="274fef51" quality="8"/>
+			<source type="AUDIO" frames="823" omitted_pregap="150" duration="00:10:73" size="1935696" crc="9475de21" md5="1acf9afa15366d08d8971a3d6bfbcf2a" sha1="13d63fda47963e5631bc54232897fd6df5aafcf4" in_zeros="5848" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 38).ogg" size="151754" crc="d52fd946" md5="a7db28715e65676ce5d63e5b26f4e17d" sha1="5dd6b3a962f88125f358c34568b1d6836e2de5bd">
-			<source frames="483" pregap="150" duration="00:06:33" size="1136016" crc="e8ec9415" md5="82d024afdc05f9b4533bccc80a0605d9" sha1="4dd4bac43385be6dec500233fac4abd25f04e243" in_zeros="359444" out_zeros="4704" trimmed_crc="57c6e70a" quality="8"/>
+			<source type="AUDIO" frames="333" omitted_pregap="150" duration="00:04:33" size="783216" crc="9a6f4f1c" md5="67e4d32f4c4eac5a7bfea35b04dd66a4" sha1="8023befba762141ca60620fbf9fc30e80b7893d3" in_zeros="6644" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 39).ogg" size="462364" crc="f96b02fc" md5="9ec81352ee7083afbc7553e3354c3104" sha1="01c98fb72218f6b1893fe9e69a599456a0d503f3">
-			<source frames="1346" pregap="150" duration="00:17:71" size="3165792" crc="8a09bf2f" md5="ebdc6a4b2379d18ce0c118ce0746d21a" sha1="96d3a6c3093fab25f42fabfacc7a29b34a466edc" in_zeros="358712" out_zeros="4704" trimmed_crc="556c9b1b" quality="8"/>
+			<source type="AUDIO" frames="1196" omitted_pregap="150" duration="00:15:71" size="2812992" crc="a471efdb" md5="e617daf001377610a65312d1fcf81939" sha1="ebc3687ee16bf2f3fafd78c661476b95f8cf0e10" in_zeros="5912" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 40).ogg" size="415012" crc="5062d0ae" md5="0eb6f31c567e241ac4e22c2993279c21" sha1="921ebfcdfea5847021676b5020729c1fc35150c6">
-			<source frames="1172" pregap="150" duration="00:15:47" size="2756544" crc="ec469058" md5="80ac5df8e5758087ce257bcc7e8a95d9" sha1="42e80694c007333269cc44b60f0ff1ca506f6b0e" in_zeros="358832" out_zeros="4704" trimmed_crc="2c43784e" quality="8"/>
+			<source type="AUDIO" frames="1022" omitted_pregap="150" duration="00:13:47" size="2403744" crc="6c86f227" md5="ab166d813e2c041b8e6c817af8a07100" sha1="0df47bc434c7251930b926126d1d1eebf4ca7815" in_zeros="6032" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 41).ogg" size="89487" crc="04191dad" md5="50f61d74bdb12719b209e14ba459c5b1" sha1="5c6a54eb5b10b0ad62211dfbd80773607cd3bf5b">
-			<source frames="385" pregap="150" duration="00:05:10" size="905520" crc="cf5478f7" md5="298369836ee01da22d6f521a200e8103" sha1="7dda88021cfc99728e3d81b1313713ba1ee659a1" in_zeros="361004" out_zeros="4704" trimmed_crc="c2e8ad77" quality="8"/>
+			<source type="AUDIO" frames="235" omitted_pregap="150" duration="00:03:10" size="552720" crc="60d8c8df" md5="eeeca00b27845d9eb2af59a38edc0275" sha1="f2ea938954f9b8c0cc48699792168bf983f1510a" in_zeros="8204" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 42).ogg" size="848099" crc="f9140cd2" md5="1d639a72f21fb30b801170edced31274" sha1="73ecd5390eef1edadf7197c6213b0bbd189f176f">
-			<source frames="2306" pregap="150" duration="00:30:56" size="5423712" crc="dcd803b5" md5="653b1a22f1b27f1dbd2598fe5a63f191" sha1="881ed544fc5063fc3067fe9a134bb62a4aa54f9d" in_zeros="361988" out_zeros="4704" trimmed_crc="ac43361f" quality="8"/>
+			<source type="AUDIO" frames="2156" omitted_pregap="150" duration="00:28:56" size="5070912" crc="054c26cf" md5="8988a2e05be19aa445db82ceb0f73f04" sha1="b4b0db980d20496a6390c2324eec51b23998e648" in_zeros="9188" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 43).ogg" size="278325" crc="784cbf19" md5="b3ff38a3f801a978f279eebc8fd5ffbe" sha1="462df7e49392d565ccef9f257cf97c5e651e4f8b">
-			<source frames="806" pregap="150" duration="00:10:56" size="1895712" crc="176eb2fa" md5="8e978b36d66c0724c85d1c95a59ed0b3" sha1="dd37dc8e0eac472ca9f2f39b0410c2c9ac6387f0" in_zeros="361936" out_zeros="4704" trimmed_crc="ed536f7d" quality="8"/>
+			<source type="AUDIO" frames="656" omitted_pregap="150" duration="00:08:56" size="1542912" crc="e4cbee5b" md5="cdc01ef8c655ffbd391059a88621d0bd" sha1="5f694c256a142cc28dea0d6badd40d1b74ee32c1" in_zeros="9136" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 44).ogg" size="236320" crc="72931658" md5="8751c9cb8524b5072aa74627641c8ef2" sha1="abd6fc6d69ac59586ec60204808086c5f5b09740">
-			<source frames="698" pregap="150" duration="00:09:23" size="1641696" crc="8bda1182" md5="0fb70639ee55d44265fb40eb5a8f77f7" sha1="f8e8aa54db8ffa2be4a5fb53e58f17f6153b5f13" in_zeros="358508" out_zeros="4704" trimmed_crc="d5058aed" quality="8"/>
+			<source type="AUDIO" frames="548" omitted_pregap="150" duration="00:07:23" size="1288896" crc="5e027ba0" md5="95aa14d48f25f2c3febda5002f8c897c" sha1="0e8ad079f2c6507175803f707ad7f24bed2c9a80" in_zeros="5708" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 45).ogg" size="271472" crc="5c5e0a17" md5="a77cb240fa32a5ab98df8551cec414dc" sha1="46cb095a2535de89d4afcd81f7af3b5376911623">
-			<source frames="767" pregap="150" duration="00:10:17" size="1803984" crc="bcdabede" md5="65645365e03de7188da4340754649be5" sha1="a394185d30add9101b523885824cb40a23a93748" in_zeros="368048" out_zeros="4704" trimmed_crc="d4a33a97" quality="8"/>
+			<source type="AUDIO" frames="617" omitted_pregap="150" duration="00:08:17" size="1451184" crc="01689be3" md5="62fa48c67462817c5abf5d77c83f1cac" sha1="911a4f2b22c1f78ea6806ac13e2bc1bbb4331d7d" in_zeros="15248" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 46).ogg" size="590420" crc="4068739d" md5="1ca1b59d14214e9234928ff9007b0324" sha1="ba88657c01f0a877f4c1bab420eff847b501116d">
-			<source frames="1467" pregap="150" duration="00:19:42" size="3450384" crc="9cf6f248" md5="c64ae2ae31cc30a6be75715dbe431b05" sha1="9f9cfd6fa3b053848875ae90cea9c207603bc383" in_zeros="367484" out_zeros="4704" trimmed_crc="a5cf95dc" quality="8"/>
+			<source type="AUDIO" frames="1317" omitted_pregap="150" duration="00:17:42" size="3097584" crc="518ed58d" md5="875ebf33f8ae49ed519ad83a8d3c222e" sha1="ccacd73b5f69bfed7ac8eafbd759caec3a2d7f41" in_zeros="14684" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 47).ogg" size="277106" crc="1b79f729" md5="b9a500247d0c9d27b3e5455f53b5f266" sha1="f655b8ead42437399ef76ac95f5dd068518cb966">
-			<source frames="776" pregap="150" duration="00:10:26" size="1825152" crc="9f67a2df" md5="86232bc58c87899a7077676d338e40d8" sha1="3c23bc45e26646c48b0a731c91541a3800d9a961" in_zeros="366592" out_zeros="4704" trimmed_crc="1ec06f45" quality="8"/>
+			<source type="AUDIO" frames="626" omitted_pregap="150" duration="00:08:26" size="1472352" crc="cbe1f9e8" md5="fe3749c1c8815dcf7843937314b2051d" sha1="8adf00cf4d64486ec4baa6fd7b7e20310b375b29" in_zeros="13792" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 48).ogg" size="355493" crc="77d29f52" md5="e5ec90a8e5bd446fe9e7a113c2a9d9b9" sha1="6dd2ba8593a2718562d422e757016860712bcfb4">
-			<source frames="893" pregap="150" duration="00:11:68" size="2100336" crc="3039a6f4" md5="2430eb67ce6d71679bb29980e3ef3fbe" sha1="b817af34c648db790facdb5ad9abe0354821fc24" in_zeros="358428" out_zeros="4704" trimmed_crc="1e86333d" quality="8"/>
+			<source type="AUDIO" frames="743" omitted_pregap="150" duration="00:09:68" size="1747536" crc="b2fed9fb" md5="cd8c584aa0f004f616e18af852cf8434" sha1="b1f7443f3f0084e15e7c53695eb0221dd797ba61" in_zeros="5628" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 49).ogg" size="373939" crc="d771cf37" md5="77f1b56d3635bb1c5436d5413f600857" sha1="60dc26cfdb9151a1ad9f6550780e4a55990d3954">
-			<source frames="926" pregap="150" duration="00:12:26" size="2177952" crc="7336d99b" md5="cd4cfe0d09f1d409aa43a8b486791921" sha1="b359f015a8e7f27a3b644b7ec86fde347d271be4" in_zeros="359500" out_zeros="4704" trimmed_crc="caee95b3" quality="8"/>
+			<source type="AUDIO" frames="776" omitted_pregap="150" duration="00:10:26" size="1825152" crc="3371a679" md5="e49f4f99aaba9aac3cb9a625322e10b7" sha1="d7d3256449189ebfbc98998d8d624c91a7b3623b" in_zeros="6700" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 50).ogg" size="265987" crc="1e1c66d9" md5="20da3e78882964192c00e59adfd62f1a" sha1="eb62af67d92b5cc94318f60620a9512096e7b691">
-			<source frames="701" pregap="150" duration="00:09:26" size="1648752" crc="75d8bee3" md5="82b3b0c169927e0b270d921cfea796e6" sha1="d077861f5016d640b1dd50e2fd38428536541ad0" in_zeros="359100" out_zeros="4704" trimmed_crc="e6a6c48f" quality="8"/>
+			<source type="AUDIO" frames="551" omitted_pregap="150" duration="00:07:26" size="1295952" crc="4c8013f0" md5="bc6e8253908bf5618d661f4769e9af0f" sha1="4f9e4700868c5b6b54f5bea5823ad3e9a547cb0a" in_zeros="6300" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 51).ogg" size="218025" crc="d7477529" md5="49ac99e8bc181049169fae03fdd69318" sha1="0deefc7d8550aa1594b6e6888861eb3b86ec1a17">
-			<source frames="817" pregap="150" duration="00:10:67" size="1921584" crc="295749be" md5="3236ce0c9b2b2ad52824b82a7ee967e8" sha1="7d02273c1ba3cedd31719db87f0852c0ad54de1b" in_zeros="358256" out_zeros="4705" trimmed_crc="da81c56c" quality="8"/>
+			<source type="AUDIO" frames="667" omitted_pregap="150" duration="00:08:67" size="1568784" crc="58882caa" md5="6f66d1249b377a73c9580a708a114037" sha1="872adbc0ba48b984550fbf4b34dcc3b6da80c9a3" in_zeros="5456" out_zeros="4705" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 52).ogg" size="253701" crc="291d9285" md5="c7fcdbf064f26fb50017a463fd6f8977" sha1="261c4e1ce0b609ad3679e3de014133d0e484de28">
-			<source frames="853" pregap="150" duration="00:11:28" size="2006256" crc="fcea739b" md5="e2e3dd1373a84d3d6aa3303daeae17db" sha1="1b59b507aa2ad9259e51c8fd4484bf00d487fec7" in_zeros="358128" out_zeros="4704" trimmed_crc="eecc3c7d" quality="8"/>
+			<source type="AUDIO" frames="703" omitted_pregap="150" duration="00:09:28" size="1653456" crc="d04c9722" md5="e1722b14885c056611e371e6ae230895" sha1="d742a68941b0e1e7e1c00cfa8f54660fcf3f3ec3" in_zeros="5328" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 53).ogg" size="418715" crc="eee76c6b" md5="a0ceca81055bbb26d30d7c5a5bc178b6" sha1="598f5b6a72ef8d72c03ea0105519b431144f4422">
-			<source frames="1335" pregap="150" duration="00:17:60" size="3139920" crc="5e4b9918" md5="559df951144de60d4c86ec1c2da136ac" sha1="7a1036d651a84fb5e0b752301a312bf255338211" in_zeros="358680" out_zeros="4704" trimmed_crc="7d37dad9" quality="8"/>
+			<source type="AUDIO" frames="1185" omitted_pregap="150" duration="00:15:60" size="2787120" crc="4f799976" md5="2a83ac186a238c336ea4f075a677a34c" sha1="8d10256e5d81bd5b8e1ffcb8c833f84e6c63a728" in_zeros="5880" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 54).ogg" size="459530" crc="19ec1e18" md5="b2509922a993168d9aa9c291ccfe5b41" sha1="10590c9bffacf1cd8b73f00bb85fc0fb98b1ee4e">
-			<source frames="1393" pregap="150" duration="00:18:43" size="3276336" crc="e4442565" md5="45c1dfa8f9eaf1d9c0eb5a6c1a08f73e" sha1="364b350cb9a40db8b581dbf294c2fede0345d3e9" in_zeros="358400" out_zeros="4704" trimmed_crc="2027f1ea" quality="8"/>
+			<source type="AUDIO" frames="1243" omitted_pregap="150" duration="00:16:43" size="2923536" crc="e7f7d851" md5="d9175c420265d33ae1ae7f40003f426f" sha1="b0a3568b912117d6f3118f39997f31042c080a63" in_zeros="5600" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 55).ogg" size="357815" crc="b9181e5d" md5="19518960e061297a703218d0a4e8ef0e" sha1="63592fca4ff412818f9f33d27cff29a505e56686">
-			<source frames="1122" pregap="150" duration="00:14:72" size="2638944" crc="8066fba7" md5="cf1697ef4118cd1877e89b48f2705d92" sha1="d24683ca8442eee51af9789e542b90af1165d863" in_zeros="358268" out_zeros="4704" trimmed_crc="01008dc2" quality="8"/>
+			<source type="AUDIO" frames="972" omitted_pregap="150" duration="00:12:72" size="2286144" crc="8622cc9f" md5="e6822080d5aecbc80b049cfacc39fffc" sha1="96370b304cb1e95189585a6c85daf4b7c42cbb1d" in_zeros="5468" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 56).ogg" size="245421" crc="a604e796" md5="c68dcfcdcb3c5f747f030ab5204e6fa4" sha1="8e3cc6e36a1e6fd8c7cccce4288813f71111366e">
-			<source frames="883" pregap="150" duration="00:11:58" size="2076816" crc="cd4f7272" md5="8d8346591deac2e283bf63b0e0c22340" sha1="49b88097b6294ee898871c9ca8149b354dac8688" in_zeros="359736" out_zeros="4704" trimmed_crc="4a87a9e9" quality="8"/>
+			<source type="AUDIO" frames="733" omitted_pregap="150" duration="00:09:58" size="1724016" crc="d66b0dc3" md5="350b0bfe743f84d9971a6d6743766149" sha1="38f2be6a880209ff01841d20a2bf17d19b313478" in_zeros="6936" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 57).ogg" size="874142" crc="cdde3cdc" md5="b40a5abd7b151f1282ca9578d8c932a0" sha1="2afa3c8b6805f7e1848cd19e99eb5c34bff41c94">
-			<source frames="2136" pregap="150" duration="00:28:36" size="5023872" crc="b60343c4" md5="d21e418b5ba73de3949ec2d8afb38acc" sha1="e41bc2dded20387c7bf9dfc23c7a8b18183b9089" in_zeros="359924" out_zeros="4704" trimmed_crc="9912d16d" quality="8"/>
+			<source type="AUDIO" frames="1986" omitted_pregap="150" duration="00:26:36" size="4671072" crc="635d14dc" md5="fc045900f32d82116d73eeca7ff19727" sha1="ecd6119a03723e685cebb3fc0c0067a81c116ca0" in_zeros="7124" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 58).ogg" size="199360" crc="97bbe678" md5="e7fc6e447ee18ee89937051b892d5065" sha1="e897f8d52c24203bdac5d6e8e0a468672f46f159">
-			<source frames="624" pregap="150" duration="00:08:24" size="1467648" crc="56282098" md5="f91b623cefa9aeea1e9951313a1e96de" sha1="a678522c634fd52bc3c5f9606d2e4e36e99f8f72" in_zeros="358316" out_zeros="4704" trimmed_crc="6e748914" quality="8"/>
+			<source type="AUDIO" frames="474" omitted_pregap="150" duration="00:06:24" size="1114848" crc="720d20c5" md5="29743941854de5e67ce9387343c3e9b8" sha1="509546e9e7c39f467e6c43942890d6e8f34e5c88" in_zeros="5516" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 59).ogg" size="303997" crc="b5eb82d7" md5="fe998e4eac7b6b9b5d21fbfe86c0e879" sha1="77f0d70d57ab7e35e5b5bcbf5a452ecb7e9cc7c1">
-			<source frames="1002" pregap="150" duration="00:13:27" size="2356704" crc="bacafd34" md5="9117f5da709c69adb5a23fd8e2b8f03a" sha1="84a7a22df90162b1504e0581d609629f38abe121" in_zeros="365000" out_zeros="4704" trimmed_crc="cf8f7ca1" quality="8"/>
+			<source type="AUDIO" frames="852" omitted_pregap="150" duration="00:11:27" size="2003904" crc="f6ce0e81" md5="7154f9401c1b28cf3e16b8338dc34d57" sha1="158dfb35d8429977dee3c98935ea5f46537af8c5" in_zeros="12200" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 60).ogg" size="386694" crc="75361de1" md5="2c47991cd8fcd230b0904fafe1b4ce50" sha1="fcb0349b5a62ee13cc30c556d40703ba1db20508">
-			<source frames="1154" pregap="150" duration="00:15:29" size="2714208" crc="bedfcf1a" md5="f304bb94851296e6981724cf236a5f8e" sha1="9d9016edde75f71ec237531849c29276abbf0862" in_zeros="362620" out_zeros="4704" trimmed_crc="4cdb2238" quality="8"/>
+			<source type="AUDIO" frames="1004" omitted_pregap="150" duration="00:13:29" size="2361408" crc="cc78c739" md5="230dca85902a1f8c26e885d4afba63d8" sha1="86916d4bf3267d4c27c74aa3d14299394c677fe5" in_zeros="9820" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="CD/Alone in the Dark 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (Track 61).ogg" size="316110" crc="dd015c8e" md5="bd1cbbb9a6dae02855f2b88779daf303" sha1="5202c2b17dc3844c0fea0c062daf3dfff1f4f3a6">
-			<source frames="910" pregap="150" duration="00:12:10" size="2140320" crc="224cf6ad" md5="9c610d0d01cff43dcdc85bf9cf53341a" sha1="81a8bf65b96d178216810bacea0991188244c5b8" in_zeros="364488" out_zeros="4704" trimmed_crc="a11a0827" quality="8"/>
+			<source type="AUDIO" frames="760" omitted_pregap="150" duration="00:10:10" size="1787520" crc="858c01ed" md5="c83afeb2cbf169cf4e363ce9323dccec" sha1="02e47a418226898de8091ce7ea22d2afa92ce02b" in_zeros="11688" out_zeros="4704" quality="8"/>
 		</rom>
 		<rom name="AITD3.EXE" size="210704" crc="5541cbf2" md5="622e820e2a993a9357b89eb17681d447" sha1="f24b349742bc8205db6c921b9a693dcda9b8c12d" date="1995-02-20 10:06:26"/>
 		<rom name="AN1.PAK" size="306902" crc="66f1688d" md5="5293345bd4307ecddddc0a8ed525e63a" sha1="0d289552f41edee8e8aa888bb7b9d276826d6b11" date="1994-11-01 18:18:00"/>
@@ -1331,27 +1331,27 @@
 		<developer>GT Interactive</developer>
 		<rom name="CD/Bedlam (USA) (Track 1).bin" size="43008" crc="10d89042" md5="73db37b47ede9da7e9fbaae52c6c8a8b" sha1="8a2846aac1e2ceb8a08a9cd5591e9a85228d5cab"/>
 		<rom name="CD/Bedlam (USA) (Track 2).ogg" size="7120649" crc="38120d69" md5="4bb644d4b3f00c61ca14ec8251cc7503" sha1="4a28bdc13260738773b3dda3b3697f522d39859e">
-			<source frames="16921" pregap="149" duration="03:45:46" size="39447744" crc="8fd82103" md5="f69e8a7cd7ef2bf2d2bf75c3e77cf8f0" sha1="0f9539c2ae026cd3c5a9cebd5dc9e9c2d2a16ac7" in_zeros="8230" out_zeros="705273" trimmed_crc="499affb6" quality="8"/>
+			<source type="AUDIO" frames="16772" omitted_pregap="149" duration="03:43:47" size="39447744" crc="8fd82103" md5="f69e8a7cd7ef2bf2d2bf75c3e77cf8f0" sha1="0f9539c2ae026cd3c5a9cebd5dc9e9c2d2a16ac7" in_zeros="8230" out_zeros="705273" quality="8"/>
 		</rom>
 		<rom name="CD/Bedlam (USA) (Track 3).ogg" size="6890903" crc="f280f7b6" md5="6c7ab4156ea35c0c529ef11a828ab1d8" sha1="3508bc291531bd1962d7a9af788d2c3a4cb540b3">
-			<source frames="17056" pregap="150" duration="03:47:31" size="39762912" crc="fd80a18e" md5="476c2fa7b8378e82c681cc6ef014f478" sha1="b4b7b09229b2348ba4ae3b66c65936892f87f409" in_zeros="5854" out_zeros="704210" trimmed_crc="b18f3dd6" quality="8"/>
+			<source type="AUDIO" frames="16906" omitted_pregap="150" duration="03:45:31" size="39762912" crc="fd80a18e" md5="476c2fa7b8378e82c681cc6ef014f478" sha1="b4b7b09229b2348ba4ae3b66c65936892f87f409" in_zeros="5854" out_zeros="704210" quality="8"/>
 		</rom>
 		<rom name="CD/Bedlam (USA) (Track 4).ogg" size="6717248" crc="67ce728f" md5="50bd4c34c6cb24ed25fb05e83b6ad91a" sha1="afc10e48363f7e230faf2e7a5d2047059cfe8bbd">
-			<source frames="16182" pregap="150" duration="03:35:57" size="37707264" crc="85f84193" md5="736e50451c5f813e7e17e76f35c638e8" sha1="a425baa62ccb016f16aee1458cde5ee73895a2d9" in_zeros="10054" out_zeros="700775" trimmed_crc="78ea99a2" quality="8"/>
+			<source type="AUDIO" frames="16032" omitted_pregap="150" duration="03:33:57" size="37707264" crc="85f84193" md5="736e50451c5f813e7e17e76f35c638e8" sha1="a425baa62ccb016f16aee1458cde5ee73895a2d9" in_zeros="10054" out_zeros="700775" quality="8"/>
 		</rom>
 		<rom name="CD/Bedlam (USA) (Track 5).ogg" size="7010672" crc="2454d0ad" md5="964ba848dd852b25a79e3af854825c5e" sha1="9f18a6c1e2219522755deca221d9268eb1c7b451">
-			<source frames="16488" pregap="150" duration="03:39:63" size="38426976" crc="cbc78e0d" md5="9898d6265601fd87b94e63ec77a34044" sha1="6e75d35dea544cd468f63f81dd188cc53499b9ed" in_zeros="9574" out_zeros="701283" trimmed_crc="8d0c4298" quality="8"/>
+			<source type="AUDIO" frames="16338" omitted_pregap="150" duration="03:37:63" size="38426976" crc="cbc78e0d" md5="9898d6265601fd87b94e63ec77a34044" sha1="6e75d35dea544cd468f63f81dd188cc53499b9ed" in_zeros="9574" out_zeros="701283" quality="8"/>
 		</rom>
 		<rom name="CD/Bedlam (USA) (Track 6).ogg" size="6561105" crc="f9f4b454" md5="d2fcb85f03212eb05367f7acff390318" sha1="7b6d32558872d2ee63f8dfa006a5bd5e596950f8">
-			<source frames="15875" pregap="150" duration="03:31:50" size="36985200" crc="ef51c8e2" md5="021b77ec6deb839c1c33c6f063983d4d" sha1="64b115dca8d88da978b0f61754f187ee46366bf9" in_zeros="8472" out_zeros="703474" trimmed_crc="7c8d8c1e" quality="8"/>
+			<source type="AUDIO" frames="15725" omitted_pregap="150" duration="03:29:50" size="36985200" crc="ef51c8e2" md5="021b77ec6deb839c1c33c6f063983d4d" sha1="64b115dca8d88da978b0f61754f187ee46366bf9" in_zeros="8472" out_zeros="703474" quality="8"/>
 		</rom>
 		<rom name="CD/Bedlam (USA) (Track 7).ogg" size="6719378" crc="ff9f068f" md5="241e5cfdce19b9529bf110655b9f4583" sha1="2e4d3ac7064c32ce1f526816d7e2c6e2d47d234d">
-			<source frames="16230" pregap="150" duration="03:36:30" size="37820160" crc="d1beafbf" md5="edc239813c2badd94ac5170460cf1691" sha1="e5f64891ad2d49c4178c22618fb2b45f6e21ddf9" in_zeros="9766" out_zeros="700622" trimmed_crc="c8de90b4" quality="8"/>
+			<source type="AUDIO" frames="16080" omitted_pregap="150" duration="03:34:30" size="37820160" crc="d1beafbf" md5="edc239813c2badd94ac5170460cf1691" sha1="e5f64891ad2d49c4178c22618fb2b45f6e21ddf9" in_zeros="9766" out_zeros="700622" quality="8"/>
 		</rom>
 		<rom name="CD/Bedlam (USA) (Track 8).ogg" size="7026310" crc="f5c0a695" md5="69e445ac3dd6e81896d294b1543f2082" sha1="57f40e516bac71ad903f06ffd6d03f9822743364">
-			<source frames="15637" pregap="150" duration="03:28:37" size="36425424" crc="c4ff5b81" md5="c4dc18ae625ca1c6ebb5824861ab53de" sha1="b0fdcba6499a6578865949249012a1a8b25ee920" in_zeros="10414" out_zeros="699890" trimmed_crc="1ba6e905" quality="8"/>
+			<source type="AUDIO" frames="15487" omitted_pregap="150" duration="03:26:37" size="36425424" crc="c4ff5b81" md5="c4dc18ae625ca1c6ebb5824861ab53de" sha1="b0fdcba6499a6578865949249012a1a8b25ee920" in_zeros="10414" out_zeros="699890" quality="8"/>
 		</rom>
-		<rom name="CD/Bedlam (USA).cue" size="795" crc="18ac13c8" md5="0b8ed4298810e4fd004da7efd1642d66" sha1="3dc187b79c9bbf7bdc1a0ce83433a3553ac09c37"/>
+		<rom name="CD/Bedlam (USA).cue" size="795" crc="354f5359" md5="b70f536a1feaebb4c9ca1d610b1a6301" sha1="923f37b6662660db3997a9b8654d36e5570e0a27"/>
 		<rom name="MIRAGE/BEDLAM/AUTORUN.INF" size="47" crc="9f8dd94b" md5="a0944fabd49ffd533bee44a9d5da1be6" sha1="10d480a7eb11c1a3eb192ef68b589ee9afd5851a" date="1996-08-15 13:45:06"/>
 		<rom name="MIRAGE/BEDLAM/BEDLAM.EXD" size="655133" crc="c784f35d" md5="53814ca001eb7ecd3c6a0f3a6fbafeb9" sha1="a58972c2b384ad4526415b08096cda01e0659de4" date="1996-09-10 09:41:34"/>
 		<rom name="MIRAGE/BEDLAM/BEDLAM.EXE" size="268800" crc="9f99b68d" md5="9e0f04db62d24aeabbbb72d75205a48d" sha1="fad93f84107ca5cdc9d0cea179a8f1d5bd60ef8e" date="1996-09-08 17:53:54"/>
@@ -3871,28 +3871,28 @@
 		<parent>Command &amp; Conquer (1995) (Westwood Studios).dosz</parent>
 		<rom name="Command &amp; Conquer (1995) (Westwood Studios).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="Command &amp; Conquer - The Covert Operations (USA) (Track 1).bin" size="355961088" crc="6aab1c1f" md5="20c40a8666541bdcead5c9e5e1521651" sha1="9ed886bde4a0072db2843280ce2ecda91707388c">
-			<source frames="151344" pregap="0" duration="33:37:69" size="355961088" crc="6aab1c1f" md5="20c40a8666541bdcead5c9e5e1521651" sha1="9ed886bde4a0072db2843280ce2ecda91707388c"/>
+			<source type="MODE1_RAW" frames="151344" duration="33:37:69"/>
 		</rom>
 		<rom name="Command &amp; Conquer - The Covert Operations (USA) (Track 2).ogg" size="9282856" crc="a6cc9e25" md5="576595faedc7c0b1fa3a2a42980ddc09" sha1="00136f94bd8587d693b45db806309b865fb05803">
-			<source frames="22937" pregap="150" duration="05:05:62" size="53947824" crc="e12c37fb" md5="689a55a0ac13d4b430f25491b4ee1f46" sha1="b970d986fe1acc9709b1d59eaa17f6dbd5d89183" in_zeros="356260" out_zeros="5769" trimmed_crc="6bc1178e" quality="8"/>
+			<source type="AUDIO" frames="22787" omitted_pregap="150" duration="05:03:62" size="53595024" crc="ca6f2f11" md5="c58f494c6a65fdbe6beceb56d1bf05cb" sha1="9723c442050ac6e42d9a91870028f13a1de3ffa3" in_zeros="3460" out_zeros="5769" quality="8"/>
 		</rom>
 		<rom name="Command &amp; Conquer - The Covert Operations (USA) (Track 3).ogg" size="8220708" crc="5afc63c0" md5="144abc4ff16a4e7dae9d0b8c7a13cd44" sha1="adb3e5f60994e6dc452d99da945f6d17ece2666e">
-			<source frames="19213" pregap="149" duration="04:16:13" size="45188976" crc="009909a0" md5="e14d82d3b85e6b56a1c358d9b08b7c61" sha1="23960c744c1fc66ba5c89d8cc3cf190319b5fc45" in_zeros="353912" out_zeros="5493" trimmed_crc="89a38045" quality="8"/>
+			<source type="AUDIO" frames="19064" omitted_pregap="149" duration="04:14:14" size="44838528" crc="cac9ea9f" md5="5f7704c4bbde5104cc7425194da1f25d" sha1="8b1d0146774f24939eb30edcf46c7c19ccf1c921" in_zeros="3464" out_zeros="5493" quality="8"/>
 		</rom>
 		<rom name="Command &amp; Conquer - The Covert Operations (USA) (Track 4).ogg" size="6639749" crc="c31275a9" md5="59add16a175de1300cf53d1456cfc954" sha1="b6cd108dc9fdef1ab942afcfb3604c91dbf4436f">
-			<source frames="16657" pregap="149" duration="03:42:07" size="39177264" crc="04106ece" md5="6048f2f412f2afb76078e4b864026afc" sha1="4d818c820472ff32dfe686563197321a8c95eb29" in_zeros="353932" out_zeros="293803" trimmed_crc="3a6ec14c" quality="8"/>
+			<source type="AUDIO" frames="16508" omitted_pregap="149" duration="03:40:08" size="38826816" crc="96e73712" md5="f92df26015fd3f6275832f4f994d97da" sha1="0fa99b5c50b724198c84f2efdb92237d09fcd6bc" in_zeros="3484" out_zeros="293803" quality="8"/>
 		</rom>
 		<rom name="Command &amp; Conquer - The Covert Operations (USA) (Track 5).ogg" size="8291811" crc="ae2c6bb2" md5="b4febc81d68bd6f6908587e66a94fb85" sha1="a82c3488e7a608f148e3057dd8f316d4459deb76">
-			<source frames="20363" pregap="149" duration="04:31:38" size="47893776" crc="a0afaec6" md5="0aaccbf7e8cb30bf123d56a407950eb1" sha1="982e73ee8d0038a21a20d8135dfd2eb879f691b9" in_zeros="353948" out_zeros="5361" trimmed_crc="aa4468cd" quality="8"/>
+			<source type="AUDIO" frames="20214" omitted_pregap="149" duration="04:29:39" size="47543328" crc="dc495fdb" md5="c286a1a0ca37e235a29a887315418c83" sha1="4b69b9ec6340702e519a7560cca02b13dd9297df" in_zeros="3500" out_zeros="5361" quality="8"/>
 		</rom>
 		<rom name="Command &amp; Conquer - The Covert Operations (USA) (Track 6).ogg" size="10071644" crc="5dccf0b9" md5="1a1e31310fdfa15818b44ee82af82ce0" sha1="7bb871167aa1bb36b83044a4b269fb3a84b0532c">
-			<source frames="15915" pregap="149" duration="03:32:15" size="37432080" crc="abeea6e3" md5="cc6ba4f3bf5d60a35c1d138d2716bca9" sha1="787f1b93a80163302afeed6a6bb568b9a867d95f" in_zeros="353928" out_zeros="3844" trimmed_crc="1ba9ff41" quality="8"/>
+			<source type="AUDIO" frames="15766" omitted_pregap="149" duration="03:30:16" size="37081632" crc="2d04c421" md5="7a854e0a13a40990cd523f0c5d4c1d17" sha1="eb9bc34b1f909cef04dc4be309543898c3ca18da" in_zeros="3480" out_zeros="3844" quality="8"/>
 		</rom>
 		<rom name="Command &amp; Conquer - The Covert Operations (USA) (Track 7).ogg" size="8567403" crc="292b9247" md5="000f3058f07498fe97704df075a777f4" sha1="38d2d74c7d8ba3bbf18a045b1b18af7efd7690c2">
-			<source frames="19594" pregap="149" duration="04:21:19" size="46085088" crc="7f2a3051" md5="01ad047c95169e318797d2134b4c9643" sha1="cc25ba3749ba8e6aabdbb47186cbbd2c3b7bbc64" in_zeros="353952" out_zeros="5571" trimmed_crc="88948c65" quality="8"/>
+			<source type="AUDIO" frames="19445" omitted_pregap="149" duration="04:19:20" size="45734640" crc="7fd1095f" md5="90e5810ad288837c50cbd87a9a152ef8" sha1="98a117e16244480536155af2a48c5194dd6e17d6" in_zeros="3504" out_zeros="5571" quality="8"/>
 		</rom>
 		<rom name="Command &amp; Conquer - The Covert Operations (USA) (Track 8).ogg" size="7829468" crc="4a751bfc" md5="3f0300463c1b619612e0186ed58be13a" sha1="bb3b3e0188d433e70183849ef51648f0bc17c083">
-			<source frames="20620" pregap="149" duration="04:34:70" size="48498240" crc="9ebb5f58" md5="640a294d11a0177519417053270a7954" sha1="e78caf599cd08b0ed1be6d085508de9b0790eae2" in_zeros="353928" out_zeros="3124" trimmed_crc="0ca7cf7c" quality="8"/>
+			<source type="AUDIO" frames="20471" omitted_pregap="149" duration="04:32:71" size="48147792" crc="9e32a32a" md5="58a976abf5a675b5b91d4b8c63c0bd9d" sha1="d29d6e3cb755cdcfa929402e06734ca6f79fd42b" in_zeros="3480" out_zeros="3124" quality="8"/>
 		</rom>
 		<rom name="Command &amp; Conquer - The Covert Operations (USA).cue" size="1075" crc="1ffdaa1e" md5="45a4c17859fdfee4fd47e71cab9b0d44" sha1="7cccd506da583389972f9dee8544fd617a06bad2"/>
 		<rom name="HMIDET.386" size="83152" crc="5f211903" md5="b688842b23e50a66c57ac23b481c128f" sha1="0f463c99fb5995d98af07840fb60556a4119d13c" date="1995-05-17 10:10:54"/>
@@ -4221,43 +4221,43 @@
 		<link type="patch">https://soggi.org/misc/3dfx-voodoo-game-patches.htm</link>
 		<link type="driver">https://www.vogonsdrivers.com/getfile.php?fileid=158&amp;menustate=2,1</link>
 		<rom name="Descent II (USA) (Track 1).bin" size="404889744" crc="ed71e0e3" md5="f0cfbfd2b6def2a49df1efbd012dc510" sha1="b9e0093f9e88437b4be0d64f31433e3881a78f83">
-			<source frames="172147" pregap="0" duration="38:15:22" size="404889744" crc="ed71e0e3" md5="f0cfbfd2b6def2a49df1efbd012dc510" sha1="b9e0093f9e88437b4be0d64f31433e3881a78f83"/>
+			<source type="MODE1_RAW" frames="172147" duration="38:15:22"/>
 		</rom>
 		<rom name="Descent II (USA) (Track 2).ogg" size="1362946" crc="84b399b6" md5="a508b2a68a86efd680a355b6f5a71185" sha1="bfc6852073bc16098b6fc8c2d84924955b6f9e5a">
-			<source frames="3051" pregap="150" duration="00:40:51" size="7175952" crc="fa1e4977" md5="0648600cb8d93a6acd862447118d79fd" sha1="fccd0b287f0ee98b3447ac78d75974e3a3951caf" in_zeros="356248" out_zeros="1" trimmed_crc="843287a9" quality="8"/>
+			<source type="AUDIO" frames="2901" omitted_pregap="150" duration="00:38:51" size="6823152" crc="e77fa9b9" md5="c55b95b0e14086ae09429b91c1e6571c" sha1="e86db7d69d9098d19333aca34f195d517d3ae8e4" in_zeros="3448" out_zeros="1" quality="8"/>
 		</rom>
 		<rom name="Descent II (USA) (Track 3).ogg" size="6201988" crc="84b97b6a" md5="3e41972483073b927e0af1d81b948455" sha1="728ee8ac2a768b4f0095f890042905ae6e0a6207">
-			<source frames="11744" pregap="150" duration="02:36:44" size="27621888" crc="3f62e9a5" md5="42639bbd3c99cb19a9d9a46e5d16cef2" sha1="2bb55d6b56283060bb7f320e001a06156108806d" in_zeros="0" out_zeros="1" trimmed_crc="d8850880" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="11594" omitted_pregap="150" duration="02:34:44" size="27269088" crc="b3ee9be6" md5="37548e36715325508071c2d5b5157883" sha1="516c4a22f1006aff5205091e4485dd22c8ff9f14" in_zeros="3448" out_zeros="1" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="Descent II (USA) (Track 4).ogg" size="4331313" crc="d0a2551d" md5="d70bdc2e9f86768ab266189765e97402" sha1="3fb31ddc63fa989feb0246f3b778a448a3d7f755">
-			<source frames="8643" pregap="150" duration="01:55:18" size="20328336" crc="9a07e5ba" md5="6234eb06ebbe977aacffea2aa90978f3" sha1="a0f6bed28679be121e4ceafe397d4247c85b6d28" in_zeros="0" out_zeros="0" trimmed_crc="9a07e5ba" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="8493" omitted_pregap="150" duration="01:53:18" size="19975536" crc="6d426016" md5="da59bab80c1ccfac8b5b99fd9aa49539" sha1="cc427d87e18fa0b13858fdd4d043a0c19a19b1c9" in_zeros="3456" out_zeros="0" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="Descent II (USA) (Track 5).ogg" size="4768616" crc="4d557cfb" md5="271db64434eebba9065cb61d04c6ecc3" sha1="aec7fb8e46331bc330ac11ea474f242b381e094c">
-			<source frames="11217" pregap="150" duration="02:29:42" size="26382384" crc="747f02fe" md5="7138bd9ace3fc0eb908fda64bb394400" sha1="ec435d572f276440cab2f0109b5ee47876293f40" in_zeros="0" out_zeros="18686" trimmed_crc="a5a4b849" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="11067" omitted_pregap="150" duration="02:27:42" size="26029584" crc="811b1625" md5="1a14e059ce176ec92672c12e6d680d88" sha1="fc644b28b50b4fd22c6e0cece5fc851d71e4e9eb" in_zeros="3448" out_zeros="18686" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="Descent II (USA) (Track 6).ogg" size="5753037" crc="43d722d6" md5="4bd117119dc37065ebcf2895cdb14d30" sha1="08f0447acb81a28b8e7de4e3618c55deac11ecc6">
-			<source frames="13703" pregap="150" duration="03:02:53" size="32229456" crc="afe85c89" md5="82e33667bb960b8a092247794baae0b4" sha1="f4035ad88f3ed57021e2758e5ae6d94fb2c872d1" in_zeros="356256" out_zeros="0" trimmed_crc="52cc714f" quality="8"/>
+			<source type="AUDIO" frames="13553" omitted_pregap="150" duration="03:00:53" size="31876656" crc="fb6119d8" md5="6c5bc3eae5c63a155f68e49e9a35b8db" sha1="b32c29459c77c7699d1bd0dff89b0f89dce6460d" in_zeros="3456" out_zeros="0" quality="8"/>
 		</rom>
 		<rom name="Descent II (USA) (Track 7).ogg" size="5810572" crc="fc592e96" md5="e3ecb4167ce0c05221e5f75b62d70dd4" sha1="7030eebd40e4e6291e48bb8d3083d9a06acb2a1a">
-			<source frames="11133" pregap="150" duration="02:28:33" size="26184816" crc="a58bf557" md5="f735b4af7243f7989ed91ed964e4ed42" sha1="645406df03a27a34aae5a58cf00fbb8d6cf1f1e1" in_zeros="0" out_zeros="1" trimmed_crc="8e2a4c01" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="10983" omitted_pregap="150" duration="02:26:33" size="25832016" crc="cc12f0ee" md5="9d7c4daf2e5dbb8f6f90e0049cf0a13d" sha1="271ff43eb4c8ef9e733851bd74dfee752fa4315e" in_zeros="3456" out_zeros="1" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="Descent II (USA) (Track 8).ogg" size="6867349" crc="2daa94ee" md5="f91bacb113f813c3f99d2e7f7b5ad0fb" sha1="a959d6108fa25be96db6641c3000c6903b73d95f">
-			<source frames="15253" pregap="150" duration="03:23:28" size="35875056" crc="e179ed6a" md5="dc080d17a03a280cfb9c0bb2e860ef57" sha1="d300f7e769436cf7322f9df27ae4354fbae30106" in_zeros="0" out_zeros="1" trimmed_crc="781f026d" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="15103" omitted_pregap="150" duration="03:21:28" size="35522256" crc="79f9a1aa" md5="4a66d23e5559eb540f3859b310cac25b" sha1="15bfe773a54ce77cdd5d32f265c8dcb8b5b7e097" in_zeros="3448" out_zeros="1" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="Descent II (USA) (Track 9).ogg" size="5080617" crc="c86d1706" md5="ae53de13853702750cfb7d57464ec5c7" sha1="002d1415c31b7f9aeeb8d9ef46d298fc5657445a">
-			<source frames="12764" pregap="150" duration="02:50:14" size="30020928" crc="0a63943a" md5="6a3717166ff381353a5c0612fef4ac02" sha1="d44552977201f1c6c50a0095fdab3b6795eaa1bf" in_zeros="0" out_zeros="51608" trimmed_crc="11b83e85" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="12614" omitted_pregap="150" duration="02:48:14" size="29668128" crc="d221b601" md5="d55e3936bd2660f1df0dd78a25bdd692" sha1="4366fc48108737b75b660b1fccd1c0c059e9add9" in_zeros="200080" out_zeros="51608" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="Descent II (USA) (Track 10).ogg" size="5203161" crc="2e211c2d" md5="b40aacb5016f3cedd032684776da2c32" sha1="cc9a4f53a72f425c78f13148a6d53dfe27cf0b41">
-			<source frames="12411" pregap="150" duration="02:45:36" size="29190672" crc="8bf31c59" md5="16c3d67e9dd945361cd4bb4ab058ea37" sha1="56ef5c01f7fa9beabf4a14e8bfdb0b93f36724ad" in_zeros="356248" out_zeros="0" trimmed_crc="3578a681" quality="8"/>
+			<source type="AUDIO" frames="12261" omitted_pregap="150" duration="02:43:36" size="28837872" crc="cf1db2ee" md5="3907ca18134a74d68fe18ddf58fc9409" sha1="bcd9279be149d90678b5e5046df46d5773b74e6f" in_zeros="3448" out_zeros="0" quality="8"/>
 		</rom>
 		<rom name="Descent II (USA) (Track 11).ogg" size="5014860" crc="4af4f9ca" md5="3dbda5b0becf3398b02cc2f71b2fc3c4" sha1="6e7f095cc0d4cee599745847f6fa69a5701a9075">
-			<source frames="12194" pregap="150" duration="02:42:44" size="28680288" crc="925ef9d3" md5="16d26eca40b28c7a4e289015603a2022" sha1="f3f173f4c50696e40c9c982ac2ae5a06953ad76c" in_zeros="0" out_zeros="0" trimmed_crc="925ef9d3" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="12044" omitted_pregap="150" duration="02:40:44" size="28327488" crc="c4f1f820" md5="d73a00874f109c82951a5d3c617d1218" sha1="1209e90bfa7b29bd14d3038e41ac6fb31104da66" in_zeros="3456" out_zeros="0" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="Descent II (USA) (Track 12).ogg" size="5369516" crc="ff142eca" md5="d2b2c8b450f0a5126452976512b494d5" sha1="d236964b7203ba7e6a4cf8ee670a769e20c79b01">
-			<source frames="10352" pregap="150" duration="02:18:02" size="24347904" crc="47ae5c2b" md5="7e5b9b4c19cc25cfe79bae2d82b44c8a" sha1="7f6380bf6f83b05568d9aba945803683c795f4c9" in_zeros="0" out_zeros="0" trimmed_crc="47ae5c2b" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="10202" omitted_pregap="150" duration="02:16:02" size="23995104" crc="b36d0333" md5="7f75ea760ac7a9c7819aaf4ddc1c0d70" sha1="27a8f048d92f7b1f88b9c7f8b72d0befd6483e19" in_zeros="3456" out_zeros="0" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="Descent II (USA) (Track 13).ogg" size="6146135" crc="68ca7dec" md5="834ac4a699fb928047694cbc47985cc6" sha1="0dacd8dce51f0c194233eed3b1339e10cee0f5df">
-			<source frames="13172" pregap="150" duration="02:55:47" size="30980544" crc="065c8254" md5="2e248eb1fc3247b98cac5a09db6956a8" sha1="e53f7e242ec223a28a4ff05f8ae1c904029e68cc" in_zeros="0" out_zeros="597050" trimmed_crc="ca6172b2" quality="8" non_silence_pregap="1"/>
+			<source type="AUDIO" frames="13022" omitted_pregap="150" duration="02:53:47" size="30627744" crc="9c7e78aa" md5="33d479a8c4d633bfd16943c51ca784f4" sha1="f0f09137422b22fe30131f500e0de7a7e0bd37f6" in_zeros="5796" out_zeros="597050" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="ALIEN1.PIG" size="5016232" crc="3d44d665" md5="b0619642eeb50ac4d5198499a26b7355" sha1="80e040199b347f8f17f31afb32d551113cf40956" date="1996-02-21 16:51:58"/>
 		<rom name="ALIEN2.PIG" size="4912053" crc="106032b2" md5="a242d46dfd0f16454f6f5377cbb424a5" sha1="2bbb8d941f8b06b56d5ddc7f723a206907a95548" date="1996-02-21 16:55:30"/>
@@ -4730,28 +4730,28 @@
 		<link type="media">http://redump.org/disc/37479/</link>
 		<rom name="DOS.YML" size="17" crc="9e2ade80" md5="5e4e9514ccbed110c66ed799f2b0c449" sha1="7ff552bf9a73a8ba6fe5089d140c63e3d6be659c" data="bWVtX3NpemU6IDY1NTM2DQo="/>
 		<rom name="Elder Scrolls Legend, An - Battlespire (Europe) (Track 1).bin" size="498050112" crc="90f4434b" md5="a4d7567a6073e8451de662e7f973e650" sha1="ec3abaf717701db0078ef0ecd4aff847b7e2ce7c">
-			<source frames="211756" pregap="0" duration="47:03:31" size="498050112" crc="90f4434b" md5="a4d7567a6073e8451de662e7f973e650" sha1="ec3abaf717701db0078ef0ecd4aff847b7e2ce7c"/>
+			<source type="MODE1_RAW" frames="211756" duration="47:03:31"/>
 		</rom>
 		<rom name="Elder Scrolls Legend, An - Battlespire (Europe) (Track 2).ogg" size="4951198" crc="ecd6d904" md5="d37248ae2d7d67c0f587722034b21ff4" sha1="5b98229bcb47b8f8a9cf4cf93d2df7d25313b918">
-			<source frames="14036" pregap="0" duration="03:07:11" size="33012672" crc="58fbca52" md5="ccd4e5ee48a9d583de890e221508938b" sha1="74a6fa664fe75a56d72355fb4458c2bc217efaec" in_zeros="7056" out_zeros="0" trimmed_crc="17a7f6d8" quality="8"/>
+			<source type="AUDIO" frames="14036" duration="03:07:11" size="33012672" crc="58fbca52" md5="ccd4e5ee48a9d583de890e221508938b" sha1="74a6fa664fe75a56d72355fb4458c2bc217efaec" in_zeros="7056" out_zeros="0" quality="8"/>
 		</rom>
 		<rom name="Elder Scrolls Legend, An - Battlespire (Europe) (Track 3).ogg" size="5104591" crc="19cbb319" md5="a77fd6991e77ea4697c5bad044216df7" sha1="0e401beb4863f80ffd7ca109ed28409c54acc2bf">
-			<source frames="13576" pregap="0" duration="03:01:01" size="31930752" crc="f40ec8ee" md5="ed667b525e17f2b4770d765098802c68" sha1="3b4cb5df322f8531db4f33f62fe0a3e0035ca56e" in_zeros="0" out_zeros="0" trimmed_crc="f40ec8ee" quality="8"/>
+			<source type="AUDIO" frames="13576" duration="03:01:01" size="31930752" crc="f40ec8ee" md5="ed667b525e17f2b4770d765098802c68" sha1="3b4cb5df322f8531db4f33f62fe0a3e0035ca56e" in_zeros="0" out_zeros="0" quality="8"/>
 		</rom>
 		<rom name="Elder Scrolls Legend, An - Battlespire (Europe) (Track 4).ogg" size="4785948" crc="a2247693" md5="2624dcf7524223384dae93805628bae6" sha1="28b55997b07967540745999348facc73af3d6631">
-			<source frames="13751" pregap="0" duration="03:03:26" size="32342352" crc="29e42e91" md5="0726b93349994f352e1c57628bf48c0d" sha1="7e16be3142d4e00356cb20b9613b7da3fe926eb2" in_zeros="0" out_zeros="3" trimmed_crc="757961d8" quality="8"/>
+			<source type="AUDIO" frames="13751" duration="03:03:26" size="32342352" crc="29e42e91" md5="0726b93349994f352e1c57628bf48c0d" sha1="7e16be3142d4e00356cb20b9613b7da3fe926eb2" in_zeros="0" out_zeros="3" quality="8"/>
 		</rom>
 		<rom name="Elder Scrolls Legend, An - Battlespire (Europe) (Track 5).ogg" size="5529139" crc="590be79f" md5="724917051e8a115bdbec4cffa519c3fa" sha1="0339c713777b80960480694601a38cbc58f1aeb8">
-			<source frames="14897" pregap="0" duration="03:18:47" size="35037744" crc="5fb00725" md5="126548c555a3caef15cd939aa75be716" sha1="3dc596588f6a17cafe153b379e1be56e29ebb56a" in_zeros="0" out_zeros="6" trimmed_crc="7372a603" quality="8"/>
+			<source type="AUDIO" frames="14897" duration="03:18:47" size="35037744" crc="5fb00725" md5="126548c555a3caef15cd939aa75be716" sha1="3dc596588f6a17cafe153b379e1be56e29ebb56a" in_zeros="0" out_zeros="6" quality="8"/>
 		</rom>
 		<rom name="Elder Scrolls Legend, An - Battlespire (Europe) (Track 6).ogg" size="4908498" crc="8d091ba6" md5="7333c72678d7bf4d0e4b79c6880eb3c5" sha1="f48b514ee3c9d164cf77b27478deb95e4e4adff0">
-			<source frames="13684" pregap="0" duration="03:02:34" size="32184768" crc="4ed9263e" md5="9912caecb1bcce9046e79801bfb725d7" sha1="c67bd308b0618fe6f1ac0794df1d1f0df54ead17" in_zeros="0" out_zeros="1" trimmed_crc="d2cf1ac4" quality="8"/>
+			<source type="AUDIO" frames="13684" duration="03:02:34" size="32184768" crc="4ed9263e" md5="9912caecb1bcce9046e79801bfb725d7" sha1="c67bd308b0618fe6f1ac0794df1d1f0df54ead17" in_zeros="0" out_zeros="1" quality="8"/>
 		</rom>
 		<rom name="Elder Scrolls Legend, An - Battlespire (Europe) (Track 7).ogg" size="4759393" crc="3a174fb6" md5="eec84cfc6cbc71a2e652bcce20e8ed28" sha1="007b6fe1a9c3f393976519295cd790a142728c0d">
-			<source frames="14321" pregap="0" duration="03:10:71" size="33682992" crc="5e0b7956" md5="5f59eb736e750136623eb8250f50d1be" sha1="cc6b0f587e92a761e01c23ce2bd01831e64e7047" in_zeros="0" out_zeros="0" trimmed_crc="5e0b7956" quality="8"/>
+			<source type="AUDIO" frames="14321" duration="03:10:71" size="33682992" crc="5e0b7956" md5="5f59eb736e750136623eb8250f50d1be" sha1="cc6b0f587e92a761e01c23ce2bd01831e64e7047" in_zeros="0" out_zeros="0" quality="8"/>
 		</rom>
 		<rom name="Elder Scrolls Legend, An - Battlespire (Europe) (Track 8).ogg" size="5097955" crc="f0d2adf1" md5="505fdd479397b7909cdeff47ce6234fa" sha1="d2c1cb10b820b32e4fd9f6f573da09577764d331">
-			<source frames="14165" pregap="0" duration="03:08:65" size="33316080" crc="8726abe9" md5="b8878c15fee3870ba54f32c490390b98" sha1="addf7f82cf8baba5493aff4f8135a75276bc4295" in_zeros="0" out_zeros="7057" trimmed_crc="349a3876" quality="8"/>
+			<source type="AUDIO" frames="14165" duration="03:08:65" size="33316080" crc="8726abe9" md5="b8878c15fee3870ba54f32c490390b98" sha1="addf7f82cf8baba5493aff4f8135a75276bc4295" in_zeros="0" out_zeros="7057" quality="8"/>
 		</rom>
 		<rom name="Elder Scrolls Legend, An - Battlespire (Europe).cue" size="928" crc="e055ffd2" md5="081a6d6132d5bfc9277675549fb2af41" sha1="b7361323050e8c21e66269b0cb177623346fe8d6"/>
 		<rom name="GAME.EXE" size="1228254" crc="f688e31d" md5="809fb0dbc3f3ab9575c142bce4fadb20" sha1="3eaeb69e25a13d29bf726cb5530c7d6a2ece83a3" date="1998-01-21 17:32:34"/>
@@ -5188,24 +5188,26 @@
 		<link type="media">http://redump.org/disc/2072/</link>
 		<link type="driver">https://www.vogonsdrivers.com/getfile.php?fileid=158&amp;menustate=2,1</link>
 		<rom name="DOS.YML" size="17" crc="9e2ade80" md5="5e4e9514ccbed110c66ed799f2b0c449" sha1="7ff552bf9a73a8ba6fe5089d140c63e3d6be659c"/>
-		<rom name="Elder Scrolls Adventures, The - Redguard (USA) (Disc 2) (Play Disc) (Track 1).bin" size="550005792" crc="414dddb5" md5="e1461e632f81a6704b526637a38725a8" sha1="6d850011c7caf838c6b4539ca3e81dc1231b48bd"/>
+		<rom name="Elder Scrolls Adventures, The - Redguard (USA) (Disc 2) (Play Disc) (Track 1).bin" size="550005792" crc="414dddb5" md5="e1461e632f81a6704b526637a38725a8" sha1="6d850011c7caf838c6b4539ca3e81dc1231b48bd">
+			<source type="MODE1_RAW" frames="233846" duration="51:57:71"/>
+		</rom>
 		<rom name="Elder Scrolls Adventures, The - Redguard (USA) (Disc 2) (Play Disc) (Track 2).ogg" size="9218345" crc="8cb4a47c" md5="4abbc636a0ba5f2c29056d4a83a66289" sha1="f2e8aa1b445477aa8f4424cfd17f0583169d69a1">
-			<source frames="26029" pregap="150" duration="05:47:04" size="60867408" crc="597f5519" md5="e33742ace3a48922093c0a2715c4132e" sha1="62b38f113516adf2aca1e84199c3c38acdf102e2" in_zeros="2756" out_zeros="4860" trimmed_crc="10529581" quality="8"/>
+			<source type="AUDIO" frames="25879" omitted_pregap="150" duration="05:45:04" size="60867408" crc="597f5519" md5="e33742ace3a48922093c0a2715c4132e" sha1="62b38f113516adf2aca1e84199c3c38acdf102e2" in_zeros="2756" out_zeros="4860" quality="8"/>
 		</rom>
 		<rom name="Elder Scrolls Adventures, The - Redguard (USA) (Disc 2) (Play Disc) (Track 3).ogg" size="1974771" crc="ccd04874" md5="570dcfb991cfa008c176147d12e0fbb5" sha1="452ce9e1d970175fb6998b29904a8795fde20f1a">
-			<source frames="4986" pregap="0" duration="01:06:36" size="11727072" crc="0b60634f" md5="a744a8d1d36184ee7ec1fbe1a8b078df" sha1="4515c3062dda5d3fcc2302571b727c9ad3b736c9" in_zeros="2756" out_zeros="3692" trimmed_crc="8327a0f3" quality="8"/>
+			<source type="AUDIO" frames="4986" duration="01:06:36" size="11727072" crc="0b60634f" md5="a744a8d1d36184ee7ec1fbe1a8b078df" sha1="4515c3062dda5d3fcc2302571b727c9ad3b736c9" in_zeros="2756" out_zeros="3692" quality="8"/>
 		</rom>
 		<rom name="Elder Scrolls Adventures, The - Redguard (USA) (Disc 2) (Play Disc) (Track 4).ogg" size="3793962" crc="04870276" md5="795bd42c2a54036bbc9eeac365099d5d" sha1="f0e77300465ce987b88682498e62809d9e159418">
-			<source frames="9730" pregap="0" duration="02:09:55" size="22884960" crc="fe45738b" md5="2f81d7a40cbe85bd5ad594a670e3e40e" sha1="642bd338ac19460fbcd339d31b3c489fa18e72ae" in_zeros="2756" out_zeros="2616" trimmed_crc="37a6963a" quality="8"/>
+			<source type="AUDIO" frames="9730" duration="02:09:55" size="22884960" crc="fe45738b" md5="2f81d7a40cbe85bd5ad594a670e3e40e" sha1="642bd338ac19460fbcd339d31b3c489fa18e72ae" in_zeros="2756" out_zeros="2616" quality="8"/>
 		</rom>
 		<rom name="Elder Scrolls Adventures, The - Redguard (USA) (Disc 2) (Play Disc) (Track 5).ogg" size="5335484" crc="cc02d3ed" md5="618acc9105be122bfdae5248bf8e080a" sha1="2010701ce7bd31ef7dc377a49c45dd9337f66277">
-			<source frames="13351" pregap="0" duration="02:58:01" size="31401552" crc="7f23de5b" md5="6f3874607ca4a747630ee6cc6bc381ff" sha1="5ac6f16e946846437b12565bc87e85480dd1cb62" in_zeros="2756" out_zeros="5672" trimmed_crc="9c99c52a" quality="8"/>
+			<source type="AUDIO" frames="13351" duration="02:58:01" size="31401552" crc="7f23de5b" md5="6f3874607ca4a747630ee6cc6bc381ff" sha1="5ac6f16e946846437b12565bc87e85480dd1cb62" in_zeros="2756" out_zeros="5672" quality="8"/>
 		</rom>
 		<rom name="Elder Scrolls Adventures, The - Redguard (USA) (Disc 2) (Play Disc) (Track 6).ogg" size="5894931" crc="f94eba0f" md5="ca00636ecd071321741fed5d88fd7ed7" sha1="d0d193e973eb592a9891f8dfb4b962c61b2571a9">
-			<source frames="16412" pregap="0" duration="03:38:62" size="38601024" crc="e76b4b37" md5="0982f377e9d39c0ef833f42d43143e50" sha1="c20766d8644b8ef64ed6f312db4c5c619e204990" in_zeros="3176" out_zeros="2792" trimmed_crc="dd477917" quality="8"/>
+			<source type="AUDIO" frames="16412" duration="03:38:62" size="38601024" crc="e76b4b37" md5="0982f377e9d39c0ef833f42d43143e50" sha1="c20766d8644b8ef64ed6f312db4c5c619e204990" in_zeros="3176" out_zeros="2792" quality="8"/>
 		</rom>
 		<rom name="Elder Scrolls Adventures, The - Redguard (USA) (Disc 2) (Play Disc) (Track 7).ogg" size="1478294" crc="d61fd649" md5="13414fe7fdb6041fb27b7a14026fbd28" sha1="a6f260efbc01ec0df4dcc74ff11fa7b765d1e38c">
-			<source frames="4164" pregap="0" duration="00:55:39" size="9793728" crc="0a6aefe8" md5="bd7d41b467c4dd95c7f6102db0976afb" sha1="38382916e9347af7a8ec3304735741387e6467b3" in_zeros="2756" out_zeros="4404" trimmed_crc="9ccf5669" quality="8"/>
+			<source type="AUDIO" frames="4164" duration="00:55:39" size="9793728" crc="0a6aefe8" md5="bd7d41b467c4dd95c7f6102db0976afb" sha1="38382916e9347af7a8ec3304735741387e6467b3" in_zeros="2756" out_zeros="4404" quality="8"/>
 		</rom>
 		<rom name="Elder Scrolls Adventures, The - Redguard (USA) (Disc 2) (Play Disc).cue" size="974" crc="afb6f685" md5="94c36a7feae770967b820b0a26c0d20c" sha1="be55734ae7f4d7d44fb66d1ae4985268cf5f55df"/>
 		<rom name="Redguard/3dart/art_pal.col" size="776" crc="31a78b68" md5="75bdc8d8afa5450bef4c488f59dfd0bc" sha1="3d02d3fee074e12331dfb8e69d57bc6a38ce8da6"/>
@@ -9169,25 +9171,25 @@
 		<developer>Virgin Interactive</developer>
 		<rom name="CD/Ignition (USA) (En,Es,It,Sv) (Rerelease) (Track 1).bin" size="43008" crc="10d89042" md5="73db37b47ede9da7e9fbaae52c6c8a8b" sha1="8a2846aac1e2ceb8a08a9cd5591e9a85228d5cab"/>
 		<rom name="CD/Ignition (USA) (En,Es,It,Sv) (Rerelease) (Track 2).ogg" size="10548978" crc="ef4bdca2" md5="98e1d70cdbf41bf6cfca8ae4aa99f09a" sha1="2e1aabdf991676ded32e128e9d318f5b5dcccbf4">
-			<source frames="23175" pregap="150" duration="05:09:00" size="54507600" crc="c02e7678" md5="5d212fd4a265dd3463855b2d363cc6a4" sha1="85ce41c0126e8769e0b56c725d2beb6f906215f1" in_zeros="363044" out_zeros="774237" trimmed_crc="8adb6aa8" quality="8"/>
+			<source type="AUDIO" frames="23025" omitted_pregap="150" duration="05:07:00" size="54154800" crc="0aff8845" md5="4f625c0305791893c8e5fe843146ba79" sha1="ea57cc0f808e8a00b8f9409ea388b1c90671f5c6" in_zeros="10244" out_zeros="774237" quality="8"/>
 		</rom>
 		<rom name="CD/Ignition (USA) (En,Es,It,Sv) (Rerelease) (Track 3).ogg" size="15298429" crc="4964ce8c" md5="677c1382e5fedee3c2d6c3547c255452" sha1="f83c4cf076e1a894be4b3414107c2fb6a267fa3f">
-			<source frames="31725" pregap="150" duration="07:03:00" size="74617200" crc="780a94ff" md5="e0562f9a238f489b740195395fc4c855" sha1="9f7502433d6df5c36c8ab88908099ec63d9b3bf1" in_zeros="366512" out_zeros="650337" trimmed_crc="ef4a9cd9" quality="8"/>
+			<source type="AUDIO" frames="31575" omitted_pregap="150" duration="07:01:00" size="74264400" crc="49702749" md5="3d52b2d55a3713e67e2414fa7ef14e40" sha1="c8138db4aa5d05ae7e0d479fea5e8db9d6596fe8" in_zeros="13712" out_zeros="650337" quality="8"/>
 		</rom>
 		<rom name="CD/Ignition (USA) (En,Es,It,Sv) (Rerelease) (Track 4).ogg" size="10331950" crc="48b9666d" md5="db13d060455f00c64eb377da3154078c" sha1="53f42ec46bea22c8252379487f7056f91e78f061">
-			<source frames="22950" pregap="150" duration="05:06:00" size="53978400" crc="33e1cb1e" md5="23039e3f473e5bd6eb8432df8e3d9175" sha1="0a4ca1802afafc185475ca55c5c611b8ac6f223f" in_zeros="363064" out_zeros="852516" trimmed_crc="597104c3" quality="8"/>
+			<source type="AUDIO" frames="22800" omitted_pregap="150" duration="05:04:00" size="53625600" crc="40495d60" md5="7dc90f97e61f534fd72f70c20d0dd3e3" sha1="d9733ba9a42e7160f73573958e6b42c4721cfa9a" in_zeros="10264" out_zeros="852516" quality="8"/>
 		</rom>
 		<rom name="CD/Ignition (USA) (En,Es,It,Sv) (Rerelease) (Track 5).ogg" size="11014769" crc="d3fa9a51" md5="6f55032fbdbbc1a76b85bbec1251880b" sha1="f614f5ec1cc95670465e703c02f9e4950582cab3">
-			<source frames="20925" pregap="150" duration="04:39:00" size="49215600" crc="c975aca5" md5="3c1378ac5af78caaa024fa19d812787e" sha1="914080ddd494e9caae46acf5818264be26b0d7b7" in_zeros="362932" out_zeros="796780" trimmed_crc="ed8f15ed" quality="8"/>
+			<source type="AUDIO" frames="20775" omitted_pregap="150" duration="04:37:00" size="48862800" crc="acc4d50a" md5="b05f2c6cdcc735279dafd4a346cc7611" sha1="e5fe55c18cecd3fc2a88b60e8658045a3eab6683" in_zeros="10132" out_zeros="796780" quality="8"/>
 		</rom>
 		<rom name="CD/Ignition (USA) (En,Es,It,Sv) (Rerelease) (Track 6).ogg" size="10440677" crc="f649881c" md5="d9e7a7bbcaf775d06d901438c32f5915" sha1="8d1ade910d7424b489a82a24fc939a534f430b0a">
-			<source frames="22050" pregap="150" duration="04:54:00" size="51861600" crc="82a53705" md5="2d46170f109789e4026ace71b9bdd0e1" sha1="297d1f43e3f0e76431f1095ddd326039803de8a6" in_zeros="363012" out_zeros="852788" trimmed_crc="66274cbf" quality="8"/>
+			<source type="AUDIO" frames="21900" omitted_pregap="150" duration="04:52:00" size="51508800" crc="64157aba" md5="73d99758ba5c2296f075945189096110" sha1="3e68a94cc9fa463734259378272c6d9f73543427" in_zeros="10212" out_zeros="852788" quality="8"/>
 		</rom>
 		<rom name="CD/Ignition (USA) (En,Es,It,Sv) (Rerelease) (Track 7).ogg" size="11445395" crc="ccac63fb" md5="70155bb8c7e31b45c3f22e5285ab04be" sha1="5e9399ca1bc6bf9d6dfd21f47b8dfbfea7262b3a">
-			<source frames="25425" pregap="150" duration="05:39:00" size="59799600" crc="6af43813" md5="9df65a44fb0183680348729e68d3d97a" sha1="30c11203e143fc53e687e7a40ec4d2e5ed96fdb6" in_zeros="362840" out_zeros="848520" trimmed_crc="8b9a5cce" quality="8"/>
+			<source type="AUDIO" frames="25275" omitted_pregap="150" duration="05:37:00" size="59446800" crc="258dc26f" md5="8f585e733f5c656e7ab5bca1cb37228f" sha1="2e24317dbbd73727d1c0c886a5735592413564f7" in_zeros="10040" out_zeros="848520" quality="8"/>
 		</rom>
 		<rom name="CD/Ignition (USA) (En,Es,It,Sv) (Rerelease) (Track 8).ogg" size="409266" crc="2fbf4f69" md5="715bfdc636ebc9996aa184f7524fab6d" sha1="7e8a2ff9fe5573282c0e9eb80771177b999a3edb">
-			<source frames="1275" pregap="150" duration="00:17:00" size="2998800" crc="4bed9329" md5="0aed2d014e5a377b0b669b84d26c7fb7" sha1="7292079ab001235ed4056eab698534e67f48f574" in_zeros="362834" out_zeros="519654" trimmed_crc="47699c81" quality="8"/>
+			<source type="AUDIO" frames="1125" omitted_pregap="150" duration="00:15:00" size="2646000" crc="d1574257" md5="03fa744ce2b59db71b7422d474c3997f" sha1="35d5d79503ccb5355bf930bb33c0c679f3146ded" in_zeros="10034" out_zeros="519654" quality="8"/>
 		</rom>
 		<rom name="CD/Ignition (USA) (En,Es,It,Sv) (Rerelease).cue" size="1019" crc="6a9b8906" md5="ffd8eee72dd8ce6f354a72d9397949c1" sha1="6ec68c9c5a73646daa0c51d9242d42f0eba3930f"/>
 		<rom name="BALTAZAR/DATA/BILAR.PIC" size="125652" crc="db986595" md5="543e136f3889e8b2f22b3b27edc26d60" sha1="2e77629520b7055b7092033a5fb9b3264a37658c" date="1997-07-04 19:53:02"/>
