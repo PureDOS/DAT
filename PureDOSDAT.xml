@@ -14088,8 +14088,11 @@
 	</game>
 	<game name="Star Control (1990) (Toys for Bob).dosz">
 		<description>Star Control</description>
-		<comment>Installed from Redump-verified CD-ROM of Star Control Collection (USA, Europe) - TGOD 2510 will also work</comment>
-		<comment_dosc>IPS patches to bypass copy-protection (pressing enter will work for any question), auto-starts</comment_dosc>
+		<comment>Installed from either Star Control Collection CD-ROM re-release or original English floppy disk(s)</comment>
+		<comment_dosc>Copy-protection removed (pressing enter will work for any question)</comment_dosc>
+		<link type="media">http://redump.org/disc/20924/</link>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=37</link>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=2510</link>
 		<year>1990</year>
 		<developer>Toys for Bob</developer>
 		<rom name="DISKFREE.EXE" size="3067" crc="7ca751d0" md5="4d49f9da708c99bc9ad7d3ef3d2b809e" sha1="81ea04ea965515669ce8ef9e48657f7ffaf9bb90" date="1990-06-20 12:56:30"/>
