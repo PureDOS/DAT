@@ -658,6 +658,26 @@
 		<variant>Installation</variant>
 		<rom name="INSTALL.EXE" size="295161" crc="a2a13805" md5="49c78250644e06b5335205076b396dc3" sha1="98d918fa5dfed882eb6e6f780cb7a88b0aa6f0e6" date="1992-10-20 02:06:54"/>
 	</game>
+	<game name="Star Control (1990) (Toys for Bob) (Installation, CD-ROM).dosz">
+		<description>Star Control</description>
+		<comment>Redump-verified CD-ROM of Star Control Collection (USA, Europe)</comment>
+		<year>1990</year>
+		<developer>Toys for Bob</developer>
+		<variant>Installation</variant>
+		<rom name="Star Control Collection (USA, Europe).chd" size="37444608" crc="34610232" md5="aee6daab3c1f6215356d9d1aef0f5f0c" sha1="59fac6c89ddd984541d572f95499f648b4a0f55b">
+			<track number="1" type="MODE1_RAW" frames="15285" pregap="0" duration="03:23:60" size="35950320" crc="4ba73ae3" md5="d57f82e6c85263d42da91d598f687978" sha1="0d8379ca6a7d467c9a501939ea96f077c5299b6b" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
+	<game name="Star Control (1990) (Toys for Bob) (Installation, Floppy).dosz">
+		<description>Star Control</description>
+		<comment>Floppies match TGOD 2510</comment>
+		<year>1990</year>
+		<developer>Toys for Bob</developer>
+		<variant>Floppy Installation</variant>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C2510/</link>
+		<rom name="disk1.img" size="368640" crc="a9b2ac3b" md5="5b3877956bf71f575515579db1c96593" sha1="5e635f8b6f13d69d0b8402be432536c5a710a212" date="2018-03-16 13:33:04"/>
+		<rom name="disk2.img" size="368640" crc="771df3d1" md5="565dcc9dd7bc15b189035cdd7f230b04" sha1="4f572a4a3bb501711a08837bdc71e95efd6edd80" date="2018-03-16 13:33:08"/>
+	</game>
 	<game name="Star Wars - TIE Fighter - Defender of the Empire (1994) (LucasArts) (Installation, Floppy Version).dosz">
 		<description>Star Wars - TIE Fighter - Defender of the Empire</description>
 		<year>1994</year>
