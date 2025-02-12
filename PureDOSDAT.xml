@@ -5057,9 +5057,11 @@
 		<rom name="GO.BAT" size="4" crc="5b22c41e" md5="6a00e502b10dc993745383d2f72dfc70" sha1="fd683a4877b9272bae94de610171a5304a16c28e"/>
 		<rom name="GOB2.EXE" size="106239" crc="f7f89d74" md5="7670a2155ea4712603cea654321956a2" sha1="c4f0400eae7f01934b407fffd64005ca564b757f"/>
 		<rom name="GOB2.LIC" size="4338" crc="3aaf9860" md5="7dc7854378b42899f98c9bfb660bc3bf" sha1="3e63ed13780631f21ca0cf6c5d605e51216e5d9e"/>
-		<rom name="Gobliins 2 - The Prince Buffoon (Europe) (En,Fr,De,Es,It) (Track 1).bin" size="15233904" crc="91d2dab4" md5="dc4eccb413368caf04d082616a5ae0d6" sha1="5eae986512d0b7b87be6dd3d57aebfc419a72333"/>
-		<rom name="Gobliins 2 - The Prince Buffoon (Europe) (En,Fr,De,Es,It) (Track 2).ogg" size="56353335" crc="46f0a2b2" md5="2001f31d2151b2395b72130fcdda59ff" sha1="e1e177f4543da545027af30fb950c017d217af57">
-			<source frames="160349" pregap="225" duration="35:37:74" size="376611648" crc="cc8da2f6" md5="e2a0e1e23dba263ee68cbd956f897547" sha1="d07edc27e9165af8d35b6c9369655bb1e965a3e6" in_zeros="1844" out_zeros="406670" trimmed_crc="39ad5776" quality="8"/>
+		<rom name="Gobliins 2 - The Prince Buffoon (Europe) (En,Fr,De,Es,It) (Track 1).bin" size="15233904" crc="91d2dab4" md5="dc4eccb413368caf04d082616a5ae0d6" sha1="5eae986512d0b7b87be6dd3d57aebfc419a72333">
+			<source type="MODE1_RAW" frames="6477" duration="01:26:27"/>
+		</rom>
+		<rom name="Gobliins 2 - The Prince Buffoon (Europe) (En,Fr,De,Es,It) (Track 2).ogg" size="56644723" crc="11ecc784" md5="3420588ae1c1e0a63b06435581bc5e8e" sha1="3b05ff44f357c64fed14e2cfdfaed8c678228a24">
+			<source type="AUDIO" frames="160124" omitted_pregap="225" duration="35:34:74" size="376611648" crc="7d7f524e" md5="e2eced199a3e927e65c67e79afe57577" sha1="70ce5897ef36cb2314ae5fde751def016176823b" in_zeros="4196" out_zeros="404318" quality="8" non_silence_pregap="1"/>
 		</rom>
 		<rom name="Gobliins 2 - The Prince Buffoon (Europe) (En,Fr,De,Es,It).cue" size="279" crc="614ca2a5" md5="17fdf71834eb5c4137df5e094aa57d4b" sha1="3eb8447c613f404889f1e4978294b0e83c306500"/>
 		<rom name="INSTALL.ASK" size="15885" crc="13a2b422" md5="c6ec13b59a219a41686c452879933565" sha1="79d172d62f2d6b3839b18ec44f9e45cb3e2fce53"/>
@@ -11476,6 +11478,5 @@
 		<rom name="ZORK0.EG1" size="333654" crc="dc4dec33" md5="115f4f4e62a433f64ef7068899b182b4" sha1="31fb447303d493b7f3a4f09e40c87710674aee77"/>
 		<rom name="ZORK0.ZIP" size="300032" crc="3da54ffa" md5="d83c343d71ac4c03661488148876b370" sha1="9a1d7dff71e1a571295c81439ffe706460af03fb"/>
 		<rom name="ZORKZERO.EXE" size="47494" crc="4c164f13" md5="1555705793d0aef49da4433d0ebd325c" sha1="67690d275101afca4c29e211c2a4f9f8a8a7aa26"/>
->>>>>>> main
 	</game>
 </datafile>
