@@ -8640,23 +8640,28 @@
 		<rom name="SETUP.EXE" size="45745" crc="0025fe95" md5="675564fcd380f5ef9beb0e7b21a51f79" sha1="f8644ace438896f9a788629d8da869bd34926f91" date="1996-06-10 01:00:02"/>
 		<rom name="TNT.WAD" size="18654796" crc="d4bb05c0" md5="1d39e405bf6ee3df69a8d2646c8d5c49" sha1="4a65c8b960225505187c36040b41a40b152f8f3e" date="1996-11-14 12:10:34"/>
 	</game>
-	<game name="Gobliins 2 (1992) (Coktel Vision).dosz">
-		<description>Gobliins 2</description>
-		<comment>Installed from CD, CD image made from BIN/CUE</comment>
-		<comment_dosc>Sound and language config</comment_dosc>
+	<game name="Gobliins 2 - The Prince Buffoon (1992) (Coktel Vision).dosz">
+		<description>Gobliins 2 - The Prince Buffoon</description>
+		<comment>Installed from CD</comment>
+		<comment_dosc>English language, Sound Blaster, and auto start. French, German, Spanish, and Italian options</comment_dosc>
 		<year>1992</year>
 		<developer>Coktel Vision</developer>
-		<rom name="GOB2.EXE" size="106239" crc="f7f89d74" md5="7670a2155ea4712603cea654321956a2" sha1="c4f0400eae7f01934b407fffd64005ca564b757f" date="1993-09-20 19:44:24"/>
-		<rom name="GOB2.LIC" size="4338" crc="3aaf9860" md5="7dc7854378b42899f98c9bfb660bc3bf" sha1="3e63ed13780631f21ca0cf6c5d605e51216e5d9e" date="1993-09-15 18:48:42"/>
-		<rom name="Gobliins 2.chd" size="400747392" crc="59522ab4" md5="29f7b166acc890f6626cce1d02698ba0" sha1="3b722d4aac269aaf5743e0abc066d0f5e48c5a47">
-			<track number="1" type="MODE1_RAW" frames="6702" pregap="0" duration="01:29:27" size="15763104" crc="e62fa8de" md5="689d8bd347b99adef1e878a8541b91bd" sha1="3699f8e72040a5e6fa3c8d2a07df6ad96664e539"/>
-			<track number="2" type="AUDIO" frames="160123" pregap="0" duration="35:34:73" size="376609296" crc="11c42e68" md5="f8011acb718c1f4d98ce163af6ad326f" sha1="4a1942024e0b4a3ea33998fe7abb4f1b5106321f"/>
+		<link type="media">http://redump.org/disc/31095/</link>
+		<rom name="GO.BAT" size="4" crc="5b22c41e" md5="6a00e502b10dc993745383d2f72dfc70" sha1="fd683a4877b9272bae94de610171a5304a16c28e"/>
+		<rom name="GOB2.EXE" size="106239" crc="f7f89d74" md5="7670a2155ea4712603cea654321956a2" sha1="c4f0400eae7f01934b407fffd64005ca564b757f"/>
+		<rom name="GOB2.LIC" size="4338" crc="3aaf9860" md5="7dc7854378b42899f98c9bfb660bc3bf" sha1="3e63ed13780631f21ca0cf6c5d605e51216e5d9e"/>
+		<rom name="Gobliins 2 - The Prince Buffoon (Europe) (En,Fr,De,Es,It) (Track 1).bin" size="15233904" crc="91d2dab4" md5="dc4eccb413368caf04d082616a5ae0d6" sha1="5eae986512d0b7b87be6dd3d57aebfc419a72333">
+			<source type="MODE1_RAW" frames="6477" duration="01:26:27"/>
 		</rom>
-		<rom name="INSTALL.ASK" size="15885" crc="13a2b422" md5="c6ec13b59a219a41686c452879933565" sha1="79d172d62f2d6b3839b18ec44f9e45cb3e2fce53" date="1993-09-02 11:01:16"/>
-		<rom name="INTRO.STK" size="4541724" crc="72b262c0" md5="0540bc732f19bac1bb860515be0f4459" sha1="5bc1c8a3832cdf62d7938b0fccd7cf9fd2b77868" date="1993-09-27 13:32:50"/>
-		<rom name="MDO.DEF" size="172" crc="5316b29a" md5="d0f7baa12f092acc432055af2175c4fc" sha1="bbe67a1ceb38abc1c513a835eaf445d78397c761" date="1993-09-27 12:39:34"/>
-		<rom name="SETUP.EXE" size="70623" crc="14449fa7" md5="6db7a8009111699187c299e6ea955397" sha1="e951fc9328da4539f60ab33d00c21e319f85638f" date="1993-09-17 18:24:28"/>
-		<rom name="SETUP.PUB" size="2658" crc="adc3f8ce" md5="73edf1b9a72c7dd12359429146b6fe0f" sha1="8ef5580f5915650b4e73640f4a52c21769c9d15c" date="1993-06-09 19:06:28"/>
+		<rom name="Gobliins 2 - The Prince Buffoon (Europe) (En,Fr,De,Es,It) (Track 2).ogg" size="56644723" crc="11ecc784" md5="3420588ae1c1e0a63b06435581bc5e8e" sha1="3b05ff44f357c64fed14e2cfdfaed8c678228a24">
+			<source type="AUDIO" frames="160124" omitted_pregap="225" duration="35:34:74" size="376611648" crc="7d7f524e" md5="e2eced199a3e927e65c67e79afe57577" sha1="70ce5897ef36cb2314ae5fde751def016176823b" in_zeros="4196" out_zeros="404318" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="Gobliins 2 - The Prince Buffoon (Europe) (En,Fr,De,Es,It).cue" size="279" crc="614ca2a5" md5="17fdf71834eb5c4137df5e094aa57d4b" sha1="3eb8447c613f404889f1e4978294b0e83c306500"/>
+		<rom name="INSTALL.ASK" size="15885" crc="13a2b422" md5="c6ec13b59a219a41686c452879933565" sha1="79d172d62f2d6b3839b18ec44f9e45cb3e2fce53"/>
+		<rom name="INTRO.STK" size="4541724" crc="72b262c0" md5="0540bc732f19bac1bb860515be0f4459" sha1="5bc1c8a3832cdf62d7938b0fccd7cf9fd2b77868"/>
+		<rom name="MDO.DEF" size="172" crc="5316b29a" md5="d0f7baa12f092acc432055af2175c4fc" sha1="bbe67a1ceb38abc1c513a835eaf445d78397c761"/>
+		<rom name="SETUP.EXE" size="70623" crc="14449fa7" md5="6db7a8009111699187c299e6ea955397" sha1="e951fc9328da4539f60ab33d00c21e319f85638f"/>
+		<rom name="SETUP.PUB" size="2658" crc="adc3f8ce" md5="73edf1b9a72c7dd12359429146b6fe0f" sha1="8ef5580f5915650b4e73640f4a52c21769c9d15c"/>
 	</game>
 	<game name="Grand Theft Auto (1997) (DMA Design).dosz">
 		<description>Grand Theft Auto</description>
