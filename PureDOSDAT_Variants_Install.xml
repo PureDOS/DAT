@@ -678,6 +678,16 @@
 		<rom name="disk1.img" size="368640" crc="a9b2ac3b" md5="5b3877956bf71f575515579db1c96593" sha1="5e635f8b6f13d69d0b8402be432536c5a710a212" date="2018-03-16 13:33:04"/>
 		<rom name="disk2.img" size="368640" crc="771df3d1" md5="565dcc9dd7bc15b189035cdd7f230b04" sha1="4f572a4a3bb501711a08837bdc71e95efd6edd80" date="2018-03-16 13:33:08"/>
 	</game>
+	<game name="Star Control II (1992) (Toys for Bob) (Installation).dosz">
+		<description>Star Control II</description>
+		<comment>Redump-verified CD-ROM of Star Control Collection (USA, Europe)</comment>
+		<year>1992</year>
+		<developer>Toys for Bob</developer>
+		<variant>Installation</variant>
+		<rom name="Star Control Collection (USA, Europe).chd" size="37444608" crc="34610232" md5="aee6daab3c1f6215356d9d1aef0f5f0c" sha1="59fac6c89ddd984541d572f95499f648b4a0f55b">
+			<track number="1" type="MODE1_RAW" frames="15285" pregap="0" duration="03:23:60" size="35950320" crc="4ba73ae3" md5="d57f82e6c85263d42da91d598f687978" sha1="0d8379ca6a7d467c9a501939ea96f077c5299b6b" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
 	<game name="Star Wars - TIE Fighter - Defender of the Empire (1994) (LucasArts) (Installation, Floppy Version).dosz">
 		<description>Star Wars - TIE Fighter - Defender of the Empire</description>
 		<year>1994</year>
@@ -709,6 +719,7 @@
 			<track number="1" type="MODE1_RAW" frames="2480" pregap="0" duration="00:33:05" size="5832960" crc="8bdf0beb" md5="bedc880b361767f98e0bc965f957eb6c" sha1="bdff1b78aaa4d70527298bd4298c0705a5224fd1" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
+>>>>>>> main
 	<game name="Strife (1996) (Rogue Entertainment) (Installation).dosz">
 		<description>Strife</description>
 		<year>1996</year>
