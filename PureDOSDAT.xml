@@ -14115,8 +14115,11 @@
 	</game>
 	<game name="Star Control II (1992) (Toys for Bob).dosz">
 		<description>Star Control II</description>
-		<comment>Installed from Redump-verified CD-ROM of Star Control Collection (USA, Europe)</comment>
-		<comment_dosc>IPS patches to bypass copy protection, run.bat file added to choose between SC2 and Super Melee, auto-starts</comment_dosc>
+		<comment>Copied from CD-ROM release</comment>
+		<comment_dosc>Launch configuration for Super Melee</comment_dosc>
+		<link type="media">http://redump.org/disc/20924/</link>
+		<link type="media">http://redump.org/disc/65717/</link>
+		<link type="media">http://redump.org/disc/31399/</link>
 		<year>1992</year>
 		<developer>Toys for Bob</developer>
 		<rom name="100PTS_A.MLE" size="103" crc="ce7e248f" md5="d06d0c1a97039e251cd2bf38f65e92c0" sha1="f5861d09e161b66125a71ffba566792fe0800b1d" date="1992-11-04 16:18:56"/>
@@ -14136,13 +14139,11 @@
 		<rom name="DRUUGE.SHP" size="56261" crc="dfcaac59" md5="f02d3e9ce1503eace74976ad89527ec9" sha1="db002d3c881f770b722ea47c06f3cc21efcd489e" date="1992-11-03 22:51:50"/>
 		<rom name="HUMAN.SHP" size="81403" crc="41c18110" md5="0c679662ba5dd41c17bb7bf1432223c9" sha1="7dd34c0fa71d7337b95b915c7b54e281f9613f8f" date="1992-12-01 16:51:54"/>
 		<rom name="ILWRATH.SHP" size="66461" crc="239b9bf7" md5="c825b9a8c7b1d59984e7d51458594012" sha1="9e7ef8b2fb9bee367ba98aae720535f093705015" date="1992-11-03 22:51:58"/>
-		<rom name="INMYSC2.ID" size="16" crc="f0181f87" md5="e458ccb7545bceb686fbfff33964bec2" sha1="06aedd4c0dba7e8a0926cbdd7a87921a6bd5c4e9"/>
 		<rom name="IP.PKG" size="947953" crc="becdca89" md5="9e8404780a5804a953f42fb85b4bf35b" sha1="e0169fa42645d2d2282162ee0dac71710219dbdc" date="1992-11-05 19:40:22"/>
 		<rom name="KEYS.EXE" size="30784" crc="111f4e08" md5="f22c9c144ced7295f26c91fb039cda82" sha1="9ce1f9ca0150fed6ddc54d530899922b8a00babf" date="1992-10-06 12:43:20"/>
 		<rom name="LILDUDES.MLE" size="114" crc="bde4a8fa" md5="b993f0f3fe7ed554a5fd5d3961477264" sha1="8e00aba29e28315365735b156250d723471a8ec0" date="1992-11-04 16:15:12"/>
 		<rom name="MELEE.COM" size="8154" crc="0f74eddc" md5="0a35e671114a994f99ecdccf3da7ff75" sha1="3823085cdb2d2110a3ad5ee478e542a39ddbae12" date="1994-04-13 11:34:16"/>
-		<rom name="MELEE.EXB" size="170177" crc="7342d58c" md5="3e76960306e8ba53d3d525a0a662b4a6" sha1="e63543c426be05f9adf6eef2d6c0968efc450ccc" date="1992-12-02 11:23:50"/>
-		<rom name="MELEE.EXE" size="170177" crc="d961aa0d" md5="cf5ac0647cd3d2d671c3f57f4f1e3232" sha1="f994e9c57d42feda567a0da215a2b34e7bdc92fa" date="1995-01-20 14:31:48"/>
+		<rom name="MELEE.EXE" size="170177" crc="7342d58c" md5="3e76960306e8ba53d3d525a0a662b4a6" sha1="e63543c426be05f9adf6eef2d6c0968efc450ccc" date="1992-12-02 11:23:50"/>
 		<rom name="MELEE.PKG" size="67742" crc="c5807ff8" md5="7cbfe049396c93232b39879f07521e70" sha1="9cd21612172b4e073708b85d2a0ff71a5172eb06" date="1992-12-02 11:06:44"/>
 		<rom name="MELNORME.SHP" size="87127" crc="c0e10f68" md5="08f8ccf063947ec5622c6b83c215e370" sha1="91a21d240c51b571c6c627739947cb9d3899ae75" date="1992-11-03 22:52:10"/>
 		<rom name="MMRNMHRM.SHP" size="74011" crc="c332927a" md5="e6e4827a4fd5029f81e9b2d898f77112" sha1="2e54fc3ed69a94d8c4d0130afe3e59b672e057ef" date="1992-11-03 22:52:22"/>
@@ -14159,8 +14160,7 @@
 		<rom name="STARCON.PKG" size="1434" crc="96cf899b" md5="8eba5f74408027a23b38263256b0d68a" sha1="00686be133d2f6bf6747f8f3dcdfb69dd642d3cb" date="1992-12-02 11:11:22"/>
 		<rom name="STARCON1.MLE" size="186" crc="9737b300" md5="c0f68e11df21523c83971786bef4ab2c" sha1="ec5181f2c911b47e3ff1f96bb872d8fe3a13a8ad" date="1992-11-02 13:59:56"/>
 		<rom name="STARCON2.COM" size="8154" crc="94b0031b" md5="2ad6132314eb8de7fcf930a306536057" sha1="589070d6283dea41e29b146d80167128b1eb1c8b" date="1994-04-13 11:33:46"/>
-		<rom name="STARCON2.EXB" size="342819" crc="126d0616" md5="d8d2bc3c255d7e8fd2ce43d830a5f888" sha1="6b63ddb1788a14b97e851c2817ccfda5a8181d5f" date="1992-12-03 11:29:04"/>
-		<rom name="STARCON2.EXE" size="342819" crc="647e01ff" md5="8f0616282feeaa7d8cc17dbcafb85aad" sha1="c78014e520ccd6d8cb1551c5f51df29a74d01991" date="1995-01-20 14:31:16"/>
+		<rom name="STARCON2.EXE" size="342819" crc="126d0616" md5="d8d2bc3c255d7e8fd2ce43d830a5f888" sha1="6b63ddb1788a14b97e851c2817ccfda5a8181d5f" date="1992-12-03 11:29:04"/>
 		<rom name="STARCON2.ICO" size="766" crc="6f16a49e" md5="b2d818b269e31722f1ee912edb9057d8" sha1="0212ebfb98c6c3ed74f98427253bf595e5f05b93" date="1992-07-26 10:31:24"/>
 		<rom name="STARCON2.MLE" size="183" crc="3bfb24df" md5="0afc9a8b9392a04a150b0f35e42abbca" sha1="63f59ee3e12da7e6ce7a8addc1d136f9b7550b98" date="1992-11-02 14:00:08"/>
 		<rom name="SUPOX.SHP" size="48093" crc="98e5eca8" md5="df086be720b28822ff1b88a63e55b544" sha1="6f9284e5f4dea0796beb5bfddc4f795c816e4175" date="1992-11-03 22:53:52"/>
