@@ -756,6 +756,23 @@
 		<rom name="disk4.img" size="1474560" crc="8dbdd43b" md5="2a4b83d91bba06ddcb299ae8ab132e61" sha1="f7e57b284a140a16b60e4688250fb6be2ca477c5"/>
 		<rom name="disk5.img" size="1474560" crc="32954739" md5="879809e92d1686ce152a35c280c2945c" sha1="ad96ddf5ce90851a383daa2c33d5711ca2d629ec"/>
 	</game>
+	<game name="Starflight (1986) (Binary Systems) (Installation).dosz">
+		<description>Starflight</description>
+		<comment>Version 2, 1988 3.5" floppy disk. Matches with TDC</comment>
+		<year>1986</year>
+		<developer>Binary Systems</developer>
+		<variant>Installation</variant>
+		<rom name="Disk1.ima" size="737280" crc="332259d9" md5="d0d0becd0440393770e8a5e299c8a9d1" sha1="c4ba53f0848229229e38a9aa7eb137eb1f876438"/>
+	</game>
+	<game name="Starflight (1986) (Binary Systems) (Installation, Version 1).dosz">
+		<description>Starflight</description>
+		<comment>1987 3.5" floppy disk</comment>
+		<year>1986</year>
+		<developer>Binary Systems</developer>
+		<variant>Installation, Version 1</variant>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C1603/</link>
+		<rom name="disk1.img" size="737280" crc="be32edf7" md5="dd377b67827ff60ecc68c8716d10a2ab" sha1="767b0b6ce432b96c3a96e0517dac05d14c75e911"/>
+	</game>
 	<game name="Starflight 2 - Trade Routes of the Cloud Nebula (1989) (Binary Systems) (Installation).dosz">
 		<description>Starflight 2 - Trade Routes of the Cloud Nebula</description>
 		<year>1989</year>
@@ -766,7 +783,6 @@
 			<track number="1" type="MODE1_RAW" frames="2480" pregap="0" duration="00:33:05" size="5832960" crc="8bdf0beb" md5="bedc880b361767f98e0bc965f957eb6c" sha1="bdff1b78aaa4d70527298bd4298c0705a5224fd1" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
->>>>>>> main
 	<game name="Strife (1996) (Rogue Entertainment) (Installation).dosz">
 		<description>Strife</description>
 		<year>1996</year>
