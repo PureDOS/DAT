@@ -170,6 +170,23 @@
 			<track number="1" type="MODE1_RAW" frames="39989" pregap="0" duration="08:53:14" size="94054128" crc="2c7dfb2e" md5="4192ae6d5e831e7ff51adf83b0873277" sha1="7ca8db8efa193146030c39525cf9d06f3591ca56" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
+	<game name="Descent II - The Vertigo Series (1996) (Parallax Software) (Installation).dosz">
+		<description>Descent II - The Vertigo Series</description>
+		<year>1996</year>
+		<developer>Parallax Software</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/37289/</link>
+		<rom name="Descent II - The Vertigo Series (USA).chd" size="349554816" crc="575a068a" md5="b1d60a226da022f15672f7ac067569ad" sha1="01e7e723766ea48c49ff60291d696aa1f5d7a664">
+			<track number="1" type="MODE1_RAW" frames="23311" pregap="0" duration="05:10:61" size="54827472" crc="1e380cb7" md5="fe2533786993dbef1c38ce3439252192" sha1="b79c8791884832aec8e6a2c5d5209aa8c24cbafa" in_zeros="1" out_zeros="0"/>
+			<track number="2" type="AUDIO" frames="20866" pregap="150" duration="04:38:16" size="49076832" crc="319cf256" md5="ca3f6142a32dfea00c9385fd43e197df" sha1="2f3ebe895f5951d6c8a041286ac53dea29e2369d" in_zeros="364918" out_zeros="562072"/>
+			<track number="3" type="AUDIO" frames="9737" pregap="0" duration="02:09:62" size="22901424" crc="c1f0fb3b" md5="9e5f6be8f3964932551997fced8d6f50" sha1="e52803c674af6c0342151d97cb9e5d98fc6a0deb" in_zeros="6052" out_zeros="348661"/>
+			<track number="4" type="AUDIO" frames="22121" pregap="0" duration="04:54:71" size="52028592" crc="700f5fd3" md5="3000b409f24824b91487dd807f44f726" sha1="fab533265ceb3b0b53cf0d5bc32863da0e2e5548" in_zeros="6048" out_zeros="346757"/>
+			<track number="5" type="AUDIO" frames="16417" pregap="0" duration="03:38:67" size="38612784" crc="90ca4b7a" md5="17939e42bc6033b1c6fb4fd02859c7bf" sha1="2adcf0c8eba23d66dad3407bb5c3b0243ee0ac1e" in_zeros="11604" out_zeros="352801"/>
+			<track number="6" type="AUDIO" frames="17381" pregap="0" duration="03:51:56" size="40880112" crc="cfc06c72" md5="2610d680fa53874799382113dd2ab4bf" sha1="4f3154f9cfd2e3a0ae0769aa44821e519dd45aa3" in_zeros="8220" out_zeros="362975"/>
+			<track number="7" type="AUDIO" frames="19454" pregap="0" duration="04:19:29" size="45755808" crc="0e50d09a" md5="2899e391dcb2dc642f80b254e89aac9d" sha1="9a45bc9179e9b08b65a0b3bdfb1379d996df14b7" in_zeros="9796" out_zeros="386955"/>
+			<track number="8" type="AUDIO" frames="14901" pregap="0" duration="03:18:51" size="35047152" crc="975af50c" md5="fe83c4562b96d7a504dc80494e6d0b61" sha1="b05ae5cd5fc87bfc28859637571395a19135bdfc" in_zeros="9638" out_zeros="719287"/>
+		</rom>
+	</game>
 	<game name="Doom II (1994) (id Software) (Installation).dosz">
 		<description>Doom II</description>
 		<year>1994</year>
@@ -589,6 +606,17 @@
 			<track number="26" type="AUDIO" frames="15157" pregap="0" duration="03:22:07" size="35649264" crc="247638d1" md5="034de21dc51c3ed2ad023f8c2e9dc2a6" sha1="5be3fd840b666919a6a8ed4f58d7dc3312ed4d27" in_zeros="4190" out_zeros="710201"/>
 		</rom>
 	</game>
+	<game name="Rise of the Triad - Dark War (1994) (Apogee Software) (Installation).dosz">
+		<description>Rise of the Triad - Dark War</description>
+		<comment>Redump-verified dump of Rise of the Triad - Dark War (USA) (Site License) (v1.3)</comment>
+		<year>1994</year>
+		<developer>Apogee Software</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/33505/</link>
+		<rom name="Rise of the Triad - Dark War (USA) (Site License) (v1.3).chd" size="127374336" crc="bc89cb8f" md5="273766b78b27bd1146e939825b7d0c1b" sha1="673a742b11bbc2b55517d9f321e150584ebb4695">
+			<track number="1" type="MODE1_RAW" frames="52012" pregap="0" duration="11:33:37" size="122332224" crc="fe179c14" md5="6d3d19b2e060cef380ea36742909a3b8" sha1="5a3f70a43b432d2e84ed451b3dea532372126ed7" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
 	<game name="Sid Meier's Civilization (1991) (MPS Labs) (Installation).dosz">
 		<description>Sid Meier's Civilization</description>
 		<comment>v474.04 3.5" floppy release</comment>
@@ -781,6 +809,34 @@
 		<rom name="disk4.img" size="1474560" crc="8dbdd43b" md5="2a4b83d91bba06ddcb299ae8ab132e61" sha1="f7e57b284a140a16b60e4688250fb6be2ca477c5"/>
 		<rom name="disk5.img" size="1474560" crc="32954739" md5="879809e92d1686ce152a35c280c2945c" sha1="ad96ddf5ce90851a383daa2c33d5711ca2d629ec"/>
 	</game>
+	<game name="Star Wars - X-Wing - B-Wing (1993) (LucasArts) (Installation, Floppy Version).dosz">
+		<description>Star Wars - X-Wing - B-Wing</description>
+		<year>1993</year>
+		<developer>LucasArts</developer>
+		<variant>Installation, Floppy Version</variant>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C1604/</link>
+		<rom name="disk1.img" size="1474560" crc="91d0f97a" md5="12190f1009412337f15b5fcdd92dea26" sha1="edb745afa6376808314364e08c3000594edf2c3b"/>
+	</game>
+	<game name="Star Wars - X-Wing - Imperial Pursuit (1993) (LucasArts) (Installation, Floppy Version).dosz">
+		<description>Star Wars - X-Wing - Imperial Pursuit</description>
+		<year>1993</year>
+		<developer>LucasArts</developer>
+		<variant>Installation, Floppy Version</variant>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C1605/</link>
+		<rom name="disk1.img" size="1474560" crc="8ac9c001" md5="a050c891528e87305a7366341d9d8990" sha1="31a7ad14658f78e11b331831cc6c0c32fc2bce96"/>
+	</game>
+	<game name="Star Wars - X-Wing (1993) (LucasArts) (Installation, Floppy Version).dosz">
+		<description>Star Wars - X-Wing</description>
+		<year>1993</year>
+		<developer>LucasArts</developer>
+		<variant>Installation, Floppy Version</variant>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C110/</link>
+		<rom name="disk1.img" size="1474560" crc="74b332c7" md5="c5e0b11c1722ec5d37ff1fee5922adc0" sha1="84f7d9934516350d10ff395d2521332681f9f673"/>
+		<rom name="disk2.img" size="1474560" crc="dcea06c0" md5="2b292d681f603095fc1c55edc3e6e972" sha1="ee0ca56f0971840011ebb9dfc49d215cbda36cec"/>
+		<rom name="disk3.img" size="1474560" crc="6e07ebc1" md5="2d92d68a65796fe7060759629be24074" sha1="2282d5b478b28181cbfe88223301076fcfcfa3e6"/>
+		<rom name="disk4.img" size="1474560" crc="5aeca402" md5="c1d322881cebda1a68287d27e2c0e124" sha1="bd2269f36cebc89c59901a56ed3ec32695aae6ca"/>
+		<rom name="disk5.img" size="1474560" crc="bd2d8f46" md5="4af4de2a99b73c9323361dca7f367132" sha1="80e364378c191600ba05beff6ae73a4c90465de6"/>
+	</game>
 	<game name="Starflight (1986) (Binary Systems) (Installation).dosz">
 		<description>Starflight</description>
 		<comment>Version 2, 1988 3.5" floppy disk. Matches with TDC</comment>
@@ -825,6 +881,15 @@
 		<link type="media">http://redump.org/disc/35936/</link>
 		<rom name="Syndicate Plus (USA) (En,Fr,Es,It).chd" size="65978496" crc="a510ac57" md5="6b422a0e9867b75cdfe021730070ff45" sha1="aafb37a7504d83a03ee55a5a7f51b53a4635626a">
 			<track number="1" type="MODE1_RAW" frames="26940" pregap="0" duration="05:59:15" size="63362880" crc="eeccce63" md5="cff29f88e18b1b9d69c0763e99dda584" sha1="ac71815c976b4f48c491f2305b142284df029a5a"/>
+		</rom>
+	</game>
+	<game name="Ultima Underworld I &amp; II (1993) (Looking Glass Technologies) (Installation).dosz">
+		<description>Ultima Underworld I &amp; II</description>
+		<year>1993</year>
+		<developer>Looking Glass Technologies</developer>
+		<variant>Installation</variant>
+		<rom name="Ultima Underworld I &amp; II (USA).chd" size="28631808" crc="b623c123" md5="ffbb8fee2a4534d292d288defed0e8bd" sha1="efa768d6a39c0d02935681cf5e90ba4b3103d4be">
+			<track number="1" type="MODE1_RAW" frames="11688" pregap="0" duration="02:35:63" size="27490176" crc="332bdcaf" md5="c6cbde8bf4fa30599502bd582a885207" sha1="daf7912c7185937cf56f642bce474ffd99e6b7b5" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
 	<game name="Warcraft - Orcs &amp; Humans (1994) (Blizzard Entertainment) (Installation).dosz">
