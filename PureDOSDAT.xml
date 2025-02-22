@@ -2537,6 +2537,83 @@
 		<rom name="TITLE.VHF" size="5935" crc="d969180a" md5="e0be5780314ffbad6ea23d590d901817" sha1="908f70b0a89d41cffb918ee95bb1291335a19ad4"/>
 		<rom name="WEAPONCL.EHF" size="17435" crc="34eae1e5" md5="e430f42ef50c984209804faa6a0dc28e" sha1="ebf123699ae438c682ce9f2d5ca0fe495d7c5f29"/>
 	</game>
+	<game name="Battle Arena Toshinden (1996) (Tamsoft).dosz">
+		<description>Battle Arena Toshinden</description>
+		<comment>Recommended installation from US CD-ROM release, patched to version 2.5, GLIDE2X.OVL from 3dfx Voodoo1 V3.01 driver package and CD image converted with CHDtoOGG with empty data partition</comment>
+		<comment_dosc>Sound, SVGA and high-resolution settings, optional 3dfx launch configuration</comment_dosc>
+		<year>1996</year>
+		<developer>Tamsoft</developer>
+		<link type="media">http://redump.org/disc/46394/</link>
+		<link type="patch">https://archive.org/details/TSDUPGRD</link>
+		<link type="driver">https://falconfly.vogonswiki.com/voodoo1.html/</link>
+		<rom name="CD/Battle Arena Toshinden (USA) (Track 1).bin" size="43008" crc="10d89042" md5="73db37b47ede9da7e9fbaae52c6c8a8b" sha1="8a2846aac1e2ceb8a08a9cd5591e9a85228d5cab"/>
+		<rom name="CD/Battle Arena Toshinden (USA) (Track 2).ogg" size="7051357" crc="ca3aecf0" md5="2c86356b8a59a54e5315cf9a24d23f8e" sha1="cd52eb0730993bd7a1ec5ef11a9011aac94eba7b">
+			<source type="AUDIO" frames="14531" omitted_pregap="149" duration="03:13:56" size="34176912" crc="bf90d7cd" md5="d1a7098e41f390aadd6b014275a3ffb6" sha1="8112ace6488b24c2fea7d5e6a0da52acc4b13e76" in_zeros="0" out_zeros="358182" quality="8"/>
+		</rom>
+		<rom name="CD/Battle Arena Toshinden (USA) (Track 3).ogg" size="5936997" crc="67d6b1f1" md5="2cd75c7ae45a836a8127acf6bad05b86" sha1="aefcfe515670208839dfc337576fa05b701f4df3">
+			<source type="AUDIO" frames="14279" omitted_pregap="149" duration="03:10:29" size="33584208" crc="e326fdfb" md5="a21ef92967728639f8ea73d5ef5d29ef" sha1="d016cde0cf491a01acac479e884d2d446d849013" in_zeros="0" out_zeros="357780" quality="8"/>
+		</rom>
+		<rom name="CD/Battle Arena Toshinden (USA) (Track 4).ogg" size="8266023" crc="c35058df" md5="4c0fa41be71a266f27e585d1c06d2277" sha1="f1a6e128de5da09d7b2d8b93f85868319624c202">
+			<source type="AUDIO" frames="15666" omitted_pregap="149" duration="03:28:66" size="36846432" crc="4205286d" md5="039d7680fbbd6da61df93fcafce26a11" sha1="4747586df1d9dc780c7eeb2b4d62ed964d3ffb62" in_zeros="0" out_zeros="354681" quality="8"/>
+		</rom>
+		<rom name="CD/Battle Arena Toshinden (USA) (Track 5).ogg" size="7850535" crc="3bf9be4f" md5="494cc18286d44b44b09b5633d7fb9b9f" sha1="debd2b9c22826b4fd98865af7042cbe01ae8b0a9">
+			<source type="AUDIO" frames="16475" omitted_pregap="149" duration="03:39:50" size="38749200" crc="c4da55c3" md5="5fc0d6bc518512cc518995f17a0c1d64" sha1="261a840b0c636cbcc8795f2bdf78cf977abd772a" in_zeros="0" out_zeros="356301" quality="8"/>
+		</rom>
+		<rom name="CD/Battle Arena Toshinden (USA) (Track 6).ogg" size="6627227" crc="e9f1ff78" md5="e548144905fff0adedc7f9c7187da607" sha1="5fdbc325584afcb73aaebd1a945674cb94748b4f">
+			<source type="AUDIO" frames="14354" omitted_pregap="149" duration="03:11:29" size="33760608" crc="c1f89713" md5="2bf2944c6607821a6832e738e2d92a72" sha1="b471e373cb4158241c895983c8c40f9f50889981" in_zeros="0" out_zeros="356619" quality="8"/>
+		</rom>
+		<rom name="CD/Battle Arena Toshinden (USA) (Track 7).ogg" size="5208758" crc="fcba255e" md5="c0752ba08de1dbb4bfdd2e7c39f7f00e" sha1="020e4b0f58b93936c51ba62cccb757dfaac7668f">
+			<source type="AUDIO" frames="14085" omitted_pregap="149" duration="03:07:60" size="33127920" crc="db7b328c" md5="00715cd0cd7a7a47849ee3ad6cb02384" sha1="5540be7c10a9cba0f4fb5fd189f5b1bc58b6bf50" in_zeros="24" out_zeros="355379" quality="8"/>
+		</rom>
+		<rom name="CD/Battle Arena Toshinden (USA) (Track 8).ogg" size="6927217" crc="3e6a77f0" md5="37ea5a3c36a7628b39e5ace094dc59eb" sha1="4bb8eb4edf872c7f6808fb63522c1bb45dcdc8e0">
+			<source type="AUDIO" frames="14925" omitted_pregap="149" duration="03:19:00" size="35103600" crc="51a2cfdb" md5="348b098cba9d4cc0b92220d6253d5af0" sha1="b137e66655fc7b1b516bb401e466e08e08c99a6b" in_zeros="24" out_zeros="355109" quality="8"/>
+		</rom>
+		<rom name="CD/Battle Arena Toshinden (USA) (Track 9).ogg" size="7184358" crc="90f4d33e" md5="09631c7866ce56e471dac5247e7260e0" sha1="d3c757a2ee93c5e743f3323ccfd0de32ebd3e6d2">
+			<source type="AUDIO" frames="16358" omitted_pregap="149" duration="03:38:08" size="38474016" crc="d3e1535d" md5="d9b6d43843981e8290ab0b64a3120bc7" sha1="cebc48758d32929aba2cbdbeebb6845e67073f03" in_zeros="24" out_zeros="356717" quality="8"/>
+		</rom>
+		<rom name="CD/Battle Arena Toshinden (USA) (Track 10).ogg" size="6776079" crc="b7f55510" md5="de2323560b922efbd4d82c3a17b61b33" sha1="c15cb6f1bb85926153d22b3e79313da174870663">
+			<source type="AUDIO" frames="15588" omitted_pregap="149" duration="03:27:63" size="36662976" crc="2a6f6c41" md5="862f346978c64544d66a0a78741d3988" sha1="8a7e38730dea8ca27e3023ed644d8aec8fe6de09" in_zeros="48" out_zeros="355973" quality="8"/>
+		</rom>
+		<rom name="CD/Battle Arena Toshinden (USA) (Track 11).ogg" size="6644621" crc="b629899e" md5="3be1c53c325cca729481b1d7ab33383c" sha1="bfaa850bfb743230197491be1b718a7ad9a09d1c">
+			<source type="AUDIO" frames="16473" omitted_pregap="149" duration="03:39:48" size="38744496" crc="7adbbf74" md5="1a01449e0b73532689d4425900bcc13b" sha1="ef819927651c356599b5ab518a7651c28c93e461" in_zeros="49" out_zeros="357053" quality="8"/>
+		</rom>
+		<rom name="CD/Battle Arena Toshinden (USA) (Track 12).ogg" size="3571505" crc="ac862e41" md5="8b1751ec2dc93e9f9470f08ee59d2d24" sha1="06b1dc53f8e34a0bb3c68ae35db5ff2f6d63fb87">
+			<source type="AUDIO" frames="8096" omitted_pregap="149" duration="01:47:71" size="19041792" crc="542f9099" md5="fbe2dca9dcd6bb27b54e8d9fae51445c" sha1="2d72e03476b7c31c22ab1b8797b02b21d21f4942" in_zeros="48" out_zeros="1075092" quality="8"/>
+		</rom>
+		<rom name="CD/Battle Arena Toshinden (USA) (Track 13).ogg" size="1133217" crc="15387e38" md5="3b422ae495f66280dbd2bdadb00d7f3e" sha1="59db4bfddaf522bcc63e43e8f3bd8d126b66631f">
+			<source type="AUDIO" frames="3173" omitted_pregap="149" duration="00:42:23" size="7462896" crc="16930a1f" md5="3741d6dc1ed4730a9baa112ecbf24b96" sha1="fad335df74c0da06eb8cdf720e761fcee2c2af7b" in_zeros="48" out_zeros="357255" quality="8"/>
+		</rom>
+		<rom name="CD/Battle Arena Toshinden (USA) (Track 14).ogg" size="3634196" crc="498576ba" md5="c2877952b1d4ee754415a8992de94af6" sha1="c07e6e3b02702f6bac6c85a82b0c7e1c166c10e5">
+			<source type="AUDIO" frames="8352" omitted_pregap="149" duration="01:51:27" size="19643904" crc="d92a7629" md5="8f44414749affdf3e83d5dd9ba50d7a0" sha1="ec56ebabac105b7c27118044fdb9216e4405279b" in_zeros="48" out_zeros="7009" quality="8"/>
+		</rom>
+		<rom name="CD/Battle Arena Toshinden (USA) (Track 15).ogg" size="902964" crc="94786dc8" md5="ad3c7ad37758becd6febf92123dbf92d" sha1="1ab57cf741ac0bd2d8984dfe8f7ae3c7ce16783c">
+			<source type="AUDIO" frames="2291" omitted_pregap="149" duration="00:30:41" size="5388432" crc="05061888" md5="1a4a9ca205ad1fcdfc91e919f62464bd" sha1="c0551345d0669ff08d533c2f2571a7a5bf49605d" in_zeros="48" out_zeros="7008" quality="8"/>
+		</rom>
+		<rom name="CD/Battle Arena Toshinden (USA) (Track 16).ogg" size="324278" crc="c7b0db47" md5="31f53d3162dd485ce683fa7b6ae5d5b8" sha1="9db80ea9892db1df8b3c3e36bd3f1a4136b8f47e">
+			<source type="AUDIO" frames="827" omitted_pregap="149" duration="00:11:02" size="1945104" crc="6d742bbf" md5="43c81003a759513958886b1fef822bed" sha1="71d32bc7f0bb2f2e03a1d8cfbb6dbf203857549b" in_zeros="72" out_zeros="4632" quality="8"/>
+		</rom>
+		<rom name="CD/Battle Arena Toshinden (USA).cue" size="1866" crc="e66d533d" md5="50763c1b619d122c183ea1fca4e45b43" sha1="e9734abb4c3f1dc7481c87ee77909de6647b18ba"/>
+		<rom name="DATA.TSD" size="11149172" crc="4cd79b3c" md5="08f8999a4a9367416eced4ef81134503" sha1="21f9b92b1a3e3860c54d87e7d5b3c285cdc162d3" date="1996-04-19 15:16:18"/>
+		<rom name="DDLOGO.FLI" size="1042466" crc="8c07b41b" md5="22ad62acc04c1ed1b873d87311e3fa7d" sha1="8c4dbaf901157e828de48662649d736f9c308ee2" date="1995-11-26 00:49:02"/>
+		<rom name="DOS4GW.EXE" size="265420" crc="cb214447" md5="ee4033581845b3b8d28c4b7287eb4fc2" sha1="a897c7eb79145a308c4e60b43413bb2daa360506" date="1994-09-01 10:00:00"/>
+		<rom name="DRUM.BNK" size="5404" crc="edf62adb" md5="b41a03b1e0030fd02c0189a5543428ea" sha1="b83b8cad4c23dfe653215e22eb59bfc3226d90f3" date="1995-06-19 12:09:34"/>
+		<rom name="FATMAN.SBK" size="560888" crc="a0f5f7c5" md5="6406ec98fc3260b1705179539c391a2b" sha1="59083b52777ef50e10066fa9cf95b6ba57c10d2b" date="1996-04-11 16:05:18"/>
+		<rom name="GIGTB166.CGL" size="201645" crc="f96d9a81" md5="3c28f5055314109f438194a657e2f86c" sha1="c6be382fcab98f6ac483d2372fc8157c7499d9b9" date="1996-04-22 01:00:00"/>
+		<rom name="GLIDE2X.OVL" size="195815" crc="a85e0be1" md5="bd959bf20cc761c90d87ca4fd7ce0911" sha1="b577e1d104a0ff5ea04cc2f7fd0e988e76e65593" date="1999-04-29 15:41:06"/>
+		<rom name="HMIDET.386" size="83774" crc="ae8d1a06" md5="b6656f8af855be3184d2b9f10de91ef5" sha1="c3b75ab63273edfed1bb15acf59b321102781a96" date="1995-03-09 10:43:02"/>
+		<rom name="HMIDRV.386" size="317317" crc="21c398b8" md5="2de5f490362469628841199644a38e02" sha1="32c89e02cae4c33d1c0b93562f4ca0fe86c4a199" date="1995-03-09 10:42:58"/>
+		<rom name="HMIMDRV.386" size="124824" crc="7c3f7fdf" md5="252028f444cf3d5e53d6cc6b2b0f5525" sha1="2918f0b29a61739092ed59cb2433f06ac470d069" date="1995-08-14 19:36:22"/>
+		<rom name="MELODIC.BNK" size="5404" crc="9b4b9cfd" md5="c7fb6219d571d796c6c48ee04f9f6a9b" sha1="f738bde4eea6f27268547fbd966e03f3409c489e" date="1995-06-19 12:09:40"/>
+		<rom name="README.TXT" size="9176" crc="9dccdcb1" md5="4605ef236444f20cae47aecdb5d034e5" sha1="0f08b2c2666091a320572ebde13d296d757c5ddb" date="1996-04-26 16:54:32"/>
+		<rom name="SETUP.EXE" size="141856" crc="7692f51d" md5="ba74a30256ce26732e4c0354c5cbefb4" sha1="d856de2fca0154408a0d2232525173eec1ba9d2e" date="1996-10-14 22:32:12"/>
+		<rom name="SETUP.INI" size="3505" crc="462c3d2a" md5="2180355a0e23de1964bd85265d8c7f2c" sha1="3c9be3d6d081c2ba72807635034b61e404e7d02d" date="1995-10-02 02:46:56"/>
+		<rom name="SSETUP.EXE" size="165831" crc="43a2b339" md5="99d765c06c4b1bf85100db89d043a73c" sha1="f28aa569265285ad69389c924bafeb324d418adf" date="1995-09-27 14:09:54"/>
+		<rom name="TEST.HMI" size="13125" crc="7fc4ae55" md5="17ad6180fac8a6bf23115b0ad169885a" sha1="30fdc0f7bfb84c848150c8570a34714e73c27c60" date="1995-09-27 14:09:54"/>
+		<rom name="TEST.HMP" size="19069" crc="5355c0db" md5="3b39691c4bb3fd99a881c0c95e5c9411" sha1="9a0f0e758964714d780e68639c1d9c4fddf9eafc" date="1995-03-13 11:45:38"/>
+		<rom name="TEST.WAV" size="27242" crc="4643bd74" md5="750d7e0924f8c545de440888a518e649" sha1="aae42a1be579675775616ebda2ca4950d151a288" date="1995-12-27 18:13:04"/>
+		<rom name="TSD.EXE" size="1205706" crc="b460f8a3" md5="6bdbddf6fe1481d96a50c8deec790a94" sha1="39591c375ac8ad66f560bbd265784864b5773108" date="1996-10-14 15:34:34"/>
+		<rom name="VRITB166.CGL" size="86787" crc="a6b76e6c" md5="aa35ea875d5e9f4c619802c9a7a739ab" sha1="4879af323dcd786751b35c37315386b3e7acd1d0" date="1996-04-23 10:23:36"/>
+	</game>
 	<game name="Beyond Zork - The Coconut of Quendor (1987) (Infocom).dosz">
 		<description>Beyond Zork - The Coconut of Quendor</description>
 		<comment>Copied from Version 57, Serial 871221 1987 3.5" floppy disk</comment>
