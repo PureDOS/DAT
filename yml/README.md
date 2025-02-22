@@ -21,7 +21,7 @@ The following settings are supported, the default value is the first one listed 
 | `mem_ems`       | Whether to use EMS (Expanded Memory)             | __true__ / false                                            |
 | `mem_umb`       | Whether to use UMB (Upper Memory Blocks)         | __true__ / false                                            |
 | `mem_doslimit`  | Whether to limit free conventional memory        | Default to all available, specified in kilobytes < 640      |
-| `video_card`    | Type of video card/machine to emulate            | __generic_svga__ / generic_hercules / generic_cga / generic_tandy / generic_pcjr / generic_ega / generic_vga / svga_s3_trio / svga_tseng_et3000 / svga_tseng_et4000 / svga_paradise_pvga1a |
+| `video_card`    | Type of video card/machine to emulate            | __generic_svga__ / generic_hercules / generic_cga / generic_ega / generic_vga / tandy / pcjr / svga_s3_trio / svga_tseng_et3000 / svga_tseng_et4000 / svga_paradise_pvga1a |
 | `video_memory`  | Amount of video memory                           | __2048__ / 512 / 1024 / 4096                                |
 | `video_voodoo`  | Type of Voodoo 3dfx expansion card               | __v1_8mb__ / __v1_4mb__ / none                              |
 | `sound_card`    | Type of sound card to emulate                    | __sb16__ / sb1 / sb2 / sbpro1 / sbpro2 / gameblaster / none |
@@ -32,7 +32,7 @@ The following settings are supported, the default value is the first one listed 
 | `sound_midi`    | If a MPU401 MIDI Processing Unit is present      | __true__ / false / path to a ZIP with a soundfont           |
 | `sound_mt32`    | If a MT-32 MIDI synthesizer module is present    | __false__ / true / path to a ZIP with a MT-32 ROM (if set overrides `sound_midi`) |
 | `sound_gus`     | If a Gravis UltraSound expansion card is present | __false__ / true                                            |
-| `sound_tandy`   | If a Tandy Sound Device is present               | __false__ / true (always on with video_card: generic_tandy) |
+| `sound_tandy`   | If a Tandy Sound Device is present               | __false__ / true (always on with video_card: tandy)         |
 | `run_path`      | Default program to launch                        | Full path, i.e. C:\PROGRAM.EXE                              |
 | `run_boot`      | Default disk image to boot (floppy or hard disk) | Path relative to DOSZ, i.e. DISKS\DISK1.IMG                 |
 | `run_mount`     | Default disk image to mount (floppy or CD-ROM)   | Path relative to DOSZ, i.e. CD\GAME.CHD                     |
