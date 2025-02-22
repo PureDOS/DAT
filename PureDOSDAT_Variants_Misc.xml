@@ -10,61 +10,6 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
 	</header>
-	<game name="Battle Arena Toshinden (1996) (Tamsoft) (3DFX).dosz">
-		<description>Battle Arena Toshinden</description>
-		<comment>Recommended installation using Redump-verified CD-ROM of Battle Arena Toshinden (USA). SETUP.EXE and TSD.EXE replaced with 3DFX updated EXEs</comment>
-		<comment_dosc>Sound, SVGA, and 3D Acceleration settings. Mounts the disc and auto-starts using .bat file specifically for 3DFX support.</comment_dosc>
-		<year>1996</year>
-		<developer>Tamsoft</developer>
-		<variant>3DFX</variant>
-		<link type="media">http://redump.org/disc/46394/</link>
-		<rom name="AUTORUN.EXE" size="338432" crc="3aacf580" md5="627f1e6331fd3484c8f4bd7733dcb368" sha1="c62ea7385c31738735975f6b35803818a61685e3"/>
-		<rom name="AUTORUN.ICO" size="766" crc="c2150df8" md5="bc6c7c3e23043813d752780ec3e4fcfa" sha1="cc9ead4b93261c277bbf3a0a66261dfe984bc2d6"/>
-		<rom name="AUTORUN.INF" size="47" crc="31324a3b" md5="06da8f9ff213e3f6f42049dcd17e6de1" sha1="816e18197344bac063b3ff3e53f45337ddecd210"/>
-		<rom name="CD/Battle Arena Toshinden (USA).chd" size="514687104" crc="002cff24" md5="8fafb9ebd1ebb065de2bd94a7626fa64" sha1="7e2599349c903c17a30d01c836827dc962617a5f">
-			<track number="1" type="MODE1_RAW" frames="36753" pregap="0" duration="08:10:03" size="86443056" crc="4cc44ade" md5="a489a24cbebde5ee93ba02eb37dbb28c" sha1="78e771d76e163b76b7f84e6b88ce819b7f343a52" in_zeros="1" out_zeros="2352"/>
-			<track number="2" type="AUDIO" frames="14680" pregap="149" duration="03:15:55" size="34527360" crc="dbd52584" md5="3438c192ac882e2624d734884e79c3a9" sha1="e7243e7536b87ab3c561542c1bcc20fa9543c176" in_zeros="350448" out_zeros="358182"/>
-			<track number="3" type="AUDIO" frames="14428" pregap="149" duration="03:12:28" size="33934656" crc="12602a79" md5="d0a833d9921a1ee6b08870ae29f8cd45" sha1="1edbb5baca2d0f3583cce16300811221913e3592" in_zeros="350448" out_zeros="357780"/>
-			<track number="4" type="AUDIO" frames="15815" pregap="149" duration="03:30:65" size="37196880" crc="c194b8c2" md5="d4c8cc5055db9119a82e2358f75352d0" sha1="91b6f45618b43a1c811358e635f0e0a6e13ede0f" in_zeros="350448" out_zeros="354681"/>
-			<track number="5" type="AUDIO" frames="16624" pregap="149" duration="03:41:49" size="39099648" crc="d2dcb39d" md5="2efe0385070375185d25167893c67001" sha1="3691fcbac030e2cc3fe4e64b4e5af0c23f6fad7f" in_zeros="350448" out_zeros="356301"/>
-			<track number="6" type="AUDIO" frames="14503" pregap="149" duration="03:13:28" size="34111056" crc="b26f7e21" md5="7cdb53ea7457ff69e5dfb26e2f989043" sha1="9502496d4922d6d82b0a59bcbd7a10f1cae60a60" in_zeros="350448" out_zeros="356619"/>
-			<track number="7" type="AUDIO" frames="14234" pregap="149" duration="03:09:59" size="33478368" crc="c44d82e8" md5="50509c36f43ad042aafcd2ebf788f79b" sha1="41509e88dfdf66fd8fd98286a219bbecbcc95ab0" in_zeros="350472" out_zeros="355379"/>
-			<track number="8" type="AUDIO" frames="15074" pregap="149" duration="03:20:74" size="35454048" crc="5440d188" md5="9a2edb523a0cdca9b80f1d07597e2a6b" sha1="638c752506963d54a85fac8ff1a1d2d9e4f3fa4b" in_zeros="350472" out_zeros="355109"/>
-			<track number="9" type="AUDIO" frames="16507" pregap="149" duration="03:40:07" size="38824464" crc="e858d37d" md5="d31d6e085709db855db6321ac582ae54" sha1="f2c9ce4ef302e9b33ed5687d850defdc98785411" in_zeros="350472" out_zeros="356717"/>
-			<track number="10" type="AUDIO" frames="15737" pregap="149" duration="03:29:62" size="37013424" crc="47e12459" md5="11118c785f4112e543f8c7e37e950792" sha1="dbdcbf5a7a18f56f516542032a68fa255e7dd765" in_zeros="350496" out_zeros="355973"/>
-			<track number="11" type="AUDIO" frames="16622" pregap="149" duration="03:41:47" size="39094944" crc="61e30355" md5="b95bf8768835a5b29394266499345a1e" sha1="89847eff55dd3bf490abc511dd97c3ed7143d5c6" in_zeros="350497" out_zeros="357053"/>
-			<track number="12" type="AUDIO" frames="8245" pregap="149" duration="01:49:70" size="19392240" crc="061dfd63" md5="eaac2673a96b170f5e0e50bafb89512b" sha1="272df199917a487233a8b4be50333af295f4095a" in_zeros="350496" out_zeros="1075092"/>
-			<track number="13" type="AUDIO" frames="3322" pregap="149" duration="00:44:22" size="7813344" crc="c39f020c" md5="2a9f8a7c5b1da80946b9cb8417915678" sha1="c73b499607c13b498edf06372d6303910a6a2874" in_zeros="350496" out_zeros="357255"/>
-			<track number="14" type="AUDIO" frames="8501" pregap="149" duration="01:53:26" size="19994352" crc="a7b47b34" md5="3b80ff3dd41a2b1639006f7cff82fb51" sha1="3d3eb7f46c6cd5755c395bbc493182f0db365afd" in_zeros="350496" out_zeros="7009"/>
-			<track number="15" type="AUDIO" frames="2440" pregap="149" duration="00:32:40" size="5738880" crc="2f693c02" md5="668118396289c88ae222ca3efa00acdb" sha1="abd48d32d8a6dd0a373140487e853e67de2d2b5d" in_zeros="350496" out_zeros="7008"/>
-			<track number="16" type="AUDIO" frames="976" pregap="149" duration="00:13:01" size="2295552" crc="7586cf19" md5="eedcd27ec557c98af9cc76162ad5a95e" sha1="1c70862aa3c5fadc44af678279a992acd492df77" in_zeros="350520" out_zeros="4632"/>
-		</rom>
-		<rom name="DATA.TSD" size="11149172" crc="4cd79b3c" md5="08f8999a4a9367416eced4ef81134503" sha1="21f9b92b1a3e3860c54d87e7d5b3c285cdc162d3"/>
-		<rom name="DDLOGO.FLI" size="1042466" crc="8c07b41b" md5="22ad62acc04c1ed1b873d87311e3fa7d" sha1="8c4dbaf901157e828de48662649d736f9c308ee2"/>
-		<rom name="DEMO.BAT" size="572" crc="9861d552" md5="b46273694aa6978ea12e191c964e4375" sha1="5d7e0189d2d098632caedb340a1cbee3d8934ffa"/>
-		<rom name="DOS4GW.EXE" size="265420" crc="cb214447" md5="ee4033581845b3b8d28c4b7287eb4fc2" sha1="a897c7eb79145a308c4e60b43413bb2daa360506"/>
-		<rom name="DRUM.BNK" size="5404" crc="edf62adb" md5="b41a03b1e0030fd02c0189a5543428ea" sha1="b83b8cad4c23dfe653215e22eb59bfc3226d90f3"/>
-		<rom name="FATMAN.SBK" size="560888" crc="a0f5f7c5" md5="6406ec98fc3260b1705179539c391a2b" sha1="59083b52777ef50e10066fa9cf95b6ba57c10d2b"/>
-		<rom name="GIGTB166.CGL" size="201645" crc="f96d9a81" md5="3c28f5055314109f438194a657e2f86c" sha1="c6be382fcab98f6ac483d2372fc8157c7499d9b9"/>
-		<rom name="glide2x.ovl" size="348791" crc="59fe3338" md5="341b8f5d82daa46fd1ce236300317c3c" sha1="331e01dd4ab66c6acac3f2ffa62aae5e9dfdfb8e" date="2018-08-15 21:08:14"/>
-		<rom name="HMIDET.386" size="83774" crc="ae8d1a06" md5="b6656f8af855be3184d2b9f10de91ef5" sha1="c3b75ab63273edfed1bb15acf59b321102781a96"/>
-		<rom name="HMIDRV.386" size="317317" crc="21c398b8" md5="2de5f490362469628841199644a38e02" sha1="32c89e02cae4c33d1c0b93562f4ca0fe86c4a199"/>
-		<rom name="HMIMDRV.386" size="124824" crc="7c3f7fdf" md5="252028f444cf3d5e53d6cc6b2b0f5525" sha1="2918f0b29a61739092ed59cb2433f06ac470d069"/>
-		<rom name="MELODIC.BNK" size="5404" crc="9b4b9cfd" md5="c7fb6219d571d796c6c48ee04f9f6a9b" sha1="f738bde4eea6f27268547fbd966e03f3409c489e"/>
-		<rom name="README.TXT" size="9176" crc="9dccdcb1" md5="4605ef236444f20cae47aecdb5d034e5" sha1="0f08b2c2666091a320572ebde13d296d757c5ddb"/>
-		<rom name="SETUP.EXE" size="141856" crc="7692f51d" md5="ba74a30256ce26732e4c0354c5cbefb4" sha1="d856de2fca0154408a0d2232525173eec1ba9d2e" date="1996-10-15 06:32:12"/>
-		<rom name="SETUP.ICO" size="766" crc="63cfaf24" md5="9b19fb30c290646311217d4b755126ae" sha1="43303033380b6842aeda59681e78c21db6c6b4cf"/>
-		<rom name="SETUP.INI" size="3505" crc="462c3d2a" md5="2180355a0e23de1964bd85265d8c7f2c" sha1="3c9be3d6d081c2ba72807635034b61e404e7d02d"/>
-		<rom name="SSETUP.EXE" size="165831" crc="43a2b339" md5="99d765c06c4b1bf85100db89d043a73c" sha1="f28aa569265285ad69389c924bafeb324d418adf"/>
-		<rom name="TEST.HMI" size="13125" crc="7fc4ae55" md5="17ad6180fac8a6bf23115b0ad169885a" sha1="30fdc0f7bfb84c848150c8570a34714e73c27c60"/>
-		<rom name="TEST.HMP" size="19069" crc="5355c0db" md5="3b39691c4bb3fd99a881c0c95e5c9411" sha1="9a0f0e758964714d780e68639c1d9c4fddf9eafc"/>
-		<rom name="TEST.WAV" size="27242" crc="4643bd74" md5="750d7e0924f8c545de440888a518e649" sha1="aae42a1be579675775616ebda2ca4950d151a288"/>
-		<rom name="TSD.EXE" size="1205706" crc="b460f8a3" md5="6bdbddf6fe1481d96a50c8deec790a94" sha1="39591c375ac8ad66f560bbd265784864b5773108" date="1996-10-14 23:34:34"/>
-		<rom name="TSD.ICO" size="766" crc="c2150df8" md5="bc6c7c3e23043813d752780ec3e4fcfa" sha1="cc9ead4b93261c277bbf3a0a66261dfe984bc2d6"/>
-		<rom name="TSD.OPT" size="207" crc="6f3b815c" md5="fa13a47d43346254f41ebb6f5091994f" sha1="6ffab74a242d0f2fea9002179aa8fec6073497ee"/>
-		<rom name="TSD.PIF" size="967" crc="dcc4e69a" md5="51770fbdc7c15d345e4f3e856dc7316c" sha1="1f956471c937b894273d068f3ab4f4c5389dacdf"/>
-		<rom name="VRITB166.CGL" size="86787" crc="a6b76e6c" md5="aa35ea875d5e9f4c619802c9a7a739ab" sha1="4879af323dcd786751b35c37315386b3e7acd1d0"/>
-	</game>
 	<game name="Elder Scrolls II, The - Daggerfall (1996) (Bethesda Softworks) (Unofficial Fixes).dosz">
 		<description>Elder Scrolls II, The - Daggerfall</description>
 		<comment>Installed from DaggerfallSetup v3.1.0, with default settings (all unofficial fixes, no unofficial quests or utilities). Needs DOS.YML with mem_size: 65536</comment>
