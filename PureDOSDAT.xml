@@ -2649,17 +2649,15 @@
 	<game name="Boulder Dash Construction Kit (1987) (First Star Software).dosz">
 		<description>Boulder Dash Construction Kit</description>
 		<comment>Files copied from 3.5" floppy disk</comment>
-		<comment_dosc>CGA mode to fix game speed, no joystick, and auto start</comment_dosc>
+		<comment_dosc>PCjr configuration, disable joystick, and auto start</comment_dosc>
 		<year>1987</year>
 		<developer>First Star Software</developer>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=2570</link>
 		<rom name="AUTOBAN.INT" size="512" crc="588e59f9" md5="1f0ec6d90ce39a14ef1629eb002eea5c" sha1="39dd4d6b6f9e62f8a71b5d75fb69db822b235800" date="1987-01-21 03:38:24"/>
-		<rom name="AUTOEXEC.BAT" size="128" crc="2f0bdff3" md5="9dbe7401a4a24571f0b5bd8b30b337a5" sha1="b2a6fa97d840b5503007a1b26d19358d9d16cd34" date="1987-09-17 18:15:54"/>
 		<rom name="BDCK_AM.EXE" size="71424" crc="3401fd15" md5="087b6204bbb76898ecdb630bfdbcb89d" sha1="1244d02f04d40e99405f8a0a1001a980a7496bcc" date="1987-09-02 17:44:12"/>
-		<rom name="BDCK_PC.EXE" size="68640" crc="a73a1941" md5="608e2069b0b5fa0393884cacec2b6eb3" sha1="b5b6921fb843ca7ce19bc173659e552d91e51879" date="1987-08-30 20:27:36"/>
 		<rom name="BLAST.CAV" size="512" crc="e3bc7bbd" md5="234d24b1f77ddf26b1d34823f421922c" sha1="3c886f804aee6297b4efb9a1403ae8194b3366d0" date="1987-01-21 03:37:20"/>
 		<rom name="CHASE.INT" size="512" crc="4c4b76cc" md5="ff1b12743eb6e324dd0c4498197a04b6" sha1="67460f766952930acdc78290c31a4c648073015c" date="1987-01-21 03:32:40"/>
 		<rom name="CLASH.CAV" size="512" crc="158c7b25" md5="9eb594478b8710d1b5c6d0a5eac8b3dd" sha1="4f36688c617d46bc0ee9f9eafef631fe4adc20b9" date="1987-01-21 03:37:56"/>
-		<rom name="COMMAND.COM" size="17792" crc="12c755d3" md5="2b2e074b33a00b3f35fd4e5e2a691c6a" sha1="159285769eeb19a14c19655e59c522d6c5f41ab1" date="1983-10-20 12:00:00"/>
 		<rom name="DICKHEAD.CAV" size="1024" crc="b22fd6be" md5="16cc3ca5c199e7b19bbd11094aca337e" sha1="bacc2ff2cd5c541e0e9bd251181c6e18680156a5" date="1980-01-01 00:03:04"/>
 		<rom name="DROP.INT" size="512" crc="5b573096" md5="ea4f1e312b88c9c0733357094e56afbd" sha1="3f258707c3c34b24abfcc2de84898d2912da1d57" date="1987-01-21 03:35:06"/>
 		<rom name="ESCAPADE.CAV" size="512" crc="b11f489f" md5="c8b5d23afb94d633c0de6704f3c13af6" sha1="1af1bfa293900887758fc63f6449ad6242fb04da" date="1987-01-21 03:32:00"/>
@@ -2668,8 +2666,6 @@
 		<rom name="FSS.CAV" size="512" crc="504f60c3" md5="ceda0d7464c7dc457f59c839b94637cd" sha1="9a34ce899fe5b5db00ea07bde1241e698b86bfe1" date="1987-05-29 13:24:40"/>
 		<rom name="GAME1.GAM" size="512" crc="237ae9a2" md5="d7321d2fac9038fc6a7d395826937c76" sha1="85250b9af4ee04fc08f77ce276fab194f66e1296" date="1987-07-13 08:02:28"/>
 		<rom name="GYRO.CAV" size="512" crc="d44486a2" md5="db863d5f68bdeeabc35342c044407bb5" sha1="f405d27316a3feb9fccc90157a8ca92d57a64535" date="1987-01-21 03:33:36"/>
-		<rom name="IBMBIO.COM" size="16369" crc="502d1846" md5="336ffd03c58e805aa1372671442f4a00" sha1="716d5ac33c2472aaf86adadeb9aa5701fe4f6dd9" date="1985-12-30 12:00:00"/>
-		<rom name="IBMDOS.COM" size="28477" crc="a7da53c5" md5="04baa0c094ba88e833300d3b9a1f4f13" sha1="3b9833823deb08cda1365ec3100ab6c738a78010" date="1985-12-30 12:00:00"/>
 		<rom name="JAIL.CAV" size="512" crc="8e85ce48" md5="e77151f3afc03a429551203bfea4d641" sha1="4a02e6e0d0a5ce6133eaee182233d5826ba20de4" date="1987-01-21 03:24:22"/>
 		<rom name="MAZE.CAV" size="512" crc="5b1358ba" md5="c093c9f4eb4f55ac1f7ac42bbf7a0936" sha1="50ce8c7ab3fe3a802372205713fb56c7e1d5f1bb" date="1987-01-21 03:36:42"/>
 		<rom name="PUSH.CAV" size="512" crc="87336edf" md5="64e48fd155e9ab1562c6ae2671e6f991" sha1="a802d3bbf37569f200a6ac2448aa87953e177a04" date="1987-05-21 14:31:34"/>
@@ -2733,7 +2729,7 @@
 		<comment_dosc>Copy protection patch, pre-configured, cpu speed limit, auto start</comment_dosc>
 		<year>1990</year>
 		<developer>SSI</developer>
-		<link type="media">https://www.goodolddays.net/en/diskimages/?id=159/</link>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=159</link>
 		<rom name="Buck Rogers Series (1990) (SSI).savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="BUCK/8X8D0.DAX" size="4571" crc="aebace2b" md5="cd6df12633c70b40f71dd8a6c75c6b60" sha1="66f72b09760c505df463b0a39415186f4adbdaab" date="1990-09-14 12:35:50"/>
 		<rom name="BUCK/8X8D1.DAX" size="16016" crc="3c01a956" md5="0b84869265e30ce6b8ee30c56d9bb950" sha1="4f430657c64b68af34a2cc469eb29cf981c8fa65" date="1990-09-13 11:40:02"/>
