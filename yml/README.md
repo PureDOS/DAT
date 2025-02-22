@@ -23,7 +23,7 @@ The following settings are supported, the default value is the first one listed 
 | `mem_doslimit`  | Whether to limit free conventional memory        | Default to all available, specified in kilobytes < 640      |
 | `video_card`    | Type of video card/machine to emulate            | __generic_svga__ / generic_hercules / generic_cga / generic_ega / generic_vga / tandy / pcjr / svga_s3_trio / svga_tseng_et3000 / svga_tseng_et4000 / svga_paradise_pvga1a |
 | `video_memory`  | Amount of video memory                           | __2048__ / 512 / 1024 / 4096                                |
-| `video_voodoo`  | Type of Voodoo 3dfx expansion card               | __v1_8mb__ / v1_4mb / none                              |
+| `video_voodoo`  | Type of Voodoo 3dfx expansion card               | __v1_8mb__ / v1_4mb / none                                  |
 | `sound_card`    | Type of sound card to emulate                    | __sb16__ / sb1 / sb2 / sbpro1 / sbpro2 / gameblaster / none |
 | `sound_port`    | The IO address of the sound card                 | __220__ / 240 / 260 / 280 / 2A0 / 2C0 / 2E0 / 300           |
 | `sound_irq`     | The IRQ number of the sound card                 | __7__ / 5 / 3 / 9 / 10 / 11 / 12                            |
