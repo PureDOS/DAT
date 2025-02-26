@@ -1,0 +1,421 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Pure DOS DAT - Mods</name>
+		<description>DOS Game Mods</description>
+		<version>2024-10-06 00-00-00</version>
+		<date>2024-10-06 00-00-00</date>
+		<author>Pure DOS DAT</author>
+		<homepage>Pure DOS DAT</homepage>
+		<url>https://github.com/PureDOS/DAT</url>
+	</header>
+	<game name="Army of Darkness Doom (1996) (Various).dosz">
+		<description>Army of Darkness Doom</description>
+		<comment>Doom II version. EXE created with DeHackEd and Doom32 (renamed to DOOM2.EXE). WAD created with DeuSF (deusf -app aoddoom2.wad)</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>1996</year>
+		<developer>Various</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<link type="freeware">https://www.doomworld.com/idgames/themes/aod/aoddoom2</link>
+		<rom name="aod-faq.txt" size="61719" crc="82b7062d" md5="bebae9e9f53029e04b6b6f39a298fc4c" sha1="4029033d4ee684eb6e01e2e866697c65a046e0b1" date="2003-11-26 14:36:50"/>
+		<rom name="aoddoom2.deh" size="10484" crc="c9176fc1" md5="1e6a7130fb093d6e3b4f09e24fc29a40" sha1="9a7d8001cc5d474fe43dbe118e073e5c020b0787" date="1995-08-02 09:38:54"/>
+		<rom name="AODDOOM2.EXE" size="709905" crc="ebdaaead" md5="d1f4997805412875021d04f33228b159" sha1="1a556ed1addad45d192b78fc0d6d6987f7581017"/>
+		<rom name="aoddoom2.txt" size="2915" crc="080426d0" md5="5187b0e718fca0e32d0c8f483cd018ac" sha1="bbaf33f0c4a166e84ff9f75a7eedd861b603e80f" date="2003-11-29 23:58:50"/>
+		<rom name="AODDOOM2.WAD" size="9521036" crc="4dfc700f" md5="7665b479c05441be2c9018c928677da0" sha1="d39188e82aff136e7ee4b0b17a80a852d42d6075"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Back to Saturn X - Episode 1 - Get out of My Stations (2012) (Esselfortium et al).dosz">
+		<description>Back to Saturn X - Episode 1 - Get out of My Stations</description>
+		<comment>EXE created with DeHackEd and Doom32 (renamed to DOOM2.EXE). Also includes helper WAD for Tartar</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>2012</year>
+		<developer>Esselfortium et al</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/btsx_e1</link>
+		<link type="freeware">https://www.moddb.com/mods/tartar/downloads/tartar-distro</link>
+		<rom name="btsx_e1.deh" size="4985" crc="886b0b4e" md5="d0be88dfb7c8820807dfe1e162a92764" sha1="12eda8aa7b0f9b09cf32b50cd3a05b0fe32e9972" date="2017-02-28 22:47:18"/>
+		<rom name="BTSX_E1.EXE" size="709905" crc="ec5f31c1" md5="8e93693f1be10df7a2b518cf1b56d34a" sha1="d1788c95cfcc8b634b8ba29dd2ce78745366bfc0"/>
+		<rom name="btsx_e1.txt" size="15746" crc="9f99bf0b" md5="8347202f5543af31a0b0d94ce3869180" sha1="e74f850524fc6f6bd46df2dffabb3c87aea2addf" date="2020-08-13 11:00:00"/>
+		<rom name="btsx_e1a.wad" size="22307013" crc="bc5709e2" md5="96530f7e149ab838b3a80c29570cd275" sha1="9c19bdf92d7a44249c88e0baf8cc6ec8b9b9e5d3" date="2020-08-13 11:15:08"/>
+		<rom name="btsx_e1b.wad" size="29449016" crc="65c1b3fa" md5="667a7b6160ab0f64d853a5142a9a31de" sha1="6535aa24ad7b68b7e598dceabf25043b88f6dc12" date="2020-06-22 23:43:58"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="TARTAR/SHIMS/btsx_e1a.wad" size="61" crc="64badc7c" md5="274301dc260895382c551ea01b8cd382" sha1="31f9e732f275f95adfa13b83f88d3f8a4e83c79c" date="2023-11-27 10:30:30"/>
+	</game>
+	<game name="Boom (1998) (TeamTNT).dosz">
+		<description>Boom</description>
+		<comment>v2.02</comment>
+		<comment_dosc>Sound Blaster 16 config</comment_dosc>
+		<year>1998</year>
+		<developer>TeamTNT</developer>
+		<parent>Doom Series Mod Base.dosz</parent>
+		<link type="freeware">https://www.doomworld.com/idgames/themes/TeamTNT/boom/boom202</link>
+		<rom name="ABOUT.TXT" size="1372" crc="05c2554c" md5="0b3c646b63468551051ea2f775d221df" sha1="19ac4a706c368a3b9249ba35942270448babc61d" date="1999-10-09 17:03:54"/>
+		<rom name="ASETUP.EXE" size="238752" crc="41dbbb0e" md5="b484fc0b71e22b51e67c26a2d66feaa8" sha1="0870e25f1c90b1add0f6eed46930e45915a6ce3e" date="1998-04-06 09:34:06"/>
+		<rom name="BOOM.EXE" size="453496" crc="8b51fcf1" md5="4dd1091ef987c3941a619d1d7b154244" sha1="959369a884764081d32fda622d06b5b66e47d3a5" date="1999-10-09 17:06:50"/>
+		<rom name="BOOM.TXT" size="50915" crc="ef6b75c2" md5="804e2d1f9921223b085220dde4bd5cf2" sha1="447eff124edfc5d7b97f7cf33f77d8fab1299024" date="1999-10-09 17:35:32"/>
+		<rom name="BOOMDEH.TXT" size="111755" crc="39d8d19f" md5="ea78c0d7295280c05ea7c44041571374" sha1="1c6af93aed2a08eaee92628a300fee74207a3931" date="1998-09-14 07:59:36"/>
+		<rom name="BOOMREF.TXT" size="101801" crc="b3703d40" md5="9bf787ff589a9b9b333b48720b52137c" sha1="77e4aa848f401d160bcc25402304e7cab3cdb9b0" date="1998-10-20 01:17:36"/>
+		<rom name="COPYING" size="18445" crc="29c91be7" md5="155e6318a36dd84df99cb5d41b4ae3f0" sha1="c5d76dff23914c557b008c1870309ede7f7d3a02" date="1999-10-08 12:21:32"/>
+		<rom name="CWSDPMI.EXE" size="20473" crc="80fa6999" md5="da922d33e83c4ca711a92e59f2c6a9fc" sha1="3de2eb058ed95a0bbe7f19eae24f77a025b2e3bb" date="1997-10-19 21:48:14"/>
+		<rom name="Doom Series Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="GO32-V2.EXE" size="62468" crc="803b2e81" md5="e17de130701f36bdb2b1c85baefc73d5" sha1="df25dd135bb517fb175761991140e07a071de873" date="1996-08-12 22:57:26"/>
+		<rom name="IPXBOOM.EXE" size="26976" crc="6bddb164" md5="459e459d7cc62dce186edc5a8b8de6fc" sha1="af5196669a231fe37686272c3de90f7f3b8ace16" date="1998-04-06 09:34:06"/>
+		<rom name="KEYCODE.EXE" size="52920" crc="a7253c1d" md5="4a21582ebf40f6a5bfbdd8d3e20cb676" sha1="1da28ec1cc8760417a7aeba91dae928c8f5c7d17" date="1998-04-06 09:34:06"/>
+		<rom name="SERBOOM.EXE" size="58732" crc="72c94d7e" md5="4965195c6260a90ea7e905cdafb7048a" sha1="a9ca4dac679116ed6ef59a7a39d0093c111e4461" date="1998-09-08 19:33:24"/>
+		<rom name="SNDDRVR.TXT" size="9490" crc="438c4c61" md5="f0a7ce55388bf15efb57811cd92b3d35" sha1="0316510437f835b0b8f6e4a27e55f35e8ddbdae1" date="1998-05-12 09:09:38"/>
+	</game>
+	<game name="Doom Engines.dosz">
+		<description>Doom Engines</description>
+		<comment>Base for Doom wads. Includes Tartar 2024-10-16, Doom32, UDoom32, FDoom32, SETUP.EXE and IPXSETUP.EXE from shareware Doom v1.9, MMOUSE.COM from Doomkid's vanilla wad collection. Needs DOS.YML with mem_size: 65536</comment>
+		<comment_dosc>Sound Blaster 16 config and auto start. General MIDI, modern controls, and source port options</comment_dosc>
+		<link type="freeware">https://www.moddb.com/mods/tartar/downloads/tartar-distro</link>
+		<link type="freeware">https://github.com/drivelling-spinel/tartar/releases/tag/tartar-stage5m2-preview2</link>
+		<link type="freeware">https://doomwiki.org/wiki/Doom32</link>
+		<link type="freeware">https://doomwiki.org/wiki/UDoom32</link>
+		<link type="freeware">https://www.doomworld.com/forum/topic/86380-exe-hacking/?page=7&amp;tab=comments#comment-2321118</link>
+		<link type="shareware">https://github.com/Doom-Utils/shareware-collection/tree/master/Doom%201.9</link>
+		<link type="freeware">https://www.doomworld.com/forum/topic/114671/</link>
+		<rom name="DOOM32.EXE" size="709905" crc="300fb4b3" md5="ed757a8326530045c0b6c5d04b5cca12" sha1="39790004a882b83e4dfe65bb9f0a16f24dbe2728" date="2011-10-11 11:14:34"/>
+		<rom name="DOS.YML" size="17" crc="9e2ade80" md5="5e4e9514ccbed110c66ed799f2b0c449" sha1="7ff552bf9a73a8ba6fe5089d140c63e3d6be659c"/>
+		<rom name="FDOOM32.EXE" size="722629" crc="8105c546" md5="3edc7741bce0357d825b2af71834edd1" sha1="608cb8aac1e6be72c78a9ce93698a218ebb0039b" date="2021-05-26 15:23:38"/>
+		<rom name="IPXSETUP.EXE" size="18051" crc="8bf1d4d4" md5="7000e71566d8a50848a68969ec9c3b75" sha1="c76c6eb16dd2d27acfd8da049d0727744381095b" date="1995-02-01 01:09:04"/>
+		<rom name="MMOUSE.COM" size="416" crc="50bf9ead" md5="bb4f5f4627f366fdf5ecf3efad2b4e3c" sha1="03f606e257384109e8ebe9b4ce7132df5141ad3c" date="2022-04-15 23:14:48"/>
+		<rom name="MMOUSE.TXT" size="3227" crc="dfa2ac8d" md5="d3858629b9c21bc943b27e615280b15c" sha1="8e1b0172b4ec8fa8914bb335bf425be18ddcd948" date="2022-04-15 21:45:40"/>
+		<rom name="SETUP.EXE" size="45884" crc="7c86a122" md5="7ef57471aab70e3983dbfd3cbd4d25a7" sha1="65cbef6d502edd6f11a2b505339cf66c78b46a49" date="1995-02-01 01:09:04"/>
+		<rom name="TARTAR/COPYRGHT/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2023-06-14 12:01:40"/>
+		<rom name="TARTAR/COPYRGHT/cod10src.txt" size="3451" crc="8cf5ab52" md5="e0fb98eef030cadfd40e865bf35e87cd" sha1="eb14c25763286f86a78cd7eb2bffc84459842a33" date="2021-11-06 18:08:22"/>
+		<rom name="TARTAR/COPYRGHT/COPYING" size="17982" crc="82734a69" md5="8ca43cbc842c2336e835926c2166c28b" sha1="075d599585584bb0e4b526f5c40cb6b17e0da35a" date="2021-11-06 17:53:42"/>
+		<rom name="TARTAR/COPYRGHT/COPYING.DJ" size="1625" crc="9bc17601" md5="ead084c557c7d429bb510d631cec97db" sha1="e1438d76f1bfd045c1eb5e7cd0fbb6a25e65c312" date="2021-11-06 17:53:44"/>
+		<rom name="TARTAR/COPYRGHT/DOOMLIC.TXT" size="5494" crc="1492fddd" md5="1cdfdebf5ce458980ccff1826add9e47" sha1="b735f2f4021989e6f598d50722b3d9d475fb2178" date="1998-01-26 11:29:26"/>
+		<rom name="TARTAR/COPYRGHT/ee331b7-dos.txt" size="7613" crc="355da27e" md5="b33375aee1d3c885d71175e8748e9d37" sha1="232de15a1032fcbec5660cbfa0c34f19e37b814e" date="2021-11-06 18:06:42"/>
+		<rom name="TARTAR/COPYRGHT/MBFUP204.TXT" size="14858" crc="d75613fa" md5="3c6ea98ea5368ec184b50e8f28be6107" sha1="f11431c24e19279af6ac94d1670ff2eda2ec99d9" date="2017-09-10 21:06:56"/>
+		<rom name="TARTAR/COPYRGHT/zdoomcode-license.txt" size="1723" crc="02b3fbb6" md5="55669097e258cbb08892e348a369093e" sha1="4f215d541f05ac4d1023438d5312498df867abef" date="2021-11-06 17:53:44"/>
+		<rom name="TARTAR/CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2022-05-11 15:38:04"/>
+		<rom name="TARTAR/ETERNITY.WAD" size="1165696" crc="6b8a58ff" md5="2b5a72557899cd80a35d9a44d40a0ead" sha1="80b9ea08c66af67aa8aec60d3001ce909d686abf" date="2021-11-07 04:38:42"/>
+		<rom name="TARTAR/FILTERS/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2023-11-01 04:06:12"/>
+		<rom name="TARTAR/FIXES/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2023-11-28 18:17:50"/>
+		<rom name="TARTAR/FIXES/CHEX/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2023-11-01 04:05:32"/>
+		<rom name="TARTAR/FIXES/DOOM/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2023-11-01 04:05:10"/>
+		<rom name="TARTAR/FIXES/DOOM2/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2023-11-01 04:05:14"/>
+		<rom name="TARTAR/FIXES/HACX/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2023-11-01 04:05:22"/>
+		<rom name="TARTAR/FIXES/PLUTONIA/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2023-11-28 18:17:50"/>
+		<rom name="TARTAR/FIXES/PLUTONIA/noslmfix.wad" size="49" crc="388e709e" md5="0addf427e180c1e734223feff96ebbc4" sha1="f9e746209446b47839761f0e3426a1eb753b7617" date="2023-01-21 19:02:42"/>
+		<rom name="TARTAR/FIXES/TNT/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2023-11-01 04:05:26"/>
+		<rom name="TARTAR/GOODIES/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2023-11-28 18:18:14"/>
+		<rom name="TARTAR/GOODIES/SHIMS/1st_enc.wad" size="313" crc="5a387339" md5="6421488cbbb0ef433224aefaf3fa8b1f" sha1="49d3131cf4a27230209a10ca488b4d2834da16b6" date="2023-04-17 18:11:06"/>
+		<rom name="TARTAR/GOODIES/SHIMS/2022ado.wad" size="18000" crc="5d315f80" md5="a14cd8cc2e3927c8570a9f9dd565bc85" sha1="0d273d26f1215ad003d210f0ae1630198064ffdc" date="2023-02-03 17:42:16"/>
+		<rom name="TARTAR/GOODIES/SHIMS/2nd_enc.wad" size="2133" crc="609fd19d" md5="85d7ab4832c0bc2b1ae1e18cc2962990" sha1="5b934d28fe51ade18517b67cf00489220453c9c9" date="2023-04-17 18:13:52"/>
+		<rom name="TARTAR/GOODIES/SHIMS/3DODOOM.WAD" size="4156" crc="aebcc856" md5="897cef2b7f462a9d09eae930fbd3ad33" sha1="c866aeb56ada65dbbe2a74411dcea591b1c002e4" date="2022-06-12 05:14:00"/>
+		<rom name="TARTAR/GOODIES/SHIMS/aftermth.wad" size="248" crc="9ce7a4fe" md5="5c4ea72e434e039d6ceaf95304eac0d7" sha1="6f79fc73fb4e0d5e8b7b3346d1e535cfccc8d54b" date="2023-04-17 18:11:18"/>
+		<rom name="TARTAR/GOODIES/SHIMS/arctlev.wad" size="1072" crc="26ad8117" md5="e8ba6f7769b68e373152eb5d16e60a24" sha1="4076e80c3219429b93a30d8692cbee64bde4aac6" date="2023-04-16 12:11:30"/>
+		<rom name="TARTAR/GOODIES/SHIMS/astro.wad" size="603" crc="e08dfce7" md5="db4fb76a32ef5771211005d271f337a1" sha1="dc872b37a580f60fc104dc077ba70485bb6bad6c" date="2023-06-07 17:36:10"/>
+		<rom name="TARTAR/GOODIES/SHIMS/astro2.wad" size="603" crc="e08dfce7" md5="db4fb76a32ef5771211005d271f337a1" sha1="dc872b37a580f60fc104dc077ba70485bb6bad6c" date="2023-06-07 17:36:28"/>
+		<rom name="TARTAR/GOODIES/SHIMS/astro3.wad" size="743" crc="b5fe6fc1" md5="eeda53e5c1cb567ddf9f505d1b454f87" sha1="d1c222a9b4bbcebc3e3288b5a05937f6fe938ba2" date="2023-04-16 12:22:22"/>
+		<rom name="TARTAR/GOODIES/SHIMS/btsx_e1a.wad" size="61" crc="64badc7c" md5="274301dc260895382c551ea01b8cd382" sha1="31f9e732f275f95adfa13b83f88d3f8a4e83c79c" date="2023-11-27 10:30:30"/>
+		<rom name="TARTAR/GOODIES/SHIMS/btsx_e2a.wad" size="61" crc="64badc7c" md5="274301dc260895382c551ea01b8cd382" sha1="31f9e732f275f95adfa13b83f88d3f8a4e83c79c" date="2023-11-27 10:30:30"/>
+		<rom name="TARTAR/GOODIES/SHIMS/BTSXE3PR.wad" size="679" crc="9dca663e" md5="3fca1e97e500547a04657ae9f5fa2c51" sha1="d46625c1aa9d18320e0cb60c0c91648bfbf5ddfd" date="2023-12-22 05:58:20"/>
+		<rom name="TARTAR/GOODIES/SHIMS/CONFRONT.WAD" size="67732" crc="764ecf6e" md5="0f31c82700e863ffc6ff08107332dc74" sha1="3677e768b12a8703f36b66a50635caa2e263362e" date="2023-06-07 17:21:16"/>
+		<rom name="TARTAR/GOODIES/SHIMS/DFMI11.WAD" size="1676" crc="0186411c" md5="7873700eac4c699ccb854bcc4052ad6e" sha1="5f78ade91f09f4488c4729354bf9edf7a4011e28" date="2023-10-31 16:55:06"/>
+		<rom name="TARTAR/GOODIES/SHIMS/die.wad" size="723" crc="8378ce0c" md5="61c4b29244111de2ad8caf44be43a4d1" sha1="cf21a3459661cd39903883ba7260ff2ab2a20fca" date="2023-06-07 17:16:48"/>
+		<rom name="TARTAR/GOODIES/SHIMS/eisen.wad" size="462" crc="6b40a44b" md5="e987bea09cc39ee76a2bc5507f7bc6ed" sha1="726cbe210b64107fb4f5dbbd017aa08a2ffd2f8d" date="2023-04-17 15:35:16"/>
+		<rom name="TARTAR/GOODIES/SHIMS/ESCAPE.WAD" size="67732" crc="81df05b3" md5="f4429a1231d21d37d573672ffd8e536e" sha1="3e7c5ed6441a26d3159a1d455ef2da7d86a28e21" date="2023-06-07 17:24:20"/>
+		<rom name="TARTAR/GOODIES/SHIMS/ETC.WAD" size="206020" crc="7fc397bd" md5="6f165c36f1b8dcba8cbc666cea4cded8" sha1="cf7fcd2a56e47b66a830f972a4ec278510206f2e" date="2021-11-08 09:45:20"/>
+		<rom name="TARTAR/GOODIES/SHIMS/FAUST.WAD" size="67732" crc="75802a35" md5="897a034d94e7789deb0c35afc60a63da" sha1="1e0e7a0d0eb516c65ed75d4e5471673868855d2c" date="2023-06-07 17:23:54"/>
+		<rom name="TARTAR/GOODIES/SHIMS/FUHRER.WAD" size="67645" crc="0908dcd0" md5="4a70c00dfa5b9b3ebb529bfc9e264718" sha1="b1ae32c41cdd0b151ace20fd0b4f08cc9cbd6222" date="2023-06-07 17:23:12"/>
+		<rom name="TARTAR/GOODIES/SHIMS/gfx1.wad" size="1008" crc="0480bc4f" md5="7d3c2ec7ace79920e0972a46dade0b4d" sha1="c96f46a9d34bff583aeed88a7fc24d05bcf417b1" date="2023-04-16 12:27:04"/>
+		<rom name="TARTAR/GOODIES/SHIMS/gfx2.wad" size="1008" crc="0480bc4f" md5="7d3c2ec7ace79920e0972a46dade0b4d" sha1="c96f46a9d34bff583aeed88a7fc24d05bcf417b1" date="2023-04-16 12:27:04"/>
+		<rom name="TARTAR/GOODIES/SHIMS/halten.wad" size="814" crc="cb3db65e" md5="73b72bce525e9382e3cc01c30cb77ada" sha1="a441aef6af45091a65ab92c4d47bfa9183b9a6d3" date="2023-06-07 17:14:38"/>
+		<rom name="TARTAR/GOODIES/SHIMS/HELL2PAY.WAD" size="2493" crc="da6791f0" md5="e898e4743e004437f1915c4e2bca4d02" sha1="4df664184d9c76b65febeec06734a7d1aa29d861" date="2023-10-31 16:57:06"/>
+		<rom name="TARTAR/GOODIES/SHIMS/hunt.wad" size="967" crc="0e7e3393" md5="6d900d547ff02a63fc90eca3faa88da7" sha1="cab283a768301342c8cc1892c14f827e7a9ab49b" date="2023-06-07 17:16:00"/>
+		<rom name="TARTAR/GOODIES/SHIMS/Hydrosphere.wad" size="1205" crc="b37107e8" md5="769b7bfef576139df39774e807a3f937" sha1="2cbe5f1996a83ba3b7d282776ee12325f1e39fb4" date="2022-12-27 05:15:22"/>
+		<rom name="TARTAR/GOODIES/SHIMS/KDiKDi_A.wad" size="285032" crc="aa97492b" md5="8e5d7ad1eceb43bf355560eb39b34a43" sha1="db20d0e0b260df97cbb68be4c6e7c0ea7a7cdd48" date="2022-12-26 15:36:36"/>
+		<rom name="TARTAR/GOODIES/SHIMS/LONGTREK.WAD" size="1873" crc="b03d2233" md5="dfbf652596ea21fcff8a80a5766cf983" sha1="fc49d11ba7d5effd4ecaea1b7a1adbc14ff42d7f" date="2022-05-27 19:54:34"/>
+		<rom name="TARTAR/GOODIES/SHIMS/NEIS.WAD" size="462" crc="1efba73f" md5="0f086962b0c23c1b19addcbe1bc0edc9" sha1="a2ecab8997c391e9225c8480c042c831dd6fb324" date="2023-09-22 08:22:20"/>
+		<rom name="TARTAR/GOODIES/SHIMS/NERVE.WAD" size="292751" crc="145aa2e7" md5="c6ca724e5a108c4f3974ac74ae3f9208" sha1="05f4d0263b064f120f1976be3451a839c425f778" date="2022-06-14 15:23:10"/>
+		<rom name="TARTAR/GOODIES/SHIMS/PERDGATE.WAD" size="2493" crc="da6791f0" md5="e898e4743e004437f1915c4e2bca4d02" sha1="4df664184d9c76b65febeec06734a7d1aa29d861" date="2023-10-31 16:57:06"/>
+		<rom name="TARTAR/GOODIES/SHIMS/REKKR.wad" size="61" crc="64badc7c" md5="274301dc260895382c551ea01b8cd382" sha1="31f9e732f275f95adfa13b83f88d3f8a4e83c79c" date="2023-11-27 10:30:30"/>
+		<rom name="TARTAR/GOODIES/SHIMS/rhein1.wad" size="213" crc="080359e3" md5="6af4b2b97e8a3714dbfcf491a822dc1e" sha1="7d3570a175809673a58a94facd80d43d71f2dbbd" date="2023-04-16 12:33:34"/>
+		<rom name="TARTAR/GOODIES/SHIMS/rhein2.wad" size="266" crc="945af617" md5="f92dc3dd53fcfb1bb147d73ff3fe0d55" sha1="505b338fe399e5e35ce4c47303bd88631befe2a0" date="2023-04-16 12:33:56"/>
+		<rom name="TARTAR/GOODIES/SHIMS/SECRET.WAD" size="67647" crc="9b36b2a2" md5="abcdaa6c60f4c938d7edff21fc35d7c6" sha1="452a5c34b5f7a67e05cb8e79298c26578d69f86e" date="2023-06-07 17:18:48"/>
+		<rom name="TARTAR/GOODIES/SHIMS/SIGIL_II.WAD" size="3255" crc="acd69b13" md5="6ba4f1738c399fc299530f1147bac054" sha1="3544d49d40a430eea5d53c2ec0453f70386382ad" date="2023-12-16 18:18:26"/>
+		<rom name="TARTAR/GOODIES/SHIMS/SOD.WAD" size="71257" crc="b9971313" md5="ee1df4c098daaedbdd062297fb3e596c" sha1="ae418414826b5aaf1f8ef07aac7433620883e145" date="2023-06-07 17:04:00"/>
+		<rom name="TARTAR/GOODIES/SHIMS/toten.wad" size="583" crc="4852347d" md5="5b8d14c2d7ee45f73bec6993d3b74dd0" sha1="dd0be32138c92ceafe6afb9b2fb89c435b67d33d" date="2023-04-16 12:32:04"/>
+		<rom name="TARTAR/GOODIES/SHIMS/TRAIL.WAD" size="67732" crc="d6fcdbd8" md5="382257f8b05383045b84d7f807efa440" sha1="e44e8ecd2ae93fc9e8b3b136afc2fce16033a9db" date="2023-06-07 17:17:48"/>
+		<rom name="TARTAR/keyboard.dat" size="4450" crc="f1f3f4de" md5="b91702fe6d203b338b0477c55663b767" sha1="6ed1373ee87ea153a75e9ab4b6ec53375be92134" date="1997-11-29 07:01:20"/>
+		<rom name="TARTAR/SETUP.EXE" size="233348" crc="8614f560" md5="58112e5a45f477fcf3610057993dd6c7" sha1="dbd8c8f9b25274e5dd045a790f3c3f7f02333bb4"/>
+		<rom name="TARTAR/SHIMS/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2023-11-01 04:06:04"/>
+		<rom name="TARTAR/SKINS/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2023-11-01 04:05:56"/>
+		<rom name="TARTAR/tartar.exe" size="453136" crc="fd4ef4e8" md5="9064181c67745c6a1537e5ec7a4e0d52" sha1="1dd66d7c9846b984fb1dff65734992e9ec9a8581"/>
+		<rom name="UDOOM32.EXE" size="715493" crc="b8bb6dd5" md5="f53ef01bf83c5a2865130de4498a2c62" sha1="bd518991e8f7363810d55925530ca235b30b9b41" date="2021-05-26 15:34:54"/>
+	</game>
+	<game name="Doom II Mod Base.dosz">
+		<description>Doom II Mod Base</description>
+		<comment>Minimal files from Doom II v1.9</comment>
+		<parent>Doom Engines.dosz</parent>
+		<rom name="Doom Engines.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOM2.EXE" size="709905" crc="be91c727" md5="e2382b7dc47ae2433d26b6e6bc312999" sha1="aa0668fae2f743ee5e3e5634ee42d3c8ace7d907"/>
+		<rom name="DOOM2.WAD" size="14604584" crc="ec8725db" md5="25e1459ca71d321525f84628f45ca8cd" sha1="7ec7652fcfce8ddc6e801839291f0e28ef1d5ae7"/>
+		<rom name="SETUP.EXE" size="45745" crc="0025fe95" md5="675564fcd380f5ef9beb0e7b21a51f79" sha1="f8644ace438896f9a788629d8da869bd34926f91"/>
+	</game>
+	<game name="Doom II v1.666 Mod Base.dosz">
+		<description>Doom II v1.666 Mod Base</description>
+		<parent>Doom Engines.dosz</parent>
+		<rom name="Doom Engines.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOM2.EXE" size="687001" crc="5f7ede6f" md5="22e3fc7854f030df977d26faf1e342be" sha1="67e14e8e7809d80ee0d2da3a8082457f534e17d2" date="1994-08-29 19:56:54"/>
+		<rom name="DOOM2.WAD" size="14943400" crc="e2a683bd" md5="30e3c2d0350b67bfbf47271970b74b2f" sha1="6d559b7ceece4f5ad457415049711992370d520a" date="1994-08-29 19:56:54"/>
+		<rom name="SETUP.EXE" size="92726" crc="7f186cb6" md5="8ce92aa9269dd3add04b6d37c71f1d24" sha1="5bb1606196558901b5db6c90da8b17494f539c3f" date="1994-08-29 19:56:54"/>
+	</game>
+	<game name="Doom II v1.7 Mod Base.dosz">
+		<description>Doom II v1.7 Mod Base</description>
+		<parent>Doom Engines.dosz</parent>
+		<rom name="Doom Engines.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOM2.EXE" size="686993" crc="9116ce4c" md5="ef9a1f197d56a174097a2af3ccdd7403" sha1="c50791dd82355bdcd52b590c91106661498aabd3" date="1994-09-21 18:38:08"/>
+		<rom name="DOOM2.WAD" size="14612688" crc="47daeb2e" md5="ea74a47a791fdef2e9f2ea8b8a9da13b" sha1="78009057420b792eacff482021db6fe13b370dcc" date="1994-09-21 18:38:08"/>
+		<rom name="SETUP.EXE" size="92726" crc="7f186cb6" md5="8ce92aa9269dd3add04b6d37c71f1d24" sha1="5bb1606196558901b5db6c90da8b17494f539c3f" date="1994-09-21 18:38:08"/>
+	</game>
+	<game name="Doom Series Mod Base.dosz">
+		<description>Doom Series Mod Base</description>
+		<comment>Used as a base for individual source ports. Minimal files from Ultimate Doom, Doom II, and Final Doom. Needs DOS.YML with mem_size: 65536</comment>
+		<rom name="DOOM.WAD" size="12408292" crc="bf0eaac0" md5="c4fe9fd920207691a9f493668e0a2083" sha1="9b07b02ab3c275a6a7570c3f73cc20d63a0e3833"/>
+		<rom name="DOOM2.WAD" size="14604584" crc="ec8725db" md5="25e1459ca71d321525f84628f45ca8cd" sha1="7ec7652fcfce8ddc6e801839291f0e28ef1d5ae7"/>
+		<rom name="DOS.YML" size="17" crc="9e2ade80" md5="5e4e9514ccbed110c66ed799f2b0c449" sha1="7ff552bf9a73a8ba6fe5089d140c63e3d6be659c"/>
+		<rom name="PLUTONIA.WAD" size="18240172" crc="15cd1448" md5="3493be7e1e2588bc9c8b31eab2587a04" sha1="f131cbe1946d7fddb3caec4aa258c83399c21e60"/>
+		<rom name="TNT.WAD" size="18654796" crc="d4bb05c0" md5="1d39e405bf6ee3df69a8d2646c8d5c49" sha1="4a65c8b960225505187c36040b41a40b152f8f3e"/>
+	</game>
+	<game name="Doom the Way id Did (2011) (Various).dosz">
+		<description>Doom the Way id Did</description>
+		<comment>EXE created with DeHackEd and UDoom32 (renamed to DOOM.EXE)</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>2011</year>
+		<developer>Various</developer>
+		<parent>Ultimate Doom Mod Base.dosz</parent>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom/megawads/dtwid</link>
+		<rom name="DTWID.deh" size="2047" crc="3786ba31" md5="28266c6405a5f7c026a52143a686da2d" sha1="2cec9b60b23a615ae24bd92303e2aa321c8be12a" date="2011-12-11 18:11:32"/>
+		<rom name="DTWID.EXE" size="715493" crc="41bf86c1" md5="85b70c9ec8631a15296b5a301014fdb6" sha1="85b2a42043f78d843875c60a33fc53d5abda4a90"/>
+		<rom name="DTWID.txt" size="8448" crc="3535419b" md5="3ec926cdc1ed38d59359c4c55bb475d8" sha1="afff310f13d50b7539dfef4002414767608d88ae" date="2012-02-05 15:20:28"/>
+		<rom name="DTWID.wad" size="5073423" crc="5d99d356" md5="73f2c37d5b42a3eada2127dbdd23907b" sha1="ae8fa5c60b74baac9c8fdc125c995589c3d0338b" date="2012-02-07 13:54:56"/>
+		<rom name="Ultimate Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Doom v1.2 Mod Base.dosz">
+		<description>Doom v1.2 Mod Base</description>
+		<parent>Doom Engines.dosz</parent>
+		<rom name="Doom Engines.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOM.EXE" size="580391" crc="7734c756" md5="3f9591955116ed548f2e331586e8d816" sha1="1405dbfce801b22cd5c8079947e17f48c73c913e" date="1994-02-17 01:20:00"/>
+		<rom name="DOOM.WAD" size="10399316" crc="a5da8930" md5="792fd1fea023d61210857089a7c1e351" sha1="b5f86a559642a2b3bdfb8a75e91c8da97f057fe6" date="1994-02-17 01:20:00"/>
+		<rom name="SETUP.EXE" size="91931" crc="db8b4f8b" md5="8167c20b553e59c1c46f4b079d3f83e8" sha1="5784b4c498817b6d18a489d61921e15c8d02d5d8" date="1994-02-17 01:20:00"/>
+	</game>
+	<game name="Doom v1.666 Mod Base.dosz">
+		<description>Doom v1.666 Mod Base</description>
+		<parent>Doom Engines.dosz</parent>
+		<rom name="Doom Engines.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOM.EXE" size="687001" crc="084677c4" md5="be2d05789beb3b56692a2ccd83f8c510" sha1="be2799fcdd36df85f81d87fca03b28d86d611e46" date="1994-09-01 16:42:00"/>
+		<rom name="DOOM.WAD" size="11159840" crc="f756aab5" md5="54978d12de87f162b9bcc011676cb3c0" sha1="2e89b86859acd9fc1e552f587b710751efcffa8e" date="1994-09-01 16:42:00"/>
+		<rom name="SETUP.EXE" size="95184" crc="2a5941e1" md5="498e840007a4d18605c2facca4c55769" sha1="f098bdc1ff72a3c862761c0de8b3714905558365" date="1994-09-01 16:42:00"/>
+	</game>
+	<game name="Marine's Best Friend (1998) (Lee Killough).dosz">
+		<description>Marine's Best Friend</description>
+		<comment>v2.03. Extracted EXAMPLES.ZIP</comment>
+		<comment_dosc>Sound Blaster 16 config</comment_dosc>
+		<year>1998</year>
+		<developer>Lee Killough</developer>
+		<parent>Doom Series Mod Base.dosz</parent>
+		<link type="freeware">https://www.doomworld.com/idgames/source/mbf</link>
+		<rom name="ASETUP.EXE" size="524800" crc="9006fb47" md5="49d865af954b0b6f26180b4d2d3f2be7" sha1="180f6cbcb1ba35a0a42db8ca997f92b46c8ae9c7" date="1998-09-08 18:28:22"/>
+		<rom name="BETAGRPH.WAD" size="750624" crc="d4cd6303" md5="2ed0f02281bee22bded4d4aac980558f" sha1="bd1b63d219622eddcb54825a85c65d5289c69ace" date="1998-10-18 18:57:14"/>
+		<rom name="BETALEVL.WAD" size="1157999" crc="ee40c68a" md5="3806ec51258d6fc1fae78b52809b631c" sha1="97d0f961ec7f08c3b6ba86230653b52daae98010" date="1998-11-01 23:59:48"/>
+		<rom name="COMMON.CFG" size="34531" crc="bdefc5e4" md5="574d3d4c168b345f6ca263ed466209cb" sha1="6b19ac0ad64e4375a68e7c73e1235b8ab1b25262" date="1998-11-01 22:29:58"/>
+		<rom name="COPYING" size="18445" crc="29c91be7" md5="155e6318a36dd84df99cb5d41b4ae3f0" sha1="c5d76dff23914c557b008c1870309ede7f7d3a02" date="1999-10-08 12:21:32"/>
+		<rom name="COPYING.DJ" size="1625" crc="9bc17601" md5="ead084c557c7d429bb510d631cec97db" sha1="e1438d76f1bfd045c1eb5e7cd0fbb6a25e65c312" date="1993-06-01 01:30:54"/>
+		<rom name="CWSDPMI.EXE" size="20217" crc="6ba5fa62" md5="7010b5c42dbe97b0c841f652a8580d90" sha1="f3e66d75aab6a3cece6fad9d09a07b1a15e2ad7a" date="1996-08-18 18:46:18"/>
+		<rom name="Doom Series Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOM17.DAT" size="13683" crc="d83b3d77" md5="37d3c5149f9adcad65893ab60d1b9340" sha1="d635a2b2361f1b8cddc656462aa11cc314d993e8" date="1998-11-16 01:07:06"/>
+		<rom name="DOOMLIC.TXT" size="5494" crc="1492fddd" md5="1cdfdebf5ce458980ccff1826add9e47" sha1="b735f2f4021989e6f598d50722b3d9d475fb2178" date="1998-01-26 19:29:26"/>
+		<rom name="EXAMPLES/BATTLE.WAD" size="8464" crc="d07e9000" md5="b588025a257309d33237ab4a68a8145d" sha1="06e649642cf96600202c314ccd275e12cf5c91c1" date="1998-11-01 00:40:22"/>
+		<rom name="EXAMPLES/DOGFLY.DEH" size="154" crc="68bf88ab" md5="b7092100ed3e53c491e288e1d56d02a8" sha1="484e2be0d381f425d31aafeb085fd3fff7a7b4b0" date="1998-12-07 07:04:04"/>
+		<rom name="EXAMPLES/DONUT.TXT" size="1688" crc="3ada429b" md5="98776ebc30b6eedeac5bd2abb2ac8318" sha1="fd5603e1c721d52e2f9c8bc8452457970725de97" date="1999-01-02 02:15:18"/>
+		<rom name="EXAMPLES/DONUT.WAD" size="14465" crc="f53dc955" md5="827dba74972627e7b48f4f986070cf51" sha1="1714ac72a00f3dc3c371a995741ca21c8fd630f5" date="1998-10-29 13:24:18"/>
+		<rom name="EXAMPLES/FIREPLAS.DEH" size="223" crc="98bb9d2b" md5="2d5f04b15484a1b3d93fa8dd1d0a47ab" sha1="e92e3a3077993316d078d76f6b0b00be522c9128" date="1998-11-27 09:36:20"/>
+		<rom name="EXAMPLES/FLY.DEH" size="186" crc="29941864" md5="6c09b6562891480ef775f525e7336b32" sha1="f25b16f379b700768873d8503ddcf2bd385857c4" date="1998-10-26 23:18:36"/>
+		<rom name="EXAMPLES/FRIEND.DEH" size="588" crc="62d743d1" md5="91f6d69be13a0176177e0b99b04f938c" sha1="689773adef40e0989e6b85ba5e136d09d1e5f7b2" date="1998-11-01 17:08:32"/>
+		<rom name="EXAMPLES/GRENADE.DEH" size="423" crc="fd89e89c" md5="247e17e66cdeefa8aaa1c6c88541c9ea" sha1="1c2773ecf5b4c361af88302e177bffccf542051e" date="1998-11-22 17:24:48"/>
+		<rom name="EXAMPLES/HOCKEY.WAD" size="114180" crc="38d26e05" md5="1a5806371a63b94a8e533f9ae22c53a6" sha1="0ee8ab8c3a312ae2fa511801cdf2633d502b530b" date="1998-11-06 14:35:18"/>
+		<rom name="EXAMPLES/MBFEDIT!.TXT" size="4375" crc="14849c97" md5="eae17fab46cdce237722aa6f2f4676ed" sha1="4e6664df561c16e036a2002499bfcd9b06e442e0" date="2000-02-15 13:59:12"/>
+		<rom name="EXAMPLES/MBFEDIT!.WAD" size="270308" crc="c47887a2" md5="6a992f24d34295ebe9c3f9307f90dffa" sha1="1b39cf8b066633d40c414f5695416a2a464d8605" date="1998-12-27 19:48:24"/>
+		<rom name="EXAMPLES/MINE.DEH" size="190" crc="8ee052b1" md5="473e6649f710b0a0e026d32cf2cf799b" sha1="e7cedd482a339ffe7bc4be082f9f910a446c469d" date="1998-11-20 17:06:04"/>
+		<rom name="EXAMPLES/MUSHROOM.DEH" size="301" crc="3021305d" md5="2dc1185e0618a5b945e815eff4239ed7" sha1="b105981a146ef130c29306617aa206527344d7ac" date="1998-12-22 19:07:26"/>
+		<rom name="EXAMPLES/PLAYBUD.DEH" size="2395" crc="362dc6c8" md5="a81479c444378bcfbbf69bfe9771af86" sha1="d94830b2cc6dadac923e11ca0043d37f8c2a4dea" date="1998-11-27 09:31:30"/>
+		<rom name="EXAMPLES/POSSBUD.DEH" size="2693" crc="71e2ccba" md5="c0953c4fc11ddee97c25632743b4fec2" sha1="47372bcf92989c4e0e2dea57f80b605df44ce393" date="1998-11-27 09:52:58"/>
+		<rom name="EXAMPLES/SKY.WAD" size="290643" crc="a1f349ac" md5="aca1f2e54c35d433f2c9115475465871" sha1="37c6e9305c9f04eadb748507d6d71d0eec0f4747" date="1998-11-01 19:29:40"/>
+		<rom name="EXAMPLES/TOUCHY.DEH" size="604" crc="925e6295" md5="6b0587269d701ef10f313f6935d5cd8c" sha1="bc6d70e80309be36f9babe4367a8df2a57b4a39d" date="1998-11-21 08:12:02"/>
+		<rom name="MBF.EXE" size="1154048" crc="0abec956" md5="538da693e20431b1f20481c9b281029d" sha1="a374bccccaa4b337c74d5a86e4833fbf6fc39ea2" date="1999-01-02 12:19:14"/>
+		<rom name="MBF.TXT" size="14923" crc="19f05436" md5="a26a3d811857639d4492f0f5fc3d127f" sha1="5bd65025462e0ed47fa1405c72e88d3d60d7a2cb" date="2000-02-15 15:55:30"/>
+		<rom name="MBFEDIT.TXT" size="15632" crc="bf161cd3" md5="0657a2aa660384b66ae95b5dc68f5a08" sha1="25ed4990fe1a72cb2de5b7565f7db719d5d3001f" date="1998-12-24 08:22:54"/>
+		<rom name="MBFFAQ.TXT" size="6834" crc="36d15ea2" md5="4f0cebaa33f69d688b5c2d6a3d103a73" sha1="9bea43fa52a4830cb0905bca426143b014f78c81" date="1998-12-22 14:31:20"/>
+		<rom name="OPTIONS.TXT" size="17028" crc="38c3410f" md5="13f317640017c42ad4e6b8c0dccdbfc7" sha1="b7a2c73eb6906adc2ba805a92286c6b137e2b201" date="1998-12-22 12:01:28"/>
+		<rom name="README.1ST" size="695" crc="5e71a53d" md5="d2cc1bfda5ff90456d1d2348c25596c2" sha1="2979a91ee0ceafe0ba7353e50cc98e3bd42ca6f2" date="1999-01-02 11:56:54"/>
+		<rom name="SNDDRVR.TXT" size="9282" crc="2b8aafd3" md5="fdfad02a68447f94c8fe58af0139d24d" sha1="3502672622fde69ca5939687aa94d7b308c97f12" date="1998-05-12 11:41:06"/>
+	</game>
+	<game name="Marine's Best Friend SNM (2019) (Sakitoshi).dosz">
+		<description>Marine's Best Friend SNM</description>
+		<comment>v2.04-snm11. Extracted EXAMPLES.ZIP</comment>
+		<comment_dosc>Sound Blaster 16 config</comment_dosc>
+		<year>2019</year>
+		<developer>Sakitoshi</developer>
+		<parent>Doom II (1994) (id Software).dosz</parent>
+		<link type="freeware">https://github.com/Sakitoshi/mbf_sigil/releases/tag/v2.04-snm11</link>
+		<rom name="ASETUP.EXE" size="524800" crc="9006fb47" md5="49d865af954b0b6f26180b4d2d3f2be7" sha1="180f6cbcb1ba35a0a42db8ca997f92b46c8ae9c7" date="1998-09-08 18:28:22"/>
+		<rom name="BETAGRPH.WAD" size="750624" crc="d4cd6303" md5="2ed0f02281bee22bded4d4aac980558f" sha1="bd1b63d219622eddcb54825a85c65d5289c69ace" date="1998-10-18 17:57:14"/>
+		<rom name="BETALEVL.WAD" size="1157999" crc="ee40c68a" md5="3806ec51258d6fc1fae78b52809b631c" sha1="97d0f961ec7f08c3b6ba86230653b52daae98010" date="1998-11-01 22:59:48"/>
+		<rom name="COPYING" size="18445" crc="29c91be7" md5="155e6318a36dd84df99cb5d41b4ae3f0" sha1="c5d76dff23914c557b008c1870309ede7f7d3a02" date="1999-10-08 12:21:32"/>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 22:06:10"/>
+		<rom name="Doom Series Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOMLIC.TXT" size="5494" crc="1492fddd" md5="1cdfdebf5ce458980ccff1826add9e47" sha1="b735f2f4021989e6f598d50722b3d9d475fb2178" date="1998-01-26 18:29:26"/>
+		<rom name="EVITERNITY.BAT" size="462" crc="e4186679" md5="2917df2b5f8df5b1414340dc3436881f" sha1="2561fcc23e1f1b16dc01fae4c4d410600bf395a6" date="2019-09-30 22:46:06"/>
+		<rom name="EXAMPLES/BATTLE.WAD" size="8464" crc="d07e9000" md5="b588025a257309d33237ab4a68a8145d" sha1="06e649642cf96600202c314ccd275e12cf5c91c1" date="1998-11-01 00:40:22"/>
+		<rom name="EXAMPLES/DOGFLY.DEH" size="154" crc="68bf88ab" md5="b7092100ed3e53c491e288e1d56d02a8" sha1="484e2be0d381f425d31aafeb085fd3fff7a7b4b0" date="1998-12-07 07:04:04"/>
+		<rom name="EXAMPLES/DONUT.TXT" size="1688" crc="3ada429b" md5="98776ebc30b6eedeac5bd2abb2ac8318" sha1="fd5603e1c721d52e2f9c8bc8452457970725de97" date="1999-01-02 02:15:18"/>
+		<rom name="EXAMPLES/DONUT.WAD" size="14465" crc="f53dc955" md5="827dba74972627e7b48f4f986070cf51" sha1="1714ac72a00f3dc3c371a995741ca21c8fd630f5" date="1998-10-29 13:24:18"/>
+		<rom name="EXAMPLES/FIREPLAS.DEH" size="223" crc="98bb9d2b" md5="2d5f04b15484a1b3d93fa8dd1d0a47ab" sha1="e92e3a3077993316d078d76f6b0b00be522c9128" date="1998-11-27 09:36:20"/>
+		<rom name="EXAMPLES/FLY.DEH" size="186" crc="29941864" md5="6c09b6562891480ef775f525e7336b32" sha1="f25b16f379b700768873d8503ddcf2bd385857c4" date="1998-10-26 23:18:36"/>
+		<rom name="EXAMPLES/FRIEND.DEH" size="588" crc="62d743d1" md5="91f6d69be13a0176177e0b99b04f938c" sha1="689773adef40e0989e6b85ba5e136d09d1e5f7b2" date="1998-11-01 17:08:32"/>
+		<rom name="EXAMPLES/GRENADE.DEH" size="423" crc="fd89e89c" md5="247e17e66cdeefa8aaa1c6c88541c9ea" sha1="1c2773ecf5b4c361af88302e177bffccf542051e" date="1998-11-22 17:24:48"/>
+		<rom name="EXAMPLES/HOCKEY.WAD" size="114180" crc="38d26e05" md5="1a5806371a63b94a8e533f9ae22c53a6" sha1="0ee8ab8c3a312ae2fa511801cdf2633d502b530b" date="1998-11-06 14:35:18"/>
+		<rom name="EXAMPLES/MBFEDIT!.TXT" size="4375" crc="14849c97" md5="eae17fab46cdce237722aa6f2f4676ed" sha1="4e6664df561c16e036a2002499bfcd9b06e442e0" date="2000-02-15 13:59:12"/>
+		<rom name="EXAMPLES/MBFEDIT!.WAD" size="270308" crc="c47887a2" md5="6a992f24d34295ebe9c3f9307f90dffa" sha1="1b39cf8b066633d40c414f5695416a2a464d8605" date="1998-12-27 19:48:24"/>
+		<rom name="EXAMPLES/MINE.DEH" size="190" crc="8ee052b1" md5="473e6649f710b0a0e026d32cf2cf799b" sha1="e7cedd482a339ffe7bc4be082f9f910a446c469d" date="1998-11-20 17:06:04"/>
+		<rom name="EXAMPLES/MUSHROOM.DEH" size="301" crc="3021305d" md5="2dc1185e0618a5b945e815eff4239ed7" sha1="b105981a146ef130c29306617aa206527344d7ac" date="1998-12-22 19:07:26"/>
+		<rom name="EXAMPLES/PLAYBUD.DEH" size="2395" crc="362dc6c8" md5="a81479c444378bcfbbf69bfe9771af86" sha1="d94830b2cc6dadac923e11ca0043d37f8c2a4dea" date="1998-11-27 09:31:30"/>
+		<rom name="EXAMPLES/POSSBUD.DEH" size="2693" crc="71e2ccba" md5="c0953c4fc11ddee97c25632743b4fec2" sha1="47372bcf92989c4e0e2dea57f80b605df44ce393" date="1998-11-27 09:52:58"/>
+		<rom name="EXAMPLES/SKY.WAD" size="290643" crc="a1f349ac" md5="aca1f2e54c35d433f2c9115475465871" sha1="37c6e9305c9f04eadb748507d6d71d0eec0f4747" date="1998-11-01 19:29:40"/>
+		<rom name="EXAMPLES/TOUCHY.DEH" size="604" crc="925e6295" md5="6b0587269d701ef10f313f6935d5cd8c" sha1="bc6d70e80309be36f9babe4367a8df2a57b4a39d" date="1998-11-21 08:12:02"/>
+		<rom name="MASTER.BAT" size="462" crc="4d484978" md5="b88ba94eb56ac4bc1c8f1c5426e7cc43" sha1="6ae3d309515f962e12fc7c338e7708dde17734f9" date="2019-09-26 21:42:24"/>
+		<rom name="MBF.EXE" size="1113088" crc="298ec81e" md5="39533558b210164a3c2c2e5f59079e43" sha1="f40864125f7c929c7d8243336755f2c82177a00a" date="2023-12-20 13:22:52"/>
+		<rom name="MBF.TXT" size="14923" crc="19f05436" md5="a26a3d811857639d4492f0f5fc3d127f" sha1="5bd65025462e0ed47fa1405c72e88d3d60d7a2cb" date="2000-02-15 14:55:30"/>
+		<rom name="MBFEDIT.TXT" size="15632" crc="bf161cd3" md5="0657a2aa660384b66ae95b5dc68f5a08" sha1="25ed4990fe1a72cb2de5b7565f7db719d5d3001f" date="1998-12-24 07:22:54"/>
+		<rom name="MBFFAQ.TXT" size="6834" crc="36d15ea2" md5="4f0cebaa33f69d688b5c2d6a3d103a73" sha1="9bea43fa52a4830cb0905bca426143b014f78c81" date="1998-12-22 13:31:20"/>
+		<rom name="MBFUP204.TXT" size="14967" crc="f5486df1" md5="80afb3881ddd0503e8e4f0b50ff9a2fd" sha1="99fdb635c3fe7543a3727721755ec6651d53674e" date="2019-06-07 13:48:00"/>
+		<rom name="MSTRSKY.WAD" size="35108" crc="ae6f63af" md5="7dab313ffbd5480fd241f1ec92df6b1b" sha1="1cc3a03418a4ec8777545966f4666d0ce2e059b9" date="2019-08-07 18:37:12"/>
+		<rom name="NERVE.BAT" size="293" crc="4ad2db01" md5="d95091db25fbc19803127b59632db2da" sha1="0fd8749fd5f8372d880158b00ef06e7dd1101130" date="2019-09-26 21:42:22"/>
+		<rom name="OPTIONS.TXT" size="17028" crc="38c3410f" md5="13f317640017c42ad4e6b8c0dccdbfc7" sha1="b7a2c73eb6906adc2ba805a92286c6b137e2b201" date="1998-12-22 11:01:28"/>
+		<rom name="SIGIL.BAT" size="231" crc="854ef53b" md5="ecbc5edbdbf34de9c346a4ad1e6c008b" sha1="045c8dcd152e78cc775482776f71fe4d0f7a7cc2" date="2019-09-26 21:42:14"/>
+		<rom name="SIGIL2.BAT" size="309" crc="dbe03bc7" md5="4c899c2084d7c1023253d11a12d73e34" sha1="39dd2e129ba22daee98867cc2974dcfbd6848910" date="2023-12-16 18:40:00"/>
+		<rom name="SNDDRVR.TXT" size="9282" crc="2b8aafd3" md5="fdfad02a68447f94c8fe58af0139d24d" sha1="3502672622fde69ca5939687aa94d7b308c97f12" date="1998-05-12 11:41:06"/>
+		<rom name="TRANMAP.DAT" size="65793" crc="3ef2025d" md5="6ccff68ad1930aabb15601e269c34913" sha1="0033762aec68cafe9a3c6f83129fcb0cf75e15d8" date="2019-06-07 19:31:14"/>
+	</game>
+	<game name="Master Levels for Doom II (1995) (id Software) (Megawad).dosz">
+		<description>Master Levels for Doom II</description>
+		<comment>Single megawad version from Doom Classic Complete (PSN)</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>1995</year>
+		<developer>id Software</developer>
+		<variant>Megawad</variant>
+		<parent>Doom II Mod Base.dosz</parent>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="MASTER.WAD" size="3479715" crc="6baec89f" md5="84cb8640f599c4a17c8eb526f90d2b7a" sha1="f095f557c9969bafd249710da7675c1bc2e94698"/>
+	</game>
+	<game name="No Rest for the Living (2010) (Nerve Software).dosz">
+		<description>No Rest for the Living</description>
+		<comment>Original NERVE.WAD from Doom 3: BFG Edition. Also includes xttl's custom EXE, and a helper WAD for Tartar</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>2010</year>
+		<developer>Nerve Software</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<link type="freeware">https://www.doomworld.com/forum/topic/86335-play-no-rest-for-the-living-in-dos-or-dosbox/?tab=comments#comment-1842180</link>
+		<link type="freeware">https://www.moddb.com/mods/tartar/downloads/tartar-distro</link>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="NERVE.WAD" size="3819855" crc="ad7f9292" md5="967d5ae23daf45196212ae1b605da3b0" sha1="3451288383fb16e196f273d9f85d58c1fda97bf4"/>
+		<rom name="nr4tl.exe" size="722629" crc="4e75d46b" md5="18bac410e8ee6db35931bd78ae4aadfb" sha1="f695ea4cc5db9b357fb8d4508e61988f319fcce9" date="2016-02-25 13:29:10"/>
+		<rom name="nr4tl.txt" size="924" crc="6224824d" md5="fb335a397c15b83c540b0dd5958280eb" sha1="c5e10c79c974acfac58adb1947fbab14a74c5d77" date="2016-02-24 15:00:34"/>
+		<rom name="TARTAR/SHIMS/NERVE.WAD" size="292751" crc="145aa2e7" md5="c6ca724e5a108c4f3974ac74ae3f9208" sha1="05f4d0263b064f120f1976be3451a839c425f778" date="2022-06-14 15:23:10"/>
+	</game>
+	<game name="Plutonia 2 (2008) (Plutonia 2 Team).dosz">
+		<description>Plutonia 2</description>
+		<comment>EXE created with DeHackEd (2020 version), FDoom32 (renamed to DOOM2.EXE), and PLUTONIA.WAD (renamed to DOOM2.WAD)</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>2008</year>
+		<developer>Plutonia 2 Team</developer>
+		<parent>Plutonia Experiment Mod Base.dosz</parent>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/pl2</link>
+		<rom name="PL2.DEH" size="7359" crc="f51290d9" md5="e1992d75c1ddcd492dd0d50835ffbcb4" sha1="aa4b313dcb1bee7f2d96d2d4fab715ae443c05ed" date="2008-12-31 16:12:26"/>
+		<rom name="PL2.EXE" size="722629" crc="57c120b7" md5="3f4a8e8e419817bb462a63298ebdec56" sha1="05ff1b8632b992af9ef9fe57264a4164957509d6"/>
+		<rom name="PL2.ICO" size="22486" crc="e2bfe5d7" md5="83fde3d43a5ef1cca6992fcb1279072c" sha1="db6aa40b254c2c38c4d2d43a0df1b55d7a4d2c16" date="2008-12-30 02:52:38"/>
+		<rom name="PL2.TXT" size="3915" crc="6ee2c3b7" md5="b3029492beb1dced390651c017851685" sha1="d20259a8b1fde7eb2d6dfb6ce7fe1078a653f71f" date="2008-12-31 13:56:18"/>
+		<rom name="PL2.WAD" size="18131932" crc="9030f6aa" md5="ba0566478ac42bd2c3845fa97098bf70" sha1="4ef41ba4b3c0d39d79fc592b2b258765bca36657" date="2008-12-31 19:50:38"/>
+		<rom name="PL2INFO.TXT" size="66591" crc="51ff9130" md5="cb81c64e8038ed10ecbf941a409d3adb" sha1="bed315d7fc819b30920e5927f8b4613391216957" date="2008-12-31 17:43:22"/>
+		<rom name="Plutonia Experiment Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Plutonia Experiment Mod Base.dosz">
+		<description>Plutonia Experiment Mod Base</description>
+		<comment>Minimal files from Final Doom (id Anthology fixed version)</comment>
+		<parent>Doom Engines.dosz</parent>
+		<rom name="Doom Engines.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOM2.EXE" size="722629" crc="503d9154" md5="ccd2769f32b38d74d361085e905d8f9c" sha1="91ee0d260785fdc778a1e7c10812275e5c758776"/>
+		<rom name="PLUTONIA.WAD" size="18240172" crc="15cd1448" md5="3493be7e1e2588bc9c8b31eab2587a04" sha1="f131cbe1946d7fddb3caec4aa258c83399c21e60"/>
+		<rom name="SETUP.EXE" size="45745" crc="0025fe95" md5="675564fcd380f5ef9beb0e7b21a51f79" sha1="f8644ace438896f9a788629d8da869bd34926f91"/>
+	</game>
+	<game name="Sigil (2019) (John Romero).dosz">
+		<description>Sigil</description>
+		<comment>Freeware v1.21. Also includes xttl's custom EXE</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>2019</year>
+		<developer>John Romero</developer>
+		<parent>Ultimate Doom Mod Base.dosz</parent>
+		<link type="freeware">https://romero.com/sigil</link>
+		<link type="freeware">https://www.doomworld.com/forum/topic/103430-sigil-v121-new-romero-megawad-released/?page=88&amp;tab=comments#comment-1994456</link>
+		<rom name="sigexe.txt" size="287" crc="f961ab68" md5="e151b696e6c8939763e9d84c587b0220" sha1="fdb4d3f12c5ca10400fdf15b7f38b7ed40679709" date="2019-06-03 03:44:54"/>
+		<rom name="sigil.exe" size="715493" crc="85264380" md5="97b14536596439bcaee33da2bd4035d9" sha1="6109a2db3997a53a592e062fef3fa1225d68fd88" date="2019-06-03 03:23:20"/>
+		<rom name="SIGIL.wad" size="4640210" crc="f9216574" md5="743d6323cb2b9be24c258ff0fc350883" sha1="e2efdf379e1383c4e15c03de89063361897cd459" date="2019-09-23 19:18:42"/>
+		<rom name="SIGIL_C.wad" size="4634157" crc="b7679050" md5="573f3f178c76709f512089ed15484391" sha1="b5e68950820b3a0385375dbace81376e73568207" date="2019-09-23 19:18:48"/>
+		<rom name="SIGIL_instructions.txt" size="10316" crc="6b7aa748" md5="7464e4a07fb4a0a382e88f6cc7ea847c" sha1="7cd856b28fefb7c21260dadcf4b817af64765f33" date="2019-09-23 19:21:38"/>
+		<rom name="SIGIL_v1_21.txt" size="5030" crc="c0120009" md5="b9f7622bc7cf7b0c3f67274d74b0f4ce" sha1="4b2eadb3288a996e786669cfc16e7d4e5e104682" date="2019-09-20 13:21:32"/>
+		<rom name="Ultimate Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Sigil II (2023) (John Romero).dosz">
+		<description>Sigil II</description>
+		<comment>Freeware v1.0. Also includes a helper WAD for Tartar</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>2023</year>
+		<developer>John Romero</developer>
+		<parent>Sigil (2019) (John Romero).dosz</parent>
+		<link type="freeware">https://romero.com/sigil</link>
+		<link type="freeware">https://www.moddb.com/mods/tartar/downloads/tartar-distro</link>
+		<rom name="Sigil (2019) (John Romero).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="SIGIL_II.WAD" size="5632323" crc="d210db36" md5="d0442f5a75f2faef3405c09a0c3acc58" sha1="ad2c6e8367afbeef74e9e09b6b1e4da88c0576b4" date="2023-12-05 22:01:16"/>
+		<rom name="SIGIL_II_README_V1_0.txt" size="9442" crc="dcb4f63b" md5="bbea1e6f433eb9f9e4f7edf1c673ee76" sha1="3f62349fd92b9154f6ea0556e2ef8596d6dad873" date="2023-12-09 14:41:20"/>
+		<rom name="SIGIL_II_V1_0.txt" size="3586" crc="ed412472" md5="122b0992e23ed6a917995dc142c9abae" sha1="b69e087c9a82b4d23785db491e330c15de6b6839" date="2023-12-09 14:13:36"/>
+		<rom name="TARTAR/SHIMS/SIGIL_II.WAD" size="3255" crc="acd69b13" md5="6ba4f1738c399fc299530f1147bac054" sha1="3544d49d40a430eea5d53c2ec0453f70386382ad" date="2023-12-16 18:18:26"/>
+	</game>
+	<game name="TNT - Evilution Mod Base.dosz">
+		<description>TNT - Evilution Mod Base</description>
+		<comment>Minimal files from Final Doom (id Anthology fixed version)</comment>
+		<parent>Doom Engines.dosz</parent>
+		<rom name="Doom Engines.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOM2.EXE" size="722629" crc="503d9154" md5="ccd2769f32b38d74d361085e905d8f9c" sha1="91ee0d260785fdc778a1e7c10812275e5c758776"/>
+		<rom name="SETUP.EXE" size="45745" crc="0025fe95" md5="675564fcd380f5ef9beb0e7b21a51f79" sha1="f8644ace438896f9a788629d8da869bd34926f91"/>
+		<rom name="TNT.WAD" size="18654796" crc="d4bb05c0" md5="1d39e405bf6ee3df69a8d2646c8d5c49" sha1="4a65c8b960225505187c36040b41a40b152f8f3e"/>
+	</game>
+	<game name="TNT - Revilution (2017) (Various).dosz">
+		<description>TNT - Revilution</description>
+		<comment>EXE created with DeHackEd (2020 version), FDoom32 (renamed to DOOM2.EXE), and TNT.WAD (renamed to DOOM2.WAD). WAD created with DeuSF (deusf -app tntr.wad)</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>2017</year>
+		<developer>Various</developer>
+		<parent>TNT - Evilution Mod Base.dosz</parent>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/tntr</link>
+		<rom name="TNT - Evilution Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="TNTR.deh" size="10372" crc="89d708ed" md5="4bfa7ee31d760b7562c334f7f9f2eee9" sha1="20a251ccdb3be8bc91ce718b7930eb3953eefe12" date="2017-06-28 15:23:30"/>
+		<rom name="TNTR.EXE" size="722629" crc="623f1f1d" md5="4bc7b5a4b694d0b681c63356ebd13e8f" sha1="ad651b2fc8209d3b72e3409aabcc980fca0e5c1b"/>
+		<rom name="TNTR.txt" size="10182" crc="c09743b1" md5="56e65411faa50ad2df4f1618bec92db5" sha1="e1733dcf5a2e2aca467ea0946ff4220435cc569a" date="2017-07-08 08:17:46"/>
+		<rom name="TNTR.WAD" size="33154280" crc="8ef9597d" md5="4195830cbf793edfaf1656354066f9fb" sha1="c0ba9bfae66a6011ca227770917dd6d2d85483fc"/>
+	</game>
+	<game name="Ultimate Doom Mod Base.dosz">
+		<description>Ultimate Doom Mod Base</description>
+		<comment>Minimal files from Ultimate Doom v1.9</comment>
+		<parent>Doom Engines.dosz</parent>
+		<rom name="Doom Engines.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOM.EXE" size="715493" crc="b5ceb8ac" md5="742a5f9953871687341e3794468894d8" sha1="64e6df0ee478868b42d5eb7d443430283b0ddc0c"/>
+		<rom name="DOOM.WAD" size="12408292" crc="bf0eaac0" md5="c4fe9fd920207691a9f493668e0a2083" sha1="9b07b02ab3c275a6a7570c3f73cc20d63a0e3833"/>
+		<rom name="SETUP.EXE" size="46665" crc="9a6be6d8" md5="729df5c0727cd290c1c34ffd29a04490" sha1="4664dbf04047a7b1733fed3654e6dd6b25b1613a"/>
+	</game>
+</datafile>
