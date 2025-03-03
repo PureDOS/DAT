@@ -323,6 +323,29 @@
 		<link type="media">http://redump.org/disc/58954/</link>
 		<rom name="Jill of the Jungle (Europe) (Rev 1).cue" size="101" crc="bfdd3e15" md5="432a64bb3ac6c41015ebee2faa8b1811" sha1="393d00855efb6aa1272212f8e9826c038ec99365"/>
 	</game>
+	<game name="King's Quest - Collector's Edition (1994) (Sierra On-Line) (Installation) (Disc 1).dosz">
+		<description>King's Quest - Collector's Edition</description>
+		<comment>Redump-verified CD-ROM - King's Quest - Collector's Edition (USA) (En,Fr,De) (Disc 1) - Used to install King's Quest I, II, III, IV, and V.</comment>
+		<year>1994</year>
+		<developer>Sierra On-Line, Inc.</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/14878/</link>
+		<rom name="King's Quest - Collector's Edition (USA) (En,Fr,De) (Disc 1).chd" size="396987264" crc="e98e5f38" md5="f9fc60519b0fb3092d22be78f1636368" sha1="a7f93f1074f8f0222c14e6ead9e6f324cb7aac15">
+			<track number="1" type="MODE1_RAW" frames="162123" pregap="0" duration="36:01:48" size="381313296" crc="c7b81d47" md5="2dec0e3d8978f2dfbf5a7497ac2917aa" sha1="ef86121401ded048b7cb3bb74d2ae499ab1aca18" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
+	<game name="King's Quest - Collector's Edition (1994) (Sierra On-Line) (Installation) (Disc 2).dosz">
+		<description>King's Quest - Collector's Edition</description>
+		<comment>Redump-verified CD-ROM - King's Quest - Collector's Edition (USA) (Disc 2) - Used to install King's Quest VI.</comment>
+		<year>1994</year>
+		<developer>Sierra On-Line, Inc.</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/81021/</link>
+		<rom name="King's Quest - Collector's Edition (USA) (Disc 2).chd" size="617914368" crc="a38f1cb7" md5="4b86a428438c050571928b4c4198f4af" sha1="0394d11d89284723f45eb11fa3bb9dd515acbc47">
+			<track number="1" type="MODE1_RAW" frames="234645" pregap="0" duration="52:08:45" size="551885040" crc="b16b325a" md5="fb17363152424a733ccaee87b390ced6" sha1="d46f2698261575a974b9902a712ac6a8c977d3cf" in_zeros="1" out_zeros="0"/>
+			<track number="2" type="AUDIO" frames="18165" pregap="150" duration="04:02:15" size="42724080" crc="75d7a25e" md5="0be45415d82b9b9204539742278dd6f1" sha1="b93bff3ebd76b65f727801b0a82198123c9215a1" in_zeros="391620" out_zeros="701112"/>
+		</rom>
+	</game>
 	<game name="Maniac Mansion (1988) (Lucasfilm Games) (Installation).dosz">
 		<description>Maniac Mansion</description>
 		<comment>Enhanced 1989 version, 3.5" floppy disk</comment>
