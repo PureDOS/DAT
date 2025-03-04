@@ -12634,6 +12634,91 @@
 		<rom name="NEURO1.DAT" size="260174" crc="5aa8b7ce" md5="01218fa649d7ba7a02f7ebdcb50afdea" sha1="ee2f45d97c562bd6c9b5e5e523c63ec93ea8f730" date="1989-09-26 16:31:22"/>
 		<rom name="NEURO2.DAT" size="361755" crc="f2e46cbe" md5="a82f19c98916fe4b76905bdd9c57e479" sha1="cd1808fdc2ca6e40f82483c86bd8e61113efeaa0" date="1989-09-26 16:31:22"/>
 	</game>
+	<game name="Powerslave (1996) (Lobotomy Software).dosz">
+		<description>Powerslave</description>
+		<comment>AKA Exhumed. Installed from CD. Audio tracks converted with CHDtoOGG</comment>
+		<comment_dosc>Sound Blaster 16 config, Keyboard and Mouse controls, 640 screen width, and auto start</comment_dosc>
+		<year>1996</year>
+		<developer>Lobotomy Software</developer>
+		<link type="media">http://redump.org/disc/24321/</link>
+		<rom name="CD/Powerslave (USA) (Track 1).bin" size="44838528" crc="7518ae85" md5="5d49f3b46dea8f7ee5af616b05e590b6" sha1="aa9ad83d3c879a10c648653aa3d138251e0b1707">
+			<source type="MODE1_RAW" frames="19064" duration="04:14:14"/>
+		</rom>
+		<rom name="CD/Powerslave (USA) (Track 2).ogg" size="2912399" crc="bda49d2f" md5="0fde6fdac21196fdc08b51ba523b908e" sha1="862591d46f030a040fa0605ccd8c6102c32b92a6">
+			<source type="AUDIO" frames="7221" omitted_pregap="151" duration="01:36:21" size="16983792" crc="2d4618e0" md5="806a4f3aa814bcee62b9f23fc9901646" sha1="201bacf95fb197ec13db52b7d65f015aaa4b35b4" in_zeros="1304" out_zeros="361720" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Powerslave (USA) (Track 3).ogg" size="1358861" crc="df9651d4" md5="060bcd8a11e051df597af066b988d5e1" sha1="1d443579639e2fc17ca88b9ac96d2de7a5f8ca93">
+			<source type="AUDIO" frames="3674" omitted_pregap="149" duration="00:48:74" size="8641248" crc="eb6ac27e" md5="96442b5019d147a5e2d632e5a20ce6cd" sha1="209bbf022b3a91060b3e040b1cf70cd4db4c300b" in_zeros="1304" out_zeros="363292" quality="8"/>
+		</rom>
+		<rom name="CD/Powerslave (USA) (Track 4).ogg" size="739233" crc="6f650d7f" md5="6c4addd07a6c468f5399fb23df7242ad" sha1="330d2d39c3f4f60ac19fa26d0c312dc58e986237">
+			<source type="AUDIO" frames="2061" omitted_pregap="149" duration="00:27:36" size="4847472" crc="201b06a3" md5="48e61ed35f2db605855496263c994b24" sha1="2ca6bbd9fe6d1e9c2283a527f27b8101e8f36393" in_zeros="1328" out_zeros="362036" quality="8"/>
+		</rom>
+		<rom name="CD/Powerslave (USA) (Track 5).ogg" size="684617" crc="6f0805db" md5="3e7041c19ff6afe300092cae59fd88e2" sha1="19f8387f40699d634bceee17da46847f85aa76a8">
+			<source type="AUDIO" frames="1896" omitted_pregap="149" duration="00:25:21" size="4459392" crc="11ce1f15" md5="c1fa726b6f7b226678aafa169b9c4e92" sha1="114008ca5e898196595c1132781447ae5c982ed9" in_zeros="1328" out_zeros="360048" quality="8"/>
+		</rom>
+		<rom name="CD/Powerslave (USA) (Track 6).ogg" size="722139" crc="0ec0b5b2" md5="9af9f71115d2a8335d0b2de4e8b471ec" sha1="b497d02da2ac4c46f769600f42bb7f13dc703953">
+			<source type="AUDIO" frames="2021" omitted_pregap="149" duration="00:26:71" size="4753392" crc="4f57f358" md5="e5f8771daf20e8325e7c37f2fc3626e9" sha1="fc221dec55c7eb6bd5d6bbd1bb52e1946e8a767e" in_zeros="1328" out_zeros="362580" quality="8"/>
+		</rom>
+		<rom name="CD/Powerslave (USA) (Track 7).ogg" size="1480325" crc="31429e2c" md5="ce5d3e48e09338e60a2fa073a1fe5bcb" sha1="525cf7421447bdad55a8ff1aaff4fd3218abf4b4">
+			<source type="AUDIO" frames="3804" omitted_pregap="149" duration="00:50:54" size="8947008" crc="fd1a78e4" md5="0a6363814c38c03baea0989400812da9" sha1="eecab0cfef18a4636b54211511c40a9eb0076de1" in_zeros="1328" out_zeros="362980" quality="8"/>
+		</rom>
+		<rom name="CD/Powerslave (USA) (Track 8).ogg" size="1073474" crc="f8bb8742" md5="95d5717d1831aa3670dafb10f0263f75" sha1="419a20677448f4db9262ae7379f19e34ee0f42ab">
+			<source type="AUDIO" frames="2853" omitted_pregap="149" duration="00:38:03" size="6710256" crc="b07cc1c7" md5="9cc4feaee251e92fbc003698fc1be861" sha1="e11e11ff9fd85bd3dfc2b8b603d46e70f5649560" in_zeros="1328" out_zeros="363936" quality="8"/>
+		</rom>
+		<rom name="CD/Powerslave (USA) (Track 9).ogg" size="1381151" crc="8f9855d5" md5="ad76d8868f2aba31d3f4d8f76b7bcad2" sha1="c1a7a3c2daf7833b423fc4d8ea42d911c4af60c4">
+			<source type="AUDIO" frames="3264" omitted_pregap="149" duration="00:43:39" size="7676928" crc="54a1d13c" md5="ca24d78332e1d7298550b4a88f44c6a8" sha1="eacb47f7647720a68d6e99a8a600192b41d931b9" in_zeros="1304" out_zeros="362229" quality="8"/>
+		</rom>
+		<rom name="CD/Powerslave (USA) (Track 10).ogg" size="1077154" crc="87290e3f" md5="a61b1493c9ac0a1e037a56f6db7cb299" sha1="b26e8276cb137ade68f3dd55ad6296985811f7d7">
+			<source type="AUDIO" frames="2906" omitted_pregap="149" duration="00:38:56" size="6834912" crc="17b37165" md5="8374b6f61e7a521b72cf1ac7135d510e" sha1="f3e6c41285c495396fa6eda77c1e31a573e9f4ae" in_zeros="1328" out_zeros="363373" quality="8"/>
+		</rom>
+		<rom name="CD/Powerslave (USA) (Track 11).ogg" size="4994276" crc="6b96b052" md5="7a51c9406326c21ac180707d2480c2e1" sha1="b0b9e96ee70eb7d9b5761fa087ab09a09f7315d2">
+			<source type="AUDIO" frames="10653" omitted_pregap="149" duration="02:22:03" size="25055856" crc="ae92bee4" md5="619e756de73d417ebfdb9d8b72d64da2" sha1="50de4cb7662e281a3b5671b1b9eafe5da31c0d33" in_zeros="1328" out_zeros="361496" quality="8"/>
+		</rom>
+		<rom name="CD/Powerslave (USA) (Track 12).ogg" size="3738475" crc="73501ce8" md5="c7d10abe8923ebd60844874d3b4e61bf" sha1="00d3ece1cdb54d79935d76671aae69293576aed6">
+			<source type="AUDIO" frames="10101" omitted_pregap="149" duration="02:14:51" size="23757552" crc="98eae8d3" md5="bdc56c9c6ba065fe0003c7b04f970db9" sha1="380233f15aa6795d4b81757589091cc38d97888e" in_zeros="1304" out_zeros="362632" quality="8"/>
+		</rom>
+		<rom name="CD/Powerslave (USA) (Track 13).ogg" size="4884019" crc="b6bf536e" md5="d6b9ad89c73ea91c98bdb48da5f684fa" sha1="72d6d4bb2dd075279e6f75a7cfd91c0fdcbb507d">
+			<source type="AUDIO" frames="10425" omitted_pregap="149" duration="02:19:00" size="24519600" crc="4a685a6f" md5="ec60051ab85c7c6f250e3d5e511f7628" sha1="5c6998ba8174144577bb1910dedde9d42f007419" in_zeros="1304" out_zeros="360513" quality="8"/>
+		</rom>
+		<rom name="CD/Powerslave (USA) (Track 14).ogg" size="5729917" crc="f532ee55" md5="02636750d45f2f8a64f7f64c9cad0f3b" sha1="36ffa1eb6ae39079e65a9a6d9cf2b1ab46219baa">
+			<source type="AUDIO" frames="13472" omitted_pregap="149" duration="02:59:47" size="31686144" crc="ce706d11" md5="b4ef4b1d793cc4586b0dfda02691302d" sha1="59bb9be18a138577bd65101da52dee56d4ebeaf8" in_zeros="1306" out_zeros="363332" quality="8"/>
+		</rom>
+		<rom name="CD/Powerslave (USA) (Track 15).ogg" size="6106447" crc="8c1abfaf" md5="d72a58bbf54353ca2e1fc253b507ba10" sha1="072fe9b0333c0f1457b723718f3d074cfc27728a">
+			<source type="AUDIO" frames="15557" omitted_pregap="149" duration="03:27:32" size="36590064" crc="d40ab7f4" md5="70df17b88ae80abea7b6460bc9f67d66" sha1="559d15376f0b376b3632a1151e08c34611a323d6" in_zeros="1304" out_zeros="363512" quality="8"/>
+		</rom>
+		<rom name="CD/Powerslave (USA) (Track 16).ogg" size="4004560" crc="aa89648a" md5="20d17e05d788340493498e25cefc7c3d" sha1="9892ef2b3900f0d7d8a7229c7a63418340c3c11d">
+			<source type="AUDIO" frames="9443" omitted_pregap="149" duration="02:05:68" size="22209936" crc="7dedfcac" md5="6506ceb5eec6c16e68f60a320d1c9036" sha1="bf887acd3ce3e5e14df266a8db5cbfeaf7e6a9ea" in_zeros="1304" out_zeros="362024" quality="8"/>
+		</rom>
+		<rom name="CD/Powerslave (USA) (Track 17).ogg" size="4034565" crc="77dcc89f" md5="fd3fdd52d131c3b9bcd0d4d7e150c981" sha1="6b68fd38e5e5f445bd035f33fb4e53b09534d99c">
+			<source type="AUDIO" frames="9492" omitted_pregap="149" duration="02:06:42" size="22325184" crc="df06a9e9" md5="45457f3730ed2b4c7a80eaa6223ea06e" sha1="90dbdd5420065c64df212d925dde6e8c1aab1f89" in_zeros="1304" out_zeros="360912" quality="8"/>
+		</rom>
+		<rom name="CD/Powerslave (USA) (Track 18).ogg" size="5980586" crc="95a7b8bd" md5="1d7b75c49b781bbeed7f1b0e895cf88d" sha1="c1bab025c818e1e829d41ee690ad3dfdab85a03a">
+			<source type="AUDIO" frames="12875" omitted_pregap="149" duration="02:51:50" size="30282000" crc="c98f15c9" md5="02959b188ae72d0bbf545bcf3de3b0d6" sha1="6019e394c9d89ecb4c196b9be040a310a00318e1" in_zeros="1304" out_zeros="362772" quality="8"/>
+		</rom>
+		<rom name="CD/Powerslave (USA) (Track 19).ogg" size="10361963" crc="06db1ed3" md5="9367d250e0a1be8ad360efc254153ade" sha1="aae366be9a23eebf27def101e8d544de22375591">
+			<source type="AUDIO" frames="22733" omitted_pregap="149" duration="05:03:08" size="53468016" crc="a132ef4c" md5="d2deff5504dc6b046b1db47066d41be6" sha1="86cf0b488aa70074be9a247089837b67fc5e6f52" in_zeros="1304" out_zeros="14112" quality="8"/>
+		</rom>
+		<rom name="CD/Powerslave (USA).cue" size="1992" crc="083dd723" md5="51e6a8393bf9a4635d0b54d0938bf65a" sha1="0835a25860f85e3fef29d1dd897529f0e21b0e44"/>
+		<rom name="ADRV688.DIG" size="11278" crc="96dfb75d" md5="feabc78729e3a458ae2f6ab40146f0d9" sha1="255ecb5d649895d65bca49bd6afcbdf875e34bf2" date="1995-01-18 05:00:00"/>
+		<rom name="AILDRVR.LST" size="16073" crc="338ed056" md5="a1ce7dd36b05fdc9a2a781c443ed7c9b" sha1="5cfacde01df4de3e9988ca771ab1bda9e37aee13" date="1995-01-31 05:00:00"/>
+		<rom name="DEMO.VCR" size="214959" crc="e0c82d56" md5="204b0a50847658e29ed042c8b082b297" sha1="3bb7ab94eb7efbac60adbe7bf0e7e805b6d85956" date="1996-10-14 13:48:24"/>
+		<rom name="DOS4GW.EXE" size="240580" crc="7dd43c8b" md5="3ec2f6e3f1ade4e21143cfeff7a4c0cb" sha1="93356e639fcf0fbe4d9e86adf8743d42e3a4874d" date="1996-06-12 17:20:48"/>
+		<rom name="JAMMER.DIG" size="3219" crc="230129e0" md5="4922c729c5e7b347089a2be44f296859" sha1="103e0bf92c6fd1c9fc925fd57bdc22e56170b395" date="1995-01-18 05:00:00"/>
+		<rom name="MENU.EXE" size="406173" crc="69ff24c9" md5="a57b71bfb6a9c5697b28dc5d28ebbe02" sha1="db5dd9d7ba99088d0efeb876057ac2c43f42d3f9" date="1996-12-10 12:38:28"/>
+		<rom name="PROAUDIO.DIG" size="2127" crc="4b071066" md5="a054071be574b2bcf47a0386f1a98ae6" sha1="8debfb262849ebce1da3d45387d1595712c2667b" date="1995-01-18 05:00:00"/>
+		<rom name="PS.EXE" size="818966" crc="bebf9963" md5="097f245491efd919d2d5cbd6fe8e4a2f" sha1="9be5058dbc0bafb879401797519c12d938467f68" date="1996-12-04 11:01:00"/>
+		<rom name="PS.LID" size="458" crc="ae2796c0" md5="57d791003db4de5184084821c83e522c" sha1="2933e9412deb091424ebef443b71f7d94bd0ead2" date="1995-08-11 10:47:44"/>
+		<rom name="PWRSLAVE.LID" size="458" crc="ae2796c0" md5="57d791003db4de5184084821c83e522c" sha1="2933e9412deb091424ebef443b71f7d94bd0ead2" date="1995-08-11 10:47:44"/>
+		<rom name="RAP10.DIG" size="2849" crc="47373ef0" md5="bb846bb23ee9065a09373afdb73cf054" sha1="6081bc6e447afeaad48a8361c92e7ce280f6ea7e" date="1995-01-18 05:00:00"/>
+		<rom name="README.TXT" size="4022" crc="a95f2347" md5="97baffac0c4f828db4d9e5b030220a5b" sha1="29be7f17a2cf98a02cd8645b5d3a0d30f6752dff" date="1996-12-12 18:00:30"/>
+		<rom name="SB16.DIG" size="2812" crc="c5d3dc1a" md5="d821437468279994b5aeeecad67ac0ad" sha1="75dec727034779d4550d6a769cf292ce176189e6" date="1995-01-18 05:00:00"/>
+		<rom name="SBLASTER.DIG" size="2984" crc="bf414d3b" md5="fafa23a9df15ca6451344b71e50bcb0a" sha1="4b19974321eabbd40cfbf2fbb781e0799c092b95" date="1995-01-18 05:00:00"/>
+		<rom name="SBPRO.DIG" size="2763" crc="1061490f" md5="b0fe50da778c24cc4066e960a3d1a7c3" sha1="8bc27ebd0ec30dabfd354b948801946b7e8f33d8" date="1995-01-18 05:00:00"/>
+		<rom name="SETUP.BAT" size="92" crc="c0e1dce2" md5="4b88798151d5b08fa0f82ab3c8ac5334" sha1="b68f7f85158a9560863f756b125903a65f7dd3e9" date="1996-10-04 14:23:28"/>
+		<rom name="SNDSCAPE.DIG" size="4171" crc="708a96a2" md5="9d7a052a680f45d244e0ee4735b7b55f" sha1="f9902b74d545813315194f5a1791c4ea0a9a1e0d" date="1995-01-18 05:00:00"/>
+		<rom name="STUFF.DAT" size="27020745" crc="303cbd89" md5="0b230cb737c423d4b9a6f5287736df76" sha1="72d536494fd68dd89ab02d581e1c4672621643a8" date="1996-10-24 13:25:14"/>
+		<rom name="ULTRA.DIG" size="9478" crc="430d67f5" md5="000e584a06712d2f2b58eb2e17b65248" sha1="4327d6bb924b4e40fa7ff035bdfb73a879c31836" date="1995-01-18 05:00:00"/>
+	</game>
 	<game name="Out of This World (1991) (Delphine Software).dosz">
 		<description>Out of This World</description>
 		<comment>Installed from 1995 CD-ROM re-release</comment>
