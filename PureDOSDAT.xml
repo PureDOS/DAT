@@ -5889,23 +5889,26 @@
 	</game>
 	<game name="Duke Nukem 3D - Atomic Edition (1996) (3D Realms).dosz">
 		<description>Duke Nukem 3D - Atomic Edition</description>
-		<comment>Installed v1.5 from CD. CD image converted with CHDtoOGG</comment>
+		<comment>Installed v1.5 from CD. CD image converted with CHDtoOGG, BUILD.EXE and SETUP.DAT copied from the CD</comment>
 		<comment_dosc>Sound Blaster 16 config, 640x480 resolution, and auto start. General MIDI option</comment_dosc>
 		<year>1996</year>
 		<developer>3D Realms</developer>
 		<link type="media">http://redump.org/disc/20161/</link>
-		<rom name="CDROM.INI" size="13" crc="b7b8acef" md5="c650d2f940963618422e61f0a861e72c" sha1="779f1a9f9cab30548950726c524017063e77181f"/>
+		<rom name="CD/Duke Nukem 3D - Atomic Edition (USA) (Track 1).bin" size="754199376" crc="5813bf88" md5="8aa5a9c9c351ea7d7dbb2cc750f9b87a" sha1="ae0f352b77125b520c94348f56146787eae10a86">
+			<source type="MODE1_RAW" frames="320663" duration="71:15:38"/>
+		</rom>
+		<rom name="CD/Duke Nukem 3D - Atomic Edition (USA) (Track 2).ogg" size="4282426" crc="81e71631" md5="0300533cf1b88eb53b0d14b10a90ef38" sha1="cc609ec8d475886392c337b9874aab6469ceb114">
+			<source type="AUDIO" frames="9532" omitted_pregap="224" duration="02:07:07" size="22419264" crc="13b3904b" md5="6fb27228ab87c6fbce2b6f4c937bf943" sha1="7539e036fc7a9db47efca6671b14a08896a3447d" in_zeros="1780" out_zeros="147133" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Duke Nukem 3D - Atomic Edition (USA).cue" size="237" crc="300b1d3c" md5="7f165b91c71538c3386e22c71c4c340b" sha1="2009a3fb398082087417db9c27e2f14f54029682"/>
+		<rom name="BUILD.EXE" size="588681" crc="fab19963" md5="ad529c7de3399fa3cd47f805f770f231" sha1="d19c7b9ec812982737028ca4c628ea6af0044ce0" date="1996-10-10 13:40:00"/>
+		<rom name="CDROM.INI" size="13" crc="b7b8acef" md5="c650d2f940963618422e61f0a861e72c" sha1="779f1a9f9cab30548950726c524017063e77181f" data="RDpcc3VwcG9ydFwNCg=="/>
 		<rom name="COMMIT.EXE" size="76554" crc="80deedcc" md5="6bb54698231ec5490c5933af8cb5d7d3" sha1="8832f0fc61f7286b14cac0cd1ff0a56e179c5d6f" date="1996-12-11 13:50:00"/>
 		<rom name="DEFS.CON" size="35992" crc="a869321d" md5="844c7525d96f7b1c048b288bbff36e50" sha1="38bac752f2814559b791e51ab0c7414eb11fbc4c" date="1996-12-11 13:50:00"/>
 		<rom name="DEMO1.DMO" size="11140" crc="c4cc3006" md5="7384ebef6414de7c3e960837a4774971" sha1="1589409d5ea11ef1dcaebd124cf28b8a71e99ec9" date="1996-12-11 13:50:00"/>
 		<rom name="DEMO2.DMO" size="16417" crc="b5bef841" md5="990cb6596373da1e7b90867f9b042842" sha1="74eb03283126edd8a0f4287096d1fadc0ae7770e" date="1996-12-11 13:50:00"/>
 		<rom name="DEMO3.DMO" size="9225" crc="30aa57c9" md5="32211000e7af8dafec33ef84a92c4a85" sha1="632f0d9d7e20df11a717db8f401145b624ec0842" date="1996-12-11 13:50:00"/>
 		<rom name="DN3DHELP.EXE" size="80316" crc="18fa7177" md5="37e65ae44527fed6f414f2ebe742529e" sha1="eeb5666d6e1b705e3684f8ed84ab5ac50b30a690" date="1996-12-11 13:50:00"/>
-		<rom name="Duke Nukem 3D - Atomic Edition (USA) (Track 1).bin" size="754199376" crc="5813bf88" md5="8aa5a9c9c351ea7d7dbb2cc750f9b87a" sha1="ae0f352b77125b520c94348f56146787eae10a86"/>
-		<rom name="Duke Nukem 3D - Atomic Edition (USA) (Track 2).ogg" size="4274907" crc="11d2c881" md5="a48c3da9f4b4a81fe1d9853bd3e6452a" sha1="b1e4a18ba34e7da4b650ac543651fa94e7ea231a">
-			<source frames="9756" pregap="224" duration="02:10:06" size="22419264" crc="3d69c3b4" md5="5935b4efece4712861ad583fd6f66327" sha1="e5f0dc4b5e1125c125843df4edcc21ecf586d013" in_zeros="0" out_zeros="149485" trimmed_crc="25d03d10" quality="8"/>
-		</rom>
-		<rom name="Duke Nukem 3D - Atomic Edition (USA).cue" size="237" crc="300b1d3c" md5="7f165b91c71538c3386e22c71c4c340b" sha1="2009a3fb398082087417db9c27e2f14f54029682"/>
 		<rom name="DUKE.RTS" size="188954" crc="504086c1" md5="9d29f9673bbdb56068acf7645c13749c" sha1="738c7f5fd0c8b57ee2e87ae7a97bf8e21a821d07" date="1996-12-11 13:50:00"/>
 		<rom name="DUKE3D.EXE" size="1246231" crc="0167875d" md5="7f92da0bd971a64a1cfde828eb98899b" sha1="f0dc7f1ca810aa517fcad544a3bf5af623a3e44e" date="1996-12-11 13:50:00"/>
 		<rom name="DUKE3D.GRP" size="44356548" crc="fd3dcff1" md5="22b6938fe767e5cc57d1fe13080cd522" sha1="4fdef8559e2d35b1727fe92f021df9c148cf696c" date="1996-12-11 13:50:00"/>
@@ -5913,16 +5916,18 @@
 		<rom name="LICENSE.DOC" size="4765" crc="3971fc47" md5="d54382723eebb61e61df3728846ddcae" sha1="ce1a1bb1afbd714bb96ec0c0d8e0b23a94f14c0b" date="1996-12-11 13:50:00"/>
 		<rom name="MODEM.PCK" size="4126" crc="55eff38f" md5="b11fdaa56177b395be247e44521ba83d" sha1="7d88d2ae3a0fc21fcaaeb9cc5c1e72399c0fd0cb" date="1996-12-11 13:50:00"/>
 		<rom name="SETMAIN.EXE" size="793989" crc="c348d9dd" md5="bf09cc80ea1065a2292e2bcc88ce61da" sha1="40bd08600df2cd6328e69889b5325b72a123614e" date="1996-12-11 13:50:00"/>
+		<rom name="SETUP.DAT" size="27" crc="8183a4f4" md5="7f4fd616224fc6833d591f96906d737b" sha1="9571fab87b3aa6d0bf1a1cc17f0f26db2aecaf8c" date="1996-10-10 13:40:00"/>
 		<rom name="SETUP.EXE" size="37853" crc="61c6108f" md5="25e4a197edf8fbe8b73aeab4fe93878d" sha1="861db7aa6dfc868b6a0b333b4cb091e276a18832" date="1996-12-11 13:50:00"/>
 		<rom name="ULTRAMID.INI" size="6871" crc="5ae1f4fd" md5="b0e3f94780c1c5dab6ec26ef021b69a2" sha1="54a404652aecfddf73aea0c11326f9f95fdd1e25" date="1996-12-11 13:50:00"/>
 		<rom name="USER.CON" size="45482" crc="0927f972" md5="b5871e48c07f0205608ee1a471071f99" sha1="0d6b7adc786709bdea6dff7d21ed2f2a49487a20" date="1996-12-11 13:50:00"/>
 	</game>
 	<game name="Duke Nukem 3D (1996) (3D Realms).dosz">
 		<description>Duke Nukem 3D</description>
-		<comment>Installed v1.3d from CD</comment>
+		<comment>Installed v1.3d from CD, BUILD.EXE and SETUP.DAT copied from the CD</comment>
 		<comment_dosc>Sound Blaster 16 config, 640x480 resolution, and auto start. General MIDI option</comment_dosc>
 		<year>1996</year>
 		<developer>3D Realms</developer>
+		<rom name="BUILD.EXE" size="526957" crc="f7f2f14f" md5="2f663fa4fabddcd808dd4ab73508c5bc" sha1="0e3071c2e13cf60ee984c6c51602a91387f87cc3" date="1996-04-19 13:30:00"/>
 		<rom name="COMMIT.EXE" size="25942" crc="06602bb8" md5="47384300062357bc68c65b3a7fe8cd28" sha1="fbb3d9ae08cd451b2a4cfc75b92de6dedc82d4b2" date="1996-04-19 13:30:00"/>
 		<rom name="DEFS.CON" size="28893" crc="70ef6dfa" md5="4d7789f1542d69e473a89f0b21ec44e4" sha1="72a34f03047898d27a7807bec4317027624c956e" date="1996-04-19 13:30:00"/>
 		<rom name="DEMO1.DMO" size="22884" crc="b8f0331b" md5="9cd0e93797f7ea31253c8a78da34faec" sha1="c55a1a4635738da4e91b49475604608a04c03fcd" date="1996-04-19 13:30:00"/>
@@ -5934,24 +5939,8 @@
 		<rom name="GAME.CON" size="99639" crc="cc08e0a8" md5="aac2c561d79ed37ffc04cfeff907ba42" sha1="1c38973690e88bc93b8ab9bbbe26c1c1e0a4f65c" date="1996-04-19 13:30:00"/>
 		<rom name="MODEM.PCK" size="4125" crc="9bc828c4" md5="80104ab45e28b6a2c16ca9723ffcd4d7" sha1="c0353741d28ded860d708f0915a27028fb47b9f3" date="1996-04-19 13:30:00"/>
 		<rom name="SETMAIN.EXE" size="576639" crc="5288f18f" md5="8388bb4a55b2c2c8e6c29b52f4945dd9" sha1="e43d96ea4429ab6dd5aab0509bd8705223ba5b21" date="1996-04-19 13:30:00"/>
+		<rom name="SETUP.DAT" size="27" crc="8183a4f4" md5="7f4fd616224fc6833d591f96906d737b" sha1="9571fab87b3aa6d0bf1a1cc17f0f26db2aecaf8c" date="1996-04-19 13:30:00"/>
 		<rom name="SETUP.EXE" size="27153" crc="f8dbc57d" md5="faa2b2804f9fdafdd57ea9def319e19a" sha1="7110b4b66e5823527750dcda2a8df5939a978c9b" date="1996-04-19 13:30:00"/>
-		<rom name="TEN/_INST32I.EX_" size="305099" crc="612a8f9a" md5="11d6d2fcda0af1d1965c294560d2b24f" sha1="fd258215e9fb60728e45bd24fa0592006cd64136" date="1995-10-23 19:42:08"/>
-		<rom name="TEN/_ISDEL.EXE" size="8192" crc="db6ff40d" md5="c3200e3277aef0e5d150d797aa62d55f" sha1="fe96bd82d167f50cb8cd9c9a32d72b77f45f8002" date="1995-09-07 21:22:40"/>
-		<rom name="TEN/_ISUSER.DLL" size="51712" crc="e6da6ced" md5="f634dc27b68fde19e21201aef926b809" sha1="978d767b8d50b311d76c15e8f12ea63e37818099" date="1996-02-23 11:40:20"/>
-		<rom name="TEN/_SETUP.DLL" size="10752" crc="838cf8c9" md5="c56a2555964ea49bc8d893b199b69f93" sha1="140bee85e817a79d5ccc1d1e8e1d66199e41ffbe" date="1995-09-26 02:33:58"/>
-		<rom name="TEN/_SETUP.LIB" size="249512" crc="9047c17a" md5="66ae2fb084be49db097ba5f4247fdbdc" sha1="e588e37f6bc488178beb4c0e09b55f541a99814b" date="1996-02-28 13:38:28"/>
-		<rom name="TEN/DATA.1" size="509133" crc="307a3718" md5="9e35072dceba08d279211feba1485231" sha1="3b546bf8bcbb0170b4a76d549797f4fe7f4270b1" date="1996-04-14 18:28:12"/>
-		<rom name="TEN/DATA.2" size="1450927" crc="46aad55d" md5="feda083122807d53760563af6e1acf55" sha1="cd6f5fd506d55533338d98b47c8f0bca2ee9e2b1" date="1996-04-14 18:28:12"/>
-		<rom name="TEN/DATA.3" size="848921" crc="4af51362" md5="ef9689c8e9c348ed94cb8ec47317bdda" sha1="093c6f2357098e912c0cab218adb04560068b183" date="1996-04-14 18:28:12"/>
-		<rom name="TEN/DISK1.ID" size="3" crc="f0145bb1" md5="658b5d7ffc63ba3b327351d7c29d6c7b" sha1="2c6139739a1beef58d9671e1622c0e8b96ba9125" date="1995-05-01 12:01:34"/>
-		<rom name="TEN/DISK2.ID" size="3" crc="f0145bb1" md5="658b5d7ffc63ba3b327351d7c29d6c7b" sha1="2c6139739a1beef58d9671e1622c0e8b96ba9125" date="1995-05-01 12:01:34"/>
-		<rom name="TEN/DISK3.ID" size="3" crc="f0145bb1" md5="658b5d7ffc63ba3b327351d7c29d6c7b" sha1="2c6139739a1beef58d9671e1622c0e8b96ba9125" date="1995-05-01 12:01:34"/>
-		<rom name="TEN/SETUP.BMP" size="161078" crc="561ed9af" md5="a6fc62e721a7500295d4e8c142feb3da" sha1="9d80b4eb47e30a474da2927ca71d664d8357dbc1" date="1995-12-13 19:31:04"/>
-		<rom name="TEN/SETUP.EXE" size="47616" crc="e0b6ea26" md5="eb3f9b11742721711b7e2e8896798119" sha1="96bc97892f05ef89d6af6812d9904f3c91442a36" date="1995-10-23 19:31:20"/>
-		<rom name="TEN/SETUP.INI" size="65" crc="d4fffc14" md5="0f915e043ea594f9bfbba2f1ae92c30d" sha1="d1c9fb40efa2d83c345268434aa049790739c0f1" date="1995-12-05 17:00:10"/>
-		<rom name="TEN/SETUP.INS" size="64147" crc="dd485251" md5="6effd4abf1499c90dab0445750e13fca" sha1="ebfce92082d12ce3650e0717b52006127b61ca56" date="1996-04-14 18:27:12"/>
-		<rom name="TEN/SETUP.PKG" size="2532" crc="3cc2ffe2" md5="afa3a2c53cac4a28421e5bba8bd5a838" sha1="019e9ac2ac4920ac937811ed0fc50a711fc4e51f" date="1995-12-12 17:27:00"/>
-		<rom name="TENGAME.INI" size="118" crc="05f6737f" md5="8d69c586620008f7432c89450a7319e8" sha1="2b6e157bede128d48788ebb80f29f1e635dd20dd" date="1996-04-19 13:30:00"/>
 		<rom name="ULTRAMID.INI" size="6871" crc="5ae1f4fd" md5="b0e3f94780c1c5dab6ec26ef021b69a2" sha1="54a404652aecfddf73aea0c11326f9f95fdd1e25" date="1996-04-19 13:30:00"/>
 		<rom name="USER.CON" size="36960" crc="20446233" md5="159a0931fed4f14cf2e41478f7240bbe" sha1="8129e3f44060aea790f92f4aaebb235a7898e31d" date="1996-04-19 13:30:00"/>
 	</game>
