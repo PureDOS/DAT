@@ -10,41 +10,4 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
 	</header>
-	<game name="Transport Tycoon Deluxe (1995) (Chris Sawyer) (TTDPatch).dosz">
-		<description>Transport Tycoon Deluxe</description>
-		<comment>v2.01.119 October build with added files from TTDPatch v2.0 rev1</comment>
-		<comment_dosc>Sound config and auto run</comment_dosc>
-		<year>1995</year>
-		<developer>Chris Sawyer</developer>
-		<variant>TTDPatch</variant>
-		<parent>Transport Tycoon Deluxe (1995) (Chris Sawyer).dosz</parent>
-		<rom name="mkpttxt.exe" size="23552" crc="d1da8429" md5="17dc771db65870712b6e2f3aa484f7e8" sha1="66e14ffc90e9b1ad722febf8494fe1a49fb2ea74" date="2003-10-23 22:45:46"/>
-		<rom name="newgrf.cfg" size="296" crc="1a211721" md5="c65b1a29a2a71c9e4b923694ba7c39cb" sha1="f2c9ac7e1c9854ec6c0659f45511489db983befe" date="2004-02-15 10:57:32"/>
-		<rom name="newgrf/arcticst.grf" size="24531" crc="cd6559b0" md5="ebdfab77f35f7ead14877a6922406989" sha1="797fa9e8c54f84f873486b69061ce47c6adc277f" date="2003-07-27 11:45:54"/>
-		<rom name="newgrf/cargoset.grf" size="329497" crc="fd07a7bb" md5="839d28670d8b7741178a94fe327d58a9" sha1="dc3f61385d712968486176178a7ee84408ee1dcf" date="2003-07-15 21:02:02"/>
-		<rom name="newgrf/DB_readme.html" size="34038" crc="2941192e" md5="f7d1e34c545e93d673315339c37e0388" sha1="94a03be5a27642cffb49532d9057b79ef8ddaa22" date="2003-11-15 15:06:46"/>
-		<rom name="newgrf/dbset.grf" size="282116" crc="64487778" md5="301cbcf40f5b57e23a8e69a93a73c858" sha1="d7a56e9faba010da82deb1760605a84212550757" date="2003-11-15 13:10:20"/>
-		<rom name="newgrf/elrails.grf" size="7696" crc="71872572" md5="8dd0ac78fdad708c012a887415d37a37" sha1="34964719d060aaf686877772326020d82fdc2ae7" date="2003-09-11 23:05:30"/>
-		<rom name="newgrf/LongBus.grf" size="45121" crc="6fc2c5c5" md5="a9bcf9798db46e0108545f74c446d8fe" sha1="e90dcbd321d3d5c135833bd8a2f756de2d07da06" date="2004-01-18 20:15:22"/>
-		<rom name="newgrf/Mc.grf" size="276122" crc="b8659e8c" md5="0daca907fe64390992a6dbd811b50de9" sha1="fd9b173b5eab8f5f1b8b761d27f2abfae43a3899" date="2004-01-18 20:15:24"/>
-		<rom name="newgrf/Navistar.grf" size="209179" crc="44321fe7" md5="598ce4e17f464e74be6090374402233e" sha1="e948103b91ef90c6f35800a55d3f5bc78f5cae99" date="2004-01-18 20:15:28"/>
-		<rom name="newgrf/newships.grf" size="493998" crc="2d696b14" md5="136a069992e38175cad5d596a0a058bb" sha1="dd563d675b5a0e1ff2b609f24c393f6adc351532" date="2003-07-27 10:54:54"/>
-		<rom name="newgrf/newships_readme.html" size="8840" crc="0ef919cf" md5="18f7381e67f460d98af1a7be4d02e75a" sha1="5fb459ccbba97b7a59cb002f57b82495adb30860" date="2003-07-14 17:39:10"/>
-		<rom name="newgrf/readme.txt" size="9609" crc="f44a9d1f" md5="fd1f20cfbbafd80b355f87667b55c59e" sha1="f92f9337252e5a85ba74aebfa6c06a0066b5dcfe" date="2003-07-16 18:31:30"/>
-		<rom name="newgrf/Scania.grf" size="321904" crc="472f1b1d" md5="fef8c332c5a1bb971e2f81475d4930a9" sha1="50ae70a2f1ae0f471ba5091a232b2e60e7c50443" date="2004-01-18 20:15:32"/>
-		<rom name="newgrf/signals.grf" size="22939" crc="327b5fd0" md5="01314265bed5624c8cef15352947a3e3" sha1="dd48bc25da8e0babb5a27d4cd8c271e23a513e4a" date="2003-10-16 20:16:24"/>
-		<rom name="newgrf/Spitzer.grf" size="6097" crc="9732d4a6" md5="3c31e86871a68dd497a6b79156a1b08d" sha1="36dd1da17759fe13e1c0c0fa46c90f753869fd54" date="2004-01-19 10:14:26"/>
-		<rom name="newgrf/tempset.grf" size="39099" crc="ec6245ae" md5="6da71d2bcba117381cbb688ec052db2c" sha1="7665a8738ac55296ac7f66b53d9e508464973e05" date="2003-07-16 18:28:06"/>
-		<rom name="newgrf/tempsetp.grf" size="38981" crc="8c4b3143" md5="dc1994a0dff59285f7326b5154329645" sha1="5f66e5ee06efd204a9545d417941554a2b9d286d" date="2003-07-16 18:24:18"/>
-		<rom name="newgrf/trkfound.grf" size="91508" crc="43a8e7c7" md5="c9bfe7a62b282ec3340c4481c08b31f2" sha1="5cf15f5640ebd258f0347cd6e0516319be286c2d" date="2003-09-11 23:13:14"/>
-		<rom name="newgrf/Tropic Set.txt" size="7841" crc="70789875" md5="e268867a8becfeaae7b44a99dde82abd" sha1="7089c879a0bd6e9cd2217129d1555983d8a88338" date="2003-09-22 01:36:00"/>
-		<rom name="newgrf/tropicst.grf" size="136283" crc="ff498ddf" md5="d88327c1fc47aff0029ede7ce151c400" sha1="059e5e62ab015cbec6562a04726944063d83aa94" date="2003-09-22 01:57:16"/>
-		<rom name="newgrf/update.txt" size="1807" crc="4335285f" md5="4010bf56c9640243cb3421243ffdd9f8" sha1="3c73f433d53858e168445ded6c9206b381d25112" date="2003-07-14 17:45:58"/>
-		<rom name="newgrf/Volvo.grf" size="346271" crc="f5239c32" md5="4420ddaac6cff2f3ea35d44aef09c9db" sha1="d2dbb06a8faf985c6567da81b16ea322064e8c2b" date="2004-01-18 20:16:06"/>
-		<rom name="Transport Tycoon Deluxe (1995) (Chris Sawyer).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="ttdpatc2.ico" size="6766" crc="5f5ab930" md5="4c3815a17bef721b9f06886f1deae80c" sha1="981bb4bffaf951114a3ee447911a2c10e328fc44" date="2003-05-16 22:09:44"/>
-		<rom name="ttdpatch.exe" size="231158" crc="d0331da5" md5="3ecbc817f33ba558690960b3c71e0955" sha1="a3db961c9b5e68189be1cf9063ff0deafa869d28" date="2003-10-23 22:46:20"/>
-		<rom name="ttdpatch.ico" size="6766" crc="5553ed07" md5="08b47a8e41e5f26209d842a28f0e5da6" sha1="e1f1e7a48dc69b2c68ac7d40a14df483a8ca98de" date="2003-05-16 22:02:16"/>
-		<rom name="ttdpatch.txt" size="300940" crc="c4cf77ca" md5="055363057e32083183170b1fa1ee1ce0" sha1="c7bf4f5be0a371ca6ec1a96d655c00fb0d1d2085" date="2003-10-23 23:09:00"/>
-	</game>
 </datafile>
