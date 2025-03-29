@@ -3688,31 +3688,31 @@
 		<comment>Less stable than v1.90. Needs files copied from Windows version of v2.10, and agsetup.exe and AGsetup.txt from v1.90. Also needs CWSDPMI r7, needs DOS.YML with mem_size: 65536, and needs empty ag.cfg file</comment>
 		<comment_dosc>Sound Blaster 16 config, BAT file for launching the game with CWSDPMI, and auto start. General MIDI option</comment_dosc>
 		<link type="freeware">https://web.archive.org/web/20120812031747/http://zeldaclassic.com/downloads.php</link>
-		<link type="freeware">https://sandmann.dotster.com/cwsdpmi/</link>
-		<rom name="1st.qst" size="297910" crc="e9238fba" md5="29ebf2068fafa5be02ab5515baab2c1b" sha1="6ed0451a8e5ed4ed33c225af79f0eae69d7aa13f" date="2005-01-01 03:43:14"/>
-		<rom name="210test.qst" size="701338" crc="d7d055b6" md5="4b6dc4451ab748bba25ab065fc89d774" sha1="08cc1d2e870939867bc384ef9a3a779f9b214317" date="2005-01-01 03:42:52"/>
-		<rom name="2nd.qst" size="293815" crc="eac19f29" md5="a349012efc569749be2fcb2f0cf7f59c" sha1="34f9771b6fa31f8fcf8b6cd68e44e5ea82b163a6" date="2005-01-01 03:43:34"/>
-		<rom name="3rd.qst" size="344769" crc="409709a4" md5="29cdd4d157a06c0902ac03a3b526d16c" sha1="80b15680a266d8d20513cf8c5e52821d678ce7b1" date="2005-01-01 03:44:06"/>
+		<link type="addon" name="cwsdpmi">https://sandmann.dotster.com/cwsdpmi/</link>
+		<rom name="1st.qst" size="297910" crc="e9238fba" md5="29ebf2068fafa5be02ab5515baab2c1b" sha1="6ed0451a8e5ed4ed33c225af79f0eae69d7aa13f" date="2005-01-01 16:43:14"/>
+		<rom name="210test.qst" size="701338" crc="d7d055b6" md5="4b6dc4451ab748bba25ab065fc89d774" sha1="08cc1d2e870939867bc384ef9a3a779f9b214317" date="2005-01-01 16:42:52"/>
+		<rom name="2nd.qst" size="293815" crc="eac19f29" md5="a349012efc569749be2fcb2f0cf7f59c" sha1="34f9771b6fa31f8fcf8b6cd68e44e5ea82b163a6" date="2005-01-01 16:43:34"/>
+		<rom name="3rd.qst" size="344769" crc="409709a4" md5="29cdd4d157a06c0902ac03a3b526d16c" sha1="80b15680a266d8d20513cf8c5e52821d678ce7b1" date="2005-01-01 16:44:06"/>
 		<rom name="ag.cfg" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="agsetup.exe" size="252877" crc="2c838b2c" md5="ef2bd0f1ac16a25522df1ea07c7bddab" sha1="60eb3dfa483bcd302ccf38d854746956e01e56dd" date="1999-11-21 00:27:28"/>
-		<rom name="AGsetup.txt" size="1894" crc="f747505d" md5="50b58bac63e4ca5a766e1c45be2c71ae" sha1="2129a1e4a59c364eec5f6240652136a66f126584" date="1999-07-27 22:45:00"/>
-		<rom name="alleg41.dll" size="513794" crc="d8e23129" md5="6feaf613e778488333fec9aa1afac330" sha1="1827e22d0d435056ff7fbefbb663ac424eaa0157" date="2004-09-05 12:19:36"/>
-		<rom name="bs1st.qst" size="207242" crc="2be17dc2" md5="51509131bc45902c6737dc7997a3ccef" sha1="5d265a740a242e270d68c56b102eec14e8361f25" date="2005-01-01 03:53:30"/>
+		<rom name="agsetup.exe" size="252877" crc="2c838b2c" md5="ef2bd0f1ac16a25522df1ea07c7bddab" sha1="60eb3dfa483bcd302ccf38d854746956e01e56dd" date="1999-11-21 13:27:28"/>
+		<rom name="AGsetup.txt" size="1894" crc="f747505d" md5="50b58bac63e4ca5a766e1c45be2c71ae" sha1="2129a1e4a59c364eec5f6240652136a66f126584" date="1999-07-28 11:45:00"/>
+		<rom name="alleg41.dll" size="513794" crc="d8e23129" md5="6feaf613e778488333fec9aa1afac330" sha1="1827e22d0d435056ff7fbefbb663ac424eaa0157" date="2004-09-06 01:19:36"/>
+		<rom name="bs1st.qst" size="207242" crc="2be17dc2" md5="51509131bc45902c6737dc7997a3ccef" sha1="5d265a740a242e270d68c56b102eec14e8361f25" date="2005-01-01 16:53:30"/>
 		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 23:06:10"/>
-		<rom name="demoex.qst" size="567311" crc="34acd684" md5="c99ccca2da4bcc1a14e7d7055ebd12cf" sha1="42e8996a3709c35875775a9177c3b0bd1f10e1b4" date="2005-01-02 03:08:08"/>
-		<rom name="demoex.txt" size="1363" crc="2670f26d" md5="d14376507cbbb6cb73ca133d7a980e53" sha1="aa967d325d9fa7f0f96adf877c06931b34905495" date="2005-01-02 02:17:48"/>
-		<rom name="DOS.YML" size="17" crc="9e2ade80" md5="5e4e9514ccbed110c66ed799f2b0c449" sha1="7ff552bf9a73a8ba6fe5089d140c63e3d6be659c"/>
-		<rom name="example_1st.qst" size="297912" crc="ce0f14d9" md5="f9714323b943edb838264810810e6099" sha1="1bfbd08ff21fcd0def2272e3d3b7f8b572198eef" date="2005-01-01 03:51:38"/>
-		<rom name="example_2nd.qst" size="293814" crc="3ef40fa2" md5="f75fd84478a277fae66c5fd2fb121302" sha1="58692c50b1837004efdec8d97b70601cc152844a" date="2005-01-01 03:52:20"/>
-		<rom name="example_bs1st.qst" size="207242" crc="15041aae" md5="9c83b9ec3aef3a1f37be1363dff4d666" sha1="aca19ea78a148ec4a3581db2ef1c3776f1889484" date="2005-01-01 03:53:58"/>
-		<rom name="fonts.dat" size="16528" crc="479267aa" md5="6c84842e1633936b86c77d4da6831d91" sha1="b9ad1d7fc58e3ade6fca3dba8d7d342a059a3cfe" date="2005-01-01 05:58:08"/>
-		<rom name="new enemy tiles.pdf" size="16592" crc="620f226f" md5="056d526cc632e1175fb235a5676c2ac4" sha1="fa940db8725351462a3dfde8f280b7d855497846" date="2002-02-18 07:56:50"/>
-		<rom name="sfx.dat" size="356911" crc="b3998c2a" md5="e400c9f44b774127c156c1e019ec5a4e" sha1="c26cbcbfe25709868df218e54f0d10879fcd9875" date="2005-01-01 06:39:56"/>
-		<rom name="zelda.dat" size="167994" crc="1032e2a7" md5="fdd0d4e33893c5a95815fbcb445ffc7a" sha1="c07ed09891cff4f314e481d5bc54cdc12622f9b8" date="2005-01-01 05:57:08"/>
+		<rom name="demoex.qst" size="567311" crc="34acd684" md5="c99ccca2da4bcc1a14e7d7055ebd12cf" sha1="42e8996a3709c35875775a9177c3b0bd1f10e1b4" date="2005-01-02 16:08:08"/>
+		<rom name="demoex.txt" size="1363" crc="2670f26d" md5="d14376507cbbb6cb73ca133d7a980e53" sha1="aa967d325d9fa7f0f96adf877c06931b34905495" date="2005-01-02 15:17:48"/>
+		<rom name="example_1st.qst" size="297912" crc="ce0f14d9" md5="f9714323b943edb838264810810e6099" sha1="1bfbd08ff21fcd0def2272e3d3b7f8b572198eef" date="2005-01-01 16:51:38"/>
+		<rom name="example_2nd.qst" size="293814" crc="3ef40fa2" md5="f75fd84478a277fae66c5fd2fb121302" sha1="58692c50b1837004efdec8d97b70601cc152844a" date="2005-01-01 16:52:20"/>
+		<rom name="example_bs1st.qst" size="207242" crc="15041aae" md5="9c83b9ec3aef3a1f37be1363dff4d666" sha1="aca19ea78a148ec4a3581db2ef1c3776f1889484" date="2005-01-01 16:53:58"/>
+		<rom name="fonts.dat" size="16528" crc="479267aa" md5="6c84842e1633936b86c77d4da6831d91" sha1="b9ad1d7fc58e3ade6fca3dba8d7d342a059a3cfe" date="2005-01-01 18:58:08"/>
+		<rom name="new enemy tiles.pdf" size="16592" crc="620f226f" md5="056d526cc632e1175fb235a5676c2ac4" sha1="fa940db8725351462a3dfde8f280b7d855497846" date="2002-02-18 20:56:50"/>
+		<rom name="sfx.dat" size="356911" crc="b3998c2a" md5="e400c9f44b774127c156c1e019ec5a4e" sha1="c26cbcbfe25709868df218e54f0d10879fcd9875" date="2005-01-01 19:39:56"/>
+		<rom name="zelda.dat" size="167994" crc="1032e2a7" md5="fdd0d4e33893c5a95815fbcb445ffc7a" sha1="c07ed09891cff4f314e481d5bc54cdc12622f9b8" date="2005-01-01 18:57:08"/>
 		<rom name="zelda.exe" size="741480" crc="f3f91b96" md5="7df25e767e7a7f16d58e801ae98ea69b" sha1="183b9d3efd8e1ba1a5ccc0d6c1d29177122a9511" date="2005-01-01 04:45:48"/>
-		<rom name="zgp.dat" size="312515" crc="c1d23813" md5="637ed454a9396bb37a744605f5fd5e61" sha1="008a4227a2da8732ead101aa39483b6ced0e0dbf" date="2005-01-01 06:00:58"/>
-		<rom name="zquest.dat" size="8421" crc="a0c5c90e" md5="3e43d5338a7087087f0ca11c903d9c49" sha1="2397eb9a9cd04411fde1a18dada812ca1a56dafd" date="2005-01-01 06:03:22"/>
+		<rom name="zgp.dat" size="312515" crc="c1d23813" md5="637ed454a9396bb37a744605f5fd5e61" sha1="008a4227a2da8732ead101aa39483b6ced0e0dbf" date="2005-01-01 19:00:58"/>
+		<rom name="zquest.dat" size="8421" crc="a0c5c90e" md5="3e43d5338a7087087f0ca11c903d9c49" sha1="2397eb9a9cd04411fde1a18dada812ca1a56dafd" date="2005-01-01 19:03:22"/>
 		<rom name="zquest.exe" size="571004" crc="5ea4f6e9" md5="5cdd6d6b1fb4516c1315c80348794229" sha1="f9ecf40b21ea89f6a7ddf146dfe143f54b888ec8" date="2005-01-01 04:46:16"/>
-		<rom name="zquest.txt" size="73815" crc="7d1237a3" md5="bb38680f605f521c136a1a72bdfcb716" sha1="ed54ca79d449f13116ace8a97d53d3a76fca40ca" date="2004-02-16 01:44:22"/>
+		<rom name="zquest.txt" size="73815" crc="7d1237a3" md5="bb38680f605f521c136a1a72bdfcb716" sha1="ed54ca79d449f13116ace8a97d53d3a76fca40ca" date="2004-02-16 14:44:22"/>
+		<rom name="DOS.YML" size="17" crc="9e2ade80" md5="5e4e9514ccbed110c66ed799f2b0c449" sha1="7ff552bf9a73a8ba6fe5089d140c63e3d6be659c" data="bWVtX3NpemU6IDY1NTM2DQo="/>
 	</game>
 </datafile>

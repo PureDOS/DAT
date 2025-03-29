@@ -20966,29 +20966,29 @@
 		<comment>Freeware v1.90. Needs CWSDPMI r7, needs DOS.YML with mem_size: 65536, and needs empty ag.cfg file</comment>
 		<comment_dosc>Sound Blaster 16 config, BAT file for launching the game with CWSDPMI, and auto start. General MIDI option</comment_dosc>
 		<link type="freeware">https://web.archive.org/web/20120812031747/http://zeldaclassic.com/downloads.php</link>
-		<link type="freeware">https://sandmann.dotster.com/cwsdpmi/</link>
-		<rom name="1st.qst" size="36124" crc="33d4ef9a" md5="ce0514845cfbc3dc66259cbdc4c99a95" sha1="09a57d3a1b9dbc10d7a5c58fe84766ef20f5ee87" date="2000-07-16 16:40:56"/>
-		<rom name="2nd.qst" size="35677" crc="1c14933b" md5="48e4ebd4e13211098da42e6c16fd2c64" sha1="bf9ed81e65aeef8775d0f4af72868dc1db052a63" date="2000-07-16 16:47:28"/>
+		<link type="addon" name="cwsdpmi">https://sandmann.dotster.com/cwsdpmi/</link>
+		<rom name="1st.qst" size="36124" crc="33d4ef9a" md5="ce0514845cfbc3dc66259cbdc4c99a95" sha1="09a57d3a1b9dbc10d7a5c58fe84766ef20f5ee87" date="2000-07-17 05:40:56"/>
+		<rom name="2nd.qst" size="35677" crc="1c14933b" md5="48e4ebd4e13211098da42e6c16fd2c64" sha1="bf9ed81e65aeef8775d0f4af72868dc1db052a63" date="2000-07-17 05:47:28"/>
 		<rom name="ag.cfg" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="agsetup.exe" size="252877" crc="2c838b2c" md5="ef2bd0f1ac16a25522df1ea07c7bddab" sha1="60eb3dfa483bcd302ccf38d854746956e01e56dd" date="1999-11-21 00:27:28"/>
-		<rom name="AGsetup.txt" size="1894" crc="f747505d" md5="50b58bac63e4ca5a766e1c45be2c71ae" sha1="2129a1e4a59c364eec5f6240652136a66f126584" date="1999-07-27 22:45:00"/>
-		<rom name="bs1st.qst" size="139993" crc="bca36f35" md5="6d49ca0a6646026930f6b549bdfc0d81" sha1="1e45df32c1cc9744f439f8804e3c6a7b88e439d9" date="2000-07-21 21:49:20"/>
+		<rom name="agsetup.exe" size="252877" crc="2c838b2c" md5="ef2bd0f1ac16a25522df1ea07c7bddab" sha1="60eb3dfa483bcd302ccf38d854746956e01e56dd" date="1999-11-21 13:27:28"/>
+		<rom name="AGsetup.txt" size="1894" crc="f747505d" md5="50b58bac63e4ca5a766e1c45be2c71ae" sha1="2129a1e4a59c364eec5f6240652136a66f126584" date="1999-07-28 11:45:00"/>
+		<rom name="bs1st.qst" size="139993" crc="bca36f35" md5="6d49ca0a6646026930f6b549bdfc0d81" sha1="1e45df32c1cc9744f439f8804e3c6a7b88e439d9" date="2000-07-22 10:49:20"/>
 		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 23:06:10"/>
-		<rom name="demo.qst" size="126559" crc="b8a965ba" md5="ff67546fd5fd45307e5b9b59023444ec" sha1="564b63544efbe388e0a55a754875a9f76ffefd84" date="2000-07-21 21:54:30"/>
-		<rom name="DOS.YML" size="17" crc="9e2ade80" md5="5e4e9514ccbed110c66ed799f2b0c449" sha1="7ff552bf9a73a8ba6fe5089d140c63e3d6be659c"/>
-		<rom name="example_1st.qst" size="36125" crc="599fde8e" md5="4827ed49c6dcca0948073e6e383e41ef" sha1="b05fdc83b959a8ae175e29aca210ba89c8accbdf" date="2000-07-15 22:16:28"/>
-		<rom name="example_2nd.qst" size="36077" crc="358cbe4e" md5="777b8d7144d6529992d755fefc3a42d6" sha1="623bb32b30ccba13a4abf8a489b626aabde8ca0a" date="2001-03-31 15:24:18"/>
-		<rom name="example_bs1st.qst" size="140004" crc="6a0aa8c6" md5="8751bd6b2f72fad94968e8be6c764721" sha1="9670021be99b70688ac22e85324e22e60608c4d0" date="2000-07-21 21:57:08"/>
-		<rom name="history.txt" size="8402" crc="027569bf" md5="8e2a0f3bcf32c83159acd5b6dd279c55" sha1="a49d4cb711a10f5b3039e96caed7e70331eb0766" date="2001-04-03 22:05:40"/>
-		<rom name="newfirst.qst" size="122814" crc="09d74d89" md5="c035fb08034b465be6e833dc8cc0d32f" sha1="e6363dd22f2edb0cf327847b7be09227a4b0f01b" date="2001-03-31 15:19:14"/>
-		<rom name="qst.ico" size="1078" crc="c695d20f" md5="a57b50cc9948904ba6ca4dfb78943dc4" sha1="ccea335fd2878363089b3d6c645b97c75319463d" date="2000-11-02 21:33:04"/>
-		<rom name="readme.txt" size="17122" crc="c0e2d0ff" md5="3822e17e3d09116fb6b0b38e328be94e" sha1="260ebdc739720150265e9eb173033431a4b59646" date="2001-04-03 22:05:06"/>
-		<rom name="upgrade.exe" size="420975" crc="1c316916" md5="2fc59ccbb67376f36a468a6630ab1a67" sha1="187dd6dc6df6e61eb8ee6528368f64bdeda3aadd" date="2001-04-02 22:30:48"/>
-		<rom name="zc.ico" size="4846" crc="c43ccb2e" md5="3c50aa48fe2abeffe64d9ed520d679e5" sha1="75ca4925d0beacc71bd2187c6f9f2922fcaca839" date="1999-11-29 10:52:56"/>
-		<rom name="zelda.dat" size="552289" crc="3b2225ce" md5="5d54cf1029477969ceff62cf503e1323" sha1="789ffb3365eebbb23245a15153033c322adcdc8a" date="2001-04-01 00:56:44"/>
-		<rom name="zelda.exe" size="424388" crc="ace55e0c" md5="1b76c4a399514253ef62736ebf5d0043" sha1="37844c30cd0efd96a41cb4a2c14d9d66f970b724" date="2001-06-20 23:43:56"/>
-		<rom name="zquest.exe" size="422807" crc="3f08a0bc" md5="8dc4d0574186b0d171fe51c33a392bfe" sha1="d1008ad8107999ecba6787d545e36899a12c4411" date="2001-06-20 23:47:12"/>
-		<rom name="zquest.txt" size="11404" crc="cd80be1b" md5="1746b132a4873ec1f338d451e4a235a6" sha1="48676619cfb5819096bd78ac3d73c1aadc8f11d9" date="2000-07-21 23:02:36"/>
+		<rom name="demo.qst" size="126559" crc="b8a965ba" md5="ff67546fd5fd45307e5b9b59023444ec" sha1="564b63544efbe388e0a55a754875a9f76ffefd84" date="2000-07-22 10:54:30"/>
+		<rom name="example_1st.qst" size="36125" crc="599fde8e" md5="4827ed49c6dcca0948073e6e383e41ef" sha1="b05fdc83b959a8ae175e29aca210ba89c8accbdf" date="2000-07-16 11:16:28"/>
+		<rom name="example_2nd.qst" size="36077" crc="358cbe4e" md5="777b8d7144d6529992d755fefc3a42d6" sha1="623bb32b30ccba13a4abf8a489b626aabde8ca0a" date="2001-04-01 04:24:18"/>
+		<rom name="example_bs1st.qst" size="140004" crc="6a0aa8c6" md5="8751bd6b2f72fad94968e8be6c764721" sha1="9670021be99b70688ac22e85324e22e60608c4d0" date="2000-07-22 10:57:08"/>
+		<rom name="history.txt" size="8402" crc="027569bf" md5="8e2a0f3bcf32c83159acd5b6dd279c55" sha1="a49d4cb711a10f5b3039e96caed7e70331eb0766" date="2001-04-04 11:05:40"/>
+		<rom name="newfirst.qst" size="122814" crc="09d74d89" md5="c035fb08034b465be6e833dc8cc0d32f" sha1="e6363dd22f2edb0cf327847b7be09227a4b0f01b" date="2001-04-01 04:19:14"/>
+		<rom name="qst.ico" size="1078" crc="c695d20f" md5="a57b50cc9948904ba6ca4dfb78943dc4" sha1="ccea335fd2878363089b3d6c645b97c75319463d" date="2000-11-03 10:33:04"/>
+		<rom name="readme.txt" size="17122" crc="c0e2d0ff" md5="3822e17e3d09116fb6b0b38e328be94e" sha1="260ebdc739720150265e9eb173033431a4b59646" date="2001-04-04 11:05:06"/>
+		<rom name="upgrade.exe" size="420975" crc="1c316916" md5="2fc59ccbb67376f36a468a6630ab1a67" sha1="187dd6dc6df6e61eb8ee6528368f64bdeda3aadd" date="2001-04-03 11:30:48"/>
+		<rom name="zc.ico" size="4846" crc="c43ccb2e" md5="3c50aa48fe2abeffe64d9ed520d679e5" sha1="75ca4925d0beacc71bd2187c6f9f2922fcaca839" date="1999-11-29 23:52:56"/>
+		<rom name="zelda.dat" size="552289" crc="3b2225ce" md5="5d54cf1029477969ceff62cf503e1323" sha1="789ffb3365eebbb23245a15153033c322adcdc8a" date="2001-04-01 13:56:44"/>
+		<rom name="zelda.exe" size="424388" crc="ace55e0c" md5="1b76c4a399514253ef62736ebf5d0043" sha1="37844c30cd0efd96a41cb4a2c14d9d66f970b724" date="2001-06-21 12:43:56"/>
+		<rom name="zquest.exe" size="422807" crc="3f08a0bc" md5="8dc4d0574186b0d171fe51c33a392bfe" sha1="d1008ad8107999ecba6787d545e36899a12c4411" date="2001-06-21 12:47:12"/>
+		<rom name="zquest.txt" size="11404" crc="cd80be1b" md5="1746b132a4873ec1f338d451e4a235a6" sha1="48676619cfb5819096bd78ac3d73c1aadc8f11d9" date="2000-07-22 12:02:36"/>
+		<rom name="DOS.YML" size="17" crc="9e2ade80" md5="5e4e9514ccbed110c66ed799f2b0c449" sha1="7ff552bf9a73a8ba6fe5089d140c63e3d6be659c" data="bWVtX3NpemU6IDY1NTM2DQo="/>
 	</game>
 	<game name="Zeliard (1990) (Game Arts).dosz">
 		<description>Zeliard</description>
