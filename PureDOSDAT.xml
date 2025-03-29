@@ -5233,6 +5233,44 @@
 		<rom name="TOS.EXE" size="168480" crc="ca812740" md5="f33506ad8be60b44ead0e7c649389222" sha1="f5f062d8e9283313179b4a5b52bf34dca33edae5" date="1994-05-24 16:00:58"/>
 		<rom name="TOSTEXT.BIN" size="43778" crc="047c676e" md5="f242a1406d0ab0be8fb647665ebbc921" sha1="3c2439e17a098628d70142b8813a6f295763faab" date="1994-02-11 12:36:22"/>
 	</game>
+	<game name="Deja Vu - A Nightmare Comes True (1987) (ICOM Simulations).dosz">
+		<description>Deja Vu - A Nightmare Comes True</description>
+		<comment>Extracted from unverified floppy dump, unknown if modified from original, DOS.YML fixes CGA machine to make keyboard input work</comment>
+		<comment_dosc>Auto start, increased CPU speed so sound plays correctly</comment_dosc>
+		<year>1987</year>
+		<developer>ICOM Simulations</developer>
+		<rom name="DEJAGAME.D" size="7808" crc="df036d10" md5="eaf1c3dab9ef72e699c410b21dd4b123" sha1="5962d5253b162c5133d90f1397238542151aa952" date="1998-09-05 11:19:16"/>
+		<rom name="DEJAVU.EXE" size="89967" crc="f67e9301" md5="d4f2aa92a8e1fcf2fbb0fefecc1f6420" sha1="c1c604581c201c4e52d04360a3c8558814ea6a51" date="1998-09-05 11:19:28"/>
+		<rom name="FILTERS.D" size="23486" crc="0d842b00" md5="f0ba8d706990861a6f70736dd42ce050" sha1="930a1f3c925d4f036a6e9e71fb76d8274b5a75fb" date="1998-09-05 11:19:16"/>
+		<rom name="GRAPHICS.D" size="297088" crc="858deef0" md5="31d222d1c4c1b112b040f17babbe1e68" sha1="ecd1d104a4dbb57877dba44e26412fe164d63faa" date="1998-09-05 11:19:16"/>
+		<rom name="OBJECTS.D" size="5248" crc="dba1e942" md5="267a88754961b08988c489728b5f82cd" sha1="d19afd74697893c145d1ddf759983569d10bdaf7" date="1998-09-05 11:19:16"/>
+		<rom name="RESOURCE.D" size="512" crc="e6d8f3f9" md5="ff5ea0585c15f1e6d02b4fd20e043b8b" sha1="7763f426e305308f4785448330b4ad4c67e7ec56" date="1998-09-05 11:19:16"/>
+		<rom name="SOUNDS.D" size="20865" crc="be178615" md5="4704f21bc0d96fc0682eea730d50841d" sha1="1ce72e4b35af9e20a3ecc2056ed42ac70b692be7" date="1998-09-05 11:19:16"/>
+		<rom name="TEXT.D" size="66794" crc="ecea5601" md5="3279c9d27650efa6ee369abab4ecc900" sha1="52f7d99ee4ba2981882dbea7981abf891d953d69" date="1998-09-05 11:19:16"/>
+		<rom name="DOS.YML" size="25" crc="ed8407bf" md5="27cef74560dee498103122db95037c94" sha1="077b0f82fdfe0551d67db2680804f9a10cf70dd8" data="dmlkZW9fY2FyZDogZ2VuZXJpY19jZ2ENCg=="/>
+	</game>
+	<game name="Deja Vu II - Lost in Las Vegas (1990) (ICOM Simulations).dosz">
+		<description>Deja Vu II - Lost in Las Vegas</description>
+		<comment>Installed from 1.44 MB floppy disk, patched to fix DMA crash in emulators</comment>
+		<comment_dosc>Auto start, fixed CPU speed</comment_dosc>
+		<year>1990</year>
+		<developer>ICOM Simulations</developer>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1916</link>
+		<link type="patch">https://www.vogons.org/viewtopic.php?t=7513</link>
+		<rom name="DEJAVUII.EXE" size="86810" crc="3796c8b4" md5="2e03fa7b6cd23778febe74c7df7c8484" sha1="6fef66f8ca565396a8ad81d64c673183692de596" date="1989-12-19 22:47:12">
+			<patch data="UEFUQ0gA9bQAAQAA9b0AAQBFT0Y=" size="86810" crc="f6e4248b" md5="76274dc17bed177f4c3fa896f2416598" sha1="fadbbea7df88051d8ed360f4b65b5e68cec78efc"/>
+		</rom>
+		<rom name="DIPLOMA.DAT" size="36821" crc="9ffe8a40" md5="604d8a5c1de054552695aabda9a349cc" sha1="79ca7cdfeaa0c30c2ed8c56b931b61e9774ee61f" date="1989-12-18 16:58:44"/>
+		<rom name="FILTER.DAT" size="55767" crc="58afc029" md5="2a06f6873d7adfe9462e928a6f9dbaa0" sha1="274be62b40ffdf577e705f55f52e5de23f9146fc" date="1989-12-15 16:48:40"/>
+		<rom name="GAMEFILE.DAT" size="18024" crc="52bf2c8c" md5="84ae5bdb24b30b02354dd7b3aaf9506d" sha1="1765c8c638dda904838ef7413d364cf1951d419a" date="1989-12-15 16:57:44"/>
+		<rom name="GRAPHICS.DAT" size="696056" crc="2f0494f2" md5="b85bfa0f02b315f8550d1e6435a0791a" sha1="08fea0a55d1b076408a5f60a7e541207db0c41b9" date="1989-12-11 13:41:54"/>
+		<rom name="KGRAPHIC.VGA" size="41339" crc="be0dcf7d" md5="83df2bb1a5cfa0cf9bd08b277d4e1443" sha1="0adbce92a17246b8031036c1d883e9fa6239e2dc" date="1989-12-07 20:02:16"/>
+		<rom name="OBJECT.DAT" size="10100" crc="6461d663" md5="3e051ad4336d9c36b13bcd69df172efa" sha1="809d08f29fa22f4fbe97877ce9dda37ff5ebeabf" date="1989-12-15 16:57:34"/>
+		<rom name="SOUND.DAT" size="83413" crc="d3bcd8b7" md5="4d454be0f1f0ad7f0dfb2233dc568669" sha1="973afca52ab41b3a8bf827948c2d4fc1ca790fa8" date="1989-11-07 22:26:08"/>
+		<rom name="STARTUP.DAT" size="13" crc="0f744682" md5="0b867e53c1d233ce9fe49d54549a2323" sha1="022f36e30159ec10fbb94087ecce83a62dce33c4" date="1989-11-14 13:45:00"/>
+		<rom name="TEXT.DAT" size="74732" crc="6e5e29c1" md5="84d111c7e027747e55b145f870ebf6b2" sha1="48380eaa4f5aeeb45df9c203f615605d09bc21f5" date="1989-12-15 16:46:22"/>
+		<rom name="TITLE.DAT" size="64071" crc="79e62301" md5="1491328b16052090d1d812d638f3f23d" sha1="53979e00354ac280338b48013f8d162059d6d376" date="1989-12-07 20:02:40"/>
+	</game>
 	<game name="Descent (1995) (Parallax Software).dosz">
 		<description>Descent</description>
 		<comment>Installed v1.4a from Descent Anniversary Edition CD</comment>
@@ -14480,6 +14518,26 @@
 		<rom name="ROGUE.PIC" size="16391" crc="57106c0e" md5="afb883b611c35f79f2a5168365349ba7" sha1="954278268827812fce8d8bde04954a9c3b828a48" date="1985-03-25 16:53:10"/>
 		<rom name="ROGUE.SCR" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
+	<game name="Shadowgate (1987) (ICOM Simulations).dosz">
+		<description>Shadowgate</description>
+		<comment>Extracted from floppy dump with unknown modification, patched to run from hard drive and fix an in-game crash, DOS.YML fixes CGA machine to make keyboard input work</comment>
+		<comment_dosc>Auto start, increased CPU speed so sound plays correctly</comment_dosc>
+		<year>1987</year>
+		<developer>ICOM Simulations</developer>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=3178</link>
+		<rom name="FILTERS.S" size="43916" crc="cbffccc3" md5="6536f2ef2baea56262ce21824977abf4" sha1="9ce2cfc6b954a60065547131f22be7262a8c50bc" date="1988-06-27 17:00:44"/>
+		<rom name="GRAPHICS.S" size="340736" crc="a617db89" md5="c8a9bbde361fbdb3418f5b600ca36ec0" sha1="11ce8e6059bf5cd463afaa4609158cc63c8dc82b" date="1988-06-28 12:20:16"/>
+		<rom name="NEWGAME.S" size="8150" crc="ef4c6c33" md5="ba37157f52d368619d8794e02be9d62a" sha1="342e3fe9cb750746cdfd0ac7e122b53c71ce0bc4" date="1988-06-27 17:00:46"/>
+		<rom name="OBJECTS.S" size="5316" crc="9ab95242" md5="b23b4d291b6d09563ca4f615aaf14acc" sha1="7a805d5214b1c5d6b070135dd9b2b2d261e1b905"/>
+		<rom name="RESOURCE.S" size="512" crc="ea371689" md5="5bab2467641b6aa4508728e660db0f9f" sha1="5d2df8ca36a75b66656b948c39c9751e056a324e" date="1988-03-15 13:18:46"/>
+		<rom name="SGATE.EXE" size="91353" crc="ea6db0ec" md5="267ac1bef8d859b2db286e5ac7e3416a" sha1="ea370698e8bcdd519f1b402ba2b0edd1c91ef71c" date="1988-06-29 13:43:06">
+			<patch data="UEFUQ0gAIgUAAUMAUpIAAUMBMfsAAusRATIWAAa4EQDpxgABNJcABZCQPADrRU9G" size="91353" crc="72f096c7" md5="7260098784e068977bf22d5786f4dc27" sha1="fb35d9c63a8d9c453fc0cdea97cacd9cbf7e94aa"/>
+			<patch data="UEFUQ0gAzNEABLgASJABMfsAAusRATIWAAa4EQDpxgABMsgAAusWATNKAAKQkAE0lwAFkJA8AOtFT0Y=" size="91353" crc="1788a11f" md5="1db4cbf40191c3526f482d7a0735afbd" sha1="a38f6c7fafdd396d5fdf389f3995a84b8eb1a75d"/>
+		</rom>
+		<rom name="SOUNDS.S" size="31754" crc="2139913c" md5="3979642d2b2388b1e1bb805c7ca87fd5" sha1="81a8ef39c6e6a45bd51cb5d52dfaabafac5ddc5f" date="1988-03-09 11:34:44"/>
+		<rom name="TEXT.S" size="84498" crc="4050e16f" md5="d133f107500fdd512308fef0cccc8129" sha1="c858407c4ddc1cfd09c96dced9052b6c28ec8bcf" date="1988-06-27 17:00:30"/>
+		<rom name="DOS.YML" size="25" crc="ed8407bf" md5="27cef74560dee498103122db95037c94" sha1="077b0f82fdfe0551d67db2680804f9a10cf70dd8" data="dmlkZW9fY2FyZDogZ2VuZXJpY19jZ2ENCg=="/>
+	</game>
 	<game name="Sid Meier's Railroad Tycoon (1990) (MPS Labs).dosz">
 		<description>Sid Meier's Railroad Tycoon</description>
 		<comment>Installed from v455.03 1995 re-release CD</comment>
@@ -19471,6 +19529,23 @@
 		<rom name="README.TXT" size="21989" crc="07cabff5" md5="946215052a908247220689be2dd580d7" sha1="0abd50120ae1cb217ec3763255f91a98771df48b" date="1995-05-25 01:09:10"/>
 		<rom name="SERSETUP.EXE" size="20257" crc="6f8c2806" md5="573d6f784c0ca293383b6737b2a8e2c5" sha1="c34e1d9bbfcdcd8868fb4141201d3d02473c0fe1" date="1995-05-25 01:09:10"/>
 		<rom name="SETUP.EXE" size="46665" crc="9a6be6d8" md5="729df5c0727cd290c1c34ffd29a04490" sha1="4664dbf04047a7b1733fed3654e6dd6b25b1613a" date="1995-05-25 01:09:10"/>
+	</game>
+	<game name="Uninvited (1988) (ICOM Simulations).dosz">
+		<description>Uninvited</description>
+		<comment>Extracted from unverified floppy dump, unknown if modified from original, patched to run from hard drive and fix an in-game crash and keyboard input</comment>
+		<comment_dosc>Auto start, increased CPU speed so sound plays correctly</comment_dosc>
+		<year>1988</year>
+		<developer>ICOM Simulations</developer>
+		<rom name="FILTERS.U" size="33453" crc="2f99ff07" md5="0d149513ba72a9aeb46e63efa9b25ef0" sha1="07fd9e6f66232848db07e945e53cd0dacf0c7f3a" date="1986-12-22 11:46:52"/>
+		<rom name="GRAPHICS.U" size="321920" crc="ff466388" md5="5745daaa8b632b70e827e2580b47f054" sha1="58ef02b19002897dc651e0b29a7680702dd57d3d" date="1988-04-19 12:59:18"/>
+		<rom name="NEWGAME.U" size="9012" crc="ea3da44c" md5="7db41a99ea6ab9e007007b80109ce772" sha1="2e76311764f04a868a3a53a6a0e0be79af9d351e" date="1986-12-22 11:45:12"/>
+		<rom name="OBJECTS.U" size="5940" crc="4a509809" md5="5060f4b4dde63d0bc55b967d4d3846a8" sha1="4be32d5ecf76ee3e6da7e25bd530e5804a5fee89" date="1987-12-22 10:28:54"/>
+		<rom name="RESOURCE.U" size="512" crc="2b708dbb" md5="5ca3d7f83e3fe5054a8359a9bb0a8e5b" sha1="ba9a0885415edd2c4af91fa6cb2c2d31d53172c9" date="1988-04-25 15:04:10"/>
+		<rom name="SOUNDS.U" size="33228" crc="c151756e" md5="fcc336c81fb26fd757e3896b5d3f1604" sha1="44ffdcd9bf14b80d098bf2df5d4c890f21d0518f" date="1988-04-19 14:47:20"/>
+		<rom name="TEXT.U" size="82854" crc="c84ef50c" md5="61319ab1b8fc6b925a53381add99b8ad" sha1="355c677b078f04d49301befda603ddc64ae28af0" date="1986-12-22 11:46:20"/>
+		<rom name="UNINVITE.EXE" size="89943" crc="8dffd856" md5="a1f81ab94100b91fc065b616bcef5189" sha1="bd01ba253a9d2b7bb36b95960477386879e8fd83">
+			<patch data="UEFUQ0gA7+sAAwDNFgD+igAC6A0BLPQAAetFT0Y=" size="89943" crc="e9842374" md5="cb213e243dc19b463032a3a7cd2f65af" sha1="52a71081a4d7491cf4426d64ac98aca8a588be2c"/>
+		</rom>
 	</game>
 	<game name="Volfied (1991) (Empire Software).dosz">
 		<description>Volfied</description>
