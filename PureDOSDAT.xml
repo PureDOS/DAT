@@ -4923,42 +4923,143 @@
 		<rom name="SC-000.MIX" size="185937" crc="0c5dbfba" md5="cd814e2ee319f30a741a0bf64c16d9ed" sha1="088c2abdf5b6280369e55cfb941748760628803e" date="1996-01-04 07:13:40"/>
 		<rom name="SC-001.MIX" size="490318" crc="d173fce3" md5="70dcde28a3222e87e08341f82975ef93" sha1="299c66987acd47987436b8465b69331673a963d4" date="1996-02-02 10:13:52"/>
 	</game>
-	<game name="Commander Keen in Invasion of the Vorticons - Episode One - Marooned on Mars (1990) (id Software).dosz">
-		<description>Commander Keen in Invasion of the Vorticons - Episode One - Marooned on Mars</description>
-		<comment>Shareware episode v1.31</comment>
+	<game name="Commander Keen in Aliens Ate My Babysitter! (1991) (id Software).dosz">
+		<description>Commander Keen in Aliens Ate My Babysitter!</description>
+		<comment>Installed v1.5 from 3.5" floppy disks</comment>
+		<comment_dosc>Copy protection launcher and auto start</comment_dosc>
+		<year>1991</year>
+		<developer>id Software</developer>
+		<rom name="AUDIO.CK6" size="56265" crc="472e62f3" md5="8078f8106cca87fe7bea6b0dca798e5b" sha1="d83153a4b5caea106fb3eb729edbe2271955648f" date="1993-02-04 13:41:02"/>
+		<rom name="AUDIOHED.CK6" size="760" crc="9e19f75a" md5="52479487747953c4e378580f8e562a3f" sha1="5ca426521e0f6a203e964c7859d5151755e89c45" date="1993-02-04 13:41:04"/>
+		<rom name="EGADICT.CK6" size="1024" crc="46c31ebd" md5="6b3427035ba976febac852365dfb3c9d" sha1="89d3b26e450aa5837ac8fc2ad2bf430275a48a61" date="1993-02-04 13:41:24"/>
+		<rom name="EGAGRAPH.CK6" size="464662" crc="3d5149df" md5="a99dd1cee0830a67b125c7b68f28b039" sha1="5c0d381f0ee21a22a9d555c1f185ccc3f4de7978" date="1993-02-04 13:41:26"/>
+		<rom name="EGAHEAD.CK6" size="16683" crc="4bc8f17e" md5="0c1fb8f4b57b53e71120824e22b6ad79" sha1="8fab8ab92a36bafade70833317084c991149db6d" date="1993-02-04 13:41:28"/>
+		<rom name="GAMEMAPS.CK6" size="95528" crc="f9234617" md5="0002d6a9f5a23ba3427acb0337efb2f8" sha1="27f9dd03e99176eede3ccf65a06260a5d91da96b" date="1993-04-30 20:40:42"/>
+		<rom name="KEEN6.EXE" size="109058" crc="5b828ee2" md5="016cad3a8df3f26af10e54a2ab8b5991" sha1="a4159e09075b008fc1ac9641eac541c01f6661bd" date="1993-05-12 01:32:10"/>
+	</game>
+	<game name="Commander Keen in Goodbye, Galaxy! (1991) (id Software).dosz">
+		<description>Commander Keen in Goodbye, Galaxy!</description>
+		<comment>Installed v1.4 from Commander Keen Combo CD. Also matches with GOG</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>1991</year>
+		<developer>id Software</developer>
+		<rom name="AUDIO.CK4" size="33325" crc="4ac87d4a" md5="125c93a549a3e5b2ab4c6c6ec1ad3e7d" sha1="66baf85b886b3b1f1882b40d0e8061af19187453" date="1992-02-01 13:40:00"/>
+		<rom name="AUDIO.CK5" size="101990" crc="23ba4ead" md5="d080b7c53b0b374813a7479b559d4eb4" sha1="5ded3b6afde6e102b9ea7e39887fc94899eb3476" date="1992-02-01 13:40:00"/>
+		<rom name="EGAGRAPH.CK4" size="520581" crc="4acfd648" md5="e38064818169e365bcff61dbaec55aef" sha1="cf3925b037af8e9f67d10206189261fdc335629f" date="1992-02-01 13:40:00"/>
+		<rom name="EGAGRAPH.CK5" size="573664" crc="a70f84e2" md5="d5598dcda25b02e61aeac17fcac9437b" sha1="60226757446de430635fce8b924fb5b70d8492ca" date="1992-02-01 13:40:00"/>
+		<rom name="GAMEMAPS.CK4" size="99040" crc="e553f51f" md5="9e1811deb429f7edc6bffa5bb786ebb4" sha1="953da626d8a81fb890e079287d5033f10bdc6b7d" date="1992-02-01 13:40:00"/>
+		<rom name="GAMEMAPS.CK5" size="73721" crc="fb9dadab" md5="33ffac175c3fb8e33fc3dbdc0ab6b965" sha1="d8c55fee10b3fdc4a54ce2778ad4b21b99ce391b" date="1992-02-01 13:40:00"/>
+		<rom name="KEEN4E.EXE" size="105108" crc="6646b983" md5="56de6f7f48300a0774e194f7ed98811d" sha1="2a674822b9b5a3383114e3a3d97a98836e8e6cf1" date="1992-02-01 13:40:00"/>
+		<rom name="KEEN5E.EXE" size="106417" crc="2a45589a" md5="075194c6617abf14e07cd78ea44e3266" sha1="f427d1d32397cd566829898cc488be9fabf42bfb" date="1992-02-01 13:40:00"/>
+	</game>
+	<game name="Commander Keen in Invasion of the Vorticons (1990) (id Software).dosz">
+		<description>Commander Keen in Invasion of the Vorticons</description>
+		<comment>Installed from Commander Keen Combo CD. Also matches with GOG</comment>
+		<comment_dosc>Auto start</comment_dosc>
 		<year>1990</year>
 		<developer>id Software</developer>
-		<rom name="EGAHEAD.CK1" size="15568" crc="d8458307" md5="b1e632ee0483b66c2f1dff487547753b" sha1="df6c5648e48d2fa6e9385d4d4693751b7362283c" date="1990-01-23 13:31:00"/>
-		<rom name="EGALATCH.CK1" size="57065" crc="3691797e" md5="80a5870d9b48970333837fa0293561ed" sha1="04ea9b0bc3c396034b57696cde4fc8d9c4a13d2f" date="1990-01-23 13:31:00"/>
-		<rom name="EGASPRIT.CK1" size="17633" crc="ece1de1e" md5="ed9a0d1736034c155555543263939fe7" sha1="adb0aa936c575b8a29820f3343ac8b598c764ace" date="1990-01-23 13:31:00"/>
-		<rom name="ENDTEXT.CK1" size="942" crc="f25ff7b9" md5="3d9b5805e21a7cc7b248664b0b8f6494" sha1="30110e3b47417ca7a2086112d0fe5b8e1b87c6bb" date="1990-01-23 13:31:00"/>
-		<rom name="FINALE.CK1" size="8565" crc="53f061e3" md5="a44bcb798f931dc392903dcc5446c068" sha1="8b2d9e0217a9ee83fec2eb46441794c048072101" date="1990-01-23 13:31:00"/>
-		<rom name="HELPTEXT.CK1" size="1859" crc="7b5f557e" md5="476301a5a6ac41e39ea18d900e1c8e02" sha1="ce3915ccc1beda8d4cd584fb0b55c8d08ef77d88" date="1990-01-23 13:31:00"/>
-		<rom name="KEEN1.EXE" size="51190" crc="14c4ff5f" md5="8b2b1f335bb49e0b81ad66af582de2ef" sha1="fb7165424202cf436c23c54b695a919d5df1e241" date="1990-01-23 13:31:00"/>
-		<rom name="LEVEL01.CK1" size="1368" crc="a76ed506" md5="075a98e05b6d5bbed80ec21420577582" sha1="a8e96f1f8ed2893f44cb5399138043ec3000aec8" date="1990-01-23 13:31:00"/>
-		<rom name="LEVEL02.CK1" size="724" crc="a7dde961" md5="2d6b634fbce4aa357375d62300fb3e07" sha1="8301754f4b0733a5fc5a302f6cfa759c9480a111" date="1990-01-23 13:31:00"/>
-		<rom name="LEVEL03.CK1" size="3474" crc="35afd056" md5="956f2bbf2ad4fe7c52ad90962bd92166" sha1="539b8f441e9da4564ce725d71077b12956af3d38" date="1990-01-23 13:31:00"/>
-		<rom name="LEVEL04.CK1" size="1720" crc="aa0ea8e4" md5="57b24d48be8748362a0c5e2277d2d859" sha1="05484ba339f11072a4d012ec3c01b2dee38aa12b" date="1990-01-23 13:31:00"/>
-		<rom name="LEVEL05.CK1" size="810" crc="f7cec532" md5="1b6cd04bffb03fe26b722260da3316f9" sha1="060aa372efce717470c118a7429fb1308d249292" date="1990-01-23 13:31:00"/>
-		<rom name="LEVEL06.CK1" size="928" crc="c2bc814c" md5="7859497ced955aa87b4a935b43ae15b8" sha1="0df51932d6317da718d12ec01a3fa29823e20808" date="1990-01-23 13:31:00"/>
-		<rom name="LEVEL07.CK1" size="5650" crc="c7b28c7a" md5="337259268ca2338ee4d16818cbcd59d4" sha1="c721635f56332185b647da05f4e1f26b53d43736" date="1990-01-23 13:31:00"/>
-		<rom name="LEVEL08.CK1" size="3416" crc="4afdd1bc" md5="51b099927527e88f8450163d05c2ca39" sha1="a89ad24a15410ca761e4ee205490f1030440014b" date="1990-01-23 13:31:00"/>
-		<rom name="LEVEL09.CK1" size="1638" crc="98d701f2" md5="de0e0de6b46474e2f4f06fc9abfd3e61" sha1="b9210ae9c0958a454a39f6e05588b1ea609a7e33" date="1990-01-23 13:31:00"/>
-		<rom name="LEVEL10.CK1" size="2086" crc="786430f2" md5="0bb9ac865cdcbd46bdcacd493669d499" sha1="7ecd298b84c99770e6ad5ed274d8070e56b2fcab" date="1990-01-23 13:31:00"/>
-		<rom name="LEVEL11.CK1" size="1636" crc="84af6fca" md5="b341dd49e84d7580a9eb4280827a7251" sha1="45cb96d0a19863801aa0a14c92f12bacaf3cb98b" date="1990-01-23 13:31:00"/>
-		<rom name="LEVEL12.CK1" size="2178" crc="ba8a8bad" md5="edf1eb3db5a424360996e82ecf1dba93" sha1="a01e63b44653f0cb9c44b7301985c9351a7e3363" date="1990-01-23 13:31:00"/>
-		<rom name="LEVEL13.CK1" size="9908" crc="bd1c99e6" md5="0cb4b321cdbb2d69682c258788ce8e4b" sha1="89f0379de9c844ec891966d8ed76645badf77f51" date="1990-01-23 13:31:00"/>
-		<rom name="LEVEL14.CK1" size="7024" crc="45529df2" md5="5d6d6814d7e7bf91dde2ec1792d45976" sha1="0aaef6c8c2403d574438f0be2b9dac8b0eea5210" date="1990-01-23 13:31:00"/>
-		<rom name="LEVEL15.CK1" size="2234" crc="a18720a7" md5="09b0dc88bdb234d6b2efd5b8ac973dc0" sha1="dbb1bfbd8f62a67cb80e2c1bd64edc9040f3755b" date="1990-01-23 13:31:00"/>
-		<rom name="LEVEL16.CK1" size="5818" crc="c850b8b2" md5="6ee167a36e7517320ff7ae6138f22e9d" sha1="2300e44a87f386225d8f2da6170c49b1585dca20" date="1990-01-23 13:31:00"/>
-		<rom name="LEVEL80.CK1" size="5638" crc="84c92b10" md5="bfe6781e44056cbc248701ae192122ac" sha1="98820722b34e12c5cb2e3ce46d9fce893c3690c6" date="1990-01-23 13:31:00"/>
-		<rom name="LEVEL81.CK1" size="758" crc="178d9663" md5="b86086e33b4fb169f96abdf002fd64e3" sha1="87b55c401fb79ff8df19c6dda2478a6a4d15052a" date="1990-01-23 13:31:00"/>
-		<rom name="LEVEL90.CK1" size="1262" crc="bc5cea45" md5="dd1a09d6e332e0ae13c78670763ed891" sha1="398084a919891fb5b253f40032cfbcceeed14113" date="1990-01-23 13:31:00"/>
-		<rom name="PREVIEW2.CK1" size="27886" crc="19996bf1" md5="c8c4b2ce09a1d19d2763493c7e7ad44a" sha1="732945cc889cd2f62de9093322e6fd0a0c6b305b" date="1990-01-23 13:31:00"/>
-		<rom name="PREVIEW3.CK1" size="25429" crc="533ce62b" md5="eaff03166eba1d1d5da749b0d687b3a6" sha1="3eaf5e31f6aec2da94acd83af77851da5416298b" date="1990-01-23 13:31:00"/>
-		<rom name="PREVIEWS.CK1" size="2160" crc="a5021ef9" md5="c480310fb66b36854b293264dbf6d8ff" sha1="f73fa1495d3753ffc680f4bcf5761920fc8a3f4c" date="1990-01-23 13:31:00"/>
-		<rom name="SOUNDS.CK1" size="8898" crc="569e89e0" md5="c726f4948d49c5b212cc6f6bc8a72247" sha1="42cf2e625428c4605a352fbdffbb525e18dce7da" date="1990-01-23 13:31:00"/>
-		<rom name="STORYTXT.CK1" size="3504" crc="231a12cf" md5="0f6e2c7fc0ec2df428757386b072b071" sha1="d930d9066f7c9a2035c6cd8f85e2f6a149fbe147" date="1990-01-23 13:31:00"/>
+		<link type="shareware">https://www.commander-keen.com/game-downloads.php</link>
+		<rom name="EGAHEAD.CK1" size="15568" crc="d8458307" md5="b1e632ee0483b66c2f1dff487547753b" sha1="df6c5648e48d2fa6e9385d4d4693751b7362283c" date="1991-01-01 13:31:00"/>
+		<rom name="EGAHEAD.CK2" size="17488" crc="3ebde0f1" md5="0311f19326f87f4bcd95472d3a5f8e19" sha1="7abec9996d8d481b0d85fa72fd64e4511fded260" date="1991-01-01 13:31:00"/>
+		<rom name="EGAHEAD.CK3" size="19216" crc="3a95b5ca" md5="3f7c08d71323b77707e0a771dcee3eaa" sha1="310ae75284fd152b344e6e55b1d6c1750fee49b4" date="1991-01-01 13:31:00"/>
+		<rom name="EGALATCH.CK1" size="57065" crc="3691797e" md5="80a5870d9b48970333837fa0293561ed" sha1="04ea9b0bc3c396034b57696cde4fc8d9c4a13d2f" date="1991-01-01 13:31:00"/>
+		<rom name="EGALATCH.CK2" size="129856" crc="59fe4320" md5="11369fa63d5219ec9acba66f405a8781" sha1="5d3309e83ea614c57578759b4f34317c890fa120" date="1991-01-01 13:31:00"/>
+		<rom name="EGALATCH.CK3" size="116800" crc="fc8beeca" md5="de588c164eae25403a144e2b6f53b4b7" sha1="80d8644280b626dc82be466ed254cc0d7006c2a9" date="1991-01-01 13:31:00"/>
+		<rom name="EGASPRIT.CK1" size="17633" crc="ece1de1e" md5="ed9a0d1736034c155555543263939fe7" sha1="adb0aa936c575b8a29820f3343ac8b598c764ace" date="1991-01-01 13:31:00"/>
+		<rom name="EGASPRIT.CK2" size="35120" crc="539e4c16" md5="2247c907e819be12fcb510d4d48b0a28" sha1="e5272f7ed99562549ce765579ca3cedb0c7d0dd2" date="1991-01-01 13:31:00"/>
+		<rom name="EGASPRIT.CK3" size="43840" crc="a38e0306" md5="815739653172d23c3fc839e80c111126" sha1="8511cb7e0dba7156e50d75ee4e9f7dbaa6946dd1" date="1991-01-01 13:31:00"/>
+		<rom name="ENDTEXT.CK1" size="942" crc="f25ff7b9" md5="3d9b5805e21a7cc7b248664b0b8f6494" sha1="30110e3b47417ca7a2086112d0fe5b8e1b87c6bb" date="1991-01-01 13:31:00"/>
+		<rom name="FINALE.CK1" size="8565" crc="53f061e3" md5="a44bcb798f931dc392903dcc5446c068" sha1="8b2d9e0217a9ee83fec2eb46441794c048072101" date="1991-01-01 13:31:00"/>
+		<rom name="FINALE.CK2" size="12060" crc="2353e900" md5="0b409a80da8b8883f48c7742014d62f9" sha1="d06c6eb8f2b467cf5627ac527773b165cb0a7572" date="1991-01-01 13:31:00"/>
+		<rom name="FINALE.CK3" size="18480" crc="c765b670" md5="47ec73f0d727e756c9158b988a3f9a08" sha1="d9ee22ba8ef3129a9bd2ad20a4fe9e611ec67585" date="1991-01-01 13:31:00"/>
+		<rom name="HELPTEXT.CK1" size="1859" crc="7b5f557e" md5="476301a5a6ac41e39ea18d900e1c8e02" sha1="ce3915ccc1beda8d4cd584fb0b55c8d08ef77d88" date="1991-01-01 13:31:00"/>
+		<rom name="KEEN1.EXE" size="51190" crc="14c4ff5f" md5="8b2b1f335bb49e0b81ad66af582de2ef" sha1="fb7165424202cf436c23c54b695a919d5df1e241" date="1991-01-01 13:31:00"/>
+		<rom name="KEEN2.EXE" size="58335" crc="69fa894d" md5="ebb6a4a7df66063510996ebacc527fa7" sha1="86f3eba358a827bf939fa3389f8753f092514fd1" date="1991-01-01 13:31:00"/>
+		<rom name="KEEN3.EXE" size="61599" crc="723db48e" md5="441f21f7b045a8446f8067bb84afb75d" sha1="a25da3f27eeb8995da103bdaa8c939c2b02c33ee" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL01.CK1" size="1368" crc="a76ed506" md5="075a98e05b6d5bbed80ec21420577582" sha1="a8e96f1f8ed2893f44cb5399138043ec3000aec8" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL01.CK2" size="1248" crc="03102f7c" md5="6f5537332f39059d0e52e912a7e74a41" sha1="3ee9ad593b67c4332f840cf85626d604e50d3b09" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL01.CK3" size="1830" crc="d2490b33" md5="c5ea5d1e9797c14182afbc18aba63ba8" sha1="f51871ffee6d58539aefe9fc8334d782612c33c9" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL02.CK1" size="724" crc="a7dde961" md5="2d6b634fbce4aa357375d62300fb3e07" sha1="8301754f4b0733a5fc5a302f6cfa759c9480a111" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL02.CK2" size="2334" crc="c4813c65" md5="b9ed4769f2a61d13885695d24f4cf970" sha1="cc60aac4216d4a22960f2e1c968a3f57d0e9ac0f" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL02.CK3" size="2366" crc="ccba3c71" md5="a85b95783ad529fca87d07a7dcf7a23e" sha1="3e45095e5a1c70a457343600c2c4ff8954584b37" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL03.CK1" size="3474" crc="35afd056" md5="956f2bbf2ad4fe7c52ad90962bd92166" sha1="539b8f441e9da4564ce725d71077b12956af3d38" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL03.CK2" size="2316" crc="d137f2b6" md5="be0263f823071224055c42b3a5c12345" sha1="e791877ae8709b04561d6a1370d69fa5385313bc" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL03.CK3" size="2572" crc="da08505d" md5="8cc6b40384d9c31b280a2aa0f025f958" sha1="4ae5b6e72a40df3e0d0106c7d038f0fe0ad5f73f" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL04.CK1" size="1720" crc="aa0ea8e4" md5="57b24d48be8748362a0c5e2277d2d859" sha1="05484ba339f11072a4d012ec3c01b2dee38aa12b" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL04.CK2" size="3430" crc="a851634f" md5="bab08532f4ba08aada35474638d7d419" sha1="13c1dcf7b9f65b2d7b8dc3046436268dd5c8fba5" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL04.CK3" size="5978" crc="e4fedb3b" md5="76c92ee97b119c416fd692e8fe40a00c" sha1="fcddc21136ee64c52ceb42065eac81e978d4604c" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL05.CK1" size="810" crc="f7cec532" md5="1b6cd04bffb03fe26b722260da3316f9" sha1="060aa372efce717470c118a7429fb1308d249292" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL05.CK2" size="2618" crc="4ceb88c7" md5="1cf3b6bce9c81b035d0258143d91e9a4" sha1="dba1252c0276fdb8e5a20ffcd5e3fd6425dd917d" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL05.CK3" size="5252" crc="34304c38" md5="95ccd6db3c44e6758145136eb8138299" sha1="b7d96eef571283c4b2676fd55e8b7d4a9cca7374" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL06.CK1" size="928" crc="c2bc814c" md5="7859497ced955aa87b4a935b43ae15b8" sha1="0df51932d6317da718d12ec01a3fa29823e20808" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL06.CK2" size="2936" crc="bd214867" md5="403329b71eeeb9c4779228c7016e4a93" sha1="bcbec306642f5ddf31d63c2c9f30a70826352682" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL06.CK3" size="1226" crc="a13c91e7" md5="ffb27e921840f672ad1b4af19eda1c1d" sha1="5c1b6e79447524c8d30cbc47891111946f176139" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL07.CK1" size="5650" crc="c7b28c7a" md5="337259268ca2338ee4d16818cbcd59d4" sha1="c721635f56332185b647da05f4e1f26b53d43736" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL07.CK2" size="2636" crc="48bf8c8e" md5="20448c54ba554785fd479263055a8774" sha1="b4cb8b41938831dd32255631673ea3ca1521380e" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL07.CK3" size="3074" crc="56097529" md5="b7f4590036b56ad6fbeeba1ecb520651" sha1="48b3499b24fcdffabf0c17650e3f4d106e8c0213" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL08.CK1" size="3416" crc="4afdd1bc" md5="51b099927527e88f8450163d05c2ca39" sha1="a89ad24a15410ca761e4ee205490f1030440014b" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL08.CK2" size="3852" crc="2d5e0fee" md5="62089b7d0bb4cc42cb8a0d8cdd6a32f4" sha1="b35ed8f160c370b72af6c9ae5aa46e5f21050d06" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL08.CK3" size="7226" crc="faa3c244" md5="e1a736a399c001b271d894ef1b380aae" sha1="be935fa412a1abf9d8905618dc910925cc2269c2" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL09.CK1" size="1638" crc="98d701f2" md5="de0e0de6b46474e2f4f06fc9abfd3e61" sha1="b9210ae9c0958a454a39f6e05588b1ea609a7e33" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL09.CK2" size="3352" crc="1a9e7470" md5="b6b5d0d1c839ff7c2f4bd7fea5177e6f" sha1="cc4a166068bd88b914abcba6ccada086da7dd2bf" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL09.CK3" size="9288" crc="9a541b7a" md5="40ece39678d0f0379bee8f2f6529b0ae" sha1="71ba4934c966a16909457ae38eaf6b015729a690" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL10.CK1" size="2086" crc="786430f2" md5="0bb9ac865cdcbd46bdcacd493669d499" sha1="7ecd298b84c99770e6ad5ed274d8070e56b2fcab" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL10.CK2" size="4352" crc="916f7f88" md5="a3bb533ac0081d5af7f303de3f9ace2a" sha1="a6189840ddf79389b36d3e6fb683ff30902567cd" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL10.CK3" size="2736" crc="074cbbb8" md5="e7e63cecf3e04600b359181e66b8a5e2" sha1="6c0aea5442ae10bc609663da1239702757bfdef7" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL11.CK1" size="1636" crc="84af6fca" md5="b341dd49e84d7580a9eb4280827a7251" sha1="45cb96d0a19863801aa0a14c92f12bacaf3cb98b" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL11.CK2" size="2792" crc="aaed26a9" md5="c0a33cd02ad8d04e9585d5b7973df61c" sha1="61bc4eaa03acba8da550a6d6e51ec1260279b380" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL11.CK3" size="1624" crc="b50f4475" md5="9b8429fd7aea5a458f2bd45339a87fb7" sha1="4b9c65a7f1612caf88baf4c6cbaf29a64e14fa4c" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL12.CK1" size="2178" crc="ba8a8bad" md5="edf1eb3db5a424360996e82ecf1dba93" sha1="a01e63b44653f0cb9c44b7301985c9351a7e3363" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL12.CK2" size="3882" crc="39a56245" md5="9776199572df8db0e9d69157c9e20118" sha1="242692152f049ab7025c5d4ecfa3ac1e490d339f" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL12.CK3" size="3048" crc="92920589" md5="0c5217fda750948f21b940a537acccf2" sha1="7ee97376472e32f82c8fd671e87287fc3775591a" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL13.CK1" size="9908" crc="bd1c99e6" md5="0cb4b321cdbb2d69682c258788ce8e4b" sha1="89f0379de9c844ec891966d8ed76645badf77f51" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL13.CK2" size="2504" crc="eeffe308" md5="2544ec5775dedfa8aa759ceec7ea9970" sha1="d62f20c91307278c084af4091257c4c8763cebd7" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL13.CK3" size="6172" crc="dba9c55a" md5="2537f8cec4914b40515e2deb70e82b9b" sha1="570f2eeb2adc66149e3e1d64d511c0edbf9a65f7" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL14.CK1" size="7024" crc="45529df2" md5="5d6d6814d7e7bf91dde2ec1792d45976" sha1="0aaef6c8c2403d574438f0be2b9dac8b0eea5210" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL14.CK2" size="2182" crc="0de82d7e" md5="c202b8ee85e53b8c075f9f0e45bee6c7" sha1="6410a73db2df4597b6cdc603098e4667cc7f9215" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL14.CK3" size="3130" crc="0477f134" md5="1da7d7388b4e284fd71c16b229c8b689" sha1="7a9cb9eb52f0e1452c4d14332c50ae90215d1162" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL15.CK1" size="2234" crc="a18720a7" md5="09b0dc88bdb234d6b2efd5b8ac973dc0" sha1="dbb1bfbd8f62a67cb80e2c1bd64edc9040f3755b" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL15.CK2" size="3620" crc="632dc7a4" md5="00e702807a84301b080df1523262b7a6" sha1="f8d41cb6e55667ebd1edee4ee80cbb9aaa40ef8d" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL15.CK3" size="11018" crc="a9dafc34" md5="8a0d0903810b5a3fc704f6bfbf86b2a8" sha1="221b2ecc78316cc62c070270c8adfae0a4ee66ef" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL16.CK1" size="5818" crc="c850b8b2" md5="6ee167a36e7517320ff7ae6138f22e9d" sha1="2300e44a87f386225d8f2da6170c49b1585dca20" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL16.CK2" size="4318" crc="5b4d4748" md5="14c93e7541131a9e7d1e6fb4f57c6ecf" sha1="b6560ebb6d3ac94be496276d49aa6f00ab97f922" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL16.CK3" size="944" crc="20bd5a06" md5="dd7716d8f6ff4f0f44d2a923fc7278f3" sha1="101a64bf7b06524b7dc024f495adf27104c263fd" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL80.CK1" size="5638" crc="84c92b10" md5="bfe6781e44056cbc248701ae192122ac" sha1="98820722b34e12c5cb2e3ce46d9fce893c3690c6" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL80.CK2" size="5460" crc="aea923ad" md5="a84553d13129d9dad84e04044c83e83d" sha1="9256ff1984fa0e0e11b1973c096f7053f7777cd6" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL80.CK3" size="6054" crc="4205d973" md5="6082480ce083fe86663fea3753feea5c" sha1="e81e6b29d0be1073fd907a1402288c0979722d46" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL81.CK1" size="758" crc="178d9663" md5="b86086e33b4fb169f96abdf002fd64e3" sha1="87b55c401fb79ff8df19c6dda2478a6a4d15052a" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL81.CK2" size="742" crc="d9c259c5" md5="d314118e316d393060e9fa4906b8026b" sha1="1b3b1f297335a95ac3a4bb99fa372e60a81ea3fb" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL81.CK3" size="320" crc="7338ea6c" md5="11af6e2eeeeffe639fe48707c4757aba" sha1="905e283fb2095b90e914e396ccdcaa7650002219" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL90.CK1" size="1262" crc="bc5cea45" md5="dd1a09d6e332e0ae13c78670763ed891" sha1="398084a919891fb5b253f40032cfbcceeed14113" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL90.CK2" size="1334" crc="027629fd" md5="88c826e6c27b2762e482b2c732eade38" sha1="78a7b062f32742ecb59f259c3d7a5d63beb038bf" date="1991-01-01 13:31:00"/>
+		<rom name="LEVEL90.CK3" size="1424" crc="15d30fee" md5="9e2ef055188ec4fbee75a9ead1cfc1c9" sha1="abfe3592e06e95ae05efb44add5a89a5c8ce6572" date="1991-01-01 13:31:00"/>
+		<rom name="PREVIEW2.CK1" size="27886" crc="19996bf1" md5="c8c4b2ce09a1d19d2763493c7e7ad44a" sha1="732945cc889cd2f62de9093322e6fd0a0c6b305b" date="1991-01-01 13:31:00"/>
+		<rom name="PREVIEW3.CK1" size="25429" crc="533ce62b" md5="eaff03166eba1d1d5da749b0d687b3a6" sha1="3eaf5e31f6aec2da94acd83af77851da5416298b" date="1991-01-01 13:31:00"/>
+		<rom name="PREVIEWS.CK1" size="2160" crc="a5021ef9" md5="c480310fb66b36854b293264dbf6d8ff" sha1="f73fa1495d3753ffc680f4bcf5761920fc8a3f4c" date="1991-01-01 13:31:00"/>
+		<rom name="SOUNDS.CK1" size="8898" crc="569e89e0" md5="c726f4948d49c5b212cc6f6bc8a72247" sha1="42cf2e625428c4605a352fbdffbb525e18dce7da" date="1991-01-01 13:31:00"/>
+		<rom name="STORYTXT.CK1" size="3504" crc="231a12cf" md5="0f6e2c7fc0ec2df428757386b072b071" sha1="d930d9066f7c9a2035c6cd8f85e2f6a149fbe147" date="1991-01-01 13:31:00"/>
+	</game>
+	<game name="Commander Keen in Keen Dreams (1991) (id Software).dosz">
+		<description>Commander Keen in Keen Dreams</description>
+		<comment>Copied v1.93 files from 3.5" floppy disk</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>1991</year>
+		<developer>id Software</developer>
+		<rom name="DOCSHELL.EXE" size="20714" crc="1a2edcbb" md5="e7c67aa902b94836d9fd1fc541b0f788" sha1="a7d8c31bdd83d9a556bb6d8b5dc784c9e5693fe6" date="1993-11-02 09:58:14"/>
+		<rom name="INSTRUCT.TXT" size="6090" crc="6d65cc00" md5="263977dd8f4fd1455309d51ec7ffbd0b" sha1="b05a431a907c9b70692918d5ee68f26117deed6b" date="1993-11-22 10:37:24"/>
+		<rom name="KDREAMS.AUD" size="3498" crc="80ac85e5" md5="6b1fa2e08b4627f50b756a9df8e3e90e" sha1="c8001b57de02f90c3bec17ab397c86c4a6843b0e" date="1991-07-10 16:31:44"/>
+		<rom name="KDREAMS.CMP" size="14620" crc="1681bc21" md5="b7fea3abdb971d3330708e556c43ce29" sha1="86857d8738bee15c6733442b4d1ef19683ebc51b" date="1993-11-19 17:52:46"/>
+		<rom name="KDREAMS.EGA" size="213045" crc="2dc94687" md5="820efd208529f3b6950fa5fb551da49f" sha1="904bc033455a1eaaa7c3e5fb53cc901359574b2b" date="1993-11-19 16:58:34"/>
+		<rom name="KDREAMS.EXE" size="80715" crc="3d0cd9ed" md5="c191c7cc6f089cafdaa0ebe5e3d3daac" sha1="eec44e92ee59ee68efc1224dc1322c890995c7b0" date="1993-11-19 17:55:54"/>
+		<rom name="KDREAMS.MAP" size="65674" crc="78bd24fc" md5="2e3d3ecc74d5045517fff402864b6ba9" sha1="2b492019a8a2387a8fa21167c6d9e96d658926af" date="1992-08-17 07:52:40"/>
+		<rom name="MENU.SHL" size="195" crc="7be7013b" md5="39e8ce628eeeac891b293f63729554d3" sha1="635022c9fefc20757021bf3160513c75934cb93e" date="1993-11-22 10:33:06"/>
+		<rom name="QUICK.TXT" size="3813" crc="d674abd5" md5="b67bac28e8bd5d18952b237bbe3b7338" sha1="843298d3c2a70f59a672f1bffe5cba2464437542" date="1993-11-22 10:30:08"/>
+		<rom name="README.BAT" size="96" crc="37ce16f7" md5="9d8e24c9513663a218547e498cbaf672" sha1="6dfcb498f3cadeaf92a1a19b950d0c3bb16cacfe" date="1993-11-02 11:39:14"/>
+		<rom name="README1.TXT" size="909" crc="51014eba" md5="f942187f0a81b87e4061c9bb924fe839" sha1="09cb102d65c6d52947128b6fa3e7c26dabdb2072" date="1993-11-22 09:46:26"/>
+		<rom name="README2.TXT" size="883" crc="c854dd69" md5="cbb6f02629e69a741ee19e359ce94661" sha1="67e5dcf2fbdcc9eb0a0b2c28158ceabe127fa50f" date="1993-11-22 09:46:48"/>
+		<rom name="README3.TXT" size="715" crc="b6bbca89" md5="1daa81001af38d3c8726a6ec3b7150d2" sha1="3f108bb5387b0c18db2fd50286192cb6f59a2cc3" date="1993-11-02 11:38:34"/>
+		<rom name="SOLUTION.TXT" size="17793" crc="7fc7d15f" md5="17f7862cd73b1d6a64a691ba76f864c1" sha1="80df913d6e69cd480c6beeeac8ef54ae0ff8946c" date="1993-11-22 10:38:32"/>
+		<rom name="START.BAT" size="164" crc="87440ebb" md5="2c5ba44f5356145fd9d04a85ef3b8ec2" sha1="863e1425506d44e090f862b658d27e0825590112" date="1993-11-22 09:45:20"/>
 	</game>
 	<game name="Contra (1988) (Konami).dosz">
 		<description>Contra</description>

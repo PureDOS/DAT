@@ -180,6 +180,37 @@
 		<link type="media">https://www.goodolddays.net/en/diskimages/?id=980</link>
 		<rom name="disk1.img" size="368640" crc="18ad8582" md5="070752d8c337b1211f58e29d66d319bd" sha1="6614dd53a7141db8eeb4435a5b021296831fb8d0" date="2001-01-01 10:00:00"/>
 	</game>
+	<game name="Commander Keen Combo CD (1998) (id Software) (Installation).dosz">
+		<description>Commander Keen Combo CD</description>
+		<comment>Includes Invasion of the Vorticons and Goodbye, Galaxy!</comment>
+		<year>1998</year>
+		<developer>id Software</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/43141/</link>
+		<rom name="Commander Keen Combo CD (USA).chd" size="12886272" crc="3f77b652" md5="31bd7fbc292ba322faf9ba2bc88d00cb" sha1="b20bc196ab8994bbb17618981c51f39c67bfd2b3">
+			<track number="1" type="MODE2_RAW" frames="5252" pregap="0" duration="01:10:02" size="12352704" crc="f0c947ae" md5="295ad5cc09c4d433aa28d64bc89aba20" sha1="bfc29a7fd39dfb72f9d446b37427b0287f63be62" in_zeros="1" out_zeros="2336"/>
+		</rom>
+	</game>
+	<game name="Commander Keen in Aliens Ate My Babysitter! (1991) (id Software) (Installation).dosz">
+		<description>Commander Keen in Aliens Ate My Babysitter!</description>
+		<comment>v1.5, 3.5" floppy disks. Also includes Episode 4: Secret of the Oracle v1.4</comment>
+		<year>1991</year>
+		<developer>id Software</developer>
+		<variant>Installation</variant>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C663/</link>
+		<rom name="disk1.img" size="737280" crc="7d4e2cc2" md5="462499f9f01f93288812a0a69d616b80" sha1="e81956de7350417c99f49408842de94dd310c146"/>
+		<rom name="disk2.img" size="737280" crc="5e1ad85b" md5="a13233d54b69254277e65e61a7662cb4" sha1="eb96e4cc6200992ab6a65ac01c1daffb12684ade"/>
+		<rom name="disk3.img" size="737280" crc="c24c9ff5" md5="ea134480fd47d13c5d7ac293c660f5fb" sha1="10ce360865c6c03cdca75048f694c06c47a88fba"/>
+	</game>
+	<game name="Commander Keen in Keen Dreams (1991) (id Software) (Installation).dosz">
+		<description>Commander Keen in Keen Dreams</description>
+		<comment>v1.93, 3.5" floppy disk</comment>
+		<year>1991</year>
+		<developer>id Software</developer>
+		<variant>Installation</variant>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C661/</link>
+		<rom name="disk1.img" size="737280" crc="817d69e6" md5="14cef07f60813648d53bedd59a1a914d" sha1="71884d105704efd033134f2abcb9ad8eba3f6678"/>
+	</game>
 	<game name="Contra (1988) (Konami) (Installation).dosz">
 		<description>Contra</description>
 		<comment>AKA Gryzor. 5.25" floppy disk</comment>
