@@ -12,34 +12,11 @@ For adding a new game to the DAT file, see [Contributing](#contributing) for how
 ## PureDOSDAT.xml
 This is the DAT file which can be loaded in a ROM management tool to verify and build DOSZ and DOSC files.
 
-[RomVault](https://www.romvault.com/) is recommended because it is easy to use and by default builds correct ZIP files.
-Depending on your Windows or .NET installation, you might want to use [version 3.2.5](https://www.romvault.com/download/ROMVault_V3.2.5.zip) or the latest available.
+[DoDAT](https://github.com/schellingb/DoDAT) is recommended because it has been optimized for this project and builds
+correct ZIP files which keep the date and time information contained in the DAT file intact. DoDAT can automatically
+source files from inside CD-ROM and floppy images even if those themselves are contained in a container like a ZIP file.
 
-While working with a ROM manager, the files will need to be named .DOSZ.ZIP and .DOSC.ZIP.
-To do this easily in Windows, create a file named `_swap_zip_extension.bat` with the content:
-```bat
-IF EXIST *.DOSZ ( ren *.dosz *.dosz.zip & ren *.dosc *.dosc.zip ) ELSE ( ren *.dosz.zip *. & ren *.dosc.zip *. )
-```
-
-<details>
-  <summary>Alternatively as a shell script:</summary>
-
-  ```sh
-  #!/bin/sh
-
-  if ls -- *.dosz > /dev/null 2>&1
-  then
-      for file in *.dosz *.dosc
-      do mv "$file" "$file".zip
-      done
-  else
-      for file in *.zip
-      do rename ".zip" "" "$file"
-      done
-  fi
-  ```
-
-</details>
+To use other ROM management tools, see the section on [RomVault](#romvault)
 
 ### PureDOSDAT-Variants.xml
 Similar to the primary file this contains secondary variants of game packages which includes regional variants as well as original installation media.
@@ -180,8 +157,39 @@ it should not be included in the primary variant but instead be in a separate "I
 CD-ROM images should be included in the .DOSZ file in uncompressed, version 5 CHD format (created with `chdman.exe createcd -c none`).
 This is to avoid double compression by both CHD and ZIP, which would be a detriment for load time and performance, while keeping a full game in a single .DOSZ file.
 
+For CD-ROMs with audio tracks, the audio tracks can be compressed by using the [CHDtoOGG utility](../../../CHDtoOGG).
+
 #### Floppy Disk Images
 Floppy disk images should be included in the .DOSZ file in uncompressed raw disk IMG format.
 
 ## Generating DAT from ZIPs
 To generate the data file XML elements you can use the [MakePureDOSDAT utility](../../../MakePureDOSDAT).
+
+## RomVault
+[RomVault](https://www.romvault.com/) can optionally be used to build DOSZ files but they will not be fully correct because date and time information will be missing.
+Depending on your Windows or .NET installation, you might want to use [version 3.2.5](https://www.romvault.com/download/ROMVault_V3.2.5.zip) or the latest available.
+
+While working with a ROM manager other than the recommended DoDAT, the files will need to be named .DOSZ.ZIP.
+To do this easily in Windows, create a file named `_swap_zip_extension.bat` with the content:
+```bat
+IF EXIST *.DOSZ ( ren *.dosz *.dosz.zip ) ELSE ( ren *.dosz.zip *. )
+```
+
+<details>
+  <summary>Alternatively as a shell script:</summary>
+
+  ```sh
+  #!/bin/sh
+
+  if ls -- *.dosz > /dev/null 2>&1
+  then
+      for file in *.dosz
+      do mv "$file" "$file".zip
+      done
+  else
+      for file in *.zip
+      do rename ".zip" "" "$file"
+      done
+  fi
+  ```
+</details>
