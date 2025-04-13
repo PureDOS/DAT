@@ -4923,6 +4923,111 @@
 		<rom name="SC-000.MIX" size="185937" crc="0c5dbfba" md5="cd814e2ee319f30a741a0bf64c16d9ed" sha1="088c2abdf5b6280369e55cfb941748760628803e" date="1996-01-04 07:13:40"/>
 		<rom name="SC-001.MIX" size="490318" crc="d173fce3" md5="70dcde28a3222e87e08341f82975ef93" sha1="299c66987acd47987436b8465b69331673a963d4" date="1996-02-02 10:13:52"/>
 	</game>
+	<game name="Command &amp; Conquer - Red Alert - Counterstrike (1997) (Westwood Studios).dosz">
+		<description>Command &amp; Conquer - Red Alert - Counterstrike</description>
+		<year>1997</year>
+		<developer>Westwood Studios</developer>
+		<parent>Command &amp; Conquer - Red Alert (1996) (Westwood Studios).dosz</parent>
+		<comment>Installed v1.07E from CD upon Red Alert v1.04. CD image converted with CHDtoOGG</comment>
+		<link type="media">http://redump.org/disc/2198/</link>
+		<rom name="Command &amp; Conquer - Red Alert (1996) (Westwood Studios).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Command &amp; Conquer - Red Alert - Counterstrike (USA) (Track 1).bin" size="374934672" crc="e693cb6c" md5="6f164d8b1d186e69781714a65f60d9d3" sha1="def4f2446d9ddd192d98979ca8073a9600187c79">
+			<source type="MODE1_RAW" frames="159411" duration="35:25:36"/>
+		</rom>
+		<rom name="Command &amp; Conquer - Red Alert - Counterstrike (USA) (Track 2).ogg" size="7936132" crc="4c3fe24e" md5="d320b2ea15de7dfc3cabbf08e2f00d51" sha1="fb379357514c578e683dc2cbb75fb4a91ac667fc">
+			<source type="AUDIO" frames="15813" omitted_pregap="224" duration="03:30:63" size="37192176" crc="60a8f9b3" md5="2922fd89401cffa528c48704e9a1abb8" sha1="e0c3cb17b11d916bfa6f4616e32d4c9d71bdd54b" in_zeros="3324" out_zeros="3829" quality="8"/>
+		</rom>
+		<rom name="Command &amp; Conquer - Red Alert - Counterstrike (USA) (Track 3).ogg" size="8023748" crc="0d8467a0" md5="5d2fd1cb1a017ef8ee85f69ea6e5848d" sha1="36bd33ab0f227e36ef62c04ea85673c7ea2595d9">
+			<source type="AUDIO" frames="20044" omitted_pregap="149" duration="04:27:19" size="47143488" crc="e9e150a7" md5="90afe8297ad50ed3c1c745c5cd5737bf" sha1="5b5dcca4065a180e81e986750e2d64e341190b68" in_zeros="3324" out_zeros="4545" quality="8"/>
+		</rom>
+		<rom name="Command &amp; Conquer - Red Alert - Counterstrike (USA) (Track 4).ogg" size="8993454" crc="53449d64" md5="e49f0d4dc8af4db6f8b06fb799fc49df" sha1="0bac7f48d05ddfee748d26fc6b0b1c89abd21628">
+			<source type="AUDIO" frames="19011" omitted_pregap="149" duration="04:13:36" size="44713872" crc="2b46bc8e" md5="47a805c16255e86cc3633b0b9e62d3f5" sha1="c7bcc779bd8bb1259f88360f171e5641a5d780da" in_zeros="3324" out_zeros="3564" quality="8"/>
+		</rom>
+		<rom name="Command &amp; Conquer - Red Alert - Counterstrike (USA) (Track 5).ogg" size="8003351" crc="5ad5df91" md5="fdd522548028acbc164139e030279da5" sha1="0e20600f82909e24ba15eeda57b13619ee9b0b78">
+			<source type="AUDIO" frames="19564" omitted_pregap="149" duration="04:20:64" size="46014528" crc="5771787d" md5="e82e92e679ce137b139dad6367850c5a" sha1="15a04fbc79591ad9985beca01f9c01c3cc5bb72f" in_zeros="3324" out_zeros="3777" quality="8"/>
+		</rom>
+		<rom name="Command &amp; Conquer - Red Alert - Counterstrike (USA) (Track 6).ogg" size="8905144" crc="26cef167" md5="7aa0e040020d19935ec1b4e32eac37c3" sha1="f189f49ca8b4df2c2aa3f46a1aa141296a4c7523">
+			<source type="AUDIO" frames="21668" omitted_pregap="149" duration="04:48:68" size="50963136" crc="a5480081" md5="10f458f1d87f27475f9df0730d28a3f9" sha1="51de431b8f7b3dc568d6e802cb4d72180fa7d5af" in_zeros="3326" out_zeros="1473" quality="8"/>
+		</rom>
+		<rom name="Command &amp; Conquer - Red Alert - Counterstrike (USA).cue" size="827" crc="a8775a15" md5="f0adac721db7caef82f1a62d528e6b39" sha1="3fbb35b23a3d55b353f2af4cd5d125dbaa09cbac"/>
+		<rom name="Command &amp; Conquer - Red Alert.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="EDIT.DAT" size="1161211" crc="c2a00aed" md5="32744557ade03d6663828788b157066d" sha1="1a35b420c2ab3f4418dd3d9627b2e605cf3ebcd8" date="1997-02-19 19:25:44"/>
+		<rom name="EXPAND.MIX" size="458242" crc="b8310c94" md5="336eaf636e7c0b9022987cec5521873d" sha1="f5640023c961291b3d34026f7a0ad4be8d3f2a0c" date="1997-03-17 16:46:44"/>
+		<rom name="GAME.DAT" size="2430275" crc="f1535953" md5="d7a8d3bfb2e39f5d5131f6c61fdb036e" sha1="a4a996d2b5bb012866b0299139ec996196326754" date="1997-03-17 01:55:36"/>
+		<rom name="RA.EXE" size="1678" crc="377206e9" md5="818dd1ab77a60de8a4d6e86fcffdddf0" sha1="aa6bba43164dcb2636e5995ecd93283bb4dfc852" date="1997-03-08 17:39:18"/>
+		<rom name="README.DOC" size="37419" crc="081d9913" md5="b59affa591b00f76c481056fe8c94c99" sha1="d60b3027daaf7f608eb5864d0abfb4557703aa97" date="1997-03-17 10:17:44"/>
+		<rom name="README.TXT" size="31076" crc="77f3583a" md5="58220a1655177ab2cb6bbf644df40992" sha1="0efe8087383f0b159a9633f891fb5f53c6097cd4" date="1997-03-16 19:22:40"/>
+	</game>
+	<game name="Command &amp; Conquer - Red Alert - The Aftermath (1997) (Westwood Studios).dosz">
+		<description>Command &amp; Conquer - Red Alert - The Aftermath</description>
+		<year>1997</year>
+		<developer>Westwood Studios</developer>
+		<parent>Command &amp; Conquer - Red Alert - Counterstrike (1997) (Westwood Studios).dosz</parent>
+		<comment>Installed v2.00EAM from CD upon Red Alert: Counterstrike v1.07E. CD image converted with CHDtoOGG</comment>
+		<link type="media">http://redump.org/disc/2199/</link>
+		<rom name="Command &amp; Conquer - Red Alert - Counterstrike (1997) (Westwood Studios).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Command &amp; Conquer - Red Alert - The Aftermath (USA) (Track 1).bin" size="442178352" crc="fea97990" md5="04fc30340b64e9c6085537d0f2f6f494" sha1="695e28f911bf7bec9a9c2b47ecde0d541b6ad685">
+			<source type="MODE1_RAW" frames="188001" duration="41:46:51"/>
+		</rom>
+		<rom name="Command &amp; Conquer - Red Alert - The Aftermath (USA) (Track 2).ogg" size="7911095" crc="ad37c5ce" md5="31f8fec104c6ce2f38ab285a79ff930c" sha1="f7b761cf172ba5bc68c11b7fcc41e30804f16330">
+			<source type="AUDIO" frames="15813" omitted_pregap="224" duration="03:30:63" size="37192176" crc="084ea310" md5="a195c0a5df251cf784440bc46fe378df" sha1="b718454854c31da8cb21f46a60116419457b4722" in_zeros="3304" out_zeros="3849" quality="8"/>
+		</rom>
+		<rom name="Command &amp; Conquer - Red Alert - The Aftermath (USA) (Track 3).ogg" size="8032666" crc="d1a8e227" md5="4d95575957694d7beaa3b1a5c716e5e2" sha1="a3a460b1779857660ab1a84475207f0d3dcc6d0d">
+			<source type="AUDIO" frames="20044" omitted_pregap="149" duration="04:27:19" size="47143488" crc="799e084e" md5="2b8bc7801e5fea999bde54960eacce84" sha1="f84f385bac1c8cfd067232eeeaf0a4cce8e62454" in_zeros="3304" out_zeros="4565" quality="8"/>
+		</rom>
+		<rom name="Command &amp; Conquer - Red Alert - The Aftermath (USA) (Track 4).ogg" size="9015441" crc="f751e1d6" md5="49fa084522542fb76935badaee5af68c" sha1="e2c70d409c357f47b13ed11091b657a703f2a104">
+			<source type="AUDIO" frames="19011" omitted_pregap="149" duration="04:13:36" size="44713872" crc="c4cb5072" md5="a37f42808dce6efdee5d57dd7625141e" sha1="d8f31651a66c18d37379835dc017351bdbc2f4ee" in_zeros="3304" out_zeros="3584" quality="8"/>
+		</rom>
+		<rom name="Command &amp; Conquer - Red Alert - The Aftermath (USA) (Track 5).ogg" size="8051894" crc="96b6d85d" md5="8e471c77a50bed6a3f3953ebe870e97f" sha1="03e23b513f75a81b38a8f78cade6f35173cef312">
+			<source type="AUDIO" frames="19564" omitted_pregap="149" duration="04:20:64" size="46014528" crc="0bcd1cb6" md5="710f727943fc6844e41ae11400d640fa" sha1="4a2d467d4b92e9a9bab93cb77cb86cc8000be21c" in_zeros="3304" out_zeros="3797" quality="8"/>
+		</rom>
+		<rom name="Command &amp; Conquer - Red Alert - The Aftermath (USA) (Track 6).ogg" size="8907872" crc="ef17c456" md5="c5fd691545ee929025e794d49edfd628" sha1="05779d84e3f40b076dca774c5ce9ea4b71043040">
+			<source type="AUDIO" frames="21668" omitted_pregap="149" duration="04:48:68" size="50963136" crc="11bff7f2" md5="110aa39aa81e72a2e2814b2907bdb404" sha1="d4249a2395c39842e5b0107af750639f35d7ddfd" in_zeros="3306" out_zeros="1493" quality="8"/>
+		</rom>
+		<rom name="Command &amp; Conquer - Red Alert - The Aftermath (USA).cue" size="827" crc="fb1af53e" md5="4d8595ba8a1a520933d7f7ac377341b9" sha1="ccf72873752af8162e774044f4c6d5e32b287121"/>
+		<rom name="Command &amp; Conquer - Red Alert.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="EDIT.DAT" size="1161235" crc="ce4828a2" md5="eba30ac3711baee2b7e8e45582928b75" sha1="84ba9b25f42eb28e113a0986734fc826b905522f" date="1997-08-21 15:16:22"/>
+		<rom name="EXPAND2.MIX" size="469922" crc="d335712c" md5="71acb2e797ffb2a8382dd360a44a781e" sha1="d207ccba3c434d2e0647c49baf72e6a87e13af4a" date="1997-09-04 21:53:36"/>
+		<rom name="GAME.DAT" size="2476183" crc="6c2e40a0" md5="85637c6cee5b6b7b71ba1529c0223da2" sha1="e69e4bc8ac9a9cd42ce0649c3840462bf8203483" date="1997-09-09 14:57:40"/>
+		<rom name="HIRES1.MIX" size="90264" crc="9b955b08" md5="e433a0eede6af2d904e35106d37aa160" sha1="4acbaa4b9049b30d38852b7180f9d7ab802d6b22" date="1997-09-02 23:56:10"/>
+		<rom name="LORES1.MIX" size="57076" crc="4fce005c" md5="5fd3503f58da678f96cfc5e36f5c74e0" sha1="d89ffe43ccb648c94b8165fe9d05c5c2b5160c1d" date="1997-09-02 23:56:22"/>
+		<rom name="README.DOC" size="87552" crc="5f5d3de4" md5="93210b1af5aad90d99426c3df89f7d0c" sha1="12c5680190e13302f669f5c963d2230ac03c4597" date="1997-09-08 14:22:58"/>
+		<rom name="README.TXT" size="43182" crc="6ca03719" md5="e0e91812a6ce6063bfb982051e9091e0" sha1="9902fb74c019df1b76ff5634e68f0371d790b5e0" date="1997-09-08 12:15:06"/>
+	</game>
+	<game name="Command &amp; Conquer - Red Alert (1996) (Westwood Studios).dosz">
+		<description>Command &amp; Conquer - Red Alert</description>
+		<year>1996</year>
+		<developer>Westwood Studios</developer>
+		<comment>Installed v1.04 from CD</comment>
+		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
+		<link type="media">http://redump.org/disc/2196/</link>
+		<link type="media">http://redump.org/disc/2197/</link>
+		<rom name="DOS.YML" size="17" crc="96974fc7" md5="3bd57cdc515bb52b9d71eaadc7ad6f31" sha1="a596efb9fdc80c46388b5b942bb709257dcb9f1b" data="bWVtX3NpemU6IDMyNzY4DQo="/>
+		<rom name="Command &amp; Conquer - Red Alert (USA) (Allied Disc).chd" size="697131648" crc="94cb053c" md5="0fc811623588a12c03f3c7d499ae5f24" sha1="709ea7d60b908cd1b38ec25077ff96f72fa92a39">
+			<track number="1" type="MODE1_RAW" frames="284710" pregap="0" duration="63:16:10" size="669637920" crc="1a680c28" md5="2af129182c26290e387a794e3a1173a8" sha1="3d53cbb2138267bfcfa3470853373a487346c485"/>
+		</rom>
+		<rom name="Command &amp; Conquer - Red Alert (USA) (Soviet Disc).chd" size="752084352" crc="3a7c4c53" md5="e13714aed4c07771eccce0ed1a8f678b" sha1="84ec6595165b23d447a61f4b8923a3b96000fa1d">
+			<track number="1" type="MODE1_RAW" frames="307157" pregap="0" duration="68:15:32" size="722433264" crc="fc6c814b" md5="ec117b746f7685d6f0b2ee71f15fdb06" sha1="f5142683549008add1ff66340153d2f114d0b5e7"/>
+		</rom>
+		<rom name="Command &amp; Conquer - Red Alert.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="_SETUP.EXE" size="706371" crc="dd76f0d3" md5="d92279123300d08d347cad0fd2a2d075" sha1="fc6fad261d35e97a15acc9f30690ec12f9818709" date="1996-11-09 15:19:18"/>
+		<rom name="EDDOS.EXE" size="1674" crc="cd9ee717" md5="d14a72be0affebe8158d70c47c945144" sha1="26fc4cff6e85e4c41bf01e712d0f2e9c2ff944d9" date="1996-11-07 18:16:40"/>
+		<rom name="EDIT.DAT" size="1165315" crc="9876b9e6" md5="17c14aff318d09f768ab96a2a6242b56" sha1="004f93085fea9b9730e08937c6bfdb81b4b783d9" date="1996-11-09 01:24:42"/>
+		<rom name="GAME.DAT" size="2399095" crc="11b44680" md5="e66e6f74de3710bb30907fa6d1475f3e" sha1="88439a1c1f057d556f6b44597c40f2561e58657a" date="1996-11-09 23:46:20"/>
+		<rom name="HMIDET.386" size="83152" crc="5f211903" md5="b688842b23e50a66c57ac23b481c128f" sha1="0f463c99fb5995d98af07840fb60556a4119d13c" date="1995-05-17 10:10:54"/>
+		<rom name="HMIDRV.386" size="261425" crc="f6d116a3" md5="bd16499c7c0ef8cebb0999373edc5361" sha1="becd7f4a413a1966986b4c41c860b678d7244d58" date="1995-02-06 03:00:00"/>
+		<rom name="RA.EXE" size="1656" crc="f40404a9" md5="33fb46794aef0d0263dbee233b812cde" sha1="29bebe85878ef509f23e0f84f49410a0db586500" date="1996-10-14 15:15:02"/>
+		<rom name="README.EXE" size="244874" crc="ab1e7961" md5="3aa00c5d8d042cdef0b7246c1d5eaa64" sha1="6abed65497d2d357b8670993253e7179a957237f" date="1995-08-22 13:31:26"/>
+		<rom name="README.TXT" size="24366" crc="ec279d82" md5="a6196edeb0dc653ae3f0fa73cb6d26bc" sha1="1bc9b954951b158d19b81f9350e492eee06a5e13" date="1996-11-09 03:44:46"/>
+		<rom name="README.WRI" size="28672" crc="b908620c" md5="6050d9d6fcf35afba4f93e83aabdfdf0" sha1="4df116cdffec54867bca37f3ecf65e33a15e5d36" date="1996-11-09 03:49:06"/>
+		<rom name="REDALERT.MIX" size="25046328" crc="d011d267" md5="7debf2e9480f64984eb8f93d6ff80af3" sha1="0e58f4b54f44f6cd29fecf8cf379d33cf2d4caef" date="1996-11-09 23:49:16"/>
+		<rom name="RESLIB.DLL" size="14848" crc="8550f314" md5="2563e31b5f4702f5ca7cfdb1bfbdccbb" sha1="651a3d3f258a9f4d109c6567beb91c1a1f5e47cd" date="1996-01-04 13:31:24"/>
+		<rom name="RUNGAME.EXE" size="87552" crc="54ea09d2" md5="81964514134c6ad3411f6205fc371f6a" sha1="720b431c77d1a8183173296d67c5459fd5ddbf86" date="1996-10-28 23:48:00"/>
+		<rom name="RUNMAP.EXE" size="97792" crc="a155621e" md5="5fcbce42e54dce45ef9cc8c862ccf850" sha1="555d51b57a7610d4abd4a8fdc41334720d0db1aa" date="1996-10-28 23:49:56"/>
+		<rom name="SETUP.EXE" size="124416" crc="80ed32e6" md5="1d59a164137b373f9519e14e85cc89f4" sha1="1c785f1433f5cb63ef105fea60782d06709cc8e0" date="1996-10-28 14:20:44"/>
+		<rom name="THIPX16.DLL" size="4192" crc="a1fb5741" md5="8b738d30c85b437993c23d8551865660" sha1="7015bf60289740579b504652245e2c0be6f16653" date="1996-11-06 17:31:32"/>
+		<rom name="THIPX32.DLL" size="25902" crc="721ecb7e" md5="9f6ba036ed491af7fbada6dcfdece71f" sha1="799fae79aac454cbb1d988152714803b0d560d2b" date="1996-01-30 10:49:04"/>
+	</game>
 	<game name="Commander Keen in Aliens Ate My Babysitter! (1991) (id Software).dosz">
 		<description>Commander Keen in Aliens Ate My Babysitter!</description>
 		<comment>Installed v1.5 from 3.5" floppy disks</comment>
