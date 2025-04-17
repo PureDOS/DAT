@@ -4768,11 +4768,11 @@
 	</game>
 	<game name="Shadow Warrior (1997) (3D Realms) (GOG).dosz">
 		<description>Shadow Warrior</description>
-		<comment>Freeware</comment>
-		<comment_dosc>Sound Blaster 16 config, 640x480 resolution, and auto start</comment_dosc>
 		<year>1997</year>
 		<developer>3D Realms</developer>
 		<variant>GOG</variant>
+		<comment>Freeware</comment>
+		<comment_dosc>Sound Blaster 16 config, 640x480 resolution, and auto start</comment_dosc>
 		<link type="freeware">https://www.gog.com/en/game/shadow_warrior_complete</link>
 		<rom name="Commit.exe" size="76554" crc="80deedcc" md5="6bb54698231ec5490c5933af8cb5d7d3" sha1="8832f0fc61f7286b14cac0cd1ff0a56e179c5d6f"/>
 		<rom name="Credits.txt" size="2618" crc="076a576f" md5="f283f74b6a355f926f615abfb4e7bd77" sha1="74af548e6c9705af2e607b189596ed69068c6555"/>
@@ -4804,6 +4804,109 @@
 		<rom name="Sw.grp" size="47536148" crc="7545319f" md5="9d200b5fb4ace8797e7f8638c4f96af2" sha1="4863226c01d0850c65ac0a3e20831e072b285425"/>
 		<rom name="Sw.rts" size="267626" crc="85d116fd" md5="1f48ec3115cec3dfa45ab1673a8ffcb1" sha1="6b9a48371e7911ac9d879f89230ac8ac5ac10f5b"/>
 		<rom name="Swhelp.exe" size="79378" crc="e642446e" md5="3f32eb6839f12d50cb312a45cc7941b7" sha1="d5bcbdfd1a0831e249ed9c5772719f3e9cfd41f8"/>
+	</game>
+	<game name="Shadow Warrior - Twin Dragon (1998) (Level Infinity) (GOG).dosz">
+		<description>Shadow Warrior - Twin Dragon</description>
+		<year>1998</year>
+		<developer>Level Infinity</developer>
+		<variant>GOG</variant>
+		<parent>Shadow Warrior (1997) (3D Realms) (GOG).dosz</parent>
+		<comment>Freeware</comment>
+		<link type="freeware">https://www.gog.com/en/game/shadow_warrior_complete</link>
+		<rom name="$AIRPORT.MAP" size="214374" crc="bd283112" md5="234e29abcaf76d78780c68cc46a3108a" sha1="60b7ec7aec9d22f93f9980f780b03db09bcb2174"/>
+		<rom name="$BATH.MAP" size="301366" crc="11d96953" md5="69216f1916b51848a5eed6c7d1a432fd" sha1="2a879ea784a9bcda885046b2ebd9d4324d9a0505"/>
+		<rom name="$BOAT.MAP" size="166286" crc="5c26a772" md5="326f277c0ad2d5e8b8275e12126d4b19" sha1="d5a4502d4f33fad9e50646f252ad0ba20314f12e"/>
+		<rom name="$DMSHRIN.MAP" size="68002" crc="c26fd2c9" md5="88ac33ec0b646615fef577bc270fa33b" sha1="023f4e3cd66f75a60a7da7e04292bc3da34907f2"/>
+		<rom name="$DMWOODS.MAP" size="83246" crc="b3c19fcf" md5="dabe2d151ce7548d2a2789acfad37a23" sha1="9f08437c6efa1f3c205f235090f294a4166da473"/>
+		<rom name="$GARDEN.MAP" size="221210" crc="4c5c5f35" md5="8894f613c1cda5c4ea7d9d63616f8a87" sha1="efc32d54a1c1827a34ecd82188878f5c950e99a6"/>
+		<rom name="$HIDTEMP.MAP" size="184262" crc="a9a28390" md5="d93aad72acd0c2094b94607da0dff940" sha1="072fa839076f2dd4bd0aaa99ed3bd884e63f0faa"/>
+		<rom name="$NEWMINE.MAP" size="241642" crc="86a0952d" md5="cfc365a01da6f62fa4e2340a807a8a69" sha1="6e08f779e963c1021b48a776c17bcb266961e765"/>
+		<rom name="$OUTPOST.MAP" size="175014" crc="5c0f9625" md5="52d1827e2885e48266760fdc2327d684" sha1="d96ebe1b100c48ab673c92b334dc1c31be8223f3"/>
+		<rom name="$PLAX1.MAP" size="287662" crc="25f00270" md5="e3cfcc7015977c9f84ae4e8c7fd73a3a" sha1="10180ef785bc71e5312d6a60ccd9cf4728803624"/>
+		<rom name="$REFINER.MAP" size="244322" crc="8f52b5ba" md5="78af5556e8ad730d5a514e345f73888b" sha1="37c8dab10ed3af5c775242bf5601e5cfdff0cc54"/>
+		<rom name="$SHORE.MAP" size="176966" crc="6fb2cd10" md5="7bcf5fa37bccb4993fc5ff3d2df6457f" sha1="7078754732240873bdff4aa4cc867c4d5910f5e6"/>
+		<rom name="$TANK.MAP" size="150646" crc="68344e0c" md5="0c119534960fc249bc5488b0f88d051c" sha1="880e28cda684cc59687b78662901a4d3a9f4b6ec"/>
+		<rom name="$VOLCANO.MAP" size="253514" crc="fde1ba8d" md5="ebc40ed12b88c324f193bb6e88e989ec" sha1="a85548adf35c5648b98698785d03495387ac3e06"/>
+		<rom name="$WHIRL.MAP" size="247558" crc="2901aa1b" md5="d2e3428676f2c875bd44ea837da9be08" sha1="35c86feed5acc5972d9b496a412d6239e71de2e3"/>
+		<rom name="AMOEBA03.VOC" size="59754" crc="4458e64a" md5="d59c4ab7e3ef4ee0d259b15f574e861e" sha1="03089e3363afd934dd64759ba5197f021932c027"/>
+		<rom name="BMBFLY.VOC" size="47805" crc="67ce3b1c" md5="75aac1c54d6252331e0005f202ab33d4" sha1="03ec8d5a7c546214bfc45468082ba4e71acafd79"/>
+		<rom name="DRUMCHNT.VOC" size="58670" crc="3d5e82aa" md5="7367f6290bae18b868da92c7d0eb498e" sha1="69b5e991233ede0786aca9ab8fcfb9969f3afb12"/>
+		<rom name="HELI.VOC" size="56921" crc="4ae7bd2d" md5="ac7e972a7f65a7e8078663309344c17e" sha1="eb444a91126f7cc1ebde58c2cc0749bf10b230f3"/>
+		<rom name="JG94024.VOC" size="20674" crc="de3c0de6" md5="2272a6b07d9ef48234bc82393c518826" sha1="64fbc8ff647067ca082637331f63322dae4bf2cf"/>
+		<rom name="JG94039.VOC" size="40172" crc="89aec64e" md5="2ddbf367e474074a8ac3d1841102887e" sha1="445ed2eeab8af7d816118eac65ad11374b270663"/>
+		<rom name="JGEN06.VOC" size="42447" crc="a75efefd" md5="803145d01cfec4c739208c7f56bf436e" sha1="a8351c18311e208f0d2d6163c37f39ba1796315e"/>
+		<rom name="LANI089.VOC" size="27553" crc="e775206c" md5="9e128dcef70f2939979d9efffc389284" sha1="ac7de5992740e2233f1d67ae179be32aa6bda022"/>
+		<rom name="LANI091.VOC" size="91358" crc="badd89a3" md5="30d2aae7ddcaba7829ba5242d867a3ec" sha1="2be20684535445e2e994584998f6c4f984b2863e"/>
+		<rom name="LANI093.VOC" size="26529" crc="cde45eb6" md5="94f401ba0770998a59d60e3f15c8a5e5" sha1="2fc326caa0621660cc32c4625c26b145453b0d2e"/>
+		<rom name="LANI095.VOC" size="34434" crc="1456e5f6" md5="35f27d17a91f74e452d53374e709636a" sha1="f50408d35d9fec25828cb0a5dcb3b5edb23ab09e"/>
+		<rom name="LOADER.IAF" size="194316" crc="9390f29a" md5="0aabac0ccbecdf306fd9046724706e01" sha1="67b3d45d66fdaa8279273bebfd91f1ce441ba820"/>
+		<rom name="LVALRT.VOC" size="22625" crc="ee2ed1e9" md5="dea8446c25f854b0e0635a0a6006d6d0" sha1="af02613e7470e6b153c6da0ffe9c2733c76168d8"/>
+		<rom name="LVAMB.VOC" size="36156" crc="86d98b10" md5="6b6e59ee2b31331c428a2216fe0ac7fc" sha1="a2fdc60fc165049b47bbdc427fc48ccb75aa8b13"/>
+		<rom name="LVEXPL.VOC" size="45601" crc="322981b7" md5="5d889614d5139bf308d23a39dbdc4309" sha1="fe235973b0b84c1aafbb9cd1ea6fbcb012062ba4"/>
+		<rom name="LVFLAME.VOC" size="23649" crc="85a359e7" md5="2eede751b961d3fb6e9254486870165f" sha1="e45ac14e37500248a940c9dc04df2b450ccf638c"/>
+		<rom name="LVMETEOR.VOC" size="68001" crc="aa05b6a3" md5="5bbe5ac8d5a860417cc89cb37c1be2c2" sha1="5e67f8192499ff333f472940109a8fc8af22dcc3"/>
+		<rom name="LVMETEXP.VOC" size="98037" crc="df4b7531" md5="efe47985a83f25aa5a8c8fbc51125c47" sha1="cad368ee1160fa897bb1872e4894be2b168c8aed"/>
+		<rom name="LVPAIN.VOC" size="23329" crc="f87f2372" md5="174ceb76315e53beb2e394ed71434fbe" sha1="97f1a0041dc9e2ca7e29e23c7365002508d4b740"/>
+		<rom name="LVRISE.VOC" size="14945" crc="425428b0" md5="dc083c8b1297a299088ca542e687dc47" sha1="3d417a8908ede6b3a77d593394c80826774cfd90"/>
+		<rom name="LVSIZZLE.VOC" size="9169" crc="5fb9eb67" md5="22e535e034c7e78fc1089307af29333c" sha1="6b84dc81ec5a07be884abdbabcff5f8de008576a"/>
+		<rom name="LVSWIM.VOC" size="39155" crc="dcd88298" md5="4452e8a48caf1319ba17fe530af52530" sha1="edeedcc9bce0bf1f59eb7e9806c41fe2d2060375"/>
+		<rom name="README.TXT" size="8199" crc="bf8383a5" md5="fc956907b1f3719588d5b187fc23b981" sha1="bcdee7f8e3f178a51323c617fa75730f2dcf75d5"/>
+		<rom name="Shadow Warrior (1997) (3D Realms) (GOG).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="SPALRT.VOC" size="18322" crc="aeb30735" md5="707f53c1f266d809314c0ab57d68d873" sha1="e9d7c602518d9706ba3fce393d957b97dca5605a"/>
+		<rom name="SPAMB.VOC" size="12651" crc="0e53378f" md5="103f49d710c0c3523027caf7de5bbcab" sha1="2c76d4440cec825d1f32bd7cf2229afde029f3ab"/>
+		<rom name="SPBLADE.VOC" size="69313" crc="fbd01cc3" md5="c5d046856c422d3ccdf6316e10e750c3" sha1="deccc0ff67e6b1ceda430651ea04af2e94d4f52e"/>
+		<rom name="SPELEC.VOC" size="36156" crc="86d98b10" md5="6b6e59ee2b31331c428a2216fe0ac7fc" sha1="a2fdc60fc165049b47bbdc427fc48ccb75aa8b13"/>
+		<rom name="SPOOKY1.VOC" size="52966" crc="255f38f5" md5="08d12b0bec3b7d2728660bfdaac31c21" sha1="2d01a405d16b1ff090e835607e59276a0089e41e"/>
+		<rom name="SPPAIN.VOC" size="22625" crc="0d056a12" md5="9e65f6e0decc03827cff9fd35f168e96" sha1="60eb2b24c62d96271e96cc6c81f1bfe886192e4c"/>
+		<rom name="SPSCRM.VOC" size="51489" crc="3f937501" md5="f2a68555c5614c151bd60d5a68df7261" sha1="f23fafafdd3303533f934eca116b63b2b9307e97"/>
+		<rom name="SPTLPRT.VOC" size="45345" crc="2dd8365f" md5="79203d597960bc49c1713d6bf3bc4dc9" sha1="480d0d91dfab44bff422a386f970b8889df0fb40"/>
+		<rom name="Sw.exe" size="2323389" crc="9f8cf135" md5="8e72552546ba805867245ecc683f21d7" sha1="41e453ac6fac1ba0d9e81870561272efd49bc3da"/>
+		<rom name="TANK.MAP" size="95030" crc="ef7aba9b" md5="28917d0947391913cce846ae0aa92dc1" sha1="72e2d2fcfdb54f3694a47b3f914fe7450a63c6ac"/>
+		<rom name="TDRAGON.EXE" size="82345" crc="0f6eb544" md5="d5bd282cfc98e1789c88ede604c285a8" sha1="ea349ba313fde3aaa60223ccc2e72aec1bc811e7"/>
+		<rom name="TILES021.ART" size="1038873" crc="d8db337f" md5="33798c3efa82949930c498088663072c" sha1="6a7df92d5890c89483bb279de4023953f3a3c0f2"/>
+		<rom name="TILES022.ART" size="2378886" crc="69a81f1d" md5="dd5ce3771b1082b216a4e2d89b3f321b" sha1="758c7142daa5b9729110111cb771824c1d5722fc"/>
+		<rom name="TILES023.ART" size="223248" crc="d2f63afe" md5="3d41dd8123db25f8331ba7df2023564f" sha1="e8eec3eef148d961b93aaf47d0230f744d9d47f6"/>
+		<rom name="VOID1.VOC" size="75937" crc="e29325d6" md5="42a043caa5e9054743152bea5b837781" sha1="46dd235ab1ec28886327dd0edd2e28d673aeb8dc"/>
+		<rom name="VOID2.VOC" size="9390" crc="704e4cfe" md5="158f7cad4693409a0ba0b22a989a259e" sha1="9c509625f44620a6fae4791b1dc28f241841d9d5"/>
+		<rom name="VOID4.VOC" size="22083" crc="d38461d2" md5="28b7794811b40c6e182407fd4ac9d3f9" sha1="06cd0eb62cdca5229dbd6f61c1780863d768a813"/>
+		<rom name="VOID5.VOC" size="46611" crc="bb56cfa1" md5="9d52ecb5efca8c77b0dcfca723f8ea97" sha1="3263fb97a8f2c14bc4ffd6632de554d1fd4ed206"/>
+		<rom name="WIND4.VOC" size="48375" crc="1e747c0c" md5="80ea6d63e884123391da7f7410b3c04a" sha1="2b67287ce3842e385d6280bbb3a9807e86af9403"/>
+		<rom name="Z16004.VOC" size="29025" crc="ead343c1" md5="744916bb3aa6c73d3bbb23de95ca2ab2" sha1="f182ac4f93a4426d0ccc0a1c85d170087715a336"/>
+		<rom name="Z16012.VOC" size="21033" crc="065866d0" md5="3c94b0c15f6db9a708a62e007588598b" sha1="fbd8a9de1f89ce82603cddf46d26b8f8238288f9"/>
+		<rom name="Z16022.VOC" size="38450" crc="c0c70b16" md5="cf1ad208169401cf4f12c8a690db5c08" sha1="48fa20e69ea261b391989feba2a7577ab4fa3b35"/>
+		<rom name="Z16027.VOC" size="32928" crc="9fdbd48a" md5="a4d12f258cf8027f4aaf40c109214456" sha1="4494bac0543d7e030e8f74ac22259fc1928ce616"/>
+		<rom name="Z16043.VOC" size="21722" crc="bfc4cf91" md5="a6bb1094264e9ac87bc4613d220699e2" sha1="498b1d4976c35e1a46e4a8d011785775f452818a"/>
+		<rom name="Z17010.VOC" size="18977" crc="3dde373f" md5="94cbcb9c975396f89ec883b30e9f4e34" sha1="20c59a3da18ed40cd502cd1ee60f18d91cf9f0c3"/>
+		<rom name="Z17025.VOC" size="21722" crc="bfc4cf91" md5="a6bb1094264e9ac87bc4613d220699e2" sha1="498b1d4976c35e1a46e4a8d011785775f452818a"/>
+		<rom name="Z17052.VOC" size="9921" crc="5796d2a7" md5="cfb3d3034255ed1bfbcd550d255ae685" sha1="25edaa546e0cd02cc1ef28926a3c3b978f7530a9"/>
+		<rom name="ZC1.VOC" size="21033" crc="065866d0" md5="3c94b0c15f6db9a708a62e007588598b" sha1="fbd8a9de1f89ce82603cddf46d26b8f8238288f9"/>
+		<rom name="ZC2.VOC" size="38671" crc="2b4c46db" md5="67ef5a67c47c480e10f04d36c2dcda9a" sha1="65a5b1edf2ac4846dc0dfbc1671fa4d1f0350b8f"/>
+		<rom name="ZC3.VOC" size="36177" crc="a8e9ad33" md5="41c7e1a0fdcd2bb743a4d612cd9689e6" sha1="8821d964d9f7975634f0b1ff34bb31ac1a5d320c"/>
+		<rom name="ZC4.VOC" size="36177" crc="a8e9ad33" md5="41c7e1a0fdcd2bb743a4d612cd9689e6" sha1="8821d964d9f7975634f0b1ff34bb31ac1a5d320c"/>
+		<rom name="ZC5.VOC" size="36177" crc="a8e9ad33" md5="41c7e1a0fdcd2bb743a4d612cd9689e6" sha1="8821d964d9f7975634f0b1ff34bb31ac1a5d320c"/>
+		<rom name="ZC6.VOC" size="36177" crc="d678fe6b" md5="695a13a38e957ae25035c95920c26a4f" sha1="29f5604a730ff65f46c7b1744d7c1c2690945050"/>
+		<rom name="ZC7.VOC" size="44609" crc="1f790093" md5="1e50cc70b8c7a2da447256284e9c66ef" sha1="537ba411ecc6325dd4f0066b60fb48f1b534b28e"/>
+		<rom name="ZC8.VOC" size="63060" crc="299faf44" md5="40f7edb4765b89fe87c6e75f4bf4ec82" sha1="28c4783c9ac286d3efa4d3e9338a5604a43256e6"/>
+		<rom name="ZC9.VOC" size="3043" crc="61254d76" md5="804a066ce4bdd8333447bdf25e917863" sha1="291acfcea4962221ce4b21dd6ef1292585f40bdb"/>
+		<rom name="ZFCIN.ANM" size="3640567" crc="6d1d80f5" md5="f0a8698e1d70172888a8c0a6aa0e29a6" sha1="fee3eb358772ab4ae6c3af940eed6bc7cb4da3a1"/>
+		<rom name="ZWALK5.VOC" size="3043" crc="61254d76" md5="804a066ce4bdd8333447bdf25e917863" sha1="291acfcea4962221ce4b21dd6ef1292585f40bdb"/>
+	</game>
+	<game name="Shadow Warrior - Wanton Destruction (2005) (Sunstorm Interactive) (GOG).dosz">
+		<description>Shadow Warrior - Wanton Destruction</description>
+		<year>2005</year>
+		<developer>Sunstorm Interactive</developer>
+		<variant>GOG</variant>
+		<parent>Shadow Warrior (1997) (3D Realms) (GOG).dosz</parent>
+		<comment>Freeware</comment>
+		<link type="freeware">https://www.gog.com/en/game/shadow_warrior_complete</link>
+		<rom name="Shadow Warrior (1997) (3D Realms) (GOG).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="SW.EXE" size="2324000" crc="ff722cd4" md5="05eedc96112612a3ab0242e01e18b915" sha1="b0076f73a710270537fc39206dedc7120832bd8a"/>
+		<rom name="SYSTM12.FGF" size="2690" crc="7b5220a9" md5="93811b2c2a2e94ebcc1ade2179ebc622" sha1="720cbf5ca05ccab641180ec8fd9caed1e0bce9ff"/>
+		<rom name="SYSTM12B.FGF" size="2690" crc="9d20af21" md5="0c3e24b34591a81cd239a9c50e3eb199" sha1="567a401ed1801252793b85497b5f8f743c77ec45"/>
+		<rom name="Wanton.dat" size="2324000" crc="ff722cd4" md5="05eedc96112612a3ab0242e01e18b915" sha1="b0076f73a710270537fc39206dedc7120832bd8a"/>
+		<rom name="wanton.exe" size="42833" crc="66cfb0a7" md5="920e50ca9407e4ea594e37088f2c2ba2" sha1="3eaec92b0bc577b7870cc4bd2f7a921d8aa2f68f"/>
+		<rom name="wdinfo.txt" size="2827" crc="2f3acabc" md5="459c5065fd462c5f55a232fe7e4024d8" sha1="d3ce39ac4a060c4f5d8083db7cb88b1d9519f3fd"/>
+		<rom name="WT.GRP" size="48698128" crc="a9aaa7b7" md5="d0f8dc0718127ca480abf14f3a9508c2" sha1="6e9e685f7fc30c7c98a42c4f83a424b159ad0619"/>
 	</game>
 	<game name="SimCity 2000 Special Edition (1994) (Maxis) (GOG).dosz">
 		<description>SimCity 2000 Special Edition</description>
@@ -6887,92 +6990,6 @@
 		<rom name="SOUND/ULTRA.DIG" size="9478" crc="430d67f5" md5="000e584a06712d2f2b58eb2e17b65248" sha1="4327d6bb924b4e40fa7ff035bdfb73a879c31836"/>
 		<rom name="SOUND/ULTRA.MDI" size="49672" crc="04849dc3" md5="9a1b881ab9e8f6d827f6c27c5df40d85" sha1="8337ada0962de33ee3eb8ebbf9d5d0c898f41fd2"/>
 	</game>
-	<game name="Twin Dragon (1998) (Level Infinity) (GOG).dosz">
-		<description>Twin Dragon</description>
-		<comment>Freeware</comment>
-		<year>1998</year>
-		<developer>Level Infinity</developer>
-		<variant>GOG</variant>
-		<parent>Shadow Warrior (1997) (3D Realms) (GOG).dosz</parent>
-		<link type="freeware">https://www.gog.com/en/game/shadow_warrior_complete</link>
-		<rom name="$AIRPORT.MAP" size="214374" crc="bd283112" md5="234e29abcaf76d78780c68cc46a3108a" sha1="60b7ec7aec9d22f93f9980f780b03db09bcb2174"/>
-		<rom name="$BATH.MAP" size="301366" crc="11d96953" md5="69216f1916b51848a5eed6c7d1a432fd" sha1="2a879ea784a9bcda885046b2ebd9d4324d9a0505"/>
-		<rom name="$BOAT.MAP" size="166286" crc="5c26a772" md5="326f277c0ad2d5e8b8275e12126d4b19" sha1="d5a4502d4f33fad9e50646f252ad0ba20314f12e"/>
-		<rom name="$DMSHRIN.MAP" size="68002" crc="c26fd2c9" md5="88ac33ec0b646615fef577bc270fa33b" sha1="023f4e3cd66f75a60a7da7e04292bc3da34907f2"/>
-		<rom name="$DMWOODS.MAP" size="83246" crc="b3c19fcf" md5="dabe2d151ce7548d2a2789acfad37a23" sha1="9f08437c6efa1f3c205f235090f294a4166da473"/>
-		<rom name="$GARDEN.MAP" size="221210" crc="4c5c5f35" md5="8894f613c1cda5c4ea7d9d63616f8a87" sha1="efc32d54a1c1827a34ecd82188878f5c950e99a6"/>
-		<rom name="$HIDTEMP.MAP" size="184262" crc="a9a28390" md5="d93aad72acd0c2094b94607da0dff940" sha1="072fa839076f2dd4bd0aaa99ed3bd884e63f0faa"/>
-		<rom name="$NEWMINE.MAP" size="241642" crc="86a0952d" md5="cfc365a01da6f62fa4e2340a807a8a69" sha1="6e08f779e963c1021b48a776c17bcb266961e765"/>
-		<rom name="$OUTPOST.MAP" size="175014" crc="5c0f9625" md5="52d1827e2885e48266760fdc2327d684" sha1="d96ebe1b100c48ab673c92b334dc1c31be8223f3"/>
-		<rom name="$PLAX1.MAP" size="287662" crc="25f00270" md5="e3cfcc7015977c9f84ae4e8c7fd73a3a" sha1="10180ef785bc71e5312d6a60ccd9cf4728803624"/>
-		<rom name="$REFINER.MAP" size="244322" crc="8f52b5ba" md5="78af5556e8ad730d5a514e345f73888b" sha1="37c8dab10ed3af5c775242bf5601e5cfdff0cc54"/>
-		<rom name="$SHORE.MAP" size="176966" crc="6fb2cd10" md5="7bcf5fa37bccb4993fc5ff3d2df6457f" sha1="7078754732240873bdff4aa4cc867c4d5910f5e6"/>
-		<rom name="$TANK.MAP" size="150646" crc="68344e0c" md5="0c119534960fc249bc5488b0f88d051c" sha1="880e28cda684cc59687b78662901a4d3a9f4b6ec"/>
-		<rom name="$VOLCANO.MAP" size="253514" crc="fde1ba8d" md5="ebc40ed12b88c324f193bb6e88e989ec" sha1="a85548adf35c5648b98698785d03495387ac3e06"/>
-		<rom name="$WHIRL.MAP" size="247558" crc="2901aa1b" md5="d2e3428676f2c875bd44ea837da9be08" sha1="35c86feed5acc5972d9b496a412d6239e71de2e3"/>
-		<rom name="AMOEBA03.VOC" size="59754" crc="4458e64a" md5="d59c4ab7e3ef4ee0d259b15f574e861e" sha1="03089e3363afd934dd64759ba5197f021932c027"/>
-		<rom name="BMBFLY.VOC" size="47805" crc="67ce3b1c" md5="75aac1c54d6252331e0005f202ab33d4" sha1="03ec8d5a7c546214bfc45468082ba4e71acafd79"/>
-		<rom name="DRUMCHNT.VOC" size="58670" crc="3d5e82aa" md5="7367f6290bae18b868da92c7d0eb498e" sha1="69b5e991233ede0786aca9ab8fcfb9969f3afb12"/>
-		<rom name="HELI.VOC" size="56921" crc="4ae7bd2d" md5="ac7e972a7f65a7e8078663309344c17e" sha1="eb444a91126f7cc1ebde58c2cc0749bf10b230f3"/>
-		<rom name="JG94024.VOC" size="20674" crc="de3c0de6" md5="2272a6b07d9ef48234bc82393c518826" sha1="64fbc8ff647067ca082637331f63322dae4bf2cf"/>
-		<rom name="JG94039.VOC" size="40172" crc="89aec64e" md5="2ddbf367e474074a8ac3d1841102887e" sha1="445ed2eeab8af7d816118eac65ad11374b270663"/>
-		<rom name="JGEN06.VOC" size="42447" crc="a75efefd" md5="803145d01cfec4c739208c7f56bf436e" sha1="a8351c18311e208f0d2d6163c37f39ba1796315e"/>
-		<rom name="LANI089.VOC" size="27553" crc="e775206c" md5="9e128dcef70f2939979d9efffc389284" sha1="ac7de5992740e2233f1d67ae179be32aa6bda022"/>
-		<rom name="LANI091.VOC" size="91358" crc="badd89a3" md5="30d2aae7ddcaba7829ba5242d867a3ec" sha1="2be20684535445e2e994584998f6c4f984b2863e"/>
-		<rom name="LANI093.VOC" size="26529" crc="cde45eb6" md5="94f401ba0770998a59d60e3f15c8a5e5" sha1="2fc326caa0621660cc32c4625c26b145453b0d2e"/>
-		<rom name="LANI095.VOC" size="34434" crc="1456e5f6" md5="35f27d17a91f74e452d53374e709636a" sha1="f50408d35d9fec25828cb0a5dcb3b5edb23ab09e"/>
-		<rom name="LOADER.IAF" size="194316" crc="9390f29a" md5="0aabac0ccbecdf306fd9046724706e01" sha1="67b3d45d66fdaa8279273bebfd91f1ce441ba820"/>
-		<rom name="LVALRT.VOC" size="22625" crc="ee2ed1e9" md5="dea8446c25f854b0e0635a0a6006d6d0" sha1="af02613e7470e6b153c6da0ffe9c2733c76168d8"/>
-		<rom name="LVAMB.VOC" size="36156" crc="86d98b10" md5="6b6e59ee2b31331c428a2216fe0ac7fc" sha1="a2fdc60fc165049b47bbdc427fc48ccb75aa8b13"/>
-		<rom name="LVEXPL.VOC" size="45601" crc="322981b7" md5="5d889614d5139bf308d23a39dbdc4309" sha1="fe235973b0b84c1aafbb9cd1ea6fbcb012062ba4"/>
-		<rom name="LVFLAME.VOC" size="23649" crc="85a359e7" md5="2eede751b961d3fb6e9254486870165f" sha1="e45ac14e37500248a940c9dc04df2b450ccf638c"/>
-		<rom name="LVMETEOR.VOC" size="68001" crc="aa05b6a3" md5="5bbe5ac8d5a860417cc89cb37c1be2c2" sha1="5e67f8192499ff333f472940109a8fc8af22dcc3"/>
-		<rom name="LVMETEXP.VOC" size="98037" crc="df4b7531" md5="efe47985a83f25aa5a8c8fbc51125c47" sha1="cad368ee1160fa897bb1872e4894be2b168c8aed"/>
-		<rom name="LVPAIN.VOC" size="23329" crc="f87f2372" md5="174ceb76315e53beb2e394ed71434fbe" sha1="97f1a0041dc9e2ca7e29e23c7365002508d4b740"/>
-		<rom name="LVRISE.VOC" size="14945" crc="425428b0" md5="dc083c8b1297a299088ca542e687dc47" sha1="3d417a8908ede6b3a77d593394c80826774cfd90"/>
-		<rom name="LVSIZZLE.VOC" size="9169" crc="5fb9eb67" md5="22e535e034c7e78fc1089307af29333c" sha1="6b84dc81ec5a07be884abdbabcff5f8de008576a"/>
-		<rom name="LVSWIM.VOC" size="39155" crc="dcd88298" md5="4452e8a48caf1319ba17fe530af52530" sha1="edeedcc9bce0bf1f59eb7e9806c41fe2d2060375"/>
-		<rom name="README.TXT" size="8199" crc="bf8383a5" md5="fc956907b1f3719588d5b187fc23b981" sha1="bcdee7f8e3f178a51323c617fa75730f2dcf75d5"/>
-		<rom name="Shadow Warrior (1997) (3D Realms) (GOG).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="SPALRT.VOC" size="18322" crc="aeb30735" md5="707f53c1f266d809314c0ab57d68d873" sha1="e9d7c602518d9706ba3fce393d957b97dca5605a"/>
-		<rom name="SPAMB.VOC" size="12651" crc="0e53378f" md5="103f49d710c0c3523027caf7de5bbcab" sha1="2c76d4440cec825d1f32bd7cf2229afde029f3ab"/>
-		<rom name="SPBLADE.VOC" size="69313" crc="fbd01cc3" md5="c5d046856c422d3ccdf6316e10e750c3" sha1="deccc0ff67e6b1ceda430651ea04af2e94d4f52e"/>
-		<rom name="SPELEC.VOC" size="36156" crc="86d98b10" md5="6b6e59ee2b31331c428a2216fe0ac7fc" sha1="a2fdc60fc165049b47bbdc427fc48ccb75aa8b13"/>
-		<rom name="SPOOKY1.VOC" size="52966" crc="255f38f5" md5="08d12b0bec3b7d2728660bfdaac31c21" sha1="2d01a405d16b1ff090e835607e59276a0089e41e"/>
-		<rom name="SPPAIN.VOC" size="22625" crc="0d056a12" md5="9e65f6e0decc03827cff9fd35f168e96" sha1="60eb2b24c62d96271e96cc6c81f1bfe886192e4c"/>
-		<rom name="SPSCRM.VOC" size="51489" crc="3f937501" md5="f2a68555c5614c151bd60d5a68df7261" sha1="f23fafafdd3303533f934eca116b63b2b9307e97"/>
-		<rom name="SPTLPRT.VOC" size="45345" crc="2dd8365f" md5="79203d597960bc49c1713d6bf3bc4dc9" sha1="480d0d91dfab44bff422a386f970b8889df0fb40"/>
-		<rom name="Sw.exe" size="2323389" crc="9f8cf135" md5="8e72552546ba805867245ecc683f21d7" sha1="41e453ac6fac1ba0d9e81870561272efd49bc3da"/>
-		<rom name="TANK.MAP" size="95030" crc="ef7aba9b" md5="28917d0947391913cce846ae0aa92dc1" sha1="72e2d2fcfdb54f3694a47b3f914fe7450a63c6ac"/>
-		<rom name="TDRAGON.EXE" size="82345" crc="0f6eb544" md5="d5bd282cfc98e1789c88ede604c285a8" sha1="ea349ba313fde3aaa60223ccc2e72aec1bc811e7"/>
-		<rom name="TILES021.ART" size="1038873" crc="d8db337f" md5="33798c3efa82949930c498088663072c" sha1="6a7df92d5890c89483bb279de4023953f3a3c0f2"/>
-		<rom name="TILES022.ART" size="2378886" crc="69a81f1d" md5="dd5ce3771b1082b216a4e2d89b3f321b" sha1="758c7142daa5b9729110111cb771824c1d5722fc"/>
-		<rom name="TILES023.ART" size="223248" crc="d2f63afe" md5="3d41dd8123db25f8331ba7df2023564f" sha1="e8eec3eef148d961b93aaf47d0230f744d9d47f6"/>
-		<rom name="VOID1.VOC" size="75937" crc="e29325d6" md5="42a043caa5e9054743152bea5b837781" sha1="46dd235ab1ec28886327dd0edd2e28d673aeb8dc"/>
-		<rom name="VOID2.VOC" size="9390" crc="704e4cfe" md5="158f7cad4693409a0ba0b22a989a259e" sha1="9c509625f44620a6fae4791b1dc28f241841d9d5"/>
-		<rom name="VOID4.VOC" size="22083" crc="d38461d2" md5="28b7794811b40c6e182407fd4ac9d3f9" sha1="06cd0eb62cdca5229dbd6f61c1780863d768a813"/>
-		<rom name="VOID5.VOC" size="46611" crc="bb56cfa1" md5="9d52ecb5efca8c77b0dcfca723f8ea97" sha1="3263fb97a8f2c14bc4ffd6632de554d1fd4ed206"/>
-		<rom name="WIND4.VOC" size="48375" crc="1e747c0c" md5="80ea6d63e884123391da7f7410b3c04a" sha1="2b67287ce3842e385d6280bbb3a9807e86af9403"/>
-		<rom name="Z16004.VOC" size="29025" crc="ead343c1" md5="744916bb3aa6c73d3bbb23de95ca2ab2" sha1="f182ac4f93a4426d0ccc0a1c85d170087715a336"/>
-		<rom name="Z16012.VOC" size="21033" crc="065866d0" md5="3c94b0c15f6db9a708a62e007588598b" sha1="fbd8a9de1f89ce82603cddf46d26b8f8238288f9"/>
-		<rom name="Z16022.VOC" size="38450" crc="c0c70b16" md5="cf1ad208169401cf4f12c8a690db5c08" sha1="48fa20e69ea261b391989feba2a7577ab4fa3b35"/>
-		<rom name="Z16027.VOC" size="32928" crc="9fdbd48a" md5="a4d12f258cf8027f4aaf40c109214456" sha1="4494bac0543d7e030e8f74ac22259fc1928ce616"/>
-		<rom name="Z16043.VOC" size="21722" crc="bfc4cf91" md5="a6bb1094264e9ac87bc4613d220699e2" sha1="498b1d4976c35e1a46e4a8d011785775f452818a"/>
-		<rom name="Z17010.VOC" size="18977" crc="3dde373f" md5="94cbcb9c975396f89ec883b30e9f4e34" sha1="20c59a3da18ed40cd502cd1ee60f18d91cf9f0c3"/>
-		<rom name="Z17025.VOC" size="21722" crc="bfc4cf91" md5="a6bb1094264e9ac87bc4613d220699e2" sha1="498b1d4976c35e1a46e4a8d011785775f452818a"/>
-		<rom name="Z17052.VOC" size="9921" crc="5796d2a7" md5="cfb3d3034255ed1bfbcd550d255ae685" sha1="25edaa546e0cd02cc1ef28926a3c3b978f7530a9"/>
-		<rom name="ZC1.VOC" size="21033" crc="065866d0" md5="3c94b0c15f6db9a708a62e007588598b" sha1="fbd8a9de1f89ce82603cddf46d26b8f8238288f9"/>
-		<rom name="ZC2.VOC" size="38671" crc="2b4c46db" md5="67ef5a67c47c480e10f04d36c2dcda9a" sha1="65a5b1edf2ac4846dc0dfbc1671fa4d1f0350b8f"/>
-		<rom name="ZC3.VOC" size="36177" crc="a8e9ad33" md5="41c7e1a0fdcd2bb743a4d612cd9689e6" sha1="8821d964d9f7975634f0b1ff34bb31ac1a5d320c"/>
-		<rom name="ZC4.VOC" size="36177" crc="a8e9ad33" md5="41c7e1a0fdcd2bb743a4d612cd9689e6" sha1="8821d964d9f7975634f0b1ff34bb31ac1a5d320c"/>
-		<rom name="ZC5.VOC" size="36177" crc="a8e9ad33" md5="41c7e1a0fdcd2bb743a4d612cd9689e6" sha1="8821d964d9f7975634f0b1ff34bb31ac1a5d320c"/>
-		<rom name="ZC6.VOC" size="36177" crc="d678fe6b" md5="695a13a38e957ae25035c95920c26a4f" sha1="29f5604a730ff65f46c7b1744d7c1c2690945050"/>
-		<rom name="ZC7.VOC" size="44609" crc="1f790093" md5="1e50cc70b8c7a2da447256284e9c66ef" sha1="537ba411ecc6325dd4f0066b60fb48f1b534b28e"/>
-		<rom name="ZC8.VOC" size="63060" crc="299faf44" md5="40f7edb4765b89fe87c6e75f4bf4ec82" sha1="28c4783c9ac286d3efa4d3e9338a5604a43256e6"/>
-		<rom name="ZC9.VOC" size="3043" crc="61254d76" md5="804a066ce4bdd8333447bdf25e917863" sha1="291acfcea4962221ce4b21dd6ef1292585f40bdb"/>
-		<rom name="ZFCIN.ANM" size="3640567" crc="6d1d80f5" md5="f0a8698e1d70172888a8c0a6aa0e29a6" sha1="fee3eb358772ab4ae6c3af940eed6bc7cb4da3a1"/>
-		<rom name="ZWALK5.VOC" size="3043" crc="61254d76" md5="804a066ce4bdd8333447bdf25e917863" sha1="291acfcea4962221ce4b21dd6ef1292585f40bdb"/>
-	</game>
 	<game name="Ultimate Doom, The (1995) (id Software) (GOG).dosz">
 		<description>Ultimate Doom, The</description>
 		<comment>Doom v1.9, DeathManager v1.5</comment>
@@ -7001,23 +7018,6 @@
 		<variant>Steam</variant>
 		<rom name="DOOM.EXE" size="715493" crc="b5ceb8ac" md5="742a5f9953871687341e3794468894d8" sha1="64e6df0ee478868b42d5eb7d443430283b0ddc0c"/>
 		<rom name="DOOM.WAD" size="12408292" crc="bf0eaac0" md5="c4fe9fd920207691a9f493668e0a2083" sha1="9b07b02ab3c275a6a7570c3f73cc20d63a0e3833"/>
-	</game>
-	<game name="Wanton Destruction (2005) (Sunstorm Interactive) (GOG).dosz">
-		<description>Wanton Destruction</description>
-		<comment>Freeware</comment>
-		<comment_dosc>Single player mode and auto start</comment_dosc>
-		<year>2005</year>
-		<developer>Sunstorm Interactive</developer>
-		<variant>GOG</variant>
-		<parent>Shadow Warrior (1997) (3D Realms) (GOG).dosz</parent>
-		<link type="freeware">https://www.gog.com/en/game/shadow_warrior_complete</link>
-		<rom name="Shadow Warrior (1997) (3D Realms) (GOG).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="SYSTM12.FGF" size="2690" crc="7b5220a9" md5="93811b2c2a2e94ebcc1ade2179ebc622" sha1="720cbf5ca05ccab641180ec8fd9caed1e0bce9ff"/>
-		<rom name="SYSTM12B.FGF" size="2690" crc="9d20af21" md5="0c3e24b34591a81cd239a9c50e3eb199" sha1="567a401ed1801252793b85497b5f8f743c77ec45"/>
-		<rom name="Wanton.dat" size="2324000" crc="ff722cd4" md5="05eedc96112612a3ab0242e01e18b915" sha1="b0076f73a710270537fc39206dedc7120832bd8a"/>
-		<rom name="wanton.exe" size="42833" crc="66cfb0a7" md5="920e50ca9407e4ea594e37088f2c2ba2" sha1="3eaec92b0bc577b7870cc4bd2f7a921d8aa2f68f"/>
-		<rom name="wdinfo.txt" size="2827" crc="2f3acabc" md5="459c5065fd462c5f55a232fe7e4024d8" sha1="d3ce39ac4a060c4f5d8083db7cb88b1d9519f3fd"/>
-		<rom name="WT.GRP" size="48698128" crc="a9aaa7b7" md5="d0f8dc0718127ca480abf14f3a9508c2" sha1="6e9e685f7fc30c7c98a42c4f83a424b159ad0619"/>
 	</game>
 	<game name="X-COM - Terror from the Deep (1995) (Microprose) (Steam).dosz">
 		<description>X-COM - Terror from the Deep</description>
