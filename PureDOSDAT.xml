@@ -14805,6 +14805,71 @@
 		<rom name="ROGUE.PIC" size="16391" crc="57106c0e" md5="afb883b611c35f79f2a5168365349ba7" sha1="954278268827812fce8d8bde04954a9c3b828a48" date="1985-03-25 16:53:10"/>
 		<rom name="ROGUE.SCR" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
+	<game name="Shadow Warrior (1997) (3D Realms).dosz">
+		<description>Shadow Warrior</description>
+		<year>1997</year>
+		<developer>3D Realms</developer>
+		<comment>Installed v1.2 from CD. Audio tracks converted with CHDtoOGG using -n option</comment>
+		<comment_dosc>Sound Blaster 16 config, 640x480 resolution, and auto start</comment_dosc>
+		<link type="media">http://redump.org/disc/2010/</link>
+		<rom name="CD/Shadow Warrior (USA) (Track 1).bin" size="43008" crc="10d89042" md5="73db37b47ede9da7e9fbaae52c6c8a8b" sha1="8a2846aac1e2ceb8a08a9cd5591e9a85228d5cab"/>
+		<rom name="CD/Shadow Warrior (USA) (Track 2).ogg" size="6104316" crc="3985ddec" md5="f5e6a199b879c103e506fa8a927693a4" sha1="8a43143995583f91c37b42c64f31f1d9131c47c9">
+			<source type="AUDIO" frames="13191" omitted_pregap="150" duration="02:55:66" size="31025232" crc="3d2b7f51" md5="2e3e5609b65c5f7a0b5c81f686e37fae" sha1="d4d8b25ff34ddc5559eb782030bbcca97981e54f" in_zeros="0" out_zeros="1988" quality="8"/>
+		</rom>
+		<rom name="CD/Shadow Warrior (USA) (Track 3).ogg" size="1703701" crc="4c10eefe" md5="a41879c670587e4545518af2a5c9bcf7" sha1="3bb10448c7f30fbfccafb297e3e9ead5cf3a618b">
+			<source type="AUDIO" frames="4945" duration="01:05:70" size="11630640" crc="51eb6388" md5="c215feb8eebb1dfe556aa1332f207dd5" sha1="a932c5ab963864f69960381c195c9dd3d54e3ac8" in_zeros="0" out_zeros="2097" quality="8"/>
+		</rom>
+		<rom name="CD/Shadow Warrior (USA) (Track 4).ogg" size="6114572" crc="c9dbd561" md5="db9b3212ac9009a5dfca2364a13a538d" sha1="a354b428584867bc8f5c3d3755d9efdb5e906bcf">
+			<source type="AUDIO" frames="13757" duration="03:03:32" size="32356464" crc="4941e40a" md5="f3cf6536d065d868253bc2327d651823" sha1="ac5d61fd6d169d7aec75a6efa5748cc1def73cec" in_zeros="0" out_zeros="129" quality="8"/>
+		</rom>
+		<rom name="CD/Shadow Warrior (USA) (Track 5).ogg" size="7128499" crc="61dedabb" md5="507990a2ca69a6dda7d7534c05e07dd0" sha1="22f5ae04eb9ab0c273899b5fc656702689c67848">
+			<source type="AUDIO" frames="16900" duration="03:45:25" size="39748800" crc="da96ac7f" md5="d4155fc4eef5e86c645b0cd4e0a8d0e9" sha1="969fc1cf8719f21655a7b2944941dd428189e04a" in_zeros="0" out_zeros="133681" quality="8"/>
+		</rom>
+		<rom name="CD/Shadow Warrior (USA) (Track 6).ogg" size="5493285" crc="c7a829c6" md5="32caafa60345d297fb5268f06866f0bc" sha1="45ff4dc6433f72cf2d3fa830382457103752e1ab">
+			<source type="AUDIO" frames="14835" duration="03:17:60" size="34891920" crc="27da1997" md5="0d4fc03c180c0fd9486f75160b38674f" sha1="5e3f038e3f18ec19bf49086186253245feb76a80" in_zeros="0" out_zeros="6714" quality="8"/>
+		</rom>
+		<rom name="CD/Shadow Warrior (USA) (Track 7).ogg" size="4032138" crc="f50e4001" md5="fc065954e46fb8f03ccd18e3dbc984ca" sha1="9f0ffc26ef8eb22ae4410256995048255a18d838">
+			<source type="AUDIO" frames="11850" duration="02:38:00" size="27871200" crc="dfca5660" md5="5941b368c2e082f7de8908b8cda883c5" sha1="0a639edc2393950340e17eaedfff596d81d9a74e" in_zeros="110" out_zeros="9936" quality="8"/>
+		</rom>
+		<rom name="CD/Shadow Warrior (USA) (Track 8).ogg" size="6213721" crc="edfa28b2" md5="4715fc405da7ff6bfa2a41de0ff97239" sha1="deb199b146d9165f7710c221ebb346adf77385fe">
+			<source type="AUDIO" frames="15770" duration="03:30:20" size="37091040" crc="5d149581" md5="c405a0af0e3fe1fa83d24d05b54dcd36" sha1="665d98fec0611112d44d81b1f9315778212f7eb4" in_zeros="0" out_zeros="2209" quality="8"/>
+		</rom>
+		<rom name="CD/Shadow Warrior (USA) (Track 9).ogg" size="6577235" crc="6ba15b30" md5="26cb9db354f61efa601b09d5aa55ce74" sha1="779ee784ea72b95ac33032a84396d8bcc0d722ab">
+			<source type="AUDIO" frames="16193" duration="03:35:68" size="38085936" crc="2e3b4080" md5="31c70f7c572c81c766650612187902be" sha1="0fc9eb0ebf61318284a15dcd78d24098e5b368bf" in_zeros="0" out_zeros="525" quality="8"/>
+		</rom>
+		<rom name="CD/Shadow Warrior (USA) (Track 10).ogg" size="5711880" crc="93a1fec8" md5="a89204372cea60a43a28c4c413aa25d6" sha1="016c530302646a20418c7970fbca316779ce87ec">
+			<source type="AUDIO" frames="17102" duration="03:48:02" size="40223904" crc="6a2fca38" md5="a880361cd809f1ebb466201d54220801" sha1="22d9feff316c6e276f23fce3933ce58d3444be21" in_zeros="0" out_zeros="36400" quality="8"/>
+		</rom>
+		<rom name="CD/Shadow Warrior (USA) (Track 11).ogg" size="5947964" crc="9459f18b" md5="17bd73f8321e57dc5411280f1276de03" sha1="7f89ebd0dd01340f9726d3365996112e941cd512">
+			<source type="AUDIO" frames="18056" duration="04:00:56" size="42467712" crc="0d8f51bc" md5="33ef9969c6bde475f16d04d89bd7fb8b" sha1="db273af528982db3f33fd536ad24da9a55e48451" in_zeros="423446" out_zeros="315800" quality="8"/>
+		</rom>
+		<rom name="CD/Shadow Warrior (USA) (Track 12).ogg" size="6767807" crc="224b2c04" md5="84c3dc80340047012244856347b8996f" sha1="c36600f14c8654a044eef94ef04386f1b2fa81a5">
+			<source type="AUDIO" frames="18891" duration="04:11:66" size="44431632" crc="69998d96" md5="5b36975dbd4c81971fac084901ff6a2b" sha1="1632ce0960cc877e5e2c2c8d5fedb48983251f08" in_zeros="236" out_zeros="541" quality="8"/>
+		</rom>
+		<rom name="CD/Shadow Warrior (USA) (Track 13).ogg" size="11176860" crc="e007d8a9" md5="15fba1e7715c24ea90e01cec49bb909e" sha1="a9ae6fde7f65ffedddf9a43af7ebc9f21be872c6">
+			<source type="AUDIO" frames="22566" duration="05:00:66" size="53075232" crc="80c534dc" md5="77652f0b856aa9b81d2c4d8c14ce3690" sha1="faedf0331a1756c2e9a4d3f27873167aced2f9a1" in_zeros="3116" out_zeros="1704" quality="8"/>
+		</rom>
+		<rom name="CD/Shadow Warrior (USA) (Track 14).ogg" size="5326608" crc="80635924" md5="6466bf485cc6e80999c44d8e5df6057f" sha1="18cf85a7f66a6e8a98fdc23d7013266bf0987c45">
+			<source type="AUDIO" frames="11473" duration="02:32:73" size="26984496" crc="0f6fc9f8" md5="a62c7a079721338e2a9779631a5335cd" sha1="b74c17a51914e79d8a4f6ddda9c602bf6e753fe1" in_zeros="0" out_zeros="11144" quality="8"/>
+		</rom>
+		<rom name="CD/Shadow Warrior (USA).cue" size="1266" crc="de08dbc6" md5="aa69b248d06445b8756e45fc41df8de5" sha1="56b2ce4c85cfa8988c68565b42620c8b63607168"/>
+		<rom name="COMMIT.EXE" size="76554" crc="80deedcc" md5="6bb54698231ec5490c5933af8cb5d7d3" sha1="8832f0fc61f7286b14cac0cd1ff0a56e179c5d6f" date="1997-08-25 13:20:00"/>
+		<rom name="CREDITS.TXT" size="2618" crc="076a576f" md5="f283f74b6a355f926f615abfb4e7bd77" sha1="74af548e6c9705af2e607b189596ed69068c6555" date="1997-08-25 13:20:00"/>
+		<rom name="INSTALL.TXT" size="7472" crc="9ac5181a" md5="373e4f4d52197ddf4d1414a8dc96ef15" sha1="17a9dd8f26374ec9bdbee47d1c0b4dcb6e306d96" date="1997-08-25 13:20:00"/>
+		<rom name="LICENSE.DOC" size="4925" crc="d54a5945" md5="d465cc1044ec177a09a5ce9893dd0f60" sha1="81aca99fb886ceaa580d8260c834a427d22ac33f" date="1997-08-25 13:20:00"/>
+		<rom name="LICENSE.TXT" size="4925" crc="d54a5945" md5="d465cc1044ec177a09a5ce9893dd0f60" sha1="81aca99fb886ceaa580d8260c834a427d22ac33f" date="1997-08-25 13:20:00"/>
+		<rom name="MODEM.PCK" size="4336" crc="4374403f" md5="7c95c3c1a6437aa861c35ce7442e3572" sha1="6b1796f07bd439adcdea026ec859cafd49863aa1" date="1997-08-25 13:20:00"/>
+		<rom name="ORDER.FRM" size="4313" crc="8b4cff53" md5="2070ab4671ce56116bf4a8a57d3fe339" sha1="d26926e4fa908212506c2c10612659d1033b348a" date="1997-08-25 13:20:00"/>
+		<rom name="ORDERFRM.TXT" size="4313" crc="8b4cff53" md5="2070ab4671ce56116bf4a8a57d3fe339" sha1="d26926e4fa908212506c2c10612659d1033b348a" date="1997-08-25 13:20:00"/>
+		<rom name="SETMAIN.EXE" size="762618" crc="bfa220f0" md5="4e553d9b7184e20b2f3f3b40322db6df" sha1="a6cc244e9cd1631de99ae7d15cb232c28afc185d" date="1997-08-25 13:20:00"/>
+		<rom name="SETUP.EXE" size="27153" crc="f8dbc57d" md5="faa2b2804f9fdafdd57ea9def319e19a" sha1="7110b4b66e5823527750dcda2a8df5939a978c9b" date="1997-08-25 13:20:00"/>
+		<rom name="SW.EXE" size="2323389" crc="01cad068" md5="0c76df2d8556d688224c6f4c0767d09c" sha1="c61350cd8d8190819f454ccca3160c547824dce4" date="1997-08-25 13:20:00"/>
+		<rom name="SW.GRP" size="47536148" crc="7545319f" md5="9d200b5fb4ace8797e7f8638c4f96af2" sha1="4863226c01d0850c65ac0a3e20831e072b285425" date="1997-08-25 13:20:00"/>
+		<rom name="SW.PCX" size="9632" crc="436f0241" md5="981c7c8d227a426d20082ed16ea6f137" sha1="89cb31523defc3edf114097ddde7ef86ea2cca3e" date="1997-08-25 13:20:00"/>
+		<rom name="SW.RTS" size="267626" crc="85d116fd" md5="1f48ec3115cec3dfa45ab1673a8ffcb1" sha1="6b9a48371e7911ac9d879f89230ac8ac5ac10f5b" date="1997-08-25 13:20:00"/>
+		<rom name="SWHELP.EXE" size="79378" crc="e642446e" md5="3f32eb6839f12d50cb312a45cc7941b7" sha1="d5bcbdfd1a0831e249ed9c5772719f3e9cfd41f8" date="1997-08-25 13:20:00"/>
+		<rom name="ULTRAMID.INI" size="6975" crc="fb3c540d" md5="ebca78c65b277709b353581ec8a53cc9" sha1="57d904d4ae0121f0c4d1c1e2a195bd89f438e95b" date="1997-08-25 13:20:00"/>
+	</game>
 	<game name="Shadowgate (1987) (ICOM Simulations).dosz">
 		<description>Shadowgate</description>
 		<comment>Extracted from floppy dump with unknown modification, patched to run from hard drive and fix an in-game crash, DOS.YML fixes CGA machine to make keyboard input work</comment>
