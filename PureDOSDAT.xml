@@ -5722,6 +5722,23 @@
 		<rom name="WARWICK.LVL" size="1485652" crc="5cd386b6" md5="95072be8629dc9824d7e8b6f9f98020b" sha1="161b65aef4652150a9ddcc8e7bbbb9390c5d6aa8" date="1995-06-26 11:00:44"/>
 		<rom name="XANADU.LVL" size="1450054" crc="0b847100" md5="7362eab99b695d1be763c305a0eee1ef" sha1="cc0ce8ee35b3343b94b275c53567539834bb9267" date="1995-06-26 11:12:36"/>
 	</game>
+	<game name="Cyclemania (1994) (Compro Games).dosz">
+		<description>Cyclemania</description>
+		<comment>Installed using Redump-verified CD-ROM: Cyclemania (USA, Europe)</comment>
+		<comment_dosc>Has config files, sets CPU year to 1994, mounts disc, and auto-starts</comment_dosc>
+		<year>1994</year>
+		<developer>Compro Games</developer>
+		<link type="media">http://redump.org/disc/20451/</link>
+		<rom name="CYCLE.BAT" size="89" crc="273c5932" md5="cd194cee3feac161686c6c1909019d7f" sha1="ec335137f10694649b0562a1272f558f1fb50731"/>
+		<rom name="Cyclemania (USA, Europe).chd" size="495279360" crc="2b0dd769" md5="de5c179dc1d43c7e2566b95e0ed7a9e3" sha1="190439dff3c79f59e2efa67d513cd2e1240aa61f">
+			<track number="1" type="MODE1_RAW" frames="202266" pregap="0" duration="44:56:66" size="475729632" crc="63bd1239" md5="02915301466a16fbeb048c3d9daa95f2" sha1="49ca602ed1341713c96cde3351d789721a6a6e71"/>
+		</rom>
+		<rom name="JOYSTICK.DAT" size="24" crc="339eba72" md5="bce3eca38ffdaace7c7b3fc6a8ee08b3" sha1="31a18666a4ada9a645ce2be7dbf956a9733c749e"/>
+		<rom name="MGP2.EXE" size="619007" crc="bed6f3d8" md5="ea6e60a00e095d6ca21bb95d8ed168c5" sha1="7ad42952e8053ca9612006451233ad55f4818b1f"/>
+		<rom name="SETUP.EXE" size="312520" crc="c9bb1519" md5="026fa4109e505d58a0f08155c01e60db" sha1="b3bd99577852d17d93ca466b2b204c0de413eade"/>
+		<rom name="UNIVBE.EXE" size="74412" crc="ed783ca9" md5="62104ec206d4d9444170631cacf07064" sha1="7ab6a62c458dc16ab8af4040e3bca16850e46c0e"/>
+		<rom name="VESA.EXE" size="15325" crc="d21a23c3" md5="841e5bd5387882db9e92088f2e7abaa7" sha1="bb60527e541307004733333c132bc076e5b5a1cd"/>
+	</game>
 	<game name="D-Generation (1991) (Mindscape).dosz">
 		<description>D-Generation</description>
 		<comment>English VGA version, files from CD version</comment>
