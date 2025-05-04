@@ -15100,6 +15100,17 @@
 		<rom name="SNDSETUP.EXE" size="5756" crc="24487a35" md5="cabf455c9b27c6f0a6cc717837f3900c" sha1="1f5c2d087bff24532dfd81b47e39acd4b2502535" date="1995-08-01 13:30:00"/>
 		<rom name="WOLF3D.RTL" size="15096" crc="ad0c5d7b" md5="d548bd38148553107d63bcde698be0a2" sha1="5ddb75a4a00ab4b207d0f7ea142918057accf88a" date="1995-07-24 17:30:00"/>
 	</game>
+	<game name="Risky Woods (1992) (Electronic Arts).dosz">
+		<description>Risky Woods</description>
+		<comment>Matches TDC Entry Risky Woods v1.1E (1992)(Electronic Arts, Inc.) [Action]</comment>
+		<comment_dosc>Sets CPU year to 1992, has config, MT-32 option, and auto-starts</comment_dosc>
+		<year>1992</year>
+		<developer>Electronic Arts</developer>
+		<rom name="RISKY.000" size="1184635" crc="fbc2ac6c" md5="04878382437436f65acb118f89742379" sha1="64cb97375b3376ecd1d56dbf36e4123f8be8e699" date="1992-09-28 17:44:00"/>
+		<rom name="RISKY.DIR" size="6639" crc="e487ab79" md5="9d2abc318109192b6ce9a3ab7b13c1cf" sha1="81dc553b31bd3ea73bd34ce644442653d6e404ba" date="1992-09-28 17:44:00"/>
+		<rom name="RISKY.EX_" size="86816" crc="dae60843" md5="97b197d547a31a5c776c6b2fa4599219" sha1="eb7a70622e2091d1e00dc032d522310406ba8e9d" date="2019-12-10 20:24:06"/>
+		<rom name="RISKY.EXE" size="86816" crc="61cd061e" md5="5ee3cf74abebd8a8d781f0a284105fec" sha1="84b36fee334d998ecff732c1195801ccc1fb8fe4" date="2019-12-10 20:25:52"/>
+	</game>
 	<game name="Rogue (1984) (A.I. Design).dosz">
 		<description>Rogue</description>
 		<comment>Version 1.49</comment>
