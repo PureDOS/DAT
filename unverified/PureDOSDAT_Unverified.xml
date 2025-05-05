@@ -12919,6 +12919,382 @@
 		<rom name="TRANS2.EXE" size="71200" crc="578cb9a2" md5="58506c1f5d9440b6f2f54c3062c4f52d" sha1="3a4b3d6ddfe8cc7794ab59c8712b186ec97cbf8e"/>
 		<rom name="Wing Commander - The Secret Missions (1990) (Origin Systems).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
+	<game name="Wing Commander II - Vengeance of the Kilrathi (1991) (Origin Systems).dosz">
+		<description>Wing Commander II - Vengeance of the Kilrathi</description>
+		<comment>
+			Installed from Wing Commander &amp; Wing Commander II Special CD-ROM Edition, then copied files from disc.
+			Installation options:
+				Sound: Sound Blaster
+				Digitized speech enabled
+				DMA 1
+			WC2.CFG needs to exist or INSTALL.EXE will try to reinstall the game.
+			Also matches with GOG, except for WC2.CFG
+		</comment>
+		<comment_dosc>Required WC2.CFG file, game speed reduced, and auto start. MT-32 option</comment_dosc>
+		<year>1991</year>
+		<developer>Origin Systems</developer>
+		<rom name="GAMEDAT/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1993-03-10 15:45:00"/>
+		<rom name="GAMEDAT/ALTINT.001" size="105" crc="d6e4bf2e" md5="b377f34203b91cdd7f178421c03db400" sha1="e6f1a0ec80f3470d3071e71aafaecd9c3054da9d" date="1992-06-29 01:27:44"/>
+		<rom name="GAMEDAT/ALTSHIPS.000" size="1490" crc="84a679e4" md5="98ad6c1dd163b63a562facccb15e9b21" sha1="9949620b91ad1ba8fa0288f386c62cc439b694dd" date="1992-06-29 01:27:32"/>
+		<rom name="GAMEDAT/ARROW.VGA" size="513" crc="17cf4a4f" md5="ab206d51dd9a6190b2c9f9aea195a6cb" sha1="59a552bd9437e8f8520fd3349d84118e158267d6" date="1992-06-29 01:27:08"/>
+		<rom name="GAMEDAT/ARTDATA.V00" size="493538" crc="b4e92943" md5="06290fd5687caf4ffb2120d9e4e3dbbb" sha1="5d0a2b5af1610e158cc404fb576a530edcce97bf" date="1992-06-29 00:54:38"/>
+		<rom name="GAMEDAT/BRIEF.PAL" size="670" crc="2df5db07" md5="5dc083e230fdbdbdb946d49cb0f0d3aa" sha1="d5d1b832d3f122d92d64e0638223a117db742872" date="1992-06-29 00:50:52"/>
+		<rom name="GAMEDAT/BRIEFING.V00" size="82922" crc="e1f3347c" md5="cd29c2d7be38edee63f90c2b3f2ea4a1" sha1="b75e3b347b48974abacad618f10ad1fc7ddeef5f" date="1992-06-29 01:19:56"/>
+		<rom name="GAMEDAT/BUTTONS.V00" size="7260" crc="bb4c4bcb" md5="c062da90e360cafb6dcf5f86e1662e3f" sha1="8737cdcf9d0a113ebe0e578d5a07017445ef79e3" date="1992-06-29 01:24:10"/>
+		<rom name="GAMEDAT/CAMP.000" size="1706" crc="7c627b40" md5="dc19bef98516a239d317e9ddd24c5f41" sha1="cac85508f643e57d755f2666e91a79db9b4ad116" date="1992-06-29 01:23:32"/>
+		<rom name="GAMEDAT/CAMPAIGN.S00" size="20768" crc="478940e0" md5="a8853fd11c070523e7b1edc962952f9a" sha1="d0a5c4fc352d931ed06a0f73baa3c28330ace694" date="1992-06-29 01:23:08"/>
+		<rom name="GAMEDAT/CLOSEUP.V00" size="605276" crc="f43ae5e5" md5="930e9bea2df5507e4d9894446f7210d8" sha1="28b3b2c33eb39978a3a4448d4986ea4fd17eb4c3" date="1992-06-29 00:56:52"/>
+		<rom name="GAMEDAT/COCKPIT.VGA" size="26101" crc="1998cdeb" md5="92d29dc5729b48be7380121a4ef80a13" sha1="d5940dae859501d9f05a5af6f2eac55a40295ae2" date="1992-06-29 01:23:08"/>
+		<rom name="GAMEDAT/COMMUNIC.S01" size="210683" crc="5c443068" md5="88511151922d983a392605a7b7db513a" sha1="e6a1fce035a2f940833fdbbbbc8abba39c3a6146" date="1992-06-29 02:58:06"/>
+		<rom name="GAMEDAT/COMMUNIC.S03" size="195983" crc="29e3f2bb" md5="56015048b5a3999b19f43ddd42f52677" sha1="a6dc6db4aac441c192556b769a41f14ca3bd0032" date="1992-06-29 03:01:40"/>
+		<rom name="GAMEDAT/COMMUNIC.S04" size="238583" crc="812e2d82" md5="3762ce40479518272d68b82712632212" sha1="c1a0ab84e49ffdd97b9bb8066f3e62adf78daf3f" date="1992-06-29 03:02:08"/>
+		<rom name="GAMEDAT/COMMUNIC.S06" size="384149" crc="4fdeed60" md5="954c04c88ef14fd886b0c7a152b7e7aa" sha1="065a066b2c6301ad2e9f735eae3afa06b1463819" date="1992-06-29 02:53:04"/>
+		<rom name="GAMEDAT/COMMUNIC.S08" size="82002" crc="4c451815" md5="47300f7c977e94f445c2bba4980c06a2" sha1="ce7a7b4d55b072e06bf0ae06b38f08a77d972420" date="1992-06-29 03:01:12"/>
+		<rom name="GAMEDAT/COMMUNIC.S09" size="357083" crc="55112872" md5="85f82e689214e3b1b7ac79beffa8d577" sha1="ce884a2d517050a815944a1da4ece0b13546d243" date="1992-06-29 02:54:28"/>
+		<rom name="GAMEDAT/COMMUNIC.S11" size="179182" crc="f38a7cbc" md5="fea98168a4f0f74e729765e4f3ade7c7" sha1="92e158c4e8845b1a3326b17f0ce0f670b05656dc" date="1992-06-29 02:53:58"/>
+		<rom name="GAMEDAT/COMMUNIC.S12" size="150734" crc="fa309619" md5="7332e9bb5cfa9bc01920cee9d0c474b8" sha1="2b23acc64ed7e71f4e2d0d836c2b95b8872d1ea7" date="1992-06-29 02:56:44"/>
+		<rom name="GAMEDAT/COMMUNIC.S14" size="166583" crc="8ce449ca" md5="f12ea99c9d0f339d6f8db69293475952" sha1="c954c133861d0e4e1d28f6276c9229d075c56f55" date="1992-06-29 02:55:16"/>
+		<rom name="GAMEDAT/COMMUNIC.S15" size="126403" crc="8cbdb4ec" md5="2eb02bebc1f749f7c989845d4541f4be" sha1="f136906747c3dfaa8b1578dab0c358d690876871" date="1992-06-29 02:55:38"/>
+		<rom name="GAMEDAT/COMMUNIC.S16" size="123103" crc="d7cd6b27" md5="da0239d40706a19175cc607c8d3d476c" sha1="eea8168e22e0aeda771aa54b7b7ed7c84a3761d1" date="1992-06-29 02:55:58"/>
+		<rom name="GAMEDAT/COMMUNIC.S17" size="131203" crc="fc9414c0" md5="d758d498e16125b3f36d113564d09006" sha1="ada6fb6d8dc1080679fdce1fc6d92fddd68fb94a" date="1992-06-29 02:56:18"/>
+		<rom name="GAMEDAT/COMMUNIC.S18" size="139605" crc="871d76f3" md5="8d5bd302617d250616f28e8a58302100" sha1="75f76daf2e674d38ea29d4aa7ff248cfd1eca39d" date="1992-06-29 02:54:50"/>
+		<rom name="GAMEDAT/COMMUNIC.S19" size="163005" crc="3752bf4d" md5="bdee47e3abf367c2a828ef6a0f21b22c" sha1="910206da8a3caf8bafc48fcb2377921c9f7c41ab" date="1992-06-29 02:57:06"/>
+		<rom name="GAMEDAT/COMMUNIC.S20" size="198711" crc="166d7e0d" md5="b30597892b00b1380a902c8e573bedfb" sha1="e0efb58c3c20ff03910a890ac98eb4a06d9735d3" date="1992-06-29 02:57:36"/>
+		<rom name="GAMEDAT/COMMUNIC.S21" size="205790" crc="174ba25c" md5="a995ff4865a442f3a9fb443addf9bf3d" sha1="72f2c9719faa87f8cf28a47bf47f4667e4862656" date="1992-06-29 03:00:52"/>
+		<rom name="GAMEDAT/COMMUNIC.S22" size="151935" crc="b87d91e4" md5="13820466fcd4390dfa89a6a8ca7263bc" sha1="06152b1638a46eb10d446d4da8f92fa1c184b5b3" date="1992-06-29 02:58:34"/>
+		<rom name="GAMEDAT/COMMUNIC.S23" size="184635" crc="0038413c" md5="d31a27767ace800b912b37c36080edbf" sha1="693a5867f9011539e012792c0e4125c0d325dc9f" date="1992-06-29 02:59:04"/>
+		<rom name="GAMEDAT/COMMUNIC.S24" size="192135" crc="7a2306e8" md5="b3ee223d646001b8aa96dea5416b92cd" sha1="68ba74b0a38ea2d7d8dc9306e4c11dea3ff44c55" date="1992-06-29 02:59:30"/>
+		<rom name="GAMEDAT/COMMUNIC.S25" size="178035" crc="da15780e" md5="397fc63330d946835a205cfe8801cec4" sha1="bc4f216043a97340a63d94b262c67a5d6943b731" date="1992-06-29 02:59:58"/>
+		<rom name="GAMEDAT/COMMUNIC.S26" size="108133" crc="2b23f359" md5="ca79d0975027e2a338a6247468d60cbf" sha1="2258cdf67a78fcec8643c2107c0c4d35136842a9" date="1992-06-29 03:00:22"/>
+		<rom name="GAMEDAT/COMMUNIC.S27" size="112933" crc="629f1dc5" md5="c864e8c6d7f815f02bdffdf155865043" sha1="8b778f0267b717dafd35c84dd6dad7a4417e2d3a" date="1992-06-29 03:02:34"/>
+		<rom name="GAMEDAT/COMMUNIC.T01" size="465" crc="4c1a95d8" md5="034a82dd931af4f37e79207a7eaeb2c2" sha1="dc2fe6e8d9fbc63facd29588e2d4c34f0591937e" date="1992-06-29 01:22:38"/>
+		<rom name="GAMEDAT/COMMUNIC.T03" size="449" crc="dce66388" md5="aaa7a37ab3c7cb63022d49759aee9bef" sha1="c2950a1948558d916f590864cae3bb82efccc40d" date="1992-06-29 01:22:22"/>
+		<rom name="GAMEDAT/COMMUNIC.T04" size="537" crc="7425f430" md5="631b68cec3e7723d3af47045cf403d56" sha1="d555abffc68a193f25fc431c4d62c2691b6ad2ac" date="1992-06-29 01:23:02"/>
+		<rom name="GAMEDAT/COMMUNIC.T06" size="773" crc="27c3eecb" md5="1d8b27ced137cff3c7f3c63be6a85712" sha1="daa2591a95eab69b7f1b11ca1b2764eadc79f7f7" date="1992-06-29 01:26:16"/>
+		<rom name="GAMEDAT/COMMUNIC.T08" size="490" crc="50cc2a75" md5="e9cf2e168807422b0f0270205f589520" sha1="4c2a43820d9568509994862dfe852273fc4d71e7" date="1992-06-29 01:22:04"/>
+		<rom name="GAMEDAT/COMMUNIC.T09" size="545" crc="3f13aa78" md5="34f52ba968b135dd324437ed7a61dfbf" sha1="c7d24caf7824d195d193c9757764ab531c2b0580" date="1992-06-29 01:27:44"/>
+		<rom name="GAMEDAT/COMMUNIC.T11" size="519" crc="3c46f853" md5="1605d26c5670a9b86422ea72ae4fd659" sha1="0e94075875c6971e3184417cd46c6bfb9356251c" date="1992-06-29 01:27:28"/>
+		<rom name="GAMEDAT/COMMUNIC.T12" size="342" crc="36a29a50" md5="765eed1a27728090ed0b1ed78ddf4214" sha1="afbe1957bd24f959434f31b45dae4858327c943f" date="1992-06-29 01:27:16"/>
+		<rom name="GAMEDAT/COMMUNIC.T14" size="468" crc="d0a3161e" md5="4db423b5aed083d0d97f23908dae6f66" sha1="b3c39de0e2baedb9e4dd526cf51d11e99748b2d2" date="1992-06-29 01:27:06"/>
+		<rom name="GAMEDAT/COMMUNIC.T15" size="570" crc="9d367ea4" md5="7fd333814fbd83633ff184123895d387" sha1="c9eb85cfef66aa5724c34f1c51ce8a800ea737d9" date="1992-06-29 01:26:54"/>
+		<rom name="GAMEDAT/COMMUNIC.T16" size="602" crc="05d19dc0" md5="343adffee352983ca74a89b9c61498de" sha1="0bb22e5893e8d1677e97a54b69ea002137530172" date="1992-06-29 01:26:40"/>
+		<rom name="GAMEDAT/COMMUNIC.T17" size="579" crc="8a297708" md5="765400579b9d9051f31ac65dab05b8e2" sha1="54f2423d3f26d0729e074da41172af54f157b42a" date="1992-06-29 01:26:28"/>
+		<rom name="GAMEDAT/COMMUNIC.T18" size="496" crc="ea903bf4" md5="7eb3f9feaba3dc1780ccbb771c548100" sha1="2df2a7fef8681f50d9fd60efc6302f44832ce95e" date="1992-06-29 01:19:52"/>
+		<rom name="GAMEDAT/COMMUNIC.T19" size="511" crc="2ef698e4" md5="8a6ea649ee1c3939551fe4ebd44d2c66" sha1="6d49ee12415c2ecec8d166be5337cadd1daf5a2c" date="1992-06-29 00:57:36"/>
+		<rom name="GAMEDAT/COMMUNIC.T20" size="654" crc="322dc22b" md5="93d856e52c6813a705860fd00728b516" sha1="6b6d7bfb1fb8a751820df18ca7ad17f8a1e65953" date="1992-06-29 01:26:04"/>
+		<rom name="GAMEDAT/COMMUNIC.T21" size="655" crc="8f5cfc8e" md5="e57e74c060ce07b438fce751c0d3b693" sha1="aaa8ee5352fbe1e69fd7489a905bc86fb1799449" date="1992-06-29 01:25:52"/>
+		<rom name="GAMEDAT/COMMUNIC.T22" size="341" crc="74e99f7b" md5="f9cb3887ffc74788309bdb4f87b36fe1" sha1="dc0d421c9097b60a1c28f44a23e6d9aba9d2e590" date="1992-06-29 01:25:40"/>
+		<rom name="GAMEDAT/COMMUNIC.T23" size="349" crc="30832ec8" md5="88352cbfd96a911abd74b85e26b77e4d" sha1="ce5ec66bcecc02c1ca4bfc7abe97d8d273ed2773" date="1992-06-29 01:25:32"/>
+		<rom name="GAMEDAT/COMMUNIC.T24" size="348" crc="f8ed5077" md5="40e5989862740a27928afbfc09f5f2ed" sha1="2fe2d79a080cb5a7f1bf403549fe30b3202b4441" date="1992-06-29 01:25:22"/>
+		<rom name="GAMEDAT/COMMUNIC.T25" size="337" crc="319b0339" md5="37c5d5c1d82783d2683475fc3267ba33" sha1="f600091c6639da7dd167f3b3dff4706ccc4577d5" date="1992-06-29 01:25:14"/>
+		<rom name="GAMEDAT/COMMUNIC.T26" size="284" crc="1d46a5b7" md5="7273752f13e44dc45845b5b37171f9e9" sha1="3538010b40b881c3c2e7d6e10ad20d8f98a2317e" date="1992-06-29 01:25:06"/>
+		<rom name="GAMEDAT/COMMUNIC.T27" size="271" crc="c262d02a" md5="1196acc8c88071f66d970e855f801049" sha1="422f80213f5d874af795c990ba236bfa84ab3790" date="1992-06-29 01:24:56"/>
+		<rom name="GAMEDAT/COMMUNIC.YOU" size="609" crc="f36f020e" md5="677f0c00bd2ff9e8923c2e0d6ce0dad7" sha1="8e0ea0fe7bbbf4b8adb16ec89677c3420dff8aaf" date="1992-06-29 01:24:48"/>
+		<rom name="GAMEDAT/CONTINUE.VGA" size="12172" crc="c5ee70fa" md5="e44ca98601dbf2fe23846304824bf236" sha1="43c8732241029c4cd0abe8a7e85aa572e0f7b6a2" date="1992-06-29 01:24:34"/>
+		<rom name="GAMEDAT/DESPAIR.V00" size="73087" crc="b26067a5" md5="30e63bd3e5df047c2736e1b209d1b617" sha1="58fbcf77dc709d2b8e43f7e487644c925ee33fb9" date="1992-06-29 01:20:24"/>
+		<rom name="GAMEDAT/DIFFLEVL.000" size="112" crc="e1bf85df" md5="5d4e533747822a8ff6bea0daa4312a51" sha1="8cede57748991b7800a5f642b73da58c049e1f3a" date="1992-06-29 01:24:32"/>
+		<rom name="GAMEDAT/DOORS.V00" size="184545" crc="92a8ecf7" md5="51bb9c3dc761278555d7009a9e036dd2" sha1="f5985a357172c9007c75c3ecb2aae8279446794c" date="1992-06-29 01:15:42"/>
+		<rom name="GAMEDAT/EJECT.V00" size="227287" crc="bc269a1e" md5="187cf8836f6a2045fdb96abd9c52e219" sha1="761205347921fdb5047e9793cb38cae9b771e40d" date="1992-06-29 01:06:26"/>
+		<rom name="GAMEDAT/FIELD.V00" size="18865" crc="059c8f5e" md5="be2b56047a1b915ca81d269d1435d9b7" sha1="cf74babcd7ae0e44e061ef690f141494336e3876" date="1992-06-29 01:24:32"/>
+		<rom name="GAMEDAT/FONTS.FNT" size="23949" crc="9f75887e" md5="3da275ba97d6998c9040a337696a0ff0" sha1="1522992f6f390b80f825c49c96aafbc3d4242b86" date="1992-06-29 01:24:30"/>
+		<rom name="GAMEDAT/FUNER.V00" size="39881" crc="965e5a07" md5="1c83b9a1b08873bccaf9028bf5f61121" sha1="33121360699cc28e80b2a30a8963d500b1207544" date="1992-06-29 01:24:28"/>
+		<rom name="GAMEDAT/FX.000" size="448" crc="cf422d6c" md5="7a4cb9bc8e2495da6ccbd2a8da1128f7" sha1="b2cbe1e236b33b280227775837fa99025fa7cec1" date="1992-06-29 01:24:26"/>
+		<rom name="GAMEDAT/GAMEFLOW.S00" size="4144" crc="c5a37a56" md5="df3c1ca351955793ccd80c34e32dba37" sha1="7bbc0abaf407bdf9be55a6ec9127a84ee20c59dd" date="1992-06-29 01:24:24"/>
+		<rom name="GAMEDAT/HELMET.V00" size="47460" crc="4eebca45" md5="f924fe6d87278b41a8aae47217ceddbc" sha1="5140806a747e6d6af160f3483445d65c66241998" date="1992-06-29 01:24:24"/>
+		<rom name="GAMEDAT/HITDEMO.V00" size="178739" crc="386edba4" md5="325bd49f06361a416852c81ff67cfb82" sha1="de14521e510985d1a3274d9ee6390f0b56c5c988" date="1992-06-29 01:16:26"/>
+		<rom name="GAMEDAT/INCIDENT.S00" size="190086" crc="291e4ba1" md5="518913886674e7ea96adcb26d827c1e0" sha1="75f3d08c7fae49a10320f6fd8550743cf534c935" date="1992-06-29 01:14:58"/>
+		<rom name="GAMEDAT/INTEL.001" size="105" crc="a62ce1c6" md5="6c4819e5e89bdcb175d10afe960408a4" sha1="cc44f2138c59f8f84ed3a5a32bc1dbb77d56136e" date="1992-06-29 01:24:16"/>
+		<rom name="GAMEDAT/INTEL.003" size="105" crc="44c1f0c4" md5="83ff892f7f66bf1c8858ec0ac84a106a" sha1="d07b940b48659bbd5f5ab16a0e9b777614e6276b" date="1992-06-29 01:24:14"/>
+		<rom name="GAMEDAT/INTEL.004" size="105" crc="704d6b8f" md5="2cde6c231b6eeae5296013f1306122a7" sha1="8d52d97d238c6d37fa3431c983255d32fbf66be7" date="1992-06-29 01:24:12"/>
+		<rom name="GAMEDAT/INTEL.006" size="105" crc="c57c96d6" md5="42f386999aa925f91e4ce9337ab9ed04" sha1="9fc4c116b882176a48f189a086d22c988774e5ad" date="1992-06-29 01:24:12"/>
+		<rom name="GAMEDAT/INTEL.009" size="105" crc="64c78fa4" md5="cefe51a70ecaa024f03041808efaf93b" sha1="43529d958a86a856d8d80b63707ee92e125265f9" date="1992-06-29 01:24:10"/>
+		<rom name="GAMEDAT/INTEL.011" size="105" crc="d6e4bf2e" md5="b377f34203b91cdd7f178421c03db400" sha1="e6f1a0ec80f3470d3071e71aafaecd9c3054da9d" date="1992-06-29 01:24:02"/>
+		<rom name="GAMEDAT/INTEL.012" size="105" crc="c647d4de" md5="966b4fd8b1dad50581a597a093ea9a41" sha1="e5d607c90b144cedd037e684a92b96f3c6c479b4" date="1992-06-29 01:24:00"/>
+		<rom name="GAMEDAT/INTEL.014" size="105" crc="a185a300" md5="fc7c4cf95c0b2a02fb3f267daf7c5394" sha1="3e094cd1c8de594e89a7c43270d2e22bc6df7f69" date="1992-06-29 01:23:58"/>
+		<rom name="GAMEDAT/INTEL.022" size="105" crc="2f1f6b15" md5="c676036d5d6932cf24cb603a7d446e12" sha1="43c40aa6d16a12b96e8b6c77b19384640aa6054c" date="1992-06-29 01:23:48"/>
+		<rom name="GAMEDAT/INTEL.023" size="105" crc="fa64ce36" md5="0ec3a04eafd415e5b46963ec50c77ab1" sha1="1b54b465dff49c48d2da89d37084ef5b753f47cb" date="1992-06-29 01:23:44"/>
+		<rom name="GAMEDAT/INTEL.024" size="105" crc="25fd0447" md5="3a4d3e4d70fa3cdc0632dfd4bde127f6" sha1="7e6db92dedee8dd632d4ecfbc9187cc34f96dd29" date="1992-06-29 01:23:24"/>
+		<rom name="GAMEDAT/INTEL.025" size="105" crc="61c18259" md5="b5d928c89f36fce46f5b1d6aa192d811" sha1="4bf76ba4f9129bdeae3405e581d0f5736932c82c" date="1992-06-29 01:23:22"/>
+		<rom name="GAMEDAT/INTELSHP.005" size="89" crc="c09d4a9c" md5="29d5b2398b0b7d5d1916161a65029398" sha1="ad180f3a95dc903e30a622304bd123ef9c2842f3" date="1992-06-29 01:23:18"/>
+		<rom name="GAMEDAT/INTELSHP.006" size="89" crc="9982b20a" md5="28940cd0128443349c3e7b028d956978" sha1="74a0a411bcafa8f4384943d31d39c371fccceb59" date="1992-06-29 01:23:18"/>
+		<rom name="GAMEDAT/INTELSHP.007" size="89" crc="f2e88e1a" md5="f2f8307b68c3c90aa405dc7f7e843f9f" sha1="658f79e31efc2953b88566e1209e09edc320e4a0" date="1992-06-29 01:23:16"/>
+		<rom name="GAMEDAT/INTELSHP.008" size="89" crc="7d1c0641" md5="9eb60e80631e5c116cfd7adb9131010b" sha1="eb5cbf3faf8a7ea020da7700ac1fff36a8788bac" date="1992-06-29 01:23:16"/>
+		<rom name="GAMEDAT/INTELSHP.009" size="89" crc="3c4e778a" md5="63289e7a33d2e69a4c9997f58b271851" sha1="c0f277529db79cc710c54956668c08d9c2562e4d" date="1992-06-29 01:23:14"/>
+		<rom name="GAMEDAT/JAZZRESC.V00" size="134976" crc="16f8c12e" md5="75a30430222366517e532925826d0b1c" sha1="e82e19f77453c0c3e55196ad787a97252c3603d5" date="1992-06-29 01:07:36"/>
+		<rom name="GAMEDAT/LANDGAME.V00" size="263033" crc="1bbd4e36" md5="272ae2a75fe932d332c629c57e92c1a6" sha1="a01d1ec895a67ba87d3285c7ccf0dd9a98b5e2d1" date="1992-06-29 01:06:38"/>
+		<rom name="GAMEDAT/LANDGAME.V01" size="94289" crc="9fcd1c72" md5="4670a7bf98ccc864a82db8efc2cebd5d" sha1="09c5e2cd2e9bbdb45ac201e1bd9741916ccbe723" date="1992-06-29 01:17:28"/>
+		<rom name="GAMEDAT/LANDGAME.V02" size="116738" crc="4871cd12" md5="cc34b35a041c6067a01568cc8e5302fe" sha1="112cf9b64345a8e982f12b6ac1609074655713d3" date="1992-06-29 01:16:48"/>
+		<rom name="GAMEDAT/LANDGAME.V03" size="133572" crc="8a99c0a8" md5="bc769478d501db365a93bbcfb2f5cb5e" sha1="e0ac3f7a6bde64996978b393a6d558328023e141" date="1992-06-29 01:16:44"/>
+		<rom name="GAMEDAT/LANDGAME.V04" size="186447" crc="057a4931" md5="87538a5818688b1154810c632d9ed9ef" sha1="8094709ccb0f32d91857bf9ff6c90cbcb80fc906" date="1992-06-29 01:06:14"/>
+		<rom name="GAMEDAT/LANDGAME.V05" size="58226" crc="82999884" md5="ea9765e356a4087ede154dd25509aaa9" sha1="003def140bbb45cd1d581a569ccf6e2ccb8f6c43" date="1992-06-29 01:23:14"/>
+		<rom name="GAMEDAT/LANDGAME.V06" size="114479" crc="5cd9a195" md5="78b9c7c1df6a16c9274cdbf4cf92182c" sha1="484a2d3a7dfdccb35b61aab5a859092c5fb6fc56" date="1992-06-29 01:16:18"/>
+		<rom name="GAMEDAT/LANDGAME.V10" size="10090" crc="c415ef3a" md5="107cc7e9bd68fb48a550cf6f4316e715" sha1="5c4356fc41c7d8407c96bd433dc75b9e4c565dff" date="1992-06-29 01:23:12"/>
+		<rom name="GAMEDAT/LANDGAME.V11" size="17836" crc="7d4f40ad" md5="58430a5b9e3dcde56125f1a4abc947df" sha1="715c48de8152dc00fae33f545b5d9056b73b5c21" date="1992-06-29 01:23:10"/>
+		<rom name="GAMEDAT/LANDGAME.V12" size="23858" crc="2070c715" md5="ebc3b5da912d6c913f5cac448038b3c6" sha1="944dff8e8e2ecfb5a364dcf71f6a5bd4c2784a80" date="1992-06-29 01:23:04"/>
+		<rom name="GAMEDAT/LAUNCH.V00" size="510063" crc="49321bfe" md5="94317d00a174b4d5d4a40c6373008d76" sha1="bf5f06c84cf867c8c6fd936f54ad7dbb16ecdfb4" date="1992-06-29 00:52:54"/>
+		<rom name="GAMEDAT/LAUNGAME.V00" size="88034" crc="920c723f" md5="9146d69642cc71b8f0d6e1a7d0371093" sha1="568ce463c5f860005e194d2ba696ca1d8984500a" date="1992-06-29 01:21:08"/>
+		<rom name="GAMEDAT/LAUNGAME.V01" size="29500" crc="68dec80b" md5="493e01aeb326054e81ca566fea60b767" sha1="0407a35cbd0ceba73227ffc23423d9410a36b96d" date="1992-06-29 01:22:42"/>
+		<rom name="GAMEDAT/LAUNGAME.V02" size="28509" crc="cadbd45b" md5="2fd008542bfee6b5a3fa052f97efcf10" sha1="cb15c13cfd56e403f2ff5813e5a62eb5b27780d8" date="1992-06-29 01:22:40"/>
+		<rom name="GAMEDAT/LAUNGAME.V03" size="46541" crc="bca5db7c" md5="b72554e259e546ef8ed942474de10c18" sha1="6c9cdd095303df08e09a27ebb40db921b58e80dd" date="1992-06-29 01:22:40"/>
+		<rom name="GAMEDAT/LAUNGAME.V04" size="47732" crc="982cfef9" md5="60d61dd78fc67c4f0636f7a54382a99a" sha1="013fc2bc3a3a7b6273608e805b9214201bb1c50f" date="1992-06-29 01:22:26"/>
+		<rom name="GAMEDAT/LAUNGAME.V05" size="9617" crc="16ff4955" md5="6d5243944de7262300b50302556e84fb" sha1="67c645f624166c5c3cbb35b9be452cee668c8654" date="1992-06-29 01:22:24"/>
+		<rom name="GAMEDAT/LAUNGAME.V06" size="16615" crc="a493ed95" md5="c9f91b99967cde320c6e7a4397fd9e2b" sha1="553af66bc9fb739ceddc354ceab4c79897a0162b" date="1992-06-29 01:22:12"/>
+		<rom name="GAMEDAT/LAUNGAME.V07" size="42021" crc="a857be20" md5="63645161a221ce98a35af3e337927a62" sha1="cd543ee0d0b3906e17b1fd0c48f8ef4e7c2d4907" date="1992-06-29 01:22:10"/>
+		<rom name="GAMEDAT/LAUNGAME.V08" size="18565" crc="1ee2b377" md5="03628e07ac5460b9ce6774244e0315f0" sha1="94b072272b27ca2aabb8cb86dbd26649485ddec7" date="1992-06-29 01:22:06"/>
+		<rom name="GAMEDAT/LAUNGAME.V11" size="13229" crc="bfe2ebae" md5="d1a3b69837e2defa217c7f882e37c7fd" sha1="e0f47ba6f82cd0efe9dbd45d179cf360758901f5" date="1992-06-29 01:22:06"/>
+		<rom name="GAMEDAT/LAUNGAME.V12" size="10632" crc="0428d32c" md5="53d126818ca0640276a40d6ecf9c6525" sha1="f812682644ce9c6b5768812d137c46b7f1ecabd6" date="1992-06-29 01:22:08"/>
+		<rom name="GAMEDAT/LOGO.V00" size="21213" crc="9eb698c2" md5="55526f58857d742e9dade92b202e2429" sha1="07ef12b535e9c8c06c4804664d89851b15a633c6" date="1992-06-29 01:22:08"/>
+		<rom name="GAMEDAT/LOVE.V00" size="165240" crc="6056f36a" md5="8109d79c97d82a0960239f04c3a3858f" sha1="b4b2fd0776335d7cb15168516dda8d7d8c22738c" date="1992-06-29 01:11:56"/>
+		<rom name="GAMEDAT/MCSPARK.V00" size="159097" crc="ef2e2a46" md5="9993a8bba46fb726d38e219be41f7f9c" sha1="458b764179d641ae964f0142aa5fa62102f292f2" date="1992-06-29 01:16:00"/>
+		<rom name="GAMEDAT/MEDIUM.V00" size="336657" crc="b51f162a" md5="13aa04c86c2882f74a3e69b9cf86d917" sha1="bfd52bcd611045d5e43a9a503a8e7000601bee05" date="1992-06-29 01:03:46"/>
+		<rom name="GAMEDAT/MESSAGE.V00" size="122" crc="a9855fe4" md5="47f81c744eb98343cc892d3437a18fba" sha1="b2eeb97d16fa38b8dcf9f9fc6b292c6710649f5a" date="1992-06-29 01:22:24"/>
+		<rom name="GAMEDAT/MIDBACK.V00" size="61322" crc="d36cecc6" md5="f4c5fb0e093e6624102073679f7b7447" sha1="e43eb0e6ae08dedec8ca170a04bac5f491b020c7" date="1992-06-29 01:21:54"/>
+		<rom name="GAMEDAT/MIDFACE.V00" size="83811" crc="6bacbbc0" md5="aa595e45ede5b1bbf22998238e152309" sha1="689a6b62fe9b8228dc1e473586ae08adccbef810" date="1992-06-29 01:21:36"/>
+		<rom name="GAMEDAT/MIDGAME.V00" size="339560" crc="60008db4" md5="8fe1d646970f7162f36b199f11aa6188" sha1="48917d061dca4fb3753deec719a4b04eb5cca075" date="1992-06-29 01:03:04"/>
+		<rom name="GAMEDAT/MIDGAME.V02" size="90264" crc="b9dc6a69" md5="688039169668acbd6ee2c8c84fd1466a" sha1="4e39557f13e4b6d8284a7aed2198037ca45b2371" date="1992-06-29 01:21:18"/>
+		<rom name="GAMEDAT/MIDGAME.V03" size="87113" crc="78b831f4" md5="423e28955c3abcf929aef715f4a41604" sha1="3b6b1603f0629e03b31282033f974b4f067bf464" date="1992-06-29 01:21:14"/>
+		<rom name="GAMEDAT/MIDGAME.V08" size="206276" crc="67ddfde9" md5="103ffa39e4fd687c1134a71986bf8959" sha1="3410662f960446d2f2a6e4da94af2d5e42c222f2" date="1992-06-29 01:04:36"/>
+		<rom name="GAMEDAT/MIDXFACE.V00" size="18604" crc="c5d0877d" md5="935add7c0cf9d9e01d3eacf46e7d91bf" sha1="ca4ef3da797f5f3c569fb87bafa6744fd0073a57" date="1992-06-29 01:22:48"/>
+		<rom name="GAMEDAT/MISSILE.V00" size="11637" crc="7d9b50e3" md5="e28a1cff049431ce321f0e4600526b7b" sha1="a8e20010822a4c910d746b8bd98def23cc90dd82" date="1992-06-29 01:22:48"/>
+		<rom name="GAMEDAT/MISSILE.V01" size="10660" crc="f3fd230c" md5="b040ae72496bec1c406f04dcd0ac3db8" sha1="c91ea5c32fa829451da7927ca5f285b293c2c530" date="1992-06-29 01:22:50"/>
+		<rom name="GAMEDAT/MODULE.000" size="177824" crc="0db8a008" md5="26cdf636b8ed43025bc287ef3e31157f" sha1="737fbb147a0cf1971bf54774acb5061a18a92bc0" date="1992-06-29 01:21:04"/>
+		<rom name="GAMEDAT/MURDER.V00" size="236266" crc="68cca673" md5="c2c02a0cffa50f726455e22a406d3c47" sha1="d90a637ddd5a1bed91e1e47c9c62bc9e32861d1c" date="1992-06-29 01:05:32"/>
+		<rom name="GAMEDAT/MUSIC.A00" size="262797" crc="aa0a6aa6" md5="9cb1b971758363a68a357e7d8e3d5fb6" sha1="ebcb87711e8168ae6585cafbfc6f2ff732d92ba5" date="1992-06-29 01:02:46"/>
+		<rom name="GAMEDAT/MUSIC.R00" size="351037" crc="e6f37e5f" md5="be89f23993401e8c0c401d6b3e101dc5" sha1="7a37795e33799f1abef063aae950506c28609d88" date="1992-06-29 01:01:20"/>
+		<rom name="GAMEDAT/NIVL.V00" size="82834" crc="a6320c42" md5="f49bca64a25143e16eb5cc153399b6d5" sha1="55af32644c41d2d7a74d2894c7a5960ea32b50f9" date="1992-06-29 01:20:48"/>
+		<rom name="GAMEDAT/OBJECTS.VGA" size="235858" crc="110a4059" md5="bb0d72ed66b227016e4e3b78ca8dcd0a" sha1="56a1e12fb96dc808bff1b7c50dac1b130ae983aa" date="1992-06-29 01:06:04"/>
+		<rom name="GAMEDAT/OPTIONS.V00" size="159736" crc="573a1feb" md5="85ebed4c7505fb3bf971f9d514493fe2" sha1="ae65bec711115e7e2c399dc4eea87d0d2f664618" date="1992-06-29 01:16:38"/>
+		<rom name="GAMEDAT/PCSHIP.V00" size="114089" crc="13f50e49" md5="e05209a61e22ac56466eb586577d9851" sha1="b395f354d9cc46262f6016a9c010be7fe93d9514" date="1992-06-29 01:06:54"/>
+		<rom name="GAMEDAT/PCSHIP.V01" size="103366" crc="1ecda9ba" md5="a22a1a2bdb4e04cc7a7e458898366ef0" sha1="b46d956f41f4825e737c12322e132f88c6bc9450" date="1992-06-29 01:18:44"/>
+		<rom name="GAMEDAT/PCSHIP.V02" size="125901" crc="e15c7bc0" md5="4200d19c459d1769e877f2fa42fdf24b" sha1="88fde46b2cd530794936a18be4dd6ef83fc2fd19" date="1992-06-29 01:17:54"/>
+		<rom name="GAMEDAT/PCSHIP.V03" size="109256" crc="78a046f4" md5="b1d04eba81a78cf22a37c3899e492171" sha1="eeba017d0480a51b2e80d51cf81c4476a983b78a" date="1992-06-29 01:18:30"/>
+		<rom name="GAMEDAT/PCSHIP.V04" size="118473" crc="9d931fb8" md5="8892eb0ecd4283bf5b98b918278b90dd" sha1="50e13052fdb708ab351a0cd3e6fda9848671e340" date="1992-06-29 01:18:16"/>
+		<rom name="GAMEDAT/PEOPLE.V00" size="48195" crc="d07ef662" md5="3e3b01ba640d235602d331e6c70f77b3" sha1="ace4f47f3e74c97cac4745eabbd3a93da5a163f2" date="1992-06-29 01:23:20"/>
+		<rom name="GAMEDAT/PEOPLE.V01" size="33577" crc="f33c351a" md5="3436e18cafb4e4bfe359abca2569c159" sha1="a99cc5d1d9f5f7be0eebb55a711002028a3109a7" date="1992-06-29 01:23:22"/>
+		<rom name="GAMEDAT/PEOPLE.V02" size="44418" crc="d5361f49" md5="3796df123748b7f410f7ff91962597a9" sha1="ca6f90554f1e6b90a4794d877a15222fd5454e06" date="1992-06-29 01:15:50"/>
+		<rom name="GAMEDAT/PEOPLE.V03" size="70707" crc="f663e351" md5="740f29d90408a4d7064e1e4576523cf3" sha1="9ebab0c145af582c2bc00fe746200faa209ceb91" date="1992-06-29 01:18:48"/>
+		<rom name="GAMEDAT/PEOPLE.V04" size="38033" crc="bc5ce9a8" md5="256c223e8ad3c6ffd9452402f69cabed" sha1="847a06a09a7538443f9b97b3f132a0f08708d135" date="1992-06-29 01:23:26"/>
+		<rom name="GAMEDAT/PEOPLE.V05" size="38873" crc="2e4a9910" md5="cd0edf2adc6c793e4edc26dd3cf00ee8" sha1="d9bc61ec69082630ae74afc98d018f1d5b31a734" date="1992-06-29 01:23:28"/>
+		<rom name="GAMEDAT/PEOPLE.V06" size="46262" crc="c5f0f53c" md5="2ef537c5aefb8f0e434866cf9b750735" sha1="2e12ef994902397086882d89080b85b1ef630f03" date="1992-06-29 01:23:30"/>
+		<rom name="GAMEDAT/PEOPLE.V07" size="27963" crc="1ce65169" md5="c96325842ba67c18638e082972606c59" sha1="9ad15fa26c0d01ffb6d78c2862ec3654a30dfe08" date="1992-06-29 00:51:22"/>
+		<rom name="GAMEDAT/PEOPLE.V08" size="45486" crc="ba0f465f" md5="ad5258c58b674bd5f1706888e11eae3e" sha1="6743b96772fa40eed155d694d04e234f12f02903" date="1992-06-29 01:23:34"/>
+		<rom name="GAMEDAT/PEOPLE.V09" size="38214" crc="62ee8ea7" md5="d64f7510ec760b3339d2a85178b8cefc" sha1="a2066477dfb0200346f6c8d265f0ae6f186cd492" date="1992-06-29 01:23:34"/>
+		<rom name="GAMEDAT/PEOPLE.V11" size="33003" crc="b7a35b0c" md5="d1c3bcb5cf12779e9355940c3ad3e7ab" sha1="465eb4deae3b81efd9cf2ed7b445de053f96998e" date="1992-06-29 01:23:36"/>
+		<rom name="GAMEDAT/PEOPLE.V12" size="54577" crc="d0d84fca" md5="3a33307ba2a25aaa77a73f1366b4e31b" sha1="0222dcbaa85ed4851abad66161b5736ab50a9384" date="1992-06-29 01:23:38"/>
+		<rom name="GAMEDAT/PEOPLE.V13" size="56507" crc="5c1b237d" md5="a912c50858170fa5523fe104287f0876" sha1="14f9f65dc218f97eed67bc78462b134076ba1f0b" date="1992-06-29 01:23:40"/>
+		<rom name="GAMEDAT/PEOPLE.V14" size="40005" crc="636a95af" md5="42495f378ee0bfbb4b64d447ba839c1e" sha1="e132bf35a8654b653a9b40cb7f56e9f4aec16702" date="1992-06-29 01:23:42"/>
+		<rom name="GAMEDAT/PEOPLE.V15" size="34930" crc="644d26bd" md5="50a96fa49edb3ad5995caec7a80079e5" sha1="39c0a2536733fabae299d5d9548bd6a54858c56f" date="1992-06-29 01:35:06"/>
+		<rom name="GAMEDAT/PEOPLE.V16" size="64511" crc="2576652a" md5="a2088cd00f7c32b077bccf9ad4068d6e" sha1="733e13ee8376f79b3e306c81370233cc33d438c4" date="1992-06-29 01:18:50"/>
+		<rom name="GAMEDAT/PEOPLE.V17" size="45924" crc="cd76ce95" md5="6e64f5d9a699b85f32c2bb52498dbecf" sha1="4f85dc59274c0ce9b9cdace126cca566123d0a95" date="1992-06-29 01:23:46"/>
+		<rom name="GAMEDAT/PILOTANM.VGA" size="89230" crc="bcbb4537" md5="f94a764a950fe6d6dbbfb0f8911023d5" sha1="9c343b851fb279fd8abfe4bef2833180296ecf09" date="1992-06-29 01:18:56"/>
+		<rom name="GAMEDAT/PLANETS.V00" size="20493" crc="24f01c36" md5="cd89d708800b247a1ec6ffc0cc942661" sha1="c7c75f683b8fc45c547710c098c931bb61609651" date="1992-06-29 01:23:58"/>
+		<rom name="GAMEDAT/POKER.V00" size="89915" crc="2e8df715" md5="cdecc36283e1cdd92241316d4f7b8a6b" sha1="d76fee79a59cb4b52635e9b6f446ba51d47ee12d" date="1992-06-29 01:19:04"/>
+		<rom name="GAMEDAT/POWERDN.V00" size="111927" crc="c4aa5132" md5="a6cf0cd6d97b226e916f93077f031793" sha1="ee269de8b19e3ed7943f9704b3c33664ffc0e8b4" date="1992-06-29 01:17:58"/>
+		<rom name="GAMEDAT/README.DOC" size="2227" crc="15df45cd" md5="8f30c173aac29fddd46c21792168f94c" sha1="ded61b557b0dd5cd1614d958079bd785b74c1883" date="1992-06-29 00:49:30"/>
+		<rom name="GAMEDAT/REPBAY.V00" size="70838" crc="01e20a8b" md5="14cd8040562db81f1f35bd840d04d261" sha1="9c28249c41f304328da15227412ccdd880a021e2" date="1992-06-29 01:19:08"/>
+		<rom name="GAMEDAT/REPBAY.V01" size="22721" crc="47075fdc" md5="b1a984ac84557fba1a672dd37149e3d8" sha1="36538f06f93e94d2928cc220ad5566559ade98ae" date="1992-06-29 01:24:02"/>
+		<rom name="GAMEDAT/RUN_ANIM.V00" size="42247" crc="9b322ab4" md5="aef21e8bc26daacae0e700a98c6a80d4" sha1="2873906f72acae5f5c4a7b2552969be4159506bd" date="1992-06-29 01:24:06"/>
+		<rom name="GAMEDAT/SCREENS.V00" size="10421" crc="4405c8f0" md5="615dc77dd314a58bf23578da1e8a953f" sha1="444d349ccae2367f85725b6ed0f631e9cde5478c" date="1992-06-29 01:24:08"/>
+		<rom name="GAMEDAT/SECTOR.000" size="6" crc="2905d258" md5="35af2b0cb093ae740ed4e7589938e8ac" sha1="c10e88af3792c9f19b02140375564114734c4cc3" date="1992-06-29 00:49:44"/>
+		<rom name="GAMEDAT/SERIES.S00" size="361808" crc="3f01857c" md5="79e206f0d17103f5ef6f7bd3b729ab7e" sha1="53d4369491aa72c749413dffdc44badfbf8c5333" date="1992-06-29 00:59:34"/>
+		<rom name="GAMEDAT/SHIP.V00" size="78820" crc="a7251796" md5="12ae4b7e33b45ed82c641b68e3d61c5e" sha1="2f8851612524e23a2c6b52aa3acb30d7f8be1504" date="1992-06-29 01:19:14"/>
+		<rom name="GAMEDAT/SHIP.V01" size="81656" crc="72d93410" md5="e841c59a6eda3d37cac1d75dc33c0fe7" sha1="8afb4ecd954b2e139a8cf4526fd5d1376016f251" date="1992-06-29 01:20:02"/>
+		<rom name="GAMEDAT/SHIP.V02" size="90059" crc="5beed848" md5="9c744b75d5a460cc6297ca51f214fc79" sha1="492883243c17b51447d2b917b617f0c9e121404e" date="1992-06-29 01:15:32"/>
+		<rom name="GAMEDAT/SHIP.V03" size="74657" crc="cd766100" md5="1d9a31612f20e09eab648ac4e6ada785" sha1="f8bfd1467412dda4f99128c2b967794d9b1caac8" date="1992-06-29 01:20:08"/>
+		<rom name="GAMEDAT/SHIP.V04" size="77046" crc="7297e43e" md5="204fabd504d932da192f95b38f790899" sha1="8ebb8e5150932b4900210ffe90bf4cbfb5ea53ce" date="1992-06-29 01:20:16"/>
+		<rom name="GAMEDAT/SHIP.V05" size="80105" crc="d02eb17c" md5="aba9803f46d23a9feea04fc79fa254a3" sha1="753676fffb1ae1da4e961c7c012b0d284ec48d5e" date="1992-06-29 01:20:30"/>
+		<rom name="GAMEDAT/SHIP.V06" size="78429" crc="5bdd7ae4" md5="543736926c61edcc97eeaa4646369af0" sha1="4091f1371a6a4a4ecf0000a00c2678657da67e72" date="1992-06-29 01:20:54"/>
+		<rom name="GAMEDAT/SHIP.V07" size="86365" crc="7f021bdf" md5="7a4c579c67e825ad21da44620f06b0e4" sha1="ecce0d06e970f9528dc7f4bb85befdd3cbbe8c24" date="1992-06-29 01:16:06"/>
+		<rom name="GAMEDAT/SHIP.V08" size="77406" crc="0d41aab2" md5="d118ccbb614c1ad30953cd9eb63ed25c" sha1="ea43c57523fa977359e4cf870a0c7adc8d409d2c" date="1992-06-29 01:21:42"/>
+		<rom name="GAMEDAT/SHIP.V09" size="80755" crc="e43f5c10" md5="71d59dc3be01e6f024bed15af3cd609f" sha1="249e8f41f46ae2ec00c0d5f81e862369fe3925a7" date="1992-06-29 01:17:34"/>
+		<rom name="GAMEDAT/SHIP.V10" size="79977" crc="3072da9b" md5="8c188042ea384e3169c161980084de20" sha1="70bca758a958bf8bf3a1c3d1b159bede82e2c7a5" date="1992-06-29 01:15:48"/>
+		<rom name="GAMEDAT/SHIP.V11" size="159436" crc="2ecb7421" md5="ad6ce071c1d68d7142b137e9468ca5f1" sha1="c2f2178aa6795743219f7f1990af056930b5caa7" date="1992-06-29 01:12:34"/>
+		<rom name="GAMEDAT/SHIP.V12" size="124462" crc="984a5cb8" md5="894231d7a3b2f553586db3f13d72a61e" sha1="781ba1e13b8853d116027786067c6c23d484a690" date="1992-06-29 01:17:24"/>
+		<rom name="GAMEDAT/SHIP.V13" size="144694" crc="5dee6411" md5="7a7e4f44c62a79b2fd93293dc740efdb" sha1="4287c750aad59c978ed06d290f70a82cce16f3bf" date="1992-06-29 01:11:48"/>
+		<rom name="GAMEDAT/SHIP.V16" size="137216" crc="835bb628" md5="0f567b21d86d0e77ad56e6ba04028cb9" sha1="e2bc183f2074ac7a49e943c814581cc3dfe4c190" date="1992-06-29 01:11:10"/>
+		<rom name="GAMEDAT/SHIP.V17" size="141354" crc="8494ee69" md5="907df1f8e8f9d94ba1270eddebd36c2c" sha1="5e96a64d899299f02dc1fbabb154c3956632b52a" date="1992-06-29 01:10:32"/>
+		<rom name="GAMEDAT/SHIP.V18" size="181200" crc="2bcf2b92" md5="33b83208324231ba4ebb60e1eec3e7a5" sha1="1c9afaa697e2ead0e78836552fe0ac0bb2cbc9fb" date="1992-06-29 01:05:16"/>
+		<rom name="GAMEDAT/SHIP.V19" size="131761" crc="7e73ab98" md5="b000d58f1f99745cb84d5286c4030c60" sha1="9ed78ba925b303b4433328a918c14a03cf01795b" date="1992-06-29 01:09:30"/>
+		<rom name="GAMEDAT/SHIP.V20" size="151386" crc="2b4ba7b5" md5="1ec2655f1c676727679aa0543fe1d1fd" sha1="4e6bd24691aad74efe8abd5f835de2014584d4ba" date="1992-06-29 01:08:52"/>
+		<rom name="GAMEDAT/SHIP.V21" size="145415" crc="b1e65cb8" md5="8c3851fb338ecc3e37565689c1194530" sha1="1da5732a9e176e2b513b98c9cb55699739833e1e" date="1992-06-29 01:08:14"/>
+		<rom name="GAMEDAT/SHIP.V23" size="75329" crc="70196856" md5="d0702ce9a6666c10b5849842c9cb221d" sha1="a5045f360007c0c909a7bae941117872ad7cf014" date="1992-06-29 01:19:40"/>
+		<rom name="GAMEDAT/SHIP.V25" size="154833" crc="8cf58a5c" md5="4ab3c62c1881db7ba67df57616bdc925" sha1="8c9083a3b45a67c755bc2d9c1c87eb6721ee270d" date="1992-06-29 01:04:26"/>
+		<rom name="GAMEDAT/SHIP.V26" size="134045" crc="e672fa1d" md5="cd671bfa457128b289469e5d444e9de1" sha1="714d4e17b92521e34536fd6107b947282138c9b6" date="1992-06-29 01:07:30"/>
+		<rom name="GAMEDAT/SPEECH.S00" size="638494" crc="480a003a" md5="d45efb064944ab9359458e4e2203a965" sha1="8f311776bf5b96d6e6fefafac8d0c9b2a9db0087" date="1992-06-29 01:01:36"/>
+		<rom name="GAMEDAT/SPEECH.S01" size="408084" crc="8938b054" md5="d4a0acf77f2fc80826ca0a8dbb739de3" sha1="eac90b349c3a339098fb4af9bedb5419a8f1ad6c" date="1992-06-29 02:53:34"/>
+		<rom name="GAMEDAT/SPEECH.S02" size="338453" crc="fb57db2b" md5="f412eda0a7d583b322038dc117706506" sha1="2dc539d285ffce08dc344a5b2b60da30591401a2" date="1992-06-29 02:52:24"/>
+		<rom name="GAMEDAT/SPEECH.S03" size="435968" crc="ba828225" md5="bf4dfd101287f88e9263288454deedf3" sha1="0bb2c19c7bc22735dc9b11f7ee092fc4de28800f" date="1992-06-29 02:52:02"/>
+		<rom name="GAMEDAT/SPEECH.S04" size="717089" crc="c4c98345" md5="d64fe56acf0a8a1c78d34a573a2e795f" sha1="9225e8fc65f3fcd8e815b6f6620e5c7da6e0e200" date="1992-06-29 02:51:34"/>
+		<rom name="GAMEDAT/SPEECH.S05" size="56409" crc="1bc341cd" md5="150788254ee7f1222d49aa7c9005f557" sha1="86a16157e2eeaf704984beca12ed1dee319916f2" date="1992-06-29 03:02:42"/>
+		<rom name="GAMEDAT/STARS.000" size="520" crc="06158f5e" md5="b9a1f831b5d5752306b1d3b5ee233b39" sha1="4147cc5a2d4f5239e7afca1ca329991cb9a3e559" date="1992-06-29 01:26:28"/>
+		<rom name="GAMEDAT/STARTGLB.000" size="1538" crc="84673a66" md5="e7d8468432335e9c906647ef53f71a5d" sha1="db9860a684649d6b25cdc4f12124bb84c9702199" date="1992-06-29 00:42:32"/>
+		<rom name="GAMEDAT/STRAIGHT.V00" size="52589" crc="3127b420" md5="5d518cc30500d8eba9533150262ebd49" sha1="0b2659dc0473015e02827603b15c7bb68403b730" date="1992-06-29 01:26:42"/>
+		<rom name="GAMEDAT/STRAX.DRV" size="6462" crc="7874c0a6" md5="f1636fd13e023172d6c2a1a0bf19ec6e" sha1="2c5a3209d1188aebc5386b65f2a580ee0e17c18e" date="1992-06-29 01:26:44"/>
+		<rom name="GAMEDAT/SUPERTM.DRV" size="87198" crc="3d10c3ab" md5="228cc12affa49e2bcf6e2cee4cbabbbb" sha1="55c4f284de44046690b758ab115e30055028ffcd" date="1992-06-29 01:20:18"/>
+		<rom name="GAMEDAT/TEMPGLOB.000" size="1538" crc="84673a66" md5="e7d8468432335e9c906647ef53f71a5d" sha1="db9860a684649d6b25cdc4f12124bb84c9702199" date="1992-06-29 03:05:36"/>
+		<rom name="GAMEDAT/TIGER.V00" size="507501" crc="d453afde" md5="c276318b6c9df98ca500760de2ee7a31" sha1="10f597aa15fda987fa03a69045e7a43e6df18768" date="1992-06-29 00:57:26"/>
+		<rom name="GAMEDAT/TITLE.VGA" size="122793" crc="b4c2d987" md5="cbd8309879e8d25f8e47214ee89cec94" sha1="b732c1b10980c3d5fb7d7bf92eff97e6e00fd94b" date="1992-06-29 01:20:44"/>
+		<rom name="GAMEDAT/TITLES.V00" size="11000" crc="ee0cd6c0" md5="366634d34556de7bc62923602ca5d197" sha1="f4774f2d9a1ad08dd7f19dd680335c7a16c319c5" date="1992-06-29 01:27:06"/>
+		<rom name="GAMEDAT/TM.DRV" size="28337" crc="75d1cc6e" md5="cc8a1bff2ee96615281d5143a73a6746" sha1="1e29f426b6a2514844cfe2d3de0a8bd79929c3bb" date="1992-06-29 01:03:12"/>
+		<rom name="GAMEDAT/TRESC.V00" size="133746" crc="51705be8" md5="a9372dc52e8c98c839e44f7aff80d1c6" sha1="6595b0efd615933012d10c835feec53ed08b6a12" date="1992-06-29 01:16:12"/>
+		<rom name="GAMEDAT/VDU.V00" size="194550" crc="85d085b5" md5="eaa876b0d66b9289816944da491c7449" sha1="2ac9bb7f10663a4f924662029aca33d411a966dd" date="1992-06-29 01:09:56"/>
+		<rom name="GAMEDAT/WC2LOGO.VGA" size="71719" crc="63001bd2" md5="54dc561d213e527b7baec02b0c724394" sha1="f01a896929350e01da272671f7276b3608d2473b" date="1992-06-29 01:21:10"/>
+		<rom name="GAMEDAT/WC2PAL" size="1024" crc="742f06b8" md5="11b21cf930ac8d7e2c4661d54a081bfb" sha1="c86619563d79100cc6f6ed4941da8b0becadb9b2" date="1992-06-29 00:38:02"/>
+		<rom name="GAMEDAT/WING2.TIM" size="21865" crc="1a682947" md5="e2f1f74fb49f153d92a04a6306888f1c" sha1="21bfa25f47a770d15bf8f427551cb1ddd438a893" date="1992-06-29 01:27:56"/>
+		<rom name="GAMEDAT/WINGMAN.V00" size="34522" crc="cad7b017" md5="02cc3dae223e1689e7f2ee6c23ed55c0" sha1="1181254342832fe9785493b13d363f16c055c726" date="1992-06-29 01:27:52"/>
+		<rom name="GAMEDAT/WORMHOLE.V01" size="12632" crc="4cfe3f29" md5="7a68255bd2ec41e2a7da669d3a3ff30b" sha1="27cdb7a970d133d2c23abac4505e815f6f4c99ed" date="1992-06-29 01:27:56"/>
+		<rom name="INSTALL.EXE" size="67178" crc="872005e9" md5="dc0875064b147b0f145e16fa29cc49e1" sha1="877e705f3e48bd5705ce36b7f4882397f0f34c98" date="1992-06-29 00:38:22"/>
+		<rom name="WC2.CFG" size="15" crc="d2c7e240" md5="46e65290c1c7509c0da5ebad22395294" sha1="f4b8d02d1379adf4641d5f093ac529fe812bc58c"/>
+		<rom name="WC2.EXE" size="363696" crc="a0331e4e" md5="fdede10c3bf7112df833d25aac95dc5d" sha1="2a5fcd4ad241243448b7050f1ca5655857de88a3" date="1992-06-29 01:03:10"/>
+	</game>
+	<game name="Wing Commander II - Vengeance of the Kilrathi - Special Operations 1 (1991) (Origin Systems).dosz">
+		<description>Wing Commander II - Vengeance of the Kilrathi - Special Operations 1</description>
+		<comment>Files copied from Wing Commander &amp; Wing Commander II Special CD-ROM Edition. Also matches with GOG</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>1991</year>
+		<developer>Origin Systems</developer>
+		<parent>Wing Commander II - Vengeance of the Kilrathi (1991) (Origin Systems).dosz</parent>
+		<rom name="GAMEDAT/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1993-03-10 15:45:00"/>
+		<rom name="GAMEDAT/ALTSHIPS.001" size="3219" crc="01dbac2e" md5="242658211d45c05ea7d91487f44bd97c" sha1="e400b9519dd71e6d8d60402389135a0a072345ce"/>
+		<rom name="GAMEDAT/CAMPAIGN.S01" size="11037" crc="7f9be253" md5="16c683fc2915b05cce5d8605b54d1227" sha1="13515ba773794ee6c256f847fddfefc623c3e5ec" date="1992-06-29 01:32:24"/>
+		<rom name="GAMEDAT/CLOSEUP.V01" size="53673" crc="da302294" md5="60d34487acb1c69d1b7b46dcf77e4204" sha1="291797c25d286a31cbc9265b80d45ef8d6deaf31" date="1992-06-29 01:35:52"/>
+		<rom name="GAMEDAT/COMMUNIC.S28" size="116054" crc="8fcdcdf8" md5="05f6edf987a7af934fbe92cbbe218458" sha1="0e40a68eb5b6ea3d45b5352c49ec1a94671117f9" date="1992-06-29 01:32:02"/>
+		<rom name="GAMEDAT/COMMUNIC.S29" size="82376" crc="ac2c21c1" md5="7e095faacb013aa1adda960d13964edc" sha1="55f2cedcd8880b431597afb22b0be00c62f7b172" date="1992-06-29 01:31:54"/>
+		<rom name="GAMEDAT/COMMUNIC.T28" size="271" crc="2f22e579" md5="a34a3776e1128ef675f179795b2be469" sha1="41b49c4fbad748147f7f68f22b3417925bf07abb" date="1992-06-29 01:34:26"/>
+		<rom name="GAMEDAT/COMMUNIC.T29" size="233" crc="96da99cc" md5="805cad5ddb5314e188124657b6f58ec8" sha1="0a715bcc1cbbe7d35dfd6e84a660e7d009cfd275" date="1992-06-29 01:34:04"/>
+		<rom name="GAMEDAT/COMMUNIC.YU2" size="609" crc="b27630e5" md5="f00725c0a9122bc690ca840b06d49112" sha1="194cd5929e58da35a61e67ab68ab37468ccc1d29" date="1992-06-29 01:30:56"/>
+		<rom name="GAMEDAT/DOCK.V00" size="7161" crc="777aae44" md5="d51f1d96345fdf2c4ce8c1cd2f8d3123" sha1="8ad94edc7806c7e88d0f83bbd58d834c63590877" date="1992-06-29 01:33:46"/>
+		<rom name="GAMEDAT/FF.V00" size="5283" crc="81ba1765" md5="f64fe73206300f8f8a3acb6e5f5e0158" sha1="f95ca39506d5030bfa2f001755f572a1ec039ce6" date="1992-06-29 01:33:48"/>
+		<rom name="GAMEDAT/GAMEFLOW.S01" size="2632" crc="9d2aaceb" md5="8bdb853fc137f245a6d3af5aaed3238a" sha1="2dd10dc68b122ae526f92c2e1af31042ca758cf6" date="1992-06-29 01:30:46"/>
+		<rom name="GAMEDAT/INCIDENT.S01" size="38691" crc="879bd032" md5="dbbb9c82980f7bcf6d47e01e5957dded" sha1="02150e0b539f42ca62dbdd588ddc717c35c1f7f2" date="1992-06-29 01:30:50"/>
+		<rom name="GAMEDAT/INSULT.EXE" size="31350" crc="9b4f542d" md5="a749a516e1c5814c951931ad4a2a92cf" sha1="311b9ca9977b9c4c928b23e2c817f2c3a19be232" date="1992-06-29 01:33:50"/>
+		<rom name="GAMEDAT/INTEL.028" size="105" crc="a62ce1c6" md5="6c4819e5e89bdcb175d10afe960408a4" sha1="cc44f2138c59f8f84ed3a5a32bc1dbb77d56136e" date="1992-06-29 01:36:48"/>
+		<rom name="GAMEDAT/INTEL.029" size="105" crc="a62ce1c6" md5="6c4819e5e89bdcb175d10afe960408a4" sha1="cc44f2138c59f8f84ed3a5a32bc1dbb77d56136e" date="1992-06-29 01:36:46"/>
+		<rom name="GAMEDAT/INTELSHP.000" size="89" crc="c09d4a9c" md5="29d5b2398b0b7d5d1916161a65029398" sha1="ad180f3a95dc903e30a622304bd123ef9c2842f3" date="1992-06-29 01:33:50"/>
+		<rom name="GAMEDAT/INTELSHP.003" size="89" crc="9982b20a" md5="28940cd0128443349c3e7b028d956978" sha1="74a0a411bcafa8f4384943d31d39c371fccceb59" date="1992-06-29 01:33:50"/>
+		<rom name="GAMEDAT/INTELSHP.015" size="89" crc="7d1c0641" md5="9eb60e80631e5c116cfd7adb9131010b" sha1="eb5cbf3faf8a7ea020da7700ac1fff36a8788bac" date="1992-06-29 01:33:52"/>
+		<rom name="GAMEDAT/INTELSHP.036" size="89" crc="f2e88e1a" md5="f2f8307b68c3c90aa405dc7f7e843f9f" sha1="658f79e31efc2953b88566e1209e09edc320e4a0" date="1992-06-29 01:33:52"/>
+		<rom name="GAMEDAT/KAMGOBYE.V00" size="3113" crc="54204507" md5="d5c60896372ff4ca24f63f2d6e116205" sha1="bb8deb6ae25d9a07f67c24b86a05d86f2a699032" date="1992-06-29 01:33:54"/>
+		<rom name="GAMEDAT/LANDGAME.V20" size="191112" crc="a469f2af" md5="b15cdc8ae7f9d9edda9557f68404034b" sha1="c5da42c56f99318f4ae72ff2ceb10a2d5907cf18" date="1992-06-29 01:32:44"/>
+		<rom name="GAMEDAT/LANDGAME.V21" size="170391" crc="faf8f28d" md5="6e048715a386ccbf28dfe6860efb9e24" sha1="872dd34070b5b0c6da92629d413bc13b35699056" date="1992-06-29 01:33:44"/>
+		<rom name="GAMEDAT/LANDGAME.V22" size="16430" crc="33b5b229" md5="327c246934d140ed47de9a45b7dd37fd" sha1="ccbf481ce17f1e757ab49d48dca2356f3415c7be" date="1992-06-29 01:34:04"/>
+		<rom name="GAMEDAT/LANDGAME.V29" size="12587" crc="991badd2" md5="a62715db7833d200f26e3c3e22a1f2b3" sha1="b9597e440eab96f0b8c620b049bd54f13114c8dc" date="1992-06-29 01:34:06"/>
+		<rom name="GAMEDAT/LAUNCH.V20" size="4415" crc="e9f8cbdf" md5="8195d3a3eec3c623a9a394d01d9b342d" sha1="edc36ce930a21c29d33e0088eaee048bf8f605a3" date="1992-06-29 01:34:08"/>
+		<rom name="GAMEDAT/LAUNCH.V21" size="22143" crc="f0e87379" md5="4774507fb4ae4cbb7cd5ba832e7e5741" sha1="7d0e292d8d21c1c9204f77764bc78dad6392da15" date="1992-06-29 01:34:08"/>
+		<rom name="GAMEDAT/LAUNGAME.V20" size="29956" crc="6e31f285" md5="541b47a55347e0e2c44000fe7db9e5bb" sha1="1b8f6bb0c94a7a1a35fa90f155fd4c7bb4e404a7" date="1992-06-29 01:34:10"/>
+		<rom name="GAMEDAT/LAUNGAME.V21" size="15003" crc="18768761" md5="ac28ac846711926e3a56eab57418258c" sha1="dfc499ce95a412a92ba39c5599587c7c369c099a" date="1992-06-29 01:34:12"/>
+		<rom name="GAMEDAT/LAUNGAME.V22" size="26956" crc="a3194d0c" md5="6cf3964d46251ce2796f4cbf30f56b93" sha1="c0b9c8abd4a00aed6424fdf93871001a2d1ce2bf" date="1992-06-29 01:34:14"/>
+		<rom name="GAMEDAT/LAUNGAME.V23" size="30316" crc="13c7fd04" md5="6938889e0ee6e41681c80db98d18cf6e" sha1="07c8076b91b7fdf9bd3c49e30a48807499d9ed7a" date="1992-06-29 01:34:14"/>
+		<rom name="GAMEDAT/LAUNGAME.V24" size="12866" crc="02b8edb6" md5="4029d007263218bebfd379a5315244f9" sha1="37e735ce7e2b3fbd13acc139fb0b28caf370b08a" date="1992-06-29 01:34:16"/>
+		<rom name="GAMEDAT/LAUNGAME.V29" size="12587" crc="991badd2" md5="a62715db7833d200f26e3c3e22a1f2b3" sha1="b9597e440eab96f0b8c620b049bd54f13114c8dc" date="1992-06-29 01:33:46"/>
+		<rom name="GAMEDAT/LOGO.V01" size="4982" crc="6f80922a" md5="ec51b5917d635f8951a8d86cc036c539" sha1="c4753ddabe54c38a45a5f9c03b558267c75877e0" date="1992-06-29 01:34:28"/>
+		<rom name="GAMEDAT/MEDIUM.V01" size="23094" crc="39b567ce" md5="6db69f9e477da5187dd6e1a0a5dfa4b3" sha1="c9c66154c84a1993561dcb85142987a5ae97d631" date="1992-06-29 01:34:30"/>
+		<rom name="GAMEDAT/MIDBACK.V01" size="9465" crc="09b6233d" md5="f1b4f76fee8b593745d64bd3813b99a6" sha1="109e900c833b3e7a911d40ef0561dacf8aebfd24" date="1992-06-29 01:34:30"/>
+		<rom name="GAMEDAT/MIDFACE.V01" size="19224" crc="e163af4e" md5="8b249ee44571ca7395da8a3d1b085ce6" sha1="f4af4c1d45fae3e82b2df2da0ee3eda7aec5cd9c" date="1992-06-29 01:34:34"/>
+		<rom name="GAMEDAT/MODULE.001" size="45295" crc="e27a1d17" md5="4b2997a62994af92773e91d52359ba59" sha1="99f2406021bf5339caf08485b3f04dab815a1b2c" date="1992-06-29 01:31:26"/>
+		<rom name="GAMEDAT/MUSIC.A01" size="8652" crc="35abeaf6" md5="aaac0272f9b39229a762f01189e47454" sha1="c33079d26b840c84b52cafefe9f94fa1a7112be0" date="1992-06-29 01:31:28"/>
+		<rom name="GAMEDAT/MUSIC.R01" size="10404" crc="b78403e3" md5="706a14f81cab3cdd1731b2d4ec1e5e31" sha1="ce7b61bac8edf4f41e4805d7f57428cb6c2abc3a" date="1992-06-29 01:31:30"/>
+		<rom name="GAMEDAT/PALCOMM.S08" size="14874" crc="bffd3cc3" md5="1adf2fddffef2d5e74125b77c5c3e791" sha1="3d4a0ad7d1373448bc8426edb30aa4d72b9b66e6" date="1992-06-29 01:31:32"/>
+		<rom name="GAMEDAT/PALCOMM.T08" size="188" crc="2283907d" md5="3ad51b9439fe96efc80514d30306e5ce" sha1="74dadc083a20d4024dd9a108de12db55b189d052" date="1992-06-29 01:34:44"/>
+		<rom name="GAMEDAT/PCSHIP.V15" size="114282" crc="5d321fed" md5="6e0917340f3045e1471a4f9613f952d5" sha1="d836c505e3ffa7eb01cb1e3a9784c99d0dbd971c" date="1992-06-29 01:35:02"/>
+		<rom name="GAMEDAT/PEOPLE.V10" size="35437" crc="26175fc2" md5="848c40764d17330d3d0a5e00ddd2faf2" sha1="409808cea8d503fb570942baa09ea4e5f54441b3" date="1992-06-29 01:35:04"/>
+		<rom name="GAMEDAT/PEOPLE.V15" size="34930" crc="644d26bd" md5="50a96fa49edb3ad5995caec7a80079e5" sha1="39c0a2536733fabae299d5d9548bd6a54858c56f" date="1992-06-29 01:35:06"/>
+		<rom name="GAMEDAT/PEOPLE.V20" size="8286" crc="11a8da44" md5="06e46887ed765f34c108c6be464c4151" sha1="317d2bab6c3ae6d9ce26fe054f191600733dab24" date="1992-06-29 01:35:08"/>
+		<rom name="GAMEDAT/PEOPLE.V21" size="15460" crc="80a8cb22" md5="c6647e60445f694d899f5a50b172ba1d" sha1="9468ff46f63691657abe1a0db523628700524d29" date="1992-06-29 01:35:08"/>
+		<rom name="GAMEDAT/PEOPLE.V22" size="48206" crc="67d7f793" md5="7a199bf3fd050c14e279b27768c55aa5" sha1="47049bd5863d5712c231b5a70508de45e26e528b" date="1992-06-29 01:35:10"/>
+		<rom name="GAMEDAT/PICKUP.V00" size="158265" crc="820b7c0a" md5="7f14dd3d7ab346893a301e4d785c1b3e" sha1="367f16d7f4db9f348de8fe8dadd35cc96369157d" date="1992-06-29 01:33:36"/>
+		<rom name="GAMEDAT/PLANETS.V01" size="20493" crc="24f01c36" md5="cd89d708800b247a1ec6ffc0cc942661" sha1="c7c75f683b8fc45c547710c098c931bb61609651" date="1992-06-29 01:35:20"/>
+		<rom name="GAMEDAT/SCREENS.V01" size="3227" crc="71187237" md5="fcecc5e3b7875a8510c1d50168f9b5b5" sha1="774d23736bfdc5da2a1e86ce3c36a86bd6dac179" date="1992-06-29 01:36:48"/>
+		<rom name="GAMEDAT/SERIES.S01" size="156568" crc="f5ba072e" md5="997ce3affd61682d30ffa3d6d07eca47" sha1="a3773a0b1ab86fffbe13446701e7fff1c95ef0d6" date="1992-06-29 01:35:48"/>
+		<rom name="GAMEDAT/SHIP.V15" size="112907" crc="0566ad3c" md5="f88da8ba9ddee4cbc64298a96f21b764" sha1="9266ca66be9e30ae002deefa8c7c8cd70c911358" date="1992-06-29 01:33:28"/>
+		<rom name="GAMEDAT/SHIP.V24" size="152023" crc="311bcf01" md5="75084a05f4be72b3a9355caa73dfb02b" sha1="e11b4a551d213b007e903614bd4576530642a70f" date="1992-06-29 01:36:28"/>
+		<rom name="GAMEDAT/SHIP.V36" size="88694" crc="0f93b242" md5="7cc2273e474775287a923ff06c19b70b" sha1="67998cfdd1d691017dbd66d0056f9de40f377dfe" date="1992-06-29 01:36:34"/>
+		<rom name="GAMEDAT/SPEECH.S10" size="429433" crc="459b8b5c" md5="2489515e2e3c990884ae5219dcd32d57" sha1="8a5625d1cb13c2cef46c7d0425efd095294fa256" date="1992-06-29 01:29:48"/>
+		<rom name="GAMEDAT/STARTGLB.001" size="1538" crc="84673a66" md5="e7d8468432335e9c906647ef53f71a5d" sha1="db9860a684649d6b25cdc4f12124bb84c9702199" date="1992-06-29 01:32:26"/>
+		<rom name="GAMEDAT/VDU.V01" size="32780" crc="76885878" md5="7de21d0ba93d2c130ebdce7f5dc7d9dd" sha1="b27a1bdcff2681264dbf6eae2b36d9b5b5ef116c" date="1992-06-29 01:36:46"/>
+		<rom name="GAMEDAT/XHT.V00" size="9814" crc="df40cd22" md5="2dd1a20bab8f4483471bcb95a8d5ded4" sha1="66fa2f6444da6ee9e3e28b80f112fbfa96c94f45" date="1992-06-29 01:36:52"/>
+		<rom name="INSTALL1.DAT" size="1260" crc="9499ef0a" md5="b522ed0a52e3ac87e76306e0cdafe291" sha1="16ff9f536bae56e820d987c9a400b6b25707e8ad" date="1992-06-29 01:36:52"/>
+		<rom name="INSTALL1.EXE" size="70800" crc="561ae1a0" md5="97bb4f147c70cd7f2b10758d139bbc8a" sha1="8efee0da7312f232f2e748d7713b09286ed51a1e" date="1992-06-29 01:36:52"/>
+		<rom name="SO1.EXE" size="363600" crc="4f3200fc" md5="3dc47036803a0d64eae1ed41c47c1f50" sha1="5d9a85aac5f06d66af01334c877237bd8dc01804" date="1992-06-29 01:36:56"/>
+		<rom name="Wing Commander II - Vengeance of the Kilrathi (1991) (Origin Systems).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Wing Commander II - Vengeance of the Kilrathi - Special Operations 2 (1992) (Origin Systems).dosz">
+		<description>Wing Commander II - Vengeance of the Kilrathi - Special Operations 2</description>
+		<comment>Files copied from Wing Commander &amp; Wing Commander II Special CD-ROM Edition. Also matches with GOG</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>1992</year>
+		<developer>Origin Systems</developer>
+		<parent>Wing Commander II - Vengeance of the Kilrathi - Special Operations 1 (1991) (Origin Systems).dosz</parent>
+		<rom name="GAMEDAT/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1993-03-10 15:45:00"/>
+		<rom name="GAMEDAT/ALTSHIPS.002" size="4701" crc="a8c7f631" md5="a3651694a7cf95aa4a2bed68407e02a1" sha1="5502b22646d71c1adb88e4f18b666e4d67f8eeae" date="1992-06-29 01:51:58"/>
+		<rom name="GAMEDAT/ARTDATA.V02" size="6712" crc="b5329c77" md5="4375bac9c811e4072e3063d3ca092651" sha1="627d6dff1b9b31d5580d0672d36ac0f9ff94c55b"/>
+		<rom name="GAMEDAT/BLOWBY.V00" size="16523" crc="c310e10d" md5="d48c4980b408c6760b9c7083f551e8f7" sha1="6fdd2c8d37407887f10b93e41ed90df0062ff587" date="1992-06-29 01:51:40"/>
+		<rom name="GAMEDAT/CAMPAIGN.S02" size="19832" crc="4cff777d" md5="c4f013e217c8af1ba6ac1fdf238f00a4" sha1="08da19acba48bf1e0fc0fba06b85a023187d5202" date="1992-06-29 01:51:32"/>
+		<rom name="GAMEDAT/CLOSEUP.V02" size="55225" crc="87b53940" md5="ed2e23cec8bc6fad894501c1870fbba8" sha1="415bd85936289a038f90d2f0a3081d6c65dd24a1" date="1992-06-29 01:50:40"/>
+		<rom name="GAMEDAT/COMMUNIC.S36" size="276764" crc="517cae38" md5="ab88a67193d018f4ca56bd0b9c41aab0" sha1="c5ec2af78c89d4f3177c9f40df58062364260879" date="1992-06-29 01:48:24"/>
+		<rom name="GAMEDAT/COMMUNIC.S37" size="129237" crc="3f476f88" md5="217736bf1b5bcc7e3da0025156bdc706" sha1="f1d1bc19dc392a488ebc83c3f6b2718c7bf3fb1c" date="1992-06-29 01:49:40"/>
+		<rom name="GAMEDAT/COMMUNIC.T36" size="613" crc="eedeb002" md5="b7750da8341ce43c63881126015c942f" sha1="362d9ba78b7a20955f74a068b84bf55ffc5bd1ff" date="1992-06-29 01:49:24"/>
+		<rom name="GAMEDAT/COMMUNIC.T37" size="426" crc="982823cb" md5="002557306157127bf21fc90fd7e36ba0" sha1="32ebdd788663c6415dc7d24860080b1b8b1bfc4e" date="1992-06-29 01:48:36"/>
+		<rom name="GAMEDAT/COMMUNIC.YU3" size="609" crc="b27630e5" md5="f00725c0a9122bc690ca840b06d49112" sha1="194cd5929e58da35a61e67ab68ab37468ccc1d29" date="1992-06-29 01:49:56"/>
+		<rom name="GAMEDAT/EST.V20" size="7594" crc="665ca0ff" md5="5066f223d8b3debacaad74773d790d83" sha1="ba62f69cbc1b8fb0d84b14e6809355a8e9406505" date="1992-06-29 01:48:38"/>
+		<rom name="GAMEDAT/EST.V21" size="18994" crc="51dccb40" md5="f74d37f39bc0b43289ac9af30d2de8e8" sha1="a52126d8c05f1ef1c7deced1981b0440b76aad7c" date="1992-06-29 01:48:40"/>
+		<rom name="GAMEDAT/EST.V22" size="17002" crc="65df0e94" md5="cf7697a04509257f8c715054f66e5496" sha1="043a3706541d663d9bca45f1ba4a9a6c0ff0ed2b" date="1992-06-29 01:48:40"/>
+		<rom name="GAMEDAT/FIELD.V02" size="42406" crc="bd248f92" md5="e5a75c2c5b7611138d5a7ac421124a92" sha1="36d3b055a8cd08f4bfbcbb8746b64e2adfcbd12d" date="1992-06-29 01:48:44"/>
+		<rom name="GAMEDAT/GAMEFLOW.S02" size="4580" crc="665df661" md5="262b2f95372d21da10df05010c912058" sha1="721a14f8f111e2051644a3f70a6f2760d79adc89" date="1992-06-29 01:48:44"/>
+		<rom name="GAMEDAT/HELMET.V20" size="2125" crc="32624329" md5="41347144c1d9586780bc6b8cfd04ed26" sha1="3a03b88775959b82c5f2260434e5a676e670d933" date="1992-06-29 01:48:46"/>
+		<rom name="GAMEDAT/INCIDENT.S02" size="54672" crc="7f13f0f2" md5="12e9cd35164b3410330ed76ffa630fd3" sha1="5c76ffefd929b5940f5d028d40ae6e0e5e074b2d" date="1992-06-29 01:49:06"/>
+		<rom name="GAMEDAT/INSULT2.EXE" size="32794" crc="e13b3af5" md5="a6b999c070218ef3e7cc817c51950c1d" sha1="ce158120049553b26eccc4913ac045e85ff43c20" date="1992-06-29 01:49:06"/>
+		<rom name="GAMEDAT/INTEL.036" size="105" crc="a62ce1c6" md5="6c4819e5e89bdcb175d10afe960408a4" sha1="cc44f2138c59f8f84ed3a5a32bc1dbb77d56136e" date="1992-06-29 01:49:08"/>
+		<rom name="GAMEDAT/INTELSHP.002" size="89" crc="f2e88e1a" md5="f2f8307b68c3c90aa405dc7f7e843f9f" sha1="658f79e31efc2953b88566e1209e09edc320e4a0" date="1992-06-29 01:49:08"/>
+		<rom name="GAMEDAT/INTELSHP.004" size="89" crc="7d1c0641" md5="9eb60e80631e5c116cfd7adb9131010b" sha1="eb5cbf3faf8a7ea020da7700ac1fff36a8788bac" date="1992-06-29 01:49:10"/>
+		<rom name="GAMEDAT/INTELSHP.041" size="89" crc="c09d4a9c" md5="29d5b2398b0b7d5d1916161a65029398" sha1="ad180f3a95dc903e30a622304bd123ef9c2842f3" date="1992-06-29 01:49:10"/>
+		<rom name="GAMEDAT/INTELSHP.050" size="89" crc="f2e88e1a" md5="f2f8307b68c3c90aa405dc7f7e843f9f" sha1="658f79e31efc2953b88566e1209e09edc320e4a0" date="1992-06-29 01:49:10"/>
+		<rom name="GAMEDAT/KISS.V20" size="155017" crc="59b7bbe5" md5="ac20627d0ef559d6e569dbe97846dddc" sha1="91fdbcd7a6235822502a223336d38e0522f7982d" date="1992-06-29 01:44:06"/>
+		<rom name="GAMEDAT/LAND.V30" size="11292" crc="66641fd7" md5="72b0cb83b4e988669cde8b713a488481" sha1="da42d4835e7bfffabee3f296a34fc1d4a90614b1" date="1992-06-29 01:49:26"/>
+		<rom name="GAMEDAT/LAND.V39" size="7686" crc="e9ed3cba" md5="7aaa0d01312cd8d8a7e85177c3241a3b" sha1="c99e667a6ea58f9a5035a008c0d6a37854aec2c3" date="1992-06-29 01:49:26"/>
+		<rom name="GAMEDAT/LAUNCH.V30" size="7269" crc="4e12a12d" md5="e23ffdd9dc03a955ee606a0bf0c9c7f0" sha1="31bdf546be84f9a1461395826bccc4ca55a17f3e" date="1992-06-29 01:49:28"/>
+		<rom name="GAMEDAT/LAUNCH.V31" size="13671" crc="6ee2d763" md5="43ca7b384807786467ec1a9a3e8ebe8b" sha1="22adbf0e529cac1a24ddede24c87a3ffa6918dea" date="1992-06-29 01:49:30"/>
+		<rom name="GAMEDAT/LAUNCH.V32" size="13671" crc="6ee2d763" md5="43ca7b384807786467ec1a9a3e8ebe8b" sha1="22adbf0e529cac1a24ddede24c87a3ffa6918dea" date="1992-06-29 01:49:30"/>
+		<rom name="GAMEDAT/LAUNCH.V39" size="3043" crc="9333e72f" md5="c92a5f95c5ab519d2c445178e63e2780" sha1="89f75f29fff169a3fbe1425ce0a9d22d2e97f289" date="1992-06-29 01:49:32"/>
+		<rom name="GAMEDAT/LAUNGAME.V39" size="12552" crc="3cc9a8be" md5="84385799d726f065ac83a077dcbea9a7" sha1="1a1ded4246dff114bfecbdbf6e54ee7de4f6cdcb" date="1992-06-29 01:49:32"/>
+		<rom name="GAMEDAT/LOGO.V02" size="10981" crc="ada542c7" md5="ea81027ba3861b0f0c291e6320d9eb3c" sha1="45206be0dca38c4fb470367fd90fe86c8b93ab95" date="1992-06-29 01:49:34"/>
+		<rom name="GAMEDAT/MEDIUM.V02" size="31997" crc="2d15c1e8" md5="4f89b2f18e061d6a4981861179226f91" sha1="4c36efef757ffe69746417bfa79d42c239504e64" date="1992-06-29 01:52:06"/>
+		<rom name="GAMEDAT/MIDBACK.V02" size="12415" crc="949e5226" md5="92c153e1673f0deb859e23251b25968c" sha1="88d3c1086ec8b89f2eb858f301844b24dd3d135f" date="1992-06-29 01:48:26"/>
+		<rom name="GAMEDAT/MIDFACE.V02" size="35048" crc="b40e951e" md5="7dd5b906567b29dc3e0b83f9996a52c1" sha1="ad3330fc7c4fab8bc533baaffd7560f00032cb64" date="1992-06-29 01:50:04"/>
+		<rom name="GAMEDAT/MODULE.002" size="177824" crc="fd8c008e" md5="9478eb4e7721bd1eec160419e6f6caa8" sha1="b46915fb93b692f647d72e41b92c92ac280dcff5" date="1992-06-29 01:50:14"/>
+		<rom name="GAMEDAT/MUSIC.A02" size="12779" crc="0772d8cb" md5="3ae494b9562f448f00bd9e2cecf9561d" sha1="e54d381b45601072bfb00e20c31575fd31b33228" date="1992-06-29 01:50:16"/>
+		<rom name="GAMEDAT/MUSIC.R02" size="15377" crc="0db334f7" md5="fb4875fa3c91629a44c2fc3779d33fae" sha1="5319a608c613f8ec21d829308892ffb281ce4f0b" date="1992-06-29 01:50:16"/>
+		<rom name="GAMEDAT/NUKE.VGA" size="36611" crc="ddfb456c" md5="ef129a7a9a5f70d2cffb07b2ce87012b" sha1="9aa9771285e1a206a3e634c5b12bbe3cbacf69ad" date="1992-06-29 01:50:18"/>
+		<rom name="GAMEDAT/PALCOMM.S28" size="14874" crc="bffd3cc3" md5="1adf2fddffef2d5e74125b77c5c3e791" sha1="3d4a0ad7d1373448bc8426edb30aa4d72b9b66e6" date="1992-06-29 01:42:46"/>
+		<rom name="GAMEDAT/PCSHIP.V41" size="101551" crc="e84acafe" md5="faec1219e57cf30c901263ffa05da9c7" sha1="4ef9f5608998b685895ecb33dc742bed8764d04b" date="1992-06-29 01:50:34"/>
+		<rom name="GAMEDAT/PEOPLE.V30" size="38741" crc="04d24b74" md5="ebda3f5305b65e048eb3158b06993c2b" sha1="3bd8a5f1c982518a8854eaede69ba7b90c9e4144" date="1992-06-29 01:50:36"/>
+		<rom name="GAMEDAT/PEOPLE.V31" size="44674" crc="3005c365" md5="13e17b25d5509401df4b30ce33931a98" sha1="2a66bd73b8cf2632a7312a85319fd6d28fb7a5e7" date="1992-06-29 01:47:50"/>
+		<rom name="GAMEDAT/PEOPLE.V32" size="40391" crc="3fadc49c" md5="778204fb57ad721cf680dd708326fb39" sha1="151d2be0de45437b5aba567ac271d9fad9dc95fb" date="1992-06-29 01:50:42"/>
+		<rom name="GAMEDAT/PEOPLE.V33" size="40836" crc="78d03dd3" md5="8289830a20d2b25fdf3749f1e7279170" sha1="f83ebdfcf8e33d763038bd589c7e832827068982" date="1992-06-29 01:50:44"/>
+		<rom name="GAMEDAT/PEOPLE.V38" size="15460" crc="80a8cb22" md5="c6647e60445f694d899f5a50b172ba1d" sha1="9468ff46f63691657abe1a0db523628700524d29" date="1992-06-29 01:50:46"/>
+		<rom name="GAMEDAT/PEOPLE.V39" size="8286" crc="11a8da44" md5="06e46887ed765f34c108c6be464c4151" sha1="317d2bab6c3ae6d9ce26fe054f191600733dab24" date="1992-06-29 01:50:46"/>
+		<rom name="GAMEDAT/PLANETS.V02" size="20493" crc="24f01c36" md5="cd89d708800b247a1ec6ffc0cc942661" sha1="c7c75f683b8fc45c547710c098c931bb61609651" date="1992-06-29 01:50:56"/>
+		<rom name="GAMEDAT/SCREENS.V02" size="2441" crc="9c8c21f7" md5="704bbcec0cae51b5868577b921d180bd" sha1="cb261bd83e27587ebc983c930220a7ea401c1405" date="1992-06-29 01:50:58"/>
+		<rom name="GAMEDAT/SECTOR.002" size="5" crc="9ed67719" md5="f5141a70441f01cd9e1e28d0f383245e" sha1="fd981dd4917ed6d23d450bf312ea0525e578a797" date="1992-06-29 01:43:14"/>
+		<rom name="GAMEDAT/SERIES.S02" size="147124" crc="b044baef" md5="89457087bec21c715f5910ad2d98c6d5" sha1="3e130206809e252df3eda7973941efdec2d896c0" date="1992-06-29 01:51:24"/>
+		<rom name="GAMEDAT/SHIP.V41" size="88194" crc="baeba40c" md5="758bb3dc6707bfdd6722881f1f7089f2" sha1="29692af93400408399226bf2e4c792a15297fc90" date="1992-06-29 01:51:30"/>
+		<rom name="GAMEDAT/SHIP.V48" size="458681" crc="c0b6e321" md5="7bdf55bbb563a5298ffefe5062018b32" sha1="e6eb869ba191ef3b2a11492783e87ad352eb4206" date="1992-06-29 01:47:48"/>
+		<rom name="GAMEDAT/SHIP.V50" size="88694" crc="7efc7160" md5="83c821935656f46c7b8893fd085efc5a" sha1="817d3c7b643639dd19708298bbdd956f81f73433" date="1992-06-29 01:51:38"/>
+		<rom name="GAMEDAT/SPEECH.S20" size="273904" crc="c06999d2" md5="6ad3d7ac235739bbe747acaddaef2191" sha1="90343d8ee2cdcfe69063d731fb638f6a8628245f" date="1992-06-29 01:44:26"/>
+		<rom name="GAMEDAT/SPEECH.S21" size="133685" crc="5f1b750e" md5="1daf1aa489804f0dab3aaf690cd9e91b" sha1="1fb6362d2b13ab1293b2140a73d8727bb06ed9ab" date="1992-06-29 01:51:46"/>
+		<rom name="GAMEDAT/SPEECH.S22" size="24456" crc="1ae5a491" md5="968354534e4125f0682576e2126d3f63" sha1="1d2690cd4dcba05e1afe5f6ff2bff8834c210cbf" date="1992-06-29 01:43:44"/>
+		<rom name="GAMEDAT/STARTGLB.002" size="1538" crc="84673a66" md5="e7d8468432335e9c906647ef53f71a5d" sha1="db9860a684649d6b25cdc4f12124bb84c9702199" date="1992-06-29 01:43:46"/>
+		<rom name="GAMEDAT/STATIC.V30" size="2073" crc="2590846a" md5="20a2cf4141936d1e1fae808d010bd33e" sha1="64e694a0ac8bd2aa8a9873ac811faf8cda601e11" date="1992-06-29 01:51:46"/>
+		<rom name="GAMEDAT/TEMPGLOB.002" size="1538" crc="84673a66" md5="e7d8468432335e9c906647ef53f71a5d" sha1="db9860a684649d6b25cdc4f12124bb84c9702199" date="1992-06-29 01:43:50"/>
+		<rom name="GAMEDAT/TOAST.V99" size="214069" crc="1fa8c4e5" md5="bb8678231c58af2847ba34489938bcd3" sha1="2c0cdb74d5df3fe444742f4701194159313b429a" date="1992-06-29 01:44:18"/>
+		<rom name="GAMEDAT/TOSS.V20" size="6607" crc="5d4c6293" md5="f442bb3c30ae9a81128d4885a0e4bc8c" sha1="258a9f5e694c0cca79feeb38233f5ded2d6de692" date="1992-06-29 01:52:04"/>
+		<rom name="GAMEDAT/VDU.V02" size="38068" crc="33d58433" md5="ed8162c28d79696e6976c00f5fed5c10" sha1="baa1ce8a2f5f048399af04ebf73b35feeeeef8c8" date="1992-06-29 01:52:02"/>
+		<rom name="GAMEDAT/YAHOO.V00" size="377984" crc="8b2303b8" md5="c0f99acbac5c69e5b6c5f1e51d999de8" sha1="758c364741935edb47bada90d3db920100e15b37" date="1992-06-29 01:48:14"/>
+		<rom name="INSTALL2.DAT" size="1400" crc="3579dd88" md5="7cd59006afa7d8cb0f72537a151de05d" sha1="cb7d3b5c6a6bc7c8ed248c9cef180d7e95e4102e" date="1992-06-29 01:52:08"/>
+		<rom name="INSTALL2.EXE" size="134504" crc="18f0e221" md5="f93890fb84d1ae4aa79eea97fb5606ff" sha1="923970fa9f77fb238f4ab22a44bf104e8a2be99f" date="1992-06-29 01:52:06"/>
+		<rom name="SO2.EXE" size="354400" crc="3a033890" md5="a19a46cb9f5b244987df9272dca6ca29" sha1="250e4c6545cea153c4fb1f5429a5b216ed1a3367" date="1992-06-29 01:52:10"/>
+		<rom name="Wing Commander II - Vengeance of the Kilrathi - Special Operations 1 (1991) (Origin Systems).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
 	<game name="XF5700 Mantis - Experimental Fighter (1992) (Paragon Software).dosz">
 		<description>XF5700 Mantis - Experimental Fighter</description>
 		<comment>Installed using Redump-verified CD-ROM: XF5700 Mantis - Experimental Fighter (USA)</comment>
