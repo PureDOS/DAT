@@ -332,6 +332,23 @@
 			<track number="10" type="AUDIO" frames="734" pregap="150" duration="00:09:59" size="1726368" crc="300e8553" md5="77894b232602d3cdd65573a8144ea0b9" sha1="fa08cdc1e90e92098a686812a4db9a6cec35e7c5" in_zeros="0" out_zeros="527643"/>
 		</rom>
 	</game>
+	<game name="Quake - X-Men - The Ravages of Apocalypse (1997) (Zero Gravity Entertainment) (Installation).dosz">
+		<description>Quake - X-Men - The Ravages of Apocalypse</description>
+		<year>1997</year>
+		<developer>Zero Gravity Entertainment</developer>
+		<variant>Installation</variant>
+		<comment>Matches with Redump: X-Men - The Ravages of Apocalypse (USA)</comment>
+		<link type="media">http://redump.org/disc/25854/</link>
+		<rom name="X-Men - The Ravages of Apocalypse (USA).chd" size="401648256" crc="c67c1c0a" md5="69029e61f2a1f959d9988c573754cb20" sha1="487409b7b0fc771171c83acb6938c1845f69cc71">
+			<track number="1" type="MODE1_RAW" frames="43045" pregap="0" duration="09:33:70" size="101241840" crc="0a75e421" md5="4e5b41356f44ca7da50521cdb0db86f1" sha1="d4f755c5d80eebc8d7a81f93f36b6e50d7055b61"/>
+			<track number="2" type="AUDIO" frames="21826" pregap="151" duration="04:51:01" size="51334752" crc="e5ad4cd9" md5="6ea6d6f0ced44cd6caf362a27b6c2f8a" sha1="3e054d05c6e1b528309bf8c577bb6b1f6d7986a3" in_zeros="1" out_zeros="8046" trimmed_crc="3383ac20"/>
+			<track number="3" type="AUDIO" frames="21748" pregap="149" duration="04:49:73" size="51151296" crc="d3792761" md5="015897e72f9e21fa588e7d0d2402954e" sha1="21e2ab1e26d626c7c0e8d641d5f556e6d358923d" in_zeros="359232" out_zeros="4307" trimmed_crc="9155957f"/>
+			<track number="4" type="AUDIO" frames="12295" pregap="149" duration="02:43:70" size="28917840" crc="7e497001" md5="6735953ea1917f137e953e19831c4750" sha1="d86cd34f824c56207da44600231f603322cc93b8" in_zeros="362132" out_zeros="4311" trimmed_crc="a33a2b8b"/>
+			<track number="5" type="AUDIO" frames="27071" pregap="149" duration="06:00:71" size="63670992" crc="17eab8ef" md5="a3b15d19e910e14765d9c18bf3bdd757" sha1="60b449870a8ad27eff9c303ef96ac7a4e713f142" in_zeros="362196" out_zeros="4305" trimmed_crc="44745175"/>
+			<track number="6" type="AUDIO" frames="14099" pregap="149" duration="03:07:74" size="33160848" crc="898dd5f8" md5="969cd787a3d804e18e29e50f60d22570" sha1="d6f5368e60e5dad87ab485a739b6496ac082a9b8" in_zeros="360306" out_zeros="87790" trimmed_crc="5af7d7cc"/>
+			<track number="7" type="AUDIO" frames="24903" pregap="149" duration="05:32:03" size="58571856" crc="8af775ce" md5="92319fa0a493321b9c85b9e36cbb3a53" sha1="33c502fdb5fe1f9de0354e4ec0ccb10723ebd3f4" in_zeros="359432" out_zeros="56937" trimmed_crc="29f3d652"/>
+		</rom>
+	</game>
 	<game name="Ultimate Doom, The (1995) (id Software) (Installation).dosz">
 		<description>Ultimate Doom, The</description>
 		<year>1995</year>
