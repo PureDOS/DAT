@@ -10,4 +10,31 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
 	</header>
+	<game name="Space Quest - The Lost Chapter (2001) (Vonster D Monster).dosz">
+		<description>Space Quest - The Lost Chapter</description>
+		<year>2001</year>
+		<developer>Vonster D Monster</developer>
+		<comment>No installation or configuration; do not use version with "Stack Blown" error patch</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="media">https://spacequest.net/misc/fanfiction/fangames/</link>
+		<rom name="AGI" size="39424" crc="40ae7b2d" md5="08c25b0fad4b6bcd10efd072e5bcf4d8" sha1="497f65a34a76b214a71b880f75a0324f047f7a44" date="1986-12-04 09:33:04"/>
+		<rom name="AGIDATA.OVL" size="8192" crc="477bd79b" md5="d83459a8643dfc67b4629ec4afe64e13" sha1="9e424ed24e967c8efb889be832ac3c2d4d01d79c" date="1986-12-01 08:49:20"/>
+		<rom name="CGA_GRAF.OVL" size="1024" crc="838c18ac" md5="e34849e963efdcc942b67ee9bf5c1533" sha1="65bf46b1dc6917c302de523fe39f227218ef46e4" date="1986-12-01 08:48:44"/>
+		<rom name="EGA_GRAF.OVL" size="1024" crc="67e8b0ad" md5="714c88fa15b8327c585b86f3e619b068" sha1="8343b987ce1d288b15eddd32e9f1068189965c21" date="1986-12-01 08:48:46"/>
+		<rom name="HGC_GRAF.OVL" size="1536" crc="7c999ac8" md5="8eb68e541e8ea93da96c7fc4cfde7f3f" sha1="91297527bb4515749bc5f118e2d992d21ddf5fdd" date="1986-12-01 08:48:48"/>
+		<rom name="HGC_OBJS.OVL" size="1024" crc="4232dbd7" md5="a8f5aabf72ed3d4165038275faf8b527" sha1="09b09152b40c394abe835b68bf91bf352f7d2ced" date="1986-12-01 08:48:52"/>
+		<rom name="IBM_OBJS.OVL" size="512" crc="a0a04da4" md5="119949f12a5fc14a082794350c19118b" sha1="3df9134a95fc2690d9ef0c7a6d37ec0bac732944" date="1986-12-01 08:48:50"/>
+		<rom name="JR_GRAF.OVL" size="512" crc="dc361ea6" md5="4488067df5a7201e34ee3b01252e9860" sha1="067bae84c84badc4028bfe2d21da6dac5ebad2c2" date="1986-12-01 08:48:46"/>
+		<rom name="LOGDIR" size="768" crc="c055f242" md5="812edec45cefad559d190ffde2f9c910" sha1="12fcffb8f12fe70990c86763240393f5b30eca5e" date="2001-07-18 15:30:14"/>
+		<rom name="OBJECT" size="847" crc="059540c8" md5="ae9592bedb821f6225bb6acf87ae970f" sha1="46eff37472ca9bc7f93e99f38278236bb0f30f93" date="2001-02-05 11:20:38"/>
+		<rom name="PICDIR" size="768" crc="b05f1c60" md5="5f5e2a55470603f87cb4c6628ce5ac12" sha1="aaa863b4df99944b6a9c125ca18b52eabc1ded2c" date="2001-07-18 15:17:22"/>
+		<rom name="README.TXT" size="2214" crc="04c50323" md5="39a6fefda1483976bfd8cd4df6ed5a1c" sha1="663ad41b9fe134d9b29e6dcdf2611fc2caac396f" date="2001-07-05 09:35:02"/>
+		<rom name="SNDDIR" size="210" crc="12b9ff3a" md5="a1508a0f6348307d0f127f6ba5b4a29e" sha1="75f0e5507ebd52f6fcf4235ab746636c35465980" date="2001-07-18 15:17:26"/>
+		<rom name="SQTLC.COM" size="3115" crc="9d4eb9a4" md5="cfba95c625738ce2a8ee796b82d45743" sha1="f922c6c5252793a0e76621de2ea0457c8de5c65d" date="1986-11-16 13:32:06"/>
+		<rom name="VG_GRAF.OVL" size="512" crc="ca491b69" md5="df5f5263d61e250495c249002c6210a1" sha1="64f946e03fcbaab4519d556add173d89325367c2" date="1986-12-01 08:48:50"/>
+		<rom name="VIEWDIR" size="768" crc="a1b3a055" md5="6c21a8c29d72c940356def47c85a7e2a" sha1="880a27a61227ccc23998d226133599de29eba725" date="2001-07-18 15:17:24"/>
+		<rom name="VOL.0" size="1043539" crc="96f92069" md5="0774a4cebeb36d5cc3f458f0e5815d04" sha1="849edafe7fa9a204609232bddb5d5899c24b1482" date="2001-07-18 15:17:22"/>
+		<rom name="VOL.1" size="589286" crc="8dd300e6" md5="3b429034879351d4158380bbbd6bc9e6" sha1="95a2b6352eda9dc99496e1b25736f42d7d69f38e" date="2001-07-18 15:30:14"/>
+		<rom name="WORDS.TOK" size="3429" crc="73a90362" md5="9501d58f5f329c2515f16656649214e0" sha1="20806494e9ba69a9a0939d34916e596af69635e7" date="2001-04-10 11:09:10"/>
+	</game>
 </datafile>
