@@ -133,6 +133,222 @@
 		<rom name="SETUP.EXE" size="27026" crc="df8c2d0d" md5="7c828c77cc4fd0fb548a89d3b317186c" sha1="262d9263557cb37d8dda9c925eb69fdbfdd0cb3b"/>
 		<rom name="SOUND86.EXE" size="16022" crc="3f473885" md5="89e0afb134b417d8f416da39e7605805" sha1="d49400177b35d718b4c2f8f08e35f175fe1767ff"/>
 	</game>
+	<game name="Betrayal at Krondor (1993) (Dynamix).dosz">
+		<description>Betrayal at Krondor</description>
+		<comment>Installed v1.02 from CD, full install size. CD image converted with CHDtoOGG using -n option</comment>
+		<comment_dosc>CD music config, game speed reduced, and auto start. Sound Blaster, MT-32, and General MIDI options</comment_dosc>
+		<year>1993</year>
+		<developer>Dynamix</developer>
+		<link type="media">http://redump.org/disc/80952/</link>
+		<rom name="ADL.DRV" size="107" crc="b5a5ffe4" md5="e156febd28f92706b4ffe6fa8d541d25" sha1="cc82c291b5d2f0b4cccab546d84b1c0aa4f221be" date="1992-12-03 01:01:00"/>
+		<rom name="Betrayal at Krondor (USA) (Track 1).bin" size="56448" crc="1be232e7" md5="052315fdf52a4076530b6fa185e9c628" sha1="ddbbf38c7623ae8712248ed015380b4f1aaafc2e">
+			<source frames="41785" pregap="0" duration="09:17:10" size="98278320" crc="f6a05e95" md5="3af220b5398d342cc3b3a7561ba5ffda" sha1="baeaca494aab3f03a06c63f12923e72aa0dc2645"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 2).ogg" size="2228099" crc="7cc5589a" md5="417ed65edf65264bb29a80748c93da5e" sha1="ab7f5cc26a8139943eabf59b76a3bcd85efc85ef">
+			<source frames="7412" pregap="150" duration="01:38:62" size="17433024" crc="af871bdd" md5="3be72f6f130739000d5a1b3dd7a27414" sha1="9f8415234e1b569d0b00edca0bbc711f77672641" in_zeros="352800" out_zeros="0" trimmed_crc="2cbbaa34" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 3).ogg" size="2925944" crc="a1cc83f9" md5="c5c2aa26a0841c8bde0f87a844d9ec2c" sha1="56331c84131704e83f7bce9ee43501816613ec75">
+			<source frames="8474" pregap="0" duration="01:52:74" size="19930848" crc="0a427fea" md5="8cb9497bdd6cb57f06586e5d02385c10" sha1="ac376d284bc24479af2ecb5080ad1d713f1ad7d9" in_zeros="0" out_zeros="0" trimmed_crc="0a427fea" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 4).ogg" size="1530502" crc="fca54ba2" md5="a4001cd3382757c4b679e90ed4213d2d" sha1="708353e51ce6734c11cd99b70d5bb8b95be3e429">
+			<source frames="4672" pregap="0" duration="01:02:22" size="10988544" crc="bf4a8237" md5="8db7bc15b05096ed56ab658a438eab02" sha1="d06498bf6e9a1c29c3628610c28a398bc0b989cc" in_zeros="0" out_zeros="0" trimmed_crc="bf4a8237" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 5).ogg" size="1003063" crc="24c0e5c0" md5="d7f24df1bfb46f4bb4572cc9009418e0" sha1="915465c9c4c923d38467d38b8928ab7cb5314d2c">
+			<source frames="3752" pregap="0" duration="00:50:02" size="8824704" crc="afcf5484" md5="f6c1545273fd568f3eaa3ec09e5242a2" sha1="f41c795518bac79d85c26f458e440a65a6f427a2" in_zeros="0" out_zeros="0" trimmed_crc="afcf5484" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 6).ogg" size="2078251" crc="e0034a70" md5="cde9134b9df9fafaf66d49ed3931b89d" sha1="69b515e63475302094e7a41d01910a508b08dbf7">
+			<source frames="6276" pregap="0" duration="01:23:51" size="14761152" crc="069a6978" md5="2ede4fc07fb0ec62d48cc619d29b791d" sha1="a1d4004c77da5a4af9c4cd7b4bd3fc38d733cb8a" in_zeros="0" out_zeros="0" trimmed_crc="069a6978" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 7).ogg" size="997864" crc="3151f557" md5="ff2b4c89e5bb2f7c302ec11974013cf7" sha1="ee6951dd8e221ffb663b9dc3f78752ca2807fcc5">
+			<source frames="3165" pregap="0" duration="00:42:15" size="7444080" crc="fd2df244" md5="838dc3d3f76cfbcb330840f075ab816e" sha1="a52f869533daa1367c7914ddfe1649dee6c0cef4" in_zeros="0" out_zeros="0" trimmed_crc="fd2df244" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 8).ogg" size="559670" crc="9fc97287" md5="9043ae15eaef7927d4f25ba871ff9669" sha1="4aae2ed502831cff8aee5e992fc6f39390c69108">
+			<source frames="1933" pregap="0" duration="00:25:58" size="4546416" crc="eab18c9d" md5="6dc1c621bb9a6aa9377e915a4f94ea18" sha1="440f44bc23bffdf5f2ce8079423ee7195864662b" in_zeros="0" out_zeros="0" trimmed_crc="eab18c9d" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 9).ogg" size="712444" crc="b99ea99a" md5="96f609a826d6c15e604cebb6626e05b9" sha1="6f3f2fb214cf5378c49beaad19c62207bd5f5464">
+			<source frames="2442" pregap="0" duration="00:32:42" size="5743584" crc="e3d704f0" md5="d0370b5111bcec1d1102a5527c15319d" sha1="0c4e1a36f69b9138000e6cb60404f9d71463ea9b" in_zeros="0" out_zeros="0" trimmed_crc="e3d704f0" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 10).ogg" size="226625" crc="08ee6746" md5="fc7634799df9863d2aaedf70b0fe8744" sha1="461889508d536070bbbd9d465df5ef31414bda52">
+			<source frames="929" pregap="0" duration="00:12:29" size="2185008" crc="c735f643" md5="617e621960343d610185179baf462337" sha1="bc6ca07a99c56578e4f78747f84e9ae49b0f4bd8" in_zeros="0" out_zeros="0" trimmed_crc="c735f643" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 11).ogg" size="1690232" crc="a1e307e0" md5="21a6b70687fbb788a903214714227140" sha1="5185629375c16551dacbeb378be4bac97e423af8">
+			<source frames="4950" pregap="0" duration="01:06:00" size="11642400" crc="942ea0c5" md5="3a23cf990d0a5336f9e1b3faba808500" sha1="f865525fcc918b9a2e48efee849b921384641d4d" in_zeros="0" out_zeros="0" trimmed_crc="942ea0c5" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 12).ogg" size="1204711" crc="5fc411f1" md5="e0fc9313f3fbff3f2f42a7cad60315c8" sha1="e88fa0f927bf1bd031c4037f327ec0883ef38f60">
+			<source frames="3827" pregap="0" duration="00:51:02" size="9001104" crc="9bf82716" md5="2549e9a7164bf4beb57f91d27b59e9bb" sha1="d88354e43e02a8f2074e7aa475cd5b4fd29e6f5b" in_zeros="0" out_zeros="0" trimmed_crc="9bf82716" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 13).ogg" size="1198073" crc="956c0f87" md5="2b22b4ada1cc4665f89a08f12deed8ac" sha1="d85e9a6504ec0cb5c282b6729ebb9207b360a706">
+			<source frames="3530" pregap="0" duration="00:47:05" size="8302560" crc="d8825e0b" md5="63812ee90c53078af8cd3a4254211374" sha1="57be0b3ec8ff7f991f6a7c05e59fe4d733126fce" in_zeros="0" out_zeros="0" trimmed_crc="d8825e0b" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 14).ogg" size="1266776" crc="a58ddcab" md5="c1c8a8d3e1a45cc4c1c48c1ec063b367" sha1="09f28224b36fa4014427e483d37abf0e6a1f3e78">
+			<source frames="3626" pregap="0" duration="00:48:26" size="8528352" crc="eddf6ce2" md5="d0082b22ab67375df8c3e100e185a2c3" sha1="68890495c25e51ea54124635ff24b47d213f0d80" in_zeros="0" out_zeros="0" trimmed_crc="eddf6ce2" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 15).ogg" size="1653093" crc="9c064465" md5="213754fcabbb2d83da387abe665afea0" sha1="46e5986e44477bea7d126b4c05f3fde606ae0994">
+			<source frames="4801" pregap="0" duration="01:04:01" size="11291952" crc="a01b2d75" md5="5d416f5aa89c8befb6948ed6a392cc53" sha1="363a5151135d6d136fbaeb01a913e36b8e71e5f9" in_zeros="0" out_zeros="0" trimmed_crc="a01b2d75" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 16).ogg" size="1164284" crc="6a4ba31a" md5="1984a341c96fd374121f97f3a47c8b63" sha1="94720bc64c14a45829fcd5140b55968f5a16f361">
+			<source frames="3463" pregap="0" duration="00:46:13" size="8144976" crc="443f68c9" md5="813d600637c18fa51880b17692fee8da" sha1="87b4588a98c1ba7000461c656d6ff0ed6d8df8c0" in_zeros="0" out_zeros="0" trimmed_crc="443f68c9" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 17).ogg" size="1296705" crc="3d2990cb" md5="07ea7fa1d5f5fa694dc9ed91d8ae173f" sha1="b3f75748a6495676cc43737419762004122bd617">
+			<source frames="3853" pregap="0" duration="00:51:28" size="9062256" crc="caf3da9e" md5="04f4aa7a78eacef170320e1c3d9c7462" sha1="faee73e09f76d71be7e83c62cf604d2e366d6993" in_zeros="0" out_zeros="1" trimmed_crc="467264d7" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 18).ogg" size="2026632" crc="ba22d871" md5="ade81b540a756728b90f0e5b532fa7b6" sha1="d3ea49408e38525a9751dab4d33591371c340650">
+			<source frames="5761" pregap="0" duration="01:16:61" size="13549872" crc="b8833323" md5="d7521ab18cf6d123cfe7bdc1be67e7ca" sha1="205495f34ee63fce4f7aa9d08213d0ff728ac674" in_zeros="0" out_zeros="0" trimmed_crc="b8833323" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 19).ogg" size="1876421" crc="e36cdd1e" md5="8c7bd4f9714fc38a1b1a23086629db62" sha1="288dc3c5e2acf81363ace859ef37fafe1fc38845">
+			<source frames="5440" pregap="0" duration="01:12:40" size="12794880" crc="b661e604" md5="3eb46c6576d740d4ebc6d3c927df709e" sha1="c9e4f82ab5790c8373e79ae194260ad57e4c689e" in_zeros="0" out_zeros="1" trimmed_crc="08a14919" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 20).ogg" size="1378864" crc="f6ba8a6b" md5="7b5eb316480d499eb0f0e93438803fd3" sha1="f6289ba25cbcc42b79291ed6357a8099ff06e195">
+			<source frames="4256" pregap="0" duration="00:56:56" size="10010112" crc="cee3927e" md5="8f10974c65c432a960a00674948e6c3c" sha1="086b3247ee1f02fba72e5f0298b65ef2034e802d" in_zeros="0" out_zeros="0" trimmed_crc="cee3927e" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 21).ogg" size="1640146" crc="e1bcc5e8" md5="3ea0e94fad59f71336bc409781af0eb4" sha1="4337098f2f38c5a04810b7e8be92d1b5b0eae325">
+			<source frames="4841" pregap="0" duration="01:04:41" size="11386032" crc="8280593c" md5="e5b546e8e548157a71ce572482553f5d" sha1="bdbdb7c6b918b308d151553e65c9d70d234ed6d2" in_zeros="0" out_zeros="0" trimmed_crc="8280593c" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 22).ogg" size="1704231" crc="e4b0b672" md5="c1ab6ed1d7f536f2cc9a5eb5523f63f5" sha1="e274d025225488cc7e90f41ecf1be12ff65d4edc">
+			<source frames="5761" pregap="0" duration="01:16:61" size="13549872" crc="528583f1" md5="8c7eafe068cc4f75caacf88bcd2a31e4" sha1="3a74cb06b0e2d1c3e3038f18a8d5821db9a62342" in_zeros="0" out_zeros="0" trimmed_crc="528583f1" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 23).ogg" size="1392056" crc="21d5c13b" md5="9e60723d712029eab9d49b3fb39bbbf2" sha1="776d136cfaea99df5b4b1207425fcf2c930c7905">
+			<source frames="4358" pregap="0" duration="00:58:08" size="10250016" crc="53f5c808" md5="acbb5c5dba3b0ea097f2849736cea858" sha1="24180afb7d1760b7dbd55fa3a8a8408f8127e848" in_zeros="0" out_zeros="0" trimmed_crc="53f5c808" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 24).ogg" size="2872706" crc="7a4d1b23" md5="4af533cfb4b1a7b357bc2e0e125eaa3c" sha1="7fac1718bcbf61a6d259837a6766d6f0330c36e4">
+			<source frames="7888" pregap="0" duration="01:45:13" size="18552576" crc="1a1f28bf" md5="64904d166887d61829371551020ad9ab" sha1="77d5d43815214985873f28d622a6b341ef1e0dd6" in_zeros="0" out_zeros="0" trimmed_crc="1a1f28bf" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 25).ogg" size="2063657" crc="8b362e41" md5="f780f865390b5576fa9497bf6de0940e" sha1="859c90000447f6c09b69b170211eb7bc09038034">
+			<source frames="5333" pregap="0" duration="01:11:08" size="12543216" crc="c7d94b45" md5="fc9e3c066db8af5b53190c603e32950a" sha1="37469157d274867c1602c7295cd48926afc3c227" in_zeros="0" out_zeros="0" trimmed_crc="c7d94b45" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 26).ogg" size="1353308" crc="8683af07" md5="6435611adcfb8e8f9ec280b94443e63a" sha1="bb510af62219be0822f586bdba64185efb875ba1">
+			<source frames="4191" pregap="0" duration="00:55:66" size="9857232" crc="4d0ecd90" md5="d90bcdffb3a653d3faa294890118d7fb" sha1="966eddb23019546fe6a16a4a23f529a865ef3d18" in_zeros="0" out_zeros="0" trimmed_crc="4d0ecd90" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 27).ogg" size="1149091" crc="065eea37" md5="0ce2dad61f53b75b1b84731dd57298cc" sha1="3e0e0ad2658405dd672499610b354dd55887acb6">
+			<source frames="3359" pregap="0" duration="00:44:59" size="7900368" crc="8b52db7a" md5="24543b017d8c3873cd2ddac15bbee9f3" sha1="9dbf82dac79feb1ea1b786baf702ddc9d9643478" in_zeros="0" out_zeros="0" trimmed_crc="8b52db7a" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 28).ogg" size="1122219" crc="e645f511" md5="7d72690bca2c9f31ddec468a248a5f97" sha1="bb5a47289d643977216ff62ea6212e4f2373b2a2">
+			<source frames="3230" pregap="0" duration="00:43:05" size="7596960" crc="0643dcee" md5="818c5972e09eedb43e7fecd027e7230c" sha1="d27dc5b2f202ad7146fd5c798d249df19bd7842d" in_zeros="0" out_zeros="0" trimmed_crc="0643dcee" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 29).ogg" size="1233680" crc="353a7925" md5="8de1c29899468f9d2859af0132d8078f" sha1="2df58843a268051640c3b4344964c56715fbd797">
+			<source frames="3558" pregap="0" duration="00:47:33" size="8368416" crc="510cb2a2" md5="0b9029bea9e359e0c1b55907f38d414e" sha1="caa1a900b616f08cc26b6f780129e952de415957" in_zeros="0" out_zeros="0" trimmed_crc="510cb2a2" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 30).ogg" size="1109403" crc="70e1723c" md5="b9cf11521f7797cb6ad680b4a2277cde" sha1="2a2433f6a72343c3e6d61402b3637f96686066e0">
+			<source frames="3369" pregap="0" duration="00:44:69" size="7923888" crc="59c595ee" md5="0c6519f747a8cd156c0bdf0610a93a7f" sha1="a765afb29562d7e0755e4fbd41872d06ba071a32" in_zeros="0" out_zeros="0" trimmed_crc="59c595ee" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 31).ogg" size="857259" crc="1873508d" md5="fc744062c83c26f7f755b0a0da6def6a" sha1="de191edc17c6682a8f5a49fcb9dd6425ff8e4a7d">
+			<source frames="2564" pregap="0" duration="00:34:14" size="6030528" crc="95968679" md5="2c0fb63503f518658615d7616438c7fb" sha1="53b8a36451b50252e2976505e9256173ce4a85d6" in_zeros="0" out_zeros="0" trimmed_crc="95968679" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 32).ogg" size="2244365" crc="79234f44" md5="44341596f59de49401f3700730a340be" sha1="82ee080a870614557c2cd9e7c23ff7b634ce0fa2">
+			<source frames="5986" pregap="0" duration="01:19:61" size="14079072" crc="fc1a3070" md5="d9b46a8ab1a0f70ce0dd34a0cdba771d" sha1="6cfdf8aaaf9ee40f2a1166e9d1f7a124d0a3be21" in_zeros="0" out_zeros="0" trimmed_crc="fc1a3070" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 33).ogg" size="1256246" crc="497b00dc" md5="405554f7e48a303512c28af7d3e91284" sha1="bd749255c2509466925a35989b8b79378ff42b02">
+			<source frames="3934" pregap="0" duration="00:52:34" size="9252768" crc="9a3e9e32" md5="0bf4ab1f23090596aabef95c96e5b631" sha1="bd3bce8d5683feefc5da87bd3ad722bfb6265d3a" in_zeros="0" out_zeros="0" trimmed_crc="9a3e9e32" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 34).ogg" size="1727752" crc="4504a5cc" md5="641a4f03c69afcf13abec4418978adc4" sha1="fe5365463c57011934f2bac0b2274b7b72fd6f4c">
+			<source frames="4178" pregap="0" duration="00:55:53" size="9826656" crc="5429e9d7" md5="bbaf22b685d8426f3a12f294efc0eb33" sha1="e48ac50da21e9f0be6f386e6060b723ea6910a68" in_zeros="0" out_zeros="0" trimmed_crc="5429e9d7" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 35).ogg" size="1860858" crc="ac96a4ee" md5="d32b5069a6eeba4ff640ffc3fc4761d2" sha1="30cdcc6bddff21dbaa2a34e0e9a8778f38b5d83b">
+			<source frames="5425" pregap="0" duration="01:12:25" size="12759600" crc="7ea09bae" md5="3ff7f1065917a1e50220b9ce342941c1" sha1="3a39a54939af68edab66762689dab81473787cfe" in_zeros="0" out_zeros="0" trimmed_crc="7ea09bae" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 36).ogg" size="226738" crc="6dbc46f2" md5="9e52c5a999e20f89d9e29b4e0b2b2b09" sha1="fb94f17ac97aa57fda0cf53d11118db6be304911">
+			<source frames="929" pregap="0" duration="00:12:29" size="2185008" crc="423ab9a4" md5="4e93a6375aff48818550c5aef414149e" sha1="7a2617db5454aa98d3ab54e96ef3cc77734286b2" in_zeros="0" out_zeros="0" trimmed_crc="423ab9a4" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 37).ogg" size="1020356" crc="e187aa05" md5="7ce2fc05aa0afd51a9be60a05d9505bf" sha1="0ee3ac6d44bc4dc9084809fafd570e601a952381">
+			<source frames="3075" pregap="0" duration="00:41:00" size="7232400" crc="ce95bf92" md5="7ae685142b2191fa46bf3b831e9f31b0" sha1="18d98b0372cc2dedfb903ac6c289c7705c34ffe4" in_zeros="0" out_zeros="0" trimmed_crc="ce95bf92" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 38).ogg" size="2006731" crc="a30a5c30" md5="a211c77e2271e2b2f571cd035dc2437f" sha1="e549dfb7010ea21023375fd5adb96567f6629e78">
+			<source frames="5141" pregap="0" duration="01:08:41" size="12091632" crc="ac1ef362" md5="82048bfd752388386380802530e8379e" sha1="15e285a5d52e18fb8678bba41238a1ae753294f2" in_zeros="0" out_zeros="0" trimmed_crc="ac1ef362" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 39).ogg" size="1752612" crc="167b2c23" md5="9d38e44d2538518d5899b7aa48439dd0" sha1="8336f6c6f1c6f0a0d99c38e5f0f9c8a1b3143242">
+			<source frames="4706" pregap="0" duration="01:02:56" size="11068512" crc="eb944d3b" md5="bcafc4728ab04374e0a08ec4b0bb073c" sha1="2e15dc9db2309c882cf1210101df6dd46ed9aec4" in_zeros="0" out_zeros="0" trimmed_crc="eb944d3b" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 40).ogg" size="641319" crc="fae93ae3" md5="a60f12b7f346bad4b45fb50a3bac673a" sha1="0e91b3d0c5131da6e40d1ccd1a02e8824741c1b7">
+			<source frames="2237" pregap="0" duration="00:29:62" size="5261424" crc="50c4b14b" md5="4e4d39c4a72af0cfce2398823c550e07" sha1="a3068894e31ab731e57b70cf61515377693cd6b4" in_zeros="0" out_zeros="0" trimmed_crc="50c4b14b" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 41).ogg" size="804874" crc="8320b674" md5="95276a0b7d56b847d74304e151779b34" sha1="df390a767fcde6cd1b2f923be5bf755b39b9b240">
+			<source frames="2743" pregap="0" duration="00:36:43" size="6451536" crc="905f88e8" md5="552c10aa8c1f398095e220cd5c1d23b8" sha1="f8a0655eb233931039e2ed8da2f7f7ac7e97ca09" in_zeros="0" out_zeros="0" trimmed_crc="905f88e8" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 42).ogg" size="2272795" crc="967affa7" md5="dd4f500df4a4f0ce17c1d7ea29e70679" sha1="e8c4bccc7d41de4e35f1b93510a1c92de126e5e6">
+			<source frames="6838" pregap="0" duration="01:31:13" size="16082976" crc="6df31eb1" md5="f433b145f113b51050d22dbf614adfb6" sha1="bc540bd45be3091009920867ca77ed3088c18e4a" in_zeros="0" out_zeros="0" trimmed_crc="6df31eb1" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 43).ogg" size="997470" crc="b0e0ca19" md5="412cbf0d1994568c7dc0e96a33583381" sha1="4bba75d16173bd0dcbaa6febf46064f6e81eb0a8">
+			<source frames="3286" pregap="0" duration="00:43:61" size="7728672" crc="08be5574" md5="f6604e1c6169edc1a69bdcd4633ac860" sha1="5e3b2f74d8e68e36f95a2d5cbf4e18044de4a80a" in_zeros="0" out_zeros="0" trimmed_crc="08be5574" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 44).ogg" size="1530860" crc="70927319" md5="bfdd08355c270034a4d0fc79bb77d2b3" sha1="3bdffb63dc85e9fd6c8e04508e4ccb96a735ff46">
+			<source frames="5036" pregap="0" duration="01:07:11" size="11844672" crc="192e829e" md5="67ee51c72c25d1b98327d989219e764a" sha1="0b045cba71557c429465899acb9fb9e067b32b29" in_zeros="0" out_zeros="0" trimmed_crc="192e829e" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 45).ogg" size="1400525" crc="63dc5387" md5="92cf64190dd7a9635e2f631fa2721ba9" sha1="1bb72ad167eef9b46aee264931eda2299b7a7b86">
+			<source frames="3758" pregap="0" duration="00:50:08" size="8838816" crc="2a7fb2a4" md5="329906729993842592caeca3fb266603" sha1="83e13efc04de57ae05084fa2e67574238142625f" in_zeros="0" out_zeros="0" trimmed_crc="2a7fb2a4" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 46).ogg" size="1294255" crc="56dc0843" md5="d3a56f2fdab09123d6e192bc2d6cddc8" sha1="e6165567595e0352c782b621bc6df47922552978">
+			<source frames="4014" pregap="0" duration="00:53:39" size="9440928" crc="d4d6833f" md5="cef07a8ca425515d78d374a8e93f2cae" sha1="0dcab16e3979eb254f878be9ed1fdf356bbf4887" in_zeros="0" out_zeros="0" trimmed_crc="d4d6833f" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 47).ogg" size="123174" crc="a68f1d98" md5="b493487630191c39b7266414de9327d5" sha1="9efe282a67b0789e76b6f57d9c8229e21dabdacb">
+			<source frames="651" pregap="0" duration="00:08:51" size="1531152" crc="e089c9af" md5="a0cf7bc71214808ee4aaa7f6e7343418" sha1="90fc754df54d445980735db6a22fc1113e127a68" in_zeros="0" out_zeros="1" trimmed_crc="534ac12c" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 48).ogg" size="120303" crc="25ec4850" md5="cf5a2738514749b2479befd275e49984" sha1="e51b6d7620ece4a6e6e1a2a64ecce07ea7eba829">
+			<source frames="640" pregap="0" duration="00:08:40" size="1505280" crc="547abd35" md5="a575b5cbc404bb6b642032b812badf2c" sha1="eb578d5f561eca9d89ec89db9e78823e448d8826" in_zeros="0" out_zeros="0" trimmed_crc="547abd35" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 49).ogg" size="181917" crc="0c3a6d62" md5="f99708586f86840fd83336424ebc619c" sha1="470665ffe6bdf97858ce7bad4337e1bd64330e9b">
+			<source frames="817" pregap="0" duration="00:10:67" size="1921584" crc="00f1b538" md5="b9aa973889b917f20500312695b8bda3" sha1="ba063c7b191fbcd05a9fdcabca1b70f987a889dd" in_zeros="0" out_zeros="0" trimmed_crc="00f1b538" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 50).ogg" size="76379" crc="a0dbc3a1" md5="563175fb3e9c51d595153af56df0d36f" sha1="b64d8241d2f6017f9e4f2de984913f6eb93ba308">
+			<source frames="673" pregap="0" duration="00:08:73" size="1582896" crc="35ee6852" md5="7f10f92150adf5c796eb4c796f9427f9" sha1="b1885815d5096db200fbdfd3e99710bd347e4e90" in_zeros="0" out_zeros="0" trimmed_crc="35ee6852" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 51).ogg" size="279595" crc="cf600a62" md5="0f288ecbbed3d238a364d0258ce65a45" sha1="840886c9a002c31f38518eacff33fd9f7aa76c4b">
+			<source frames="1140" pregap="0" duration="00:15:15" size="2681280" crc="7f63d2fd" md5="26b55cb5add296701d2ddc00e5ef1d00" sha1="c8980efbce26e0136ce2253338b4c8b89b8f37dc" in_zeros="0" out_zeros="0" trimmed_crc="7f63d2fd" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 52).ogg" size="292054" crc="72ebf9d4" md5="2ad8e49638cd2f3d211174e73f320610" sha1="5465a959ed07dc3b86bda269b17b0abd65c21092">
+			<source frames="1186" pregap="0" duration="00:15:61" size="2789472" crc="7c7c9e7f" md5="b32e67f4aca7430c93c1e504470ab54e" sha1="14aca55a4bb7de36ff8174d32c728640786ea47e" in_zeros="0" out_zeros="0" trimmed_crc="7c7c9e7f" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 53).ogg" size="289474" crc="7a223a9f" md5="6ccabfd31bd218e1f7e911aa73f6621c" sha1="80188c377b1dc5b3141cc74940a96e8de1f417d2">
+			<source frames="1173" pregap="0" duration="00:15:48" size="2758896" crc="bdc7029e" md5="7b889597b5e0f0d80d24ab2c7b27a77b" sha1="89130393300dae66c77c43f4a22e2815eb816e7c" in_zeros="0" out_zeros="0" trimmed_crc="bdc7029e" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 54).ogg" size="256500" crc="b7e45bf8" md5="c5ed82153ed1c6999711ef2a064dd50d" sha1="f3b19adde91575daf65708860a3baa91e05e9f99">
+			<source frames="1057" pregap="0" duration="00:14:07" size="2486064" crc="ea922022" md5="59d1835101a6003b08370b647aa322aa" sha1="7ca1f136fed3ed4b55f2d6efc631ce864fe03318" in_zeros="0" out_zeros="0" trimmed_crc="ea922022" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 55).ogg" size="242177" crc="ccabf670" md5="74fc2f136d4c617bdea543909823f7c6" sha1="62dd72757b2b86ac634a050188389307d4a18cf5">
+			<source frames="1025" pregap="0" duration="00:13:50" size="2410800" crc="4f492d73" md5="3e808d024967f52d2eca595ddad4c1b8" sha1="dd96350886f5bd9a8a03520ebadf4088d7870c32" in_zeros="0" out_zeros="0" trimmed_crc="4f492d73" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 56).ogg" size="195092" crc="3ab8731d" md5="9c3fd2316430ef98195daf44c1c64bb1" sha1="f39a7110c188484c50abf3ba7811b8c035140613">
+			<source frames="877" pregap="0" duration="00:11:52" size="2062704" crc="4eb53519" md5="314a4dc7696f961c5da10dc45a8421f1" sha1="26aa689361ec652dfa125d094afd75177fbd50f0" in_zeros="0" out_zeros="0" trimmed_crc="4eb53519" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 57).ogg" size="1848006" crc="436f2619" md5="fdbc58cc8301e307e9df4535ec8da8f0" sha1="d0943f40e3016cf2b96a27a6070e1a970d98aeb9">
+			<source frames="5622" pregap="0" duration="01:14:72" size="13222944" crc="6f62da47" md5="dd92d379efee25b3d661b2e7a1cbf47d" sha1="15b4136aa6163cce2460d8580aea0b7fe28c1e29" in_zeros="0" out_zeros="0" trimmed_crc="6f62da47" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 58).ogg" size="1370833" crc="ad922d21" md5="cebe4aaf040aa588c8e6f5afc2a9ae41" sha1="a5581688c02eded3c75257e5eefc259a9ed50b26">
+			<source frames="4081" pregap="0" duration="00:54:31" size="9598512" crc="0b676f7b" md5="569f71bb4dff54bc27dbf4c0b19f6682" sha1="e168defeb7604033c9cf874bde6dea0b39843460" in_zeros="0" out_zeros="1" trimmed_crc="b3da2ae9" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 59).ogg" size="1538999" crc="5e75a272" md5="ff09e4596ca5caa95ebb662030fe368f" sha1="c6220e581d954584aeacd8214f49262bad6646f5">
+			<source frames="4518" pregap="0" duration="01:00:18" size="10626336" crc="920102b9" md5="52bb69e7cd705c7d633717daeb6956ef" sha1="05c0c350a6a3b94e9c13aedb8a8c015c61f4d294" in_zeros="0" out_zeros="6772" trimmed_crc="c04b47e2" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 60).ogg" size="5827" crc="9892f84d" md5="4364deee0f09b33dda053b0c1bb4a977" sha1="c8206eda86a29926a5966a46aa29f47a07d10847">
+			<source frames="704" pregap="0" duration="00:09:29" size="1655808" crc="e39a099c" md5="529976822bcedcd7e894bbeb1d4ab9c4" sha1="ddd08d58328ff7dab32fd2abbba03242e9494fd4" in_zeros="1653420" out_zeros="0" trimmed_crc="a62d40cb" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 61).ogg" size="1303772" crc="36fedcf5" md5="282118b43a8642d002403fb680084545" sha1="b49c9970775c78ca8f0e8842f96f316b0931d545">
+			<source frames="4298" pregap="0" duration="00:57:23" size="10108896" crc="65b92107" md5="abc577b0c51977d6b6e083c3731e7d35" sha1="57b2770e617ae95c3c9424e48cb94497f879523f" in_zeros="0" out_zeros="0" trimmed_crc="65b92107" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 62).ogg" size="1829089" crc="04ae9b34" md5="158737344b3b895a4f71fe7e4900c50b" sha1="4c99fe7aecf67f7dd675512ec380bb73d75141b6">
+			<source frames="5601" pregap="0" duration="01:14:51" size="13173552" crc="90a60fb6" md5="cf851b631da2ba4e09def90d90e8019e" sha1="65c548d0cb3baf355b738764c110c52059a23250" in_zeros="0" out_zeros="0" trimmed_crc="90a60fb6" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA) (Track 63).ogg" size="2076581" crc="da23e67c" md5="3740d13aa72aaf85b0b480a4d7600056" sha1="bd08c562f3cd5a352edf1bee60314214bb0d886a">
+			<source frames="6192" pregap="0" duration="01:22:42" size="14563584" crc="f26addc9" md5="0580529eb0d2266f1b09de61196c1f90" sha1="f21a7a2d0b62597b4c997fca465d4176f7450343" in_zeros="0" out_zeros="718563" trimmed_crc="332235ab" quality="8"/>
+		</rom>
+		<rom name="Betrayal at Krondor (USA).cue" size="5942" crc="11b56ff3" md5="6719f98aa896116aea67d9ee62e3970d" sha1="cfa1074ea549d7694ab36edca9e86f8894471735"/>
+		<rom name="FRP.SX" size="1486774" crc="00878a70" md5="16990eba5e4c00fc459f46b25f4e7844" sha1="4b852727629e8f80499e2511ceabc0d8b57bbf42" date="1993-06-11 14:07:00"/>
+		<rom name="GENMIDI.DRV" size="116" crc="fe394644" md5="b8525cf2809e165c0812b594496ecdde" sha1="5265229f51f9ec5fd5fa54fd246a2eed543890c9" date="1992-12-03 01:01:00"/>
+		<rom name="INSTALL.EXE" size="174860" crc="89bef9a6" md5="0da18b6e6f97869f3bbe893c8e0fb4c9" sha1="490b9bcf095d5543c54bc37bee0f0a53e7088d30" date="1993-05-10 12:18:46"/>
+		<rom name="INSTALL.HLP" size="17555" crc="1067fec2" md5="6f7f08c4e82a98338b56345c6750b45f" sha1="11c5926ae4e6bf2b6d8ce7c772d9e8616bedb625" date="1992-11-20 10:03:52"/>
+		<rom name="INSTALL.SCR" size="3188" crc="749b35ef" md5="27efa506910475ea6e905071e13c0c37" sha1="5787272e2158e3188f54ee477d78ae59ae881e06" date="1994-03-11 14:17:00"/>
+		<rom name="INSTALL.TXT" size="9436" crc="f24c2a0c" md5="22e161e732063961ea9ed4329502400f" sha1="6cf0277435c4918406254ee0cbae549da77a37f7" date="1993-04-26 13:25:42"/>
+		<rom name="KRONDOR.001" size="11562652" crc="d89e0563" md5="b6881f5d98d08b5b2690f0ed57d77004" sha1="742eea90e45f5711f0b795169229c16109037c03" date="1994-03-08 17:29:02"/>
+		<rom name="KRONDOR.EXE" size="456048" crc="d7b6aa1d" md5="0b7b021fcc07bf62718dca22daef3cfc" sha1="b05aed7b145a8770f7eb38c961bb2eccf7da12e2" date="1994-03-21 11:44:24"/>
+		<rom name="KRONDOR.RMF" size="14165" crc="f1c23f87" md5="393d7a0cd087db708d1e187a30bbee34" sha1="bab396dd06a0f8cdbfd25443f054a156ea09dcfa" date="1994-03-08 17:29:04"/>
+		<rom name="MT32.DRV" size="109" crc="0baeb6c4" md5="a1e032df550dc32c10476a477ff08510" sha1="189882f4c7c4234effbe48c422dee2b40aa0a98a" date="1992-12-03 01:01:00"/>
+		<rom name="README" size="8758" crc="a95273c7" md5="237cbc49e88bbbd25d0c0965131079d4" sha1="307838d0ddc20dba0256bdc24a7812876b525081" date="1994-03-08 19:37:10"/>
+		<rom name="README.BAT" size="19" crc="0b810baf" md5="854ad148e3ecd1cf0856ac34ba0c4012" sha1="88de21a935518969147fbaf674fa0c2ee1e222ed" date="1993-06-16 01:00:00"/>
+		<rom name="SNDBLAST.DRV" size="97" crc="46fbecdf" md5="33fd2158eebc211b91ccbc4b68d4cab4" sha1="0cb846cb552a53677ae5353e0af6e21d4a70703b" date="1992-12-03 01:01:00"/>
+		<rom name="STARTUP.GAM" size="334605" crc="d72a793f" md5="0bf05915f21a413fad59a1ebfa5af64c" sha1="4d987cb89ab786188265cdb3bafe343d573ccfa5" date="1993-07-28 12:02:28"/>
+		<rom name="STD.DRV" size="118" crc="fe78b9a7" md5="72b63c9f75ed156abf5f6fcf417d1a57" sha1="a20cec63a8dc4e6cb3253ee8c0478470f61d5d76" date="1992-12-03 01:01:00"/>
+		<rom name="SX.OVL" size="40742" crc="461a46ba" md5="e0a222c89cdcae54838faf6670d77bd8" sha1="a002eafb94b68fc7386b1311ef04ebba4c05c4bf" date="1993-05-05 11:14:12"/>
+		<rom name="VMCODE.OVL" size="44582" crc="7bcb9289" md5="58a0bcdca22e36902b89506b661583a5" sha1="99cc18eecc4379df2268e7e65c27785f4d56a57b" date="1992-10-07 16:19:36"/>
+	</game>
 	<game name="Cosmo's Cosmic Adventure (1992) (Apogee Software).dosz">
 		<description>Cosmo's Cosmic Adventure</description>
 		<comment>Installed v1.20 from 3.5" floppy disk. Also matches GOG</comment>
