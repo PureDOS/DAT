@@ -1,0 +1,382 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Pure DOS DAT - Unverified Variants - Install Media</name>
+		<description>DOS Game Install Media</description>
+		<version>2025-05-01 00-00-00</version>
+		<date>2025-05-01 00-00-00</date>
+		<author>Pure DOS DAT</author>
+		<homepage>Pure DOS DAT</homepage>
+		<url>https://github.com/PureDOS/DAT</url>
+	</header>
+	<game name="B.A.T. (1990) (Computer's Dream) (Installation).dosz">
+		<description>B.A.T.</description>
+		<comment>4 5.25" floppy disks matching TDC Entry: B.A.T. (1990)(Ubi Soft Entertainment Software) [IMA][360k][!]</comment>
+		<year>1990</year>
+		<developer>Computer's Dream</developer>
+		<variant>Installation</variant>
+		<rom name="Disk1.ima" size="368640" crc="72317f0f" md5="f80b42e0ebb690b120643ddf44bd7c99" sha1="557d5938866519aef7b132b57a74fe02643aac0d" date="2022-07-09 20:27:32"/>
+		<rom name="Disk2.ima" size="368640" crc="f0fbab0f" md5="24e5eb7c3e30d045a788e725d9e4e4b3" sha1="e3cb6eec456a19d3418e91e383de01913bb33681" date="2022-07-09 20:30:30"/>
+		<rom name="Disk3.ima" size="368640" crc="cdb69f37" md5="91cd6607e2f1d92e2b6cf6e6342d916c" sha1="1972fdf866aaa96fc36d6b2d6e49e9b19500c23e" date="2022-07-09 20:32:50"/>
+		<rom name="Disk4.ima" size="368640" crc="e926816d" md5="783f23c3c84715fbaf5e007cb5ae48b7" sha1="828402ebcbd275fdce22c1fcb6d637bd659d5046" date="2022-07-09 20:35:14"/>
+	</game>
+	<game name="B.A.T. II - The Koshan Conspiracy (1992) (Computer's Dream) (Installation).dosz">
+		<description>B.A.T. II - The Koshan Conspiracy</description>
+		<comment>7 3.5" floppy disks matching The Good Old Days ID 2073</comment>
+		<year>1992</year>
+		<developer>Computer's Dream</developer>
+		<variant>Installation</variant>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=2073</link>
+		<rom name="disk01.img" size="737280" crc="cb69a667" md5="9725be2a5776455b10702aa339b1ae83" sha1="ae03749881ef540867c87db7d8a1fe03fa411ff9" date="2008-03-24 08:17:34"/>
+		<rom name="disk02.img" size="1474560" crc="9a131ad6" md5="e050482e43c7ae3c3e4cc857b01b3805" sha1="5433af89cbcdb0d689ed792707acd24eca546ac6" date="2008-03-24 08:18:50"/>
+		<rom name="disk03.img" size="1474560" crc="a91729ab" md5="27d80f04d0de8707a00cfab58bc90454" sha1="513643202ff7d2442467cfc440e3391829a69fe1" date="2008-03-24 08:20:24"/>
+		<rom name="disk04.img" size="1474560" crc="40252fb1" md5="cc0c9af3dd3b7c35062a1d0c5fe19a6e" sha1="014ed3b64a28df44840df474f699e62ddd117adc" date="2008-03-24 08:21:36"/>
+		<rom name="disk05.img" size="1474560" crc="bab1adce" md5="36dfcf55695517fc330998373d91e54a" sha1="9efc6c1c909c1929e876da447ca476bd9b389420" date="2008-03-24 08:22:44"/>
+		<rom name="disk06.img" size="1474560" crc="2077bd17" md5="addc4494d1b003db0e52f380b8bf6785" sha1="0623621a990d323b7dbed4dd7ae044a8630fb792" date="2008-03-24 08:23:58"/>
+		<rom name="disk07.img" size="1474560" crc="f03aba54" md5="e90cc258bf4758964cbf4163229cd80d" sha1="9d027dfcec389d8a9412ee21facc684e4be1e0a8" date="2008-03-24 08:25:10"/>
+	</game>
+	<game name="Battle Chess - Enhanced CD Version (1991) (Interplay) (Installation).dosz">
+		<description>Battle Chess - Enhanced CD Version</description>
+		<comment>Redump-verified CD-ROM: Interplay All-Nighter - Anthology No. 2 (USA) (Disc 4)</comment>
+		<year>1991</year>
+		<developer>Interplay</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/81020/</link>
+		<rom name="Interplay All-Nighter - Anthology No. 2 (USA) (Disc 4).chd" size="674140032" crc="a9bdfff6" md5="d8ca44dceb19eca6eb61bd410886e908" sha1="94fdc33d57066718709425fc222d7056e47c688a">
+			<track number="1" type="MODE1_RAW" frames="34275" pregap="0" duration="07:37:00" size="80614800" crc="f20b6462" md5="8bfa1ca925724694136e49b5bf1b0e59" sha1="7b0274e6e128d5ea5bebe936f78554d827c76a0e"/>
+			<track number="2" type="AUDIO" frames="68401" pregap="149" duration="15:12:01" size="160879152" crc="82554293" md5="929a52a4da841556bcd4896167bcbe9c" sha1="b0de1990a0721c363fa7c4818c21a29d36650e02" in_zeros="481700" out_zeros="125481" trimmed_crc="3ce43e35"/>
+			<track number="3" type="AUDIO" frames="3823" pregap="149" duration="00:50:73" size="8991696" crc="c29a21fc" md5="4a691781e0336dc211a75ff756102f70" sha1="b3d87a44f7398042cb15b111494690f404558e7f" in_zeros="354388" out_zeros="357029" trimmed_crc="d93c4e5e"/>
+			<track number="4" type="AUDIO" frames="11178" pregap="149" duration="02:29:03" size="26290656" crc="0d5ae4d1" md5="bcbb2cadd1e950085062d5abb1feb477" sha1="c2751f5ffb8636ce9cbcbfd54e15a5c305fb2eba" in_zeros="354376" out_zeros="357917" trimmed_crc="c65bf5c2"/>
+			<track number="5" type="AUDIO" frames="11726" pregap="149" duration="02:36:26" size="27579552" crc="53063d1e" md5="c2c9bc3904e31aeeb703a5e3c271e791" sha1="c9778bae056a395ff1a0f1b2cd99925213794264" in_zeros="354386" out_zeros="356529" trimmed_crc="6f222382"/>
+			<track number="6" type="AUDIO" frames="11593" pregap="149" duration="02:34:43" size="27266736" crc="de25f4b4" md5="883d1b807baa0a600923ebd6d335c884" sha1="9094a718741c1e3de2fa8cba637015f7ea8b328a" in_zeros="354408" out_zeros="356941" trimmed_crc="459a3690"/>
+			<track number="7" type="AUDIO" frames="11882" pregap="149" duration="02:38:32" size="27946464" crc="b0f85d59" md5="824d4c948d7a8b1f7995bb297f32f978" sha1="aef19796f615c1d9d7aa51566729852b50f2ab96" in_zeros="354426" out_zeros="356069" trimmed_crc="d2fab76a"/>
+			<track number="8" type="AUDIO" frames="11766" pregap="149" duration="02:36:66" size="27673632" crc="409d42db" md5="1de3d63715188b4ad0cb2ffd57450bc2" sha1="568a55c0e35dde2479bc659940a6a3298b2233c6" in_zeros="354428" out_zeros="356777" trimmed_crc="c5e0d114"/>
+			<track number="9" type="AUDIO" frames="754" pregap="149" duration="00:10:04" size="1773408" crc="66644daf" md5="bcac6ce2d569e0b6e40c2b1d53ab2736" sha1="437e99ac60f883f2cca4fe7b88423aef7ee299c1" in_zeros="354492" out_zeros="356561" trimmed_crc="a4d16931"/>
+			<track number="10" type="AUDIO" frames="729" pregap="149" duration="00:09:54" size="1714608" crc="194133a0" md5="5fa377cdcf2219f7a75ff2aa8fef2ffb" sha1="6cf600d04873cbeb091f3e6716f6bbb528210ab3" in_zeros="354448" out_zeros="357761" trimmed_crc="b16e86c8"/>
+			<track number="11" type="AUDIO" frames="818" pregap="149" duration="00:10:68" size="1923936" crc="53673aa7" md5="3db758c3525f44fb79607c62cb2bbccd" sha1="3ee818cf6e949284f51553e344af548df82353d1" in_zeros="354436" out_zeros="356137" trimmed_crc="9d9cd8e7"/>
+			<track number="12" type="AUDIO" frames="791" pregap="149" duration="00:10:41" size="1860432" crc="fc4c985e" md5="c9556f0121f788e91c0208c9ad341ab0" sha1="456420bca3dbe5c59155d8bbaf7c0aac00d48f3b" in_zeros="354496" out_zeros="357005" trimmed_crc="8b04c8b8"/>
+			<track number="13" type="AUDIO" frames="786" pregap="149" duration="00:10:36" size="1848672" crc="ba4ff19a" md5="3909de993c7ca52a78bfd59ff07a57cb" sha1="ed2d17e6ab0d46caf6a2786d286e8f8a475fdd24" in_zeros="354478" out_zeros="357071" trimmed_crc="69955abe"/>
+			<track number="14" type="AUDIO" frames="826" pregap="149" duration="00:11:01" size="1942752" crc="ed8d297a" md5="d5f47e788d6431a6bf98675b6044c955" sha1="6447b642bea294ebef4cef11e18daaa7b9ccc594" in_zeros="354458" out_zeros="359161" trimmed_crc="841c1eaf"/>
+			<track number="15" type="AUDIO" frames="772" pregap="148" duration="00:10:22" size="1815744" crc="9c5af146" md5="3137c9de2f3c67328525bed0fb469902" sha1="47b8cb263858bb8122676b0e20e1ad1f532d92e5" in_zeros="352112" out_zeros="357485" trimmed_crc="ac8fd160"/>
+			<track number="16" type="AUDIO" frames="834" pregap="149" duration="00:11:09" size="1961568" crc="c68a5924" md5="f06f43972029e048c5b7835715ae1099" sha1="f107d8f5f8c72d01062e334ba4ed9838126f805b" in_zeros="354468" out_zeros="358001" trimmed_crc="fe48d61c"/>
+			<track number="17" type="AUDIO" frames="745" pregap="149" duration="00:09:70" size="1752240" crc="9a3aa2ca" md5="98f95f46545622ef01325dc743256a93" sha1="590bc581f9af12c6dd11cd9ab2cf62eaaf8ffb60" in_zeros="354512" out_zeros="356861" trimmed_crc="af57ba5e"/>
+			<track number="18" type="AUDIO" frames="808" pregap="149" duration="00:10:58" size="1900416" crc="ba9cee4a" md5="52bdebf22c626ad8cac62d1e5af5beef" sha1="e77466619cd3a8e2506a1e74a0171b9ad184596d" in_zeros="354556" out_zeros="358025" trimmed_crc="6f2de8f4"/>
+			<track number="19" type="AUDIO" frames="822" pregap="149" duration="00:10:72" size="1933344" crc="452c8c3f" md5="3bd85d33e2970c4ba5cbccf64334cb97" sha1="593812fa2e639146ff3e477b868fde97aa13c38e" in_zeros="354536" out_zeros="356585" trimmed_crc="7365131d"/>
+			<track number="20" type="AUDIO" frames="940" pregap="149" duration="00:12:40" size="2210880" crc="96777036" md5="ea275ef242d53aa1c4d825a0a5f460cf" sha1="c071eb635ec586be11cc311d18a84492937d9197" in_zeros="354488" out_zeros="357421" trimmed_crc="66910d9b"/>
+			<track number="21" type="AUDIO" frames="6307" pregap="149" duration="01:24:07" size="14834064" crc="97bf545a" md5="f3d83cd43ea96fa192b3bf3d9d8f63bc" sha1="d8488e7863f8d83c96d2a643befa26e007c72789" in_zeros="478056" out_zeros="333853" trimmed_crc="572c24c9"/>
+			<track number="22" type="AUDIO" frames="121009" pregap="149" duration="26:53:34" size="284613168" crc="936fccc3" md5="62d780ad255b7cf94261d0c1af9f97e2" sha1="b4e0fb235502f59179db96c6d5fdb1ad137246a2" in_zeros="4700484" out_zeros="328973" trimmed_crc="65dee4f1"/>
+			<track number="23" type="AUDIO" frames="1217" pregap="149" duration="00:16:17" size="2862384" crc="62928f05" md5="6aadfb3d6cecf3df542e433337a11c00" sha1="a4b79cf87e5b2147b89a4060746710c882f4bbe1" in_zeros="354524" out_zeros="358860" trimmed_crc="358d622f"/>
+			<track number="24" type="AUDIO" frames="601" pregap="148" duration="00:08:01" size="1413552" crc="6e4a26e8" md5="6ad5e4df647a553b73f2b9c0d1a4acfb" sha1="6828872daffe9f703face881146c9004e28b7190" in_zeros="352176" out_zeros="591618" trimmed_crc="4c079503"/>
+			<track number="25" type="AUDIO" frames="1421" pregap="149" duration="00:18:71" size="3342192" crc="b8277213" md5="11d7e14ec4e5453a449baa5a8d159e5a" sha1="13b23fe9fc7ae0156f10c4423ddd7fd70eab7517" in_zeros="354536" out_zeros="357182" trimmed_crc="1f01274f"/>
+			<track number="26" type="AUDIO" frames="1429" pregap="149" duration="00:19:04" size="3361008" crc="b148948f" md5="7cb43164f5e207fb398761ddfb22089b" sha1="085a48700bd9d4fc807cd816f3805a2610263241" in_zeros="429638" out_zeros="357877" trimmed_crc="22146cd7"/>
+			<track number="27" type="AUDIO" frames="1537" pregap="149" duration="00:20:37" size="3615024" crc="d7d3a451" md5="43d5c52dc30a43cbb3dfb7b92cc47346" sha1="e70774cc1bb61a88b6cc5e5252d4583421495887" in_zeros="355616" out_zeros="357100" trimmed_crc="a0b13984"/>
+			<track number="28" type="AUDIO" frames="1971" pregap="149" duration="00:26:21" size="4635792" crc="ddd5edc1" md5="788eac8dca42ea37b633aebc59991111" sha1="8f01aa66bc5463b628fb5267c09a1150e9ee8609" in_zeros="355552" out_zeros="884280" trimmed_crc="a224bee0"/>
+		</rom>
+	</game>
+	<game name="Castle of Dr. Brain (1991) (Sierra On-Line) (Installation).dosz">
+		<description>Castle of Dr. Brain</description>
+		<comment>Redump-verified CD-ROM: Castle of Dr. Brain (USA)</comment>
+		<year>1991</year>
+		<developer>Sierra On-Line</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/12602/</link>
+		<rom name="Castle of Dr. Brain (USA).chd" size="176628096" crc="1937fc0b" md5="f68da6c785f8f27527b697b40c2c1c43" sha1="a9bc0725ed5cadc43deeab225ac7325115b0d820">
+			<track number="1" type="MODE1_RAW" frames="72131" pregap="0" duration="16:01:56" size="169652112" crc="a76f0c0f" md5="7698ff6c2096a1d8665348788e96861a" sha1="3cc533710a1147826a97f1aadff937030b0e3e28"/>
+		</rom>
+	</game>
+	<game name="Cosmo's Cosmic Adventure (1992) (Apogee Software) (Installation).dosz">
+		<description>Cosmo's Cosmic Adventure</description>
+		<comment>v1.20, 3.5" floppy disk</comment>
+		<year>1992</year>
+		<developer>Apogee Software</developer>
+		<variant>Installation</variant>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1911</link>
+		<rom name="disk01.img" size="1474560" crc="67739228" md5="344052e3d164afc044ef923308712f8c" sha1="cdb091162699b8f6bff8aff3bd1358781945fc36"/>
+	</game>
+	<game name="Cyberia 2 - Resurrection (1995) (Xatrix Entertainment) (Installation).dosz">
+		<description>Cyberia 2 - Resurrection</description>
+		<comment>Redump-verified CD-ROMs: Cyberia 2 - Resurrection (USA) (Disc 1) (Rerelease) and Cyberia 2 - Resurrection (USA) (Disc 2) (Rerelease)</comment>
+		<year>1995</year>
+		<developer>Xatrix Entertainment</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/45858/</link>
+		<link type="media">http://redump.org/disc/45859/</link>
+		<rom name="Cyberia 2 - Resurrection (USA) (Disc 1) (Rerelease).chd" size="739805184" crc="8f63fc72" md5="080100a18cb540565e3d2c4116fbfa42" sha1="731d936d2e768e6442a6753a8dc859727ce03a0a">
+			<track number="1" type="MODE1_RAW" frames="302137" pregap="0" duration="67:08:37" size="710626224" crc="464fa936" md5="b35739a7c8933072e00bd4990f5fde83" sha1="c7c041a60910405fa0024534e166247347dfe348"/>
+		</rom>
+		<rom name="Cyberia 2 - Resurrection (USA) (Disc 2) (Rerelease).chd" size="735653376" crc="60ad12b5" md5="3dba12579d025f2dd543e9f59fddf3e7" sha1="0327702b9e03742b9ddb6b31b4718aca8e1d461d">
+			<track number="1" type="MODE1_RAW" frames="300446" pregap="0" duration="66:45:71" size="706648992" crc="091b9311" md5="daf9884f98d6504c069bc168ea2e43a9" sha1="f7b4b0489cc324b7f6ccc6ad58b9438adbdeb96f"/>
+		</rom>
+	</game>
+	<game name="Eric the Unready (1993) (Legend Entertainment) (Installation).dosz">
+		<description>Eric the Unready</description>
+		<comment>Redump-verified CD-ROM: Eric the Unready (USA)</comment>
+		<year>1993</year>
+		<developer>Legend Entertainment</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/69537/</link>
+		<rom name="Eric the Unready (USA).chd" size="38149632" crc="936fcc17" md5="f405fa9dc87ddb389b8b1bf84694def7" sha1="5b40e4379099f194cb4406bda6c233c090aea8c7">
+			<track number="1" type="MODE1_RAW" frames="15570" pregap="0" duration="03:27:45" size="36620640" crc="dba03b9f" md5="57e475b4f409dda8584fb09e0c23836b" sha1="6f4510dfa6870ae386616fefe49bcc9306375a2e"/>
+		</rom>
+	</game>
+	<game name="Fragile Allegiance (1997) (Gremlin Interactive) (Installation).dosz">
+		<description>Fragile Allegiance</description>
+		<comment>Redump-verified CD-ROM: Fragile Allegiance (USA) (En,Fr)</comment>
+		<year>1997</year>
+		<developer>Gremlin Interactive</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/85621/</link>
+		<rom name="Fragile Allegiance (USA) (En,Fr).chd" size="747540864" crc="7a9739ab" md5="a4107b87bb6c87c300374cd3cd8759f4" sha1="30ef0a4be1f5f8daf2e8c0fe9d9a92574172d4a4">
+			<track number="1" type="MODE1_RAW" frames="305302" pregap="0" duration="67:50:52" size="718070304" crc="dcb0887a" md5="14e3753f43d0f3e963d1da40fa888bc1" sha1="dd562b91fb9a22bafcbc5440f7c8c870d1ef36b7"/>
+		</rom>
+	</game>
+	<game name="Incredible Machine 2, The (1994) (Dynamix) (Installation, Floppy Version).dosz">
+		<description>Incredible Machine 2, The</description>
+		<year>1994</year>
+		<developer>Dynamix</developer>
+		<variant>Installation, Floppy Version</variant>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1015</link>
+		<rom name="disk1.img" size="1474560" crc="0327fc20" md5="931c7fe50307bd5c872bce80c7869f51" sha1="a94d227493664c353df10201b04e3832212e8443" date="2012-11-17 10:23:36"/>
+		<rom name="disk2.img" size="1474560" crc="04011eac" md5="28893227dfb5c1d03ddca88f2ff51f89" sha1="031198909b03f8b0d478403c283ec72e44870b6c" date="2012-11-17 10:23:42"/>
+	</game>
+	<game name="Incredible Machine, The (1992) (Dynamix) (Installation).dosz">
+		<description>Incredible Machine, The</description>
+		<year>1992</year>
+		<developer>Dynamix</developer>
+		<variant>Installation</variant>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=821</link>
+		<rom name="disk1.img" size="1474560" crc="64f15085" md5="19bbd10144742052a4b99a8923cb9855" sha1="f0ed16b665ad2378c59c1d1d9370479ca2eb494e"/>
+	</game>
+	<game name="Lords of the Realm (1994) (Impressions Software) (Installation).dosz">
+		<description>Lords of the Realm</description>
+		<link type="media">http://redump.org/disc/47052/</link>
+		<year>1994</year>
+		<developer>Impressions Software</developer>
+		<variant>Installation</variant>
+		<rom name="Lords of the Realm (USA).chd" size="82918656" crc="527e8673" md5="dd4b70ca88762f97d5f386b8bf02fe4c" sha1="1ff77e58bc2a7fde2083f8fb46c0efdfe55e18c1">
+			<track number="1" type="MODE1_RAW" frames="33862" pregap="0" duration="07:31:37" size="79643424" crc="3e68e5ec" md5="cb9596c7667ed861c3470ae283cdcc6e" sha1="f81041d2ad50ff6cba92bb0c6644b6f6b1b84809" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
+	<game name="Lords of the Realm II (1996) (Impressions) (Installation).dosz">
+		<description>Lords of the Realm II</description>
+		<comment>v1.03</comment>
+		<link type="media">http://redump.org/disc/47053/</link>
+		<year>1996</year>
+		<developer>Impressions</developer>
+		<variant>Installation</variant>
+		<rom name="Lords of the Realm II (USA).chd" size="670614912" crc="08a9ef34" md5="eb6ab938b6bd0f4c57b76ac13c005786" sha1="8a8a298f469a24ac9c04070d9e623e6fccd223bc">
+			<track number="1" type="MODE1_RAW" frames="273875" pregap="0" duration="60:51:50" size="644154000" crc="243af36f" md5="aced5d5ea401ee5847e9667c8ee8c7b9" sha1="6a3a4453e9df9f767096a5de022af3b81b535099" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
+	<game name="Metaltech - Earthsiege (1994) (Dynamix) (Installation).dosz">
+		<description>Metaltech - Earthsiege</description>
+		<comment>v1.0</comment>
+		<link type="media">http://redump.org/disc/27572/</link>
+		<year>1994</year>
+		<developer>Dynamix</developer>
+		<variant>Installation</variant>
+		<rom name="EarthSiege (USA).chd" size="61023744" crc="3c933446" md5="f8676197a24f203dc510369011c4e8f0" sha1="04db4cd10e127c2148127857f3be6b13686bbcc8">
+			<track number="1" type="MODE1_RAW" frames="24920" pregap="0" duration="05:32:20" size="58611840" crc="5b80ffd9" md5="cec34832b6c1ef27691430edd056f888" sha1="0db67fd95a75032c54ae63eb1b1a7d3345c1f9f1" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
+	<game name="Metaltech - Earthsiege - Expansion Pack (1995) (Dynamix) (Installation).dosz">
+		<description>Metaltech - Earthsiege - Expansion Pack</description>
+		<link type="media">http://redump.org/disc/94529/</link>
+		<year>1995</year>
+		<developer>Dynamix</developer>
+		<variant>Installation</variant>
+		<rom name="EarthSiege - Expansion Pack (USA).chd" size="161293824" crc="eecf19cb" md5="1b753749b4d21de388a512c9e2c655c0" sha1="1bbf38d76b180a83e5ae455ca630a101ab3bb92f">
+			<track number="1" type="MODE1_RAW" frames="65872" pregap="0" duration="14:38:22" size="154930944" crc="552050c4" md5="89eaa48f6ca73bbbb23526ff5e3bddd2" sha1="7ea6f149a46c173a8ede40a4383f99e5c186133e" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
+	<game name="Mines of Titan (1989) (Westwood Studios) (Installation).dosz">
+		<description>Mines of Titan</description>
+		<comment>Floppies matching TGOD ID 3302</comment>
+		<year>1989</year>
+		<developer>Westwood Studios</developer>
+		<variant>Installation</variant>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=3302</link>
+		<rom name="disk1.img" size="368640" crc="9f2e29be" md5="bd59648f857470305a6b16b9cdb22bba" sha1="b4ab0e0422f3ee09b0a7ab82d6c4a23f2278232d" date="2014-04-19 12:00:46"/>
+		<rom name="disk2.img" size="368640" crc="0c8f9310" md5="8fe052a9606c3d672fbee527d072ffc1" sha1="3905ad8ca84691d00fb214363419fdb30272539e" date="2014-04-19 12:06:34"/>
+	</game>
+	<game name="Oregon Trail, The (1992) (MECC) (Installation).dosz">
+		<description>Oregon Trail, The</description>
+		<comment>v3.0.1</comment>
+		<year>1992</year>
+		<developer>MECC</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/87904/</link>
+		<rom name="Oregon Trail, The - Classic Edition (USA).chd" size="7735680" crc="2775742f" md5="b8d7e6d7a2a8c85753103349929c967f" sha1="10139ade4aa0a8be7466836654ee0be8e2729fd0">
+			<track number="1" type="MODE1_RAW" frames="3152" pregap="0" duration="00:42:02" size="7413504" crc="7e79a453" md5="35cd12bdcf699c4d790f88b52b266b8b" sha1="50f8f087ca68ee0319dafe08d8af585b7ba69c51" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
+	<game name="Pipe Dream (1989) (The Assembly Line) (Installation).dosz">
+		<description>Pipe Dream</description>
+		<comment>AKA Pipe Mania. 3.5" floppy disk</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=118</link>
+		<year>1989</year>
+		<developer>The Assembly Line</developer>
+		<variant>Installation</variant>
+		<rom name="disk1.img" size="737280" crc="5e10e11f" md5="4e7bdd81937b8ed1281f4883238fc7b9" sha1="d1eeb479d67365bc4f273027fd05a7d1992b58fa"/>
+	</game>
+	<game name="Prince of Persia 2 - The Shadow and the Flame (1993) (Broderbund Software) (Installation).dosz">
+		<description>Prince of Persia 2 - The Shadow and the Flame</description>
+		<comment>v1.0, 3.5" floppy disks</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1106</link>
+		<year>1993</year>
+		<developer>Broderbund Software</developer>
+		<variant>Installation</variant>
+		<rom name="disk1.img" size="1474560" crc="6d27f6de" md5="1c6d81d1834cacda1e08647e65e46d6d" sha1="1a2ceb2ec3a5da788b85f887ba5aa1cf9b36f9c4" date="2013-04-08 05:13:26"/>
+		<rom name="disk2.img" size="1474560" crc="33cce22a" md5="9a0eaf45bdfcf30b3a66c2c234325715" sha1="d3f209d983e127ee441da34ac86b6d4108dbbad8" date="2013-04-08 05:13:26"/>
+		<rom name="disk3.img" size="1474560" crc="e16b92e4" md5="a091dd62cef589036c5ee3da60b64f03" sha1="2a7867645727462228143cb2b5d26792945c50c1" date="2013-04-08 05:13:30"/>
+		<rom name="disk4.img" size="1474560" crc="f5366618" md5="9e2682107955016017d9c46d2dd69a5a" sha1="00d33bef46d8435665fce0727271376ac2b43f2e" date="2013-04-08 05:13:30"/>
+	</game>
+	<game name="Raptor - Call of the Shadows (1994) (Cygnus Studios) (Installation).dosz">
+		<description>Raptor - Call of the Shadows</description>
+		<comment>v1.2, 3.5" floppy disks</comment>
+		<year>1994</year>
+		<developer>Cygnus Studios</developer>
+		<variant>Installation</variant>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=2333</link>
+		<rom name="disk1.img" size="1474560" crc="c4a8a748" md5="9a567a353f7a3aec1f35b318bce8d652" sha1="b5377abe6a142d1dc3ff7019d2e77dd009799d3f" date="2013-10-20 11:31:00"/>
+		<rom name="disk2.img" size="1474560" crc="9b3b7f22" md5="e8b088fffb7cd22e6cc9c2737d122131" sha1="79f93a72a9c9375ce5bc21b0b84d703ccb8100cd" date="2013-10-20 11:31:00"/>
+		<rom name="disk3.img" size="1474560" crc="05443ceb" md5="8a3f5d00b969d758276bda258ebe1da7" sha1="3b8bd610d90677a830f9b4e297e4a89343cb86a2" date="2013-10-20 11:31:00"/>
+	</game>
+	<game name="Rise of the Dragon (1990) (Dynamix) (Installation).dosz">
+		<description>Rise of the Dragon</description>
+		<comment>Floppies matching TGOD 744</comment>
+		<year>1990</year>
+		<developer>Dynamix</developer>
+		<variant>Installation</variant>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=744</link>
+		<rom name="disk1.img" size="1228800" crc="f477ffe2" md5="4a09660f509a6a61cb3a1453477314e9" sha1="c23e8979ccbf883a9f95692df0cf798c2d0fdbd4" date="2010-11-28 21:47:40"/>
+		<rom name="disk2.img" size="1228800" crc="5e323c4b" md5="126cb1e9198e0f79de21ef5292fa3045" sha1="b06751ad2c29e4c5f2b866a328c0c0f14513bc96" date="2010-11-28 21:49:32"/>
+		<rom name="disk3.img" size="1228800" crc="76ae2ac5" md5="6af58d5046b8695895dd93f1e88561a4" sha1="c3f8bb7cd7c79b5cba933be89a0b620e24ea4946" date="2010-11-28 21:50:12"/>
+		<rom name="disk4.img" size="1228800" crc="e239ce0d" md5="f55a5d9d694c369aa4f6cdb96b5a58da" sha1="0e1bd087da699a70c37905a51b8efc28bcbb2cc8" date="2010-11-28 21:52:10"/>
+		<rom name="disk5.img" size="1228800" crc="d9a5a5b3" md5="add1d2588178c3bc853794897c54a289" sha1="012f6c1751dff63189fc68fc271a739ed99006a8" date="2010-11-28 21:51:00"/>
+		<rom name="disk6.img" size="1228800" crc="4fde8b01" md5="7b5e792ba1a3e8166678406f015a3ac1" sha1="ee80c6097620326f87402e7a341a1d87c63b733a" date="2010-11-28 21:52:46"/>
+		<rom name="disk7.img" size="1228800" crc="dc023701" md5="5c03fd9d6683624b0ff93a32979b68a7" sha1="7bf8ab14b4c000598ed77f3eb3d465c9ca4f405e" date="2010-11-28 21:53:44"/>
+	</game>
+	<game name="Settlers II, The (1996) (Blue Byte Software) (Installation).dosz">
+		<description>Settlers II, The</description>
+		<comment>Redump-verified CD-ROM: Bravo ScreenFun 10/2002 (Germany)</comment>
+		<year>1996</year>
+		<developer>Blue Byte Software</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/38196/</link>
+		<rom name="Bravo ScreenFun 10-2002 (Germany).chd" size="823056768" crc="b910367d" md5="922175aa4f05760be4e135eb1a36618c" sha1="aee114cca98e45eb3c82e12385d2ae363c441acf">
+			<track number="1" type="MODE1_RAW" frames="215298" pregap="0" duration="47:50:48" size="506380896" crc="9473bf16" md5="bb38b5ee9e415963fa8e3c69701e9554" sha1="726217d8331dfdb3dfd6ee435b2e438d3ae0f8a0"/>
+			<track number="2" type="AUDIO" frames="11546" pregap="150" duration="02:33:71" size="27156192" crc="7a92de1e" md5="70bce6295dca1d748a699f322d42b5f3" sha1="c0c32eb1ab16f7b7759ce48c9542139a05c66877" in_zeros="894044" out_zeros="4474" trimmed_crc="5faa9d8b"/>
+			<track number="3" type="AUDIO" frames="13430" pregap="149" duration="02:59:05" size="31587360" crc="05a9e25f" md5="5d11d31453f2e63be5a2d2dffeb7f34f" sha1="b33abeba95537b4227a97c4a9b1298ebb34629be" in_zeros="891756" out_zeros="4473" trimmed_crc="f761ba7e"/>
+			<track number="4" type="AUDIO" frames="13049" pregap="149" duration="02:53:74" size="30691248" crc="e2e148e8" md5="44a54691120f75a012ab5b72dba4568a" sha1="2399c790acd479ea2a137015c3fb24b065a4852d" in_zeros="891756" out_zeros="4472" trimmed_crc="9c60eeb2"/>
+			<track number="5" type="AUDIO" frames="12978" pregap="149" duration="02:53:03" size="30524256" crc="eff05488" md5="72708532a4f159e7f8e21b8955800528" sha1="05f0c98f50013a9638b225c7d7fcb46e07f8117b" in_zeros="891756" out_zeros="4473" trimmed_crc="bdc5d4f7"/>
+			<track number="6" type="AUDIO" frames="16765" pregap="149" duration="03:43:40" size="39431280" crc="2db1070e" md5="3b556bb11deb1fb75773744051dc9db6" sha1="e1ede02edf5ad2ad147c41bf3635919b7ed69317" in_zeros="891756" out_zeros="4472" trimmed_crc="e7f512f9"/>
+			<track number="7" type="AUDIO" frames="33219" pregap="149" duration="07:22:69" size="78131088" crc="60e23427" md5="b18a9df2c493309eaf2039850374c6c3" sha1="143df0926e93c5b402ec4b9d533481a5672a6a10" in_zeros="891756" out_zeros="4473" trimmed_crc="34e82784"/>
+			<track number="8" type="AUDIO" frames="9656" pregap="149" duration="02:08:56" size="22710912" crc="eb3a995d" md5="d44d4a681e9ac48d33831057efecc6a0" sha1="9819007a6fca72a743a1dd3b7c122e3e09f67d4c" in_zeros="891756" out_zeros="4473" trimmed_crc="3262fa5b"/>
+			<track number="9" type="AUDIO" frames="13179" pregap="149" duration="02:55:54" size="30997008" crc="3b518a75" md5="b3684a6a9c2836a84c10258de219df8f" sha1="09dee234efe2fd13d2f04a81d736cd57d9d03bc1" in_zeros="891756" out_zeros="2120" trimmed_crc="0d1bd4f5"/>
+		</rom>
+	</game>
+	<game name="Siedler II, Die (1996) (Blue Byte Software) (Installation).dosz">
+		<description>Siedler II, Die</description>
+		<comment>Redump-verified CD-ROM: Siedler II, Die - Gold Edition (Germany) (Rerelease) (2000-03-08)</comment>
+		<year>1996</year>
+		<developer>Blue Byte Software</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/68730/</link>
+		<rom name="Siedler II, Die - Gold Edition (Germany) (Rerelease) (2000-03-08).chd" size="551563776" crc="4e2014b7" md5="0502039ad8fea64c181fad472b9550a0" sha1="71602f9f8a1dc48a4dc9d6d2b6c97c105634fa47">
+			<track number="1" type="MODE1_RAW" frames="104211" pregap="0" duration="23:09:36" size="245104272" crc="fcdcab71" md5="286c96f5daabfbfad8f06e5630d7c1fb" sha1="c0e52c5a90c16cb6bc9a75f58c44cc51d66633c9"/>
+			<track number="2" type="AUDIO" frames="11846" pregap="151" duration="02:37:71" size="27861792" crc="b0c6c3c8" md5="d0ef1330c80f7009ab461bd13030dc6c" sha1="07d33efa2058e0308384fcdf220d43633d75f0c7" in_zeros="1" out_zeros="361527" trimmed_crc="264e2dbb"/>
+			<track number="3" type="AUDIO" frames="13580" pregap="149" duration="03:01:05" size="31940160" crc="b146d762" md5="f9bea75962264cc7f5cfca15823cbc1f" sha1="c2b6005768b08ca522963d928bcf4298937e1f5b" in_zeros="886396" out_zeros="362410" trimmed_crc="42f1ac97"/>
+			<track number="4" type="AUDIO" frames="13241" pregap="149" duration="02:56:41" size="31142832" crc="a87ff1f8" md5="12af3fff1fd75fbc4bd71260b193443f" sha1="6c94be638c68a41ee37c8c6213ebbccd66aab324" in_zeros="886396" out_zeros="358733" trimmed_crc="06da92c3"/>
+			<track number="5" type="AUDIO" frames="13180" pregap="149" duration="02:55:55" size="30999360" crc="bf16ef85" md5="6d5115019f1eaec98ee81d7eb0f81cea" sha1="c6c2bb0ebd5c68205ed25f83c3222dad2121985b" in_zeros="886396" out_zeros="363759" trimmed_crc="d03f7c5b"/>
+			<track number="6" type="AUDIO" frames="16969" pregap="149" duration="03:46:19" size="39911088" crc="21e60cc3" md5="9ba8e867a85acccd94aeccefdcd6925a" sha1="6e7683faabfa2ad9b623ea4370bdb6bcde815e63" in_zeros="886396" out_zeros="367259" trimmed_crc="28b87954"/>
+			<track number="7" type="AUDIO" frames="33392" pregap="149" duration="07:25:17" size="78537984" crc="afec9b57" md5="f482051788156e6b49ffc6822459bcb2" sha1="92be77923c56a2333132079743eaf2a2471819d8" in_zeros="886396" out_zeros="359125" trimmed_crc="51af0dc4"/>
+			<track number="8" type="AUDIO" frames="9819" pregap="149" duration="02:10:69" size="23094288" crc="c7673dcc" md5="91979c207684aa86bc0f24edb6541d8b" sha1="98ffac15154face57e3817d65bb8b1008adf8549" in_zeros="886396" out_zeros="359616" trimmed_crc="b0bee92e"/>
+			<track number="9" type="AUDIO" frames="13200" pregap="149" duration="02:56:00" size="31046400" crc="bd8f80e0" md5="53c3e4e33ae829b8c2c9ccbbb27335a6" sha1="98fa9b475844dbdf796f49dbc04e86dca779cfa0" in_zeros="886396" out_zeros="355152" trimmed_crc="71105ed8"/>
+		</rom>
+	</game>
+	<game name="Software Toolworks' Star Wars Chess, The (1993) (The Software Toolworks) (Installation).dosz">
+		<description>Software Toolworks' Star Wars Chess, The</description>
+		<year>1993</year>
+		<developer>The Software Toolworks</developer>
+		<variant>Installation</variant>
+		<comment>14 3.5" floppy disks matching The Good Old Days ID: 2356</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=2356</link>
+		<rom name="disk01.img" size="1474560" crc="9cd83683" md5="f9e318dbfcc0156fc4673b69d0fbd2ab" sha1="4a8ff71bd17ca48f145bfce6f6e093a673666279" date="1985-01-03 18:26:08"/>
+		<rom name="disk02.img" size="1474560" crc="47f78b3b" md5="cb44eb92873f2f0adaf87d38ba5875b0" sha1="ec237da65c3f8ea82779ff0f55bf62dbe81a4920" date="2013-10-20 12:05:22"/>
+		<rom name="disk03.img" size="1474560" crc="b3c6b710" md5="7215aaa297e4edf796a4191397b5aa7e" sha1="d0ff1e36eca824da19d29550c1a025c827fe12d6" date="2013-10-20 12:05:22"/>
+		<rom name="disk04.img" size="1474560" crc="bc58c31c" md5="60f6b6393c898445e187da59e8dccc36" sha1="6dccbddd0499efcb192863704871b19798d495ea" date="2013-10-20 12:05:22"/>
+		<rom name="disk05.img" size="1474560" crc="635e628a" md5="f127667b8ed99000c2a3f3bcd54c7ffb" sha1="ba0c01ffee80477b2a3e2cabac9700fc2f3ed091" date="2013-10-20 12:05:22"/>
+		<rom name="disk06.img" size="1474560" crc="7fae72af" md5="4a34d0380bf6e61f9e180afcadfc6422" sha1="80c31ab3b58f7c389e068f2d49eee10415803925" date="2013-10-20 12:05:22"/>
+		<rom name="disk07.img" size="1474560" crc="039e537a" md5="34a5a88bee9434881b504807c41ab805" sha1="2e0aef8abc926e3b74d8d716db424cb70b19cfa9" date="2013-10-20 12:05:22"/>
+		<rom name="disk08.img" size="1474560" crc="976b95cf" md5="b26ba69d504d28b72dd3e23211221843" sha1="f2ae85cedaddfb484bc36cb8762f7d056bc604f7" date="2013-10-20 12:05:24"/>
+		<rom name="disk09.img" size="1474560" crc="600d5cba" md5="be34ac4ef7ef232ae11c4b67b495f2fa" sha1="d6c058f46cffc434cb50c3cd4b95f1005af0c9f8" date="2013-10-20 12:05:24"/>
+		<rom name="disk10.img" size="1474560" crc="96e5ab67" md5="400c5671ad795327ee978054c3308481" sha1="55af75ae36e16854772c4111819cc89a0dbd195d" date="2013-10-20 12:05:20"/>
+		<rom name="disk11.img" size="1474560" crc="096ed2b0" md5="72a20964cb441f72975ea78978fb8bc7" sha1="d740883f4b3760ffd6c6afa217a394085cf6bec4" date="2013-10-20 12:05:20"/>
+		<rom name="disk12.img" size="1474560" crc="050bfb3b" md5="83162c3feb7aa105269bc2d5282538b7" sha1="62e8475056fa9574832e03f3480d41b3c60a657e" date="2013-10-20 12:05:20"/>
+		<rom name="disk13.img" size="1474560" crc="5d469342" md5="26ae0aa058296fa0aeb45b44fe1c512a" sha1="40c73a7568518397def4d8e757ded8b043aa16b0" date="2013-10-20 12:05:20"/>
+		<rom name="disk14.img" size="1474560" crc="8a109cce" md5="fc76cd5658489d19157858649ff28fd6" sha1="485036a462e50c80206468c628c0b3e587f96d42" date="2013-10-20 12:05:20"/>
+	</game>
+	<game name="Summoning, The (1992) (Event Horizon Software) (Installation).dosz">
+		<description>Summoning, The</description>
+		<comment>Floppies matching TGOD ID 91</comment>
+		<year>1992</year>
+		<developer>Event Horizon Software</developer>
+		<variant>Installation</variant>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=91</link>
+		<rom name="disk1.img" size="1474560" crc="8978a0ee" md5="dc6da4392973469d7c646ce71cccb65d" sha1="1b1286d1b0bdb9b609418f00ef72063ba17af199" date="2008-12-06 09:31:04"/>
+		<rom name="disk2.img" size="737280" crc="3526c842" md5="78d436afd974dc6a629c63b3e7ffe808" sha1="812d12d6cb990d67e2da5eaa8f149228b4627a96" date="2008-12-06 09:32:36"/>
+	</game>
+	<game name="Supaplex (1991) (Digital Integration) (Installation).dosz">
+		<description>Supaplex</description>
+		<year>1991</year>
+		<developer>Digital Integration</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/31189/</link>
+		<rom name="Supaplex (Europe).chd" size="13767552" crc="a9694312" md5="f3211d55f46e574f119973c0d9b52d1f" sha1="6c1cc21730544d43bdff8f7d3a9b520b1a53ae92">
+			<track number="1" type="MODE1_RAW" frames="5612" pregap="0" duration="01:14:62" size="13199424" crc="403367aa" md5="e1bf1d380f579a0ed893247c46465220" sha1="7ee29b80716176fdd8aa587a300dd137448d6a0d" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
+	<game name="Wacky Wheels (1994) (Beavis Soft) (Installation).dosz">
+		<description>Wacky Wheels</description>
+		<comment>Redump-verified CD-ROM: Wacky Wheels (USA, Europe) (Rerelease)</comment>
+		<year>1994</year>
+		<developer>Beavis Soft</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/42700/</link>
+		<rom name="Wacky Wheels (USA, Europe) (Rerelease).chd" size="3583872" crc="a195909c" md5="eb5c8b1273612d17ff11c61cd633be11" sha1="fa66964e2274ed3cea1c166c5cc44a582c9dee13">
+			<track number="1" type="MODE1_RAW" frames="1453" pregap="0" duration="00:19:28" size="3417456" crc="0cb25256" md5="db67eb4794d85ad408d228793aaef1c9" sha1="b19d78197a292ca27f43c9ddaf995934652d9b0e"/>
+		</rom>
+	</game>
+	<game name="Warlords II Deluxe (1993) (Strategic Studies Group) (Installation).dosz">
+		<description>Warlords II Deluxe</description>
+		<comment>Redump-verified CD-ROM: Warlords II Deluxe (Europe) (Rerelease)</comment>
+		<year>1993</year>
+		<developer>Strategic Studies Group</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/88654/</link>
+		<rom name="Warlords II Deluxe (Europe) (Rerelease).chd" size="106869888" crc="4a8004c3" md5="111bbe0ee3a2543a84104bf5dc1b6b8b" sha1="c0464227ff0d214634d608fb71ae391f0bdf9191">
+			<track number="1" type="MODE1_RAW" frames="43635" pregap="0" duration="09:41:60" size="102629520" crc="5f7493b2" md5="8640ece732507aa2941261cba7965617" sha1="3e8165d5b6dfbf95e9852df6c67792b804e1cdb0"/>
+		</rom>
+	</game>
+	<game name="Weird Dreams (1988) (Best Ever Games Company) (Installation).dosz">
+		<description>Weird Dreams</description>
+		<year>1988</year>
+		<developer>Best Ever Games Company</developer>
+		<variant>Installation</variant>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=666</link>
+		<rom name="disk1.img" size="368640" crc="1b0a9a49" md5="73ae4312f1ae609fae2d746b9c4f0a9d" sha1="ddb4ac551c18a1d12421f6d658bddc049f35374c" date="2009-08-21 15:15:44"/>
+		<rom name="disk2.img" size="368640" crc="69455d2b" md5="9c3cedb733a451c89d072c90c0ddd8e4" sha1="3b8762a73307b9df59d623121b9fa6e208aba887" date="2009-08-21 15:16:54"/>
+	</game>
+	<game name="Xenophage - Alien Bloodsport (1995) (Argo Games) (Installation).dosz">
+		<description>Xenophage - Alien Bloodsport</description>
+		<year>1995</year>
+		<developer>Argo Games</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/10843/</link>
+		<rom name="Xenophage - Alien Bloodsport (USA).chd" size="93141504" crc="0467b88d" md5="18a567f55c21528ba2a13e257a500b6e" sha1="a376731ed6230cb95a93e58d2956e471c97125cf">
+			<track number="1" type="MODE1_RAW" frames="38038" pregap="0" duration="08:27:13" size="89465376" crc="ab4c7d5b" md5="aac1a740d7f8b82397c6034dcb6d76ab" sha1="f4ff745326fa9cfc3f1352004bd67b3a076f0ab3"/>
+		</rom>
+	</game>
+</datafile>
