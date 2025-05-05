@@ -490,6 +490,47 @@
 		<rom name="HarmonyC.txt" size="16165" crc="f10851aa" md5="b8f04ed915421ca12c91ff5a98700a4c" sha1="e15577d053e8ad16a769d3f987e4624ccbbc3519" date="2023-10-29 08:21:00"/>
 		<rom name="HarmonyC.wad" size="22456593" crc="85eb7525" md5="20d826ad84a15b1e04cb1fb61989b6c0" sha1="955f74aebdf58163465f93ddf9d0f3598e608a0f" date="2023-10-30 09:02:26"/>
 	</game>
+	<game name="Hell to Pay (1996) (Wraith Corporation).dosz">
+		<description>Hell to Pay</description>
+		<year>1996</year>
+		<developer>Wraith Corporation</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment>
+			Installed from CD matching with Redump: Hell to Pay (USA)
+			Install size: Maximum
+			DOS files only
+		</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="media">http://redump.org/disc/26192/</link>
+		<rom name="DEUSF.EXE" size="96472" crc="dde8a48d" md5="f681f3ccdaf48cc4e66a7a2a0a9567bf" sha1="c36edca0b6c7aa1b464f0c06181014ffd33476a8" date="1995-12-18 00:19:30"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOM2.WAD" size="26510196" crc="3e7aacdf" md5="77daf1747ea5bb5f8ed4fa70f98307dd" sha1="9ce5cc0bbcbe8cb7a759027804aaca686fd7fa98"/>
+		<rom name="HELL2PAY.BAT" size="6062" crc="f460db2c" md5="6bb3c8ce9ad8d770015dedf1738e3475" sha1="4f058d8546ecdd86fec0ea8fccaba71399a73bf8" date="1996-04-24 18:09:00"/>
+		<rom name="HELL2PAY.TXT" size="2040" crc="624d7947" md5="403e8838beb29dc3ef93a385dde06fd1" sha1="103b27933e443e2d209f1fe0b1121982c3f06b52" date="1996-04-08 13:28:56"/>
+		<rom name="HELP-HTP.COM" size="15291" crc="1c7f0347" md5="c4439abf1d8ed247202c4464490cdaab" sha1="c142503295ed00978a1c80ce12c1f1b904a1a9cc" date="1996-04-22 06:56:30"/>
+		<rom name="HTP-PLOT.COM" size="14048" crc="63eb9593" md5="5112caad4b4f97ed80785e5685ff9c38" sha1="1712b983e05e6a15799ebc815b5c681291a2727e" date="1996-04-22 07:34:10"/>
+		<rom name="HTPDMO16.WAD" size="23744" crc="02b90bc3" md5="60ae056fa7c22311c27f7051a411ff48" sha1="ada65a77dad8a312d66a3a491a8829ba8dde4144" date="1996-03-07 14:01:26"/>
+		<rom name="HTPDMO17.WAD" size="23744" crc="00b4e769" md5="3f8bef448db2fddc8dca2ad9327caf8d" sha1="9dabed333aa0a2bb7600aac6498ae752b544bac8" date="1996-03-07 14:01:34"/>
+		<rom name="HTPDMO18.WAD" size="23744" crc="0e95603f" md5="8ede0e4a7f84785d06c59081023f214a" sha1="ac4648967da7d38f5d1e4f21bbb15d0b91808167" date="1996-03-07 14:01:40"/>
+		<rom name="HTPDMO19.WAD" size="23744" crc="0c988c95" md5="979c06bd61752f0029cb7c224fa7a0e2" sha1="6084484f255ce8e79f4a21d705087ba4f44e3e51" date="1996-03-07 14:01:46"/>
+		<rom name="HTPRESET.BAT" size="219" crc="a63ba9f0" md5="130aaaff556cfc3998469a8a40edc5d2" sha1="1ce11d50920c1abc7a15bcfa13f292ef606b42c1" date="1996-04-08 11:58:52"/>
+	</game>
+	<game name="Lost Episodes of Doom, The (1995) (Christen Klie, Bob Carter).dosz">
+		<description>Lost Episodes of Doom, The</description>
+		<year>1995</year>
+		<developer>Christen Klie, Bob Carter</developer>
+		<parent>Doom v1.666 Mod Base.dosz</parent>
+		<comment>
+			Installed from 3.5" floppy disk matching with TGOD ID: 507
+			Demos require Doom v1.666 if run with vanilla EXE
+		</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=507</link>
+		<rom name="Doom v1.666 Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="JPTR_V40.TXT" size="1629" crc="44610d24" md5="66a45403baa1df339943205cc106fdca" sha1="9c6368712c0283ec6b3be59327d3c0e87b0e082c" date="1994-12-10 12:29:24"/>
+		<rom name="JPTR_V40.WAD" size="2313675" crc="368a45b2" md5="8111f6ea0263a7fcfee5ba3dd06c5554" sha1="9dd7699086f5519c21f4ff24459069e887bb015e" date="1994-12-09 01:31:28"/>
+		<rom name="JUPITER.BAT" size="25" crc="499602ba" md5="01a1b20811d6b3d90d3fc9889cda35f2" sha1="0be027732bf3a28fc4f5035a76ad2834f0c58a5d" date="1994-12-14 12:13:30"/>
+	</game>
 	<game name="Marine's Best Friend (1998) (Lee Killough).dosz">
 		<description>Marine's Best Friend</description>
 		<year>1998</year>
@@ -647,6 +688,30 @@
 		<comment_dosc>Auto start</comment_dosc>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="NERVE.WAD" size="3819855" crc="ad7f9292" md5="967d5ae23daf45196212ae1b605da3b0" sha1="3451288383fb16e196f273d9f85d58c1fda97bf4"/>
+	</game>
+	<game name="Perdition's Gate (1996) (Wraith Corporation).dosz">
+		<description>Perdition's Gate</description>
+		<year>1996</year>
+		<developer>Wraith Corporation</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment>
+			Installed from CD matching with TDC entry: Perdition's Gate (1996)(WizardWorks Group, Inc.) [ISO]
+			Install size: Maximum
+			DOS files only
+		</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<rom name="DEUSF.EXE" size="96472" crc="dde8a48d" md5="f681f3ccdaf48cc4e66a7a2a0a9567bf" sha1="c36edca0b6c7aa1b464f0c06181014ffd33476a8" date="1995-12-18 00:19:30"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOM2.WAD" size="21663600" crc="72d2dcaa" md5="153df7d5f1dba93571cf64eab99cbb0a" sha1="96dd9c63269525a8634a59b2a787d21d34a74813"/>
+		<rom name="HELP-PG.COM" size="9648" crc="b6485d12" md5="3c1fc3c48abe1847d9e9e273f63403fa" sha1="4e80fa56f182a740a252db2dea62db4b8ba2e208" date="1996-07-20 20:35:26"/>
+		<rom name="PERDGATE.BAT" size="6167" crc="aa072bde" md5="43f6e99c006d89227b16c28eed16548c" sha1="4fc66081f0ee3a418914a547e585e63e59c4a117" date="1996-04-24 18:11:36"/>
+		<rom name="PERDGATE.TXT" size="2774" crc="871f8e01" md5="575ed83d61816847374037be40c72145" sha1="c2bb7c7241592eaa1a1475a271a953771d4673cb" date="1996-07-20 20:24:32"/>
+		<rom name="PG-PLOT.COM" size="15220" crc="e82789b5" md5="0c06934be2b1acd44eb0d9a3f0fff1b7" sha1="491472e219212f5ecb3b44b34dc0f041aa2ec54b" date="1996-07-20 20:32:54"/>
+		<rom name="PG-RESET.BAT" size="225" crc="2b69bf7f" md5="12bf1949036943a13e49807243acd075" sha1="a61dbf3f5cc7105e91ff21af5fd97e091a1ea06b" date="1996-04-22 19:40:14"/>
+		<rom name="PGDEMO16.WAD" size="29776" crc="f84e30b4" md5="a1bf1cb53930441663231701d5dce766" sha1="ecae7b1d851853dbe02ecca62650344ac1652b7d" date="1996-07-17 09:17:32"/>
+		<rom name="PGDEMO17.WAD" size="29776" crc="40492caa" md5="38718a9618f38b78ba30c7f8892dec31" sha1="8553435b8a95da72f77eb65befbf49210108cd2a" date="1996-07-17 09:17:14"/>
+		<rom name="PGDEMO18.WAD" size="29776" crc="debe7472" md5="43fe4c4fef6ececfe8eecb4a618eab07" sha1="7c2507f9349f7f5a02a2c310c35127bfc4231b1d" date="1996-07-17 09:16:46"/>
+		<rom name="PGDEMO19.WAD" size="29776" crc="66b9686c" md5="0219f6c19d35c7c99168bb16cc653950" sha1="b263a10ce17d65ca953c7ac32923f45c3e41d7fb" date="1996-07-17 09:06:36"/>
 	</game>
 	<game name="Pirate Doom II (2024) (Darch).dosz">
 		<description>Pirate Doom II</description>
