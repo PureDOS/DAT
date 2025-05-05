@@ -1924,11 +1924,12 @@
 	</game>
 	<game name="Quake (1996) (id Software) (GOG).dosz">
 		<description>Quake</description>
-		<comment>v1.08</comment>
-		<comment_dosc>640x400 resolution, mouse look enabled, and auto start</comment_dosc>
 		<year>1996</year>
 		<developer>id Software</developer>
 		<variant>GOG</variant>
+		<comment>v1.08</comment>
+		<comment_dosc>640x480 resolution, mouse look enabled, and auto start</comment_dosc>
+		<link type="store">https://www.gog.com/en/game/quake_the_offering</link>
 		<rom name="CWSDPMI.EXE" size="25920" crc="4fc60ecd" md5="cdba7e5b5050d3f3be9ddaf79a943ed4" sha1="d7a811b9d2f887dc94e145ce80dd9ced5fdf1548" date="1996-09-26 14:07:22"/>
 		<rom name="Docs/COMEXP.TXT" size="25462" crc="68bda64a" md5="0575bbd0df753f6e44b7a0f67ffc1413" sha1="606c21d258d58823a605fc20f5c45600d9b0ffb0" date="1996-07-12 18:31:50"/>
 		<rom name="Docs/LICINFO.TXT" size="9308" crc="53dc674a" md5="0f77362a55b35e623d9f4710ed86cda7" sha1="130760d7c88c66bdbfae26e5a75aecdf783532f9" date="1996-10-29 17:33:10"/>
