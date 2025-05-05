@@ -12776,6 +12776,149 @@
 		<rom name="WEIRD.ART" size="24112" crc="17ddb977" md5="092c40dbba7f2e8e865f57acd02e801c" sha1="94e8821229dd2b9a217cea314d44ab107b7dd3fb" date="1990-03-15 14:54:00"/>
 		<rom name="WEIRD.EXE" size="71001" crc="be0fb3a0" md5="60bc4d4688502f0a2a1b877166e86713" sha1="63ea84a6191ac54b831659a53e3b9f261cbafbe4" date="1990-05-03 10:07:28"/>
 	</game>
+	<game name="Wing Commander (1990) (Origin Systems).dosz">
+		<description>Wing Commander</description>
+		<comment>
+			Installed from Wing Commander &amp; Wing Commander II Special CD-ROM Edition.
+			Installation options:
+				Directory: C:\WING (default)
+				Uncompressed files (Save Time)
+				Graphics: MCGA/VGA
+				Sound: Sound Blaster
+				Copy from D drive
+			WINGCMDR.CFG needs to exist or INSTALL.EXE will try to reinstall the game.
+		</comment>
+		<comment_dosc>Required WINGCMDR.CFG file, copy protection patch, game speed reduced, and auto start. MT-32 option</comment_dosc>
+		<year>1990</year>
+		<developer>Origin Systems</developer>
+		<rom name="GAMEDAT/ARROW.VGA" size="513" crc="69455893" md5="b709e95f76069476d05775d084667120" sha1="245d1993b058cb0922dd31bc4e5ada37c7d12864"/>
+		<rom name="GAMEDAT/BRIEFING.000" size="222366" crc="60f547e4" md5="9c22263a9aa0294afd81e3d593a4ee5e" sha1="af7db71959639743cafa91e79106df66a62c6491"/>
+		<rom name="GAMEDAT/BRIEFING.VGA" size="516592" crc="5e145f91" md5="7badf88de00404c0c464e9542cd1071d" sha1="6e635a6fb29935ca5d37d26674bc66428355096f"/>
+		<rom name="GAMEDAT/CAMP.000" size="651" crc="4bfa6e36" md5="d330bdc89fed5c833f653377e0eab052" sha1="c77b056d4efa0609d3cb2eff74614b5e468cca64"/>
+		<rom name="GAMEDAT/COCKPIT.VGA" size="50008" crc="316bcd9c" md5="6d74200ef85d8214ce67e1b00166e064" sha1="09f75d2f2029dc417d76241b21a9114675d2ae58"/>
+		<rom name="GAMEDAT/COMMUNIC.DAT" size="12320" crc="7b7c3ac4" md5="fb368a8e5b43f5248aac61b2de79e64f" sha1="bcd0b030726fe1559ad468e8ce771a6084033b08"/>
+		<rom name="GAMEDAT/CONVERT.PAL" size="256" crc="cc0db91d" md5="5d0b2018383d02b3007ab79bd513da8f" sha1="81f7f485bca365db752a17feb4e0cfe69bf6d34d"/>
+		<rom name="GAMEDAT/DISK.001" size="48" crc="98960631" md5="54edd0181d7450720aa3f205caa51017" sha1="0a950fc6cb768d0c08b9cd4200e029fcb48aaccb"/>
+		<rom name="GAMEDAT/DISK.002" size="48" crc="9ad0b868" md5="219f3deb754faca363c341b437e7cf51" sha1="080f5a7f909a696067cf495f659856ee9c5a6961"/>
+		<rom name="GAMEDAT/DISK.003" size="48" crc="9b12d25f" md5="41a6927dd4e99280053f457d3a12f659" sha1="d5633e581336b59337ac5d89fc082d6864f0717f"/>
+		<rom name="GAMEDAT/FONTS.FNT" size="7664" crc="497fce39" md5="036404553b3fa35088f37e93b7bc6d35" sha1="d927fe05844ae1211e166ab099c2bb46f9e36bea"/>
+		<rom name="GAMEDAT/GAME.PAL" size="1120" crc="3eaf94b1" md5="b1da66033662ab01e00866b53d21ef4a" sha1="01569d3ac1e7295213939d10d5361bd9c18453fe"/>
+		<rom name="GAMEDAT/INSTALL.DAT" size="928" crc="3c0225b6" md5="39a1f3e612936dbda8ae94a2bac0dfe8" sha1="5c20a6991674d51c260ecfb3c8afd95560a71ae8"/>
+		<rom name="GAMEDAT/INTRO.DAT" size="630" crc="15add90e" md5="eae9bf74c8861e33a457c8612f68279d" sha1="18056fdb2cfd6bd89796dbb9d5571c0c65032d4d"/>
+		<rom name="GAMEDAT/MIDGAME.V00" size="109608" crc="e802cf31" md5="5a60429891146622e088d67c3443c0ab" sha1="02f80df8e3d5812c2d08eba1a9c5265ce4db1e97"/>
+		<rom name="GAMEDAT/MIDGAME.V01" size="82001" crc="1ef72857" md5="3d090981b4de7535ec5a2acced20a58b" sha1="155ae99e3b41ef303c0b8da8613b6ae99fa98641"/>
+		<rom name="GAMEDAT/MIDGAME.V02" size="97523" crc="5350a5c3" md5="ea1d1d7ebe6ff6f1f2d2be4101b46a8b" sha1="73977055efdfd78ce2fac4cdc7a4cb8b26546ba3"/>
+		<rom name="GAMEDAT/MIDGAME.V03" size="61438" crc="5fffc6a3" md5="b88d26b97d875b07de94bf1167874d4a" sha1="b131d173ac7ad1051651fd42d13e8942b69b8ec9"/>
+		<rom name="GAMEDAT/MODULE.000" size="22085" crc="d55b93d9" md5="646228b3fd917344ebdb6e50be78b448" sha1="fcd398a944cf3e76024733ee3554eb9c4c152414"/>
+		<rom name="GAMEDAT/MUSIC.MID" size="139707" crc="58924258" md5="64b9d9f95fc4b0be1a09eab68aa20937" sha1="b79d1e5c22e96c0ab368631b9249f60ed4df1f36"/>
+		<rom name="GAMEDAT/OBJECTS.VGA" size="125960" crc="b1285778" md5="118df4c1a18b6b0883aee686e173ba57" sha1="0f64a6c148da0469532658c16f655042bc7bade9"/>
+		<rom name="GAMEDAT/PCSHIP.V00" size="139788" crc="e226a0e6" md5="71265aea6791c9400cb4939d43f8aec7" sha1="2a7d2b5a6f35bfb1c7cf029ce201ecbe92219125"/>
+		<rom name="GAMEDAT/PCSHIP.V01" size="151825" crc="ad1d33b6" md5="80e4d52f429b17b5928fc55bd505d812" sha1="c9e1ac13830572c84b59b394e1a51a2d35c06f53"/>
+		<rom name="GAMEDAT/PCSHIP.V02" size="123317" crc="d9d7a439" md5="a9660b37f976e72fa9ecd7233ec30a8f" sha1="535bb51f7bbc37d3662f2d224691895535c36d30"/>
+		<rom name="GAMEDAT/PCSHIP.V03" size="157968" crc="03a6a4d0" md5="13b55f7c4a5e28e514a560fe548bff93" sha1="ca9f9fee45fe85e90b46666cc401c19efbd391ee"/>
+		<rom name="GAMEDAT/PCSHIP.V04" size="27574" crc="8599b9f1" md5="e4dc0bddd4e2eed240d947b6c64dde6d" sha1="2c4c3a1527f473efdd5970d0e9ba070af1df7053"/>
+		<rom name="GAMEDAT/PILOTANM.VGA" size="139984" crc="a8dd1f89" md5="a79525f6fb29655c2df7d1a95d2e93b2" sha1="5e35d6d25f9643bc57bc46abb1fc69dc5961df6b"/>
+		<rom name="GAMEDAT/PLANETS.VGA" size="15583" crc="aef8cf79" md5="a078d896be684c41aa56b0478324017c" sha1="f27c5367b79b8ad76fe568b6010e36247aaf4087"/>
+		<rom name="GAMEDAT/RECROOM.VGA" size="262789" crc="940c6ccf" md5="00185315a5e7cb7813524705a36308ec" sha1="98c5fe210d9e223036c876b56441248d600c209a"/>
+		<rom name="GAMEDAT/SAVEGAME.WLD" size="6624" crc="b8dbe1a3" md5="913e9ccfea6594b6329f90c485afcbf6" sha1="b3a4f8d4fddcebf5a8660586530438fa2329b570"/>
+		<rom name="GAMEDAT/SCRAMBLE.VGA" size="301503" crc="b919df6d" md5="ae38582d7044f9c685878b5061cb36e0" sha1="baaa26d413bc451de56d18cecc0bab4e3e58a174"/>
+		<rom name="GAMEDAT/SHIP.V06" size="139615" crc="b51b9952" md5="627f04145ea1741e6012134b0936156a" sha1="d34c6d7f67cacf6cfe76ff62fe86f74e3cd3def8"/>
+		<rom name="GAMEDAT/SHIP.V07" size="131031" crc="979c9db6" md5="271be93f28528499d090fd7c7313ab0e" sha1="d1164fd28056dab025d8541633af342cfe40b2de"/>
+		<rom name="GAMEDAT/SHIP.V08" size="148101" crc="3594c414" md5="16deb832d0ebf157266835e09bdaa685" sha1="15e9997656cedc176b1bbce25ec7ac531df8682a"/>
+		<rom name="GAMEDAT/SHIP.V15" size="154183" crc="f96f460b" md5="2bcf47a3f365d5ba4737235c0fa72556" sha1="7cb0a91f5eb03087ce3b5bdd44fc6415260e5d94"/>
+		<rom name="GAMEDAT/SHIP.V17" size="134941" crc="8a7b4f49" md5="9d7bb0f46c5c89937d9116ee0ed503db" sha1="91885013fa03f8018e63223973d065da673197d3"/>
+		<rom name="GAMEDAT/SHIP.V18" size="132555" crc="fe2fdfce" md5="315bcbe03afbf7d686594c8e3ae75be8" sha1="57b12d519533950c3cb22101b17a1192a5920477"/>
+		<rom name="GAMEDAT/SHIP.V21" size="71664" crc="5abf2223" md5="df68d3490da4b2cb1d2a146206bdc146" sha1="8ddd6a887ac40af59d63f4aaeaa8844098848a1f"/>
+		<rom name="GAMEDAT/SHIPTYPE.V00" size="64522" crc="ee008ef4" md5="587a5410ba0dd3f3d168ffb5449dd30d" sha1="e72131ad2d4674d05a2463652add38c3738a376d"/>
+		<rom name="GAMEDAT/SHIPTYPE.V01" size="75274" crc="3ecb2b1a" md5="d8bb8677489e56f8ed593a6b4aaec43f" sha1="77bc4cfb0abd140bc33be343f1f45cf652b9e57a"/>
+		<rom name="GAMEDAT/SHIPTYPE.V02" size="60523" crc="cc53432b" md5="3b940927eac457c2f9fcbc78e1a8e68e" sha1="daf1734fb72f11363d6cf8b1989d4cefdeb38870"/>
+		<rom name="GAMEDAT/SHIPTYPE.V03" size="72291" crc="8a4bb5f3" md5="3c19b63ee7fd2334477b2860f1e06db5" sha1="e5a1861afb3c9a4b75d8c8ae1644483d745cdfe1"/>
+		<rom name="GAMEDAT/SHIPTYPE.V09" size="66046" crc="e6ab81f3" md5="a0be309e5b16810512e641f29dd6c341" sha1="cab2fb78cae7830674aa87a76c559067865bb282"/>
+		<rom name="GAMEDAT/SHIPTYPE.V10" size="76725" crc="5820f2d3" md5="efb9cf87d3bfde348ba1f83da0bbabad" sha1="59ed467ac1740e9cad9cbdcd49575c23bec52228"/>
+		<rom name="GAMEDAT/SHIPTYPE.V11" size="75045" crc="91b96bbd" md5="89079affdf328fc9a5455b8e10bbb9f6" sha1="3c912aeeb4e389ed8e4211e0724369c94fa6fd91"/>
+		<rom name="GAMEDAT/SHIPTYPE.V12" size="73145" crc="7c1e18fe" md5="16e4b40f21448265b3d67ca2149d75e3" sha1="2049bf4f03200ea2169451f5ed11e87cd2dedce3"/>
+		<rom name="GAMEDAT/SHIPTYPE.V13" size="65060" crc="14239321" md5="d340aca1a91b2a022ea3b15c270d1378" sha1="b811d6b40d809d4cf92748dd19113d0a178d4275"/>
+		<rom name="GAMEDAT/SHIPTYPE.V29" size="12754" crc="c4802a9d" md5="50c27239cd1ad5b3e5ee153ecbd6899d" sha1="be55ee33884921e3cba696ab62dc37ef3b8c92e4"/>
+		<rom name="GAMEDAT/STRAX.DRV" size="4869" crc="87f2bd02" md5="93761d109f34e1392306b4ae2fd4f850" sha1="beb18666d4cd449edd7f24e8560df3a7a5d07168"/>
+		<rom name="GAMEDAT/SUPERTM.DRV" size="65281" crc="743e61a6" md5="64d51cc7564a19b63b7d5d19e4199290" sha1="1030938a708490a2790abdfe8702dce4da109015"/>
+		<rom name="GAMEDAT/TALKING.VGA" size="228237" crc="ab14bcd9" md5="4876c88f679aa14ca30cd1de8363d91f" sha1="dc12573fbea42e1f256c577585855042e45dff4e"/>
+		<rom name="GAMEDAT/TITLE.VGA" size="271553" crc="b16a12f2" md5="add784b60572a99aac8df2d8831e8a76" sha1="f4cbd64bdbfae8cdf9e75968eef1017f06c7463f"/>
+		<rom name="GAMEDAT/TM.DRV" size="29779" crc="d8cefda9" md5="2e964e9f0dde67202b8b1b7d7ddd8f7e" sha1="43f634611b0fd2fd5b927e83311637675f6af4ed"/>
+		<rom name="GAMEDAT/WINGLDR.TIM" size="5596" crc="97449e04" md5="c0468fd4847f20cc3d8a8f612fa3cebb" sha1="2740fc461d3e86eec43c5b5dc0aca3f9837a8b10"/>
+		<rom name="GAMEDAT/WINGMEN.VGA" size="57211" crc="659b461d" md5="59b77dad60fbae50f29c6504d6073f49" sha1="191b61d0c025ae9eb4f71e2712127f444ce6fac4"/>
+		<rom name="INSTALL.EXE" size="55056" crc="2a4c6b69" md5="13cd6eb26dc0e4e0c20ee200f6bbbfaf" sha1="8365737ae703431d07fca54710bcef16f3e258f8"/>
+		<rom name="WC.EXE" size="304976" crc="1ee589a4" md5="c3b891e4a90c126fe33f543595e0e8aa" sha1="872ca4b6fbd9647289fe833928314e603bdf3608"/>
+		<rom name="WINGCMDR.CFG" size="11" crc="d10d4513" md5="e1781f0f9935194117ffc29a0ba12c42" sha1="b84271c4227fca6042f95f1e0d38669c8efa5a33"/>
+	</game>
+	<game name="Wing Commander - The Secret Missions (1990) (Origin Systems).dosz">
+		<description>Wing Commander - The Secret Missions</description>
+		<comment>
+			Installed from Wing Commander &amp; Wing Commander II Special CD-ROM Edition.
+			Installation options:
+				Directory: C:\WING (default)
+				Uncompressed files (Save Time)
+				Graphics: MCGA/VGA
+				Sound: Sound Blaster
+				Copy from D drive
+		</comment>
+		<comment_dosc>Required WINGCMDR.CFG file and auto start. MT-32 and character transfer options</comment_dosc>
+		<year>1990</year>
+		<developer>Origin Systems</developer>
+		<parent>Wing Commander (1990) (Origin Systems).dosz</parent>
+		<rom name="GAMEDAT/BRIEFING.001" size="85455" crc="7a240924" md5="9e9a05acd55a0e3c73dce8688b22ec13" sha1="19b2a1abe2153d646eba5b0d4f0908d4c1a8d3df"/>
+		<rom name="GAMEDAT/CAMP.001" size="456" crc="df02d891" md5="8002d8e35f0c37edef6866e86149a10c" sha1="db686d44abe2134dc183dda4860c95546cda2f55"/>
+		<rom name="GAMEDAT/DISK.004" size="8" crc="922564ae" md5="6dd4566eb245627b49f3abb7e4502dd6" sha1="f58dcba483dda1773372c0cddcc702960404308b"/>
+		<rom name="GAMEDAT/INSTALL.DAT" size="1120" crc="8ee54f07" md5="73496fb9d16c6a69c8002f07e22bccce" sha1="875652a85855b5a3917cb45562b2d239f2bd27aa"/>
+		<rom name="GAMEDAT/INTRO.DAT" size="687" crc="d277ca71" md5="ee51a4f443226442e723c4897c0854af" sha1="94db99906a827ad0d5382405db029d4b9551948a"/>
+		<rom name="GAMEDAT/MIDGAME.V04" size="51688" crc="f723b548" md5="365aaee4a9efa7aad57f853c220f7e7a" sha1="568cfdd2ca00c905e9e9e1154064739d8eb128d2"/>
+		<rom name="GAMEDAT/MIDGAME.V05" size="239200" crc="e9812079" md5="0db9a90dc5193c6ecff3091e600a4f2c" sha1="fdb5eb65bc2c4e53f3b78eca5201ec472fa1da47"/>
+		<rom name="GAMEDAT/MODULE.001" size="18595" crc="c11c1aec" md5="8930d6c13b12b4f338b36e5e86df9e19" sha1="8b6ac71525c9580402616bec32b68f6d019d6546"/>
+		<rom name="GAMEDAT/SERIES.VGA" size="24674" crc="8b8ec40b" md5="01c70af94644551643c6573b1bcc4ba7" sha1="21e1e1b0f6eedccad920e4fa3851889d524ab0e9"/>
+		<rom name="GAMEDAT/SHIP.V04" size="148513" crc="831ca9b3" md5="486655b0ab97fc98366d8a5a50292c1c" sha1="c5358261bb061a07112c6a470a5e61a7471e64a5"/>
+		<rom name="GAMEDAT/SHIP.V05" size="160192" crc="714c6c4f" md5="ddfc4dd996a074c37092801c19a5e2d1" sha1="e526d5554a96537350fc80c3d0763e0340ba412c"/>
+		<rom name="GAMEDAT/SHIP.V16" size="148816" crc="4a502079" md5="08ca7b7cbb9db5d982ecc9cec834212d" sha1="e413c10c179e5a75e9f5f71a6fc1b356a38464b1"/>
+		<rom name="GAMEDAT/SHIP.V20" size="155135" crc="8bce578e" md5="f40a356d99395f407d082c01d373c01b" sha1="9572dabfba084e0a56e39fbd96e738bc7dbf36dd"/>
+		<rom name="TRANSFER.EXE" size="71088" crc="7262b235" md5="af28084a53ae392145911b738201e3a1" sha1="79c6a0c66b968e3681eddd22b2d25cdf957aaebe"/>
+		<rom name="Wing Commander (1990) (Origin Systems).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="WINGCMDR.CFG" size="11" crc="e32b03f1" md5="4bc769a72ab209cd33ee8c1d0a4fac1e" sha1="8b06a783bd358b8d068d012283d156a1907a146b"/>
+	</game>
+	<game name="Wing Commander - The Secret Missions 2 - Crusade (1991) (Origin Systems).dosz">
+		<description>Wing Commander - The Secret Missions 2 - Crusade</description>
+		<comment>
+			Installed from Wing Commander &amp; Wing Commander II Special CD-ROM Edition.
+			Installation options:
+				Directory: C:\WING
+				Uncompressed files (Save Time)
+				Graphics: MCGA/VGA
+				Sound: Sound Blaster
+				Copy from D drive
+		</comment>
+		<comment_dosc>Required CRUSADE.CFG file, copy protection patch, and auto start. MT-32 and character transfer options</comment_dosc>
+		<year>1991</year>
+		<developer>Origin Systems</developer>
+		<parent>Wing Commander - The Secret Missions (1990) (Origin Systems).dosz</parent>
+		<rom name="CRUSADE.CFG" size="11" crc="e32b03f1" md5="4bc769a72ab209cd33ee8c1d0a4fac1e" sha1="8b06a783bd358b8d068d012283d156a1907a146b"/>
+		<rom name="GAMEDAT/BRIEFING.002" size="90407" crc="3b316453" md5="589bc762902452178e5fd42f68c90277" sha1="2e27f30fbe620d806dbd3019be9a6a79006e7eaa"/>
+		<rom name="GAMEDAT/CAMP.002" size="437" crc="a676880b" md5="d91dc05a30c401eeb38c776e3156528f" sha1="b74d39731b6b6808ea9673fba8084b17781509b5"/>
+		<rom name="GAMEDAT/COMMSM2.DAT" size="12320" crc="386026f5" md5="7dbd1689cf8867488a970189a60118f0" sha1="9bac6025a0b78b2727cc9d66ba2dad633b7be8d5"/>
+		<rom name="GAMEDAT/DISK.005" size="8" crc="922564ae" md5="6dd4566eb245627b49f3abb7e4502dd6" sha1="f58dcba483dda1773372c0cddcc702960404308b"/>
+		<rom name="GAMEDAT/INSTALL.DAT" size="1120" crc="b0504b33" md5="494f0f08ef836110df4d94d3159f7ca0" sha1="73792c91748518b69ac0665cf3f9b51b3cbae8cb"/>
+		<rom name="GAMEDAT/INTRO1.DAT" size="743" crc="3c6dda3e" md5="28ba720b9851ba8f0c393be107b9da86" sha1="e83cb9bcc4d13cdf10df0af535e9ded75e24d6f2"/>
+		<rom name="GAMEDAT/MIDGAME.V06" size="81061" crc="3143b0c5" md5="278c9f7758993f1b44374603e45f2fbf" sha1="d0d821f3e063d3349535a3e64d8b03245cfe831f"/>
+		<rom name="GAMEDAT/MIDGAME.V07" size="266976" crc="58223480" md5="ac2398fc6f2791e4c5cc9607cf17547c" sha1="7f0129ffe94cf00360acab7f8523ff20214f58e4"/>
+		<rom name="GAMEDAT/MIDGAME.V08" size="132430" crc="0dec69b6" md5="e344e17223ccca24f7114db55f503fee" sha1="a6b536df25021041aa004cb05a9ad6b4912dcc8c"/>
+		<rom name="GAMEDAT/MODULE.002" size="17765" crc="6ca31359" md5="27da62ae410620039e9584f2d0270637" sha1="11b75b68108889454cdc198b3e34ef5b8111a2b2"/>
+		<rom name="GAMEDAT/PCSHIP.V05" size="182409" crc="2371c473" md5="97ea678693e746796be732c889ed9702" sha1="f77266d8ba67408dec7f4ccfe07c3305c8bf083c"/>
+		<rom name="GAMEDAT/PLANETS1.VGA" size="12422" crc="39b5d154" md5="2dde839cf30598efc902673cc43ef715" sha1="10ab0e41597ef976f038a732c2ce6bef7575dce7"/>
+		<rom name="GAMEDAT/SHIP.V19" size="120946" crc="a6ed5663" md5="940c4afa52a2369f087354f75a4293e5" sha1="4ccb9774fb72ff4b879126cc3c6aaad1ee95edc7"/>
+		<rom name="GAMEDAT/SHIPTYPE.V14" size="71007" crc="72deac5a" md5="a002b4dfd9eccc5ee0521217a79a3f9b" sha1="fba4fc2812b9b9fb9e4d5bec3734d7135e0f735f"/>
+		<rom name="GAMEDAT/TALKING1.VGA" size="56027" crc="113c4d18" md5="d414962438637513ccb609336349f9f2" sha1="a81787f76f4f690c8fadb071c553d55d17976b43"/>
+		<rom name="GAMEDAT/TITLE1.VGA" size="50118" crc="fe069c12" md5="2601aa9698cdc424edd09c2d3f409e96" sha1="8afcc438125722f5a0879fdc067580785eada7f1"/>
+		<rom name="GAMEDAT/WINGMEN1.VGA" size="3774" crc="c9373d14" md5="1bcab040df00a13cd02e1b1554fc89ee" sha1="eb6a63cdacb6a6740037b2da7560c233543eb398"/>
+		<rom name="SM2.EXE" size="305024" crc="c8a18881" md5="ce4352973846abc055c0d625c88f074f" sha1="8f201a8f0271ef43ddbb5b77aa6dc69cce5b8669"/>
+		<rom name="TRANS2.EXE" size="71200" crc="578cb9a2" md5="58506c1f5d9440b6f2f54c3062c4f52d" sha1="3a4b3d6ddfe8cc7794ab59c8712b186ec97cbf8e"/>
+		<rom name="Wing Commander - The Secret Missions (1990) (Origin Systems).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
 	<game name="XF5700 Mantis - Experimental Fighter (1992) (Paragon Software).dosz">
 		<description>XF5700 Mantis - Experimental Fighter</description>
 		<comment>Installed using Redump-verified CD-ROM: XF5700 Mantis - Experimental Fighter (USA)</comment>

@@ -369,6 +369,16 @@
 		<rom name="disk1.img" size="368640" crc="1b0a9a49" md5="73ae4312f1ae609fae2d746b9c4f0a9d" sha1="ddb4ac551c18a1d12421f6d658bddc049f35374c" date="2009-08-21 15:15:44"/>
 		<rom name="disk2.img" size="368640" crc="69455d2b" md5="9c3cedb733a451c89d072c90c0ddd8e4" sha1="3b8762a73307b9df59d623121b9fa6e208aba887" date="2009-08-21 15:16:54"/>
 	</game>
+	<game name="Wing Commander &amp; Wing Commander II (1994) (Origin Systems) (Installation).dosz">
+		<description>Wing Commander &amp; Wing Commander II</description>
+		<link type="media">http://redump.org/disc/80031/</link>
+		<year>1994</year>
+		<developer>Origin Systems</developer>
+		<variant>Installation</variant>
+		<rom name="Wing Commander &amp; Wing Commander II (USA).chd" size="40480128" crc="d0bb8b42" md5="4358108ed9daa8027691a0b4fc2d379b" sha1="2931953b2689698458ea6206e884593901bdd9d7">
+			<track number="1" type="MODE1_RAW" frames="16525" pregap="0" duration="03:40:25" size="38866800" crc="77eda177" md5="afa0fbf4b5d4f5078eab7bf0b7fa67ba" sha1="702ecc1103e9aa63bb5014f47f538d122869a31f" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
 	<game name="Xenophage - Alien Bloodsport (1995) (Argo Games) (Installation).dosz">
 		<description>Xenophage - Alien Bloodsport</description>
 		<year>1995</year>
