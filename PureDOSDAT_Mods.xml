@@ -10,35 +10,35 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
 	</header>
+	<game name="Alien Vendetta (2001) (Various).dosz">
+		<description>Alien Vendetta</description>
+		<year>2001</year>
+		<developer>Various</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/av</link>
+		<rom name="AV.DEH" size="7403" crc="288ba8ba" md5="9e3073749f59fc3afeea48faa967a332" sha1="edc231da967edd64780299b930345fcfa79f649a" date="2002-12-24 23:59:04"/>
+		<rom name="AV.EXE" size="709905" crc="5e21bf6e" md5="1e5812d6d8f3908dec240c824ad4145e" sha1="e0223bcb3881f8fe77b15e0721cc4c1bc9c22d91" date="2002-12-24 23:59:12"/>
+		<rom name="AV.TXT" size="55068" crc="607fd84f" md5="c2ac69490620e311243e81f51389550e" sha1="831c4bd574a450ad36dfef0a208467fdbb224a1b" date="2002-12-24 23:59:08"/>
+		<rom name="AV.WAD" size="23819412" crc="b0001c47" md5="6006c3a370aa1dc0be04e0f3976f1ca4" sha1="2fc37855a54d63106b9bee7d03b5556caaa42e23" date="2002-12-24 23:59:10"/>
+		<rom name="AVMOVFIX.WAD" size="1816944" crc="2cbc23ed" md5="8b841a6de9869c793a8ceb34c175797c" sha1="74baababc132fd054bc841fb2088725315de3a6a" date="2002-12-24 23:59:06"/>
+		<rom name="CHANGES.TXT" size="7660" crc="aec72bef" md5="e3f32db56f4140725fe32ec3e8ceedce" sha1="e56dc5c82d720006bea71799cb0b61b276d3b3f6" date="2002-12-24 23:59:24"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
 	<game name="Aliens TC (1994) (Justin Fisher).dosz">
 		<description>Aliens TC</description>
 		<year>1994</year>
 		<developer>Justin Fisher</developer>
 		<parent>Ultimate Doom Mod Base.dosz</parent>
-		<comment>Repacked version from Doomkid's vanilla wad pack</comment>
+		<comment>Revision 2.0 by Quasar</comment>
 		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://www.doomworld.com/forum/topic/114671/</link>
-		<rom name="ALIENSTC.DEH" size="17939" crc="7288cad6" md5="0b13da642f099f7a231964c858dc2a18" sha1="4b4c454d6ed0efed11161ac6b079ce55abbde65c" date="2000-06-22 00:30:08"/>
-		<rom name="ALIENSTC.EXE" size="715493" crc="b77feda3" md5="2e060c062c902b6a4292f0e2286a766d" sha1="755b7272589fbbb8b4d30347bbad88c38957b2c1" date="2021-06-29 14:53:24"/>
-		<rom name="ALIENSTC.WAD" size="6479408" crc="c6f74802" md5="7d38a0f141ba9e6aa8f779fec4067ffc" sha1="ac158674c0286227fed1fd333060c3a0b4a0841d" date="2021-06-29 14:53:54"/>
-		<rom name="OLD/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-12-31 09:00:00"/>
-		<rom name="OLD/ALIEN.BAT" size="556" crc="2ba097db" md5="f995618d9e7273b0e6ae1e0fe793b4e9" sha1="0dd06101f8997812795354a09958caea0c260e13" date="1994-10-18 11:35:42"/>
-		<rom name="OLD/ALIENTC.TXT" size="24088" crc="8ab4efae" md5="12498c065bf2f4224c5e2cbf8513dec2" sha1="2e521261d9c7050a7f4e330f42495ec2d4869c92" date="1994-10-18 12:46:08"/>
-		<rom name="OLD/ALITCP12.DEH" size="23626" crc="94e3e2b1" md5="12d11682d5be6a1d4f1dc5e71351fdd7" sha1="e95b70e1326fd97ae18a3e8b4c330332120e2912" date="1994-10-02 21:08:00"/>
-		<rom name="OLD/ALITCP16.DEH" size="66874" crc="1f128f7c" md5="fb1e454aba45e2db22b788440fa36ec4" sha1="4f64e590f5fc2fb5ba8a742d21975824bbb7402c" date="1994-10-02 21:05:48"/>
-		<rom name="OLD/ALITCS12.STR" size="29271" crc="5b623d0e" md5="db7d6ca47a127c74e39821e4f8fa3d39" sha1="022db33491a274cb20455f0d6b7dc9894f8f29e2" date="1994-09-24 23:47:10"/>
-		<rom name="OLD/ALITCSF.WAD" size="1168480" crc="52265f1b" md5="938ee1d21865622385b81701332b0b91" sha1="e24de15e13b9c6c357ea20d704b2e64aa24d8db6" date="1994-10-31 01:49:42"/>
-		<rom name="OLD/ALITCSND.WAD" size="661884" crc="b291c9a9" md5="31a131a1d6109a69f4cdeed277c52c33" sha1="43a80a4386867fef9b48e5b0005e7ae8936bafe2" date="1994-10-31 01:22:12"/>
-		<rom name="OLD/ALITCWAD.WAD" size="2817432" crc="48d989cf" md5="b3904526e0640760016dfb8338cc845f" sha1="ca25b3679895ce2ff6799856513f8e38b956bf44" date="1994-10-31 01:24:56"/>
-		<rom name="OLD/ATCUD19.DEH" size="17939" crc="7288cad6" md5="0b13da642f099f7a231964c858dc2a18" sha1="4b4c454d6ed0efed11161ac6b079ce55abbde65c" date="2000-06-22 00:30:08"/>
-		<rom name="OLD/ATCUD20.TXT" size="2516" crc="7926d9ac" md5="87c7ff32b86de9063612a07fb43a3957" sha1="bf07881b9a4f4e7da344e73daf0064c93bd88eb5" date="2001-06-08 23:05:06"/>
-		<rom name="OLD/DEHACKED.EXE" size="77978" crc="c8cf8b27" md5="d1e0ac9bf0e2c347f4b1b503db4f2f31" sha1="cc55fc85b3f4ad4cad0a01e2e4529c402aa6b8f1" date="1994-09-11 04:10:58"/>
-		<rom name="OLD/DEUSF.EXE" size="56436" crc="52f42fd2" md5="fffbe3df391c35f6b95e19495a5534ab" sha1="0c71fd5d807442963b9715dc475528943bc632b6" date="1994-11-02 20:48:24"/>
-		<rom name="OLD/DEUSF.TXT" size="8248" crc="6636430f" md5="ca91bf2e1565c793105c14d632f7e06b" sha1="9f737913e6f408748f081d22f119794fd50912fd" date="1994-10-18 12:22:54"/>
-		<rom name="OLD/DMSTR.EXE" size="45356" crc="cb2bbc9f" md5="505a6b6ed88e23ff117e261c2c18c0cc" sha1="e7f2058ebeca27b5c23356bb6926fdb47c112940" date="1994-09-07 22:58:42"/>
-		<rom name="OLD/FILE_ID.DIZ" size="835" crc="64b0c73f" md5="e704d4d122b20ed242547e18378ce6e4" sha1="623febcaec5670e0f9ed739ea9511d179c860af5" date="1994-10-18 12:53:00"/>
-		<rom name="OLD/INSTALL.BAT" size="4805" crc="c07d44c8" md5="6186c931d8c3d8d7a24e1bf9f4dacfcf" sha1="f9b7caabf63eec680ce048cb4686dfa41ce3a941" date="1994-10-28 04:10:30"/>
-		<rom name="README.TXT" size="485" crc="c522bfa4" md5="c54bfd30b01f00263f8f454a21602bf1" sha1="8b9f97a846c583e3d7fc4b3be9e5203ab87ba450" date="2021-06-29 15:05:02"/>
+		<link type="freeware">https://dsdarchive.com/wads/aliens_2000</link>
+		<rom name="ALITCSF.WAD" size="1169260" crc="ff8984aa" md5="5e52b4001fef0ec87d6114455428946b" sha1="3410e02693e945c759ff59571fe4a6ea59cc3973" date="2000-06-22 18:22:26"/>
+		<rom name="ALITCSND.WAD" size="687862" crc="131e8fe2" md5="7e18de324b0cbeed1e86c449df39b4d3" sha1="2ce75b55316e3a91687ea0ec13a9212efb1f86aa" date="1994-10-31 19:22:12"/>
+		<rom name="ATCLEV.WAD" size="2952704" crc="24de699a" md5="e4d3c33e988b998c8ed52a0af2d15d8f" sha1="74669898f1ac522fcd56f38ee7db2334da091d0b" date="2000-06-22 18:24:16"/>
+		<rom name="ATCUD19.BEX" size="15273" crc="cb7e28dd" md5="a33379869ed60f065f22d9447ece4724" sha1="0657c350ab5d7ca894adaa9983158db8909ed3ad" date="2000-06-22 17:40:56"/>
+		<rom name="ATCUD19.DEH" size="17939" crc="7288cad6" md5="0b13da642f099f7a231964c858dc2a18" sha1="4b4c454d6ed0efed11161ac6b079ce55abbde65c" date="2000-06-22 17:30:08"/>
+		<rom name="ATCUD20.TXT" size="2516" crc="7926d9ac" md5="87c7ff32b86de9063612a07fb43a3957" sha1="bf07881b9a4f4e7da344e73daf0064c93bd88eb5" date="2001-06-09 16:05:06"/>
 		<rom name="Ultimate Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
 	<game name="Ancient Aliens (2016) (Paul DeBruyne).dosz">
@@ -102,21 +102,16 @@
 		<year>1999</year>
 		<developer>ACE Team Software</developer>
 		<parent>Doom II Mod Base.dosz</parent>
-		<comment>Repacked version from Doomkid's vanilla wad pack</comment>
 		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://www.doomworld.com/forum/topic/114671/</link>
-		<rom name="BATMAN.DEH" size="65544" crc="2e8efbfe" md5="9e7560c6d1e7f4f04b6cfca0bff6cd09" sha1="fe3015f89ebba3842196d306dd17f1903d7b6caa" date="2018-12-11 03:50:04"/>
-		<rom name="BATMAN.WAD" size="16973860" crc="1600263f" md5="c4686776cb6e36100e232be914950b99" sha1="8a7e9f193f2c3bb1eba1731da84a523a5d1af0bb" date="1999-04-14 10:31:30"/>
-		<rom name="DEHACKED.EXE" size="93122" crc="a8191f4c" md5="7f4b6dde1aad5565d38cdd805d72af3b" sha1="acf14af8f5429b3ae822e44b3624c196ceed907f" date="1996-11-11 04:23:30"/>
-		<rom name="DEUSF.EXE" size="90196" crc="5ea1e5c2" md5="89be00455dec01df32e1df8a6bf191f9" sha1="397fc6a2c7e1de6f5d7e066d72bc7acb1d9f9726" date="1995-07-23 10:13:42"/>
+		<link type="freeware">https://www.doomworld.com/idgames/themes/batman/batman</link>
+		<rom name="batman.deh" size="65514" crc="1fc1016a" md5="0373cea0cecb6ad203cb99290b857133" sha1="4aa10a2b35a7e042030f8c88a0c3bc3ed71580ec" date="1999-04-26 16:39:00"/>
+		<rom name="batman.wad" size="16973860" crc="1600263f" md5="c4686776cb6e36100e232be914950b99" sha1="8a7e9f193f2c3bb1eba1731da84a523a5d1af0bb" date="1999-04-15 00:31:30"/>
+		<rom name="dehacked.exe" size="93122" crc="a8191f4c" md5="7f4b6dde1aad5565d38cdd805d72af3b" sha1="acf14af8f5429b3ae822e44b3624c196ceed907f" date="1996-11-11 19:23:30"/>
+		<rom name="deusf.exe" size="90196" crc="5ea1e5c2" md5="89be00455dec01df32e1df8a6bf191f9" sha1="397fc6a2c7e1de6f5d7e066d72bc7acb1d9f9726" date="1995-07-24 00:13:42"/>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="FIX/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-12-31 09:00:00"/>
-		<rom name="FIX/VBATMAN.DEH" size="1208" crc="d5f65ebc" md5="ac60668b20c6260d10d05ad846ec4e91" sha1="06dae7d5aa9aa37e7c77425bddacd599a36c47fe" date="2006-10-30 09:56:54"/>
-		<rom name="FIX/VBATMAN.TXT" size="1515" crc="28d9b7e6" md5="8e5896f04f2cef48475e17a759e2b881" sha1="bc3fb8a2e5e3a49c939baf4213c9b5badc40036b" date="2006-10-30 09:58:08"/>
-		<rom name="INSTALL.TXT" size="2691" crc="3a097f20" md5="4715876866846e95d80621e77014b607" sha1="6543f80a20935a0f16a67894c499a9b91b61459d" date="1999-04-13 09:45:10"/>
-		<rom name="READ_ME_PLEASE.TXT" size="175" crc="eba1abd7" md5="dd65f79f39d974a4494c72f3150a2a99" sha1="c32b9aeca527aaddfdfe0faf5ce521a459ecc554" date="2018-12-11 04:03:26"/>
-		<rom name="README.TXT" size="4563" crc="f74c0be6" md5="71b40c8ce45700365e1ad1e564095a75" sha1="d7738ac42da5188b256133617bde15e4f5f1d360" date="1999-04-06 03:45:32"/>
-		<rom name="VANILLA.BAT" size="606" crc="855cf2b1" md5="cc708224695777adcf40101bb90cc567" sha1="7ff781e04c810213a08997763d147ce0a430cd3c" date="1999-04-13 09:45:30"/>
+		<rom name="install.txt" size="2691" crc="3a097f20" md5="4715876866846e95d80621e77014b607" sha1="6543f80a20935a0f16a67894c499a9b91b61459d" date="1999-04-13 23:45:10"/>
+		<rom name="readme.txt" size="4563" crc="f74c0be6" md5="71b40c8ce45700365e1ad1e564095a75" sha1="d7738ac42da5188b256133617bde15e4f5f1d360" date="1999-04-06 17:45:32"/>
+		<rom name="vanilla.bat" size="606" crc="855cf2b1" md5="cc708224695777adcf40101bb90cc567" sha1="7ff781e04c810213a08997763d147ce0a430cd3c" date="1999-04-13 23:45:30"/>
 	</game>
 	<game name="Boom (1998) (TeamTNT).dosz">
 		<description>Boom</description>
@@ -140,6 +135,22 @@
 		<rom name="KEYCODE.EXE" size="52920" crc="a7253c1d" md5="4a21582ebf40f6a5bfbdd8d3e20cb676" sha1="1da28ec1cc8760417a7aeba91dae928c8f5c7d17" date="1998-04-06 09:34:06"/>
 		<rom name="SERBOOM.EXE" size="58732" crc="72c94d7e" md5="4965195c6260a90ea7e905cdafb7048a" sha1="a9ca4dac679116ed6ef59a7a39d0093c111e4461" date="1998-09-08 19:33:24"/>
 		<rom name="SNDDRVR.TXT" size="9490" crc="438c4c61" md5="f0a7ce55388bf15efb57811cd92b3d35" sha1="0316510437f835b0b8f6e4a27e55f35e8ddbdae1" date="1998-05-12 09:09:38"/>
+	</game>
+	<game name="Chex Quest 3 - Vanilla Edition (2024) (Melodic Spaceship).dosz">
+		<description>Chex Quest 3 - Vanilla Edition</description>
+		<year>2024</year>
+		<developer>Melodic Spaceship</developer>
+		<parent>Ultimate Doom Mod Base.dosz</parent>
+		<comment>Source port version, v1.0</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://melodic-spaceship.neocities.org/chex3v/downloads</link>
+		<rom name="chex3.deh" size="39074" crc="e255511e" md5="5ace863b07b97266a83bfe2434d05bca" sha1="2966a4bde06c7f73e0a7f35217d4b9a9d5547f00"/>
+		<rom name="chex3v.ipk3" size="1333" crc="47222ec2" md5="9d2674c2f09cb8f01ef55d430c82fa8b" sha1="f61e24ee1bb3294603d1b81aa45c81e082c70ae7"/>
+		<rom name="chex3v.wad" size="19609272" crc="c57a9f82" md5="99325880d3d91ee1f8b47bfd9665a887" sha1="1c8f8acb6e3b343a5bdd8927b1525eee87c36192"/>
+		<rom name="chex3v_changelog.txt" size="14781" crc="2537b015" md5="60c0b7ac927ceb37beb94b6607bcf063" sha1="fdcc02e6346e0bd83b318fa563a960d0588d5849"/>
+		<rom name="chex3v_readme.txt" size="7923" crc="0620b45c" md5="80b91486ac831e06df1b9331ff4cd290" sha1="f6fcfc092c804f369daaa7dcf7aae8155f216293"/>
+		<rom name="chex3v_w.wad" size="2068204" crc="77c50c42" md5="3da3fe19b2a4235b66ec5f8a39121210" sha1="1d25e5bae69a1ae1766dca6e63f75f2943a16a82"/>
+		<rom name="Ultimate Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
 	<game name="Cleimos 2 (1995) (Rand Phares, Steven Phares).dosz">
 		<description>Cleimos 2</description>
@@ -165,6 +176,22 @@
 		<rom name="cleim20b/DEUSF.EXE" size="89860" crc="840cfb89" md5="06be303acbae938be316281a4733b798" sha1="6114e05889d7142eef3d8bf69007be873341e087" date="1995-05-05 14:06:04"/>
 		<rom name="cleim20p.txt" size="18403" crc="ae272b3b" md5="d5e02b3038f15718b40a73c850f5d168" sha1="f1e6d63fc207a6436062ea765bdf3884628254fc" date="2015-06-25 20:50:02"/>
 		<rom name="Doom II v1.666 Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Doom 64 for Doom II (2018) (Various).dosz">
+		<description>Doom 64 for Doom II</description>
+		<year>2018</year>
+		<developer>Various</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment>v1.4</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/d64d2</link>
+		<rom name="d64d2.deh" size="14695" crc="6053b754" md5="9dc3921d0e1c6567511350f276cef800" sha1="9efa0c285c5837e37c9ccfbd834d327cb8f83198" date="2018-07-23 14:49:44"/>
+		<rom name="D64D2.txt" size="24995" crc="83726b52" md5="c2dcce0f46061a571a52e8c4c5f5a3b2" sha1="96876e04b557a60748b5acf4e18e325e514042b5" date="2019-12-31 13:46:00"/>
+		<rom name="D64D2.wad" size="17208397" crc="892430c9" md5="ff6cb922d1ac91ef691fd139929e2857" sha1="bc206275310a2bc06881334c3affe50348e6e2e0" date="2019-12-31 13:46:36"/>
+		<rom name="d64d2bw.wad" size="24970" crc="aca7075d" md5="082907cbd505f82ddc4c8b25ca492a26" sha1="db1910b505867b03327ec691d767dcf75d3c7d99" date="2018-02-03 17:41:18"/>
+		<rom name="d64d2hb.wad" size="18086" crc="88369fbb" md5="4e8448e7ed1014e6e49baa16ad354383" sha1="f640dd5f18d7592c8c1d5614d4564134945a1c1d" date="2018-07-01 23:40:40"/>
+		<rom name="d64d2hbw.wad" size="24892" crc="86485cad" md5="ce071ee26d2cbd0a61025c00a382b572" sha1="e7a7d948002d544bde95fc34837e6ac5c2cdecc9" date="2018-07-01 23:40:56"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
 	<game name="Doom Engine.dosz">
 		<description>Doom Engine</description>
@@ -326,6 +353,44 @@
 		<rom name="EARTH.TXT" size="7375" crc="7d6a5ccf" md5="f3aa7101faa8b1e36c48472bc6dda3a3" sha1="aa760a2d3fb323a847e6c3902282dc1a108e984b" date="1998-07-12 15:27:40"/>
 		<rom name="EARTH.WAD" size="3913680" crc="04e7ee87" md5="cdf6bdf64c2361bc99d64fdf548157fb" sha1="a85bcc1e894eea40441dfd2411cf4c4cb54700ac" date="1997-09-30 22:49:26"/>
 	</game>
+	<game name="Eternal Doom (1996) (Team Eternal, TeamTNT).dosz">
+		<description>Eternal Doom</description>
+		<year>1996</year>
+		<developer>Team Eternal, TeamTNT</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/themes/TeamTNT/eternal/eternal</link>
+		<rom name="_E2FIX.BAT" size="61" crc="89b29632" md5="c1f73b1f2fb2c544a164c4aab412c1d9" sha1="752067515afedbba819aeef54ea57e8c57fe417c" date="1997-10-25 17:26:50"/>
+		<rom name="_E3FIX.BAT" size="38" crc="8dfe20eb" md5="74d055fa55be4d062b7cbe71244240dc" sha1="5b9ac405547bb11ef460fd8230d4cd311d846b18" date="1997-11-05 15:38:54"/>
+		<rom name="CONTACT.TXT" size="1377" crc="7fc515b6" md5="2285860b3d3e239c484bf8b807ace725" sha1="5d2fdc53f59755ab4c003a1106121fb3fdcb66d9" date="1997-11-14 18:45:34"/>
+		<rom name="COPYING.DJ" size="1624" crc="f702b009" md5="db589a5c57872506f586ccd4fc99df01" sha1="014276c32831d0d0fd7bf73e1798f753ab1fd1ef" date="1997-06-04 04:31:58"/>
+		<rom name="CREDITS.TXT" size="2541" crc="eabeea3f" md5="4f708dcdd36a5c7c114b046921f63c07" sha1="911cf63ac97e5003bda6485708fcfaa4336e34db" date="1997-11-14 18:45:34"/>
+		<rom name="CREDITS.WAD" size="231116" crc="e8bc1d5a" md5="02b1ecb55727ef0beb31f3caf7f74a81" sha1="20c62fa99cc6470454096917e3886235758ad042" date="1997-11-13 02:01:20"/>
+		<rom name="CSWEEPER.WAD" size="282968" crc="9a56bbad" md5="c5decb049e4771cb72431ec4f3e2d786" sha1="8cee9a735c8470e3a9542f019ca8a1faf72a4ae8" date="1997-11-13 02:01:26"/>
+		<rom name="CWSDPMI.EXE" size="20473" crc="80fa6999" md5="da922d33e83c4ca711a92e59f2c6a9fc" sha1="3de2eb058ed95a0bbe7f19eae24f77a025b2e3bb" date="1997-10-19 21:48:14"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="ED-MUSIC.TXT" size="5500" crc="b33e1305" md5="9d770cabb0069bbba2341ff45722db70" sha1="79db4757f10bb03f48d2b32bb1a2b6041a9cd885" date="1997-11-14 18:45:34"/>
+		<rom name="ESHELL.EXE" size="294903" crc="d0ff31bc" md5="85110cf61b18ada4331bec2961c327f5" sha1="00d27407e527ce7ce9ab46f3e0bde98380ad0a3e" date="1997-11-13 16:35:40"/>
+		<rom name="ETERNAL.BAT" size="357" crc="81807f75" md5="4004ee812fa7ea6f49e3399eae7346ae" sha1="e2e4d3fd0dc09c1c9cf306d0d03ca2eabaf4f913" date="1997-09-17 19:57:22"/>
+		<rom name="ETERNAL.LEV" size="1566" crc="b7d082cf" md5="237610001f7b69f0628b77e1e8000a3c" sha1="9f6b9eb16ca502addbc8d81e765516f65d78e648" date="1997-10-29 15:35:34"/>
+		<rom name="ETERNAL.TXT" size="16996" crc="a0ea7f18" md5="02e780f5d93a1912efc3a22aef144f8b" sha1="465518f054ff77668218b0eb30fabe2046fb95e4" date="1997-11-14 18:45:36"/>
+		<rom name="ETERNALL.WAD" size="25855356" crc="cee7695d" md5="e8683fd3bf9af11859c8b2fe48a2cf7f" sha1="711404119e7354920fecaead34441fe9c547e24c" date="1997-11-14 18:50:46"/>
+		<rom name="FILE_ID.DIZ" size="346" crc="7d466a7d" md5="573d3e447c880d4e8f64ebbc61ec3340" sha1="d01ec790c0ab0ea44315f56fd69372f80699043c" date="1997-11-14 17:35:36"/>
+		<rom name="GENERAL.TXT" size="1229" crc="695b88f7" md5="4690d02e931766af4e6dd20d9c92914b" sha1="1b3e86b2c711e487d35fad3a748efb15e4c10e87" date="1997-11-14 18:45:34"/>
+		<rom name="INSTALL.TXT" size="12919" crc="f8938692" md5="b51c692ba1bed9fc433d154c079bf9d8" sha1="2374b4b3a11a8ff6f20862871184161ad64a7bee" date="1997-11-14 18:48:14"/>
+		<rom name="NULL.WAD" size="12" crc="aefbd5e9" md5="d5cc99b8d3179ecaef7d6cd6e03d6d53" sha1="7d66947c36dc3a67486efa73429370c6aed58f99" date="1996-12-17 14:35:54"/>
+		<rom name="PATCHER.EXE" size="542720" crc="65422f04" md5="65e333dee43cda2413bb1fbada42a1ac" sha1="0c2efe0e1cc39bdfed20c2f7b513f4ab149e641d" date="1997-11-13 03:20:48"/>
+		<rom name="PATCHKIL.RES" size="6479" crc="51ba2f26" md5="2a3717bbd030cd27d470e8f2a8c11b10" sha1="5041bc8169f3f00879e842dc493551726a13d138" date="1997-09-29 09:06:32"/>
+		<rom name="RANCY.EXE" size="203827" crc="890d4f81" md5="5f5f4ab8992d2781c7d14278addb0352" sha1="4390a3b4438a590f4215a6ea26d9a0e1362bc058" date="1997-09-30 06:47:42"/>
+		<rom name="RESOURCE.DEF" size="12663" crc="7d4133de" md5="bb592d25915388b009fbadae196ae581" sha1="58c6990677da9496a132d29e871fc07f6e36a2b8" date="1997-09-30 08:56:28"/>
+		<rom name="SEPI3.BMP" size="33846" crc="718d4987" md5="4d121351e5dae6a70715b8277362fae5" sha1="7b6c34d2683936fc2e1ad95174f1e7621127203e" date="1997-09-28 14:48:16"/>
+		<rom name="SHELL.LST" size="364" crc="c8e5e109" md5="f1d56e5797e000325efdc0925fffd1a5" sha1="a4e8dbf74c745f944a73eed82bdf68ca5b3acb7b" date="1997-11-10 22:14:36"/>
+		<rom name="SHELL.TXT" size="19130" crc="db3f16c9" md5="5e79ba8a943c1697b3662a9419542d46" sha1="2d810572f27c2ce3caa8e1134abfee41773dac2a" date="1997-11-14 18:45:36"/>
+		<rom name="SHELLKEY.TXT" size="1477" crc="623360c8" md5="541d009ec0f3f88ff9b7f55982aa8c3d" sha1="151f39adac8750d368a481e0ab32e9bde33fd958" date="1997-11-14 18:45:36"/>
+		<rom name="STARS.BMP" size="33846" crc="5dfdb596" md5="f6627f1a44f13872274699c9fccca22b" sha1="9520a8dc4f0bc32907ae6c94a9431f7dea918e8d" date="1997-09-28 14:48:12"/>
+		<rom name="UDSKY.BMP" size="33846" crc="87c2547b" md5="5d0a01f16e22d6ab979b2aca1ec5df11" sha1="92d41d3d13be95a1622b6e2534dbb626fcd4f59a" date="1997-09-28 14:48:28"/>
+		<rom name="WELCOME.EXE" size="69817" crc="b5996ee9" md5="52d2320ce97d53f1d342eef3c26f259f" sha1="208a3b93c05bf439b548323238ccf9c26f0f74d5" date="1997-08-01 00:00:00"/>
+	</game>
 	<game name="Eviternity (2018) (Dragonfly et al).dosz">
 		<description>Eviternity</description>
 		<year>2018</year>
@@ -408,6 +473,22 @@
 		<rom name="CREDITS.txt" size="15872" crc="74509eb7" md5="9bae542cc4437634d1b7f800fb5328b5" sha1="2b269591ed4fc95adfd59127474dd26a54e1e38c"/>
 		<rom name="Doom Engine.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="doom2.wad" size="28787748" crc="68a76eb5" md5="cd666466759b5e5f63af93c5f0ffd0a1" sha1="975f781e6d801c0a23e3caa33f70493efe68a880"/>
+	</game>
+	<game name="Harmony Compatible (2023) (Thomas van der Velden).dosz">
+		<description>Harmony Compatible</description>
+		<year>2023</year>
+		<developer>Thomas van der Velden</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/g-i/harmonyc</link>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Extra/Harm-WS.txt" size="696" crc="feb0b48a" md5="03386a96d18f1fdc236ee3a4dca79ca9" sha1="d94e0e81f20a4754a6ca810fdf87589b3672cfdb" date="2023-09-04 14:53:20"/>
+		<rom name="Extra/Harm-WS.wad" size="465269" crc="14654134" md5="f3c86bd3845bf6708195252b6bbf433f" sha1="f40c4c833d0947d2a41bd37009b9fef66ddc577e" date="2023-09-03 08:17:50"/>
+		<rom name="Extra/HarmonyC.ico" size="107585" crc="bc6072b7" md5="8d77761556b7a21ddd58063cc1198e66" sha1="f5ae2312393dc97f3ac315f52632c3f55f2811a8" date="2023-07-12 19:24:22"/>
+		<rom name="Extra/Overview.txt" size="7578" crc="f194a980" md5="ed49427ab33212e07d0e3c84a201241b" sha1="c8ace075e5fa35a20b22985566caae45df59f18f" date="2023-10-28 06:54:40"/>
+		<rom name="HarmonyC.deh" size="34703" crc="ce018ef9" md5="5cc025571ae444afc282629329149ba8" sha1="3e3115709c50710580b3eb35bb1fc13f27c8c96b" date="2023-10-26 19:32:18"/>
+		<rom name="HarmonyC.txt" size="16165" crc="f10851aa" md5="b8f04ed915421ca12c91ff5a98700a4c" sha1="e15577d053e8ad16a769d3f987e4624ccbbc3519" date="2023-10-29 08:21:00"/>
+		<rom name="HarmonyC.wad" size="22456593" crc="85eb7525" md5="20d826ad84a15b1e04cb1fb61989b6c0" sha1="955f74aebdf58163465f93ddf9d0f3598e608a0f" date="2023-10-30 09:02:26"/>
 	</game>
 	<game name="Marine's Best Friend (1998) (Lee Killough).dosz">
 		<description>Marine's Best Friend</description>
@@ -618,6 +699,55 @@
 		<rom name="REKKR.txt" size="3240" crc="9a18112e" md5="f909ab3ebe1761aecef469bd80259b1d" sha1="6e22846b2f7c9ae6aa2264a259a924553d7efd55"/>
 		<rom name="REKKR.wad" size="41960202" crc="1acde63d" md5="0c5c3e6fc5ec0d72b0bd0455d03989a0" sha1="114bfe1ba0819292ad2b94af048ff9f1c75c9522"/>
 		<rom name="Ultimate Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Requiem (1997) (Various).dosz">
+		<description>Requiem</description>
+		<year>1997</year>
+		<developer>Various</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/requiem</link>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="FILE_ID.DIZ" size="349" crc="5743c938" md5="6dc7b6ec09b7005598a298902f6b0f74" sha1="1512c6d0da09f187771fc0c6468c6c3e9a96ae2a" date="1997-07-05 17:59:18"/>
+		<rom name="REQMUS.WAD" size="855889" crc="3c681bc4" md5="dee390a1a5f38a6d58697de1f27bd6f8" sha1="b2678ead7b8a9f800d63bb2af5a31a9642c425d5" date="1997-07-01 17:32:06"/>
+		<rom name="REQNOMUS.BAT" size="23" crc="1cb641dd" md5="83318b6c3fb004c80b8cbde2c359ce3c" sha1="9b58361f2b4f61ce399d941bd30b61967a960d27" date="1997-07-01 17:38:24"/>
+		<rom name="REQUIEM.BAT" size="34" crc="e4e6181d" md5="b1d7ab6cc92b6a6f3de4c51ab5569d2d" sha1="13dc4c3a948dd6de1a355c74b4c3d87df33e11e7" date="1997-07-01 17:38:30"/>
+		<rom name="REQUIEM.TXT" size="27324" crc="6c9ba484" md5="e06f0122fd47e609a03d7eb7f39fbd35" sha1="f4fb04430f203fc8c8bf1267685a354e0b525015" date="1997-07-05 18:05:02"/>
+		<rom name="REQUIEM.WAD" size="11464486" crc="6b2f4a1d" md5="f5bdfb5a32ead6f8c642fc13555074de" sha1="fd314d239e9a8528cca069c83ff3cc2bef6fabc5" date="1997-07-05 17:56:42"/>
+	</game>
+	<game name="Scythe (2003) (Erik Alm, Kim Bach).dosz">
+		<description>Scythe</description>
+		<year>2003</year>
+		<developer>Erik Alm, Kim Bach</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/scythe</link>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="scythe.txt" size="5093" crc="f953e4ca" md5="8646b1ed2416d7eda90647e467528d36" sha1="421f6710e97aa1d298f41fefc5c8ef70b80b69bb" date="2003-04-09 17:11:42"/>
+		<rom name="SCYTHE.WAD" size="6215556" crc="bff265f7" md5="3131213a9413a604c5c160848ddb3d9d" sha1="3ec1d6c5537f4204d48ce661182e7fbd044d5f6b" date="2003-04-10 06:12:54"/>
+	</game>
+	<game name="Scythe 2 (2005) (Erik Alm).dosz">
+		<description>Scythe 2</description>
+		<year>2005</year>
+		<developer>Erik Alm</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/scythe2</link>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="scythe2.txt" size="9052" crc="d804a108" md5="c82bb721a447f892b1e3338ef5bc3136" sha1="d87a84fd3868d57668f9f7ec70972624c8f91a48" date="2009-07-09 20:34:16"/>
+		<rom name="scythe2.wad" size="31285404" crc="2f42f495" md5="1f939d6bcc6175eb9830645d7acb8aa9" sha1="706e1f25ab7efbac85f13bf5362babf5d2e433f0" date="2009-07-10 16:29:44"/>
+	</game>
+	<game name="Scythe X (2009) (Erik Alm).dosz">
+		<description>Scythe X</description>
+		<year>2009</year>
+		<developer>Erik Alm</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/s-u/scythex</link>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="scythex.deh" size="11256" crc="6660e730" md5="994f3593268a40f4b686ca4d22c664fc" sha1="8a761c86ee97e77d52f0b50725e97b60eb3c1e3a" date="2009-09-01 19:12:58"/>
+		<rom name="scythex.txt" size="5029" crc="cc8cf8df" md5="0f4b1126b151126b5bc92c62bfaa6128" sha1="4b5a6a84383c1254606f45bda8d6417dc1ba9cc0" date="2009-09-03 20:22:38"/>
+		<rom name="scythex.wad" size="22984554" crc="2dd8fa4f" md5="17a77143f035978b4115474c00a6bc5b" sha1="82f50499f8c507e5d10d4ea6744e07d606d0d428" date="2009-09-03 09:37:14"/>
 	</game>
 	<game name="Sigil (2019) (John Romero).dosz">
 		<description>Sigil</description>
