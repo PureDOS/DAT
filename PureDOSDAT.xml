@@ -5827,91 +5827,6 @@
 		<rom name="TOS.EXE" size="168480" crc="ca812740" md5="f33506ad8be60b44ead0e7c649389222" sha1="f5f062d8e9283313179b4a5b52bf34dca33edae5" date="1994-05-24 16:00:58"/>
 		<rom name="TOSTEXT.BIN" size="43778" crc="047c676e" md5="f242a1406d0ab0be8fb647665ebbc921" sha1="3c2439e17a098628d70142b8813a6f295763faab" date="1994-02-11 12:36:22"/>
 	</game>
-	<game name="DarkSpyre (1990) (Event Horizon Software).dosz">
-		<description>DarkSpyre</description>
-		<comment>Matches TDC: DarkSpyre v1.01 (1990)(Electronic Zoo) [Adventure, Role-Playing (RPG)]</comment>
-		<comment_dosc>Auto-starts, has config, and IPS patch bypasses copy protection</comment_dosc>
-		<year>1990</year>
-		<developer>Event Horizon Software</developer>
-		<rom name="BAT0.S" size="5560" crc="aa06c271" md5="c63d6c4195f9b63661a23b1cac97b7c7" sha1="f9f784d18114e05231a5e2cd4490bc4ffbc2c0b8" date="1990-09-18 11:14:38"/>
-		<rom name="BAT1.S" size="6970" crc="1403925e" md5="4ca4dc0fd776c26b6d0960bbeec955b5" sha1="665bfb3f2dfa1a650a654751817aa124f6f5af1c" date="1990-09-18 11:15:22"/>
-		<rom name="BAT2.S" size="8633" crc="afad371c" md5="e9609796955790be9340c91db6f6df70" sha1="7925691c4828ff99b0f876f92e94fff715f3382e" date="1990-09-18 11:15:54"/>
-		<rom name="BAT3.S" size="5418" crc="89365bb4" md5="e9a1f45ac8058c74c1ccace9abf4bed0" sha1="b688b7394e290606a8ad85ec1ebe77f2f77a1124" date="1990-09-18 11:16:06"/>
-		<rom name="C" size="4335" crc="7fff02b0" md5="83010700db270a9c9d6cb962b0a81b08" sha1="fad82e21b85363e24af069b41c5e6817f2b69c23" date="1990-09-26 12:45:24"/>
-		<rom name="CGEN.S" size="3993" crc="00dce5ef" md5="a2086bc0f037a04325475e12cfc43466" sha1="27a9d7fb331e2750265de53cbe995d18c4be9a71" date="1990-09-18 11:16:22"/>
-		<rom name="CR.DAT" size="160780" crc="4ba60e80" md5="d9c6e28a193e218c4ccc988ca4c27294" sha1="f55eddf12a3168bc92225a882ca0d98af5b4b2b7" date="1990-10-31 17:08:24"/>
-		<rom name="DARKSPYR.COM" size="2224" crc="b7e232ba" md5="b37a97b27bd86ae1e8013d0189eb13a9" sha1="23f4e3d65281c6b1f459deadbec19a90f46fffe5" date="1990-10-31 16:37:36"/>
-		<rom name="DEATH.S" size="6553" crc="67e92dbb" md5="e432e89f20571a81cee1d0928ade5b1d" sha1="79a2731aa85e07a2106f03879acdaa51f2056a68" date="1990-09-01 12:04:00"/>
-		<rom name="DOORS.DAT" size="20083" crc="6705ff3c" md5="923521279b7def60fdafb3fbd6a217a9" sha1="2eb8c6ac99722cbfe86f3fca2a8459f14c23ed06" date="1990-10-16 12:13:46"/>
-		<rom name="E" size="3341" crc="c31bd3d9" md5="65630801a488728adf172794df32d103" sha1="7ac5aaad728f066448e6418ae3a91e141149c404" date="1990-09-24 18:48:50"/>
-		<rom name="F" size="3562" crc="bb91a1d2" md5="13927e5281f2fa046a0082e2a87a5b71" sha1="850e28fc65b888037bdca6af9320d092b95eb13b" date="1990-09-25 13:48:50"/>
-		<rom name="FACES.DAT" size="9517" crc="3c472b90" md5="2dede9fafb1c1769ec18d2341407d12c" sha1="85b8869a2d107b60079d2fcbad0adafb7c3f598c" date="1990-09-16 17:09:10"/>
-		<rom name="FONT1.FNT" size="2476" crc="d188d713" md5="4d38dceefc8b43b4865ad22560f0953f" sha1="b93337ae7dd7b896393ea60e898dc08c28f2ff69" date="1990-08-30 17:44:38"/>
-		<rom name="FONTC.FNT" size="1688" crc="9b447ca6" md5="adf4b667c88c1d9753ef48ed48c6eac9" sha1="a7c33746c205ee5a596672f77e4aa2e353df2e9c" date="1990-08-30 17:44:42"/>
-		<rom name="FONTCO.FNT" size="2517" crc="5ac16a38" md5="ad63072dd13a5570a7bf998ea851d1e9" sha1="ea93a701d9b6758d79dc044622e5328cf0331429" date="1990-08-30 17:44:46"/>
-		<rom name="GRAPH.INI" size="10" crc="efa013c8" md5="a4bcaee7d57e19735590b480feaebddb" sha1="263249d48998bb2dd4795e0c80cd181d9b51ef92" date="1990-11-01 17:15:52"/>
-		<rom name="GRAPHIC.DAT" size="66390" crc="aa45e4f5" md5="d0686a3b76331ef8e9441d908e3a3e5b" sha1="e2901deff6bedc33cf7281f5dd2b153c7ca234b6" date="1990-10-18 09:29:36"/>
-		<rom name="HISCORE" size="237" crc="15cf2c45" md5="235d5f78db79cb99a6e6fe75f93dd387" sha1="bf7bda7b9f3a58aa6a2197d56a121a7582445e1f" date="1990-11-01 17:15:52"/>
-		<rom name="HORIZON" size="1956" crc="c88c902e" md5="f159c97dc419438150634ce4fdc84cf1" sha1="285e32277527fe566e38cede3c68f38f9877a065" date="1990-09-18 11:16:06"/>
-		<rom name="INSTALL.COM" size="13886" crc="5374e065" md5="a16cd88c116fc24faf9a8c86d5c8c46a" sha1="591c4cad89d27f187cbd6dc1a5800eb0a4d313e9" date="1990-10-31 17:48:32"/>
-		<rom name="MAP00.DAT" size="3306" crc="5d5570f4" md5="754bda5d63d66f2442a273157251a165" sha1="a08f2a6078ab04c8759e875be693cf02ed5851bb" date="1990-10-29 15:36:00"/>
-		<rom name="MAP0B.DAT" size="2801" crc="93e58f6e" md5="700a3f3c951d6a8538b9750c47c07b60" sha1="d31eaf55e46bbc93175b503dd46a508b506da7d7" date="1990-10-04 17:22:02"/>
-		<rom name="MAP0C.DAT" size="2533" crc="343aa253" md5="97368a518200c36da15955f666d9dafc" sha1="6c62dcc152cbcc45045a3451ef17d3af65918e5e" date="1990-10-23 09:33:32"/>
-		<rom name="MAP0D.DAT" size="2415" crc="e4f89d7a" md5="5ad5a8a7e54bde84184d7bbfdd625b05" sha1="76b88a325be496582aeaad5ebc0fbd28e40fcb91" date="1990-10-04 17:24:24"/>
-		<rom name="MAP0E.DAT" size="2186" crc="38dcf131" md5="55a8a99adffcffbb47641348dd5ef0d2" sha1="9d9b3574bc7653ec9326cb6d05722fb976b402c8" date="1990-10-29 14:19:10"/>
-		<rom name="MAP0F.DAT" size="1868" crc="2ef12e06" md5="5d4d4590032509c177e40e131470da12" sha1="670664c6750971c823e78d784cb29eb887e8ca5a" date="1990-10-04 17:32:56"/>
-		<rom name="MAP0G.DAT" size="2814" crc="d379da30" md5="2d7c16e6acbe6d264fc1da3180608152" sha1="968bc0588c711840d8c9e5360afc6f9a83ca61cb" date="1990-10-23 09:34:24"/>
-		<rom name="MAP1B.DAT" size="2489" crc="faeb00b7" md5="9d2b0f2124fe2594a8ca366896a81bca" sha1="57378426043689ff27041d1d232299d53dd589fb" date="1990-10-04 17:40:20"/>
-		<rom name="MAP1C.DAT" size="2353" crc="308b7c6e" md5="1e48a9490f4346a439566aa1c04e552a" sha1="97ae6e6ba9edbcc7e4b77da40ac60ac8d7e392ab" date="1990-10-04 17:48:22"/>
-		<rom name="MAP1D.DAT" size="1966" crc="b8019487" md5="29d0d1691ce89d70710b536f4451c931" sha1="ff5314638b5d3228c28b21386fc973ec32939553" date="1990-10-04 17:51:48"/>
-		<rom name="MAP1E.DAT" size="2917" crc="868e10b5" md5="3e9c41e153e90a4db496a20049037588" sha1="ba1115cb5115674e8aacdd1728d9cf084210d25b" date="1990-10-04 17:52:40"/>
-		<rom name="MAP1F.DAT" size="2251" crc="effb0d45" md5="495b9320f6766abdc669eb8ed93e59a8" sha1="92adbab62845580e308ce36a6e8d7b76ae7ffa2e" date="1990-10-04 17:53:42"/>
-		<rom name="MAP1G.DAT" size="2709" crc="9394ae06" md5="8d6eeedcfad6410eeb402ebfb93ac464" sha1="77b109503a1bb0ce61c0daab25215f6008f045f4" date="1990-10-04 17:54:26"/>
-		<rom name="MAP2B.DAT" size="2338" crc="384d524a" md5="a49428f046f515d986cdf0dbfab5f8a4" sha1="d802da6d64df12900144db2d5cfde90a12082929" date="1990-10-31 11:47:52"/>
-		<rom name="MAP2C.DAT" size="3083" crc="87111b96" md5="eda623323081146b9a362502ca61e6ee" sha1="00fa9fa881a861ca01bced3b787e1d2d930df4fd" date="1990-11-01 11:49:16"/>
-		<rom name="MAP2D.DAT" size="2808" crc="5a7d6535" md5="8db8501b840c1fa6d26ad8fe41a170af" sha1="a6857a4c013aaef122424a84573cf86ea40b8271" date="1990-10-22 11:36:44"/>
-		<rom name="MAP2E.DAT" size="2464" crc="ffd816b5" md5="584e3ceded3fc7f55fd45ef8ae36a7c9" sha1="0f01f631faa6861d3e1b252721db9607a218c2ad" date="1990-10-28 01:06:22"/>
-		<rom name="MAP2F.DAT" size="3376" crc="666a0c52" md5="348b59ba5d80d611a5e8edf701be1d84" sha1="ed2059049e0f0ca81aed40573b47885057e43c0e" date="1990-10-05 17:37:46"/>
-		<rom name="MAP2G.DAT" size="2812" crc="38bcd400" md5="09af51fb51b4ee2d2e5bbff093a9bdd3" sha1="49f97bb59f63418b254b4051590b3ced2be2cf14" date="1990-10-31 10:57:20"/>
-		<rom name="MAP3B.DAT" size="2952" crc="ac500b5c" md5="405c317a65f5887e4b87f4edaf1022a3" sha1="91f57414e1d0bddc19c6c2d97675121508d95554" date="1990-10-04 18:00:34"/>
-		<rom name="MAP3C.DAT" size="2648" crc="dc17d54c" md5="2a30dd0ec6e06d6928d790b2caa1fba7" sha1="686635b8f5768e8cfed79a07d7261602f5d29927" date="1990-10-04 18:02:14"/>
-		<rom name="MAP3D.DAT" size="3217" crc="23d3be3d" md5="021b5631c9bef4c62dbce8125ea7edbe" sha1="01545f7d8ea949d491d1b8ec06f3fbf84376291b" date="1990-10-18 23:05:18"/>
-		<rom name="MAP3E.DAT" size="2270" crc="42da9178" md5="6bf2f73bc654b7b3774d410d0bc485d1" sha1="e9cce64bc541568844944e8b6e88e9d7d28e7b9a" date="1990-10-29 15:54:32"/>
-		<rom name="MAP3F.DAT" size="2849" crc="383eb8e1" md5="abdf16f33c8bacc7d3ceec05cb582864" sha1="0c2e592c7e4c6914da03963ffe4fd830ca9739cc" date="1990-10-29 15:55:44"/>
-		<rom name="MAP3G.DAT" size="2807" crc="d42c6ed3" md5="4ebf042d267ba4e4c327811a2232e1c7" sha1="a38eb0144035ff434517bc246ea7d47a64af02d0" date="1990-10-11 09:58:50"/>
-		<rom name="MAP3H.DAT" size="2234" crc="291018e5" md5="96d45655a60490daa7d16eb22854b2a2" sha1="a54b717b291f04b890b81403f373a4e985a8c2c9" date="1990-10-29 15:57:46"/>
-		<rom name="MAP4B.DAT" size="2482" crc="9d8f575b" md5="d68afd5ac041865f1202280a25ddcd9c" sha1="ffed727227e21989f76a002ac337391942596293" date="1990-10-31 12:25:42"/>
-		<rom name="MAP4C.DAT" size="3023" crc="b64df8d6" md5="bf9f16507d48f94590a04ddff526017e" sha1="48ed1ab954233982435744115de855a30253267b" date="1990-10-04 18:06:32"/>
-		<rom name="MAP4D.DAT" size="2783" crc="dd2b934b" md5="724f654c3fe61745a41993e5f305be50" sha1="4cf39446548c97cc963721c462ec45bd62cf3cee" date="1990-10-04 18:07:34"/>
-		<rom name="MAP4E.DAT" size="3063" crc="3c2843bc" md5="89c0472af69a7f11c69885934755bf6a" sha1="e262a8eefeac14f100c0981227e006e2676aeb67" date="1990-10-04 18:04:48"/>
-		<rom name="MAP4F.DAT" size="3528" crc="7bd5339c" md5="7ac7a7111633f80f0d464e26f487b5c4" sha1="a199f9e9d44f46375c6b5da7f29ba6e9fdd484da" date="1990-10-17 10:22:58"/>
-		<rom name="MAP4G.DAT" size="2182" crc="aac8770c" md5="2a108d84627b7f0145be9fa2d9af1408" sha1="2e77a418478821cff5a722dfbc594d2798358b24" date="1990-10-19 18:58:40"/>
-		<rom name="MAP4H.DAT" size="2254" crc="5065b82e" md5="4a12bc398ac68f7102cd19a91ac312ff" sha1="f5df9f0672d7d4baf6926878947f54ebfd8422bc" date="1990-10-20 07:17:56"/>
-		<rom name="MAPR0.DAT" size="3644" crc="3f3b3839" md5="c537a899f90e2a8dca7fe6b7b3000543" sha1="16cf2a901b3d525c1c32cf14018a24a64bf9aadc" date="1990-10-22 09:49:26"/>
-		<rom name="MAPR1.DAT" size="3073" crc="fe23a6ee" md5="8bea3ed33de138638f77f14f37a0199e" sha1="db30b324adb61119c050c17448069a19a3b6dc1e" date="1990-10-23 09:35:40"/>
-		<rom name="MAPR2.DAT" size="3170" crc="1ff90351" md5="c460586d31315899e0657eac3d2e40dc" sha1="b376ef2cbe60bc452ae3b2de8874a6d3f6857de4" date="1990-10-04 18:08:42"/>
-		<rom name="MAPR3.DAT" size="3040" crc="667991e3" md5="95bce55e349a51f081bb42d9e13cd328" sha1="6cd9e9c53a63c47308556b4de607155724cd2ed9" date="1990-09-25 11:25:56"/>
-		<rom name="MAPR4.DAT" size="3411" crc="fa6692c5" md5="2ecff33b036eecb78c2bb0997c316d6d" sha1="8353ee1d586bf34342504cffac84eca3156b747f" date="1990-10-22 09:43:20"/>
-		<rom name="MAPR5.DAT" size="2933" crc="07485c43" md5="107db8bc29b1131d2e72c1668b8b89bc" sha1="3462fccd41eceb38c98022a1a223ed07d80f7504" date="1990-10-22 16:39:12"/>
-		<rom name="MAPR6.DAT" size="2491" crc="85138920" md5="21ef3a124eb0ddfe78b78cb20f75a98c" sha1="d17f1afb9c7e490b6f0bcd9d76cd5c2e29ce4594" date="1990-10-19 17:48:40"/>
-		<rom name="MAPR7.DAT" size="3553" crc="d0f1b8df" md5="feadca70c8a36ef7369e12d3db436de4" sha1="dbccbefea1e9bedce5fb642644981216051a9454" date="1990-10-29 16:42:02"/>
-		<rom name="MAPR8.DAT" size="3652" crc="43826e33" md5="54a45b324a3820909836b5cddcaa3831" sha1="de6388b09b826bf489c79c02e2f522c01b5a452e" date="1990-10-28 22:14:38"/>
-		<rom name="OBJ.DAT" size="11059" crc="56a86695" md5="e93f49802a4b7a0742ff15d9234ece00" sha1="1d2023e9405ad2165438f97cfbab63afc0520e32" date="1990-10-28 02:54:34"/>
-		<rom name="OBJ.SNR" size="17824" crc="1cda98e2" md5="afe80c9c6e3abe3b695af99993dd3d80" sha1="3326c94be7d85d9fb6a49a8992b980ad5b99271c" date="1990-10-18 09:29:18"/>
-		<rom name="OPEN.DAT" size="55607" crc="d845b23c" md5="cef1ba01f8bdd866856e06dbd81c0db7" sha1="b98e8bc64080c5888173a081e263d0ad463f2395" date="1990-10-17 18:33:40"/>
-		<rom name="OPEN.S" size="4411" crc="2c267dc7" md5="49170a4f55dc634a4ee7d361ac62bf85" sha1="c0713089ef060a6a1094ef382048bfe24a82d98c" date="1990-05-14 21:23:04"/>
-		<rom name="POINTER.SNR" size="116" crc="b3b45d18" md5="849889b44288eac973fdaebde82178ff" sha1="b515a753ea50ab5d922923dfbdeffc4f104d4dcb" date="1990-09-17 00:13:30"/>
-		<rom name="RUNTIME.1" size="125934" crc="401cc4a1" md5="77243f5ea560e10d99704e5719a39654" sha1="d63c041f8ae4ad0b987c69593eaab39bc0ed8eae" date="1990-10-31 10:25:56"/>
-		<rom name="RUNTIME.2" size="60064" crc="455cb194" md5="2adef759546054af59e2fc6882276630" sha1="e71b3897be41dafdb7b5e80203c2bcf305494d61" date="1999-04-29 19:01:24"/>
-		<rom name="SAVE.DIR" size="450" crc="e52a8762" md5="0e4d01e49c95bc9039ef9a17b29642be" sha1="7e27f8306a954795b4c3664c917b83a856a03c2f" date="1990-11-01 14:28:12"/>
-		<rom name="T" size="4810" crc="23cd02ae" md5="31d79894e072902673c56de3b25b190f" sha1="4194fb104123fd5cb38a8530b4295a334f9fe4a2" date="1990-10-31 10:35:04"/>
-		<rom name="V" size="3497" crc="9cac31c3" md5="7a408dd182f150d2e9c2f0c0f66257f4" sha1="9a31e7cb10a2f27813dc98f9cf3c91f4ae69315c" date="1990-09-24 17:44:26"/>
-		<rom name="W" size="3549" crc="45b9e71a" md5="590ede88c0e6cfe1027fad96cd644c8a" sha1="ecb853ff117871c0c432f017b159b37a0a23b4ea" date="1990-09-25 13:48:44"/>
-		<rom name="WALLS.DAT" size="162870" crc="d07b007d" md5="1bfa0aaeb56ebb0797e5487ac9c3c445" sha1="539826e3471c24fce98552de24b5aff8a1f0023a" date="1990-09-09 22:55:54"/>
-		<rom name="WEAPON.DAT" size="5804" crc="78c40388" md5="4c0aadaedd5645bbc4e40d9b3af75ec0" sha1="8f59bd8e9dc4b2d2d68531d9e79ff45b88af481c" date="1990-10-02 12:29:02"/>
-		<rom name="WIN.S" size="7100" crc="5f583c90" md5="31606a1b8ea36a45d515483704122c72" sha1="9864c8a8aa36672fd2a211d02e46f3fb5549897b" date="1990-08-31 16:26:40"/>
-		<rom name="X" size="3337" crc="f7583f0c" md5="afb2565d12e08727b51809b0ce61ccf1" sha1="e54db677c1bdb93611ec5f547b3e237c4caf7a3f" date="1990-09-24 18:48:42"/>
-	</game>
 	<game name="Deja Vu - A Nightmare Comes True (1987) (ICOM Simulations).dosz">
 		<description>Deja Vu - A Nightmare Comes True</description>
 		<comment>Extracted from unverified floppy dump, unknown if modified from original, DOS.YML fixes CGA machine to make keyboard input work</comment>
@@ -17806,33 +17721,6 @@
 		<rom name="STRIFE1.WAD" size="28377364" crc="4234ace5" md5="2fed2031a5b03892106e0f117f17901f" sha1="64c13b951a845ca7f8081f68138a6181557458d1" date="1996-05-23 18:03:58"/>
 		<rom name="VERSION.TXT" size="24" crc="4c683baa" md5="921821ff44c39c541babfba6cd101cca" sha1="0d1051c6eba9f13feb865a5681e301d455edab2c" date="1996-05-20 14:24:48"/>
 		<rom name="VOICES.WAD" size="27319149" crc="cd12ebcf" md5="082234d6a3f7086424856478b5aa9e95" sha1="ec6883100d807b894a98f426d024d22c77b63e7f" date="1996-04-15 15:49:46"/>
-	</game>
-	<game name="Summoning, The (1992) (Event Horizon Software).dosz">
-		<description>Summoning, The</description>
-		<comment>Installed using floppies matching TGOD ID 91 - Manual required to bypass copy protection - v1.2 patch applied</comment>
-		<comment_dosc>Auto-starts and config</comment_dosc>
-		<year>1992</year>
-		<developer>Event Horizon Software</developer>
-		<link type="patch">https://www.patches-scrolls.de/patch/4335/7/53323/download</link>
-		<rom name="CODE.1" size="103438" crc="d0bc29fe" md5="34f4e3c7d85b3310e3446b4501352e8f" sha1="10f865181b5ef2f861b187eaab69c5dca165bdbc" date="1993-05-12 08:49:24"/>
-		<rom name="CODE.2" size="159374" crc="f22e0e96" md5="043489dfad6bd3060cbff04297985e8e" sha1="94036b23a536f812fdfac3762f793c41f151b3de" date="1993-05-14 10:06:10"/>
-		<rom name="COLORS" size="6145" crc="a72aeeb3" md5="6ad1ab2e036abafc37cd36894be60b46" sha1="d8a9244cd13bd8f3d441161f731d76c314363a33" date="1992-08-20 16:00:06"/>
-		<rom name="D2EE.SAV" size="32367" crc="64fcb72f" md5="6e2b6609562baf200c0f1911cf074db4" sha1="52a262ebdbdfd200030e4b3322863325fb9c1f31"/>
-		<rom name="F" size="449" crc="1e9c27de" md5="a2b85c59bd4416e1b04f2e9e9ce67e0e" sha1="1a98dc85b74c0b41aff5c85faf4919e4ace0ceb5" date="1992-08-20 16:00:06"/>
-		<rom name="HELP" size="3173" crc="dac88b3e" md5="8921bcf91057663f05d11ad744b27668" sha1="4ff1b884e2c87584041934537b457500d8e8c0c6" date="1993-05-14 10:20:58"/>
-		<rom name="INIT" size="3210" crc="7486ce25" md5="53755afacd1ffb63f01822f6b4caa282" sha1="9fad5c8657617618a7315483fca631b061d829e2" date="1992-09-03 12:37:26"/>
-		<rom name="INTERACT" size="17290" crc="eea7c5c1" md5="b4a46d2c712c1ec63dcfd2082602b951" sha1="c8ea44453c0943ae623a138dc48709d8403fda52" date="1992-09-03 13:03:06"/>
-		<rom name="JAZ" size="839680" crc="7654f47c" md5="dfedb68898d6bf3d0817572a3f32dc67" sha1="91bdd64b2ad21b8648c2dad4c1b175a3f2d73669"/>
-		<rom name="KEYWORDS" size="2293" crc="4cd65e56" md5="5570192642456d499d3921bdd4294e2d" sha1="3ddbb13b407d4766f02bd3e63d947acb5165e6d6" date="1992-09-03 13:02:58"/>
-		<rom name="LEVELS" size="269726" crc="192d10fb" md5="0e1d00e38887325e2ccbaa0953a72746" sha1="a84fc59c544f212c931fb2002cb2ffebfedf7d0f" date="1993-05-14 10:40:44"/>
-		<rom name="NPC" size="2034" crc="dedb02ec" md5="2132e5b2292625a9c84912555859e22b" sha1="a191ecfd26b799e591cb6b60354db619adfb1f23" date="1992-08-21 14:31:06"/>
-		<rom name="OBJECTS" size="3814" crc="601da243" md5="f92559f5a8378b5ca65874910b06ced1" sha1="815196c0c9b0cc894072f67f60b1803730030abd" date="1992-09-03 13:03:10"/>
-		<rom name="README.BAT" size="21" crc="98d71d32" md5="12f9e14a20ccacd89cca00c8f65ffd45" sha1="3212dee0d1d9d790f342e069dd2af47bb259bae6" date="1992-08-20 16:00:06"/>
-		<rom name="RESOURCE" size="1721979" crc="06a2d426" md5="4e1c76d74fd68db20d64f5c37a47eb87" sha1="8c79d58f1c66aec7b9adb3da9b78a149b41a187b"/>
-		<rom name="SETUP.COM" size="14016" crc="d3bc1d49" md5="888f5ac8a116504e630ae135a068ece3" sha1="35f1d23ebedc5f0d7ae7dcd92f27b2b25bf05fce" date="1992-08-20 16:00:06"/>
-		<rom name="SUMMON.COM" size="1476" crc="e7f6a271" md5="2323bf57ac3b88467f35250615688220" sha1="8ba67df6dc8ba4cf8ffc71c9a7d1859d46b31776" date="1992-08-20 16:00:06"/>
-		<rom name="TEXT" size="164432" crc="5356dd12" md5="241c413108300c94110e1262506b6955" sha1="92d0be6ef134f8e4b5e417921fc250e5d1effe0f" date="1993-05-14 10:15:06"/>
-		<rom name="V" size="3733" crc="ae198793" md5="ed6c64419dc07d28cad70b0e4e474986" sha1="61d98157687e98abc6fd122df12593f385c5d9f7" date="1992-08-20 16:00:06"/>
 	</game>
 	<game name="Super C (1990) (Konami).dosz">
 		<description>Super C</description>
