@@ -95,14 +95,11 @@
 		<description>Doom - Lost Episodes of Doom, The</description>
 		<year>1995</year>
 		<developer>Christen Klie, Bob Carter</developer>
-		<parent>Doom v1.666 Mod Base.dosz</parent>
-		<comment>
-			Installed from 3.5" floppy disk matching with TGOD ID: 507
-			Demos require Doom v1.666 if run with vanilla EXE
-		</comment>
+		<parent>Doom Mod Base.dosz</parent>
+		<comment>Installed from 3.5" floppy disk matching with TGOD ID: 507</comment>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="media">https://www.goodolddays.net/en/diskimages/?id=507</link>
-		<rom name="Doom v1.666 Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="JPTR_V40.TXT" size="1629" crc="44610d24" md5="66a45403baa1df339943205cc106fdca" sha1="9c6368712c0283ec6b3be59327d3c0e87b0e082c" date="1994-12-10 12:29:24"/>
 		<rom name="JPTR_V40.WAD" size="2313675" crc="368a45b2" md5="8111f6ea0263a7fcfee5ba3dd06c5554" sha1="9dd7699086f5519c21f4ff24459069e887bb015e" date="1994-12-09 01:31:28"/>
 		<rom name="JUPITER.BAT" size="25" crc="499602ba" md5="01a1b20811d6b3d90d3fc9889cda35f2" sha1="0be027732bf3a28fc4f5035a76ad2834f0c58a5d" date="1994-12-14 12:13:30"/>
@@ -111,11 +108,10 @@
 		<description>Doom - NJ Doom</description>
 		<year>1994</year>
 		<developer>Nigel Rowand</developer>
-		<parent>Doom v1.666 Mod Base.dosz</parent>
-		<comment>Demos require Doom v1.666 if run with vanilla EXE</comment>
+		<parent>Doom Mod Base.dosz</parent>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom/megawads/njdoom</link>
-		<rom name="Doom v1.666 Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="GREETS.NJD" size="2228" crc="1ef17b37" md5="ba4615d3db613ffcd37ab1c97257067d" sha1="bf83a754d7ba2c56a0da446b81ea0a37680a8f76" date="1994-11-17 23:05:44"/>
 		<rom name="LEVELS.NJD" size="5834" crc="0e1e76f5" md5="d3b318fcc04ed2196c3aea73b2889f70" sha1="59ffe3bc6073993dc45187f77e18835798af23b8" date="1994-11-26 21:54:22"/>
 		<rom name="NJDOOM.BAT" size="32" crc="a5c39466" md5="48a475392842c18e04f5a41c1d8808de" sha1="fa01c4064834cab543af9000b59ab424b026912d" date="1994-11-17 23:45:48"/>
@@ -169,11 +165,10 @@
 		<description>Doom - Slaughter Until Death</description>
 		<year>1994</year>
 		<developer>The Innocent Crew</developer>
-		<parent>Doom v1.2 Mod Base.dosz</parent>
-		<comment>Demos require Doom v1.2 if run with vanilla EXE</comment>
+		<parent>Doom Mod Base.dosz</parent>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom/s-u/sudtic</link>
-		<rom name="Doom v1.2 Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="FILE_ID.DIZ" size="214" crc="3b0432a6" md5="474243cee992358e411bbc6b69f203ac" sha1="89ded93e1e4f0213e60c0e06e46fcfdc2b5d6665" date="1994-06-18 01:08:12"/>
 		<rom name="GO.BAT" size="24" crc="78626894" md5="90ef62ce3a02fde815c1e1aee58df278" sha1="50d42fac7bca8e1a03ae89c55c3d78611c9fb4b8" date="1994-06-21 19:31:46"/>
 		<rom name="NET.BAT" size="296" crc="556cfbba" md5="dcc2ad4677d45641343a9be945444ecb" sha1="d23c1b67960e4d664a2b9329c10e08323b0dd30f" date="1994-06-21 19:38:54"/>
@@ -344,8 +339,8 @@
 		<description>Doom II - Cleimos 2</description>
 		<year>1995</year>
 		<developer>Rand Phares, Steven Phares</developer>
-		<parent>Doom II v1.666 Mod Base.dosz</parent>
-		<comment>Repackaged edition. ZIP files extracted. Demos require Doom II v1.666 if run with vanilla EXE</comment>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment>Repackaged edition. ZIP files extracted</comment>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/cleim20p</link>
 		<rom name="C2CREDIT.GIF" size="15999" crc="9f81a2fd" md5="e3d35784b9fcd9eac1d84fa0a7380745" sha1="38472b0cd9dd8a41bcb24ef348f31a15c3debfa1" date="1995-11-20 05:46:48"/>
@@ -363,7 +358,7 @@
 		<rom name="cleim20b/CLEIM20.TXT" size="12440" crc="925e9c04" md5="cc9e9fbb1f987c509c4b7236a6e7d571" sha1="e7e93aa82e02461da6cd1b9276e94fc5a7a54e51" date="1995-11-20 18:38:00"/>
 		<rom name="cleim20b/DEUSF.EXE" size="89860" crc="840cfb89" md5="06be303acbae938be316281a4733b798" sha1="6114e05889d7142eef3d8bf69007be873341e087" date="1995-05-05 14:06:04"/>
 		<rom name="cleim20p.txt" size="18403" crc="ae272b3b" md5="d5e02b3038f15718b40a73c850f5d168" sha1="f1e6d63fc207a6436062ea765bdf3884628254fc" date="2015-06-25 20:50:02"/>
-		<rom name="Doom II v1.666 Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
 	<game name="Doom II - Doom 64 for Doom II (2018) (Various).dosz">
 		<description>Doom II - Doom 64 for Doom II</description>
@@ -398,11 +393,10 @@
 		<description>Doom II - Earth</description>
 		<year>1998</year>
 		<developer>Roger Ritenour</developer>
-		<parent>Doom II v1.7 Mod Base.dosz</parent>
-		<comment>Demos require Doom II v1.7 if run with vanilla EXE</comment>
+		<parent>Doom II Mod Base.dosz</parent>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/d-f/earth</link>
-		<rom name="Doom II v1.7 Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="EARTH.TXT" size="7375" crc="7d6a5ccf" md5="f3aa7101faa8b1e36c48472bc6dda3a3" sha1="aa760a2d3fb323a847e6c3902282dc1a108e984b" date="1998-07-12 15:27:40"/>
 		<rom name="EARTH.WAD" size="3913680" crc="04e7ee87" md5="cdf6bdf64c2361bc99d64fdf548157fb" sha1="a85bcc1e894eea40441dfd2411cf4c4cb54700ac" date="1997-09-30 22:49:26"/>
 	</game>
@@ -672,42 +666,18 @@
 	<game name="Doom II Mod Base.dosz">
 		<description>Doom II Mod Base</description>
 		<parent>Doom Engine.dosz</parent>
-		<comment>Minimal files from Doom II v1.9. Can be installed from CD matching with Redump: Doom II (USA) (v1.9)</comment>
+		<comment>Doom II v1.9 IWAD. Can be installed from CD matching with Redump: Doom II (USA) (v1.9)</comment>
 		<link type="media">http://redump.org/disc/62840/</link>
 		<rom name="Doom Engine.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="DOOM2.EXE" size="709905" crc="be91c727" md5="e2382b7dc47ae2433d26b6e6bc312999" sha1="aa0668fae2f743ee5e3e5634ee42d3c8ace7d907"/>
 		<rom name="DOOM2.WAD" size="14604584" crc="ec8725db" md5="25e1459ca71d321525f84628f45ca8cd" sha1="7ec7652fcfce8ddc6e801839291f0e28ef1d5ae7"/>
-		<rom name="SETUP.EXE" size="45745" crc="0025fe95" md5="675564fcd380f5ef9beb0e7b21a51f79" sha1="f8644ace438896f9a788629d8da869bd34926f91"/>
-	</game>
-	<game name="Doom II v1.666 Mod Base.dosz">
-		<description>Doom II v1.666 Mod Base</description>
-		<parent>Doom Engine.dosz</parent>
-		<comment>Sometimes needed for demos in old vanilla wads. Can be installed from CD matching with Redump: Doom II (USA)</comment>
-		<link type="media">http://redump.org/disc/18391/</link>
-		<rom name="Doom Engine.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="DOOM2.EXE" size="687001" crc="5f7ede6f" md5="22e3fc7854f030df977d26faf1e342be" sha1="67e14e8e7809d80ee0d2da3a8082457f534e17d2" date="1994-08-29 19:56:54"/>
-		<rom name="DOOM2.WAD" size="14943400" crc="e2a683bd" md5="30e3c2d0350b67bfbf47271970b74b2f" sha1="6d559b7ceece4f5ad457415049711992370d520a" date="1994-08-29 19:56:54"/>
-		<rom name="SETUP.EXE" size="92726" crc="7f186cb6" md5="8ce92aa9269dd3add04b6d37c71f1d24" sha1="5bb1606196558901b5db6c90da8b17494f539c3f" date="1994-08-29 19:56:54"/>
-	</game>
-	<game name="Doom II v1.7 Mod Base.dosz">
-		<description>Doom II v1.7 Mod Base</description>
-		<parent>Doom Engine.dosz</parent>
-		<comment>Sometimes needed for demos in old vanilla wads. Can be installed from CD matching with Redump: Doom II (USA) (v1.7)</comment>
-		<link type="media">http://redump.org/disc/25732/</link>
-		<rom name="Doom Engine.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="DOOM2.EXE" size="686993" crc="9116ce4c" md5="ef9a1f197d56a174097a2af3ccdd7403" sha1="c50791dd82355bdcd52b590c91106661498aabd3" date="1994-09-21 18:38:08"/>
-		<rom name="DOOM2.WAD" size="14612688" crc="47daeb2e" md5="ea74a47a791fdef2e9f2ea8b8a9da13b" sha1="78009057420b792eacff482021db6fe13b370dcc" date="1994-09-21 18:38:08"/>
-		<rom name="SETUP.EXE" size="92726" crc="7f186cb6" md5="8ce92aa9269dd3add04b6d37c71f1d24" sha1="5bb1606196558901b5db6c90da8b17494f539c3f" date="1994-09-21 18:38:08"/>
 	</game>
 	<game name="Doom Mod Base.dosz">
 		<description>Doom Mod Base</description>
 		<parent>Doom Engine.dosz</parent>
-		<comment>Minimal files from Ultimate Doom v1.9. Can be installed from CD matching with Redump: Ultimate Doom, The (USA)</comment>
+		<comment>Ultimate Doom v1.9 IWAD. Can be installed from CD matching with Redump: Ultimate Doom, The (USA)</comment>
 		<link type="media">http://redump.org/disc/4427/</link>
 		<rom name="Doom Engine.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="DOOM.EXE" size="715493" crc="b5ceb8ac" md5="742a5f9953871687341e3794468894d8" sha1="64e6df0ee478868b42d5eb7d443430283b0ddc0c"/>
 		<rom name="DOOM.WAD" size="12408292" crc="bf0eaac0" md5="c4fe9fd920207691a9f493668e0a2083" sha1="9b07b02ab3c275a6a7570c3f73cc20d63a0e3833"/>
-		<rom name="SETUP.EXE" size="46665" crc="9a6be6d8" md5="729df5c0727cd290c1c34ffd29a04490" sha1="4664dbf04047a7b1733fed3654e6dd6b25b1613a"/>
 	</game>
 	<game name="Doom Series Mod Base.dosz">
 		<description>Doom Series Mod Base</description>
@@ -832,26 +802,6 @@
 		<rom name="SNDDRVR.TXT" size="9282" crc="2b8aafd3" md5="fdfad02a68447f94c8fe58af0139d24d" sha1="3502672622fde69ca5939687aa94d7b308c97f12" date="1998-05-12 11:41:06"/>
 		<rom name="TRANMAP.DAT" size="65793" crc="3ef2025d" md5="6ccff68ad1930aabb15601e269c34913" sha1="0033762aec68cafe9a3c6f83129fcb0cf75e15d8" date="2019-06-07 19:31:14"/>
 	</game>
-	<game name="Doom v1.2 Mod Base.dosz">
-		<description>Doom v1.2 Mod Base</description>
-		<parent>Doom Engine.dosz</parent>
-		<comment>Sometimes needed for demos in old vanilla wads. Can be installed from 3.5" floppy disks matching with TGOD ID: 569</comment>
-		<link type="media">https://www.goodolddays.net/en/diskimages/?id=569</link>
-		<rom name="Doom Engine.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="DOOM.EXE" size="580391" crc="7734c756" md5="3f9591955116ed548f2e331586e8d816" sha1="1405dbfce801b22cd5c8079947e17f48c73c913e" date="1994-02-17 01:20:00"/>
-		<rom name="DOOM.WAD" size="10399316" crc="a5da8930" md5="792fd1fea023d61210857089a7c1e351" sha1="b5f86a559642a2b3bdfb8a75e91c8da97f057fe6" date="1994-02-17 01:20:00"/>
-		<rom name="SETUP.EXE" size="91931" crc="db8b4f8b" md5="8167c20b553e59c1c46f4b079d3f83e8" sha1="5784b4c498817b6d18a489d61921e15c8d02d5d8" date="1994-02-17 01:20:00"/>
-	</game>
-	<game name="Doom v1.666 Mod Base.dosz">
-		<description>Doom v1.666 Mod Base</description>
-		<parent>Doom Engine.dosz</parent>
-		<comment>Sometimes needed for demos in old vanilla wads. Can be installed from 3.5" floppy disks matching with TGOD ID: 662</comment>
-		<link type="media">https://www.goodolddays.net/en/diskimages/?id=662</link>
-		<rom name="Doom Engine.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="DOOM.EXE" size="687001" crc="084677c4" md5="be2d05789beb3b56692a2ccd83f8c510" sha1="be2799fcdd36df85f81d87fca03b28d86d611e46" date="1994-09-01 16:42:00"/>
-		<rom name="DOOM.WAD" size="11159840" crc="f756aab5" md5="54978d12de87f162b9bcc011676cb3c0" sha1="2e89b86859acd9fc1e552f587b710751efcffa8e" date="1994-09-01 16:42:00"/>
-		<rom name="SETUP.EXE" size="95184" crc="2a5941e1" md5="498e840007a4d18605c2facca4c55769" sha1="f098bdc1ff72a3c862761c0de8b3714905558365" date="1994-09-01 16:42:00"/>
-	</game>
 	<game name="Final Doom - Plutonia 2 (2008) (Plutonia 2 Team).dosz">
 		<description>Final Doom - Plutonia 2</description>
 		<year>2008</year>
@@ -870,21 +820,17 @@
 	<game name="Final Doom - Plutonia Experiment Mod Base.dosz">
 		<description>Final Doom - Plutonia Experiment Mod Base</description>
 		<parent>Doom Engine.dosz</parent>
-		<comment>Minimal files from Final Doom (id Anthology fixed version). Can be installed from CD matching with Redump: id Anthology (USA) (Disc 2) (Doom)</comment>
+		<comment>Final Doom: Plutonia Experiment IWAD (id Anthology fixed version). Can be installed from CD matching with Redump: id Anthology (USA) (Disc 2) (Doom)</comment>
 		<link type="media">http://redump.org/disc/28674/</link>
 		<rom name="Doom Engine.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="DOOM2.EXE" size="722629" crc="503d9154" md5="ccd2769f32b38d74d361085e905d8f9c" sha1="91ee0d260785fdc778a1e7c10812275e5c758776"/>
 		<rom name="PLUTONIA.WAD" size="18240172" crc="15cd1448" md5="3493be7e1e2588bc9c8b31eab2587a04" sha1="f131cbe1946d7fddb3caec4aa258c83399c21e60"/>
-		<rom name="SETUP.EXE" size="45745" crc="0025fe95" md5="675564fcd380f5ef9beb0e7b21a51f79" sha1="f8644ace438896f9a788629d8da869bd34926f91"/>
 	</game>
 	<game name="Final Doom - TNT - Evilution Mod Base.dosz">
 		<description>Final Doom - TNT - Evilution Mod Base</description>
 		<parent>Doom Engine.dosz</parent>
-		<comment>Minimal files from Final Doom (id Anthology fixed version). Can be installed from CD matching with Redump: id Anthology (USA) (Disc 2) (Doom)</comment>
+		<comment>Final Doom: TNT - Evilution IWAD (id Anthology fixed version). Can be installed from CD matching with Redump: id Anthology (USA) (Disc 2) (Doom)</comment>
 		<link type="media">http://redump.org/disc/28674/</link>
 		<rom name="Doom Engine.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="DOOM2.EXE" size="722629" crc="503d9154" md5="ccd2769f32b38d74d361085e905d8f9c" sha1="91ee0d260785fdc778a1e7c10812275e5c758776"/>
-		<rom name="SETUP.EXE" size="45745" crc="0025fe95" md5="675564fcd380f5ef9beb0e7b21a51f79" sha1="f8644ace438896f9a788629d8da869bd34926f91"/>
 		<rom name="TNT.WAD" size="18654796" crc="d4bb05c0" md5="1d39e405bf6ee3df69a8d2646c8d5c49" sha1="4a65c8b960225505187c36040b41a40b152f8f3e"/>
 	</game>
 	<game name="Final Doom - TNT - Revilution (2017) (Various).dosz">
