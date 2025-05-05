@@ -3963,57 +3963,6 @@
 		<rom name="MATRIX/VENUSCOM.DAX" size="16259" crc="0a652c95" md5="a725c7894446b92a3b24c42742aae404" sha1="d61d48986d230d6340d586d6541f9f8ab89aa9e6" date="1990-09-13 11:13:24"/>
 		<rom name="MATRIX/WALLDEF1.DAX" size="17917" crc="ea4b7da0" md5="a0615fb17e964c89271266f9e85b6109" sha1="89323b7be229603e7285b5732468b0ec52be8b39" date="1992-01-08 12:31:08"/>
 	</game>
-	<game name="Bud Tucker in Double Trouble (1996) (Merit Studios).dosz">
-		<description>Bud Tucker in Double Trouble</description>
-		<comment>
-			Installed from CD matching with TDC entry: Bud Tucker in Double Trouble (1996)(TopWare CD-Service AG) [ISO]
-			Minimal install size.
-			TUCKER.CFG must have C:\TUCKER edited to C:\
-		</comment>
-		<comment_dosc>Required TUCKER.CFG file, Sound Blaster 16 config, and auto start</comment_dosc>
-		<year>1996</year>
-		<developer>Merit Studios</developer>
-		<rom name="ACTION1.ENC" size="23336" crc="aee026a2" md5="924ad9886debf86cc34858567d21b653" sha1="28f4e7293f3aeae0ccbfb7f109b3ccf38ce46f42" date="1996-07-02 11:26:02"/>
-		<rom name="ACTION2.ENC" size="13506" crc="dd24eed1" md5="b246a3338e7b13ba13806847eac52879" sha1="6f1032b223ca1647317439b672f6cbb1c4ad91c9" date="1996-07-02 11:26:02"/>
-		<rom name="ACTION3.ENC" size="44460" crc="b0df251c" md5="7750229753742afc4cb7fe4a6165fb83" sha1="96fa72aecb373723ee3552989bb5d6f750005eb8" date="1996-07-02 11:26:02"/>
-		<rom name="ADRV688.DIG" size="11278" crc="96dfb75d" md5="feabc78729e3a458ae2f6ab40146f0d9" sha1="255ecb5d649895d65bca49bd6afcbdf875e34bf2" date="1995-01-18 06:00:00"/>
-		<rom name="AILDRVR.LST" size="16073" crc="338ed056" md5="a1ce7dd36b05fdc9a2a781c443ed7c9b" sha1="5cfacde01df4de3e9988ca771ab1bda9e37aee13" date="1995-01-31 06:00:00"/>
-		<rom name="BGTEXT.ENC" size="1039" crc="3a97367b" md5="0da0023792341f537e78c4594e8e5664" sha1="6f2ba3e7476b14f69c55815b46d0ad9a61373d71" date="1996-07-02 11:26:02"/>
-		<rom name="Bud Tucker in Double Trouble (1996)(TopWare CD-Service AG) [ISO].chd" size="772843392" crc="8b17532e" md5="cc93f300ffd440aec870ff715debc122" sha1="ebc9bd73e7028d161c8cde3bf2a7f8ba7c15524a">
-			<track number="1" type="MODE1" frames="315723" pregap="0" duration="70:09:48" size="646600704" crc="1036a983" md5="503d4a1992d4876727385c0601d5a020" sha1="87ff43fd511c9ebe9edb3a0967b581c0c18527a7" in_zeros="32768" out_zeros="1874"/>
-		</rom>
-		<rom name="BUD.BAT" size="222" crc="7706d252" md5="446d3d0e1fe9f62e8abcabe36e8d8494" sha1="5271831efb7155eaec4780037c4c1a4ba656fd86"/>
-		<rom name="CHARNAME.ENC" size="471" crc="ba38112b" md5="90bbdfccf136e389ce70f3c49dc52e9d" sha1="9847f0ad29c5f1d5a7557ae07e9237c4ed7ecaf1" date="1996-07-02 11:26:02"/>
-		<rom name="CHARPOS.ENC" size="7140" crc="313494ad" md5="c542d7787ac41522128d2a563b1800c0" sha1="a8ebe6a891993a07b9e698954cd7cb06612d8fd0" date="1996-07-02 11:26:02"/>
-		<rom name="CSDATA.ENC" size="107015" crc="6e086b32" md5="661d9d24ec9e6de480db03eb6b974111" sha1="5062095bb941fe67bf8dfd1d90b85db62d322771" date="1996-07-02 11:26:02"/>
-		<rom name="CTABLE01.ENC" size="7370" crc="c0255392" md5="1444d9fd0d509ddedf7f0b591534faf7" sha1="cde3798590580851f0977e81b7ea82f7104244e5" date="1996-07-02 11:26:02"/>
-		<rom name="CTABLE02.ENC" size="2483" crc="9160a6c5" md5="3acf44d6ce7b9af941009a10a8108599" sha1="4ca12b4bb9463acaa3fb28e028a37690310ad7ca" date="1996-07-02 11:26:04"/>
-		<rom name="DATA.ENC" size="56349" crc="0012269d" md5="b57c40d50e35c5f7da6786dc7db6b29d" sha1="ae1bcc23712e9395f26f556aa103fb395f09c347" date="1996-07-02 11:26:04"/>
-		<rom name="DATA2.ENC" size="12483" crc="4a5e8a07" md5="74e3f3dcd7a75711816ff7a43d8c5df5" sha1="d34ac856fdf8f3af135bee3ff9a6af68b0ab5233" date="1996-07-02 11:26:04"/>
-		<rom name="DATA3.ENC" size="21033" crc="2108919e" md5="bf3f1d51e0095f239a6740f4750a8267" sha1="2a3ce631894551ea4be24901fae9a314f2841559" date="1996-07-02 11:26:04"/>
-		<rom name="DATA4.ENC" size="21840" crc="db2bd27b" md5="54cdf9ad91f185946e0139ea3460c013" sha1="ebc3abce78a6cd5cbc58c1810bef09aa5098a1ea" date="1996-07-02 11:26:04"/>
-		<rom name="DATA5.ENC" size="3028" crc="b4411b41" md5="18d6f9538d2b6c4c1de3753578dbba13" sha1="e21b8bab1bc3c3c5b950116a40e8cf9832dd277a" date="1996-07-02 11:26:04"/>
-		<rom name="DOS4GW.EXE" size="254556" crc="95d35b4d" md5="498c3f0c7bc7a9206a7b1b049f0c3234" sha1="b6c2bed388c6ea1b3c02b941c9541500598f2de0" date="1994-01-11 16:41:26"/>
-		<rom name="FX.ENC" size="11248" crc="3367b0e4" md5="56b09f96f377e54801a547801386adb8" sha1="4a417b720cd56ad524bc3ca8b03b1436423dc870" date="1996-07-02 11:26:04"/>
-		<rom name="JAMMER.DIG" size="3219" crc="230129e0" md5="4922c729c5e7b347089a2be44f296859" sha1="103e0bf92c6fd1c9fc925fd57bdc22e56170b395" date="1995-01-18 06:00:00"/>
-		<rom name="OBJTXT1.ENC" size="383" crc="fac87124" md5="eee6c8c3a689afeb7c7cfa37da795755" sha1="9d61f2a7a0fc559723a1cc06b0431fec5ae8aaf3" date="1996-07-02 11:26:04"/>
-		<rom name="OBJTXT2.ENC" size="341" crc="46c2a3d5" md5="c69a86dd629784e874733799521e6205" sha1="68f005e8966c9e88d53634accdab0ae77eabef72" date="1996-07-02 11:26:04"/>
-		<rom name="OBJTXT3.ENC" size="521" crc="808b4f0c" md5="308268e510dec6f72c285e6a3d74fd6b" sha1="9e7626c35fe5edd03b852f796625c763a880d7a9" date="1996-07-02 11:26:04"/>
-		<rom name="PROAUDIO.DIG" size="2127" crc="4b071066" md5="a054071be574b2bcf47a0386f1a98ae6" sha1="8debfb262849ebce1da3d45387d1595712c2667b" date="1995-01-18 06:00:00"/>
-		<rom name="PT1TEXT.ENC" size="93182" crc="b5eaa3ec" md5="9125728cfcc61c56779e1724342a588d" sha1="7a02f6c64ebede8471bf7b4cff36513b1d5c0e48" date="1996-07-02 11:26:04"/>
-		<rom name="PT2TEXT.ENC" size="42281" crc="27ccf274" md5="d43ca7e7b353cde5c127f0300a7b277c" sha1="4baf8549f0a751359760f13d53d1acb3b086860d" date="1996-07-02 11:26:04"/>
-		<rom name="PT3TEXT.ENC" size="67496" crc="d64da2a0" md5="941c843852563e85cd6a0246070f133f" sha1="dd3e9d4024368fd5e5adf3db5fb95180d856f791" date="1996-07-02 11:26:04"/>
-		<rom name="RAP10.DIG" size="2849" crc="47373ef0" md5="bb846bb23ee9065a09373afdb73cf054" sha1="6081bc6e447afeaad48a8361c92e7ce280f6ea7e" date="1995-01-18 06:00:00"/>
-		<rom name="SB16.DIG" size="2812" crc="c5d3dc1a" md5="d821437468279994b5aeeecad67ac0ad" sha1="75dec727034779d4550d6a769cf292ce176189e6" date="1995-01-18 06:00:00"/>
-		<rom name="SBLASTER.DIG" size="2984" crc="bf414d3b" md5="fafa23a9df15ca6451344b71e50bcb0a" sha1="4b19974321eabbd40cfbf2fbb781e0799c092b95" date="1995-01-18 06:00:00"/>
-		<rom name="SBPRO.DIG" size="2763" crc="1061490f" md5="b0fe50da778c24cc4066e960a3d1a7c3" sha1="8bc27ebd0ec30dabfd354b948801946b7e8f33d8" date="1995-01-18 06:00:00"/>
-		<rom name="SETSOUND.EXE" size="167953" crc="a9d48cd2" md5="4afc2460d69d3dff5e26a96afb4553ca" sha1="659cbbbf4a28527253951f5677945e7d2ad66db5" date="1996-05-07 17:31:50"/>
-		<rom name="SNDSCAPE.DIG" size="4171" crc="708a96a2" md5="9d7a052a680f45d244e0ee4735b7b55f" sha1="f9902b74d545813315194f5a1791c4ea0a9a1e0d" date="1995-01-18 06:00:00"/>
-		<rom name="TEST.C" size="62" crc="74aad96f" md5="dea9d0f270ec5ec732d30b99e287af97" sha1="36c33e7d58b5f0fb5321940326bbaafbeb1f38c3" date="1996-05-07 17:07:28"/>
-		<rom name="TUCKER.CFG" size="56" crc="f82e2485" md5="42a84b8966638f47b36e04f21ec29183" sha1="21eb69be6504dd38556625a88f8a42bd9276eafb"/>
-		<rom name="TUCKER.EXE" size="283861" crc="6940a2ee" md5="4fd8130f0416b06eba817cc20f5bc1d2" sha1="ec251c42566b9dcf1f0513b5e2b4c0ed96d8eb05" date="1996-06-08 09:45:32"/>
-		<rom name="ULTRA.DIG" size="9478" crc="430d67f5" md5="000e584a06712d2f2b58eb2e17b65248" sha1="4327d6bb924b4e40fa7ff035bdfb73a879c31836" date="1995-01-18 06:00:00"/>
-	</game>
 	<game name="Caesar (1992) (Impressions Games).dosz">
 		<description>Caesar</description>
 		<comment>Installed from SierraOriginals CD re-release from 1995</comment>
