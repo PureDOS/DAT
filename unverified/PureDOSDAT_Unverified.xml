@@ -1560,6 +1560,36 @@
 		<rom name="WIN.S" size="7100" crc="5f583c90" md5="31606a1b8ea36a45d515483704122c72" sha1="9864c8a8aa36672fd2a211d02e46f3fb5549897b" date="1990-08-31 16:26:40"/>
 		<rom name="X" size="3337" crc="f7583f0c" md5="afb2565d12e08727b51809b0ce61ccf1" sha1="e54db677c1bdb93611ec5f547b3e237c4caf7a3f" date="1990-09-24 18:48:42"/>
 	</game>
+	<game name="Death Rally (1996) (Remedy Entertainment).dosz">
+		<description>Death Rally</description>
+		<comment>Installed v1.1 from CD, minimal install size. Installed from the D drive</comment>
+		<comment_dosc>Required CDROM.INI file, Sound Blaster 16 config, and auto start</comment_dosc>
+		<link type="media">http://redump.org/disc/1953/</link>
+		<year>1996</year>
+		<developer>Remedy Entertainment</developer>
+		<rom name="CDROM.INI" size="10" crc="67666abe" md5="3f64b962be98860e70db91a501627939" sha1="ed72f71d0abff045d6e4c843a154d4b5d74e1be6"/>
+		<rom name="Death Rally (USA).chd" size="722473344" crc="aac74b24" md5="75aa57572128c331c07986e7d80a51a8" sha1="0f671a7e53ea8b06cc7210435f0d368887f3b3c5">
+			<track number="1" type="MODE1_RAW" frames="295062" pregap="0" duration="65:34:12" size="693985824" crc="72012181" md5="5b4cde44ad1d161b3638b839f00ea1bc" sha1="112433fd6f278ecf3b7beba8eb7462c7a19790e3" in_zeros="1" out_zeros="0"/>
+		</rom>
+		<rom name="DRHELP.EXE" size="50518" crc="75b97e11" md5="f08e34c6deef1f0fa27b7fef0fe05e5c" sha1="ed8cb216795fb7e42d43c8332d8a8142b6368e4b" date="1996-10-01 13:10:00"/>
+		<rom name="ENGINE.BPA" size="387193" crc="fe03dda8" md5="d9e69a33ca77c9c8508a0d2c3ef232a6" sha1="70be9997f62bf17101d4c5e2a0e4f68c06b89eec" date="1996-10-01 13:10:00"/>
+		<rom name="IBFILES.BPA" size="85989" crc="bee4bf04" md5="6e6b3e635299174bb55868530a516712" sha1="54638f2f2dff258134fbc659abd711c89b1361b0" date="1996-10-01 13:10:00"/>
+		<rom name="MENU.BPA" size="3168933" crc="125f34fb" md5="c39c2ef5755d026d6330070c0646fd03" sha1="394b379bd1dea5e074b3fc6612bcb91f0a726077" date="1996-10-01 13:10:00"/>
+		<rom name="MUSICS.BPA" size="5726559" crc="d55a45d8" md5="5d0228ed827a6c3d65e65730c32c80a6" sha1="7845892ef68885f24aeca1ae32289f876107aedc" date="1996-10-01 13:10:00"/>
+		<rom name="RALLY.EXE" size="374621" crc="061b14af" md5="85bf2a160688a743ee63587c3f810ced" sha1="f45ed262ad2bc8360ee3b03e27bc1684987b34db" date="1996-10-01 13:10:00"/>
+		<rom name="RALLY.ICO" size="2238" crc="87076112" md5="1b76affbcaae6c5f7d253e3a598e06c7" sha1="ec59984953e2b6f3c4763be4327bc97ea2e9786d" date="1996-10-01 13:10:00"/>
+		<rom name="SETUP.EXE" size="34227" crc="4933689f" md5="871fd06b004416b82317e89e6a0dee06" sha1="24289a494c3139a4423f89a430c319d10946d216" date="1996-10-01 13:10:00"/>
+		<rom name="TR0.BPA" size="337303" crc="18a29274" md5="07d872845d0a82db448fb3785026925e" sha1="d5cc02b7914329de6d551c94613de1c44d74cdf4" date="1996-10-01 13:10:00"/>
+		<rom name="TR1.BPA" size="321394" crc="9e4330a0" md5="b25cccd940f87fae67b97b201d025e32" sha1="4e1aa2578e95ff118099031ba8141e8f35e95c3e" date="1996-10-01 13:10:00"/>
+		<rom name="TR2.BPA" size="294365" crc="35a834cd" md5="2731ce913159403a3a28e0672f755eb0" sha1="be0382c66312cbc1d7548e33d57f42d10621c069" date="1996-10-01 13:10:00"/>
+		<rom name="TR3.BPA" size="345851" crc="efda2219" md5="78b86d3edc1003346458417344307f93" sha1="16aef246c53fb5b03c33defba90507ff55475e70" date="1996-10-01 13:10:00"/>
+		<rom name="TR4.BPA" size="260466" crc="a527e402" md5="1bec191b8b8652ca0c93b0bc30ae831f" sha1="856860994b63424dfb010326352c33f9f14526df" date="1996-10-01 13:10:00"/>
+		<rom name="TR5.BPA" size="431992" crc="068f3f8e" md5="045e17489ee858760f705e83a902735c" sha1="8e9b957ca879212277db1644e5af749634454097" date="1996-10-01 13:10:00"/>
+		<rom name="TR6.BPA" size="359368" crc="3fbae170" md5="e54b62ed4a81b31e1077346b2c78c116" sha1="d726fd586c6069936e7c42308104a28055d3f108" date="1996-10-01 13:10:00"/>
+		<rom name="TR7.BPA" size="417431" crc="544e655d" md5="fbe984a255d9ce78ef833127c9c72fc1" sha1="ef54dd4342b66919f57f9f0b0db340a021a7331d" date="1996-10-01 13:10:00"/>
+		<rom name="TR8.BPA" size="253202" crc="03e18b2e" md5="d1e3080b3c108e928c41fe8c59035f29" sha1="9fe8c090fa82724b5aaf0782797da27d33757393" date="1996-10-01 13:10:00"/>
+		<rom name="TR9.BPA" size="427555" crc="a666efdb" md5="d1c52e5f38042b35917bd0a7cd5e241b" sha1="2ac4fafdad0229f0d79f96ab74cca6efea0533fb" date="1996-10-01 13:10:00"/>
+	</game>
 	<game name="Dungeon Explorer - Dungeon of the Beast (1991) (John K Murphy).dosz">
 		<description>Dungeon Explorer - Dungeon of the Beast</description>
 		<year>1991</year>
