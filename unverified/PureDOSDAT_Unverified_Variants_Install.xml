@@ -202,6 +202,16 @@
 		<rom name="disk1.img" size="1474560" crc="8978a0ee" md5="dc6da4392973469d7c646ce71cccb65d" sha1="1b1286d1b0bdb9b609418f00ef72063ba17af199" date="2008-12-06 09:31:04"/>
 		<rom name="disk2.img" size="737280" crc="3526c842" md5="78d436afd974dc6a629c63b3e7ffe808" sha1="812d12d6cb990d67e2da5eaa8f149228b4627a96" date="2008-12-06 09:32:36"/>
 	</game>
+	<game name="Supaplex (1991) (Digital Integration) (Installation).dosz">
+		<description>Supaplex</description>
+		<year>1991</year>
+		<developer>Digital Integration</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/31189/</link>
+		<rom name="Supaplex (Europe).chd" size="13767552" crc="a9694312" md5="f3211d55f46e574f119973c0d9b52d1f" sha1="6c1cc21730544d43bdff8f7d3a9b520b1a53ae92">
+			<track number="1" type="MODE1_RAW" frames="5612" pregap="0" duration="01:14:62" size="13199424" crc="403367aa" md5="e1bf1d380f579a0ed893247c46465220" sha1="7ee29b80716176fdd8aa587a300dd137448d6a0d" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
 	<game name="Warlords II Deluxe (1993) (Strategic Studies Group) (Installation).dosz">
 		<description>Warlords II Deluxe</description>
 		<comment>Redump-verified CD-ROM: Warlords II Deluxe (Europe) (Rerelease)</comment>
