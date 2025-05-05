@@ -10,26 +10,11 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
 	</header>
-	<game name="Alien Vendetta (2001) (Various).dosz">
-		<description>Alien Vendetta</description>
-		<year>2001</year>
-		<developer>Various</developer>
-		<parent>Doom II Mod Base.dosz</parent>
-		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/av</link>
-		<rom name="AV.DEH" size="7403" crc="288ba8ba" md5="9e3073749f59fc3afeea48faa967a332" sha1="edc231da967edd64780299b930345fcfa79f649a" date="2002-12-24 23:59:04"/>
-		<rom name="AV.EXE" size="709905" crc="5e21bf6e" md5="1e5812d6d8f3908dec240c824ad4145e" sha1="e0223bcb3881f8fe77b15e0721cc4c1bc9c22d91" date="2002-12-24 23:59:12"/>
-		<rom name="AV.TXT" size="55068" crc="607fd84f" md5="c2ac69490620e311243e81f51389550e" sha1="831c4bd574a450ad36dfef0a208467fdbb224a1b" date="2002-12-24 23:59:08"/>
-		<rom name="AV.WAD" size="23819412" crc="b0001c47" md5="6006c3a370aa1dc0be04e0f3976f1ca4" sha1="2fc37855a54d63106b9bee7d03b5556caaa42e23" date="2002-12-24 23:59:10"/>
-		<rom name="AVMOVFIX.WAD" size="1816944" crc="2cbc23ed" md5="8b841a6de9869c793a8ceb34c175797c" sha1="74baababc132fd054bc841fb2088725315de3a6a" date="2002-12-24 23:59:06"/>
-		<rom name="CHANGES.TXT" size="7660" crc="aec72bef" md5="e3f32db56f4140725fe32ec3e8ceedce" sha1="e56dc5c82d720006bea71799cb0b61b276d3b3f6" date="2002-12-24 23:59:24"/>
-		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-	</game>
-	<game name="Aliens TC (1994) (Justin Fisher).dosz">
-		<description>Aliens TC</description>
+	<game name="Doom - Aliens TC (1994) (Justin Fisher).dosz">
+		<description>Doom - Aliens TC</description>
 		<year>1994</year>
 		<developer>Justin Fisher</developer>
-		<parent>Ultimate Doom Mod Base.dosz</parent>
+		<parent>Doom Mod Base.dosz</parent>
 		<comment>Revision 2.0 by Quasar</comment>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://dsdarchive.com/wads/aliens_2000</link>
@@ -39,108 +24,13 @@
 		<rom name="ATCUD19.BEX" size="15273" crc="cb7e28dd" md5="a33379869ed60f065f22d9447ece4724" sha1="0657c350ab5d7ca894adaa9983158db8909ed3ad" date="2000-06-22 17:40:56"/>
 		<rom name="ATCUD19.DEH" size="17939" crc="7288cad6" md5="0b13da642f099f7a231964c858dc2a18" sha1="4b4c454d6ed0efed11161ac6b079ce55abbde65c" date="2000-06-22 17:30:08"/>
 		<rom name="ATCUD20.TXT" size="2516" crc="7926d9ac" md5="87c7ff32b86de9063612a07fb43a3957" sha1="bf07881b9a4f4e7da344e73daf0064c93bd88eb5" date="2001-06-09 16:05:06"/>
-		<rom name="Ultimate Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
-	<game name="Ancient Aliens (2016) (Paul DeBruyne).dosz">
-		<description>Ancient Aliens</description>
-		<year>2016</year>
-		<developer>Paul DeBruyne</developer>
-		<parent>Doom II Mod Base.dosz</parent>
-		<comment>v1.2</comment>
-		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/aaliens</link>
-		<rom name="aaliens.txt" size="15881" crc="8ff41b5c" md5="ab636d16a70ced3757b8330e2ea65b9c" sha1="ec306729c578690a477ae008c6336efba1082d22" date="2023-03-16 04:50:40"/>
-		<rom name="aaliens.wad" size="133408915" crc="b5a9bb5d" md5="8f32c3e51524757dd0d7ccb93231997a" sha1="1a5faf234f91566598067fc80914a654fd1e2068" date="2023-03-16 04:07:12"/>
-		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-	</game>
-	<game name="Army of Darkness Doom (1996) (Various).dosz">
-		<description>Army of Darkness Doom</description>
-		<year>1996</year>
-		<developer>Various</developer>
-		<parent>Doom II Mod Base.dosz</parent>
-		<comment>Doom II version</comment>
-		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://www.doomworld.com/idgames/themes/aod/aoddoom2</link>
-		<rom name="aod-faq.txt" size="61719" crc="82b7062d" md5="bebae9e9f53029e04b6b6f39a298fc4c" sha1="4029033d4ee684eb6e01e2e866697c65a046e0b1" date="2003-11-26 14:36:50"/>
-		<rom name="aoddoom2.deh" size="10484" crc="c9176fc1" md5="1e6a7130fb093d6e3b4f09e24fc29a40" sha1="9a7d8001cc5d474fe43dbe118e073e5c020b0787" date="1995-08-02 09:38:54"/>
-		<rom name="aoddoom2.txt" size="2915" crc="080426d0" md5="5187b0e718fca0e32d0c8f483cd018ac" sha1="bbaf33f0c4a166e84ff9f75a7eedd861b603e80f" date="2003-11-29 23:58:50"/>
-		<rom name="aoddoom2.wad" size="6834740" crc="cd6fdacf" md5="e46bf48bc672716b29a474db90b8dd48" sha1="15c0f330f08b9b1ac4264e9b348b98ebda55c931" date="2003-11-26 13:12:30"/>
-		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-	</game>
-	<game name="Back to Saturn X - Episode 1 - Get out of My Stations (2012) (Esselfortium et al).dosz">
-		<description>Back to Saturn X - Episode 1 - Get out of My Stations</description>
-		<year>2012</year>
-		<developer>Esselfortium et al</developer>
-		<parent>Doom II Mod Base.dosz</parent>
-		<comment>v1.1.6</comment>
-		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/btsx_e1</link>
-		<rom name="btsx_e1.deh" size="4985" crc="886b0b4e" md5="d0be88dfb7c8820807dfe1e162a92764" sha1="12eda8aa7b0f9b09cf32b50cd3a05b0fe32e9972" date="2017-02-28 22:47:18"/>
-		<rom name="btsx_e1.txt" size="15746" crc="9f99bf0b" md5="8347202f5543af31a0b0d94ce3869180" sha1="e74f850524fc6f6bd46df2dffabb3c87aea2addf" date="2020-08-13 11:00:00"/>
-		<rom name="btsx_e1a.wad" size="22307013" crc="bc5709e2" md5="96530f7e149ab838b3a80c29570cd275" sha1="9c19bdf92d7a44249c88e0baf8cc6ec8b9b9e5d3" date="2020-08-13 11:15:08"/>
-		<rom name="btsx_e1b.wad" size="29449016" crc="65c1b3fa" md5="667a7b6160ab0f64d853a5142a9a31de" sha1="6535aa24ad7b68b7e598dceabf25043b88f6dc12" date="2020-06-22 23:43:58"/>
-		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-	</game>
-	<game name="Back to Saturn X - Episode 2 - Tower in the Fountain of Sparks (2014) (Esselfortium et al).dosz">
-		<description>Back to Saturn X - Episode 2 - Tower in the Fountain of Sparks</description>
-		<year>2014</year>
-		<developer>Esselfortium et al</developer>
-		<parent>Doom II Mod Base.dosz</parent>
-		<comment>v1.0.1. ZIP file extracted</comment>
-		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/btsx_e2</link>
-		<rom name="btsx_e2.deh" size="6708" crc="58d091b1" md5="9e25f25d53e8ed7af64723aedf4930c9" sha1="442631842497e722268dc984e08a139fc23b4921" date="2018-02-07 16:12:48"/>
-		<rom name="btsx_e2.txt" size="16003" crc="6a0999a0" md5="6cf349ac7108e720b2b93f83474148e9" sha1="d695408a3176573fde43c33a21712c1dedeaa1a7" date="2020-08-13 11:29:00"/>
-		<rom name="btsx_e2a.wad" size="27856614" crc="021a840d" md5="ff42f95fffcb2ecae3af034af5c578ca" sha1="087ba6792ca6d9f8143ccc88245dbb74e9f95421" date="2020-08-13 17:37:44"/>
-		<rom name="btsx_e2b.wad" size="40471797" crc="df11fe7a" md5="3853b06204e2e251b06e61b63de06ab2" sha1="c3a8eb29932fc4adfadba71278793f1d16a1b9d6" date="2020-08-12 13:50:50"/>
-		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="m20patch/m20patch.wad" size="1604511" crc="c5ef1f85" md5="b2677982f6ca640e10194ac50fbb6dbc" sha1="ec364e866401db170a68226c55988641774bd4f0" date="2020-08-13 11:04:26"/>
-		<rom name="m20patch/README.txt" size="1050" crc="492be12a" md5="b21d68186c3f865d1164cdac31f565da" sha1="6cbbff2c62a5a99de5643480c76845af771a8cfa" date="2020-08-06 13:28:36"/>
-	</game>
-	<game name="Batman Doom (1999) (ACE Team Software).dosz">
-		<description>Batman Doom</description>
-		<year>1999</year>
-		<developer>ACE Team Software</developer>
-		<parent>Doom II Mod Base.dosz</parent>
-		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://www.doomworld.com/idgames/themes/batman/batman</link>
-		<rom name="batman.deh" size="65514" crc="1fc1016a" md5="0373cea0cecb6ad203cb99290b857133" sha1="4aa10a2b35a7e042030f8c88a0c3bc3ed71580ec" date="1999-04-26 16:39:00"/>
-		<rom name="batman.wad" size="16973860" crc="1600263f" md5="c4686776cb6e36100e232be914950b99" sha1="8a7e9f193f2c3bb1eba1731da84a523a5d1af0bb" date="1999-04-15 00:31:30"/>
-		<rom name="dehacked.exe" size="93122" crc="a8191f4c" md5="7f4b6dde1aad5565d38cdd805d72af3b" sha1="acf14af8f5429b3ae822e44b3624c196ceed907f" date="1996-11-11 19:23:30"/>
-		<rom name="deusf.exe" size="90196" crc="5ea1e5c2" md5="89be00455dec01df32e1df8a6bf191f9" sha1="397fc6a2c7e1de6f5d7e066d72bc7acb1d9f9726" date="1995-07-24 00:13:42"/>
-		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="install.txt" size="2691" crc="3a097f20" md5="4715876866846e95d80621e77014b607" sha1="6543f80a20935a0f16a67894c499a9b91b61459d" date="1999-04-13 23:45:10"/>
-		<rom name="readme.txt" size="4563" crc="f74c0be6" md5="71b40c8ce45700365e1ad1e564095a75" sha1="d7738ac42da5188b256133617bde15e4f5f1d360" date="1999-04-06 17:45:32"/>
-		<rom name="vanilla.bat" size="606" crc="855cf2b1" md5="cc708224695777adcf40101bb90cc567" sha1="7ff781e04c810213a08997763d147ce0a430cd3c" date="1999-04-13 23:45:30"/>
-	</game>
-	<game name="Boom (1998) (TeamTNT).dosz">
-		<description>Boom</description>
-		<year>1998</year>
-		<developer>TeamTNT</developer>
-		<parent>Doom Series Mod Base.dosz</parent>
-		<comment>v2.02</comment>
-		<comment_dosc>Sound Blaster 16 config</comment_dosc>
-		<link type="freeware">https://www.doomworld.com/idgames/themes/TeamTNT/boom/boom202</link>
-		<rom name="ABOUT.TXT" size="1372" crc="05c2554c" md5="0b3c646b63468551051ea2f775d221df" sha1="19ac4a706c368a3b9249ba35942270448babc61d" date="1999-10-09 17:03:54"/>
-		<rom name="ASETUP.EXE" size="238752" crc="41dbbb0e" md5="b484fc0b71e22b51e67c26a2d66feaa8" sha1="0870e25f1c90b1add0f6eed46930e45915a6ce3e" date="1998-04-06 09:34:06"/>
-		<rom name="BOOM.EXE" size="453496" crc="8b51fcf1" md5="4dd1091ef987c3941a619d1d7b154244" sha1="959369a884764081d32fda622d06b5b66e47d3a5" date="1999-10-09 17:06:50"/>
-		<rom name="BOOM.TXT" size="50915" crc="ef6b75c2" md5="804e2d1f9921223b085220dde4bd5cf2" sha1="447eff124edfc5d7b97f7cf33f77d8fab1299024" date="1999-10-09 17:35:32"/>
-		<rom name="BOOMDEH.TXT" size="111755" crc="39d8d19f" md5="ea78c0d7295280c05ea7c44041571374" sha1="1c6af93aed2a08eaee92628a300fee74207a3931" date="1998-09-14 07:59:36"/>
-		<rom name="BOOMREF.TXT" size="101801" crc="b3703d40" md5="9bf787ff589a9b9b333b48720b52137c" sha1="77e4aa848f401d160bcc25402304e7cab3cdb9b0" date="1998-10-20 01:17:36"/>
-		<rom name="COPYING" size="18445" crc="29c91be7" md5="155e6318a36dd84df99cb5d41b4ae3f0" sha1="c5d76dff23914c557b008c1870309ede7f7d3a02" date="1999-10-08 12:21:32"/>
-		<rom name="CWSDPMI.EXE" size="20473" crc="80fa6999" md5="da922d33e83c4ca711a92e59f2c6a9fc" sha1="3de2eb058ed95a0bbe7f19eae24f77a025b2e3bb" date="1997-10-19 21:48:14"/>
-		<rom name="Doom Series Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="GO32-V2.EXE" size="62468" crc="803b2e81" md5="e17de130701f36bdb2b1c85baefc73d5" sha1="df25dd135bb517fb175761991140e07a071de873" date="1996-08-12 22:57:26"/>
-		<rom name="IPXBOOM.EXE" size="26976" crc="6bddb164" md5="459e459d7cc62dce186edc5a8b8de6fc" sha1="af5196669a231fe37686272c3de90f7f3b8ace16" date="1998-04-06 09:34:06"/>
-		<rom name="KEYCODE.EXE" size="52920" crc="a7253c1d" md5="4a21582ebf40f6a5bfbdd8d3e20cb676" sha1="1da28ec1cc8760417a7aeba91dae928c8f5c7d17" date="1998-04-06 09:34:06"/>
-		<rom name="SERBOOM.EXE" size="58732" crc="72c94d7e" md5="4965195c6260a90ea7e905cdafb7048a" sha1="a9ca4dac679116ed6ef59a7a39d0093c111e4461" date="1998-09-08 19:33:24"/>
-		<rom name="SNDDRVR.TXT" size="9490" crc="438c4c61" md5="f0a7ce55388bf15efb57811cd92b3d35" sha1="0316510437f835b0b8f6e4a27e55f35e8ddbdae1" date="1998-05-12 09:09:38"/>
-	</game>
-	<game name="Chex Quest 3 - Vanilla Edition (2024) (Melodic Spaceship).dosz">
-		<description>Chex Quest 3 - Vanilla Edition</description>
+	<game name="Doom - Chex Quest 3 - Vanilla Edition (2024) (Melodic Spaceship).dosz">
+		<description>Doom - Chex Quest 3 - Vanilla Edition</description>
 		<year>2024</year>
 		<developer>Melodic Spaceship</developer>
-		<parent>Ultimate Doom Mod Base.dosz</parent>
+		<parent>Doom Mod Base.dosz</parent>
 		<comment>Source port version, v1.0</comment>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://melodic-spaceship.neocities.org/chex3v/downloads</link>
@@ -150,48 +40,157 @@
 		<rom name="chex3v_changelog.txt" size="14781" crc="2537b015" md5="60c0b7ac927ceb37beb94b6607bcf063" sha1="fdcc02e6346e0bd83b318fa563a960d0588d5849"/>
 		<rom name="chex3v_readme.txt" size="7923" crc="0620b45c" md5="80b91486ac831e06df1b9331ff4cd290" sha1="f6fcfc092c804f369daaa7dcf7aae8155f216293"/>
 		<rom name="chex3v_w.wad" size="2068204" crc="77c50c42" md5="3da3fe19b2a4235b66ec5f8a39121210" sha1="1d25e5bae69a1ae1766dca6e63f75f2943a16a82"/>
-		<rom name="Ultimate Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
-	<game name="Cleimos 2 (1995) (Rand Phares, Steven Phares).dosz">
-		<description>Cleimos 2</description>
-		<year>1995</year>
-		<developer>Rand Phares, Steven Phares</developer>
-		<parent>Doom II v1.666 Mod Base.dosz</parent>
-		<comment>Repackaged edition. ZIP files extracted. Demos require Doom II v1.666 if run with vanilla EXE</comment>
-		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/cleim20p</link>
-		<rom name="C2CREDIT.GIF" size="15999" crc="9f81a2fd" md5="e3d35784b9fcd9eac1d84fa0a7380745" sha1="38472b0cd9dd8a41bcb24ef348f31a15c3debfa1" date="1995-11-20 05:46:48"/>
-		<rom name="C2LEVELS.GIF" size="20914" crc="27a3b86d" md5="5af959e7ef3c6583003e645954cb3634" sha1="e329a469cade1a26fee2a096d9445736e0071c77" date="1995-11-04 13:29:14"/>
-		<rom name="CLEIM20.TXT" size="12440" crc="925e9c04" md5="cc9e9fbb1f987c509c4b7236a6e7d571" sha1="e7e93aa82e02461da6cd1b9276e94fc5a7a54e51" date="1995-11-20 21:38:00"/>
-		<rom name="CLEIM20.WAD" size="5970208" crc="84915505" md5="d009de001d63f37069f198ee906ca7c6" sha1="f6ddbe514aa3166796ab95a227197e6339e67250" date="1995-11-20 14:12:22"/>
-		<rom name="cleim20a/C2CREDIT.GIF" size="15999" crc="9f81a2fd" md5="e3d35784b9fcd9eac1d84fa0a7380745" sha1="38472b0cd9dd8a41bcb24ef348f31a15c3debfa1" date="1995-11-20 02:46:48"/>
-		<rom name="cleim20a/C2LEVELS.GIF" size="20914" crc="27a3b86d" md5="5af959e7ef3c6583003e645954cb3634" sha1="e329a469cade1a26fee2a096d9445736e0071c77" date="1995-11-04 10:29:14"/>
-		<rom name="cleim20a/CLEIM20.000" size="2990080" crc="49140953" md5="c4650d73fd7a92fe7eee99c3a14cd71b" sha1="6e44f3361e2daae724368560b9bcae9f1b896bda" date="1995-11-20 11:12:22"/>
-		<rom name="cleim20b/C2CLEAN.BAT" size="148" crc="e031b3f9" md5="b6fccf268e064616e42ae6a1b3ab76ae" sha1="0697e885852cfc405813e89e0c2c5206ff2bbfd2" date="1995-11-20 15:21:10"/>
-		<rom name="cleim20b/C2DEUINS.BAT" size="450" crc="b62f7e89" md5="ecd98639f882ce68641fe2309ff8df39" sha1="fbca61c958cb6330ae20690ca196e5ddfbbfae5b" date="1995-11-20 15:15:40"/>
-		<rom name="cleim20b/C2INSTAL.BAT" size="682" crc="28f28341" md5="0b670942660205056ca8aa5fa74c376a" sha1="0ee9abce5d600627b57b72ae8db87c1d7d32eab5" date="1995-11-20 15:37:44"/>
-		<rom name="cleim20b/C2RUN.BAT" size="25" crc="b667e30b" md5="826af73de2afaa077cf1f37d10df87cd" sha1="5586b05f0884e06389448abb8ef7ad54788bbae0" date="1995-11-20 15:31:54"/>
-		<rom name="cleim20b/CLEIM20.001" size="2980128" crc="825addc2" md5="ad7d78bb42359bf27d008691036950f9" sha1="98295f7d969a9fbfddceac5d95ced6b29da0fd65" date="1995-11-20 11:12:30"/>
-		<rom name="cleim20b/CLEIM20.TXT" size="12440" crc="925e9c04" md5="cc9e9fbb1f987c509c4b7236a6e7d571" sha1="e7e93aa82e02461da6cd1b9276e94fc5a7a54e51" date="1995-11-20 18:38:00"/>
-		<rom name="cleim20b/DEUSF.EXE" size="89860" crc="840cfb89" md5="06be303acbae938be316281a4733b798" sha1="6114e05889d7142eef3d8bf69007be873341e087" date="1995-05-05 14:06:04"/>
-		<rom name="cleim20p.txt" size="18403" crc="ae272b3b" md5="d5e02b3038f15718b40a73c850f5d168" sha1="f1e6d63fc207a6436062ea765bdf3884628254fc" date="2015-06-25 20:50:02"/>
-		<rom name="Doom II v1.666 Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-	</game>
-	<game name="Doom 64 for Doom II (2018) (Various).dosz">
-		<description>Doom 64 for Doom II</description>
-		<year>2018</year>
+	<game name="Doom - Doom the Way id Did (2011) (Various).dosz">
+		<description>Doom - Doom the Way id Did</description>
+		<year>2011</year>
 		<developer>Various</developer>
-		<parent>Doom II Mod Base.dosz</parent>
-		<comment>v1.4</comment>
+		<parent>Doom Mod Base.dosz</parent>
+		<comment>v1.1a</comment>
 		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/d64d2</link>
-		<rom name="d64d2.deh" size="14695" crc="6053b754" md5="9dc3921d0e1c6567511350f276cef800" sha1="9efa0c285c5837e37c9ccfbd834d327cb8f83198" date="2018-07-23 14:49:44"/>
-		<rom name="D64D2.txt" size="24995" crc="83726b52" md5="c2dcce0f46061a571a52e8c4c5f5a3b2" sha1="96876e04b557a60748b5acf4e18e325e514042b5" date="2019-12-31 13:46:00"/>
-		<rom name="D64D2.wad" size="17208397" crc="892430c9" md5="ff6cb922d1ac91ef691fd139929e2857" sha1="bc206275310a2bc06881334c3affe50348e6e2e0" date="2019-12-31 13:46:36"/>
-		<rom name="d64d2bw.wad" size="24970" crc="aca7075d" md5="082907cbd505f82ddc4c8b25ca492a26" sha1="db1910b505867b03327ec691d767dcf75d3c7d99" date="2018-02-03 17:41:18"/>
-		<rom name="d64d2hb.wad" size="18086" crc="88369fbb" md5="4e8448e7ed1014e6e49baa16ad354383" sha1="f640dd5f18d7592c8c1d5614d4564134945a1c1d" date="2018-07-01 23:40:40"/>
-		<rom name="d64d2hbw.wad" size="24892" crc="86485cad" md5="ce071ee26d2cbd0a61025c00a382b572" sha1="e7a7d948002d544bde95fc34837e6ac5c2cdecc9" date="2018-07-01 23:40:56"/>
-		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom/megawads/dtwid</link>
+		<rom name="Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DTWID.deh" size="2047" crc="3786ba31" md5="28266c6405a5f7c026a52143a686da2d" sha1="2cec9b60b23a615ae24bd92303e2aa321c8be12a" date="2011-12-11 18:11:32"/>
+		<rom name="DTWID.txt" size="8448" crc="3535419b" md5="3ec926cdc1ed38d59359c4c55bb475d8" sha1="afff310f13d50b7539dfef4002414767608d88ae" date="2012-02-05 15:20:28"/>
+		<rom name="DTWID.wad" size="5073423" crc="5d99d356" md5="73f2c37d5b42a3eada2127dbdd23907b" sha1="ae8fa5c60b74baac9c8fdc125c995589c3d0338b" date="2012-02-07 13:54:56"/>
+	</game>
+	<game name="Doom - Fava Beans (1995) (Sean Birkel).dosz">
+		<description>Doom - Fava Beans</description>
+		<year>1995</year>
+		<developer>Sean Birkel</developer>
+		<parent>Doom Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom/0-9/01fava</link>
+		<rom name="CRAP115.LMP" size="131058" crc="5f64a217" md5="08ccf819072e2bdf519be2d60733c6ac" sha1="ecae0f4488cb4243a8f1213e7884eaf1811a4429" date="1995-05-27 17:59:30"/>
+		<rom name="CRAP115.TXT" size="1299" crc="f3a53365" md5="575f90f3e4853881ab1078f0eb9f1fe0" sha1="84b40632ac62a97ab925b5792b6fe0e9439e5e47" date="1995-08-28 09:59:06"/>
+		<rom name="CRAP115.WAD" size="115916" crc="8b6ef01f" md5="679d2565b8d251ed9574f7082c4509a5" sha1="07bc3cddf6d3e5057a4536368081c022392ed99b" date="1995-05-27 15:23:02"/>
+		<rom name="Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="FAVA.LMP" size="109934" crc="bc8527f1" md5="c3b94bb22e880136bb7204fedfa837fb" sha1="d0a03ea01db2544e839372e2f7864129278d6d8a" date="1995-08-17 16:33:28"/>
+		<rom name="FAVA.TXT" size="8136" crc="8c3eeed8" md5="eb1443263f97714d5a728ff0a904cf55" sha1="c4a4f990b3548a83d59d88b0396060013709ad29" date="1995-08-28 11:06:08"/>
+		<rom name="FAVA.WAD" size="963370" crc="a6238af4" md5="619a7190ab91ae6b71e12d95c773007a" sha1="6fb627ffb068fb1d5ea9a2ef0498f7e2a19e2382" date="1995-08-28 12:04:46"/>
+		<rom name="FILE_ID.DIZ" size="232" crc="bcc4ceb0" md5="b6f55d53de30ddb1677b134b19f90e79" sha1="c76ac531f9df078701ff436054b80c7d5d5eea55" date="1995-08-28 07:26:40"/>
+		<rom name="PLAYLMP.BAT" size="217" crc="0f32de84" md5="037e49f065d8cc5faf332c7a9104c510" sha1="1d8f56e5b0906ce4a4eb93c4446754a903cb934c" date="1995-08-28 11:06:48"/>
+	</game>
+	<game name="Doom - Freedoom - Phase 1 (2003) (Various).dosz">
+		<description>Doom - Freedoom - Phase 1</description>
+		<year>2003</year>
+		<developer>Various</developer>
+		<parent>Doom Engine.dosz</parent>
+		<comment>v0.13.0</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://github.com/freedoom/freedoom/releases/tag/v0.13.0</link>
+		<rom name="COPYING.txt" size="1644" crc="7926e7ac" md5="8fc7d0c4df94d13fa3802cf4bc9da382" sha1="aa51dcd2785154acb53ee2cf12b127461b3197cd"/>
+		<rom name="CREDITS-MUSIC.txt" size="9388" crc="66c878fc" md5="7f47bf09cd449db31288d7fa2084b52d" sha1="7786085bc123b17c2e8f51000521d067fa6d820b"/>
+		<rom name="CREDITS.txt" size="15872" crc="74509eb7" md5="9bae542cc4437634d1b7f800fb5328b5" sha1="2b269591ed4fc95adfd59127474dd26a54e1e38c"/>
+		<rom name="Doom Engine.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="doom.wad" size="28795076" crc="5b55e156" md5="b93be13d05148dd01614bc205a03648e" sha1="97bb88094a51457a8dcad98c58be22a2d0fa9a37"/>
+		<rom name="freedoom-manual-en.pdf" size="1333497" crc="1158aabd" md5="fcb0eaa26c39a3881c9fe6ab6fcfbbae" sha1="38226810431bc5e6cb5e1ab112941f427b82738f"/>
+		<rom name="freedoom-manual-es.pdf" size="1347608" crc="ce828126" md5="02005ba4712794d3cf13883c6ca87963" sha1="4e55cd4aa5cc007594994f17ec08854bca658daf"/>
+		<rom name="freedoom-manual-fr.pdf" size="1357453" crc="a49a4e1c" md5="299d72c94fd4c73fa5cb08d24e6409eb" sha1="3af455d2c04650d2c95cee0f1797585c4e8bdc1d"/>
+		<rom name="NEWS.html" size="33827" crc="23796f4d" md5="43d4351ab4050e52ed331046e8a525fc" sha1="e2be7591d03a76c2df7b1e63dc643805203a4687"/>
+		<rom name="README.html" size="34415" crc="8a7179bb" md5="577e69b2aefa41751ee8ad50708f2622" sha1="39b30b04c3359135ed526c1b62b095ea6ad13011"/>
+	</game>
+	<game name="Doom - Lost Episodes of Doom, The (1995) (Christen Klie, Bob Carter).dosz">
+		<description>Doom - Lost Episodes of Doom, The</description>
+		<year>1995</year>
+		<developer>Christen Klie, Bob Carter</developer>
+		<parent>Doom v1.666 Mod Base.dosz</parent>
+		<comment>
+			Installed from 3.5" floppy disk matching with TGOD ID: 507
+			Demos require Doom v1.666 if run with vanilla EXE
+		</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=507</link>
+		<rom name="Doom v1.666 Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="JPTR_V40.TXT" size="1629" crc="44610d24" md5="66a45403baa1df339943205cc106fdca" sha1="9c6368712c0283ec6b3be59327d3c0e87b0e082c" date="1994-12-10 12:29:24"/>
+		<rom name="JPTR_V40.WAD" size="2313675" crc="368a45b2" md5="8111f6ea0263a7fcfee5ba3dd06c5554" sha1="9dd7699086f5519c21f4ff24459069e887bb015e" date="1994-12-09 01:31:28"/>
+		<rom name="JUPITER.BAT" size="25" crc="499602ba" md5="01a1b20811d6b3d90d3fc9889cda35f2" sha1="0be027732bf3a28fc4f5035a76ad2834f0c58a5d" date="1994-12-14 12:13:30"/>
+	</game>
+	<game name="Doom - NJ Doom (1994) (Nigel Rowand).dosz">
+		<description>Doom - NJ Doom</description>
+		<year>1994</year>
+		<developer>Nigel Rowand</developer>
+		<parent>Doom v1.666 Mod Base.dosz</parent>
+		<comment>Demos require Doom v1.666 if run with vanilla EXE</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom/megawads/njdoom</link>
+		<rom name="Doom v1.666 Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="GREETS.NJD" size="2228" crc="1ef17b37" md5="ba4615d3db613ffcd37ab1c97257067d" sha1="bf83a754d7ba2c56a0da446b81ea0a37680a8f76" date="1994-11-17 23:05:44"/>
+		<rom name="LEVELS.NJD" size="5834" crc="0e1e76f5" md5="d3b318fcc04ed2196c3aea73b2889f70" sha1="59ffe3bc6073993dc45187f77e18835798af23b8" date="1994-11-26 21:54:22"/>
+		<rom name="NJDOOM.BAT" size="32" crc="a5c39466" md5="48a475392842c18e04f5a41c1d8808de" sha1="fa01c4064834cab543af9000b59ab424b026912d" date="1994-11-17 23:45:48"/>
+		<rom name="njdoom.txt" size="9071" crc="15ff2279" md5="8614e86460d05d69ad73e588f9e20660" sha1="75f5fae42ef7493ecfca35174300212a598aaf83" date="2006-03-15 20:39:46"/>
+		<rom name="NJDOOM1.NJD" size="3060" crc="73847920" md5="cda8f9c0d47bc2844a5b5b8173eee687" sha1="40e593cb941c7d8710747f9d767e5f670b7bb151" date="1994-11-24 23:51:10"/>
+		<rom name="NJDOOM1.WAD" size="3804458" crc="5b8465e1" md5="0a114cd20b6fc5a2ef671d8962113bf4" sha1="8e7e417cfabdef658c1b98dd5ccd2e9b796ecd06" date="1994-11-27 20:00:18"/>
+		<rom name="READ.ME" size="238" crc="52c3aa97" md5="401d61e9f37b53b3678e2db9dc6856a5" sha1="1e828d123bfd149123840aeac855e8ecd2a88ed8" date="1994-11-18 00:18:16"/>
+	</game>
+	<game name="Doom - REKKR (2018) (Revae).dosz">
+		<description>Doom - REKKR</description>
+		<year>2018</year>
+		<developer>Revae</developer>
+		<parent>Doom Mod Base.dosz</parent>
+		<comment>Freeware PWAD version, v1.17.4</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://mockingbirdsoftworks.com/downloads.html</link>
+		<rom name="Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="REK_CREDS.txt" size="4848" crc="082dffa4" md5="5f2cd372f21b8ff4019d151ee38bee74" sha1="623e4e7903fb50ca7776d83e877f69912e9074fb"/>
+		<rom name="REKKR.deh" size="61321" crc="a0772999" md5="53fd4fb66c26da4e342609112ac87f43" sha1="136344e247152a2500bc2c92a45bdceffd6ce310"/>
+		<rom name="REKKR.txt" size="3240" crc="9a18112e" md5="f909ab3ebe1761aecef469bd80259b1d" sha1="6e22846b2f7c9ae6aa2264a259a924553d7efd55"/>
+		<rom name="REKKR.wad" size="41960202" crc="1acde63d" md5="0c5c3e6fc5ec0d72b0bd0455d03989a0" sha1="114bfe1ba0819292ad2b94af048ff9f1c75c9522"/>
+	</game>
+	<game name="Doom - Sigil (2019) (John Romero).dosz">
+		<description>Doom - Sigil</description>
+		<year>2019</year>
+		<developer>John Romero</developer>
+		<parent>Doom Mod Base.dosz</parent>
+		<comment>Freeware v1.21</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://romero.com/sigil</link>
+		<rom name="Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="SIGIL.wad" size="4640210" crc="f9216574" md5="743d6323cb2b9be24c258ff0fc350883" sha1="e2efdf379e1383c4e15c03de89063361897cd459" date="2019-09-23 19:18:42"/>
+		<rom name="SIGIL_C.wad" size="4634157" crc="b7679050" md5="573f3f178c76709f512089ed15484391" sha1="b5e68950820b3a0385375dbace81376e73568207" date="2019-09-23 19:18:48"/>
+		<rom name="SIGIL_instructions.txt" size="10316" crc="6b7aa748" md5="7464e4a07fb4a0a382e88f6cc7ea847c" sha1="7cd856b28fefb7c21260dadcf4b817af64765f33" date="2019-09-23 19:21:38"/>
+		<rom name="SIGIL_v1_21.txt" size="5030" crc="c0120009" md5="b9f7622bc7cf7b0c3f67274d74b0f4ce" sha1="4b2eadb3288a996e786669cfc16e7d4e5e104682" date="2019-09-20 13:21:32"/>
+	</game>
+	<game name="Doom - Sigil II (2023) (John Romero).dosz">
+		<description>Doom - Sigil II</description>
+		<year>2023</year>
+		<developer>John Romero</developer>
+		<parent>Sigil (2019) (John Romero).dosz</parent>
+		<comment>Freeware v1.0</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://romero.com/sigil</link>
+		<rom name="Sigil (2019) (John Romero).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="SIGIL_II.WAD" size="5632323" crc="d210db36" md5="d0442f5a75f2faef3405c09a0c3acc58" sha1="ad2c6e8367afbeef74e9e09b6b1e4da88c0576b4" date="2023-12-05 22:01:16"/>
+		<rom name="SIGIL_II_README_V1_0.txt" size="9442" crc="dcb4f63b" md5="bbea1e6f433eb9f9e4f7edf1c673ee76" sha1="3f62349fd92b9154f6ea0556e2ef8596d6dad873" date="2023-12-09 14:41:20"/>
+		<rom name="SIGIL_II_V1_0.txt" size="3586" crc="ed412472" md5="122b0992e23ed6a917995dc142c9abae" sha1="b69e087c9a82b4d23785db491e330c15de6b6839" date="2023-12-09 14:13:36"/>
+	</game>
+	<game name="Doom - Slaughter Until Death (1994) (The Innocent Crew).dosz">
+		<description>Doom - Slaughter Until Death</description>
+		<year>1994</year>
+		<developer>The Innocent Crew</developer>
+		<parent>Doom v1.2 Mod Base.dosz</parent>
+		<comment>Demos require Doom v1.2 if run with vanilla EXE</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom/s-u/sudtic</link>
+		<rom name="Doom v1.2 Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="FILE_ID.DIZ" size="214" crc="3b0432a6" md5="474243cee992358e411bbc6b69f203ac" sha1="89ded93e1e4f0213e60c0e06e46fcfdc2b5d6665" date="1994-06-18 01:08:12"/>
+		<rom name="GO.BAT" size="24" crc="78626894" md5="90ef62ce3a02fde815c1e1aee58df278" sha1="50d42fac7bca8e1a03ae89c55c3d78611c9fb4b8" date="1994-06-21 19:31:46"/>
+		<rom name="NET.BAT" size="296" crc="556cfbba" md5="dcc2ad4677d45641343a9be945444ecb" sha1="d23c1b67960e4d664a2b9329c10e08323b0dd30f" date="1994-06-21 19:38:54"/>
+		<rom name="SUDTIC.TXT" size="3628" crc="ede39aea" md5="611acc29e5145b4e3c7f6a9a3f47125f" sha1="bc2a6faa30733f145444684893abd41da4ddc8a7" date="1994-06-21 19:44:22"/>
+		<rom name="SUDTIC.WAD" size="1734629" crc="8b5abd32" md5="071d86ef2c5e0487a77dec13ac82bbaa" sha1="18061fc85c941769dca78229e37667d5866a2016" date="1994-06-21 19:30:04"/>
+	</game>
+	<game name="Doom - Ultimate Doom the Way id Did (2019) (Various).dosz">
+		<description>Doom - Ultimate Doom the Way id Did</description>
+		<year>2019</year>
+		<developer>Various</developer>
+		<parent>Doom the Way id Did (2011) (Various).dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom/s-u/udtwid</link>
+		<rom name="Doom the Way id Did (2011) (Various).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="UDTWiD.deh" size="2064" crc="5d2e44ab" md5="a3412688819795ad0dad331c7f6424d1" sha1="970a077ebd9843a15eaf1e96c45f84662cb1b806" date="2018-11-26 11:27:00"/>
+		<rom name="UDTWiD.txt" size="4255" crc="db79e592" md5="026930b97b2c99634891eb2caa507525" sha1="8730a52bca74464cfc99674184ffce120d5cfe12" date="2019-02-16 22:12:00"/>
+		<rom name="UDTWiD.wad" size="2015266" crc="4ec29ddd" md5="c04696a6abda5ed345b040065e2934c6" sha1="20f06479c9aad7a883fd103b5736352ead6fa289" date="2019-02-11 23:12:10"/>
 	</game>
 	<game name="Doom Engine.dosz">
 		<description>Doom Engine</description>
@@ -255,18 +254,136 @@
 		<rom name="SKINS/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2023-11-01 04:05:56"/>
 		<rom name="TARTAR.EXE" size="494320" crc="8b30f2f8" md5="b7a684f8663cd1ae97d833645eb3929a" sha1="d79d31ad44c8e12c504a043dc78d31aef6e5c50d"/>
 	</game>
-	<game name="Doom II Mod Base.dosz">
-		<description>Doom II Mod Base</description>
-		<parent>Doom Engine.dosz</parent>
-		<comment>Minimal files from Doom II v1.9. Can be installed from CD matching with Redump: Doom II (USA) (v1.9)</comment>
-		<link type="media">http://redump.org/disc/62840/</link>
-		<rom name="Doom Engine.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="DOOM2.EXE" size="709905" crc="be91c727" md5="e2382b7dc47ae2433d26b6e6bc312999" sha1="aa0668fae2f743ee5e3e5634ee42d3c8ace7d907"/>
-		<rom name="DOOM2.WAD" size="14604584" crc="ec8725db" md5="25e1459ca71d321525f84628f45ca8cd" sha1="7ec7652fcfce8ddc6e801839291f0e28ef1d5ae7"/>
-		<rom name="SETUP.EXE" size="45745" crc="0025fe95" md5="675564fcd380f5ef9beb0e7b21a51f79" sha1="f8644ace438896f9a788629d8da869bd34926f91"/>
+	<game name="Doom II - Alien Vendetta (2001) (Various).dosz">
+		<description>Doom II - Alien Vendetta</description>
+		<year>2001</year>
+		<developer>Various</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/av</link>
+		<rom name="AV.DEH" size="7403" crc="288ba8ba" md5="9e3073749f59fc3afeea48faa967a332" sha1="edc231da967edd64780299b930345fcfa79f649a" date="2002-12-24 23:59:04"/>
+		<rom name="AV.EXE" size="709905" crc="5e21bf6e" md5="1e5812d6d8f3908dec240c824ad4145e" sha1="e0223bcb3881f8fe77b15e0721cc4c1bc9c22d91" date="2002-12-24 23:59:12"/>
+		<rom name="AV.TXT" size="55068" crc="607fd84f" md5="c2ac69490620e311243e81f51389550e" sha1="831c4bd574a450ad36dfef0a208467fdbb224a1b" date="2002-12-24 23:59:08"/>
+		<rom name="AV.WAD" size="23819412" crc="b0001c47" md5="6006c3a370aa1dc0be04e0f3976f1ca4" sha1="2fc37855a54d63106b9bee7d03b5556caaa42e23" date="2002-12-24 23:59:10"/>
+		<rom name="AVMOVFIX.WAD" size="1816944" crc="2cbc23ed" md5="8b841a6de9869c793a8ceb34c175797c" sha1="74baababc132fd054bc841fb2088725315de3a6a" date="2002-12-24 23:59:06"/>
+		<rom name="CHANGES.TXT" size="7660" crc="aec72bef" md5="e3f32db56f4140725fe32ec3e8ceedce" sha1="e56dc5c82d720006bea71799cb0b61b276d3b3f6" date="2002-12-24 23:59:24"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
-	<game name="Doom II the Way id Did (2013) (Various).dosz">
-		<description>Doom II the Way id Did</description>
+	<game name="Doom II - Ancient Aliens (2016) (Paul DeBruyne).dosz">
+		<description>Doom II - Ancient Aliens</description>
+		<year>2016</year>
+		<developer>Paul DeBruyne</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment>v1.2</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/aaliens</link>
+		<rom name="aaliens.txt" size="15881" crc="8ff41b5c" md5="ab636d16a70ced3757b8330e2ea65b9c" sha1="ec306729c578690a477ae008c6336efba1082d22" date="2023-03-16 04:50:40"/>
+		<rom name="aaliens.wad" size="133408915" crc="b5a9bb5d" md5="8f32c3e51524757dd0d7ccb93231997a" sha1="1a5faf234f91566598067fc80914a654fd1e2068" date="2023-03-16 04:07:12"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Doom II - Army of Darkness Doom (1996) (Various).dosz">
+		<description>Doom II - Army of Darkness Doom</description>
+		<year>1996</year>
+		<developer>Various</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment>Doom II version</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/themes/aod/aoddoom2</link>
+		<rom name="aod-faq.txt" size="61719" crc="82b7062d" md5="bebae9e9f53029e04b6b6f39a298fc4c" sha1="4029033d4ee684eb6e01e2e866697c65a046e0b1" date="2003-11-26 14:36:50"/>
+		<rom name="aoddoom2.deh" size="10484" crc="c9176fc1" md5="1e6a7130fb093d6e3b4f09e24fc29a40" sha1="9a7d8001cc5d474fe43dbe118e073e5c020b0787" date="1995-08-02 09:38:54"/>
+		<rom name="aoddoom2.txt" size="2915" crc="080426d0" md5="5187b0e718fca0e32d0c8f483cd018ac" sha1="bbaf33f0c4a166e84ff9f75a7eedd861b603e80f" date="2003-11-29 23:58:50"/>
+		<rom name="aoddoom2.wad" size="6834740" crc="cd6fdacf" md5="e46bf48bc672716b29a474db90b8dd48" sha1="15c0f330f08b9b1ac4264e9b348b98ebda55c931" date="2003-11-26 13:12:30"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Doom II - Back to Saturn X - Episode 1 - Get out of My Stations (2012) (Esselfortium et al).dosz">
+		<description>Doom II - Back to Saturn X - Episode 1 - Get out of My Stations</description>
+		<year>2012</year>
+		<developer>Esselfortium et al</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment>v1.1.6</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/btsx_e1</link>
+		<rom name="btsx_e1.deh" size="4985" crc="886b0b4e" md5="d0be88dfb7c8820807dfe1e162a92764" sha1="12eda8aa7b0f9b09cf32b50cd3a05b0fe32e9972" date="2017-02-28 22:47:18"/>
+		<rom name="btsx_e1.txt" size="15746" crc="9f99bf0b" md5="8347202f5543af31a0b0d94ce3869180" sha1="e74f850524fc6f6bd46df2dffabb3c87aea2addf" date="2020-08-13 11:00:00"/>
+		<rom name="btsx_e1a.wad" size="22307013" crc="bc5709e2" md5="96530f7e149ab838b3a80c29570cd275" sha1="9c19bdf92d7a44249c88e0baf8cc6ec8b9b9e5d3" date="2020-08-13 11:15:08"/>
+		<rom name="btsx_e1b.wad" size="29449016" crc="65c1b3fa" md5="667a7b6160ab0f64d853a5142a9a31de" sha1="6535aa24ad7b68b7e598dceabf25043b88f6dc12" date="2020-06-22 23:43:58"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Doom II - Back to Saturn X - Episode 2 - Tower in the Fountain of Sparks (2014) (Esselfortium et al).dosz">
+		<description>Doom II - Back to Saturn X - Episode 2 - Tower in the Fountain of Sparks</description>
+		<year>2014</year>
+		<developer>Esselfortium et al</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment>v1.0.1. ZIP file extracted</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/btsx_e2</link>
+		<rom name="btsx_e2.deh" size="6708" crc="58d091b1" md5="9e25f25d53e8ed7af64723aedf4930c9" sha1="442631842497e722268dc984e08a139fc23b4921" date="2018-02-07 16:12:48"/>
+		<rom name="btsx_e2.txt" size="16003" crc="6a0999a0" md5="6cf349ac7108e720b2b93f83474148e9" sha1="d695408a3176573fde43c33a21712c1dedeaa1a7" date="2020-08-13 11:29:00"/>
+		<rom name="btsx_e2a.wad" size="27856614" crc="021a840d" md5="ff42f95fffcb2ecae3af034af5c578ca" sha1="087ba6792ca6d9f8143ccc88245dbb74e9f95421" date="2020-08-13 17:37:44"/>
+		<rom name="btsx_e2b.wad" size="40471797" crc="df11fe7a" md5="3853b06204e2e251b06e61b63de06ab2" sha1="c3a8eb29932fc4adfadba71278793f1d16a1b9d6" date="2020-08-12 13:50:50"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="m20patch/m20patch.wad" size="1604511" crc="c5ef1f85" md5="b2677982f6ca640e10194ac50fbb6dbc" sha1="ec364e866401db170a68226c55988641774bd4f0" date="2020-08-13 11:04:26"/>
+		<rom name="m20patch/README.txt" size="1050" crc="492be12a" md5="b21d68186c3f865d1164cdac31f565da" sha1="6cbbff2c62a5a99de5643480c76845af771a8cfa" date="2020-08-06 13:28:36"/>
+	</game>
+	<game name="Doom II - Batman Doom (1999) (ACE Team Software).dosz">
+		<description>Doom II - Batman Doom</description>
+		<year>1999</year>
+		<developer>ACE Team Software</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/themes/batman/batman</link>
+		<rom name="batman.deh" size="65514" crc="1fc1016a" md5="0373cea0cecb6ad203cb99290b857133" sha1="4aa10a2b35a7e042030f8c88a0c3bc3ed71580ec" date="1999-04-26 16:39:00"/>
+		<rom name="batman.wad" size="16973860" crc="1600263f" md5="c4686776cb6e36100e232be914950b99" sha1="8a7e9f193f2c3bb1eba1731da84a523a5d1af0bb" date="1999-04-15 00:31:30"/>
+		<rom name="dehacked.exe" size="93122" crc="a8191f4c" md5="7f4b6dde1aad5565d38cdd805d72af3b" sha1="acf14af8f5429b3ae822e44b3624c196ceed907f" date="1996-11-11 19:23:30"/>
+		<rom name="deusf.exe" size="90196" crc="5ea1e5c2" md5="89be00455dec01df32e1df8a6bf191f9" sha1="397fc6a2c7e1de6f5d7e066d72bc7acb1d9f9726" date="1995-07-24 00:13:42"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="install.txt" size="2691" crc="3a097f20" md5="4715876866846e95d80621e77014b607" sha1="6543f80a20935a0f16a67894c499a9b91b61459d" date="1999-04-13 23:45:10"/>
+		<rom name="readme.txt" size="4563" crc="f74c0be6" md5="71b40c8ce45700365e1ad1e564095a75" sha1="d7738ac42da5188b256133617bde15e4f5f1d360" date="1999-04-06 17:45:32"/>
+		<rom name="vanilla.bat" size="606" crc="855cf2b1" md5="cc708224695777adcf40101bb90cc567" sha1="7ff781e04c810213a08997763d147ce0a430cd3c" date="1999-04-13 23:45:30"/>
+	</game>
+	<game name="Doom II - Cleimos 2 (1995) (Rand Phares, Steven Phares).dosz">
+		<description>Doom II - Cleimos 2</description>
+		<year>1995</year>
+		<developer>Rand Phares, Steven Phares</developer>
+		<parent>Doom II v1.666 Mod Base.dosz</parent>
+		<comment>Repackaged edition. ZIP files extracted. Demos require Doom II v1.666 if run with vanilla EXE</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/cleim20p</link>
+		<rom name="C2CREDIT.GIF" size="15999" crc="9f81a2fd" md5="e3d35784b9fcd9eac1d84fa0a7380745" sha1="38472b0cd9dd8a41bcb24ef348f31a15c3debfa1" date="1995-11-20 05:46:48"/>
+		<rom name="C2LEVELS.GIF" size="20914" crc="27a3b86d" md5="5af959e7ef3c6583003e645954cb3634" sha1="e329a469cade1a26fee2a096d9445736e0071c77" date="1995-11-04 13:29:14"/>
+		<rom name="CLEIM20.TXT" size="12440" crc="925e9c04" md5="cc9e9fbb1f987c509c4b7236a6e7d571" sha1="e7e93aa82e02461da6cd1b9276e94fc5a7a54e51" date="1995-11-20 21:38:00"/>
+		<rom name="CLEIM20.WAD" size="5970208" crc="84915505" md5="d009de001d63f37069f198ee906ca7c6" sha1="f6ddbe514aa3166796ab95a227197e6339e67250" date="1995-11-20 14:12:22"/>
+		<rom name="cleim20a/C2CREDIT.GIF" size="15999" crc="9f81a2fd" md5="e3d35784b9fcd9eac1d84fa0a7380745" sha1="38472b0cd9dd8a41bcb24ef348f31a15c3debfa1" date="1995-11-20 02:46:48"/>
+		<rom name="cleim20a/C2LEVELS.GIF" size="20914" crc="27a3b86d" md5="5af959e7ef3c6583003e645954cb3634" sha1="e329a469cade1a26fee2a096d9445736e0071c77" date="1995-11-04 10:29:14"/>
+		<rom name="cleim20a/CLEIM20.000" size="2990080" crc="49140953" md5="c4650d73fd7a92fe7eee99c3a14cd71b" sha1="6e44f3361e2daae724368560b9bcae9f1b896bda" date="1995-11-20 11:12:22"/>
+		<rom name="cleim20b/C2CLEAN.BAT" size="148" crc="e031b3f9" md5="b6fccf268e064616e42ae6a1b3ab76ae" sha1="0697e885852cfc405813e89e0c2c5206ff2bbfd2" date="1995-11-20 15:21:10"/>
+		<rom name="cleim20b/C2DEUINS.BAT" size="450" crc="b62f7e89" md5="ecd98639f882ce68641fe2309ff8df39" sha1="fbca61c958cb6330ae20690ca196e5ddfbbfae5b" date="1995-11-20 15:15:40"/>
+		<rom name="cleim20b/C2INSTAL.BAT" size="682" crc="28f28341" md5="0b670942660205056ca8aa5fa74c376a" sha1="0ee9abce5d600627b57b72ae8db87c1d7d32eab5" date="1995-11-20 15:37:44"/>
+		<rom name="cleim20b/C2RUN.BAT" size="25" crc="b667e30b" md5="826af73de2afaa077cf1f37d10df87cd" sha1="5586b05f0884e06389448abb8ef7ad54788bbae0" date="1995-11-20 15:31:54"/>
+		<rom name="cleim20b/CLEIM20.001" size="2980128" crc="825addc2" md5="ad7d78bb42359bf27d008691036950f9" sha1="98295f7d969a9fbfddceac5d95ced6b29da0fd65" date="1995-11-20 11:12:30"/>
+		<rom name="cleim20b/CLEIM20.TXT" size="12440" crc="925e9c04" md5="cc9e9fbb1f987c509c4b7236a6e7d571" sha1="e7e93aa82e02461da6cd1b9276e94fc5a7a54e51" date="1995-11-20 18:38:00"/>
+		<rom name="cleim20b/DEUSF.EXE" size="89860" crc="840cfb89" md5="06be303acbae938be316281a4733b798" sha1="6114e05889d7142eef3d8bf69007be873341e087" date="1995-05-05 14:06:04"/>
+		<rom name="cleim20p.txt" size="18403" crc="ae272b3b" md5="d5e02b3038f15718b40a73c850f5d168" sha1="f1e6d63fc207a6436062ea765bdf3884628254fc" date="2015-06-25 20:50:02"/>
+		<rom name="Doom II v1.666 Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Doom II - Doom 64 for Doom II (2018) (Various).dosz">
+		<description>Doom II - Doom 64 for Doom II</description>
+		<year>2018</year>
+		<developer>Various</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment>v1.4</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/d64d2</link>
+		<rom name="d64d2.deh" size="14695" crc="6053b754" md5="9dc3921d0e1c6567511350f276cef800" sha1="9efa0c285c5837e37c9ccfbd834d327cb8f83198" date="2018-07-23 14:49:44"/>
+		<rom name="D64D2.txt" size="24995" crc="83726b52" md5="c2dcce0f46061a571a52e8c4c5f5a3b2" sha1="96876e04b557a60748b5acf4e18e325e514042b5" date="2019-12-31 13:46:00"/>
+		<rom name="D64D2.wad" size="17208397" crc="892430c9" md5="ff6cb922d1ac91ef691fd139929e2857" sha1="bc206275310a2bc06881334c3affe50348e6e2e0" date="2019-12-31 13:46:36"/>
+		<rom name="d64d2bw.wad" size="24970" crc="aca7075d" md5="082907cbd505f82ddc4c8b25ca492a26" sha1="db1910b505867b03327ec691d767dcf75d3c7d99" date="2018-02-03 17:41:18"/>
+		<rom name="d64d2hb.wad" size="18086" crc="88369fbb" md5="4e8448e7ed1014e6e49baa16ad354383" sha1="f640dd5f18d7592c8c1d5614d4564134945a1c1d" date="2018-07-01 23:40:40"/>
+		<rom name="d64d2hbw.wad" size="24892" crc="86485cad" md5="ce071ee26d2cbd0a61025c00a382b572" sha1="e7a7d948002d544bde95fc34837e6ac5c2cdecc9" date="2018-07-01 23:40:56"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Doom II - Doom II the Way id Did (2013) (Various).dosz">
+		<description>Doom II - Doom II the Way id Did</description>
 		<year>2013</year>
 		<developer>Various</developer>
 		<parent>Doom II Mod Base.dosz</parent>
@@ -278,71 +395,8 @@
 		<rom name="D2TWID.wad" size="6753456" crc="05b76aaf" md5="0c69aae8fba0372cbab9df41e6b7ac29" sha1="b1114af574b5fcb965bbd63a76a6bdc0af45c09e" date="2013-12-27 04:02:58"/>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
-	<game name="Doom II v1.666 Mod Base.dosz">
-		<description>Doom II v1.666 Mod Base</description>
-		<parent>Doom Engine.dosz</parent>
-		<comment>Sometimes needed for demos in old vanilla wads. Can be installed from CD matching with Redump: Doom II (USA)</comment>
-		<link type="media">http://redump.org/disc/18391/</link>
-		<rom name="Doom Engine.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="DOOM2.EXE" size="687001" crc="5f7ede6f" md5="22e3fc7854f030df977d26faf1e342be" sha1="67e14e8e7809d80ee0d2da3a8082457f534e17d2" date="1994-08-29 19:56:54"/>
-		<rom name="DOOM2.WAD" size="14943400" crc="e2a683bd" md5="30e3c2d0350b67bfbf47271970b74b2f" sha1="6d559b7ceece4f5ad457415049711992370d520a" date="1994-08-29 19:56:54"/>
-		<rom name="SETUP.EXE" size="92726" crc="7f186cb6" md5="8ce92aa9269dd3add04b6d37c71f1d24" sha1="5bb1606196558901b5db6c90da8b17494f539c3f" date="1994-08-29 19:56:54"/>
-	</game>
-	<game name="Doom II v1.7 Mod Base.dosz">
-		<description>Doom II v1.7 Mod Base</description>
-		<parent>Doom Engine.dosz</parent>
-		<comment>Sometimes needed for demos in old vanilla wads. Can be installed from CD matching with Redump: Doom II (USA) (v1.7)</comment>
-		<link type="media">http://redump.org/disc/25732/</link>
-		<rom name="Doom Engine.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="DOOM2.EXE" size="686993" crc="9116ce4c" md5="ef9a1f197d56a174097a2af3ccdd7403" sha1="c50791dd82355bdcd52b590c91106661498aabd3" date="1994-09-21 18:38:08"/>
-		<rom name="DOOM2.WAD" size="14612688" crc="47daeb2e" md5="ea74a47a791fdef2e9f2ea8b8a9da13b" sha1="78009057420b792eacff482021db6fe13b370dcc" date="1994-09-21 18:38:08"/>
-		<rom name="SETUP.EXE" size="92726" crc="7f186cb6" md5="8ce92aa9269dd3add04b6d37c71f1d24" sha1="5bb1606196558901b5db6c90da8b17494f539c3f" date="1994-09-21 18:38:08"/>
-	</game>
-	<game name="Doom Series Mod Base.dosz">
-		<description>Doom Series Mod Base</description>
-		<comment>Used as a base for individual source ports. Minimal files from Ultimate Doom, Doom II, and Final Doom. Needs DOS.YML with mem_size: 65536</comment>
-		<link type="media">http://redump.org/disc/28674/</link>
-		<rom name="DOOM.WAD" size="12408292" crc="bf0eaac0" md5="c4fe9fd920207691a9f493668e0a2083" sha1="9b07b02ab3c275a6a7570c3f73cc20d63a0e3833"/>
-		<rom name="DOOM2.WAD" size="14604584" crc="ec8725db" md5="25e1459ca71d321525f84628f45ca8cd" sha1="7ec7652fcfce8ddc6e801839291f0e28ef1d5ae7"/>
-		<rom name="DOS.YML" size="17" crc="9e2ade80" md5="5e4e9514ccbed110c66ed799f2b0c449" sha1="7ff552bf9a73a8ba6fe5089d140c63e3d6be659c" data="bWVtX3NpemU6IDY1NTM2DQo="/>
-		<rom name="PLUTONIA.WAD" size="18240172" crc="15cd1448" md5="3493be7e1e2588bc9c8b31eab2587a04" sha1="f131cbe1946d7fddb3caec4aa258c83399c21e60"/>
-		<rom name="TNT.WAD" size="18654796" crc="d4bb05c0" md5="1d39e405bf6ee3df69a8d2646c8d5c49" sha1="4a65c8b960225505187c36040b41a40b152f8f3e"/>
-	</game>
-	<game name="Doom the Way id Did (2011) (Various).dosz">
-		<description>Doom the Way id Did</description>
-		<year>2011</year>
-		<developer>Various</developer>
-		<parent>Ultimate Doom Mod Base.dosz</parent>
-		<comment>v1.1a</comment>
-		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://www.doomworld.com/idgames/levels/doom/megawads/dtwid</link>
-		<rom name="DTWID.deh" size="2047" crc="3786ba31" md5="28266c6405a5f7c026a52143a686da2d" sha1="2cec9b60b23a615ae24bd92303e2aa321c8be12a" date="2011-12-11 18:11:32"/>
-		<rom name="DTWID.txt" size="8448" crc="3535419b" md5="3ec926cdc1ed38d59359c4c55bb475d8" sha1="afff310f13d50b7539dfef4002414767608d88ae" date="2012-02-05 15:20:28"/>
-		<rom name="DTWID.wad" size="5073423" crc="5d99d356" md5="73f2c37d5b42a3eada2127dbdd23907b" sha1="ae8fa5c60b74baac9c8fdc125c995589c3d0338b" date="2012-02-07 13:54:56"/>
-		<rom name="Ultimate Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-	</game>
-	<game name="Doom v1.2 Mod Base.dosz">
-		<description>Doom v1.2 Mod Base</description>
-		<parent>Doom Engine.dosz</parent>
-		<comment>Sometimes needed for demos in old vanilla wads. Can be installed from 3.5" floppy disks matching with TGOD ID: 569</comment>
-		<link type="media">https://www.goodolddays.net/en/diskimages/?id=569</link>
-		<rom name="Doom Engine.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="DOOM.EXE" size="580391" crc="7734c756" md5="3f9591955116ed548f2e331586e8d816" sha1="1405dbfce801b22cd5c8079947e17f48c73c913e" date="1994-02-17 01:20:00"/>
-		<rom name="DOOM.WAD" size="10399316" crc="a5da8930" md5="792fd1fea023d61210857089a7c1e351" sha1="b5f86a559642a2b3bdfb8a75e91c8da97f057fe6" date="1994-02-17 01:20:00"/>
-		<rom name="SETUP.EXE" size="91931" crc="db8b4f8b" md5="8167c20b553e59c1c46f4b079d3f83e8" sha1="5784b4c498817b6d18a489d61921e15c8d02d5d8" date="1994-02-17 01:20:00"/>
-	</game>
-	<game name="Doom v1.666 Mod Base.dosz">
-		<description>Doom v1.666 Mod Base</description>
-		<parent>Doom Engine.dosz</parent>
-		<comment>Sometimes needed for demos in old vanilla wads. Can be installed from 3.5" floppy disks matching with TGOD ID: 662</comment>
-		<link type="media">https://www.goodolddays.net/en/diskimages/?id=662</link>
-		<rom name="Doom Engine.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="DOOM.EXE" size="687001" crc="084677c4" md5="be2d05789beb3b56692a2ccd83f8c510" sha1="be2799fcdd36df85f81d87fca03b28d86d611e46" date="1994-09-01 16:42:00"/>
-		<rom name="DOOM.WAD" size="11159840" crc="f756aab5" md5="54978d12de87f162b9bcc011676cb3c0" sha1="2e89b86859acd9fc1e552f587b710751efcffa8e" date="1994-09-01 16:42:00"/>
-		<rom name="SETUP.EXE" size="95184" crc="2a5941e1" md5="498e840007a4d18605c2facca4c55769" sha1="f098bdc1ff72a3c862761c0de8b3714905558365" date="1994-09-01 16:42:00"/>
-	</game>
-	<game name="Earth (1998) (Roger Ritenour).dosz">
-		<description>Earth</description>
+	<game name="Doom II - Earth (1998) (Roger Ritenour).dosz">
+		<description>Doom II - Earth</description>
 		<year>1998</year>
 		<developer>Roger Ritenour</developer>
 		<parent>Doom II v1.7 Mod Base.dosz</parent>
@@ -353,8 +407,8 @@
 		<rom name="EARTH.TXT" size="7375" crc="7d6a5ccf" md5="f3aa7101faa8b1e36c48472bc6dda3a3" sha1="aa760a2d3fb323a847e6c3902282dc1a108e984b" date="1998-07-12 15:27:40"/>
 		<rom name="EARTH.WAD" size="3913680" crc="04e7ee87" md5="cdf6bdf64c2361bc99d64fdf548157fb" sha1="a85bcc1e894eea40441dfd2411cf4c4cb54700ac" date="1997-09-30 22:49:26"/>
 	</game>
-	<game name="Eternal Doom (1996) (Team Eternal, TeamTNT).dosz">
-		<description>Eternal Doom</description>
+	<game name="Doom II - Eternal Doom (1996) (Team Eternal, TeamTNT).dosz">
+		<description>Doom II - Eternal Doom</description>
 		<year>1996</year>
 		<developer>Team Eternal, TeamTNT</developer>
 		<parent>Doom II Mod Base.dosz</parent>
@@ -391,8 +445,8 @@
 		<rom name="UDSKY.BMP" size="33846" crc="87c2547b" md5="5d0a01f16e22d6ab979b2aca1ec5df11" sha1="92d41d3d13be95a1622b6e2534dbb626fcd4f59a" date="1997-09-28 14:48:28"/>
 		<rom name="WELCOME.EXE" size="69817" crc="b5996ee9" md5="52d2320ce97d53f1d342eef3c26f259f" sha1="208a3b93c05bf439b548323238ccf9c26f0f74d5" date="1997-08-01 00:00:00"/>
 	</game>
-	<game name="Eviternity (2018) (Dragonfly et al).dosz">
-		<description>Eviternity</description>
+	<game name="Doom II - Eviternity (2018) (Dragonfly et al).dosz">
+		<description>Doom II - Eviternity</description>
 		<year>2018</year>
 		<developer>Dragonfly et al</developer>
 		<parent>Doom II Mod Base.dosz</parent>
@@ -404,25 +458,8 @@
 		<rom name="Eviternity.txt" size="14999" crc="e2fe9709" md5="4d28b11ff5306f82e5bc4697446781ee" sha1="ec8e6c6d883a4b89043db96968fd645ed9e5aca5" date="2019-02-10 16:24:00"/>
 		<rom name="Eviternity_Changelog.txt" size="24284" crc="326764a1" md5="f32cacaca375cd26b841b6b123586470" sha1="3cb19a7f56f9be8b82498a4f03e63aef670e23e4" date="2019-02-10 15:20:24"/>
 	</game>
-	<game name="Fava Beans (1995) (Sean Birkel).dosz">
-		<description>Fava Beans</description>
-		<year>1995</year>
-		<developer>Sean Birkel</developer>
-		<parent>Ultimate Doom Mod Base.dosz</parent>
-		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://www.doomworld.com/idgames/levels/doom/0-9/01fava</link>
-		<rom name="CRAP115.LMP" size="131058" crc="5f64a217" md5="08ccf819072e2bdf519be2d60733c6ac" sha1="ecae0f4488cb4243a8f1213e7884eaf1811a4429" date="1995-05-27 17:59:30"/>
-		<rom name="CRAP115.TXT" size="1299" crc="f3a53365" md5="575f90f3e4853881ab1078f0eb9f1fe0" sha1="84b40632ac62a97ab925b5792b6fe0e9439e5e47" date="1995-08-28 09:59:06"/>
-		<rom name="CRAP115.WAD" size="115916" crc="8b6ef01f" md5="679d2565b8d251ed9574f7082c4509a5" sha1="07bc3cddf6d3e5057a4536368081c022392ed99b" date="1995-05-27 15:23:02"/>
-		<rom name="FAVA.LMP" size="109934" crc="bc8527f1" md5="c3b94bb22e880136bb7204fedfa837fb" sha1="d0a03ea01db2544e839372e2f7864129278d6d8a" date="1995-08-17 16:33:28"/>
-		<rom name="FAVA.TXT" size="8136" crc="8c3eeed8" md5="eb1443263f97714d5a728ff0a904cf55" sha1="c4a4f990b3548a83d59d88b0396060013709ad29" date="1995-08-28 11:06:08"/>
-		<rom name="FAVA.WAD" size="963370" crc="a6238af4" md5="619a7190ab91ae6b71e12d95c773007a" sha1="6fb627ffb068fb1d5ea9a2ef0498f7e2a19e2382" date="1995-08-28 12:04:46"/>
-		<rom name="FILE_ID.DIZ" size="232" crc="bcc4ceb0" md5="b6f55d53de30ddb1677b134b19f90e79" sha1="c76ac531f9df078701ff436054b80c7d5d5eea55" date="1995-08-28 07:26:40"/>
-		<rom name="PLAYLMP.BAT" size="217" crc="0f32de84" md5="037e49f065d8cc5faf332c7a9104c510" sha1="1d8f56e5b0906ce4a4eb93c4446754a903cb934c" date="1995-08-28 11:06:48"/>
-		<rom name="Ultimate Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-	</game>
-	<game name="Fistful of Doom, A (1995) (Gali).dosz">
-		<description>Fistful of Doom, A</description>
+	<game name="Doom II - Fistful of Doom, A (1995) (Gali).dosz">
+		<description>Doom II - Fistful of Doom, A</description>
 		<year>1995</year>
 		<developer>Gali</developer>
 		<parent>Doom II Mod Base.dosz</parent>
@@ -441,27 +478,8 @@
 		<rom name="PCXVIEW.EXE" size="20430" crc="04cda198" md5="23542828456349080bd202c9ff2cbeb7" sha1="69eb181b85f59d533493ac8c7f3c7157cbf82f34" date="1996-03-18 07:25:10"/>
 		<rom name="RESTORE.BAT" size="16" crc="288ea4fe" md5="f3e0eff3da95c43fdacfb0d6c773cd92" sha1="41af4393685f4d9eefac0c21498cf485edeb24cf" date="1996-03-16 04:26:50"/>
 	</game>
-	<game name="Freedoom - Phase 1 (2003) (Various).dosz">
-		<description>Freedoom - Phase 1</description>
-		<year>2003</year>
-		<developer>Various</developer>
-		<parent>Doom Engine.dosz</parent>
-		<comment>v0.13.0</comment>
-		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://github.com/freedoom/freedoom/releases/tag/v0.13.0</link>
-		<rom name="COPYING.txt" size="1644" crc="7926e7ac" md5="8fc7d0c4df94d13fa3802cf4bc9da382" sha1="aa51dcd2785154acb53ee2cf12b127461b3197cd"/>
-		<rom name="CREDITS-MUSIC.txt" size="9388" crc="66c878fc" md5="7f47bf09cd449db31288d7fa2084b52d" sha1="7786085bc123b17c2e8f51000521d067fa6d820b"/>
-		<rom name="CREDITS.txt" size="15872" crc="74509eb7" md5="9bae542cc4437634d1b7f800fb5328b5" sha1="2b269591ed4fc95adfd59127474dd26a54e1e38c"/>
-		<rom name="Doom Engine.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="doom.wad" size="28795076" crc="5b55e156" md5="b93be13d05148dd01614bc205a03648e" sha1="97bb88094a51457a8dcad98c58be22a2d0fa9a37"/>
-		<rom name="freedoom-manual-en.pdf" size="1333497" crc="1158aabd" md5="fcb0eaa26c39a3881c9fe6ab6fcfbbae" sha1="38226810431bc5e6cb5e1ab112941f427b82738f"/>
-		<rom name="freedoom-manual-es.pdf" size="1347608" crc="ce828126" md5="02005ba4712794d3cf13883c6ca87963" sha1="4e55cd4aa5cc007594994f17ec08854bca658daf"/>
-		<rom name="freedoom-manual-fr.pdf" size="1357453" crc="a49a4e1c" md5="299d72c94fd4c73fa5cb08d24e6409eb" sha1="3af455d2c04650d2c95cee0f1797585c4e8bdc1d"/>
-		<rom name="NEWS.html" size="33827" crc="23796f4d" md5="43d4351ab4050e52ed331046e8a525fc" sha1="e2be7591d03a76c2df7b1e63dc643805203a4687"/>
-		<rom name="README.html" size="34415" crc="8a7179bb" md5="577e69b2aefa41751ee8ad50708f2622" sha1="39b30b04c3359135ed526c1b62b095ea6ad13011"/>
-	</game>
-	<game name="Freedoom - Phase 2 (2003) (Various).dosz">
-		<description>Freedoom - Phase 2</description>
+	<game name="Doom II - Freedoom - Phase 2 (2003) (Various).dosz">
+		<description>Doom II - Freedoom - Phase 2</description>
 		<year>2003</year>
 		<developer>Various</developer>
 		<parent>Doom Engine.dosz</parent>
@@ -474,8 +492,8 @@
 		<rom name="Doom Engine.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="doom2.wad" size="28787748" crc="68a76eb5" md5="cd666466759b5e5f63af93c5f0ffd0a1" sha1="975f781e6d801c0a23e3caa33f70493efe68a880"/>
 	</game>
-	<game name="Harmony Compatible (2023) (Thomas van der Velden).dosz">
-		<description>Harmony Compatible</description>
+	<game name="Doom II - Harmony Compatible (2023) (Thomas van der Velden).dosz">
+		<description>Doom II - Harmony Compatible</description>
 		<year>2023</year>
 		<developer>Thomas van der Velden</developer>
 		<parent>Doom II Mod Base.dosz</parent>
@@ -490,8 +508,8 @@
 		<rom name="HarmonyC.txt" size="16165" crc="f10851aa" md5="b8f04ed915421ca12c91ff5a98700a4c" sha1="e15577d053e8ad16a769d3f987e4624ccbbc3519" date="2023-10-29 08:21:00"/>
 		<rom name="HarmonyC.wad" size="22456593" crc="85eb7525" md5="20d826ad84a15b1e04cb1fb61989b6c0" sha1="955f74aebdf58163465f93ddf9d0f3598e608a0f" date="2023-10-30 09:02:26"/>
 	</game>
-	<game name="Hell to Pay (1996) (Wraith Corporation).dosz">
-		<description>Hell to Pay</description>
+	<game name="Doom II - Hell to Pay (1996) (Wraith Corporation).dosz">
+		<description>Doom II - Hell to Pay</description>
 		<year>1996</year>
 		<developer>Wraith Corporation</developer>
 		<parent>Doom II Mod Base.dosz</parent>
@@ -515,24 +533,218 @@
 		<rom name="HTPDMO19.WAD" size="23744" crc="0c988c95" md5="979c06bd61752f0029cb7c224fa7a0e2" sha1="6084484f255ce8e79f4a21d705087ba4f44e3e51" date="1996-03-07 14:01:46"/>
 		<rom name="HTPRESET.BAT" size="219" crc="a63ba9f0" md5="130aaaff556cfc3998469a8a40edc5d2" sha1="1ce11d50920c1abc7a15bcfa13f292ef606b42c1" date="1996-04-08 11:58:52"/>
 	</game>
-	<game name="Lost Episodes of Doom, The (1995) (Christen Klie, Bob Carter).dosz">
-		<description>Lost Episodes of Doom, The</description>
+	<game name="Doom II - Master Levels for Doom II (1995) (id Software) (Megawad).dosz">
+		<description>Doom II - Master Levels for Doom II</description>
 		<year>1995</year>
-		<developer>Christen Klie, Bob Carter</developer>
-		<parent>Doom v1.666 Mod Base.dosz</parent>
+		<developer>id Software</developer>
+		<variant>Megawad</variant>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment>Single megawad version from Doom Classic Complete (PSN)</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="MASTER.WAD" size="3479715" crc="6baec89f" md5="84cb8640f599c4a17c8eb526f90d2b7a" sha1="f095f557c9969bafd249710da7675c1bc2e94698"/>
+	</game>
+	<game name="Doom II - Memento Mori (1995) (Various).dosz">
+		<description>Doom II - Memento Mori</description>
+		<year>1995</year>
+		<developer>Various</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/themes/mm/mm_allup</link>
+		<rom name="AUTHORS.TXT" size="3018" crc="e100ab8f" md5="1e57be632174c3300b0a3e6895a8cfc4" sha1="a9886bab7aa045d376b3b05ad1ecd49eef1e02a0" date="1996-02-10 15:15:40"/>
+		<rom name="CHANGES.TXT" size="1149" crc="284fdd8a" md5="735ef9888d23cd86c043da703fe88af2" sha1="10c0dc936344bdfb9b8b958ecc347bebdd72eba2" date="1996-02-10 18:41:18"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="FILE_ID.DIZ" size="507" crc="c76bab2b" md5="2b3872e17a46bc1c173d1f0d77c98d16" sha1="615fa6371a1885e7cb4c31fcce16a3a9216c2326" date="1996-02-22 13:03:44"/>
+		<rom name="MM.TXT" size="2893" crc="de2708d6" md5="39879bc7be4164590bc697ac4a49778e" sha1="81114aef64af753f89bc078f680676d4ff0f79d7" date="1996-02-22 13:05:42"/>
+		<rom name="MM.WAD" size="7825282" crc="38357752" md5="371e532847f2b9ae916db4dce76640d8" sha1="e4be45898b99f4b987110d2db9f5a3284d82dde2" date="1996-02-10 18:24:06"/>
+		<rom name="MMHELP.TXT" size="4868" crc="f25fc849" md5="e4a393db63d1dcf78f8360bda44f17d4" sha1="bf46ebc38bd1d5aa9ab6ea5ffdd9a12e75efb3ec" date="1996-02-10 15:26:28"/>
+		<rom name="MMMUS.WAD" size="885387" crc="ec49a1a5" md5="4b5bc47f4c2af03874d8912dbb455e9b" sha1="afff5912ffef167e695b33b13238cd25e49af66b" date="1995-01-11 18:30:26"/>
+	</game>
+	<game name="Doom II - Memento Mori 2 (1996) (Various).dosz">
+		<description>Doom II - Memento Mori 2</description>
+		<year>1996</year>
+		<developer>Various</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/themes/mm/mm2</link>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="FILE_ID.DIZ" size="440" crc="7b078e6f" md5="f1626d18f76472ee9b48fd9105bbea77" sha1="e639f57c114f5750fc333375a2cd4e9f87047ece" date="1996-07-23 17:35:08"/>
+		<rom name="MM2.BAT" size="32" crc="d0887bcb" md5="0cdc701a7e78a60aa9922998d320c4d4" sha1="bb54807c77f69647e6c30b5801934ae38656ac32" date="1996-07-23 16:38:48"/>
+		<rom name="MM2.TXT" size="42580" crc="8ea8d575" md5="8463b914bcb9263ab0a7d7aa9a577023" sha1="42fbf3716227be9ef653cefeb8bd1b939eca75f4" date="1996-07-27 20:42:48"/>
+		<rom name="MM2.WAD" size="11453000" crc="c2c001a5" md5="83414913d5c5c1685d633b7138cda387" sha1="9a234626593dce411275f1d0cec87d448bcaf77c" date="1996-07-28 02:09:32"/>
+		<rom name="MM2MUS.WAD" size="1075404" crc="e2e42eb8" md5="eee117057694fb3598d18762fe7e83fb" sha1="8c0d0604882387c40f12eb0ac8bc4b3cbeed6024" date="1996-06-16 02:00:00"/>
+	</game>
+	<game name="Doom II - No Rest for the Living (2010) (Nerve Software).dosz">
+		<description>Doom II - No Rest for the Living</description>
+		<year>2010</year>
+		<developer>Nerve Software</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment>Original NERVE.WAD from Doom 3: BFG Edition</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="NERVE.WAD" size="3819855" crc="ad7f9292" md5="967d5ae23daf45196212ae1b605da3b0" sha1="3451288383fb16e196f273d9f85d58c1fda97bf4"/>
+	</game>
+	<game name="Doom II - Perdition's Gate (1996) (Wraith Corporation).dosz">
+		<description>Doom II - Perdition's Gate</description>
+		<year>1996</year>
+		<developer>Wraith Corporation</developer>
+		<parent>Doom II Mod Base.dosz</parent>
 		<comment>
-			Installed from 3.5" floppy disk matching with TGOD ID: 507
-			Demos require Doom v1.666 if run with vanilla EXE
+			Installed from CD matching with TDC entry: Perdition's Gate (1996)(WizardWorks Group, Inc.) [ISO]
+			Install size: Maximum
+			DOS files only
 		</comment>
 		<comment_dosc>Auto start</comment_dosc>
-		<link type="media">https://www.goodolddays.net/en/diskimages/?id=507</link>
-		<rom name="Doom v1.666 Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="JPTR_V40.TXT" size="1629" crc="44610d24" md5="66a45403baa1df339943205cc106fdca" sha1="9c6368712c0283ec6b3be59327d3c0e87b0e082c" date="1994-12-10 12:29:24"/>
-		<rom name="JPTR_V40.WAD" size="2313675" crc="368a45b2" md5="8111f6ea0263a7fcfee5ba3dd06c5554" sha1="9dd7699086f5519c21f4ff24459069e887bb015e" date="1994-12-09 01:31:28"/>
-		<rom name="JUPITER.BAT" size="25" crc="499602ba" md5="01a1b20811d6b3d90d3fc9889cda35f2" sha1="0be027732bf3a28fc4f5035a76ad2834f0c58a5d" date="1994-12-14 12:13:30"/>
+		<rom name="DEUSF.EXE" size="96472" crc="dde8a48d" md5="f681f3ccdaf48cc4e66a7a2a0a9567bf" sha1="c36edca0b6c7aa1b464f0c06181014ffd33476a8" date="1995-12-18 00:19:30"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOM2.WAD" size="21663600" crc="72d2dcaa" md5="153df7d5f1dba93571cf64eab99cbb0a" sha1="96dd9c63269525a8634a59b2a787d21d34a74813"/>
+		<rom name="HELP-PG.COM" size="9648" crc="b6485d12" md5="3c1fc3c48abe1847d9e9e273f63403fa" sha1="4e80fa56f182a740a252db2dea62db4b8ba2e208" date="1996-07-20 20:35:26"/>
+		<rom name="PERDGATE.BAT" size="6167" crc="aa072bde" md5="43f6e99c006d89227b16c28eed16548c" sha1="4fc66081f0ee3a418914a547e585e63e59c4a117" date="1996-04-24 18:11:36"/>
+		<rom name="PERDGATE.TXT" size="2774" crc="871f8e01" md5="575ed83d61816847374037be40c72145" sha1="c2bb7c7241592eaa1a1475a271a953771d4673cb" date="1996-07-20 20:24:32"/>
+		<rom name="PG-PLOT.COM" size="15220" crc="e82789b5" md5="0c06934be2b1acd44eb0d9a3f0fff1b7" sha1="491472e219212f5ecb3b44b34dc0f041aa2ec54b" date="1996-07-20 20:32:54"/>
+		<rom name="PG-RESET.BAT" size="225" crc="2b69bf7f" md5="12bf1949036943a13e49807243acd075" sha1="a61dbf3f5cc7105e91ff21af5fd97e091a1ea06b" date="1996-04-22 19:40:14"/>
+		<rom name="PGDEMO16.WAD" size="29776" crc="f84e30b4" md5="a1bf1cb53930441663231701d5dce766" sha1="ecae7b1d851853dbe02ecca62650344ac1652b7d" date="1996-07-17 09:17:32"/>
+		<rom name="PGDEMO17.WAD" size="29776" crc="40492caa" md5="38718a9618f38b78ba30c7f8892dec31" sha1="8553435b8a95da72f77eb65befbf49210108cd2a" date="1996-07-17 09:17:14"/>
+		<rom name="PGDEMO18.WAD" size="29776" crc="debe7472" md5="43fe4c4fef6ececfe8eecb4a618eab07" sha1="7c2507f9349f7f5a02a2c310c35127bfc4231b1d" date="1996-07-17 09:16:46"/>
+		<rom name="PGDEMO19.WAD" size="29776" crc="66b9686c" md5="0219f6c19d35c7c99168bb16cc653950" sha1="b263a10ce17d65ca953c7ac32923f45c3e41d7fb" date="1996-07-17 09:06:36"/>
 	</game>
-	<game name="Marine's Best Friend (1998) (Lee Killough).dosz">
-		<description>Marine's Best Friend</description>
+	<game name="Doom II - Pirate Doom II (2024) (Darch).dosz">
+		<description>Doom II - Pirate Doom II</description>
+		<year>2024</year>
+		<developer>Darch</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/pd2</link>
+		<rom name="credits.txt" size="2762" crc="3eb6e46c" md5="cca1281f049a18d7404de3649779d34b" sha1="bc9342595d5489e24bf03bdd84cb78ff08c1f18f"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="PD2.txt" size="2731" crc="4337052f" md5="75d11f04990125ae5ba1345ebc9e0993" sha1="c1b37a6b8e7b6a541f013aa241628bd5d866c055"/>
+		<rom name="PD2.wad" size="97322926" crc="a9788c5c" md5="31358e38e916499c55511614044e2020" sha1="5d2953f167c9983907b6dd28cc3e8e3899bba91d"/>
+		<rom name="readme.txt" size="1455" crc="5eb38f36" md5="3f9854e8b5ab187f6ba43c179931d212" sha1="8c20a07a42cf5fa98bcc71237544461fc2670f4d"/>
+	</game>
+	<game name="Doom II - Requiem (1997) (Various).dosz">
+		<description>Doom II - Requiem</description>
+		<year>1997</year>
+		<developer>Various</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/requiem</link>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="FILE_ID.DIZ" size="349" crc="5743c938" md5="6dc7b6ec09b7005598a298902f6b0f74" sha1="1512c6d0da09f187771fc0c6468c6c3e9a96ae2a" date="1997-07-05 17:59:18"/>
+		<rom name="REQMUS.WAD" size="855889" crc="3c681bc4" md5="dee390a1a5f38a6d58697de1f27bd6f8" sha1="b2678ead7b8a9f800d63bb2af5a31a9642c425d5" date="1997-07-01 17:32:06"/>
+		<rom name="REQNOMUS.BAT" size="23" crc="1cb641dd" md5="83318b6c3fb004c80b8cbde2c359ce3c" sha1="9b58361f2b4f61ce399d941bd30b61967a960d27" date="1997-07-01 17:38:24"/>
+		<rom name="REQUIEM.BAT" size="34" crc="e4e6181d" md5="b1d7ab6cc92b6a6f3de4c51ab5569d2d" sha1="13dc4c3a948dd6de1a355c74b4c3d87df33e11e7" date="1997-07-01 17:38:30"/>
+		<rom name="REQUIEM.TXT" size="27324" crc="6c9ba484" md5="e06f0122fd47e609a03d7eb7f39fbd35" sha1="f4fb04430f203fc8c8bf1267685a354e0b525015" date="1997-07-05 18:05:02"/>
+		<rom name="REQUIEM.WAD" size="11464486" crc="6b2f4a1d" md5="f5bdfb5a32ead6f8c642fc13555074de" sha1="fd314d239e9a8528cca069c83ff3cc2bef6fabc5" date="1997-07-05 17:56:42"/>
+	</game>
+	<game name="Doom II - Scythe (2003) (Erik Alm, Kim Bach).dosz">
+		<description>Doom II - Scythe</description>
+		<year>2003</year>
+		<developer>Erik Alm, Kim Bach</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/scythe</link>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="scythe.txt" size="5093" crc="f953e4ca" md5="8646b1ed2416d7eda90647e467528d36" sha1="421f6710e97aa1d298f41fefc5c8ef70b80b69bb" date="2003-04-09 17:11:42"/>
+		<rom name="SCYTHE.WAD" size="6215556" crc="bff265f7" md5="3131213a9413a604c5c160848ddb3d9d" sha1="3ec1d6c5537f4204d48ce661182e7fbd044d5f6b" date="2003-04-10 06:12:54"/>
+	</game>
+	<game name="Doom II - Scythe 2 (2005) (Erik Alm).dosz">
+		<description>Doom II - Scythe 2</description>
+		<year>2005</year>
+		<developer>Erik Alm</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/scythe2</link>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="scythe2.txt" size="9052" crc="d804a108" md5="c82bb721a447f892b1e3338ef5bc3136" sha1="d87a84fd3868d57668f9f7ec70972624c8f91a48" date="2009-07-09 20:34:16"/>
+		<rom name="scythe2.wad" size="31285404" crc="2f42f495" md5="1f939d6bcc6175eb9830645d7acb8aa9" sha1="706e1f25ab7efbac85f13bf5362babf5d2e433f0" date="2009-07-10 16:29:44"/>
+	</game>
+	<game name="Doom II - Scythe X (2009) (Erik Alm).dosz">
+		<description>Doom II - Scythe X</description>
+		<year>2009</year>
+		<developer>Erik Alm</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/s-u/scythex</link>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="scythex.deh" size="11256" crc="6660e730" md5="994f3593268a40f4b686ca4d22c664fc" sha1="8a761c86ee97e77d52f0b50725e97b60eb3c1e3a" date="2009-09-01 19:12:58"/>
+		<rom name="scythex.txt" size="5029" crc="cc8cf8df" md5="0f4b1126b151126b5bc92c62bfaa6128" sha1="4b5a6a84383c1254606f45bda8d6417dc1ba9cc0" date="2009-09-03 20:22:38"/>
+		<rom name="scythex.wad" size="22984554" crc="2dd8fa4f" md5="17a77143f035978b4115474c00a6bc5b" sha1="82f50499f8c507e5d10d4ea6744e07d606d0d428" date="2009-09-03 09:37:14"/>
+	</game>
+	<game name="Doom II Mod Base.dosz">
+		<description>Doom II Mod Base</description>
+		<parent>Doom Engine.dosz</parent>
+		<comment>Minimal files from Doom II v1.9. Can be installed from CD matching with Redump: Doom II (USA) (v1.9)</comment>
+		<link type="media">http://redump.org/disc/62840/</link>
+		<rom name="Doom Engine.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOM2.EXE" size="709905" crc="be91c727" md5="e2382b7dc47ae2433d26b6e6bc312999" sha1="aa0668fae2f743ee5e3e5634ee42d3c8ace7d907"/>
+		<rom name="DOOM2.WAD" size="14604584" crc="ec8725db" md5="25e1459ca71d321525f84628f45ca8cd" sha1="7ec7652fcfce8ddc6e801839291f0e28ef1d5ae7"/>
+		<rom name="SETUP.EXE" size="45745" crc="0025fe95" md5="675564fcd380f5ef9beb0e7b21a51f79" sha1="f8644ace438896f9a788629d8da869bd34926f91"/>
+	</game>
+	<game name="Doom II v1.666 Mod Base.dosz">
+		<description>Doom II v1.666 Mod Base</description>
+		<parent>Doom Engine.dosz</parent>
+		<comment>Sometimes needed for demos in old vanilla wads. Can be installed from CD matching with Redump: Doom II (USA)</comment>
+		<link type="media">http://redump.org/disc/18391/</link>
+		<rom name="Doom Engine.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOM2.EXE" size="687001" crc="5f7ede6f" md5="22e3fc7854f030df977d26faf1e342be" sha1="67e14e8e7809d80ee0d2da3a8082457f534e17d2" date="1994-08-29 19:56:54"/>
+		<rom name="DOOM2.WAD" size="14943400" crc="e2a683bd" md5="30e3c2d0350b67bfbf47271970b74b2f" sha1="6d559b7ceece4f5ad457415049711992370d520a" date="1994-08-29 19:56:54"/>
+		<rom name="SETUP.EXE" size="92726" crc="7f186cb6" md5="8ce92aa9269dd3add04b6d37c71f1d24" sha1="5bb1606196558901b5db6c90da8b17494f539c3f" date="1994-08-29 19:56:54"/>
+	</game>
+	<game name="Doom II v1.7 Mod Base.dosz">
+		<description>Doom II v1.7 Mod Base</description>
+		<parent>Doom Engine.dosz</parent>
+		<comment>Sometimes needed for demos in old vanilla wads. Can be installed from CD matching with Redump: Doom II (USA) (v1.7)</comment>
+		<link type="media">http://redump.org/disc/25732/</link>
+		<rom name="Doom Engine.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOM2.EXE" size="686993" crc="9116ce4c" md5="ef9a1f197d56a174097a2af3ccdd7403" sha1="c50791dd82355bdcd52b590c91106661498aabd3" date="1994-09-21 18:38:08"/>
+		<rom name="DOOM2.WAD" size="14612688" crc="47daeb2e" md5="ea74a47a791fdef2e9f2ea8b8a9da13b" sha1="78009057420b792eacff482021db6fe13b370dcc" date="1994-09-21 18:38:08"/>
+		<rom name="SETUP.EXE" size="92726" crc="7f186cb6" md5="8ce92aa9269dd3add04b6d37c71f1d24" sha1="5bb1606196558901b5db6c90da8b17494f539c3f" date="1994-09-21 18:38:08"/>
+	</game>
+	<game name="Doom Mod Base.dosz">
+		<description>Doom Mod Base</description>
+		<parent>Doom Engine.dosz</parent>
+		<comment>Minimal files from Ultimate Doom v1.9. Can be installed from CD matching with Redump: Ultimate Doom, The (USA)</comment>
+		<link type="media">http://redump.org/disc/4427/</link>
+		<rom name="Doom Engine.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOM.EXE" size="715493" crc="b5ceb8ac" md5="742a5f9953871687341e3794468894d8" sha1="64e6df0ee478868b42d5eb7d443430283b0ddc0c"/>
+		<rom name="DOOM.WAD" size="12408292" crc="bf0eaac0" md5="c4fe9fd920207691a9f493668e0a2083" sha1="9b07b02ab3c275a6a7570c3f73cc20d63a0e3833"/>
+		<rom name="SETUP.EXE" size="46665" crc="9a6be6d8" md5="729df5c0727cd290c1c34ffd29a04490" sha1="4664dbf04047a7b1733fed3654e6dd6b25b1613a"/>
+	</game>
+	<game name="Doom Series Mod Base.dosz">
+		<description>Doom Series Mod Base</description>
+		<comment>Used as a base for individual source ports. Minimal files from Ultimate Doom, Doom II, and Final Doom. Needs DOS.YML with mem_size: 65536</comment>
+		<link type="media">http://redump.org/disc/28674/</link>
+		<rom name="DOOM.WAD" size="12408292" crc="bf0eaac0" md5="c4fe9fd920207691a9f493668e0a2083" sha1="9b07b02ab3c275a6a7570c3f73cc20d63a0e3833"/>
+		<rom name="DOOM2.WAD" size="14604584" crc="ec8725db" md5="25e1459ca71d321525f84628f45ca8cd" sha1="7ec7652fcfce8ddc6e801839291f0e28ef1d5ae7"/>
+		<rom name="DOS.YML" size="17" crc="9e2ade80" md5="5e4e9514ccbed110c66ed799f2b0c449" sha1="7ff552bf9a73a8ba6fe5089d140c63e3d6be659c" data="bWVtX3NpemU6IDY1NTM2DQo="/>
+		<rom name="PLUTONIA.WAD" size="18240172" crc="15cd1448" md5="3493be7e1e2588bc9c8b31eab2587a04" sha1="f131cbe1946d7fddb3caec4aa258c83399c21e60"/>
+		<rom name="TNT.WAD" size="18654796" crc="d4bb05c0" md5="1d39e405bf6ee3df69a8d2646c8d5c49" sha1="4a65c8b960225505187c36040b41a40b152f8f3e"/>
+	</game>
+	<game name="Doom Source Port - Boom (1998) (TeamTNT).dosz">
+		<description>Doom Source Port - Boom</description>
+		<year>1998</year>
+		<developer>TeamTNT</developer>
+		<parent>Doom Series Mod Base.dosz</parent>
+		<comment>v2.02</comment>
+		<comment_dosc>Sound Blaster 16 config</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/themes/TeamTNT/boom/boom202</link>
+		<rom name="ABOUT.TXT" size="1372" crc="05c2554c" md5="0b3c646b63468551051ea2f775d221df" sha1="19ac4a706c368a3b9249ba35942270448babc61d" date="1999-10-09 17:03:54"/>
+		<rom name="ASETUP.EXE" size="238752" crc="41dbbb0e" md5="b484fc0b71e22b51e67c26a2d66feaa8" sha1="0870e25f1c90b1add0f6eed46930e45915a6ce3e" date="1998-04-06 09:34:06"/>
+		<rom name="BOOM.EXE" size="453496" crc="8b51fcf1" md5="4dd1091ef987c3941a619d1d7b154244" sha1="959369a884764081d32fda622d06b5b66e47d3a5" date="1999-10-09 17:06:50"/>
+		<rom name="BOOM.TXT" size="50915" crc="ef6b75c2" md5="804e2d1f9921223b085220dde4bd5cf2" sha1="447eff124edfc5d7b97f7cf33f77d8fab1299024" date="1999-10-09 17:35:32"/>
+		<rom name="BOOMDEH.TXT" size="111755" crc="39d8d19f" md5="ea78c0d7295280c05ea7c44041571374" sha1="1c6af93aed2a08eaee92628a300fee74207a3931" date="1998-09-14 07:59:36"/>
+		<rom name="BOOMREF.TXT" size="101801" crc="b3703d40" md5="9bf787ff589a9b9b333b48720b52137c" sha1="77e4aa848f401d160bcc25402304e7cab3cdb9b0" date="1998-10-20 01:17:36"/>
+		<rom name="COPYING" size="18445" crc="29c91be7" md5="155e6318a36dd84df99cb5d41b4ae3f0" sha1="c5d76dff23914c557b008c1870309ede7f7d3a02" date="1999-10-08 12:21:32"/>
+		<rom name="CWSDPMI.EXE" size="20473" crc="80fa6999" md5="da922d33e83c4ca711a92e59f2c6a9fc" sha1="3de2eb058ed95a0bbe7f19eae24f77a025b2e3bb" date="1997-10-19 21:48:14"/>
+		<rom name="Doom Series Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="GO32-V2.EXE" size="62468" crc="803b2e81" md5="e17de130701f36bdb2b1c85baefc73d5" sha1="df25dd135bb517fb175761991140e07a071de873" date="1996-08-12 22:57:26"/>
+		<rom name="IPXBOOM.EXE" size="26976" crc="6bddb164" md5="459e459d7cc62dce186edc5a8b8de6fc" sha1="af5196669a231fe37686272c3de90f7f3b8ace16" date="1998-04-06 09:34:06"/>
+		<rom name="KEYCODE.EXE" size="52920" crc="a7253c1d" md5="4a21582ebf40f6a5bfbdd8d3e20cb676" sha1="1da28ec1cc8760417a7aeba91dae928c8f5c7d17" date="1998-04-06 09:34:06"/>
+		<rom name="SERBOOM.EXE" size="58732" crc="72c94d7e" md5="4965195c6260a90ea7e905cdafb7048a" sha1="a9ca4dac679116ed6ef59a7a39d0093c111e4461" date="1998-09-08 19:33:24"/>
+		<rom name="SNDDRVR.TXT" size="9490" crc="438c4c61" md5="f0a7ce55388bf15efb57811cd92b3d35" sha1="0316510437f835b0b8f6e4a27e55f35e8ddbdae1" date="1998-05-12 09:09:38"/>
+	</game>
+	<game name="Doom Source Port - Marine's Best Friend (1998) (Lee Killough).dosz">
+		<description>Doom Source Port - Marine's Best Friend</description>
 		<year>1998</year>
 		<developer>Lee Killough</developer>
 		<parent>Doom Series Mod Base.dosz</parent>
@@ -574,8 +786,8 @@
 		<rom name="README.1ST" size="695" crc="5e71a53d" md5="d2cc1bfda5ff90456d1d2348c25596c2" sha1="2979a91ee0ceafe0ba7353e50cc98e3bd42ca6f2" date="1999-01-02 11:56:54"/>
 		<rom name="SNDDRVR.TXT" size="9282" crc="2b8aafd3" md5="fdfad02a68447f94c8fe58af0139d24d" sha1="3502672622fde69ca5939687aa94d7b308c97f12" date="1998-05-12 11:41:06"/>
 	</game>
-	<game name="Marine's Best Friend SNM (2019) (Sakitoshi).dosz">
-		<description>Marine's Best Friend SNM</description>
+	<game name="Doom Source Port - Marine's Best Friend SNM (2019) (Sakitoshi).dosz">
+		<description>Doom Source Port - Marine's Best Friend SNM</description>
 		<year>2019</year>
 		<developer>Sakitoshi</developer>
 		<parent>Doom II (1994) (id Software).dosz</parent>
@@ -621,128 +833,43 @@
 		<rom name="SNDDRVR.TXT" size="9282" crc="2b8aafd3" md5="fdfad02a68447f94c8fe58af0139d24d" sha1="3502672622fde69ca5939687aa94d7b308c97f12" date="1998-05-12 11:41:06"/>
 		<rom name="TRANMAP.DAT" size="65793" crc="3ef2025d" md5="6ccff68ad1930aabb15601e269c34913" sha1="0033762aec68cafe9a3c6f83129fcb0cf75e15d8" date="2019-06-07 19:31:14"/>
 	</game>
-	<game name="Master Levels for Doom II (1995) (id Software) (Megawad).dosz">
-		<description>Master Levels for Doom II</description>
-		<year>1995</year>
-		<developer>id Software</developer>
-		<variant>Megawad</variant>
-		<parent>Doom II Mod Base.dosz</parent>
-		<comment>Single megawad version from Doom Classic Complete (PSN)</comment>
-		<comment_dosc>Auto start</comment_dosc>
-		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="MASTER.WAD" size="3479715" crc="6baec89f" md5="84cb8640f599c4a17c8eb526f90d2b7a" sha1="f095f557c9969bafd249710da7675c1bc2e94698"/>
+	<game name="Doom v1.2 Mod Base.dosz">
+		<description>Doom v1.2 Mod Base</description>
+		<parent>Doom Engine.dosz</parent>
+		<comment>Sometimes needed for demos in old vanilla wads. Can be installed from 3.5" floppy disks matching with TGOD ID: 569</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=569</link>
+		<rom name="Doom Engine.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOM.EXE" size="580391" crc="7734c756" md5="3f9591955116ed548f2e331586e8d816" sha1="1405dbfce801b22cd5c8079947e17f48c73c913e" date="1994-02-17 01:20:00"/>
+		<rom name="DOOM.WAD" size="10399316" crc="a5da8930" md5="792fd1fea023d61210857089a7c1e351" sha1="b5f86a559642a2b3bdfb8a75e91c8da97f057fe6" date="1994-02-17 01:20:00"/>
+		<rom name="SETUP.EXE" size="91931" crc="db8b4f8b" md5="8167c20b553e59c1c46f4b079d3f83e8" sha1="5784b4c498817b6d18a489d61921e15c8d02d5d8" date="1994-02-17 01:20:00"/>
 	</game>
-	<game name="Memento Mori (1995) (Various).dosz">
-		<description>Memento Mori</description>
-		<year>1995</year>
-		<developer>Various</developer>
-		<parent>Doom II Mod Base.dosz</parent>
-		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://www.doomworld.com/idgames/themes/mm/mm_allup</link>
-		<rom name="AUTHORS.TXT" size="3018" crc="e100ab8f" md5="1e57be632174c3300b0a3e6895a8cfc4" sha1="a9886bab7aa045d376b3b05ad1ecd49eef1e02a0" date="1996-02-10 15:15:40"/>
-		<rom name="CHANGES.TXT" size="1149" crc="284fdd8a" md5="735ef9888d23cd86c043da703fe88af2" sha1="10c0dc936344bdfb9b8b958ecc347bebdd72eba2" date="1996-02-10 18:41:18"/>
-		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="FILE_ID.DIZ" size="507" crc="c76bab2b" md5="2b3872e17a46bc1c173d1f0d77c98d16" sha1="615fa6371a1885e7cb4c31fcce16a3a9216c2326" date="1996-02-22 13:03:44"/>
-		<rom name="MM.TXT" size="2893" crc="de2708d6" md5="39879bc7be4164590bc697ac4a49778e" sha1="81114aef64af753f89bc078f680676d4ff0f79d7" date="1996-02-22 13:05:42"/>
-		<rom name="MM.WAD" size="7825282" crc="38357752" md5="371e532847f2b9ae916db4dce76640d8" sha1="e4be45898b99f4b987110d2db9f5a3284d82dde2" date="1996-02-10 18:24:06"/>
-		<rom name="MMHELP.TXT" size="4868" crc="f25fc849" md5="e4a393db63d1dcf78f8360bda44f17d4" sha1="bf46ebc38bd1d5aa9ab6ea5ffdd9a12e75efb3ec" date="1996-02-10 15:26:28"/>
-		<rom name="MMMUS.WAD" size="885387" crc="ec49a1a5" md5="4b5bc47f4c2af03874d8912dbb455e9b" sha1="afff5912ffef167e695b33b13238cd25e49af66b" date="1995-01-11 18:30:26"/>
+	<game name="Doom v1.666 Mod Base.dosz">
+		<description>Doom v1.666 Mod Base</description>
+		<parent>Doom Engine.dosz</parent>
+		<comment>Sometimes needed for demos in old vanilla wads. Can be installed from 3.5" floppy disks matching with TGOD ID: 662</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=662</link>
+		<rom name="Doom Engine.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOM.EXE" size="687001" crc="084677c4" md5="be2d05789beb3b56692a2ccd83f8c510" sha1="be2799fcdd36df85f81d87fca03b28d86d611e46" date="1994-09-01 16:42:00"/>
+		<rom name="DOOM.WAD" size="11159840" crc="f756aab5" md5="54978d12de87f162b9bcc011676cb3c0" sha1="2e89b86859acd9fc1e552f587b710751efcffa8e" date="1994-09-01 16:42:00"/>
+		<rom name="SETUP.EXE" size="95184" crc="2a5941e1" md5="498e840007a4d18605c2facca4c55769" sha1="f098bdc1ff72a3c862761c0de8b3714905558365" date="1994-09-01 16:42:00"/>
 	</game>
-	<game name="Memento Mori 2 (1996) (Various).dosz">
-		<description>Memento Mori 2</description>
-		<year>1996</year>
-		<developer>Various</developer>
-		<parent>Doom II Mod Base.dosz</parent>
-		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://www.doomworld.com/idgames/themes/mm/mm2</link>
-		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="FILE_ID.DIZ" size="440" crc="7b078e6f" md5="f1626d18f76472ee9b48fd9105bbea77" sha1="e639f57c114f5750fc333375a2cd4e9f87047ece" date="1996-07-23 17:35:08"/>
-		<rom name="MM2.BAT" size="32" crc="d0887bcb" md5="0cdc701a7e78a60aa9922998d320c4d4" sha1="bb54807c77f69647e6c30b5801934ae38656ac32" date="1996-07-23 16:38:48"/>
-		<rom name="MM2.TXT" size="42580" crc="8ea8d575" md5="8463b914bcb9263ab0a7d7aa9a577023" sha1="42fbf3716227be9ef653cefeb8bd1b939eca75f4" date="1996-07-27 20:42:48"/>
-		<rom name="MM2.WAD" size="11453000" crc="c2c001a5" md5="83414913d5c5c1685d633b7138cda387" sha1="9a234626593dce411275f1d0cec87d448bcaf77c" date="1996-07-28 02:09:32"/>
-		<rom name="MM2MUS.WAD" size="1075404" crc="e2e42eb8" md5="eee117057694fb3598d18762fe7e83fb" sha1="8c0d0604882387c40f12eb0ac8bc4b3cbeed6024" date="1996-06-16 02:00:00"/>
-	</game>
-	<game name="NJ Doom (1994) (Nigel Rowand).dosz">
-		<description>NJ Doom</description>
-		<year>1994</year>
-		<developer>Nigel Rowand</developer>
-		<parent>Doom v1.666 Mod Base.dosz</parent>
-		<comment>Demos require Doom v1.666 if run with vanilla EXE</comment>
-		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://www.doomworld.com/idgames/levels/doom/megawads/njdoom</link>
-		<rom name="Doom v1.666 Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="GREETS.NJD" size="2228" crc="1ef17b37" md5="ba4615d3db613ffcd37ab1c97257067d" sha1="bf83a754d7ba2c56a0da446b81ea0a37680a8f76" date="1994-11-17 23:05:44"/>
-		<rom name="LEVELS.NJD" size="5834" crc="0e1e76f5" md5="d3b318fcc04ed2196c3aea73b2889f70" sha1="59ffe3bc6073993dc45187f77e18835798af23b8" date="1994-11-26 21:54:22"/>
-		<rom name="NJDOOM.BAT" size="32" crc="a5c39466" md5="48a475392842c18e04f5a41c1d8808de" sha1="fa01c4064834cab543af9000b59ab424b026912d" date="1994-11-17 23:45:48"/>
-		<rom name="njdoom.txt" size="9071" crc="15ff2279" md5="8614e86460d05d69ad73e588f9e20660" sha1="75f5fae42ef7493ecfca35174300212a598aaf83" date="2006-03-15 20:39:46"/>
-		<rom name="NJDOOM1.NJD" size="3060" crc="73847920" md5="cda8f9c0d47bc2844a5b5b8173eee687" sha1="40e593cb941c7d8710747f9d767e5f670b7bb151" date="1994-11-24 23:51:10"/>
-		<rom name="NJDOOM1.WAD" size="3804458" crc="5b8465e1" md5="0a114cd20b6fc5a2ef671d8962113bf4" sha1="8e7e417cfabdef658c1b98dd5ccd2e9b796ecd06" date="1994-11-27 20:00:18"/>
-		<rom name="READ.ME" size="238" crc="52c3aa97" md5="401d61e9f37b53b3678e2db9dc6856a5" sha1="1e828d123bfd149123840aeac855e8ecd2a88ed8" date="1994-11-18 00:18:16"/>
-	</game>
-	<game name="No Rest for the Living (2010) (Nerve Software).dosz">
-		<description>No Rest for the Living</description>
-		<year>2010</year>
-		<developer>Nerve Software</developer>
-		<parent>Doom II Mod Base.dosz</parent>
-		<comment>Original NERVE.WAD from Doom 3: BFG Edition</comment>
-		<comment_dosc>Auto start</comment_dosc>
-		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="NERVE.WAD" size="3819855" crc="ad7f9292" md5="967d5ae23daf45196212ae1b605da3b0" sha1="3451288383fb16e196f273d9f85d58c1fda97bf4"/>
-	</game>
-	<game name="Perdition's Gate (1996) (Wraith Corporation).dosz">
-		<description>Perdition's Gate</description>
-		<year>1996</year>
-		<developer>Wraith Corporation</developer>
-		<parent>Doom II Mod Base.dosz</parent>
-		<comment>
-			Installed from CD matching with TDC entry: Perdition's Gate (1996)(WizardWorks Group, Inc.) [ISO]
-			Install size: Maximum
-			DOS files only
-		</comment>
-		<comment_dosc>Auto start</comment_dosc>
-		<rom name="DEUSF.EXE" size="96472" crc="dde8a48d" md5="f681f3ccdaf48cc4e66a7a2a0a9567bf" sha1="c36edca0b6c7aa1b464f0c06181014ffd33476a8" date="1995-12-18 00:19:30"/>
-		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="DOOM2.WAD" size="21663600" crc="72d2dcaa" md5="153df7d5f1dba93571cf64eab99cbb0a" sha1="96dd9c63269525a8634a59b2a787d21d34a74813"/>
-		<rom name="HELP-PG.COM" size="9648" crc="b6485d12" md5="3c1fc3c48abe1847d9e9e273f63403fa" sha1="4e80fa56f182a740a252db2dea62db4b8ba2e208" date="1996-07-20 20:35:26"/>
-		<rom name="PERDGATE.BAT" size="6167" crc="aa072bde" md5="43f6e99c006d89227b16c28eed16548c" sha1="4fc66081f0ee3a418914a547e585e63e59c4a117" date="1996-04-24 18:11:36"/>
-		<rom name="PERDGATE.TXT" size="2774" crc="871f8e01" md5="575ed83d61816847374037be40c72145" sha1="c2bb7c7241592eaa1a1475a271a953771d4673cb" date="1996-07-20 20:24:32"/>
-		<rom name="PG-PLOT.COM" size="15220" crc="e82789b5" md5="0c06934be2b1acd44eb0d9a3f0fff1b7" sha1="491472e219212f5ecb3b44b34dc0f041aa2ec54b" date="1996-07-20 20:32:54"/>
-		<rom name="PG-RESET.BAT" size="225" crc="2b69bf7f" md5="12bf1949036943a13e49807243acd075" sha1="a61dbf3f5cc7105e91ff21af5fd97e091a1ea06b" date="1996-04-22 19:40:14"/>
-		<rom name="PGDEMO16.WAD" size="29776" crc="f84e30b4" md5="a1bf1cb53930441663231701d5dce766" sha1="ecae7b1d851853dbe02ecca62650344ac1652b7d" date="1996-07-17 09:17:32"/>
-		<rom name="PGDEMO17.WAD" size="29776" crc="40492caa" md5="38718a9618f38b78ba30c7f8892dec31" sha1="8553435b8a95da72f77eb65befbf49210108cd2a" date="1996-07-17 09:17:14"/>
-		<rom name="PGDEMO18.WAD" size="29776" crc="debe7472" md5="43fe4c4fef6ececfe8eecb4a618eab07" sha1="7c2507f9349f7f5a02a2c310c35127bfc4231b1d" date="1996-07-17 09:16:46"/>
-		<rom name="PGDEMO19.WAD" size="29776" crc="66b9686c" md5="0219f6c19d35c7c99168bb16cc653950" sha1="b263a10ce17d65ca953c7ac32923f45c3e41d7fb" date="1996-07-17 09:06:36"/>
-	</game>
-	<game name="Pirate Doom II (2024) (Darch).dosz">
-		<description>Pirate Doom II</description>
-		<year>2024</year>
-		<developer>Darch</developer>
-		<parent>Doom II Mod Base.dosz</parent>
-		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/pd2</link>
-		<rom name="credits.txt" size="2762" crc="3eb6e46c" md5="cca1281f049a18d7404de3649779d34b" sha1="bc9342595d5489e24bf03bdd84cb78ff08c1f18f"/>
-		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="PD2.txt" size="2731" crc="4337052f" md5="75d11f04990125ae5ba1345ebc9e0993" sha1="c1b37a6b8e7b6a541f013aa241628bd5d866c055"/>
-		<rom name="PD2.wad" size="97322926" crc="a9788c5c" md5="31358e38e916499c55511614044e2020" sha1="5d2953f167c9983907b6dd28cc3e8e3899bba91d"/>
-		<rom name="readme.txt" size="1455" crc="5eb38f36" md5="3f9854e8b5ab187f6ba43c179931d212" sha1="8c20a07a42cf5fa98bcc71237544461fc2670f4d"/>
-	</game>
-	<game name="Plutonia 2 (2008) (Plutonia 2 Team).dosz">
-		<description>Plutonia 2</description>
+	<game name="Final Doom - Plutonia 2 (2008) (Plutonia 2 Team).dosz">
+		<description>Final Doom - Plutonia 2</description>
 		<year>2008</year>
 		<developer>Plutonia 2 Team</developer>
-		<parent>Plutonia Experiment Mod Base.dosz</parent>
+		<parent>Final Doom - Plutonia Experiment Mod Base.dosz</parent>
 		<comment>v1.0</comment>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/pl2</link>
+		<rom name="Final Doom - Plutonia Experiment Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="PL2.DEH" size="7359" crc="f51290d9" md5="e1992d75c1ddcd492dd0d50835ffbcb4" sha1="aa4b313dcb1bee7f2d96d2d4fab715ae443c05ed" date="2008-12-31 16:12:26"/>
 		<rom name="PL2.ICO" size="22486" crc="e2bfe5d7" md5="83fde3d43a5ef1cca6992fcb1279072c" sha1="db6aa40b254c2c38c4d2d43a0df1b55d7a4d2c16" date="2008-12-30 02:52:38"/>
 		<rom name="PL2.TXT" size="3915" crc="6ee2c3b7" md5="b3029492beb1dced390651c017851685" sha1="d20259a8b1fde7eb2d6dfb6ce7fe1078a653f71f" date="2008-12-31 13:56:18"/>
 		<rom name="PL2.WAD" size="18131932" crc="9030f6aa" md5="ba0566478ac42bd2c3845fa97098bf70" sha1="4ef41ba4b3c0d39d79fc592b2b258765bca36657" date="2008-12-31 19:50:38"/>
 		<rom name="PL2INFO.TXT" size="66591" crc="51ff9130" md5="cb81c64e8038ed10ecbf941a409d3adb" sha1="bed315d7fc819b30920e5927f8b4613391216957" date="2008-12-31 17:43:22"/>
-		<rom name="Plutonia Experiment Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
-	<game name="Plutonia Experiment Mod Base.dosz">
-		<description>Plutonia Experiment Mod Base</description>
+	<game name="Final Doom - Plutonia Experiment Mod Base.dosz">
+		<description>Final Doom - Plutonia Experiment Mod Base</description>
 		<parent>Doom Engine.dosz</parent>
 		<comment>Minimal files from Final Doom (id Anthology fixed version). Can be installed from CD matching with Redump: id Anthology (USA) (Disc 2) (Doom)</comment>
 		<link type="media">http://redump.org/disc/28674/</link>
@@ -751,113 +878,8 @@
 		<rom name="PLUTONIA.WAD" size="18240172" crc="15cd1448" md5="3493be7e1e2588bc9c8b31eab2587a04" sha1="f131cbe1946d7fddb3caec4aa258c83399c21e60"/>
 		<rom name="SETUP.EXE" size="45745" crc="0025fe95" md5="675564fcd380f5ef9beb0e7b21a51f79" sha1="f8644ace438896f9a788629d8da869bd34926f91"/>
 	</game>
-	<game name="REKKR (2018) (Revae).dosz">
-		<description>REKKR</description>
-		<year>2018</year>
-		<developer>Revae</developer>
-		<parent>Ultimate Doom Mod Base.dosz</parent>
-		<comment>Freeware PWAD version, v1.17.4</comment>
-		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://mockingbirdsoftworks.com/downloads.html</link>
-		<rom name="REK_CREDS.txt" size="4848" crc="082dffa4" md5="5f2cd372f21b8ff4019d151ee38bee74" sha1="623e4e7903fb50ca7776d83e877f69912e9074fb"/>
-		<rom name="REKKR.deh" size="61321" crc="a0772999" md5="53fd4fb66c26da4e342609112ac87f43" sha1="136344e247152a2500bc2c92a45bdceffd6ce310"/>
-		<rom name="REKKR.txt" size="3240" crc="9a18112e" md5="f909ab3ebe1761aecef469bd80259b1d" sha1="6e22846b2f7c9ae6aa2264a259a924553d7efd55"/>
-		<rom name="REKKR.wad" size="41960202" crc="1acde63d" md5="0c5c3e6fc5ec0d72b0bd0455d03989a0" sha1="114bfe1ba0819292ad2b94af048ff9f1c75c9522"/>
-		<rom name="Ultimate Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-	</game>
-	<game name="Requiem (1997) (Various).dosz">
-		<description>Requiem</description>
-		<year>1997</year>
-		<developer>Various</developer>
-		<parent>Doom II Mod Base.dosz</parent>
-		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/requiem</link>
-		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="FILE_ID.DIZ" size="349" crc="5743c938" md5="6dc7b6ec09b7005598a298902f6b0f74" sha1="1512c6d0da09f187771fc0c6468c6c3e9a96ae2a" date="1997-07-05 17:59:18"/>
-		<rom name="REQMUS.WAD" size="855889" crc="3c681bc4" md5="dee390a1a5f38a6d58697de1f27bd6f8" sha1="b2678ead7b8a9f800d63bb2af5a31a9642c425d5" date="1997-07-01 17:32:06"/>
-		<rom name="REQNOMUS.BAT" size="23" crc="1cb641dd" md5="83318b6c3fb004c80b8cbde2c359ce3c" sha1="9b58361f2b4f61ce399d941bd30b61967a960d27" date="1997-07-01 17:38:24"/>
-		<rom name="REQUIEM.BAT" size="34" crc="e4e6181d" md5="b1d7ab6cc92b6a6f3de4c51ab5569d2d" sha1="13dc4c3a948dd6de1a355c74b4c3d87df33e11e7" date="1997-07-01 17:38:30"/>
-		<rom name="REQUIEM.TXT" size="27324" crc="6c9ba484" md5="e06f0122fd47e609a03d7eb7f39fbd35" sha1="f4fb04430f203fc8c8bf1267685a354e0b525015" date="1997-07-05 18:05:02"/>
-		<rom name="REQUIEM.WAD" size="11464486" crc="6b2f4a1d" md5="f5bdfb5a32ead6f8c642fc13555074de" sha1="fd314d239e9a8528cca069c83ff3cc2bef6fabc5" date="1997-07-05 17:56:42"/>
-	</game>
-	<game name="Scythe (2003) (Erik Alm, Kim Bach).dosz">
-		<description>Scythe</description>
-		<year>2003</year>
-		<developer>Erik Alm, Kim Bach</developer>
-		<parent>Doom II Mod Base.dosz</parent>
-		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/scythe</link>
-		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="scythe.txt" size="5093" crc="f953e4ca" md5="8646b1ed2416d7eda90647e467528d36" sha1="421f6710e97aa1d298f41fefc5c8ef70b80b69bb" date="2003-04-09 17:11:42"/>
-		<rom name="SCYTHE.WAD" size="6215556" crc="bff265f7" md5="3131213a9413a604c5c160848ddb3d9d" sha1="3ec1d6c5537f4204d48ce661182e7fbd044d5f6b" date="2003-04-10 06:12:54"/>
-	</game>
-	<game name="Scythe 2 (2005) (Erik Alm).dosz">
-		<description>Scythe 2</description>
-		<year>2005</year>
-		<developer>Erik Alm</developer>
-		<parent>Doom II Mod Base.dosz</parent>
-		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/scythe2</link>
-		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="scythe2.txt" size="9052" crc="d804a108" md5="c82bb721a447f892b1e3338ef5bc3136" sha1="d87a84fd3868d57668f9f7ec70972624c8f91a48" date="2009-07-09 20:34:16"/>
-		<rom name="scythe2.wad" size="31285404" crc="2f42f495" md5="1f939d6bcc6175eb9830645d7acb8aa9" sha1="706e1f25ab7efbac85f13bf5362babf5d2e433f0" date="2009-07-10 16:29:44"/>
-	</game>
-	<game name="Scythe X (2009) (Erik Alm).dosz">
-		<description>Scythe X</description>
-		<year>2009</year>
-		<developer>Erik Alm</developer>
-		<parent>Doom II Mod Base.dosz</parent>
-		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/s-u/scythex</link>
-		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="scythex.deh" size="11256" crc="6660e730" md5="994f3593268a40f4b686ca4d22c664fc" sha1="8a761c86ee97e77d52f0b50725e97b60eb3c1e3a" date="2009-09-01 19:12:58"/>
-		<rom name="scythex.txt" size="5029" crc="cc8cf8df" md5="0f4b1126b151126b5bc92c62bfaa6128" sha1="4b5a6a84383c1254606f45bda8d6417dc1ba9cc0" date="2009-09-03 20:22:38"/>
-		<rom name="scythex.wad" size="22984554" crc="2dd8fa4f" md5="17a77143f035978b4115474c00a6bc5b" sha1="82f50499f8c507e5d10d4ea6744e07d606d0d428" date="2009-09-03 09:37:14"/>
-	</game>
-	<game name="Sigil (2019) (John Romero).dosz">
-		<description>Sigil</description>
-		<year>2019</year>
-		<developer>John Romero</developer>
-		<parent>Ultimate Doom Mod Base.dosz</parent>
-		<comment>Freeware v1.21</comment>
-		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://romero.com/sigil</link>
-		<rom name="SIGIL.wad" size="4640210" crc="f9216574" md5="743d6323cb2b9be24c258ff0fc350883" sha1="e2efdf379e1383c4e15c03de89063361897cd459" date="2019-09-23 19:18:42"/>
-		<rom name="SIGIL_C.wad" size="4634157" crc="b7679050" md5="573f3f178c76709f512089ed15484391" sha1="b5e68950820b3a0385375dbace81376e73568207" date="2019-09-23 19:18:48"/>
-		<rom name="SIGIL_instructions.txt" size="10316" crc="6b7aa748" md5="7464e4a07fb4a0a382e88f6cc7ea847c" sha1="7cd856b28fefb7c21260dadcf4b817af64765f33" date="2019-09-23 19:21:38"/>
-		<rom name="SIGIL_v1_21.txt" size="5030" crc="c0120009" md5="b9f7622bc7cf7b0c3f67274d74b0f4ce" sha1="4b2eadb3288a996e786669cfc16e7d4e5e104682" date="2019-09-20 13:21:32"/>
-		<rom name="Ultimate Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-	</game>
-	<game name="Sigil II (2023) (John Romero).dosz">
-		<description>Sigil II</description>
-		<year>2023</year>
-		<developer>John Romero</developer>
-		<parent>Sigil (2019) (John Romero).dosz</parent>
-		<comment>Freeware v1.0</comment>
-		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://romero.com/sigil</link>
-		<rom name="Sigil (2019) (John Romero).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="SIGIL_II.WAD" size="5632323" crc="d210db36" md5="d0442f5a75f2faef3405c09a0c3acc58" sha1="ad2c6e8367afbeef74e9e09b6b1e4da88c0576b4" date="2023-12-05 22:01:16"/>
-		<rom name="SIGIL_II_README_V1_0.txt" size="9442" crc="dcb4f63b" md5="bbea1e6f433eb9f9e4f7edf1c673ee76" sha1="3f62349fd92b9154f6ea0556e2ef8596d6dad873" date="2023-12-09 14:41:20"/>
-		<rom name="SIGIL_II_V1_0.txt" size="3586" crc="ed412472" md5="122b0992e23ed6a917995dc142c9abae" sha1="b69e087c9a82b4d23785db491e330c15de6b6839" date="2023-12-09 14:13:36"/>
-	</game>
-	<game name="Slaughter Until Death (1994) (The Innocent Crew).dosz">
-		<description>Slaughter Until Death</description>
-		<year>1994</year>
-		<developer>The Innocent Crew</developer>
-		<parent>Doom v1.2 Mod Base.dosz</parent>
-		<comment>Demos require Doom v1.2 if run with vanilla EXE</comment>
-		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://www.doomworld.com/idgames/levels/doom/s-u/sudtic</link>
-		<rom name="Doom v1.2 Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="FILE_ID.DIZ" size="214" crc="3b0432a6" md5="474243cee992358e411bbc6b69f203ac" sha1="89ded93e1e4f0213e60c0e06e46fcfdc2b5d6665" date="1994-06-18 01:08:12"/>
-		<rom name="GO.BAT" size="24" crc="78626894" md5="90ef62ce3a02fde815c1e1aee58df278" sha1="50d42fac7bca8e1a03ae89c55c3d78611c9fb4b8" date="1994-06-21 19:31:46"/>
-		<rom name="NET.BAT" size="296" crc="556cfbba" md5="dcc2ad4677d45641343a9be945444ecb" sha1="d23c1b67960e4d664a2b9329c10e08323b0dd30f" date="1994-06-21 19:38:54"/>
-		<rom name="SUDTIC.TXT" size="3628" crc="ede39aea" md5="611acc29e5145b4e3c7f6a9a3f47125f" sha1="bc2a6faa30733f145444684893abd41da4ddc8a7" date="1994-06-21 19:44:22"/>
-		<rom name="SUDTIC.WAD" size="1734629" crc="8b5abd32" md5="071d86ef2c5e0487a77dec13ac82bbaa" sha1="18061fc85c941769dca78229e37667d5866a2016" date="1994-06-21 19:30:04"/>
-	</game>
-	<game name="TNT - Evilution Mod Base.dosz">
-		<description>TNT - Evilution Mod Base</description>
+	<game name="Final Doom - TNT - Evilution Mod Base.dosz">
+		<description>Final Doom - TNT - Evilution Mod Base</description>
 		<parent>Doom Engine.dosz</parent>
 		<comment>Minimal files from Final Doom (id Anthology fixed version). Can be installed from CD matching with Redump: id Anthology (USA) (Disc 2) (Doom)</comment>
 		<link type="media">http://redump.org/disc/28674/</link>
@@ -866,39 +888,17 @@
 		<rom name="SETUP.EXE" size="45745" crc="0025fe95" md5="675564fcd380f5ef9beb0e7b21a51f79" sha1="f8644ace438896f9a788629d8da869bd34926f91"/>
 		<rom name="TNT.WAD" size="18654796" crc="d4bb05c0" md5="1d39e405bf6ee3df69a8d2646c8d5c49" sha1="4a65c8b960225505187c36040b41a40b152f8f3e"/>
 	</game>
-	<game name="TNT - Revilution (2017) (Various).dosz">
-		<description>TNT - Revilution</description>
+	<game name="Final Doom - TNT - Revilution (2017) (Various).dosz">
+		<description>Final Doom - TNT - Revilution</description>
 		<year>2017</year>
 		<developer>Various</developer>
-		<parent>TNT - Evilution Mod Base.dosz</parent>
+		<parent>Final Doom - TNT - Evilution Mod Base.dosz</parent>
 		<comment>v1.20</comment>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/tntr</link>
-		<rom name="TNT - Evilution Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Final Doom - TNT - Evilution Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="TNTR.deh" size="10372" crc="89d708ed" md5="4bfa7ee31d760b7562c334f7f9f2eee9" sha1="20a251ccdb3be8bc91ce718b7930eb3953eefe12" date="2017-06-28 15:23:30"/>
 		<rom name="TNTR.txt" size="10182" crc="c09743b1" md5="56e65411faa50ad2df4f1618bec92db5" sha1="e1733dcf5a2e2aca467ea0946ff4220435cc569a" date="2017-07-08 08:17:46"/>
 		<rom name="TNTR.wad" size="28776797" crc="e15dafac" md5="b7340738930264eb37e124c17bdbe290" sha1="2a7456427b701a5488c0da41fd104fcb0d20dbfe" date="2017-06-29 14:42:04"/>
-	</game>
-	<game name="Ultimate Doom Mod Base.dosz">
-		<description>Ultimate Doom Mod Base</description>
-		<parent>Doom Engine.dosz</parent>
-		<comment>Minimal files from Ultimate Doom v1.9. Can be installed from CD matching with Redump: Ultimate Doom, The (USA)</comment>
-		<link type="media">http://redump.org/disc/4427/</link>
-		<rom name="Doom Engine.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="DOOM.EXE" size="715493" crc="b5ceb8ac" md5="742a5f9953871687341e3794468894d8" sha1="64e6df0ee478868b42d5eb7d443430283b0ddc0c"/>
-		<rom name="DOOM.WAD" size="12408292" crc="bf0eaac0" md5="c4fe9fd920207691a9f493668e0a2083" sha1="9b07b02ab3c275a6a7570c3f73cc20d63a0e3833"/>
-		<rom name="SETUP.EXE" size="46665" crc="9a6be6d8" md5="729df5c0727cd290c1c34ffd29a04490" sha1="4664dbf04047a7b1733fed3654e6dd6b25b1613a"/>
-	</game>
-	<game name="Ultimate Doom the Way id Did (2019) (Various).dosz">
-		<description>Ultimate Doom the Way id Did</description>
-		<year>2019</year>
-		<developer>Various</developer>
-		<parent>Doom the Way id Did (2011) (Various).dosz</parent>
-		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://www.doomworld.com/idgames/levels/doom/s-u/udtwid</link>
-		<rom name="Doom the Way id Did (2011) (Various).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="UDTWiD.deh" size="2064" crc="5d2e44ab" md5="a3412688819795ad0dad331c7f6424d1" sha1="970a077ebd9843a15eaf1e96c45f84662cb1b806" date="2018-11-26 11:27:00"/>
-		<rom name="UDTWiD.txt" size="4255" crc="db79e592" md5="026930b97b2c99634891eb2caa507525" sha1="8730a52bca74464cfc99674184ffce120d5cfe12" date="2019-02-16 22:12:00"/>
-		<rom name="UDTWiD.wad" size="2015266" crc="4ec29ddd" md5="c04696a6abda5ed345b040065e2934c6" sha1="20f06479c9aad7a883fd103b5736352ead6fa289" date="2019-02-11 23:12:10"/>
 	</game>
 </datafile>
