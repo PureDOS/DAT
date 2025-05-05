@@ -85,6 +85,27 @@
 		<link type="media">https://www.goodolddays.net/en/diskimages/?id=821</link>
 		<rom name="disk1.img" size="1474560" crc="64f15085" md5="19bbd10144742052a4b99a8923cb9855" sha1="f0ed16b665ad2378c59c1d1d9370479ca2eb494e"/>
 	</game>
+	<game name="Metaltech - Earthsiege (1994) (Dynamix) (Installation).dosz">
+		<description>Metaltech - Earthsiege</description>
+		<comment>v1.0</comment>
+		<link type="media">http://redump.org/disc/27572/</link>
+		<year>1994</year>
+		<developer>Dynamix</developer>
+		<variant>Installation</variant>
+		<rom name="EarthSiege (USA).chd" size="61023744" crc="3c933446" md5="f8676197a24f203dc510369011c4e8f0" sha1="04db4cd10e127c2148127857f3be6b13686bbcc8">
+			<track number="1" type="MODE1_RAW" frames="24920" pregap="0" duration="05:32:20" size="58611840" crc="5b80ffd9" md5="cec34832b6c1ef27691430edd056f888" sha1="0db67fd95a75032c54ae63eb1b1a7d3345c1f9f1" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
+	<game name="Metaltech - Earthsiege - Expansion Pack (1995) (Dynamix) (Installation).dosz">
+		<description>Metaltech - Earthsiege - Expansion Pack</description>
+		<link type="media">http://redump.org/disc/94529/</link>
+		<year>1995</year>
+		<developer>Dynamix</developer>
+		<variant>Installation</variant>
+		<rom name="EarthSiege - Expansion Pack (USA).chd" size="161293824" crc="eecf19cb" md5="1b753749b4d21de388a512c9e2c655c0" sha1="1bbf38d76b180a83e5ae455ca630a101ab3bb92f">
+			<track number="1" type="MODE1_RAW" frames="65872" pregap="0" duration="14:38:22" size="154930944" crc="552050c4" md5="89eaa48f6ca73bbbb23526ff5e3bddd2" sha1="7ea6f149a46c173a8ede40a4383f99e5c186133e" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
 	<game name="Mines of Titan (1989) (Westwood Studios) (Installation).dosz">
 		<description>Mines of Titan</description>
 		<comment>Floppies matching TGOD ID 3302</comment>
