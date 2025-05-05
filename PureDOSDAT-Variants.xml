@@ -26,8 +26,9 @@
 		<developer>Wraith Corporation</developer>
 		<variant>Installation</variant>
 		<link type="media">http://redump.org/disc/26192/</link>
-		<rom name="Hell to Pay (USA).bin" size="82232976" crc="b3f41c64" md5="b5342350a00172d21a4b49a31591c813" sha1="aa6b461c8c6793a6e4178c61e8f1189738c51da9"/>
-		<rom name="Hell to Pay (USA).cue" size="106" crc="68bf5ead" md5="a908a491f8b2258181ce4f5cb21d5887" sha1="694011e396c3edaf89fcb3f75fd5d8e1e83a2f16"/>
+		<rom name="Hell to Pay (USA).chd" size="85621248" crc="d8826acb" md5="dd4f6463e6e1aa2c6226acf754b132f2" sha1="31e70e121a1f5501b2dc1b071cd3038a65cfca93">
+			<track number="1" type="MODE1_RAW" frames="34963" pregap="0" duration="07:46:13" size="82232976" crc="b3f41c64" md5="b5342350a00172d21a4b49a31591c813" sha1="aa6b461c8c6793a6e4178c61e8f1189738c51da9"/>
+		</rom>
 	</game>
 	<game name="Jazz Jackrabbit (1994) (Epic MegaGames) (v1.3).dosz">
 		<description>Jazz Jackrabbit</description>
@@ -96,7 +97,9 @@
 		<developer>Wraith Corporation</developer>
 		<variant>Installation</variant>
 		<comment>Matches with TDC entry: Perdition's Gate (1996)(WizardWorks Group, Inc.) [ISO]</comment>
-		<rom name="cd.iso" size="14493696" crc="a0ddb02a" md5="5681f9cb457aa8e50f3aeb816699ec5e" sha1="1d73978bc497d9980bbfbda48e53ad8bd30b3d71"/>
+		<rom name="Perdition's Gate (1996)(WizardWorks Group, Inc.) [ISO].chd" size="17312256" crc="c0c5d01f" md5="ff4b5f8511528b0c1bfa959fc45f4b40" sha1="c88fe913013a262c328478b767c8fd59b74dfe2e">
+			<track number="1" type="MODE1" frames="7077" pregap="0" duration="01:34:27" size="14493696" crc="a0ddb02a" md5="5681f9cb457aa8e50f3aeb816699ec5e" sha1="1d73978bc497d9980bbfbda48e53ad8bd30b3d71"/>
+		</rom>
 	</game>
 	<game name="Quake (1996) (id Software) (GOG).dosz">
 		<description>Quake</description>
