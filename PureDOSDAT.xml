@@ -5654,11 +5654,14 @@
 	</game>
 	<game name="Crystal Caves (1991) (Apogee Software).dosz">
 		<description>Crystal Caves</description>
-		<comment>Installed v1.0 from CD, then patched to v1.0a (cc10apt.zip). Patcher may need Windows 9x or XP. Also matches with GOG</comment>
+		<comment>Installed v1.0a from floppy release. Alternative is to install v1.0 from CD or floppy then patch to v1.0a (cc10apt.zip). Patcher may need Windows 9x or XP. Also matches with GOG</comment>
 		<comment_dosc>Auto start</comment_dosc>
 		<year>1991</year>
 		<developer>Apogee Software</developer>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1835</link>
+		<link type="patch">ftp://ftp.3drealms.com/patches/cc10apt.zip</link>
 		<link type="patch">https://archive.org/details/ftp.3drealms.com-20090517</link>
+		<link type="store">https://www.gog.com/en/game/crystal_caves</link>
 		<rom name="CC1-1.SND" size="7320" crc="4b469c40" md5="6be53a3d1297e3284be3a05d2221e50d" sha1="08372b6a43fbd3c9171df22036dc31732de2ce5f" date="1991-11-11 13:00:02"/>
 		<rom name="CC1-2.SND" size="7320" crc="623318a6" md5="28b7fbaaad8336cb7114f1bd8d89a3e4" sha1="5047087828f7c5e43190ab448aa9f853de44b691" date="1991-11-11 13:00:06"/>
 		<rom name="CC1-3.SND" size="7320" crc="272a69f7" md5="e3a22ded451c3ba8e4be1a84b6f603d9" sha1="f8adbe9578c4ee5a80d24a022886c766ca2b0995" date="1991-11-11 13:00:32"/>
