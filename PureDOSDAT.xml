@@ -8250,6 +8250,29 @@
 		<rom name="SERSETUP.EXE" size="20273" crc="91f13fa1" md5="b0aa869d620e8d6d943431cb1ed4abf6" sha1="e8cc947c1440f9bc838b25d1d271bf5a7ab85064"/>
 		<rom name="SETUP.EXE" size="44820" crc="257e9407" md5="88c88bc09078b4d943c54893aea65b81" sha1="81dae45320eea3947543013ceb81335bb8740365"/>
 	</game>
+	<game name="Hexen - Deathkings of the Dark Citadel (1996) (Raven Software).dosz">
+		<description>Hexen - Deathkings of the Dark Citadel</description>
+		<year>1996</year>
+		<developer>Raven Software</developer>
+		<parent>Hexen - Beyond Heretic (1995) (Raven Software).dosz</parent>
+		<comment>
+			Installed v1.0 from CD matching with Redump: Hexen - Deathkings of the Dark Citadel (USA) (Rev 1)
+			Then patched to v1.1
+			LOCATION.STR needs to be edited to DRIVE=C and DIR=\
+		</comment>
+		<comment_dosc>Required LOCATION.STR file and auto start</comment_dosc>
+		<link type="media">http://redump.org/disc/1942/</link>
+		<link type="patch">https://www.doomworld.com/idgames/idstuff/hexen/dkpatch</link>
+		<rom name="Hexen - Beyond Heretic (1995) (Raven Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="HEXENDK/DM.DAT" size="565" crc="292cceb7" md5="b47caef07378dc9b5036c82111801579" sha1="498642cedf90e9b24bb47332b8d7e79b3f3d82a9" date="1996-03-22 01:00:00"/>
+		<rom name="HEXENDK/DM.DOC" size="7336" crc="eadd44a3" md5="81ac3a091b3e96337c48033caf6a1b59" sha1="7fcb16276ebdb1525cbd1a09b67101968f6e5f60" date="1996-03-22 01:00:00"/>
+		<rom name="HEXENDK/DM.EXE" size="34815" crc="08f3cbc5" md5="ea9928974c35cfe74879d8a72ac9df29" sha1="c2d24dd853dbd72ce910fb167a762766bf4e04a8" date="1996-03-22 01:00:00"/>
+		<rom name="HEXENDK/HEXDD.WAD" size="4440584" crc="fd5eb11d" md5="78d5898e99e220e4de64edaa0e479593" sha1="081f6a2024643b54ef4a436a85508539b6d20a1e" date="1996-05-09 17:34:02"/>
+		<rom name="HEXENDK/HEXENDK.EXE" size="12299" crc="fe876c72" md5="71e5d1a8dcea0f7f19117b12f4a78c46" sha1="13acc412714397c6635b7a3af6236619b2d5c261" date="1996-03-22 01:00:00"/>
+		<rom name="HEXENDK/LICENSE.DOC" size="9088" crc="e7b011ce" md5="46344617b722cb0783ecba40c0040b02" sha1="ce713a30004760010595dfaa77aecd55af16a9b8" date="1996-03-22 01:00:00"/>
+		<rom name="HEXENDK/LOCATION.STR" size="31" crc="880a11a8" md5="e17cc8012695c9f3bb493eb6f05c6497" sha1="8db19c01948c61e81c6ca092b5525f398f5042db" data="RFJJVkU9Qw0KRElSPVwNCkVYRT1IRVhFTi5FWEUNCg=="/>
+		<rom name="HEXENDK/README.TXT" size="2244" crc="1bf2a626" md5="63e600716855e29be4096c9d318c0b2a" sha1="7c79cce8c60c3ba58a6f158a0985b52b57910e5b" date="1996-07-05 10:39:42"/>
+	</game>
 	<game name="Hexen II + Hammer of Thyrion (1997) (Raven Software).dosz">
 		<description>Hexen II + Hammer of Thyrion</description>
 		<comment>Hexen II v1.11 with Hammer of Thyrion v1.5.9. Needs DOS.YML with mem_size: 65536</comment>
