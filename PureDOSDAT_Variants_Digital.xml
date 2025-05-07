@@ -506,11 +506,11 @@
 	</game>
 	<game name="Heroes of Might and Magic (1995) (New World Computing) (GOG).dosz">
 		<description>Heroes of Might and Magic</description>
-		<comment>v1.2. Needs GOG's default HEROES.CFG</comment>
-		<comment_dosc>Required HEROES.CFG and auto start</comment_dosc>
 		<year>1995</year>
 		<developer>New World Computing</developer>
 		<variant>GOG</variant>
+		<comment>v1.2. Needs GOG's default HEROES.CFG. It's included in the DOSC, or can be generated with DoDAT using the embedded data</comment>
+		<comment_dosc>Required HEROES.CFG and auto start</comment_dosc>
 		<link type="store">https://www.gog.com/en/game/heroes_of_might_and_magic</link>
 		<rom name="DATA/ADRV688.DIG" size="11278" crc="96dfb75d" md5="feabc78729e3a458ae2f6ab40146f0d9" sha1="255ecb5d649895d65bca49bd6afcbdf875e34bf2"/>
 		<rom name="DATA/CAMPAIGN.HS" size="870" crc="1f77b1e2" md5="2019f0cfa4691e8f5d97c4e1fbab58a1" sha1="9cd760a6bf71d185db09f42eb70672167ef18393"/>
@@ -529,7 +529,7 @@
 		<rom name="DATA/ULTRA.DIG" size="9478" crc="430d67f5" md5="000e584a06712d2f2b58eb2e17b65248" sha1="4327d6bb924b4e40fa7ff035bdfb73a879c31836"/>
 		<rom name="DATA/UMID.DIG" size="2301" crc="a4b55815" md5="daed08f29c289edbbb2ec08a716d12b8" sha1="28ce79f1d9013c6e705f85d3e37ad2ef2afd2513"/>
 		<rom name="GAMES/TUTORIAL.GM1" size="77663" crc="7ab85fb5" md5="1520b7dc4c022da3165661f3f005372b" sha1="844379f9b57863e3688d9ce1b2454e742d0d3ece"/>
-		<rom name="HEROES.CFG" size="137" crc="8283e5a6" md5="bed00fcd297114d87cf9fceaab88bc97" sha1="8a9c0344b7eadc1780a3a3d9de67ca61f59579d4"/>
+		<rom name="HEROES.CFG" size="137" crc="8283e5a6" md5="bed00fcd297114d87cf9fceaab88bc97" sha1="8a9c0344b7eadc1780a3a3d9de67ca61f59579d4" data="YwAAAAAAAAAAAAAAAAAAAAAAAAAACAAQBCMIAfgDAAAGAwFBVFoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="/>
 		<rom name="HEROES.EXE" size="1222987" crc="80eef853" md5="9a81e824a43053df546eda3d178e0f6e" sha1="6f252317fe41318738b9d3dd7c3aef732b726387"/>
 		<rom name="homm1.iso" size="457375744" crc="abde42bb" md5="49e52ad35e06cd357a8aabece5f288bc" sha1="1199990b720b0b1f954eef3b34df427e41b7fc41"/>
 		<rom name="MAPS/AES31000.MAP" size="59984" crc="9bd3fc36" md5="5c7ab3aba16bbf87085e4f338c357c48" sha1="4558860cf9d4085b1c0d48822bb56b10a8aa44b2"/>
@@ -566,11 +566,11 @@
 	</game>
 	<game name="Heroes of Might and Magic II - The Price of Loyalty (1997) (New World Computing) (GOG).dosz">
 		<description>Heroes of Might and Magic II - The Price of Loyalty</description>
-		<comment>v2.1</comment>
-		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
 		<year>1997</year>
 		<developer>New World Computing</developer>
 		<variant>GOG</variant>
+		<comment>v2.1</comment>
+		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
 		<link type="store">https://www.gog.com/en/game/heroes_of_might_and_magic_2_gold_edition</link>
 		<rom name="DATA/CAMPAIGN.HS" size="1000" crc="aa8c8320" md5="16fe1a41d58b7806760a82048e8a2ba6" sha1="134d95b76a5734520256e6d4bb0790d1048b1f27"/>
 		<rom name="DATA/H2XINTRO.SMK" size="2560400" crc="15ae20a6" md5="a76f00b9f1119580b428edb48a173108" sha1="3b446b4516a1d13436955f77aea5dd86e98f7a09"/>
