@@ -5231,192 +5231,196 @@
 		<comment>
 			Fully voiced version. Installed from CD matching with Redump: Might and Magic - World of Xeen (USA) (Disc 1)
 			Minimal install size was used.
-			CD image converted with CHDtoOGG
+			CD images converted with CHDtoOGG
 		</comment>
 		<comment_dosc>Sound Blaster config and auto start. MT-32 and General MIDI options</comment_dosc>
 		<link type="media">http://redump.org/disc/20403/</link>
 		<link type="media">http://redump.org/disc/20404/</link>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 1).bin" size="61067328" crc="a1639f75" md5="be8326ab0776a2a7a52be23d87c909c9" sha1="e787798d859ba5d27ad49e77c14d8be03c621d94"/>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 2).ogg" size="3393426" crc="ea50b240" md5="4fb38bb565875df18f782726265dd61f" sha1="ea40eeb6206ebcc6cd0da39d99895ad4d86976e5">
-			<source frames="11510" pregap="149" duration="02:33:35" size="26721072" crc="b4ed1796" md5="55767265b5f25fcede4fc59462055e05" sha1="e0faa7a52558cbb09b6b42cb48ffe80ac145bd79" in_zeros="3620" out_zeros="1" trimmed_crc="602ed9e3" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 1).bin" size="61067328" crc="a1639f75" md5="be8326ab0776a2a7a52be23d87c909c9" sha1="e787798d859ba5d27ad49e77c14d8be03c621d94">
+			<source type="MODE1_RAW" frames="25964" duration="05:46:14"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 3).ogg" size="420420" crc="06874a90" md5="4b14e83e2335918edc4f934667612fad" sha1="278257e796da0aae87c50479ed9da3257af7fdae">
-			<source frames="1509" pregap="153" duration="00:20:09" size="3189312" crc="79fb7bb8" md5="06088d3f0fce5d5d1302894aa1b65652" sha1="600d634f39fca5c4e73468bbaa76551a3930a3d5" in_zeros="0" out_zeros="16585" trimmed_crc="9b0989d6" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 2).ogg" size="3393426" crc="ea50b240" md5="4fb38bb565875df18f782726265dd61f" sha1="ea40eeb6206ebcc6cd0da39d99895ad4d86976e5">
+			<source type="AUDIO" frames="11361" omitted_pregap="149" duration="02:31:36" size="26721072" crc="b4ed1796" md5="55767265b5f25fcede4fc59462055e05" sha1="e0faa7a52558cbb09b6b42cb48ffe80ac145bd79" in_zeros="3620" out_zeros="1" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 4).ogg" size="981815" crc="b9383219" md5="fee7062ef51594f2adaf02a7ded8c105" sha1="215830c60d9417b9e989f75229910d9f4ef5bef5">
-			<source frames="3321" pregap="145" duration="00:44:21" size="7469952" crc="fc3ccd33" md5="2a33f6082c501a8fb28280d27c88699f" sha1="a7abb236637ab45739fdd327ddc31a655e1c7ddd" in_zeros="0" out_zeros="21088" trimmed_crc="efaaa583" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 3).ogg" size="423792" crc="9f1e9e17" md5="49cf707655f293a77ae71f68e663b99b" sha1="ca4f7bf4ed5406e5d3dea025c1c21816c6b776f5">
+			<source type="AUDIO" frames="1356" omitted_pregap="153" duration="00:18:06" size="3189312" crc="7126552e" md5="b71a2e10a0997b57a3acd0ba5e9001fb" sha1="2d1dee704319f95ec7de9d6276b0b3f83b418fda" in_zeros="0" out_zeros="14233" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 5).ogg" size="530899" crc="d34fe33b" md5="03a237867c729f7de0697de1dab45643" sha1="55a1f9489e35014e98aff18b31e337924179eb2b">
-			<source frames="1922" pregap="143" duration="00:25:47" size="4184208" crc="e7949463" md5="645ef154fc45a9c59ca8febfd72c4563" sha1="f9b02b85ff0ab5e139985e45d429bc33295c1c9a" in_zeros="0" out_zeros="2353" trimmed_crc="685c7cea" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 4).ogg" size="980698" crc="446bfbd3" md5="2ba0adf3bbc787945aab270a1870a287" sha1="4a494e6a411ace8654746316c90357686ab2bd67">
+			<source type="AUDIO" frames="3176" omitted_pregap="145" duration="00:42:26" size="7469952" crc="a09bfc5d" md5="f42a21ab39f8d51a6c773606cf2e601a" sha1="a6ce5c35f2c52204658f345dc82d7d8d3221590e" in_zeros="0" out_zeros="18736" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 6).ogg" size="998095" crc="4dba7c42" md5="1e318152bd1369532a0a38b3fc136aaa" sha1="184ce9e3cc8df0e15bf90a8b3a6a132c8d2da2f8">
-			<source frames="3335" pregap="157" duration="00:44:35" size="7474656" crc="f0ca6c7a" md5="d633e9eb356440e463623ee1b5a5d75a" sha1="954333aa1b5a35d494821c1488aa06ad202c2613" in_zeros="0" out_zeros="2353" trimmed_crc="e2f270bf" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 5).ogg" size="527171" crc="33b6ad4f" md5="a82b7bb3c72e652edcf2a49927a748a4" sha1="4cfb81e331dd481b58bd306807e2a8306459df12">
+			<source type="AUDIO" frames="1779" omitted_pregap="143" duration="00:23:54" size="4184208" crc="ee21d921" md5="62e62f84dca8de8d89cc4e3525b315df" sha1="1d93cc81b45eb6aa18d47d163100a4dc109c2ff8" in_zeros="0" out_zeros="1" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 7).ogg" size="3038739" crc="24231465" md5="118241b8926338f8e242266afa3a7147" sha1="dd0ed41e2e725faf16f86b5cc7eb0eafcff88e34">
-			<source frames="10105" pregap="157" duration="02:14:55" size="23397696" crc="9c9b4b76" md5="12575fab61ae0e28ab1f9dd3d89d4653" sha1="a3afdf0872b2c7226e3b1d4e5d6fc4f28ff712b9" in_zeros="0" out_zeros="10041" trimmed_crc="2b495165" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 6).ogg" size="989175" crc="64487735" md5="c06087f0d3a150414bbd5c6c7d1dc33d" sha1="9d675e3131e84358514b8b3379a0352cafef27cc">
+			<source type="AUDIO" frames="3178" omitted_pregap="157" duration="00:42:28" size="7474656" crc="b8de7255" md5="3d524829534fe3809c72fa6d4cc571b2" sha1="aa862efdd92470d134f5916b47373f6570fb687a" in_zeros="0" out_zeros="1" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 8).ogg" size="340417" crc="f13713c4" md5="62dc9abf6df0dcd3dccacd90e45b3cba" sha1="c0e9b1489dbf1891cdda31715bc5e4a788cde53f">
-			<source frames="1160" pregap="148" duration="00:15:35" size="2380224" crc="fe7186e5" md5="127d3fdd6ce334ef2886651f9e438e50" sha1="4642abcdf008e16c42aa155e38d6a1e2b9017de9" in_zeros="0" out_zeros="21729" trimmed_crc="59dcf8ca" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 7).ogg" size="3037318" crc="ffe00e86" md5="0639f17f7cd9def4e26a098c7685426f" sha1="24374b63e14d45d1e31665d12e43a2e2ea19a69d">
+			<source type="AUDIO" frames="9948" omitted_pregap="157" duration="02:12:48" size="23397696" crc="6607d020" md5="a59a3511a28141f29e5d6ac455f948b3" sha1="6631dda6c6478c596bd643a1527900597bdc5105" in_zeros="0" out_zeros="7689" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 9).ogg" size="268116" crc="505e122c" md5="68cc67f38bcd6231abb00e7634ed30ed" sha1="b7e6299dda8d4d25c3ebf155cd2f507e3e236345">
-			<source frames="915" pregap="143" duration="00:12:15" size="1815744" crc="9fceb270" md5="72fcc2f060f08409062eefb39c7fe6df" sha1="55fa96b87e13209407e8a7225f0afe9e3d159273" in_zeros="0" out_zeros="6920" trimmed_crc="42a05b2b" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 8).ogg" size="341170" crc="8f525112" md5="fab8a0f6dc54c9f203fa03a8ba53b710" sha1="1e77061f4135e44efdd44b2d7fec556d740761e4">
+			<source type="AUDIO" frames="1012" omitted_pregap="148" duration="00:13:37" size="2380224" crc="c4a65c6f" md5="e2a267276eff5711154b8acb722192a4" sha1="60f59b99aed06e85de032b6d320dacf8637963b1" in_zeros="0" out_zeros="19377" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 10).ogg" size="3011032" crc="0321c36c" md5="2876dda26f2d43a51cb098e490c4866a" sha1="d6cec7bbab50980772ce9a23973a89673e368d8e">
-			<source frames="6958" pregap="149" duration="01:32:58" size="16014768" crc="3eb23723" md5="a21c3538941ca783cbef2d008bf872ce" sha1="e8b953e6c1134b5ef0a51ced5517896faaf5a827" in_zeros="0" out_zeros="2352" trimmed_crc="7dd42c8d" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 9).ogg" size="259753" crc="e5dabefb" md5="65e916df766a48fdb5fea26ca2205e7f" sha1="53dc4507b477fe4259c344f468ced00a0fcb2c41">
+			<source type="AUDIO" frames="772" omitted_pregap="143" duration="00:10:22" size="1815744" crc="df01b66e" md5="c50456408a36c4122fb1a71ab59c8cd8" sha1="37918532cb453a2063814595e0087423ab99f770" in_zeros="0" out_zeros="4568" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 11).ogg" size="1487475" crc="dc5f35a8" md5="9d16ecc2de649bf1e2ad7c1893bd96a7" sha1="4310db2076c4dea86c320d132140e495739f640e">
-			<source frames="4415" pregap="157" duration="00:58:65" size="10014816" crc="5fc51bb9" md5="94bc0139040c225e50a30f3687808281" sha1="04c59a7d045755e334494c816384c5431e7ba157" in_zeros="0" out_zeros="6297" trimmed_crc="cf693181" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 10).ogg" size="2999491" crc="2258b9b8" md5="18046fa07ee8dff3be7da2f2a848f288" sha1="958995d205d544a6e68d00ee9a3c02eb23bf4e3f">
+			<source type="AUDIO" frames="6809" omitted_pregap="149" duration="01:30:59" size="16014768" crc="d3b57266" md5="5e2ea16b3312868bc42e4cd360be7522" sha1="826f54043b5fe3280efd166c794ba9170a15520d" in_zeros="0" out_zeros="0" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 12).ogg" size="462737" crc="f80e0ad6" md5="33460653fb385e2963606e6ebe4f07a6" sha1="8595888f7d1fab162ed4062dd9b38614ec30709d">
-			<source frames="1401" pregap="149" duration="00:18:51" size="2944704" crc="5e5da58f" md5="b5a8cb0787d375f0f9c653d1d6012f35" sha1="3220e02a1b0609e3d960a8a355aec167478e12c6" in_zeros="0" out_zeros="7645" trimmed_crc="16c04b8e" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 11).ogg" size="1496438" crc="50009206" md5="a149a064662b9b4beba94dd8b6051613" sha1="bd48437f96de0e41233afa19dd4e83e23d8176c0">
+			<source type="AUDIO" frames="4258" omitted_pregap="157" duration="00:56:58" size="10014816" crc="1d22c7ba" md5="a49faddaf8159280077c638abd886a9c" sha1="9ea903a28076d961922eac3d1c044874208dd8f1" in_zeros="0" out_zeros="3945" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 13).ogg" size="1326444" crc="d884bf3f" md5="83061eb2c7edce0b8c635c71050a8f0b" sha1="07f812411bf596d51ecece60c7626716c41dd9bb">
-			<source frames="4366" pregap="149" duration="00:58:16" size="9918384" crc="8bc1418e" md5="2a79396c152c21afb4e233b3917d7e2f" sha1="5199e166c63fa309cfc642b5b1f3aba2743fd2b4" in_zeros="0" out_zeros="12725" trimmed_crc="434f0355" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 12).ogg" size="472782" crc="e80f973f" md5="5b7b5bb46ac57ed9b7e6951af304be35" sha1="c60878780f0e50e72c9e04b0d0e5d425952a5262">
+			<source type="AUDIO" frames="1252" omitted_pregap="149" duration="00:16:52" size="2944704" crc="4a20e3d9" md5="939e613f0fc9e6f14a0c80cb3ffd4d7d" sha1="a92d6ed1ba3dcd0b9248cc00db23f0cb87b907f8" in_zeros="0" out_zeros="5293" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 14).ogg" size="1160279" crc="b4bcc109" md5="f26ddda3a568ae5a383e5ce31ea745d6" sha1="c9cd223ee24b9ea10ace3c93db99820c8d3f0da9">
-			<source frames="3152" pregap="147" duration="00:42:02" size="7067760" crc="cf102e4e" md5="8b92dc48e3750190cfe481a0777f3b78" sha1="89b781b7f66b147cbc342eba328a55e7b0d82dc9" in_zeros="0" out_zeros="4997" trimmed_crc="150a0f61" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 13).ogg" size="1336470" crc="6f90ccc9" md5="c3efb7968630df895f65a20f3286288c" sha1="db6a03ec48684ca91ac42e61554f29a2af9211da">
+			<source type="AUDIO" frames="4217" omitted_pregap="149" duration="00:56:17" size="9918384" crc="f8fafa26" md5="edd6f517fe5d7c5517cc83a75375f830" sha1="0dd7dd8db8033bc58b694a982aaae926bf719124" in_zeros="0" out_zeros="10373" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 15).ogg" size="81079" crc="0827097c" md5="51b080283d2c4ca93eecd9b13bc65e88" sha1="3dd2c0bb72f86ab5f967a4c69706ad44e276e5c0">
-			<source frames="473" pregap="150" duration="00:06:23" size="759696" crc="510b6ec2" md5="f6923e08c3989e70a96e57c090632806" sha1="39d22205d800dda45adffeaa7d075d9259815751" in_zeros="121948" out_zeros="104060" trimmed_crc="22966dd1" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 14).ogg" size="1165081" crc="a68deb11" md5="b7e233071212ab775ffcab066763ff6e" sha1="f1db274918e0b602b3147ac301709b7dd81cb66a">
+			<source type="AUDIO" frames="3005" omitted_pregap="147" duration="00:40:05" size="7067760" crc="04aa361c" md5="63507260cab2b950a5429c29ea9d3037" sha1="504be775de0473cf9c5b16792776be1fc0b9a35a" in_zeros="0" out_zeros="2645" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 16).ogg" size="4659849" crc="7f065d61" md5="7465ac24e6dd61be7e79ee987086210b" sha1="51c252ceecd40a366070dc5255e1df9315c1fe17">
-			<source frames="14581" pregap="152" duration="03:14:31" size="33937008" crc="a3760d40" md5="969f22d969277c6bb3e06e47101f8edb" sha1="da7108babb95e8bfee0a844b0e7096bf6f1bb981" in_zeros="0" out_zeros="2353" trimmed_crc="28e930f2" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 15).ogg" size="81079" crc="0827097c" md5="51b080283d2c4ca93eecd9b13bc65e88" sha1="3dd2c0bb72f86ab5f967a4c69706ad44e276e5c0">
+			<source type="AUDIO" frames="323" omitted_pregap="150" duration="00:04:23" size="759696" crc="510b6ec2" md5="f6923e08c3989e70a96e57c090632806" sha1="39d22205d800dda45adffeaa7d075d9259815751" in_zeros="121948" out_zeros="104060" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 17).ogg" size="2285082" crc="e211569a" md5="11c7a6e53a0afdf897ceed5f9d90c51e" sha1="ac9944252bfb09155d8ddfd46e528f0171bed633">
-			<source frames="7112" pregap="152" duration="01:34:62" size="16369920" crc="8365893a" md5="8711dac25676681aa8d7105452028c48" sha1="5f2efeba8efced75502e29f4e4310d7be8d1801d" in_zeros="0" out_zeros="2353" trimmed_crc="45750285" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 16).ogg" size="4653665" crc="6c7b9dcf" md5="dea968a11b844fffe45ed45d5d17f0f8" sha1="05dd2100e80247a77c7715acf817d2ddcda1ecfe">
+			<source type="AUDIO" frames="14429" omitted_pregap="152" duration="03:12:29" size="33937008" crc="063666d0" md5="88fb597df83a85b259635df6147f68e1" sha1="3d4804c03b3f67644d6e741c1da3ab78bf16e85b" in_zeros="0" out_zeros="1" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 18).ogg" size="905061" crc="03ac1dfc" md5="5522c8dcae319b478ebac0a35b2deefa" sha1="2f7b77289baed7bde2380c467b216754ebd953c8">
-			<source frames="2559" pregap="157" duration="00:34:09" size="5649504" crc="450ef197" md5="b5496d428c7002966b697bed4dedde49" sha1="7f8c805291ebde52aaa6a95e05fad717a8726eee" in_zeros="0" out_zeros="2352" trimmed_crc="2e8ee3d7" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 17).ogg" size="2309393" crc="4f77c046" md5="690018f9c1cb87cd9c5e585b8aaf6308" sha1="68e40d1feb977e1123ebd2ced1ed60f341c69e5e">
+			<source type="AUDIO" frames="6960" omitted_pregap="152" duration="01:32:60" size="16369920" crc="a78b38ac" md5="c99cafe15e83ccc14877b803f953513d" sha1="162d1652c3526d54bf0c8643e45fbb8a1ec72487" in_zeros="0" out_zeros="1" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 19).ogg" size="5978470" crc="e8b551d8" md5="a1b970a25e7d8b5ed49a809597ca9500" sha1="5e72200201fce6af04dce788ccc9e13095fb4488">
-			<source frames="17392" pregap="157" duration="03:51:67" size="40536720" crc="82074642" md5="c1ce81f770cdf7604bad77be638f8c51" sha1="0c9c222119a5751021fa2d412b30b4c5e2465dab" in_zeros="0" out_zeros="21888" trimmed_crc="40c6f247" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 18).ogg" size="896955" crc="588b1a3c" md5="288d7792cb8d221519dc0ae720cf7b29" sha1="35952db7b078de218723c2b8cdb79bb42502b27a">
+			<source type="AUDIO" frames="2402" omitted_pregap="157" duration="00:32:02" size="5649504" crc="d2115f0a" md5="c51c85540f208125c32aa30a187f7bdc" sha1="73d1649ef8a0243ce8fc7eac1fa661e5b0dd7b58" in_zeros="0" out_zeros="0" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 20).ogg" size="151955" crc="1ea8cbfa" md5="5e1c5e25b6bd2d68ea50c0218cc3e304" sha1="313eb4b62fba9aaa60bd526b981d77e2c54a3f19">
-			<source frames="581" pregap="143" duration="00:07:56" size="1030176" crc="d5b52e1f" md5="fe702d1ff9433942232e1ad65dfd4b93" sha1="f79b5e7e2f42092c67a570f5086964af8b3b7b37" in_zeros="0" out_zeros="8236" trimmed_crc="bdf07b76" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 19).ogg" size="5975883" crc="9e313ae2" md5="28c9784243ad58b757c842d92482dc23" sha1="afad8f2e24d4b45cc34ecc53061bf8d8d7fa2375">
+			<source type="AUDIO" frames="17235" omitted_pregap="157" duration="03:49:60" size="40536720" crc="9509087d" md5="21e3ee3e4827d975e3bfc913da40fc88" sha1="3425dff0fce56a145a53ec90be5feafdde82d1b8" in_zeros="0" out_zeros="19536" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 21).ogg" size="2140270" crc="3f4d46d7" md5="14be73ea1e853d02a8606b30c7df19d9" sha1="1f488787dbca5cc9789bae2147a24bba7387cd97">
-			<source frames="5948" pregap="149" duration="01:19:23" size="13639248" crc="17c9924d" md5="ea907bba2262d53aa8759a2a32ccffa9" sha1="12d8c8b1ad44181c2659ffc8c316a946f74a0443" in_zeros="0" out_zeros="12164" trimmed_crc="a09c5f5f" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 20).ogg" size="152462" crc="3192e38c" md5="2f7615697605e42ef76538ed73faf15d" sha1="fbee55fe31e7a5d13f0259334f11d6c93f577d03">
+			<source type="AUDIO" frames="438" omitted_pregap="143" duration="00:05:63" size="1030176" crc="825e9d60" md5="96be3cc6c8ef42708e2b9ef1b7e8c224" sha1="8bbf8486296326dcd90ad6493c346ea8235fa338" in_zeros="0" out_zeros="5884" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 22).ogg" size="2617862" crc="52410ce2" md5="9d0e2fde798baca7f094a38ce4c01c93" sha1="6c01076a417df7c400c37c3619279dc77966269d">
-			<source frames="8084" pregap="147" duration="01:47:59" size="18667824" crc="09357504" md5="8c3cd8a138f47a9f8658774126895fd5" sha1="da98a6d20756491ac1487867934422d08bd17bcf" in_zeros="0" out_zeros="2352" trimmed_crc="1c53c5c1" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 21).ogg" size="2134933" crc="6884e689" md5="869112169a8d93e3b694d24d24cb4a68" sha1="a75c6f62880eebf83898452d38d5f81316c707f8">
+			<source type="AUDIO" frames="5799" omitted_pregap="149" duration="01:17:24" size="13639248" crc="ebcf2a17" md5="d1d3f927c5fbe5bea90dd7da64499f4b" sha1="33e429897fe2e061066ff6538cb31af97f9b03d6" in_zeros="0" out_zeros="9812" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 23).ogg" size="1224592" crc="d3b1e2c4" md5="1452e86fcdfba51ccc33fa3db619e8f9" sha1="55d6524590b02c7aea62bf2d88aac887e2d72f5e">
-			<source frames="3408" pregap="158" duration="00:45:33" size="7644000" crc="086bc509" md5="23f0fff59b4934b5784d08a9bcc34daa" sha1="3cd1ec68e435159bd34b3bfa3dfc22bdeb9b87d4" in_zeros="0" out_zeros="2352" trimmed_crc="78ea2554" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 22).ogg" size="2624565" crc="a7f5cb21" md5="88d15568a5bf07c468502466df502dc0" sha1="085c3299acc80cec7bae34b74ff9d389ec413de3">
+			<source type="AUDIO" frames="7937" omitted_pregap="147" duration="01:45:62" size="18667824" crc="00ad0796" md5="1807c98451218dca56cc4bfd47b66a23" sha1="e3b8d07300bcac493297c0cfd6f5bfe052035a41" in_zeros="0" out_zeros="0" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 24).ogg" size="4219221" crc="0c97a049" md5="df250386ec950cda21010d0e67e1bed7" sha1="7aa6e11e55437baebc6d6556052cce7e436ed9d3">
-			<source frames="10835" pregap="158" duration="02:24:35" size="25112304" crc="d53f6432" md5="495e8da24e7f05803e849bb5c3303622" sha1="a208c3537f93edee0e0d364f3a993001c16d6fc2" in_zeros="0" out_zeros="11556" trimmed_crc="fb61a024" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 23).ogg" size="1241859" crc="c5f5c51c" md5="823c00d8f4a16fba5c3ac7911fdbda97" sha1="c9eabe6fee12d0389e422906b1709bfb20d64c19">
+			<source type="AUDIO" frames="3250" omitted_pregap="158" duration="00:43:25" size="7644000" crc="03c79a2e" md5="00a74ebebb40fa9e3d12f0091d45bf81" sha1="f99ec41b50ad9eb661fbbc8c860e89b0a008bb22" in_zeros="0" out_zeros="0" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 25).ogg" size="2316831" crc="a2c32584" md5="63fc16cd7e43ea7c9c39d5a79050a88a" sha1="ad53d67733f99da7e71a06c9d23ed6545263589e">
-			<source frames="6023" pregap="147" duration="01:20:23" size="13820352" crc="060ce74b" md5="38a34981f142ed7b3b5c000e26e05fc3" sha1="84916f9f2876cfaea35cf46a62f360d8dc2b4c5e" in_zeros="0" out_zeros="9252" trimmed_crc="da060164" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 24).ogg" size="4198531" crc="aec80f33" md5="d8965e6a76f6ffbb1978c18641b1708a" sha1="13230e1a026b986829437f8fa9c1f72756c006c8">
+			<source type="AUDIO" frames="10677" omitted_pregap="158" duration="02:22:27" size="25112304" crc="ca5784ac" md5="c83aaff39bdbfe732d08f4479c36a819" sha1="7d5091e4a6333adaf87cbd6fec2fc76a4a54b670" in_zeros="0" out_zeros="9204" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 26).ogg" size="6683600" crc="efc12f82" md5="ff516492ffbb7a31ff0b6524a3aae946" sha1="a5a6145551b9a3760860ffd9f06c7898b76d7c8b">
-			<source frames="18891" pregap="148" duration="04:11:66" size="44083536" crc="8ecd3ea7" md5="d0d3031cb6ec32baf497d1df73894f93" sha1="44149dd2b99e08fd9119c4a56f77970f31ccadf4" in_zeros="0" out_zeros="2352" trimmed_crc="f1fb7afb" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 25).ogg" size="2274886" crc="3a9a5acc" md5="3088a4ffb7c7022969d22281a0a97238" sha1="0e3e00796b5252ce5718fae26fb08fb2ce385405">
+			<source type="AUDIO" frames="5876" omitted_pregap="147" duration="01:18:26" size="13820352" crc="330102a2" md5="ac42793fd1f528c9263221934a664cd1" sha1="17965ab93ccf1529549d8a45cd0e8b8868b647dd" in_zeros="0" out_zeros="6900" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 27).ogg" size="1585583" crc="ecaf366c" md5="91601479fd4c5d106d02ad759d0eff49" sha1="43571918641b02273e7c00f81ac84c1eae34eb99">
-			<source frames="4401" pregap="156" duration="00:58:51" size="9984240" crc="703a4996" md5="b2dd055c8a6308dd9c9af18b1c293324" sha1="89dfd850ca36b6762ebe79b295070dbbd061aa7b" in_zeros="0" out_zeros="2352" trimmed_crc="091ffea3" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 26).ogg" size="6670073" crc="6a3d710a" md5="f4b3da76b3c6ebc62c3c27a921369d12" sha1="d2d20f783bee3149c4fece693a794903a51a508a">
+			<source type="AUDIO" frames="18743" omitted_pregap="148" duration="04:09:68" size="44083536" crc="bbc20ab5" md5="b49484afca117aa5130e30848197d01f" sha1="ad97542dd0801f363052461c8841d0a5962f2d5c" in_zeros="0" out_zeros="0" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 28).ogg" size="1238523" crc="b0749baf" md5="e75e8a8ee5186a31aa8d4d41c587eba0" sha1="9b179394df5ba0fe54f6a89a6e7e28d34491db64">
-			<source frames="3512" pregap="153" duration="00:46:62" size="7900368" crc="b4449916" md5="b587de5922982edd242c16f77988fce0" sha1="92ca91bd549d1ade1e6bad3e9d93914b68e73b01" in_zeros="0" out_zeros="2352" trimmed_crc="5cceeb53" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 27).ogg" size="1594229" crc="ddfb6088" md5="b3d1a724418e179591a6c04ca96073cd" sha1="3f654c794459dc195927ab8f5e758a8f67656df5">
+			<source type="AUDIO" frames="4245" omitted_pregap="156" duration="00:56:45" size="9984240" crc="f1fb56cc" md5="7a17995165762f1339bf356e8f4a00ad" sha1="44f4c986eedf4009e8067cb0157a134fa6d1d019" in_zeros="0" out_zeros="0" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 29).ogg" size="958536" crc="b9bcff4c" md5="bbecd4373c59604cf3c25ff03dbf2fc5" sha1="c06ebc60d5b2ad25d994c51889e490f70f2b34b6">
-			<source frames="3115" pregap="153" duration="00:41:40" size="6966624" crc="b1fbe06a" md5="4e8590e88ee227a88ca18150a72ddbdb" sha1="67fe71a9a91e871f0e53815df749c63df3d07c73" in_zeros="0" out_zeros="20204" trimmed_crc="5a73c31c" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 28).ogg" size="1247009" crc="6ec3c901" md5="5542aae7435db9b8e6331c8c0ff4c254" sha1="e0ce7d7e55302eeabab06e38a92d3063b680b1db">
+			<source type="AUDIO" frames="3359" omitted_pregap="153" duration="00:44:59" size="7900368" crc="f2ab8037" md5="23d41f27760cc0c4232fc92e84674cb8" sha1="f8c2f34d59b3e0904d24c4e7e6d0295556922083" in_zeros="0" out_zeros="0" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 30).ogg" size="10186009" crc="b826169e" md5="c9fcbe71b1d88a44ebc7a2c93329a840" sha1="4dec4aaae3098fde7f8e847311ccd3395ae80742">
-			<source frames="27140" pregap="144" duration="06:01:65" size="63494592" crc="28f5793f" md5="1beeaa7cb6c249a4bf62000d1b685a54" sha1="a0054e18b056c145641a6b841593fc7bd9260a7d" in_zeros="102952" out_zeros="7341" trimmed_crc="090dc704" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 29).ogg" size="945763" crc="a6d5bf92" md5="90935810ebcf98ac30595358f82a1fa1" sha1="745f99e18b601686e3ad234fbe44e0351d263c2a">
+			<source type="AUDIO" frames="2962" omitted_pregap="153" duration="00:39:37" size="6966624" crc="4535289d" md5="93a5b614ea12b636982ff4dd0fee0e5a" sha1="7b250ae294b818906c6460de22935f2d429874c4" in_zeros="0" out_zeros="17852" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1) (Track 31).ogg" size="9142210" crc="bbc3c61d" md5="6a7b7822fc188b7dcba33b9135d8c266" sha1="3ea20c2e826102a3d46b36b7780accf4e656aed7">
-			<source frames="28096" pregap="148" duration="06:14:46" size="65733696" crc="8cee105c" md5="f37de7f4dfc2663501fd84f042f9fb9f" sha1="60728919b5581accbc4beb097a915d966c8c7525" in_zeros="0" out_zeros="533593" trimmed_crc="575980f6" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 30).ogg" size="10186009" crc="b826169e" md5="c9fcbe71b1d88a44ebc7a2c93329a840" sha1="4dec4aaae3098fde7f8e847311ccd3395ae80742">
+			<source type="AUDIO" frames="26996" omitted_pregap="144" duration="05:59:71" size="63494592" crc="28f5793f" md5="1beeaa7cb6c249a4bf62000d1b685a54" sha1="a0054e18b056c145641a6b841593fc7bd9260a7d" in_zeros="102952" out_zeros="7341" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 1).cue" size="4194" crc="0fa4eb3c" md5="0eb5d6e57f35f99b5cc4b6ed4493d555" sha1="a23fd3f464b243c4692cabef0c976c232d224ff7"/>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 1).bin" size="61770576" crc="da64ad91" md5="0bd43f873571b42aa8cd1140c96b6466" sha1="f6e9f17c3279e366962faddd6dc7f1176d3d6dbf"/>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 2).ogg" size="3731892" crc="8e968d02" md5="36026a9b4519985433ef66daab94fda8" sha1="c2417eb2c86ae422e86c7f7981cc2c6b99e9624a">
-			<source frames="12775" pregap="150" duration="02:50:25" size="29694000" crc="a7a171b6" md5="4f0c4d7817c1d89f31a1f52a979d53e8" sha1="5ca18980c06f8d226357fb13e75dac1c87a23b27" in_zeros="3620" out_zeros="351625" trimmed_crc="7bbba220" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1) (Track 31).ogg" size="9070801" crc="f739597b" md5="54c6cd307878b6ea4ab5f1c7a755974b" sha1="4f09b1cb9b6a583077a1221f7b782b414c63c195">
+			<source type="AUDIO" frames="27948" omitted_pregap="148" duration="06:12:48" size="65733696" crc="b67f6ec7" md5="1343d5f9e4e11078ae665b38ae6d5c4c" sha1="22e4254d5a971bfd64183c1b7ee6004a3fb9cfbc" in_zeros="0" out_zeros="531241" quality="8" non_silence_pregap="1"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 3).ogg" size="1492556" crc="8a5a210f" md5="3d7720d451bee5276d783eeb7a21edb3" sha1="7c83d6bdf5683311bd86820df47d2b69b776f8bf">
-			<source frames="4942" pregap="0" duration="01:05:67" size="11623584" crc="77aa7c95" md5="a353a9f0ba2dba0f99b538adc37bfc57" sha1="58de19842e2f430e5f280f7f36a22aa3e524aa5f" in_zeros="1496" out_zeros="353408" trimmed_crc="88b5cbe5" quality="8"/>
+		<rom name="CD1/Might and Magic - World of Xeen (USA) (Disc 1).cue" size="4194" crc="0fa4eb3c" md5="0eb5d6e57f35f99b5cc4b6ed4493d555" sha1="a23fd3f464b243c4692cabef0c976c232d224ff7"/>
+		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 1).bin" size="61770576" crc="da64ad91" md5="0bd43f873571b42aa8cd1140c96b6466" sha1="f6e9f17c3279e366962faddd6dc7f1176d3d6dbf">
+			<source type="MODE1_RAW" frames="26263" duration="05:50:13"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 4).ogg" size="1786798" crc="0bea79f9" md5="ab385756f7e1264b20d81b455999cff8" sha1="830a9da90100a8d135d72bc53f5ee278ecae25bf">
-			<source frames="5881" pregap="0" duration="01:18:31" size="13832112" crc="230f4390" md5="c8f025e9b70cf54d3e154d4ce7c44574" sha1="42b325884cd8dc2a033a67607c54cb577b3fe52b" in_zeros="1500" out_zeros="352497" trimmed_crc="69b52c6b" quality="8"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 2).ogg" size="3731892" crc="8e968d02" md5="36026a9b4519985433ef66daab94fda8" sha1="c2417eb2c86ae422e86c7f7981cc2c6b99e9624a">
+			<source type="AUDIO" frames="12625" omitted_pregap="150" duration="02:48:25" size="29694000" crc="a7a171b6" md5="4f0c4d7817c1d89f31a1f52a979d53e8" sha1="5ca18980c06f8d226357fb13e75dac1c87a23b27" in_zeros="3620" out_zeros="351625" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 5).ogg" size="2608808" crc="7a78ad1f" md5="a43f1aaadaab3118ec223f7842b33969" sha1="907883ed2f383098641b3e424b68f7449e090084">
-			<source frames="8596" pregap="0" duration="01:54:46" size="20217792" crc="c0a0e2c8" md5="2c28af036f3387d328b4f3bb51808fb1" sha1="61420229c942fc1f903e47a475f8de15f374ad50" in_zeros="1520" out_zeros="351645" trimmed_crc="facdde30" quality="8"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 3).ogg" size="1492556" crc="8a5a210f" md5="3d7720d451bee5276d783eeb7a21edb3" sha1="7c83d6bdf5683311bd86820df47d2b69b776f8bf">
+			<source type="AUDIO" frames="4942" duration="01:05:67" size="11623584" crc="77aa7c95" md5="a353a9f0ba2dba0f99b538adc37bfc57" sha1="58de19842e2f430e5f280f7f36a22aa3e524aa5f" in_zeros="1496" out_zeros="353408" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 6).ogg" size="4218489" crc="7e9b63b8" md5="e2c84bc7269de3e4311034ce45ad7c56" sha1="fd873465d3b5e72a2b850f11ad92181394809eb4">
-			<source frames="13467" pregap="0" duration="02:59:42" size="31674384" crc="639f8a48" md5="54e29ad474945a21285434dba7dfef5d" sha1="aecb528adced6314e6253bc2914ab879d7fd1947" in_zeros="1520" out_zeros="351589" trimmed_crc="1337232d" quality="8"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 4).ogg" size="1786798" crc="0bea79f9" md5="ab385756f7e1264b20d81b455999cff8" sha1="830a9da90100a8d135d72bc53f5ee278ecae25bf">
+			<source type="AUDIO" frames="5881" duration="01:18:31" size="13832112" crc="230f4390" md5="c8f025e9b70cf54d3e154d4ce7c44574" sha1="42b325884cd8dc2a033a67607c54cb577b3fe52b" in_zeros="1500" out_zeros="352497" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 7).ogg" size="1850484" crc="e49ac43e" md5="ae70cd9cb56b181bbf4f438558bb28f2" sha1="9a5eb1ee8338ace744a5883ff50c081887cfe34c">
-			<source frames="6272" pregap="0" duration="01:23:47" size="14751744" crc="06859139" md5="83352f6bf4f7b9eeecbcca321f40b165" sha1="c3107f266ec9da91acb3a66fd6e0f2e5f5a22919" in_zeros="1512" out_zeros="352809" trimmed_crc="dad52e7f" quality="8"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 5).ogg" size="2608808" crc="7a78ad1f" md5="a43f1aaadaab3118ec223f7842b33969" sha1="907883ed2f383098641b3e424b68f7449e090084">
+			<source type="AUDIO" frames="8596" duration="01:54:46" size="20217792" crc="c0a0e2c8" md5="2c28af036f3387d328b4f3bb51808fb1" sha1="61420229c942fc1f903e47a475f8de15f374ad50" in_zeros="1520" out_zeros="351645" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 8).ogg" size="3764118" crc="b1c2f681" md5="1f05efe91ac6e52324601980311e7bc2" sha1="7aa6b4b89134e081cd3ef002c896db573fd6d9f8">
-			<source frames="12061" pregap="0" duration="02:40:61" size="28367472" crc="b5c236df" md5="51b97ba462c26947b0a6688e82ea7e58" sha1="25f10bccf40a131092138fefa1e228174e8d7642" in_zeros="1520" out_zeros="352209" trimmed_crc="efa26324" quality="8"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 6).ogg" size="4218489" crc="7e9b63b8" md5="e2c84bc7269de3e4311034ce45ad7c56" sha1="fd873465d3b5e72a2b850f11ad92181394809eb4">
+			<source type="AUDIO" frames="13467" duration="02:59:42" size="31674384" crc="639f8a48" md5="54e29ad474945a21285434dba7dfef5d" sha1="aecb528adced6314e6253bc2914ab879d7fd1947" in_zeros="1520" out_zeros="351589" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 9).ogg" size="3409744" crc="bf5eb10c" md5="6459ba8b6a7fa09650d936e9e7f4fdff" sha1="c648e00bd57a9f1750a63a4bc63d541ec6284169">
-			<source frames="10594" pregap="0" duration="02:21:19" size="24917088" crc="d5f4afd6" md5="b9936deaea9ce62ab15ab584d64ba5c8" sha1="5ccf83d9435790161d9b0f8eba735265964c6f23" in_zeros="91736" out_zeros="353637" trimmed_crc="5ec5dcdb" quality="8"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 7).ogg" size="1850484" crc="e49ac43e" md5="ae70cd9cb56b181bbf4f438558bb28f2" sha1="9a5eb1ee8338ace744a5883ff50c081887cfe34c">
+			<source type="AUDIO" frames="6272" duration="01:23:47" size="14751744" crc="06859139" md5="83352f6bf4f7b9eeecbcca321f40b165" sha1="c3107f266ec9da91acb3a66fd6e0f2e5f5a22919" in_zeros="1512" out_zeros="352809" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 10).ogg" size="4815803" crc="0b87ef94" md5="ce3a8bc3c131b6a3d8263747135d7c7d" sha1="239e14ed447157f61a32cc600b1b4ecc96ec465f">
-			<source frames="13736" pregap="0" duration="03:03:11" size="32307072" crc="cdde3f4e" md5="64622fe72bcb0c93ccf8541ecc4df972" sha1="ed64e20a001a30e96c8cef89ca7e2b03a6e874d3" in_zeros="1524" out_zeros="351433" trimmed_crc="fb40163b" quality="8"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 8).ogg" size="3764118" crc="b1c2f681" md5="1f05efe91ac6e52324601980311e7bc2" sha1="7aa6b4b89134e081cd3ef002c896db573fd6d9f8">
+			<source type="AUDIO" frames="12061" duration="02:40:61" size="28367472" crc="b5c236df" md5="51b97ba462c26947b0a6688e82ea7e58" sha1="25f10bccf40a131092138fefa1e228174e8d7642" in_zeros="1520" out_zeros="352209" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 11).ogg" size="2477161" crc="060cd27f" md5="6c135d2240619e7a177113393a265fd4" sha1="42b222179f918181543da907642c2258bdd38093">
-			<source frames="6486" pregap="0" duration="01:26:36" size="15255072" crc="1e0b7dbc" md5="30d73492415f267fd5993424fa911965" sha1="a3a54069d62ceaabd51e76e1b91b5be0a5c4efcf" in_zeros="1520" out_zeros="352236" trimmed_crc="76cad148" quality="8"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 9).ogg" size="3409744" crc="bf5eb10c" md5="6459ba8b6a7fa09650d936e9e7f4fdff" sha1="c648e00bd57a9f1750a63a4bc63d541ec6284169">
+			<source type="AUDIO" frames="10594" duration="02:21:19" size="24917088" crc="d5f4afd6" md5="b9936deaea9ce62ab15ab584d64ba5c8" sha1="5ccf83d9435790161d9b0f8eba735265964c6f23" in_zeros="91736" out_zeros="353637" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 12).ogg" size="2299788" crc="050700ad" md5="d3f5809b9a8bf1f9da068295cbaaa81b" sha1="aa1f4e77884b4466c87c5e4d9654024e3832a4d4">
-			<source frames="6764" pregap="0" duration="01:30:14" size="15908928" crc="44ae09b0" md5="646427b56dd16fcb6f5247e752229ce3" sha1="94236c2722571dff0f78a796b8dc6b15ee364b47" in_zeros="1512" out_zeros="352981" trimmed_crc="787acec4" quality="8"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 10).ogg" size="4815803" crc="0b87ef94" md5="ce3a8bc3c131b6a3d8263747135d7c7d" sha1="239e14ed447157f61a32cc600b1b4ecc96ec465f">
+			<source type="AUDIO" frames="13736" duration="03:03:11" size="32307072" crc="cdde3f4e" md5="64622fe72bcb0c93ccf8541ecc4df972" sha1="ed64e20a001a30e96c8cef89ca7e2b03a6e874d3" in_zeros="1524" out_zeros="351433" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 13).ogg" size="3126338" crc="789be5a8" md5="a44500c0c7b6db84d9120fe4f7a6c209" sha1="56cec3e809917e4f189253c29f87d110cf701ef0">
-			<source frames="9598" pregap="0" duration="02:07:73" size="22574496" crc="48f185f5" md5="beda318ef8036d6abad9e1b6b8640958" sha1="be7e78a2eac5d11ac09fcdf477fbcc0dbe2a01e0" in_zeros="1476" out_zeros="352145" trimmed_crc="24077f85" quality="8"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 11).ogg" size="2477161" crc="060cd27f" md5="6c135d2240619e7a177113393a265fd4" sha1="42b222179f918181543da907642c2258bdd38093">
+			<source type="AUDIO" frames="6486" duration="01:26:36" size="15255072" crc="1e0b7dbc" md5="30d73492415f267fd5993424fa911965" sha1="a3a54069d62ceaabd51e76e1b91b5be0a5c4efcf" in_zeros="1520" out_zeros="352236" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 14).ogg" size="3932998" crc="4b7f6c7a" md5="537c140e579b727edcc82c3378e24f50" sha1="a8e6b81a48d879d55a7b641beed2e793bd5fb2b6">
-			<source frames="13009" pregap="0" duration="02:53:34" size="30597168" crc="10a641f7" md5="5a106605b28efbbb236b8b80ef436b85" sha1="b796ea26547401eaffcd2411cd909f823243c9f5" in_zeros="118472" out_zeros="352668" trimmed_crc="b89de163" quality="8"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 12).ogg" size="2299788" crc="050700ad" md5="d3f5809b9a8bf1f9da068295cbaaa81b" sha1="aa1f4e77884b4466c87c5e4d9654024e3832a4d4">
+			<source type="AUDIO" frames="6764" duration="01:30:14" size="15908928" crc="44ae09b0" md5="646427b56dd16fcb6f5247e752229ce3" sha1="94236c2722571dff0f78a796b8dc6b15ee364b47" in_zeros="1512" out_zeros="352981" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 15).ogg" size="634100" crc="ab5d761a" md5="9dbbd13df828d6aed86ff0af57aaf495" sha1="06eb79a1330a6ea2675bb654f3aec6bf676abfe9">
-			<source frames="2254" pregap="0" duration="00:30:04" size="5301408" crc="54386885" md5="70b8092ee0181e2afdaeef6120581f46" sha1="1418fc9224e5e3f8fcd3849adbae59a9cd8fa3dc" in_zeros="1468" out_zeros="516349" trimmed_crc="77402312" quality="8"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 13).ogg" size="3126338" crc="789be5a8" md5="a44500c0c7b6db84d9120fe4f7a6c209" sha1="56cec3e809917e4f189253c29f87d110cf701ef0">
+			<source type="AUDIO" frames="9598" duration="02:07:73" size="22574496" crc="48f185f5" md5="beda318ef8036d6abad9e1b6b8640958" sha1="be7e78a2eac5d11ac09fcdf477fbcc0dbe2a01e0" in_zeros="1476" out_zeros="352145" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 16).ogg" size="2489426" crc="5b421ee7" md5="df9b61920cc6e5ebf18b577dd5b62851" sha1="afe23b5f0bc6aa7f5ee52ec846c0dc97602cd0cf">
-			<source frames="7395" pregap="0" duration="01:38:45" size="17393040" crc="244fac8f" md5="11ae3bab41cc809f7f5d898cea0e81e7" sha1="f9386d1aa275837b7c500c61a7772a986a5a8db5" in_zeros="1520" out_zeros="352401" trimmed_crc="0af64d9d" quality="8"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 14).ogg" size="3932998" crc="4b7f6c7a" md5="537c140e579b727edcc82c3378e24f50" sha1="a8e6b81a48d879d55a7b641beed2e793bd5fb2b6">
+			<source type="AUDIO" frames="13009" duration="02:53:34" size="30597168" crc="10a641f7" md5="5a106605b28efbbb236b8b80ef436b85" sha1="b796ea26547401eaffcd2411cd909f823243c9f5" in_zeros="118472" out_zeros="352668" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 17).ogg" size="3238954" crc="f9e97f1b" md5="3d25479bde933379a4bf957a43514bfd" sha1="a4c4f66a19cb237f567d70d6df57f7e75783e1a5">
-			<source frames="10142" pregap="0" duration="02:15:17" size="23853984" crc="c697725b" md5="8697d857283bf71758a80447525ff1b6" sha1="de945c046489e99354fa8f05cb15d42f527315e8" in_zeros="1496" out_zeros="353281" trimmed_crc="17c92ef9" quality="8"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 15).ogg" size="634100" crc="ab5d761a" md5="9dbbd13df828d6aed86ff0af57aaf495" sha1="06eb79a1330a6ea2675bb654f3aec6bf676abfe9">
+			<source type="AUDIO" frames="2254" duration="00:30:04" size="5301408" crc="54386885" md5="70b8092ee0181e2afdaeef6120581f46" sha1="1418fc9224e5e3f8fcd3849adbae59a9cd8fa3dc" in_zeros="1468" out_zeros="516349" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 18).ogg" size="5449682" crc="e1943706" md5="ff7f16a25a7bebc31de01e3040cd62c5" sha1="ba0140cce519faa2fab19b5817ba02d512ae6ddb">
-			<source frames="14473" pregap="0" duration="03:12:73" size="34040496" crc="c72a9925" md5="61513973cdce0ade64101073b98b653c" sha1="991a8715d1554801bf56ad02874939de2d36e4b6" in_zeros="1496" out_zeros="353565" trimmed_crc="d9230fc1" quality="8"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 16).ogg" size="2489426" crc="5b421ee7" md5="df9b61920cc6e5ebf18b577dd5b62851" sha1="afe23b5f0bc6aa7f5ee52ec846c0dc97602cd0cf">
+			<source type="AUDIO" frames="7395" duration="01:38:45" size="17393040" crc="244fac8f" md5="11ae3bab41cc809f7f5d898cea0e81e7" sha1="f9386d1aa275837b7c500c61a7772a986a5a8db5" in_zeros="1520" out_zeros="352401" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 19).ogg" size="5447065" crc="d79f52c3" md5="fc2587418ccaea18956d5eb721d91916" sha1="9afcbc7a136c1cd1e504c789c04acf67efc9c26f">
-			<source frames="15374" pregap="0" duration="03:24:74" size="36159648" crc="31993d22" md5="060b6734d9aee25b500704a361ac6437" sha1="94fd46fc0c4db0b85549c71ed7162525dbf42547" in_zeros="1520" out_zeros="353452" trimmed_crc="e7379563" quality="8"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 17).ogg" size="3238954" crc="f9e97f1b" md5="3d25479bde933379a4bf957a43514bfd" sha1="a4c4f66a19cb237f567d70d6df57f7e75783e1a5">
+			<source type="AUDIO" frames="10142" duration="02:15:17" size="23853984" crc="c697725b" md5="8697d857283bf71758a80447525ff1b6" sha1="de945c046489e99354fa8f05cb15d42f527315e8" in_zeros="1496" out_zeros="353281" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 20).ogg" size="817787" crc="fa1e37ea" md5="1974e663bbc0b12272e6c83d7696cde1" sha1="8612c684473e978ed963935e54fd42059a210eac">
-			<source frames="2689" pregap="0" duration="00:35:64" size="6324528" crc="305ac23a" md5="bc0f160ec0685b580a26486569c69561" sha1="2f6ba01cc4f5fc98a7d29014dca8a438d3ec8a23" in_zeros="1520" out_zeros="351908" trimmed_crc="3ec4407d" quality="8"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 18).ogg" size="5449682" crc="e1943706" md5="ff7f16a25a7bebc31de01e3040cd62c5" sha1="ba0140cce519faa2fab19b5817ba02d512ae6ddb">
+			<source type="AUDIO" frames="14473" duration="03:12:73" size="34040496" crc="c72a9925" md5="61513973cdce0ade64101073b98b653c" sha1="991a8715d1554801bf56ad02874939de2d36e4b6" in_zeros="1496" out_zeros="353565" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 21).ogg" size="3813735" crc="f038cfbb" md5="54971f246f7cddb320ededc27f69fe19" sha1="47b07a4124a02e8ba5fd2a4cc2852ecada54f54b">
-			<source frames="10898" pregap="0" duration="02:25:23" size="25632096" crc="7172aba7" md5="8ac6fda996dc514259762a99cc2ee7a9" sha1="e2cb4f644150088e118122e6fa577efb602b58cf" in_zeros="1496" out_zeros="351844" trimmed_crc="d4bee9d9" quality="8"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 19).ogg" size="5447065" crc="d79f52c3" md5="fc2587418ccaea18956d5eb721d91916" sha1="9afcbc7a136c1cd1e504c789c04acf67efc9c26f">
+			<source type="AUDIO" frames="15374" duration="03:24:74" size="36159648" crc="31993d22" md5="060b6734d9aee25b500704a361ac6437" sha1="94fd46fc0c4db0b85549c71ed7162525dbf42547" in_zeros="1520" out_zeros="353452" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 22).ogg" size="1300410" crc="44b7040f" md5="d621b33b02ff07ab7cf7a9ba7f4fc23a" sha1="e5d9072238cdfc521bb8217bdaca290d1283001d">
-			<source frames="4079" pregap="0" duration="00:54:29" size="9593808" crc="0d144711" md5="a61ee715f47ee0518da9c0fd60c67d6b" sha1="4c99e319506f1ce6d483c270e9dfaaf1a05813dd" in_zeros="1500" out_zeros="352736" trimmed_crc="4698d801" quality="8"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 20).ogg" size="817787" crc="fa1e37ea" md5="1974e663bbc0b12272e6c83d7696cde1" sha1="8612c684473e978ed963935e54fd42059a210eac">
+			<source type="AUDIO" frames="2689" duration="00:35:64" size="6324528" crc="305ac23a" md5="bc0f160ec0685b580a26486569c69561" sha1="2f6ba01cc4f5fc98a7d29014dca8a438d3ec8a23" in_zeros="1520" out_zeros="351908" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 23).ogg" size="7156348" crc="db46ef16" md5="1d6a9a9ac538b2b650c87a2cdb4ae717" sha1="bb2995117c7b15b3a3f164e74f8e05858ddf6738">
-			<source frames="20009" pregap="0" duration="04:26:59" size="47061168" crc="f552c408" md5="0bcac60efa5dd8171f04d18f08ae4048" sha1="281a0c780b48362f0a3884836b4f30431f99475c" in_zeros="1504" out_zeros="352840" trimmed_crc="8cdf0a01" quality="8"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 21).ogg" size="3813735" crc="f038cfbb" md5="54971f246f7cddb320ededc27f69fe19" sha1="47b07a4124a02e8ba5fd2a4cc2852ecada54f54b">
+			<source type="AUDIO" frames="10898" duration="02:25:23" size="25632096" crc="7172aba7" md5="8ac6fda996dc514259762a99cc2ee7a9" sha1="e2cb4f644150088e118122e6fa577efb602b58cf" in_zeros="1496" out_zeros="351844" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 24).ogg" size="4307184" crc="6c615b32" md5="a3e42cd227d73da9e21f53f0851c6890" sha1="e7fa6d9d2904d97c1f28e3df9b094e7ddb4ded2d">
-			<source frames="13617" pregap="0" duration="03:01:42" size="32027184" crc="0e373dda" md5="2bbf04ffd45ccaebe1cbc384fbf74d9a" sha1="b7d4f09a6d11c8ed5be3e44febd1bf81a98ec5c0" in_zeros="1500" out_zeros="352212" trimmed_crc="b75baf55" quality="8"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 22).ogg" size="1300410" crc="44b7040f" md5="d621b33b02ff07ab7cf7a9ba7f4fc23a" sha1="e5d9072238cdfc521bb8217bdaca290d1283001d">
+			<source type="AUDIO" frames="4079" duration="00:54:29" size="9593808" crc="0d144711" md5="a61ee715f47ee0518da9c0fd60c67d6b" sha1="4c99e319506f1ce6d483c270e9dfaaf1a05813dd" in_zeros="1500" out_zeros="352736" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 25).ogg" size="5321485" crc="ec41f247" md5="2e0aa4e6b4a72394402019cae04cbd63" sha1="34297a65af60121d5d98d92a1ae47fc2909adeee">
-			<source frames="15234" pregap="0" duration="03:23:09" size="35830368" crc="9a2a25e6" md5="15d89fbbf4b95d2929d624bc4061f239" sha1="c7d78f68defb254e0848c435adacc3297b9e906a" in_zeros="1500" out_zeros="352280" trimmed_crc="a45ab501" quality="8"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 23).ogg" size="7156348" crc="db46ef16" md5="1d6a9a9ac538b2b650c87a2cdb4ae717" sha1="bb2995117c7b15b3a3f164e74f8e05858ddf6738">
+			<source type="AUDIO" frames="20009" duration="04:26:59" size="47061168" crc="f552c408" md5="0bcac60efa5dd8171f04d18f08ae4048" sha1="281a0c780b48362f0a3884836b4f30431f99475c" in_zeros="1504" out_zeros="352840" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 26).ogg" size="5928349" crc="167b856c" md5="346a220c89c85c0b06beb052a554c2c1" sha1="929eb6ac59ae923c54ec71f9d68ebb251c536788">
-			<source frames="17158" pregap="0" duration="03:48:58" size="40355616" crc="27b8e86f" md5="288abeb041c7b33733cc8ccd5aad839d" sha1="e446c3dfc50947c9f0eabe4755eb431023c4c2e9" in_zeros="1500" out_zeros="353556" trimmed_crc="fb58aa53" quality="8"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 24).ogg" size="4307184" crc="6c615b32" md5="a3e42cd227d73da9e21f53f0851c6890" sha1="e7fa6d9d2904d97c1f28e3df9b094e7ddb4ded2d">
+			<source type="AUDIO" frames="13617" duration="03:01:42" size="32027184" crc="0e373dda" md5="2bbf04ffd45ccaebe1cbc384fbf74d9a" sha1="b7d4f09a6d11c8ed5be3e44febd1bf81a98ec5c0" in_zeros="1500" out_zeros="352212" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 27).ogg" size="792834" crc="53da7728" md5="e401ac498a96ea50a886ad87d8c195cc" sha1="02f3046172db45bbe1ad1123e7ede739e449db5b">
-			<source frames="2281" pregap="0" duration="00:30:31" size="5364912" crc="f9fa8113" md5="8b47c1113cf5a06c4e4dcad390886297" sha1="b8763c92e9fff6e4861c20e2d4000b1572888627" in_zeros="1524" out_zeros="353096" trimmed_crc="e778fdb4" quality="8"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 25).ogg" size="5321485" crc="ec41f247" md5="2e0aa4e6b4a72394402019cae04cbd63" sha1="34297a65af60121d5d98d92a1ae47fc2909adeee">
+			<source type="AUDIO" frames="15234" duration="03:23:09" size="35830368" crc="9a2a25e6" md5="15d89fbbf4b95d2929d624bc4061f239" sha1="c7d78f68defb254e0848c435adacc3297b9e906a" in_zeros="1500" out_zeros="352280" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 28).ogg" size="2543901" crc="8984f3f6" md5="5763b72e33ee0634ad87cfad917194bc" sha1="7ec2d791236dbeab8933b8f7f4856dbb0f1ecab3">
-			<source frames="7142" pregap="0" duration="01:35:17" size="16797984" crc="10e41c92" md5="03148ffda6e2e23c3d327e98590ffe14" sha1="9622d1e313d5094743c86712e7c6f898cd788935" in_zeros="1500" out_zeros="351988" trimmed_crc="8e9c3847" quality="8"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 26).ogg" size="5928349" crc="167b856c" md5="346a220c89c85c0b06beb052a554c2c1" sha1="929eb6ac59ae923c54ec71f9d68ebb251c536788">
+			<source type="AUDIO" frames="17158" duration="03:48:58" size="40355616" crc="27b8e86f" md5="288abeb041c7b33733cc8ccd5aad839d" sha1="e446c3dfc50947c9f0eabe4755eb431023c4c2e9" in_zeros="1500" out_zeros="353556" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 29).ogg" size="357006" crc="f555c041" md5="fb04f61cf01c34574ea290d23508fdcf" sha1="6fb8fbbb9fdb4dfbbdb6ea379775fcb19a6d579e">
-			<source frames="1243" pregap="0" duration="00:16:43" size="2923536" crc="b7a9b293" md5="9e4bfe968d5d01adf4c07b8f619a995c" sha1="3a83dcb441664d45d4d9955b353b709ae49425f1" in_zeros="1520" out_zeros="351524" trimmed_crc="0628ebab" quality="8"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 27).ogg" size="792834" crc="53da7728" md5="e401ac498a96ea50a886ad87d8c195cc" sha1="02f3046172db45bbe1ad1123e7ede739e449db5b">
+			<source type="AUDIO" frames="2281" duration="00:30:31" size="5364912" crc="f9fa8113" md5="8b47c1113cf5a06c4e4dcad390886297" sha1="b8763c92e9fff6e4861c20e2d4000b1572888627" in_zeros="1524" out_zeros="353096" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2) (Track 30).ogg" size="7135200" crc="ed301619" md5="108e22a00e8ce99910730ec5f3ce7ad7" sha1="4e3a91f206c23a596ce9ab7899d4f24c7004eb0b">
-			<source frames="20561" pregap="0" duration="04:34:11" size="48359472" crc="5316d42c" md5="937f4f793e535ca7cfb47d1fe922b429" sha1="e79e0e136e419b01a783be648b3570dce5daf842" in_zeros="1492" out_zeros="528468" trimmed_crc="f90cd0a8" quality="8"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 28).ogg" size="2543901" crc="8984f3f6" md5="5763b72e33ee0634ad87cfad917194bc" sha1="7ec2d791236dbeab8933b8f7f4856dbb0f1ecab3">
+			<source type="AUDIO" frames="7142" duration="01:35:17" size="16797984" crc="10e41c92" md5="03148ffda6e2e23c3d327e98590ffe14" sha1="9622d1e313d5094743c86712e7c6f898cd788935" in_zeros="1500" out_zeros="351988" quality="8"/>
 		</rom>
-		<rom name="Might and Magic - World of Xeen (USA) (Disc 2).cue" size="3470" crc="d38af848" md5="3c000a91e4d58d098072ba9b17e5a420" sha1="7b477ca7ba1e8748a87274585795e16f4731bc7f"/>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 29).ogg" size="357006" crc="f555c041" md5="fb04f61cf01c34574ea290d23508fdcf" sha1="6fb8fbbb9fdb4dfbbdb6ea379775fcb19a6d579e">
+			<source type="AUDIO" frames="1243" duration="00:16:43" size="2923536" crc="b7a9b293" md5="9e4bfe968d5d01adf4c07b8f619a995c" sha1="3a83dcb441664d45d4d9955b353b709ae49425f1" in_zeros="1520" out_zeros="351524" quality="8"/>
+		</rom>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2) (Track 30).ogg" size="7135200" crc="ed301619" md5="108e22a00e8ce99910730ec5f3ce7ad7" sha1="4e3a91f206c23a596ce9ab7899d4f24c7004eb0b">
+			<source type="AUDIO" frames="20561" duration="04:34:11" size="48359472" crc="5316d42c" md5="937f4f793e535ca7cfb47d1fe922b429" sha1="e79e0e136e419b01a783be648b3570dce5daf842" in_zeros="1492" out_zeros="528468" quality="8"/>
+		</rom>
+		<rom name="CD2/Might and Magic - World of Xeen (USA) (Disc 2).cue" size="3470" crc="d38af848" md5="3c000a91e4d58d098072ba9b17e5a420" sha1="7b477ca7ba1e8748a87274585795e16f4731bc7f"/>
 		<rom name="WORLD/INSTALL.EXE" size="38514" crc="ca42566d" md5="41c1042a8743f5691063a5ecb2f76c82" sha1="58bdfc504b61b2b4e8e36c8cbc86e0597ea8acbf"/>
 		<rom name="WORLD/XEEN.DAT" size="156361" crc="63da06ea" md5="26ac547a5c572222d5b6f5d32ecb5b4f" sha1="d0c09f1b8dfa561595f60ffc26e5e4fe886ee75c"/>
 		<rom name="WORLD/XEEN.EXE" size="56786" crc="d3ac0567" md5="75eed8578391a0c3c723da22f0fe26a3" sha1="1241e4c41883bca28c64f34cd568f3097951cf55"/>
@@ -5551,7 +5555,7 @@
 		<year>1992</year>
 		<developer>New World Computing</developer>
 		<comment>Installed from the Might and Magic Trilogy CD, matching with Redump: Might and Magic Trilogy (USA, Europe)</comment>
-		<comment_dosc>Copy protection patch, Sound Blaster config, and auto start. MT-32 and General MIDI options</comment_dosc>
+		<comment_dosc>Copy protection removal, Sound Blaster config, and auto start. MT-32 and General MIDI options</comment_dosc>
 		<link type="media">http://redump.org/disc/53003/</link>
 		<rom name="INSTALL.EXE" size="19501" crc="67e79ddb" md5="9461f141fab3b7f3dcdcb46572c59342" sha1="2f2e597f7f4e9b78c5e3dfb81b9f213683ccc7bf" date="1995-11-01 13:38:56"/>
 		<rom name="XEEN.CC" size="13435646" crc="ecf2e3ab" md5="60933c74b1ddb2a6b93b86757b0995e4" sha1="8b2cff57083c1d7c0a6e663637fe76cdae5e6cf8" date="1992-10-07 18:40:36"/>
@@ -5566,7 +5570,7 @@
 			Installed from the Might and Magic Trilogy CD, matching with Redump: Might and Magic Trilogy (USA, Europe)
 			Can also be installed from the Ultimate Might and Magic Archives CD, matching with Redump: Ultimate Might and Magic Archives, The (USA)
 		</comment>
-		<comment_dosc>Copy protection patch, Sound Blaster config, and auto start. MT-32 and General MIDI options</comment_dosc>
+		<comment_dosc>Copy protection removal, Sound Blaster config, and auto start. MT-32 and General MIDI options</comment_dosc>
 		<link type="media">http://redump.org/disc/53003/</link>
 		<rom name="DARK.CC" size="11217676" crc="d5e96530" md5="89d5c3a3a31fdaf5868728b64541c9bd" sha1="29665d274acedc80a7acb7fad3939fd78fd74846" date="1993-05-19 05:43:24"/>
 		<rom name="INSTALL.EXE" size="21876" crc="5e91925d" md5="7e2668b0ffdb4dc182800d5ac0c62a64" sha1="da976a1c0f1c5a8ed886ce13a1a852a884de88fb" date="1993-05-24 11:11:42"/>

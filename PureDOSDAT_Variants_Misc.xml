@@ -1680,11 +1680,15 @@
 	</game>
 	<game name="Might and Magic - World of Xeen (1993) (New World Computing) (Floppy Version).dosz">
 		<description>Might and Magic - World of Xeen</description>
-		<comment>Non-voiced version, installed from the Might and Magic Trilogy CD. Also matches with the Ultimate Might and Magic Archives CD</comment>
-		<comment_dosc>Copy protection patch, Sound Blaster config, and auto start. MT-32 option</comment_dosc>
 		<year>1993</year>
 		<developer>New World Computing</developer>
 		<variant>Floppy Version</variant>
+		<comment>
+			Non-voiced version. Installed from the Might and Magic Trilogy CD, matching with Redump: Might and Magic Trilogy (USA, Europe)
+			Can also be installed from the Ultimate Might and Magic Archives CD, matching with Redump: Ultimate Might and Magic Archives, The (USA)
+		</comment>
+		<comment_dosc>Copy protection removal, Sound Blaster config, and auto start. MT-32 option</comment_dosc>
+		<link type="media">http://redump.org/disc/53003/</link>
 		<rom name="DARK.CC" size="11217676" crc="d5e96530" md5="89d5c3a3a31fdaf5868728b64541c9bd" sha1="29665d274acedc80a7acb7fad3939fd78fd74846" date="1993-05-19 05:43:24"/>
 		<rom name="INSTALL.EXE" size="21876" crc="5e91925d" md5="7e2668b0ffdb4dc182800d5ac0c62a64" sha1="da976a1c0f1c5a8ed886ce13a1a852a884de88fb" date="1993-05-24 11:11:42"/>
 		<rom name="INTRO.CC" size="8986211" crc="3d514392" md5="26d3415d232861b0a7695deace4e187d" sha1="3818b2b1b2326b86bd3cd9962d094910b85891c4" date="1993-05-19 05:39:32"/>
