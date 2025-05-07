@@ -4413,8 +4413,9 @@
 				MIDI: Roland Sound Canvas
 				Device: General MIDI device
 			This will give the LR16.PRS and LR256.PRS files found in the GM folder
+			DoDAT cannot build this directly from the disk images
 		</comment>
-		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
+		<comment_dosc>Sound Blaster 16 config and auto start. General MIDI option. Backup for RESOURCE.CFG (seems to be unnecessary)</comment_dosc>
 		<link type="media">https://www.goodolddays.net/diskimages/id%2C2589/</link>
 		<rom name="AUDIO/ADLIB.ADD" size="36" crc="014b761d" md5="c07465d6b29d922316efa30c323c189d" sha1="cd98f06842c8a2e59f13874abc1f974f2632c100"/>
 		<rom name="AUDIO/ADLIB.ADV" size="14693" crc="93779685" md5="d649a80db341ebf961f751f8f6d90e5c" sha1="9ccf42334c0eccc63f0365c74be7a53ce53e08e5"/>
@@ -4511,7 +4512,6 @@
 		<rom name="LRUNNER.PZL" size="261208" crc="9610ba79" md5="b507a6140474958bf69379ef975a1e22" sha1="a46f99ed2c136dee77e1183a174b712899f0a40e"/>
 		<rom name="LRUNNER2.PZL" size="53593" crc="b7343e1c" md5="38d8d8c2089fe2e37b85223aa30b1a6a" sha1="31d4d8ae58bb289108cc921e863135059f8b357c"/>
 		<rom name="README" size="5026" crc="76338138" md5="c9780ba6906a633cfda0d6c1c32df7cb" sha1="4b1073b61ad8d1a38b8350c1085d7e0deff3d571" date="1994-09-23 01:00:00"/>
-		<rom name="RESOURCE.CFG" size="162" crc="67fc3954" md5="1c96f0b64f0da6c29e83bdf798cdcdf0" sha1="aff5e76b389440631531f1ce88e8650818c6cc78" date="1994-09-23 01:00:00"/>
 		<rom name="SAMPLE.PZL" size="18145" crc="c6d03b85" md5="6a58ac01e15b2b9669618d6480b21ef8" sha1="53630643e1dc6d09aefc5505daa045d14fb60aad"/>
 		<rom name="SETSOUND.BAT" size="440" crc="f67c888e" md5="7445d32a691869ef32f72df372e109cd" sha1="7e71258764a979d6981d5c2ff225f00239c712d0"/>
 		<rom name="SIERRA.DIB" size="308302" crc="3517b3f0" md5="2b761b667dab3a223fe3de705393a147" sha1="88e4552af11848fef4d1b4152c29c223188cdbdb"/>
