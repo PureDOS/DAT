@@ -4900,6 +4900,8 @@
 	</game>
 	<game name="Realms of the Haunting (1996) (Gremlin Interactive).dosz">
 		<description>Realms of the Haunting</description>
+		<year>1996</year>
+		<developer>Gremlin Interactive</developer>
 		<comment>
 			Installed from USA CD.
 			Installation options:
@@ -4927,11 +4929,15 @@
 			Alternatively the required FILELIST.TXT and CONFIG.INI files are also provided in the DOSC.
 		</comment>
 		<comment_dosc>Required FILELIST.TXT and CONFIG.INI files, 640x480 resolution and full view in ROTH.INI, edited REALMS.BAT without EREGCARD, and auto start</comment_dosc>
-		<year>1996</year>
-		<developer>Gremlin Interactive</developer>
+		<link type="media">http://redump.org/disc/46368/</link>
+		<link type="media">http://redump.org/disc/4696/</link>
+		<link type="media">http://redump.org/disc/4697/</link>
+		<link type="media">http://redump.org/disc/4698/</link>
 		<rom name="CD/DATA/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-02-18 21:51:56"/>
 		<rom name="CD/DATA/BACKDROP.RAW" size="173832" crc="b6ba13fc" md5="2c9debcf210c1bfa089c5dbfae7d2f40" sha1="d5c3b0170ca5079bd6f9a6f953c78440742287a7" date="1996-11-08 17:14:06"/>
-		<rom name="CD/DATA/FILELIST.TXT" size="2292" crc="4f9ca535" md5="64c69833cf8dda66c6992a302a3fff21" sha1="17dd3f0b13aa00e13e0392790346f8d5ced0ffdf"/>
+		<rom name="CD/DATA/FILELIST.TXT" size="2292" crc="4f9ca535" md5="64c69833cf8dda66c6992a302a3fff21" sha1="17dd3f0b13aa00e13e0392790346f8d5ced0ffdf">
+			<patch data="QlBTMRySdJCARJFml3iIQo7wqpwei9SOnKvx6LA1pZxP5McWZg==" size="2460" crc="b0e8f1ab" md5="e4b6143c91ccded1e48208d7948ee04f" sha1="1dc83d6dca56a3557c888e5221e89bd7b81d9d08"/>
+		</rom>
 		<rom name="CD/DATA/FX22.SFX" size="14764542" crc="4fb0f7e6" md5="3999135d197890ce4aad9895112ebc91" sha1="8b37ca1c2328e6d79a9cc5bb5c7eea84adbcf308" date="1996-11-08 06:01:14"/>
 		<rom name="CD/DATA/FXSCRIPT.SFX" size="11462660" crc="8369c8e0" md5="6391d983dc94a976f6d20bc5c421043b" sha1="66f0a307af1ba5690bcb33c12a9f807dcfad3472" date="1996-11-02 09:36:56"/>
 		<rom name="CD/DATA/ICONS.ALL" size="56440" crc="e8b95239" md5="91c4c33339cc0661be9568d79ead8911" sha1="b5ff5d037b5718ac53a66a8e0b08db599afeb429" date="1996-11-27 21:57:42"/>
@@ -5110,7 +5116,7 @@
 		<rom name="CD/INSTALL.EXE" size="154608" crc="d6dfef15" md5="10c0ddd74a3aa6a1f850beea96c80c25" sha1="6d5e6035f0f32b992955cd4b5ada709aaa87d038" date="1997-02-13 00:14:22"/>
 		<rom name="CD/INSTALL.PIF" size="967" crc="4a8f85fc" md5="ff7009cc1aa16f626871e6bc06e56e43" sha1="b2c5f80b2ab4d9baff875a80a66a2fc1942fa2a5" date="1997-01-24 13:01:30"/>
 		<rom name="CD/README.TXT" size="13403" crc="7a99a4e7" md5="e4d4824c3d7a1492438813b9cbf13ba6" sha1="21628f282c224fa231e79e003b310780f2a98773" date="1997-02-12 06:43:26"/>
-		<rom name="CONFIG.INI" size="204" crc="06a82468" md5="4defbe27dfb5662955ef1c172de78ba9" sha1="d334a8e4491c0543de83ebbee66f09bc37f5173e"/>
+		<rom name="CONFIG.INI" size="204" crc="06a82468" md5="4defbe27dfb5662955ef1c172de78ba9" sha1="d334a8e4491c0543de83ebbee66f09bc37f5173e" data="Ow0KOyBDb25maWcgZmlsZSBmb3IgUk9USA0KOw0KDQpMYW5ndWFnZT1FbmdsaXNoDQpTb3VyY2VQYXRoPUM6XENEDQpEZXN0aW5hdGlvblBhdGg9QzoNCkluc3RhbGxhdGlvbj1NYXhpbXVtDQpTb3VuZENhcmQ9MHhlMDE4DQpTb3VuZFBvcnQ9MHgyMjANClNvdW5kSVJRPTcNClNvdW5kRE1BPTUNCk11c2ljQ2FyZD0weGEwMDkNCk11c2ljUG9ydD0weDM4OA0K"/>
 		<rom name="DATA/BACKDROP.RAW" size="173832" crc="b6ba13fc" md5="2c9debcf210c1bfa089c5dbfae7d2f40" sha1="d5c3b0170ca5079bd6f9a6f953c78440742287a7" date="1996-11-08 21:14:06"/>
 		<rom name="DATA/FXSCRIPT.SFX" size="14764542" crc="4fb0f7e6" md5="3999135d197890ce4aad9895112ebc91" sha1="8b37ca1c2328e6d79a9cc5bb5c7eea84adbcf308" date="1996-11-08 10:01:14"/>
 		<rom name="DATA/ICONS.ALL" size="56440" crc="e8b95239" md5="91c4c33339cc0661be9568d79ead8911" sha1="b5ff5d037b5718ac53a66a8e0b08db599afeb429" date="1996-11-28 01:57:42"/>
