@@ -5283,27 +5283,6 @@
 		<rom name="SETUP.INF" size="3" crc="8bdcb97d" md5="56d258bd897f5bb1b04ce55d31431366" sha1="b24951cc8c9d943894c558fa045e943e8916946a"/>
 		<rom name="STATLINE.BAT" size="3200" crc="331dbf34" md5="86c5bbdac16ab65dbe405b9e793bf1c0" sha1="33060142900a37061e926974b22ab25e2904f545"/>
 	</game>
-	<game name="NetHack (1987) (NetHack DevTeam).dosz">
-		<description>NetHack</description>
-		<year>1987</year>
-		<developer>NetHack DevTeam</developer>
-		<comment>Freeware v3.6.7</comment>
-		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://www.nethack.org/v367/ports/download-msdos.html</link>
-		<rom name="cwsdpmi.doc" size="9623" crc="f1baeb1e" md5="a4b217be7a6e49047ca40d82f1c8454b" sha1="f766cef721c58da9f140f95a88ae77cbb99b5950" date="2010-01-07 23:01:26"/>
-		<rom name="cwsdpmi.exe" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 23:06:10"/>
-		<rom name="defaults.nh" size="5029" crc="b73686d3" md5="3657ea3271f92eccbf8a15c73c0c4031" sha1="d5c133879308d8d1eb0936c13f175eeb1e45db02" date="2023-02-15 22:53:28"/>
-		<rom name="guidebk.txt" size="261874" crc="fa690ffa" md5="51a0da615afcf21207c05dd2e86fc903" sha1="dd03926196dfe740832c12b0ee077f253bfb44d6" date="2023-02-15 17:17:08"/>
-		<rom name="license" size="4970" crc="0b43c819" md5="fe4fa6f54885840b61ffea915dbd9040" sha1="e0f879134479e9d6ea37da3f5ba9634960cca28a" date="2022-01-27 09:36:36"/>
-		<rom name="logfile" size="75" crc="0250c390" md5="8599083319a3869513ecc59857c20ee0" sha1="c5ea056d29e1fc71cc6c4ead5d2cee9056bff87a" date="2023-02-15 22:51:26"/>
-		<rom name="nethack.exe" size="3301034" crc="a060b34e" md5="ecfe574cde3e04bdc23574186e02712c" sha1="52e33eae8d7e347e313410dd2632fae5922327aa" date="2023-02-15 22:45:22"/>
-		<rom name="nethack.txt" size="12691" crc="2e685b1b" md5="82119998ef64aff3db0446960fb2f58d" sha1="551f771a4be7dd204d0674cb902cf72ebf39ce68" date="2023-02-15 13:58:52"/>
-		<rom name="nhdat" size="1278816" crc="4c597e43" md5="d2009b73abfd505905a00cd770c6815c" sha1="0548ac68192652483bf68bad51df6a9a4f6abc2b" date="2023-02-15 22:45:24"/>
-		<rom name="nhtiles.bmp" size="692278" crc="f96e6152" md5="01d5e025b0c1d5d912093f318e18c31d" sha1="e927940bceef211bce55f335547e6081b62990ce" date="2023-02-15 22:30:00"/>
-		<rom name="record" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2023-02-15 22:45:26"/>
-		<rom name="symbols" size="17392" crc="85897b39" md5="369a624623b9501c4510de2c787e821d" sha1="49e051ef4939d3a862e57a86edcdba047e292ba2" date="2023-02-15 13:58:52"/>
-		<rom name="sysconf" size="3780" crc="6d25eeb2" md5="3a6dbb6257d4d915241b6b96e52e9cfa" sha1="4ea24c41271fd7bc7461b38acb46ee0cf26360ae" date="2023-02-15 13:58:52"/>
-	</game>
 	<game name="Neuromancer (1989) (Interplay).dosz">
 		<description>Neuromancer</description>
 		<comment>Based on 5.25" floppy dump</comment>
