@@ -1623,12 +1623,17 @@
 	</game>
 	<game name="Gabriel Knight - Sins of the Fathers (1993) (Sierra On-Line) (Floppy Version).dosz">
 		<description>Gabriel Knight - Sins of the Fathers</description>
-		<comment>Installed v1.0 from 3.5" floppy disks, then patched to v1.0b</comment>
-		<comment_dosc>Sound Blaster Pro config and auto start. Game speed reduced. MT-32 and General MIDI options</comment_dosc>
 		<year>1993</year>
 		<developer>Sierra On-Line</developer>
 		<variant>Floppy Version</variant>
-		<link type="patch">https://web.archive.org/web/20240117182716/http://www.sierrahelp.com/Files/Patches/GabrielKnight/GK1Floppy(GKPAT10B).zip</link>
+		<comment>
+			Installed v1.0 from 3.5" floppy disks matching with TGOD ID: 1564
+			Then patched to v1.0b
+			DoDAT cannot build this directly from the disk images/patch download
+		</comment>
+		<comment_dosc>Sound Blaster Pro config and auto start. Game speed reduced. MT-32 and General MIDI options</comment_dosc>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C1564/</link>
+		<link type="patch">http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/GabrielKnightSeriesUpdates.html</link>
 		<rom name="0.MSG" size="17660" crc="33d394d8" md5="6ed6f0ee6e8c33482a38039256e9740b" sha1="06771ecc4aa8664fad30b7e506b03ba733938361" date="1993-11-22 16:45:14"/>
 		<rom name="1.SND" size="4558" crc="e1fee02c" md5="a4e3351a866593077aae89fa68e213bb" sha1="8fbaa22c0463e7c6bd5f3ca879e449523c2d07eb" date="1993-11-22 10:14:10"/>
 		<rom name="10.SND" size="156" crc="f47a3a91" md5="2af6b66ceb68a40b425715d811837479" sha1="256e70e1f8dade2768b8ddc2a4181613a368901e" date="1993-11-22 08:56:12"/>
