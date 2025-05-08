@@ -96,7 +96,10 @@
 		<year>1995</year>
 		<developer>Christen Klie, Bob Carter</developer>
 		<parent>Doom Mod Base.dosz</parent>
-		<comment>Installed from 3.5" floppy disk matching with TGOD ID: 507</comment>
+		<comment>
+			Installed from 3.5" floppy disk matching with TGOD ID: 507
+			DoDAT cannot build this directly from the disk image
+		</comment>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="media">https://www.goodolddays.net/en/diskimages/?id=507</link>
 		<rom name="Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
@@ -510,6 +513,7 @@
 			Installed from CD matching with Redump: Hell to Pay (USA)
 			Install size: Maximum
 			DOS files only
+			DoDAT cannot build this directly from the disk image
 		</comment>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="media">http://redump.org/disc/26192/</link>
@@ -586,6 +590,7 @@
 			Installed from CD matching with TDC entry: Perdition's Gate (1996)(WizardWorks Group, Inc.) [ISO]
 			Install size: Maximum
 			DOS files only
+			DoDAT cannot build this directly from the disk image
 		</comment>
 		<comment_dosc>Auto start</comment_dosc>
 		<rom name="DEUSF.EXE" size="96472" crc="dde8a48d" md5="f681f3ccdaf48cc4e66a7a2a0a9567bf" sha1="c36edca0b6c7aa1b464f0c06181014ffd33476a8" date="1995-12-18 00:19:30"/>
