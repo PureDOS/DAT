@@ -8603,78 +8603,86 @@
 	</game>
 	<game name="Tomb Raider - Unfinished Business (1998) (Core Design).dosz">
 		<description>Tomb Raider - Unfinished Business</description>
-		<comment>Installed from Tomb Raider Gold CD. Needs 3dfx TOMBUB.EXE extracted from the CD. Needs glide2x.ovl from Monster 3D v1.08 drivers</comment>
-		<comment_dosc>Sound Blaster 16 config and auto start. 3dfx option</comment_dosc>
 		<year>1998</year>
 		<developer>Core Design</developer>
+		<comment>
+			Installed from Tomb Raider Gold CD matching with Redump: Tomb Raider Gold (USA) (Disc 2)
+			Needs 3dfx TOMBUB.EXE extracted from the CD
+			Needs glide2x.ovl from Monster 3D v1.08 drivers
+			CD image converted with CHDtoOGG
+		</comment>
+		<comment_dosc>Sound Blaster 16 config and auto start. 3dfx option</comment_dosc>
 		<link type="media">http://redump.org/disc/25488/</link>
 		<link type="driver">https://www.vogonsdrivers.com/getfile.php?fileid=158&amp;menustate=2,1</link>
 		<rom name="3DFX/TOMBUB.EXE" size="868075" crc="34638910" md5="5bc8cb71fa1561e6912ca0a1265c7537" sha1="7eaa8651491fd92a876443cb36116b753a8318ef" date="1998-02-16 16:03:36"/>
+		<rom name="CD/Tomb Raider Gold (USA) (Disc 2) (Track 1).bin" size="448573440" crc="eb85165e" md5="ed8a67591e387384e580e19444a3b5bc" sha1="3884dd3bb9be8c110f5170ad151f32ae4ab32e1d">
+			<source type="MODE1_RAW" frames="190720" duration="42:22:70"/>
+		</rom>
+		<rom name="CD/Tomb Raider Gold (USA) (Disc 2) (Track 2).ogg" size="5261504" crc="1671ea93" md5="d75c99d1a318446611998b41274478cf" sha1="450f48a5ece16cdcda9bd5b5bbe5d0dcc21a1b0e">
+			<source type="AUDIO" frames="14750" omitted_pregap="149" duration="03:16:50" size="34692000" crc="2349d6c0" md5="2911676f585f5ba5438a15e9af25d442" sha1="c55538c1b91a6a3c7ecf7adf099acb031a77d2d0" in_zeros="1712" out_zeros="380708" quality="8"/>
+		</rom>
+		<rom name="CD/Tomb Raider Gold (USA) (Disc 2) (Track 3).ogg" size="4891807" crc="35ab4ab9" md5="3e9fbf0e82bbae00296897b820017cbb" sha1="7772bbe6570eaf9501fb76d603f278ef504a5e43">
+			<source type="AUDIO" frames="14163" omitted_pregap="149" duration="03:08:63" size="33311376" crc="dfa60d7c" md5="40612431bd245891606540dcd4268248" sha1="08d09af0f142c20fe4bd0090976532df9b27b811" in_zeros="1722" out_zeros="437960" quality="8"/>
+		</rom>
+		<rom name="CD/Tomb Raider Gold (USA) (Disc 2) (Track 4).ogg" size="4843932" crc="020c46ae" md5="dbee70c8032e03078c0e630769b69f7f" sha1="f0ed541c9afa6eb51c9c863bc829bdd916e26920">
+			<source type="AUDIO" frames="14076" omitted_pregap="149" duration="03:07:51" size="33106752" crc="301e8e41" md5="1658ddee07252d254007c990c01a79db" sha1="4cf743bc54fe251e20050aeb3dd77842c6842554" in_zeros="1728" out_zeros="369017" quality="8"/>
+		</rom>
+		<rom name="CD/Tomb Raider Gold (USA) (Disc 2).cue" size="467" crc="c902f072" md5="c34945a1eae0fbecaf32cd0ed485b7df" sha1="82cff633f5406a94eb5f002994b96f10a3dfb568"/>
 		<rom name="DOS4GW.EXE" size="265396" crc="5cc34b0f" md5="006211ca60fa3d4b38a9a8da2ade1056" sha1="c489f83dc15a9ffc3c502707da40e581ec79bfe6"/>
 		<rom name="glide2x.ovl" size="338207" crc="3954fbd7" md5="50ea8e8ea6d4921cb9924680b080023f" sha1="b1ee87b95400d29498848c167346ee7ba71d9ba5" date="1997-04-16 17:17:52"/>
 		<rom name="HMIDET.386" size="83774" crc="ae8d1a06" md5="b6656f8af855be3184d2b9f10de91ef5" sha1="c3b75ab63273edfed1bb15acf59b321102781a96"/>
 		<rom name="HMIDRV.386" size="317317" crc="21c398b8" md5="2de5f490362469628841199644a38e02" sha1="32c89e02cae4c33d1c0b93562f4ca0fe86c4a199"/>
 		<rom name="SETUP.EXE" size="220037" crc="f90702da" md5="4f133e6da83da72ecb9ebc1d518d78c0" sha1="5a1257cc4fca9eb6ad6428cf08c208b012443f67"/>
-		<rom name="Tomb Raider Gold (USA) (Disc 2) (Track 1).bin" size="448573440" crc="eb85165e" md5="ed8a67591e387384e580e19444a3b5bc" sha1="3884dd3bb9be8c110f5170ad151f32ae4ab32e1d"/>
-			<source frames="190720" pregap="0" duration="42:22:70" size="448573440" crc="eb85165e" md5="ed8a67591e387384e580e19444a3b5bc" sha1="3884dd3bb9be8c110f5170ad151f32ae4ab32e1d"/>
-		</rom>
-		<rom name="Tomb Raider Gold (USA) (Disc 2) (Track 2).ogg" size="5261504" crc="1671ea93" md5="d75c99d1a318446611998b41274478cf" sha1="450f48a5ece16cdcda9bd5b5bbe5d0dcc21a1b0e">
-			<source frames="14899" pregap="149" duration="03:18:49" size="35042448" crc="3c2c85d5" md5="ab245f3f54c42c9745201af10f378700" sha1="403240b8fba4cb6a2f6abb3fdf88a14b1695ce95" in_zeros="352160" out_zeros="380708" trimmed_crc="8ad7e264" quality="8"/>
-		</rom>
-		<rom name="Tomb Raider Gold (USA) (Disc 2) (Track 3).ogg" size="4891807" crc="35ab4ab9" md5="3e9fbf0e82bbae00296897b820017cbb" sha1="7772bbe6570eaf9501fb76d603f278ef504a5e43">
-			<source frames="14312" pregap="149" duration="03:10:62" size="33661824" crc="95103b8f" md5="0e73ceb8a79d69aba9134a3e1eeb63ad" sha1="cd56624e10feb0bdea4a217c56101f3ca1019135" in_zeros="352170" out_zeros="437960" trimmed_crc="be184f72" quality="8"/>
-		</rom>
-		<rom name="Tomb Raider Gold (USA) (Disc 2) (Track 4).ogg" size="4843932" crc="020c46ae" md5="dbee70c8032e03078c0e630769b69f7f" sha1="f0ed541c9afa6eb51c9c863bc829bdd916e26920">
-			<source frames="14225" pregap="149" duration="03:09:50" size="33457200" crc="798675b8" md5="0af1e7e4ffab092b97b36e29a4a5e3eb" sha1="3cb90647acdefc16d5db0ca19a69391fb6b23a33" in_zeros="352176" out_zeros="369017" trimmed_crc="ed2242cc" quality="8"/>
-		</rom>
-		<rom name="Tomb Raider Gold (USA) (Disc 2).cue" size="467" crc="c902f072" md5="c34945a1eae0fbecaf32cd0ed485b7df" sha1="82cff633f5406a94eb5f002994b96f10a3dfb568"/>
 		<rom name="TOMBUB.EXE" size="766067" crc="363a6531" md5="ffae2f04e5ede27a4a09e2bcec176f82" sha1="a6acbd43bf475dc07ea3f9e0ea53e917fa1eb719"/>
 	</game>
 	<game name="Tomb Raider (1996) (Core Design).dosz">
 		<description>Tomb Raider</description>
-		<comment>Installed from Tomb Raider Gold CD. Needs 3dfx TOMB.EXE extracted from the CD</comment>
-		<comment_dosc>Sound Blaster 16 config and auto start. 3dfx option</comment_dosc>
 		<year>1996</year>
 		<developer>Core Design</developer>
+		<comment>
+			Installed from Tomb Raider Gold CD matching with Redump: Tomb Raider Gold (USA) (Disc 1)
+			Needs 3dfx TOMB.EXE extracted from the CD
+			CD image converted with CHDtoOGG
+		</comment>
+		<comment_dosc>Sound Blaster 16 config and auto start. 3dfx option</comment_dosc>
 		<link type="media">http://redump.org/disc/66618/</link>
 		<rom name="3DFX/TOMB.EXE" size="1140735" crc="0288f887" md5="83d03a2b4b4d3f1e95aa04735daf3cf7" sha1="a439867d43b8d27c6c0cc97efcbecb7e83dc3cf9" date="1997-02-11 17:21:04"/>
+		<rom name="CD/Tomb Raider Gold (USA) (Disc 1) (Track 1).bin" size="217216608" crc="b2f755c3" md5="9ff4745c0f73bc7b2afa1c9bb0475de9" sha1="d3a2486bdafb45da668b678fc47358f1b3fa6efd">
+			<source type="MODE1_RAW" frames="92354" duration="20:31:29"/>
+		</rom>
+		<rom name="CD/Tomb Raider Gold (USA) (Disc 1) (Track 2).ogg" size="5261506" crc="23d284d4" md5="ff5b22c3c8d6017faa689f55af6357bf" sha1="4cbae1b29cc20b04c7a0291dc77d70380531dfa5">
+			<source type="AUDIO" frames="14751" omitted_pregap="149" duration="03:16:51" size="34694352" crc="4426783e" md5="ca16aae937649bedf527e4fd38135d5e" sha1="be3d8866a540544cd7c18a765e2e25fe7f832c14" in_zeros="1712" out_zeros="383060" quality="8"/>
+		</rom>
+		<rom name="CD/Tomb Raider Gold (USA) (Disc 1) (Track 3).ogg" size="3299627" crc="8b734316" md5="33d22b3186ca759fba1ede5f658f5d73" sha1="145aed12cdbfea1bb2e2107310ec0421cbf24903">
+			<source type="AUDIO" frames="9018" omitted_pregap="148" duration="02:00:18" size="21210336" crc="829527ca" md5="10fdbdc79d93b5bf197a7f645ec34d87" sha1="6885bb86c73b65ef22d322fdb6fe37f662fc7283" in_zeros="1732" out_zeros="373350" quality="8"/>
+		</rom>
+		<rom name="CD/Tomb Raider Gold (USA) (Disc 1) (Track 4).ogg" size="5584232" crc="f7409390" md5="3ae77a2fa00783966eabb94744bc07fe" sha1="5ff5972243bc6d7f1423f27d71d537012d21dc82">
+			<source type="AUDIO" frames="13739" omitted_pregap="149" duration="03:03:14" size="32314128" crc="ed722d24" md5="f78716325967ed40b45cd3ea0c9e9625" sha1="a372b7568a10e6d8662021a63f801c86cb416c4e" in_zeros="1734" out_zeros="371472" quality="8"/>
+		</rom>
+		<rom name="CD/Tomb Raider Gold (USA) (Disc 1) (Track 5).ogg" size="4891807" crc="35ab4ab9" md5="3e9fbf0e82bbae00296897b820017cbb" sha1="7772bbe6570eaf9501fb76d603f278ef504a5e43">
+			<source type="AUDIO" frames="14163" omitted_pregap="149" duration="03:08:63" size="33311376" crc="dfa60d7c" md5="40612431bd245891606540dcd4268248" sha1="08d09af0f142c20fe4bd0090976532df9b27b811" in_zeros="1722" out_zeros="437960" quality="8"/>
+		</rom>
+		<rom name="CD/Tomb Raider Gold (USA) (Disc 1) (Track 6).ogg" size="4844085" crc="0ef38712" md5="240376253793136ee36a576629dec8e3" sha1="08858359161b20a469f347637a5845bf923d0895">
+			<source type="AUDIO" frames="14077" omitted_pregap="149" duration="03:07:52" size="33109104" crc="90bb770d" md5="a603bd7b81dfde4ae82efced683deb39" sha1="3b2e80946371260a4b2353598458ee8ecda28482" in_zeros="1752" out_zeros="371345" quality="8"/>
+		</rom>
+		<rom name="CD/Tomb Raider Gold (USA) (Disc 1) (Track 7).ogg" size="2180469" crc="81d37ada" md5="878473516a5b0fb228e744f3c587ce47" sha1="4542fb631dfdeee33116d30da0f0f08f78037c58">
+			<source type="AUDIO" frames="4770" omitted_pregap="149" duration="01:03:45" size="11219040" crc="04ed4b2b" md5="c8f1fd924182260d5cca00323172f5ec" sha1="adadc57d29c1dd7fbf9db698db6bf83e9a0334c3" in_zeros="1764" out_zeros="370495" quality="8"/>
+		</rom>
+		<rom name="CD/Tomb Raider Gold (USA) (Disc 1) (Track 8).ogg" size="1831275" crc="4524d5a1" md5="bde47b45f01f526adb1309c07727b5e7" sha1="0cbe1b61697afa0780a70144ff4f4736f47f6f4c">
+			<source type="AUDIO" frames="4326" omitted_pregap="149" duration="00:57:51" size="10174752" crc="51327b61" md5="4d3dd8604330a3253355a3ee4f5a20cc" sha1="f5e65d5dc927fd79c261e4e7ac7c1322467c45f8" in_zeros="1756" out_zeros="414692" quality="8"/>
+		</rom>
+		<rom name="CD/Tomb Raider Gold (USA) (Disc 1) (Track 9).ogg" size="399830" crc="6c82fd0a" md5="f9bb5b69fa57b8525665cb7bfeb4e686" sha1="74820c508d501f2e7a21d7a21b35a00a740397b4">
+			<source type="AUDIO" frames="1160" omitted_pregap="149" duration="00:15:35" size="2728320" crc="5c2f49c8" md5="eb042c349b3e5c830b4077a79ebfa6b1" sha1="630f1d87454f553d827ca728975e68e2a17e12d1" in_zeros="1764" out_zeros="372387" quality="8"/>
+		</rom>
+		<rom name="CD/Tomb Raider Gold (USA) (Disc 1) (Track 10).ogg" size="1143517" crc="e549d11e" md5="393d00ec3d88aa45abcbba97bb532b17" sha1="a989f8f9368da4571ebfd679b96ab8c097650afd">
+			<source type="AUDIO" frames="2619" omitted_pregap="149" duration="00:34:69" size="6159888" crc="6f1fbd34" md5="0dc1341b3d05ed4d708282b08422b5b7" sha1="c7caeaa80bb423f9241109fcc861eea78adc08fc" in_zeros="1784" out_zeros="7624" quality="8"/>
+		</rom>
+		<rom name="CD/Tomb Raider Gold (USA) (Disc 1).cue" size="1188" crc="e8ed74f8" md5="5994d097ae7f4752bbd44928a86c053d" sha1="cc7ba18a8da2b4af5ce8985c819e5c1e0e7e5247"/>
 		<rom name="DOS4GW.EXE" size="265396" crc="5cc34b0f" md5="006211ca60fa3d4b38a9a8da2ade1056" sha1="c489f83dc15a9ffc3c502707da40e581ec79bfe6"/>
 		<rom name="HMIDET.386" size="83774" crc="ae8d1a06" md5="b6656f8af855be3184d2b9f10de91ef5" sha1="c3b75ab63273edfed1bb15acf59b321102781a96"/>
 		<rom name="HMIDRV.386" size="317317" crc="21c398b8" md5="2de5f490362469628841199644a38e02" sha1="32c89e02cae4c33d1c0b93562f4ca0fe86c4a199"/>
 		<rom name="SETUP.EXE" size="214377" crc="4b26cf34" md5="822bc7cc2297a87db19709d8d8c3ae68" sha1="71d315f0e176886d29b99443cb39704549659d39"/>
-		<rom name="Tomb Raider Gold (USA) (Disc 1) (Track 1).bin" size="217216608" crc="b2f755c3" md5="9ff4745c0f73bc7b2afa1c9bb0475de9" sha1="d3a2486bdafb45da668b678fc47358f1b3fa6efd"/>
-			<source frames="92354" pregap="0" duration="20:31:29" size="217216608" crc="b2f755c3" md5="9ff4745c0f73bc7b2afa1c9bb0475de9" sha1="d3a2486bdafb45da668b678fc47358f1b3fa6efd"/>
-		</rom>
-		<rom name="Tomb Raider Gold (USA) (Disc 1) (Track 2).ogg" size="5261506" crc="23d284d4" md5="ff5b22c3c8d6017faa689f55af6357bf" sha1="4cbae1b29cc20b04c7a0291dc77d70380531dfa5">
-			<source frames="14900" pregap="149" duration="03:18:50" size="35044800" crc="e410cfa4" md5="a0c75ca51f1e46ba8c1d237ea006c0e8" sha1="29ca28588580287cae5dcb61fc331fa5bc14e425" in_zeros="352160" out_zeros="383060" trimmed_crc="8ad7e264" quality="8"/>
-		</rom>
-		<rom name="Tomb Raider Gold (USA) (Disc 1) (Track 3).ogg" size="3299627" crc="8b734316" md5="33d22b3186ca759fba1ede5f658f5d73" sha1="145aed12cdbfea1bb2e2107310ec0421cbf24903">
-			<source frames="9166" pregap="148" duration="02:02:16" size="21558432" crc="fb1057ce" md5="b2ef9fc66a501e581233ecb1142c3080" sha1="37a9cb17b6a1e6074c66294c06f9fcc7e6130263" in_zeros="349828" out_zeros="373350" trimmed_crc="ac2db84c" quality="8"/>
-		</rom>
-		<rom name="Tomb Raider Gold (USA) (Disc 1) (Track 4).ogg" size="5584232" crc="f7409390" md5="3ae77a2fa00783966eabb94744bc07fe" sha1="5ff5972243bc6d7f1423f27d71d537012d21dc82">
-			<source frames="13888" pregap="149" duration="03:05:13" size="32664576" crc="f3e05106" md5="8783134ac4bc703454a44acfb7315b4b" sha1="6b3415dc8912dfd39643f9229e7018309ef736b1" in_zeros="352182" out_zeros="371472" trimmed_crc="799d95ce" quality="8"/>
-		</rom>
-		<rom name="Tomb Raider Gold (USA) (Disc 1) (Track 5).ogg" size="4891807" crc="35ab4ab9" md5="3e9fbf0e82bbae00296897b820017cbb" sha1="7772bbe6570eaf9501fb76d603f278ef504a5e43">
-			<source frames="14312" pregap="149" duration="03:10:62" size="33661824" crc="95103b8f" md5="0e73ceb8a79d69aba9134a3e1eeb63ad" sha1="cd56624e10feb0bdea4a217c56101f3ca1019135" in_zeros="352170" out_zeros="437960" trimmed_crc="be184f72" quality="8"/>
-		</rom>
-		<rom name="Tomb Raider Gold (USA) (Disc 1) (Track 6).ogg" size="4844085" crc="0ef38712" md5="240376253793136ee36a576629dec8e3" sha1="08858359161b20a469f347637a5845bf923d0895">
-			<source frames="14226" pregap="149" duration="03:09:51" size="33459552" crc="f1e20ed8" md5="dad8d173df068bdc5a1f4fe57d6ed6b2" sha1="bf702193e77f005d674819bf5544cf4236699de3" in_zeros="352200" out_zeros="371345" trimmed_crc="ed2242cc" quality="8"/>
-		</rom>
-		<rom name="Tomb Raider Gold (USA) (Disc 1) (Track 7).ogg" size="2180469" crc="81d37ada" md5="878473516a5b0fb228e744f3c587ce47" sha1="4542fb631dfdeee33116d30da0f0f08f78037c58">
-			<source frames="4919" pregap="149" duration="01:05:44" size="11569488" crc="e01365c6" md5="9d4c3d0db01e3e4142b721e5afeeb5d9" sha1="a94daf6cc9fd32ecf9a6653a86d25f4c1ea865b8" in_zeros="352212" out_zeros="370495" trimmed_crc="0e5524cd" quality="8"/>
-		</rom>
-		<rom name="Tomb Raider Gold (USA) (Disc 1) (Track 8).ogg" size="1831275" crc="4524d5a1" md5="bde47b45f01f526adb1309c07727b5e7" sha1="0cbe1b61697afa0780a70144ff4f4736f47f6f4c">
-			<source frames="4475" pregap="149" duration="00:59:50" size="10525200" crc="2c456776" md5="09b9fa32af9bee8b42fda18be32c779d" sha1="985bee36742ad02d49d414796cec4e93f5a6e134" in_zeros="352204" out_zeros="414692" trimmed_crc="095445ba" quality="8"/>
-		</rom>
-		<rom name="Tomb Raider Gold (USA) (Disc 1) (Track 9).ogg" size="399830" crc="6c82fd0a" md5="f9bb5b69fa57b8525665cb7bfeb4e686" sha1="74820c508d501f2e7a21d7a21b35a00a740397b4">
-			<source frames="1309" pregap="149" duration="00:17:34" size="3078768" crc="5030689b" md5="40cb71e55341d6dc6d84572420d1d7f0" sha1="f46760f43e876c9409603b9f2caed212e211932b" in_zeros="352212" out_zeros="372387" trimmed_crc="c442a777" quality="8"/>
-		</rom>
-		<rom name="Tomb Raider Gold (USA) (Disc 1) (Track 10).ogg" size="1143517" crc="e549d11e" md5="393d00ec3d88aa45abcbba97bb532b17" sha1="a989f8f9368da4571ebfd679b96ab8c097650afd">
-			<source frames="2768" pregap="149" duration="00:36:68" size="6510336" crc="7ecae9a2" md5="ffc1ded290202fe5b379d18a1ed25421" sha1="586ae76aa873f3f2c0fa1e5d1ebe78530f999c7c" in_zeros="352232" out_zeros="7624" trimmed_crc="22ce5f28" quality="8"/>
-		</rom>
-		<rom name="Tomb Raider Gold (USA) (Disc 1).cue" size="1188" crc="e8ed74f8" md5="5994d097ae7f4752bbd44928a86c053d" sha1="cc7ba18a8da2b4af5ce8985c819e5c1e0e7e5247"/>
 		<rom name="TOMB.EXE" size="768563" crc="1772dba0" md5="15699b22176f77154c102b4aad8759a7" sha1="cb59304ca4544bb116b89e5edb887bd54e358bbd"/>
-		<rom name="TOMB.PIF" size="967" crc="d7908a39" md5="69fb9fbc53b0421c97855aa8d0e48f74" sha1="a2548d6aff3f968dbc217dbb94f8fedb92785134"/>
 		<rom name="TOMB.SP" size="11888" crc="f3b1c414" md5="ee1ef1c7eb343df39054f98fb2efe177" sha1="a7d5d004eef9122841f453a768f50472f8f9ebf3"/>
 	</game>
 	<game name="Transport Tycoon Deluxe (1995) (Chris Sawyer).dosz">
