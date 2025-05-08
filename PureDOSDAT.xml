@@ -6346,6 +6346,17 @@
 		<rom name="MISSIONS/PANIC.MN2" size="174" crc="c71f5773" md5="8ffbc2abf06488172fa82522ae1d7152" sha1="830ab8aed668b3485e17c08afa24fc55dd7cc56c" date="1996-05-15 12:56:18"/>
 		<rom name="README.TXT" size="60160" crc="d497dcba" md5="d1c9c8d5914e87c8ae387b3ef363cd7b" sha1="611213e42ecf7e77d9cbee289ee22918a8c7cf02" date="1996-10-30 00:47:24"/>
 	</game>
+	<game name="Dig, The (1995) (LucasArts).dosz">
+		<description>Dig, The</description>
+		<year>1995</year>
+		<developer>LucasArts</developer>
+		<comment>Matches with Redump: Dig, The (USA, Europe)</comment>
+		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
+		<link type="media">http://redump.org/disc/2104/</link>
+		<rom name="Dig, The (USA, Europe).chd" size="792094464" crc="9429c0e3" md5="2868d0d0d2b1a3156c54e37f25b8faf6" sha1="31891273d4911b7632da86e109758584de430165">
+			<track number="1" type="MODE1_RAW" frames="323491" pregap="0" duration="71:53:16" size="760850832" crc="50125c32" md5="e8c8603f095b21ca60d53560750e3805" sha1="725c23b6c7718fa61249b4ce59179acb8cfb1ab1" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
 	<game name="Donkey Kong PC (2002) (BB Software).dosz">
 		<description>Donkey Kong PC</description>
 		<year>2002</year>
