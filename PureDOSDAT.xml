@@ -367,6 +367,23 @@
 		<rom name="SFX/ZAP3.WAV" size="9448" crc="c58c799a" md5="33c38a9e024e33721e5c42b0fcc18eba" sha1="b83706f5e97e4416278a9564a319362c2c5a504f" date="1995-08-26 05:30:20"/>
 		<rom name="TEST.RAW" size="40320" crc="0d2d49b8" md5="7cc517930c314be6ca818395934e9850" sha1="13b15b9f8a0b7d98176f9437aca149301c576458" date="1995-08-15 19:57:50"/>
  	</game>
+	<game name="Adventures of Willy Beamish, The (1991) (Dynamix).dosz">
+		<description>Adventures of Willy Beamish, The</description>
+		<comment>Installed using Redump-verified CD-ROM: Adventures of Willy Beamish, The (USA)
+		Default installation options
+		Music: Sound Blaster Card
+		Mouse: Use Microsoft compatible mouse
+		Memory: Use your machine's extra memory
+		Change C:\dynamix\wcd\resource.cfg to C:\wcd\resource.cfg in WILLY.BAT</comment>
+		<comment_dosc>Sets CPU year to 1991, mounts disc, and auto-starts</comment_dosc>
+		<year>1991</year>
+		<developer>Dynamix</developer>
+		<link type="media">http://redump.org/disc/14772/</link>
+		<rom name="Adventures of Willy Beamish, The (USA).chd" size="434001024" crc="2a69568d" md5="01f09a3c1aa766d016baac3c1de412c4" sha1="63f7e95f9bd9237742481d9fe2ed586b821d8ecb">
+			<track number="1" type="MODE1_RAW" frames="177244" pregap="0" duration="39:23:19" size="416877888" crc="ad28138b" md5="58d6f39d8968593ee9838b5a099d32f0" sha1="383e84686022a8bac4dab38c0495d4d6b1972cf5"/>
+		</rom>
+		<rom name="WILLY.BAT" size="45" crc="fb748e84" md5="61d882c11676115f7ec60269865b2058" sha1="664850618f46ecdeb7b8e6215079e86e014c28e8"/>
+	</game>
 	<game name="Alien Breed (1993) (Team 17).dosz">
 		<description>Alien Breed</description>
 		<comment>Game installed from 1.44 MB 3.5" floppy disk</comment>
