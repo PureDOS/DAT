@@ -17333,6 +17333,271 @@
 		<rom name="WHIP1.WAR" size="100" crc="da311ea9" md5="527392a39078007e449edeb800c92dd0" sha1="a79a3f5a75cd3c0ecdbe3d3ce1375cc2f018330f" date="1990-02-06 12:00:00"/>
 		<rom name="WHIP2.WAR" size="116" crc="fcea86dc" md5="cd4fde0ae3712a5177bc37407a72e2a7" sha1="567c500950a5e1fea6d89d00a9074c52c5a81bd8" date="1990-02-06 12:00:00"/>
 	</game>
+	<game name="Police Quest - SWAT (1995) (Sierra On-Line).dosz">
+		<description>Police Quest - SWAT</description>
+		<comment>Installed using Redump-verified CD-ROM: Daryl F. Gates' Police Quest - SWAT (USA) (Disc 1) (v1.1)</comment>
+		<comment_dosc>Mounts disc and auto-starts</comment_dosc>
+		<year>1995</year>
+		<developer>Sierra On-Line</developer>
+		<link type="media">http://redump.org/disc/8002/, http://redump.org/disc/8003/, http://redump.org/disc/8004/, http://redump.org/disc/8005/</link>
+		<rom name="CD/Daryl F. Gates' Police Quest - SWAT (USA) (Disc 1) (v1.1).chd" size="745993728" crc="758c6015" md5="bdfe4e6b3a2ef0f5d318f86bf8868e24" sha1="8dfaa456f8da7a11e0f848e6f71945250881d5d3">
+			<track number="1" type="MODE1_RAW" frames="304670" pregap="0" duration="67:42:20" size="716583840" crc="e2575235" md5="d59bdf3102591ad9b55574ff194d3cc7" sha1="3fb42b54c627c5dbe4394ac288b40a9105b85673" in_zeros="1" out_zeros="0"/>
+		</rom>
+		<rom name="CD/Daryl F. Gates' Police Quest - SWAT (USA) (Disc 2) (v1.1).chd" size="760055040" crc="395fa966" md5="9453bd145977327337de23c12cd385c7" sha1="43b4b58dbf61e7c3345b5fea9972a7f5f990ab07">
+			<track number="1" type="MODE1_RAW" frames="310415" pregap="0" duration="68:58:65" size="730096080" crc="a4719721" md5="c92ecb4cf87bdea978dd8ba3a55b30bc" sha1="ae8e7e4a5c91bae1f745785308d366d19ae4b4be" in_zeros="1" out_zeros="0"/>
+		</rom>
+		<rom name="CD/Daryl F. Gates' Police Quest - SWAT (USA) (Disc 3) (v1.1).chd" size="666952704" crc="c3e06218" md5="81bd012112e3071a5d6b5778e06796b9" sha1="860c80659f5ac0c3c2e8a1791c8544bfa4c1147c">
+			<track number="1" type="MODE1_RAW" frames="272387" pregap="0" duration="60:31:62" size="640654224" crc="40ed5a49" md5="bd0a26f845149521e61b669d494a189b" sha1="4084e6a6412326b8f8d56c5a3fa69fe09497d5b3" in_zeros="1" out_zeros="0"/>
+		</rom>
+		<rom name="CD/Daryl F. Gates' Police Quest - SWAT (USA) (Disc 4) (v1.1).chd" size="731364480" crc="8b26eeb3" md5="ee42c9cfa42d3f974cf16c412831995f" sha1="31fe3c9bdf294f87714711fdd48f36c76d17f280">
+			<track number="1" type="MODE1_RAW" frames="298690" pregap="0" duration="66:22:40" size="702518880" crc="e6f3d27a" md5="fc721c0148f1ba1e42ed86b57d4c0b43" sha1="e439fdbb19502ee67116d94d35b7ff98615e1449" in_zeros="1" out_zeros="0"/>
+		</rom>
+		<rom name="SWAT.BAT" size="146" crc="d70d6231" md5="552c5422c4f8c2a1d344db78d8493565" sha1="21470d915f8ce40e46cead0460246613a4de68a4"/>
+		<rom name="SWATDOS/BOOTDISK.EXE" size="37809" crc="b4469e84" md5="8401bd0c61de60d24a926de6ff258423" sha1="97ed0763dd905c606e6cd20e651ac415732f1999" date="1995-10-16 23:54:00"/>
+		<rom name="SWATDOS/CHECKCD.BAT" size="539" crc="5e4c978e" md5="a0ea1fc06356ea94ad943e2fba29bf72" sha1="0ca17c5f263c4720373785de8a04b14064f22c98" date="1995-09-13 14:17:36"/>
+		<rom name="SWATDOS/CPUID.EXE" size="50437" crc="b42a2892" md5="6069f0c1e6398c005766cbcea45372bb" sha1="41bb475f05088c31a1f5f69a72622db42631d2ad" date="1995-07-14 11:24:44"/>
+		<rom name="SWATDOS/DACBLAST.DRV" size="4404" crc="253e5a22" md5="58954b91b7e677d4d61bcb4842b04d9b" sha1="04baf400bc3d85cf35085a2f7bf79fca2cad61a9" date="1995-08-16 11:51:32"/>
+		<rom name="SWATDOS/DACMSSYS.DRV" size="2447" crc="88001895" md5="d38731b19c332cb88a0789cf91330bf6" sha1="8fff709c294cb100ecac0ede5897dc05c6eb64ec" date="1995-07-15 13:38:18"/>
+		<rom name="SWATDOS/DACPRO.DRV" size="2805" crc="7749378e" md5="22836fc9989c727b44b60f6e2b0623fa" sha1="4ce9d362cadc88519dc5591779cd9850b1bd581d" date="1995-07-15 13:38:06"/>
+		<rom name="SWATDOS/DACPRO16.DRV" size="2729" crc="5fd843e1" md5="2a401cb35ca5e0ef9f4770831957eb08" sha1="db4c1da9cff92da1a5c98948e822e2ed0e31a2c9" date="1995-07-15 13:38:12"/>
+		<rom name="SWATDOS/DACPRO8.DRV" size="2587" crc="43a428e0" md5="6b7ca0b18041c7f56fc6330b37129540" sha1="7f4a3f56d5ee7f77fc571a940d95283485f6f895" date="1995-07-15 13:38:14"/>
+		<rom name="SWATDOS/DACTHUND.DRV" size="3399" crc="d30db585" md5="a5aa7d99e4744ef3a8a866a5d49cc85e" sha1="d8acc50d5470fff5d0a276c3e626fb5e6a31d0e2" date="1995-07-15 13:37:54"/>
+		<rom name="SWATDOS/DOS4GW.EXE" size="265420" crc="cb214447" md5="ee4033581845b3b8d28c4b7287eb4fc2" sha1="a897c7eb79145a308c4e60b43413bb2daa360506" date="1994-09-01 10:00:00"/>
+		<rom name="SWATDOS/FROG.BMP" size="57624" crc="9b177578" md5="d62e98cd5eaa4cdc2651ad044962e1cd" sha1="92ca8c6062db4021708dd4ee00ee1d86b55345f7" date="1995-07-14 11:30:22"/>
+		<rom name="SWATDOS/HAVEVESA.EXE" size="6659" crc="5d282f48" md5="0574fb4a4ee88c7300486b8e78a0c9c7" sha1="db1752b9791d4cf231950e4c694b67b6bab384f3" date="1995-08-02 19:05:44"/>
+		<rom name="SWATDOS/HDDTEC.EXE" size="83586" crc="e99ec7dd" md5="9c27d65d6a5cfcedd850484cd799cfcd" sha1="f583c862ecf50372715b79a83db38666df42883e" date="1995-08-04 13:46:00"/>
+		<rom name="SWATDOS/INSTALL.EXE" size="87769" crc="8219063e" md5="a997ad1458271e39f68bcbe0b9f46b0c" sha1="5489a41457b8d85f917c862e1e0ffaf323a8dd64" date="1995-10-31 10:58:00"/>
+		<rom name="SWATDOS/INSTALL.HLP" size="21747" crc="d0a87b17" md5="5c32f4440df4ad932d036b3908feb613" sha1="d9d772cd77a6e15042d51ea36f080252fc39e2b7" date="1995-08-03 13:19:00"/>
+		<rom name="SWATDOS/INSTALL.SCR" size="3490" crc="92a1a956" md5="0baa64d986c1b27d4d509cc6b8e0e164" sha1="6fa5d4c260080503b494ca603dc8386ff35beea2" date="1996-04-05 11:24:36"/>
+		<rom name="SWATDOS/INSTALL.TXT" size="9590" crc="eba20f31" md5="de8f1f93678f6c928628b87b4a102838" sha1="a1d4a8935c1affff4a43f5a75f7e04f79e00aa6a" date="1995-03-17 15:28:00"/>
+		<rom name="SWATDOS/MIDNONE.DRV" size="10427" crc="a21ad12c" md5="6447a122d198fea2715888a4a537429c" sha1="cb2680f695047d24106740e175e8775120f8c4ee" date="1993-10-08 13:22:50"/>
+		<rom name="SWATDOS/README" size="20067" crc="748e280c" md5="91f088b9182e942d45a1b2bd19c8f34a" sha1="6c79635ee29920e5a584c031304b618c4031d04c" date="1995-11-21 22:17:00"/>
+		<rom name="SWATDOS/README.BAT" size="27" crc="3cc2bca6" md5="9e499031cf616051ce50eb490ef3564c" sha1="d65ee97a320b6c09396d43d94af20af32823333d" date="1996-02-09 17:24:42"/>
+		<rom name="SWATDOS/RESOURCE.CFG" size="539" crc="ec3e4b43" md5="2d4f4a84d2fa2450f47f8eb211b1d143" sha1="55e93da78481026bfa5cd3e7d575c6a7a0a35ced" date="1996-03-13 17:04:02"/>
+		<rom name="SWATDOS/SIERRA.ERR" size="8475" crc="7969cc00" md5="4d9122131775e6349c3c8b6574ec612c" sha1="6c4c90770f853b6d2a6c90111a1aa42f6a9b1e24" date="1994-08-12 11:57:18"/>
+		<rom name="SWATDOS/SIERRAH.EXE" size="836040" crc="2eeb6975" md5="2c6570e9362197bfa6abf3a6aefdd82d" sha1="d5f4e9a4a960040b86fe26003f1bc4bbd91d3d6f" date="1996-03-06 12:49:54"/>
+		<rom name="SWATDOS/SWAT.BAT" size="146" crc="5934ce1a" md5="08037c6f6d82e305b9f677656c9842df" sha1="0db51e8c870655f4d3212dd589aa6f769afbd378"/>
+		<rom name="SWATDOS/UVCONFIG.EXE" size="260250" crc="3731ecd2" md5="43e7d6c9a606c9d3c7f703e2056fdb1b" sha1="3c4c61563ab6df1fb145b05c925b178095c83ea9" date="1995-05-01 22:35:20"/>
+		<rom name="SWATDOS/VESA.BAT" size="81" crc="717e1bb1" md5="48350b6b6e1470229bc5c2c12188183f" sha1="9ce8cf49561b826e16c43b57913bcc9075255b7d"/>
+		<rom name="SWATDOS/VESA.DRV" size="35" crc="d3c60945" md5="8b6220a473e9a6c0f7a8ec471a401782" sha1="2526f8324466ea58c69b67e4412b1e6153a25f14" date="1993-10-20 12:26:36"/>
+		<rom name="SWATDOS/WHAT.EXE" size="3170" crc="6b71137c" md5="e78b5d342f77badf9f807d07a8e01cc8" sha1="9a892246c42aeb358ab999120bc6a0eddd294925" date="1987-07-31 00:00:00"/>
+	</game>
+	<game name="Police Quest 1 - In Pursuit of the Death Angel (1987) (Sierra On-Line).dosz">
+		<description>Police Quest 1 - In Pursuit of the Death Angel</description>
+		<comment>Installed from Redump-verified CD-ROM: Daryl F. Gates' Police Quest Collection - The 4 Most Wanted (USA, Europe) (Collection Series)</comment>
+		<comment_dosc>Auto-starts</comment_dosc>
+		<year>1987</year>
+		<developer>Sierra On-Line</developer>
+		<rom name="_INSTALL.BAT" size="999" crc="d0b4a941" md5="e73a62f703e52e44318fd53dad9211fa" sha1="9a3ed481865acb176426333550625e3bb7f07b5c" date="1986-12-04 09:32:54"/>
+		<rom name="AGI" size="39424" crc="40ae7b2d" md5="08c25b0fad4b6bcd10efd072e5bcf4d8" sha1="497f65a34a76b214a71b880f75a0324f047f7a44" date="1986-12-04 09:33:04"/>
+		<rom name="AGIDATA.OVL" size="8192" crc="477bd79b" md5="d83459a8643dfc67b4629ec4afe64e13" sha1="9e424ed24e967c8efb889be832ac3c2d4d01d79c" date="1986-12-01 08:49:20"/>
+		<rom name="CGA_GRAF.OVL" size="1024" crc="838c18ac" md5="e34849e963efdcc942b67ee9bf5c1533" sha1="65bf46b1dc6917c302de523fe39f227218ef46e4" date="1986-12-01 08:48:44"/>
+		<rom name="EGA_GRAF.OVL" size="1024" crc="67e8b0ad" md5="714c88fa15b8327c585b86f3e619b068" sha1="8343b987ce1d288b15eddd32e9f1068189965c21" date="1986-12-01 08:48:46"/>
+		<rom name="EXISTS.COM" size="574" crc="b1c59e17" md5="61f35eec8998802abe2118b26e0c9cfa" sha1="e33cef86c2782b7ef43870c8c290790d98dd51c4" date="1987-09-10 14:52:42"/>
+		<rom name="GODIR.COM" size="507" crc="71a2c71f" md5="28d7efe8c850bfb52231fc58567e25cc" sha1="734188659a6264826bdd404e1e414a0b9d4daa85" date="1988-09-05 10:24:00"/>
+		<rom name="HGC_FONT" size="3072" crc="200435c7" md5="f3d4c66e195491aa759b7c5ef996488b" sha1="fee5e93395ff4f922c26c4a8f687d8517fd96fd0" date="1986-01-26 15:47:26"/>
+		<rom name="HGC_GRAF.OVL" size="1536" crc="7c999ac8" md5="8eb68e541e8ea93da96c7fc4cfde7f3f" sha1="91297527bb4515749bc5f118e2d992d21ddf5fdd" date="1986-12-01 08:48:48"/>
+		<rom name="HGC_OBJS.OVL" size="1024" crc="4232dbd7" md5="a8f5aabf72ed3d4165038275faf8b527" sha1="09b09152b40c394abe835b68bf91bf352f7d2ced" date="1986-12-01 08:48:52"/>
+		<rom name="IBM_OBJS.OVL" size="512" crc="a0a04da4" md5="119949f12a5fc14a082794350c19118b" sha1="3df9134a95fc2690d9ef0c7a6d37ec0bac732944" date="1986-12-01 08:48:50"/>
+		<rom name="INSTALL.BAT" size="1244" crc="f771e742" md5="1fa440bb51ea80dac30ef0f8cf39a9f0" sha1="ebb0e133ea04b86f9fa8130cd1eba8241bd851bd" date="1997-04-04 00:32:46"/>
+		<rom name="JR_GRAF.OVL" size="512" crc="dc361ea6" md5="4488067df5a7201e34ee3b01252e9860" sha1="067bae84c84badc4028bfe2d21da6dac5ebad2c2" date="1986-12-01 08:48:46"/>
+		<rom name="LOGDIR" size="360" crc="0e851173" md5="d194e5d88363095f55d5096b8e32fbbb" sha1="bfc5df20b046d9e7d9f1f535e50cc49f788bf6ec" date="1986-12-03 09:40:14"/>
+		<rom name="OBJECT" size="369" crc="8b985ad2" md5="c444971d4558f102a82b3130868010b4" sha1="dbf5579e5234c65fd00a4b3e59421b670ed9ce9c" date="1986-10-23 17:00:04"/>
+		<rom name="PICDIR" size="351" crc="5bf41c35" md5="60cbfd91b9e77ad0baa22f0b73987838" sha1="328f695d61844eb22a423cd66a6522bfeda8536b" date="1986-12-03 09:40:14"/>
+		<rom name="POPDIR.COM" size="768" crc="7647ea26" md5="e99d7d6353d40d3c48405c909bc60ef0" sha1="ca6827d5c0928c6ae76e1cba801d765c07b10bd0" date="1986-05-12 17:40:30"/>
+		<rom name="PQ.COM" size="3115" crc="9d4eb9a4" md5="cfba95c625738ce2a8ee796b82d45743" sha1="f922c6c5252793a0e76621de2ea0457c8de5c65d" date="1986-11-16 13:32:06"/>
+		<rom name="PQ1.BAT" size="32" crc="7b564e69" md5="fc554c291bfe51d0864a0f524282df91" sha1="d2189cfe3ff86318012c5187e33cb1ec709ca410" date="1997-04-07 02:21:14"/>
+		<rom name="PUSHDIR.COM" size="768" crc="251276dd" md5="c8493f1e50fda27a3de66573a4715ec1" sha1="ca471bffbc73d92d585e54f309a0d87d016f96f8" date="1986-05-12 17:39:06"/>
+		<rom name="SNDDIR" size="126" crc="89a3a183" md5="ed489e4f8647af2b956d08ee78b4ff42" sha1="4f8dd3f65034927030289011c9f21afe4c19c793" date="1986-12-03 09:40:14"/>
+		<rom name="VG_GRAF.OVL" size="512" crc="ca491b69" md5="df5f5263d61e250495c249002c6210a1" sha1="64f946e03fcbaab4519d556add173d89325367c2" date="1986-12-01 08:48:50"/>
+		<rom name="VIEWDIR" size="768" crc="8a93212e" md5="631d6539348d489c2f4f84a6d1c58e08" sha1="b286bee204242acf802ecee3217fe88a49efb3de" date="1986-12-03 09:40:14"/>
+		<rom name="VOL.0" size="66869" crc="82eaf402" md5="4d44bf0e438ba7c0b05c17be4dea36c5" sha1="e9bb52063f9b99bba8c1c092a0b1189c2ea44df6" date="1986-12-03 09:37:26"/>
+		<rom name="VOL.1" size="384591" crc="9c5f96fa" md5="a4ef57c5cc9542a7b53288f58d600964" sha1="26be13fba7f8c6f82e17e1c53dfe9c499a66d46c" date="1986-12-03 09:39:06"/>
+		<rom name="VOL.2" size="250262" crc="76f042f1" md5="d3b130e92661ab0793b3d9101700c004" sha1="c0741cf39d305de743f36c41084c8f4dd72c0ee1" date="1986-12-03 09:40:14"/>
+		<rom name="WHAT.EXE" size="3170" crc="6b71137c" md5="e78b5d342f77badf9f807d07a8e01cc8" sha1="9a892246c42aeb358ab999120bc6a0eddd294925" date="1987-07-31 01:00:00"/>
+		<rom name="WORDS.TOK" size="6737" crc="666de107" md5="0db29ac32f2cbb1d26c0e29f812f5fd2" sha1="635fbf6fc3428fe759fa0ca5c97b9a78f5ebb15a" date="1986-10-23 17:00:06"/>
+	</game>
+	<game name="Police Quest 1 - In Pursuit of the Death Angel (1990) (Sierra On-Line).dosz">
+		<description>Police Quest 1 - In Pursuit of the Death Angel</description>
+		<comment>Installed from Redump-verified CD-ROM: Daryl F. Gates' Police Quest Collection - The 4 Most Wanted (USA, Europe) (Collection Series)</comment>
+		<comment_dosc>Auto-starts</comment_dosc>
+		<year>1990</year>
+		<developer>Sierra On-Line</developer>
+		<rom name="30.HEP" size="2404" crc="24cc5b74" md5="4d1e97084423efead07a3f5c80dd67ed" sha1="b271c50638c5334555a265d73db80468f737b65c" date="1991-09-24 12:00:00"/>
+		<rom name="30.SCR" size="3436" crc="89f00eab" md5="e47c1ebb1a1c2b1e067ecd0be2ff7d80" sha1="3d122f2b058aa90742c9ab8eb9aef985a51b98b3" date="1991-09-24 12:00:00"/>
+		<rom name="31.MSG" size="11318" crc="1162dd7d" md5="6e37b9e11949043ec40f3107b8190d0a" sha1="2e9fcbc1263c5622376bf7e4a4665cc368c40074" date="1991-08-28 09:29:22"/>
+		<rom name="43.HEP" size="4002" crc="5b79cca3" md5="c41f7f5a80f5ca74114f176050b4d2fa" sha1="9fd2fbf4cb668e6623a64c26b0b820b5eb328f93" date="1991-09-01 08:01:32"/>
+		<rom name="43.SCR" size="8090" crc="84a5ac2f" md5="716a6795cb16608a0dadb2c2d4e898f7" sha1="6b387c1eb9825c10d386d56e7c431c4cfc0d0cb4" date="1991-09-01 08:01:32"/>
+		<rom name="45.HEP" size="1574" crc="73bc24de" md5="60ba8ab20da68746d8f3b85a97416eeb" sha1="166c4787ea89e92588dd5a70ee91ba9cd886cdea" date="1995-08-10 13:05:00"/>
+		<rom name="45.SCR" size="2004" crc="45ab580a" md5="25fd10f594ea2fa00dfbd88dfc02564d" sha1="d72b3a8de24a9a1e81dc9297d4f6277b626008dc" date="1995-08-10 13:05:00"/>
+		<rom name="500.MSG" size="18904" crc="f76ef4bf" md5="f882b723f4c98ffe8202a86d83b73704" sha1="066d8e270441d76b9e74a81043b8634861d55192" date="1991-09-04 16:36:22"/>
+		<rom name="501.HEP" size="450" crc="4b2cff8d" md5="8f12ad4148ff0fc4eff0fbb98ca91a5d" sha1="95dca97b7dbe8233ea4aa853f7c2ce4920b18f19" date="1991-09-03 11:29:26"/>
+		<rom name="501.SCR" size="1492" crc="60338b44" md5="e0fbb2c80574f5b693e7a85868994103" sha1="a940eb3bce85146b6a95ef6a4c0be9d5bf2f8ebd" date="1991-09-03 11:29:26"/>
+		<rom name="54.HEP" size="2584" crc="f128bd8e" md5="a70ad2d5d5171c210d623c5038c74629" sha1="d2bd403fa485a24ba473544160ac79a37c5c97ad" date="1991-08-29 11:40:24"/>
+		<rom name="54.SCR" size="4758" crc="cb704da9" md5="c45fa01bad8b4465ddf8ac3312b28961" sha1="029f857693f94b41ccfa522ff4ac9d591e4860ee" date="1991-08-29 11:40:24"/>
+		<rom name="555.HEP" size="2892" crc="9b1aa6f2" md5="ed6780d49ffa1b85980b0098d1a166d4" sha1="7c9f451f28f51ff6dc581a1232a11aea174940e1" date="1991-08-29 11:39:48"/>
+		<rom name="555.SCR" size="5074" crc="74ca0de3" md5="e33157fc3040bc0f7307a93438944f21" sha1="a01f523b69210f477f4b6140509e2c2c360860af" date="1991-08-29 11:39:48"/>
+		<rom name="555.TEX" size="5" crc="0f7317f7" md5="ac98be2ddf2b7da30f95de3bb80b520d" sha1="ae2a2f7342e8f411b83cda8537e193c6eac7ffb8" date="1991-08-29 11:39:50"/>
+		<rom name="56.HEP" size="2642" crc="45a770c0" md5="5e71a607614441442a2128cc7dbe6589" sha1="2a557c192cf10af8dbeee66b242a6853faae03c9" date="1991-08-29 14:06:18"/>
+		<rom name="56.SCR" size="4104" crc="d4cded04" md5="b1bd8e0369e99871d93d2ea9d36bca67" sha1="cea8236f0a63ea5a4f691e11ac0ee4b0daecd99f" date="1991-08-29 14:06:18"/>
+		<rom name="58.HEP" size="3518" crc="7c0fe105" md5="b666f0ae6f2fe7a6da5d7f8e014f3e4b" sha1="fbfa656e9cdef01cb21e070e5fc16cdfc6fa0a65" date="1991-08-29 15:01:14"/>
+		<rom name="58.SCR" size="5550" crc="0c8c86e1" md5="dcdc8ef7608c73cfff1ba790224835de" sha1="b8a01ef9da21f0d9a5853ab36cb5d50d9f7f39b1" date="1991-08-29 15:01:14"/>
+		<rom name="996.VOC" size="586" crc="2b872bc5" md5="e3de45bc6b63c38ef9ed2da3c45e2e7f" sha1="de28f1b87934c927c88e1ce9d7cde8d0616f7d99" date="1995-08-10 13:05:00"/>
+		<rom name="ADL.DRV" size="8017" crc="571c77b2" md5="6b5da0ad8a20d9c15dfbff43228dd918" sha1="436617e28435e63c0121667e092e33019ba19653" date="1990-06-24 12:39:24"/>
+		<rom name="AUDBLAST.DRV" size="2596" crc="18589958" md5="8fcb3e16823846e380074868486d8a01" sha1="983ade8ae3ea3d2fc0e0d06003af731126abd32c" date="1991-02-25 08:08:50"/>
+		<rom name="AUDDISNY.DRV" size="2169" crc="11d6015d" md5="1245e37b219f7e24c618ae473d86bf27" sha1="9d112f55c9286d1d547c3e8f708875b26b08868d" date="1991-01-23 17:26:46"/>
+		<rom name="AUDNONE.DRV" size="269" crc="f5636c42" md5="d692c49ae8411b2b45e9a8d4454f6205" sha1="f9c42ffc39f3447de3427b93e545f3d9292c7007" date="1991-02-12 17:51:54"/>
+		<rom name="AUDPRO.DRV" size="2568" crc="6a84b2f3" md5="eeafd12ece380c3f53e804ccf68b207b" sha1="237e0cc59801e21607acac1a378125dd5510fb53" date="1991-02-25 07:50:48"/>
+		<rom name="AUDPS1.DRV" size="1737" crc="7fc358ba" md5="6def257f8aac101d9665eaa77f92aad0" sha1="f0f85d8b527807914d976f5f803604e93f331a10" date="1991-01-20 17:16:28"/>
+		<rom name="CMS.DRV" size="3741" crc="534b8408" md5="38a7f0d02e38aa427b11858a75657485" sha1="f944570186fe3c827b4eee70ca5e4e14c503b454" date="1990-06-13 15:30:08"/>
+		<rom name="DRIVERS.TXT" size="703" crc="1387704d" md5="d869461dc5aa3517abb23cb6b4e7eb47" sha1="4548596e0e343f735f04e9102ae56dcdd7533805" date="1995-06-01 08:46:56"/>
+		<rom name="EGA640.DRV" size="5551" crc="210334ad" md5="7996181bd1fa9e8463acba7ef45b2b6d" sha1="1ab6b954e4e28294924ab23e4777b4c61ef3745c" date="1991-03-17 14:32:54"/>
+		<rom name="EXISTS.COM" size="574" crc="b1c59e17" md5="61f35eec8998802abe2118b26e0c9cfa" sha1="e33cef86c2782b7ef43870c8c290790d98dd51c4" date="1987-09-10 14:52:42"/>
+		<rom name="FIX.BAT" size="35" crc="8eca5e14" md5="4bd0be446f7128d98f70f07680d5929f" sha1="d98b175bee82a46086f4476534dd1a02e3d6bf28" date="1991-10-20 13:17:22"/>
+		<rom name="GENMIDI.DRV" size="2577" crc="84e600f6" md5="c20aac86b729e51980737033020ecb6f" sha1="664346063f25bbcb3904fd83ca8a519c2b6087ce" date="1991-05-01 13:07:40"/>
+		<rom name="GODIR.COM" size="507" crc="71a2c71f" md5="28d7efe8c850bfb52231fc58567e25cc" sha1="734188659a6264826bdd404e1e414a0b9d4daa85" date="1988-09-05 10:24:00"/>
+		<rom name="IBMKBD.DRV" size="564" crc="a3355ab9" md5="c85f0400af5f5026d1c7b262622ecdf5" sha1="7028d1235fa2d51895f0a5d4f638caa0df13ab3f" date="1990-08-09 16:45:16"/>
+		<rom name="IBMPS1.DRV" size="4364" crc="e68d2b5a" md5="aec6877788054d30f6cef198483f1fa7" sha1="37ee465b8ef34350faff9a095e7ac18525d5a880" date="1990-10-21 14:38:08"/>
+		<rom name="INSTALL.BAT" size="3377" crc="47953e8c" md5="08a9095c60f320a996202ec76c05d9db" sha1="abfe70875e7980b40d9bde78a92b0efc2d715da1" date="1997-04-04 00:32:24"/>
+		<rom name="INSTALL.TXT" size="8317" crc="bf80fca4" md5="5dd3c064c489ed97ed948b120d82b485" sha1="70741c3265c2f7662101c823b3bd0aeaa458c1c7" date="1991-08-09 14:44:42"/>
+		<rom name="INTERP.ERR" size="5845" crc="a012c6d4" md5="120ebda4273a98b1a72945a0df745238" sha1="88f8fa10ab5c101ae3a40d18083824849f8ccfc1" date="1991-08-12 10:20:02"/>
+		<rom name="INTERP.TXT" size="2372" crc="06b8e4cb" md5="625884a48e303dac563d54d0889bab57" sha1="d9f27a4f6578b6bb91c19046863ee57cc3908607" date="1990-07-24 10:41:08"/>
+		<rom name="JOYSTICK.DRV" size="607" crc="baeddd01" md5="c75b73974160ff652a909a0d01f97214" sha1="bc843d1164e8262349454664740dfa5a5d4f1618" date="1990-07-01 09:05:54"/>
+		<rom name="MESSAGE.MAP" size="390" crc="d14c652d" md5="20b6b194c414fa876fcab9f8f93c082c" sha1="c37ef81c8b8be50655513f52e69678f0f51f09cc" date="1991-08-27 16:18:34"/>
+		<rom name="MT32.DRV" size="1977" crc="de47f2f4" md5="b4cf2b9f8d1ef8dc623fda6ecf9b629c" sha1="771718c7670daae9f25801a0d6b8a1e83c213b4d" date="1990-06-13 15:29:52"/>
+		<rom name="POPDIR.COM" size="768" crc="7647ea26" md5="e99d7d6353d40d3c48405c909bc60ef0" sha1="ca6827d5c0928c6ae76e1cba801d765c07b10bd0" date="1986-05-12 17:40:30"/>
+		<rom name="PQ.BAT" size="10" crc="bfd3a781" md5="02b2b91b89d51963617b46ec4598d00d" sha1="263461055b73663fa880f9281d7c37b84c74b308" date="1991-08-15 15:57:48"/>
+		<rom name="PQ1_VGA.BAT" size="54" crc="121da461" md5="97e156c27447307ada59e0ff3f540d0a" sha1="10045413f95b31d4127027e23a51eeae92706e40" date="1997-04-06 23:07:50"/>
+		<rom name="PUSHDIR.COM" size="768" crc="251276dd" md5="c8493f1e50fda27a3de66573a4715ec1" sha1="ca471bffbc73d92d585e54f309a0d87d016f96f8" date="1986-05-12 17:39:06"/>
+		<rom name="READ.ME" size="2090" crc="18bf4d9d" md5="1d1a1c84d75f3aa29fc36a7921b161ef" sha1="65f1c583c9e0068b571a6d576c65be3c680dbff9" date="1991-09-30 14:24:06"/>
+		<rom name="README" size="2274" crc="0a040800" md5="8ded7bb31a5baf1c92b9c6ac3f278a20" sha1="c0a34b7a98d65e6f522e9990361154c499074928" date="1991-08-26 10:33:24"/>
+		<rom name="RESOURCE.000" size="6401433" crc="b960c611" md5="08ce840d92cb6ff7cf79573cda410400" sha1="ae8c0f893c17e7b827ed447a5fb4f24882be2cef" date="1991-08-28 09:17:40"/>
+		<rom name="RESOURCE.MAP" size="5013" crc="952ea157" md5="1bddd987b230086a13da172f85908d2c" sha1="d2a6bfb8826c920482ff305a4dd527d694b25c04" date="1991-08-27 16:17:50"/>
+		<rom name="RESOURCE.MSG" size="216140" crc="490de64f" md5="67962116f678342a81048ee4de6474f5" sha1="9989d12b4550a5b94fa4482daf24b6c611b0494e" date="1991-08-27 16:18:34"/>
+		<rom name="RESOURCE.PQ1" size="42" crc="30ed5d5a" md5="04b4021e262491def41f9fd15d1707ae" sha1="f2f70e72ae2f922e099d9aa6f293171acb4532e3" date="1995-08-24 15:29:36"/>
+		<rom name="SCIDHUV.EXE" size="144836" crc="b1d1ccd3" md5="83fb518683fe2dca26fe931c9d909f3f" sha1="9db8b569f0405151ffe292889d72c7ae3f0cb01c" date="1991-06-02 13:04:16"/>
+		<rom name="STD.DRV" size="1461" crc="11b619e7" md5="440e21abb5e32bd34cfc37296d901075" sha1="24ac5d7391758d7efd62d9980a9a074db1544c6a" date="1990-06-13 15:29:32"/>
+		<rom name="VERSION" size="7" crc="bf2c3da7" md5="01869a900e47bcf330c4c17d5b7e5a4d" sha1="a4c5b3795b4d75841ad1c91068028d8a7b0e1a82" date="1991-09-04 13:29:46"/>
+		<rom name="VGA320.DRV" size="5832" crc="5aba02e9" md5="9b3ed9bf277517e3a6c2ceae0b7bf2c6" sha1="937faf7093d7eda041cf662f54fb74fa01ec26f7" date="1991-04-08 08:06:16"/>
+		<rom name="VGA320BW.DRV" size="4523" crc="f5cc5d71" md5="a6203ede4d117722236c56f2993899d8" sha1="e056e04e0fa387f41c95d7dd642c30b493541a25" date="1990-07-10 13:15:42"/>
+		<rom name="WHAT.EXE" size="3170" crc="6b71137c" md5="e78b5d342f77badf9f807d07a8e01cc8" sha1="9a892246c42aeb358ab999120bc6a0eddd294925" date="1987-07-31 01:00:00"/>
+	</game>
+	<game name="Police Quest 2 - The Vengeance (1988) (Sierra On-Line).dosz">
+		<description>Police Quest 2 - The Vengeance</description>
+		<comment>Installed from Redump-verified CD-ROM: Daryl F. Gates' Police Quest Collection - The 4 Most Wanted (USA, Europe) (Collection Series)</comment>
+		<comment_dosc>Auto-starts</comment_dosc>
+		<year>1988</year>
+		<developer>Sierra On-Line</developer>
+		<rom name="__INSTH.BAT" size="837" crc="995e3a34" md5="e7f6c683a91934c1f80dda754c4af7b3" sha1="7261beb68697ee2c7d19eb163c1eaa6d492d515e" date="1988-04-20 11:05:08"/>
+		<rom name="ADL.DRV" size="8803" crc="8319830d" md5="d403b96d2d893acddef45f36ea6067f8" sha1="393a0a653a4fbfd2852eb309024bfab48043730a" date="1988-03-13 10:54:48"/>
+		<rom name="CGA320BW.DRV" size="2017" crc="053f0464" md5="67237a44391ea20481cd85bf3dd39620" sha1="7223a79409be087c11a7d2a7f7691285a4af7a73" date="1988-03-13 11:35:52"/>
+		<rom name="CGA320C.DRV" size="2376" crc="9e4650ff" md5="5a8ab7f0b418cb2b4e37dfb0c1b5082e" sha1="8999f30182b87bcbcfeab51bbf74fe5d842da9e7" date="1988-03-13 11:35:42"/>
+		<rom name="CMS.DRV" size="5760" crc="5d34c5dd" md5="4e6a704d16e95ffba5dea46e15132171" sha1="0cd7d5583ac151991d2347e24d253b0dc5e8ed2c" date="1988-08-07 12:18:10"/>
+		<rom name="EGA320.DRV" size="1952" crc="3b2fc0de" md5="d2f9e9ea730745558926518c930e7375" sha1="76d37d9489d677c64408f4c91986d41f171999bf" date="1988-03-13 11:35:16"/>
+		<rom name="EXISTS.COM" size="574" crc="b1c59e17" md5="61f35eec8998802abe2118b26e0c9cfa" sha1="e33cef86c2782b7ef43870c8c290790d98dd51c4" date="1987-09-10 14:52:42"/>
+		<rom name="FB01.DRV" size="2390" crc="1401b4d4" md5="7d3fd9470136bf2d83f2051e87816610" sha1="86aa3126b3907bfcbe631e993550c7b3c698a36e" date="1988-06-21 11:32:54"/>
+		<rom name="GODIR.COM" size="507" crc="71a2c71f" md5="28d7efe8c850bfb52231fc58567e25cc" sha1="734188659a6264826bdd404e1e414a0b9d4daa85" date="1988-09-05 10:24:00"/>
+		<rom name="HERCMONO.DRV" size="2193" crc="909742d2" md5="f548ada27461194ed2671b8a236e666a" sha1="d63b31d4b60aea159d7bb667995632d6fcd184e8" date="1988-03-13 11:36:02"/>
+		<rom name="IBMKBD.DRV" size="446" crc="b495c666" md5="ab91b093a010aeb63866f71bc491110e" sha1="181ce784bb8028a98b7e646b0d0815a42abaca7b" date="1988-04-11 11:57:44"/>
+		<rom name="IMF.DRV" size="2221" crc="25836342" md5="57753cd33f719673277f1de5bebe51b8" sha1="c0fe1fdf8260c8e71a801986308e937bf13033ac" date="1988-03-13 10:55:26"/>
+		<rom name="INSTALL.BAT" size="2474" crc="59af59e8" md5="8f16625e5e2c2827f8a6fb65b15ac4f6" sha1="8028798936b45e4239504eee9d3faacdba312733" date="1997-04-04 00:15:56"/>
+		<rom name="JOYSTICK.DRV" size="494" crc="5da73437" md5="330447e04fc6fd3cfa013256b7ab6a95" sha1="fe0eb1eace862eaaa972390ddf7ff0bf21fbcfd6" date="1987-09-10 12:54:04"/>
+		<rom name="JR.DRV" size="2918" crc="e943b1aa" md5="6ab8eecd19ed95f13d42d5c5ff6db214" sha1="eb6c2f3ee0bd8e0d593f7845b4536160f073572e" date="1988-04-26 10:26:00"/>
+		<rom name="MCGA320.DRV" size="1602" crc="b63d4f12" md5="594dbe4bde6c0f5bee2828322ccde7f1" sha1="7b8161a0d20ed94c6e1af49238b5752492e76b4c" date="1988-03-13 11:35:32"/>
+		<rom name="MT32.DRV" size="2975" crc="b9929dd7" md5="51a3ce88463a0421140cdfcd9d670202" sha1="e5669eee4d23ec3115ef9a27229366a936b0deac" date="1988-05-17 08:27:30"/>
+		<rom name="PATCH.000" size="3504" crc="7afc4165" md5="0d497d58027a7960ac24d43c1849ec87" sha1="b0f0c4a344b1b1c762758079c35c50d27a3191f4" date="1990-04-05 09:39:34"/>
+		<rom name="PATCH.101" size="800" crc="41b53ebf" md5="026cc6fb3968224e6c91e3274c49fbdc" sha1="0a7606995618c2eec28713f69abffa9021b4e20f" date="1989-06-02 15:40:06"/>
+		<rom name="PATCH.TXT" size="2462" crc="5fa99790" md5="141b22d3a15154c583408f81e3d66d58" sha1="4afa131b8f81e4ce555f2981c70bfbb665dfc18a" date="1991-03-12 15:22:14"/>
+		<rom name="PCJR320.DRV" size="1660" crc="a2e978ac" md5="307e67dbdf6289bf7e0488030f4442af" sha1="97cb8e9db8ab474837ef8d51226fe0e7d3b23b15" date="1988-03-13 11:36:10"/>
+		<rom name="POPDIR.COM" size="768" crc="7647ea26" md5="e99d7d6353d40d3c48405c909bc60ef0" sha1="ca6827d5c0928c6ae76e1cba801d765c07b10bd0" date="1986-05-12 17:40:30"/>
+		<rom name="PQ2.BAT" size="49" crc="aa9a4f3b" md5="29c84c0e8c592db6794945263971d1bb" sha1="9041e462c049f6b0d13d3af5c363e55097497c16" date="1997-04-07 02:19:52"/>
+		<rom name="PQ2A.COM" size="4835" crc="0fedcc73" md5="324dc44b7f57860c77e91939edf203ce" sha1="2cbbfb5de1b46f0a28accecb2dd653312698ffec" date="1990-03-12 22:45:00"/>
+		<rom name="PQ2MAP.TXT" size="2019" crc="3123d48c" md5="afe18f719b08581caac2f909859ad93c" sha1="d7d1a34ea804383feb55ef9efe16c44eb8c41a11" date="1989-11-07 17:05:02"/>
+		<rom name="PUSHDIR.COM" size="768" crc="251276dd" md5="c8493f1e50fda27a3de66573a4715ec1" sha1="ca471bffbc73d92d585e54f309a0d87d016f96f8" date="1986-05-12 17:39:06"/>
+		<rom name="RESOURCE.001" size="509525" crc="f80f8f4c" md5="0c87664580a815da5e1ab2298cbcaf1d" sha1="c987e7efeb7c0451ed5be39fffca273405d7aa8f" date="1988-07-15 22:50:32"/>
+		<rom name="RESOURCE.002" size="546000" crc="9cca08d1" md5="97d059b05148925766197cb51f68a80f" sha1="abd8cc565f57e8322007905cdd18fe46ca53b77c" date="1988-07-15 22:52:16"/>
+		<rom name="RESOURCE.003" size="591851" crc="08725d0b" md5="580bf2e76ddee1a65d9e75de7428af15" sha1="47e43a5bedbd357d13b43e48c6cb2fa4b5347509" date="1988-07-15 22:54:28"/>
+		<rom name="RESOURCE.MAP" size="4584" crc="f2716703" md5="28a6f471c7900c2c92da40eecb615d9d" sha1="6156624362d191b6e1d9a1a8bab27c8c4aba8eb5" date="1988-07-15 22:54:28"/>
+		<rom name="SCIV.EXE" size="74915" crc="93b922ae" md5="81adf3b31bf4e5907bdf0fcfee4e6de3" sha1="5d9dcbdd149f589a550f1416fde99730d547592d" date="1988-05-22 11:53:18"/>
+		<rom name="SIERRA.COM" size="538" crc="0d3eab36" md5="48e6faeb6af8e540fed0523f17ec4c0d" sha1="7929b8884810aad1ac234fba46769837b609aa14" date="1987-11-30 13:44:48"/>
+		<rom name="STD.DRV" size="2393" crc="f0b45e1c" md5="4e1b7f36ee0cacebb64f41ef14f7fa66" sha1="f9511c5fd7e5045a517b1fde9eadd3498b2ded60" date="1988-03-14 12:47:54"/>
+		<rom name="TANDY320.DRV" size="1667" crc="41aefe67" md5="35f196d6096fd8ee64ef61fee60c9700" sha1="50df95fd1f08df95869776167d8e926f5272b4b7" date="1988-04-28 15:33:28"/>
+		<rom name="TANDYKBD.DRV" size="473" crc="700299a0" md5="d51176ceeae179f95ae478933591a0f2" sha1="bc9d1d399493d20e97405e9fa15f2c2178adeff0" date="1988-04-11 11:55:14"/>
+		<rom name="WHAT.EXE" size="3170" crc="6b71137c" md5="e78b5d342f77badf9f807d07a8e01cc8" sha1="9a892246c42aeb358ab999120bc6a0eddd294925" date="1987-07-31 01:00:00"/>
+	</game>
+	<game name="Police Quest 3 - The Kindred (1991) (Sierra On-Line).dosz">
+		<description>Police Quest 3 - The Kindred</description>
+		<comment>Installed from Redump-verified CD-ROM: Daryl F. Gates' Police Quest Collection - The 4 Most Wanted (USA, Europe) (Collection Series)</comment>
+		<comment_dosc>Auto-starts</comment_dosc>
+		<year>1991</year>
+		<developer>Sierra On-Line</developer>
+		<rom name="12.SCR" size="10012" crc="43d6b20c" md5="9b5d97d1190d1b0dc0e5b436deb717ab" sha1="366f1096dbc4ba117d79b76e25a9cb1e7f6e3833" date="1990-09-24 16:17:24"/>
+		<rom name="12.TEX" size="1116" crc="087e676e" md5="5c82b0745604bd5e9b4cb328177ec68e" sha1="c418c55cc4fdb30826b15dc7e439c43fd2cf2d13" date="1990-09-24 16:17:24"/>
+		<rom name="129.SCR" size="5872" crc="74d04dba" md5="5fa7ef67edc5d22c9f64942d37c6069a" sha1="255154063a683416a2cdb0e41459805b87120f54" date="1990-09-24 15:23:14"/>
+		<rom name="129.TEX" size="676" crc="0fa14337" md5="23744d9bb3a2ad7be2d5cc3d1afa822f" sha1="fd5b606b6f78a64cfb1bb5bc72fd0ec395fd4553" date="1990-09-24 15:23:14"/>
+		<rom name="133.SCR" size="5034" crc="f1ef348b" md5="ac9212239b62772a64277d80ffdc6843" sha1="47d0f9ed5cc6f0e85005f3ccb7682e58592304ea" date="1990-09-24 16:04:40"/>
+		<rom name="133.TEX" size="3336" crc="da3f0f59" md5="5df3c1c5af43f2e3c469e0c47e77a2c8" sha1="0e40a44ba44ba70de2e69c6fa5a02a87cdccebdb" date="1990-09-24 16:04:40"/>
+		<rom name="21.SCR" size="16878" crc="56b592c3" md5="fc2b879c44841e0bbaa1bec759431c61" sha1="b1dab93426fa12a5f5c1f8029ff13afed57f8c64" date="1990-09-24 15:26:14"/>
+		<rom name="21.TEX" size="6520" crc="5205de35" md5="fa154b6f8000cd5e8e771b546c683d50" sha1="ca81aec33e4fd1768d397a371514ba5387b55c97" date="1990-09-24 15:26:14"/>
+		<rom name="50.SCR" size="9568" crc="6d269375" md5="0aef652aba525df874ffd4041e28d120" sha1="fc92519968662bf91596f74958bfe433f4545f9a" date="1990-09-25 17:42:26"/>
+		<rom name="50.TEX" size="3401" crc="a3df5867" md5="aceda24d47f5130b0d84c709b21c9b78" sha1="a9eee1c4cf72292616b00dfab423048b6629f3f0" date="1990-09-25 17:42:26"/>
+		<rom name="56.SCR" size="10970" crc="ce5827c3" md5="43afce5029f6f983a923b7d76f099eba" sha1="beaba0f2f1410647a7fd762398977067253921e5" date="1990-09-25 17:41:06"/>
+		<rom name="56.TEX" size="1026" crc="03ae0148" md5="17b6e7988e62da9287034a95b96b763a" sha1="ae5fa7ec7c0ca953a1d98de9c8344ea7fb7566d8" date="1990-09-25 17:41:06"/>
+		<rom name="57.SCR" size="5330" crc="a5f732aa" md5="5e18f5a53a1ea39e7620d7a3a9dc8de8" sha1="504f70c134e6603ebc25c3c78c0d137e383f187d" date="1990-09-25 17:41:26"/>
+		<rom name="57.TEX" size="632" crc="27b82e85" md5="ca4d01e6e1e41f1971446ca3ceab91e1" sha1="635304e3b75126b4f258e38f59e9458f1a8c9da5" date="1990-09-25 17:41:26"/>
+		<rom name="594.V56" size="8916" crc="36760ff5" md5="1a20990b4ed9636ad883caf8a9ba14d8" sha1="4dcb4fa19f8291c117cc11e97a673e3af48db7b3" date="1990-06-11 08:31:58"/>
+		<rom name="ADL.DRV" size="8070" crc="d44245eb" md5="a793e4a97e91e44db7b85c395698a75f" sha1="c07537b293ae5c7265e3669b58ffde5ea2375b95" date="1990-06-25 11:31:56"/>
+		<rom name="CMS.DRV" size="3741" crc="534b8408" md5="38a7f0d02e38aa427b11858a75657485" sha1="f944570186fe3c827b4eee70ca5e4e14c503b454" date="1990-06-13 15:30:08"/>
+		<rom name="EXISTS.COM" size="574" crc="b1c59e17" md5="61f35eec8998802abe2118b26e0c9cfa" sha1="e33cef86c2782b7ef43870c8c290790d98dd51c4" date="1987-09-10 14:52:42"/>
+		<rom name="GODIR.COM" size="507" crc="71a2c71f" md5="28d7efe8c850bfb52231fc58567e25cc" sha1="734188659a6264826bdd404e1e414a0b9d4daa85" date="1988-09-05 10:24:00"/>
+		<rom name="IBMKBD.DRV" size="537" crc="63ed6bcc" md5="ce095142a4b231a0e5d2e4662b6ea829" sha1="78d56721d72d8629b157e09e3090a1c2f2346fe2" date="1990-02-27 13:52:50"/>
+		<rom name="IBMPS1.DRV" size="4364" crc="bfcb766f" md5="d0ed61a57384da298b3996363c1b0fe1" sha1="363c81212a788519b225679314890f885b7878d6" date="1990-06-13 15:30:28"/>
+		<rom name="INSTALL.BAT" size="3076" crc="e2dc2be8" md5="f63e740ca0d44226c6a1bc184f1b55fb" sha1="bfd5cea8a710f05e72e2c753b3c81b625136f28b" date="1997-04-04 00:05:20"/>
+		<rom name="INSTALL.TXT" size="4189" crc="73e48627" md5="a03a793cd8a1b95c3927d655dbe1f184" sha1="fecd20add5704f35f6c8799522cdea98ba910629" date="1990-07-30 14:13:26"/>
+		<rom name="INTERP.TXT" size="2366" crc="242cbaf8" md5="00a9d00585468c1a25250b56e0267aa9" sha1="7e97e0125720cbd0c9d0ed65550ac5ec730caf75" date="1990-07-02 16:30:08"/>
+		<rom name="JOYSTICK.DRV" size="607" crc="baeddd01" md5="c75b73974160ff652a909a0d01f97214" sha1="bc843d1164e8262349454664740dfa5a5d4f1618" date="1990-07-01 09:05:54"/>
+		<rom name="MT32.DRV" size="1976" crc="903dd811" md5="ff31a3a4fe6aaf06866c47e2c64ceee5" sha1="766b7d5e64be16265d41c8a0193453ac4676af56" date="1990-06-25 14:32:40"/>
+		<rom name="MTBLAST.DRV" size="3688" crc="8f4b7c5d" md5="89fb3aacc4eb43879d2839fe095dffd9" sha1="945e2f1a96410a6bb40dcdeb63574391facfe3f4" date="1991-10-10 10:48:54"/>
+		<rom name="POPDIR.COM" size="768" crc="7647ea26" md5="e99d7d6353d40d3c48405c909bc60ef0" sha1="ca6827d5c0928c6ae76e1cba801d765c07b10bd0" date="1986-05-12 17:40:30"/>
+		<rom name="PQ3.BAT" size="50" crc="4caeab12" md5="a5d739dc3223a36af4ec0c8b40700d18" sha1="4a224aee3350aa51f8e1b7d1a232afa9a17745d3" date="1997-04-07 02:20:22"/>
+		<rom name="PQ3PEN.BMP" size="65078" crc="a41a5251" md5="443726b38bcd15b772a1a5e4358cbe45" sha1="a728be5476816882f67800feca5851e9cf09d2cc" date="1994-03-20 15:08:40"/>
+		<rom name="PROAUDIO.DRV" size="11942" crc="9b5ef36d" md5="7dd01a70c0bc10194d72f7b3c2ddf7c2" sha1="113aa8b14b8a0a3f4a71f008d56993c1cdc05c7e" date="1990-06-25 16:08:12"/>
+		<rom name="PUSHDIR.COM" size="768" crc="251276dd" md5="c8493f1e50fda27a3de66573a4715ec1" sha1="ca471bffbc73d92d585e54f309a0d87d016f96f8" date="1986-05-12 17:39:06"/>
+		<rom name="RESOURCE.000" size="737253" crc="33334ca5" md5="2d49dff63dd884b09d8a7c21d11252c6" sha1="fabf86660ca50e7df9df84cb31f2dc61401f2ec5" date="1990-09-24 10:23:58"/>
+		<rom name="RESOURCE.001" size="1196787" crc="a32a321e" md5="d73cec2e75dd28ad08e9637324258ad1" sha1="ce1ea0574ee8af833352c92c8b8e47c32e09fc8d" date="1990-09-24 10:27:06"/>
+		<rom name="RESOURCE.002" size="1153561" crc="8de818c2" md5="2d353893d778e43ee0d2a4e9b31522f3" sha1="3dd6d34482c8e717867817916430a93ef6f1bb7c" date="1990-09-24 10:30:20"/>
+		<rom name="RESOURCE.003" size="1159791" crc="01f43fe7" md5="1a5c12654d6feb85df9a4cbc0ae2a8b6" sha1="19d45dbbad79a50f9b1a7f8af98d7a0a9cd7df16" date="1990-09-24 10:33:32"/>
+		<rom name="RESOURCE.004" size="1143606" crc="b8ef8240" md5="4963db70f1236598db3a07a71e751639" sha1="3b112ee11b1fa72eeca01d1c93004db0ad89bab0" date="1990-09-24 10:38:18"/>
+		<rom name="RESOURCE.MAP" size="5559" crc="5120369f" md5="baac9cc6903a7bd6acb4d4d9f9ed6931" sha1="063e8f87b57d662895b4c621050871c92ab67fd6" date="1990-09-24 10:38:18"/>
+		<rom name="SCIDHUV.EXE" size="62676" crc="0fecf427" md5="33a41dfca3a9e0aaf03f104044d3e6a8" sha1="f349878c0e9a7995d9858662f8cca9597bc6c8b8" date="1990-09-18 11:06:28"/>
+		<rom name="SIERRA.BAT" size="21" crc="20ad7f60" md5="91e0eb60841f059e279d27e0481e7957" sha1="04fb01631f663cac9ed53b80f5629db326661298" date="1990-09-24 11:18:30"/>
+		<rom name="SNDBLAST.DRV" size="9752" crc="f6b7c486" md5="fb3b6de8d68ac8353f015fd2446d09d7" sha1="24c7c69e02ebf8ab024d84dbaa38d76cec102bb9" date="1991-10-10 10:48:34"/>
+		<rom name="STD.DRV" size="1461" crc="11b619e7" md5="440e21abb5e32bd34cfc37296d901075" sha1="24ac5d7391758d7efd62d9980a9a074db1544c6a" date="1990-06-13 15:29:32"/>
+		<rom name="TANDY3V.DRV" size="3950" crc="cecb955a" md5="b74d9234485643bb9808782b2f1b6462" sha1="ac03d8195e47a8488cfbce5708fc3eb98304d0ca" date="1990-06-13 15:30:18"/>
+		<rom name="TANDY3VD.DRV" size="4498" crc="6814b17f" md5="a1e155b930651e6bab8304b7492736ab" sha1="4885ea2464d4a1df080da06964259d5ab030def6" date="1990-06-13 15:30:22"/>
+		<rom name="VERSION" size="8" crc="bc1abb38" md5="c50ac7e6672c5dfbf74b9ca7501d56c7" sha1="0931b540a6a6a95baf93b94c83c8215ec968ecd6" date="1990-09-24 18:47:06"/>
+		<rom name="VGA320.DRV" size="4461" crc="89f94bd3" md5="a20bc0b69ad2d3f04d9fab76f741b249" sha1="68495fab87f18109c23b80ee2e5feaa60235c638" date="1990-07-01 09:48:26"/>
+		<rom name="VGA320BW.DRV" size="4369" crc="68f8461e" md5="ed4c40263f1314548f71a3714cb3610a" sha1="23b6344e0429527534c7494d45bfc5b990ff3445" date="1990-05-06 11:21:52"/>
+		<rom name="WHAT.EXE" size="3170" crc="6b71137c" md5="e78b5d342f77badf9f807d07a8e01cc8" sha1="9a892246c42aeb358ab999120bc6a0eddd294925" date="1987-07-31 01:00:00"/>
+	</game>
+	<game name="Police Quest 4 - Open Season (1993) (Sierra On-Line).dosz">
+		<description>Police Quest 4 - Open Season</description>
+		<comment>Installed from Redump-verified CD-ROM: Daryl F. Gates' Police Quest Collection - The 4 Most Wanted (USA, Europe) (Collection Series)</comment>
+		<comment_dosc>Auto-starts</comment_dosc>
+		<year>1993</year>
+		<developer>Sierra On-Line</developer>
+		<rom name="CD/PQ4.chd" size="755726976" crc="53604ff0" md5="cda017077bd5bd13d2253468d79e9c9b" sha1="0d8088524d2d9af5b4548d7edfbab4d67d52c3a7">
+			<track number="1" type="MODE1_RAW" frames="308647" pregap="0" duration="68:35:22" size="725937744" crc="7dc2c835" md5="7c0182ce9624143a39b44cc3bf36bf0b" sha1="1bcab4e11f4105c238e68ebee136e86773f55618" in_zeros="1" out_zeros="0"/>
+		</rom>
+		<rom name="PQ4/_.DRV" size="88664" crc="b9e56140" md5="87d1e15618a2bf4569ae27b9accc4b3e" sha1="fa1f8c794551059c30da064c62e38da4dab92f7e" date="1993-10-20 13:26:36"/>
+		<rom name="PQ4/CHECKCD.BAT" size="804" crc="02881bc4" md5="5a6a43704ff4156b19ac2c084779ea0b" sha1="81802bede896b0c2bc67a300f882d31e64cb0754" date="1994-06-18 10:38:32"/>
+		<rom name="PQ4/I" size="13465" crc="8937f13c" md5="52239b21c6e95d2733201cd6213098d3" sha1="6f38fea6d88e5036c09acb1fc7daa37234c1a5a1" date="1993-12-20 17:30:24"/>
+		<rom name="PQ4/PQ4.BAT" size="252" crc="da12aaff" md5="69957733ee1274504deaf010d261e937" sha1="e51e68ad8c87ffb60878f064ef1a001a1b1dd495"/>
+		<rom name="PQ4/RESOURCE._" size="18852865" crc="e622f1c1" md5="b8d896d602935b1423e5546adfd3818e" sha1="070e6572c4dbcd051ed7c3c32c90d07d02c684e2" date="1997-04-07 15:17:42"/>
+		<rom name="PQ4/SIERRA.ERR" size="8289" crc="b0886c8e" md5="8ef0ec0e716762478779b21f2fa4eeea" sha1="f4cef13c207ad0fe3f4038b89b2cf8f67095ea88" date="1994-02-18 11:22:00"/>
+		<rom name="PQ4/SIERRA.EXE" size="756960" crc="9ff6e6d1" md5="ea55ca2eb511e5c60f5bb99c5b3f9bab" sha1="d9d479236f44a3da5ec0505c037bbb8e1b82ac46" date="1994-06-24 14:33:42"/>
+		<rom name="PQ4/VERSION" size="13" crc="c0ff0cbd" md5="f3eebba3721df54ef7144b67d751494c" sha1="18e5fe5e7439b9af14033d5e8fce87d266049603" date="1994-08-01 10:57:16"/>
+	</game>
 	<game name="Pray for Death (1996) (Light Shock Software).dosz">
 		<description>Pray for Death</description>
 		<comment>Installed using Redump-verified CD-ROM: Pray for Death (USA)</comment>
