@@ -9153,9 +9153,17 @@
 			AKA Twinsen's Odyssey
 			Installed from CD matching with Redump: Little Big Adventure 2 (Europe) (En,Fr,De,Es,It)
 			VOX folder copied from disc afterwards
+			DoDAT can build this directly from the disc image
 		</comment>
 		<comment_dosc>Sound Blaster 16 config, English language, and auto start. French, German, Spanish, and Italian options</comment_dosc>
 		<link type="media">http://redump.org/disc/11137/</link>
+		<rom name="CD/Little Big Adventure 2 (Europe) (En,Fr,De,Es,It) (Track 1).bin" size="696876432" crc="491ec4b7" md5="50a29f3a8afc465568443fba9a376983" sha1="d9e367a2c05102b5e08611cd008e6c04e0f33066">
+			<source type="MODE1_RAW" frames="296291" duration="65:50:41"/>
+		</rom>
+		<rom name="CD/Little Big Adventure 2 (Europe) (En,Fr,De,Es,It) (Track 2).ogg" size="7606611" crc="789c3a91" md5="a9db5fcac54e6190cafd09fe1939c310" sha1="c07c3d1c64db7edd88114dea7edd534cddf28a24">
+			<source type="AUDIO" frames="17354" omitted_pregap="151" duration="03:51:29" size="40816608" crc="fd5b68cc" md5="4544912a639d9b3b708900a383c3db27" sha1="07d5dc82287640fe7bd7e3d2a38d0d5c3f81a6b4" in_zeros="3656" out_zeros="28226" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Little Big Adventure 2 (Europe) (En,Fr,De,Es,It).cue" size="261" crc="e6b403ea" md5="2a4213f16e1206ca9ec2bc4a77cafa99" sha1="9dcdfc664ee6f8b42dc43043c385d92348038721"/>
 		<rom name="LBA2/ANIM.HQR" size="1197090" crc="093a8d26" md5="243b0f5432ac8a89d03f2699788ade6c" sha1="75825dff2bed48507137404ffce203a74127e04b"/>
 		<rom name="LBA2/ANIM3DS.HQR" size="516711" crc="70c0321b" md5="b18d343d879beca6faa55a4ed93a566f" sha1="57890e3d81bf937a2b402434493c377cf0085a8d"/>
 		<rom name="LBA2/ASCENCE.ILE" size="52304" crc="c7293ce9" md5="f0e69ef89d4034e48048d8074805863f" sha1="1713f568c7e86c92752aca201ceea87626c075d3"/>
@@ -9174,7 +9182,6 @@
 		<rom name="LBA2/DOS4GW.EXE" size="265420" crc="cb214447" md5="ee4033581845b3b8d28c4b7287eb4fc2" sha1="a897c7eb79145a308c4e60b43413bb2daa360506"/>
 		<rom name="LBA2/DRIVERS/ADRV688.DIG" size="11278" crc="96dfb75d" md5="feabc78729e3a458ae2f6ab40146f0d9" sha1="255ecb5d649895d65bca49bd6afcbdf875e34bf2"/>
 		<rom name="LBA2/DRIVERS/AUDIODRV.DIG" size="11372" crc="f4e8e5ff" md5="593c549bdc6cae6cd9520344c4f9a32e" sha1="b099389bdcecf7ebb1f23a1a06898cdf569e5bf8"/>
-		<rom name="LBA2/DRIVERS/DIG.INI" size="188" crc="e70e2d27" md5="d3b01aa3154e8b91671db0860da0ed77" sha1="07c79fb93e1a7cd51cb9083cb81ead133613782f"/>
 		<rom name="LBA2/DRIVERS/DOS4GW.EXE" size="265396" crc="5cc34b0f" md5="006211ca60fa3d4b38a9a8da2ade1056" sha1="c489f83dc15a9ffc3c502707da40e581ec79bfe6"/>
 		<rom name="LBA2/DRIVERS/IWAV.DIG" size="2585" crc="b9199db2" md5="20bb8743d82ddbb6b79cc3b02a65d59f" sha1="efd99ed5c598648567df82dd6a0236f8584cc38f"/>
 		<rom name="LBA2/DRIVERS/JAMMER.DIG" size="3219" crc="230129e0" md5="4922c729c5e7b347089a2be44f296859" sha1="103e0bf92c6fd1c9fc925fd57bdc22e56170b395"/>
@@ -9265,13 +9272,6 @@
 		<rom name="LBA2/VOX/FR_010.VOX" size="548112" crc="3a3841c1" md5="469e689f2e5a137614ea9bc636470b7b" sha1="7664bbe74a92f666a8866109d408ffa80d6a458d" date="1997-05-08 04:41:08"/>
 		<rom name="LBA2/VOX/FR_011.VOX" size="789192" crc="d9973f88" md5="9f12f869904f85337697a6c2c81486fe" sha1="595f50609fea6bfd80ba109d4b2264b122510ed8" date="1997-05-08 04:41:12"/>
 		<rom name="LBA2/VOX/FR_GAM.VOX" size="2585680" crc="b705127d" md5="11ffa757af17d3ca52f0d560f7eee8c6" sha1="6d531cc92ba3bfc3b588e34d8e582300197a1ae5" date="1997-05-29 02:23:56"/>
-		<rom name="Little Big Adventure 2 (Europe) (En,Fr,De,Es,It) (Track 1).bin" size="696876432" crc="491ec4b7" md5="50a29f3a8afc465568443fba9a376983" sha1="d9e367a2c05102b5e08611cd008e6c04e0f33066">
-			<source frames="296291" pregap="0" duration="65:50:41" size="696876432" crc="491ec4b7" md5="50a29f3a8afc465568443fba9a376983" sha1="d9e367a2c05102b5e08611cd008e6c04e0f33066"/>
-		</rom>
-		<rom name="Little Big Adventure 2 (Europe) (En,Fr,De,Es,It) (Track 2).ogg" size="7606611" crc="789c3a91" md5="a9db5fcac54e6190cafd09fe1939c310" sha1="c07c3d1c64db7edd88114dea7edd534cddf28a24">
-			<source frames="17505" pregap="151" duration="03:53:30" size="41171760" crc="b7e4b4d5" md5="8252d3d037977c9110c9c421769d9d05" sha1="0d85dc3c770d4557daba62d625eebe136909098d" in_zeros="1" out_zeros="28226" trimmed_crc="9b95c3aa" quality="8" non_silence_pregap="1"/>
-		</rom>
-		<rom name="Little Big Adventure 2 (Europe) (En,Fr,De,Es,It).cue" size="261" crc="e6b403ea" md5="2a4213f16e1206ca9ec2bc4a77cafa99" sha1="9dcdfc664ee6f8b42dc43043c385d92348038721"/>
 	</game>
 	<game name="Magiduck (2015) (Toni Svenstrom).dosz">
 		<description>Magiduck</description>
