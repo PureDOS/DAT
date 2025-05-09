@@ -9,8 +9,8 @@
 		<author>Pure DOS DAT</author>
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
-  	</header>
-  	<game name="Caesar (1992) (Impressions Games) (Installation).dosz">
+	</header>
+	<game name="Caesar (1992) (Impressions Games) (Installation).dosz">
 		<description>Caesar</description>
 		<comment>SierraOriginals CD re-release from 1995</comment>
 		<year>1992</year>
@@ -67,16 +67,6 @@
 			<track number="1" type="MODE1_RAW" frames="94909" pregap="0" duration="21:05:34" size="223225968" crc="6ff080ba" md5="1f24387fb3ea227c44ce7a1b3e982f20" sha1="26856c342897ba02edb326f8657ef69429eaddc7" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
-	<game name="Final Doom - The Plutonia Experiment (1996) (id Software) (Steam).dosz">
-		<description>Final Doom - The Plutonia Experiment</description>
-		<comment>Original version without bug fixes</comment>
-		<comment_dosc>Default Steam config</comment_dosc>
-		<year>1996</year>
-		<developer>id Software</developer>
-		<variant>Steam</variant>
-		<rom name="DOOM2.EXE" size="722629" crc="12ee2811" md5="f006de4fd282ba61d7d0af41a993f9ba" sha1="9269fa5c095715d926015cad3381a4218e4f2d7e"/>
-		<rom name="PLUTONIA.WAD" size="17420824" crc="48d1453c" md5="75c8cf89566741fa9d22447604053bd7" sha1="90361e2a538d2388506657252ae41aceeb1ba360"/>
-	</game>
 	<game name="Final Doom - TNT - Evilution (1996) (id Software) (Steam).dosz">
 		<description>Final Doom - TNT - Evilution</description>
 		<comment>Original version without bug fixes</comment>
@@ -86,6 +76,16 @@
 		<variant>Steam</variant>
 		<rom name="DOOM2.EXE" size="722629" crc="12ee2811" md5="f006de4fd282ba61d7d0af41a993f9ba" sha1="9269fa5c095715d926015cad3381a4218e4f2d7e"/>
 		<rom name="TNT.WAD" size="18195736" crc="903dcc27" md5="4e158d9953c79ccf97bd0663244cc6b6" sha1="9fbc66aedef7fe3bae0986cdb9323d2b8db4c9d3"/>
+	</game>
+	<game name="Final Doom - The Plutonia Experiment (1996) (id Software) (Steam).dosz">
+		<description>Final Doom - The Plutonia Experiment</description>
+		<comment>Original version without bug fixes</comment>
+		<comment_dosc>Default Steam config</comment_dosc>
+		<year>1996</year>
+		<developer>id Software</developer>
+		<variant>Steam</variant>
+		<rom name="DOOM2.EXE" size="722629" crc="12ee2811" md5="f006de4fd282ba61d7d0af41a993f9ba" sha1="9269fa5c095715d926015cad3381a4218e4f2d7e"/>
+		<rom name="PLUTONIA.WAD" size="17420824" crc="48d1453c" md5="75c8cf89566741fa9d22447604053bd7" sha1="90361e2a538d2388506657252ae41aceeb1ba360"/>
 	</game>
 	<game name="Heretic - Shadow of the Serpent Riders (1996) (Raven Software) (Installation).dosz">
 		<description>Heretic - Shadow of the Serpent Riders</description>
@@ -211,6 +211,27 @@
 		<rom name="SERSETUP.EXE" size="20273" crc="91f13fa1" md5="b0aa869d620e8d6d943431cb1ed4abf6" sha1="e8cc947c1440f9bc838b25d1d271bf5a7ab85064"/>
 		<rom name="SETUP.EXE" size="44820" crc="257e9407" md5="88c88bc09078b4d943c54893aea65b81" sha1="81dae45320eea3947543013ceb81335bb8740365"/>
 	</game>
+	<game name="Hexen - Beyond Heretic (1995) (Raven Software) (Steam).dosz">
+		<description>Hexen - Beyond Heretic</description>
+		<comment>v1.1</comment>
+		<comment_dosc>Controller type and sound config (same as main entry)</comment_dosc>
+		<year>1995</year>
+		<developer>Raven Software</developer>
+		<variant>Steam</variant>
+		<rom name="DM.DAT" size="838" crc="b67b9aa4" md5="bab2cb86d3f7a876d83ff2d893e5c40f" sha1="8972c2fdb180de779bec6ad2247c3c072241053d"/>
+		<rom name="DM.DOC" size="7078" crc="d14c3168" md5="93dc0261cfb9de62812a1ecebccdcb3e" sha1="9702a955cc67881ccddba44d82aa0eb44d0c87e4"/>
+		<rom name="DM.EXE" size="34815" crc="5b8a403f" md5="6422418965b4574f7e843a19335d3dc4" sha1="d8e181339288ff8080693852318ea66ed072589e"/>
+		<rom name="DMOD.EXE" size="15169" crc="4db2d1fa" md5="c308ca03cd3e57f6a54400564a1403d3" sha1="858075f1a2f13d2b924d6689cd55a047d2bd96fa"/>
+		<rom name="HEXEN.EXE" size="923019" crc="bbc55df2" md5="713319e8adbc34bca8e06dbaff96f86c" sha1="b0b99b13a2d4f7987d1e918e2289deb9c421e561"/>
+		<rom name="HEXEN.WAD" size="20083672" crc="dca9114c" md5="abb033caf81e26f12a2103e1fa25453f" sha1="4b53832f0733c1e29e5f1de2428e5475e891af29"/>
+		<rom name="HEXMOD.EXE" size="14081" crc="138105f8" md5="24a148c53a41e87d8b84e6454fa743e9" sha1="559fbf18068777cf7c06f4bdfcc706d8b1626645"/>
+		<rom name="IPXSETUP.EXE" size="18019" crc="5938701c" md5="b4c07effb7551d0326579401410451a5" sha1="e883929672eec9f02e5cd04d296034815908725a"/>
+		<rom name="MODEM.CFG" size="67" crc="e4f84b43" md5="e807d9a94ecc7d3f015c45fce1699666" sha1="e5f8d54b59c60462ff62749f8f02b6574e054902"/>
+		<rom name="MODEM.NUM" size="67" crc="264c0c20" md5="7557fff62c050a1d354d6d56cf6bf6b9" sha1="1f57a9324b83d6335a88083c63b8b40f334b6d29"/>
+		<rom name="MODEM.STR" size="3405" crc="a320697b" md5="7294d0d7a6a6bdf653f2164dcb42b75a" sha1="2fcebfce4a22c717357879f8051f9799fa4c06e3"/>
+		<rom name="SERSETUP.EXE" size="20273" crc="91f13fa1" md5="b0aa869d620e8d6d943431cb1ed4abf6" sha1="e8cc947c1440f9bc838b25d1d271bf5a7ab85064"/>
+		<rom name="SETUP.EXE" size="44820" crc="257e9407" md5="88c88bc09078b4d943c54893aea65b81" sha1="81dae45320eea3947543013ceb81335bb8740365"/>
+	</game>
 	<game name="Hexen - Deathkings of the Dark Citadel (1996) (Raven Software) (GOG).dosz">
 		<description>Hexen - Deathkings of the Dark Citadel</description>
 		<comment>v1.1</comment>
@@ -270,26 +291,15 @@
 			<track number="1" type="MODE1_RAW" frames="34256" pregap="0" duration="07:36:56" size="80570112" crc="231a1b07" md5="e2c6fc7952c09af4b0dad77e9e02c8fc" sha1="afbba6c84233ebf7f5cac556f5fbe6689259ac29" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
-	<game name="Hexen - Beyond Heretic (1995) (Raven Software) (Steam).dosz">
-		<description>Hexen - Beyond Heretic</description>
-		<comment>v1.1</comment>
-		<comment_dosc>Controller type and sound config (same as main entry)</comment_dosc>
-		<year>1995</year>
-		<developer>Raven Software</developer>
-		<variant>Steam</variant>
-		<rom name="DM.DAT" size="838" crc="b67b9aa4" md5="bab2cb86d3f7a876d83ff2d893e5c40f" sha1="8972c2fdb180de779bec6ad2247c3c072241053d"/>
-		<rom name="DM.DOC" size="7078" crc="d14c3168" md5="93dc0261cfb9de62812a1ecebccdcb3e" sha1="9702a955cc67881ccddba44d82aa0eb44d0c87e4"/>
-		<rom name="DM.EXE" size="34815" crc="5b8a403f" md5="6422418965b4574f7e843a19335d3dc4" sha1="d8e181339288ff8080693852318ea66ed072589e"/>
-		<rom name="DMOD.EXE" size="15169" crc="4db2d1fa" md5="c308ca03cd3e57f6a54400564a1403d3" sha1="858075f1a2f13d2b924d6689cd55a047d2bd96fa"/>
-		<rom name="HEXEN.EXE" size="923019" crc="bbc55df2" md5="713319e8adbc34bca8e06dbaff96f86c" sha1="b0b99b13a2d4f7987d1e918e2289deb9c421e561"/>
-		<rom name="HEXEN.WAD" size="20083672" crc="dca9114c" md5="abb033caf81e26f12a2103e1fa25453f" sha1="4b53832f0733c1e29e5f1de2428e5475e891af29"/>
-		<rom name="HEXMOD.EXE" size="14081" crc="138105f8" md5="24a148c53a41e87d8b84e6454fa743e9" sha1="559fbf18068777cf7c06f4bdfcc706d8b1626645"/>
-		<rom name="IPXSETUP.EXE" size="18019" crc="5938701c" md5="b4c07effb7551d0326579401410451a5" sha1="e883929672eec9f02e5cd04d296034815908725a"/>
-		<rom name="MODEM.CFG" size="67" crc="e4f84b43" md5="e807d9a94ecc7d3f015c45fce1699666" sha1="e5f8d54b59c60462ff62749f8f02b6574e054902"/>
-		<rom name="MODEM.NUM" size="67" crc="264c0c20" md5="7557fff62c050a1d354d6d56cf6bf6b9" sha1="1f57a9324b83d6335a88083c63b8b40f334b6d29"/>
-		<rom name="MODEM.STR" size="3405" crc="a320697b" md5="7294d0d7a6a6bdf653f2164dcb42b75a" sha1="2fcebfce4a22c717357879f8051f9799fa4c06e3"/>
-		<rom name="SERSETUP.EXE" size="20273" crc="91f13fa1" md5="b0aa869d620e8d6d943431cb1ed4abf6" sha1="e8cc947c1440f9bc838b25d1d271bf5a7ab85064"/>
-		<rom name="SETUP.EXE" size="44820" crc="257e9407" md5="88c88bc09078b4d943c54893aea65b81" sha1="81dae45320eea3947543013ceb81335bb8740365"/>
+	<game name="Jazz Jackrabbit (1994) (Epic MegaGames) (Installation).dosz">
+		<description>Jazz Jackrabbit</description>
+		<comment>Enhanced CD-ROM packaged with Jazz Jackrabbit 2</comment>
+		<year>1994</year>
+		<developer>Epic MegaGames</developer>
+		<variant>Installation</variant>
+		<rom name="Jazz Jackrabbit (USA) (Rerelease).chd" size="69346944" crc="627806bc" md5="5c3b08ba42c4b6995209ec8a113fde2b" sha1="dece219ba9323f6469554d2487753bd4213ef79c">
+			<track number="1" type="MODE1_RAW" frames="28318" pregap="0" duration="06:17:43" size="66603936" crc="eb4ea23a" md5="d6e97ef537d0bb30af57630c6efac168" sha1="b430f2a6e63e4e93bb2db3ac54fd2f0c6d573336" in_zeros="1" out_zeros="0"/>
+		</rom>
 	</game>
 	<game name="Jazz Jackrabbit (1994) (Epic MegaGames) (v1.3).dosz">
 		<description>Jazz Jackrabbit</description>
@@ -299,16 +309,6 @@
 		<variant>v1.3</variant>
 		<rom name="Jazz Jackrabbit (USA) (v1.3).chd" size="30041856" crc="1c857a63" md5="b2f31fe22b1434c5b5d587cd870eee04" sha1="12de9122556e4e60c650e080aea41e2c7b42379f">
 			<track number="1" type="MODE1_RAW" frames="12263" pregap="0" duration="02:43:38" size="28842576" crc="595159ca" md5="f62af4712ca5d4307acb8e149288d3ec" sha1="f6a6beb9ac156153f28ee93477b2b2b00dbdd2df" in_zeros="1" out_zeros="0"/>
-		</rom>
-	</game>
-	<game name="Jazz Jackrabbit (1994) (Epic MegaGames) (Installation).dosz">
-		<description>Jazz Jackrabbit</description>
-		<comment>Enhanced CD-ROM packaged with Jazz Jackrabbit 2</comment>
-		<year>1994</year>
-		<developer>Epic MegaGames</developer>
-		<variant>Installation</variant>
-		<rom name="Jazz Jackrabbit (USA) (Rerelease).chd" size="69346944" crc="627806bc" md5="5c3b08ba42c4b6995209ec8a113fde2b" sha1="dece219ba9323f6469554d2487753bd4213ef79c">
-			<track number="1" type="MODE1_RAW" frames="28318" pregap="0" duration="06:17:43" size="66603936" crc="eb4ea23a" md5="d6e97ef537d0bb30af57630c6efac168" sha1="b430f2a6e63e4e93bb2db3ac54fd2f0c6d573336" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
 	<game name="Mario Teaches Typing (1992) (Interplay Entertainment) (Installation).dosz">
@@ -383,44 +383,6 @@
 		<rom name="disk3.img" size="1474560" crc="c13e3621" md5="6f6b610af5d2186856b5e802bc5feacf" sha1="6f508241b87f3593573dfe07fb28e945c6be1a55"/>
 		<rom name="disk4.img" size="1474560" crc="eaccbf49" md5="bcadceb2bd764084ae1b1154302d4d2f" sha1="55186766f3953759686383cb6abfbec2e5bbc9c3"/>
 		<rom name="disk5.img" size="1474560" crc="fddb2a3a" md5="ae25cfa9f49894e5e0891104f43746ae" sha1="3a6abe5d401c13743a0d76ee2085945fff79e389"/>
-	</game>
-	<game name="Ultimate Doom, The (1995) (id Software) (GOG).dosz">
-		<description>Ultimate Doom, The</description>
-		<comment>Doom v1.9, DeathManager v1.5</comment>
-		<comment_dosc>Default GOG config</comment_dosc>
-		<year>1995</year>
-		<developer>id Software</developer>
-		<variant>GOG</variant>
-		<rom name="dm.dat" size="1114" crc="62c3d5a2" md5="69cdbee71b551dd5fd1c7bd2d5ca7d45" sha1="1e69b76c69043e2513a66b3c2c4cbe7692cc9871"/>
-		<rom name="DM.DOC" size="6397" crc="e272977c" md5="fb4bbd49248f37d0fb63766c34b73093" sha1="b9ca766d0fe156366359724fce97b6092e8960ac"/>
-		<rom name="DM.EXE" size="34815" crc="08f3cbc5" md5="ea9928974c35cfe74879d8a72ac9df29" sha1="c2d24dd853dbd72ce910fb167a762766bf4e04a8"/>
-		<rom name="DOOM.EXE" size="715493" crc="b5ceb8ac" md5="742a5f9953871687341e3794468894d8" sha1="64e6df0ee478868b42d5eb7d443430283b0ddc0c"/>
-		<rom name="DOOM.WAD" size="12408292" crc="bf0eaac0" md5="c4fe9fd920207691a9f493668e0a2083" sha1="9b07b02ab3c275a6a7570c3f73cc20d63a0e3833"/>
-		<rom name="IPXSETUP.EXE" size="18051" crc="8bf1d4d4" md5="7000e71566d8a50848a68969ec9c3b75" sha1="c76c6eb16dd2d27acfd8da049d0727744381095b"/>
-		<rom name="MODEM.CFG" size="67" crc="e4f84b43" md5="e807d9a94ecc7d3f015c45fce1699666" sha1="e5f8d54b59c60462ff62749f8f02b6574e054902"/>
-		<rom name="MODEM.NUM" size="67" crc="264c0c20" md5="7557fff62c050a1d354d6d56cf6bf6b9" sha1="1f57a9324b83d6335a88083c63b8b40f334b6d29"/>
-		<rom name="MODEM.STR" size="3405" crc="a320697b" md5="7294d0d7a6a6bdf653f2164dcb42b75a" sha1="2fcebfce4a22c717357879f8051f9799fa4c06e3"/>
-		<rom name="SERSETUP.EXE" size="20257" crc="6f8c2806" md5="573d6f784c0ca293383b6737b2a8e2c5" sha1="c34e1d9bbfcdcd8868fb4141201d3d02473c0fe1"/>
-		<rom name="SETUP.EXE" size="46665" crc="9a6be6d8" md5="729df5c0727cd290c1c34ffd29a04490" sha1="4664dbf04047a7b1733fed3654e6dd6b25b1613a"/>
-	</game>
-	<game name="Ultimate Doom, The (1995) (id Software) (Installation).dosz">
-		<description>Ultimate Doom, The</description>
-		<year>1995</year>
-		<developer>id Software</developer>
-		<variant>Installation</variant>
-		<rom name="Ultimate Doom, The (USA).chd" size="28005120" crc="552628d8" md5="9800ed15c1acba4bc379bd3cf1bcb89d" sha1="e6c7c8e1f23cb76ef432349c4261fe5abfc406ef">
-			<track number="1" type="MODE1_RAW" frames="11431" pregap="0" duration="02:32:31" size="26885712" crc="a9898633" md5="f0e687b879e13e9b230b47ba28288468" sha1="5de4c416ed6b25324120ad0ba4f7a26bc51a4190" in_zeros="1" out_zeros="0"/>
-		</rom>
-	</game>
-	<game name="Ultimate Doom, The (1995) (id Software) (Steam).dosz">
-		<description>Ultimate Doom, The</description>
-		<comment>v1.9</comment>
-		<comment_dosc>Default Steam config</comment_dosc>
-		<year>1995</year>
-		<developer>id Software</developer>
-		<variant>Steam</variant>
-		<rom name="DOOM.EXE" size="715493" crc="b5ceb8ac" md5="742a5f9953871687341e3794468894d8" sha1="64e6df0ee478868b42d5eb7d443430283b0ddc0c"/>
-		<rom name="DOOM.WAD" size="12408292" crc="bf0eaac0" md5="c4fe9fd920207691a9f493668e0a2083" sha1="9b07b02ab3c275a6a7570c3f73cc20d63a0e3833"/>
 	</game>
 	<game name="Quake (1996) (id Software) (GOG).dosz">
 		<description>Quake</description>
@@ -2596,6 +2558,44 @@
 		<rom name="SOUND/SNDSYS.DIG" size="3419" crc="d92696c9" md5="605073be24c73d794c0417a58cf262fa" sha1="0f14df1913a670e7b14fb7856ac72d457401dc1d"/>
 		<rom name="SOUND/ULTRA.DIG" size="9478" crc="430d67f5" md5="000e584a06712d2f2b58eb2e17b65248" sha1="4327d6bb924b4e40fa7ff035bdfb73a879c31836"/>
 		<rom name="SOUND/ULTRA.MDI" size="49672" crc="04849dc3" md5="9a1b881ab9e8f6d827f6c27c5df40d85" sha1="8337ada0962de33ee3eb8ebbf9d5d0c898f41fd2"/>
+	</game>
+	<game name="Ultimate Doom, The (1995) (id Software) (GOG).dosz">
+		<description>Ultimate Doom, The</description>
+		<comment>Doom v1.9, DeathManager v1.5</comment>
+		<comment_dosc>Default GOG config</comment_dosc>
+		<year>1995</year>
+		<developer>id Software</developer>
+		<variant>GOG</variant>
+		<rom name="dm.dat" size="1114" crc="62c3d5a2" md5="69cdbee71b551dd5fd1c7bd2d5ca7d45" sha1="1e69b76c69043e2513a66b3c2c4cbe7692cc9871"/>
+		<rom name="DM.DOC" size="6397" crc="e272977c" md5="fb4bbd49248f37d0fb63766c34b73093" sha1="b9ca766d0fe156366359724fce97b6092e8960ac"/>
+		<rom name="DM.EXE" size="34815" crc="08f3cbc5" md5="ea9928974c35cfe74879d8a72ac9df29" sha1="c2d24dd853dbd72ce910fb167a762766bf4e04a8"/>
+		<rom name="DOOM.EXE" size="715493" crc="b5ceb8ac" md5="742a5f9953871687341e3794468894d8" sha1="64e6df0ee478868b42d5eb7d443430283b0ddc0c"/>
+		<rom name="DOOM.WAD" size="12408292" crc="bf0eaac0" md5="c4fe9fd920207691a9f493668e0a2083" sha1="9b07b02ab3c275a6a7570c3f73cc20d63a0e3833"/>
+		<rom name="IPXSETUP.EXE" size="18051" crc="8bf1d4d4" md5="7000e71566d8a50848a68969ec9c3b75" sha1="c76c6eb16dd2d27acfd8da049d0727744381095b"/>
+		<rom name="MODEM.CFG" size="67" crc="e4f84b43" md5="e807d9a94ecc7d3f015c45fce1699666" sha1="e5f8d54b59c60462ff62749f8f02b6574e054902"/>
+		<rom name="MODEM.NUM" size="67" crc="264c0c20" md5="7557fff62c050a1d354d6d56cf6bf6b9" sha1="1f57a9324b83d6335a88083c63b8b40f334b6d29"/>
+		<rom name="MODEM.STR" size="3405" crc="a320697b" md5="7294d0d7a6a6bdf653f2164dcb42b75a" sha1="2fcebfce4a22c717357879f8051f9799fa4c06e3"/>
+		<rom name="SERSETUP.EXE" size="20257" crc="6f8c2806" md5="573d6f784c0ca293383b6737b2a8e2c5" sha1="c34e1d9bbfcdcd8868fb4141201d3d02473c0fe1"/>
+		<rom name="SETUP.EXE" size="46665" crc="9a6be6d8" md5="729df5c0727cd290c1c34ffd29a04490" sha1="4664dbf04047a7b1733fed3654e6dd6b25b1613a"/>
+	</game>
+	<game name="Ultimate Doom, The (1995) (id Software) (Installation).dosz">
+		<description>Ultimate Doom, The</description>
+		<year>1995</year>
+		<developer>id Software</developer>
+		<variant>Installation</variant>
+		<rom name="Ultimate Doom, The (USA).chd" size="28005120" crc="552628d8" md5="9800ed15c1acba4bc379bd3cf1bcb89d" sha1="e6c7c8e1f23cb76ef432349c4261fe5abfc406ef">
+			<track number="1" type="MODE1_RAW" frames="11431" pregap="0" duration="02:32:31" size="26885712" crc="a9898633" md5="f0e687b879e13e9b230b47ba28288468" sha1="5de4c416ed6b25324120ad0ba4f7a26bc51a4190" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
+	<game name="Ultimate Doom, The (1995) (id Software) (Steam).dosz">
+		<description>Ultimate Doom, The</description>
+		<comment>v1.9</comment>
+		<comment_dosc>Default Steam config</comment_dosc>
+		<year>1995</year>
+		<developer>id Software</developer>
+		<variant>Steam</variant>
+		<rom name="DOOM.EXE" size="715493" crc="b5ceb8ac" md5="742a5f9953871687341e3794468894d8" sha1="64e6df0ee478868b42d5eb7d443430283b0ddc0c"/>
+		<rom name="DOOM.WAD" size="12408292" crc="bf0eaac0" md5="c4fe9fd920207691a9f493668e0a2083" sha1="9b07b02ab3c275a6a7570c3f73cc20d63a0e3833"/>
 	</game>
 	<game name="Warcraft - Orcs &amp; Humans (1994) (Blizzard Entertainment) (Installation).dosz">
 		<description>Warcraft - Orcs &amp; Humans</description>
