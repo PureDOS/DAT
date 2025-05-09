@@ -142,41 +142,6 @@
 		<rom name="TITLE.VHF" size="5935" crc="d969180a" md5="e0be5780314ffbad6ea23d590d901817" sha1="908f70b0a89d41cffb918ee95bb1291335a19ad4"/>
 		<rom name="WEAPONCL.EHF" size="17435" crc="34eae1e5" md5="e430f42ef50c984209804faa6a0dc28e" sha1="ebf123699ae438c682ce9f2d5ca0fe495d7c5f29"/>
 	</game>
-	<game name="Anvil of Dawn (1995) (New World Computing) (GOG).dosz">
-		<description>Anvil of Dawn</description>
-		<year>1995</year>
-		<developer>New World Computing</developer>
-		<variant>GOG</variant>
-		<comment_dosc>
-			CPU max year set to 1996
-			Auto start
-			Configuration file
-		</comment_dosc>
-		<link type="store">https://www.gog.com/en/game/anvil_of_dawn</link>
-		<rom name="ANVIL.EXE" size="609117" crc="330147dd" md5="1636c2e26c9241bf57b607f83c1ca7c6" sha1="1c32610568ac3b1214769d018ed2ceda5ace9e83" date="2013-02-12 11:31:34"/>
-		<rom name="Anvil.iso" size="536459264" crc="37ee2235" md5="787870203f62852effdecf6820ae8139" sha1="bc35985fab478f9be87ac9a11d85615659bcbc10" date="2006-03-22 22:26:26"/>
-		<rom name="DATA/RES.000" size="160617" crc="536e9c2b" md5="634d44b35bb09ffd7de9782f262cae77" sha1="9e3ad46fb9fa9d285a49300a5599f0710bf467f2" date="2013-02-12 11:20:32"/>
-		<rom name="DATA/RES.001" size="4440132" crc="67d5748b" md5="18781df580183f5d2850b78f9c7e3d3c" sha1="ec1f6e14556b901027909c5464722b4967ff87cb" date="2013-02-12 11:20:32"/>
-		<rom name="DATA/RES.003" size="15938796" crc="1115f536" md5="5447d6b5e503152a8413f93e38a65b46" sha1="51e7943f1ab4f8ccc522e44a4448974c0897bb46" date="2013-02-12 11:20:34"/>
-		<rom name="DATA/RES.005" size="2429047" crc="af3d4fed" md5="583b4c33f1599041749dcb3f919f95f1" sha1="0ac0885f6d64e1d5464898ea1a08ebcc7552af98" date="2013-02-12 11:20:36"/>
-		<rom name="DATA/RES.006" size="1484936" crc="bb5a9638" md5="8d40720969690969a88a2a3f98008927" sha1="aa40d4342f92992d24e3b8103894681356fd9728" date="2013-02-12 11:20:36"/>
-		<rom name="DATA/RES.008" size="1249654" crc="416532e2" md5="c22d7b66c77b590564746dd6fa06609a" sha1="1a97dfcc0d635c46ae49f06b435f9f9cdc3b2a4a" date="2013-02-12 11:20:36"/>
-		<rom name="DRUM.BNK" size="5404" crc="31d372d7" md5="7ab6a5949812d983c9eb47baed1da39d" sha1="39aff6795ae0c7a12bee6fb312efa555eb4d4dec" date="2013-02-12 11:20:36"/>
-		<rom name="GRAVIS.BAT" size="30" crc="d8e3a072" md5="4a7f19020143cd973ff12380d7641254" sha1="1fcc6781af65f53b30aee0fbf51ea349a700395e" date="2013-02-12 11:20:36"/>
-		<rom name="HMIDET.386" size="83774" crc="ae8d1a06" md5="b6656f8af855be3184d2b9f10de91ef5" sha1="c3b75ab63273edfed1bb15acf59b321102781a96" date="2013-02-12 11:20:36"/>
-		<rom name="HMIDRV.386" size="317317" crc="21c398b8" md5="2de5f490362469628841199644a38e02" sha1="32c89e02cae4c33d1c0b93562f4ca0fe86c4a199" date="2013-02-12 11:20:36"/>
-		<rom name="HMIMDRV.386" size="117852" crc="833fbc45" md5="642245e78d1584edbf7cc21ca05c4992" sha1="f6b1154e9f1e5c3e191c68a971bd66afc1b45290" date="2013-02-12 11:20:36"/>
-		<rom name="HMISET.CFG" size="255" crc="febc2841" md5="7268d19883429e30bedb1313cceb510c" sha1="f146a6fbef9317074ccd15cb4a4242494b70b200" date="2013-02-12 11:21:00"/>
-		<rom name="LOADPATS.EXE" size="49194" crc="066c5e51" md5="b24134b3fab09b2727b49a0fe1d64d8e" sha1="d9ba6f21e0e7a7210fc7bdc99495343cadd07d9d" date="2013-02-12 11:20:36"/>
-		<rom name="MELODIC.BNK" size="5404" crc="f5eba444" md5="a517836a48f8a6202e5de46f8f4cfc45" sha1="8ce3f39d5bc377ad5b42c582406c17ac3946b42a" date="2013-02-12 11:20:36"/>
-		<rom name="PATCHES.INI" size="9825" crc="ff05cbf8" md5="2a68daebe37948e12afccf3bccd1b5bb" sha1="7c76a17c7922d992975c4a4e7a434b5af60d1b51" date="2013-02-12 11:20:36"/>
-		<rom name="README.BAT" size="33" crc="b8da11c7" md5="ef441bb88e2afb69acf511cc2a0d64f4" sha1="e6c0073f05ce0ab6024ae21bd8115ebdc98d7217" date="2013-02-12 11:20:36"/>
-		<rom name="README.TXT" size="6449" crc="5a5c228a" md5="4d1ed6f7a545ee7e9ae25ddafb93becb" sha1="e6b39940053fea2f675a22e2ef361cca07f342de" date="2013-02-12 11:20:36"/>
-		<rom name="SETUP.EXE" size="323099" crc="4c0738ce" md5="a20f6485655179a9a76e32a1dcb18ac1" sha1="0cb3103c7b354b9282b09cd7c72ebc1e70a564b5" date="2013-02-12 11:20:36"/>
-		<rom name="SETUP.INI" size="3505" crc="462c3d2a" md5="2180355a0e23de1964bd85265d8c7f2c" sha1="3c9be3d6d081c2ba72807635034b61e404e7d02d" date="2013-02-12 11:20:36"/>
-		<rom name="TEST.HMI" size="13125" crc="7fc4ae55" md5="17ad6180fac8a6bf23115b0ad169885a" sha1="30fdc0f7bfb84c848150c8570a34714e73c27c60" date="2013-02-12 11:20:36"/>
-		<rom name="TEST.WAV" size="80684" crc="482a08f6" md5="43b48823c98c370bec77460f2eac21fa" sha1="5306d9843fabb9b6a0ff4a1932b59d4f68427d01" date="2013-02-12 11:20:36"/>
-	</game>
 	<game name="Beyond Zork - The Coconut of Quendor (1987) (Infocom) (GOG).dosz">
 		<description>Beyond Zork - The Coconut of Quendor</description>
 		<comment_dosc>Auto run</comment_dosc>
