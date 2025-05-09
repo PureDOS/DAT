@@ -1721,16 +1721,6 @@
 		<rom name="WINDOW.PAC" size="265" crc="12fe3f59" md5="68e7d6214b6fc2fa1596ea9d464d047a" sha1="2879087fc324ed5a0004f59bf06d9556e4027248" date="1994-02-07 14:38:48"/>
 		<rom name="WINDOW.PIC" size="3187" crc="8ee64764" md5="c8b6f19d823f24e53c340abc2963733b" sha1="defe6c9a06dc3385362f28f31d41b1f74abfa9da" date="1994-02-07 14:38:56"/>
 	</game>
-	<game name="Battle Chess (1988) (Interplay).dosz">
-		<description>Battle Chess</description>
-		<comment>Installed from Redump-verified CD-ROM: Interplay All-Nighter - Anthology No. 2 (USA) (Disc 4)</comment>
-		<comment_dosc>Auto-starts</comment_dosc>
-		<year>1988</year>
-		<developer>Interplay</developer>
-		<rom name="ALLCANM1" size="105248" crc="2f4bd6b9" md5="fbb440458b8c8a20a2fd70a37fbbb4ae" sha1="2439118b2bb1b631b8246e193d532732b6ad7953" date="1990-04-19 01:00:04"/>
-		<rom name="ALLCANM2" size="658593" crc="000c90a6" md5="30b00df4b9ec77ec54f8675167d7ddd1" sha1="d17c28f4507b9e49d17f94cd835275913b668a09" date="1990-04-19 01:00:04"/>
-		<rom name="CHESS.EXE" size="494735" crc="c218c21d" md5="119b36705be522296bf4d2c79c1b257d" sha1="931702dadf2bfd524a84fbe2f79594006e58d00c" date="1994-09-05 08:50:00"/>
-	</game>
 	<game name="Battle Chess (1988) (Interplay) (Classic Collection).dosz">
 		<description>Battle Chess</description>
 		<comment>Installed from Redump-verified CD-ROM: Interplay's 10 Year Anthology - Classic Collection</comment>
@@ -1741,6 +1731,16 @@
 		<rom name="ALLCANM1" size="105248" crc="2f4bd6b9" md5="fbb440458b8c8a20a2fd70a37fbbb4ae" sha1="2439118b2bb1b631b8246e193d532732b6ad7953" date="1993-06-30 11:39:14"/>
 		<rom name="ALLCANM2" size="658593" crc="000c90a6" md5="30b00df4b9ec77ec54f8675167d7ddd1" sha1="d17c28f4507b9e49d17f94cd835275913b668a09" date="1993-06-30 11:40:20"/>
 		<rom name="CHESS.EXE" size="81363" crc="6ab008d9" md5="29cea66ddb26d22fba0249d21d808704" sha1="850e3934e71696f0787c9acbb6ad5bcf46309568" date="1994-03-07 17:31:00"/>
+	</game>
+	<game name="Battle Chess (1988) (Interplay).dosz">
+		<description>Battle Chess</description>
+		<comment>Installed from Redump-verified CD-ROM: Interplay All-Nighter - Anthology No. 2 (USA) (Disc 4)</comment>
+		<comment_dosc>Auto-starts</comment_dosc>
+		<year>1988</year>
+		<developer>Interplay</developer>
+		<rom name="ALLCANM1" size="105248" crc="2f4bd6b9" md5="fbb440458b8c8a20a2fd70a37fbbb4ae" sha1="2439118b2bb1b631b8246e193d532732b6ad7953" date="1990-04-19 01:00:04"/>
+		<rom name="ALLCANM2" size="658593" crc="000c90a6" md5="30b00df4b9ec77ec54f8675167d7ddd1" sha1="d17c28f4507b9e49d17f94cd835275913b668a09" date="1990-04-19 01:00:04"/>
+		<rom name="CHESS.EXE" size="494735" crc="c218c21d" md5="119b36705be522296bf4d2c79c1b257d" sha1="931702dadf2bfd524a84fbe2f79594006e58d00c" date="1994-09-05 08:50:00"/>
 	</game>
 	<game name="Battle Chess - Enhanced CD Version (1991) (Interplay).dosz">
 		<description>Battle Chess - Enhanced CD Version</description>
@@ -12650,6 +12650,78 @@
 		<rom name="TANDY.MDI" size="5010" crc="8abb61f4" md5="59153a3c31e3e62b403cac8c11a5e848" sha1="6fe77cabd4b9b621568c38f6feaa36696b8aa56b" date="1995-11-07 06:00:00"/>
 		<rom name="ULTRA.DIG" size="9478" crc="430d67f5" md5="000e584a06712d2f2b58eb2e17b65248" sha1="4327d6bb924b4e40fa7ff035bdfb73a879c31836" date="1995-11-07 06:00:00"/>
 		<rom name="ULTRA.MDI" size="49672" crc="04849dc3" md5="9a1b881ab9e8f6d827f6c27c5df40d85" sha1="8337ada0962de33ee3eb8ebbf9d5d0c898f41fd2" date="1995-11-07 06:00:00"/>
+	</game>
+	<game name="KKND - Krush Kill 'N Destroy (1997) (Beam Software).dosz">
+		<description>KKND - Krush Kill 'N Destroy</description>
+		<comment>Installed from Redump-verified CD-ROM: KKND - Krush, Kill 'N' Destroy (USA) (Rerelease)</comment>
+		<comment_dosc>Mounts disc, auto-starts, and config</comment_dosc>
+		<year>1997</year>
+		<developer>Beam Software</developer>
+		<link type="media">http://redump.org/disc/82874/</link>
+		<rom name="CD/KKND - Krush, Kill 'N' Destroy (USA) (Rerelease).chd" size="602443008" crc="acf542a4" md5="51c7e7e77d0c68ae75adf2ac0fc21b1b" sha1="a1eb3d52e5c9137d6e8a5b6dc8124ea2048673b0">
+			<track number="1" type="MODE1_RAW" frames="246037" pregap="0" duration="54:40:37" size="578679024" crc="858bcb60" md5="f35b3633a73e5e923592b4d5a904edb3" sha1="029d51e8335aa287818a812b7426b64aa13bd2b0" in_zeros="1" out_zeros="0"/>
+		</rom>
+		<rom name="KKND.MEM" size="38" crc="61bccb2e" md5="e4444d73e721df468e70de39e5cd1953" sha1="608ff4cf2593a7a638c865d966b3cf263f1d5924"/>
+		<rom name="KKND/HMIDET.386" size="83774" crc="ae8d1a06" md5="b6656f8af855be3184d2b9f10de91ef5" sha1="c3b75ab63273edfed1bb15acf59b321102781a96"/>
+		<rom name="KKND/HMIDRV.386" size="317317" crc="21c398b8" md5="2de5f490362469628841199644a38e02" sha1="32c89e02cae4c33d1c0b93562f4ca0fe86c4a199"/>
+		<rom name="KKND/KILLKKND.BAT" size="12339" crc="1cf90a3a" md5="20d6e67fc29edb40527c38a822657315" sha1="ea7ca65a7063226f15572ad6b9dcc4202e836cc0"/>
+		<rom name="KKND/KKND.CFG" size="338" crc="d00a3634" md5="4293b26ff842147061f98e7d2c7fcd3a" sha1="be78033b8456c1cd2a03ea21b8f0c8fa66cf284f" date="1996-11-13 20:12:32"/>
+		<rom name="KKND/KKND.EXE" size="1062709" crc="eede7ab4" md5="65e0f6b026e6655d389cbd4549a99509" sha1="024e96860c504b462b24b9237d49bfe8de6eb8e0"/>
+		<rom name="KKND/KKND.PIF" size="967" crc="fe356017" md5="817153db63a66b0807bd3f2b317ed7f7" sha1="f8f589597310989fe912028e338299cf461f871b"/>
+		<rom name="KKND/KKNDICON.ICO" size="766" crc="9a8fcd66" md5="3b33e05b1101ad85d562145c7a581b1a" sha1="593632125eb71c7681276c03a8d75cb95865a6f5"/>
+		<rom name="KKND/LEVELS/640/FMV.LVL" size="395773" crc="7b44bd22" md5="a7013ab9a0d9c7fcb79044538e4d56c8" sha1="e2479f36473c3531ba906b985ee858f26097d0d8"/>
+		<rom name="KKND/LEVELS/640/MLTI_01.LVL" size="1433439" crc="0339ff08" md5="4dd03bf306ce91c542de5d4638a867ce" sha1="7010c5fd6c6b4bbeae9fe1149bb00e6131a7320c"/>
+		<rom name="KKND/LEVELS/640/MLTI_02.LVL" size="1396347" crc="7b5bd2cb" md5="b0074b31e8aba7fa5982d70427e0bd0e" sha1="17e91df5b0ce0d18162fa300a972367ac13e28f0"/>
+		<rom name="KKND/LEVELS/640/MLTI_03.LVL" size="776415" crc="cbc3677b" md5="d8c15c679e033dc7b4a707b1f5407d64" sha1="74abce0222c053a77365a764d528bbf1397ffe88"/>
+		<rom name="KKND/LEVELS/640/MLTI_04.LVL" size="1089341" crc="5156d3ed" md5="7b11d1fab28e2d5b4e9278e0f1ff8170" sha1="c33ed08af4ee81fc46a2c40d6a57efaafaf1a5dc"/>
+		<rom name="KKND/LEVELS/640/MLTI_05.LVL" size="1385021" crc="0776077c" md5="d01e71d84730a01fc3eaaa540025bc4b" sha1="d01585ccd62a78402532f51b1198cd9e8b832bce"/>
+		<rom name="KKND/LEVELS/640/MLTI_06.LVL" size="648147" crc="266f0ffe" md5="8b0f12db9d7aef415bc3e4cf0787107e" sha1="6afdf962c7b03f005a2922dfc501f141bf1f2a35"/>
+		<rom name="KKND/LEVELS/640/MLTI_07.LVL" size="997095" crc="64fd534a" md5="510af266c6bdd9f8b9c2bff5fd67cc65" sha1="6586ba0908272ba4fdf76a8a1ca596f804bc65f6"/>
+		<rom name="KKND/LEVELS/640/MLTI_08.LVL" size="1211755" crc="32c3cdc6" md5="b65135ebb396171e46bee20e1f57c33d" sha1="88f21906055d0db8e272e016cd2199a3ba5784e8"/>
+		<rom name="KKND/LEVELS/640/MLTI_09.LVL" size="1198571" crc="a1e33b7a" md5="4d8d47e6ff13c955a866c3a42127ec85" sha1="3ace29c2b2aeec0c6f4e8f6e6b9666b1c8911a5a"/>
+		<rom name="KKND/LEVELS/640/MLTI_10.LVL" size="911141" crc="798dcfc2" md5="4a5adbba4fd93359f953797a56b3c738" sha1="3b3bac77862fbf38b06908962f1298701f2f0877"/>
+		<rom name="KKND/LEVELS/640/MUTE_01.LVL" size="845050" crc="e87543ee" md5="85a60529352357db12ec2f72a8bb8b8a" sha1="8cdae384e9dd855726ced084033f40757db0c3cb"/>
+		<rom name="KKND/LEVELS/640/MUTE_02.LVL" size="936435" crc="22bf4896" md5="8f5371505577eee40aa147cfca006d26" sha1="86b1d41946d3855e3da35c25b23502c2e20460a0"/>
+		<rom name="KKND/LEVELS/640/MUTE_03.LVL" size="787786" crc="b446a456" md5="a0b1fd04230ddcb8380a848dc0b55cd6" sha1="611fc5c5de7997c9bff8354072b88f606f116d9d"/>
+		<rom name="KKND/LEVELS/640/MUTE_04.LVL" size="1221312" crc="1190a9be" md5="37df52ff91d4799e1a6f49cb3b2af232" sha1="f61e148f15518a7465d6f1a06e8bc724819ebbf1"/>
+		<rom name="KKND/LEVELS/640/MUTE_05.LVL" size="1309983" crc="2a274377" md5="45a294d6352de163b8411a6a38a71149" sha1="e28e711c323fce1a456eccb7d7cb9c405b941367"/>
+		<rom name="KKND/LEVELS/640/MUTE_06.LVL" size="856207" crc="2a8e401a" md5="8aa154ffabe6e67be1c04d94b53b0578" sha1="d70bacd0bf2a006912d13a184b4a3d55092cf1ba"/>
+		<rom name="KKND/LEVELS/640/MUTE_07.LVL" size="906177" crc="b9b97c51" md5="f562237e95b55adc1fdbb3b9871fe9d0" sha1="ee4a262acf131d63f81b7eb254441ec862f5515a"/>
+		<rom name="KKND/LEVELS/640/MUTE_08.LVL" size="1425851" crc="eea9afd9" md5="d11f83b614249887f29bae45c54188ac" sha1="d127b38c46f58cd62469255ff3841336e441b180"/>
+		<rom name="KKND/LEVELS/640/MUTE_09.LVL" size="1455939" crc="ee178458" md5="94da74a53fcd526e9d3c947d5a766a97" sha1="84cfd6eed8a84d9f35371ca312a54959f1edc11f"/>
+		<rom name="KKND/LEVELS/640/MUTE_10.LVL" size="1097322" crc="8a2ed9ca" md5="c823cb86265f68c459b6834f189aa0be" sha1="a1834c598d6a56a1b5f2b8b0a7e49e49f4b65ebb"/>
+		<rom name="KKND/LEVELS/640/MUTE_11.LVL" size="705961" crc="fbcb069c" md5="27f397f4a93984883030ee8cc9382f6a" sha1="5fffa69474f1fe9582960fe494670198b25c951d"/>
+		<rom name="KKND/LEVELS/640/MUTE_12.LVL" size="839697" crc="bb6acb06" md5="0128d8a81ae8aa4d93f7c60dee7c3f21" sha1="3c646d907aeca30f364be01a9a23c89c72115317"/>
+		<rom name="KKND/LEVELS/640/MUTE_13.LVL" size="1408819" crc="ebedb5df" md5="8362c2f314c2d888705bc5b83f437a70" sha1="4984e0b57f2eb7ee76b523aef0a80893a96b0cd3"/>
+		<rom name="KKND/LEVELS/640/MUTE_14.LVL" size="780806" crc="610cbb14" md5="99d241525729562d748f3e59bd2b0338" sha1="a5f22aebf7f31258e52bca6c257f1876c2e339d5"/>
+		<rom name="KKND/LEVELS/640/MUTE_15.LVL" size="635020" crc="ee2b6715" md5="214fc53be3373fe76c5bfa4acb29a97b" sha1="e2c6fd5906e0cc1c464fc6d02a6f382a8d6e750e"/>
+		<rom name="KKND/LEVELS/640/SPRITES.LVL" size="4861312" crc="81b5f0d3" md5="aba4cbacd14b64bb04c15acf83cc1080" sha1="493af824509075120a3f41c14a86d9046ac294f1"/>
+		<rom name="KKND/LEVELS/640/SUPER.LVL" size="4003734" crc="00a8b91b" md5="193de8f4e1109da337c01226433e5769" sha1="749442cded87fad596417d811239d6a6cd2ba996"/>
+		<rom name="KKND/LEVELS/640/SUPSPR.LVL" size="663285" crc="56570f4f" md5="95fd0d452abb68007c4e4052120b6c92" sha1="0b301f29a64f577ff27105a56d263d267f76cce6"/>
+		<rom name="KKND/LEVELS/640/SURV_01.LVL" size="1117210" crc="3a426e13" md5="75fb9aa0b15a64bd4eca730d737e31fb" sha1="9b21cc5fd2e99bb44567e8125e422fb53c7c97cb"/>
+		<rom name="KKND/LEVELS/640/SURV_02.LVL" size="790974" crc="e37347b7" md5="b5baa19f097ed2015089334b785fc65a" sha1="d5c79e33a27312135fdf324bc5b2f38135f5b7a6"/>
+		<rom name="KKND/LEVELS/640/SURV_03.LVL" size="791600" crc="60f0a7a6" md5="a55450a84aad33d5f3ec4c29cf350423" sha1="97182bf21b45e0e63e73040a2a90cb00f35e7dc2"/>
+		<rom name="KKND/LEVELS/640/SURV_04.LVL" size="1517748" crc="6c092acc" md5="697e58306bf1779f894a0ce045ebaae0" sha1="886c34e8e6edbe9c556bd09990b81d8bf126adf7"/>
+		<rom name="KKND/LEVELS/640/SURV_05.LVL" size="1379814" crc="d3d0ad88" md5="da83492cb49d431c470c3aaf40a8c4e8" sha1="c7d5d65a5228ec789d72d8386b10275c3fb50f5a"/>
+		<rom name="KKND/LEVELS/640/SURV_06.LVL" size="1155415" crc="39bdea72" md5="c65e068f6e1633d2c8cd0178972ae027" sha1="517c04760810c3dc19498bf6d1f5b54bda8c89be"/>
+		<rom name="KKND/LEVELS/640/SURV_07.LVL" size="1664684" crc="4a03edf6" md5="bc58740409167b9b4d7abf3ce14b2a07" sha1="e0579017e9f822fe732db3277c9ba27b9bbaf35b"/>
+		<rom name="KKND/LEVELS/640/SURV_08.LVL" size="623462" crc="5e7efb2b" md5="1987f4efa4ccebe5ee0217fdd6077fc8" sha1="d8101faf6dbf845271c7de82a364c194a99911cf"/>
+		<rom name="KKND/LEVELS/640/SURV_09.LVL" size="1513422" crc="22a9886b" md5="479704d70d9bcae7679ae72b9c5db769" sha1="9ced1db002b1d9cf5852605cd3c13d2ef42308b9"/>
+		<rom name="KKND/LEVELS/640/SURV_10.LVL" size="1257415" crc="847e1fdd" md5="86903a94ba9410573f22b4289ffce1fc" sha1="2582f8d2d4bfb48ed51950713abf72ee3c719c00"/>
+		<rom name="KKND/LEVELS/640/SURV_11.LVL" size="1586848" crc="891f1baa" md5="a49dd6ba82b87a04e3aa94228280238b" sha1="5f611f6a1057c797b0ec506cc483830beb654e20"/>
+		<rom name="KKND/LEVELS/640/SURV_12.LVL" size="1145581" crc="738ac308" md5="601add6bfca6bc34b778e44836ade313" sha1="28e58cb431894f3c0aa686697faf499b06746947"/>
+		<rom name="KKND/LEVELS/640/SURV_13.LVL" size="1058277" crc="99c4b377" md5="f9810c3b3234472458d46ddaabec2dd1" sha1="02bacf28426ab6a46f8ee4b488a6a46c93754f68"/>
+		<rom name="KKND/LEVELS/640/SURV_14.LVL" size="868006" crc="3116d5fe" md5="b7af20db16a6dd69c6820be9401b7c1f" sha1="4f7a54f3ad92b4ef0e53fc33b0026bdd6df74743"/>
+		<rom name="KKND/LEVELS/640/SURV_15.LVL" size="739260" crc="7ad0f2ff" md5="1679876774f2caaf77d70f4bec2a1624" sha1="bb8b58cfdc4816e55cf60a4e3e9bacdb6a6483bd"/>
+		<rom name="KKND/LEVELS/640/WAIT.LVL" size="170829" crc="23bcd840" md5="5a22702fc25c05778319fa3fc2b60fe7" sha1="a1850b3b5a5a124618e71254901701e580025cbb"/>
+		<rom name="KKND/LEVELS/MULTI.PAL" size="2844" crc="c6b9c876" md5="fc6d64c183ae73c0d134a5b061c6f509" sha1="d2e0497aeea673b197ebed405494f1a1e068d1f7"/>
+		<rom name="KKND/LEVELS/MUTE.SLV" size="2047372" crc="4d80390d" md5="6a5a51c4ca94897c4f021b3d6a6765be" sha1="551e73a90d7f09898a931d0b0b5becfa46cfb308"/>
+		<rom name="KKND/LEVELS/SUPER.SLV" size="19580" crc="e1dc96c9" md5="29bd89369d256e524d9440a8bf48f24d" sha1="1c9acf119788e59e74b538a92363fa32bd42aec1"/>
+		<rom name="KKND/LEVELS/SURV.SLV" size="2022656" crc="84f22c15" md5="f34844720f84b550e4d100c65eac03c8" sha1="e684b0f800c61613e30b7ba13a0f3550d32dc7be"/>
+		<rom name="KKND/README.TXT" size="7196" crc="aa4028d1" md5="a99d8ecc004d833306314b5de3dc8617" sha1="a52d76beb39390190aaf50c95f425b8521977ef4"/>
+		<rom name="KKND/SERIAL.CFG" size="2704" crc="484470ba" md5="0291739a403a040d7760d1aea6177478" sha1="1be00af3566b153777b55cb49dbde864b1b5f7ff"/>
+		<rom name="KKND/UNITS.CFG" size="7096" crc="463c3b71" md5="9225d9c4797d585dea1f7d145dabbf1f" sha1="8ca7fef5e535109cd129f5304092316a04b693d8"/>
+		<rom name="KKND/UVCONFIG.EXE" size="269682" crc="79893368" md5="f3c408f4eef7b01d6cdcb32b52f34283" sha1="f81232ed7258668b74b514bd08298d1511500a7b"/>
 	</game>
 	<game name="Kosmonaut (1990) (Blue Moon Interactive).dosz">
 		<description>Kosmonaut</description>
