@@ -13150,11 +13150,16 @@
 			Matches with Redump: Stellar 7 (USA)
 			CD image converted with CHDtoOGG
 			The game works best when it runs directly from the disc
+			DoDAT can build this directly from the disc image
 		</comment>
 		<comment_dosc>CD audio selected, game speed reduced, and auto start. Sound Blaster and MT-32 options</comment_dosc>
 		<link type="media">http://redump.org/disc/45077/</link>
-		<rom name="Stellar 7 (USA) (Track 1).bin" size="23320080" crc="3d4511c1" md5="16e2a12bc81040fafda1129280f0623e" sha1="98b4d488e816c7f5e3c3f40dd26834ca7aad821a"/>
-		<rom name="Stellar 7 (USA) (Track 2).ogg" size="50079115" crc="f74cdd2a" md5="ca16235eb5e4c6f3c3244c9af33c0325" sha1="ae618ad42ed62939aa237ced0de7755093a5eed7"/>
+		<rom name="Stellar 7 (USA) (Track 1).bin" size="23320080" crc="3d4511c1" md5="16e2a12bc81040fafda1129280f0623e" sha1="98b4d488e816c7f5e3c3f40dd26834ca7aad821a">
+			<source type="MODE1_RAW" frames="9915" duration="02:12:15"/>
+		</rom>
+		<rom name="Stellar 7 (USA) (Track 2).ogg" size="50079115" crc="f74cdd2a" md5="ca16235eb5e4c6f3c3244c9af33c0325" sha1="ae618ad42ed62939aa237ced0de7755093a5eed7">
+			<source type="AUDIO" frames="100655" omitted_pregap="150" duration="22:22:05" size="236740560" crc="a6f88f85" md5="8eb8a25b9d2575bdd30882c5f3113052" sha1="e32244d684554a44ad03daa5b5de815cf22cd2c3" in_zeros="22204" out_zeros="382796" quality="8"/>
+		</rom>
 		<rom name="Stellar 7 (USA).cue" size="195" crc="6b4db93e" md5="2958558f07132820d503953eb7c22e52" sha1="81479f6dc60d78d58bc658bf466ae290fcfd0141"/>
 	</game>
 	<game name="Stonekeep (1995) (Interplay).dosz">
