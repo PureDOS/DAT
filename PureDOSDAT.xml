@@ -4606,55 +4606,55 @@
 		<comment_dosc>Sound Blaster Pro config and auto start</comment_dosc>
 		<link type="media">http://redump.org/disc/65706/</link>
 		<rom name="CD/Earthworm Jim (USA) (Track 1).bin" size="27704208" crc="afd5ca36" md5="69025be6540dfcec835b477b5958d545" sha1="c9971cae8e10315e630ec327b83c7eed054f1e50">
-			<source frames="11779" pregap="0" duration="02:37:04" size="27704208" crc="afd5ca36" md5="69025be6540dfcec835b477b5958d545" sha1="c9971cae8e10315e630ec327b83c7eed054f1e50"/>
+			<source type="MODE1_RAW" frames="11779" duration="02:37:04"/>
 		</rom>
 		<rom name="CD/Earthworm Jim (USA) (Track 2).ogg" size="10734929" crc="4bc9d66a" md5="cdef1af2625391450cb2f745b12390cc" sha1="e43f4fadb0fafea2cc939bb7db38de66a03b8cc2">
-			<source frames="23942" pregap="149" duration="05:19:17" size="56311584" crc="06ae0807" md5="addeee7d09967b73bc602ff6b75fc5f4" sha1="d1f67ec5c4a041d4d9562e220311b936dba1b45e" in_zeros="350472" out_zeros="1389440" trimmed_crc="6ce952bc" quality="8"/>
+			<source type="AUDIO" frames="23793" omitted_pregap="149" duration="05:17:18" size="55961136" crc="9f964503" md5="881cff3e4311b0fd3f220c6042c8f773" sha1="61ec2127440d763d81aadb0ca262d34826060fb8" in_zeros="24" out_zeros="1389440" quality="8"/>
 		</rom>
 		<rom name="CD/Earthworm Jim (USA) (Track 3).ogg" size="13435491" crc="fa26d236" md5="4e6291382a5d17c3103878e1c11f6215" sha1="92f06fa186297d1406713020bc04b734e32223aa">
-			<source frames="25475" pregap="149" duration="05:39:50" size="59917200" crc="5c294646" md5="487d3ecdac33aed42016df6640e5e10c" sha1="1a860a33b656c07fa7283737b3afdc1fc144063c" in_zeros="350472" out_zeros="1306309" trimmed_crc="40029092" quality="8"/>
+			<source type="AUDIO" frames="25326" omitted_pregap="149" duration="05:37:51" size="59566752" crc="f4f498ec" md5="9a0a47ed253f8e93c7fde1f7530a32a0" sha1="326cbd4a16e9a0cae0bfb4ff3a77e5e359f9bede" in_zeros="24" out_zeros="1306309" quality="8"/>
 		</rom>
 		<rom name="CD/Earthworm Jim (USA) (Track 4).ogg" size="13449944" crc="8cb1a832" md5="249eca41d59cf0228553bbc461fbf714" sha1="30e765f5e122eafa352fd7b0a520b0a630887163">
-			<source frames="29414" pregap="149" duration="06:32:14" size="69181728" crc="7cb49cc0" md5="630fa4e62d839ddfeecea78f2a9bb1b0" sha1="b2487988b453cbf511a6c1e59d08e912ca7e6750" in_zeros="350472" out_zeros="1125952" trimmed_crc="7e937977" quality="8"/>
+			<source type="AUDIO" frames="29265" omitted_pregap="149" duration="06:30:15" size="68831280" crc="bb5188f1" md5="121a08e4e2b73e8966b2f4ce7544e640" sha1="08289396a2db7b0901524faf62f68e1df69e55d0" in_zeros="24" out_zeros="1125952" quality="8"/>
 		</rom>
 		<rom name="CD/Earthworm Jim (USA) (Track 5).ogg" size="14781504" crc="6f468df8" md5="2613e68e1b7888ad146b74b6abb601aa" sha1="95d2f8eb06605cad404dbb5d1b9eebcb67c6cce1">
-			<source frames="32468" pregap="149" duration="07:12:68" size="76364736" crc="e76efab7" md5="fab30c19ca7f307dd732546671d63f8b" sha1="973ac6696d6bdfeaaf8e9643ebd893dd60c21950" in_zeros="350496" out_zeros="1441034" trimmed_crc="04de3a00" quality="8"/>
+			<source type="AUDIO" frames="32319" omitted_pregap="149" duration="07:10:69" size="76014288" crc="3baed857" md5="78ae4eba70e62dd4db992187dc1cc76e" sha1="c093a4087dea38c2e53698c084cfa992620fef2f" in_zeros="48" out_zeros="1441034" quality="8"/>
 		</rom>
 		<rom name="CD/Earthworm Jim (USA) (Track 6).ogg" size="9725181" crc="8d796d7b" md5="eca0ad33f3b445b47b08e726a9bdb67a" sha1="3637df3ad2154efbd6168f6a8c691be0ed2d22d3">
-			<source frames="23453" pregap="149" duration="05:12:53" size="55161456" crc="16920e76" md5="c56f56d0e680a5a399c08ee4d9a2ced1" sha1="0b876158697d4e45f6e51f808c05112f9b33e6dc" in_zeros="350496" out_zeros="1460568" trimmed_crc="d44af31f" quality="8"/>
+			<source type="AUDIO" frames="23304" omitted_pregap="149" duration="05:10:54" size="54811008" crc="694516d8" md5="edeaaea8f82dd16b7f12982c58bd8784" sha1="ce655943b4c78614f8b3bb3699d66711f8651413" in_zeros="48" out_zeros="1460568" quality="8"/>
 		</rom>
 		<rom name="CD/Earthworm Jim (USA) (Track 7).ogg" size="7651066" crc="e990f047" md5="a415afbb782465021bf9d527ef165444" sha1="65f1e674def1af24c98e32041dd5a0cc4439bb85">
-			<source frames="16868" pregap="149" duration="03:44:68" size="39673536" crc="4fafb9d3" md5="ebae8865d4665c5e6bc597b1f0161004" sha1="8f5275ceb16225549f8d7d5cd62d95bf8bd5cbac" in_zeros="350496" out_zeros="606269" trimmed_crc="91030290" quality="8"/>
+			<source type="AUDIO" frames="16719" omitted_pregap="149" duration="03:42:69" size="39323088" crc="7cd8b72a" md5="700cd3a54f5234c4489b79b0ca9a0889" sha1="a1f535e69fe0fcd9c8c768031026cba826398fbe" in_zeros="48" out_zeros="606269" quality="8"/>
 		</rom>
 		<rom name="CD/Earthworm Jim (USA) (Track 8).ogg" size="1873982" crc="10921787" md5="639b426a311c62a7c5324fc7dcc246fa" sha1="e7029734aefc5d750391371355526b7595c39283">
-			<source frames="4547" pregap="149" duration="01:00:47" size="10694544" crc="d9aa289b" md5="e7c561118843ea4427b15b2619fd7047" sha1="654c0a96e08c7b7b0c6d0ad1402127e934c3dc0c" in_zeros="350496" out_zeros="448373" trimmed_crc="15ebdde8" quality="8"/>
+			<source type="AUDIO" frames="4398" omitted_pregap="149" duration="00:58:48" size="10344096" crc="44a1d798" md5="a669322a2fbc332862e99946dd01a70c" sha1="3b993c503405025901b49de4e8ad036541f9586e" in_zeros="48" out_zeros="448373" quality="8"/>
 		</rom>
 		<rom name="CD/Earthworm Jim (USA) (Track 9).ogg" size="14276506" crc="44314564" md5="220f3b293b07f2f09a70e18388a10c45" sha1="93b4500a8295a96c63bff14f0a5d1e75081723cd">
-			<source frames="31424" pregap="149" duration="06:58:74" size="73909248" crc="be8d7b4f" md5="a8bc3f9eb9b238ec3bb737e62858313e" sha1="b0403aba3912174567e359c5832e7543610d3af5" in_zeros="350520" out_zeros="1432928" trimmed_crc="2a23e892" quality="8"/>
+			<source type="AUDIO" frames="31275" omitted_pregap="149" duration="06:57:00" size="73558800" crc="caf9ff06" md5="066061075b7e018e54b006ed270a4ddd" sha1="a92867063cab18421297ab786754691d2d820ae8" in_zeros="72" out_zeros="1432928" quality="8"/>
 		</rom>
 		<rom name="CD/Earthworm Jim (USA) (Track 10).ogg" size="6354878" crc="f87e7993" md5="62d4e1379378c8b9727a3b774e313945" sha1="36b2bfce65c245dcd5635d2d5bae78e024f61647">
-			<source frames="14711" pregap="149" duration="03:16:11" size="34600272" crc="10d0ec92" md5="cbce914a349bd6ee780d3f27d31b3586" sha1="726dab1f01b7938fffac8bf51570001fc2ef596b" in_zeros="350520" out_zeros="1198177" trimmed_crc="6e935501" quality="8"/>
+			<source type="AUDIO" frames="14562" omitted_pregap="149" duration="03:14:12" size="34249824" crc="5a6f9fbb" md5="8f63cd3b88c34469da345898d04e12f4" sha1="16922a8c2364fcae3fa02e640d5e6c8af56f486e" in_zeros="72" out_zeros="1198177" quality="8"/>
 		</rom>
 		<rom name="CD/Earthworm Jim (USA) (Track 11).ogg" size="7255236" crc="6d873c6f" md5="0ce91c0fb6aad7fdd1835308ff638fbb" sha1="9a2bc9cec63b0d20ca504fedd4b02991e0442f79">
-			<source frames="15970" pregap="149" duration="03:32:70" size="37561440" crc="f82c8bf3" md5="5da407cdd281bf416362549fef2230bb" sha1="c7618009a5d55105b09d038347b3c82eccdaf44c" in_zeros="350520" out_zeros="1420361" trimmed_crc="fd50b622" quality="8"/>
+			<source type="AUDIO" frames="15821" omitted_pregap="149" duration="03:30:71" size="37210992" crc="bfaa6f1e" md5="892006d7993ea6c964269bd5c5e764b9" sha1="6e6e1b56cc004cc261d486d81cca3dec94bc5880" in_zeros="72" out_zeros="1420361" quality="8"/>
 		</rom>
 		<rom name="CD/Earthworm Jim (USA) (Track 12).ogg" size="12284818" crc="5027facd" md5="d7a9927c0f9478ee5de76ab44b8569b8" sha1="e7d0ff37ac426a8a9f2309132c0b578d23ee4f99">
-			<source frames="25382" pregap="149" duration="05:38:32" size="59698464" crc="d0b225bd" md5="a5d9d5fd72d30367fb564374d0799b1d" sha1="4d13ab145c2b7181caff86d391917654780e2d9d" in_zeros="350520" out_zeros="1381948" trimmed_crc="b4da5982" quality="8"/>
+			<source type="AUDIO" frames="25233" omitted_pregap="149" duration="05:36:33" size="59348016" crc="e47e4f0b" md5="c3c347d71f26526674c72c8637f2e445" sha1="c36c4d591f4d1877979384ca91fb1174d9bd1cfe" in_zeros="72" out_zeros="1381948" quality="8"/>
 		</rom>
 		<rom name="CD/Earthworm Jim (USA) (Track 13).ogg" size="292786" crc="39d6f8fc" md5="a8391e3d7aaddec30da7706c10b74b27" sha1="859a111b8f02d2e5c2c11daadcfa039140edd959">
-			<source frames="1235" pregap="149" duration="00:16:35" size="2904720" crc="6175f8f0" md5="75a808ecbe459a04624334b03c8c5ad0" sha1="5a208421d43d1081aa2f79cc7544cbd6501cfec8" in_zeros="350520" out_zeros="934872" trimmed_crc="ae6e538e" quality="8"/>
+			<source type="AUDIO" frames="1086" omitted_pregap="149" duration="00:14:36" size="2554272" crc="5a87bcd6" md5="f877079678aacdae1752dea96cf474d8" sha1="ff60b87f4b18b0439d0641628c1467dace77941e" in_zeros="72" out_zeros="934872" quality="8"/>
 		</rom>
 		<rom name="CD/Earthworm Jim (USA) (Track 14).ogg" size="14311197" crc="411d3f08" md5="cefd936c76f91ea351cc727ebc2884ae" sha1="3baab888f1528fb469974847c0aaa12548cbedb3">
-			<source frames="32858" pregap="149" duration="07:18:08" size="77282016" crc="8e0fdf1b" md5="4e1ae2a7757d1946e1c5dc0e3491dba7" sha1="94a2456a939d2ba9696fa40335422da83247c2d3" in_zeros="350520" out_zeros="738157" trimmed_crc="d349966b" quality="8"/>
+			<source type="AUDIO" frames="32709" omitted_pregap="149" duration="07:16:09" size="76931568" crc="1aea70ab" md5="890b619cf7548cd4cacc7307ffc5e4e9" sha1="413184de690e95cd87462b8725a3ee3148dc6c09" in_zeros="72" out_zeros="738157" quality="8"/>
 		</rom>
 		<rom name="CD/Earthworm Jim (USA) (Track 15).ogg" size="136317" crc="d5f164fa" md5="f6c3dc88bdbd2b3f56baf316b081945a" sha1="fd326c45c33560d0d767b1881711b7de62a22bbc">
-			<source frames="725" pregap="149" duration="00:09:50" size="1705200" crc="3055250e" md5="23e59e69064f1bd98f50d7868b6ba346" sha1="37fd475a7f911319752baa6f96cfebc2b546a71d" in_zeros="350544" out_zeros="484009" trimmed_crc="6c572807" quality="8"/>
+			<source type="AUDIO" frames="576" omitted_pregap="149" duration="00:07:51" size="1354752" crc="785c2dce" md5="5b530c8e950051250c6c2c238cbc7f90" sha1="a1d16588c9b01e29b4daf971132bc127e56f0c60" in_zeros="96" out_zeros="484009" quality="8"/>
 		</rom>
 		<rom name="CD/Earthworm Jim (USA) (Track 16).ogg" size="2688532" crc="bb026c27" md5="500fa7e8b978d3062d82ecfb7d5e7fed" sha1="ccf6fc4cc79dc9f5d2a5244fbba22937ae8f1bdd">
-			<source frames="6178" pregap="149" duration="01:22:28" size="14530656" crc="415d73c0" md5="c4963fa4b9cb8a34caf946982bc4258d" sha1="2af08ed5294b8c6b386af2aa4a5f76602424f295" in_zeros="350544" out_zeros="1087487" trimmed_crc="c631b982" quality="8"/>
+			<source type="AUDIO" frames="6029" omitted_pregap="149" duration="01:20:29" size="14180208" crc="06b8e0df" md5="b7e4e95578176e078e76a307a25d7dce" sha1="93d41becdeb479fad75bd39f957a21ed018705a5" in_zeros="96" out_zeros="1087487" quality="8"/>
 		</rom>
 		<rom name="CD/Earthworm Jim (USA) (Track 17).ogg" size="6573412" crc="cce962eb" md5="da5dbc8bc5ebc56e20ee0e499f6ba44d" sha1="fb2846fa4d076c27ed337fa26c9d8fa432f784cd">
-			<source frames="13785" pregap="149" duration="03:03:60" size="32422320" crc="1fb02e59" md5="2d422b501f6b3a8e1e4369f447143790" sha1="dca4f294093ad5b4420bb83177677ad92b820891" in_zeros="350568" out_zeros="29841" trimmed_crc="f7f9b384" quality="8"/>
+			<source type="AUDIO" frames="13636" omitted_pregap="149" duration="03:01:61" size="32071872" crc="7deb80e2" md5="561f6cafeba9a20241156a98f71defae" sha1="ca01390e221159759d3f89d9f6c73bcf9a8cdf2b" in_zeros="120" out_zeros="29841" quality="8"/>
 		</rom>
 		<rom name="CD/Earthworm Jim (USA).cue" size="1831" crc="9769996b" md5="b54bb67fff24dbd1172df344b8513377" sha1="3f3c95146a6ee10185c96522e503385cc71800f3"/>
 		<rom name="EWJ1.DAT" size="8520733" crc="8381dae7" md5="f754d8e3871e5d43532fe5d89882a585" sha1="537b0f50539c3aa73a4458974c159d1d69e2c395"/>
