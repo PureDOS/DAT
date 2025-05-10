@@ -5222,41 +5222,6 @@
 		<rom name="SP.SND" size="51" crc="a6dca9fd" md5="8c7236faae9a625478ce3363a2bdce95" sha1="fa033bddd220ef974663d86b7c6595d17bb1df64" date="1990-09-20 21:06:52"/>
 		<rom name="SQUISH.SND" size="90" crc="808e1747" md5="098225ac654221bfbff5595f7a3b23f9" sha1="7c076c91250fa72d1a8b7389f0c14db5b8280155" date="1990-09-20 21:06:54"/>
 	</game>
-	<game name="Circuit's Edge (1990) (Infocom).dosz">
-		<description>Circuit's Edge</description>
-		<year>1990</year>
-		<developer>Infocom</developer>
-		<comment>Installed from 3 5.25" floppy disks matching The Good Old Days ID: 2685</comment>
-		<comment_dosc>
-			CPU year set to 1983
-			Auto start
-			MT-32 sound option
-		</comment_dosc>
-		<link type="media">https://www.goodolddays.net/en/diskimages/?id=2685</link>
-		<rom name="ACTIONS.DAT" size="1693" crc="a87a88ef" md5="dfdf3280c28420ce63bfc869bb5f096c" sha1="40e1bdc333f78876f5740bf4158d18d70f59c331" date="1990-03-23 11:44:38"/>
-		<rom name="ALLANM.ANM" size="186456" crc="f4a8c804" md5="de06c4a41feae894573745dbdc92701e" sha1="fcd38f9f46a0a7c6e8c4f8677bf93baefdf02378" date="1990-02-08 05:59:20"/>
-		<rom name="ALLMAPS.MAP" size="3312" crc="7c59a940" md5="a79e50b8bdf2a6b4b7d5f957a3dbcb48" sha1="21a2f6e6e9f23af590944a64eed1a3c7d71f34f2" date="1989-10-17 22:37:26"/>
-		<rom name="CGAREMAP.DAT" size="2016" crc="2ea48461" md5="e968c95801816c41927c43b0258919e5" sha1="436d8e2e27f140c80fddc5b08587869142cfa8eb" date="1990-03-23 11:45:12"/>
-		<rom name="COMBAT4.MUS" size="6813" crc="2513f5e2" md5="48fee8fc599ed48bd291489bdb08fdf0" sha1="3c71555e96f7054e7b455baf9ae64231cedf0d11" date="1980-01-01 01:07:12"/>
-		<rom name="CYBER.FNT" size="1024" crc="04b8edf5" md5="7450e8b9cafab11156091f4d3a7a55f7" sha1="a128dc6c04f92616dbf43c74a34b4a98d74c237d" date="1989-11-28 18:30:12"/>
-		<rom name="DISK1CMP.CMP" size="127162" crc="573b6ec2" md5="a093b1ef6011f9b7a66d994504f799ca" sha1="f75bfefe0a6808151cb0b0f1e32eb1df0caeb137" date="1990-03-23 11:45:48"/>
-		<rom name="DISK2CMP.CMP" size="9367" crc="df4942b4" md5="ab7e5843d5bd349b7c2819008cfd0beb" sha1="5e7291516440021f64e39c77c3b26440ae850d13" date="1990-03-23 11:45:48"/>
-		<rom name="DISK3CMP.CMP" size="357424" crc="454a8fb1" md5="3f2be1ba7300f0d648a97c2e59f437a5" sha1="04ce10695004a6865b4a909edebf2897fa76ac47" date="1990-03-23 11:46:00"/>
-		<rom name="DISKTEXT.TXT" size="122645" crc="f3e8d57a" md5="c91767d3bfcdeef017946db60ac48d28" sha1="e89a25995516cfc966ed636debf6335167c2823d" date="1990-03-23 11:44:12"/>
-		<rom name="EDGE.EXE" size="176851" crc="65cc9a7e" md5="a6c4eab9c9f158c6e2f5318b289eb6b9" sha1="62627a6481a27fa567f63189d17dcdb14d2d0ee4" date="1990-03-23 12:03:42"/>
-		<rom name="GAMEORIG.DAT" size="8146" crc="baa0593e" md5="09e6d76453600919fa2bddd117bd4bea" sha1="7db3046b3117f59116e7fb8e6d65a97603034584" date="1990-03-23 12:07:22"/>
-		<rom name="GAMESAVE.DAT" size="8146" crc="7cc34b4c" md5="5f58245fa9d54f4a44e8776697b04185" sha1="92efe76c9d37903604ec65547927ce58a11ba53a" date="1990-03-23 12:07:24"/>
-		<rom name="GRAVMAP.DAT" size="960" crc="c958a024" md5="5097f1b7da1d3a6ef87cade22c1b875a" sha1="a3b64fd25c5ae25854bd904ce8f3cfb5a2f239d6" date="1990-01-02 16:21:20"/>
-		<rom name="NIGHT1.MUS" size="17840" crc="8a7fc8b1" md5="ea34016dfb0be68201206fc1d6374527" sha1="fa753c0d74fe9c0d9c083a022c740e57a0513198" date="1980-01-01 02:19:38"/>
-		<rom name="NPCDATA.DAT" size="7195" crc="a37a1508" md5="5b2fb10cf05e2f7dbd59c7a327459bdd" sha1="f6a4b69af6f239a233c974da9ae50120a8e18b67" date="1990-03-23 11:44:24"/>
-		<rom name="PLOTDATA.DAT" size="5212" crc="63990f80" md5="64e21a96ccfc5206e1509a753206a52d" sha1="3270f5285e8324ffc666d6d32fabc7781ae5b0f7" date="1990-03-23 11:44:38"/>
-		<rom name="RESPONSE.DAT" size="2018" crc="08dabfc2" md5="dc704aef0aa9394a2c36edab4ef63087" sha1="440687795a70c6f843f73fc974fbedb9e57965aa" date="1990-03-23 11:44:52"/>
-		<rom name="SNDDATA.DAT" size="1286" crc="3ab6ed8f" md5="7d3a9f6f87bf53d6fa692143ae63f1a4" sha1="a74d6b3ea52ce6c0b001f2fc1913df8ec459dfb5" date="1990-03-23 11:45:04"/>
-		<rom name="TITLE.MUS" size="8568" crc="f4ec2929" md5="1ece14c0b6599836592eddc3ca929668" sha1="e64bad0bb753df123c13583136b3356e619873c6" date="1980-01-01 01:10:34"/>
-		<rom name="TRASH.DAT" size="600" crc="46d952a0" md5="d171a00e43d1b7e2aef4404ffb4b83a8" sha1="1a8bb94bdff286f7ca0db221758817a77386fb95" date="1990-01-02 16:21:20"/>
-		<rom name="WANDER.MUS" size="2342" crc="092173e9" md5="87dadf07737f50d8c3648ba3c4af6729" sha1="795c0a92ebf7223ccd03a03657d150367af351c7" date="1980-01-01 01:24:18"/>
-		<rom name="WIN.MUS" size="5150" crc="796f6bd5" md5="5fa6cb80edc983aa6f5e0140f757b828" sha1="cde76942b776d4ea4074ec910517a27a235a63b7" date="1980-01-01 01:10:22"/>
-	</game>
 	<game name="Command &amp; Conquer (1995) (Westwood Studios).dosz">
 		<description>Command &amp; Conquer</description>
 		<comment>Installed Command &amp; Conquer v1.22 from the White Label CD rerelease</comment>
