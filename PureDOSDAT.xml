@@ -8748,19 +8748,33 @@
 			CD image converted with CHDtoOGG
 			DIG.INI (audio config) is in the DOSZ because it can't be changed again without reinstalling the game
 			IRL.DAT contains the paths
+			These files are provided in the DOSC, or DoDAT can generate them using the embedded data
+			However, DoDAT cannot build this directly from the disk image (TEAMDB.TXT is too long for embedded data)
 		</comment>
 		<comment_dosc>Required config files and auto start</comment_dosc>
 		<link type="media">http://redump.org/disc/72364/</link>
-		<rom name="International Rugby League (Europe) (Track 1).bin" size="258179040" crc="9df276dd" md5="adc892bf9676e0ae85a8f57da4050af9" sha1="6052cad1e6ba5c0e3fbb86d6bdae8f0d95ffad8f"/>
-		<rom name="International Rugby League (Europe) (Track 2).ogg" size="12299088" crc="6954fc35" md5="c93b3597a56cca04efffd4ba93ab81c9" sha1="75206e61656e1e112a81d41965664341fc966f87"/>
-		<rom name="International Rugby League (Europe) (Track 3).ogg" size="11307071" crc="006faef8" md5="c4ec696ea58a6b36f169565d103b7dc4" sha1="6a18ae6e169c672bab15144d5b83cbce3c24acb2"/>
-		<rom name="International Rugby League (Europe) (Track 4).ogg" size="12456890" crc="b2c9cea6" md5="739a9c89d44addb5f39bf020f51ba94d" sha1="fe40dd7e20958fcf5b25d8a9b66fb5618bba0e09"/>
-		<rom name="International Rugby League (Europe) (Track 5).ogg" size="12688951" crc="413734b5" md5="d2b61f002861836e80f914e16b8ad8a4" sha1="716c6341ca9d69b495c2019947b8217e4fe467db"/>
-		<rom name="International Rugby League (Europe) (Track 6).ogg" size="13659703" crc="689e35ff" md5="6c32062746c5a2faf9a4cb46678650d0" sha1="f5c4205bb8495b7f427a7245b6d5bd6fd07553f6"/>
-		<rom name="International Rugby League (Europe).cue" size="647" crc="941a0f23" md5="83b674fe7943b5b91d5e6321108f176e" sha1="c058db2c253cc80438344689fdfdcbfdb491dff5"/>
+		<rom name="CD/International Rugby League (Europe) (Track 1).bin" size="258179040" crc="9df276dd" md5="adc892bf9676e0ae85a8f57da4050af9" sha1="6052cad1e6ba5c0e3fbb86d6bdae8f0d95ffad8f">
+			<source type="MODE1_RAW" frames="109770" duration="24:23:45"/>
+		</rom>
+		<rom name="CD/International Rugby League (Europe) (Track 2).ogg" size="12299088" crc="6954fc35" md5="c93b3597a56cca04efffd4ba93ab81c9" sha1="75206e61656e1e112a81d41965664341fc966f87">
+			<source type="AUDIO" frames="31876" omitted_pregap="150" duration="07:05:01" size="74972352" crc="2e118a01" md5="a4315996a95a8af5633df29b2a8bef9a" sha1="f414aca0623e966ee21aeb4ce838834a4883e081" in_zeros="355540" out_zeros="1076205" quality="8"/>
+		</rom>
+		<rom name="CD/International Rugby League (Europe) (Track 3).ogg" size="11307071" crc="006faef8" md5="c4ec696ea58a6b36f169565d103b7dc4" sha1="6a18ae6e169c672bab15144d5b83cbce3c24acb2">
+			<source type="AUDIO" frames="27404" duration="06:05:29" size="64454208" crc="334fbef5" md5="59145eb33eac0569bb6b9b26701446f5" sha1="d02e9d4fc069a5213afbd4754b34f1984ea78a05" in_zeros="353514" out_zeros="1077593" quality="8"/>
+		</rom>
+		<rom name="CD/International Rugby League (Europe) (Track 4).ogg" size="12456890" crc="b2c9cea6" md5="739a9c89d44addb5f39bf020f51ba94d" sha1="fe40dd7e20958fcf5b25d8a9b66fb5618bba0e09">
+			<source type="AUDIO" frames="31910" duration="07:05:35" size="75052320" crc="5daf6b01" md5="f576dcad3598541229e96f45bb36ca47" sha1="6496917fceb8c2d990da9c6f710836e45ba890f5" in_zeros="356684" out_zeros="1077204" quality="8"/>
+		</rom>
+		<rom name="CD/International Rugby League (Europe) (Track 5).ogg" size="12688951" crc="413734b5" md5="d2b61f002861836e80f914e16b8ad8a4" sha1="716c6341ca9d69b495c2019947b8217e4fe467db">
+			<source type="AUDIO" frames="32697" duration="07:15:72" size="76903344" crc="0df2a434" md5="7f65331de662727f114497c566bc3b66" sha1="476f54623dc56c4aeb0c58892b983b2e48679d48" in_zeros="354688" out_zeros="1076352" quality="8"/>
+		</rom>
+		<rom name="CD/International Rugby League (Europe) (Track 6).ogg" size="13659703" crc="689e35ff" md5="6c32062746c5a2faf9a4cb46678650d0" sha1="f5c4205bb8495b7f427a7245b6d5bd6fd07553f6">
+			<source type="AUDIO" frames="33620" duration="07:28:20" size="79074240" crc="bd03c09c" md5="a6f85417f84cf6d4747c5dbb531b0796" sha1="c2b6911d21798da8f17df39766601de7a4e4b841" in_zeros="354268" out_zeros="357072" quality="8"/>
+		</rom>
+		<rom name="CD/International Rugby League (Europe).cue" size="647" crc="941a0f23" md5="83b674fe7943b5b91d5e6321108f176e" sha1="c058db2c253cc80438344689fdfdcbfdb491dff5"/>
 		<rom name="IRL/ADRV688.DIG" size="11278" crc="96dfb75d" md5="feabc78729e3a458ae2f6ab40146f0d9" sha1="255ecb5d649895d65bca49bd6afcbdf875e34bf2"/>
 		<rom name="IRL/DATA/TEAMDB.TXT" size="8944" crc="75cd6ef0" md5="ac56fda66f6fb2dc41fabd7ebea5417e" sha1="d7e83882af588fc4055655f57841c0c9c15a5d74"/>
-		<rom name="IRL/DIG.INI" size="206" crc="fbbd45ac" md5="9b62de388b4acebbb53b9bcfdcb347af" sha1="931b07e30d0835e772227d51c16d08da0af8df7f"/>
+		<rom name="IRL/DIG.INI" size="206" crc="fbbd45ac" md5="9b62de388b4acebbb53b9bcfdcb347af" sha1="931b07e30d0835e772227d51c16d08da0af8df7f" data="Ow0KO01pbGVzIERlc2lnbiBBdWRpbyBJbnRlcmZhY2UgTGlicmFyeSBWMy4wNCBvZiA2LU1hci05Ng0KOw0KDQpERVZJQ0UgICAgICBDcmVhdGl2ZSBMYWJzIFNvdW5kIEJsYXN0ZXIgMTYgb3IgQVdFMzINCkRSSVZFUiAgICAgIFNCMTYuRElHDQpJT19BRERSICAgICAyMjBoDQpJUlEgICAgICAgICAtMQ0KRE1BXzhfQklUICAgLTENCkRNQV8xNl9CSVQgIC0xDQo="/>
 		<rom name="IRL/DOS4GW.EXE" size="265396" crc="5cc34b0f" md5="006211ca60fa3d4b38a9a8da2ade1056" sha1="c489f83dc15a9ffc3c502707da40e581ec79bfe6"/>
 		<rom name="IRL/DOSIRL.EXE" size="1577240" crc="7380e28c" md5="620a9699345c768093173f171291c01b" sha1="c652aa9c2b07b945863a1e046838b81383a7447f"/>
 		<rom name="IRL/DSETUP.DLL" size="20992" crc="7001694e" md5="f99d436727dab3f5437d32b69d6d227d" sha1="d6f8c0f152df75b3d7a5929bf61748dd0af55464"/>
@@ -8855,7 +8869,7 @@
 		<rom name="IRL/GFX/V_REPLAY.LBM" size="240136" crc="e5d6cb9c" md5="7b2e1bb2cadfd94130814e2f42480c6b" sha1="e4fe7bf50fc6bf30a540e405f7399fa8584ffb95"/>
 		<rom name="IRL/HINTS.TXT" size="6050" crc="ea2631c0" md5="988a2516baa8a1336016888395b84ecb" sha1="3dc3f0b21139bac38028b8e9924b1e34e9c9f896"/>
 		<rom name="IRL/INSTDB.DAT" size="29388" crc="73c21297" md5="e9086d732741aea51648d3c8283776f3" sha1="f05183b96143de69d2d55a88f00f4325edb81718"/>
-		<rom name="IRL/IRL.DAT" size="948" crc="ad2583fe" md5="58960f7c8cc83a5e45fede5d4a5143b6" sha1="3ab367a2782b433e30c97d481c916957936a7b8f"/>
+		<rom name="IRL/IRL.DAT" size="948" crc="ad2583fe" md5="58960f7c8cc83a5e45fede5d4a5143b6" sha1="3ab367a2782b433e30c97d481c916957936a7b8f" data="AQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAB/AAAAcgAAAGoAAAD/AAAA/wAAAAAAAABDOlxJUkxcZGF0YQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMABAXEAAABEOlxJUkwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQzpcSVJMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFsAAABcAAAAWQAAAFoAAAACAAAAAwAAAAQAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAQAAAAEAAAACAAAAAgAAAAIAAAACAAAABAAAAAQAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAoAAAA"/>
 		<rom name="IRL/JAMMER.DIG" size="3219" crc="230129e0" md5="4922c729c5e7b347089a2be44f296859" sha1="103e0bf92c6fd1c9fc925fd57bdc22e56170b395"/>
 		<rom name="IRL/PROAUDIO.DIG" size="2127" crc="4b071066" md5="a054071be574b2bcf47a0386f1a98ae6" sha1="8debfb262849ebce1da3d45387d1595712c2667b"/>
 		<rom name="IRL/RAP10.DIG" size="2849" crc="47373ef0" md5="bb846bb23ee9065a09373afdb73cf054" sha1="6081bc6e447afeaad48a8361c92e7ce280f6ea7e"/>
