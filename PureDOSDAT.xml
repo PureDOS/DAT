@@ -15152,10 +15152,12 @@
 				C:\WOLF\
 				C:\
 				0
+			WOLF.PRF is provided in the DOSC, or DoDAT can generate it using the embedded data
+			However, DoDAT cannot build this directly from the disc image (SWAP.DAT has to be installed)
 		</comment>
 		<comment_dosc>Required WOLF.PRF file, Sound Blaster config, and auto start</comment_dosc>
 		<link type="media">http://redump.org/disc/67606/</link>
-		<rom name="WOLF.PRF" size="16" crc="a8d8b13a" md5="1d56702ace85d2890447a4a92113aee0" sha1="4020c2e4c1c39c083d32991fbc7f52c08e82a514"/>
+		<rom name="WOLF.PRF" size="16" crc="a8d8b13a" md5="1d56702ace85d2890447a4a92113aee0" sha1="4020c2e4c1c39c083d32991fbc7f52c08e82a514" data="QzpcV09MRlwNCkM6XA0KMA=="/>
 		<rom name="WOLF/1.NWA" size="2" crc="41d912ff" md5="c4103f122d27677c9db144cae1394a66" sha1="1489f923c4dca729178b3e3233458550d8dddf29" date="1994-08-30 19:07:02"/>
 		<rom name="WOLF/1.NWF" size="2" crc="41d912ff" md5="c4103f122d27677c9db144cae1394a66" sha1="1489f923c4dca729178b3e3233458550d8dddf29" date="1994-08-30 19:07:02"/>
 		<rom name="WOLF/1.NWP" size="2" crc="41d912ff" md5="c4103f122d27677c9db144cae1394a66" sha1="1489f923c4dca729178b3e3233458550d8dddf29" date="1994-08-30 19:07:02"/>
