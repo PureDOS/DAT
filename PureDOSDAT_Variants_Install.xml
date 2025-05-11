@@ -220,6 +220,16 @@
 		<link type="media">https://www.goodolddays.net/diskimages/id%2C2669/</link>
 		<rom name="disk1.img" size="368640" crc="e43dc367" md5="e92abe7303ad97e390bb099ba1a05e0c" sha1="6d33429e698ec5a56c3dfdb7fc4a1e7bd145794e"/>
 	</game>
+	<game name="Crystal Caves (1991) (Apogee Software) (Installation).dosz">
+		<description>Crystal Caves</description>
+		<comment>v1.0</comment>
+		<year>1991</year>
+		<developer>Apogee Software</developer>
+		<variant>Installation</variant>
+		<rom name="Crystal Caves (USA).chd" size="1938816" crc="72d18719" md5="5d3ac50d1349ff7f2260ad1837a3749b" sha1="96da6a96505a7dd1960767e7b74df6313c4e8f85">
+			<track number="1" type="MODE1_RAW" frames="783" pregap="0" duration="00:10:33" size="1841616" crc="896bd427" md5="eddd0a3dc016229d55973697c35aefc5" sha1="b834598fd9e7b33bb5c8dcb27f871ec6c6e626cc" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
 	<game name="Cyberbykes - Shadow Racer VR (1995) (Gametek) (Installation).dosz">
 		<description>Cyberbykes - Shadow Racer VR</description>
 		<year>1995</year>
@@ -262,6 +272,16 @@
 			<track number="6" type="AUDIO" frames="17381" pregap="0" duration="03:51:56" size="40880112" crc="cfc06c72" md5="2610d680fa53874799382113dd2ab4bf" sha1="4f3154f9cfd2e3a0ae0769aa44821e519dd45aa3" in_zeros="8220" out_zeros="362975"/>
 			<track number="7" type="AUDIO" frames="19454" pregap="0" duration="04:19:29" size="45755808" crc="0e50d09a" md5="2899e391dcb2dc642f80b254e89aac9d" sha1="9a45bc9179e9b08b65a0b3bdfb1379d996df14b7" in_zeros="9796" out_zeros="386955"/>
 			<track number="8" type="AUDIO" frames="14901" pregap="0" duration="03:18:51" size="35047152" crc="975af50c" md5="fe83c4562b96d7a504dc80494e6d0b61" sha1="b05ae5cd5fc87bfc28859637571395a19135bdfc" in_zeros="9638" out_zeros="719287"/>
+		</rom>
+	</game>
+	<game name="Detroit (1994) (Impressions Games) (Installation).dosz">
+		<description>Detroit</description>
+		<year>1994</year>
+		<developer>Impressions Games</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/33565/</link>
+		<rom name="Detroit (USA).chd" size="4190976" crc="9db061a0" md5="9d19377f0f8d7cf06fdd5ce07c5312bb" sha1="9604947e8a938c4665915fd283369ee58168a588">
+			<track number="1" type="MODE1_RAW" frames="1698" pregap="0" duration="00:22:48" size="3993696" crc="6c106ed8" md5="a5f7199af47aa1aff59eb54670351079" sha1="7065d2526c03cc08f4721d4ff1ac5d9226f24557" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
 	<game name="Doom II (1994) (id Software) (Installation).dosz">
@@ -545,9 +565,11 @@
 	</game>
 	<game name="Monkey Island 2 - LeChuck's Revenge (1991) (Lucasfilm Games) (Installation).dosz">
 		<description>Monkey Island 2 - LeChuck's Revenge</description>
+		<comment>3.5" floppy disks</comment>
 		<year>1991</year>
 		<developer>Lucasfilm Games</developer>
 		<variant>Installation</variant>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C1277/</link>
 		<rom name="disk1.img" size="1474560" crc="590637cc" md5="9a18c6b15400ee4faeeb7a1b6ba7178d" sha1="9f6c1dff38aabdf81301d4f552ad8902832f971a"/>
 		<rom name="disk2.img" size="1474560" crc="164b0750" md5="b3a57a5169e0267119701a7dda8102a7" sha1="cb3740196c2d55405120114c7f172cf2033bf33a"/>
 		<rom name="disk3.img" size="1474560" crc="53311b2e" md5="15ea86677b028049e0cc159ceba31280" sha1="57a7d1fc2bebdcfc29ca15c8301a3eb1b24f25a4"/>
@@ -556,9 +578,11 @@
 	</game>
 	<game name="Monkey Island 2 - LeChuck's Revenge (1992) (Lucasfilm Games) (Installation, Germany).dosz">
 		<description>Monkey Island 2 - LeChuck's Revenge</description>
+		<comment>3.5" floppy disks</comment>
 		<year>1992</year>
 		<developer>Lucasfilm Games</developer>
 		<variant>Installation, Germany</variant>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C1089/</link>
 		<rom name="disk1.img" size="1474560" crc="972fe32e" md5="b4f3db3a32b0bbb59a438adc6d42303d" sha1="8bcc616fa1c7c10f5907aaed1cd5bd616fdc9023"/>
 		<rom name="disk2.img" size="1474560" crc="9892105d" md5="8953e312504596205ddbb856f9f47ee6" sha1="3c144ffabc731cd23739bc36b427e09381658b71"/>
 		<rom name="disk3.img" size="1474560" crc="c13e3621" md5="6f6b610af5d2186856b5e802bc5feacf" sha1="6f508241b87f3593573dfe07fb28e945c6be1a55"/>
@@ -591,6 +615,15 @@
 			<track number="9" type="AUDIO" frames="3014" pregap="150" duration="00:40:14" size="7088928" crc="c08d60e9" md5="7fd9e8aed2e9c37bc071e81cef56b32f" sha1="85054ccfedae4e695e6e14bee888c4846182168d" in_zeros="0" out_zeros="0"/>
 			<track number="10" type="AUDIO" frames="734" pregap="150" duration="00:09:59" size="1726368" crc="300e8553" md5="77894b232602d3cdd65573a8144ea0b9" sha1="fa08cdc1e90e92098a686812a4db9a6cec35e7c5" in_zeros="0" out_zeros="527643"/>
 		</rom>
+	</game>
+	<game name="Prince of Persia (1990) (Broderbund Software) (Installation).dosz">
+		<description>Prince of Persia</description>
+		<comment>v1.3, 3.5" floppy disk</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=732</link>
+		<year>1990</year>
+		<developer>Broderbund Software</developer>
+		<variant>Installation</variant>
+		<rom name="disk1.img" size="737280" crc="62336557" md5="ee08b1ef95e55b8cec271ae6483af99c" sha1="adb0b10899baa7cb0e53b612e12e6ae7ac929400"/>
 	</game>
 	<game name="Prisoner of Ice (1995) (Infogrames) (Installation).chd">
 		<description>Prisoner of Ice</description>
@@ -683,15 +716,6 @@
 		<rom name="video/vover1.mux" size="460191" crc="a0e06831" md5="63d7675752322996b65c2a0fa2e6db9c" sha1="6101bffe82a4c2f7264306d83d11db1e53ca55ad" date="2017-12-13 15:42:10"/>
 		<rom name="video/vover2.mux" size="460129" crc="6bf57923" md5="2980d9d6b7d2d811af56edfc28ab41f1" sha1="06faa04efd51799c4dcbe10aa19afca0cd00ff6e" date="2017-12-13 15:42:10"/>
 		<rom name="video/vtitre.mux" size="6902134" crc="f8c58f3b" md5="72bb23943219cea33ff5feab3a66da6e" sha1="f9e5ed805ddf62cc01bd92ae8d7afb214a8fa53f" date="2017-12-13 15:42:10"/>
-	</game>
-	<game name="Ultimate Doom, The (1995) (id Software) (Installation).dosz">
-		<description>Ultimate Doom, The</description>
-		<year>1995</year>
-		<developer>id Software</developer>
-		<variant>Installation</variant>
-		<rom name="Ultimate Doom, The (USA).chd" size="28005120" crc="552628d8" md5="9800ed15c1acba4bc379bd3cf1bcb89d" sha1="e6c7c8e1f23cb76ef432349c4261fe5abfc406ef">
-			<track number="1" type="MODE1_RAW" frames="11431" pregap="0" duration="02:32:31" size="26885712" crc="a9898633" md5="f0e687b879e13e9b230b47ba28288468" sha1="5de4c416ed6b25324120ad0ba4f7a26bc51a4190" in_zeros="1" out_zeros="0"/>
-		</rom>
 	</game>
 	<game name="Realms of Chaos (1995) (Apogee Software) (Installation).dosz">
 		<description>Realms of Chaos</description>
@@ -931,15 +955,6 @@
 			<track number="1" type="MODE1_RAW" frames="15285" pregap="0" duration="03:23:60" size="35950320" crc="4ba73ae3" md5="d57f82e6c85263d42da91d598f687978" sha1="0d8379ca6a7d467c9a501939ea96f077c5299b6b" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
-	<game name="Star Wars - TIE Fighter - Defender of the Empire (1994) (LucasArts) (Installation, Floppy Version).dosz">
-		<description>Star Wars - TIE Fighter - Defender of the Empire</description>
-		<year>1994</year>
-		<developer>LucasArts</developer>
-		<variant>Installation, Floppy Version</variant>
-		<link type="media">https://www.goodolddays.net/diskimages/id%2C2766/</link>
-		<rom name="disk1.img" size="1474560" crc="ec37842d" md5="606490a0cb678c7e913cf88746707c18" sha1="a43bfd5bc83f56d60bf797dea32e2e89da40a6fd"/>
-		<rom name="disk2.img" size="737280" crc="1e9ba4cc" md5="47baef2698ac52ee7af7ebee770afb72" sha1="85c22230a3204a193a2e6622daff555d0e134f34"/>
-	</game>
 	<game name="Star Wars - TIE Fighter (1994) (LucasArts) (Installation, Floppy Version).dosz">
 		<description>Star Wars - TIE Fighter</description>
 		<year>1994</year>
@@ -951,6 +966,27 @@
 		<rom name="disk3.img" size="1474560" crc="24393300" md5="79b4732c0c0148550f37a703d1aa0270" sha1="2f50bee02ad59046ca41f443060a7346e8a9b104"/>
 		<rom name="disk4.img" size="1474560" crc="8dbdd43b" md5="2a4b83d91bba06ddcb299ae8ab132e61" sha1="f7e57b284a140a16b60e4688250fb6be2ca477c5"/>
 		<rom name="disk5.img" size="1474560" crc="32954739" md5="879809e92d1686ce152a35c280c2945c" sha1="ad96ddf5ce90851a383daa2c33d5711ca2d629ec"/>
+	</game>
+	<game name="Star Wars - TIE Fighter - Defender of the Empire (1994) (LucasArts) (Installation, Floppy Version).dosz">
+		<description>Star Wars - TIE Fighter - Defender of the Empire</description>
+		<year>1994</year>
+		<developer>LucasArts</developer>
+		<variant>Installation, Floppy Version</variant>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C2766/</link>
+		<rom name="disk1.img" size="1474560" crc="ec37842d" md5="606490a0cb678c7e913cf88746707c18" sha1="a43bfd5bc83f56d60bf797dea32e2e89da40a6fd"/>
+		<rom name="disk2.img" size="737280" crc="1e9ba4cc" md5="47baef2698ac52ee7af7ebee770afb72" sha1="85c22230a3204a193a2e6622daff555d0e134f34"/>
+	</game>
+	<game name="Star Wars - X-Wing (1993) (LucasArts) (Installation, Floppy Version).dosz">
+		<description>Star Wars - X-Wing</description>
+		<year>1993</year>
+		<developer>LucasArts</developer>
+		<variant>Installation, Floppy Version</variant>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C110/</link>
+		<rom name="disk1.img" size="1474560" crc="74b332c7" md5="c5e0b11c1722ec5d37ff1fee5922adc0" sha1="84f7d9934516350d10ff395d2521332681f9f673"/>
+		<rom name="disk2.img" size="1474560" crc="dcea06c0" md5="2b292d681f603095fc1c55edc3e6e972" sha1="ee0ca56f0971840011ebb9dfc49d215cbda36cec"/>
+		<rom name="disk3.img" size="1474560" crc="6e07ebc1" md5="2d92d68a65796fe7060759629be24074" sha1="2282d5b478b28181cbfe88223301076fcfcfa3e6"/>
+		<rom name="disk4.img" size="1474560" crc="5aeca402" md5="c1d322881cebda1a68287d27e2c0e124" sha1="bd2269f36cebc89c59901a56ed3ec32695aae6ca"/>
+		<rom name="disk5.img" size="1474560" crc="bd2d8f46" md5="4af4de2a99b73c9323361dca7f367132" sha1="80e364378c191600ba05beff6ae73a4c90465de6"/>
 	</game>
 	<game name="Star Wars - X-Wing - B-Wing (1993) (LucasArts) (Installation, Floppy Version).dosz">
 		<description>Star Wars - X-Wing - B-Wing</description>
@@ -967,18 +1003,6 @@
 		<variant>Installation, Floppy Version</variant>
 		<link type="media">https://www.goodolddays.net/diskimages/id%2C1605/</link>
 		<rom name="disk1.img" size="1474560" crc="8ac9c001" md5="a050c891528e87305a7366341d9d8990" sha1="31a7ad14658f78e11b331831cc6c0c32fc2bce96"/>
-	</game>
-	<game name="Star Wars - X-Wing (1993) (LucasArts) (Installation, Floppy Version).dosz">
-		<description>Star Wars - X-Wing</description>
-		<year>1993</year>
-		<developer>LucasArts</developer>
-		<variant>Installation, Floppy Version</variant>
-		<link type="media">https://www.goodolddays.net/diskimages/id%2C110/</link>
-		<rom name="disk1.img" size="1474560" crc="74b332c7" md5="c5e0b11c1722ec5d37ff1fee5922adc0" sha1="84f7d9934516350d10ff395d2521332681f9f673"/>
-		<rom name="disk2.img" size="1474560" crc="dcea06c0" md5="2b292d681f603095fc1c55edc3e6e972" sha1="ee0ca56f0971840011ebb9dfc49d215cbda36cec"/>
-		<rom name="disk3.img" size="1474560" crc="6e07ebc1" md5="2d92d68a65796fe7060759629be24074" sha1="2282d5b478b28181cbfe88223301076fcfcfa3e6"/>
-		<rom name="disk4.img" size="1474560" crc="5aeca402" md5="c1d322881cebda1a68287d27e2c0e124" sha1="bd2269f36cebc89c59901a56ed3ec32695aae6ca"/>
-		<rom name="disk5.img" size="1474560" crc="bd2d8f46" md5="4af4de2a99b73c9323361dca7f367132" sha1="80e364378c191600ba05beff6ae73a4c90465de6"/>
 	</game>
 	<game name="Starflight (1986) (Binary Systems) (Installation).dosz">
 		<description>Starflight</description>
@@ -1016,6 +1040,16 @@
 			<track number="1" type="MODE1_RAW" frames="33713" pregap="0" duration="07:29:38" size="79292976" crc="acd9a3c4" md5="b18ae6264b6d9553748e913835106b78" sha1="1a13d9580317e928e0e52db609b4adf016033c29" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
+	<game name="Super C (1990) (Konami) (Installation).dosz">
+		<description>Super C</description>
+		<year>1990</year>
+		<developer>Konami</developer>
+		<variant>Installation</variant>
+		<comment>5.25" floppy disks matching with TGOD ID: 2362</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=2362</link>
+		<rom name="disk1.img" size="368640" crc="704de33b" md5="1b3eeb6703226c7a0820d21bb25a7238" sha1="1a3d942382efb6a7bd03a9dffd13f69b2fa87d77"/>
+		<rom name="disk2.img" size="368640" crc="c52c1b46" md5="3c5dbc8310efca711cd9b4d5e4693cb9" sha1="3e3f341b074e291c6847670409617b23764b3554"/>
+	</game>
 	<game name="Syndicate Plus (1993) (Bullfrog Productions) (Installation).dosz">
 		<description>Syndicate Plus</description>
 		<year>1993</year>
@@ -1033,6 +1067,15 @@
 		<variant>Installation</variant>
 		<rom name="Ultima Underworld I &amp; II (USA).chd" size="28631808" crc="b623c123" md5="ffbb8fee2a4534d292d288defed0e8bd" sha1="efa768d6a39c0d02935681cf5e90ba4b3103d4be">
 			<track number="1" type="MODE1_RAW" frames="11688" pregap="0" duration="02:35:63" size="27490176" crc="332bdcaf" md5="c6cbde8bf4fa30599502bd582a885207" sha1="daf7912c7185937cf56f642bce474ffd99e6b7b5" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
+	<game name="Ultimate Doom, The (1995) (id Software) (Installation).dosz">
+		<description>Ultimate Doom, The</description>
+		<year>1995</year>
+		<developer>id Software</developer>
+		<variant>Installation</variant>
+		<rom name="Ultimate Doom, The (USA).chd" size="28005120" crc="552628d8" md5="9800ed15c1acba4bc379bd3cf1bcb89d" sha1="e6c7c8e1f23cb76ef432349c4261fe5abfc406ef">
+			<track number="1" type="MODE1_RAW" frames="11431" pregap="0" duration="02:32:31" size="26885712" crc="a9898633" md5="f0e687b879e13e9b230b47ba28288468" sha1="5de4c416ed6b25324120ad0ba4f7a26bc51a4190" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
 	<game name="Warcraft - Orcs &amp; Humans (1994) (Blizzard Entertainment) (Installation).dosz">
