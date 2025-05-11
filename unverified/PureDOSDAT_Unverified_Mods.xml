@@ -156,4 +156,48 @@
 		<rom name="Vacatn01.voc" size="30572" crc="ed2c72da" md5="0f60e04792c3ba77a73bf47c4a6387f0" sha1="a4c8254afa4a82f8ed66691e86987aa271502e32" date="1997-04-01 21:08:34"/>
 		<rom name="Wave1a.voc" size="53300" crc="71979300" md5="1edf155172ae485240f20abd973837c0" sha1="15aecd741978f1cae913f4373eeef6133ed89e27" date="1997-04-01 21:07:42"/>
 	</game>
+	<game name="Quake - X-Men - The Ravages of Apocalypse (1997) (Zero Gravity Entertainment).dosz">
+		<description>Quake - X-Men - The Ravages of Apocalypse</description>
+		<year>1997</year>
+		<developer>Zero Gravity Entertainment</developer>
+		<parent>Quake (1996) (id Software).dosz</parent>
+		<comment>
+			Files copied from CD matching with Redump: X-Men - The Ravages of Apocalypse (USA)
+			Patch v1.11 added
+			Audio tracks converted with CHDtoOGG using -n option
+		</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="media">http://redump.org/disc/25854/</link>
+		<link type="patch">https://www.patches-scrolls.de/patch/4898/7/56738/download</link>
+		<rom name="Quake (1996) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1996-12-24 22:32:00"/>
+		<rom name="X-Men - The Ravages of Apocalypse (USA) (Track 1).bin" size="43008" crc="10d89042" md5="73db37b47ede9da7e9fbaae52c6c8a8b" sha1="8a2846aac1e2ceb8a08a9cd5591e9a85228d5cab"/>
+		<rom name="X-Men - The Ravages of Apocalypse (USA) (Track 2).ogg" size="7776369" crc="2c253bdc" md5="01cb6526c3c5aa657ae597c933dbe649" sha1="7dd32522ebe1779ac796a1bc4c2688837bdf9038">
+			<source type="AUDIO" frames="21675" omitted_pregap="151" duration="04:49:00" size="50979600" crc="767a9c86" md5="de61e42a084f1e341906bc4b49357859" sha1="997b0c59dcfe90f08780b53d0fab742f26cfc803" in_zeros="10296" out_zeros="8046" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="X-Men - The Ravages of Apocalypse (USA) (Track 3).ogg" size="10674119" crc="910baf9d" md5="8b0c0bbefeb52a0c204f3735286397c3" sha1="12880d78533332164692e273681a3964ff21f7a5">
+			<source type="AUDIO" frames="21599" omitted_pregap="149" duration="04:47:74" size="50800848" crc="3b5f6b8d" md5="c33a958a01688f79552b6d8892f9cd5c" sha1="8fc4990bdde98e03e7511a084e157c3a4af4dabf" in_zeros="8784" out_zeros="4307" quality="8"/>
+		</rom>
+		<rom name="X-Men - The Ravages of Apocalypse (USA) (Track 4).ogg" size="4731325" crc="3283df81" md5="c741e3176c0770d837cb523546d29316" sha1="ec501f718f905c969363671a75338398f89771ab">
+			<source type="AUDIO" frames="12146" omitted_pregap="149" duration="02:41:71" size="28567392" crc="53a5c81e" md5="8c7dc5ae66e8566282c3070eda6a96c5" sha1="80ec72cce3cff95471b915f2ed6c9aebb12efa4e" in_zeros="11684" out_zeros="4311" quality="8"/>
+		</rom>
+		<rom name="X-Men - The Ravages of Apocalypse (USA) (Track 5).ogg" size="12966238" crc="b54e75b0" md5="09ce711b2735725d8d794a7ec1d2db84" sha1="0c9a6fb76af9f62eb4ae90c5be212df1352b6560">
+			<source type="AUDIO" frames="26922" omitted_pregap="149" duration="05:58:72" size="63320544" crc="e8a0668c" md5="3e6ed1eb15821b552912fd06f11bd41c" sha1="d39c4f106206fe81d643676549d4db484b14019f" in_zeros="11748" out_zeros="4305" quality="8"/>
+		</rom>
+		<rom name="X-Men - The Ravages of Apocalypse (USA) (Track 6).ogg" size="4831138" crc="a38118f3" md5="c5d07c5d0b0f153b31c51569eafe1897" sha1="26e5f370d5bb2f3d77e2431b246c44795fcbd295">
+			<source type="AUDIO" frames="13950" omitted_pregap="149" duration="03:06:00" size="32810400" crc="c480d9f0" md5="9e4294d9a43f9d311c9b25dbe1a360a7" sha1="5c28fb78c6e8a3c90d89e65abc638c63a0815775" in_zeros="9858" out_zeros="87790" quality="8"/>
+		</rom>
+		<rom name="X-Men - The Ravages of Apocalypse (USA) (Track 7).ogg" size="11374823" crc="2ee4d4a5" md5="2bfe8654d512d3f08f25392596569acb" sha1="ba24df3e1d77f9e2a3592b96e77b415d9cbe9fbe">
+			<source type="AUDIO" frames="24754" omitted_pregap="149" duration="05:30:04" size="58221408" crc="1ce3c1da" md5="a3e02d741f86aa231b353f7a5e1bd137" sha1="456214e9a123ffef664004beb4f32e94edd5227c" in_zeros="8984" out_zeros="56937" quality="8"/>
+		</rom>
+		<rom name="X-Men - The Ravages of Apocalypse (USA).cue" size="883" crc="8130f4db" md5="19a0904a077aec11a08b10b5d3446e84" sha1="62d2707f72a13da7294b139781733d7beaf1a626"/>
+		<rom name="XMEN.BAT" size="68" crc="de5c5102" md5="51fc72d99c2b790bc84491e6943b0627" sha1="bc8a0086b2571f6d08562dad960669162bb8095d" date="1997-09-29 17:10:44"/>
+		<rom name="XMEN/PAK0.PAK" size="7140730" crc="2e0fc0b4" md5="809466c79a090e73c0de03c6d9cae0ac" sha1="a20f3b6868cb27876a6984e6c43aea0f4f2a4b04" date="1997-10-15 21:48:32"/>
+		<rom name="XMEN/PAK1.PAK" size="17969415" crc="bfc69957" md5="2d938fa54b3e49f087fc23c91d124ac8" sha1="3ac366efa0c08548fc47f204c234dbbd4ca33e3a" date="1997-10-20 12:44:42"/>
+		<rom name="XMEN/PAK2.PAK" size="20194275" crc="ae15e6ae" md5="20ff463b348dd70d9133b82b8c0603bd" sha1="bd639a5538af0f1b977f54f7b4304dcf67744513" date="1997-10-17 14:15:42"/>
+		<rom name="XMEN/PAK3.PAK" size="19639109" crc="fe673c4d" md5="979a3882ee0fd175435f62231e6dd542" sha1="3bc4ba8d8a7afc014f77d5e2d6a4e30560753f3f" date="1997-10-20 13:08:32"/>
+		<rom name="XMEN/PAK4.PAK" size="903676" crc="68c7416b" md5="340b0c6baeec7b2914c99d299c636297" sha1="a4e0b1bd4b4053eeb6867d9439d6b0d994f69ba9" date="1998-01-27 02:29:12"/>
+		<rom name="XMEN/patch.txt" size="2614" crc="da9ccd80" md5="fdc9099d01ae4ea3b6f2883012c9b90a" sha1="3a091187963dfca81c55a1e227071a4bf197066e" date="1998-02-23 11:37:56"/>
+		<rom name="XMEN/progs.dat" size="655364" crc="f839b322" md5="aecdf88f002ef2f4daa528c5038d5425" sha1="a3aa294b1ad60d05499b6dde299c204a2e579170" date="1998-02-15 14:54:08"/>
+		<rom name="XMEN/README.TXT" size="22656" crc="25111171" md5="008c1d4cf46792752f775b365a210cce" sha1="0218cd1bd77ab32ee1a37da1786b5e3007873216" date="1997-10-15 12:00:08"/>
+	</game>
 </datafile>
