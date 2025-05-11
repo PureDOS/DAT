@@ -696,26 +696,6 @@
 		<rom name="video/vover2.mux" size="460129" crc="6bf57923" md5="2980d9d6b7d2d811af56edfc28ab41f1" sha1="06faa04efd51799c4dcbe10aa19afca0cd00ff6e" date="2017-12-13 15:42:10"/>
 		<rom name="video/vtitre.mux" size="6902134" crc="f8c58f3b" md5="72bb23943219cea33ff5feab3a66da6e" sha1="f9e5ed805ddf62cc01bd92ae8d7afb214a8fa53f" date="2017-12-13 15:42:10"/>
 	</game>
-	<game name="Quake - Abyss of Pandemonium (1998) (Impel Development Team) (Installation).dosz">
-		<description>Quake - Abyss of Pandemonium</description>
-		<year>1998</year>
-		<developer>Impel Development Team</developer>
-		<variant>Installation</variant>
-		<comment>Matches with TDC entry: Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue]</comment>
-		<rom name="Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue].chd" size="692548992" crc="362d4db7" md5="bec953a1e9a2bb80b8d7fcb5832c5bde" sha1="2efdce213caedb0cb1cbb41aeafaa83223a120ba">
-			<track number="1" type="MODE1_RAW" frames="48490" pregap="0" duration="10:46:40" size="114048480" crc="1eefd95d" md5="311bed7c09efd3879964272401847faf" sha1="c1080729816d2cf732548de842c38a461c49b81e"/>
-			<track number="2" type="AUDIO" frames="20639" omitted_pregap="150" duration="04:35:14" size="48542928" crc="245ddd3d" md5="b16ca0015abd7c26cbaf91a67661bf7c" sha1="1f8d6f74949c58aa9c766dce3095f14c8f1660d2" in_zeros="8774" out_zeros="375958" trimmed_crc="062c27ee"/>
-			<track number="3" type="AUDIO" frames="27321" pregap="0" duration="06:04:21" size="64258992" crc="2188bbe0" md5="7e7d0ef9af31250e8580f6b538e17225" sha1="24f753cb4b2bf6810dd06adfabcc06fde1b90803" in_zeros="468" out_zeros="525244" trimmed_crc="cc481339"/>
-			<track number="4" type="AUDIO" frames="20323" pregap="0" duration="04:30:73" size="47799696" crc="6830e020" md5="9e2cdddb255add69a2a6c846403adb7f" sha1="39ad077b69f67e85e8be8d6839dfaba42fcbc1a2" in_zeros="468" out_zeros="525228" trimmed_crc="f7ad9507"/>
-			<track number="5" type="AUDIO" frames="33206" pregap="0" duration="07:22:56" size="78100512" crc="f490636f" md5="1896993560113f12c1ddf477115eb4b0" sha1="8156d36f4798cd29ba657033690d1d8bc9df1220" in_zeros="492" out_zeros="525176" trimmed_crc="b2d74b41"/>
-			<track number="6" type="AUDIO" frames="34163" pregap="0" duration="07:35:38" size="80351376" crc="c533689a" md5="31c2ed0db3e61d6eb475e9b2c8acceea" sha1="bc4651bd910a646633d6684b8504b0f4403cc2a8" in_zeros="492" out_zeros="357017" trimmed_crc="7645903c"/>
-			<track number="7" type="AUDIO" frames="22139" pregap="0" duration="04:55:14" size="52070928" crc="f710046c" md5="9c8c4576324f8df338e5d201eddc2681" sha1="765d0990f6adee668bbc2849cc47f420b4968b1d" in_zeros="516" out_zeros="356998" trimmed_crc="589740ae"/>
-			<track number="8" type="AUDIO" frames="23064" pregap="0" duration="05:07:39" size="54246528" crc="f0eaa05a" md5="4b758581bc049e48ea29598f9265e5f0" sha1="2ec61445a9a297144cd58c7a489aec5458cdc16c" in_zeros="516" out_zeros="525180" trimmed_crc="78044595"/>
-			<track number="9" type="AUDIO" frames="20963" pregap="0" duration="04:39:38" size="49304976" crc="ae0a4d56" md5="f8c09c4412f76e0572debff6429be389" sha1="f38a7eea187430c79d5b5504ceb46104d4f03a8b" in_zeros="516" out_zeros="525160" trimmed_crc="eb3c4177"/>
-			<track number="10" type="AUDIO" frames="17381" pregap="0" duration="03:51:56" size="40880112" crc="20b22ff0" md5="43d48f64b0efaf825c835d24018cbfa4" sha1="beeec3d7727fd9313fa3c04fe17330825b8a7988" in_zeros="540" out_zeros="356969" trimmed_crc="903b66a5"/>
-			<track number="11" type="AUDIO" frames="16828" pregap="0" duration="03:44:28" size="39579456" crc="5972f785" md5="a9edea8d433fd83bfb79e71cdf1bc419" sha1="214775e0621b841ef532d7b2f167955d7e21b917" in_zeros="564" out_zeros="6506" trimmed_crc="389db3cd"/>
-		</rom>
-	</game>
 	<game name="Realms of Chaos (1995) (Apogee Software) (Installation).dosz">
 		<description>Realms of Chaos</description>
 		<year>1995</year>
