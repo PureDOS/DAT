@@ -155,14 +155,41 @@
 		<description>Doom - Sigil II</description>
 		<year>2023</year>
 		<developer>John Romero</developer>
-		<parent>Sigil (2019) (John Romero).dosz</parent>
+		<parent>Doom - Sigil (2019) (John Romero).dosz</parent>
 		<comment>Freeware v1.0</comment>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://romero.com/sigil</link>
-		<rom name="Sigil (2019) (John Romero).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Doom - Sigil (2019) (John Romero).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="SIGIL_II.WAD" size="5632323" crc="d210db36" md5="d0442f5a75f2faef3405c09a0c3acc58" sha1="ad2c6e8367afbeef74e9e09b6b1e4da88c0576b4" date="2023-12-05 22:01:16"/>
 		<rom name="SIGIL_II_README_V1_0.txt" size="9442" crc="dcb4f63b" md5="bbea1e6f433eb9f9e4f7edf1c673ee76" sha1="3f62349fd92b9154f6ea0556e2ef8596d6dad873" date="2023-12-09 14:41:20"/>
 		<rom name="SIGIL_II_V1_0.txt" size="3586" crc="ed412472" md5="122b0992e23ed6a917995dc142c9abae" sha1="b69e087c9a82b4d23785db491e330c15de6b6839" date="2023-12-09 14:13:36"/>
+	</game>
+	<game name="Doom - Sky May Be, The (1997) (Doug the Eagle, Kansam).dosz">
+		<description>Doom - Sky May Be, The</description>
+		<year>1997</year>
+		<developer>Doug the Eagle, Kansam</developer>
+		<parent>Doom Mod Base (Vanilla).dosz</parent>
+		<comment>
+			To install, run SKYMAYBE.EXE, then INSTALL.EXE along with DOOM.EXE and DOOM.WAD (Ultimate Doom v1.9) in the selected folder
+			Does not work properly in Tartar
+		</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom/s-u/smb_v102</link>
+		<rom name="Doom Mod Base (Vanilla).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOM_SMB.EXE" size="715493" crc="153002ea" md5="591584fb634d338196317a2af64dc04a" sha1="8b2c9fbe0ef5af6f6a70e7b2a54e12f1787ff893"/>
+		<rom name="README" size="316" crc="b722695d" md5="2117b5f9c30db818ebe79086180a9b47" sha1="3f61f377eb3a4a0aface21302f0f2f4b2b9d4ee2" date="1997-05-27 03:05:26"/>
+		<rom name="SKYMAYBE.BAT" size="60" crc="7ae25cec" md5="fdb6e4af9c445aedeea3677ef19f8f98" sha1="4e41ddee821e0d949a88be64adcb4516ee6e96fc"/>
+		<rom name="SKYMAYBE.EXE" size="1390235" crc="e38f806d" md5="1c2a09624fffd8d89483e53775e54179" sha1="aacf0a840b2e18a31ac4cb4597aef03d838432a2" date="1997-05-27 03:03:30"/>
+		<rom name="SKYMAYBE.TXT" size="11052" crc="3fca40e6" md5="40b8c59a6b14f1e61faf77f107c13392" sha1="8d9863528a32a58b6107a66b9e187db3b370a897" date="1997-05-27 02:57:42"/>
+		<rom name="SKYMAYBE/_SMB417.WAD" size="3601028" crc="62a38c6a" md5="007425c10f02aa332735006ee6ebf732" sha1="76541682b3d46be1de6fc2812a98428d64b40095" date="1997-05-27 01:05:20"/>
+		<rom name="SKYMAYBE/BLESSED.DEH" size="26177" crc="df5adcdb" md5="e891e4caf4559c28a0c40d30cbb36507" sha1="4d08507f438d65c50561a99d16f12efae11349a9" date="1997-05-09 00:45:46"/>
+		<rom name="SKYMAYBE/BLESSED.TXT" size="5317" crc="f95c8e8e" md5="7360f32b758716ad8833f5df4232383e" sha1="5315877bc2d5edfaae5c0a040a18bffe6fc7d954" date="1997-05-27 03:01:16"/>
+		<rom name="SKYMAYBE/CLEANME.BAT" size="162" crc="8c065f56" md5="1eeb74fbccf340e70ba8315af0aea783" sha1="3dd6bd9dacafa70a9bcae63e67de292bc93e8281" date="1997-05-01 00:36:56"/>
+		<rom name="SKYMAYBE/DEHACKED.EXE" size="91634" crc="19d0d1ea" md5="5fe12e580a543e16c6fa9f6d4a168b95" sha1="9c1c448c333896ec32f7e1dfd49c98415d7bd6d6" date="1997-05-01 00:55:12"/>
+		<rom name="SKYMAYBE/DEUSF.EXE" size="90196" crc="5ea1e5c2" md5="89be00455dec01df32e1df8a6bf191f9" sha1="397fc6a2c7e1de6f5d7e066d72bc7acb1d9f9726" date="1995-07-24 00:13:42"/>
+		<rom name="SKYMAYBE/INSTALL.EXE" size="36027" crc="735067d9" md5="e24aa2aa0c73d44532403f931673f3cd" sha1="ed02c5c1f2f8d6ae043cc733b8000d52f1478621" date="1997-05-09 01:02:52"/>
+		<rom name="SKYMAYBE/SKYMAYBE.TXT" size="11052" crc="3fca40e6" md5="40b8c59a6b14f1e61faf77f107c13392" sha1="8d9863528a32a58b6107a66b9e187db3b370a897" date="1997-05-27 02:57:42"/>
+		<rom name="SKYMAYBE/SKYMAYBE.WAD" size="6092772" crc="26f96de3" md5="ad089fbfb87effd49bb35593caed4cea" sha1="f79435570e05b3a85d39c6e010c085023f352026"/>
 	</game>
 	<game name="Doom - Slaughter Until Death (1994) (The Innocent Crew).dosz">
 		<description>Doom - Slaughter Until Death</description>
@@ -182,10 +209,10 @@
 		<description>Doom - Ultimate Doom the Way id Did</description>
 		<year>2019</year>
 		<developer>Various</developer>
-		<parent>Doom the Way id Did (2011) (Various).dosz</parent>
+		<parent>Doom - Doom the Way id Did (2011) (Various).dosz</parent>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom/s-u/udtwid</link>
-		<rom name="Doom the Way id Did (2011) (Various).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Doom - Doom the Way id Did (2011) (Various).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="UDTWiD.deh" size="2064" crc="5d2e44ab" md5="a3412688819795ad0dad331c7f6424d1" sha1="970a077ebd9843a15eaf1e96c45f84662cb1b806" date="2018-11-26 11:27:00"/>
 		<rom name="UDTWiD.txt" size="4255" crc="db79e592" md5="026930b97b2c99634891eb2caa507525" sha1="8730a52bca74464cfc99674184ffce120d5cfe12" date="2019-02-16 22:12:00"/>
 		<rom name="UDTWiD.wad" size="2015266" crc="4ec29ddd" md5="c04696a6abda5ed345b040065e2934c6" sha1="20f06479c9aad7a883fd103b5736352ead6fa289" date="2019-02-11 23:12:10"/>
@@ -361,6 +388,40 @@
 		<rom name="cleim20b/CLEIM20.TXT" size="12440" crc="925e9c04" md5="cc9e9fbb1f987c509c4b7236a6e7d571" sha1="e7e93aa82e02461da6cd1b9276e94fc5a7a54e51" date="1995-11-20 18:38:00"/>
 		<rom name="cleim20b/DEUSF.EXE" size="89860" crc="840cfb89" md5="06be303acbae938be316281a4733b798" sha1="6114e05889d7142eef3d8bf69007be873341e087" date="1995-05-05 14:06:04"/>
 		<rom name="cleim20p.txt" size="18403" crc="ae272b3b" md5="d5e02b3038f15718b40a73c850f5d168" sha1="f1e6d63fc207a6436062ea765bdf3884628254fc" date="2015-06-25 20:50:02"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Doom II - Darkening, The - Episode 1 - The Nameless Project (1998) (Various).dosz">
+		<description>Doom II - Darkening, The - Episode 1 - The Nameless Project</description>
+		<year>1998</year>
+		<developer>Various</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment>v1.01</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/darken</link>
+		<rom name="DARKDM.BAT" size="288" crc="e5215cc1" md5="62d2c37de1f30819745c10b8cab2b95a" sha1="18de9ee8b7dd7aaaab98f3c3080eae1828c65aa3" date="1998-01-18 15:47:16"/>
+		<rom name="DARKEN.BAT" size="244" crc="24c5f8b6" md5="9321a58a6f638ecc26a06187afd7e22a" sha1="063e7a22b9a97fd9197fea83a4c055e3412c2aa7" date="1998-01-18 15:47:30"/>
+		<rom name="DARKEN/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1998-01-18 14:43:56"/>
+		<rom name="DARKEN/DARK.DEH" size="2911" crc="53ea7623" md5="0121cb02ea3d991ecd2085f111d82f96" sha1="863ce277f1782c7f59d647d12e2b7cf0fbd722b5" date="1998-01-17 00:38:04"/>
+		<rom name="DARKEN/DARKDM.WAD" size="1252536" crc="7affdd8f" md5="fe8084d63ca1bf142604c68e1020d8a1" sha1="c9df904a767d1db559100e6cce9c41f52532261c" date="1998-01-18 15:42:58"/>
+		<rom name="DARKEN/DARKEN.TXT" size="22233" crc="70ca0f7e" md5="bee6a3e63253b00bacaf27c493f92cdd" sha1="8a0503f0cae290ab303c12e87898f4a4648783dd" date="1998-01-21 22:02:32"/>
+		<rom name="DARKEN/DARKEN.WAD" size="1754740" crc="dc01cead" md5="4950d0990c576157b585c3e88c2d83c8" sha1="37e6244fa1f1b3f6c949c63b34859dd3e3e904fe" date="1998-01-17 21:00:06"/>
+		<rom name="DARKEN/DEHACKED.EXE" size="93122" crc="a8191f4c" md5="7f4b6dde1aad5565d38cdd805d72af3b" sha1="acf14af8f5429b3ae822e44b3624c196ceed907f" date="1996-11-11 19:23:30"/>
+		<rom name="DARKEN/EXEPATCH.BAT" size="730" crc="51415305" md5="b40b6fffe7ccc0ab68a9550e0148b009" sha1="433df7d4617bf69733f55b1ec63d41a898d1dc2c" date="1998-01-19 20:34:32"/>
+		<rom name="DARKEN/INDEX.TXT" size="925" crc="836720a9" md5="b5456ca50e5a3713f9d2c1bc0be58a43" sha1="b71c0934a183e7c1b4a5198bd6ae0a4cf90ef844" date="1998-01-19 20:36:00"/>
+		<rom name="DARKEN/RESOURCE.WAD" size="1750452" crc="d8cd00c6" md5="95a86e7a6da646099d3e63dfb8232069" sha1="df54b1ac62dc10883be9ee03e74ccec6752549cb" date="1998-01-21 21:54:32"/>
+		<rom name="DEHACKED.EXE" size="93122" crc="a8191f4c" md5="7f4b6dde1aad5565d38cdd805d72af3b" sha1="acf14af8f5429b3ae822e44b3624c196ceed907f" date="1996-11-11 19:23:30"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Doom II - Darkening, The - Episode 2 (2000) (Various).dosz">
+		<description>Doom II - Darkening, The - Episode 2</description>
+		<year>2000</year>
+		<developer>Various</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment>v1.1</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/darken2</link>
+		<rom name="darken2.txt" size="24243" crc="3561fad1" md5="74dfa6758146c7c8e752d2514167497f" sha1="6f39817db2838b674e01fb4931f740b755d198e9" date="2000-08-07 19:54:14"/>
+		<rom name="Darken2.wad" size="13495688" crc="5a71eb57" md5="1f73606389281c41a8ff89acc9053b15" sha1="1da7e9eb40302bfb6c8fd96c6e89660f5d08b878" date="2000-08-07 20:28:36"/>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
 	<game name="Doom II - Doom 64 for Doom II (2018) (Various).dosz">
@@ -668,6 +729,109 @@
 		<rom name="scythex.txt" size="5029" crc="cc8cf8df" md5="0f4b1126b151126b5bc92c62bfaa6128" sha1="4b5a6a84383c1254606f45bda8d6417dc1ba9cc0" date="2009-09-03 20:22:38"/>
 		<rom name="scythex.wad" size="22984554" crc="2dd8fa4f" md5="17a77143f035978b4115474c00a6bc5b" sha1="82f50499f8c507e5d10d4ea6744e07d606d0d428" date="2009-09-03 09:37:14"/>
 	</game>
+	<game name="Doom II - Star Wars for Doom II (1998) (Garrett Granger).dosz">
+		<description>Doom II - Star Wars for Doom II</description>
+		<year>1998</year>
+		<developer>Garrett Granger</developer>
+		<parent>Doom II Mod Base (Vanilla).dosz</parent>
+		<comment>
+			To create DOOMHACK.EXE and SWDOOM2.EXE, run INSTALL.BAT with DOOM2.EXE (Doom II v1.9) in the same folder
+			To create ENEMY.WAD, run "deusf -app enemy.wad" at the command line with DOOM2.WAD (Doom II v1.9) in the same folder
+			Does not work in Tartar
+		</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/themes/starwars/swdoom2b</link>
+		<rom name="ABOUT.TXT" size="10021" crc="f63a1d70" md5="5d6c3eafbc91951b71595dfa57be4156" sha1="874c90ed044319a01596608dbb312813abb27bea" date="1998-08-13 17:54:04"/>
+		<rom name="ANAKIN.TXT" size="320" crc="a4ba7b04" md5="9d25a320a0f9c1d239d63d055110c455" sha1="b207109f859b46f67685be2177a0f1693d6c2fef" date="1998-03-06 22:53:24"/>
+		<rom name="answer.bat" size="198" crc="370bde39" md5="e2cf71b2e27c6026eb45c62a325e162a" sha1="cb3fcb5459938348a4cafed7ba02c2d85e3431fd" date="1998-05-14 23:29:34"/>
+		<rom name="DEHACKED.EXE" size="93260" crc="a133bfb9" md5="dc7a40bf6865e5951d78fdc2e201f77e" sha1="2d5856dbc3a0d213e03b06176108dfe3b40625b3" date="1995-08-25 16:49:08"/>
+		<rom name="DEUSF.EXE" size="56436" crc="52f42fd2" md5="fffbe3df391c35f6b95e19495a5534ab" sha1="0c71fd5d807442963b9715dc475528943bc632b6" date="1994-11-03 11:48:24"/>
+		<rom name="DIAL.BAT" size="201" crc="7dcaf90c" md5="d856416d71b2d4ecd5fc96e747e4b3d9" sha1="3aa122480331504043517badc9219763d90f5042" date="1998-05-14 23:25:10"/>
+		<rom name="DM.CFG" size="337" crc="8940f609" md5="c049d59df584202595aa8b1b33b443ea" sha1="fcad65336134bd48dfe4cbd5e917f6b255029171" date="1998-08-13 16:31:52"/>
+		<rom name="Doom II Mod Base (Vanilla).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DOOM1-2.WAD" size="1532001" crc="ff995e5b" md5="1311e23c80a47a336a57370a943a4d31" sha1="84ca8274b1fdd624fd44a5f07986f9b2ffd057a6" date="1998-10-13 20:16:48"/>
+		<rom name="DOOMHACK.EXE" size="709905" crc="be91c727" md5="e2382b7dc47ae2433d26b6e6bc312999" sha1="aa0668fae2f743ee5e3e5634ee42d3c8ace7d907"/>
+		<rom name="ENEMY.WAD" size="5190384" crc="f1142475" md5="3dfcdd995f0bb5d27a3581c1077fb4b0" sha1="d9bf7209c0add050209115d6a442980ea7a0cdfc"/>
+		<rom name="GO-MENU.EXE" size="15802" crc="33fe5fe1" md5="4f0060234caf44ccb2e85b1c58a91de9" sha1="cd0a214350b45b9ddd953dbab81a5bc1d8268961" date="1992-06-03 00:00:00"/>
+		<rom name="GORE1_66.DEH" size="4900" crc="ec500990" md5="dbcef5eec513071c1966ee2e102203f5" sha1="949be0d6c7f4ecf07136b99fbb3631d645ec56d8" date="1998-06-18 13:53:52"/>
+		<rom name="GORE1_9.DEH" size="7882" crc="f645cc0a" md5="3ca5eca18fb09d1e7a7b15de3f0b965b" sha1="9bc0013ab6d5d72cd377322cca45bef06b5fb071" date="1998-10-27 22:28:58"/>
+		<rom name="INSTALL.BAT" size="541" crc="6ec14254" md5="261f5bf9fbf3a98c0520e6b12167a8aa" sha1="2e90873b4d5a4073c045c4b77179564c00059d80" date="1997-09-20 22:13:54"/>
+		<rom name="JAWA.ICO" size="766" crc="00f7e29d" md5="564519d83a2aa5d0a36c29782ee55ce2" sha1="c6f683a2e857ad2740d584f676a347e6f2d5513b" date="1998-02-16 14:59:32"/>
+		<rom name="STARINST.MNU" size="165" crc="5d35551c" md5="e5966c7cf5416cc609a5c9c45f8d6cb7" sha1="eeb88e2c3935a4609c1726d91f89b3e8a1cc3052" date="1997-09-20 22:07:06"/>
+		<rom name="STARLVLS.WAD" size="2281726" crc="289d9f03" md5="6beb446d4b3101b0bdbf851eebff15ad" sha1="cf9c118eabcb46062cd3c461d654d8c2f8e63c82" date="1998-10-26 20:26:26"/>
+		<rom name="STARSNDS.WAD" size="2087843" crc="34f8f6b3" md5="0198837fb07ef8f7900c44e75e5a3203" sha1="60424959019a49f42c2d76b035b6c67aaf077e3e" date="1998-10-27 19:49:00"/>
+		<rom name="STARWARS.BAT" size="111" crc="4163328d" md5="bafd1472abde3e7fdb67670155ed9352" sha1="1e23bdf6f627f6fe6e7347f511d734f73414a0c7" date="1997-07-26 11:24:12"/>
+		<rom name="Sw1_666.deh" size="4871" crc="e6fc6d7e" md5="71bb6ea058afe9edf4599509b873286e" sha1="0f1f6d589473c46b334bd4dbcb97819fd8d025e3" date="1998-06-18 13:53:34"/>
+		<rom name="SW1_9.BAT" size="549" crc="74e5df57" md5="6c421b92ce6b837e834be9cc30eee3ea" sha1="27deb4acfdcd0ceafb21fb8b3d839122409626b8" date="1998-03-17 13:34:56"/>
+		<rom name="SW1_9.DEH" size="7853" crc="89004c50" md5="abded638872f699440b3d52b1f18afba" sha1="129f4d7a1df1d5a677743e463360fc64612d1fb2" date="1998-10-27 22:28:46"/>
+		<rom name="SWDOOM2.EXE" size="709905" crc="be91c727" md5="e2382b7dc47ae2433d26b6e6bc312999" sha1="aa0668fae2f743ee5e3e5634ee42d3c8ace7d907"/>
+		<rom name="SWDOOM2.TXT" size="15618" crc="608a844f" md5="4ce70db253f644f1bf8cd8fa7e5c6723" sha1="a79845914efc532c9a578b49946c7976ce101654" date="1998-10-27 11:22:44"/>
+		<rom name="SWMODEM" size="125" crc="5d387130" md5="d999ab354015b00d98d438b7ee1c2f87" sha1="dbf0a3a9fd3ea0fe140e528c48fb51c2e2ccb6bc" date="1998-05-14 23:10:28"/>
+		<rom name="SWMODEM.BAT" size="30" crc="ca1ce476" md5="6498c114d47a4db2763c3a0f8647c613" sha1="49a189ad19f63f0b0f141dd5eae9639e2b6ba799" date="1996-09-11 15:24:10"/>
+		<rom name="UPDATE.TXT" size="5605" crc="0bfc03d6" md5="7203f2635818e8508eff4fe833cd3e08" sha1="d153b330a5584e7a3f6359add16b2268284b5590" date="1998-10-27 22:32:06"/>
+	</game>
+	<game name="Doom II - Strain (1997) (Alpha Dog Alliance).dosz">
+		<description>Doom II - Strain</description>
+		<year>1997</year>
+		<developer>Alpha Dog Alliance</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment>Repackaged version. ZIP file extracted</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/strain</link>
+		<rom name="CWD.EXE" size="11986" crc="20e712ce" md5="7537a0adad5392ccd4460c8ca81fd174" sha1="002d8a1ef50df33e776f2f58722c1497cc13101e" date="1997-07-01 01:36:42"/>
+		<rom name="DEHACKED.EXE" size="91634" crc="9ef34136" md5="0c17f541b5b246081a79a9dd4bc17508" sha1="c83273203d0562c16c6987d24d4a4266a885490b" date="1997-06-25 17:13:52"/>
+		<rom name="DEHACKED.TXT" size="8256" crc="6b1537b4" md5="140f02f0e1bcd951d3f1bba694e8f99f" sha1="3e6b6d35ea5407829c21d323441de51e8167e48e" date="1997-07-03 03:09:04"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="STRAIN.BAT" size="9047" crc="7c58c505" md5="b64f4116c8447df510190b9c970e6482" sha1="1c45871833b2fa1fb466e6240a09fa2739a5f36c" date="1997-07-03 01:51:26"/>
+		<rom name="STRAIN.DEH" size="22230" crc="163502d5" md5="f68346ff18f6777335b2db1e67e32b3b" sha1="c479aa18cb00cc77aef5f0ecae345fff0ed21afb" date="1997-06-25 17:13:50"/>
+		<rom name="STRAIN.TXT" size="12029" crc="ef159a9d" md5="d9e44931f919810067168f63ca04d1f4" sha1="7c65243210ba153fa9980289ff8974f9d39aa17d" date="1997-07-03 18:26:10"/>
+		<rom name="STRAIN.WAD" size="13502597" crc="be0e468d" md5="f70ab5f7413ceecec199014c9e7ef82b" sha1="eb20235c0af52e5a94932854f24285b7358056ec" date="1997-07-03 17:51:20"/>
+		<rom name="strain10.txt" size="12029" crc="ef159a9d" md5="d9e44931f919810067168f63ca04d1f4" sha1="7c65243210ba153fa9980289ff8974f9d39aa17d" date="1997-09-14 20:00:00"/>
+		<rom name="strain10/strain.001" size="693397" crc="383db446" md5="f35e98f6be0f99259edc4c16142a55d8" sha1="84ec97675a026800e6e637c0855354e358a9053f" date="1997-07-03 16:35:58"/>
+		<rom name="strain10/strain.002" size="1440000" crc="8c9035c1" md5="da3d5851fa7528421709be179b7bcec3" sha1="db1ff92cc90bc5b8339332df317e1e7d881545c9" date="1997-07-03 16:37:54"/>
+		<rom name="strain10/strain.003" size="1440000" crc="7887960b" md5="8e97ade0c2c72a6170f809ef9ceb7951" sha1="8ad6f7f2588eb9986ead4fa3044329f96963c641" date="1997-07-03 16:39:32"/>
+		<rom name="strain10/strain.004" size="1440000" crc="c0aa7140" md5="3d428d1398a169422e8fe29bf0cbf531" sha1="94a07fa2efe4e5d0fa04337d4a4bb8d0f81af55f" date="1997-07-03 16:42:34"/>
+		<rom name="strain10/strain.txt" size="12029" crc="ef159a9d" md5="d9e44931f919810067168f63ca04d1f4" sha1="7c65243210ba153fa9980289ff8974f9d39aa17d" date="1997-07-03 16:42:56"/>
+		<rom name="strain10/unpack.bat" size="7788" crc="26c547d4" md5="24c9b828f52606cc2c802429c2f66482" sha1="880bb1fdf5a1042403635ab2b28eea562f585842" date="1997-07-03 16:42:36"/>
+		<rom name="strain_new.txt" size="8037" crc="ab2ef36b" md5="eca8798fb07e5f06e7052cfda669fec0" sha1="62f94f80f23a6a40ce91b3f56868c89a8fab2f3d" date="2015-06-24 00:52:52"/>
+		<rom name="STRAINFE.EXE" size="458661" crc="6a3d7ec7" md5="c1233a48f2f8062f1b2c7043ba8c2844" sha1="7e651f85580882cdf53371290aed48884425a83e" date="1997-07-03 18:26:30"/>
+	</game>
+	<game name="Doom II - Super Mayhem 17 (2018) (Various) (Mario Doom).dosz">
+		<description>Doom II - Super Mayhem 17</description>
+		<year>2018</year>
+		<developer>Various</developer>
+		<variant>Mario Doom</variant>
+		<parent>Doom II - Super Mayhem 17 (2018) (Various).dosz</parent>
+		<comment>Superjustinbros' patched Mario Doom mod, release 2. Made specifically for Super Mayhem 17</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/forum/post/2834898</link>
+		<rom name="Doom II - Super Mayhem 17 (2018) (Various).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="MarioM17.wad" size="6800687" crc="930169e7" md5="6fea5971e3568c585b23d72fd62d08ed" sha1="b87fe561b9e806d8b319338cdaa955ed6ca91c16"/>
+		<rom name="README.txt" size="3983" crc="03af8e6f" md5="c07d4b5eaea717ddc91866243f0dc266" sha1="a5087f4baf774aabde21cc594cf13762d000e7d5"/>
+	</game>
+	<game name="Doom II - Super Mayhem 17 (2018) (Various).dosz">
+		<description>Doom II - Super Mayhem 17</description>
+		<year>2018</year>
+		<developer>Various</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment>v1.1</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/mayhem17</link>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="m17updat.wad" size="942878" crc="d1706939" md5="758ff2cb8ab371ca0b8c8c03f2e03285" sha1="31ba509b99a73bc9de94c8240ac3ae5dba2cfc3a" date="2019-06-08 03:11:18"/>
+		<rom name="mayhem17.txt" size="7637" crc="017d2d5d" md5="742bb6f6f35878ff5890bb912e5d9adb" sha1="e4a1bc0bb89aa193648a0034040ac228e4a5e696" date="2019-06-08 03:16:00"/>
+		<rom name="mayhem17.wad" size="29040931" crc="1ae1275f" md5="b985ddeb6f3a327ff907e28e70b026e0" sha1="66e44efd54eb861fcd4b749a0653b1cc9a544a2a" date="2018-02-23 01:23:32"/>
+	</game>
+	<game name="Doom II Mod Base (Vanilla).dosz">
+		<description>Doom II Mod Base</description>
+		<variant>Vanilla</variant>
+		<comment>Files from Doom II v1.9. Sometimes used for wads that don't work in Tartar</comment>
+		<comment_dosc>Sound Blaster config, Keyboard + Mouse controls, increased music volume, and auto start. General MIDI and Setup Program options</comment_dosc>
+		<link type="media">http://redump.org/disc/62840/</link>
+		<rom name="DOOM2.EXE" size="709905" crc="be91c727" md5="e2382b7dc47ae2433d26b6e6bc312999" sha1="aa0668fae2f743ee5e3e5634ee42d3c8ace7d907"/>
+		<rom name="DOOM2.WAD" size="14604584" crc="ec8725db" md5="25e1459ca71d321525f84628f45ca8cd" sha1="7ec7652fcfce8ddc6e801839291f0e28ef1d5ae7"/>
+		<rom name="SETUP.EXE" size="45745" crc="0025fe95" md5="675564fcd380f5ef9beb0e7b21a51f79" sha1="f8644ace438896f9a788629d8da869bd34926f91"/>
+	</game>
 	<game name="Doom II Mod Base.dosz">
 		<description>Doom II Mod Base</description>
 		<parent>Doom Engine.dosz</parent>
@@ -675,6 +839,16 @@
 		<link type="media">http://redump.org/disc/62840/</link>
 		<rom name="Doom Engine.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="DOOM2.WAD" size="14604584" crc="ec8725db" md5="25e1459ca71d321525f84628f45ca8cd" sha1="7ec7652fcfce8ddc6e801839291f0e28ef1d5ae7"/>
+	</game>
+	<game name="Doom Mod Base (Vanilla).dosz">
+		<description>Doom Mod Base</description>
+		<variant>Vanilla</variant>
+		<comment>Files from Ultimate Doom v1.9. Sometimes used for wads that don't work in Tartar</comment>
+		<comment_dosc>Sound Blaster config, Keyboard + Mouse controls, increased music volume, and auto start. General MIDI and Setup Program options</comment_dosc>
+		<link type="media">http://redump.org/disc/4427/</link>
+		<rom name="DOOM.EXE" size="715493" crc="b5ceb8ac" md5="742a5f9953871687341e3794468894d8" sha1="64e6df0ee478868b42d5eb7d443430283b0ddc0c"/>
+		<rom name="DOOM.WAD" size="12408292" crc="bf0eaac0" md5="c4fe9fd920207691a9f493668e0a2083" sha1="9b07b02ab3c275a6a7570c3f73cc20d63a0e3833"/>
+		<rom name="SETUP.EXE" size="46665" crc="9a6be6d8" md5="729df5c0727cd290c1c34ffd29a04490" sha1="4664dbf04047a7b1733fed3654e6dd6b25b1613a"/>
 	</game>
 	<game name="Doom Mod Base.dosz">
 		<description>Doom Mod Base</description>
