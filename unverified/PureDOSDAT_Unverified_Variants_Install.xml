@@ -1832,6 +1832,18 @@
 			<track number="1" type="MODE1_RAW" frames="16525" pregap="0" duration="03:40:25" size="38866800" crc="77eda177" md5="afa0fbf4b5d4f5078eab7bf0b7fa67ba" sha1="702ecc1103e9aa63bb5014f47f538d122869a31f" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
+	<game name="Wing Commander - Academy (1993) (Origin Systems) (Installation).dosz">
+		<description>Wing Commander - Academy</description>
+		<year>1993</year>
+		<developer>Origin Systems</developer>
+		<variant>Installation</variant>
+		<comment>3.5" floppy disks matching with TGOD ID: 2708</comment>
+		<comment_dosc>Sound Blaster Pro config and auto start. MT-32 option</comment_dosc>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=2708</link>
+		<rom name="disk1.img" size="1474560" crc="879cb9f0" md5="d4ddb7df6f7876d3db0429b3e8c36551" sha1="74ee37e570946dc342777e4b8dd740dc2a6b54ee"/>
+		<rom name="disk2.img" size="1474560" crc="45108876" md5="cd92f1087181f2d1dde7ec863ecc986f" sha1="c7370047c2c4968265bb09372240ba45e132b034"/>
+		<rom name="disk3.img" size="1474560" crc="9a19bc72" md5="43b3d02b8410be9378e019ca124b0e33" sha1="fdc68378dab027aaed4047d4f75b4404f1b9aa91"/>
+	</game>
 	<game name="Wordtris (1991) (Spectrum HoloByte) (Installation).dosz">
 		<description>Wordtris</description>
 		<year>1991</year>
