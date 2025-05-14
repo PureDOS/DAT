@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Pure DOS DAT - Extra</name>
+		<description>DOS Emulation Extras</description>
+		<version>2025-05-08 00-00-00</version>
+		<date>2025-05-08 00-00-00</date>
+		<author>Pure DOS DAT</author>
+		<homepage>Pure DOS DAT</homepage>
+		<url>https://github.com/PureDOS/DAT</url>
+	</header>
+	<game name="CM-32L ROM v1.02 (1989) (Roland).dosx">
+		<description>CM-32L ROM v1.02</description>
+		<year>1989</year>
+		<developer>Roland</developer>
+		<rom name="ctrl_cm32l_1_02_control.rom" size="65536" crc="b998047e" md5="bfff32b6144c1d706109accb6e6b1113" sha1="a439fbb390da38cada95a7cbb1d6ca199cd66ef8"/>
+		<rom name="ctrl_cm32l_1_02_pcm.rom" size="1048576" crc="4b961eba" md5="08cdcfa0ed93e9cb16afa76e6ac5f0a4" sha1="289cc298ad532b702461bfc738009d9ebe8025ea"/>
+	</game>
+	<game name="MT-32 ROM v1.07 (1987) (Roland).dosx">
+		<description>MT-32 ROM v1.07</description>
+		<year>1987</year>
+		<developer>Roland</developer>
+		<rom name="ctrl_mt32_1_07_control.rom" size="65536" crc="a7c1531b" md5="5626206284b22c2734f3e9efefcd2675" sha1="b083518fffb7f66b03c23b7eb4f868e62dc5a987"/>
+		<rom name="ctrl_mt32_1_07_pcm.rom" size="524288" crc="573e31cc" md5="89e42e386e82e0cacb4a2704a03706ca" sha1="f6b1eebc4b2d200ec6d3d21d51325d5b48c60252"/>
+	</game>
+	<game name="SoundFont AWE64 Gold Presets (2015) (Deemster).dosx">
+		<description>SoundFont AWE64 Gold Presets</description>
+		<year>2015</year>
+		<developer>Deemster</developer>
+		<rom name="AWE64 Gold Presets.sf2" size="1085474" crc="5341d84c" md5="2a82f3946975e1f4c8f629b0f30855da" sha1="b0eaf871706e64ab20f8ce38addb84b28fc05090"/>
+	</game>
+	<game name="SoundFont Roland SC-55 Presets (2015) (Deemster).dosx">
+		<description>SoundFont Roland SC-55 Presets</description>
+		<year>2015</year>
+		<developer>Deemster</developer>
+		<rom name="Roland SC-55 Presets.sf2" size="3283278" crc="2f280fcc" md5="dbb97c34404b753724a66fe0108a32e1" sha1="9dba9212f2e34446ab034595665809f09f303d63"/>
+	</game>
+	<game name="SoundFont Yamaha DB50XG Presets (2015) (Deemster).dosx">
+		<description>SoundFont Yamaha DB50XG Presets</description>
+		<year>2015</year>
+		<developer>Deemster</developer>
+		<rom name="Yamaha DB50XG Presets.sf2" size="3863418" crc="57e84488" md5="a204e0b280cc97bb598cb84d3d62a080" sha1="feceab54ef5619e6143cee03d96c73aa25ec2d93"/>
+	</game>
+</datafile>
