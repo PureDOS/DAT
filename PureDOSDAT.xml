@@ -50,53 +50,6 @@
 		<rom name="TITLE.DAT" size="18000" crc="9fdb6ef3" md5="8447d11d85956ef3652ddf0a13deb4cd" sha1="c7fefae38ee8c4fbf49249fd4a684019a034f23a" date="1988-04-15 09:53:50"/>
 		<rom name="TITLE.OVL" size="1232" crc="9acc5497" md5="5df66c41f7834ddc1f1cc982920a1be2" sha1="3809cc7157681584d39a7b46ca1e384c1efcf3e4" date="1988-08-02 08:40:44"/>
 	</game>
-	<game name="3 Skulls of the Toltecs (1996) (Revistronic).dosz">
-		<description>3 Skulls of the Toltecs</description>
-		<comment>Installed from Redump-verified CD-ROM: 3 Skulls of the Toltecs (Europe)</comment>
-		<comment_dosc>Sets CPU year to 1996, mounts disc, auto-starts, MT-32 option, and has config</comment_dosc>
-		<year>1996</year>
-		<developer>Revistronic</developer>
-		<link type="media">http://redump.org/disc/56476/</link>
-		<rom name="3 Skulls of the Toltecs (Europe).chd" size="414182016" crc="40ffef7d" md5="2747fb00527dec669703b64b66240fa7" sha1="57e712d0428013bc83ad464c6b9e33a1066a5596">
-			<track number="1" type="MODE1_RAW" frames="169151" pregap="0" duration="37:35:26" size="397843152" crc="eb4dddb8" md5="dec69f3be58ae06cfbb6e78ffb27dacf" sha1="63b9175d9051944c71129bb707f4725689dd388b"/>
-		</rom>
-		<rom name="3SKULLS.BAT" size="30" crc="6b9eedf9" md5="c831cd610bc21287d6fd2d7fabef1c7c" sha1="946c15ca21f977f64bca8a583d465ea00220febe"/>
-		<rom name="ADLIB.MDI" size="14986" crc="6871f64c" md5="5cb112d060d70a43ee7c89b7ffe4f029" sha1="1f19c757259cac7b5f04281ac8830f8bece3c8d2"/>
-		<rom name="ADLIBG.MDI" size="16377" crc="1d2a278b" md5="79d8137d4e6b78735b78cd8a4bd14827" sha1="14f61539bf8438f68add723fef2ef76821fa9fd8"/>
-		<rom name="ADRV688.DIG" size="11278" crc="96dfb75d" md5="feabc78729e3a458ae2f6ab40146f0d9" sha1="255ecb5d649895d65bca49bd6afcbdf875e34bf2"/>
-		<rom name="AILDRVR.LST" size="17948" crc="a9fdfa78" md5="074cd0f0f6e52e5deeb250e3cf70d544" sha1="ab4b2fa02954eac48fbba6c8c6818fe6e5b067cf"/>
-		<rom name="DOS4GW.EXE" size="265420" crc="cb214447" md5="ee4033581845b3b8d28c4b7287eb4fc2" sha1="a897c7eb79145a308c4e60b43413bb2daa360506"/>
-		<rom name="ESFM.MDI" size="15896" crc="399a4039" md5="6d0ab12338dd4acf62cf07dc1ec78239" sha1="cb3f3af40fb3069917ea2a1b7a57860f5d14f295"/>
-		<rom name="JAMMER.DIG" size="3219" crc="230129e0" md5="4922c729c5e7b347089a2be44f296859" sha1="103e0bf92c6fd1c9fc925fd57bdc22e56170b395"/>
-		<rom name="MPU401.MDI" size="1927" crc="b46f56c4" md5="0e641bcd4e0cc4d2e7d61df97384ebb5" sha1="3818842ce3ee2e5b3a536fdfba7b0680499323e3"/>
-		<rom name="MT32MPU.MDI" size="6980" crc="bdaf0222" md5="609666cbd6fe795d576a9b6aff5ac7d0" sha1="08a6bc68a710c57f48dc33cacaa83151767a0dec"/>
-		<rom name="NULL.MDI" size="1609" crc="93d88470" md5="8416b75a9db53a3a25f254ed45da4c57" sha1="be1424015a0c59de59dfc21226f3f2bfafbdb4ff"/>
-		<rom name="OPL3.MDI" size="16387" crc="74aad2f1" md5="84ce740acea5af9ef8d118174bff88c8" sha1="310b8b21f088ec0180c02c9fbe1edd744d76c9b2"/>
-		<rom name="PAS.MDI" size="15425" crc="01d01110" md5="bcc2a72a36663f40c019d0af2c95df13" sha1="a94fcb63700f1cbf46698d074526b5db48754b90"/>
-		<rom name="PASPLUS.MDI" size="16458" crc="c5a2ded9" md5="f5515c19a269ca2b1af13e9b3e3c3d3a" sha1="a9c4967e8ca11c529a49d8a54f8730b223c0289f"/>
-		<rom name="PCSPKR.MDI" size="4705" crc="9f6b860c" md5="29d094687340cb9536852f145e35114e" sha1="30a83056b006f4ed27aa9fa6e529fa823159bf1c"/>
-		<rom name="PICTURE.EXE" size="302236" crc="57049a3a" md5="4c08f767e926ea03a2ddf579f993ec31" sha1="b399cd1f955d6d85138d40b100ea90cd9962909e"/>
-		<rom name="PROAUDIO.DIG" size="2127" crc="4b071066" md5="a054071be574b2bcf47a0386f1a98ae6" sha1="8debfb262849ebce1da3d45387d1595712c2667b"/>
-		<rom name="RAP10.DIG" size="2849" crc="47373ef0" md5="bb846bb23ee9065a09373afdb73cf054" sha1="6081bc6e447afeaad48a8361c92e7ce280f6ea7e"/>
-		<rom name="SAMPLE.AD" size="3242" crc="11cde28d" md5="904b04063ff4e04c8fc33576e41c68a9" sha1="a99a70134fde20ef0c5dbf170a037f37a32cb425"/>
-		<rom name="SAMPLE.BNK" size="10780" crc="620f67a6" md5="d33f28cddaaca8c3befe78ab58236d6f" sha1="8d3b243ae88f8d75b48e9722ef75d6310872b152"/>
-		<rom name="SAMPLE.CAT" size="10484" crc="3eb22a32" md5="fda02004aa384b51518f9596d27ac75a" sha1="71adf8ad8b72b63a761bbf9426ddcd4b11bd28bd"/>
-		<rom name="SAMPLE.OPL" size="3242" crc="11cde28d" md5="904b04063ff4e04c8fc33576e41c68a9" sha1="a99a70134fde20ef0c5dbf170a037f37a32cb425"/>
-		<rom name="SB16.DIG" size="2836" crc="6ddaa5d2" md5="b24e361b7634b9b3eafcd2cbb592ba9b" sha1="f0734dae77c034f5cfcd7b353cd75adfb57871af"/>
-		<rom name="SBAWE32.MDI" size="32694" crc="dd43a7b8" md5="a66e04b5c067b95932857aff75f48f5d" sha1="a608005dd369a07f16e6acdadfd0fcdf95cc02ec"/>
-		<rom name="SBLASTER.DIG" size="3125" crc="d1b1a7d7" md5="b456d6385b74b700f09aec22ba14ca19" sha1="5eec3b5791ad5855c7a4440909db651b6aca3b2f"/>
-		<rom name="SBLASTER.MDI" size="15118" crc="670d5af4" md5="20fc92cf9e0d0d8e2447cd30252faee4" sha1="8e44d8bf0291e453d45477c6dd36fbd5ca40ac95"/>
-		<rom name="SBPRO.DIG" size="2763" crc="1061490f" md5="b0fe50da778c24cc4066e960a3d1a7c3" sha1="8bc27ebd0ec30dabfd354b948801946b7e8f33d8"/>
-		<rom name="SBPRO1.MDI" size="15471" crc="25370f67" md5="998eced7549230f6d621766f0cce4c39" sha1="92775d93ad5ee563ae8bf2b6f51ba8d444039e52"/>
-		<rom name="SBPRO2.MDI" size="16541" crc="0ab0493a" md5="8879265bf3b414346f66c326389e32ae" sha1="4a9d598979e14f4f8c0e76fe0246b305fb848955"/>
-		<rom name="SETSOUND.EXE" size="168737" crc="7a1fa975" md5="9912211c09ce1cf2e85f6da7bf4cd4ea" sha1="4bb75d2024abed1b3aab2a999a6744726564f9cf"/>
-		<rom name="SNDSCAPE.DIG" size="4171" crc="708a96a2" md5="9d7a052a680f45d244e0ee4735b7b55f" sha1="f9902b74d545813315194f5a1791c4ea0a9a1e0d"/>
-		<rom name="SNDSCAPE.MDI" size="2971" crc="ad1df3c2" md5="31ec7e6e06a3eb9e0bebff3e52ef1b0f" sha1="01e3ffef3aa6e9d312f190a9403ff8d167743aed"/>
-		<rom name="SNDSYS.DIG" size="3332" crc="86ecb774" md5="c67142fe53599b28ff7d53565576dbae" sha1="72a300265348a67c33945d0aa6b5c0ec3933dbcd"/>
-		<rom name="TANDY.MDI" size="5010" crc="8abb61f4" md5="59153a3c31e3e62b403cac8c11a5e848" sha1="6fe77cabd4b9b621568c38f6feaa36696b8aa56b"/>
-		<rom name="ULTRA.DIG" size="9478" crc="430d67f5" md5="000e584a06712d2f2b58eb2e17b65248" sha1="4327d6bb924b4e40fa7ff035bdfb73a879c31836"/>
-		<rom name="ULTRA.MDI" size="49672" crc="04849dc3" md5="9a1b881ab9e8f6d827f6c27c5df40d85" sha1="8337ada0962de33ee3eb8ebbf9d5d0c898f41fd2"/>
-	</game>
 	<game name="Abuse (1995) (Crack Dot Com).dosz">
 		<description>Abuse</description>
 		<comment>Installed Abuse v2.0f</comment>
