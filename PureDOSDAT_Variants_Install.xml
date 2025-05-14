@@ -220,6 +220,16 @@
 		<link type="media">https://www.goodolddays.net/diskimages/id%2C2669/</link>
 		<rom name="disk1.img" size="368640" crc="e43dc367" md5="e92abe7303ad97e390bb099ba1a05e0c" sha1="6d33429e698ec5a56c3dfdb7fc4a1e7bd145794e"/>
 	</game>
+	<game name="Crystal Caves (1991) (Apogee Software) (Installation).dosz">
+		<description>Crystal Caves</description>
+		<comment>v1.0</comment>
+		<year>1991</year>
+		<developer>Apogee Software</developer>
+		<variant>Installation</variant>
+		<rom name="Crystal Caves (USA).chd" size="1938816" crc="72d18719" md5="5d3ac50d1349ff7f2260ad1837a3749b" sha1="96da6a96505a7dd1960767e7b74df6313c4e8f85">
+			<track number="1" type="MODE1_RAW" frames="783" pregap="0" duration="00:10:33" size="1841616" crc="896bd427" md5="eddd0a3dc016229d55973697c35aefc5" sha1="b834598fd9e7b33bb5c8dcb27f871ec6c6e626cc" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
 	<game name="Cyberbykes - Shadow Racer VR (1995) (Gametek) (Installation).dosz">
 		<description>Cyberbykes - Shadow Racer VR</description>
 		<year>1995</year>
@@ -262,6 +272,16 @@
 			<track number="6" type="AUDIO" frames="17381" pregap="0" duration="03:51:56" size="40880112" crc="cfc06c72" md5="2610d680fa53874799382113dd2ab4bf" sha1="4f3154f9cfd2e3a0ae0769aa44821e519dd45aa3" in_zeros="8220" out_zeros="362975"/>
 			<track number="7" type="AUDIO" frames="19454" pregap="0" duration="04:19:29" size="45755808" crc="0e50d09a" md5="2899e391dcb2dc642f80b254e89aac9d" sha1="9a45bc9179e9b08b65a0b3bdfb1379d996df14b7" in_zeros="9796" out_zeros="386955"/>
 			<track number="8" type="AUDIO" frames="14901" pregap="0" duration="03:18:51" size="35047152" crc="975af50c" md5="fe83c4562b96d7a504dc80494e6d0b61" sha1="b05ae5cd5fc87bfc28859637571395a19135bdfc" in_zeros="9638" out_zeros="719287"/>
+		</rom>
+	</game>
+	<game name="Detroit (1994) (Impressions Games) (Installation).dosz">
+		<description>Detroit</description>
+		<year>1994</year>
+		<developer>Impressions Games</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/33565/</link>
+		<rom name="Detroit (USA).chd" size="4190976" crc="9db061a0" md5="9d19377f0f8d7cf06fdd5ce07c5312bb" sha1="9604947e8a938c4665915fd283369ee58168a588">
+			<track number="1" type="MODE1_RAW" frames="1698" pregap="0" duration="00:22:48" size="3993696" crc="6c106ed8" md5="a5f7199af47aa1aff59eb54670351079" sha1="7065d2526c03cc08f4721d4ff1ac5d9226f24557" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
 	<game name="Doom II (1994) (id Software) (Installation).dosz">
@@ -524,9 +544,11 @@
 	</game>
 	<game name="Monkey Island 2 - LeChuck's Revenge (1991) (Lucasfilm Games) (Installation).dosz">
 		<description>Monkey Island 2 - LeChuck's Revenge</description>
+		<comment>3.5" floppy disks</comment>
 		<year>1991</year>
 		<developer>Lucasfilm Games</developer>
 		<variant>Installation</variant>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C1277/</link>
 		<rom name="disk1.img" size="1474560" crc="590637cc" md5="9a18c6b15400ee4faeeb7a1b6ba7178d" sha1="9f6c1dff38aabdf81301d4f552ad8902832f971a"/>
 		<rom name="disk2.img" size="1474560" crc="164b0750" md5="b3a57a5169e0267119701a7dda8102a7" sha1="cb3740196c2d55405120114c7f172cf2033bf33a"/>
 		<rom name="disk3.img" size="1474560" crc="53311b2e" md5="15ea86677b028049e0cc159ceba31280" sha1="57a7d1fc2bebdcfc29ca15c8301a3eb1b24f25a4"/>
@@ -535,9 +557,11 @@
 	</game>
 	<game name="Monkey Island 2 - LeChuck's Revenge (1992) (Lucasfilm Games) (Installation, Germany).dosz">
 		<description>Monkey Island 2 - LeChuck's Revenge</description>
+		<comment>3.5" floppy disks</comment>
 		<year>1992</year>
 		<developer>Lucasfilm Games</developer>
 		<variant>Installation, Germany</variant>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C1089/</link>
 		<rom name="disk1.img" size="1474560" crc="972fe32e" md5="b4f3db3a32b0bbb59a438adc6d42303d" sha1="8bcc616fa1c7c10f5907aaed1cd5bd616fdc9023"/>
 		<rom name="disk2.img" size="1474560" crc="9892105d" md5="8953e312504596205ddbb856f9f47ee6" sha1="3c144ffabc731cd23739bc36b427e09381658b71"/>
 		<rom name="disk3.img" size="1474560" crc="c13e3621" md5="6f6b610af5d2186856b5e802bc5feacf" sha1="6f508241b87f3593573dfe07fb28e945c6be1a55"/>
@@ -570,6 +594,15 @@
 			<track number="9" type="AUDIO" frames="3014" pregap="150" duration="00:40:14" size="7088928" crc="c08d60e9" md5="7fd9e8aed2e9c37bc071e81cef56b32f" sha1="85054ccfedae4e695e6e14bee888c4846182168d" in_zeros="0" out_zeros="0"/>
 			<track number="10" type="AUDIO" frames="734" pregap="150" duration="00:09:59" size="1726368" crc="300e8553" md5="77894b232602d3cdd65573a8144ea0b9" sha1="fa08cdc1e90e92098a686812a4db9a6cec35e7c5" in_zeros="0" out_zeros="527643"/>
 		</rom>
+	</game>
+	<game name="Prince of Persia (1990) (Broderbund Software) (Installation).dosz">
+		<description>Prince of Persia</description>
+		<comment>v1.3, 3.5" floppy disk</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=732</link>
+		<year>1990</year>
+		<developer>Broderbund Software</developer>
+		<variant>Installation</variant>
+		<rom name="disk1.img" size="737280" crc="62336557" md5="ee08b1ef95e55b8cec271ae6483af99c" sha1="adb0b10899baa7cb0e53b612e12e6ae7ac929400"/>
 	</game>
 	<game name="Prisoner of Ice (1995) (Infogrames) (Installation).chd">
 		<description>Prisoner of Ice</description>
