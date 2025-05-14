@@ -64,6 +64,25 @@
 		<rom name="disk1.img" size="1474560" crc="823798f5" md5="da445593f85ec7e3423df755ce5671c3" sha1="fcf4786b4d867577ea0911a40ceac5531a9995ec"/>
 		<rom name="disk2.img" size="1474560" crc="367f6fdc" md5="9d4b0d7ab112808a6d2221953cbbf956" sha1="176c46d57df5e8fe9221998b0f3d3ba7a096a836"/>
 	</game>
+	<game name="Alien Rampage (1996) (Inner Circle Creations) (Installation).dosz">
+		<description>Alien Rampage</description>
+		<year>1996</year>
+		<developer>Inner Circle Creations</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/37611/</link>
+		<rom name="Alien Rampage (USA).chd" size="85425408" crc="760c9b76" md5="da9c04536641c8fb4d03ae1abefdcd36" sha1="343278b44f610369d3cb51e279fc023ad8191a64">
+			<track number="1" type="MODE1_RAW" frames="34884" pregap="0" duration="07:45:09" size="82047168" crc="c23238a5" md5="7b42aec4944720f0527fa3b788f9578e" sha1="577a21d46d6378ee646347ad83f4d4c8f96b1b08"/>
+		</rom>
+	</game>
+	<game name="Altered Beast (1990) (Sega) (Installation).dosz">
+		<description>Altered Beast</description>
+		<year>1990</year>
+		<developer>Sega</developer>
+		<variant>Installation</variant>
+		<comment>3.5" floppy disk matching with TGOD ID: 2673</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=2673</link>
+		<rom name="disk1.img" size="737280" crc="070baa83" md5="78f74854c3dc2af2560e502d2ceb1385" sha1="832ef8c46960698bc0c832cede130f20e1bd4992"/>
+	</game>
 	<game name="Altered Destiny (1990) (Accolade) (Installation).dosz">
 		<description>Altered Destiny</description>
 		<comment>3.5" floppy disks</comment>
@@ -300,6 +319,32 @@
 		<rom name="disk2.img" size="737280" crc="61663864" md5="33de5549d78ee7674b91e3e8d90a5396" sha1="02865bc61fe45a8031c608ec7c76ef9f05ac8ae3" date="1996-12-24 18:32:00"/>
 		<rom name="disk3.img" size="737280" crc="1e6c2f9b" md5="c52eea8b23e025474dc31e19da44ffa1" sha1="95f5673450c7f81d296887506e7109b45d022b32" date="1996-12-24 18:32:00"/>
 		<rom name="disk4.img" size="737280" crc="a35399e0" md5="6a3520b494adfdc2e9221b69a823fafa" sha1="da4d4814782be5a14429c193e66993764a1cd0cc" date="1996-12-24 18:32:00"/>
+	</game>
+	<game name="Conquests of Camelot - The Search for the Grail (1990) (Sierra On-Line) (Installation).dosz">
+		<description>Conquests of Camelot - The Search for the Grail</description>
+		<year>1990</year>
+		<developer>Sierra On-Line</developer>
+		<variant>Installation</variant>
+		<comment>3.5" floppy disks matching with TGOD ID: 1127</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1127</link>
+		<rom name="disk1.img" size="737280" crc="0ca795fc" md5="b263b8df02be566adb3eabcffa3625a4" sha1="4d3b25cbf4d4782c54767c0dbfd63f15443a0200"/>
+		<rom name="disk2.img" size="737280" crc="88b65db5" md5="f7b8038b36e8dba59eda985b53d518fb" sha1="c32bfd802776df4986ae7335ab7182af899de969"/>
+		<rom name="disk3.img" size="737280" crc="1b3a6edb" md5="f436c8f205e0af4437073f6edf33942c" sha1="1ca7bae05d0c4eb602f64cc4c76939561f56c2be"/>
+		<rom name="disk4.img" size="737280" crc="0425a6aa" md5="8f4bf3ba9dd335dd1c5389ceca7d7056" sha1="6a5b771e52508035a869bfde3076ee70d15a1899"/>
+	</game>
+	<game name="Conquests of the Longbow - The Legend of Robin Hood (1991) (Sierra On-Line) (Installation).dosz">
+		<description>Conquests of the Longbow - The Legend of Robin Hood</description>
+		<year>1991</year>
+		<developer>Sierra On-Line</developer>
+		<variant>Installation</variant>
+		<comment>v1.1. 3.5" floppy disks matching with TGOD ID: 183</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=183</link>
+		<rom name="disk1.img" size="1474560" crc="23205fb7" md5="b58072ca487b27bd18d1e6a3ec013118" sha1="8e4cd0e8e816b9b024355d26db76ef82eb2eb99f"/>
+		<rom name="disk2.img" size="1474560" crc="58891899" md5="25d0ca86939ec074eeb0307acf04dbed" sha1="a8d818cd029a52780323c132bbab6586cf8a94c3"/>
+		<rom name="disk3.img" size="1474560" crc="13abed70" md5="087b3a17709a42a8ae4f7c6c7bc14ba6" sha1="45d557dea25060f45a7512cc9df0cf47f4401b1e"/>
+		<rom name="disk4.img" size="1474560" crc="054e8779" md5="b8b16fef598ded47bd9c3538c27a315e" sha1="171f9945a56c7f58b7fe30b6d8eb64d0515d419c"/>
+		<rom name="disk5.img" size="1474560" crc="4b5a0404" md5="e5ad5435e4f269ddbb72e86a473673b7" sha1="310538c6450a76e5c3340e3e01515aebba99f782"/>
+		<rom name="startup.img" size="1474560" crc="ecebaabc" md5="775fb316947e2a167454d5db14a593de" sha1="7ccdaaa887ab715bf765f2f79916e741d6f92e83"/>
 	</game>
 	<game name="Cosmo's Cosmic Adventure (1992) (Apogee Software) (Installation).dosz">
 		<description>Cosmo's Cosmic Adventure</description>
@@ -629,6 +674,15 @@
 		<rom name="disk10.img" size="1474560" crc="ab59864a" md5="2a51f695c05bb8869337aad0be5b836d" sha1="901219ae2af48255e6e95e67f51189c3f50cdd80"/>
 		<rom name="disk11.img" size="1474560" crc="6b2611ed" md5="c502d3ebea78a087cd266ecaf640c0ae" sha1="0579dd23c5be9ec7d8f9cbae91d2c5b46572099f"/>
 	</game>
+	<game name="Golden Axe (1990) (Sega) (Installation).dosz">
+		<description>Golden Axe</description>
+		<year>1990</year>
+		<developer>Sega</developer>
+		<variant>Installation</variant>
+		<comment>3.5" floppy disk matching with TGOD ID: 2184, and also with TDC entry: Golden Axe (1990)(Virgin Games, Ltd) [IMA][720k][!]</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=2184</link>
+		<rom name="disk01.img" size="737280" crc="174e89c7" md5="01fec6ced1725f0f03a1637104849410" sha1="25464172fedb6e3fa7d3626be5dae591a1aa6fb9"/>
+	</game>
 	<game name="Halloween Harry (1993) (Apogee Software) (Installation).dosz">
 		<description>Halloween Harry</description>
 		<comment>Floppies matching TGOD ID: 2636</comment>
@@ -819,6 +873,17 @@
 		<rom name="disk2.img" size="1474560" crc="bf34177e" md5="2b83d9d561dab87a6873077a393a4a3a" sha1="732d5d8303b3f07cd792c9f67c62ae44ae4b1af7"/>
 		<rom name="disk3.img" size="1474560" crc="d824eab8" md5="d2141c8c28aae5b43252b902d2e17fdd" sha1="855940b455d9c3fe110635aeb3901a48934e045e"/>
 	</game>
+	<game name="Kingdom - The Far Reaches (1996) (Interplay) (Installation).dosz">
+		<description>Kingdom - The Far Reaches</description>
+		<comment>Redump-verified CD-ROM: Kingdom - The Far Reaches (Europe)</comment>
+		<year>1996</year>
+		<developer>Interplay</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/47115/</link>
+		<rom name="Kingdom - The Far Reaches (Europe).chd" size="528591744" crc="1d6eb26f" md5="05f7080f91f3a8e26d7df2ac515cd8c0" sha1="a85b633aae69dba46475afca3a3726b48d7ce14d">
+			<track number="1" type="MODE1_RAW" frames="215876" pregap="0" duration="47:58:26" size="507740352" crc="6433a11c" md5="3d608146b8e53fdab8dad56771a932ec" sha1="31976c062079b3614a2fdf263b2541edd92e0e0f"/>
+		</rom>
+	</game>
 	<game name="Labyrinth of Time, The (1993) (Terra Nova Development) (Installation).dosz">
 		<description>Labyrinth of Time, The</description>
 		<comment>Redump-verified CD-ROM: Labyrinth of Time, The (USA)</comment>
@@ -872,6 +937,15 @@
 		<rom name="disk2.img" size="737280" crc="764da830" md5="9c661023b0f2ac4073574627b299c07b" sha1="bd22128feae4453383773a5b31197251d0315649"/>
 		<rom name="disk3.img" size="737280" crc="e4fa0f70" md5="5c44245bb6e96f7cefc1bcde6ee965c7" sha1="b63f50efa729b2d7618d04b5f2d6d55fb0f917b1"/>
 	</game>
+	<game name="Lexi-Cross (1991) (Interplay Productions) (Installation).dosz">
+		<description>Lexi-Cross</description>
+		<year>1991</year>
+		<developer>Interplay Productions</developer>
+		<variant>Installation</variant>
+		<comment>3.5" floppy disk matching with TGOD ID: 2493, and also with TDC entry: Lexi-Cross r910318 (1991)(Interplay Productions, Inc.) [IMA][720k]</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=2493</link>
+		<rom name="disk1.img" size="737280" crc="872999a4" md5="307441700e0adeb099f2beff3f40c000" sha1="03b27064febc6b00122fd091486d24b7c72896ad"/>
+	</game>
 	<game name="Lion King, The (1994) (East Point Software) (Installation).dosz">
 		<description>Lion King, The</description>
 		<year>1994</year>
@@ -896,6 +970,20 @@
 		<rom name="disk4.img" size="1474560" crc="b15482b6" md5="3ca32b0aed5fd0d7e200f7524fa9aeb6" sha1="a865869c0b0a7e5bcf66326c59327d5ca29df086"/>
 		<rom name="disk5.img" size="1474560" crc="f2995e83" md5="0b638d13ab1546afc1070d3400e16360" sha1="95d6c0d348e33eef4b54268557223faf339721ed"/>
 	</game>
+	<game name="Loom (1990) (Lucasfilm Games) (Installation, Floppy Version).dosz">
+		<description>Loom</description>
+		<year>1990</year>
+		<developer>Lucasfilm Games</developer>
+		<variant>Installation, Floppy Version</variant>
+		<comment>EGA unvoiced version. 5.25" floppy disks matching with TGOD ID: 1620, and also with TDC entry: Loom (1990)(Lucasfilm Games LLC) [IMA][360k][!]</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1620</link>
+		<rom name="disk1.img" size="368640" crc="ab2ddc74" md5="63f95df862b1b3c21570c05eab7eb269" sha1="1d8877b58e282c63ac2968259c665619838d96e1"/>
+		<rom name="disk2.img" size="368640" crc="0b4ac73f" md5="6f8200f73929f259947e6e3456a5e123" sha1="7c484107bcf768fda9fadccd6dd1be2c79b319e9"/>
+		<rom name="disk3.img" size="368640" crc="d70f5490" md5="04a932d76c3180a25aca787669db83fc" sha1="46bb1203d2d11a08860a8ae91351686506ef86dc"/>
+		<rom name="disk4.img" size="368640" crc="bf19a5a0" md5="4e7a825188e260742f3691f276ef3f1b" sha1="daae465ecdb7b60c6f32ae0ba78509069affe28a"/>
+		<rom name="disk5.img" size="368640" crc="493462c3" md5="20a7e7a89be543b2ad819cb311bf6386" sha1="72bd6ca8f500fd821140fa1b7f4e0e6cedcd2ddb"/>
+		<rom name="disk6.img" size="368640" crc="c5f65522" md5="71f9333a94b23aef02a6db9783094dfb" sha1="c1046af2aeae58b2b9f35a2a3289672cef5fd000"/>
+	</game>
 	<game name="Lords of the Realm (1994) (Impressions Software) (Installation).dosz">
 		<description>Lords of the Realm</description>
 		<link type="media">http://redump.org/disc/47052/</link>
@@ -916,6 +1004,16 @@
 		<rom name="Lords of the Realm II (USA).chd" size="670614912" crc="08a9ef34" md5="eb6ab938b6bd0f4c57b76ac13c005786" sha1="8a8a298f469a24ac9c04070d9e623e6fccd223bc">
 			<track number="1" type="MODE1_RAW" frames="273875" pregap="0" duration="60:51:50" size="644154000" crc="243af36f" md5="aced5d5ea401ee5847e9667c8ee8c7b9" sha1="6a3a4453e9df9f767096a5de022af3b81b535099" in_zeros="1" out_zeros="0"/>
 		</rom>
+	</game>
+	<game name="Lost Secret of the Rainforest (1993) (Sierra On-Line) (Installation).dosz">
+		<description>Lost Secret of the Rainforest</description>
+		<year>1993</year>
+		<developer>Sierra On-Line</developer>
+		<variant>Installation</variant>
+		<rom name="disk1.img" size="1474560" crc="928b6938" md5="a139e3b8bdd32b5c96c740027d119c5d" sha1="dfdb8016199449f31e35263abc4633817903879c"/>
+		<rom name="disk2.img" size="1474560" crc="4df71266" md5="148d526c33a538613258bf4e4f58e14f" sha1="bc7f921613d1532527a47745216e06f14978fece"/>
+		<rom name="disk3.img" size="1474560" crc="f136adec" md5="f94faa1267c8ca1768b1fe3e09a57e87" sha1="ae38783bbae77f52c9cee212e08b4ecfb09b8389"/>
+		<rom name="disk4.img" size="1474560" crc="cb40e901" md5="a3a58f3c74cafb0ca1556ef5fc33c820" sha1="a53abd71c3e2de1b40ce42f8475cf3aabec2408c"/>
 	</game>
 	<game name="Manhunter - New York (1988) (Sierra On-Line) (Installation).dosz">
 		<description>Manhunter - New York</description>
@@ -1057,6 +1155,15 @@
 		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1895</link>
 		<rom name="disk01.img" size="737280" crc="5750f887" md5="5d56c098ac3eb635c732fb17375abf36" sha1="40eacb771aad0a017aece21be734f1fd4253d1a7"/>
 	</game>
+	<game name="Ninja Gaiden (1990) (Tecmo) (Installation).dosz">
+		<description>Ninja Gaiden</description>
+		<year>1990</year>
+		<developer>Tecmo</developer>
+		<variant>Installation</variant>
+		<comment>3.5" floppy disk matching with TGOD ID: 1416, and also with TDC entry: Ninja Gaiden (1990)(Hi-Tech Expressions, Inc.) [IMA][720k][!]</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1416</link>
+		<rom name="disk1.img" size="737280" crc="392856c8" md5="c22a290b49177bf2c620f256156709d3" sha1="95d4cd9a87d44a70a8da75ce7504148450dffe6e"/>
+	</game>
 	<game name="Ninja Gaiden II - The Dark Sword of Chaos (1991) (Tecmo) (Installation).dosz">
 		<description>Ninja Gaiden II - The Dark Sword of Chaos</description>
 		<comment>3.5 Floppy matching TGOD entry 2205</comment>
@@ -1065,6 +1172,16 @@
 		<variant>Installation</variant>
 		<link type="media">https://www.goodolddays.net/en/diskimages/?id=2205</link>
 		<rom name="disk01.img" size="737280" crc="f69da21d" md5="8ddf2b32f7259bcb1cc6eef006f9e8f8" sha1="d9a8bc1d5a9d4314c3b4df078fdd7aa7d92a7b6c" date="2015-06-16 20:30:04"/>
+	</game>
+	<game name="Novastorm (1994) (Psygnosis) (Installation).dosz">
+		<description>Novastorm</description>
+		<year>1994</year>
+		<developer>Psygnosis</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/3914/</link>
+		<rom name="Novastorm (Europe) (En,Fr,De).chd" size="590222592" crc="737eb016" md5="a587eda4d640bac0b36e457d5293c718" sha1="62484d66a60cffadd6d66a8066224010535fe355">
+			<track number="1" type="MODE1_RAW" frames="241048" pregap="0" duration="53:33:73" size="566944896" crc="057f9d69" md5="06007ba71019aa7c3ac728ccce2d1f3e" sha1="7674177cd3448a261612ef398e65733c3077e3b5" in_zeros="1" out_zeros="0"/>
+		</rom>
 	</game>
 	<game name="Oddworld - Abe's Oddysee (1997) (Oddworld Inhabitants) (Installation).dosz">
 		<description>Oddworld - Abe's Oddysee</description>
@@ -1158,6 +1275,67 @@
 		<comment>v3.0, 3.5" floppy disk</comment>
 		<link type="media">https://www.goodolddays.net/diskimages/id%2C2004/</link>
 		<rom name="disk01.img" size="737280" crc="0923275f" md5="f3a19584b0f4235e42229a1f3ffb79bc" sha1="cab3ad6cecda45f44d1721b9da1a93d6b4cfc6d6"/>
+	</game>
+	<game name="Pinball Power Pack (1996) (21st Century Entertainment) (Installation).dosz">
+		<description>Pinball Power Pack</description>
+		<year>1996</year>
+		<developer>21st Century Entertainment</developer>
+		<variant>Installation</variant>
+		<comment>AKA Pinball Gold Pack. Contains Pinball Dreams, Pinball Dreams 2, Pinball Fantasies, Pinball Illusions, and Pinball Mania</comment>
+		<link type="media">http://redump.org/disc/65337/</link>
+		<rom name="Pinball Power Pack (Europe).chd" size="630487296" crc="ab712705" md5="f758352a02479c046c9f73463edd8163" sha1="6b103548bed723290d521d4c7cbc65354d484d6a">
+			<track number="1" type="MODE1_RAW" frames="5270" pregap="0" duration="01:10:20" size="12395040" crc="512666db" md5="2dcd7f0283c6a43f47b9195f04159b95" sha1="3083f4c555aca5965b893259346e7ed57b5aab17" in_zeros="1" out_zeros="0"/>
+			<track number="2" type="AUDIO" frames="13875" pregap="150" duration="03:05:00" size="32634000" crc="08fa50d1" md5="13e334844934fe91615a18961e8c4cc6" sha1="933a276fc1f08de3206f8e50722de9446c791233" in_zeros="352800" out_zeros="18817"/>
+			<track number="3" type="AUDIO" frames="3375" pregap="150" duration="00:45:00" size="7938000" crc="1b8ebd50" md5="7e3d9970ce63b17189c796aa5bf4ced3" sha1="425e6cfff5572eee75ca3797f717f2187593c4d6" in_zeros="354152" out_zeros="82320"/>
+			<track number="4" type="AUDIO" frames="1950" pregap="150" duration="00:26:00" size="4586400" crc="8fa0d162" md5="abd7d02fe9ce51fedec4b1c91ca024b6" sha1="40f0e50ab395c7cf98d6793986ba0a04bc073490" in_zeros="353808" out_zeros="497060"/>
+			<track number="5" type="AUDIO" frames="4500" pregap="150" duration="01:00:00" size="10584000" crc="07eea43b" md5="5178cda170f5721223c2ae079555075b" sha1="96e3059b75672af09841c2686b63f9b7b3ce9782" in_zeros="352800" out_zeros="94081"/>
+			<track number="6" type="AUDIO" frames="4725" pregap="150" duration="01:03:00" size="11113200" crc="a74e302a" md5="c36aab2e7d2a080e4d15ae960d578a5b" sha1="f4bb8971d4a107608004f42e0715ad20b9b9d854" in_zeros="354984" out_zeros="431693"/>
+			<track number="7" type="AUDIO" frames="5325" pregap="150" duration="01:11:00" size="12524400" crc="221410b6" md5="c5c86d20d90d6c1d2ab9085bd84a9614" sha1="0a15d8c92c786039f7b68296b2f37acc72c9815b" in_zeros="355020" out_zeros="509581"/>
+			<track number="8" type="AUDIO" frames="5175" pregap="150" duration="01:09:00" size="12171600" crc="34957ca4" md5="6fc4272de9b806c4720af2eec3f37342" sha1="eaa0aa9ab1d6057a1bbf9d3771d8d2f47fe4df56" in_zeros="355032" out_zeros="409773"/>
+			<track number="9" type="AUDIO" frames="1050" pregap="150" duration="00:14:00" size="2469600" crc="03b79d64" md5="28340d0c03482fb9df0c3722a5868904" sha1="1003ff584f0b335bc22deda2460739da4d180fa6" in_zeros="354972" out_zeros="376293"/>
+			<track number="10" type="AUDIO" frames="3975" pregap="150" duration="00:53:00" size="9349200" crc="926e2275" md5="f604bc462554e42dff6ca3568be4dc7e" sha1="e67ce02ab829633ec80a05e231eb2bb6a9d1ce76" in_zeros="353260" out_zeros="384265"/>
+			<track number="11" type="AUDIO" frames="3000" pregap="150" duration="00:40:00" size="7056000" crc="21ae176f" md5="29450c2100ed3c868737e56d0fc61914" sha1="1815dd55217e09d0dad9273f634d6b04dd74bdf4" in_zeros="352800" out_zeros="115249"/>
+			<track number="12" type="AUDIO" frames="3750" pregap="150" duration="00:50:00" size="8820000" crc="15ae0af5" md5="82578338956948afcb96f95859f98b76" sha1="8506fb9e05e0e4265a5105525e25c1d95c2666f9" in_zeros="353056" out_zeros="412113"/>
+			<track number="13" type="AUDIO" frames="4350" pregap="150" duration="00:58:00" size="10231200" crc="e8470814" md5="c335290e095623ab7d6fafca8ebab949" sha1="bdfcae551cc949747e3d14284e90ef55c1135f69" in_zeros="353072" out_zeros="456625"/>
+			<track number="14" type="AUDIO" frames="16725" pregap="150" duration="03:43:00" size="39337200" crc="40c0cdac" md5="75be1dfd4954aeeb976c30bfe8587ce1" sha1="d56a1abcbb73a369f84e35c92b209a95213c7327" in_zeros="352800" out_zeros="42337"/>
+			<track number="15" type="AUDIO" frames="16350" pregap="150" duration="03:38:00" size="38455200" crc="43f2ee09" md5="995f76b15ab49fcf8d46e595eeeb2daa" sha1="e41f4e2f0ed6e15b157ad12219c9ec0a6dfad14a" in_zeros="352800" out_zeros="32929"/>
+			<track number="16" type="AUDIO" frames="11025" pregap="150" duration="02:27:00" size="25930800" crc="b374310e" md5="25568476d25459941533ee959793291f" sha1="4d5e576ba2546c0c088d17d8879db0803f9b4c00" in_zeros="352984" out_zeros="447425"/>
+			<track number="17" type="AUDIO" frames="3825" pregap="150" duration="00:51:00" size="8996400" crc="28b99c5b" md5="a401158192d7d05cde112a305943a470" sha1="383574238483ebb30eff573dcfa2ab275c6cc38f" in_zeros="352800" out_zeros="380729"/>
+			<track number="18" type="AUDIO" frames="7875" pregap="150" duration="01:45:00" size="18522000" crc="6e3feac5" md5="dbc4f14d695e8836ca5a0d97395624c9" sha1="1d9771fb1f6db514e92b37b2a144354c9c27e352" in_zeros="355084" out_zeros="501065"/>
+			<track number="19" type="AUDIO" frames="1650" pregap="150" duration="00:22:00" size="3880800" crc="f29cf9a3" md5="216d7866941f3428dca1da9dae5ce73b" sha1="57ba31bf4a32f511b85c3eda4be1c3b656842ed0" in_zeros="355048" out_zeros="510017"/>
+			<track number="20" type="AUDIO" frames="4725" pregap="150" duration="01:03:00" size="11113200" crc="8a82190e" md5="067fee6ab34d869bbc2605ab98084f09" sha1="5a36de024cdc416a2d9d65af643640e3105358c3" in_zeros="355096" out_zeros="455989"/>
+			<track number="21" type="AUDIO" frames="5175" pregap="150" duration="01:09:00" size="12171600" crc="8c9947f7" md5="516325fd647dc4375d1aeb92ad0d89fc" sha1="806dea817088f4adeeeebf772dd68b7107ce2a74" in_zeros="355052" out_zeros="502441"/>
+			<track number="22" type="AUDIO" frames="4875" pregap="150" duration="01:05:00" size="11466000" crc="a8317f5e" md5="3972b87d5d7a3ece87690255acd7cb5e" sha1="5b00d51744e231af46ee4db181b91e2db2e5f5a3" in_zeros="355080" out_zeros="377781"/>
+			<track number="23" type="AUDIO" frames="7800" pregap="150" duration="01:44:00" size="18345600" crc="33ac010b" md5="b2c6a1e0d4ca389334e95fb263a9ae80" sha1="8b738accc6016e0a04774d157aaa8f65baaa8b4e" in_zeros="355040" out_zeros="490524"/>
+			<track number="24" type="AUDIO" frames="5400" pregap="150" duration="01:12:00" size="12700800" crc="4925adc4" md5="a5b7d66071bfa2265df324b2df1b588b" sha1="ca46feaa2a6820a2be5016931d5a3018b0b20bab" in_zeros="355064" out_zeros="514181"/>
+			<track number="25" type="AUDIO" frames="4350" pregap="150" duration="00:58:00" size="10231200" crc="f31bb30f" md5="65725a15b68a3406aced9c5d44d66dd8" sha1="26de713c6a7a8dafa1aed88a22cc13902275fc71" in_zeros="355104" out_zeros="413833"/>
+			<track number="26" type="AUDIO" frames="10500" pregap="150" duration="02:20:00" size="24696000" crc="03192722" md5="81c1e257e7f1f31eea0883b4145f4fc5" sha1="0136b3c454e18c0c033f352a3bf51e4cc8eb152c" in_zeros="355080" out_zeros="368649"/>
+			<track number="27" type="AUDIO" frames="4650" pregap="150" duration="01:02:00" size="10936800" crc="e161f5c9" md5="014b938a0b0e957aa741aec635a292d9" sha1="b9141b691b8612a42a85402c688fba844806c5ec" in_zeros="355052" out_zeros="524041"/>
+			<track number="28" type="AUDIO" frames="3225" pregap="150" duration="00:43:00" size="7585200" crc="8e2c87ca" md5="6f08fa3a3627db0ce2f4c4d8eb6d7e7e" sha1="94f4531dce3b0b7c3c4fd253cdbbe9d819056f0c" in_zeros="355040" out_zeros="358069"/>
+			<track number="29" type="AUDIO" frames="4500" pregap="150" duration="01:00:00" size="10584000" crc="b81cdbdc" md5="a88e418b348b8c51aa4852aaafd6201e" sha1="b0763a23a358e70c96bbbb55a9e6dabfb91fb784" in_zeros="355064" out_zeros="358801"/>
+			<track number="30" type="AUDIO" frames="5025" pregap="150" duration="01:07:00" size="11818800" crc="5d7e4aae" md5="223986b1370ad98c4b6338347c36e644" sha1="2b83b7932f298c64c750a0b12f7deb1635300a24" in_zeros="355072" out_zeros="454977"/>
+			<track number="31" type="AUDIO" frames="4725" pregap="150" duration="01:03:00" size="11113200" crc="c2f8fcdb" md5="2958e512ce2838872077f52776e41426" sha1="6520b7629c9bd4ef6789397d0228a0ac4c87fafd" in_zeros="355096" out_zeros="401181"/>
+			<track number="32" type="AUDIO" frames="3975" pregap="150" duration="00:53:00" size="9349200" crc="bdde5f6f" md5="a2225893f34f27143ec95a6d92347d56" sha1="3b3acd25ceee44046adc3ae396c27794b53b6ea3" in_zeros="355048" out_zeros="367405"/>
+			<track number="33" type="AUDIO" frames="3750" pregap="150" duration="00:50:00" size="8820000" crc="c014dbeb" md5="64905874fbe39f3b0602735b9ae56fb2" sha1="348b706af0fe3b251d2be7aa257a7c21c055be11" in_zeros="355040" out_zeros="449905"/>
+			<track number="34" type="AUDIO" frames="4800" pregap="150" duration="01:04:00" size="11289600" crc="5498f36d" md5="77b5147f54249800ceb6568045875a2a" sha1="7de9f48d0db43cc8ad13651984e13d73ca042014" in_zeros="355080" out_zeros="406761"/>
+			<track number="35" type="AUDIO" frames="4200" pregap="150" duration="00:56:00" size="9878400" crc="d46218cf" md5="ef1d9d905dfa9d297e896e6009b0b274" sha1="b1ed2e06b41b8597e255939d64d1b7a238678ca5" in_zeros="355076" out_zeros="447645"/>
+			<track number="36" type="AUDIO" frames="4200" pregap="150" duration="00:56:00" size="9878400" crc="84e2828c" md5="e75bdab62605805b039da6865d4a3526" sha1="a165f659f61a029a6627ab873d866ce238909521" in_zeros="355088" out_zeros="524725"/>
+			<track number="37" type="AUDIO" frames="3900" pregap="150" duration="00:52:00" size="9172800" crc="338cbfbb" md5="cfd34a4dbe9bb82a38fbee1db603e1f5" sha1="7e2845df2162ae0529839beccc17b623a2ee68e8" in_zeros="355048" out_zeros="451877"/>
+			<track number="38" type="AUDIO" frames="4650" pregap="150" duration="01:02:00" size="10936800" crc="76b66d75" md5="a319c48b3e628de10c4ccba44c0dd019" sha1="9b525449523eec26c51273d5e3eb1d5b76c297ed" in_zeros="355044" out_zeros="448145"/>
+			<track number="39" type="AUDIO" frames="8625" pregap="150" duration="01:55:00" size="20286000" crc="cfd668d7" md5="07b4d811cfbe0c33a9c9048c66b3ddf1" sha1="565479e334c4f84a210a3df140c5636f7c103582" in_zeros="355084" out_zeros="376393"/>
+			<track number="40" type="AUDIO" frames="3225" pregap="150" duration="00:43:00" size="7585200" crc="b2fc1a69" md5="f5647afc6f27c0cf2c59ba267444d14c" sha1="99771d33bf825534503a4ff0f6b1f2a167f63b83" in_zeros="355052" out_zeros="472880"/>
+			<track number="41" type="AUDIO" frames="3750" pregap="150" duration="00:50:00" size="8820000" crc="2a4c0202" md5="1fd78d11d3bcf099c1672ca71dd5590c" sha1="200e7d65e487c969896569e865fab33438ec9680" in_zeros="355076" out_zeros="482264"/>
+			<track number="42" type="AUDIO" frames="3375" pregap="150" duration="00:45:00" size="7938000" crc="febc6ee8" md5="e76074bcf1d42d123221d0371c1142f2" sha1="37399aad58e8c562539af79a83bfd336b4642cbe" in_zeros="355048" out_zeros="435253"/>
+			<track number="43" type="AUDIO" frames="4275" pregap="150" duration="00:57:00" size="10054800" crc="6e60cf43" md5="28c18f3f63dd1e0ad058d2f0a21cd52d" sha1="6b7b5d39d9819c77839eb3328dce6b5e4ec2cbfb" in_zeros="355112" out_zeros="404612"/>
+			<track number="44" type="AUDIO" frames="3525" pregap="150" duration="00:47:00" size="8290800" crc="fb0dff34" md5="c3d071401fa3f8f92d2e808f57cb5042" sha1="4a26d1d6bcc76b8d214b7614253a30a83890a8f0" in_zeros="355048" out_zeros="439933"/>
+			<track number="45" type="AUDIO" frames="2700" pregap="150" duration="00:36:00" size="6350400" crc="37edadf1" md5="7fa91d994af62499e27d9f76fc2c420e" sha1="2a064223eff355451500e19d86b5d60111424133" in_zeros="355096" out_zeros="399924"/>
+			<track number="46" type="AUDIO" frames="3075" pregap="150" duration="00:41:00" size="7232400" crc="f3547925" md5="1643815303fbb9fb46decd13e170a4de" sha1="379923bbd69fa5e938daba693f7ec751ea867ddf" in_zeros="355080" out_zeros="399940"/>
+			<track number="47" type="AUDIO" frames="4125" pregap="150" duration="00:55:00" size="9702000" crc="62b10877" md5="d312d1cfb3b4e3a3b9dc98b4b9927cfc" sha1="e1d866ae793fe0398a5b715dc8b3f5b8f4323f64" in_zeros="355088" out_zeros="529293"/>
+			<track number="48" type="AUDIO" frames="3450" pregap="150" duration="00:46:00" size="8114400" crc="c4aa4501" md5="7bde37963673b6697e60fff9b0de7f1f" sha1="f20ea366a73a07ac74898ff44c8e027b6dfcd90c" in_zeros="355076" out_zeros="378777"/>
+			<track number="49" type="AUDIO" frames="3225" pregap="150" duration="00:43:00" size="7585200" crc="e8870bb8" md5="64eefaf6d1a81d2ddd37ae9f1f76f84c" sha1="19c59cb4c0713804d412e922d557b3e09b3e309d" in_zeros="355056" out_zeros="378797"/>
+			<track number="50" type="AUDIO" frames="3975" pregap="150" duration="00:53:00" size="9349200" crc="b66b3792" md5="f22a899cb339cca70b16c0b67dd1197c" sha1="f8a6da474d1c97b8da213575091fadfffda35a08" in_zeros="355100" out_zeros="522224"/>
+			<track number="51" type="AUDIO" frames="15525" pregap="150" duration="03:27:00" size="36514800" crc="6e1938c5" md5="94e20d7aba956e9e5e92dfcd2230e481" sha1="748d14a16509a366469953e264c868e1d4b81caf" in_zeros="355084" out_zeros="385297"/>
+		</rom>
 	</game>
 	<game name="Pipe Dream (1989) (The Assembly Line) (Installation).dosz">
 		<description>Pipe Dream</description>
@@ -1380,6 +1558,16 @@
 			<track number="9" type="AUDIO" frames="13179" pregap="149" duration="02:55:54" size="30997008" crc="3b518a75" md5="b3684a6a9c2836a84c10258de219df8f" sha1="09dee234efe2fd13d2f04a81d736cd57d9d03bc1" in_zeros="891756" out_zeros="2120" trimmed_crc="0d1bd4f5"/>
 		</rom>
 	</game>
+	<game name="Settlers, The (1993) (Blue Byte Software) (Installation).dosz">
+		<description>Settlers, The</description>
+		<year>1993</year>
+		<developer>Blue Byte Software</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/38416/</link>
+		<rom name="Settlers, The (Europe) (Rerelease).chd" size="617052672" crc="99ac8ce9" md5="19a983962bc0dffa4258d28a9402a6d5" sha1="7387586f03e0683baf7a699252e5ec58b4908df4">
+			<track number="1" type="MODE2_RAW" frames="252006" pregap="0" duration="56:00:06" size="592718112" crc="82f0d9cf" md5="9824ca767b0a5f35931009ff4def7be7" sha1="60bf49a1563d6e7070a4338e7c868cc60d6157d9" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
 	<game name="Shadow Sorcerer (1991) (U.S. Gold) (Installation).dosz">
 		<description>Shadow Sorcerer</description>
 		<comment>The Good Old Days ID Number 3259</comment>
@@ -1419,6 +1607,43 @@
 			<track number="9" type="AUDIO" frames="13200" pregap="149" duration="02:56:00" size="31046400" crc="bd8f80e0" md5="53c3e4e33ae829b8c2c9ccbbb27335a6" sha1="98fa9b475844dbdf796f49dbc04e86dca779cfa0" in_zeros="886396" out_zeros="355152" trimmed_crc="71105ed8"/>
 		</rom>
 	</game>
+	<game name="Siedler, Die (1993) (Blue Byte Software) (Installation, Deutsch).dosz">
+		<description>Siedler, Die</description>
+		<year>1993</year>
+		<developer>Blue Byte Software</developer>
+		<variant>Installation, Deutsch</variant>
+		<link type="media">http://redump.org/disc/41149/</link>
+		<rom name="Siedler, Die (Germany).chd" size="140221440" crc="f5cb019b" md5="01138cccbd7ec65303dbe76c98db54ad" sha1="7019d4402ad95c5c4859b55c0dd4885cc4f5ce74">
+			<track number="1" type="MODE1_RAW" frames="57261" pregap="0" duration="12:43:36" size="134677872" crc="54cfa34e" md5="46bd7ec52cb62075ceaea2f8cc22e013" sha1="52869f06ff1db74d8e634d2682c688c25e6abcf0" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
+	<game name="Silverball (1993) (Epic MegaGames) (Installation).dosz">
+		<description>Silverball</description>
+		<year>1993</year>
+		<developer>Epic MegaGames</developer>
+		<variant>Installation</variant>
+		<comment>
+			3.5" floppy disk matching with TGOD ID: 1368
+			Includes Fantasy, Blood, Snooker Champ, Odyssey, and Nova tables
+		</comment>
+		<comment_dosc>Sound Blaster Pro config and auto start</comment_dosc>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1368</link>
+		<rom name="disk1.img" size="1474560" crc="7009579e" md5="1f7e6e8e60bb567f374fc9772329cafd" sha1="73e328dc9d8025e40a717c8de866566bd753e4db"/>
+	</game>
+	<game name="Silverball Plus 2 (1994) (Epic MegaGames) (Installation).dosz">
+		<description>Silverball Plus 2</description>
+		<year>1994</year>
+		<developer>Epic MegaGames</developer>
+		<variant>Installation</variant>
+		<comment>
+			3.5" floppy disks matching with TGOD ID: 516
+			Includes Fantasy, Blood, Snooker Champ, Odyssey, Duel, and Warbot tables (but not Nova)
+		</comment>
+		<comment_dosc>Sound Blaster Pro config and auto start</comment_dosc>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=516</link>
+		<rom name="disk1.img" size="1474560" crc="d249822c" md5="90856a3e8ee8cd9f4c0254a2e2e3f944" sha1="919d79a81b04e0f6d74c1fc9441b96430dc6d633"/>
+		<rom name="disk2.img" size="737280" crc="05e3094e" md5="4db4b41dbcdf7feffd1272b0c5033bc9" sha1="1bb8b9bc0cbed8701a706f4a2f86102a20ccb29b"/>
+	</game>
 	<game name="Software Toolworks' Star Wars Chess, The (1993) (The Software Toolworks) (Installation).dosz">
 		<description>Software Toolworks' Star Wars Chess, The</description>
 		<year>1993</year>
@@ -1441,6 +1666,19 @@
 		<rom name="disk13.img" size="1474560" crc="5d469342" md5="26ae0aa058296fa0aeb45b44fe1c512a" sha1="40c73a7568518397def4d8e757ded8b043aa16b0" date="2013-10-20 12:05:20"/>
 		<rom name="disk14.img" size="1474560" crc="8a109cce" md5="fc76cd5658489d19157858649ff28fd6" sha1="485036a462e50c80206468c628c0b3e587f96d42" date="2013-10-20 12:05:20"/>
 	</game>
+	<game name="Sorcerian (1990) (Nihon Falcom) (Installation).dosz">
+		<description>Sorcerian</description>
+		<year>1990</year>
+		<developer>Nihon Falcom</developer>
+		<variant>Installation</variant>
+		<comment>3.5" floppy discs matching with TGOD ID: 363</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=363</link>
+		<rom name="disk1.img" size="737280" crc="d79474d5" md5="976ad6a09b5255f164c110c9487384a9" sha1="dd7f04328fe4fa24771068410547b57773feefda"/>
+		<rom name="disk2.img" size="737280" crc="52688358" md5="5091767d0102c142c15553b3f07fdf67" sha1="f0035ab0457b79be09a7fa91f9d4c0c6b25cbfa3"/>
+		<rom name="disk3.img" size="737280" crc="7538fcd1" md5="2b7ca2e84564f41cdd9120bea27b84dd" sha1="7a73a7ada1cc68011b6a6d871e556c8bd73fd93a"/>
+		<rom name="disk4.img" size="737280" crc="94976d3b" md5="f1697616fc6abb579bc64cdcff572261" sha1="ce95dbb8cce013374980d20678712b279105e2cd"/>
+		<rom name="disk5.img" size="737280" crc="996bdfc7" md5="ed8030535c2d698f46627e9de2b68c15" sha1="3054ac2f0a175eb1a1a34bef62792179a27f7ffe"/>
+	</game>
 	<game name="Space Quest Collection (2006) (Sierra On-Line) (Installation).dosz">
 		<description>Space Quest Collection</description>
 		<comment>Redump-verified CD-ROM: Space Quest Collection (USA, Europe) - Must be installed via Windows. Files are then extracted from install directory</comment>
@@ -1461,6 +1699,16 @@
 		<link type="media">https://www.goodolddays.net/diskimages/id%2C2874/</link>
 		<rom name="disk1.img" size="1474560" crc="1a17dcd2" md5="b8f93a357d0ec12628a506f8656bcbb8" sha1="f7629fd9b4badd9519c6a0b63654c37d64a7e701"/>
 		<rom name="disk2.img" size="1474560" crc="a17d3e85" md5="fe3cb2fd48ed89825565836324775222" sha1="8773a0a052aa98bb93d804075bfe8963cd800573"/>
+	</game>
+	<game name="Stellar 7 (1990) (Dynamix) (Installation, Floppy Version).dosz">
+		<description>Stellar 7</description>
+		<year>1990</year>
+		<developer>Dynamix</developer>
+		<variant>Installation, Floppy Version</variant>
+		<comment>3.5" floppy disks matching with TGOD ID: 2647</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=2647</link>
+		<rom name="disk1.img" size="737280" crc="9b0db70d" md5="83693e5c519a98b07662922e027709f5" sha1="0a7264e6fb359e171166c21a761aa37764a298b1"/>
+		<rom name="disk2.img" size="737280" crc="c828a588" md5="7fb993f987525bc1f17d321eb5b37b21" sha1="f27f78e79d5a9cc0a26d3b0fa26ebb671db40765"/>
 	</game>
 	<game name="Street Fighter Series (1994) (Capcom) (Installation).dosz">
 		<description>Street Fighter Series</description>
@@ -1587,6 +1835,16 @@
 		<rom name="Torin's Passage (USA).chd" size="513394560" crc="4ed73016" md5="3f23525ff00a2cfc0452c1b53e20e5c6" sha1="93548814f082393ce5bb53038051a5f5527b4a65">
 			<track number="1" type="MODE1_RAW" frames="209671" pregap="0" duration="46:35:46" size="493146192" crc="890a28f9" md5="d1586c01aadd19d688def2dbb82701a7" sha1="f275e7bf6f2a412f80868014bd2560da69411a40"/>
 		</rom>
+	</game>
+	<game name="Turbo OutRun (1990) (Sega) (Installation).dosz">
+		<description>Turbo OutRun</description>
+		<year>1990</year>
+		<developer>Sega</developer>
+		<variant>Installation</variant>
+		<comment>3.5" floppy disks matching with TGOD ID: 3192</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=3192</link>
+		<rom name="disk1.img" size="737280" crc="ab39eb27" md5="d0acb538376be74bcf7cd0c002700cf5" sha1="9e49cebc436e6b0eb2e8a9b5456da150d936fda6"/>
+		<rom name="disk2.img" size="737280" crc="ab42866c" md5="5508b5f9d407372590190019ff5e0ee2" sha1="0541caad3ec98f763609beb0d39247f3668c3abc"/>
 	</game>
 	<game name="Ultima Collection (1997) (Origin Systems) (Installation).dosz">
 		<description>Ultima Collection</description>
@@ -1715,6 +1973,80 @@
 			<track number="1" type="MODE1_RAW" frames="16525" pregap="0" duration="03:40:25" size="38866800" crc="77eda177" md5="afa0fbf4b5d4f5078eab7bf0b7fa67ba" sha1="702ecc1103e9aa63bb5014f47f538d122869a31f" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
+	<game name="Wing Commander - Academy (1993) (Origin Systems) (Installation).dosz">
+		<description>Wing Commander - Academy</description>
+		<year>1993</year>
+		<developer>Origin Systems</developer>
+		<variant>Installation</variant>
+		<comment>3.5" floppy disks matching with TGOD ID: 2708</comment>
+		<comment_dosc>Sound Blaster Pro config and auto start. MT-32 option</comment_dosc>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=2708</link>
+		<rom name="disk1.img" size="1474560" crc="879cb9f0" md5="d4ddb7df6f7876d3db0429b3e8c36551" sha1="74ee37e570946dc342777e4b8dd740dc2a6b54ee"/>
+		<rom name="disk2.img" size="1474560" crc="45108876" md5="cd92f1087181f2d1dde7ec863ecc986f" sha1="c7370047c2c4968265bb09372240ba45e132b034"/>
+		<rom name="disk3.img" size="1474560" crc="9a19bc72" md5="43b3d02b8410be9378e019ca124b0e33" sha1="fdc68378dab027aaed4047d4f75b4404f1b9aa91"/>
+	</game>
+	<game name="Wing Commander - Armada (1994) (Origin Systems) (Installation).dosz">
+		<description>Wing Commander - Armada</description>
+		<year>1994</year>
+		<developer>Origin Systems</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/63805/</link>
+		<rom name="Wing Commander - Armada (USA, Korea).chd" size="30609792" crc="9d08d4e0" md5="4956fca8dc7b5fecb634c2b500490c24" sha1="8b58ab4b20c21446a7fc21ab5be471c6bf254cb8">
+			<track number="1" type="MODE1_RAW" frames="12495" pregap="0" duration="02:46:45" size="29388240" crc="56bb60b1" md5="c64eee94e28952940b78782163d0e9a8" sha1="43c4c607b33a249986b4b5613b0a83a938e615dc" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
+	<game name="Wing Commander - Privateer (1993) (Origin Systems) (Installation).dosz">
+		<description>Wing Commander - Privateer</description>
+		<year>1993</year>
+		<developer>Origin Systems</developer>
+		<variant>Installation</variant>
+		<comment>Includes Speech Pack and Righteous Fire expansion</comment>
+		<link type="media">http://redump.org/disc/67962/</link>
+		<rom name="Wing Commander - Privateer (USA) (Rerelease) (1995-02-13).chd" size="216873216" crc="986ff23c" md5="d0eafde15396692b03be4800878b756c" sha1="5ca68b9b1bbb26d5a38c0de00a0b8078a896e98f">
+			<track number="1" type="MODE1_RAW" frames="88567" pregap="0" duration="19:40:67" size="208309584" crc="c9877366" md5="20afe5e6f2ca3a451add8d38e3e4b33e" sha1="01f167862ee06759e38d5ec03d7432a090235bbf" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
+	<game name="Wolf (1994) (Sanctuary Woods) (Installation).dosz">
+		<description>Wolf</description>
+		<year>1994</year>
+		<developer>Sanctuary Woods</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/67606/</link>
+		<rom name="Wolf (USA) (Alt).chd" size="452057472" crc="e93a2027" md5="b99de918e14a68e1ae91915bf993d201" sha1="8fe2e89bc6094ef79395f2feb540a86fa016a244">
+			<track number="1" type="MODE1_RAW" frames="42938" pregap="0" duration="09:32:38" size="100990176" crc="ecceab28" md5="ac9726758bd3acbaf5cafc29a00bd06c" sha1="8acf7ab51f3834d4d79f792bd6da185d21c987b9" in_zeros="1" out_zeros="0"/>
+			<track number="2" type="AUDIO" frames="4247" pregap="225" duration="00:56:47" size="9988944" crc="ee12dff4" md5="e8e51ee1abfd181b899b1a07a230cf3f" sha1="ae42c7519410b52df4c62168c01303a5d2595b46" in_zeros="1" out_zeros="351233"/>
+			<track number="3" type="AUDIO" frames="2871" pregap="150" duration="00:38:21" size="6752592" crc="f1a9971a" md5="27d20d863a8183d85e9dec909fe53689" sha1="bc2d9c1e0afba479ae683cf503a235ec2ddd8e20" in_zeros="356432" out_zeros="349437"/>
+			<track number="4" type="AUDIO" frames="2644" pregap="150" duration="00:35:19" size="6218688" crc="2e3cc00b" md5="29d421b5bb472d87a84b209cd410d190" sha1="25f9a754ee5eafb2775a67e9cab752565f096361" in_zeros="356380" out_zeros="350624"/>
+			<track number="5" type="AUDIO" frames="11000" pregap="150" duration="02:26:50" size="25872000" crc="0e11f3ce" md5="6fafb15f7d5a78fe75c84cd2feb6ff1d" sha1="d90e0609c054233b806fb79976a47e95c19c810e" in_zeros="356432" out_zeros="350765"/>
+			<track number="6" type="AUDIO" frames="8418" pregap="150" duration="01:52:18" size="19799136" crc="8d6309f9" md5="e9e5a4d592d4bcf168a759311b3e4040" sha1="ef9ace352d49ee0c73a0eff57ed595950326feff" in_zeros="356418" out_zeros="350237"/>
+			<track number="7" type="AUDIO" frames="4711" pregap="150" duration="01:02:61" size="11080272" crc="7855cdb1" md5="436a2179362a76fa86a235ef14a49f7a" sha1="bc73e329e18f4ba8cfad187835d9e1bece509aba" in_zeros="356404" out_zeros="349720"/>
+			<track number="8" type="AUDIO" frames="4250" pregap="150" duration="00:56:50" size="9996000" crc="ee326748" md5="02f7c182c9286f4bc40ec44badd6fa6b" sha1="d680d10a6a65160094c69a16b20e83bfec382658" in_zeros="356432" out_zeros="349327"/>
+			<track number="9" type="AUDIO" frames="5184" pregap="150" duration="01:09:09" size="12192768" crc="772d1391" md5="51ef80293a3a2c639dafb8c4305ef10f" sha1="4d413b926a684c317895f1763d0645835c134b30" in_zeros="356432" out_zeros="350637"/>
+			<track number="10" type="AUDIO" frames="5754" pregap="150" duration="01:16:54" size="13533408" crc="1442ed4c" md5="a234d59a4c0493aba0bf37910360cbf6" sha1="f3a0e88f1b046211765c96d12b0545d484821157" in_zeros="356408" out_zeros="349860"/>
+			<track number="11" type="AUDIO" frames="5478" pregap="150" duration="01:13:03" size="12884256" crc="6fcf6bab" md5="7f2622ea884bf24a5ac2d835c68a32d5" sha1="4c8b750a3fc234523a0463901985d54efd6919de" in_zeros="356408" out_zeros="349413"/>
+			<track number="12" type="AUDIO" frames="4177" pregap="150" duration="00:55:52" size="9824304" crc="67c8b03f" md5="76a00721ee4bb4c82ae50cc860d65071" sha1="68d2c21bc91dd66a8d9aecb0dcd7eb1e3a5db687" in_zeros="356430" out_zeros="351201"/>
+			<track number="13" type="AUDIO" frames="8368" pregap="150" duration="01:51:43" size="19681536" crc="9799432c" md5="c7da188a19b59cd1cfc85e41125c81ce" sha1="cf08a726adf96024d785939a363bf33d969ad137" in_zeros="356386" out_zeros="350429"/>
+			<track number="14" type="AUDIO" frames="3056" pregap="150" duration="00:40:56" size="7187712" crc="22b1fd4a" md5="d7ce327579d5433f7976f27cb93a1725" sha1="768a9920acae9109ef5c906fdabdfd6599a192e0" in_zeros="356412" out_zeros="349377"/>
+			<track number="15" type="AUDIO" frames="2676" pregap="150" duration="00:35:51" size="6293952" crc="08204bd8" md5="5ed0fe2a8c09d8571b899c64310fca3c" sha1="04c5c9b3e920d750b68b54b1c91a8df4e13738e6" in_zeros="356408" out_zeros="350597"/>
+			<track number="16" type="AUDIO" frames="6030" pregap="150" duration="01:20:30" size="14182560" crc="88325844" md5="2f78f78481f0e6a12a91404cf140ceb2" sha1="ee928468b10dfa698c0c9ac20ffa652924b55b81" in_zeros="356404" out_zeros="349801"/>
+			<track number="17" type="AUDIO" frames="7953" pregap="150" duration="01:46:03" size="18705456" crc="6e0072d0" md5="658c8b116838b13def81d0a92b6a79ac" sha1="e66d6e3e1b31310e642097b0b14d09d7def47dd3" in_zeros="356408" out_zeros="351221"/>
+			<track number="18" type="AUDIO" frames="5433" pregap="150" duration="01:12:33" size="12778416" crc="045a2e35" md5="8a0a8bf3f1742d954b2a6be267ac3682" sha1="6e26e1ef4d0d1c01f59ea605a2f1dd69c4c0c433" in_zeros="356420" out_zeros="350057"/>
+			<track number="19" type="AUDIO" frames="4034" pregap="150" duration="00:53:59" size="9487968" crc="34878b28" md5="0f70bb0319675d8b4422a297105e0cbf" sha1="0ff99c7ee75f2c6cd3266e6ca878581f1ae05681" in_zeros="356428" out_zeros="350225"/>
+			<track number="20" type="AUDIO" frames="4377" pregap="150" duration="00:58:27" size="10294704" crc="88fdf8d8" md5="2a287c0fcc8996809ab814c8bd252886" sha1="96fbfe9deaba1b72e51e30b6a2b7177f43757307" in_zeros="356412" out_zeros="350065"/>
+			<track number="21" type="AUDIO" frames="3199" pregap="150" duration="00:42:49" size="7524048" crc="08ab28e8" md5="02383a9ee5b2e1a25996d8c0cfc8f958" sha1="a5a6f16ed7be3448de475dbe0e95ddf1aec0abe1" in_zeros="356412" out_zeros="350353"/>
+			<track number="22" type="AUDIO" frames="4180" pregap="150" duration="00:55:55" size="9831360" crc="606f0135" md5="ef487d194ff0e7c11620f29abb3e7b99" sha1="1e118c8b0760385f18a72af37f9e260f9167c5ca" in_zeros="356420" out_zeros="350073"/>
+			<track number="23" type="AUDIO" frames="2406" pregap="150" duration="00:32:06" size="5658912" crc="5dcf1a5d" md5="de45becf246028a94b1e3925274cfc1d" sha1="4fa2ee5651cbc6869ff663aadf0b7c4d3ee80c36" in_zeros="356410" out_zeros="349413"/>
+			<track number="24" type="AUDIO" frames="3374" pregap="150" duration="00:44:74" size="7935648" crc="9c335ae8" md5="8cc72bb8753cc487430e22836b7a534c" sha1="435a319afa5885f9d674796654fc4b4d903c27ee" in_zeros="356404" out_zeros="349801"/>
+			<track number="25" type="AUDIO" frames="7143" pregap="150" duration="01:35:18" size="16800336" crc="eeef6632" md5="bf1d153151fe51a77622eae73727397b" sha1="411b47b5aaec58f0a273d601c0a47de419823f4c" in_zeros="356428" out_zeros="349185"/>
+			<track number="26" type="AUDIO" frames="5159" pregap="150" duration="01:08:59" size="12133968" crc="cd418b26" md5="aeb401dc14c0bfc49a1085c6f167ce79" sha1="4621c552f277f3476949061fb45977ac1f4a9205" in_zeros="356404" out_zeros="350745"/>
+			<track number="27" type="AUDIO" frames="2129" pregap="150" duration="00:28:29" size="5007408" crc="2fc9c3a7" md5="9c7bcb15d61cedc0d9d93b0f22ac9e08" sha1="5ccb8a4471926a235144f6ffbcba0c2521205506" in_zeros="356388" out_zeros="350217"/>
+			<track number="28" type="AUDIO" frames="5143" pregap="150" duration="01:08:43" size="12096336" crc="6622c9ef" md5="985a3acea9a97810f5c5adacd24e13f0" sha1="66cae8f578fcf54a5707f46fa5f684ed4191342c" in_zeros="356406" out_zeros="349977"/>
+			<track number="29" type="AUDIO" frames="3358" pregap="150" duration="00:44:58" size="7898016" crc="5ea44996" md5="6ac89417c460565b7d38ae8c3de92dd3" sha1="60d3f36de714cabc177e25e8602274471e8794e3" in_zeros="356412" out_zeros="350049"/>
+			<track number="30" type="AUDIO" frames="1823" pregap="150" duration="00:24:23" size="4287696" crc="4934ca94" md5="8a2ebd6f7e3ffd45127b645f42383c78" sha1="22177e871c4938f5a3ad82e184589aa929838966" in_zeros="356416" out_zeros="351373"/>
+			<track number="31" type="AUDIO" frames="5741" pregap="150" duration="01:16:41" size="13502832" crc="61aac614" md5="a35904a2b7ee41bfadbeba89c4e8ffa3" sha1="c31e7ce3a346aa9f5f41967a8bac37c000fa42b7" in_zeros="356430" out_zeros="349473"/>
+			<track number="32" type="AUDIO" frames="6369" pregap="150" duration="01:24:69" size="14979888" crc="b8b6699a" md5="600721008d788a49d5d3eef343829ed5" sha1="b06349b06dcf8714a08b970240328516826edc94" in_zeros="356384" out_zeros="4705"/>
+		</rom>
+	</game>
 	<game name="Wordtris (1991) (Spectrum HoloByte) (Installation).dosz">
 		<description>Wordtris</description>
 		<year>1991</year>
@@ -1744,6 +2076,16 @@
 		<rom name="Xenophage - Alien Bloodsport (USA).chd" size="93141504" crc="0467b88d" md5="18a567f55c21528ba2a13e257a500b6e" sha1="a376731ed6230cb95a93e58d2956e471c97125cf">
 			<track number="1" type="MODE1_RAW" frames="38038" pregap="0" duration="08:27:13" size="89465376" crc="ab4c7d5b" md5="aac1a740d7f8b82397c6034dcb6d76ab" sha1="f4ff745326fa9cfc3f1352004bd67b3a076f0ab3"/>
 		</rom>
+	</game>
+	<game name="Zak McKraken and the Alien Mindbenders (1988) (Lucasfilm Games) (Installation).dosz">
+		<description>Zak McKraken and the Alien Mindbenders</description>
+		<year>1988</year>
+		<developer>Lucasfilm Games</developer>
+		<variant>Installation</variant>
+		<comment>Enhanced version. 3.5" floppy disks matching with TGOD ID: 1550, and also with TDC entry: Zak McKracken and the Alien Mindbenders v2.0E (1988)(Lucasfilm Games) [IMA][720k]</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1550</link>
+		<rom name="disk1.img" size="737280" crc="49ed5658" md5="0db58bbb36f94413af6c49a17d6ff961" sha1="b16e8a305392538f3dc202dc30c2d20acbbc9bdc"/>
+		<rom name="disk2.img" size="737280" crc="5861ff95" md5="54136072bbdf020dbe60b027606784f3" sha1="cfde34b590f22d4736a74bef30a570105f7df481"/>
 	</game>
 	<game name="Zork Nemesis - The Forbidden Lands (1996) (Zombie) (Installation).dosz">
 		<description>Zork Nemesis - The Forbidden Lands</description>
