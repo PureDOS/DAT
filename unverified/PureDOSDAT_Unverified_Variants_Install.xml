@@ -1844,6 +1844,16 @@
 		<rom name="disk2.img" size="1474560" crc="45108876" md5="cd92f1087181f2d1dde7ec863ecc986f" sha1="c7370047c2c4968265bb09372240ba45e132b034"/>
 		<rom name="disk3.img" size="1474560" crc="9a19bc72" md5="43b3d02b8410be9378e019ca124b0e33" sha1="fdc68378dab027aaed4047d4f75b4404f1b9aa91"/>
 	</game>
+	<game name="Wing Commander - Armada (1994) (Origin Systems) (Installation).dosz">
+		<description>Wing Commander - Armada</description>
+		<year>1994</year>
+		<developer>Origin Systems</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/63805/</link>
+		<rom name="Wing Commander - Armada (USA, Korea).chd" size="30609792" crc="9d08d4e0" md5="4956fca8dc7b5fecb634c2b500490c24" sha1="8b58ab4b20c21446a7fc21ab5be471c6bf254cb8">
+			<track number="1" type="MODE1_RAW" frames="12495" pregap="0" duration="02:46:45" size="29388240" crc="56bb60b1" md5="c64eee94e28952940b78782163d0e9a8" sha1="43c4c607b33a249986b4b5613b0a83a938e615dc" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
 	<game name="Wordtris (1991) (Spectrum HoloByte) (Installation).dosz">
 		<description>Wordtris</description>
 		<year>1991</year>
