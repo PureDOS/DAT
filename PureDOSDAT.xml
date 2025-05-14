@@ -13391,25 +13391,6 @@
 		<link type="media">https://www.goodolddays.net/diskimages/id%2C292/</link>
 		<rom name="disk1.img" size="368640" crc="284b4c71" md5="2f55f431bd31ff157a93578ed9eec87e" sha1="4665489aa1f8e4ff3a0572335bcddc26bf9d0017"/>
 	</game>
-	<game name="Loom (1990) (Lucasfilm Games).dosz">
-		<description>Loom</description>
-		<year>1990</year>
-		<developer>Lucasfilm Games</developer>
-		<comment>
-			VGA talkie version. Matches with Redump: Loom (USA)
-			CD image converted with CHDtoOGG
-			DoDAT can build this directly from the disc image
-		</comment>
-		<comment_dosc>Auto start</comment_dosc>
-		<link type="media">http://redump.org/disc/70315/</link>
-		<rom name="Loom (USA) (Track 1).bin" size="52233216" crc="9b6dcb37" md5="39e6c31ae7f5969f92fd3ef0da14d59b" sha1="4beac526c9a9de1540863d45515016b78b8eb800">
-			<source type="MODE1_RAW" frames="22208" duration="04:56:08"/>
-		</rom>
-		<rom name="Loom (USA) (Track 2).ogg" size="100508547" crc="2bd98180" md5="69202ecbe5186b1772f3d205cda5cf94" sha1="c28c26bf4fef39a143db5e581904cceb274b9949">
-			<source type="AUDIO" frames="245925" omitted_pregap="292" duration="54:39:00" size="578415600" crc="13f2e7b9" md5="d9e35920b5e14d339ae30a2f5d2bd40f" sha1="88ee704d267683bb57fcab7ca72ada8eaa8f44be" in_zeros="14364" out_zeros="18066" quality="8"/>
-		</rom>
-		<rom name="Loom (USA).cue" size="185" crc="0e757e29" md5="7f0185ef3f2b70eeb8cd5c85e162867f" sha1="6dffb85174ee1fc49a37605a7ebbed277f0eb106"/>
-	</game>
 	<game name="Magiduck (2015) (Toni Svenstrom).dosz">
 		<description>Magiduck</description>
 		<comment>Freeware v1.0</comment>
