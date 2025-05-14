@@ -156,4 +156,103 @@
 		<rom name="Vacatn01.voc" size="30572" crc="ed2c72da" md5="0f60e04792c3ba77a73bf47c4a6387f0" sha1="a4c8254afa4a82f8ed66691e86987aa271502e32" date="1997-04-01 21:08:34"/>
 		<rom name="Wave1a.voc" size="53300" crc="71979300" md5="1edf155172ae485240f20abd973837c0" sha1="15aecd741978f1cae913f4373eeef6133ed89e27" date="1997-04-01 21:07:42"/>
 	</game>
+	<game name="Quake - Abyss of Pandemonium (1998) (Impel Development Team).dosz">
+		<description>Quake - Abyss of Pandemonium</description>
+		<year>1998</year>
+		<developer>Impel Development Team</developer>
+		<parent>Quake (1996) (id Software).dosz</parent>
+		<comment>
+			Files copied from CD matching with TDC entry: Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue]
+			CD image converted with CHDtoOGG using -n option
+			Make sure the CHD is renamed to "Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue]" before using CHDtoOGG, so the matching CUE file will be created
+		</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<rom name="Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue] (Track 1).bin" size="43008" crc="10d89042" md5="73db37b47ede9da7e9fbaae52c6c8a8b" sha1="8a2846aac1e2ceb8a08a9cd5591e9a85228d5cab"/>
+		<rom name="Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue] (Track 2).ogg" size="6476484" crc="0ac1ad8c" md5="6dec6f336e73f742f046d7777b07a591" sha1="39224784dd9210fe6b7c5cb254d7d1e4a2b1d7ba">
+			<source type="AUDIO" frames="20639" omitted_pregap="150" duration="04:35:14" size="48542928" crc="245ddd3d" md5="b16ca0015abd7c26cbaf91a67661bf7c" sha1="1f8d6f74949c58aa9c766dce3095f14c8f1660d2" in_zeros="8774" out_zeros="375958" quality="8"/>
+		</rom>
+		<rom name="Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue] (Track 3).ogg" size="7224802" crc="4ea2e989" md5="afe90c59ab2c66f41bf43bb724d9ff48" sha1="2acdde2370a70e3256220a75ae0bf670334f916b">
+			<source type="AUDIO" frames="27321" duration="06:04:21" size="64258992" crc="2188bbe0" md5="7e7d0ef9af31250e8580f6b538e17225" sha1="24f753cb4b2bf6810dd06adfabcc06fde1b90803" in_zeros="468" out_zeros="525244" quality="8"/>
+		</rom>
+		<rom name="Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue] (Track 4).ogg" size="5733183" crc="a0ae1d59" md5="f0118d117557ab7a19764e5175dab627" sha1="ef44b5777a58062f8581e36f95304fe624849183">
+			<source type="AUDIO" frames="20323" duration="04:30:73" size="47799696" crc="6830e020" md5="9e2cdddb255add69a2a6c846403adb7f" sha1="39ad077b69f67e85e8be8d6839dfaba42fcbc1a2" in_zeros="468" out_zeros="525228" quality="8"/>
+		</rom>
+		<rom name="Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue] (Track 5).ogg" size="8466397" crc="4c9e35fb" md5="ceecaeee984c9d451900b2a399834874" sha1="9e3de4fbe267f5b99b2857bb4e03980e30368a4b">
+			<source type="AUDIO" frames="33206" duration="07:22:56" size="78100512" crc="f490636f" md5="1896993560113f12c1ddf477115eb4b0" sha1="8156d36f4798cd29ba657033690d1d8bc9df1220" in_zeros="492" out_zeros="525176" quality="8"/>
+		</rom>
+		<rom name="Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue] (Track 6).ogg" size="10780597" crc="c8a29795" md5="a5f28015e15bb6204ac6927709a5b0bd" sha1="65a80139b852200573746652beb3b96990e667e5">
+			<source type="AUDIO" frames="34163" duration="07:35:38" size="80351376" crc="c533689a" md5="31c2ed0db3e61d6eb475e9b2c8acceea" sha1="bc4651bd910a646633d6684b8504b0f4403cc2a8" in_zeros="492" out_zeros="357017" quality="8"/>
+		</rom>
+		<rom name="Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue] (Track 7).ogg" size="5648540" crc="b161343a" md5="6490bd111eada5d467d7f583c6ff8736" sha1="6510c670e3ff5038e4507ae6a52b2428b9b9caad">
+			<source type="AUDIO" frames="22139" duration="04:55:14" size="52070928" crc="f710046c" md5="9c8c4576324f8df338e5d201eddc2681" sha1="765d0990f6adee668bbc2849cc47f420b4968b1d" in_zeros="516" out_zeros="356998" quality="8"/>
+		</rom>
+		<rom name="Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue] (Track 8).ogg" size="6504768" crc="d89e8891" md5="c84605ff37f1254ed061913300f5dd59" sha1="3b979d62b7d3df9fd9dd4232b36899d7395f1529">
+			<source type="AUDIO" frames="23064" duration="05:07:39" size="54246528" crc="f0eaa05a" md5="4b758581bc049e48ea29598f9265e5f0" sha1="2ec61445a9a297144cd58c7a489aec5458cdc16c" in_zeros="516" out_zeros="525180" quality="8"/>
+		</rom>
+		<rom name="Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue] (Track 9).ogg" size="6113341" crc="00be769e" md5="8cd4a123d34cb56651bd2992bb4e657e" sha1="5dc8b5e0906796ae407aca07e742c8376356ae7e">
+			<source type="AUDIO" frames="20963" duration="04:39:38" size="49304976" crc="ae0a4d56" md5="f8c09c4412f76e0572debff6429be389" sha1="f38a7eea187430c79d5b5504ceb46104d4f03a8b" in_zeros="516" out_zeros="525160" quality="8"/>
+		</rom>
+		<rom name="Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue] (Track 10).ogg" size="5096266" crc="3e040b5a" md5="0660943ff4c064982ae77ff420ae66d2" sha1="3dc2a2155d087b68fe2e68def71b3b9b4e32a4b3">
+			<source type="AUDIO" frames="17381" duration="03:51:56" size="40880112" crc="20b22ff0" md5="43d48f64b0efaf825c835d24018cbfa4" sha1="beeec3d7727fd9313fa3c04fe17330825b8a7988" in_zeros="540" out_zeros="356969" quality="8"/>
+		</rom>
+		<rom name="Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue] (Track 11).ogg" size="4639089" crc="8e93cd59" md5="58153cc949e5ef833490f094dc157515" sha1="1120cf7c2adcbc6ee83aff426d6ed557c32389e3">
+			<source type="AUDIO" frames="16828" duration="03:44:28" size="39579456" crc="5972f785" md5="a9edea8d433fd83bfb79e71cdf1bc419" sha1="214775e0621b841ef532d7b2f167955d7e21b917" in_zeros="564" out_zeros="6506" quality="8"/>
+		</rom>
+		<rom name="Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue].cue" size="1406" crc="4f5c2c45" md5="4324282918fa355be9d83f32d8baf24b" sha1="0f0401623a205c1c157985d5bb1d523b4353efb0"/>
+		<rom name="IMPEL/DEUTSCH.TXT" size="6128" crc="f0a5ed67" md5="fe8ac3a1afbfef29b0a5c99f50af2cfb" sha1="f8d1e5ea5a59886464cf33a78220dc56f5c9494c" date="1998-04-14 15:32:46"/>
+		<rom name="IMPEL/ENGLISH.TXT" size="10945" crc="aa0cf7a0" md5="91267c61f28f79292ca342be6836dd86" sha1="56fe03d2581c89c6703a33efe9cc4a4d0e948e45" date="1998-04-14 15:32:58"/>
+		<rom name="IMPEL/ESPANOLE.TXT" size="6804" crc="4d521234" md5="a41729bfca34dca5d814cb461352675c" sha1="0b8732960a205191a8c851f3d81ead5140dd3353" date="1998-04-14 15:33:10"/>
+		<rom name="IMPEL/FRANCAIS.TXT" size="6580" crc="af54b4f8" md5="bbdeac49c2e9305b0544bc9a1962303d" sha1="721cc23dbe6311d3cb8a00141eabe8b7452121d1" date="1998-04-14 15:33:24"/>
+		<rom name="IMPEL/ITALIANO.TXT" size="5764" crc="592d686a" md5="d70217a32e6b39abadf8f2a9c5177fd9" sha1="1287ea296aea17c03de735ae9c97def032b6e472" date="1998-04-14 15:33:36"/>
+		<rom name="IMPEL/LICENSE.TXT" size="4125" crc="998bff1c" md5="9995a36c559c6d839240311ba14dec5a" sha1="6942b33c35b7a22b8816237f1482f18246990e15" date="1998-03-27 12:04:26"/>
+		<rom name="IMPEL/MANUAL.DOC" size="15587" crc="e51fe2a6" md5="729fc99993120268c93d02c19a8c7e7a" sha1="ad148f03e77a60865596402f30f5dbfb12acc758" date="1998-04-09 13:19:22"/>
+		<rom name="IMPEL/PAK0.PAK" size="31837471" crc="988f73ef" md5="c5197d98e781dc2dbea84fa4a1240458" sha1="6db07efa61c5c5b2e379ff5bb903159a926947b0" date="1998-04-01 16:57:00"/>
+		<rom name="IMPEL/PROGS.DAT" size="668696" crc="cd69e4ba" md5="fd65f0b29f282ed886a032ac4e29ad7c" sha1="24f8591accc86c5544d9b1772166d9aaaf64989f" date="1998-03-21 14:58:20"/>
+		<rom name="IMPEL/README.TXT" size="769" crc="46705e99" md5="1ddd2c6dbe5dece695f1a8ecc2b52fd7" sha1="36dd8ae3f73678215f41f6a01946dedac992b559" date="1998-04-09 13:20:06"/>
+		<rom name="Quake (1996) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Quake - X-Men - The Ravages of Apocalypse (1997) (Zero Gravity Entertainment).dosz">
+		<description>Quake - X-Men - The Ravages of Apocalypse</description>
+		<year>1997</year>
+		<developer>Zero Gravity Entertainment</developer>
+		<parent>Quake (1996) (id Software).dosz</parent>
+		<comment>
+			Files copied from CD matching with Redump: X-Men - The Ravages of Apocalypse (USA)
+			Patch v1.11 added
+			Audio tracks converted with CHDtoOGG using -n option
+		</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="media">http://redump.org/disc/25854/</link>
+		<link type="patch">https://www.patches-scrolls.de/patch/4898/7/56738/download</link>
+		<rom name="Quake (1996) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1996-12-24 22:32:00"/>
+		<rom name="X-Men - The Ravages of Apocalypse (USA) (Track 1).bin" size="43008" crc="10d89042" md5="73db37b47ede9da7e9fbaae52c6c8a8b" sha1="8a2846aac1e2ceb8a08a9cd5591e9a85228d5cab"/>
+		<rom name="X-Men - The Ravages of Apocalypse (USA) (Track 2).ogg" size="7776369" crc="2c253bdc" md5="01cb6526c3c5aa657ae597c933dbe649" sha1="7dd32522ebe1779ac796a1bc4c2688837bdf9038">
+			<source type="AUDIO" frames="21675" omitted_pregap="151" duration="04:49:00" size="50979600" crc="767a9c86" md5="de61e42a084f1e341906bc4b49357859" sha1="997b0c59dcfe90f08780b53d0fab742f26cfc803" in_zeros="10296" out_zeros="8046" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="X-Men - The Ravages of Apocalypse (USA) (Track 3).ogg" size="10674119" crc="910baf9d" md5="8b0c0bbefeb52a0c204f3735286397c3" sha1="12880d78533332164692e273681a3964ff21f7a5">
+			<source type="AUDIO" frames="21599" omitted_pregap="149" duration="04:47:74" size="50800848" crc="3b5f6b8d" md5="c33a958a01688f79552b6d8892f9cd5c" sha1="8fc4990bdde98e03e7511a084e157c3a4af4dabf" in_zeros="8784" out_zeros="4307" quality="8"/>
+		</rom>
+		<rom name="X-Men - The Ravages of Apocalypse (USA) (Track 4).ogg" size="4731325" crc="3283df81" md5="c741e3176c0770d837cb523546d29316" sha1="ec501f718f905c969363671a75338398f89771ab">
+			<source type="AUDIO" frames="12146" omitted_pregap="149" duration="02:41:71" size="28567392" crc="53a5c81e" md5="8c7dc5ae66e8566282c3070eda6a96c5" sha1="80ec72cce3cff95471b915f2ed6c9aebb12efa4e" in_zeros="11684" out_zeros="4311" quality="8"/>
+		</rom>
+		<rom name="X-Men - The Ravages of Apocalypse (USA) (Track 5).ogg" size="12966238" crc="b54e75b0" md5="09ce711b2735725d8d794a7ec1d2db84" sha1="0c9a6fb76af9f62eb4ae90c5be212df1352b6560">
+			<source type="AUDIO" frames="26922" omitted_pregap="149" duration="05:58:72" size="63320544" crc="e8a0668c" md5="3e6ed1eb15821b552912fd06f11bd41c" sha1="d39c4f106206fe81d643676549d4db484b14019f" in_zeros="11748" out_zeros="4305" quality="8"/>
+		</rom>
+		<rom name="X-Men - The Ravages of Apocalypse (USA) (Track 6).ogg" size="4831138" crc="a38118f3" md5="c5d07c5d0b0f153b31c51569eafe1897" sha1="26e5f370d5bb2f3d77e2431b246c44795fcbd295">
+			<source type="AUDIO" frames="13950" omitted_pregap="149" duration="03:06:00" size="32810400" crc="c480d9f0" md5="9e4294d9a43f9d311c9b25dbe1a360a7" sha1="5c28fb78c6e8a3c90d89e65abc638c63a0815775" in_zeros="9858" out_zeros="87790" quality="8"/>
+		</rom>
+		<rom name="X-Men - The Ravages of Apocalypse (USA) (Track 7).ogg" size="11374823" crc="2ee4d4a5" md5="2bfe8654d512d3f08f25392596569acb" sha1="ba24df3e1d77f9e2a3592b96e77b415d9cbe9fbe">
+			<source type="AUDIO" frames="24754" omitted_pregap="149" duration="05:30:04" size="58221408" crc="1ce3c1da" md5="a3e02d741f86aa231b353f7a5e1bd137" sha1="456214e9a123ffef664004beb4f32e94edd5227c" in_zeros="8984" out_zeros="56937" quality="8"/>
+		</rom>
+		<rom name="X-Men - The Ravages of Apocalypse (USA).cue" size="883" crc="8130f4db" md5="19a0904a077aec11a08b10b5d3446e84" sha1="62d2707f72a13da7294b139781733d7beaf1a626"/>
+		<rom name="XMEN.BAT" size="68" crc="de5c5102" md5="51fc72d99c2b790bc84491e6943b0627" sha1="bc8a0086b2571f6d08562dad960669162bb8095d" date="1997-09-29 17:10:44"/>
+		<rom name="XMEN/PAK0.PAK" size="7140730" crc="2e0fc0b4" md5="809466c79a090e73c0de03c6d9cae0ac" sha1="a20f3b6868cb27876a6984e6c43aea0f4f2a4b04" date="1997-10-15 21:48:32"/>
+		<rom name="XMEN/PAK1.PAK" size="17969415" crc="bfc69957" md5="2d938fa54b3e49f087fc23c91d124ac8" sha1="3ac366efa0c08548fc47f204c234dbbd4ca33e3a" date="1997-10-20 12:44:42"/>
+		<rom name="XMEN/PAK2.PAK" size="20194275" crc="ae15e6ae" md5="20ff463b348dd70d9133b82b8c0603bd" sha1="bd639a5538af0f1b977f54f7b4304dcf67744513" date="1997-10-17 14:15:42"/>
+		<rom name="XMEN/PAK3.PAK" size="19639109" crc="fe673c4d" md5="979a3882ee0fd175435f62231e6dd542" sha1="3bc4ba8d8a7afc014f77d5e2d6a4e30560753f3f" date="1997-10-20 13:08:32"/>
+		<rom name="XMEN/PAK4.PAK" size="903676" crc="68c7416b" md5="340b0c6baeec7b2914c99d299c636297" sha1="a4e0b1bd4b4053eeb6867d9439d6b0d994f69ba9" date="1998-01-27 02:29:12"/>
+		<rom name="XMEN/patch.txt" size="2614" crc="da9ccd80" md5="fdc9099d01ae4ea3b6f2883012c9b90a" sha1="3a091187963dfca81c55a1e227071a4bf197066e" date="1998-02-23 11:37:56"/>
+		<rom name="XMEN/progs.dat" size="655364" crc="f839b322" md5="aecdf88f002ef2f4daa528c5038d5425" sha1="a3aa294b1ad60d05499b6dde299c204a2e579170" date="1998-02-15 14:54:08"/>
+		<rom name="XMEN/README.TXT" size="22656" crc="25111171" md5="008c1d4cf46792752f775b365a210cce" sha1="0218cd1bd77ab32ee1a37da1786b5e3007873216" date="1997-10-15 12:00:08"/>
+	</game>
 </datafile>
