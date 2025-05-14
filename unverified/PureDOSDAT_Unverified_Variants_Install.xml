@@ -1499,6 +1499,33 @@
 			<track number="9" type="AUDIO" frames="13200" pregap="149" duration="02:56:00" size="31046400" crc="bd8f80e0" md5="53c3e4e33ae829b8c2c9ccbbb27335a6" sha1="98fa9b475844dbdf796f49dbc04e86dca779cfa0" in_zeros="886396" out_zeros="355152" trimmed_crc="71105ed8"/>
 		</rom>
 	</game>
+	<game name="Silverball (1993) (Epic MegaGames) (Installation).dosz">
+		<description>Silverball</description>
+		<year>1993</year>
+		<developer>Epic MegaGames</developer>
+		<variant>Installation</variant>
+		<comment>
+			3.5" floppy disk matching with TGOD ID: 1368
+			Includes Fantasy, Blood, Snooker Champ, Odyssey, and Nova tables
+		</comment>
+		<comment_dosc>Sound Blaster Pro config and auto start</comment_dosc>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1368</link>
+		<rom name="disk1.img" size="1474560" crc="7009579e" md5="1f7e6e8e60bb567f374fc9772329cafd" sha1="73e328dc9d8025e40a717c8de866566bd753e4db"/>
+	</game>
+	<game name="Silverball Plus 2 (1994) (Epic MegaGames) (Installation).dosz">
+		<description>Silverball Plus 2</description>
+		<year>1994</year>
+		<developer>Epic MegaGames</developer>
+		<variant>Installation</variant>
+		<comment>
+			3.5" floppy disks matching with TGOD ID: 516
+			Includes Fantasy, Blood, Snooker Champ, Odyssey, Duel, and Warbot tables (but not Nova)
+		</comment>
+		<comment_dosc>Sound Blaster Pro config and auto start</comment_dosc>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=516</link>
+		<rom name="disk1.img" size="1474560" crc="d249822c" md5="90856a3e8ee8cd9f4c0254a2e2e3f944" sha1="919d79a81b04e0f6d74c1fc9441b96430dc6d633"/>
+		<rom name="disk2.img" size="737280" crc="05e3094e" md5="4db4b41dbcdf7feffd1272b0c5033bc9" sha1="1bb8b9bc0cbed8701a706f4a2f86102a20ccb29b"/>
+	</game>
 	<game name="Software Toolworks' Star Wars Chess, The (1993) (The Software Toolworks) (Installation).dosz">
 		<description>Software Toolworks' Star Wars Chess, The</description>
 		<year>1993</year>
