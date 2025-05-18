@@ -1021,11 +1021,15 @@
 	</game>
 	<game name="Incredible Machine 2, The (1994) (Dynamix) (Floppy Version).dosz">
 		<description>Incredible Machine 2, The</description>
-		<comment>Installed from 3.5" floppy disks. English, French, German, and Spanish files installed</comment>
-		<comment_dosc>English language, Sound Blaster config, and auto start. MT-32, French, German, and Spanish options</comment_dosc>
 		<year>1994</year>
 		<developer>Dynamix</developer>
 		<variant>Floppy Version</variant>
+		<comment>
+			Installed from 3.5" floppy disks matching with TGOD ID: 1015
+			English, French, German, and Spanish files installed
+		</comment>
+		<comment_dosc>English language, Sound Blaster config, and auto start. MT-32, French, German, and Spanish options</comment_dosc>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1015</link>
 		<rom name="ADL.DRV" size="9295" crc="2596aa71" md5="5b3b93130e29620927a2056ca1d31084" sha1="01af3ec72b8b94ccc088d61538d75046d5f6c19e" date="1994-10-22 01:00:00"/>
 		<rom name="AUDBLAST.DRV" size="3307" crc="ffae4027" md5="3bc9b7b3504acf5e2975689723dde61b" sha1="187a9fe67fc2d686439ec75097cb14c9c146d011" date="1994-10-22 01:00:00"/>
 		<rom name="AUDNONE.DRV" size="727" crc="fd535e8c" md5="3aa8dea76851902320f89d22e7759de0" sha1="034a529157205855379f0236d3622e5dc3a98fb5" date="1994-10-22 01:00:00"/>
@@ -1059,11 +1063,11 @@
 	</game>
 	<game name="Lemmings (1991) (DMA Design) (Floppy Version).dosz">
 		<description>Lemmings</description>
-		<comment>Matches with TDC: Lemmings (1991)(Psygnosis Limited) [Strategy, Action]</comment>
-		<comment_dosc>BAT file for circumventing copy protection, VGA mode, high performance PC, and auto start</comment_dosc>
 		<year>1991</year>
 		<developer>DMA Design</developer>
 		<variant>Floppy Version</variant>
+		<comment>Matches with TDC entry: Lemmings (1991)(Psygnosis Limited) [Strategy, Action]</comment>
+		<comment_dosc>BAT file for circumventing copy protection, VGA mode, high performance PC, and auto start</comment_dosc>
 		<rom name="ADLIB.DAT" size="12988" crc="8cc874cf" md5="548f5e9d2f022109606fe9df329dd562" sha1="310b395e64a07177387ac153b3666e2d2707de58" date="1991-04-30 11:21:36"/>
 		<rom name="AUTODET.EXE" size="2188" crc="3e88ac33" md5="d3831061ff9eea0ab1be587b42b4a736" sha1="0704d1f70b9f40711f96e7d86733df5eb380b5bb" date="1991-05-10 17:47:16"/>
 		<rom name="CGAGR0.DAT" size="20901" crc="6ef5c694" md5="645d2a6a01ec693c05974ca956e46e1a" sha1="7092eb2ff483a122f7dee1d645708ab97e4720bc" date="1991-03-31 19:19:16"/>
@@ -2367,11 +2371,11 @@
 	</game>
 	<game name="Oh No! More Lemmings (1991) (DMA Design) (Floppy Version).dosz">
 		<description>Oh No! More Lemmings</description>
-		<comment>Matches with TDC: Oh No! More Lemmings v1.8 (1991)(Psygnosis Limited) [Strategy, Action]</comment>
-		<comment_dosc>VGA mode, high performance PC, and auto start</comment_dosc>
 		<year>1991</year>
 		<developer>DMA Design</developer>
 		<variant>Floppy Version</variant>
+		<comment>Matches with TDC entry: Oh No! More Lemmings v1.8 (1991)(Psygnosis Limited) [Strategy, Action]</comment>
+		<comment_dosc>VGA mode, high performance PC, and auto start</comment_dosc>
 		<rom name="ADLIB.DAT" size="6894" crc="cfd4d0da" md5="5d597018da29db03bd22c31f03c9ff57" sha1="408a1e0c6c70e1c0aa942ce9b39bb7a71ec5f5f2" date="1991-11-07 03:13:02"/>
 		<rom name="DLVEL000.DAT" size="3295" crc="b647f7f4" md5="81e93297c5239227ff4e50dd41220af3" sha1="d7fc28d0e8d8964c9ea6efb307c41feac5f1fce4" date="1991-11-11 09:17:26"/>
 		<rom name="DLVEL001.DAT" size="3320" crc="c6ebb827" md5="70c184eade45cb00bb9ca17419f2f8f5" sha1="b9545ba55d6c35de556cce4d71536b5a9e0a9c2a" date="1991-11-11 09:17:30"/>
@@ -2444,11 +2448,15 @@
 	</game>
 	<game name="Secret of Monkey Island, The (1990) (Lucasfilm Games) (Floppy Version).dosz">
 		<description>Secret of Monkey Island, The</description>
-		<comment>Installed VGA v1.1 from XL Kixx 3.5" floppy disks, then patched with 486/Sound Blaster fix (Monkey.exe)</comment>
-		<comment_dosc>Copy protection patch and auto start. MT-32 option</comment_dosc>
 		<year>1990</year>
 		<developer>Lucasfilm Games</developer>
 		<variant>Floppy Version</variant>
+		<comment>
+			Installed VGA v1.1 from XL Kixx 3.5" floppy disks matching with TGOD ID: 3012
+			Then patched with 486/Sound Blaster fix (Monkey.exe)
+		</comment>
+		<comment_dosc>Copy protection patch and auto start. MT-32 option</comment_dosc>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C3012/</link>
 		<link type="patch">https://appsupport.disney.com/hc/en-us/articles/360000760746-Where-can-I-find-updates-and-patches-for-Lucasfilm-games</link>
 		<rom name="000.LFL" size="8357" crc="88872747" md5="08656dd9698ddf1023ba9bf8a195e37b" sha1="8ccf3b3e4d397b023694e66799b61594a2cffd59" date="1991-02-15 12:00:00"/>
 		<rom name="901.LFL" size="2264" crc="94539b31" md5="280f20d081cc7701c38dfdc8b701c58c" sha1="bb4a3b8f2af0c919e2d7b3b01ae3b8837ffd8a6f" date="1991-02-15 12:00:00"/>
