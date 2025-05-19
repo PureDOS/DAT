@@ -419,6 +419,19 @@
 		<rom name="mapgame.txt" size="2480" crc="ac22313e" md5="dffe31e4948ca1fa13d716d6f069b930" sha1="33ca4cd572d21061cd13e2d2223942d6d6a123df" date="2009-05-16 14:44:50"/>
 		<rom name="mapgame.wad" size="5306477" crc="c15e84d4" md5="8613b8ade552d7909e7dd0c7a356a04c" sha1="d728e669d68cc3e41338bbc9ec06481ae0a01ad4" date="2009-05-16 14:39:58"/>
 	</game>
+	<game name="Doom - Nihility - Infinite Teeth (2016) (Years).dosz">
+		<description>Doom - Nihility - Infinite Teeth</description>
+		<year>2016</year>
+		<developer>Years</developer>
+		<parent>Doom Mod Base.dosz</parent>
+		<comment>Tartar requires -nomusic to avoid crash</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/vb/thread/85591</link>
+		<rom name="Credits.rtf" size="741" crc="7b60a128" md5="64094a702919d76b7120b388618fecfd" sha1="8e450faff658a65b27f5d1beb77fc148df45487e" date="2016-01-22 02:49:38"/>
+		<rom name="Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Nihility.deh" size="16444" crc="527622e4" md5="b41a7662c99ef23874ca4b4d47c3064c" sha1="f9f136d60dd2f6cb1cb28bc8945c7e249ec28410" date="2016-01-26 03:34:24"/>
+		<rom name="Nihility.wad" size="17458822" crc="09f8ce5e" md5="2a644df15ee0705a18c12504f285384b" sha1="111dc8d953db6d63dacac5dbcc22a5fcfe1e3f5a" date="2016-01-26 20:57:50"/>
+	</game>
 	<game name="Doom - NJ Doom (1994) (Nigel Rowand).dosz">
 		<description>Doom - NJ Doom</description>
 		<year>1994</year>
@@ -617,28 +630,14 @@
 		<description>Doom - Sky May Be, The</description>
 		<year>1997</year>
 		<developer>Doug the Eagle, Kansam</developer>
-		<parent>Doom Mod Base (Vanilla).dosz</parent>
-		<comment>
-			To install, run SKYMAYBE.EXE, then INSTALL.EXE along with DOOM.EXE and DOOM.WAD (Ultimate Doom v1.9) in the selected folder
-			Does not work properly in Tartar
-		</comment>
+		<parent>Doom Mod Base.dosz</parent>
+		<comment>Repackaged edition</comment>
 		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://www.doomworld.com/idgames/levels/doom/s-u/smb_v102</link>
-		<rom name="Doom Mod Base (Vanilla).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="DOOM_SMB.EXE" size="715493" crc="153002ea" md5="591584fb634d338196317a2af64dc04a" sha1="8b2c9fbe0ef5af6f6a70e7b2a54e12f1787ff893"/>
-		<rom name="README" size="316" crc="b722695d" md5="2117b5f9c30db818ebe79086180a9b47" sha1="3f61f377eb3a4a0aface21302f0f2f4b2b9d4ee2" date="1997-05-27 03:05:26"/>
-		<rom name="SKYMAYBE.BAT" size="60" crc="7ae25cec" md5="fdb6e4af9c445aedeea3677ef19f8f98" sha1="4e41ddee821e0d949a88be64adcb4516ee6e96fc"/>
-		<rom name="SKYMAYBE.EXE" size="1390235" crc="e38f806d" md5="1c2a09624fffd8d89483e53775e54179" sha1="aacf0a840b2e18a31ac4cb4597aef03d838432a2" date="1997-05-27 03:03:30"/>
-		<rom name="SKYMAYBE.TXT" size="11052" crc="3fca40e6" md5="40b8c59a6b14f1e61faf77f107c13392" sha1="8d9863528a32a58b6107a66b9e187db3b370a897" date="1997-05-27 02:57:42"/>
-		<rom name="SKYMAYBE/_SMB417.WAD" size="3601028" crc="62a38c6a" md5="007425c10f02aa332735006ee6ebf732" sha1="76541682b3d46be1de6fc2812a98428d64b40095" date="1997-05-27 01:05:20"/>
-		<rom name="SKYMAYBE/BLESSED.DEH" size="26177" crc="df5adcdb" md5="e891e4caf4559c28a0c40d30cbb36507" sha1="4d08507f438d65c50561a99d16f12efae11349a9" date="1997-05-09 00:45:46"/>
-		<rom name="SKYMAYBE/BLESSED.TXT" size="5317" crc="f95c8e8e" md5="7360f32b758716ad8833f5df4232383e" sha1="5315877bc2d5edfaae5c0a040a18bffe6fc7d954" date="1997-05-27 03:01:16"/>
-		<rom name="SKYMAYBE/CLEANME.BAT" size="162" crc="8c065f56" md5="1eeb74fbccf340e70ba8315af0aea783" sha1="3dd6bd9dacafa70a9bcae63e67de292bc93e8281" date="1997-05-01 00:36:56"/>
-		<rom name="SKYMAYBE/DEHACKED.EXE" size="91634" crc="19d0d1ea" md5="5fe12e580a543e16c6fa9f6d4a168b95" sha1="9c1c448c333896ec32f7e1dfd49c98415d7bd6d6" date="1997-05-01 00:55:12"/>
-		<rom name="SKYMAYBE/DEUSF.EXE" size="90196" crc="5ea1e5c2" md5="89be00455dec01df32e1df8a6bf191f9" sha1="397fc6a2c7e1de6f5d7e066d72bc7acb1d9f9726" date="1995-07-24 00:13:42"/>
-		<rom name="SKYMAYBE/INSTALL.EXE" size="36027" crc="735067d9" md5="e24aa2aa0c73d44532403f931673f3cd" sha1="ed02c5c1f2f8d6ae043cc733b8000d52f1478621" date="1997-05-09 01:02:52"/>
-		<rom name="SKYMAYBE/SKYMAYBE.TXT" size="11052" crc="3fca40e6" md5="40b8c59a6b14f1e61faf77f107c13392" sha1="8d9863528a32a58b6107a66b9e187db3b370a897" date="1997-05-27 02:57:42"/>
-		<rom name="SKYMAYBE/SKYMAYBE.WAD" size="6092772" crc="26f96de3" md5="ad089fbfb87effd49bb35593caed4cea" sha1="f79435570e05b3a85d39c6e010c085023f352026"/>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom/Ports/s-u/smb_r</link>
+		<rom name="_smb417.wad" size="3601060" crc="b54dfbba" md5="4c736225480d8c1b306044904ca0aeb4" sha1="9875cc03e28ee71505966af5e2efa03a15e40b8d"/>
+		<rom name="blessed.deh" size="26177" crc="df5adcdb" md5="e891e4caf4559c28a0c40d30cbb36507" sha1="4d08507f438d65c50561a99d16f12efae11349a9"/>
+		<rom name="Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="smb_r.txt" size="11364" crc="c211ab83" md5="f55e0d7e9feccd9b8d1987ddff5e6a91" sha1="9e67aab17978603b90d7a9fdacfef3aca87f8fd8"/>
 	</game>
 	<game name="Doom - Slaughter Until Death (1994) (The Innocent Crew).dosz">
 		<description>Doom - Slaughter Until Death</description>
@@ -1668,6 +1667,7 @@
 		<year>2020</year>
 		<developer>Doomer Boards Community</developer>
 		<parent>Doom II Mod Base.dosz</parent>
+		<comment>OGG music isn't supported by Tartar</comment>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/d-f/dbp28</link>
 		<rom name="dbp28.txt" size="3460" crc="94a380eb" md5="5ed5a33e47377ff28054dc3c43e3301c" sha1="d24cc312c03f4778d873a0baf0ba7ccfbb078779" date="2020-11-11 16:02:00"/>
@@ -2179,6 +2179,7 @@
 		<year>2018</year>
 		<developer>Tomas Soares</developer>
 		<parent>Doom II Mod Base.dosz</parent>
+		<comment>Tartar requires -nodemo to avoid crash</comment>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/exomoon</link>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
@@ -2279,6 +2280,7 @@
 		<year>2024</year>
 		<developer>Cyriak Harris</developer>
 		<parent>Doom II Mod Base.dosz</parent>
+		<comment>Tartar requires -nodemo to avoid crash</comment>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/gdturbo</link>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
@@ -2389,9 +2391,9 @@
 		<link type="media">http://redump.org/disc/26192/</link>
 		<rom name="DEUSF.EXE" size="96472" crc="dde8a48d" md5="f681f3ccdaf48cc4e66a7a2a0a9567bf" sha1="c36edca0b6c7aa1b464f0c06181014ffd33476a8" date="1995-12-18 00:19:30"/>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="DOOM2.WAD" size="26510196" crc="3e7aacdf" md5="77daf1747ea5bb5f8ed4fa70f98307dd" sha1="9ce5cc0bbcbe8cb7a759027804aaca686fd7fa98"/>
 		<rom name="HELL2PAY.BAT" size="6062" crc="f460db2c" md5="6bb3c8ce9ad8d770015dedf1738e3475" sha1="4f058d8546ecdd86fec0ea8fccaba71399a73bf8" date="1996-04-24 18:09:00"/>
 		<rom name="HELL2PAY.TXT" size="2040" crc="624d7947" md5="403e8838beb29dc3ef93a385dde06fd1" sha1="103b27933e443e2d209f1fe0b1121982c3f06b52" date="1996-04-08 13:28:56"/>
+		<rom name="HELL2PAY.WAD" size="26510196" crc="3e7aacdf" md5="77daf1747ea5bb5f8ed4fa70f98307dd" sha1="9ce5cc0bbcbe8cb7a759027804aaca686fd7fa98"/>
 		<rom name="HELP-HTP.COM" size="15291" crc="1c7f0347" md5="c4439abf1d8ed247202c4464490cdaab" sha1="c142503295ed00978a1c80ce12c1f1b904a1a9cc" date="1996-04-22 06:56:30"/>
 		<rom name="HTP-PLOT.COM" size="14048" crc="63eb9593" md5="5112caad4b4f97ed80785e5685ff9c38" sha1="1712b983e05e6a15799ebc815b5c681291a2727e" date="1996-04-22 07:34:10"/>
 		<rom name="HTPDMO16.WAD" size="23744" crc="02b90bc3" md5="60ae056fa7c22311c27f7051a411ff48" sha1="ada65a77dad8a312d66a3a491a8829ba8dde4144" date="1996-03-07 14:01:26"/>
@@ -2620,6 +2622,7 @@
 		<year>2022</year>
 		<developer>Cole Bryden</developer>
 		<parent>Doom II Mod Base.dosz</parent>
+		<comment>Tartar requires -nodemo to avoid crash</comment>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames//levels/doom2/Ports/megawads/magspire</link>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
@@ -3005,6 +3008,7 @@
 		<year>2021</year>
 		<developer>Tomas Soares</developer>
 		<parent>Doom II Mod Base.dosz</parent>
+		<comment>Tartar requires -nodemo to avoid crash</comment>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/ozonia</link>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
@@ -3025,10 +3029,10 @@
 		<comment_dosc>Auto start</comment_dosc>
 		<rom name="DEUSF.EXE" size="96472" crc="dde8a48d" md5="f681f3ccdaf48cc4e66a7a2a0a9567bf" sha1="c36edca0b6c7aa1b464f0c06181014ffd33476a8" date="1995-12-18 00:19:30"/>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="DOOM2.WAD" size="21663600" crc="72d2dcaa" md5="153df7d5f1dba93571cf64eab99cbb0a" sha1="96dd9c63269525a8634a59b2a787d21d34a74813"/>
 		<rom name="HELP-PG.COM" size="9648" crc="b6485d12" md5="3c1fc3c48abe1847d9e9e273f63403fa" sha1="4e80fa56f182a740a252db2dea62db4b8ba2e208" date="1996-07-20 20:35:26"/>
 		<rom name="PERDGATE.BAT" size="6167" crc="aa072bde" md5="43f6e99c006d89227b16c28eed16548c" sha1="4fc66081f0ee3a418914a547e585e63e59c4a117" date="1996-04-24 18:11:36"/>
 		<rom name="PERDGATE.TXT" size="2774" crc="871f8e01" md5="575ed83d61816847374037be40c72145" sha1="c2bb7c7241592eaa1a1475a271a953771d4673cb" date="1996-07-20 20:24:32"/>
+		<rom name="PERDGATE.WAD" size="21663600" crc="72d2dcaa" md5="153df7d5f1dba93571cf64eab99cbb0a" sha1="96dd9c63269525a8634a59b2a787d21d34a74813"/>
 		<rom name="PG-PLOT.COM" size="15220" crc="e82789b5" md5="0c06934be2b1acd44eb0d9a3f0fff1b7" sha1="491472e219212f5ecb3b44b34dc0f041aa2ec54b" date="1996-07-20 20:32:54"/>
 		<rom name="PG-RESET.BAT" size="225" crc="2b69bf7f" md5="12bf1949036943a13e49807243acd075" sha1="a61dbf3f5cc7105e91ff21af5fd97e091a1ea06b" date="1996-04-22 19:40:14"/>
 		<rom name="PGDEMO16.WAD" size="29776" crc="f84e30b4" md5="a1bf1cb53930441663231701d5dce766" sha1="ecae7b1d851853dbe02ecca62650344ac1652b7d" date="1996-07-17 09:17:32"/>
