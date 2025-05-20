@@ -16341,7 +16341,8 @@
 		</comment>
 		<link type="media">http://redump.org/disc/42787/</link>
 		<link type="patch">https://www.pcgamingwiki.com/wiki/Warcraft_II:_Tides_of_Darkness#Patches</link>
-		<rom name="AUTOKILL.EXE" size="4608" crc="1acc03c9" md5="65b71b45dade2a7ad31910fd61c51983" sha1="88b26faaa0bb63765f14344bbae09f607d5452bf"/>
+		<rom name="Warcraft II - Tides of Darkness (1995) (Blizzard Entertainment).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Warcraft II.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="CD/WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 1).bin" size="210280560" crc="18fb96e8" md5="a786cd34c4945d5ce932cbe06f9e1959" sha1="a2419eded71d9e013711977b71361c1f678f9abd">
 			<source type="MODE1_RAW" frames="89405" duration="19:52:05"/>
 		</rom>
@@ -16397,88 +16398,84 @@
 			<source type="AUDIO" frames="10355" duration="02:18:05" size="24354960" crc="3550d756" md5="133a174ef15f178832850c52437e40c2" sha1="cf7830d058fcd94ed39b95f78288b522cb9cc225" in_zeros="7776" out_zeros="707242" quality="8"/>
 		</rom>
 		<rom name="CD/WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09).cue" size="2756" crc="d18e8ca6" md5="004cb4180e090d4a7ec5745e11520307" sha1="b797f3c48d77652d7077aade81335c7814adab7e"/>
-		<rom name="DATA/MAINDAT.WAR" size="9831037" crc="04759fb9" md5="ffc62597b2001be9f30b13e908a2ec2a" sha1="a1adc3db34e991108d5a230164ada05a591de9ef"/>
-		<rom name="DATA/REZDAT.WAR" size="2811086" crc="61704053" md5="65321083c9b21fb6c2f31c6b52dec4e0" sha1="462c8d4f5a01bd0ce9175dc0e4b7b3c7f166a3ac"/>
-		<rom name="DATA/SFXDAT.SUD" size="5653599" crc="3641d942" md5="5443f7b8d9163a53b03e5d976f4e268b" sha1="725724f0b98df4f08fda013e20673031ec5d5903"/>
-		<rom name="DATA/STRDAT.WAR" size="77524" crc="0158213a" md5="eaee6010c559683d841158c930786651" sha1="23b2996572971bffaee01eb513915e40adf2cb3b"/>
-		<rom name="PUDS/MULTI/3VS3.PUD" size="122540" crc="1277ffae" md5="dafde0913c82d8a688118bab5ebf2132" sha1="6b8d9aec0d46fdc2061f2977ba3db6d3c0f5ecf2"/>
-		<rom name="PUDS/MULTI/3VS5.PUD" size="122868" crc="df507fed" md5="2e5773a6ee618be8ff03963e2caab7d9" sha1="ab54f8884289bf4b7325b7241e70d3d11d8cca8b"/>
-		<rom name="PUDS/MULTI/ARENA.PUD" size="35758" crc="42a1617c" md5="05d2c275ea67750e1366552050103741" sha1="a23811659b32f46a0dbec6d5cbf703af58ce8c6e"/>
-		<rom name="PUDS/MULTI/ATOLS.PUD" size="71526" crc="77e739a0" md5="3685dd93ccb26844d9726c9d281ea26d" sha1="a27b130905752e1383ca3b66933dac6c4c6e3e7f"/>
-		<rom name="PUDS/MULTI/BATTLE_1.PUD" size="35862" crc="3ccecf5f" md5="611c83065b743d2e0b9608196c09bf8c" sha1="5c03c4a53145f6f21eed2e68b314c07db7ef4ff0"/>
-		<rom name="PUDS/MULTI/BATTLE_2.PUD" size="35670" crc="2886328f" md5="fbc2288d6d14558e627120d385154855" sha1="7287b52bd7c8e80d97b47e6ab9453d209a9419f3"/>
-		<rom name="PUDS/MULTI/BLACKGLD.PUD" size="121670" crc="73453fef" md5="8ff98397965db4f5c9f08258f860f5cc" sha1="9f2a6d4970c076ee6f072d6ab7014ab53e75ae4c"/>
-		<rom name="PUDS/MULTI/COLLAPSE.PUD" size="71934" crc="5e2ef2d1" md5="aad9293c2db07dc958f6d62ee4e8f934" sha1="86c42bfc9fca0247a1dc17638d140bd4336d6ba9"/>
-		<rom name="PUDS/MULTI/CROWDED.PUD" size="35878" crc="7c0b0864" md5="2a8c29ab48fd24dae4b181c57e858db4" sha1="e64f989035ed0b08de1681b6e9dcd8f9e0de36ab"/>
-		<rom name="PUDS/MULTI/DIAMOND.PUD" size="121702" crc="db3ef103" md5="19d5230e7871bb27413ac0842e9b99c3" sha1="9f3fe8b328bf66286dc913e7cb8fc0d125bae825"/>
-		<rom name="PUDS/MULTI/DUP.PUD" size="71566" crc="b07a5ecb" md5="96417968698699ae2f405a9b0e21af27" sha1="c22a0ca0a847903d7b34a5d3ae7bebd449ddf91b"/>
-		<rom name="PUDS/MULTI/EARS.PUD" size="71478" crc="f7e6fbe0" md5="46e0d831cada88be9fa35a6a6e961bb0" sha1="83939091d2e107ae2127907fa0dd1c831f15f64a"/>
-		<rom name="PUDS/MULTI/FRIENDS.PUD" size="121806" crc="28d79376" md5="28be58f6337bd3b49a21c2027c78301b" sha1="a221f4a4b2c91aafbcdcd9e29de13a3f1fd2b625"/>
-		<rom name="PUDS/MULTI/FUNFOR3.PUD" size="122878" crc="1b563a36" md5="14fd004f9cf431c4f2160ef0a9c49c80" sha1="3be49c6e1c6088e33610af6cb434fb6a0ab3a659"/>
-		<rom name="PUDS/MULTI/GAUNTLET.PUD" size="36382" crc="4cb7f075" md5="5e4105ed08baa34c4108a4872443ec15" sha1="b9a71f266b33a368cae788d9dd364264aac3e838"/>
-		<rom name="PUDS/MULTI/HELL.PUD" size="123342" crc="b4611faf" md5="f8c0fea516f501dd1ac962991406a01c" sha1="949661909643a5e38c4d1a9473e9e25f0f39e9ce"/>
-		<rom name="PUDS/MULTI/HOURGLAS.PUD" size="71518" crc="9d3eae22" md5="8424e6d6c081d5367abcbde999de98d0" sha1="fb3bf6ad10454dbfb0fe403293fe853e163af99a"/>
-		<rom name="PUDS/MULTI/ICEWALL.PUD" size="72598" crc="1449a0d2" md5="da77e438f7b3ac42d8653fca95a042e4" sha1="16ebc4f26dd4fc9973461c1132d3f1e9b492ff9a"/>
-		<rom name="PUDS/MULTI/IRONCROS.PUD" size="122654" crc="72321cb3" md5="4e53e1bfb0459dc5507ae503f82dc127" sha1="448cf32bf5a8e8fad62986633da349ea41b3bc8c"/>
-		<rom name="PUDS/MULTI/ISLES.PUD" size="121878" crc="5e375d5c" md5="96daab6d0c6dc58a72875303484fe9f2" sha1="a804fb6aa9e249e92fe2ee0b25e15183a1072291"/>
-		<rom name="PUDS/MULTI/JIMLAND.PUD" size="122350" crc="c388117c" md5="768d6efefe5b8a0ed95ef1b4812f40cb" sha1="373c89581c27cb03c6164961c9ccf7e0723f2f06"/>
-		<rom name="PUDS/MULTI/KANTHAR.PUD" size="121774" crc="b58c4082" md5="9ffe61e6b65a7c2aa677399df54a5e16" sha1="46b115a79446bb2339e1c7587a2dd788cdb354d0"/>
-		<rom name="PUDS/MULTI/KING.PUD" size="122534" crc="87e67b52" md5="bb86e539bf76b159d16d99c8e5441099" sha1="8647c0f987465c9b31c0fb4286980c744e036f3e"/>
-		<rom name="PUDS/MULTI/MNTNPASS.PUD" size="35710" crc="142bfe36" md5="0a468624cab07b6c7db2752b2761ea94" sha1="71540f0d8dc457fd4b9d8d95679e90da4e98b64f"/>
-		<rom name="PUDS/MULTI/PASSES.PUD" size="71502" crc="bf530efd" md5="7b377b61c023e81e5f1736e2457d75f9" sha1="7946ae426c2d9c75dab8d8a12b888d89b56d46ba"/>
-		<rom name="PUDS/MULTI/PLOTS.PUD" size="121830" crc="a9a1ebfe" md5="5b0aae7e9c638f5b89ed6076ea3e0544" sha1="934ea8ea32dbc71f239505a0f076891fe1190e67"/>
-		<rom name="PUDS/MULTI/RAIDERS.PUD" size="71678" crc="d10a7e0d" md5="54195634476d4445910657f0d7d50ede" sha1="1d0568007450a64f39369e9dbf573cba266b9c24"/>
-		<rom name="PUDS/MULTI/RING.PUD" size="121766" crc="187e02a8" md5="31e21e84701fb10d65b244e9d6d7bbfa" sha1="1bfbf113e3925e981531d0fd27949089ea913406"/>
-		<rom name="PUDS/MULTI/RIVERX.PUD" size="122526" crc="cc102a78" md5="9948741dbe97b5233be2d75b7f1147da" sha1="538ab01639ea42a20a56d549aba6060e5b206944"/>
-		<rom name="PUDS/MULTI/ROCKMAZE.PUD" size="71558" crc="8eb3c831" md5="2034103aa11ed1a185066f0f9cf1ce1e" sha1="e20b74598fa3cbf190e4bb27709428c752ba2f91"/>
-		<rom name="PUDS/MULTI/SHARED.PUD" size="35742" crc="8114a675" md5="4f00ae5b5fac8ad6cb00822888e595c1" sha1="1b14b0795f1b334c9b1d61edefca8e7372c9a24d"/>
-		<rom name="PUDS/MULTI/SIEGE.PUD" size="122502" crc="6872269f" md5="103ddd25084f3d9afffb83c3fb6f3759" sha1="712adebd8c5a95da2c71e30d4e959d95392098df"/>
-		<rom name="PUDS/MULTI/TANDALOS.PUD" size="122310" crc="c3b45ab8" md5="970fbe3cff2e936527c50dbf8ef74e8e" sha1="4c42030a48f925a07731c2bfa4b9beb3e4bad6a6"/>
-		<rom name="PUDS/MULTI/THERIVER.PUD" size="121774" crc="b2a254e7" md5="a23a129f5a1ce1b0074027e2820f6729" sha1="eb1cea8534289d6cd812c3a0c786c92355c846d7"/>
-		<rom name="PUDS/MULTI/TOURNEY.PUD" size="71566" crc="3306a89e" md5="bcb515cba2cef316ab9dcde2824434a4" sha1="e23175ccea2cb18d5b87d13894ee735fb9d78a20"/>
-		<rom name="PUDS/MULTI/TWINHRBR.PUD" size="71478" crc="709351d3" md5="5a8a3e64dfc3271f179f6ff172ec8c83" sha1="b3cc5f8f16581ca03f8b5ead2e185109f6b630ad"/>
-		<rom name="PUDS/MULTI/UP4GRABS.PUD" size="35614" crc="acb58425" md5="f1b72d9a31be64ad2fc7170bbaf6f827" sha1="7d8caa89bd968c08fedbb4d74c90c1170447358e"/>
-		<rom name="PUDS/MULTI/US.PUD" size="122918" crc="42dec828" md5="7b72797622e88b1e0ecc8b151365c661" sha1="30e4f6c396949dc13902b57cbb5ace87caf15c1d"/>
-		<rom name="PUDS/MULTI/WARATSEA.PUD" size="122278" crc="9b01bb9c" md5="ed1798722788d5a93f7ccbe51f06b251" sha1="92ff98709c056ba87d812e3dfd9148dca3901d3b"/>
-		<rom name="PUDS/MULTI/WEB.PUD" size="121894" crc="a3f7b8ac" md5="be5fa83a53268554524b6b941d692152" sha1="280a26aa0f303775320574b6cee24da339b90e9b"/>
-		<rom name="PUDS/MULTI/WIZARD.PUD" size="122454" crc="c12dab7e" md5="6ddfdb45109716cbaee9f330ab01e257" sha1="4fcabd2f8f6f9e89776031aebfd44af815fa5999"/>
-		<rom name="PUDS/SINGLE/4_STEP.PUD" size="72070" crc="7b269444" md5="0731a8723cc6c7c8a2bff012997b4cad" sha1="75e28f5a1a60c9a0862e4f314692993640e3cd68"/>
-		<rom name="PUDS/SINGLE/ANARCHY.PUD" size="124980" crc="2e8bbb73" md5="a8d9791040a1a858845c133e22c0dbab" sha1="d72270af8369d7f1eb40b6a422914144877232e3"/>
-		<rom name="PUDS/SINGLE/BURN_IT.PUD" size="14774" crc="31d2cfe9" md5="420e4726fdea4fe4bd4428aaf20ca820" sha1="b4845f0d0b2a7cead65d2898b32838e6b4c25863"/>
-		<rom name="PUDS/SINGLE/DEADMEAT.PUD" size="122686" crc="b6426432" md5="40690461282dc7ef4b46a71392ac4b86" sha1="9d49caf756835b270cc89199affa9983f9b81230"/>
-		<rom name="PUDS/SINGLE/FALSIE.PUD" size="71726" crc="12bb41f5" md5="0374ed830770041f3313da6332375f66" sha1="87f123e7dd47afd4064526472932357c8f40ffd8"/>
-		<rom name="PUDS/SINGLE/FIRERING.PUD" size="121814" crc="1ea2dd2d" md5="825e525e3c050496de6e34258006e1f0" sha1="882e41edf2714915f349d20faf2cd4f933b26426"/>
-		<rom name="PUDS/SINGLE/FORTRESS.PUD" size="36902" crc="4cfc35a0" md5="c7c6496ce0ac179bb8611b2dea43306c" sha1="3beea1a62256facce2b65504fc576168859e4322"/>
-		<rom name="PUDS/SINGLE/GRTWALL.PUD" size="73566" crc="54fb1247" md5="40d7a5582e01e122c02e617bce77f25f" sha1="b246b14a7e7a0a7005edb6d18f43f508d245e799"/>
-		<rom name="PUDS/SINGLE/HEROES1.PUD" size="72182" crc="8eab7d9f" md5="594fa5a6f28d7f7a81db1963ebbd779f" sha1="957aeb8489b2dd73d2a6ed6a25be4469447d3304"/>
-		<rom name="PUDS/SINGLE/HEROES2.PUD" size="122742" crc="d4723946" md5="23a03d16e61b30e87890d9c3874993fd" sha1="5a14f82466f476bd4cbe8cfe49216c3ae6aa1375"/>
-		<rom name="PUDS/SINGLE/INVASION.PUD" size="71670" crc="f4f560ee" md5="232a38a8707e3b55b7edb144f909d267" sha1="534fbf1e0c7043fc8b6461c57d3a5f16d5f8b40a"/>
-		<rom name="PUDS/SINGLE/MAGISLE.PUD" size="122286" crc="fa79c03d" md5="1e2d0079874e13bd779cf2a8177ff7fe" sha1="d08da712fae12f28489bdcf43a497d063e3fbcf2"/>
-		<rom name="PUDS/SINGLE/MASSACRE.PUD" size="72358" crc="0f82aec0" md5="fbd8ceff0869c7f4ccc141c14f9bd61a" sha1="5fd2b288ec70c63fa17d3ab4cce9e9478ac87b63"/>
-		<rom name="PUDS/SINGLE/MIDLAND.PUD" size="71542" crc="ddc6f880" md5="76863e44976066e802405fc7b273fe34" sha1="95fb140eaa67b763ce1e0a3a91593479a38c38b3"/>
-		<rom name="PUDS/SINGLE/MINASTIR.PUD" size="122806" crc="0e70e67c" md5="114da4a0a26da00f4c2eb0d078052a34" sha1="af1d2b56666362477b8129cef409004043f6ac00"/>
-		<rom name="PUDS/SINGLE/ONSLAUGH.PUD" size="121934" crc="e9380183" md5="e0b75538653fb13781c0063d732222d8" sha1="2a08c967ae1e5f8fdf0869f8be9a245f0b765391"/>
-		<rom name="PUDS/SINGLE/RESCUE.PUD" size="72478" crc="6d3ff54d" md5="3bc885c20bd59583bc4a32515b487743" sha1="147dcb02be2fd7b189f47350e0be5d63e67c110c"/>
-		<rom name="PUDS/SINGLE/S_STONE.PUD" size="123198" crc="61590814" md5="f0f350b88d96984606b97b7a85144038" sha1="b8b29c3485b29fcdf2df2955458aa66bd46e4425"/>
-		<rom name="PUDS/SINGLE/SACRIFIC.PUD" size="71902" crc="27fa2b58" md5="52befb6e61d56d2a82e9819d053357e9" sha1="8c0f99dd2001687cad804160ecb48a7e7c243250"/>
-		<rom name="PUDS/SINGLE/SPARTA.PUD" size="15134" crc="2f8079c1" md5="fbcfa4652ebbeccb2cbfb82925e7b96f" sha1="e9d1ee79b283dee838173ca4afc22c4763b116ee"/>
-		<rom name="PUDS/SINGLE/TRENCH.PUD" size="72318" crc="c5a8ddbf" md5="0e581aff0373988ce6840575928954ee" sha1="b4bc04c8139310f0655356eeb0dea223bb316d22"/>
-		<rom name="PUDS/SINGLE/TYM.PUD" size="123694" crc="3f00b35d" md5="564840c3caf177021e7838ce1ae56830" sha1="20c130f56c71eddc0f3b9507a4d37ea69a29b995"/>
-		<rom name="PUDS/SINGLE/WATERRES.PUD" size="122710" crc="cc751996" md5="2d628b59b8716b230ded05834763add9" sha1="449b9318d2436a09af51d3b099c7934a54dfbe42"/>
-		<rom name="PUDS/SINGLE/WISH.PUD" size="36030" crc="5da07b78" md5="8821b3e5444a24c49ae6ca97611bb434" sha1="e1112a74b7ab04c16e21155d90a4efe464938e82"/>
-		<rom name="PUDS/STRANGE/CHESS.PUD" size="14262" crc="540c7266" md5="8a52c965b6c90e4db367f987058fc9bb" sha1="795c9aabf4fca28820751fb0f6da93090017f70b"/>
-		<rom name="PUDS/STRANGE/FOOTBALL.PUD" size="14694" crc="2d549511" md5="cb33a83e2cf466481d51cf1546b24219" sha1="ca11d6bf9b91a8e553216ac8e8a6ecb0cb770f1a"/>
-		<rom name="PUDS/STRANGE/JAIL.PUD" size="15030" crc="f5694075" md5="9027430382c914b83e06b61eb3780009" sha1="80ef8dddb768b2bf628e0f41c38e7b8448787d37"/>
-		<rom name="PUDS/STRANGE/SUICIDE.PUD" size="15102" crc="87b59750" md5="1d700cc600571e39f83aaedeeb1a9bdb" sha1="eedca1bea5b7ce9ef521c9ed80e59e71d0e9e878"/>
+		<rom name="DATA/MAINDAT.WAR" size="9831037" crc="04759fb9" md5="ffc62597b2001be9f30b13e908a2ec2a" sha1="a1adc3db34e991108d5a230164ada05a591de9ef" date="1996-10-14 16:42:46"/>
+		<rom name="DATA/REZDAT.WAR" size="2811086" crc="61704053" md5="65321083c9b21fb6c2f31c6b52dec4e0" sha1="462c8d4f5a01bd0ce9175dc0e4b7b3c7f166a3ac" date="1996-10-14 16:44:44"/>
+		<rom name="DATA/SFXDAT.SUD" size="5653599" crc="3641d942" md5="5443f7b8d9163a53b03e5d976f4e268b" sha1="725724f0b98df4f08fda013e20673031ec5d5903" date="1996-05-02 11:01:08"/>
+		<rom name="DATA/STRDAT.WAR" size="77524" crc="0158213a" md5="eaee6010c559683d841158c930786651" sha1="23b2996572971bffaee01eb513915e40adf2cb3b" date="1996-10-14 16:44:48"/>
+		<rom name="PUDS/MULTI/3VS3.PUD" size="122540" crc="1277ffae" md5="dafde0913c82d8a688118bab5ebf2132" sha1="6b8d9aec0d46fdc2061f2977ba3db6d3c0f5ecf2" date="1996-04-19 17:02:46"/>
+		<rom name="PUDS/MULTI/3VS5.PUD" size="122868" crc="df507fed" md5="2e5773a6ee618be8ff03963e2caab7d9" sha1="ab54f8884289bf4b7325b7241e70d3d11d8cca8b" date="1996-04-19 17:03:10"/>
+		<rom name="PUDS/MULTI/ARENA.PUD" size="35758" crc="42a1617c" md5="05d2c275ea67750e1366552050103741" sha1="a23811659b32f46a0dbec6d5cbf703af58ce8c6e" date="1996-04-24 13:05:26"/>
+		<rom name="PUDS/MULTI/ATOLS.PUD" size="71526" crc="77e739a0" md5="3685dd93ccb26844d9726c9d281ea26d" sha1="a27b130905752e1383ca3b66933dac6c4c6e3e7f" date="1996-04-24 13:06:12"/>
+		<rom name="PUDS/MULTI/BATTLE_1.PUD" size="35862" crc="3ccecf5f" md5="611c83065b743d2e0b9608196c09bf8c" sha1="5c03c4a53145f6f21eed2e68b314c07db7ef4ff0" date="1996-04-24 13:06:16"/>
+		<rom name="PUDS/MULTI/BATTLE_2.PUD" size="35670" crc="2886328f" md5="fbc2288d6d14558e627120d385154855" sha1="7287b52bd7c8e80d97b47e6ab9453d209a9419f3" date="1996-04-24 13:06:34"/>
+		<rom name="PUDS/MULTI/BLACKGLD.PUD" size="121670" crc="73453fef" md5="8ff98397965db4f5c9f08258f860f5cc" sha1="9f2a6d4970c076ee6f072d6ab7014ab53e75ae4c" date="1996-04-23 17:16:56"/>
+		<rom name="PUDS/MULTI/COLLAPSE.PUD" size="71934" crc="5e2ef2d1" md5="aad9293c2db07dc958f6d62ee4e8f934" sha1="86c42bfc9fca0247a1dc17638d140bd4336d6ba9" date="1996-04-23 17:12:36"/>
+		<rom name="PUDS/MULTI/CROWDED.PUD" size="35878" crc="7c0b0864" md5="2a8c29ab48fd24dae4b181c57e858db4" sha1="e64f989035ed0b08de1681b6e9dcd8f9e0de36ab" date="1996-04-28 18:15:18"/>
+		<rom name="PUDS/MULTI/DIAMOND.PUD" size="121702" crc="db3ef103" md5="19d5230e7871bb27413ac0842e9b99c3" sha1="9f3fe8b328bf66286dc913e7cb8fc0d125bae825" date="1996-04-24 13:06:48"/>
+		<rom name="PUDS/MULTI/DUP.PUD" size="71566" crc="b07a5ecb" md5="96417968698699ae2f405a9b0e21af27" sha1="c22a0ca0a847903d7b34a5d3ae7bebd449ddf91b" date="1996-04-24 13:07:04"/>
+		<rom name="PUDS/MULTI/EARS.PUD" size="71478" crc="f7e6fbe0" md5="46e0d831cada88be9fa35a6a6e961bb0" sha1="83939091d2e107ae2127907fa0dd1c831f15f64a" date="1996-04-24 13:07:18"/>
+		<rom name="PUDS/MULTI/FRIENDS.PUD" size="121806" crc="28d79376" md5="28be58f6337bd3b49a21c2027c78301b" sha1="a221f4a4b2c91aafbcdcd9e29de13a3f1fd2b625" date="1996-04-25 11:46:56"/>
+		<rom name="PUDS/MULTI/FUNFOR3.PUD" size="122878" crc="1b563a36" md5="14fd004f9cf431c4f2160ef0a9c49c80" sha1="3be49c6e1c6088e33610af6cb434fb6a0ab3a659" date="1996-05-01 10:49:48"/>
+		<rom name="PUDS/MULTI/GAUNTLET.PUD" size="36382" crc="4cb7f075" md5="5e4105ed08baa34c4108a4872443ec15" sha1="b9a71f266b33a368cae788d9dd364264aac3e838" date="1996-05-01 10:52:40"/>
+		<rom name="PUDS/MULTI/HELL.PUD" size="123342" crc="b4611faf" md5="f8c0fea516f501dd1ac962991406a01c" sha1="949661909643a5e38c4d1a9473e9e25f0f39e9ce" date="1996-04-28 18:16:28"/>
+		<rom name="PUDS/MULTI/HOURGLAS.PUD" size="71518" crc="9d3eae22" md5="8424e6d6c081d5367abcbde999de98d0" sha1="fb3bf6ad10454dbfb0fe403293fe853e163af99a" date="1996-04-23 17:17:26"/>
+		<rom name="PUDS/MULTI/ICEWALL.PUD" size="72598" crc="1449a0d2" md5="da77e438f7b3ac42d8653fca95a042e4" sha1="16ebc4f26dd4fc9973461c1132d3f1e9b492ff9a" date="1996-04-24 13:07:44"/>
+		<rom name="PUDS/MULTI/IRONCROS.PUD" size="122654" crc="72321cb3" md5="4e53e1bfb0459dc5507ae503f82dc127" sha1="448cf32bf5a8e8fad62986633da349ea41b3bc8c" date="1996-04-28 18:18:26"/>
+		<rom name="PUDS/MULTI/ISLES.PUD" size="121878" crc="5e375d5c" md5="96daab6d0c6dc58a72875303484fe9f2" sha1="a804fb6aa9e249e92fe2ee0b25e15183a1072291" date="1996-04-23 17:13:02"/>
+		<rom name="PUDS/MULTI/JIMLAND.PUD" size="122350" crc="c388117c" md5="768d6efefe5b8a0ed95ef1b4812f40cb" sha1="373c89581c27cb03c6164961c9ccf7e0723f2f06" date="1996-04-23 17:13:48"/>
+		<rom name="PUDS/MULTI/KANTHAR.PUD" size="121774" crc="b58c4082" md5="9ffe61e6b65a7c2aa677399df54a5e16" sha1="46b115a79446bb2339e1c7587a2dd788cdb354d0" date="1996-04-24 13:08:08"/>
+		<rom name="PUDS/MULTI/KING.PUD" size="122534" crc="87e67b52" md5="bb86e539bf76b159d16d99c8e5441099" sha1="8647c0f987465c9b31c0fb4286980c744e036f3e" date="1996-04-28 18:19:02"/>
+		<rom name="PUDS/MULTI/MNTNPASS.PUD" size="35710" crc="142bfe36" md5="0a468624cab07b6c7db2752b2761ea94" sha1="71540f0d8dc457fd4b9d8d95679e90da4e98b64f" date="1996-04-23 17:14:22"/>
+		<rom name="PUDS/MULTI/PASSES.PUD" size="71502" crc="bf530efd" md5="7b377b61c023e81e5f1736e2457d75f9" sha1="7946ae426c2d9c75dab8d8a12b888d89b56d46ba" date="1996-04-23 17:17:50"/>
+		<rom name="PUDS/MULTI/PLOTS.PUD" size="121830" crc="a9a1ebfe" md5="5b0aae7e9c638f5b89ed6076ea3e0544" sha1="934ea8ea32dbc71f239505a0f076891fe1190e67" date="1996-04-24 13:09:30"/>
+		<rom name="PUDS/MULTI/RAIDERS.PUD" size="71678" crc="d10a7e0d" md5="54195634476d4445910657f0d7d50ede" sha1="1d0568007450a64f39369e9dbf573cba266b9c24" date="1996-04-24 13:09:46"/>
+		<rom name="PUDS/MULTI/RING.PUD" size="121766" crc="187e02a8" md5="31e21e84701fb10d65b244e9d6d7bbfa" sha1="1bfbf113e3925e981531d0fd27949089ea913406" date="1996-04-23 17:18:12"/>
+		<rom name="PUDS/MULTI/RIVERX.PUD" size="122526" crc="cc102a78" md5="9948741dbe97b5233be2d75b7f1147da" sha1="538ab01639ea42a20a56d549aba6060e5b206944" date="1996-04-28 18:21:24"/>
+		<rom name="PUDS/MULTI/ROCKMAZE.PUD" size="71558" crc="8eb3c831" md5="2034103aa11ed1a185066f0f9cf1ce1e" sha1="e20b74598fa3cbf190e4bb27709428c752ba2f91" date="1996-04-25 11:49:28"/>
+		<rom name="PUDS/MULTI/SHARED.PUD" size="35742" crc="8114a675" md5="4f00ae5b5fac8ad6cb00822888e595c1" sha1="1b14b0795f1b334c9b1d61edefca8e7372c9a24d" date="1996-04-24 13:10:50"/>
+		<rom name="PUDS/MULTI/SIEGE.PUD" size="122502" crc="6872269f" md5="103ddd25084f3d9afffb83c3fb6f3759" sha1="712adebd8c5a95da2c71e30d4e959d95392098df" date="1996-04-24 13:12:24"/>
+		<rom name="PUDS/MULTI/TANDALOS.PUD" size="122310" crc="c3b45ab8" md5="970fbe3cff2e936527c50dbf8ef74e8e" sha1="4c42030a48f925a07731c2bfa4b9beb3e4bad6a6" date="1996-04-24 13:12:52"/>
+		<rom name="PUDS/MULTI/THERIVER.PUD" size="121774" crc="b2a254e7" md5="a23a129f5a1ce1b0074027e2820f6729" sha1="eb1cea8534289d6cd812c3a0c786c92355c846d7" date="1996-04-23 17:15:12"/>
+		<rom name="PUDS/MULTI/TOURNEY.PUD" size="71566" crc="3306a89e" md5="bcb515cba2cef316ab9dcde2824434a4" sha1="e23175ccea2cb18d5b87d13894ee735fb9d78a20" date="1996-04-25 11:50:00"/>
+		<rom name="PUDS/MULTI/TWINHRBR.PUD" size="71478" crc="709351d3" md5="5a8a3e64dfc3271f179f6ff172ec8c83" sha1="b3cc5f8f16581ca03f8b5ead2e185109f6b630ad" date="1996-04-24 13:13:12"/>
+		<rom name="PUDS/MULTI/UP4GRABS.PUD" size="35614" crc="acb58425" md5="f1b72d9a31be64ad2fc7170bbaf6f827" sha1="7d8caa89bd968c08fedbb4d74c90c1170447358e" date="1996-04-23 17:18:50"/>
+		<rom name="PUDS/MULTI/US.PUD" size="122918" crc="42dec828" md5="7b72797622e88b1e0ecc8b151365c661" sha1="30e4f6c396949dc13902b57cbb5ace87caf15c1d" date="1996-04-23 17:15:30"/>
+		<rom name="PUDS/MULTI/WARATSEA.PUD" size="122278" crc="9b01bb9c" md5="ed1798722788d5a93f7ccbe51f06b251" sha1="92ff98709c056ba87d812e3dfd9148dca3901d3b" date="1996-04-24 13:14:02"/>
+		<rom name="PUDS/MULTI/WEB.PUD" size="121894" crc="a3f7b8ac" md5="be5fa83a53268554524b6b941d692152" sha1="280a26aa0f303775320574b6cee24da339b90e9b" date="1996-05-01 10:55:10"/>
+		<rom name="PUDS/MULTI/WIZARD.PUD" size="122454" crc="c12dab7e" md5="6ddfdb45109716cbaee9f330ab01e257" sha1="4fcabd2f8f6f9e89776031aebfd44af815fa5999" date="1996-05-01 10:58:50"/>
+		<rom name="PUDS/SINGLE/4_STEP.PUD" size="72070" crc="7b269444" md5="0731a8723cc6c7c8a2bff012997b4cad" sha1="75e28f5a1a60c9a0862e4f314692993640e3cd68" date="1996-04-23 17:11:40"/>
+		<rom name="PUDS/SINGLE/ANARCHY.PUD" size="124980" crc="2e8bbb73" md5="a8d9791040a1a858845c133e22c0dbab" sha1="d72270af8369d7f1eb40b6a422914144877232e3" date="1996-04-03 19:01:52"/>
+		<rom name="PUDS/SINGLE/BURN_IT.PUD" size="14774" crc="31d2cfe9" md5="420e4726fdea4fe4bd4428aaf20ca820" sha1="b4845f0d0b2a7cead65d2898b32838e6b4c25863" date="1996-04-24 13:32:32"/>
+		<rom name="PUDS/SINGLE/DEADMEAT.PUD" size="122686" crc="b6426432" md5="40690461282dc7ef4b46a71392ac4b86" sha1="9d49caf756835b270cc89199affa9983f9b81230" date="1996-04-28 18:28:38"/>
+		<rom name="PUDS/SINGLE/FALSIE.PUD" size="71726" crc="12bb41f5" md5="0374ed830770041f3313da6332375f66" sha1="87f123e7dd47afd4064526472932357c8f40ffd8" date="1996-04-25 15:09:20"/>
+		<rom name="PUDS/SINGLE/FIRERING.PUD" size="121814" crc="1ea2dd2d" md5="825e525e3c050496de6e34258006e1f0" sha1="882e41edf2714915f349d20faf2cd4f933b26426" date="1996-04-25 15:08:58"/>
+		<rom name="PUDS/SINGLE/FORTRESS.PUD" size="36902" crc="4cfc35a0" md5="c7c6496ce0ac179bb8611b2dea43306c" sha1="3beea1a62256facce2b65504fc576168859e4322" date="1996-04-23 17:07:44"/>
+		<rom name="PUDS/SINGLE/GRTWALL.PUD" size="73566" crc="54fb1247" md5="40d7a5582e01e122c02e617bce77f25f" sha1="b246b14a7e7a0a7005edb6d18f43f508d245e799" date="1996-04-23 17:00:46"/>
+		<rom name="PUDS/SINGLE/HEROES1.PUD" size="72182" crc="8eab7d9f" md5="594fa5a6f28d7f7a81db1963ebbd779f" sha1="957aeb8489b2dd73d2a6ed6a25be4469447d3304" date="1996-04-25 15:08:50"/>
+		<rom name="PUDS/SINGLE/HEROES2.PUD" size="122742" crc="d4723946" md5="23a03d16e61b30e87890d9c3874993fd" sha1="5a14f82466f476bd4cbe8cfe49216c3ae6aa1375" date="1996-04-25 15:05:30"/>
+		<rom name="PUDS/SINGLE/INVASION.PUD" size="71670" crc="f4f560ee" md5="232a38a8707e3b55b7edb144f909d267" sha1="534fbf1e0c7043fc8b6461c57d3a5f16d5f8b40a" date="1996-04-25 15:11:22"/>
+		<rom name="PUDS/SINGLE/MAGISLE.PUD" size="122286" crc="fa79c03d" md5="1e2d0079874e13bd779cf2a8177ff7fe" sha1="d08da712fae12f28489bdcf43a497d063e3fbcf2" date="1996-04-25 14:56:28"/>
+		<rom name="PUDS/SINGLE/MASSACRE.PUD" size="72358" crc="0f82aec0" md5="fbd8ceff0869c7f4ccc141c14f9bd61a" sha1="5fd2b288ec70c63fa17d3ab4cce9e9478ac87b63" date="1996-04-25 14:56:04"/>
+		<rom name="PUDS/SINGLE/MIDLAND.PUD" size="71542" crc="ddc6f880" md5="76863e44976066e802405fc7b273fe34" sha1="95fb140eaa67b763ce1e0a3a91593479a38c38b3" date="1996-04-25 14:54:10"/>
+		<rom name="PUDS/SINGLE/MINASTIR.PUD" size="122806" crc="0e70e67c" md5="114da4a0a26da00f4c2eb0d078052a34" sha1="af1d2b56666362477b8129cef409004043f6ac00" date="1996-04-25 14:53:34"/>
+		<rom name="PUDS/SINGLE/ONSLAUGH.PUD" size="121934" crc="e9380183" md5="e0b75538653fb13781c0063d732222d8" sha1="2a08c967ae1e5f8fdf0869f8be9a245f0b765391" date="1996-04-25 14:55:12"/>
+		<rom name="PUDS/SINGLE/RESCUE.PUD" size="72478" crc="6d3ff54d" md5="3bc885c20bd59583bc4a32515b487743" sha1="147dcb02be2fd7b189f47350e0be5d63e67c110c" date="1996-04-23 17:08:42"/>
+		<rom name="PUDS/SINGLE/S_STONE.PUD" size="123198" crc="61590814" md5="f0f350b88d96984606b97b7a85144038" sha1="b8b29c3485b29fcdf2df2955458aa66bd46e4425" date="1996-04-23 17:11:00"/>
+		<rom name="PUDS/SINGLE/SACRIFIC.PUD" size="71902" crc="27fa2b58" md5="52befb6e61d56d2a82e9819d053357e9" sha1="8c0f99dd2001687cad804160ecb48a7e7c243250" date="1996-04-24 13:15:26"/>
+		<rom name="PUDS/SINGLE/SPARTA.PUD" size="15134" crc="2f8079c1" md5="fbcfa4652ebbeccb2cbfb82925e7b96f" sha1="e9d1ee79b283dee838173ca4afc22c4763b116ee" date="1996-04-23 17:05:46"/>
+		<rom name="PUDS/SINGLE/TRENCH.PUD" size="72318" crc="c5a8ddbf" md5="0e581aff0373988ce6840575928954ee" sha1="b4bc04c8139310f0655356eeb0dea223bb316d22" date="1996-04-25 14:55:46"/>
+		<rom name="PUDS/SINGLE/TYM.PUD" size="123694" crc="3f00b35d" md5="564840c3caf177021e7838ce1ae56830" sha1="20c130f56c71eddc0f3b9507a4d37ea69a29b995" date="1996-05-01 10:53:36"/>
+		<rom name="PUDS/SINGLE/WATERRES.PUD" size="122710" crc="cc751996" md5="2d628b59b8716b230ded05834763add9" sha1="449b9318d2436a09af51d3b099c7934a54dfbe42" date="1996-04-23 17:10:04"/>
+		<rom name="PUDS/SINGLE/WISH.PUD" size="36030" crc="5da07b78" md5="8821b3e5444a24c49ae6ca97611bb434" sha1="e1112a74b7ab04c16e21155d90a4efe464938e82" date="1996-05-01 10:57:58"/>
+		<rom name="PUDS/STRANGE/CHESS.PUD" size="14262" crc="540c7266" md5="8a52c965b6c90e4db367f987058fc9bb" sha1="795c9aabf4fca28820751fb0f6da93090017f70b" date="1996-04-23 16:57:40"/>
+		<rom name="PUDS/STRANGE/FOOTBALL.PUD" size="14694" crc="2d549511" md5="cb33a83e2cf466481d51cf1546b24219" sha1="ca11d6bf9b91a8e553216ac8e8a6ecb0cb770f1a" date="1996-04-25 11:29:58"/>
+		<rom name="PUDS/STRANGE/JAIL.PUD" size="15030" crc="f5694075" md5="9027430382c914b83e06b61eb3780009" sha1="80ef8dddb768b2bf628e0f41c38e7b8448787d37" date="1996-04-23 16:58:28"/>
+		<rom name="PUDS/STRANGE/SUICIDE.PUD" size="15102" crc="87b59750" md5="1d700cc600571e39f83aaedeeb1a9bdb" sha1="eedca1bea5b7ce9ef521c9ed80e59e71d0e9e878" date="1996-04-25 11:33:48"/>
 		<rom name="READ_133.TXT" size="1703" crc="d22ea8ec" md5="0d7ed4f5226d64087f21cd85a5e0f731" sha1="eedb2cc4cb240036745ea06a0799374b17761ca7" date="1996-10-05 13:43:32"/>
 		<rom name="READ_150.TXT" size="3284" crc="859f643a" md5="51e5e306fef41340607d4de3df414f79" sha1="1ab318e56f68d6e1873eab5b970d0ca72afedec4" date="1997-07-07 18:27:40"/>
-		<rom name="README.TXT" size="9966" crc="17e3805c" md5="70d53ffa606e916ece63ffa6d769d868" sha1="15b104e47a2779bf7901f61a93ac466debdf1236"/>
+		<rom name="README.TXT" size="9966" crc="17e3805c" md5="70d53ffa606e916ece63ffa6d769d868" sha1="15b104e47a2779bf7901f61a93ac466debdf1236" date="1996-04-30 10:15:18"/>
 		<rom name="SAVEFIX.EXE" size="26956" crc="5ad5462c" md5="4c0906ea2c934943eed44ce0c54ebc78" sha1="39a6ed55e3f3de0a4a0130968d3dfca4a9977ee7" date="1996-06-26 15:39:54"/>
-		<rom name="SFXED95.EXE" size="23040" crc="90de9ae6" md5="2442094ff743a8ee2cca839e965d92e2" sha1="12d9895f638e5acb24a58006d5faa6162ad3bb7a"/>
 		<rom name="WAR2.EXE" size="906927" crc="0c4be779" md5="b2ecc20b4aae8265b515a17d88784214" sha1="83311218e57ca6507fd0788aa8a6891784109cb4" date="1997-07-07 18:17:22"/>
-		<rom name="WAR2ED95.EXE" size="370176" crc="d73608ce" md5="9a35a68a4cd858de1bbf94f0b1651532" sha1="5979abd8692eef05a4b5084dd00b3bb40d9acc77" date="1996-07-23 17:41:52"/>
-		<rom name="Warcraft II - Tides of Darkness (1995) (Blizzard Entertainment).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="Warcraft II.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
 	<game name="Warcraft II - Tides of Darkness (1995) (Blizzard Entertainment).dosz">
 		<description>Warcraft II - Tides of Darkness</description>
@@ -16492,7 +16489,7 @@
 		<comment_dosc>Sound Blaster config and auto start. General MIDI option (requires disabling CD music in-game)</comment_dosc>
 		<link type="media">http://redump.org/disc/42873/</link>
 		<link type="patch">https://www.pcgamingwiki.com/wiki/Warcraft_II:_Tides_of_Darkness#Patches</link>
-		<rom name="ALAMO.PUD" size="71902" crc="dd714468" md5="4b5cf9bdc9820045e00aa0809a93b77c" sha1="cac77b156bfb19dc256e9a8377629809e3a7db6e"/>
+		<rom name="Warcraft II.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="CD/WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 1).bin" size="239896944" crc="697d7350" md5="e501a3ab84f7d974056fabe4535dc622" sha1="e5197f073219536fab896b68d26dfa1f8ce5fe5c">
 			<source type="MODE1_RAW" frames="101997" duration="22:39:72"/>
 		</rom>
@@ -16545,82 +16542,60 @@
 			<source type="AUDIO" frames="3419" duration="00:45:44" size="8041488" crc="ddaa8d6c" md5="13945e800f33143dda430ab30facbd93" sha1="b3a765059f61eaf10baae9e8fa20a2fcc3bb277a" in_zeros="7800" out_zeros="715793" quality="8"/>
 		</rom>
 		<rom name="CD/WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05).cue" size="2247" crc="978daf8d" md5="dcc09248d1aa4f9c79e87dd9476afa02" sha1="480dcbed3eec5f210d03f003f073ef9f884f3c67"/>
-		<rom name="CHANNEL.PUD" size="71486" crc="09c4925c" md5="1948d2c3f0d3210091cc170ebd3eaead" sha1="1da09e1088113c653d3a1abbab570adb9bb18f2d"/>
-		<rom name="DATA/INSMAIN.INS" size="213855" crc="80064116" md5="89a910209b6d0bab136330124896330b" sha1="430130712055d514cbcfc20c352f065c83afdb5d"/>
-		<rom name="DATA/INSSTR.INS" size="12513" crc="57e6f593" md5="818af782449183d269e6e03178ba4f32" sha1="e926496ab888a283fc98f6a3454e07eb08fb8c18"/>
-		<rom name="DATA/MAINDAT.WAR" size="8409933" crc="b1ccb82e" md5="9389265dc9fd70f6b250e0278dfb455a" sha1="81b4e61b90c680814b75d7c68e8d50e2a0373424"/>
-		<rom name="DATA/REZDAT.WAR" size="1894026" crc="ed5c0a9c" md5="4505a8cd442fa13b58da1d1be74bbb7b" sha1="19c045add6e20b0b24227f556c21f93ff3c1488f"/>
-		<rom name="DATA/SFXDAT.SUD" size="4302671" crc="79bc45f7" md5="8a678ac03214f6fa9f7f86a9cf0da2fd" sha1="fa31b793730ddd01226e3dc07c0208bb6a3c02a5"/>
-		<rom name="DATA/STRDAT.WAR" size="51550" crc="9a48d3df" md5="e23eea8cd243fdf63986c8091899cefb" sha1="b299340ea6a681cb17b7590270a2bdcc8fc8f078"/>
-		<rom name="DEATH.PUD" size="37086" crc="e4853f46" md5="0f910d7d66ff3fa571fae1b800e8c2a7" sha1="8de2640c5b7d3ffb753aa1cbd8bdf8d31a165548"/>
-		<rom name="DRAGON.PUD" size="122006" crc="4be95c7a" md5="e56332d7feeaceba2aa2f153d37eba88" sha1="a66dec6d2171c7c8b3856594068c8a69cf020844"/>
-		<rom name="DRIVERS/ADLIB.MDI" size="14986" crc="6871f64c" md5="5cb112d060d70a43ee7c89b7ffe4f029" sha1="1f19c757259cac7b5f04281ac8830f8bece3c8d2"/>
-		<rom name="DRIVERS/ADLIBG.MDI" size="16377" crc="1d2a278b" md5="79d8137d4e6b78735b78cd8a4bd14827" sha1="14f61539bf8438f68add723fef2ef76821fa9fd8"/>
-		<rom name="DRIVERS/ADRV688.DIG" size="11278" crc="96dfb75d" md5="feabc78729e3a458ae2f6ab40146f0d9" sha1="255ecb5d649895d65bca49bd6afcbdf875e34bf2"/>
-		<rom name="DRIVERS/AILDRVR.LST" size="16885" crc="b13debb6" md5="83b8de65b09c95e7098104b7c9c19829" sha1="90636803056ed37a46c684b9d9ca53d9c4ab6cb0"/>
+		<rom name="ALAMO.PUD" size="71902" crc="dd714468" md5="4b5cf9bdc9820045e00aa0809a93b77c" sha1="cac77b156bfb19dc256e9a8377629809e3a7db6e" date="1996-06-11 14:37:34"/>
+		<rom name="CHANNEL.PUD" size="71486" crc="09c4925c" md5="1948d2c3f0d3210091cc170ebd3eaead" sha1="1da09e1088113c653d3a1abbab570adb9bb18f2d" date="1996-06-11 14:37:34"/>
+		<rom name="DATA/INSMAIN.INS" size="213855" crc="80064116" md5="89a910209b6d0bab136330124896330b" sha1="430130712055d514cbcfc20c352f065c83afdb5d" date="1996-06-11 14:37:32"/>
+		<rom name="DATA/INSSTR.INS" size="12513" crc="57e6f593" md5="818af782449183d269e6e03178ba4f32" sha1="e926496ab888a283fc98f6a3454e07eb08fb8c18" date="1996-06-11 14:37:32"/>
+		<rom name="DATA/MAINDAT.WAR" size="8409933" crc="b1ccb82e" md5="9389265dc9fd70f6b250e0278dfb455a" sha1="81b4e61b90c680814b75d7c68e8d50e2a0373424" date="1996-06-11 14:38:44"/>
+		<rom name="DATA/REZDAT.WAR" size="1894026" crc="ed5c0a9c" md5="4505a8cd442fa13b58da1d1be74bbb7b" sha1="19c045add6e20b0b24227f556c21f93ff3c1488f" date="1996-06-11 14:38:08"/>
+		<rom name="DATA/SFXDAT.SUD" size="4302671" crc="79bc45f7" md5="8a678ac03214f6fa9f7f86a9cf0da2fd" sha1="fa31b793730ddd01226e3dc07c0208bb6a3c02a5" date="1996-06-11 14:38:00"/>
+		<rom name="DATA/STRDAT.WAR" size="51550" crc="9a48d3df" md5="e23eea8cd243fdf63986c8091899cefb" sha1="b299340ea6a681cb17b7590270a2bdcc8fc8f078" date="1996-06-11 14:38:02"/>
+		<rom name="DEATH.PUD" size="37086" crc="e4853f46" md5="0f910d7d66ff3fa571fae1b800e8c2a7" sha1="8de2640c5b7d3ffb753aa1cbd8bdf8d31a165548" date="1996-06-11 14:37:34"/>
+		<rom name="DRAGON.PUD" size="122006" crc="4be95c7a" md5="e56332d7feeaceba2aa2f153d37eba88" sha1="a66dec6d2171c7c8b3856594068c8a69cf020844" date="1996-06-11 14:37:34"/>
+		<rom name="DRIVERS/ADLIB.MDI" size="14986" crc="6871f64c" md5="5cb112d060d70a43ee7c89b7ffe4f029" sha1="1f19c757259cac7b5f04281ac8830f8bece3c8d2" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/ADLIBG.MDI" size="16377" crc="1d2a278b" md5="79d8137d4e6b78735b78cd8a4bd14827" sha1="14f61539bf8438f68add723fef2ef76821fa9fd8" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/ADRV688.DIG" size="11278" crc="96dfb75d" md5="feabc78729e3a458ae2f6ab40146f0d9" sha1="255ecb5d649895d65bca49bd6afcbdf875e34bf2" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/AILDRVR.LST" size="16885" crc="b13debb6" md5="83b8de65b09c95e7098104b7c9c19829" sha1="90636803056ed37a46c684b9d9ca53d9c4ab6cb0" date="1996-06-11 14:37:36"/>
 		<rom name="DRIVERS/DIG.INI" size="207" crc="21cd282e" md5="0d31f9eb5db6a319553f51eabe14deec" sha1="679f1b1c65be2acf9654e91b89c37a5823ae4764"/>
-		<rom name="DRIVERS/DIGTEST.WAV" size="53868" crc="ead2e54e" md5="c8116a6107886abea0947107b20fe8a7" sha1="50ba3a20a218f46197870ffa3713202f5c2fd038"/>
-		<rom name="DRIVERS/DIGTEST2.WAV" size="34604" crc="1804b1f7" md5="03ef9c1d6f410acd25a1539c7c5b97e7" sha1="69dcc5cf3024fbfd1ef050bae7050b3ed2eea6bf"/>
-		<rom name="DRIVERS/DIGTEST3.WAV" size="53406" crc="33ced2fe" md5="b1082c681446352ab242d56d2820742b" sha1="249a4326280286996d6ce5d9bcf8922d7228b56a"/>
-		<rom name="DRIVERS/ESFM.MDI" size="15084" crc="1aa86b62" md5="133a6b2b01da252dfa11b6e2ec5f5ebf" sha1="08b230f9306245fe00e1c8a098d3a6d3ee41fac0"/>
-		<rom name="DRIVERS/JAMMER.DIG" size="3219" crc="230129e0" md5="4922c729c5e7b347089a2be44f296859" sha1="103e0bf92c6fd1c9fc925fd57bdc22e56170b395"/>
+		<rom name="DRIVERS/DIGTEST.WAV" size="53868" crc="ead2e54e" md5="c8116a6107886abea0947107b20fe8a7" sha1="50ba3a20a218f46197870ffa3713202f5c2fd038" date="1996-06-11 14:37:32"/>
+		<rom name="DRIVERS/DIGTEST2.WAV" size="34604" crc="1804b1f7" md5="03ef9c1d6f410acd25a1539c7c5b97e7" sha1="69dcc5cf3024fbfd1ef050bae7050b3ed2eea6bf" date="1996-06-11 14:37:32"/>
+		<rom name="DRIVERS/DIGTEST3.WAV" size="53406" crc="33ced2fe" md5="b1082c681446352ab242d56d2820742b" sha1="249a4326280286996d6ce5d9bcf8922d7228b56a" date="1996-06-11 14:37:32"/>
+		<rom name="DRIVERS/ESFM.MDI" size="15084" crc="1aa86b62" md5="133a6b2b01da252dfa11b6e2ec5f5ebf" sha1="08b230f9306245fe00e1c8a098d3a6d3ee41fac0" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/JAMMER.DIG" size="3219" crc="230129e0" md5="4922c729c5e7b347089a2be44f296859" sha1="103e0bf92c6fd1c9fc925fd57bdc22e56170b395" date="1996-06-11 14:37:36"/>
 		<rom name="DRIVERS/MDI.INI" size="200" crc="4c3e0499" md5="5f8fbb933fd98d51e8d97df43e5eced9" sha1="399236cc977bbd7e84bc1ed11d965a2d48efdc76"/>
-		<rom name="DRIVERS/MIDITEST.XMI" size="15838" crc="6026b413" md5="f0872c4a02b012e2839020d15ce073bd" sha1="15787f668e76b3d7a28154ddd784aa841623f6ea"/>
-		<rom name="DRIVERS/MIDITST2.XMI" size="15130" crc="1ab3574e" md5="73e8d49efd2e05fa0592e10c935b9f27" sha1="61ca7eab66b61424fa6feaa722d3805dda303d10"/>
-		<rom name="DRIVERS/MPU401.MDI" size="1915" crc="70a67ea6" md5="965a57d16212beb0f68cb9f62bc7259b" sha1="6ee8364704c81319d04a2459dcc8e65460749a30"/>
-		<rom name="DRIVERS/OPL3.MDI" size="16387" crc="74aad2f1" md5="84ce740acea5af9ef8d118174bff88c8" sha1="310b8b21f088ec0180c02c9fbe1edd744d76c9b2"/>
-		<rom name="DRIVERS/PAS.MDI" size="15425" crc="01d01110" md5="bcc2a72a36663f40c019d0af2c95df13" sha1="a94fcb63700f1cbf46698d074526b5db48754b90"/>
-		<rom name="DRIVERS/PASPLUS.MDI" size="16458" crc="c5a2ded9" md5="f5515c19a269ca2b1af13e9b3e3c3d3a" sha1="a9c4967e8ca11c529a49d8a54f8730b223c0289f"/>
-		<rom name="DRIVERS/PROAUDIO.DIG" size="2127" crc="4b071066" md5="a054071be574b2bcf47a0386f1a98ae6" sha1="8debfb262849ebce1da3d45387d1595712c2667b"/>
-		<rom name="DRIVERS/RAP10.DIG" size="2849" crc="47373ef0" md5="bb846bb23ee9065a09373afdb73cf054" sha1="6081bc6e447afeaad48a8361c92e7ce280f6ea7e"/>
-		<rom name="DRIVERS/SB16.DIG" size="2836" crc="6ddaa5d2" md5="b24e361b7634b9b3eafcd2cbb592ba9b" sha1="f0734dae77c034f5cfcd7b353cd75adfb57871af"/>
-		<rom name="DRIVERS/SBAWE32.MDI" size="32694" crc="dd43a7b8" md5="a66e04b5c067b95932857aff75f48f5d" sha1="a608005dd369a07f16e6acdadfd0fcdf95cc02ec"/>
-		<rom name="DRIVERS/SBLASTER.DIG" size="3125" crc="d1b1a7d7" md5="b456d6385b74b700f09aec22ba14ca19" sha1="5eec3b5791ad5855c7a4440909db651b6aca3b2f"/>
-		<rom name="DRIVERS/SBLASTER.MDI" size="15118" crc="670d5af4" md5="20fc92cf9e0d0d8e2447cd30252faee4" sha1="8e44d8bf0291e453d45477c6dd36fbd5ca40ac95"/>
-		<rom name="DRIVERS/SBPRO.DIG" size="2763" crc="1061490f" md5="b0fe50da778c24cc4066e960a3d1a7c3" sha1="8bc27ebd0ec30dabfd354b948801946b7e8f33d8"/>
-		<rom name="DRIVERS/SBPRO1.MDI" size="15471" crc="25370f67" md5="998eced7549230f6d621766f0cce4c39" sha1="92775d93ad5ee563ae8bf2b6f51ba8d444039e52"/>
-		<rom name="DRIVERS/SBPRO2.MDI" size="16541" crc="0ab0493a" md5="8879265bf3b414346f66c326389e32ae" sha1="4a9d598979e14f4f8c0e76fe0246b305fb848955"/>
-		<rom name="DRIVERS/SNDSCAPE.DIG" size="4171" crc="708a96a2" md5="9d7a052a680f45d244e0ee4735b7b55f" sha1="f9902b74d545813315194f5a1791c4ea0a9a1e0d"/>
-		<rom name="DRIVERS/SNDSCAPE.MDI" size="2971" crc="ad1df3c2" md5="31ec7e6e06a3eb9e0bebff3e52ef1b0f" sha1="01e3ffef3aa6e9d312f190a9403ff8d167743aed"/>
-		<rom name="DRIVERS/SNDSYS.DIG" size="3332" crc="86ecb774" md5="c67142fe53599b28ff7d53565576dbae" sha1="72a300265348a67c33945d0aa6b5c0ec3933dbcd"/>
-		<rom name="DRIVERS/ULTRA.DIG" size="9478" crc="430d67f5" md5="000e584a06712d2f2b58eb2e17b65248" sha1="4327d6bb924b4e40fa7ff035bdfb73a879c31836"/>
-		<rom name="DRIVERS/ULTRA.MDI" size="49672" crc="04849dc3" md5="9a1b881ab9e8f6d827f6c27c5df40d85" sha1="8337ada0962de33ee3eb8ebbf9d5d0c898f41fd2"/>
-		<rom name="DRIVERS/WARCRAFT.AD" size="3622" crc="d986716d" md5="432b2e2d05f1e1e00ca9eeb814a693b0" sha1="f0033a93d52f1cb112f7b89028afbe5b1815eb6d"/>
-		<rom name="DRIVERS/WARCRAFT.OPL" size="3622" crc="d986716d" md5="432b2e2d05f1e1e00ca9eeb814a693b0" sha1="f0033a93d52f1cb112f7b89028afbe5b1815eb6d"/>
-		<rom name="ICEBRDGE.PUD" size="122510" crc="04846780" md5="514b826ce910157238a86e119f7bb9a3" sha1="57313e40bb41c7b1242aae1bab9afdf68e745673"/>
-		<rom name="INSTALL.HST" size="1819" crc="b6286657" md5="e0e36560d8b1bfea7e8cc8226c98c467" sha1="813b35aee3a5aae00c8fffb26a9c5c56260896d9"/>
-		<rom name="ISLANDS.PUD" size="71518" crc="76743537" md5="9e746fb245d7044c54c5ec08cdc4dc19" sha1="7ceaf1bc69880d353ce3c1d190ebbc02c3af09aa"/>
-		<rom name="KALI/FILE_ID.DIZ" size="508" crc="ae2b68ae" md5="5ca4971d89a4a246b1012e1ab352f136" sha1="9c0cdba1e5c749ed1f290f6f683b768d766c5715" date="1997-07-14 13:15:20"/>
-		<rom name="KALI/ISP.HLP" size="27815" crc="54d30216" md5="87a496968efff2cb0827a5e6058d6b05" sha1="e72aaaccd400cff685d03b137f6efaad8c19e304" date="1997-07-14 13:15:20"/>
-		<rom name="KALI/KALI.CFG" size="1015" crc="b801997e" md5="0147ec30fecbbaa4f64e1df9559d43e5" sha1="2a8eb2781ecce62a80f0e1c8bd6e3b323dafd363" date="1997-07-14 13:15:20"/>
-		<rom name="KALI/KALI.DOC" size="57913" crc="298fb89f" md5="68a9b18965efd73fe219d46844b9c03e" sha1="ebb2691e25c5accc316cf333419449d471ae99b8" date="1997-07-14 13:15:20"/>
-		<rom name="KALI/KALI.EXE" size="28641" crc="cc169801" md5="1f80260c4803ee4f556f069168bd5856" sha1="a2606271bd043622f98e4deb5741a23ae5308a6b" date="1997-07-14 13:15:20"/>
-		<rom name="KALI/KALIGAME.FAQ" size="27410" crc="ca6919bb" md5="b341ffd27ebe962d53e7ff5891e43e8b" sha1="91ba93fa250c9284737df784cf95639472fb8f7c" date="1997-07-14 13:15:20"/>
-		<rom name="KALI/KCHAT.CFG" size="850" crc="f01b15db" md5="3d69e71c8f52081ec38cfb277169aa8f" sha1="9d1fcdb82003bd5e240339bb6e37a932d761f487" date="1997-07-14 13:15:20"/>
-		<rom name="KALI/KCHAT.EXE" size="24204" crc="3e333405" md5="bf81d65e52753aa6f9c819c0c983a09e" sha1="705214d3547a30ac5a89d1b26a81e19d3b22f920" date="1997-07-14 13:15:20"/>
-		<rom name="KALI/ORDER.FRM" size="913" crc="487cf28d" md5="356d8200014403f8c70803e5a4ce2d73" sha1="4e870e1457271701c74418358ab9964186d122ed" date="1997-07-14 13:15:20"/>
-		<rom name="KALI/README.NOW" size="1648" crc="050f4da9" md5="4816ff6efcd28b555d0c771e06cab201" sha1="98e41af64067212a5dcb554135e91347d6823115" date="1997-07-14 13:15:20"/>
-		<rom name="KALI/REVISION.LST" size="8558" crc="60fb9e1e" md5="0d47e9607479c7156329d29d004e666f" sha1="0c208f1b1fa2f31cfe0d0673bf25f3be29dce678" date="1997-07-14 13:15:20"/>
-		<rom name="KALI/SNATCH.DOC" size="1701" crc="607f3814" md5="66386a874b5d4dae4da90e59ee0a8ee0" sha1="ca46642d6c442d5a3e879e7d289d43f4b3ea0a73" date="1997-07-14 13:15:20"/>
-		<rom name="KALI/SNATCH.EXE" size="8714" crc="203f9bdd" md5="074a1982820b68122545687c87b40689" sha1="3cc86b742542a20102cb6ec7ef646c4353d6aab6" date="1997-07-14 13:15:20"/>
-		<rom name="KALI/WATTCP.CFG" size="982" crc="fe2d3f7a" md5="2dac35c26bdeb68311dcb60cfa007d43" sha1="3526bdd6033c2e4b632cc0450ad3d7d22af6e54c" date="1997-07-14 13:15:20"/>
-		<rom name="LAND_SEA.PUD" size="71806" crc="31de68e9" md5="f5a2caac77de98c74d797a640b9afbd3" sha1="61e7ade12f82dbd74a0f31fa26a10cfcb5cd7c57"/>
-		<rom name="MUTTON.PUD" size="18790" crc="ee2337c4" md5="ebb44f9cd4e2ab97eb9cda0d4b312bea" sha1="28d8d09b8ce4e3ad44cf0522096ba8517c498d11"/>
+		<rom name="DRIVERS/MIDITEST.XMI" size="15838" crc="6026b413" md5="f0872c4a02b012e2839020d15ce073bd" sha1="15787f668e76b3d7a28154ddd784aa841623f6ea" date="1996-06-11 14:37:32"/>
+		<rom name="DRIVERS/MIDITST2.XMI" size="15130" crc="1ab3574e" md5="73e8d49efd2e05fa0592e10c935b9f27" sha1="61ca7eab66b61424fa6feaa722d3805dda303d10" date="1996-06-11 14:37:32"/>
+		<rom name="DRIVERS/MPU401.MDI" size="1915" crc="70a67ea6" md5="965a57d16212beb0f68cb9f62bc7259b" sha1="6ee8364704c81319d04a2459dcc8e65460749a30" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/OPL3.MDI" size="16387" crc="74aad2f1" md5="84ce740acea5af9ef8d118174bff88c8" sha1="310b8b21f088ec0180c02c9fbe1edd744d76c9b2" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/PAS.MDI" size="15425" crc="01d01110" md5="bcc2a72a36663f40c019d0af2c95df13" sha1="a94fcb63700f1cbf46698d074526b5db48754b90" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/PASPLUS.MDI" size="16458" crc="c5a2ded9" md5="f5515c19a269ca2b1af13e9b3e3c3d3a" sha1="a9c4967e8ca11c529a49d8a54f8730b223c0289f" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/PROAUDIO.DIG" size="2127" crc="4b071066" md5="a054071be574b2bcf47a0386f1a98ae6" sha1="8debfb262849ebce1da3d45387d1595712c2667b" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/RAP10.DIG" size="2849" crc="47373ef0" md5="bb846bb23ee9065a09373afdb73cf054" sha1="6081bc6e447afeaad48a8361c92e7ce280f6ea7e" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/SB16.DIG" size="2836" crc="6ddaa5d2" md5="b24e361b7634b9b3eafcd2cbb592ba9b" sha1="f0734dae77c034f5cfcd7b353cd75adfb57871af" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/SBAWE32.MDI" size="32694" crc="dd43a7b8" md5="a66e04b5c067b95932857aff75f48f5d" sha1="a608005dd369a07f16e6acdadfd0fcdf95cc02ec" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/SBLASTER.DIG" size="3125" crc="d1b1a7d7" md5="b456d6385b74b700f09aec22ba14ca19" sha1="5eec3b5791ad5855c7a4440909db651b6aca3b2f" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/SBLASTER.MDI" size="15118" crc="670d5af4" md5="20fc92cf9e0d0d8e2447cd30252faee4" sha1="8e44d8bf0291e453d45477c6dd36fbd5ca40ac95" date="1996-06-11 14:37:38"/>
+		<rom name="DRIVERS/SBPRO.DIG" size="2763" crc="1061490f" md5="b0fe50da778c24cc4066e960a3d1a7c3" sha1="8bc27ebd0ec30dabfd354b948801946b7e8f33d8" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/SBPRO1.MDI" size="15471" crc="25370f67" md5="998eced7549230f6d621766f0cce4c39" sha1="92775d93ad5ee563ae8bf2b6f51ba8d444039e52" date="1996-06-11 14:37:38"/>
+		<rom name="DRIVERS/SBPRO2.MDI" size="16541" crc="0ab0493a" md5="8879265bf3b414346f66c326389e32ae" sha1="4a9d598979e14f4f8c0e76fe0246b305fb848955" date="1996-06-11 14:37:38"/>
+		<rom name="DRIVERS/SNDSCAPE.DIG" size="4171" crc="708a96a2" md5="9d7a052a680f45d244e0ee4735b7b55f" sha1="f9902b74d545813315194f5a1791c4ea0a9a1e0d" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/SNDSCAPE.MDI" size="2971" crc="ad1df3c2" md5="31ec7e6e06a3eb9e0bebff3e52ef1b0f" sha1="01e3ffef3aa6e9d312f190a9403ff8d167743aed" date="1996-06-11 14:37:38"/>
+		<rom name="DRIVERS/SNDSYS.DIG" size="3332" crc="86ecb774" md5="c67142fe53599b28ff7d53565576dbae" sha1="72a300265348a67c33945d0aa6b5c0ec3933dbcd" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/ULTRA.DIG" size="9478" crc="430d67f5" md5="000e584a06712d2f2b58eb2e17b65248" sha1="4327d6bb924b4e40fa7ff035bdfb73a879c31836" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/ULTRA.MDI" size="49672" crc="04849dc3" md5="9a1b881ab9e8f6d827f6c27c5df40d85" sha1="8337ada0962de33ee3eb8ebbf9d5d0c898f41fd2" date="1996-06-11 14:37:38"/>
+		<rom name="DRIVERS/WARCRAFT.AD" size="3622" crc="d986716d" md5="432b2e2d05f1e1e00ca9eeb814a693b0" sha1="f0033a93d52f1cb112f7b89028afbe5b1815eb6d" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/WARCRAFT.OPL" size="3622" crc="d986716d" md5="432b2e2d05f1e1e00ca9eeb814a693b0" sha1="f0033a93d52f1cb112f7b89028afbe5b1815eb6d" date="1996-06-11 14:37:36"/>
+		<rom name="ICEBRDGE.PUD" size="122510" crc="04846780" md5="514b826ce910157238a86e119f7bb9a3" sha1="57313e40bb41c7b1242aae1bab9afdf68e745673" date="1996-06-11 14:37:36"/>
+		<rom name="INSTALL.HST" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="ISLANDS.PUD" size="71518" crc="76743537" md5="9e746fb245d7044c54c5ec08cdc4dc19" sha1="7ceaf1bc69880d353ce3c1d190ebbc02c3af09aa" date="1996-06-11 14:37:36"/>
+		<rom name="LAND_SEA.PUD" size="71806" crc="31de68e9" md5="f5a2caac77de98c74d797a640b9afbd3" sha1="61e7ade12f82dbd74a0f31fa26a10cfcb5cd7c57" date="1996-06-11 14:37:36"/>
+		<rom name="MUTTON.PUD" size="18790" crc="ee2337c4" md5="ebb44f9cd4e2ab97eb9cda0d4b312bea" sha1="28d8d09b8ce4e3ad44cf0522096ba8517c498d11" date="1996-06-11 14:37:36"/>
 		<rom name="READ_140.TXT" size="3250" crc="a39196bc" md5="3f667164b667a37395dc710e2fc9eab9" sha1="f5b05e72de0bbe79e5c2edd9f461a08ec698b429" date="1997-07-14 13:21:40"/>
-		<rom name="README.TXT" size="8838" crc="1548421d" md5="d54af2fc07c746448a57c8692f0f07fc" sha1="8afd36e756d62e832b647bc039959fdc0c0c2736"/>
-		<rom name="SETUP.EXE" size="581465" crc="4b844b3c" md5="29701af3414280c9803c40fed926e1c6" sha1="76ae862c0bf26e46bc9084021d3acb58d9878a53"/>
-		<rom name="SETUP.PIF" size="967" crc="4490e8c7" md5="6f7fbd0ce0501c5a6f530edc05dfb6b1" sha1="c06f313a681fd03ce2e7049df2564a206050e2b5"/>
-		<rom name="SFXED95.EXE" size="23040" crc="0d4939de" md5="40f57b0544d8b5ccbdb9711b03b3aca8" sha1="b01fd64bd3204656c30648132b399eb6a6e52acd"/>
-		<rom name="UVCONFIG.EXE" size="260250" crc="3731ecd2" md5="43e7d6c9a606c9d3c7f703e2056fdb1b" sha1="3c4c61563ab6df1fb145b05c925b178095c83ea9"/>
+		<rom name="README.TXT" size="8838" crc="1548421d" md5="d54af2fc07c746448a57c8692f0f07fc" sha1="8afd36e756d62e832b647bc039959fdc0c0c2736" date="1996-06-11 14:37:36"/>
+		<rom name="SETUP.EXE" size="581465" crc="4b844b3c" md5="29701af3414280c9803c40fed926e1c6" sha1="76ae862c0bf26e46bc9084021d3acb58d9878a53" date="1996-06-11 14:37:30"/>
+		<rom name="UVCONFIG.EXE" size="260250" crc="3731ecd2" md5="43e7d6c9a606c9d3c7f703e2056fdb1b" sha1="3c4c61563ab6df1fb145b05c925b178095c83ea9" date="1996-06-11 14:37:30"/>
 		<rom name="WAR2.EXE" size="884571" crc="87267fd2" md5="56cff3e4568af6fe2225fbc8539fd734" sha1="a6d44b87ceb4cc0da27626aff1f6ed1fbec54387" date="1997-07-10 16:54:14"/>
 		<rom name="WAR2.INI" size="365" crc="1213a8e0" md5="195e9e67a54dd65b07a922b760f2027f" sha1="eed37c196bd7ea731c940112cd4b4e82a12f1e47"/>
-		<rom name="WAR2.PIF" size="967" crc="25e8d2ca" md5="782379eb530521f08327c78de2403b57" sha1="f95fc40f297c477a985aea0aaec3e3e4d0c93b2b"/>
-		<rom name="WAR2ED95.EXE" size="366592" crc="664c9070" md5="85dcf9a2b9de9efedb42cb3527f17289" sha1="9af85eab9a2210014645e325ab88e7957b0b2a15"/>
-		<rom name="WAR2ED95.HLP" size="70025" crc="61717575" md5="ff8e969ecacd486564ad5b7851a59fd6" sha1="73ed6e24e293578acc1a16dd8b545ac1dbe0b03e"/>
-		<rom name="WAR2EDIT.EXE" size="11264" crc="59a87a0f" md5="94542a0a0d03ea7f2b5884cb77626f7c" sha1="0b041e4a7307798681498f830fcfff4f834e0b15"/>
-		<rom name="WAR2ICON.DLL" size="15360" crc="cf8fd9fd" md5="340e6d0d9c2941531e078b692e7f7abc" sha1="70e1a5be0f94f034a466e28f3162ead4d586d6ab"/>
-		<rom name="WAR2KALI.EXE" size="3376" crc="f0b46eb2" md5="6432f373331845d92c2af7abac97d338" sha1="0fc6bef0f1653c1d85e8439feffd074a98b0bb2f"/>
-		<rom name="Warcraft II.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
 	<game name="Wasteland (1988) (Interplay).dosz">
 		<description>Wasteland</description>
