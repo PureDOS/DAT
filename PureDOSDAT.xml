@@ -14860,10 +14860,47 @@
 	</game>
 	<game name="Quake (1996) (id Software).dosz">
 		<description>Quake</description>
-		<comment>Installed v1.08 from Quake: The Offering CD, Windows-only files and VQuake removed</comment>
-		<comment_dosc>Default config</comment_dosc>
 		<year>1996</year>
 		<developer>id Software</developer>
+		<comment>
+			Installed v1.08 from Quake: The Offering CD matching with Redump: Quake (USA) (Rerelease) (1998-09-21)
+			Windows-only files and VQuake removed
+			CD image converted with CHDtoOGG using -n option
+		</comment>
+		<comment_dosc>640x480 resolution, mouse look enabled, and auto start</comment_dosc>
+		<link type="media">http://redump.org/disc/29723/</link>
+		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 1).bin" size="43008" crc="10d89042" md5="73db37b47ede9da7e9fbaae52c6c8a8b" sha1="8a2846aac1e2ceb8a08a9cd5591e9a85228d5cab"/>
+		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 2).ogg" size="7882049" crc="90fd2c67" md5="8434fb843b4f483e3e5e8c2f12cb646a" sha1="418d4206672139ffdc017a76f98e559421ff39e4">
+			<source type="AUDIO" frames="23145" omitted_pregap="75" duration="05:08:45" size="54437040" crc="f0ddb393" md5="d7ebb4809c11ffd6ee6ba2b5152d2836" sha1="fa71ae4549d9d2bcfcaa3409eb40d0f0acb85049" in_zeros="5533" out_zeros="352525" quality="8"/>
+		</rom>
+		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 3).ogg" size="3250277" crc="d4d0c05c" md5="cafb407a2bb79ee4593721e61eb2ba89" sha1="caf37fba8593b42f33053e7abd8be6ff5d5bf705">
+			<source type="AUDIO" frames="10801" duration="02:24:01" size="25403952" crc="622f9b43" md5="d4a7e714c62e318b4b1d652276c180ad" sha1="9c38d7cdcde4fc75c38c5b5a3f14ff3065825b56" in_zeros="5532" out_zeros="2089" quality="8"/>
+		</rom>
+		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 4).ogg" size="16653400" crc="7ee022c4" md5="d3dbca00f1f5a8e2d758cf0efdec8c02" sha1="0f9fce4e21a3f79841d44e20af109704e4684aaa">
+			<source type="AUDIO" frames="37369" omitted_pregap="149" duration="08:18:19" size="87891888" crc="e6371adb" md5="78913834582b44a12eb5beacbf7afc42" sha1="4f34c6b22cb30328e8c3c197140bd8975a82b533" in_zeros="5556" out_zeros="2048" quality="8"/>
+		</rom>
+		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 5).ogg" size="8135266" crc="55961eea" md5="b061a81810ed9aa20f0202b7978580f5" sha1="8b9822b90e13eb028d0f69294aa6ac2036f4babd">
+			<source type="AUDIO" frames="27254" omitted_pregap="149" duration="06:03:29" size="64101408" crc="ea0baadb" md5="974685a374d51596949a63ba87282450" sha1="91656b7c0e117ec37a9ae96667a3f65d5bbede6c" in_zeros="5532" out_zeros="2096" quality="8"/>
+		</rom>
+		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 6).ogg" size="11904206" crc="4e938f4d" md5="7913a127d3b194dfeaf7702c9bcb0c20" sha1="c08f6d2f2c88346889a19aea20fac0955b297035">
+			<source type="AUDIO" frames="33194" omitted_pregap="149" duration="07:22:44" size="78072288" crc="84f20473" md5="3105cbde6e0eaa040a950faafc91cef6" sha1="24c93b59b52c4eece28cd2c7d0c5e9a16746ac8e" in_zeros="5532" out_zeros="2073" quality="8"/>
+		</rom>
+		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 7).ogg" size="11762356" crc="fe6fdb25" md5="a961d6243134793411e746456463aa24" sha1="eb9df21a47387b8607f37b212b14027664a25862">
+			<source type="AUDIO" frames="38717" omitted_pregap="149" duration="08:36:17" size="91062384" crc="2cbfc1f6" md5="088b518cb9ad059ff7dd7a26c6a7e40b" sha1="5f1f5166bde990c2b85d361ae83a6976a3fd5620" in_zeros="5532" out_zeros="2073" quality="8"/>
+		</rom>
+		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 8).ogg" size="8472179" crc="82de3b37" md5="e4be8731435b80e9d702964adbcd3f48" sha1="9c7cfd51e36f59f3457f8877eee1ed8ef50df00c">
+			<source type="AUDIO" frames="25044" omitted_pregap="149" duration="05:33:69" size="58903488" crc="09147515" md5="0b55a52a9d64e560658de02088e55c1d" sha1="bd56524c4225bb6f52c054aac5036c695aa9a5ef" in_zeros="5532" out_zeros="2079" quality="8"/>
+		</rom>
+		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 9).ogg" size="8433685" crc="a3093295" md5="6ef68ebad08f3052e98667567323ae5c" sha1="f0921af7612019441f40120a099f798e5493e0ab">
+			<source type="AUDIO" frames="29019" omitted_pregap="149" duration="06:26:69" size="68252688" crc="f3a08665" md5="3c9c0f563c884bd13d874098ce4493dc" sha1="ca6af4796bf2f941db998c2c719109ba6d13ed81" in_zeros="5534" out_zeros="2568" quality="8"/>
+		</rom>
+		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 10).ogg" size="5309838" crc="799aee70" md5="d9fb36992f79643fd9dad992187f7ad1" sha1="d016abfaf9f399437f24cba283f99d31e2aa5647">
+			<source type="AUDIO" frames="15792" omitted_pregap="149" duration="03:30:42" size="37142784" crc="ab3b0b3d" md5="737aa2d29c723031660594920058350b" sha1="8adac6ae596dd3cfe4d1969fa50f8993194a204a" in_zeros="5532" out_zeros="2632" quality="8"/>
+		</rom>
+		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 11).ogg" size="7701553" crc="f55e2fbb" md5="20fdbac3acd63eaf810bb49e98206f5a" sha1="c5346338a7803a023e8487ff0a30caa46eaeb081">
+			<source type="AUDIO" frames="23504" omitted_pregap="149" duration="05:13:29" size="55281408" crc="64af806f" md5="b9fda1614fbf6eda08e9653ce81d088c" sha1="32b027006d87e8fb504929a885fd12ed88de0872" in_zeros="5532" out_zeros="63" quality="8"/>
+		</rom>
+		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21).cue" size="1343" crc="10526352" md5="24e5a9b8ea47bbd7cc7e324f9fffcd6b" sha1="d5ba75606ec255a3c2bdf505b2ea26023d0f061f"/>
 		<rom name="CWSDPMI.EXE" size="25920" crc="4fc60ecd" md5="cdba7e5b5050d3f3be9ddaf79a943ed4" sha1="d7a811b9d2f887dc94e145ce80dd9ced5fdf1548" date="1996-09-26 12:07:22"/>
 		<rom name="DOCS/DOS/COMEXP.TXT" size="25462" crc="68bda64a" md5="0575bbd0df753f6e44b7a0f67ffc1413" sha1="606c21d258d58823a605fc20f5c45600d9b0ffb0" date="1996-07-12 17:31:50"/>
 		<rom name="DOCS/DOS/HELP.TXT" size="9510" crc="ec075939" md5="be86e294465931e700eeac0539ccdb51" sha1="3945b34a83af2acce1a233bc03f7f277302975c0" date="1998-09-16 13:04:36"/>
@@ -14877,19 +14914,6 @@
 		<rom name="DOCS/QUAKE.HLP" size="2142857" crc="a26eb96d" md5="a78512171c7392bf35cd1177ef7ecd62" sha1="0ee8004c53bf2e2ba1de8d0f26fb08081159b61e" date="1998-09-18 11:44:38"/>
 		<rom name="ID1/PAK0.PAK" size="18689235" crc="74e3b084" md5="5906e5998fc3d896ddaf5e6a62e03abb" sha1="36b42dc7b6313fd9cabc0be8b9e9864840929735" date="1996-10-01 14:25:58"/>
 		<rom name="ID1/PAK1.PAK" size="34257856" crc="2e803216" md5="d76b3e5678f0b64ac74ce5e340e6a685" sha1="6fd0d1643047612f41afb2001b972d830c792921" date="1996-07-12 17:31:52"/>
-		<rom name="Quake (USA) (Rerelease) (1998-09-21).chd" size="744877440" crc="7ed7068d" md5="6ee6a3c821c660806cd0899558fc919f" sha1="2e7ee3f308d6c45dcd15d82ca81a952aeadc2393">
-			<track number="1" type="MODE1_RAW" frames="40457" pregap="0" duration="08:59:32" size="95154864" crc="eed8cdf5" md5="22dc28b0c3b91ca861e36e7f5caf4b75" sha1="97c53d8b3b45940008476f496c89894d071c047e" in_zeros="1" out_zeros="0"/>
-			<track number="2" type="AUDIO" frames="23220" pregap="75" duration="05:09:45" size="54613440" crc="b8bca15a" md5="bfe5874130fcb3a4d11d51238deefe36" sha1="8a856458828da44360696aac9a61485a61863269" in_zeros="181933" out_zeros="352525"/>
-			<track number="3" type="AUDIO" frames="10801" pregap="0" duration="02:24:01" size="25403952" crc="622f9b43" md5="d4a7e714c62e318b4b1d652276c180ad" sha1="9c38d7cdcde4fc75c38c5b5a3f14ff3065825b56" in_zeros="5532" out_zeros="2089"/>
-			<track number="4" type="AUDIO" frames="37518" pregap="149" duration="08:20:18" size="88242336" crc="adc45184" md5="450050096176aa66f273469f07118934" sha1="7128966c48faa0abb5706dd6cbaa189104a7e382" in_zeros="356004" out_zeros="2048"/>
-			<track number="5" type="AUDIO" frames="27403" pregap="149" duration="06:05:28" size="64451856" crc="d5d4d62d" md5="97c3c4b6eb9190710263f615c759eeb6" sha1="965c9debd6d1601bcd4d0f9c042a846a3dee41e4" in_zeros="355980" out_zeros="2096"/>
-			<track number="6" type="AUDIO" frames="33343" pregap="149" duration="07:24:43" size="78422736" crc="607f18aa" md5="bebb40e26d23fa76617586ec567041a9" sha1="43c36e6093b14770eb3809a1a8ddf1cffed54c39" in_zeros="355980" out_zeros="2073"/>
-			<track number="7" type="AUDIO" frames="38866" pregap="149" duration="08:38:16" size="91412832" crc="6134454b" md5="3d832ee7f399cf9bbe515d7a86062d3d" sha1="ea6449f0806179d592f8f6029e19442ee1b67c73" in_zeros="355980" out_zeros="2073"/>
-			<track number="8" type="AUDIO" frames="25193" pregap="149" duration="05:35:68" size="59253936" crc="684af090" md5="1b662973ec2c73eb55d57035e8702143" sha1="ef935e8b731d8d2319f51418921225cabf66bc94" in_zeros="355980" out_zeros="2079"/>
-			<track number="9" type="AUDIO" frames="29168" pregap="149" duration="06:28:68" size="68603136" crc="0bef23a3" md5="5709deeab2cf503322cce7a7fa62efc5" sha1="f2c07b79c8b283103245be1d4c450383983fdd6e" in_zeros="355982" out_zeros="2568"/>
-			<track number="10" type="AUDIO" frames="15941" pregap="149" duration="03:32:41" size="37493232" crc="fef9951a" md5="724ace8140191ff54173f1fefad6a10b" sha1="75762afc139a4a84e5336f7266a207792159dd94" in_zeros="355980" out_zeros="2632"/>
-			<track number="11" type="AUDIO" frames="23653" pregap="149" duration="05:15:28" size="55631856" crc="6f299181" md5="09701dd44e7bbc7a973cec257e68711a" sha1="774aedd61f6b60b182a2e544af7768291c82d6fb" in_zeros="355980" out_zeros="63"/>
-		</rom>
 		<rom name="QUAKE.EXE" size="409600" crc="3bc26700" md5="e3e7fcc920610a5fa66c1dd030939fac" sha1="97427017467717a78b1b9e4a01b70ef0f7161856" date="1997-03-11 18:29:24"/>
 	</game>
 	<game name="Quake II (1997) (id Software).dosz">
