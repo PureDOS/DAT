@@ -11906,12 +11906,19 @@
 		<rom name="HEXENDK/LOCATION.STR" size="31" crc="880a11a8" md5="e17cc8012695c9f3bb493eb6f05c6497" sha1="8db19c01948c61e81c6ca092b5525f398f5042db"/>
 		<rom name="HEXENDK/README.TXT" size="2244" crc="1bf2a626" md5="63e600716855e29be4096c9d318c0b2a" sha1="7c79cce8c60c3ba58a6f158a0985b52b57910e5b" date="1996-07-05 10:39:42"/>
 	</game>
-	<game name="Hexen II + Hammer of Thyrion (1997) (Raven Software).dosz">
-		<description>Hexen II + Hammer of Thyrion</description>
-		<comment>Hexen II v1.11 with Hammer of Thyrion v1.5.9. Needs DOS.YML with mem_size: 65536</comment>
-		<comment_dosc>640x400 resolution, BAT file for running the game, and auto start</comment_dosc>
+	<game name="Hexen II (1997) (Raven Software).dosz">
+		<description>Hexen II</description>
 		<year>1997</year>
 		<developer>Raven Software</developer>
+		<comment>
+			Hexen II v1.11 with Hammer of Thyrion v1.5.9
+			Needs DOS.YML with mem_size: 65536
+			CHDtoOGG used to convert CD image matching with Redump: Hexen II (USA) (v1.11)
+			Refer to Hammer of Thyrion's music readme for info on track filenames
+		</comment>
+		<comment_dosc>640x480 resolution, always run enabled, mouse look enabled, and auto start</comment_dosc>
+		<link type="media">http://redump.org/disc/83185/</link>
+		<link type="freeware">https://uhexen2.sourceforge.net/</link>
 		<rom name="3DFX/FXMESA/GL.DXE" size="1529186" crc="54734d28" md5="e7797cf068f9cadbdbb2e5cfcfd8e816" sha1="8b3e8a7f77e5e4d683afd73cf07b1c9c2715789c" date="2016-08-07 16:55:50"/>
 		<rom name="3DFX/MESA/GL.DXE" size="1785323" crc="5ec738c5" md5="8586475d249de4a7e7bab22d794f2cf1" sha1="cc4f46b31534a87fd3a226850945059c09f2e8df" date="2016-05-03 00:41:40"/>
 		<rom name="3DFX/OPENGL.TXT" size="621" crc="6e08a050" md5="4bda158c221a1e568283719fe00d48a9" sha1="2caada0c014fdd2213331f1b5f997de78d4542e7" date="2016-05-01 06:56:10"/>
@@ -11943,6 +11950,54 @@
 		<rom name="DATA1/MAPS/ROMERIC5.TXT" size="1002" crc="e1071629" md5="a1a4b57344e78d67631b287a2a4a8edc" sha1="b8a5b50f013b38fc1b62db29dfee5edaea82b1fc" date="2010-12-30 10:55:34"/>
 		<rom name="DATA1/MAPS/TOWER.ENT" size="42963" crc="82628df0" md5="462c34ef88a46f8649d9007a1324e880" sha1="e0b69c0e7fc89009bf351af33d22c5b3c24bbad8" date="2011-05-20 23:27:52"/>
 		<rom name="DATA1/MAPS/TOWER.TXT" size="770" crc="25cbf16e" md5="74b73cc46bfbd5583e0af17474fad1f6" sha1="73af8567786dec783fcd16d994d7f1df247045ba" date="2011-05-20 23:27:52"/>
+		<rom name="DATA1/MUSIC/casa1.ogg" size="5233580" crc="e2071f6b" md5="441a18c7098452f679c77aadd1423823" sha1="6139939c6d3b240f287258a6949c51e229f213f4">
+			<source type="AUDIO" frames="14014" omitted_pregap="75" duration="03:06:64" size="32960928" crc="6bbd3168" md5="ebf79cbb77b5b3b6ec94973fb2207ce4" sha1="485aa0f0f7be3ea08035a9fccdaa3a3294d1b487" in_zeros="4168" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="DATA1/MUSIC/casa2.ogg" size="5399152" crc="fc2e7ca5" md5="52b0f7f4afebfea80263df30b8b4f25a" sha1="40409e760a1b9976abe5ed1abcf9e12f6908112d">
+			<source type="AUDIO" frames="14011" duration="03:06:61" size="32953872" crc="e3004876" md5="b18758dd6893f41a95bd552660c1f660" sha1="206170179ea44a1f61dd9e6cf9da14916b2c19e8" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="DATA1/MUSIC/casa3.ogg" size="5054589" crc="71d55050" md5="ae0613c77cc86746514eb082dc3b9f70" sha1="dfc65a8d94c387d6abd97a0b299e1f2c0e4e8f81">
+			<source type="AUDIO" frames="13887" duration="03:05:12" size="32662224" crc="436ab2fb" md5="ee2563b24acbecdfa7592dd7d2552d76" sha1="0d30b76d191c6fc4d6b9d1abdefade417f73a59c" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="DATA1/MUSIC/casa4.ogg" size="5156287" crc="0cb6c670" md5="9d02c96ddcbdda2f4d7d7d4577da1e60" sha1="574ba60e33073c3cedefcea1236692aee9921d46">
+			<source type="AUDIO" frames="14025" duration="03:07:00" size="32986800" crc="1a5ff656" md5="af37ad5e3d39c28dea5be27d601063ab" sha1="e257fa41f4378f17719ac02796f988a7b9f69cd5" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="DATA1/MUSIC/casb1.ogg" size="5823820" crc="cc8a449e" md5="f597456cea0e43a31854288fe550b894" sha1="05d72e331e9962ca12615baab2117c2fb4798b13">
+			<source type="AUDIO" frames="13983" duration="03:06:33" size="32888016" crc="20fee43a" md5="fc1aaea8f8d4c71f0d89c1b8d5c22f74" sha1="8f93dd9b2d27587125c3d0fc5351fa79e23fb9dd" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="DATA1/MUSIC/casb2.ogg" size="5271722" crc="e8ede536" md5="b6e1d06ea0f7437e22e10f422bbb9c24" sha1="1e12732e200149f75246dff010dd6dd393482a8a">
+			<source type="AUDIO" frames="13326" duration="02:57:51" size="31342752" crc="1d8458ee" md5="a9e85fb7c912a04d56b9509914cdf649" sha1="bdbe294b1748775ad797b412571c79cb92bbc253" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="DATA1/MUSIC/casb3.ogg" size="5546197" crc="370a8b96" md5="1c49c3d605e2bf27ef0b37c2154e6f43" sha1="556ef6bc0d1b519e8d094a456acc7bc4cca9985b">
+			<source type="AUDIO" frames="13804" duration="03:04:04" size="32467008" crc="bff37132" md5="43d5eb424cca94daa6ea7ceacc2d6523" sha1="e627504f4750dbe94341e909b7040ce1c5fa3261" in_zeros="0" out_zeros="3" quality="8"/>
+		</rom>
+		<rom name="DATA1/MUSIC/egyp1.ogg" size="5482573" crc="c55bee25" md5="4db1369506efd1c587caebda49bcb81f" sha1="ca497ac10cbe4a51a56a08dc63a94a344868358b">
+			<source type="AUDIO" frames="13565" duration="03:00:65" size="31904880" crc="2b838250" md5="b86e78802dbb7b1d27011dcf3625e1de" sha1="21d6aa12ae84f713d07b2c131a54bd0766775040" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="DATA1/MUSIC/egyp2.ogg" size="5312148" crc="6770aea6" md5="9d799aa2fe4acc19b6184a3a6e922f26" sha1="fa2464695e06ebf963039ac07a1d1404abbbcbcc">
+			<source type="AUDIO" frames="14552" duration="03:14:02" size="34226304" crc="e7d5fd16" md5="4ca21ac050a10c1d197971e0663bce5e" sha1="8349487b6f6ad3d4eb2638cafe3c39acbe85ee98" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="DATA1/MUSIC/egyp3.ogg" size="5526536" crc="b2406483" md5="77db1ad1dd694a5cf3530d1d25b0a08c" sha1="f3f4c7e38b0bf82beecb1cf5c74882f12dfe2132">
+			<source type="AUDIO" frames="13960" duration="03:06:10" size="32833920" crc="e034bc52" md5="2a08d53840bb991fd36de338388af1d3" sha1="74e3744ed853b477b46851ec84d637471a09e5d3" in_zeros="0" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="DATA1/MUSIC/meso1.ogg" size="5936488" crc="6a1e9ed5" md5="d73aef6adb3087b353eb5850aef1e8e7" sha1="89ecce5a71103f9c8ebf0885faded821c3d60610">
+			<source type="AUDIO" frames="13732" duration="03:03:07" size="32297664" crc="8b7e0f61" md5="f2dec8ddf2e5ac8c3b5f7b71b67639cb" sha1="c75eab367539b50cade0550685f4fb224edae69a" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="DATA1/MUSIC/meso2.ogg" size="5395091" crc="d6d64ff7" md5="641fbfab3a25d114953dee9cd87c5fa7" sha1="efd281214439b41ad471eebc7e3d972363537e83">
+			<source type="AUDIO" frames="14512" duration="03:13:37" size="34132224" crc="006b051b" md5="c8eb1076b7515ac23edb833520cac5e5" sha1="67c49d1462c56debb8e028a39293bea0fdcbad1c" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="DATA1/MUSIC/meso3.ogg" size="5598888" crc="cdfd6d34" md5="ad6e1ba56a525db8074cf8b73f8f8171" sha1="535e8e6083d135904bd11301207f57dc4a96bf1e">
+			<source type="AUDIO" frames="13986" duration="03:06:36" size="32895072" crc="7be1bee1" md5="d812ee2ed63f219b93f73c778e11597e" sha1="4cb349b5c68b96ac2da64425b87bd19294b146e5" in_zeros="0" out_zeros="3" quality="8"/>
+		</rom>
+		<rom name="DATA1/MUSIC/roma1.ogg" size="5775652" crc="6b9caf13" md5="de37916aefc51b4a23116048cbfa490d" sha1="c5bb01220b6e9f7eebc63965412b54d725aebdc2">
+			<source type="AUDIO" frames="14347" duration="03:11:22" size="33744144" crc="ec84a77b" md5="f1f2c134c737c895f412cab332f13717" sha1="d4df77a7e01347d1e64afbf95fed8b598d8c6a86" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="DATA1/MUSIC/roma2.ogg" size="6010558" crc="755a4d6c" md5="2b6fcdcf2deb9d2ae25cb62c33f8f932" sha1="59eb18fc334d88178eb92f341696e8c805dfed78">
+			<source type="AUDIO" frames="14862" duration="03:18:12" size="34955424" crc="31c0cfad" md5="a7a23066dbb201d6f546693e4b372b2a" sha1="c69c4c9b37b215d41418f312e27cc7e2edfe5ddd" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="DATA1/MUSIC/roma3.ogg" size="5099857" crc="6857fbbd" md5="9d0676d2ce52d2cfe04232a73d5797de" sha1="803d92c55e4dbf3783bae110c6fa44d2270dd698">
+			<source type="AUDIO" frames="13999" duration="03:06:49" size="32925648" crc="ac8fa554" md5="217f8542320db26034f4b25036da795f" sha1="5e9edb52cc62512066400726d78036909297b292" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
 		<rom name="DATA1/OLDDEMO1.DEM" size="85122" crc="08e15fb8" md5="944d2440ee4a610ec74e27ff1d43c5f3" sha1="d81d2b6597cfe4c04cfffb158ef107047b099bc5" date="1997-09-03 09:44:38"/>
 		<rom name="DATA1/OLDDEMO2.DEM" size="152197" crc="25d1ac41" md5="671478a8a25722a1a8e5cf541b428387" sha1="9593e83db8d5fd259f6e75c938326ff1ba904327" date="1997-09-03 09:44:38"/>
 		<rom name="DATA1/OLDDEMO3.DEM" size="116529" crc="613d5edf" md5="09b1f2519720fbf9bd70f48f38b6bad9" sha1="4256875991609f9f149f4d846a48e5f614d828e7" date="1997-09-03 09:44:38"/>
@@ -11968,7 +12023,7 @@
 		<rom name="DOCS/RELNOTES.TXT" size="32415" crc="077a1963" md5="2984edabf9d5b7fa2642945ad4fba242" sha1="c2bcd2272bda50a31df4aed7777cdba1a8810e57" date="2018-05-31 10:10:10"/>
 		<rom name="DOCS/SRCNOTES.TXT" size="6924" crc="c99a66bc" md5="eabe8d51088fdb4227c23064d76f0d03" sha1="e8732127eeb088c9233948c0ab45d0a85cd42622" date="2013-03-02 11:33:56"/>
 		<rom name="DOCS/TODO.TXT" size="1143" crc="c49cea38" md5="623f8445818129f52511f8d4f303e60c" sha1="61b6101631d410d98eb78dd4b61d01d405e7b0bf" date="2016-01-10 09:41:14"/>
-		<rom name="DOS.YML" size="17" crc="9e2ade80" md5="5e4e9514ccbed110c66ed799f2b0c449" sha1="7ff552bf9a73a8ba6fe5089d140c63e3d6be659c"/>
+		<rom name="DOS.YML" size="17" crc="9e2ade80" md5="5e4e9514ccbed110c66ed799f2b0c449" sha1="7ff552bf9a73a8ba6fe5089d140c63e3d6be659c" data="bWVtX3NpemU6IDY1NTM2DQo="/>
 		<rom name="DPMI/CWSDPMI.TXT" size="430" crc="ac235e2b" md5="487f08b3239604c1d77de43da02c5abb" sha1="3c237085526516517d0e1e3b5a678b92772b77be" date="2011-10-22 09:33:00"/>
 		<rom name="DPMI/R5/CSDPMI5B.ZIP" size="54642" crc="d3c1526b" md5="83f13c30d544c0c90f2e26b018e5c6e9" sha1="18390dd8402b423b0bc91be159ee7c72a4f73754" date="2008-08-19 01:49:08"/>
 		<rom name="DPMI/R5/CSDPMI5S.ZIP" size="88692" crc="977da517" md5="102872d2c1d4ae7a57e448468c421e7b" sha1="a725735462f7db43468626caa8de7060a0c56aae" date="2008-08-19 01:37:00"/>
@@ -11980,25 +12035,6 @@
 		<rom name="H2DED.EXE" size="421376" crc="7ca80343" md5="bf0926633f08c5b5414f383adc020035" sha1="1793d71e2b56cf9515d102243264db73308d497c" date="2018-05-31 21:37:50"/>
 		<rom name="H2DOS.EXE" size="952832" crc="d049fb63" md5="1d68988033c8033515b62439f2c62eda" sha1="80d52d327a88640845bc17089183f35bc346b22b" date="2018-05-31 21:37:50"/>
 		<rom name="H2PATCH.EXE" size="94720" crc="5ef7cfc3" md5="6cb7b56520320b069beb5d5c050f550f" sha1="08bd7ce5fb5342f4fcef0757fa7e6006afb0f72e" date="2018-05-31 21:37:50"/>
-		<rom name="Hexen II (USA) (v1.11).chd" size="745367040" crc="41f81faf" md5="2f5f3c2d0c85d5ca0a4b208761b7802b" sha1="5d3f1751d32d8c5427f2fdaf3620db791fdcfaff">
-			<track number="1" type="MODE1_RAW" frames="79827" pregap="0" duration="17:44:27" size="187753104" crc="80ec6e86" md5="be40b4ba95d63bf8985789c34b149bae" sha1="942d1f02baf7946984acff16342f5bc95ed983b8" in_zeros="1" out_zeros="0"/>
-			<track number="2" type="AUDIO" frames="14089" pregap="75" duration="03:07:64" size="33137328" crc="d5eb5949" md5="7d5d17151f6993f82d1059a06afc1e85" sha1="230d92420bd50441d827110d1846455579d3ef2e" in_zeros="180568" out_zeros="1"/>
-			<track number="3" type="AUDIO" frames="14011" pregap="0" duration="03:06:61" size="32953872" crc="e3004876" md5="b18758dd6893f41a95bd552660c1f660" sha1="206170179ea44a1f61dd9e6cf9da14916b2c19e8" in_zeros="0" out_zeros="1"/>
-			<track number="4" type="AUDIO" frames="13887" pregap="0" duration="03:05:12" size="32662224" crc="436ab2fb" md5="ee2563b24acbecdfa7592dd7d2552d76" sha1="0d30b76d191c6fc4d6b9d1abdefade417f73a59c" in_zeros="0" out_zeros="1"/>
-			<track number="5" type="AUDIO" frames="14025" pregap="0" duration="03:07:00" size="32986800" crc="1a5ff656" md5="af37ad5e3d39c28dea5be27d601063ab" sha1="e257fa41f4378f17719ac02796f988a7b9f69cd5" in_zeros="0" out_zeros="1"/>
-			<track number="6" type="AUDIO" frames="13565" pregap="0" duration="03:00:65" size="31904880" crc="2b838250" md5="b86e78802dbb7b1d27011dcf3625e1de" sha1="21d6aa12ae84f713d07b2c131a54bd0766775040" in_zeros="0" out_zeros="1"/>
-			<track number="7" type="AUDIO" frames="14552" pregap="0" duration="03:14:02" size="34226304" crc="e7d5fd16" md5="4ca21ac050a10c1d197971e0663bce5e" sha1="8349487b6f6ad3d4eb2638cafe3c39acbe85ee98" in_zeros="0" out_zeros="1"/>
-			<track number="8" type="AUDIO" frames="13960" pregap="0" duration="03:06:10" size="32833920" crc="e034bc52" md5="2a08d53840bb991fd36de338388af1d3" sha1="74e3744ed853b477b46851ec84d637471a09e5d3" in_zeros="0" out_zeros="0"/>
-			<track number="9" type="AUDIO" frames="13732" pregap="0" duration="03:03:07" size="32297664" crc="8b7e0f61" md5="f2dec8ddf2e5ac8c3b5f7b71b67639cb" sha1="c75eab367539b50cade0550685f4fb224edae69a" in_zeros="0" out_zeros="1"/>
-			<track number="10" type="AUDIO" frames="14512" pregap="0" duration="03:13:37" size="34132224" crc="006b051b" md5="c8eb1076b7515ac23edb833520cac5e5" sha1="67c49d1462c56debb8e028a39293bea0fdcbad1c" in_zeros="0" out_zeros="1"/>
-			<track number="11" type="AUDIO" frames="13986" pregap="0" duration="03:06:36" size="32895072" crc="7be1bee1" md5="d812ee2ed63f219b93f73c778e11597e" sha1="4cb349b5c68b96ac2da64425b87bd19294b146e5" in_zeros="0" out_zeros="3"/>
-			<track number="12" type="AUDIO" frames="14347" pregap="0" duration="03:11:22" size="33744144" crc="ec84a77b" md5="f1f2c134c737c895f412cab332f13717" sha1="d4df77a7e01347d1e64afbf95fed8b598d8c6a86" in_zeros="0" out_zeros="1"/>
-			<track number="13" type="AUDIO" frames="14862" pregap="0" duration="03:18:12" size="34955424" crc="31c0cfad" md5="a7a23066dbb201d6f546693e4b372b2a" sha1="c69c4c9b37b215d41418f312e27cc7e2edfe5ddd" in_zeros="0" out_zeros="1"/>
-			<track number="14" type="AUDIO" frames="13999" pregap="0" duration="03:06:49" size="32925648" crc="ac8fa554" md5="217f8542320db26034f4b25036da795f" sha1="5e9edb52cc62512066400726d78036909297b292" in_zeros="0" out_zeros="1"/>
-			<track number="15" type="AUDIO" frames="13983" pregap="0" duration="03:06:33" size="32888016" crc="20fee43a" md5="fc1aaea8f8d4c71f0d89c1b8d5c22f74" sha1="8f93dd9b2d27587125c3d0fc5351fa79e23fb9dd" in_zeros="0" out_zeros="1"/>
-			<track number="16" type="AUDIO" frames="13326" pregap="0" duration="02:57:51" size="31342752" crc="1d8458ee" md5="a9e85fb7c912a04d56b9509914cdf649" sha1="bdbe294b1748775ad797b412571c79cb92bbc253" in_zeros="0" out_zeros="1"/>
-			<track number="17" type="AUDIO" frames="13804" pregap="0" duration="03:04:04" size="32467008" crc="bff37132" md5="43d5eb424cca94daa6ea7ceacc2d6523" sha1="e627504f4750dbe94341e909b7040ce1c5fa3261" in_zeros="0" out_zeros="3"/>
-		</rom>
 		<rom name="LICENSE.TXT" size="18431" crc="a6d3a2f5" md5="ffa10f40b98be2c2bc9608f56827ed23" sha1="dc8f2e570bf431427dbc3bab9d4d551b53a60208" date="2011-08-05 09:00:38"/>
 		<rom name="PATCHDAT.TXT" size="796" crc="89f65f3c" md5="400166cfa0e816f875eb891b8771ceeb" sha1="6bf11ecded0d3659f22d81bd2092390dabb9730f" date="2015-06-17 14:11:00"/>
 		<rom name="PATCHDAT/DATA1/DATA1PK0.XD3" size="1712606" crc="80bc90a4" md5="651875f3aae22893050846f9b1cb4449" sha1="d14ee80d5c0224230888bd27f697ad59a78a441b" date="2011-05-23 21:35:40"/>
@@ -12018,27 +12054,51 @@
 		<rom name="README.TXT" size="5785" crc="08177c60" md5="05bb5cd191292e2312dc130d85c6595e" sha1="ba41cf0e462a9568512961affd86d571f866f42b" date="2017-04-07 17:56:18"/>
 		<rom name="SNDPCI.DXE" size="42556" crc="81d4924f" md5="50515c7ce77d59ca6f4cea646eb0223c" sha1="8b674bd96f0246a1d091baa46746ece585259739" date="2016-07-27 22:00:50"/>
 	</game>
-	<game name="Hexen II Mission Pack - Portal of Praevus + Hammer of Thyrion (1998) (Raven Software).dosz">
-		<description>Hexen II Mission Pack - Portal of Praevus + Hammer of Thyrion</description>
-		<comment>Portal of Praevus v1.12 with Hammer of Thyrion v1.5.9</comment>
-		<comment_dosc>BAT file for running the game and auto start</comment_dosc>
+	<game name="Hexen II Mission Pack - Portal of Praevus (1998) (Raven Software).dosz">
+		<description>Hexen II Mission Pack - Portal of Praevus</description>
 		<year>1998</year>
 		<developer>Raven Software</developer>
-		<parent>Hexen II + Hammer of Thyrion (1997) (Raven Software).dosz</parent>
-		<rom name="Hexen II + Hammer of Thyrion (1997) (Raven Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="Hexen II Mission Pack - Portal of Praevus (USA).chd" size="786121344" crc="80401372" md5="fe41b9332bea6146cd4840e8e3a82f2c" sha1="15ba8322a374d6f3754e5b47d1a843a92d283018">
-			<track number="1" type="MODE1_RAW" frames="176830" pregap="0" duration="39:17:55" size="415904160" crc="4c19bf31" md5="07e41f2edcea85243711a674e3d7a5b8" sha1="ebbbecbcb4d9c7a5be9340761241620d2523b4cb" in_zeros="1" out_zeros="0"/>
-			<track number="2" type="AUDIO" frames="14664" pregap="150" duration="03:15:39" size="34489728" crc="e0d02245" md5="a5c32f51ff247cc713c86886e94e5fbb" sha1="7c1d62d0b629c6a5b5acb2eccb910346682ec3ba" in_zeros="550872" out_zeros="121422"/>
-			<track number="3" type="AUDIO" frames="14060" pregap="0" duration="03:07:35" size="33069120" crc="4643cb87" md5="66fcef8db6a2a3c28eaf7d814b4459ef" sha1="34aad02294747abf0223824413f0056859287729" in_zeros="2820" out_zeros="10"/>
-			<track number="4" type="AUDIO" frames="13945" pregap="0" duration="03:05:70" size="32798640" crc="40bbcbe2" md5="fff3a9fd8de7e8aec9b88c0a2e1497c2" sha1="2ae8b411176029b7ad4205573af880312c0c35c0" in_zeros="4" out_zeros="93421"/>
-			<track number="5" type="AUDIO" frames="13358" pregap="0" duration="02:58:08" size="31418016" crc="20cbe210" md5="6af782ee5cc857184163897776ce40f1" sha1="117e2d8788ca40190df84551883f58ea2a20093c" in_zeros="138528" out_zeros="0"/>
-			<track number="6" type="AUDIO" frames="13873" pregap="0" duration="03:04:73" size="32629296" crc="cc5dffce" md5="6b3816070e876cb92a61846e03e0193b" sha1="5613a9de291a6c7e541e23ed76ab516d4fd6f35a" in_zeros="0" out_zeros="6"/>
-			<track number="7" type="AUDIO" frames="13177" pregap="0" duration="02:55:52" size="30992304" crc="5dae3b10" md5="bff1a797c5fe4a3ebacbbaae5a8be2e2" sha1="7c55547af9a54040fa2d27259f1bada066ef944c" in_zeros="10" out_zeros="1"/>
-			<track number="8" type="AUDIO" frames="14154" pregap="0" duration="03:08:54" size="33290208" crc="3b3f8797" md5="a06e9918bb8eeb5aec91cf3d8635c038" sha1="fa2c3ee66f559c8a98621003399c00ac0b4568ab" in_zeros="2" out_zeros="0"/>
-			<track number="9" type="AUDIO" frames="14234" pregap="0" duration="03:09:59" size="33478368" crc="bacaef79" md5="b51b5a102db2f226eaa9f2903432b2bc" sha1="a4c6a8c4ac13538514841d420d115cee105edd7d" in_zeros="0" out_zeros="0"/>
-			<track number="10" type="AUDIO" frames="14067" pregap="0" duration="03:07:42" size="33085584" crc="9cb8ee16" md5="671fa2ba1ae0d55922ca772f90de45e3" sha1="3f9c20111f9d2d21d9bb492625b7e11b9530ef6f" in_zeros="2" out_zeros="1"/>
-			<track number="11" type="AUDIO" frames="12971" pregap="0" duration="02:52:71" size="30507792" crc="098d28fb" md5="e22860eece92d3384ba0c006d24f1be6" sha1="fad05e66db307faa2b423445403ff3f42bed4545" in_zeros="0" out_zeros="0"/>
-			<track number="12" type="AUDIO" frames="6232" pregap="0" duration="01:23:07" size="14657664" crc="5ec6a938" md5="66a840620e37bd1e67d295203a212cde" sha1="c44f5a79fdffc49b0ce8b8545acf4c3624eb316f" in_zeros="0" out_zeros="203360"/>
+		<parent>Hexen II (1997) (Raven Software).dosz</parent>
+		<comment>
+			Portal of Praevus v1.12 with Hammer of Thyrion v1.5.9
+			CHDtoOGG used to convert CD image matching with Redump: Hexen II Mission Pack - Portal of Praevus (USA)
+			Refer to Hammer of Thyrion's music readme for info on track filenames
+		</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="media">http://redump.org/disc/21268/</link>
+		<rom name="Hexen II (1997) (Raven Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="PORTALS/MUSIC/track12.ogg" size="2389295" crc="b149bd06" md5="0ae770c7b585ae250f57f90d153b330f" sha1="3c14cba48a6509e1b6ff049d47a4e0acde5a8a84">
+			<source type="AUDIO" frames="6232" duration="01:23:07" size="14657664" crc="5ec6a938" md5="66a840620e37bd1e67d295203a212cde" sha1="c44f5a79fdffc49b0ce8b8545acf4c3624eb316f" in_zeros="0" out_zeros="203360" quality="8"/>
+		</rom>
+		<rom name="PORTALS/MUSIC/tulku1.ogg" size="4923480" crc="7ac6b289" md5="81738c74953c1f35af777c70cf6ebc3d" sha1="90f543ecca7007380cba3302ad31229eac900ca1">
+			<source type="AUDIO" frames="14060" duration="03:07:35" size="33069120" crc="4643cb87" md5="66fcef8db6a2a3c28eaf7d814b4459ef" sha1="34aad02294747abf0223824413f0056859287729" in_zeros="2820" out_zeros="10" quality="8"/>
+		</rom>
+		<rom name="PORTALS/MUSIC/tulku10.ogg" size="5135418" crc="ae66c141" md5="9070939394ee61de120fb52d4e0ac226" sha1="ab0730612a1f1e37fc0374a4d75c4653fbb59e54">
+			<source type="AUDIO" frames="13177" duration="02:55:52" size="30992304" crc="5dae3b10" md5="bff1a797c5fe4a3ebacbbaae5a8be2e2" sha1="7c55547af9a54040fa2d27259f1bada066ef944c" in_zeros="10" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="PORTALS/MUSIC/tulku2.ogg" size="5064698" crc="fb8a2de4" md5="5e4c9afe96fa7681c880a11711c7a7a3" sha1="a53969c985f1267f92a7de1fed31107f691ed5b8">
+			<source type="AUDIO" frames="13358" duration="02:58:08" size="31418016" crc="20cbe210" md5="6af782ee5cc857184163897776ce40f1" sha1="117e2d8788ca40190df84551883f58ea2a20093c" in_zeros="138528" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="PORTALS/MUSIC/tulku3.ogg" size="5013029" crc="d4bd6a9d" md5="698144ff548dc7b718fd5dadade2fb8d" sha1="4a2a39c51f50aa82c8e3932db811f87e78561083">
+			<source type="AUDIO" frames="12971" duration="02:52:71" size="30507792" crc="098d28fb" md5="e22860eece92d3384ba0c006d24f1be6" sha1="fad05e66db307faa2b423445403ff3f42bed4545" in_zeros="0" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="PORTALS/MUSIC/tulku4.ogg" size="5126038" crc="a8ab773f" md5="847ff462d7847bf428790458585b944f" sha1="1b1ca4c48a7290435de2f033142499fc10abdd50">
+			<source type="AUDIO" frames="13945" duration="03:05:70" size="32798640" crc="40bbcbe2" md5="fff3a9fd8de7e8aec9b88c0a2e1497c2" sha1="2ae8b411176029b7ad4205573af880312c0c35c0" in_zeros="4" out_zeros="93421" quality="8"/>
+		</rom>
+		<rom name="PORTALS/MUSIC/tulku5.ogg" size="4957639" crc="81870bc3" md5="2976e6148ceee5f91d713b3eebe20dd0" sha1="c740375f8b8e1546da3a3549cedbd2356908d747">
+			<source type="AUDIO" frames="14234" duration="03:09:59" size="33478368" crc="bacaef79" md5="b51b5a102db2f226eaa9f2903432b2bc" sha1="a4c6a8c4ac13538514841d420d115cee105edd7d" in_zeros="0" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="PORTALS/MUSIC/tulku6.ogg" size="5006193" crc="fa8bd84a" md5="7868fba5843ac1941566536ac98ce401" sha1="337e6ac2eba81b3e697156b3d8eafdf65d5f3dfc">
+			<source type="AUDIO" frames="14154" duration="03:08:54" size="33290208" crc="3b3f8797" md5="a06e9918bb8eeb5aec91cf3d8635c038" sha1="fa2c3ee66f559c8a98621003399c00ac0b4568ab" in_zeros="2" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="PORTALS/MUSIC/tulku7.ogg" size="6063845" crc="0f891f2e" md5="c3479fd20f82a966c605e59089748aea" sha1="4547324472739c43e8019bb4ecd11dfee1a2348b">
+			<source type="AUDIO" frames="14514" omitted_pregap="150" duration="03:13:39" size="34136928" crc="0208899a" md5="398d0d06496f1d67edf1a96d55d102f0" sha1="64f41649db60432863f5fd0e85a55f44c3851232" in_zeros="198072" out_zeros="121422" quality="8"/>
+		</rom>
+		<rom name="PORTALS/MUSIC/tulku8.ogg" size="5055254" crc="5318482a" md5="9f0c3a2929ac13b921f0fddac5ee0f95" sha1="4c213aa1d2e7f7e10468b2a5167003c6e9da2014">
+			<source type="AUDIO" frames="14067" duration="03:07:42" size="33085584" crc="9cb8ee16" md5="671fa2ba1ae0d55922ca772f90de45e3" sha1="3f9c20111f9d2d21d9bb492625b7e11b9530ef6f" in_zeros="2" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="PORTALS/MUSIC/tulku9.ogg" size="5448365" crc="580405b6" md5="6145e175c37a47a72ca9f6e33089c056" sha1="b5b5f9862594b17a88e3fc0a767284b842c8d254">
+			<source type="AUDIO" frames="13873" duration="03:04:73" size="32629296" crc="cc5dffce" md5="6b3816070e876cb92a61846e03e0193b" sha1="5613a9de291a6c7e541e23ed76ab516d4fd6f35a" in_zeros="0" out_zeros="6" quality="8"/>
 		</rom>
 		<rom name="PORTALS/PAK3.PAK" size="49089114" crc="76ef5d5a" md5="77ae298dd0dcd16ab12f4a68067ff2c3" sha1="84aaba667060e1f9c50fb4d140fb301ac7e81cb7" date="1998-03-20 14:23:04"/>
 	</game>
