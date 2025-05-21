@@ -17,9 +17,63 @@
 		<parent>Quake (1996) (id Software).dosz</parent>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.quaddicted.com/reviews/dopa.html</link>
-		<rom name="dopa/dopa_readme.txt" size="1175" crc="d4c91c76" md5="196bcfcdf416d652d23d130e7e5a9573" sha1="bfc7b0048e032016d7245663986b78c0038753b2" date="2016-06-22 01:47:38"/>
-		<rom name="dopa/pak0.pak" size="18557329" crc="1b697f8a" md5="ca73d4d3643612b5becac7e7e1edcb7e" sha1="c84c7678695f16865f6bd477a3a992445e53c68c" date="2016-06-21 14:18:06"/>
-		<rom name="dopa/quake.rc" size="298" crc="ad3f6f7d" md5="e433c9ee75ddcec65453b330e79c179f" sha1="a7467927eeac47161274949e7b55999a2020fd42" date="2016-06-22 01:46:42"/>
+		<rom name="dopa/dopa_readme.txt" size="1175" crc="d4c91c76" md5="196bcfcdf416d652d23d130e7e5a9573" sha1="bfc7b0048e032016d7245663986b78c0038753b2" date="2016-06-22 07:47:38"/>
+		<rom name="dopa/pak0.pak" size="18557329" crc="1b697f8a" md5="ca73d4d3643612b5becac7e7e1edcb7e" sha1="c84c7678695f16865f6bd477a3a992445e53c68c" date="2016-06-21 20:18:06"/>
+		<rom name="dopa/quake.rc" size="298" crc="ad3f6f7d" md5="e433c9ee75ddcec65453b330e79c179f" sha1="a7467927eeac47161274949e7b55999a2020fd42" date="2016-06-22 07:46:42"/>
+		<rom name="Quake (1996) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Quake - Malice (1997) (Quantum Axcess).dosz">
+		<description>Quake - Malice</description>
+		<year>1997</year>
+		<developer>Quantum Axcess</developer>
+		<parent>Quake (1996) (id Software).dosz</parent>
+		<comment>
+			Installed from CD matching with Redump: Malice (USA)
+			CD image converted with CHDtoOGG using -n option
+		</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="media">http://redump.org/disc/20194/</link>
+		<rom name="CD/Malice (USA) (Track 1).bin" size="43008" crc="10d89042" md5="73db37b47ede9da7e9fbaae52c6c8a8b" sha1="8a2846aac1e2ceb8a08a9cd5591e9a85228d5cab"/>
+		<rom name="CD/Malice (USA) (Track 2).ogg" size="9190248" crc="2cafc9ca" md5="3e2154943ee110c96c29c048c9572e9e" sha1="b9503644c26826484b5a2f533d3a5c1049f21621">
+			<source type="AUDIO" frames="24422" omitted_pregap="224" duration="05:25:47" size="57440544" crc="94fabf84" md5="eea6a1945c3cbef4adbc499e15339d86" sha1="b8d9d6d2cecdb131a56d88d76681404ef33f7bc6" in_zeros="8" out_zeros="10537" quality="8"/>
+		</rom>
+		<rom name="CD/Malice (USA) (Track 3).ogg" size="3814018" crc="de2ccb01" md5="8c259098d45e5c894d1072a623b4bebc" sha1="c0b91225fbf4492b0c0d4ab75fdecefa47bb341a">
+			<source type="AUDIO" frames="10185" omitted_pregap="148" duration="02:15:60" size="23955120" crc="806f768e" md5="2935c1bd0fa8aba88bb1e83fda8bc167" sha1="c4927158362cd6b025a0d94ccc373a9a027c3873" in_zeros="28" out_zeros="7029" quality="8"/>
+		</rom>
+		<rom name="CD/Malice (USA) (Track 4).ogg" size="9307094" crc="c07f22fe" md5="b5dd16bda4a975a574c74952a8347bc6" sha1="8c7763e6969e2f3b0bfa62ed4b5168fe9455b076">
+			<source type="AUDIO" frames="25290" omitted_pregap="149" duration="05:37:15" size="59482080" crc="76cb0df4" md5="18d2abd16d81a93231df2852c13c8e0e" sha1="2da73c35ddcf4ae8dc79381060a7324f4433b12d" in_zeros="12" out_zeros="10725" quality="8"/>
+		</rom>
+		<rom name="CD/Malice (USA) (Track 5).ogg" size="10757249" crc="b73cafea" md5="9ae823e92cf85c97290fbab01d9f100a" sha1="941f5ffb23e56beef35d36480c9415e30e4920b6">
+			<source type="AUDIO" frames="29584" omitted_pregap="148" duration="06:34:34" size="69581568" crc="fd77a6d0" md5="e04cc60cfd529ef8ae44b8397cd2f381" sha1="b639d1e318a868ac36efde8fd59924a691a62748" in_zeros="76" out_zeros="9413" quality="8"/>
+		</rom>
+		<rom name="CD/Malice (USA) (Track 6).ogg" size="9795355" crc="2a8245fe" md5="ea1dd37f3ae18d1d19813875054ba219" sha1="73d2287ea412d4abbaf22fb2b05e0410383bce4e">
+			<source type="AUDIO" frames="29028" omitted_pregap="148" duration="06:27:03" size="68273856" crc="f31efab4" md5="0adbb69eed734dbf0c8bc2b04e262095" sha1="aefccdc8e5376002f2f313d31e1428f12c4be6a2" in_zeros="92" out_zeros="10357" quality="8"/>
+		</rom>
+		<rom name="CD/Malice (USA) (Track 7).ogg" size="10936824" crc="8ebfa88e" md5="71cf45eaa0a01ccaeb3f9b0f9116ccb3" sha1="7cc59aacdd381c759906c187c6b9a3f7d14075ed">
+			<source type="AUDIO" frames="30574" omitted_pregap="148" duration="06:47:49" size="71910048" crc="03136410" md5="a4f086e975fed883a89630271b548c1c" sha1="68aaa208a420cdc6c5514614b312abb9cc07a0b2" in_zeros="132" out_zeros="10797" quality="8"/>
+		</rom>
+		<rom name="CD/Malice (USA) (Track 8).ogg" size="7910574" crc="00e0a67c" md5="50676c232e5bf7f11b131d0d120d53b0" sha1="b9698a6c96fde3a266565793e37e522db652db57">
+			<source type="AUDIO" frames="20643" omitted_pregap="148" duration="04:35:18" size="48552336" crc="93b34eff" md5="4e36eb28e9964dbe02cb5a7735d746a0" sha1="03fe20ea10087a42cb3b8f3ff1081f27c12671d8" in_zeros="164" out_zeros="11005" quality="8"/>
+		</rom>
+		<rom name="CD/Malice (USA) (Track 9).ogg" size="9472440" crc="83cb9076" md5="8176e8c898d35366c238ba60477054fd" sha1="6db639e81fbffe4f9b5fd5d84ac1c186bad7240c">
+			<source type="AUDIO" frames="26157" omitted_pregap="148" duration="05:48:57" size="61521264" crc="e90291cf" md5="c07475176c1faa004ce5316f2cf9f64c" sha1="72b69cafbc715470cc871310956d448f62f17dc2" in_zeros="196" out_zeros="9213" quality="8"/>
+		</rom>
+		<rom name="CD/Malice (USA) (Track 10).ogg" size="3550469" crc="db1d1624" md5="11e9e865772b0098d84d4cc68b9e651a" sha1="13f198a6692294ae1738f8d2d3719eebe0414bf5">
+			<source type="AUDIO" frames="8675" omitted_pregap="148" duration="01:55:50" size="20403600" crc="cdcf75d8" md5="0eeb4e05b948bcc91f983953d13327cc" sha1="cf0811087f9da1aaf44e7dcde6c166dd9eaeec99" in_zeros="212" out_zeros="4704" quality="8"/>
+		</rom>
+		<rom name="CD/Malice (USA).cue" size="998" crc="5ec82f8c" md5="28431eb265a89f62746362f43d59dad6" sha1="c26cf7aecf91b4abcd11c771a2fd7f7bfffceb25"/>
+		<rom name="MALICE.BAT" size="59" crc="bc65b89e" md5="10e7d94a4bc7d9e1d00adfcf06b6b0f8" sha1="0e704055fc15d65e70d1c9e7fcc313b340937b4a" date="1997-09-26 18:58:02"/>
+		<rom name="MALICE/MALICE.TXT" size="31171" crc="37abfde2" md5="ccc71fd16121f2941ae394ba8503f320" sha1="873db30331e0d414c7999cc8ca6aca864159cae2" date="1997-10-10 15:54:20"/>
+		<rom name="MALICE/MLICENSE.TXT" size="8529" crc="de591a11" md5="18a16ad94cb3f175c3c382bd9609173a" sha1="7c11678f80a4b8cacbb489db4a36afea23a65cbd" date="1997-09-05 14:48:14"/>
+		<rom name="MALICE/PAK0.PAK" size="18989583" crc="5d79b74d" md5="36eca7e938f5d93922d58c42eccc2895" sha1="40788cb50fab2acba022cc89db8e1431820ef0bb" date="1997-09-27 13:42:12"/>
+		<rom name="MALICE/PAK1.PAK" size="604424" crc="0c44bf19" md5="2ee378919cdd78e63dc809bc3707c1ba" sha1="a859fde7c0faa1dc2eb3c8cd8110574db49d6898" date="1997-10-01 02:31:10"/>
+		<rom name="MALICE/PAK2.PAK" size="12644111" crc="2faec885" md5="2c7e3de6cff6dc5a972a305ed3351a03" sha1="f98386f7f5947cb8862879eefdf127c4faa05797" date="1997-10-02 11:13:28"/>
+		<rom name="MALICE/PAK3.PAK" size="46749039" crc="ad99e9ba" md5="54f371884c588da16694e564b0f73a98" sha1="a733c8cebf615183818fcb97c4b1711649b0c8f4" date="1997-10-03 20:35:48"/>
+		<rom name="MALICE/README.TXT" size="5423" crc="8765929a" md5="a788e872bcb1d565ead69dc9945b2b68" sha1="5882e6bb8a6f1ec0655099acc2c247562e816e2e" date="1997-10-10 16:43:52"/>
+		<rom name="MALICE/REGISTER.TXT" size="2458" crc="122a63ea" md5="780de6c30706ea9a67dc16ff3b68d7ed" sha1="a6a46846ee82a7b9dedb9ba68634687d99505c53" date="1997-09-05 14:42:28"/>
+		<rom name="MALICE/STRAT1.TXT" size="5441" crc="4c4e5cf6" md5="d550dab2f1b2c24b3adcaf92e95403e3" sha1="78859460c93d476b589a73c1fbb2f39c527f374d" date="1997-10-06 09:31:12"/>
+		<rom name="MALICE/STRAT2.TXT" size="7537" crc="faa6cace" md5="3a167fd9a63d59b65bdf38ee2d69ed53" sha1="8e4046625e0a5316834d70998d42e655f6487849" date="1997-10-06 09:31:20"/>
+		<rom name="MALICE/STRAT3.TXT" size="5068" crc="3b8be95a" md5="9e053c63e4165897ad470f56899a5fab" sha1="53d43a765f98f9d9efe0ae3903de1f535237e7a9" date="1997-10-06 09:31:28"/>
 		<rom name="Quake (1996) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
 	<game name="Shadow Warrior - Twin Dragon (1998) (Level Infinity).dosz">
