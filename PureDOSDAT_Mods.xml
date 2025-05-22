@@ -550,6 +550,19 @@
 		<rom name="GALAXIA.WAD" size="783599" crc="4ed3a3ab" md5="1268745a553bf0675d3b5b487cbea3ac" sha1="d290f5f10659ac3abb184a8eea707674e4228cf0" date="1994-07-28 12:03:30"/>
 		<rom name="STORY.TXT" size="7842" crc="16a0d1fa" md5="cfb3805e29dbcf3353e0ba619ccf5d98" sha1="d5bc69a6261b4f5d87e99ff6735097a01b8cc8fe" date="1994-07-28 21:36:14"/>
 	</game>
+	<game name="Doom - Hell's Bane (2024) (Christian Hansen).dosz">
+		<description>Doom - Hell's Bane</description>
+		<year>2024</year>
+		<developer>Christian Hansen</developer>
+		<parent>Doom Mod Base.dosz</parent>
+		<comment>UMAPINFO isn't supported by Tartar</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom/Ports/megawads/hellbane</link>
+		<rom name="Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="hb_stbar.wad" size="23652" crc="9b625685" md5="23322262f816e12d9eee1ed30dea447a" sha1="2e45c5f02c7b8a4a53f8f23cb89e43322a5131b6"/>
+		<rom name="hellbane.txt" size="10733" crc="e4d587bc" md5="f7b72ff9e1a54da0f84a7f8e5d6caf21" sha1="d6142473b90b6773e1bcfde9b96c1714994b204e"/>
+		<rom name="hellbane.wad" size="19002462" crc="6f114b7d" md5="7655d88656fd9e0cb7cf7ea96f55c184" sha1="ae3c46459d4ed260d0bec34a847cfb5ac6998cab"/>
+	</game>
 	<game name="Doom - Infinity (1995) (Bjorn Hermans, Holger Nathrath).dosz">
 		<description>Doom - Infinity</description>
 		<year>1995</year>
@@ -3604,6 +3617,19 @@
 		<rom name="magnolia.txt" size="1123" crc="f0d082dc" md5="094040da17c2d82619528ae9472e5917" sha1="b65fd90280a2f1ef6514b600ed97f7eb13e3710e" date="2018-06-20 22:33:10"/>
 		<rom name="magnolia.wad" size="11946368" crc="d42936f0" md5="4fc271c17702a5a70437adf0c16fe028" sha1="665ef855f7b063284eb2d08ad4215b995b72ca79" date="2018-06-20 22:34:44"/>
 	</game>
+	<game name="Doom II - Malevolence (2022) (Cheesewheel).dosz">
+		<description>Doom II - Malevolence</description>
+		<year>2022</year>
+		<developer>Cheesewheel</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment>UMAPINFO isn't supported by Tartar</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/vb/thread/131061</link>
+		<rom name="CREDITS.txt" size="2267" crc="4f2aa83f" md5="ae1c057094e466be2cc8646f33c51809" sha1="96da46f5617fee2f90bc037414f9c9507eb2eaf6" date="2022-09-04 00:16:28"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Malevole.wad" size="19683333" crc="2ee11b55" md5="792a02dba724309e052651efbf87577c" sha1="d6c4f862953945775d1387fd706bce9bf52b0096" date="2022-09-03 19:23:48"/>
+		<rom name="STORY.txt" size="824" crc="496050cf" md5="6ce73f476abdc3b3f77fd1bcafcea847" sha1="ffc21ed41084e4e2d69d1f6b14e1a04e87362266" date="2022-08-27 15:33:30"/>
+	</game>
 	<game name="Doom II - Maps by My 6-Year-Old Son (2012) (Dylan Ellis Bourke).dosz">
 		<description>Doom II - Maps by My 6-Year-Old Son</description>
 		<year>2012</year>
@@ -4041,6 +4067,18 @@
 		<rom name="oatb.txt" size="5150" crc="871f53a4" md5="533303edccf40af34169d4db3cfe0679" sha1="a1949ebd95ad40a0e818d7bbb0e48860b96341ae" date="2020-07-12 21:06:00"/>
 		<rom name="oatb.wad" size="12836950" crc="4da0650e" md5="7b6ccd61c1ca0706be1d0d7635beaf41" sha1="1bd549c2dd5cf36452124f09b525dfc4ac8b2c58" date="2020-07-12 20:53:10"/>
 	</game>
+	<game name="Doom II - Oops... All-Ghosts! (2024) (grapes).dosz">
+		<description>Doom II - Oops... All-Ghosts!</description>
+		<year>2024</year>
+		<developer>grapes</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment>UMAPINFO isn't supported by Tartar</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/m-o/oops</link>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="oops.txt" size="5729" crc="5d9093f7" md5="b88ea1601f2b8c45200a60d255c42d59" sha1="0258ae614c89ee10e7c759a07a4a2f425c44573b"/>
+		<rom name="oops.wad" size="31582550" crc="1b528891" md5="581ddcaaf490ed5e92c0c5175d880781" sha1="11d81c0db8a87b8b9127a51f1ca419b1a9d2e19b"/>
+	</game>
 	<game name="Doom II - Operation - Biowar (1999) (Chris Harbin, Paul Corfiatis, John Bishop).dosz">
 		<description>Doom II - Operation - Biowar</description>
 		<year>1999</year>
@@ -4277,6 +4315,17 @@
 		<rom name="RlmChaos.txt" size="5537" crc="0ed7ec73" md5="625060373d9dfc2c76fe36e2da573b6f" sha1="e59876ba69dff0bac2950ba9a08f3d6460a09204" date="1999-12-20 12:12:28"/>
 		<rom name="RlmChaos.WAD" size="4858320" crc="d3e7d706" md5="eb34e40a6177420edb46b5c1c9de3bba" sha1="ea0e75a8ff6ec94a5e2a1bf262b5170020c93f13" date="1998-01-14 02:28:50"/>
 		<rom name="RlmSprt.WAD" size="31538" crc="b3479aaa" md5="e6bfe74c950bcbb11778b2c5ed9b5591" sha1="a889078de5fb3431ffb0bba453f89e51990276ea" date="1996-09-13 20:48:00"/>
+	</game>
+	<game name="Doom II - Realm of Chaos 2 - The Revenge of '96 (2024) (Various).dosz">
+		<description>Doom II - Realm of Chaos 2 - The Revenge of '96</description>
+		<year>2024</year>
+		<developer>Various</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment>RC3ex. UMAPINFO isn't supported by Tartar</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/vb/thread/125506</link>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="RoC2RC3x.wad" size="108623781" crc="a4dc494b" md5="abdbb7ebae1dbb1ba424e910e93b6cef" sha1="a4c0355f01457582451d824bfd804c08c221d9ca"/>
 	</game>
 	<game name="Doom II - Rebirth, The (2003) (Bjorn Ostmann).dosz">
 		<description>Doom II - Rebirth, The</description>
