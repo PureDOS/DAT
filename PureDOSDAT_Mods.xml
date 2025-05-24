@@ -23,6 +23,32 @@
 		<rom name="changelog.txt" size="210" crc="13eb0f49" md5="896b8c30bfe907f320a09ba98e91a1ca" sha1="eca2d3a09fe9a2e1f7bab6520294c949aeeffd01" date="2012-08-02 16:18:08"/>
 		<rom name="Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
+	<game name="Doom - 2002 - A Doom Odyssey (2002) (Various).dosz">
+		<description>Doom - 2002 - A Doom Odyssey</description>
+		<year>2002</year>
+		<developer>Various</developer>
+		<parent>Doom Mod Base.dosz</parent>
+		<comment>v3 (readme/idgames archive erroneously says v2)</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom/Ports/megawads/2002ado</link>
+		<rom name="2002ado.txt" size="7903" crc="0afb48d9" md5="e2d624a2c6ec72916271ed565d4abf5b" sha1="67d8b8aa3b03f7ff2243e4bb51f54b3b5d89d43d" date="2002-07-23 09:05:24"/>
+		<rom name="2002ado.wad" size="13098973" crc="78644a62" md5="54bd9e6461523378a862632d87d5f733" sha1="e162e122d993980981da693fca959f27e8798c75" date="2004-07-30 15:25:56"/>
+		<rom name="Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Doom - 2022 - A Doom Odyssey (2022) (Various).dosz">
+		<description>Doom - 2022 - A Doom Odyssey</description>
+		<year>2022</year>
+		<developer>Various</developer>
+		<parent>Doom Mod Base.dosz</parent>
+		<comment>UMAPINFO isn't supported by Tartar</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom/Ports/megawads/2022ado</link>
+		<rom name="2022ado.txt" size="4440" crc="05737fe5" md5="1796bacd8104860362128cede216156a" sha1="bd14afe888e7b4426af043b042876c4377326958" date="2022-10-30 11:12:00"/>
+		<rom name="2022ado.wad" size="46921748" crc="e3b68272" md5="ad62622a891bf96ebe2a98026eb40c4d" sha1="85751ddc81565a10d615e0db49e9e8f9c2d6f0ab" date="2022-10-31 01:51:40"/>
+		<rom name="2022readme.pdf" size="157526" crc="1b6e44de" md5="479b8cceac0c2bdca7fb9f4fa77f04e2" sha1="c69bbeda9173011c297751573b4221099646f497" date="2022-10-31 13:24:10"/>
+		<rom name="2022readme.txt" size="29294" crc="93e04591" md5="6037bf242fd918c9df503e16484109ac" sha1="c7406aa7911bd08e144bdab6045f9a27769d74d8" date="2022-10-26 01:50:38"/>
+		<rom name="Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
 	<game name="Doom - Absolutely Killed (2016) (scwiba).dosz">
 		<description>Doom - Absolutely Killed</description>
 		<year>2016</year>
