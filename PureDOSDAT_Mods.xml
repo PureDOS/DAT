@@ -1090,10 +1090,10 @@
 	</game>
 	<game name="Doom Engine.dosz">
 		<description>Doom Engine</description>
-		<comment>Contains Tartar stage5m2 from ModDB, with TARTAR.EXE updated to stage5m3-preview6 beta 3 from Doomworld. Needs DOS.YML with mem_size: 65536</comment>
+		<comment>Contains Tartar stage5m2 from ModDB, with TARTAR.EXE updated to stage5m3-preview6 from GitHub. Needs DOS.YML with mem_size: 65536</comment>
 		<comment_dosc>Sound Blaster 16 config and auto start. General MIDI option</comment_dosc>
 		<link type="freeware">https://www.moddb.com/mods/tartar/downloads/tartar1</link>
-		<link type="freeware">https://www.doomworld.com/forum/post/2932046</link>
+		<link type="freeware">https://github.com/drivelling-spinel/tartar/releases/tag/tartar-stage5m3-preview6</link>
 		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2022-05-11 15:38:04"/>
 		<rom name="DOS.YML" size="17" crc="9e2ade80" md5="5e4e9514ccbed110c66ed799f2b0c449" sha1="7ff552bf9a73a8ba6fe5089d140c63e3d6be659c" data="bWVtX3NpemU6IDY1NTM2DQo="/>
 		<rom name="ETERNITY.WAD" size="1165696" crc="6b8a58ff" md5="2b5a72557899cd80a35d9a44d40a0ead" sha1="80b9ea08c66af67aa8aec60d3001ce909d686abf" date="2021-11-07 04:38:42"/>
@@ -1147,7 +1147,7 @@
 		<rom name="SHIMS/toten.wad" size="583" crc="4852347d" md5="5b8d14c2d7ee45f73bec6993d3b74dd0" sha1="dd0be32138c92ceafe6afb9b2fb89c435b67d33d" date="2023-04-16 12:32:04"/>
 		<rom name="SHIMS/TRAIL.WAD" size="67732" crc="d6fcdbd8" md5="382257f8b05383045b84d7f807efa440" sha1="e44e8ecd2ae93fc9e8b3b136afc2fce16033a9db" date="2023-06-07 17:17:48"/>
 		<rom name="SKINS/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2023-11-01 04:05:56"/>
-		<rom name="TARTAR.EXE" size="494320" crc="33cb2df4" md5="75dcbd241eaff6a93e7e7b17c859dccd" sha1="694ca8bc93bf530ca172017ed731e5be2226b196"/>
+		<rom name="TARTAR.EXE" size="495540" crc="c81819d7" md5="0657a0075eed84b8ca99db0e21e42a49" sha1="1bba34139a8e17b8c4b122d70dd8e5f825e7d4d6"/>
 	</game>
 	<game name="Doom II - 1 Monster (2007) (Various).dosz">
 		<description>Doom II - 1 Monster</description>
@@ -1927,6 +1927,17 @@
 		<rom name="COD.WAD" size="6374240" crc="c21b2860" md5="9ef289e26cbcd8f641493e13ef5bf6ed" sha1="06fd831b600d14cd6d47631847b281b9df57d08f" date="2002-04-23 22:06:32"/>
 		<rom name="CODLEV.WAD" size="13980370" crc="c51120f0" md5="d55c90cebf2b7e45a2aec0724dac5a3f" sha1="33da03ba52214c701740729e8374f02109e7a202" date="2002-04-23 21:18:50"/>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Doom II - Chex Quest - Flemmed to the Core - Vanilla Edition (2024) (Vidyabatter).dosz">
+		<description>Doom II - Chex Quest - Flemmed to the Core - Vanilla Edition</description>
+		<year>2024</year>
+		<developer>Vidyabatter</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.moddb.com/mods/chex-quest-flemmed-to-the-core-vanilla-edition/downloads/fttc-chex3v</link>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="fttc_c3v.wad" size="19917719" crc="957db4f5" md5="24d7ea674dcf26e7718a4cdeda43c0fb" sha1="562efec73e2be8ce3d110138e4fb1265460216c1"/>
+		<rom name="fttc_chex3v_wide.wad" size="1761436" crc="4a238467" md5="29a684ac004a8428debb91f8e497cb36" sha1="e7a5d4c30f28eaaebddf6b1397cdb5966a034d65"/>
 	</game>
 	<game name="Doom II - City of Doom (2000) (Paul Maurone).dosz">
 		<description>Doom II - City of Doom</description>
@@ -5153,7 +5164,6 @@
 		<year>2013</year>
 		<developer>Various</developer>
 		<parent>Doom II Mod Base.dosz</parent>
-		<comment>MAP32 crashes Tartar</comment>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/sf2012</link>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
