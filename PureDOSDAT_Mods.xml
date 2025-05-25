@@ -323,6 +323,19 @@
 		<rom name="dethless.wad" size="5212998" crc="40a7a450" md5="08d3a10bb7eabc86df7bcaa32dc7eb91" sha1="5570a78c067428ab458c02068bdd3361b6587929" date="2020-05-25 10:21:32"/>
 		<rom name="Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
+	<game name="Doom - Doom - Part 2 - Earth in Hell (2024) (Walter Confalonieri, Kam Tovalski).dosz">
+		<description>Doom - Doom - Part 2 - Earth in Hell</description>
+		<year>2024</year>
+		<developer>Walter Confalonieri, Kam Tovalski</developer>
+		<parent>Doom Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom/megawads/dp2_eih</link>
+		<rom name="Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DP2_eih.bat" size="77" crc="8cb8364d" md5="6b34f8497bf399878c6288680f7eb697" sha1="77844832f5fbdab8a771f0a0a17e2b4b69db819a"/>
+		<rom name="DP2_EIH.deh" size="4318" crc="a4c13247" md5="f5f8c3a5387880163df90d91ffb3b1ff" sha1="039d226334e596181199fbd501efb592f9b0f197"/>
+		<rom name="DP2_EIH.txt" size="3050" crc="99d7ee7a" md5="3cd09bd82aa43a639ea0bf50a0b54338" sha1="34c079bdde1c8bed3ea9ece893f58e6a9dac474f"/>
+		<rom name="DP2_EIH.WAD" size="6843247" crc="647c661b" md5="ced5be6139b5fe6ee2f3324136852ba3" sha1="865de7bf41c654884a136b3d95bf9e1dad8d4153"/>
+	</game>
 	<game name="Doom - Doom the Way id Did - The Lost Episodes - Episode 5 (2016) (Various).dosz">
 		<description>Doom - Doom the Way id Did - The Lost Episodes - Episode 5</description>
 		<year>2016</year>
@@ -695,10 +708,10 @@
 		<rom name="NJDOOM1.WAD" size="3804458" crc="5b8465e1" md5="0a114cd20b6fc5a2ef671d8962113bf4" sha1="8e7e417cfabdef658c1b98dd5ccd2e9b796ecd06" date="1994-11-27 20:00:18"/>
 		<rom name="READ.ME" size="238" crc="52c3aa97" md5="401d61e9f37b53b3678e2db9dc6856a5" sha1="1e828d123bfd149123840aeac855e8ecd2a88ed8" date="1994-11-18 00:18:16"/>
 	</game>
-	<game name="Doom - No End in Sight (2016) (Emil Brundage, Xaser Acheron, Chris Lutz).dosz">
+	<game name="Doom - No End in Sight (2016) (Emil Brundage, Xaser Acheron, Christopher Lutz).dosz">
 		<description>Doom - No End in Sight</description>
 		<year>2016</year>
-		<developer>Emil Brundage, Xaser Acheron, Chris Lutz</developer>
+		<developer>Emil Brundage, Xaser Acheron, Christopher Lutz</developer>
 		<parent>Doom Mod Base.dosz</parent>
 		<comment>v1.4</comment>
 		<comment_dosc>Auto start</comment_dosc>
@@ -761,10 +774,10 @@
 		<rom name="NUKEMINE.TXT" size="6208" crc="85badb3c" md5="c597d023759eb13323b07ad6bab744ce" sha1="f7d4760c07e86c48fa902ef1e46dd0448c592866" date="1994-08-20 18:43:20"/>
 		<rom name="NUKEMINE.WAD" size="1788776" crc="f1aadf73" md5="5394e828fc04d24593e0dcb187d95dfa" sha1="94d8c1e6d371a09e5f7a0dff819522fdc266b2be" date="1994-08-20 18:38:34"/>
 	</game>
-	<game name="Doom - Phobos - Anomaly Reborn (2003) (Chris Lutz).dosz">
+	<game name="Doom - Phobos - Anomaly Reborn (2003) (Christopher Lutz).dosz">
 		<description>Doom - Phobos - Anomaly Reborn</description>
 		<year>2003</year>
-		<developer>Chris Lutz</developer>
+		<developer>Christopher Lutz</developer>
 		<parent>Doom Mod Base.dosz</parent>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom/Ports/p-r/par-lutz</link>
@@ -1131,6 +1144,7 @@
 		<rom name="SHIMS/gfx2.wad" size="1008" crc="0480bc4f" md5="7d3c2ec7ace79920e0972a46dade0b4d" sha1="c96f46a9d34bff583aeed88a7fc24d05bcf417b1" date="2023-04-16 12:27:04"/>
 		<rom name="SHIMS/halten.wad" size="814" crc="cb3db65e" md5="73b72bce525e9382e3cc01c30cb77ada" sha1="a441aef6af45091a65ab92c4d47bfa9183b9a6d3" date="2023-06-07 17:14:38"/>
 		<rom name="SHIMS/HELL2PAY.WAD" size="2493" crc="da6791f0" md5="e898e4743e004437f1915c4e2bca4d02" sha1="4df664184d9c76b65febeec06734a7d1aa29d861" date="2023-10-31 16:57:06"/>
+		<rom name="SHIMS/HRs.wad" size="61" crc="64badc7c" md5="274301dc260895382c551ea01b8cd382" sha1="31f9e732f275f95adfa13b83f88d3f8a4e83c79c" date="2023-11-27 10:30:30"/>
 		<rom name="SHIMS/hunt.wad" size="967" crc="0e7e3393" md5="6d900d547ff02a63fc90eca3faa88da7" sha1="cab283a768301342c8cc1892c14f827e7a9ab49b" date="2023-06-07 17:16:00"/>
 		<rom name="SHIMS/Hydrosphere.wad" size="1205" crc="b37107e8" md5="769b7bfef576139df39774e807a3f937" sha1="2cbe5f1996a83ba3b7d282776ee12325f1e39fb4" date="2022-12-27 05:15:22"/>
 		<rom name="SHIMS/KDiKDi_A.wad" size="285032" crc="aa97492b" md5="8e5d7ad1eceb43bf355560eb39b34a43" sha1="db20d0e0b260df97cbb68be4c6e7c0ea7a7cdd48" date="2022-12-26 15:36:36"/>
@@ -1902,6 +1916,20 @@
 		<rom name="RUINBROS.TXT" size="2079" crc="ee440534" md5="8dbbb455d2a9029cebfea6a74f9920d9" sha1="de2a13bc9e0819ac1570179449179bd490cb402c" date="2001-11-26 19:15:30"/>
 		<rom name="RUINBROS.WAD" size="9333463" crc="b9ba1773" md5="939fe320d91a817729b1232ee4552db3" sha1="4b841a266195a773b9e6b5e111ca4ff69e5aac18" date="2001-11-26 18:55:04"/>
 	</game>
+	<game name="Doom II - Cannibal (2024) (ZeMystic).dosz">
+		<description>Doom II - Cannibal</description>
+		<year>2024</year>
+		<developer>ZeMystic</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment>RC3</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/vb/thread/144733</link>
+		<rom name="CNBL_RC3.deh" size="1327" crc="274bb2e8" md5="0796afb92b43bc36607b89ed560f68de" sha1="875d1d36f74db256f577d129ac6a900e0023b5bd"/>
+		<rom name="CNBL_RC3.txt" size="3174" crc="031d4c9a" md5="ce48f170010c407a71c328a679b2baea" sha1="b2f9c67e53ca32042831e4a7525897ae72b5d35f"/>
+		<rom name="CNBL_RC3.wad" size="4874373" crc="e7e7e115" md5="a83bcb7b0ebbceea7b04dc9bae233211" sha1="70c5eae0c14d822d3745639139429d7758829284"/>
+		<rom name="Demo/UVMAX07.lmp" size="23311" crc="b64e4836" md5="1dd33f0fccc6b1a10b925b164e9e62b6" sha1="7f07227c371eda57a86c4a56aa5674d9ed40c7fb"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
 	<game name="Doom II - Capybara (2022) (Various).dosz">
 		<description>Doom II - Capybara</description>
 		<year>2022</year>
@@ -2142,15 +2170,25 @@
 		<rom name="ACHRON22.WAD" size="200413" crc="3b40e752" md5="58fdafefd08cb2e1841aa49052ff78bd" sha1="a0f2215674fccaa27f138cd74a0b237d95a34ec7" date="1995-07-06 03:53:58"/>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
-	<game name="Doom II - Crumpets (2014) (Zach Stephens).dosz">
+	<game name="Doom II - Crumpets (2014) (Zachary Stephens).dosz">
 		<description>Doom II - Crumpets</description>
 		<year>2014</year>
-		<developer>Zach Stephens</developer>
+		<developer>Zachary Stephens</developer>
 		<parent>Doom II Mod Base.dosz</parent>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/a-c/crumpets</link>
 		<rom name="crumpets.txt" size="5610" crc="204b3b47" md5="f7251b5e4494face77ae69d4dd7fc31d" sha1="cd5801f60aafbaed8f9645dd74b5cab121dbc60b" date="2015-05-26 00:59:00"/>
 		<rom name="crumpets.wad" size="4183865" crc="d54cf8d2" md5="fb1d91e7d327f4de9e04b6f5f2d9bd97" sha1="bd56a6fbde5a6fae6f7713bd469d4f5e9e2fb005" date="2015-05-26 00:50:26"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Doom II - Crumpets 2 (2024) (Zachary Stephens).dosz">
+		<description>Doom II - Crumpets 2</description>
+		<year>2024</year>
+		<developer>Zachary Stephens</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/vb/thread/143340</link>
+		<rom name="cr2.wad" size="4863875" crc="4cfa2274" md5="8555bcf893c90b8c746a5435707a1b85" sha1="5f6e5d1fd843952527c05a089d362e6816c4c3a0"/>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
 	<game name="Doom II - Cryogenics (2017) (Bemused).dosz">
@@ -2429,6 +2467,17 @@
 		<rom name="Addons/readme.txt" size="388" crc="b7bdfa99" md5="6efba35bb34811ad6263d5fa40e397a0" sha1="16d9cd14e0817537355e273581e6b42409e5bfb4" date="2021-07-13 13:11:02"/>
 		<rom name="DBP37.wad" size="48797931" crc="4447ef97" md5="75df09ac824f02dbe321d1fc7774e467" sha1="37f240e3942a3fbb5cd625c8bffb0edb6d95edb6" date="2021-07-22 23:47:32"/>
 		<rom name="DBP37_AUGZEN.txt" size="6212" crc="cb830b19" md5="df6e61fcd979430d9bec6c7a78ce960e" sha1="fbbebf2d03bd3ae495e16ee56eeb68389db485db" date="2021-07-23 00:44:00"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Doom II - DBP41 - Hell Revealed III (2021) (Doomer Boards Community).dosz">
+		<description>Doom II - DBP41 - Hell Revealed III</description>
+		<year>2021</year>
+		<developer>Doomer Boards Community</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/vb/thread/125573</link>
+		<rom name="dbp41_b1.wad" size="11178534" crc="3dd9f2c6" md5="2663564617e73ac0a7293013481b9689" sha1="9722f100d4b0fdff82d997454f543e0f4f6a1396" date="2021-11-02 14:40:00"/>
+		<rom name="dbp41_beta_v1.TXT" size="3812" crc="97f67a08" md5="747384082cb5a316de9110e4579858d6" sha1="40936a7890675aa0a85394d24cdb081804371082" date="2021-11-02 14:43:12"/>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
 	<game name="Doom II - DBP42 - Slime on Earth (2021) (Doomer Boards Community).dosz">
@@ -3139,10 +3188,10 @@
 		<rom name="NEW.WAD" size="1089113" crc="ccfbb808" md5="8d6f6efbda98a29813399f0884875c5e" sha1="7e7441f7fbf3ea1fdcddd1dec0914ba1d64f310c" date="1995-06-12 19:35:28"/>
 		<rom name="template.txt" size="10196" crc="48ed63a4" md5="af4d325102f7c88593ce885888e81c88" sha1="939c5b3e2516837387f1620ad7bc6cc647e5a85c" date="2005-08-01 09:51:12"/>
 	</game>
-	<game name="Doom II - Finely Crafted Fetish Film (2019) (Zach Stephens).dosz">
+	<game name="Doom II - Finely Crafted Fetish Film (2019) (Zachary Stephens).dosz">
 		<description>Doom II - Finely Crafted Fetish Film</description>
 		<year>2019</year>
-		<developer>Zach Stephens</developer>
+		<developer>Zachary Stephens</developer>
 		<parent>Doom II Mod Base.dosz</parent>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/vb/thread/104608</link>
@@ -3529,6 +3578,34 @@
 		<rom name="hr2final.txt" size="2461" crc="67f0998a" md5="f4e6319cd4c6d3114d2917224a9d045b" sha1="53a744f5e3f3e0e9b5ee1bf22dfc60f74aee0e42" date="2003-12-31 22:46:56"/>
 		<rom name="hr2final.wad" size="6588096" crc="c5b234f4" md5="dad338e1968aea4df05d465e864d78f3" sha1="b0f01f03847b22d046aea2c2367be95b30998627" date="2003-12-31 22:13:32"/>
 	</game>
+	<game name="Doom II - Hell Revealations - Bonus Maps (2023) (The SLOTTER Team).dosz">
+		<description>Doom II - Hell Revealations - Bonus Maps</description>
+		<year>2023</year>
+		<developer>The SLOTTER Team</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/hrs</link>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="HRsBonus.deh" size="20501" crc="5a205760" md5="65ab865bbf6140ad8af0f93ff5d08704" sha1="05983081e4b2cc205ffca260ae787d02efd9c9ca" date="2023-11-08 03:34:10"/>
+		<rom name="HRsBonus.wad" size="10080533" crc="27d268f3" md5="78a1bc4cb31a280f193c43518795cff6" sha1="6831bf59b63e31ce079d8c5060c3ae3d423ee464"/>
+		<rom name="HRsBonus_ws.wad" size="585690" crc="ed5afe25" md5="dec5c7f96bcf950ebee784729bbe741f" sha1="6d3aa92280221f3971266c21483969de3c20566f" date="2023-10-16 01:17:58"/>
+		<rom name="READ ME.txt" size="224" crc="05114b87" md5="023669b4d38da20b1f9803549437778d" sha1="4d8e92cf64ec9c67bc051b528c55ae97b80c2bcc" date="2023-10-05 02:46:42"/>
+	</game>
+	<game name="Doom II - Hell Revealations (2023) (The SLOTTER Team).dosz">
+		<description>Doom II - Hell Revealations</description>
+		<year>2023</year>
+		<developer>The SLOTTER Team</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/hrs</link>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="HRs.deh" size="21852" crc="2b4741aa" md5="2a165048274a4b7cb80e29a298ed229e" sha1="62ffdfa4e1765200d90d0e3f793e429953fbd5bb" date="2023-11-08 03:31:08"/>
+		<rom name="HRs.txt" size="15108" crc="22948d13" md5="b46a2752e618bf7fa7c4599f122ab5ad" sha1="62699805bdbb3c5f259ba18aa100dc9266711758" date="2023-12-30 14:48:00"/>
+		<rom name="HRs.wad" size="24291017" crc="1c84af6e" md5="d1795fabb655dedc45c18736fe82e54e" sha1="7fbfa1aff2e3da890dfdcb066ae408c1dbc5c663"/>
+		<rom name="HRs_ws.wad" size="562074" crc="1f248b0e" md5="a6c2e24a0480e1adf6a53590d453cece" sha1="a1611034f324af970c9cd95fba7ad3eaaa5a0c32" date="2023-09-29 10:47:08"/>
+		<rom name="Infopack/HRsINFO.exe" size="12302184" crc="b69629e8" md5="54d096c871306318675e040988c6b668" sha1="c389adca64e0dc96f7039c94c36b1cc846e3f5ad" date="2023-10-26 21:34:32"/>
+		<rom name="Infopack/HRSINFO.txt" size="549" crc="2d4b900c" md5="13005260e2f16f6582bfc584af56c213" sha1="95565f62c7698009bec3fce32acaf5bd599b47d5" date="2023-10-04 04:35:02"/>
+	</game>
 	<game name="Doom II - Hell to Pay (1996) (Wraith Corporation).dosz">
 		<description>Doom II - Hell to Pay</description>
 		<year>1996</year>
@@ -3580,10 +3657,10 @@
 		<rom name="HELEVTOR.txt" size="4307" crc="86936d7b" md5="e8bc3c78df8c3465b18878c115676e73" sha1="f47c734a22d99fef220be8904ea00c185d3ada2a" date="2021-01-28 06:33:00"/>
 		<rom name="HELEVTOR.wad" size="14060594" crc="11630a30" md5="03476f7bbbee491daab6a483f475dae8" sha1="a1613c32027f99b7f522c0fcf09d1377aec5ed26" date="2021-01-26 09:17:24"/>
 	</game>
-	<game name="Doom II - Hellscape (2017) (Chris Lutz).dosz">
+	<game name="Doom II - Hellscape (2017) (Christopher Lutz).dosz">
 		<description>Doom II - Hellscape</description>
 		<year>2017</year>
-		<developer>Chris Lutz</developer>
+		<developer>Christopher Lutz</developer>
 		<parent>Doom II Mod Base.dosz</parent>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/d-f/dhs-lutz</link>
@@ -3701,10 +3778,10 @@
 		<rom name="irkalla.wad" size="48013124" crc="3b4f6b61" md5="d9caa07b3e08d6766d845e3499ca0778" sha1="9b09fff8ac816a4dea10d4b03321f86d582d6696" date="2022-06-02 00:06:36"/>
 		<rom name="Irkalla_Maps.txt" size="4158" crc="f35321fc" md5="00b5e0b88cec2d11a3c78d8d8d173755" sha1="a6aa2603456c7f01a727e2c7fe3fa0630905589a" date="2022-05-27 14:14:36"/>
 	</game>
-	<game name="Doom II - Italo-Doom (2016) (Zach Stephens, Daniel Jakobsson).dosz">
+	<game name="Doom II - Italo-Doom (2016) (Zachary Stephens, Daniel Jakobsson).dosz">
 		<description>Doom II - Italo-Doom</description>
 		<year>2016</year>
-		<developer>Zach Stephens, Daniel Jakobsson</developer>
+		<developer>Zachary Stephens, Daniel Jakobsson</developer>
 		<parent>Doom II Mod Base.dosz</parent>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/italo</link>
@@ -3775,10 +3852,10 @@
 		<rom name="jenesis.txt" size="18476" crc="689308d8" md5="da07f676d39ce301d8d4ba2aa7c51c89" sha1="dd10ff42b624216bdec2854cd511f585d75f5bc5" date="2011-11-28 01:03:48"/>
 		<rom name="jenesis.wad" size="21026425" crc="d4f84b6a" md5="de7e807124b9eb4ae058e4ade34c37a4" sha1="174f6ded2cd8d061352ee3fa0a82f31ec5176d06" date="2011-11-28 01:01:30"/>
 	</game>
-	<game name="Doom II - Jumpwad (2022) (Zach Stephens, Grain of Salt).dosz">
+	<game name="Doom II - Jumpwad (2022) (Zachary Stephens, Grain of Salt).dosz">
 		<description>Doom II - Jumpwad</description>
 		<year>2022</year>
-		<developer>Zach Stephens, Grain of Salt</developer>
+		<developer>Zachary Stephens, Grain of Salt</developer>
 		<parent>Doom II Mod Base.dosz</parent>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/vb/thread/129577</link>
@@ -3870,6 +3947,17 @@
 		<rom name="literal.wad" size="38120265" crc="b703b4b2" md5="d61cc6dd5470b60d4b1429874fa7e0e4" sha1="31f33c95799c851d1eeb4442c900475a6c0027e0"/>
 		<rom name="literalism.txt" size="2926" crc="d6ee1b27" md5="5609f09ca81b201d4e4adbee77ac9a00" sha1="52abc9715893f2ca17d042e6da629ed46e589fe9" date="2021-10-17 11:26:00"/>
 	</game>
+	<game name="Doom II - Little Italo (2024) (raddicted, LunchLunch).dosz">
+		<description>Doom II - Little Italo</description>
+		<year>2024</year>
+		<developer>raddicted, LunchLunch</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/littleitalo</link>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="litalo.wad" size="5454168" crc="47a82f22" md5="71b32aa8aac75fc1d3bbc92021c2466b" sha1="1d9fa1ebbe427398644a494b63160afa2e3b147b"/>
+		<rom name="littleitalo.txt" size="3400" crc="de5aafb7" md5="a44585b650ef8d3a86797c93a84fb8c5" sha1="e1408d0dc6389db9b0ac10f3dbfce9bb709f68da"/>
+	</game>
 	<game name="Doom II - Long Trek Back Home, The (2021) (hervoheebo).dosz">
 		<description>Doom II - Long Trek Back Home, The</description>
 		<year>2021</year>
@@ -3942,10 +4030,10 @@
 		<rom name="magspire.txt" size="7359" crc="758fae0a" md5="d44f22b7ae4da73ff11f376b4ff76ccd" sha1="18f7403dd6a92ae4a9ad1098e25b7e0a77c60ee9" date="2023-03-06 22:21:00"/>
 		<rom name="magspire.wad" size="32035226" crc="70f442d5" md5="105e2ee819bc0c059cf51be9be0d55e5" sha1="940c3f66be362d775de413e13286894330080a6f" date="2023-03-29 22:00:32"/>
 	</game>
-	<game name="Doom II - Magnolia (2018) (Zach Stephens).dosz">
+	<game name="Doom II - Magnolia (2018) (Zachary Stephens).dosz">
 		<description>Doom II - Magnolia</description>
 		<year>2018</year>
-		<developer>Zach Stephens</developer>
+		<developer>Zachary Stephens</developer>
 		<parent>Doom II Mod Base.dosz</parent>
 		<comment>Includes UV version from DSDA</comment>
 		<comment_dosc>Auto start</comment_dosc>
@@ -4466,10 +4554,10 @@
 		<rom name="biowar.wad" size="5646416" crc="cb25ce30" md5="28009a1dcb1c26aad04c397cd3fa0db0" sha1="1d179c7bfe239f40476b7dc04e88231b09e57ae0" date="1999-11-13 17:59:26"/>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
-	<game name="Doom II - Orange Is True Love (2018) (Zach Stephens, Grain of Salt).dosz">
+	<game name="Doom II - Orange Is True Love (2018) (Zachary Stephens, Grain of Salt).dosz">
 		<description>Doom II - Orange Is True Love</description>
 		<year>2018</year>
-		<developer>Zach Stephens, Grain of Salt</developer>
+		<developer>Zachary Stephens, Grain of Salt</developer>
 		<parent>Doom II Mod Base.dosz</parent>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/vb/thread/102966</link>
@@ -4557,6 +4645,18 @@
 		<rom name="pagodia.txt" size="2908" crc="631645e0" md5="080c929ba3a60f0bcfdd250315ecabe7" sha1="900e12d352b2ce9feb8fb9901663f54a1ae33c88" date="2022-06-30 17:21:00"/>
 		<rom name="pagodia.wad" size="13070465" crc="617f298d" md5="c4b3580bc583f36ed32e28974a317e75" sha1="797ce95926662acff0da2c4f555866db55bbba1f" date="2022-06-30 17:06:00"/>
 		<rom name="README.TXT" size="17640" crc="638f2fa8" md5="6539d7b10c8324f78fef17376b5c0211" sha1="ab40c2ec7e8938e66c01d5c0e054bc0909710fd2" date="2022-06-30 17:09:14"/>
+	</game>
+	<game name="Doom II - Parallel Doomensions (2024) (Various).dosz">
+		<description>Doom II - Parallel Doomensions</description>
+		<year>2024</year>
+		<developer>Various</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment>UMAPINFO isn't supported by Tartar</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/pd</link>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="PD.txt" size="2966" crc="3cc71439" md5="a9e370d413a580736012e3a069e97d06" sha1="a11a89bc7bf38c750297463aab34a4c6ef72c2ea"/>
+		<rom name="PD.wad" size="100590402" crc="386aa5ce" md5="09ac078769a56e384e0d501e2b9af7dc" sha1="814fcd693fb63c5b223a3171d3f6be1bbfb525d8"/>
 	</game>
 	<game name="Doom II - Perdition's Gate (1996) (Wraith Corporation).dosz">
 		<description>Doom II - Perdition's Gate</description>
@@ -5294,10 +5394,10 @@
 		<rom name="SWMODEM.BAT" size="30" crc="ca1ce476" md5="6498c114d47a4db2763c3a0f8647c613" sha1="49a189ad19f63f0b0f141dd5eae9639e2b6ba799" date="1996-09-11 15:24:10"/>
 		<rom name="UPDATE.TXT" size="5605" crc="0bfc03d6" md5="7203f2635818e8508eff4fe833cd3e08" sha1="d153b330a5584e7a3f6359add16b2268284b5590" date="1998-10-27 22:32:06"/>
 	</game>
-	<game name="Doom II - Stardate 20X6 (2013) (Zach Stephens).dosz">
+	<game name="Doom II - Stardate 20X6 (2013) (Zachary Stephens).dosz">
 		<description>Doom II - Stardate 20X6</description>
 		<year>2013</year>
-		<developer>Zach Stephens</developer>
+		<developer>Zachary Stephens</developer>
 		<parent>Doom II Mod Base.dosz</parent>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/s-u/stardate</link>
@@ -5305,10 +5405,10 @@
 		<rom name="sd20x6.wad" size="14650225" crc="61b4397e" md5="a064a60cd6c7f1ebff8265629a6e7860" sha1="5ba65d76a868c0fa341ae67fdc6f28d12418a599" date="2013-05-31 21:29:28"/>
 		<rom name="stardate20x6.txt" size="7262" crc="c1058252" md5="ed93b38ee04501f2020defeb5a015c32" sha1="5853c569f0e58715d64bbce912b322e9f28fd09e" date="2013-06-02 17:50:00"/>
 	</game>
-	<game name="Doom II - Stardate 20X7 (2017) (Zach Stephens).dosz">
+	<game name="Doom II - Stardate 20X7 (2017) (Zachary Stephens).dosz">
 		<description>Doom II - Stardate 20X7</description>
 		<year>2017</year>
-		<developer>Zach Stephens</developer>
+		<developer>Zachary Stephens</developer>
 		<parent>Doom II Mod Base.dosz</parent>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/s-u/sd20x7</link>
@@ -5399,10 +5499,10 @@
 		<rom name="Suitcase.txt" size="5343" crc="d8847028" md5="ea2fa7d0c3e96f8b46c96e34eeb64a08" sha1="7757bef1389e482a499903fc265dd6ab8be417f5" date="2017-02-22 19:09:00"/>
 		<rom name="SUITCGOR.wad" size="31939496" crc="2c1f6d54" md5="35f3b1f606e12b5ac479efd92153f47f" sha1="9a0366b98cebadaf0c2eefafd3946d1b580b9fb3" date="2013-12-27 18:51:32"/>
 	</game>
-	<game name="Doom II - Summer of '69 (2015) (Zach Stephens, Daniel Jakobsson).dosz">
+	<game name="Doom II - Summer of '69 (2015) (Zachary Stephens, Daniel Jakobsson).dosz">
 		<description>Doom II - Summer of '69</description>
 		<year>2015</year>
-		<developer>Zach Stephens, Daniel Jakobsson</developer>
+		<developer>Zachary Stephens, Daniel Jakobsson</developer>
 		<parent>Doom II Mod Base.dosz</parent>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/s-u/summer69</link>
@@ -5422,10 +5522,10 @@
 		<rom name="Sunder.wad" size="167039763" crc="73f4c6b7" md5="cca25100f7591d499664609ce9f33c80" sha1="e00abefff08bf660511932b289c319c3e4020a09" date="2021-12-30 22:21:52"/>
 		<rom name="SunderReadMeV2.TXT" size="34421" crc="e86639d7" md5="34dc623e2b217edaec3d42ab822e35e1" sha1="86f7e118e2ffe298418eb05d124d28c5a48d799e" date="2021-12-15 12:44:20"/>
 	</game>
-	<game name="Doom II - Sunlust (2015) (Zach Stephens, Daniel Jakobsson).dosz">
+	<game name="Doom II - Sunlust (2015) (Zachary Stephens, Daniel Jakobsson).dosz">
 		<description>Doom II - Sunlust</description>
 		<year>2015</year>
-		<developer>Zach Stephens, Daniel Jakobsson</developer>
+		<developer>Zachary Stephens, Daniel Jakobsson</developer>
 		<parent>Doom II Mod Base.dosz</parent>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/sunlust</link>
@@ -5482,10 +5582,10 @@
 		<rom name="swideath.txt" size="3820" crc="e801f907" md5="9127c4b0ab3a3f509741d95a33ee1cc0" sha1="1b81799ce77018b4db9ce73ddd10c3432e4dd5ea" date="2015-11-11 12:24:08"/>
 		<rom name="swideath.wad" size="5297832" crc="1f986a3a" md5="fa4bc3840f4f35ca4a9eb83cfe408844" sha1="1f9ecc5e1849b70b3155bbb8e82712e9683c9645" date="2015-11-11 12:10:48"/>
 	</game>
-	<game name="Doom II - Swim with the Whales (2013) (Zach Stephens).dosz">
+	<game name="Doom II - Swim with the Whales (2013) (Zachary Stephens).dosz">
 		<description>Doom II - Swim with the Whales</description>
 		<year>2013</year>
-		<developer>Zach Stephens</developer>
+		<developer>Zachary Stephens</developer>
 		<parent>Doom II Mod Base.dosz</parent>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/s-u/swtw</link>
@@ -6065,10 +6165,10 @@
 		<rom name="original.txt" size="1582" crc="dc41c3b3" md5="9b7da3332051f6830575d3d28698188e" sha1="2de164da58f266ff21507c691651ed4b3b82a3c8" date="1998-07-27 13:16:26"/>
 		<rom name="original.wad" size="7813324" crc="388ade03" md5="7eb78c3fef37d4ccba5f1166823a9262" sha1="f843b93148e7eead8aefdf1a0560c52a8d014f48" date="1998-07-27 12:52:46"/>
 	</game>
-	<game name="Doom II - Worm-V-wood (2023) (Zach Stephens, Grain of Salt).dosz">
+	<game name="Doom II - Worm-V-wood (2023) (Zachary Stephens, Grain of Salt).dosz">
 		<description>Doom II - Worm-V-wood</description>
 		<year>2023</year>
-		<developer>Zach Stephens, Grain of Salt</developer>
+		<developer>Zachary Stephens, Grain of Salt</developer>
 		<parent>Doom II Mod Base.dosz</parent>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/vb/thread/141190</link>
@@ -6076,10 +6176,10 @@
 		<rom name="wormwd5.wad" size="13103537" crc="759e5712" md5="72d1a3b441069250f10af65bf63797ad" sha1="bf28a04eb125ba0412fb574879385647a5657252" date="2023-11-04 16:43:00"/>
 		<rom name="wormwood5.txt" size="2339" crc="5fffcd0e" md5="5a35920727637cc1bcd209c1d66ce9d7" sha1="ed81e8503387541cea379220eb283f5f30bbbeb5" date="2023-10-31 12:40:10"/>
 	</game>
-	<game name="Doom II - Wormwood - Expanded Universe (2020) (Zach Stephens, Grain of Salt).dosz">
+	<game name="Doom II - Wormwood - Expanded Universe (2020) (Zachary Stephens, Grain of Salt).dosz">
 		<description>Doom II - Wormwood - Expanded Universe</description>
 		<year>2020</year>
-		<developer>Zach Stephens, Grain of Salt</developer>
+		<developer>Zachary Stephens, Grain of Salt</developer>
 		<parent>Doom II Mod Base.dosz</parent>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/vb/thread/117856</link>
@@ -6087,20 +6187,20 @@
 		<rom name="wormwdEU.wad" size="8292945" crc="c465790d" md5="ed57147eefad19814cf48c13721c1b46" sha1="b01a3867ccdaf094161861ff471683d3579645fb" date="2020-10-31 17:44:42"/>
 		<rom name="wormwood_EU.txt" size="1206" crc="51dbc1ad" md5="61c5cc2aec28e058c1839558be123cf4" sha1="39c98f20469c7d269868c3a07ebe6e57001afeef" date="2020-10-31 15:17:00"/>
 	</game>
-	<game name="Doom II - Wormwood (2019) (Zach Stephens, Grain of Salt).dosz">
+	<game name="Doom II - Wormwood (2019) (Zachary Stephens, Grain of Salt).dosz">
 		<description>Doom II - Wormwood</description>
 		<year>2019</year>
-		<developer>Zach Stephens, Grain of Salt</developer>
+		<developer>Zachary Stephens, Grain of Salt</developer>
 		<parent>Doom II Mod Base.dosz</parent>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/vb/thread/110060</link>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="wormwood.wad" size="3247703" crc="d70bc7be" md5="ec24121ad9559c9280879e67ac0770ee" sha1="6fcfce0d248735bf76498326b50e91177aca8778" date="2019-10-31 12:58:42"/>
 	</game>
-	<game name="Doom II - Wormwood III - The Horror (2021) (Zach Stephens, Grain of Salt).dosz">
+	<game name="Doom II - Wormwood III - The Horror (2021) (Zachary Stephens, Grain of Salt).dosz">
 		<description>Doom II - Wormwood III - The Horror</description>
 		<year>2021</year>
-		<developer>Zach Stephens, Grain of Salt</developer>
+		<developer>Zachary Stephens, Grain of Salt</developer>
 		<parent>Doom II Mod Base.dosz</parent>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/vb/thread/125529</link>
@@ -6108,10 +6208,10 @@
 		<rom name="wormwd3.wad" size="6693265" crc="46ff69ab" md5="98f8d4303587418c8812e716fed4b2ed" sha1="bf8597a000eaccae56a992abb0990c09d9e99984" date="2021-11-02 22:07:34"/>
 		<rom name="wormwood3.txt" size="861" crc="995a5c12" md5="e9562615ddc101039039408e0aaa2c52" sha1="c582457b5115a125cebdbd0171ef7b484d9f94b6" date="2021-11-01 17:51:18"/>
 	</game>
-	<game name="Doom II - Wormwood IV - The Final Chapter (2022) (Zach Stephens, Grain of Salt, Daniel Jakobsson).dosz">
+	<game name="Doom II - Wormwood IV - The Final Chapter (2022) (Zachary Stephens, Grain of Salt, Daniel Jakobsson).dosz">
 		<description>Doom II - Wormwood IV - The Final Chapter</description>
 		<year>2022</year>
-		<developer>Zach Stephens, Grain of Salt, Daniel Jakobsson</developer>
+		<developer>Zachary Stephens, Grain of Salt, Daniel Jakobsson</developer>
 		<parent>Doom II Mod Base.dosz</parent>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/vb/thread/132293</link>
@@ -6447,6 +6547,18 @@
 		<rom name="Final Doom - Plutonia Experiment Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="PRCP2.txt" size="6745" crc="a3a2b3ab" md5="38fc62123fc0bf02d595c3cb121b4a8a" sha1="25bf81381482d666eac0b6bdafb0bb667c2bf054" date="2022-08-12 20:02:00"/>
 		<rom name="PRCP2.wad" size="47259226" crc="d9e8b4db" md5="d5110b270fafe74b45338d422affbef0" sha1="a7d3e8e816c11d841311c610dd377d3e733201fe" date="2022-08-15 21:29:58"/>
+	</game>
+	<game name="Final Doom - Plutonic Visions (2024) (finnks13).dosz">
+		<description>Final Doom - Plutonic Visions</description>
+		<year>2024</year>
+		<developer>finnks13</developer>
+		<parent>Final Doom - Plutonia Experiment Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/plutonic</link>
+		<rom name="Final Doom - Plutonia Experiment Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="plutonic.deh" size="4414" crc="31d67b6c" md5="0ce9489f1bdece6b0e9f2ab5adb59e2e" sha1="67157890dc3cc4d2ce13806dad57ffe98910c3c9"/>
+		<rom name="plutonic.txt" size="5844" crc="5747c1b4" md5="064b19a886059357a1174261566098cd" sha1="65e3d0ac6f4914549d541acd52fb1b90e09a7352"/>
+		<rom name="plutonic.wad" size="5056237" crc="1b057497" md5="931c52874ac983c1dd7248db1d82973d" sha1="99f03f353ee412ffc9cec5313e97133a738ca5a4"/>
 	</game>
 	<game name="Final Doom - Road to Hades (2024) (Rose Holmes).dosz">
 		<description>Final Doom - Road to Hades</description>
