@@ -981,6 +981,18 @@
 		<rom name="SOLVETCO.txt" size="4212" crc="9b590670" md5="6ec33a120f64e10a98c4a2d26f7ec2dc" sha1="c34aa01f0a8634c8ca0adca22a71d3eb149aa720" date="2023-09-06 04:24:00"/>
 		<rom name="SOLVETCO.wad" size="4392860" crc="18e654cd" md5="b0fb1ebb28690903199dfee5b3c195e8" sha1="acdda9a69ed312fd6a1aac879d5424cf462b8acb" date="2023-12-24 12:49:12"/>
 	</game>
+	<game name="Doom - Spectrum (2019) (Adam Windsor).dosz">
+		<description>Doom - Spectrum</description>
+		<year>2019</year>
+		<developer>Adam Windsor</developer>
+		<parent>Doom Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom/Ports/s-u/spectrum</link>
+		<rom name="Doom Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="spectrum.deh" size="6524" crc="e897270f" md5="065eb2909ef82b2b5e60bda4ad1d7e79" sha1="5b7c93f7e47c327c19a64a7c17b2837560cd743c" date="2019-01-19 07:38:38"/>
+		<rom name="spectrum.txt" size="5499" crc="c2e85ea6" md5="412d343e61a747700a0db73016d4f3d7" sha1="0595741ec3d68373d83b1af8edf382be8b1314ba" date="2019-09-11 17:14:00"/>
+		<rom name="spectrum.wad" size="3772205" crc="768efff3" md5="d4be0de380f6caec1e2d96f9acfd036a" sha1="9b5f704c24d3f6b7fa912ac21103a5473ec62bdb" date="2019-09-01 06:59:06"/>
+	</game>
 	<game name="Doom - Stickney Installation (2022) (Snaxalotl).dosz">
 		<description>Doom - Stickney Installation</description>
 		<year>2022</year>
@@ -1224,6 +1236,27 @@
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="z-Map Commentary.txt" size="40483" crc="396dc28f" md5="74dfbf4e46a9b9b1e83e2e80efd1d701" sha1="e88f6ab04730efecf19546d91e55ac8287396285" date="2022-08-30 18:48:30"/>
 	</game>
+	<game name="Doom II - 100 Lines - Non-Traditional Maps (2013) (Various).dosz">
+		<description>Doom II - 100 Lines - Non-Traditional Maps</description>
+		<year>2013</year>
+		<developer>Various</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/0-9/100lines</link>
+		<rom name="100lineN.wad" size="1393173" crc="4fa23d9a" md5="2fc6bb90d6ef4eae6cb3215e2065209a" sha1="06f2f999e2ed1972e7df3477b091d4bf281f2393" date="2013-08-16 16:47:38"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Doom II - 100 Lines - Traditional Maps (2013) (Various).dosz">
+		<description>Doom II - 100 Lines - Traditional Maps</description>
+		<year>2013</year>
+		<developer>Various</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/0-9/100lines</link>
+		<rom name="100lines.txt" size="7316" crc="77825972" md5="36d8dac179ae68d259b8c9b18c44be5c" sha1="c452fbf7fe60b3cc6452ee0226816514e6f5f02d" date="2013-08-16 16:47:02"/>
+		<rom name="100lineT.wad" size="1145225" crc="d0e95ff5" md5="f3970c9b667ff283a8afb95fca701c5c" sha1="2246abcfcb44a1c4d517d341162c9da4fc116143" date="2013-08-16 16:48:54"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
 	<game name="Doom II - 1000 Lines - Community Project (2019) (Various).dosz">
 		<description>Doom II - 1000 Lines - Community Project</description>
 		<year>2019</year>
@@ -1427,6 +1460,18 @@
 		<rom name="Infopack/200info.exe" size="6772359" crc="3a6f1568" md5="7b61bf00bb795bb5d8544a1be72e2e88" sha1="aba9cb6f035fa8c64abc78564e7457b0d1b09145" date="2023-03-05 18:59:08"/>
 		<rom name="Infopack/200info.txt" size="600" crc="c940c9df" md5="bff9d3f8a5e385b09aa07189413c8f4a" sha1="700444bbf7ecceaa052a52ee6aae1fb85b6809f3"/>
 		<rom name="Infopack/200lnm Commentary.txt" size="40763" crc="f485deb4" md5="d00ba726a964e54a5a10189c0158e5b9" sha1="a25b04ab8950eda02a6ae3b8ce0ebde7fb746940"/>
+	</game>
+	<game name="Doom II - 2048 Unleashed (2015) (Various).dosz">
+		<description>Doom II - 2048 Unleashed</description>
+		<year>2015</year>
+		<developer>Various</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/pc_cp2</link>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="PC_CP2.txt" size="3642" crc="62482e7c" md5="1d1ba13a8e9d3b420e7fb34dc7a43af6" sha1="6f5c3674b8cc96f3b4488dc8732be80c17a215e4" date="2015-11-19 14:31:12"/>
+		<rom name="PC_CP2.WAD" size="21430729" crc="84a75656" md5="f9fc002a2ab7f337bbc9ce9c0f641e1a" sha1="1721cd9b3b5f716d9f4b557220e1839994398389" date="2015-11-18 01:34:32"/>
+		<rom name="PC_CP2_Readme.txt" size="4346" crc="e3e9cc3e" md5="56dadb3e1f459a87c548e61c0090bb13" sha1="6809d3a7a7070bbe336b8dffe1f53c76efd0567a" date="2015-11-19 14:34:42"/>
 	</game>
 	<game name="Doom II - 32in24-14 - How the Hamburglar Stole Christmas (2014) (YEDS).dosz">
 		<description>Doom II - 32in24-14 - How the Hamburglar Stole Christmas</description>
@@ -2857,6 +2902,19 @@
 		<rom name="D2TWID.wad" size="6753456" crc="05b76aaf" md5="0c69aae8fba0372cbab9df41e6b7ac29" sha1="b1114af574b5fcb965bbd63a76a6bdc0af45c09e" date="2013-12-27 04:02:58"/>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
+	<game name="Doom II - Doom II Unleashed (2011) (Various).dosz">
+		<description>Doom II - Doom II Unleashed</description>
+		<year>2011</year>
+		<developer>Various</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/pc_cp</link>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="PC_CP.TXT" size="4135" crc="f1215d8f" md5="49fde19ceb53914860a12efa1c49256f" sha1="88b3e59d1d59bbce754fafde5b24275534b51ac5" date="2011-02-20 23:12:00"/>
+		<rom name="PC_CP.wad" size="30079583" crc="fe6d3aa1" md5="4335594680ea4ebd751d886756496906" sha1="058aee7bb513c17e46406c59141e331fa8bfce47" date="2011-02-20 23:09:04"/>
+		<rom name="pccp_credits.txt" size="19236" crc="8fb1a071" md5="c04eb2462705ef404ccc5955783058e8" sha1="1a370fef7985ce8ede734f988c061a21220bc6e6" date="2011-02-17 11:21:30"/>
+		<rom name="pccpmus.wad" size="1355748" crc="a1d9e2ba" md5="26ef8815af4b8cdc37aae217eea55785" sha1="1275de5006a3422d7916b4ea7b5a811369858f51" date="2011-01-14 18:40:40"/>
+	</game>
 	<game name="Doom II - Doom Zero (2019) (Christopher Golden).dosz">
 		<description>Doom II - Doom Zero</description>
 		<year>2019</year>
@@ -3393,6 +3451,19 @@
 		<rom name="freuds2.wad" size="33880069" crc="ab4c4547" md5="9d6d6d566101b6448b7c5e482e22b059" sha1="74a5918b7ac5ae6a09fd7b26d5ca9f32903a5b60"/>
 		<rom name="freudslp2.txt" size="7974" crc="0859f7f4" md5="4ada2687ac921d991a81b00d86c7f4c2" sha1="1401fe6d2479d3745576200d5c86a53f3d90b56d"/>
 	</game>
+	<game name="Doom II - Garrulismo (2003) (Eye del Cul).dosz">
+		<description>Doom II - Garrulismo</description>
+		<year>2003</year>
+		<developer>Eye del Cul</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/garrulo</link>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="garrulo.bat" size="23" crc="040548e0" md5="b0873136b8cfcff8006b75943cb96037" sha1="90c03e4e50cc7e0243298c4c82662be4ef333cdf" date="2003-10-12 00:49:32"/>
+		<rom name="GARRULO.DEH" size="9794" crc="107b4660" md5="e0324d6f0a176d643a278299ffcd8606" sha1="d9289b431810115d66b850759139c49aa2c56ac7" date="2003-10-06 22:20:30"/>
+		<rom name="garrulo.txt" size="21224" crc="8908c1fb" md5="b1177c59648d108bfea86c55a1097128" sha1="1e34c6bbbafcaa130429156683b1a348952d60ed" date="1998-01-01 15:44:38"/>
+		<rom name="garrulo.wad" size="6105916" crc="3e112436" md5="33047f3f81d8f170802947e80028887a" sha1="08a03f764eface15b1751c552ef5ea3ebac650da" date="2003-10-07 22:13:00"/>
+	</game>
 	<game name="Doom II - Glaive (2018) (EANB).dosz">
 		<description>Doom II - Glaive</description>
 		<year>2018</year>
@@ -3739,6 +3810,27 @@
 		<rom name="D2HS.bex" size="522" crc="388278d5" md5="091caa394f7d59a2ee2fdd02efb56197" sha1="ac210458203a59c17314d3195cae4f1f1597d587" date="2016-10-19 14:23:34"/>
 		<rom name="d2hslutz.wad" size="47443992" crc="77a511eb" md5="e4362db84eb464cefefe1e1140cba2be" sha1="2529440ddffd9ee920b02f0b6c6c71bf5575e151" date="2017-07-31 20:08:52"/>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Doom II - Herian (1998) (Ian Wilson).dosz">
+		<description>Doom II - Herian</description>
+		<year>1998</year>
+		<developer>Ian Wilson</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/herian</link>
+		<rom name="DEUSF.EXE" size="96472" crc="dde8a48d" md5="f681f3ccdaf48cc4e66a7a2a0a9567bf" sha1="c36edca0b6c7aa1b464f0c06181014ffd33476a8" date="1995-12-18 00:19:30"/>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Hboom.bat" size="29" crc="9771217f" md5="b06b280731da6d14f9ce1fa4c821a2b3" sha1="a68b1dde8f138058a7b0cfcda3f4fe3cd0300683" date="1998-04-20 16:44:24"/>
+		<rom name="Hdoom95.bat" size="31" crc="509b3e77" md5="c40365f246129966bfd1d3305bb84796" sha1="17a4cbc402dd0672aaa24daf34a66c635fbee150" date="1998-04-20 15:55:14"/>
+		<rom name="Hdosdoom.bat" size="44" crc="a948af94" md5="ffeb618a842344442ffb89aa4d62edf0" sha1="e0071b792a259d292869c0f8a465aa44699343a8" date="1998-04-20 18:40:54"/>
+		<rom name="Herian.txt" size="3051" crc="ca5e949f" md5="7315d1759d96fe20fc9e00fe08528fff" sha1="8e9dcced9c4f93d3debdfd1f8a24c0e48c3eaaa6" date="1998-06-04 20:16:20"/>
+		<rom name="Herian.wad" size="9307836" crc="863e789f" md5="76d5368b70fd87962d755d21cb96bbab" sha1="709a79bb378733c2176e8921d9107dc8ff1bac14" date="1998-06-04 19:52:40"/>
+		<rom name="Instal95.bat" size="1001" crc="0f136c3e" md5="15b7c839a7703af871c2106c009bd79d" sha1="40d9f6b87d1d3225f7b65a8359ed81a924103f4f" date="1998-04-20 18:40:22"/>
+		<rom name="Instalbm.bat" size="880" crc="500651f8" md5="de3602f496b0e17333b84aee2b5e8681" sha1="b9515ceba51dc9e4fd534a17b6cf9ec2fc5a3fa8" date="1998-04-20 18:40:06"/>
+		<rom name="Instaldd.bat" size="883" crc="09877ba9" md5="3e59aad85f14d762b5f18910044bea2d" sha1="7d2b5998901df26ac662dfe6ed3ae364b0a49d39" date="1998-04-20 18:38:50"/>
+		<rom name="Installp.bat" size="1014" crc="eae1e062" md5="598f2313ac2b8ef29f22c055968d6777" sha1="ae0418cb4762318dd40338b6ee081f084f5e8060" date="1998-04-20 18:39:52"/>
+		<rom name="Installt.bat" size="999" crc="31ff7fc3" md5="80f98f7749e3365fb5b9474929a9db38" sha1="58aa199113a41099120fb2eb93f4a32cb04600d2" date="1998-04-20 18:39:42"/>
+		<rom name="Readthis.txt" size="3516" crc="acb0d0f2" md5="a96335de1376e40fc53e9b99206425e2" sha1="5796b04ef3727abf27365a3da5e0bde2de0bd272" date="1998-04-20 19:39:42"/>
 	</game>
 	<game name="Doom II - Hydrosphere (2022) (Brian Irving).dosz">
 		<description>Doom II - Hydrosphere</description>
@@ -4358,6 +4450,29 @@
 		<rom name="List of Fixes.txt" size="7125" crc="efacff6e" md5="5cf099523042fc16c88e32cb73de8a3b" sha1="56b6d7d2aee418410896ed5027d131348f025f91" date="2010-06-17 00:00:16"/>
 		<rom name="ndcp2.txt" size="16758" crc="9e689319" md5="1c14d5d45b3741bcb378311372aaf14b" sha1="76341edd507bd5b6ee86c762df02b8a9c701a5ac" date="2009-04-29 02:46:28"/>
 		<rom name="NDCP2.wad" size="70488374" crc="538c3b91" md5="f68b3572495a2a9bcf2b02371b27fc2d" sha1="da2f1332e5fd083afd377ceee1e8cf49bd6d0407" date="2010-06-17 00:00:14"/>
+	</game>
+	<game name="Doom II - Newgothic Movement 1 (2010) (Christopher Shepherd).dosz">
+		<description>Doom II - Newgothic Movement 1</description>
+		<year>2010</year>
+		<developer>Christopher Shepherd</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/m-o/ngmvmt1</link>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="NG-List-of-Midis.txt" size="1721" crc="faeb9e2f" md5="33914db77a1ac30a9cd95924f75190fb" sha1="597b90b5967ac5f1ad5d963eb8d166ecb119303e" date="2010-10-23 02:58:14"/>
+		<rom name="NGmvmt1.txt" size="3678" crc="c62a3806" md5="7ea6c4967899103f7105980da2e8e3a0" sha1="30070981689b5c02717327eb7e9c7a5913ff827d" date="2010-12-17 12:22:30"/>
+		<rom name="NGmvmt1.wad" size="28633220" crc="f4a7f345" md5="75383d875d361fcf2f0a4e429c7e3384" sha1="c1e93056c0389426d67eabefb5d174f0a05038e7" date="2010-12-15 13:11:50"/>
+	</game>
+	<game name="Doom II - Newgothic Movement 2 (2017) (Christopher Shepherd, Arthur O.).dosz">
+		<description>Doom II - Newgothic Movement 2</description>
+		<year>2017</year>
+		<developer>Christopher Shepherd, Arthur O.</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/ngmvmt2</link>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="NGmvmt2.txt" size="2412" crc="a920162e" md5="749cf92ed9084440ad5a1a5bb39d871a" sha1="ecb6d4c9e9948884cae31370db74eb4ee086385d" date="2017-03-06 18:58:00"/>
+		<rom name="NGmvmt2.wad" size="42300707" crc="47f7b839" md5="70abc10eeb303716f947fbab55dcf51a" sha1="1ea3a0762752b356bd38344bede1ca9b76a4ed14" date="2017-03-11 10:10:34"/>
 	</game>
 	<game name="Doom II - Nilla Doom (2004) (Mike Alfredson).dosz">
 		<description>Doom II - Nilla Doom</description>
@@ -6362,6 +6477,17 @@
 		<rom name="zone400.pdf" size="71100" crc="25382afd" md5="fa87f5cad6fb35d3e475c83b086a8d08" sha1="ca54f35aeda79cfac2218ed54c655897722d88d9" date="2021-09-26 00:40:52"/>
 		<rom name="zone400.txt" size="6134" crc="3f154894" md5="5b30892ef314351b8a1149299d2ab36d" sha1="032d45f6f08b0b18388e8a4d494b1d02a9c039a9" date="2021-09-25 13:05:00"/>
 		<rom name="zone400.wad" size="5853750" crc="f545566f" md5="7913cd9027fda6351693b310d03dade5" sha1="181d1d99220a4623a38562f7d09105187643b4bc" date="2021-09-26 00:24:06"/>
+	</game>
+	<game name="Doom II - Zones of Fear (2012) (Various).dosz">
+		<description>Doom II - Zones of Fear</description>
+		<year>2012</year>
+		<developer>Various</developer>
+		<parent>Doom II Mod Base.dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/zof</link>
+		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="ZOF.txt" size="23208" crc="dd5e77d9" md5="5f06630f2b6ef84d4a99a6e34f2155be" sha1="5fae215650ae20583feba690fb9281e6fa7c7ead" date="2021-05-27 08:16:58"/>
+		<rom name="ZOF.wad" size="30796690" crc="f2b684d3" md5="7f5394b6593b53eeca97bb88e897404c" sha1="3e26e7a25ac5a788465682d056deb1391f69b5a3" date="2021-05-27 08:13:18"/>
 	</game>
 	<game name="Doom II Mod Base (Vanilla).dosz">
 		<description>Doom II Mod Base</description>
