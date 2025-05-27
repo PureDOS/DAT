@@ -1216,14 +1216,12 @@
 		<rom name="SHIMS/gfx2.wad" size="1008" crc="0480bc4f" md5="7d3c2ec7ace79920e0972a46dade0b4d" sha1="c96f46a9d34bff583aeed88a7fc24d05bcf417b1" date="2023-04-16 12:27:04"/>
 		<rom name="SHIMS/halten.wad" size="814" crc="cb3db65e" md5="73b72bce525e9382e3cc01c30cb77ada" sha1="a441aef6af45091a65ab92c4d47bfa9183b9a6d3" date="2023-06-07 17:14:38"/>
 		<rom name="SHIMS/HELL2PAY.WAD" size="2493" crc="da6791f0" md5="e898e4743e004437f1915c4e2bca4d02" sha1="4df664184d9c76b65febeec06734a7d1aa29d861" date="2023-10-31 16:57:06"/>
-		<rom name="SHIMS/HRs.wad" size="61" crc="64badc7c" md5="274301dc260895382c551ea01b8cd382" sha1="31f9e732f275f95adfa13b83f88d3f8a4e83c79c" date="2023-11-27 10:30:30"/>
 		<rom name="SHIMS/hunt.wad" size="967" crc="0e7e3393" md5="6d900d547ff02a63fc90eca3faa88da7" sha1="cab283a768301342c8cc1892c14f827e7a9ab49b" date="2023-06-07 17:16:00"/>
 		<rom name="SHIMS/Hydrosphere.wad" size="1205" crc="b37107e8" md5="769b7bfef576139df39774e807a3f937" sha1="2cbe5f1996a83ba3b7d282776ee12325f1e39fb4" date="2022-12-27 05:15:22"/>
 		<rom name="SHIMS/KDiKDi_A.wad" size="285032" crc="aa97492b" md5="8e5d7ad1eceb43bf355560eb39b34a43" sha1="db20d0e0b260df97cbb68be4c6e7c0ea7a7cdd48" date="2022-12-26 15:36:36"/>
 		<rom name="SHIMS/LONGTREK.WAD" size="1873" crc="b03d2233" md5="dfbf652596ea21fcff8a80a5766cf983" sha1="fc49d11ba7d5effd4ecaea1b7a1adbc14ff42d7f" date="2022-05-27 19:54:34"/>
 		<rom name="SHIMS/NEIS.WAD" size="462" crc="1efba73f" md5="0f086962b0c23c1b19addcbe1bc0edc9" sha1="a2ecab8997c391e9225c8480c042c831dd6fb324" date="2023-09-22 08:22:20"/>
 		<rom name="SHIMS/NERVE.WAD" size="292751" crc="145aa2e7" md5="c6ca724e5a108c4f3974ac74ae3f9208" sha1="05f4d0263b064f120f1976be3451a839c425f778" date="2022-06-14 15:23:10"/>
-		<rom name="SHIMS/PD.wad" size="61" crc="64badc7c" md5="274301dc260895382c551ea01b8cd382" sha1="31f9e732f275f95adfa13b83f88d3f8a4e83c79c" date="2023-11-27 10:30:30"/>
 		<rom name="SHIMS/PERDGATE.WAD" size="2493" crc="da6791f0" md5="e898e4743e004437f1915c4e2bca4d02" sha1="4df664184d9c76b65febeec06734a7d1aa29d861" date="2023-10-31 16:57:06"/>
 		<rom name="SHIMS/REKKR.wad" size="61" crc="64badc7c" md5="274301dc260895382c551ea01b8cd382" sha1="31f9e732f275f95adfa13b83f88d3f8a4e83c79c" date="2023-11-27 10:30:30"/>
 		<rom name="SHIMS/rhein1.wad" size="213" crc="080359e3" md5="6af4b2b97e8a3714dbfcf491a822dc1e" sha1="7d3570a175809673a58a94facd80d43d71f2dbbd" date="2023-04-16 12:33:34"/>
@@ -1679,7 +1677,7 @@
 		<year>2001</year>
 		<developer>Various</developer>
 		<parent>Doom II Mod Base.dosz</parent>
-		<comment_dosc>Auto start</comment_dosc>
+		<comment_dosc>Auto start. Shim to fix menu alignment</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/av</link>
 		<rom name="AV.DEH" size="7403" crc="288ba8ba" md5="9e3073749f59fc3afeea48faa967a332" sha1="edc231da967edd64780299b930345fcfa79f649a" date="2002-12-24 23:59:04"/>
 		<rom name="AV.EXE" size="709905" crc="5e21bf6e" md5="1e5812d6d8f3908dec240c824ad4145e" sha1="e0223bcb3881f8fe77b15e0721cc4c1bc9c22d91" date="2002-12-24 23:59:12"/>
@@ -3915,7 +3913,7 @@
 		<year>2023</year>
 		<developer>The SLOTTER Team</developer>
 		<parent>Doom II Mod Base.dosz</parent>
-		<comment_dosc>Auto start</comment_dosc>
+		<comment_dosc>Auto start. Shim to fix menu alignment</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/hrs</link>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="HRs.deh" size="21852" crc="2b4741aa" md5="2a165048274a4b7cb80e29a298ed229e" sha1="62ffdfa4e1765200d90d0e3f793e429953fbd5bb" date="2023-11-08 03:31:08"/>
@@ -3943,7 +3941,7 @@
 		<year>2003</year>
 		<developer>Various</developer>
 		<parent>Doom II Mod Base.dosz</parent>
-		<comment_dosc>Auto start</comment_dosc>
+		<comment_dosc>Auto start. Shim to fix menu alignment</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/themes/hr/hr2final</link>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="hr2final.txt" size="2461" crc="67f0998a" md5="f4e6319cd4c6d3114d2917224a9d045b" sha1="53a744f5e3f3e0e9b5ee1bf22dfc60f74aee0e42" date="2003-12-31 22:46:56"/>
@@ -4050,7 +4048,7 @@
 		<year>1996</year>
 		<developer>TeamTNT</developer>
 		<parent>Doom II Mod Base.dosz</parent>
-		<comment_dosc>Auto start</comment_dosc>
+		<comment_dosc>Auto start. Shim to fix menu alignment</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/themes/TeamTNT/icarus/icarus</link>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="ICARUS.BAT" size="63" crc="2bb7ae4c" md5="bbb92e8cc994bad4f44bb7fc39b7223b" sha1="3547c6b33bbacb2fa5b723fd54fae67a204b9406" date="1996-03-21 20:39:30"/>
@@ -5000,7 +4998,7 @@
 		<year>1996</year>
 		<developer>Glen Payne, Marshal Bostwick</developer>
 		<parent>Doom II Mod Base.dosz</parent>
-		<comment_dosc>Auto start</comment_dosc>
+		<comment_dosc>Auto start. Shim to fix menu alignment</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/m-o/osiris</link>
 		<rom name="DEHACKED.EXE" size="93260" crc="522cf923" md5="e531ee4c5e2f42aa3b7b23f992cf525f" sha1="d542cd222cd125ca09a7c53745ab21159e429d79" date="1996-07-13 06:10:02"/>
 		<rom name="DEUSF.EXE" size="90196" crc="5ea1e5c2" md5="89be00455dec01df32e1df8a6bf191f9" sha1="397fc6a2c7e1de6f5d7e066d72bc7acb1d9f9726" date="1996-07-13 06:10:02"/>
@@ -5083,7 +5081,7 @@
 		<developer>Various</developer>
 		<parent>Doom II Mod Base.dosz</parent>
 		<comment>UMAPINFO isn't supported by Tartar</comment>
-		<comment_dosc>Auto start</comment_dosc>
+		<comment_dosc>Auto start. Shim to fix menu alignment</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/pd</link>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="PD.txt" size="2966" crc="3cc71439" md5="a9e370d413a580736012e3a069e97d06" sha1="a11a89bc7bf38c750297463aab34a4c6ef72c2ea"/>
@@ -5213,7 +5211,7 @@
 		<developer>Doomkid et al</developer>
 		<parent>Doom II Mod Base.dosz</parent>
 		<comment>v1.4</comment>
-		<comment_dosc>Auto start</comment_dosc>
+		<comment_dosc>Auto start. Shim to fix menu alignment</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/mohawks2</link>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="MO2BONUS.WAD" size="1773608" crc="9660e482" md5="00f6b78c815bcadbce772e07213d397c" sha1="59c610e56dbb436b1a93e5d5f17d72a136d7e066" date="2021-12-08 19:00:10"/>
@@ -5226,7 +5224,7 @@
 		<year>2019</year>
 		<developer>Doomkid</developer>
 		<parent>Doom II Mod Base.dosz</parent>
-		<comment_dosc>Auto start</comment_dosc>
+		<comment_dosc>Auto start. Shim to fix menu alignment</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/m-o/mohawks</link>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="mohawks.deh" size="5380" crc="99081df9" md5="cee427e38bb40932c036b4ee2b283ed9" sha1="147e235ae7e6605c0acdc60351c9bee580b883d9" date="2019-12-14 16:57:20"/>
@@ -5425,7 +5423,7 @@
 		<year>2019</year>
 		<developer>Doomkid</developer>
 		<parent>Doom II Mod Base.dosz</parent>
-		<comment_dosc>Auto start</comment_dosc>
+		<comment_dosc>Auto start. Shim to fix menu alignment</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/p-r/rwdyrudy</link>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="rwdyrudy.deh" size="12302" crc="f7aa7663" md5="0a96bbf634be43054485229030855ab5" sha1="d41ece55e03e3af5c3bc58a75670faac631761a3" date="2019-01-19 13:26:02"/>
@@ -6986,7 +6984,7 @@
 		<developer>Plutonia 2 Team</developer>
 		<parent>Final Doom - Plutonia Experiment Mod Base.dosz</parent>
 		<comment>v1.0</comment>
-		<comment_dosc>Auto start</comment_dosc>
+		<comment_dosc>Auto start. Shim to fix menu alignment</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/pl2</link>
 		<rom name="Final Doom - Plutonia Experiment Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="PL2.DEH" size="7359" crc="f51290d9" md5="e1992d75c1ddcd492dd0d50835ffbcb4" sha1="aa4b313dcb1bee7f2d96d2d4fab715ae443c05ed" date="2008-12-31 16:12:26"/>
@@ -7000,7 +6998,7 @@
 		<year>2017</year>
 		<developer>Sergey Burow</developer>
 		<parent>Final Doom - Plutonia Experiment Mod Base.dosz</parent>
-		<comment_dosc>Auto start</comment_dosc>
+		<comment_dosc>Auto start. Shim to fix menu alignment</comment_dosc>
 		<link type="freeware">https://dsdarchive.com/wads/plut3</link>
 		<rom name="Final Doom - Plutonia Experiment Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="PLUT3.DEH" size="12252" crc="11e6a748" md5="e948cee36d2f3bec03578d344caa9c96" sha1="8672e560f28b1456a07cd4706a319f0176ef32a2" date="2017-07-01 19:10:42"/>
@@ -7024,7 +7022,7 @@
 		<year>2021</year>
 		<developer>DoomTheRobot, General Roasterock</developer>
 		<parent>Final Doom - Plutonia Experiment Mod Base.dosz</parent>
-		<comment_dosc>Auto start</comment_dosc>
+		<comment_dosc>Auto start. Shim to fix menu alignment</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/plut7</link>
 		<rom name="Final Doom - Plutonia Experiment Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="PLUT7.deh" size="3415" crc="8c8fb947" md5="cf4d630892f875854cd004849200b48e" sha1="6522e510f80245f6967817d8f9a16c1a7c260cf2" date="2021-03-29 17:39:22"/>
@@ -7123,7 +7121,7 @@
 		<developer>Veemon</developer>
 		<parent>Final Doom - TNT - Evilution Mod Base.dosz</parent>
 		<comment>v1.2.666</comment>
-		<comment_dosc>Auto start</comment_dosc>
+		<comment_dosc>Auto start. Shim to fix menu alignment</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/tnto</link>
 		<rom name="Final Doom - TNT - Evilution Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="Readme! o leeme.txt" size="26935" crc="9e469cdf" md5="4d6da3093d6fbb0e70f19f52f664f1ac" sha1="dfdc2ccb05afb37ebaa94da77cda6f9e044b7dd4"/>
@@ -7171,7 +7169,7 @@
 		<developer>Various</developer>
 		<parent>Final Doom - TNT - Evilution Mod Base.dosz</parent>
 		<comment>Public Beta 6</comment>
-		<comment_dosc>Auto start</comment_dosc>
+		<comment_dosc>Auto start. Shim to fix menu alignment</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/vb/thread/104882</link>
 		<rom name="Final Doom - TNT - Evilution Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="tnt2_b6.deh" size="6221" crc="108bb855" md5="718b50dd6390fde9c2626fb681ae79c6" sha1="7a042bcc9d83a2cefe8827256d34e3038f4dfa47" date="2022-12-09 16:18:08"/>
