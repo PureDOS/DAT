@@ -206,6 +206,22 @@
 		<comment_dosc>Auto start</comment_dosc>
 		<rom name="antartic.exe" size="30094" crc="d6dab790" md5="ff59dc632afd0d581fb782b0d1a1c576" sha1="01d7ce07c7b799275f521f0acdbcf826432c34cc" date="1995-07-12 16:19:04"/>
 	</game>
+	<game name="Astrotit (1987) (Rudeware).dosz">
+		<description>Astrotit</description>
+		<comment>A public domain game, matches with TDC entry: Astrotit (1987)(Rudeware) [Action, Adult]</comment>
+		<comment_dosc>CPU year set to 1983</comment_dosc>
+		<year>1987</year>
+		<developer>Rudeware</developer>
+		<rom name="ASTROTIT.EXE" size="60416" crc="b16b6764" md5="ef07ee9cdc781c560256a5dad5c0e4be" sha1="477ec98d208da4417e9112911eaadc05c8e111b4" date="1987-06-26 20:46:34"/>
+                <rom name="COVER.SCR" size="16000" crc="9bba903a" md5="49825e759154f47f9d308fa819b40eab" sha1="c9a00ce58f5012f37aa5d0df2433c8eeeeada366"/>
+                <rom name="INST0.SCR" size="16000" crc="5beb37c6" md5="4397e959221fe4537a68eec3a30280a5" sha1="7790188ac50a088252c01237837d66f4a5c46a62"/>
+                <rom name="INST1.SCR" size="16000" crc="f084f5cb" md5="05a64550813b2113936cb1ed1551e421" sha1="091e7a2181ebf76c032ed740da9a9aa94a043e34"/>
+                <rom name="SCR0.SCR" size="16000" crc="b96d20da" md5="5f711b81fb1d7a4ae44d8f8e6aa9cd7d" sha1="380a8b6516237f549557ebd8182d390983530673"/>
+                <rom name="SCR1.SCR" size="16000" crc="95ad47b4" md5="4f936804b33f8be424be2f0117f832ea" sha1="30ec93ecce5e873a339331f46be9b8ef06a7df2f"/>
+                <rom name="SCR2.SCR" size="16000" crc="b9ecaf74" md5="120a52aa86b39f076246a0b5e7f5d4dd" sha1="734eb2a5c6de245765d192bc6004a1055fe7e644"/>
+                <rom name="SCR3.SCR" size="16000" crc="a5ee467f" md5="7257284c981af37da20d1f9688e8e0e5" sha1="48c2e2b299a5d48dda385524ff5e25e96e0d5b7f"/>
+                <rom name="SCR4.SCR" size="16000" crc="95ad47b4" md5="4f936804b33f8be424be2f0117f832ea" sha1="30ec93ecce5e873a339331f46be9b8ef06a7df2f"/>
+        </game>
 	<game name="Dungeon Crawl (1997) (Linley Henzell).dosz">
 		<description>Dungeon Crawl</description>
 		<year>1997</year>
@@ -623,6 +639,17 @@
 		<rom name="OS2LARN.EXE" size="166843" crc="c7780b5a" md5="f8d1dcc2648f7d9369e9f9bec9edf8b2" sha1="9b5533f46c0501181d4e1876cc06e181d6699f56" date="1991-09-10 22:53:12"/>
 		<rom name="TERMCAP" size="441" crc="2ca1aed8" md5="e7e893d9206900c18b7385fa17b11a04" sha1="7552ebcc22d47b96a8034831e01f1d1698c0c2d2" date="1991-09-10 22:53:20"/>
 	</game>
+	<game name="Sorry Ass (2016) (VileR).dosz">
+		<description>Sorry Ass</description>
+		<comment>Matches with TDC entry: Sorry Ass [FW] (2016)(VileR) [Action]</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>2016</year>
+		<developer>VileR</developer>
+		<link type="media">https://www.pouet.net/prod.php?which=67997</link>
+		<rom name="SORRYASS.ASM" size="10000" crc="af7dde6a" md5="6976b5d7c098dbf60947fb73da26baa5" sha1="d295740de9e1887c80a9a795a0ecc57870d4fe37" date="2016-08-16 22:22:22"/>
+                <rom name="SORRYASS.BIN" size="512" crc="2b49b6bf" md5="6c784c9bfad41e30b0894fa3efdcb732" sha1="712d5d89a2ce99adfdecbe617079df4e06dae894" date="2016-08-16 22:22:22"/>
+                <rom name="SORRYASS.COM" size="442" crc="2e41b938" md5="0c1d7b9c3c568bbdea8370dec5281b32" sha1="2c3ae36ba62f2c1d1233c01f21dee8d362600105" date="2016-08-16 22:22:22"/>
+        </game>
 	<game name="Space Quest - The Lost Chapter (2001) (Vonster D Monster).dosz">
 		<description>Space Quest - The Lost Chapter</description>
 		<year>2001</year>

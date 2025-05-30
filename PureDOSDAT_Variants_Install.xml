@@ -696,6 +696,47 @@
 		<rom name="video/vover2.mux" size="460129" crc="6bf57923" md5="2980d9d6b7d2d811af56edfc28ab41f1" sha1="06faa04efd51799c4dcbe10aa19afca0cd00ff6e" date="2017-12-13 15:42:10"/>
 		<rom name="video/vtitre.mux" size="6902134" crc="f8c58f3b" md5="72bb23943219cea33ff5feab3a66da6e" sha1="f9e5ed805ddf62cc01bd92ae8d7afb214a8fa53f" date="2017-12-13 15:42:10"/>
 	</game>
+	<game name="Quake (1996) (id Software) (Installation).dosz">
+		<description>Quake</description>
+		<year>1996</year>
+		<developer>id Software</developer>
+		<variant>Installation</variant>
+		<comment>Quake: The Offering. Matches with Redump: Quake (USA) (Rerelease) (1998-09-21)</comment>
+		<link type="media">http://redump.org/disc/29723/</link>
+		<rom name="Quake (USA) (Rerelease) (1998-09-21).chd" size="744877440" crc="7ed7068d" md5="6ee6a3c821c660806cd0899558fc919f" sha1="2e7ee3f308d6c45dcd15d82ca81a952aeadc2393">
+			<track number="1" type="MODE1_RAW" frames="40457" pregap="0" duration="08:59:32" size="95154864" crc="eed8cdf5" md5="22dc28b0c3b91ca861e36e7f5caf4b75" sha1="97c53d8b3b45940008476f496c89894d071c047e"/>
+			<track number="2" type="AUDIO" frames="23220" pregap="75" duration="05:09:45" size="54613440" crc="b8bca15a" md5="bfe5874130fcb3a4d11d51238deefe36" sha1="8a856458828da44360696aac9a61485a61863269" in_zeros="181933" out_zeros="352525" trimmed_crc="5af13b47"/>
+			<track number="3" type="AUDIO" frames="10801" pregap="0" duration="02:24:01" size="25403952" crc="622f9b43" md5="d4a7e714c62e318b4b1d652276c180ad" sha1="9c38d7cdcde4fc75c38c5b5a3f14ff3065825b56" in_zeros="5532" out_zeros="2089" trimmed_crc="d4e3301e"/>
+			<track number="4" type="AUDIO" frames="37518" pregap="149" duration="08:20:18" size="88242336" crc="adc45184" md5="450050096176aa66f273469f07118934" sha1="7128966c48faa0abb5706dd6cbaa189104a7e382" in_zeros="356004" out_zeros="2048" trimmed_crc="fa14a0ef"/>
+			<track number="5" type="AUDIO" frames="27403" pregap="149" duration="06:05:28" size="64451856" crc="d5d4d62d" md5="97c3c4b6eb9190710263f615c759eeb6" sha1="965c9debd6d1601bcd4d0f9c042a846a3dee41e4" in_zeros="355980" out_zeros="2096" trimmed_crc="cfdd2a73"/>
+			<track number="6" type="AUDIO" frames="33343" pregap="149" duration="07:24:43" size="78422736" crc="607f18aa" md5="bebb40e26d23fa76617586ec567041a9" sha1="43c36e6093b14770eb3809a1a8ddf1cffed54c39" in_zeros="355980" out_zeros="2073" trimmed_crc="c63c9efe"/>
+			<track number="7" type="AUDIO" frames="38866" pregap="149" duration="08:38:16" size="91412832" crc="6134454b" md5="3d832ee7f399cf9bbe515d7a86062d3d" sha1="ea6449f0806179d592f8f6029e19442ee1b67c73" in_zeros="355980" out_zeros="2073" trimmed_crc="da07ef20"/>
+			<track number="8" type="AUDIO" frames="25193" pregap="149" duration="05:35:68" size="59253936" crc="684af090" md5="1b662973ec2c73eb55d57035e8702143" sha1="ef935e8b731d8d2319f51418921225cabf66bc94" in_zeros="355980" out_zeros="2079" trimmed_crc="085fb670"/>
+			<track number="9" type="AUDIO" frames="29168" pregap="149" duration="06:28:68" size="68603136" crc="0bef23a3" md5="5709deeab2cf503322cce7a7fa62efc5" sha1="f2c07b79c8b283103245be1d4c450383983fdd6e" in_zeros="355982" out_zeros="2568" trimmed_crc="36e39754"/>
+			<track number="10" type="AUDIO" frames="15941" pregap="149" duration="03:32:41" size="37493232" crc="fef9951a" md5="724ace8140191ff54173f1fefad6a10b" sha1="75762afc139a4a84e5336f7266a207792159dd94" in_zeros="355980" out_zeros="2632" trimmed_crc="058eefdf"/>
+			<track number="11" type="AUDIO" frames="23653" pregap="149" duration="05:15:28" size="55631856" crc="6f299181" md5="09701dd44e7bbc7a973cec257e68711a" sha1="774aedd61f6b60b182a2e544af7768291c82d6fb" in_zeros="355980" out_zeros="63" trimmed_crc="e110b93b"/>
+		</rom>
+	</game>
+	<game name="Quake - Malice (1997) (Quantum Axcess) (Installation).dosz">
+		<description>Quake - Malice</description>
+		<year>1997</year>
+		<developer>Quantum Axcess</developer>
+		<variant>Installation</variant>
+		<comment>Matches with Redump: Malice (USA)</comment>
+		<link type="media">http://redump.org/disc/20194/</link>
+		<rom name="Malice (USA).chd" size="596841984" crc="41a4d7f7" md5="2907557a4d5b565e9f4e1b32dd7b8d46" sha1="b52ca5e0265f2bf84057632f793bd9d12279d3e4">
+			<track number="1" type="MODE2_RAW" frames="39182" pregap="0" duration="08:42:32" size="92156064" crc="16a0bedd" md5="e73ddab27fc08d83ab4f88e9e7ff0506" sha1="6eb343270f75f0650d939ea095cda8da2a5fb774"/>
+			<track number="2" type="AUDIO" frames="24646" pregap="224" duration="05:28:46" size="57967392" crc="1773f345" md5="59e16bd63da11a05017a732813803e17" sha1="9f3969d769702553fdbfa90d6236436ab927387f" in_zeros="526856" out_zeros="10537" trimmed_crc="ed07056a"/>
+			<track number="3" type="AUDIO" frames="10333" pregap="148" duration="02:17:58" size="24303216" crc="62c972cd" md5="d8217d584c2e1d93e5853f9143a4bbf3" sha1="c667d6fecabe630cd20b6de049e0813cd70f67b4" in_zeros="348124" out_zeros="7029" trimmed_crc="511d6658"/>
+			<track number="4" type="AUDIO" frames="25439" pregap="149" duration="05:39:14" size="59832528" crc="3a5e9b0d" md5="76a567a3c092de4ee377fdd4e8f45071" sha1="75cf4d8a6c090aa7851669eaeb2efa5341f6f2f3" in_zeros="350460" out_zeros="10725" trimmed_crc="94c81e5e"/>
+			<track number="5" type="AUDIO" frames="29732" pregap="148" duration="06:36:32" size="69929664" crc="8d579ae8" md5="e7ab05cc72eb6c8c4f27560634f6d115" sha1="b60af19f3f10e3c2c5e88646f73bcd417d927356" in_zeros="348172" out_zeros="9413" trimmed_crc="cd68e7ff"/>
+			<track number="6" type="AUDIO" frames="29176" pregap="148" duration="06:29:01" size="68621952" crc="ce35a72e" md5="b8b47ef30c502f861d9ad293157de218" sha1="3c8ff5cb781b41fa6749b63dd17c5572640eb593" in_zeros="348188" out_zeros="10357" trimmed_crc="23ee816e"/>
+			<track number="7" type="AUDIO" frames="30722" pregap="148" duration="06:49:47" size="72258144" crc="6479655a" md5="12228f3910c134ee23a4a0736e3182fd" sha1="2febe71704f99b106429ecec6783e874d5f54234" in_zeros="348228" out_zeros="10797" trimmed_crc="07856ccf"/>
+			<track number="8" type="AUDIO" frames="20791" pregap="148" duration="04:37:16" size="48900432" crc="6bbe0a73" md5="feb3af0171d4e2250d2ad355b63ff4cc" sha1="333b498e03f122b2ddca1d14651e406f2b7bbc93" in_zeros="348260" out_zeros="11005" trimmed_crc="91bd09b6"/>
+			<track number="9" type="AUDIO" frames="26305" pregap="148" duration="05:50:55" size="61869360" crc="1cb03548" md5="5d3b178354bbac3e3668920dc533891f" sha1="95176c6068c8b2b3fb29497abe85f9aba1428daf" in_zeros="348292" out_zeros="9213" trimmed_crc="f5264f89"/>
+			<track number="10" type="AUDIO" frames="8823" pregap="148" duration="01:57:48" size="20751696" crc="ca0dfff0" md5="c949c6db0ff439744c9858c2a0e70009" sha1="f91a31b26bb208a5cf78244c66a418dc375e700e" in_zeros="348308" out_zeros="4704" trimmed_crc="d733f1a1"/>
+		</rom>
+	</game>
 	<game name="Realms of Chaos (1995) (Apogee Software) (Installation).dosz">
 		<description>Realms of Chaos</description>
 		<year>1995</year>
@@ -1062,6 +1103,8 @@
 		<year>1994</year>
 		<developer>Blizzard Entertainment</developer>
 		<variant>Installation</variant>
+		<comment>v1.22h</comment>
+		<link type="media">http://redump.org/disc/35137/</link>
 		<rom name="Warcraft - Orcs &amp; Humans (USA) (Rerelease) (1996-10-13).chd" size="582173568" crc="b8b3c879" md5="c26ff4b7eea501508043b9b5d731f4e9" sha1="4dc9030e0546bb73ac1617c307a4aa61f7e45805">
 			<track number="1" type="MODE1_RAW" frames="133450" pregap="0" duration="29:39:25" size="313874400" crc="aaad48f1" md5="6dc5d021bf0271517184ced84863355b" sha1="12821639d94417a48f39ab2a9b8486368a19c6bc" in_zeros="1" out_zeros="0"/>
 			<track number="2" type="AUDIO" frames="3719" pregap="150" duration="00:49:44" size="8747088" crc="b5bac361" md5="89a5ce631415f746af14d45f87e6f1b8" sha1="65478801fcd0f568279573a2f4537f4d6c65ffb3" in_zeros="371986" out_zeros="1057211"/>

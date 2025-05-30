@@ -29,10 +29,18 @@ The following settings are supported, the default value is the first one listed 
 | `sound_irq`     | The IRQ number of the sound card                 | __7__ / 5 / 3 / 9 / 10 / 11 / 12                            |
 | `sound_dma`     | The DMA number of the sound card                 | __1__ / 5 / 3 / 6 / 7                                       |
 | `sound_hdma`    | The High DMA number of the sound card            | __5__ / 6 / 7                                               |
-| `sound_midi`    | If a MPU401 MIDI Processing Unit is present      | __true__ / false / path to a ZIP with a soundfont           |
-| `sound_mt32`    | If a MT-32 MIDI synthesizer module is present    | __false__ / true / path to a ZIP with a MT-32 ROM (if set overrides `sound_midi`) |
+| `sound_midi`    | If a MPU401 MIDI Processing Unit is present      | __true__ / false / name of DOSX with a soundfont            |
+| `sound_mt32`    | If a MT-32 MIDI synthesizer module is present    | __false__ / true / name of DOSX with a MT-32 ROM (if set overrides `sound_midi`) |
 | `sound_gus`     | If a Gravis UltraSound expansion card is present | __false__ / true                                            |
 | `sound_tandy`   | If a Tandy Sound Device is present               | __false__ / true (always on with video_card: tandy)         |
+| `input_directmouse`    | Emulator support for direct mouse cursor mode                 | __false__ / true                          |
+| `input_mousespeed`     | Speed factor for all virtual mouse movement in percent        | __100__                                   |
+| `input_mousexfactor`   | Speed factor for horizontal virtual mouse movement in percent | __100__                                   |
+| `input_mousewheelup`   | Action to assign to rotating the mouse wheel up               | [Assignable Actions](#assignable-actions) |
+| `input_mousewheeldown` | Action to assign to rotating the mouse wheel down             | [Assignable Actions](#assignable-actions) |
+| `input_padmousespeed`  | Speed factor for mouse movement done by game pad in percent   | __100__                                   |
+| `input_pad_*`          | Defines a mapping for binding controls to a modern gamepad    | [See below for details](#gamepad-mapping) |
+| `input_wheel_*`        | Defines options for an action-wheel for additional inputs     | [See below for details](#action-wheel)    |
 | `run_path`      | Default program to launch                        | Full path, i.e. C:\PROGRAM.EXE                              |
 | `run_boot`      | Default disk image to boot (floppy or hard disk) | Path relative to DOSZ, i.e. DISKS\DISK1.IMG                 |
 | `run_mount`     | Default disk image to mount (floppy or CD-ROM)   | Path relative to DOSZ, i.e. CD\GAME.CHD                     |
@@ -61,6 +69,55 @@ DELAY by itself will not do anything but it sets how many milliseconds are waite
 sequence. The default delay time is 70 milliseconds. Example `(WAITMODECHANGE)(WAIT:500)(DELAY:15)i5j`
 
 List of keyboard key names: `1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`,`0`,`q`,`w`,`e`,`r`,`t`,`y`,`u`,`i`,`o`,`p`,`a`,`s`,`d`,`f`,`g`,`h`,`j`,`k`,`l`,`z`,`x`,`c`,`v`,`b`,`n`,`m`,`F1`,`F2`,`F3`,`F4`,`F5`,`F6`,`F7`,`F8`,`F9`,`F10`,`F11`,`F12`,`ESC`,`TAB`,`BACKSPACE`,`ENTER`,`SPACE`,`LEFTALT`,`RIGHTALT`,`LEFTCTRL`,`RIGHTCTRL`,`LEFTSHIFT`,`RIGHTSHIFT`,`CAPSLOCK`,`SCROLLLOCK`,`NUMLOCK`,`GRAVE`,`MINUS`,`EQUALS`,`BACKSLASH`,`LEFTBRACKET`,`RIGHTBRACKET`,`SEMICOLON`,`QUOTE`,`PERIOD`,`COMMA`,`SLASH`,`EXTRA_LT_GT`,`PRINTSCREEN`,`PAUSE`,`INSERT`,`HOME`,`PAGEUP`,`DELETE`,`END`,`PAGEDOWN`,`LEFT`,`UP`,`DOWN`,`RIGHT`,`KP1`,`KP2`,`KP3`,`KP4`,`KP5`,`KP6`,`KP7`,`KP8`,`KP9`,`KP0`,`KPDIVIDE`,`KPMULTIPLY`,`KPMINUS`,`KPPLUS`,`KPENTER`,`KPPERIOD`
+
+## Gamepad Mapping
+DOS.YML can define a mapping between DOS inputs (keyboard, joystick, mouse) and a modern gamepad.
+
+The modern gamepad is defined to have a d-pad (up/down/left/right), 4 face buttons (B in the bottom, A on the right, X at the top and Y on the left),
+4 shoulder buttons (L1, R1, L2, R2), 2 analog sticks that also act as buttons (L3, R3), a Select and a Start button.
+The emulator will then map any actual gamepad to physically match that layout. Therefore X doesn't always mean the X button on the actual gamepad,
+it will always mean the face button physically at the top (so controls will be the same regardless of button naming).
+
+Up to 4 DOS inputs can be mapped to one gamepad input. For example, one gamepad button can be made to press 2 keyboard keys at the same time.
+Optionally a name can be defined for each mapping, which will be shown in an emulators menu as a reference for players.
+
+Example mapping:
+```yml
+input_pad_up: up Move Up
+input_pad_x: space Jump
+input_pad_start: leftctrl+f10 Open Menu
+input_pad_l: wheel
+```
+This will map the d-pad up direction to pressing the up arrow keyboard key, the X button to the spacebar key, the Start button to pressing both
+Left Ctrl and F10 simultaneously and the left shoulder button to showing the [action wheel](#action-wheel).
+
+Full list of mappable gamepad inputs: `input_pad_up`, `input_pad_down`, `input_pad_left`, `input_pad_right`, `input_pad_b`, `input_pad_a`, `input_pad_x`, `input_pad_y`, `input_pad_l`, `input_pad_r`, `input_pad_l2`, `input_pad_r2`, `input_pad_l3`, `input_pad_r3`, `input_pad_select`, `input_pad_start`, `input_pad_lstick_left`, `input_pad_lstick_right`, `input_pad_lstick_up`, `input_pad_lstick_down`, `input_pad_rstick_left`, `input_pad_rstick_right`, `input_pad_rstick_up`, `input_pad_rstick_down`
+
+## Action Wheel
+An emulator can support what is called an action wheel which can offer additional inputs beyond the 24 gamepad inputs.
+The action wheel will represent all defined options in a radial menu.
+This is similar to modern games which sometimes feature a weapon wheel to simplify weapon selection with a gamepad.
+
+Example mapping:
+```yml
+input_wheel_1: 1 Fists
+input_wheel_2: 2 Pistol
+input_wheel_3: 3 Machine Gun
+```
+This will create a wheel with 3 options named Fists, Pistol and Machine Gun which when activated will press the 1, 2 or 3 number key on the emulated DOS keyboard.
+
+Then defining an action wheel, the [gamepad mapping](#gamepad-mapping) must define an input bound to the `wheel` action.
+Generally it is recommended to assign the left shoulder button to show the action wheel.
+
+## Assignable Actions
+These actions can be assigned to the [gamepad mapping](#gamepad-mapping) and [action wheel](#action-wheel).
+
+| Device   | Actions |
+|----------|---------|
+| Keyboard | `1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`,`0`,`q`,`w`,`e`,`r`,`t`,`y`,`u`,`i`,`o`,`p`,`a`,`s`,`d`,`f`,`g`,`h`,`j`,`k`,`l`,`z`,`x`,`c`,`v`,`b`,`n`,`m`,`F1`,`F2`,`F3`,`F4`,`F5`,`F6`,`F7`,`F8`,`F9`,`F10`,`F11`,`F12`,`ESC`,`TAB`,`BACKSPACE`,`ENTER`,`SPACE`,`LEFTALT`,`RIGHTALT`,`LEFTCTRL`,`RIGHTCTRL`,`LEFTSHIFT`,`RIGHTSHIFT`,`CAPSLOCK`,`SCROLLLOCK`,`NUMLOCK`,`GRAVE`,`MINUS`,`EQUALS`,`BACKSLASH`,`LEFTBRACKET`,`RIGHTBRACKET`,`SEMICOLON`,`QUOTE`,`PERIOD`,`COMMA`,`SLASH`,`EXTRA_LT_GT`,`PRINTSCREEN`,`PAUSE`,`INSERT`,`HOME`,`PAGEUP`,`DELETE`,`END`,`PAGEDOWN`,`LEFT`,`UP`,`DOWN`,`RIGHT`,`KP1`,`KP2`,`KP3`,`KP4`,`KP5`,`KP6`,`KP7`,`KP8`,`KP9`,`KP0`,`KPDIVIDE`,`KPMULTIPLY`,`KPMINUS`,`KPPLUS`,`KPENTER`,`KPPERIOD` |
+| Mouse    | `mouse_move_up`,`mouse_move_down`,`mouse_move_left`,`mouse_move_right`,`mouse_left_click`,`mouse_right_click`,`mouse_middle_click`,`mouse_speed_up`,`mouse_speed_down` |
+| Joystick | `joy_up`,`joy_down`,`joy_left`,`joy_right`,`joy_button1`,`joy_button2`,`joy_button3`,`joy_button4`,`joy_hat_up`,`joy_hat_down`,`joy_hat_left`,`joy_hat_right`,`joy_2_up`,`joy_2_down`,`joy_2_left`,`joy_2_right` |
+| Special  | `wheel` (show [Action Wheel](#action-wheel)),`none` (clear assignment) |
 
 ## CPU Speeds
 | CPU Year | Comparable CPU Model  | Comparable DOSBox Cycles |
