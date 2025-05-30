@@ -14860,10 +14860,47 @@
 	</game>
 	<game name="Quake (1996) (id Software).dosz">
 		<description>Quake</description>
-		<comment>Installed v1.08 from Quake: The Offering CD, Windows-only files and VQuake removed</comment>
-		<comment_dosc>Default config</comment_dosc>
 		<year>1996</year>
 		<developer>id Software</developer>
+		<comment>
+			Installed v1.08 from Quake: The Offering CD matching with Redump: Quake (USA) (Rerelease) (1998-09-21)
+			Windows-only files and VQuake removed
+			CD image converted with CHDtoOGG using -n option
+		</comment>
+		<comment_dosc>640x480 resolution, mouse look enabled, and auto start</comment_dosc>
+		<link type="media">http://redump.org/disc/29723/</link>
+		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 1).bin" size="43008" crc="10d89042" md5="73db37b47ede9da7e9fbaae52c6c8a8b" sha1="8a2846aac1e2ceb8a08a9cd5591e9a85228d5cab"/>
+		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 2).ogg" size="7882049" crc="90fd2c67" md5="8434fb843b4f483e3e5e8c2f12cb646a" sha1="418d4206672139ffdc017a76f98e559421ff39e4">
+			<source type="AUDIO" frames="23145" omitted_pregap="75" duration="05:08:45" size="54437040" crc="f0ddb393" md5="d7ebb4809c11ffd6ee6ba2b5152d2836" sha1="fa71ae4549d9d2bcfcaa3409eb40d0f0acb85049" in_zeros="5533" out_zeros="352525" quality="8"/>
+		</rom>
+		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 3).ogg" size="3250277" crc="d4d0c05c" md5="cafb407a2bb79ee4593721e61eb2ba89" sha1="caf37fba8593b42f33053e7abd8be6ff5d5bf705">
+			<source type="AUDIO" frames="10801" duration="02:24:01" size="25403952" crc="622f9b43" md5="d4a7e714c62e318b4b1d652276c180ad" sha1="9c38d7cdcde4fc75c38c5b5a3f14ff3065825b56" in_zeros="5532" out_zeros="2089" quality="8"/>
+		</rom>
+		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 4).ogg" size="16653400" crc="7ee022c4" md5="d3dbca00f1f5a8e2d758cf0efdec8c02" sha1="0f9fce4e21a3f79841d44e20af109704e4684aaa">
+			<source type="AUDIO" frames="37369" omitted_pregap="149" duration="08:18:19" size="87891888" crc="e6371adb" md5="78913834582b44a12eb5beacbf7afc42" sha1="4f34c6b22cb30328e8c3c197140bd8975a82b533" in_zeros="5556" out_zeros="2048" quality="8"/>
+		</rom>
+		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 5).ogg" size="8135266" crc="55961eea" md5="b061a81810ed9aa20f0202b7978580f5" sha1="8b9822b90e13eb028d0f69294aa6ac2036f4babd">
+			<source type="AUDIO" frames="27254" omitted_pregap="149" duration="06:03:29" size="64101408" crc="ea0baadb" md5="974685a374d51596949a63ba87282450" sha1="91656b7c0e117ec37a9ae96667a3f65d5bbede6c" in_zeros="5532" out_zeros="2096" quality="8"/>
+		</rom>
+		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 6).ogg" size="11904206" crc="4e938f4d" md5="7913a127d3b194dfeaf7702c9bcb0c20" sha1="c08f6d2f2c88346889a19aea20fac0955b297035">
+			<source type="AUDIO" frames="33194" omitted_pregap="149" duration="07:22:44" size="78072288" crc="84f20473" md5="3105cbde6e0eaa040a950faafc91cef6" sha1="24c93b59b52c4eece28cd2c7d0c5e9a16746ac8e" in_zeros="5532" out_zeros="2073" quality="8"/>
+		</rom>
+		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 7).ogg" size="11762356" crc="fe6fdb25" md5="a961d6243134793411e746456463aa24" sha1="eb9df21a47387b8607f37b212b14027664a25862">
+			<source type="AUDIO" frames="38717" omitted_pregap="149" duration="08:36:17" size="91062384" crc="2cbfc1f6" md5="088b518cb9ad059ff7dd7a26c6a7e40b" sha1="5f1f5166bde990c2b85d361ae83a6976a3fd5620" in_zeros="5532" out_zeros="2073" quality="8"/>
+		</rom>
+		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 8).ogg" size="8472179" crc="82de3b37" md5="e4be8731435b80e9d702964adbcd3f48" sha1="9c7cfd51e36f59f3457f8877eee1ed8ef50df00c">
+			<source type="AUDIO" frames="25044" omitted_pregap="149" duration="05:33:69" size="58903488" crc="09147515" md5="0b55a52a9d64e560658de02088e55c1d" sha1="bd56524c4225bb6f52c054aac5036c695aa9a5ef" in_zeros="5532" out_zeros="2079" quality="8"/>
+		</rom>
+		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 9).ogg" size="8433685" crc="a3093295" md5="6ef68ebad08f3052e98667567323ae5c" sha1="f0921af7612019441f40120a099f798e5493e0ab">
+			<source type="AUDIO" frames="29019" omitted_pregap="149" duration="06:26:69" size="68252688" crc="f3a08665" md5="3c9c0f563c884bd13d874098ce4493dc" sha1="ca6af4796bf2f941db998c2c719109ba6d13ed81" in_zeros="5534" out_zeros="2568" quality="8"/>
+		</rom>
+		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 10).ogg" size="5309838" crc="799aee70" md5="d9fb36992f79643fd9dad992187f7ad1" sha1="d016abfaf9f399437f24cba283f99d31e2aa5647">
+			<source type="AUDIO" frames="15792" omitted_pregap="149" duration="03:30:42" size="37142784" crc="ab3b0b3d" md5="737aa2d29c723031660594920058350b" sha1="8adac6ae596dd3cfe4d1969fa50f8993194a204a" in_zeros="5532" out_zeros="2632" quality="8"/>
+		</rom>
+		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 11).ogg" size="7701553" crc="f55e2fbb" md5="20fdbac3acd63eaf810bb49e98206f5a" sha1="c5346338a7803a023e8487ff0a30caa46eaeb081">
+			<source type="AUDIO" frames="23504" omitted_pregap="149" duration="05:13:29" size="55281408" crc="64af806f" md5="b9fda1614fbf6eda08e9653ce81d088c" sha1="32b027006d87e8fb504929a885fd12ed88de0872" in_zeros="5532" out_zeros="63" quality="8"/>
+		</rom>
+		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21).cue" size="1343" crc="10526352" md5="24e5a9b8ea47bbd7cc7e324f9fffcd6b" sha1="d5ba75606ec255a3c2bdf505b2ea26023d0f061f"/>
 		<rom name="CWSDPMI.EXE" size="25920" crc="4fc60ecd" md5="cdba7e5b5050d3f3be9ddaf79a943ed4" sha1="d7a811b9d2f887dc94e145ce80dd9ced5fdf1548" date="1996-09-26 12:07:22"/>
 		<rom name="DOCS/DOS/COMEXP.TXT" size="25462" crc="68bda64a" md5="0575bbd0df753f6e44b7a0f67ffc1413" sha1="606c21d258d58823a605fc20f5c45600d9b0ffb0" date="1996-07-12 17:31:50"/>
 		<rom name="DOCS/DOS/HELP.TXT" size="9510" crc="ec075939" md5="be86e294465931e700eeac0539ccdb51" sha1="3945b34a83af2acce1a233bc03f7f277302975c0" date="1998-09-16 13:04:36"/>
@@ -14877,34 +14914,58 @@
 		<rom name="DOCS/QUAKE.HLP" size="2142857" crc="a26eb96d" md5="a78512171c7392bf35cd1177ef7ecd62" sha1="0ee8004c53bf2e2ba1de8d0f26fb08081159b61e" date="1998-09-18 11:44:38"/>
 		<rom name="ID1/PAK0.PAK" size="18689235" crc="74e3b084" md5="5906e5998fc3d896ddaf5e6a62e03abb" sha1="36b42dc7b6313fd9cabc0be8b9e9864840929735" date="1996-10-01 14:25:58"/>
 		<rom name="ID1/PAK1.PAK" size="34257856" crc="2e803216" md5="d76b3e5678f0b64ac74ce5e340e6a685" sha1="6fd0d1643047612f41afb2001b972d830c792921" date="1996-07-12 17:31:52"/>
-		<rom name="Quake (USA) (Rerelease) (1998-09-21).chd" size="744877440" crc="7ed7068d" md5="6ee6a3c821c660806cd0899558fc919f" sha1="2e7ee3f308d6c45dcd15d82ca81a952aeadc2393">
-			<track number="1" type="MODE1_RAW" frames="40457" pregap="0" duration="08:59:32" size="95154864" crc="eed8cdf5" md5="22dc28b0c3b91ca861e36e7f5caf4b75" sha1="97c53d8b3b45940008476f496c89894d071c047e" in_zeros="1" out_zeros="0"/>
-			<track number="2" type="AUDIO" frames="23220" pregap="75" duration="05:09:45" size="54613440" crc="b8bca15a" md5="bfe5874130fcb3a4d11d51238deefe36" sha1="8a856458828da44360696aac9a61485a61863269" in_zeros="181933" out_zeros="352525"/>
-			<track number="3" type="AUDIO" frames="10801" pregap="0" duration="02:24:01" size="25403952" crc="622f9b43" md5="d4a7e714c62e318b4b1d652276c180ad" sha1="9c38d7cdcde4fc75c38c5b5a3f14ff3065825b56" in_zeros="5532" out_zeros="2089"/>
-			<track number="4" type="AUDIO" frames="37518" pregap="149" duration="08:20:18" size="88242336" crc="adc45184" md5="450050096176aa66f273469f07118934" sha1="7128966c48faa0abb5706dd6cbaa189104a7e382" in_zeros="356004" out_zeros="2048"/>
-			<track number="5" type="AUDIO" frames="27403" pregap="149" duration="06:05:28" size="64451856" crc="d5d4d62d" md5="97c3c4b6eb9190710263f615c759eeb6" sha1="965c9debd6d1601bcd4d0f9c042a846a3dee41e4" in_zeros="355980" out_zeros="2096"/>
-			<track number="6" type="AUDIO" frames="33343" pregap="149" duration="07:24:43" size="78422736" crc="607f18aa" md5="bebb40e26d23fa76617586ec567041a9" sha1="43c36e6093b14770eb3809a1a8ddf1cffed54c39" in_zeros="355980" out_zeros="2073"/>
-			<track number="7" type="AUDIO" frames="38866" pregap="149" duration="08:38:16" size="91412832" crc="6134454b" md5="3d832ee7f399cf9bbe515d7a86062d3d" sha1="ea6449f0806179d592f8f6029e19442ee1b67c73" in_zeros="355980" out_zeros="2073"/>
-			<track number="8" type="AUDIO" frames="25193" pregap="149" duration="05:35:68" size="59253936" crc="684af090" md5="1b662973ec2c73eb55d57035e8702143" sha1="ef935e8b731d8d2319f51418921225cabf66bc94" in_zeros="355980" out_zeros="2079"/>
-			<track number="9" type="AUDIO" frames="29168" pregap="149" duration="06:28:68" size="68603136" crc="0bef23a3" md5="5709deeab2cf503322cce7a7fa62efc5" sha1="f2c07b79c8b283103245be1d4c450383983fdd6e" in_zeros="355982" out_zeros="2568"/>
-			<track number="10" type="AUDIO" frames="15941" pregap="149" duration="03:32:41" size="37493232" crc="fef9951a" md5="724ace8140191ff54173f1fefad6a10b" sha1="75762afc139a4a84e5336f7266a207792159dd94" in_zeros="355980" out_zeros="2632"/>
-			<track number="11" type="AUDIO" frames="23653" pregap="149" duration="05:15:28" size="55631856" crc="6f299181" md5="09701dd44e7bbc7a973cec257e68711a" sha1="774aedd61f6b60b182a2e544af7768291c82d6fb" in_zeros="355980" out_zeros="63"/>
-		</rom>
 		<rom name="QUAKE.EXE" size="409600" crc="3bc26700" md5="e3e7fcc920610a5fa66c1dd030939fac" sha1="97427017467717a78b1b9e4a01b70ef0f7161856" date="1997-03-11 18:29:24"/>
 	</game>
 	<game name="Quake II (1997) (id Software).dosz">
 		<description>Quake II</description>
-		<comment>Quake II v3.20 with Q2DOS 2021-07-21. Needs DOS.YML with mem_size: 65536</comment>
-		<comment_dosc>640x400 resolution and auto start</comment_dosc>
 		<year>1997</year>
 		<developer>id Software</developer>
+		<comment>
+			Quake II v3.20 with Q2DOS 2024-08-17
+			Needs DOS.YML with mem_size: 65536
+			CHDtoOGG used to convert CD image matching with Redump: Quake II (USA) (Rerelease) (1998-08-25)
+			Track 2 to 11 = track02 to track11.ogg
+		</comment>
+		<comment_dosc>640x480 resolution, always run enabled, free look enabled, and auto start</comment_dosc>
+		<link type="media">http://redump.org/disc/43204/</link>
+		<link type="freeware">http://dk.toastednet.org/Q2DOS/</link>
 		<rom name="3zb2/3ZB.cfg" size="12052" crc="e3e7c460" md5="a430e26540d18ea80a39dca7a052b41e" sha1="3983340c4894b6cf3c9ea2e51bb337841e931037" date="2016-06-24 05:51:40"/>
-		<rom name="3zb2/gamex86.dxe" size="392987" crc="6529d728" md5="ab346509b1b5ac310e5e149236921361" sha1="b2234dd1d759655369777309be20a1de89b4111b" date="2021-07-21 13:10:00"/>
-		<rom name="ace/gamex86.dxe" size="439812" crc="0820844b" md5="87aa60d8298aa4f93f9347b7af1a158b" sha1="0c109e22e33735467b802f68ee3527533d7410a0" date="2021-07-21 13:10:00"/>
-		<rom name="action/gamex86.dxe" size="408044" crc="c44fc0a9" md5="094e7ac5d4f2cf31ff1e93fea94569f7" sha1="038ecaddb63966b687dd8d8b242c0e347bc3c55c" date="2021-07-21 13:10:02"/>
+		<rom name="3zb2/gamex86.dxe" size="392987" crc="3b0168e6" md5="1b7c26ceedb82f96741f65f9d636b1a3" sha1="c5c8ef18020e2417e78a8fd7862a641a824bd2ec" date="2024-08-17 10:01:20"/>
+		<rom name="ace/gamex86.dxe" size="439812" crc="de4f9fa0" md5="7f3be8fbd7590998e18e889988ad9e9a" sha1="b8af93192de3b4f0b48cf0b115f4f2fd0308ce1f" date="2024-08-17 10:01:22"/>
+		<rom name="action/gamex86.dxe" size="408044" crc="3c250e94" md5="9448f18fe9883755f7c48def28d73dc4" sha1="684e77ea7abb54b9ee11a38899c7371fc620448e" date="2024-08-17 10:01:24"/>
 		<rom name="baseq2/gamex86.dll" size="397824" crc="edbd5fae" md5="a0a29c9dcd4c5b4c458ce25498533407" sha1="1c98dc8c57aa20398d8574693ce97bc347abf9d8" date="1998-10-16 15:39:28"/>
-		<rom name="baseq2/gamex86.dxe" size="421233" crc="7b0b90e5" md5="b3e87d04ea4c3c9dcf5a19a139f7afcc" sha1="70fec9e9d0aa97c22b6adb1b7adf3828be9081b4" date="2021-07-21 13:09:54"/>
+		<rom name="baseq2/gamex86.dxe" size="421281" crc="767e93e6" md5="26166364e0842e2b424f560b4d893559" sha1="5eac486f6425bd908e8c14241f9329f9f0557475" date="2024-08-17 10:01:16"/>
 		<rom name="baseq2/maps.lst" size="1063" crc="a77ba6cb" md5="b2c3358d7be61f05651c88d9ef97d6aa" sha1="2a1b3b479e56fab0581d64c2bca6360bf2f372b7" date="1998-01-11 02:09:26"/>
+		<rom name="baseq2/music/track02.ogg" size="6212635" crc="88ecf167" md5="6483684e2958ef52984036828947210d" sha1="866fb33f672bdff13487e6557e70fea428c6a65a">
+			<source type="AUDIO" frames="15658" omitted_pregap="75" duration="03:28:58" size="36827616" crc="a07a3196" md5="971ff0547ffbd9f87eb43f4318f0d3fd" sha1="5f98e7eda6d23341b463d1d80e26932bb1005f6e" in_zeros="8305" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="baseq2/music/track03.ogg" size="4025433" crc="3324c007" md5="4482ce80fae61b71a1f3e473224b678b" sha1="05779bbf4c2aa727f81649330347a7e9fcc80cdd">
+			<source type="AUDIO" frames="10321" duration="02:17:46" size="24274992" crc="b3fc76e3" md5="3d08b9e56cbb0d611c42bf91152438d9" sha1="ee14d6bc5fe8e0def32c1d3906521b3e6294dbfc" in_zeros="0" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="baseq2/music/track04.ogg" size="4344238" crc="c551c0d9" md5="28c3882690d6af5ca6c947a16ef52877" sha1="be88c7921d75cd1013e174168df0fc44afb12765">
+			<source type="AUDIO" frames="11403" duration="02:32:03" size="26819856" crc="e4a2505e" md5="49c89e6ac99bdaee09424128f9b44fe7" sha1="32ab4ad7a311d0bd2f65800604192e03a9aee2d5" in_zeros="0" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="baseq2/music/track05.ogg" size="5096629" crc="8be81d77" md5="993f037b22f64fac38c34d619b4f4b1d" sha1="22491da0c2f103c28151d373e109b0b870ba3d7b">
+			<source type="AUDIO" frames="12855" duration="02:51:30" size="30234960" crc="ad30c223" md5="5faa778537d857ffa343e87ac4127352" sha1="84534c387c8da75ec68582ed96af7cfa81af66d4" in_zeros="0" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="baseq2/music/track06.ogg" size="4367554" crc="7ddb7884" md5="b1bba5af17fe966a9e13c4ab7c6d4732" sha1="9b78ec6d4e16f6e890c342fe395f7473c9d17abd">
+			<source type="AUDIO" frames="11611" duration="02:34:61" size="27309072" crc="e5978c25" md5="9e1b08dc0c6dbe3cddd4e23627864eef" sha1="6b8ad7ce7653929d333a8bd048f63778772a2bc6" in_zeros="0" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="baseq2/music/track07.ogg" size="6080729" crc="676aa6f4" md5="8904d395b1b5f2e074651bc419e74f56" sha1="be6f68b3fa3e543dcd2a087924bff804de0f4204">
+			<source type="AUDIO" frames="16131" duration="03:35:06" size="37940112" crc="59535e4b" md5="7b2a6051f12c16ef99fd7f1ff74c321b" sha1="dc09c735e73106b7f93f8b6442e2e4c59ee0018e" in_zeros="2" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="baseq2/music/track08.ogg" size="5020047" crc="6c610141" md5="b8a21a193d40a5b47df7d09ce3c88ecd" sha1="42bc830b1eb1bbbdb997cf6f39ee814759120726">
+			<source type="AUDIO" frames="13810" duration="03:04:10" size="32481120" crc="7336b4b6" md5="c8da07d5def9f3f7f081299813bb0ba1" sha1="cb08838c742d1b89828d001231955765ebfe2fe4" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="baseq2/music/track09.ogg" size="4608252" crc="88c17338" md5="9b6d999d13138dbe2dcad4661e4216b8" sha1="fa17ed19fd5920050e05511a81fd70f0985a4586">
+			<source type="AUDIO" frames="11687" duration="02:35:62" size="27487824" crc="89cdec42" md5="f7ccd6e0fb28c37a4bf27e69f6a1dcd6" sha1="406acb44cbf98e0770cf4d8d3e903db5fc093e5f" in_zeros="0" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="baseq2/music/track10.ogg" size="3783595" crc="368ece9b" md5="07d32b3a923b92a1702c7ee1e182f203" sha1="efd62b448eeedf7b1157dfbf7eb329ba242e7981">
+			<source type="AUDIO" frames="8998" duration="01:59:73" size="21163296" crc="36ee81fa" md5="f5902df891e7c753298efca00fe30d40" sha1="13da4c66cc580d82429b9bc39a62a1fcedcd1425" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="baseq2/music/track11.ogg" size="3329820" crc="840da301" md5="426b1efd3dd6a5fae76919fc09df30c8" sha1="58085fe97c065e30b14856d989bbb0581d925e20">
+			<source type="AUDIO" frames="9080" duration="02:01:05" size="21356160" crc="229e3c2e" md5="be8c7f377d15dcd376fc62467216fd73" sha1="e17c16d1f472fa036fcb89491d66ebcba52518bd" in_zeros="0" out_zeros="0" quality="8"/>
+		</rom>
 		<rom name="baseq2/pak0.pak" size="183997730" crc="6888136e" md5="1ec55a724dc3109fd50dde71ab581d70" sha1="1dd586a3230d1ac5bfd34e57cc796000d4c252c2" date="1997-11-30 05:59:58"/>
 		<rom name="baseq2/pak1.pak" size="12992754" crc="b232f881" md5="42663ea709b7cd3eb9b634b36cfecb1a" sha1="588ef09965dee539521b4eb6da4337ce78a2ea21" date="1998-02-12 22:01:46"/>
 		<rom name="baseq2/pak2.pak" size="45055" crc="f3f70bd7" md5="c8217cc5557b672a87fc210c2347d98d" sha1="67e76a7f3234646507ae59ec1bf755637c1dad03" date="1998-04-01 13:20:42"/>
@@ -15042,49 +15103,49 @@
 		<rom name="baseq2/players/female/w_shotgun.md2" size="38912" crc="d8ae1111" md5="3b9968c41e9fef1c8ce34305cc38d6f1" sha1="6d690918f2fdd52af5eae345e283fde469d37ad3" date="1997-11-27 02:17:32"/>
 		<rom name="baseq2/players/female/w_sshotgun.md2" size="85556" crc="80040fd2" md5="fbc4b51287c4b006b5a4d52a422db229" sha1="ac04974b999762a159588c8e4a48372e71c9abac" date="1998-04-01 11:06:20"/>
 		<rom name="baseq2/players/female/weapon.md2" size="38912" crc="d8ae1111" md5="3b9968c41e9fef1c8ce34305cc38d6f1" sha1="6d690918f2fdd52af5eae345e283fde469d37ad3" date="1997-11-27 02:17:32"/>
-		<rom name="baseq2/players/female/weapon.pcx" size="9089" crc="942b09fb" md5="0758d59ebfcb5931bda2b0985faf98a9" sha1="7fd2251f2a90c38f3c21e4551b75d7643c3764ac" date="1998-01-23 15:38:32"/>
+		<rom name="baseq2/players/female/weapon.pcx" size="9089" crc="942b09fb" md5="0758d59ebfcb5931bda2b0985faf98a9" sha1="7fd2251f2a90c38f3c21e4551b75d7643c3764ac" date="1997-11-27 00:40:20"/>
 		<rom name="baseq2/players/male/a_grenades.md2" size="31329" crc="0948107b" md5="8b26b6a4863b7e2c30b4dcd7867a6d10" sha1="fd120f6d3ef83c2d65b367aa720a77c389cda5dd" date="1998-03-31 13:28:42"/>
 		<rom name="baseq2/players/male/bump1.wav" size="13916" crc="7f8fc0af" md5="998f5a453be87f1301823ad4f2e3c818" sha1="a84d0a4b52eabc08f27e68df9cdb6e9e125e0bb6" date="1997-11-04 20:09:20"/>
 		<rom name="baseq2/players/male/cipher.pcx" size="56554" crc="082611e3" md5="8b27adf487714b21c900af1474cecf9e" sha1="8e9b500876a872a87379e6479773f91bc93fe5c5" date="1997-11-27 02:16:46"/>
 		<rom name="baseq2/players/male/cipher_i.pcx" size="1940" crc="c4ccb6fe" md5="d0c3e03850569d223a9705cd5aba608e" sha1="e231dbbfa42ce8204220635881679284a746dbfb" date="1997-11-27 02:16:44"/>
 		<rom name="baseq2/players/male/claymore.pcx" size="56727" crc="05762bce" md5="f192147481f31b16524d0bd4f9a7db5d" sha1="9fa34cbac655197b0004c21c4b4d124ad49054bf" date="1997-11-27 02:16:46"/>
 		<rom name="baseq2/players/male/claymore_i.pcx" size="1939" crc="1b64c029" md5="e80f697c4ee4680b5c667b83b4a1b48c" sha1="a8c267bc4741c1e5947d8279ddfb6d707d4c9730" date="1997-11-27 02:16:44"/>
-		<rom name="baseq2/players/male/cyborg/disguise.pcx" size="52438" crc="aaf826fd" md5="1861c07e779ee4f4879fdfbdbd2c1c52" sha1="9aa1a3c6f513265406f7dbcd3f55ee4a92814107" date="1998-08-13 20:24:04"/>
+		<rom name="baseq2/players/male/cyborg/disguise.pcx" size="52438" crc="aaf826fd" md5="1861c07e779ee4f4879fdfbdbd2c1c52" sha1="9aa1a3c6f513265406f7dbcd3f55ee4a92814107" date="1998-08-13 16:05:18"/>
 		<rom name="baseq2/players/male/cyborg/disguise_i.pcx" size="1989" crc="cf791958" md5="346d62644537e11ce028b95db6022049" sha1="125994a41e9a7d4a7eec060d86f8d47df606a67d" date="1998-08-13 20:23:58"/>
-		<rom name="baseq2/players/male/death1.wav" size="45892" crc="332855f5" md5="c1a37ac609cd280dde4eb40c6554cc4c" sha1="9fba8e21d831fe78f5caf0bffff51cd46922e29b" date="1997-10-03 17:01:30"/>
-		<rom name="baseq2/players/male/death2.wav" size="83464" crc="e2a02a23" md5="e3596b73010d485fd4eb30930024c215" sha1="9b2c3a52676172a0ae399e1d7bb1b13ee3af29fd" date="1997-10-07 18:34:22"/>
-		<rom name="baseq2/players/male/death3.wav" size="29898" crc="4f290d4d" md5="bbed4c80620d0889c265b6a3d9ba1201" sha1="e8df7cdd824c76442a595e92d9e682fe149a1906" date="1997-10-07 17:11:32"/>
-		<rom name="baseq2/players/male/death4.wav" size="48066" crc="bf0ec742" md5="6f064673e3889697a2fe282c98348690" sha1="ad9b166ce3646423d4515ee004d04bb8969e7a97" date="1997-10-07 17:12:02"/>
+		<rom name="baseq2/players/male/death1.wav" size="45892" crc="332855f5" md5="c1a37ac609cd280dde4eb40c6554cc4c" sha1="9fba8e21d831fe78f5caf0bffff51cd46922e29b" date="1997-10-03 16:01:30"/>
+		<rom name="baseq2/players/male/death2.wav" size="83464" crc="e2a02a23" md5="e3596b73010d485fd4eb30930024c215" sha1="9b2c3a52676172a0ae399e1d7bb1b13ee3af29fd" date="1997-10-07 17:34:22"/>
+		<rom name="baseq2/players/male/death3.wav" size="29898" crc="4f290d4d" md5="bbed4c80620d0889c265b6a3d9ba1201" sha1="e8df7cdd824c76442a595e92d9e682fe149a1906" date="1997-10-07 16:11:32"/>
+		<rom name="baseq2/players/male/death4.wav" size="48066" crc="bf0ec742" md5="6f064673e3889697a2fe282c98348690" sha1="ad9b166ce3646423d4515ee004d04bb8969e7a97" date="1997-10-07 16:12:02"/>
 		<rom name="baseq2/players/male/disguise.pcx" size="56519" crc="321a1a9c" md5="b23f817d634af038a962d8f9d0a95f4e" sha1="2ddbe8c6bbc6eedffbca8e603b10b276b19d2b69" date="1998-08-13 20:24:00"/>
 		<rom name="baseq2/players/male/disguise_i.pcx" size="1986" crc="71429489" md5="986096c2d98ba630c0dd3260c8981571" sha1="f08c1a0819c43c1db4bc6abc44ef66e6b88ac384" date="1998-08-13 20:24:00"/>
 		<rom name="baseq2/players/male/drown1.wav" size="56134" crc="530c2d9c" md5="b0ed6afa04b2e57f59727ff6eb85c7d1" sha1="ec736aa70fd84e60d3de910c08873751d46cc1be" date="1997-11-26 03:37:20"/>
-		<rom name="baseq2/players/male/fall1.wav" size="25760" crc="507a464b" md5="7a2943c4824d0365a57b2bf3e0e81128" sha1="1abe8f82326f6f082ae2b76f58e1c76e8031baf9" date="1997-10-07 17:22:44"/>
-		<rom name="baseq2/players/male/fall2.wav" size="12412" crc="727ed067" md5="28c39bb738169587d5e971181ccf16b1" sha1="870ca371fd5fbb1c5163ed453732919b6c6fbd65" date="1997-10-07 17:40:34"/>
-		<rom name="baseq2/players/male/female/disguise.pcx" size="50932" crc="bf63c970" md5="b5f240c68238e3d8ff2b7ca6374e8972" sha1="5bea58edc2951cd2bdace438591647dbf3695c20" date="1998-08-13 20:24:02"/>
+		<rom name="baseq2/players/male/fall1.wav" size="25760" crc="507a464b" md5="7a2943c4824d0365a57b2bf3e0e81128" sha1="1abe8f82326f6f082ae2b76f58e1c76e8031baf9" date="1997-10-07 16:22:44"/>
+		<rom name="baseq2/players/male/fall2.wav" size="12412" crc="727ed067" md5="28c39bb738169587d5e971181ccf16b1" sha1="870ca371fd5fbb1c5163ed453732919b6c6fbd65" date="1997-10-07 16:40:34"/>
+		<rom name="baseq2/players/male/female/disguise.pcx" size="50932" crc="bf63c970" md5="b5f240c68238e3d8ff2b7ca6374e8972" sha1="5bea58edc2951cd2bdace438591647dbf3695c20" date="1998-08-13 16:05:16"/>
 		<rom name="baseq2/players/male/female/disguise_i.pcx" size="1950" crc="8f1eb911" md5="d285f07d4e10398e95ffa239cc0254d2" sha1="24ac595e762c62d2ef08942398fb218d62f829c4" date="1998-08-13 20:24:00"/>
 		<rom name="baseq2/players/male/flak.pcx" size="56636" crc="8180032f" md5="a25da9175683d7516631da1961c5f3ef" sha1="73a09418ff165e742ce80adbeb02191a488a591f" date="1997-11-27 02:16:46"/>
 		<rom name="baseq2/players/male/flak_i.pcx" size="1971" crc="b97bb3e5" md5="ed16d176fb1a3b6a1ea2fed2f863bd2a" sha1="02bdc9dffc7ef33eb531fae38e07ba331b01cb22" date="1997-11-27 02:16:44"/>
 		<rom name="baseq2/players/male/grunt.pcx" size="58004" crc="c97e896f" md5="34eaa46104de21bd7c4f8e8f48fac32e" sha1="e9f27e4bcf3537546f6b7993470a33b8fc7d771a" date="1997-11-27 02:16:46"/>
 		<rom name="baseq2/players/male/grunt_i.pcx" size="1967" crc="beefff9d" md5="0a57ea0f39fb763e0338e736bd59bc22" sha1="aeed789727a0fadcddee89f220bbc084045e2134" date="1997-11-27 02:16:44"/>
-		<rom name="baseq2/players/male/gurp1.wav" size="18382" crc="4a9dd946" md5="53644df5f8c2d1ace04f3fa555c79ae0" sha1="e46100e9940e82a0f2a7866e2d7dec56bb4c7999" date="1997-10-07 17:48:24"/>
-		<rom name="baseq2/players/male/gurp2.wav" size="18376" crc="a154e394" md5="7829cd11b6dc9bad808c293293ec907c" sha1="0129c2f8eb2816410b5363f09880f21cab300e1e" date="1997-10-07 17:50:52"/>
+		<rom name="baseq2/players/male/gurp1.wav" size="18382" crc="4a9dd946" md5="53644df5f8c2d1ace04f3fa555c79ae0" sha1="e46100e9940e82a0f2a7866e2d7dec56bb4c7999" date="1997-10-07 16:48:24"/>
+		<rom name="baseq2/players/male/gurp2.wav" size="18376" crc="a154e394" md5="7829cd11b6dc9bad808c293293ec907c" sha1="0129c2f8eb2816410b5363f09880f21cab300e1e" date="1997-10-07 16:50:52"/>
 		<rom name="baseq2/players/male/howitzer.pcx" size="59655" crc="e45dc37f" md5="f4a15fdb5036f2020c2a23462a4a8ae2" sha1="1ac3c6bf49caa9ac9ad4e6e6e3a8aee570dc4bd0" date="1997-11-27 02:16:46"/>
 		<rom name="baseq2/players/male/howitzer_i.pcx" size="1979" crc="89db2925" md5="3c9211a549d9bc126c168ea49a94741d" sha1="84e2aef6aa9b950a7f9989b94f598846e7c87f82" date="1997-11-27 02:16:44"/>
-		<rom name="baseq2/players/male/jump1.wav" size="15288" crc="a7e16ca9" md5="ee794f58cbced0643e2143d08d14d3a6" sha1="e093a3207a625991e15e96d1c8056a5bedd06ca9" date="1997-10-14 01:56:12"/>
+		<rom name="baseq2/players/male/jump1.wav" size="15288" crc="a7e16ca9" md5="ee794f58cbced0643e2143d08d14d3a6" sha1="e093a3207a625991e15e96d1c8056a5bedd06ca9" date="1997-10-14 00:56:12"/>
 		<rom name="baseq2/players/male/major.pcx" size="58158" crc="58a489a7" md5="ba536b3b53506f47bbecd8699f78e755" sha1="e65e3651b1bf4a5b7bc4d3eb10df3457499e96c1" date="1997-11-27 02:16:46"/>
 		<rom name="baseq2/players/male/major_i.pcx" size="1971" crc="57d65b0d" md5="905dee6998c121babc9e62751e52703b" sha1="c4bb48c554509f405064cfbec846a192b8155252" date="1997-11-27 02:16:44"/>
-		<rom name="baseq2/players/male/male/disguise.pcx" size="56519" crc="321a1a9c" md5="b23f817d634af038a962d8f9d0a95f4e" sha1="2ddbe8c6bbc6eedffbca8e603b10b276b19d2b69" date="1998-08-13 20:24:00"/>
+		<rom name="baseq2/players/male/male/disguise.pcx" size="56519" crc="321a1a9c" md5="b23f817d634af038a962d8f9d0a95f4e" sha1="2ddbe8c6bbc6eedffbca8e603b10b276b19d2b69" date="1998-08-13 16:05:16"/>
 		<rom name="baseq2/players/male/male/disguise_i.pcx" size="1986" crc="71429489" md5="986096c2d98ba630c0dd3260c8981571" sha1="f08c1a0819c43c1db4bc6abc44ef66e6b88ac384" date="1998-08-13 20:24:00"/>
 		<rom name="baseq2/players/male/nightops.pcx" size="57938" crc="72c9c675" md5="0ebaa3df3adb2f12a983a94ea82c15f0" sha1="86d1d9b6e143fe82b7d04ac97643f7cb95b7548b" date="1997-11-27 02:16:46"/>
 		<rom name="baseq2/players/male/nightops_i.pcx" size="1976" crc="35d7691b" md5="83c2754d59312ace64b5cf3ad11f9a71" sha1="56a8325c5558dd97ca9a95c572b4e16ac596134f" date="1997-11-27 02:16:44"/>
-		<rom name="baseq2/players/male/pain100_1.wav" size="17292" crc="db523565" md5="d492e20850243948166e91471d0b7839" sha1="744a0570981c397c1d07f7f73ae60c222bed0f3d" date="1997-10-03 16:59:38"/>
-		<rom name="baseq2/players/male/pain100_2.wav" size="20282" crc="0402ff42" md5="99438e6a46feabab8bec63411bba1dd6" sha1="7fd24504b267355642245572f3161435b3fdd72f" date="1997-10-03 17:14:32"/>
-		<rom name="baseq2/players/male/pain25_1.wav" size="21252" crc="eb754b78" md5="6a24f43061f8db2961b4adde76bf016d" sha1="289b2c61b10d46177d7de52a7ec663723358ea19" date="1997-10-03 17:01:22"/>
-		<rom name="baseq2/players/male/pain25_2.wav" size="22626" crc="c11f5e23" md5="825558a1abb9d5138952f6ec210efcef" sha1="cd2c2ec6f93848fa15070eaa831713464db19699" date="1997-10-07 18:36:00"/>
-		<rom name="baseq2/players/male/pain50_1.wav" size="34012" crc="f91fc097" md5="1096f5798b8ac7b8a4dede4d189ee2c1" sha1="95f7719a98062452c8a6a5881ae3f839c0ac5b38" date="1997-10-03 17:01:04"/>
-		<rom name="baseq2/players/male/pain50_2.wav" size="23452" crc="e90d0807" md5="49ac063de6c8f8d791428333b76d7363" sha1="065e3c6802783d6c14b744d1e870be8d6c30ba46" date="1997-10-07 17:10:24"/>
+		<rom name="baseq2/players/male/pain100_1.wav" size="17292" crc="db523565" md5="d492e20850243948166e91471d0b7839" sha1="744a0570981c397c1d07f7f73ae60c222bed0f3d" date="1997-10-03 15:59:38"/>
+		<rom name="baseq2/players/male/pain100_2.wav" size="20282" crc="0402ff42" md5="99438e6a46feabab8bec63411bba1dd6" sha1="7fd24504b267355642245572f3161435b3fdd72f" date="1997-10-03 16:14:32"/>
+		<rom name="baseq2/players/male/pain25_1.wav" size="21252" crc="eb754b78" md5="6a24f43061f8db2961b4adde76bf016d" sha1="289b2c61b10d46177d7de52a7ec663723358ea19" date="1997-10-03 16:01:22"/>
+		<rom name="baseq2/players/male/pain25_2.wav" size="22626" crc="c11f5e23" md5="825558a1abb9d5138952f6ec210efcef" sha1="cd2c2ec6f93848fa15070eaa831713464db19699" date="1997-10-07 17:36:00"/>
+		<rom name="baseq2/players/male/pain50_1.wav" size="34012" crc="f91fc097" md5="1096f5798b8ac7b8a4dede4d189ee2c1" sha1="95f7719a98062452c8a6a5881ae3f839c0ac5b38" date="1997-10-03 16:01:04"/>
+		<rom name="baseq2/players/male/pain50_2.wav" size="23452" crc="e90d0807" md5="49ac063de6c8f8d791428333b76d7363" sha1="065e3c6802783d6c14b744d1e870be8d6c30ba46" date="1997-10-07 16:10:24"/>
 		<rom name="baseq2/players/male/pain75_1.wav" size="18786" crc="adbf236e" md5="35d962b7fd722802bd445c7489b460d9" sha1="04d7549f8d9ce3dc06ce8ef02ea2b0daf10950e4" date="1997-11-15 00:20:12"/>
-		<rom name="baseq2/players/male/pain75_2.wav" size="22572" crc="db710b1f" md5="a11b2ba8ddde40cd9b44c7e2211ab627" sha1="e52bbe097532ea43c85fc9781c491bea1553cf9a" date="1997-10-03 17:00:28"/>
+		<rom name="baseq2/players/male/pain75_2.wav" size="22572" crc="db710b1f" md5="a11b2ba8ddde40cd9b44c7e2211ab627" sha1="e52bbe097532ea43c85fc9781c491bea1553cf9a" date="1997-10-03 16:00:28"/>
 		<rom name="baseq2/players/male/pointman.pcx" size="58619" crc="eff6b8b4" md5="10d6b2cf74286f7396fc1ac73840437c" sha1="4eba8e5cb10f1600210f03c54ece942a26372d2f" date="1997-11-27 02:16:46"/>
 		<rom name="baseq2/players/male/pointman_i.pcx" size="1956" crc="3074610c" md5="494824048e031d490e691ca9fefa8eb2" sha1="a83b1fab48587add55557dfcd79ee613c69bbfb2" date="1997-11-27 02:16:44"/>
 		<rom name="baseq2/players/male/psycho.pcx" size="56607" crc="3f94907e" md5="f600b69cb8a5d1b09bf2af436a7049a9" sha1="74ea1ca3f3ba0e1263b4b5cf72da578f8c560a29" date="1997-11-27 02:16:46"/>
@@ -15125,7 +15186,7 @@
 		<rom name="baseq2/players/male/w_shotgun.md2" size="38912" crc="47a7291d" md5="e9a5e9b2df9bf2fa5e53794f929419af" sha1="56f77c1121dd9fde187529a37723420703a2a74a" date="1997-11-27 02:18:08"/>
 		<rom name="baseq2/players/male/w_sshotgun.md2" size="85556" crc="476bec1d" md5="46967dbfad628470a7bc344b20086d53" sha1="7e2d56deee8cf4efa08374998f67fe3c10efd6b6" date="1998-04-01 11:04:12"/>
 		<rom name="baseq2/players/male/weapon.md2" size="38912" crc="47a7291d" md5="e9a5e9b2df9bf2fa5e53794f929419af" sha1="56f77c1121dd9fde187529a37723420703a2a74a" date="1997-11-27 02:18:08"/>
-		<rom name="baseq2/players/male/weapon.pcx" size="9089" crc="942b09fb" md5="0758d59ebfcb5931bda2b0985faf98a9" sha1="7fd2251f2a90c38f3c21e4551b75d7643c3764ac" date="1998-01-23 15:38:32"/>
+		<rom name="baseq2/players/male/weapon.pcx" size="9089" crc="942b09fb" md5="0758d59ebfcb5931bda2b0985faf98a9" sha1="7fd2251f2a90c38f3c21e4551b75d7643c3764ac" date="1997-11-27 00:42:00"/>
 		<rom name="baseq2/video/end.cin" size="19311290" crc="c9b1461e" md5="36fdaddd1c1b56ba10472466e4486ff8" sha1="69724888bcf2a39ea6b87a940e7e701149f4da31" date="1997-11-26 01:45:56"/>
 		<rom name="baseq2/video/eou1_.cin" size="6038210" crc="7829021c" md5="cbab517cddc03ec676d7153eeb13417b" sha1="62a17b060f85b6525f197a1fd0d1902967ae9bf4" date="1997-11-17 20:32:30"/>
 		<rom name="baseq2/video/eou2_.cin" size="6586381" crc="5ae2edce" md5="37201aa9c798982e7739dfdbad61c004" sha1="1b7b7febbaa99bbb1f5e4f4ecf9bb4e7fa62d994" date="1997-11-17 20:33:54"/>
@@ -15137,110 +15198,214 @@
 		<rom name="baseq2/video/eou8_.cin" size="11875656" crc="b46ab8a3" md5="24a5178220322b3a4fb42f6b0757b821" sha1="d594aeac56260475db9950a90d2a81862b0ac0ae" date="1997-11-17 20:43:30"/>
 		<rom name="baseq2/video/idlog.cin" size="3159828" crc="6c91ba56" md5="0747670d94cc873f8ce522d7652143a1" sha1="d5538f2b4f5eba4e7d9465d14c7f984686387fd7" date="1997-11-26 23:05:16"/>
 		<rom name="baseq2/video/ntro.cin" size="82836235" crc="928c9cd3" md5="72846e547415856028006aaa4089c9c9" sha1="bf815fbf6362216172a2df3e422202d3a62d4429" date="1997-11-26 23:15:04"/>
-		<rom name="chaos/gamex86.dxe" size="416060" crc="b261d648" md5="83ab4f2f881da075c6304dae06e411b3" sha1="cba05096b02db2e483122e10001d2ae7502144c8" date="2021-07-21 13:10:02"/>
-		<rom name="ctf/gamex86.dxe" size="256006" crc="ee551023" md5="a3fc3f3c9ac75b7d0e243084ff10c383" sha1="5eb2c10b4bc0b0840449cde86b542c6b229ab8f9" date="2021-07-21 13:09:56"/>
+		<rom name="chaos/gamex86.dxe" size="416060" crc="a3bb5506" md5="4e9249223823e987e6a2f4cd67050f3e" sha1="18ac3ee968476fac1baa9d2a1ec81fd177455047" date="2024-08-17 10:01:24"/>
+		<rom name="ctf/gamex86.dxe" size="256006" crc="a12af282" md5="80c12389027f54f0dac2b462ce97b83e" sha1="e6c9ffea4418bfba88124863f68a0fe9ba8398d4" date="2024-08-17 10:01:16"/>
 		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2016-06-24 05:51:40"/>
-		<rom name="dday/gamex86.dxe" size="688451" crc="eaa9d6ed" md5="472439868ed049656643eac0602d2e7f" sha1="790b76f6f9c22b82ac8daca88faf9e0930da6ec9" date="2021-07-21 13:10:04"/>
-		<rom name="DOS.YML" size="17" crc="9e2ade80" md5="5e4e9514ccbed110c66ed799f2b0c449" sha1="7ff552bf9a73a8ba6fe5089d140c63e3d6be659c"/>
-		<rom name="gamespy.dxe" size="13627" crc="6a484010" md5="c9830129c425c1d396a5f7f0a4320b88" sha1="b711bd27b6d01e6321402a9a38ff305c76e71edd" date="2021-07-21 13:10:06"/>
-		<rom name="gl.dxe" size="1527724" crc="be4b3f83" md5="360f2a644e84b6d75b0b8a2fc3582124" sha1="519e3f55167b743faa880e78616787d826c8ebb3" date="2021-07-21 12:05:40"/>
-		<rom name="glide3x.dxe" size="151003" crc="555b8b81" md5="4cb3ffbaf6f44ec1ea0430dacd3cb124" sha1="02e7c1efcaef85a3f2b2d90c319948227bcd13fa" date="2019-05-21 12:21:24"/>
-		<rom name="opengl/fxmesa/gl.dxe" size="1527724" crc="be4b3f83" md5="360f2a644e84b6d75b0b8a2fc3582124" sha1="519e3f55167b743faa880e78616787d826c8ebb3" date="2021-07-21 12:05:40"/>
-		<rom name="opengl/mesa/gl.dxe" size="1702855" crc="9eeb781c" md5="55fc598031ef1539dfcc2d2f487d8a15" sha1="a90f146a4025c06491a5b7d33992b92d00483fd3" date="2016-06-24 05:51:40"/>
-		<rom name="opengl/opengl.txt" size="590" crc="e3d9201b" md5="181939bafc7df2c065e91818628ea480" sha1="b40e5d05bf1cc80cb5537bdb045db057b73b9c3e" date="2016-06-24 05:51:40"/>
-		<rom name="opengl/sage/gl.dxe" size="341202" crc="dd4cc786" md5="dec813a7f1ef683d7d67fd0d06d64e7e" sha1="6cb49f6f294daf81a59f3fb7bfa831706e580ffa" date="2021-07-21 12:05:40"/>
+		<rom name="dday/gamex86.dxe" size="688451" crc="a7d544e0" md5="41f3d4bb4cd58ec9492705493d572a42" sha1="e7112eff60741d04ddebe673852596614e82387b" date="2024-08-17 10:01:28"/>
+		<rom name="DOS.YML" size="17" crc="9e2ade80" md5="5e4e9514ccbed110c66ed799f2b0c449" sha1="7ff552bf9a73a8ba6fe5089d140c63e3d6be659c" data="bWVtX3NpemU6IDY1NTM2DQo="/>
+		<rom name="gamespy.dxe" size="13627" crc="6a484010" md5="c9830129c425c1d396a5f7f0a4320b88" sha1="b711bd27b6d01e6321402a9a38ff305c76e71edd" date="2024-08-17 10:01:28"/>
+		<rom name="gl.dxe" size="1527720" crc="17a9dac4" md5="88e4cb3bad47e1fb2af352b1be566489" sha1="800aba341fe948b07ad2d85d22c239ea957cc607" date="2024-08-17 09:58:52"/>
+		<rom name="glide3x.dxe" size="148992" crc="9a9d4054" md5="b3661cba39c9a9715d21768e81f38cf3" sha1="69a38dff83dfe9b140fbe992de58eb2442edc883" date="2024-08-17 09:58:52"/>
+		<rom name="opengl/fxmesa/gl.dxe" size="1527720" crc="17a9dac4" md5="88e4cb3bad47e1fb2af352b1be566489" sha1="800aba341fe948b07ad2d85d22c239ea957cc607" date="2024-08-17 09:58:52"/>
+		<rom name="opengl/mesa/gl.dxe" size="1702855" crc="a0d91097" md5="a3d433f357c114f84de66d083034555d" sha1="b2d94b762ec2a5219875091e02463c60820a57e7" date="2024-08-17 09:58:52"/>
+		<rom name="opengl/opengl.txt" size="616" crc="50e4b3b4" md5="4ec02595d103a11c14437b328068d93e" sha1="d08a772cff0019b1a4e32a17746e61e81c3d80ec" date="2024-08-17 09:58:52"/>
+		<rom name="opengl/sage/gl.dxe" size="341188" crc="9218d69a" md5="bf00df1a613db6175559ee61606dc5b5" sha1="958a7cd59dda14f67b4db5264d7cbfd48435c42f" date="2024-08-17 09:58:52"/>
 		<rom name="opengl/sage/sage.ini" size="4283" crc="4c07e469" md5="ddbacff740f8dac66a1a364c2e5504ca" sha1="cba25dd3f15101c20370d8ba5bc28ff72dfb450c" date="2018-04-27 00:28:20"/>
-		<rom name="q2.exe" size="834048" crc="9ac4b1bd" md5="371c18747f059274b3dba4e07c1f1fb3" sha1="b3ec67601f857dfd4e8996f116662fd6ec02eaa3" date="2021-07-21 13:10:06"/>
-		<rom name="Quake II (USA) (Rerelease) (1998-08-25).chd" size="763599744" crc="272dba97" md5="7a38e37dfd60b0a9c87f170dfd394de2" sha1="7119664bbfbd119ccb78a9bfb1792c169f46afe5">
-			<track number="1" type="MODE1_RAW" frames="190284" pregap="0" duration="42:17:09" size="447547968" crc="09705b99" md5="83fbef3c2ed31f785636f8513fb5ff24" sha1="8fc984ec91ae9ba1f762d4afb417262cdac45380"/>
-			<track number="2" type="AUDIO" frames="15733" pregap="75" duration="03:29:58" size="37004016" crc="e145a106" md5="fe0255fb99eb7bc8e321966e2a18582c" sha1="0ba4b0b6b07f7873ac7279f6c85751cd46950843" in_zeros="184705" out_zeros="0" trimmed_crc="5373e396"/>
-			<track number="3" type="AUDIO" frames="10321" pregap="0" duration="02:17:46" size="24274992" crc="b3fc76e3" md5="3d08b9e56cbb0d611c42bf91152438d9" sha1="ee14d6bc5fe8e0def32c1d3906521b3e6294dbfc" in_zeros="0" out_zeros="0" trimmed_crc="b3fc76e3"/>
-			<track number="4" type="AUDIO" frames="11403" pregap="0" duration="02:32:03" size="26819856" crc="e4a2505e" md5="49c89e6ac99bdaee09424128f9b44fe7" sha1="32ab4ad7a311d0bd2f65800604192e03a9aee2d5" in_zeros="0" out_zeros="0" trimmed_crc="e4a2505e"/>
-			<track number="5" type="AUDIO" frames="12855" pregap="0" duration="02:51:30" size="30234960" crc="ad30c223" md5="5faa778537d857ffa343e87ac4127352" sha1="84534c387c8da75ec68582ed96af7cfa81af66d4" in_zeros="0" out_zeros="0" trimmed_crc="ad30c223"/>
-			<track number="6" type="AUDIO" frames="11611" pregap="0" duration="02:34:61" size="27309072" crc="e5978c25" md5="9e1b08dc0c6dbe3cddd4e23627864eef" sha1="6b8ad7ce7653929d333a8bd048f63778772a2bc6" in_zeros="0" out_zeros="0" trimmed_crc="e5978c25"/>
-			<track number="7" type="AUDIO" frames="16131" pregap="0" duration="03:35:06" size="37940112" crc="59535e4b" md5="7b2a6051f12c16ef99fd7f1ff74c321b" sha1="dc09c735e73106b7f93f8b6442e2e4c59ee0018e" in_zeros="2" out_zeros="0" trimmed_crc="4d8a33f2"/>
-			<track number="8" type="AUDIO" frames="13810" pregap="0" duration="03:04:10" size="32481120" crc="7336b4b6" md5="c8da07d5def9f3f7f081299813bb0ba1" sha1="cb08838c742d1b89828d001231955765ebfe2fe4" in_zeros="0" out_zeros="1" trimmed_crc="e5c845a1"/>
-			<track number="9" type="AUDIO" frames="11687" pregap="0" duration="02:35:62" size="27487824" crc="89cdec42" md5="f7ccd6e0fb28c37a4bf27e69f6a1dcd6" sha1="406acb44cbf98e0770cf4d8d3e903db5fc093e5f" in_zeros="0" out_zeros="0" trimmed_crc="89cdec42"/>
-			<track number="10" type="AUDIO" frames="8998" pregap="0" duration="01:59:73" size="21163296" crc="36ee81fa" md5="f5902df891e7c753298efca00fe30d40" sha1="13da4c66cc580d82429b9bc39a62a1fcedcd1425" in_zeros="0" out_zeros="1" trimmed_crc="e2a17c8c"/>
-			<track number="11" type="AUDIO" frames="9080" pregap="0" duration="02:01:05" size="21356160" crc="229e3c2e" md5="be8c7f377d15dcd376fc62467216fd73" sha1="e17c16d1f472fa036fcb89491d66ebcba52518bd" in_zeros="0" out_zeros="0" trimmed_crc="229e3c2e"/>
-		</rom>
-		<rom name="readme.fx" size="9243" crc="68ef47c4" md5="1471e2c6cfad850059e4712fb0cf0a41" sha1="b605a9f4afb08856d092d7dbe5ee36d9d51e1425" date="2017-06-25 05:15:44"/>
-		<rom name="readme.txt" size="6954" crc="ddb844fe" md5="acbf85146d24a67ff93cdf521febe428" sha1="3eae65afad23abd30551e5abc81ffc1100fe21b1" date="2017-06-25 05:15:44"/>
-		<rom name="ref_gl.dxe" size="182228" crc="25fcdd95" md5="560c0d60192fe88c2ce26a0ca5a6971c" sha1="6dcc874062abc5a7b82d992f5bc2fab700648f02" date="2021-07-21 13:09:54"/>
-		<rom name="ref_soft.dxe" size="139622" crc="e1036b98" md5="585fb74cd69d8d6d36e337dbad1c6075" sha1="8327daa82cec6e03b79f6a3199169462bd5735f8" date="2021-07-21 13:09:52"/>
-		<rom name="rogue/gamex86.dxe" size="625923" crc="dbed19cc" md5="91a546a42950d4e1562571c1595cc9fe" sha1="0481bf969fd09d1575063f42e7ed296d4040d316" date="2021-07-21 13:09:58"/>
-		<rom name="sndpci.dxe" size="43364" crc="b0b8bf6e" md5="777150578f3779192eb0718350a9386c" sha1="586d6707373fc03d22ef59b2d39607772a072774" date="2021-07-21 12:05:40"/>
-		<rom name="voodoo/cvg/glide3x.dxe" size="178411" crc="33332168" md5="142c6d9c0d3ea3426c47049f4b4b2b3e" sha1="797669aa26b56d1fc07f8e8fed5055716040e550" date="2019-05-21 12:21:24"/>
-		<rom name="voodoo/h3/glide3x.dxe" size="116366" crc="59779c09" md5="8ef8a4839b0c4c11efacc021bf7c1233" sha1="04a9d27542c4c3568783419f97fefa767d899b97" date="2019-05-21 12:21:24"/>
-		<rom name="voodoo/h5/glide3x.dxe" size="236385" crc="ccf12291" md5="7d7b0b7acaa35622127d63a1ad8ed8d4" sha1="b842961dcd1ab793f7892e97ff0fc48c5e2c809d" date="2019-05-21 12:21:24"/>
-		<rom name="voodoo/sst1/glide3x.dxe" size="151003" crc="555b8b81" md5="4cb3ffbaf6f44ec1ea0430dacd3cb124" sha1="02e7c1efcaef85a3f2b2d90c319948227bcd13fa" date="2019-05-21 12:21:24"/>
-		<rom name="voodoo/sst96/glide3x.dxe" size="243766" crc="7f762e0a" md5="7020281a5e8ef1245094e97ed3e9612a" sha1="64ea3a4b37cbe762ec78eec6efbea2e5d737c4e9" date="2019-05-21 12:21:24"/>
+		<rom name="q2.exe" size="818176" crc="664b718a" md5="085eb03a1c897e408480f8f3e1f2b737" sha1="149feaa14041e411e39f8bb4a07dfbe5093f4e0a" date="2024-08-17 10:01:30"/>
+		<rom name="readme.fx" size="9088" crc="a2cec872" md5="839517160adfbf6454d0e9d4f8f94ffc" sha1="3c4ac60226d4508602af4bdfad0a8ad9ded67e0c" date="2024-08-17 09:58:52"/>
+		<rom name="readme.txt" size="7093" crc="349862b2" md5="cd7c79ab7e93528a4fc5108687b96480" sha1="0a38d33b88514aef81abc844f7cd42d114dc45ef" date="2024-08-17 09:58:52"/>
+		<rom name="ref_gl.dxe" size="182244" crc="3cba8caa" md5="1a164225f500bc23d5e8ae8e8448208c" sha1="29a739ff4616fabf9480d3e8cc315ed756f6e3b8" date="2024-08-17 10:01:14"/>
+		<rom name="ref_soft.dxe" size="139638" crc="f9ce4046" md5="3357c8b987129ddc7e6bbe9ee19cf57e" sha1="9b2b5a3790fb32c7f5fc251c4d38c8a23721c01a" date="2024-08-17 10:01:14"/>
+		<rom name="rogue/gamex86.dxe" size="625939" crc="1e75db3e" md5="77368a6d51fec8f788c1aea6ccf12c4e" sha1="79f08d3e2d78a3df08be17b2faf436881363a559" date="2024-08-17 10:01:18"/>
+		<rom name="sndpci.dxe" size="44756" crc="0cbd0308" md5="93860ec1c9889b5ea4aae5a99348af3e" sha1="8c82add63088154659e3e0957ce9f01f81963fa8" date="2024-08-17 09:58:52"/>
+		<rom name="voodoo/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2016-06-23 16:51:40"/>
+		<rom name="voodoo/cvg/glide3x.dxe" size="176725" crc="07ff019f" md5="87917401e9cfee7cdbc420bbffe4f1ac" sha1="0dfe8cba50adc1f844226db59a1138769ebd1243" date="2024-08-17 09:58:52"/>
+		<rom name="voodoo/h3/glide3x.dxe" size="116281" crc="7ca8353c" md5="94ecb8be15a7d9ae8ea4b3d04877ccf5" sha1="a69929d236f01b7b4da602e91903d930e55dc3cf" date="2024-08-17 09:58:52"/>
+		<rom name="voodoo/h5/glide3x.dxe" size="236300" crc="c2143f93" md5="5746d42d1b33184630227eb6fa0ab60a" sha1="92610920ff26b72fdfa2485c420795a5314d2a30" date="2024-08-17 09:58:52"/>
+		<rom name="voodoo/sst1/glide3x.dxe" size="148992" crc="9a9d4054" md5="b3661cba39c9a9715d21768e81f38cf3" sha1="69a38dff83dfe9b140fbe992de58eb2442edc883" date="2024-08-17 09:58:52"/>
+		<rom name="voodoo/sst96/glide3x.dxe" size="183101" crc="d30555c5" md5="ee3eaeea8641c611262a03f1a75ebf67" sha1="e25be4b9fdea07640fcea3051eef9e6894fa415e" date="2024-08-17 09:58:52"/>
 		<rom name="voodoo/voodoo.txt" size="331" crc="7fdcea0a" md5="5ae9c10a11d4e7682e1c7924b9f947a2" sha1="fcce7c33232808f4b9870ef8f5e347a82ca06843" date="2016-06-24 05:51:40"/>
-		<rom name="xatrix/gamex86.dxe" size="518947" crc="625df6fa" md5="e59bf0264c970b310f5c5009d2145ed9" sha1="ae4cf58bc5b3ff50a31d64739e0fc916c6364f90" date="2021-07-21 13:09:56"/>
-		<rom name="zaero/gamex86.dxe" size="541251" crc="51c80090" md5="ba85aba51a97dfe55ed9cc843eb7728c" sha1="da50206668a531635816d672590f2bb30177e070" date="2021-07-21 13:10:06"/>
+		<rom name="xatrix/gamex86.dxe" size="518979" crc="8d7c13d6" md5="5394ba186df60a1c68d1795c5f590785" sha1="15f44b58020bd847eba112175e083f02752035d8" date="2024-08-17 10:01:18"/>
+		<rom name="zaero/gamex86.dxe" size="541283" crc="9d7b97bd" md5="3b50fab92717be61a6dcc930830ba382" sha1="bd626ab17fe56879ad2b025f607cd049ff5b547d" date="2024-08-17 10:01:28"/>
 	</game>
-	<game name="Quake II Mission Pack - Ground Zero (1998) (id Software).dosz">
+	<game name="Quake II Mission Pack - Ground Zero (1998) (Rogue Entertainment).dosz">
 		<description>Quake II Mission Pack - Ground Zero</description>
-		<comment>Ground Zero v3.20 with Q2DOS 2021-07-21</comment>
-		<comment_dosc>Auto start and a BAT file for launching the game</comment_dosc>
 		<year>1998</year>
-		<developer>id Software</developer>
+		<developer>Rogue Entertainment</developer>
 		<parent>Quake II (1997) (id Software).dosz</parent>
+		<comment>
+			Ground Zero v3.20 with Q2DOS 2024-08-17
+			CHDtoOGG used to convert CD image matching with Redump: Quake II Mission Pack - Ground Zero (USA)
+			Track 2 to 11 = track12.ogg to track21.ogg
+		</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="media">http://redump.org/disc/9891/</link>
 		<rom name="Quake II (1997) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="Quake II Mission Pack - Ground Zero (USA).chd" size="639946368" crc="48f2f4da" md5="bc34b3f01997b71fbffcb8bdfd0e91c4" sha1="3c1f8d288e2e87418d89f5b2cdfb27eff31af228">
-			<track number="1" type="MODE1_RAW" frames="124685" pregap="0" duration="27:42:35" size="293259120" crc="762d6b41" md5="54e9f0229119c694b353807577c8b172" sha1="a8661435144fb6ed25d837957d0662d37505396b" in_zeros="1" out_zeros="0"/>
-			<track number="2" type="AUDIO" frames="13160" pregap="75" duration="02:55:35" size="30952320" crc="fe51905c" md5="50588c72dddf5d9b03e3ddb7af628435" sha1="2a2c2a1eb5b8ca3d12e4cc49ea0316deda3526a4" in_zeros="184654" out_zeros="178949"/>
-			<track number="3" type="AUDIO" frames="11662" pregap="149" duration="02:35:37" size="27429024" crc="c2cb414b" md5="6c0c662ce2aed390e318357203b28f2f" sha1="feb4764fb7e8303f9426991a0acbed2511a9d4e4" in_zeros="359038" out_zeros="4304"/>
-			<track number="4" type="AUDIO" frames="14547" pregap="149" duration="03:13:72" size="34214544" crc="eddd8811" md5="7ac4d1eccbbcd2e817775e52aa5cdd1b" sha1="0649b4885f76899b572e5cab94d7ac03cb378217" in_zeros="360094" out_zeros="177557"/>
-			<track number="5" type="AUDIO" frames="13307" pregap="149" duration="02:57:32" size="31298064" crc="2272da96" md5="4831010f9d019912580192db66827064" sha1="b1a7479c59b2ffdd48443375a7a537d2eacfcfef" in_zeros="360530" out_zeros="177124"/>
-			<track number="6" type="AUDIO" frames="13487" pregap="149" duration="02:59:62" size="31721424" crc="f4754762" md5="76b38a48a357e54c92a0b011681f5d1f" sha1="46f86dddce82327f0193427a81cce28186d0bcbf" in_zeros="358622" out_zeros="6128"/>
-			<track number="7" type="AUDIO" frames="13418" pregap="149" duration="02:58:68" size="31559136" crc="80b8cb75" md5="55929bafa02b47e0d00193ce7ebaa66c" sha1="bd844fb02dbf4af2830d32912a55ae92743d5407" in_zeros="359370" out_zeros="5291"/>
-			<track number="8" type="AUDIO" frames="13054" pregap="149" duration="02:54:04" size="30703008" crc="7d695e40" md5="6a222b6ccf7ef83a4303fb9b01fb0f99" sha1="f1301227a8f0fb2007cbc43f25f26bb2cf10c123" in_zeros="359812" out_zeros="4904"/>
-			<track number="9" type="AUDIO" frames="13878" pregap="149" duration="03:05:03" size="32641056" crc="563cb0fe" md5="4b76e35c56c1d8c3b73b175aa6011d1c" sha1="8c3b3ac95753e3dbe99d220b273c3b473cf07f3f" in_zeros="358750" out_zeros="178876"/>
-			<track number="10" type="AUDIO" frames="11145" pregap="149" duration="02:28:45" size="26213040" crc="eb849043" md5="9f69eb0064ae86d8437561fce68880ce" sha1="e3536b548773fb6ae25aed3a6d76d1bce032e883" in_zeros="359720" out_zeros="6245"/>
-			<track number="11" type="AUDIO" frames="20717" pregap="149" duration="04:36:17" size="48726384" crc="9398a662" md5="5f8b70795010174c4f0632be1af507a6" sha1="c3b0e81c0118536f678881dd51a97650b3186c43" in_zeros="356684" out_zeros="4462"/>
+		<rom name="baseq2/music/track12.ogg" size="4975877" crc="779c12e2" md5="01e83d343babb64b8cb3dd4f0192b9df" sha1="9a3deaf469544682964a091bed39e19f48c11807">
+			<source type="AUDIO" frames="13085" omitted_pregap="75" duration="02:54:35" size="30775920" crc="33e95498" md5="410e630df468ad4797e2823c206bcf0e" sha1="d2e891de5d33278132dde1f7669b7630528901c7" in_zeros="8254" out_zeros="178949" quality="8"/>
+		</rom>
+		<rom name="baseq2/music/track13.ogg" size="4098502" crc="5e12a150" md5="aaced1d203e8fcd1fa16f7b091f29406" sha1="ac615be4447073cf1780f5760fb56ce343d5d1dc">
+			<source type="AUDIO" frames="11513" omitted_pregap="149" duration="02:33:38" size="27078576" crc="c11f41af" md5="20282520255e1556b665644af20f6775" sha1="4d7fb170bc607f5e8811ce95ae06e70680140630" in_zeros="8590" out_zeros="4304" quality="8"/>
+		</rom>
+		<rom name="baseq2/music/track14.ogg" size="5442189" crc="f935b918" md5="397be000e412208d83d21ae00b5a8aa1" sha1="5821322ba171061082a67efbce0d46d55f246d27">
+			<source type="AUDIO" frames="14398" omitted_pregap="149" duration="03:11:73" size="33864096" crc="a1b5b98a" md5="082332f9a9c3b71a4346c9b226db6adf" sha1="abd1df86c65ad2cd7e9a1781df8e669b22282365" in_zeros="9646" out_zeros="177557" quality="8"/>
+		</rom>
+		<rom name="baseq2/music/track15.ogg" size="4849848" crc="daba88ae" md5="3193aaa65b5f975e69dbe74c8bf11c13" sha1="0ea6a6e6a07bdc03a0421549d81cdec92ebed502">
+			<source type="AUDIO" frames="13158" omitted_pregap="149" duration="02:55:33" size="30947616" crc="85a7f614" md5="71f94d55d19f3168790e76b9fa192a0f" sha1="084de2ae054549e50c16b7448d200ef95fbcd3ce" in_zeros="10082" out_zeros="177124" quality="8"/>
+		</rom>
+		<rom name="baseq2/music/track16.ogg" size="5062915" crc="291107c7" md5="54360b388f49e71025519835226cff0e" sha1="49f59b455a1d625a2a7bda06753190118f4e9bc2">
+			<source type="AUDIO" frames="13338" omitted_pregap="149" duration="02:57:63" size="31370976" crc="a0c7d3ce" md5="19085f7961740effde07c775e6f37110" sha1="1eba15b1b7447d434be3186dee633dabc75c5c3c" in_zeros="8174" out_zeros="6128" quality="8"/>
+		</rom>
+		<rom name="baseq2/music/track17.ogg" size="5309827" crc="54e35d84" md5="f7d4f0afb721f5a55c9ee1678d765003" sha1="7457bcc4f8ec17cdc2751a77789940d957bcad3c">
+			<source type="AUDIO" frames="13269" omitted_pregap="149" duration="02:56:69" size="31208688" crc="19046011" md5="e78184cbbe0966f1325948d22687ab42" sha1="380fed8469d1a98f542899ed2d95fac8dcbe544c" in_zeros="8922" out_zeros="5291" quality="8"/>
+		</rom>
+		<rom name="baseq2/music/track18.ogg" size="5218183" crc="a851000e" md5="9880cae7712273f5fd0f347ebc03a1d2" sha1="796ce89b298923834ebe1e137742c04ed48babf0">
+			<source type="AUDIO" frames="12905" omitted_pregap="149" duration="02:52:05" size="30352560" crc="d0df2eb0" md5="bbf0d8b4337efee1994e4a93308889f1" sha1="4a20098da618bc6dbea9b66fc1c3d7b4221a59f7" in_zeros="9364" out_zeros="4904" quality="8"/>
+		</rom>
+		<rom name="baseq2/music/track19.ogg" size="4819356" crc="c67bb03d" md5="d63ccb5be716961e6c34a07a01c5b2e8" sha1="5c69fa264abc11457a71a9852dc2ddd486e54fe6">
+			<source type="AUDIO" frames="13729" omitted_pregap="149" duration="03:03:04" size="32290608" crc="e78e9a79" md5="5e82e70ff80df3a05aad4cc757726552" sha1="6aabc0cc385c1641c9064f2acf94c0a877e82343" in_zeros="8302" out_zeros="178876" quality="8"/>
+		</rom>
+		<rom name="baseq2/music/track20.ogg" size="4024055" crc="3c91a43e" md5="b3c52966cb6cc067554cdec5359d2474" sha1="376c00573f3f0867a0e57f47d27353af37d8cedf">
+			<source type="AUDIO" frames="10996" omitted_pregap="149" duration="02:26:46" size="25862592" crc="436ff0d8" md5="9e271d5a9a0758e9a28e6b8bad41170d" sha1="a447c7dde4bfcf41bae216b2640eda266009abdd" in_zeros="9272" out_zeros="6245" quality="8"/>
+		</rom>
+		<rom name="baseq2/music/track21.ogg" size="7965669" crc="5c2a44ad" md5="359b5903944c0d07f2a9e054aad4f420" sha1="06eeb02ba88e907f91b1813fc70726735bd1cf04">
+			<source type="AUDIO" frames="20568" omitted_pregap="149" duration="04:34:18" size="48375936" crc="7c6fc3af" md5="a282cd495b95d702046716f03a0a2012" sha1="ba75b03d0093292f7eddac15a0b0b8e8f29cdeeb" in_zeros="6236" out_zeros="4462" quality="8"/>
 		</rom>
 		<rom name="rogue/gamex86.dll" size="561152" crc="b6ca0929" md5="89213bdb367e265d8c2b6a0254decb75" sha1="2fdab91bee3c8da1cdd1a24878009d2ce5f39caf" date="1998-10-16 15:39:30"/>
-		<rom name="rogue/pak0.pak" size="109117652" crc="a0663de3" md5="5e2ecbe9287152a1e6e0d77b3f47dcb2" sha1="8d3979e90f2ffd97692c5d1461b6ddaa5bf84ce6" date="1998-09-02 18:11:18"/>
-		<rom name="rogue/video/logo.cin" size="3157924" crc="0df00853" md5="258c3dbaa0d7a1c2f1f35731b0eed728" sha1="b954d4f352ca4802a57c22aeaf68fb76ccd05d21" date="1998-08-25 18:08:48"/>
-		<rom name="rogue/video/rend.cin" size="22580919" crc="84a1f81e" md5="ee51eb59ac4b75fb432af829235d656c" sha1="7788691774125b7193c55b6b205f8c6a96f2736c" date="1998-09-01 04:43:02"/>
-		<rom name="rogue/video/reu1_.cin" size="13926931" crc="cd050220" md5="72137151ae5d7528aaf999975c2e105b" sha1="f44cbc4058cb6428ce8d3eb436395fa62d035823" date="1998-09-01 04:59:20"/>
-		<rom name="rogue/video/reu2_.cin" size="12118957" crc="be108ed5" md5="ed125b89f04f5454c9e101654601539f" sha1="7e5bc0a4b56d8fc12134b5607b3a4025dc1243d1" date="1998-09-01 04:59:48"/>
-		<rom name="rogue/video/reu3_.cin" size="12172697" crc="f3e243d3" md5="dca7fd5fe6680ff066808798478fd139" sha1="69918cdfad9ec6e9c4e0d82e330e6cfcb975654f" date="1998-09-01 05:00:32"/>
-		<rom name="rogue/video/reu4_.cin" size="14809635" crc="8bcdc9e6" md5="1db9b40d45926bbdeae66e92eeee1c5b" sha1="65756654193ee74aaffc792c7d1ade463d98c4ad" date="1998-09-01 05:01:22"/>
-		<rom name="rogue/video/rintro.cin" size="38434032" crc="fc019931" md5="3b6b90af398deccff95dbba63a8a38bf" sha1="7b79eab8955e632153d3dc9e5435885909cc7052" date="1998-08-31 23:53:32"/>
+		<rom name="rogue/pak0.pak" size="109117652" crc="a0663de3" md5="5e2ecbe9287152a1e6e0d77b3f47dcb2" sha1="8d3979e90f2ffd97692c5d1461b6ddaa5bf84ce6" date="1998-09-02 22:11:18"/>
+		<rom name="rogue/video/logo.cin" size="3157924" crc="0df00853" md5="258c3dbaa0d7a1c2f1f35731b0eed728" sha1="b954d4f352ca4802a57c22aeaf68fb76ccd05d21" date="1998-08-25 22:08:48"/>
+		<rom name="rogue/video/rend.cin" size="22580919" crc="84a1f81e" md5="ee51eb59ac4b75fb432af829235d656c" sha1="7788691774125b7193c55b6b205f8c6a96f2736c" date="1998-09-01 08:43:02"/>
+		<rom name="rogue/video/reu1_.cin" size="13926931" crc="cd050220" md5="72137151ae5d7528aaf999975c2e105b" sha1="f44cbc4058cb6428ce8d3eb436395fa62d035823" date="1998-09-01 08:59:20"/>
+		<rom name="rogue/video/reu2_.cin" size="12118957" crc="be108ed5" md5="ed125b89f04f5454c9e101654601539f" sha1="7e5bc0a4b56d8fc12134b5607b3a4025dc1243d1" date="1998-09-01 08:59:48"/>
+		<rom name="rogue/video/reu3_.cin" size="12172697" crc="f3e243d3" md5="dca7fd5fe6680ff066808798478fd139" sha1="69918cdfad9ec6e9c4e0d82e330e6cfcb975654f" date="1998-09-01 09:00:32"/>
+		<rom name="rogue/video/reu4_.cin" size="14809635" crc="8bcdc9e6" md5="1db9b40d45926bbdeae66e92eeee1c5b" sha1="65756654193ee74aaffc792c7d1ade463d98c4ad" date="1998-09-01 09:01:22"/>
+		<rom name="rogue/video/rintro.cin" size="38434032" crc="fc019931" md5="3b6b90af398deccff95dbba63a8a38bf" sha1="7b79eab8955e632153d3dc9e5435885909cc7052" date="1998-09-01 03:53:32"/>
 	</game>
-	<game name="Quake II Mission Pack - The Reckoning (1998) (id Software).dosz">
+	<game name="Quake II Mission Pack - The Reckoning (1998) (Xatrix Entertainment).dosz">
 		<description>Quake II Mission Pack - The Reckoning</description>
-		<comment>The Reckoning v3.20 with Q2DOS 2021-07-21</comment>
-		<comment_dosc>Auto start and a BAT file for launching the game</comment_dosc>
 		<year>1998</year>
-		<developer>id Software</developer>
+		<developer>Xatrix Entertainment</developer>
 		<parent>Quake II (1997) (id Software).dosz</parent>
+		<comment>
+			The Reckoning v3.20 with Q2DOS 2024-08-17
+			CHDtoOGG used to convert CD image matching with Redump: Quake II Mission Pack - The Reckoning (USA)
+			Track 3 = track13.ogg, Track 4 = track14.ogg, Track 8 = track15.ogg, Track 6 = track16.ogg, Track 11 = track18.ogg (other tracks are inherited from Quake II)
+		</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="media">http://redump.org/disc/51202/</link>
 		<rom name="Quake II (1997) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="Quake II Mission Pack - The Reckoning (USA).chd" size="570423168" crc="47fa3f5b" md5="0ccc3f80d79cf7b6904846e0a68c9517" sha1="0a5ff6aaca29ca6ae4d357a8ef4ac41774d3ed54">
-			<track number="1" type="MODE1_RAW" frames="102538" pregap="0" duration="22:47:13" size="241169376" crc="aefa5c3a" md5="3ad68e8892daa2c4801b1b87f9267c46" sha1="5d3c9f7cb3e7437d49f16253f8e4dbe2627c3683" in_zeros="1" out_zeros="0"/>
-			<track number="2" type="AUDIO" frames="11762" pregap="75" duration="02:36:62" size="27664224" crc="cdf823cb" md5="1de23a412ba0e1f321593966ef49d891" sha1="cfd34d9720a4053be46427629e4f0b62b1cd9b90" in_zeros="179176" out_zeros="5969"/>
-			<track number="3" type="AUDIO" frames="11661" pregap="149" duration="02:35:36" size="27426672" crc="d4b229a0" md5="fccf9e7b49294694a04e11703c9bf2cb" sha1="049be07ec0dfd2e87bd9bfaa7d0c29853f981ee8" in_zeros="353226" out_zeros="5296"/>
-			<track number="4" type="AUDIO" frames="14471" pregap="149" duration="03:12:71" size="34035792" crc="df4400e8" md5="7ab6880bee3d2e6b5ea4e609b7fe681d" sha1="175bd18b667c23e6140e1fc19014f6038bec9977" in_zeros="353226" out_zeros="6361"/>
-			<track number="5" type="AUDIO" frames="16279" pregap="149" duration="03:37:04" size="38288208" crc="4693cdc9" md5="3efe9b31b98b549960f1615cb037e670" sha1="02b30dfd93e16bfd0b8f29c75490bee867875056" in_zeros="353226" out_zeros="4364"/>
-			<track number="6" type="AUDIO" frames="13487" pregap="149" duration="02:59:62" size="31721424" crc="a627226a" md5="976acfc8b356626849be91c14b2f43d7" sha1="f7a9b576b1e0195eb47b76ce110de2381d4c1140" in_zeros="353226" out_zeros="5153"/>
-			<track number="7" type="AUDIO" frames="15806" pregap="149" duration="03:30:56" size="37175712" crc="9475f6ca" md5="2f395b4598658192fedd03552d29c2cd" sha1="5cf58bbb1506feba87de5d3c5147eb1877f2ae25" in_zeros="353225" out_zeros="5052"/>
-			<track number="8" type="AUDIO" frames="13231" pregap="149" duration="02:56:31" size="31119312" crc="ea89596e" md5="353303c3b3aac19dd09897e1ef734288" sha1="5af678ada8af5541a418c2f94c595c16d75604f9" in_zeros="353226" out_zeros="4978"/>
-			<track number="9" type="AUDIO" frames="10469" pregap="149" duration="02:19:44" size="24623088" crc="afac9abd" md5="d4a3e363aae511cffd757c00d8bd4f1f" sha1="936d99459e45edd7376c032894bc82e52d9a5ade" in_zeros="353224" out_zeros="5175"/>
-			<track number="10" type="AUDIO" frames="11552" pregap="149" duration="02:34:02" size="27170304" crc="5423b8c1" md5="0aac4d4e5a1cc94e944a340cdfb2aede" sha1="ebd25ce813b836a67b5ac0b07f8a1063b12655f3" in_zeros="353224" out_zeros="5412"/>
-			<track number="11" type="AUDIO" frames="13053" pregap="149" duration="02:54:03" size="30700656" crc="672496c2" md5="f8fc44ff29176e6fb61b555394063bdf" sha1="9e8782cadef2ca7f7082c489817029c7daf5e98e" in_zeros="353224" out_zeros="2692"/>
+		<rom name="baseq2/music/track13.ogg" size="4117161" crc="21daed65" md5="63706e9c63f1aba99e84b150926c080a" sha1="2e6e2a49755202682bd0c5aba184ef15fe860452">
+			<source type="AUDIO" frames="11512" omitted_pregap="149" duration="02:33:37" size="27076224" crc="b8bacd95" md5="bf755f6f4641cba7f1184bfaa3e996a3" sha1="cda1834f8b2771b72bd7a3653aaea258e0238c17" in_zeros="2778" out_zeros="5296" quality="8"/>
+		</rom>
+		<rom name="baseq2/music/track14.ogg" size="5446057" crc="49b4c1d7" md5="a12be55d051b6249cbf61b15d9eca654" sha1="8f361b0ec2f6b3537150fc96d4e2cdbc09a608af">
+			<source type="AUDIO" frames="14322" omitted_pregap="149" duration="03:10:72" size="33685344" crc="2164c97a" md5="3cde7e6e93e082a0d21744e57115fa33" sha1="f6bf2df9729b9c1fc2662ba28528946fa90a2628" in_zeros="2778" out_zeros="6361" quality="8"/>
+		</rom>
+		<rom name="baseq2/music/track15.ogg" size="4833504" crc="676122d7" md5="018dffa5d3cdb1c179280870067404e1" sha1="13d2c59f397ced634f1e064a070e85ffeba3eed1">
+			<source type="AUDIO" frames="13082" omitted_pregap="149" duration="02:54:32" size="30768864" crc="8845d530" md5="147c880b1ce1b7c0ed631a32c9ccb92a" sha1="940db3363cfc558f8ac7906a5d9a47188c9e51ac" in_zeros="2778" out_zeros="4978" quality="8"/>
+		</rom>
+		<rom name="baseq2/music/track16.ogg" size="5077499" crc="57bd504f" md5="829ae65ab23102c9b81d8b311c5d8672" sha1="d9519b09b9acc1b843a579ad8493355d01ec07a0">
+			<source type="AUDIO" frames="13338" omitted_pregap="149" duration="02:57:63" size="31370976" crc="f295b6c6" md5="f0fd5b51927caa205036e1ae3cfa75f1" sha1="cae22189f910ae64875521b715821e8977ec99cd" in_zeros="2778" out_zeros="5153" quality="8"/>
+		</rom>
+		<rom name="baseq2/music/track18.ogg" size="5237869" crc="f8762626" md5="9639b92d05a93e816b877e1012f7784d" sha1="79b16191c7023185fba90cb37340140aa7ed2cca">
+			<source type="AUDIO" frames="12904" omitted_pregap="149" duration="02:52:04" size="30350208" crc="67b1fda7" md5="078be5d797d56766104da5e0a0a43742" sha1="0cd7728ce02b69d1e20e8f2ee8356bd5e9ab59f4" in_zeros="2776" out_zeros="2692" quality="8"/>
 		</rom>
 		<rom name="xatrix/gamex86.dll" size="468992" crc="cd5dfd89" md5="ec77f4b1722bd1755e80dd5bfa91a27e" sha1="93f7e1e3cb347221906b4ba6404637f5c382f0b2" date="1998-10-16 15:39:30"/>
-		<rom name="xatrix/pak0.pak" size="93310499" crc="f2b3724e" md5="f5e7b04f7d6b9530c59c5e1daa873b51" sha1="05070e2567ac3f726b4ef8eb62f0c645cdc24547" date="1998-05-17 18:22:26"/>
-		<rom name="xatrix/video/idlog.cin" size="3159828" crc="6c91ba56" md5="0747670d94cc873f8ce522d7652143a1" sha1="d5538f2b4f5eba4e7d9465d14c7f984686387fd7" date="1997-11-26 19:05:16"/>
-		<rom name="xatrix/video/logo.cin" size="4704610" crc="c5328fcd" md5="ec903190f143a5d52eee0fd36f755f7a" sha1="e9e8e03ae07dc31b58c9bd6c1846b03c25ed9450" date="1998-05-07 07:16:14"/>
-		<rom name="xatrix/video/xin.cin" size="13226649" crc="aa12e1a7" md5="1143b2b76e4e218192cb6640bf71b2a1" sha1="995a1c746036da47906c42f84dccc48d85b863da" date="1998-05-13 06:48:00"/>
-		<rom name="xatrix/video/xout.cin" size="11194445" crc="1e2de301" md5="a0d77fc0672986b572f3f514ac5ec555" sha1="ca917aa09a8bab1e3b26fc48831b37db9951269f" date="1998-05-12 12:13:42"/>
-		<rom name="xatrix/video/xu1.cin" size="18476149" crc="02f42d4b" md5="1079f01bd0ad17faf2405a266d7d4733" sha1="98f4a4acb55205d18a075e10fe11beaaa8274d4c" date="1998-05-01 13:07:42"/>
-		<rom name="xatrix/video/xu2.cin" size="14513573" crc="752a0586" md5="e0c7f0af29060ebe7476ea4b000b096d" sha1="587d53e951d7687e56c66954c1dcf7850642b61d" date="1998-05-01 13:08:14"/>
-		<rom name="xatrix/video/xu3.cin" size="9192461" crc="43465ab8" md5="9ad6f4cbc9834784420a3b6bd6d2c76b" sha1="420e0463f44337dcea84d0340dfd504b8289b9c3" date="1998-05-01 13:08:40"/>
-		<rom name="xatrix/video/xu4.cin" size="14874670" crc="8ae0be42" md5="441e0e33ef48aa028896dfcee3613f74" sha1="b4de86dc16c59ca93c9f2953d8e273dbe4272e87" date="1998-05-01 13:09:18"/>
+		<rom name="xatrix/pak0.pak" size="93310499" crc="f2b3724e" md5="f5e7b04f7d6b9530c59c5e1daa873b51" sha1="05070e2567ac3f726b4ef8eb62f0c645cdc24547" date="1998-05-17 22:22:26"/>
+		<rom name="xatrix/video/idlog.cin" size="3159828" crc="6c91ba56" md5="0747670d94cc873f8ce522d7652143a1" sha1="d5538f2b4f5eba4e7d9465d14c7f984686387fd7" date="1997-11-26 23:05:16"/>
+		<rom name="xatrix/video/logo.cin" size="4704610" crc="c5328fcd" md5="ec903190f143a5d52eee0fd36f755f7a" sha1="e9e8e03ae07dc31b58c9bd6c1846b03c25ed9450" date="1998-05-07 11:16:14"/>
+		<rom name="xatrix/video/xin.cin" size="13226649" crc="aa12e1a7" md5="1143b2b76e4e218192cb6640bf71b2a1" sha1="995a1c746036da47906c42f84dccc48d85b863da" date="1998-05-13 10:48:00"/>
+		<rom name="xatrix/video/xout.cin" size="11194445" crc="1e2de301" md5="a0d77fc0672986b572f3f514ac5ec555" sha1="ca917aa09a8bab1e3b26fc48831b37db9951269f" date="1998-05-12 16:13:42"/>
+		<rom name="xatrix/video/xu1.cin" size="18476149" crc="02f42d4b" md5="1079f01bd0ad17faf2405a266d7d4733" sha1="98f4a4acb55205d18a075e10fe11beaaa8274d4c" date="1998-05-01 17:07:42"/>
+		<rom name="xatrix/video/xu2.cin" size="14513573" crc="752a0586" md5="e0c7f0af29060ebe7476ea4b000b096d" sha1="587d53e951d7687e56c66954c1dcf7850642b61d" date="1998-05-01 17:08:14"/>
+		<rom name="xatrix/video/xu3.cin" size="9192461" crc="43465ab8" md5="9ad6f4cbc9834784420a3b6bd6d2c76b" sha1="420e0463f44337dcea84d0340dfd504b8289b9c3" date="1998-05-01 17:08:40"/>
+		<rom name="xatrix/video/xu4.cin" size="14874670" crc="8ae0be42" md5="441e0e33ef48aa028896dfcee3613f74" sha1="b4de86dc16c59ca93c9f2953d8e273dbe4272e87" date="1998-05-01 17:09:18"/>
+	</game>
+	<game name="Quake Mission Pack No. 1 - Scourge of Armagon (1997) (Hipnotic Interactive).dosz">
+		<description>Quake Mission Pack No. 1 - Scourge of Armagon</description>
+		<year>1997</year>
+		<developer>Hipnotic Interactive</developer>
+		<parent>Quake (1996) (id Software).dosz</parent>
+		<comment>
+			Installed v1.0 from CD matching with Redump: Quake Mission Pack No. 1 - Scourge of Armagon (USA)
+			Converted CD image with CHDtoOGG using -n option
+		</comment>
+		<comment_dosc>640x480 resolution and auto start</comment_dosc>
+		<link type="media">http://redump.org/disc/20166/</link>
+		<rom name="CD/Quake Mission Pack No. 1 - Scourge of Armagon (USA) (Track 1).bin" size="43008" crc="10d89042" md5="73db37b47ede9da7e9fbaae52c6c8a8b" sha1="8a2846aac1e2ceb8a08a9cd5591e9a85228d5cab"/>
+		<rom name="CD/Quake Mission Pack No. 1 - Scourge of Armagon (USA) (Track 2).ogg" size="6128086" crc="f98349ee" md5="ef97401c590ff6b1745c0e790a06fd37" sha1="fde092292d71cbfbd3d5a664432da94b5e46b7a2">
+			<source type="AUDIO" frames="14313" omitted_pregap="74" duration="03:10:63" size="33664176" crc="b198eb07" md5="7e58ce218190b5247ea175f24e5efd1f" sha1="3469e5d4b1f1607d84c3019c04708655e9c04dd9" in_zeros="10004" out_zeros="349633" quality="8"/>
+		</rom>
+		<rom name="CD/Quake Mission Pack No. 1 - Scourge of Armagon (USA) (Track 3).ogg" size="5164782" crc="97f2da8d" md5="78c724b9b2e1a57347f68b50c6f9da5c" sha1="b2d877504cb8d35d72e100bfb29f4691bb64f641">
+			<source type="AUDIO" frames="14338" duration="03:11:13" size="33722976" crc="d7105bc2" md5="8f01257507bc713b2f6b40cc6b0fcd77" sha1="a0c240af8660a5a1ab6429cc8d21183a7b06c5f5" in_zeros="10004" out_zeros="347981" quality="8"/>
+		</rom>
+		<rom name="CD/Quake Mission Pack No. 1 - Scourge of Armagon (USA) (Track 4).ogg" size="6735071" crc="3e5bea07" md5="4bfde5d184d06424c0302931e005e9d5" sha1="f1c088cfb76c9a5984a4ce9ac20f12d601dd2847">
+			<source type="AUDIO" frames="13778" duration="03:03:53" size="32405856" crc="9b11d7bb" md5="a8b4a692c17b82b587b7dfcd1cdd51cc" sha1="eab1020eb2f52a33c4aa2496479b9fa5b7c0fc2a" in_zeros="10004" out_zeros="348080" quality="8"/>
+		</rom>
+		<rom name="CD/Quake Mission Pack No. 1 - Scourge of Armagon (USA) (Track 5).ogg" size="5647048" crc="3cdd4969" md5="8c2cae908f3bf32250acc041c4726d6b" sha1="084f13c236e2dc054092183581425795b0f72dc0">
+			<source type="AUDIO" frames="14422" duration="03:12:22" size="33920544" crc="79007ec7" md5="e203ad2d10f345944a5aeeaef5a84dd5" sha1="ef8264ff8a04cbf1d8f5b8a84c70218a9c9f014d" in_zeros="10004" out_zeros="347684" quality="8"/>
+		</rom>
+		<rom name="CD/Quake Mission Pack No. 1 - Scourge of Armagon (USA) (Track 6).ogg" size="5562125" crc="c8414b1e" md5="a5e0d2a8e7194a41860ae4722ab5f8d5" sha1="68ee38ddfe0ef315afe8c5ec0300c6dffa387c84">
+			<source type="AUDIO" frames="14480" duration="03:13:05" size="34056960" crc="910d6668" md5="a12a309a9653cdf6aa7941eff3fe7ae4" sha1="9bb4dc0d07709aa14c7d6f2ffc16ae61f28a5b44" in_zeros="10004" out_zeros="348961" quality="8"/>
+		</rom>
+		<rom name="CD/Quake Mission Pack No. 1 - Scourge of Armagon (USA) (Track 7).ogg" size="5266927" crc="71f9dc01" md5="c3a877352efe61f68f709c0f7c820c31" sha1="9b8681e8132dbe9cc248b4ec8869e5972b6ab51c">
+			<source type="AUDIO" frames="13999" duration="03:06:49" size="32925648" crc="5002c01f" md5="39e407d7ed3b816adcb81b72443257b5" sha1="e2ae714998cc2759d57606cd07a13f90f0efb270" in_zeros="10004" out_zeros="347628" quality="8"/>
+		</rom>
+		<rom name="CD/Quake Mission Pack No. 1 - Scourge of Armagon (USA) (Track 8).ogg" size="5783761" crc="e8630264" md5="8ac2ab96b4d12672b3b27a25ae1177d3" sha1="835aef3e5afeba85f7bf23a1e20c258cf5e59e6c">
+			<source type="AUDIO" frames="13743" duration="03:03:18" size="32323536" crc="89352c41" md5="1f809397db12d9e97e96e08bf2c80582" sha1="9a626606f0208d632b9dc6ea50710022d465ff8d" in_zeros="10004" out_zeros="349252" quality="8"/>
+		</rom>
+		<rom name="CD/Quake Mission Pack No. 1 - Scourge of Armagon (USA) (Track 9).ogg" size="5022574" crc="bc6c5222" md5="4e84efd61bdf52e0c978fd974a047145" sha1="f09ca5e00acb393ddd1ee320bf0bda03686ae220">
+			<source type="AUDIO" frames="13755" duration="03:03:30" size="32351760" crc="58d2a520" md5="cd5c07fb049ada0a22ea5b5d831d447a" sha1="dc775a80ca4da3fbbee22a42ca382637a9c89e68" in_zeros="10004" out_zeros="2352" quality="8"/>
+		</rom>
+		<rom name="CD/Quake Mission Pack No. 1 - Scourge of Armagon (USA).cue" size="1100" crc="6876041b" md5="13b150a33ac55f04f9b5a98637edba95" sha1="230936d9149b985740391ec1e88b28c3b046556c"/>
+		<rom name="HIPNOTIC/PAK0.PAK" size="35527205" crc="d17835fb" md5="0ab83681aaf841c4320269e02941a14a" sha1="1b089a41dd0cf9268668a5072acfb858a7fb8cc2" date="1997-02-11 18:41:06"/>
+		<rom name="Quake (1996) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Quake Mission Pack No. 2 - Dissolution of Eternity (1997) (Rogue Entertainment).dosz">
+		<description>Quake Mission Pack No. 2 - Dissolution of Eternity</description>
+		<year>1997</year>
+		<developer>Rogue Entertainment</developer>
+		<parent>Quake (1996) (id Software).dosz</parent>
+		<comment>
+			Installed v1.0 from CD matching with Redump: Quake Mission Pack No. 2 - Dissolution of Eternity (USA)
+			Converted CD image with CHDtoOGG using -n option
+		</comment>
+		<comment_dosc>640x480 resolution and auto start</comment_dosc>
+		<link type="media">http://redump.org/disc/20167/</link>
+		<rom name="CD/Quake Mission Pack No. 2 - Dissolution of Eternity (USA) (Track 1).bin" size="43008" crc="10d89042" md5="73db37b47ede9da7e9fbaae52c6c8a8b" sha1="8a2846aac1e2ceb8a08a9cd5591e9a85228d5cab"/>
+		<rom name="CD/Quake Mission Pack No. 2 - Dissolution of Eternity (USA) (Track 2).ogg" size="5994620" crc="3289adde" md5="5a806935ddbd02d8faaee42a2e73b4f8" sha1="bdae25903d945c92acb149873955dc7dbd38f29a">
+			<source type="AUDIO" frames="14400" omitted_pregap="74" duration="03:12:00" size="33868800" crc="0c4470cd" md5="78f6da0a387136ca7797dfd749f0f797" sha1="c804d5683f9436f818f67666ea02e8c926bae3fa" in_zeros="10024" out_zeros="348376" quality="8"/>
+		</rom>
+		<rom name="CD/Quake Mission Pack No. 2 - Dissolution of Eternity (USA) (Track 3).ogg" size="5648861" crc="b928faa0" md5="3ee1e439dba3c4bd423c2cf6d2df80cd" sha1="7e49e0f348ba40b6253a38adb547ea6f3c29632b">
+			<source type="AUDIO" frames="14226" duration="03:09:51" size="33459552" crc="5212126e" md5="c19802eff59dfa7ce3aeaba9338200d9" sha1="9db85ec87d30ebdc045d3cbae5ff2545c7b50fe2" in_zeros="10024" out_zeros="349241" quality="8"/>
+		</rom>
+		<rom name="CD/Quake Mission Pack No. 2 - Dissolution of Eternity (USA) (Track 4).ogg" size="5776683" crc="11a2e96a" md5="9cc017a344a51825fd22fae3d08a8119" sha1="3d2cf1ccc25c1935274f8bc5bed11c577c8ea2e8">
+			<source type="AUDIO" frames="14011" duration="03:06:61" size="32953872" crc="ddddf093" md5="25141df52cb2bd6968a0708616e68400" sha1="f2919ff443c37086edd5e3de425266967a63800c" in_zeros="10024" out_zeros="349416" quality="8"/>
+		</rom>
+		<rom name="CD/Quake Mission Pack No. 2 - Dissolution of Eternity (USA) (Track 5).ogg" size="5702261" crc="42cf707e" md5="899897ab66692073b70b5b47bdb41c8d" sha1="640797a59d6ff4407c5fbe82c61c5c12556425e7">
+			<source type="AUDIO" frames="14191" duration="03:09:16" size="33377232" crc="94456e87" md5="6e3fffced88c1a4538f68bcc77fc7f29" sha1="280a51dbd9ce110395a7eef7619db9344cf1de1c" in_zeros="10024" out_zeros="349109" quality="8"/>
+		</rom>
+		<rom name="CD/Quake Mission Pack No. 2 - Dissolution of Eternity (USA) (Track 6).ogg" size="6167698" crc="9b1f0a50" md5="3f2893f213d7ecda251a4ba5204c0887" sha1="51e7035dd8301dd284f2ef80f1410515a31e5ba1">
+			<source type="AUDIO" frames="14801" duration="03:17:26" size="34811952" crc="24fcc35c" md5="68ab61da8b4b9db836eb83949ae9e02a" sha1="eada1f8086a329b96e80ca94127a895a8e5c85b1" in_zeros="10024" out_zeros="348936" quality="8"/>
+		</rom>
+		<rom name="CD/Quake Mission Pack No. 2 - Dissolution of Eternity (USA) (Track 7).ogg" size="5458352" crc="26aa25ba" md5="4e05dd0bbd5307b32c73d3c44a7c7a30" sha1="f703daf00ceafb2c190288e757b14bc3355734c1">
+			<source type="AUDIO" frames="13801" duration="03:04:01" size="32459952" crc="68f087e0" md5="d57bf13bc84fd8ede31465f04f7d4703" sha1="37c5e14ee825f6bb60155ce3da696dd5c9cd3c73" in_zeros="10024" out_zeros="348553" quality="8"/>
+		</rom>
+		<rom name="CD/Quake Mission Pack No. 2 - Dissolution of Eternity (USA) (Track 8).ogg" size="5167313" crc="582533ac" md5="fb60ff6d06a04ea8da269ff51e2f31d3" sha1="28e3c823954417ea9bf1bf2d59e252d898001fab">
+			<source type="AUDIO" frames="13993" duration="03:06:43" size="32911536" crc="48c07fc5" md5="3e88c53cb6f7ecb432d0a31db743a6e8" sha1="b6a690f24cbacc80bf3c4fbebbcb6e98e4faf57e" in_zeros="10024" out_zeros="347529" quality="8"/>
+		</rom>
+		<rom name="CD/Quake Mission Pack No. 2 - Dissolution of Eternity (USA) (Track 9).ogg" size="5342441" crc="66f174fd" md5="d75546248cf36e9c217ffc5b14781125" sha1="49fa175c127ac2cf1b6233b5f25a2dd638806487">
+			<source type="AUDIO" frames="14210" duration="03:09:35" size="33421920" crc="c35710a0" md5="5eb5f76728db7f619fe6b6380550daa8" sha1="fa3cf0a0c7b66b8c620ca364ae952aca8bd6b5e6" in_zeros="10024" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="CD/Quake Mission Pack No. 2 - Dissolution of Eternity (USA).cue" size="1145" crc="2bdc5354" md5="0fa7c55e016933f72ab394cba45bc7ae" sha1="bf4dbef8e431cc17a31d5136eb3bbe0f9d4b5aed"/>
+		<rom name="Quake (1996) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="ROGUE/1FLAG.BAT" size="48" crc="b78e9625" md5="5508244d4357015601337588783db89d" sha1="c48fd909948932789aba974a0fb215af49776dd9" date="1997-03-09 11:52:14"/>
+		<rom name="ROGUE/3TEAM.BAT" size="48" crc="2e6cf024" md5="a01a32476eed878f7ecee4967c3bde76" sha1="af879a3562f3bb46bf24002ee0a0e74d92985be1" date="1997-03-09 11:52:20"/>
+		<rom name="ROGUE/CTF.BAT" size="48" crc="760049e5" md5="150688afdaa5750e28a943fccda8c5c5" sha1="b524e7f4a2888df9b11877af4329510c92af1a74" date="1997-03-09 11:52:26"/>
+		<rom name="ROGUE/DEDICATE.BAT" size="40" crc="c0a14592" md5="d4d713a98401ada0aef5028ccc3d9429" sha1="4b15224854b17187d5347a151299ac078eaf7926" date="1997-03-09 11:52:36"/>
+		<rom name="ROGUE/DISS.BAT" size="18" crc="4b474473" md5="d75b4947393954004557acfb67e1f213" sha1="797fd4f47b23c9b0731fbb56875ec4b9f7849650" date="1997-03-11 09:31:32"/>
+		<rom name="ROGUE/LISTEN.BAT" size="26" crc="ee3db7a8" md5="2aa14e2dfe1476f3f7f4e8fc5800d216" sha1="ed95dde24333db09a2b3b308ccfc7d8fb3370b2e" date="1997-03-11 09:31:24"/>
+		<rom name="ROGUE/PAK0.PAK" size="37875279" crc="38b70ce8" md5="c38a4e04219c317cd1b02f386bdfe11f" sha1="78df8ce771d1bef5eb9da3d51c7628b11b4ae2c8" date="1997-03-11 14:35:30"/>
+		<rom name="ROGUE/TAG.BAT" size="49" crc="6200c184" md5="76e402dbe29b4ef690d1782317722a9a" sha1="555bdf58d60674d735fffe9a14d5610f9cbe89b5" date="1997-03-07 15:38:20"/>
 	</game>
 	<game name="Realms of Chaos (1995) (Apogee Software).dosz">
 		<description>Realms of Chaos</description>
@@ -20707,10 +20872,11 @@
 	</game>
 	<game name="Warcraft - Orcs &amp; Humans (1994) (Blizzard Entertainment).dosz">
 		<description>Warcraft - Orcs &amp; Humans</description>
-		<comment>Installed v1.22h from CD re-release from 1996</comment>
-		<comment_dosc>Sound config</comment_dosc>
 		<year>1994</year>
 		<developer>Blizzard Entertainment</developer>
+		<comment>Installed v1.22h from CD matching with Redump: WarCraft - Orcs &amp; Humans (USA) (Rerelease) (1996-10-13)</comment>
+		<comment_dosc>Sound Blaster 16 config and auto start. General MIDI option</comment_dosc>
+		<link type="media">http://redump.org/disc/35137/</link>
 		<rom name="DATA/CAVE1.WAR" size="3249252" crc="de16ca10" md5="ae8fcf5bf23f337c013f134acaa67176" sha1="c204475b73aa2cb86caf1da17360f1c542763cea" date="1994-10-15 03:46:06"/>
 		<rom name="DATA/CAVE2.WAR" size="72094" crc="fce1f529" md5="0aed9e150dcb64708820f4237af5624d" sha1="0e0511efedbe9814925c7a61b56d844b7bb772db" date="1994-10-15 03:46:12"/>
 		<rom name="DATA/CAVE3.WAR" size="1081692" crc="5729b05f" md5="81554cf0730d0f76474a61e2a536f1e2" sha1="4c7485c83c672d23c6c62ace0da38ef3951482d5" date="1994-10-15 03:46:08"/>
@@ -20777,193 +20943,273 @@
 		<rom name="WAR_EDIT.EXE" size="41792" crc="fc27bfe6" md5="6e40e4f0f53bdf5a29d05d948487a6d8" sha1="54aa44173d481c412437238d3e3511f07b667d26" date="1996-09-07 03:08:50"/>
 		<rom name="WAR_EDIT.TXT" size="4134" crc="71f95709" md5="cee5170c7bccb2165f3a979db777d2f5" sha1="1cd2e33bd7a3cccc82f0da4a0886fe2ad7ed1cd7" date="1996-09-07 03:08:50"/>
 	</game>
-	<game name="Warcraft II - Tides of Darkness + Beyond the Dark Portal (1996) (Blizzard Entertainment).dosz">
-		<description>Warcraft II - Tides of Darkness + Beyond the Dark Portal</description>
-		<comment>Main game with expansion v1.33 installed from CD rereleases, CD images made from BIN/CUE</comment>
-		<comment_dosc>Sound config</comment_dosc>
+	<game name="Warcraft II - Beyond the Dark Portal (1996) (Blizzard Entertainment).dosz">
+		<description>Warcraft II - Beyond the Dark Portal</description>
 		<year>1996</year>
 		<developer>Blizzard Entertainment</developer>
-		<rom name="ALAMO.PUD" size="71902" crc="dd714468" md5="4b5cf9bdc9820045e00aa0809a93b77c" sha1="cac77b156bfb19dc256e9a8377629809e3a7db6e"/>
-		<rom name="AUTOKILL.EXE" size="4608" crc="1acc03c9" md5="65b71b45dade2a7ad31910fd61c51983" sha1="88b26faaa0bb63765f14344bbae09f607d5452bf"/>
-		<rom name="CHANNEL.PUD" size="71486" crc="09c4925c" md5="1948d2c3f0d3210091cc170ebd3eaead" sha1="1da09e1088113c653d3a1abbab570adb9bb18f2d"/>
-		<rom name="DATA/INSMAIN.INS" size="213855" crc="80064116" md5="89a910209b6d0bab136330124896330b" sha1="430130712055d514cbcfc20c352f065c83afdb5d"/>
-		<rom name="DATA/INSSTR.INS" size="12513" crc="57e6f593" md5="818af782449183d269e6e03178ba4f32" sha1="e926496ab888a283fc98f6a3454e07eb08fb8c18"/>
-		<rom name="DATA/MAINDAT.WAR" size="9831037" crc="04759fb9" md5="ffc62597b2001be9f30b13e908a2ec2a" sha1="a1adc3db34e991108d5a230164ada05a591de9ef"/>
-		<rom name="DATA/REZDAT.WAR" size="2811086" crc="61704053" md5="65321083c9b21fb6c2f31c6b52dec4e0" sha1="462c8d4f5a01bd0ce9175dc0e4b7b3c7f166a3ac"/>
-		<rom name="DATA/SFXDAT.SUD" size="5653599" crc="3641d942" md5="5443f7b8d9163a53b03e5d976f4e268b" sha1="725724f0b98df4f08fda013e20673031ec5d5903"/>
-		<rom name="DATA/STRDAT.WAR" size="77524" crc="0158213a" md5="eaee6010c559683d841158c930786651" sha1="23b2996572971bffaee01eb513915e40adf2cb3b"/>
-		<rom name="DEATH.PUD" size="37086" crc="e4853f46" md5="0f910d7d66ff3fa571fae1b800e8c2a7" sha1="8de2640c5b7d3ffb753aa1cbd8bdf8d31a165548"/>
-		<rom name="DRAGON.PUD" size="122006" crc="4be95c7a" md5="e56332d7feeaceba2aa2f153d37eba88" sha1="a66dec6d2171c7c8b3856594068c8a69cf020844"/>
-		<rom name="DRIVERS/ADLIB.MDI" size="14986" crc="6871f64c" md5="5cb112d060d70a43ee7c89b7ffe4f029" sha1="1f19c757259cac7b5f04281ac8830f8bece3c8d2"/>
-		<rom name="DRIVERS/ADLIBG.MDI" size="16377" crc="1d2a278b" md5="79d8137d4e6b78735b78cd8a4bd14827" sha1="14f61539bf8438f68add723fef2ef76821fa9fd8"/>
-		<rom name="DRIVERS/ADRV688.DIG" size="11278" crc="96dfb75d" md5="feabc78729e3a458ae2f6ab40146f0d9" sha1="255ecb5d649895d65bca49bd6afcbdf875e34bf2"/>
-		<rom name="DRIVERS/AILDRVR.LST" size="16885" crc="b13debb6" md5="83b8de65b09c95e7098104b7c9c19829" sha1="90636803056ed37a46c684b9d9ca53d9c4ab6cb0"/>
-		<rom name="DRIVERS/DIGTEST.WAV" size="53868" crc="ead2e54e" md5="c8116a6107886abea0947107b20fe8a7" sha1="50ba3a20a218f46197870ffa3713202f5c2fd038"/>
-		<rom name="DRIVERS/DIGTEST2.WAV" size="34604" crc="1804b1f7" md5="03ef9c1d6f410acd25a1539c7c5b97e7" sha1="69dcc5cf3024fbfd1ef050bae7050b3ed2eea6bf"/>
-		<rom name="DRIVERS/DIGTEST3.WAV" size="53406" crc="33ced2fe" md5="b1082c681446352ab242d56d2820742b" sha1="249a4326280286996d6ce5d9bcf8922d7228b56a"/>
-		<rom name="DRIVERS/ESFM.MDI" size="15084" crc="1aa86b62" md5="133a6b2b01da252dfa11b6e2ec5f5ebf" sha1="08b230f9306245fe00e1c8a098d3a6d3ee41fac0"/>
-		<rom name="DRIVERS/JAMMER.DIG" size="3219" crc="230129e0" md5="4922c729c5e7b347089a2be44f296859" sha1="103e0bf92c6fd1c9fc925fd57bdc22e56170b395"/>
-		<rom name="DRIVERS/MIDITEST.XMI" size="15838" crc="6026b413" md5="f0872c4a02b012e2839020d15ce073bd" sha1="15787f668e76b3d7a28154ddd784aa841623f6ea"/>
-		<rom name="DRIVERS/MIDITST2.XMI" size="15130" crc="1ab3574e" md5="73e8d49efd2e05fa0592e10c935b9f27" sha1="61ca7eab66b61424fa6feaa722d3805dda303d10"/>
-		<rom name="DRIVERS/MPU401.MDI" size="1915" crc="70a67ea6" md5="965a57d16212beb0f68cb9f62bc7259b" sha1="6ee8364704c81319d04a2459dcc8e65460749a30"/>
-		<rom name="DRIVERS/OPL3.MDI" size="16387" crc="74aad2f1" md5="84ce740acea5af9ef8d118174bff88c8" sha1="310b8b21f088ec0180c02c9fbe1edd744d76c9b2"/>
-		<rom name="DRIVERS/PAS.MDI" size="15425" crc="01d01110" md5="bcc2a72a36663f40c019d0af2c95df13" sha1="a94fcb63700f1cbf46698d074526b5db48754b90"/>
-		<rom name="DRIVERS/PASPLUS.MDI" size="16458" crc="c5a2ded9" md5="f5515c19a269ca2b1af13e9b3e3c3d3a" sha1="a9c4967e8ca11c529a49d8a54f8730b223c0289f"/>
-		<rom name="DRIVERS/PROAUDIO.DIG" size="2127" crc="4b071066" md5="a054071be574b2bcf47a0386f1a98ae6" sha1="8debfb262849ebce1da3d45387d1595712c2667b"/>
-		<rom name="DRIVERS/RAP10.DIG" size="2849" crc="47373ef0" md5="bb846bb23ee9065a09373afdb73cf054" sha1="6081bc6e447afeaad48a8361c92e7ce280f6ea7e"/>
-		<rom name="DRIVERS/SB16.DIG" size="2836" crc="6ddaa5d2" md5="b24e361b7634b9b3eafcd2cbb592ba9b" sha1="f0734dae77c034f5cfcd7b353cd75adfb57871af"/>
-		<rom name="DRIVERS/SBAWE32.MDI" size="32694" crc="dd43a7b8" md5="a66e04b5c067b95932857aff75f48f5d" sha1="a608005dd369a07f16e6acdadfd0fcdf95cc02ec"/>
-		<rom name="DRIVERS/SBLASTER.DIG" size="3125" crc="d1b1a7d7" md5="b456d6385b74b700f09aec22ba14ca19" sha1="5eec3b5791ad5855c7a4440909db651b6aca3b2f"/>
-		<rom name="DRIVERS/SBLASTER.MDI" size="15118" crc="670d5af4" md5="20fc92cf9e0d0d8e2447cd30252faee4" sha1="8e44d8bf0291e453d45477c6dd36fbd5ca40ac95"/>
-		<rom name="DRIVERS/SBPRO.DIG" size="2763" crc="1061490f" md5="b0fe50da778c24cc4066e960a3d1a7c3" sha1="8bc27ebd0ec30dabfd354b948801946b7e8f33d8"/>
-		<rom name="DRIVERS/SBPRO1.MDI" size="15471" crc="25370f67" md5="998eced7549230f6d621766f0cce4c39" sha1="92775d93ad5ee563ae8bf2b6f51ba8d444039e52"/>
-		<rom name="DRIVERS/SBPRO2.MDI" size="16541" crc="0ab0493a" md5="8879265bf3b414346f66c326389e32ae" sha1="4a9d598979e14f4f8c0e76fe0246b305fb848955"/>
-		<rom name="DRIVERS/SNDSCAPE.DIG" size="4171" crc="708a96a2" md5="9d7a052a680f45d244e0ee4735b7b55f" sha1="f9902b74d545813315194f5a1791c4ea0a9a1e0d"/>
-		<rom name="DRIVERS/SNDSCAPE.MDI" size="2971" crc="ad1df3c2" md5="31ec7e6e06a3eb9e0bebff3e52ef1b0f" sha1="01e3ffef3aa6e9d312f190a9403ff8d167743aed"/>
-		<rom name="DRIVERS/SNDSYS.DIG" size="3332" crc="86ecb774" md5="c67142fe53599b28ff7d53565576dbae" sha1="72a300265348a67c33945d0aa6b5c0ec3933dbcd"/>
-		<rom name="DRIVERS/ULTRA.DIG" size="9478" crc="430d67f5" md5="000e584a06712d2f2b58eb2e17b65248" sha1="4327d6bb924b4e40fa7ff035bdfb73a879c31836"/>
-		<rom name="DRIVERS/ULTRA.MDI" size="49672" crc="04849dc3" md5="9a1b881ab9e8f6d827f6c27c5df40d85" sha1="8337ada0962de33ee3eb8ebbf9d5d0c898f41fd2"/>
-		<rom name="DRIVERS/WARCRAFT.AD" size="3622" crc="d986716d" md5="432b2e2d05f1e1e00ca9eeb814a693b0" sha1="f0033a93d52f1cb112f7b89028afbe5b1815eb6d"/>
-		<rom name="DRIVERS/WARCRAFT.OPL" size="3622" crc="d986716d" md5="432b2e2d05f1e1e00ca9eeb814a693b0" sha1="f0033a93d52f1cb112f7b89028afbe5b1815eb6d"/>
-		<rom name="ICEBRDGE.PUD" size="122510" crc="04846780" md5="514b826ce910157238a86e119f7bb9a3" sha1="57313e40bb41c7b1242aae1bab9afdf68e745673"/>
-		<rom name="ISLANDS.PUD" size="71518" crc="76743537" md5="9e746fb245d7044c54c5ec08cdc4dc19" sha1="7ceaf1bc69880d353ce3c1d190ebbc02c3af09aa"/>
-		<rom name="KALI/FILE_ID.DIZ" size="508" crc="ae2b68ae" md5="5ca4971d89a4a246b1012e1ab352f136" sha1="9c0cdba1e5c749ed1f290f6f683b768d766c5715"/>
-		<rom name="KALI/ISP.HLP" size="27815" crc="54d30216" md5="87a496968efff2cb0827a5e6058d6b05" sha1="e72aaaccd400cff685d03b137f6efaad8c19e304"/>
-		<rom name="KALI/KALI.CFG" size="1015" crc="b801997e" md5="0147ec30fecbbaa4f64e1df9559d43e5" sha1="2a8eb2781ecce62a80f0e1c8bd6e3b323dafd363"/>
-		<rom name="KALI/KALI.DOC" size="57913" crc="298fb89f" md5="68a9b18965efd73fe219d46844b9c03e" sha1="ebb2691e25c5accc316cf333419449d471ae99b8"/>
-		<rom name="KALI/KALI.EXE" size="28641" crc="cc169801" md5="1f80260c4803ee4f556f069168bd5856" sha1="a2606271bd043622f98e4deb5741a23ae5308a6b"/>
-		<rom name="KALI/KALIGAME.FAQ" size="27410" crc="ca6919bb" md5="b341ffd27ebe962d53e7ff5891e43e8b" sha1="91ba93fa250c9284737df784cf95639472fb8f7c"/>
-		<rom name="KALI/KCHAT.CFG" size="850" crc="f01b15db" md5="3d69e71c8f52081ec38cfb277169aa8f" sha1="9d1fcdb82003bd5e240339bb6e37a932d761f487"/>
-		<rom name="KALI/KCHAT.EXE" size="24204" crc="3e333405" md5="bf81d65e52753aa6f9c819c0c983a09e" sha1="705214d3547a30ac5a89d1b26a81e19d3b22f920"/>
-		<rom name="KALI/ORDER.FRM" size="913" crc="487cf28d" md5="356d8200014403f8c70803e5a4ce2d73" sha1="4e870e1457271701c74418358ab9964186d122ed"/>
-		<rom name="KALI/README.NOW" size="1648" crc="050f4da9" md5="4816ff6efcd28b555d0c771e06cab201" sha1="98e41af64067212a5dcb554135e91347d6823115"/>
-		<rom name="KALI/REVISION.LST" size="8558" crc="60fb9e1e" md5="0d47e9607479c7156329d29d004e666f" sha1="0c208f1b1fa2f31cfe0d0673bf25f3be29dce678"/>
-		<rom name="KALI/SNATCH.DOC" size="1701" crc="607f3814" md5="66386a874b5d4dae4da90e59ee0a8ee0" sha1="ca46642d6c442d5a3e879e7d289d43f4b3ea0a73"/>
-		<rom name="KALI/SNATCH.EXE" size="8714" crc="203f9bdd" md5="074a1982820b68122545687c87b40689" sha1="3cc86b742542a20102cb6ec7ef646c4353d6aab6"/>
-		<rom name="KALI/WATTCP.CFG" size="982" crc="fe2d3f7a" md5="2dac35c26bdeb68311dcb60cfa007d43" sha1="3526bdd6033c2e4b632cc0450ad3d7d22af6e54c"/>
-		<rom name="LAND_SEA.PUD" size="71806" crc="31de68e9" md5="f5a2caac77de98c74d797a640b9afbd3" sha1="61e7ade12f82dbd74a0f31fa26a10cfcb5cd7c57"/>
-		<rom name="MUTTON.PUD" size="18790" crc="ee2337c4" md5="ebb44f9cd4e2ab97eb9cda0d4b312bea" sha1="28d8d09b8ce4e3ad44cf0522096ba8517c498d11"/>
-		<rom name="PUDS/MULTI/3VS3.PUD" size="122540" crc="1277ffae" md5="dafde0913c82d8a688118bab5ebf2132" sha1="6b8d9aec0d46fdc2061f2977ba3db6d3c0f5ecf2"/>
-		<rom name="PUDS/MULTI/3VS5.PUD" size="122868" crc="df507fed" md5="2e5773a6ee618be8ff03963e2caab7d9" sha1="ab54f8884289bf4b7325b7241e70d3d11d8cca8b"/>
-		<rom name="PUDS/MULTI/ARENA.PUD" size="35758" crc="42a1617c" md5="05d2c275ea67750e1366552050103741" sha1="a23811659b32f46a0dbec6d5cbf703af58ce8c6e"/>
-		<rom name="PUDS/MULTI/ATOLS.PUD" size="71526" crc="77e739a0" md5="3685dd93ccb26844d9726c9d281ea26d" sha1="a27b130905752e1383ca3b66933dac6c4c6e3e7f"/>
-		<rom name="PUDS/MULTI/BATTLE_1.PUD" size="35862" crc="3ccecf5f" md5="611c83065b743d2e0b9608196c09bf8c" sha1="5c03c4a53145f6f21eed2e68b314c07db7ef4ff0"/>
-		<rom name="PUDS/MULTI/BATTLE_2.PUD" size="35670" crc="2886328f" md5="fbc2288d6d14558e627120d385154855" sha1="7287b52bd7c8e80d97b47e6ab9453d209a9419f3"/>
-		<rom name="PUDS/MULTI/BLACKGLD.PUD" size="121670" crc="73453fef" md5="8ff98397965db4f5c9f08258f860f5cc" sha1="9f2a6d4970c076ee6f072d6ab7014ab53e75ae4c"/>
-		<rom name="PUDS/MULTI/COLLAPSE.PUD" size="71934" crc="5e2ef2d1" md5="aad9293c2db07dc958f6d62ee4e8f934" sha1="86c42bfc9fca0247a1dc17638d140bd4336d6ba9"/>
-		<rom name="PUDS/MULTI/CROWDED.PUD" size="35878" crc="7c0b0864" md5="2a8c29ab48fd24dae4b181c57e858db4" sha1="e64f989035ed0b08de1681b6e9dcd8f9e0de36ab"/>
-		<rom name="PUDS/MULTI/DIAMOND.PUD" size="121702" crc="db3ef103" md5="19d5230e7871bb27413ac0842e9b99c3" sha1="9f3fe8b328bf66286dc913e7cb8fc0d125bae825"/>
-		<rom name="PUDS/MULTI/DUP.PUD" size="71566" crc="b07a5ecb" md5="96417968698699ae2f405a9b0e21af27" sha1="c22a0ca0a847903d7b34a5d3ae7bebd449ddf91b"/>
-		<rom name="PUDS/MULTI/EARS.PUD" size="71478" crc="f7e6fbe0" md5="46e0d831cada88be9fa35a6a6e961bb0" sha1="83939091d2e107ae2127907fa0dd1c831f15f64a"/>
-		<rom name="PUDS/MULTI/FRIENDS.PUD" size="121806" crc="28d79376" md5="28be58f6337bd3b49a21c2027c78301b" sha1="a221f4a4b2c91aafbcdcd9e29de13a3f1fd2b625"/>
-		<rom name="PUDS/MULTI/FUNFOR3.PUD" size="122878" crc="1b563a36" md5="14fd004f9cf431c4f2160ef0a9c49c80" sha1="3be49c6e1c6088e33610af6cb434fb6a0ab3a659"/>
-		<rom name="PUDS/MULTI/GAUNTLET.PUD" size="36382" crc="4cb7f075" md5="5e4105ed08baa34c4108a4872443ec15" sha1="b9a71f266b33a368cae788d9dd364264aac3e838"/>
-		<rom name="PUDS/MULTI/HELL.PUD" size="123342" crc="b4611faf" md5="f8c0fea516f501dd1ac962991406a01c" sha1="949661909643a5e38c4d1a9473e9e25f0f39e9ce"/>
-		<rom name="PUDS/MULTI/HOURGLAS.PUD" size="71518" crc="9d3eae22" md5="8424e6d6c081d5367abcbde999de98d0" sha1="fb3bf6ad10454dbfb0fe403293fe853e163af99a"/>
-		<rom name="PUDS/MULTI/ICEWALL.PUD" size="72598" crc="1449a0d2" md5="da77e438f7b3ac42d8653fca95a042e4" sha1="16ebc4f26dd4fc9973461c1132d3f1e9b492ff9a"/>
-		<rom name="PUDS/MULTI/IRONCROS.PUD" size="122654" crc="72321cb3" md5="4e53e1bfb0459dc5507ae503f82dc127" sha1="448cf32bf5a8e8fad62986633da349ea41b3bc8c"/>
-		<rom name="PUDS/MULTI/ISLES.PUD" size="121878" crc="5e375d5c" md5="96daab6d0c6dc58a72875303484fe9f2" sha1="a804fb6aa9e249e92fe2ee0b25e15183a1072291"/>
-		<rom name="PUDS/MULTI/JIMLAND.PUD" size="122350" crc="c388117c" md5="768d6efefe5b8a0ed95ef1b4812f40cb" sha1="373c89581c27cb03c6164961c9ccf7e0723f2f06"/>
-		<rom name="PUDS/MULTI/KANTHAR.PUD" size="121774" crc="b58c4082" md5="9ffe61e6b65a7c2aa677399df54a5e16" sha1="46b115a79446bb2339e1c7587a2dd788cdb354d0"/>
-		<rom name="PUDS/MULTI/KING.PUD" size="122534" crc="87e67b52" md5="bb86e539bf76b159d16d99c8e5441099" sha1="8647c0f987465c9b31c0fb4286980c744e036f3e"/>
-		<rom name="PUDS/MULTI/MNTNPASS.PUD" size="35710" crc="142bfe36" md5="0a468624cab07b6c7db2752b2761ea94" sha1="71540f0d8dc457fd4b9d8d95679e90da4e98b64f"/>
-		<rom name="PUDS/MULTI/PASSES.PUD" size="71502" crc="bf530efd" md5="7b377b61c023e81e5f1736e2457d75f9" sha1="7946ae426c2d9c75dab8d8a12b888d89b56d46ba"/>
-		<rom name="PUDS/MULTI/PLOTS.PUD" size="121830" crc="a9a1ebfe" md5="5b0aae7e9c638f5b89ed6076ea3e0544" sha1="934ea8ea32dbc71f239505a0f076891fe1190e67"/>
-		<rom name="PUDS/MULTI/RAIDERS.PUD" size="71678" crc="d10a7e0d" md5="54195634476d4445910657f0d7d50ede" sha1="1d0568007450a64f39369e9dbf573cba266b9c24"/>
-		<rom name="PUDS/MULTI/RING.PUD" size="121766" crc="187e02a8" md5="31e21e84701fb10d65b244e9d6d7bbfa" sha1="1bfbf113e3925e981531d0fd27949089ea913406"/>
-		<rom name="PUDS/MULTI/RIVERX.PUD" size="122526" crc="cc102a78" md5="9948741dbe97b5233be2d75b7f1147da" sha1="538ab01639ea42a20a56d549aba6060e5b206944"/>
-		<rom name="PUDS/MULTI/ROCKMAZE.PUD" size="71558" crc="8eb3c831" md5="2034103aa11ed1a185066f0f9cf1ce1e" sha1="e20b74598fa3cbf190e4bb27709428c752ba2f91"/>
-		<rom name="PUDS/MULTI/SHARED.PUD" size="35742" crc="8114a675" md5="4f00ae5b5fac8ad6cb00822888e595c1" sha1="1b14b0795f1b334c9b1d61edefca8e7372c9a24d"/>
-		<rom name="PUDS/MULTI/SIEGE.PUD" size="122502" crc="6872269f" md5="103ddd25084f3d9afffb83c3fb6f3759" sha1="712adebd8c5a95da2c71e30d4e959d95392098df"/>
-		<rom name="PUDS/MULTI/TANDALOS.PUD" size="122310" crc="c3b45ab8" md5="970fbe3cff2e936527c50dbf8ef74e8e" sha1="4c42030a48f925a07731c2bfa4b9beb3e4bad6a6"/>
-		<rom name="PUDS/MULTI/THERIVER.PUD" size="121774" crc="b2a254e7" md5="a23a129f5a1ce1b0074027e2820f6729" sha1="eb1cea8534289d6cd812c3a0c786c92355c846d7"/>
-		<rom name="PUDS/MULTI/TOURNEY.PUD" size="71566" crc="3306a89e" md5="bcb515cba2cef316ab9dcde2824434a4" sha1="e23175ccea2cb18d5b87d13894ee735fb9d78a20"/>
-		<rom name="PUDS/MULTI/TWINHRBR.PUD" size="71478" crc="709351d3" md5="5a8a3e64dfc3271f179f6ff172ec8c83" sha1="b3cc5f8f16581ca03f8b5ead2e185109f6b630ad"/>
-		<rom name="PUDS/MULTI/UP4GRABS.PUD" size="35614" crc="acb58425" md5="f1b72d9a31be64ad2fc7170bbaf6f827" sha1="7d8caa89bd968c08fedbb4d74c90c1170447358e"/>
-		<rom name="PUDS/MULTI/US.PUD" size="122918" crc="42dec828" md5="7b72797622e88b1e0ecc8b151365c661" sha1="30e4f6c396949dc13902b57cbb5ace87caf15c1d"/>
-		<rom name="PUDS/MULTI/WARATSEA.PUD" size="122278" crc="9b01bb9c" md5="ed1798722788d5a93f7ccbe51f06b251" sha1="92ff98709c056ba87d812e3dfd9148dca3901d3b"/>
-		<rom name="PUDS/MULTI/WEB.PUD" size="121894" crc="a3f7b8ac" md5="be5fa83a53268554524b6b941d692152" sha1="280a26aa0f303775320574b6cee24da339b90e9b"/>
-		<rom name="PUDS/MULTI/WIZARD.PUD" size="122454" crc="c12dab7e" md5="6ddfdb45109716cbaee9f330ab01e257" sha1="4fcabd2f8f6f9e89776031aebfd44af815fa5999"/>
-		<rom name="PUDS/SINGLE/4_STEP.PUD" size="72070" crc="7b269444" md5="0731a8723cc6c7c8a2bff012997b4cad" sha1="75e28f5a1a60c9a0862e4f314692993640e3cd68"/>
-		<rom name="PUDS/SINGLE/ANARCHY.PUD" size="124980" crc="2e8bbb73" md5="a8d9791040a1a858845c133e22c0dbab" sha1="d72270af8369d7f1eb40b6a422914144877232e3"/>
-		<rom name="PUDS/SINGLE/BURN_IT.PUD" size="14774" crc="31d2cfe9" md5="420e4726fdea4fe4bd4428aaf20ca820" sha1="b4845f0d0b2a7cead65d2898b32838e6b4c25863"/>
-		<rom name="PUDS/SINGLE/DEADMEAT.PUD" size="122686" crc="b6426432" md5="40690461282dc7ef4b46a71392ac4b86" sha1="9d49caf756835b270cc89199affa9983f9b81230"/>
-		<rom name="PUDS/SINGLE/FALSIE.PUD" size="71726" crc="12bb41f5" md5="0374ed830770041f3313da6332375f66" sha1="87f123e7dd47afd4064526472932357c8f40ffd8"/>
-		<rom name="PUDS/SINGLE/FIRERING.PUD" size="121814" crc="1ea2dd2d" md5="825e525e3c050496de6e34258006e1f0" sha1="882e41edf2714915f349d20faf2cd4f933b26426"/>
-		<rom name="PUDS/SINGLE/FORTRESS.PUD" size="36902" crc="4cfc35a0" md5="c7c6496ce0ac179bb8611b2dea43306c" sha1="3beea1a62256facce2b65504fc576168859e4322"/>
-		<rom name="PUDS/SINGLE/GRTWALL.PUD" size="73566" crc="54fb1247" md5="40d7a5582e01e122c02e617bce77f25f" sha1="b246b14a7e7a0a7005edb6d18f43f508d245e799"/>
-		<rom name="PUDS/SINGLE/HEROES1.PUD" size="72182" crc="8eab7d9f" md5="594fa5a6f28d7f7a81db1963ebbd779f" sha1="957aeb8489b2dd73d2a6ed6a25be4469447d3304"/>
-		<rom name="PUDS/SINGLE/HEROES2.PUD" size="122742" crc="d4723946" md5="23a03d16e61b30e87890d9c3874993fd" sha1="5a14f82466f476bd4cbe8cfe49216c3ae6aa1375"/>
-		<rom name="PUDS/SINGLE/INVASION.PUD" size="71670" crc="f4f560ee" md5="232a38a8707e3b55b7edb144f909d267" sha1="534fbf1e0c7043fc8b6461c57d3a5f16d5f8b40a"/>
-		<rom name="PUDS/SINGLE/MAGISLE.PUD" size="122286" crc="fa79c03d" md5="1e2d0079874e13bd779cf2a8177ff7fe" sha1="d08da712fae12f28489bdcf43a497d063e3fbcf2"/>
-		<rom name="PUDS/SINGLE/MASSACRE.PUD" size="72358" crc="0f82aec0" md5="fbd8ceff0869c7f4ccc141c14f9bd61a" sha1="5fd2b288ec70c63fa17d3ab4cce9e9478ac87b63"/>
-		<rom name="PUDS/SINGLE/MIDLAND.PUD" size="71542" crc="ddc6f880" md5="76863e44976066e802405fc7b273fe34" sha1="95fb140eaa67b763ce1e0a3a91593479a38c38b3"/>
-		<rom name="PUDS/SINGLE/MINASTIR.PUD" size="122806" crc="0e70e67c" md5="114da4a0a26da00f4c2eb0d078052a34" sha1="af1d2b56666362477b8129cef409004043f6ac00"/>
-		<rom name="PUDS/SINGLE/ONSLAUGH.PUD" size="121934" crc="e9380183" md5="e0b75538653fb13781c0063d732222d8" sha1="2a08c967ae1e5f8fdf0869f8be9a245f0b765391"/>
-		<rom name="PUDS/SINGLE/RESCUE.PUD" size="72478" crc="6d3ff54d" md5="3bc885c20bd59583bc4a32515b487743" sha1="147dcb02be2fd7b189f47350e0be5d63e67c110c"/>
-		<rom name="PUDS/SINGLE/S_STONE.PUD" size="123198" crc="61590814" md5="f0f350b88d96984606b97b7a85144038" sha1="b8b29c3485b29fcdf2df2955458aa66bd46e4425"/>
-		<rom name="PUDS/SINGLE/SACRIFIC.PUD" size="71902" crc="27fa2b58" md5="52befb6e61d56d2a82e9819d053357e9" sha1="8c0f99dd2001687cad804160ecb48a7e7c243250"/>
-		<rom name="PUDS/SINGLE/SPARTA.PUD" size="15134" crc="2f8079c1" md5="fbcfa4652ebbeccb2cbfb82925e7b96f" sha1="e9d1ee79b283dee838173ca4afc22c4763b116ee"/>
-		<rom name="PUDS/SINGLE/TRENCH.PUD" size="72318" crc="c5a8ddbf" md5="0e581aff0373988ce6840575928954ee" sha1="b4bc04c8139310f0655356eeb0dea223bb316d22"/>
-		<rom name="PUDS/SINGLE/TYM.PUD" size="123694" crc="3f00b35d" md5="564840c3caf177021e7838ce1ae56830" sha1="20c130f56c71eddc0f3b9507a4d37ea69a29b995"/>
-		<rom name="PUDS/SINGLE/WATERRES.PUD" size="122710" crc="cc751996" md5="2d628b59b8716b230ded05834763add9" sha1="449b9318d2436a09af51d3b099c7934a54dfbe42"/>
-		<rom name="PUDS/SINGLE/WISH.PUD" size="36030" crc="5da07b78" md5="8821b3e5444a24c49ae6ca97611bb434" sha1="e1112a74b7ab04c16e21155d90a4efe464938e82"/>
-		<rom name="PUDS/STRANGE/CHESS.PUD" size="14262" crc="540c7266" md5="8a52c965b6c90e4db367f987058fc9bb" sha1="795c9aabf4fca28820751fb0f6da93090017f70b"/>
-		<rom name="PUDS/STRANGE/FOOTBALL.PUD" size="14694" crc="2d549511" md5="cb33a83e2cf466481d51cf1546b24219" sha1="ca11d6bf9b91a8e553216ac8e8a6ecb0cb770f1a"/>
-		<rom name="PUDS/STRANGE/JAIL.PUD" size="15030" crc="f5694075" md5="9027430382c914b83e06b61eb3780009" sha1="80ef8dddb768b2bf628e0f41c38e7b8448787d37"/>
-		<rom name="PUDS/STRANGE/SUICIDE.PUD" size="15102" crc="87b59750" md5="1d700cc600571e39f83aaedeeb1a9bdb" sha1="eedca1bea5b7ce9ef521c9ed80e59e71d0e9e878"/>
-		<rom name="README.TXT" size="9966" crc="17e3805c" md5="70d53ffa606e916ece63ffa6d769d868" sha1="15b104e47a2779bf7901f61a93ac466debdf1236"/>
-		<rom name="SETUP.EXE" size="581465" crc="4b844b3c" md5="29701af3414280c9803c40fed926e1c6" sha1="76ae862c0bf26e46bc9084021d3acb58d9878a53"/>
-		<rom name="SETUP.PIF" size="967" crc="4490e8c7" md5="6f7fbd0ce0501c5a6f530edc05dfb6b1" sha1="c06f313a681fd03ce2e7049df2564a206050e2b5"/>
-		<rom name="SFXED95.EXE" size="23040" crc="90de9ae6" md5="2442094ff743a8ee2cca839e965d92e2" sha1="12d9895f638e5acb24a58006d5faa6162ad3bb7a"/>
-		<rom name="UVCONFIG.EXE" size="260250" crc="3731ecd2" md5="43e7d6c9a606c9d3c7f703e2056fdb1b" sha1="3c4c61563ab6df1fb145b05c925b178095c83ea9"/>
-		<rom name="WAR2.EXE" size="900539" crc="f8d6360e" md5="262b0b342721ca257fdcda137b6d72ad" sha1="b0996a8966190377d4f5bce987ba07bea6bfc481"/>
+		<parent>Warcraft II - Tides of Darkness (1995) (Blizzard Entertainment).dosz</parent>
+		<comment>
+			Installed v1.33 from CD matching with Redump: WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09)
+			Then patched to v1.5
+			CD image converted with CHDtoOGG
+		</comment>
+		<link type="media">http://redump.org/disc/42787/</link>
+		<link type="patch">https://www.pcgamingwiki.com/wiki/Warcraft_II:_Tides_of_Darkness#Patches</link>
+		<rom name="Warcraft II - Tides of Darkness (1995) (Blizzard Entertainment).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="Warcraft II.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="CD/WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 1).bin" size="210280560" crc="18fb96e8" md5="a786cd34c4945d5ce932cbe06f9e1959" sha1="a2419eded71d9e013711977b71361c1f678f9abd">
+			<source type="MODE1_RAW" frames="89405" duration="19:52:05"/>
+		</rom>
+		<rom name="CD/WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 2).ogg" size="4607" crc="74c584ed" md5="6a10b3ad1b2509f0a41b4eb0e7b4cfd4" sha1="a431a6993007ae0796cd79bdf7401a385df2a1d7">
+			<source type="AUDIO" frames="452" omitted_pregap="150" duration="00:06:02" size="1063104" crc="e760a5a9" md5="cf8e1469d90870e3b5b39eb84334550c" sha1="acc45eefd887464d6c9d16a7982324bc4a0029f7" in_zeros="1063104" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 3).ogg" size="10796285" crc="24af35c0" md5="31497499f287d2d8a268ceb92f9edfc0" sha1="195de17db2ef1436ae733173f7a6a1303b47a6c3">
+			<source type="AUDIO" frames="29309" duration="06:30:59" size="68934768" crc="a878e778" md5="b4a9464ba2fc726bde8f72b974c08bab" sha1="6622ae17d3fb4feda6afaf91ae795a4ff03d2ee6" in_zeros="7776" out_zeros="719088" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 4).ogg" size="12306224" crc="91947f26" md5="7f47f5f6cbd3054e344239b803e7b6cc" sha1="eb83317a5dd8998503859f9e686e826918bfbcf4">
+			<source type="AUDIO" frames="32387" duration="07:11:62" size="76174224" crc="47259a27" md5="5590e081e28e3a2a10a07af696ad4f39" sha1="3485ab8f227f1d85909630abcc7872ce5db27915" in_zeros="7788" out_zeros="713725" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 5).ogg" size="6153871" crc="bd6f399b" md5="27b08135f3a4a531c7b5c5f0590ff5a7" sha1="9fb2aa2c787228330c6654c5c1eba5c871592d55">
+			<source type="AUDIO" frames="16656" duration="03:42:06" size="39174912" crc="20b04eba" md5="72fdb2e75495e5092fb1724e9ac1c71a" sha1="0b58f542dceeb53c7846a4902485f7e0cb128b2f" in_zeros="7768" out_zeros="716964" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 6).ogg" size="5942587" crc="026d0e46" md5="e98b77c3db150f717f93614c14cfdd35" sha1="238b50efa62e09395853e2afd4410cfa5243c19c">
+			<source type="AUDIO" frames="16228" duration="03:36:28" size="38168256" crc="f82c2939" md5="e4b8ae2795f7421798988252c86cf2e3" sha1="0cdf89bd20f6dc4b5507aadfb22d32c7a3167df0" in_zeros="7796" out_zeros="709784" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 7).ogg" size="1641181" crc="e893019c" md5="c3184f80fb691e992ad3502fef638154" sha1="ab7c2a6e19fcdb142c9f5781a986fbe8f38a004c">
+			<source type="AUDIO" frames="4353" duration="00:58:03" size="10238256" crc="ac09b7bb" md5="18783b6c7d281a1045992fb8eaa2a4ac" sha1="cc7e99752be0fc1215842a86fa7c7e1cb077f197" in_zeros="7780" out_zeros="712265" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 8).ogg" size="1003646" crc="9c7e45a5" md5="169cfe3ef07c6fc99eb7d820dce07634" sha1="30b6c831609ff7d522d6d68e57ccc7aa21288f74">
+			<source type="AUDIO" frames="2836" duration="00:37:61" size="6670272" crc="610da223" md5="8718d41912d8e40982e9620533d0c6e3" sha1="ed7b6806116da02f7a2b1e51be6c607c7c16849f" in_zeros="7796" out_zeros="700149" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 9).ogg" size="1394320" crc="a626ef06" md5="14dda791c32783ec2db36273e1f60528" sha1="69c2fecfa68ac85402c035c1d817ce1a842048a5">
+			<source type="AUDIO" frames="4304" duration="00:57:29" size="10123008" crc="13fda3d8" md5="572ce4744d12256ac75cf35a6e0b83f9" sha1="630ea4739b56929300b2141d99d962c658b09dc9" in_zeros="7780" out_zeros="712993" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 10).ogg" size="10594068" crc="645cc952" md5="089084479937cd02272a82ca54bd03d8" sha1="57ce22ce2787af47f95fed5570a6cf5327a92823">
+			<source type="AUDIO" frames="26776" duration="05:57:01" size="62977152" crc="8f1f36f6" md5="420ecf86b9371f7bd939f9a8f1127925" sha1="370dc704f0b2d093c2a900e4f038e36e15020d83" in_zeros="7896" out_zeros="711781" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 11).ogg" size="6134524" crc="04b2b2cd" md5="2122a5efe14414a438cdd7f3e8059180" sha1="0da31b2649b4e9f398b4a68c7444601058e4701b">
+			<source type="AUDIO" frames="16246" duration="03:36:46" size="38210592" crc="08e33a76" md5="235903d29937b89c5f5827730dbeef59" sha1="817e60eab84fe1c628e3ff50864b96bd9a6ff3a4" in_zeros="7768" out_zeros="711784" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 12).ogg" size="6528397" crc="17afb338" md5="874504d284062ef919c42dbfa9d20a0a" sha1="056adc2fcc8bad452404d2f09309c68cdc85cceb">
+			<source type="AUDIO" frames="16201" duration="03:36:01" size="38104752" crc="bf66861c" md5="3c001734be4a12ff6801702cde026d02" sha1="c31d7407d7a803d0daac8ae119063258029ecaa9" in_zeros="8758" out_zeros="716777" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 13).ogg" size="6020661" crc="1ef294b3" md5="5b049337d0c1e496dad299b865039a88" sha1="8196f72c9e332f6caeeb0742caa885129cf131f1">
+			<source type="AUDIO" frames="15733" duration="03:29:58" size="37004016" crc="ed13bc88" md5="2a89bd9d29c317deb020380fa56348d6" sha1="0225aa53c1565e689182722a606ec8676a00131b" in_zeros="7796" out_zeros="714068" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 14).ogg" size="6348983" crc="26d8611b" md5="c8ff040086efe4d5b31aa623aac4cff4" sha1="3f8cc9cb18dcfcc5147e6109984e396dbd5729bb">
+			<source type="AUDIO" frames="16088" duration="03:34:38" size="37838976" crc="2cd55328" md5="758fcfc5de63ba1fbe91ff044c6dfe8b" sha1="e86593ef348785a66aa1caf1e27696900a9349ba" in_zeros="7776" out_zeros="713344" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 15).ogg" size="2699870" crc="97b351c2" md5="b9d9ed9012602dd63c8adc2090e1f1de" sha1="28f171533f05763fb7b10fdc6474e52d8e1fbd54">
+			<source type="AUDIO" frames="6547" duration="01:27:22" size="15398544" crc="180ba631" md5="983270a04058ed59f092b39242c2c4ca" sha1="31625bd3f71cf117efef88790b62193cd0a33e0e" in_zeros="7796" out_zeros="712181" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 16).ogg" size="1177713" crc="e064d2e3" md5="9e4e30e959bea287b14d7b02e5e5b4ef" sha1="8597fd6d5399cb889d28ad0ac0af4347cc8f2c6a">
+			<source type="AUDIO" frames="3188" duration="00:42:38" size="7498176" crc="bcdc67b5" md5="cfe22c3a6e2a2659934bf305c6b6a0fd" sha1="691bb5c68fb9a88afb7b3a5a7172342af3518c71" in_zeros="7816" out_zeros="702476" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 17).ogg" size="1084801" crc="db95f4f8" md5="66bd8c057848d6fee937836ece44c5bd" sha1="5d81e541dba850ffeb585c96ebdafe9b9e2f9338">
+			<source type="AUDIO" frames="3419" duration="00:45:44" size="8041488" crc="2f60ea52" md5="e20a09df03ddf1c8077ce6b2c1eadb3a" sha1="d312f3e3f6aec016641377b825c735999a891f2a" in_zeros="7792" out_zeros="715801" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09) (Track 18).ogg" size="4272146" crc="ebbc0d88" md5="f7c4703230a42fd6f581a219b79feb38" sha1="edaa483738019942e64da2540a6041fb3aa1caf7">
+			<source type="AUDIO" frames="10355" duration="02:18:05" size="24354960" crc="3550d756" md5="133a174ef15f178832850c52437e40c2" sha1="cf7830d058fcd94ed39b95f78288b522cb9cc225" in_zeros="7776" out_zeros="707242" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09).cue" size="2756" crc="d18e8ca6" md5="004cb4180e090d4a7ec5745e11520307" sha1="b797f3c48d77652d7077aade81335c7814adab7e"/>
+		<rom name="DATA/MAINDAT.WAR" size="9831037" crc="04759fb9" md5="ffc62597b2001be9f30b13e908a2ec2a" sha1="a1adc3db34e991108d5a230164ada05a591de9ef" date="1996-10-14 16:42:46"/>
+		<rom name="DATA/REZDAT.WAR" size="2811086" crc="61704053" md5="65321083c9b21fb6c2f31c6b52dec4e0" sha1="462c8d4f5a01bd0ce9175dc0e4b7b3c7f166a3ac" date="1996-10-14 16:44:44"/>
+		<rom name="DATA/SFXDAT.SUD" size="5653599" crc="3641d942" md5="5443f7b8d9163a53b03e5d976f4e268b" sha1="725724f0b98df4f08fda013e20673031ec5d5903" date="1996-05-02 11:01:08"/>
+		<rom name="DATA/STRDAT.WAR" size="77524" crc="0158213a" md5="eaee6010c559683d841158c930786651" sha1="23b2996572971bffaee01eb513915e40adf2cb3b" date="1996-10-14 16:44:48"/>
+		<rom name="PUDS/MULTI/3VS3.PUD" size="122540" crc="1277ffae" md5="dafde0913c82d8a688118bab5ebf2132" sha1="6b8d9aec0d46fdc2061f2977ba3db6d3c0f5ecf2" date="1996-04-19 17:02:46"/>
+		<rom name="PUDS/MULTI/3VS5.PUD" size="122868" crc="df507fed" md5="2e5773a6ee618be8ff03963e2caab7d9" sha1="ab54f8884289bf4b7325b7241e70d3d11d8cca8b" date="1996-04-19 17:03:10"/>
+		<rom name="PUDS/MULTI/ARENA.PUD" size="35758" crc="42a1617c" md5="05d2c275ea67750e1366552050103741" sha1="a23811659b32f46a0dbec6d5cbf703af58ce8c6e" date="1996-04-24 13:05:26"/>
+		<rom name="PUDS/MULTI/ATOLS.PUD" size="71526" crc="77e739a0" md5="3685dd93ccb26844d9726c9d281ea26d" sha1="a27b130905752e1383ca3b66933dac6c4c6e3e7f" date="1996-04-24 13:06:12"/>
+		<rom name="PUDS/MULTI/BATTLE_1.PUD" size="35862" crc="3ccecf5f" md5="611c83065b743d2e0b9608196c09bf8c" sha1="5c03c4a53145f6f21eed2e68b314c07db7ef4ff0" date="1996-04-24 13:06:16"/>
+		<rom name="PUDS/MULTI/BATTLE_2.PUD" size="35670" crc="2886328f" md5="fbc2288d6d14558e627120d385154855" sha1="7287b52bd7c8e80d97b47e6ab9453d209a9419f3" date="1996-04-24 13:06:34"/>
+		<rom name="PUDS/MULTI/BLACKGLD.PUD" size="121670" crc="73453fef" md5="8ff98397965db4f5c9f08258f860f5cc" sha1="9f2a6d4970c076ee6f072d6ab7014ab53e75ae4c" date="1996-04-23 17:16:56"/>
+		<rom name="PUDS/MULTI/COLLAPSE.PUD" size="71934" crc="5e2ef2d1" md5="aad9293c2db07dc958f6d62ee4e8f934" sha1="86c42bfc9fca0247a1dc17638d140bd4336d6ba9" date="1996-04-23 17:12:36"/>
+		<rom name="PUDS/MULTI/CROWDED.PUD" size="35878" crc="7c0b0864" md5="2a8c29ab48fd24dae4b181c57e858db4" sha1="e64f989035ed0b08de1681b6e9dcd8f9e0de36ab" date="1996-04-28 18:15:18"/>
+		<rom name="PUDS/MULTI/DIAMOND.PUD" size="121702" crc="db3ef103" md5="19d5230e7871bb27413ac0842e9b99c3" sha1="9f3fe8b328bf66286dc913e7cb8fc0d125bae825" date="1996-04-24 13:06:48"/>
+		<rom name="PUDS/MULTI/DUP.PUD" size="71566" crc="b07a5ecb" md5="96417968698699ae2f405a9b0e21af27" sha1="c22a0ca0a847903d7b34a5d3ae7bebd449ddf91b" date="1996-04-24 13:07:04"/>
+		<rom name="PUDS/MULTI/EARS.PUD" size="71478" crc="f7e6fbe0" md5="46e0d831cada88be9fa35a6a6e961bb0" sha1="83939091d2e107ae2127907fa0dd1c831f15f64a" date="1996-04-24 13:07:18"/>
+		<rom name="PUDS/MULTI/FRIENDS.PUD" size="121806" crc="28d79376" md5="28be58f6337bd3b49a21c2027c78301b" sha1="a221f4a4b2c91aafbcdcd9e29de13a3f1fd2b625" date="1996-04-25 11:46:56"/>
+		<rom name="PUDS/MULTI/FUNFOR3.PUD" size="122878" crc="1b563a36" md5="14fd004f9cf431c4f2160ef0a9c49c80" sha1="3be49c6e1c6088e33610af6cb434fb6a0ab3a659" date="1996-05-01 10:49:48"/>
+		<rom name="PUDS/MULTI/GAUNTLET.PUD" size="36382" crc="4cb7f075" md5="5e4105ed08baa34c4108a4872443ec15" sha1="b9a71f266b33a368cae788d9dd364264aac3e838" date="1996-05-01 10:52:40"/>
+		<rom name="PUDS/MULTI/HELL.PUD" size="123342" crc="b4611faf" md5="f8c0fea516f501dd1ac962991406a01c" sha1="949661909643a5e38c4d1a9473e9e25f0f39e9ce" date="1996-04-28 18:16:28"/>
+		<rom name="PUDS/MULTI/HOURGLAS.PUD" size="71518" crc="9d3eae22" md5="8424e6d6c081d5367abcbde999de98d0" sha1="fb3bf6ad10454dbfb0fe403293fe853e163af99a" date="1996-04-23 17:17:26"/>
+		<rom name="PUDS/MULTI/ICEWALL.PUD" size="72598" crc="1449a0d2" md5="da77e438f7b3ac42d8653fca95a042e4" sha1="16ebc4f26dd4fc9973461c1132d3f1e9b492ff9a" date="1996-04-24 13:07:44"/>
+		<rom name="PUDS/MULTI/IRONCROS.PUD" size="122654" crc="72321cb3" md5="4e53e1bfb0459dc5507ae503f82dc127" sha1="448cf32bf5a8e8fad62986633da349ea41b3bc8c" date="1996-04-28 18:18:26"/>
+		<rom name="PUDS/MULTI/ISLES.PUD" size="121878" crc="5e375d5c" md5="96daab6d0c6dc58a72875303484fe9f2" sha1="a804fb6aa9e249e92fe2ee0b25e15183a1072291" date="1996-04-23 17:13:02"/>
+		<rom name="PUDS/MULTI/JIMLAND.PUD" size="122350" crc="c388117c" md5="768d6efefe5b8a0ed95ef1b4812f40cb" sha1="373c89581c27cb03c6164961c9ccf7e0723f2f06" date="1996-04-23 17:13:48"/>
+		<rom name="PUDS/MULTI/KANTHAR.PUD" size="121774" crc="b58c4082" md5="9ffe61e6b65a7c2aa677399df54a5e16" sha1="46b115a79446bb2339e1c7587a2dd788cdb354d0" date="1996-04-24 13:08:08"/>
+		<rom name="PUDS/MULTI/KING.PUD" size="122534" crc="87e67b52" md5="bb86e539bf76b159d16d99c8e5441099" sha1="8647c0f987465c9b31c0fb4286980c744e036f3e" date="1996-04-28 18:19:02"/>
+		<rom name="PUDS/MULTI/MNTNPASS.PUD" size="35710" crc="142bfe36" md5="0a468624cab07b6c7db2752b2761ea94" sha1="71540f0d8dc457fd4b9d8d95679e90da4e98b64f" date="1996-04-23 17:14:22"/>
+		<rom name="PUDS/MULTI/PASSES.PUD" size="71502" crc="bf530efd" md5="7b377b61c023e81e5f1736e2457d75f9" sha1="7946ae426c2d9c75dab8d8a12b888d89b56d46ba" date="1996-04-23 17:17:50"/>
+		<rom name="PUDS/MULTI/PLOTS.PUD" size="121830" crc="a9a1ebfe" md5="5b0aae7e9c638f5b89ed6076ea3e0544" sha1="934ea8ea32dbc71f239505a0f076891fe1190e67" date="1996-04-24 13:09:30"/>
+		<rom name="PUDS/MULTI/RAIDERS.PUD" size="71678" crc="d10a7e0d" md5="54195634476d4445910657f0d7d50ede" sha1="1d0568007450a64f39369e9dbf573cba266b9c24" date="1996-04-24 13:09:46"/>
+		<rom name="PUDS/MULTI/RING.PUD" size="121766" crc="187e02a8" md5="31e21e84701fb10d65b244e9d6d7bbfa" sha1="1bfbf113e3925e981531d0fd27949089ea913406" date="1996-04-23 17:18:12"/>
+		<rom name="PUDS/MULTI/RIVERX.PUD" size="122526" crc="cc102a78" md5="9948741dbe97b5233be2d75b7f1147da" sha1="538ab01639ea42a20a56d549aba6060e5b206944" date="1996-04-28 18:21:24"/>
+		<rom name="PUDS/MULTI/ROCKMAZE.PUD" size="71558" crc="8eb3c831" md5="2034103aa11ed1a185066f0f9cf1ce1e" sha1="e20b74598fa3cbf190e4bb27709428c752ba2f91" date="1996-04-25 11:49:28"/>
+		<rom name="PUDS/MULTI/SHARED.PUD" size="35742" crc="8114a675" md5="4f00ae5b5fac8ad6cb00822888e595c1" sha1="1b14b0795f1b334c9b1d61edefca8e7372c9a24d" date="1996-04-24 13:10:50"/>
+		<rom name="PUDS/MULTI/SIEGE.PUD" size="122502" crc="6872269f" md5="103ddd25084f3d9afffb83c3fb6f3759" sha1="712adebd8c5a95da2c71e30d4e959d95392098df" date="1996-04-24 13:12:24"/>
+		<rom name="PUDS/MULTI/TANDALOS.PUD" size="122310" crc="c3b45ab8" md5="970fbe3cff2e936527c50dbf8ef74e8e" sha1="4c42030a48f925a07731c2bfa4b9beb3e4bad6a6" date="1996-04-24 13:12:52"/>
+		<rom name="PUDS/MULTI/THERIVER.PUD" size="121774" crc="b2a254e7" md5="a23a129f5a1ce1b0074027e2820f6729" sha1="eb1cea8534289d6cd812c3a0c786c92355c846d7" date="1996-04-23 17:15:12"/>
+		<rom name="PUDS/MULTI/TOURNEY.PUD" size="71566" crc="3306a89e" md5="bcb515cba2cef316ab9dcde2824434a4" sha1="e23175ccea2cb18d5b87d13894ee735fb9d78a20" date="1996-04-25 11:50:00"/>
+		<rom name="PUDS/MULTI/TWINHRBR.PUD" size="71478" crc="709351d3" md5="5a8a3e64dfc3271f179f6ff172ec8c83" sha1="b3cc5f8f16581ca03f8b5ead2e185109f6b630ad" date="1996-04-24 13:13:12"/>
+		<rom name="PUDS/MULTI/UP4GRABS.PUD" size="35614" crc="acb58425" md5="f1b72d9a31be64ad2fc7170bbaf6f827" sha1="7d8caa89bd968c08fedbb4d74c90c1170447358e" date="1996-04-23 17:18:50"/>
+		<rom name="PUDS/MULTI/US.PUD" size="122918" crc="42dec828" md5="7b72797622e88b1e0ecc8b151365c661" sha1="30e4f6c396949dc13902b57cbb5ace87caf15c1d" date="1996-04-23 17:15:30"/>
+		<rom name="PUDS/MULTI/WARATSEA.PUD" size="122278" crc="9b01bb9c" md5="ed1798722788d5a93f7ccbe51f06b251" sha1="92ff98709c056ba87d812e3dfd9148dca3901d3b" date="1996-04-24 13:14:02"/>
+		<rom name="PUDS/MULTI/WEB.PUD" size="121894" crc="a3f7b8ac" md5="be5fa83a53268554524b6b941d692152" sha1="280a26aa0f303775320574b6cee24da339b90e9b" date="1996-05-01 10:55:10"/>
+		<rom name="PUDS/MULTI/WIZARD.PUD" size="122454" crc="c12dab7e" md5="6ddfdb45109716cbaee9f330ab01e257" sha1="4fcabd2f8f6f9e89776031aebfd44af815fa5999" date="1996-05-01 10:58:50"/>
+		<rom name="PUDS/SINGLE/4_STEP.PUD" size="72070" crc="7b269444" md5="0731a8723cc6c7c8a2bff012997b4cad" sha1="75e28f5a1a60c9a0862e4f314692993640e3cd68" date="1996-04-23 17:11:40"/>
+		<rom name="PUDS/SINGLE/ANARCHY.PUD" size="124980" crc="2e8bbb73" md5="a8d9791040a1a858845c133e22c0dbab" sha1="d72270af8369d7f1eb40b6a422914144877232e3" date="1996-04-03 19:01:52"/>
+		<rom name="PUDS/SINGLE/BURN_IT.PUD" size="14774" crc="31d2cfe9" md5="420e4726fdea4fe4bd4428aaf20ca820" sha1="b4845f0d0b2a7cead65d2898b32838e6b4c25863" date="1996-04-24 13:32:32"/>
+		<rom name="PUDS/SINGLE/DEADMEAT.PUD" size="122686" crc="b6426432" md5="40690461282dc7ef4b46a71392ac4b86" sha1="9d49caf756835b270cc89199affa9983f9b81230" date="1996-04-28 18:28:38"/>
+		<rom name="PUDS/SINGLE/FALSIE.PUD" size="71726" crc="12bb41f5" md5="0374ed830770041f3313da6332375f66" sha1="87f123e7dd47afd4064526472932357c8f40ffd8" date="1996-04-25 15:09:20"/>
+		<rom name="PUDS/SINGLE/FIRERING.PUD" size="121814" crc="1ea2dd2d" md5="825e525e3c050496de6e34258006e1f0" sha1="882e41edf2714915f349d20faf2cd4f933b26426" date="1996-04-25 15:08:58"/>
+		<rom name="PUDS/SINGLE/FORTRESS.PUD" size="36902" crc="4cfc35a0" md5="c7c6496ce0ac179bb8611b2dea43306c" sha1="3beea1a62256facce2b65504fc576168859e4322" date="1996-04-23 17:07:44"/>
+		<rom name="PUDS/SINGLE/GRTWALL.PUD" size="73566" crc="54fb1247" md5="40d7a5582e01e122c02e617bce77f25f" sha1="b246b14a7e7a0a7005edb6d18f43f508d245e799" date="1996-04-23 17:00:46"/>
+		<rom name="PUDS/SINGLE/HEROES1.PUD" size="72182" crc="8eab7d9f" md5="594fa5a6f28d7f7a81db1963ebbd779f" sha1="957aeb8489b2dd73d2a6ed6a25be4469447d3304" date="1996-04-25 15:08:50"/>
+		<rom name="PUDS/SINGLE/HEROES2.PUD" size="122742" crc="d4723946" md5="23a03d16e61b30e87890d9c3874993fd" sha1="5a14f82466f476bd4cbe8cfe49216c3ae6aa1375" date="1996-04-25 15:05:30"/>
+		<rom name="PUDS/SINGLE/INVASION.PUD" size="71670" crc="f4f560ee" md5="232a38a8707e3b55b7edb144f909d267" sha1="534fbf1e0c7043fc8b6461c57d3a5f16d5f8b40a" date="1996-04-25 15:11:22"/>
+		<rom name="PUDS/SINGLE/MAGISLE.PUD" size="122286" crc="fa79c03d" md5="1e2d0079874e13bd779cf2a8177ff7fe" sha1="d08da712fae12f28489bdcf43a497d063e3fbcf2" date="1996-04-25 14:56:28"/>
+		<rom name="PUDS/SINGLE/MASSACRE.PUD" size="72358" crc="0f82aec0" md5="fbd8ceff0869c7f4ccc141c14f9bd61a" sha1="5fd2b288ec70c63fa17d3ab4cce9e9478ac87b63" date="1996-04-25 14:56:04"/>
+		<rom name="PUDS/SINGLE/MIDLAND.PUD" size="71542" crc="ddc6f880" md5="76863e44976066e802405fc7b273fe34" sha1="95fb140eaa67b763ce1e0a3a91593479a38c38b3" date="1996-04-25 14:54:10"/>
+		<rom name="PUDS/SINGLE/MINASTIR.PUD" size="122806" crc="0e70e67c" md5="114da4a0a26da00f4c2eb0d078052a34" sha1="af1d2b56666362477b8129cef409004043f6ac00" date="1996-04-25 14:53:34"/>
+		<rom name="PUDS/SINGLE/ONSLAUGH.PUD" size="121934" crc="e9380183" md5="e0b75538653fb13781c0063d732222d8" sha1="2a08c967ae1e5f8fdf0869f8be9a245f0b765391" date="1996-04-25 14:55:12"/>
+		<rom name="PUDS/SINGLE/RESCUE.PUD" size="72478" crc="6d3ff54d" md5="3bc885c20bd59583bc4a32515b487743" sha1="147dcb02be2fd7b189f47350e0be5d63e67c110c" date="1996-04-23 17:08:42"/>
+		<rom name="PUDS/SINGLE/S_STONE.PUD" size="123198" crc="61590814" md5="f0f350b88d96984606b97b7a85144038" sha1="b8b29c3485b29fcdf2df2955458aa66bd46e4425" date="1996-04-23 17:11:00"/>
+		<rom name="PUDS/SINGLE/SACRIFIC.PUD" size="71902" crc="27fa2b58" md5="52befb6e61d56d2a82e9819d053357e9" sha1="8c0f99dd2001687cad804160ecb48a7e7c243250" date="1996-04-24 13:15:26"/>
+		<rom name="PUDS/SINGLE/SPARTA.PUD" size="15134" crc="2f8079c1" md5="fbcfa4652ebbeccb2cbfb82925e7b96f" sha1="e9d1ee79b283dee838173ca4afc22c4763b116ee" date="1996-04-23 17:05:46"/>
+		<rom name="PUDS/SINGLE/TRENCH.PUD" size="72318" crc="c5a8ddbf" md5="0e581aff0373988ce6840575928954ee" sha1="b4bc04c8139310f0655356eeb0dea223bb316d22" date="1996-04-25 14:55:46"/>
+		<rom name="PUDS/SINGLE/TYM.PUD" size="123694" crc="3f00b35d" md5="564840c3caf177021e7838ce1ae56830" sha1="20c130f56c71eddc0f3b9507a4d37ea69a29b995" date="1996-05-01 10:53:36"/>
+		<rom name="PUDS/SINGLE/WATERRES.PUD" size="122710" crc="cc751996" md5="2d628b59b8716b230ded05834763add9" sha1="449b9318d2436a09af51d3b099c7934a54dfbe42" date="1996-04-23 17:10:04"/>
+		<rom name="PUDS/SINGLE/WISH.PUD" size="36030" crc="5da07b78" md5="8821b3e5444a24c49ae6ca97611bb434" sha1="e1112a74b7ab04c16e21155d90a4efe464938e82" date="1996-05-01 10:57:58"/>
+		<rom name="PUDS/STRANGE/CHESS.PUD" size="14262" crc="540c7266" md5="8a52c965b6c90e4db367f987058fc9bb" sha1="795c9aabf4fca28820751fb0f6da93090017f70b" date="1996-04-23 16:57:40"/>
+		<rom name="PUDS/STRANGE/FOOTBALL.PUD" size="14694" crc="2d549511" md5="cb33a83e2cf466481d51cf1546b24219" sha1="ca11d6bf9b91a8e553216ac8e8a6ecb0cb770f1a" date="1996-04-25 11:29:58"/>
+		<rom name="PUDS/STRANGE/JAIL.PUD" size="15030" crc="f5694075" md5="9027430382c914b83e06b61eb3780009" sha1="80ef8dddb768b2bf628e0f41c38e7b8448787d37" date="1996-04-23 16:58:28"/>
+		<rom name="PUDS/STRANGE/SUICIDE.PUD" size="15102" crc="87b59750" md5="1d700cc600571e39f83aaedeeb1a9bdb" sha1="eedca1bea5b7ce9ef521c9ed80e59e71d0e9e878" date="1996-04-25 11:33:48"/>
+		<rom name="READ_133.TXT" size="1703" crc="d22ea8ec" md5="0d7ed4f5226d64087f21cd85a5e0f731" sha1="eedb2cc4cb240036745ea06a0799374b17761ca7" date="1996-10-05 13:43:32"/>
+		<rom name="READ_150.TXT" size="3284" crc="859f643a" md5="51e5e306fef41340607d4de3df414f79" sha1="1ab318e56f68d6e1873eab5b970d0ca72afedec4" date="1997-07-07 18:27:40"/>
+		<rom name="README.TXT" size="9966" crc="17e3805c" md5="70d53ffa606e916ece63ffa6d769d868" sha1="15b104e47a2779bf7901f61a93ac466debdf1236" date="1996-04-30 10:15:18"/>
+		<rom name="SAVEFIX.EXE" size="26956" crc="5ad5462c" md5="4c0906ea2c934943eed44ce0c54ebc78" sha1="39a6ed55e3f3de0a4a0130968d3dfca4a9977ee7" date="1996-06-26 15:39:54"/>
+		<rom name="WAR2.EXE" size="906927" crc="0c4be779" md5="b2ecc20b4aae8265b515a17d88784214" sha1="83311218e57ca6507fd0788aa8a6891784109cb4" date="1997-07-07 18:17:22"/>
+	</game>
+	<game name="Warcraft II - Tides of Darkness (1995) (Blizzard Entertainment).dosz">
+		<description>Warcraft II - Tides of Darkness</description>
+		<year>1995</year>
+		<developer>Blizzard Entertainment</developer>
+		<comment>
+			Installed v1.22 from CD matching with Redump: WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05)
+			Then patched to v1.4
+			CD image converted with CHDtoOGG
+		</comment>
+		<comment_dosc>Sound Blaster config and auto start. General MIDI option (requires disabling CD music in-game)</comment_dosc>
+		<link type="media">http://redump.org/disc/42873/</link>
+		<link type="patch">https://www.pcgamingwiki.com/wiki/Warcraft_II:_Tides_of_Darkness#Patches</link>
+		<rom name="Warcraft II.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="CD/WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 1).bin" size="239896944" crc="697d7350" md5="e501a3ab84f7d974056fabe4535dc622" sha1="e5197f073219536fab896b68d26dfa1f8ce5fe5c">
+			<source type="MODE1_RAW" frames="101997" duration="22:39:72"/>
+		</rom>
+		<rom name="CD/WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 2).ogg" size="4607" crc="74c584ed" md5="6a10b3ad1b2509f0a41b4eb0e7b4cfd4" sha1="a431a6993007ae0796cd79bdf7401a385df2a1d7">
+			<source type="AUDIO" frames="452" omitted_pregap="150" duration="00:06:02" size="1063104" crc="e760a5a9" md5="cf8e1469d90870e3b5b39eb84334550c" sha1="acc45eefd887464d6c9d16a7982324bc4a0029f7" in_zeros="1063104" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 3).ogg" size="6187442" crc="ffd49e11" md5="4b10a5501dd0ad8d35d06b23bfde9911" sha1="43c766eb4b84c32f6447d4fd80154c4474eba621">
+			<source type="AUDIO" frames="16520" duration="03:40:20" size="38855040" crc="53e94ac2" md5="99e3d65cec3a00794270323984df42da" sha1="55371d426d87676c2a399c180de0543dcaa65078" in_zeros="14380" out_zeros="1069124" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 4).ogg" size="12319388" crc="15949e4a" md5="caf0e022cabb320731bb609c3ee2959a" sha1="49b5378a7dc9520e6f8e3bcb71ca2a988385dca2">
+			<source type="AUDIO" frames="32387" duration="07:11:62" size="76174224" crc="28184fae" md5="3a2f1d15b52c0de4cf96e58123afa1df" sha1="5735645ce673b40bb550e07c3d5db590cd944b8f" in_zeros="7784" out_zeros="713729" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 5).ogg" size="6147363" crc="6113f3a0" md5="5bb250dc5e0ff06d2d3f818d7be06a02" sha1="887025edd1a4f7f081d14af107f862882d8a5a93">
+			<source type="AUDIO" frames="16656" duration="03:42:06" size="39174912" crc="5f0cab13" md5="ac94e0e4686b3115ea98649e8ca6ba7d" sha1="38767037eafc5fd08921688142d6d4ad5c8a66c0" in_zeros="7748" out_zeros="716984" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 6).ogg" size="5942587" crc="026d0e46" md5="e98b77c3db150f717f93614c14cfdd35" sha1="238b50efa62e09395853e2afd4410cfa5243c19c">
+			<source type="AUDIO" frames="16228" duration="03:36:28" size="38168256" crc="f82c2939" md5="e4b8ae2795f7421798988252c86cf2e3" sha1="0cdf89bd20f6dc4b5507aadfb22d32c7a3167df0" in_zeros="7796" out_zeros="709784" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 7).ogg" size="1641144" crc="2a766e88" md5="74c56806a9748a983a96468f26d04edb" sha1="a76b0d2372fb6e07b865cd15bc0e2fdd74d04a37">
+			<source type="AUDIO" frames="4353" duration="00:58:03" size="10238256" crc="8477429d" md5="da2ab3ea0a7c11e848d7600d3816e680" sha1="51dd0ce78181623d9a94638f94c2d45087ba6f32" in_zeros="7776" out_zeros="712269" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 8).ogg" size="994144" crc="ad7a1074" md5="e0adee61b02993d7fb2809d2a730cb21" sha1="f9cc05e97bf2f77cee3474f32677e77346ce53ad">
+			<source type="AUDIO" frames="2836" duration="00:37:61" size="6670272" crc="f20867e3" md5="a3b8a3e357c061cb782aa1277166c527" sha1="d859378fc8c0222437f5145ae83107ecf9b76679" in_zeros="7776" out_zeros="700169" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 9).ogg" size="1405605" crc="48998ab2" md5="f18d435837713ad12ac6fc42701123a1" sha1="a365556ceb20240bc73ba1aaa5df98d32cd2e24b">
+			<source type="AUDIO" frames="4304" duration="00:57:29" size="10123008" crc="fb4c3f4b" md5="11fd0af1ea2e68c3e03597da3b4ab4ac" sha1="65bc233835beab41aa1a9011060624b1ab368c42" in_zeros="7776" out_zeros="712997" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 10).ogg" size="6630777" crc="0871c5c6" md5="d1db82afe13d69a1703f8c30efe6aadd" sha1="b3be17073cfc13b0926a92ab733c64a13e55f347">
+			<source type="AUDIO" frames="16188" duration="03:35:63" size="38074176" crc="62a366ed" md5="6f8a5cde64b0cebba4ed86fadbbecc8f" sha1="022166e8b4e75dfe204c44a9c82d00616c18a0bd" in_zeros="14164" out_zeros="1064945" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 11).ogg" size="6157446" crc="a1ef3592" md5="c4f963e1c8671d36772b9214e3547119" sha1="2a716fb3ba3eccbb27a9a8a3ea5529d744c56c1a">
+			<source type="AUDIO" frames="16246" duration="03:36:46" size="38210592" crc="ec32ca9f" md5="60542a85fe1881fd396cd3d55b7ca009" sha1="0e6f39e446b62b81cdb3d4da56ddf17b995460f1" in_zeros="7776" out_zeros="711776" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 12).ogg" size="6528397" crc="17afb338" md5="874504d284062ef919c42dbfa9d20a0a" sha1="056adc2fcc8bad452404d2f09309c68cdc85cceb">
+			<source type="AUDIO" frames="16201" duration="03:36:01" size="38104752" crc="bf66861c" md5="3c001734be4a12ff6801702cde026d02" sha1="c31d7407d7a803d0daac8ae119063258029ecaa9" in_zeros="8758" out_zeros="716777" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 13).ogg" size="6020661" crc="1ef294b3" md5="5b049337d0c1e496dad299b865039a88" sha1="8196f72c9e332f6caeeb0742caa885129cf131f1">
+			<source type="AUDIO" frames="15733" duration="03:29:58" size="37004016" crc="ed13bc88" md5="2a89bd9d29c317deb020380fa56348d6" sha1="0225aa53c1565e689182722a606ec8676a00131b" in_zeros="7796" out_zeros="714068" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 14).ogg" size="6329877" crc="10756f50" md5="38224f6ed1fe25526b72b832cdaecabb" sha1="dd73f74072b12971915b6d5ef94c60ccf0f9bd72">
+			<source type="AUDIO" frames="16088" duration="03:34:38" size="37838976" crc="1d92a045" md5="0002ff3b9f2bb6e791fffe68b2d664ae" sha1="f4a35ab6f598d1a465969d9a29532314d59e3ce9" in_zeros="7780" out_zeros="713340" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 15).ogg" size="2698656" crc="e25e28ad" md5="e6fcf63f42dc88e242149016eea20309" sha1="0f3e47e0618c15bc1a83f046d5cf9f7e91b212c8">
+			<source type="AUDIO" frames="6547" duration="01:27:22" size="15398544" crc="02c280ee" md5="2b5d7abdcfebb1815cb8e12e8b48c07d" sha1="38fa9c37985b20d71654d0bb6aa889bd5d9de517" in_zeros="7800" out_zeros="712177" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 16).ogg" size="1174459" crc="1f0b977e" md5="9c4b1e26d019e7dcbdf38c74b5d4a505" sha1="5be90b29d7e670019759be9bcc588521f93de625">
+			<source type="AUDIO" frames="3188" duration="00:42:38" size="7498176" crc="443019fc" md5="6a07819b07ecacc15effdac510ba67be" sha1="700fe4adf2c9ba6c307950179eefa45a4181f8c6" in_zeros="7800" out_zeros="702492" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05) (Track 17).ogg" size="1086733" crc="846313a3" md5="5628e9088ab914fdb5392464d02741f2" sha1="a3312cdc3f8f69a896d6bb8cfa454a1f21182a7b">
+			<source type="AUDIO" frames="3419" duration="00:45:44" size="8041488" crc="ddaa8d6c" md5="13945e800f33143dda430ab30facbd93" sha1="b3a765059f61eaf10baae9e8fa20a2fcc3bb277a" in_zeros="7800" out_zeros="715793" quality="8"/>
+		</rom>
+		<rom name="CD/WarCraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05).cue" size="2247" crc="978daf8d" md5="dcc09248d1aa4f9c79e87dd9476afa02" sha1="480dcbed3eec5f210d03f003f073ef9f884f3c67"/>
+		<rom name="ALAMO.PUD" size="71902" crc="dd714468" md5="4b5cf9bdc9820045e00aa0809a93b77c" sha1="cac77b156bfb19dc256e9a8377629809e3a7db6e" date="1996-06-11 14:37:34"/>
+		<rom name="CHANNEL.PUD" size="71486" crc="09c4925c" md5="1948d2c3f0d3210091cc170ebd3eaead" sha1="1da09e1088113c653d3a1abbab570adb9bb18f2d" date="1996-06-11 14:37:34"/>
+		<rom name="DATA/INSMAIN.INS" size="213855" crc="80064116" md5="89a910209b6d0bab136330124896330b" sha1="430130712055d514cbcfc20c352f065c83afdb5d" date="1996-06-11 14:37:32"/>
+		<rom name="DATA/INSSTR.INS" size="12513" crc="57e6f593" md5="818af782449183d269e6e03178ba4f32" sha1="e926496ab888a283fc98f6a3454e07eb08fb8c18" date="1996-06-11 14:37:32"/>
+		<rom name="DATA/MAINDAT.WAR" size="8409933" crc="b1ccb82e" md5="9389265dc9fd70f6b250e0278dfb455a" sha1="81b4e61b90c680814b75d7c68e8d50e2a0373424" date="1996-06-11 14:38:44"/>
+		<rom name="DATA/REZDAT.WAR" size="1894026" crc="ed5c0a9c" md5="4505a8cd442fa13b58da1d1be74bbb7b" sha1="19c045add6e20b0b24227f556c21f93ff3c1488f" date="1996-06-11 14:38:08"/>
+		<rom name="DATA/SFXDAT.SUD" size="4302671" crc="79bc45f7" md5="8a678ac03214f6fa9f7f86a9cf0da2fd" sha1="fa31b793730ddd01226e3dc07c0208bb6a3c02a5" date="1996-06-11 14:38:00"/>
+		<rom name="DATA/STRDAT.WAR" size="51550" crc="9a48d3df" md5="e23eea8cd243fdf63986c8091899cefb" sha1="b299340ea6a681cb17b7590270a2bdcc8fc8f078" date="1996-06-11 14:38:02"/>
+		<rom name="DEATH.PUD" size="37086" crc="e4853f46" md5="0f910d7d66ff3fa571fae1b800e8c2a7" sha1="8de2640c5b7d3ffb753aa1cbd8bdf8d31a165548" date="1996-06-11 14:37:34"/>
+		<rom name="DRAGON.PUD" size="122006" crc="4be95c7a" md5="e56332d7feeaceba2aa2f153d37eba88" sha1="a66dec6d2171c7c8b3856594068c8a69cf020844" date="1996-06-11 14:37:34"/>
+		<rom name="DRIVERS/ADLIB.MDI" size="14986" crc="6871f64c" md5="5cb112d060d70a43ee7c89b7ffe4f029" sha1="1f19c757259cac7b5f04281ac8830f8bece3c8d2" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/ADLIBG.MDI" size="16377" crc="1d2a278b" md5="79d8137d4e6b78735b78cd8a4bd14827" sha1="14f61539bf8438f68add723fef2ef76821fa9fd8" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/ADRV688.DIG" size="11278" crc="96dfb75d" md5="feabc78729e3a458ae2f6ab40146f0d9" sha1="255ecb5d649895d65bca49bd6afcbdf875e34bf2" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/AILDRVR.LST" size="16885" crc="b13debb6" md5="83b8de65b09c95e7098104b7c9c19829" sha1="90636803056ed37a46c684b9d9ca53d9c4ab6cb0" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/DIG.INI" size="207" crc="21cd282e" md5="0d31f9eb5db6a319553f51eabe14deec" sha1="679f1b1c65be2acf9654e91b89c37a5823ae4764"/>
+		<rom name="DRIVERS/DIGTEST.WAV" size="53868" crc="ead2e54e" md5="c8116a6107886abea0947107b20fe8a7" sha1="50ba3a20a218f46197870ffa3713202f5c2fd038" date="1996-06-11 14:37:32"/>
+		<rom name="DRIVERS/DIGTEST2.WAV" size="34604" crc="1804b1f7" md5="03ef9c1d6f410acd25a1539c7c5b97e7" sha1="69dcc5cf3024fbfd1ef050bae7050b3ed2eea6bf" date="1996-06-11 14:37:32"/>
+		<rom name="DRIVERS/DIGTEST3.WAV" size="53406" crc="33ced2fe" md5="b1082c681446352ab242d56d2820742b" sha1="249a4326280286996d6ce5d9bcf8922d7228b56a" date="1996-06-11 14:37:32"/>
+		<rom name="DRIVERS/ESFM.MDI" size="15084" crc="1aa86b62" md5="133a6b2b01da252dfa11b6e2ec5f5ebf" sha1="08b230f9306245fe00e1c8a098d3a6d3ee41fac0" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/JAMMER.DIG" size="3219" crc="230129e0" md5="4922c729c5e7b347089a2be44f296859" sha1="103e0bf92c6fd1c9fc925fd57bdc22e56170b395" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/MDI.INI" size="200" crc="4c3e0499" md5="5f8fbb933fd98d51e8d97df43e5eced9" sha1="399236cc977bbd7e84bc1ed11d965a2d48efdc76"/>
+		<rom name="DRIVERS/MIDITEST.XMI" size="15838" crc="6026b413" md5="f0872c4a02b012e2839020d15ce073bd" sha1="15787f668e76b3d7a28154ddd784aa841623f6ea" date="1996-06-11 14:37:32"/>
+		<rom name="DRIVERS/MIDITST2.XMI" size="15130" crc="1ab3574e" md5="73e8d49efd2e05fa0592e10c935b9f27" sha1="61ca7eab66b61424fa6feaa722d3805dda303d10" date="1996-06-11 14:37:32"/>
+		<rom name="DRIVERS/MPU401.MDI" size="1915" crc="70a67ea6" md5="965a57d16212beb0f68cb9f62bc7259b" sha1="6ee8364704c81319d04a2459dcc8e65460749a30" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/OPL3.MDI" size="16387" crc="74aad2f1" md5="84ce740acea5af9ef8d118174bff88c8" sha1="310b8b21f088ec0180c02c9fbe1edd744d76c9b2" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/PAS.MDI" size="15425" crc="01d01110" md5="bcc2a72a36663f40c019d0af2c95df13" sha1="a94fcb63700f1cbf46698d074526b5db48754b90" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/PASPLUS.MDI" size="16458" crc="c5a2ded9" md5="f5515c19a269ca2b1af13e9b3e3c3d3a" sha1="a9c4967e8ca11c529a49d8a54f8730b223c0289f" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/PROAUDIO.DIG" size="2127" crc="4b071066" md5="a054071be574b2bcf47a0386f1a98ae6" sha1="8debfb262849ebce1da3d45387d1595712c2667b" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/RAP10.DIG" size="2849" crc="47373ef0" md5="bb846bb23ee9065a09373afdb73cf054" sha1="6081bc6e447afeaad48a8361c92e7ce280f6ea7e" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/SB16.DIG" size="2836" crc="6ddaa5d2" md5="b24e361b7634b9b3eafcd2cbb592ba9b" sha1="f0734dae77c034f5cfcd7b353cd75adfb57871af" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/SBAWE32.MDI" size="32694" crc="dd43a7b8" md5="a66e04b5c067b95932857aff75f48f5d" sha1="a608005dd369a07f16e6acdadfd0fcdf95cc02ec" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/SBLASTER.DIG" size="3125" crc="d1b1a7d7" md5="b456d6385b74b700f09aec22ba14ca19" sha1="5eec3b5791ad5855c7a4440909db651b6aca3b2f" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/SBLASTER.MDI" size="15118" crc="670d5af4" md5="20fc92cf9e0d0d8e2447cd30252faee4" sha1="8e44d8bf0291e453d45477c6dd36fbd5ca40ac95" date="1996-06-11 14:37:38"/>
+		<rom name="DRIVERS/SBPRO.DIG" size="2763" crc="1061490f" md5="b0fe50da778c24cc4066e960a3d1a7c3" sha1="8bc27ebd0ec30dabfd354b948801946b7e8f33d8" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/SBPRO1.MDI" size="15471" crc="25370f67" md5="998eced7549230f6d621766f0cce4c39" sha1="92775d93ad5ee563ae8bf2b6f51ba8d444039e52" date="1996-06-11 14:37:38"/>
+		<rom name="DRIVERS/SBPRO2.MDI" size="16541" crc="0ab0493a" md5="8879265bf3b414346f66c326389e32ae" sha1="4a9d598979e14f4f8c0e76fe0246b305fb848955" date="1996-06-11 14:37:38"/>
+		<rom name="DRIVERS/SNDSCAPE.DIG" size="4171" crc="708a96a2" md5="9d7a052a680f45d244e0ee4735b7b55f" sha1="f9902b74d545813315194f5a1791c4ea0a9a1e0d" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/SNDSCAPE.MDI" size="2971" crc="ad1df3c2" md5="31ec7e6e06a3eb9e0bebff3e52ef1b0f" sha1="01e3ffef3aa6e9d312f190a9403ff8d167743aed" date="1996-06-11 14:37:38"/>
+		<rom name="DRIVERS/SNDSYS.DIG" size="3332" crc="86ecb774" md5="c67142fe53599b28ff7d53565576dbae" sha1="72a300265348a67c33945d0aa6b5c0ec3933dbcd" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/ULTRA.DIG" size="9478" crc="430d67f5" md5="000e584a06712d2f2b58eb2e17b65248" sha1="4327d6bb924b4e40fa7ff035bdfb73a879c31836" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/ULTRA.MDI" size="49672" crc="04849dc3" md5="9a1b881ab9e8f6d827f6c27c5df40d85" sha1="8337ada0962de33ee3eb8ebbf9d5d0c898f41fd2" date="1996-06-11 14:37:38"/>
+		<rom name="DRIVERS/WARCRAFT.AD" size="3622" crc="d986716d" md5="432b2e2d05f1e1e00ca9eeb814a693b0" sha1="f0033a93d52f1cb112f7b89028afbe5b1815eb6d" date="1996-06-11 14:37:36"/>
+		<rom name="DRIVERS/WARCRAFT.OPL" size="3622" crc="d986716d" md5="432b2e2d05f1e1e00ca9eeb814a693b0" sha1="f0033a93d52f1cb112f7b89028afbe5b1815eb6d" date="1996-06-11 14:37:36"/>
+		<rom name="ICEBRDGE.PUD" size="122510" crc="04846780" md5="514b826ce910157238a86e119f7bb9a3" sha1="57313e40bb41c7b1242aae1bab9afdf68e745673" date="1996-06-11 14:37:36"/>
+		<rom name="INSTALL.HST" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="ISLANDS.PUD" size="71518" crc="76743537" md5="9e746fb245d7044c54c5ec08cdc4dc19" sha1="7ceaf1bc69880d353ce3c1d190ebbc02c3af09aa" date="1996-06-11 14:37:36"/>
+		<rom name="LAND_SEA.PUD" size="71806" crc="31de68e9" md5="f5a2caac77de98c74d797a640b9afbd3" sha1="61e7ade12f82dbd74a0f31fa26a10cfcb5cd7c57" date="1996-06-11 14:37:36"/>
+		<rom name="MUTTON.PUD" size="18790" crc="ee2337c4" md5="ebb44f9cd4e2ab97eb9cda0d4b312bea" sha1="28d8d09b8ce4e3ad44cf0522096ba8517c498d11" date="1996-06-11 14:37:36"/>
+		<rom name="READ_140.TXT" size="3250" crc="a39196bc" md5="3f667164b667a37395dc710e2fc9eab9" sha1="f5b05e72de0bbe79e5c2edd9f461a08ec698b429" date="1997-07-14 13:21:40"/>
+		<rom name="README.TXT" size="8838" crc="1548421d" md5="d54af2fc07c746448a57c8692f0f07fc" sha1="8afd36e756d62e832b647bc039959fdc0c0c2736" date="1996-06-11 14:37:36"/>
+		<rom name="SETUP.EXE" size="581465" crc="4b844b3c" md5="29701af3414280c9803c40fed926e1c6" sha1="76ae862c0bf26e46bc9084021d3acb58d9878a53" date="1996-06-11 14:37:30"/>
+		<rom name="UVCONFIG.EXE" size="260250" crc="3731ecd2" md5="43e7d6c9a606c9d3c7f703e2056fdb1b" sha1="3c4c61563ab6df1fb145b05c925b178095c83ea9" date="1996-06-11 14:37:30"/>
+		<rom name="WAR2.EXE" size="884571" crc="87267fd2" md5="56cff3e4568af6fe2225fbc8539fd734" sha1="a6d44b87ceb4cc0da27626aff1f6ed1fbec54387" date="1997-07-10 16:54:14"/>
 		<rom name="WAR2.INI" size="365" crc="1213a8e0" md5="195e9e67a54dd65b07a922b760f2027f" sha1="eed37c196bd7ea731c940112cd4b4e82a12f1e47"/>
-		<rom name="WAR2.PIF" size="967" crc="25e8d2ca" md5="782379eb530521f08327c78de2403b57" sha1="f95fc40f297c477a985aea0aaec3e3e4d0c93b2b"/>
-		<rom name="WAR2ED95.EXE" size="370176" crc="9cb1effd" md5="7fdd803eb69affffe08990cd8e66008d" sha1="c01b3a87c47c56e4cea8b38c14e97402d123943d"/>
-		<rom name="WAR2ED95.HLP" size="70025" crc="61717575" md5="ff8e969ecacd486564ad5b7851a59fd6" sha1="73ed6e24e293578acc1a16dd8b545ac1dbe0b03e"/>
-		<rom name="WAR2EDIT.EXE" size="11264" crc="59a87a0f" md5="94542a0a0d03ea7f2b5884cb77626f7c" sha1="0b041e4a7307798681498f830fcfff4f834e0b15"/>
-		<rom name="WAR2ICON.DLL" size="15360" crc="cf8fd9fd" md5="340e6d0d9c2941531e078b692e7f7abc" sha1="70e1a5be0f94f034a466e28f3162ead4d586d6ab"/>
-		<rom name="WAR2KALI.EXE" size="3376" crc="f0b46eb2" md5="6432f373331845d92c2af7abac97d338" sha1="0fc6bef0f1653c1d85e8439feffd074a98b0bb2f"/>
-		<rom name="Warcraft II - Beyond the Dark Portal (Expansion Set) (USA) (Rerelease) (1996-10-09).chd" size="745699968" crc="83b86dc4" md5="dfe6788b9987f6f936c54ecd03dfdff3" sha1="05738612d8453846700ca4d4a36feb23b8691c25">
-			<track number="1" type="MODE1_RAW" frames="89405" pregap="0" duration="19:52:05" size="210280560" crc="18fb96e8" md5="a786cd34c4945d5ce932cbe06f9e1959" sha1="a2419eded71d9e013711977b71361c1f678f9abd" in_zeros="1" out_zeros="0"/>
-			<track number="2" type="AUDIO" frames="602" pregap="150" duration="00:08:02" size="1415904" crc="afe8ab5c" md5="2a79497726bdc49ba59c756a092bf9cb" sha1="944037ebec20fc40d858631a2243b4fb86beb51e" in_zeros="1415904" out_zeros="1415904"/>
-			<track number="3" type="AUDIO" frames="29309" pregap="0" duration="06:30:59" size="68934768" crc="a878e778" md5="b4a9464ba2fc726bde8f72b974c08bab" sha1="6622ae17d3fb4feda6afaf91ae795a4ff03d2ee6" in_zeros="7776" out_zeros="719088"/>
-			<track number="4" type="AUDIO" frames="32387" pregap="0" duration="07:11:62" size="76174224" crc="47259a27" md5="5590e081e28e3a2a10a07af696ad4f39" sha1="3485ab8f227f1d85909630abcc7872ce5db27915" in_zeros="7788" out_zeros="713725"/>
-			<track number="5" type="AUDIO" frames="16656" pregap="0" duration="03:42:06" size="39174912" crc="20b04eba" md5="72fdb2e75495e5092fb1724e9ac1c71a" sha1="0b58f542dceeb53c7846a4902485f7e0cb128b2f" in_zeros="7768" out_zeros="716964"/>
-			<track number="6" type="AUDIO" frames="16228" pregap="0" duration="03:36:28" size="38168256" crc="f82c2939" md5="e4b8ae2795f7421798988252c86cf2e3" sha1="0cdf89bd20f6dc4b5507aadfb22d32c7a3167df0" in_zeros="7796" out_zeros="709784"/>
-			<track number="7" type="AUDIO" frames="4353" pregap="0" duration="00:58:03" size="10238256" crc="ac09b7bb" md5="18783b6c7d281a1045992fb8eaa2a4ac" sha1="cc7e99752be0fc1215842a86fa7c7e1cb077f197" in_zeros="7780" out_zeros="712265"/>
-			<track number="8" type="AUDIO" frames="2836" pregap="0" duration="00:37:61" size="6670272" crc="610da223" md5="8718d41912d8e40982e9620533d0c6e3" sha1="ed7b6806116da02f7a2b1e51be6c607c7c16849f" in_zeros="7796" out_zeros="700149"/>
-			<track number="9" type="AUDIO" frames="4304" pregap="0" duration="00:57:29" size="10123008" crc="13fda3d8" md5="572ce4744d12256ac75cf35a6e0b83f9" sha1="630ea4739b56929300b2141d99d962c658b09dc9" in_zeros="7780" out_zeros="712993"/>
-			<track number="10" type="AUDIO" frames="26776" pregap="0" duration="05:57:01" size="62977152" crc="8f1f36f6" md5="420ecf86b9371f7bd939f9a8f1127925" sha1="370dc704f0b2d093c2a900e4f038e36e15020d83" in_zeros="7896" out_zeros="711781"/>
-			<track number="11" type="AUDIO" frames="16246" pregap="0" duration="03:36:46" size="38210592" crc="08e33a76" md5="235903d29937b89c5f5827730dbeef59" sha1="817e60eab84fe1c628e3ff50864b96bd9a6ff3a4" in_zeros="7768" out_zeros="711784"/>
-			<track number="12" type="AUDIO" frames="16201" pregap="0" duration="03:36:01" size="38104752" crc="bf66861c" md5="3c001734be4a12ff6801702cde026d02" sha1="c31d7407d7a803d0daac8ae119063258029ecaa9" in_zeros="8758" out_zeros="716777"/>
-			<track number="13" type="AUDIO" frames="15733" pregap="0" duration="03:29:58" size="37004016" crc="ed13bc88" md5="2a89bd9d29c317deb020380fa56348d6" sha1="0225aa53c1565e689182722a606ec8676a00131b" in_zeros="7796" out_zeros="714068"/>
-			<track number="14" type="AUDIO" frames="16088" pregap="0" duration="03:34:38" size="37838976" crc="2cd55328" md5="758fcfc5de63ba1fbe91ff044c6dfe8b" sha1="e86593ef348785a66aa1caf1e27696900a9349ba" in_zeros="7776" out_zeros="713344"/>
-			<track number="15" type="AUDIO" frames="6547" pregap="0" duration="01:27:22" size="15398544" crc="180ba631" md5="983270a04058ed59f092b39242c2c4ca" sha1="31625bd3f71cf117efef88790b62193cd0a33e0e" in_zeros="7796" out_zeros="712181"/>
-			<track number="16" type="AUDIO" frames="3188" pregap="0" duration="00:42:38" size="7498176" crc="bcdc67b5" md5="cfe22c3a6e2a2659934bf305c6b6a0fd" sha1="691bb5c68fb9a88afb7b3a5a7172342af3518c71" in_zeros="7816" out_zeros="702476"/>
-			<track number="17" type="AUDIO" frames="3419" pregap="0" duration="00:45:44" size="8041488" crc="2f60ea52" md5="e20a09df03ddf1c8077ce6b2c1eadb3a" sha1="d312f3e3f6aec016641377b825c735999a891f2a" in_zeros="7792" out_zeros="715801"/>
-			<track number="18" type="AUDIO" frames="10355" pregap="0" duration="02:18:05" size="24354960" crc="3550d756" md5="133a174ef15f178832850c52437e40c2" sha1="cf7830d058fcd94ed39b95f78288b522cb9cc225" in_zeros="7776" out_zeros="707242"/>
-		</rom>
-		<rom name="Warcraft II - Tides of Darkness (USA) (Rerelease) (1996-10-05).chd" size="695349504" crc="a61956f7" md5="9c126e8b88c2692150c203829954aa3c" sha1="6f0734edb93e22603528b7a72f15a2536288ed77">
-			<track number="1" type="MODE1_RAW" frames="101997" pregap="0" duration="22:39:72" size="239896944" crc="697d7350" md5="e501a3ab84f7d974056fabe4535dc622" sha1="e5197f073219536fab896b68d26dfa1f8ce5fe5c" in_zeros="1" out_zeros="0"/>
-			<track number="2" type="AUDIO" frames="602" pregap="150" duration="00:08:02" size="1415904" crc="afe8ab5c" md5="2a79497726bdc49ba59c756a092bf9cb" sha1="944037ebec20fc40d858631a2243b4fb86beb51e" in_zeros="1415904" out_zeros="1415904"/>
-			<track number="3" type="AUDIO" frames="16520" pregap="0" duration="03:40:20" size="38855040" crc="53e94ac2" md5="99e3d65cec3a00794270323984df42da" sha1="55371d426d87676c2a399c180de0543dcaa65078" in_zeros="14380" out_zeros="1069124"/>
-			<track number="4" type="AUDIO" frames="32387" pregap="0" duration="07:11:62" size="76174224" crc="28184fae" md5="3a2f1d15b52c0de4cf96e58123afa1df" sha1="5735645ce673b40bb550e07c3d5db590cd944b8f" in_zeros="7784" out_zeros="713729"/>
-			<track number="5" type="AUDIO" frames="16656" pregap="0" duration="03:42:06" size="39174912" crc="5f0cab13" md5="ac94e0e4686b3115ea98649e8ca6ba7d" sha1="38767037eafc5fd08921688142d6d4ad5c8a66c0" in_zeros="7748" out_zeros="716984"/>
-			<track number="6" type="AUDIO" frames="16228" pregap="0" duration="03:36:28" size="38168256" crc="f82c2939" md5="e4b8ae2795f7421798988252c86cf2e3" sha1="0cdf89bd20f6dc4b5507aadfb22d32c7a3167df0" in_zeros="7796" out_zeros="709784"/>
-			<track number="7" type="AUDIO" frames="4353" pregap="0" duration="00:58:03" size="10238256" crc="8477429d" md5="da2ab3ea0a7c11e848d7600d3816e680" sha1="51dd0ce78181623d9a94638f94c2d45087ba6f32" in_zeros="7776" out_zeros="712269"/>
-			<track number="8" type="AUDIO" frames="2836" pregap="0" duration="00:37:61" size="6670272" crc="f20867e3" md5="a3b8a3e357c061cb782aa1277166c527" sha1="d859378fc8c0222437f5145ae83107ecf9b76679" in_zeros="7776" out_zeros="700169"/>
-			<track number="9" type="AUDIO" frames="4304" pregap="0" duration="00:57:29" size="10123008" crc="fb4c3f4b" md5="11fd0af1ea2e68c3e03597da3b4ab4ac" sha1="65bc233835beab41aa1a9011060624b1ab368c42" in_zeros="7776" out_zeros="712997"/>
-			<track number="10" type="AUDIO" frames="16188" pregap="0" duration="03:35:63" size="38074176" crc="62a366ed" md5="6f8a5cde64b0cebba4ed86fadbbecc8f" sha1="022166e8b4e75dfe204c44a9c82d00616c18a0bd" in_zeros="14164" out_zeros="1064945"/>
-			<track number="11" type="AUDIO" frames="16246" pregap="0" duration="03:36:46" size="38210592" crc="ec32ca9f" md5="60542a85fe1881fd396cd3d55b7ca009" sha1="0e6f39e446b62b81cdb3d4da56ddf17b995460f1" in_zeros="7776" out_zeros="711776"/>
-			<track number="12" type="AUDIO" frames="16201" pregap="0" duration="03:36:01" size="38104752" crc="bf66861c" md5="3c001734be4a12ff6801702cde026d02" sha1="c31d7407d7a803d0daac8ae119063258029ecaa9" in_zeros="8758" out_zeros="716777"/>
-			<track number="13" type="AUDIO" frames="15733" pregap="0" duration="03:29:58" size="37004016" crc="ed13bc88" md5="2a89bd9d29c317deb020380fa56348d6" sha1="0225aa53c1565e689182722a606ec8676a00131b" in_zeros="7796" out_zeros="714068"/>
-			<track number="14" type="AUDIO" frames="16088" pregap="0" duration="03:34:38" size="37838976" crc="1d92a045" md5="0002ff3b9f2bb6e791fffe68b2d664ae" sha1="f4a35ab6f598d1a465969d9a29532314d59e3ce9" in_zeros="7780" out_zeros="713340"/>
-			<track number="15" type="AUDIO" frames="6547" pregap="0" duration="01:27:22" size="15398544" crc="02c280ee" md5="2b5d7abdcfebb1815cb8e12e8b48c07d" sha1="38fa9c37985b20d71654d0bb6aa889bd5d9de517" in_zeros="7800" out_zeros="712177"/>
-			<track number="16" type="AUDIO" frames="3188" pregap="0" duration="00:42:38" size="7498176" crc="443019fc" md5="6a07819b07ecacc15effdac510ba67be" sha1="700fe4adf2c9ba6c307950179eefa45a4181f8c6" in_zeros="7800" out_zeros="702492"/>
-			<track number="17" type="AUDIO" frames="3419" pregap="0" duration="00:45:44" size="8041488" crc="ddaa8d6c" md5="13945e800f33143dda430ab30facbd93" sha1="b3a765059f61eaf10baae9e8fa20a2fcc3bb277a" in_zeros="7800" out_zeros="715793"/>
-		</rom>
 	</game>
 	<game name="Wasteland (1988) (Interplay).dosz">
 		<description>Wasteland</description>
