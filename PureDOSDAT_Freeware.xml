@@ -10,6 +10,17 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
 	</header>
+	<game name="Beats of Rage (2003) (Senile Team).dosz">
+		<description>Beats of Rage</description>
+		<comment>v1.0029, matches with TDC entry: Beats of Rage v1.0029 (2004)(Senile Team) [Action]</comment>
+		<comment_dosc>Settings file included, sound card settings: frequency 44100, bits 16</comment_dosc>
+		<year>2003</year>
+		<developer>Senile Team</developer>
+		<link type="media">https://dosgames.com/game/beats-of-rage/</link>
+		<rom name="bor.exe" size="110296" crc="715b625f" md5="a0f73bf7c4361ccd1f4700999b99e9fd" sha1="cc9f0cc51d8434e6ef7ec28fff3f2f6509721bb7"/>
+                <rom name="BOR.PAK" size="62663611" crc="7adc75af" md5="38db386615e7863abb85e5bfc1ece9fb" sha1="76d2adc1915be5a0a98405061122eb8b4972610f"/>
+                <rom name="readyou.txt" size="4200" crc="9731f66d" md5="20f8b090a6738d22346c06bb734a0f00" sha1="8c250eec73ace8df3ae6b1f38b75b92c6dba173a"/>
+        </game>
 	<game name="Bubble Jeopardy (1998) (Dodgy Posse).dosz">
 		<description>Bubble Jeopardy</description>
 		<comment>No install was necessary.</comment>
