@@ -64,6 +64,15 @@
 		<rom name="disk1.img" size="1474560" crc="823798f5" md5="da445593f85ec7e3423df755ce5671c3" sha1="fcf4786b4d867577ea0911a40ceac5531a9995ec"/>
 		<rom name="disk2.img" size="1474560" crc="367f6fdc" md5="9d4b0d7ab112808a6d2221953cbbf956" sha1="176c46d57df5e8fe9221998b0f3d3ba7a096a836"/>
 	</game>
+	<game name="ALF - The First Adventure (1987) (Box Office) (Installation).dosz">
+		<description>ALF - The First Adventure</description>
+		<comment>Floppy matching TGOD 1868</comment>
+		<year>1987</year>
+		<developer>Box Office</developer>
+		<variant>Installation</variant>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1868</link>
+		<rom name="disk01.img" size="368640" crc="c4697935" md5="e4d2e5f479d0f72338bb6c23076d09ed" sha1="418e7c654cfdfdf843cecf70580e0bba0375077d"/>
+	</game>
 	<game name="Alien Rampage (1996) (Inner Circle Creations) (Installation).dosz">
 		<description>Alien Rampage</description>
 		<year>1996</year>
@@ -85,10 +94,10 @@
 	</game>
 	<game name="Altered Destiny (1990) (Accolade) (Installation).dosz">
 		<description>Altered Destiny</description>
-		<comment>3.5" floppy disks</comment>
 		<year>1990</year>
 		<developer>Accolade</developer>
 		<variant>Installation</variant>
+		<comment>3.5" floppy disks matching with TGOD ID: 1004</comment>
 		<link type="media">https://www.goodolddays.net/diskimages/id%2C1004/</link>
 		<rom name="disk1.img" size="737280" crc="2b9d8856" md5="925a0c309ba49217d80bb93a953536ff" sha1="521ec40a5d4c72771818579b5b678fa4c7f5b3d9"/>
 		<rom name="disk2.img" size="737280" crc="7f0450d7" md5="420e036ad3ac2ad6c119464a2c8c9142" sha1="eb70a96dec1297baea5fe4c7e17fe4c7f261f85c"/>
@@ -230,13 +239,13 @@
 	</game>
 	<game name="Bio Menace (1993) (Apogee Software) (Installation).dosz">
 		<description>Bio Menace</description>
-		<comment>v1.1, 3.5" floppy disks</comment>
 		<year>1993</year>
 		<developer>Apogee Software</developer>
 		<variant>Installation</variant>
+		<comment>v1.1, 3.5" floppy disks matching with TGOD ID: 487</comment>
 		<link type="media">https://www.goodolddays.net/diskimages/id%2C487/</link>
-		<rom name="disk1.img" size="1474560" crc="16e5328e" md5="cb42611481f66a3b75b3b7e3473743ca" sha1="2ffc1ea203c085c9f19feda4241984c4fb594d98" date="2000-12-31 20:00:00"/>
-		<rom name="disk2.img" size="1474560" crc="33d83897" md5="40007d27eb3fac4ca7377ac1d46b76c8" sha1="7ef3a391ce171c344ec50a5968d50b5754e512cb" date="2000-12-31 20:00:00"/>
+		<rom name="disk1.img" size="1474560" crc="16e5328e" md5="cb42611481f66a3b75b3b7e3473743ca" sha1="2ffc1ea203c085c9f19feda4241984c4fb594d98"/>
+		<rom name="disk2.img" size="1474560" crc="33d83897" md5="40007d27eb3fac4ca7377ac1d46b76c8" sha1="7ef3a391ce171c344ec50a5968d50b5754e512cb"/>
 	</game>
 	<game name="Bureau 13 (1995) (Take-Two Interactive Software) (Installation).dosz">
 		<description>Bureau 13</description>
@@ -348,10 +357,10 @@
 	</game>
 	<game name="Cosmo's Cosmic Adventure (1992) (Apogee Software) (Installation).dosz">
 		<description>Cosmo's Cosmic Adventure</description>
-		<comment>v1.20, 3.5" floppy disk</comment>
 		<year>1992</year>
 		<developer>Apogee Software</developer>
 		<variant>Installation</variant>
+		<comment>v1.20, 3.5" floppy disk matching with TGOD ID: 1911</comment>
 		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1911</link>
 		<rom name="disk01.img" size="1474560" crc="67739228" md5="344052e3d164afc044ef923308712f8c" sha1="cdb091162699b8f6bff8aff3bd1358781945fc36"/>
 	</game>
@@ -426,8 +435,8 @@
 		<rom name="disk3.img" size="368640" crc="e32a01da" md5="8f7def5565357a90d8a23a23baee1ac1" sha1="da0930ab4edf03fadeab40311ba9beb25f76729d"/>
 		<rom name="disk4.img" size="368640" crc="b343e058" md5="c158c40b46202df07d710c63453e2ffe" sha1="c2d8bb7348a79a742488fa12f5f2c1e3a837e22a"/>
 	</game>
-	<game name="Duke - Nuclear Winter (1997) (Simply Silly Software) (Installation).dosz">
-		<description>Duke - Nuclear Winter</description>
+	<game name="Duke Nukem 3D - Duke - Nuclear Winter (1997) (Simply Silly Software) (Installation).dosz">
+		<description>Duke Nukem 3D - Duke - Nuclear Winter</description>
 		<year>1997</year>
 		<developer>Simply Silly Software</developer>
 		<variant>Installation</variant>
@@ -436,8 +445,8 @@
 			<track number="1" type="MODE1_RAW" frames="9492" pregap="0" duration="02:06:42" size="22325184" crc="2748547d" md5="e0bdccd6369831e033a2bccb80b12a67" sha1="c1d3279d82d495f943d521e5739904315dab0555" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
-	<game name="Duke Caribbean - Life's a Beach (1997) (Sunstorm Interactive) (Installation).dosz">
-		<description>Duke Caribbean - Life's a Beach</description>
+	<game name="Duke Nukem 3D - Duke Caribbean - Life's a Beach (1997) (Sunstorm Interactive) (Installation).dosz">
+		<description>Duke Nukem 3D - Duke Caribbean - Life's a Beach</description>
 		<year>1997</year>
 		<developer>Sunstorm Interactive</developer>
 		<variant>Installation</variant>
@@ -446,8 +455,8 @@
 			<track number="1" type="MODE1_RAW" frames="33892" pregap="0" duration="07:31:67" size="79713984" crc="0ff0661a" md5="17897facf29d70379afeca5abcbf8e00" sha1="25d0f423d6a2e54601fa55a8469be789b48a88e6" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
-	<game name="Duke It Out in D.C. (1997) (Sunstorm Interactive) (Installation).dosz">
-		<description>Duke It Out in D.C.</description>
+	<game name="Duke Nukem 3D - Duke It Out in D.C. (1997) (Sunstorm Interactive) (Installation).dosz">
+		<description>Duke Nukem 3D - Duke It Out in D.C.</description>
 		<year>1997</year>
 		<developer>Sunstorm Interactive</developer>
 		<variant>Installation</variant>
@@ -456,8 +465,8 @@
 			<track number="1" type="MODE2_RAW" frames="8121" pregap="0" duration="01:48:21" size="19100592" crc="b80759b4" md5="390d213db2be9267d2c6cac50bbaa9e1" sha1="57d16d354fd086d5b119e3e25498619f1019b40b" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
-	<game name="Duke!ZONE II (1997) (Simply Silly Software) (Installation).dosz">
-		<description>Duke!ZONE II</description>
+	<game name="Duke Nukem 3D - Duke!ZONE II (1997) (Simply Silly Software) (Installation).dosz">
+		<description>Duke Nukem 3D - Duke!ZONE II</description>
 		<year>1997</year>
 		<developer>Simply Silly Software</developer>
 		<variant>Installation</variant>
@@ -585,6 +594,16 @@
 		<rom name="Fantasy Fest! (USA).chd" size="58184064" crc="2fcbd9ca" md5="330079b1f79ba74be09de8b626813efa" sha1="3458675c43af5febd32dccc7886381baa5e43f03">
 			<track number="1" type="MODE1" frames="23786" pregap="0" duration="05:17:11" size="48713728" crc="c4488445" md5="864c6acd62d536c127fdec3e8745eb70" sha1="3f3d3c1e2d98d819a6f1dbc8132509608b66dabf"/>
 		</rom>
+	</game>
+	<game name="Floor 13 (1992) (Virgin Interactive) (Installation).dosz">
+		<description>Floor 13</description>
+		<comment>Floppies matching TGOD 3392</comment>
+		<year>1992</year>
+		<developer>Virgin Interactive</developer>
+		<variant>Installation</variant>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=3392</link>
+		<rom name="disk1.img" size="1228800" crc="db55a725" md5="0c298a0e816a5b48e5212ad997b99d34" sha1="533e96e312551c2832eee1c2cc9c2dfd48b8e92c" date="1992-06-03 10:22:48"/>
+		<rom name="disk2.img" size="1228800" crc="88430468" md5="89b1f1eb6645e2dd01af1d5fecf8f104" sha1="2f5872bbfec9706521ba5dc19765c2fc310a3ab0" date="1992-06-03 10:39:22"/>
 	</game>
 	<game name="Fool's Errand, The (1989) (Miles Computing) (Installation).dosz">
 		<description>Fool's Errand, The</description>
@@ -797,8 +816,8 @@
 		<developer>Dynamix</developer>
 		<variant>Installation, Floppy Version</variant>
 		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1015</link>
-		<rom name="disk1.img" size="1474560" crc="0327fc20" md5="931c7fe50307bd5c872bce80c7869f51" sha1="a94d227493664c353df10201b04e3832212e8443" date="2012-11-17 10:23:36"/>
-		<rom name="disk2.img" size="1474560" crc="04011eac" md5="28893227dfb5c1d03ddca88f2ff51f89" sha1="031198909b03f8b0d478403c283ec72e44870b6c" date="2012-11-17 10:23:42"/>
+		<rom name="disk1.img" size="1474560" crc="0327fc20" md5="931c7fe50307bd5c872bce80c7869f51" sha1="a94d227493664c353df10201b04e3832212e8443"/>
+		<rom name="disk2.img" size="1474560" crc="04011eac" md5="28893227dfb5c1d03ddca88f2ff51f89" sha1="031198909b03f8b0d478403c283ec72e44870b6c"/>
 	</game>
 	<game name="Incredible Machine, The (1992) (Dynamix) (Installation).dosz">
 		<description>Incredible Machine, The</description>
@@ -986,21 +1005,21 @@
 	</game>
 	<game name="Lords of the Realm (1994) (Impressions Software) (Installation).dosz">
 		<description>Lords of the Realm</description>
-		<link type="media">http://redump.org/disc/47052/</link>
 		<year>1994</year>
 		<developer>Impressions Software</developer>
 		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/47052/</link>
 		<rom name="Lords of the Realm (USA).chd" size="82918656" crc="527e8673" md5="dd4b70ca88762f97d5f386b8bf02fe4c" sha1="1ff77e58bc2a7fde2083f8fb46c0efdfe55e18c1">
 			<track number="1" type="MODE1_RAW" frames="33862" pregap="0" duration="07:31:37" size="79643424" crc="3e68e5ec" md5="cb9596c7667ed861c3470ae283cdcc6e" sha1="f81041d2ad50ff6cba92bb0c6644b6f6b1b84809" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
 	<game name="Lords of the Realm II (1996) (Impressions) (Installation).dosz">
 		<description>Lords of the Realm II</description>
-		<comment>v1.03</comment>
-		<link type="media">http://redump.org/disc/47053/</link>
 		<year>1996</year>
 		<developer>Impressions</developer>
 		<variant>Installation</variant>
+		<comment>v1.03</comment>
+		<link type="media">http://redump.org/disc/47053/</link>
 		<rom name="Lords of the Realm II (USA).chd" size="670614912" crc="08a9ef34" md5="eb6ab938b6bd0f4c57b76ac13c005786" sha1="8a8a298f469a24ac9c04070d9e623e6fccd223bc">
 			<track number="1" type="MODE1_RAW" frames="273875" pregap="0" duration="60:51:50" size="644154000" crc="243af36f" md5="aced5d5ea401ee5847e9667c8ee8c7b9" sha1="6a3a4453e9df9f767096a5de022af3b81b535099" in_zeros="1" out_zeros="0"/>
 		</rom>
@@ -1088,21 +1107,21 @@
 	</game>
 	<game name="Metaltech - Earthsiege (1994) (Dynamix) (Installation).dosz">
 		<description>Metaltech - Earthsiege</description>
-		<comment>v1.0</comment>
-		<link type="media">http://redump.org/disc/27572/</link>
 		<year>1994</year>
 		<developer>Dynamix</developer>
 		<variant>Installation</variant>
+		<comment>v1.0</comment>
+		<link type="media">http://redump.org/disc/27572/</link>
 		<rom name="EarthSiege (USA).chd" size="61023744" crc="3c933446" md5="f8676197a24f203dc510369011c4e8f0" sha1="04db4cd10e127c2148127857f3be6b13686bbcc8">
 			<track number="1" type="MODE1_RAW" frames="24920" pregap="0" duration="05:32:20" size="58611840" crc="5b80ffd9" md5="cec34832b6c1ef27691430edd056f888" sha1="0db67fd95a75032c54ae63eb1b1a7d3345c1f9f1" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
 	<game name="Metaltech - Earthsiege - Expansion Pack (1995) (Dynamix) (Installation).dosz">
 		<description>Metaltech - Earthsiege - Expansion Pack</description>
-		<link type="media">http://redump.org/disc/94529/</link>
 		<year>1995</year>
 		<developer>Dynamix</developer>
 		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/94529/</link>
 		<rom name="EarthSiege - Expansion Pack (USA).chd" size="161293824" crc="eecf19cb" md5="1b753749b4d21de388a512c9e2c655c0" sha1="1bbf38d76b180a83e5ae455ca630a101ab3bb92f">
 			<track number="1" type="MODE1_RAW" frames="65872" pregap="0" duration="14:38:22" size="154930944" crc="552050c4" md5="89eaa48f6ca73bbbb23526ff5e3bddd2" sha1="7ea6f149a46c173a8ede40a4383f99e5c186133e" in_zeros="1" out_zeros="0"/>
 		</rom>
@@ -1195,10 +1214,10 @@
 	</game>
 	<game name="Oregon Trail, The (1992) (MECC) (Installation).dosz">
 		<description>Oregon Trail, The</description>
-		<comment>v3.0.1</comment>
 		<year>1992</year>
 		<developer>MECC</developer>
 		<variant>Installation</variant>
+		<comment>v3.0.1</comment>
 		<link type="media">http://redump.org/disc/87904/</link>
 		<rom name="Oregon Trail, The - Classic Edition (USA).chd" size="7735680" crc="2775742f" md5="b8d7e6d7a2a8c85753103349929c967f" sha1="10139ade4aa0a8be7466836654ee0be8e2729fd0">
 			<track number="1" type="MODE1_RAW" frames="3152" pregap="0" duration="00:42:02" size="7413504" crc="7e79a453" md5="35cd12bdcf699c4d790f88b52b266b8b" sha1="50f8f087ca68ee0319dafe08d8af585b7ba69c51" in_zeros="1" out_zeros="0"/>
@@ -1339,11 +1358,11 @@
 	</game>
 	<game name="Pipe Dream (1989) (The Assembly Line) (Installation).dosz">
 		<description>Pipe Dream</description>
-		<comment>AKA Pipe Mania. 3.5" floppy disk</comment>
-		<link type="media">https://www.goodolddays.net/en/diskimages/?id=118</link>
 		<year>1989</year>
 		<developer>The Assembly Line</developer>
 		<variant>Installation</variant>
+		<comment>AKA Pipe Mania. 3.5" floppy disk</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=118</link>
 		<rom name="disk1.img" size="737280" crc="5e10e11f" md5="4e7bdd81937b8ed1281f4883238fc7b9" sha1="d1eeb479d67365bc4f273027fd05a7d1992b58fa"/>
 	</game>
 	<game name="Police Quest Collection (1991) (Installation).dosz">
@@ -1359,15 +1378,24 @@
 	</game>
 	<game name="Prince of Persia 2 - The Shadow and the Flame (1993) (Broderbund Software) (Installation).dosz">
 		<description>Prince of Persia 2 - The Shadow and the Flame</description>
-		<comment>v1.0, 3.5" floppy disks</comment>
-		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1106</link>
 		<year>1993</year>
 		<developer>Broderbund Software</developer>
 		<variant>Installation</variant>
-		<rom name="disk1.img" size="1474560" crc="6d27f6de" md5="1c6d81d1834cacda1e08647e65e46d6d" sha1="1a2ceb2ec3a5da788b85f887ba5aa1cf9b36f9c4" date="2013-04-08 05:13:26"/>
-		<rom name="disk2.img" size="1474560" crc="33cce22a" md5="9a0eaf45bdfcf30b3a66c2c234325715" sha1="d3f209d983e127ee441da34ac86b6d4108dbbad8" date="2013-04-08 05:13:26"/>
-		<rom name="disk3.img" size="1474560" crc="e16b92e4" md5="a091dd62cef589036c5ee3da60b64f03" sha1="2a7867645727462228143cb2b5d26792945c50c1" date="2013-04-08 05:13:30"/>
-		<rom name="disk4.img" size="1474560" crc="f5366618" md5="9e2682107955016017d9c46d2dd69a5a" sha1="00d33bef46d8435665fce0727271376ac2b43f2e" date="2013-04-08 05:13:30"/>
+		<comment>v1.0, 3.5" floppy disks matching with TGOD ID: 1106</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1106</link>
+		<rom name="disk1.img" size="1474560" crc="6d27f6de" md5="1c6d81d1834cacda1e08647e65e46d6d" sha1="1a2ceb2ec3a5da788b85f887ba5aa1cf9b36f9c4"/>
+		<rom name="disk2.img" size="1474560" crc="33cce22a" md5="9a0eaf45bdfcf30b3a66c2c234325715" sha1="d3f209d983e127ee441da34ac86b6d4108dbbad8"/>
+		<rom name="disk3.img" size="1474560" crc="e16b92e4" md5="a091dd62cef589036c5ee3da60b64f03" sha1="2a7867645727462228143cb2b5d26792945c50c1"/>
+		<rom name="disk4.img" size="1474560" crc="f5366618" md5="9e2682107955016017d9c46d2dd69a5a" sha1="00d33bef46d8435665fce0727271376ac2b43f2e"/>
+	</game>
+	<game name="Qix (1982) (Taito) (Installation).dosz">
+		<description>Qix</description>
+		<comment>Floppy matching TGOD 502</comment>
+		<year>1982</year>
+		<developer>Taito</developer>
+		<variant>Installation</variant>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=502</link>
+		<rom name="disk1.img" size="368640" crc="987790d2" md5="5480a8fe869ccb7ddae0ad663abbc193" sha1="9f8425ffc6f92802525291547969a1452960fb2b"/>
 	</game>
 	<game name="Quake - Abyss of Pandemonium (1998) (Impel Development Team) (Installation).dosz">
 		<description>Quake - Abyss of Pandemonium</description>
@@ -1428,14 +1456,14 @@
 	</game>
 	<game name="Raptor - Call of the Shadows (1994) (Cygnus Studios) (Installation).dosz">
 		<description>Raptor - Call of the Shadows</description>
-		<comment>v1.2, 3.5" floppy disks</comment>
 		<year>1994</year>
 		<developer>Cygnus Studios</developer>
 		<variant>Installation</variant>
+		<comment>v1.2, 3.5" floppy disks matching with TGOD ID: 2333</comment>
 		<link type="media">https://www.goodolddays.net/en/diskimages/?id=2333</link>
-		<rom name="disk1.img" size="1474560" crc="c4a8a748" md5="9a567a353f7a3aec1f35b318bce8d652" sha1="b5377abe6a142d1dc3ff7019d2e77dd009799d3f" date="2013-10-20 11:31:00"/>
-		<rom name="disk2.img" size="1474560" crc="9b3b7f22" md5="e8b088fffb7cd22e6cc9c2737d122131" sha1="79f93a72a9c9375ce5bc21b0b84d703ccb8100cd" date="2013-10-20 11:31:00"/>
-		<rom name="disk3.img" size="1474560" crc="05443ceb" md5="8a3f5d00b969d758276bda258ebe1da7" sha1="3b8bd610d90677a830f9b4e297e4a89343cb86a2" date="2013-10-20 11:31:00"/>
+		<rom name="disk1.img" size="1474560" crc="c4a8a748" md5="9a567a353f7a3aec1f35b318bce8d652" sha1="b5377abe6a142d1dc3ff7019d2e77dd009799d3f"/>
+		<rom name="disk2.img" size="1474560" crc="9b3b7f22" md5="e8b088fffb7cd22e6cc9c2737d122131" sha1="79f93a72a9c9375ce5bc21b0b84d703ccb8100cd"/>
+		<rom name="disk3.img" size="1474560" crc="05443ceb" md5="8a3f5d00b969d758276bda258ebe1da7" sha1="3b8bd610d90677a830f9b4e297e4a89343cb86a2"/>
 	</game>
 	<game name="Realms of Arkania I-II (1994) (Attic Entertainment) (Installation).dosz">
 		<description>Realms of Arkania I-II</description>
@@ -1530,10 +1558,10 @@
 	</game>
 	<game name="Secret of Monkey Island, The (1990) (Lucasfilm Games) (Installation, Floppy Version).dosz">
 		<description>Secret of Monkey Island, The</description>
-		<comment>VGA v1.1 XL Kixx release, 3.5" floppy disks</comment>
 		<year>1990</year>
 		<developer>Lucasfilm Games</developer>
 		<variant>Installation, Floppy Version</variant>
+		<comment>VGA v1.1 XL Kixx release, 3.5" floppy disks matching with TGOD ID: 3012</comment>
 		<link type="media">https://www.goodolddays.net/diskimages/id%2C3012/</link>
 		<rom name="disk1.img" size="737280" crc="6e2a88e9" md5="656381dfbcae282aa352aa609f7cd858" sha1="fb9c3ab1e392292eb40209db9ce840e5689c88d4"/>
 		<rom name="disk2.img" size="1474560" crc="b480b9cc" md5="302aaa440d81a87ea542067118b1b63b" sha1="a8d94121f86289ece8708c00618296716be3292f"/>
@@ -1887,6 +1915,16 @@
 		<link type="media">http://redump.org/disc/78286/</link>
 		<rom name="Ultimate Might and Magic Archives, The (USA).chd" size="647662464" crc="502dccdd" md5="fe78b154ecd335664cbfaa835bc9d9cd" sha1="3d993e96fbbbc362ef68324a9e0988a45fae9421">
 			<track number="1" type="MODE1_RAW" frames="264510" pregap="0" duration="58:46:60" size="622127520" crc="960af0cd" md5="f4b399eb72fecf2d77b2a37d650e3900" sha1="ece918b18a5cb0d3b3a5c2586d697d9bc7da86ab" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
+	<game name="Ultimate RPG Archives, The (USA) (Installation).dosz">
+		<description>Ultimate RPG Archives, The</description>
+		<comment>Used for Bard's Tale trilogy</comment>
+		<developer>USA</developer>
+		<variant>Installation</variant>
+		<link type="media">http://redump.org/disc/20379/</link>
+		<rom name="Ultimate RPG Archives, The (USA) (Disc 2).chd" size="116975232" crc="207e2c72" md5="572eab616bcb4d3f991cdceb0a1af357" sha1="9adc301507c44f74ec045752fbb6406882e02006">
+			<track number="1" type="MODE1_RAW" frames="47766" pregap="0" duration="10:36:66" size="112345632" crc="c3211837" md5="f37b99c54a3ac37fe3d70ebe1c576517" sha1="e531202bb6ce51c111cef2bf5dc3f2e41d43ba0e"/>
 		</rom>
 	</game>
 	<game name="Ultimate Wizardry Archives, The (1998) (Sir-tech Software) (Installation).dosz">
