@@ -1457,6 +1457,16 @@
 		<rom name="YSTDY.EXE" size="110021" crc="b21092c5" md5="030b02bb9a014dc24f9d1954c4f024e5" sha1="ff91056689312a113f28ad308fdbc86ebb4c70c6" date="1989-07-31 12:00:00"/>
 		<rom name="YSVOICES.BIN" size="288" crc="5676d353" md5="f986c994a0403dc8e5f11113853b7520" sha1="da1c002f1dc1257c904ebc67b9cd042a3211c99f" date="1989-07-31 12:00:00"/>
 	</game>
+	<game name="Axia (1998) (Dungeon Dwellers Design).dosz">
+		<description>Axia</description>
+		<comment>Matches with TDC entry: Axia [SWR] (1998)(Dungeon Dwellers Design) [Action]</comment>
+		<comment_dosc>Sound Blaster config, auto start</comment_dosc>
+		<year>1998</year>
+		<developer>Dungeon Dwellers Design</developer>
+		<rom name="AXIA.DAT" size="7411360" crc="8e5b33c3" md5="a293606d5b11bbf9b785357a82370d6c" sha1="05b87ffb4a5889af01196bdde36395ee6dfb2b0a" date="1998-05-31 12:15:46"/>
+                <rom name="AXIA.EXE" size="173062" crc="b07e746e" md5="48f017042e7b5a0536d70a162bab30b8" sha1="91004e8dccccdcdbf2d2a72480c3d02b91ed5e33" date="1998-05-31 19:41:54"/>
+                <rom name="SETUP.BAT" size="15" crc="f930b032" md5="9eb1138384528792cbdd92e081a7c25b" sha1="515208d2240fc74680e2387f701c95fd0656ed12" date="1997-03-25 07:40:56"/>
+        </game>
 	<game name="Battle Arena Toshinden (1996) (Tamsoft).dosz">
 		<description>Battle Arena Toshinden</description>
 		<comment>Recommended installation from US CD-ROM release, patched to version 2.5, GLIDE2X.OVL from 3dfx Voodoo1 V3.01 driver package and CD image converted with CHDtoOGG with empty data partition</comment>
