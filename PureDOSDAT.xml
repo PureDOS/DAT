@@ -11587,6 +11587,44 @@
 		<rom name="README.EXE" size="24334" crc="39487616" md5="74bcba24fd4d522aa1d4557f75578e46" sha1="134aa379e8ceac9bee71f6b76d22f9c187165ed1" date="1994-11-16 15:21:18"/>
 		<rom name="README.TXT" size="22795" crc="34d5700f" md5="51fb744c9a60c1bddfdba4d077724dc6" sha1="2b6cae5c46911ec525aee49f5b7ee98650c26e73" date="1996-05-09 10:14:00"/>
 	</game>
+	<game name="Gender Wars (1996) (The 8th Day).dosz">
+		<description>Gender Wars</description>
+		<comment>Installed from US CD-ROM release, Sound Blaster 16 installation option, CD image converted with CHDtoOGG (quality level -q9)</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>1996</year>
+		<developer>The 8th Day</developer>
+		<link type="media">http://redump.org/disc/67880</link>
+		<rom name="CD/Gender Wars (USA) (Track 1).bin" size="134948352" crc="077d3f7d" md5="eb133962b67e0615ac880351443f7959" sha1="ae815ac1706d77a076f343edd298f6c2b5eb8e0e"/>
+                <rom name="Gender Wars (USA) (Track 2).ogg" size="8853158" crc="7c7ef4f0" md5="bba3c0e5f43373fc03321e372e0655b6" sha1="d0bf0c9b21038ad7a9717b5788469402729fa75a">
+                        <source type="AUDIO" frames="15486" omitted_pregap="150" duration="03:26:36" size="36423072" crc="861727b9" md5="91e465fc63722d8135a64b54226386d4" sha1="062d35fab0a8a5fca46db79970f290e84df631c3" in_zeros="584" out_zeros="9049" quality="9"/>
+                </rom>
+                <rom name="Gender Wars (USA) (Track 3).ogg" size="9209404" crc="0774d688" md5="c685236a882558f9aca08b8702e68bec" sha1="6951042bfc425777882f32bed1342b03e29352c4">
+                        <source type="AUDIO" frames="18110" omitted_pregap="148" duration="04:01:35" size="42594720" crc="225ec571" md5="a9303becab12a47575746e11ea692c6a" sha1="ab9f4d179ae2c89d2e7969160b0f8d993e5b0956" in_zeros="584" out_zeros="11097" quality="9"/>
+                </rom>
+                <rom name="Gender Wars (USA) (Track 4).ogg" size="9013920" crc="acf7315a" md5="c23701cbaab4e7c0ddc18ce80ac7d143" sha1="0654855d5df7d16308d64c6315678f55bcd0f351">
+                        <source type="AUDIO" frames="17275" omitted_pregap="148" duration="03:50:25" size="40630800" crc="e1e4356d" md5="ec6e042a2b199bb13dafb61dffb60d44" sha1="4885f7fbc51680c92a75b8a80229464d41971118" in_zeros="584" out_zeros="9160" quality="9"/>
+                </rom>
+                <rom name="Gender Wars (USA) (Track 5).ogg" size="10014650" crc="8c15ea0d" md5="0e197074a86c3cb7aa0d45e47949e97c" sha1="d5978f4db93c6e12b0bbb5894ed001430bdcf6eb">
+                        <source type="AUDIO" frames="17327" omitted_pregap="148" duration="03:51:02" size="40753104" crc="439da03f" md5="e043b7f236d4407c42e4e9709b573a2e" sha1="e34afd15a23f8721f4f1ec5f17f9c429d210c2f0" in_zeros="584" out_zeros="9609" quality="9"/>
+                </rom>
+                <rom name="Gender Wars (USA) (Track 6).ogg" size="10203233" crc="edf07315" md5="0e3a726d0b71bedc9b87f1e00e066aa3" sha1="1dcbdc7037d67644bd37243174d840fd0c5ab9d1">
+                        <source type="AUDIO" frames="19536" omitted_pregap="148" duration="04:20:36" size="45948672" crc="cc337aee" md5="7454f4bf99ea021e37f070b3e1573cdf" sha1="ddb1413ac5a40af869b081f065b268ec924a2e54" in_zeros="584" out_zeros="5305" quality="9"/>
+                </rom>
+                <rom name="CD/Gender Wars (USA).cue" size="623" crc="a22717b0" md5="c0674b4eeb8d11ba83cb8e5cc27c0461" sha1="cfbe8ad52f90969fc20dc27568e42bb6ca413ef9"/>
+                <rom name="GW/EXP_0015.SMP" size="16570" crc="333de981" md5="d19fc90cbaf24ade000aae3670481796" sha1="00f50de141cff2f686b12c3586f5298a9fac0105"/>
+                <rom name="GW/FEMLAF01.SMP" size="33414" crc="1ba6a30d" md5="3e89ee28485ec21551cdd884e0894f62" sha1="7aca5e423c6a6054efede093f082f9f5fdd9e91e"/>
+                <rom name="GW/GW.EXE" size="738736" crc="3b257dc2" md5="9691e043dc8061b900a5d7a79f78eb59" sha1="2de160dca7ec484315e789080fc9d9c30d19f37f"/>
+                <rom name="GW/HMIDET.386" size="83774" crc="ae8d1a06" md5="b6656f8af855be3184d2b9f10de91ef5" sha1="c3b75ab63273edfed1bb15acf59b321102781a96"/>
+                <rom name="GW/HMIDRV.386" size="317317" crc="21c398b8" md5="2de5f490362469628841199644a38e02" sha1="32c89e02cae4c33d1c0b93562f4ca0fe86c4a199"/>
+                <rom name="GW/INSTALL.EXE" size="269670" crc="7126f6e6" md5="523416e463719ee2f8b858ddc5b71a13" sha1="ea0265647dafbe31b133d0e235c0f40e76c43013"/>
+                <rom name="GW/INSTALL.PIC" size="15396" crc="8a8d7ba4" md5="cfd78a8723b025ae5a4bc20900ab5a3c" sha1="221d3ca51f72f1465ac22d60da37565e731718f6"/>
+                <rom name="GW/NOOOOO.SMP" size="26852" crc="2a621593" md5="ccb2fb59eb23b69e5d6cdbba2cc44e0a" sha1="d357416f2e56fd1bebbdd323fe3ea2aecd974daa"/>
+                <rom name="GW/SETUP.INF" size="30" crc="9e4b62a3" md5="9e8fa8db7b6812fafce3dd49a356b299" sha1="20fefee8671609470996a5c7e2c062ffb0dcb2a3"/>
+                <rom name="GW/STUFF/BANANA.DAT" size="16309368" crc="6c363f93" md5="3bbbef8f534b4bf3649ab824e9c69b3f" sha1="b85113daf9bbbea9f6748109673d76b0365efc88"/>
+                <rom name="GW/STUFF/BANANA.DIR" size="34580" crc="d9533986" md5="8b3aa20749fb47184fc14bc6af91ffe1" sha1="4f8afc4f105817a7ed31c027da317e0cbc05ecd0"/>
+                <rom name="GW/TEMP/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-12-31 00:00:00"/>
+                <rom name="GW/UVCONFIG.EXE" size="280012" crc="1639937c" md5="39e1ff1f600b4f809b173e056c4a1e97" sha1="b67605f450396cd77faa14dff3f891f15ef79739"/>
+        </game>
 	<game name="Gobliins 2 - The Prince Buffoon (1992) (Coktel Vision).dosz">
 		<description>Gobliins 2 - The Prince Buffoon</description>
 		<comment>Installed from CD</comment>
