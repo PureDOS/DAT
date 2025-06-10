@@ -14579,7 +14579,11 @@
 	</game>
 	<game name="NIRA - Intense Import Drag Racing (1999) (Bethesda Softworks).dosz">
 		<description>NIRA - Intense Import Drag Racing</description>
-		<comment>Installed from US CD-ROM release (v1.00), 3Dfx version only (glide2x.ovl needed)</comment>
+		<comment>
+			Installed from original US CD-ROM (v1.00) 
+			3Dfx version only
+			Needs glide2x_emu.ovl from DOSBox SVN Daum 20150125, rename it to glide2x.ovl
+		</comment>
 		<comment_dosc>Copy protection removal patch, Sound Blaster 16 config, auto start</comment_dosc>
 		<year>1999</year>
 		<developer>Bethesda Softworks</developer>
@@ -14655,7 +14659,7 @@
                 <rom name="FONTS/FONT9.FNT" size="8644" crc="ad44d3e2" md5="5fae1826af0296b5238b54dad2f46673" sha1="511a6e21267b5dce6078281f4939cfe6bf25e43a" date="1998-05-11 19:21:02"/>
                 <rom name="FONTS/HOTROD11.FNT" size="8644" crc="a17ab47a" md5="5a752aebd494795203124041ddb37511" sha1="06f9d9027fe506a0df268ad6d778d7a049fed455" date="1997-12-09 20:59:28"/>
                 <rom name="FONTS/HOTROD13.FNT" size="8644" crc="fb6c4621" md5="99aa558b1c229f2811fea71e7566a4a1" sha1="79a9c103115d2ffb48156f58a10b2eba54df52ef" date="1997-12-09 21:25:38"/>
-                <rom name="glide2x.ovl" size="348791" crc="59fe3338" md5="341b8f5d82daa46fd1ce236300317c3c" sha1="331e01dd4ab66c6acac3f2ffa62aae5e9dfdfb8e" date="2018-08-15 22:08:14"/>
+                <rom name="glide2x.ovl" size="348791" crc="59fe3338" md5="341b8f5d82daa46fd1ce236300317c3c" sha1="331e01dd4ab66c6acac3f2ffa62aae5e9dfdfb8e" date="2013-01-24 11:35:56"/>
                 <rom name="LICENSE.TXT" size="4824" crc="533edab4" md5="3d0cf15022a330f69668188c3a103df1" sha1="3db7c4cc99d50771a859d045c7fca10a97f3c418" date="1999-03-24 17:27:10"/>
                 <rom name="MISC/BURN.H2L" size="32768" crc="ebfaa1e7" md5="be5647b333435e10a2b5f263cb25605e" sha1="650096c524ea173c6ef3b3b870389c4f65abdf95" date="1997-10-07 13:03:42"/>
                 <rom name="MISC/BURNOUT.ICO" size="766" crc="6819b7ab" md5="15981233c8764d9a1241864dea927474" sha1="a6f3de69783e5185afe5fa9d9861eaf25b5cd5eb" date="1998-03-11 19:01:16"/>
