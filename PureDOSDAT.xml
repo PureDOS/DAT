@@ -3965,7 +3965,12 @@
 	</game>
 	<game name="Burnout - Championship Drag Racing (1998) (Bethesda Softworks).dosz">
 		<description>Burnout - Championship Drag Racing</description>
-		<comment>Installed from Player's Choice Edition re-release CD-ROM (v2.06), 3Dfx version only (glide2x.ovl needed)</comment>
+		<comment>
+			Installed from Player's Choice Edition re-release CD-ROM (v2.06) 
+			3Dfx version only
+			Needs glide2x_emu.ovl from DOSBox SVN Daum 20150125, rename it to glide2x.ovl 
+			Needs config file: create PCE.CFG file and type D: C:\PRO_DRAG\
+		</comment>
 		<comment_dosc>Sound Blaster 16 config, auto start</comment_dosc>
 		<year>1998</year>
 		<developer>Bethesda Softworks</developer>
@@ -4195,6 +4200,7 @@
                 <rom name="PRO_DRAG/MISC/SSPRK0.BSI" size="126" crc="c6e388b4" md5="d9667673dd4fc47df5f6fb3548dce3d2" sha1="2070570464e48ce2adcb432235042b2ff790094e" date="1998-01-30 20:38:38"/>
                 <rom name="PRO_DRAG/MISC/SWSMOK.BSI" size="17262" crc="2fdf14bc" md5="026ff34c577b156b6fb26c166f5a8991" sha1="e44ab0915b9c86a63c3b887d7738e1f69766d394" date="1998-04-23 15:48:32"/>
                 <rom name="PRO_DRAG/MISC/UIBURN.ICO" size="766" crc="09cb0aa3" md5="bfc99d02949d1704516a694dab296c0d" sha1="8b7dc4b62747539b13f33f8252c12c09bd9d11c9" date="1998-03-04 02:25:48"/>
+                <rom name="PRO_DRAG/PCE.CFG" size="15" crc="39dbc848" md5="bbfab5f2b4052530917aa92259ba3f90" sha1="6ad61cb8d3b688535cd7fc6c652e37ed954b057c" date="2013-11-23 10:34:38"/>
                 <rom name="PRO_DRAG/PCE.EXE" size="1140132" crc="3d361887" md5="a240abeaf7665864bfd45e3518851b24" sha1="cc0c53a214242b00899cf86fe52eceb8d8270fb4" date="1999-03-25 18:16:30"/>
                 <rom name="PRO_DRAG/README.TXT" size="10729" crc="cbaaa6ff" md5="69b4170aa9b46a6a7f4fbed8f921c932" sha1="58ecc094dc749ace0029be72b5f09f3ff3b0a5e9" date="1999-03-28 20:39:50"/>
                 <rom name="PRO_DRAG/SAVE/BMP/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-12-31 00:00:00"/>
