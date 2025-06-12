@@ -13367,6 +13367,34 @@
 		<rom name="VESA.DRV" size="35" crc="d3c60945" md5="8b6220a473e9a6c0f7a8ec471a401782" sha1="2526f8324466ea58c69b67e4412b1e6153a25f14" date="1993-10-20 12:26:36"/>
 		<rom name="VESATEST.EXE" size="182414" crc="3501d3da" md5="ec6a657271a6067ed18583afcd58ec5a" sha1="c75a31cfe008e0a1b66d465307129dcd434357de" date="1993-12-03 13:35:42"/>
 	</game>
+	<game name="Last Express, The (1997) (Smoking Car Productions).dosz">
+		<description>The Last Express</description>
+		<comment>Installed from original US CD-ROM (installation process itself will take a while)</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<year>1997</year>
+		<developer>Smoking Car Productions</developer>
+		<link type="media">http://redump.org/disc/9657/</link>
+		<link type="media">http://redump.org/disc/9658/</link>
+		<link type="media">http://redump.org/disc/9659/</link>
+		<rom name="EXPRESS/BLUE.EGG" size="138586" crc="ff58dac9" md5="054d419125274b6b1530440ac9945aca" sha1="1ac25306d28d0a33fba5e6b38f0d5d1b17707147" date="1980-01-01 03:00:04"/>
+                <rom name="EXPRESS/EXPRESS.EXE" size="1084369" crc="e4ff6617" md5="94845f6acef2ced890e16646e0ccdd56" sha1="7ff16b606940fb76e2f47dcaa650c218248b6106" date="1997-02-13 01:29:08"/>
+                <rom name="EXPRESS/GOLD.EGG" size="300618" crc="2fa9bbf2" md5="bc5e6850d2ec557ea66d15d0e01480ec" sha1="149f7caf22d9d69c546258e57392eb2dcbf05e98" date="1980-01-01 03:00:04"/>
+                <rom name="EXPRESS/GREEN.EGG" size="2263367" crc="17e923c7" md5="c10c5661d2c3585db8e448f45bc51b22" sha1="cc7d1267109366819780e8893b385c6c979c47d3" date="1980-01-01 03:00:04"/>
+                <rom name="EXPRESS/HD.HPF" size="29865984" crc="8d336652" md5="89e8310cf5edfa5239705ec3fb8cde9c" sha1="c054919fc60c854f522a75025ce63dcbdf5ce9fb" date="1997-02-13 03:38:18"/>
+                <rom name="EXPRESS/PURPLE.EGG" size="1495437" crc="d7c8320e" md5="f7888c5805f356903dab82db1efc2bc1" sha1="afc8b7d8a6d71684e65603f8df66ebf073ed43d8" date="1980-01-01 03:00:04"/>
+                <rom name="EXPRESS/README.TXT" size="12190" crc="1e1cbd96" md5="6a8a8cc3f9cad964b78b20dd6b2d2bb7" sha1="756cd3f4a4c5c46d9bb40df09f37f4bf8a8396d6" date="1997-02-13 01:33:06"/>
+                <rom name="EXPRESS/RED.EGG" size="176310" crc="8dcc6fc3" md5="f7431db5a33f378f090ab81dfbeb6169" sha1="8da21cd23158112f58c79d0920b7181d848fb826" date="1980-01-01 03:00:04"/>
+                <rom name="EXPRESS/TEAL.EGG" size="173945" crc="cad82759" md5="b66d4e2c348377b0612dfada303b9e0f" sha1="22964980e8c6dec3d54c216e6a77fce452bb8301" date="1980-01-01 03:00:04"/>
+                <rom name="Last Express, The (USA) (CD 1 of 3).chd" size="759095424" crc="80df4491" md5="ecdb7714ac25bd2382f5a3cca5afa2c7" sha1="06ca8ced8250bb6e5b9bf61fb02240cc6770be4f">
+                        <track number="1" type="MODE1_RAW" frames="310022" pregap="0" duration="68:53:47" size="729171744" crc="f93cd3bf" md5="517991c7be6675485637daf28c4349de" sha1="0dcdcb58bed353dfd94945b26a5cf1c6df1d0c3c"/>
+                </rom>
+                <rom name="Last Express, The (USA) (CD 2 of 3).chd" size="804491136" crc="96a6cb65" md5="040c5c1ad789fefbe22a2a7bbb2a57c4" sha1="da49e8c5282272a9eb32e9aaf85738df88810b98">
+                        <track number="1" type="MODE1_RAW" frames="328560" pregap="0" duration="73:00:60" size="772773120" crc="355c4ed1" md5="cdba2d6768bf36ce1bfedd3d9c4616df" sha1="5e3d24096746ffa3ee3a30a94368e310ba5cad0d"/>
+                </rom>
+                <rom name="Last Express, The (USA) (CD 3 of 3).chd" size="778699008" crc="1209fecc" md5="8fd4a7583741a9d80f857a8bbc3bd5a6" sha1="8951ebb9042b89be3507b07032f9f939bcdf4a90">
+                        <track number="1" type="MODE1_RAW" frames="318024" pregap="0" duration="70:40:24" size="747992448" crc="6052df2c" md5="baf9797a2968116880bcdb7087815c44" sha1="77e317b74cf4611ab1f90c7946c54058e0a9e2b7"/>
+                </rom>
+        </game>
 	<game name="Liero (1999) (Joosa Riekkinen, Johan Otterud).dosz">
 		<description>Liero</description>
 		<comment>v1.33</comment>
