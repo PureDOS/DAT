@@ -667,6 +667,9 @@
 		<year>1994</year>
 		<developer>id Software</developer>
 		<variant>GOG</variant>
+		<comment>Doom II v1.9, DeathManager v1.5</comment>
+		<comment_dosc>Sound Blaster config, Keyboard + Mouse controls, and auto start. General MIDI and Setup Program options</comment_dosc>
+		<link type="store">https://www.gog.com/en/game/doom_doom_ii</link>
 		<rom name="dm.dat" size="975" crc="d95c5466" md5="9d8b43e8da7a648e0f865fb65d0e59ee" sha1="2c0fe8e98878ee4ed17f3c9070ef503d9f40e6c1"/>
 		<rom name="DM.EXE" size="34815" crc="08f3cbc5" md5="ea9928974c35cfe74879d8a72ac9df29" sha1="c2d24dd853dbd72ce910fb167a762766bf4e04a8"/>
 		<rom name="DOOM2.EXE" size="709905" crc="be91c727" md5="e2382b7dc47ae2433d26b6e6bc312999" sha1="aa0668fae2f743ee5e3e5634ee42d3c8ace7d907"/>
@@ -685,6 +688,9 @@
 		<year>1994</year>
 		<developer>id Software</developer>
 		<variant>Steam</variant>
+		<comment>v1.9</comment>
+		<comment_dosc>Sound Blaster config, Keyboard + Mouse controls, and auto start. General MIDI option</comment_dosc>
+		<link type="store">https://store.steampowered.com/app/2280/DOOM__DOOM_II/</link>
 		<rom name="DOOM2.EXE" size="709905" crc="be91c727" md5="e2382b7dc47ae2433d26b6e6bc312999" sha1="aa0668fae2f743ee5e3e5634ee42d3c8ace7d907"/>
 		<rom name="DOOM2.WAD" size="14604584" crc="ec8725db" md5="25e1459ca71d321525f84628f45ca8cd" sha1="7ec7652fcfce8ddc6e801839291f0e28ef1d5ae7"/>
 	</game>
@@ -3726,16 +3732,6 @@
 		<rom name="SONG8.PSM" size="48923" crc="f8ef93f4" md5="3f95988349a0745bd16e62022d26f357" sha1="c38baef41942a96182a78d05ee111f0b4aaebe61"/>
 		<rom name="SONG9.PSM" size="86068" crc="f5665edc" md5="b1364fa6c2b92815acb561033f8d6685" sha1="b1056cb2d79c0bb92663d1a1fadd708a4b9eccdf"/>
 	</game>
-	<game name="Final Doom - TNT - Evilution (1996) (id Software) (Steam).dosz">
-		<description>Final Doom - TNT - Evilution</description>
-		<comment>Original version without bug fixes</comment>
-		<comment_dosc>Default Steam config</comment_dosc>
-		<year>1996</year>
-		<developer>id Software</developer>
-		<variant>Steam</variant>
-		<rom name="DOOM2.EXE" size="722629" crc="12ee2811" md5="f006de4fd282ba61d7d0af41a993f9ba" sha1="9269fa5c095715d926015cad3381a4218e4f2d7e"/>
-		<rom name="TNT.WAD" size="18195736" crc="903dcc27" md5="4e158d9953c79ccf97bd0663244cc6b6" sha1="9fbc66aedef7fe3bae0986cdb9323d2b8db4c9d3"/>
-	</game>
 	<game name="Final Doom - The Plutonia Experiment (1996) (id Software) (Steam).dosz">
 		<description>Final Doom - The Plutonia Experiment</description>
 		<comment>Original version without bug fixes</comment>
@@ -3743,8 +3739,24 @@
 		<year>1996</year>
 		<developer>id Software</developer>
 		<variant>Steam</variant>
+		<comment>Original version without bug fixes</comment>
+		<comment_dosc>Sound Blaster config, Keyboard + Mouse controls, and auto start. General MIDI option</comment_dosc>
+		<link type="store">https://store.steampowered.com/app/2280/DOOM__DOOM_II/</link>
 		<rom name="DOOM2.EXE" size="722629" crc="12ee2811" md5="f006de4fd282ba61d7d0af41a993f9ba" sha1="9269fa5c095715d926015cad3381a4218e4f2d7e"/>
 		<rom name="PLUTONIA.WAD" size="17420824" crc="48d1453c" md5="75c8cf89566741fa9d22447604053bd7" sha1="90361e2a538d2388506657252ae41aceeb1ba360"/>
+	</game>
+	<game name="Final Doom - TNT - Evilution (1996) (id Software) (Steam).dosz">
+		<description>Final Doom - TNT - Evilution</description>
+		<comment>Original version without bug fixes</comment>
+		<comment_dosc>Default Steam config</comment_dosc>
+		<year>1996</year>
+		<developer>id Software</developer>
+		<variant>Steam</variant>
+		<comment>Original version without bug fixes</comment>
+		<comment_dosc>Sound Blaster config, Keyboard + Mouse controls, and auto start. General MIDI option</comment_dosc>
+		<link type="store">https://store.steampowered.com/app/2280/DOOM__DOOM_II/</link>
+		<rom name="DOOM2.EXE" size="722629" crc="12ee2811" md5="f006de4fd282ba61d7d0af41a993f9ba" sha1="9269fa5c095715d926015cad3381a4218e4f2d7e"/>
+		<rom name="TNT.WAD" size="18195736" crc="903dcc27" md5="4e158d9953c79ccf97bd0663244cc6b6" sha1="9fbc66aedef7fe3bae0986cdb9323d2b8db4c9d3"/>
 	</game>
 	<game name="Heretic - Shadow of the Serpent Riders (1996) (Raven Software) (Steam).dosz">
 		<description>Heretic - Shadow of the Serpent Riders</description>
@@ -7091,6 +7103,9 @@
 		<year>1995</year>
 		<developer>id Software</developer>
 		<variant>GOG</variant>
+		<comment>Doom v1.9, DeathManager v1.5</comment>
+		<comment_dosc>Sound Blaster config, Keyboard + Mouse controls, and auto start. General MIDI and Setup Program options</comment_dosc>
+		<link type="store">https://www.gog.com/en/game/doom_doom_ii</link>
 		<rom name="dm.dat" size="1114" crc="62c3d5a2" md5="69cdbee71b551dd5fd1c7bd2d5ca7d45" sha1="1e69b76c69043e2513a66b3c2c4cbe7692cc9871"/>
 		<rom name="DM.DOC" size="6397" crc="e272977c" md5="fb4bbd49248f37d0fb63766c34b73093" sha1="b9ca766d0fe156366359724fce97b6092e8960ac"/>
 		<rom name="DM.EXE" size="34815" crc="08f3cbc5" md5="ea9928974c35cfe74879d8a72ac9df29" sha1="c2d24dd853dbd72ce910fb167a762766bf4e04a8"/>
@@ -7110,6 +7125,9 @@
 		<year>1995</year>
 		<developer>id Software</developer>
 		<variant>Steam</variant>
+		<comment>v1.9</comment>
+		<comment_dosc>Sound Blaster config, Keyboard + Mouse controls, and auto start. General MIDI option</comment_dosc>
+		<link type="store">https://store.steampowered.com/app/2280/DOOM__DOOM_II/</link>
 		<rom name="DOOM.EXE" size="715493" crc="b5ceb8ac" md5="742a5f9953871687341e3794468894d8" sha1="64e6df0ee478868b42d5eb7d443430283b0ddc0c"/>
 		<rom name="DOOM.WAD" size="12408292" crc="bf0eaac0" md5="c4fe9fd920207691a9f493668e0a2083" sha1="9b07b02ab3c275a6a7570c3f73cc20d63a0e3833"/>
 	</game>
