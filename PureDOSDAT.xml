@@ -5171,21 +5171,22 @@
 	</game>
 	<game name="Chex Quest (1996) (Digital Cafe).dosz">
 		<description>Chex Quest</description>
-		<comment>Installed from CD</comment>
-		<comment_dosc>Keyboard + Mouse controls, Sound Blaster config and auto start</comment_dosc>
 		<year>1996</year>
 		<developer>Digital Cafe</developer>
+		<comment>Installed from CD matching with Redump: Chex Quest (USA)</comment>
+		<comment_dosc>Sound Blaster config, Keyboard + Mouse controls, and auto start. General MIDI and Setup Program options</comment_dosc>
+		<link type="media">http://redump.org/disc/4490/</link>
 		<rom name="CHEX.EXE" size="713017" crc="dd3e1573" md5="d58fc123f7ed425bcc060afb7269bc9c" sha1="77fae773cd3c1dc6c436e1a80b31a3988c16998d" date="1996-10-31 14:35:34"/>
 		<rom name="CHEX.WAD" size="12361532" crc="298dd5b5" md5="25485721882b050afa96a56e5758dd52" sha1="eca9cff1014ce5081804e193588d96c6ddb35432" date="1996-10-31 17:44:40"/>
 		<rom name="SETUP.EXE" size="107056" crc="2746a131" md5="29b77e8bd8a81b825ce289d9972d450e" sha1="9ddceff147f32242b835e5f3649579cde6df3385" date="1996-10-31 12:28:52"/>
 	</game>
 	<game name="Chex Quest 2 - Flemoids Take Chextropolis (1997) (Digital Cafe).dosz">
 		<description>Chex Quest 2 - Flemoids Take Chextropolis</description>
-		<comment>Freeware</comment>
-		<comment_dosc>Auto start</comment_dosc>
 		<year>1997</year>
 		<developer>Digital Cafe</developer>
 		<parent>Chex Quest (1996) (Digital Cafe).dosz</parent>
+		<comment>Freeware</comment>
+		<comment_dosc>Auto start</comment_dosc>
 		<rom name="Chex Quest (1996) (Digital Cafe).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="CHEX2.BAT" size="22" crc="c0681194" md5="d9cd68f1c024f63f79df2e3b2cf85de5" sha1="a6a74e62cafb7c3204259c89d5346d5d93fafd0d" date="1997-02-04 13:46:20"/>
 		<rom name="CHEX2.ICO" size="766" crc="021474f3" md5="4b075245a247a7fb00db53910b43148d" sha1="86d11c676e5bb74683c0d793372ca59558199073" date="1997-02-04 14:25:28"/>
@@ -6718,18 +6719,41 @@
 		<rom name="SOUND.CFG" size="32" crc="2b79d7be" md5="51d70b5660a9826a2fc3de3f547b5d35" sha1="6880992e8e59b584149614deaa637ba89775c3df" date="2002-03-28 23:08:48"/>
 		<rom name="SOURCE/DKONG.PRG" size="27319" crc="c822e9fe" md5="291e4c00991c709786afc9b9ffd15c30" sha1="36b6f6e0324b312875be611a677e0659fd00f788" date="2002-03-28 22:54:28"/>
 	</game>
-	<game name="Doom II (1994) (id Software).dosz">
-		<description>Doom II</description>
-		<comment>Installed v1.9 from CD, with DeathManager v1.1 and FAQs added from Doom v1.9 shareware</comment>
-		<comment_dosc>Controller type and sound config</comment_dosc>
-		<year>1994</year>
+	<game name="Doom (1993) (id Software).dosz">
+		<description>Doom</description>
+		<year>1993</year>
 		<developer>id Software</developer>
+		<comment>Installed v1.9 from CD matching with Redump: Doom (USA)</comment>
+		<comment_dosc>Sound Blaster config, Keyboard + Mouse controls, and auto start. General MIDI and Setup Program options</comment_dosc>
+		<link type="media">http://redump.org/disc/25720/</link>
 		<rom name="DM.DOC" size="6397" crc="e272977c" md5="fb4bbd49248f37d0fb63766c34b73093" sha1="b9ca766d0fe156366359724fce97b6092e8960ac" date="1995-02-01 01:09:04"/>
 		<rom name="DM.EXE" size="33640" crc="8472e258" md5="6f864813753481a1400e9c1bb75f3f93" sha1="23092fb9aa6f220c4da8c3c7d98b0cfb1796cc42" date="1995-02-01 01:09:04"/>
 		<rom name="DMFAQ66A.TXT" size="120201" crc="cd609cac" md5="660bf8320d93c17ab8e3bebab7116ebd" sha1="a12fb4ff304f4e269ff49c301c457301755a826a" date="1995-02-01 01:09:04"/>
 		<rom name="DMFAQ66B.TXT" size="140594" crc="0038593c" md5="729dd9d6a2eab0c775a0bac947d24fc0" sha1="b0885ecb7bed94d8cc3c493bb58f628259910aaf" date="1995-02-01 01:09:04"/>
 		<rom name="DMFAQ66C.TXT" size="76898" crc="33bb6ad4" md5="b651359a00b21357ca8e39bc41b14f2e" sha1="920c12e9473301988df5de5738b05b5160b64a71" date="1995-02-01 01:09:04"/>
 		<rom name="DMFAQ66D.TXT" size="34572" crc="4fb284ff" md5="8352cadb52dc51a4afb2d3722b4c34b9" sha1="58a177d817f04d9dfcb0bac70b9c205992895e6f" date="1995-02-01 01:09:04"/>
+		<rom name="DOOM.EXE" size="709905" crc="be91c727" md5="e2382b7dc47ae2433d26b6e6bc312999" sha1="aa0668fae2f743ee5e3e5634ee42d3c8ace7d907" date="1995-02-01 01:09:04"/>
+		<rom name="DOOM.WAD" size="11159840" crc="723e60f9" md5="1cd63c5ddff1bf8ce844237f580e9cf3" sha1="7742089b4468a736cadb659a7deca3320fe6dcbd" date="1995-02-01 01:09:04"/>
+		<rom name="DWANGO.DOC" size="10623" crc="039525a3" md5="5e8100ae7782e0b998485e96f7329642" sha1="3068ba52132ced6f890b859fbcf5ffb538f49db7" date="1995-02-01 01:09:04"/>
+		<rom name="DWANGO.EXE" size="65021" crc="ffa4a9af" md5="a13cccd1f6730627370c989a1e93fcf3" sha1="710580717b9d20e116cf6472c292f6e991c8f228" date="1995-02-01 01:09:04"/>
+		<rom name="DWANGO.STR" size="2536" crc="9429e073" md5="ec22f4b64c2d4fec7f127213522205c5" sha1="4a1ef16e6350b4f6035327879ca65ff4bc5f03ae" date="1995-02-01 01:09:04"/>
+		<rom name="HELPME.TXT" size="4690" crc="83f50542" md5="994d3eedc33d492b5e49925baf6a6bc0" sha1="11999070f1a69627371984243b9127cef19afb50" date="1995-02-01 01:09:04"/>
+		<rom name="IPXSETUP.EXE" size="18051" crc="8bf1d4d4" md5="7000e71566d8a50848a68969ec9c3b75" sha1="c76c6eb16dd2d27acfd8da049d0727744381095b" date="1995-02-01 01:09:04"/>
+		<rom name="MODEM.CFG" size="67" crc="e4f84b43" md5="e807d9a94ecc7d3f015c45fce1699666" sha1="e5f8d54b59c60462ff62749f8f02b6574e054902" date="1995-02-01 01:09:04"/>
+		<rom name="MODEM.NUM" size="67" crc="264c0c20" md5="7557fff62c050a1d354d6d56cf6bf6b9" sha1="1f57a9324b83d6335a88083c63b8b40f334b6d29" date="1995-02-01 01:09:04"/>
+		<rom name="MODEM.STR" size="3405" crc="a320697b" md5="7294d0d7a6a6bdf653f2164dcb42b75a" sha1="2fcebfce4a22c717357879f8051f9799fa4c06e3" date="1995-02-01 01:09:04"/>
+		<rom name="ORDER.FRM" size="4617" crc="368fe3b2" md5="d4202077b7ea9374698935c9b145f2d4" sha1="72e7470e18e8da9811b96c6971e4f86e482f6b72" date="1995-02-01 01:09:04"/>
+		<rom name="README.TXT" size="21631" crc="02df401c" md5="3ff8dbf9a2d717162ae2fb585e5728dc" sha1="373699a992c6c5e7792a18fbdbdd5cee63cd1611" date="1995-02-01 01:09:04"/>
+		<rom name="SERSETUP.EXE" size="20257" crc="6f8c2806" md5="573d6f784c0ca293383b6737b2a8e2c5" sha1="c34e1d9bbfcdcd8868fb4141201d3d02473c0fe1" date="1995-02-01 01:09:04"/>
+		<rom name="SETUP.EXE" size="45884" crc="7c86a122" md5="7ef57471aab70e3983dbfd3cbd4d25a7" sha1="65cbef6d502edd6f11a2b505339cf66c78b46a49" date="1995-02-01 01:09:04"/>
+	</game>
+	<game name="Doom II (1994) (id Software).dosz">
+		<description>Doom II</description>
+		<year>1994</year>
+		<developer>id Software</developer>
+		<comment>Installed v1.9 from CD matching with Redump: Doom II (USA) (v1.9)</comment>
+		<comment_dosc>Sound Blaster config, Keyboard + Mouse controls, and auto start. General MIDI and Setup Program options</comment_dosc>
+		<link type="media">http://redump.org/disc/62840/</link>
 		<rom name="DOOM2.EXE" size="709905" crc="be91c727" md5="e2382b7dc47ae2433d26b6e6bc312999" sha1="aa0668fae2f743ee5e3e5634ee42d3c8ace7d907" date="1995-02-01 01:09:04"/>
 		<rom name="DOOM2.WAD" size="14604584" crc="ec8725db" md5="25e1459ca71d321525f84628f45ca8cd" sha1="7ec7652fcfce8ddc6e801839291f0e28ef1d5ae7" date="1995-02-01 01:09:04"/>
 		<rom name="DWANGO.DOC" size="10623" crc="039525a3" md5="5e8100ae7782e0b998485e96f7329642" sha1="3068ba52132ced6f890b859fbcf5ffb538f49db7" date="1995-02-01 01:09:04"/>
@@ -11201,33 +11225,16 @@
 		<rom name="README.TXT" size="19758" crc="98626cb0" md5="8392a1ba32cb8333d6a6f86bbb164f14" sha1="412ef9b5017b280c5f886fdab94a8e7e08f08e50" date="1999-11-09 12:30:10"/>
 		<rom name="SOUND.EXE" size="115350" crc="f95a1591" md5="cd40c433bad4ea027b60d422cc5b40e2" sha1="b83bccc1913ad36d7f9f3ea26ccf6a394916c514" date="1997-09-04 15:02:22"/>
 	</game>
-	<game name="Final Doom - TNT - Evilution (1996) (id Software).dosz">
-		<description>Final Doom - TNT - Evilution</description>
-		<comment>id Anthology version with bug fixes, also matches GOG</comment>
-		<comment_dosc>Controller type and sound config</comment_dosc>
-		<year>1996</year>
-		<developer>id Software</developer>
-		<rom name="DM.DAT" size="804" crc="d1457a49" md5="70c47f901510f9fa366a50b033ffee6b" sha1="66aab9129109c4d36fbdd92df1bbe60b2852e64e" date="1996-06-10 01:00:02"/>
-		<rom name="DM.DOC" size="7336" crc="eadd44a3" md5="81ac3a091b3e96337c48033caf6a1b59" sha1="7fcb16276ebdb1525cbd1a09b67101968f6e5f60" date="1996-06-10 01:00:02"/>
-		<rom name="DM.EXE" size="34815" crc="08f3cbc5" md5="ea9928974c35cfe74879d8a72ac9df29" sha1="c2d24dd853dbd72ce910fb167a762766bf4e04a8" date="1996-06-10 01:00:02"/>
-		<rom name="DOOM2.EXE" size="722629" crc="503d9154" md5="ccd2769f32b38d74d361085e905d8f9c" sha1="91ee0d260785fdc778a1e7c10812275e5c758776" date="1996-10-09 17:17:30"/>
-		<rom name="HELPME.TXT" size="3798" crc="394b4d3c" md5="65ba98de47dc0d0188f118345624760a" sha1="04a91b890de841004ed9b6de50de8841ef9c05ed" date="1996-06-10 01:00:02"/>
-		<rom name="IPXSETUP.EXE" size="18051" crc="339c813a" md5="34d66cd0ef46d0a0a14f4cf255d4b725" sha1="e4d9fc21173ed58b8b4f16f0b485d0cb3ae5a278" date="1996-06-10 01:00:02"/>
-		<rom name="LICENSE.DOC" size="9017" crc="8d3c971c" md5="d82cfc8dc8dbc15d3295f2fd136338cb" sha1="eff3d1be7f59e558cc421a96c54ae0e85141f34b" date="1996-06-10 01:00:02"/>
-		<rom name="MODEM.CFG" size="67" crc="e4f84b43" md5="e807d9a94ecc7d3f015c45fce1699666" sha1="e5f8d54b59c60462ff62749f8f02b6574e054902" date="1996-06-10 01:00:02"/>
-		<rom name="MODEM.NUM" size="67" crc="264c0c20" md5="7557fff62c050a1d354d6d56cf6bf6b9" sha1="1f57a9324b83d6335a88083c63b8b40f334b6d29" date="1996-06-10 01:00:02"/>
-		<rom name="MODEM.STR" size="3405" crc="a320697b" md5="7294d0d7a6a6bdf653f2164dcb42b75a" sha1="2fcebfce4a22c717357879f8051f9799fa4c06e3" date="1996-06-10 01:00:02"/>
-		<rom name="README.TXT" size="22458" crc="5d9ae7fc" md5="1af72542704d4023f1d43179245170b0" sha1="8635e2b60f61a578e682ff76936fd99704fc2cbb" date="1996-06-10 01:00:02"/>
-		<rom name="SERSETUP.EXE" size="20257" crc="64ea3378" md5="4494aa8d1840676aa676c6aac772b2eb" sha1="f41ebfc15378d2e2d0b70e60f4349bc4a3ccc2bd" date="1996-06-10 01:00:02"/>
-		<rom name="SETUP.EXE" size="45745" crc="0025fe95" md5="675564fcd380f5ef9beb0e7b21a51f79" sha1="f8644ace438896f9a788629d8da869bd34926f91" date="1996-06-10 01:00:02"/>
-		<rom name="TNT.WAD" size="18654796" crc="d4bb05c0" md5="1d39e405bf6ee3df69a8d2646c8d5c49" sha1="4a65c8b960225505187c36040b41a40b152f8f3e" date="1996-11-14 12:10:34"/>
-	</game>
 	<game name="Final Doom - The Plutonia Experiment (1996) (id Software).dosz">
 		<description>Final Doom - The Plutonia Experiment</description>
-		<comment>id Anthology version with bug fixes, also matches GOG</comment>
-		<comment_dosc>Controller type and sound config</comment_dosc>
 		<year>1996</year>
 		<developer>id Software</developer>
+		<comment>
+			id Anthology version with bug fixes, installed from CD matching with Redump: id Anthology (USA) (Disc 2) (Doom) (Rev 1)
+			Also matches GOG
+		</comment>
+		<comment_dosc>Sound Blaster config, Keyboard + Mouse controls, and auto start. General MIDI and Setup Program options</comment_dosc>
+		<link type="media">http://redump.org/disc/28675/</link>
 		<rom name="DM.DAT" size="786" crc="223cb4ac" md5="2547e53216867e98de335683a95af1c3" sha1="66e88c01b849715f6ad75dbb772ff739b3a19c9d" date="1996-11-20 15:28:22"/>
 		<rom name="DM.DOC" size="7336" crc="eadd44a3" md5="81ac3a091b3e96337c48033caf6a1b59" sha1="7fcb16276ebdb1525cbd1a09b67101968f6e5f60" date="1996-06-10 01:00:02"/>
 		<rom name="DM.EXE" size="34815" crc="08f3cbc5" md5="ea9928974c35cfe74879d8a72ac9df29" sha1="c2d24dd853dbd72ce910fb167a762766bf4e04a8" date="1996-06-10 01:00:02"/>
@@ -11242,6 +11249,31 @@
 		<rom name="README.TXT" size="22458" crc="5d9ae7fc" md5="1af72542704d4023f1d43179245170b0" sha1="8635e2b60f61a578e682ff76936fd99704fc2cbb" date="1996-06-10 01:00:02"/>
 		<rom name="SERSETUP.EXE" size="20257" crc="64ea3378" md5="4494aa8d1840676aa676c6aac772b2eb" sha1="f41ebfc15378d2e2d0b70e60f4349bc4a3ccc2bd" date="1996-06-10 01:00:02"/>
 		<rom name="SETUP.EXE" size="45745" crc="0025fe95" md5="675564fcd380f5ef9beb0e7b21a51f79" sha1="f8644ace438896f9a788629d8da869bd34926f91" date="1996-06-10 01:00:02"/>
+	</game>
+	<game name="Final Doom - TNT - Evilution (1996) (id Software).dosz">
+		<description>Final Doom - TNT - Evilution</description>
+		<year>1996</year>
+		<developer>id Software</developer>
+		<comment>
+			id Anthology version with bug fixes, installed from CD matching with Redump: id Anthology (USA) (Disc 2) (Doom) (Rev 1)
+			Also matches GOG
+		</comment>
+		<comment_dosc>Sound Blaster config, Keyboard + Mouse controls, and auto start. General MIDI and Setup Program options</comment_dosc>
+		<link type="media">http://redump.org/disc/28675/</link>
+		<rom name="DM.DAT" size="804" crc="d1457a49" md5="70c47f901510f9fa366a50b033ffee6b" sha1="66aab9129109c4d36fbdd92df1bbe60b2852e64e" date="1996-06-10 01:00:02"/>
+		<rom name="DM.DOC" size="7336" crc="eadd44a3" md5="81ac3a091b3e96337c48033caf6a1b59" sha1="7fcb16276ebdb1525cbd1a09b67101968f6e5f60" date="1996-06-10 01:00:02"/>
+		<rom name="DM.EXE" size="34815" crc="08f3cbc5" md5="ea9928974c35cfe74879d8a72ac9df29" sha1="c2d24dd853dbd72ce910fb167a762766bf4e04a8" date="1996-06-10 01:00:02"/>
+		<rom name="DOOM2.EXE" size="722629" crc="503d9154" md5="ccd2769f32b38d74d361085e905d8f9c" sha1="91ee0d260785fdc778a1e7c10812275e5c758776" date="1996-10-09 17:17:30"/>
+		<rom name="HELPME.TXT" size="3798" crc="394b4d3c" md5="65ba98de47dc0d0188f118345624760a" sha1="04a91b890de841004ed9b6de50de8841ef9c05ed" date="1996-06-10 01:00:02"/>
+		<rom name="IPXSETUP.EXE" size="18051" crc="339c813a" md5="34d66cd0ef46d0a0a14f4cf255d4b725" sha1="e4d9fc21173ed58b8b4f16f0b485d0cb3ae5a278" date="1996-06-10 01:00:02"/>
+		<rom name="LICENSE.DOC" size="9017" crc="8d3c971c" md5="d82cfc8dc8dbc15d3295f2fd136338cb" sha1="eff3d1be7f59e558cc421a96c54ae0e85141f34b" date="1996-06-10 01:00:02"/>
+		<rom name="MODEM.CFG" size="67" crc="e4f84b43" md5="e807d9a94ecc7d3f015c45fce1699666" sha1="e5f8d54b59c60462ff62749f8f02b6574e054902" date="1996-06-10 01:00:02"/>
+		<rom name="MODEM.NUM" size="67" crc="264c0c20" md5="7557fff62c050a1d354d6d56cf6bf6b9" sha1="1f57a9324b83d6335a88083c63b8b40f334b6d29" date="1996-06-10 01:00:02"/>
+		<rom name="MODEM.STR" size="3405" crc="a320697b" md5="7294d0d7a6a6bdf653f2164dcb42b75a" sha1="2fcebfce4a22c717357879f8051f9799fa4c06e3" date="1996-06-10 01:00:02"/>
+		<rom name="README.TXT" size="22458" crc="5d9ae7fc" md5="1af72542704d4023f1d43179245170b0" sha1="8635e2b60f61a578e682ff76936fd99704fc2cbb" date="1996-06-10 01:00:02"/>
+		<rom name="SERSETUP.EXE" size="20257" crc="64ea3378" md5="4494aa8d1840676aa676c6aac772b2eb" sha1="f41ebfc15378d2e2d0b70e60f4349bc4a3ccc2bd" date="1996-06-10 01:00:02"/>
+		<rom name="SETUP.EXE" size="45745" crc="0025fe95" md5="675564fcd380f5ef9beb0e7b21a51f79" sha1="f8644ace438896f9a788629d8da869bd34926f91" date="1996-06-10 01:00:02"/>
+		<rom name="TNT.WAD" size="18654796" crc="d4bb05c0" md5="1d39e405bf6ee3df69a8d2646c8d5c49" sha1="4a65c8b960225505187c36040b41a40b152f8f3e" date="1996-11-14 12:10:34"/>
 	</game>
 	<game name="Flashback - The Quest for Identity (1993) (Delphine).dosz">
 		<description>Flashback - The Quest for Identity</description>
@@ -13894,62 +13926,6 @@
 		<rom name="RESOURCE.LST" size="230" crc="788077e1" md5="a565d58246d0445efc8a990082b8133d" sha1="034d40161fb1677d875b3a546e95eadf95e45e33"/>
 		<rom name="SOUND.V2L" size="1575809" crc="7113eea8" md5="4b9cbaec1dec470c41e1b347d84f712c" sha1="a12b0abfd33fcd51a3e3401db912fff3c19033e5"/>
 		<rom name="STRING.LST" size="16722" crc="dce00f5b" md5="57d4b77c0194f4eecd1043b80c7a1f8d" sha1="4e55bdc512cff760ddd0fbc344dc3eb6f7d97c44"/>
-	</game>
-	<game name="Master Levels for Doom II (1995) (id Software).dosz">
-		<description>Master Levels for Doom II</description>
-		<comment>Installed v1.0 from CD. Needs DOOMIT.CFG paths set to C:\, C:\, C:\WADS\, C:\WADS\</comment>
-		<comment_dosc>Required DOOMIT.BAT and DOOMIT.CFG</comment_dosc>
-		<year>1995</year>
-		<developer>id Software</developer>
-		<parent>Doom II (1994) (id Software).dosz</parent>
-		<rom name="DMLOAD.EXE" size="146590" crc="b6a6f22d" md5="20be0b84f212fe265171ca7aed23c1f1" sha1="8af123b6f426275d694f8ef3355328f5414613a0" date="1995-09-29 01:18:10"/>
-		<rom name="Doom II (1994) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="DOOM2.MAP" size="412" crc="10d0d6ea" md5="57e97dfbadb0af1147c83eff85d830c2" sha1="11b2cd19cf878a675898403df73f9f89babb9b54" date="1995-10-02 15:45:12"/>
-		<rom name="DOOMIT.BAT" size="131" crc="d23ac70b" md5="f2c618fc789d6fca44ef2bb3102291a7" sha1="d2d5a3c23fd2bf961e878aceee00f5797d0f89f6" date="1995-11-30 13:04:50"/>
-		<rom name="DOOMIT.CFG" size="82" crc="a3c30fde" md5="8f868630ffcb2e98d4b224757fbe55f7" sha1="5bef36d8d74c7d125ab6b69b6e2c0f14b48a7066"/>
-		<rom name="DOOMIT.DAT" size="5500" crc="a5b980da" md5="a6d541b83259ccfc949f6dcc985b0f06" sha1="05484c42fa1f48616dcecb277f72fa28bfd1c1d0" date="1995-10-02 14:55:36"/>
-		<rom name="DOOMIT.DOC" size="10900" crc="8e8f69db" md5="780f27d08711a47adef8c17839f6c3a3" sha1="e3c5ac11a23283b309b279df7eb7199e240c5279" date="1995-09-29 01:41:08"/>
-		<rom name="SETPATH.EXE" size="21317" crc="dcfd3293" md5="3f709da9fba56caa342414e4292bbe8e" sha1="863540f5e7304a326fbc04c446e65a48e70d4c2f" date="1995-11-29 13:47:50"/>
-		<rom name="WADS/ATTACK.TXT" size="1581" crc="e3a2afcb" md5="b5d81e4014b0e41a977ad837be62015a" sha1="139095fcf78349ad570be721d21dd1fa809fb3c8"/>
-		<rom name="WADS/ATTACK.WAD" size="185135" crc="b350c720" md5="cb03fd0cd84b10579c2b2b313199d4c1" sha1="e0b93dcb87875544cc57306088983cb21ca45165"/>
-		<rom name="WADS/BLACKTWR.TXT" size="4872" crc="8a2ab0c4" md5="cd05ef340481c80dd866910fb61de078" sha1="c64e724dda69bd7318b63b9192434edc1bd9dcf7"/>
-		<rom name="WADS/BLACKTWR.WAD" size="199534" crc="e8ec0c8e" md5="a421ca18cea00a2696162f8d2a2beeca" sha1="53cd0db349198a721162282f95d15c2ec407a555"/>
-		<rom name="WADS/BLOODSEA.TXT" size="5349" crc="80fc36ac" md5="9f55a86718e7d3a9d5e84b7f90391fdd" sha1="0ff3cd267de9bfb09c8a617be64963d79b6a0180"/>
-		<rom name="WADS/BLOODSEA.WAD" size="258942" crc="4e3c30d6" md5="18eb4ffb3094ddb690e62211dc6169a1" sha1="51a02e02ed92ee22ae8aff0dfeee5b41e55d23a4"/>
-		<rom name="WADS/CANYON.TXT" size="1585" crc="9af5ded7" md5="62841b903a25efbbe07ba04629a472e1" sha1="659dde6c7d605295be489c6a590c58133f3eeb3e"/>
-		<rom name="WADS/CANYON.WAD" size="157529" crc="3d84f23d" md5="33493942592d764e7787fb0ad7d03044" sha1="33a10a0515a52ce2a017648d121d719adccc3900"/>
-		<rom name="WADS/CATWALK.TXT" size="1280" crc="1fe5d118" md5="77464c420be047460fdf01a927679e18" sha1="98e00e91aebe83d607a33f9cb3e94ad6721b3947"/>
-		<rom name="WADS/CATWALK.WAD" size="151817" crc="120cd525" md5="e7c273033376824edf95e1328261e7de" sha1="5dcd681b968098f24b774e3f3cab19a38e40a091"/>
-		<rom name="WADS/COMBINE.TXT" size="1239" crc="65827f09" md5="30e17b85fb58f45bfd54076bca1d6c4f" sha1="0b2b8664511ea4dd150be583ae53ff6108e2df81"/>
-		<rom name="WADS/COMBINE.WAD" size="141548" crc="f36f7a65" md5="77c179948df47a7a613bd1181c959892" sha1="f94d5e96923b7d148639c471a2700e64f3a6bad1"/>
-		<rom name="WADS/FISTULA.TXT" size="1280" crc="3a6ec261" md5="055cb6078dc8c02d687a46cff0efdf99" sha1="dab04c6214cc4b916a640de82a1dbf0449c8b506"/>
-		<rom name="WADS/FISTULA.WAD" size="104654" crc="7bdb6497" md5="cbf714b499ebdef2682990eaf93fdb5f" sha1="a7a45f5becf6cb470be3e19ffa46153f156641fe"/>
-		<rom name="WADS/GARRISON.TXT" size="1193" crc="c9a7ead3" md5="c4804663d959554267e031f020f024a6" sha1="f88581c9ecd21deea2204a1c3daf083fdeee05e3"/>
-		<rom name="WADS/GARRISON.WAD" size="116403" crc="24a63b87" md5="f000701a3ed1f49249ee08550c03dfa5" sha1="5a07c230ca351c9865f838bda0ece4e46ba0b412"/>
-		<rom name="WADS/GERYON.TXT" size="2239" crc="2d5446a4" md5="8b87125eef93282b724ebca5c2bf46b9" sha1="0fad0f4c4d2f69092ae5a45e6d5cc0af15d120a6"/>
-		<rom name="WADS/GERYON.WAD" size="221009" crc="521d230f" md5="a1efff02df6d873762ebac6b12358bbc" sha1="2889354437b3814197c5de030e392ed0061f968b"/>
-		<rom name="WADS/MANOR.TXT" size="2903" crc="bb95ae66" md5="6f519312e20de7b6c16cab21c5b55fca" sha1="ffa19b1336dfd68042b4533a0fc94bab01535bda"/>
-		<rom name="WADS/MANOR.WAD" size="245444" crc="e6243374" md5="787fa80fe9665c322f853b74838e77cc" sha1="6698a16408d5d337f13a444d5dc71051ea5fcad4"/>
-		<rom name="WADS/MEPHISTO.TXT" size="4695" crc="b4e11f9c" md5="86c3aceb7990dea92923d42564503541" sha1="d9d5a00674fb5e99040fbbcc69f18ac8c8d7d472"/>
-		<rom name="WADS/MEPHISTO.WAD" size="121406" crc="3c9f90af" md5="b4eaf844b135cc2a0058c6e0149b4408" sha1="6335ff2e8c767f49fd2545d1a0493a7721757385"/>
-		<rom name="WADS/MINOS.TXT" size="2631" crc="3089bc31" md5="61f54fe6c10b424e5238a0444c63306e" sha1="4b198a412846b77ac86fa527b734741e0cb38b13"/>
-		<rom name="WADS/MINOS.WAD" size="351712" crc="c385f0bc" md5="aea597159dee96bcc58f3f9e3e586182" sha1="5fc46a9bd60b9fc2ed00cad3e7f57fe0cc43422b"/>
-		<rom name="WADS/NESSUS.TXT" size="3037" crc="aab36d1e" md5="ddad20557f7c451253d6aaff9453814d" sha1="df4f9af8afc099103c61e40259a39c23f5614172"/>
-		<rom name="WADS/NESSUS.WAD" size="158514" crc="f3e1c6cd" md5="46f58580e7792f486c747cf1117c4ca1" sha1="395fcfdf94b9d2514a1d0e7e53f0738a077ecee5"/>
-		<rom name="WADS/PARADOX.TXT" size="3174" crc="46db49ab" md5="37f0c991d4e74a158c9f9e6f824913e6" sha1="371fcb32093e375401d6abb4c0570c3170423e95"/>
-		<rom name="WADS/PARADOX.WAD" size="223555" crc="716050f7" md5="d560abb6d5719d46ebb47b27d7813a4b" sha1="26f96ac183be4383ad7f3daed2c16548fa69dd42"/>
-		<rom name="WADS/SUBSPACE.TXT" size="1278" crc="683e0083" md5="802bd4428c58001439879b9b5d684bff" sha1="12e8f119fef6527087f05d7c273b5d4aa92660b3"/>
-		<rom name="WADS/SUBSPACE.WAD" size="105780" crc="311059cb" md5="b572d518d564c7d7b6b259a726538cbb" sha1="485758921ddb3686763c53b5638699d1b65a5ac0"/>
-		<rom name="WADS/SUBTERRA.TXT" size="1215" crc="9448fcfb" md5="3497bfd39788d106b37bdfe107003625" sha1="4c018173229d3e285896e4779a29dfec4b85a29a"/>
-		<rom name="WADS/SUBTERRA.WAD" size="127480" crc="ad3094fd" md5="bb417f07804373415a6ed8e533242c3c" sha1="d91fbab728132dbecb9f7c9cea9212a3dfd795ee"/>
-		<rom name="WADS/TEETH.TXT" size="5190" crc="c8077900" md5="d150006885a956f378b29a0fedde5dd7" sha1="9358562fe422d31cebeb3b9f1c395a3887f42c29"/>
-		<rom name="WADS/TEETH.WAD" size="190531" crc="9b918d83" md5="65b4abcb74e7a386d5c024cf250d6336" sha1="5bbf0b9d52b831fe47dc09ac5a51d923bed03e3e"/>
-		<rom name="WADS/TTRAP.TXT" size="2734" crc="97a69e28" md5="7aa8fe8b34a8e1cc775c4510efba6dcd" sha1="63ed5fe538fb690779418cf568226edecd4ae497"/>
-		<rom name="WADS/TTRAP.WAD" size="286220" crc="2fe2a2e4" md5="8474f6d663f04630de05ecac36b574d1" sha1="50a68fcb4761f6155febceca947e663d6b442845"/>
-		<rom name="WADS/VESPERAS.TXT" size="1697" crc="30b66c76" md5="9a6328c52b2436c3dabd79248afe5960" sha1="9b9570ce159f8a978c15fcabea5922aa1f8d9acb"/>
-		<rom name="WADS/VESPERAS.WAD" size="235353" crc="9b452c7e" md5="a49dccebb5f32307246b7f32da121cf7" sha1="8341faf0e8469e43178b0be3fe7ebb40d5a33b03"/>
-		<rom name="WADS/VIRGIL.TXT" size="2813" crc="d5047ed6" md5="e767d645de816a9d5411075d0d002a78" sha1="c8315f125088644b3b666cc9b227ced6226ca7d9"/>
-		<rom name="WADS/VIRGIL.WAD" size="171232" crc="4d0b58e8" md5="3c0874f2df3c06a002ee2a18aba0f0e8" sha1="e3de77406aff3b6e5f06c3d450d70b8e6c6a34f9"/>
 	</game>
 	<game name="Mega Man (1990) (Capcom).dosz">
 		<description>Mega Man</description>
@@ -20845,10 +20821,11 @@
 	</game>
 	<game name="Ultimate Doom, The (1995) (id Software).dosz">
 		<description>Ultimate Doom, The</description>
-		<comment>Installed v1.9 from CD</comment>
-		<comment_dosc>Controller type and sound configured</comment_dosc>
 		<year>1995</year>
 		<developer>id Software</developer>
+		<comment>Installed v1.9 from CD matching with Redump: Ultimate Doom, The (USA)</comment>
+		<comment_dosc>Sound Blaster config, Keyboard + Mouse controls, and auto start. General MIDI and Setup Program options</comment_dosc>
+		<link type="media">http://redump.org/disc/4427/</link>
 		<rom name="DM.DOC" size="6397" crc="e272977c" md5="fb4bbd49248f37d0fb63766c34b73093" sha1="b9ca766d0fe156366359724fce97b6092e8960ac" date="1995-05-25 01:09:10"/>
 		<rom name="DM.EXE" size="20937" crc="baaab071" md5="026b926f517c283c5cdd4320057ecde0" sha1="3f9b9c1e33175083360651fe021186b1185c764b" date="1995-05-25 01:09:10"/>
 		<rom name="DMFAQ66A.TXT" size="120201" crc="cd609cac" md5="660bf8320d93c17ab8e3bebab7116ebd" sha1="a12fb4ff304f4e269ff49c301c457301755a826a" date="1995-05-25 01:09:10"/>
