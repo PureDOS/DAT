@@ -1358,7 +1358,7 @@
 		<developer>Various</developer>
 		<parent>Doom II Mod Base.dosz</parent>
 		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/megawads/1monster</link>
+		<link type="freeware">https://dsdarchive.com/wads/1monster</link>
 		<rom name="1mon_fix.wad" size="7295361" crc="92a3b349" md5="4bf556029451c3adb114e4370da7287c" sha1="8cf8d4143ab440e13a4ea7fa5bbbfe93dd1206a2" date="2011-03-31 21:31:24"/>
 		<rom name="1monster.txt" size="4899" crc="73bc24fc" md5="d93646db54515b66317a99c542ff183e" sha1="eb8165a5d253cff059a2b4752c49b8227999fa8a" date="2007-10-24 02:47:36"/>
 		<rom name="1monster.wad" size="23838545" crc="8fd0901b" md5="d47734928a446fb77f2a66ba602a29a1" sha1="89977dcb276a4664e27242d33b2217b2959f84ea" date="2007-10-23 21:37:08"/>
@@ -3482,13 +3482,13 @@
 		<year>2025</year>
 		<developer>James Paddock</developer>
 		<parent>Doom II Mod Base.dosz</parent>
-		<comment>RC3</comment>
+		<comment>v1.2</comment>
 		<comment_dosc>Auto start. Shim with map info</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/vb/thread/152166</link>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="earthless.txt" size="4173" crc="6eb0141b" md5="75d43337d4aee0b81879ff6e3b8b41e5" sha1="8c720f1caad5e71b95c18d554903a4ae31087f56"/>
 		<rom name="earthles.deh" size="4714" crc="e0b7baaa" md5="32285fbcf35f1e9829ca11a683a04ad8" sha1="47bf1a33b5fad279d83a4f641c04072f1bb74f7e"/>
-		<rom name="earthles.wad" size="16527969" crc="c3426c4d" md5="5d2d7acf5d6d99a7807832f912ed37af" sha1="360c620aad3b02e15844c939b329b280795509e9"/>
+		<rom name="earthles.wad" size="16617227" crc="c330de03" md5="5c52efe2c66eef897d87b802db5d3ad4" sha1="cacfd0dac36ce8b52d5322da0b2e0d3da28f2177"/>
+		<rom name="earthless.txt" size="4258" crc="0a37f284" md5="a19e6f509be2eb40acfae4d33295e3de" sha1="0df486f814f799d899adfed586afd551d00795b3"/>
 	</game>
 	<game name="Doom II - El Viaje de Diciembre (2022) (Cacodemon187).dosz">
 		<description>Doom II - El Viaje de Diciembre</description>
@@ -4852,19 +4852,6 @@
 		<rom name="magnolia.txt" size="1123" crc="f0d082dc" md5="094040da17c2d82619528ae9472e5917" sha1="b65fd90280a2f1ef6514b600ed97f7eb13e3710e" date="2018-06-20 22:33:10"/>
 		<rom name="magnolia.wad" size="11946368" crc="d42936f0" md5="4fc271c17702a5a70437adf0c16fe028" sha1="665ef855f7b063284eb2d08ad4215b995b72ca79" date="2018-06-20 22:34:44"/>
 	</game>
-	<game name="Doom II - Malevolence (2022) (Cheesewheel).dosz">
-		<description>Doom II - Malevolence</description>
-		<year>2022</year>
-		<developer>Cheesewheel</developer>
-		<parent>Doom II Mod Base.dosz</parent>
-		<comment>UMAPINFO isn't supported by Tartar</comment>
-		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://www.doomworld.com/vb/thread/131061</link>
-		<rom name="CREDITS.txt" size="2267" crc="4f2aa83f" md5="ae1c057094e466be2cc8646f33c51809" sha1="96da46f5617fee2f90bc037414f9c9507eb2eaf6" date="2022-09-04 00:16:28"/>
-		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="Malevole.wad" size="19683333" crc="2ee11b55" md5="792a02dba724309e052651efbf87577c" sha1="d6c4f862953945775d1387fd706bce9bf52b0096" date="2022-09-03 19:23:48"/>
-		<rom name="STORY.txt" size="824" crc="496050cf" md5="6ce73f476abdc3b3f77fd1bcafcea847" sha1="ffc21ed41084e4e2d69d1f6b14e1a04e87362266" date="2022-08-27 15:33:30"/>
-	</game>
 	<game name="Doom II - Mancubus (2000) (Raymond Schmitz).dosz">
 		<description>Doom II - Mancubus</description>
 		<year>2000</year>
@@ -5399,10 +5386,11 @@
 		<developer>Bemused, Thomas Seifert</developer>
 		<parent>Doom II Mod Base.dosz</parent>
 		<comment_dosc>Auto start</comment_dosc>
-		<link type="freeware">https://www.doomworld.com/vb/thread/126833</link>
+		<link type="freeware">https://www.doomworld.com/idgames/levels/doom2/Ports/m-o/occula</link>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="occula.txt" size="2623" crc="39c52ea8" md5="4c93a8fba042d517bcec6356722ba59a" sha1="58601fbfde0e83ffc4cd5089debd152b3ccb1201" date="2022-01-13 14:20:18"/>
-		<rom name="Occula.wad" size="23917602" crc="bf624ae2" md5="2f765a795b9a743985a3e8b11d35a455" sha1="3117462f36541750790ffe9d6ad94c8b93e0708e" date="2022-01-13 10:37:02"/>
+		<rom name="Info.txt" size="2623" crc="39c52ea8" md5="4c93a8fba042d517bcec6356722ba59a" sha1="58601fbfde0e83ffc4cd5089debd152b3ccb1201" date="2022-01-13 09:20:18"/>
+		<rom name="occula.txt" size="2720" crc="61896bed" md5="0ed54b9b56acec017c6994d0c65ea80a" sha1="d474b190656aaa6b563214737371368346214d19"/>
+		<rom name="Occula.wad" size="23880418" crc="b2bc725e" md5="a7741e1ea4154862c59ef7d0d4968c21" sha1="f01c6fed76641766865806294c14d42a01c85698"/>
 	</game>
 	<game name="Doom II - Odyssey (1996) (T. Elliot Cannon).dosz">
 		<description>Doom II - Odyssey</description>
@@ -6404,12 +6392,12 @@
 		<year>2024</year>
 		<developer>nova++</developer>
 		<parent>Doom II Mod Base.dosz</parent>
-		<comment>Bite 1a version</comment>
+		<comment>Bite 2a version</comment>
 		<comment_dosc>Auto start</comment_dosc>
 		<link type="freeware">https://www.doomworld.com/vb/thread/128999</link>
 		<rom name="Doom II Mod Base.dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="readme-bite1a.txt" size="7606" crc="9d22937a" md5="156b0c5c5d2b27784c654d736aeed019" sha1="c70367646fa066168c49d1dc41f21244cf09b6b3"/>
-		<rom name="squench.wad" size="11511779" crc="f7e72263" md5="aeb86c05c5bae9d43f7353d4689f7dd1" sha1="7ec0f62c4b802153e5d95cffc7619a6ac4ad8323"/>
+		<rom name="readme-bite2a.txt" size="9112" crc="484bb0a2" md5="887a07e546c3c4743d1989b84498cca6" sha1="14985dbb21b1c79559b9e3fd4c53c73a413e479e"/>
+		<rom name="squench.wad" size="18903458" crc="f0f8c069" md5="e649cccd3f5690344ca42a3f8232431e" sha1="3908160e3b55c6e3ab19bbb73e49811b08c98169"/>
 	</game>
 	<game name="Doom II - Star Wars for Doom II (1998) (Garrett Granger).dosz">
 		<description>Doom II - Star Wars for Doom II</description>
