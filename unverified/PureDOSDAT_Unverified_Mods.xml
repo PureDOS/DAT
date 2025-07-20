@@ -275,11 +275,12 @@
 		<developer>Impel Development Team</developer>
 		<parent>Quake (1996) (id Software).dosz</parent>
 		<comment>
-			Files copied from CD matching with TDC entry: Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue]
+			Files copied from CD matching with TDC 22 entry: Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue]
 			CD image converted with CHDtoOGG using -n option
 			Make sure the CHD is renamed to "Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue]" before using CHDtoOGG, so the matching CUE file will be created
 		</comment>
 		<comment_dosc>Auto start</comment_dosc>
+		<link type="media">https://puredos.github.io/tdc-browser/?/Abyss%20of%20Pandemonium%20(1998)(Perfect%20Publishing)%20%5Bbin-cue%5D</link>
 		<rom name="Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue] (Track 1).bin" size="43008" crc="10d89042" md5="73db37b47ede9da7e9fbaae52c6c8a8b" sha1="8a2846aac1e2ceb8a08a9cd5591e9a85228d5cab"/>
 		<rom name="Abyss of Pandemonium (1998)(Perfect Publishing) [bin-cue] (Track 2).ogg" size="6476484" crc="0ac1ad8c" md5="6dec6f336e73f742f046d7777b07a591" sha1="39224784dd9210fe6b7c5cb254d7d1e4a2b1d7ba">
 			<source type="AUDIO" frames="20639" omitted_pregap="150" duration="04:35:14" size="48542928" crc="245ddd3d" md5="b16ca0015abd7c26cbaf91a67661bf7c" sha1="1f8d6f74949c58aa9c766dce3095f14c8f1660d2" in_zeros="8774" out_zeros="375958" quality="8"/>
