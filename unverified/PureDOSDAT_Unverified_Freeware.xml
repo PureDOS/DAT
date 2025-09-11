@@ -538,6 +538,21 @@
 		<rom name="settings/tile_opt.txt" size="1761" crc="cda4e0e5" md5="f6b19babb3d0ccb75eb4cef546b75084" sha1="47ff4e5b61d33f42a6700e983fdbb34662ac8be7" date="2009-07-30 13:00:20"/>
 		<rom name="settings/trav_st.txt" size="660" crc="dbc7fc22" md5="746cc800800a3acd3d3587f9e739a6d2" sha1="a28e10b40221741c11de2e1127abaa330a5c0c40" date="2009-07-30 13:00:20"/>
 	</game>
+	<game name="Floppy Bird (2015) (Mihail Szabolcs).dosz">
+		<description>Floppy Bird</description>
+		<year>2015</year>
+		<developer>Mihail Szabolcs</developer>
+		<comment>
+			Installed from official Github repo ISO, verified against Total DOS Collection.
+		</comment>
+		<comment_dosc>
+			Auto boot.
+			CPU cycles set to 10000.
+		</comment_dosc>
+		<link type="media">https://puredos.github.io/tdc-browser/?/22/Floppy%20Bird%20%5BFW%5D%20(2015)(Mihail%20Szabolcs)%20%5BAction%5D</link>
+		<link type="freeware">https://github.com/icebreaker/floppybird/blob/master/build/floppybird.iso</link>
+		<rom name="FLOPPYBI.IMG" size="1474560" crc="6bdd4e5b" md5="7241d1d0ce0a5706332da2addeb71684" sha1="bdcd1ffa7766f2cfb8701245154fde068bcaedd2" date="2014-07-15 07:19:04"/>
+	</game>
 	<game name="Little Fighter (1997) (Marti Wong).dosz">
 		<description>Little Fighter</description>
 		<comment>Digital copy from developer's website, matches with TDC entry: Little Fighter (Zh) (1997)(Marti Wong) [Action]</comment>
