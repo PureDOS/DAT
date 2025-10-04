@@ -10,6 +10,22 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
 	</header>
+	<game name="Acronia (2020) (Hadrosaurus Software).dosz">
+		<description>Acronia</description>
+		<year>2020</year>
+		<developer>Hadrosaurus Software</developer>
+		<comment>Installed from [DOS] Acronia version 0.7 (demo). Matches TDC 22: Acronia v0.7 (demo) [FW] (2023)(Hadrosaurus Software) [Action]</comment>
+		<comment_dosc>Auto start, option to edit config</comment_dosc>
+		<link type="freeware">https://hadrosoft.itch.io/acronia</link>
+		<rom name="Acronia user guide (demo v0.7).pdf" size="5320671" crc="1255c41b" md5="4e7cbe2b0e26d8e51775336f27eb9f27" sha1="280d3e5f6c9bbaa5697def7f1df21eeede2a1152" date="2023-12-09 11:13:04"/>
+		<rom name="ACRONIA/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2023-12-09 11:16:34"/>
+		<rom name="ACRONIA/ACRONIA.EXE" size="333348" crc="71f75ac2" md5="7fece0bcf0d7f9c1b2d0c8cb350ca4d7" sha1="9d7df8375e1cccf096c60e133a40049a95ed880d" date="2023-12-01 15:32:38"/>
+		<rom name="ACRONIA/ACRONIA.WAD" size="2582117" crc="a15e49cd" md5="9c7d33e4671360eedf1e17ab0cfd10a5" sha1="1066238afddd667c5e3b3bdb32208e85b1e0ed86" date="2023-12-01 15:53:24"/>
+		<rom name="ACRONIA/DEFAULT.CFG" size="166" crc="d9a3ff26" md5="b69aec875383109484b9b9c8e6718e05" sha1="f24267138820f1ec4e8d30708e87f891f04303e2" date="2023-12-01 15:58:50"/>
+		<rom name="ACRONIA/FILE_ID.DIZ" size="393" crc="a609a768" md5="1f9a49abd5d368e4e369a06df117e1d3" sha1="563345543459d8c50e6680a6a3cd70c7dbe03037" date="2023-08-24 17:21:30"/>
+		<rom name="ACRONIA/README.TXT" size="21766" crc="0d699e2b" md5="eb7bf78031e9f4e9c446fb38c673d082" sha1="39d6f5397582981de662c44b2d1d7c1911cf21bc" date="2023-12-01 00:02:52"/>
+		<rom name="ACRONIA/SETUP.EXE" size="56446" crc="1efa393d" md5="6ec983bfa1a8d6ecddb0fc539d9256d8" sha1="07b13e00013995d8bdeba34e3fce40440bf91ce0" date="2023-09-01 21:25:12"/>
+	</game>
 	<game name="Ancient Domains of Mystery (1996) (Thomas Biskup).dosz">
 		<description>Ancient Domains of Mystery</description>
 		<year>1996</year>
@@ -206,6 +222,338 @@
 		<comment_dosc>Auto start</comment_dosc>
 		<rom name="antartic.exe" size="30094" crc="d6dab790" md5="ff59dc632afd0d581fb782b0d1a1c576" sha1="01d7ce07c7b799275f521f0acdbcf826432c34cc" date="1995-07-12 16:19:04"/>
 	</game>
+	<game name="Anzu Castle Gracula (2024) (Rainbow Cemetery).dosz">
+		<description>Anzu Castle Gracula</description>
+		<year>2024</year>
+		<developer>Rainbow Cemetery</developer>
+		<comment>Installed from acg shareware standalone</comment>
+		<comment_dosc>Auto start, options to edit config and view manual</comment_dosc>
+		<link type="freeware">https://rainbowcemetery.itch.io/anzu-castle-gracula</link>
+		<rom name="ACG.EXE" size="252978" crc="20729651" md5="dc7f863fffe322b591c5803791174dcf" sha1="bc6c996918de79e5474bcf6851a9845d37673381" date="2024-08-06 15:43:46"/>
+		<rom name="data/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2024-09-28 18:23:18"/>
+		<rom name="data/0.MD" size="45" crc="b0a131a7" md5="a4084af1971d9fb038d261fed8f76bd1" sha1="4e1ba6abb31b2333f981887729eaf2afa58acd58" date="2024-06-16 22:03:50"/>
+		<rom name="data/0.OD" size="71" crc="74c72bd7" md5="43b8c87cf04e270f349568648e36d542" sha1="c204e5ee41fbb4a81c7a54664418522a49e41366" date="2024-06-16 22:03:50"/>
+		<rom name="data/0.TD" size="5727" crc="1b42c58c" md5="da0e16985043ae9ad3c77b4f860c8e9f" sha1="2bee204de1d8faf0568e47c4ade9921d70233b2f" date="2024-06-16 22:03:50"/>
+		<rom name="data/1.MD" size="45" crc="08c49c79" md5="4a323ea44662f13c9c52148d8b3ddf11" sha1="aa6eccb327e472da8cf68290e28c9fe9f4f64eda" date="2024-06-16 22:03:50"/>
+		<rom name="data/1.OD" size="7" crc="20c9d8f0" md5="2ae93e9e1915ca4e3ce2420f465239d4" sha1="aade4943f06dd8271dc4773d5ad2b4e5f4a81bfa" date="2024-06-16 22:03:50"/>
+		<rom name="data/1.TD" size="5727" crc="2795bc57" md5="ff446d0fb70a61520738e8d12b403f8a" sha1="c54101002ea03f5a6436f53d19963ed80dcc63ce" date="2024-06-16 22:03:50"/>
+		<rom name="data/10.MD" size="45" crc="1d20b9f9" md5="5b26ec2460983f93fdffddd2b8e2ce82" sha1="4a6926817a4beac37f24e37ae3060cf1cc452cd0" date="2024-06-16 22:03:52"/>
+		<rom name="data/10.OD" size="55" crc="e49a702d" md5="3c4554b0157fdd135bd296434eb2d991" sha1="1bfde6138b90ce9478268a9d193da69920da0293" date="2024-06-16 22:03:52"/>
+		<rom name="data/10.TD" size="5727" crc="7f331c9a" md5="9b781200966fd3e118b61fdd7a58026b" sha1="a8e3f34dc929ae4dc895f559cc8da79dec1e5e15" date="2024-06-16 22:03:52"/>
+		<rom name="data/11.MD" size="45" crc="d909b29e" md5="b0c1834d9c3f503602dd5778a92abd16" sha1="0cac4984a3172a99ab35bcd441bdc7e73529dc33" date="2024-06-16 22:03:52"/>
+		<rom name="data/11.OD" size="39" crc="d00c5298" md5="14717139abd2fdcb4bfe398ef615d3f8" sha1="fee6376b4d0336b854280b5de6aa195933f14307" date="2024-06-16 22:03:52"/>
+		<rom name="data/11.TD" size="5727" crc="5cce450a" md5="44ea4b2a62dbf9325389956bb1752c59" sha1="8cffd2d193b1783fabf2f8ce0e63de221fcd067f" date="2024-06-16 22:03:52"/>
+		<rom name="data/12.MD" size="45" crc="b73e386c" md5="52c1653724939539700ba624e26d2535" sha1="9d74b0d514431690b2df4a62f8ff40f1f3bbf14f" date="2024-06-16 22:03:52"/>
+		<rom name="data/12.OD" size="7" crc="bb589ae6" md5="22c9e1e54504deb24abd00029ed576b0" sha1="78b4370c60d9fe7a52ed7e2366d8fa033f12f87d" date="2024-06-16 22:03:52"/>
+		<rom name="data/12.TD" size="5727" crc="96d68ee1" md5="542c265b01589a20e714ad4c86bb61a9" sha1="2c440e780457542468e9592d00f6887e77995133" date="2024-06-16 22:03:52"/>
+		<rom name="data/13.MD" size="45" crc="056b01ed" md5="e51f12816743d45c2e674d677c13d2c0" sha1="6f02ac8e186ed7886a1fd9396cc6da807e7add09" date="2024-06-16 22:03:52"/>
+		<rom name="data/13.OD" size="71" crc="2059c90f" md5="9499642d82f80e6ab22575b0a12d16db" sha1="66b5bf498da8fd961c98cda68e5ffd611413abce" date="2024-06-16 22:03:52"/>
+		<rom name="data/13.TD" size="5727" crc="c882bbd0" md5="9f33efef699e6d25699a295b47dfb6a1" sha1="e7c5788ca9981a67ed3936fbb7f3b508b1f82730" date="2024-06-16 22:03:52"/>
+		<rom name="data/14.MD" size="45" crc="6c9b7761" md5="f0c804c19d96237017280a9fd44f6afa" sha1="a690ac4497a9073330f373a040a45d74d6964581" date="2024-06-16 22:03:52"/>
+		<rom name="data/14.OD" size="39" crc="01d486fe" md5="e6fcddacc9b9f94c868bd79850e03ece" sha1="f2680fd8f53ef0828fd47c7726a9a80000f57b8e" date="2024-06-16 22:03:52"/>
+		<rom name="data/14.TD" size="5727" crc="c60c6900" md5="cd26399a0bca2a446a372dcd4c672850" sha1="3213da4bfe5290f379345d0956831ebb63d91b58" date="2024-06-16 22:03:52"/>
+		<rom name="data/15.MD" size="45" crc="fd29f324" md5="82f0d8d8c3602d056fd42bb7aec9447f" sha1="13c114941e98915fed422141a953d7a8939e4caf" date="2024-06-16 22:15:32"/>
+		<rom name="data/15.OD" size="103" crc="4f9d5bca" md5="c0a34407ada35ccad6db17f761e1db40" sha1="ee39bd03e6ef90b412fa65e9acf38af4f42697ff" date="2024-06-16 22:15:32"/>
+		<rom name="data/15.TD" size="5727" crc="5253fce8" md5="9b6cd3c9e29ba512346fa49a58085720" sha1="4b98472d668ac596f6c06a76db0f09e6d27b08a2" date="2024-06-16 22:15:32"/>
+		<rom name="data/16.MD" size="45" crc="1b869b7e" md5="b18da98ed34ec0c33452df54915667ac" sha1="49695b995771ca37f3f42510f3d09e5e54230cf6" date="2024-06-16 22:03:52"/>
+		<rom name="data/16.OD" size="71" crc="eb13f40e" md5="94541a19ec67b0157713493db790b3ac" sha1="08dac248a79d9025355b8cc3a0c094189867dc86" date="2024-06-16 22:03:52"/>
+		<rom name="data/16.TD" size="5727" crc="592c9c17" md5="21ebb2d85e4985c4dd7cd419e84eb552" sha1="63ea45f8513021605cc2c89810d64122287932e0" date="2024-06-16 22:03:52"/>
+		<rom name="data/17.MD" size="45" crc="186a0f65" md5="2b4edba6bd94e529c8193356da33455e" sha1="01bc6dcfd055942a662d0b1bbba8db6bedd98e1e" date="2024-06-16 22:03:52"/>
+		<rom name="data/17.OD" size="119" crc="85f5efd5" md5="f07433fb043d7224657f275429c3d2ca" sha1="6430492a98025ba1e53c81808c59aeae833a807f" date="2024-06-16 22:03:52"/>
+		<rom name="data/17.TD" size="5727" crc="3fae0470" md5="4c859c371632d50ee87b7dc6e4d660da" sha1="59986c3792a6893bc0e7bdcf355f4a93aa4e5920" date="2024-06-16 22:03:52"/>
+		<rom name="data/18.MD" size="45" crc="1bedfcf0" md5="042f44c6272807217540be1c8577eeee" sha1="047edf0227d403b5abd75f1589744458be3e8b1d" date="2024-06-16 22:03:52"/>
+		<rom name="data/18.OD" size="71" crc="0fd92ea1" md5="9a582f8c57bbb4eaf9f7622d26040431" sha1="dc83d2884243f882bfbaee7ae55e49066e72952b" date="2024-06-16 22:03:52"/>
+		<rom name="data/18.TD" size="5727" crc="da98f7af" md5="ee71bd4ab639beac2a21298e1b8cb6a9" sha1="d84d80d2bb7a72f977fc1259f963cb637e11c6be" date="2024-06-16 22:03:52"/>
+		<rom name="data/19.MD" size="45" crc="31739465" md5="6883452cb22b915b08f2810c773e6b94" sha1="5c1ddbe6e2fa1ace00309c8615f98e05e922ac92" date="2024-06-16 22:03:52"/>
+		<rom name="data/19.OD" size="71" crc="7d913f61" md5="082720bbc20a2b18298b321e32a0d318" sha1="79c09ec883437d2ac795b4acb5912823c8b2e7c9" date="2024-06-16 22:03:52"/>
+		<rom name="data/19.TD" size="5727" crc="2109d68e" md5="979354bf2adcaeb778a7b7ec6c185e66" sha1="a71a1246a4b63c3e84fd415974dbdacc640a933e" date="2024-06-16 22:03:52"/>
+		<rom name="data/2.MD" size="45" crc="3cae9145" md5="ea20d03acef3adfe189998502a11c12c" sha1="50c7e0f09136ec3381cf176b3a0e0c5702dda79c" date="2024-06-16 22:03:50"/>
+		<rom name="data/2.OD" size="55" crc="0304f039" md5="6e370a617ce4c28d2323e74ea5d5783f" sha1="54e557ee0a69f10db7f99c28fddfa7a4af5f55a0" date="2024-06-16 22:03:50"/>
+		<rom name="data/2.TD" size="5727" crc="86fcc315" md5="1a41ae28f7d6d1cf5d5e291afe979cdc" sha1="ecd411a5213354d01e98b37f8da1fa692bb361df" date="2024-06-16 22:03:50"/>
+		<rom name="data/20.MD" size="45" crc="9a129c55" md5="1b58220b2d47854c6c836e52aee0ae57" sha1="93fcfa0d993ed29ed72d6a841f0058b734d21209" date="2024-06-16 22:03:52"/>
+		<rom name="data/20.OD" size="23" crc="c8ac4a19" md5="15b310e3548895c525d05e2c6597aff0" sha1="bdf3212d36bac6e493bb971756ba6351e0794339" date="2024-06-16 22:03:52"/>
+		<rom name="data/20.TD" size="5727" crc="6ffcc558" md5="d5c4df1e33fba14bd7a096abaf22e6f1" sha1="5f502138be7a8b18a9e2107f26cdac1d3e40e97c" date="2024-06-16 22:03:52"/>
+		<rom name="data/21.MD" size="45" crc="409bb34f" md5="003af7496599d971c4e63d427b08cdae" sha1="9d30f2649bf5e1f76d82863245bf8815110e56df" date="2024-06-16 22:03:52"/>
+		<rom name="data/21.OD" size="55" crc="1c5923ba" md5="fe71ccbd0c397dd0e909b1c894a1f420" sha1="57983be397a4c71b41ff2f6671599a012f2ea359" date="2024-06-16 22:03:52"/>
+		<rom name="data/21.TD" size="5727" crc="6a233a00" md5="281337e88d6d9d6dc0b02c47e85bb889" sha1="fd155260cb8c0769b48f015619d70cba3ea1e21c" date="2024-06-16 22:03:52"/>
+		<rom name="data/22.MD" size="45" crc="b10a6e51" md5="34f7d9e10a25aa9debfcd178945b279f" sha1="7529810fafb13328c91a8dd39379aa6c50168226" date="2024-06-16 22:03:54"/>
+		<rom name="data/22.OD" size="39" crc="cf32094d" md5="9ec8bc42f2c7de72a0787a6132bd84bf" sha1="7ca6aeae12e1bc83bae9bb3d0a2a8fa0ee9e61e6" date="2024-06-16 22:03:54"/>
+		<rom name="data/22.TD" size="5727" crc="d86c416c" md5="9e7f57c6eef8373ac321004b00b2fafa" sha1="43a473d8a6a09489c8a7cc2209a642f6b3dba096" date="2024-06-16 22:03:54"/>
+		<rom name="data/23.MD" size="45" crc="09190c12" md5="8dbb14a7af30d23c9b4c4c58a3ef34c1" sha1="b11e55fedcf20a056b59154b26aadb39049dbd9b" date="2024-06-16 22:03:54"/>
+		<rom name="data/23.OD" size="39" crc="407a70e9" md5="702a21d99aaf68b05b4d51e847ac44ba" sha1="afed081b6f11792823892a96d38c7668ca58f639" date="2024-06-16 22:03:54"/>
+		<rom name="data/23.TD" size="5727" crc="47cf13b8" md5="7d9fafa352c63e455f9776d0d3188419" sha1="b0da9d7393e504b1e031aa4959834914f70959ac" date="2024-06-16 22:03:54"/>
+		<rom name="data/24.MD" size="45" crc="ea06996c" md5="945277aa7f05d31a7b605b1fc3143064" sha1="9f21fda22b40ab203789e42f454127d992b44a1d" date="2024-06-16 22:03:54"/>
+		<rom name="data/24.OD" size="39" crc="1d3fa27c" md5="0f21da95050078967f9594ba1ebb0ba5" sha1="4f5d7cad09939edc165efb8b7ac7bb1d04e6b72a" date="2024-06-16 22:03:54"/>
+		<rom name="data/24.TD" size="5727" crc="ca0becab" md5="8cb049d9772b75c4085576b6661566e8" sha1="e913685b4843f98e719f67d4919f3ad140cc4776" date="2024-06-16 22:03:54"/>
+		<rom name="data/25.MD" size="45" crc="f82ddbcd" md5="c0d47a5e990a0f020808e0a2660a4704" sha1="4777151f63349e324202488fd7e96b31690815e0" date="2024-06-16 22:03:54"/>
+		<rom name="data/25.OD" size="23" crc="67261e47" md5="54851d14f27c78122edda7b53641985c" sha1="6083e20a198e38cc2b99674bdc952c274bb32ae7" date="2024-06-16 22:03:54"/>
+		<rom name="data/25.TD" size="5727" crc="ead94e25" md5="00573593365ead4e2606b1f7a04b930e" sha1="357221972320d82e40fa2f349bf2a439dc06f8bc" date="2024-06-16 22:03:54"/>
+		<rom name="data/26.MD" size="45" crc="51c06e03" md5="f0f2daf10deda07d8d4a6a708eea3aea" sha1="99f7ebe4fcad513e01c677e7c57b71098a16ce11" date="2024-06-16 22:03:54"/>
+		<rom name="data/26.OD" size="7" crc="3dcce848" md5="b0c2becb4d42d0ff66b0e1f98b024912" sha1="4e78dcc786aed16841dfc6b4fe42562812622ead" date="2024-06-16 22:03:54"/>
+		<rom name="data/26.TD" size="5727" crc="01ee437e" md5="616d4bac4f0ce475cc50887359fd1799" sha1="020a955fe1759c2cafa24587b2d6466423f38118" date="2024-06-16 22:03:54"/>
+		<rom name="data/27.MD" size="45" crc="87402e5b" md5="50a2aa846e22064afde03554ad8587b9" sha1="ffbd7bf2e51d24cfdebbd3178451cae02931d809" date="2024-06-16 22:03:54"/>
+		<rom name="data/27.OD" size="55" crc="cd76a166" md5="e946ca8973acf101ea51f2e63b4b3e4b" sha1="42f9aeef1eb450ad88f36e1e6f129b2d63b9c936" date="2024-06-16 22:03:54"/>
+		<rom name="data/27.TD" size="5727" crc="e8fab42d" md5="fdc86f21c2a488436c37a33a8366c7e7" sha1="0f975572dddacfe38a222a95874c17c00f180715" date="2024-06-16 22:03:54"/>
+		<rom name="data/28.MD" size="45" crc="da6de3cd" md5="a736ca26acfacb66acb36747ee7c5384" sha1="b32ad1235d16076e56aa5bb535f2f9a47780128e" date="2024-06-16 22:03:54"/>
+		<rom name="data/28.OD" size="23" crc="4ba35699" md5="696fe7179fd13a623829d61982b201ea" sha1="c2e0ca906a110f6a390181adc41bc5087938165a" date="2024-06-16 22:03:54"/>
+		<rom name="data/28.TD" size="5727" crc="11114924" md5="4a7470da1be48938dd3ef4b837aecbcd" sha1="34a4bdeb520aaded1252fb26f3cafea813fe0deb" date="2024-06-16 22:03:54"/>
+		<rom name="data/29.MD" size="45" crc="d2933ed3" md5="0f896c1bc5af4882797b5cdb5396e405" sha1="5a3aa48e95774f60d7bae7413d07bccf23fa5b7d" date="2024-06-16 22:03:54"/>
+		<rom name="data/29.OD" size="39" crc="363b0545" md5="6743898da8078b158c4d58dee1c37bda" sha1="e07182476dd9498e62763fd38a75784786ebfe9f" date="2024-06-16 22:03:54"/>
+		<rom name="data/29.TD" size="5727" crc="506e2cf7" md5="703035c5cc0b812f4e6200f7c158d31f" sha1="32a77479ce41ddd7d0caf9bfd4ba97bb361effc6" date="2024-06-16 22:03:54"/>
+		<rom name="data/3.MD" size="45" crc="993fe947" md5="5296e3327fe93642e8c651814f3a1760" sha1="11323442d5ab4dd4b428e087abc5c3044ba8398e" date="2024-06-28 14:18:58"/>
+		<rom name="data/3.OD" size="183" crc="8c13f029" md5="b2e1ce5c0e4d62f5c675448301a4cfbb" sha1="fc85c9bda39ea5de18f0766f06ee9d955bade7ed" date="2024-06-28 14:18:58"/>
+		<rom name="data/3.TD" size="5727" crc="dea49eb4" md5="7940c926e8fb05fad3f8ce12fe26fc74" sha1="17efded46b25fae1704cb1004910e1e499e5e43c" date="2024-06-28 14:18:58"/>
+		<rom name="data/30.MD" size="45" crc="f48ad3ee" md5="1fdb15f06737a8e78f994c568b45c445" sha1="df3b4d87f0ecb624020761b07a198a5dc452cb62" date="2024-06-16 22:03:54"/>
+		<rom name="data/30.OD" size="71" crc="12f62139" md5="8cc8c0823c1951470a9a51be287ec2aa" sha1="f865019f99972c03751c01971aaa21b9fb254796" date="2024-06-16 22:03:54"/>
+		<rom name="data/30.TD" size="5727" crc="7c676c7b" md5="d77719dba10eef8d6240762fc43d401e" sha1="ce99d683463c6f4b358d3b6a162856c584c33d80" date="2024-06-16 22:03:54"/>
+		<rom name="data/31.MD" size="45" crc="d6f95240" md5="7126c42f5b77824a25a2ea5d541a2ea2" sha1="16a3f7d6701a621e088f29fd0566a25b62c69e90" date="2024-06-16 22:03:54"/>
+		<rom name="data/31.OD" size="7" crc="3dcce848" md5="b0c2becb4d42d0ff66b0e1f98b024912" sha1="4e78dcc786aed16841dfc6b4fe42562812622ead" date="2024-06-16 22:03:54"/>
+		<rom name="data/31.TD" size="5727" crc="b09ed96a" md5="4c522d86739c1f52a33fb4511039c30e" sha1="a483a8c2c8a32011621e5a3de304d9fd629393a7" date="2024-06-16 22:03:54"/>
+		<rom name="data/32.MD" size="45" crc="ebed771d" md5="ec01c3ad94ef0ab529f4fea422608c8e" sha1="10c848c9e8a6124f827fa71e03e262bd57037c8a" date="2024-06-16 22:03:54"/>
+		<rom name="data/32.OD" size="87" crc="bb741f18" md5="80b7bd43080ab1046c72f39b783bfa55" sha1="a463089a776367bbea5ae05f6739cbe552109aff" date="2024-06-16 22:03:54"/>
+		<rom name="data/32.TD" size="5727" crc="af89cf9d" md5="ad2d4a4b2cac220738bc0237b065f3eb" sha1="ee75a583a092786d946d1b3f7912b1fd5309f2a7" date="2024-06-16 22:03:54"/>
+		<rom name="data/33.MD" size="45" crc="e9ec3a59" md5="a532582800d5ba71ae77d4037e7d44b7" sha1="74060d5d2e5bae2cf9c15bc9701d55f95386057e" date="2024-06-16 22:03:54"/>
+		<rom name="data/33.OD" size="55" crc="e34ec347" md5="88f579d5f888a1b19dee94d5ff36c76c" sha1="77266cef04ea9491e2bceb95e68ba799169007b1" date="2024-06-16 22:03:54"/>
+		<rom name="data/33.TD" size="5727" crc="81b61116" md5="9e8dfc43023caeb744c191ecf71d2f9b" sha1="9f8a21e2ce02ab1e58337b026aa98a7486e26567" date="2024-06-16 22:03:54"/>
+		<rom name="data/34.MD" size="45" crc="e2b68ee1" md5="e66e1f0424517c8493ce61580420fa94" sha1="ffe1eb74016dca9f7de9b88a8c9397a0b4623d0b" date="2024-06-16 22:03:54"/>
+		<rom name="data/34.OD" size="39" crc="3c1c037b" md5="beef158d990f734bedc9b74a6f368b38" sha1="49bf02b9632b05483c3910be1a2ca58e1f208f62" date="2024-06-16 22:03:54"/>
+		<rom name="data/34.TD" size="5727" crc="7ee2818f" md5="55688965a31a046f9e7e9de08f0f8ecd" sha1="0341014a572d3b122b9419aabddd64019212f226" date="2024-06-16 22:03:54"/>
+		<rom name="data/35.MD" size="45" crc="1aaada7e" md5="5eeb10b8118ca16b42dfa2c1a5294fb0" sha1="e69a81c2c22df45c43309722733bfa41b4cc4a0b" date="2024-06-16 22:03:56"/>
+		<rom name="data/35.OD" size="39" crc="6e891dbf" md5="4f7976316df007c078e6fa243e4e2e86" sha1="d0e39031924309bc9099c9ab052fc03c4d04be35" date="2024-06-16 22:03:56"/>
+		<rom name="data/35.TD" size="5727" crc="a2acee6a" md5="609be00f406105325d38f5b6b2b5b21d" sha1="93a3b43ce4360b2eda3c0234d921b9d2d7ed4385" date="2024-06-16 22:03:56"/>
+		<rom name="data/36.MD" size="45" crc="d66f8ee1" md5="bc923afae55a70c4cac5c7e602b8e324" sha1="8e32e9ff46420729c33add1a6bb2fe3b3f88139a" date="2024-06-16 22:03:56"/>
+		<rom name="data/36.OD" size="7" crc="3dcce848" md5="b0c2becb4d42d0ff66b0e1f98b024912" sha1="4e78dcc786aed16841dfc6b4fe42562812622ead" date="2024-06-16 22:03:56"/>
+		<rom name="data/36.TD" size="5727" crc="7476e593" md5="349a45b08f4983538b9342c28668e0db" sha1="b6611d9485a3cd3e9453290b7fe9a8ea1d813b62" date="2024-06-16 22:03:56"/>
+		<rom name="data/37.MD" size="45" crc="d9c9afa0" md5="9d79b2f65f4b1c5245a21a0b618b846a" sha1="b5284e2f5507b4679c8da20dfc9edd2db07666c1" date="2024-06-16 22:03:56"/>
+		<rom name="data/37.OD" size="23" crc="d769bf20" md5="3155ed0e6977d1e2777caf60efa7d316" sha1="14f774b6e5a63f27f072c2b31ff31ce49e63b6be" date="2024-06-16 22:03:56"/>
+		<rom name="data/37.TD" size="5727" crc="54f2f46e" md5="94b5c6d5a00bc699f116b36cd34cfd9c" sha1="6d976062a981cb1d5c64bd0148a4829af2a1a611" date="2024-06-16 22:03:56"/>
+		<rom name="data/38.MD" size="45" crc="c5c12e19" md5="11b217b4f0922ddf4a993bf0f8048be4" sha1="6882d20ad0270b3a11a10844232b73618d857481" date="2024-06-16 22:03:56"/>
+		<rom name="data/38.OD" size="23" crc="3475b3d1" md5="138e0241ae69361717883632258f4cc1" sha1="673ebc4da82f88033c22281ccf06ff53f4f0d1d0" date="2024-06-16 22:03:56"/>
+		<rom name="data/38.TD" size="5727" crc="a531905b" md5="aa22072e12f66cc2dcf2da85f900361e" sha1="b24a0355f21d28c0399f2f5c7771f4ca45ff0ea5" date="2024-06-16 22:03:56"/>
+		<rom name="data/39.MD" size="45" crc="2b7a8413" md5="b5e91bab112aafa79705cc0cf50fdd06" sha1="0c40dcf3894d414601dde47203b822cd185bb1e6" date="2024-08-01 10:03:26"/>
+		<rom name="data/39.OD" size="55" crc="89df6f55" md5="04e2e48e12b315939de65980f0ce23d2" sha1="f94d186c4a49a78edbbb6efd47616dc9cd71b9f2" date="2024-08-01 10:03:26"/>
+		<rom name="data/39.TD" size="5727" crc="562890f1" md5="f45fc8b34dd85948d4aaed215afed2d1" sha1="af38b2395f57095e8c83c5c4510d4f4c474370b6" date="2024-08-01 10:03:26"/>
+		<rom name="data/4.MD" size="45" crc="acc5ab1e" md5="96c87f2d5223148f060801616abed7cf" sha1="cb3d3935fd2e8ab60ee96628defc3e37ce0e41b5" date="2024-06-16 22:03:50"/>
+		<rom name="data/4.OD" size="39" crc="1763696b" md5="7d5235a143b186839999fe73a83e0cb2" sha1="5f1754291116a6f757259bdd874daba343843a0a" date="2024-06-16 22:03:50"/>
+		<rom name="data/4.TD" size="5727" crc="d388052e" md5="a99961dd5d2376069a04491ba941bf0c" sha1="1b37b679a42c8a148db77eb028c8f63e166d4577" date="2024-06-16 22:03:50"/>
+		<rom name="data/40.MD" size="45" crc="c223f66c" md5="fa75a7a101b3dd3cb7af336174436750" sha1="49f7610a01e2f4e4fe3eeaa0405e995757b797e9" date="2024-06-16 22:03:56"/>
+		<rom name="data/40.OD" size="23" crc="05d9be87" md5="edbd52f75b43c7ea6b3ed503b2f9486c" sha1="8feac8c242a9f7863ff328cae1e9e6dc80673aed" date="2024-06-16 22:03:56"/>
+		<rom name="data/40.TD" size="5727" crc="b95956ab" md5="51cd01b139deb6fd75b54a1dd520f392" sha1="055bd80583ec7ba249486023383e72a6645482cd" date="2024-06-16 22:03:56"/>
+		<rom name="data/41.MD" size="45" crc="d10d6f63" md5="b87494038296fe392899ebb7a1bd656c" sha1="cc944bf7a5d91b07ac8729897b2e14fd827392db" date="2024-06-16 22:03:56"/>
+		<rom name="data/41.OD" size="39" crc="b4b36e52" md5="36fb15cb9b94ff3ac003aff671ac0b3d" sha1="695c5a96659d724462c715f23c7577aaf6f31f09" date="2024-06-16 22:03:56"/>
+		<rom name="data/41.TD" size="5727" crc="069693c1" md5="5b34c2cfe3755ba7dfa6c9adb7cfedd5" sha1="7274a2c76c033fa6a78736a1fdbebec0a0e5cddc" date="2024-06-16 22:03:56"/>
+		<rom name="data/42.MD" size="45" crc="582ed50b" md5="c5b025e24b5a3d6d3c5d2dca7431e0a6" sha1="f148581d2a9a21868ccfc1e1032c841effbb98b6" date="2024-06-16 22:03:56"/>
+		<rom name="data/42.OD" size="7" crc="3dcce848" md5="b0c2becb4d42d0ff66b0e1f98b024912" sha1="4e78dcc786aed16841dfc6b4fe42562812622ead" date="2024-06-16 22:03:56"/>
+		<rom name="data/42.TD" size="5727" crc="1b01016b" md5="315b5e4b49a60aa85c14aec7f0c2acd5" sha1="adf486180b4253be6cfe6fc67588b6e9db2e77d8" date="2024-06-16 22:03:56"/>
+		<rom name="data/43.MD" size="45" crc="862a4962" md5="865bfd7b980aea30951891591c9ef993" sha1="12e38449a15fac747ab7fd20ae9666b57804e9ad" date="2024-06-16 22:03:56"/>
+		<rom name="data/43.OD" size="23" crc="a2c0f26f" md5="bc754f2dd0cf6c23eff7d60b556af6bc" sha1="2fc9a95693a14a6619f2153d890ebfe0c03ae87e" date="2024-06-16 22:03:56"/>
+		<rom name="data/43.TD" size="5727" crc="ef72bc9f" md5="d6d99d644cceeca7abe47eef6ac5733b" sha1="020c2bdc30fa076c13bd4193a201c5b5f5b13f84" date="2024-06-16 22:03:56"/>
+		<rom name="data/44.MD" size="45" crc="bf63af81" md5="45469224212f2b7cf5c1b79d6d878432" sha1="c0268443d4abfc2d6456158b4293cd0088f60a82" date="2024-06-16 22:03:56"/>
+		<rom name="data/44.OD" size="103" crc="1395c384" md5="937b14f379b550a9365788097249d836" sha1="04c875c4aca28bb6f3313112dbdfea4059e91c6c" date="2024-06-16 22:03:56"/>
+		<rom name="data/44.TD" size="5727" crc="ee9ca4f7" md5="a663793a121d1259868b3f51d50b2339" sha1="0068254497501a2ad54bd1a622984e7360bc67c3" date="2024-06-16 22:03:56"/>
+		<rom name="data/45.MD" size="45" crc="a7bea5b1" md5="f4ce20ee89ed1224211024608947e4e8" sha1="c8daa60ebff0cd586f254a4047202f8006af380f" date="2024-06-16 22:03:56"/>
+		<rom name="data/45.OD" size="23" crc="0e0eeb97" md5="e26614b624da02cf58d4b68dcac959e8" sha1="c34f81f477e69a6ec6908d9cb1fcd8f97a7c31d9" date="2024-06-16 22:03:56"/>
+		<rom name="data/45.TD" size="5727" crc="09956cf5" md5="c27da4382ccbce92d103ea63acdbced3" sha1="fec8eaaed86da4461d56a1dfe2f5becbbfb38948" date="2024-06-16 22:03:56"/>
+		<rom name="data/46.MD" size="45" crc="a8fc6ba1" md5="e13ebe84b7e30c497e8f04684babaa21" sha1="1afc055cf99df5a4cf714aa0ad42df97dde7b3c6" date="2024-06-16 22:03:56"/>
+		<rom name="data/46.OD" size="23" crc="9255563b" md5="e14373466372ada9ec967b51cc62deb9" sha1="1f5dba2235ae574a56962a9350f0e4f9dfb6506b" date="2024-06-16 22:03:56"/>
+		<rom name="data/46.TD" size="5727" crc="7c10d576" md5="55c0321de9d200619c515e27b53d1d46" sha1="34bbf977f0d3b3a5c33ebe3bb933c4d10bad0e2c" date="2024-06-16 22:03:56"/>
+		<rom name="data/47.MD" size="45" crc="2c8d41ac" md5="3565ad512cd6d1c2ad2117471cb126bc" sha1="78fade7bd39dd6d1bb9d3b70cb6a1a2bcde0b0e0" date="2024-06-16 22:03:56"/>
+		<rom name="data/47.OD" size="55" crc="21bf790a" md5="ee7827fe93b20e4ac94b14a311892bc5" sha1="9712630b0146e3136c3ada149973279e8cdf8d98" date="2024-06-16 22:03:56"/>
+		<rom name="data/47.TD" size="5727" crc="c49f22ae" md5="db2cca3ec1be288211597c66284de1c1" sha1="998bb14afe8c0fb893bbd106d667300bfdba7c15" date="2024-06-16 22:03:56"/>
+		<rom name="data/48.MD" size="45" crc="52f16e73" md5="85d01af0fd07893670d1f88c6a8cfa1f" sha1="df4bea53fca6f63a3257b5e518432edf50bc6c76" date="2024-06-16 22:03:58"/>
+		<rom name="data/48.OD" size="39" crc="cc6b6dba" md5="50568befedca4ca9954e571b1e2e3c95" sha1="79e0bc503306943b33653f46d08c123b3b4808c4" date="2024-06-16 22:03:58"/>
+		<rom name="data/48.TD" size="5727" crc="7deabe69" md5="e88a07ef5a22d546056821e02fada784" sha1="d0e5dcda0b77b4b69feefa4e22e6a13e39965622" date="2024-06-16 22:03:58"/>
+		<rom name="data/49.MD" size="45" crc="8c78a2b7" md5="af18ae90be42b326cd40192d0ce9dc79" sha1="a61ace744bf4d77e61fdbc5c6644c1b6470c147a" date="2024-06-16 22:03:58"/>
+		<rom name="data/49.OD" size="23" crc="376be03b" md5="6ad5473679c55d31b4a0ef59cfa3a797" sha1="75ee0f54c965072cce0063722306d1e2cff0a01a" date="2024-06-16 22:03:58"/>
+		<rom name="data/49.TD" size="5727" crc="f9114ce8" md5="b567ae464a67dc74ae25b6d7c3b9dfba" sha1="ebbdc0950e82b3f1d19f7f94eafbbd5be8d0e4d9" date="2024-06-16 22:03:58"/>
+		<rom name="data/5.MD" size="45" crc="89d7b982" md5="5bdce0fb2dd640395081cf3e0db62663" sha1="18bfbd1a29df368358f13bd96beba73f6a47cdd6" date="2024-06-16 22:03:50"/>
+		<rom name="data/5.OD" size="7" crc="6d0179fb" md5="612f29751dc0206e5118b0e861f759ab" sha1="2898d2ff85015001ac52aafc3a6f472be3c98df7" date="2024-06-16 22:03:50"/>
+		<rom name="data/5.TD" size="5727" crc="e50aad14" md5="e02cc4e35415bb8773b02ade12cfd172" sha1="a2336b3a91208705bc53633152f5963ab2946085" date="2024-06-16 22:03:50"/>
+		<rom name="data/50.MD" size="45" crc="7bd40ea8" md5="0a37f95868df963d57512527bfc1df2a" sha1="18d70705498f4ca9c09f47613e1e0707688bf08c" date="2024-06-16 22:03:58"/>
+		<rom name="data/50.OD" size="55" crc="7ead1c8e" md5="8b1fd18e547de70a293dc6be8ce1c858" sha1="9dc4f907e186c899eff7fb02962300c4b6f75208" date="2024-06-16 22:03:58"/>
+		<rom name="data/50.TD" size="5727" crc="1326b322" md5="5f7c126b6c4372a1b792332aec8b3ee1" sha1="03e6186c6f7e06f46d33d6e14a1fdf2c58d260d0" date="2024-06-16 22:03:58"/>
+		<rom name="data/51.MD" size="45" crc="90df5464" md5="52a25ff986af32b470b04a55ddb4d221" sha1="d5a67082ebb184034ebd50e3b138c87ffc8e9e2d" date="2024-06-16 22:03:58"/>
+		<rom name="data/51.OD" size="71" crc="5171bf96" md5="ea704bd498b370c69638bfd7aa3ad84a" sha1="473a0fbdd3944397fbca23af14a711c4f204eec7" date="2024-06-16 22:03:58"/>
+		<rom name="data/51.TD" size="5727" crc="14ef358b" md5="5550fb4172588f45aa944399f869428e" sha1="8b858d6efe61695c99d82c3fd75a6d4e5c842ff4" date="2024-06-16 22:03:58"/>
+		<rom name="data/52.MD" size="45" crc="1da3d816" md5="86b27f25f83d36a598549e50f626b048" sha1="50001a9f604ff5e3369f1590704c7910ebf0d45b" date="2024-06-16 22:03:58"/>
+		<rom name="data/52.OD" size="39" crc="a9acb201" md5="0b559f102b1396b055ad08619b0efe40" sha1="3227df234d701385b0ff4e5638d3f52f8cb3d025" date="2024-06-16 22:03:58"/>
+		<rom name="data/52.TD" size="5727" crc="573e8a79" md5="034cb9cc97724f743a956da299ab983b" sha1="5955419e2ab04be3c12d94a81fb7d10688e3dda9" date="2024-06-16 22:03:58"/>
+		<rom name="data/53.MD" size="45" crc="0faf1119" md5="3b3d5813899143c86d307da40a56032a" sha1="70190acbfa42c7eb3e9dafd58be9c1255696ced5" date="2024-06-16 22:38:12"/>
+		<rom name="data/53.OD" size="55" crc="f6bba495" md5="1e433f41faedd78a814f362e86db38d3" sha1="bc54256dfcaf12f5a2aeea2afd5ca8972761f6dc" date="2024-06-16 22:38:12"/>
+		<rom name="data/53.TD" size="5727" crc="fbba70c6" md5="fb2a20dad83c033288b39b6bd2526c7f" sha1="e1e0ad7e009cd2c1f02e2e630f28bd2f2452e117" date="2024-06-16 22:38:12"/>
+		<rom name="data/54.MD" size="45" crc="086a5b67" md5="42aeb1403353fc7139f02f2a0dd443d0" sha1="7a5be831b5a23cb03df9a27dc54a191f427010d5" date="2024-06-16 22:03:58"/>
+		<rom name="data/54.OD" size="39" crc="451aa3b5" md5="7e7801acbbf369eb7aa6f54bbeedff31" sha1="1d2a84c6b936ef71d4392870760d3b6cfe823bd5" date="2024-06-16 22:03:58"/>
+		<rom name="data/54.TD" size="5727" crc="d837d844" md5="2182c157476ed9aea89adc8b83763a04" sha1="766e4bd71914912ddfbd5b8e294038d4c10897fc" date="2024-06-16 22:03:58"/>
+		<rom name="data/55.MD" size="45" crc="c779a85b" md5="0543c938d90056018e5311de3602893b" sha1="5920a0b71b0ac0f59f8640c8fccb9e37ec08b021" date="2024-08-01 10:03:28"/>
+		<rom name="data/55.OD" size="23" crc="34f16065" md5="c25349d091728c2aacdc93157255ea24" sha1="b2bb74fd0310bf69d888dc6d1133005e76810265" date="2024-08-01 10:03:28"/>
+		<rom name="data/55.TD" size="5727" crc="9e51c2c2" md5="a297d23ecd5abec4541dc2c6cc607bab" sha1="b2b041c065610daf1f41ab187a61a17ac1fbe777" date="2024-08-01 10:03:28"/>
+		<rom name="data/56.MD" size="45" crc="62dacfbc" md5="c36538c2cf7d9c36fc9d66a6cb3b8904" sha1="829254ea537bde8fb532cb25434f0d48ffa8aea0" date="2024-06-16 22:03:58"/>
+		<rom name="data/56.OD" size="87" crc="0414d3e5" md5="3dd01f08c231f0c6e19737405af55517" sha1="4195a1185f19d4109a948ca94eeb5c6c929bd201" date="2024-06-16 22:03:58"/>
+		<rom name="data/56.TD" size="5727" crc="33ad757f" md5="eafcee43a4df52bec22677a3073d101e" sha1="85422eb5a70632b6edbfe25a17210307e5237455" date="2024-06-16 22:03:58"/>
+		<rom name="data/57.MD" size="45" crc="89014775" md5="a9956a3c34eafbbcb46eaaa59d7a892f" sha1="ad1f37d93fae0e02af70ee9c51496ec81ed1eb40" date="2024-06-16 22:03:58"/>
+		<rom name="data/57.OD" size="39" crc="ec6e3e8d" md5="014b1d0677ef0ec06d8c2cd108abe222" sha1="5597569d51c08bd3208e6bdf84b21bdd9ff7fe38" date="2024-06-16 22:03:58"/>
+		<rom name="data/57.TD" size="5727" crc="231b1fa7" md5="93065815aeb2c3ae6d13b9d8734c955e" sha1="0af9e440d15559a58eb8593f6938616f44fb05ce" date="2024-06-16 22:03:58"/>
+		<rom name="data/58.MD" size="45" crc="059d119d" md5="831d1027057e221473c242fd38705004" sha1="980361ee987d694c8bf964624b9ea8a713214a84" date="2024-06-16 22:03:58"/>
+		<rom name="data/58.OD" size="23" crc="c316f505" md5="3f6bafd14501fb20870602d01bd07a1a" sha1="4ca4d52c1b41bfb720fc1452ff01f2c9f0ab7c01" date="2024-06-16 22:03:58"/>
+		<rom name="data/58.TD" size="5727" crc="8d875ddc" md5="deeefdc5a4afbd6f9910ffdcd8e1a6f9" sha1="5b451bd7419ffb9cd370908be42e60c0f82d1205" date="2024-06-16 22:03:58"/>
+		<rom name="data/59.MD" size="45" crc="cffda308" md5="ff0be1f934ccbdf998157e38619be857" sha1="804802374f6e6a6070dc64e3828de8d9e923c2e1" date="2024-06-16 22:03:58"/>
+		<rom name="data/59.OD" size="71" crc="d87af04e" md5="8eedbcf4b05d3a4723d4dae6024c6c8c" sha1="9644f3f7c264cf4541dfe3fa8c2d7e3eea587b63" date="2024-06-16 22:03:58"/>
+		<rom name="data/59.TD" size="5727" crc="77d66691" md5="0f30caabb412d6bed152972f19e62562" sha1="21694feee3ee11b7610a9c7648387b76efffb25d" date="2024-06-16 22:03:58"/>
+		<rom name="data/6.MD" size="45" crc="be6e4d7c" md5="4e1b6bfdb318a58974219d069b963470" sha1="a2956e0d0b4c89d01052c7cd09f569196d23ff77" date="2024-06-16 22:03:50"/>
+		<rom name="data/6.OD" size="71" crc="55bff3b0" md5="c12522613d6b4e7315ecba5fdcc797a0" sha1="5372a2acc18e05f671904dffa104011152c67a1c" date="2024-06-16 22:03:50"/>
+		<rom name="data/6.TD" size="5727" crc="b044e13a" md5="6100407fe98b2c47e98ceabcb1d27135" sha1="2c2ebda9bd4cc17043c3d8a474561d8ff9561c40" date="2024-06-16 22:03:50"/>
+		<rom name="data/60.MD" size="45" crc="20dde88a" md5="f25120599e83a277c77450ae20a3a49a" sha1="21abf18bf8adb6a5cdfe161a7f14640cbe4f7e7b" date="2024-06-16 22:03:58"/>
+		<rom name="data/60.OD" size="55" crc="c6828ca9" md5="21af084a36b7680323e8320527e7fdce" sha1="7ad29d354642ebc702417916895fb1388e88f860" date="2024-06-16 22:03:58"/>
+		<rom name="data/60.TD" size="5727" crc="1ed83af1" md5="4fd9b342d4563485d3323e5d2f6a3499" sha1="a3bae7c6a87e19487590d637e85c357362cdabe7" date="2024-06-16 22:03:58"/>
+		<rom name="data/61.MD" size="45" crc="97e17dbf" md5="586a901c392adc7f6f9fe774008f39e0" sha1="5a99a955c452bf5f507367815d5746d0a6c86b82" date="2024-06-16 22:04:00"/>
+		<rom name="data/61.OD" size="39" crc="a9510046" md5="223c48bd068bcab8ebe94bc4af8c1b71" sha1="946391293c7c66a330f57fb6ca32f10ade666581" date="2024-06-16 22:04:00"/>
+		<rom name="data/61.TD" size="5727" crc="9bca1bd1" md5="986ec3d41d3cec402b4906c667b70930" sha1="18417f17bf77c9478ea96995623bca6358379e7f" date="2024-06-16 22:04:00"/>
+		<rom name="data/62.MD" size="45" crc="6abad339" md5="29922d2823fb1d880a22734185a8c7d5" sha1="2ed6bb250569c40419361661c53ba1af57706465" date="2024-06-16 22:04:00"/>
+		<rom name="data/62.OD" size="23" crc="7350a8e4" md5="50f6b935b7346d7cc29afb9da2dcb5a1" sha1="27aa5daa2eb696d597b54f498fcb8ad6b7638b7e" date="2024-06-16 22:04:00"/>
+		<rom name="data/62.TD" size="5727" crc="59c6f85f" md5="b3d332bd76f891e6187dbb00461e7f72" sha1="fdbba3fed112f8c453ac31e9ec0a3ea801ae527b" date="2024-06-16 22:04:00"/>
+		<rom name="data/63.MD" size="45" crc="be71d5d6" md5="e2b764950bcc95fdc2410accb7f21558" sha1="9351a2ace1227622f37ee75077e3aca7c6d45835" date="2024-06-16 22:04:00"/>
+		<rom name="data/63.OD" size="23" crc="31c6248b" md5="2c3b7a7f73d2751eb2d9079028a44e29" sha1="b5b3f65ff36308ffb2ddcdeae12ef9d218bce7da" date="2024-06-16 22:04:00"/>
+		<rom name="data/63.TD" size="5727" crc="ae859515" md5="626fdf1ef98580b227527d1ee73c9253" sha1="444c6be49ce4c6e6c3c260afa340fa591af3e4a3" date="2024-06-16 22:04:00"/>
+		<rom name="data/64.MD" size="45" crc="39e04546" md5="aeb6007912c6e556080648ea78f7291d" sha1="73e3994bb1ac95d16b38e0e5361fb0e55029d4a7" date="2024-06-16 22:04:00"/>
+		<rom name="data/64.OD" size="71" crc="0dd0f1d5" md5="d14b70bdacca63e19e396b5f5ba78e7d" sha1="ce0f45830704291de5522b6da15f61b2a1ad461a" date="2024-06-16 22:04:00"/>
+		<rom name="data/64.TD" size="5727" crc="738226da" md5="80717e02860475aee7255fc61d33f2db" sha1="955914aa421ca3195861dd88e89bb966f7b5307c" date="2024-06-16 22:04:00"/>
+		<rom name="data/65.MD" size="45" crc="2bbb6b31" md5="99f9e16f388a336e8bd2f4ad29d6e96b" sha1="208bf3302db3be08e060e87e01bc418af2cb8af7" date="2024-06-16 22:04:00"/>
+		<rom name="data/65.OD" size="55" crc="bfde3e86" md5="cd1f42f098ea631dc300f4f04a9c7840" sha1="3f0794154ba450c17ae68f81ffd5312fb8a1e358" date="2024-06-16 22:04:00"/>
+		<rom name="data/65.TD" size="5727" crc="f8a7be78" md5="7839be4ece2456c04bf88842c4109f0c" sha1="557fe8eab9349430af74c180251c51b60115c448" date="2024-06-16 22:04:00"/>
+		<rom name="data/66.MD" size="45" crc="d8a0a0b9" md5="a88e4965aa251bc19acb46fbd7cdf2f4" sha1="a564bd052c42b49b5d8c295701177eb2c873ad71" date="2024-06-16 22:04:00"/>
+		<rom name="data/66.OD" size="39" crc="3f707d31" md5="d3efd2f908fb89b0e9dc9b4ace366f2f" sha1="34eaabcdb5a886f58e0b750ec44d4f62af317a25" date="2024-06-16 22:04:00"/>
+		<rom name="data/66.TD" size="5727" crc="b42bf3bf" md5="d51e986248cde324e65ed0dc1f62b3e9" sha1="2a01ff21e4d929826952dc2f7abf9075b3ece536" date="2024-06-16 22:04:00"/>
+		<rom name="data/67.MD" size="45" crc="bda6286c" md5="54f8fc5c0b2e19c799606fd44b0ca44a" sha1="6c33a86799be0fb28878cf19e35652500e5e26fb" date="2024-06-16 22:04:00"/>
+		<rom name="data/67.OD" size="71" crc="c979858a" md5="395539699aaf7c7fcf4f0bd230ee6120" sha1="768f149bd9e551829a36f94be79874194170aab9" date="2024-06-16 22:04:00"/>
+		<rom name="data/67.TD" size="5727" crc="8e566f99" md5="152805056802ee44616372241f326e5b" sha1="2eaa317d75349d075f447bb372861cfda6011462" date="2024-06-16 22:04:00"/>
+		<rom name="data/68.MD" size="45" crc="dfa0c879" md5="d4c368b683edcbb07e1dd3b2722c0a55" sha1="42147134449a5a6edbcc4f1023c5b5ee9e128275" date="2024-06-16 22:04:00"/>
+		<rom name="data/68.OD" size="23" crc="6681cde7" md5="3db764d73840bea38cd6a36c6dbe422f" sha1="b716f2735872cd17b0e48a1c6a2b67bd9a1d3909" date="2024-06-16 22:04:00"/>
+		<rom name="data/68.TD" size="5727" crc="b1366bca" md5="5d0b75ac54f71728e5f8d939eb1dc9e9" sha1="bb8db3b99c3ac46139ef153b4d795e57c5c95417" date="2024-06-16 22:04:00"/>
+		<rom name="data/69.MD" size="45" crc="03649276" md5="c85c434094f6be6caa96151f6bca877c" sha1="f20e001060cfe2209293aa15850134df7333cbbb" date="2024-06-16 22:04:00"/>
+		<rom name="data/69.OD" size="71" crc="876004ec" md5="11ad62493e364afe793747eeddedfe93" sha1="10470cc24a6652cc127ef710f34e59866a0ccabb" date="2024-06-16 22:04:00"/>
+		<rom name="data/69.TD" size="5727" crc="f9a6a853" md5="6866fd0828a97958dc583996ce371efa" sha1="83987abdd95ff6269da1f86991517b2f00497cb5" date="2024-06-16 22:04:00"/>
+		<rom name="data/7.MD" size="45" crc="0e1bbf6f" md5="a43688d0a561e56543613c5c690e9246" sha1="697216477648ac927a3451936debebf43a12220f" date="2024-06-16 22:03:50"/>
+		<rom name="data/7.OD" size="39" crc="10467b9e" md5="096bd9fef7df34a9b5f29ccce5989027" sha1="e536b3422e69823a4a47af807cf3cf4f7cfefa83" date="2024-06-16 22:03:50"/>
+		<rom name="data/7.TD" size="5727" crc="ff24a55d" md5="81f1029d2753b048f3f8505263d8950c" sha1="e2806eb98aa1723a099c9856a2cb154bc872add2" date="2024-06-16 22:03:50"/>
+		<rom name="data/70.MD" size="45" crc="d5233c14" md5="d64f0ef4ba989fd045c0f130b499b4be" sha1="bb4289d204e71523642b2f2828360af88e205fe9" date="2024-06-16 22:04:00"/>
+		<rom name="data/70.OD" size="23" crc="4a1fee30" md5="d999dbe75ee3ffb7879ab59259208720" sha1="e9b9b7814de4d427a80becde180aead8a2d2300d" date="2024-06-16 22:04:00"/>
+		<rom name="data/70.TD" size="5727" crc="5a5630e7" md5="78f45a4067bc5392bd17e4733b2f448d" sha1="b7784a94d503509fbc752ff318153877beac0378" date="2024-06-16 22:04:00"/>
+		<rom name="data/8.MD" size="45" crc="1151c75b" md5="d811ae271a5a2cc71960c05d6a0f50a6" sha1="66bbbd22fa3308c75c8902a00ff87d40f227dedd" date="2024-06-23 13:36:32"/>
+		<rom name="data/8.OD" size="55" crc="e67eda91" md5="f248caf1a5010083dae71f81f3910880" sha1="881650457a91b9d0681e31accabb2f5f53a450a6" date="2024-06-23 13:36:32"/>
+		<rom name="data/8.TD" size="5727" crc="85df5bd5" md5="e5a215ff75f1ab249108a810302f9cb0" sha1="659470178cefda95867a379ae4dc41f28acf5d99" date="2024-06-23 13:36:32"/>
+		<rom name="data/9.MD" size="45" crc="25b61f38" md5="46b06d5181f05b36a094ce7a8fe5719c" sha1="b2143f5b0971a422ef10f092c6c0a159d802b903" date="2024-06-16 22:03:50"/>
+		<rom name="data/9.OD" size="39" crc="912f5e93" md5="6e44f2f279d29004469735bec3b62eb6" sha1="1c0eb5f7602a34465bf001316188aeca6b386c27" date="2024-06-16 22:03:50"/>
+		<rom name="data/9.TD" size="5727" crc="675e79ac" md5="b43dea949f40718b6854eaa0ee462195" sha1="258b410ff4ea63c9f3b142f0017ae7fd454bc2ad" date="2024-06-16 22:03:50"/>
+		<rom name="data/bg0.pcx" size="27679" crc="8b15b083" md5="27f4cd99e2e2f5913bbb177223cac7f7" sha1="07e01f078e5805798a8c2abe073ad5fea9c9c5e2" date="2024-06-04 13:38:20"/>
+		<rom name="data/bg1.pcx" size="17880" crc="2bcef095" md5="fd8d80b3b8c84b326f9a66daf173377d" sha1="3063f653e8f90c312d95172ca8dba81d67244cc7" date="2024-07-17 05:36:46"/>
+		<rom name="data/bossdrac.ani" size="1741" crc="3e9d60aa" md5="a562a6214a81c094d6a55e2b6b0e46a0" sha1="80bf059c380609f09f7dec7ea6825878d245cc03" date="2024-06-08 19:23:24"/>
+		<rom name="data/BOSSDRAC.CLP" size="157" crc="1fe5dc37" md5="f6e65b5ddeaa3ca7f4645687803e221f" sha1="7bf023ce8d6e7b03c4a853ca805d6014af263e34" date="2024-06-08 19:23:56"/>
+		<rom name="data/BOSSDRAC.DAT" size="17" crc="4135bbef" md5="8cca42cfbc5b1c0aa41c8ae8a170d54a" sha1="4e4e8772fab657ea18d5f75327fbbd6c2d5f992a" date="2024-06-08 19:23:56"/>
+		<rom name="data/BOSSDRAC.FRM" size="799" crc="008a154d" md5="f703e0d647cf04af1eea17682044860d" sha1="52fe7947be83fcf7b6edcce08062ee7d6c131d03" date="2024-06-08 19:23:56"/>
+		<rom name="data/BOSSDRAC.GFR" size="43499" crc="62eb93f7" md5="a26086174e6dc4f5f5d0fe00b9d59f46" sha1="5d3ecbe1cfc896f00655f2d133eaa13dc6559f05" date="2024-06-08 19:23:56"/>
+		<rom name="data/BOSSDRAC.GFX" size="43499" crc="0c24c702" md5="d8e4ca75535e5861cf83c3131fe7708e" sha1="9bf2dd167b853b6d6494ffc5db39a652eb832ca4" date="2024-06-08 19:23:56"/>
+		<rom name="data/bossrock.ani" size="1308" crc="c828c4f0" md5="2bcfd386f3f8ad5f1a21f4b4e0ab5068" sha1="9504236e937e1bf917292a7fae2a70efa4e6c42a" date="2024-06-08 17:44:00"/>
+		<rom name="data/BOSSROCK.CLP" size="117" crc="e6d752a0" md5="9f5153298ca9896bc3096e82fbe35afd" sha1="b0500651c4783b32cc25bd97ede595d4014b9977" date="2024-06-07 11:24:48"/>
+		<rom name="data/BOSSROCK.DAT" size="17" crc="6362622b" md5="58eabed67f60a81587db81e06f8b3fe7" sha1="26e0c2bc1c32ea4ab011ebba9c0959358857c015" date="2024-06-07 11:24:48"/>
+		<rom name="data/BOSSROCK.FRM" size="607" crc="fbffd5e8" md5="7d994a4e8fc937cc5e66a0032e7038d9" sha1="e877d8a38e9b8cc079cd3b1d716f36025f3028ae" date="2024-06-07 11:24:48"/>
+		<rom name="data/BOSSROCK.GFR" size="23957" crc="a4bffd2f" md5="95ec9346d0ddd83643c6a47952c85045" sha1="be868a9eacd6f2562897c08d397d7239fc67c72b" date="2024-06-07 11:24:48"/>
+		<rom name="data/BOSSROCK.GFX" size="23957" crc="d1350970" md5="983dea54f9b72ff9a1c02508b5cf0ce3" sha1="e005d20c50b317b8a9ba2253a7d85b93b949431b" date="2024-06-07 11:24:48"/>
+		<rom name="data/bosswatr.ani" size="1166" crc="60b48e9f" md5="eec915c5f5738814081aa9765d4ea58a" sha1="9fb32ec17d8f2d72faf136e2bfa1841d272503d4" date="2024-06-02 01:52:44"/>
+		<rom name="data/BOSSWATR.CLP" size="107" crc="f0bbe745" md5="2b97feb2e65f9a2a4874014404538120" sha1="a976676ac3d5a2fa8719111438dbf81b5383bdca" date="2024-06-02 01:53:08"/>
+		<rom name="data/BOSSWATR.DAT" size="17" crc="bf282b55" md5="3f35a5356c8c6f6587a2d4b0cbc6041f" sha1="f174fbe0f98b0d222ee11d93cc02ee89efb849e4" date="2024-06-02 01:53:08"/>
+		<rom name="data/BOSSWATR.FRM" size="451" crc="dd5c20b4" md5="7690e952bcd9df3c4025f29e5820d63c" sha1="7caf39eee969d440743d4252a741bf9b6c2d408c" date="2024-06-02 01:53:08"/>
+		<rom name="data/BOSSWATR.GFR" size="16513" crc="528dc4a3" md5="f61a5dc4f70ff19fa65a2f09e4bcc70d" sha1="7a5a8cc68826c8883072ae268e0b2bc182a70628" date="2024-06-02 01:53:08"/>
+		<rom name="data/BOSSWATR.GFX" size="16513" crc="97f01b1c" md5="2ecff7abbbdc75a2346dc21bdb93e841" sha1="4da68d9694da65efda2891ed8fdac197af487e98" date="2024-06-02 01:53:08"/>
+		<rom name="data/bosswing.ani" size="1246" crc="475945a9" md5="5461a1bf13d2404a349bbe925cb3fdd6" sha1="a3f826137a8ca0b758899fc97f412737b8830e3c" date="2024-06-02 01:52:38"/>
+		<rom name="data/BOSSWING.CLP" size="127" crc="09306521" md5="bbc97d46a0e2219733ef8aeba167a2a1" sha1="2cb5a5f16aef57487c8937fd87d5488cdbdd0426" date="2024-05-26 10:24:32"/>
+		<rom name="data/BOSSWING.DAT" size="17" crc="7ae8a0b7" md5="5131a23d47202dedd7049ad349b6e898" sha1="2516f78aa584b15003caefb078a04006065f35bb" date="2024-05-26 10:24:32"/>
+		<rom name="data/BOSSWING.FRM" size="559" crc="b7ed7721" md5="ba73902ae752a5e188c0968a40b434b3" sha1="6ce6e2dabd49acdf8f56654e81d0c724671da257" date="2024-05-26 10:24:32"/>
+		<rom name="data/BOSSWING.GFR" size="38783" crc="d831ea23" md5="833a017f2f5838b659043f3129994121" sha1="12f3615f85c4287ee22dac3f9cf2ccec233c01ad" date="2024-05-26 10:24:32"/>
+		<rom name="data/BOSSWING.GFX" size="38783" crc="a651c322" md5="8927c1e3e36229770feb6e965c7ba2c6" sha1="38c772ae3f9084a5c81ec2c37068596f83eb5c09" date="2024-05-26 10:24:32"/>
+		<rom name="data/enemy.ani" size="3468" crc="362e580b" md5="671edc94454135793e9a782aa0264b4a" sha1="1f5415ff200ffa3fb75f13823ba8da2cd727ad8d" date="2024-06-09 18:39:52"/>
+		<rom name="data/ENEMY.CLP" size="387" crc="81046798" md5="8aec62a869c831a473d1084c7cfd2349" sha1="a02cfc49134e79de03325d22838021139010b703" date="2024-06-10 22:58:16"/>
+		<rom name="data/ENEMY.DAT" size="17" crc="9c7e21aa" md5="d9d0c8523a08ad49e5b5561c4ddb7f81" sha1="c7985381d4f488f3cd8f5e949233a3995c98cfd3" date="2024-06-10 22:58:16"/>
+		<rom name="data/ENEMY.FRM" size="1147" crc="dc0bbf77" md5="aa5046bcabf70f248d8bcf01288a3b19" sha1="fd71e7b46ae6c7e807285e61ea2651e6d83f1e97" date="2024-06-10 22:58:16"/>
+		<rom name="data/ENEMY.GFR" size="25691" crc="66ebbf31" md5="72efefa8ec8f820f38509bdcd7c37188" sha1="5e74084811417ffedc365792b8928d886331cb00" date="2024-06-10 22:58:18"/>
+		<rom name="data/ENEMY.GFX" size="25691" crc="c0855d96" md5="9a2e2a507672bf97505a47969d6eec61" sha1="67efd8fcc739d8f5cfb73c5f6b5f00a20f5ac7fc" date="2024-06-10 22:58:16"/>
+		<rom name="data/mfx/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2024-06-24 00:43:22"/>
+		<rom name="data/mfx/boss.mid" size="7054" crc="b6cd4f3d" md5="aadb32cb13a9a0156a90e4acf65793aa" sha1="f6dff92649106cfc48dcc33807caca3b265320af" date="2024-06-22 18:23:50"/>
+		<rom name="data/mfx/gam.mid" size="22177" crc="b3a9a9fb" md5="05a45554ea1b3e3fed43333af558188f" sha1="4f2bc4f439b3b1e9b2c8b8dbfb8eb16d0b9d697a" date="2024-06-21 22:25:28"/>
+		<rom name="data/mfx/title.mid" size="1346" crc="b147b5f9" md5="30283d5d67025a2107e5a33734ad1596" sha1="5fa29f7944c520f305509296146bb072403ec4b3" date="2024-06-20 21:08:28"/>
+		<rom name="data/PAL.DAT" size="775" crc="1c24c97d" md5="3e03986c6ae6adec1d4ad79f4ae1f586" sha1="d6e922acad8046589ffd4c2162ca27427a0bee59" date="2024-06-16 20:15:04"/>
+		<rom name="data/player.ani" size="1649" crc="8a7cd3df" md5="191aaf05f3ce1485bea9fa68127914c4" sha1="973a62e3eed7c747e9157c439b4f80bd1635105f" date="2024-06-16 15:26:00"/>
+		<rom name="data/PLAYER.CLP" size="177" crc="f5ef6131" md5="0227f8ff37c36636f4fcd216bee4e8b5" sha1="0eaaac808417634ad29b1ffd928bf4532c64032a" date="2024-06-16 15:27:04"/>
+		<rom name="data/PLAYER.DAT" size="17" crc="51cae193" md5="43cbd92838c10ec51fee2654c1bfe4d1" sha1="8aec609d2c13128bbd6f04f618e88f889937690e" date="2024-06-16 15:27:04"/>
+		<rom name="data/PLAYER.FRM" size="871" crc="36818d86" md5="2d0ad6aa5add9ab80a1414f6571abd47" sha1="9ca9043e5921a5e94db293c5ff97def97abfb356" date="2024-06-16 15:27:04"/>
+		<rom name="data/PLAYER.GFR" size="11235" crc="dd448468" md5="cdf9a1ff403ad368fc7f9bd711ce31d5" sha1="40287e94853a35bed7eabf863f3d2e8196f72710" date="2024-06-16 15:27:04"/>
+		<rom name="data/PLAYER.GFX" size="11235" crc="08ddbb7b" md5="a5d16d906c44cc3fa06e9250170a211d" sha1="d0d2aa576573765ebaa8381df3acee7ed1fcdac7" date="2024-06-16 15:27:04"/>
+		<rom name="data/PREFS.DAT" size="35" crc="1a938ab4" md5="120db97a1fdc55e4e38681c6d98d005f" sha1="f806c15a023511013cf384f4ebe14837326c389e" date="2024-09-28 18:33:36"/>
+		<rom name="data/SAVE.DAT" size="69" crc="63c9d419" md5="70f411437c8f740effe2d47139b2e7df" sha1="ac2cd4443925b57f3cfb1d9b29f5e9c7878ede2a" date="2024-06-23 22:55:44"/>
+		<rom name="data/sfx/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2024-06-24 00:43:22"/>
+		<rom name="data/sfx/bgust.wav" size="11470" crc="a6da5fe7" md5="598cfe7e3f887673a8c6b58fa247eb2a" sha1="8ae522b6c89b909218fa1d08635aa4b215bdd180" date="2024-06-23 22:11:20"/>
+		<rom name="data/sfx/bossdie.wav" size="26898" crc="eb5cb000" md5="51b4493d002f88caa0c8a85538f54bde" sha1="0c06138df12db8ddc90860c2f6ef45999ae060d9" date="2024-06-23 22:11:50"/>
+		<rom name="data/sfx/break.wav" size="1754" crc="e7b97556" md5="4dba29e56a170572d26eceb960e4c37c" sha1="8400b9afa720b032b07fc932d13fc2a69def1f06" date="2024-06-23 22:12:20"/>
+		<rom name="data/sfx/candle.wav" size="4138" crc="bd36edf0" md5="cf71fbc845f38cfe92fe2494ca760a32" sha1="d7943ca1dc422c726c7b83e33a4e3be9690292cb" date="2024-06-23 22:13:40"/>
+		<rom name="data/sfx/dooropen.wav" size="18968" crc="a59d46c5" md5="d9e0349167c2bab47a669e400ea6be01" sha1="b32f7addd9cd02cd599783b0af5a01c0074fc144" date="2024-06-23 22:14:00"/>
+		<rom name="data/sfx/dspawn.wav" size="23016" crc="10c88daa" md5="ff638e830092fe1998849f038a897a5b" sha1="305af37b53aa47fbfb67b8b756c78a0d8c741e6b" date="2024-06-23 22:14:30"/>
+		<rom name="data/sfx/ehit1.wav" size="7876" crc="d0b7224a" md5="2e7bd6e739799ae2ea50e02c6b959ae5" sha1="92f7b37e704098481d09375a921dc0df986265ad" date="2024-06-23 22:14:48"/>
+		<rom name="data/sfx/enemyhit.wav" size="4850" crc="c51cede4" md5="ad711d2f342faecc7b8712c6b19a7695" sha1="31c1f6752ee5f20e26c7bf58cff32f3e122a60ee" date="2024-06-23 22:15:08"/>
+		<rom name="data/sfx/heart.wav" size="2312" crc="3b7468b2" md5="fef1dd74b1bcf928fe24bc201baa68b4" sha1="63be48fc2cba1c193af290897c6df1231303ff66" date="2024-06-23 22:15:24"/>
+		<rom name="data/sfx/ignite.wav" size="17136" crc="d137e33e" md5="90f59a86b2b9579357c603d1647fec57" sha1="334c7b1209ff61fb66b5e9311d1181790c73436e" date="2024-06-23 22:15:44"/>
+		<rom name="data/sfx/itemget.wav" size="16856" crc="f07314d0" md5="e5e2e16d3e4bebd990e9d487cce41f0e" sha1="9324cdf2448af342791a80ed9d0f1e52ee12323e" date="2024-06-23 22:16:02"/>
+		<rom name="data/sfx/mbloop.wav" size="4818" crc="d4c23a11" md5="6e8407e09b4f042c9ed43ed4d13bd159" sha1="3797299c60bba4cf9f5c0f224fd68b34e48cbc29" date="2024-06-23 22:16:20"/>
+		<rom name="data/sfx/orb.wav" size="22652" crc="6a08da66" md5="594a9680850dc4acc37a71bed507deba" sha1="617b01026f78b71c53a0e9149c77d730437cd87d" date="2024-06-23 22:16:38"/>
+		<rom name="data/sfx/pdie.wav" size="22636" crc="b4f3f448" md5="440d84890a14864ca2eb0f45d94adb17" sha1="8ef5aeee0afae2b21463c3983427f712bfbe67e6" date="2024-06-23 22:16:58"/>
+		<rom name="data/sfx/phurt.wav" size="4422" crc="895b966f" md5="c25383b87b73c31a9c8e8c5dbb803ab3" sha1="7fd0e2e0c89d5db4113d09e80438b18e7589ba01" date="2024-06-23 22:17:34"/>
+		<rom name="data/sfx/rockfire.wav" size="10116" crc="a10d7c41" md5="40674c9dee77b5b856506b7fec50f52c" sha1="e3f44ed9d395f23383f9c12de4e1b8f1c9fe251a" date="2024-06-23 22:17:50"/>
+		<rom name="data/sfx/sbloop.wav" size="6418" crc="0a081996" md5="c2baef5aff9131c4938f5a59c0c0d916" sha1="7a7d3554e2186661cabdbf6152ef689258d71344" date="2024-06-23 22:18:12"/>
+		<rom name="data/sfx/sgame.wav" size="7990" crc="b1b65b2f" md5="4a954ef0df0afbb60ed0296a1cf0fd00" sha1="50c22889aca493851024c4d3da2568e4df0b1dbb" date="2024-06-23 22:18:30"/>
+		<rom name="data/sfx/skullget.wav" size="22080" crc="8e40f154" md5="aec7da3770f49ae4c94abef7a350f6bb" sha1="0926258d5229a147c42c2ab2b4e3e56d5416c5ff" date="2024-06-23 22:19:00"/>
+		<rom name="data/sfx/talk.wav" size="3658" crc="fcff5ba0" md5="69d90c0bdd2e715368eea3f19a117679" sha1="5fdb550d5cc558e0d32da16e1599f50dd8e5591b" date="2024-06-23 22:19:20"/>
+		<rom name="data/sfx/whip.wav" size="2874" crc="92d0d0d4" md5="5f14589e732f12c8b00de2cbcc55baa3" sha1="53ffdcc6b6b18dab915ce2a145ce37501e90fc1b" date="2024-06-23 22:20:08"/>
+		<rom name="data/sfx/whipf.wav" size="7086" crc="ce9fbede" md5="c553a701b5781fabc6035eae39159fe1" sha1="9d0fa5128c5429b505a52073a23ac10f9fad7795" date="2024-06-23 22:20:28"/>
+		<rom name="data/SM.DAT" size="39" crc="ec86cd59" md5="1487f7836dc28f0277f8b3b0d779eeb4" sha1="0f6698e661ad61a89fc5ba25cdd2d1a2df33204d" date="2024-07-18 05:06:32"/>
+		<rom name="data/title.pcx" size="8880" crc="33a59f09" md5="f289c727187b52c18754458c5a488758" sha1="bc5fefdb47e8928e740ba939ba22939d88257880" date="2024-06-24 14:26:40"/>
+		<rom name="data/V.DAT" size="441" crc="a78353f8" md5="27442d6b78e041f338d03428fa0df391" sha1="1b2c154379828648c9e3e400039a6d9473d555b4" date="2024-06-23 13:31:12"/>
+		<rom name="DRIVERS.DAT" size="1024" crc="de756024" md5="d1facfbae1168911c7a4723b9a2f77e2" sha1="41a8a64b9ddc2cc92ff08cfe2d841fdea4246507" date="1998-12-04 21:00:00"/>
+		<rom name="INTCODE.DAT" size="207" crc="f8f2600b" md5="50e1908c59efb9a0d054e03dc4184885" sha1="464d5843abc4217219bd863c083a94b48c080f0e" date="2024-06-15 13:05:08"/>
+		<rom name="manual/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2024-09-28 18:22:30"/>
+		<rom name="manual/m00.pcx" size="5282" crc="2bb5eba9" md5="86eb8b2c9463261793632af9553cbd11" sha1="3bc60d079d3407e21e2c6e80be6684edf30e73b8" date="2024-08-01 13:55:16"/>
+		<rom name="manual/m01.pcx" size="10649" crc="356b2bd6" md5="69594a2e52c5315cb506673363a24733" sha1="0c1fba3b91cc02f137666ebf50b528467f5c3978" date="2024-08-01 13:55:38"/>
+		<rom name="manual/m02.pcx" size="11280" crc="2d1c7ade" md5="b5d5d1f80b8f2a49811198a68ddad404" sha1="49bb9b998b00900e0cb975658b6a163d1649f741" date="2024-08-01 13:55:56"/>
+		<rom name="manual/m03.pcx" size="11604" crc="b877e749" md5="ce897314738aedb9a3aa4fef850d37be" sha1="41e3b32994ed64be0e883a9a7c4615611f39465e" date="2024-08-01 13:56:32"/>
+		<rom name="manual/m04.pcx" size="15624" crc="669e779e" md5="aaa1d49daa31e696da8a213b08750f37" sha1="81d9c4236881488a82192c73cb31a2914c274d41" date="2024-08-01 14:00:28"/>
+		<rom name="manual/m05.pcx" size="12382" crc="317be40c" md5="bb88cb81e34f7c68f63f0d53529bfe39" sha1="852a9621e3a6a96e71062a247441942dbfbc2a30" date="2024-08-01 14:02:08"/>
+		<rom name="manual/m06.pcx" size="16040" crc="cc9f8656" md5="62172c5e653aa75ed6b0bdf44a9fab15" sha1="6c7777b3e4b41364c600641f443089a51434e11c" date="2024-08-01 14:02:24"/>
+		<rom name="manual/m07.pcx" size="9640" crc="276b899c" md5="aa5e7bcc530c0c67de3ea57abd8ce276" sha1="95dddf1d6426c521f7186e5b4eb856d8d3b7c69e" date="2024-08-01 14:02:48"/>
+		<rom name="manual/m08.pcx" size="11751" crc="6cea85d0" md5="3520cfbd4708c18fabf8cc677df0c399" sha1="3138794bea35b350a2a015457b949b66d3cca204" date="2024-08-06 12:12:26"/>
+		<rom name="manual/m09.pcx" size="6487" crc="7c5d50cb" md5="d143e7ba7efd501170d8452e09ceeb45" sha1="19d9b08536326c6f3f9042f824783145c60be39b" date="2024-08-01 14:03:14"/>
+		<rom name="manual/m10.pcx" size="8296" crc="28964ce7" md5="7b4f0dff9abf8d678f2235f5ca8892a6" sha1="428fa860084c19e26b8ad180290e4cb9331ba047" date="2024-08-01 14:03:30"/>
+		<rom name="manual/m11.pcx" size="7938" crc="981d217f" md5="07a184fd945874bb9594f016ff90b19a" sha1="a1b0dd6c241db5645c91a9174b2627de34e914c2" date="2024-08-01 14:03:42"/>
+		<rom name="manual/m12.pcx" size="12664" crc="6489aed0" md5="fedcd8f2f9bb547177f977863178a1f4" sha1="beeeedf4acdeb81c7a9a196ce88bb011f5d8b161" date="2024-08-01 14:03:58"/>
+		<rom name="manual/m13.pcx" size="11762" crc="7ee2bae3" md5="c762d4c316c6ed90c170d9924d03839e" sha1="b468f2b4c2f7005efafcd0c22da6764784d0f7f8" date="2024-08-01 14:04:14"/>
+		<rom name="manual/m14.pcx" size="12395" crc="f7489e04" md5="84090b29feafca61d0063ee75714505d" sha1="7bdcdb5651775311b14ea8b59bcb2cc259829607" date="2024-08-01 14:04:28"/>
+		<rom name="manual/m15.pcx" size="12701" crc="48aaa681" md5="01380df2256abf50dc6a7e6fa62cc155" sha1="c33f225d9b00b4ae143f77f9e177734ae4d42b2b" date="2024-08-01 14:04:44"/>
+		<rom name="manual/m16.pcx" size="13805" crc="7f68a980" md5="18a0ffc0c20c44ca474d4c471841fd55" sha1="9bb5b3eb1e3735c4a9226d525c8553d725279705" date="2024-08-01 14:05:44"/>
+		<rom name="manual/m17.pcx" size="10757" crc="24000694" md5="b65f46a18c92198c2e62dde1eb4f411c" sha1="62d20cbdca3bd78a6b11c48a0d5d97457820c440" date="2024-08-01 14:05:56"/>
+		<rom name="manual/m18.pcx" size="11947" crc="d1b5c5de" md5="9f70bf03ae1e4e33443c3eef2769b46f" sha1="9d872bd72d0aa60587b7877973b3c3d876b56bd2" date="2024-08-06 12:12:54"/>
+		<rom name="manual/m19.pcx" size="12646" crc="bef40374" md5="9d0615b76f7726d96a6de0fcdc0e9396" sha1="ed26d2f7ebb99d32109f6da088b31a8e619fd19b" date="2024-08-01 14:06:24"/>
+		<rom name="manual/m20.pcx" size="13633" crc="6e2e1736" md5="3487b4d2b997573a256659f6a72a871d" sha1="03c0b5708f31af317ad028771817684a339241b0" date="2024-08-01 14:06:42"/>
+		<rom name="manual/m21.pcx" size="11025" crc="c848212d" md5="9da75d30928baad2e3ee4bbeb0942597" sha1="ab16d0a6da8bdfbbc919f94278cc8ee7faee35cb" date="2024-08-01 14:06:56"/>
+		<rom name="manual/m22.pcx" size="12394" crc="6bb7baf7" md5="b4a08843ae4ba7eec9afbb8007b3c346" sha1="1ee53e3e4ab19d592e23992d574e127415d773aa" date="2024-08-01 14:07:10"/>
+		<rom name="manual/m23.pcx" size="13392" crc="01a268e8" md5="b620c2b9c1945de0be3316525ed80cf1" sha1="3a21182c626affc210721bc7a6eb849086f8e166" date="2024-08-01 14:07:24"/>
+		<rom name="manual/m24.pcx" size="12142" crc="b78a03fa" md5="9c15ebd5aa964d1e501ab5e053621e73" sha1="86f7123106f94b69b3ba8a546f8a4c74e795532a" date="2024-08-01 14:07:38"/>
+		<rom name="manual/m25.pcx" size="15609" crc="7a5a8e58" md5="f4b899d52f4723d6b09cc5f7ed661ead" sha1="a8e2061cfd8d6a39d1b057f067326ffbd36c6c0d" date="2024-08-01 14:07:48"/>
+		<rom name="manual/m26.pcx" size="16175" crc="ffaafceb" md5="0a5e43f67fa039de99711041311fad25" sha1="aa1ba7fbee1c48d5ce499d36228d7f89495c75ba" date="2024-08-01 14:08:04"/>
+		<rom name="manual/m27.pcx" size="11074" crc="9744785b" md5="971013d6f42cd5aef264028cbce4cad6" sha1="4cb6bd8a1ddd5669c910100fa5ed2d52ed97f4fe" date="2024-08-01 14:08:18"/>
+		<rom name="manual/m28.pcx" size="14789" crc="a38075d5" md5="318e41e46856139ab7fce63469f2f794" sha1="9fa3b195eb86db3e806ae2e6602874c0b4f0f705" date="2024-08-01 14:08:32"/>
+		<rom name="manual/m29.pcx" size="4820" crc="b5b95bc9" md5="910c6ee9f512c1f8ea8b2cc4fcb7e468" sha1="e984bc0f9b8f166dd390c7a256a77a770b9fc74f" date="2024-08-01 14:08:48"/>
+		<rom name="manual/MANUAL.EXE" size="31024" crc="e3dbaefc" md5="37d330ca22878ff1bff2da5ccb46a57c" sha1="9705d80d98da80d31ad46a374b95dc1f009dd131" date="2024-08-01 15:22:30"/>
+		<rom name="README.TXT" size="277" crc="b415d65e" md5="faaaea89ccd9f4633a4f1a3317d52f41" sha1="6f90e93cdd6677ef8637690eddaa5b696049e1e2" date="2024-09-28 18:31:56"/>
+		<rom name="SB122.EXE" size="13455" crc="d95e2744" md5="a9c7bc2e4e6a5acfdcef1cb6d2c31f1b" sha1="264f39c54f5182328215d5b6678ee0480257b07b" date="1998-12-04 21:00:00"/>
+		<rom name="SBMIDI.EXE" size="15871" crc="1fc60f08" md5="1914211ea5440b27f5c739d8b4de72dc" sha1="43dd2872bceef58688e16f7c08ad3925a45cafa1" date="1998-12-04 21:00:00"/>
+		<rom name="START.BAT" size="36" crc="8456fe8e" md5="de96192a60e05ca206dde3be633e9f5e" sha1="6c3feef4a6cce92d30460b137305c669ca53b0e0" date="2024-08-05 09:14:24"/>
+	</game>
 	<game name="Astrotit (1987) (Rudeware).dosz">
 		<description>Astrotit</description>
 		<comment>A public domain game, matches with TDC entry: Astrotit (1987)(Rudeware) [Action, Adult]</comment>
@@ -221,6 +569,33 @@
 		<rom name="SCR2.SCR" size="16000" crc="b9ecaf74" md5="120a52aa86b39f076246a0b5e7f5d4dd" sha1="734eb2a5c6de245765d192bc6004a1055fe7e644"/>
 		<rom name="SCR3.SCR" size="16000" crc="a5ee467f" md5="7257284c981af37da20d1f9688e8e0e5" sha1="48c2e2b299a5d48dda385524ff5e25e96e0d5b7f"/>
 		<rom name="SCR4.SCR" size="16000" crc="95ad47b4" md5="4f936804b33f8be424be2f0117f832ea" sha1="30ec93ecce5e873a339331f46be9b8ef06a7df2f"/>
+	</game>
+	<game name="Atomos (1997) (Fadri).dosz">
+		<description>Átomos</description>
+		<year>1997</year>
+		<developer>Fadri</developer>
+		<comment>Installed from Atomos (MS-DOS).zip. Matches TDC 22: Átomos (Es) [FW] (1997)(Fadri) [Strategy]</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://fadri.itch.io/atomos</link>
+		<rom name="ATOMOS.CEL" size="3360" crc="172dc579" md5="d77fc0389de5d11cca8d4fdf56f5d38e" sha1="e40178c250d1b464a40380faabb8d623912e8862" date="1997-04-01 15:32:22"/>
+		<rom name="ATOMOS.EXE" size="32597" crc="21137798" md5="d9a5c03a948130976447e63e0916344f" sha1="5190957ee40cc3983b4aa1b4bbe161b6577f4f7e" date="1997-04-15 21:31:38"/>
+	</game>
+	<game name="Barren Planet (2023) (Cyningstan).dosz">
+		<description>Barren Planet</description>
+		<year>2023</year>
+		<developer>Cyningstan</developer>
+		<comment>Installed from Barren Planet for DOS. Also includes two expansions, Polar Expedition and Waterworld.</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://cyningstan.itch.io/barren-planet</link>
+		<link type="freeware">https://cyningstan.itch.io/polar-expedition</link>
+		<link type="freeware">https://cyningstan.itch.io/waterworld</link>
+		<rom name="barren.cam" size="79694" crc="27e2b4e3" md5="d240cd542af17e83b546f83adc4896df" sha1="bdffa406b7753b3d8a56975318017b23faaf51cd" date="2024-01-27 04:46:00"/>
+		<rom name="barren.dat" size="39861" crc="2d0b5621" md5="de3bcf50fe739dcf2b82476ca82913b7" sha1="a8ac3d346f29b13ba8f367b841116d3fdbc4acb0" date="2024-01-27 04:46:00"/>
+		<rom name="barren.exe" size="136386" crc="c290df77" md5="f4fd2849c80f23f5a3d96f4ef3a4682c" sha1="4a4ed12d17e543aef3c31cd250ca893b012e146c" date="2024-01-27 04:46:00"/>
+		<rom name="LICENCE" size="35823" crc="cece3b93" md5="e62637ea8a114355b985fd86c9ffbd6e" sha1="1eba7caf09a39110ad2f542e3ed8700d1a69c6d3" date="2021-05-22 04:10:34"/>
+		<rom name="POLAR.CAM" size="76217" crc="277ae35d" md5="b9bbed4cf7a6c71199bc62bc3ebcfc16" sha1="e9a4c809be07ca48399d1ea4ca24a87495d0e519" date="2023-07-11 22:36:24"/>
+		<rom name="readme.txt" size="1000" crc="4569d47f" md5="c2b121fe14b212ae9792ca3a5d65b5de" sha1="ed094921e95ff0c5e913ab96f7b19ca72dd953d0" date="2023-04-21 17:53:06"/>
+		<rom name="WATERWLD.CAM" size="80169" crc="2431d8b4" md5="0c069725d11e1c13f3d8cc3ba6f091af" sha1="ebdf1b57c134c89220d1305272b4ec2d4b2cadd1" date="2024-01-27 07:00:56"/>
 	</game>
 	<game name="Beats of Rage (2003) (Senile Team).dosz">
 		<description>Beats of Rage</description>
@@ -395,6 +770,27 @@
 		<rom name="PIXELS.DEF" size="36503" crc="5ec42c96" md5="12ffc49dff2c1b24996fa81dcebabcaf" sha1="65c63dd3cde9670283fc17bf04495a909be33d70" date="2002-09-25 16:48:40"/>
 		<rom name="wpl.htm" size="9786" crc="9d1afa0e" md5="b2911fc022e3c225255bb600d8a16156" sha1="2a865520417a1bb37dd89896e75aa9bd8daa268c" date="2002-09-24 18:23:50"/>
 	</game>
+	<game name="DOS Space Docker (2020) (GRG).dosz">
+		<description>DOS Space Docker</description>
+		<year>2020</year>
+		<developer>GRG</developer>
+		<comment>Installed from dosSpaceDocker_20200416.zip. Matches TDC 22: DOS Space Docker v20200416 [FW] (2020)(GRG) [Simulation]</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://grg.itch.io/dos-space-docker</link>
+		<rom name="Compass.gmy" size="480" crc="c3b71d83" md5="16b3dcf1243461c1e974c10f139433ae" sha1="333f6e3a0478914379c7cd5c302086340555fb26" date="2020-04-16 00:15:02"/>
+		<rom name="FarGrid.gmy" size="150" crc="781900ff" md5="f8e7f7ad1a4ed4d0047f8564bddd4c14" sha1="d0956fb046dfc9157b4cc1b684e5326ddba994ae" date="2020-04-16 00:15:02"/>
+		<rom name="HelmScrn.bl" size="218" crc="764c97f2" md5="6412765fb869ff64baef52dbf3c79991" sha1="d02c826dafeda497e599050bab7a3f7726ff2489" date="2020-04-16 00:15:02"/>
+		<rom name="HelmScrn.sl" size="154" crc="d0728ba3" md5="f9a1c8be2f6ef6ef1bfd87dbcf3d2fbb" sha1="ba56ff006b06bb90d19dfe7542d475795471f3ec" date="2020-04-16 00:15:02"/>
+		<rom name="HelmScrn.tl" size="4812" crc="cb7860a5" md5="ee2670bc335feb32f2d78dcb49923fb8" sha1="0cd9d000c1d6895f60dba6096065538a58bd0556" date="2020-04-16 00:15:02"/>
+		<rom name="HorzSlid.bo" size="400" crc="0d297b67" md5="0ec347336f639f77532318d9b68bddd6" sha1="fba30db44ffa5eba5e7a2cd348875acc5bddfb7c" date="2020-04-16 00:15:02"/>
+		<rom name="NearGrid.gmy" size="66" crc="cc8b82bd" md5="ca2be3d691a721d9e3c66273e60733e0" sha1="c2184dc9f1e5b3eebeb00327e356c1de25ea642b" date="2020-04-16 00:15:02"/>
+		<rom name="Screen.pl" size="58" crc="fb32554b" md5="c3973f53c29db20447ac5b553966195f" sha1="31bb0c1824e199cce0c7a7d7c80b02da5e9dcf0e" date="2020-04-16 00:15:02"/>
+		<rom name="Screen.ts" size="8202" crc="70087ddc" md5="34323d2496e7f733e6927371083e5a3e" sha1="58ba131cab638773aed48e5e046e7fb9cd57c9cc" date="2020-04-16 00:15:02"/>
+		<rom name="Screen1.ts" size="8202" crc="3cd2b82f" md5="b06782b3cef1ca1fb0a326b2c499f93f" sha1="a2af9687426b1dd8d075aa6d460c7381a3cddfdc" date="2020-04-05 13:01:54"/>
+		<rom name="SevenOS.bf" size="1546" crc="cf3f1ed2" md5="dba073a9805e54c6a7e342b00018ff8e" sha1="e63793e091da714c94b6a25da3dee65e28dc95f6" date="2020-04-16 00:15:02"/>
+		<rom name="things.exe" size="85284" crc="19ece7b9" md5="b5e3d41c65d8590f797c56f4ef32e1dc" sha1="5986ce7de6c87f4dfb7f57261b93f4d01ef17f00" date="2020-04-16 00:38:46"/>
+		<rom name="VertSlid.bo" size="400" crc="6b34fe2f" md5="deb4fb06eb51dd10fed2176b289030fb" sha1="043d4dfb1af646c42788bb96804fdc355586c5c9" date="2020-04-16 00:15:02"/>
+	</game>
 	<game name="Drug Wars (1984) (John E. Dell).dosz">
 		<description>Drug Wars</description>
 		<comment>Matches with TDC entry: Drug Wars (1984)(John E. Dell) [Adventure, Strategy]</comment>
@@ -559,6 +955,256 @@
 		<rom name="settings/tile_opt.txt" size="1761" crc="cda4e0e5" md5="f6b19babb3d0ccb75eb4cef546b75084" sha1="47ff4e5b61d33f42a6700e983fdbb34662ac8be7" date="2009-07-30 13:00:20"/>
 		<rom name="settings/trav_st.txt" size="660" crc="dbc7fc22" md5="746cc800800a3acd3d3587f9e739a6d2" sha1="a28e10b40221741c11de2e1127abaa330a5c0c40" date="2009-07-30 13:00:20"/>
 	</game>
+	<game name="Dust Fury (2020) (shockdesign).dosz">
+		<description>Dust Fury</description>
+		<year>2020</year>
+		<developer>shockdesign</developer>
+		<comment>Installed from DOS build. Matches TDC 22: Dust Fury [FW] (2020)(BananaboySam) [Action, Racing - Driving]</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://shockdesign.itch.io/dust-fury</link>
+		<rom name="data/anim/an1-01.tga" size="4908" crc="74aaee58" md5="f6d67571b699d7b2ae3b75731a550377" sha1="7809d5769a0236321eeda49eed1bb2d10aa10b5e" date="2020-04-15 05:56:24"/>
+		<rom name="data/anim/an1-02.tga" size="4908" crc="63b1b892" md5="80ff198ca7e58dbd97b7ac28d5edb49a" sha1="68252301efb1f39c95885e3c2b805b8deec1a293" date="2020-04-15 05:56:24"/>
+		<rom name="data/anim/an1-03.tga" size="4908" crc="fbbb5d60" md5="16bc74b76e740806803da4df59c6eb09" sha1="5a6058c2835426aaec2e4f5d099edd1f85183c6f" date="2020-04-15 05:56:24"/>
+		<rom name="data/anim/an1.tas" size="152" crc="5c3f6a77" md5="030ac92afa1c9605f8065566e9ef2032" sha1="9f6b2372a56b034b73624b517573d920923ede02" date="2020-04-15 05:56:24"/>
+		<rom name="data/anim/an2-01.tga" size="4908" crc="aa285a93" md5="c04bd1f45afe681637a6b4de9e37e8ee" sha1="325f4b84920016fb2646d18c7d239a0991b3663f" date="2020-04-15 05:56:24"/>
+		<rom name="data/anim/an2-02.tga" size="4908" crc="0ed9cb6d" md5="fd66aaad326f0266d32775fced435877" sha1="8425b38b83c4a29e26364249c3dde31baf8f82bd" date="2020-04-15 05:56:24"/>
+		<rom name="data/anim/an2-03.tga" size="4908" crc="b3f47237" md5="76de36e71db0199a3acbc97145f1562c" sha1="dc5584bd51d9d930a90e79f05cff6dfb89238e1b" date="2020-04-15 05:56:24"/>
+		<rom name="data/anim/an2.tas" size="152" crc="fcb36350" md5="6c7dc56a5ebc01403c8645eff9496d85" sha1="4e1c70930d6bf0c5ea802994e852bb0ee4a5d321" date="2020-04-15 05:56:24"/>
+		<rom name="data/anim/an3-01.tga" size="4908" crc="ea2d7396" md5="0bae3d3f6cf81cb57e8e14a81a76471a" sha1="a7c15ddb262e712bffe47a1f108914da06e0dc79" date="2020-04-15 05:56:24"/>
+		<rom name="data/anim/an3-02.tga" size="4908" crc="f630cf48" md5="853200e6323c449d1d7d221d71710b15" sha1="515a7c707e9218eab58b3638016ff87f5f6339d5" date="2020-04-15 05:56:24"/>
+		<rom name="data/anim/an3-03.tga" size="4908" crc="b5529e27" md5="72fd45a8dcc7d2a2c95e90607f54ec1e" sha1="b6e26a7d79818df6feced799a732bf199090ec30" date="2020-04-15 05:56:24"/>
+		<rom name="data/anim/an3-04.tga" size="4908" crc="044b2ae0" md5="694d41109bcd8c895e42a3d78e45c9c1" sha1="3ae41ff79e099d8822e121800f4cae8e64952c19" date="2020-04-15 05:56:24"/>
+		<rom name="data/anim/an3-05.tga" size="4908" crc="ae2b7673" md5="2d12418f2a77a00be61db19a61683928" sha1="4fa970c583b8073aeb9133f3466b5d313bbcfc4a" date="2020-04-15 05:56:24"/>
+		<rom name="data/anim/an3-06.tga" size="4908" crc="b82c6216" md5="3214bd165e159938040a6c13bc74194f" sha1="d4364bae5d68fa8e527bc38a5b7509f9b9b43a64" date="2020-04-15 05:56:24"/>
+		<rom name="data/anim/an3-07.tga" size="4908" crc="9e4d4618" md5="41e01fd180a5989faeea4438085518f4" sha1="0bd4453ef68ac4e2c7c776339dfe794aa912f50b" date="2020-04-15 05:56:24"/>
+		<rom name="data/anim/an3-08.tga" size="4908" crc="20c60155" md5="45bb9d58d158bc720ddfa8b6a669823c" sha1="d93058400204f9a10c3c86b959b3a7ca37921e55" date="2020-04-15 05:56:24"/>
+		<rom name="data/anim/an3.tas" size="218" crc="82e4f7c8" md5="5ff1e63a5fc1e4cea5fe0604fefaf9d9" sha1="ff0faca735f45db265869232c58818dd839221e7" date="2020-04-15 05:56:24"/>
+		<rom name="data/boost.tga" size="120786" crc="936fd0f8" md5="5ad161e9c0658e24731e883ee2daf318" sha1="803e3a39fc3fef0a7e3076a7d14aecdf3b6d3927" date="2020-03-31 06:50:20"/>
+		<rom name="data/boot.cfg" size="190" crc="04afdee9" md5="6e02360162c13b9a4fcf1fd83d74b740" sha1="86b3ed59eae011f44970a5c92f7f9bf1d2e45158" date="2020-04-15 08:32:28"/>
+		<rom name="data/controls.tga" size="7786" crc="33f31b27" md5="5e8f8683de87f3f2a2297847c00376cc" sha1="c0801f08bec0a30d56431512099193d767724ddf" date="2020-04-13 05:24:40"/>
+		<rom name="data/dustfury.tga" size="19530" crc="81e88159" md5="8c6151a833da7c2dcd9cf95ec000662d" sha1="bdb5dca0aa6a1307f47b7bebf653deef3e71f077" date="2020-04-13 04:21:22"/>
+		<rom name="data/fnt_lnum.tga" size="2546" crc="c7cd4b3a" md5="56c644fd33b078c8f406ad84e5b65b50" sha1="44adfef24a55b8ef6a60e3998c161c9f3314cfb9" date="2020-04-11 23:18:40"/>
+		<rom name="data/fnt_sml.tga" size="4586" crc="e8225261" md5="4e2b4327abc24e78f6921990be7469d7" sha1="bfc0abadff1df43c9081b05e2243238d71c7e1b5" date="2020-04-05 06:03:58"/>
+		<rom name="data/fnt_snum.tga" size="1556" crc="22c52d77" md5="af3112fbab4292dac7c30f16e5af2a1d" sha1="1e2f05eef89b50f9a544444a23bd83d0349ce51b" date="2020-04-10 15:22:58"/>
+		<rom name="data/gameover.tga" size="2786" crc="9f70786c" md5="66a6c23d5075cdf8fcbed4aa7d5cda96" sha1="12944e728404217df25eb87b79fc376a8391b094" date="2020-04-15 07:43:24"/>
+		<rom name="data/lr-01/alco01.tga" size="4908" crc="1a8d0d83" md5="9d5c1996d6ecd15ed2360aa04c0a3632" sha1="28142c3a3b87881ace316f61e17cdc3b42088070" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/alco02.tga" size="4908" crc="0aa572f3" md5="9edcf71477fe9c871660a3b45291bca4" sha1="ad98a282a44201756b3b55bf948bfb097b729c6f" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/alco03.tga" size="4908" crc="d4188dcc" md5="f3022ef48d4ecc1d3cf86d8f3e72d28b" sha1="de12942f410b93641f0c325eaf87409256b07e88" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/alco04.tga" size="4908" crc="41174378" md5="10c69fec068d8c718607a371ab4ba690" sha1="9f338c2e8ddd01d3ed85d6bd8f8c40e30611bba7" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/alcoar01.tga" size="4908" crc="48249345" md5="aefd3977bc169c0a213831a0959dee96" sha1="7e65f204d1a13e5285d61711abf0d327f5a9f1fe" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/alcoar02.tga" size="4908" crc="f0e472c8" md5="baf03b0d3a305b7221fdf29bb5db2dc7" sha1="83dd6874e204e43394068308d36eb8e2eb22dda9" date="2020-03-30 04:43:00"/>
+		<rom name="data/lr-01/alcoar03.tga" size="4908" crc="51017f43" md5="7548c9fc0af7e5e418a936840dfbbdc6" sha1="c58c0a7f66e034f88c7183e8149723904dcfbd94" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/alcoar04.tga" size="4908" crc="0b29fd78" md5="81f04251820f4c6f07582285dde6ecdd" sha1="c397aeb696a257e10ebb854286c33009b9369c57" date="2020-04-13 00:05:12"/>
+		<rom name="data/lr-01/alcoar05.tga" size="4908" crc="9a9dd84d" md5="854bf0fed1548f4422e21c2679b36488" sha1="60587e9262e94fbeaacc1d5fe270c98159959728" date="2020-04-13 00:05:12"/>
+		<rom name="data/lr-01/alcolt01.tga" size="4908" crc="379afad7" md5="4b8fef6df6ba0238878010c5a03e2c58" sha1="476a385a468bb2000434a3a064bab5f145c035c2" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/alcolt02.tga" size="4908" crc="b570a095" md5="0a834ec80a3a9c8e4071eb44400bb39d" sha1="1190f5346b8ce3566631fd8124e9f1e6b1a62069" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/alcolt03.tga" size="4908" crc="94bfeb4b" md5="f52c94cc54e5d51ec17d381f6d72e600" sha1="51a1d9bb743463211dae141b66f973f9bd89a9d6" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/alcolt04.tga" size="4908" crc="32850f05" md5="3db54e8a8177476396e2ce136db9bdd1" sha1="4ece1d4ade1883bb984e103d8385b22c918490e0" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/alcotr01.tga" size="4908" crc="ccb87885" md5="c46dd26ede827700a91248b028647f3c" sha1="2fb66375c1564641b558dab8e122c9dbbf55192a" date="2020-04-04 00:42:10"/>
+		<rom name="data/lr-01/alcotr02.tga" size="4908" crc="426498ff" md5="167af36bfeb92980f917ef62cbf5b115" sha1="c566219565a24da5b75a4f3bb9376522711c45e4" date="2020-04-04 00:42:10"/>
+		<rom name="data/lr-01/alcotr03.tga" size="4908" crc="3c4e1d37" md5="567a9ee613262c1cdf23e2ef9babd6d0" sha1="852539f779b09e9e8a2abe5a65c30020de100728" date="2020-04-04 00:42:10"/>
+		<rom name="data/lr-01/alcotr04.tga" size="4908" crc="bab0b026" md5="49290e46b0a2631d5d3d605880652c6f" sha1="36c0e678ef24989fd77083d4d748f20007d7ebd2" date="2020-04-09 20:49:50"/>
+		<rom name="data/lr-01/alcotr05.tga" size="4908" crc="69108084" md5="8131bc8c98689951649fccef3fabdbe4" sha1="34dd8d7dca60840abecbf260cbed108c8d7abc11" date="2020-04-04 00:42:10"/>
+		<rom name="data/lr-01/alcotr06.tga" size="4908" crc="3a20630f" md5="3b83761edbe4b4ab14183c05d9f0e97f" sha1="46b4ab04a5d5675bc3018cfa393c258d1a61e873" date="2020-04-04 00:42:10"/>
+		<rom name="data/lr-01/brikba01.tga" size="4908" crc="5b1c7697" md5="bc7730cb71b1e3610fa341d10a0341d9" sha1="fd57c5d91872589e2fe33c9646771ded7ef0cc29" date="2020-04-10 04:52:56"/>
+		<rom name="data/lr-01/brikba02.tga" size="4908" crc="ebd3ce5d" md5="e422d4734205fb29c536f5e1a0db99b5" sha1="eac3381fad73aff726c19e25b6fbd7b70f66e174" date="2020-04-09 17:53:48"/>
+		<rom name="data/lr-01/conc01.tga" size="4908" crc="bacc4cd2" md5="de0fac13b228a411642950a3bab64334" sha1="0eeb3a057a85d638cfbbedf12337c0983071b97e" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/conc02.tga" size="4908" crc="29e643e6" md5="74ccf4636d2adcb6d7172c3fc4c232dc" sha1="3b8f7b63732f67f3de611861dfc394bfffb7658e" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/conc03.tga" size="4908" crc="4e35f195" md5="6c3a26a95752191f7daa6ee437794435" sha1="d0463827dde362305a75ced80ff0e82c95a8ca60" date="2020-04-10 04:52:56"/>
+		<rom name="data/lr-01/conc04.tga" size="4908" crc="74ca6cee" md5="1adaefec9b36a033ba5d73fc35e27575" sha1="05b489343625ce927ea679f9bd2347e5af46ce3e" date="2020-04-10 04:52:56"/>
+		<rom name="data/lr-01/concar01.tga" size="4908" crc="f9967ef5" md5="eead9c1170150660e0cbb040d72b6376" sha1="e56b264cd92cfec026f3335455c627f3183e3155" date="2020-04-10 04:52:56"/>
+		<rom name="data/lr-01/concar02.tga" size="4908" crc="866a10db" md5="618102a97e293d7395059b3df2f95c34" sha1="2390a342f07eff16271934b5ef899da1cff1e480" date="2020-04-10 04:52:56"/>
+		<rom name="data/lr-01/concar03.tga" size="4908" crc="497c6ec6" md5="afdea7bd047ed6be74e0a9e1ac4e5be6" sha1="a4510a5fa15116fa608fc16fadcf293c8d2852ab" date="2020-04-10 04:52:56"/>
+		<rom name="data/lr-01/concar04.tga" size="4908" crc="ad51decf" md5="43f8b60ff8246538c2b7c571fba0e97c" sha1="25ecfa03b47652365c4ca0349fce08b1bdb1d76c" date="2020-04-10 04:52:56"/>
+		<rom name="data/lr-01/concdg01.tga" size="4908" crc="536c5e0a" md5="e03c033ce20bf13fb82470f5b86f55ba" sha1="e2e4bbd4ea01c575189d11bbc9e5895518be4654" date="2020-03-30 04:43:00"/>
+		<rom name="data/lr-01/concdg02.tga" size="4908" crc="ca372a8e" md5="bcf697df89b7840f126a5c5e84a18428" sha1="79d27c6a72f20fe6921e1ae1f4c6e896f6541566" date="2020-03-30 04:43:00"/>
+		<rom name="data/lr-01/concdg03.tga" size="4908" crc="ce3ce15c" md5="445f84b71a89a6aa26ff293cb73585d9" sha1="c212795e4648a3cb0b74404af0e771d5e85faeaa" date="2020-03-30 04:43:00"/>
+		<rom name="data/lr-01/concdg04.tga" size="4908" crc="55c42220" md5="6b72b78b55d9506373aadf030f77121b" sha1="0cd0fa24035ed028872f9060f1ddd4cf46c98a79" date="2020-03-30 04:43:00"/>
+		<rom name="data/lr-01/concdg05.tga" size="4908" crc="d6c79b1a" md5="341699e5b83c416429b77a7bf56d8d75" sha1="5b6a18489dc2a7544919ad1f06da87edb51cf11a" date="2020-03-30 04:43:00"/>
+		<rom name="data/lr-01/concdg06.tga" size="4908" crc="916551bb" md5="11f83424965cf46582fe80e45bc0e61c" sha1="14d688ed5f9542a787a925adc94dce711151f70c" date="2020-03-30 04:43:00"/>
+		<rom name="data/lr-01/concdg07.tga" size="4908" crc="8d787b66" md5="110fef208b67272785e79bb65860f64b" sha1="a10b6a979c03778f6a8f64218b628600209cbef4" date="2020-03-30 04:43:00"/>
+		<rom name="data/lr-01/concdg08.tga" size="4908" crc="7d964a11" md5="fc27ab2bc779a80130b9d8abcf9bc667" sha1="38e2af5643f87168867ec08f547a72c9875fdc37" date="2020-03-30 04:43:00"/>
+		<rom name="data/lr-01/concdg09.tga" size="4908" crc="690db0d4" md5="7fa98821e2a3b6c6f1a1d4340a94ecc8" sha1="f9a17b99c489f9796bfd22128fc54fe983b35024" date="2020-04-04 00:42:10"/>
+		<rom name="data/lr-01/dirt01.tga" size="4908" crc="25c25b50" md5="b82ee09a631ab4027a5860bc6db80378" sha1="dc8ccd950cbf391d2550067ab9d6dbb1b0a6175e" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/dirt02.tga" size="4908" crc="7da63514" md5="b37451de3e43c7200bac709f1397d20d" sha1="8d2bc12959fb38115483ad0f296987ea7085f894" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/dirt03.tga" size="4908" crc="ef11a279" md5="0edc56d755ee79362b204e790fed295f" sha1="40b6fbbb57d89023b53349390de64a32babc0e62" date="2020-04-10 04:52:56"/>
+		<rom name="data/lr-01/dirt04.tga" size="4908" crc="61e8ec57" md5="662a85fc8782968e7d76174b2589e87d" sha1="dc3582f38d736a306df2874be7b0a29e6711e90a" date="2020-04-10 04:52:56"/>
+		<rom name="data/lr-01/dirtrk01.tga" size="4908" crc="59d1e34e" md5="bbdc5809d4f02463c85059f93a08e62c" sha1="25e0046aad20f3412446dc32a874ac43dfd8c9c5" date="2020-04-04 21:25:08"/>
+		<rom name="data/lr-01/dirtrk02.tga" size="4908" crc="1324bba5" md5="6e3dfd7c87bb93cecb04a96218fc84a8" sha1="ce54691996c9304a46df2f1ec01597c9f46370ce" date="2020-04-04 21:25:08"/>
+		<rom name="data/lr-01/dirtrk03.tga" size="4908" crc="0a93f6ba" md5="cffa6fb428dd24d7375bda826524fe4b" sha1="64ac86ac98bd5f72991938a5cabc3a4d7c42aadc" date="2020-04-04 21:25:08"/>
+		<rom name="data/lr-01/dirtrk04.tga" size="4908" crc="d78b0ca2" md5="2fec00238661c3ab26b7f9311153bfaa" sha1="df78d6ee37a5075966992083bc8c5b0220395c2d" date="2020-04-04 21:25:08"/>
+		<rom name="data/lr-01/dirtrk05.tga" size="4908" crc="320dc5a1" md5="6e196b12bfb1ebf1b288a62971fdc5db" sha1="a82a666e4674cea6bc3bdd31e12407311b7e3813" date="2020-04-04 21:25:08"/>
+		<rom name="data/lr-01/dirtrk06.tga" size="4908" crc="d8d8890c" md5="8db34640e1efd26192733946626e4b09" sha1="ba33b3a9661ef9a4babd1bc3eb5217a08256f5b0" date="2020-04-04 21:25:08"/>
+		<rom name="data/lr-01/dirtro01.tga" size="4908" crc="bc552354" md5="623053fdd92f1da8cadef658abb48e29" sha1="1180ea255e29b9b01b26a1374e12939c200fd377" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/dirtro02.tga" size="4908" crc="2c1db066" md5="a432dbfbaf02721d1746c6a7eca558bc" sha1="55fa300ae69bcc10c93c45637408426526e36033" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/dirtro03.tga" size="4908" crc="434c2ed1" md5="6bb0ef84f935eca4a7176dff36f662bd" sha1="5865644a3bad22c983b21d669d19e66d06d12270" date="2020-04-10 04:52:56"/>
+		<rom name="data/lr-01/dirtro04.tga" size="4908" crc="9cf80030" md5="2c58f1056a55d6dd3d63311e5a4e4c58" sha1="ba4c4cd24d5e7e7d50ee8c2f4957a3d7095a8465" date="2020-04-10 04:52:56"/>
+		<rom name="data/lr-01/dirtro05.tga" size="4908" crc="755f40bf" md5="40198565f9c7da84f82c957022757866" sha1="7651d8ddb76a1ac8ba98d56a257a2b19bcb02987" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/dirtro06.tga" size="4908" crc="baad09d0" md5="3c97a7ef76099c6532efa4edd1314a77" sha1="4383bc75f45053283f438fb031617a9cba53530e" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/dirtsa01.tga" size="4908" crc="4b86859e" md5="288f8090ef4bc7bd303572cad0b1c10e" sha1="9731594db6540f7d4be6ed28cc57428a08ffdfd3" date="2020-03-31 05:26:12"/>
+		<rom name="data/lr-01/dirtsa02.tga" size="4908" crc="27317bbb" md5="23c95c1bd6ab9b746a98ada947006c9e" sha1="834d8408a2144c48402ac9782801579a06c8dcf7" date="2020-03-31 05:26:12"/>
+		<rom name="data/lr-01/dirtsa03.tga" size="4908" crc="9c9e60df" md5="5221535755f70c0be97d0de4a73987f2" sha1="cda6bcd01ffdc4643418103208a09d600597486b" date="2020-03-31 05:26:12"/>
+		<rom name="data/lr-01/dirtsa04.tga" size="4908" crc="c9cfd3b1" md5="2383d0a17cf6f8841f033ba3bd308949" sha1="65dfccc326dbb1c81d4a2772194dbd258cf56227" date="2020-03-31 05:26:12"/>
+		<rom name="data/lr-01/lava01.tga" size="4908" crc="ea2d7396" md5="0bae3d3f6cf81cb57e8e14a81a76471a" sha1="a7c15ddb262e712bffe47a1f108914da06e0dc79" date="2020-04-13 05:34:50"/>
+		<rom name="data/lr-01/rkvn01.tga" size="4908" crc="496ca214" md5="518f6c043931a467304ab1529de6e6ab" sha1="5ee57964f4b3164389dae388ecfa866aadcbbef5" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/rkvn02.tga" size="4908" crc="d5aeae4a" md5="8326b0036b6d6fee8d6c5938ebcd7a1f" sha1="fe175791df3c979abd0b950d923b9ac49f07160a" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/rkvnlv01.tga" size="4908" crc="39407692" md5="55ae03cf0d71fb9c7374f3284a0e1443" sha1="b0ee2d439b98a437e5551fbd3adbdc5187a26b9e" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/rkvnlv02.tga" size="4908" crc="d309b1ee" md5="c85cd8a3fe4bcef845235dcad714d114" sha1="852541b90d06dc58eb602a575612611650ba8e7c" date="2020-04-13 05:34:50"/>
+		<rom name="data/lr-01/rkvnlv03.tga" size="4908" crc="4ccf8a40" md5="4cfb5e6bdddfcd6a2b7063bb12e101a2" sha1="9f7cb23bf1979c2258b23265474c97e2cf7979b9" date="2020-04-10 04:52:56"/>
+		<rom name="data/lr-01/rkvnlv04.tga" size="4908" crc="93d22f9e" md5="0014c3e583c6e83f95c2ce0d9c6ea8ea" sha1="960b633ae9bdd8551ec571fa773eaae510223d82" date="2020-04-13 05:34:50"/>
+		<rom name="data/lr-01/rock01.tga" size="4908" crc="b94f7c7e" md5="095fa10c3962f52b2065354ce78c3737" sha1="55cfc0b40b4edb45ea8f8c99775734e64f5e2eba" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/rock02.tga" size="4908" crc="120f27d1" md5="dd665d782b1987f14aa0034a2b10db80" sha1="33d027fc5700cffb07f27eebaae4334c8da35baa" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/rock03.tga" size="4908" crc="45e41d05" md5="006cf24faf07b1fdcb7a943daa1e216c" sha1="bdf2e180a5e5c2b0cd2dacc524104cad46059693" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/rock04.tga" size="4908" crc="3f3f446f" md5="3c74692c30400e0b64a759c03b2e373d" sha1="37e3d9bd9fc23abd5852ce1a2358c5b3029a908f" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/sand01.tga" size="4908" crc="cd3554f9" md5="550cd68f8db8d3ab7498d57fb4fe905e" sha1="9e0a4222e2ebed1bdbd9f28686d7d33883dbdf45" date="2020-03-30 04:43:00"/>
+		<rom name="data/lr-01/sand02.tga" size="4908" crc="63b7ec1f" md5="d6bea3455d7ea6adac808732f9a2805e" sha1="432797efe89bcf04f2df88211916c3d21ae06333" date="2020-03-31 05:26:12"/>
+		<rom name="data/lr-01/sand03.tga" size="4908" crc="9ca5bbdc" md5="1b59045343c6c6493094b3c46cbb5b72" sha1="d24432a29200569f2663b544f61bc8cabb4a43a1" date="2020-03-30 04:43:00"/>
+		<rom name="data/lr-01/sand04.tga" size="4908" crc="226dcdc2" md5="aa87e7f3173340d358c2a3194c8cfe1a" sha1="3fa0eb9ca3c92cb2cac31e886907ccbf462a29f7" date="2020-03-31 05:26:12"/>
+		<rom name="data/lr-01/sandro01.tga" size="4908" crc="bb782ff5" md5="4bad2a59deee28a6f5f7e3bf9c81e76c" sha1="3d1f0a65e8cfd387681c19d3b0b057d773d0802a" date="2020-04-10 04:52:56"/>
+		<rom name="data/lr-01/sandro02.tga" size="4908" crc="81da9794" md5="3e430b0bbab894298d7a6e714df3054c" sha1="5a46a0654c7b0f8fcbadb10561bfa8fff375d154" date="2020-04-10 04:52:56"/>
+		<rom name="data/lr-01/sandro03.tga" size="4908" crc="2c367b98" md5="f8f9efed73480dfc36f6023cb06a0226" sha1="d30c151a3ec5e5d36043961c4f32fb4b2e35d40e" date="2020-04-10 04:52:56"/>
+		<rom name="data/lr-01/sandro04.tga" size="4908" crc="99a19944" md5="6e9306290eac6dc76e3a9d32b88cf9a0" sha1="fc3fac50834053a6fd352cd2c86f1b8980d13761" date="2020-04-10 04:52:56"/>
+		<rom name="data/lr-01/sandro05.tga" size="4908" crc="385b9f90" md5="b5b540b94dadf948bef7b5267a8e162f" sha1="c2331e431ebbf5fd5b46467860414571a3cc221b" date="2020-04-10 04:52:56"/>
+		<rom name="data/lr-01/sandro06.tga" size="4908" crc="4a52757b" md5="c5b517541df9f66b7850caf7609c0c0b" sha1="d9339ec0ddcb7256b106f381b5185655056997a9" date="2020-04-10 04:52:56"/>
+		<rom name="data/lr-01/stared01.tga" size="4908" crc="f1a26b9f" md5="2a12411d173c94354e9274845bd9a59e" sha1="071e15a51be7ca7931efab924d714030316a4a72" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/stared02.tga" size="4908" crc="98aae4e4" md5="4966531edcdf82a542f051e0c27ee8dc" sha1="67f8f1d7cb41c9a4fa7dab89c29fadfd091d1740" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/stared03.tga" size="4908" crc="e92eb1d3" md5="a8c0f72679819dc7d9e47b1d1d036c78" sha1="7f748c0885ba1fd1f490b2d3f9c43bd838ebc5e5" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/stargr01.tga" size="4908" crc="e7492ee2" md5="1f0da3054bcf21812b767106f998ef39" sha1="281eeaf79d253840d02291a5b33fa22d1a855a38" date="2020-03-30 04:43:00"/>
+		<rom name="data/lr-01/tilecr01.tga" size="4908" crc="4dcb36b3" md5="803dd6ed60418771b5c1032cb1660bbf" sha1="3fcd6f2e678a64978563de10bfc21b78182438db" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/tilecr02.tga" size="4908" crc="1eaa11aa" md5="5e5b3b93f402ed770a0df0411b510693" sha1="cda051a14e34fd731fe5e05976351a68e0a292d1" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/tilecr03.tga" size="4908" crc="9647ccc6" md5="9cbf9f19a1e41db3e72bae65d4a369b1" sha1="260bfb39efd7b74ea524afaafb33372919f78146" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/tilecr04.tga" size="4908" crc="bb7db7ed" md5="76928ace7d2dbb4397b50fc3166085ed" sha1="a3497dc1ee586554f8038f2105b2819ea6b76db8" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/tilecr05.tga" size="4908" crc="059357f0" md5="05ed3638544f3e9255d89c49b0e4ecea" sha1="c3d6a89655a5856ec10c653de2f3b485907f1db6" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/tilecr06.tga" size="4908" crc="e1885422" md5="c1df9680253d44ed93c732f37078f97d" sha1="9d88e86795b07d8efd3fbbb26efbdc15f6e4a910" date="2020-03-28 22:29:38"/>
+		<rom name="data/lr-01/wtro01.tga" size="4908" crc="1998f692" md5="055ed0a0a172a84c6d5ea26c0add50a2" sha1="21d1ed585da602e66da7c238a5a9f62d3d89648a" date="2020-04-10 04:52:56"/>
+		<rom name="data/lr-01/wtro02.tga" size="4908" crc="4422e8d7" md5="64029cb8199285dc63ecf0a072e92201" sha1="f5142771b1c8a157ad2207984a279cc1b94c12d9" date="2020-04-10 04:52:56"/>
+		<rom name="data/lr-01/wtro03.tga" size="4908" crc="c91ebd87" md5="7426b5d4f7730b7c1bc75d4d187612c7" sha1="443b84412409b332d578478835e11284ca09d27a" date="2020-04-10 04:52:56"/>
+		<rom name="data/lr-01/wtro04.tga" size="4908" crc="1ef05e61" md5="0be5df135bf80625b0d5fffa780dce4c" sha1="670e740f331a3c653a13e389019a2db203b75323" date="2020-04-10 04:52:56"/>
+		<rom name="data/lr-01/wtrosa01.tga" size="4908" crc="b9e0ee8d" md5="44b1dfe29d912406d434a3180b33611a" sha1="7a6b1dc06bb50037f68ca9294d85aa75d9d83284" date="2020-04-10 04:52:56"/>
+		<rom name="data/lr-01/wtrosa02.tga" size="4908" crc="c6299819" md5="f1b9daffae64e113408e15944f86dd53" sha1="f3fc30a1d41f35a27f6fa7741f5912d129f89302" date="2020-04-13 00:05:12"/>
+		<rom name="data/lr-01/wtrosa03.tga" size="4908" crc="07a364e1" md5="ac871884cc0980982dd733d8b055b207" sha1="9c18e0507ffae89f7e93a76166370f8b01733dbd" date="2020-04-10 04:52:56"/>
+		<rom name="data/lr-01/wtrosa04.tga" size="4908" crc="533ea5ba" md5="43f5e2fa2c659cad2d9cebcba9f8b09f" sha1="5c9df35766a0a743ce64814b31a71adf5e159237" date="2020-04-13 00:05:12"/>
+		<rom name="data/lr-01/wtrosa05.tga" size="4908" crc="fe052b34" md5="95a8ea2222aa0a5adaf3cf73e84d4eea" sha1="f2ee296b53b8c4cdf730efd130d670a2733cbb6f" date="2020-04-13 00:05:12"/>
+		<rom name="data/lr-01/wtrosa06.tga" size="4908" crc="e23b65be" md5="aecb297be0eb3a410192a06522029b0e" sha1="83243fc8fd53b99e4adcc16996ca4bdbdce2bd01" date="2020-04-13 00:05:12"/>
+		<rom name="data/maps/tmike01.map" size="786605" crc="acfa79e6" md5="39a68123ea38deaf7dbca4efde9e5e34" sha1="b59afde05567af572fa838558813e5f7830c6ff3" date="2020-04-15 16:32:40"/>
+		<rom name="data/pink.tga" size="4908" crc="b8b7c976" md5="1f694d0cb487827f10f46fffc431e2ee" sha1="4122e856e793b0504c8909e22ee392be317d252c" date="2020-03-28 18:34:48"/>
+		<rom name="data/racer.pal" size="768" crc="3617b5da" md5="5e3ea6e84b93d01ee3d1e4c76a38bff9" sha1="50f061774dbf4612057d9445597143987a1fcd74" date="2020-03-28 17:10:14"/>
+		<rom name="data/sound/engine.wav" size="333244" crc="a58ce8d4" md5="796ac35c5f242f6837a23bd090239e6b" sha1="93a1c2cf0408611e475980238825ee3d523c0509" date="2020-04-14 04:21:22"/>
+		<rom name="data/vehicles/ship2.da3" size="12396" crc="d8f93a8f" md5="05d6beaacd9132848505fb77173571b7" sha1="e3cea701c3338f0f4d0688a6968305f2af47ad4f" date="2020-04-13 02:58:32"/>
+		<rom name="data/vehicles/ship2.tga" size="17196" crc="ea7146e6" md5="61b95f0ec9e29207df34194eb12ef4ab" sha1="4c9aae3f404ce23b23d28df9e740dd65990a798e" date="2020-04-15 05:15:58"/>
+		<rom name="dustfury.exe" size="391483" crc="a5077504" md5="a6d25588fb81051d8d4bb8c77a69d59c" sha1="44d296800792824d4a5e843d7597afcde00bb627" date="2020-04-15 08:56:22"/>
+		<rom name="readme.txt" size="618" crc="c968d5cd" md5="663c4ab71b03646f6511b833d6a5c097" sha1="b31a288f5b8acad37dd577ab785b6e3e06082a6d" date="2020-04-15 19:10:02"/>
+	</game>
+	<game name="Economitopia 2 (2020) (SuperLeaf 1995).dosz">
+		<description>Economitopia 2</description>
+		<year>2020</year>
+		<developer>SuperLeaf 1995</developer>
+		<comment>Installed from ECNMTOP2_01.rar. Matches TDC 22: Economitopia 2 [FW] (2020)(Superleaf 1995) [Strategy]</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://superleaf-1995.itch.io/economitopia-2</link>
+		<rom name="DATA/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-02-14 21:25:12"/>
+		<rom name="DATA/ART1.bmp" size="65078" crc="dd19649a" md5="a0d7d0180057bda55abaad497ce55b39" sha1="23ac16eb82656531a3c4da0430df2c1fe7c87609" date="2020-02-08 14:00:38"/>
+		<rom name="DATA/Thumbs.db" size="27136" crc="7a30edd2" md5="be0e6c684942624e3c334c7fc46ec0b9" sha1="ba34945423593e5d2921e12c4189fa0090f2b0a5" date="2020-02-15 00:11:02"/>
+		<rom name="DATA/TILE.bmp" size="42038" crc="13572d28" md5="14c4c3b3a55ce14b72a970352979b832" sha1="4c328f6b0b4650a605b6cbaf1647016d7d747f82" date="2020-02-15 00:07:54"/>
+		<rom name="DATA/TILE_TEMPLATE.bmp" size="33846" crc="c85c5104" md5="f62d5b29278483baa056bc05021fb48b" sha1="846d03f06636f1ffe57a3f6d4323d458824f61f2" date="2020-02-08 10:46:14"/>
+		<rom name="ECNMTOP2.EXE" size="45377" crc="f7b0b20f" md5="a3356a5e3162d09eaf3b5b43f960421b" sha1="b29f1da6b58a089a9d97d24eb8baa39bd5f528e6" date="2020-02-15 00:39:18"/>
+	</game>
+	<game name="Eight Feet Under - A Hibernated 1 Addon (2019) (Stefan Vogt).dosz">
+		<description>Eight Feet Under - A Hibernated 1 Addon</description>
+		<year>2019</year>
+		<developer>Stefan Vogt</developer>
+		<comment>Installed from Eight Feet Under (DOS / IBM-PC) - R6. Matches TDC 22: Eight Feet Under - A Hibernated 1 Addon r6 [FW] (2019)(Pond Software Ltd., Stefan Vogt) [Adventure, Interactive Fiction]</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://8bitgames.itch.io/eight-feet-under</link>
+		<rom name="EFU.COM" size="862" crc="aac701bd" md5="985d7b34e9fe6f80d2666d56971034e4" sha1="6589efc50e48113f5772106f5b2ff7949b1daa7e" date="2018-08-25 19:02:30"/>
+		<rom name="EFU_DOCS.txt" size="7077" crc="604fafc4" md5="65b71039d8f220c04a0ec260a5e08826" sha1="64ec6b5a7c556ab46f0eff7bd9c9e824595f6ea3" date="2019-01-09 08:43:58"/>
+		<rom name="PART1.CHR" size="2176" crc="f977d7e0" md5="918656c1fe151431a44a22ffb44cfffe" sha1="679b3ad9d37a498ccfd4694b7cc522e58cb544a7" date="1990-03-08 15:59:30"/>
+		<rom name="PART1.DAT" size="12298" crc="2add6422" md5="c1c0a02b226338329998b6b3f229c7c4" sha1="e5c499f75800866ebec9fa030cbc35f328abd2e8" date="2018-08-25 15:45:04"/>
+		<rom name="PART1.DDB" size="30000" crc="1d560f65" md5="dce6afb8e95251a70175a3b8e7a4d9c9" sha1="0ed50689825aba49894c71df410696f3509f3cb5" date="2019-03-16 12:18:12"/>
+		<rom name="PART1.VGS" size="32049" crc="9c9beb4e" md5="30375ae8789c51f8cf5f235f53e8d7c7" sha1="6fba4b750645056dac34e1ccdde1d7469d1c10f8" date="2018-12-29 17:44:02"/>
+		<rom name="POND1.EXE" size="14992" crc="1f845f4c" md5="7deba02ecf5c61822604da1ee3c0f0f1" sha1="6d0b124b8388d02533ee234a59b74ecb31452f5b" date="1991-10-22 17:51:54"/>
+	</game>
+	<game name="El Gran Juego del Gusano (1997) (Fadri).dosz">
+		<description>El Gran Juego del Gusano</description>
+		<year>1997</year>
+		<developer>Fadri</developer>
+		<comment>Installed from Gusano (MS-DOS).zip</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://fadri.itch.io/el-gran-juego-del-gusano</link>
+		<rom name="GUSANO.CEL" size="1440" crc="e7abc8e6" md5="3e33e45fb68e84bf0fd902341b9fc595" sha1="c0b76a2ac16a7131a6f53b30a39feb335eedaae6" date="1997-02-21 15:47:10"/>
+		<rom name="GUSANO.EXE" size="30862" crc="ba78e438" md5="907706db5917ab8c76daa930edd04ae4" sha1="80e2044f467d8138bf830138d2268a657a932d16" date="1997-03-28 00:19:46"/>
+		<rom name="PRESENT.CEL" size="24550" crc="6b547fc8" md5="1181f99707a7f77ec5c8bb10c96c3747" sha1="fc6e57c1d6afde20ae3d38cda3f7f01c5d33a195" date="1997-02-27 16:47:24"/>
+		<rom name="RECORD.GUS" size="10" crc="152bed47" md5="6528b6e16f6029e274e0e591d9f8b4bf" sha1="cf264573d30faf645af986f43b97fb4950f06203" date="2014-02-21 05:29:34"/>
+	</game>
+	<game name="Eradicate (2020) (Nuclear).dosz">
+		<description>Eradicate</description>
+		<year>2020</year>
+		<developer>Nuclear</developer>
+		<comment>Installed from erad03.zip - special DOS 8.3 compatible archive</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://nuclear.itch.io/eradicate</link>
+		<rom name="COPYING" size="35149" crc="97673d00" md5="1ebbd3e34237af26da5dc08a4e440464" sha1="31a3d460bb3c7d98845187c716a30db81c44b615" date="2024-02-16 11:48:30"/>
+		<rom name="data/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2023-08-02 12:05:32"/>
+		<rom name="data/bin/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-04-07 14:58:10"/>
+		<rom name="data/bin/libmidas.a" size="294764" crc="d3dd845e" md5="0a138f05a70d2f23f20417e59d2f1274" sha1="00a9ca04132c6de5b22fb027d60f25b17ab9a4ec" date="2020-04-07 14:58:10"/>
+		<rom name="data/bin/midas.lib" size="262144" crc="2a372f2d" md5="7b8ac3bef1b91336ce318939ae79fd99" sha1="0f0fbc8b7e51f6656084127f354a5fcb8457aa0b" date="2020-04-07 14:57:50"/>
+		<rom name="data/concrete.jpg" size="76666" crc="b829b1c9" md5="6c0cd3466aaa871398c415741e6facbb" sha1="dfa931fcc4f5cbf3927a7e6d1d17e3ce3599cc6d" date="2020-05-08 06:41:38"/>
+		<rom name="data/crowd.jpg" size="54148" crc="ac4958fa" md5="8b6df3f62c134a897a362bdc7bb7ec5e" sha1="1c345b2f219164e3f89e196f93a3d43beb3bdc7b" date="2020-05-06 02:04:10"/>
+		<rom name="data/cstands.jpg" size="76363" crc="ccd8a4ca" md5="f41b16b90148e329d9e599f5f287125a" sha1="3651719cca5f82c5af2affe76c4c00263bea76a9" date="2020-05-08 06:42:02"/>
+		<rom name="data/dbgfont.spr" size="21636" crc="c54ea8a3" md5="1c9e85c65ed759cee849785eecb5c143" sha1="593d1d8366f083d1c45e3a9344fcff2f7268ff95" date="2020-04-06 14:49:58"/>
+		<rom name="data/dconc.jpg" size="73019" crc="81aaf13a" md5="aff8288e2a31139811574367ed4d7abf" sha1="0aded26b60903b057c8a3f27a6afb7be18719c71" date="2020-05-08 07:31:20"/>
+		<rom name="data/exhaust.anm" size="584" crc="362b1b3b" md5="f1c46e90b3e52df3cec1d0e6313caa38" sha1="454cd8dc19e9cc1c265e60b3007450a530e4fd67" date="2020-05-08 19:01:30"/>
+		<rom name="data/exhaust.png" size="96260" crc="54a0e5c5" md5="b358ef6b1ec5a4274d0a74d51d90dbfd" sha1="ae14112a327b85b749c161518c9f554bd2a4f4fd" date="2020-05-06 09:15:00"/>
+		<rom name="data/finline.jpg" size="5397" crc="2855406c" md5="82ecf4d311ba4e219ad97e4a1027e627" sha1="c5e5ce580f8bb72673616d8613670b41ec50395d" date="2020-05-08 17:14:50"/>
+		<rom name="data/geodesic.png" size="11262" crc="4b3dd324" md5="c84425d4dd83a59944933165f4ff312f" sha1="d503ea0a38bcd5a117f0b0da1fcb5d4a5884ed60" date="2020-05-08 07:29:52"/>
+		<rom name="data/icons.spr" size="2696" crc="f2fd6646" md5="0852380722fb14a292e8b44c125af261" sha1="b7f86050a6ffbf9ab304eeced6b0eac86dc8bb24" date="2020-04-26 05:47:34"/>
+		<rom name="data/ledfntsm.png" size="33223" crc="43858f26" md5="e67618fc90b17a6ae7a654e85cc314c9" sha1="b747a7330daa63408e39280c3d4a178812f9c05a" date="2020-05-08 06:46:12"/>
+		<rom name="data/ledfont.png" size="122907" crc="19cf4caf" md5="218d9cf92444e35eda3522bd0da0a843" sha1="dd6cb09d7fbd7d4837710abe4749df9366af47cd" date="2020-06-02 11:42:36"/>
+		<rom name="data/logo.mtl" size="130" crc="005bab27" md5="3eda2c26fe883fbe3af530b9c2398405" sha1="1d9f05d3b663e87daec438a214cba8c87c6043ac" date="2020-04-06 14:49:58"/>
+		<rom name="data/logo.obj" size="56268" crc="9a51f6f4" md5="2f4e9e00cec0324e39e4eb23dde5d97a" sha1="e5c60d1d944a1fcf517f362abedeaf6c3bea75e3" date="2023-07-31 18:28:26"/>
+		<rom name="data/menbg640.png" size="20008" crc="2436eea2" md5="b12ac83714bff64f924d2b6986b6a48d" sha1="08e31b63eb03c30673144c256a6a48500812454e" date="2020-04-24 22:45:24"/>
+		<rom name="data/msglogo.jpg" size="58728" crc="f23aa8f3" md5="29604a55e2ab72253ccd215a3e371476" sha1="c07a634df308510dab66fbcc53c63c72a312612c" date="2020-04-06 14:49:58"/>
+		<rom name="data/musgame/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-04-07 14:42:22"/>
+		<rom name="data/musgame/4thdim.xm" size="1820353" crc="084ac169" md5="74322ccc4d4a18f1d67f1472f4dacfb0" sha1="2e87aafafb0d725ffa6a0c20ed6ea26c23799e8b" date="2020-04-07 14:37:06"/>
+		<rom name="data/musgame/aphrodis.mod" size="951780" crc="fb2ff72d" md5="88c12f7f6137eadd5cee5030253cda74" sha1="7917120841b3b3853e3463dbcec116bc704300fe" date="2020-04-07 14:36:12"/>
+		<rom name="data/musgame/astralmo.xm" size="2637188" crc="5d678028" md5="034b6a6087dfd19a8a706decd6645ccf" sha1="9312cd61854b39cb31ae8c37b370d8d567621700" date="2020-04-07 14:20:26"/>
+		<rom name="data/musgame/awaken.xm" size="2652248" crc="257d001d" md5="ef1a1a623499fec87401087e6bcde355" sha1="a6cc5288dc24e11023a5eb50ae18eca0e435909e" date="2020-04-07 14:42:22"/>
+		<rom name="data/musgame/illusio.mod" size="357036" crc="d28251bb" md5="45f200bbd70a82cc69c26708644fafb1" sha1="f9e3ffadfa2b2ce137b62841d640354a846ba4a2" date="2020-04-07 14:41:42"/>
+		<rom name="data/musgame/mentatm.xm" size="1124420" crc="fa9165bb" md5="05ff4a47fe65c5f5e4427f483ed62b61" sha1="ccf13cdf27daf4b61480129ab07c0001710e39cc" date="2020-04-07 14:21:46"/>
+		<rom name="data/musgame/sc-fuse.it" size="1036632" crc="867a6ccf" md5="bda8bf17f35262647e004017d21be6b0" sha1="de53fd9a5399518627aaf744a78e990532a581de" date="2020-04-07 14:38:34"/>
+		<rom name="data/musgame/spiract.xm" size="982645" crc="2f9fe403" md5="89e24756b8a453f3f3014ae6d1780498" sha1="73996327d16954d3062efdd313f0c8927f5a9d8c" date="2020-04-07 14:39:50"/>
+		<rom name="data/musgame/v-eow16.xm" size="1122168" crc="0c13a3a2" md5="8e11d3d79c607fc2f0948138cc498407" sha1="5226fd9120a4d6bcb839ea8aa86f6ed7f1c8fcf1" date="2020-04-07 14:40:48"/>
+		<rom name="data/musmenu/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-04-07 14:19:12"/>
+		<rom name="data/musmenu/cosmosis.xm" size="2017937" crc="154b5792" md5="3cd92737e529007e997ba92d1403769d" sha1="640b5ce7206f40595c9ea6b73f8404fe437f276c" date="2020-04-07 14:19:12"/>
+		<rom name="data/nebcobhl.spr" size="94088" crc="57ac3a96" md5="269afe01700ebe86cd2413901031ecbe" sha1="30e660e952636645d550a3ac688e1bf747974043" date="2020-04-25 01:15:40"/>
+		<rom name="data/nebcobig.spr" size="66968" crc="2806b2dc" md5="ec61324df5142afef3feae952271c01f" sha1="76244641e1318d06e6c0cb059c54ce613ea4d9b8" date="2020-04-25 00:13:34"/>
+		<rom name="data/nebucol.spr" size="24790" crc="d78e988a" md5="b4315ba5905d4e0e60c840b00b5358ad" sha1="b0712f0636592cd27c8c1d7e8a71b86b10f67946" date="2020-04-25 00:13:34"/>
+		<rom name="data/nebula.spr" size="28004" crc="bcb65e2a" md5="d2f4e04458e597787fd4fdc210776369" sha1="8082f1de20acb4c0ce923548c3b540837bdea572" date="2020-04-25 00:13:34"/>
+		<rom name="data/optbg.png" size="13116" crc="8765c1d7" md5="6b5ba2acae69433b164c0490cc1d33a9" sha1="0528af1dea1d308b255bcf2e3d9c3538c2e539f6" date="2020-04-26 08:34:20"/>
+		<rom name="data/refmap.jpg" size="41866" crc="8a8d43d7" md5="bb43f141136f5561787089290cd43c84" sha1="23b3d197367c54428a13950339c4ade4b017bbb6" date="2020-04-06 14:49:58"/>
+		<rom name="data/road.png" size="9655" crc="d9cb328c" md5="53aed0ead0d9acf0b759d2eb92bf6fa2" sha1="8f60f95fb4fa8d64e8d6abaafd0e29f0b0779d10" date="2020-04-06 14:49:58"/>
+		<rom name="data/ship.mtl" size="238" crc="b8f239f8" md5="9a175651ce9c9170152a27882102ab26" sha1="1b85481234d36e6a57974516c4186bb8e76f3dc1" date="2020-04-06 14:49:58"/>
+		<rom name="data/ship.obj" size="22304" crc="ea6a1d39" md5="4f468a5b7d102c8f6181ba85a7824773" sha1="efd78f9c32deb84e06669b78317d39ef1e995bbf" date="2023-07-31 18:28:26"/>
+		<rom name="data/shiptex.png" size="99778" crc="1fda1f33" md5="b11cbc759eb322205394874f9eb18e3b" sha1="f6f474d38df7ce238a79e3974f428ac7dc51834d" date="2020-04-26 08:41:00"/>
+		<rom name="data/sky1.565" size="4194316" crc="86c6d974" md5="6408bed910c3b9f02ebe34fe476b8b7b" sha1="826e7592f088b71504225674cf075e868b73d3d5" date="2020-04-06 14:49:58"/>
+		<rom name="data/sky1_nx.jpg" size="12509" crc="bc7a6d80" md5="d6426472b7e958463dc5b03193cf7d74" sha1="03271c6aae3ea3ae4d334cf558404e09b58b9201" date="2020-04-06 14:49:58"/>
+		<rom name="data/sky1_ny.jpg" size="8886" crc="24e4d262" md5="572ee6904c387f365886c17a4785de16" sha1="f46a3588e4319a262bcdc6893e21124e4b6fca5e" date="2020-04-06 14:49:58"/>
+		<rom name="data/sky1_nz.jpg" size="13053" crc="238c9748" md5="cfaa72fbf029edfc6f72fab2b10276a3" sha1="8c4d20d1170049bfc7b9b60db8b9cd9d47dbe07e" date="2020-04-06 14:49:58"/>
+		<rom name="data/sky1_px.jpg" size="11172" crc="57998b76" md5="b34d6fd561287c67a9307c39052d1f94" sha1="323f716ba709bdb20d7bf8e76f355215074357da" date="2020-04-06 14:49:58"/>
+		<rom name="data/sky1_py.jpg" size="9885" crc="2ed5dafd" md5="d09d8fda38ff2686eaf55fbd95ec9c6c" sha1="c4d029fa84653aa5d78d281a91d01dea8a7267fa" date="2020-04-06 14:49:58"/>
+		<rom name="data/sky1_pz.jpg" size="11391" crc="cf75967f" md5="56dec5b789acf1fe2ddee8120702d10f" sha1="7a40baf94af7a4b2a0d7a6263e1fd2db49359820" date="2020-04-06 14:49:58"/>
+		<rom name="data/steelfoo.jpg" size="45229" crc="1090af75" md5="5ea5aff35f887ed48c96753e219ad9a6" sha1="ef2583e7c8c5a2894e97a2ab1601e88bf1eeb68a" date="2020-05-06 02:58:34"/>
+		<rom name="data/t1s16p0.mtl" size="434" crc="f21b58bc" md5="3de18c5dc217720608172e850116ab11" sha1="2a048d43cfe51a2316a308765a1920eaf002fcf2" date="2020-05-08 21:23:52"/>
+		<rom name="data/t1s16p0.obj" size="28356" crc="eab281d9" md5="2d90802c59eec27d66c66099ff46f9aa" sha1="e8b731df2aea82a7ee4a0e9afe41bb4038fe1144" date="2023-07-31 18:28:26"/>
+		<rom name="data/t1s16p1.mtl" size="1012" crc="81388caf" md5="89d1aef73dca0167fc0198c28c8f917f" sha1="93623e731e8c3f7e3c3efda2adb801e517107f42" date="2020-05-08 19:30:32"/>
+		<rom name="data/t1s16p1.obj" size="53233" crc="6213c25b" md5="ca436ee1d1e876f39a5d725c67e3e8a2" sha1="652b651837e21103719f1c1cba8a455305fa82f5" date="2023-07-31 18:28:26"/>
+		<rom name="data/t1s16p3.mtl" size="247" crc="e468fd69" md5="a9ed841a25e80bdcb7eb67de8ce087e3" sha1="4e8347c64a87697870786040da5f16ed0ed036d4" date="2020-05-08 17:28:56"/>
+		<rom name="data/t1s16p3.obj" size="1340" crc="7a5f1733" md5="0542d9fd279bda7f55cd74b58f7cc121" sha1="8bd7d531b0963d2ec73f1d8a13b963b7122f3079" date="2023-07-31 18:28:26"/>
+		<rom name="data/track1.trk" size="2818" crc="76e6a5a7" md5="eccb1b4c4ecd8a65f31c202cd352c0f2" sha1="ceb97afc3398503f16f4832d50e4174e495046c7" date="2020-05-08 17:25:34"/>
+		<rom name="dos4gw.exe" size="265396" crc="5cc34b0f" md5="006211ca60fa3d4b38a9a8da2ade1056" sha1="c489f83dc15a9ffc3c502707da40e581ec79bfe6" date="2024-02-16 11:48:54"/>
+		<rom name="eraddos.exe" size="1007649" crc="fcee5308" md5="77a2b3360bcb1f8d9ab0fec1fd2b5895" sha1="d4fd932cb62bc49913d8f2f6f6a005f1c486042d" date="2024-02-16 11:48:54"/>
+		<rom name="README.md" size="6261" crc="14bf2263" md5="8ea6433a90f33e272c1c800f4fc835dd" sha1="6c012099818ceecefcace4bcdf43bd87ff88c050" date="2024-02-16 11:48:30"/>
+	</game>
 	<game name="Floppy Bird (2015) (Mihail Szabolcs).dosz">
 		<description>Floppy Bird</description>
 		<year>2015</year>
@@ -573,6 +1219,150 @@
 		<link type="media">https://puredos.github.io/tdc-browser/?/22/Floppy%20Bird%20%5BFW%5D%20(2015)(Mihail%20Szabolcs)%20%5BAction%5D</link>
 		<link type="freeware">https://github.com/icebreaker/floppybird/blob/master/build/floppybird.iso</link>
 		<rom name="FLOPPYBI.IMG" size="1474560" crc="6bdd4e5b" md5="7241d1d0ce0a5706332da2addeb71684" sha1="bdcd1ffa7766f2cfb8701245154fde068bcaedd2" date="2014-07-15 07:19:04"/>
+	</game>
+	<game name="Gates Of Integrity (2022) (Tarjan).dosz">
+		<description>Gates Of Integrity</description>
+		<year>2022</year>
+		<developer>Tarjan</developer>
+		<comment>Installed from Gates Of Integrity - MSDOS version). Matches TDC 22: Gates of Integrity [FW] (2022)(Tarjan) [Role-Playing (RPG)]</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://tarjan.itch.io/gates-of-integrity</link>
+		<rom name="00DOOR.RAW" size="66207" crc="8db80082" md5="592cd119a477fc8fc36032bad477e4ea" sha1="71c72e31b17ffbc7b7aa823220ea00f519d0e902" date="2022-05-19 11:04:44"/>
+		<rom name="00FLOOR.RAW" size="66207" crc="acdfdc62" md5="747f8f378ad8c59fef4c8e6979deeb2a" sha1="c95056c3e74d66a3cfb131d1f08c096ed9864230" date="2022-05-19 11:04:44"/>
+		<rom name="00WALL.RAW" size="66207" crc="49c8a631" md5="78d1a938c76ae9afba8ba394e8251cba" sha1="70a3bbc585face35e4a9d40e9f0030ead36ae64a" date="2022-05-19 11:04:44"/>
+		<rom name="01CEIL.RAW" size="66204" crc="aa1396c8" md5="ed78a3eec0262657228e200453b23082" sha1="a7231ac0cd1cd9dc0aa5fa31bdef5e7fd31a780c" date="2022-05-19 11:04:48"/>
+		<rom name="01FLOOR.RAW" size="66204" crc="d7563e01" md5="37d3e6073858e77f2d8b042763661aca" sha1="73b22f6dfd1dd7c36aacd1075027131a642e2fb6" date="2022-05-19 11:04:48"/>
+		<rom name="01WALL.RAW" size="66204" crc="db026dee" md5="f365f5596e1b9412d77b2db1cd9c5be1" sha1="7ccb668757d679dbaa241f4fbd9638e0a0828d17" date="2022-05-19 11:04:48"/>
+		<rom name="02ceil.raw" size="66210" crc="a7b08be5" md5="1d5cd5a9239c64ab3e3cb622a3c81120" sha1="57f676e6ad1f0269ada9d1079cb952cbbb8296e7" date="2022-05-19 11:04:56"/>
+		<rom name="02FLOOR1.RAW" size="66210" crc="a7b08be5" md5="1d5cd5a9239c64ab3e3cb622a3c81120" sha1="57f676e6ad1f0269ada9d1079cb952cbbb8296e7" date="2022-05-19 11:04:56"/>
+		<rom name="02wall.raw" size="66210" crc="804ec9ab" md5="3d20cb08754552f90101da5711dc61a6" sha1="c2edf44b73e43eba0bdb9b611e67acbb9b743324" date="2022-05-19 11:04:56"/>
+		<rom name="04ceil.raw" size="66213" crc="93f8d820" md5="03129e6990aee62188856c35b5e422f9" sha1="9e05c0c88ba80a8a7785f3de12ab25c419461743" date="2022-05-19 11:05:00"/>
+		<rom name="04FLOOR.RAW" size="66213" crc="a6821168" md5="b15f4285d97d0daa1060bd4925bab9b9" sha1="f935d17cb6733be839c3f6fd3dea2dcdca2d26ce" date="2022-05-19 11:05:00"/>
+		<rom name="04wall.raw" size="66213" crc="af38eaa1" md5="0580eaa56e0ed21f6b8e8c4593b3e594" sha1="e567dcecd6e4554c7773415245b2c740e86bf1ae" date="2022-05-19 11:05:00"/>
+		<rom name="08ceil.raw" size="66210" crc="07e2fb3f" md5="165c81c6b3b09aabe7eb9d001040f1e2" sha1="2429d55dfcc6cdf0d2dd716d3ec0566e156f7d32" date="2022-05-19 11:05:04"/>
+		<rom name="08FLOOR.RAW" size="66210" crc="ccb9343f" md5="f0bafff500751a2c6ba97479d7e904bc" sha1="d2e9e2cf3c061192e4f52642f728d081741490cf" date="2022-05-19 11:05:04"/>
+		<rom name="08wall.raw" size="66210" crc="02d8d32b" md5="5e67d090e48fd0ed77463d696768482f" sha1="20e98fce5d258140d05f4d134ac26a253c3a8880" date="2022-05-19 11:05:04"/>
+		<rom name="11ceil.raw" size="66213" crc="fdaf7bee" md5="1f23513fabf551cba5a003dc2c96ba96" sha1="f4a44812486525e38ddfb71053802ac312cd630a" date="2022-05-19 11:05:10"/>
+		<rom name="11FLOOR.RAW" size="66213" crc="535f2cce" md5="a9d6682420965117d228a2bbc202406d" sha1="7cf851adc8d276242440cfbc9c1432148947148a" date="2022-05-19 11:05:10"/>
+		<rom name="11wall.raw" size="66213" crc="01dd15da" md5="44794c97ba205eba4978e978aa6ef9ed" sha1="8bbe064b6f1e81e66c2d6f92fa1d7860aa6548ff" date="2022-05-19 11:05:10"/>
+		<rom name="14ceil.raw" size="66210" crc="b48f7e5e" md5="244497592ee734f9f66ee2d4fd7f6429" sha1="d37d0a2746f7758d51b6f354f3fb76cfa6388a91" date="2022-05-19 11:05:14"/>
+		<rom name="14FLOOR.RAW" size="66210" crc="d87fde9f" md5="4a3b1a3ed59f254449ede4635edde01b" sha1="b41824a7179234be7a094865b4c3be75a7ac7380" date="2022-05-19 11:05:14"/>
+		<rom name="14wall.raw" size="66210" crc="d6203c61" md5="5b019fb0c81e50f9db431b0b1571447a" sha1="d6eedde9fd243b036e55c45b18f548512d8b6074" date="2022-05-19 11:05:14"/>
+		<rom name="anroburg.dun" size="4340" crc="96f8d971" md5="599d805e44f5476de64bd305948b89b9" sha1="a8f39adf1dd5a962df641516d025044d95364bdf" date="2019-12-01 14:39:06"/>
+		<rom name="BACK.RAW" size="64098" crc="07c4d004" md5="22615ee6be895cec8f1e00d819ae7c02" sha1="0107c4e1b0994a3431a69975e9a39ed921adba5c" date="2022-05-21 09:56:48"/>
+		<rom name="cave.DUN" size="4340" crc="5e91950d" md5="ef359b9d83ebfb404a64af1c0566719b" sha1="4b2a2bf7670bf2462c99524f7dfd9f156e4e476c" date="2019-04-12 22:52:28"/>
+		<rom name="cave2.DUN" size="4340" crc="80aac490" md5="19d1432e5dc4a91ce829b498da94c81a" sha1="661b2590a0f4ab221484a09e71998b3e084cbe43" date="2019-04-12 23:23:38"/>
+		<rom name="cave3.DUN" size="4340" crc="14cc2df6" md5="d73ec5066655ab419fc795704ab6f8e4" sha1="75c1983f9c48aee7f343666965c53d62329413bc" date="2019-04-13 21:17:14"/>
+		<rom name="CONFIG.DAT" size="28" crc="939d2a94" md5="e29b7be2f40c91ef69aeab3dd2049f1d" sha1="efcb27c64ede58293d7dc558e63bbda226444cba" date="2022-07-07 16:25:26"/>
+		<rom name="dilig1.DUN" size="4340" crc="b9c24c25" md5="14060ce5884999aaa4f02a6050b78bc2" sha1="e7f17509f0ef9f3f7a2acbc92d0f8219b0b467a8" date="2020-03-14 01:33:48"/>
+		<rom name="dilig2.DUN" size="4340" crc="0fd93680" md5="108ec9eff26f96c627538bed65e08293" sha1="4906d0f01af04ebaf86de0fa99fecad7b30d7dda" date="2020-02-01 00:00:14"/>
+		<rom name="dilig3.DUN" size="4340" crc="cb549460" md5="281cf976ef5bf86ac6593bf6d7440a2a" sha1="ccb98ab257eb6ef14759f871400339050fc4f7f6" date="2020-02-01 00:26:12"/>
+		<rom name="empathy1.DUN" size="4340" crc="b6628d3d" md5="801f5b94a3c7e749805ce4186a98aa4a" sha1="0012217fa3f7ffa7c04e09dee1d7897626f66e90" date="2020-03-13 23:40:00"/>
+		<rom name="empathy2.DUN" size="4340" crc="045d4f8c" md5="077c958d1fa64bc8c6f87e0a8d3fbad3" sha1="518b144b4b3cc3a0face46b890f0cce4ec5d9d6e" date="2020-01-29 23:27:10"/>
+		<rom name="empathy3.DUN" size="4340" crc="d1862803" md5="37dbd6ec71d6a4c82874a89a05d74979" sha1="e79f499e97e884e85439169943c8dd4b12d2a923" date="2020-01-29 23:24:34"/>
+		<rom name="GATE1.RAW" size="18095" crc="c7ef2ae2" md5="780eb8859752fcffa072ef5bce063458" sha1="83864e26c9922d1c27ee5c7c395c687cd7ab22a2" date="2022-05-19 11:02:32"/>
+		<rom name="GATE2.RAW" size="18089" crc="aad2131c" md5="5a7f5d04eaeb24aa412476a9129cc85a" sha1="6f60e2c2b1d142d21214bd3788269278cec61034" date="2022-05-19 11:02:32"/>
+		<rom name="GATE3.RAW" size="18101" crc="e83798d1" md5="b82f08d9cfcc94046127dc6a3d988f8c" sha1="a5291d9a7c4398ea8fe1a7311320021d62484026" date="2022-05-19 11:02:32"/>
+		<rom name="GATE4.RAW" size="18092" crc="dfb5ca76" md5="b15e4824cd1e4fd46545b1eb4fde13da" sha1="a8607d4c47b9718e3a13e18bddd8ca2fb1ca92d3" date="2022-05-19 11:02:32"/>
+		<rom name="GATES.EXE" size="319144" crc="7efebd8d" md5="dfe186f255283951ef3c8aad35c97c29" sha1="59b440fe05875ff2fe7ab60090df73c91fb2edee" date="2022-07-24 17:32:26"/>
+		<rom name="GUMP00.RAW" size="674" crc="affa34e0" md5="f5fcfc94bb810c7cbdfd15dcb21c1dd2" sha1="47499965622b441afa87b01e54ee6976ad8ed84f" date="2022-05-21 09:55:06"/>
+		<rom name="GUMP01.RAW" size="674" crc="0a8c9323" md5="ebe08d32b8ceb064602e9b2030821ae9" sha1="16ef6176dfa7a766248fcb2eba9a53a3c6b9bf7c" date="2022-05-21 09:55:06"/>
+		<rom name="GUMP02.RAW" size="674" crc="e309384b" md5="e3165e6d4c8bbfd4ee1e110d5bb88e94" sha1="f0b2fc297eb3da80bfeeb118a712bed46a7fe0c5" date="2022-05-21 09:55:06"/>
+		<rom name="GUMP03.RAW" size="674" crc="576152b2" md5="16ac416a6dbbd571334bb5219cfe1544" sha1="9a422d4d652e0dd56b93e9ded3517103c46807f9" date="2022-05-21 09:55:06"/>
+		<rom name="GUMP2.RAW" size="674" crc="24c19fec" md5="d7d926b1a867c7052075506f98a6a995" sha1="ce34dc569e7e655b17c462aa76b4d8381f03a1cd" date="2022-05-21 09:55:06"/>
+		<rom name="GUMP2B.RAW" size="674" crc="a9809d29" md5="461b0cb02a8742d7a87f9c5611ff7269" sha1="7c9187e0b50979d0aa2691f9502e00eaf2d7df9e" date="2022-05-21 09:55:06"/>
+		<rom name="GUMP3.RAW" size="674" crc="e9b3ad2b" md5="c583c2a50f7b13515710fcd08e3df49a" sha1="9501cb9e2931a6689c7cfff260f68ab4b59f2f20" date="2022-05-21 09:55:06"/>
+		<rom name="GUMP3B.RAW" size="674" crc="60e5f4bd" md5="cc071dbd39d4c8c6beeaa837e647de35" sha1="3ac11541f9313b7e0f5459b92ba5c644e3167631" date="2022-05-21 09:55:06"/>
+		<rom name="GUMP4.RAW" size="674" crc="d33d6818" md5="1d1beb6dc925065c58685334a687c992" sha1="ac1526ee6a4da757bb5155ca28b787ac88d5a5d8" date="2022-06-23 18:18:58"/>
+		<rom name="GUMP4B.RAW" size="674" crc="02ca2541" md5="b127afbeea83eae660ac05266ee90758" sha1="48be5b02a559d32dc47ef79221f8d3b8516436f2" date="2022-05-21 09:55:06"/>
+		<rom name="HTML/credits.html" size="4260" crc="0a890b7d" md5="5c7c56b8d0adc52cd9bc43d454711ecc" sha1="209b4586ba9f7e67a81012d3ed34d2db559c2c28" date="2020-01-28 23:06:32"/>
+		<rom name="HTML/index.html" size="29062" crc="c3b0ff60" md5="c5a364426656226fe17f3a5a1487562f" sha1="6f3e54f1541d31f4b04acd958121ae8c9726b114" date="2022-07-10 12:25:42"/>
+		<rom name="HTML/screen1.jpg" size="219519" crc="4526a819" md5="d6a422fb55935700d4585a15cba7b559" sha1="ff17265cb7a1973ac3790b8101c2402507a58178" date="2019-11-10 16:57:36"/>
+		<rom name="HTML/screen2.jpg" size="240387" crc="f948ecae" md5="e9bcbd0941699945b16aec933765d97d" sha1="2a7b5748441104533b1638b99c02b5eeb3a036a9" date="2019-11-10 16:59:10"/>
+		<rom name="HTML/screen3.jpg" size="232181" crc="4fea82b8" md5="adb670aca44e697ffac0803737b9ef62" sha1="a867a4e185ef07a6f9cfd497c0e283d51773f968" date="2019-11-10 17:10:50"/>
+		<rom name="HTML/screen4.jpg" size="86441" crc="5d341d2a" md5="7956eb6ac4180babc0536af6f0bc4e91" sha1="6d1fe85576897cd36405fcdecab99645e783b57f" date="2019-08-25 18:42:40"/>
+		<rom name="HTML/screen5.jpg" size="120611" crc="29b0a7fd" md5="87ef14bc8187b243d81f80c6635324e5" sha1="be831701f2539556bbb31f13f4fd71a2c40a33ef" date="2019-11-10 17:16:56"/>
+		<rom name="HTML/spells.html" size="27578" crc="9f8d9ca8" md5="f52c3f47f78a8bf4ee7348e850654359" sha1="17ea65d8dae4483092b9566684f97f54391a6e69" date="2020-04-04 17:52:20"/>
+		<rom name="integ1.DUN" size="4340" crc="a2f27ca8" md5="29ba3648ddcd37c67f29b0187fac1f71" sha1="3aa74a6f8ee8f0e396a271950fda11558fd323c6" date="2020-02-08 10:04:56"/>
+		<rom name="integ2.DUN" size="4340" crc="09dfc3ab" md5="eefb1c0dff0a9f06bfe0a7c40f9f827c" sha1="12aaece4880b66d3add6fec672526aa2b7c90239" date="2020-02-08 10:05:18"/>
+		<rom name="integ3.DUN" size="4340" crc="9a6403e0" md5="12c25fb5ff329a0948df908c4ccbc653" sha1="76783f51511b9fae8a3feaf8fc20062568ed32ec" date="2020-02-08 10:05:48"/>
+		<rom name="integ4.DUN" size="4340" crc="d672264d" md5="8a99a9d3c384fc1f0f4c9234c47b1ef3" sha1="2dffd59b331d289b541a5ea322b50f5ce4f845f2" date="2020-02-08 10:06:18"/>
+		<rom name="integ5.DUN" size="4340" crc="6617f266" md5="6f42181c116fb67bd4df9e49ea1338ff" sha1="efe6294c75beae9b8b45786777624d7dd290d524" date="2020-06-11 08:33:18"/>
+		<rom name="OLDMAN.RAW" size="18095" crc="459f15b7" md5="c298438918f36bd87d5ba75a0a954ff9" sha1="c40d66e8914f60c8034a918c081382b92d11bd26" date="2022-05-19 11:02:34"/>
+		<rom name="PAGE1.RAW" size="64674" crc="9c4a47b7" md5="6588aeb4bbb2a6dba15fc7ea93969657" sha1="0226951132f4d8353a436310713e32d7a82fae7d" date="2022-06-20 12:04:44"/>
+		<rom name="PAGE2.RAW" size="64674" crc="573bb629" md5="2c2d5254288a22f7325a0554451a40c8" sha1="08febefc12ce957a1cf2f21d3c27bd008ff14ffa" date="2022-06-20 12:04:44"/>
+		<rom name="PAGE3.RAW" size="64674" crc="b4e1ac5b" md5="a2cd924bfa1de58eb3fbe87b13daa619" sha1="5b7430841e87b5f2f5fe2073246bc32addd9ef7b" date="2022-06-20 12:04:44"/>
+		<rom name="PAGE4.RAW" size="64674" crc="cc5baf2f" md5="ef77895fec6cfbc9ea16b63cd1f0183d" sha1="12d869bb79d012358ac1766afee16583c8737908" date="2022-06-20 12:04:44"/>
+		<rom name="PAGE5.RAW" size="64674" crc="c30c105c" md5="55ebd7cb90875b50882026221fbee4fc" sha1="58e0fe4e9ae2c66dde260a31c0781cb35da9aecb" date="2022-06-20 12:04:44"/>
+		<rom name="PAGE6.RAW" size="64674" crc="289152ed" md5="7f63c5f362d473b970ae96bd4835f747" sha1="a99e535d91b5b2807318546814b97f4dcaa1a71a" date="2022-06-20 12:04:44"/>
+		<rom name="PAGE7.RAW" size="64674" crc="1cab9899" md5="ac7e2124adc23ce8a7ab7a65fe7c935c" sha1="37c894b1d2fbe2110ccb3853dc75c93756966318" date="2022-06-20 12:04:44"/>
+		<rom name="S-BUI.RAW" size="18095" crc="6c5a19d5" md5="df964b0f4805677620511671c709d7d0" sha1="215768d99eaf24d6c03070f2ee6d07cb6ce4870e" date="2022-05-19 11:02:32"/>
+		<rom name="S-C1F.RAW" size="18101" crc="6c34bfcd" md5="dd5dc43fe7ccddd2d7fba941b710e154" sha1="c4c23397fbed2f2280a96000c9d4b011ba7388f5" date="2022-05-19 11:02:32"/>
+		<rom name="S-C1M.RAW" size="18092" crc="5c0e0a73" md5="7e12bfa200eb7ca339d3d306d1f65190" sha1="d339b299a26c587c9e440a0a94c91de4479c4879" date="2022-05-19 11:02:32"/>
+		<rom name="S-C2F.RAW" size="18095" crc="d9f5a6b3" md5="1e93be87cd01b03cf26ced1c2e495c6c" sha1="9832793d06acd77190a72ad43092d0f69987fe26" date="2022-05-19 11:02:32"/>
+		<rom name="S-C2M.RAW" size="18092" crc="e23209a9" md5="483c51fe89c1b1af14f1ace3a51effda" sha1="a5754cf8d4d714b7e671dbd1d21abb9ef6ab21e4" date="2022-05-19 11:02:32"/>
+		<rom name="S-C3F.RAW" size="18101" crc="16185b39" md5="8d2ca31f31fc109da05115b4f76b008c" sha1="2af85ad327fec55eb730ae5137788c419a03e110" date="2022-05-19 11:02:32"/>
+		<rom name="S-C3M.RAW" size="18098" crc="74f7767a" md5="57a3c1916c4c2233b298b6fbd36fb56d" sha1="5e92c103e99cf124e02ef263e4851489e3852688" date="2022-05-19 11:02:32"/>
+		<rom name="S-C4F.RAW" size="18101" crc="e1a31661" md5="ed195f782df13b860db25a351edf998f" sha1="83ea742c2b40f72f013c982d0a995c2da4da30a9" date="2022-05-19 11:02:32"/>
+		<rom name="S-C4M.RAW" size="18101" crc="3ed7912d" md5="d6d787daf82ffd48829dbbc3899df9f4" sha1="d30c64923cf7b3afd5a3ce59d54099625ab9a91f" date="2022-05-19 11:02:34"/>
+		<rom name="S-C5F.RAW" size="18098" crc="0fa6ee8b" md5="ea3da0cef36f8b9568b71d6c1765ba7a" sha1="f2a35684798169a3c01792f0b43eedcc62e18501" date="2022-05-19 11:02:34"/>
+		<rom name="S-C5M.RAW" size="18101" crc="54ce5634" md5="a9ef58fa98450ef63fb35d3db074912e" sha1="a9ac082f29414da50e9099f1d79b6f3ac5faabca" date="2022-05-19 11:02:34"/>
+		<rom name="S-C6F.RAW" size="18089" crc="825c646d" md5="14bf4b7441dbcf14dcfd5875f558a5a2" sha1="122d8b57e8e21160fab5322bfdfa5dc40f47f47b" date="2022-05-19 11:02:34"/>
+		<rom name="S-C6M.RAW" size="18101" crc="2a11294d" md5="e4ec48a824674096c44408fd1ffb758a" sha1="e8a9f4a42b09869d7389fc6831c7b2c8e79b9ce6" date="2022-05-19 11:02:34"/>
+		<rom name="S-C7F.RAW" size="18089" crc="375964a6" md5="679d9b5a77689ae569e100354d584b13" sha1="05ce300df926f17e43ace9d200820412733aa3af" date="2022-05-19 11:02:34"/>
+		<rom name="S-C7M.RAW" size="18101" crc="5af20636" md5="1e20986f92997d57e614e9699ff52a25" sha1="b893078a861d626178d7ec0420f00ef5528867ab" date="2022-05-19 11:02:34"/>
+		<rom name="S-C8F.RAW" size="18101" crc="23f6a18c" md5="f6f35739628a6032650c3d86d1d372e4" sha1="ad59ad645a50f9682de88462f2c512493dec259c" date="2022-05-19 11:02:34"/>
+		<rom name="S-C8M.RAW" size="18086" crc="e651e537" md5="5323dcfa1943945be84ad9c6fa67121b" sha1="b43511c053aeb7ce41a7c29f597ca5fb2f6e36a7" date="2022-05-19 11:02:34"/>
+		<rom name="S-C9F.RAW" size="18101" crc="03112df6" md5="5a37810294eba2d4ad37069018602aaf" sha1="170663070e00129b5a13bd9abf843b043e5edac5" date="2022-05-19 11:02:34"/>
+		<rom name="S-C9M.RAW" size="18092" crc="34565f40" md5="71b365a81cd46ba156280458413bf8ff" sha1="5125ea494de450402442040d8d00cbde0d5912f7" date="2022-05-19 11:02:34"/>
+		<rom name="S-CHE.RAW" size="18101" crc="38934e9b" md5="eb5f180f5af4b68f9bc92fc0faa0c998" sha1="0c6580d7693e892d5f9b88fd516396a661e95c54" date="2022-05-19 11:02:34"/>
+		<rom name="S-DEA.RAW" size="18098" crc="a93b9488" md5="2ff3a96c2fc390856226457982a5be6d" sha1="b1a8cca506ae577ff8c65058fce8c83b6d8c71a4" date="2022-05-19 11:02:34"/>
+		<rom name="S-GUI.RAW" size="18089" crc="5d3d4abf" md5="64920339fa5b18a39a9cac9778cbb33b" sha1="f645c43709187c2a94601b6f2c4dd5a0b3dd28fe" date="2022-05-19 11:02:34"/>
+		<rom name="S-M00.RAW" size="18101" crc="7e15bc60" md5="bac47d2efd31a16df62e927bf8aed320" sha1="4073fb915984131a43a875c5475ac04084607fb5" date="2022-05-19 11:02:34"/>
+		<rom name="S-M01.RAW" size="18095" crc="882a60bc" md5="f94e4f981f99e8d4ce0107bea63b61af" sha1="ff81798b695cfc34aa5010d59259991ff579c5e7" date="2022-05-19 11:02:34"/>
+		<rom name="S-M02.RAW" size="18101" crc="9313100c" md5="fa519892c54d6b2abf0756972c87fdaf" sha1="ae3975c29d4b9bf8ffd7b5a0f693330788f7ded2" date="2022-05-19 11:02:36"/>
+		<rom name="S-M03.RAW" size="18089" crc="d08743ef" md5="b0084a7293e8dd06bb5e5899c1962d65" sha1="1bc57c94427763ab156ede62d80c10e69121061c" date="2022-05-19 11:02:36"/>
+		<rom name="S-M04.RAW" size="18101" crc="f695744e" md5="b9e8cdb1db82dd0c1178665d8d80b25b" sha1="bb9933b75b57eb88ac6f20d0cd59a4e75efe662e" date="2022-05-19 11:02:36"/>
+		<rom name="S-M05.RAW" size="18101" crc="e40b92bb" md5="61d9c294ab66d4c796d85164933c5d69" sha1="5e45f2bcda202c182592615d342a835e2ce65fec" date="2022-06-19 20:38:30"/>
+		<rom name="S-M06.RAW" size="18101" crc="eae04ef6" md5="e2f13e9436bd98c1a0939c676fdcb161" sha1="a34de3cbaee2ec446292964eac695e7fe1354ec8" date="2022-05-19 11:02:36"/>
+		<rom name="S-M07.RAW" size="18101" crc="673d4ef9" md5="af2cf02d0767b2e1c20c3e31aaeb927b" sha1="ec4dc0f5f159e77a16b131d115a263f630b1cdcf" date="2022-05-19 11:02:36"/>
+		<rom name="S-M08.RAW" size="18089" crc="796ec36b" md5="501b46706c5ce79fd0e96a0ec2f9f0fb" sha1="8dc27f295e2f00ead51ef9283e6f1ac0e9356b54" date="2022-05-19 11:02:36"/>
+		<rom name="S-M09.RAW" size="18101" crc="d20700ec" md5="2a69a5ac74195d77bee6abb5bceb431d" sha1="f24d40f704d37fe0011c0e02d35399537c818392" date="2022-05-19 11:02:36"/>
+		<rom name="S-M10.RAW" size="18098" crc="23d3065b" md5="c3d8fb62af3b60503460ef85d010492b" sha1="b554b3c8b0a4049c2119832dd0f04f9b4bcbcf7d" date="2022-05-19 11:02:34"/>
+		<rom name="S-M11.RAW" size="18098" crc="c42fb0be" md5="d05a0207984b636d923e130c35534efd" sha1="c191c0d89e5f50bb1be164f9ab576b30a281ee51" date="2022-05-19 11:02:34"/>
+		<rom name="S-M12.RAW" size="18098" crc="3cb22618" md5="bd05396eaac97b8b2112102d53ea27b6" sha1="921364b0b4167bca87224d330e3e4b6fef10c46b" date="2022-05-19 11:02:34"/>
+		<rom name="S-M13.RAW" size="18092" crc="5f722f58" md5="ec8cf9e46e7ed0b606c67fbd19c67eb8" sha1="3ac7e24a19beb98f821a8f26394a48782e7c2b23" date="2022-05-19 11:02:34"/>
+		<rom name="S-M14.RAW" size="18095" crc="1a206198" md5="51e7576945db1922d41d3363ab41e0eb" sha1="ae95ce86da52be8c2f9a14e11d1912e60757b241" date="2022-05-19 11:02:34"/>
+		<rom name="S-M15.RAW" size="18095" crc="a262b74d" md5="672676f4154d4bea4cfb7bf55b7db39d" sha1="63a268f8f75e42eee9e84c55dd48c5a469a056d8" date="2022-05-19 11:02:34"/>
+		<rom name="S-M16.RAW" size="18092" crc="c3927139" md5="bdc5c32386c65e1c1eb604b91fe19639" sha1="295cd68d2dbb2eb4610c3708d42652336dba3fce" date="2022-05-19 11:02:34"/>
+		<rom name="S-M17.RAW" size="18101" crc="736d446e" md5="7f83b8cf9a205e04365a579bdb6f394a" sha1="dfbc4f8d8b4d7848977e70d5c59bcf5acfb1503b" date="2022-05-19 11:02:34"/>
+		<rom name="S-M18.RAW" size="18098" crc="74b01589" md5="47bc0819a5f16d329ffa291d6a98c1ac" sha1="53e482dc9a86c4202ff043eb8f3c3845fe0bea58" date="2022-05-19 11:02:34"/>
+		<rom name="S-M19.RAW" size="18098" crc="192bdfb0" md5="2b0e9067957e74aebc7fa321a1e8bfb4" sha1="070cc446443f8e3e5f23424963e3ddccfca99dec" date="2022-05-19 11:02:34"/>
+		<rom name="S-M20.RAW" size="18098" crc="ede237e2" md5="ecfd09d505db0e4fb49a67fb094bea99" sha1="131f819d1223d3914ab7319eaaea7d92bc5cf0ef" date="2022-05-19 11:02:36"/>
+		<rom name="S-M21.RAW" size="18101" crc="8e59eb3a" md5="54b0505457de87c234bfa841d639fbc8" sha1="270ac67d3cc9543e457de1ee5a522db366fa9ef9" date="2022-05-19 11:02:36"/>
+		<rom name="S-M22.RAW" size="18101" crc="400e1d35" md5="756f9d90e44728290e354126c0ca90b3" sha1="dbcd52b363f542d6517a509b965e367cc5d628a0" date="2022-05-19 11:02:36"/>
+		<rom name="S-M23.RAW" size="18101" crc="88629b3c" md5="0a84efdc0349dde7c355f6b235c82714" sha1="1b4bfb74ca49c1df9e5be7658509ee9c88b1b941" date="2022-05-19 11:02:36"/>
+		<rom name="S-M24.RAW" size="18101" crc="769b221b" md5="ba0f9e5ce59b85e803be8755c7bcc84a" sha1="b346baca2834bcfcf1588e1802f7ebca883cacd3" date="2022-05-19 11:02:36"/>
+		<rom name="S-M25.RAW" size="18101" crc="065d807c" md5="410808f4a0aefc2fb700f675119b1166" sha1="5050a012dd64b5650d6d8ecf151675a6a8989aac" date="2022-05-19 11:02:36"/>
+		<rom name="S-M26.RAW" size="18101" crc="2b12811d" md5="b9585f04450611bc1f8528addb99337f" sha1="ad3e54f4bfa03b7409b6ca22e02123f203b6be3f" date="2022-05-19 11:02:36"/>
+		<rom name="S-M27.RAW" size="18095" crc="f6d05f4f" md5="a9afa26bb5570178d6bd9ecdd511c36a" sha1="abedf67648955de536f0ab13f320919245497fa4" date="2022-05-19 11:02:36"/>
+		<rom name="S-M28.RAW" size="18095" crc="54494c3e" md5="56edd14dbf6dfbd84f737a35614c9158" sha1="76b8e7b4a234444acf2235491a73f5119e45ea72" date="2022-05-19 11:02:36"/>
+		<rom name="S-M29.RAW" size="18101" crc="b8b6d42d" md5="0dd4b4f8c9b2d723c8c53815d2d6739b" sha1="d7a34cbaa13f5fba8b2a38d801f4e5db71319c90" date="2022-05-19 11:02:36"/>
+		<rom name="S-M30.RAW" size="18098" crc="6c445477" md5="dd00e54c54c5cba0aad065ebf6e827a1" sha1="14118354927acc5df4c4b0e8d177c73656ea0642" date="2022-05-19 11:02:36"/>
+		<rom name="S-M31.RAW" size="18095" crc="0c9900d4" md5="cb2e8483c349cc1f914a1eae61880ff9" sha1="4d835486d93599934eaba0f4f63429dcbec894c0" date="2022-05-19 11:02:36"/>
+		<rom name="S-M32.RAW" size="18095" crc="258b8c1b" md5="5cd7a167c32b6dfd2346a13638ad376a" sha1="95b573c06bd774d94c61723217331c175ce0a669" date="2022-05-19 11:02:36"/>
+		<rom name="S-M33.RAW" size="18098" crc="469f4583" md5="887c9a20d20943d614b1c1f9ad643316" sha1="d36c812b95ca5fbc6838d7d1e83d48d1e3b70504" date="2022-05-19 11:02:36"/>
+		<rom name="S-MAR.RAW" size="18092" crc="2b8c22e0" md5="eeb982170e2adaef96980e3495b56c80" sha1="388a677060196a78cf79b0842beb0c3343ac2e90" date="2022-05-19 11:02:36"/>
+		<rom name="S-SHO.RAW" size="18101" crc="98541c22" md5="246370dd3ba2d5ddd435dab67e8fbf7e" sha1="dbdc440a467eb8913ac5ed3d33ec963ef1221d1e" date="2022-05-19 11:02:36"/>
+		<rom name="S-TAV.RAW" size="18095" crc="96f5c263" md5="bc3717477db14e959e906d0590d6c4e9" sha1="fb7149a2a76bed950da7da9f84cad68b819c0ca3" date="2022-05-19 11:02:38"/>
+		<rom name="S-TEM.RAW" size="18089" crc="fa822aea" md5="002dec2cdd30e442f8654a19e86061ae" sha1="d7e3cf85a9df2e3c8f8f159cad5a55064641e46e" date="2022-05-19 11:02:38"/>
+		<rom name="S-TRE.RAW" size="18098" crc="4e9e6646" md5="5db7e11337f11197be5dbf6d7dafc304" sha1="c0440f7a88925ea738a723eeaf8aff4f66cd2564" date="2022-05-19 11:02:38"/>
+		<rom name="SAVEGAME/DIR.TXT" size="1" crc="2f6016f7" md5="bebe43a13d6320b4c6751958bf5398a7" sha1="ebdc2288a14298f5f7adf08e069b39fc42cbd909" date="2022-07-24 17:42:42"/>
+		<rom name="TREASURE.RAW" size="18098" crc="4e9e6646" md5="5db7e11337f11197be5dbf6d7dafc304" sha1="c0440f7a88925ea738a723eeaf8aff4f66cd2564" date="2022-05-19 11:02:38"/>
+		<rom name="wisdom1.DUN" size="4340" crc="93939717" md5="f734730bac6187da04cdefd0c00f7179" sha1="5cbafc3d34305fb385751fa8a1081b805b883721" date="2020-03-13 15:26:52"/>
+		<rom name="wisdom2.DUN" size="4340" crc="a76c8810" md5="53f092951caacaa6f9792b164bc07e48" sha1="6fc8961421a6f54178f091f3324c40f5fdbc34fa" date="2019-12-08 21:56:28"/>
+		<rom name="wisdom3.DUN" size="4340" crc="63e65c83" md5="bd9f1d314ceb75105c2c0cb71c658818" sha1="4f9cadce637648349ffe1eb708ce724a8e18b822" date="2020-03-13 21:49:54"/>
+		<rom name="wisdom4.DUN" size="4340" crc="b37281a3" md5="76ee155326f7f87b1ff79007de9388a6" sha1="250098feaf8a6788ca3f89ce4479e70bbbb6aa9a" date="2020-03-13 20:46:42"/>
 	</game>
 	<game name="God of Thunder (1994) (Adept).dosz">
 		<description>God of Thunder</description>
@@ -684,6 +1474,38 @@
 		<rom name="SYS/WINNER.GRH" size="32250" crc="8250e4f6" md5="ba9f7061170f182e1900b0a5fe8a2f27" sha1="5907c6c1f2c846899e5de42fbf097c33e282e9ab" date="1997-06-22 09:50:28"/>
 		<rom name="SYS/WORDS" size="8620" crc="f1b22423" md5="841189c521fac863e7eec8dd41603db0" sha1="02e28179e64a0c498c2a290adf70007e16119966" date="1995-08-22 03:38:10"/>
 	</game>
+	<game name="Loonies 8192 (2018) (thp).dosz">
+		<description>Loonies 8192</description>
+		<year>2018</year>
+		<developer>thp</developer>
+		<comment>Installed from Loonies 8192 r66 for DOS (32-bit). Matches TDC 22: Loonies 8192 (32-bit) r66 [FW] (2021)(Thomas Perl) [Action, Strategy]</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://thp.itch.io/loonies-8192</link>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2021-07-09 10:41:46"/>
+		<rom name="LOONXR66.EXE" size="943104" crc="96921355" md5="24fe7ffb3c1de1f4c4df6b44523e25e3" sha1="b48f3c3471372276923ca2548563f9f56af9b710" date="2021-07-09 10:41:46"/>
+		<rom name="README.TXT" size="5378" crc="dd90aece" md5="775f707f9d05f8968a859b8c90ca9ea2" sha1="7722b054ab793c27668bfa62b9a033807ae102e4" date="2021-07-09 10:41:46"/>
+	</game>
+	<game name="March Madness (2020) (Christopher Forlines).dosz">
+		<description>March Madness</description>
+		<year>2020</year>
+		<developer>Christopher Forlines</developer>
+		<comment>Installed from March Madness</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://4kbshort.itch.io/march-madness</link>
+		<rom name="cwsdpmi.exe" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2017-01-21 11:17:22"/>
+		<rom name="MARMAD.EXE" size="680968" crc="40117c0e" md5="2b770d360fe7dfdb2b6ca1abfc028243" sha1="49c09885df892f09d3edff0192f36d1a9e363f70" date="2020-04-05 20:51:58"/>
+		<rom name="ReadMe.txt" size="1632" crc="fc53af8c" md5="9275c71e29677b1417318e61d142d3f9" sha1="2ef9d099c03017e35b93adcb061ce72b2b84f408" date="2023-09-06 20:47:22"/>
+	</game>
+	<game name="Mop the Lawn (2020) (SuperLeaf 1995).dosz">
+		<description>Mop the Lawn</description>
+		<year>2020</year>
+		<developer>SuperLeaf 1995</developer>
+		<comment>Installed from MTL.EXE and 001.DAT</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://superleaf-1995.itch.io/mop-the-lawn</link>
+		<rom name="001.dat" size="192" crc="87960db2" md5="95a0a5a1ca36396a4836ab0ea3ecbcbe" sha1="503bf4628c9a54029a656a70e815a07d5216dd4b"/>
+		<rom name="MAIN.EXE" size="24619" crc="24894552" md5="00f8b06c2febc7a3d594e27943310a0d" sha1="f9af3f0972e825aefac4e67cd1d6d1c0902a1a8b"/>
+	</game>
 	<game name="NetHack (1987) (NetHack DevTeam).dosz">
 		<description>NetHack</description>
 		<year>1987</year>
@@ -704,6 +1526,129 @@
 		<rom name="record" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2023-02-15 22:45:26"/>
 		<rom name="symbols" size="17392" crc="85897b39" md5="369a624623b9501c4510de2c787e821d" sha1="49e051ef4939d3a862e57a86edcdba047e292ba2" date="2023-02-15 13:58:52"/>
 		<rom name="sysconf" size="3780" crc="6d25eeb2" md5="3a6dbb6257d4d915241b6b96e52e9cfa" sha1="4ea24c41271fd7bc7461b38acb46ee0cf26360ae" date="2023-02-15 13:58:52"/>
+	</game>
+	<game name="Neut Tower (2020) (Spindley Q Frog).dosz">
+		<description>Neut Tower</description>
+		<year>2020</year>
+		<developer>Spindley Q Frog</developer>
+		<comment>Installed from neut-tower-msdos.zip. Matches TDC 22: Neut Tower [SW] (2020)(SpindleyQ) [Strategy, Puzzle]</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://spindleyq.itch.io/neut-tower</link>
+		<rom name="adlib.c" size="786" crc="fcb9dce9" md5="6cad47b334f6c1179f14a3094ed2d07f" sha1="52d8ee86cf751033f628c8b7fedbea6fa4ef5ce6" date="2020-09-06 21:12:20"/>
+		<rom name="adlib.h" size="156" crc="8b0ed555" md5="9a813813712d1833e0416b2059eb0970" sha1="fcb69748881604b4bf2ad0a7c5584149ddac44f0" date="2020-09-06 21:12:20"/>
+		<rom name="bass1.sbi" size="52" crc="e86f4eed" md5="aaaf6aeeb0bfbe8b4c830a4816a75589" sha1="e302d425a7e67b3cf40baff5208c3f565f44adba" date="2020-09-06 21:12:20"/>
+		<rom name="bink.sbi" size="52" crc="3298b0a3" md5="181a9c9e0ef565fb17a6438cc78b125e" sha1="af81ca24d61a7fe3f9f51e238135f750a24b5150" date="2020-09-06 21:12:20"/>
+		<rom name="BOOT.JIM" size="1360" crc="11acc9c4" md5="32038cddec69ac99c9ce403824e90cc0" sha1="0e0d5427c55aa85623f12d576b86619d922445a1" date="2020-09-06 21:12:20"/>
+		<rom name="boot.jor" size="2795" crc="7d1d8870" md5="50e133d79b852fa504bfce59988b9fa2" sha1="8ee1f2af6241b96bb96eab1348409fd52c3274dc" date="2020-09-06 21:12:20"/>
+		<rom name="bosskey.bin" size="4000" crc="23ccdfe5" md5="7304b4216abb73bf7cfe663bed4b1b9a" sha1="a918b81405b5dee44ab434d3ca41442e99398d50" date="2020-09-06 21:12:20"/>
+		<rom name="catalog.exe" size="88654" crc="60cde7db" md5="6a5e98191ed1c66faacb9247e7c5db86" sha1="2f6b1a807c9d2e43ef5750a61857050541dac088" date="2020-09-06 21:12:20"/>
+		<rom name="cheat.jim" size="787" crc="7e5969cb" md5="a3b5b1fb2899244b6acaf62ee73a9091" sha1="95880aa8c7fbb6ca1c3b85196da33e4717751c77" date="2020-09-06 21:12:20"/>
+		<rom name="cheat.jor" size="1430" crc="8a459994" md5="7a7e8a55145583c8c88eba60bcc4826a" sha1="a2c5e6c315affb138def6944519a3356b9948a2b" date="2020-09-06 21:12:20"/>
+		<rom name="DEBUG.JIM" size="1431" crc="90cb2198" md5="7731398c2a3b696c52a683476591c5bb" sha1="8c829728d8415b29af22a35030bcaf4f81115976" date="2020-09-06 21:12:20"/>
+		<rom name="debug.jor" size="3207" crc="ffc01fe7" md5="8b26d59a76faeddb6da92bb9b1e1ce6e" sha1="51ffabe1d8be683a2d57f8b88d93b82f6b737470" date="2020-09-06 21:12:20"/>
+		<rom name="DEFS.JIM" size="2255" crc="1a6f2b20" md5="ebde00756513e4985ec81e0610b92db1" sha1="08ab600e4ccab39379de09d85d193d0e51cb8206" date="2020-09-06 21:12:20"/>
+		<rom name="defs.jor" size="4470" crc="cc1f8dfa" md5="7edac3e083726ee88e6c4ef5a99d9bbe" sha1="b7eb75aa56f6f82f1d759c961976b8f3f6084325" date="2020-09-06 21:12:20"/>
+		<rom name="dtext.c" size="515" crc="b92b2f19" md5="b518337451d3b3d75f3905038fb13f6b" sha1="0f7feda3da78841ddf38ec039a5cde62dfbf60a8" date="2020-09-06 21:12:20"/>
+		<rom name="dtext.h" size="360" crc="6bd74bc6" md5="cb59870b7c02bcd07cbac9ccbaa90def" sha1="c3498d8ddfce2d1b2cf104d3f8b072a44bc05def" date="2020-09-06 21:12:20"/>
+		<rom name="egamap.h" size="495" crc="d94a3798" md5="4fb0bc95dc1141bca5e6f3cb35c77bd1" sha1="0b2a1333c1aa5a1d9aa6c8c7eb0660621bdd2cc1" date="2020-09-06 21:12:20"/>
+		<rom name="egavga.bgi" size="5554" crc="116c5498" md5="225154e1af01ecefcfe83c66cc206cd1" sha1="682a4d2267b29b8e71f09cbee260fb6b0cd9606a" date="2020-09-06 21:12:20"/>
+		<rom name="END.JIM" size="456" crc="cea2a192" md5="c1d8e3abcc4ff4ef4930f0b995253e81" sha1="f9367bad53e1c2c05185db5dc6fa1f30d7d4188b" date="2020-09-06 21:12:20"/>
+		<rom name="end.jor" size="668" crc="740892dd" md5="ab7ff9daac12d8d34bd43470c29331f9" sha1="774b99c6a2bc2a7af6fb7c75dd2ef340497ef32c" date="2020-09-06 21:12:20"/>
+		<rom name="end.map" size="264" crc="1e855467" md5="cc5b3ad32a97cba308bd036a9b06d1e5" sha1="559db426ac6a6f5068dbbcd2cd969b928984797b" date="2020-09-06 21:12:20"/>
+		<rom name="endep1.gfx" size="32000" crc="5de1dac4" md5="c06fcc210cf57bdd85952443dfd10a3e" sha1="40db924ba7f9fee59e1ff09be7eac942aa2a6145" date="2020-09-06 21:12:20"/>
+		<rom name="endep1.tif" size="32396" crc="e847a507" md5="744aa3c893cb46552b290f257afd6eb8" sha1="fe0e156d9a86fee4290841e4ac71980cebaf56b9" date="2020-09-06 21:12:20"/>
+		<rom name="ENTITY.JIM" size="1698" crc="a779d095" md5="5ce841264b9ef5755aaad4842ac8124f" sha1="390209cced80c3c2aaa7627f9c9e376159f90081" date="2020-09-06 21:12:20"/>
+		<rom name="entity.jor" size="3185" crc="87788583" md5="abdeb15fcb522a3ed9e3596412e855ca" sha1="181697f5eb4835aec8ab97aa12f2d64d81a817e9" date="2020-09-06 21:12:20"/>
+		<rom name="fakelib.c" size="1292" crc="857dd1aa" md5="cba50964fb014f6362489ef293502377" sha1="b62155d4aa147f84229e0ca57ffb03c5ad81bc60" date="2020-09-06 21:12:20"/>
+		<rom name="fakelib.h" size="83" crc="f1f4921e" md5="54f689418ae9ebd732b4f092218da5ee" sha1="6f542cecb1ed7303a048c32999bae0eab42b689a" date="2020-09-06 21:12:20"/>
+		<rom name="FOOTER.JIM" size="1833" crc="e8526696" md5="b1aa14025fa6663a4a72966fb6bf9f5c" sha1="79610df791840f4a7e350a210bbf73574842ca70" date="2020-09-06 21:12:20"/>
+		<rom name="footer.jor" size="3232" crc="e5255da1" md5="a402067575a27dd0f19b712ba4abb0c4" sha1="f2305f48f3778a1db10593553e716823434d3e4b" date="2020-09-06 21:12:20"/>
+		<rom name="footer.tif" size="8076" crc="65e1b360" md5="9d2fd071a1599a7c5b69071894b4b672" sha1="f95c9d67e7d1b67c3a79643f01850532a0ee552c" date="2020-09-06 21:12:20"/>
+		<rom name="footer2.tif" size="8076" crc="3dc68a61" md5="66dabebc7d2639b6e9c978dbb000ea5b" sha1="848b96cbd61377b1ea39337a8517ca4cf12ba52c" date="2020-09-06 21:12:20"/>
+		<rom name="GAME.JIM" size="5891" crc="5deafcd5" md5="92303eb333874356d6f6663fdb8e20a2" sha1="82ba1788ee14c7eb81a521d748676ac91ab3a46c" date="2020-09-06 21:12:20"/>
+		<rom name="game.jor" size="14762" crc="92c51eae" md5="16cb844a68a009d750fbe4bb062d19e0" sha1="1afc54a0cb6446c22482323d126f62c7ed65d531" date="2020-09-06 21:12:20"/>
+		<rom name="GAME.LOG" size="224" crc="f9c85431" md5="e93cf39830a34b6e3c911affcfefb984" sha1="66e049e4c12e5c0b30163d0aa16ce19199fd511b" date="2020-09-06 21:12:20"/>
+		<rom name="gameboot.jor" size="705" crc="d4276ef0" md5="0f9322f7af3cbac975a931c5e7ee79c8" sha1="ed393b4c170cf2c160524b725926c73320ee8e86" date="2020-09-06 21:12:20"/>
+		<rom name="garbage.sbi" size="52" crc="e6e603c1" md5="b377c4faffd75f1ab84b9a9a3bcc79fb" sha1="e5ba5206786bcd39365d9ab87ada3a70a5468901" date="2020-09-06 21:12:20"/>
+		<rom name="help.gfx" size="32000" crc="858a6426" md5="01e929ecd95d0d7edf53cae1e4e6b2c5" sha1="370d1aec4e4bda7047cd4a9cff136904e679d2aa" date="2020-09-06 21:12:20"/>
+		<rom name="help.tif" size="32396" crc="e997c823" md5="2b955fe91d287d48fb594a244f329ddb" sha1="934f48472f467b84c6eeb0b6d75af597504a5372" date="2020-09-06 21:12:20"/>
+		<rom name="INPUT.JIM" size="532" crc="716d9988" md5="98a7f84f582b02c5bf6e32741d55440b" sha1="b35945e3f18f87416e9f74248b97c63e9c86a988" date="2020-09-06 21:12:20"/>
+		<rom name="input.jor" size="893" crc="5706c01d" md5="0aa0f86257ee13d0993f1ba1d1bc8a20" sha1="30a6c9bb0f562407220d84a5fd0220a72c7353ea" date="2020-09-06 21:12:20"/>
+		<rom name="jazz2.sbi" size="52" crc="8c0d83be" md5="802f2869a8660964d3d5eb6b356c4224" sha1="dfd734b6ad3e17beca7ddbd5e18e2bd562aff61b" date="2020-09-06 21:12:20"/>
+		<rom name="jazzbass.sbi" size="52" crc="3d78526b" md5="012b98cbdc18a9ba570ebfb95b0ddcd8" sha1="efabc55214b942e5601b9c947fda3f0019e825c2" date="2020-09-06 21:12:20"/>
+		<rom name="JILES.JIM" size="1648" crc="18ec065c" md5="5dcbdd7123599faa3a0e0c19b6860335" sha1="bfaee17fac6d9fcc3fc3305e56459e450dd05af5" date="2020-09-06 21:12:20"/>
+		<rom name="jiles.jor" size="3317" crc="30f4c6d4" md5="89cafa40f01ff382cde935081fd1e3d4" sha1="7318e5ed78e8e674df86b622106d01abf73ed12e" date="2020-09-06 21:12:20"/>
+		<rom name="JOB.JIM" size="1113" crc="84a0904b" md5="ff52f1113011c105ce1c7c3780b85e5b" sha1="3cd515635f1925bd054373f40c9725da3f80b105" date="2020-09-06 21:12:20"/>
+		<rom name="job.jor" size="2160" crc="75359bc4" md5="6952ecce43d13ae323922e48beb485bb" sha1="7dd47754e24ff11a84e16edd14f9b301a45a8b94" date="2020-09-06 21:12:20"/>
+		<rom name="jopl.c" size="3614" crc="4aa8db5f" md5="1230919991ac877199b33f23ce277591" sha1="fb9d63b2c2c13805a22c8374d91bb547925310ea" date="2020-09-06 21:12:20"/>
+		<rom name="jopl.exe" size="87686" crc="75004f66" md5="f3d4d9609093e668c204f04c9ee9e3ad" sha1="b90b0195f513e853f1f05fe8408a6675f2c7da3f" date="2020-09-06 21:12:20"/>
+		<rom name="jopl.jor" size="13881" crc="b7933aa2" md5="3aab2615f05b0e14ef6d2a6675c5d8ca" sha1="57ff13797860b0f51a3505f272208d90d2a0f4d8" date="2020-09-06 21:12:20"/>
+		<rom name="jopl.prj" size="4842" crc="530424d2" md5="945119a805965f3d13c709ac53b813b7" sha1="416b1d65bbcfd223b6a34ff7bd165cff6e96a58f" date="2020-09-06 21:12:20"/>
+		<rom name="jorth.c" size="23297" crc="1a15e0e3" md5="8178b3cba897751681539fe07c5083bd" sha1="7fc56a5ef5e6f01d4886439be81b8edeff94da45" date="2020-09-06 21:12:20"/>
+		<rom name="jorth.h" size="1534" crc="81f3a7cf" md5="55184b4134bd840dd2bc352dd3d6fff4" sha1="3bd005e90f735862c9ceb86ae219cb18294c92d0" date="2020-09-06 21:12:20"/>
+		<rom name="kbd.c" size="1891" crc="13183857" md5="06e354acdd5b6d241e14d217e018a534" sha1="88618a8da2e3c0c171b57ec188066bf9bc0ec6ff" date="2020-09-06 21:12:20"/>
+		<rom name="kbd.h" size="2143" crc="c0e53676" md5="37cb0bc0d7a200a980ec67d018c62213" sha1="fc62cf2db70f72c925a9ed2f33c658c02630f244" date="2020-09-06 21:12:20"/>
+		<rom name="LEV00001.JIM" size="1076" crc="acd5f6b9" md5="32e61e72d802c93194fa258670b5ed55" sha1="3469a96bba577b3886de4159fe237152abc5fbf9" date="2020-09-06 21:12:20"/>
+		<rom name="lev00001.jor" size="1782" crc="ee99ea17" md5="d6009c7d885fc4badb6ae584b7a1342b" sha1="831770d57cdf7419f369d712df6d2aa69e105b0b" date="2020-09-06 21:12:20"/>
+		<rom name="lev00001.map" size="264" crc="b7154273" md5="96da17f58b3ef84bdaa9e5852a425318" sha1="f697e633e6a6c5dfe52ce4ddcf4a1910be0110f3" date="2020-09-06 21:12:20"/>
+		<rom name="LEV00002.JIM" size="1123" crc="416aa084" md5="186ebde196209ad71cf64c0db3acd319" sha1="a3e04440cec135b792a86c5f3f771eda5bf4c540" date="2020-09-06 21:12:20"/>
+		<rom name="lev00002.jor" size="1236" crc="3d5fed59" md5="9913d900ebc37b4d749697eb3abf8ed2" sha1="a8c7a433535914c72eea30edac1832c89d5ee03d" date="2020-09-06 21:12:20"/>
+		<rom name="lev00002.map" size="264" crc="ac99ca51" md5="4911487fc0d137e72218e01912d103a3" sha1="9ac0604f82ecd67e6681083e59c2ef9a52db675d" date="2020-09-06 21:12:20"/>
+		<rom name="LEV00003.JIM" size="2333" crc="9371118a" md5="4d1d9e0d5c6e7d607c9972cdb278394b" sha1="400322d372c7e0fb76a9cd77f0f055e496435250" date="2020-09-06 21:12:20"/>
+		<rom name="lev00003.jor" size="3520" crc="f01f3c93" md5="dd9e72d00f8da8d961f9f4448bf90083" sha1="a91b87f1106a625f3899c7726f0375ba071b4fed" date="2020-09-06 21:12:20"/>
+		<rom name="lev00003.map" size="264" crc="01495326" md5="c62319c0e9fb05f51e39bd544642e651" sha1="20724322c997b39f312448439076a4ef5821f454" date="2020-09-06 21:12:20"/>
+		<rom name="LEV00004.JIM" size="655" crc="b65a0a58" md5="b8d7de64e6c46b9ed264d22b2ed0cb74" sha1="e3677bad1826196bb09a2e5559d417ce86b3cbe1" date="2020-09-06 21:12:20"/>
+		<rom name="lev00004.jor" size="826" crc="8dc36457" md5="df7dedbabb6c020fba13c8f67e9cfe11" sha1="34629a346e63a8e7ad12cd94651a1b7c0e9080f1" date="2020-09-06 21:12:20"/>
+		<rom name="lev00004.map" size="264" crc="8e71a0f1" md5="dbe07c4833565bee43b9cc5b9bf30fad" sha1="0b40f0b2c1409732031d815268f982d572f1281b" date="2020-09-06 21:12:20"/>
+		<rom name="LEV00005.JIM" size="1791" crc="7811576d" md5="3dfedeb3cf621a7533e127832a1a4122" sha1="6b9602337f1cf59dd040bb944bc835b8d2ce3e8e" date="2020-09-06 21:12:20"/>
+		<rom name="lev00005.jor" size="3261" crc="b56f3cf2" md5="991784154f155d8d309f35fdcf0f2172" sha1="1b3eb6a0a517cfc2127410039199c629c1549d47" date="2020-09-06 21:12:20"/>
+		<rom name="lev00005.map" size="264" crc="be24cb21" md5="f1049648d45b13d04cb0360474e0ecf2" sha1="6336832a4f1672928e3e6db7ade60b866df9a56c" date="2020-09-06 21:12:20"/>
+		<rom name="LEV00006.JIM" size="6807" crc="1f82dcab" md5="a182bb488c1f92f7bb5bae2750bbde25" sha1="8f5de7366a779681ae239cc459582f707cab5b43" date="2020-09-06 21:12:20"/>
+		<rom name="lev00006.jor" size="9430" crc="1fb391b7" md5="715b37ac11c4253e15d19d29fbcc8ba9" sha1="a2c3866ff8a6e8119633c905c1ec04080e81d269" date="2020-09-06 21:12:20"/>
+		<rom name="lev00006.map" size="264" crc="c35ba8a3" md5="a435a17b27c4d8fc6c4350f715c4a955" sha1="cc98a375ca0d4456d6c03532eb4820e7290e2885" date="2020-09-06 21:12:20"/>
+		<rom name="LEVEL.JIM" size="517" crc="f3e74d5d" md5="5c73052a3c6b395c6d0039f14f9c0d9d" sha1="00e85eb02cc6f1aed305ed72d23bcb82398c9e2f" date="2020-09-06 21:12:20"/>
+		<rom name="level.jor" size="975" crc="dc03e735" md5="eb61d928c72739c8abea0f6a11f16b54" sha1="7be6a204523c6817bee2a646c99dab9b94ec07a2" date="2020-09-06 21:12:20"/>
+		<rom name="MAP.JIM" size="1160" crc="bf291676" md5="b33b50b5096cc28dc17e0d3533db9fea" sha1="204b97b4ddced5f605eb8547f2c878ece461b938" date="2020-09-06 21:12:20"/>
+		<rom name="map.jor" size="3289" crc="e70a0080" md5="0fe20e4c80c47f02a8e5e54a27e1c61f" sha1="15b010e96bd6314d39783002e5318431aac3df33" date="2020-09-06 21:12:20"/>
+		<rom name="mouse.c" size="901" crc="b9ebbd78" md5="916bd050f1b492e8dca9cb6a33943fbf" sha1="ad82d286f2df80a54b47943cbffe3482e4f0d482" date="2020-09-06 21:12:20"/>
+		<rom name="mouse.h" size="265" crc="8c31a5ae" md5="f70eca3add07dc004ce173905ad7cd85" sha1="1fde62442cc8b9e2bbd2ba059f95cb354acbf90e" date="2020-09-06 21:12:20"/>
+		<rom name="neutnag.bin" size="4000" crc="1f9323f9" md5="3efe78ba09e13a97d362a8ce6e3da2ed" sha1="e3af763c1a6acd951eb9030d7d687cc51eb9f308" date="2020-09-06 21:12:20"/>
+		<rom name="neuttowr.exe" size="140603" crc="f74163dc" md5="260060474287e04d67f8fbef8144ef09" sha1="ede4476a412d13a884e6f39f6cbc2df614c39c7b" date="2020-09-06 21:12:20"/>
+		<rom name="neuttowr.prj" size="5981" crc="6932a06f" md5="9aa69f48256e495520c3e3abeb5c40b5" sha1="cc9ff5c0b26f830ff9decdfaf33ebc3f76888029" date="2020-09-06 21:12:20"/>
+		<rom name="newbass.sbi" size="52" crc="ee34769b" md5="ea7e3310c38211a082a4de53b419ea29" sha1="9e6f3ea18194bb798a5a64f2effdf3c3001f02cc" date="2020-09-06 21:12:20"/>
+		<rom name="ntiles.gfx" size="8192" crc="7a5063ff" md5="2ab3d4c5b13f1e48b7fc9aa22a0e5141" sha1="dd7c25d9f03253e2186eba53460ce946b7d542e6" date="2020-09-06 21:12:20"/>
+		<rom name="ntiles.tif" size="4078" crc="205204cf" md5="a12fcf88085cea487dd9d09f424a3869" sha1="b257f5b64832d44ff194a7629585d3dfb6fb25c4" date="2020-09-06 21:12:20"/>
+		<rom name="portrait.gfx" size="8192" crc="2bd60940" md5="db1fed037a0b25794be742415e61bc55" sha1="ff4ca9c8c5e33058dbef7f2b05003f5a7ab7db45" date="2020-09-06 21:12:20"/>
+		<rom name="portrait.tif" size="7955" crc="0ec39967" md5="8cd7e01b432da0915d3f17ceccc99e7e" sha1="12f39058a82cd625d9eafc2f539b8021b20a9524" date="2020-09-06 21:12:20"/>
+		<rom name="repl.jor" size="176" crc="ddf55ae4" md5="9d31c3162f4329dfcf34c8bc460ee7c5" sha1="8a5f884bed8fdc560a1a465cefb235c8da880029" date="2020-09-06 21:12:20"/>
+		<rom name="SAVE.SAV" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-09-06 21:12:20"/>
+		<rom name="serial.c" size="2470" crc="a9e80cce" md5="32a9a8551987a8d112134edb91d2f563" sha1="d1961a621c302b76649755b8feb17503c12dc9a4" date="2020-09-06 21:12:20"/>
+		<rom name="serial.h" size="692" crc="e5ac06aa" md5="3360fe8ae5b74f786784f1cd8b6f2ff6" sha1="42a9f4506db60879a6bc4bf600aa43ff1dbf8f05" date="2020-09-06 21:12:20"/>
+		<rom name="SOUND.JIM" size="2118" crc="dcd5664e" md5="ffdf37ba2833395d483297710436d302" sha1="4f78a7b82842205b5df5fcf7f0ec36a3de549054" date="2020-09-06 21:12:20"/>
+		<rom name="sound.jor" size="3175" crc="35ac9afd" md5="63a175a2d626b58749866c2e7d775cf8" sha1="a8315b7999bf150d837db9ad901a20227cdc947f" date="2020-09-06 21:12:20"/>
+		<rom name="sprite.gfx" size="10240" crc="f8e21c47" md5="193c3575e5fdb1ad34b8ed451714faad" sha1="05a483df89ead1d9d25d1b2d683478d2814d6ae2" date="2020-09-06 21:12:20"/>
+		<rom name="sprite.tif" size="7918" crc="32904e5b" md5="952b79f10a3a801f0cde2e0ee7d833f3" sha1="a7eac38ea728cafd9de38967f41cb06c32126fb6" date="2020-09-06 21:12:20"/>
+		<rom name="start.jor" size="447" crc="6b279a95" md5="0b314b78b26af0f5b0aa856dff1e5c64" sha1="5e8b5e1dc9dab5c690719f3ec3c5387e4d74ba6d" date="2020-09-06 21:12:20"/>
+		<rom name="STATE.JIM" size="271" crc="85b48b60" md5="0dc9f5a36c1e21cd09b479a01df150bd" sha1="526d5d7b766ab4b33d006c335d34155f3f827a25" date="2020-09-06 21:12:20"/>
+		<rom name="state.jor" size="489" crc="cae5ff6e" md5="eaa4397fd5073ce46392776a555662f9" sha1="c9127902ea2f3a9bf3fd91fcc5d1fc9f1fb64a44" date="2020-09-06 21:12:20"/>
+		<rom name="template.map" size="264" crc="4be4014f" md5="80fc482b0c4bf4b58de3d89acf3cdbc7" sha1="0cead423b64105f102f3aa4f3794b7aa4689e30b" date="2020-09-06 21:12:20"/>
+		<rom name="testbed.c" size="20821" crc="0ea05463" md5="df400214eb80f540501747e810c316ef" sha1="709884626216589c26b40c97d35eb73e49dab1f4" date="2020-09-06 21:12:20"/>
+		<rom name="tiff.c" size="5302" crc="ad8d585c" md5="620fb19c7001f5a8f8012f24b474fa6e" sha1="c257e4b808377a25970678da82fe3e8588e7aeec" date="2020-09-06 21:12:20"/>
+		<rom name="tiff.h" size="487" crc="83f29e23" md5="0af732599d4673cd07796397817f7a23" sha1="9a22d05fe8a7941c1ffe4b17ff247e648df3b14b" date="2020-09-06 21:12:20"/>
+		<rom name="tiles.c" size="10226" crc="c9222243" md5="c9fb4e5f202847fc994088b0f607cdd4" sha1="f3f1bbe1845aef0652ff85fcbcb178fa85c0c45d" date="2020-09-06 21:12:20"/>
+		<rom name="tiles.gfx" size="8192" crc="dd541984" md5="8f7ee1d317dc1bbdfeea8461e76b23c7" sha1="f132ae2c184a784997a41a96c32ac5c021148beb" date="2020-09-06 21:12:20"/>
+		<rom name="tiles.h" size="1466" crc="68be28d3" md5="2f87bf9cac1355eeace4df5424034a1d" sha1="03bfa5786f34c36c37d6c1838f536be53f1d0ce6" date="2020-09-06 21:12:20"/>
+		<rom name="tiles.tif" size="4078" crc="307c335e" md5="4587a791b9825b1133724a85d4409e01" sha1="55dbd496d2d334c870bb4d5f4e71e881f352e191" date="2020-09-06 21:12:20"/>
+		<rom name="timer.c" size="973" crc="ddee5424" md5="b5a693f83adb6eb8d49559304157b070" sha1="5ef176b9a507d7a39a674ae2388e484ccb6bf794" date="2020-09-06 21:12:20"/>
+		<rom name="timer.h" size="327" crc="82b733bc" md5="ede52d272e6c6f2b64d5b863cb8e32f2" sha1="8984e32fd91a0a9192de6616daa4cad15d664c73" date="2020-09-06 21:12:20"/>
+		<rom name="TIMER.JIM" size="453" crc="da3fe8a5" md5="e317edc9cea6dca0d948c425a4b6428b" sha1="09eeafd2a953b9182cf884c0d3ad5ab32464cf42" date="2020-09-06 21:12:20"/>
+		<rom name="timer.jor" size="1228" crc="9a8cd0b8" md5="6515f3ce54cd7c62c0372bbc6dd006b6" sha1="ac5c86e1c401488093f8c22aa05290295fce6f2a" date="2020-09-06 21:12:20"/>
+		<rom name="title.gfx" size="32000" crc="5c9303ef" md5="e8ccf44eb7ebbbf40cc727b179bcf545" sha1="e22a3f4df0ddc36ec2bd9f2828e824b0ebad7df3" date="2020-09-06 21:12:20"/>
+		<rom name="TITLE.JIM" size="1248" crc="4b63b406" md5="1ebf263855abaa538b4fd6febb2d031d" sha1="7a31e06052a4c233fdf2c1ea746ef338763fc3e9" date="2020-09-06 21:12:20"/>
+		<rom name="title.jor" size="2242" crc="b1d17523" md5="63117317e45d3fef682fdbd979504ab8" sha1="b14030a606d1e033acb1e792cc718496fbb26e73" date="2020-09-06 21:12:20"/>
+		<rom name="title.tif" size="32396" crc="54426b07" md5="b0ee27d99217f53a3837abfde305b107" sha1="847b13bb611eb5c3dcee8f40e298d70b3010224d" date="2020-09-06 21:12:20"/>
+		<rom name="video.c" size="796" crc="75ead2ab" md5="d5f5f8fe8884291d0f23475b929c978a" sha1="2a391a70f72993bc7216e5c8ac030f20138427f5" date="2020-09-06 21:12:20"/>
+		<rom name="video.h" size="1172" crc="7bf1d4ce" md5="94627727111b16bb1a491b3d62680487" sha1="ab28bd420268c0a608ea6b0ecfef0facef292e2a" date="2020-09-06 21:12:20"/>
 	</game>
 	<game name="Noctis IV Plus (2001) (Alessandro Ghignola).dosz">
 		<description>Noctis IV Plus</description>
@@ -906,6 +1851,62 @@
 		<rom name="OS2LARN.EXE" size="166843" crc="c7780b5a" md5="f8d1dcc2648f7d9369e9f9bec9edf8b2" sha1="9b5533f46c0501181d4e1876cc06e181d6699f56" date="1991-09-10 22:53:12"/>
 		<rom name="TERMCAP" size="441" crc="2ca1aed8" md5="e7e893d9206900c18b7385fa17b11a04" sha1="7552ebcc22d47b96a8034831e01f1d1698c0c2d2" date="1991-09-10 22:53:20"/>
 	</game>
+	<game name="Post Apocalyptic Petra (2020) (Bad Sector).dosz">
+		<description>Post Apocalyptic Petra</description>
+		<year>2020</year>
+		<developer>Bad Sector</developer>
+		<comment>Installed from Petra099o.zip (DOS and Windows versions).</comment>
+		<comment_dosc>Auto start, options to change config and view README</comment_dosc>
+		<link type="freeware">https://bad-sector.itch.io/post-apocalyptic-petra</link>
+		<rom name="cfgmain.exe" size="108544" crc="f77bb219" md5="171816ec3eb93b5f424f5a9739829a1c" sha1="8803f006b15d45ce76c4babdcfe751b9c80b0de6" date="2022-06-02 01:56:24"/>
+		<rom name="config.bat" size="338" crc="a5641428" md5="16576778d575c4a8a803c5583b05505c" sha1="769ac00076a79f528ec2619d958a3ac7b359962c" date="2020-05-10 09:22:50"/>
+		<rom name="cwsdpmi.exe" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2017-10-08 22:48:14"/>
+		<rom name="d3dpetra.exe" size="344868" crc="64441ce2" md5="0c365a573992b14ed888519763caa9b9" sha1="4664c85a28d2f52b8838bbe176dbf8fc641a7ff5" date="2022-06-02 01:56:20"/>
+		<rom name="data.pak" size="1473394" crc="d3d75e65" md5="f147694751809e0937e543e11bf7c4ed" sha1="2b5522af25ae0e9d1643f114c752e8e0754b1eab" date="2022-06-02 02:17:34"/>
+		<rom name="descript.ion" size="870" crc="16797c99" md5="79be4fe6c92e61995f8964e8cdb6746a" sha1="bf1cf145125fee2347c9078b04d4338e31c5ee97" date="2022-06-02 02:20:02"/>
+		<rom name="dirinfo" size="221" crc="27f636ef" md5="969843cc663036f0f4917cb2c5a4fb1e" sha1="f0fe5a44636f3387efb74fbae5c52385d8269c03" date="2022-06-02 02:14:28"/>
+		<rom name="gdipetra.exe" size="343332" crc="6cf85041" md5="4f1806f1bb10bb696d928d0399e501cf" sha1="c627eebbe100a3e42a7c11601eab85a557145379" date="2022-06-02 01:56:28"/>
+		<rom name="glpetra.exe" size="354596" crc="8ffd31cb" md5="7aa2e11f0814cb92215ed44a47bfdba6" sha1="9bd53c94d86ac40955ee1f9778f0fd4d0a659934" date="2022-06-02 01:56:42"/>
+		<rom name="palcache.dat" size="196665" crc="c1b0963f" md5="2ee0fc45899fc0fe141a5c084e3bc1ad" sha1="c5640513aea9c11d1278d10807683cea5478a0d3" date="2021-06-09 16:50:08"/>
+		<rom name="petra.exe" size="377856" crc="01b24193" md5="11193152cc0810653b83d44f88d8ed87" sha1="40c0ec28e465ef4fdc871865716f2ecd17dcc6e0" date="2022-06-02 01:56:24"/>
+		<rom name="READ-SDL.txt" size="438" crc="f0b47880" md5="fae21a9827f299a3d63e93f0f41c2a04" sha1="ef471f5b093beb18a0a37618f7876d7ec5ae7799" date="2007-07-20 10:25:30"/>
+		<rom name="readme.bat" size="20" crc="80fab0a4" md5="134306eff255da66862e576d89bafd65" sha1="b6fc09b8ebca17e145f3182b99e2722738267ffb" date="2020-09-27 12:31:50"/>
+		<rom name="readme.txt" size="8116" crc="9d2d5f5a" md5="398e85d2f1c481d716b3c1e26b6706b2" sha1="62253abba1f28988d97e9da15f06a76724f4a317" date="2022-06-02 02:15:56"/>
+		<rom name="SDL.dll" size="303616" crc="6f1c3c59" md5="3ea7829589775f17f3b2bd13c646d2f7" sha1="2f49dc36198c2db24293ec5b677340a159962438" date="2012-01-15 19:49:48"/>
+		<rom name="sdlpetra.exe" size="339236" crc="730d2a33" md5="ac4388a48d35d108376223eab0490859" sha1="6721d55d0dd54d50a12b6b5c9753fb06cabd97d6" date="2022-06-02 01:56:38"/>
+		<rom name="sglpetra.exe" size="348964" crc="351e9cd7" md5="fcd63d20179df63655a29de9e32fd74c" sha1="6776654ea054bcbe859235ca11c185a40a28d01c" date="2022-06-02 01:56:38"/>
+		<rom name="User/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2021-09-27 16:08:20"/>
+		<rom name="User/pool.map" size="4593" crc="31e3137a" md5="d72872684b275cc73b7adc845dfd8a85" sha1="5118deec32611df1ccd54352b2ebae1fbadef792" date="2020-05-10 07:01:18"/>
+		<rom name="User/pool.txt" size="1691" crc="5952885b" md5="3fe679ada6af3c05469985a8dfbc893b" sha1="b0c84fca79d099d0aff1b49dc88c4ccc1555a1c1" date="2020-05-10 08:17:58"/>
+		<rom name="User/somemap.map" size="19822" crc="d045c9f2" md5="9777005f06709db50cd400cc0aa082ec" sha1="0f0d148a59cd325c82dfb6f232532a55ac5fb7dc" date="2021-07-01 12:01:04"/>
+		<rom name="wincfg.exe" size="120100" crc="9fd22bc5" md5="56d5a7d2332d8740e7616088ac56f35c" sha1="e6dba283b8e4ff40c22e5066cd0a33cc3b983c13" date="2022-06-02 01:56:44"/>
+		<rom name="winpetra.exe" size="343332" crc="7f22b064" md5="25e119f9de76a10267f3c92cae3c97da" sha1="4838f7e2a03d440ad22a7023c7d920b15aaa0d6a" date="2022-06-02 01:56:44"/>
+	</game>
+	<game name="RetroFuel (2020) (Coconut Pizza).dosz">
+		<description>RetroFuel</description>
+		<year>2020</year>
+		<developer>Coconut Pizza</developer>
+		<comment>Installed from fuel-v0.2.zip. Matches TDC 22: RetroFuel v0.2 [FW] (2021)(Coconut Pizza) [Action, Racing - Driving]</comment>
+		<comment_dosc>Auto start, cpu_cycles set to 20000</comment_dosc>
+		<link type="freeware">https://coconutpizza.itch.io/retrofuel</link>
+		<rom name="FUEL.DAT" size="312136" crc="e0c5bfeb" md5="5dbb1e04d74752fde2f800d184fdd3fd" sha1="31f5658b5582587c3a64aac251a845e793a396e7" date="2020-11-13 01:02:56"/>
+		<rom name="fuel.exe" size="197120" crc="151f2070" md5="8ad5ea5570442ede7a1887205002ba3f" sha1="b166d546b457b9314868c5e4ec30e31efc5fa03f" date="2021-06-14 15:23:12"/>
+		<rom name="HDPMI32.EXE" size="35848" crc="c29d7dd7" md5="79b2e2865fe15958ff37ac7f0f81f258" sha1="04a29b36c57143ff19c7d4ce7f70e63bc3aad5df" date="2013-10-11 16:16:40"/>
+		<rom name="INSTS.DAT" size="8448" crc="a1e01b9e" md5="79c80f4956c0ddba057f5e8e80143cc1" sha1="aa96d5accfc8b58e715627d53b052e9f69f8449a" date="1995-10-20 13:48:02"/>
+		<rom name="play.bat" size="23" crc="21a3a913" md5="c30a170a8599e9f6181447104db12ab8" sha1="2c898902152905cce921bac1b7ccb518e5602589" date="2021-06-14 10:25:56"/>
+	</game>
+	<game name="Rossies Classic (2020) (Stormplay).dosz">
+		<description>Rossies Classic</description>
+		<year>2020</year>
+		<developer>Stormplay</developer>
+		<comment>Installed from Rossies Classic - DOS</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://stormplay.itch.io/rossies-classic</link>
+		<rom name="cwsdpmi.exe" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2017-01-21 02:17:22"/>
+		<rom name="RCLASSIC.EXE" size="1140232" crc="c843ae42" md5="c9d340295f1eb8ca0198ad06f99b7867" sha1="0d7e3f6421fe51be69e1c52dd22bf0a1dbce1638" date="2020-05-12 05:36:12"/>
+		<rom name="readiz.txt" size="1166" crc="b1ed054d" md5="615483110d966e6188832db7bbb9e6ec" sha1="d9f9a1c1bf2840d56068bf48d3334e665cf4247f" date="2020-05-12 05:42:56"/>
+		<rom name="readme.txt" size="1112" crc="3a34a1bf" md5="f9f247b7541a38e4cfde9ba8a7da7421" sha1="6dacdaab4a526f77bae8473736d358f4b03359c9" date="2020-05-12 05:43:20"/>
+	</game>
 	<game name="Sorry Ass (2016) (VileR).dosz">
 		<description>Sorry Ass</description>
 		<comment>Matches with TDC entry: Sorry Ass [FW] (2016)(VileR) [Action]</comment>
@@ -944,6 +1945,27 @@
 		<rom name="VOL.1" size="589286" crc="8dd300e6" md5="3b429034879351d4158380bbbd6bc9e6" sha1="95a2b6352eda9dc99496e1b25736f42d7d69f38e" date="2001-07-18 15:30:14"/>
 		<rom name="WORDS.TOK" size="3429" crc="73a90362" md5="9501d58f5f329c2515f16656649214e0" sha1="20806494e9ba69a9a0939d34916e596af69635e7" date="2001-04-10 11:09:10"/>
 	</game>
+	<game name="StellarRoads (2020) (Raphael Assenat).dosz">
+		<description>StellarRoads</description>
+		<year>2020</year>
+		<developer>Raphael Assenat</developer>
+		<comment>Installed from Version 0.6 (DOS). Matches TDC 22: StellarRoads (demo) v0.6 [FW] (2020)(Raphaël Assenat) [Action]</comment>
+		<comment_dosc>Auto start (in VGA mode)</comment_dosc>
+		<link type="freeware">https://raphnet.itch.io/stellar-roads</link>
+		<rom name="cga360k.dsk" size="368640" crc="da21cb37" md5="020bee900afed7054a0152b243310013" sha1="e6620b0066e4ed6858ab67a55aa1850b222b13f2" date="2020-03-29 14:17:06"/>
+		<rom name="cga720k.dsk" size="737280" crc="d4ef7dd3" md5="583269424d2a939bd4d3ff2debc3f454" sha1="91721138691d2ba8458532000e2a94ad39900517" date="2020-03-29 14:17:06"/>
+		<rom name="FILE_ID.DIZ" size="435" crc="cded2701" md5="621086f9266dd1bcb8dad599cfc18f39" sha1="2c83960dd49b55a7a6dd8b4dafe2e1a4c5d30b6e" date="2020-03-29 14:17:06"/>
+		<rom name="README.TXT" size="1173" crc="3167da8b" md5="0bc35aa58418d514a1d85b1bd4c86751" sha1="02c32883216995b10914dc21445c3b7a6652d80b" date="2020-03-29 14:17:06"/>
+		<rom name="stellcga.com" size="52546" crc="07670f29" md5="a0a1f3fb82c65f3225908667debeebbf" sha1="c5841b1a43b04c060eec85dd7e9ff0693984230d" date="2020-03-29 14:17:06"/>
+		<rom name="stelljr.bin" size="57856" crc="83cf1d6e" md5="c4bc7c77813090d9f4dc9a318d701f38" sha1="0c1c5dcf82e41e46845f73ef31ce9421c11511df" date="2020-03-29 14:17:06"/>
+		<rom name="stelljr.jrc" size="58368" crc="12e12538" md5="c6db8b4074357db39432542c1530a0a6" sha1="d25707ee3a6c39f4993f2a61a8388dd3e6187684" date="2020-03-29 14:17:06"/>
+		<rom name="stelltga.com" size="57063" crc="1ef01b11" md5="2ff976d13a37d4b295c8441eff58edde" sha1="52cac92024055bef441bd19d4b003de8021f5259" date="2020-03-29 14:17:06"/>
+		<rom name="stellvga.com" size="59218" crc="bf8135b7" md5="ac5322a228eaccc5faeba9c421caf9e1" sha1="1f8d6f458400f754a145c0abec1e8a061a5e7a9a" date="2020-03-29 14:17:06"/>
+		<rom name="tga360k.dsk" size="368640" crc="2d550598" md5="bd6ec5ad849fc581714c6d1b2a065956" sha1="149bf791439f7316f20c40ce01bf5f818863c308" date="2020-03-29 14:17:06"/>
+		<rom name="tga720k.dsk" size="737280" crc="bfeaf93b" md5="519acce2b137970546c1333e5ab29cf0" sha1="c71424aeae6d25e11af90ebead02440c2d30318c" date="2020-03-29 14:17:06"/>
+		<rom name="vga1440k.dsk" size="1474560" crc="db7cf81d" md5="b4cf06fd6204e8c7c8b9d0855e34e57a" sha1="f55353d7e37b17e793bd96044be6ef6271557303" date="2020-03-29 14:17:06"/>
+		<rom name="vga720k.dsk" size="737280" crc="9e44b984" md5="097bca24b2ab50a7d42a569718a0eb31" sha1="dc364427b2976d2bc3ed8ef3799b00a12521a5b1" date="2020-03-29 14:17:06"/>
+	</game>
 	<game name="Super ACiD Block Attack (1997) (Dungeon Dwellers Design).dosz">
 		<description>Super ACiD Block Attack (aka ACiD Tetris)</description>
 		<comment>Digital copy from developer's website, matches with TDC entry: Super ACiD Block Attack [FW] (1997)(Dungeon Dwellers Design) [Action]</comment>
@@ -955,6 +1977,21 @@
 		<rom name="SABA.EXE" size="152889" crc="2ff3edb6" md5="07fd1ab6d1fb2e1c6d63062e05a7a5f2" sha1="cd6ba24f580843852c1d45e4ece894949917f315" date="2002-06-21 08:31:22"/>
 		<rom name="saba.txt" size="7129" crc="d28421bf" md5="7768fa9c036cfb7860e1bbd7eed06bc7" sha1="7431126b7883a03b9ceab7ef0fef7602707bc63e" date="2002-06-25 13:58:12"/>
 		<rom name="SETUP.BAT" size="12" crc="0aa74292" md5="3aaff420e9ed27e7ce9ecf5f9d450f06" sha1="ac7accd9fc00897cac46cad60f382f309ad7fd60" date="2002-06-21 07:36:16"/>
+	</game>
+	<game name="Tetrik (2001) (Fadri).dosz">
+		<description>Tetrik</description>
+		<year>2001</year>
+		<developer>Fadri</developer>
+		<comment>Installed from Tetrik (MS-DOS).zip. Matches TDC 22: Tetrik (Es) [FW] (2014)(Fadri) [Action, Strategy]</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://fadri.itch.io/tetrik</link>
+		<rom name="DOS4GW.EXE" size="265420" crc="cb214447" md5="ee4033581845b3b8d28c4b7287eb4fc2" sha1="a897c7eb79145a308c4e60b43413bb2daa360506" date="1997-03-22 19:41:24"/>
+		<rom name="Fichas.raw" size="7600" crc="2065e7ba" md5="e24e88f611a3b8d9206b62ac668afd41" sha1="a494ea6b902725cc050337a5419cea5bb9a29b3e" date="2001-03-19 16:47:30"/>
+		<rom name="Fondo.raw" size="64000" crc="b0a69aad" md5="089f97562b061472581437cdb8d81bcd" sha1="85bd0375150d611c30b35eefa8c0fa7bb2107f82" date="2001-03-19 16:42:00"/>
+		<rom name="Menu.raw" size="64000" crc="1e537524" md5="9e27201ebccffb663f83ac0829eff131" sha1="57e4d6dbdb3be58692277e6c690ed6283c4e0294" date="2001-03-23 13:12:42"/>
+		<rom name="Numeros.raw" size="2560" crc="9a47de37" md5="5081502804194d87ef13bae5c6772f3d" sha1="f5f2843bd3404d7f2fa74abf25c91bd309221fe9" date="2001-03-23 15:23:20"/>
+		<rom name="tetrik.ACT" size="768" crc="c71494f6" md5="24643228e150be0d56248b965caefbc6" sha1="253db3b1542d78ae64c87fab9e308b2f44c103cc" date="2001-03-19 16:42:20"/>
+		<rom name="TETRIK.EXE" size="85336" crc="477fbf45" md5="45efe6d92cfc0c42b77b1f07ee8fae7e" sha1="c0567870eb493b3f123548d0348ede063d8bdd3d" date="2014-02-26 00:54:14"/>
 	</game>
 	<game name="Tetripz (1998) (Mute Fantasies).dosz">
 		<description>Tetripz</description>
@@ -1046,5 +2083,133 @@
 		<rom name="umoria.exe" size="404992" crc="4bc92a0e" md5="2a40548c34c540e80cfed03f145cf89f" sha1="1ee6345d8bfa6593d8cc33ffd3b6a4c34f6ecb44" date="1997-09-08 11:54:18"/>
 		<rom name="version.hlp" size="2242" crc="1c3940e0" md5="9dfba839279b9bad8bc535d3e376ac6e" sha1="07a1276616cc8073b462fb56243c5a3bd4b750f6" date="1997-09-08 11:27:42"/>
 		<rom name="welcome.hlp" size="423" crc="3dcdf30c" md5="07fdaebf594f9b34d54544c2b6aa36d8" sha1="fd9209651a3c1395355bc0513ea658562013c0c4" date="1994-07-21 22:36:16"/>
+	</game>
+	<game name="Volley Blob (1999) (Fadri).dosz">
+		<description>Volley Blob</description>
+		<year>1999</year>
+		<developer>Fadri</developer>
+		<comment>Installed from Volley Blob (MS-DOS).zip. Matches TDC 22: Volley Blob [FW] (2014)(Fadri) [Action]</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://fadri.itch.io/volley-blob</link>
+		<rom name="DIV32RUN.DLL" size="320043" crc="ed72e0f1" md5="814d2485a92e1b706faf53e960026b23" sha1="ff79906cb34bb4d5c8d9891a8f10b006cbd206ca" date="2014-02-21 05:07:46"/>
+		<rom name="VBLOB.EXE" size="1887" crc="e189b9d4" md5="bcacf958c7b7706e113930b7e0844ca3" sha1="2ade00d0665f45cb7cdf269e1c077f4531e38c44" date="2014-02-21 05:07:46"/>
+		<rom name="VBLOB.PAK" size="4368" crc="b4f0ac98" md5="0b8ebf97ba27adf9a507e6ca6a369f42" sha1="86b617e4f862a7f29a5cc21c94b0c194311a6412" date="2014-02-21 05:07:46"/>
+	</game>
+	<game name="What is this (2020) (Arte Lancelot).dosz">
+		<description>What is this?</description>
+		<year>2020</year>
+		<developer>Arte Lancelot</developer>
+		<comment>Installed from What is this? for FreeDOS 1.2. Also requires CWSDPMI r7.</comment>
+		<comment_dosc>Auto start, options for 4x3 or 16x9 mode</comment_dosc>
+		<link type="freeware">https://juegosenlazaruscr.itch.io/what-is-this</link>
+		<link type="freeware">https://sandmann.dotster.com/cwsdpmi/</link>
+		<rom name="contents/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-04-15 04:46:52"/>
+		<rom name="contents/data/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-05-14 07:57:46"/>
+		<rom name="contents/data/dermenu.tga" size="21234" crc="8a9177d1" md5="54542c914343b9331543bf4b55ce47bd" sha1="471105a335801323f672a50ce9fa9ae3a637c4dc" date="2020-03-25 08:14:42"/>
+		<rom name="contents/data/imagenes/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-05-14 07:57:46"/>
+		<rom name="contents/data/imagenes/help/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-05-14 07:57:46"/>
+		<rom name="contents/data/imagenes/help/help00/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-05-14 07:57:46"/>
+		<rom name="contents/data/imagenes/help/help00/botoimag.000" size="243618" crc="7c2b71d3" md5="7dfecab8a56222a4764cd8a164902d1d" sha1="5836dd397d25c4929438d91f57209fd2500cf8cc" date="2020-03-25 07:38:18"/>
+		<rom name="contents/data/imagenes/help/help00/help00.png" size="618217" crc="92c2dfe4" md5="187cc5cca3fb142d849736b4ce47cf30" sha1="09eaaf8ccd75bfc767efad7d3bb91cada86b2b21" date="2020-03-19 13:48:56"/>
+		<rom name="contents/data/imagenes/help/help01/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-05-14 07:57:46"/>
+		<rom name="contents/data/imagenes/help/help01/botoimag.001" size="307218" crc="42c2ca83" md5="3a2f713d5ee731d37aac6724d643445a" sha1="361645cdb53b5b2150e0cce0b4cbb977107a8d2d" date="2020-03-25 07:42:06"/>
+		<rom name="contents/data/imagenes/help/help01/help01.png" size="649679" crc="3a2cbfbe" md5="0031ec66aee5d54703496a85bfe1c952" sha1="d11549fc4785dae2d86810ed10277b59598d4013" date="2020-03-20 03:25:38"/>
+		<rom name="contents/data/imagenes/help/help02/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-05-14 07:57:46"/>
+		<rom name="contents/data/imagenes/help/help02/botoimag.002" size="243618" crc="c53c7536" md5="078616d2116e7a970d9e5957172c30e7" sha1="9e8a3121f578e4af1dcb80d0e2f399910821c4ff" date="2020-03-25 07:40:02"/>
+		<rom name="contents/data/imagenes/help/help02/help02.png" size="1057829" crc="62577793" md5="040a4833dd5251315766436972cdf4a4" sha1="c99fc86e4e95fadf7d952b39b79e9e1d6a7300d3" date="2020-03-20 05:40:54"/>
+		<rom name="contents/data/imagenes/help/help03/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-05-14 07:57:46"/>
+		<rom name="contents/data/imagenes/help/help03/botoimag.003" size="307218" crc="52ec2359" md5="ff7c743fb2b94051a60c0a8ac62d0f40" sha1="31e5ed87409bbe3d49251b4a685c4c5a98e802ea" date="2020-03-25 07:43:10"/>
+		<rom name="contents/data/imagenes/help/help03/help03.png" size="1071202" crc="1ff9c8ad" md5="20f2890362e513f1117ef5c5c0276dfa" sha1="5b294296fcb8f3194dd3818a93ac971e491398e1" date="2020-03-20 07:55:10"/>
+		<rom name="contents/data/imagenes/help/help04/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-05-14 07:57:46"/>
+		<rom name="contents/data/imagenes/help/help04/botoimag.004" size="243618" crc="39c7538b" md5="38949b39d208958acb23d1f2ad86630d" sha1="a5ddbde9a5c00b69f961053ce7be0487e087abac" date="2020-03-25 07:46:02"/>
+		<rom name="contents/data/imagenes/help/help04/help04.png" size="998258" crc="53de21a4" md5="68cceccedf8b81da40f99c7040e1bb0f" sha1="bb8026a9964f4e5852489d9ab1359b55e1854b60" date="2020-03-20 09:23:10"/>
+		<rom name="contents/data/imagenes/help/help05/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-05-14 07:57:46"/>
+		<rom name="contents/data/imagenes/help/help05/botoimag.005" size="307218" crc="f357b3ab" md5="1fd51cc3e2e7f3f23b314221bc1d1f03" sha1="54e7de95c90a0358bff8a3a148dcb5a1faddc8a0" date="2020-03-25 07:48:36"/>
+		<rom name="contents/data/imagenes/help/help05/help05.png" size="1211842" crc="238d9d66" md5="57584371e85fce9f24368cdc03643209" sha1="ab3fe3f35f79fbcba00a0de9eb2d7e60dc49162c" date="2020-03-20 09:58:38"/>
+		<rom name="contents/data/imagenes/help/help06/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-05-14 07:57:46"/>
+		<rom name="contents/data/imagenes/help/help06/botoimag.006" size="243618" crc="38f01a95" md5="a9212f0c8c06d4762992f5e8dbf2af03" sha1="0fecfd81d0f96e01a31e385081639bf2451fe842" date="2020-03-25 07:47:18"/>
+		<rom name="contents/data/imagenes/help/help06/help06.png" size="1246614" crc="73754b43" md5="f49a9673597c741f7029eb73fca83b5f" sha1="4131347a5179b9ec7436997cbcee9acc549fc0e5" date="2020-03-20 13:06:08"/>
+		<rom name="contents/data/imagenes/help/help07/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-05-14 07:57:46"/>
+		<rom name="contents/data/imagenes/help/help07/botoimag.007" size="307218" crc="21dbb6a0" md5="743b47db96b2a2b1a69c44d1870784c7" sha1="ae1ac21821ef2d9f49d57002f3d2f91504e7cdf5" date="2020-03-25 07:49:16"/>
+		<rom name="contents/data/imagenes/help/help07/help07.png" size="1179680" crc="76a21660" md5="27350569f94b33b730bb15ae911c7cf5" sha1="ab8f1f9f841398f26536d9615755d70661329765" date="2020-03-21 01:40:14"/>
+		<rom name="contents/data/imagenes/help/help08/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-05-14 07:57:46"/>
+		<rom name="contents/data/imagenes/help/help08/botoimag.008" size="243618" crc="dae9dab1" md5="b018ee5d14465a54c7f7c4a1cf906bda" sha1="c32703a4ad0f10c34a4c726b0a4cdb2a628ec000" date="2020-03-25 07:51:26"/>
+		<rom name="contents/data/imagenes/help/help08/help08.png" size="1134214" crc="5cccf76b" md5="131f1023a82783abf27f3cfd939d6f20" sha1="aca1061ba2c0ce55137a162214bdac48c12e7d0b" date="2020-03-21 02:50:44"/>
+		<rom name="contents/data/imagenes/help/help09/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-05-14 07:57:46"/>
+		<rom name="contents/data/imagenes/help/help09/botoimag.009" size="307218" crc="12500e3e" md5="cacbab399f9ba945f9e833ab16cb1ad6" sha1="35b3a7a8dff9f613c299b9dd20f76eb9b9ea74af" date="2020-03-25 07:53:44"/>
+		<rom name="contents/data/imagenes/help/help09/help09.png" size="994373" crc="a5cdb6a7" md5="64c6be36ac2818e7f900bc1a4e2243d6" sha1="2bd3c75f7eb26492baa7267d7b7cc567d3365d47" date="2020-03-21 04:21:08"/>
+		<rom name="contents/data/imagenes/help/help10/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-05-14 07:57:46"/>
+		<rom name="contents/data/imagenes/help/help10/botoimag.010" size="243618" crc="58d8c2de" md5="781bbcf7075bbb4e3f94003246f6894b" sha1="fd0c28fd6579196937e6d4685bfe0566d575cf36" date="2020-03-25 07:52:30"/>
+		<rom name="contents/data/imagenes/help/help10/help10.png" size="779051" crc="ba6afe00" md5="26884c944ef71156b52299f035e10e7a" sha1="4101f2fd788c5d0e408f97ba9fc71c12ecba244b" date="2020-03-21 08:07:28"/>
+		<rom name="contents/data/imagenes/help/help11/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-05-14 07:57:46"/>
+		<rom name="contents/data/imagenes/help/help11/botoimag.011" size="307218" crc="f355254d" md5="d624a5c1863b8df087cef174687277b8" sha1="c1ecc0b1c32d5ced684222f7729bde1d722cf31c" date="2020-03-25 07:54:26"/>
+		<rom name="contents/data/imagenes/help/help11/help11.png" size="1143728" crc="2fde43d4" md5="de23843c61de3c769773d2dacb772c95" sha1="ef2602fd95236412d83ba578317afe35067f083f" date="2020-03-21 08:55:08"/>
+		<rom name="contents/data/imagenes/help/help12/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-05-14 07:57:46"/>
+		<rom name="contents/data/imagenes/help/help12/botoimag.012" size="243618" crc="5a26698c" md5="259071303476b04d62880533286ebfaf" sha1="f2a1346975d18ae2f0c22ad1efe55934e21d2afe" date="2020-03-25 07:56:22"/>
+		<rom name="contents/data/imagenes/help/help12/help12.png" size="956642" crc="e5610962" md5="bcf0e4e46ecea5a7633af4d60c6a8ecf" sha1="0e9e87d2ce05c4a1285545257d8bac09881e0f8b" date="2020-03-21 09:20:12"/>
+		<rom name="contents/data/imagenes/help/help13/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-05-14 07:57:46"/>
+		<rom name="contents/data/imagenes/help/help13/botoimag.013" size="307986" crc="23fe1744" md5="e7181c5fbab2de52441e7a291fe9e2c3" sha1="9224208b2e27f181fbd8842217ae32e2ca984318" date="2020-03-25 07:58:22"/>
+		<rom name="contents/data/imagenes/help/help13/help13.png" size="1072522" crc="6207494d" md5="0dfa499c8149c05824a5f8942f6a0df6" sha1="48d7f35f2d0c78b0c2c3928a1a1e66dbd1dee1be" date="2020-03-21 11:59:08"/>
+		<rom name="contents/data/imagenes/help/help14/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-05-14 07:57:46"/>
+		<rom name="contents/data/imagenes/help/help14/botoimag.014" size="243618" crc="28f36183" md5="a07fa7461d5be5395563bb00e3a9b02d" sha1="5469f96cdbd19046a201d8f163bab72bebaa6468" date="2020-03-25 07:57:12"/>
+		<rom name="contents/data/imagenes/help/help14/help14.png" size="857438" crc="63fd8ba6" md5="206a1631c19af23b49d5f9d182684799" sha1="b1d4fffb8fe3c61bff4cf39f8ef33e89c6e67c7e" date="2020-03-21 12:25:32"/>
+		<rom name="contents/data/imagenes/help/help15/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-05-14 07:57:46"/>
+		<rom name="contents/data/imagenes/help/help15/botoimag.015" size="307218" crc="30e1fa41" md5="e84b59f78159b92476d5e616e31b7c5d" sha1="61a02a8e261197e634b3651c91e7330840445030" date="2020-03-25 07:58:58"/>
+		<rom name="contents/data/imagenes/help/help15/help15.png" size="975085" crc="95adb396" md5="10ba5a444256bfdd1dc7718678e3d2fe" sha1="0f0c3b65905e0aa8649d22944a116f67a8e370af" date="2020-03-21 13:33:26"/>
+		<rom name="contents/data/imagenes/help/help16/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-05-14 07:57:46"/>
+		<rom name="contents/data/imagenes/help/help16/botoimag.016" size="243618" crc="3c741625" md5="2753a3db6588c74a01c4b27fda91b4cd" sha1="7ed6b5a0fb2703fdbde053228cc8611c7a44a0bc" date="2020-03-25 08:01:18"/>
+		<rom name="contents/data/imagenes/help/help16/help16.png" size="732230" crc="79d5beea" md5="bcb543490df8155b45ed642fed4ca692" sha1="81e9beb0baa1107da15e4ebc5cae2a2477fe6bd9" date="2020-03-21 13:53:22"/>
+		<rom name="contents/data/imagenes/help/help17/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-05-14 07:57:46"/>
+		<rom name="contents/data/imagenes/help/help17/botoimag.017" size="307218" crc="c0dd9bb0" md5="1678e8ffb84986e04ee364cf7408bf49" sha1="d7f941e72fb979374ce640ffd80ddd33b2b47f7d" date="2020-03-25 08:03:22"/>
+		<rom name="contents/data/imagenes/help/help17/help17.png" size="935407" crc="72b32ec2" md5="b0e57912854dce8c1db7de80593339d3" sha1="2d961c8af6b37151244d71dafa663dc25122fdc9" date="2020-03-21 14:40:28"/>
+		<rom name="contents/data/imagenes/help/help18/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-05-14 07:57:46"/>
+		<rom name="contents/data/imagenes/help/help18/botoimag.018" size="243618" crc="d9509ee8" md5="9121cfde9ea6dfae93e69aa5dedb75f2" sha1="1e04e73195eecfd3d716ad57021071dc667cdbd4" date="2020-03-25 08:02:18"/>
+		<rom name="contents/data/imagenes/help/help18/help18.png" size="1176889" crc="c4d79e1c" md5="1d5f63cc8dc10d08dbf2bf8f0703157e" sha1="874f748cca721dfd0272ca503cfb9b9298b79773" date="2020-03-21 15:13:10"/>
+		<rom name="contents/data/imagenes/help/help19/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-05-14 07:57:48"/>
+		<rom name="contents/data/imagenes/help/help19/botoimag.019" size="307218" crc="9ba9441f" md5="b32702c221d516bcf58b002c7922a18e" sha1="35f593c708cb779ec66dd75f93e3eb08963dd591" date="2020-03-25 08:04:02"/>
+		<rom name="contents/data/imagenes/scene00.png" size="608999" crc="704b8c8b" md5="049f28677cca2803c85ded17ab12adc6" sha1="8fe92aac9f6db700cb493e74fc43252f6f2a9355" date="2020-03-19 13:47:04"/>
+		<rom name="contents/data/imagenes/scene01.png" size="1229224" crc="11ffdfe4" md5="a561ceaeb41ba9d7a778a58bfb3a225c" sha1="03365e2767fc4de0f0a3a83299efc07c0e961541" date="2020-03-20 03:23:58"/>
+		<rom name="contents/data/imagenes/scene02.png" size="1063606" crc="7d14d067" md5="b3d65629ff45f977f6795b39457fbc00" sha1="23b9f5a86e0efa85b60eb78cf3d81bc67dfddb26" date="2020-03-20 05:23:54"/>
+		<rom name="contents/data/imagenes/scene03.png" size="1266774" crc="0a147e59" md5="0a1c991ca09dbb28d2a3739f863572cf" sha1="b836f376f028cc3e90444ff42a47a8ca5809b41c" date="2020-03-20 07:51:34"/>
+		<rom name="contents/data/imagenes/scene04.png" size="985246" crc="32047e0f" md5="083d3a12aa9ff655ce5a230e818add45" sha1="94f46e5986c6e1e7b5c13c777e78722b70fdae91" date="2020-03-20 09:17:36"/>
+		<rom name="contents/data/imagenes/scene05.png" size="1220752" crc="d2ab11ae" md5="52333fb7cd2fc6b26136f380c516f9c3" sha1="bea9329b571cf39e1a1ac637b9665f5a162f3e6e" date="2020-03-20 09:50:00"/>
+		<rom name="contents/data/imagenes/scene06.png" size="1300695" crc="1822c973" md5="8965efb3fe4e88e9c1a6548e6c229606" sha1="c6937da2dd1abd73737c64c00a1b0d5bcfa7029a" date="2020-03-20 12:53:36"/>
+		<rom name="contents/data/imagenes/scene07.png" size="1226656" crc="9ee6f1cb" md5="42d0e3a5d26f7ac3e80e4451bc797ffa" sha1="cb077b168128c7cc0d4734b050ed2562373d67b1" date="2020-03-21 01:35:44"/>
+		<rom name="contents/data/imagenes/scene08.png" size="1161647" crc="b9a5b2e5" md5="ada092c1009089a42f21f1304c8b059d" sha1="432997a92e104ea2109257e589edd17195393dc5" date="2020-03-21 02:38:54"/>
+		<rom name="contents/data/imagenes/scene09.png" size="1006710" crc="0d835541" md5="cd4c512550c620df7fa1c261717dab0d" sha1="c8c0ff7da664dfe4a45b5ebe4cf7bce2550679b6" date="2020-03-21 04:11:32"/>
+		<rom name="contents/data/imagenes/scene10.png" size="948469" crc="b89f422d" md5="f2186f92fa942a88696cbfcfdfe3aa3a" sha1="4e32e991b2ff34f6c03e3cba1d6c09f8dd29a7b6" date="2020-03-21 08:01:14"/>
+		<rom name="contents/data/imagenes/scene11.png" size="1152361" crc="e2b34d86" md5="808b5743ec06523d381a9c2c99ccae05" sha1="bc041c6ffd2073867f3c8a622456a8d233f19aed" date="2020-03-21 08:47:26"/>
+		<rom name="contents/data/imagenes/scene12.png" size="994380" crc="81d2da5e" md5="0a117e0db3c917c1e8b35e331d2a5980" sha1="11acffa88a26116ab1703d854a40b7ebab59f8a1" date="2020-03-21 09:11:52"/>
+		<rom name="contents/data/imagenes/scene13.png" size="1112783" crc="ec3a9c6a" md5="822830222c86701da5989127984497ed" sha1="88017b6404a50487fe68296dba443b0b27162966" date="2020-03-21 11:52:24"/>
+		<rom name="contents/data/imagenes/scene14.png" size="850026" crc="e216ade0" md5="e817c0a2fb30185a6d55aa6c54386700" sha1="b7ba483eca19db061f77773c4de3a78e30439ca9" date="2020-03-21 12:16:52"/>
+		<rom name="contents/data/imagenes/scene15.png" size="1000160" crc="6542b5d4" md5="055be8eaad15487adcc7db8cfdda2179" sha1="a3e97442bef0aeac5d6349bc6158a8ee11ba7617" date="2020-03-21 13:23:20"/>
+		<rom name="contents/data/imagenes/scene16.png" size="738618" crc="7151c1c9" md5="25c0ab5ecb8085fd01073a699312a7cc" sha1="29afcaf70a4306f3a53ab13485cd914720049791" date="2020-03-21 13:47:08"/>
+		<rom name="contents/data/imagenes/scene17.png" size="955328" crc="a500cbf0" md5="d8238ca02177467b54bdd0f5fdbf4361" sha1="957f0a20f54c1c47795e85a1726f7c25cf485f94" date="2020-03-21 14:29:50"/>
+		<rom name="contents/data/imagenes/scene18.png" size="1224806" crc="597bd605" md5="cbb1c5881ff4ac8b3a4f8bc495a943cb" sha1="97c0f47a98c9e4cbfc44a69a5010548eee1c60ad" date="2020-03-21 15:07:12"/>
+		<rom name="contents/data/imagenes/scene19.png" size="404288" crc="25e750ff" md5="82463b1ed191e9ff22df8891c3081c1a" sha1="7c6bb185275bf33135a0e1cd67c059c5a81901ed" date="2020-03-23 10:00:10"/>
+		<rom name="contents/data/izqmenu.tga" size="21234" crc="2f711a72" md5="25624c08ec0b431599d2b6f1d889d439" sha1="eeaa9992793ab48460e8faf8147dceb1adfc702b" date="2020-03-25 08:13:42"/>
+		<rom name="contents/data/lang/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-05-14 07:57:48"/>
+		<rom name="contents/data/lang/en/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-05-14 07:57:48"/>
+		<rom name="contents/data/lang/en/ayuda.png" size="409710" crc="90072f24" md5="0d7fe844ecce98b68531901e9e1b5224" sha1="7e1913b463c59b8da8d12ec5026a1be2934a7a8e" date="2020-03-25 02:05:16"/>
+		<rom name="contents/data/lang/en/basemenu.png" size="248412" crc="fb347b6a" md5="8d5c509292590ff7be211cb819be57b5" sha1="318b81bb938ef6e9cab1b61a519f7b03f50480b3" date="2020-03-25 08:16:42"/>
+		<rom name="contents/data/lang/en/portada.png" size="1147646" crc="5da31012" md5="fbceaef0718576e9e44796651b502736" sha1="42feac31c404ad6537fcf6358891512cb1806fe6" date="2020-03-24 03:15:34"/>
+		<rom name="contents/data/lang/es/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-05-14 07:57:48"/>
+		<rom name="contents/data/lang/es/ayuda.png" size="468981" crc="c33d33a4" md5="7c213dd63c2b0e2c4a3e76a1a0ea36af" sha1="f6a43528e7667af265321727f72466290672282f" date="2020-03-25 02:04:46"/>
+		<rom name="contents/data/lang/es/basemenu.png" size="248001" crc="979dfbc3" md5="0f751b82f7a3e9bff89d9c361b897fba" sha1="6f58d4fa23ec74c9c005aac31666b509990f002c" date="2020-03-25 08:17:18"/>
+		<rom name="contents/data/lang/es/portada.png" size="1152638" crc="278df6a5" md5="61ae1d2f8d946985c35754e0ba2b7ee0" sha1="12c753ca5da065f1b58223b673f7f42ef3f5cf77" date="2020-03-24 03:17:18"/>
+		<rom name="contents/data/whatisit.cur" size="326" crc="a56f2d9b" md5="a7f29389dae09561e4976a76371b1ecb" sha1="39be2fc813730daea5d1ec5fae777dbdfb16ac54" date="2020-03-25 12:23:50"/>
+		<rom name="contents/data/whatisit.ico" size="4286" crc="6d1b5314" md5="9d0e2ae409a1333dc71f06453461ace5" sha1="1faa0311abc9a0a82e12b1b98651c1e558a2ab89" date="2020-03-25 12:12:32"/>
+		<rom name="contents/data/whatisit.png" size="460" crc="ed521283" md5="ba93113b3055bb5ed83249a67eb9033d" sha1="d21f8032c2dfbe4c8431f2293d8a2ca99f0eb137" date="2020-03-25 12:25:00"/>
+		<rom name="contents/freedos/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2020-04-15 04:46:52"/>
+		<rom name="contents/freedos/cwsdpmi.doc" size="9623" crc="f1baeb1e" md5="a4b217be7a6e49047ca40d82f1c8454b" sha1="f766cef721c58da9f140f95a88ae77cbb99b5950" date="2010-01-07 23:01:26"/>
+		<rom name="contents/freedos/CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 23:06:10"/>
+		<rom name="contents/freedos/CWSDPR0.EXE" size="20519" crc="e2580883" md5="c1a554b29b152e34018611f71712ea05" sha1="6bc83348e2689eabc7d075d32a28b77de41041b4" date="2010-01-07 23:05:58"/>
+		<rom name="contents/freedos/CWSDSTR0.EXE" size="22016" crc="4ac4c49e" md5="d2f7b4aa6741113442c949534ee7fdd0" sha1="b618e428b4bf3d58990972227dd8ae35a68a5b67" date="2010-01-07 23:06:02"/>
+		<rom name="contents/freedos/CWSDSTUB.EXE" size="22528" crc="4420841b" md5="3468fd35715d7ac85f68a44e26f929fd" sha1="642f797b16f1ad1c304138537887158c6bfa4690" date="2010-01-07 23:06:12"/>
+		<rom name="contents/freedos/cwsparam.doc" size="6244" crc="3223491c" md5="e427ad18c2a7aa68e920cba7e1962ba1" sha1="2dad7af924a26124f64b5f40a485b715748a9810" date="2010-01-03 15:12:16"/>
+		<rom name="contents/freedos/CWSPARAM.EXE" size="13124" crc="af5b3113" md5="3363b6a635e0029f73195e75b97f1d74" sha1="7bc844eb0d1ed5529d304765aab98ae283685036" date="2010-01-07 23:05:58"/>
+		<rom name="contents/freedos/whatisit.exe" size="1899192" crc="57156cce" md5="2bf1d4bf4244b70ebd42767a63ed11ad" sha1="2c4d15da1b1abf562aa4bf1702f6886163d64467" date="2020-05-14 07:42:36"/>
+		<rom name="readme.txt" size="541" crc="f58f5f2f" md5="288aa44464888ce71da1d1ccfbed5e83" sha1="2390419fec659aa490c39b39c7656b4d7d5efd05" date="2020-03-26 03:05:42"/>
+		<rom name="whatisit.bat" size="35" crc="eb2f67dc" md5="84887f0a618826fde4fc6fc21891cd67" sha1="b4f0065ba1433f8b4a2f78d4ebfd30d5670c890b" date="2020-03-25 20:44:52"/>
 	</game>
 </datafile>
