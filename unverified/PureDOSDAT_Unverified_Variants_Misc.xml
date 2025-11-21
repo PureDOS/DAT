@@ -2140,11 +2140,21 @@
                 <rom name="BLUEBYTE/AD/VFX/TEXTURE/VOX_000.S16" size="17178" crc="7e73c0a9" md5="e3625c78f80f717cc9ece6f18a3fd02f" sha1="dbd53be711721910bd2d8b04ae8a199ecfc68ea4"/>
                 <rom name="BLUEBYTE/AD/VRUSH/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-10-11 05:38:36"/>
                 <rom name="BLUEBYTE/AD/VRUSH/GLIDE2X.OVL" size="395715" crc="bcd9308c" md5="a8bfdb1a7025b1bd9ca9e3a0c347a9bb" sha1="7c8735204acbafa1c5698f37a130ac4d1c6bc025" date="1997-09-12 16:46:40"/>
-                <rom name="CD/Archimedean Dynasty (USA) (Track 1).bin" size="677107872" crc="6236728e" md5="04d8b822ebe5c4a1d66a82db299ea5a1" sha1="ed838eef9e0eb35d4e8d2e2cbb811df75c3f4e77"/>
-                <rom name="CD/Archimedean Dynasty (USA) (Track 2).ogg" size="8365377" crc="701e1923" md5="a670a160e59400365eae84ca2d9c74c4" sha1="58a209f87d144da4110242397e25ea9ebb02d655"/>
-                <rom name="CD/Archimedean Dynasty (USA) (Track 3).ogg" size="8245985" crc="e1df099c" md5="96a2387f1fc26c0bc04494b735368cd5" sha1="d9ab15990d85203f685e73cb88e874587a4e3bb1"/>
-                <rom name="CD/Archimedean Dynasty (USA) (Track 4).ogg" size="3595693" crc="c730437c" md5="2500fbb096a8184f91daa98be2842fae" sha1="da2081be84ccf02b50a08a71558552d38fffc61d"/>
-                <rom name="CD/Archimedean Dynasty (USA) (Track 5).ogg" size="2194502" crc="3be2a9ce" md5="f14f13e4adb337202e116ad0b05f1694" sha1="03ae3a9be1a5b4497045be1a56844b038ea3a4d2"/>
+                <rom name="CD/Archimedean Dynasty (USA) (Track 1).bin" size="677107872" crc="6236728e" md5="04d8b822ebe5c4a1d66a82db299ea5a1" sha1="ed838eef9e0eb35d4e8d2e2cbb811df75c3f4e77">
+                        <source type="MODE1_RAW" frames="287886" duration="63:58:36"/>
+                </rom>
+                <rom name="CD/Archimedean Dynasty (USA) (Track 2).ogg" size="8365377" crc="701e1923" md5="a670a160e59400365eae84ca2d9c74c4" sha1="58a209f87d144da4110242397e25ea9ebb02d655">
+                        <source type="AUDIO" frames="15564" omitted_pregap="149" duration="03:27:39" size="36606528" crc="96713cb5" md5="92af924679663b01a236b1576f1dc660" sha1="054d7258a7568aec155763de733564d7bdd75b9f" in_zeros="0" out_zeros="9454" quality="9"/>
+                </rom>
+                <rom name="CD/Archimedean Dynasty (USA) (Track 3).ogg" size="8245985" crc="e1df099c" md5="96a2387f1fc26c0bc04494b735368cd5" sha1="d9ab15990d85203f685e73cb88e874587a4e3bb1">
+                        <source type="AUDIO" frames="14163" omitted_pregap="149" duration="03:08:63" size="33311376" crc="c12c61b1" md5="14a3ecd07d4372f799ffbf4cdf09a302" sha1="07fcc732becc672559e78e9e295097ec2e52aee4" in_zeros="0" out_zeros="10277" quality="9"/>
+                </rom>
+                <rom name="CD/Archimedean Dynasty (USA) (Track 4).ogg" size="3595693" crc="c730437c" md5="2500fbb096a8184f91daa98be2842fae" sha1="da2081be84ccf02b50a08a71558552d38fffc61d">
+                        <source type="AUDIO" frames="6887" omitted_pregap="148" duration="01:31:62" size="16198224" crc="86628ee9" md5="b38f74eaf0001082859cc081b739b3e3" sha1="429f2df4ce7c0ad11cf5701c8ce67b8fe80dd219" in_zeros="24" out_zeros="9497" quality="9"/>
+                </rom>
+                <rom name="CD/Archimedean Dynasty (USA) (Track 5).ogg" size="2194502" crc="3be2a9ce" md5="f14f13e4adb337202e116ad0b05f1694" sha1="03ae3a9be1a5b4497045be1a56844b038ea3a4d2">
+                        <source type="AUDIO" frames="4699" omitted_pregap="149" duration="01:02:49" size="11052048" crc="6199ada3" md5="25e0389ff39e1476d5b9aeb40b5548f1" sha1="51bebdae284232ee79ffbf95ec6b1c5ba96cd710" in_zeros="24" out_zeros="358285" quality="9"/>
+                </rom>
                 <rom name="CD/Archimedean Dynasty (USA).cue" size="557" crc="c4a23427" md5="914e6ee7800a6fd994877639455b2dc7" sha1="8ba561aae7d472092726e6db0c379f0df0042b30"/>
         </game>
 	<game name="B.A.T. II - The Koshan Conspiracy (1992) (Computer's Dream) (CD Version).dosz">
