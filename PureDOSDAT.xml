@@ -3965,15 +3965,16 @@
 	</game>
 	<game name="Burnout - Championship Drag Racing - Player's Choice Edition (1998) (Bethesda Softworks).dosz">
 		<description>Burnout - Championship Drag Racing - Player's Choice Edition</description>
+		<year>1998</year>
+		<developer>Bethesda Softworks</developer>
 		<comment>
 			Installed from Player's Choice Edition re-release CD-ROM (v2.06) 
 			3Dfx version only
-			Needs glide2x_emu.ovl from DOSBox SVN Daum 20150125, rename it to glide2x.ovl 
+			Used GLIDE2X.OVL file from Archimedean Dynasty 3dfx Patch 
 			Needs config file: create PCE.CFG file and type D: C:\PRO_DRAG\
 		</comment>
 		<comment_dosc>Sound Blaster 16 config, auto start</comment_dosc>
-		<year>1998</year>
-		<developer>Bethesda Softworks</developer>
+		<link type="patch">https://soggi.org/files/misc/game-patches/Archimedean-Dynasty_3dfx.7z</link>
 		<rom name="PRO_DRAG/CARS/CAR00.CAR" size="74824" crc="9d702e0e" md5="bc662f1aeeb9f40c148a9515ede52fe7" sha1="e13b516d37b37d99ffb47ea195e674a5256f8413" date="1998-09-07 13:43:20"/>
                 <rom name="PRO_DRAG/CARS/CAR000.GRP" size="189441" crc="521a327a" md5="46e19d19c0ceab656ffd76572920470b" sha1="99d27f4e1f28daf48e626bc19286d1b5dd2a4095" date="1998-03-02 16:39:10"/>
                 <rom name="PRO_DRAG/CARS/CAR001.GRP" size="213785" crc="c361fd94" md5="c688dec2361e305eb52b7372546fdf8e" sha1="e48273cc1478f40514616bd2c903c09a3ae513eb" date="1998-03-02 16:39:30"/>
