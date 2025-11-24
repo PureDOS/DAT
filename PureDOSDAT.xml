@@ -14579,14 +14579,15 @@
 	</game>
 	<game name="NIRA - Intense Import Drag Racing (1999) (Bethesda Softworks).dosz">
 		<description>NIRA - Intense Import Drag Racing</description>
+		<year>1999</year>
+		<developer>Bethesda Softworks</developer>
 		<comment>
 			Installed from original US CD-ROM (v1.00) 
 			3Dfx version only
-			Needs glide2x_emu.ovl from DOSBox SVN Daum 20150125, rename it to glide2x.ovl
+			Used GLIDE2X.OVL file from Archimedean Dynasty 3dfx Patch
 		</comment>
 		<comment_dosc>Copy protection removal patch, Sound Blaster 16 config, auto start</comment_dosc>
-		<year>1999</year>
-		<developer>Bethesda Softworks</developer>
+		<link type="patch">https://soggi.org/files/misc/game-patches/Archimedean-Dynasty_3dfx.7z</link>
 		<rom name="CARS/CAR51.CAR" size="77692" crc="f5ca4467" md5="9eeda55460d2a98b04d980fd54a1423f" sha1="857f0b743f435e3903626ccd4de585f63d0bdae2" date="1999-05-21 20:37:18"/>
                 <rom name="CARS/CAR510.GRP" size="169808" crc="a97f78ab" md5="20d83396566bf5adf96fb2c96d387d53" sha1="026e85707e9d9ef2a82a3e9065507a4aae9ea31f" date="1999-02-19 19:42:52"/>
                 <rom name="CARS/CAR511.GRP" size="232605" crc="d88a9c00" md5="8c2dcdaddbb3b5334b95208d826bc0a3" sha1="1db2c6d2e7ea3b76fe6419c3b81a1254a0e1cb37" date="1999-02-19 19:39:54"/>
