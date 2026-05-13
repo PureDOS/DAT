@@ -20653,6 +20653,8 @@
 		<developer>Origin Systems</developer>
 		<comment>
 			Files extracted from Redump-verified CD-ROM: Ultima Collection (USA) (Rerelease)
+			Can also be extracted from CD matching with TDC#23: Ultima Collection v1.03F (1999)(Electronic Arts, Inc., ORIGIN Systems, Inc.) [bin-cue]
+			DoDAT can build this directly from the disc image
 			Also matches with GOG
 			Needs DOS.YML with these contents:
 				mem_ems: false
@@ -20660,6 +20662,7 @@
 		</comment>
 		<comment_dosc>Auto-starts, copy protection removal, config, and MT-32 support - Expanded Memory set to false or game will not run</comment_dosc>
 		<link type="media">http://redump.org/disc/2179/</link>
+		<link type="media">https://puredos.github.io/tdc-browser/?/23/Ultima%20Collection%20v1.03F%20(1999)(Electronic%20Arts,%20Inc.,%20ORIGIN%20Systems,%20Inc.)%20%5Bbin-cue%5D</link>
 		<link type="store">https://www.gog.com/en/game/ultima_7_complete</link>
 		<rom name="386STEP.EXE" size="860" crc="18122f05" md5="f56520fa822b45baa86b6cdf274d7d45" sha1="a47793d1a2cc1e51d4b121619edee6ec7496a981" date="1994-02-03 04:34:00"/>
 		<rom name="DOS.YML" size="32" crc="709d92a6" md5="4e1473d3eeae7d4a506e33972c967fae" sha1="c9830231e1b10fc93a274837ff7fc531ae19a0a6" data="bWVtX2VtczogZmFsc2UNCm1lbV91bWI6IGZhbHNlDQo="/>
@@ -20668,10 +20671,7 @@
 		<rom name="INSTALL.PRM" size="134" crc="b05366b4" md5="a597507c7c699eda74ddccf8cff187a2" sha1="fa6a31e166fedf77a3b1e096693876c0aa80f043" date="1994-02-03 04:34:00"/>
 		<rom name="INTRO.EXE" size="108528" crc="1cab56cb" md5="485717a98448ba3c1a8fa3aeb0ee083f" sha1="5dcfb059056a31902b74f180788e237ee74f70c0" date="1993-03-15 06:38:36"/>
 		<rom name="MAINMENU.EXE" size="132080" crc="ebcc1da9" md5="7a9f05e9035f49fbeebdfb29de40c9bf" sha1="0638d773ad604acc9b1f7763807052279338ef0e" date="1993-03-15 06:38:36"/>
-		<rom name="READTHIS.TXT" size="1673" crc="34a14508" md5="b373581e15dbe3ff5ee0e4b40b1ee9ef" sha1="22257da3aff5df1e99fafb0ab9b23af3e3f60c0f" date="1993-03-15 06:38:40"/>
-		<rom name="SERP.BAT" size="243" crc="cbd0db70" md5="7e515f56a7f564fe33922401fe98faa5" sha1="19c34bf7d800ccc54e77b97da8bdb2d5ebda2e71" date="1997-11-24 13:04:36"/>
 		<rom name="SERPENT.COM" size="694" crc="c6469170" md5="c28f47be7c618f4c53b983cc0de84cdd" sha1="38f6eeab035feb9e422e7b93f3da2e5ca1c6df39" date="1993-03-15 06:38:40"/>
-		<rom name="SI.BAT" size="257" crc="29a41b47" md5="d0feea932ccad088d6f9b9355162ae9c" sha1="a4513c688cb66a8b7119e317867342d23a824282" date="1997-12-08 06:22:12"/>
 		<rom name="SI.EXE" size="754240" crc="992b48e4" md5="876024129ba53469601cee959fff6d9b" sha1="aae950c362e041d175c244815f1c74609e7dc5a8" date="1994-02-03 04:48:28"/>
 		<rom name="STATIC/A_SEND.XMI" size="5522" crc="d32d6e68" md5="52aedc0e0e46879fd02ea43952181d01" sha1="a784e3fb68822084b17523af4f3ede6d32a4807b" date="1993-03-15 06:38:40"/>
 		<rom name="STATIC/A_SINTRO.XMI" size="2994" crc="641ab7eb" md5="61ee2ff4bac67d9072d103da01d54b0e" sha1="3c911191ef83502fe6a304db963504a54b0c6bdb" date="1993-03-15 06:38:40"/>
