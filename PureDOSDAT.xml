@@ -20896,13 +20896,16 @@
 		<comment>
 			Main game with add-in v3.4 from CD matching with Redump: Ultima Collection (USA) (Rerelease)
 			Can also be installed from The Complete Ultima VII CD, matching with Redump: Complete Ultima VII, The (USA)
+			Or from CD matching with TDC#23: Ultima Collection v1.03F (1999)(Electronic Arts, Inc., ORIGIN Systems, Inc.) [bin-cue]
+			DoDAT can build this directly from the disc image
 			Also matches with GOG
 			Needs DOS.YML with these contents:
 				mem_ems: false
 				mem_umb: false
 		</comment>
-		<comment_dosc>Game speed reduced, Sound Blaster Pro config, and auto start. MT-32 option</comment_dosc>
+		<comment_dosc>Copy protection removal, game speed reduced, Sound Blaster Pro config, and auto start. MT-32 option</comment_dosc>
 		<link type="media">http://redump.org/disc/2179/</link>
+		<link type="media">https://puredos.github.io/tdc-browser/?/23/Ultima%20Collection%20v1.03F%20(1999)(Electronic%20Arts,%20Inc.,%20ORIGIN%20Systems,%20Inc.)%20%5Bbin-cue%5D</link>
 		<link type="store">https://www.gog.com/en/game/ultima_7_complete</link>
 		<rom name="DOS.YML" size="32" crc="709d92a6" md5="4e1473d3eeae7d4a506e33972c967fae" sha1="c9830231e1b10fc93a274837ff7fc531ae19a0a6" data="bWVtX2VtczogZmFsc2UNCm1lbV91bWI6IGZhbHNlDQo="/>
 		<rom name="ENDGAME.EXE" size="107630" crc="7a4fb9db" md5="6fbf08095c42556308bb9db9ae8d873a" sha1="5f0622261373528149439e77958d56b0b58c95cf" date="1992-03-09 11:17:20"/>
