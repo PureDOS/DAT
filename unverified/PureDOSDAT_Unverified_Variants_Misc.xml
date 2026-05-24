@@ -22,11 +22,11 @@
 		</comment>
 		<comment_dosc>Auto start, Sound Blaster 16 config, 3Dfx option (cockpit disabled because of emulation bug)</comment_dosc>
 		<link type="media">http://redump.org/disc/24453/</link>
-		<link type="patch">https://soggi.org/files/misc/game-patches/Archimedean-Dynasty_1.120.7z</link>
-		<link type="patch">https://soggi.org/files/misc/game-patches/Archimedean-Dynasty_3dfx.7z</link>
+		<link type="patch">https://www.3dfxzone.it/dir/3dfx/utilities/?objid=977</link>
 		<link type="patch">https://www.moddb.com/mods/archimedean-dynasty-augmented-mod</link>
+                <rom name="BLUEBYTE/AD/AD2.EXE" size="15626" crc="b7f038f5" md5="ca51ec38c79dda8a9a45bb20a3a7b19d" sha1="4d8564dda53f418a475a051e628a8c02849ac900" date="1996-12-16 00:38:40"/>
                 <rom name="BLUEBYTE/AD/AD3DFX.EXE" size="23988" crc="0704cd4e" md5="5e0dcb9726ab0a287a5ff7ae512862f4" sha1="c217e1f310b5c5b7e993d2fbf67ef3449613c9de" date="1997-10-06 19:06:16"/>
-                <rom name="BLUEBYTE/AD/ADD4G2.EXE" size="15782" crc="909d7890" md5="8e2ba00e82c468348998d921fbf2c7b4" sha1="b27e9da729b00021edeecbf65bb108e08d3de77c" date="1996-12-15 23:39:02"/>
+                <rom name="BLUEBYTE/AD/ADD4G2.EXE" size="15782" crc="909d7890" md5="8e2ba00e82c468348998d921fbf2c7b4" sha1="b27e9da729b00021edeecbf65bb108e08d3de77c" date="1996-12-16 00:39:02"/>
                 <rom name="BLUEBYTE/AD/DAT/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2019-10-31 18:33:22"/>
                 <rom name="BLUEBYTE/AD/DAT/MISSION/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2019-10-31 12:06:44"/>
                 <rom name="BLUEBYTE/AD/DAT/MISSION/M00101.DES" size="840" crc="3f4d0a09" md5="f04a38f83f3986a505144dc297beadbf" sha1="2e66cd17e4068e7ade1f0f7f80e5b3c560e0c7c8" date="2013-07-12 17:52:54"/>
@@ -2139,9 +2139,7 @@
                 <rom name="BLUEBYTE/AD/VFX/TEXTURE/STANDARD.S16" size="33562" crc="e190fbed" md5="b347f167bf16b9087581d42847d1f8de" sha1="fff2065c3759019149298ba69ecf3bd5d3d63e41"/>
                 <rom name="BLUEBYTE/AD/VFX/TEXTURE/VBCK_000.S16" size="17178" crc="87882d00" md5="ca9188b8d7d3068d500265cbb77f0a78" sha1="7e2d323a2bd91958fe5b7206fde3a5a6b78dd7b3"/>
                 <rom name="BLUEBYTE/AD/VFX/TEXTURE/VOX_000.S16" size="17178" crc="7e73c0a9" md5="e3625c78f80f717cc9ece6f18a3fd02f" sha1="dbd53be711721910bd2d8b04ae8a199ecfc68ea4"/>
-                <rom name="BLUEBYTE/AD/VRUSH/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-10-11 05:38:36"/>
-                <rom name="BLUEBYTE/AD/VRUSH/GLIDE2X.OVL" size="395715" crc="bcd9308c" md5="a8bfdb1a7025b1bd9ca9e3a0c347a9bb" sha1="7c8735204acbafa1c5698f37a130ac4d1c6bc025" date="1997-09-12 16:46:40"/>
-                <rom name="CD/Archimedean Dynasty (USA) (Track 1).bin" size="677107872" crc="6236728e" md5="04d8b822ebe5c4a1d66a82db299ea5a1" sha1="ed838eef9e0eb35d4e8d2e2cbb811df75c3f4e77">
+               <rom name="CD/Archimedean Dynasty (USA) (Track 1).bin" size="677107872" crc="6236728e" md5="04d8b822ebe5c4a1d66a82db299ea5a1" sha1="ed838eef9e0eb35d4e8d2e2cbb811df75c3f4e77">
                         <source type="MODE1_RAW" frames="287886" duration="63:58:36"/>
                 </rom>
                 <rom name="CD/Archimedean Dynasty (USA) (Track 2).ogg" size="8365377" crc="701e1923" md5="a670a160e59400365eae84ca2d9c74c4" sha1="58a209f87d144da4110242397e25ea9ebb02d655">
