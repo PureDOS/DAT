@@ -1657,6 +1657,16 @@
 			<track number="1" type="MODE1_RAW" frames="57261" pregap="0" duration="12:43:36" size="134677872" crc="54cfa34e" md5="46bd7ec52cb62075ceaea2f8cc22e013" sha1="52869f06ff1db74d8e634d2682c688c25e6abcf0" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
+	<game name="Silpheed (1989) (Sierra On-Line) (Installation).dosz">
+		<description>Silpheed</description>
+		<year>1989</year>
+		<developer>Sierra On-Line</developer>
+		<variant>Installation</variant>
+		<comment>The Good Old Days-verified floppy disk images (ID:3442)</comment>
+		<link type="media">https://www.goodolddays.net/diskimages/?id=3442</link>
+		<rom name="disk1.img" size="737280" crc="f57d1e01" md5="8643230707b02f6716ffcb08ccd6fe7e" sha1="743cc2eef61921642a7b4529af0f45ebd900e92f"/>
+		<rom name="disk2.img" size="737280" crc="254d6941" md5="daa10280cbe89e6d4f1c9578a4a9f29f" sha1="81b6712eb18706f08055cb4921f3972f3c33d641"/>
+	</game>
 	<game name="Silverball (1993) (Epic MegaGames) (Installation).dosz">
 		<description>Silverball</description>
 		<year>1993</year>
@@ -1837,6 +1847,19 @@
 			<track number="1" type="MODE1_RAW" frames="93665" pregap="0" duration="20:48:65" size="220300080" crc="732d0ff1" md5="2251eed58297237ba4e8ff148d775d33" sha1="a16c6e2f9bd4e04068a43b3ec4fb5ba2e8cf8a59"/>
 		</rom>
 	</game>
+	<game name="Task Force 1942 (1992) (MPS Labs) (Installation).dosz">
+		<description>Task Force 1942</description>
+		<year>1992</year>
+		<developer>MPS Labs</developer>
+		<variant>Installation</variant>
+		<comment>The Good Old Days-verified floppy disk images (ID:392)</comment>
+		<link type="media">https://www.goodolddays.net/diskimages/?id=392</link>
+		<rom name="disk1.img" size="1474560" crc="364fb1a3" md5="7ca1f786e3737729b993ecf0f750a1d5" sha1="1b6ec7f7af13fa290dca10f3d7f58f6cf6baac8b" date="1996-12-24 17:32:00"/>
+		<rom name="disk2.img" size="1474560" crc="73a0bc52" md5="fdc8e0b552d034c90e8da63165760b13" sha1="fb37c9d7e65d0bde8e2fad98b3aa624b37c6a5ff" date="1996-12-24 17:32:00"/>
+		<rom name="disk3.img" size="1474560" crc="5af45ebf" md5="ca497a82065b2324751d1629761cb92a" sha1="bebe6ec619d9300ad60a05ef31188dff32bebc41" date="1996-12-24 17:32:00"/>
+		<rom name="disk4.img" size="1474560" crc="25a743cb" md5="2a76b431ac69fc0d97590651d2525d44" sha1="7a02d67574c70270d2f9ff2b42835151bec3cd21" date="1996-12-24 17:32:00"/>
+		<rom name="disk5.img" size="1474560" crc="afa41f08" md5="7ed40c4bd9aa78aac7bb5543a37d0b6b" sha1="509545736b8953c56ec2e288a97a76fed452b0f2" date="1996-12-24 17:32:00"/>
+	</game>
 	<game name="Terminator, The (1991) (Bethesda Softworks) (Installation).dosz">
 		<description>Terminator, The</description>
 		<comment>4 x 3.5" floppies matching The Good Old Days ID: 1669</comment>
@@ -1886,17 +1909,6 @@
 		<link type="media">https://www.goodolddays.net/en/diskimages/?id=3192</link>
 		<rom name="disk1.img" size="737280" crc="ab39eb27" md5="d0acb538376be74bcf7cd0c002700cf5" sha1="9e49cebc436e6b0eb2e8a9b5456da150d936fda6"/>
 		<rom name="disk2.img" size="737280" crc="ab42866c" md5="5508b5f9d407372590190019ff5e0ee2" sha1="0541caad3ec98f763609beb0d39247f3668c3abc"/>
-	</game>
-	<game name="Ultima Collection (1997) (Origin Systems) (Installation).dosz">
-		<description>Ultima Collection</description>
-		<comment>Redump-verified CD-ROM: Ultima Collection (USA) (Rerelease) - Used for Ultima 0, I, II, III, IV, V, VI, and VII Part Two</comment>
-		<year>1997</year>
-		<developer>Origin Systems</developer>
-		<variant>Installation</variant>
-		<link type="media">http://redump.org/disc/2179/</link>
-		<rom name="Ultima Collection (USA) (Rerelease).chd" size="703848960" crc="b1442138" md5="96f255096688cbf4f7f20906be324fc7" sha1="497a5cddd03ad22e125ff9311137563945012430">
-			<track number="1" type="MODE1_RAW" frames="287454" pregap="0" duration="63:52:54" size="676091808" crc="9ec0b026" md5="6e5f9ca87407fcfbaa3ccb4ce7a08fca" sha1="ddb48f37d33f70867892f032623255a69eeaf416"/>
-		</rom>
 	</game>
 	<game name="Ultima VIII - Pagan (1994) (Origin Systems) (Installation).dosz">
 		<description>Ultima VIII - Pagan</description>
