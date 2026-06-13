@@ -443,11 +443,22 @@
 	</game>
 	<game name="Ultima VIII - Pagan (1994) (Origin Systems) (French).dosz">
 		<description>Ultima VIII - Pagan</description>
-		<comment>Installed using Redump-verified CD-ROM: Ultima VIII - Pagan (USA) (En,Fr,De) (Rerelease)</comment>
-		<comment_dosc>Auto-starts and config</comment_dosc>
 		<year>1994</year>
 		<developer>Origin Systems</developer>
 		<variant>French</variant>
+		<comment>
+			Installed v2.12 using Redump-verified CD-ROM: Ultima VIII - Pagan (USA) (En,Fr,De) (Rerelease)
+			Run "install french" at command line in D:
+			Install options:
+				Source Drive: D:\FRANCAIS (Default)
+				Destination Drive: C:\ULTIMA8 (Default)
+				Sound Card: Sound Blaster Pro, 16/16ASP - Port 0x0220, IRQ 7, DMA 1
+				Music Card: Sound Blaster Pro - Port 0x0220
+			Then run D:\FRNSPCH\INSTALL.EXE to install the Speech Pack
+			DoDAT cannot build this directly from the disc image
+		</comment>
+		<comment_dosc>Auto-starts, direct mouse enabled, and Sound Blaster Pro config. General MIDI option</comment_dosc>
+		<link type="media">http://redump.org/disc/68915/</link>
 		<rom name="AILXMI.DLL" size="18568" crc="8bb6344a" md5="6614117dc461057db1eae96c3bbe0548" sha1="500703df82d1f5dfb79484a5b6357e24de14c3bb"/>
 		<rom name="DEARJ.EXE" size="67782" crc="8345d5d6" md5="da89c7c4475871e76a36e33bea722e7e" sha1="9213093fd6f990de7a50af70e7c6808df0912fc5"/>
 		<rom name="DEMO.BAT" size="4" crc="02a6acc9" md5="92fae241f0a7ebfe7bf9a4597bb68d05" sha1="bd14f1d1fd69dde690fcd16df3ec42eb5a6ac1ae"/>
@@ -491,11 +502,22 @@
 	</game>
 	<game name="Ultima VIII - Pagan (1994) (Origin Systems) (German).dosz">
 		<description>Ultima VIII - Pagan</description>
-		<comment>Installed using Redump-verified CD-ROM: Ultima VIII - Pagan (USA) (En,Fr,De) (Rerelease)</comment>
-		<comment_dosc>Auto-starts and config</comment_dosc>
 		<year>1994</year>
 		<developer>Origin Systems</developer>
 		<variant>German</variant>
+		<comment>
+			Installed v2.12 using Redump-verified CD-ROM: Ultima VIII - Pagan (USA) (En,Fr,De) (Rerelease)
+			Run "install german" at command line in D:
+			Install options:
+				Source Drive: D:\DEUTSCH (Default)
+				Destination Drive: C:\ULTIMA8 (Default)
+				Sound Card: Sound Blaster Pro, 16/16ASP - Port 0x0220, IRQ 7, DMA 1
+				Music Card: Sound Blaster Pro - Port 0x0220
+			Then run D:\GERSPCH\INSTALL.EXE to install the Speech Pack
+			DoDAT cannot build this directly from the disc image
+		</comment>
+		<comment_dosc>Auto-starts, direct mouse enabled, and Sound Blaster Pro config. General MIDI option</comment_dosc>
+		<link type="media">http://redump.org/disc/68915/</link>
 		<rom name="AILXMI.DLL" size="18568" crc="8bb6344a" md5="6614117dc461057db1eae96c3bbe0548" sha1="500703df82d1f5dfb79484a5b6357e24de14c3bb"/>
 		<rom name="DEARJ.EXE" size="67782" crc="8345d5d6" md5="da89c7c4475871e76a36e33bea722e7e" sha1="9213093fd6f990de7a50af70e7c6808df0912fc5"/>
 		<rom name="DEMO.BAT" size="4" crc="02a6acc9" md5="92fae241f0a7ebfe7bf9a4597bb68d05" sha1="bd14f1d1fd69dde690fcd16df3ec42eb5a6ac1ae"/>
@@ -539,11 +561,10 @@
 	</game>
 	<game name="Ultima VIII - Pagan (1994) (Origin Systems) (GOG, French).dosz">
 		<description>Ultima VIII - Pagan</description>
-		<comment>Needs to be installed to adjust config. AILXMI.DLL needs to be replaced after launching the game for the first time.</comment>
-		<comment_dosc>Auto-starts and config</comment_dosc>
 		<year>1994</year>
 		<developer>Origin Systems</developer>
 		<variant>GOG, French</variant>
+		<comment_dosc>Auto-starts, direct mouse enabled, and Sound Blaster Pro config. General MIDI option</comment_dosc>
 		<link type="store">https://www.gog.com/en/game/ultima_8_gold_edition</link>
 		<rom name="AILXMI.DLL" size="18568" crc="8bb6344a" md5="6614117dc461057db1eae96c3bbe0548" sha1="500703df82d1f5dfb79484a5b6357e24de14c3bb"/>
 		<rom name="DEARJ.EXE" size="67782" crc="8345d5d6" md5="da89c7c4475871e76a36e33bea722e7e" sha1="9213093fd6f990de7a50af70e7c6808df0912fc5" date="2011-12-12 12:16:16"/>
@@ -599,11 +620,10 @@
 	</game>
 	<game name="Ultima VIII - Pagan (1994) (Origin Systems) (GOG, German).dosz">
 		<description>Ultima VIII - Pagan</description>
-		<comment>Needs to be installed to adjust config. AILXMI.DLL needs to be replaced after launching the game for the first time.</comment>
-		<comment_dosc>Auto-starts and config</comment_dosc>
 		<year>1994</year>
 		<developer>Origin Systems</developer>
 		<variant>GOG, German</variant>
+		<comment_dosc>Auto-starts, direct mouse enabled, and Sound Blaster Pro config. General MIDI option</comment_dosc>
 		<link type="store">https://www.gog.com/en/game/ultima_8_gold_edition</link>
 		<rom name="AILXMI.DLL" size="18568" crc="8bb6344a" md5="6614117dc461057db1eae96c3bbe0548" sha1="500703df82d1f5dfb79484a5b6357e24de14c3bb"/>
 		<rom name="DEARJ.EXE" size="67782" crc="8345d5d6" md5="da89c7c4475871e76a36e33bea722e7e" sha1="9213093fd6f990de7a50af70e7c6808df0912fc5" date="2011-12-12 12:16:16"/>
