@@ -10,6 +10,790 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
 	</header>
+        <game name="Fatal Racing (1995) (Gremlin Interactive) (French).dosz">
+                <description>Fatal Racing</description>
+                <year>1995</year>
+                <developer>Gremlin Interactive</developer>
+		<variant>French</variant>
+		<comment>
+			Installed from Redump-verified CD-ROM: Fatal Racing (Europe) (En,Fr,De) (v2.0)
+			French language
+			Installed 3dfx patch (FATFX.EXE)
+			CD image converted with CHDtoOGG (quality level -q9)
+		</comment>
+		<comment_dosc>
+			Auto start
+			CD Audio, General MIDI, Sound Blaster 16 configs
+		</comment_dosc>
+		<link type="media">http://redump.org/disc/31642/</link>
+		<link type="patch">https://community.pcgamingwiki.com/files/file/3446-whiplash-us-fatal-racing-eu-official-patches/</link>
+                <rom name="Fatal Racing (Europe) (En,Fr,De) (v2.0) (Track 1).bin" size="37403856" crc="da50d691" md5="611dddc6c56f179984bd59e61c91a222" sha1="6a711cb358dc74e9a0896b88bef92203e94f2b44">
+                        <source type="MODE1_RAW" frames="15903" duration="03:32:03"/>
+                </rom>
+                <rom name="Fatal Racing (Europe) (En,Fr,De) (v2.0) (Track 2).ogg" size="10457095" crc="6d8126cb" md5="99729cde871f377b1bc7782669aad864" sha1="2a70945078a08261bceb541a846609dde9aed49f">
+                        <source type="AUDIO" frames="15287" omitted_pregap="150" duration="03:23:62" size="35955024" crc="e91de69d" md5="21305da389e5354642adfe75cdfebae7" sha1="50b8204b957e151d1bf48808cd7df87aaca989c9" in_zeros="0" out_zeros="1" quality="9"/>
+                </rom>
+                <rom name="Fatal Racing (Europe) (En,Fr,De) (v2.0) (Track 3).ogg" size="10588256" crc="22be3ce3" md5="b1e83c949fba78146a61e4dbbf6ccd60" sha1="f5689aa94090481a180fc8d65c4bf54b17c41476">
+                        <source type="AUDIO" frames="21445" duration="04:45:70" size="50438640" crc="42787a52" md5="5f0f8ddb64890a87b45b989e25f685a1" sha1="623b286b728cfd3863c722bc4856aaa0bdc076c3" in_zeros="0" out_zeros="1" quality="9"/>
+                </rom>
+                <rom name="Fatal Racing (Europe) (En,Fr,De) (v2.0) (Track 4).ogg" size="13007778" crc="b2c05cca" md5="ab27efa8fcc23b35a2003acfdf8c1847" sha1="1404eb5e41e7d96f8af96bc9cf59289580ab96cc">
+                        <source type="AUDIO" frames="22844" duration="05:04:44" size="53729088" crc="8574fe8f" md5="acc9b25ca486b9c538cc193db2908e01" sha1="82e738449a574a6d52873156813c46aa73baf447" in_zeros="0" out_zeros="1" quality="9"/>
+                </rom>
+                <rom name="Fatal Racing (Europe) (En,Fr,De) (v2.0) (Track 5).ogg" size="13172951" crc="7be3e9d0" md5="c0610ad8ba306003ca8099bc901afbef" sha1="00f9364926d05523e0f0825860c60cd868d05f3a">
+                        <source type="AUDIO" frames="21522" duration="04:46:72" size="50619744" crc="fd728523" md5="e816593ffaddc22517c77cdf62cdf076" sha1="f5ee48d048234c37b6823f9fe503b38cc57191a1" in_zeros="0" out_zeros="1" quality="9"/>
+                </rom>
+                <rom name="Fatal Racing (Europe) (En,Fr,De) (v2.0) (Track 6).ogg" size="9725397" crc="a35f2a61" md5="1abf653fdf67eee55edda6f02256f9bd" sha1="4c034a1498dd601e3894ca55364b0b80df09ea66">
+                        <source type="AUDIO" frames="20714" duration="04:36:14" size="48719328" crc="92c6c560" md5="0e8a4eee4fc5f3a8302c8083a2e1bd40" sha1="76417bd19f60f40d53961efc44035b6054d407cf" in_zeros="0" out_zeros="1" quality="9"/>
+                </rom>
+                <rom name="Fatal Racing (Europe) (En,Fr,De) (v2.0) (Track 7).ogg" size="12112752" crc="25574224" md5="989e5bea080a81c3689acfcaa273bc88" sha1="544dcbdec72af2180985e0374a3d1fd971048cb7">
+                        <source type="AUDIO" frames="22920" duration="05:05:45" size="53907840" crc="c021cdd8" md5="1ffd843a1b3b0ded3371b297ddd82eab" sha1="2d02311c487425bc32eca822cfcc107532433cb4" in_zeros="0" out_zeros="1" quality="9"/>
+                </rom>
+                <rom name="Fatal Racing (Europe) (En,Fr,De) (v2.0) (Track 8).ogg" size="11804186" crc="fbf3edbd" md5="cca703ff2c2d16c52f4c6c882e3947e6" sha1="11cd7ba80b40e5fece917810ca8a43af8b07222d">
+                        <source type="AUDIO" frames="21629" duration="04:48:29" size="50871408" crc="296b7ae1" md5="24e2ca1ef1de661e31260dd3526af97b" sha1="a9663c3851a20a8d760838dbfcefbe2ac39ebc25" in_zeros="0" out_zeros="1" quality="9"/>
+                </rom>
+                <rom name="Fatal Racing (Europe) (En,Fr,De) (v2.0) (Track 9).ogg" size="13158625" crc="dc9e75e6" md5="5d3f683238f7f857dfe5f21161943f15" sha1="d88b82138b344c48bf13093ef63164a1fe264d06">
+                        <source type="AUDIO" frames="21522" duration="04:46:72" size="50619744" crc="c4e780cd" md5="43fa451f866243f1d3db5350873c7052" sha1="8bb0d36a15c72aa116d6427a1d20569b022b6f7c" in_zeros="0" out_zeros="1" quality="9"/>
+                </rom>
+                <rom name="Fatal Racing (Europe) (En,Fr,De) (v2.0) (Track 10).ogg" size="9740260" crc="cfd51cdb" md5="6b32714cde3796a96ddf60d73fd22c7c" sha1="13eeb90531f13dc1b8818f1ef5798c449b93df4b">
+                        <source type="AUDIO" frames="20714" duration="04:36:14" size="48719328" crc="725ee4c8" md5="f931cd921f400a0019a1eb3178bd0d69" sha1="401e227deef896053bf3be111be8962d843a5f1c" in_zeros="0" out_zeros="1" quality="9"/>
+                </rom>
+                <rom name="Fatal Racing (Europe) (En,Fr,De) (v2.0) (Track 11).ogg" size="12114811" crc="b5b2d1d9" md5="fd01e01098131b41780a646c286073c4" sha1="349d4cff3ce80ecfbb4f7724e634a97d6e66dc00">
+                        <source type="AUDIO" frames="22920" duration="05:05:45" size="53907840" crc="0465fc07" md5="f2003138bc99179a5a690ccef6ab647c" sha1="79ba4e2b6fa6335a2245c6680fec8b6b86eaf371" in_zeros="0" out_zeros="0" quality="9"/>
+                </rom>
+                <rom name="Fatal Racing (Europe) (En,Fr,De) (v2.0) (Track 12).ogg" size="5212692" crc="5d4a64e2" md5="e8623f653a1355841e52be8e10e8bc11" sha1="230eba3d454b399aadea5e554d592f5616096be2">
+                        <source type="AUDIO" frames="9078" duration="02:01:03" size="21351456" crc="3edb5420" md5="4dbd4b14ad3f09d736dcac5d0a6c1b0b" sha1="3121f6b45e0eee8c78bc586f0f4788b70745f504" in_zeros="0" out_zeros="1" quality="9"/>
+                </rom>
+                <rom name="Fatal Racing (Europe) (En,Fr,De) (v2.0) (Track 13).ogg" size="7126994" crc="81e79c60" md5="1bbe75328333f9689238179e501ae163" sha1="48fa110e21ba16a5dfc7c544542a81759bca2682">
+                        <source type="AUDIO" frames="11006" duration="02:26:56" size="25886112" crc="15d0e144" md5="2e643e72f872f5ccef9d32b7cf3232cf" sha1="4a71f064523aef3c1f165ab9de123707c2135bae" in_zeros="0" out_zeros="382976" quality="9"/>
+                </rom>
+                <rom name="CD/Fatal Racing (Europe) (En,Fr,De) (v2.0).cue" size="1424" crc="6ff45300" md5="4dc29fee2f51e655eded82843a846df4" sha1="eed429c3044ed0ffe4e1dbb3154a73107e1c1d2e"/>
+                <rom name="FATAL/FATAL.EXE" size="1129239" crc="c9ebf493" md5="812eee1404ecdfd87ff765281df89720" sha1="0e8bc5f85173cba04de2c878ebf7290424a1f2dc" date="1996-03-27 10:18:28"/>
+                <rom name="FATAL/FATDATA/0LEFT.RFR" size="27542" crc="5466569b" md5="fb31362c018485acb6519b85ec328339" sha1="bc61dea20b25b5f27a536ff48cca0eaa613f1f60" date="1995-09-25 12:51:38"/>
+                <rom name="FATAL/FATDATA/1LEFT.RFR" size="22057" crc="5ebbd0af" md5="c3f749d95cd9b375bac54c0815818c15" sha1="cd2ed2eb8e93ca250bdd4267067be1a71c881b0f" date="1995-09-25 12:52:52"/>
+                <rom name="FATAL/FATDATA/1RACE.RFR" size="22127" crc="98f1a04d" md5="d17c16f92704c9bd7d08c71212420666" sha1="e749ce041bd09b0316754551d9b8ca03d3b3cfc9" date="1995-09-25 12:53:02"/>
+                <rom name="FATAL/FATDATA/2LAPS.RFR" size="20339" crc="1176573f" md5="91d08198d636b93835b38f1770977add" sha1="421f4e54b29e71bb2fc100e5de0214c05ba8ee1f" date="1995-09-25 12:53:10"/>
+                <rom name="FATAL/FATDATA/2LEFT.RFR" size="20358" crc="b1b7c288" md5="11c4969d88da725164f0a28c5c1fce6a" sha1="329f3b1da414378e287c0786a02ecd784e832e3c" date="1995-09-25 12:53:20"/>
+                <rom name="FATAL/FATDATA/2RACE.RFR" size="22949" crc="545426a6" md5="53993517debf7322b1b38732ca36f3a4" sha1="e24b166d09d50393fdbfe132eb0c45b3e81d9612" date="1995-09-25 12:53:28"/>
+                <rom name="FATAL/FATDATA/3LAPS.RFR" size="19432" crc="8f6bb840" md5="911b7b2cff142e138fb2079e2e2f4603" sha1="9d415b9cfa0feb0bdb084e857746f9ebe6b6c344" date="1995-09-25 12:53:36"/>
+                <rom name="FATAL/FATDATA/3RACE.RFR" size="21712" crc="87a7be6f" md5="1964eb4326dd8ecfdb3cd07ef56d33b5" sha1="ad3c6f8c87ef26321ae930412caeb266f324d4bd" date="1995-09-25 12:53:46"/>
+                <rom name="FATAL/FATDATA/4LAPS.RFR" size="18283" crc="c46772d8" md5="132442bd8750624f9a093e479456bbb7" sha1="95baa8b298667a8ff7ca2cd86cf4634cdc80d8a1" date="1995-09-25 12:53:54"/>
+                <rom name="FATAL/FATDATA/4RACE.RFR" size="22057" crc="18268011" md5="bd91d7c54d6d797cc9964bec23c0154a" sha1="e56cc2e5017926f7687b52245cd14598ede73687" date="1995-09-25 12:54:02"/>
+                <rom name="FATAL/FATDATA/5LAPS.RFR" size="17566" crc="db71ce65" md5="0aae35475b0152438daf521efb652f08" sha1="d2f0db063e8d5ad09dfb6ba9dea5c71afd4caf17" date="1995-09-25 12:54:10"/>
+                <rom name="FATAL/FATDATA/5RACE.RFR" size="22089" crc="4c6a6540" md5="d74281296c86a2719220449efadaa12e" sha1="33eb5dff7a55e8dde6b64e95a80bc5e92946d72e" date="1995-09-25 12:54:20"/>
+                <rom name="FATAL/FATDATA/6RACE.RFR" size="21172" crc="b5b46a54" md5="4db9a569fa8f3d33fbbd8d0c25c3b205" sha1="fb32128b9ae6651f598902cccb52fba4b085ee90" date="1995-09-25 12:54:28"/>
+                <rom name="FATAL/FATDATA/7RACE.RFR" size="21362" crc="e945af17" md5="fb567641e1a4b748b66ec37fd644d57a" sha1="2d2b6f4a72879d275ee8f76fee6c656027fe8595" date="1995-09-25 12:54:38"/>
+                <rom name="FATAL/FATDATA/8RACE.RFR" size="21089" crc="356f1f86" md5="dcf2022d9d0b41fe12d7b5192f58d350" sha1="7717eaf1f3fd59a8f2bba89aa0744eb5f60a9b4d" date="1995-09-25 12:54:46"/>
+                <rom name="FATAL/FATDATA/AAARG.KC" size="18606" crc="93572d8b" md5="7ea408c8a44d9c0845554b7601a75d76" sha1="e4e838178d4fffd37c5055733e3688b392062c27" date="1995-09-08 17:59:10"/>
+                <rom name="FATAL/FATDATA/AAARG.RFR" size="9554" crc="78dac8de" md5="55710f90f11d3d23200745e4a8f5952a" sha1="387a4954a8f10e17c7ce8fead479d4871f5193ac" date="1995-09-25 12:54:58"/>
+                <rom name="FATAL/FATDATA/ARIEL.RFR" size="17232" crc="411aba71" md5="975dc59892338e6133ace0c750156f24" sha1="261350b31a9cc26bb5b5d4a81e3f8c89546a41da" date="1995-09-25 12:55:04"/>
+                <rom name="FATAL/FATDATA/BANK.RAW" size="6130" crc="1e662979" md5="f227317f4801df59579f0ed9a9cc2660" sha1="3b13d21a9b8b0f6691eee586f11ce810e0b4d5c3" date="1995-09-08 16:39:40"/>
+                <rom name="FATAL/FATDATA/BASH.KC" size="25349" crc="c8bda5b1" md5="91e5d66c2d92b6d896b978d41e4014a4" sha1="f15893099832c0b495ccae96be276681836ea815" date="1995-09-08 17:59:58"/>
+                <rom name="FATAL/FATDATA/BASH.RFR" size="14437" crc="1b1fcb21" md5="5bc6aeba703f1a8a8bf313259bf873a6" sha1="d615f1fb2135981dd20d4eb09a222babaf1631fd" date="1995-09-25 12:55:10"/>
+                <rom name="FATAL/FATDATA/BASH2.RFR" size="31943" crc="e2ca48f2" md5="dbcdaa414d70e6156b862e632065e3a7" sha1="b8ffe842a22fc65d447da806d560c3f29755a2a5" date="1995-09-25 12:55:24"/>
+                <rom name="FATAL/FATDATA/BEST.RFR" size="20621" crc="17de3983" md5="525036e053d713ba9a191bc523c8ccf1" sha1="b1b091d41f32c14dad5739efdac5c68f4ffe9254" date="1995-09-25 12:55:34"/>
+                <rom name="FATAL/FATDATA/BIGCRASH.RAW" size="19372" crc="8dcc9c0e" md5="34bfcf96a80e3caf6779bd3f7ab5824c" sha1="96399dd7a1b2412fb29f0db1f87967f891619713" date="1995-09-08 16:37:56"/>
+                <rom name="FATAL/FATDATA/BLOCK.KC" size="18016" crc="92399f4c" md5="30ac9cc70b870c57dc260e7333f94121" sha1="baea630767d983039380576147fce363b07c5e22" date="1995-09-08 17:59:46"/>
+                <rom name="FATAL/FATDATA/BLOCK.RFR" size="13129" crc="0085d2be" md5="44f2309395c38eac90c72358ce0a0c19" sha1="395ca50b10ee6da68f255451abc6333e7fe63ea7" date="1995-09-25 12:55:38"/>
+                <rom name="FATAL/FATDATA/BLOCK2.RFR" size="15992" crc="6a87d16d" md5="66fcc91a1a59ed145b4ada53b06e5a01" sha1="de46b49f13124ed59e21e8f90ff8f7bf83c3d193" date="1995-09-25 12:55:44"/>
+                <rom name="FATAL/FATDATA/BLOP.RAW" size="4947" crc="fd0f237c" md5="4cc7403568daa59e700251a10acfe3ff" sha1="db1806e44d858035cb8163c025bc12b47ab6a61b" date="1995-09-30 13:32:42"/>
+                <rom name="FATAL/FATDATA/BLOWTIME.RFR" size="24604" crc="23a96e0a" md5="6e1b99eea880643d2f61f41c19b0628c" sha1="3858eed08c7f12062603cc5f28dc7cbd5cb504b0" date="1995-09-25 12:55:56"/>
+                <rom name="FATAL/FATDATA/BOING.RAW" size="8588" crc="5d53138c" md5="f340d26792b116c07b6821309aa8cbc1" sha1="c886b59528fa8b899e04ca7412e171404e4bd003" date="1995-09-30 13:32:44"/>
+                <rom name="FATAL/FATDATA/BONUSTRK.BM" size="2799" crc="90f88d09" md5="667c70c92732df8e34be54e82d6beccd" sha1="efaf3b54561192b5624e57edb243fac68d1dbab0" date="1995-09-08 19:36:54"/>
+                <rom name="FATAL/FATDATA/BRP.RAW" size="3350" crc="fef7132f" md5="2de34e7d218b88878e674e36f4c2088a" sha1="71552cff5eaa3e1f774b1bab4ee6299e36d07ffe" date="1995-09-30 13:32:40"/>
+                <rom name="FATAL/FATDATA/BUILDING.DRH" size="56027" crc="1e027ad2" md5="899783710ffbdd3b9d0c858e73866d12" sha1="cf73ea086d6910629944fc7caf3da4d4291d42ab" date="1995-09-08 18:46:34"/>
+                <rom name="FATAL/FATDATA/BUTTON.RAW" size="1446" crc="1972f78c" md5="febe3726d0ce168019ecae7943faf55d" sha1="4380f6b425039d5ea8b3925c21289250399209ad" date="1995-09-08 16:41:00"/>
+                <rom name="FATAL/FATDATA/CARIN.RAW" size="20088" crc="20609828" md5="7146420ab2768de757658aaa6b20d567" sha1="3c3c1cc620a700c362d62d608970bac61ee5c7b2" date="1995-09-08 16:39:34"/>
+                <rom name="FATAL/FATDATA/CARNAMES.BM" size="9271" crc="0fb179aa" md5="76025185d97fc0d468a640f2443cee0e" sha1="ad5ceb9564982afbc6c592067935da0f4d48d559" date="1995-09-19 10:50:54"/>
+                <rom name="FATAL/FATDATA/CAROUT.RAW" size="19482" crc="7e64b668" md5="3d53f94363b4e3c952c628a1d1db991a" sha1="fad640f8e6477d39eba63cfc179705637324cba8" date="1995-09-08 16:42:58"/>
+                <rom name="FATAL/FATDATA/CHAMP.BM" size="1071126" crc="c536d0cb" md5="b8cbd3b817f6721aa9fc9262519adc1d" sha1="93568876b7585a4008a5557ffb060184563500b6" date="1995-09-08 19:18:50"/>
+                <rom name="FATAL/FATDATA/CHAMP.PAL" size="768" crc="10d31d8a" md5="23b57e46f2982fca55841658893167f3" sha1="54e41ee244b2fb68f1ce22c0491babc6b487b15e" date="1995-08-09 16:04:10"/>
+                <rom name="FATAL/FATDATA/CHEAT.TGA" size="256786" crc="238b87e7" md5="397792d4fdfe1f95303a7d2c75b35b73" sha1="d6d70236ba0fbc80a7dc93c941b6aa6ff6f34e92" date="1995-10-09 13:47:16"/>
+                <rom name="FATAL/FATDATA/CHEATPAL.PAL" size="768" crc="abfbaa2a" md5="59584361fb89279a1572759c7b29abfb" sha1="5773927b1e1474c85881f24be9f5e081079ba39c" date="1995-12-01 12:20:20"/>
+                <rom name="FATAL/FATDATA/CHUMP.BM" size="89406" crc="523a366d" md5="9fdab40b886fccc9ebe4d11974c6ccc1" sha1="4274e106ef1a57ce3e4673c04d7857ba3c2a7288" date="1995-09-08 19:24:50"/>
+                <rom name="FATAL/FATDATA/CONFIG.ENG" size="1759" crc="f46790f7" md5="cb206f9415e175d223d8983ec41d22f9" sha1="ad2e1d83b00b3db4fc0ab19f3c1b9ca223b02528" date="1996-02-29 11:11:56"/>
+                <rom name="FATAL/FATDATA/CONFIG.FRE" size="2039" crc="fe4740dc" md5="edb156c83e3a3fc2deb28cd93e143c96" sha1="6ab2aa224b1ff2de08b3224d787a60846baee093" date="1996-03-20 12:23:14"/>
+                <rom name="FATAL/FATDATA/CONFIG.GER" size="2044" crc="81072ada" md5="e926ab815775d7292e2e07d45e294cf5" sha1="4ff972da6a2f87dfc8c7b4eaff1e97bfbfbb50d3" date="1996-03-01 16:32:28"/>
+                <rom name="FATAL/FATDATA/CONGRAT.RFR" size="52815" crc="7c4ae6f8" md5="0643149fba461cf216b78eb3bead3fc2" sha1="fe92705b65742722bf035d6a2b56ed80739d4b0d" date="1995-09-25 12:56:20"/>
+                <rom name="FATAL/FATDATA/CORKCOME.RFR" size="9641" crc="876ce43c" md5="b54cffcdb2bef78b0ed7cf868eb23c11" sha1="97d7ba6b0b4375a0e9e087d445e9959e8876cc9a" date="1995-09-25 12:56:22"/>
+                <rom name="FATAL/FATDATA/CREDIT1.BM" size="19213" crc="bf115793" md5="0f376be0dc5035c44e17c62cd59e4aa5" sha1="def06b4ba0893271785e14d2b7afbdf1af1b2924" date="1995-09-08 19:25:22"/>
+                <rom name="FATAL/FATDATA/CREDIT1.PAL" size="768" crc="19353fca" md5="8f3452ea5624678c482c07cb729675c0" sha1="5de602621b548357db581dec505fc5f29fd3aa30" date="1995-08-30 10:36:20"/>
+                <rom name="FATAL/FATDATA/CREDIT2.BM" size="12803" crc="232d0f3b" md5="b1f8eef13b10c937f693c8caf6cf0b2a" sha1="5e92f184c4edd2803856a02fe4cbf1077abfdc8e" date="1995-10-09 09:57:14"/>
+                <rom name="FATAL/FATDATA/CUPICONS.BM" size="8009" crc="90f3ed8b" md5="e2e8771846c8fdfe12f36157a487e0b0" sha1="ba389e3419ba18deb68cb65aa0d3600e14e79793" date="1995-09-08 19:36:38"/>
+                <rom name="FATAL/FATDATA/DEATH.BM" size="46778" crc="2c235f03" md5="b0af70cf7329d3394be076d8f45a3583" sha1="7b68549a214469f2dd2f5878ff04007182317469" date="1995-09-28 15:02:56"/>
+                <rom name="FATAL/FATDATA/DEMO64.BM" size="78855" crc="c69bcd82" md5="4f33bde451b0d71a13a3ef54a1ef5c22" sha1="9655c128b58cb49fbe526ffb28acbdea20817599" date="1995-09-08 19:08:34"/>
+                <rom name="FATAL/FATDATA/DEMO64.PAL" size="768" crc="1feadb64" md5="f24e243be5431461556f1e7855d3b579" sha1="bc110a75d7e89536a4212f20989746746169a39d" date="1995-08-03 17:07:26"/>
+                <rom name="FATAL/FATDATA/DESILVA.RFR" size="15939" crc="0b8824ed" md5="f0394d6b6d0f2c5d9ba869e60547420c" sha1="319190c60648dde106e7b819c3fd3e0ae7512ae4" date="1995-09-25 12:56:28"/>
+                <rom name="FATAL/FATDATA/DRIVERS.KC" size="8387" crc="e8d9bb3f" md5="e96714a4e46682598f476fad83db1afe" sha1="c0e72f968948a764e83519fffcc65278dc3bb8a7" date="1995-09-08 17:57:28"/>
+                <rom name="FATAL/FATDATA/DRIVERS.RFR" size="13347" crc="73e160cd" md5="0b6ed549891db7aef03f6cd053d04d14" sha1="73d4b0824cc4388a6b461024b244da756a2f5ea1" date="1995-09-25 12:56:34"/>
+                <rom name="FATAL/FATDATA/DRUM.BNK" size="1478" crc="a4d7ca0e" md5="126a5d37fdbcf6d35ed5f7f7d6d03779" sha1="836e9249ace40d774a527f78f6ff308d3fce2785" date="1995-09-08 18:11:58"/>
+                <rom name="FATAL/FATDATA/EIGHT.RFR" size="21924" crc="6c633c5f" md5="945338198c4c7430159d5c1465ff5a25" sha1="a90d93a1dd1f9c3d4a4dbaef412e95e1a944cff8" date="1995-09-25 12:56:44"/>
+                <rom name="FATAL/FATDATA/ELEVEN.RFR" size="23128" crc="afbc249b" md5="02668c0467c04475198b21daaebb312a" sha1="897ef168bd3a9680f82c5becebca8813773d97ea" date="1995-09-25 12:56:52"/>
+                <rom name="FATAL/FATDATA/ENGINE.RAW" size="2202" crc="3a72bc36" md5="190f72adf9e6d6022fd3971e063940bb" sha1="a55f2c854f0244392ed416d514c745c8193a5ea8" date="1995-09-08 16:40:22"/>
+                <rom name="FATAL/FATDATA/ENGINE2.RAW" size="2202" crc="3a72bc36" md5="190f72adf9e6d6022fd3971e063940bb" sha1="a55f2c854f0244392ed416d514c745c8193a5ea8" date="1995-09-08 16:40:02"/>
+                <rom name="FATAL/FATDATA/ENGINES.KC" size="10408" crc="caf2df96" md5="e30b6cf7132694244b8813c5cdd098fd" sha1="6d896770be9816702393263d23e31081a57d49e6" date="1995-09-08 18:00:00"/>
+                <rom name="FATAL/FATDATA/ENGINES.RFR" size="15775" crc="09046b19" md5="15acb8cd23c51da761760bf2d0a9af55" sha1="ec20f388c6ed59988acf5bb338dbc6337115283a" date="1995-09-25 12:56:58"/>
+                <rom name="FATAL/FATDATA/ESTART.RAW" size="20606" crc="965e3a5c" md5="c5e239d6dedd79c6a5679d47fa489eaa" sha1="4a2bfc98d5a68c886b7acdc78c9de1a5253cee82" date="1995-09-08 16:38:06"/>
+                <rom name="FATAL/FATDATA/EXPLO.RAW" size="19916" crc="2d84a86c" md5="2df079023f5e7fcd427c59d3f46d4e40" sha1="a55cd225486caa4b4d9ea293338004ee1869a19d" date="1995-09-08 16:55:20"/>
+                <rom name="FATAL/FATDATA/FALSE.RAW" size="16367" crc="88e11b3f" md5="78726e77541445105575e16701086536" sha1="2e0e7112eeae0ac7deb3f3370e8f19127e49a958" date="1995-09-08 16:38:40"/>
+                <rom name="FATAL/FATDATA/FARIEL.KC" size="101743" crc="b44d6b98" md5="9ce8ec13f619893242365fdcfc680502" sha1="f0eacc8a834c23d50e36078b6f560e23f1adf48d" date="1995-09-08 17:58:14"/>
+                <rom name="FATAL/FATDATA/FARIEL.RFR" size="149134" crc="e6f63714" md5="778340c8c0a8b94444268b541ffcdd4c" sha1="340d36c49046daf33d3f031c1808dbedb0cbe75b" date="1995-09-25 12:58:06"/>
+                <rom name="FATAL/FATDATA/FAST.RFR" size="20623" crc="ae8c0390" md5="f12ace4046d830e13e3041f435f3be61" sha1="6761fabc589067cc8730e1d9fe582acc50d24c5a" date="1995-09-25 12:58:16"/>
+                <rom name="FATAL/FATDATA/FATAL.KC" size="22009" crc="2e08268d" md5="547193bc084ea9a60b2e73d61fef7db3" sha1="b3bea3d98d237a46d52f42936ef96ae115cc2364" date="1995-09-08 17:58:36"/>
+                <rom name="FATAL/FATDATA/FATAL.RFR" size="19430" crc="e512eb2d" md5="caf20b9cc7db7fdf6801a9df7be59255" sha1="b51233c625a7df25c98ec0fb2da0b5eee4217dc7" date="1995-09-25 12:58:32"/>
+                <rom name="FATAL/FATDATA/FATALITY.RFR" size="9496" crc="160e8555" md5="5a4b5d98561a908c18da04cefcbd190b" sha1="706d318c349532b960ade6978e1e00ddc6963c50" date="1995-09-25 12:58:34"/>
+                <rom name="FATAL/FATDATA/FATALPAT.INI" size="2566" crc="2c166d1a" md5="81373e5182afbe8a666af2cee6751b79" sha1="6dc2768b5b6da20de78b9624ae0912b95f60a78f" date="1995-08-03 15:39:34"/>
+                <rom name="FATAL/FATDATA/FATLOTS.RFR" size="25632" crc="b409f71c" md5="773797db31ae935fe9675cf6edf4b322" sha1="e93ff9034eb0a7616725a399ef4e7414cbe4930a" date="1995-09-25 12:58:46"/>
+                <rom name="FATAL/FATDATA/FDESILVA.KC" size="62143" crc="ddecd4ad" md5="c6de0a4c23d1dc1676e5dae4bfdb2208" sha1="c539d710e914ce2084ddafd89d8f323823bdf7e4" date="1995-09-08 18:00:32"/>
+                <rom name="FATAL/FATDATA/FDESILVA.RFR" size="171679" crc="58ca10d1" md5="9f209a137f2930b33e7d83780b365050" sha1="72bb3d63d64376ff7662580bcd9577d57a0784f9" date="1995-09-25 13:00:04"/>
+                <rom name="FATAL/FATDATA/FENDER.RAW" size="5163" crc="b3be7629" md5="fbb8da1fcd29c008cbbfc07cf3b3f364" sha1="66f10b25cc6815890d6a9ceb200add1172a17df6" date="1995-09-08 16:38:08"/>
+                <rom name="FATAL/FATDATA/FENDER2.RAW" size="6196" crc="bc93e1e7" md5="34dd2a59de488b1bbcfb69632f144426" sha1="703ca14c4468dacade944431f8d1ea47f2d0513c" date="1995-09-08 16:37:56"/>
+                <rom name="FATAL/FATDATA/FGLOBAL.KC" size="61259" crc="b406da5d" md5="ef52942f108f731db5b710ef400fd333" sha1="c114218b4d8484b893812d3520da9e148cb821f1" date="1995-09-08 18:02:00"/>
+                <rom name="FATAL/FATDATA/FGLOBAL.RFR" size="158071" crc="09ee44d0" md5="c565fb787de42250c78f662375049432" sha1="75ce6b9ac177f9767db408cacadc56cb5fd506ab" date="1995-09-25 13:01:18"/>
+                <rom name="FATAL/FATDATA/FIFTEEN.RFR" size="23513" crc="8f2fe256" md5="8f7f3d83e0c643d3fe81ac250589523e" sha1="aa1f0e359f8acac6bcf38828774b8d00d3e35442" date="1995-09-25 13:01:28"/>
+                <rom name="FATAL/FATDATA/FINAL1.RFR" size="12762" crc="096a4d42" md5="af3b76ccc8945fecb33a9ca28cbf9b38" sha1="1302c12531c395150b69edb451a7ab6523bf7950" date="1995-09-25 13:01:32"/>
+                <rom name="FATAL/FATDATA/FINAL2.RFR" size="20974" crc="1b1457ff" md5="f1a5fdd308f80a373113b1cca604be49" sha1="91dae6b8922546761dcb6be51d41ad1f16c3c275" date="1995-09-25 13:01:40"/>
+                <rom name="FATAL/FATDATA/FINAL3.RFR" size="25042" crc="e687f57d" md5="e3910ba196d0936e6f4dcfc2e6a061db" sha1="2dab4c0b3902fe447a3a09b7345cc68d709fd44b" date="1995-09-25 13:01:52"/>
+                <rom name="FATAL/FATDATA/FIVE.RFR" size="22812" crc="cf0157c9" md5="0f4bd6691b7fb00285a3ee59d18a4b6d" sha1="b2810b40bcc7dea6bb078666be47c9ea333843fa" date="1995-09-25 13:02:02"/>
+                <rom name="FATAL/FATDATA/FIXED.RFR" size="30837" crc="b6e19622" md5="a0a9d934b6b805288a5394e8d225483a" sha1="71f637fd3c36a71d3c1d8acf0f6bb143057542d2" date="1995-09-25 13:02:14"/>
+                <rom name="FATAL/FATDATA/FMILLION.KC" size="143515" crc="dd12b9a4" md5="9013cc6b482edba5dd298d678e9f3c51" sha1="88ac8d5a0d329e73f9d52ac94aba5c0d75e76ac4" date="1995-09-08 18:03:08"/>
+                <rom name="FATAL/FATDATA/FMILLION.RFR" size="122343" crc="16d22024" md5="85d95336a65b5758e6c31dce253fbcdb" sha1="9dace8726254d45f0a18c7ae75098042af2f038b" date="1995-09-25 13:03:10"/>
+                <rom name="FATAL/FATDATA/FMISSION.KC" size="96816" crc="3448ce40" md5="b96ccd3b54943ed6b904f2d753433c8d" sha1="8ee64f14b067eca4f91ae5b36f9969046a500678" date="1995-09-08 18:04:46"/>
+                <rom name="FATAL/FATDATA/FMISSION.RFR" size="153716" crc="ae98b9a9" md5="e6befd3f595c4092f19d3bd3ed8e8a85" sha1="6cd295bc348000f9c2c24654ccdaecb7edd56840" date="1995-09-25 13:04:22"/>
+                <rom name="FATAL/FATDATA/FONT1.BM" size="3769" crc="63e29cab" md5="340dbdd1fe37f1afa910752bb7671a28" sha1="2f393e3bb34fc1df22e95f46483dd69e67484116" date="1995-09-26 17:21:26"/>
+                <rom name="FATAL/FATDATA/FONT2.BM" size="4812" crc="e6cd340e" md5="091fa9eac0f4637d7432a8c4c0b157f8" sha1="ba43de84dea12c9775d5f0ad4f3da6d1148c9efd" date="1995-09-26 17:21:28"/>
+                <rom name="FATAL/FATDATA/FONT3.BM" size="6769" crc="8382d468" md5="e15c4f9184fb041faf68302a569964ff" sha1="5b8de786d71c8cccdfa14da77d77753202324bb2" date="1995-09-26 17:21:34"/>
+                <rom name="FATAL/FATDATA/FONT4.BM" size="9753" crc="bcd45813" md5="5d9e3165327418ed35c2f97a5a1b8994" sha1="b3bb1f2ab2c236dcbe7ba3cb20df3d9965b9776d" date="1995-09-26 17:21:40"/>
+                <rom name="FATAL/FATDATA/FONT5.BM" size="6922" crc="68755636" md5="c94e7de910b9ac6ed1da25b0abe9d705" sha1="9a600c7069c683ccd2d90643d61d669176e49654" date="1995-09-26 17:21:44"/>
+                <rom name="FATAL/FATDATA/FONT6.BM" size="1156" crc="7ee901c7" md5="7115683ee6465132a02c206eea6631b4" sha1="3124fcfc578d698e6ed82f6236f759a066b95def" date="1995-10-08 14:23:04"/>
+                <rom name="FATAL/FATDATA/FOUR.RFR" size="22939" crc="ed4e346b" md5="70f46e52a260ca25b722787ca79ad3b2" sha1="bbdf5c29b065241774a951c1e3ea44fb95a29bed" date="1995-09-25 13:04:30"/>
+                <rom name="FATAL/FATDATA/FOURTEEN.RFR" size="24066" crc="b9cbe1b8" md5="1e2bf660e61986b10ab3b5009a472740" sha1="d63c077b42609fc2931c2ea1427cc590863e06e7" date="1995-09-25 13:04:42"/>
+                <rom name="FATAL/FATDATA/FPULSE.KC" size="127676" crc="7a17dca7" md5="54616ba66b20f405e40c353d4b9ba009" sha1="8d82c30a93c51bb720085f3c6663efef3a5e7f85" date="1995-09-08 18:01:32"/>
+                <rom name="FATAL/FATDATA/FPULSE.RFR" size="112354" crc="31967189" md5="0cc82b375d5e49b0b224910cd982495a" sha1="a991905b5f4165e48fda43b6404ed52059159767" date="1995-09-25 13:05:32"/>
+                <rom name="FATAL/FATDATA/FREISE.KC" size="124382" crc="58bb30bc" md5="0ad29b0f83d222b5de916136feb8d7be" sha1="a96bcb8aa3940c5d728bdc51407ac10ed519a04f" date="1995-09-08 18:05:46"/>
+                <rom name="FATAL/FATDATA/FREISE.RFR" size="160637" crc="89da2727" md5="f18b31283aa2a1bf3044bcde2ebd8806" sha1="159eabde114e126b160e0412c8d9ca5195a880e7" date="1995-09-25 13:06:46"/>
+                <rom name="FATAL/FATDATA/FRONTEND.BM" size="60051" crc="138e8792" md5="e7a91d191211354ea5bc38b7cbfa3923" sha1="cd0e3d51475b7b72de3218474a81a6ff68944066" date="1995-09-08 19:08:06"/>
+                <rom name="FATAL/FATDATA/FRONTEND.PAL" size="768" crc="02526308" md5="da26ae29179763d611c798baf2163d6b" sha1="ad7cdab387b682fbcd3c9eca450fb3628a72a90a" date="1995-07-25 16:38:52"/>
+                <rom name="FATAL/FATDATA/FZIZIN.KC" size="112601" crc="54e83348" md5="7bd0f01019d8769d9cab1e1ca8ee7122" sha1="b4eb9d1a5fd62b6d96fa5a6700482c279a856719" date="1995-09-08 18:04:02"/>
+                <rom name="FATAL/FATDATA/FZIZIN.RFR" size="115147" crc="305a0d65" md5="9c1c41760b2cc52807f008f23fc9e8de" sha1="b841c6ffa252617aed0559916a1661af15bd846f" date="1995-09-25 13:07:38"/>
+                <rom name="FATAL/FATDATA/GENTEX.DRH" size="34953" crc="40a61c30" md5="de6bbf47f18b2544595a3c8afd4e4c37" sha1="40dcea32cd8cb398c570781f105d84a6df841378" date="1995-09-08 18:54:34"/>
+                <rom name="FATAL/FATDATA/GIGTE163.CGL" size="173729" crc="021f2a82" md5="0f9945620188e38ec40ceafab7b7a97f" sha1="b3c1c70065e1cff889bad4cc7093f48712fc32e3" date="1996-03-15 13:14:24"/>
+                <rom name="FATAL/FATDATA/GLOBAL.RFR" size="15859" crc="25ee9ee4" md5="27d94f4248a080e3e7f9f00746b94cce" sha1="2b1c15800293225e92dc67eb05110d93f1d42e97" date="1995-09-25 13:07:44"/>
+                <rom name="FATAL/FATDATA/GO.KC" size="6377" crc="e3642e96" md5="6842e78da0a38e139f88f602f24306af" sha1="88fd54a51aae60f9c88a3d140e17c25ba6fc43b9" date="1995-09-08 18:00:02"/>
+                <rom name="FATAL/FATDATA/GO.RFR" size="8778" crc="1c2ca052" md5="930219d4572b7aab10e502ee946c9bcc" sha1="933ca28b19493152e7e51cd1b97b3f9c34e68101" date="1995-09-25 13:07:48"/>
+                <rom name="FATAL/FATDATA/GOTONE.RFR" size="15874" crc="799af511" md5="66d529c3f582a02d637eba7489badc91" sha1="c9411577801fb1490dd77b4de8b60966963cc6ae" date="1995-09-25 13:07:54"/>
+                <rom name="FATAL/FATDATA/GREMLIN.BM" size="144778" crc="adcbb354" md5="7364ec18b7e013ee27cf65a65f7e2b89" sha1="038003c6d9d572c3d960c6f2df847b0a75d356de" date="1995-09-08 19:21:42"/>
+                <rom name="FATAL/FATDATA/GREMLIN.PAL" size="768" crc="e9f89167" md5="7250a43fa79c80a27428c33173f5c4ef" sha1="d1807b5e7b872152db610204ed23f49c36c4b7c0" date="1995-08-14 13:45:04"/>
+                <rom name="FATAL/FATDATA/GRSHIFT.RAW" size="2324" crc="769661a7" md5="c8f765f34dc97d75965e387b97f1aef9" sha1="d8456bf4564097922b556bece50ac28e97cf8c81" date="1995-09-08 16:40:02"/>
+                <rom name="FATAL/FATDATA/HARDER.KC" size="22817" crc="ee1512af" md5="a4118728e11069dccebbd24e9ba5ae65" sha1="5a495f26f2597d4356febb8456227ce1c55b4cf3" date="1995-09-08 17:59:20"/>
+                <rom name="FATAL/FATDATA/HARDER.RFR" size="22213" crc="63756d5f" md5="8afa368554e8733f67fff7efdc8c19a0" sha1="d5f1e824497c1555165c5e1fdb3af68dd26e0a56" date="1995-09-25 13:08:02"/>
+                <rom name="FATAL/FATDATA/HMIDRV.386" size="261425" crc="f6d116a3" md5="bd16499c7c0ef8cebb0999373edc5361" sha1="becd7f4a413a1966986b4c41c860b678d7244d58" date="1995-02-06 03:00:00"/>
+                <rom name="FATAL/FATDATA/HMIMDRV.386" size="117848" crc="8d8c0f2d" md5="c8702beb910ac9c082133d8ad235d3f0" sha1="b0ad2e339c5250b5dcee45f0fbaa366a0c119738" date="1995-04-05 09:45:00"/>
+                <rom name="FATAL/FATDATA/HURTME.RFR" size="20009" crc="4c48bc4d" md5="48ac411acf588087deeae1b3ef898631" sha1="cb2c5ee2ac51652e85847dce51fc9bdb2482ad7c" date="1995-09-25 13:08:12"/>
+                <rom name="FATAL/FATDATA/HURTYOU.RFR" size="27325" crc="f3dcce3a" md5="d604217ef5c9bb973513c19e3d77a272" sha1="d0891487c7a517f2ed263c8d0789c88166132667" date="1995-09-25 13:08:24"/>
+                <rom name="FATAL/FATDATA/INGAME.ENG" size="1512" crc="4d118e4e" md5="0b3ede4f474b500d8e36583e7faed9ac" sha1="a2740d0d2c22755f6c4923b68d655aab326f6243" date="1996-02-29 11:45:10"/>
+                <rom name="FATAL/FATDATA/INGAME.FRE" size="1871" crc="9e891325" md5="db50cede9b3f76151ad5d3f5154a05a6" sha1="6f1ad4d891543395cad77c873299cebad46f1415" date="1996-03-20 12:23:30"/>
+                <rom name="FATAL/FATDATA/INGAME.GER" size="1806" crc="7410d1d7" md5="8c93c3e7705fde350d21d816adefa555" sha1="87cae540e7dc6b341d529211f64392f67f5cd28e" date="1996-03-01 16:33:54"/>
+                <rom name="FATAL/FATDATA/INGAME1.HMP" size="5277" crc="5b33be68" md5="7548d7d118470a9ec7eed819821bcb7b" sha1="7c444594ff16a69f30997ca48b91413ed143ca63" date="1995-09-08 18:11:14"/>
+                <rom name="FATAL/FATDATA/INGAME2.HMP" size="9739" crc="bf1d14d3" md5="9d9313d274661244cf7a3be3007dbfdf" sha1="732817615bdd99250ea071996e733864ce804ae5" date="1995-09-08 18:11:16"/>
+                <rom name="FATAL/FATDATA/INGAME3.HMP" size="2124" crc="ae3954d5" md5="23834d4ea9fefc9c17ac15b7e4d81eba" sha1="72d9723cb2b6cea1e29f26b01cf23f46f3e1958f" date="1995-09-08 18:11:18"/>
+                <rom name="FATAL/FATDATA/INGAME4.HMP" size="5102" crc="e2b1fc61" md5="f2704e27ca53e4a6696eae60e5932b50" sha1="548bb7637e27f9beebbb5ba167725b8cb3b67b16" date="1995-09-08 18:11:20"/>
+                <rom name="FATAL/FATDATA/INTRO1.GSS" size="471041" crc="132bac2a" md5="3156825d0e9aa11b740f9e3a43f93e11" sha1="ae22ae47ceb371277723a764b78769447dfd569c" date="1995-09-13 12:06:16"/>
+                <rom name="FATAL/FATDATA/INTRO2.GSS" size="774593" crc="a1ee98e4" md5="1624676275cb44fe71d5a3e564346933" sha1="b8ba67316ed1d95b87670f7f42149b5991dae625" date="1995-10-07 12:16:04"/>
+                <rom name="FATAL/FATDATA/INTRO3.GSS" size="124833" crc="4efcd353" md5="6697409969dedc8f13ad3374c66cbc3f" sha1="e1f560c87a8018e32772bfff60e31b658ebcbbc6" date="1995-10-07 12:58:50"/>
+                <rom name="FATAL/FATDATA/INTRO4.GSS" size="388705" crc="7e4600e0" md5="ef3780a7c81a64086346c1dcc5fdf157" sha1="55460047702ca499db0e2ba220d06736365ea6f4" date="1995-09-12 12:05:32"/>
+                <rom name="FATAL/FATDATA/INTRO5.GSS" size="763681" crc="41899353" md5="3ee78cb764b6ed8c4a3974247c3f822d" sha1="f0e4abea79e2c3096b6ba22f2c50ca73871ba62a" date="1995-09-13 17:02:02"/>
+                <rom name="FATAL/FATDATA/INTRO6.GSS" size="911985" crc="67ce3265" md5="438dd4efd2831a08182fc4d1ad7e7602" sha1="4fb99bfeacd2520e0ee9812b43561df15de72e0b" date="1995-09-23 13:10:20"/>
+                <rom name="FATAL/FATDATA/INTRO7.GSS" size="545937" crc="3840e4a7" md5="a2261d370dd885014880c96a07893b94" sha1="3bdc622fe031d941d1989fa9d4d21476059562d8" date="1995-10-09 12:19:18"/>
+                <rom name="FATAL/FATDATA/KEEPGO.RFR" size="11688" crc="590edd55" md5="2a260ad96a19181c929f08f827846c0d" sha1="0ccd4776b13947bb5a55236147e2a5d34a3430fa" date="1995-09-25 13:08:28"/>
+                <rom name="FATAL/FATDATA/LANDSKID.RAW" size="6706" crc="bf49898c" md5="2c73e020c48d3f6c61bcde25431afc80" sha1="c5fa0afe248edbf94709148476b92021121a8969" date="1995-09-08 16:38:08"/>
+                <rom name="FATAL/FATDATA/LANGUAGE.INI" size="94" crc="dbcfedee" md5="71455ca93796577abfc5961b4cfeec91" sha1="37bb41430e99ae97a9d29b415011dda1d0894a38" date="1995-10-02 17:28:08"/>
+                <rom name="FATAL/FATDATA/LAPPED.RFR" size="35402" crc="d6deb596" md5="e402063fb8eec51a127cb7d283498268" sha1="8da725e74c34b1590ca27afdfe2dd05d7606ba0c" date="1995-09-25 13:08:44"/>
+                <rom name="FATAL/FATDATA/LEADBORD.HMP" size="2262" crc="87c867e7" md5="d89b586dfae98a200d9765bcaad2cff2" sha1="a7f6ea92f8dab1986ad554504c047edf735bfff0" date="1995-09-08 18:11:22"/>
+                <rom name="FATAL/FATDATA/LIGHTLAN.RAW" size="6822" crc="63cd570d" md5="adebfc9bbbb780a5f03e2d8a47b261a0" sha1="c4ba8ddb255f95b1776f588abe7f92dc5cd6144b" date="1995-09-08 16:42:42"/>
+                <rom name="FATAL/FATDATA/LOOPCOME.RFR" size="11194" crc="3bd06b10" md5="4c91435992f4b2204ab9bd16e27dc63b" sha1="a727c1bffe90cffe60ae7ad74809132c196f15f0" date="1995-09-25 13:08:48"/>
+                <rom name="FATAL/FATDATA/MELODIC.BNK" size="3003" crc="ffea3858" md5="d520b4e7576a48b73c58e44effcb9db0" sha1="3bae1eb4f992b5dc0319d3176f83271b96e8fc0a" date="1995-09-08 18:11:58"/>
+                <rom name="FATAL/FATDATA/MENDING.RFR" size="12768" crc="bf47c113" md5="494c33d613753b74590fbc6e97909128" sha1="2cd05d98edfe9fbfb741da5c4ad54e401e48bfc9" date="1995-09-25 13:08:52"/>
+                <rom name="FATAL/FATDATA/MILLION.RFR" size="16874" crc="466cca76" md5="d94d52eebce785f24d3c9bcbf34c5d92" sha1="b3f59d622c80aa6a08f6d051279069dabbaff3c1" date="1995-09-25 13:08:58"/>
+                <rom name="FATAL/FATDATA/MINITEXT.BM" size="475" crc="ca58513d" md5="beddb825ee4368fca707804253d06c00" sha1="3b343452ac3c9f34aeab096876c1ccc75768ec53" date="1995-09-29 11:46:22"/>
+                <rom name="FATAL/FATDATA/MISSION.RFR" size="21231" crc="a8d49073" md5="8c3df88ed550ac68dd9d5ae79470b133" sha1="e78b5ab4aa93169ce2cedf14fa280e15d9078131" date="1995-09-25 13:09:08"/>
+                <rom name="FATAL/FATDATA/NEWFAST.RFR" size="26156" crc="6b9c5a3e" md5="845b1c406cf0c3df88ab48194a4cf5ce" sha1="4e7a94c555f42b23df5f3629361e77a5592ae56c" date="1995-09-25 13:09:18"/>
+                <rom name="FATAL/FATDATA/NEWLAP.RFR" size="30767" crc="f77b8a34" md5="b129dffced4b72e5c21e17f3c8f826f7" sha1="33d8e42ea21ff79efa00fc29979415844e496714" date="1995-09-25 13:09:32"/>
+                <rom name="FATAL/FATDATA/NINE.RFR" size="23331" crc="60678cb8" md5="5939688337706a15219fab330ec30dad" sha1="1d52243fcf00ed331c242d66341aeb27cc29b282" date="1995-09-25 13:09:42"/>
+                <rom name="FATAL/FATDATA/ONE.RFR" size="24513" crc="ce88162f" md5="00a91f18994df1405ea5e96f27e5ce37" sha1="925fc8f449eee66e223d77baa4bdbb9fbdc152fc" date="1995-09-25 13:09:52"/>
+                <rom name="FATAL/FATDATA/OPTICON2.BM" size="5117" crc="45219e4b" md5="7fdfd7f7009836e55d9dfa21dbb41248" sha1="206cea72dc744216ad0581bfb59d2566fc05a74e" date="1995-09-08 19:06:18"/>
+                <rom name="FATAL/FATDATA/OPTIONS.HMP" size="4177" crc="3edc52ee" md5="81032bc177788060dcbc43ec2ec62864" sha1="abe5333b2f696f43e987db8a50dbcd8035b74760" date="1995-09-08 18:11:22"/>
+                <rom name="FATAL/FATDATA/PALETTE.PAL" size="768" crc="6433a437" md5="03e4ede0550d062a6b846094eb8bbb35" sha1="aa6c995c0bbe00de3ffb8d6641478df957b41837" date="1995-03-20 15:48:20"/>
+                <rom name="FATAL/FATDATA/PANCAR1.BM" size="5148" crc="fb2e0dac" md5="551113749219d06c689477b778b1f2b9" sha1="517db03c0d65c1b9e59d164181457273d8da8b54" date="1995-09-11 16:07:38"/>
+                <rom name="FATAL/FATDATA/PANCAR2.BM" size="5106" crc="0bccee26" md5="199ca87fa985b8517fe00f591fa1b6c1" sha1="62ca41c87e99cb0346c55873e6c0195b1b59fb94" date="1995-09-11 16:34:10"/>
+                <rom name="FATAL/FATDATA/PANEL2.BM" size="3366" crc="443b3aaf" md5="faf971d1381214a1e1346b0aca466cd6" sha1="3bae8903892a7e008feefa2f0d1a5c1a92b2860b" date="1995-09-08 19:09:32"/>
+                <rom name="FATAL/FATDATA/PASSWORD.INI" size="241" crc="cc4d6805" md5="b9486ba755d361bc67b9b62bd9506c61" sha1="98b7cc42228cad60e9e40dda55cef91ac6186e69" date="1996-02-20 10:56:10"/>
+                <rom name="FATAL/FATDATA/PITIN.RFR" size="27301" crc="8fdc1856" md5="659b27f23fb04b266a38a84305167801" sha1="23425c097f80791cc302e242c6a980953e8ac963" date="1995-09-25 13:10:04"/>
+                <rom name="FATAL/FATDATA/POOR.RFR" size="15409" crc="0e089846" md5="45b91414646978d5ae5c0f5a0c800361" sha1="e471c6ae23b1008f35cf7c253276546b64a46840" date="1995-09-25 13:10:10"/>
+                <rom name="FATAL/FATDATA/PULSE.RFR" size="19359" crc="41b35ec2" md5="9578e076b4c3380510b4ac52f265ce6d" sha1="8b9bc48993d9c9603c4d850f2ad63927a5b613ae" date="1995-09-25 13:10:18"/>
+                <rom name="FATAL/FATDATA/RACEOVER.RFR" size="15958" crc="de89af54" md5="518787575dcfbf61d7eb59dac5e6edfc" sha1="65f6e6b18cc44f9007800f4f1e67480dd790d05e" date="1995-09-25 13:10:24"/>
+                <rom name="FATAL/FATDATA/RECORD.RFR" size="22180" crc="cf984e52" md5="31c1f2f38cd8d0cee0d19ceec362c688" sha1="003c80e83ed46ddbae87e0efc606cc95ec17ec8d" date="1995-09-25 13:10:34"/>
+                <rom name="FATAL/FATDATA/RED28.BM" size="178" crc="8f3cd494" md5="8b03f341f9c22ead67fe48abcf412a40" sha1="f6726576afdec2098dca8e91a8bd46c9acb4dbb0" date="1995-09-08 19:10:12"/>
+                <rom name="FATAL/FATDATA/REISE.RFR" size="22386" crc="d10315f9" md5="0818ceeaa79c32b2e202fbe23d4af8bd" sha1="aa6bd764229cdf511d7db2ea4469c5e63c27818a" date="1995-09-25 13:10:44"/>
+                <rom name="FATAL/FATDATA/REJECT1.RFR" size="11978" crc="2714f840" md5="c59c38fca13593e201de2a3f0c2f54a3" sha1="427cd0f9f77fddbfc7f88446a801aa1451af794f" date="1995-09-25 13:10:48"/>
+                <rom name="FATAL/FATDATA/REJECT2.RFR" size="8693" crc="9bbb84f6" md5="6791c57ffeee1abd355366ea2d00402a" sha1="692ce43e3f76d50fc982b76e750f47e32a6701ae" date="1995-09-25 13:10:50"/>
+                <rom name="FATAL/FATDATA/REPLAYSC.BM" size="5306" crc="f67ec705" md5="713d9f57b99a9ec072b88131befb0a42" sha1="c07d1b7d82cf73c95bec6bb2e15422d4078970c7" date="1995-09-08 19:08:50"/>
+                <rom name="FATAL/FATDATA/RESROUND.BM" size="74324" crc="0b327105" md5="6e594a33a29f1e522181a07454d2f1c7" sha1="158d79a7416fe2b52e2ed12738f2231c9886ef67" date="1995-09-08 19:24:18"/>
+                <rom name="FATAL/FATDATA/RESROUND.PAL" size="768" crc="c7ef2c8c" md5="6e075bc6c6ed5b4cad53bc6d775ef927" sha1="1b44821fc500a282b73e5258fed34a6774ebcf9a" date="1995-08-29 11:14:30"/>
+                <rom name="FATAL/FATDATA/RESULT.BM" size="50181" crc="b8350f6c" md5="e83f48509a9b8be3f9dc60989ed55433" sha1="fe701cd0df427de285909d4b93e0a1d41658229e" date="1995-09-08 19:19:36"/>
+                <rom name="FATAL/FATDATA/RESULT.PAL" size="768" crc="02526308" md5="da26ae29179763d611c798baf2163d6b" sha1="ad7cdab387b682fbcd3c9eca450fb3628a72a90a" date="1995-07-13 17:16:30"/>
+                <rom name="FATAL/FATDATA/REVERSE.RFR" size="25103" crc="bff361c6" md5="5309cf7263c2a07e765191d29643a6eb" sha1="6505b18345dd9ded32880e4d2711f983336c9d56" date="1995-09-25 13:11:02"/>
+                <rom name="FATAL/FATDATA/REVERST.RFR" size="22039" crc="9484c439" md5="81a3c395afdbe2758411a1c5e579a4a6" sha1="c5ae20f0865f5a820e56cbeaaccdfdfc0ac70981" date="1995-09-25 13:11:10"/>
+                <rom name="FATAL/FATDATA/ROOF.RAW" size="16531" crc="9f598fc1" md5="bf00edcc3b01ecab2111cd848e005f25" sha1="80dc1f5fd9dea4b59e60395b29d7617caebdb897" date="1995-09-08 16:43:12"/>
+                <rom name="FATAL/FATDATA/ROUND1.BM" size="56718" crc="1cb5acf8" md5="925f0cb11cde5b8e6bf3a67520ee212f" sha1="23aabf5dc22253b6c9c83213c90829f005a6c981" date="1995-09-08 19:25:12"/>
+                <rom name="FATAL/FATDATA/ROUND1.PAL" size="768" crc="103f802f" md5="aa2b9a80ea187e2d5686b3be842993c0" sha1="d0df68e12e0eccfa43c22a980c7407b4d1a832a3" date="1995-09-04 14:37:06"/>
+                <rom name="FATAL/FATDATA/ROUND2.BM" size="64874" crc="d6b585c2" md5="d112bb50f8426e2f946d4aca8c7c8155" sha1="dcc2ed9190b150f4760d94e38524c520b32aa9f7" date="1995-09-08 19:25:50"/>
+                <rom name="FATAL/FATDATA/ROUND2.PAL" size="768" crc="bd29ec0c" md5="f4d13c763ad929054fdf2f146313cd03" sha1="f4df4b056e71d6c62887000be443b0272bed7307" date="1995-09-04 14:37:28"/>
+                <rom name="FATAL/FATDATA/ROUND3.BM" size="65230" crc="22681f17" md5="dafdae4deac2ff34140f36508b0f39eb" sha1="db1dcb3547930c00095f8af80d87bbda706f5016" date="1995-09-08 19:26:12"/>
+                <rom name="FATAL/FATDATA/ROUND3.PAL" size="768" crc="34a70bda" md5="59a591ae0b51d31296aa068871254eb0" sha1="404cccf0f632de6688da84329b15d4e805d7cab8" date="1995-09-04 14:37:52"/>
+                <rom name="FATAL/FATDATA/ROUND4.BM" size="52963" crc="3d324503" md5="320318ca86368f03367217181eed1311" sha1="9a3fc805773402695c02c4ab34de5578e868f648" date="1995-09-08 19:26:32"/>
+                <rom name="FATAL/FATDATA/ROUND4.PAL" size="768" crc="5c8d98e8" md5="85c088ef4e3bb0b70ee5be3224ed2bd0" sha1="5e30fa6331f8969502a2444231aa58488134961c" date="1995-09-04 14:38:16"/>
+                <rom name="FATAL/FATDATA/ROUND5.BM" size="48728" crc="4aa35e0d" md5="c289898ca7c870edc06e39aff0fb17e2" sha1="dcba5a0a7e98306058db654cdb212309921d80fd" date="1995-09-08 19:26:48"/>
+                <rom name="FATAL/FATDATA/ROUND5.PAL" size="768" crc="61800e5f" md5="2873e621c7ae23a72c28d5edccf64371" sha1="fda98f04e69da34a2b92f8f4129f49fbda90d5af" date="1995-09-04 14:38:40"/>
+                <rom name="FATAL/FATDATA/ROUND6.BM" size="48870" crc="8c3516c5" md5="884086affe4cc9d10da1717f6846fb1f" sha1="7b13e2c1c3b04bfc09c064bee2ebc4c395137080" date="1995-09-08 19:27:06"/>
+                <rom name="FATAL/FATDATA/ROUND6.PAL" size="768" crc="fd0b4d3c" md5="8efebc5889f7c333482dcf7f39e6aa49" sha1="437a42c0ba34e2e43dec5364be2b990d585b8256" date="1995-09-04 14:39:04"/>
+                <rom name="FATAL/FATDATA/ROUND7.BM" size="50120" crc="5c21c919" md5="3b705a3f802fed1533c41688d1c3bbcc" sha1="c65938cfc97bd4ad7b560bbe580b98b487b34126" date="1995-09-08 19:27:24"/>
+                <rom name="FATAL/FATDATA/ROUND7.PAL" size="768" crc="d324407b" md5="9e59a85ab1725f5f3538af12d7f5b74d" sha1="7b0bf7cb5030a8fcd83e233adc8511138af5dc7b" date="1995-09-04 14:39:28"/>
+                <rom name="FATAL/FATDATA/ROUND8.BM" size="55064" crc="0fc54e35" md5="8368122f32598f93fd0b5963c08dc402" sha1="6cf2fa6f734f1b8a09b86b5bbc704f7b4c0defc8" date="1995-09-08 19:27:44"/>
+                <rom name="FATAL/FATDATA/ROUND8.PAL" size="768" crc="a56f2b6e" md5="9ddb9d26819e62f7896096fcc2d67013" sha1="7265dee2576c1a165943ec483d48a3614cbc4030" date="1995-09-04 14:39:56"/>
+                <rom name="FATAL/FATDATA/RUBBISH.KC" size="22972" crc="6bd5efac" md5="b1f513d7029d959b97c291581467ad46" sha1="c6b4caa8a79012e406c854db0be38202cdfedf49" date="1995-09-08 17:59:28"/>
+                <rom name="FATAL/FATDATA/RUBBISH.RFR" size="15055" crc="e733ce9a" md5="25c9542ea0c7fab093b2e3d1e43442cf" sha1="0131d4075f09d0bb7487ba694be7dacb1b29aba7" date="1995-09-25 13:11:16"/>
+                <rom name="FATAL/FATDATA/SELCAR2.BM" size="2561" crc="26e25378" md5="1ca808bcd8844d43c4e5b72f87945d6a" sha1="73c3a9a3e180c320edd8dfc17f7cbbac9a00535c" date="1995-09-08 19:06:16"/>
+                <rom name="FATAL/FATDATA/SELECT.ENG" size="2045" crc="40406c05" md5="18e6a70f84873c4995205f01a5f5982b" sha1="008efdecb28a3a12cc4d2e348e6097b0e205225b" date="1996-02-03 14:17:04"/>
+                <rom name="FATAL/FATDATA/SELECT.FRE" size="2514" crc="6e924121" md5="6bebd3645376d40f50658bd0212013f7" sha1="00e8f2b302f96a5c177ae6bcac71c650443e7406" date="1996-03-20 12:23:14"/>
+                <rom name="FATAL/FATDATA/SELECT.GER" size="2347" crc="ffbe8c77" md5="46a4555e9b68e9b4d17d1da8fe9ac1ec" sha1="f0f58acc2d3b1841c205e9076af1af04846d6936" date="1996-03-01 16:57:38"/>
+                <rom name="FATAL/FATDATA/SELEXIT.BM" size="9245" crc="dbcc6ea2" md5="a2b7c65b8ce7234f52e9c79f88040801" sha1="ba02d3dbcb7c31b91e7e1d923b9e03e708a71baf" date="1995-09-08 19:07:50"/>
+                <rom name="FATAL/FATDATA/SELHEAD.BM" size="16186" crc="d7f863c0" md5="871ba6e3bc160d358c9ce8aa561fdb43" sha1="d05c3d6bb36a34153b066db922a184199c9ed661" date="1995-09-08 19:07:46"/>
+                <rom name="FATAL/FATDATA/SELICONS.BM" size="5427" crc="0aeff3b7" md5="8892101611325b43aef6eb4cbd59ae4e" sha1="1751e3d3097038bbbcb439673b75d3fb9ba9364d" date="1995-09-08 19:07:42"/>
+                <rom name="FATAL/FATDATA/SEVEN.RFR" size="22014" crc="5da8d82b" md5="d3a07b853089bb1b352c3914dfc454d7" sha1="9f288279d72919aca16e04114e207553666c4e90" date="1995-09-25 13:11:26"/>
+                <rom name="FATAL/FATDATA/SIX.RFR" size="22744" crc="3c9e14aa" md5="d7107d2df9baa72edb46d48a65776a72" sha1="ff26316a3715a483afb8975a342c711fa64b8af5" date="1995-09-25 13:11:36"/>
+                <rom name="FATAL/FATDATA/SIXTEEN.RFR" size="23311" crc="d336a373" md5="51f1f0849b3a96b5b886e9267e00dff4" sha1="1b02eac6e8cc373e63e2791598be50d90dde3a6e" date="1995-09-25 13:11:46"/>
+                <rom name="FATAL/FATDATA/SKID1.RAW" size="1498" crc="980de66b" md5="e92a8485e98813da862e491a81e6c18b" sha1="7989d666af675529ae7e7a5d662116ae5b523291" date="1995-09-08 16:38:06"/>
+                <rom name="FATAL/FATDATA/SLOW.KC" size="24096" crc="0204253a" md5="744f7c33009e027aed04156842de4f13" sha1="d9866de1c54505e4bdb183d85d2fc111943adbe3" date="1995-09-08 17:59:40"/>
+                <rom name="FATAL/FATDATA/SLOW.RFR" size="26877" crc="e9649668" md5="5d8b00845cc44ee2de0946d9809f8cb0" sha1="9e72ea5d8925d0ce71bb60c409ef458caf46def4" date="1995-09-25 13:11:58"/>
+                <rom name="FATAL/FATDATA/SLOW2.RFR" size="26961" crc="4c358da4" md5="bdf0937f17d83d79bcbb2fad773f5a88" sha1="5f689e0cc58ef9cae84a2e0d6c9849e135011b36" date="1995-09-25 13:12:08"/>
+                <rom name="FATAL/FATDATA/SMALLCAR.BM" size="8340" crc="cef6a3c4" md5="a97f4d9d02223d2ccc6007ce52610b5e" sha1="84475ea91cc366e81993e88c43a4fd3f086a42b4" date="1995-09-11 16:27:04"/>
+                <rom name="FATAL/FATDATA/SMASH.RFR" size="26032" crc="54fb2447" md5="0c9053d928195a76cfbb53529d8b7250" sha1="0ab5893d9c47a65ed89464a31f017990c674e967" date="1995-09-25 13:12:20"/>
+                <rom name="FATAL/FATDATA/SOUND.INI" size="1636" crc="264dd7ae" md5="e901cb729e4dc142c950dd88b1d62f26" sha1="b5bd883f27f2e0f43f18fcb17f8e82e92b07fde6" date="1995-10-01 12:21:00"/>
+                <rom name="FATAL/FATDATA/START.RAW" size="27732" crc="b63239d3" md5="83c219f484b4d1bb971980a1a56637de" sha1="ebabbe8151518f61878e277b640ee48bb3edf26e" date="1995-09-08 16:39:04"/>
+                <rom name="FATAL/FATDATA/STAT.RFR" size="24478" crc="3fbf48c8" md5="85c21bc0697433b6fe764e3c34ab7cc0" sha1="0c316328ff079722aad76762921203d03ff01380" date="1995-09-25 13:12:30"/>
+                <rom name="FATAL/FATDATA/T3.DRH" size="31938" crc="a2b36e03" md5="84843871fb4f8af42bf987bf17d0fbd8" sha1="186b57741a7854bd3f82cd127e109d305c026e00" date="1995-09-08 18:55:06"/>
+                <rom name="FATAL/FATDATA/T4.DRH" size="36452" crc="983457d2" md5="da36c2cfdb15f2cf3b4dc621ed4a4065" sha1="3929ba962daf62f5bccad8e7fe22b79700341743" date="1995-09-08 18:58:52"/>
+                <rom name="FATAL/FATDATA/T6.DRH" size="43134" crc="47abab82" md5="c39e512473cb00a07031225de94daf3a" sha1="84f2027a7f508bec60be93f909009371c4014bd5" date="1995-09-08 18:54:52"/>
+                <rom name="FATAL/FATDATA/T7.DRH" size="32517" crc="e1de559f" md5="c0f584a0b73533f856066b5700de892d" sha1="ccf400255d3398f28e5a48434eda2a44a8b0a2d0" date="1995-09-08 19:01:46"/>
+                <rom name="FATAL/FATDATA/T8.DRH" size="34354" crc="e25e2e30" md5="f5c9770fccef4691fd00487b8917fbd7" sha1="54bd7ecb627fec1f18fe43aee3cf2ea4aeafb296" date="1995-09-08 18:59:04"/>
+                <rom name="FATAL/FATDATA/T9.DRH" size="160711" crc="621faf6c" md5="3ea6062b9de7976f495c9c7eb255edcd" sha1="6acf3a594366177a503b1efa9f1e7af9dc1bc003" date="1995-09-08 19:04:18"/>
+                <rom name="FATAL/FATDATA/TABTEXT.BM" size="30890" crc="6b505c9d" md5="eadd357937d31d145be14ba9b8bd514b" sha1="002f63339f41d0ec9eef0e4234e7e593add36d81" date="1995-09-08 19:21:54"/>
+                <rom name="FATAL/FATDATA/TDAMAGE.RFR" size="16079" crc="33ea0763" md5="a6076713f5fb1dd2f90660405e413948" sha1="0adeb55483cd47c884b573e1722f7a5fb75786d9" date="1995-09-25 13:12:36"/>
+                <rom name="FATAL/FATDATA/TEN.RFR" size="22219" crc="4b272643" md5="358db2dbc24a0cdb529472272f79faf6" sha1="b27e105319479969b2fdcd9e20e409d9c38daabc" date="1995-09-25 13:12:46"/>
+                <rom name="FATAL/FATDATA/TGONE.RFR" size="9649" crc="371ea272" md5="b8bd5aa2c84a57ec2d82d5a3958e3e2b" sha1="533be37796fab675faa03de3330b2e97590facfe" date="1995-09-25 13:12:50"/>
+                <rom name="FATAL/FATDATA/THIRTEEN.RFR" size="23274" crc="a737ad12" md5="525c6743ab5d00d127af440aa0ddab0c" sha1="385f17e382e194e63e27aba60355539b96a800ec" date="1995-09-25 13:13:00"/>
+                <rom name="FATAL/FATDATA/THREE.RFR" size="26392" crc="e447d7b7" md5="6e280db782cae06ed92699b7231b9c7a" sha1="55192670f1ab3b11030f3df21d4be3c71b9ec62c" date="1995-09-25 13:13:12"/>
+                <rom name="FATAL/FATDATA/TITLE.BM" size="196077" crc="a9858ed4" md5="60b405d5dfdbab74c0652dc8e28fa487" sha1="a62ccf666db9a913aa08e1d5db212ec19549765a" date="1995-09-27 11:08:58"/>
+                <rom name="FATAL/FATDATA/TITLE.HMP" size="3633" crc="af08c5da" md5="d4fe485f1aab77eb2980026eb83c13dc" sha1="bb3c08994b86ddff32932e684c45304a6630078a" date="1995-09-08 18:11:18"/>
+                <rom name="FATAL/FATDATA/TITLE.PAL" size="768" crc="3050e1ed" md5="0f8fbf4545115863e98b7e3c40765747" sha1="8fc489e7c396df7ed0cef8c38f5d9031f7f67323" date="1995-09-27 11:07:04"/>
+                <rom name="FATAL/FATDATA/TOOFAST.KC" size="20880" crc="9086d4a0" md5="de663665922b7ea3fae6128ab184a945" sha1="8350d46ba8ce0cb9f1fced0a0ca8319347724107" date="1995-09-08 17:59:02"/>
+                <rom name="FATAL/FATDATA/TOOFAST.RFR" size="20702" crc="23559268" md5="75a6d9da7c146a6e5fa497cc28e5ac46" sha1="75a823722953e4e20f1e25fdf2fa0c237192d323" date="1995-09-25 13:13:20"/>
+                <rom name="FATAL/FATDATA/TOOSLOW.KC" size="24993" crc="cadfdd1a" md5="3461f01ca1a181e49a05df8e86006fea" sha1="e4d60c129e7ffcd2c78d4a39f9067cba6da9a6f4" date="1995-09-08 17:58:52"/>
+                <rom name="FATAL/FATDATA/TOOSLOW.RFR" size="14558" crc="f93d5165" md5="d33c5861c89b19efd4e660ecc64da84c" sha1="443f4290696c687eeec8cd1f228daad4499ed1ce" date="1995-09-25 13:13:26"/>
+                <rom name="FATAL/FATDATA/TPITS.RFR" size="19935" crc="012abbc4" md5="e27822112bd667fe6cbc88235e7b4a59" sha1="ab9e5b5a2355c1ae7777421601793b3acf6d08cd" date="1995-09-25 13:13:48"/>
+                <rom name="FATAL/FATDATA/TRACK.RAW" size="25159" crc="280a7a03" md5="39eee54b3410c199a9f790edd6311840" sha1="cf33f1b879c50a01fe62d77e07b3643d8125e92f" date="1995-09-08 16:40:30"/>
+                <rom name="FATAL/FATDATA/TRACK01.RFR" size="91873" crc="f9542771" md5="6cbcda926f915890d766aefe6eadb908" sha1="b3ff5e8cc82e11a3859d5fd3d9821c692e074786" date="1995-09-25 13:14:30"/>
+                <rom name="FATAL/FATDATA/TRACK02.RFR" size="82747" crc="de7ebe02" md5="3a5fccb9f3445d84c98a7b9ceb27fe99" sha1="1e98b2282f35dcbb60837b0b253818474cced82d" date="1995-09-25 13:15:08"/>
+                <rom name="FATAL/FATDATA/TRACK03.RFR" size="99766" crc="910afef1" md5="3ed934596f8641ca18706d9da3ac0077" sha1="b5d9240518e5cddd5cfe60214f11c062a1e0ee60" date="1995-09-25 13:15:52"/>
+                <rom name="FATAL/FATDATA/TRACK04.RFR" size="67562" crc="f6f9c713" md5="210381f9f7104b298d84a028afe814db" sha1="b5e805b1bbb96981054cd0b8c191b2857b24a2ba" date="1995-09-25 13:16:24"/>
+                <rom name="FATAL/FATDATA/TRACK05.RFR" size="95852" crc="9f6ff01f" md5="3d2675d79c469519c4712816d66c4f72" sha1="224cab6040ac4659abdb6bc2ff1d8f68e4fd8643" date="1995-09-25 13:17:08"/>
+                <rom name="FATAL/FATDATA/TRACK06.RFR" size="89646" crc="f495ca9a" md5="168800cb1a9e4331d9addb7a463cd603" sha1="d9a98f6f1232abde75e9a335dc83b1f1a4b78e2a" date="1995-09-25 13:17:48"/>
+                <rom name="FATAL/FATDATA/TRACK07.RFR" size="77044" crc="d27cfe26" md5="b13705cc5b07f4f285ae98859be7b99e" sha1="ea894de5067b42c5598891e80a2a47353131b375" date="1995-09-25 13:18:24"/>
+                <rom name="FATAL/FATDATA/TRACK08.RFR" size="69246" crc="a09608a9" md5="d68db9d6a7498f19c9f8c9806b50176b" sha1="b657ca6e91908870364e9272c0000a6625646ea3" date="1995-09-25 13:18:56"/>
+                <rom name="FATAL/FATDATA/TRACK09.RFR" size="82263" crc="9e8d95a8" md5="6c35270e6c0dde7b5f6d6091b89168db" sha1="ca723b121dfc9d7ab3e78ebd0b74feedc440561b" date="1995-09-25 13:19:32"/>
+                <rom name="FATAL/FATDATA/TRACK1.DRH" size="347131" crc="1faea377" md5="e5b889f5031dd86293ef6af7df3e17f4" sha1="fdb9591bfa7efdebfe3de3296cfdd4ce19b1848d" date="1995-09-08 18:41:20"/>
+                <rom name="FATAL/FATDATA/TRACK1.TRK" size="26416" crc="d090fe25" md5="e40e1d9a98cf1afeea9179977aec2888" sha1="f52196c7f34a17ca255af9b822db4949ac77b460" date="1995-10-07 12:43:24"/>
+                <rom name="FATAL/FATDATA/TRACK10.RFR" size="73471" crc="0dfe2ec7" md5="a5a01cb9f3897e84409a32f826b39fea" sha1="a5a97c49a28e55dc68060b9dc67ca8fda5902580" date="1995-09-25 13:20:06"/>
+                <rom name="FATAL/FATDATA/TRACK10.TRK" size="25827" crc="65c850a8" md5="a6070fa6da932edb754986c0fa0148f6" sha1="8e57e00fb1c1466cb6cdab09faeb835abaf56881" date="1995-10-07 12:44:28"/>
+                <rom name="FATAL/FATDATA/TRACK11.RFR" size="82862" crc="c6d2112b" md5="35d921b1816f0113ce796a3bac224988" sha1="09e1a988948047535f2e383e5b8d694e8640adb6" date="1995-09-25 13:20:44"/>
+                <rom name="FATAL/FATDATA/TRACK11.TRK" size="24209" crc="d1644e27" md5="5f14ec2eb1ed7cc37f09be498aad3e52" sha1="801e9f4240591f53809948ee1cfec7d30156aa64" date="1995-10-07 12:44:20"/>
+                <rom name="FATAL/FATDATA/TRACK12.RFR" size="102185" crc="3466d96a" md5="5c7249b7d0a0acad3b13e7990ebf2cd7" sha1="900382a165ffc693a6c7151d084a6623467ce079" date="1995-09-25 13:21:32"/>
+                <rom name="FATAL/FATDATA/TRACK12.TRK" size="27295" crc="3465e179" md5="2d194277acec602e761590ac6fde9eb7" sha1="d2d2efbe7e649dd14ccf6c093b2adb90d3ad5fa3" date="1995-10-07 12:44:36"/>
+                <rom name="FATAL/FATDATA/TRACK13.RFR" size="122018" crc="b6e7bd32" md5="8fe02fbb21dfc4e51261d6a716c78ebf" sha1="ee9990f7172e6a8a95d5940434ec1a485a2c5ccf" date="1995-09-25 13:22:28"/>
+                <rom name="FATAL/FATDATA/TRACK13.TRK" size="32435" crc="93d6582c" md5="d8d71ada870913597f0e89950a924066" sha1="9a4fef695fea838da5ac367f13f4934ccad4b809" date="1995-10-07 12:45:50"/>
+                <rom name="FATAL/FATDATA/TRACK14.RFR" size="128552" crc="afbb1eec" md5="0a073c500b12d8699b7ef30ac127eb1d" sha1="0b055557a9209bc3d8cc9a9f708886a70d9b25e0" date="1995-09-25 13:23:28"/>
+                <rom name="FATAL/FATDATA/TRACK14.TRK" size="25056" crc="9ccf6e6d" md5="f5087dcdd52d37b04bcf51e8c7cef284" sha1="43d59d1ba1c87b047a239dc76050f226686ce870" date="1995-10-10 16:36:12"/>
+                <rom name="FATAL/FATDATA/TRACK15.RFR" size="119034" crc="7457ca2f" md5="728d33d8eee2e4e1d2351ef4dec571d3" sha1="459876fc95e9cda561b057693c6701bce792040c" date="1995-09-25 13:24:22"/>
+                <rom name="FATAL/FATDATA/TRACK15.TRK" size="18825" crc="d8ab029a" md5="694378d38ffbd6be3ca659d3c7d8b16f" sha1="7cef303b2c9182bd9f4551eeb5813d7d26b391b0" date="1995-10-07 12:45:40"/>
+                <rom name="FATAL/FATDATA/TRACK16.RFR" size="79495" crc="e57998a7" md5="290520d0a64c40beab38ede6e7442637" sha1="9afa583d476b86f3fa60c39de922a927d4a62110" date="1995-09-25 13:24:58"/>
+                <rom name="FATAL/FATDATA/TRACK16.TRK" size="30623" crc="2464f66b" md5="6c5260590271a57c966c68dd48ec0ac1" sha1="f4176d16bedb652281c68df5482e3218e1e706ff" date="1995-10-07 12:45:02"/>
+                <rom name="FATAL/FATDATA/TRACK17.TRK" size="8553" crc="111690a4" md5="657b1dc37f4d2ad0d3931e822ac90874" sha1="a12c09b697818ffa020d2f7f49c2c13345596c5c" date="1995-10-07 12:45:06"/>
+                <rom name="FATAL/FATDATA/TRACK18.TRK" size="5760" crc="8c8e864a" md5="0b69838ddcd48421317d3410da6d37dd" sha1="d7f740ef5b5410fc7041cfadd025e0180e3e1d50" date="1995-10-07 12:45:08"/>
+                <rom name="FATAL/FATDATA/TRACK19.TRK" size="10172" crc="bc67301e" md5="9a6345aec690d701e5b248bc36ee9393" sha1="d6464d099331600792308d622cc9f5f8d23f0afe" date="1995-10-07 12:45:10"/>
+                <rom name="FATAL/FATDATA/TRACK2.TRK" size="33814" crc="1c712c78" md5="8897de67c0d79e21e17bb01f7d667089" sha1="23b7a30e995dbc6e38ea5e93e25514b167e86759" date="1995-10-07 12:46:00"/>
+                <rom name="FATAL/FATDATA/TRACK20.TRK" size="8833" crc="3f23572a" md5="bd9d74d8ba32c190fce3f3370a32d0ed" sha1="6d668617e5d08814a58e2ddcc37a32cfb242923b" date="1995-10-07 12:45:14"/>
+                <rom name="FATAL/FATDATA/TRACK21.TRK" size="11101" crc="40980a69" md5="195312a7029d35a50408ba1824aa3dcb" sha1="dc1986b8aa50972bb2b52bb393b3ea08034dea90" date="1995-10-07 12:45:16"/>
+                <rom name="FATAL/FATDATA/TRACK22.TRK" size="15140" crc="cfa47ef6" md5="d024907f385e9db6bec0cba02d8110f6" sha1="11d1e6536c565b15730c335a0d903dfa1717d054" date="1995-10-07 12:45:22"/>
+                <rom name="FATAL/FATDATA/TRACK23.TRK" size="8652" crc="a37ecf6e" md5="0dd457082912c74358be93c3f1391965" sha1="544e34a25bb17f3f61df7bfc77ac66b184aa006c" date="1995-10-07 12:45:24"/>
+                <rom name="FATAL/FATDATA/TRACK24.TRK" size="18796" crc="af52e77a" md5="2f3b9236d42c8609e0c30a767c7711f6" sha1="99cc2839092054aa6949a4bca912b7786681d5d5" date="1995-10-07 12:45:30"/>
+                <rom name="FATAL/FATDATA/TRACK3.DRH" size="291850" crc="ccb67ec6" md5="2eac295d54d016c99e9669f88fd1e9e2" sha1="2120f9c31d5f5e670cd9e82a5b7c4740a36fca3b" date="1995-09-08 18:37:12"/>
+                <rom name="FATAL/FATDATA/TRACK3.TRK" size="27953" crc="db8e2440" md5="b2d53d966233b1139aa52da5efdb6712" sha1="84e3b169ce1829c7df1b6e8b86207c4af6da8589" date="1995-10-07 12:43:34"/>
+                <rom name="FATAL/FATDATA/TRACK4.DRH" size="297736" crc="7fc54091" md5="e6fdf325244173866bc5f231f0505690" sha1="4c1795fadbccba97ae570b6a95608d0e26a4fd9a" date="1995-09-08 18:58:36"/>
+                <rom name="FATAL/FATDATA/TRACK4.TRK" size="32397" crc="99e70626" md5="53ba6a88799b77dae6a5c95dc6355a08" sha1="dca9cd2c53080f3ba40fb9f50fe4af4b3c5b18d6" date="1995-10-07 12:43:44"/>
+                <rom name="FATAL/FATDATA/TRACK5.TRK" size="23139" crc="311c4216" md5="f848f121010fabb0758d8ca087d031e2" sha1="ed0c1953d6f2724d5f3b1fc9ff06fbd8eb71e9c5" date="1995-10-09 18:42:52"/>
+                <rom name="FATAL/FATDATA/TRACK6.DRH" size="419956" crc="a7e42921" md5="3c41ed166c5765449ef5ca226af15e59" sha1="51302fda0438237198d7f56c60ba4cb7bc51dff9" date="1995-09-11 17:10:58"/>
+                <rom name="FATAL/FATDATA/TRACK6.TRK" size="26235" crc="750c7e2c" md5="dfe185d09d3476f6717ef879870fbd70" sha1="c43e72f476b9758dfdc2052b0ea677b519443225" date="1995-10-07 12:43:58"/>
+                <rom name="FATAL/FATDATA/TRACK7.DRH" size="265003" crc="37edac54" md5="78aa270352920665657d5d06c13b84fb" sha1="9b208204f7271dfd9901a252b4bffec9976e4c22" date="1995-09-18 14:59:26"/>
+                <rom name="FATAL/FATDATA/TRACK7.TRK" size="23055" crc="55aa5fc3" md5="7632b02ff98d1b52398cc72b4b4f829a" sha1="1fcd46213ca669bf689a95302e05152d0d02f783" date="1995-10-07 12:44:06"/>
+                <rom name="FATAL/FATDATA/TRACK8.DRH" size="264363" crc="79e8dab2" md5="07ae12a66115fe25ecce162a6d9b0fdc" sha1="10b3440eed66e008e6f6882408f13e046451799d" date="1995-09-08 18:56:50"/>
+                <rom name="FATAL/FATDATA/TRACK8.TRK" size="27631" crc="b3be9b0a" md5="cdbe30fc95ee496b92cec0c8de01463a" sha1="3bb9bb8a63fd5738924e48b5c6e36a321b4b7a6e" date="1995-10-07 12:44:14"/>
+                <rom name="FATAL/FATDATA/TRACK82.DRH" size="257477" crc="0f537ba2" md5="883a48f4148732d35584fa3f47506da8" sha1="2d5e4b78bf6b479306c34d0d5d78bbc59eca562c" date="1995-09-08 18:54:20"/>
+                <rom name="FATAL/FATDATA/TRACK9.TRK" size="33221" crc="209dbf0f" md5="0913cbcece54b25a688a129a754a5414" sha1="4fe9a080dff938bebef667803f061154795fadd4" date="1995-10-10 13:23:48"/>
+                <rom name="FATAL/FATDATA/TRACKSIX.DRH" size="378403" crc="52bc419f" md5="38bba375938a13f18664401be8b4e082" sha1="b7e0488b8fe0c127beae579bc18299e5787ee405" date="1995-09-08 19:01:24"/>
+                <rom name="FATAL/FATDATA/TRACKTOO.DRH" size="300327" crc="9e5a8224" md5="e0418a82cacd26362c6dd84078d6216f" sha1="64688d0e61308002619d1ee4c2873c2b8432570e" date="1995-09-08 18:52:40"/>
+                <rom name="FATAL/FATDATA/TRACKZER.DRH" size="297356" crc="4ea778a6" md5="fcb5b069a8e7f30e92ec7f4878b2e9e6" sha1="ce0fa3b1a59c5ff344cc1da6a971231d68a1d2c8" date="1995-09-08 18:50:16"/>
+                <rom name="FATAL/FATDATA/TRKNAME.BM" size="17961" crc="a7ab2fc3" md5="06ca7d7c9d206ad029582c98de66a4e8" sha1="4e6528c4263f8d6535a7254c23b5a456f46eca93" date="1995-09-19 10:51:10"/>
+                <rom name="FATAL/FATDATA/TSIX.DRH" size="27556" crc="9c06e20e" md5="b7d3c5074b636527561749b66f967b30" sha1="2c3213023541e512b83e618a9d3ac8ac3071a904" date="1995-09-08 19:01:34"/>
+                <rom name="FATAL/FATDATA/TWELVE.RFR" size="23957" crc="90623e24" md5="61c2261b9d638430d86d136e6c976e8e" sha1="a79425c4481d0a573943c0382da9018274760f31" date="1995-09-25 13:25:08"/>
+                <rom name="FATAL/FATDATA/TWO.RFR" size="25696" crc="b2c6f710" md5="877cbdfe71faf472c9de7fc0464efebf" sha1="59c17da6971016b2ff9d670abf84454c39b1bea1" date="1995-09-25 13:25:18"/>
+                <rom name="FATAL/FATDATA/UNLAPPED.RFR" size="35534" crc="01e4cd7a" md5="e1734b577f791856059e173a5f1aea2a" sha1="74db4d8ac383cdb917569446a609c429f308f5f2" date="1995-09-25 13:25:34"/>
+                <rom name="FATAL/FATDATA/UP.RAW" size="12228" crc="3e22a28a" md5="7641b7e0d689b199570f02686aff0190" sha1="67c4b0eca12fef759f31b30749ec2e8147d15a66" date="1995-09-30 13:32:48"/>
+                <rom name="FATAL/FATDATA/VRITE165.CGL" size="116099" crc="51832709" md5="cf409527343baaa480ea2fe227e45e21" sha1="f72649bafa2d9427169be46cf2c52931894bcecf" date="1996-03-15 15:51:12"/>
+                <rom name="FATAL/FATDATA/WALL1.RAW" size="6130" crc="1e662979" md5="f227317f4801df59579f0ed9a9cc2660" sha1="3b13d21a9b8b0f6691eee586f11ce810e0b4d5c3" date="1995-09-08 16:40:04"/>
+                <rom name="FATAL/FATDATA/WIN.KC" size="26174" crc="88cdb0dc" md5="75a6dc6af7216d58ac23f5c3c753b656" sha1="f5248ae1858f429e79149814dc7477f9fc99719d" date="1995-09-08 17:58:26"/>
+                <rom name="FATAL/FATDATA/WIN.RFR" size="23239" crc="5228e895" md5="35081b45283446f0f8ddd7234b212466" sha1="9e453b704e490b4f24f8a4190fc4fabf3a6ce3be" date="1995-09-25 13:25:44"/>
+                <rom name="FATAL/FATDATA/WIN2.RFR" size="14233" crc="efa82dd8" md5="aa093afc204566cdab810b9156c510c9" sha1="d7d03826bb163c6f94ff796631312e6a4ed7db65" date="1995-09-25 13:25:50"/>
+                <rom name="FATAL/FATDATA/WINNER.BM" size="84327" crc="d2b54e7e" md5="de7321fb32f0e02e8a4991a38dfbe615" sha1="a2de2279907ce2e9a1d5841a129d696e541375f0" date="1995-09-08 19:22:56"/>
+                <rom name="FATAL/FATDATA/WINNER.PAL" size="768" crc="208e6675" md5="b71b693558629af5d83257339b08f586" sha1="84ce7afda57ef3fee910bcf5ce097eaf1149ad28" date="1995-08-03 17:04:18"/>
+                <rom name="FATAL/FATDATA/WINNER.RFR" size="26503" crc="1efa3fac" md5="c4b802cdb15742b62c29d68dd9cfa417" sha1="ad3a7a178b89e497078e97f4fdf1efa0975ed25b" date="1995-09-25 13:26:02"/>
+                <rom name="FATAL/FATDATA/WINONE.HMP" size="2599" crc="c82cf210" md5="2c6c0a8687335aaf2fde76f903874f36" sha1="94c06ea9013769222d6b53fab4a8de3dc7840fed" date="1995-09-08 18:11:22"/>
+                <rom name="FATAL/FATDATA/WINTWO.HMP" size="1555" crc="07345162" md5="446b1336002fccf9b95f487495ffc369" sha1="21092e2e8953a372b1ad313c2169de656b920cb3" date="1995-09-08 18:11:24"/>
+                <rom name="FATAL/FATDATA/WON.RFR" size="23359" crc="0d33382c" md5="20d33f7a5f52e0b8f1996a4986398e82" sha1="17f533ae00f0b839b3c91a6d5bd4a8d860b7980c" date="1995-09-25 13:26:12"/>
+                <rom name="FATAL/FATDATA/XAUTO.BM" size="45114" crc="098344fa" md5="6fa568938c10e9aae64e44841bf3c2eb" sha1="d7caaecdf7d7f38d8b422ab32fab5e37fd012fd3" date="1995-09-08 19:19:20"/>
+                <rom name="FATAL/FATDATA/XDESILVA.BM" size="40565" crc="1964867a" md5="5e0dea30a9a6468fa345c098109b8e97" sha1="ef21f5e30597bc7275ad8a18f7a1f4d4cd75c04c" date="1995-09-08 19:20:06"/>
+                <rom name="FATAL/FATDATA/XGLOBAL.BM" size="46803" crc="71b9b5be" md5="f66cf9cf5f20dd587af2c6227953b0a1" sha1="f426adb1525b4eea20893e5be0756799766c0fce" date="1995-09-08 19:20:22"/>
+                <rom name="FATAL/FATDATA/XMILLION.BM" size="40914" crc="bf6a89a3" md5="7008a7fc77cf2c446be44409b5f2b6dc" sha1="8513908e02c555a645e1835df66f72f5c4b3d1e9" date="1995-09-08 19:20:38"/>
+                <rom name="FATAL/FATDATA/XMISSION.BM" size="41424" crc="e78ac03b" md5="a72bc930110bd352765e8c0c9db607a5" sha1="b50b7dc009a7aa9a04d3ba826467cb58c97db690" date="1995-09-08 19:19:04"/>
+                <rom name="FATAL/FATDATA/XPULSE.BM" size="44827" crc="ef94a805" md5="00d18b165e3831f75a0c0511a5da9799" sha1="1264d23956064aab0ff501a2175d58f9170f08db" date="1995-09-08 19:12:44"/>
+                <rom name="FATAL/FATDATA/XREISE.BM" size="56742" crc="e6942173" md5="4af59d8802f98c4874ce573eb434a033" sha1="467c642f1b41cc782bd1d2b744376f88b7c6064b" date="1995-09-08 19:09:10"/>
+                <rom name="FATAL/FATDATA/XZIZIN.BM" size="45772" crc="68ee94b9" md5="e8839beb141d5904d06efbafde290ac0" sha1="a72dd0c615d7204a196efc72a3ad09aade824893" date="1995-09-08 19:20:54"/>
+                <rom name="FATAL/FATDATA/YAUTO.BM" size="45071" crc="a92cf7a1" md5="e043f27f81402a73b096f8a39d5c64eb" sha1="a6f1309ed2326fe8b5a42164731cc2d772ba241e" date="1995-09-08 19:36:54"/>
+                <rom name="FATAL/FATDATA/YDESILVA.BM" size="40565" crc="89e4cf71" md5="c8c0d3a5bcbc39f477e5ffec087894c9" sha1="ccdffab7f8f17ed3c923b47b853fb7941e17657f" date="1995-09-08 19:37:16"/>
+                <rom name="FATAL/FATDATA/YEAHCORK.RFR" size="29768" crc="54224cca" md5="cafb2a066e594466570b73900c2da68b" sha1="e4f4b67ff6e159279cec3e1cc23b4c810efdce99" date="1995-09-25 13:26:38"/>
+                <rom name="FATAL/FATDATA/YEAHHAH.KC" size="17013" crc="0087b325" md5="7c9ebfb217bd2e117f54a6da20f3a23c" sha1="aa1308d6f9b8ba7bbb18c23c419ef59b88a8e9f2" date="1995-09-08 17:58:42"/>
+                <rom name="FATAL/FATDATA/YEAHHAH.RFR" size="28986" crc="6e992625" md5="3623987979100abd27f9e7c912fcb039" sha1="004081a089ba5f7020ca4dc947857d5455122624" date="1995-09-25 13:26:24"/>
+                <rom name="FATAL/FATDATA/YEAHLOOP.RFR" size="22973" crc="2fd4cd96" md5="38f6f149e65fd34b108caa26d279645a" sha1="333539b46f2b57b3b2673fce574b853d9d333507" date="1995-09-25 13:26:48"/>
+                <rom name="FATAL/FATDATA/YGLOBAL.BM" size="46801" crc="c79c8476" md5="f86d89e580630ed5b2d43b0a1c8cde9e" sha1="7389ee9b72d7e6bdea23e292a1c34fb6ae4805e2" date="1995-09-08 19:37:32"/>
+                <rom name="FATAL/FATDATA/YMILLION.BM" size="40914" crc="69cecd3f" md5="a522d39209ae1234f2faf5aafa8f93bd" sha1="c908dbbf22fb69d6f379884068a9326ddadeea5e" date="1995-09-08 19:37:46"/>
+                <rom name="FATAL/FATDATA/YMISSION.BM" size="41430" crc="e19bf243" md5="6ed9c8f3f6d512f9990c147190b38bde" sha1="8020a291c5a2c88d349deaec73a06068033975a8" date="1995-09-08 19:38:00"/>
+                <rom name="FATAL/FATDATA/YPULSE.BM" size="44827" crc="c067f445" md5="a837be4855c0b812ec0b0da88395a858" sha1="0178f40deda2c3f9f5ad4e2ad9129a4b7463bd43" date="1995-09-08 19:38:32"/>
+                <rom name="FATAL/FATDATA/YREISE.BM" size="56742" crc="60a6e224" md5="3bc7167fd5d16043a3bede72a61eece4" sha1="a7947f2238a03f99c5b4aa28d6c47fdf1dadba32" date="1995-09-08 19:38:52"/>
+                <rom name="FATAL/FATDATA/YZIZIN.BM" size="45887" crc="0b6dfc7f" md5="eafa05af8b69c78ef10d629280e2bdb1" sha1="c62f32cd8823811e8fb795b648463f73902da44b" date="1995-09-08 19:38:16"/>
+                <rom name="FATAL/FATDATA/ZIZIN.RFR" size="19051" crc="99d1e1f9" md5="04284154b8f71314421cb337a45db662" sha1="def3b1ae1832038c8be2cda509d1540511c4b69a" date="1995-09-25 13:26:56"/>
+                <rom name="FATAL/FATFX.EXE" size="1384754" crc="36fc3ee0" md5="8a433379f593ea21c69b904bc5527483" sha1="14766039739d21f590e1988bc5342dcc94a17673" date="1996-08-22 14:34:08"/>
+                <rom name="FATAL/HMIDET.DRV" size="52856" crc="fb8bd7b4" md5="f4e4ed8302f18aac0a8f8bb153a61566" sha1="9499170383de96410e2038426ce993c6a21a085e" date="1995-02-06 03:00:00"/>
+                <rom name="FATAL/HMIDRV.DRV" size="188711" crc="5e017030" md5="cef61ca0b324c59d8e38c59ba1ddb191" sha1="cf8b1a87ec41c992c6ab9f09199fa5c6fac1fe50" date="1995-02-06 03:00:00"/>
+                <rom name="FATAL/HMIMDRV.DRV" size="100647" crc="9680fa48" md5="59ad9c334c62a258b576728ef69d8af5" sha1="19dbb274ae812ad2c6f176af46099403ce4449f7" date="1995-02-06 03:00:00"/>
+                <rom name="FATAL/INSTALL.EXE" size="152912" crc="7dbe7268" md5="69e3989ef7f6c6329bd008672f5f59ac" sha1="c80539ac63051384043a437c87690fa25cf3b6fa" date="1996-02-08 01:25:00"/>
+                <rom name="FATAL/INSTALL.INI" size="58891" crc="c9f33a2a" md5="d058db2a7f0ea3739540f45b9734301c" sha1="ac044d109fc6a91bfa1e0189fa2bfc32dfce5c53" date="1996-03-28 11:42:24"/>
+                <rom name="FATAL/INSTGRAV.INI" size="63" crc="9dcf25c8" md5="8bf7b8cf7ba33e1353d2de82e142b41c" sha1="ec2ed32284f8f344b077744fa7cad50794047bd4" date="1995-01-24 14:26:26"/>
+                <rom name="FATAL/LOADPATS.EXE" size="49194" crc="066c5e51" md5="b24134b3fab09b2727b49a0fe1d64d8e" sha1="d9ba6f21e0e7a7210fc7bdc99495343cadd07d9d" date="1994-12-08 14:19:04"/>
+                <rom name="FATAL/PROCESS.EXE" size="179194" crc="0f2a5719" md5="d4c365a192cecaf53c70cab9e621eb5f" sha1="a71b80541a4e1abc588574026e9e00044052ccbc" date="1995-10-10 14:15:10"/>
+                <rom name="FATAL/READ.ME" size="776" crc="e200b4c5" md5="91288abe12f35a38f3a9369fd49d4e51" sha1="4725a786a746dcff7570e0137910acb5f5e0e65e" date="1996-04-23 10:21:36"/>
+                <rom name="FATAL/REPLAYS/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-12-31 00:00:00"/>
+        </game>
+        <game name="Fatal Racing (1995) (Gremlin Interactive) (German).dosz">
+                <description>Fatal Racing</description>
+                <year>1995</year>
+                <developer>Gremlin Interactive</developer>
+		<variant>German</variant>
+		<comment>
+			Installed from Redump-verified CD-ROM: Fatal Racing (Europe) (En,Fr,De) (v2.0)
+			German language
+			Installed 3dfx patch (FATFX.EXE)
+			CD image converted with CHDtoOGG (quality level -q9)
+		</comment>
+		<comment_dosc>
+			Auto start
+			CD Audio, General MIDI, Sound Blaster 16 configs
+		</comment_dosc>
+		<link type="media">http://redump.org/disc/31642/</link>
+		<link type="patch">https://community.pcgamingwiki.com/files/file/3446-whiplash-us-fatal-racing-eu-official-patches/</link>
+                <rom name="Fatal Racing (Europe) (En,Fr,De) (v2.0) (Track 1).bin" size="37403856" crc="da50d691" md5="611dddc6c56f179984bd59e61c91a222" sha1="6a711cb358dc74e9a0896b88bef92203e94f2b44">
+                        <source type="MODE1_RAW" frames="15903" duration="03:32:03"/>
+                </rom>
+                <rom name="Fatal Racing (Europe) (En,Fr,De) (v2.0) (Track 2).ogg" size="10457095" crc="6d8126cb" md5="99729cde871f377b1bc7782669aad864" sha1="2a70945078a08261bceb541a846609dde9aed49f">
+                        <source type="AUDIO" frames="15287" omitted_pregap="150" duration="03:23:62" size="35955024" crc="e91de69d" md5="21305da389e5354642adfe75cdfebae7" sha1="50b8204b957e151d1bf48808cd7df87aaca989c9" in_zeros="0" out_zeros="1" quality="9"/>
+                </rom>
+                <rom name="Fatal Racing (Europe) (En,Fr,De) (v2.0) (Track 3).ogg" size="10588256" crc="22be3ce3" md5="b1e83c949fba78146a61e4dbbf6ccd60" sha1="f5689aa94090481a180fc8d65c4bf54b17c41476">
+                        <source type="AUDIO" frames="21445" duration="04:45:70" size="50438640" crc="42787a52" md5="5f0f8ddb64890a87b45b989e25f685a1" sha1="623b286b728cfd3863c722bc4856aaa0bdc076c3" in_zeros="0" out_zeros="1" quality="9"/>
+                </rom>
+                <rom name="Fatal Racing (Europe) (En,Fr,De) (v2.0) (Track 4).ogg" size="13007778" crc="b2c05cca" md5="ab27efa8fcc23b35a2003acfdf8c1847" sha1="1404eb5e41e7d96f8af96bc9cf59289580ab96cc">
+                        <source type="AUDIO" frames="22844" duration="05:04:44" size="53729088" crc="8574fe8f" md5="acc9b25ca486b9c538cc193db2908e01" sha1="82e738449a574a6d52873156813c46aa73baf447" in_zeros="0" out_zeros="1" quality="9"/>
+                </rom>
+                <rom name="Fatal Racing (Europe) (En,Fr,De) (v2.0) (Track 5).ogg" size="13172951" crc="7be3e9d0" md5="c0610ad8ba306003ca8099bc901afbef" sha1="00f9364926d05523e0f0825860c60cd868d05f3a">
+                        <source type="AUDIO" frames="21522" duration="04:46:72" size="50619744" crc="fd728523" md5="e816593ffaddc22517c77cdf62cdf076" sha1="f5ee48d048234c37b6823f9fe503b38cc57191a1" in_zeros="0" out_zeros="1" quality="9"/>
+                </rom>
+                <rom name="Fatal Racing (Europe) (En,Fr,De) (v2.0) (Track 6).ogg" size="9725397" crc="a35f2a61" md5="1abf653fdf67eee55edda6f02256f9bd" sha1="4c034a1498dd601e3894ca55364b0b80df09ea66">
+                        <source type="AUDIO" frames="20714" duration="04:36:14" size="48719328" crc="92c6c560" md5="0e8a4eee4fc5f3a8302c8083a2e1bd40" sha1="76417bd19f60f40d53961efc44035b6054d407cf" in_zeros="0" out_zeros="1" quality="9"/>
+                </rom>
+                <rom name="Fatal Racing (Europe) (En,Fr,De) (v2.0) (Track 7).ogg" size="12112752" crc="25574224" md5="989e5bea080a81c3689acfcaa273bc88" sha1="544dcbdec72af2180985e0374a3d1fd971048cb7">
+                        <source type="AUDIO" frames="22920" duration="05:05:45" size="53907840" crc="c021cdd8" md5="1ffd843a1b3b0ded3371b297ddd82eab" sha1="2d02311c487425bc32eca822cfcc107532433cb4" in_zeros="0" out_zeros="1" quality="9"/>
+                </rom>
+                <rom name="Fatal Racing (Europe) (En,Fr,De) (v2.0) (Track 8).ogg" size="11804186" crc="fbf3edbd" md5="cca703ff2c2d16c52f4c6c882e3947e6" sha1="11cd7ba80b40e5fece917810ca8a43af8b07222d">
+                        <source type="AUDIO" frames="21629" duration="04:48:29" size="50871408" crc="296b7ae1" md5="24e2ca1ef1de661e31260dd3526af97b" sha1="a9663c3851a20a8d760838dbfcefbe2ac39ebc25" in_zeros="0" out_zeros="1" quality="9"/>
+                </rom>
+                <rom name="Fatal Racing (Europe) (En,Fr,De) (v2.0) (Track 9).ogg" size="13158625" crc="dc9e75e6" md5="5d3f683238f7f857dfe5f21161943f15" sha1="d88b82138b344c48bf13093ef63164a1fe264d06">
+                        <source type="AUDIO" frames="21522" duration="04:46:72" size="50619744" crc="c4e780cd" md5="43fa451f866243f1d3db5350873c7052" sha1="8bb0d36a15c72aa116d6427a1d20569b022b6f7c" in_zeros="0" out_zeros="1" quality="9"/>
+                </rom>
+                <rom name="Fatal Racing (Europe) (En,Fr,De) (v2.0) (Track 10).ogg" size="9740260" crc="cfd51cdb" md5="6b32714cde3796a96ddf60d73fd22c7c" sha1="13eeb90531f13dc1b8818f1ef5798c449b93df4b">
+                        <source type="AUDIO" frames="20714" duration="04:36:14" size="48719328" crc="725ee4c8" md5="f931cd921f400a0019a1eb3178bd0d69" sha1="401e227deef896053bf3be111be8962d843a5f1c" in_zeros="0" out_zeros="1" quality="9"/>
+                </rom>
+                <rom name="Fatal Racing (Europe) (En,Fr,De) (v2.0) (Track 11).ogg" size="12114811" crc="b5b2d1d9" md5="fd01e01098131b41780a646c286073c4" sha1="349d4cff3ce80ecfbb4f7724e634a97d6e66dc00">
+                        <source type="AUDIO" frames="22920" duration="05:05:45" size="53907840" crc="0465fc07" md5="f2003138bc99179a5a690ccef6ab647c" sha1="79ba4e2b6fa6335a2245c6680fec8b6b86eaf371" in_zeros="0" out_zeros="0" quality="9"/>
+                </rom>
+                <rom name="Fatal Racing (Europe) (En,Fr,De) (v2.0) (Track 12).ogg" size="5212692" crc="5d4a64e2" md5="e8623f653a1355841e52be8e10e8bc11" sha1="230eba3d454b399aadea5e554d592f5616096be2">
+                        <source type="AUDIO" frames="9078" duration="02:01:03" size="21351456" crc="3edb5420" md5="4dbd4b14ad3f09d736dcac5d0a6c1b0b" sha1="3121f6b45e0eee8c78bc586f0f4788b70745f504" in_zeros="0" out_zeros="1" quality="9"/>
+                </rom>
+                <rom name="Fatal Racing (Europe) (En,Fr,De) (v2.0) (Track 13).ogg" size="7126994" crc="81e79c60" md5="1bbe75328333f9689238179e501ae163" sha1="48fa110e21ba16a5dfc7c544542a81759bca2682">
+                        <source type="AUDIO" frames="11006" duration="02:26:56" size="25886112" crc="15d0e144" md5="2e643e72f872f5ccef9d32b7cf3232cf" sha1="4a71f064523aef3c1f165ab9de123707c2135bae" in_zeros="0" out_zeros="382976" quality="9"/>
+                </rom>
+                <rom name="CD/Fatal Racing (Europe) (En,Fr,De) (v2.0).cue" size="1424" crc="6ff45300" md5="4dc29fee2f51e655eded82843a846df4" sha1="eed429c3044ed0ffe4e1dbb3154a73107e1c1d2e"/>
+                <rom name="FATAL/FATAL.EXE" size="1129239" crc="c9ebf493" md5="812eee1404ecdfd87ff765281df89720" sha1="0e8bc5f85173cba04de2c878ebf7290424a1f2dc" date="1996-03-27 10:18:28"/>
+                <rom name="FATAL/FATDATA/0LEFT.RGE" size="31818" crc="5eddcaa7" md5="917d09d8dd980717698d4e1d9ec8f8dc" sha1="1eff05f23603e3ffbab9ae7b4379f3b097878ace" date="1995-09-25 15:26:44"/>
+                <rom name="FATAL/FATDATA/1LEFT.RGE" size="22636" crc="1db661fc" md5="658b367a088895c4269a387a7f914e54" sha1="7b78935d6565a27a35c722232f986d63406bcf57" date="1995-09-25 15:28:14"/>
+                <rom name="FATAL/FATDATA/1RACE.RGE" size="23904" crc="f1e57494" md5="88aa15f688ad569b84a09a231050826e" sha1="c11146747526ad9c1934f5f0591fab11b242618c" date="1995-09-25 15:28:24"/>
+                <rom name="FATAL/FATDATA/2LAPS.RGE" size="21522" crc="f59b63b3" md5="10a319ec3cf6c343d031f2cdc32c8003" sha1="a95c1e82017b8bb931b2b93e41cdbbfc86bb6283" date="1995-09-25 15:28:32"/>
+                <rom name="FATAL/FATDATA/2LEFT.RGE" size="21750" crc="8f9d16f6" md5="1fee355f80a9fb7dc98d4ba75c3ba74d" sha1="49f125361f9e32f94f9fc353e51ea5a5cff2337b" date="1995-09-25 15:28:40"/>
+                <rom name="FATAL/FATDATA/2RACE.RGE" size="25936" crc="d0f270b4" md5="34ad1639e30d9c931a08b2057f235c66" sha1="c17cd0151e3bae73ad9a3c8cd260c6e15b207fa4" date="1995-09-25 15:28:50"/>
+                <rom name="FATAL/FATDATA/3LAPS.RGE" size="23297" crc="ab66a429" md5="3e5c725e29f922c832c9c03673489cc0" sha1="f19a3ea7726c57dc61a10cafa48a777aa9ef10b7" date="1995-09-25 15:29:00"/>
+                <rom name="FATAL/FATDATA/3RACE.RGE" size="26932" crc="eb054071" md5="238d752c22cf3c985a536927ec7af5f6" sha1="af5cc307b3a1beec8e6b5573a8bb145fbe04a866" date="1995-09-25 15:29:10"/>
+                <rom name="FATAL/FATDATA/4LAPS.RGE" size="21764" crc="dfcd42b6" md5="f41404f6c52400c17f15aafdbe666b23" sha1="6d2f007c4fdcc9377970258d177b355790d08feb" date="1995-09-25 15:29:18"/>
+                <rom name="FATAL/FATDATA/4RACE.RGE" size="26867" crc="4b8e4302" md5="8c6004caf03bc717c9ac63f383fbc0e4" sha1="94faf10769ba0db1a943c21bb4ea34552aa76cbb" date="1995-09-25 15:29:30"/>
+                <rom name="FATAL/FATDATA/5LAPS.RGE" size="20383" crc="faac9424" md5="c89f891cfc97708801a78e8aaaf9e69f" sha1="0c869819ccfe4b610ea957d53b384d8addc6ae1e" date="1995-09-25 15:29:38"/>
+                <rom name="FATAL/FATDATA/5RACE.RGE" size="28347" crc="34cdc0ae" md5="d20d3027acd22be11d4cc2de9a0e8648" sha1="ab97364bbc52628782f5ef7f05789134d8f83e6a" date="1995-09-25 15:29:48"/>
+                <rom name="FATAL/FATDATA/6RACE.RGE" size="28626" crc="694576ea" md5="a47879785e93c734518403bd881ba6f4" sha1="44413d82aff3e784fd3a2381e4150a689d37c762" date="1995-09-25 15:30:00"/>
+                <rom name="FATAL/FATDATA/7RACE.RGE" size="28681" crc="b6303aaf" md5="a9aa668fd62e814b50ba608a4a23bf10" sha1="d8bf1a061afdcb014a1fb3394b2260925eb18337" date="1995-09-25 15:30:12"/>
+                <rom name="FATAL/FATDATA/8RACE.RGE" size="27920" crc="c48cf0bf" md5="c1d2cabca8e314f1cd4aca6c218c03a2" sha1="a59c0b4ab79fea8a90d565c0c7d86aac7edde591" date="1995-09-25 15:30:22"/>
+                <rom name="FATAL/FATDATA/AAARG.KC" size="18606" crc="93572d8b" md5="7ea408c8a44d9c0845554b7601a75d76" sha1="e4e838178d4fffd37c5055733e3688b392062c27" date="1995-09-08 17:59:10"/>
+                <rom name="FATAL/FATDATA/AAARG.RGE" size="33288" crc="1ad489f0" md5="bd1aa67ed0568c0d6926bd08fd1f47f9" sha1="879c47eae11744f3875f4a5caa78da26d81c2b87" date="1995-09-25 15:30:48"/>
+                <rom name="FATAL/FATDATA/ARIEL.RGE" size="20904" crc="8548cd75" md5="e160c4ce7060dfadeaacf5584b839a9d" sha1="897191d02d31b5476fb647b3782b63387ad9e6cb" date="1995-09-25 15:30:56"/>
+                <rom name="FATAL/FATDATA/BANK.RAW" size="6130" crc="1e662979" md5="f227317f4801df59579f0ed9a9cc2660" sha1="3b13d21a9b8b0f6691eee586f11ce810e0b4d5c3" date="1995-09-08 16:39:40"/>
+                <rom name="FATAL/FATDATA/BASH.KC" size="25349" crc="c8bda5b1" md5="91e5d66c2d92b6d896b978d41e4014a4" sha1="f15893099832c0b495ccae96be276681836ea815" date="1995-09-08 17:59:58"/>
+                <rom name="FATAL/FATDATA/BASH.RGE" size="18810" crc="42f822a4" md5="135aaa7bf9043e23b44ce05316097651" sha1="c65d25f5ba7fc97868eb957279aba48b1162c05b" date="1995-09-25 15:31:04"/>
+                <rom name="FATAL/FATDATA/BASH2.RGE" size="32692" crc="f36914e1" md5="37cfa2cc0eb4a24845776d90976f714b" sha1="01c08dccaf44bcf513107def8812e4137681e397" date="1995-09-25 15:31:16"/>
+                <rom name="FATAL/FATDATA/BEST.RGE" size="25633" crc="00d011e3" md5="f648f7d88377bf0d7c291632ce3d3aed" sha1="cf75c152b5671a066980cc523d64cebf44dcd2bc" date="1995-09-25 15:31:26"/>
+                <rom name="FATAL/FATDATA/BIGCRASH.RAW" size="19372" crc="8dcc9c0e" md5="34bfcf96a80e3caf6779bd3f7ab5824c" sha1="96399dd7a1b2412fb29f0db1f87967f891619713" date="1995-09-08 16:37:56"/>
+                <rom name="FATAL/FATDATA/BLOCK.KC" size="18016" crc="92399f4c" md5="30ac9cc70b870c57dc260e7333f94121" sha1="baea630767d983039380576147fce363b07c5e22" date="1995-09-08 17:59:46"/>
+                <rom name="FATAL/FATDATA/BLOCK.RGE" size="18802" crc="99d554e4" md5="a96d796c084e3901da2b7709f668a51b" sha1="9fb7b777dfdd799c2cb663ce0afb38ccc25bc115" date="1995-09-25 15:31:34"/>
+                <rom name="FATAL/FATDATA/BLOCK2.RGE" size="24861" crc="eac04e99" md5="c44cb8de97b01e31c8a409fb69043d95" sha1="8776c297d0ef7f4d885b108ccf331c2946c0cd08" date="1995-09-25 15:31:42"/>
+                <rom name="FATAL/FATDATA/BLOP.RAW" size="4947" crc="fd0f237c" md5="4cc7403568daa59e700251a10acfe3ff" sha1="db1806e44d858035cb8163c025bc12b47ab6a61b" date="1995-09-30 13:32:42"/>
+                <rom name="FATAL/FATDATA/BLOWTIME.RGE" size="25906" crc="23c33092" md5="a87176eb5a3784b019a123728feead09" sha1="7a8ce7b4da846255c4e2a8b742b7c2fa345e2836" date="1995-09-25 15:31:54"/>
+                <rom name="FATAL/FATDATA/BOING.RAW" size="8588" crc="5d53138c" md5="f340d26792b116c07b6821309aa8cbc1" sha1="c886b59528fa8b899e04ca7412e171404e4bd003" date="1995-09-30 13:32:44"/>
+                <rom name="FATAL/FATDATA/BONUSTRK.BM" size="2799" crc="90f88d09" md5="667c70c92732df8e34be54e82d6beccd" sha1="efaf3b54561192b5624e57edb243fac68d1dbab0" date="1995-09-08 19:36:54"/>
+                <rom name="FATAL/FATDATA/BRP.RAW" size="3350" crc="fef7132f" md5="2de34e7d218b88878e674e36f4c2088a" sha1="71552cff5eaa3e1f774b1bab4ee6299e36d07ffe" date="1995-09-30 13:32:40"/>
+                <rom name="FATAL/FATDATA/BUILDING.DRH" size="56027" crc="1e027ad2" md5="899783710ffbdd3b9d0c858e73866d12" sha1="cf73ea086d6910629944fc7caf3da4d4291d42ab" date="1995-09-08 18:46:34"/>
+                <rom name="FATAL/FATDATA/BUTTON.RAW" size="1446" crc="1972f78c" md5="febe3726d0ce168019ecae7943faf55d" sha1="4380f6b425039d5ea8b3925c21289250399209ad" date="1995-09-08 16:41:00"/>
+                <rom name="FATAL/FATDATA/CARIN.RAW" size="20088" crc="20609828" md5="7146420ab2768de757658aaa6b20d567" sha1="3c3c1cc620a700c362d62d608970bac61ee5c7b2" date="1995-09-08 16:39:34"/>
+                <rom name="FATAL/FATDATA/CARNAMES.BM" size="9271" crc="0fb179aa" md5="76025185d97fc0d468a640f2443cee0e" sha1="ad5ceb9564982afbc6c592067935da0f4d48d559" date="1995-09-19 10:50:54"/>
+                <rom name="FATAL/FATDATA/CAROUT.RAW" size="19482" crc="7e64b668" md5="3d53f94363b4e3c952c628a1d1db991a" sha1="fad640f8e6477d39eba63cfc179705637324cba8" date="1995-09-08 16:42:58"/>
+                <rom name="FATAL/FATDATA/CHAMP.BM" size="1071126" crc="c536d0cb" md5="b8cbd3b817f6721aa9fc9262519adc1d" sha1="93568876b7585a4008a5557ffb060184563500b6" date="1995-09-08 19:18:50"/>
+                <rom name="FATAL/FATDATA/CHAMP.PAL" size="768" crc="10d31d8a" md5="23b57e46f2982fca55841658893167f3" sha1="54e41ee244b2fb68f1ce22c0491babc6b487b15e" date="1995-08-09 16:04:10"/>
+                <rom name="FATAL/FATDATA/CHEAT.TGA" size="256786" crc="238b87e7" md5="397792d4fdfe1f95303a7d2c75b35b73" sha1="d6d70236ba0fbc80a7dc93c941b6aa6ff6f34e92" date="1995-10-09 13:47:16"/>
+                <rom name="FATAL/FATDATA/CHEATPAL.PAL" size="768" crc="abfbaa2a" md5="59584361fb89279a1572759c7b29abfb" sha1="5773927b1e1474c85881f24be9f5e081079ba39c" date="1995-12-01 12:20:20"/>
+                <rom name="FATAL/FATDATA/CHUMP.BM" size="89406" crc="523a366d" md5="9fdab40b886fccc9ebe4d11974c6ccc1" sha1="4274e106ef1a57ce3e4673c04d7857ba3c2a7288" date="1995-09-08 19:24:50"/>
+                <rom name="FATAL/FATDATA/CONFIG.ENG" size="1759" crc="f46790f7" md5="cb206f9415e175d223d8983ec41d22f9" sha1="ad2e1d83b00b3db4fc0ab19f3c1b9ca223b02528" date="1996-02-29 11:11:56"/>
+                <rom name="FATAL/FATDATA/CONFIG.FRE" size="2039" crc="fe4740dc" md5="edb156c83e3a3fc2deb28cd93e143c96" sha1="6ab2aa224b1ff2de08b3224d787a60846baee093" date="1996-03-20 12:23:14"/>
+                <rom name="FATAL/FATDATA/CONFIG.GER" size="2044" crc="81072ada" md5="e926ab815775d7292e2e07d45e294cf5" sha1="4ff972da6a2f87dfc8c7b4eaff1e97bfbfbb50d3" date="1996-03-01 16:32:28"/>
+                <rom name="FATAL/FATDATA/CONGRAT.RGE" size="60907" crc="da79777e" md5="a6a0915772cf7d025482d7173c13f786" sha1="41e634dda7c4845d3a104149c12b28d9882e577b" date="1995-09-25 15:32:20"/>
+                <rom name="FATAL/FATDATA/CORKCOME.RGE" size="26568" crc="ee54424a" md5="76636a9392e77a79f06f8b3dca432d54" sha1="e75c49932b635fc1077e2c4c22545de00a7a91e8" date="1995-09-25 15:53:14"/>
+                <rom name="FATAL/FATDATA/CREDIT1.BM" size="19213" crc="bf115793" md5="0f376be0dc5035c44e17c62cd59e4aa5" sha1="def06b4ba0893271785e14d2b7afbdf1af1b2924" date="1995-09-08 19:25:22"/>
+                <rom name="FATAL/FATDATA/CREDIT1.PAL" size="768" crc="19353fca" md5="8f3452ea5624678c482c07cb729675c0" sha1="5de602621b548357db581dec505fc5f29fd3aa30" date="1995-08-30 10:36:20"/>
+                <rom name="FATAL/FATDATA/CREDIT2.BM" size="12803" crc="232d0f3b" md5="b1f8eef13b10c937f693c8caf6cf0b2a" sha1="5e92f184c4edd2803856a02fe4cbf1077abfdc8e" date="1995-10-09 09:57:14"/>
+                <rom name="FATAL/FATDATA/CUPICONS.BM" size="8009" crc="90f3ed8b" md5="e2e8771846c8fdfe12f36157a487e0b0" sha1="ba389e3419ba18deb68cb65aa0d3600e14e79793" date="1995-09-08 19:36:38"/>
+                <rom name="FATAL/FATDATA/DEATH.BM" size="46778" crc="2c235f03" md5="b0af70cf7329d3394be076d8f45a3583" sha1="7b68549a214469f2dd2f5878ff04007182317469" date="1995-09-28 15:02:56"/>
+                <rom name="FATAL/FATDATA/DEMO64.BM" size="78855" crc="c69bcd82" md5="4f33bde451b0d71a13a3ef54a1ef5c22" sha1="9655c128b58cb49fbe526ffb28acbdea20817599" date="1995-09-08 19:08:34"/>
+                <rom name="FATAL/FATDATA/DEMO64.PAL" size="768" crc="1feadb64" md5="f24e243be5431461556f1e7855d3b579" sha1="bc110a75d7e89536a4212f20989746746169a39d" date="1995-08-03 17:07:26"/>
+                <rom name="FATAL/FATDATA/DESILVA.RGE" size="19414" crc="b8c1635c" md5="d6571dd3a28e71e9630f9576b633a656" sha1="8fee7d5ea7f79b3af73e20fc84d5cc9e2c6df079" date="1995-09-25 15:53:22"/>
+                <rom name="FATAL/FATDATA/DRIVERS.KC" size="8387" crc="e8d9bb3f" md5="e96714a4e46682598f476fad83db1afe" sha1="c0e72f968948a764e83519fffcc65278dc3bb8a7" date="1995-09-08 17:57:28"/>
+                <rom name="FATAL/FATDATA/DRIVERS.RGE" size="17092" crc="1cfd293d" md5="072298d57a3b9e05408d84961a002935" sha1="b3288f4629f74e2651390037b2772b367d4a93b1" date="1995-09-25 15:53:30"/>
+                <rom name="FATAL/FATDATA/DRUM.BNK" size="1478" crc="a4d7ca0e" md5="126a5d37fdbcf6d35ed5f7f7d6d03779" sha1="836e9249ace40d774a527f78f6ff308d3fce2785" date="1995-09-08 18:11:58"/>
+                <rom name="FATAL/FATDATA/EIGHT.RGE" size="37621" crc="d4f10b3c" md5="22e0cb4e88f0c09caee654b55e540a95" sha1="595f868b15f7456f54ebab2d2dc40cd0d7e85185" date="1995-09-25 15:53:44"/>
+                <rom name="FATAL/FATDATA/ELEVEN.RGE" size="38300" crc="6c28bbb6" md5="71a9d5a1088f628ab08a70754fcc4f41" sha1="75710b946ee199be369ca194e78e0eb8320fed09" date="1995-09-25 15:54:00"/>
+                <rom name="FATAL/FATDATA/ENGINE.RAW" size="2202" crc="3a72bc36" md5="190f72adf9e6d6022fd3971e063940bb" sha1="a55f2c854f0244392ed416d514c745c8193a5ea8" date="1995-09-08 16:40:22"/>
+                <rom name="FATAL/FATDATA/ENGINE2.RAW" size="2202" crc="3a72bc36" md5="190f72adf9e6d6022fd3971e063940bb" sha1="a55f2c854f0244392ed416d514c745c8193a5ea8" date="1995-09-08 16:40:02"/>
+                <rom name="FATAL/FATDATA/ENGINES.KC" size="10408" crc="caf2df96" md5="e30b6cf7132694244b8813c5cdd098fd" sha1="6d896770be9816702393263d23e31081a57d49e6" date="1995-09-08 18:00:00"/>
+                <rom name="FATAL/FATDATA/ENGINES.RGE" size="16623" crc="28a431f9" md5="c57b060a9676d4ec66bf27c8c03bf039" sha1="b29c46224534c42276348b5e59f218e2b76de673" date="1995-09-25 15:54:08"/>
+                <rom name="FATAL/FATDATA/ESTART.RAW" size="20606" crc="965e3a5c" md5="c5e239d6dedd79c6a5679d47fa489eaa" sha1="4a2bfc98d5a68c886b7acdc78c9de1a5253cee82" date="1995-09-08 16:38:06"/>
+                <rom name="FATAL/FATDATA/EXPLO.RAW" size="19916" crc="2d84a86c" md5="2df079023f5e7fcd427c59d3f46d4e40" sha1="a55cd225486caa4b4d9ea293338004ee1869a19d" date="1995-09-08 16:55:20"/>
+                <rom name="FATAL/FATDATA/FALSE.RAW" size="16367" crc="88e11b3f" md5="78726e77541445105575e16701086536" sha1="2e0e7112eeae0ac7deb3f3370e8f19127e49a958" date="1995-09-08 16:38:40"/>
+                <rom name="FATAL/FATDATA/FARIEL.KC" size="101743" crc="b44d6b98" md5="9ce8ec13f619893242365fdcfc680502" sha1="f0eacc8a834c23d50e36078b6f560e23f1adf48d" date="1995-09-08 17:58:14"/>
+                <rom name="FATAL/FATDATA/FARIEL.RGE" size="134854" crc="b44d15a1" md5="5d1ed8d32721440913190606c94e586a" sha1="3bc3c44a391d71d08d9fb98e507cbb4291ac1eeb" date="1995-09-25 15:55:02"/>
+                <rom name="FATAL/FATDATA/FAST.RGE" size="18806" crc="712307a0" md5="a68669fa92642ff9b7ecdba36fdb7124" sha1="02873ffa82980903ecdad80234e27b42dcedad56" date="1995-09-25 15:55:08"/>
+                <rom name="FATAL/FATDATA/FATAL.KC" size="22009" crc="2e08268d" md5="547193bc084ea9a60b2e73d61fef7db3" sha1="b3bea3d98d237a46d52f42936ef96ae115cc2364" date="1995-09-08 17:58:36"/>
+                <rom name="FATAL/FATDATA/FATAL.RGE" size="23807" crc="9132c5bf" md5="7e4138351a086ab44fa2a2cbd760c0d1" sha1="0ac20e16a3965abff9e748661353c3158a0ee820" date="1995-09-25 15:55:32"/>
+                <rom name="FATAL/FATDATA/FATALITY.RGE" size="17351" crc="510913e3" md5="39a8f8d9b12bb56a80d9956c03a5baa4" sha1="9b8b87dd43c57a9e5b8d4e798a84d10a4df53a0a" date="1995-09-25 15:55:38"/>
+                <rom name="FATAL/FATDATA/FATALPAT.INI" size="2566" crc="2c166d1a" md5="81373e5182afbe8a666af2cee6751b79" sha1="6dc2768b5b6da20de78b9624ae0912b95f60a78f" date="1995-08-03 15:39:34"/>
+                <rom name="FATAL/FATDATA/FATLOTS.RGE" size="38204" crc="3c2a60aa" md5="8195b87c8609e454d9f331dcae67aa7e" sha1="ecb75840476d3d36b479f5a9e3d4b93235ab2adf" date="1995-09-25 15:55:54"/>
+                <rom name="FATAL/FATDATA/FDESILVA.KC" size="62143" crc="ddecd4ad" md5="c6de0a4c23d1dc1676e5dae4bfdb2208" sha1="c539d710e914ce2084ddafd89d8f323823bdf7e4" date="1995-09-08 18:00:32"/>
+                <rom name="FATAL/FATDATA/FDESILVA.RGE" size="152151" crc="b38da970" md5="1c5211b7108fae298854e1be95a8d230" sha1="32cfe070328ae933aab6576689100a20e59a348d" date="1995-09-25 15:56:56"/>
+                <rom name="FATAL/FATDATA/FENDER.RAW" size="5163" crc="b3be7629" md5="fbb8da1fcd29c008cbbfc07cf3b3f364" sha1="66f10b25cc6815890d6a9ceb200add1172a17df6" date="1995-09-08 16:38:08"/>
+                <rom name="FATAL/FATDATA/FENDER2.RAW" size="6196" crc="bc93e1e7" md5="34dd2a59de488b1bbcfb69632f144426" sha1="703ca14c4468dacade944431f8d1ea47f2d0513c" date="1995-09-08 16:37:56"/>
+                <rom name="FATAL/FATDATA/FGLOBAL.KC" size="61259" crc="b406da5d" md5="ef52942f108f731db5b710ef400fd333" sha1="c114218b4d8484b893812d3520da9e148cb821f1" date="1995-09-08 18:02:00"/>
+                <rom name="FATAL/FATDATA/FGLOBAL.RGE" size="131832" crc="a3a227c1" md5="0c39f251558f9f26105b0e591c8d85ee" sha1="1ecea753595c4151b91631c30acf3bdb7d131623" date="1995-09-25 15:57:48"/>
+                <rom name="FATAL/FATDATA/FIFTEEN.RGE" size="42136" crc="c449713e" md5="c0c1444820bb486320597704ea7e08ed" sha1="7f6be3b601e88825d1d4518bb949dedc7d769ba6" date="1995-09-25 15:58:06"/>
+                <rom name="FATAL/FATDATA/FINAL1.RGE" size="16459" crc="efb01154" md5="12357125d3eaddf3999cb37d88d2d12a" sha1="df51a236afeff479965c2c91af9cd39d3d63065a" date="1995-09-25 15:58:12"/>
+                <rom name="FATAL/FATDATA/FINAL2.RGE" size="30564" crc="ba693f22" md5="bae2644230cf33bd7a09efec225acc0a" sha1="baef011535fe7b1a52c33b8762cd8a77dc05dd5a" date="1995-09-25 15:58:26"/>
+                <rom name="FATAL/FATDATA/FINAL3.RGE" size="31755" crc="418108b2" md5="90400c8193ea2ce75b37d0ac87a82a21" sha1="e5109968919714c6cd6adc4253ebf49bc1e07036" date="1995-09-25 15:58:38"/>
+                <rom name="FATAL/FATDATA/FIVE.RGE" size="38725" crc="cb0da373" md5="98a4f59fe565a6923c6f805256ed188c" sha1="586acb95aaf0524bb53caf78c1317b7cdcaf52b4" date="1995-09-25 15:58:54"/>
+                <rom name="FATAL/FATDATA/FIXED.RGE" size="33834" crc="bd2bf1b7" md5="907b5474971c865801d4fc4d16cb881e" sha1="0e82cfda5286da97388b95d043b69308fde98a11" date="1995-09-25 15:59:08"/>
+                <rom name="FATAL/FATDATA/FMILLION.KC" size="143515" crc="dd12b9a4" md5="9013cc6b482edba5dd298d678e9f3c51" sha1="88ac8d5a0d329e73f9d52ac94aba5c0d75e76ac4" date="1995-09-08 18:03:08"/>
+                <rom name="FATAL/FATDATA/FMILLION.RGE" size="94452" crc="c48babc7" md5="e6d212c687f09582d732205cfe0c8d26" sha1="6ea192d16d70565db6365a47cc215ba242221885" date="1995-09-25 15:59:46"/>
+                <rom name="FATAL/FATDATA/FMISSION.KC" size="96816" crc="3448ce40" md5="b96ccd3b54943ed6b904f2d753433c8d" sha1="8ee64f14b067eca4f91ae5b36f9969046a500678" date="1995-09-08 18:04:46"/>
+                <rom name="FATAL/FATDATA/FMISSION.RGE" size="105586" crc="b5948815" md5="37852476f9938316f07a412d72fe3f68" sha1="4e9adeae842b68e5846bbb81dd4ffe03d3eb7f29" date="1995-09-25 16:00:28"/>
+                <rom name="FATAL/FATDATA/FONT1.BM" size="3769" crc="63e29cab" md5="340dbdd1fe37f1afa910752bb7671a28" sha1="2f393e3bb34fc1df22e95f46483dd69e67484116" date="1995-09-26 17:21:26"/>
+                <rom name="FATAL/FATDATA/FONT2.BM" size="4812" crc="e6cd340e" md5="091fa9eac0f4637d7432a8c4c0b157f8" sha1="ba43de84dea12c9775d5f0ad4f3da6d1148c9efd" date="1995-09-26 17:21:28"/>
+                <rom name="FATAL/FATDATA/FONT3.BM" size="6769" crc="8382d468" md5="e15c4f9184fb041faf68302a569964ff" sha1="5b8de786d71c8cccdfa14da77d77753202324bb2" date="1995-09-26 17:21:34"/>
+                <rom name="FATAL/FATDATA/FONT4.BM" size="9753" crc="bcd45813" md5="5d9e3165327418ed35c2f97a5a1b8994" sha1="b3bb1f2ab2c236dcbe7ba3cb20df3d9965b9776d" date="1995-09-26 17:21:40"/>
+                <rom name="FATAL/FATDATA/FONT5.BM" size="6922" crc="68755636" md5="c94e7de910b9ac6ed1da25b0abe9d705" sha1="9a600c7069c683ccd2d90643d61d669176e49654" date="1995-09-26 17:21:44"/>
+                <rom name="FATAL/FATDATA/FONT6.BM" size="1156" crc="7ee901c7" md5="7115683ee6465132a02c206eea6631b4" sha1="3124fcfc578d698e6ed82f6236f759a066b95def" date="1995-10-08 14:23:04"/>
+                <rom name="FATAL/FATDATA/FOUR.RGE" size="39319" crc="73ba3f98" md5="d0d84841468a8f325587087f0c2affe4" sha1="a37dc2685d17e1748077fd5b782146d9e0b03466" date="1995-09-25 16:00:44"/>
+                <rom name="FATAL/FATDATA/FOURTEEN.RGE" size="42468" crc="1887ffc2" md5="a63496672653d6b1b29779556c43b851" sha1="868e05f00058957edbc9d97961bb26268dde08dc" date="1995-09-25 16:02:02"/>
+                <rom name="FATAL/FATDATA/FPULSE.KC" size="127676" crc="7a17dca7" md5="54616ba66b20f405e40c353d4b9ba009" sha1="8d82c30a93c51bb720085f3c6663efef3a5e7f85" date="1995-09-08 18:01:32"/>
+                <rom name="FATAL/FATDATA/FPULSE.RGE" size="119857" crc="c02ffc97" md5="d869c4404a5e07e0e2d95d06fc205e9c" sha1="f1d0084a11e02b3ff2e6efb0eb3f87ec16c6dbc1" date="1995-09-25 16:02:50"/>
+                <rom name="FATAL/FATDATA/FREISE.KC" size="124382" crc="58bb30bc" md5="0ad29b0f83d222b5de916136feb8d7be" sha1="a96bcb8aa3940c5d728bdc51407ac10ed519a04f" date="1995-09-08 18:05:46"/>
+                <rom name="FATAL/FATDATA/FREISE.RGE" size="128848" crc="57109863" md5="4488deb8990a9335564310020776103c" sha1="7b409a7064072779656e59bf421831f82c297bc9" date="1995-09-25 16:03:42"/>
+                <rom name="FATAL/FATDATA/FRONTEND.BM" size="60051" crc="138e8792" md5="e7a91d191211354ea5bc38b7cbfa3923" sha1="cd0e3d51475b7b72de3218474a81a6ff68944066" date="1995-09-08 19:08:06"/>
+                <rom name="FATAL/FATDATA/FRONTEND.PAL" size="768" crc="02526308" md5="da26ae29179763d611c798baf2163d6b" sha1="ad7cdab387b682fbcd3c9eca450fb3628a72a90a" date="1995-07-25 16:38:52"/>
+                <rom name="FATAL/FATDATA/FZIZIN.KC" size="112601" crc="54e83348" md5="7bd0f01019d8769d9cab1e1ca8ee7122" sha1="b4eb9d1a5fd62b6d96fa5a6700482c279a856719" date="1995-09-08 18:04:02"/>
+                <rom name="FATAL/FATDATA/FZIZIN.RGE" size="108216" crc="6fc041fa" md5="82206d537b6145d530ad885dd10ce4d8" sha1="f4832a221d920c69c7ae873ccc66da9325c37cc8" date="1995-09-25 16:04:26"/>
+                <rom name="FATAL/FATDATA/GENTEX.DRH" size="34953" crc="40a61c30" md5="de6bbf47f18b2544595a3c8afd4e4c37" sha1="40dcea32cd8cb398c570781f105d84a6df841378" date="1995-09-08 18:54:34"/>
+                <rom name="FATAL/FATDATA/GIGTE163.CGL" size="173729" crc="021f2a82" md5="0f9945620188e38ec40ceafab7b7a97f" sha1="b3c1c70065e1cff889bad4cc7093f48712fc32e3" date="1996-03-15 13:14:24"/>
+                <rom name="FATAL/FATDATA/GLOBAL.RGE" size="15892" crc="d7f4b8f6" md5="8b440eb4112380437a03c2b2b8c29d58" sha1="90eb2afa3302736209e78a551ddd91105d037826" date="1995-09-25 16:04:32"/>
+                <rom name="FATAL/FATDATA/GO.KC" size="6377" crc="e3642e96" md5="6842e78da0a38e139f88f602f24306af" sha1="88fd54a51aae60f9c88a3d140e17c25ba6fc43b9" date="1995-09-08 18:00:02"/>
+                <rom name="FATAL/FATDATA/GO.RGE" size="9439" crc="62f8cca9" md5="6044acccd6d6e1ae51a1b0b89b9c0d94" sha1="53f4af8bba5ee9cf329896f0b2d3115ef10722ff" date="1995-09-25 16:04:34"/>
+                <rom name="FATAL/FATDATA/GOTONE.RGE" size="24886" crc="eb3d03e1" md5="2f614b7bedf29826ede54bc3b8fdb6e9" sha1="e4fd5aa177072c03530ed06df8411f85ab4384b6" date="1995-09-25 16:04:44"/>
+                <rom name="FATAL/FATDATA/GREMLIN.BM" size="144778" crc="adcbb354" md5="7364ec18b7e013ee27cf65a65f7e2b89" sha1="038003c6d9d572c3d960c6f2df847b0a75d356de" date="1995-09-08 19:21:42"/>
+                <rom name="FATAL/FATDATA/GREMLIN.PAL" size="768" crc="e9f89167" md5="7250a43fa79c80a27428c33173f5c4ef" sha1="d1807b5e7b872152db610204ed23f49c36c4b7c0" date="1995-08-14 13:45:04"/>
+                <rom name="FATAL/FATDATA/GRSHIFT.RAW" size="2324" crc="769661a7" md5="c8f765f34dc97d75965e387b97f1aef9" sha1="d8456bf4564097922b556bece50ac28e97cf8c81" date="1995-09-08 16:40:02"/>
+                <rom name="FATAL/FATDATA/HARDER.KC" size="22817" crc="ee1512af" md5="a4118728e11069dccebbd24e9ba5ae65" sha1="5a495f26f2597d4356febb8456227ce1c55b4cf3" date="1995-09-08 17:59:20"/>
+                <rom name="FATAL/FATDATA/HARDER.RGE" size="23294" crc="1c09ba82" md5="75027731e85297ce877693b60cdf3dbc" sha1="cd0f3382461bec0dc10e0abdd9cc32b5d6a9d037" date="1995-09-25 16:04:54"/>
+                <rom name="FATAL/FATDATA/HMIDRV.386" size="261425" crc="f6d116a3" md5="bd16499c7c0ef8cebb0999373edc5361" sha1="becd7f4a413a1966986b4c41c860b678d7244d58" date="1995-02-06 03:00:00"/>
+                <rom name="FATAL/FATDATA/HMIMDRV.386" size="117848" crc="8d8c0f2d" md5="c8702beb910ac9c082133d8ad235d3f0" sha1="b0ad2e339c5250b5dcee45f0fbaa366a0c119738" date="1995-04-05 09:45:00"/>
+                <rom name="FATAL/FATDATA/HURTME.RGE" size="31708" crc="ac306069" md5="9a7fe451ab3de52c125e0dd10b08ce1e" sha1="16143993b3e695d6ab4c2e05d300ac4aa477543e" date="1995-09-25 16:05:06"/>
+                <rom name="FATAL/FATDATA/HURTYOU.RGE" size="22426" crc="79e63f9f" md5="e1c4ec415a22f7834b40fbcd15186d1f" sha1="21a3046225bd289febbd746441a1306192a7f517" date="1995-09-25 15:47:40"/>
+                <rom name="FATAL/FATDATA/INGAME.ENG" size="1512" crc="4d118e4e" md5="0b3ede4f474b500d8e36583e7faed9ac" sha1="a2740d0d2c22755f6c4923b68d655aab326f6243" date="1996-02-29 11:45:10"/>
+                <rom name="FATAL/FATDATA/INGAME.FRE" size="1871" crc="9e891325" md5="db50cede9b3f76151ad5d3f5154a05a6" sha1="6f1ad4d891543395cad77c873299cebad46f1415" date="1996-03-20 12:23:30"/>
+                <rom name="FATAL/FATDATA/INGAME.GER" size="1806" crc="7410d1d7" md5="8c93c3e7705fde350d21d816adefa555" sha1="87cae540e7dc6b341d529211f64392f67f5cd28e" date="1996-03-01 16:33:54"/>
+                <rom name="FATAL/FATDATA/INGAME1.HMP" size="5277" crc="5b33be68" md5="7548d7d118470a9ec7eed819821bcb7b" sha1="7c444594ff16a69f30997ca48b91413ed143ca63" date="1995-09-08 18:11:14"/>
+                <rom name="FATAL/FATDATA/INGAME2.HMP" size="9739" crc="bf1d14d3" md5="9d9313d274661244cf7a3be3007dbfdf" sha1="732817615bdd99250ea071996e733864ce804ae5" date="1995-09-08 18:11:16"/>
+                <rom name="FATAL/FATDATA/INGAME3.HMP" size="2124" crc="ae3954d5" md5="23834d4ea9fefc9c17ac15b7e4d81eba" sha1="72d9723cb2b6cea1e29f26b01cf23f46f3e1958f" date="1995-09-08 18:11:18"/>
+                <rom name="FATAL/FATDATA/INGAME4.HMP" size="5102" crc="e2b1fc61" md5="f2704e27ca53e4a6696eae60e5932b50" sha1="548bb7637e27f9beebbb5ba167725b8cb3b67b16" date="1995-09-08 18:11:20"/>
+                <rom name="FATAL/FATDATA/INTRO1.GSS" size="471041" crc="132bac2a" md5="3156825d0e9aa11b740f9e3a43f93e11" sha1="ae22ae47ceb371277723a764b78769447dfd569c" date="1995-09-13 12:06:16"/>
+                <rom name="FATAL/FATDATA/INTRO2.GSS" size="774593" crc="a1ee98e4" md5="1624676275cb44fe71d5a3e564346933" sha1="b8ba67316ed1d95b87670f7f42149b5991dae625" date="1995-10-07 12:16:04"/>
+                <rom name="FATAL/FATDATA/INTRO3.GSS" size="124833" crc="4efcd353" md5="6697409969dedc8f13ad3374c66cbc3f" sha1="e1f560c87a8018e32772bfff60e31b658ebcbbc6" date="1995-10-07 12:58:50"/>
+                <rom name="FATAL/FATDATA/INTRO4.GSS" size="388705" crc="7e4600e0" md5="ef3780a7c81a64086346c1dcc5fdf157" sha1="55460047702ca499db0e2ba220d06736365ea6f4" date="1995-09-12 12:05:32"/>
+                <rom name="FATAL/FATDATA/INTRO5.GSS" size="763681" crc="41899353" md5="3ee78cb764b6ed8c4a3974247c3f822d" sha1="f0e4abea79e2c3096b6ba22f2c50ca73871ba62a" date="1995-09-13 17:02:02"/>
+                <rom name="FATAL/FATDATA/INTRO6.GSS" size="911985" crc="67ce3265" md5="438dd4efd2831a08182fc4d1ad7e7602" sha1="4fb99bfeacd2520e0ee9812b43561df15de72e0b" date="1995-09-23 13:10:20"/>
+                <rom name="FATAL/FATDATA/INTRO7.GSS" size="545937" crc="3840e4a7" md5="a2261d370dd885014880c96a07893b94" sha1="3bdc622fe031d941d1989fa9d4d21476059562d8" date="1995-10-09 12:19:18"/>
+                <rom name="FATAL/FATDATA/KEEPGO.RGE" size="15757" crc="bcdb3ced" md5="4b29314263e0d305b92064d63034d083" sha1="111ef6e22d75a6c3fdd869cec9e87f0b73eb7c60" date="1995-09-25 15:47:46"/>
+                <rom name="FATAL/FATDATA/LANDSKID.RAW" size="6706" crc="bf49898c" md5="2c73e020c48d3f6c61bcde25431afc80" sha1="c5fa0afe248edbf94709148476b92021121a8969" date="1995-09-08 16:38:08"/>
+                <rom name="FATAL/FATDATA/LANGUAGE.INI" size="94" crc="dbcfedee" md5="71455ca93796577abfc5961b4cfeec91" sha1="37bb41430e99ae97a9d29b415011dda1d0894a38" date="1995-10-02 17:28:08"/>
+                <rom name="FATAL/FATDATA/LAPPED.RGE" size="35901" crc="259a230b" md5="34ec2db61814838c8038ab1ab1c203e6" sha1="f9990d14a9a0af0e43b102cc9e3ece37693e3a01" date="1995-09-25 15:48:00"/>
+                <rom name="FATAL/FATDATA/LEADBORD.HMP" size="2262" crc="87c867e7" md5="d89b586dfae98a200d9765bcaad2cff2" sha1="a7f6ea92f8dab1986ad554504c047edf735bfff0" date="1995-09-08 18:11:22"/>
+                <rom name="FATAL/FATDATA/LIGHTLAN.RAW" size="6822" crc="63cd570d" md5="adebfc9bbbb780a5f03e2d8a47b261a0" sha1="c4ba8ddb255f95b1776f588abe7f92dc5cd6144b" date="1995-09-08 16:42:42"/>
+                <rom name="FATAL/FATDATA/LOOPCOME.RGE" size="18532" crc="2d3bf0ad" md5="63968e82334f5e2b96bd390718204151" sha1="2fde8a98439542abebcd42a3aa0e669c05ebfe30" date="1995-09-25 15:48:08"/>
+                <rom name="FATAL/FATDATA/MELODIC.BNK" size="3003" crc="ffea3858" md5="d520b4e7576a48b73c58e44effcb9db0" sha1="3bae1eb4f992b5dc0319d3176f83271b96e8fc0a" date="1995-09-08 18:11:58"/>
+                <rom name="FATAL/FATDATA/MENDING.RGE" size="13330" crc="831cfe9a" md5="76de97481753b7e2869486e169ee204a" sha1="1fd6232bdb3478787430fdb38fbe6ec15015b4c8" date="1995-09-25 15:48:12"/>
+                <rom name="FATAL/FATDATA/MILLION.RGE" size="17509" crc="7ad44f24" md5="aee952b75556d270aa091ef6a119defe" sha1="f2e029be3555ef45b084b53383fa1d51376fdde8" date="1995-09-25 15:48:18"/>
+                <rom name="FATAL/FATDATA/MINITEXT.BM" size="475" crc="ca58513d" md5="beddb825ee4368fca707804253d06c00" sha1="3b343452ac3c9f34aeab096876c1ccc75768ec53" date="1995-09-29 11:46:22"/>
+                <rom name="FATAL/FATDATA/MISSION.RGE" size="16626" crc="6415aa0a" md5="6d5c322f3c77f4ab2192abca88bed4e5" sha1="4b9375815a50a2207935979ecaa59fea5b3e3735" date="1995-09-25 15:48:24"/>
+                <rom name="FATAL/FATDATA/NEWFAST.RGE" size="33218" crc="9496f262" md5="809c4a6feddc4bc6bb3c4aabe39efee8" sha1="4e69d2c2a22f04c143222895021c91bc53708c29" date="1995-09-25 15:48:38"/>
+                <rom name="FATAL/FATDATA/NEWLAP.RGE" size="38769" crc="65ceea34" md5="d23d47267a77d667ec52c588bd47b238" sha1="ec78adc4a7a659c68498a8d054ec8c27b7a3af9f" date="1995-09-25 15:48:54"/>
+                <rom name="FATAL/FATDATA/NINE.RGE" size="40224" crc="2690507b" md5="ed27c88c045a5d8123df5b63c55fd9bf" sha1="a29611f9b9f3942a45d797b69ac8511833f352ce" date="1995-09-25 15:49:12"/>
+                <rom name="FATAL/FATDATA/ONE.RGE" size="33988" crc="67222505" md5="0509c9f6178f3ca9f5254ec7274f1e3a" sha1="4c19eed2a3e14ecd4e4bc02a9a77ae3e81b526ba" date="1995-09-25 15:49:26"/>
+                <rom name="FATAL/FATDATA/OPTICON2.BM" size="5117" crc="45219e4b" md5="7fdfd7f7009836e55d9dfa21dbb41248" sha1="206cea72dc744216ad0581bfb59d2566fc05a74e" date="1995-09-08 19:06:18"/>
+                <rom name="FATAL/FATDATA/OPTIONS.HMP" size="4177" crc="3edc52ee" md5="81032bc177788060dcbc43ec2ec62864" sha1="abe5333b2f696f43e987db8a50dbcd8035b74760" date="1995-09-08 18:11:22"/>
+                <rom name="FATAL/FATDATA/PALETTE.PAL" size="768" crc="6433a437" md5="03e4ede0550d062a6b846094eb8bbb35" sha1="aa6c995c0bbe00de3ffb8d6641478df957b41837" date="1995-03-20 15:48:20"/>
+                <rom name="FATAL/FATDATA/PANCAR1.BM" size="5148" crc="fb2e0dac" md5="551113749219d06c689477b778b1f2b9" sha1="517db03c0d65c1b9e59d164181457273d8da8b54" date="1995-09-11 16:07:38"/>
+                <rom name="FATAL/FATDATA/PANCAR2.BM" size="5106" crc="0bccee26" md5="199ca87fa985b8517fe00f591fa1b6c1" sha1="62ca41c87e99cb0346c55873e6c0195b1b59fb94" date="1995-09-11 16:34:10"/>
+                <rom name="FATAL/FATDATA/PANEL2.BM" size="3366" crc="443b3aaf" md5="faf971d1381214a1e1346b0aca466cd6" sha1="3bae8903892a7e008feefa2f0d1a5c1a92b2860b" date="1995-09-08 19:09:32"/>
+                <rom name="FATAL/FATDATA/PASSWORD.INI" size="241" crc="cc4d6805" md5="b9486ba755d361bc67b9b62bd9506c61" sha1="98b7cc42228cad60e9e40dda55cef91ac6186e69" date="1996-02-20 10:56:10"/>
+                <rom name="FATAL/FATDATA/PITIN.RGE" size="23862" crc="4d224634" md5="badecaa320828240b9fdde82ad96ad45" sha1="ff3006c5915ad105f872e1edd52fb0a61a965964" date="1995-09-25 15:49:36"/>
+                <rom name="FATAL/FATDATA/POOR.RGE" size="25039" crc="49c1d43a" md5="4222e54153de555aa7d237b0505cc556" sha1="0ec8ddacb9ec6686b30bdfd447b5516aa0adab9b" date="1995-09-25 15:49:46"/>
+                <rom name="FATAL/FATDATA/PULSE.RGE" size="16857" crc="dd68188f" md5="10e9ef9d104d7cdaee9de7c6a4790e54" sha1="cb56828531c3b2ad5c9e4ee7266c81da85058b6c" date="1995-09-25 15:49:52"/>
+                <rom name="FATAL/FATDATA/RACEOVER.RGE" size="17521" crc="11733c24" md5="5f810f3ad72eeb23561733ec2f9411db" sha1="e3f50636959db9c0addf04eae0d5fe0080f9120d" date="1995-09-25 15:49:58"/>
+                <rom name="FATAL/FATDATA/RECORD.RGE" size="29061" crc="c1dda3b3" md5="4dd93c5efbdf02226aed7085f110a557" sha1="aeb5ec2dc6c5178aec9161d096ed5ab061e06e78" date="1995-09-25 15:50:10"/>
+                <rom name="FATAL/FATDATA/RED28.BM" size="178" crc="8f3cd494" md5="8b03f341f9c22ead67fe48abcf412a40" sha1="f6726576afdec2098dca8e91a8bd46c9acb4dbb0" date="1995-09-08 19:10:12"/>
+                <rom name="FATAL/FATDATA/REISE.RGE" size="19867" crc="e139b27a" md5="ac73977c0ae70f6b3f04f8ef09661968" sha1="8d3400cdce2f7762a5f3acc17bd977d453fd4890" date="1995-09-25 15:50:18"/>
+                <rom name="FATAL/FATDATA/REJECT1.RGE" size="16220" crc="90f1cf78" md5="8f8a06e980fac86a5a0ab9746bd3e6bc" sha1="b951c725991c4c48a919003184105d79081133c5" date="1995-09-25 15:50:24"/>
+                <rom name="FATAL/FATDATA/REJECT2.RGE" size="11848" crc="563aae87" md5="285a6acf7e89f70d5575e31f5da7e5ed" sha1="a057f2d5340a611681e16e82a1c91cd46d3b6903" date="1995-09-25 15:50:28"/>
+                <rom name="FATAL/FATDATA/REPLAYSC.BM" size="5306" crc="f67ec705" md5="713d9f57b99a9ec072b88131befb0a42" sha1="c07d1b7d82cf73c95bec6bb2e15422d4078970c7" date="1995-09-08 19:08:50"/>
+                <rom name="FATAL/FATDATA/RESROUND.BM" size="74324" crc="0b327105" md5="6e594a33a29f1e522181a07454d2f1c7" sha1="158d79a7416fe2b52e2ed12738f2231c9886ef67" date="1995-09-08 19:24:18"/>
+                <rom name="FATAL/FATDATA/RESROUND.PAL" size="768" crc="c7ef2c8c" md5="6e075bc6c6ed5b4cad53bc6d775ef927" sha1="1b44821fc500a282b73e5258fed34a6774ebcf9a" date="1995-08-29 11:14:30"/>
+                <rom name="FATAL/FATDATA/RESULT.BM" size="50181" crc="b8350f6c" md5="e83f48509a9b8be3f9dc60989ed55433" sha1="fe701cd0df427de285909d4b93e0a1d41658229e" date="1995-09-08 19:19:36"/>
+                <rom name="FATAL/FATDATA/RESULT.PAL" size="768" crc="02526308" md5="da26ae29179763d611c798baf2163d6b" sha1="ad7cdab387b682fbcd3c9eca450fb3628a72a90a" date="1995-07-13 17:16:30"/>
+                <rom name="FATAL/FATDATA/REVERSE.RGE" size="34215" crc="b4a4ea7e" md5="35983bedebc85d30e3b15b51f77dc597" sha1="39a3474e2c8af882018652a3f1e11ce32a759a8c" date="1995-09-25 15:50:42"/>
+                <rom name="FATAL/FATDATA/REVERST.RGE" size="25960" crc="a007ec6c" md5="5d3fe7b91d6d7057ce994ca742f3a54d" sha1="e994783dc0e2ab55c8bf6b90cad7a6083ccd6217" date="1995-09-25 15:50:52"/>
+                <rom name="FATAL/FATDATA/ROOF.RAW" size="16531" crc="9f598fc1" md5="bf00edcc3b01ecab2111cd848e005f25" sha1="80dc1f5fd9dea4b59e60395b29d7617caebdb897" date="1995-09-08 16:43:12"/>
+                <rom name="FATAL/FATDATA/ROUND1.BM" size="56718" crc="1cb5acf8" md5="925f0cb11cde5b8e6bf3a67520ee212f" sha1="23aabf5dc22253b6c9c83213c90829f005a6c981" date="1995-09-08 19:25:12"/>
+                <rom name="FATAL/FATDATA/ROUND1.PAL" size="768" crc="103f802f" md5="aa2b9a80ea187e2d5686b3be842993c0" sha1="d0df68e12e0eccfa43c22a980c7407b4d1a832a3" date="1995-09-04 14:37:06"/>
+                <rom name="FATAL/FATDATA/ROUND2.BM" size="64874" crc="d6b585c2" md5="d112bb50f8426e2f946d4aca8c7c8155" sha1="dcc2ed9190b150f4760d94e38524c520b32aa9f7" date="1995-09-08 19:25:50"/>
+                <rom name="FATAL/FATDATA/ROUND2.PAL" size="768" crc="bd29ec0c" md5="f4d13c763ad929054fdf2f146313cd03" sha1="f4df4b056e71d6c62887000be443b0272bed7307" date="1995-09-04 14:37:28"/>
+                <rom name="FATAL/FATDATA/ROUND3.BM" size="65230" crc="22681f17" md5="dafdae4deac2ff34140f36508b0f39eb" sha1="db1dcb3547930c00095f8af80d87bbda706f5016" date="1995-09-08 19:26:12"/>
+                <rom name="FATAL/FATDATA/ROUND3.PAL" size="768" crc="34a70bda" md5="59a591ae0b51d31296aa068871254eb0" sha1="404cccf0f632de6688da84329b15d4e805d7cab8" date="1995-09-04 14:37:52"/>
+                <rom name="FATAL/FATDATA/ROUND4.BM" size="52963" crc="3d324503" md5="320318ca86368f03367217181eed1311" sha1="9a3fc805773402695c02c4ab34de5578e868f648" date="1995-09-08 19:26:32"/>
+                <rom name="FATAL/FATDATA/ROUND4.PAL" size="768" crc="5c8d98e8" md5="85c088ef4e3bb0b70ee5be3224ed2bd0" sha1="5e30fa6331f8969502a2444231aa58488134961c" date="1995-09-04 14:38:16"/>
+                <rom name="FATAL/FATDATA/ROUND5.BM" size="48728" crc="4aa35e0d" md5="c289898ca7c870edc06e39aff0fb17e2" sha1="dcba5a0a7e98306058db654cdb212309921d80fd" date="1995-09-08 19:26:48"/>
+                <rom name="FATAL/FATDATA/ROUND5.PAL" size="768" crc="61800e5f" md5="2873e621c7ae23a72c28d5edccf64371" sha1="fda98f04e69da34a2b92f8f4129f49fbda90d5af" date="1995-09-04 14:38:40"/>
+                <rom name="FATAL/FATDATA/ROUND6.BM" size="48870" crc="8c3516c5" md5="884086affe4cc9d10da1717f6846fb1f" sha1="7b13e2c1c3b04bfc09c064bee2ebc4c395137080" date="1995-09-08 19:27:06"/>
+                <rom name="FATAL/FATDATA/ROUND6.PAL" size="768" crc="fd0b4d3c" md5="8efebc5889f7c333482dcf7f39e6aa49" sha1="437a42c0ba34e2e43dec5364be2b990d585b8256" date="1995-09-04 14:39:04"/>
+                <rom name="FATAL/FATDATA/ROUND7.BM" size="50120" crc="5c21c919" md5="3b705a3f802fed1533c41688d1c3bbcc" sha1="c65938cfc97bd4ad7b560bbe580b98b487b34126" date="1995-09-08 19:27:24"/>
+                <rom name="FATAL/FATDATA/ROUND7.PAL" size="768" crc="d324407b" md5="9e59a85ab1725f5f3538af12d7f5b74d" sha1="7b0bf7cb5030a8fcd83e233adc8511138af5dc7b" date="1995-09-04 14:39:28"/>
+                <rom name="FATAL/FATDATA/ROUND8.BM" size="55064" crc="0fc54e35" md5="8368122f32598f93fd0b5963c08dc402" sha1="6cf2fa6f734f1b8a09b86b5bbc704f7b4c0defc8" date="1995-09-08 19:27:44"/>
+                <rom name="FATAL/FATDATA/ROUND8.PAL" size="768" crc="a56f2b6e" md5="9ddb9d26819e62f7896096fcc2d67013" sha1="7265dee2576c1a165943ec483d48a3614cbc4030" date="1995-09-04 14:39:56"/>
+                <rom name="FATAL/FATDATA/RUBBISH.KC" size="22972" crc="6bd5efac" md5="b1f513d7029d959b97c291581467ad46" sha1="c6b4caa8a79012e406c854db0be38202cdfedf49" date="1995-09-08 17:59:28"/>
+                <rom name="FATAL/FATDATA/RUBBISH.RGE" size="22747" crc="48b2d9c8" md5="8c58503beb52217d79f8287e77414f9d" sha1="6d2ab76e0e15ae0a0a89d9b2fad00e16dc5b7eda" date="1995-09-25 15:51:02"/>
+                <rom name="FATAL/FATDATA/SELCAR2.BM" size="2561" crc="26e25378" md5="1ca808bcd8844d43c4e5b72f87945d6a" sha1="73c3a9a3e180c320edd8dfc17f7cbbac9a00535c" date="1995-09-08 19:06:16"/>
+                <rom name="FATAL/FATDATA/SELECT.ENG" size="2045" crc="40406c05" md5="18e6a70f84873c4995205f01a5f5982b" sha1="008efdecb28a3a12cc4d2e348e6097b0e205225b" date="1996-02-03 14:17:04"/>
+                <rom name="FATAL/FATDATA/SELECT.FRE" size="2514" crc="6e924121" md5="6bebd3645376d40f50658bd0212013f7" sha1="00e8f2b302f96a5c177ae6bcac71c650443e7406" date="1996-03-20 12:23:14"/>
+                <rom name="FATAL/FATDATA/SELECT.GER" size="2347" crc="ffbe8c77" md5="46a4555e9b68e9b4d17d1da8fe9ac1ec" sha1="f0f58acc2d3b1841c205e9076af1af04846d6936" date="1996-03-01 16:57:38"/>
+                <rom name="FATAL/FATDATA/SELEXIT.BM" size="9245" crc="dbcc6ea2" md5="a2b7c65b8ce7234f52e9c79f88040801" sha1="ba02d3dbcb7c31b91e7e1d923b9e03e708a71baf" date="1995-09-08 19:07:50"/>
+                <rom name="FATAL/FATDATA/SELHEAD.BM" size="16186" crc="d7f863c0" md5="871ba6e3bc160d358c9ce8aa561fdb43" sha1="d05c3d6bb36a34153b066db922a184199c9ed661" date="1995-09-08 19:07:46"/>
+                <rom name="FATAL/FATDATA/SELICONS.BM" size="5427" crc="0aeff3b7" md5="8892101611325b43aef6eb4cbd59ae4e" sha1="1751e3d3097038bbbcb439673b75d3fb9ba9364d" date="1995-09-08 19:07:42"/>
+                <rom name="FATAL/FATDATA/SEVEN.RGE" size="41060" crc="b17d828a" md5="29be3310063e0e7998610d2f5884a26e" sha1="23668630938d9426912e6e2f53885794dbd9c5c8" date="1995-09-25 15:51:18"/>
+                <rom name="FATAL/FATDATA/SIX.RGE" size="38983" crc="007a176f" md5="36506dd5c513c4c2f11cd62f7750ed96" sha1="6eea8ea76e732bbe296081e8057ca59670475295" date="1995-09-25 15:51:34"/>
+                <rom name="FATAL/FATDATA/SIXTEEN.RGE" size="41098" crc="936ebc16" md5="cadbb1cad700388f2f2c6de702fecddd" sha1="9e445edfe1094325327feb93a23f9f743814752c" date="1995-09-25 15:51:52"/>
+                <rom name="FATAL/FATDATA/SKID1.RAW" size="1498" crc="980de66b" md5="e92a8485e98813da862e491a81e6c18b" sha1="7989d666af675529ae7e7a5d662116ae5b523291" date="1995-09-08 16:38:06"/>
+                <rom name="FATAL/FATDATA/SLOW.KC" size="24096" crc="0204253a" md5="744f7c33009e027aed04156842de4f13" sha1="d9866de1c54505e4bdb183d85d2fc111943adbe3" date="1995-09-08 17:59:40"/>
+                <rom name="FATAL/FATDATA/SLOW.RGE" size="25882" crc="2802b7cf" md5="95883a41fc85eced43b5fb7952cccb48" sha1="f3f2d685e2010c77b5e5b7ff9b69ac447b0a7d20" date="1995-09-25 15:52:02"/>
+                <rom name="FATAL/FATDATA/SLOW2.RGE" size="23434" crc="9d1047d6" md5="af2fb9a72e939b124c8c29153ae7c458" sha1="21e21e6195c28d65bd84c3ca5ec04018ae6c84f8" date="1995-09-25 15:52:10"/>
+                <rom name="FATAL/FATDATA/SMALLCAR.BM" size="8340" crc="cef6a3c4" md5="a97f4d9d02223d2ccc6007ce52610b5e" sha1="84475ea91cc366e81993e88c43a4fd3f086a42b4" date="1995-09-11 16:27:04"/>
+                <rom name="FATAL/FATDATA/SMASH.RGE" size="32818" crc="d22118e9" md5="259624bb2c97dc8fbb973a3148a5e64e" sha1="6e47784f4ecd40722866962c1a87ac4b949c47cb" date="1995-09-25 15:52:24"/>
+                <rom name="FATAL/FATDATA/SOUND.INI" size="1636" crc="264dd7ae" md5="e901cb729e4dc142c950dd88b1d62f26" sha1="b5bd883f27f2e0f43f18fcb17f8e82e92b07fde6" date="1995-10-01 12:21:00"/>
+                <rom name="FATAL/FATDATA/START.RAW" size="27732" crc="b63239d3" md5="83c219f484b4d1bb971980a1a56637de" sha1="ebabbe8151518f61878e277b640ee48bb3edf26e" date="1995-09-08 16:39:04"/>
+                <rom name="FATAL/FATDATA/STAT.RGE" size="31260" crc="c41247ad" md5="5e28a5d35b5183eb11edfe73e9e746af" sha1="3adfdde3aa3de0144dfad362c3f6a42a2450d31c" date="1995-09-25 15:52:38"/>
+                <rom name="FATAL/FATDATA/T3.DRH" size="31938" crc="a2b36e03" md5="84843871fb4f8af42bf987bf17d0fbd8" sha1="186b57741a7854bd3f82cd127e109d305c026e00" date="1995-09-08 18:55:06"/>
+                <rom name="FATAL/FATDATA/T4.DRH" size="36452" crc="983457d2" md5="da36c2cfdb15f2cf3b4dc621ed4a4065" sha1="3929ba962daf62f5bccad8e7fe22b79700341743" date="1995-09-08 18:58:52"/>
+                <rom name="FATAL/FATDATA/T6.DRH" size="43134" crc="47abab82" md5="c39e512473cb00a07031225de94daf3a" sha1="84f2027a7f508bec60be93f909009371c4014bd5" date="1995-09-08 18:54:52"/>
+                <rom name="FATAL/FATDATA/T7.DRH" size="32517" crc="e1de559f" md5="c0f584a0b73533f856066b5700de892d" sha1="ccf400255d3398f28e5a48434eda2a44a8b0a2d0" date="1995-09-08 19:01:46"/>
+                <rom name="FATAL/FATDATA/T8.DRH" size="34354" crc="e25e2e30" md5="f5c9770fccef4691fd00487b8917fbd7" sha1="54bd7ecb627fec1f18fe43aee3cf2ea4aeafb296" date="1995-09-08 18:59:04"/>
+                <rom name="FATAL/FATDATA/T9.DRH" size="160711" crc="621faf6c" md5="3ea6062b9de7976f495c9c7eb255edcd" sha1="6acf3a594366177a503b1efa9f1e7af9dc1bc003" date="1995-09-08 19:04:18"/>
+                <rom name="FATAL/FATDATA/TABTEXT.BM" size="30890" crc="6b505c9d" md5="eadd357937d31d145be14ba9b8bd514b" sha1="002f63339f41d0ec9eef0e4234e7e593add36d81" date="1995-09-08 19:21:54"/>
+                <rom name="FATAL/FATDATA/TDAMAGE.RGE" size="16284" crc="fc976b88" md5="e78baedd46415ed51e72060e173894e1" sha1="b2ed9cfe0d69788a58407813001e631a0cb9e40a" date="1995-09-25 15:52:44"/>
+                <rom name="FATAL/FATDATA/TEN.RGE" size="38765" crc="d71c7811" md5="57fd62f959db41e75eac45385ef02fe3" sha1="5270ed6e55dddcb2a0987c197e1198c7ebc6ce28" date="1995-09-25 15:53:00"/>
+                <rom name="FATAL/FATDATA/TGONE.RGE" size="11763" crc="72f542f2" md5="1c8c972b51a2c95a6678203c7969c321" sha1="29bd8a41ec93cb6067aede099ddcb0c146ab5a94" date="1995-09-25 15:53:04"/>
+                <rom name="FATAL/FATDATA/THIRTEEN.RGE" size="40475" crc="0a3183eb" md5="4bf4fb0b7439d8cf18a1e99d51783940" sha1="91e6afb446be64cf19780edc15fd2f3296def498" date="1995-09-25 15:32:36"/>
+                <rom name="FATAL/FATDATA/THREE.RGE" size="37898" crc="adaf9afd" md5="65f295bb501b77e34853daff2a024aa3" sha1="d6f36671481f0f7e3655d979e842db7c900aeafa" date="1995-09-25 15:32:52"/>
+                <rom name="FATAL/FATDATA/TITLE.BM" size="196077" crc="a9858ed4" md5="60b405d5dfdbab74c0652dc8e28fa487" sha1="a62ccf666db9a913aa08e1d5db212ec19549765a" date="1995-09-27 11:08:58"/>
+                <rom name="FATAL/FATDATA/TITLE.HMP" size="3633" crc="af08c5da" md5="d4fe485f1aab77eb2980026eb83c13dc" sha1="bb3c08994b86ddff32932e684c45304a6630078a" date="1995-09-08 18:11:18"/>
+                <rom name="FATAL/FATDATA/TITLE.PAL" size="768" crc="3050e1ed" md5="0f8fbf4545115863e98b7e3c40765747" sha1="8fc489e7c396df7ed0cef8c38f5d9031f7f67323" date="1995-09-27 11:07:04"/>
+                <rom name="FATAL/FATDATA/TOOFAST.KC" size="20880" crc="9086d4a0" md5="de663665922b7ea3fae6128ab184a945" sha1="8350d46ba8ce0cb9f1fced0a0ca8319347724107" date="1995-09-08 17:59:02"/>
+                <rom name="FATAL/FATDATA/TOOFAST.RGE" size="25088" crc="b46c447d" md5="9e2940c12bbb5d4cb39de9004f40c026" sha1="4a752bc440e69df875505dfa68f6cca3020aa27d" date="1995-09-25 15:33:02"/>
+                <rom name="FATAL/FATDATA/TOOSLOW.KC" size="24993" crc="cadfdd1a" md5="3461f01ca1a181e49a05df8e86006fea" sha1="e4d60c129e7ffcd2c78d4a39f9067cba6da9a6f4" date="1995-09-08 17:58:52"/>
+                <rom name="FATAL/FATDATA/TOOSLOW.RGE" size="24229" crc="259c7ba0" md5="0bd14fd93b9092a3ca2c0be237cf09a2" sha1="1b23de7d527cafd9022fbdcc2f1c8fdbb357e973" date="1995-09-25 15:33:12"/>
+                <rom name="FATAL/FATDATA/TPITS.RGE" size="11866" crc="1ec8388d" md5="b10b53b78b0faa5ad86dda42b1ce9a5a" sha1="d57748a4ec9f48afd9d3b98a4d0a0e44719d4833" date="1995-09-25 15:33:26"/>
+                <rom name="FATAL/FATDATA/TRACK.RAW" size="25159" crc="280a7a03" md5="39eee54b3410c199a9f790edd6311840" sha1="cf33f1b879c50a01fe62d77e07b3643d8125e92f" date="1995-09-08 16:40:30"/>
+                <rom name="FATAL/FATDATA/TRACK01.RGE" size="145012" crc="4aa34ec2" md5="a9b5b975f2ec20a1bddb37d2b787b090" sha1="32715d280dc7477f2212b4e14e8a43f0a5a85423" date="1995-09-25 15:34:26"/>
+                <rom name="FATAL/FATDATA/TRACK02.RGE" size="106768" crc="6f8288ff" md5="4ddb1ec056666614e11ecc1d985c7248" sha1="4a945aeb05a775cf0fc7d89f62d082e676f51af4" date="1995-09-25 15:35:12"/>
+                <rom name="FATAL/FATDATA/TRACK03.RGE" size="109367" crc="cadb179a" md5="00b2731d1b298139873cc01fb839f24d" sha1="7bfd924899847b4ebf3b6b75b2b23c2498787d87" date="1995-09-25 15:35:58"/>
+                <rom name="FATAL/FATDATA/TRACK04.RGE" size="81783" crc="b393f471" md5="7e61a69373d026417c9fff2183833d49" sha1="effff5520ce20c2435e2a5ca7737cba77ce77ce9" date="1995-09-25 15:36:32"/>
+                <rom name="FATAL/FATDATA/TRACK05.RGE" size="113095" crc="ef46baaa" md5="a6d59c396196610143b879299c19ee81" sha1="de2dae5fba3e27d817e8a547b575073d54b75b66" date="1995-09-25 15:37:20"/>
+                <rom name="FATAL/FATDATA/TRACK06.RGE" size="125181" crc="cc551e79" md5="78841ed3a1cb9182d740a1c0f3781701" sha1="68fed7c41b60c01742d356901344ff267ee20de3" date="1995-09-25 15:38:12"/>
+                <rom name="FATAL/FATDATA/TRACK07.RGE" size="109610" crc="18b17f75" md5="a2aed6c3824ce3cd6960a4a030a3875d" sha1="b2ef9449c5b4833bbc4942d8f9b58be2a8fb9947" date="1995-09-25 15:38:58"/>
+                <rom name="FATAL/FATDATA/TRACK08.RGE" size="95117" crc="70b1a99d" md5="abf3af1c04737422ae3d5022588e3ea2" sha1="16b0625286d30d681f41a7f379c82a67a22f0ddd" date="1995-09-25 15:39:38"/>
+                <rom name="FATAL/FATDATA/TRACK09.RGE" size="100976" crc="1cf7bc15" md5="fd42b10b5211e1178c4ba18f68109430" sha1="7863879ed6cccaf76824a9cb4eeae01829f0071c" date="1995-09-25 15:40:20"/>
+                <rom name="FATAL/FATDATA/TRACK1.DRH" size="347131" crc="1faea377" md5="e5b889f5031dd86293ef6af7df3e17f4" sha1="fdb9591bfa7efdebfe3de3296cfdd4ce19b1848d" date="1995-09-08 18:41:20"/>
+                <rom name="FATAL/FATDATA/TRACK1.TRK" size="26416" crc="d090fe25" md5="e40e1d9a98cf1afeea9179977aec2888" sha1="f52196c7f34a17ca255af9b822db4949ac77b460" date="1995-10-07 12:43:24"/>
+                <rom name="FATAL/FATDATA/TRACK10.RGE" size="95363" crc="0719afb6" md5="27ae6153bda3b789cbdfcc44665bf452" sha1="511d8047823377352d9649991ec80b8efd418eeb" date="1995-09-25 15:41:00"/>
+                <rom name="FATAL/FATDATA/TRACK10.TRK" size="25827" crc="65c850a8" md5="a6070fa6da932edb754986c0fa0148f6" sha1="8e57e00fb1c1466cb6cdab09faeb835abaf56881" date="1995-10-07 12:44:28"/>
+                <rom name="FATAL/FATDATA/TRACK11.RGE" size="72104" crc="0f05297d" md5="5dc01a69e26d147f2215457a5ba9d319" sha1="f44801e55d4635aca403e9b6ee73ce9e919ecec2" date="1995-09-25 15:41:30"/>
+                <rom name="FATAL/FATDATA/TRACK11.TRK" size="24209" crc="d1644e27" md5="5f14ec2eb1ed7cc37f09be498aad3e52" sha1="801e9f4240591f53809948ee1cfec7d30156aa64" date="1995-10-07 12:44:20"/>
+                <rom name="FATAL/FATDATA/TRACK12.RGE" size="93961" crc="0224ea11" md5="488d1378907f95ba86e4338e22dc4bb0" sha1="6e20937c72f42cfa7bc9026f4f2b93c7d5f4a283" date="1995-09-25 15:42:10"/>
+                <rom name="FATAL/FATDATA/TRACK12.TRK" size="27295" crc="3465e179" md5="2d194277acec602e761590ac6fde9eb7" sha1="d2d2efbe7e649dd14ccf6c093b2adb90d3ad5fa3" date="1995-10-07 12:44:36"/>
+                <rom name="FATAL/FATDATA/TRACK13.RGE" size="112876" crc="3c1bb7e3" md5="6e40906691424b031273c658b3421128" sha1="01fa4d755248104f608354e56529b5aececf50d6" date="1995-09-25 15:42:56"/>
+                <rom name="FATAL/FATDATA/TRACK13.TRK" size="32435" crc="93d6582c" md5="d8d71ada870913597f0e89950a924066" sha1="9a4fef695fea838da5ac367f13f4934ccad4b809" date="1995-10-07 12:45:50"/>
+                <rom name="FATAL/FATDATA/TRACK14.RGE" size="130628" crc="bce39b46" md5="47f972f3ea91e55c6542367b1f2103f0" sha1="2347b0a755acfbe5aab2374caa88a07b4a888b1b" date="1995-09-25 15:43:50"/>
+                <rom name="FATAL/FATDATA/TRACK14.TRK" size="25056" crc="9ccf6e6d" md5="f5087dcdd52d37b04bcf51e8c7cef284" sha1="43d59d1ba1c87b047a239dc76050f226686ce870" date="1995-10-10 16:36:12"/>
+                <rom name="FATAL/FATDATA/TRACK15.RGE" size="129390" crc="e44f2813" md5="8a0122fcf77c1f1487f5232829bb2747" sha1="5eba64674fac140bd1bd9aef776c5cfdf3204322" date="1995-09-25 15:44:44"/>
+                <rom name="FATAL/FATDATA/TRACK15.TRK" size="18825" crc="d8ab029a" md5="694378d38ffbd6be3ca659d3c7d8b16f" sha1="7cef303b2c9182bd9f4551eeb5813d7d26b391b0" date="1995-10-07 12:45:40"/>
+                <rom name="FATAL/FATDATA/TRACK16.RGE" size="101906" crc="848d7aba" md5="8fd6223b9f475fc48d0afd54d595c8e1" sha1="b67379e44d33dc5aaac7821198fe380719f9d757" date="1995-09-25 15:45:26"/>
+                <rom name="FATAL/FATDATA/TRACK16.TRK" size="30623" crc="2464f66b" md5="6c5260590271a57c966c68dd48ec0ac1" sha1="f4176d16bedb652281c68df5482e3218e1e706ff" date="1995-10-07 12:45:02"/>
+                <rom name="FATAL/FATDATA/TRACK17.TRK" size="8553" crc="111690a4" md5="657b1dc37f4d2ad0d3931e822ac90874" sha1="a12c09b697818ffa020d2f7f49c2c13345596c5c" date="1995-10-07 12:45:06"/>
+                <rom name="FATAL/FATDATA/TRACK18.TRK" size="5760" crc="8c8e864a" md5="0b69838ddcd48421317d3410da6d37dd" sha1="d7f740ef5b5410fc7041cfadd025e0180e3e1d50" date="1995-10-07 12:45:08"/>
+                <rom name="FATAL/FATDATA/TRACK19.TRK" size="10172" crc="bc67301e" md5="9a6345aec690d701e5b248bc36ee9393" sha1="d6464d099331600792308d622cc9f5f8d23f0afe" date="1995-10-07 12:45:10"/>
+                <rom name="FATAL/FATDATA/TRACK2.TRK" size="33814" crc="1c712c78" md5="8897de67c0d79e21e17bb01f7d667089" sha1="23b7a30e995dbc6e38ea5e93e25514b167e86759" date="1995-10-07 12:46:00"/>
+                <rom name="FATAL/FATDATA/TRACK20.TRK" size="8833" crc="3f23572a" md5="bd9d74d8ba32c190fce3f3370a32d0ed" sha1="6d668617e5d08814a58e2ddcc37a32cfb242923b" date="1995-10-07 12:45:14"/>
+                <rom name="FATAL/FATDATA/TRACK21.TRK" size="11101" crc="40980a69" md5="195312a7029d35a50408ba1824aa3dcb" sha1="dc1986b8aa50972bb2b52bb393b3ea08034dea90" date="1995-10-07 12:45:16"/>
+                <rom name="FATAL/FATDATA/TRACK22.TRK" size="15140" crc="cfa47ef6" md5="d024907f385e9db6bec0cba02d8110f6" sha1="11d1e6536c565b15730c335a0d903dfa1717d054" date="1995-10-07 12:45:22"/>
+                <rom name="FATAL/FATDATA/TRACK23.TRK" size="8652" crc="a37ecf6e" md5="0dd457082912c74358be93c3f1391965" sha1="544e34a25bb17f3f61df7bfc77ac66b184aa006c" date="1995-10-07 12:45:24"/>
+                <rom name="FATAL/FATDATA/TRACK24.TRK" size="18796" crc="af52e77a" md5="2f3b9236d42c8609e0c30a767c7711f6" sha1="99cc2839092054aa6949a4bca912b7786681d5d5" date="1995-10-07 12:45:30"/>
+                <rom name="FATAL/FATDATA/TRACK3.DRH" size="291850" crc="ccb67ec6" md5="2eac295d54d016c99e9669f88fd1e9e2" sha1="2120f9c31d5f5e670cd9e82a5b7c4740a36fca3b" date="1995-09-08 18:37:12"/>
+                <rom name="FATAL/FATDATA/TRACK3.TRK" size="27953" crc="db8e2440" md5="b2d53d966233b1139aa52da5efdb6712" sha1="84e3b169ce1829c7df1b6e8b86207c4af6da8589" date="1995-10-07 12:43:34"/>
+                <rom name="FATAL/FATDATA/TRACK4.DRH" size="297736" crc="7fc54091" md5="e6fdf325244173866bc5f231f0505690" sha1="4c1795fadbccba97ae570b6a95608d0e26a4fd9a" date="1995-09-08 18:58:36"/>
+                <rom name="FATAL/FATDATA/TRACK4.TRK" size="32397" crc="99e70626" md5="53ba6a88799b77dae6a5c95dc6355a08" sha1="dca9cd2c53080f3ba40fb9f50fe4af4b3c5b18d6" date="1995-10-07 12:43:44"/>
+                <rom name="FATAL/FATDATA/TRACK5.TRK" size="23139" crc="311c4216" md5="f848f121010fabb0758d8ca087d031e2" sha1="ed0c1953d6f2724d5f3b1fc9ff06fbd8eb71e9c5" date="1995-10-09 18:42:52"/>
+                <rom name="FATAL/FATDATA/TRACK6.DRH" size="419956" crc="a7e42921" md5="3c41ed166c5765449ef5ca226af15e59" sha1="51302fda0438237198d7f56c60ba4cb7bc51dff9" date="1995-09-11 17:10:58"/>
+                <rom name="FATAL/FATDATA/TRACK6.TRK" size="26235" crc="750c7e2c" md5="dfe185d09d3476f6717ef879870fbd70" sha1="c43e72f476b9758dfdc2052b0ea677b519443225" date="1995-10-07 12:43:58"/>
+                <rom name="FATAL/FATDATA/TRACK7.DRH" size="265003" crc="37edac54" md5="78aa270352920665657d5d06c13b84fb" sha1="9b208204f7271dfd9901a252b4bffec9976e4c22" date="1995-09-18 14:59:26"/>
+                <rom name="FATAL/FATDATA/TRACK7.TRK" size="23055" crc="55aa5fc3" md5="7632b02ff98d1b52398cc72b4b4f829a" sha1="1fcd46213ca669bf689a95302e05152d0d02f783" date="1995-10-07 12:44:06"/>
+                <rom name="FATAL/FATDATA/TRACK8.DRH" size="264363" crc="79e8dab2" md5="07ae12a66115fe25ecce162a6d9b0fdc" sha1="10b3440eed66e008e6f6882408f13e046451799d" date="1995-09-08 18:56:50"/>
+                <rom name="FATAL/FATDATA/TRACK8.TRK" size="27631" crc="b3be9b0a" md5="cdbe30fc95ee496b92cec0c8de01463a" sha1="3bb9bb8a63fd5738924e48b5c6e36a321b4b7a6e" date="1995-10-07 12:44:14"/>
+                <rom name="FATAL/FATDATA/TRACK82.DRH" size="257477" crc="0f537ba2" md5="883a48f4148732d35584fa3f47506da8" sha1="2d5e4b78bf6b479306c34d0d5d78bbc59eca562c" date="1995-09-08 18:54:20"/>
+                <rom name="FATAL/FATDATA/TRACK9.TRK" size="33221" crc="209dbf0f" md5="0913cbcece54b25a688a129a754a5414" sha1="4fe9a080dff938bebef667803f061154795fadd4" date="1995-10-10 13:23:48"/>
+                <rom name="FATAL/FATDATA/TRACKSIX.DRH" size="378403" crc="52bc419f" md5="38bba375938a13f18664401be8b4e082" sha1="b7e0488b8fe0c127beae579bc18299e5787ee405" date="1995-09-08 19:01:24"/>
+                <rom name="FATAL/FATDATA/TRACKTOO.DRH" size="300327" crc="9e5a8224" md5="e0418a82cacd26362c6dd84078d6216f" sha1="64688d0e61308002619d1ee4c2873c2b8432570e" date="1995-09-08 18:52:40"/>
+                <rom name="FATAL/FATDATA/TRACKZER.DRH" size="297356" crc="4ea778a6" md5="fcb5b069a8e7f30e92ec7f4878b2e9e6" sha1="ce0fa3b1a59c5ff344cc1da6a971231d68a1d2c8" date="1995-09-08 18:50:16"/>
+                <rom name="FATAL/FATDATA/TRKNAME.BM" size="17961" crc="a7ab2fc3" md5="06ca7d7c9d206ad029582c98de66a4e8" sha1="4e6528c4263f8d6535a7254c23b5a456f46eca93" date="1995-09-19 10:51:10"/>
+                <rom name="FATAL/FATDATA/TSIX.DRH" size="27556" crc="9c06e20e" md5="b7d3c5074b636527561749b66f967b30" sha1="2c3213023541e512b83e618a9d3ac8ac3071a904" date="1995-09-08 19:01:34"/>
+                <rom name="FATAL/FATDATA/TWELVE.RGE" size="39544" crc="c29784fa" md5="8db9f24b63dfd75ea264aab3c6bbacb6" sha1="e2579949cbaaf7e34f557f5ce992574189b96f28" date="1995-09-25 15:45:42"/>
+                <rom name="FATAL/FATDATA/TWO.RGE" size="36739" crc="a4e97233" md5="17d861c0518ee3b79fc42b4f32bbf0b7" sha1="878d065d32b223fae0da8865c5528ccd1c27a7f4" date="1995-09-25 15:45:58"/>
+                <rom name="FATAL/FATDATA/UNLAPPED.RGE" size="42449" crc="544bcda1" md5="72047bb73e8d20bcc0641972e0438d56" sha1="30aba4787d27e2eca4f1c6be2197e0d6fb4a5a8c" date="1995-09-25 15:46:16"/>
+                <rom name="FATAL/FATDATA/UP.RAW" size="12228" crc="3e22a28a" md5="7641b7e0d689b199570f02686aff0190" sha1="67c4b0eca12fef759f31b30749ec2e8147d15a66" date="1995-09-30 13:32:48"/>
+                <rom name="FATAL/FATDATA/VRITE165.CGL" size="116099" crc="51832709" md5="cf409527343baaa480ea2fe227e45e21" sha1="f72649bafa2d9427169be46cf2c52931894bcecf" date="1996-03-15 15:51:12"/>
+                <rom name="FATAL/FATDATA/WALL1.RAW" size="6130" crc="1e662979" md5="f227317f4801df59579f0ed9a9cc2660" sha1="3b13d21a9b8b0f6691eee586f11ce810e0b4d5c3" date="1995-09-08 16:40:04"/>
+                <rom name="FATAL/FATDATA/WIN.KC" size="26174" crc="88cdb0dc" md5="75a6dc6af7216d58ac23f5c3c753b656" sha1="f5248ae1858f429e79149814dc7477f9fc99719d" date="1995-09-08 17:58:26"/>
+                <rom name="FATAL/FATDATA/WIN.RGE" size="30815" crc="15f786c5" md5="ce778320d01ec84865385f99397a00e8" sha1="39258354e93c07422591bdb4f44f94f95f1fd113" date="1995-09-25 15:46:28"/>
+                <rom name="FATAL/FATDATA/WIN2.RGE" size="16159" crc="54e0e5a8" md5="c4c2b9c01f41ad1f1fc098eb35b7a4b8" sha1="8389fc0b48b9b935e1db09b55282d1a32a46baa1" date="1995-09-25 15:46:34"/>
+                <rom name="FATAL/FATDATA/WINNER.BM" size="84327" crc="d2b54e7e" md5="de7321fb32f0e02e8a4991a38dfbe615" sha1="a2de2279907ce2e9a1d5841a129d696e541375f0" date="1995-09-08 19:22:56"/>
+                <rom name="FATAL/FATDATA/WINNER.PAL" size="768" crc="208e6675" md5="b71b693558629af5d83257339b08f586" sha1="84ce7afda57ef3fee910bcf5ce097eaf1149ad28" date="1995-08-03 17:04:18"/>
+                <rom name="FATAL/FATDATA/WINNER.RGE" size="34998" crc="98bb8814" md5="c3bb84d9421cfe82ec7d2cdc50f05d99" sha1="91980a08f6fa6bb1d15e78f8c537c9a5349e5ac9" date="1995-09-25 15:46:48"/>
+                <rom name="FATAL/FATDATA/WINONE.HMP" size="2599" crc="c82cf210" md5="2c6c0a8687335aaf2fde76f903874f36" sha1="94c06ea9013769222d6b53fab4a8de3dc7840fed" date="1995-09-08 18:11:22"/>
+                <rom name="FATAL/FATDATA/WINTWO.HMP" size="1555" crc="07345162" md5="446b1336002fccf9b95f487495ffc369" sha1="21092e2e8953a372b1ad313c2169de656b920cb3" date="1995-09-08 18:11:24"/>
+                <rom name="FATAL/FATDATA/WON.RGE" size="35538" crc="8497ac28" md5="ed2ad8e72da372d139aae691c0906953" sha1="2b3b6f5b0e2dc7e7c1438ac712f21b8a439f6401" date="1995-09-25 15:47:04"/>
+                <rom name="FATAL/FATDATA/XAUTO.BM" size="45114" crc="098344fa" md5="6fa568938c10e9aae64e44841bf3c2eb" sha1="d7caaecdf7d7f38d8b422ab32fab5e37fd012fd3" date="1995-09-08 19:19:20"/>
+                <rom name="FATAL/FATDATA/XDESILVA.BM" size="40565" crc="1964867a" md5="5e0dea30a9a6468fa345c098109b8e97" sha1="ef21f5e30597bc7275ad8a18f7a1f4d4cd75c04c" date="1995-09-08 19:20:06"/>
+                <rom name="FATAL/FATDATA/XGLOBAL.BM" size="46803" crc="71b9b5be" md5="f66cf9cf5f20dd587af2c6227953b0a1" sha1="f426adb1525b4eea20893e5be0756799766c0fce" date="1995-09-08 19:20:22"/>
+                <rom name="FATAL/FATDATA/XMILLION.BM" size="40914" crc="bf6a89a3" md5="7008a7fc77cf2c446be44409b5f2b6dc" sha1="8513908e02c555a645e1835df66f72f5c4b3d1e9" date="1995-09-08 19:20:38"/>
+                <rom name="FATAL/FATDATA/XMISSION.BM" size="41424" crc="e78ac03b" md5="a72bc930110bd352765e8c0c9db607a5" sha1="b50b7dc009a7aa9a04d3ba826467cb58c97db690" date="1995-09-08 19:19:04"/>
+                <rom name="FATAL/FATDATA/XPULSE.BM" size="44827" crc="ef94a805" md5="00d18b165e3831f75a0c0511a5da9799" sha1="1264d23956064aab0ff501a2175d58f9170f08db" date="1995-09-08 19:12:44"/>
+                <rom name="FATAL/FATDATA/XREISE.BM" size="56742" crc="e6942173" md5="4af59d8802f98c4874ce573eb434a033" sha1="467c642f1b41cc782bd1d2b744376f88b7c6064b" date="1995-09-08 19:09:10"/>
+                <rom name="FATAL/FATDATA/XZIZIN.BM" size="45772" crc="68ee94b9" md5="e8839beb141d5904d06efbafde290ac0" sha1="a72dd0c615d7204a196efc72a3ad09aade824893" date="1995-09-08 19:20:54"/>
+                <rom name="FATAL/FATDATA/YAUTO.BM" size="45071" crc="a92cf7a1" md5="e043f27f81402a73b096f8a39d5c64eb" sha1="a6f1309ed2326fe8b5a42164731cc2d772ba241e" date="1995-09-08 19:36:54"/>
+                <rom name="FATAL/FATDATA/YDESILVA.BM" size="40565" crc="89e4cf71" md5="c8c0d3a5bcbc39f477e5ffec087894c9" sha1="ccdffab7f8f17ed3c923b47b853fb7941e17657f" date="1995-09-08 19:37:16"/>
+                <rom name="FATAL/FATDATA/YEAHCORK.RGE" size="22512" crc="574de559" md5="e50e19907e4abb47fa5bbefbc923e8c8" sha1="d1eb2035d42b01646f14552b36a49da74a39675d" date="1995-09-25 15:47:12"/>
+                <rom name="FATAL/FATDATA/YEAHHAH.KC" size="17013" crc="0087b325" md5="7c9ebfb217bd2e117f54a6da20f3a23c" sha1="aa1308d6f9b8ba7bbb18c23c419ef59b88a8e9f2" date="1995-09-08 17:58:42"/>
+                <rom name="FATAL/FATDATA/YEAHHAH.RGE" size="23494" crc="e0f0752c" md5="569907ce199bd681494edfd09b5d4c84" sha1="9721e77bf5960f822eb4b5873170116c1f14e173" date="1995-09-25 15:47:22"/>
+                <rom name="FATAL/FATDATA/YEAHLOOP.RGE" size="21491" crc="2e914976" md5="2e98f315af8709d90962b83935a2ee0d" sha1="b6c5e188bc65edb85f0899b9952953dd0374de91" date="1995-09-25 15:47:30"/>
+                <rom name="FATAL/FATDATA/YGLOBAL.BM" size="46801" crc="c79c8476" md5="f86d89e580630ed5b2d43b0a1c8cde9e" sha1="7389ee9b72d7e6bdea23e292a1c34fb6ae4805e2" date="1995-09-08 19:37:32"/>
+                <rom name="FATAL/FATDATA/YMILLION.BM" size="40914" crc="69cecd3f" md5="a522d39209ae1234f2faf5aafa8f93bd" sha1="c908dbbf22fb69d6f379884068a9326ddadeea5e" date="1995-09-08 19:37:46"/>
+                <rom name="FATAL/FATDATA/YMISSION.BM" size="41430" crc="e19bf243" md5="6ed9c8f3f6d512f9990c147190b38bde" sha1="8020a291c5a2c88d349deaec73a06068033975a8" date="1995-09-08 19:38:00"/>
+                <rom name="FATAL/FATDATA/YPULSE.BM" size="44827" crc="c067f445" md5="a837be4855c0b812ec0b0da88395a858" sha1="0178f40deda2c3f9f5ad4e2ad9129a4b7463bd43" date="1995-09-08 19:38:32"/>
+                <rom name="FATAL/FATDATA/YREISE.BM" size="56742" crc="60a6e224" md5="3bc7167fd5d16043a3bede72a61eece4" sha1="a7947f2238a03f99c5b4aa28d6c47fdf1dadba32" date="1995-09-08 19:38:52"/>
+                <rom name="FATAL/FATDATA/YZIZIN.BM" size="45887" crc="0b6dfc7f" md5="eafa05af8b69c78ef10d629280e2bdb1" sha1="c62f32cd8823811e8fb795b648463f73902da44b" date="1995-09-08 19:38:16"/>
+                <rom name="FATAL/FATDATA/ZIZIN.RGE" size="17791" crc="ebb0c38c" md5="2cd0f33ab0952c27efc6cb97d74ee481" sha1="52f60d818a6c917227ed7b51490dc3ba2fb2f29e" date="1995-09-25 16:05:14"/>
+                <rom name="FATAL/FATFX.EXE" size="1384754" crc="36fc3ee0" md5="8a433379f593ea21c69b904bc5527483" sha1="14766039739d21f590e1988bc5342dcc94a17673" date="1996-08-22 14:34:08"/>
+                <rom name="FATAL/HMIDET.DRV" size="52856" crc="fb8bd7b4" md5="f4e4ed8302f18aac0a8f8bb153a61566" sha1="9499170383de96410e2038426ce993c6a21a085e" date="1995-02-06 03:00:00"/>
+                <rom name="FATAL/HMIDRV.DRV" size="188711" crc="5e017030" md5="cef61ca0b324c59d8e38c59ba1ddb191" sha1="cf8b1a87ec41c992c6ab9f09199fa5c6fac1fe50" date="1995-02-06 03:00:00"/>
+                <rom name="FATAL/HMIMDRV.DRV" size="100647" crc="9680fa48" md5="59ad9c334c62a258b576728ef69d8af5" sha1="19dbb274ae812ad2c6f176af46099403ce4449f7" date="1995-02-06 03:00:00"/>
+                <rom name="FATAL/INSTALL.EXE" size="152912" crc="7dbe7268" md5="69e3989ef7f6c6329bd008672f5f59ac" sha1="c80539ac63051384043a437c87690fa25cf3b6fa" date="1996-02-08 01:25:00"/>
+                <rom name="FATAL/INSTALL.INI" size="58891" crc="c9f33a2a" md5="d058db2a7f0ea3739540f45b9734301c" sha1="ac044d109fc6a91bfa1e0189fa2bfc32dfce5c53" date="1996-03-28 11:42:24"/>
+                <rom name="FATAL/INSTGRAV.INI" size="63" crc="9dcf25c8" md5="8bf7b8cf7ba33e1353d2de82e142b41c" sha1="ec2ed32284f8f344b077744fa7cad50794047bd4" date="1995-01-24 14:26:26"/>
+                <rom name="FATAL/LOADPATS.EXE" size="49194" crc="066c5e51" md5="b24134b3fab09b2727b49a0fe1d64d8e" sha1="d9ba6f21e0e7a7210fc7bdc99495343cadd07d9d" date="1994-12-08 14:19:04"/>
+                <rom name="FATAL/PROCESS.EXE" size="179194" crc="0f2a5719" md5="d4c365a192cecaf53c70cab9e621eb5f" sha1="a71b80541a4e1abc588574026e9e00044052ccbc" date="1995-10-10 14:15:10"/>
+                <rom name="FATAL/READ.ME" size="776" crc="e200b4c5" md5="91288abe12f35a38f3a9369fd49d4e51" sha1="4725a786a746dcff7570e0137910acb5f5e0e65e" date="1996-04-23 10:21:36"/>
+                <rom name="FATAL/REPLAYS/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-12-31 00:00:00"/>
+        </game>
 	<game name="Siedler II, Die (1996) (Blue Byte Software) (Deutsch).dosz">
 		<description>Siedler II, Die</description>
 		<comment>Installed using Redump-verified CD-ROM: Siedler II, Die - Gold Edition (Germany) (Rerelease) (2000-03-08)</comment>
