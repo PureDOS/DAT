@@ -10,6 +10,16 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
 	</header>
+	<game name="A-Train (1992) (Ocean) (Installation).dosz">
+		<description>A-Train</description>
+		<comment>Floppies matching TGOD ID 551</comment>
+		<year>1992</year>
+		<developer>Ocean</developer>
+		<variant>Installation</variant>
+		<rom name="disk1.img" size="737280" crc="b80f3e71" md5="a08f2b452c1a53328858831318b7ac48" sha1="81fad4505aabc75472a87116fb21040e5a1d1052" date="2009-04-06 18:46:40"/>
+		<rom name="disk2.img" size="737280" crc="f7715ebf" md5="c796f5c63aff2a7659cbdcefd1ea037d" sha1="891ec0449416b86ada2c420fb2d50ed6ba292698" date="2009-04-06 18:48:32"/>
+		<rom name="disk3.img" size="737280" crc="2b98090c" md5="912f3fbbf4124edbd7840085226ef152" sha1="aedb9544ba6fa6312f1f75b3df2186ce340e6ced" date="2009-04-06 18:49:34"/>
+	</game>
 	<game name="AD&amp;D - Collector's Edition (1995) (WizardWorks Group) (Installation).dosz">
 		<description>AD&amp;D - Collector's Edition</description>
 		<comment>Redump verified CD-ROM: Advanced Dungeons &amp; Dragons - 5 Game Collector's Edition (USA) - Used to install Champions of Krynn, Dark Queen of Krynn, and Death Knights of Krynn</comment>
@@ -416,6 +426,19 @@
 			<track number="1" type="MODE1_RAW" frames="311069" pregap="0" duration="69:07:44" size="731634288" crc="3b2411e1" md5="d41fd8435e7497352bbdc54783b3e293" sha1="6bb606cc1775aae3806b16d1c2ad3e5c7e64815d" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
+	<game name="Dizzy - Prince of the Yolkfolk (1993) (Codemasters) (Installation).dosz">
+		<description>Dizzy - Prince of the Yolkfolk</description>
+		<year>1993</year>
+		<developer>Codemasters</developer>
+		<variant>Installation</variant>
+		<comment>
+			3.5" floppy disk matching with TGOD ID: 1525
+			Also matches with TDC#23 entry: Dizzy- Prince of the Yolkfolk [a1] (1993)(Codemasters Software Company Limited, The) [Action]
+		</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1525</link>
+		<link type="media">https://puredos.github.io/tdc-browser/?/Dizzy-%20Prince%20of%20the%20Yolkfolk%20%5Ba1%5D%20(1993)(Codemasters%20Software%20Company%20Limited,%20The)%20%5BAction%5D</link>
+		<rom name="disk1.img" size="737280" crc="4e011446" md5="8e464a8067cfa22145ba6c8357324907" sha1="1842476bb4b014769afe04b48c46110159b0d505"/>
+	</game>
 	<game name="Don't Go Alone (1989) (Accolade) (Installation).dosz">
 		<description>Don't Go Alone</description>
 		<year>1989</year>
@@ -598,6 +621,15 @@
 			<track number="1" type="MODE1" frames="23786" pregap="0" duration="05:17:11" size="48713728" crc="c4488445" md5="864c6acd62d536c127fdec3e8745eb70" sha1="3f3d3c1e2d98d819a6f1dbc8132509608b66dabf"/>
 		</rom>
 	</game>
+	<game name="Fantasy World Dizzy (1991) (Codemasters) (Installation).dosz">
+		<description>Fantasy World Dizzy</description>
+		<year>1991</year>
+		<developer>Codemasters</developer>
+		<variant>Installation</variant>
+		<comment>3.5" floppy disk matching with TGOD ID: 1530</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1530</link>
+		<rom name="disk1.img" size="737280" crc="a1026646" md5="beab35bd21b1acb16493037fca728791" sha1="de65307aa5ebb7b7e5aa0206627e2c68e0899b39"/>
+	</game>
 	<game name="Floor 13 (1992) (Virgin Interactive) (Installation).dosz">
 		<description>Floor 13</description>
 		<comment>Floppies matching TGOD 3392</comment>
@@ -630,6 +662,21 @@
 		<rom name="Forgotten Realms Archives - Silver Edition (USA) (Disc 1).chd" size="588342528" crc="73f87509" md5="17a17cd0e671dd74151849447a67954c" sha1="83ba45ff3472ab897e302ac294266d4ac19a88b6">
 			<track number="1" type="MODE1_RAW" frames="240278" pregap="0" duration="53:23:53" size="565133856" crc="86e0f23e" md5="791c1e23c8213638556cffb821ae83c4" sha1="aa50f3794e0f208ac3450b1c43f96249c984c7f7"/>
 		</rom>
+	</game>
+	<game name="Formula One Grand Prix (1992) (MicroProse) (Installation).dosz">
+		<description>Formula One Grand Prix</description>
+		<year>1992</year>
+		<developer>MicroProse</developer>
+		<variant>Installation</variant>
+		<comment>
+			aka World Circuit. v1.05, 3.5" floppy disks matching with TGOD ID: 3455
+			Also match with TDC#23 entry: Microprose Formula One Grand Prix v1.05 (1993)(MicroProse Ltd.) [IMA][1440k][!]
+		</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=3455</link>
+		<link type="media">https://puredos.github.io/tdc-browser/?/Microprose%20Formula%20One%20Grand%20Prix%20v1.05%20(1993)(MicroProse%20Ltd.)%20%5BIMA%5D%5B1440k%5D%5B!%5D</link>
+		<rom name="disk1.img" size="1474560" crc="efac2236" md5="87f4916176f14d95e83ee7a853703022" sha1="e1cb274d256ab8b154b641bfe537d90cfd1b258c"/>
+		<rom name="disk2.img" size="1474560" crc="95c48992" md5="7264841956422e030bfe0d18f30008f6" sha1="986ade2bdd950a3176b1cb11cdc849d671acb22c"/>
+		<rom name="disk3.img" size="1474560" crc="2e9285ac" md5="d091b2d5a6db5048c02780e4a612d4a4" sha1="bd078d705ec3bfd35900f7f307c67a3098595c59"/>
 	</game>
 	<game name="Fragile Allegiance (1997) (Gremlin Interactive) (Installation).dosz">
 		<description>Fragile Allegiance</description>
@@ -705,6 +752,15 @@
 		<link type="media">https://www.goodolddays.net/en/diskimages/?id=2184</link>
 		<link type="media">https://puredos.github.io/tdc-browser/?/Golden%20Axe%20(1990)(Virgin%20Games,%20Ltd)%20%5BIMA%5D%5B720k%5D%5B!%5D</link>
 		<rom name="disk01.img" size="737280" crc="174e89c7" md5="01fec6ced1725f0f03a1637104849410" sha1="25464172fedb6e3fa7d3626be5dae591a1aa6fb9"/>
+	</game>
+	<game name="Grand Prix Circuit (1988) (Accolade) (Installation).dosz">
+		<description>Grand Prix Circuit</description>
+		<year>1988</year>
+		<developer>Accolade</developer>
+		<variant>Installation</variant>
+		<comment>3.5" floppy disk matching with TGOD ID: 2704</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=2704</link>
+		<rom name="disk1.img" size="737280" crc="a697a561" md5="c8ee5079bb07237a2e1aa4d3a9712f3b" sha1="963dada6aab318723b174b21aad86c90ca7b272a"/>
 	</game>
 	<game name="Halloween Harry (1993) (Apogee Software) (Installation).dosz">
 		<description>Halloween Harry</description>
@@ -854,6 +910,19 @@
 		<rom name="disk2.img" size="1228800" crc="198a9ff8" md5="01c30ade456d19723a1149b06fba3f94" sha1="86908565e6ed53bc5a4d1a22ae5ee6b51cfa90c1"/>
 		<rom name="disk3.img" size="1228800" crc="e069cdd6" md5="5370a81eb3c7cc06ff009ae0e4bdfa22" sha1="cc26fe066cb37d8f566c271b0c6c89bb6f651d5b"/>
 		<rom name="disk4.img" size="1228800" crc="1f6c8db2" md5="ca3c0845760cf1fe15cdc0e23eaf1540" sha1="53477730cf096a94f1581f78c431a3d3bcdca823"/>
+	</game>
+	<game name="Indianapolis 500 - The Simulation (1989) (Electronic Arts) (Installation).dosz">
+		<description>Indianapolis 500 - The Simulation</description>
+		<year>1989</year>
+		<developer>Electronic Arts</developer>
+		<variant>Installation</variant>
+		<comment>
+			3.5" floppy disk matching with TGOD ID: 1958
+			Also matches with TDC#23 entry: Indianapolis 500- The Simulation (1989)(Electronic Arts, Inc.) [IMA][720k][!]
+		</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1958</link>
+		<link type="media">https://puredos.github.io/tdc-browser/?/Indianapolis%20500-%20The%20Simulation%20(1989)(Electronic%20Arts,%20Inc.)%20%5BIMA%5D%5B720k%5D%5B!%5D</link>
+		<rom name="disk01.img" size="737280" crc="560105a6" md5="202f79834d6260dfdc2ac99c460cc248" sha1="e811279417f70b2ed641b3b189091675c406409c"/>
 	</game>
 	<game name="Interplay's 10 Year Anthology - Classic Collection (1993) (Interplay) (Installation).dosz">
 		<description>Interplay's 10 Year Anthology - Classic Collection</description>
@@ -1044,6 +1113,22 @@
 		<rom name="disk3.img" size="1474560" crc="f136adec" md5="f94faa1267c8ca1768b1fe3e09a57e87" sha1="ae38783bbae77f52c9cee212e08b4ecfb09b8389"/>
 		<rom name="disk4.img" size="1474560" crc="cb40e901" md5="a3a58f3c74cafb0ca1556ef5fc33c820" sha1="a53abd71c3e2de1b40ce42f8475cf3aabec2408c"/>
 	</game>
+	<game name="LucasArts Air Combat Classics (1994) (LucasArts) (Installation).dosz">
+		<description>LucasArts Air Combat Classics</description>
+		<year>1994</year>
+		<developer>LucasArts</developer>
+		<variant>Installation</variant>
+		<comment>
+			3.5" floppy disks matching with TGOD ID: 2797
+			Also matches with TDC#23 entry: LucasArts Air Combat Classics v1.0 (1994)(LucasArts, Softgold Computerspiele GmbH) [IMA][1440k][!]
+			Includes Battlehawks 1942, Their Finest Hour: The Battle of Britain (with add-on), and Secret Weapons of the Luftwaffe (with all 4 add-ons)
+		</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=2797</link>
+		<link type="media">https://puredos.github.io/tdc-browser/?/LucasArts%20Air%20Combat%20Classics%20v1.0%20(1994)(LucasArts,%20Softgold%20Computerspiele%20GmbH)%20%5BIMA%5D%5B1440k%5D%5B!%5D</link>
+		<rom name="disk1.img" size="1474560" crc="53630651" md5="2b6c151a81179e4b863b5a6a6b4182e2" sha1="2a10f487d6b527de60fce4730764333ea64a635a"/>
+		<rom name="disk2.img" size="1474560" crc="a839fc62" md5="1e12c27c74177f67dfd301821814a0c8" sha1="7e04d4b1ab88a1d13d57797a26b68c76112340ed"/>
+		<rom name="disk3.img" size="1474560" crc="88e75330" md5="7c222f82b34814d579b6068d1a6e60ac" sha1="9ae99e353583efe3fec13ec99b9a88103995c952"/>
+	</game>
 	<game name="Manhunter - New York (1988) (Sierra On-Line) (Installation).dosz">
 		<description>Manhunter - New York</description>
 		<year>1988</year>
@@ -1223,6 +1308,15 @@
 			<track number="1" type="MODE1_RAW" frames="327903" pregap="0" duration="72:52:03" size="771227856" crc="79eee80e" md5="843d2f0aebc4404052d5a8feadf83465" sha1="2df1b3d1572b20687c6f2735c74c0f25208bdcd9" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
+	<game name="Oregon Trail, The (1988) (MECC) (Installation).dosz">
+		<description>Oregon Trail, The</description>
+		<year>1988</year>
+		<developer>MECC</developer>
+		<variant>Installation</variant>
+		<comment>v2.1, matching with TDC#23 entry: Oregon Trail, The v2.1 (1990)(MECC) [IMA][720k]</comment>
+		<link type="media">https://puredos.github.io/tdc-browser/?/Oregon%20Trail,%20The%20v2.1%20(1990)(MECC)%20%5BIMA%5D%5B720k%5D</link>
+		<rom name="disk1.ima" size="737280" crc="65d0cfe3" md5="c3a582913e6af6c1ca79aaf5d419c1e9" sha1="4f84354131a56158228c6de8d3ac9132dd66078f"/>
+	</game>
 	<game name="Oregon Trail, The (1992) (MECC) (Installation).dosz">
 		<description>Oregon Trail, The</description>
 		<year>1992</year>
@@ -1375,6 +1469,17 @@
 		<comment>AKA Pipe Mania. 3.5" floppy disk</comment>
 		<link type="media">https://www.goodolddays.net/en/diskimages/?id=118</link>
 		<rom name="disk1.img" size="737280" crc="5e10e11f" md5="4e7bdd81937b8ed1281f4883238fc7b9" sha1="d1eeb479d67365bc4f273027fd05a7d1992b58fa"/>
+	</game>
+	<game name="Pirates! Gold (1993) (MicroProse) (Installation).dosz">
+		<description>Pirates! Gold</description>
+		<year>1993</year>
+		<developer>MicroProse</developer>
+		<variant>Installation</variant>
+		<comment>Version 3</comment>
+		<link type="media">http://redump.org/disc/94457/</link>
+		<rom name="Pirates! Gold (Germany).chd" size="46551168" crc="76d5199b" md5="a1e95e3e9f9698a7e470d529b2f9eade" sha1="50903ac305d510ba4adbaa7262edc495889201c3">
+			<track number="1" type="MODE1_RAW" frames="19003" duration="04:13:28" size="44695056" crc="3dda64ad" md5="d68c5754d02065ccb4bb523c18e32b3a" sha1="7cbcc18c02fce61d38392ebd19aefc95ea3f855c"/>
+		</rom>
 	</game>
 	<game name="Police Quest Collection (1991) (Installation).dosz">
 		<description>Police Quest Collection</description>
@@ -1871,6 +1976,15 @@
 		<rom name="disk2.img" size="737280" crc="f275a44e" md5="d9e05cbf6269bb612cdba08d70e1abce" sha1="d374a5254bb786bd858b3a12ff02b9e93cf1815c"/>
 		<rom name="disk3.img" size="737280" crc="bcac03db" md5="77d50cc10db4d3963dbe858df5bc251c" sha1="54131658ecd11c5bf221ba5ed21a17c074048343"/>
 		<rom name="disk4.img" size="737280" crc="443a6d32" md5="e68ac98747a73bb8401f91234caeb2c1" sha1="d919d996345803fef30445e34eae79ebc74712b7"/>
+	</game>
+	<game name="Test Drive III - The Passion - Add-on Disk #1 - Road &amp; Car (1991) (Accolade) (Installation).dosz">
+		<description>Test Drive III - The Passion - Add-on Disk #1 - Road &amp; Car</description>
+		<year>1991</year>
+		<developer>Accolade</developer>
+		<variant>Installation</variant>
+		<comment>3.5" floppy disk matching with TGOD ID: 1136</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1136</link>
+		<rom name="disk1.img" size="737280" crc="449deccd" md5="a6893cbb1c7c7306519f74c4a4f0161e" sha1="6d622ffef933c62c66ee158ab7f72244cb486321"/>
 	</game>
 	<game name="Tetris (1988) (Spectrum HoloByte) (Installation).dosz">
 		<description>Tetris</description>
