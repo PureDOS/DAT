@@ -1,0 +1,83 @@
+## Verifying Game (Year) (Developer)
+
+### Checklist
+
+**Have adequate installation instructions been provided to match any config files in the DOSZ?**
+
+
+**Have any official patches been applied, if necessary?**
+
+
+**Have digital versions (Steam, GOG) been checked for matching?**
+
+
+**Can the game benefit from using embedded data or embedded patches in the datfile?**
+
+
+**Can DoDAT build the game from the install media?**
+
+
+**If the game requires a yml in the DOSZ, has it been added to the yml folder in the repo?**
+
+
+**Are there .PIF or .ICO or Win32 .EXE files that could be excluded?**
+
+
+**Do the file timestamps match the installation media?**
+
+
+**Does the DOSZ run standalone?**
+
+
+**For CD games, can the game be set up to run without a CD mounted?**
+
+
+**Can the game benefit from using CHDtoOGG?**
+
+
+**Is the game creating a swap file in the .pure.zip that could be avoided by increasing memory size? Or is it creating other bloated files that could be prevented by adding them in the DOSZ?**
+
+
+**Does the DOSC contain problematic data (i.e. copyright issue)?**
+
+
+**Does the DOSC have copy protection removed, if possible?**
+
+
+**Is the game running at the correct speed? Is CPU year specified?**
+
+
+**Is the DOSC auto-running and skipping past any obstructions? Does it use WAITMODECHANGE if possible?**
+
+
+**Does the game have MT-32 support? If so, is it correctly using MT-32 (old) or CM-32L (new), going by the Vogons Wiki?**
+
+
+**Does the game have General MIDI support?**
+
+
+**Is the game set up to run with the best quality graphics options by default?**
+
+
+**For certain old games only - are the graphics/audio improved by specifying video_card: pcjr, tandy, or generic_cga?**
+
+
+**Does the game have a mouse cursor that benefits from enabling input_directmouse?**
+
+
+**Does a game with separate episodes/executables have the options named and ordered properly in the DOSZ? Do they use the run_utility feature?**
+
+
+**Does the game share saves with a sequel, expansion, etc? If so, is it updated to use the .savename feature?**
+
+
+**Is the game data in the root of the ZIP (unless game does not work that way)?**
+
+
+**Is the entry in the right variant file (i.e. Freeware)?**
+
+
+**For games which include CD images, is there a smaller installation variant that offers the same features but needs less files?**
+
+
+### Comment
