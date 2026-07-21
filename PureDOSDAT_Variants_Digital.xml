@@ -4375,10 +4375,19 @@
 	</game>
 	<game name="King's Quest VI - Heir Today, Gone Tomorrow (1992) (Sierra On-Line) (GOG).dosz">
 		<description>King's Quest VI - Heir Today, Gone Tomorrow</description>
-		<comment_dosc>Auto-starts</comment_dosc>
 		<year>1992</year>
 		<developer>Sierra On-Line, Inc.</developer>
 		<variant>GOG</variant>
+		<comment>
+			In the default RESOURCE.CFG file, edit line 3 to:
+				 audioDrv  = AUDBLAST.DRV
+			(1 space in front, no spaces after)
+			And edit line 8 to:
+				 directory = .\
+			(1 space in front, no spaces after)
+			The required RESOURCE.CFG is also in the DOSC, and it has embedded data below
+		</comment>
+		<comment_dosc>Required config file, direct mouse enabled, and auto-start. MT-32 and General MIDI options</comment_dosc>
 		<link type="store">https://www.gog.com/en/game/kings_quest_4_5_6</link>
 		<rom name="420.HEP" size="1472" crc="ce0cc83a" md5="dde8709ca90893b3ac55cc7b3d008ef7" sha1="87591b74ec985c21c09da8b0f2773448af07d86b" date="2008-11-28 22:20:54"/>
 		<rom name="420.SCR" size="5862" crc="be1217b7" md5="1c549b41410190bcfef7727bf8ca65b8" sha1="b207269ffea467eddbc5898edbdcaecebddaaf48" date="2008-11-28 22:20:56"/>
@@ -4454,7 +4463,7 @@
 		<rom name="Readme_new.txt" size="20506" crc="b62c79e9" md5="fa82052fce62b13fdceed376af3f03b0" sha1="6fd7212ebab57950014c0c5132849d9bd261df17" date="2010-02-19 13:02:14"/>
 		<rom name="RESOURCE.000" size="8376352" crc="5e792831" md5="e5357240096ceab0909e817cad42105a" sha1="a8f145c3c708a216f6b789ff91b95cb353524aa6" date="2008-11-28 22:20:56"/>
 		<rom name="RESOURCE.AUD" size="350789703" crc="79a58691" md5="bdc8c58646fbfe1ef542c48a0db0e9e8" sha1="9fbc6e9e576209211fbdeafc7b73a8db212895ad" date="2008-11-28 22:21:18"/>
-		<rom name="RESOURCE.CFG" size="381" crc="6ac29007" md5="8e53c112ecbe166d4e45ff818da218d3" sha1="6a9fc0683b1fdb040c754dc21c431531bf24b5a2" date="2008-11-28 22:20:56"/>
+		<rom name="RESOURCE.CFG" size="370" crc="81c2b4e1" md5="65cd54d90f22d0891c5e47c0c8c84f15" sha1="2247ce5c1b171a6a8711a6a1ef0abfe74f4eaec3" data="IHZpZGVvRHJ2ICA9IFZHQTMyMC5EUlYNCiBzb3VuZERydiAgPSBTQlBSTy5EUlYNCiBhdWRpb0RydiAgPSBBVURCTEFTVC5EUlYNCiBqb3lEcnYgICAgPSBOTw0KIGtiZERydiAgICA9IElCTUtCRC5EUlYNCiBtb3VzZURydiAgPSBTVERNT1VTRS5EUlYNCiBtZW1vcnlEcnYgPSBBUk0uRFJWDQogZGlyZWN0b3J5ID0gLlwNCiBtb2RlID0gcmVhbA0KIG1pbkh1bmsgICA9IDIwN2sNCiBsYW5ndWFnZSAgPSAxDQogY21kICAgICAgID0ga3E2Y2QNCiBzeW5jICAgICAgPSAuXA0KIGF1ZGlvICAgICA9IC5cDQogYXVkaW9TaXplID0gOEsNCiBjZCAgICAgICAgPSBZRVMNCmF1ZGlvPS5cDQpzeW5jPS5cDQptb3ZpZURpcj0uXHNlcQ0KcGF0Y2hEaXI9LlwNCg=="/>
 		<rom name="RESOURCE.MAP" size="9215" crc="0423bf92" md5="8ac79732f6f759158cda43e0b8b1988e" sha1="acfa427670352958d5485b56c09bf3df0a772d5d" date="2008-11-28 22:21:18"/>
 		<rom name="RESOURCE.MSG" size="259510" crc="c0bf3202" md5="f0a3201d01313f10b61f7a7fe21d69a3" sha1="7a49693930b6649ee894f89798ae76527ee8b0e4" date="2008-11-28 22:21:18"/>
 		<rom name="RESOURCE.SAV" size="126" crc="cb4db32c" md5="723ec4404d7a8230ba2ad4ab37a13eea" sha1="6f557ccc6c581e522ffc04662fa0c83c14e9b3b0" date="2008-11-28 22:20:54"/>

@@ -13414,10 +13414,27 @@
 	</game>
 	<game name="King's Quest VI - Heir Today, Gone Tomorrow (1992) (Sierra On-Line).dosz">
 		<description>King's Quest VI - Heir Today, Gone Tomorrow</description>
-		<comment>Installed from King's Quest - Collector's Edition CD-ROM US release with the large Install option. Needs VGA320.DRV from the Gabriel Knight Demo to fix stuttering during the intro video. Required correct RESOURCE.CFG can be found in the DOSC.</comment>
-		<comment_dosc>Audio config with MT-32 launch option</comment_dosc>
 		<year>1992</year>
 		<developer>Sierra On-Line</developer>
+		<comment>
+			Installed from King's Quest - Collector's Edition CD-ROM US release.
+			Installation options:
+				Graphics: VGA or IBM PS2 - 256 Colors (Default)
+				Music: Sound Blaster Pro
+				Audio: Sound Blaster (Default)
+				Joystick: Don't use a joystick (Default)
+				Mouse: Use Microsoft compatible mouse (Default)
+				Memory: Use your machine's extra memory (Default)
+				Directory: C:\SIERRA\KQ6CD (Default)
+				Size: Large
+			Afterwards, edit line 8 in RESOURCE.CFG to:
+				 directory = .\
+			(1 space at the beginning, no spaces at the end)
+			Required correct RESOURCE.CFG can also be found in the DOSC, and it has embedded data below.
+			Needs VGA320.DRV from the Gabriel Knight Demo to fix stuttering during the intro video.
+			DoDAT can build this directly from the disc image + Gabriel Knight demo files.
+		</comment>
+		<comment_dosc>Audio config with MT-32 and General MIDI launch options, direct mouse enabled, and auto-start</comment_dosc>
 		<link type="media">http://redump.org/disc/81021/</link>
 		<link type="driver">https://archive.org/details/GabrielKnightSinsoftheFathers_1020</link>
 		<rom name="CD/King's Quest - Collector's Edition (USA) (Disc 2) (Track 1).bin" size="551885040" crc="b16b325a" md5="fb17363152424a733ccaee87b390ced6" sha1="d46f2698261575a974b9902a712ac6a8c977d3cf">
@@ -13458,7 +13475,7 @@
 		<rom name="PROGLIB.DLL" size="60112" crc="2f04e1a1" md5="43ee933b81a1a31ab42a7232f8ec60c0" sha1="93e705c39d9de27aba00ba1f1027d1a89b37e9c1" date="1993-05-01 10:25:58"/>
 		<rom name="README" size="21529" crc="7b4562da" md5="bc4a31eb02ee676a48b3462eaa26ab1d" sha1="57ea1397fdcfe25f3b88286d72b83e88b6af9b17" date="1993-08-24 11:43:06"/>
 		<rom name="RESOURCE.000" size="8376352" crc="5e792831" md5="e5357240096ceab0909e817cad42105a" sha1="a8f145c3c708a216f6b789ff91b95cb353524aa6" date="1993-08-25 14:49:52"/>
-		<rom name="RESOURCE.CFG" size="327" crc="5680111b" md5="0e3ba2b87fd4eb2619dff92e18a2c68c" sha1="dd238999375471b6d69e40cd5b1907817149b359" data="dmlkZW9EcnYgID0gVkdBMzIwLkRSVg0Kc291bmREcnYgID0gU0JQUk8uRFJWDQphdWRpb0RydiAgPSBBVURCTEFTVC5EUlYNCmpveURydiAgICA9IE5PDQprYmREcnYgICAgPSBJQk1LQkQuRFJWDQptb3VzZURydiAgPSBTVERNT1VTRS5EUlYNCm1lbW9yeURydiA9IEFSTS5EUlYNCmRpcmVjdG9yeSA9IFwNCm1vZGUgICAgICA9IHJlYWwNCm1pbkh1bmsgICA9IDIwN2sNCmxhbmd1YWdlICA9IDENCmF1ZGlvU2l6ZSA9IDhLDQpjZCAgICAgICAgPSBZRVMNCmF1ZGlvICAgICA9IEQ6DQpzeW5jICAgICAgPSBEOg0KbW92aWVEaXIgID0gRDpcc2VxDQpwYXRjaERpciAgPSBEOg0K"/>
+		<rom name="RESOURCE.CFG" size="371" crc="3a84d5c9" md5="2b2ac855afe8c23e44fe979424dbf856" sha1="aebdf001c3cfd2634291b6a949529ebb43c3ec86" data="IHZpZGVvRHJ2ICA9IFZHQTMyMC5EUlYNCiBzb3VuZERydiAgPSBTQlBSTy5EUlYNCiBhdWRpb0RydiAgPSBBVURCTEFTVC5EUlYNCiBqb3lEcnYgICAgPSBOTw0KIGtiZERydiAgICA9IElCTUtCRC5EUlYNCiBtb3VzZURydiAgPSBTVERNT1VTRS5EUlYNCiBtZW1vcnlEcnYgPSBBUk0uRFJWDQogZGlyZWN0b3J5ID0gLlwNCiBtb2RlID0gcmVhbA0KIG1pbkh1bmsgICA9IDIwN2sNCiBsYW5ndWFnZSAgPSAxDQogY21kICAgICAgID0ga3E2Y2QNCiBzeW5jICAgICAgPSAuXA0KIGF1ZGlvICAgICA9IC5cDQogYXVkaW9TaXplID0gOEsNCiBjZCAgICAgICAgPSBZRVMNCmF1ZGlvPUQ6DQpzeW5jPUQ6DQptb3ZpZURpcj1EOlxzZXENCnBhdGNoRGlyPUQ6DQo="/>
 		<rom name="RESOURCE.MAP" size="9215" crc="0423bf92" md5="8ac79732f6f759158cda43e0b8b1988e" sha1="acfa427670352958d5485b56c09bf3df0a772d5d" date="1993-08-25 14:49:52"/>
 		<rom name="RESOURCE.MSG" size="259510" crc="c0bf3202" md5="f0a3201d01313f10b61f7a7fe21d69a3" sha1="7a49693930b6649ee894f89798ae76527ee8b0e4" date="1993-08-25 14:19:10"/>
 		<rom name="RESOURCE.SFX" size="6574524" crc="b566f302" md5="1da1077233d71b1137f28ff322e9b992" sha1="bf97e51c36eacc2d2cf82a618a52a63fc36b3d82" date="1993-08-25 14:16:20"/>
