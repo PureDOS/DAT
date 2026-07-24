@@ -13471,38 +13471,63 @@
 	</game>
 	<game name="King's Quest VII - The Princeless Bride (1994) (Sierra On-Line).dosz">
 		<description>King's Quest VII - The Princeless Bride</description>
-		<comment>Installed from version 2.00b CD-ROM US release with the 1MB Install option. Required correct RESOURCE.CFG and KQ7DOS.BAT can be found in the DOSC.</comment>
-		<comment_dosc>Audio config with MT-32 launch option</comment_dosc>
 		<year>1994</year>
 		<developer>Sierra On-Line</developer>
-		<link type="media">http://redump.org/disc/11214/</link>
-		<rom name="King's Quest VII - The Princeless Bride (USA) (v2.00b).chd" size="723413376" crc="c75959ba" md5="4fe9302d682a9f8798432a3a1432a2b2" sha1="343c39fe395b06e4c233d1f08a53e4b04dc23467">
-			<track number="1" type="MODE1_RAW" frames="295446" pregap="0" duration="65:39:21" size="694888992" crc="91338b36" md5="988290e2bd03771e2f24b67ae705160d" sha1="91d2e6a0681cd4e63ea037065c4a2bdf7a8a0d7a"/>
-		</rom>
-		<rom name="ADL.DRV" size="10445" crc="97b288f9" md5="b7901ed6f8863cee5fa743cd430c8ceb" sha1="11f9d0fac0190967e094196ec2050c7c3885bfb5" date="1993-11-18 10:04:18"/>
-		<rom name="DACBLAST.DRV" size="4361" crc="f67b275e" md5="36db49b6ca986cdff30472c79f68b344" sha1="06cd0a59e4154565b3eb1c18ec288fe160a3cce0" date="1995-07-28 18:49:02"/>
-		<rom name="DACMSSYS.DRV" size="2447" crc="88001895" md5="d38731b19c332cb88a0789cf91330bf6" sha1="8fff709c294cb100ecac0ede5897dc05c6eb64ec" date="1995-07-15 13:38:18"/>
-		<rom name="DACPRO.DRV" size="2805" crc="7749378e" md5="22836fc9989c727b44b60f6e2b0623fa" sha1="4ce9d362cadc88519dc5591779cd9850b1bd581d" date="1995-07-15 13:38:06"/>
-		<rom name="DACPRO16.DRV" size="2729" crc="5fd843e1" md5="2a401cb35ca5e0ef9f4770831957eb08" sha1="db4c1da9cff92da1a5c98948e822e2ed0e31a2c9" date="1995-07-15 13:38:12"/>
-		<rom name="DACPRO8.DRV" size="2587" crc="43a428e0" md5="6b7ca0b18041c7f56fc6330b37129540" sha1="7f4a3f56d5ee7f77fc571a940d95283485f6f895" date="1995-07-15 13:38:14"/>
-		<rom name="GENMIDI.DRV" size="3388" crc="3f6fbb99" md5="c07662eb424de290b511d4e4e8c3b305" sha1="0f87c47d1731bb7759f506fb9664d19df142fb5d" date="1995-01-31 15:43:50"/>
-		<rom name="INSTALL.EXE" size="87524" crc="82607fdb" md5="70a5e183e06dfedc09b7d0f31b31dbc4" sha1="81498daa5f39d2464a8d82e1ecdc5ba17141c01f" date="1995-08-01 15:23:54"/>
-		<rom name="INSTALL.HLP" size="21398" crc="eba32128" md5="47bdaebb6ead9073bb54843946a1b7da" sha1="aee520e9af7c325c7d5bfa6e54c100573d2e1d14" date="1995-08-03 17:40:36"/>
-		<rom name="INSTALL.SCR" size="3717" crc="97c4be21" md5="20b1b312cf3c40bd2346cfee10bdcaf1" sha1="6b6628173f4183323bfcd5766f2c7466e62aeab7" date="1995-08-28 15:32:28"/>
-		<rom name="INSTALL.TXT" size="9501" crc="1e23be7f" md5="8cafa64c42655a214ee7ce30fae4031a" sha1="47ca63f778942efcf4cc0f7a3be1879cda46a4b4" date="1994-04-05 09:15:20"/>
-		<rom name="KQ7DOS.BAT" size="25" crc="461ea750" md5="af605349de0cb81d2dd84adaabc83617" sha1="f9d53eec1295acd60b532c0d30031cd7ee8eee49" data="c2llcnJhIC1vIHJlc291cmNlLmNmZyANCg=="/>
-		<rom name="MT32.DRV" size="3352" crc="656ef0b3" md5="f1851865f5655078c0cf81bbf6652f25" sha1="94880f6c7af771d14ea77571ba4e8bdfebce86cc" date="1994-04-25 15:12:54"/>
-		<rom name="PROAUDIO.DRV" size="11411" crc="d176473d" md5="b7fb4946ad4ec02d471e1ac9e56fbec1" sha1="8096fb94ec5e7538a72fddd88a93da198dcbe4a3" date="1993-11-18 14:57:32"/>
-		<rom name="README" size="21630" crc="5bbb4eba" md5="16d0c07e8659e3f059e9b06367203ced" sha1="6408ccf2581fd1e46a5ded6bc270491f636c894c" date="1995-08-28 15:32:00"/>
-		<rom name="RESOURCE.000" size="1048576" crc="d539c369" md5="f1ce4fef5a96da26183c18962534f879" sha1="0dfc45183b0a71f79445ed8ca74211786701acf9" date="1995-05-25 16:16:16"/>
-		<rom name="RESOURCE.CFG" size="323" crc="305218db" md5="9c285c24b05904036cadcecc7c8bf48a" sha1="391af8ab202f5c5a081b24520f79d51639ca0555" data="dmlkZW9EcnYgID0gVkVTQS5EUlYNCnNvdW5kRHJ2ICA9IFNCUFJPLkRSVg0KYXVkaW9EcnYgID0gREFDQkxBU1QuRFJWDQpqb3lEcnYgICAgPSBOTw0KY21kICAgICAgID0gS1E3RE9TDQptb3VzZURydiAgPSBOT05FDQptZW1vcnlEcnYgPSBOT05FDQptaW5NZW1vcnkgPSAxNjAwaw0KYnJpZ2h0bmVzcz0gMA0KbGFuZ3VhZ2UgID0gMQ0KbWluQ1BVICAgID0gMzg2DQpDRCAgICAgICAgPSB5ZXMNCnJlc01hcCAgICA9IEQ6O0M6DQpyZXNBVUQgICAgPSBEOg0KcmVzU0ZYICAgID0gRDoNCnBhdGNoRGlyICA9IEM6O0Q6O0Q6XEFWSQ0Kcm9ib3QgICAgID0gRDpcQVZJDQo="/>
-		<rom name="SADL.DRV" size="10429" crc="2231e08d" md5="b030e8c495e215d2689c01d570c30419" sha1="5266e66a06ff9c1e413274ab9711541663fe65a6" date="1993-11-21 14:08:46"/>
-		<rom name="SBPRO.DRV" size="10723" crc="f44021d4" md5="3fb67a6f8debbb9fab5872a7784a8dca" sha1="39386c8eb9342ab2303fcdac66eafd228ad85319" date="1995-07-16 15:59:44"/>
-		<rom name="SIERRA.ERR" size="8475" crc="7969cc00" md5="4d9122131775e6349c3c8b6574ec612c" sha1="6c4c90770f853b6d2a6c90111a1aa42f6a9b1e24" date="1994-08-12 11:57:18"/>
-		<rom name="SIERRA.EXE" size="942697" crc="2c0c0ace" md5="8d42cc31af30969dacd79669202ea033" sha1="12916e8212e60f6e9090d6976ef27da50d88813d" date="1995-08-07 15:29:06"/>
-		<rom name="VERSION" size="11" crc="be67b898" md5="9119d1c400f43a5bdd55e9cacc56c710" sha1="1da818286737b9400d7d6561c5bcd919afce83c8" date="1995-10-20 15:11:12"/>
-		<rom name="VESA.DRV" size="35" crc="d3c60945" md5="8b6220a473e9a6c0f7a8ec471a401782" sha1="2526f8324466ea58c69b67e4412b1e6153a25f14" date="1993-10-20 12:26:36"/>
-		<rom name="VESATEST.EXE" size="182414" crc="3501d3da" md5="ec6a657271a6067ed18583afcd58ec5a" sha1="c75a31cfe008e0a1b66d465307129dcd434357de" date="1993-12-03 13:35:42"/>
+		<comment>
+			Files copied from version 2.00b CD-ROM US release.
+			Required correct RESOURCE.CFG and KQ7DOS.BAT can be found in the DOSC, and they also have embedded data below.
+			DoDAT can build this directly from the disc image.
+		</comment>
+		<comment_dosc>Audio config with MT-32 and General MIDI launch options, direct mouse enabled, and auto-start</comment_dosc>
+		<link type="media">https://redump.info/disc/11214</link>
+		<rom name="0.CHK" size="144978" crc="8dd03bc4" md5="abc45a09c1011aa9f6897b8d2e4d2cdc" sha1="c9d8c5ac6f5edc3b3bff6161defd1984ecd0c03d" date="1995-05-25 10:18:24"/>
+		<rom name="30.HEP" size="1174" crc="622a4365" md5="94d4180ea5915f9685c6172c43c2a76d" sha1="0939c4ec5abbdfa3423f516c49f339230f31cb1f" date="1995-09-21 13:07:00"/>
+		<rom name="30.SCR" size="1682" crc="6f68f607" md5="a8f2f480bafd2fc22d95bdd052bb7f2c" sha1="f481887865fadf9e7698c51b15b97cb603de05bd" date="1995-09-21 13:07:00"/>
+		<rom name="34.HEP" size="378" crc="dbe03d3e" md5="b3f689acb2df94b42c935df784f7750f" sha1="0dc33767dbbd3e47dd102dce671d706d0351a8e7" date="1995-07-25 10:29:24"/>
+		<rom name="34.SCR" size="792" crc="a4ca4bfb" md5="2027a4689e40abe7e298c054d222d16e" sha1="ece6eb156d22d892fd7d7eab3c7cf54dc0ba40b7" date="1995-07-25 10:29:24"/>
+		<rom name="5200.HEP" size="3610" crc="e940062b" md5="bbdc9f8ffb378d5060d72bc52a9b3603" sha1="b3723c76d2236df3849c1dbe4c78c5b2175e45a0" date="1995-08-14 13:00:58"/>
+		<rom name="5200.SCR" size="22966" crc="e5b15af2" md5="1c4a80cf1237db5290b77ad3f268751e" sha1="01b9b541c544b0c116dd077e7935a5dedd5a129f" date="1995-08-14 13:00:58"/>
+		<rom name="5300.HEP" size="7116" crc="737d654a" md5="ac329dce06bca479e9a3b05380a42428" sha1="0bc87b3d0bc7c7297a28f680902cb790caa5042b" date="1995-08-23 12:19:50"/>
+		<rom name="5300.SCR" size="20670" crc="4b63cf45" md5="5eacfe5bc19f0f3773344adf6e78e168" sha1="7ac24047449af2bf890568a23149134d1b1ce7ef" date="1995-08-23 12:19:50"/>
+		<rom name="ADL.DRV" size="10445" crc="97b288f9" md5="b7901ed6f8863cee5fa743cd430c8ceb" sha1="11f9d0fac0190967e094196ec2050c7c3885bfb5" date="1993-11-18 06:04:18"/>
+		<rom name="ALTRES.000" size="130909" crc="7173b43c" md5="db6e081a5466b90191cbcef695571230" sha1="abf71d2a4f0548a9a83a54bf7909d72ebc1b848b" date="1995-05-25 12:16:40"/>
+		<rom name="ALTRES.MAP" size="466" crc="2291caf3" md5="56ebb2960302d207dfbbeae36fd97c15" sha1="7ac97a03def11e883988e6a8d2bf6439cab1dff3" date="1995-05-25 12:16:40"/>
+		<rom name="ALTRES.MDT" size="466" crc="655d305a" md5="b78e6fc096aed67c32dc663bcd25fe32" sha1="4100e0e8bcffeda5028abd97363aa4282ef27d09" date="1995-05-25 12:16:40"/>
+		<rom name="AVI/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1995-10-20 13:46:36"/>
+		<rom name="AVI/91.RBT" size="24701699" crc="65ffd0f6" md5="abe75176bf132d22ddd6be14deb5ce88" sha1="d042065d55b1cd2d30d1d8cad1b103779dce73d3" date="1995-07-25 12:27:16"/>
+		<rom name="AVI/911.RBT" size="8781594" crc="8baeaa86" md5="19b5c99b152efc16250e33faf4bba110" sha1="2defb0e96558cdef0ab69c6961f948dc23df538a" date="1995-07-26 11:28:30"/>
+		<rom name="AVI/912.RBT" size="1373456" crc="a68a058b" md5="1d98309bf4aa6418304373103e01fc5f" sha1="905001dbab65b4bdf28083cea0ddcdcd390d0b51" date="1995-08-22 11:13:56"/>
+		<rom name="AVI/E108X11.AVI" size="9559116" crc="519dd0d6" md5="025084ab8c0fe647ce7033c169e2f011" sha1="b4c677e2033bdc8b0a234e9cf8316f0d46a1cf1e" date="1994-11-08 11:17:04"/>
+		<rom name="AVI/E208X11.AVI" size="2014412" crc="78b034f2" md5="5eacf24ef996cb038eae0efa9b40b01e" sha1="1bff4ebc16f5e83956119c358fe39a80b7397fbd" date="1994-11-10 12:47:56"/>
+		<rom name="AVI/INT08X11.AVI" size="21948444" crc="d9f3894c" md5="f4f25f5a2b0468b98eb9bb2c21723bb3" sha1="039f43ce4e8858b323c043679b08de0fbf9362d5" date="1994-11-08 10:45:56"/>
+		<rom name="DACBLAST.DRV" size="4361" crc="f67b275e" md5="36db49b6ca986cdff30472c79f68b344" sha1="06cd0a59e4154565b3eb1c18ec288fe160a3cce0" date="1995-07-28 14:49:02"/>
+		<rom name="DACMSSYS.DRV" size="2447" crc="88001895" md5="d38731b19c332cb88a0789cf91330bf6" sha1="8fff709c294cb100ecac0ede5897dc05c6eb64ec" date="1995-07-15 09:38:18"/>
+		<rom name="DACPRO.DRV" size="2805" crc="7749378e" md5="22836fc9989c727b44b60f6e2b0623fa" sha1="4ce9d362cadc88519dc5591779cd9850b1bd581d" date="1995-07-15 09:38:06"/>
+		<rom name="DACPRO16.DRV" size="2729" crc="5fd843e1" md5="2a401cb35ca5e0ef9f4770831957eb08" sha1="db4c1da9cff92da1a5c98948e822e2ed0e31a2c9" date="1995-07-15 09:38:12"/>
+		<rom name="DACPRO8.DRV" size="2587" crc="43a428e0" md5="6b7ca0b18041c7f56fc6330b37129540" sha1="7f4a3f56d5ee7f77fc571a940d95283485f6f895" date="1995-07-15 09:38:14"/>
+		<rom name="GENMIDI.DRV" size="3388" crc="3f6fbb99" md5="c07662eb424de290b511d4e4e8c3b305" sha1="0f87c47d1731bb7759f506fb9664d19df142fb5d" date="1995-01-31 11:43:50"/>
+		<rom name="INSTALL.EXE" size="87524" crc="82607fdb" md5="70a5e183e06dfedc09b7d0f31b31dbc4" sha1="81498daa5f39d2464a8d82e1ecdc5ba17141c01f" date="1995-08-01 11:23:54"/>
+		<rom name="INSTALL.HLP" size="21398" crc="eba32128" md5="47bdaebb6ead9073bb54843946a1b7da" sha1="aee520e9af7c325c7d5bfa6e54c100573d2e1d14" date="1995-08-03 13:40:36"/>
+		<rom name="INSTALL.SCR" size="3717" crc="97c4be21" md5="20b1b312cf3c40bd2346cfee10bdcaf1" sha1="6b6628173f4183323bfcd5766f2c7466e62aeab7" date="1995-08-28 11:32:28"/>
+		<rom name="INSTALL.TXT" size="9501" crc="1e23be7f" md5="8cafa64c42655a214ee7ce30fae4031a" sha1="47ca63f778942efcf4cc0f7a3be1879cda46a4b4" date="1994-04-05 05:15:20"/>
+		<rom name="KQ7DOS.BAT" size="22" crc="4410bdcc" md5="b11fccef640a7415c640b253d8fe573a" sha1="d579f755e646f72da7fc301ede6010ad09337729" data="c2llcnJhIC1vIHJlc291cmNlLmNmZw=="/>
+		<rom name="MT32.DRV" size="3352" crc="656ef0b3" md5="f1851865f5655078c0cf81bbf6652f25" sha1="94880f6c7af771d14ea77571ba4e8bdfebce86cc" date="1994-04-25 11:12:54"/>
+		<rom name="PROAUDIO.DRV" size="11411" crc="d176473d" md5="b7fb4946ad4ec02d471e1ac9e56fbec1" sha1="8096fb94ec5e7538a72fddd88a93da198dcbe4a3" date="1993-11-18 10:57:32"/>
+		<rom name="README" size="21630" crc="5bbb4eba" md5="16d0c07e8659e3f059e9b06367203ced" sha1="6408ccf2581fd1e46a5ded6bc270491f636c894c" date="1995-08-28 11:32:00"/>
+		<rom name="README.BAT" size="14" crc="90549934" md5="b00182bf4b8941eedabd424d7c4031eb" sha1="5bd9dff2c0f719bbea78ef327fa1d27e26069d63" date="1995-03-09 12:57:54"/>
+		<rom name="RESOURCE.000" size="200764100" crc="78e28641" md5="b0752e9374384bb0d0fa39b6b8b444ef" sha1="17e5b2725deae88d88f41dddcb8a5616be57e9d8" date="1995-05-25 12:16:16"/>
+		<rom name="RESOURCE.AUD" size="217716879" crc="6854cf65" md5="ee3c2ee1994fe61c70f26bacbd34a7c8" sha1="85b150a70c374922e135c8b1dc0e28931a9c45b2" date="1994-11-22 10:48:16"/>
+		<rom name="RESOURCE.CFG" size="323" crc="ed45f8e9" md5="f15be39e0d88e4947e41ebda55268c9d" sha1="11abd299828dc99012e532bdcfd80420359d5b86" data="dmlkZW9EcnYgID0gVkVTQS5EUlYNCnNvdW5kRHJ2ICA9IFNCUFJPLkRSVg0KYXVkaW9EcnYgID0gREFDQkxBU1QuRFJWDQpqb3lEcnYgICAgPSBOTw0KZGlyZWN0b3J5ID0gLlwNCiBjbWQgICAgICAgPSBLUTdET1MNCiBtb3VzZURydiAgPSBOT05FDQogbWVtb3J5RHJ2ID0gTk9ORQ0KIG1pbk1lbW9yeSA9IDE2MDBrDQogYnJpZ2h0bmVzcz0gMA0KIGxhbmd1YWdlICA9IDENCiBtaW5DUFUgICAgPSAzODYNCiBDRCAgICAgICAgPSB5ZXMNCiANCnJlc01hcD0uXCANCnJlc0FVRD0uXCANCnJlc1NGWD0uXCANCnBhdGNoRGlyPS5cOy5cQVZJIA0Kcm9ib3Q9LlxBVkkgDQo="/>
+		<rom name="RESOURCE.MAP" size="18709" crc="f03a15e7" md5="a000858d91155b948bf3b23fa71ff79a" sha1="a634881c76aa30633d9f048af418ab669cfeb491" date="1995-05-25 12:16:16"/>
+		<rom name="RESOURCE.MDT" size="18709" crc="b768b0d9" md5="bb7184bc765725c997d6b83f750fee3a" sha1="d9f21a0a44c660f0b35535dc0c701567006ff705" date="1995-05-25 12:16:16"/>
+		<rom name="RESOURCE.SFX" size="50930358" crc="cc7c91da" md5="f3f26f7b4d4608a668e3507a96ed1387" sha1="acc32f31f65e76fe6e6f223cd1846281800f015e" date="1994-11-22 11:02:50"/>
+		<rom name="SADL.DRV" size="10429" crc="2231e08d" md5="b030e8c495e215d2689c01d570c30419" sha1="5266e66a06ff9c1e413274ab9711541663fe65a6" date="1993-11-21 10:08:46"/>
+		<rom name="SBPRO.DRV" size="10723" crc="f44021d4" md5="3fb67a6f8debbb9fab5872a7784a8dca" sha1="39386c8eb9342ab2303fcdac66eafd228ad85319" date="1995-07-16 11:59:44"/>
+		<rom name="SIERRA.ERR" size="8475" crc="7969cc00" md5="4d9122131775e6349c3c8b6574ec612c" sha1="6c4c90770f853b6d2a6c90111a1aa42f6a9b1e24" date="1994-08-12 07:57:18"/>
+		<rom name="SIERRA.EXE" size="942697" crc="2c0c0ace" md5="8d42cc31af30969dacd79669202ea033" sha1="12916e8212e60f6e9090d6976ef27da50d88813d" date="1995-08-07 11:29:06"/>
+		<rom name="VERSION" size="11" crc="be67b898" md5="9119d1c400f43a5bdd55e9cacc56c710" sha1="1da818286737b9400d7d6561c5bcd919afce83c8" date="1995-10-20 11:11:12"/>
+		<rom name="VESA.DRV" size="35" crc="d3c60945" md5="8b6220a473e9a6c0f7a8ec471a401782" sha1="2526f8324466ea58c69b67e4412b1e6153a25f14" date="1993-10-20 08:26:36"/>
+		<rom name="VESATEST.EXE" size="182414" crc="3501d3da" md5="ec6a657271a6067ed18583afcd58ec5a" sha1="c75a31cfe008e0a1b66d465307129dcd434357de" date="1993-12-03 09:35:42"/>
 	</game>
 	<game name="Liero (1999) (Joosa Riekkinen, Johan Otterud).dosz">
 		<description>Liero</description>
