@@ -52126,6 +52126,43 @@
 		<rom name="Lemmings (1991) (DMA Design).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="OHNO.EXE" size="18973" crc="1912a266" md5="698ede1cb4de414231a2ca27d8daf570" sha1="0d8ada0c86599fc077655777b05bfaefaef1673e"/>
 	</game>
+	<game name="Oil's Well (1990) (Sierra On-Line).dosz">
+		<description>Oil's Well</description>
+		<year>1990</year>
+		<developer>Sierra On-Line</developer>
+		<comment>
+			Installed v1.15 from floppy disks matching with TDC#23 entry: Oil's Well v1.15 (1990)(Sierra On-Line, Inc.) [IMA][720k][!]
+			DoDAT can build this directly from the disk images
+		</comment>
+		<comment_dosc>VGA 256-color mode, mouse input, AdLib sound, and auto start. MT-32 option</comment_dosc>
+		<link type="media">https://puredos.github.io/dat-browser/?/Oil%27s+Well+v1.15+(1990)(Sierra+On-Line,+Inc.)+%5BIMA%5D%5B720k%5D%5B!%5D</link>
+		<rom name="SIERRA/OILSWELL/ADL.DRV" size="9210" crc="4893c38d" md5="a0fa2b61a1123b1af492e5658ffa6415" sha1="a9b3b0f0fa86e718f574eb2d389d4d651df0e611"/>
+		<rom name="SIERRA/OILSWELL/CMS.DRV" size="6491" crc="b6afcd74" md5="0b098c4420ebe23a988dc1113d3241d7" sha1="fe78de7285c532648d8867fb3a99298f61737ec6"/>
+		<rom name="SIERRA/OILSWELL/FULLSCR1.CMP" size="2884" crc="ba63822a" md5="fea0a5b50001f08b4e0f97b657f7b461" sha1="523a976781273374f1b6b0aa14e591eb682cc401"/>
+		<rom name="SIERRA/OILSWELL/INSTALL.EXE" size="14213" crc="bab3df8c" md5="df7b9b4b4789fdcd927e0e3ee6764156" sha1="8304beba63efcb4584f67048a6c456af2d3a0dae"/>
+		<rom name="SIERRA/OILSWELL/LVLINFO1.CMP" size="134780" crc="c793ddc8" md5="c58d03d308a8513b66a0db3e0613afce" sha1="a02ea5ddf67ea2a727864151a73bd9c1b08f80c5"/>
+		<rom name="SIERRA/OILSWELL/LVLINFO2.CMP" size="96814" crc="eb1888d9" md5="1a1c847e75b299a1adb4dd98381b8c7c" sha1="4d704cf0ffa1da3646cb9a2623c1c597f36239ea"/>
+		<rom name="SIERRA/OILSWELL/LVLINFO3.CMP" size="89979" crc="be94c877" md5="9910d13ae70b361aa788c8cebbbd2c7e" sha1="c80d94b3ebef70a840c300e24e65e1440884ba90"/>
+		<rom name="SIERRA/OILSWELL/LVLINFO4.CMP" size="148618" crc="3551c8ce" md5="f29146c13ba54d6c37560e754e038539" sha1="eb46ea5aa46e23949fa7f8bbd30fc5c4d02cd184"/>
+		<rom name="SIERRA/OILSWELL/LVLINFO5.CMP" size="94855" crc="22a03432" md5="67b94df1e3fbe6432acd9a28fee5aa31" sha1="27802eebeca328dc40384e4cfd012b67e36d5188"/>
+		<rom name="SIERRA/OILSWELL/LVLINFO6.CMP" size="123859" crc="b428ad76" md5="c50c1a86bdfc6f284e587cdea91a3d10" sha1="24431280cf06231f14d4f682f6dc4b3d772ef260"/>
+		<rom name="SIERRA/OILSWELL/LVLINFO7.CMP" size="144895" crc="cf2273d5" md5="6fd204c0ae2c57ae40ae4dfeb2153a65" sha1="b5e853b839f017ea5cc9340cfd68273475a3b9f6"/>
+		<rom name="SIERRA/OILSWELL/LVLINFO8.CMP" size="145536" crc="bf00a90f" md5="e3da1239db11f2d4c8ddb1977340ff0d" sha1="54335f445a0255eae6d4865ac1dcdd80dfe7344a"/>
+		<rom name="SIERRA/OILSWELL/MCGA_SHP.CMP" size="19913" crc="140e912a" md5="dab6b0f4bb6b9a6a0f4990248ef4258e" sha1="b5e2c8ec0304959480ef456ed135fbd673a86ff9"/>
+		<rom name="SIERRA/OILSWELL/MFLLSCR1.CMP" size="6114" crc="c3c380ce" md5="3deb355f357a47bfdec47047b894c83c" sha1="2f48e67162462740b3fb841dc4d050e748c53065"/>
+		<rom name="SIERRA/OILSWELL/MT32.DRV" size="3598" crc="b634dd8f" md5="80602610e4d69fb6ce97de106647dec2" sha1="f6b9cec17d3227cc67e7ac5130ae9356fe5a86f6"/>
+		<rom name="SIERRA/OILSWELL/OILSWELL.EXE" size="6831" crc="3431f45c" md5="2d964cf9771cb8848b7f18583ebf9b29" sha1="944ef7c59cfbbc021f2d638e3f96f94214a28965"/>
+		<rom name="SIERRA/OILSWELL/OPENTITL.CMP" size="37461" crc="7bb65468" md5="c37c24923c3c0d61b24c6a76b81e5229" sha1="52768fe435d8258e354aa4524e0f38262d87533b"/>
+		<rom name="SIERRA/OILSWELL/PATCH.001" size="9035" crc="663abae0" md5="3a378ef6b4e913f110d6f1cdaacbc079" sha1="4de69d13b32f8966f8895a88539f7ef6332d03f5"/>
+		<rom name="SIERRA/OILSWELL/PATCH.003" size="2709" crc="89d7d555" md5="3fb72070650baa3e0a58ba6bbd2e0d5d" sha1="bd2bac26f750bc29907e97f5812f6a362efab853"/>
+		<rom name="SIERRA/OILSWELL/PATCH.101" size="800" crc="76787974" md5="dcfcecfde37ffcf619a2ff2ba9e6bb3b" sha1="883d89162999ea50596bd8e394aac424e71051a5"/>
+		<rom name="SIERRA/OILSWELL/STD.DRV" size="2759" crc="5f119c67" md5="b34dceda61eff9180191b1426a30e9ce" sha1="034d8b1c74f38af04b4ac69ce1ca4e0819872d25"/>
+		<rom name="SIERRA/OILSWELL/TANDY.DRV" size="3789" crc="6a46bb26" md5="7b39cde8ecbdd8c70b62cbbe7982d75b" sha1="0ae58c8ebf54482e5ed09f63073efdc452bee601"/>
+		<rom name="SIERRA/OILSWELL/TMPSOUN1.CMP" size="61925" crc="3dd3c9b0" md5="5a9026167187cebd26cdbe8ea5651a84" sha1="bfceae963e2800ef3ebf0e5d852c5a3b92a76d34"/>
+		<rom name="SIERRA/OILSWELL/TMPSOUN2.CMP" size="42991" crc="b8148bf9" md5="4f108040f8b1b59850187d43cfa4f957" sha1="07bdacec663b1e86a1c4895304ea3f5f5a0bd186"/>
+		<rom name="SIERRA/OILSWELL/VGA_SHP.CMP" size="7453" crc="5368a23a" md5="05ad0207ebdfdb1726f0101394998758" sha1="010458002b6df42a0d909ab203b59bc218a8667a"/>
+		<rom name="SIERRA/OILSWELL/WELL.DAT" size="51924" crc="ae453749" md5="4ea705a2456ea15df3866a9bddbd7de5" sha1="07fb97c8c20f859ba7bc9b52394c667d79a2f555"/>
+	</game>
 	<game name="Operation Neptune (1991) (The Learning Company).dosz">
 		<description>Operation Neptune</description>
 		<year>1991</year>
