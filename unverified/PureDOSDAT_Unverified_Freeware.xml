@@ -683,6 +683,139 @@
 		<rom name="SYS/WINNER.GRH" size="32250" crc="8250e4f6" md5="ba9f7061170f182e1900b0a5fe8a2f27" sha1="5907c6c1f2c846899e5de42fbf097c33e282e9ab" date="1997-06-22 09:50:28"/>
 		<rom name="SYS/WORDS" size="8620" crc="f1b22423" md5="841189c521fac863e7eec8dd41603db0" sha1="02e28179e64a0c498c2a290adf70007e16119966" date="1995-08-22 03:38:10"/>
 	</game>
+	<game name="M.U.G.E.N (1999) (Elecbyte).dosz">
+		<description>M.U.G.E.N</description>
+		<year>1999</year>
+		<developer>Elecbyte</developer>
+		<comment>Freeware v2001.04.14. Requires CWSDPMI r7</comment>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://web.archive.org/web/20010720162754/http://mugen.elecbyte.com/</link>
+		<link type="freeware">https://sandmann.dotster.com/cwsdpmi/</link>
+		<rom name="chars/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2000-08-14 17:08:50"/>
+		<rom name="chars/kfm/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2000-08-14 17:08:50"/>
+		<rom name="chars/kfm/ending.def" size="2047" crc="110ced97" md5="902a2031f365a932767d5e3a28081a74" sha1="0fe61c9e5ad7bdf6ea9ae24380c11e4d05ff549a" date="2001-03-21 20:48:20"/>
+		<rom name="chars/kfm/ending.sff" size="48958" crc="eeb202e7" md5="e193472a2037d4210e2bc358d03ad991" sha1="8074ec6b640362857435385ebb04ee2a0e145441" date="2001-03-21 20:49:10"/>
+		<rom name="chars/kfm/intro.def" size="2989" crc="d2d0d6b4" md5="be9579b0621de7589f0ad05cec18f6ee" sha1="b6229cd4f18c8311a007dcd83e699f53e6136048" date="2001-03-21 19:52:34"/>
+		<rom name="chars/kfm/intro.sff" size="90427" crc="73445749" md5="695b25739fa75b8dec52672bce085ed3" sha1="b571b4c9e12691416da5a6d1df06b728db1342a1" date="2001-03-21 19:46:30"/>
+		<rom name="chars/kfm/kfm.act" size="768" crc="33bbaa16" md5="640e16e7aa1f850724c3444d10973cd9" sha1="e5cadfc6320624abb0645584bd7b28196098e8d1" date="2000-02-02 21:26:54"/>
+		<rom name="chars/kfm/kfm.air" size="44026" crc="22763d48" md5="193cbec12763cbf8638b2272c2f4b56e" sha1="3e9a562cd22e19bed0892b489315ddb849ebd9c2" date="2001-04-30 17:17:36"/>
+		<rom name="chars/kfm/kfm.cmd" size="18461" crc="1c0281e8" md5="10bbb758d2c4dc59979f66b097d389fd" sha1="b1bfc0f923f88e9c515d8bf48c18e19ead526a54" date="2001-03-28 18:06:54"/>
+		<rom name="chars/kfm/kfm.cns" size="59432" crc="a74a1dfa" md5="29ab30b2195d1becda00d8cdc166e469" sha1="da32dfea0508488d83fd59ef96d2178068025e0a" date="2001-04-23 00:53:04"/>
+		<rom name="chars/kfm/kfm.def" size="972" crc="50749a2d" md5="3e961368ba590960fd08171c3469a820" sha1="fd69c910ab8486e4c6c2c387f1f72dc6f5132344" date="2001-04-20 01:53:10"/>
+		<rom name="chars/kfm/kfm.sff" size="510225" crc="bfddf530" md5="f9c859a7ca50a8f14a2d63ca9df047a2" sha1="dd8b9b3c15f3e317d7a9fa96458e2add82e408ba" date="2001-03-19 00:39:54"/>
+		<rom name="chars/kfm/kfm.snd" size="76631" crc="bdf56902" md5="62b9025910e428279f6d2713013b51c9" sha1="94bd1fe94decc7644cfc0367605ad5d2adef593d" date="2000-12-09 17:32:20"/>
+		<rom name="chars/kfm/kfm2.act" size="768" crc="0d94ed03" md5="5d2cd68bae3ae37ce8d8e2accf8da940" sha1="7dc89b2dec15cb093a01a890a95bb014845898ba" date="2000-02-08 23:20:58"/>
+		<rom name="chars/kfm/kfm3.act" size="768" crc="a41b1f92" md5="611830875dea9a1fa78c9d56771fbd15" sha1="fffa2b0bdaaba54796a9d33e0efc3dd5d5e36498" date="2000-03-08 03:54:22"/>
+		<rom name="chars/kfm/kfm4.act" size="768" crc="35538ff8" md5="b917df88452c2ff846518b75f2cd7135" sha1="48de1ce7e7366c03ca515caf2b81da9760082fff" date="2000-03-08 04:00:56"/>
+		<rom name="chars/kfm/kfm5.act" size="768" crc="32709134" md5="0d7bef16a7efe9e5087ba83e232a159c" sha1="15118996abfe038ab56c550428b6cf2031664ca2" date="2000-03-08 04:07:52"/>
+		<rom name="chars/kfm/kfm6.act" size="768" crc="9b35237e" md5="ad49920169860583a5b788a22c33ef40" sha1="5d3263245dffd7c8e654edea66c59b9ebcf98e73" date="2000-03-08 04:07:28"/>
+		<rom name="chars/kfm/readme.txt" size="4836" crc="f4f26028" md5="c9604422c365cbd0f5b8f21040088cd9" sha1="45888e516e84d64337e485beb41f8ec82540e807" date="2001-05-01 19:35:20"/>
+		<rom name="chars/readme.txt" size="101" crc="4bd64401" md5="0fda7a38d050839d90d1e6e849bf063d" sha1="65bbc0fdff0cfbcb1a66ccec15b95d7673e53ef1" date="2000-08-14 17:10:36"/>
+		<rom name="CWSDPMI.EXE" size="21325" crc="a18c506d" md5="3a87b74dedfb4da2b97b9f1c1cf03436" sha1="93762883ad7f2e293d69e418aab574aae2914efc" date="2010-01-07 23:06:10"/>
+		<rom name="data/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2000-08-14 17:08:50"/>
+		<rom name="data/big/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2001-04-20 01:55:40"/>
+		<rom name="data/big/readme.txt" size="610" crc="9a852b15" md5="02b66d1e8f757e39be571d2d5e478286" sha1="0b41e8c2ce4567c201132f36b8430b51a155cc3c" date="2001-04-02 22:27:04"/>
+		<rom name="data/big/system.def" size="12600" crc="aaa9d8fc" md5="b42820f81ac6f62431c931162ee5021d" sha1="5bf46e0fff38b76d42c9e0fb5a38b440d6400b43" date="2001-04-13 02:09:30"/>
+		<rom name="data/common.snd" size="72705" crc="715c0f9f" md5="6383788e0ff625c5e154d5bbe8dee28e" sha1="653299c6e6679645033e6bac53fe8f5a1ba18348" date="2000-05-15 01:39:22"/>
+		<rom name="data/common1.cns" size="38333" crc="ab00cc05" md5="9d2d5084af232ae30437d7f677ac07eb" sha1="bef7311e388594cb3feb5c397442b53deb2c9a1b" date="2001-04-18 04:52:52"/>
+		<rom name="data/fight.def" size="15576" crc="9f2cc8b7" md5="7661b09a4702dcf5142758d35491d043" sha1="5d123fe7b5bedfa70cbc0745cd7b08a90951c6d3" date="2001-04-10 19:12:58"/>
+		<rom name="data/fight.sff" size="70125" crc="47a5e3f2" md5="445bff33985fd987c43902544b23a789" sha1="f76d1d748d24e4636a7a831c214598a56c85487f" date="2001-02-02 19:07:24"/>
+		<rom name="data/fight.snd" size="89579" crc="ea301046" md5="69d03271025d9072a36806c039629c4f" sha1="3eb33cafccb5bea3e47c52df85524ece5b756a64" date="2000-08-21 01:20:50"/>
+		<rom name="data/fightfx.air" size="3921" crc="a09bbff7" md5="d8cc5eb1ec1a4cf7ca46004cb4b6cee5" sha1="fd78b27d5a4c9f0cf02fb77eba4082b9b531ce59" date="2000-06-28 01:21:28"/>
+		<rom name="data/fightfx.sff" size="148215" crc="7ed2e290" md5="4f53f777f016aac01e8ca542d1630956" sha1="ce8e6aa9c5f2341051216ef35f56d43dd7cb97a0" date="2000-06-28 01:25:56"/>
+		<rom name="data/kfm/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2001-04-01 19:39:02"/>
+		<rom name="data/kfm/credits.def" size="1547" crc="439e52d4" md5="6836430abe79d5d4f264420e05f3354e" sha1="4d6cc609fa26fbd24f46c3da7404472d01f9fff6" date="2001-04-01 05:41:18"/>
+		<rom name="data/kfm/credits.sff" size="29331" crc="ad030788" md5="c173e05db4b6710ce196b8da8e6f0bcd" sha1="be2f9d7d441a0c9b00af7541a8fb37a6b0afea98" date="2001-03-30 18:53:00"/>
+		<rom name="data/kfm/gameover.def" size="1045" crc="ffaa9072" md5="a30e451678cc30fc4d46440fea7c6dc4" sha1="fe40b0dceed427b170b06a6bdcddbef571747ef3" date="2001-03-24 03:25:24"/>
+		<rom name="data/kfm/gameover.sff" size="5767" crc="e1335ec6" md5="fcf5f9440d542a85d2cb767ee5a24acf" sha1="096299e985661caebf19cec4eeb063eb01c4a43e" date="2001-03-24 02:40:06"/>
+		<rom name="data/kfm/intro.def" size="3251" crc="3f2c749b" md5="c2f6e6f6c9d7ec8ed70408577e534f03" sha1="0b09db7af5a3ecf538601cbdea900189de422263" date="2001-04-07 02:29:34"/>
+		<rom name="data/kfm/intro.sff" size="97583" crc="25c4679b" md5="f34ceef8b47d4d1fecf23f029d6a7e6f" sha1="9ff9493e77bcae931bbd8df4cc81c51975f37cb2" date="2001-04-01 06:01:42"/>
+		<rom name="data/kfm/kfmtitle.sff" size="30894" crc="f5c1a419" md5="23c192413d46dcea6d2a3c73d7ff1538" sha1="eedb536df6249a1c963c8aaf38fde4ac822b1ec8" date="2001-04-01 03:52:12"/>
+		<rom name="data/kfm/logo.def" size="423" crc="9d82015a" md5="5ad54c226bf71eb9c031e9fee0699ab2" sha1="f4ff65214634c9ed210709fb3d7e0a9baeed475e" date="2001-03-18 20:21:50"/>
+		<rom name="data/kfm/logo.sff" size="7997" crc="baf0bc1b" md5="77b9a8d95876811438c4196340c7345a" sha1="8a914c9e490a6f673366e5006dc75b75f72df55f" date="2001-03-18 20:26:40"/>
+		<rom name="data/kfm/select.def" size="3228" crc="b5baa9aa" md5="767c2d780b784246ef6cdcb424b3dcc8" sha1="f2d8cf317fdf7fc89791f1da1d18220ac4d43588" date="2001-01-30 18:18:58"/>
+		<rom name="data/kfm/system.def" size="12510" crc="39d24c0a" md5="e17ec8a4d46f4e5a7a261a0d720ea89c" sha1="ce34f4dd5e67eff5f5ef8dc18faaca0d1c63b6ce" date="2001-04-13 01:53:42"/>
+		<rom name="data/mugen.cfg" size="9322" crc="b1449dab" md5="f2f92d3b3f9dc58d9f7bb860e12cf8ba" sha1="80d575b2f8a4605dbc39b3fad71c6599a3917beb" date="2001-04-28 14:04:52"/>
+		<rom name="data/select.def" size="3228" crc="b5baa9aa" md5="767c2d780b784246ef6cdcb424b3dcc8" sha1="f2d8cf317fdf7fc89791f1da1d18220ac4d43588" date="2001-01-30 18:18:58"/>
+		<rom name="data/system.def" size="12787" crc="9a0fc957" md5="422b8da934ed7b67862025996f07374d" sha1="a24c3adb8222006c43d961b26dbe86cec7d325e3" date="2001-04-13 01:49:52"/>
+		<rom name="data/system.sff" size="145264" crc="b6ed9fc0" md5="771ec3a15cf7b104fd109db7016482a8" sha1="2c4b8d69d88bbfe65e15efa27bb55aa3d156b6ca" date="2001-01-09 21:44:52"/>
+		<rom name="data/system.snd" size="8976" crc="940398bd" md5="cde11e5f215761068fc557188e7c706d" sha1="ef6a04e484a35f489be0b405c17093a74df4b2f8" date="2000-03-14 23:18:14"/>
+		<rom name="docs/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2000-08-14 17:08:50"/>
+		<rom name="docs/air.txt" size="14315" crc="cfa492bd" md5="92dcce2357c2b7a384f914999c71cd96" sha1="d468616d10d9e7b8c02c118bbb5a0923ee70d397" date="2001-04-22 22:37:22"/>
+		<rom name="docs/cns.doc" size="52013" crc="013862d7" md5="8ba01d31472965a739ccef02d67c9061" sha1="40d14098a46f30b6141ac119a5408ad928b27a8f" date="2001-04-30 17:49:44"/>
+		<rom name="docs/cns.txt" size="43750" crc="c0e953a5" md5="1fee2a4c6fcfa6b5ba7bf51ea0dd9bdc" sha1="f037b8b4e83791162a9df1220283ba227e5809f9" date="2001-04-30 17:50:20"/>
+		<rom name="docs/exp.doc" size="30040" crc="010eeffe" md5="73875dfa5838d1d2a984322ba15fb00e" sha1="115c41659c73d83ee18255d596d24e74302281d7" date="2001-04-20 00:46:10"/>
+		<rom name="docs/exp.txt" size="25837" crc="65c94611" md5="9146233ca46e2f9ae8d34ec909346f92" sha1="cabc2a139d0547253c1482b3c8fc8c7812e1a49f" date="2001-04-20 00:46:16"/>
+		<rom name="docs/incompt2.doc" size="8100" crc="823ac2a3" md5="84b4e6d5acefe23ada2da53d5af13c1f" sha1="3f323ae4b9bb76aa90962f1af0afda2c0f241a24" date="2000-11-18 23:53:32"/>
+		<rom name="docs/incompt2.txt" size="7233" crc="a07345cf" md5="28772cafccce0eb3bfc5925922163258" sha1="b9f6484dba228d64152902d55a3cd6a1c7aeaca6" date="2000-11-18 23:52:34"/>
+		<rom name="docs/mugen.htm" size="1915" crc="d86c4296" md5="eb297d7ae56a5169f9e386a709332a8d" sha1="daaa5b827d266dfe3483d00315373b8446591f71" date="2001-04-30 18:26:50"/>
+		<rom name="docs/mugenfaq.html" size="56614" crc="ccb9ff8e" md5="bf988f19f6cc589d2cd3ed23b494b54d" sha1="4a0a87984a987c2fd9bc9bf883ce9d7c76d9d8ba" date="2001-04-28 14:33:08"/>
+		<rom name="docs/mugenfaq.txt" size="27006" crc="ed114cff" md5="a757e28692b1a2466c1687d4ca687cc6" sha1="104376df318ced510e723901c4690208ec17d7b9" date="2001-04-28 14:33:02"/>
+		<rom name="docs/overview.doc" size="8943" crc="018c78ab" md5="93a7fb6c81701ef71ff9489f9e647ee2" sha1="cdc2d7cca5dbaa4eb788490b4c3fe230df252f2e" date="2001-04-09 15:46:04"/>
+		<rom name="docs/overview.txt" size="6650" crc="6a51b4f5" md5="3796a1c281641770824921ffa26842b1" sha1="f367c2c29f593cb1eeccd969dc388b50b920e35a" date="2001-04-20 00:46:32"/>
+		<rom name="docs/readme.txt" size="23829" crc="85695a31" md5="7700af36023766e2a3b23586022af16a" sha1="414fcbde78798f24745b7cd9e4e941b3cedab82d" date="2001-05-01 19:43:46"/>
+		<rom name="docs/sctrls.doc" size="143021" crc="d1794dec" md5="f3de1aa628e26909046067e4e5bcecc5" sha1="49f596d1010bc9d833d04f619e4362790b9702be" date="2001-04-20 01:47:28"/>
+		<rom name="docs/sctrls.txt" size="111074" crc="21cc0673" md5="fad6e8f46aec6ef36723ca6db8c736d2" sha1="5864732a243197b3166448c52499a33df93fff64" date="2001-04-20 00:47:48"/>
+		<rom name="docs/spr.gif" size="32826" crc="d4a94e94" md5="095f053af803b4c8d6cd89f270afa6ac" sha1="1f5e4274d929aafda5bcb08aec2efb0f4a8ac6db" date="2000-07-06 20:16:36"/>
+		<rom name="docs/spr.txt" size="7448" crc="54f44cef" md5="e1ab1f00d87830dfc20dfb893f7f4477" sha1="b8ed76d8fd0e7608ba119f3b169ad92ad11571cf" date="2001-04-10 19:21:24"/>
+		<rom name="docs/storybrd.txt" size="16698" crc="8688278d" md5="1867fd4857febbe1d3c3f75f99844fb0" sha1="76fca4457a5f2c9d6c2e0740a4c94ce5a6f39b94" date="2001-04-10 22:13:58"/>
+		<rom name="docs/trigger.doc" size="103305" crc="943a871e" md5="595f3afd18d7053959693bed35adbb21" sha1="545163ec3ebf0606c09da52409cc2a66b375aa25" date="2001-04-09 15:46:08"/>
+		<rom name="docs/trigger.txt" size="83151" crc="bfc23ac6" md5="237de6a94d7fdf863c29f4b56e6ebdc2" sha1="055fb90f0913799df10e05244a3271cde0fbf8dc" date="2001-04-20 00:48:00"/>
+		<rom name="docs/tutorial/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2000-08-14 17:08:50"/>
+		<rom name="docs/tutorial/airvw0.gif" size="4222" crc="4fc4b030" md5="bb1a3084c29871f15793013af72cb0c3" sha1="aa02365739bab8eeb74d3c355a271241efb7fcf3" date="2000-02-20 01:57:24"/>
+		<rom name="docs/tutorial/airvw1.gif" size="4485" crc="9468860e" md5="6ef62be2a2aca309fcf4fc7c4a9e0e7a" sha1="907a58959abcf15fabba2dc7572124d4115bda1a" date="2000-02-20 04:20:06"/>
+		<rom name="docs/tutorial/airvw2.gif" size="4618" crc="3a432c8c" md5="38617f9b7855e2e0f71053a8cb63c29a" sha1="dd5764603697df453600dd45a3aa805b3e2e05c3" date="2000-02-20 04:46:52"/>
+		<rom name="docs/tutorial/airvw3.gif" size="4725" crc="0feae766" md5="adacdd8d29b1fe0feba3a4aea977ec9b" sha1="01ca93a7667b1396df0cebb2fbd7130bff8dae04" date="2000-02-20 05:23:00"/>
+		<rom name="docs/tutorial/airvw4.gif" size="4719" crc="77831d39" md5="b45e8b2b47ed4f27fa1a8704905a9de3" sha1="1e4661f30dab72db20b9bc0ac8a8b694f7692532" date="2000-02-20 05:23:16"/>
+		<rom name="docs/tutorial/atkbox.gif" size="4163" crc="e2c728c4" md5="08503571679384e4b13b102d7c44d85f" sha1="b79ede43ddfa0d95037c7a33aac6b99ab9398336" date="2001-04-23 02:34:16"/>
+		<rom name="docs/tutorial/atkx-hih.gif" size="3820" crc="9edc2aad" md5="4e554b0f397e495cae7388de78021d79" sha1="4fbeb36472fe34663ef0a4d9824890e7bd2ac4a3" date="2001-04-30 16:30:08"/>
+		<rom name="docs/tutorial/atkx-hil.gif" size="4003" crc="2c5ad9e1" md5="b509e76d625ab3c2f3bdbec8732a8776" sha1="bc74f37a5d5ca6edea1052d6ed4bbc6199f1f7c7" date="2001-04-30 16:29:42"/>
+		<rom name="docs/tutorial/atkx-him.gif" size="3876" crc="318864f8" md5="a455eec79226a3ace7496b7bc2866e32" sha1="6da37e33641010675db0b3a721310687b2b6a2dd" date="2001-04-30 16:29:56"/>
+		<rom name="docs/tutorial/atkx-loh.gif" size="3856" crc="4884991d" md5="e5df1cd5149239635cbc5d7ae4171c43" sha1="dc3b9c68176501ba3ea41eb9e9f9439e994d180a" date="2001-04-30 16:30:54"/>
+		<rom name="docs/tutorial/atkx-lol.gif" size="3912" crc="d02b13b4" md5="d86d4f291b3c038c8ac6ed4da49a7a0d" sha1="a992d11939945ee82394bb99dd9dabbf58cec841" date="2001-04-30 16:39:32"/>
+		<rom name="docs/tutorial/atkx-lom.gif" size="3883" crc="bedabaa5" md5="56aacf93144be6c7ea45dd1cccccbfeb" sha1="1134b9f4aabed12cbe49068f0dad8f1ffac67107" date="2001-04-30 16:40:12"/>
+		<rom name="docs/tutorial/atkx0.gif" size="4162" crc="d8792b19" md5="e5fa3717ad8dcd7317a7ac13be70f039" sha1="3d736538c4ebbcb642dae203c1abb89f954d7272" date="2001-04-23 18:12:04"/>
+		<rom name="docs/tutorial/atkx1.gif" size="4021" crc="eb5233e5" md5="285c6a71028407338cd73739fc62a0c6" sha1="5e2af5f5736bc661854adc9fa63940b5cde71c35" date="2001-04-30 14:55:08"/>
+		<rom name="docs/tutorial/axis0.gif" size="1276" crc="2e77a26d" md5="ab2bb3321d4a7adffcd7d758894bebe4" sha1="3e818b2c82719f6b382526e1f8b35bde67fc91f3" date="2001-04-22 20:45:06"/>
+		<rom name="docs/tutorial/axis1.gif" size="1067" crc="73173d65" md5="ebc060b609aae1feab22ed56e9ab7a00" sha1="8b17fc362bbb62db0ef1a9ee2bb538629c57c1cb" date="2001-04-22 20:45:16"/>
+		<rom name="docs/tutorial/axis2.gif" size="1079" crc="67f1e8eb" md5="92a946ea292bde73e3b9f323ce8881da" sha1="dd7e309ad9a0d6792e6ceca995d1bbf6735ea38f" date="2001-04-22 20:45:20"/>
+		<rom name="docs/tutorial/axis3.gif" size="1037" crc="ac17a689" md5="bb0eacb8a5bee2a1eec37ec74c60825b" sha1="a304352432a167ffbfb1a1295d5f4aca302f9dbd" date="2001-04-22 20:45:24"/>
+		<rom name="docs/tutorial/axis4.gif" size="1193" crc="7ee9bf71" md5="c6edcd2e1541235279cef9a0e5d9977b" sha1="5dd520cf7fe2d356bdb7aca0b2c88686eb2a94bd" date="2001-04-22 20:45:30"/>
+		<rom name="docs/tutorial/bgs.txt" size="5721" crc="0bb871fd" md5="8669a6dea4d73e660acfd3457a8d774e" sha1="3439a020d64ea9957200619ea0a079506cbfd8be" date="2001-04-23 19:24:12"/>
+		<rom name="docs/tutorial/color0.gif" size="4748" crc="8b39ef6d" md5="57fb185fb08289727e3cca77c2cbd793" sha1="8fb487047dac1a298a845c495777813a5a79315d" date="2001-04-22 18:00:40"/>
+		<rom name="docs/tutorial/color0n.gif" size="2106" crc="e3d85e5f" md5="2dc279afd76895a90efd14974ad24826" sha1="d166c457773e03b920f74bc0a0d45556de4cbea3" date="2001-04-22 18:26:04"/>
+		<rom name="docs/tutorial/color0y.gif" size="2084" crc="96655b15" md5="ff15af5357e94f306087bbdfb19ed8ec" sha1="b29f72660b4435b2b5f4285584c06cfd01fa87e8" date="2001-04-22 18:24:56"/>
+		<rom name="docs/tutorial/debug0.gif" size="2573" crc="5a0c0cd1" md5="7f319fe217cffedca18c651227ea0f0a" sha1="364a2031af7b15c42c7b913ebffb998464070803" date="2001-04-23 18:51:24"/>
+		<rom name="docs/tutorial/pshop0.gif" size="9085" crc="b014457e" md5="b1d71fe27b7d7f5de6e7a591113f3503" sha1="b0890adcb15667ee83f6dfea9aba2286eccd1077" date="1999-12-29 20:43:20"/>
+		<rom name="docs/tutorial/pshop1.gif" size="5975" crc="96848aed" md5="94d4a74431e14797e5dbcb7a3895b1c6" sha1="4f4f03a6c55b5a001cf5a64931e1b6dec7607b66" date="1999-12-29 20:43:38"/>
+		<rom name="docs/tutorial/pshop2.gif" size="7077" crc="e416e5b3" md5="10161a22071a8f958bd70f65af5b8ece" sha1="b3eb6cd813d8083c1b37586399bec8faae924a85" date="1999-12-29 20:43:54"/>
+		<rom name="docs/tutorial/pshop3.gif" size="6927" crc="c7105932" md5="e86e96d642cbe0a01d85b8e120c8d634" sha1="b25bc1752ade93b25e450e5ad1881231d3d308d3" date="1999-12-29 20:44:08"/>
+		<rom name="docs/tutorial/tutorial1.html" size="17932" crc="26fb398c" md5="25bf853960154293b7db73e1b613e49c" sha1="413e985b68f968a3f895523e00d05bd478d12c4b" date="2001-04-30 18:25:02"/>
+		<rom name="docs/tutorial/tutorial2.html" size="6362" crc="3eda1992" md5="bd540aed602c8f6e24712d2c589510fb" sha1="df0fb7cbdca0d335afbfabfa3ff722fd6c16fcab" date="2001-04-30 18:25:14"/>
+		<rom name="docs/tutorial/tutorial3.html" size="15628" crc="7a2c2e68" md5="08c92a93140b4749ce5a2a07d7492aea" sha1="3b7c88ce8305d379a51fdfddc521c648dee42fce" date="2001-04-30 18:25:58"/>
+		<rom name="docs/tutorial/tutorial4.html" size="12243" crc="a4066490" md5="884b3a955eb9680b69baf25ebbe29010" sha1="28746de70ddc8621b91a433c015ff779702bfe5c" date="2001-04-30 18:18:26"/>
+		<rom name="docs/updates.txt" size="59370" crc="3d0e8cdf" md5="45d456a8500b61b8aa556a39a7996d3b" sha1="d081bf2818ad89ae6e128bd83a502b4fda0399e7" date="2001-05-01 19:41:32"/>
+		<rom name="font/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2000-08-14 17:08:50"/>
+		<rom name="font/f-4x6.fnt" size="3028" crc="97f501a3" md5="0e6047f2dc97664d2070e0baaee1297c" sha1="0a87d8a42940b57010ceca24a454d6798169f97d" date="2000-03-05 19:41:34"/>
+		<rom name="font/f-6x8f.fnt" size="4314" crc="29331158" md5="c792440a301520a3f730c4079f57c55a" sha1="88cb1b588f7eb35152dac50996c86ee916c342c5" date="2000-03-05 20:08:16"/>
+		<rom name="font/f-6x9.fnt" size="4310" crc="a65c368d" md5="c89e085a923f80d2e6286187c4b027a1" sha1="d5fa98ecf44f418b59fbfdec7ed794239f0b016d" date="2000-03-05 20:08:22"/>
+		<rom name="font/f-6x9f.fnt" size="4307" crc="e95cdc7a" md5="a61e951e155920f510f2ded45a66aaa8" sha1="c6cafa4107d88ce7e67c1f84c72f6c3bf2f13b45" date="2000-03-05 20:09:08"/>
+		<rom name="font/f-pad.fnt" size="1648" crc="0bdf6237" md5="52feee98cfbc43e23d4f80e1d106bcf5" sha1="60599a863f46b87daf03d64e91670336dcad3d59" date="2000-03-05 19:32:02"/>
+		<rom name="font/jg.fnt" size="7029" crc="b81e497d" md5="010bf5616ed5319538e1366aa11b2301" sha1="7169c2ca448a01817eed074b2ef428ebaa42c568" date="2000-03-05 20:08:26"/>
+		<rom name="font/name1.fnt" size="3859" crc="ae67ea31" md5="53eb942b14e0b9d8e82f634ec16772ad" sha1="8a9dec8aeb7d23d14effafdab9008f7b7183d50c" date="2000-03-05 20:08:36"/>
+		<rom name="font/num1.fnt" size="2477" crc="2f33f538" md5="1bb4f922848830dfe5943db1e9a9446a" sha1="e8021f740fff88b78fee3818edd2b77c1f133467" date="2000-03-05 19:31:48"/>
+		<rom name="mugen.exe" size="472836" crc="773db03f" md5="c87b0d0f69f33084836a44f7b3360ccf" sha1="027b70409b069ae4b3e00aa49ff81a6779d1b4b2" date="2001-04-20 01:43:18"/>
+		<rom name="mugenfaq.txt" size="27006" crc="ed114cff" md5="a757e28692b1a2466c1687d4ca687cc6" sha1="104376df318ced510e723901c4690208ec17d7b9" date="2001-04-28 14:33:02"/>
+		<rom name="readme.txt" size="23829" crc="85695a31" md5="7700af36023766e2a3b23586022af16a" sha1="414fcbde78798f24745b7cd9e4e941b3cedab82d" date="2001-05-01 19:43:46"/>
+		<rom name="sound/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2000-08-14 17:08:50"/>
+		<rom name="sound/readme.txt" size="33" crc="a19a87c9" md5="1a06cd6919e7a707d0a8aaaa3353859e" sha1="6f540c48062a32ba05038217dca2a3ea898b60c1" date="2000-07-06 18:32:24"/>
+		<rom name="stages/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2000-08-14 17:08:50"/>
+		<rom name="stages/kfm.def" size="10013" crc="aab9911e" md5="c8d8efef2f7feb1a860aec02cd4bffa3" sha1="aea92474c093200ad6202b91d8c5701a988296c1" date="2001-03-31 21:16:52"/>
+		<rom name="stages/kfm.sff" size="230826" crc="8057cf49" md5="0031e87e0074d68bfc41dbf2196e2ef6" sha1="3ec9bd122470ac9d17f8e9c0828c43c2125d8272" date="2000-06-06 20:59:52"/>
+		<rom name="stages/stage0.def" size="9239" crc="de1376a8" md5="a1b489d13f31419b9595602b64c00c9c" sha1="21285a47e10d50d81b0795c064a13fe271e1243a" date="2000-07-30 01:18:40"/>
+		<rom name="stages/stage0.sff" size="4530" crc="cdec02bd" md5="cb04e82b2521c4349a1c91f10cb8239a" sha1="aca61bb6d4b96028640c3509a9eaaa5f782e88b5" date="2000-06-06 21:00:24"/>
+		<rom name="updates.txt" size="59370" crc="3d0e8cdf" md5="45d456a8500b61b8aa556a39a7996d3b" sha1="d081bf2818ad89ae6e128bd83a502b4fda0399e7" date="2001-05-01 19:41:32"/>
+	</game>
 	<game name="NetHack (1987) (NetHack DevTeam).dosz">
 		<description>NetHack</description>
 		<year>1987</year>
