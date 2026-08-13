@@ -72011,12 +72011,20 @@
 		<rom name="ULTIMA.COM" size="36692" crc="e2358d36" md5="7bea6bf20b7079b30f8ca5336b3805b2" sha1="2736836127771823f9ed1463f306400a36bde0e2" date="1991-09-30 07:30:20"/>
 		<rom name="YEW.ULT" size="4648" crc="0fe584c7" md5="93092eecaa7cc285401a9840d47a7eda" sha1="46bc93e1b4e03b830029012462941c19baf8f3e4" date="1984-03-27 10:03:00"/>
 	</game>
-	<game name="Ultima IV - Quest of the Avatar (1985) (Origin Systems).dosz">
+	<game name="Ultima IV - Quest of the Avatar (1987) (Origin Systems).dosz">
 		<description>Ultima IV - Quest of the Avatar</description>
-		<comment>Files extracted from Ultima Collection (1997) disc.</comment>
-		<comment_dosc>Auto-starts</comment_dosc>
-		<year>1985</year>
+		<year>1987</year>
 		<developer>Origin Systems</developer>
+		<comment>
+			Files extracted from Ultima Collection (1997) disc, verified by Redump: Ultima Collection (USA) (Rerelease)
+			Disc also matches with TDC#23 entry: Ultima Collection v1.03F (1999)(Electronic Arts, Inc., ORIGIN Systems, Inc.) [bin-cue]
+			DoDAT can build this directly from the disc image
+			Also matches with GOG
+		</comment>
+		<comment_dosc>Reduces the game speed and auto-starts</comment_dosc>
+		<link type="media">https://redump.info/disc/2179</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Ultima+Collection+v1.03F+(1999)(Electronic+Arts,+Inc.,+ORIGIN+Systems,+Inc.)+%5Bbin-cue%5D</link>
+		<link type="store">https://www.gog.com/en/game/ultima_1_2_3</link>
 		<rom name="ABACUS.EGA" size="1877" crc="5028160a" md5="1e82c19b0a8c4476587511fb8e22d6bb" sha1="f5bcb9528b86b6dc2f84bab552cc1374f9d1fe5e" date="1987-06-18 14:08:20"/>
 		<rom name="ABACUS.PIC" size="1670" crc="1e5ffd8d" md5="aa56e3420258bcaff8ebb5dbb7aa433e" sha1="09aad492820def375fb87d341c65839ce506cb89" date="1987-05-28 10:33:28"/>
 		<rom name="ABYSS.DNG" size="16896" crc="a2a9c534" md5="ed696ef97dc609e115bc6648c2365bd3" sha1="2866ed9cbb80d4bddede1c3443875ff9b666fe63" date="1987-04-20 15:42:00"/>
