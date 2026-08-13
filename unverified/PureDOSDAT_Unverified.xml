@@ -72298,10 +72298,18 @@
 	</game>
 	<game name="Ultima VI - The False Prophet (1990) (Origin Systems).dosz">
 		<description>Ultima VI - The False Prophet</description>
-		<comment>Files extracted from Ultima Collection (1997) disc.</comment>
-		<comment_dosc>Auto-starts</comment_dosc>
 		<year>1990</year>
 		<developer>Origin Systems</developer>
+		<comment>
+			Files extracted from Ultima Collection (1997) disc, verified by Redump: Ultima Collection (USA) (Rerelease)
+			Disc also matches with TDC#23 entry: Ultima Collection v1.03F (1999)(Electronic Arts, Inc., ORIGIN Systems, Inc.) [bin-cue]
+			DoDAT can build this directly from the disc image
+			Also matches with GOG
+		</comment>
+		<comment_dosc>Contains config files and copy protection removal, reduces the game speed, enables direct mouse, and auto-starts. MT-32 option</comment_dosc>
+		<link type="media">https://redump.info/disc/2179</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Ultima+Collection+v1.03F+(1999)(Electronic+Arts,+Inc.,+ORIGIN+Systems,+Inc.)+%5Bbin-cue%5D</link>
+		<link type="store">https://www.gog.com/en/game/ultima_456</link>
 		<rom name="ALL.CON" size="402" crc="87e914b7" md5="f192094f5a44b14f471a7934defee314" sha1="f36dcf001588dedf2b11bc0e1c44baf481a74ade" date="1990-02-17 08:01:52"/>
 		<rom name="ANIMDATA" size="194" crc="b8c5b433" md5="cd3a16a0fe3c3df4ee451e08cd0f314b" sha1="74c163160f57d18faaaa6b5a3f88e372aedf3190" date="1990-04-23 08:18:12"/>
 		<rom name="ANIMMASK.EGA" size="15842" crc="d7fb6486" md5="79ba80713b59566bb8496e9e9e4a4ca5" sha1="58b1e28c8498161c52c6456b96c8867275fe8e4c" date="1991-09-12 07:14:12"/>
@@ -72480,9 +72488,6 @@
 		<rom name="SAVEGAME/OBJBLKHF" size="2" crc="41d912ff" md5="c4103f122d27677c9db144cae1394a66" sha1="1489f923c4dca729178b3e3233458550d8dddf29" date="1991-09-12 07:02:32"/>
 		<rom name="SAVEGAME/OBJBLKHG" size="1146" crc="711af8aa" md5="ed0e455b0fd034e67c8bdc6c69d8cf89" sha1="89085befc5c9d52ac021c2bf5aef8cd44dd33216" date="1991-09-12 07:02:48"/>
 		<rom name="SAVEGAME/OBJBLKHH" size="466" crc="f68b3394" md5="2ba164687ada3bf890c44fa88fb48666" sha1="2f7478e689486d41bc101c70d7f83f25f65e77b3" date="1991-09-12 07:02:52"/>
-		<rom name="SAVEGAME/OBJLIST" size="7539" crc="1f2bf9f5" md5="0dbebf2e8f97921cb89dd0c46c575c4a" sha1="910829de03001a29fb26988e5a501d8d10147d26" date="1991-09-12 07:03:00">
-			<patch data="UEFUQ0gAG/QAAAB5AEVPRg==" size="7539" crc="106ff995" md5="f1c1f8e4c0535ef03581baa3f9e6d020" sha1="4fb89dd5a086e6247923bf80af9328cbc5c30a75"/>
-		</rom>
 		<rom name="SCHEDULE" size="3329" crc="d440df25" md5="0d8d720875d04e9c627d37193152a0de" sha1="2247a559a39748bdc714b58139ad3b897ffb21d6" date="1990-04-18 08:39:52"/>
 		<rom name="STARPOS.DAT" size="755" crc="2291d884" md5="ef23e64c1156b950c4bc955849ddbd13" sha1="142a8d5f1523cf7b16668859dd25858628241f64" date="1990-01-31 08:27:56"/>
 		<rom name="STONES.M" size="1256" crc="0955d1b6" md5="f4c7321007f69632ac1c695f32c41d58" sha1="ba70e79469b0fbe35aefe6dc61837b4b30f254ef" date="1990-02-16 12:05:32"/>
@@ -72529,6 +72534,7 @@
 		<rom name="U6ROLAND.DRV" size="1058" crc="12a59672" md5="2c6ac79d53df77f8fdf6d3922c17e3a9" sha1="bc1bc3f932c3a8ced2087f5935027c4f2a6930c9" date="1990-02-22 01:49:04"/>
 		<rom name="U6TANDY.DRV" size="5930" crc="a31b2480" md5="ecb8c323b582ebaa2049ab70a6d96118" sha1="28638e0205db4e2a16ead9dc22d13793706ad434" date="1990-03-27 10:53:32"/>
 		<rom name="U6TMUS.DRV" size="1272" crc="4d315d81" md5="9bccde0d89f24f8e4d1c2ec4af60e1fa" sha1="9d99577c177f5b0a212429bc3d69d00891e46adc" date="1990-02-12 04:34:20"/>
+		<rom name="Ultima IV, V &amp; VI.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="ULTIMA.M" size="1704" crc="c9f5ca58" md5="8447c2923bc6adbbfc91bfe66dbbfd13" sha1="9a383a3f39b2ab061b332622affccb760b4a4354" date="1990-03-02 04:05:12"/>
 		<rom name="ULTIMA6.EXE" size="18677" crc="b6f7b862" md5="bd0a0c9558ea067e0af4c269bbf42b4f" sha1="6645b5842ff7b95a16c72560f646c9ae8cdc1925" date="1990-03-26 04:09:24"/>
 		<rom name="VELLUM1.CGA" size="3867" crc="7780524d" md5="35b76b8cf545ae2152a6fda8e6af50ac" sha1="4ff6ac3de0cffe0211d6cdfc08aac4f99afd2125" date="1991-09-12 07:48:16"/>
