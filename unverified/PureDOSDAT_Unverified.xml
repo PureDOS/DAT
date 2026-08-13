@@ -71859,12 +71859,18 @@
 		<rom name="TCD.BIN" size="6840" crc="7a8ec6c5" md5="9fb9b39493d110ba14c5b10e908200da" sha1="400b51f416365fb392933229783b2eb5d77ce639" date="1987-04-26 06:23:52"/>
 		<rom name="ULTIMA.EXE" size="36880" crc="4fd5acaa" md5="ed19976a19a2794b8e3ac528e4f622a5" sha1="6589c21ebd80a03dec5b1d0d07068a638f450ee0" date="1991-10-04 09:10:00"/>
 	</game>
-	<game name="Ultima II - The Revenge of the Enchantress (1982) (Origin Systems).dosz">
+	<game name="Ultima II - The Revenge of the Enchantress (1983) (Origin Systems).dosz">
 		<description>Ultima II - The Revenge of the Enchantress</description>
-		<comment>Files extracted from Ultima Collection (1997) disc.</comment>
-		<comment_dosc>Auto-starts</comment_dosc>
-		<year>1982</year>
+		<year>1983</year>
 		<developer>Origin Systems</developer>
+		<comment>
+			Files extracted from Ultima Collection (1997) disc, verified by Redump: Ultima Collection (USA) (Rerelease)
+			Disc also matches with TDC#23 entry: Ultima Collection v1.03F (1999)(Electronic Arts, Inc., ORIGIN Systems, Inc.) [bin-cue]
+			DoDAT can build this directly from the disc image
+		</comment>
+		<comment_dosc>Reduces the game speed and auto-starts</comment_dosc>
+		<link type="media">https://redump.info/disc/2179</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Ultima+Collection+v1.03F+(1999)(Electronic+Arts,+Inc.,+ORIGIN+Systems,+Inc.)+%5Bbin-cue%5D</link>
 		<rom name="MAPX00" size="4224" crc="07dcd5a6" md5="86cd98e2f576cfab697a4cfd72dfd83e" sha1="2f405ac7edadc87b91eb97374eb0ef93285306aa" date="1997-12-17 06:38:04"/>
 		<rom name="MAPX03" size="4224" crc="b098a080" md5="bc28d65c43ed0c605b770fb11f2a9d25" sha1="63b7230d742913213480d43b432aa6fba580cd51" date="1997-12-17 06:38:04"/>
 		<rom name="MAPX10" size="4224" crc="840494e4" md5="655d0ed8276538e2a791c9c1b3d68d07" sha1="88e36d1010cff5b9bc1211102108f2cf0fa3357e" date="1997-12-17 06:38:04"/>
