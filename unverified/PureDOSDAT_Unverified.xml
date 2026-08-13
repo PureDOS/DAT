@@ -71956,12 +71956,20 @@
 		<rom name="TLKX93" size="384" crc="a82bda57" md5="9f209cb596488aa247ddaf5716444849" sha1="16ec84bd4a9742485e18687223587b89153e1e0b" date="1997-12-17 06:38:20"/>
 		<rom name="ULTIMAII.EXE" size="37344" crc="13aa642e" md5="9776264da48402302d7820ba3eecb53e" sha1="8e4292945e7670c30dd612e6e095b85fb18b168e" date="1998-01-08 17:32:40"/>
 	</game>
-	<game name="Ultima III - Exodus (1983) (Origin Systems).dosz">
+	<game name="Ultima III - Exodus (1984) (Origin Systems).dosz">
 		<description>Ultima III - Exodus</description>
-		<comment>Files extracted from Ultima Collection (1997) disc.</comment>
-		<comment_dosc>Auto-starts</comment_dosc>
-		<year>1983</year>
+		<year>1984</year>
 		<developer>Origin Systems</developer>
+		<comment>
+			Files extracted from Ultima Collection (1997) disc, verified by Redump: Ultima Collection (USA) (Rerelease)
+			Disc also matches with TDC#23 entry: Ultima Collection v1.03F (1999)(Electronic Arts, Inc., ORIGIN Systems, Inc.) [bin-cue]
+			DoDAT can build this directly from the disc image
+			Also matches with GOG
+		</comment>
+		<comment_dosc>Reduces the game speed and auto-starts</comment_dosc>
+		<link type="media">https://redump.info/disc/2179</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Ultima+Collection+v1.03F+(1999)(Electronic+Arts,+Inc.,+ORIGIN+Systems,+Inc.)+%5Bbin-cue%5D</link>
+		<link type="store">https://www.gog.com/en/game/ultima_1_2_3</link>
 		<rom name="AMBROSIA.ULT" size="4648" crc="a100075e" md5="547c3007ac95dd8c873a0ad7e432aab7" sha1="561359865017690f840c8d3030bf6106bbb1b83a" date="1984-03-27 09:57:08"/>
 		<rom name="ANIMATE.DAT" size="5888" crc="81f68e76" md5="5247bc20e91c6f7932eb2fdbce60e8f8" sha1="3f6a5941607fdf505a8e8b6a69077bedd67b868b" date="1985-03-06 01:12:20"/>
 		<rom name="BLANK.IBM" size="16384" crc="3084507d" md5="b1ca0595f5c3ab1780cd86b25bd8639e" sha1="de59c4160ad4babaa103303ca0c7912ee4bfa739" date="1984-03-23 13:18:24"/>
