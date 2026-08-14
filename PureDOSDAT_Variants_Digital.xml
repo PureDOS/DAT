@@ -4289,10 +4289,10 @@
 	</game>
 	<game name="King's Quest IV - The Perils of Rosella (1988) (Sierra On-Line) (GOG).dosz">
 		<description>King's Quest IV - The Perils of Rosella</description>
-		<comment_dosc>Auto-starts</comment_dosc>
 		<year>1988</year>
 		<developer>Sierra On-Line, Inc.</developer>
 		<variant>GOG</variant>
+		<comment_dosc>Copy protection removal patch, direct mouse enabled, required RESOURCE.CFG file, and auto start. MT-32 option</comment_dosc>
 		<link type="store">https://www.gog.com/en/game/kings_quest_4_5_6</link>
 		<rom name="ADL.DRV" size="8896" crc="a8cb6068" md5="b2b4afb47ab5bc94d5bdd63b38b62659" sha1="d050433d193f2141c4364a3a1ea70161e1ee5a60" date="2008-11-28 22:17:52"/>
 		<rom name="EGA320.DRV" size="1952" crc="3b2fc0de" md5="d2f9e9ea730745558926518c930e7375" sha1="76d37d9489d677c64408f4c91986d41f171999bf" date="2008-11-28 22:17:52"/>
@@ -4300,12 +4300,11 @@
 		<rom name="JOYSTICK.DRV" size="500" crc="1fea2852" md5="d4a6fd19facb39b3e0beda9a9de89857" sha1="0d6ce5ec4cf25021e62cbcb1afc8f8d5827bfd65" date="2008-11-28 22:17:50"/>
 		<rom name="MCGA320.DRV" size="1626" crc="10acc300" md5="7ced0fc0a7cc5395a1e4321250fcd943" sha1="b35bf55bd6dfd525bc2020f806b3cefe7e62f9e4" date="2008-11-28 22:17:50"/>
 		<rom name="MT32.DRV" size="3056" crc="8a17a966" md5="5b54768a04c7eb6fcb2f3004cd3d60b7" sha1="beb16a61324d23a1732ef5aafd2ec74feb6e63a0" date="2008-11-28 22:17:50"/>
-		<rom name="Readme_new.txt" size="20506" crc="b62c79e9" md5="fa82052fce62b13fdceed376af3f03b0" sha1="6fd7212ebab57950014c0c5132849d9bd261df17" date="2010-02-19 13:02:14"/>
 		<rom name="RESOURCE.001" size="452523" crc="791aa1a3" md5="68c558be55b4362de8b4f0b89930b00b" sha1="600dbc40ed731f359c0fddcc90f70d7ecd0e4be3" date="2008-11-28 22:17:50"/>
 		<rom name="RESOURCE.002" size="536573" crc="01184b22" md5="0b924fd922de2389fcfd35d747263c61" sha1="03693409c9ce776dcd6d4872a1e248f6e8d022c6" date="2008-11-28 22:17:50"/>
 		<rom name="RESOURCE.003" size="707591" crc="010780a7" md5="1046214aa22aae83c83a26eaf3e9412f" sha1="716252a34de66ac136665a7fb2bc4b7b780494b2" date="2008-11-28 22:17:50"/>
 		<rom name="RESOURCE.004" size="479562" crc="555198df" md5="e9b2f80c58e0cf079db0b53175dd069b" sha1="884556f0e1b8fee76c8e010e41d055f5d0881da2" date="2008-11-28 22:17:50"/>
-		<rom name="RESOURCE.CFG" size="211" crc="c4a1869c" md5="9057e1a7323b2cbc13b74555f7c757c1" sha1="90cb0b45fe2069dc90fd0accae8deb4e01156b4e" date="2008-11-28 22:17:50"/>
+		<rom name="RESOURCE.CFG" size="211" crc="c4a1869c" md5="9057e1a7323b2cbc13b74555f7c757c1" sha1="90cb0b45fe2069dc90fd0accae8deb4e01156b4e" date="2008-11-28 22:17:50" data="IHZpZGVvRHJ2ICA9IE1DR0EzMjAuRFJWDQogc291bmREcnYgID0gQURMLkRSVg0KIGpveURydiAgICA9IE5PDQoga2JkRHJ2ICAgID0gSUJNS0JELkRSVg0KIG1vdXNlRHJ2ICA9IFNURE1PVVNFLkRSVg0KIG1lbW9yeURydiA9IEFSTS5EUlYNCiBDRCA9IHllcw0KIG1vZGUgPSByZWFsDQogbWluSHVuayAgID0gMjA2Sw0KIGRpcmVjdG9yeSA9IFxTSUVSUkFca3E0DQoNCg=="/>
 		<rom name="RESOURCE.MAP" size="7476" crc="5f8233b1" md5="66f466a791898ac9f51d7d1e82b8e8b6" sha1="73dff5a9fe534793fa4589384af51c4c59f119f9" date="2008-11-28 22:17:52"/>
 		<rom name="SCIV.EXE" size="75075" crc="f89e9b27" md5="8ce63056e40ed5762916a67f29c7eca2" sha1="e13ceb9128a1838a48021bb8d8fb2ed25a1513b4" date="2008-11-28 22:17:50"/>
 		<rom name="SIERRA.COM" size="538" crc="0d3eab36" md5="48e6faeb6af8e540fed0523f17ec4c0d" sha1="7929b8884810aad1ac234fba46769837b609aa14" date="2008-11-28 22:17:52"/>
