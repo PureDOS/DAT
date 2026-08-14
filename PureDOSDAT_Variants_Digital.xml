@@ -4315,10 +4315,10 @@
 	</game>
 	<game name="King's Quest V - Absence Makes the Heart Go Yonder! (1990) (Sierra On-Line) (GOG).dosz">
 		<description>King's Quest V - Absence Makes the Heart Go Yonder!</description>
-		<comment_dosc>Auto-starts</comment_dosc>
 		<year>1990</year>
 		<developer>Sierra On-Line, Inc.</developer>
 		<variant>GOG</variant>
+		<comment_dosc>Required RESOURCE.CFG file, direct mouse enabled, and auto start. MT-32 option</comment_dosc>
 		<link type="store">https://www.gog.com/en/game/kings_quest_4_5_6</link>
 		<rom name="0.SCR" size="9960" crc="a4780234" md5="ea3ef2d5afe9252a6b1f9224c720ad4a" sha1="9941094d4b310dcc74b93f59cd055ed6fe9b9786" date="2008-11-28 22:18:34"/>
 		<rom name="0.TEX" size="50" crc="1ad06e0e" md5="5034ad302d1dbfdbf0566ccb871f9cb4" sha1="a4186779a6ce590038bc0406a96c2a299cf181f9" date="2008-11-28 22:18:34"/>
@@ -4358,20 +4358,17 @@
 		<rom name="METER.DLL" size="15537" crc="fbe3a725" md5="c9d4e9217f864422322c12ff594cf2cf" sha1="2a927adf5d1f30349d836297e258c456809f2f3f" date="2008-11-28 22:18:32"/>
 		<rom name="MMAWARE.DLL" size="6442" crc="381b6698" md5="a37fc52d789013668e7f389febf965a8" sha1="019f134d606bf093b9085eddaa3264827023b79c" date="2008-11-28 22:18:34"/>
 		<rom name="MT32.DRV" size="1976" crc="903dd811" md5="ff31a3a4fe6aaf06866c47e2c64ceee5" sha1="766b7d5e64be16265d41c8a0193453ac4676af56" date="2008-11-28 22:18:34"/>
-		<rom name="Readme_new.txt" size="20506" crc="b62c79e9" md5="fa82052fce62b13fdceed376af3f03b0" sha1="6fd7212ebab57950014c0c5132849d9bd261df17" date="2010-02-19 13:02:14"/>
 		<rom name="RESOURCE.000" size="571368" crc="4200f1ba" md5="b0e65037aa69693f8d77bc9f9fb91dc0" sha1="90a16713a7c5ebf9afbcf8b423414533330763f2" date="2010-01-28 13:20:52"/>
 		<rom name="RESOURCE.001" size="16800210" crc="5cbc3ac7" md5="4cccbae67165762f0f2c64949204dcb1" sha1="164e58439229e436dbaeef3bbdc6d741683981fe" date="2008-11-28 22:18:32"/>
-		<rom name="RESOURCE.CFG" size="226" crc="5040d9fc" md5="209eb908c8303f0e2d7020dd0a8c5739" sha1="2bc488d2acfacbca9518eaf3490537d0c379792e" date="2008-11-28 22:18:32"/>
+		<rom name="RESOURCE.CFG" size="226" crc="5040d9fc" md5="209eb908c8303f0e2d7020dd0a8c5739" sha1="2bc488d2acfacbca9518eaf3490537d0c379792e" date="2008-11-28 22:18:32" data="IHZpZGVvRHJ2ICA9IFZHQTMyMC5EUlYNCiBzb3VuZERydiAgPSBBREwuRFJWDQogYXVkaW9EcnYgID0gQVVEQkxBU1QuRFJWDQogam95RHJ2ICAgID0gTk8NCiBrYmREcnYgICAgPSBJQk1LQkQuRFJWDQogbW91c2VEcnYgID0gU1RETU9VU0UuRFJWDQogbWVtb3J5RHJ2ID0gQVJNLkRSVg0KIG1vZGUgPSByZWFsDQogbWluSHVuayAgID0gMjA2Sw0KIGRpcmVjdG9yeSA9IFxTSUVSUkFca3E1DQoNCg=="/>
 		<rom name="RESOURCE.MAP" size="13122" crc="77ba0ffd" md5="ecca51581ce72ba4fd997605e303f05d" sha1="7b06387fee975b68fc35365fb62044309186260e" date="2008-11-28 22:18:34"/>
 		<rom name="SCIDLL.DLL" size="13312" crc="18f5ba6b" md5="9c250eebbf401f756c886009febabd6a" sha1="3af003ccc36a06839eed2e8b20f28c5c6d56ddb9" date="2008-11-28 22:18:32"/>
-		<rom name="SCIKQ5.EXE" size="140288" crc="1233be6b" md5="0e9d8e924b808190bdcc5eb0afda4cae" sha1="ff7e2c4769ad3ceefa764f56163623e3a0fac816" date="2008-11-28 22:18:34"/>
 		<rom name="SIERRA.EXE" size="138499" crc="027971c8" md5="f522bb440dab01136a38af7bf6dad566" sha1="0f76941134d3ee79448f4f5681374c696eac28f3" date="2008-11-28 22:18:34"/>
 		<rom name="STD.DRV" size="1461" crc="11b619e7" md5="440e21abb5e32bd34cfc37296d901075" sha1="24ac5d7391758d7efd62d9980a9a074db1544c6a" date="2008-11-28 22:18:32"/>
 		<rom name="TANDY3V.DRV" size="3950" crc="cecb955a" md5="b74d9234485643bb9808782b2f1b6462" sha1="ac03d8195e47a8488cfbce5708fc3eb98304d0ca" date="2008-11-28 22:18:34"/>
 		<rom name="VERSION" size="11" crc="f98e5250" md5="8ce08a5279071c36664c670498c1cf8b" sha1="2c42ee569efd03208dc15617724ea21c9a644cb2" date="2008-11-28 22:18:32"/>
 		<rom name="VGA320.DRV" size="5846" crc="2172aaf7" md5="11a56d54ddd7fb04183c96e7be86f32e" sha1="2836496d69371fbd5c7530730f673e93538f28d6" date="2008-11-28 22:18:34"/>
 		<rom name="VGA320BW.DRV" size="5909" crc="3e86fb97" md5="19b0952dd361e349ba04e8bc1ea71a58" sha1="1034a05f7506ebd68624bd137e7b14488a77197e" date="2008-11-28 22:18:32"/>
-		<rom name="WINRES.CFG" size="203" crc="015d36a0" md5="54fae233c87479c95aa319da63bbaa9b" sha1="7c75b87b6af9b972d77288259369bbdbf4ddf4dd" date="2008-11-28 22:18:34"/>
 	</game>
 	<game name="King's Quest VI - Heir Today, Gone Tomorrow (1992) (Sierra On-Line) (GOG).dosz">
 		<description>King's Quest VI - Heir Today, Gone Tomorrow</description>
