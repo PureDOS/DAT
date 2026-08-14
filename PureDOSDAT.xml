@@ -13259,11 +13259,16 @@
 	</game>
 	<game name="King's Quest II - Romancing the Throne (1985) (Sierra On-Line).dosz">
 		<description>King's Quest II - Romancing the Throne</description>
-		<comment>Installed from King's Quest - Collector's Edition CD-ROM US release</comment>
-		<comment_dosc>Auto-start</comment_dosc>
 		<year>1985</year>
 		<developer>Sierra On-Line</developer>
-		<link type="media">http://redump.org/disc/14878/</link>
+		<comment>
+			Installed from King's Quest - Collector's Edition CD-ROM US release, verified by Redump: King's Quest - Collector's Edition (USA) (En,Fr,De) (Disc 1)
+			DoDAT can build this directly from the disc image
+			Also matches with GOG
+		</comment>
+		<comment_dosc>Tandy mode and auto-start</comment_dosc>
+		<link type="media">https://redump.info/disc/14878</link>
+		<link type="store">https://www.gog.com/en/game/kings_quest_1_2_3</link>
 		<rom name="AGI" size="38400" crc="20e472e7" md5="bc1d967913f79eb9cd25f580d754ebaa" sha1="64e06e57ad9acaa89aabd1e91b58a1ada15133a9" date="1987-04-29 10:25:48"/>
 		<rom name="AGIDATA.OVL" size="7680" crc="a2732ef1" md5="b4fe83aa2dba9dc1d9c1f626b311bf62" sha1="e0d19cd51d9f42a96bffe5659963bedee67978c2" date="1987-04-21 10:58:16"/>
 		<rom name="CGA_GRAF.OVL" size="1024" crc="1a0c11ee" md5="f4ca196d6a3422372744d702bb85ebf4" sha1="daeeec1d9daf506c2d05ba4d78ff4d8d8f978504" date="1987-04-21 10:57:42"/>
