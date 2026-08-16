@@ -53575,10 +53575,16 @@
 	</game>
 	<game name="Police Quest 1 - In Pursuit of the Death Angel (1987) (Sierra On-Line).dosz">
 		<description>Police Quest 1 - In Pursuit of the Death Angel</description>
-		<comment>Installed from Redump-verified CD-ROM: Daryl F. Gates' Police Quest Collection - The 4 Most Wanted (USA, Europe) (Collection Series)</comment>
-		<comment_dosc>Auto-starts</comment_dosc>
 		<year>1987</year>
 		<developer>Sierra On-Line</developer>
+		<comment>
+			Installed from Redump-verified CD-ROM: Daryl F. Gates' Police Quest Collection - The 4 Most Wanted (USA, Europe) (Collection Series)
+			DoDAT can build this directly from the disc image
+			Also matches with GOG
+		</comment>
+		<comment_dosc>Auto-starts and sets Tandy mode</comment_dosc>
+		<link type="media">https://redump.info/disc/11719</link>
+		<link type="store">https://www.gog.com/en/game/police_quest_1_2_3_4</link>
 		<rom name="_INSTALL.BAT" size="999" crc="d0b4a941" md5="e73a62f703e52e44318fd53dad9211fa" sha1="9a3ed481865acb176426333550625e3bb7f07b5c" date="1986-12-04 09:32:54"/>
 		<rom name="AGI" size="39424" crc="40ae7b2d" md5="08c25b0fad4b6bcd10efd072e5bcf4d8" sha1="497f65a34a76b214a71b880f75a0324f047f7a44" date="1986-12-04 09:33:04"/>
 		<rom name="AGIDATA.OVL" size="8192" crc="477bd79b" md5="d83459a8643dfc67b4629ec4afe64e13" sha1="9e424ed24e967c8efb889be832ac3c2d4d01d79c" date="1986-12-01 08:49:20"/>
@@ -53590,14 +53596,12 @@
 		<rom name="HGC_GRAF.OVL" size="1536" crc="7c999ac8" md5="8eb68e541e8ea93da96c7fc4cfde7f3f" sha1="91297527bb4515749bc5f118e2d992d21ddf5fdd" date="1986-12-01 08:48:48"/>
 		<rom name="HGC_OBJS.OVL" size="1024" crc="4232dbd7" md5="a8f5aabf72ed3d4165038275faf8b527" sha1="09b09152b40c394abe835b68bf91bf352f7d2ced" date="1986-12-01 08:48:52"/>
 		<rom name="IBM_OBJS.OVL" size="512" crc="a0a04da4" md5="119949f12a5fc14a082794350c19118b" sha1="3df9134a95fc2690d9ef0c7a6d37ec0bac732944" date="1986-12-01 08:48:50"/>
-		<rom name="INSTALL.BAT" size="1244" crc="f771e742" md5="1fa440bb51ea80dac30ef0f8cf39a9f0" sha1="ebb0e133ea04b86f9fa8130cd1eba8241bd851bd" date="1997-04-04 00:32:46"/>
 		<rom name="JR_GRAF.OVL" size="512" crc="dc361ea6" md5="4488067df5a7201e34ee3b01252e9860" sha1="067bae84c84badc4028bfe2d21da6dac5ebad2c2" date="1986-12-01 08:48:46"/>
 		<rom name="LOGDIR" size="360" crc="0e851173" md5="d194e5d88363095f55d5096b8e32fbbb" sha1="bfc5df20b046d9e7d9f1f535e50cc49f788bf6ec" date="1986-12-03 09:40:14"/>
 		<rom name="OBJECT" size="369" crc="8b985ad2" md5="c444971d4558f102a82b3130868010b4" sha1="dbf5579e5234c65fd00a4b3e59421b670ed9ce9c" date="1986-10-23 17:00:04"/>
 		<rom name="PICDIR" size="351" crc="5bf41c35" md5="60cbfd91b9e77ad0baa22f0b73987838" sha1="328f695d61844eb22a423cd66a6522bfeda8536b" date="1986-12-03 09:40:14"/>
 		<rom name="POPDIR.COM" size="768" crc="7647ea26" md5="e99d7d6353d40d3c48405c909bc60ef0" sha1="ca6827d5c0928c6ae76e1cba801d765c07b10bd0" date="1986-05-12 17:40:30"/>
 		<rom name="PQ.COM" size="3115" crc="9d4eb9a4" md5="cfba95c625738ce2a8ee796b82d45743" sha1="f922c6c5252793a0e76621de2ea0457c8de5c65d" date="1986-11-16 13:32:06"/>
-		<rom name="PQ1.BAT" size="32" crc="7b564e69" md5="fc554c291bfe51d0864a0f524282df91" sha1="d2189cfe3ff86318012c5187e33cb1ec709ca410" date="1997-04-07 02:21:14"/>
 		<rom name="PUSHDIR.COM" size="768" crc="251276dd" md5="c8493f1e50fda27a3de66573a4715ec1" sha1="ca471bffbc73d92d585e54f309a0d87d016f96f8" date="1986-05-12 17:39:06"/>
 		<rom name="SNDDIR" size="126" crc="89a3a183" md5="ed489e4f8647af2b956d08ee78b4ff42" sha1="4f8dd3f65034927030289011c9f21afe4c19c793" date="1986-12-03 09:40:14"/>
 		<rom name="VG_GRAF.OVL" size="512" crc="ca491b69" md5="df5f5263d61e250495c249002c6210a1" sha1="64f946e03fcbaab4519d556add173d89325367c2" date="1986-12-01 08:48:50"/>
