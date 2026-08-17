@@ -19178,10 +19178,10 @@
 	</game>
 	<game name="Police Quest 2 - The Vengeance (1988) (Sierra On-Line) (GOG).dosz">
 		<description>Police Quest 2 - The Vengeance</description>
-		<comment_dosc>Auto-starts</comment_dosc>
 		<year>1988</year>
 		<developer>Sierra On-Line</developer>
 		<variant>GOG</variant>
+		<comment_dosc>Auto-starts, reduces game speed, enables direct mouse, required RESOURCE.CFG file, MT-32 and General MIDI options</comment_dosc>
 		<link type="store">https://www.gog.com/en/game/police_quest_1_2_3_4</link>
 		<rom name="ADL.DRV" size="8803" crc="8319830d" md5="d403b96d2d893acddef45f36ea6067f8" sha1="393a0a653a4fbfd2852eb309024bfab48043730a"/>
 		<rom name="CGA320BW.DRV" size="2017" crc="053f0464" md5="67237a44391ea20481cd85bf3dd39620" sha1="7223a79409be087c11a7d2a7f7691285a4af7a73"/>
@@ -19209,8 +19209,8 @@
 		<rom name="RESOURCE.001" size="509525" crc="f80f8f4c" md5="0c87664580a815da5e1ab2298cbcaf1d" sha1="c987e7efeb7c0451ed5be39fffca273405d7aa8f"/>
 		<rom name="RESOURCE.002" size="546000" crc="9cca08d1" md5="97d059b05148925766197cb51f68a80f" sha1="abd8cc565f57e8322007905cdd18fe46ca53b77c"/>
 		<rom name="RESOURCE.003" size="591851" crc="08725d0b" md5="580bf2e76ddee1a65d9e75de7428af15" sha1="47e43a5bedbd357d13b43e48c6cb2fa4b5347509"/>
-		<rom name="RESOURCE.CFG" size="87" crc="07125abd" md5="06c2669ac476f6ccb6f3ad935998c18e" sha1="ce68fa4df5fcc2cacda5cb15599aa0ab17095233"/>
-		<rom name="RESOURCE.IN~" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2018-03-09 17:04:20"/>
+		<rom name="RESOURCE.CFG" size="87" crc="07125abd" md5="06c2669ac476f6ccb6f3ad935998c18e" sha1="ce68fa4df5fcc2cacda5cb15599aa0ab17095233" data="W10NCnZpZGVvRHJ2PUVHQTMyMC5EUlYNCmtiZERydj1JQk1LQkQuRFJWDQpzb3VuZERydj1BREwuRFJWDQpqb3lEcnY9Tk8NCm1vdXNlRHJ2PVlFUw0K"/>
+		<rom name="RESOURCE.IN~" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="RESOURCE.MAP" size="4584" crc="f2716703" md5="28a6f471c7900c2c92da40eecb615d9d" sha1="6156624362d191b6e1d9a1a8bab27c8c4aba8eb5"/>
 		<rom name="SCIV.EXE" size="74915" crc="93b922ae" md5="81adf3b31bf4e5907bdf0fcfee4e6de3" sha1="5d9dcbdd149f589a550f1416fde99730d547592d"/>
 		<rom name="SIERRA.COM" size="538" crc="0d3eab36" md5="48e6faeb6af8e540fed0523f17ec4c0d" sha1="7929b8884810aad1ac234fba46769837b609aa14"/>

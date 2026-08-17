@@ -53675,10 +53675,14 @@
 	</game>
 	<game name="Police Quest 2 - The Vengeance (1988) (Sierra On-Line).dosz">
 		<description>Police Quest 2 - The Vengeance</description>
-		<comment>Installed from Redump-verified CD-ROM: Daryl F. Gates' Police Quest Collection - The 4 Most Wanted (USA, Europe) (Collection Series)</comment>
-		<comment_dosc>Auto-starts</comment_dosc>
 		<year>1988</year>
 		<developer>Sierra On-Line</developer>
+		<comment>
+			Installed from Redump-verified CD-ROM: Daryl F. Gates' Police Quest Collection - The 4 Most Wanted (USA, Europe) (Collection Series)
+			DoDAT can build this directly from the disc image
+		</comment>
+		<comment_dosc>Auto-starts, reduces game speed, enables direct mouse, config, and MT-32 option</comment_dosc>
+		<link type="media">https://redump.info/disc/11719</link>
 		<rom name="__INSTH.BAT" size="837" crc="995e3a34" md5="e7f6c683a91934c1f80dda754c4af7b3" sha1="7261beb68697ee2c7d19eb163c1eaa6d492d515e" date="1988-04-20 11:05:08"/>
 		<rom name="ADL.DRV" size="8803" crc="8319830d" md5="d403b96d2d893acddef45f36ea6067f8" sha1="393a0a653a4fbfd2852eb309024bfab48043730a" date="1988-03-13 10:54:48"/>
 		<rom name="CGA320BW.DRV" size="2017" crc="053f0464" md5="67237a44391ea20481cd85bf3dd39620" sha1="7223a79409be087c11a7d2a7f7691285a4af7a73" date="1988-03-13 11:35:52"/>
