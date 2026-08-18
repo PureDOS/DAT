@@ -14806,39 +14806,39 @@
 		<year>1987</year>
 		<developer>Sierra On-Line</developer>
 		<comment>
-			Installed from Redump-verified CD-ROM: Daryl F. Gates' Police Quest Collection - The 4 Most Wanted (USA, Europe) (Collection Series)
-			DoDAT can build this directly from the disc image
+			Installed from floppy disks matching with TDC#23 entry: Police Quest- In Pursuit of the Death Angel v2.0g (1987)(Sierra On-Line, Inc.) [IMA][720k][!]
+			Also matches with TDC#23 entry: Police Quest- In Pursuit of the Death Angel v2.0g [a1] (1987)(Sierra On-Line, Inc.) [Adventure]
+			Can also be installed from Redump-verified CD-ROM: Daryl F. Gates' Police Quest Collection - The 4 Most Wanted (USA, Europe) (Collection Series)
+			DoDAT can build this directly from the CD image, but not the floppy disk images
 			Also matches with GOG
 		</comment>
 		<comment_dosc>Auto-starts and sets Tandy mode</comment_dosc>
+		<link type="media">https://puredos.github.io/dat-browser/?/Police+Quest-+In+Pursuit+of+the+Death+Angel+v2.0g+(1987)(Sierra+On-Line,+Inc.)+%5BIMA%5D%5B720k%5D%5B!%5D</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Police+Quest-+In+Pursuit+of+the+Death+Angel+v2.0g+%5Ba1%5D+(1987)(Sierra+On-Line,+Inc.)+%5BAdventure%5D</link>
 		<link type="media">https://redump.info/disc/11719</link>
 		<link type="store">https://www.gog.com/en/game/police_quest_1_2_3_4</link>
-		<rom name="_INSTALL.BAT" size="999" crc="d0b4a941" md5="e73a62f703e52e44318fd53dad9211fa" sha1="9a3ed481865acb176426333550625e3bb7f07b5c" date="1986-12-04 09:32:54"/>
-		<rom name="AGI" size="39424" crc="40ae7b2d" md5="08c25b0fad4b6bcd10efd072e5bcf4d8" sha1="497f65a34a76b214a71b880f75a0324f047f7a44" date="1986-12-04 09:33:04"/>
-		<rom name="AGIDATA.OVL" size="8192" crc="477bd79b" md5="d83459a8643dfc67b4629ec4afe64e13" sha1="9e424ed24e967c8efb889be832ac3c2d4d01d79c" date="1986-12-01 08:49:20"/>
-		<rom name="CGA_GRAF.OVL" size="1024" crc="838c18ac" md5="e34849e963efdcc942b67ee9bf5c1533" sha1="65bf46b1dc6917c302de523fe39f227218ef46e4" date="1986-12-01 08:48:44"/>
-		<rom name="EGA_GRAF.OVL" size="1024" crc="67e8b0ad" md5="714c88fa15b8327c585b86f3e619b068" sha1="8343b987ce1d288b15eddd32e9f1068189965c21" date="1986-12-01 08:48:46"/>
-		<rom name="EXISTS.COM" size="574" crc="b1c59e17" md5="61f35eec8998802abe2118b26e0c9cfa" sha1="e33cef86c2782b7ef43870c8c290790d98dd51c4" date="1987-09-10 14:52:42"/>
-		<rom name="GODIR.COM" size="507" crc="71a2c71f" md5="28d7efe8c850bfb52231fc58567e25cc" sha1="734188659a6264826bdd404e1e414a0b9d4daa85" date="1988-09-05 10:24:00"/>
-		<rom name="HGC_FONT" size="3072" crc="200435c7" md5="f3d4c66e195491aa759b7c5ef996488b" sha1="fee5e93395ff4f922c26c4a8f687d8517fd96fd0" date="1986-01-26 15:47:26"/>
-		<rom name="HGC_GRAF.OVL" size="1536" crc="7c999ac8" md5="8eb68e541e8ea93da96c7fc4cfde7f3f" sha1="91297527bb4515749bc5f118e2d992d21ddf5fdd" date="1986-12-01 08:48:48"/>
-		<rom name="HGC_OBJS.OVL" size="1024" crc="4232dbd7" md5="a8f5aabf72ed3d4165038275faf8b527" sha1="09b09152b40c394abe835b68bf91bf352f7d2ced" date="1986-12-01 08:48:52"/>
-		<rom name="IBM_OBJS.OVL" size="512" crc="a0a04da4" md5="119949f12a5fc14a082794350c19118b" sha1="3df9134a95fc2690d9ef0c7a6d37ec0bac732944" date="1986-12-01 08:48:50"/>
-		<rom name="JR_GRAF.OVL" size="512" crc="dc361ea6" md5="4488067df5a7201e34ee3b01252e9860" sha1="067bae84c84badc4028bfe2d21da6dac5ebad2c2" date="1986-12-01 08:48:46"/>
-		<rom name="LOGDIR" size="360" crc="0e851173" md5="d194e5d88363095f55d5096b8e32fbbb" sha1="bfc5df20b046d9e7d9f1f535e50cc49f788bf6ec" date="1986-12-03 09:40:14"/>
-		<rom name="OBJECT" size="369" crc="8b985ad2" md5="c444971d4558f102a82b3130868010b4" sha1="dbf5579e5234c65fd00a4b3e59421b670ed9ce9c" date="1986-10-23 17:00:04"/>
-		<rom name="PICDIR" size="351" crc="5bf41c35" md5="60cbfd91b9e77ad0baa22f0b73987838" sha1="328f695d61844eb22a423cd66a6522bfeda8536b" date="1986-12-03 09:40:14"/>
-		<rom name="POPDIR.COM" size="768" crc="7647ea26" md5="e99d7d6353d40d3c48405c909bc60ef0" sha1="ca6827d5c0928c6ae76e1cba801d765c07b10bd0" date="1986-05-12 17:40:30"/>
-		<rom name="PQ.COM" size="3115" crc="9d4eb9a4" md5="cfba95c625738ce2a8ee796b82d45743" sha1="f922c6c5252793a0e76621de2ea0457c8de5c65d" date="1986-11-16 13:32:06"/>
-		<rom name="PUSHDIR.COM" size="768" crc="251276dd" md5="c8493f1e50fda27a3de66573a4715ec1" sha1="ca471bffbc73d92d585e54f309a0d87d016f96f8" date="1986-05-12 17:39:06"/>
-		<rom name="SNDDIR" size="126" crc="89a3a183" md5="ed489e4f8647af2b956d08ee78b4ff42" sha1="4f8dd3f65034927030289011c9f21afe4c19c793" date="1986-12-03 09:40:14"/>
-		<rom name="VG_GRAF.OVL" size="512" crc="ca491b69" md5="df5f5263d61e250495c249002c6210a1" sha1="64f946e03fcbaab4519d556add173d89325367c2" date="1986-12-01 08:48:50"/>
-		<rom name="VIEWDIR" size="768" crc="8a93212e" md5="631d6539348d489c2f4f84a6d1c58e08" sha1="b286bee204242acf802ecee3217fe88a49efb3de" date="1986-12-03 09:40:14"/>
-		<rom name="VOL.0" size="66869" crc="82eaf402" md5="4d44bf0e438ba7c0b05c17be4dea36c5" sha1="e9bb52063f9b99bba8c1c092a0b1189c2ea44df6" date="1986-12-03 09:37:26"/>
-		<rom name="VOL.1" size="384591" crc="9c5f96fa" md5="a4ef57c5cc9542a7b53288f58d600964" sha1="26be13fba7f8c6f82e17e1c53dfe9c499a66d46c" date="1986-12-03 09:39:06"/>
-		<rom name="VOL.2" size="250262" crc="76f042f1" md5="d3b130e92661ab0793b3d9101700c004" sha1="c0741cf39d305de743f36c41084c8f4dd72c0ee1" date="1986-12-03 09:40:14"/>
-		<rom name="WHAT.EXE" size="3170" crc="6b71137c" md5="e78b5d342f77badf9f807d07a8e01cc8" sha1="9a892246c42aeb358ab999120bc6a0eddd294925" date="1987-07-31 01:00:00"/>
-		<rom name="WORDS.TOK" size="6737" crc="666de107" md5="0db29ac32f2cbb1d26c0e29f812f5fd2" sha1="635fbf6fc3428fe759fa0ca5c97b9a78f5ebb15a" date="1986-10-23 17:00:06"/>
+		<rom name="_INSTALL.BAT" size="999" crc="d0b4a941" md5="e73a62f703e52e44318fd53dad9211fa" sha1="9a3ed481865acb176426333550625e3bb7f07b5c" date="1987-12-04 09:32:54"/>
+		<rom name="AGI" size="39424" crc="40ae7b2d" md5="08c25b0fad4b6bcd10efd072e5bcf4d8" sha1="497f65a34a76b214a71b880f75a0324f047f7a44" date="1987-12-04 09:33:04"/>
+		<rom name="AGIDATA.OVL" size="8192" crc="477bd79b" md5="d83459a8643dfc67b4629ec4afe64e13" sha1="9e424ed24e967c8efb889be832ac3c2d4d01d79c" date="1987-12-01 08:49:20"/>
+		<rom name="CGA_GRAF.OVL" size="1024" crc="838c18ac" md5="e34849e963efdcc942b67ee9bf5c1533" sha1="65bf46b1dc6917c302de523fe39f227218ef46e4" date="1987-12-01 08:48:44"/>
+		<rom name="EGA_GRAF.OVL" size="1024" crc="67e8b0ad" md5="714c88fa15b8327c585b86f3e619b068" sha1="8343b987ce1d288b15eddd32e9f1068189965c21" date="1987-12-01 08:48:46"/>
+		<rom name="HGC_FONT" size="3072" crc="200435c7" md5="f3d4c66e195491aa759b7c5ef996488b" sha1="fee5e93395ff4f922c26c4a8f687d8517fd96fd0" date="1987-01-26 15:47:26"/>
+		<rom name="HGC_GRAF.OVL" size="1536" crc="7c999ac8" md5="8eb68e541e8ea93da96c7fc4cfde7f3f" sha1="91297527bb4515749bc5f118e2d992d21ddf5fdd" date="1987-12-01 08:48:48"/>
+		<rom name="HGC_OBJS.OVL" size="1024" crc="4232dbd7" md5="a8f5aabf72ed3d4165038275faf8b527" sha1="09b09152b40c394abe835b68bf91bf352f7d2ced" date="1987-12-01 08:48:52"/>
+		<rom name="IBM_OBJS.OVL" size="512" crc="a0a04da4" md5="119949f12a5fc14a082794350c19118b" sha1="3df9134a95fc2690d9ef0c7a6d37ec0bac732944" date="1987-12-01 08:48:50"/>
+		<rom name="JR_GRAF.OVL" size="512" crc="dc361ea6" md5="4488067df5a7201e34ee3b01252e9860" sha1="067bae84c84badc4028bfe2d21da6dac5ebad2c2" date="1987-12-01 08:48:46"/>
+		<rom name="LOGDIR" size="360" crc="0e851173" md5="d194e5d88363095f55d5096b8e32fbbb" sha1="bfc5df20b046d9e7d9f1f535e50cc49f788bf6ec" date="1987-12-03 09:40:14"/>
+		<rom name="OBJECT" size="369" crc="8b985ad2" md5="c444971d4558f102a82b3130868010b4" sha1="dbf5579e5234c65fd00a4b3e59421b670ed9ce9c" date="1987-10-23 17:00:04"/>
+		<rom name="PICDIR" size="351" crc="5bf41c35" md5="60cbfd91b9e77ad0baa22f0b73987838" sha1="328f695d61844eb22a423cd66a6522bfeda8536b" date="1987-12-03 09:40:14"/>
+		<rom name="PQ.COM" size="3115" crc="9d4eb9a4" md5="cfba95c625738ce2a8ee796b82d45743" sha1="f922c6c5252793a0e76621de2ea0457c8de5c65d" date="1987-11-16 13:32:06"/>
+		<rom name="SNDDIR" size="126" crc="89a3a183" md5="ed489e4f8647af2b956d08ee78b4ff42" sha1="4f8dd3f65034927030289011c9f21afe4c19c793" date="1987-12-03 09:40:14"/>
+		<rom name="VG_GRAF.OVL" size="512" crc="ca491b69" md5="df5f5263d61e250495c249002c6210a1" sha1="64f946e03fcbaab4519d556add173d89325367c2" date="1987-12-01 08:48:50"/>
+		<rom name="VIEWDIR" size="768" crc="8a93212e" md5="631d6539348d489c2f4f84a6d1c58e08" sha1="b286bee204242acf802ecee3217fe88a49efb3de" date="1987-12-03 09:40:14"/>
+		<rom name="VOL.0" size="66869" crc="82eaf402" md5="4d44bf0e438ba7c0b05c17be4dea36c5" sha1="e9bb52063f9b99bba8c1c092a0b1189c2ea44df6" date="1987-12-03 09:37:26"/>
+		<rom name="VOL.1" size="384591" crc="9c5f96fa" md5="a4ef57c5cc9542a7b53288f58d600964" sha1="26be13fba7f8c6f82e17e1c53dfe9c499a66d46c" date="1987-12-03 09:39:06"/>
+		<rom name="VOL.2" size="250262" crc="76f042f1" md5="d3b130e92661ab0793b3d9101700c004" sha1="c0741cf39d305de743f36c41084c8f4dd72c0ee1" date="1987-12-03 09:40:14"/>
+		<rom name="VOL.3" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1987-12-04 09:28:38"/>
+		<rom name="WORDS.TOK" size="6737" crc="666de107" md5="0db29ac32f2cbb1d26c0e29f812f5fd2" sha1="635fbf6fc3428fe759fa0ca5c97b9a78f5ebb15a" date="1987-10-23 17:00:06"/>
 	</game>
 	<game name="Powerslave (1996) (Lobotomy Software).dosz">
 		<description>Powerslave</description>
