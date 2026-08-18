@@ -18172,10 +18172,10 @@
 	</game>
 	<game name="Police Quest - SWAT (1995) (Sierra On-Line) (GOG).dosz">
 		<description>Police Quest - SWAT</description>
-		<comment_dosc>Auto-start</comment_dosc>
 		<year>1995</year>
 		<developer>Sierra On-Line</developer>
 		<variant>GOG</variant>
+		<comment_dosc>Auto-start and required RESOURCE.CFG file</comment_dosc>
 		<link type="store">https://www.gog.com/en/game/police_quest_swat_1_2</link>
 		<rom name="DACBLAST.DRV" size="4404" crc="253e5a22" md5="58954b91b7e677d4d61bcb4842b04d9b" sha1="04baf400bc3d85cf35085a2f7bf79fca2cad61a9"/>
 		<rom name="DACMSSYS.DRV" size="2447" crc="88001895" md5="d38731b19c332cb88a0789cf91330bf6" sha1="8fff709c294cb100ecac0ede5897dc05c6eb64ec"/>
@@ -18189,7 +18189,6 @@
 		<rom name="INSTALL.HLP" size="21747" crc="d0a87b17" md5="5c32f4440df4ad932d036b3908feb613" sha1="d9d772cd77a6e15042d51ea36f080252fc39e2b7"/>
 		<rom name="INSTALL.SCR" size="3490" crc="92a1a956" md5="0baa64d986c1b27d4d509cc6b8e0e164" sha1="6fa5d4c260080503b494ca603dc8386ff35beea2"/>
 		<rom name="INSTALL.TXT" size="9590" crc="eba20f31" md5="de8f1f93678f6c928628b87b4a102838" sha1="a1d4a8935c1affff4a43f5a75f7e04f79e00aa6a"/>
-		<rom name="license.txt" size="15869" crc="6fe7eca2" md5="5c797d134fd1a26ece19c4e9d01a33b3" sha1="8f92ed08b764e2d3a75aa0639c98177514236dbd"/>
 		<rom name="MIDNONE.DRV" size="10427" crc="a21ad12c" md5="6447a122d198fea2715888a4a537429c" sha1="cb2680f695047d24106740e175e8775120f8c4ee"/>
 		<rom name="PATCHES/0.HEP" size="3316" crc="601a80d8" md5="08f25bddb34ae166c975ca43fb4bff19" sha1="ea86ba0e2dccd589bafaca95b054e32a9b41c984"/>
 		<rom name="PATCHES/0.SCR" size="9208" crc="c0a46a78" md5="f34d8c436180fa6ea79be221447acb29" sha1="a2c1c7de25a430927d8dd46fe7ba7a06bfa4f2cc"/>
@@ -18268,7 +18267,7 @@
 		<rom name="README.TXT" size="4134" crc="87135c4e" md5="7d3e0f3aec4ef7ef690ad5ee1e984d71" sha1="a506fdebc2d43e36dcd8846754c379949964dfb6"/>
 		<rom name="RESMAP.000" size="12175" crc="ad893afe" md5="62d5f44e6b7f15cf53559ee64c06a6a3" sha1="f470fe206603768b84bec46d75a4f10a5f65cf71"/>
 		<rom name="RESOURCE.AUD" size="256899026" crc="a66497b4" md5="c4192d4c3b10cbf1d61a6f876a96eb0a" sha1="be3df2bf5537c6eda224a1de21de89b1cdb5324e"/>
-		<rom name="RESOURCE.CFG" size="579" crc="7a059169" md5="100463fa1c08ef2fcf4e2bbd39eb2fa3" sha1="cee2645e1b22be6521f57339b997761a5f892c40"/>
+		<rom name="RESOURCE.CFG" size="579" crc="7a059169" md5="100463fa1c08ef2fcf4e2bbd39eb2fa3" sha1="cee2645e1b22be6521f57339b997761a5f892c40" data="IHZpZGVvRHJ2ICAgICA9IFZFU0EuRFJWDQogc291bmREcnYgICAgID0gTUlETk9ORS5EUlYNCiBhdWRpb0RydiAgICAgPSBEQUNCTEFTVC5EUlYNCiBqb3lEcnYgICAgICAgPSBOTw0KIGRpcmVjdG9yeSAgICA9IC5cDQogbWluQ1BVICAgICAgID0gNDg2DQogbWluRE9TICAgICAgID0gNTAwDQogbW9kZSAgICAgICAgID0gcHJvdGVjdGVkDQogQ1BVICAgICAgICAgID0gNDg2DQogQ1BVU3BlZWQgICAgID0gNjMNCiBWaWRlb1NwZWVkICAgPSA0MDANCiBtb3VzZURydiAgICAgPSBOT05FDQogbWVtb3J5RHJ2ICAgID0gTk9ORQ0KIGxhbmd1YWdlICAgICA9IDENCiBtYXhtZW1vcnkgICAgPSAxMm0NCiBzdGF0aWNtZW1vcnkgPSAzMDBrDQogY21kICAgICAgICAgID0gc3dhdC5iYXQNCiBDRCAgICAgICAgICAgPSBubw0KIHNtYXJ0ZHJ2ICAgICA9IHllcw0KDQogcmVzYXVkICAgICAgID0gLlwgDQogcmVzbWFwICAgICAgID0gLlwgDQogcmVzc2Z4ICAgICAgID0gLlwgDQogcGF0Y2hEaXIgICAgID0gLlw7LlxQQVRDSEVTDQogcm9ib3QgICAgICAgID0gLlw7LlxST0JPVFMNCiBtb3ZpZURpciAgICAgPSAuXDsuXFZNRA0K"/>
 		<rom name="RESOURCE.SFX" size="33461184" crc="a73360b6" md5="3176fa8a0707ee829efa54a9eb61928f" sha1="12717044a6e75597ee4f9c155d26420685743ffe"/>
 		<rom name="RESSCI.000" size="127149181" crc="25ee8211" md5="8a897bb9bbe0a1ae16041a34255fe3aa" sha1="e37229a5b6a48a421d64dd352745f850f9d1b7f6"/>
 		<rom name="ROBOTS/10301.RBT" size="446805" crc="30178cf4" md5="89c36576b969f674b265b9d578353145" sha1="6cfe821cc53ae7022c58022224335722fbef5638"/>
@@ -18721,8 +18720,6 @@
 		<rom name="ROBOTS/GAMEDAT.SHP" size="342" crc="b0548d03" md5="4b75161a6f9d7e9797d9711d03062e14" sha1="a0cdc527f3b5a69b6d22c249b308c5532f00cc2d"/>
 		<rom name="SIERRA.ERR" size="8475" crc="7969cc00" md5="4d9122131775e6349c3c8b6574ec612c" sha1="6c4c90770f853b6d2a6c90111a1aa42f6a9b1e24"/>
 		<rom name="SIERRAH.EXE" size="836040" crc="8b203a72" md5="4052338d26015dfd4c26f8659d04add0" sha1="9e88c9bd0586cf359c7c2961f7bd004608518279"/>
-		<rom name="SWAT.ICO" size="766" crc="673b0f50" md5="aaeb1a36150ff49ad00edfc3f019457a" sha1="fa6f40420d7265e02e83a61ac82558bb73e22e45"/>
-		<rom name="SWAT1.ICO" size="766" crc="32b87d01" md5="c34e1d7d7e2afd214cc87d2eee59d60d" sha1="6259dfacc53aa45d1cbf8bb2be720d8c03ad135b"/>
 		<rom name="VERSION" size="8" crc="c3a90e23" md5="e52df0d961541724cd7e8c8139191b24" sha1="e4120e2109dc45c04b1ea34579f0331b1c620f52"/>
 		<rom name="VESA.DRV" size="35" crc="d3c60945" md5="8b6220a473e9a6c0f7a8ec471a401782" sha1="2526f8324466ea58c69b67e4412b1e6153a25f14"/>
 		<rom name="VMD/10315.VMD" size="1677785" crc="33cc19df" md5="c75f0ce8d3e3103c98afa48f466a1d41" sha1="41a762a02cf8571e9ac13f7fc3d216b56464ec24"/>
