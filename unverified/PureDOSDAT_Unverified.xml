@@ -37221,14 +37221,16 @@
 		<rom name="WALLPAPR.BMP" size="308198" crc="d629e2d0" md5="60cece4088f25afa69d3159cff132ee4" sha1="731d41663ca88d50c9b623cc311a2f863fc9d952" date="1996-10-08 14:56:06"/>
 		<rom name="WPLARRY.BMP" size="308198" crc="d629e2d0" md5="60cece4088f25afa69d3159cff132ee4" sha1="731d41663ca88d50c9b623cc311a2f863fc9d952" date="1996-10-08 14:56:10"/>
 	</game>
-	<game name="Leisure Suit Larry Goes Looking for Love (In Several Wrong Places) (1988) (Siera On-Line).dosz">
-		<description>Leisure Suit Larry Goes Looking for Love</description>
-		<comment>Installed from Redump-verified CD-ROM: Leisure Suit Larry - Collection Series (Disc 1)</comment>
-		<comment_dosc>Auto-starts</comment_dosc>
+	<game name="Leisure Suit Larry Goes Looking for Love in Several Wrong Places (1988) (Sierra On-Line).dosz">
+		<description>Leisure Suit Larry Goes Looking for Love in Several Wrong Places</description>
 		<year>1988</year>
-		<developer>In Several Wrong Places</developer>
-		<variant>Siera On-Line</variant>
-		<link type="media">http://redump.org/disc/2212/</link>
+		<developer>Sierra On-Line</developer>
+		<comment>
+			Installed from Redump-verified CD-ROM: Leisure Suit Larry - Collection Series (Disc 1)
+			DoDAT can build this directly from the disc image
+		</comment>
+		<comment_dosc>Auto-starts, enables direct mouse, config, and MT-32 option</comment_dosc>
+		<link type="media">https://redump.info/disc/2212</link>
 		<rom name="ADL.DRV" size="5857" crc="ae656423" md5="21f64bc7c93ab076dd9ddeaaf3f2d68e" sha1="b73e3551d330a718fdb3ae5264bbe9a5354b6fcc" date="1988-11-16 15:34:18"/>
 		<rom name="EGA320.DRV" size="1952" crc="f6658b70" md5="db81455566405696e9aa7cc67d799e53" sha1="420715262955e014370501abbbdda37c5668f0a4" date="1988-09-15 17:29:32"/>
 		<rom name="IBMKBD.DRV" size="442" crc="3d43a22c" md5="4c8ba6d382b01dbf5f4036df03aab0b2" sha1="e757dfcbb7ab2d8a2b3c1bce1f86c1d77b0f3466" date="1988-09-09 17:59:58"/>
@@ -37237,7 +37239,6 @@
 		<rom name="INSTALL.SCR" size="997" crc="d7219e51" md5="c956f1ee3471d5d0e130e117c6723172" sha1="1b556ab1ed47fa7a9d67c68b26e4c74a45b3cf4a" date="1994-12-05 11:41:20"/>
 		<rom name="INSTALL.TXT" size="9501" crc="d4bce6c5" md5="c959ec0cbe3be152ac9586d95745b0d2" sha1="6f2f38de945e117e96a5459981d90e0717532d9d" date="1993-12-20 17:30:24"/>
 		<rom name="JOYSTICK.DRV" size="494" crc="5da73437" md5="330447e04fc6fd3cfa013256b7ab6a95" sha1="fe0eb1eace862eaaa972390ddf7ff0bf21fbcfd6" date="1988-09-09 13:54:04"/>
-		<rom name="LSL2.BAT" size="41" crc="958bfa76" md5="988a52e3fdb2ae9ce66246f6bca5226b" sha1="c368ffb7b5df0d979c3b0a6613e40124e40f835a"/>
 		<rom name="MT32.DRV" size="2539" crc="b1b6d83f" md5="7a2d54648e6c56780fa4b0b06e7ac1df" sha1="7f452906e59e5f6545b355f181b61901368a1d74" date="1988-11-16 15:35:18"/>
 		<rom name="RESOURCE.001" size="143847" crc="bcaeb1da" md5="7e4cda3116e21b02be269429d497786a" sha1="0467f7fd8cf95d033ff99fdc0943d02ff28c0ec4" date="1989-01-11 15:55:44"/>
 		<rom name="RESOURCE.002" size="348331" crc="7807636d" md5="a9c5c1d5693477d00c1083634f8da8cf" sha1="472e9bd1cba8ac9db2c9f401e4cbd2571901c6db" date="1989-01-11 15:56:44"/>
