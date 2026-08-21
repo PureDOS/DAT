@@ -17321,13 +17321,21 @@
 		<description>Codename - ICEMAN</description>
 		<year>1989</year>
 		<developer>Sierra On-Line</developer>
-		<comment>Installed from 4 3.5" floppy disks matching The Good Old Days ID: 1132</comment>
+		<comment>
+			Installed from 4 3.5" floppy disks matching The Good Old Days ID: 1132
+			Can also be installed from floppy disks matching TDC#23 entry: Code-Name- Iceman v1.033 (1989)(Sierra On-Line, Inc.) [IMA][720k]
+			DoDAT can build this directly from the disk images
+			Also matches with GOG
+		</comment>
 		<comment_dosc>
 			Auto start
+			Direct mouse enabled
 			Configuration file
 			MT-32 sound option
 		</comment_dosc>
 		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1132</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Code-Name-+Iceman+v1.033+(1989)(Sierra+On-Line,+Inc.)+%5BIMA%5D%5B720k%5D</link>
+		<link type="store">https://www.gog.com/en/game/codename_iceman</link>
 		<rom name="ADL.DRV" size="9778" crc="9f2cea3f" md5="e022fac068d78e62b21a1cc938a2f450" sha1="9ff3c144724819c7cd3bb2c773daab7332cc4beb" date="1990-01-31 12:47:24"/>
 		<rom name="CGA320C.DRV" size="2376" crc="9e4650ff" md5="5a8ab7f0b418cb2b4e37dfb0c1b5082e" sha1="8999f30182b87bcbcfeab51bbf74fe5d842da9e7" date="1989-03-13 12:35:42"/>
 		<rom name="CGA320M.DRV" size="2029" crc="4f711b2c" md5="820e5c97ea0ec931ffce90b6048af2aa" sha1="e67143c8fb1d22ee7a67c5663a00414264d42c61" date="1989-09-20 09:38:50"/>
