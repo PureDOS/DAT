@@ -29142,6 +29142,55 @@
 		<rom name="WDOORR.PIX" size="2892" crc="a43aa7ac" md5="98ff726f07ab584c5beecf91461ca7fb" sha1="bef7e25f2d475cda4b9069cc31936b0ae001428a" date="1989-11-11 13:41:36"/>
 		<rom name="WHERO.PIX" size="8511" crc="6d936590" md5="2b74504708cc479d31b299ae55d6e973" sha1="84664806be660738763f9f2858e647334e4028b3" date="1989-12-03 15:24:46"/>
 	</game>
+		<game name="Human Killing Machine (1988) (Tiertex Ltd.).dosz">
+		<description>Human Killing Machine (1988) (Tiertex Ltd.)</description>
+       		<year>1988</year>
+        	<developer>Tiertex Ltd.</developer>
+		<comment>renamed to HKM.CO_ to HKM.COM and replaced the original fixed HKM.COM due to the dosc file automatically choosing EGA making the fix not necessary, everything else matches Human Killing Machine [f1] (1989)(U.S. Gold Ltd.) [Action]</comment>
+		<comment_dosc>cpu_year set to 1984, run_input set to 13 to automatically choose EGA graphics and keyboard controls, included several input_pad to customize controls</comment_dosc>
+		<link type="media">https://puredos.github.io/dat-browser/?/Human+Killing+Machine+%5Bf1%5D+(1989)(U.S.+Gold+Ltd.)+%5BAction%5D</link>
+		<rom name="AMSTERDA.CMP" size="27024" crc="842eb084" md5="ab39e0ca6e7c1002253a6408257aba4b" sha1="32f355895988e7640c4eb2d1fe276b16da766f40" date="1989-03-01 12:41:20"/>
+		<rom name="B.DSK" size="4" crc="8e23f281" md5="fc3359989c77f860890548d7160dac4b" sha1="eb698e1ea254980b9e6966043b83b645c83f339a" date="1989-03-02 11:49:38"/>
+		<rom name="BERUIT.CMP" size="31222" crc="d69cb3cf" md5="cafb72774c8f993e8f9ac1863281a650" sha1="093f2e7386bdc59b04906283ad82539fea439a43" date="1989-03-01 12:41:54"/>
+		<rom name="BULL.CMP" size="16002" crc="79234713" md5="c82a1cbca8f7c84c851072b7ecaaee3b" sha1="6e1a036b894d4472317b33380473666c357c581e" date="1989-03-02 10:49:36"/>
+		<rom name="C.DSK" size="4" crc="8e23f281" md5="fc3359989c77f860890548d7160dac4b" sha1="eb698e1ea254980b9e6966043b83b645c83f339a" date="1989-03-02 11:55:58"/>
+		<rom name="CGAAMST.CMP" size="13792" crc="c4aabd3a" md5="99e6f76ec1a09c10d762e94fc3f00794" sha1="384f5ebf2a2c0b6ce8446521427eb45c05060fe3" date="1989-03-01 17:25:34"/>
+		<rom name="CGABERU.CMP" size="14756" crc="2bdc3b4e" md5="ae15be3e531f9628c9d8e3b576c95883" sha1="00847d7ef86af62dfab8c4c0c9144b5d4d38fa57" date="1989-03-01 17:26:10"/>
+		<rom name="CGABULL.CMP" size="15308" crc="873d71ae" md5="60f2c63cf0b76e80460dd5cf49f4b702" sha1="521d9aa1527b4d18a0d7810a01739efb8ad06a04" date="1989-03-01 12:45:06"/>
+		<rom name="CGAFRANZ.CMP" size="17720" crc="9b14b7a3" md5="fa4626c479012025b89d25f0fdac53d8" sha1="bc756acb72e31dfc7def4fda38b5fe78065c6c8e" date="1989-03-01 12:45:30"/>
+		<rom name="CGAGERM.CMP" size="13876" crc="16e94a06" md5="e3a9e06f6a566e6a23817c9e0be474e8" sha1="96b1c5caeec03c6e762c10dcff4c1bc7bbb78770" date="1989-03-01 17:25:58"/>
+		<rom name="CGAHANS.CMP" size="18228" crc="1874df8e" md5="d7919af17c9ea3f619ca8026cc22220f" sha1="f25ab3ee49ae8f7c5424621452b196917dc8455f" date="1989-03-01 12:45:18"/>
+		<rom name="CGAHELGA.CMP" size="16614" crc="d5a7365d" md5="6afb03089404ebd11cea4606be1ee393" sha1="e43c7d2412e831c5765a01c0dd80416c62489173" date="1989-03-01 12:44:28"/>
+		<rom name="CGAHISC.CMP" size="9168" crc="047f13e2" md5="d1d8036d4c0209a362a85dad7900234a" sha1="7218870d9df8502e02eb33d6573d9403c0144e5d" date="1989-03-01 12:51:50"/>
+		<rom name="CGAIGOR.CMP" size="18344" crc="10b1fa5e" md5="2c9d31d2037036b3d395252c42be5588" sha1="64da295acec793220334f183276411275c904066" date="1989-03-01 12:43:24"/>
+		<rom name="CGAKWON.CMP" size="24066" crc="e7be7e27" md5="ea2ef97f116c1ccf22151879f60df74e" sha1="5b279ee62640ca39060fd384865b6cbe9e4d79a7" date="1989-03-01 12:42:32"/>
+		<rom name="CGALOAD.CMP" size="12800" crc="94de8d76" md5="5f1db249fef31233c2e0993adc737775" sha1="ff71382935014329127d37848ebaae137e5c353a" date="1989-03-01 17:25:08"/>
+		<rom name="CGAMARIA.CMP" size="20946" crc="8ef98add" md5="1b59b2c42801b7bdbbd5781fdfdd5e9e" sha1="4793654e3e1a4d7934c52661a5654ee4a2a5304b" date="1989-03-01 12:44:16"/>
+		<rom name="CGAMERK.CMP" size="17674" crc="d7ecc384" md5="8598e3bdacd4bf56bedfbe2411a60ac1" sha1="32c98f32db816280e1cddf4663d9b78656a0a50c" date="1989-03-01 12:45:52"/>
+		<rom name="CGAMIGUE.CMP" size="18096" crc="0e0c5086" md5="54c4bdd9a18b1405bd98de351f3c7572" sha1="a4483ac95c044940e4b38431cd96d232719c3ca2" date="1989-03-01 12:44:54"/>
+		<rom name="CGAOVER.CMP" size="9768" crc="43f8441a" md5="fc51d069e753bfb0668a6cec4784d5fe" sha1="2a146ee9f9dbce74196ce2bf0c779c00d773ead7" date="1989-03-01 17:24:56"/>
+		<rom name="CGARUSS.CMP" size="13974" crc="ba07e4fd" md5="438a288373ebc7d2f14da2a98a0ee190" sha1="ed5546dfcaffde1db6ff63d3ee9844bd8626d211" date="1989-03-01 17:25:22"/>
+		<rom name="CGASAGAN.CMP" size="16260" crc="3f31b4ff" md5="4884f0087af4c4cf19b23ebff387390b" sha1="ef994abcd5bac87f694b9f96f67463e01191d33b" date="1989-03-01 12:45:40"/>
+		<rom name="CGASHEP.CMP" size="10426" crc="cb0c7af2" md5="6996bf4bf1cba83119c03c9ca8fdb4e1" sha1="4fa76ccabb368c5456f978aea137665bea4d51a2" date="1989-03-01 12:42:54"/>
+		<rom name="CGASPAI.CMP" size="14630" crc="0adb04e1" md5="dc7578efb99b56de5216f5fb65bcb7ef" sha1="d0aff379232aabd2a4a692b57773e1226e6b091a" date="1989-03-01 17:25:46"/>
+		<rom name="FRANZ.CMP" size="17508" crc="7b73a3ed" md5="e8523df1a5a107b9c7c0b3b5406479f3" sha1="4bc5d361d60387c0def33abedb81a647bdac2bf2" date="1989-03-01 12:40:10"/>
+		<rom name="GERMANY.CMP" size="29178" crc="7faa29ce" md5="fecc033726e990c97e34f2bd44869d42" sha1="711c98046a654905a1c8f6eb60ba9f91c504938f" date="1989-03-01 12:41:40"/>
+		<rom name="HANS.CMP" size="18836" crc="b317319b" md5="8adad9e68480003fa491051b3c291afd" sha1="9b973b5916232253c54fe4d8571be896f90687e3" date="1989-03-01 12:39:58"/>
+		<rom name="HELGA.CMP" size="16672" crc="44598ede" md5="96c90176dd5e6ed3251e3d17b7a44f9b" sha1="57ed2f07759209ed8d5e1e304f6903bde672c00b" date="1989-03-02 10:23:14"/>
+		<rom name="HISCORE.CMP" size="15580" crc="a9d46f54" md5="401090745764b5d5fecc1dfe710f6153" sha1="de927fb947e47589a3c65661712da7ad973fa6f5" date="1989-03-02 11:00:08"/>
+		<rom name="HKM.COM" size="17575" crc="fa62fb6c" md5="7fad1844590cc52decfe0c38401872ea" sha1="2e0d8bf6f3750e3344d4dda4b201fbea71a0bafa" date="1989-06-21 14:17:32"/>
+		<rom name="IGOR.CMP" size="18576" crc="33affbfd" md5="d94fe9b22e2d4738596e0cf1b6000e1c" sha1="32e2c84b31694f5b87b3e1ad25d472c6ae0a377f" date="1989-03-01 12:34:28"/>
+		<rom name="KWON.CMP" size="23336" crc="a2a8c051" md5="2183b818d44382d6ff7fc2b4c882d459" sha1="2485cd2c8e9efd2eefdbdc1bce003cb84602961d" date="1989-03-01 12:33:10"/>
+		<rom name="LOAD.CMP" size="24446" crc="b95d9d1d" md5="50c2ed1ef02cc519bc8051af64c84f6c" sha1="13dd52aed136a371d12c629ed2c7147275fa5e1f" date="1989-03-02 10:20:00"/>
+		<rom name="MARIA.CMP" size="19926" crc="ab67ca9f" md5="4015a399c69dfe7ba60ae74f2355c030" sha1="53cb048c36917a94fb36adc8d0412e71ca6acdad" date="1989-03-01 12:38:14"/>
+		<rom name="MERK.CMP" size="18510" crc="1d2d157a" md5="2abb6ecd03ea1e6ff6ede1084a6c513d" sha1="35c682a65eafa7008253cdab5e34fd81d9ff2068" date="1989-03-01 12:40:36"/>
+		<rom name="MIGUEL.CMP" size="16604" crc="13ab4f2a" md5="49aeefaa14615471377597bd00e89593" sha1="54fd28740830e2f7413e3426f1d7937a00c979e6" date="1989-03-01 12:38:38"/>
+		<rom name="OVER.CMP" size="21520" crc="bc7f693a" md5="bdc679ab87ca1ed80e9a184582675d70" sha1="f3a518ea4c641ece5a094037f34399186151b79a" date="1989-03-01 12:50:34"/>
+		<rom name="RUSSIA.CMP" size="31016" crc="751d7ec6" md5="6a6b1267d2b434f54cad2d4f5678de4a" sha1="bcc363ce09b909d6f41ca583973ebb39074c8aaa" date="1989-03-01 12:41:06"/>
+		<rom name="SAGAN.CMP" size="15998" crc="3d493424" md5="bc92e0a5d31aece6d54d0213f29433bb" sha1="1165a6ec6d9d0b640b90518d36426e47efa533b4" date="1989-03-01 12:40:24"/>
+		<rom name="SHEP.CMP" size="9700" crc="3793761a" md5="810deea1f7bfc213f3d2bffb698d2a16" sha1="acd2ff6888400f9db74e8a9ea101a9ad46b2acfe" date="1989-03-02 10:54:10"/>
+		<rom name="SPAIN.CMP" size="28682" crc="e34dd9b7" md5="1c930cec71e4d5d1da126aa213d44a90" sha1="1f52feecf6646e6bb5370cabd1d26ee6307a7446" date="1989-03-01 12:41:28"/>
+	</game>
 	<game name="I Can't Believe It's Not... Bomberman (1999) (Dodgy Posse).dosz">
 		<description>I Can't Believe It's Not... Bomberman</description>
 		<year>1999</year>
