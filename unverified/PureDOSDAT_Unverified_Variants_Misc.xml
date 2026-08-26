@@ -478,7 +478,7 @@
 		<year>1991</year>
 		<developer>Sierra On-Line</developer>
 		<variant>CD Recycled</variant>
-		<comment>Installed v1.1 of the EcoQuest 1 - CD Recycled restoration and bugfix patch</comment>
+		<comment>Installed v1.1 of the EcoQuest 1 - CD Recycled restoration and bugfix patch. Instructions for installing base game are in the main dat file</comment>
 		<link type="patch">https://github.com/Doomlazer/EQ1-CDR</link>
 		<rom name="1.P56" size="56174" crc="ed926238" md5="1895a691ecec34228ff3e0f47f7adbec" sha1="18aaa5a59ac89269dc71be311b3ff736bbfb30cf" date="2023-05-11 15:28:00"/>
 		<rom name="100.HEP" size="1480" crc="9e699db6" md5="75214fadaf008d80bbbfdd2a1062a4f2" sha1="4a48916b0dc9437593f885d265f370c9d782774a" date="2023-05-11 15:28:00"/>
@@ -764,8 +764,8 @@
 		<rom name="GENMIDI.DRV" size="2577" crc="84e600f6" md5="c20aac86b729e51980737033020ecb6f" sha1="664346063f25bbcb3904fd83ca8a519c2b6087ce" date="1992-04-30 13:07:40"/>
 		<rom name="IBMKBD.DRV" size="564" crc="a3355ab9" md5="c85f0400af5f5026d1c7b262622ecdf5" sha1="7028d1235fa2d51895f0a5d4f638caa0df13ab3f" date="1991-08-09 16:45:16"/>
 		<rom name="IBMPS1.DRV" size="4364" crc="e68d2b5a" md5="aec6877788054d30f6cef198483f1fa7" sha1="37ee465b8ef34350faff9a095e7ac18525d5a880" date="1991-10-21 14:38:08"/>
-		<rom name="INSTALL.BAT" size="9" crc="51c920a6" md5="a02df0cb40ee554c886683004a125303" sha1="532ba7909bd625872a2206c0f63244f506f8943c" date="1995-09-18 18:00:28"/>
 		<rom name="INSTALL.EX$" size="103141" crc="044b8a83" md5="8d6b0331e508b0f21962659771a984f1" sha1="b6f47b2b48de4961a28975d66401c66796da5d7d" date="1992-06-03 02:46:56"/>
+		<rom name="INSTALL.EXE" size="333049" crc="480471c9" md5="f3b30122b4fc94f530e961c49363b529" sha1="98067d84d83a211bf128833c9cbcd17c1fda387a" date="1992-12-08 11:14:34"/>
 		<rom name="INSTALL.HLP" size="17555" crc="1067fec2" md5="6f7f08c4e82a98338b56345c6750b45f" sha1="11c5926ae4e6bf2b6d8ce7c772d9e8616bedb625" date="1992-11-20 11:03:52"/>
 		<rom name="INSTALL.INI" size="152" crc="ab941618" md5="7d3c2072c90fee36774fabde1ebb0d71" sha1="1846c383079dc2c9b4537fe42da01968183c9e3e" date="1993-03-09 15:46:34"/>
 		<rom name="INSTALL.INS" size="7264" crc="2c9d521d" md5="6728f96c09ef9ae81f7af540010f27f4" sha1="2b0d5eb7997b03ecbd17d48b727e51bbedb48e84" date="1993-03-02 15:24:26"/>
@@ -777,10 +777,9 @@
 		<rom name="JOYSTICK.DRV" size="607" crc="baeddd01" md5="c75b73974160ff652a909a0d01f97214" sha1="bc843d1164e8262349454664740dfa5a5d4f1618" date="1991-07-01 09:05:54"/>
 		<rom name="MT32.DRV" size="1977" crc="de47f2f4" md5="b4cf2b9f8d1ef8dc623fda6ecf9b629c" sha1="771718c7670daae9f25801a0d6b8a1e83c213b4d" date="1991-06-13 15:29:52"/>
 		<rom name="PROAUDIO.DRV" size="9909" crc="10226ead" md5="184fbf00cfb5cf1f6ef43982a9045d56" sha1="cdbc8c1c8918527344b9c6b3eee8002cd5b6d8b9" date="1993-03-03 14:31:08"/>
-		<rom name="README" size="12781" crc="21478494" md5="2d4a089a462635a476d1154ec018757f" sha1="abc4c519de77dc119fdaa2be36f3fa4d8d1b2195" date="1995-09-18 17:59:32"/>
 		<rom name="RESOURCE.000" size="3536046" crc="1593e181" md5="76ef3912ce484081f1bf063f26f3f638" sha1="c3dc90445b658f25beef00cc5a059b9b552151e7" date="1993-03-17 20:21:14"/>
 		<rom name="RESOURCE.AUD" size="305187924" crc="c3b3fa64" md5="c83fdc129980a255211264de2a18c3e9" sha1="f9950db9c67416433a0dea6c7e744ddb12fc7cb3" date="1993-03-14 09:07:40"/>
-		<rom name="RESOURCE.CFG" size="244" crc="bcabb1ac" md5="5cee70fabd6fb507c6da00318d02cb9c" sha1="772d162ba1905fa7becf2221d6aa350076690ca2"/>
+		<rom name="RESOURCE.CFG" size="244" crc="bcabb1ac" md5="5cee70fabd6fb507c6da00318d02cb9c" sha1="772d162ba1905fa7becf2221d6aa350076690ca2" data="IHZpZGVvRHJ2ICA9IFZHQTMyMC5EUlYNCiBzb3VuZERydiAgPSBBREwuRFJWDQogYXVkaW9EcnYgID0gQVVEQkxBU1QuRFJWDQogam95RHJ2ICAgID0gTk8NCiBrYmREcnYgICAgPSBJQk1LQkQuRFJWDQogbW91c2VEcnYgID0gU1RETU9VU0UuRFJWDQogbWVtb3J5RHJ2ID0gQVJNLkRSVg0KIGRpcmVjdG9yeSA9IFxTSUVSUkFcRUNPDQogYXVkaW9TaXplID0gMzJrDQogbWluSHVuayAgID0gMjA5Sw0KDQogDQphdWRpbz1DOlwNCg=="/>
 		<rom name="RESOURCE.MAP" size="4804" crc="2fe7b676" md5="a4b73d5d2b55bdb6e44345e99c8fbdd0" sha1="d7ef3c03d21f70ee4ca46352199934f74b0d228d" date="1993-03-17 20:21:16"/>
 		<rom name="SIERRA.EXE" size="67960" crc="4ec77630" md5="4eaeb845ddfe56b925a9f5ac8f133134" sha1="f40293323222f59effc771945b9a6bd02e8723d6" date="1992-12-08 14:18:00"/>
 		<rom name="STD.DRV" size="1481" crc="578efe57" md5="aa444eeb77bc162d0ee52379df408358" sha1="bdc955928878536bc2bd664eec8f9968483e2c0f" date="1993-03-17 10:37:54"/>
