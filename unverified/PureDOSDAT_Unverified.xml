@@ -695,25 +695,6 @@
 		<rom name="TECH_INF.TXT" size="2305" crc="ce83118b" md5="4295e87a8ebeb0eccfaf2900645e6cde" sha1="5e6f4b8acc7b039bd6b20b52317c7a848d488380" date="1999-12-31 16:00:00"/>
 		<rom name="TIPS.TXT" size="1596" crc="97412996" md5="b394b221271ce6d8329d7b9c66ac92a5" sha1="1b946e298973a5d4de44ac059e43f7bcc81abf5e" date="1999-12-31 16:00:00"/>
 	</game>
-	<game name="Adventures of Willy Beamish, The (1991) (Dynamix).dosz">
-		<description>Adventures of Willy Beamish, The</description>
-		<comment>
-			Installed using Redump-verified CD-ROM: Adventures of Willy Beamish, The (USA)
-			Default installation options
-			Music: Sound Blaster Card
-			Mouse: Use Microsoft compatible mouse
-			Memory: Use your machine's extra memory
-			Change C:\dynamix\wcd\resource.cfg to C:\wcd\resource.cfg in WILLY.BAT
-		</comment>
-		<comment_dosc>Sets CPU year to 1991, mounts disc, and auto-starts</comment_dosc>
-		<year>1991</year>
-		<developer>Dynamix</developer>
-		<link type="media">http://redump.org/disc/14772/</link>
-		<rom name="Adventures of Willy Beamish, The (USA).chd" size="434001024" crc="2a69568d" md5="01f09a3c1aa766d016baac3c1de412c4" sha1="63f7e95f9bd9237742481d9fe2ed586b821d8ecb">
-			<track number="1" type="MODE1_RAW" frames="177244" pregap="0" duration="39:23:19" size="416877888" crc="ad28138b" md5="58d6f39d8968593ee9838b5a099d32f0" sha1="383e84686022a8bac4dab38c0495d4d6b1972cf5"/>
-		</rom>
-		<rom name="WILLY.BAT" size="45" crc="fb748e84" md5="61d882c11676115f7ec60269865b2058" sha1="664850618f46ecdeb7b8e6215079e86e014c28e8"/>
-	</game>
 	<game name="Al-Qadim - The Genie's Curse (1994) (Cyberlore Studios).dosz">
 		<description>Al-Qadim - The Genie's Curse</description>
 		<comment>Installed from Redump-verified CD-ROM: Al-Qadim - The Genie's Curse (USA)</comment>
