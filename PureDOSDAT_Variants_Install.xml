@@ -10,6 +10,21 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
 	</header>
+	<game name="Adventures of Willy Beamish, The (1991) (Dynamix) (Installation).dosz">
+		<description>Adventures of Willy Beamish, The</description>
+		<year>1991</year>
+		<developer>Dynamix</developer>
+		<variant>Installation</variant>
+		<comment>
+			Redump-verified CD-ROM: Adventures of Willy Beamish, The (USA)
+			Also matches with TDC#23 entry: Adventures of Willy Beamish, The v1.000 (1992)(Sierra On-Line, Inc.) [bin-cue]
+		</comment>
+		<link type="media">https://redump.info/disc/14772</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Adventures+of+Willy+Beamish,+The+v1.000+(1992)(Sierra+On-Line,+Inc.)+%5Bbin-cue%5D</link>
+		<rom name="Adventures of Willy Beamish, The (USA).chd" size="434001024" crc="2a69568d" md5="01f09a3c1aa766d016baac3c1de412c4" sha1="63f7e95f9bd9237742481d9fe2ed586b821d8ecb">
+			<track number="1" type="MODE1_RAW" frames="177244" duration="39:23:19" size="416877888" crc="ad28138b" md5="58d6f39d8968593ee9838b5a099d32f0" sha1="383e84686022a8bac4dab38c0495d4d6b1972cf5"/>
+		</rom>
+	</game>
 	<game name="Alien Breed (1993) (Team 17) (Installation).dosz">
 		<description>Alien Breed</description>
 		<comment>Disk image that matches The Good Old Days ID:708</comment>
