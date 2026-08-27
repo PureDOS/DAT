@@ -704,6 +704,37 @@
 		<rom name="symbols" size="17392" crc="85897b39" md5="369a624623b9501c4510de2c787e821d" sha1="49e051ef4939d3a862e57a86edcdba047e292ba2" date="2023-02-15 13:58:52"/>
 		<rom name="sysconf" size="3780" crc="6d25eeb2" md5="3a6dbb6257d4d915241b6b96e52e9cfa" sha1="4ea24c41271fd7bc7461b38acb46ee0cf26360ae" date="2023-02-15 13:58:52"/>
 	</game>
+	<game name="Nibbler (2003) (Chris Allen).dosz">
+		<description>Nibbler</description>
+		<year>2003</year>
+		<developer>Chris Allen</developer>
+		<comment>Comes with a file, NIB.CFG, for in-game options but not required to run, will create after editing an option.</comment>
+		<link type="media">https://puredos.github.io/tdc-browser/?/23/Nibbler+(2003)(Chris+Allen)+%5BAction%5D</link>
+		<rom name="BG.ART" size="74782" crc="e36ac4a4" md5="04d71ab6658b65a3ab51dc001915ba29" sha1="8fcdfcb0fd3bb07e481336a7642fd9155eea569d"/>
+		<rom name="BOSS1.ART" size="9961" crc="053eee78" md5="372a0ba24c0009f4498196e6f3944bb0" sha1="02f9405184874217e8bc82cd3d278dbfecb8da04"/>
+		<rom name="CUTSCENE.ART" size="59210" crc="2e76abc9" md5="4112a3a5145aa685d286bcd38b4aca41" sha1="0aed3906f7ccc089f779b2fada135303b0719d8a"/>
+		<rom name="d1.rec" size="385" crc="c26db3c9" md5="7ec9434bc189f653eb0ae22bb39db474" sha1="d675013d992a5d0cdddea399c16f4d0e3a917dde"/>
+		<rom name="d2.rec" size="403" crc="dcc52aaf" md5="881cd694a2c43de6946fa28bb30c02f0" sha1="e163b999961567aac51997719b568f3466bf42c2"/>
+		<rom name="d3.rec" size="277" crc="1bccfc7d" md5="78341eccace2108bc44b6c9cea37a9af" sha1="bbe98262ecbc3c704895bb55eb98b765298aa199"/>
+		<rom name="E1.NGR" size="10698" crc="30ad855a" md5="890b505ee41f7f0af9de99c32d95db4d" sha1="202e08fb0b4a8cef418c4081563cd9a8a760e38b"/>
+		<rom name="EXTRA.NGR" size="10726" crc="43ff7769" md5="29bff6bff63f8f224e647e5bea5df5a6" sha1="4a483b48b94723cc2d7f6b1f7fba1dc93d32f394"/>
+		<rom name="FILE.000" size="118238" crc="c864cf07" md5="66af47b2597682a2a205e6cb46b034ea" sha1="d92662ee2a1cc54f0015a2566c78c10e1f7adc53"/>
+		<rom name="MASTER.ART" size="102698" crc="fc58abba" md5="a22ff648a3461a2f13fefb02003f0b4d" sha1="ec6e6227bf18f4e5025bcb07222ef87e01ac5cfe"/>
+		<rom name="MATRIX.VAL" size="10752" crc="24bc7355" md5="158b108c6826f513ecb236fa953601ed" sha1="2d9ed9ab59778d206ac066ae23aee6244384881b"/>
+		<rom name="MENU.ART" size="28879" crc="e8937f14" md5="cfdbe1597c55254cf77bffa350545b89" sha1="58a27fd411ce45746c4607d48bb5cb6b866b7060"/>
+		<rom name="NIB.AI" size="40818" crc="e1347b3f" md5="650b52921d1b489af099909e0cf92ea3" sha1="f7d05a716879b4cdf7d7c7427372471839f06958"/>
+		<rom name="NIB.PAL" size="768" crc="feeaa156" md5="90bd71e620f4057d2327714627e54bb8" sha1="14ac52fcc297a5694ce387d590a5d56e34cabcdd"/>
+		<rom name="NIBBLER.EXE" size="119976" crc="b94c363c" md5="7a066879572bc7816f6d815a8a95fa61" sha1="2b87d38f570c7c2ee3e2f305006d2616c8275d9b"/>
+		<rom name="NIBFONT.FNT" size="868" crc="c5d6156c" md5="39472880b5040b01108fdcf2a60da460" sha1="93175d56b47f2f3ec4c080d4e54793eced49bcd2"/>
+		<rom name="NIBSOUND.SRF" size="221567" crc="ad336669" md5="0d647d81f82b57ad9dfb565074eeae73" sha1="23a3e423a28fb2cc1d2418cb19f201b1c632e6ae"/>
+		<rom name="ORIGINAL.NGR" size="14623" crc="c443ad31" md5="f22cbc3255b115cf0f72ca3cd44f726c" sha1="0383867c45667f2861a5767c4588f0248cd1ddb0"/>
+		<rom name="PALS.VAL" size="3584" crc="6189b83b" md5="54ab46d9c4ab6d950787f66de113cc55" sha1="f8778daab2b4e9a271f5046060945e2fff9bbb6f"/>
+		<rom name="PTABLE.VAL" size="2029" crc="e949a7c2" md5="c1df1dfbe42271b1175d00088054dba5" sha1="c772de4d5a431f7f1321cefe0e4c5486e93a9b0b"/>
+		<rom name="SAMPLE.NIB" size="283" crc="54931173" md5="7657418ef376ea10bdb3f173e5077565" sha1="7f2ffa7de802ac96ac4b99ac519062cf8576de2f"/>
+		<rom name="SIXSIGMA.NIB" size="624" crc="5cc99eaa" md5="d2681f26be8ec864a97a582dc6145a51" sha1="cee17732b8d7c0b169946790548662580866fcab"/>
+		<rom name="TITLE.DAT" size="64000" crc="d5cbe16a" md5="bd3492fd2b60edccac6b2a0a71d93d21" sha1="608ef492e54433cc010566cb01e865175701731b"/>
+		<rom name="TRIG2.VAL" size="1427" crc="2ddd056d" md5="be32bb91c7e32c222cb09a33de36f5fb" sha1="82fa61f07da8f3c83774b4da3afe9d1df9a2f6c2"/>
+	</game>
 	<game name="Noctis IV Plus (2001) (Alessandro Ghignola).dosz">
 		<description>Noctis IV Plus</description>
 		<year>2001</year>
