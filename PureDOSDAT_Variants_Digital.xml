@@ -4385,9 +4385,9 @@
 			And edit line 8 to:
 				 directory = .\
 			(1 space in front, no spaces after)
-			The required RESOURCE.CFG is also in the DOSC, and it has embedded data below
+			The required RESOURCE.CFG can also be created by DoDAT or ExtractDATEmbeds using the embedded data
 		</comment>
-		<comment_dosc>Required config file, direct mouse enabled, and auto-start. MT-32 and General MIDI options</comment_dosc>
+		<comment_dosc>Direct mouse enabled and auto-start. MT-32 and General MIDI options</comment_dosc>
 		<link type="store">https://www.gog.com/en/game/kings_quest_4_5_6</link>
 		<rom name="420.HEP" size="1472" crc="ce0cc83a" md5="dde8709ca90893b3ac55cc7b3d008ef7" sha1="87591b74ec985c21c09da8b0f2773448af07d86b" date="2008-11-28 22:20:54"/>
 		<rom name="420.SCR" size="5862" crc="be1217b7" md5="1c549b41410190bcfef7727bf8ca65b8" sha1="b207269ffea467eddbc5898edbdcaecebddaaf48" date="2008-11-28 22:20:56"/>

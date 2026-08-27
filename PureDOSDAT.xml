@@ -13430,12 +13430,12 @@
 			Afterwards, edit line 8 in RESOURCE.CFG to:
 				 directory = .\
 			(1 space at the beginning, no spaces at the end)
-			Required correct RESOURCE.CFG can also be found in the DOSC, and it has embedded data below.
+			Required correct RESOURCE.CFG can also be created by DoDAT or ExtractDATEmbeds using the embedded data.
 			Needs VGA320.DRV from the Gabriel Knight Demo to fix stuttering during the intro video.
 			DoDAT can build this directly from the disc image + Gabriel Knight demo files.
 		</comment>
-		<comment_dosc>Audio config with MT-32 and General MIDI launch options, direct mouse enabled, and auto-start</comment_dosc>
-		<link type="media">http://redump.org/disc/81021/</link>
+		<comment_dosc>MT-32 and General MIDI launch options, direct mouse enabled, and auto-start</comment_dosc>
+		<link type="media">https://redump.info/disc/81021</link>
 		<link type="driver">https://archive.org/details/GabrielKnightSinsoftheFathers_1020</link>
 		<rom name="CD/King's Quest - Collector's Edition (USA) (Disc 2) (Track 1).bin" size="551885040" crc="b16b325a" md5="fb17363152424a733ccaee87b390ced6" sha1="d46f2698261575a974b9902a712ac6a8c977d3cf">
 			<source type="MODE1_RAW" frames="234645" duration="52:08:45"/>
