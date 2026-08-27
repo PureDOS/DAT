@@ -13474,12 +13474,29 @@
 		<year>1994</year>
 		<developer>Sierra On-Line</developer>
 		<comment>
-			Files copied from version 2.00b CD-ROM US release.
-			Required correct RESOURCE.CFG and KQ7DOS.BAT can be found in the DOSC, and they also have embedded data below.
+			Installed and extracted from version 2.00b CD-ROM US release, verified by Redump: King's Quest VII - The Princeless Bride (USA) (v2.00b)
+			CD also matches with TDC#23 entry: Roberta Williams' King's Quest VII- The Princeless Bride v2.00b (1995)(Sierra On-Line, Inc.) [bin-cue]
+			Installation options:
+				Drive: C: (Default)
+				Music: Sound Blaster Pro
+				Audio: Sound Blaster (Default)
+				Directory: C:\SIERRA\KQ7DOS (Default)
+				Performance Enhancement: Use 100 megs
+			Then in RESOURCE.CFG:
+				Edit "directory = \sierra\kq7dos" to "directory = .\"
+				Edit "resMap=D:;C:\sierra\kq7dos " to "resMap=.\"
+				Edit "resAUD=D: " to "resAUD=.\"
+				Edit "resSFX=D: " to "resSFX=.\"
+				Edit "patchDir=C:\sierra\kq7dos;D:;D:\AVI " to "patchDir=.\;.\AVI"
+				Edit "robot=D:\AVI " to "robot=.\AVI"
+			Edit or create KQ7DOS.BAT with one line:
+				sierra -o resource.cfg
+			Required correct RESOURCE.CFG and KQ7DOS.BAT can also be created by DoDAT or ExtractDATEmbeds using the embedded data.
 			DoDAT can build this directly from the disc image.
 		</comment>
-		<comment_dosc>Audio config with MT-32 and General MIDI launch options, direct mouse enabled, and auto-start</comment_dosc>
+		<comment_dosc>MT-32 and General MIDI launch options, direct mouse enabled, and auto-start</comment_dosc>
 		<link type="media">https://redump.info/disc/11214</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Roberta+Williams%27+King%27s+Quest+VII-+The+Princeless+Bride+v2.00b+(1995)(Sierra+On-Line,+Inc.)+%5Bbin-cue%5D</link>
 		<rom name="0.CHK" size="144978" crc="8dd03bc4" md5="abc45a09c1011aa9f6897b8d2e4d2cdc" sha1="c9d8c5ac6f5edc3b3bff6161defd1984ecd0c03d" date="1995-05-25 10:18:24"/>
 		<rom name="30.HEP" size="1174" crc="622a4365" md5="94d4180ea5915f9685c6172c43c2a76d" sha1="0939c4ec5abbdfa3423f516c49f339230f31cb1f" date="1995-09-21 13:07:00"/>
 		<rom name="30.SCR" size="1682" crc="6f68f607" md5="a8f2f480bafd2fc22d95bdd052bb7f2c" sha1="f481887865fadf9e7698c51b15b97cb603de05bd" date="1995-09-21 13:07:00"/>
@@ -13517,7 +13534,7 @@
 		<rom name="README.BAT" size="14" crc="90549934" md5="b00182bf4b8941eedabd424d7c4031eb" sha1="5bd9dff2c0f719bbea78ef327fa1d27e26069d63" date="1995-03-09 12:57:54"/>
 		<rom name="RESOURCE.000" size="200764100" crc="78e28641" md5="b0752e9374384bb0d0fa39b6b8b444ef" sha1="17e5b2725deae88d88f41dddcb8a5616be57e9d8" date="1995-05-25 12:16:16"/>
 		<rom name="RESOURCE.AUD" size="217716879" crc="6854cf65" md5="ee3c2ee1994fe61c70f26bacbd34a7c8" sha1="85b150a70c374922e135c8b1dc0e28931a9c45b2" date="1994-11-22 10:48:16"/>
-		<rom name="RESOURCE.CFG" size="323" crc="ed45f8e9" md5="f15be39e0d88e4947e41ebda55268c9d" sha1="11abd299828dc99012e532bdcfd80420359d5b86" data="dmlkZW9EcnYgID0gVkVTQS5EUlYNCnNvdW5kRHJ2ICA9IFNCUFJPLkRSVg0KYXVkaW9EcnYgID0gREFDQkxBU1QuRFJWDQpqb3lEcnYgICAgPSBOTw0KZGlyZWN0b3J5ID0gLlwNCiBjbWQgICAgICAgPSBLUTdET1MNCiBtb3VzZURydiAgPSBOT05FDQogbWVtb3J5RHJ2ID0gTk9ORQ0KIG1pbk1lbW9yeSA9IDE2MDBrDQogYnJpZ2h0bmVzcz0gMA0KIGxhbmd1YWdlICA9IDENCiBtaW5DUFUgICAgPSAzODYNCiBDRCAgICAgICAgPSB5ZXMNCiANCnJlc01hcD0uXCANCnJlc0FVRD0uXCANCnJlc1NGWD0uXCANCnBhdGNoRGlyPS5cOy5cQVZJIA0Kcm9ib3Q9LlxBVkkgDQo="/>
+		<rom name="RESOURCE.CFG" size="318" crc="545c9770" md5="b7ccff11e04555160d837150610f935b" sha1="60f4c29ddb1dbbdb1babb166e3b4c6792dc65ecc" data="dmlkZW9EcnYgID0gVkVTQS5EUlYNCnNvdW5kRHJ2ICA9IFNCUFJPLkRSVg0KYXVkaW9EcnYgID0gREFDQkxBU1QuRFJWDQpqb3lEcnYgICAgPSBOTw0KZGlyZWN0b3J5ID0gLlwNCiBjbWQgICAgICAgPSBLUTdET1MNCiBtb3VzZURydiAgPSBOT05FDQogbWVtb3J5RHJ2ID0gTk9ORQ0KIG1pbk1lbW9yeSA9IDE2MDBrDQogYnJpZ2h0bmVzcz0gMA0KIGxhbmd1YWdlICA9IDENCiBtaW5DUFUgICAgPSAzODYNCiBDRCAgICAgICAgPSB5ZXMNCiANCnJlc01hcD0uXA0KcmVzQVVEPS5cDQpyZXNTRlg9LlwNCnBhdGNoRGlyPS5cOy5cQVZJDQpyb2JvdD0uXEFWSQ0K"/>
 		<rom name="RESOURCE.MAP" size="18709" crc="f03a15e7" md5="a000858d91155b948bf3b23fa71ff79a" sha1="a634881c76aa30633d9f048af418ab669cfeb491" date="1995-05-25 12:16:16"/>
 		<rom name="RESOURCE.MDT" size="18709" crc="b768b0d9" md5="bb7184bc765725c997d6b83f750fee3a" sha1="d9f21a0a44c660f0b35535dc0c701567006ff705" date="1995-05-25 12:16:16"/>
 		<rom name="RESOURCE.SFX" size="50930358" crc="cc7c91da" md5="f3f26f7b4d4608a668e3507a96ed1387" sha1="acc32f31f65e76fe6e6f223cd1846281800f015e" date="1994-11-22 11:02:50"/>
