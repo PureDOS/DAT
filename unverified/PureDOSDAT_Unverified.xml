@@ -714,6 +714,46 @@
 		</rom>
 		<rom name="WILLY.BAT" size="45" crc="fb748e84" md5="61d882c11676115f7ec60269865b2058" sha1="664850618f46ecdeb7b8e6215079e86e014c28e8"/>
 	</game>
+	<game name="Afterlife (1996) (LucasArts).dosz">
+		<description>Afterlife</description>
+		<year>1996</year>
+		<developer>LucasArts</developer>
+		<comment>
+			Installed from Redump-verified CD-ROM: Afterlife (USA)
+			Installation options:
+				Large installation
+				Resolution: 1024x768
+				Sound card setup: Express
+					Sound card: SB 16/Awe 32/SB 32
+					Port: 220
+					IRQ: 7
+					DMA Channel: 5
+					Stereo Reverse: 0
+			After installation, replace ALIFE.000 in the install directory with ALIFE.000 from the CD
+			Then make the following changes to AFTERDOS.INI:
+				Change line 3 to CD Path        = C:\ALIFE.000
+				Change line 4 to Save games     = C:\SAVE
+		</comment>
+		<comment_dosc>
+			CPU max year set to 1996
+			Auto start
+			Configuration/batch files
+		</comment_dosc>
+		<link type="media">https://redump.info/disc/21612</link>
+		<rom name="AFTERDOS.BAT" size="154" crc="671961c0" md5="2ca233ee93960764d256d8086f6acd9c" sha1="0edb71f2f2b0e8135b0b72692f748be4291260f7" data="QGVjaG8gb2ZmDQppZiBleGlzdCAqLnN3cCBkZWwgKi5zd3ANCnNldCBET1M0R1ZNPU1BWE1FTSMxNjM4NCBTV0FQSU5DIzANCkFMSUZFRE9TLkVYRSBBRlRFUkRPUy5JTkkgJTEgJTIgJTMgJTQNCnNldCBET1M0R1ZNPQ0KaWYgZXhpc3QgKi5zd3AgZGVsICouc3dwDQoNCg=="/>
+		<rom name="AFTERDOS.INI" size="278" crc="565ebc97" md5="3aadbed56eda1fa6db41b7ebdb7101de" sha1="ee189b7342c27461498f5c387b64d3d78739432e" data="UmVzb2x1dGlvbiAgICAgPSAxMDI0eDc2OApSZXNvdXJjZSBmaWxlICA9IEFMSUZFLjAwMA0KQ0QgUGF0aCAgICAgICAgPSBDOlxBTElGRS4wMDAKU2F2ZSBnYW1lcyAgICAgPSBDOlxTQVZFCk1peGVyIENoYW5uZWxzID0gOA0KSGVhcCBzaXplICAgICAgPSAxMjAwMA0KTXVzaWMgc3RyZWFtICAgPSAyMDAwMDAsIDE1MDAwMCwgMzIwMDANClZvaWNlIHN0cmVhbSAgID0gNjUwMDAsIDQ4MDAwLCAyMjAwMA0KQklPUyAgICAgICAgICAgPSBBdXRvDQpJbnN0YWxsYXRpb24gICA9IEZ1bGwKDQo="/>
+		<rom name="ALIFE.000" size="148335487" crc="aa5cae1b" md5="7ee4ef9e49fd5decaa739eccfee43dcf" sha1="92773e285302c1ed4fbfb4a44acc9e154c7221f7" date="1996-05-27 09:51:36"/>
+		<rom name="ALIFEDOS.EXE" size="1097715" crc="88766ee4" md5="b609d73354feefe9835755c2adc9e3aa" sha1="0740b59383b79574d5c9830810647a71bee9b321" date="1996-05-30 06:04:38"/>
+		<rom name="BOOTMKR.EXE" size="56495" crc="f3ca4d77" md5="c2046519799d60996ec076d81a267445" sha1="f7493cc1a0ed582990502d046ed3b6df44c437aa" date="1996-05-24 06:48:30"/>
+		<rom name="DOS4GW.EXE" size="265420" crc="cb214447" md5="ee4033581845b3b8d28c4b7287eb4fc2" sha1="a897c7eb79145a308c4e60b43413bb2daa360506" date="1994-09-01 06:00:00"/>
+		<rom name="IMUSE.EXE" size="1720594" crc="c53d91ec" md5="6d6d2096cbe6f7f8ecea1dd6d3a7e9c8" sha1="6c36fd82073374fab3a17d8440f1f63f1b92c906" date="1996-04-25 07:40:22"/>
+		<rom name="IMUSE.INI" size="354" crc="81c9fa06" md5="3f1a1f38827c1fdcf577e580296e73a4" sha1="a1c9f9c138e5083d2faa26a1f638d9bce79b213e" data="AAAAAAAAAAAAAAAAAABTQjE2LldEUgAAAAAAAAcAAABTQkNMT05FLldEUgAAAP////////////////////8AAAAAAAAAAAAAAAAAAAAAU0IyQ0xPTkUuV0RSAAD/////////////////////AAAAAAAAAAAAAAAAAAAAAFNCUFJPLldEUgAAAAAA/////////////////////wAAAAAAAAAAAAAAAAAAAABTQjE2LldEUgAAAAAAACACAAAHAAAABQAAAAAAAAAEAAAABQAAAP//////////UEFTLldEUgAAAAAAAAD/////////////////////AAAAAAAAAAAAAAAAAAAAAFNTQ0FQRVdWLldEUgAA/////////////////////wAAAAAAAAAAAAAAAAAAAABHVVNXQVZFLldEUgAAAP////////////////////8AAAAAAAAAAAAAAAAAAAAA"/>
+		<rom name="INSTALL.BAT" size="244" crc="02ea9764" md5="dddaf95a5f7a850a0fcfbea84852b6b2" sha1="15a80dac598f707f0ec601f3e40ef1a6b73589ff" data="QGVjaG8gb2ZmDQpTRVRVUERPUy5FWEUgSU5TVEFMTC5JTkkgJTEgJTIgJTMgJTQNCmVjaG8gSWYgeW91IGhhdmUgaW5zdGFsbGVkLCB0eXBlICdBRlRFUkRPUycgdG8gcGxheSBBZnRlcmxpZmUuDQplY2hvIElmIHlvdSBoYXZlIGFueSBwcm9ibGVtcyBydW5uaW5nIEFmdGVybGlmZSwgcGxlYXNlIHJlZmVyIHRvIHRoZSBSZWFkbWUudHh0DQplY2hvIGZvciBpbnN0cnVjdGlvbnMgb24gaG93IHRvIG1ha2UgYSBib290ZGlzay4NCg=="/>
+		<rom name="INSTALL.INI" size="166" crc="8e050eaf" md5="6f09976fa9c7c161d8898fc6219e681c" sha1="2738b54a494309999ba9309a0fa61631792321a8" data="UmVzb2x1dGlvbiAgICA9IDY0MHg0ODANClJlc291cmNlIGZpbGUgPSBOb25lDQpDRCBQYXRoICAgICAgID0gQUxJRkUuMDAwDQpCSU9TICAgICAgICAgID0gQXV0bw0KSW5zdGFsbCBwYXRoICA9IEM6XEFMSUZFDQpIZWFwIHNpemUgICAgID0gMjI1MA0KU291bmQgICAgICAgICA9IE5vbmUNCg=="/>
+		<rom name="README.TXT" size="27797" crc="3cdd063d" md5="82ad7ad80b19d633a8018e62680e78dd" sha1="7e076cc95f43400e89de63816769bfd3e14aca65" date="1996-05-29 06:02:54"/>
+		<rom name="SETUPDOS.EXE" size="237693" crc="7d6acaef" md5="5afd2d3c16b6d20b7d2914bff8df9c72" sha1="b84dd8383ae34981bc10cf1c826e3e94b609143f" date="1996-05-30 06:04:46"/>
+		<rom name="UVCONFIG.EXE" size="278748" crc="15dbf8a8" md5="fa628a97d841a7806d32eb48afa22d52" sha1="63682ca22f3089c93fa627b4eb76b66f798fd71d" date="1996-04-25 08:06:18"/>
+	</game>
 	<game name="Al-Qadim - The Genie's Curse (1994) (Cyberlore Studios).dosz">
 		<description>Al-Qadim - The Genie's Curse</description>
 		<comment>Installed from Redump-verified CD-ROM: Al-Qadim - The Genie's Curse (USA)</comment>
