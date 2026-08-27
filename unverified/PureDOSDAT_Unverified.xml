@@ -28447,6 +28447,101 @@
 		<link type="media">https://www.goodolddays.net/diskimages/id%2C240/</link>
 		<rom name="disk1.img" size="204800" crc="919b3aff" md5="7378f23ecdb0fa5be76f6627eb3b5acd" sha1="037aad77c610282aca5c77dffc4548c7c4ef8394"/>
 	</game>
+	<game name="Hard Nova (1990) (Electronic Arts).dosz">
+		<description>Hard Nova</description>
+		<year>1990</year>
+		<developer>Electronic Arts</developer>
+		<comment>
+			Installed from 3.5" floppy disks matching with TGOD ID: 3249
+			Disks also match with TDC#23 entry: Hard Nova (1990)(Electronic Arts, Inc.) [IMA][720k][!]
+			Installation options:
+				VGA OR MCGA Color Graphics
+				Adlib
+				Hard or Ram Disk
+				Drive: C:
+				Directory: HARDNOVA (Default)
+			It must then be installed a second time, using the same options except MT-32 instead of Adlib, to create the MT-32 version of WARHUB.EXE
+			DoDAT cannot build this directly from the disk images
+		</comment>
+		<comment_dosc>Copy protection removal, modified HARDNOVA.BAT to fix missing sound, direct mouse enabled, and auto start. MT-32 option</comment_dosc>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=3249</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Hard+Nova+(1990)(Electronic+Arts,+Inc.)+%5BIMA%5D%5B720k%5D%5B!%5D</link>
+		<rom name="AMS.CFG" size="498" crc="62a886df" md5="4ec27694932ba944283deab03d86c9f4" sha1="bbda5b4d4cfc9298bb7a5a550db3b7c4acb48978"/>
+		<rom name="ARIE.OUT" size="3968" crc="773ce576" md5="3c78877acb77689594f386c9f349502f" sha1="1e6143c79578fd20fb75260771be0933e5b74628"/>
+		<rom name="ARIE.PLA" size="7168" crc="cd505562" md5="981ceced11fd48535ae2d8394f02228e" sha1="43957e90f22c508d5482be7f1ea1cec1ec9ab8d4"/>
+		<rom name="BLUMARBL.DAT" size="1920" crc="4a9c0ef6" md5="2346989cd3cc8b2950da52a6d07e1669" sha1="f5cb5c67b93a2f738307648a9e4e36d2331d6f5a"/>
+		<rom name="BLUMARBL.TIL" size="21840" crc="a4e8e5be" md5="ee8c1b1c839a35fe28e9d0c94b927a30" sha1="f06c0a698b8c754ce4c89dc2ab5342d685ce6d1c"/>
+		<rom name="BRIKMISC.DAT" size="1920" crc="880a23ce" md5="98cefb72ccf9cc59b39dc7e69ed7243e" sha1="a469928a2aaa2b5bc6172b3eb2adee346d331e97"/>
+		<rom name="BRIKMISC.TIL" size="21840" crc="6b513c48" md5="6404f09579b0b6b4375b947b342ddde4" sha1="a496d4ea507d1d46287a53d5666d811d7430105e"/>
+		<rom name="CASC.PLA" size="7168" crc="3d09bb08" md5="f2b4e1963f4d43fd7268c7d7cfcd04b6" sha1="26bdbcc18970f41bafdf3a973d9d0793d0da71f1"/>
+		<rom name="CASINO.EXE" size="4925" crc="e5640db5" md5="b63821999071f43a80b6f75e02711401" sha1="e34a00cfdb0767327c0fe5ca62a3cc237555a55a"/>
+		<rom name="CIBE.OUT" size="3968" crc="6379d32f" md5="7841d7f22f61fa19bf1d8fd2d7197d35" sha1="9c181f85f512370efe6762513dcd8f5861ee5afa"/>
+		<rom name="CIBE.PLA" size="7168" crc="2943b821" md5="5ce99650a98e0aa60a1eb981c0fe62fe" sha1="7ce6c4fc0f902a20e4b4856a50b9fe2704b29cc7"/>
+		<rom name="CLOU.OUT" size="9600" crc="1dceb6fe" md5="5a2e30a07519eb924ea5146471d243d3" sha1="c9fe29ae1c0b2a7760ce5c763571100c6a35a73e"/>
+		<rom name="DUME.EXE" size="10469" crc="0b22db80" md5="54da10a4df6ad27cb2e28fed612d286c" sha1="997ac6761eef00ddc8385ce5ef5276d8a44682b9"/>
+		<rom name="GRAFX.EXE" size="11505" crc="60c9c4a2" md5="c7b0bfde65ec6819f269a3e10ca6c7c3" sha1="87a36483ac2f7a66cd3b100cc82cd073d9a27a3a"/>
+		<rom name="HARDGAME.DAT" size="233472" crc="e3998e35" md5="7305ffedb201fbca8cf88c6b70985609" sha1="ff1287aaada3cc5ad84215461f64091c2fdbb8b9"/>
+		<rom name="HARDGAME.NEW" size="233472" crc="e3998e35" md5="7305ffedb201fbca8cf88c6b70985609" sha1="ff1287aaada3cc5ad84215461f64091c2fdbb8b9"/>
+		<rom name="HARDHARD.EXE" size="2808" crc="402b6a9e" md5="3515871c13e87a017f990ed5178783fb" sha1="c1fdb747a5c605c6cb7762a1f91588c96d214a23"/>
+		<rom name="HARDNOVA.BAT" size="5330" crc="99f511c3" md5="17a2d687c0ab85055879703abeda56df" sha1="2e0a70e42c5f2780bb7354f28fbbeb944b953e90"/>
+		<rom name="HOLB.OUT" size="3968" crc="3b36016c" md5="7cfeaf2cb2b5a66e70c01804a7036b75" sha1="bd7e4c74eb306c97ee32440e9763e2efc745357a"/>
+		<rom name="HOLB.PLA" size="7168" crc="aae5670b" md5="7180d640b0f1065e3f44cb5d848904e2" sha1="baabe7ad4604f4cfd37399278ca1e8f44bf9cb7d"/>
+		<rom name="INDOOR.EXE" size="29278" crc="8e014370" md5="bee63f37f70a850b8573850abbb34039" sha1="4c014ccc8ca35ef2f954d2cfc55403ba0b43fdcf"/>
+		<rom name="INDOOR.SCR" size="32000" crc="3b32e340" md5="437b716ba20d39f653375e74516f2795" sha1="f97ba0a03f1ae170f1d418d298a43f5e30bcb676"/>
+		<rom name="INDOOR.TIL" size="27940" crc="3f34c0ca" md5="70cab5b39aadbb447e17ad843a362b23" sha1="5a4020ac2d3321e89ce069561c3fd558c5a0719d"/>
+		<rom name="ITEM.DAT" size="2560" crc="2f6d93b2" md5="19aab0f108b59488118688c572f15eca" sha1="e2de242a232ada788fb2ea9b642e6bfb5dd0bb3d"/>
+		<rom name="MAST.OUT" size="3968" crc="fbc236b6" md5="235129c6828ef8c016bb6707d8069f6f" sha1="72669b1b073d6b0e32c84321929f08574cc31781"/>
+		<rom name="MAST.PLA" size="7168" crc="8680795b" md5="672240e922bf2b5565699f45cec823eb" sha1="759100b852baa202914ca9ca39e09b2d4d61434d"/>
+		<rom name="MCGA.PAL" size="3072" crc="3cbaa7f2" md5="36ad13ca34fd65c024db12bd5ce4d858" sha1="1ec6a81944744061145cda1a2eb8218b367098c1"/>
+		<rom name="MERC.EXE" size="44920" crc="8683e342" md5="4b221e91315e88e6f26d4a1456eae6eb" sha1="8584081347193cb3e69e65c77e3dd079188cac24"/>
+		<rom name="METLGRID.DAT" size="1920" crc="ef624598" md5="bd035f4f7e7a17ebf2242fb60bdb2c5e" sha1="60309e94853a49eb4aaf63068bc78e5d2597d8ba"/>
+		<rom name="METLGRID.TIL" size="21840" crc="97e618b5" md5="f6e2d68df50aace17eca0dc6a83363e7" sha1="861718fbae8efda8829a4f3f04c85755c88e8026"/>
+		<rom name="MT32/WARHUB.EXE" size="6685" crc="9f4da494" md5="b796b44b392b7d30059170a55488fc18" sha1="f81bd924a653361e4d1791e9d030b209a40d6793"/>
+		<rom name="NARR.DAT" size="5120" crc="49e2cdf7" md5="6f4392ac068546217ac80616764adc54" sha1="4816b35843f5ffb8d39a903ec1e04c31f6a90bd4"/>
+		<rom name="NOVAWIN3.ICO" size="766" crc="4a95e56d" md5="d022960952c8127b993cfeda9257b78a" sha1="1fed75948cc11b0b293d03b2a252546e9f26601b"/>
+		<rom name="ORBIT.EXE" size="2630" crc="ef51d461" md5="53e2fefc9df32dcebeae303dee906bfc" sha1="57b52aef97c52a709286db558d21675fb4290dcc"/>
+		<rom name="ORBIT.SCR" size="32000" crc="57814179" md5="6f5ed25026ea5269388e70ab0660171e" sha1="212f749bdbb9400591d7f19241ef761e3a6f5668"/>
+		<rom name="ORBOFX.DAT" size="3016" crc="2f0934c9" md5="42a2622caeb76c0937076ccc97276927" sha1="2ffc1a84b3aa2a9012b5772023c6d76c7139235c"/>
+		<rom name="OUTDESE.TIL" size="32844" crc="da2ea268" md5="3aedd2ed1df6d424e6500da0e5753ba9" sha1="07cc0f6a958fe146a005941d7cf260efc8567946"/>
+		<rom name="OUTDOOR.EXE" size="10808" crc="2c0dd2f0" md5="84c05be6737b0d78daf867ed8f2afd24" sha1="4392853591bd8def50925bda54d5c1f0a76ff60a"/>
+		<rom name="OUTDOOR.SCR" size="32000" crc="7851bd86" md5="b605cccdcd33bb021ca7e80eb3fec1f2" sha1="4cc5e4f0db624e52e16e95c59b74ac52df1b5bc1"/>
+		<rom name="OUTGASS.TIL" size="32844" crc="36e851b2" md5="6bb755560c64b3355a083f6920525b91" sha1="0b53b82bf08af1831a8af9802eb4d481966eb26e"/>
+		<rom name="OUTLUNA.TIL" size="32844" crc="b2e59a3b" md5="00e2e6e8ff82391dc4ee92f1bfbbb38c" sha1="31b899ebd18c6cbd9d17d5753ac139217f44fa43"/>
+		<rom name="OUTMETH.TIL" size="32844" crc="4b6ad679" md5="615091095d09968925bbc6444f9dd61a" sha1="a38852a4d0f4dd4345344ee506987d8b4d11a78c"/>
+		<rom name="OUTSHIPS.TIL" size="21896" crc="c78a30c0" md5="acdc71d6cec63e0761e021665da7fda6" sha1="5c29284805e9986dd5b3082f3faaf46f0bb82c63"/>
+		<rom name="OUTSNOW.TIL" size="32844" crc="208c0bef" md5="5ca587cd17589c8669b5fd2ac7b1c8f4" sha1="20796072b792b484a096567a9c1f9957a71dbd0b"/>
+		<rom name="PAK88.PIC" size="327949" crc="2c825777" md5="a2599038faa6d5db846a1fe3057ad24a" sha1="50ef3dcde6a32a47ceeb0226b62a4ebff19cb8e0"/>
+		<rom name="PLAT.OUT" size="9600" crc="e1492050" md5="a3860d490721f98796d70d4a9bcbea27" sha1="148643396bad1c0aa0d6f4e675a50834728f80fa"/>
+		<rom name="ROUY.OUT" size="3968" crc="81a1e164" md5="9da753c24fccde5bb500721ca31f99d6" sha1="5ab5ad795f0933b15aed55fd3f9a89410d7db8e1"/>
+		<rom name="ROUY.PLA" size="7168" crc="a14ac03d" md5="fe1d0596757741ddc2ffafbb2ae430f4" sha1="500dfbca97489207e38901fa97f8781a4075adcd"/>
+		<rom name="SCOM.DAT" size="5120" crc="ad4e4675" md5="7986d13ee84b6a1a6d30c4c0f734426c" sha1="4ac458ef00d336b9e7a53c24dd85de5197899287"/>
+		<rom name="SHIP.PLA" size="7168" crc="644d3644" md5="b86e2c380d93bbb56e5b3e25f62d334a" sha1="92323a1af558128f6556ab1a07ddc25418f460c4"/>
+		<rom name="SPACE.EXE" size="20402" crc="4fe3b3f9" md5="1434cfc9b3d3daa23ea2d1adb308b662" sha1="9068659cc64ed7a9a4dbfef723da88eca838a57f"/>
+		<rom name="SPACE.SCR" size="32000" crc="87613e17" md5="8ac484b051fa319bcc32a606bb32a560" sha1="b1ef11f273ce1b52a0769ee54603e26dc0aaae48"/>
+		<rom name="SPASHIPS.TIL" size="49266" crc="47615f66" md5="339b55c0df58a9ee7035618abf2eb76c" sha1="fbf6534b7ed96ee4e485dcccd03b92eeef3e5d61"/>
+		<rom name="STARGATE.SCR" size="43536" crc="190d25af" md5="2d682e9fd695aa1b2295b97112d1488d" sha1="d5b266b56280d0c7c43e6296c65aca04200f64d9"/>
+		<rom name="STARK1.BIN" size="5813" crc="d394a397" md5="56ce7dd679bca1eae797ad640b7b1727" sha1="fe946e3ad6e54865e26144edf7c006f9adf85abf"/>
+		<rom name="STARK2.BIN" size="4468" crc="4424c4c6" md5="c5e8bcca719e0d553bdb3186146e238d" sha1="446500ede7d7b13ef387866da3620d04b279c71b"/>
+		<rom name="STARK3.BIN" size="5177" crc="1695f543" md5="b0495be6b3d67d66eaddd22f728b2048" sha1="dc40e294466de1f99d85b045e2cd319954be8f06"/>
+		<rom name="STARK4.BIN" size="6294" crc="44b097ec" md5="8cbb4bbf8ac9b734bf9ba0a52f224b82" sha1="b33746a0a91ef22f8a94cd0a12cbd79a919b66fa"/>
+		<rom name="STARK5.BIN" size="4117" crc="3e5d6111" md5="0f011abd2a675be11322ec941b45a37b" sha1="a27d9a984d162917d6d3fbd5f73a7971a8f21500"/>
+		<rom name="STARS.PIC" size="126636" crc="4ee4eb04" md5="5509bf7084bc1922a8d477f37709fcf4" sha1="6e8261f77442c761073dc12538302addf70de1ab"/>
+		<rom name="STATION.EXE" size="5837" crc="a6e58233" md5="2171d9874a2cfba9837569c84a813251" sha1="008d0f4404bcbec4b75858a40e27d024d292b7ff"/>
+		<rom name="TALK.DAT" size="284760" crc="b9822e44" md5="31d2de04605827be0cbf99bf708f49d2" sha1="dfd0603058a47d3d905933c5cbe320605e7a70a5"/>
+		<rom name="TIKO.OUT" size="3968" crc="cdfc0a81" md5="dc0a60ed2c35cd5adf3fb584fce4f3ae" sha1="faa5e35621542d1a4d214e3afc1c9d31d401eddf"/>
+		<rom name="TIKO.PLA" size="7168" crc="9615f8d7" md5="b6e67fd5677b8c7391e1ab7f3c8a1f2c" sha1="2615c5b27c6b06179843c36ae8eedb5a9b8bc154"/>
+		<rom name="TUBETUNL.DAT" size="1920" crc="0c9c3d70" md5="de6ff7fc103158193bd3c85b965aef09" sha1="a57153e1197a048a8506a0fcd91f74bb794dba27"/>
+		<rom name="TUBETUNL.TIL" size="21840" crc="48ec7bdc" md5="5eb8fc0fa8a19be91f0c796503909579" sha1="2f4aad6dc113d4ce3a8724012ddc1757a7c0502c"/>
+		<rom name="TYPHANIM.SCR" size="45840" crc="198fcfba" md5="cdcf33bad5d94babf6206c6c754caaf7" sha1="23778781036a94fb9f087bcec0f6ac5e3896b686"/>
+		<rom name="TYPHBOTM.SCR" size="33616" crc="60341d62" md5="e3fd21c30820a7c57f2a792917863152" sha1="95ebcf695549b24487aeba6487ab04f1c3b6e406"/>
+		<rom name="TYPHTOP1.SCR" size="29136" crc="79bdf2b8" md5="2fa7046caeda81e1c3c466f90ac24c1f" sha1="1042b872353d730babb207175d7691ccb05846bb"/>
+		<rom name="VARA.OUT" size="3968" crc="f87a7022" md5="df0dbd2d4f0dd70aa4f44bd52cd48925" sha1="6edc42b6336d949aa6662c597d0b820625744e0d"/>
+		<rom name="VARA.PLA" size="7168" crc="18d3fa5e" md5="ff9dfb7df14f3ec4a0614f24f69057a2" sha1="63b76b04c3c1417e0da726985198cfd08ece5de6"/>
+		<rom name="VIEW.DAT" size="21559" crc="20f19847" md5="2751f75586a726a55d2d9db7bf5012a2" sha1="19b0f4e5fab1c35b4128d87fcd8d92b88d9c7b65"/>
+		<rom name="VIEWER.EXE" size="1389" crc="b6053e2e" md5="081a7aa3e076de0aa9dd29ab7352bc94" sha1="48ebcdbbbfb1aa1a055ce511d2b80c69e9757d49"/>
+		<rom name="WARHUB.EXE" size="8312" crc="6efb7f52" md5="40587478664358df27021def8ed64ea3" sha1="f461918e68cc582cf049ee6a817ae042c4db9722"/>
+		<rom name="ZUMA6.EXE" size="3290" crc="fb85444d" md5="fe595c5459579e123f7dc408a8285371" sha1="beda49492235ae0a00695ce0f38421b0f759c27a"/>
+	</game>
 	<game name="Harvester (1996) (DigiFX Interactive).dosz">
 		<description>Harvester</description>
 		<year>1996</year>
