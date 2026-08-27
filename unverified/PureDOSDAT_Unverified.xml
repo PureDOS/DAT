@@ -59909,6 +59909,65 @@
 		<rom name="US_SHORT.ADL" size="1842" crc="6b0332fc" md5="f91a6c9b24ec81fa437d66355baff873" sha1="0411cd1492e2e6a738e8358520c511a0a421ae4b" date="1991-06-17 22:41:32"/>
 		<rom name="USA.ADL" size="4121" crc="06106945" md5="b8f303cc7b76ff44aa69682e595065ce" sha1="a423a9cda02b7727c59a93938cb367af78098f23" date="1991-06-17 22:31:40"/>
 	</game>
+	<game name="Sentinel Worlds I - Future Magic (1988) (Electronic Arts).dosz">
+		<description>Sentinel Worlds I - Future Magic</description>
+		<year>1988</year>
+		<developer>Electronic Arts</developer>
+		<comment>
+			Files copied from floppy disk matching with TDC#23 entry: Sentinel Worlds I- Future Magic (1993)(Slash Corporation) [IMA][720k][!]
+			Tandy version setup: GRAFXTAN.EXE renamed to FM-GRAFX.EXE, SFXWAR.KT renamed to SFXWAR.EXE, SONG0_.KT files renamed to SONG0_.SNG
+			DoDAT can build this directly from the disk image
+		</comment>
+		<comment_dosc>Copy of SENTINEL.BAT for running the game, Tandy mode, and auto start</comment_dosc>
+		<link type="media">https://puredos.github.io/dat-browser/?/Sentinel+Worlds+I-+Future+Magic+(1993)(Slash+Corporation)+%5BIMA%5D%5B720k%5D%5B!%5D</link>
+		<rom name="FMDAT/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1993-08-16 19:23:30"/>
+		<rom name="FMDAT/CHARACTR.DAT" size="12288" crc="b69d4ee4" md5="a829e2df9aab853f269754a3691ef8e9" sha1="52f090a0c3e6d9b1579da5efa9b0bf2fb547914f" date="1988-07-13 13:11:40"/>
+		<rom name="FMDAT/FMLO4.P80" size="231093" crc="85c1342d" md5="52b34fbfdc04d4390a0065a415631194" sha1="c8ea7ede63e187eed9e1c6688bdf365b491e902d" date="1988-05-28 17:30:18"/>
+		<rom name="FMDAT/OUTTILE1.LO4" size="24608" crc="aaae503c" md5="26a5197865038752af29ae2ddfd2b005" sha1="ac2416419d86369ddbfe76064009be1249ff7a48" date="1988-05-13 20:11:40"/>
+		<rom name="FMDAT/OUTTILE2.LO4" size="24608" crc="2e2d75fd" md5="1f3bc39663df9f7d40feb543a08db01f" sha1="8a5fb7dbba8f72413723910fa576587016732ff7" date="1988-03-17 01:18:12"/>
+		<rom name="FMDAT/SENWORLD.TLK" size="59947" crc="60808a7f" md5="50c591dc008ae0091087abd9c90c4c90" sha1="094e548dbbab0cfa52187e2e8f97010d55bf1892" date="1988-06-24 19:24:32"/>
+		<rom name="FMDAT/WOOFWOOF.LO4" size="1056" crc="241ce0d0" md5="2d63982320ed8b0d2c998e783ee4d320" sha1="0ecec4d33a5f5fc97343399c6fb6ddfb21ef7d40" date="1988-03-21 16:05:04"/>
+		<rom name="FMPLAY/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1993-08-16 19:05:10"/>
+		<rom name="FMPLAY/BOARDING.TER" size="2048" crc="c81ed17c" md5="219c55aa651b5edf1b46edde8eb66d9f" sha1="588ebe6e6f80e013e6a9b1711368c997d17e7d20" date="1988-06-01 15:26:14"/>
+		<rom name="FMPLAY/CALDORRE.TER" size="2048" crc="42069bca" md5="30ad1ecf07e97363be6c895ca2e023f0" sha1="b3fe22b874908078c64f5201ff67930de2d74b1d" date="1988-06-24 02:11:48"/>
+		<rom name="FMPLAY/CEYJAVIK.TER" size="2048" crc="9d79ed79" md5="f028c61f76e6512bff395a9a2e95642b" sha1="f9ffed5fae1bd25dff180b37faf1ae6b5c83fc6e" date="1988-06-24 02:12:54"/>
+		<rom name="FMPLAY/CIRCLES.DAT" size="3077" crc="8ac1abd5" md5="6983023ced5685771d4f411ecbb6c695" sha1="84513e7ac2128abbd9bbf7fb973a468d9b6f3403" date="1988-05-04 23:50:36"/>
+		<rom name="FMPLAY/FM-CORE.EXE" size="20155" crc="71ec47aa" md5="43a16b38c1a2ec893b21bcf2a5e33de9" sha1="88405d8e3c0db4d115f1a709e56afa0f731da9bf" date="1988-06-27 05:51:14"/>
+		<rom name="FMPLAY/FM-GRAFX.EXE" size="10041" crc="cb6dcd1e" md5="ffbf4c100639fa9b47c9e0219e8cc9b9" sha1="91f56e68095d39741fb91f6f1ec8ea816de1eae6" date="1988-06-24 02:33:42"/>
+		<rom name="FMPLAY/FM-ING.EXE" size="12830" crc="95c1bdf5" md5="f2cc0c157e378d7de01b5ad42897df63" sha1="60cc02c1e41c311bd4bd1bf9f7165978e6fffba4" date="1988-07-13 14:05:44"/>
+		<rom name="FMPLAY/FM-MAGIC.EXE" size="6088" crc="d9780fb4" md5="62482136737e872c648911fff5db69b7" sha1="baff00d545b5438520c1a99b42f9cda03970f03e" date="1988-06-29 00:36:48"/>
+		<rom name="FMPLAY/FM-ORBIT.EXE" size="5420" crc="1aa287f2" md5="0bacf1bd8bef6a19c82265ccf0a9071f" sha1="12d379e06d6ee6469fdfb94999cde29edc06246e" date="1988-06-24 02:29:38"/>
+		<rom name="FMPLAY/FM-OUTG.EXE" size="11804" crc="a8d605de" md5="539e3371ec1a37e49b4bd01628666191" sha1="6178cf1bce74cc535a85f29875e91641712968f8" date="1988-06-27 05:51:42"/>
+		<rom name="FMPLAY/FM-SPACE.EXE" size="20081" crc="451c956b" md5="428cca64f940e82333330c64343e4ada" sha1="4a74c851350d065aba1276af208a30ae8ca7a240" date="1988-07-13 14:06:12"/>
+		<rom name="FMPLAY/FM-TALK.EXE" size="13623" crc="b5602092" md5="2ca0f0fce87cd80bd0e447550f4e92d7" sha1="8abe6bff5425ba5ef48629836a55b20f2d88298e" date="1988-06-26 16:07:52"/>
+		<rom name="FMPLAY/FM-TIGER.EXE" size="4890" crc="1dd00111" md5="19f2381a9f232a464b1f98bd3f2692e4" sha1="301dec29607db31da1ce4c162fd6d02f8ccd3aea" date="1988-06-27 05:51:26"/>
+		<rom name="FMPLAY/FMMAP.PAK" size="79692" crc="cd8c8623" md5="7b97de3ad420e8d59606d4db10ee5e21" sha1="e951d8a254812710cb36b9676fcde5948912290f" date="1988-06-24 11:20:00"/>
+		<rom name="FMPLAY/GAMEA.FM" size="12736" crc="ddf45109" md5="7d72f643af0bff7cb4f424bcc90e2674" sha1="f9d6ad0ba19fa4c5eca353b4398e5a3c75adbe3b" date="1988-06-27 06:10:42"/>
+		<rom name="FMPLAY/GAMEA.FMS" size="512" crc="11512388" md5="439e8d85e0498390c58504c174a93c4b" sha1="9f7f593c20327b9ff6c116138ac292a36253a542" date="1988-06-27 06:10:42"/>
+		<rom name="FMPLAY/GAMEREM.FM" size="256" crc="015d73b2" md5="452d42dd82162b2d01fbf1f460026370" sha1="f8947d1236be31418902f77fe22627e336ff2339" date="1988-06-27 06:10:42"/>
+		<rom name="FMPLAY/GRAFXCGA.EXE" size="9860" crc="e2c68ae2" md5="412f7525d2f070f75404b5365e150d91" sha1="78491624fcb8a8e8885e665dfc34b110c9561146" date="1988-06-24 02:32:26"/>
+		<rom name="FMPLAY/GRAFXEGA.EXE" size="8157" crc="c04803df" md5="37246a6b38e22298a178ad1d0f710d22" sha1="7d826820c2f6d8a9411f58f8d7b08040aca1fdb9" date="1988-06-24 02:28:30"/>
+		<rom name="FMPLAY/INDOOR.LO1" size="6920" crc="5efec98d" md5="63362872ff8bbe985c8e4d068c648744" sha1="e44d19641d983dbc49b07a0e9fc76066422e142c" date="1988-05-05 14:51:04"/>
+		<rom name="FMPLAY/ITEM.DAT" size="1536" crc="607106d9" md5="5ae2dc2aedcbd2ed1c8d738715f0e365" sha1="948eeaad10eb67a018467734495c961a5b59e720" date="1988-06-24 02:13:44"/>
+		<rom name="FMPLAY/NORJAENN.TER" size="2048" crc="152fdbf2" md5="6b5184f3bac9b936a4ee0a225dbe1ca4" sha1="0a2e7e3e4e4f62103e9ddd916e290d023a05684a" date="1988-06-24 02:10:44"/>
+		<rom name="FMPLAY/PICLOGO.LO4" size="704" crc="0b87b3d7" md5="c9393193f05ccf58bbfd8a5c672a2b0c" sha1="cf2f849447a2b0af9ca7373733882767c374c398" date="1988-03-26 02:04:58"/>
+		<rom name="FMPLAY/SENTINEL.EXE" size="28208" crc="b22fbf8c" md5="983a026ad8c1abaaf3905cec3519fb08" sha1="47153b518845ff1e657e5288c6e3cbc9fd62eca7" date="1988-06-26 17:11:42"/>
+		<rom name="FMPLAY/SFXWAR.EXE" size="11158" crc="c6bd2062" md5="484ca97a3699b0f4f8baa953dbd4219c" sha1="d33d592d773936c941d72d57b231e928a910abe5" date="1988-06-23 19:26:32"/>
+		<rom name="FMPLAY/SFXWAR.KP" size="11175" crc="28b49a0f" md5="631f9e1e156c7af3171cbca8e4f4cf1a" sha1="bbbc9e6955464aaa55bbffe1b1e36bca45a3ba51" date="1988-06-23 19:26:28"/>
+		<rom name="FMPLAY/SONG00.KP" size="582" crc="72f89ed6" md5="5cb8c3af0862ec1433b819d98fca2f71" sha1="67e17037fcb295b17abe3e668436ee70ed990cf1" date="1988-05-23 11:09:46"/>
+		<rom name="FMPLAY/SONG00.SNG" size="664" crc="e6dded51" md5="633c92dfcc83b53b2e44444be342c0af" sha1="16a6a10e0b05d56ff57fe99d10441b427371f64b" date="1988-05-23 12:39:52"/>
+		<rom name="FMPLAY/SONG01.KP" size="2034" crc="042d28a3" md5="baa1900e711c8bf116af6aa64c415fac" sha1="910a287dab9bd19effd6806ed7671c54c8be8b48" date="1988-05-14 21:12:24"/>
+		<rom name="FMPLAY/SONG01.SNG" size="3550" crc="445d4e54" md5="469977f9697bc24c3d6e4e2b1f71e71d" sha1="0e3cc7a65cc7627c411c3c349f4eb6ea312c3a30" date="1988-05-15 14:37:56"/>
+		<rom name="FMPLAY/SONG02.KP" size="4546" crc="3196f988" md5="049e6b0c4f44e5747289e5f8f70f6784" sha1="ffdf10b6f5966182d6be60524183bad7f641f286" date="1988-05-14 21:18:54"/>
+		<rom name="FMPLAY/SONG02.SNG" size="4470" crc="a52f8833" md5="4ab6d936e4af0e33267a3e4e3d5fe183" sha1="57ca8e5558118d7b8cdb7f1bab8861749787c10a" date="1988-05-15 14:38:16"/>
+		<rom name="FMPLAY/SONG03.KP" size="3202" crc="839dfa33" md5="2276c06809b6e50a13a13eb4da09cb27" sha1="cb642bbb18a8a799558f6a76c943f4facace2ded" date="1988-05-14 21:19:18"/>
+		<rom name="FMPLAY/SONG03.SNG" size="3264" crc="e77eba2c" md5="9519d7910dd39a592f004e3ba0cb1ae7" sha1="7ea9e3b53ed129dfabb1dbcb3e6dafa38de4ddc6" date="1988-05-15 19:48:56"/>
+		<rom name="FMPLAY/SONG04.KP" size="5148" crc="0b792ccb" md5="7b49b167a7547a6cb264a1f2b65de0bf" sha1="d70f50a06805ccfbf081bd16698f05fa2769bb6a" date="1988-05-14 21:10:34"/>
+		<rom name="FMPLAY/SONG04.SNG" size="5448" crc="ff93436f" md5="16a3cf8ce4324c7504f7c1be89f85e4d" sha1="e22d88a592f7154b6507ad974f01f248bff0d1be" date="1988-05-15 21:19:38"/>
+		<rom name="FMPLAY/SPACE.DAT" size="3072" crc="cb3fb207" md5="d3b6d9e33618f66c1ac1715ee138b0a5" sha1="cebf00531c7f2d8cca356a9b56e6f4793a88a2da" date="1988-06-24 02:14:08"/>
+		<rom name="FMPLAY/SPACE.LO1" size="10814" crc="faea809e" md5="c7b3fb45e93abbc16c43d61ea4cb21ec" sha1="96be3e1a75684a11121be8b785434336f41f2aec" date="1988-05-05 14:51:04"/>
+		<rom name="SENTINEL.BAT" size="31" crc="db2af4e3" md5="0e5e76835ad25530d3cc2b0bc3c9a160" sha1="f618ff85752bd022dc701efffe35abb09a4c18d8" date="1988-06-24 03:07:02"/>
+	</game>
 	<game name="Settlers II, The (1996) (Blue Byte Software).dosz">
 		<description>Settlers II, The</description>
 		<comment>Installed using Redump-verified CD-ROM: Settlers II, The - Veni, Vidi, VIci (Europe) - v1.51 patch applied</comment>
