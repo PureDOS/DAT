@@ -13284,13 +13284,21 @@
 		<rom name="VOL.2" size="247952" crc="4481c735" md5="160aedd09c4e4425257e46e03f6c39b8" sha1="d40800eec9460be6ffd8f358009c4bb97bab7f2d" date="1987-04-10 09:21:02"/>
 		<rom name="WORDS.TOK" size="3516" crc="6cf8a510" md5="e588b7b3d29f3627023a565e0c806bc5" sha1="0708b3ca8fabdcee772f24a82a93d1431a8e9ab3" date="1987-04-06 14:57:16"/>
 	</game>
-	<game name="King's Quest III - To Heir is Human (1986) (Sierra On-Line).dosz">
-		<description>King's Quest III - To Heir is Human</description>
-		<comment>Installed from King's Quest - Collector's Edition CD-ROM US release</comment>
-		<comment_dosc>Auto-start</comment_dosc>
+	<game name="King's Quest III - To Heir Is Human (1986) (Sierra On-Line).dosz">
+		<description>King's Quest III - To Heir Is Human</description>
 		<year>1986</year>
 		<developer>Sierra On-Line</developer>
-		<link type="media">http://redump.org/disc/14878/</link>
+		<comment>
+			Installed from King's Quest - Collector's Edition CD-ROM US release, verified by Redump: King's Quest - Collector's Edition (USA) (En,Fr,De) (Disc 1)
+			Can also be installed from Redump-verified CD-ROM: King's Quest - Collector's Edition (Europe) (En,Fr,De) (Disc 1)
+			Or TDC#23 entry: King's Quest- Collection Series (1997)(Sierra On-Line, Inc.) [bin-cue]
+			DoDAT can build this directly from the disc image
+			Also matches with GOG
+		</comment>
+		<comment_dosc>Tandy mode and auto-start</comment_dosc>
+		<link type="media">https://redump.info/disc/14878</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/King%27s+Quest-+Collection+Series+(1997)(Sierra+On-Line,+Inc.)+%5Bbin-cue%5D</link>
+		<link type="store">https://www.gog.com/en/game/kings_quest_1_2_3</link>
 		<rom name="AGI" size="39424" crc="ea640c2e" md5="becc13d753dbd9394c00fcefd2ce8730" sha1="64cc378313ed3d3a81d4389b85cf6c436d4a694d" date="1988-03-18 08:40:24"/>
 		<rom name="AGIDATA.OVL" size="8192" crc="d2aa52f4" md5="2448e157a2ffb485e14e56940ec5bb88" sha1="da92a0fe704ae5fe1087fa2703eea97d1864561b" date="1988-03-15 15:57:42"/>
 		<rom name="CGA_GRAF.OVL" size="1024" crc="a8f00e6b" md5="de2902ddc953dbdb182d32d7ab34cd4a" sha1="0652b2fb448f0e73e9312801c38245ebc2bda4b3" date="1988-03-15 15:56:40"/>
