@@ -13315,11 +13315,17 @@
 	</game>
 	<game name="King's Quest IV - The Perils of Rosella (1988) (Sierra On-Line).dosz">
 		<description>King's Quest IV - The Perils of Rosella</description>
-		<comment>Installed from King's Quest - Collector's Edition CD-ROM US release</comment>
-		<comment_dosc>Copy protection removal patch, audio config with MT-32 launch option</comment_dosc>
 		<year>1988</year>
 		<developer>Sierra On-Line</developer>
-		<link type="media">http://redump.org/disc/14878/</link>
+		<comment>
+			Installed from King's Quest - Collector's Edition CD-ROM US release, verified by Redump: King's Quest - Collector's Edition (USA) (En,Fr,De) (Disc 1)
+			Can also be installed from Redump-verified CD-ROM: King's Quest - Collector's Edition (Europe) (En,Fr,De) (Disc 1)
+			Or TDC#23 entry: King's Quest- Collection Series (1997)(Sierra On-Line, Inc.) [bin-cue]
+			DoDAT can build this directly from the disc image
+		</comment>
+		<comment_dosc>Copy protection removal patch, direct mouse enabled, audio config with MT-32 launch option, and auto start</comment_dosc>
+		<link type="media">https://redump.info/disc/14878</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/King%27s+Quest-+Collection+Series+(1997)(Sierra+On-Line,+Inc.)+%5Bbin-cue%5D</link>
 		<rom name="ADL.DRV" size="8896" crc="a8cb6068" md5="b2b4afb47ab5bc94d5bdd63b38b62659" sha1="d050433d193f2141c4364a3a1ea70161e1ee5a60" date="1989-08-09 15:22:02"/>
 		<rom name="EGA320.DRV" size="1952" crc="3b2fc0de" md5="d2f9e9ea730745558926518c930e7375" sha1="76d37d9489d677c64408f4c91986d41f171999bf" date="1989-03-13 11:35:16"/>
 		<rom name="IBMKBD.DRV" size="446" crc="b495c666" md5="ab91b093a010aeb63866f71bc491110e" sha1="181ce784bb8028a98b7e646b0d0815a42abaca7b" date="1989-04-11 11:57:44"/>
