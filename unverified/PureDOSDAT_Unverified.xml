@@ -19550,6 +19550,411 @@
 		<rom name="UNIVBE.EXE" size="74412" crc="ed783ca9" md5="62104ec206d4d9444170631cacf07064" sha1="7ab6a62c458dc16ab8af4040e3bca16850e46c0e"/>
 		<rom name="VESA.EXE" size="15325" crc="d21a23c3" md5="841e5bd5387882db9e92088f2e7abaa7" sha1="bb60527e541307004733333c132bc076e5b5a1cd"/>
 	</game>
+	<game name="CyClones (1994) (SSI).dosz">
+		<description>CyClones</description>
+		<year>1994</year>
+		<developer>SSI</developer>
+		<comment>
+			Installed from Redump-verified CD-ROM: CyClones (USA)
+			Installation options:
+				CD-ROM Drive: D
+				Sound Card: Sound Blaster 16
+				IRQ: 7
+				DMA: 1
+				Port: 220
+			After installation, copy the GAME directory from the CD to the install directory
+			Then make the following changes to CYCLONE.CFG:
+				Change line 3 to .\game\
+				Change line 5 to .\game\sound\
+			CD image converted using CHDtoOGG with default quality and empty data track
+		</comment>
+		<comment_dosc>
+			CPU max year set to 1994
+			Auto start
+			Configuration files
+		</comment_dosc>
+		<link type="media">http://redump.info/disc/31995/</link>
+		<rom name="BOOT.NFO" size="213" crc="f9def4bf" md5="37c126572e4aae37d4d18fcad4e8c408" sha1="14df68101c3a622d5c27c73ac3008cfd4964bddc" date="1994-11-09 14:26:40"/>
+		<rom name="CD/CyClones (USA) (Track 1).bin" size="43008" crc="10d89042" md5="73db37b47ede9da7e9fbaae52c6c8a8b" sha1="8a2846aac1e2ceb8a08a9cd5591e9a85228d5cab"/>
+		<rom name="CD/CyClones (USA) (Track 2).ogg" size="4616508" crc="881490a8" md5="54095575d21e801e06a401a457594e0f" sha1="b28da1a4f5fd34ec3d47cc754e40bf95d676e0ca">
+			<source type="AUDIO" frames="10658" omitted_pregap="150" duration="02:22:08" size="25067616" crc="f96c39d1" md5="6518f6571886c742a6f60ad0b9301663" sha1="00a7d9e1b9caef94f5a6a4bbb549ad6746cd4f00" in_zeros="3636" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 3).ogg" size="3573552" crc="0eae0a6d" md5="54654021f2018ed9677276b151cbf9dd" sha1="ed7fd656a6943f8b6f89c51b2bc416f6840897e2">
+			<source type="AUDIO" frames="7268" duration="01:36:68" size="17094336" crc="cf75351a" md5="71190e0230fcc08034b74ee9ce858bd9" sha1="894cff208a0c5fb946adcb4813e99b1d52398396" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 4).ogg" size="3485940" crc="a8ee848a" md5="497ebd5a98dc64fab6d0763a9f60434e" sha1="f71f779bf03878a45e92abd8097cf472ae2591ca">
+			<source type="AUDIO" frames="7186" duration="01:35:61" size="16901472" crc="adfaf993" md5="38432f6f6051e25f9bbf4a659c3cdb64" sha1="d054288f39f93800307044d210776df20f7fd1a0" in_zeros="0" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 5).ogg" size="3445960" crc="a1222cbf" md5="9598393f7882fbf84dbe06062696a0c4" sha1="1310471353c6c468935bd09ef6596796dbb58a7b">
+			<source type="AUDIO" frames="7471" duration="01:39:46" size="17571792" crc="4f70ae0d" md5="4d316a61ce0ffd2a832bd74653af0b39" sha1="95a36044f7708761d71fed886eebc0ffe1531f31" in_zeros="0" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 6).ogg" size="3094898" crc="0731b70a" md5="f01898a079f2ab8c9be3ad97a62a986e" sha1="8536195dd3b05bee529204bea6f75f73924e4a7d">
+			<source type="AUDIO" frames="6933" duration="01:32:33" size="16306416" crc="6a5ad6f1" md5="617fdbc8b8c57b257c79fa1f347bcf56" sha1="1e213a520c798b43e5bca5792907413ee0a12f1f" in_zeros="0" out_zeros="131853" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 7).ogg" size="3343080" crc="cb50728a" md5="a030744bbca28725fba7b138323e82df" sha1="1df275a5d2f7d0af74dfb620a2aa7be4befd5bb5">
+			<source type="AUDIO" frames="7137" duration="01:35:12" size="16786224" crc="246c4b62" md5="bd9c75a65ebbcbfafe79713db220614b" sha1="6f783bb418bf7012f9784282a6487147bb6cc4e5" in_zeros="266440" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 8).ogg" size="3420256" crc="f05ee279" md5="a7dbce81634e7a72a62b89578c598e87" sha1="3e5d34cf42ad0a3f235128e7a2ed9dc11e534a26">
+			<source type="AUDIO" frames="7442" duration="01:39:17" size="17503584" crc="5fbc427c" md5="d23fef34b3688c35bed7bbffc49a0b41" sha1="eee9ee270a6bc8a96de27d66dca56d8d2e93c175" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 9).ogg" size="3656048" crc="0d3936f3" md5="0b1cd81ba67297fa25b9724d51497542" sha1="51e7946101540df246a4300b7014b374b3f174e8">
+			<source type="AUDIO" frames="7449" duration="01:39:24" size="17520048" crc="483ac0ad" md5="35e45b11676906a7e4cf6bf0a4b8bf1f" sha1="4e6b580a6f6a7b598c19ebf65257647b5feb385c" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 10).ogg" size="3378400" crc="a8bbce8f" md5="780c13dca632242b1e869664f9a2087b" sha1="4d6ca6e69c492a6dbdad38b8afab323212e1351a">
+			<source type="AUDIO" frames="7441" duration="01:39:16" size="17501232" crc="894a4f6e" md5="3176c2302ac8514531ec08ff965a89ec" sha1="fcec9e5229cd741f2171835be07091503da817b5" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 11).ogg" size="3101523" crc="e4bd75ba" md5="9ed326f93c80ef3aa5fcf6409670c396" sha1="e9bd887f8d2c72b987977fb60b26eebccfcb8ded">
+			<source type="AUDIO" frames="6930" duration="01:32:30" size="16299360" crc="40d23aea" md5="20aa938b9d84da70a1ffd6402def1d3d" sha1="2445136240c6c17582963cb95c473adda60b9080" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 12).ogg" size="3132550" crc="ff36fe4a" md5="ce99740e188150d66e4226444d13671c" sha1="5eff6f88814af75073b420e0726649eaf653d904">
+			<source type="AUDIO" frames="6878" duration="01:31:53" size="16177056" crc="4c7f52d0" md5="1be129163dd1abd100c35e8cdc556510" sha1="659f1bc2d8081b0db7049a1fd02c9afaf02e8bcc" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 13).ogg" size="3048545" crc="bfb5b26d" md5="fff6feb10404045381c86a244145cf9a" sha1="c4f9e8830de812ac9fe151abd295af34c0a4bf36">
+			<source type="AUDIO" frames="6977" duration="01:33:02" size="16409904" crc="24f2616a" md5="1d4c91dbaf9e3fcaddab9a692d13b3b8" sha1="288f90a0490c97ef0b4db2fdf6df4693c819211c" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 14).ogg" size="3253180" crc="97d3f9d4" md5="90d9ea070b33709413c165d149d491da" sha1="97e96061936e5287bcb15cfe1d970efcd879fe07">
+			<source type="AUDIO" frames="7027" duration="01:33:52" size="16527504" crc="426f762f" md5="6eaa6a7a4105b16b20e6895610a72d43" sha1="6a3aac787560b772fc062b590e71881d54231084" in_zeros="0" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 15).ogg" size="3341457" crc="a875f539" md5="553e372ecc040259a279bf5affa04534" sha1="036400bdf4dccd09202aaf7a3e71faf3494b6411">
+			<source type="AUDIO" frames="7125" duration="01:35:00" size="16758000" crc="b21e2f8b" md5="087caf804ac8aa10810d532a9856353a" sha1="eb344ccfe4f93411eb14e09adbd4199ebe6a5315" in_zeros="0" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 16).ogg" size="3309942" crc="67ede714" md5="c8313502ddabc05a7bd60ea551ce9298" sha1="3c390729b4f28917a78db3cbf6d07e770ed69149">
+			<source type="AUDIO" frames="7222" duration="01:36:22" size="16986144" crc="282877cc" md5="87e835e26e5ea79565f430bc8aa13d34" sha1="64e4d6f6b1e87d6891c8e37445752453d10c4d31" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 17).ogg" size="3668917" crc="645975ec" md5="1b2713ce29c40a81aead55bd2820ca74" sha1="9282e9447f617cad8a0b21f4b072d28e7814ede9">
+			<source type="AUDIO" frames="7444" duration="01:39:19" size="17508288" crc="4a8f7509" md5="41e853d50a1b9cdcbbd1d528c32508cc" sha1="0d81de562666c2552921145a8fe6e3f83bc4c555" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 18).ogg" size="3586238" crc="70310627" md5="6c4811843230d8a1bbd6531752ef1981" sha1="5368d4d552d44d6d1dbf9c1fc247723b67392d23">
+			<source type="AUDIO" frames="7651" duration="01:42:01" size="17995152" crc="c375f4bc" md5="c2586e880de9b09d8924b6ed7d35e254" sha1="f658e163f3b63ba1b683aebcf4441fac12656cb7" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 19).ogg" size="376398" crc="0f0c6bc8" md5="5e3d53e1d03524ef25334af18d170cae" sha1="28ef62b199e59fec7f1539af58143344a41f33cb">
+			<source type="AUDIO" frames="812" duration="00:10:62" size="1909824" crc="a88cdf3e" md5="c31663f66e96bcb966e35b2c11221908" sha1="5b88bfa49b4567fdc3f57358729fa950ccabd540" in_zeros="0" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 20).ogg" size="394036" crc="2205e56f" md5="7587f2574a5afd35dbd486b168548f16" sha1="a24449441d345746a4ecec0fc1db80cfb406639c">
+			<source type="AUDIO" frames="942" duration="00:12:42" size="2215584" crc="be58e9ec" md5="05e5bb1b4d2244022b0000746ed208a0" sha1="92cce8f4e0582cca0d1bde45c2f75e23964bedd3" in_zeros="2" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 21).ogg" size="375368" crc="d34d7e17" md5="7d1c9e99056493fe8f106d2bdfeceb66" sha1="78ac20f3d70335377d1f4d62876e1a7818cdd8b5">
+			<source type="AUDIO" frames="875" duration="00:11:50" size="2058000" crc="6888b449" md5="4cd64192bde04370b7d1e99615515f43" sha1="f0a5aa2302630f0bf953aa88162c9b1da086ec60" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 22).ogg" size="190453" crc="f240c7aa" md5="7abd59e6b01699c459d1e27cc4b09ad2" sha1="1e5ecf048728076444d87ee7a1a4b20666c167fc">
+			<source type="AUDIO" frames="457" duration="00:06:07" size="1074864" crc="bcaa0af8" md5="92009439f0d1d31a2fae2fc632618b0b" sha1="729ff6f30686f2dfb43ca8c388f9d882148ccb5f" in_zeros="0" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 23).ogg" size="182221" crc="0b70d27a" md5="5e85f356a02fc2f67cfd81c65ea55865" sha1="48ab391a27507e1301b665296dc91f0a18c35eb0">
+			<source type="AUDIO" frames="429" duration="00:05:54" size="1009008" crc="5f30c579" md5="63b3d98b141b4e9882d5b00e7614e827" sha1="ad5c05045c26c8fee355a6c9c699ace1c83f08c3" in_zeros="0" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 24).ogg" size="339256" crc="a048979e" md5="2ff4a48a790144785d613f88214c56c9" sha1="2f4673ba7466c3e6412f96a2f1365c07c9ab4db6">
+			<source type="AUDIO" frames="756" duration="00:10:06" size="1778112" crc="5e52aceb" md5="5d76f547b41043b0f6ad4673c8c77b8f" sha1="58f3f277d74794764a2f5bcc6f42bc1900665edf" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 25).ogg" size="525594" crc="57bbf0ba" md5="39c956e25f14be5a66c87e1b0bba2d0b" sha1="dd4656a46d63056aa13ceab0ca3b0c4b84629ec7">
+			<source type="AUDIO" frames="1216" duration="00:16:16" size="2860032" crc="3e70d062" md5="2f6221d9d65db80b1e145db0af98770c" sha1="dcb52e1a47d97a36eeb0a1eacd8db8734d4c7ac2" in_zeros="0" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 26).ogg" size="3523537" crc="5d143d6e" md5="da50f6c5ade31241ad426a69f03aa96c" sha1="2230eb9e68646de6fda3832fa62623bb6c639977">
+			<source type="AUDIO" frames="7254" duration="01:36:54" size="17061408" crc="e9f01f55" md5="c878d8c8b19f301715cb96772cad98f5" sha1="3bab844ebbd8154a15261534f18017572cc2e892" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 27).ogg" size="3554061" crc="03b780f7" md5="f7a05d3dd4ab952cc2721790039b2573" sha1="a249b24718c814c60494e766480a4da5d68028a6">
+			<source type="AUDIO" frames="7186" duration="01:35:61" size="16901472" crc="7a4a74d6" md5="e1711064629f12bac11761a803c11bd2" sha1="b317385c9d90443ff381780c109236aa774066df" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 28).ogg" size="3531259" crc="ba311060" md5="7eba83471d775be0886b68e8726a2ff8" sha1="e365e484997750df6fd955b73703184a0f2ad162">
+			<source type="AUDIO" frames="7487" duration="01:39:62" size="17609424" crc="bc8d5827" md5="b9c1dccbc18fa67d5ed134cb512f0cbd" sha1="db66e585b0d3556d85441a3e0290e43157e8b276" in_zeros="0" out_zeros="1" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 29).ogg" size="692428" crc="a0bfd181" md5="631ea27034124fa0446aa2e0e1d6ab00" sha1="88d345f6b7553f9ad00d17606fb4da0cfc66d43e">
+			<source type="AUDIO" frames="1571" duration="00:20:71" size="3694992" crc="af486a99" md5="45517231c96e6f69be64b20cd05c69ef" sha1="92ab4fdab08eb50f983811a558884290980b1e6d" in_zeros="0" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA) (Track 30).ogg" size="1120494" crc="a23c78c2" md5="bf06e4bc06908c90b5597123a908290a" sha1="c501e9eef51c1547674fd4c001c122e48b4b9222">
+			<source type="AUDIO" frames="2606" duration="00:34:56" size="6129312" crc="73955cb3" md5="03bf6bf709edf452c70962cd45cb3325" sha1="ef75d37d49163b1a0cfe3d8447ba07783ecc0159" in_zeros="0" out_zeros="702597" quality="8"/>
+		</rom>
+		<rom name="CD/CyClones (USA).cue" size="2510" crc="18731343" md5="2130c14e7b248297bc0c1f531285a87e" sha1="d6e4cf5ab54c06d6badb79b35817d6a15510f00e"/>
+		<rom name="CYCLONE.CFG" size="39" crc="ceea057d" md5="b0b3cec8bc8cdaecf0c7ea9505057d69" sha1="011609a5e98892db3dac1e396247906edc77e84c" data="RA0KLlwNCi5cZ2FtZVwNCi5cc291bmRcDQouXGdhbWVcc291bmRc"/>
+		<rom name="CYCLONE.EXE" size="700181" crc="69fedb40" md5="8b5b7bc1644debc3e6a9d391412561a8" sha1="9f3eb5efd42c1c47f9f90312a0fbf862edf06191" date="1994-11-25 19:40:46"/>
+		<rom name="CYCLONE.HD" size="1413373" crc="737dd314" md5="8ff199f7365ebc6f3e3ea480fb5210a2" sha1="c4d13a8bcabbdfbde1b1a4f80a8294a00650b26b" date="1994-11-22 18:41:58"/>
+		<rom name="CYCLONES.EXE" size="16352" crc="317bed52" md5="77e9d62c3aeb5be20e7d9cff6dc7a43e" sha1="0a4997aac322d506d96806a3e6995479188d4641" date="1994-11-19 10:47:02"/>
+		<rom name="GAME/11.SMK" size="1380964" crc="1751ff59" md5="59eaad376b2fa2a4022d7b41772e9e4e" sha1="7950a59d8f06ed52b6dba726e2ac913cdb766f41" date="1994-11-07 10:48:38"/>
+		<rom name="GAME/11.SSD" size="62" crc="a0eadf96" md5="fd905dccb37325830c027de6dd68e41b" sha1="3e760fd80330280b7913b9f39d32bf2bd91173ea" date="1994-11-19 07:23:56"/>
+		<rom name="GAME/14.SMK" size="1424212" crc="2ede08e4" md5="e52941c57815f5854098472c5c4aab77" sha1="14189d98e40fdc22f03feafd6b0bfbf45c476c35" date="1994-11-07 11:03:12"/>
+		<rom name="GAME/14.SSD" size="62" crc="0f0af729" md5="65af90c1b93837eca1868265e01181c3" sha1="ba153fd2665d5a5a708f5b48dece010d41d63208" date="1994-11-19 07:26:50"/>
+		<rom name="GAME/1A2A.SMK" size="4892904" crc="7aed0e85" md5="f57d482f42611c3e15af46acf53c6e56" sha1="0654f89d98a1a39afdac10ca9fdb982280d7c54a" date="1994-11-08 07:08:12"/>
+		<rom name="GAME/1A2A.SSD" size="32" crc="d88b836c" md5="00ac6dc3b86ecab87e4737a026c07ce0" sha1="339aee884949e5dec53feb34c65f02f9af2c756c" date="1994-11-15 06:00:12"/>
+		<rom name="GAME/1A2B.SMK" size="3725200" crc="cfd06d9b" md5="41bc4c4f751d1ebaa2151d73065b69d0" sha1="1d6e59fa9aa25a533e0c85c85426400b8bc16776" date="1994-11-16 09:46:50"/>
+		<rom name="GAME/1A2B.SSD" size="32" crc="1dd69b78" md5="2005532951bced24d6060e9ad3bfcc46" sha1="40ca4c88f245d547c71b849626bf44bc60384862" date="1994-11-16 09:58:58"/>
+		<rom name="GAME/1A3.SMK" size="3083788" crc="0f7c71c7" md5="8f20ef8312686186a4158b62cce450b5" sha1="6cf4c360a9793174ac1406789cb9047f1d271176" date="1994-11-16 20:38:04"/>
+		<rom name="GAME/1A3.SSD" size="32" crc="fb5f45ab" md5="d6657c12427c9bdd5922d9d03c12b0ed" sha1="1a88d41c00df69f04a04c3764b15614f8a7b5936" date="1994-11-16 20:45:10"/>
+		<rom name="GAME/22.SMK" size="319976" crc="1d202945" md5="71afda3298651ac0881bbb1fe5261659" sha1="c201f4c26bee7aa0c6b746597f7fbb8459e72ece" date="1994-11-07 11:06:50"/>
+		<rom name="GAME/22.SSD" size="37" crc="4c03d381" md5="d782bcb04ea0fa936fd9613b512b0272" sha1="ae9e4cd875b7ce9437d636c9092ff8ef2ad0961c" date="1994-11-15 07:05:06"/>
+		<rom name="GAME/30.SMK" size="5064208" crc="a0817351" md5="24fc0f444abd2d6985dace6ede1dccbf" sha1="18564e8b6a66ad3e234d4e5cdb2c638ec19c6261" date="1994-11-17 13:11:24"/>
+		<rom name="GAME/30.SSD" size="32" crc="fffced02" md5="bfdb0df04b5e2fa3fcbb1dedf52b777b" sha1="6057b6ab4d95167e34c76ecbf8339bd925e919e4" date="1994-11-16 11:04:04"/>
+		<rom name="GAME/31.SMK" size="4946948" crc="a456b121" md5="b48990cff4bcb89fc026db7b2acb816d" sha1="d5ba332baf00cc9d3f892700cdff8a0193807e0f" date="1994-11-16 17:57:16"/>
+		<rom name="GAME/31.SSD" size="27" crc="8059121f" md5="c84881c16095a4ef7e17bd9f108a58c9" sha1="a69d70c7635fd01089eea23275488f86a36d2b0a" date="1994-11-15 06:56:22"/>
+		<rom name="GAME/32.SMK" size="2058500" crc="18b0ad31" md5="9d3f4c5c4103f8e16cb21ab8fe33c70f" sha1="2fcc11657897590689a28f233d1074ebdc8456a8" date="1994-11-16 07:16:18"/>
+		<rom name="GAME/32.SSD" size="32" crc="b5435928" md5="0d7aa6bc753694e62988f8c2087bc707" sha1="12d5845834661bf42c6e8b7d716ed6e98470a81f" date="1994-11-15 07:02:44"/>
+		<rom name="GAME/33.SMK" size="3047332" crc="8a3fbc79" md5="1d2b4eccbac0fd196edc2462301dff04" sha1="3b5522b31e14102246ee958bbf11b0f80c33d377" date="1994-11-17 05:59:48"/>
+		<rom name="GAME/33.SSD" size="27" crc="ae445c16" md5="3e16618ed55b5a56cd30030aa8b4ac81" sha1="9650191bc3cafe7180b1eae02aa58e40e1f16082" date="1994-11-17 05:04:58"/>
+		<rom name="GAME/34.SMK" size="3905312" crc="9a5cf7eb" md5="dcefa3ca7abfdc03ba6cd0b17a5c547b" sha1="c1ec63d611f5247f2ccd287dea2f142096c849ba" date="1994-11-17 11:08:40"/>
+		<rom name="GAME/34.SSD" size="27" crc="9741f276" md5="ee776d9fe85bf66eba643a80e775526c" sha1="e3615bec617fcdaedaadd000b64ce182cdda9def" date="1994-11-15 07:07:42"/>
+		<rom name="GAME/35.SMK" size="4837512" crc="a709190f" md5="ec092bcd878622546d580444d2e3a501" sha1="7af4e94a73c1f232bf2d1de258c6e16ca787bc17" date="1994-11-17 07:46:40"/>
+		<rom name="GAME/35.SSD" size="32" crc="ffd41c67" md5="039fd354ff1aedeb9e743e711f6c659f" sha1="63331894950c5320bec81b66426dbb665596ea68" date="1994-11-15 07:10:28"/>
+		<rom name="GAME/36A.SMK" size="3801460" crc="98ae7fc2" md5="c8b360fa623bb8eaf64d53311cbc006a" sha1="4b763a527a9ff72256f814634233b9136c17ddea" date="1994-11-17 07:36:20"/>
+		<rom name="GAME/36A.SSD" size="32" crc="c69ec8f6" md5="b1a0fa761f931246e5de4e833422750c" sha1="678950c77bb5df2cd84073a4cc9879c2a7aec675" date="1994-11-15 07:11:42"/>
+		<rom name="GAME/36B.SMK" size="5617312" crc="7c3c1a61" md5="6ce0f247684dae000f72d51043dce681" sha1="b7608878588ed98ea631a86e83950ee56916b2ae" date="1994-11-17 07:45:34"/>
+		<rom name="GAME/36B.SSD" size="32" crc="b4287675" md5="930fa7686ddb52c828026a93056fa563" sha1="7623afdc33f3b6d99f95fe8791d048649e771222" date="1994-11-15 07:12:36"/>
+		<rom name="GAME/37.SMK" size="2398512" crc="a050b23c" md5="1a67bd37ea901ab9baad13d4921a372d" sha1="3a288b10cd9f943f3c90e70baa21c6df03b082ef" date="1994-11-17 09:29:16"/>
+		<rom name="GAME/37.SSD" size="32" crc="3716c7f5" md5="4ffc3e3ee8dc264a97c01b9bb4462dd2" sha1="b0a581b2adb58fa5c596b744bf866bec7f8b8e4b" date="1994-11-15 07:14:30"/>
+		<rom name="GAME/38.SMK" size="1292132" crc="4644e497" md5="9fece53f616b774ea169c7f41b4da4b7" sha1="56fc679bde725c38df41222d22beb097669ea649" date="1994-11-07 11:26:58"/>
+		<rom name="GAME/38.SSD" size="27" crc="a41a1ea6" md5="cf798464d116d4bc54d6562aaaae58ab" sha1="b4a8b7355ee3873c446480f7e98fdbea71dac72e" date="1994-11-16 04:57:28"/>
+		<rom name="GAME/39.SMK" size="1426064" crc="e9a5101f" md5="827e7a12b7899d6566caf2e3522dc0df" sha1="bce50f4f3a399a690e280bf9e661ad96f25efb0c" date="1994-11-16 06:18:14"/>
+		<rom name="GAME/39.SSD" size="27" crc="6a50e3c1" md5="01b6dc53da1adce985abc127176010c4" sha1="c47dc478b03e26958615c7218449112d5484956b" date="1994-11-16 04:59:54"/>
+		<rom name="GAME/4.SMK" size="1237760" crc="f81d0b39" md5="4f6a53c0753092dbee5ac07a9232c6b9" sha1="3b39446ea93d944e3dd6bd15cdd6b19b8c2e269e" date="1994-11-07 10:31:08"/>
+		<rom name="GAME/4.SSD" size="107" crc="c037c7a7" md5="df0cb54a2d610915565c16a8c8013388" sha1="d2c11d3bbc110f6e8349ede70aeb0d02249cd0cd" date="1994-11-19 07:15:48"/>
+		<rom name="GAME/40.SMK" size="5260508" crc="7e7b489a" md5="dbb64448f4e7835625a04bea76736779" sha1="7591ab47a84e75e1ef877a6cf2fe183720a4f810" date="1994-11-08 09:16:38"/>
+		<rom name="GAME/40.SSD" size="32" crc="0ace7b11" md5="50b0d3263ada969cb7e1f429adcf6c99" sha1="099e1f3a1273fa84e970ff5d6bb439a94ea57d4f" date="1994-11-17 10:02:40"/>
+		<rom name="GAME/7.SMK" size="1094808" crc="00981184" md5="b0db9019a8e2a39f25979f3d01897788" sha1="30a9be6d334a41dc99fdbc8a2699233b3da289a1" date="1994-11-07 10:37:18"/>
+		<rom name="GAME/7.SSD" size="72" crc="5d589559" md5="5a0cc9dfcdee0a609e175b7c5ac845b9" sha1="06aa9d620c6806593ad707e21d6440ccfaa2cdee" date="1994-11-19 07:08:20"/>
+		<rom name="GAME/ALIEN1.GLB" size="6945" crc="c4fa1747" md5="9673257a96415665ee31ce51f26599fb" sha1="814058b184a4a5c0b30f42c173146861a4d6b67d" date="1994-11-09 06:50:06"/>
+		<rom name="GAME/ALIEN1.MAP" size="250837" crc="6badf7f4" md5="37307fc738b5153b935c565b12497497" sha1="1004107eccb53f33aaf00bb1a8beff3c861e9914" date="1994-11-09 06:50:04"/>
+		<rom name="GAME/BASE.GLB" size="8677" crc="93e801b4" md5="63dd7853038307a8fc493ebc308b97d6" sha1="77193da09c7aa522d700e31db4dca6673cc20383" date="1994-11-08 06:22:10"/>
+		<rom name="GAME/BASE.MAP" size="236592" crc="0cb29522" md5="6b60033cff225153cf84659e25284aed" sha1="bf582793ff0b5d7df7aecccf2393a51a88eace5d" date="1994-11-08 06:22:06"/>
+		<rom name="GAME/BIOLAB.GLB" size="7995" crc="b4e58d17" md5="b1163c57b626283bafb9331db2a8350b" sha1="25d01513a915559e43c5b17db4cbd3f3831c9c0a" date="1994-11-09 09:23:48"/>
+		<rom name="GAME/BIOLAB.MAP" size="259293" crc="9715a178" md5="dae5e95131c2a6f1ac5b1afe1204ae62" sha1="e4cbc2a8a694ed995798491612d1b3d1a9b8de62" date="1994-11-09 09:23:44"/>
+		<rom name="GAME/BIOSTOR2.GLB" size="8388" crc="9211021f" md5="addd3f72b777f3f1e49ade276d550a2a" sha1="6292db1345e17d8bffba0eba046a2141fb7b32ad" date="1994-11-08 07:00:46"/>
+		<rom name="GAME/BIOSTOR2.MAP" size="248419" crc="a4aa6a91" md5="767dd665f7c9e2ab789fea829d5c6dc4" sha1="9b061025dcdcdcab6e58b6a21ee95da57334446c" date="1994-11-08 07:00:42"/>
+		<rom name="GAME/CLONE.GLB" size="5312" crc="d72e51af" md5="bc25566d7304edbe5138922c55d6d005" sha1="c5958879eb9d00cccdda2bfdaaf2545e045a4675" date="1994-11-07 08:35:42"/>
+		<rom name="GAME/CLONE.MAP" size="236134" crc="2fff6600" md5="2279f217ba6b0152c479180f87230ea6" sha1="45f75daeacdeaa1f6489f6572765b7b193bfefbd" date="1994-11-07 08:35:38"/>
+		<rom name="GAME/CORE.GLB" size="5745" crc="f8b47a29" md5="dc2c92acc7e0652da49272ea368bacce" sha1="0d41461211a09b64db6456d3f595f86e02acd71c" date="1994-11-07 11:45:38"/>
+		<rom name="GAME/CORE.MAP" size="240617" crc="87650709" md5="c5e745471f37987d7cc4b08d40d82a4f" sha1="614b4004ef8426708e3c512707d28c0fd7ac7268" date="1994-11-07 11:45:34"/>
+		<rom name="GAME/CYCLONE.CD" size="5300550" crc="ca531e59" md5="b1e25adde3ca062fb1632efb165f8b18" sha1="e541a977f61717454217bdc44e62597557a50b30" date="1994-11-16 07:43:30"/>
+		<rom name="GAME/FAILSAF2.GLB" size="7208" crc="7be8f53e" md5="cc0ff1145ed0a6a302bc3101ee453f42" sha1="f7573def193f19c74f16d47c201e73a246b01825" date="1994-11-10 08:44:42"/>
+		<rom name="GAME/FAILSAF2.MAP" size="244129" crc="6030127f" md5="a9af53ef8ac9ca41860d1fe8c61610da" sha1="75e0737d35f10f80357f5bb12d0ba5b705596fcd" date="1994-11-10 08:44:32"/>
+		<rom name="GAME/HEAVY.GLB" size="5887" crc="4e9a6775" md5="a79a6e5eaa0d69252f1400f42edd1be4" sha1="b5a7a65ae8d41fc584a2bdd1bf5b81f43546c44b" date="1994-10-27 10:36:42"/>
+		<rom name="GAME/HEAVY.MAP" size="236118" crc="f4fa2f59" md5="17b5e3fdb3b8a49db2fcf59fad12d0b6" sha1="c09a8255340d7d8eeba938485e68a2ac00c9443b" date="1994-10-27 10:36:40"/>
+		<rom name="GAME/HIVE1.GLB" size="6386" crc="32a46d3e" md5="b43d51b1cd1ba92313bc77a6a1d8a8f9" sha1="3ef47f2a276fa3d5185a531438de542b5a915a40" date="1994-11-10 10:40:30"/>
+		<rom name="GAME/HIVE1.MAP" size="242089" crc="9470c6a7" md5="78c8e8efbc1a8145c9d052f541951bb3" sha1="2fbeb26b1b75bc95f72a20379523c313b87dd4a7" date="1994-11-10 10:40:28"/>
+		<rom name="GAME/HIVE2.GLB" size="5240" crc="0bde40aa" md5="8d4d4fd61300523763e38f78558cae34" sha1="96248db0b403b8d508a6854cb7de6f060926c217" date="1994-11-10 10:41:08"/>
+		<rom name="GAME/HIVE2.MAP" size="236102" crc="6fa78e54" md5="2302ce21377388fb2cf17cc55f046303" sha1="375e45034785990b3fe9ca64030b28a5b89e6a01" date="1994-11-10 10:41:04"/>
+		<rom name="GAME/HIVE3.GLB" size="4976" crc="61375145" md5="7b1e73b5c547f43171714b53c7ff5ecb" sha1="dfd0ef97886a427f2f258eb322d069c4836e9320" date="1994-11-07 08:26:34"/>
+		<rom name="GAME/HIVE3.MAP" size="236206" crc="389df6ce" md5="98530afb0a5971b302f861dfd3434deb" sha1="b2fd2ede05ff891abbc91bde268194ee55523a67" date="1994-11-07 08:26:30"/>
+		<rom name="GAME/INT1.SMK" size="1813192" crc="487d4d6e" md5="aff1cac8c3f023491855a6c9d78fca52" sha1="83f2def134adb844f6c7d055f2b49aa63b06d8cd" date="1994-11-07 09:57:00"/>
+		<rom name="GAME/INT1.SSD" size="162" crc="d02882f6" md5="cf564f1580584e9a6a2ac5c5e63d7a35" sha1="cb130f724f3af1e10e050d6dda1715c03d7d3fd2" date="1994-11-18 19:00:26"/>
+		<rom name="GAME/INT2.SMK" size="626312" crc="b550ffc3" md5="076fed4f53834be76054bf875e93c6f5" sha1="c3a7180f37444835bfe545ef1e7cb0996c93eac7" date="1994-11-07 10:00:50"/>
+		<rom name="GAME/INT2.SSD" size="92" crc="b8cc82f7" md5="99f5ae2a5b995cb988d99f436c736473" sha1="97588937518901ac4e9c8e307643e84068ce3301" date="1994-11-18 19:18:20"/>
+		<rom name="GAME/INT3.SMK" size="875304" crc="d12fac03" md5="7ae6b01c3cf923f5d4fe455b41c5009c" sha1="c578026bff8d1c8d48ae43afb001b4f6d3021e58" date="1994-11-17 12:05:58"/>
+		<rom name="GAME/INT3.SSD" size="77" crc="495d7f88" md5="5b3adbdc4c98af65bedf5ef62ba495f3" sha1="2f9109ae49488196099fe2b499630660457cc70b" date="1994-11-18 19:20:56"/>
+		<rom name="GAME/LAB2.GLB" size="9293" crc="dd16b6cc" md5="e2789cc21adb1ec203babce249b1b030" sha1="10b1604e46b859d7c2afe818bece0f09aa48f588" date="1994-11-07 08:43:28"/>
+		<rom name="GAME/LAB2.MAP" size="252712" crc="9497ee86" md5="774d1067ac35a8cd5db02f7345e5d943" sha1="c0212622df90250cfee9ddeb86fcd9dcb2ee1804" date="1994-11-07 08:43:26"/>
+		<rom name="GAME/MAINTEN2.GLB" size="4062" crc="9d52f1e7" md5="8fd8115bfb00514039a75088f59daad5" sha1="3882786f3c71408749b3c8481de0bfff6f7c38d2" date="1994-11-08 05:31:54"/>
+		<rom name="GAME/MAINTEN2.MAP" size="240150" crc="b2188146" md5="a0d95441d91dda433d71e13531b4c55a" sha1="26c84bb54426ecfb7ac25e2f6837d92335198773" date="1994-11-08 05:31:50"/>
+		<rom name="GAME/MOTHER1.GLB" size="6872" crc="b967fdd6" md5="85eef3a6f1283f06d370cbb6d9a823d1" sha1="0967e52ca7fc7d8af355eb0ced326983fecfbdbf" date="1994-11-07 08:30:36"/>
+		<rom name="GAME/MOTHER1.MAP" size="253027" crc="fc32ba73" md5="e81beed9491cc247b911b152e0f0dda9" sha1="11f95e8cc135790604e9fa4616089229dfa937a4" date="1994-11-07 08:30:34"/>
+		<rom name="GAME/MOTHER3.GLB" size="7587" crc="04513c74" md5="bd32ef7dbb18f9673fe91663e462f94c" sha1="36ad1ce950eb2793c3850c5ceaf9d811a558452c" date="1994-11-21 14:14:10"/>
+		<rom name="GAME/MOTHER3.MAP" size="254699" crc="8b2a4973" md5="4d2f614c0e2e2ac3b05c6726c6f2cf54" sha1="5d215d8a6dd1d73d29a06763a90bcecd4b04f5c5" date="1994-11-21 14:14:06"/>
+		<rom name="GAME/MUSEUM2.GLB" size="5977" crc="731a524d" md5="271a69271b51c57e28d92a6697143db1" sha1="b359d49691093deea47a47a39667bbbe084257e2" date="1994-11-08 09:39:02"/>
+		<rom name="GAME/MUSEUM2.MAP" size="249526" crc="fcffa811" md5="57b527d48fae95435be1a3ac73a8feff" sha1="b8edc2f63545b9ea20a2b9643a15862f40a1dfc1" date="1994-11-08 09:39:00"/>
+		<rom name="GAME/RAVEN.SMK" size="446068" crc="ad0275e7" md5="0b007526e4f81b27fc7b4e6a2c4273b0" sha1="943359f270a437cd3984bc5b797106a6fd2285cf" date="1994-11-17 11:10:08"/>
+		<rom name="GAME/RAVEN.SSD" size="37" crc="258b7e14" md5="e63be84812cbf0d90452c166d98a7b39" sha1="33b8b6904e5fc087932c914bae0dff6815ac020b" date="1994-11-18 15:24:20"/>
+		<rom name="GAME/RAVENED.CFG" size="14" crc="60cb94c9" md5="a9e5bf5a8dffb8ef829fc15dd2a4634c" sha1="7b82d92eff91d494a54237011ece46364d76bbdd" date="1994-11-11 09:40:00"/>
+		<rom name="GAME/RAVSMK.HLD" size="438704" crc="3794e711" md5="dd51ba6b944d67fd509219cf92aeca7f" sha1="8e7dda7f04636cb71d6ebd48ff6cffb725d4e99d" date="1994-11-02 12:04:28"/>
+		<rom name="GAME/SDI1.GLB" size="6744" crc="fcf51446" md5="e24f2b02972872890d2dd092828ba45e" sha1="e3c50ab98177c0479350684fd3cfb4f0323fe712" date="1994-11-11 10:44:02"/>
+		<rom name="GAME/SDI1.MAP" size="243796" crc="ccaf7ea0" md5="832e47db1dee38194e0cdaca3d7b312d" sha1="aeab1ed2103a55a21a6a8c7a749b0f077c14314a" date="1994-11-11 10:44:16"/>
+		<rom name="GAME/SDI2.GLB" size="7803" crc="73c979f4" md5="3123aa8117cdcbed669bcc4b7f1a5bac" sha1="2fe7483250f196fdf1b38d43ee025bb9f8c66e81" date="1994-11-23 10:37:38"/>
+		<rom name="GAME/SDI2.MAP" size="241473" crc="2fb9fc26" md5="0c53713d592763835cb2d54bc016ca56" sha1="2cd17d4f5ab295dbd39bedf8a8284898a8001aa6" date="1994-11-23 10:37:34"/>
+		<rom name="GAME/SDILAB.GLB" size="7054" crc="1cea2a0d" md5="6a029ba366fe5f3fedfd2cca342a2bf9" sha1="16b5fc3cc6a3438a9782f9e61af16181257d8208" date="1994-11-10 10:39:02"/>
+		<rom name="GAME/SDILAB.MAP" size="258530" crc="54a311ed" md5="c0b6306fba625e520a710ee6f8b98df5" sha1="cc4c128aac21a9a4d8644e0e8e5a50a9bf401274" date="1994-11-10 10:39:00"/>
+		<rom name="GAME/SOUND/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1994-11-22 14:01:28"/>
+		<rom name="GAME/SOUND/201.RAW" size="922751" crc="edf16736" md5="eefe9c28a3deaf6171e0196172224caf" sha1="fa36787e68bdb6e1fe95f365562795aaa0f525a9" date="1994-10-31 07:14:16"/>
+		<rom name="GAME/SOUND/202.RAW" size="585728" crc="19a3dd48" md5="0b5450f1bcd15e7466cf099fd1e2943d" sha1="6ab30b91c441929d8bafeb593595b758fdd45b9c" date="1994-10-07 11:12:54"/>
+		<rom name="GAME/SOUND/203.RAW" size="818304" crc="8cc2969b" md5="47e50f85f813f50125f07141ff0e0a54" sha1="df8d58a1144d65f1e7b5223b1a9f5d0371ecfcb6" date="1994-10-21 20:15:12"/>
+		<rom name="GAME/SOUND/204.RAW" size="634112" crc="6a2379e5" md5="bdcf99a0fadaf5dde4ac1cd8e0fddd3a" sha1="0592f3c9fd00fcfdc69fd17f1753d4217f964d0b" date="1994-10-12 12:35:28"/>
+		<rom name="GAME/SOUND/210.RAW" size="550272" crc="7650307e" md5="aa6a1190b6fe42fc611b54d2de927b40" sha1="88cedd3cc71b09d1a6d3327f9c5eb116cf952b68" date="1994-10-30 20:14:46"/>
+		<rom name="GAME/SOUND/211.RAW" size="380928" crc="8a807f1a" md5="673de8a9613ddd3826f0911911d0abd5" sha1="97a7f7db99d9a6be2aa34b3fddb103d7059ba940" date="1994-10-12 15:38:44"/>
+		<rom name="GAME/SOUND/212.RAW" size="741931" crc="4dfb146a" md5="851b55f2f560b2b1fa3487ec9b5f94bd" sha1="7b0443f4a65887ca330f98094e59dc569ed12d9c" date="1994-10-12 16:11:32"/>
+		<rom name="GAME/SOUND/215.RAW" size="762860" crc="baaee6e6" md5="58ce76953eafef4eacfc70dab2c68752" sha1="a96669a1913836c2a5be250e5c6811805b2ff1fb" date="1994-10-18 13:01:42"/>
+		<rom name="GAME/SOUND/217.RAW" size="326380" crc="7f240cbc" md5="2cf84e406c2c2878154d3e28b9c02bb9" sha1="43c4e7575227a488588bbcdae50a936c5ef37169" date="1994-10-19 12:21:10"/>
+		<rom name="GAME/SOUND/221.RAW" size="408576" crc="e98534f9" md5="1df3c5d42507934bd4035fbe3058085e" sha1="4d9792b908b17fb551431f3ca86085e663096338" date="1994-10-21 15:26:42"/>
+		<rom name="GAME/SOUND/222.RAW" size="151296" crc="8836818f" md5="0a3419924af99b54ff1f675f4f564999" sha1="6159ab042c0198bf83f1d65c7a992ace0f3585af" date="1994-10-21 15:28:22"/>
+		<rom name="GAME/SOUND/223.RAW" size="378880" crc="c558b49a" md5="ae6107c4ffa26117df289664d233ceca" sha1="7cb7c5ac0d645bc10e48aa6b1e3d62865f69475c" date="1994-10-21 15:29:50"/>
+		<rom name="GAME/SOUND/224.RAW" size="88299" crc="8cc4e00e" md5="dfbbfaa2db21c3f0d4ce68a23340778b" sha1="b12f0185bba4a38572349aa3f1f27fd3b9dd7cf7" date="1994-10-21 15:30:24"/>
+		<rom name="GAME/SOUND/225.RAW" size="483328" crc="e9f881e6" md5="a9d8bcef7b98e83471bb7be6fbddc92e" sha1="1962decc9ffaabf25b4d4c2235e8e961b7800522" date="1994-11-08 07:03:40"/>
+		<rom name="GAME/SOUND/226.RAW" size="419773" crc="305ccfe2" md5="f096b6109bb5f40a573f8ea8d4a496c8" sha1="40f9983391bd3d2ef4fd98d737a75074c3a5f232" date="1994-11-08 07:31:52"/>
+		<rom name="GAME/SOUND/230.RAW" size="559872" crc="73c3838e" md5="5c58df37211f0828a5970bac12c101ac" sha1="650f82d266efb73f630ee3273d3c84cda3a4ae08" date="1994-11-08 08:05:00"/>
+		<rom name="GAME/SOUND/231.RAW" size="599040" crc="b6a959b2" md5="d7c3be68b8fcafa393d1fc86ff3e9fe4" sha1="823e993589e0619f9c4c7fd4867938c5b4ef4b18" date="1994-11-08 08:05:16"/>
+		<rom name="GAME/SOUND/250.RAW" size="619085" crc="9fd53fe9" md5="bb11ad4f996c0223ad523ad28476c6ef" sha1="b7afc479a1adc3b4609c4173f4ed04f994ab1e6b" date="1994-10-30 23:14:34"/>
+		<rom name="GAME/SOUND/254.RAW" size="106496" crc="4e9f4e10" md5="fc8729ca8cde2d889742c3cb622d72cf" sha1="4d62dc9ac5e0c4e2d1b1da9b4ca9f81889725642" date="1994-11-07 11:19:40"/>
+		<rom name="GAME/STATUS.ME" size="1108" crc="ba08e84a" md5="88b99d6e617302750358105556042ccc" sha1="d20d4a8e0b46be6aafd09d33f31db1203ed06c4a" date="1994-11-10 10:52:30"/>
+		<rom name="GAME/SUBWAY.GLB" size="7612" crc="471367b7" md5="a5f6fbcdc22a8c7c830fa71742da6872" sha1="c513fcfb5c38cf60c652e3b1a4210c5b3b43ae72" date="1994-11-10 10:44:06"/>
+		<rom name="GAME/SUBWAY.MAP" size="247220" crc="fdaa8e2f" md5="fb4f95b1536022bc7ed77d26a126bec2" sha1="e79ddabd98e46b84f9670dc857ed592b945545b3" date="1994-11-10 10:44:00"/>
+		<rom name="GAME/TUTOR.GLB" size="8677" crc="ecd9f46e" md5="d72f8c1af526c564fa518f6d2ef853ea" sha1="076c3977e0ab8ab1db659f664b20d129f1b543c1" date="1994-11-04 07:08:04"/>
+		<rom name="GAME/TUTOR.MAP" size="220513" crc="cd638882" md5="604c7aa6a845467d5c7360f69d31a470" sha1="1c73339db601b20f4f4bf31dfb4c44fb19948b7f" date="1994-11-04 07:08:00"/>
+		<rom name="GAME/TUTORIAL.GLB" size="5302" crc="ea56871c" md5="2e265f2ecc4c44a2ec7de1434c66e0f8" sha1="e1f9c4cdf66db0257dfd0cc5100e2aace60eca11" date="1994-10-05 14:25:40"/>
+		<rom name="GAME/TUTORIAL.MAP" size="225998" crc="68a2c1b9" md5="e421d672449d347c059c632702783a16" sha1="1dd90bf48721b9b477ff33faa18bda3d72217507" date="1994-10-05 14:25:36"/>
+		<rom name="HMIDET.386" size="87250" crc="37e2953e" md5="1e4adbaa407aaffcd9d13258cae44267" sha1="ae867e045b5a9629fe7a1414bd3d4b3fa902b166" date="1994-10-14 03:00:00"/>
+		<rom name="HMIDRV.386" size="261092" crc="009a57f6" md5="8f3ce462ae3988e99db5af95319d71c9" sha1="ef7822c2fcb10b038a4c961afd9b5f321d5945b6" date="1994-10-14 03:00:00"/>
+		<rom name="HMIMDRV.386" size="115909" crc="5bfb567d" md5="6149f9eb0ac7300cf858a9878cc50016" sha1="89fc36de6915137bc4cf7d51d1cd793f173a6001" date="1994-10-14 03:00:00"/>
+		<rom name="INSTALL.NFO" size="440" crc="a2831d8c" md5="83e28c8805fba6b75b1d103dbcfb771d" sha1="83f36fd560969f36882de6f606e97992451c9f40" date="1994-11-09 14:26:40"/>
+		<rom name="KEYMAP.BIN" size="2928" crc="fc890299" md5="0d27c0ee3f0110d65ed21d667aeaf4da" sha1="dfbbd469289f4d7fe14bca38592460388e572215" date="1994-10-12 16:04:46"/>
+		<rom name="KEYSAVER.BIN" size="10772" crc="6cbfbda6" md5="106fcda806a151ac865ed3218824bfa7" sha1="6d30858c753648a0fc784858dba5294e4eb20a81" date="1994-11-16 11:54:44"/>
+		<rom name="PIC.BOL" size="64806" crc="fdcb8361" md5="c1c4f03c6ab0b64c0d171eeda93ddf6c" sha1="28e7c1e914f4df1dcb4fc49f640ed7f2638f662b" date="1994-09-20 16:50:36"/>
+		<rom name="RAVENED.CFG" size="14" crc="a8dbf1a1" md5="3035aa2b5afd249656437c0df132713c" sha1="77babb00d8ca17e854f436c6d69079e9d0c82106" date="1994-09-10 16:07:12"/>
+		<rom name="README.BAT" size="29" crc="0e9b86d2" md5="903362504c9cbd49033a3047387190be" sha1="082212d3fb323cb98e3efedc42e1e14aa9a3d9bf" date="1994-11-09 15:54:38"/>
+		<rom name="README.TXT" size="13622" crc="2edd1146" md5="7868a0f0c6d49f9e1c0680fc7701393e" sha1="6c315a6b55a8ee9d4eaec69441224e8f87561369" date="1994-11-23 16:47:14"/>
+		<rom name="SMKPLAY.EXE" size="360623" crc="fd1664db" md5="b3c17ef1d25148c91ba59a6e48b45ad6" sha1="4b46a61f38d026b558f0cbef3d57a1de3866499b" date="1994-11-23 12:42:18"/>
+		<rom name="SONGSHMP.TXT" size="127" crc="89201503" md5="b625ad062925d0de97eefadf5ee68782" sha1="2d5fd8e3b66a96681ebee9c3ab3521daa0043e00" date="1994-10-17 14:44:40"/>
+		<rom name="SOUND.BAT" size="13" crc="cd2c287d" md5="7d59e70ab67e6b6fc24aefe844730390" sha1="19bce7b52642d0bcd546183b57f3d1b59c1caa32" date="1994-10-26 18:07:16"/>
+		<rom name="SOUND/1.RAW" size="6297" crc="89dfda00" md5="846f0b2ee28f0f3d0ecb5d8fe86d02fc" sha1="28d0c3899e0e2afa1db0ae6fedaa47bf4733d3d9" date="1994-08-12 00:01:26"/>
+		<rom name="SOUND/10.RAW" size="9978" crc="ce7cdb74" md5="56cf1f06a91ffb478d0baacf3f02e623" sha1="fb726be8964b90d9626c3b9f507d6a513a4976a1" date="1994-08-12 00:01:32"/>
+		<rom name="SOUND/100.RAW" size="5888" crc="d2554664" md5="32b8adf5556f8b6d73bda06fe1c1bc4a" sha1="a5f9849ad69f2a7af1c2e174d4aae4a7fb03495a" date="1994-10-11 16:14:00"/>
+		<rom name="SOUND/101.RAW" size="6240" crc="df283f3f" md5="446cf723b6bb86f15fe5349e5191d0db" sha1="cc1ad7ecdcec982dd4915b55cec5d4135dcc1d74" date="1994-10-11 16:15:38"/>
+		<rom name="SOUND/102.RAW" size="4608" crc="20bd2b8a" md5="d52adb069d999b6708317ab6fa5d437d" sha1="d56209132efd7e822c04bc998da8009c4600c420" date="1994-10-17 11:05:12"/>
+		<rom name="SOUND/103.RAW" size="3112" crc="8116997d" md5="1e8a9d933180beb4e7869e2d26db2c54" sha1="18e05a18a8a2d02242eaab7b5344122c38bcf6e0" date="1994-10-11 16:23:30"/>
+		<rom name="SOUND/104.RAW" size="3392" crc="7dd0b530" md5="73e5102412c772115a2c56b3bd66ce71" sha1="6dcaa52e935335e01329d5413491b1a5c14e321b" date="1994-10-11 16:24:50"/>
+		<rom name="SOUND/105.RAW" size="11200" crc="13fc834a" md5="d6dcdd3e97669ba9ab14118e1830e6be" sha1="3c46f4fe42d93b14bcb5ab49adb0e28262ed89e3" date="1994-10-11 16:28:56"/>
+		<rom name="SOUND/106.RAW" size="15136" crc="98a68484" md5="13756743e8582717fbd8b364bb35558c" sha1="cfd109a70a342a6527dbe8f1e573ea117bccfa45" date="1994-10-11 16:36:24"/>
+		<rom name="SOUND/107.RAW" size="20544" crc="7676743a" md5="51a272b08d2ca39e067c6c95ab40995c" sha1="38af9113e92288835bc879f5dcc2d7e9c749b83b" date="1994-10-13 13:23:12"/>
+		<rom name="SOUND/108.RAW" size="6449" crc="b81f0db8" md5="70f145a943cb4e9eb98db29802fef061" sha1="98c9899df4c432cad2babef9c581eadd57d543a5" date="1994-10-13 13:40:04"/>
+		<rom name="SOUND/109.RAW" size="5745" crc="315961b7" md5="28287de3ba685db2d7543997113c7108" sha1="ced4bae769151cf06ca714122dcaa97effc6ba4a" date="1994-10-13 13:44:20"/>
+		<rom name="SOUND/11.RAW" size="1730" crc="552d30cf" md5="e91885ebe51523c884978ced8a070f49" sha1="1669dbabf7fd81dcf41b9023fd9b82223672456e" date="1994-08-12 00:01:32"/>
+		<rom name="SOUND/110.RAW" size="5520" crc="b286b79b" md5="f95e52738704e2341491bec3aa762f79" sha1="fa14315775a037892b92d3c48a0345b5be671197" date="1994-10-13 13:46:26"/>
+		<rom name="SOUND/111.RAW" size="11108" crc="c3eb84e1" md5="c6c6e3b05b50d8cb2d42e20363fbc020" sha1="67644a78f2fc6a037ac55c64169898327f0faf41" date="1994-10-13 13:49:22"/>
+		<rom name="SOUND/112.RAW" size="5632" crc="0a4aa57a" md5="3fcd7c2c05f97afa53c831738abe6037" sha1="78a045d876d15d02a02688c21ec039ed3e1cab1d" date="1994-10-13 13:54:04"/>
+		<rom name="SOUND/113.RAW" size="20929" crc="0ea6e609" md5="b9df0ef51286cf8ae122c820a0ce6822" sha1="95b881ab96aa2506e1f1e77c9960235484b7a615" date="1994-10-13 13:26:32"/>
+		<rom name="SOUND/114.RAW" size="27008" crc="e8614e6b" md5="665e4c3debb3af8b05cd577c0bb7ca0f" sha1="cc87956d5b245f5783e8f6ffb37be14d2a97c4af" date="1994-10-13 13:30:08"/>
+		<rom name="SOUND/115.RAW" size="19393" crc="878fc4a1" md5="fb1e548692081110ed647661f4fae709" sha1="5b4be41765a8ea8d0e5177a40f8730aae38366a1" date="1994-10-13 13:32:22"/>
+		<rom name="SOUND/116.RAW" size="28417" crc="fd818d18" md5="316547add78fedab9ca921a5af0a6293" sha1="e487f978845baf30dd19ff9fb3e5eb133aeb14a4" date="1994-10-24 14:16:44"/>
+		<rom name="SOUND/117.RAW" size="23040" crc="6744a3c8" md5="2218fac22aa0a27287f43cfad0be27cc" sha1="6175814e7452279e3a462d4d24d22e02a028e391" date="1994-10-17 11:01:34"/>
+		<rom name="SOUND/118.RAW" size="5212" crc="55aacddb" md5="c876128e88b8441f79f59c34055d4b84" sha1="cae0a13905fca3d5239d59f43609ef30098c77c3" date="1994-10-17 11:05:04"/>
+		<rom name="SOUND/119.RAW" size="9089" crc="9e11ee69" md5="83f84e3f6e0cc9ede9a224c16522b937" sha1="17907ae39a4c07e0b8be751c47363729bb22cfd1" date="1994-08-12 00:01:26"/>
+		<rom name="SOUND/12.RAW" size="14876" crc="bf77ca0b" md5="371b777cb4ccc610d88d6b6df91e960a" sha1="d97720faf4be1c31b3dddec362a793c091b436b6" date="1994-08-12 00:01:22"/>
+		<rom name="SOUND/120.RAW" size="17169" crc="c30f4167" md5="c9edf3f5ccbaa5959aac93ec09cf9356" sha1="92860beb305745273107cadfac8d0c5554c75a81" date="1994-10-17 11:03:08"/>
+		<rom name="SOUND/121.RAW" size="5483" crc="57568c58" md5="cfba02de85ecf7f643a2034339457f69" sha1="2a2cd6b278e6346f11b9fc942747aa10e7df1001" date="1994-10-17 11:05:06"/>
+		<rom name="SOUND/122.RAW" size="17430" crc="be2247dc" md5="d51b20f2b5d18f499620485bee16379d" sha1="052fbececd2d24fb237ab76ba59412ef75dd16d7" date="1994-10-17 11:05:24"/>
+		<rom name="SOUND/123.RAW" size="24256" crc="44343ce0" md5="651122e2d5fc222c6afa81dfcaa3e264" sha1="1517c109c8284dc28de0f6c4783c7b79ef579384" date="1994-10-17 11:05:24"/>
+		<rom name="SOUND/124.RAW" size="8094" crc="5b56d058" md5="6e2f39c443e22f6c759f58851933ebe6" sha1="09a8e4acda8af9aa8c60c2eb3c5b1ca7bddd99c5" date="1994-08-12 00:01:26"/>
+		<rom name="SOUND/125.RAW" size="11229" crc="42220960" md5="de5a430fcf50e2e921e94d2924d10ff7" sha1="f9074be832532e915778684dddfbb6d7bdc948c3" date="1994-10-14 12:02:18"/>
+		<rom name="SOUND/126.RAW" size="24256" crc="877f8998" md5="89b2b146f9c05e594a2ee20248a1f079" sha1="be9ae9e71d26ac15dbe20767c56eeaed59ce7371" date="1994-10-17 11:04:16"/>
+		<rom name="SOUND/127.RAW" size="15616" crc="09ee3757" md5="3ea4f6d9a1e02a153b4dcbae6c81fe48" sha1="8b5479b09bec8280a625200b41dae0f28d1fae11" date="1994-10-17 11:02:20"/>
+		<rom name="SOUND/128.RAW" size="16384" crc="b74ed636" md5="6bff70fb0a46654ea865a7261b446a86" sha1="7db9ce170b7725cc357267530646aeefbb28e72a" date="1994-10-17 11:01:46"/>
+		<rom name="SOUND/129.RAW" size="4608" crc="20bd2b8a" md5="d52adb069d999b6708317ab6fa5d437d" sha1="d56209132efd7e822c04bc998da8009c4600c420" date="1994-10-17 11:05:12"/>
+		<rom name="SOUND/13.RAW" size="2152" crc="359820a6" md5="85cec8289f102b6b0e2fe47b7ac37176" sha1="1583a3da94033f55bee77a7957d7f6b2c8be8e44" date="1994-08-12 00:01:32"/>
+		<rom name="SOUND/130.RAW" size="3078" crc="5b7868e7" md5="25de8b037e0e97fe1ba84e2a8bdf7a1f" sha1="22707e26382e8b4f776f9c69f13ab9721ea749ae" date="1994-10-17 11:03:06"/>
+		<rom name="SOUND/131.RAW" size="14080" crc="a76ae824" md5="445737f65c7982b0cc35c3731e9296cb" sha1="0108f5085ce55d3a28039262836c9de842f3bbb3" date="1994-10-17 11:01:36"/>
+		<rom name="SOUND/132.RAW" size="19072" crc="c2c10f75" md5="14538a2973ee6334647056a0772e2902" sha1="43fff8ef87ccfdee91d7c29023f2c55af12acdb0" date="1994-10-17 16:20:00"/>
+		<rom name="SOUND/133.RAW" size="21632" crc="f1d12de0" md5="e7651d193abb609b9ca70ed4d88c8621" sha1="6be3acbe9110a0d796ede7628119e6a738ee3f04" date="1994-10-17 16:22:26"/>
+		<rom name="SOUND/134.RAW" size="25216" crc="e1b5250e" md5="d42d3019c68accb443b454ec9c4e880c" sha1="271eee7f62741a178172b0637d525c27dcf3f4b4" date="1994-10-17 16:24:46"/>
+		<rom name="SOUND/135.RAW" size="25088" crc="4a3ca67a" md5="d99151fd605010fc7419dcbadea257d0" sha1="f5158731de519bec4c7b05f1ef3a5d5e87c4128f" date="1994-10-17 16:26:44"/>
+		<rom name="SOUND/136.RAW" size="1976" crc="f6ade990" md5="460379142da442413c119bb8166eb685" sha1="e67bf9717ec59766dda0d6cd5a0f9b8523d253a6" date="1994-10-17 16:31:42"/>
+		<rom name="SOUND/137.RAW" size="3525" crc="bf7e75d1" md5="3b694a1c2cada7e1ba86c1c3400117e0" sha1="a7a09ba6e149d53a44066cdeb021127d3ab4104e" date="1994-10-17 16:30:34"/>
+		<rom name="SOUND/138.RAW" size="7552" crc="ac5672f4" md5="a4a88474a8d94984cc7e790aa66da583" sha1="a4e10d848996cee9a64c55e444633f5da0f43398" date="1994-10-17 16:09:14"/>
+		<rom name="SOUND/139.RAW" size="4992" crc="6b05b55e" md5="3f6d066ba1b347c5820857db0a245506" sha1="cebb8d7f62e5159ccf63ec7cf24d328290ae38e6" date="1994-10-17 16:10:18"/>
+		<rom name="SOUND/14.RAW" size="3549" crc="a54a3279" md5="397b3102c0ef18b2efb53392a7caede3" sha1="c5d472b63f53c448b91934e3784e21657932055e" date="1994-08-12 00:01:30"/>
+		<rom name="SOUND/140.RAW" size="12732" crc="79dc2ba0" md5="ca78f0e2d2732eaaddc4eec7c0a86407" sha1="d1de67bdf4cf3c7a3d0cddc77c0c97c3ba08dd2a" date="1994-10-17 16:04:42"/>
+		<rom name="SOUND/141.RAW" size="24704" crc="ba3740ef" md5="6c295a6ffb103f62f0b838fc1d034c02" sha1="24d60af109129d153b2408c4cc2dfd9af0db4c13" date="1994-10-17 16:07:06"/>
+		<rom name="SOUND/142.RAW" size="9856" crc="73a66855" md5="396752448411a9f64b83ddb3c476db66" sha1="0c7b9ad3a90d6b8ba31f1864ccf6253cc7b91470" date="1994-10-17 16:11:56"/>
+		<rom name="SOUND/143.RAW" size="5556" crc="99b6dd9b" md5="dd6ebfd427ab45e994f130c6816ea0b8" sha1="fe425ac46b7838f345ee68713d92ecdb7294bf41" date="1994-10-17 16:18:14"/>
+		<rom name="SOUND/144.RAW" size="23915" crc="dbf2956c" md5="cde4400f54000a2a874204c6cd81739f" sha1="d5f8520806d6bdd7bfcc624ee41f2be4dd1c9ffd" date="1994-10-17 11:03:12"/>
+		<rom name="SOUND/145.RAW" size="13166" crc="10b60a98" md5="36fae2570d74831627cfcd32766ce8d6" sha1="27bdfd78f1501a273b7663a68c8b75c7de5caf54" date="1994-08-12 00:01:30"/>
+		<rom name="SOUND/146.RAW" size="15324" crc="294add20" md5="2ba21c43a3f57cc1fc1ab7bb5ad0b844" sha1="dd2f68409986ab0a19c85f0c82dfffbedb6fe753" date="1994-08-12 00:01:24"/>
+		<rom name="SOUND/147.RAW" size="6848" crc="69e59d04" md5="42f91aecd20faf7acb32eab3bc62814a" sha1="4642c572ff781c16f5cd530cf0470f5a5c7cf054" date="1994-10-17 11:02:06"/>
+		<rom name="SOUND/148.RAW" size="5824" crc="ebd677af" md5="920f51b70b91378dfa638a2a4964f507" sha1="d1bf18f4d969d0c1ce3b5742ca7bce986f6f25ab" date="1994-10-17 11:02:08"/>
+		<rom name="SOUND/149.RAW" size="12310" crc="206712cc" md5="5eda900927efaaaaf84f3e6cd658ae86" sha1="45caa9cdb08904a842820925b3d08c8d978ed860" date="1994-10-17 11:04:12"/>
+		<rom name="SOUND/15.RAW" size="7506" crc="3e03d905" md5="ea813aaef9856f7ecc445dba4231c2ba" sha1="a2a9be5176d87479f5195848e3a69456c1390723" date="1994-08-12 00:01:24"/>
+		<rom name="SOUND/150.RAW" size="11286" crc="432abe4a" md5="0fd4dd59e68a97f79e62876aee744691" sha1="71efe2aa9324c7764afd7fc394adfb2ebc69dbe3" date="1994-10-17 11:01:48"/>
+		<rom name="SOUND/151.RAW" size="16032" crc="9c059854" md5="22f898fa1a8bffcb126e8e7cc7f7b071" sha1="d4f6018f634d9250b28a324175d995fa27cbf447" date="1994-08-12 00:01:26"/>
+		<rom name="SOUND/152.RAW" size="17886" crc="5bf30a17" md5="78d0b10278fd73ddea25ecd4dc9bdeba" sha1="c402148e3c81d072c2d9806cf4bd6367cc4aa7d3" date="1994-10-17 11:02:08"/>
+		<rom name="SOUND/16.RAW" size="9069" crc="eee4d24d" md5="a9f6551baee6afbc70b56528d2aa2bc4" sha1="124addee1d2870cf1fb8579fb163fac7edf7ebcb" date="1994-08-12 00:01:26"/>
+		<rom name="SOUND/17.RAW" size="4871" crc="28c5a43a" md5="feaee4943611f1dc5c3cbf41998de442" sha1="0918bf509b6af4f41c02ea3114c5eb2cc11a168b" date="1994-08-12 00:01:30"/>
+		<rom name="SOUND/18.RAW" size="3042" crc="7de77099" md5="0764f1652309e67c643fb612cec7aa95" sha1="c779f3398fe73c9e59f50e0783d4a8c15851fda9" date="1994-08-12 00:01:22"/>
+		<rom name="SOUND/19.RAW" size="7248" crc="defd95b2" md5="d9c3de1a2610f5a79b710d19a6720639" sha1="f4b3eb4792787115f98ad816546687e2bbf199f4" date="1994-08-12 00:01:22"/>
+		<rom name="SOUND/2.RAW" size="7776" crc="c0d82679" md5="24b6adbc43a02f9c248285f145f40927" sha1="d18569dc5b0a653462fdeb1d481b15376be97901" date="1994-08-12 00:01:26"/>
+		<rom name="SOUND/20.RAW" size="7909" crc="ba36c273" md5="fed5a36447692755d1800e08add293da" sha1="a0cef2e06b81fbc78bc9ead64fc90d04fdfbaef4" date="1994-08-12 00:01:28"/>
+		<rom name="SOUND/21.RAW" size="26753" crc="f885d61b" md5="db69955f920bc9fe0b6ff2b473473bcc" sha1="9bcf912528cb36a49fa14cd03771948d8f1359a0" date="1994-10-24 14:16:40"/>
+		<rom name="SOUND/22.RAW" size="10363" crc="a80c1326" md5="d69bf0409bfbcd6539d4ba2a96e647c0" sha1="6071b6a4b5a47ed29dd0bbfb7288a889acd080ea" date="1994-08-12 00:01:22"/>
+		<rom name="SOUND/23.RAW" size="25915" crc="64c05b6b" md5="ee853b9dc65f1a7141c4917787af6e28" sha1="6aa9fb89b400f67da8216902ac96d6bab4ea2c33" date="1994-08-12 00:01:20"/>
+		<rom name="SOUND/24.RAW" size="11202" crc="6ba2e75d" md5="0789854ffd3e70653a5d62e355d4d964" sha1="fe6b37230b196463185b930a8b0c4ea805d312e4" date="1994-08-12 00:01:28"/>
+		<rom name="SOUND/25.RAW" size="19262" crc="285a0c00" md5="f120246df97296b717453c072311ab21" sha1="e2060ffe0653b98444daa71e04bce7f1c27322b4" date="1994-08-12 00:01:22"/>
+		<rom name="SOUND/26.RAW" size="7170" crc="9601f932" md5="37689f2a8982513c91ebc256e896ee6a" sha1="9e74f01ea5caadf25dd522344fe6597ef360f471" date="1994-08-12 00:01:20"/>
+		<rom name="SOUND/27.RAW" size="2712" crc="a0d73f43" md5="6808604ca127e292bda8949207266c16" sha1="55c20183e7ec7cd854603d5394f8d5af1bf16a3e" date="1994-08-12 00:01:30"/>
+		<rom name="SOUND/28.RAW" size="10025" crc="66f6f9e0" md5="3b4d234b8e50db57cebf214b4d782309" sha1="1550b36519d539174685732df9d2f91ac9fa517c" date="1994-08-12 00:01:22"/>
+		<rom name="SOUND/29.RAW" size="9673" crc="01c1f785" md5="cce9ff922daa12903e56130808737e90" sha1="003281c2dfdd83470cc6acfadd5391cf5fefdd8c" date="1994-08-12 00:01:20"/>
+		<rom name="SOUND/3.RAW" size="5294" crc="061aa1f5" md5="a1067b211b13c8e970c67b0cea56cc4f" sha1="f2dafab3893fb349d7d9c2b4c88228e1f00d3aca" date="1994-08-12 00:01:20"/>
+		<rom name="SOUND/30.RAW" size="12496" crc="545498ba" md5="f0b29276832138d80cf542c4370c1b64" sha1="55dbfe9bcfd8aa9bc71ab3338ec7d041137f703e" date="1994-08-12 00:01:34"/>
+		<rom name="SOUND/31.RAW" size="9569" crc="ad3b6d80" md5="e3ca49967f38da8bfafad8ee176ae857" sha1="28f0838ee97774beecaf608f87584cc74f6fc97f" date="1994-08-12 00:01:20"/>
+		<rom name="SOUND/32.RAW" size="11637" crc="81be8c62" md5="61407cc70e48084f8582493d546ec935" sha1="c94a594fbbd2015faeeeff055025a12540ad9901" date="1994-08-12 00:01:30"/>
+		<rom name="SOUND/33.RAW" size="8869" crc="c9093fdb" md5="66898ddf1321742d699a2c67f00999f3" sha1="14901f73418c187ed5a2b38ec61acf1f8f25c01a" date="1994-08-12 00:01:30"/>
+		<rom name="SOUND/34.RAW" size="9267" crc="b8592e3a" md5="ee612867e4c4243ee373b39fdb226406" sha1="6f6c6dc1f5ecc443d5cf3c80815f02505a96bcab" date="1994-08-12 00:01:22"/>
+		<rom name="SOUND/35.RAW" size="9282" crc="e1cc5cab" md5="340ec651c86e0b75fee4c1a4bdc3cf9f" sha1="99eca75e0c4fc0ca35cca1bca67063cc8191021d" date="1994-08-12 00:01:34"/>
+		<rom name="SOUND/36.RAW" size="3036" crc="9559f778" md5="22a17444d176ba2e154fc00ba72bb4c5" sha1="c5745368aba08c9a21b788b0ef2bf8ece2edb301" date="1994-08-12 00:01:32"/>
+		<rom name="SOUND/37.RAW" size="16384" crc="b74ed636" md5="6bff70fb0a46654ea865a7261b446a86" sha1="7db9ce170b7725cc357267530646aeefbb28e72a" date="1994-10-17 11:01:46"/>
+		<rom name="SOUND/38.RAW" size="14820" crc="10870d37" md5="37a783550b25a0efb2746ae87f8a5ca2" sha1="7713e73820e5f71d2006102f134d8df8215df85c" date="1994-08-12 00:01:20"/>
+		<rom name="SOUND/39.RAW" size="5130" crc="6db323bc" md5="b310c7b299aab18b08131cbb8a500fdb" sha1="091bf382e6b4470be57f66d36cef18143c3d2066" date="1994-08-12 00:01:34"/>
+		<rom name="SOUND/4.RAW" size="9066" crc="dd5eec50" md5="7c60c23dd0ff5fdfb0a1a0fe1fd21b1c" sha1="877a89c6a87d45a506e00a39d11d87143a2bf1f0" date="1994-08-12 00:01:22"/>
+		<rom name="SOUND/40.RAW" size="3365" crc="386d43c8" md5="d2264d16d6ae1c989b522ee20da91fb4" sha1="ce008ba5fa6b7d4fb1560ff460b8d7fc76d746ac" date="1994-08-12 00:01:32"/>
+		<rom name="SOUND/41.RAW" size="1863" crc="5b5dddcf" md5="415b99d59c4d7398facc92eb3cbde4b4" sha1="4f18d387ed2465b677ad1d7eee3e4741f84d71dd" date="1994-08-12 00:01:30"/>
+		<rom name="SOUND/42.RAW" size="3811" crc="0b54c741" md5="f5c1eb84c36592f1126aacb43af27915" sha1="f496b6c16124a99985c47f8f066acc9c34ced838" date="1994-08-12 00:01:20"/>
+		<rom name="SOUND/43.RAW" size="22401" crc="ed490b08" md5="77de87d2df84e9d3dde5faa4a8faaba8" sha1="4247974c67fb03731efaf81bff0fd4bcf629a745" date="1994-10-24 14:16:46"/>
+		<rom name="SOUND/44.RAW" size="7812" crc="2e8e46e7" md5="4b349adda911f73074851495a933f6e6" sha1="11fd14b2a7ed1ae0519777b2dd4bd36c2cbbc963" date="1994-08-12 00:01:20"/>
+		<rom name="SOUND/45.RAW" size="5527" crc="003d02c6" md5="bf4b46ab182b0791df5c3a05c1e9a194" sha1="4802623251979ab44c49a5c1b0b17751f16f90ff" date="1994-08-12 00:01:32"/>
+		<rom name="SOUND/46.RAW" size="28173" crc="5269052b" md5="76123b1b96fe5f171904beaef5f40bfd" sha1="1858ce54bfde1bd32e3f95aa89e670e0c5803c6c" date="1994-08-12 10:27:56"/>
+		<rom name="SOUND/47.RAW" size="15791" crc="ae6043af" md5="a6807f8501c883ba6b7c05ff78ee28ff" sha1="1043e7416590def70b5e580eec4ecfb522e311c2" date="1994-08-12 10:27:56"/>
+		<rom name="SOUND/48.RAW" size="19936" crc="8a9834f0" md5="1c7a226a602052d933baef5f6206fd73" sha1="ca173e96e7e6d1c60b6400bf54e67b66f3d76eca" date="1994-08-12 00:01:30"/>
+		<rom name="SOUND/49.RAW" size="11362" crc="06d82182" md5="35b4e79e7a7d9c7f716aee458b6e15a0" sha1="774e32fb0bc539898456ab01ae6c95733fd681bd" date="1994-08-12 00:01:28"/>
+		<rom name="SOUND/5.RAW" size="5116" crc="6ec7bef8" md5="7eeff12031349a0b4ae47a3f4ffa007b" sha1="29c7e2ec9373df998d670d3393c29ea63edb0fbf" date="1994-08-12 00:01:24"/>
+		<rom name="SOUND/50.RAW" size="20348" crc="29a12d84" md5="255ffd4396a3298e4bebaa8fbc4d3ccf" sha1="0413ef21a547f553b406101fa5f8f8f36dd8e819" date="1994-08-12 00:01:28"/>
+		<rom name="SOUND/51.RAW" size="7812" crc="2e8e46e7" md5="4b349adda911f73074851495a933f6e6" sha1="11fd14b2a7ed1ae0519777b2dd4bd36c2cbbc963" date="1994-08-12 00:01:20"/>
+		<rom name="SOUND/52.RAW" size="9673" crc="01c1f785" md5="cce9ff922daa12903e56130808737e90" sha1="003281c2dfdd83470cc6acfadd5391cf5fefdd8c" date="1994-08-12 00:01:20"/>
+		<rom name="SOUND/53.RAW" size="25915" crc="64c05b6b" md5="ee853b9dc65f1a7141c4917787af6e28" sha1="6aa9fb89b400f67da8216902ac96d6bab4ea2c33" date="1994-08-12 00:01:20"/>
+		<rom name="SOUND/54.RAW" size="4499" crc="c892a14b" md5="4d07c57955824900c1473ea589b6bea1" sha1="15222181099367d0730c7e201886c62585f5bf29" date="1994-08-25 14:18:26"/>
+		<rom name="SOUND/55.RAW" size="10277" crc="a7f50c6e" md5="073b6ecaf372bfc88a303eb037d37bd3" sha1="380851553051b425b729ba6337d7a23070d4d707" date="1994-08-12 00:01:22"/>
+		<rom name="SOUND/56.RAW" size="1863" crc="5b5dddcf" md5="415b99d59c4d7398facc92eb3cbde4b4" sha1="4f18d387ed2465b677ad1d7eee3e4741f84d71dd" date="1994-08-12 00:01:30"/>
+		<rom name="SOUND/57.RAW" size="2745" crc="a147d88f" md5="2750937ecac1eefddbd27b4fe4f56d6d" sha1="b3681195cb973461149854e97e454d9cbce290e4" date="1994-08-12 00:01:30"/>
+		<rom name="SOUND/58.RAW" size="4871" crc="28c5a43a" md5="feaee4943611f1dc5c3cbf41998de442" sha1="0918bf509b6af4f41c02ea3114c5eb2cc11a168b" date="1994-08-12 00:01:30"/>
+		<rom name="SOUND/59.RAW" size="4046" crc="7dfd0d15" md5="646eb5bfd5468b331e9f98d64fd47acc" sha1="c0645dd9ba4a862a2d02a95a57072557cb031c57" date="1994-08-26 16:27:34"/>
+		<rom name="SOUND/6.RAW" size="7264" crc="3060346d" md5="65863c3f4dc3017bcd91bf8f659a590d" sha1="3635f694881b7157b4250057a7b725336a56f75e" date="1994-08-12 00:01:24"/>
+		<rom name="SOUND/60.RAW" size="4090" crc="69265ea2" md5="3da5b4c98a92ca6c6c75a63078093d49" sha1="4aab3c04482b17c63103f75e3aa2e8b418e1fd46" date="1994-08-26 16:27:34"/>
+		<rom name="SOUND/61.RAW" size="18262" crc="714c10db" md5="a7bf65065455a7855e84b80d6d186389" sha1="ba10203509fe0190277302fb7abb7644642c4802" date="1994-08-26 16:27:34"/>
+		<rom name="SOUND/62.RAW" size="18191" crc="4a77eb6c" md5="0d7e592d9b059389de53610cc0370dec" sha1="523ad7cda509682941b9d60b393af3e5e4e7050d" date="1994-09-07 10:53:18"/>
+		<rom name="SOUND/63.RAW" size="18191" crc="81b68f29" md5="a65202c7234124330bdff93b9c0dfdef" sha1="2d11105579e9001da129ca10c363830d2c3ddf35" date="1994-09-07 10:53:18"/>
+		<rom name="SOUND/64.RAW" size="21844" crc="f3e1badc" md5="69ca4d909ae4882d9c97c49d3a98c452" sha1="80cc7b53d60165f32ebfdb8bc83036ada33d41b7" date="1994-09-07 10:53:18"/>
+		<rom name="SOUND/65.RAW" size="21844" crc="749c804d" md5="35a450f61398e85809d77ad251cfb1c7" sha1="375c76ef7f66f8a4c1385e23cdf11726949bef25" date="1994-09-07 10:53:18"/>
+		<rom name="SOUND/66.RAW" size="18305" crc="b79da088" md5="bcc59a6067451be1a2410bd26138a481" sha1="c4ee8917a94a772b44fba65377a8a56d6a84d7ce" date="1994-09-07 10:53:18"/>
+		<rom name="SOUND/67.RAW" size="18305" crc="e9cac1d7" md5="c31c4b8a159e991e3f4087ec68fbdd78" sha1="0996593c7ff7c23ae121880910ab76e2605976cf" date="1994-09-07 10:53:18"/>
+		<rom name="SOUND/68.RAW" size="17490" crc="e7f92829" md5="8692ded17b0b7b63665fd1ba0e4ba8aa" sha1="7eddcf320bdedec303e37751c3212910689a9c31" date="1994-09-07 10:53:18"/>
+		<rom name="SOUND/69.RAW" size="17490" crc="0d20999e" md5="0035dfda06fd888a5ff6d67decefe111" sha1="e54a2ce54bf820f956000221cebb7124e5e780f4" date="1994-09-07 10:53:18"/>
+		<rom name="SOUND/7.RAW" size="7105" crc="a11a0366" md5="a1c32d01c5dde59bbba9e1e8ec8929cc" sha1="e8f3a27e778dcb27e3469898b4d9c0caefb0022f" date="1994-08-12 00:01:22"/>
+		<rom name="SOUND/70.RAW" size="27137" crc="f8e6f3d0" md5="527d3ca7a0f63c41e3a81655feeac80e" sha1="7d6f363ecf82b5f06228b169124eec00b6b17d2b" date="1994-09-07 10:53:18"/>
+		<rom name="SOUND/71.RAW" size="8256" crc="5c7c7610" md5="f63d5978717d77ea86574814b018661b" sha1="c6990c8264f9802e7fc8ea18fa6e3285edffe24c" date="1994-09-07 10:53:20"/>
+		<rom name="SOUND/72.RAW" size="10816" crc="5572c4dc" md5="6bb5afc1839b90be987ce3c980622e83" sha1="2af543ebe5d0e86d4cc06dd63ea315334731f4ea" date="1994-09-07 10:53:20"/>
+		<rom name="SOUND/73.RAW" size="4416" crc="6ae90337" md5="62e7009d0b432a99f4e1178c0c08edb0" sha1="0e040b80498ec71620a35a83c0a7fbe527b07553" date="1994-09-07 10:53:20"/>
+		<rom name="SOUND/74.RAW" size="8353" crc="d42e53e6" md5="a8e04e8d582c1e88f4709d4c52e9a377" sha1="4e218fc711e185e278903d93589ffe95b4ddece9" date="1994-09-07 10:53:20"/>
+		<rom name="SOUND/75.RAW" size="8897" crc="f7c522f5" md5="786b0a89d31e175ed0b98bf44a9b022e" sha1="e8e34e379a24f2c9b1c79aa4d768e2d0124654ed" date="1994-09-07 10:53:20"/>
+		<rom name="SOUND/76.RAW" size="5520" crc="1cb189b1" md5="575ccad3abf6a4509e316d63dfb48096" sha1="70f13401db24feeb849dca0b6acda1bcffe4a87f" date="1994-09-30 16:31:52"/>
+		<rom name="SOUND/77.RAW" size="9504" crc="ff3ab171" md5="54a15fe27f20e225536208f13841380a" sha1="5ed935bdab8a3b57f03371338db032df90188b8c" date="1994-09-30 16:31:54"/>
+		<rom name="SOUND/78.RAW" size="20608" crc="74b3484e" md5="8bff9656200c25d7f6044f875d3e8612" sha1="f22e85f941336df10f687e0a55aa345b7541595a" date="1994-09-30 16:31:54"/>
+		<rom name="SOUND/79.RAW" size="6064" crc="33a106b0" md5="f890978854ee631436ce501247cb1438" sha1="d613cfa04d0b6eedac05fc84c97201fdc5bb851a" date="1994-09-30 16:31:54"/>
+		<rom name="SOUND/8.RAW" size="2797" crc="c48febe4" md5="82acb343ab42b7adb5cf003226534af8" sha1="56d2f17687856de267a84f8cd28ec94dcdd74492" date="1994-08-12 00:01:32"/>
+		<rom name="SOUND/80.RAW" size="13056" crc="dc49c1b4" md5="e5f6d35fc8995058801b07e981afc310" sha1="5dd3878459b2f9f5cfd2972aff465da4c057eb7d" date="1994-10-11 15:24:04"/>
+		<rom name="SOUND/81.RAW" size="2896" crc="2cad9f65" md5="80c17ea386d00dc997cf0cd8830a934f" sha1="641d0db2eec02afebf541d8cf17b535137439c9c" date="1994-10-11 15:20:58"/>
+		<rom name="SOUND/82.RAW" size="18688" crc="e550d385" md5="fd89fab850ebfb976617852bb62dec19" sha1="4a2d663ff5e4d55268dfdaad812f94d1ef81027c" date="1994-10-11 15:26:32"/>
+		<rom name="SOUND/83.RAW" size="6592" crc="10e5e982" md5="09a2cf96e8c338f0abb8e9dcbce6d99c" sha1="2aeabbb7d09d896aa77b86d469154dfd6b6e4808" date="1994-10-11 15:33:20"/>
+		<rom name="SOUND/84.RAW" size="13824" crc="450bbfb5" md5="04b9b18f644bc8893c51edb180d0acd1" sha1="6f004648b04da56520d5b32feb37bda6f49ca285" date="1994-10-11 15:38:30"/>
+		<rom name="SOUND/85.RAW" size="5776" crc="b2caa7a0" md5="c9d9c76f95497ef9022cc6728d08413b" sha1="9ba676fa0bd37ab6591745c9392b21b1a251ea47" date="1994-10-11 15:40:12"/>
+		<rom name="SOUND/86.RAW" size="6912" crc="04aac6a8" md5="da4978e5e9d2da8f9d5f276168019d88" sha1="45a3fcd6aafd76f1aadbdebaaf3d48169239d0df" date="1994-10-11 15:42:32"/>
+		<rom name="SOUND/87.RAW" size="25984" crc="13cf025d" md5="b8d3c16b6a209ab7856ec7ea5fa3b9a2" sha1="94166d6356a5f8732e176a5ec2d486bdfc2405a1" date="1994-10-11 15:45:26"/>
+		<rom name="SOUND/88.RAW" size="26048" crc="65e25aee" md5="74e51ab6636a80e8320706c4a78f75ba" sha1="a531ab7670f94227ebfd516bc1ec4c8fc1758cd3" date="1994-10-11 15:47:54"/>
+		<rom name="SOUND/89.RAW" size="18432" crc="7360edb4" md5="b20bccdbb7c38ccc2ea4402a0f19f444" sha1="56526640bf4eece904a7608866d104fc03ae830a" date="1994-10-11 15:49:16"/>
+		<rom name="SOUND/9.RAW" size="5443" crc="b3bc1ffd" md5="456ea4d19a6d038913bdad98ef1c144c" sha1="b74880aa3b57f387d020e6c5620a1b9f37bf9607" date="1994-08-12 00:01:20"/>
+		<rom name="SOUND/90.RAW" size="18304" crc="7210e7aa" md5="985b6be4f7f4682eb3a5e7703539478a" sha1="412f83f8a2b0c7b42e39fe2c5defab283683d0c7" date="1994-10-11 15:50:40"/>
+		<rom name="SOUND/91.RAW" size="28032" crc="5961c599" md5="28b50eac11da40d2f303af287c396558" sha1="031cb51d21018f1d888a49c97bede17852173394" date="1994-10-11 15:53:16"/>
+		<rom name="SOUND/92.RAW" size="22016" crc="21e51440" md5="1da8fb82e7ce1d9b73d5e75398039aa8" sha1="b2c264e57519ee58efaca33b26ea89909d1d383b" date="1994-10-11 15:55:06"/>
+		<rom name="SOUND/93.RAW" size="12864" crc="f901da39" md5="58ccdab1466748287a30c53ac1a7fd71" sha1="4312e651221aed622a0d3fb13591001b7095b2dc" date="1994-10-11 15:59:06"/>
+		<rom name="SOUND/94.RAW" size="5312" crc="9ded4731" md5="61c2bcd778b94c6cee117bdbdd58e29b" sha1="7480f14ad1e7067ae93764dfaf5a548e1fd95162" date="1994-10-11 16:01:18"/>
+		<rom name="SOUND/95.RAW" size="6112" crc="3c3ddfb0" md5="59218269c4865547b34e63e8807cf612" sha1="7a2c4c6018b557de7c5a38715b7a21068adf93fa" date="1994-10-11 16:02:48"/>
+		<rom name="SOUND/96.RAW" size="4640" crc="48c4e6a7" md5="317f38e86bc33be4461a13b172aea908" sha1="53edb6eababc878e545e19903fc2df0a494c2c50" date="1994-10-11 16:04:16"/>
+		<rom name="SOUND/97.RAW" size="27008" crc="4820fbb0" md5="8c667d0a725fc55f054c13d91170c741" sha1="67a30df3425c940eec0a44a4ba2c1ff4df25d823" date="1994-10-11 16:06:50"/>
+		<rom name="SOUND/98.RAW" size="21825" crc="a139f551" md5="615cd0d5e69fd969fead41e566501bd7" sha1="2d54b16632a80dc0d0bbf1bdf8897153baccc0b8" date="1994-10-12 09:57:28"/>
+		<rom name="SOUND/99.RAW" size="5344" crc="e3b78278" md5="0ccfd1c5f2a4474db724cc5a92b3db8a" sha1="4248848d68013fc9a3d4dfb68f5a57ab2d528fd9" date="1994-10-11 16:10:20"/>
+		<rom name="SOUNDHMI.CFG" size="50" crc="280badd3" md5="e9ac982f82801804e46a43edc3ce38f0" sha1="ace123740411421871b4aa3affd8a695e6ba0ed7" data="FeAAACACAAAHAAAAAQAAAAAAAABTb3VuZCBCbGFzdGVyIDE2ICAgICAgICAgICAAAAA="/>
+		<rom name="SSETUP.EXE" size="227534" crc="2c5a1ede" md5="719ad2c6bc1fd933d67b762e2056b2fc" sha1="2632a9b4681a962a59049d2c5b0074550e2d97a3" date="1994-11-23 15:40:22"/>
+		<rom name="SVIEW.EXE" size="12442" crc="3c658ff9" md5="6b7af21516419fa62d463ac036898026" sha1="f84ab7c2e852673905360a42bfd2b31a39921cda" date="1994-06-22 14:57:16"/>
+		<rom name="TUT.DAT" size="113254" crc="ce5eb602" md5="d141d131ecb7793a1348c7b5afe7e93d" sha1="2ef578c2aab57d13251fe39f4be13272de6a9f76" date="1994-11-16 11:52:46"/>
+		<rom name="WCFDATA.DAT" size="14" crc="819e603e" md5="cb1d7ff33e72433cd2557f717c6d74ce" sha1="6bfa10d5ec675e464a888023828f9b2dfbcb04d5" date="1994-09-22 11:01:06"/>
+	</game>
 	<game name="Dangerous Dave Goes Nutz! (1993) (Softdisk Publishing).dosz">
 		<description>Dangerous Dave Goes Nutz!</description>
 		<comment>Matches TDC "Dangerous Dave Goes Nutz v1.01 (1993)(Softdisk Publishing) [Action, Adventure]"</comment>
