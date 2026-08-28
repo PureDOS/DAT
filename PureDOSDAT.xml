@@ -13587,6 +13587,45 @@
 		<rom name="MALICE/STRAT3.TXT" size="5068" crc="3b8be95a" md5="9e053c63e4165897ad470f56899a5fab" sha1="53d43a765f98f9d9efe0ae3903de1f535237e7a9"/>
 		<rom name="Quake (1996) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
+	<game name="Manhunter 2 - San Francisco (1989) (Sierra On-Line).dosz">
+		<description>Manhunter 2 - San Francisco</description>
+		<year>1989</year>
+		<developer>Sierra On-Line</developer>
+		<comment>
+			Installed v3.02b from 3 3.5" floppy disks matching The Good Old Days ID: 2444
+			Disks also match TDC#23 entry: Manhunter 2- San Francisco v3.02 (1989)(Sierra On-Line, Inc.) [IMA][720k][!]
+			DoDAT can build this directly from the disk images
+		</comment>
+		<comment_dosc>
+			CPU year set to 1989
+			Tandy sound enabled
+			Auto start
+			PC Speaker sound option
+		</comment_dosc>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=2444</link>
+		<rom name="_INSTALL.BAT" size="860" crc="36d8590b" md5="9637d573e5ef7b59316b4f88ed45d3b2" sha1="addeba7b929c7dc9a52d6919335c4a8b08ac3426" date="1989-07-26 16:17:46"/>
+		<rom name="AGI" size="40520" crc="b693ecfa" md5="dd8a8b92a5d1fac3b21ba73e41e89260" sha1="cb1a6c15c5e1a8c36082da15b4900d2e40526ce6" date="1989-07-25 09:31:20"/>
+		<rom name="AGIDATA.OVL" size="7488" crc="e943259e" md5="940144fea8dce843eb56e61f1793ca9f" sha1="d2f7336d7b67875e86a3c0b756dbce2a8e4f290b" date="1988-11-18 12:10:36"/>
+		<rom name="CGA_GRAF.OVL" size="684" crc="e2bf4b38" md5="dbf46c59c825dd160c523497efb90dd9" sha1="5d3ffac18d197f868cfbfdd771c451a156860d45" date="1988-11-18 12:10:32"/>
+		<rom name="EGA_GRAF.OVL" size="591" crc="fc3f867e" md5="931a099c9c2325ffbc1c4b89349884bb" sha1="a9799f50b177bc3147252a9e9a73546e81763cf4" date="1988-11-18 12:10:32"/>
+		<rom name="EXIST.COM" size="98" crc="29a3dcf2" md5="cabfa2dd4ac12abef8ac740a8dbf1e06" sha1="e758628bd582e62095b01f1c9851f31d6edabd21" date="1986-09-19 09:41:58"/>
+		<rom name="HGC_GRAF.OVL" size="3075" crc="031a1241" md5="c12f3c4cc0a11230c126d0de4c35c293" sha1="bda3f533a895f8890e362c4daca61cc49b87be7e" date="1988-11-18 12:10:34"/>
+		<rom name="JR_GRAF.OVL" size="470" crc="ea3c9728" md5="38bd521db6e73a0960b5bc77bb19f2d8" sha1="e7d3cd6d4731e96e90b5901a91419b763601f9ef" date="1988-11-18 12:10:34"/>
+		<rom name="MAKEPATH.COM" size="74" crc="a04a3ac3" md5="5608ad74bcf35065dfe292ed7fd78e2c" sha1="9fefc9a0f6933aec85a00faeff69dd077a1768e1" date="1987-04-22 12:05:20"/>
+		<rom name="MH2.COM" size="3134" crc="829dbdef" md5="041ea3e2ec7f369b8c6415d166214d9f" sha1="6d54f32d59f11a6b3fd8c45973714053f7fcf1dd" date="1988-07-29 20:32:58"/>
+		<rom name="MH2DIR" size="2588" crc="26060c01" md5="6fb6f0ee2437704c409cf17e081ba152" sha1="d05ac387f940acf9318c18507499d63d53396275" date="1989-07-27 09:45:56"/>
+		<rom name="MH2VOL.0" size="118759" crc="5cde8dc6" md5="17b0285aa47aa4a9e2097a7b8a3c2a3a" sha1="9d0775b965a8aa0851115742aec88dce28f5fdba" date="1989-07-27 09:39:38"/>
+		<rom name="MH2VOL.1" size="242963" crc="615bcf61" md5="f31864ca3a8e347a132fcf1becef9625" sha1="bddbbe6f836e860d873850a6e061bd09cc47ed69" date="1989-07-27 09:41:12"/>
+		<rom name="MH2VOL.10" size="42536" crc="9cc661f0" md5="42736d707926d2688ec94817812af762" sha1="7196412406852287f0f73f1856fe5fc5cf64eee2" date="1989-07-27 09:45:48"/>
+		<rom name="MH2VOL.11" size="14521" crc="ea256b19" md5="c3d68a1ab57a4761cd5f53d249add91c" sha1="cb0829c3892b268197d04317ec897be53cb44c1b" date="1989-07-27 09:45:56"/>
+		<rom name="MH2VOL.2" size="381583" crc="679a4f31" md5="866b00329917ac6bd4e15708631918cf" sha1="714bffc64dbfb81b7ba516e318bd1466da8237ba" date="1989-07-27 09:43:12"/>
+		<rom name="MH2VOL.3" size="362315" crc="ad849fbd" md5="c65366bd09e7590ce9f607a9d624c688" sha1="5aab297ea1e66131208cefa9dfcfd85e75343281" date="1989-07-27 09:45:20"/>
+		<rom name="MH2VOL.9" size="44998" crc="6bb02679" md5="4318646e3553f144d857823aa453ba04" sha1="761941480f205b27ecb42548991479ba9ab7aa3e" date="1989-07-27 09:45:34"/>
+		<rom name="OBJECT" size="399" crc="894f2085" md5="80ddd44ec62062ef517eef278e09cacc" sha1="742ea40a6737f1603f05fad1dfcd1e5066472693" date="1989-06-13 15:47:50"/>
+		<rom name="RESETDSK.COM" size="12" crc="a7c5a2f7" md5="950bfd0db1aa9fba4289a92ad2612780" sha1="2978c82a3710fee2fd2f0370badd8700c83402ea" date="1988-07-19 11:40:32"/>
+		<rom name="VG_GRAF.OVL" size="362" crc="d65b7244" md5="e99aba825bf3545a113c3fde619f98f6" sha1="896074818b06ea35ad24ab40a512a629df88f9f9" date="1988-11-18 12:10:34"/>
+		<rom name="WORDS.TOK" size="278" crc="ec7b44a3" md5="9a802fac3e5d572ed4eee80f320bfddc" sha1="5071ddd3e2892a43e46ad254c72521e60a47a22b" date="1989-04-03 09:41:52"/>
+	</game>
 	<game name="Maniac Mansion (1988) (Lucasfilm Games).dosz">
 		<description>Maniac Mansion</description>
 		<comment>Enhanced 1989 version. Files copied from 3.5" floppy disk</comment>
