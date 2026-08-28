@@ -18037,6 +18037,38 @@
 		<rom name="upd_net.dll" size="180246" crc="5a69dc8a" md5="7eb561bbab417eeec6a5570b9a519ad3" sha1="61ebc02a99c643a899fbe58af291849ed48210e4" date="2001-12-24 23:44:32"/>
 		<rom name="update.upd" size="1206600" crc="5fe71872" md5="60e77ffe5a61183b23dda5191f6fcb31" sha1="0b630335f5e4f448a49ba527a79cda6403e805a6" date="2002-03-08 19:11:24"/>
 	</game>
+	<game name="Space Quest I - The Sarien Encounter (1986) (Sierra On-Line).dosz">
+		<description>Space Quest I - The Sarien Encounter</description>
+		<year>1986</year>
+		<developer>Sierra On-Line</developer>
+		<comment>
+			Installed using Redump-verified CD-ROM: Space Quest - Collection Series (USA, Israel) (Disc 1)
+			DoDAT can build this directly from the disc image
+		</comment>
+		<comment_dosc>Sets Tandy mode and auto-starts</comment_dosc>
+		<link type="media">https://redump.info/disc/14773</link>
+		<rom name="_INSTALL.BAT" size="486" crc="d9d1bff8" md5="afd389988179e8db7359e1622f8f0770" sha1="cb05fb9ee365ff33690f2b2bdf513b335b282028" date="1995-08-17 13:17:28"/>
+		<rom name="AGI" size="39424" crc="7e712dee" md5="f7c2ddf728794a176c9c741ea6fd7825" sha1="8298a90486c2636c6247fc15e77f68fca6c940cf" date="1987-12-01 09:56:34"/>
+		<rom name="AGIDATA.OVL" size="8192" crc="477bd79b" md5="d83459a8643dfc67b4629ec4afe64e13" sha1="9e424ed24e967c8efb889be832ac3c2d4d01d79c" date="1987-12-01 09:49:20"/>
+		<rom name="CGA_GRAF.OVL" size="1024" crc="838c18ac" md5="e34849e963efdcc942b67ee9bf5c1533" sha1="65bf46b1dc6917c302de523fe39f227218ef46e4" date="1987-12-01 09:48:44"/>
+		<rom name="EGA_GRAF.OVL" size="1024" crc="67e8b0ad" md5="714c88fa15b8327c585b86f3e619b068" sha1="8343b987ce1d288b15eddd32e9f1068189965c21" date="1987-12-01 09:48:46"/>
+		<rom name="HGC_FONT" size="3072" crc="200435c7" md5="f3d4c66e195491aa759b7c5ef996488b" sha1="fee5e93395ff4f922c26c4a8f687d8517fd96fd0" date="1987-01-26 16:47:26"/>
+		<rom name="HGC_GRAF.OVL" size="1536" crc="7c999ac8" md5="8eb68e541e8ea93da96c7fc4cfde7f3f" sha1="91297527bb4515749bc5f118e2d992d21ddf5fdd" date="1987-12-01 09:48:48"/>
+		<rom name="HGC_OBJS.OVL" size="1024" crc="4232dbd7" md5="a8f5aabf72ed3d4165038275faf8b527" sha1="09b09152b40c394abe835b68bf91bf352f7d2ced" date="1987-12-01 09:48:52"/>
+		<rom name="IBM_OBJS.OVL" size="512" crc="a0a04da4" md5="119949f12a5fc14a082794350c19118b" sha1="3df9134a95fc2690d9ef0c7a6d37ec0bac732944" date="1987-12-01 09:48:50"/>
+		<rom name="JR_GRAF.OVL" size="512" crc="dc361ea6" md5="4488067df5a7201e34ee3b01252e9860" sha1="067bae84c84badc4028bfe2d21da6dac5ebad2c2" date="1987-12-01 09:48:46"/>
+		<rom name="LOGDIR" size="372" crc="36f49d8d" md5="5d67630aba008ec5f7f9a6d0a00582f4" sha1="e5b85250d403dd711dd68377c7bdcecb7a483c10" date="1987-05-07 13:50:52"/>
+		<rom name="OBJECT" size="331" crc="8524101a" md5="b1a713b5061db3f536971e234f261c47" sha1="7b82cc9bde99576bca00e7a56a2263765c431a07" date="1987-04-13 18:07:14"/>
+		<rom name="PICDIR" size="315" crc="7fd2d036" md5="64680cd14e572be7f46636e819895fdf" sha1="1710167999c9dfba10a11e0a5e0192a3f3f1de18" date="1987-05-07 13:50:52"/>
+		<rom name="SNDDIR" size="198" crc="9b80fa17" md5="ab684bd2f6c0e87a80fc4cd06e544b1a" sha1="5f6c87dadfb704a126a2395722aa735b1fac608c" date="1987-05-07 13:50:52"/>
+		<rom name="SQ.COM" size="3121" crc="72fca229" md5="402c4f46dc3bda7768ef4bf1822be262" sha1="173e6a30b1604e1b382b0f828bb708b0a8185e1b" date="1994-02-28 10:35:56"/>
+		<rom name="VG_GRAF.OVL" size="512" crc="ca491b69" md5="df5f5263d61e250495c249002c6210a1" sha1="64f946e03fcbaab4519d556add173d89325367c2" date="1987-12-01 09:48:50"/>
+		<rom name="VIEWDIR" size="762" crc="e3d0ffbc" md5="1868e1ce06e6c3816ec7364085e13f73" sha1="99e44ddab86dd74bb7f656f0c06221f311e56bc2" date="1987-05-07 13:50:52"/>
+		<rom name="VOL.0" size="40622" crc="b38bc7a5" md5="e3c443117a755102173db7b0fb8b423c" sha1="cb11383925524e07a0eb6fe342c1f6996cd34300" date="1987-05-07 13:49:00"/>
+		<rom name="VOL.1" size="222807" crc="8908c96f" md5="0e575ee31e7ad04f7d6f07cea41cca39" sha1="4f75fa44b8b05a22c0a03c1df7e34a41e6ccb699" date="1987-05-07 13:49:50"/>
+		<rom name="VOL.2" size="264177" crc="0ea18761" md5="57790c69c23fddc56840d8b0255c232f" sha1="0b737c86dd220eccb87edfb8f617021e7315ab10" date="1987-05-07 13:50:52"/>
+		<rom name="WORDS.TOK" size="4793" crc="7c9d455a" md5="42b35795b6b489cd6e8d326e679f6a25" sha1="ab9a4dcc58e7cb92e40205e1931aac463fec7379" date="1987-04-17 16:44:34"/>
+	</game>
 	<game name="Star Control (1990) (Toys for Bob).dosz">
 		<description>Star Control</description>
 		<comment>Installed from either Star Control Collection CD-ROM re-release or original English floppy disk(s)</comment>
