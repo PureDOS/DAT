@@ -10,6 +10,80 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
 	</header>
+	<game name="221B Baker Street (1987) (Datasoft).dosz">
+		<description>221B Baker Street</description>
+		<year>1987</year>
+		<developer>Datasoft</developer>
+		<comment>Matches TDC#23 entry: 221 B Baker St. v1.0 (1987)(Datasoft, Inc.) [Adventure, Strategy]</comment>
+		<comment_dosc>EGA graphics, 6 MHz IBM AT-compatible speed option, CPU year set to 1987, CPU cycles set to 300, and auto start</comment_dosc>
+		<link type="media">https://puredos.github.io/tdc-browser/?/221+B+Baker+St.+v1.0+(1987)(Datasoft,+Inc.)+%5BAdventure,+Strategy%5D</link>
+		<rom name="221.EXE" size="53312" crc="69ffd151" md5="eaa742126ebb74a65470572f6ed9afba" sha1="10927aee01ac5811844dde58600fe9c7fc2f7e7e" date="1987-05-26 03:28:52"/>
+		<rom name="221CGA.1" size="16185" crc="7fd45352" md5="6251d8bba5ecee22a25d9fe3e4e36057" sha1="be04d8da74227b99928874c90081405e5158dfec" date="1987-05-19 20:33:30"/>
+		<rom name="221CGA.2" size="10559" crc="253ac1ea" md5="f34cac17b7912aea028f041c9ab72b60" sha1="08ddfcaa55c2cdb9913dff9be6b6a4fa2a368acb" date="1987-05-19 20:34:06"/>
+		<rom name="221CGA.BD0" size="32768" crc="1b7aeea0" md5="89ed1c461521393aaf83805ef5f7ab09" sha1="0459eb5552a0adf04a3bcaeab191c940d5aae77b" date="1987-05-18 15:01:56"/>
+		<rom name="221EGA.BD0" size="18559" crc="4a118a64" md5="8f01e1e30e037d3992a20d5e8610bebf" sha1="fcdafaad2512833859cfbc8c0039bc0febd58cd6" date="1980-01-01 00:22:54"/>
+		<rom name="221EGA.BD1" size="15771" crc="1329a91e" md5="e43b52cde94cb5671be7bd76cf50cba5" sha1="dcc87199e86c4c58205a401e3ff6ac356b7ceb17" date="1980-01-01 00:24:02"/>
+		<rom name="221EGA.BD2" size="14619" crc="bd1e6aac" md5="31d89169d6742ecb4434965d5b39e46e" sha1="7edda7ebd724bb689b49955987adca9da8cdb07b" date="1980-01-01 00:24:40"/>
+		<rom name="221EGA.BD3" size="15934" crc="47134786" md5="327b55aaa7fcf6018473b55db7273b37" sha1="db20eccae6277767427b3c7bc2b603678a07fbeb" date="1980-01-01 00:25:16"/>
+		<rom name="221EGA.BD4" size="28212" crc="85b38d69" md5="de857883e535e5b2dde54a00f8238d8e" sha1="4094a197af143b118681314b2029d1d0f64dbd7b" date="1980-01-01 00:25:48"/>
+		<rom name="221EGA.BD5" size="7522" crc="e0db65fd" md5="5f365300d0a8dd14ce940b042c60e86c" sha1="57cbc69866ecc4131dbdce4ec19da21f5f8a1dcf" date="1980-01-01 00:26:16"/>
+		<rom name="CASEINDX.BIN" size="100" crc="b1fbd84b" md5="70aac7981680ae563fd288255ac475fa" sha1="2033e8d85b8f7516cd59505818b569e6519fd2fc" date="1987-02-22 19:48:42"/>
+		<rom name="CASES.LST" size="896" crc="5c7e0431" md5="3b83c3cfbed5c9297245c119ca509c40" sha1="46238d971490fc0799c22233d7764a2cd6d8dfcd" date="1987-02-22 18:27:22"/>
+		<rom name="CASES1" size="3438" crc="788c1f45" md5="4a92bf5ef996c1cba182ecf37da30777" sha1="4bdb5306d0768fda77b753d7e88ee8f3924317c1" date="1986-11-05 23:29:22"/>
+		<rom name="CASES2" size="3822" crc="d285577c" md5="6613983b629e58a34a6774ab5c90982f" sha1="8489006d79bfcfb0cea26dcce174cfac4bcdb160" date="1986-11-05 23:29:30"/>
+		<rom name="CASES3" size="3559" crc="7eab9e25" md5="6e2986be3bb093840b38801c1f67fad0" sha1="e0e2a8fa6874367e4f275e49c4e3d5c456ca7b58" date="1986-11-05 23:29:38"/>
+		<rom name="CASES4" size="3663" crc="4a1237b8" md5="0283299417f4f2c9960b6e0e3ec4b726" sha1="8f16d2d8e2043d5a3fd3591cd6ab191bffa80075" date="1986-11-05 23:29:48"/>
+		<rom name="CASES5" size="4730" crc="ba380609" md5="ca0b04e4b9c7cd6e9cbf9f500523c83c" sha1="76bf53c0af11bc6f7ab915c226b54e3aca980f86" date="1986-11-05 23:29:58"/>
+		<rom name="CASES6" size="4487" crc="3e206d4a" md5="68d2e2748b088180ad2090cd655b589f" sha1="cae106502d78b59a061d24957b704dbcc4b8fec2" date="1986-11-05 23:30:08"/>
+		<rom name="CASES7" size="5553" crc="20defda7" md5="2cc82adb28cfef34323464c2c1a437cf" sha1="80a1302da516dde0304a96a68d65e83af5905585" date="1986-11-05 23:30:20"/>
+		<rom name="CASES8" size="2681" crc="1a81327c" md5="ad26d644ac63dcdfa9c2df36bf33bdce" sha1="86469c079b27d400d98e1f4f00cf12afb2c178fb" date="1986-11-07 20:22:38"/>
+		<rom name="CGA_TITL.CMP" size="10543" crc="d3dc2fbb" md5="5aff5fa31aad1a2731fe5e83a0c74845" sha1="873d1783e84db3d0c5e755fea830372a84a41b4e" date="1987-05-22 19:05:04"/>
+		<rom name="CHRS.SET" size="2304" crc="0736e5be" md5="87e46c601710693940b3a1aa772babae" sha1="d71523e232231abf5a07f37953eaaf8eb8ea40dc" date="1987-04-22 20:13:22"/>
+		<rom name="DICE.LIN" size="440" crc="3c18926c" md5="51188417902eb5ed4d2d9773f1e1043f" sha1="c0dd0be73a64668c91a60908ff16993941b86d05" date="1987-04-23 22:20:58"/>
+		<rom name="EGA_00.CMP" size="11440" crc="f615c734" md5="5dd6eca17029396816e5f0417baf117c" sha1="64b18eed2047d9b119914e9a516b587b7d9f8853" date="1987-05-18 03:59:26"/>
+		<rom name="EGA_01.CMP" size="10598" crc="05cf105a" md5="727055f001c8cc6dd82c1fbb07c83c79" sha1="45dfa44cedad8936b8f8e78bdc8f51ccd895ad49" date="1987-05-18 03:59:52"/>
+		<rom name="EGA_02.CMP" size="9388" crc="57b4b996" md5="1d744dc97837c0335031f77cdc32161d" sha1="009d3d53a1f5a5c3ace011df08720c934ed81c77" date="1987-05-18 04:01:28"/>
+		<rom name="EGA_03.CMP" size="11622" crc="ae95f4be" md5="063fad23d4daeac7025e458a1e1cfb4f" sha1="fac583d67d0418844a4e0d7cf9236006fbbceebe" date="1987-05-18 04:01:48"/>
+		<rom name="EGA_04.CMP" size="10817" crc="74175796" md5="94b99fa4d86858b92aee74aa12a00cea" sha1="89f71130d3f56cbd239c4f62915fe02f9599b70f" date="1987-05-18 04:02:10"/>
+		<rom name="EGA_05.CMP" size="9874" crc="b1db9f24" md5="884d403bb01c19fd53d2a77664f3f344" sha1="27b239e9b18e0cd1aae7a9c07fb161366b69a0bb" date="1987-05-18 04:03:00"/>
+		<rom name="EGA_06.CMP" size="10793" crc="3bfcb76a" md5="052d9c868a842ed6fb07640ca6eadaa6" sha1="5d88141f280d055e3bc91d647d43bb9f6c1e46e4" date="1987-05-18 04:03:20"/>
+		<rom name="EGA_07.CMP" size="10812" crc="6c3c45b5" md5="90a50370b76902bf9857f9f01575bd2e" sha1="5c685ce4394ec464c9f0e6ed51f354e57f9f3399" date="1987-05-18 04:03:46"/>
+		<rom name="EGA_08.CMP" size="9991" crc="1e70184d" md5="21031a96c27237ff84f58e96ceda52d3" sha1="fef629cdf47e90d4c35019478fedde5a98ea3658" date="1987-05-18 04:04:06"/>
+		<rom name="EGA_09.CMP" size="8467" crc="a90c76a2" md5="4d38b0347fd49a2cee900fe704841167" sha1="0e096fec122399c6413f2ca77bc4c9edf04e0a4b" date="1987-05-18 04:04:48"/>
+		<rom name="EGA_10.CMP" size="11144" crc="2d7cf0c6" md5="d8e0927b14ec025a48c17865109a3aef" sha1="268fbe7ad33913b56ba9cfe364d34a13fdb97071" date="1987-05-18 04:05:16"/>
+		<rom name="EGA_11.CMP" size="9909" crc="b9131fe0" md5="af4bb1e20998dbb71b0668d33a6c9c8e" sha1="5c32375d018328d2dcc95bfd3560287acb890d7b" date="1987-05-18 04:05:46"/>
+		<rom name="EGA_12.CMP" size="10237" crc="2272ac9f" md5="1ac399d132f9d9c4158aa9a725c15993" sha1="43ac2b4bda479cc99d59ebda46ebd6945eaff117" date="1987-05-18 04:06:04"/>
+		<rom name="EGA_13.CMP" size="11251" crc="44f280fe" md5="efcb7a6e3a70ac731d2f035ec08e0ccd" sha1="d2fbfcab4eaa4e4c6defff582fb0a13ab2ed6e59" date="1987-05-18 04:06:24"/>
+		<rom name="EGA_14.CMP" size="11722" crc="8cfceba6" md5="994f11ba24c0a6bb29e66096fec76224" sha1="823573f04bb6e355e7c36ad3c0117355e3b4c85c" date="1987-05-18 04:06:40"/>
+		<rom name="EGA_ICON.CMP" size="549" crc="efb12376" md5="a7201ef4555c16ef90f365e8d2370a93" sha1="c21c729a73b28f53fc078eb189e2000af2726971" date="1987-05-18 04:08:38"/>
+		<rom name="EGA_MEN.CMP" size="19257" crc="c65c3ddb" md5="eae6c69d0fcff4c6af7561d17435c9f0" sha1="c5e156459f5df7c82c53d8654bbd83518d2fd368" date="1987-05-18 04:07:38"/>
+		<rom name="EGA_TITL.CMP" size="18610" crc="8640d3b2" md5="5fac373d468ab0c1c30cd0c5482e2af0" sha1="4fd132a89d0eac0b3e677a30662bc8df14d2c29e" date="1987-05-22 13:05:34"/>
+		<rom name="ICONS.CMP" size="270" crc="0bdf7bd9" md5="2f68e8628931b55be27339c136de7bae" sha1="706ea291fa62a04245624a126a8e6b35e0257b76" date="1987-04-22 23:40:30"/>
+		<rom name="PLAYERS.CMP" size="9698" crc="41fef547" md5="3c4874727239126c9bb67d60b443687c" sha1="66891b7bcb8cbb278248fd6d4df38cf7cca1af44" date="1987-05-17 23:52:12"/>
+		<rom name="QUIZ1" size="2977" crc="a3a86cb6" md5="40ee07b4272a2b338ecdb6ea3d833e83" sha1="15b95463a97da0604a6f6a7df3c84ff3c53412cd" date="1986-11-12 19:22:28"/>
+		<rom name="QUIZ2" size="3421" crc="a865d443" md5="4752fa47008614d45d5b4fe9cf35cfaa" sha1="0c4392d8a3bb07c06b897bd4996c700d85703652" date="1986-11-12 19:22:40"/>
+		<rom name="QUIZ3" size="3021" crc="ebbb5200" md5="e7073236c06b794828efe23f6fcfa080" sha1="6efa829cb27053428001e2e71ee4f940a664e5de" date="1986-11-12 19:22:54"/>
+		<rom name="QUIZ4" size="3271" crc="5afe0426" md5="dbf94c8e5e9c4e5c37b52ae6e60557df" sha1="b5707267ac3b72bde49c8784ff5d0352fef43807" date="1986-11-12 19:23:08"/>
+		<rom name="QUIZ5" size="3292" crc="fb956e89" md5="128862f867cf5b0bdf46e5af12ae4b35" sha1="d82717dd6d4fb48d56fc540afb960c42ea0796fd" date="1986-11-12 19:23:22"/>
+		<rom name="QUIZ6" size="3075" crc="69b1335d" md5="df2509672ca79a2b6c7c94c4fe4fd045" sha1="7fb72e743aef048d1314c5512f5907a0bded542d" date="1986-11-12 19:23:34"/>
+		<rom name="QUIZ7" size="4134" crc="73f652bd" md5="ac06cf625c872c3320018d39021db7f4" sha1="2a1e542807d3ab888afae2e464fb04d7d38794ec" date="1986-11-12 19:23:50"/>
+		<rom name="QUIZ8" size="2155" crc="cae0d663" md5="0c9ae04201dd73c3da82623bea7cbfa8" sha1="996f270a6bebb61ac50535f8a763a0e79474ff06" date="1986-11-12 19:24:00"/>
+		<rom name="ROOM00.CMP" size="4913" crc="3d1373ab" md5="6fd59e9eec30561ca477f491d2b60cb7" sha1="7b892702badb6b06a6f7b5b65ab23ced52b4aad1" date="1987-04-15 17:52:34"/>
+		<rom name="ROOM01.CMP" size="5342" crc="a1941577" md5="2c61775dd4279e6bab5f9823d1b59934" sha1="ff3fef969b13e3908d877700cc02a050d138729c" date="1987-04-15 19:16:30"/>
+		<rom name="ROOM02.CMP" size="5316" crc="0d1ec21d" md5="59f468e735b904f4a6907cea89059d1f" sha1="8dde65347f53ee2ceb5c16e37eb5ce63c3710faf" date="1987-04-15 19:16:54"/>
+		<rom name="ROOM03.CMP" size="6052" crc="18ea3aa6" md5="2cbce0fcc0d53903b502b3ca7cab3e0b" sha1="f5c0f66b5690c9da6b2f8aebb4c7adb4c6d0b8ce" date="1987-04-15 19:17:16"/>
+		<rom name="ROOM04.CMP" size="5733" crc="642cb330" md5="58b275b268587cf332925f4b91ce4f81" sha1="b441649b9d84bc4924bbd52b6c8c2147eb5098c2" date="1987-04-15 19:17:38"/>
+		<rom name="ROOM05.CMP" size="4595" crc="cfa69f40" md5="7b77bd14f329bdf68abc22a59faea524" sha1="2872dd818306c166949aaad0138603ad84d833fa" date="1987-04-15 19:18:00"/>
+		<rom name="ROOM06.CMP" size="5333" crc="c20db30a" md5="454cb9b7338e1e71c3b3c0602c136291" sha1="c048cbfa69c9965ff7f9c87853bfe2dbf2516680" date="1987-04-15 19:18:54"/>
+		<rom name="ROOM07.CMP" size="5716" crc="9845733a" md5="4cd01010acc405200507ef32c14016d2" sha1="b93602d7d07a967a9b53d233108ffc7dcc2f6756" date="1987-04-15 19:19:16"/>
+		<rom name="ROOM08.CMP" size="5114" crc="e4f54a0c" md5="6e3e4b8631be3099924fd1b93e9b81be" sha1="9787895baaeabc94c6bbaafb288c8cdd914275b7" date="1987-04-15 19:19:40"/>
+		<rom name="ROOM09.CMP" size="4469" crc="e650e064" md5="a8e9436b342d1da009ec5f0a99a82b87" sha1="f782d4991f04d4f50c40dd6ce17a690223993fa1" date="1987-04-15 19:20:02"/>
+		<rom name="ROOM10.CMP" size="5544" crc="fb3041d7" md5="10706a5a0938ce5811df5ba97506a55e" sha1="b5e1ffe5c5a199e70b0f2e322105e568013d2585" date="1987-04-15 19:20:26"/>
+		<rom name="ROOM11.CMP" size="5462" crc="743d47b9" md5="178d3f58f4fa0f4c8e03af1892a25d9e" sha1="697b706623e57eea386993a479331ff97b8adf0d" date="1987-04-15 19:20:56"/>
+		<rom name="ROOM12.CMP" size="5970" crc="2b74b85a" md5="73deeef70cf01af78f825b86d7349923" sha1="ab73214dab3f5160af7d75260af296d9d88a2bcf" date="1987-04-15 19:21:16"/>
+		<rom name="ROOM13.CMP" size="5032" crc="680e2b0a" md5="4c2d609ae482478a246115a6f1e07e87" sha1="61cce32713e653f20e29d38485a71d624d1aadb1" date="1987-04-15 19:21:40"/>
+		<rom name="ROOM14.CMP" size="5197" crc="44268ab8" md5="bd2902fb80ada3d8d47cd652ed93dc04" sha1="605ff522c518983a51c86a8f1a74614907ca147d" date="1987-04-15 19:22:26"/>
+	</game>
 	<game name="3 Skulls of the Toltecs (1996) (Revistronic).dosz">
 		<description>3 Skulls of the Toltecs</description>
 		<comment>Installed from Redump-verified CD-ROM: 3 Skulls of the Toltecs (Europe)</comment>
