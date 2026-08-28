@@ -325,6 +325,100 @@
 		<rom name="IMPEL/README.TXT" size="769" crc="46705e99" md5="1ddd2c6dbe5dece695f1a8ecc2b52fd7" sha1="36dd8ae3f73678215f41f6a01946dedac992b559" date="1998-04-09 13:20:06"/>
 		<rom name="Quake (1996) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
+	<game name="Quake - AirQuake (1997) (Iikka Keranen).dosz">
+		<description>Quake - AirQuake</description>
+		<year>1997</year>
+		<developer>Iikka Keranen</developer>
+		<parent>Quake (1996) (id Software).dosz</parent>
+		<comment_dosc>Config file and auto start. Map options</comment_dosc>
+		<link type="freeware">https://www.moddb.com/mods/air-quake/downloads/airquake-103</link>
+		<rom name="airquake/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2024-10-07 21:16:52"/>
+		<rom name="airquake/AIR2.TXT" size="2886" crc="8869e532" md5="b98a2e1682fe0cfbcc7f7a00f1a41b6e" sha1="bd9236967a0b0ef265bf42a9d02c09f6cab02ede" date="1997-11-09 10:40:46"/>
+		<rom name="airquake/AIRCITY.TXT" size="3115" crc="886677d4" md5="72b730f4df4ca13e23ef33ba502fc3df" sha1="a1cef220415138b40f6e74d30c607984aecc559f" date="1997-10-05 16:23:50"/>
+		<rom name="airquake/AIRQUAKE.TXT" size="24467" crc="ab8f00c3" md5="4e9277efdc00f7e982c48c5158331d8e" sha1="5e2437cc9b6ab88eff43c69ee27bc6bb2e4da9fd" date="1999-10-18 16:49:08"/>
+		<rom name="airquake/AIRSAY.RC" size="5368" crc="7cdd000f" md5="52330a6e73e0073f82d1b2321d015b9f" sha1="84f8b728e8f26b1ddeb7a44537b0b2f654f3a01b" date="1997-11-20 12:45:54"/>
+		<rom name="airquake/aq.bat" size="66" crc="2a98feec" md5="d3b778ec4e113ae8885ee8ccfbfac5f8" sha1="108d87b50667b39d4d95709682e3f562ca564741" date="1998-12-19 10:30:42"/>
+		<rom name="airquake/aq95.bat" size="64" crc="197d04c4" md5="cf4de9f01b50425c4ce5819ffbdae13a" sha1="02c5527bcc5f04c421ca89db38e23ebbebfa1ac2" date="1998-12-19 10:30:26"/>
+		<rom name="airquake/AQALIAS.CFG" size="714" crc="feba87a1" md5="e13bfd6c3e5155786018a916cdcb745f" sha1="589183f1c83fec9cc4203430d25fa299c6a8f523" date="1997-11-20 11:21:52"/>
+		<rom name="airquake/AUTOEXEC.CFG" size="397" crc="c0369ed1" md5="d57b42caf8a1744d373dca2d3a762799" sha1="11712ad818d273da771ab5783935b46f832b2592" date="1998-12-18 14:18:20"/>
+		<rom name="airquake/CONFIG.CFG" size="4687" crc="1f23cd82" md5="02987adb56a301692a54dff9d24ed2ed" sha1="75eb9a336e02b6349f763ac74db87e43716d725e" date="1998-12-18 14:01:14"/>
+		<rom name="airquake/MAP00.CFG" size="18" crc="72e4d044" md5="1342a297e149725f2d77f69bae8d2914" sha1="c69d641ffb881c7e78cd9936c569d5325d6b4a6d" date="1997-10-15 06:24:04"/>
+		<rom name="airquake/MAP01.CFG" size="18" crc="70a26e1d" md5="b0f4550fbc6d0dbc37f0d029bb6e3ef8" sha1="5056e4f2d9f0bb8b2c821695caf7b6fe3eb20431" date="1997-10-15 06:24:06"/>
+		<rom name="airquake/MAP02.CFG" size="18" crc="7160042a" md5="91b06e3464530321e24a48c12d3f4f98" sha1="1119540a6c9d20372c01dac510572a9bc2f8fbf0" date="1997-10-15 06:24:10"/>
+		<rom name="airquake/MAP03.CFG" size="21" crc="06c27450" md5="c5d2f7097bea8419b29a62883df4b241" sha1="35c056a7a9c46ff6cc5993562c317d5d35063de9" date="1997-10-15 06:24:16"/>
+		<rom name="airquake/MAPS/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1998-12-13 16:59:32"/>
+		<rom name="airquake/PAK0.PAK" size="9638301" crc="d7d6ac71" md5="3e4d4081368b76b8f4023bc3fee3b3b4" sha1="47261e199ba8255a829129568f02463a2856261a" date="1997-11-30 10:47:46"/>
+		<rom name="airquake/PAK1.PAK" size="3880148" crc="d77ed9bb" md5="7fc2b28eddac153ae2ec71ec0ba99f96" sha1="20b9eea2fbb92469570ef9490d1cf17368c8df43" date="1997-11-30 10:54:20"/>
+		<rom name="airquake/PROGS.DAT" size="480388" crc="9ac8b5a4" md5="c5f9eaa36426f1617002353479a2ccae" sha1="b513409b91f62941ce3eb0ea7430e00e0118d484" date="1999-10-18 16:08:38"/>
+		<rom name="airquake/QUAKE.RC" size="345" crc="46d903fb" md5="bfeb2d114d10b6b622b8671013494ba6" sha1="1b15cde06cad5f72e55a777764c38ecffbd1ea09" date="1997-11-09 10:41:46"/>
+		<rom name="airquake/SPECS.TXT" size="14592" crc="c9a5593f" md5="671c8c23b226663ad3887ea75455fb58" sha1="8d6bac5aadc5beaaef8ad1772a11d6c64a72918e" date="1998-12-19 10:58:08"/>
+		<rom name="airquake/waq.bat" size="69" crc="6ce2394b" md5="c4bfcd37f886b4977e12a4c66ac13d88" sha1="5991c4b238575f1ace675ec1517e58c14aa74ff6" date="1998-12-19 10:30:36"/>
+		<rom name="Quake (1996) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2024-08-14 02:44:52"/>
+	</game>
+	<game name="Quake - Beyond Belief (1997) (Matthias Worch).dosz">
+		<description>Quake - Beyond Belief</description>
+		<year>1997</year>
+		<developer>Matthias Worch</developer>
+		<parent>Quake (1996) (id Software).dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.quaddicted.com/db/v2/maps/0cbcf6681952c51e44aecac54b57466a094d7b7701062d364291b5976874b721</link>
+		<rom name="BBELIEF/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2024-10-07 20:09:42"/>
+		<rom name="BBELIEF/BBELIEF.BAT" size="38" crc="5e730368" md5="f0191e644f2d8ece70296ed88d418b1c" sha1="75d58410ecfef152ba42fb5585e9a84318e13238" date="1997-05-14 15:54:42"/>
+		<rom name="BBELIEF/BBELIEF.DOC" size="16167" crc="7c4b6ca6" md5="7621e56fedac5e768df45509bca4dd64" sha1="d0d3e68ce6bbdd3e7f750a6b7bac6faf203b1d88" date="1997-05-15 13:40:38"/>
+		<rom name="BBELIEF/BBELIEF.TXT" size="5006" crc="ccbd6398" md5="a95eae04122914f808158fd3d13f56af" sha1="95a4940a3c1741f56fd7a2b08cad421a2be792eb" date="1997-05-15 13:25:26"/>
+		<rom name="BBELIEF/BOSSQC.TXT" size="1341" crc="0fac0591" md5="bbf878bc6074769b329afa2de16b0c8d" sha1="f04d99e40cd057a3fbdef27784bed3616d2d311f" date="1997-01-06 20:14:50"/>
+		<rom name="BBELIEF/PAK0.PAK" size="17298379" crc="14e2742a" md5="285cd30ff77d2303de94c250cbe20587" sha1="cbd1affebb123770a5315856577508ee90fff0fb" date="1997-05-15 16:48:50"/>
+		<rom name="Quake (1996) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2024-08-14 02:44:52"/>
+	</game>
+	<game name="Quake - Insomnia (2000) (Christian Grawert).dosz">
+		<description>Quake - Insomnia</description>
+		<year>2000</year>
+		<developer>Christian Grawert</developer>
+		<parent>Quake (1996) (id Software).dosz</parent>
+		<comment_dosc>Auto start</comment_dosc>
+		<link type="freeware">https://www.quaddicted.com/db/v2/maps/38ee9811a6181f4b302ded52f1eade9fa131b2f7e0de801615aa9234beb39257</link>
+		<rom name="czg07/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2024-10-07 20:36:22"/>
+		<rom name="czg07/autoexec.cfg" size="120" crc="c77f02fa" md5="aff4df59eb7d593b8f92082d501e4eef" sha1="4d946be4dee4836d6e0ab47e2bc3e36595ad40de" date="2000-12-30 12:58:56"/>
+		<rom name="czg07/czg07.txt" size="8657" crc="a29ca516" md5="c945a2510923232795ab41491db60e1b" sha1="f38f1caf068ca672944d6dff4398910592e46664" date="2001-01-01 19:23:52"/>
+		<rom name="czg07/pak0.pak" size="14526472" crc="ac45bb0d" md5="001c8f657d1c92083755a6a9f1ff1b87" sha1="a44c6fbeb24b52f2f1e14e9093a45e8957f018bd" date="2001-01-01 19:10:20"/>
+		<rom name="czg07/progs.dat" size="371420" crc="561784fb" md5="438af0051d2c82601a5c735bdad35e8a" sha1="47da330ab4367be0644e2a2aa0f4bc414f9d3666" date="2000-12-30 22:36:18"/>
+		<rom name="czg07/source.zip" size="186522" crc="62f70c57" md5="e4947e013d8628d136c32a1574e58f75" sha1="8783cced84104a4007654e7cf34f6747c264fdd2" date="2001-01-01 19:08:38"/>
+		<rom name="Quake (1996) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2024-08-14 02:44:52"/>
+	</game>
+	<game name="Quake - Quake Rally (1997) (Impact Development Team).dosz">
+		<description>Quake - Quake Rally</description>
+		<year>1997</year>
+		<developer>Impact Development Team</developer>
+		<parent>Quake (1996) (id Software).dosz</parent>
+		<comment_dosc>Config file and auto start</comment_dosc>
+		<link type="freeware">https://www.moddb.com/mods/quake-rally/downloads/quake-rally</link>
+		<rom name="BUTTON.WAV" size="1524" crc="462c1e09" md5="142139a2d4e1aaf965882654c3dd8606" sha1="8aec6483f6981b7ef97ad0719f540f0fe88f047b" date="1994-10-04 11:48:02"/>
+		<rom name="QRALLY.EXE" size="1251840" crc="801821be" md5="fa58d734db705d0eccac17e0b76a6d2c" sha1="b880b847d9e33e9873f25b3e211a7bde53df4ab1" date="1997-07-30 13:11:00"/>
+		<rom name="Quake (1996) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2024-08-14 06:44:52"/>
+		<rom name="RALLY/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-18 20:30:46"/>
+		<rom name="RALLY/CONFIG.CFG" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-18 20:13:54"/>
+		<rom name="RALLY/MAPS/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1997-07-18 20:12:50"/>
+		<rom name="RALLY/MAPS/CULT.BSP" size="697076" crc="4946c360" md5="be86f3cbee68a0fc5d433735f7a06da9" sha1="27363b616be865005e543e4b2c3695ea21dbd70b" date="1997-07-18 17:49:56"/>
+		<rom name="RALLY/MAPS/QRALLY01.BSP" size="1314632" crc="829994aa" md5="12c8faee0afb30454ffe1b881f65b7f0" sha1="f1aea5f97c69f663baa564e658ecb44005d48c97" date="1997-08-03 00:10:08"/>
+		<rom name="RALLY/MAPS/QRALLY02.BSP" size="1154220" crc="ad768c82" md5="b5b748764fcc9d97835d25954206509c" sha1="4d796daee4871e7b2e58b80dc86279a6cf2bcae4" date="1997-08-03 00:10:16"/>
+		<rom name="RALLY/MAPS/QRALLY02.TXT" size="2036" crc="0205ad42" md5="e950917b0ba74752658c644c211513ff" sha1="589e4fd1f6215101b83b526811daf3da14438b3c" date="1997-06-18 09:03:36"/>
+		<rom name="RALLY/MAPS/QRALLY03.BSP" size="1424652" crc="740b0e7b" md5="fdcee224dd3cb819d5fbe7ea79ded5c6" sha1="1a7b5811f772aad5a447c7ac1d6a9e8f99839ca4" date="1997-08-03 00:10:22"/>
+		<rom name="RALLY/MAPS/QRDM01.BSP" size="379064" crc="6d4f1737" md5="c940158a9e7ea3e5fcec4df84acb28bb" sha1="82a55461f6fc9c19d43584819b921c6f23363db0" date="1997-08-03 00:10:26"/>
+		<rom name="RALLY/MAPS/QRDM02.BSP" size="713560" crc="fbda8d53" md5="75fbdf3eda7cff0cd6c1f75cb96c0d63" sha1="4e6abc26bb8d028c779a06dc7b98f1ac90d6746e" date="1997-08-03 22:24:28"/>
+		<rom name="RALLY/MAPS/QRDM02.TXT" size="1848" crc="4eb22045" md5="caf05838d05b796f1552d9a842bf2881" sha1="b325e24040a78dc16d1698bab6280fd777f0da06" date="1997-07-13 12:04:24"/>
+		<rom name="RALLY/MAPS/QRDM03.BSP" size="672272" crc="5f0852a5" md5="6799f4a92ea9ebaa368c6c3be4c6e321" sha1="b12cf5431324486164d16ff282fd787cd8f72b52" date="1997-08-03 22:09:10"/>
+		<rom name="RALLY/MAPS/QRDM03.TXT" size="1698" crc="0afa1122" md5="3fe3b241e8d7b82249d1380a8bb1b38d" sha1="bed714a723239d3a4374c59a5645a1e2ab682c53" date="1997-07-29 21:41:22"/>
+		<rom name="RALLY/MAPS/QRDM04.BSP" size="915247" crc="f524427a" md5="2fcff7c40881e501bff77d7ead72b473" sha1="00ef0e81961c43d4fc75f979c051a1e40404614b" date="1997-08-03 00:09:00"/>
+		<rom name="RALLY/MAPS/START.BSP" size="858212" crc="e83fe05b" md5="9f430c0781e73f6174ac0dd7dd8dd260" sha1="03a64d21c5acb5cc8c7f8bbd60a54ea0b8e1b784" date="1997-07-30 09:06:18"/>
+		<rom name="RALLY/PAK0.PAK" size="13504554" crc="ca3752c5" md5="5bb11b114a1af9b672e77536fa21a83d" sha1="7f5c0096ad20e5cd9adf2879a548cbe342c59aaf" date="1997-08-03 22:51:54"/>
+		<rom name="RALLY/PAK1.PAK" size="1508324" crc="180d2d48" md5="5f38235d5d59c7fd42a0f109a89efe3c" sha1="7b21138372f9c9747b6baa769a436c6cca56aeaa" date="1997-08-03 22:52:48"/>
+		<rom name="RALLY/PROGS.DAT" size="445000" crc="29fd6ade" md5="3ce421db849252a69284c7897b84e3da" sha1="fd212343bda58402e342ca7a1756f01c92f46e2a" date="1997-08-03 22:40:02"/>
+		<rom name="RALLY/QRDEM1.DEM" size="401116" crc="79bcf704" md5="186c8d5fcfb7cc815ad7fc73e63771d6" sha1="84adca3d2bbff9707f0499b1e63b7d2249978c47" date="1997-07-17 17:57:42"/>
+		<rom name="RALLY/QRDEM2.DEM" size="1263204" crc="00b2d079" md5="4fdc2bb5f20c4028db873e59e68367ef" sha1="456625135500a6ca2c6b7d2e0525e57765b66543" date="1997-07-16 17:45:52"/>
+		<rom name="RALLY/QRDEM3.DEM" size="3412938" crc="71afdf7b" md5="0914d228aa0fbda4d815beb9a2ee2edb" sha1="d2f39381a94580fe6205b57795b6dc7633607271" date="1997-07-16 17:26:40"/>
+		<rom name="RALLY/QRDOCS.TXT" size="42935" crc="1d5aafc5" md5="57d0504d4b0548c0847a80cdc08c06ad" sha1="324df1d37ee253ac31b5451ef455c5af64f8a4b8" date="1997-08-02 00:35:38"/>
+		<rom name="RALLY/RALLY.CFG" size="3624" crc="5ac7d45f" md5="ea02c9bed0eed8bd5c4affa0b40641c1" sha1="411d017f61f80debfa78f857bd16a29f9c389594" date="1997-08-03 01:29:56"/>
+	</game>
 	<game name="Quake - X-Men - The Ravages of Apocalypse (1997) (Zero Gravity Entertainment).dosz">
 		<description>Quake - X-Men - The Ravages of Apocalypse</description>
 		<year>1997</year>
