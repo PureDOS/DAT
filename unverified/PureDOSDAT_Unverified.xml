@@ -53950,10 +53950,18 @@
 	</game>
 	<game name="Pools of Darkness (1991) (SSI).dosz">
 		<description>Pools of Darkness</description>
-		<comment>Extracted from Redump-verified CD-ROM: Forgotten Realms Archives - Silver Edition (USA) (Disc 1) - INSTALL.BAT removed</comment>
-		<comment_dosc>Auto-starts, config, and IPS patch that bypasses copy protection</comment_dosc>
 		<year>1991</year>
 		<developer>SSI</developer>
+		<comment>
+			Extracted from Redump-verified CD-ROM: Forgotten Realms Archives - Silver Edition (USA) (Disc 1) - INSTALL.BAT removed
+			CD also matches with TDC#23 entry: Forgotten Realms Archives, The (Silver Edition) (1999)(Interplay Entertainment Corp.) [bin-cue]
+			DoDAT can build this directly from the disc image
+			Also matches with GOG (using the embedded data)
+		</comment>
+		<comment_dosc>Auto-starts, game speed reduced, direct mouse enabled, config, and IPS patch that bypasses copy protection</comment_dosc>
+		<link type="media">https://redump.info/disc/79882</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Forgotten+Realms+Archives,+The+(Silver+Edition)+(1999)(Interplay+Entertainment+Corp.)+%5Bbin-cue%5D</link>
+		<link type="store">https://www.gog.com/en/game/forgotten_realms_the_archives_collection_two</link>
 		<rom name="8X8D0.DAX" size="1857" crc="4af6a225" md5="b754c3a019e6b29910df06d379fece95" sha1="149a1fdc4ab4d3ba42a99ef465a51eda4e549624" date="1997-01-14 01:57:40"/>
 		<rom name="8X8D1.DAX" size="91734" crc="c4cdb4e4" md5="30ac25e746b700b18484f83c7a333553" sha1="5b1a493bf6897c5aa3bed413c516cbfdf077d2e7" date="1997-01-14 01:57:40"/>
 		<rom name="ADLIB.COM" size="1847" crc="86a51570" md5="2446c736ec6a299c5d2c16481c9e3bfb" sha1="48f93faa421dcbe322f730fc28c28f8475283550" date="1997-01-14 01:57:40"/>
@@ -53971,8 +53979,11 @@
 		<rom name="EGA.DRV" size="33523" crc="8cf73058" md5="25d037c071b729df98b04f93b13df765" sha1="4dd43457566ba047f03dc750e9e9867064b2448a" date="1997-01-14 01:57:44"/>
 		<rom name="FINAL.ACF" size="4362" crc="5e863fef" md5="39943245a7b2218bc3e10e68b50d0700" sha1="0b4a98d506c846ab5648847ec922f6b4d8983ae1" date="1997-01-14 01:57:44"/>
 		<rom name="FINAL.BMA" size="253780" crc="6b665201" md5="064eb191c637d8bcf808d741d2aba27e" sha1="3fde4d54824a1e7388bdfc15a49f8d1b60c6e68d" date="1997-01-14 01:57:44"/>
+		<rom name="Forgotten Realms Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="GAME.EXE" size="64203" crc="03a4fb85" md5="8e6c89e608516b9e73a3907d6f115de2" sha1="d0f531cc57a4e23b3c713c51813d292790bcac66" date="1997-01-14 01:57:44"/>
-		<rom name="GAME.OVR" size="264086" crc="cf45e84f" md5="818ef75701b3d35ed869c4cda77a0dc8" sha1="c3f559f92641f30a02252504d00e7f99c320c240" date="1997-01-14 01:57:46"/>
+		<rom name="GAME.OVR" size="264086" crc="cf45e84f" md5="818ef75701b3d35ed869c4cda77a0dc8" sha1="c3f559f92641f30a02252504d00e7f99c320c240" date="1997-01-14 01:57:46">
+			<patch data="QlBTMRYOjxYOj4BUPoKSajqIzK5ae4Voervi6QuLT+hFz4UcxWs=" size="264086" crc="8b0be9e2" md5="0954fe21592ec900384df2532025a22e" sha1="bfdf7d6f20967b58c78c6e140f880e899980d968"/>
+		</rom>
 		<rom name="GEO1.DAX" size="28349" crc="60a7c346" md5="cea94913c6b1122292da94085d3ce1e5" sha1="0fbf06dbf42709d91ac0d08ad3a8055aae3d4476" date="1997-01-14 01:57:46"/>
 		<rom name="IBMSND.COM" size="1657" crc="7401f2c0" md5="857ecef72234650e72015f52b997b7a5" sha1="c0cf4d7ed8d3c743f87cb5f5aea60972489b90e8" date="1997-01-14 01:57:46"/>
 		<rom name="INTRO.ACF" size="10844" crc="f7aff32c" md5="9a31f7de8a251900158af3a1aa58cbb6" sha1="9ef3e48a7b59ab0cd0e048f1afd7a179d6ebaaf8" date="1997-01-14 01:57:46"/>
@@ -54008,7 +54019,7 @@
 		<rom name="SND.COM" size="2592" crc="730d374a" md5="6928fe596814703ef1793a090e78700f" sha1="f8f87a3c70181e3e556b19a910923c19225c7626" date="1997-02-18 05:44:40"/>
 		<rom name="SOUND.COM" size="12528" crc="52d88313" md5="59b5eba1fd10bdf7f66b60d36953027f" sha1="0a6a109de5e718e0161fc66e298413b081c08088" date="1997-01-14 01:57:50"/>
 		<rom name="SPRIT1.DAX" size="125298" crc="48bdfdc7" md5="0b9a8fbc9bc223b8521e07abbb505364" sha1="c12b5ffc53ed7ca222683196dee6e8de0e378e32" date="1997-01-14 01:57:52"/>
-		<rom name="START.BAT" size="78" crc="bf11a35c" md5="dcf28434ea198c0efb215d8d82225bd4" sha1="8c587f24a5a237b44da6f8fe31d8bcced88d63c7" date="1997-02-26 07:48:38"/>
+		<rom name="START.BAT" size="78" crc="bf11a35c" md5="dcf28434ea198c0efb215d8d82225bd4" sha1="8c587f24a5a237b44da6f8fe31d8bcced88d63c7" date="1997-02-26 07:48:38" data="c3RhcnR1cA0KaWYgZXhpc3Qgc25kLmNvbSBzbmQNCmNvbnRyb2wgJTEgJTIgJTMgJTQNCmlmIGV4aXN0IHNuZC5jb20gc25kIFUNCg0K"/>
 		<rom name="STARTUP.EXE" size="11488" crc="e5ac0110" md5="1076cc70f5589cc86fc7f89a147244a0" sha1="68f882a8431e8e159bc6848c88032339fd47ea9e" date="1997-01-14 01:57:52"/>
 		<rom name="TANEXTX.COM" size="1737" crc="0a159c38" md5="ef0d302fca3b38a458f61d8551a31bf7" sha1="4c253853ddc3d3980af10eff329476fb971cb889" date="1997-01-14 01:57:52"/>
 		<rom name="TANSLTL.COM" size="1110" crc="8f5a89d1" md5="fa299ef7db4c50f1b7c61a29ec7cdf65" sha1="efcd148d8d83bab9370e9b93e84cd7104f405524" date="1997-01-14 01:57:52"/>
