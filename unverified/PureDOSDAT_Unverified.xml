@@ -18005,10 +18005,18 @@
 	</game>
 	<game name="Curse of the Azure Bonds (1989) (SSI).dosz">
 		<description>Curse of the Azure Bonds</description>
-		<comment>Extracted from Redump-verified CD-ROM: Forgotten Realms Archives - Silver Edition (USA) (Disc 1) - INSTALL.BAT removed</comment>
-		<comment_dosc>Auto-starts, config, and IPS patch to bypass copy protection</comment_dosc>
 		<year>1989</year>
 		<developer>SSI</developer>
+		<comment>
+			Extracted from Redump-verified CD-ROM: Forgotten Realms Archives - Silver Edition (USA) (Disc 1) - INSTALL.BAT removed
+			CD also matches with TDC#23 entry: Forgotten Realms Archives, The (Silver Edition) (1999)(Interplay Entertainment Corp.) [bin-cue]
+			DoDAT can build this directly from the disc image
+			Also matches with GOG (using the embedded patch for GAME.OVR)
+		</comment>
+		<comment_dosc>Auto-starts, reduces game speed, config, and IPS patch to bypass copy protection</comment_dosc>
+		<link type="media">https://redump.info/disc/79882</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Forgotten+Realms+Archives,+The+(Silver+Edition)+(1999)(Interplay+Entertainment+Corp.)+%5Bbin-cue%5D</link>
+		<link type="store">https://www.gog.com/en/game/forgotten_realms_the_archives_collection_two</link>
 		<rom name="8X8D1.DAX" size="3769" crc="b23a84ed" md5="b446534002c5196b0074edbcac939ddd" sha1="7c10ba999f00ac8e016773b0f5a402fa900bb7ad" date="1989-06-09 13:10:06"/>
 		<rom name="8X8D2.DAX" size="9072" crc="7e7bed24" md5="948b63fdd99aac0b578a8219257c7a49" sha1="4229543fb6f033818a48bd4585e30ba8b6f7c745" date="1989-06-09 13:10:06"/>
 		<rom name="8X8D3.DAX" size="8913" crc="e74724de" md5="bc447fd0f69dd7f5450ce641980327e5" sha1="75dae08fef4073778bff028cc888d06a5c87186a" date="1989-06-09 13:10:06"/>
@@ -18040,7 +18048,10 @@
 		<rom name="ECL4.DAX" size="27449" crc="ea542a86" md5="5935a7ad7749e8e998da145b165c7c9c" sha1="4030781eb0856676889f01978aaed3a66e279908" date="1989-07-11 10:10:20"/>
 		<rom name="ECL5.DAX" size="24908" crc="71372681" md5="3c5da04115e928b20f1c1878f99f89b1" sha1="1a7546dff903201e6ea6167d54125b4dba29e871" date="1989-07-28 08:36:36"/>
 		<rom name="ECL6.DAX" size="22175" crc="d0f33299" md5="a507eeccee934670623c3c88aed67f92" sha1="d7b2f7f457eec0c16052d5598792cafe13c350bc" date="1989-06-17 11:50:16"/>
-		<rom name="GAME.OVR" size="272137" crc="cd6e7ae6" md5="8e72e73106aad5c9a9d9f22b245cb501" sha1="e919de8f953d560db7a3ed7acc201f23707b7aba" date="1992-09-09 04:25:00"/>
+		<rom name="Forgotten Realms Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="GAME.OVR" size="272137" crc="cd6e7ae6" md5="8e72e73106aad5c9a9d9f22b245cb501" sha1="e919de8f953d560db7a3ed7acc201f23707b7aba" date="1992-09-09 04:25:00">
+			<patch data="QlBTMQlNjwlNj4BsU4OBdCxivCtW+bvmem7NrjJCNg==" size="272137" crc="bbf9562b" md5="c2454f8d893ae36c7a4af90111ffb568" sha1="e7bbd5de30bbc50be6f09b68ff71944d12cf4b79"/>
+		</rom>
 		<rom name="GEO2.DAX" size="2879" crc="26f4f362" md5="545e8fe698723c78ba025521a7e6f75c" sha1="377beffdf5f116008285a3f2b8c12e8f0afabeb0" date="1989-06-05 04:12:04"/>
 		<rom name="GEO3.DAX" size="2990" crc="10ba79c5" md5="dc461357901096e9468822032f857391" sha1="9f13a1797748e01f142487cb5d58c2f8e7f712d9" date="1989-06-02 08:56:50"/>
 		<rom name="GEO4.DAX" size="2673" crc="31a47c96" md5="1dbeb4507a88bd6282234c2f079b3deb" sha1="90cff0de7830e9e57f813e703a6021d89bf07aa1" date="1989-07-28 03:45:14"/>
