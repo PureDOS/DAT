@@ -58900,10 +58900,18 @@
 	</game>
 	<game name="Secret of the Silver Blades (1990) (SSI).dosz">
 		<description>Secret of the Silver Blades</description>
-		<comment>Extracted from Redump-verified CD-ROM: Forgotten Realms Archives - Silver Edition (USA) (Disc 1) - INSTALL.BAT removed</comment>
-		<comment_dosc>Auto-starts, config, and IPS patch that bypasses copy protection</comment_dosc>
 		<year>1990</year>
 		<developer>SSI</developer>
+		<comment>
+			Extracted from Redump-verified CD-ROM: Forgotten Realms Archives - Silver Edition (USA) (Disc 1) - INSTALL.BAT removed
+			CD also matches with TDC#23 entry: Forgotten Realms Archives, The (Silver Edition) (1999)(Interplay Entertainment Corp.) [bin-cue]
+			DoDAT can build this directly from the disc image
+			Also matches with GOG (using the embedded patches)
+		</comment>
+		<comment_dosc>Auto-starts, reduces game speed, enables direct mouse, config, and IPS patch that bypasses copy protection</comment_dosc>
+		<link type="media">https://redump.info/disc/79882</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Forgotten+Realms+Archives,+The+(Silver+Edition)+(1999)(Interplay+Entertainment+Corp.)+%5Bbin-cue%5D</link>
+		<link type="store">https://www.gog.com/en/game/forgotten_realms_the_archives_collection_two</link>
 		<rom name="8X8D1.DAX" size="22557" crc="e53135d5" md5="43a13f35c60bbdc5419cd8bf9c614635" sha1="27866968ebe0b4c874ae161e14efa17520c5cbcb" date="1990-05-18 05:05:38"/>
 		<rom name="8X8D2.DAX" size="13375" crc="7f04d063" md5="409030a37f0724586a20df421cee8bdc" sha1="d8a3d16d7c62cb0ab54904837d03b103e0b8da7c" date="1990-05-07 03:56:04"/>
 		<rom name="8X8D3.DAX" size="11038" crc="a0a7514c" md5="64b85e9309f1fbfb412eb0bb44872905" sha1="71975de081de7eed1534bc7f4f884445fe402f13" date="1990-05-07 03:56:10"/>
@@ -58928,7 +58936,10 @@
 		<rom name="ECL1.DAX" size="31457" crc="ec414317" md5="76b6136d3159de81c4d5748152856a5d" sha1="9f90483202171534b94fc98d931af1c6c5bc434d" date="1990-05-24 08:21:48"/>
 		<rom name="ECL2.DAX" size="62236" crc="3a8a8ec2" md5="00f67037c9709c60c39fef7a07cc9c4f" sha1="e219a45c89b829086c48a60bf15ea1973a0ab1f7" date="1990-07-24 09:04:08"/>
 		<rom name="ECL3.DAX" size="47705" crc="2c4a390c" md5="3f19a905ce91a3ce9915a079c652bb20" sha1="993440988106a8753648a10c70ec4d25d23e561e" date="1990-05-26 12:21:54"/>
-		<rom name="GAME.OVR" size="278528" crc="f217bcd9" md5="09a40eee6d0760f5b3638ab8a9080f87" sha1="14b9f02f690644cc9984c5b8aa5ff1d0e045e878" date="1990-09-28 08:07:48"/>
+		<rom name="Forgotten Realms Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="GAME.OVR" size="278528" crc="f217bcd9" md5="09a40eee6d0760f5b3638ab8a9080f87" sha1="14b9f02f690644cc9984c5b8aa5ff1d0e045e878" date="1990-09-28 08:07:48">
+			<patch data="QlBTMQB/jwB/j4AwEpyBckRrpdTSZfjZvBfyusNrlA==" size="278528" crc="f865d2d4" md5="b6795a4a5c9250c4bb5d78e77306c798" sha1="c7867fb855cd59c551dbf3d13375f3c7e548bf47"/>
+		</rom>
 		<rom name="GEO1.DAX" size="3890" crc="ac457efc" md5="8ef1af5f21d0da3851d6be97417a3b45" sha1="778b347d86792a584d0c41d6eb6e1e01c8fbcb49" date="1990-05-07 11:19:04"/>
 		<rom name="GEO2.DAX" size="6333" crc="4e17c366" md5="f2a44c7f147f821618c7b4e6667609f4" sha1="fa0faa374c8654dc9397c007e7c329ccc2ee1756" date="1990-05-23 04:55:54"/>
 		<rom name="GEO3.DAX" size="5260" crc="402782e1" md5="08bb7c52d3d2c7fa738cdeb3f5e2510d" sha1="1fda59ff207b8c549e1508679a6f3093f8a01483" date="1990-05-17 07:03:38"/>
@@ -58948,7 +58959,9 @@
 		<rom name="SKY.DAX" size="2448" crc="7f991ebd" md5="2af1f9441046e9ac39a220d944366cba" sha1="c3b2fef0631a75c413ce60396de3187dc8d8c7e7" date="1989-06-08 08:50:04"/>
 		<rom name="SOUND.DAX" size="14257" crc="3c690193" md5="453e60c3b5f861647ac3f724a1f864b6" sha1="58092da0b8d60bcbe3b165a90996fa406ac4ad4f" date="1990-05-23 10:23:50"/>
 		<rom name="SPRIT1.DAX" size="41341" crc="5af24ffb" md5="dfd58196f3eeb7d381cbb979b12a31d4" sha1="8c1d1c435d0c20aa8707992f171cbbcb6b01e4f5" date="1990-04-24 10:52:48"/>
-		<rom name="START.EXE" size="72097" crc="c6c438fb" md5="117892e8810505660737ba7b8526985a" sha1="b0ded9f581edea8028b0d36a347c876d897899b8" date="1990-09-28 08:10:16"/>
+		<rom name="START.EXE" size="72097" crc="c6c438fb" md5="117892e8810505660737ba7b8526985a" sha1="b0ded9f581edea8028b0d36a347c876d897899b8" date="1990-09-28 08:10:16">
+			<patch data="QlBTMSEygyEyg4BgpIF0GCaQx1XRdPs4xMac9Vb0" size="72097" crc="74d155c7" md5="42a071097af9891eedcfcd46851cb6c9" sha1="277c1a25d9abb4a84d1da5cea2e6278e2b430c46"/>
+		</rom>
 		<rom name="TITLE.DAX" size="55760" crc="a358f162" md5="d58facc6defaadf2aa26781c09793c37" sha1="9f0e7f8c17e79806dd1d824db5e70aa7e761825d" date="1990-05-15 05:22:16"/>
 		<rom name="WALLDEF1.DAX" size="5782" crc="88835362" md5="d49b4aebee560652387fa0a1cb9ae558" sha1="2a97eb51427125f3320e4918766ec87856bd9b19" date="1990-05-07 03:55:34"/>
 		<rom name="WALLDEF2.DAX" size="4266" crc="72b18505" md5="16c1c186ba54feb8cc44dc1cacf4fca8" sha1="e0a484d278daa5a0fd130ab184c1fa4dea4a8a3e" date="1990-05-07 03:55:40"/>
