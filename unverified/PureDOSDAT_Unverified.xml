@@ -27646,10 +27646,18 @@
 	</game>
 	<game name="Gateway to the Savage Frontier (1991) (Beyond Software).dosz">
 		<description>Gateway to the Savage Frontier</description>
-		<comment>Extracted from Redump-verified CD-ROM: Forgotten Realms Archives - Silver Edition (USA) (Disc 1) - INSTALL.BAT removed</comment>
-		<comment_dosc>Auto-starts, config, and IPS patch that bypasses copy protection</comment_dosc>
 		<year>1991</year>
 		<developer>Beyond Software</developer>
+		<comment>
+			Extracted from Redump-verified CD-ROM: Forgotten Realms Archives - Silver Edition (USA) (Disc 1) - INSTALL.BAT removed
+			CD also matches with TDC#23 entry: Forgotten Realms Archives, The (Silver Edition) (1999)(Interplay Entertainment Corp.) [bin-cue]
+			DoDAT can build this directly from the disc image
+			Also matches with GOG (using the embedded data)
+		</comment>
+		<comment_dosc>Auto-starts, reduces game speed, enables direct mouse, has default characters, config, modified GO.BAT with sound enabled, and IPS patch that bypasses copy protection</comment_dosc>
+		<link type="media">https://redump.info/disc/79882</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Forgotten+Realms+Archives,+The+(Silver+Edition)+(1999)(Interplay+Entertainment+Corp.)+%5Bbin-cue%5D</link>
+		<link type="store">https://www.gog.com/en/game/forgotten_realms_the_archives_collection_two</link>
 		<rom name="8X8D.DAX" size="14929" crc="244c1fb5" md5="fbcc3fd75b2cc455e4c13f3ca568bd7a" sha1="e6a45b6c5628d290b4810040d99376e77f023b29" date="1991-06-06 15:06:18"/>
 		<rom name="8X8D1.DAX" size="4202" crc="0076b143" md5="cdcab4c34ca4334683fc5333eb05048f" sha1="e2a8ab5a3f6b7fca040cd65aa5dcdd26355eb5f2" date="1991-05-11 06:03:18"/>
 		<rom name="8X8D2.DAX" size="25314" crc="411ddd4d" md5="ff7de0b2be134900d0e6c4805a33200d" sha1="f9d53664634de259b4066fb6d933661467a1bbce" date="1991-06-06 15:06:30"/>
@@ -27678,14 +27686,17 @@
 		<rom name="ECL4.DAX" size="31829" crc="3a3e3793" md5="348ac3e208d976f5aaf3a8f5676fc1e6" sha1="1b4b0cfdaa9dde9ecd6788c8536a1325e7d8e74f" date="1991-09-13 07:14:44"/>
 		<rom name="ECL5.DAX" size="27997" crc="027d43e8" md5="77213cf91b3a34bbcba6a41631f551a3" sha1="66c35d6859550dd37c126ce55f62d4c03f1b753d" date="1991-09-13 07:16:12"/>
 		<rom name="ECL6.DAX" size="22197" crc="a7bcb26d" md5="9b9e45caa955e6a715f0676c8f76a406" sha1="b2beee96f0c0566bae9ef90db32772630344f088" date="1991-10-23 08:21:10"/>
-		<rom name="GAME.EXE" size="36603" crc="ee2cd2ed" md5="4d114a4f17545a69375fa4dc035bce84" sha1="e3b9ca26eb29d13c333a7083416f6f45a6f4fd18" date="1991-11-22 07:55:12"/>
+		<rom name="Forgotten Realms Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="GAME.EXE" size="36603" crc="ee2cd2ed" md5="4d114a4f17545a69375fa4dc035bce84" sha1="e3b9ca26eb29d13c333a7083416f6f45a6f4fd18" date="1991-11-22 07:55:12">
+			<patch data="QlBTMXscgXscgYA8n5IalBRWh1V6n8Xt0izuU3AdsA==" size="36603" crc="c59f7a55" md5="7efcd7ded7a514e74fd7d3b414024760" sha1="89faeac4a07da6081b414c4e8f2101707383a7ac"/>
+		</rom>
 		<rom name="GAME.OVR" size="347622" crc="f4b8aa0d" md5="700bc0fab4e5b50251e256ca939ad174" sha1="fe93be7e242d4281dad047527697fab9f0884962" date="1991-11-22 07:55:06"/>
 		<rom name="GEO2.DAX" size="3753" crc="664126c1" md5="68532b5607be240a047b2a005dedeb69" sha1="1b2c1deabf04ed871a1123dd9d42ad9e3fb2acc4" date="1991-07-22 06:06:08"/>
 		<rom name="GEO3.DAX" size="4508" crc="d9ad5f72" md5="8485f58b7b84207a58e9537d6347c673" sha1="1e1e536a76d0c06d17142e6e1dc7429a9a94c6b7" date="1991-07-22 06:06:10"/>
 		<rom name="GEO4.DAX" size="4293" crc="61d07c82" md5="d3c50c6d036e8cb5e9f71194415871a3" sha1="4c23dd067f85fbd4f3e3654f89cfb063bfafc866" date="1991-07-22 06:06:14"/>
 		<rom name="GEO5.DAX" size="3458" crc="f24436ae" md5="7c189aab08c0533a074f28d364e51fcf" sha1="fd59fc22927e5835608505c039ee721635c61ce4" date="1991-07-22 06:06:16"/>
 		<rom name="GEO6.DAX" size="6959" crc="c7e04c4c" md5="0cedcfdea9ff502504158c85d88a5eb6" sha1="251501ee49a8d89aca634dcb3ca4d5db9ebc594e" date="1991-07-22 06:06:20"/>
-		<rom name="GO.BAT" size="24" crc="dc4f1584" md5="f24b727ad7eee70f582ce350f50e244d" sha1="ab71f14bb386f3fec22a86f74e918b95cf9b9c7d" date="1992-06-15 03:23:26"/>
+		<rom name="GO.BAT" size="24" crc="dc4f1584" md5="f24b727ad7eee70f582ce350f50e244d" sha1="ab71f14bb386f3fec22a86f74e918b95cf9b9c7d" date="1992-06-15 03:23:26" data="bm9zb3VuZA0KZ2FtZSBVc2VTdGFydA0K"/>
 		<rom name="HEAD.DAX" size="29170" crc="00abf638" md5="215c69c736883e1f1d7d4687a8e1524c" sha1="6d543588790cc7b01386c1d5380ea506bfd6b3dc" date="1991-06-25 06:18:28"/>
 		<rom name="IBMSND.EXE" size="2189" crc="2806d1eb" md5="ca2cab22e39207944f0d220279f73fc1" sha1="01a4df0409283a937d7061287087233ad445b9cc" date="1991-09-11 09:08:40"/>
 		<rom name="ITEM2.DAX" size="5038" crc="a546bd3e" md5="c5665e30b42aedf9e80f23f1c3e8fbd0" sha1="1d5cc9689b3385c75c00d9bd69312d6dc1200f83" date="1991-10-23 09:22:10"/>
@@ -27718,23 +27729,9 @@
 		<rom name="PIC5.DAX" size="43609" crc="5a863710" md5="d9de75c92be7ed831eaa3d533d0588a5" sha1="d5e5f01549e826cc0c4eaa81c8b0fab0cb1a8e4b" date="1991-06-06 14:43:36"/>
 		<rom name="PIC6.DAX" size="57979" crc="aa4bee48" md5="2deaa7c9e6201509d81b01d139afcf0f" sha1="9bba9d7457a7084869c108ef1ddc3b109d5571c7" date="1991-06-06 15:10:10"/>
 		<rom name="RANDCOM.DAX" size="970" crc="c509f3c3" md5="bc07356f081213189d33adcd74e68b20" sha1="eee19539a3dc6faa7c287b5b6e8598cd049cfeb0" date="1989-05-01 09:26:24"/>
-		<rom name="SAVE/ERSWELL.FX" size="27" crc="c6b16e4e" md5="17d93edb5b141f3d73a4f4066cf5543e" sha1="0210a681e687ab492f4fbff74ee96439be8616be" date="1991-06-14 04:10:06"/>
-		<rom name="SAVE/ERSWELL.GUY" size="422" crc="344b2719" md5="d5d2c8bc2895712452b18735071a433f" sha1="51085f6ec88dfa1df6c6fc7f7890bc5334459bcf" date="1991-06-14 04:10:04"/>
-		<rom name="SAVE/ERSWELL.SWG" size="189" crc="1f76f812" md5="d6d3568d15df7bf2e8151a939020a15c" sha1="01312087b783a52d5e057e2cd6c31dca4f2b5ec3" date="1991-06-14 04:10:04"/>
-		<rom name="SAVE/FE'THOS.GUY" size="422" crc="67f4fecb" md5="0cf67a389fdde45e3cbac6bd767404b3" sha1="158141bc65bd62d2fc97112b79b90a47d685116d" date="1991-06-14 04:22:56"/>
-		<rom name="SAVE/FE'THOS.SWG" size="189" crc="7fd5db7d" md5="3afefb55d2e1175a9fba59ecdbf9a1f0" sha1="71d3f92834609f4a92f79416a2621363d54a7e7e" date="1991-06-14 04:22:56"/>
-		<rom name="SAVE/GULAIL.FX" size="9" crc="dcfba01b" md5="739f45b554ae7bb083a91d10aa7d080c" sha1="391882e38da68d3466eadd19146f6151bcade517" date="1991-06-14 04:23:04"/>
-		<rom name="SAVE/GULAIL.GUY" size="422" crc="737d7b75" md5="c7360a477defd4f6d6fa4aaa2a306c12" sha1="7045a11926e36812d7132809f13fcb266eebae6e" date="1991-06-14 04:23:02"/>
-		<rom name="SAVE/GULAIL.SWG" size="252" crc="ad73c7b1" md5="e1e31ea8aca035c7b34b484f0190e56b" sha1="f448f36f78ccad13f621ca2b7057a078c1160e7f" date="1991-06-14 04:23:04"/>
-		<rom name="SAVE/KAUNAS.GUY" size="422" crc="666f8a48" md5="92a60c9fe55bf25b5b8db855c46c333c" sha1="6c014b1da44412aa09d8e76143917e1ee23f9226" date="1991-06-28 19:48:10"/>
-		<rom name="SAVE/KAUNAS.SWG" size="252" crc="e4f6c557" md5="9394ca6a83d22bed39b59b4d3fdc86bd" sha1="bdde499fdb9b64604987d1eb170aae150725f9c8" date="1991-06-28 19:48:10"/>
-		<rom name="SAVE/KLAIPEDA.GUY" size="422" crc="d7f9bee7" md5="270e25635c2a48596c3b7aa18ecca2ba" sha1="50fa0298cee289a5a25801736e2bc9f4afca757f" date="1991-06-14 04:23:10"/>
-		<rom name="SAVE/KLAIPEDA.SWG" size="126" crc="21ec4cfc" md5="ed44e41f6209957908effe003c879fb0" sha1="21804804356344d8da0f99a819c6c48009785bc5" date="1991-06-14 04:23:10"/>
-		<rom name="SAVE/VILNIA.GUY" size="422" crc="bd414ebc" md5="4bde86fdd7feb47908cbe532f6f4aea6" sha1="47f90b99573c5a764a61f336013490b48f2b30fb" date="1991-06-14 04:09:54"/>
-		<rom name="SAVE/VILNIA.SWG" size="189" crc="cd77308c" md5="dc6c9eb9b10d6891b8e9b250cca2b4b2" sha1="a4343ee8343b3a3be4373c3d731e5f5949924a43" date="1991-06-14 04:09:54"/>
 		<rom name="SBLASTER.EXE" size="2759" crc="289f9d8a" md5="330d390f6c3c38d4cb0221ccc9df93f4" sha1="0ac3489441d4a316ebae55ed98d06616ea7e79ca" date="1991-09-11 09:09:48"/>
 		<rom name="SKY.DAX" size="2448" crc="7f991ebd" md5="2af1f9441046e9ac39a220d944366cba" sha1="c3b2fef0631a75c413ce60396de3187dc8d8c7e7" date="1989-06-08 08:50:04"/>
-		<rom name="START.BAT" size="54" crc="07c62e69" md5="ff83a909b507210f4942e337f74c183e" sha1="4b339429a51964bdae68766c96bd92592890e4ee" date="1997-02-26 07:51:10"/>
+		<rom name="START.BAT" size="54" crc="07c62e69" md5="ff83a909b507210f4942e337f74c183e" sha1="4b339429a51964bdae68766c96bd92592890e4ee" date="1997-02-26 07:51:10" data="ZWNobyBvZmYNCnN0YXJ0MQ0KaWYgZXJyb3JsZXZlbCAxIGdvdG8gZW5kDQpnbw0KOmVuZA0K"/>
 		<rom name="START1.EXE" size="9056" crc="0eb418e5" md5="4dba0195e65133413174f1fb529c8c71" sha1="7281acd246dd8463300f9f08e2ee9b559d27863a" date="1991-07-22 07:55:32"/>
 		<rom name="TANSLTL.EXE" size="1354" crc="40585fba" md5="d7e309f2192b0895ccfd5a483e4ebb68" sha1="7cbdba1f0bcfdb8fc55032e76c636804ea1a6718" date="1991-07-02 08:18:34"/>
 		<rom name="TITLE.DAX" size="88093" crc="0fe68334" md5="d2a176768e48b25f187de71e7ea976e3" sha1="b109b9c2f6c2c25187d470bf860d59d1092b3d18" date="1991-05-23 08:14:14"/>
