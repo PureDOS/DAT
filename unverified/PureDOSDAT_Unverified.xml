@@ -25511,43 +25511,6 @@
 		<rom name="TINY.FNT" size="1575" crc="68d1254d" md5="fc20727706534a6d10b44c19cbd7e845" sha1="77a92a300aa22eec470d3ffcb0439bfa917e0c0a"/>
 		<rom name="USER.TXT" size="2266" crc="9f95a1c6" md5="be33437b67ee59962e3604e23e013e4a" sha1="fc3c86c50efb64457db9e72c0c85cd7827732c63"/>
 	</game>
-	<game name="Eye of the Beholder I (1991) (Westwood).dosz">
-		<description>Eye of the Beholder I</description>
-		<year>1991</year>
-		<developer>Westwood</developer>
-		<comment>
-			Extracted from Redump-verified CD-ROM: Forgotten Realms Archives - Silver Edition (USA) (Disc 1) - INSTALL.BAT removed
-			CD also matches with TDC#23 entry: Forgotten Realms Archives, The (Silver Edition) (1999)(Interplay Entertainment Corp.) [bin-cue]
-			DoDAT can build this directly from the disc image
-			Also matches with GOG (using the embedded patch for EOB.EXE)
-			Files are in C:\DARKMOON for ease of transferring characters to Eye of the Beholder II to III
-		</comment>
-		<comment_dosc>Selects EGA, Adlib, and Mouse Support - Auto-starts. Has copy protection removal, enables direct mouse</comment_dosc>
-		<link type="media">https://redump.info/disc/79882</link>
-		<link type="media">https://puredos.github.io/dat-browser/?/Forgotten+Realms+Archives,+The+(Silver+Edition)+(1999)(Interplay+Entertainment+Corp.)+%5Bbin-cue%5D</link>
-		<link type="store">https://www.gog.com/en/game/forgotten_realms_the_archives_collection_one</link>
-		<rom name="DARKMOON/CGA.OVL" size="13271" crc="826be426" md5="ab6824b0abedb18cd13b205a12c8dc71" sha1="20902a3fb33501244577838bd7e68869bebdfec7" date="1991-04-15 05:43:58"/>
-		<rom name="DARKMOON/EGA.OVL" size="10594" crc="1aa6d601" md5="3529afe86758688c82a49ec4b0c14ede" sha1="8f8138c1b45b540e680f182b998f013374ed3450" date="1991-03-06 05:22:44"/>
-		<rom name="DARKMOON/EOB.EXE" size="264480" crc="1054f03f" md5="1bde1dd37b40ab6de8ad11be33a44c5a" sha1="f2bb352fbb1556d03aced278a026886817e4c2df" date="1991-04-29 00:22:02">
-			<patch data="QlBTMSARjyARj4AYYbiBdFxlhXAHIzo/8FQQ0S35uA==" size="264480" crc="3a230770" md5="40c1fe4b7be43cfabd4039ee6b361a1d" sha1="61a22a94b474e12c633571d68101dcbc2fcf2caf"/>
-		</rom>
-		<rom name="DARKMOON/EOBDATA.SAV" size="33101" crc="e8adb270" md5="0f423953de8b07e985c97d611c8af070" sha1="5c32261dc4c1cf3892af4e06e30bea00778589ac" date="1991-03-06 05:23:40"/>
-		<rom name="DARKMOON/EOBDATA1.PAK" size="237691" crc="78280f40" md5="7c5aae5c361dea7b3a14c3c31dec513e" sha1="6094abe7d211fc2909f05e6af60b6e1f2141c84e" date="1991-03-06 05:22:42"/>
-		<rom name="DARKMOON/EOBDATA2.PAK" size="14499" crc="7a8434cb" md5="feaf0345086b3a1d931352f4b0ad8feb" sha1="26bcc449291cec667dba27c4e13d80454b426816" date="1991-03-06 05:23:58"/>
-		<rom name="DARKMOON/EOBDATA3.PAK" size="346303" crc="e8e9c0fa" md5="61aff543131bd61a8b7d7dc901a8278b" sha1="f0920111f25d017b8cb92b642ce7947dc5cb8b07" date="1991-03-06 05:23:58"/>
-		<rom name="DARKMOON/EOBDATA4.PAK" size="355402" crc="7b20dfe6" md5="7aa3f528805bc777a39141d5a7131b8c" sha1="536d7ef96bfaac48407b7d7137baba015c17e6e7" date="1991-03-06 05:23:58"/>
-		<rom name="DARKMOON/EOBDATA5.PAK" size="314900" crc="b2583d7e" md5="76628ddfa24dd8409eefdaf66eaf428d" sha1="7f5732c8738cb750df8cef3446dbb6afe027acc8" date="1991-03-06 05:23:40"/>
-		<rom name="DARKMOON/EOBDATA6.PAK" size="317081" crc="d1f6d6bb" md5="36ae9346a128fe1e03400e8f6f458c76" sha1="3610cb42bc283f8450a1be67c2be2903c1bbebab" date="1991-03-06 05:23:58"/>
-		<rom name="DARKMOON/EYE.PAK" size="1753104" crc="aac43b8a" md5="9a4933c3349077df3765e75e0f845fd0" sha1="585645b9b3c80d2d67e1d78c297d8e10d9ca1c4a" date="1995-08-18 10:08:26"/>
-		<rom name="DARKMOON/FONT6.FNT" size="1028" crc="40a4e168" md5="96de7c14da18ebe209f6db87a6b290d5" sha1="dde102f5b3f82c403d367b9db1581c563470ada6" date="1991-03-06 05:22:44"/>
-		<rom name="DARKMOON/FONT8.FNT" size="1284" crc="a2d675c5" md5="f83e15b5780ff8669cadc30e89730a89" sha1="d815e2efcec753eaefc3f349f0f47f7308f35dbb" date="1991-03-06 05:22:44"/>
-		<rom name="DARKMOON/INTRO.EXE" size="88032" crc="2fe3ca18" md5="d760a605d1a1302d06975a1f209fdd72" sha1="ae2c50493473d6320785bbdf1242eab91cf91244" date="1991-04-29 00:17:54"/>
-		<rom name="DARKMOON/LEVELS.TMP" size="2" crc="14a285ac" md5="81051bcc2cf1bedf378224b0a93e2877" sha1="ba8ab5a0280b953aa97435ff8946cbcbb2755a27" date="1991-02-09 07:12:48"/>
-		<rom name="DARKMOON/MCGA.OVL" size="11832" crc="6d09012c" md5="72eaf3c499467cb8fa14ffcb2f92e51e" sha1="44b1617ba3247506e56cbd9d8a8bc33a7e9efaf4" date="1991-03-06 05:22:44"/>
-		<rom name="DARKMOON/START1.EXE" size="8652" crc="9893e98d" md5="7055364c0d59ea01af2798ab16f9b606" sha1="897c34e6d4f199e6cc1d58f32fe16dacd1430b3c" date="1991-04-16 19:35:38"/>
-		<rom name="DARKMOON/TGA.OVL" size="11440" crc="4f6b1fb6" md5="20eaabb05cd53e30f3852ac033a9eb99" sha1="076571fdba46d489b0710bb053f814d8bae27248" date="1991-03-06 05:22:44"/>
-		<rom name="Eye of the Beholder Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-	</game>
 	<game name="Eye of the Beholder II - The Legend of Darkmoon (1991) (Westwood).dosz">
 		<description>Eye of the Beholder II - The Legend of Darkmoon</description>
 		<comment>Extracted from Redump-verified CD-ROM: Forgotten Realms Archives - Silver Edition (USA) (Disc 1) - INSTALL.BAT removed - Selected options for MCGA/VGA, Adlib or Sound Blaster, and mouse support</comment>
