@@ -25780,10 +25780,16 @@
 	</game>
 	<game name="Eye of the Beholder III - Assault on Myth Drannor (1993) (SSI).dosz">
 		<description>Eye of the Beholder III - Assault on Myth Drannor</description>
-		<comment>Extracted from Redump-verified CD-ROM: Forgotten Realms Archives - Silver Edition (USA) (Disc 1) - INSTALL.BAT removed</comment>
-		<comment_dosc>Auto-starts and config</comment_dosc>
 		<year>1993</year>
 		<developer>SSI</developer>
+		<comment>
+			Extracted from Redump-verified CD-ROM: Forgotten Realms Archives - Silver Edition (USA) (Disc 1) - INSTALL.BAT removed
+			CD also matches with TDC#23 entry: Forgotten Realms Archives, The (Silver Edition) (1999)(Interplay Entertainment Corp.) [bin-cue]
+			DoDAT can build this directly from the disc image
+		</comment>
+		<comment_dosc>Auto-starts, enables direct mouse, copy protection removal, and config. MT-32, General MIDI, and Character Transfer Utility options</comment_dosc>
+		<link type="media">https://redump.info/disc/79882</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Forgotten+Realms+Archives,+The+(Silver+Edition)+(1999)(Interplay+Entertainment+Corp.)+%5Bbin-cue%5D</link>
 		<rom name="ADLIB.ADV" size="14775" crc="865e52d2" md5="ee12a7f90e99376ac3ca7526deccbd65" sha1="5223b1b79c06ca36a576d1827119d3b9122ed8db" date="1992-11-14 00:00:00"/>
 		<rom name="AESOP.EXE" size="142704" crc="b265ff69" md5="f519d7e9c28a94219a3a4dc296209522" sha1="37725b386490d70170cfedfbdbf2dd69b74c4f49" date="1993-04-14 09:43:22"/>
 		<rom name="CHARCOPY.DAT" size="102" crc="5ebc21e1" md5="9febcf478a822399b0e1f50e62093237" sha1="6fc89a759429679f0894f3347d0f610676da87b9" date="1993-04-08 10:47:00"/>
@@ -25804,6 +25810,7 @@
 		<rom name="CHARGEN/XGA.OVL" size="12587" crc="591943fc" md5="04e72b8014323b5177d959aa35eab12f" sha1="2f81ac1c0ef7c0befb059fcfeb9c12cf6f299b63" date="1991-12-03 16:06:52"/>
 		<rom name="CINE.EXE" size="106752" crc="da2e2ae8" md5="21bee9161e9973f6ad58e7f8ceae850c" sha1="2fadc969d0a1caa710e4ef77d4fa05ef6aa48bc9" date="1993-04-14 05:20:40"/>
 		<rom name="DARK.GFF" size="609406" crc="bfda4500" md5="e48619d5509c9ed575c4b906831d46a2" sha1="1227717a9f0d55be008dedcdf246264d15d9f14c" date="1993-04-10 09:21:08"/>
+		<rom name="Eye of the Beholder Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="EYE.BAT" size="29" crc="f6c12032" md5="e6f4e10da1bb3ee8c2fc3013f8c58b75" sha1="b34d99d0b765bf3ccaa7abada2e72b64f79cfcee" date="1997-02-26 07:50:04"/>
 		<rom name="EYE.RES" size="4405066" crc="825ea358" md5="4bd198ae83032d6140fb6e43b0ead1bd" sha1="98d7ae224de0cedf9ebf1267cea999b96cca0a6d" date="1993-04-14 11:47:20"/>
 		<rom name="FINALE.GFF" size="1135264" crc="b93b9541" md5="a504a8281d46cd4f5940054c7840585a" sha1="3760577b9fc331861df9857c29b07c89e79fc499" date="1993-04-10 09:27:24"/>
@@ -25859,7 +25866,6 @@
 		<rom name="SAVEGAME/SAVEGAME.DIR" size="328" crc="55a005bc" md5="2d642a6af4af15547836a4f17060b2b9" sha1="cc9f96dfd0c88577d80a37e8c21dbb656747a726" date="1993-04-10 14:34:22"/>
 		<rom name="SBDIG.ADV" size="4853" crc="a08394cf" md5="9611d829aa3c4c5fcc9310fb2549383d" sha1="f7ba7266ba6b5d7f0f67f8b298f103cda94e77ca" date="1993-04-11 14:20:28"/>
 		<rom name="SBLASTER.COM" size="3904" crc="560b7fc6" md5="7251f3dbc311c77f8ca1608777066b59" sha1="1376214ff3bad3cf5bbd1e8944d6b526e2632117" date="1993-02-27 09:08:28"/>
-		<rom name="SOUND.BAT" size="9" crc="123fae6d" md5="2a4e5ee8b020bdd09ca206681fcce88e" sha1="dfaae855998bb04f939af1818dd61a7f51c4134c" date="1999-05-26 08:45:42"/>
 		<rom name="SOUND.EXE" size="33372" crc="79d3351a" md5="a57fa066b0dbf1d22d2a40f6f2ebf541" sha1="67b12a37e22bdc39989da6a0bf852260c4ae1e24" date="1993-04-01 05:47:38"/>
 		<rom name="STDPATCH.AD" size="5162" crc="a9e2ea82" md5="8b34ba98e9f0ef42b84f953df2c36411" sha1="aca805802ea65a6003665fe4bcd998a9edaa239c" date="1992-07-21 11:25:02"/>
 		<rom name="XVA.DRV" size="33086" crc="40402a9a" md5="9b9a12068077890d0bb5c9bfd27962cf" sha1="7ed0bb8147f88764e1fce5927ab542f7081dae64" date="1992-12-17 10:46:20"/>
