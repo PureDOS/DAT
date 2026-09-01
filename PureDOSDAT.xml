@@ -11156,6 +11156,98 @@
 		<rom name="SONG8.PSM" size="48923" crc="f8ef93f4" md5="3f95988349a0745bd16e62022d26f357" sha1="c38baef41942a96182a78d05ee111f0b4aaebe61" date="1994-05-16 11:33:48"/>
 		<rom name="SONG9.PSM" size="86068" crc="f5665edc" md5="b1364fa6c2b92815acb561033f8d6685" sha1="b1056cb2d79c0bb92663d1a1fadd708a4b9eccdf" date="1994-05-06 07:44:24"/>
 	</game>
+	<game name="Eye of the Beholder III - Assault on Myth Drannor (1993) (SSI).dosz">
+		<description>Eye of the Beholder III - Assault on Myth Drannor</description>
+		<year>1993</year>
+		<developer>SSI</developer>
+		<comment>
+			Extracted from Redump-verified CD-ROM: Forgotten Realms Archives - Silver Edition (USA) (Disc 1) - INSTALL.BAT removed
+			CD also matches with TDC#23 entry: Forgotten Realms Archives, The (Silver Edition) (1999)(Interplay Entertainment Corp.) [bin-cue]
+			DoDAT can build this directly from the disc image
+		</comment>
+		<comment_dosc>Auto-starts, enables direct mouse, copy protection removal, and config. MT-32, General MIDI, and Character Transfer Utility options</comment_dosc>
+		<link type="media">https://redump.info/disc/79882</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Forgotten+Realms+Archives,+The+(Silver+Edition)+(1999)(Interplay+Entertainment+Corp.)+%5Bbin-cue%5D</link>
+		<rom name="ADLIB.ADV" size="14775" crc="865e52d2" md5="ee12a7f90e99376ac3ca7526deccbd65" sha1="5223b1b79c06ca36a576d1827119d3b9122ed8db" date="1992-11-14 00:00:00"/>
+		<rom name="AESOP.EXE" size="142704" crc="b265ff69" md5="f519d7e9c28a94219a3a4dc296209522" sha1="37725b386490d70170cfedfbdbf2dd69b74c4f49" date="1993-04-14 09:43:22"/>
+		<rom name="CHARCOPY.DAT" size="102" crc="5ebc21e1" md5="9febcf478a822399b0e1f50e62093237" sha1="6fc89a759429679f0894f3347d0f610676da87b9" date="1993-04-08 10:47:00"/>
+		<rom name="CHARCOPY.EXE" size="20860" crc="7abfc31c" md5="831295645d7be9dcb44030d40276e534" sha1="e0ea6d8174e73d7a8ae70d668478eace5f750a7f" date="1993-04-05 10:22:22"/>
+		<rom name="CHARGEN/CHARGEN.CPS" size="25914" crc="11d794bc" md5="720a0b092989972b08af80a9e221515f" sha1="5aff3328e5cbe315400fadcf93b1bf18e0ba036d" date="1991-08-15 10:54:24"/>
+		<rom name="CHARGEN/CHARGENB.CPS" size="7888" crc="cc1661d7" md5="42951c212a1a70ad248706ede9dcee99" sha1="51b4993ca0c797624a76023f2de78145e799becf" date="1991-08-15 10:54:24"/>
+		<rom name="CHARGEN/CHARPICS.BMP" size="82005" crc="a025e46a" md5="5cf273685ce72fb1b98a4d92b90223c9" sha1="54d73ced911a1d39253dbab8b25a4e79fc073a55" date="1993-03-04 10:27:18"/>
+		<rom name="CHARGEN/CHGEN.EXE" size="152512" crc="f6b8e092" md5="f9ea0a6a6f9a1934cbd6a6e76bc82b02" sha1="c8adf23953f4d4d68a9624ca0d686b3764f6ed17" date="1993-04-11 15:18:26"/>
+		<rom name="CHARGEN/CREATE.SAV" size="46891" crc="607ed54d" md5="4c38ce20b7ba570efd269dd96dadb0fa" sha1="2b50c8f0fc608d317e1d980931d5a58d4bf198db" date="1993-04-13 12:31:24"/>
+		<rom name="CHARGEN/EOSPREFS.DAT" size="6" crc="2e4de24c" md5="98c4663d188d55f695716735fe60cbbd" sha1="5fa6e9a74105c1e2297cce17c68288c84a8bda07" date="1993-02-28 10:20:30"/>
+		<rom name="CHARGEN/FONT6.FNT" size="1028" crc="c787782e" md5="35a29d118c027c2963d6be6d113950b6" sha1="3ee0e066cbbbed927334948c9b120dcd15638c3d" date="1991-11-19 07:22:06"/>
+		<rom name="CHARGEN/FONT8.FNT" size="1284" crc="a2d675c5" md5="f83e15b5780ff8669cadc30e89730a89" sha1="d815e2efcec753eaefc3f349f0f47f7308f35dbb" date="1991-08-15 10:54:24"/>
+		<rom name="CHARGEN/ITEM.DAT" size="10385" crc="caae6ed7" md5="5b8c11c3c6d036f308a4cfeb9cb74091" sha1="e07fe7373215b36a983fd201c832dbb5f96fe96d" date="1991-12-04 05:43:28"/>
+		<rom name="CHARGEN/ITEMICN.CPS" size="11056" crc="78f375a5" md5="1eeb747262e8490b4c557e05a375887d" sha1="b6939d710b03f522cd63d0fc3f44c61684ba9ac1" date="1991-11-20 07:07:24"/>
+		<rom name="CHARGEN/ITEMTYPE.DAT" size="1026" crc="cf71995c" md5="14e1399c2b293848ae7a7f81a6cd2473" sha1="c98f8a72e81aa90f38714954d1cf46a185e0594a" date="1991-12-04 05:43:24"/>
+		<rom name="CHARGEN/MGA.OVL" size="9994" crc="50010673" md5="be12f36e4803d7462ba8011b8ce71a84" sha1="52a03c755df301accfd6f2f39ed7b802d6c24f85" date="1991-12-03 16:06:44"/>
+		<rom name="CHARGEN/PALETTE.COL" size="768" crc="d6f2a62e" md5="b55088b48e62867847c529ae50c4e896" sha1="9656ac560662ec51252a616d3337f648b656a4c4" date="1991-08-26 08:48:06"/>
+		<rom name="CHARGEN/XGA.OVL" size="12587" crc="591943fc" md5="04e72b8014323b5177d959aa35eab12f" sha1="2f81ac1c0ef7c0befb059fcfeb9c12cf6f299b63" date="1991-12-03 16:06:52"/>
+		<rom name="CINE.EXE" size="106752" crc="da2e2ae8" md5="21bee9161e9973f6ad58e7f8ceae850c" sha1="2fadc969d0a1caa710e4ef77d4fa05ef6aa48bc9" date="1993-04-14 05:20:40"/>
+		<rom name="DARK.GFF" size="609406" crc="bfda4500" md5="e48619d5509c9ed575c4b906831d46a2" sha1="1227717a9f0d55be008dedcdf246264d15d9f14c" date="1993-04-10 09:21:08"/>
+		<rom name="Eye of the Beholder Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="EYE.BAT" size="29" crc="f6c12032" md5="e6f4e10da1bb3ee8c2fc3013f8c58b75" sha1="b34d99d0b765bf3ccaa7abada2e72b64f79cfcee" date="1997-02-26 07:50:04"/>
+		<rom name="EYE.RES" size="4405066" crc="825ea358" md5="4bd198ae83032d6140fb6e43b0ead1bd" sha1="98d7ae224de0cedf9ebf1267cea999b96cca0a6d" date="1993-04-14 11:47:20"/>
+		<rom name="FINALE.GFF" size="1135264" crc="b93b9541" md5="a504a8281d46cd4f5940054c7840585a" sha1="3760577b9fc331861df9857c29b07c89e79fc499" date="1993-04-10 09:27:24"/>
+		<rom name="INTRO.GFF" size="1281119" crc="9d596ff9" md5="0485dc8700249d2c1483f3d44db0c03c" sha1="3b2b3d45e5e1bd9419ebb90b3a1de1a7f87b1080" date="1993-04-10 09:27:00"/>
+		<rom name="LICH.GFF" size="713460" crc="1d65767a" md5="44605127bebabaec54dcc34f58704d79" sha1="44e07a50712f1dfddcfad9476c95eb0e6f7f59b6" date="1993-04-10 08:09:14"/>
+		<rom name="MT32MPU.ADV" size="10707" crc="cfd00e6c" md5="0efb9fdfd0827889a34c757fe1df1dd3" sha1="cea64dbdc3c655f5677f892d7e5b33173903d4f4" date="1992-11-14 00:00:00"/>
+		<rom name="PCSPKR.ADV" size="8434" crc="092c07c9" md5="da7dbae2f8fb7eab93e752b83192f025" sha1="6b222ac2139362a4648645eb9bedb3a55aa4fd3b" date="1992-11-14 00:00:00"/>
+		<rom name="SAVEGAME/ITEMS.TMP" size="20407" crc="c39ff5ef" md5="3f0e15e9b6c76ab48a6d7c3bcfbaf2e9" sha1="ab18d5431307504042ebf3f4059081fbfc289586" date="1993-04-14 13:03:42"/>
+		<rom name="SAVEGAME/ITEMS_00.BIN" size="20495" crc="2d575bbf" md5="6e4e1224ac2eb46dfe4dca8be5a9ad91" sha1="c63bc1e863b773a24b9055bf584b9983facd3819" date="1993-04-13 13:46:48"/>
+		<rom name="SAVEGAME/ITEMS_01.BIN" size="20407" crc="99f94581" md5="c0419b288831238f3209992d62c3413e" sha1="48bbc0b47851453e7dbaf25f7838995a27f669da" date="1993-04-14 13:03:56"/>
+		<rom name="SAVEGAME/LVL01.TMP" size="12514" crc="277bf45c" md5="a974cd0b2a1962480012a4785b622697" sha1="6c415b30e0d981b1a4e403d375984fa173e830f7" date="1993-04-14 13:03:42"/>
+		<rom name="SAVEGAME/LVL01_00.BIN" size="12514" crc="277bf45c" md5="a974cd0b2a1962480012a4785b622697" sha1="6c415b30e0d981b1a4e403d375984fa173e830f7" date="1993-04-13 13:17:06"/>
+		<rom name="SAVEGAME/LVL01_01.BIN" size="12514" crc="277bf45c" md5="a974cd0b2a1962480012a4785b622697" sha1="6c415b30e0d981b1a4e403d375984fa173e830f7" date="1993-04-14 13:03:56"/>
+		<rom name="SAVEGAME/LVL02.TMP" size="11839" crc="249910d0" md5="282424b5e9442d6e274f94de7adf65c0" sha1="66185fd01696fe50c33f4faaf23b54b2ed45042a" date="1993-04-14 13:03:42"/>
+		<rom name="SAVEGAME/LVL02_00.BIN" size="11839" crc="249910d0" md5="282424b5e9442d6e274f94de7adf65c0" sha1="66185fd01696fe50c33f4faaf23b54b2ed45042a" date="1993-04-13 13:17:12"/>
+		<rom name="SAVEGAME/LVL02_01.BIN" size="11839" crc="249910d0" md5="282424b5e9442d6e274f94de7adf65c0" sha1="66185fd01696fe50c33f4faaf23b54b2ed45042a" date="1993-04-14 13:03:56"/>
+		<rom name="SAVEGAME/LVL03.TMP" size="13436" crc="2d40a8e7" md5="563f5124973ec8f11d48a57d6bbe01f6" sha1="bd3cc0a88c7e5a10d0e338cfeb8c04bbb7f7fa82" date="1993-04-14 13:03:42"/>
+		<rom name="SAVEGAME/LVL03_00.BIN" size="13436" crc="2d40a8e7" md5="563f5124973ec8f11d48a57d6bbe01f6" sha1="bd3cc0a88c7e5a10d0e338cfeb8c04bbb7f7fa82" date="1993-04-13 13:17:20"/>
+		<rom name="SAVEGAME/LVL03_01.BIN" size="13436" crc="59dda03c" md5="46eef8b9f50e99b0db555885b982f636" sha1="0d8f7b891c89369770dcfe833e89562db62c6ec9" date="1993-04-14 13:03:56"/>
+		<rom name="SAVEGAME/LVL04.TMP" size="10249" crc="9383adfc" md5="8d8f350e0ce8991d3fb93c2d8ec8fc57" sha1="de4be9b99dcdea08693d9de7d5d414bd1bbdef21" date="1993-04-14 13:03:42"/>
+		<rom name="SAVEGAME/LVL04_00.BIN" size="10249" crc="9383adfc" md5="8d8f350e0ce8991d3fb93c2d8ec8fc57" sha1="de4be9b99dcdea08693d9de7d5d414bd1bbdef21" date="1993-04-13 13:17:26"/>
+		<rom name="SAVEGAME/LVL04_01.BIN" size="10249" crc="9383adfc" md5="8d8f350e0ce8991d3fb93c2d8ec8fc57" sha1="de4be9b99dcdea08693d9de7d5d414bd1bbdef21" date="1993-04-14 13:03:56"/>
+		<rom name="SAVEGAME/LVL05.TMP" size="10717" crc="bad06584" md5="447e2908f5624579f19b630f33156502" sha1="54bb279f532b38cfca398f582949188468a771c3" date="1993-04-14 13:03:42"/>
+		<rom name="SAVEGAME/LVL05_00.BIN" size="10717" crc="bad06584" md5="447e2908f5624579f19b630f33156502" sha1="54bb279f532b38cfca398f582949188468a771c3" date="1993-04-13 13:17:30"/>
+		<rom name="SAVEGAME/LVL05_01.BIN" size="10717" crc="bad06584" md5="447e2908f5624579f19b630f33156502" sha1="54bb279f532b38cfca398f582949188468a771c3" date="1993-04-14 13:03:56"/>
+		<rom name="SAVEGAME/LVL06.TMP" size="11431" crc="17397a23" md5="336eb5c8b30951d7c5895bbc5d6254d4" sha1="014daa3c34fa17ff728d43e7ec65003eef3e2e64" date="1993-04-14 13:03:42"/>
+		<rom name="SAVEGAME/LVL06_00.BIN" size="11431" crc="17397a23" md5="336eb5c8b30951d7c5895bbc5d6254d4" sha1="014daa3c34fa17ff728d43e7ec65003eef3e2e64" date="1993-04-13 13:17:38"/>
+		<rom name="SAVEGAME/LVL06_01.BIN" size="11431" crc="17397a23" md5="336eb5c8b30951d7c5895bbc5d6254d4" sha1="014daa3c34fa17ff728d43e7ec65003eef3e2e64" date="1993-04-14 13:03:56"/>
+		<rom name="SAVEGAME/LVL07.TMP" size="9929" crc="67508e49" md5="862d70bc645c8c64764727de15f241b2" sha1="110d74f2d9f697acbc9277d89c1ec82b5912ec4a" date="1993-04-14 13:03:42"/>
+		<rom name="SAVEGAME/LVL07_00.BIN" size="9929" crc="67508e49" md5="862d70bc645c8c64764727de15f241b2" sha1="110d74f2d9f697acbc9277d89c1ec82b5912ec4a" date="1993-04-13 13:17:40"/>
+		<rom name="SAVEGAME/LVL07_01.BIN" size="9929" crc="67508e49" md5="862d70bc645c8c64764727de15f241b2" sha1="110d74f2d9f697acbc9277d89c1ec82b5912ec4a" date="1993-04-14 13:03:56"/>
+		<rom name="SAVEGAME/LVL08.TMP" size="11852" crc="324c0e66" md5="2c8471a9ecf68978f0cf5b146a6f38d8" sha1="ed612fce1f093b977c14769a89b58c368531ccf7" date="1993-04-14 13:03:42"/>
+		<rom name="SAVEGAME/LVL08_00.BIN" size="11852" crc="324c0e66" md5="2c8471a9ecf68978f0cf5b146a6f38d8" sha1="ed612fce1f093b977c14769a89b58c368531ccf7" date="1993-04-14 12:52:26"/>
+		<rom name="SAVEGAME/LVL08_01.BIN" size="11852" crc="324c0e66" md5="2c8471a9ecf68978f0cf5b146a6f38d8" sha1="ed612fce1f093b977c14769a89b58c368531ccf7" date="1993-04-14 13:03:56"/>
+		<rom name="SAVEGAME/LVL09.TMP" size="10532" crc="44cb7128" md5="c6653c897dd66ce484a310561f03791b" sha1="f3bd65ce2f259951ef21b2dcddc860b06498d559" date="1993-04-14 13:03:42"/>
+		<rom name="SAVEGAME/LVL09_00.BIN" size="10532" crc="44cb7128" md5="c6653c897dd66ce484a310561f03791b" sha1="f3bd65ce2f259951ef21b2dcddc860b06498d559" date="1993-04-13 13:17:50"/>
+		<rom name="SAVEGAME/LVL09_01.BIN" size="10532" crc="44cb7128" md5="c6653c897dd66ce484a310561f03791b" sha1="f3bd65ce2f259951ef21b2dcddc860b06498d559" date="1993-04-14 13:03:56"/>
+		<rom name="SAVEGAME/LVL10.TMP" size="11267" crc="1bd5713f" md5="545d860135e5c6c2995d68e6c847ef1e" sha1="b5f6833844c28aacd4fd91c7c86fb10a3d8521a2" date="1993-04-14 13:03:42"/>
+		<rom name="SAVEGAME/LVL10_00.BIN" size="11267" crc="1bd5713f" md5="545d860135e5c6c2995d68e6c847ef1e" sha1="b5f6833844c28aacd4fd91c7c86fb10a3d8521a2" date="1993-04-13 13:17:56"/>
+		<rom name="SAVEGAME/LVL10_01.BIN" size="11267" crc="1bd5713f" md5="545d860135e5c6c2995d68e6c847ef1e" sha1="b5f6833844c28aacd4fd91c7c86fb10a3d8521a2" date="1993-04-14 13:03:56"/>
+		<rom name="SAVEGAME/LVL11.TMP" size="9332" crc="9fdae414" md5="61dd32305d9c905078870da1dbabe880" sha1="15a7da18a1e4dca5f8ba2203c55ba1891d38df8b" date="1993-04-14 13:03:42"/>
+		<rom name="SAVEGAME/LVL11_00.BIN" size="9332" crc="9fdae414" md5="61dd32305d9c905078870da1dbabe880" sha1="15a7da18a1e4dca5f8ba2203c55ba1891d38df8b" date="1993-04-13 13:18:00"/>
+		<rom name="SAVEGAME/LVL11_01.BIN" size="9332" crc="9fdae414" md5="61dd32305d9c905078870da1dbabe880" sha1="15a7da18a1e4dca5f8ba2203c55ba1891d38df8b" date="1993-04-14 13:03:56"/>
+		<rom name="SAVEGAME/LVL12.TMP" size="10251" crc="2ba62b41" md5="67e42305f586d4e9ba8c1c04b0b397f4" sha1="c5b41f23006df3891e745d6a0e74cf5ecae9a1c1" date="1993-04-14 13:03:42"/>
+		<rom name="SAVEGAME/LVL12_00.BIN" size="10251" crc="2ba62b41" md5="67e42305f586d4e9ba8c1c04b0b397f4" sha1="c5b41f23006df3891e745d6a0e74cf5ecae9a1c1" date="1993-04-13 13:18:04"/>
+		<rom name="SAVEGAME/LVL12_01.BIN" size="10251" crc="2ba62b41" md5="67e42305f586d4e9ba8c1c04b0b397f4" sha1="c5b41f23006df3891e745d6a0e74cf5ecae9a1c1" date="1993-04-14 13:03:56"/>
+		<rom name="SAVEGAME/LVL13.TMP" size="10122" crc="1fc03e28" md5="7fb81fd937a308df7fde6fe0c4155473" sha1="deb64459abab96035d7c61397d999738c7fbaaa5" date="1993-04-14 13:03:42"/>
+		<rom name="SAVEGAME/LVL13_00.BIN" size="10122" crc="1fc03e28" md5="7fb81fd937a308df7fde6fe0c4155473" sha1="deb64459abab96035d7c61397d999738c7fbaaa5" date="1993-04-13 13:18:06"/>
+		<rom name="SAVEGAME/LVL13_01.BIN" size="10122" crc="1fc03e28" md5="7fb81fd937a308df7fde6fe0c4155473" sha1="deb64459abab96035d7c61397d999738c7fbaaa5" date="1993-04-14 13:03:56"/>
+		<rom name="SAVEGAME/LVL14.TMP" size="10746" crc="092f31a2" md5="34403cf769c59af7841782d8c686ff86" sha1="9f03c4dd9f8c456c0919e9204274a1f7674e00bd" date="1993-04-14 13:03:42"/>
+		<rom name="SAVEGAME/LVL14_00.BIN" size="10746" crc="092f31a2" md5="34403cf769c59af7841782d8c686ff86" sha1="9f03c4dd9f8c456c0919e9204274a1f7674e00bd" date="1993-04-13 13:18:12"/>
+		<rom name="SAVEGAME/LVL14_01.BIN" size="10746" crc="092f31a2" md5="34403cf769c59af7841782d8c686ff86" sha1="9f03c4dd9f8c456c0919e9204274a1f7674e00bd" date="1993-04-14 13:03:56"/>
+		<rom name="SAVEGAME/SAVEGAME.DIR" size="328" crc="55a005bc" md5="2d642a6af4af15547836a4f17060b2b9" sha1="cc9f96dfd0c88577d80a37e8c21dbb656747a726" date="1993-04-10 14:34:22"/>
+		<rom name="SBDIG.ADV" size="4853" crc="a08394cf" md5="9611d829aa3c4c5fcc9310fb2549383d" sha1="f7ba7266ba6b5d7f0f67f8b298f103cda94e77ca" date="1993-04-11 14:20:28"/>
+		<rom name="SBLASTER.COM" size="3904" crc="560b7fc6" md5="7251f3dbc311c77f8ca1608777066b59" sha1="1376214ff3bad3cf5bbd1e8944d6b526e2632117" date="1993-02-27 09:08:28"/>
+		<rom name="SOUND.EXE" size="33372" crc="79d3351a" md5="a57fa066b0dbf1d22d2a40f6f2ebf541" sha1="67b12a37e22bdc39989da6a0bf852260c4ae1e24" date="1993-04-01 05:47:38"/>
+		<rom name="STDPATCH.AD" size="5162" crc="a9e2ea82" md5="8b34ba98e9f0ef42b84f953df2c36411" sha1="aca805802ea65a6003665fe4bcd998a9edaa239c" date="1992-07-21 11:25:02"/>
+		<rom name="XVA.DRV" size="33086" crc="40402a9a" md5="9b9a12068077890d0bb5c9bfd27962cf" sha1="7ed0bb8147f88764e1fce5927ab542f7081dae64" date="1992-12-17 10:46:20"/>
+	</game>
 	<game name="Fallout (1997) (Interplay).dosz">
 		<description>Fallout</description>
 		<comment>
