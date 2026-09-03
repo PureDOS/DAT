@@ -29190,57 +29190,6 @@
 		<rom name="SOUND/ULTRA.DIG" size="9478" crc="430d67f5" md5="000e584a06712d2f2b58eb2e17b65248" sha1="4327d6bb924b4e40fa7ff035bdfb73a879c31836" date="1995-11-07 07:00:00"/>
 		<rom name="SOUND/ULTRA.MDI" size="49672" crc="04849dc3" md5="9a1b881ab9e8f6d827f6c27c5df40d85" sha1="8337ada0962de33ee3eb8ebbf9d5d0c898f41fd2" date="1995-11-07 07:00:00"/>
 	</game>
-	<game name="Heroes of the Lance (1988) (SSI).dosz">
-		<description>Heroes of the Lance</description>
-		<year>1988</year>
-		<developer>SSI</developer>
-		<comment>
-			Extracted from floppies matching TGOD 2501
-			Disks also match TDC#23 entry: Heroes of the Lance v1.0 (1988)(Strategic Simulations, Inc.) [IMA][360k][!]
-			DoDAT can build this directly from the disk images
-			Also matches with GOG (using the embedded patch for START.EXE)
-		</comment>
-		<comment_dosc>Auto-starts, reduces game speed, config, and IPS patch that bypasses copy protection. Includes `INSTALL.CFG` due to setting video mode to PS/2 VGA during install (video is corrupted otherwise)</comment_dosc>
-		<link type="media">https://www.goodolddays.net/diskimages/id%2C2501/</link>
-		<link type="media">https://puredos.github.io/dat-browser/?/Heroes+of+the+Lance+v1.0+(1988)(Strategic+Simulations,+Inc.)+%5BIMA%5D%5B360k%5D%5B!%5D</link>
-		<link type="store">https://www.gog.com/en/game/silver_box_classics</link>
-		<rom name="CARAMON.DAT" size="49664" crc="ba0b90e1" md5="6122a34d606ab97123b90c8570d22473" sha1="780634ca9db06098716d4079ae86a13ee1b32379" date="1988-08-02 12:35:52"/>
-		<rom name="CLIPS0.DAT" size="63488" crc="ea203dce" md5="355ad37978279951dc16c9f9c909e7b0" sha1="af55d8ee1fb4d31ff3ca69da774aae23bbcce0c5" date="1980-01-14 06:44:58"/>
-		<rom name="CLIPS1.DAT" size="29184" crc="fb795f20" md5="b90110b685b5ba0953e717da40fc23b8" sha1="898abf468f04719f8773a4cec0ab85c6fa66e618" date="1980-01-14 06:56:02"/>
-		<rom name="FLINT.DAT" size="31744" crc="00e777bd" md5="bea4014aa157c18d26ea1f2d1ed50029" sha1="aeb8b4295cc979f146e23700b9e67c73943a2059" date="1988-08-01 04:52:06"/>
-		<rom name="FONT.DAT" size="1024" crc="21a0d06e" md5="30d8019576f41ff9bb0cea78ad69e42a" sha1="4355610454f09f7a33b55dc04d1926204571a1a2" date="1980-01-03 23:31:42"/>
-		<rom name="GOLDMOON.DAT" size="39168" crc="d8fafe21" md5="19c3cad542ba6da555245692661961da" sha1="a0d0b89c945dd7a0b198526f6b46643c8d53f6ca" date="1988-07-31 23:44:58"/>
-		<rom name="HINSTALL.BAT" size="995" crc="e6c9b7c4" md5="5ba4f014097a52fe3e92b3be28b10e1b" sha1="74aa363fb88f125a4726e02cc7455ce5dc6e7864" date="1988-10-24 12:59:12"/>
-		<rom name="INS.EXE" size="19365" crc="92068454" md5="2a3282a393b07e2f6ceee8c0a26f323b" sha1="9835f02a2517f682ccec5783fa74ae99e570443f" date="1988-10-25 18:31:46"/>
-		<rom name="M1.DAT" size="20224" crc="cf0fcf8c" md5="e518fe9f3d18a41b93320a7b4e11fbc9" sha1="ff4a6a002bf144f94250c877eb99138e7b193aa5" date="1988-08-01 05:38:38"/>
-		<rom name="M10.DAT" size="23808" crc="31ac86cd" md5="4a7072a9f482b1d8620bd1b0e77b0031" sha1="0df7d194ea753d381e40c418506ba3ba9f15814e" date="1996-08-11 23:42:14"/>
-		<rom name="M11.DAT" size="43520" crc="efe6c549" md5="a7a484b8bf19685f006718bf0f9fb625" sha1="6a75f222f57b2fbce48c4ec740540f005195e1b8" date="1996-08-08 15:56:26"/>
-		<rom name="M2.DAT" size="21504" crc="5b79b378" md5="37d3a899b73a933b01dc71d79387d301" sha1="44fead15ad0255dded2b4aaeded9f24408e13814" date="1988-08-01 05:57:46"/>
-		<rom name="M3.DAT" size="20224" crc="75bc31dd" md5="38a1d8b67881e9f39898fb20ae981704" sha1="c8bb101c21e52a41936027ef3e337fc3270b7219" date="1988-08-01 06:18:04"/>
-		<rom name="M4.DAT" size="6400" crc="e24f5f4c" md5="712aa29462001d216e23050d5501af42" sha1="c75dd353e4a3e4f8838a6b33be6dc9a21ffe077e" date="1988-08-01 06:27:52"/>
-		<rom name="M5.DAT" size="17408" crc="9a6d2054" md5="828c4270ae655ef746e2ca73894c8022" sha1="5bf868e139ee8ca35eb07edc15b818f259a83f77" date="1988-08-01 06:39:08"/>
-		<rom name="M6.DAT" size="7424" crc="aad0a571" md5="4d3fec3b7e4f4965400a9b21d57ac73e" sha1="72c49769ed8521d21a20dba70f42bbe10d1acf39" date="1988-08-01 06:54:18"/>
-		<rom name="M7.DAT" size="5632" crc="772627fc" md5="288a51ddf9499bfd016dbe70fd4212f8" sha1="13f7d60a9691d591af470e0e25e76d34a5c7eee2" date="1988-08-01 07:03:04"/>
-		<rom name="M8.DAT" size="17408" crc="1be6c288" md5="42e23506e6bc8d530210d647ad11115d" sha1="4a17c568202562b5f2120c23e016fa2bf9fb216b" date="1988-08-01 07:14:50"/>
-		<rom name="M9.DAT" size="5888" crc="d130b299" md5="cd0b1773f068715652f1fd13a09440ad" sha1="45503429e319efa2bb8a05c640058bb9efe9cf41" date="1988-08-01 07:32:38"/>
-		<rom name="OBJECTS.DAT" size="50944" crc="e2495e00" md5="3a803f9c77b536be3ac41aac240fc314" sha1="e5ee519b7a8c9601f9612910fd19a80ad14bc8f9" date="1996-08-14 20:32:42"/>
-		<rom name="OS1234.DAT" size="64256" crc="c85ff368" md5="64d65285bff8887d7402a73b8a238ae8" sha1="a1aa9579e512674f9b0cccf7f459e776b4eedc14" date="1988-08-01 12:45:52"/>
-		<rom name="OS5678.DAT" size="64256" crc="9474f08b" md5="27b4d2137bf63ab202ba83e03d9e43db" sha1="9fd300727e06d25b2568aa18d2c70e04c6ec837e" date="1988-08-01 12:47:38"/>
-		<rom name="OSDOORS.DAT" size="35584" crc="114462f8" md5="3e35e08c87093ed5c56cad8bcf5390c1" sha1="67fb10839aa6649e1a66d586fe6eae0067ffc338" date="1988-08-01 12:51:04"/>
-		<rom name="OSTITLE.DAT" size="32256" crc="f10175cc" md5="6e12578407ac5b1a7f7dd585075c0fb1" sha1="cdce75cac64f4009e714884373c76f01939ad7e4" date="1996-08-08 04:21:38"/>
-		<rom name="PIPE.DAT" size="19968" crc="4bbada35" md5="e21bc2849997d8508fd2d3c7d4cfa61d" sha1="a654823465835d7e41942752db9d8bec41fa6553" date="1988-08-07 11:50:56"/>
-		<rom name="RAISTLIN.DAT" size="23040" crc="fe2954b0" md5="25a7863ee974d7cff18febfaad780afb" sha1="340feef44ceb9230a57b389d09742a1952e64c2e" date="1988-08-01 02:49:18"/>
-		<rom name="RIVERWND.DAT" size="50688" crc="7176c433" md5="fdcbaf06093a08dbb7b4e59ddfd97b54" sha1="0cbb089640b80966a687672e745be3cf0c4cba95" date="1988-08-01 04:44:28"/>
-		<rom name="SCREEN.DAT" size="20480" crc="d408665e" md5="f18c80095408ffdabd5c2cf60e0e5f81" sha1="da1823bcd1ed1da09b49daacae5c240e5f1e6154" date="1996-08-09 13:45:28"/>
-		<rom name="SCROLL.DAT" size="19712" crc="41151f84" md5="da3df79524efa2bf90b038e7f18b4e45" sha1="1aebdd5acb7367ed49477df8bc99a1fa7bea7c06" date="1988-08-01 19:09:10"/>
-		<rom name="START.EXE" size="97005" crc="d4c55e9b" md5="6c19a7b7fdcfd7a888655f16c8e8c881" sha1="dcf3ef586e34a522a0d81e5f60a4a4460357821c" date="1988-10-26 15:54:30">
-			<patch data="QlBTMW10hG10hIBcJY+RdBq7qF88L4ZBSSrqm17F1L0croc=" size="97005" crc="ea2a4941" md5="a0a38224dffd740858f8b356d76c0201" sha1="325723545f5eca4322867368eee2d19cfd6e1c88"/>
-		</rom>
-		<rom name="STURM.DAT" size="47360" crc="ae58416a" md5="28ad28f25c8845ed16385899dbd7fa10" sha1="d05493285e7b278b2043cf5af7104eb08ca14859" date="1988-08-01 01:01:06"/>
-		<rom name="TANIS.DAT" size="45056" crc="64566280" md5="f05469c83fa64cfc9a2b3ea5c0d7f75d" sha1="61dad367d7cde18e54caad89f38c6e59fa5fd791" date="1988-08-01 03:27:46"/>
-		<rom name="TASSLE.DAT" size="31744" crc="84eb994c" md5="1481cc7d65d07b278d612343de272106" sha1="0d14352da15648cef069445691729931c1bab751" date="1988-08-01 04:15:48"/>
-		<rom name="WATER.DAT" size="32256" crc="7a51afed" md5="70778499e181607a4220ee6051872289" sha1="462f5b623c2e831444f4dde833bde101ef30b21d" date="1980-01-05 12:56:06"/>
-	</game>
 	<game name="Hillsfar (1989) (Westwood).dosz">
 		<description>Hillsfar</description>
 		<comment>Extracted from Redump-verified CD-ROM: Forgotten Realms Archives - Silver Edition (USA) (Disc 1) - INSTALL.BAT removed</comment>
