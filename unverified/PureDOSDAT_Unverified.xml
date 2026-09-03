@@ -29192,10 +29192,18 @@
 	</game>
 	<game name="Heroes of the Lance (1988) (SSI).dosz">
 		<description>Heroes of the Lance</description>
-		<comment>Extracted from floppies matching TGOD 2501</comment>
-		<comment_dosc>Auto-starts, config, and IPS patch that bypasses copy protection. Includes `INSTALL.CFG` due to setting video mode to PS/2 VGA during install (video is corrupted otherwise)</comment_dosc>
 		<year>1988</year>
 		<developer>SSI</developer>
+		<comment>
+			Extracted from floppies matching TGOD 2501
+			Disks also match TDC#23 entry: Heroes of the Lance v1.0 (1988)(Strategic Simulations, Inc.) [IMA][360k][!]
+			DoDAT can build this directly from the disk images
+			Also matches with GOG (using the embedded patch for START.EXE)
+		</comment>
+		<comment_dosc>Auto-starts, reduces game speed, config, and IPS patch that bypasses copy protection. Includes `INSTALL.CFG` due to setting video mode to PS/2 VGA during install (video is corrupted otherwise)</comment_dosc>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C2501/</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Heroes+of+the+Lance+v1.0+(1988)(Strategic+Simulations,+Inc.)+%5BIMA%5D%5B360k%5D%5B!%5D</link>
+		<link type="store">https://www.gog.com/en/game/silver_box_classics</link>
 		<rom name="CARAMON.DAT" size="49664" crc="ba0b90e1" md5="6122a34d606ab97123b90c8570d22473" sha1="780634ca9db06098716d4079ae86a13ee1b32379" date="1988-08-02 12:35:52"/>
 		<rom name="CLIPS0.DAT" size="63488" crc="ea203dce" md5="355ad37978279951dc16c9f9c909e7b0" sha1="af55d8ee1fb4d31ff3ca69da774aae23bbcce0c5" date="1980-01-14 06:44:58"/>
 		<rom name="CLIPS1.DAT" size="29184" crc="fb795f20" md5="b90110b685b5ba0953e717da40fc23b8" sha1="898abf468f04719f8773a4cec0ab85c6fa66e618" date="1980-01-14 06:56:02"/>
@@ -29225,7 +29233,9 @@
 		<rom name="RIVERWND.DAT" size="50688" crc="7176c433" md5="fdcbaf06093a08dbb7b4e59ddfd97b54" sha1="0cbb089640b80966a687672e745be3cf0c4cba95" date="1988-08-01 04:44:28"/>
 		<rom name="SCREEN.DAT" size="20480" crc="d408665e" md5="f18c80095408ffdabd5c2cf60e0e5f81" sha1="da1823bcd1ed1da09b49daacae5c240e5f1e6154" date="1996-08-09 13:45:28"/>
 		<rom name="SCROLL.DAT" size="19712" crc="41151f84" md5="da3df79524efa2bf90b038e7f18b4e45" sha1="1aebdd5acb7367ed49477df8bc99a1fa7bea7c06" date="1988-08-01 19:09:10"/>
-		<rom name="START.EXE" size="97005" crc="d4c55e9b" md5="6c19a7b7fdcfd7a888655f16c8e8c881" sha1="dcf3ef586e34a522a0d81e5f60a4a4460357821c" date="1988-10-26 15:54:30"/>
+		<rom name="START.EXE" size="97005" crc="d4c55e9b" md5="6c19a7b7fdcfd7a888655f16c8e8c881" sha1="dcf3ef586e34a522a0d81e5f60a4a4460357821c" date="1988-10-26 15:54:30">
+			<patch data="QlBTMW10hG10hIBcJY+RdBq7qF88L4ZBSSrqm17F1L0croc=" size="97005" crc="ea2a4941" md5="a0a38224dffd740858f8b356d76c0201" sha1="325723545f5eca4322867368eee2d19cfd6e1c88"/>
+		</rom>
 		<rom name="STURM.DAT" size="47360" crc="ae58416a" md5="28ad28f25c8845ed16385899dbd7fa10" sha1="d05493285e7b278b2043cf5af7104eb08ca14859" date="1988-08-01 01:01:06"/>
 		<rom name="TANIS.DAT" size="45056" crc="64566280" md5="f05469c83fa64cfc9a2b3ea5c0d7f75d" sha1="61dad367d7cde18e54caad89f38c6e59fa5fd791" date="1988-08-01 03:27:46"/>
 		<rom name="TASSLE.DAT" size="31744" crc="84eb994c" md5="1481cc7d65d07b278d612343de272106" sha1="0d14352da15648cef069445691729931c1bab751" date="1988-08-01 04:15:48"/>
