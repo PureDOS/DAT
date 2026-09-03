@@ -23429,18 +23429,23 @@
 	</game>
 	<game name="Dragons of Flame (1989) (U.S. Gold).dosz">
 		<description>Dragons of Flame</description>
-		<comment>Matches TDC: Dragons of Flame v1.1 (1989)(Strategic Simulations, Inc.) [Action, Adventure, Role-Playing (RPG)][!]</comment>
-		<comment_dosc>Auto-starts</comment_dosc>
 		<year>1989</year>
 		<developer>U.S. Gold</developer>
+		<comment>
+			Files copied from floppy disks matching TDC#23 entry: Dragons of Flame v1.1 (1989)(Strategic Simulations, Inc.) [IMA][720k][!]
+			Also matches TDC#23 entry: Dragons of Flame v1.1 (1989)(Strategic Simulations, Inc.) [Action, Adventure, Role-Playing (RPG)][!]
+			DoDAT can build this directly from the disk image
+		</comment>
+		<comment_dosc>Auto-starts, reduces game speed, and has copy protection removal</comment_dosc>
+		<link type="media">https://puredos.github.io/dat-browser/?/Dragons+of+Flame+v1.1+(1989)(Strategic+Simulations,+Inc.)+%5BIMA%5D%5B720k%5D%5B!%5D</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Dragons+of+Flame+(1989)(Strategic+Simulations,+Inc.)+%5BAction,+Adventure,+Role-Playing+(RPG)%5D%5B!%5D</link>
 		<rom name="CARAMON.DAT" size="22308" crc="01b4b765" md5="590a25d425afaf8b789b1006c9382a8c" sha1="566cb75b180b2cd1daa37c1bd743eea3d8046522" date="1989-11-07 15:52:16"/>
 		<rom name="CGA.COM" size="6982" crc="4d7884ee" md5="0d02b74ed6274a38a92403c542fc5866" sha1="684be7022b011b512c7e4d69f72d431f2f67cf11" date="1989-11-07 15:52:16"/>
 		<rom name="CGA.INS" size="512" crc="258bb5e9" md5="65902647934c1d636f72a321fd92c45f" sha1="e9da82f13cf7714757aa414e923b47bc9236b5b8" date="1989-11-07 15:52:16"/>
 		<rom name="CHILD.DAT" size="20164" crc="7b95628f" md5="6d838387da4e332b5d7d8f16f8d5aca9" sha1="1674e1e0c9cac785527a5550ff778629f8151a9c" date="1989-11-07 15:52:16"/>
 		<rom name="CLIPS.DAT" size="11304" crc="422e721f" md5="0d3b8088a69dc4f5a30c2eeac4a25f89" sha1="69f0a5c4a77ee7abfeeabb6781a333beb323d1ff" date="1989-11-07 15:52:16"/>
 		<rom name="FLINT.DAT" size="17956" crc="8c08f1f7" md5="994d70c7f7b70ec1cff8582c6ade31c9" sha1="f869613ab89b35a86d613c6eff529cb0539f29d6" date="1989-11-07 15:52:16"/>
-		<rom name="GAME.EX_" size="63395" crc="68347dd8" md5="c594a827cd872139ad4c0e119d0c2254" sha1="601b0b0ddbf272223d4b8d534bfdec38c049cb8d" date="1989-11-07 15:52:16"/>
-		<rom name="GAME.EXE" size="63395" crc="8d884a2f" md5="9479e0904e9a31032bd8990976756814" sha1="9178ffe9dc313ea88c193144e99de581274e3f3d" date="1989-11-07 15:52:16"/>
+		<rom name="GAME.EXE" size="63395" crc="68347dd8" md5="c594a827cd872139ad4c0e119d0c2254" sha1="601b0b0ddbf272223d4b8d534bfdec38c049cb8d" date="1989-11-07 15:52:16"/>
 		<rom name="GILTH.DAT" size="24246" crc="57cb3cf7" md5="d8b0c36eb960bfaa27bce8e388b3cb6b" sha1="09edb702b2f14eafaee6637ea754667a322a33fb" date="1989-11-07 15:52:16"/>
 		<rom name="GOLDMOON.DAT" size="22308" crc="0b3e4cf0" md5="46196ce319669a631b8be5595d132d9e" sha1="abc9e527bb1b7d131134cca42f51dfd1b3bd8dad" date="1989-11-07 15:52:16"/>
 		<rom name="INSTALL.EXE" size="16895" crc="53bd4fe0" md5="39c5238f3e17dc109c789383f3c629bf" sha1="30bb6b6a50c829c113c007cecb9f62eb45d9ed8a" date="1989-11-07 15:52:16"/>
