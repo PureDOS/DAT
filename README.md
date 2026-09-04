@@ -94,6 +94,9 @@ To generate the data file XML elements you can use the [MakePureDOSDAT utility](
 [RomVault](https://www.romvault.com/) can optionally be used to build DOSZ files but they will not be fully correct because date and time information will be missing.
 Depending on your Windows or .NET installation, you might want to use [version 3.2.5](https://www.romvault.com/download/ROMVault_V3.2.5.zip) or the latest available.
 
+Certain small configuration files are embedded in the DAT file. DoDAT will automatically use the embedded data but for other ROM managers the files need to get extracted first.
+To do so, use the [ExtractDATEmbeds utility](../../../ExtractDATEmbeds) in an empty folder with just the XML DAT file inside the ROM managers unsorted input folder (or move the files there afterwards).
+
 While working with a ROM manager other than the recommended DoDAT, the files will need to be named .DOSZ.ZIP.
 To do this easily in Windows, create a file named `_swap_zip_extension.bat` with the content:
 ```bat
