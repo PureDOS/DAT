@@ -73994,10 +73994,18 @@
 	</game>
 	<game name="War of the Lance (1990) (SSI).dosz">
 		<description>War of the Lance</description>
-		<comment>Matches TDC: War of the Lance (1990)(Strategic Simulations, Inc.) [Strategy]</comment>
-		<comment_dosc>Auto-starts</comment_dosc>
 		<year>1990</year>
 		<developer>SSI</developer>
+		<comment>
+			Files copied from 5.25" floppy disks matching TGOD ID: 129
+			Also matches TDC#23 entry: War of the Lance (1990)(Strategic Simulations, Inc.) [Strategy]
+			DoDAT can build this directly from the disk images
+			Also matches GOG (using the embedded patch for START.EXE)
+		</comment>
+		<comment_dosc>Auto-starts, reduces game speed, and has copy protection removal</comment_dosc>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=129</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/War+of+the+Lance+(1990)(Strategic+Simulations,+Inc.)+%5BStrategy%5D</link>
+		<link type="store">https://www.gog.com/en/game/forgotten_realms_the_archives_collection_one</link>
 		<rom name="BORDER.SHP" size="47" crc="07d88d49" md5="b06f46477fea083f84901939118dfce3" sha1="920a94829964a26970ac15635c2bafd1408391ff" date="1990-06-21 16:58:54"/>
 		<rom name="COMBAT.SHP" size="13767" crc="60d3db67" md5="28c496ac56d74e60b6e055978fef3100" sha1="0fbcd536246394b553499ac44284f3ebced47e09" date="1990-06-21 20:39:48"/>
 		<rom name="INIT.BIN" size="135" crc="587ebfbd" md5="21e8fb1c061f27b1012f27b74c7d62e5" sha1="50988aa3ec0df0910b4557ab8d34c36801d4b49a" date="1990-05-03 13:48:30"/>
@@ -74039,8 +74047,9 @@
 		<rom name="SCEN.DAT" size="6149" crc="50ae1ade" md5="b958c32ee1592a0ada087b0d0b5969fc" sha1="8355eea554eba4fa8a3be4788bf8ef51afbe5f43" date="1990-05-03 11:44:42"/>
 		<rom name="SCEN.MAP" size="3367" crc="a1bf35af" md5="263cc4e6de607eb325d16bb0e5c576e1" sha1="a17be84ff3901d33f92f00932eb38c8bb8e233f0" date="1990-05-03 11:44:42"/>
 		<rom name="SCEN.UNT" size="1607" crc="2dafaf79" md5="7128f6208597c6ccf3e4694ce8cc48ea" sha1="7b2c37f6c29150b1c749542835c485289d8328ae" date="1990-05-03 11:44:40"/>
-		<rom name="START.EX_" size="317720" crc="e087571d" md5="4b090a9966517d7d3eeea8cf29820a2a" sha1="e02b2f90ac3f87c33f0ea0a5d18c989f1671144b" date="1990-06-23 13:09:02"/>
-		<rom name="START.EXE" size="317720" crc="42357e94" md5="21e207db1ec774550c1d696f05d10ae7" sha1="61d98829e9bca091e5a13ae64db47f77d080eb67" date="1990-06-23 13:09:02"/>
+		<rom name="START.EXE" size="317720" crc="e087571d" md5="4b090a9966517d7d3eeea8cf29820a2a" sha1="e02b2f90ac3f87c33f0ea0a5d18c989f1671144b" date="1990-06-23 13:09:02">
+			<patch data="QlBTMRgxkhgxkoAsBsiZV0VMQ09NRdShQ0hBTExFTkdF5IlZT1XglU1BTlVBTMSJVEhFwJIcUKLUhUFT0JZasOSJVEhF4J5bneiRU0tJTEzkl0Alo9yOBZ3cpwmA2I80oNSJVElF6I9qgeCXAbDclURVUklOR9yVUE9JTlRTBC+DiAtsah1Xh+C5ewyV" size="317720" crc="6a6c0b88" md5="619d61c392c2c40b9163e24e8fdda151" sha1="faf409a312af2ed1edee72507942b013ec7c3c25"/>
+		</rom>
 		<rom name="STR.SHP" size="3887" crc="1ca88074" md5="caf5f6aa29d58e7ba2876e5ecf8a9ca2" sha1="a53162a2c60ceab626dc5d9a68852084cee78c47" date="1990-06-21 21:15:50"/>
 		<rom name="WL.DAT" size="3674" crc="ae477052" md5="9a49cb095c19321fa1f70ad0175a65b3" sha1="1edbc7945428186cebea745d11479e6ca1d24552" date="1990-05-03 09:36:20"/>
 		<rom name="WL.MAP" size="3367" crc="6c962336" md5="06aa58c0fd271e80e39bb3b6a6ab862c" sha1="9fb0c897662af1d25a4429dae6b7a661893bb1e4" date="1990-05-03 09:33:30"/>
