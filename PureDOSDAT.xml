@@ -5160,6 +5160,115 @@
 		<rom name="TD_VCE1.PVC" size="373" crc="7f0672fd" md5="974b11b7a669551f7a9659f72c8d754c" sha1="ef5bf00a06b5df9b990982d9331663ca83318497" date="1990-02-28 13:18:26"/>
 		<rom name="TD_VCE2.PVC" size="530" crc="0cda9102" md5="d06ebb20cde8f1c799b57a1d2fe0766f" sha1="2caa3f184ed714d128cb0af252ce0512084a9b58" date="1990-02-28 14:26:36"/>
 	</game>
+	<game name="Champions of Krynn (1990) (SSI).dosz">
+		<description>Champions of Krynn</description>
+		<year>1990</year>
+		<developer>SSI</developer>
+		<comment>
+			Installed from Redump-verified CD-ROM: Advanced Dungeons &amp; Dragons - 5 Game Collector's Edition (USA)
+			CD also matches with TDC#23 entry: Advanced Dungeons &amp; Dragons- Collector's Edition r1 (1994)(WizardWorks Group, Inc., Strategic Simulations, Inc.) [bin-cue]
+			DoDAT can build this directly from the disc image
+			Also matches with GOG (using the embedded patch for START.EXE)
+		</comment>
+		<comment_dosc>Auto-starts, reduces game speed, enables direct mouse, has copy protection removal, config and MT-32 option</comment_dosc>
+		<link type="media">https://redump.info/disc/88105</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Advanced+Dungeons+&amp;+Dragons-+Collector%27s+Edition+r1+(1994)(WizardWorks+Group,+Inc.,+Strategic+Simulations,+Inc.)+%5Bbin-cue%5D</link>
+		<link type="store">https://www.gog.com/en/game/dungeons_dragons_krynn_series</link>
+		<rom name="8X8D1.DAX" size="14346" crc="a16bdb5a" md5="28458c9395cfab1256f48e8f49961402" sha1="892fc1a8aa08ff45230005792a69c7e0435656ea" date="1989-12-15 05:33:14"/>
+		<rom name="8X8D2.DAX" size="20229" crc="d8ec22d7" md5="6386b53ccf81034fce21b6c1f1d3fc7a" sha1="0a3c202010b974fb3f62f574724ac7e70b6df052" date="1989-12-11 09:27:50"/>
+		<rom name="8X8D3.DAX" size="20592" crc="2ce49eeb" md5="b79db55dffdcf4a1dda8ed3a9590fa28" sha1="e43c7297d2d8da27fbf5f24bad0aa9612b47d4e1" date="1989-12-11 09:27:52"/>
+		<rom name="BIGPIC1.DAX" size="65694" crc="5418223e" md5="c879462d1bdf114691bbc4e7c80451a5" sha1="5eed317b2c3472463edba158328afa42c08ad0be" date="1989-12-11 05:13:32"/>
+		<rom name="BIGPIC2.DAX" size="30905" crc="d0d35ab0" md5="db778cafcbceb57d6407777801ae6eb9" sha1="ba6250c734a145301c262bbe38b1bd5e53c71a96" date="1989-12-11 05:13:34"/>
+		<rom name="BIGPIC3.DAX" size="37495" crc="afbafb18" md5="c0fbc0bcf0cde6ea5518b0807912d7e3" sha1="b6ac3910bd12aff23a410b7a3689ca8d05636862" date="1989-12-11 05:13:34"/>
+		<rom name="BODY2.DAX" size="1793" crc="89a693f7" md5="22859a5704fa2c6fbb0b370d9e5fe8ef" sha1="ff0adb95baf7adc1ad74dbe11ab60a62cc3c97f4" date="1989-12-11 05:23:18"/>
+		<rom name="BODY3.DAX" size="1793" crc="89a693f7" md5="22859a5704fa2c6fbb0b370d9e5fe8ef" sha1="ff0adb95baf7adc1ad74dbe11ab60a62cc3c97f4" date="1989-12-11 05:23:18"/>
+		<rom name="CBODY.DAX" size="23889" crc="ba30b5ca" md5="91905717f47b6c140b6b06365e819671" sha1="37a8f5791cd81d94dd3a2c9f6dacb8e0fccd3f7b" date="1989-12-04 12:43:42"/>
+		<rom name="CHEAD.DAX" size="3428" crc="000317d9" md5="1a9465e04282a32a810176447a486463" sha1="bae7b7e59f5ac2b58066b380a4ca28574e6579f5" date="1989-12-04 12:43:42"/>
+		<rom name="CHRDATA1.SAV" size="409" crc="b86f9af7" md5="78792e098c4bffb39391e157f8fa9866" sha1="19f9cd0030fc5f336a597a1ed0e222e949bc1876" date="1992-08-11 13:28:04"/>
+		<rom name="CHRDATA1.STF" size="189" crc="b7be7119" md5="1925688e66941224d581a4f044b30a3c" sha1="57a80cd3a6c6abc4ff5dcba084366ce3ee86e182" date="1992-08-11 13:28:04"/>
+		<rom name="CHRDATA2.SAV" size="409" crc="39732d41" md5="e012ef9b5be9b96bedc96c7372cc6bf7" sha1="336af60295bd7d1c1227413ce834c86296b36431" date="1992-08-11 13:28:04"/>
+		<rom name="CHRDATA2.SFX" size="18" crc="f46522be" md5="a531b378fc68cfaf1b2c4fa7859669d6" sha1="0f86397bb66e47c468075885bc2cd9b92d95791d" date="1992-08-11 13:28:04"/>
+		<rom name="CHRDATA2.STF" size="315" crc="07c1aa8b" md5="4d487b9410a427eb8bce1d602d1ab1b2" sha1="aa84d1e52197fdb1b42bbf048501749b36694593" date="1992-08-11 13:28:04"/>
+		<rom name="CHRDATA3.SAV" size="409" crc="77ac6140" md5="5f968322ba20b68a1f88456cc2018cbf" sha1="ffdb894508bf56cf21433bd840d4dd485faa0e52" date="1992-08-11 13:28:04"/>
+		<rom name="CHRDATA3.SFX" size="9" crc="80fbd595" md5="d18023db66ac82c2762e8da8b04906f3" sha1="7fe41d42a7c3894aeccbff3aa8bf75d42c5addf3" date="1992-08-11 13:28:04"/>
+		<rom name="CHRDATA3.STF" size="315" crc="d7ed77fc" md5="3c7e802cc8e2e67e51065bc0e2d20e7b" sha1="71097d71cb2fbf928b4ab83127a39254aa844725" date="1992-08-11 13:28:04"/>
+		<rom name="CHRDATA4.SAV" size="409" crc="b324c974" md5="0dd9d3c525bb2efeb9573e0bfb039d43" sha1="935088014dacf592423b9561e1a2fcde612d792a" date="1992-08-11 13:28:04"/>
+		<rom name="CHRDATA4.SFX" size="27" crc="4164d63b" md5="de99ac6a0bb5692788c7d3416b325a76" sha1="362153bdadda2dfb92e9c57d9e9838db0833eaf9" date="1992-08-11 13:28:04"/>
+		<rom name="CHRDATA4.STF" size="252" crc="85bad065" md5="53ae4202944f4772842bc4b6bc25e9dc" sha1="1d17f0f0fc8082f5e3c02d1356d6c41ea3769bf5" date="1992-08-11 13:28:04"/>
+		<rom name="CHRDATA5.SAV" size="409" crc="44065b7b" md5="35dbcffce3a2ffa361bb5641b9fed7e6" sha1="e1427ce66787c0f93f7fc87f07193bc756251f8c" date="1992-08-11 13:28:04"/>
+		<rom name="CHRDATA5.SFX" size="9" crc="af2631c5" md5="6c110450eda9069e6c690b32ad8154ec" sha1="c9bed29645e6acb9fc00a792131472a6ce7e5b2b" date="1992-08-11 13:28:04"/>
+		<rom name="CHRDATA5.STF" size="252" crc="2be64e40" md5="c8a6fa8c612d2859df8b154ef5c44a91" sha1="4de706b038d8ae541ab90095b30c9c1863aad725" date="1992-08-11 13:28:04"/>
+		<rom name="CHRDATA6.SAV" size="409" crc="0f905e25" md5="6ca205cb43a3b817bb477e59f6c11c65" sha1="aaa8d7d9ac061f8450601ff7c03fe08339a52e72" date="1992-08-11 13:28:04"/>
+		<rom name="CHRDATA6.SFX" size="9" crc="af2631c5" md5="6c110450eda9069e6c690b32ad8154ec" sha1="c9bed29645e6acb9fc00a792131472a6ce7e5b2b" date="1992-08-11 13:28:04"/>
+		<rom name="CHRDATA6.STF" size="315" crc="a42b46f2" md5="3ea78e5b59d16980658dfd8f8957fae3" sha1="87d06743d871e03a3dc54dccdd28ff9fa8ae7228" date="1992-08-11 13:28:04"/>
+		<rom name="COMSPR.DAX" size="3612" crc="d495030e" md5="4181d44aed9487975e93c90b88d5823c" sha1="0e5989b83587fc5d2d0ba2fa332271b56b7996f4" date="1988-11-15 08:41:02"/>
+		<rom name="CPIC1.DAX" size="16911" crc="449881b3" md5="b18570e9cc23db0d729791878787a9ba" sha1="64ab23f614aa80668224c85374ea32469c848d40" date="1989-12-12 10:57:58"/>
+		<rom name="CPIC2.DAX" size="19604" crc="e983e040" md5="171cc0cd56e31712f85bbcb7ad5eebb5" sha1="50aa9cc7466c1b74f10a5b97bf3fa8366d54c783" date="1989-12-12 10:58:16"/>
+		<rom name="CPIC3.DAX" size="17235" crc="e2cecad0" md5="8920ae3fa5ee51eb7f941a0d8fc736ad" sha1="a9632b0bbd03af32435e18756a232c2852408a9d" date="1989-12-12 10:58:32"/>
+		<rom name="CURSOR.DAX" size="62" crc="4caae1c3" md5="c0d4366dc3d43dd73d0d05899dad19e9" sha1="9eaa84c6df88f115f394e87b26c6828f019de463" date="1989-09-07 10:56:06"/>
+		<rom name="DUNGCOM.DAX" size="5542" crc="491c5f2b" md5="e80158b9e9bd7693f30f34a2d3e08f8b" sha1="591d04ad32a95c6f72c36e9fcbdf9558b48d0269" date="1989-10-25 07:06:06"/>
+		<rom name="ECL1.DAX" size="31721" crc="83a1fa74" md5="9911712174ac8182da38163a5245b3cd" sha1="028da37c421c7dcb6b4744a5140472e8b18272d1" date="1989-12-18 11:28:48"/>
+		<rom name="ECL2.DAX" size="49982" crc="78c22a68" md5="268ab7b8ed2fb359ec195998ee961885" sha1="9aba86d52ce4db671a1835fffe61be31250d0f08" date="1989-12-20 13:36:38"/>
+		<rom name="ECL3.DAX" size="49969" crc="dd99789a" md5="c8a1e5d9c5d32bdef200f61ac847d838" sha1="b95ab83b424a3ac54c0a3335fdc668851840cfc5" date="1990-07-11 06:07:48"/>
+		<rom name="GAME.OVR" size="269031" crc="3a49aa98" md5="2a12e26beb6de0c23468f2389c2c1f0a" sha1="016d0121b58a0855d4d05f143296c1d06ba49ea0" date="1992-08-10 10:27:24"/>
+		<rom name="GEO1.DAX" size="1835" crc="de192845" md5="342991f72c34643695774cfdabd0e318" sha1="b3149103f0df44d3172c1cca8c9674c00f0ed1ec" date="1989-12-12 10:56:54"/>
+		<rom name="GEO2.DAX" size="6365" crc="1727e360" md5="d9b688a097bd93c9f8fdde2a4784f1c6" sha1="c1c17e97be555e66d938742d8114f8cb5a14e4d6" date="1989-12-12 10:57:00"/>
+		<rom name="GEO3.DAX" size="5483" crc="dd8e3bf6" md5="891db1474d663230de87b1c4f5de40e6" sha1="a8f59659aab751e0c9f09cedcae2aea44669f5bc" date="1989-12-12 10:57:08"/>
+		<rom name="HEAD2.DAX" size="3406" crc="f87e78e3" md5="77cd0cd47ffac85c890ccb3996ddd6ec" sha1="f7e3d4ef1c440011812bd797aa64957161ded35b" date="1989-12-14 11:00:38"/>
+		<rom name="HEAD3.DAX" size="3406" crc="f87e78e3" md5="77cd0cd47ffac85c890ccb3996ddd6ec" sha1="f7e3d4ef1c440011812bd797aa64957161ded35b" date="1989-12-14 11:00:38"/>
+		<rom name="ITEM1.DAX" size="1469" crc="b25d0cab" md5="10decfd447b1b8cd8c5f0bedb42eb956" sha1="00293a6116281758fc1ee4b14f0bd27efe3982a2" date="1989-12-19 08:18:26"/>
+		<rom name="ITEM2.DAX" size="1745" crc="4c2db688" md5="6a553c1fc59b7c3352f5ece4d659ea96" sha1="fd505fe96d69e5f270bb952c96a359b8bfed9d13" date="1989-12-12 10:57:28"/>
+		<rom name="ITEM3.DAX" size="1079" crc="f4e23ef9" md5="5cd2dc83427bca01cf6bc1a9ea596f87" sha1="763238173e47bd8cb583e1381202a9ed86db1df3" date="1989-12-12 10:57:36"/>
+		<rom name="ITEMS" size="2050" crc="098e27ba" md5="37d67238f3e4f4f9af8936352c59f377" sha1="931d9a5a15d7dadeb776aa98a0726d37723fecc5" date="1980-01-01 08:00:00"/>
+		<rom name="Krynn Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="MIDI.DAX" size="7369" crc="a658c848" md5="0e3eca9a23223a4b6cb4fe4479ee5a3a" sha1="e971ae59f00bd36c3609f1ce8dae0932f3ff48a9" date="1989-12-11 12:33:00"/>
+		<rom name="MON1CHA.DAX" size="2661" crc="8c4f717f" md5="909def3a476d6a7e59d8df2c0fb5a03a" sha1="d3ab1946d9c633b85bde28121e031929fae4f4c4" date="1989-12-18 05:05:46"/>
+		<rom name="MON1ITM.DAX" size="1473" crc="24827c6d" md5="b2ee4668b1cdd45e5affded0debd15b3" sha1="831d49202fd6a51d769d0f1c200d1103d2609b5f" date="1989-12-18 05:05:48"/>
+		<rom name="MON1SPC.DAX" size="329" crc="1b49ba78" md5="489bd986189cf5ac9b9c4cdcbce56c72" sha1="ab2b0f6668736083abcdcfb143d26bc137be9338" date="1989-12-18 05:05:48"/>
+		<rom name="MON2CHA.DAX" size="3418" crc="7d90e98b" md5="b71381c47e45f0e15bb9c57efc0f46d5" sha1="f012c4fd8e15a7c9552fc7442014f60910d40548" date="1989-12-19 08:26:58"/>
+		<rom name="MON2ITM.DAX" size="1701" crc="c7c58d4f" md5="2f1e66f40c970ce3899b6348fce1d54d" sha1="84a599ef35357f2cde454107d4905eb61826be95" date="1989-12-19 08:27:02"/>
+		<rom name="MON2SPC.DAX" size="518" crc="99d2acd4" md5="9097f0dfc5dedbc7bbfe1ccfd1d21d41" sha1="cb4fb5aafd2fe601525ba81aaf71a27665022e9e" date="1989-12-19 08:27:00"/>
+		<rom name="MON3CHA.DAX" size="3179" crc="bd11edc2" md5="74e9f243b7ae2c99fa54906c57d614fe" sha1="3d0992eaf1f9f98e884dbf20d1f596df363098b9" date="1989-12-18 10:25:26"/>
+		<rom name="MON3ITM.DAX" size="914" crc="9927c46e" md5="3e0fec6f16404da30d1ac9f6dcb2870f" sha1="787421bc8258f7f73e0ff24fdb47823e7889adcc" date="1989-12-18 10:25:30"/>
+		<rom name="MON3SPC.DAX" size="567" crc="993352c5" md5="6f2689353931785562e589286a148d58" sha1="f7040c91030646c2001411f6693dac13b5d9f0da" date="1989-12-18 10:25:28"/>
+		<rom name="PIC1.DAX" size="66736" crc="db55299c" md5="80a1737435def7947acced206ad2c279" sha1="aade5081fd3948a274348a9f799a09d637a4ed63" date="1989-12-19 05:24:34"/>
+		<rom name="PIC2.DAX" size="101466" crc="bcf8d01c" md5="e11daedce5888a7c3e2cb8ff32536fad" sha1="294c4a013a17cbc51cd59c165d2a1d7b360702b3" date="1989-12-19 05:24:38"/>
+		<rom name="PIC3.DAX" size="97632" crc="befdfb96" md5="4befd8026342fde9d481ffe44dbda5d0" sha1="96217f7ed21621ce5809786a0ddf36c0f2b9d657" date="1989-12-19 05:24:40"/>
+		<rom name="RANDCOM.DAX" size="1023" crc="b950f6b8" md5="988914916bb395337f75d11d6f4b2d95" sha1="51aaade41ddbddac8550d86c18ead8640890458b" date="1989-08-22 06:27:50"/>
+		<rom name="SAVE/CHRDATA1.SAV" size="409" crc="b86f9af7" md5="78792e098c4bffb39391e157f8fa9866" sha1="19f9cd0030fc5f336a597a1ed0e222e949bc1876" date="1992-08-11 13:28:04"/>
+		<rom name="SAVE/CHRDATA1.STF" size="189" crc="b7be7119" md5="1925688e66941224d581a4f044b30a3c" sha1="57a80cd3a6c6abc4ff5dcba084366ce3ee86e182" date="1992-08-11 13:28:04"/>
+		<rom name="SAVE/CHRDATA2.SAV" size="409" crc="39732d41" md5="e012ef9b5be9b96bedc96c7372cc6bf7" sha1="336af60295bd7d1c1227413ce834c86296b36431" date="1992-08-11 13:28:04"/>
+		<rom name="SAVE/CHRDATA2.SFX" size="18" crc="f46522be" md5="a531b378fc68cfaf1b2c4fa7859669d6" sha1="0f86397bb66e47c468075885bc2cd9b92d95791d" date="1992-08-11 13:28:04"/>
+		<rom name="SAVE/CHRDATA2.STF" size="315" crc="07c1aa8b" md5="4d487b9410a427eb8bce1d602d1ab1b2" sha1="aa84d1e52197fdb1b42bbf048501749b36694593" date="1992-08-11 13:28:04"/>
+		<rom name="SAVE/CHRDATA3.SAV" size="409" crc="77ac6140" md5="5f968322ba20b68a1f88456cc2018cbf" sha1="ffdb894508bf56cf21433bd840d4dd485faa0e52" date="1992-08-11 13:28:04"/>
+		<rom name="SAVE/CHRDATA3.SFX" size="9" crc="80fbd595" md5="d18023db66ac82c2762e8da8b04906f3" sha1="7fe41d42a7c3894aeccbff3aa8bf75d42c5addf3" date="1992-08-11 13:28:04"/>
+		<rom name="SAVE/CHRDATA3.STF" size="315" crc="d7ed77fc" md5="3c7e802cc8e2e67e51065bc0e2d20e7b" sha1="71097d71cb2fbf928b4ab83127a39254aa844725" date="1992-08-11 13:28:04"/>
+		<rom name="SAVE/CHRDATA4.SAV" size="409" crc="b324c974" md5="0dd9d3c525bb2efeb9573e0bfb039d43" sha1="935088014dacf592423b9561e1a2fcde612d792a" date="1992-08-11 13:28:04"/>
+		<rom name="SAVE/CHRDATA4.SFX" size="27" crc="4164d63b" md5="de99ac6a0bb5692788c7d3416b325a76" sha1="362153bdadda2dfb92e9c57d9e9838db0833eaf9" date="1992-08-11 13:28:04"/>
+		<rom name="SAVE/CHRDATA4.STF" size="252" crc="85bad065" md5="53ae4202944f4772842bc4b6bc25e9dc" sha1="1d17f0f0fc8082f5e3c02d1356d6c41ea3769bf5" date="1992-08-11 13:28:04"/>
+		<rom name="SAVE/CHRDATA5.SAV" size="409" crc="44065b7b" md5="35dbcffce3a2ffa361bb5641b9fed7e6" sha1="e1427ce66787c0f93f7fc87f07193bc756251f8c" date="1992-08-11 13:28:04"/>
+		<rom name="SAVE/CHRDATA5.SFX" size="9" crc="af2631c5" md5="6c110450eda9069e6c690b32ad8154ec" sha1="c9bed29645e6acb9fc00a792131472a6ce7e5b2b" date="1992-08-11 13:28:04"/>
+		<rom name="SAVE/CHRDATA5.STF" size="252" crc="2be64e40" md5="c8a6fa8c612d2859df8b154ef5c44a91" sha1="4de706b038d8ae541ab90095b30c9c1863aad725" date="1992-08-11 13:28:04"/>
+		<rom name="SAVE/CHRDATA6.SAV" size="409" crc="0f905e25" md5="6ca205cb43a3b817bb477e59f6c11c65" sha1="aaa8d7d9ac061f8450601ff7c03fe08339a52e72" date="1992-08-11 13:28:04"/>
+		<rom name="SAVE/CHRDATA6.SFX" size="9" crc="af2631c5" md5="6c110450eda9069e6c690b32ad8154ec" sha1="c9bed29645e6acb9fc00a792131472a6ce7e5b2b" date="1992-08-11 13:28:04"/>
+		<rom name="SAVE/CHRDATA6.STF" size="315" crc="a42b46f2" md5="3ea78e5b59d16980658dfd8f8957fae3" sha1="87d06743d871e03a3dc54dccdd28ff9fa8ae7228" date="1992-08-11 13:28:04"/>
+		<rom name="SAVE/SAVGAMA.DAT" size="5469" crc="d1d9e80e" md5="82b66c69e6787b8e9b29d685119fda29" sha1="ed482a12b75da04b8295dee38b060ae743809105" date="1992-08-11 13:28:04"/>
+		<rom name="SAVGAMA.DAT" size="5469" crc="d1d9e80e" md5="82b66c69e6787b8e9b29d685119fda29" sha1="ed482a12b75da04b8295dee38b060ae743809105" date="1992-08-11 13:28:04"/>
+		<rom name="SKY.DAX" size="2448" crc="7f991ebd" md5="2af1f9441046e9ac39a220d944366cba" sha1="c3b2fef0631a75c413ce60396de3187dc8d8c7e7" date="1989-06-08 10:50:04"/>
+		<rom name="SOUND.DAX" size="14206" crc="1e58c0de" md5="af9adcdad4f94d22f882c19bc5350326" sha1="7bf939f2e3e9e38ea9b7a47e486c1cee0ee837da" date="1989-11-29 11:00:14"/>
+		<rom name="SPRIT1.DAX" size="8712" crc="26f899a6" md5="9516f1107c1e17558ad85ce5fa392647" sha1="4c08ddae432d1843622fdf363ee75b71c2c792b4" date="1989-12-18 09:55:36"/>
+		<rom name="SPRIT2.DAX" size="31307" crc="4e1e12eb" md5="96f23c7644083a06be69949a76ed3429" sha1="06829759ddf3dd41b2ca42b6d34670e64c37502e" date="1989-12-18 09:55:38"/>
+		<rom name="SPRIT3.DAX" size="22578" crc="8a165f04" md5="462259861f42da56ca96f04487d58a4a" sha1="c55cb0eff216f4d0d9df48496f2bc971609bc536" date="1989-12-18 09:55:38"/>
+		<rom name="START.EXE" size="61607" crc="9b8bec5d" md5="660772536e67299af694d822ef61a9ab" sha1="a82e0a0742c9ad43518ae06a33756dc4b07dd1d7" date="1992-08-10 10:27:26">
+			<patch data="QlBTMSdggidggoBUn4F0PGON3FhnuF3si5tUfyai" size="61607" crc="b86758dc" md5="25ff173e10b3b50fe5dd038890ea2555" sha1="42b56a515406ab041ca78646c06d39b7a9bdd2bc"/>
+		</rom>
+		<rom name="TILES.DAX" size="13488" crc="d622ca98" md5="47a4caeca62acf1f6be2a8266488afff" sha1="f049a52ec03b8f181ae27dd12a6da86e250eff14" date="1989-05-02 12:58:32"/>
+		<rom name="TITLE.DAX" size="57528" crc="59d34245" md5="fe9826124da2a1e39bb7a9409572adef" sha1="4ec4c1faa6ce24179b74ac0c2239a4357e17d6c6" date="1989-12-12 11:55:52"/>
+		<rom name="WALLDEF1.DAX" size="3877" crc="0fb2ccb3" md5="cda8c3a77683424aab1a683e0c921b55" sha1="0848525878257ac71ab23c5eef70a212e974bdc6" date="1989-12-15 06:27:28"/>
+		<rom name="WALLDEF2.DAX" size="6637" crc="83d0e61a" md5="5d3bf1ab24cfe0bf4370f152839b5328" sha1="04be8cba8dba95835943d8782d6b1e6c78f48593" date="1989-12-11 09:28:16"/>
+		<rom name="WALLDEF3.DAX" size="6565" crc="0f663618" md5="d9171bc68d1dddbcd2bc8552e415b0ae" sha1="041642dac4012db51b4c46e20b4322a93b4be236" date="1989-12-20 07:30:50"/>
+		<rom name="WILDCOM.DAX" size="5462" crc="354244f5" md5="6bd66bfb4aeb1aabe99e5821c8d9ab49" sha1="06a9b8b1d10eb3788259b9ea63508981628a7b2b" date="1989-12-15 06:09:58"/>
+	</game>
 	<game name="Championship Lode Runner (1984) (Broderbund).dosz">
 		<description>Championship Lode Runner</description>
 		<comment>PC booter disk</comment>
