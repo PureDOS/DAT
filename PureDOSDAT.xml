@@ -13265,30 +13265,38 @@
 	</game>
 	<game name="King's Quest II - Romancing the Throne (1985) (Sierra On-Line).dosz">
 		<description>King's Quest II - Romancing the Throne</description>
-		<comment>Installed from King's Quest - Collector's Edition CD-ROM US release</comment>
-		<comment_dosc>Auto-start</comment_dosc>
 		<year>1985</year>
 		<developer>Sierra On-Line</developer>
-		<link type="media">http://redump.org/disc/14878/</link>
-		<rom name="AGI" size="38400" crc="20e472e7" md5="bc1d967913f79eb9cd25f580d754ebaa" sha1="64e06e57ad9acaa89aabd1e91b58a1ada15133a9" date="1987-04-29 10:25:48"/>
-		<rom name="AGIDATA.OVL" size="7680" crc="a2732ef1" md5="b4fe83aa2dba9dc1d9c1f626b311bf62" sha1="e0d19cd51d9f42a96bffe5659963bedee67978c2" date="1987-04-21 10:58:16"/>
-		<rom name="CGA_GRAF.OVL" size="1024" crc="1a0c11ee" md5="f4ca196d6a3422372744d702bb85ebf4" sha1="daeeec1d9daf506c2d05ba4d78ff4d8d8f978504" date="1987-04-21 10:57:42"/>
-		<rom name="EGA_GRAF.OVL" size="1024" crc="3912ef9a" md5="49256f01afcde75c434b6858d295a33c" sha1="da33fa3f429735a7a685634a464d05dae7809cad" date="1987-04-21 10:57:44"/>
-		<rom name="HGC_FONT" size="3072" crc="200435c7" md5="f3d4c66e195491aa759b7c5ef996488b" sha1="fee5e93395ff4f922c26c4a8f687d8517fd96fd0" date="1987-01-26 15:47:26"/>
-		<rom name="HGC_GRAF.OVL" size="1536" crc="dee6c836" md5="8dfb701bb9ed4a88c9394cecaf1a72dd" sha1="11b86cbfdc179ae851d5a3a09f01cbd147f46290" date="1987-04-21 10:57:44"/>
-		<rom name="HGC_OBJS.OVL" size="1024" crc="fbd19cdc" md5="3c82217334f19cc28f31f635de3831c9" sha1="b7c2c234eb63622f019641390af4c28b867aa6b1" date="1987-04-21 10:57:46"/>
-		<rom name="IBM_OBJS.OVL" size="512" crc="91909ddd" md5="bdece693554b0f55f7b6dee690dd41eb" sha1="e64d803a29e47ba671f33bd4f2d5f53e5287420b" date="1987-04-21 10:57:44"/>
-		<rom name="JR_GRAF.OVL" size="512" crc="13027d30" md5="accaa1598a3660d3fd91558a83956507" sha1="c725942d392627b099fdb50733e03cf87a743e03" date="1987-04-21 10:57:42"/>
-		<rom name="KQ2.COM" size="2928" crc="d99a86f0" md5="eef8bc6fa8f84bf71e753ea44388fc91" sha1="bb31fd37c2cb94a5d9d61b6385db21f4bc4ffd5b" date="1994-04-04 11:42:12"/>
-		<rom name="LOGDIR" size="543" crc="df28f8c8" md5="759e39f891a0e1d86dd29d7de485c6ac" sha1="693c576134d8938d8156287552be6cd6df033ebf" date="1987-04-10 09:21:00"/>
-		<rom name="OBJECT" size="601" crc="3a3c3723" md5="ef32575e784ad173671eb780595338b5" sha1="91cf06c740c5c56dc3daa9b08217013c7cc40216" date="1987-04-07 14:40:46"/>
-		<rom name="PICDIR" size="354" crc="403d89e5" md5="44517da392eb48f2fa1a73deffa56f9f" sha1="af0b580e481babdfdc63502998fbf2205857ba37" date="1987-04-10 09:21:02"/>
-		<rom name="SNDDIR" size="135" crc="8d63378f" md5="3a865d993b9f1bdcfb6e23a2fd45ef0d" sha1="5134ee4868a7d3f69b610ec61cb386df1ab87036" date="1987-04-10 09:21:02"/>
-		<rom name="VIEWDIR" size="705" crc="f20645f7" md5="9ef1036a3c7c47b60a32e97a9e44360b" sha1="c53e184a00614d134dead25f1b3cd62b57fd9be8" date="1987-04-10 09:21:02"/>
-		<rom name="VOL.0" size="47769" crc="00bd8f52" md5="a9a86189c78139a454a9c0c23edce827" sha1="db089f0045f80e0dcddba7105c0b5800424d0c3c" date="1987-04-10 09:18:42"/>
-		<rom name="VOL.1" size="190481" crc="61567756" md5="5eb56fcb0022cf3fcbe8a6626e03184b" sha1="cd9630b84fcac99faafc4c5203769a21107b12ce" date="1987-04-10 09:19:48"/>
-		<rom name="VOL.2" size="247952" crc="4481c735" md5="160aedd09c4e4425257e46e03f6c39b8" sha1="d40800eec9460be6ffd8f358009c4bb97bab7f2d" date="1987-04-10 09:21:02"/>
-		<rom name="WORDS.TOK" size="3516" crc="6cf8a510" md5="e588b7b3d29f3627023a565e0c806bc5" sha1="0708b3ca8fabdcee772f24a82a93d1431a8e9ab3" date="1987-04-06 14:57:16"/>
+		<comment>
+			Installed from King's Quest - Collector's Edition CD-ROM US release, verified by Redump: King's Quest - Collector's Edition (USA) (En,Fr,De) (Disc 1)
+			Can also be installed from Redump-verified CD-ROM: King's Quest - Collector's Edition (Europe) (En,Fr,De) (Disc 1)
+			Or TDC#23 entry: King's Quest- Collection Series (1997)(Sierra On-Line, Inc.) [bin-cue]
+			DoDAT can build this directly from the disc image
+			Also matches with GOG
+		</comment>
+		<comment_dosc>Tandy mode and auto-start</comment_dosc>
+		<link type="media">https://redump.info/disc/14878</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/King%27s+Quest-+Collection+Series+(1997)(Sierra+On-Line,+Inc.)+%5Bbin-cue%5D</link>
+		<link type="store">https://www.gog.com/en/game/kings_quest_1_2_3</link>
+		<rom name="AGI" size="38400" crc="20e472e7" md5="bc1d967913f79eb9cd25f580d754ebaa" sha1="64e06e57ad9acaa89aabd1e91b58a1ada15133a9" date="1987-04-29 09:25:48"/>
+		<rom name="AGIDATA.OVL" size="7680" crc="a2732ef1" md5="b4fe83aa2dba9dc1d9c1f626b311bf62" sha1="e0d19cd51d9f42a96bffe5659963bedee67978c2" date="1987-04-21 09:58:16"/>
+		<rom name="CGA_GRAF.OVL" size="1024" crc="1a0c11ee" md5="f4ca196d6a3422372744d702bb85ebf4" sha1="daeeec1d9daf506c2d05ba4d78ff4d8d8f978504" date="1987-04-21 09:57:42"/>
+		<rom name="EGA_GRAF.OVL" size="1024" crc="3912ef9a" md5="49256f01afcde75c434b6858d295a33c" sha1="da33fa3f429735a7a685634a464d05dae7809cad" date="1987-04-21 09:57:44"/>
+		<rom name="HGC_FONT" size="3072" crc="200435c7" md5="f3d4c66e195491aa759b7c5ef996488b" sha1="fee5e93395ff4f922c26c4a8f687d8517fd96fd0" date="1987-01-26 14:47:26"/>
+		<rom name="HGC_GRAF.OVL" size="1536" crc="dee6c836" md5="8dfb701bb9ed4a88c9394cecaf1a72dd" sha1="11b86cbfdc179ae851d5a3a09f01cbd147f46290" date="1987-04-21 09:57:44"/>
+		<rom name="HGC_OBJS.OVL" size="1024" crc="fbd19cdc" md5="3c82217334f19cc28f31f635de3831c9" sha1="b7c2c234eb63622f019641390af4c28b867aa6b1" date="1987-04-21 09:57:46"/>
+		<rom name="IBM_OBJS.OVL" size="512" crc="91909ddd" md5="bdece693554b0f55f7b6dee690dd41eb" sha1="e64d803a29e47ba671f33bd4f2d5f53e5287420b" date="1987-04-21 09:57:44"/>
+		<rom name="JR_GRAF.OVL" size="512" crc="13027d30" md5="accaa1598a3660d3fd91558a83956507" sha1="c725942d392627b099fdb50733e03cf87a743e03" date="1987-04-21 09:57:42"/>
+		<rom name="KQ2.COM" size="2928" crc="d99a86f0" md5="eef8bc6fa8f84bf71e753ea44388fc91" sha1="bb31fd37c2cb94a5d9d61b6385db21f4bc4ffd5b" date="1994-04-04 10:42:12"/>
+		<rom name="LOGDIR" size="543" crc="df28f8c8" md5="759e39f891a0e1d86dd29d7de485c6ac" sha1="693c576134d8938d8156287552be6cd6df033ebf" date="1987-04-10 08:21:00"/>
+		<rom name="OBJECT" size="601" crc="3a3c3723" md5="ef32575e784ad173671eb780595338b5" sha1="91cf06c740c5c56dc3daa9b08217013c7cc40216" date="1987-04-07 13:40:46"/>
+		<rom name="PICDIR" size="354" crc="403d89e5" md5="44517da392eb48f2fa1a73deffa56f9f" sha1="af0b580e481babdfdc63502998fbf2205857ba37" date="1987-04-10 08:21:02"/>
+		<rom name="SNDDIR" size="135" crc="8d63378f" md5="3a865d993b9f1bdcfb6e23a2fd45ef0d" sha1="5134ee4868a7d3f69b610ec61cb386df1ab87036" date="1987-04-10 08:21:02"/>
+		<rom name="VIEWDIR" size="705" crc="f20645f7" md5="9ef1036a3c7c47b60a32e97a9e44360b" sha1="c53e184a00614d134dead25f1b3cd62b57fd9be8" date="1987-04-10 08:21:02"/>
+		<rom name="VOL.0" size="47769" crc="00bd8f52" md5="a9a86189c78139a454a9c0c23edce827" sha1="db089f0045f80e0dcddba7105c0b5800424d0c3c" date="1987-04-10 08:18:42"/>
+		<rom name="VOL.1" size="190481" crc="61567756" md5="5eb56fcb0022cf3fcbe8a6626e03184b" sha1="cd9630b84fcac99faafc4c5203769a21107b12ce" date="1987-04-10 08:19:48"/>
+		<rom name="VOL.2" size="247952" crc="4481c735" md5="160aedd09c4e4425257e46e03f6c39b8" sha1="d40800eec9460be6ffd8f358009c4bb97bab7f2d" date="1987-04-10 08:21:02"/>
+		<rom name="WORDS.TOK" size="3516" crc="6cf8a510" md5="e588b7b3d29f3627023a565e0c806bc5" sha1="0708b3ca8fabdcee772f24a82a93d1431a8e9ab3" date="1987-04-06 13:57:16"/>
 	</game>
 	<game name="King's Quest III - To Heir is Human (1986) (Sierra On-Line).dosz">
 		<description>King's Quest III - To Heir is Human</description>
