@@ -5859,6 +5859,73 @@
 		<rom name="TOS.EXE" size="168480" crc="ca812740" md5="f33506ad8be60b44ead0e7c649389222" sha1="f5f062d8e9283313179b4a5b52bf34dca33edae5" date="1994-05-24 16:00:58"/>
 		<rom name="TOSTEXT.BIN" size="43778" crc="047c676e" md5="f242a1406d0ab0be8fb647665ebbc921" sha1="3c2439e17a098628d70142b8813a6f295763faab" date="1994-02-11 12:36:22"/>
 	</game>
+	<game name="Dark Sun - Shattered Lands (1993) (SSI).dosz">
+		<description>Dark Sun - Shattered Lands</description>
+		<year>1993</year>
+		<developer>SSI</developer>
+		<comment>
+			Installed v1.1 from Redump-verified CD-ROM: Dark Sun - Shattered Lands (USA)
+			DoDAT cannot build this directly from the disc image
+			Also matches with GOG
+		</comment>
+		<comment_dosc>Auto-starts, reduces game speed, enables direct mouse, config, MT-32 and General MIDI options</comment_dosc>
+		<link type="media">https://redump.info/disc/110714</link>
+		<link type="store">https://www.gog.com/en/game/dungeons_dragons_dark_sun_series</link>
+		<rom name="Dark Sun Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="DSUN/BACKSAVE.GFF" size="69" crc="1a99082f" md5="38015cd8a811e41af84b52634320fd0d" sha1="7fec0b3ca651bae67626a993ac208ed6d727eb33" date="1993-09-07 10:49:04"/>
+		<rom name="DSUN/CHARSAVE.GFF" size="69" crc="1a99082f" md5="38015cd8a811e41af84b52634320fd0d" sha1="7fec0b3ca651bae67626a993ac208ed6d727eb33" date="1993-09-07 10:49:04"/>
+		<rom name="DSUN/CINE.GFF" size="3088376" crc="5c523776" md5="fa735269c4e7ba3c4a0a024dbf298207" sha1="938fe4c3d72b661546c3e594141ecb9c5471c19a" date="1993-10-13 15:33:06"/>
+		<rom name="DSUN/DARKRUN.GFF" size="991" crc="17132753" md5="c493700dae57d2ce26d21e7bbefe8509" sha1="a47f86ec966adef1c7acbfd9e8b47bbfc3e34f03" date="1995-05-17 08:23:20"/>
+		<rom name="DSUN/DARKSAVE.GFF" size="991" crc="17132753" md5="c493700dae57d2ce26d21e7bbefe8509" sha1="a47f86ec966adef1c7acbfd9e8b47bbfc3e34f03" date="1993-09-07 10:49:04"/>
+		<rom name="DSUN/DSUN.EXE" size="611408" crc="29e8592c" md5="5634c8b6ba9f827cb9aae833f43460bc" sha1="81602c4e420a5454da0237ee6a7dfe40ac8d4c1a" date="1993-11-19 17:14:40"/>
+		<rom name="DSUN/GM1.BNK" size="23907" crc="6cfff3f4" md5="3e504e9356643dcab5675417da2134d6" sha1="7661125d585b7e4dead1e8bbfcb707f4317d9283" date="1993-03-31 12:32:50"/>
+		<rom name="DSUN/GM2.BNK" size="24273" crc="8a5f778f" md5="ad44f792b94e736274eab433b10881bf" sha1="e03c1667745bb8c78209ff756880b15b3371aa79" date="1993-03-31 12:32:52"/>
+		<rom name="DSUN/GPLDATA.GFF" size="1383098" crc="990b2246" md5="c497714f2521f5d46315209672602731" sha1="82699c028ab137454c707f0069ed4b07b34d79e0" date="1993-11-10 16:58:22"/>
+		<rom name="DSUN/GRAVIS.EXE" size="5878" crc="b7ec3546" md5="e1f70bd63d19b94cfc29b4419b635d6a" sha1="93fa30ede83e1241ed5860e470a2f729b8dca693" date="1993-08-25 11:37:24"/>
+		<rom name="DSUN/MIDITSR.EXE" size="25337" crc="94bd014b" md5="9031d1d5858ba1efeaaa0df41e097896" sha1="f34627bbb56a471b9dfa0777140c17fb0b52f22c" date="1993-06-09 01:40:04"/>
+		<rom name="DSUN/RESOURCE.GFF" size="3422240" crc="96dee119" md5="4b20c42d24efc6dc6f674ba3f12dd285" sha1="c348205e6d30877c2f0d3206eda7ff796497b517" date="1993-09-03 16:17:58"/>
+		<rom name="DSUN/RGN02.GFF" size="122820" crc="bceef954" md5="c13f2604efdc1b2e40ddc87c126daca6" sha1="01737d09812b72e75d21dc21c1775edcf0e2ff41" date="1993-09-04 15:18:38"/>
+		<rom name="DSUN/RGN03.GFF" size="111003" crc="fe39a2b1" md5="ae7f8d8ca8943fde5514c5797ef45ff1" sha1="e584762e0d7cd6a61b826c85d3e0519badaf9252" date="1993-09-04 15:19:40"/>
+		<rom name="DSUN/RGN04.GFF" size="98319" crc="b2886898" md5="43d9f6ebc083ec6d0cf55dfa33eeb346" sha1="b312d643fead4a0e18c8eeae888a7ae6459bd6bf" date="1993-09-04 15:20:36"/>
+		<rom name="DSUN/RGN05.GFF" size="110256" crc="58278e72" md5="dbe37269035e7600fffbbeade3b6ab23" sha1="1248242e69b643f02394dd6f8bda8c5c37d63de5" date="1993-09-04 15:21:26"/>
+		<rom name="DSUN/RGN06.GFF" size="110188" crc="1a69ec84" md5="f28cab6c5a608d41153a7b0e8b07842f" sha1="74fc524a0dab0fbe743e862ba153209a3b829ee1" date="1993-09-04 15:22:22"/>
+		<rom name="DSUN/RGN07.GFF" size="95201" crc="f6b182f5" md5="6de8b2e8e0c7ea42cf44b39909a3e4ae" sha1="d5a2c132bd18eb11e1a153a730ac9511b23dd469" date="1993-09-04 15:23:14"/>
+		<rom name="DSUN/RGN08.GFF" size="91351" crc="c3df5f6a" md5="9f30a1197303f21c1384fb1ab22056da" sha1="eda5f778d19b0906e0b12cac254bcd52ed9d18fa" date="1993-09-04 15:24:10"/>
+		<rom name="DSUN/RGN09.GFF" size="95494" crc="7f3447f5" md5="57e4e9a455c6b4a1bf5402fba041564f" sha1="6e5978b633a2bd3e047e70488c034b8ad84a40a7" date="1993-09-04 15:24:58"/>
+		<rom name="DSUN/RGN0A.GFF" size="88479" crc="9e74465b" md5="72a9d700311bf275d5235ba483850975" sha1="05af362b121b9f2a975afc5fe7166ee0ec7eaffb" date="1993-09-04 15:25:42"/>
+		<rom name="DSUN/RGN0B.GFF" size="96687" crc="afe9030a" md5="28f0a428b57eaf1634aafc44e06b18d1" sha1="2d56a3dc1b295de353615429664e16e6b8fd01ad" date="1993-09-04 15:27:06"/>
+		<rom name="DSUN/RGN0D.GFF" size="80278" crc="8bed7c67" md5="4265330bff2adb63deb5be2fab6e651b" sha1="b7d7ffd1822e0924a70ae44a01dde8126598544c" date="1993-09-04 15:28:10"/>
+		<rom name="DSUN/RGN0E.GFF" size="93216" crc="ed0f459c" md5="77f6881b6d2fc66c7f5e60c2b96efc18" sha1="4e80f595b7c2d1feef2292dd860b53bccea5a1cf" date="1993-09-04 15:29:26"/>
+		<rom name="DSUN/RGN0F.GFF" size="117647" crc="08eece7d" md5="f547f961cda7aea977f7d4191a0257db" sha1="65a49e8574a751f2eb4534b0e282a731f1ca7023" date="1993-09-04 15:30:12"/>
+		<rom name="DSUN/RGN12.GFF" size="101195" crc="1afc3494" md5="a2892c5ed99f78eafd40c8f00841fd8f" sha1="58770043e5d12206b5f15ee48b4bad2be803a9d3" date="1993-09-04 15:31:08"/>
+		<rom name="DSUN/RGN14.GFF" size="98351" crc="1f5eaace" md5="515d5ebf13469d7a6fd17cd319f3f2a9" sha1="0b38dba3c6ee583f57466f1a3a66a274f6f02c2a" date="1993-09-04 15:32:08"/>
+		<rom name="DSUN/RGN1A.GFF" size="96555" crc="974307ed" md5="614ac98ef1adcfcaca68729f876bc0d1" sha1="d8fb2b422080ca6939d59a5d3f69dcf952dcdb36" date="1993-09-04 15:33:22"/>
+		<rom name="DSUN/RGN1B.GFF" size="99084" crc="a8c86be9" md5="0d8d01a655a695448e254ac6c0579a8a" sha1="98199e9d0f8297cbfb53a02f268010e1196e1d3e" date="1993-09-04 15:34:12"/>
+		<rom name="DSUN/RGN1C.GFF" size="47502" crc="9b407ca2" md5="503fc806e9d608a595839ca22358a04f" sha1="21663ba5d00f08a9654892a40f96348a302e60a0" date="1993-09-04 15:35:20"/>
+		<rom name="DSUN/RGN1D.GFF" size="82254" crc="db47aa40" md5="028dfb92df0f6a750a399952e6d32f32" sha1="9f8db8739422d3e084e5341972b6611da3a61d38" date="1993-09-04 15:36:56"/>
+		<rom name="DSUN/RGN1E.GFF" size="62952" crc="462292d4" md5="dc560e43d6853af1d1f7cb3d4790b7d2" sha1="516fa8a079ecdf8c50dd217896f572f8dfe95a21" date="1993-09-04 15:38:22"/>
+		<rom name="DSUN/RGN1F.GFF" size="87484" crc="0e448eff" md5="948c38a6b7436feeeba1d8fbbdb86924" sha1="0b75375bcfe9c4a41e94ac9b761ffb752f3e7caa" date="1993-09-04 15:39:24"/>
+		<rom name="DSUN/RGN21.GFF" size="111267" crc="9013b851" md5="707b4a6ecf09a6b389dead405275e7b5" sha1="57dbdcd0c526d7525cee48eada05d48f4b0feb2b" date="1993-09-04 15:40:24"/>
+		<rom name="DSUN/RGN22.GFF" size="111363" crc="082999f8" md5="68ceafd32d480601ef170e31bc054d78" sha1="29b31eb8d79d2c70cfdaec811f41f4864a65a180" date="1993-09-04 15:41:10"/>
+		<rom name="DSUN/RGN23.GFF" size="96415" crc="bb587aa9" md5="c6278e5e184761e9b6a56ac9bc041bbf" sha1="cd624057265956edb6e97b1c8148e08eb80d6419" date="1993-09-04 15:42:02"/>
+		<rom name="DSUN/RGN26.GFF" size="112231" crc="99a7a0f6" md5="5f83b51f8537528fadc11542049696f3" sha1="788fabcf4b051cac5c86dfd9124b7e8d547ce3f6" date="1993-09-04 15:43:18"/>
+		<rom name="DSUN/RGN27.GFF" size="91413" crc="f1e15384" md5="4126510799211f0d23adf179924f0622" sha1="e9d0e3da23cc1372f65756433062e01659869c03" date="1993-09-04 15:45:52"/>
+		<rom name="DSUN/RGN28.GFF" size="97211" crc="d5b24548" md5="de458c3dc9daa2b83df3847d712b9828" sha1="b7dd59fb6855c1ae037e7ef2bed2e1dcc49d37d1" date="1993-09-04 15:48:06"/>
+		<rom name="DSUN/RGN29.GFF" size="101538" crc="7c3b09b9" md5="a7a1a0688b6a0a1e38bd8e96c7f91e8b" sha1="f9f490b963153e4b2319ec758f887493d88c6b8f" date="1993-09-04 15:50:32"/>
+		<rom name="DSUN/RGN2A.GFF" size="104520" crc="0f2d19dd" md5="0b3381c6883ca0c60f6b2d64793a0103" sha1="2fa99855ed15106afb8c9881e46a80138e9ed1d6" date="1993-09-04 15:51:24"/>
+		<rom name="DSUN/RGN2B.GFF" size="87277" crc="ecd08a1a" md5="b669a7e46fba150fdec984f421fc9a55" sha1="159e5564745c8d6184444aa676c12d0182708895" date="1993-09-04 15:52:34"/>
+		<rom name="DSUN/RGN2C.GFF" size="90549" crc="75022776" md5="8c1f1fb6a0736a821b6ee808177f70d6" sha1="aa6629f7d1acf64ed46cf79ce9e8b3ea421de371" date="1993-09-04 15:53:14"/>
+		<rom name="DSUN/RGN2D.GFF" size="82653" crc="49bde4ff" md5="6049e4181e0660b50e261bad9123aaee" sha1="478b19d753e6e4ed47f819b075004b89103f65a4" date="1993-09-04 15:54:40"/>
+		<rom name="DSUN/RGNFF.GFF" size="121940" crc="277f371a" md5="917d9f19b157879e5103c04f0501e71d" sha1="e9cfee4815e8a9b3ed855d7277d19508535471b7" date="1993-09-04 16:02:26"/>
+		<rom name="DSUN/SEGOBJEX.GFF" size="5067133" crc="5dd6f6d5" md5="a6c7cdf40cd7ee0b154680325c8de18f" sha1="12bcae8c441f2c0892fbc931ea2657b94abb44c2" date="1993-09-04 16:03:32"/>
+		<rom name="DSUN/SOUND_DS.EXE" size="43445" crc="f87fedfe" md5="b2644715a55e22e95fa9100972410ab0" sha1="2b0c76d9d1966b9814b7a1974696ebafed91afb5" date="1993-08-09 10:14:40"/>
+		<rom name="DSUN/SSI1.INI" size="6234" crc="cb283b53" md5="36942a27e6b8c2c6d09582251b391da5" sha1="3f71801bf3f7b16c40e7de53004056e0fbb7b671" date="1993-06-25 15:02:28"/>
+		<rom name="DSUN/STDPATCH.AD" size="4662" crc="01f2ec34" md5="0c616cc58f8a30f72574ce6b97f07137" sha1="8cc72ca854cb6c1e6d0ec223c47a95d4c85ab0c1" date="1993-08-25 17:15:24"/>
+		<rom name="DSUN/ULTRAMID.EXE" size="32766" crc="71b7d219" md5="86972fcbd9660bd24ea96a3a7c793072" sha1="ada90751187a62e0468294603b94c515cdab41e3" date="1993-08-27 09:50:42"/>
+		<rom name="DSUN/UM200.INI" size="6314" crc="7a625dfe" md5="de022430afb279683aff5e33b0fe3bf9" sha1="f55504edfe6df55a0bb60624daf8129c0164afa0" date="1993-08-23 14:48:48"/>
+		<rom name="DSUN/UM206.INI" size="6311" crc="edec5957" md5="cf38bf15d647948da0149f0f635789cb" sha1="2f1641178c837ea200a9ff4e50e7eb5e70f25ece" date="1993-08-23 14:48:02"/>
+		<rom name="DSUN/UM206A.INI" size="6311" crc="8f5b7133" md5="746036678bdb8f4efd850945be77674d" sha1="084d82e3d5462bd14569a4a59a1cea01c907a4a9" date="1993-08-23 14:47:02"/>
+	</game>
 	<game name="Deja Vu - A Nightmare Comes True (1987) (ICOM Simulations).dosz">
 		<description>Deja Vu - A Nightmare Comes True</description>
 		<comment>Extracted from unverified floppy dump, unknown if modified from original, DOS.YML fixes CGA machine to make keyboard input work</comment>
