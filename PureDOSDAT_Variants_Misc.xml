@@ -92,6 +92,76 @@
 		<rom name="ORDERFRM.TXT" size="4941" crc="0390135a" md5="55b37834d30ccd899172d8b6cac23cea" sha1="13bd3dae5f3c2c9cb01735c76315652fbb793afb" date="2005-10-21 10:53:34"/>
 		<rom name="VENDOR.DOC" size="7749" crc="0804a72f" md5="39cc15347549cd8b8adfcb0492c48beb" sha1="17efdfe2bb4425a0927714c25f48a1bc85036a35" date="2005-10-23 13:01:00"/>
 	</game>
+	<game name="Dark Sun - Wake of the Ravager (1994) (SSI) (Floppy Version).dosz">
+		<description>Dark Sun - Wake of the Ravager</description>
+		<year>1994</year>
+		<developer>SSI</developer>
+		<variant>Floppy Version</variant>
+		<comment>
+			Installed from floppies that match TDC#23: Dark Sun- Wake of the Ravager v1.1 (1995)(Mindscape, Inc., Strategic Simulations, Inc.) [IMA][1440k]
+			Also matches TDC#23: Dark Sun- Wake of the Ravager v1.1 (1995)(Mindscape, Inc., Strategic Simulations, Inc.) [Role-Playing (RPG)]
+			DoDAT cannot build this directly from the disk images
+		</comment>
+		<comment_dosc>Auto-starts, reduces game speed, enables direct mouse, copy protection removal, default CHARSAVE.GFF file, config, General MIDI and Character Transfer Utility options</comment_dosc>
+		<link type="media">https://puredos.github.io/dat-browser/?/Dark+Sun-+Wake+of+the+Ravager+v1.1+(1995)(Mindscape,+Inc.,+Strategic+Simulations,+Inc.)+%5BIMA%5D%5B1440k%5D</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Dark+Sun-+Wake+of+the+Ravager+v1.1+(1995)(Mindscape,+Inc.,+Strategic+Simulations,+Inc.)+%5BRole-Playing+(RPG)%5D</link>
+		<rom name="Dark Sun Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="RAVAGER/ADLIB.ADV" size="14775" crc="865e52d2" md5="ee12a7f90e99376ac3ca7526deccbd65" sha1="5223b1b79c06ca36a576d1827119d3b9122ed8db" date="1992-11-14 06:00:00"/>
+		<rom name="RAVAGER/ADLIBG.ADV" size="16257" crc="aacc891f" md5="8eb9d194484a94dbc1d4014333f4d141" sha1="b89e8cc677980a4c206515653f29f748c667cce3" date="1992-11-14 06:00:00"/>
+		<rom name="RAVAGER/ALGDIG.ADV" size="5770" crc="a7ecbb4b" md5="6b0b2bae9437e8451b306061750b1152" sha1="5e894a3bee42dc08d50240ec395f2b5eeafb84df" date="1992-11-14 06:00:00"/>
+		<rom name="RAVAGER/ARIADIG.ADV" size="5839" crc="d3ab30df" md5="09fb93221ad6cbfe14724cff380a52de" sha1="ddacd76800e312dbf1cd15da1a651cf9b1691bb1" date="1993-08-16 10:29:32"/>
+		<rom name="RAVAGER/ARIATSR.ADV" size="8792" crc="34a63801" md5="2753d83e7e4a805190896f2dd4b9c559" sha1="7bd54f7deb3e4f2f3bf429cf83639d57560c839f" date="1993-03-31 12:32:44"/>
+		<rom name="RAVAGER/CHARSAVE.GFF" size="3864" crc="9705e695" md5="dab2e5b6ca32f468ef50e1ae7f568374" sha1="ccad78c130c9523069e450f646f29f1f63358e34" date="1994-09-16 07:15:20"/>
+		<rom name="RAVAGER/CHARTRAN.EXE" size="24761" crc="30e09760" md5="98819c88973e347e2d7ec969be2d4764" sha1="c0aaf6cd0708ff0d4d2c3fd0de2c5d7d805f156d" date="1994-09-08 16:31:42"/>
+		<rom name="RAVAGER/DARKSAVE.GFF" size="991" crc="17132753" md5="c493700dae57d2ce26d21e7bbefe8509" sha1="a47f86ec966adef1c7acbfd9e8b47bbfc3e34f03" date="1994-06-15 14:04:56"/>
+		<rom name="RAVAGER/DJ.DAT" size="231" crc="ee35fea5" md5="b15f28b3e4bd7cb3ba54167242f7d2bd" sha1="3ec6bbbd78919b7f5195b6fd9814f6febdd7207a" date="1994-09-06 10:44:32"/>
+		<rom name="RAVAGER/DSUN.EXE" size="631632" crc="e22ae417" md5="96d1ef02d0edf9a056cea3ae8803d631" sha1="b76c200c0cd1531b41607fa582c867e667c0751c" date="1995-01-03 16:00:46"/>
+		<rom name="RAVAGER/GF1DIGI.ADV" size="5248" crc="d983a62b" md5="fc23b4668b3b85abe5bb54160ef5bd2f" sha1="bf7a78ce9bc6de73d9be0b4d2ee778abaf30e2ad" date="1993-08-14 06:40:16"/>
+		<rom name="RAVAGER/GF1MIDI.ADV" size="10816" crc="99039dff" md5="8b9db01bebb151a199c2c2d26b2fc0f5" sha1="07ff6cc906f5e9179c9895a53ea0a67cc1f9639c" date="1993-08-14 06:40:36"/>
+		<rom name="RAVAGER/GPLDATA.GFF" size="2191945" crc="b3e089bb" md5="ec57e84ffdff53d2ead0e152fb337c75" sha1="33a0d32e79d8a0fab0f60794c57310622de44cbb" date="1994-12-12 09:46:50"/>
+		<rom name="RAVAGER/ITEMS.BIN" size="936" crc="453ba79b" md5="c200a51b46998755c72f91fdc0581192" sha1="8dd5144fe761e3464a5cde6be27062d44f77a39f" date="1994-09-06 15:25:06"/>
+		<rom name="RAVAGER/MT32MPU.ADV" size="10707" crc="cfd00e6c" md5="0efb9fdfd0827889a34c757fe1df1dd3" sha1="cea64dbdc3c655f5677f892d7e5b33173903d4f4" date="1992-11-14 06:00:00"/>
+		<rom name="RAVAGER/OBJEX.GFF" size="6816516" crc="1f117f17" md5="1c0a82f65a94708dbeeb66164b2c20f9" sha1="10d609bf435fdca58ea4b52324201cc84ca2aceb" date="1994-12-06 09:58:14"/>
+		<rom name="RAVAGER/PASDIG.ADV" size="4361" crc="0edba24b" md5="6255a53d0bcfba49c7e17cc4ccd74108" sha1="66b0bcf31ca50723cc9bd9d1006df9b5ad2a96c1" date="1992-11-14 06:00:00"/>
+		<rom name="RAVAGER/PASFM.ADV" size="15242" crc="d73676bd" md5="62ed2af8cfc840103a65735093b614a6" sha1="a3be993fcc168ce0f07cf027daebaef11c3bcba1" date="1992-11-14 06:00:00"/>
+		<rom name="RAVAGER/PASOPL.ADV" size="16333" crc="527b4aef" md5="ce1373cfecf25fa46746edf657166310" sha1="4214b7dffacc5d61337ab00c9f08e42d727f484e" date="1992-11-14 06:00:00"/>
+		<rom name="RAVAGER/PCSPKR.ADV" size="8434" crc="092c07c9" md5="da7dbae2f8fb7eab93e752b83192f025" sha1="6b222ac2139362a4648645eb9bedb3a55aa4fd3b" date="1992-11-14 06:00:00"/>
+		<rom name="RAVAGER/RAVAGER.BAT" size="6" crc="891494cb" md5="df95ddf98469c7362b0a38b122fd7a1e" sha1="f587fc4c67a334e48de244f59de6f9773a6c1510" date="1994-09-15 18:14:42"/>
+		<rom name="RAVAGER/README.TXT" size="5057" crc="2ab77c64" md5="ca9c2d79fd31c78bc35edda4204a20a5" sha1="059c2411be8c617d85e35e740f154955627247c2" date="1994-12-14 17:28:38"/>
+		<rom name="RAVAGER/RESFLOP.GFF" size="5176594" crc="cf3f0e40" md5="947f8468c3fc4d9df184e23a00f403ad" sha1="2065bf56094aef2886d7a040e966464c8c8fac8d" date="1994-11-28 16:47:06"/>
+		<rom name="RAVAGER/RGN001.GFF" size="104769" crc="7f16016b" md5="90465c02ec1d23d47f44f51ea18028d3" sha1="f94b8cd48e6f39274f6995f09f9457a46b29fbf9" date="1994-09-08 16:53:48"/>
+		<rom name="RAVAGER/RGN032.GFF" size="64641" crc="7dad187c" md5="46e3b0b187a0cb257d2056fa5041b605" sha1="401520fb277dea9eb74a95b164b27f3468eac1ab" date="1994-09-08 16:54:12"/>
+		<rom name="RAVAGER/RGN033.GFF" size="89017" crc="f042ba49" md5="c0d24a1bf791154e202183aa9ca21240" sha1="db478bfeef84f0777343f8cf77d759dbe0c6f635" date="1994-09-08 16:54:40"/>
+		<rom name="RAVAGER/RGN034.GFF" size="71115" crc="e7942acf" md5="c4193e787f71fd9dd5e883bd72deb855" sha1="f92e2a4d1bec9f45963dfabb8ad115a0c7d14622" date="1994-09-08 16:55:12"/>
+		<rom name="RAVAGER/RGN036.GFF" size="44403" crc="64cc98f6" md5="22312ba64c409885b3ce345a78914f1e" sha1="c890f9227ca0d59d70df3435abf2228bdd3787e4" date="1994-09-08 16:55:30"/>
+		<rom name="RAVAGER/RGN037.GFF" size="91272" crc="14bd3169" md5="1ef2291f7acd7a33a28328632bb2cd60" sha1="2e023b29f153cfcd1239c2866340a2adecb126df" date="1994-09-08 16:55:50"/>
+		<rom name="RAVAGER/RGN038.GFF" size="46473" crc="40c202ce" md5="3f12ccdea6162d8d2f6a3ef16679f9e4" sha1="f827e3c6f86311be5e9a448c91ce1a5f59950763" date="1994-09-08 16:56:16"/>
+		<rom name="RAVAGER/RGN039.GFF" size="52701" crc="438fec63" md5="019744458cda27873dd2e61c1a702cb6" sha1="cde5d01d0c8446a74da71debd8806af58707f96b" date="1994-09-08 16:57:24"/>
+		<rom name="RAVAGER/RGN03A.GFF" size="96954" crc="b127aa5a" md5="d64ec589d551c23452118aa3ce255069" sha1="38b824d5deba56bdcb7aec36ff9fc54e769a9469" date="1994-09-08 16:58:18"/>
+		<rom name="RAVAGER/RGN03B.GFF" size="86323" crc="1ba60f44" md5="16d8755057e4507e27857027738b136d" sha1="fbd177b021a436f3129783ebb6bb5c7310c5af96" date="1994-09-08 16:59:12"/>
+		<rom name="RAVAGER/RGN03C.GFF" size="73480" crc="27bed93f" md5="57526215d6797ad5d4eef23fbacd8b80" sha1="fe1ada35c113b73c0f7cecad73cd721662e84201" date="1994-09-08 16:59:44"/>
+		<rom name="RAVAGER/RGN03D.GFF" size="96122" crc="092f6651" md5="0cc42fcca5860692a422692636d02375" sha1="aaf36c39fa740c28e9b973b57bc254076e4e3a26" date="1994-09-08 17:00:18"/>
+		<rom name="RAVAGER/RGN03E.GFF" size="84164" crc="9a666928" md5="b51915c2629b70a4974b189d2544b23e" sha1="29007f1d43d18f7db6e2c3cb599a46f73716c925" date="1994-09-08 17:01:10"/>
+		<rom name="RAVAGER/RGN03F.GFF" size="101028" crc="85f14640" md5="b4cc875454fafe7239aa344e0bedda8e" sha1="2571e2d8946719ad09cb2ee9f1d3ec12df019b65" date="1994-09-08 17:02:30"/>
+		<rom name="RAVAGER/RGN041.GFF" size="119451" crc="25dd9052" md5="5a9b8fe199988e385b0b35b5d8742082" sha1="097c4346003091bf80379ebddd01cca62ed82c8b" date="1994-09-08 17:03:42"/>
+		<rom name="RAVAGER/RGN042.GFF" size="98884" crc="4c9f25cd" md5="0922798f8b451bb8b8ac1f8810edb013" sha1="c9dff9cada2e2481ad9a943c8495f6905b3dad55" date="1994-09-08 17:05:08"/>
+		<rom name="RAVAGER/RGN043.GFF" size="73198" crc="72684ab7" md5="6042c7c7e6a8ad11d778177a702c6a05" sha1="d1628fa6df0f07b45f45044e8ee5b0f1c6653993" date="1994-09-08 17:06:56"/>
+		<rom name="RAVAGER/RGN044.GFF" size="103129" crc="f8dbcca7" md5="3352eacac31b0dace25249b9d5bf1113" sha1="778e9a5394c4f0e74d55c6cb5dbb817a0bf202c2" date="1994-09-08 17:07:52"/>
+		<rom name="RAVAGER/RGN045.GFF" size="94243" crc="4d98d82a" md5="a494aef9fde191e4c430cadb7e9e0f47" sha1="3c763cce7e76cf15ebe34d5c515bdf8ba46c7bb5" date="1994-09-08 17:09:24"/>
+		<rom name="RAVAGER/RGN0FF.GFF" size="33987" crc="374c9dce" md5="cc24495e89cbdb7f9e1e0a449517c509" sha1="5c24596d32e0d0d24ee8c7622a90407b24629ecb" date="1994-09-08 17:15:28"/>
+		<rom name="RAVAGER/SBAWE32.ADV" size="39859" crc="f6139996" md5="9b9a67f134b8ba80633c409adc7428e7" sha1="4cc4616b0c5395e3f458bceeed1a495f856dd834" date="1994-02-17 01:00:08"/>
+		<rom name="RAVAGER/SBDIG.ADV" size="4667" crc="0214818d" md5="8d614686f4d89c7a95744ee5066c320f" sha1="c2461e01415300289438438a6ac3b78d4ebc53cf" date="1992-11-14 06:00:00"/>
+		<rom name="RAVAGER/SBFM.ADV" size="14825" crc="aa4f129e" md5="0ad686a94882b7bde4b67bfa99ea12d6" sha1="7bc12471fb8f15470bba97bddad4ff5859c36d2d" date="1992-11-14 06:00:00"/>
+		<rom name="RAVAGER/SBP1FM.ADV" size="15235" crc="8abc7aa2" md5="a310dafb89c600323de65a41eee47117" sha1="f2b4485d23da6b773fccd9cb92d8e8998f85bce2" date="1992-11-14 06:00:00"/>
+		<rom name="RAVAGER/SBP2FM.ADV" size="16357" crc="87e2ad7b" md5="b079454d7500f46b60733dd0b264d01e" sha1="6d3e5d5dc59e398855ddec7fa90ecc8b53ad038e" date="1992-11-14 06:00:00"/>
+		<rom name="RAVAGER/SBPDIG.ADV" size="4946" crc="e08717b1" md5="295b502e0d9562e73dff30811519bdd0" sha1="9c134e46ce44b20c884acf19d0d48513e73bdbfe" date="1992-11-14 06:00:00"/>
+		<rom name="RAVAGER/SOUND.BAT" size="4873" crc="93b40564" md5="8822de0f4f19ff60a29a72832950dcec" sha1="f0e4f9d580cdf72e64ca724b87f38eba37e87eae" date="1993-08-25 15:46:22"/>
+		<rom name="RAVAGER/SOUND.EXE" size="204593" crc="05f385ea" md5="6ed110bc4736bc775f85f17d6622db85" sha1="8f2cbf945153cc2aa10ded610b874695b6677ecd" date="1994-04-14 09:58:24"/>
+		<rom name="RAVAGER/SOUND.INI" size="62280" crc="e15a04f7" md5="dc420f20cbe58877b60c26f2dff7c233" sha1="09a931b4680841a6f52537ffafd40f8d87b6a703" date="1994-12-15 10:28:58"/>
+		<rom name="RAVAGER/STDPATCH.AD" size="4662" crc="23f02bdf" md5="75459a7c37a3fa330670de833f5396d6" sha1="0d6ba4d5b9d669296b4bddf4158cef95a53b372e" date="1993-04-20 11:54:48"/>
+		<rom name="RAVAGER/SVIEW.EXE" size="13363" crc="3db80c84" md5="d325bede6edbe023a6641d8fe068a5b2" sha1="125a21ca2290ea0d30a7e2ac685d3cb2530573c7" date="1995-01-03 16:46:20"/>
+		<rom name="RAVAGER/TANDY.ADV" size="8746" crc="ee082d8d" md5="c931fdddfa05589df627cd1d029ea6da" sha1="dc15a1d0b6e4f609a6eca1a9e8a87f758f78ce6c" date="1992-11-14 06:00:00"/>
+	</game>
 	<game name="Doom (1993) (id Software) (Shareware).dosz">
 		<description>Doom</description>
 		<year>1993</year>
