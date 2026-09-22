@@ -3900,11 +3900,16 @@
 	</game>
 	<game name="Buck Rogers - Matrix Cubed (1992) (SSI).dosz">
 		<description>Buck Rogers - Matrix Cubed</description>
-		<comment>Installed from English v1.0 5.25" 1.2 MB floppy</comment>
-		<comment_dosc>Copy protection patch, pre-configured, cpu speed limit, auto start, MT-32 launch configuration</comment_dosc>
 		<year>1992</year>
 		<developer>SSI</developer>
+		<comment>
+			Installed from English v1.0 5.25" 1.2 MB floppy matching with TGOD ID: 2839
+			Also matches with TDC#23 entry: Buck Rogers- Matrix Cubed (1992)(Strategic Simulations, Inc.) [Adventure, Role-Playing (RPG)]
+			DoDAT cannot build this directly from the disk image
+		</comment>
+		<comment_dosc>Copy protection patch, pre-configured, cpu speed limit, direct mouse enabled, auto start, MT-32 launch configuration</comment_dosc>
 		<link type="media">https://www.goodolddays.net/en/diskimages/?id=2839</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Buck+Rogers-+Matrix+Cubed+(1992)(Strategic+Simulations,+Inc.)+%5BAdventure,+Role-Playing+(RPG)%5D</link>
 		<rom name="Buck Rogers Series (1990) (SSI).savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="MATRIX/8X8D0.DAX" size="4571" crc="aebace2b" md5="cd6df12633c70b40f71dd8a6c75c6b60" sha1="66f72b09760c505df463b0a39415186f4adbdaab" date="1990-09-14 12:35:50"/>
 		<rom name="MATRIX/8X8D1.DAX" size="168896" crc="10b4333e" md5="f8a82c374d58778d9888621f4b52661c" sha1="2ad493c038da2e88023f8578219c06e45922c007" date="1992-01-08 12:31:26"/>
