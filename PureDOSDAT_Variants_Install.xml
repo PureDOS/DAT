@@ -487,25 +487,36 @@
 	</game>
 	<game name="King's Quest - Collector's Edition (1994) (Sierra On-Line) (Installation) (Disc 1).dosz">
 		<description>King's Quest - Collector's Edition</description>
-		<comment>Redump-verified CD-ROM - King's Quest - Collector's Edition (USA) (En,Fr,De) (Disc 1) - Used to install King's Quest I, II, III, IV, and V.</comment>
 		<year>1994</year>
 		<developer>Sierra On-Line, Inc.</developer>
 		<variant>Installation</variant>
-		<link type="media">http://redump.org/disc/14878/</link>
+		<comment>Redump-verified CD-ROM - King's Quest - Collector's Edition (USA) (En,Fr,De) (Disc 1) - Used to install King's Quest I, II, III, IV, and V.</comment>
+		<link type="media">https://redump.info/disc/14878</link>
 		<rom name="King's Quest - Collector's Edition (USA) (En,Fr,De) (Disc 1).chd" size="396987264" crc="e98e5f38" md5="f9fc60519b0fb3092d22be78f1636368" sha1="a7f93f1074f8f0222c14e6ead9e6f324cb7aac15">
 			<track number="1" type="MODE1_RAW" frames="162123" pregap="0" duration="36:01:48" size="381313296" crc="c7b81d47" md5="2dec0e3d8978f2dfbf5a7497ac2917aa" sha1="ef86121401ded048b7cb3bb74d2ae499ab1aca18" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
 	<game name="King's Quest - Collector's Edition (1994) (Sierra On-Line) (Installation) (Disc 2).dosz">
 		<description>King's Quest - Collector's Edition</description>
-		<comment>Redump-verified CD-ROM - King's Quest - Collector's Edition (USA) (Disc 2) - Used to install King's Quest VI.</comment>
 		<year>1994</year>
 		<developer>Sierra On-Line, Inc.</developer>
 		<variant>Installation</variant>
-		<link type="media">http://redump.org/disc/81021/</link>
+		<comment>Redump-verified CD-ROM - King's Quest - Collector's Edition (USA) (Disc 2) - Used to install King's Quest VI.</comment>
+		<link type="media">https://redump.info/disc/81021</link>
 		<rom name="King's Quest - Collector's Edition (USA) (Disc 2).chd" size="617914368" crc="a38f1cb7" md5="4b86a428438c050571928b4c4198f4af" sha1="0394d11d89284723f45eb11fa3bb9dd515acbc47">
 			<track number="1" type="MODE1_RAW" frames="234645" pregap="0" duration="52:08:45" size="551885040" crc="b16b325a" md5="fb17363152424a733ccaee87b390ced6" sha1="d46f2698261575a974b9902a712ac6a8c977d3cf" in_zeros="1" out_zeros="0"/>
 			<track number="2" type="AUDIO" frames="18165" pregap="150" duration="04:02:15" size="42724080" crc="75d7a25e" md5="0be45415d82b9b9204539742278dd6f1" sha1="b93bff3ebd76b65f727801b0a82198123c9215a1" in_zeros="391620" out_zeros="701112"/>
+		</rom>
+	</game>
+	<game name="King's Quest VII - The Princeless Bride (1994) (Sierra On-Line) (Installation).dosz">
+		<description>King's Quest VII - The Princeless Bride</description>
+		<year>1994</year>
+		<developer>Sierra On-Line</developer>
+		<variant>Installation</variant>
+		<link type="media">https://redump.info/disc/11214</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Roberta+Williams%27+King%27s+Quest+VII-+The+Princeless+Bride+v2.00b+(1995)(Sierra+On-Line,+Inc.)+%5Bbin-cue%5D</link>
+		<rom name="King's Quest VII - The Princeless Bride (USA) (v2.00b).chd" size="723413376" crc="c75959ba" md5="4fe9302d682a9f8798432a3a1432a2b2" sha1="343c39fe395b06e4c233d1f08a53e4b04dc23467">
+			<track number="1" type="MODE1_RAW" frames="295446" duration="65:39:21" size="694888992" crc="91338b36" md5="988290e2bd03771e2f24b67ae705160d" sha1="91d2e6a0681cd4e63ea037065c4a2bdf7a8a0d7a"/>
 		</rom>
 	</game>
 	<game name="Maniac Mansion (1988) (Lucasfilm Games) (Installation).dosz">
@@ -657,6 +668,29 @@
 			<track number="9" type="AUDIO" frames="3014" pregap="150" duration="00:40:14" size="7088928" crc="c08d60e9" md5="7fd9e8aed2e9c37bc071e81cef56b32f" sha1="85054ccfedae4e695e6e14bee888c4846182168d" in_zeros="0" out_zeros="0"/>
 			<track number="10" type="AUDIO" frames="734" pregap="150" duration="00:09:59" size="1726368" crc="300e8553" md5="77894b232602d3cdd65573a8144ea0b9" sha1="fa08cdc1e90e92098a686812a4db9a6cec35e7c5" in_zeros="0" out_zeros="527643"/>
 		</rom>
+	</game>
+	<game name="Police Quest 1 - In Pursuit of the Death Angel (1987) (Sierra On-Line) (Installation).dosz">
+		<description>Police Quest 1 - In Pursuit of the Death Angel</description>
+		<year>1987</year>
+		<developer>Sierra On-Line</developer>
+		<variant>Installation</variant>
+		<comment>Floppy disks matching with TDC#23 entry: Police Quest- In Pursuit of the Death Angel v2.0g (1987)(Sierra On-Line, Inc.) [IMA][720k][!]</comment>
+		<link type="media">https://puredos.github.io/dat-browser/?/Police+Quest-+In+Pursuit+of+the+Death+Angel+v2.0g+(1987)(Sierra+On-Line,+Inc.)+%5BIMA%5D%5B720k%5D%5B!%5D</link>
+		<rom name="Disk1.ima" size="737280" crc="2c6bdedf" md5="74ceb2a6e36790bd2cbcc95dbc5c0b2c" sha1="1e6bb3a007c215e02a336efe4d2a9cb9f4f17936"/>
+		<rom name="Disk2.ima" size="737280" crc="37274108" md5="e6a512509d3d7ad396192828e22099b9" sha1="251d61a70ae5c5b68d8e56fd7f176b5c84712a41"/>
+	</game>
+	<game name="Police Quest 1 - In Pursuit of the Death Angel (1992) (Sierra On-Line) (Installation).dosz">
+		<description>Police Quest 1 - In Pursuit of the Death Angel</description>
+		<year>1992</year>
+		<developer>Sierra On-Line</developer>
+		<variant>Installation</variant>
+		<comment>Floppy disks matching with TDC#23 entry: Police Quest- In Pursuit of the Death Angel v2.000 (1992)(Sierra On-Line, Inc.) [IMA][1440k][!]</comment>
+		<link type="media">https://puredos.github.io/dat-browser/?/Police+Quest-+In+Pursuit+of+the+Death+Angel+v2.000+(1992)(Sierra+On-Line,+Inc.)+%5BIMA%5D%5B1440k%5D%5B!%5D</link>
+		<rom name="Disk2.ima" size="1474560" crc="23b75b13" md5="e8b0c0d529487ec1ffd847f67fc5a66a" sha1="0b24570f0ba52429de3ecce02b2a8cae8a54e4b4"/>
+		<rom name="Disk3.ima" size="1474560" crc="3ccabfdd" md5="b1dbe43fc3943178b84c21a438c4e5b5" sha1="8aed555bf0cdb420e978e55ac40f458ad3dcfa38"/>
+		<rom name="Disk4.ima" size="1474560" crc="bd0972a9" md5="420a46d921c00012eb3c2e5cea5e167c" sha1="ceeaac5e05f1a29489789c67ec17680d7cda34f6"/>
+		<rom name="Disk5.ima" size="1474560" crc="2d5eedea" md5="95ef7401d5681e0e2b5ee24df8fc402b" sha1="effb9ca42378507ac7880882d927460b8ae61249"/>
+		<rom name="Startup.ima" size="1474560" crc="9219bbe8" md5="2fbd9dbfcbbc402b0fd2e9caa4f6aa73" sha1="59fe0fed82c6f97150e559ab6ab7e3d46137bb95"/>
 	</game>
 	<game name="Prince of Persia (1990) (Broderbund Software) (Installation).dosz">
 		<description>Prince of Persia</description>
@@ -1008,6 +1042,28 @@
 		<variant>Installation</variant>
 		<rom name="INSTALL.EXE" size="295161" crc="a2a13805" md5="49c78250644e06b5335205076b396dc3" sha1="98d918fa5dfed882eb6e6f780cb7a88b0aa6f0e6" date="1992-10-20 02:06:54"/>
 	</game>
+	<game name="Space Quest - Collection Series (1997) (Sierra On-Line) (Installation) (Disc 1).dosz">
+		<description>Space Quest - Collection Series</description>
+		<year>1997</year>
+		<developer>Sierra On-Line</developer>
+		<variant>Installation</variant>
+		<comment>Contains Space Quest I to V</comment>
+		<link type="media">https://redump.info/disc/14773</link>
+		<rom name="Space Quest - Collection Series (USA, Israel) (Disc 1).chd" size="749440512" crc="28c1c5dd" md5="e1e457238c943d6debeaf1bed73d1ad1" sha1="540dfa3db6966cfd5a761cadb93366acdf297ce4">
+			<track number="1" type="MODE1_RAW" frames="306080" duration="68:01:05" size="719900160" crc="b285cd34" md5="ef38cd9ed8ddbffd3e0910611a94ecaf" sha1="4c2908ff1aa23c272879d5f4aece0c1bf5102011"/>
+		</rom>
+	</game>
+	<game name="Space Quest - Collection Series (1997) (Sierra On-Line) (Installation) (Disc 2).dosz">
+		<description>Space Quest - Collection Series</description>
+		<year>1997</year>
+		<developer>Sierra On-Line</developer>
+		<variant>Installation</variant>
+		<comment>Contains Space Quest VI</comment>
+		<link type="media">https://redump.info/disc/14774</link>
+		<rom name="Space Quest - Collection Series (USA, Israel) (Disc 2).chd" size="775310976" crc="ee97c14d" md5="aeaceb6d4f8850a2119b46ef090cfa62" sha1="2cc4ebed5b42e5e5ad4cf6d76060fa792b0b354b">
+			<track number="1" type="MODE1_RAW" frames="316638" duration="70:21:63" size="744732576" crc="93112404" md5="38d12ac139d7dcf84152fc8e9b4df12f" sha1="418a1c9c3013ea9783cca8bc96534bb8fe65b874"/>
+		</rom>
+	</game>
 	<game name="Star Control (1990) (Toys for Bob) (Installation, CD-ROM).dosz">
 		<description>Star Control</description>
 		<comment>Redump-verified CD-ROM of Star Control Collection (USA, Europe)</comment>
@@ -1163,6 +1219,17 @@
 		<variant>Installation</variant>
 		<rom name="Ultima Underworld I &amp; II (USA).chd" size="28631808" crc="b623c123" md5="ffbb8fee2a4534d292d288defed0e8bd" sha1="efa768d6a39c0d02935681cf5e90ba4b3103d4be">
 			<track number="1" type="MODE1_RAW" frames="11688" pregap="0" duration="02:35:63" size="27490176" crc="332bdcaf" md5="c6cbde8bf4fa30599502bd582a885207" sha1="daf7912c7185937cf56f642bce474ffd99e6b7b5" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
+	<game name="Ultima VIII - Pagan (1994) (Origin Systems) (Installation).dosz">
+		<description>Ultima VIII - Pagan</description>
+		<year>1994</year>
+		<developer>Origin Systems</developer>
+		<variant>Installation</variant>
+		<comment>v2.12 and Speech Pack. Redump-verified CD-ROM: Ultima VIII - Pagan (USA) (En,Fr,De) (Rerelease)</comment>
+		<link type="media">https://redump.info/disc/68915</link>
+		<rom name="Ultima VIII - Pagan (USA) (En,Fr,De) (Rerelease).chd" size="63295488" crc="72fa07b5" md5="9fe610a9028713108cbdce8c9e34631a" sha1="bea069f7d1991b53d7255e0f798d0adab4db74df">
+			<track number="1" type="MODE1_RAW" frames="25841" pregap="0" duration="05:44:41" size="60778032" crc="8e2baf3c" md5="b73d72c062a5b4f9eddf74c075294d9c" sha1="4fb8e928aa8ba84b5de4dd89e151f8438bddf4fd"/>
 		</rom>
 	</game>
 	<game name="Ultimate Doom, The (1995) (id Software) (Installation).dosz">
