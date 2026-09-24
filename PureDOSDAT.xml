@@ -3815,11 +3815,16 @@
 	</game>
 	<game name="Buck Rogers - Countdown to Doomsday (1990) (SSI).dosz">
 		<description>Buck Rogers - Countdown to Doomsday</description>
-		<comment>Installed from English v1.0 5.25" 360 KB x 3 floppies</comment>
-		<comment_dosc>Copy protection patch, pre-configured, cpu speed limit, auto start</comment_dosc>
 		<year>1990</year>
 		<developer>SSI</developer>
+		<comment>
+			Installed from English v1.0 5.25" 360 KB x 3 floppies matching with TGOD ID: 159
+			Disks also match with TDC#23 entry: Buck Rogers- Countdown to Doomsday v1.00 (1990)(Strategic Simulations, Inc.) [IMA][360k][!]
+			DoDAT can build this directly from the disk images
+		</comment>
+		<comment_dosc>Copy protection patch, pre-configured, cpu speed limit, direct mouse enabled, auto start</comment_dosc>
 		<link type="media">https://www.goodolddays.net/en/diskimages/?id=159</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Buck+Rogers-+Countdown+to+Doomsday+v1.00+(1990)(Strategic+Simulations,+Inc.)+%5BIMA%5D%5B360k%5D%5B!%5D</link>
 		<rom name="Buck Rogers Series (1990) (SSI).savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="BUCK/8X8D0.DAX" size="4571" crc="aebace2b" md5="cd6df12633c70b40f71dd8a6c75c6b60" sha1="66f72b09760c505df463b0a39415186f4adbdaab" date="1990-09-14 12:35:50"/>
 		<rom name="BUCK/8X8D1.DAX" size="16016" crc="3c01a956" md5="0b84869265e30ce6b8ee30c56d9bb950" sha1="4f430657c64b68af34a2cc469eb29cf981c8fa65" date="1990-09-13 11:40:02"/>
@@ -3881,6 +3886,19 @@
 		<rom name="BUCK/PIC7.DAX" size="15256" crc="a3cc30a9" md5="83f79a2f6c1aca6f8e25bc11fad96e35" sha1="e80de3d70a3d3241ee21c457c8506d09577528be" date="1990-09-15 08:37:20"/>
 		<rom name="BUCK/PIC8.DAX" size="20238" crc="079342d3" md5="67477975219f9dbad3acc3b5745379b1" sha1="dba1cba3add8d62aca76bca66930a5bb111a784c" date="1990-09-15 08:37:20"/>
 		<rom name="BUCK/PIC9.DAX" size="7802" crc="1a9e6e45" md5="9b1db5b76513c9cc256528114e35a463" sha1="c9e321ffec001da2728defbab955011e9e93819e" date="1990-09-15 08:37:22"/>
+		<rom name="BUCK/SAVE/CHRDATA1.SAV" size="259" crc="4bcce784" md5="a96aaae167eaa166b1516ea7c8447a76" sha1="4f527764350c915896d3331aa2edd200f585ee5f" date="1990-09-15 11:28:50"/>
+		<rom name="BUCK/SAVE/CHRDATA1.STF" size="124" crc="8af0c96c" md5="77403d0cf8d3b581224547f77423b80b" sha1="3fb1ada9bb1d0b5495b75bc860a4793c7aa2fbc2" date="1990-09-15 11:28:52"/>
+		<rom name="BUCK/SAVE/CHRDATA2.SAV" size="259" crc="271f5b37" md5="7ac6d5257e99576fe0adb031b05a71c5" sha1="e7c603b28ed7cc88033080deab378f7f25b7f166" date="1990-09-15 11:28:52"/>
+		<rom name="BUCK/SAVE/CHRDATA2.STF" size="124" crc="7b234a6c" md5="102b1c231a3317068d2d3237f0dd1a46" sha1="3cad31f961bb4c8727d4afd3b3e4c5167b2918df" date="1990-09-15 11:28:52"/>
+		<rom name="BUCK/SAVE/CHRDATA3.SAV" size="259" crc="b135148c" md5="1f3d2ac3049d31ed86edcf60b1ba39ad" sha1="f73a33044dc7f41be34226051e415cb7b0ed53cf" date="1990-09-15 11:28:54"/>
+		<rom name="BUCK/SAVE/CHRDATA3.STF" size="124" crc="630ce7d7" md5="ee76696c5422f73099bb707590dab51f" sha1="11ded501342a65d2e09f6910c650b99c41a257ae" date="1990-09-15 11:28:54"/>
+		<rom name="BUCK/SAVE/CHRDATA4.SAV" size="259" crc="078907a3" md5="220748f72d5ffd8808503d94fe085819" sha1="87d42d42a5bc01731f935adfd431cd25b0869ffc" date="1990-09-15 11:28:56"/>
+		<rom name="BUCK/SAVE/CHRDATA4.STF" size="124" crc="3a0f8c6c" md5="346738fadb799ab2bd1af2c34430e941" sha1="550cd4fbfe13ee90bca679e5eaf71af037a5d9a8" date="1990-09-15 11:28:56"/>
+		<rom name="BUCK/SAVE/CHRDATA5.SAV" size="259" crc="162e0098" md5="c4d1389803fbeef116d3cd0b75d6a978" sha1="1980752d61828177e78dcce960a36b24e8bcf2e9" date="1990-09-15 11:28:58"/>
+		<rom name="BUCK/SAVE/CHRDATA5.STF" size="124" crc="4856c552" md5="f4e90d42f20c781c6e20e2a1c5bf0b57" sha1="b3cbc40274b265fbb8cfbe093e585c17dc9fd6c3" date="1990-09-15 11:28:58"/>
+		<rom name="BUCK/SAVE/CHRDATA6.SAV" size="259" crc="0d477fbf" md5="f745dfb7433bd8fac59d9e10ef4f15e4" sha1="f7ac402eea51683dfce438804feb5b3ccce18173" date="1990-09-15 11:28:58"/>
+		<rom name="BUCK/SAVE/CHRDATA6.STF" size="124" crc="5d36fa10" md5="ba98ee48436ee43ee7c85e427e301e77" sha1="0253dcff8a8a828fa6677dfdc994a11dc01d4572" date="1990-09-15 11:29:00"/>
+		<rom name="BUCK/SAVE/SAVGAMA.DAT" size="2901" crc="68fa39fa" md5="9118257830be280aa15cac50a6734f70" sha1="61536ee057c4cffdc5aa5b9edd8c5230d378cb0a" date="1990-09-15 11:28:50"/>
 		<rom name="BUCK/SHIPS.DAX" size="50761" crc="7a86d559" md5="1dec5ff03993b6db4172f021bde1e466" sha1="a689f384b04ee4cf4e0a4c290fbff6b2424765c6" date="1990-09-14 21:55:30"/>
 		<rom name="BUCK/SPRIT1.DAX" size="2333" crc="fe82697e" md5="184ff809efcf9fbd4680c8469989d127" sha1="d72dc82e705648b8d1a92b7c8f054bcdf55da30e" date="1990-09-14 12:25:42"/>
 		<rom name="BUCK/SPRIT2.DAX" size="9087" crc="260c8c02" md5="3599a1cb361c214c56bf9ca8839708d8" sha1="834a94b90b65dbe852b58dc5edaf522511fbda35" date="1990-09-14 12:25:42"/>
