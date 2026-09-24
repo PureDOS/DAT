@@ -15800,6 +15800,61 @@
 		<rom name="ROGUE/PAK0.PAK" size="37875279" crc="38b70ce8" md5="c38a4e04219c317cd1b02f386bdfe11f" sha1="78df8ce771d1bef5eb9da3d51c7628b11b4ae2c8" date="1997-03-11 14:35:30"/>
 		<rom name="ROGUE/TAG.BAT" size="49" crc="6200c184" md5="76e402dbe29b4ef690d1782317722a9a" sha1="555bdf58d60674d735fffe9a14d5610f9cbe89b5" date="1997-03-07 15:38:20"/>
 	</game>
+	<game name="Ravenloft - Stone Prophet (1995) (DreamForge Intertainment).dosz">
+		<description>Ravenloft - Stone Prophet</description>
+		<year>1995</year>
+		<developer>DreamForge Intertainment</developer>
+		<comment>
+			Installed using Redump-verified CD-ROM: Advanced Dungeons &amp; Dragons - Masterpiece Collection (USA) (Disc 4) (Stone Prophet)
+			CD also matches with TDC#23 entry: Advanced Dungeons &amp; Dragons Masterpiece Collection (1996)(Mindscape, Inc., Strategic Simulations, Inc.) [bin-cue]
+			Applied v1.1 patch
+			DoDAT cannot build this directly from the disc image + patch files. The patch must be installed
+		</comment>
+		<comment_dosc>Auto-starts, enables direct mouse, has config and General MIDI option</comment_dosc>
+		<link type="media">https://redump.info/disc/90627</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Advanced+Dungeons+&amp;+Dragons+Masterpiece+Collection+(1996)(Mindscape,+Inc.,+Strategic+Simulations,+Inc.)+%5Bbin-cue%5D</link>
+		<link type="patch">https://www.patches-scrolls.de/patch/3353/7/49013/download</link>
+		<rom name="CD/Advanced Dungeons &amp; Dragons - Masterpiece Collection (USA) (Disc 4) (Stone Prophet).chd" size="522638208" crc="16b299be" md5="c2ace99e20977c6c6d0a5a500e2b1e4d" sha1="c83866a5e9af3661e85111df2be2736280ec11da">
+			<track number="1" type="MODE1_RAW" frames="213446" duration="47:25:71" size="502024992" crc="6be3bd11" md5="814e63e34a5d04a1d3f8fcdbb0e148ce" sha1="c828936cdcf052f6122a60a2c63ba48928359754"/>
+		</rom>
+		<rom name="PROPHET/A32ADLIB.DLL" size="19968" crc="5b41b585" md5="a7049ca4178b16ab96833eb48ef40e2c" sha1="9be73ad1b90b711fbbddbfe935aa928ab2666363" date="1994-03-04 15:28:46"/>
+		<rom name="PROPHET/A32ALGDG.DLL" size="10752" crc="d8cff81b" md5="798c5ff9c059d30026e6555fb4aece9c" sha1="efc912c904ee9a238a047f0d08a42596f70c5261" date="1994-03-04 15:28:46"/>
+		<rom name="PROPHET/A32ALGFM.DLL" size="24576" crc="9c6a0bad" md5="f195976309dfd851d5c728216fe46a0d" sha1="a47527817afdfe1cf7594915d10a1d1be54e9133" date="1994-03-04 15:28:46"/>
+		<rom name="PROPHET/A32ARDG.DLL" size="16384" crc="90faa78f" md5="ef4d5b0de7deee49ee5fbbb5129eadda" sha1="e7205543ef48e54d2e6591bdcf11408d3ebf14ff" date="1993-09-20 15:20:18"/>
+		<rom name="PROPHET/A32ARXM.DLL" size="53760" crc="e486b7e0" md5="35de9141d6f1179c16de71beb5429cf3" sha1="3a151f38758d8050e881cd504c238e5bdd41090c" date="1993-09-20 15:20:08"/>
+		<rom name="PROPHET/A32GFX.DLL" size="45056" crc="5b8bf0fa" md5="3c684840829b7b0e1bac1e45cedaa78d" sha1="c8dede3e37802760484b1b14cc071f2562747ecc" date="1994-02-17 00:05:00"/>
+		<rom name="PROPHET/A32MT32.DLL" size="14336" crc="6e92c2a7" md5="7a19a54a71d65085e454467d79c7c4de" sha1="ff2aa30421a7bf11b910add4008a34056c1d55f0" date="1994-03-04 15:28:46"/>
+		<rom name="PROPHET/A32PASDG.DLL" size="10752" crc="3ada14b5" md5="f40d25283400a69ecf6e464e6b221c61" sha1="86cbf5dc8b3c2cd4ea42adca5d7eaefc473cdbe2" date="1994-03-04 15:28:46"/>
+		<rom name="PROPHET/A32PASFM.DLL" size="19968" crc="78e072b6" md5="aa5d30f685e01db76357778c3f7f7cc6" sha1="02fcdce72d55af640daf60e14fe1984ba9665b11" date="1994-03-04 15:28:46"/>
+		<rom name="PROPHET/A32PASOP.DLL" size="24576" crc="3ce71c6e" md5="d49cab581182ab44ffd456f1cef83078" sha1="f3763f4818ffc321947d579e5328270ffa1a5519" date="1994-03-04 15:28:46"/>
+		<rom name="PROPHET/A32SBDG.DLL" size="10752" crc="e5da30c6" md5="3d1f56d33375492bb01e406426170d3b" sha1="9d8d63ba7d4d1b16b38fafbdeff5859ca2d80f2e" date="1994-03-04 15:28:46"/>
+		<rom name="PROPHET/A32SBFM.DLL" size="19968" crc="38bb48ff" md5="ea17a8e492349c3a01e46cb3f8492c6d" sha1="88d1ab183584451184b876263fce9f66a684d9d2" date="1994-03-04 15:28:46"/>
+		<rom name="PROPHET/A32SBPDG.DLL" size="10752" crc="9c906ff5" md5="42d37cb4de75e6c1e384fd07be7c6084" sha1="7288a64d7e48c5421a99b44be5040cc26f7347bc" date="1994-03-04 15:28:46"/>
+		<rom name="PROPHET/A32SP1FM.DLL" size="19968" crc="c0ee2588" md5="681ef3f8facf6f3fc926f89666904815" sha1="c0a2b0e7f260846412c49477f4ee54c1e154fea1" date="1994-03-04 15:28:46"/>
+		<rom name="PROPHET/A32SP2FM.DLL" size="24576" crc="02207580" md5="2637dc03637c664d876263d95d5a75f8" sha1="5b06aa9556e82de8ff03c77dc52ec851d4b00cdc" date="1994-03-04 15:28:46"/>
+		<rom name="PROPHET/A32SPKR.DLL" size="14848" crc="117bd8fe" md5="337b77aad6c2a08dec53b9708d10f984" sha1="adca4e6c179e19b26d39eda968bc41501ba92a8b" date="1994-03-04 15:28:46"/>
+		<rom name="PROPHET/A32TANDY.DLL" size="14848" crc="402fca7a" md5="b57c032cc06ed2f75b27c85767446c0b" sha1="0b26c0ba3f4bbe264d3f2f8a6c10a57500470c63" date="1994-03-04 15:28:46"/>
+		<rom name="PROPHET/CODE.1" size="313819" crc="f82aa4bc" md5="3cbe342b610f952cf477a40829615a78" sha1="0d6b6d2c81760660bdc253231447cc4d20ecc4da"/>
+		<rom name="PROPHET/CODE.2" size="820497" crc="873dd360" md5="581d6dbd8123d3b80772d34c82fc91bc" sha1="6ebab1a5f9f2bb709a3823d8c399d447dcdf9ee7"/>
+		<rom name="PROPHET/GM1.BNK" size="23907" crc="6cfff3f4" md5="3e504e9356643dcab5675417da2134d6" sha1="7661125d585b7e4dead1e8bbfcb707f4317d9283" date="1993-06-09 01:03:02"/>
+		<rom name="PROPHET/GM2.BNK" size="24273" crc="8a5f778f" md5="ad44f792b94e736274eab433b10881bf" sha1="e03c1667745bb8c78209ff756880b15b3371aa79" date="1993-06-09 01:03:02"/>
+		<rom name="PROPHET/GUSDIG32.DLL" size="28959" crc="f1ecdd5a" md5="bdb0d954ab4e144d694ee0ac7aca9ab7" sha1="9b26ea75e5082abf4ebbff5624e2859d6aec67ad" date="1994-02-03 08:40:30"/>
+		<rom name="PROPHET/GUSMID32.DLL" size="59865" crc="a751cf9c" md5="a92d47c4390c45c13854202fc241b507" sha1="246c189754fceb429df8d8c755d9a51314393bde" date="1994-02-03 08:45:26"/>
+		<rom name="PROPHET/LOADPATS.EXE" size="24705" crc="1f02fbfc" md5="8995e00f6d1e3f8d3464bff428d565fe" sha1="b0ac6c6f61950b3145202bba04e6356d0d20a11e" date="1994-02-04 12:10:04"/>
+		<rom name="PROPHET/PATCHES.INI" size="7157" crc="b993268d" md5="859e5dcea8de65373b1415e394cb5562" sha1="6c2c1cfc02bef5ab5ab9870c65ed1ae8f6dcdcb1" date="1994-01-08 23:07:00"/>
+		<rom name="PROPHET/PROPHET.BAT" size="2691" crc="47f4726b" md5="15e1074e8a474a373b55b27c46d5fc5c" sha1="c39b549c8817c617f50a1885036326c434dc6ed5" date="1995-02-14 11:06:42"/>
+		<rom name="PROPHET/README.BAT" size="35" crc="a0442cf6" md5="22ceb00b422f60aea5a17c58aabc300d" sha1="8d9c1a83947a5b7499bdd302dc301238cc6a3659" date="1995-02-15 08:43:04"/>
+		<rom name="PROPHET/README.TXT" size="4289" crc="7588b852" md5="acd9e2383f11ecb5a0935c06b9046338" sha1="026d7c877c0040a6687a632fd3b92d715097af70" date="1995-03-10 16:38:00"/>
+		<rom name="PROPHET/RES9" size="3070563" crc="bc882114" md5="e5ac73b1d09788fdae68d5f5a49ae883" sha1="6a102c350e96d512d337fde93cc23b4bacb7eedf"/>
+		<rom name="PROPHET/SAMPLE.AD" size="4662" crc="23f02bdf" md5="75459a7c37a3fa330670de833f5396d6" sha1="0d6ba4d5b9d669296b4bddf4158cef95a53b372e" date="1994-03-04 15:28:46"/>
+		<rom name="PROPHET/SAVE01/SAVE.DAT" size="39002" crc="11ef5b5d" md5="127576400113013c968eac76bb66f157" sha1="ff9eff5bb09803417783ccea7cb8d3151cf88adb" date="1995-02-21 16:30:30"/>
+		<rom name="PROPHET/SOUND.BAT" size="2714" crc="05f6c8c0" md5="9de9eabde5ed9f850e4f6c5c63b7c5cd" sha1="c711d44c26c748db92df3c09127cc51a100dff36" date="1994-12-16 13:43:26"/>
+		<rom name="PROPHET/SOUND.INI" size="28624" crc="26c22505" md5="3499be50bb8115a683e793a0303200b2" sha1="e7000ecc7f04cc689b6e599f25b3482fc646ec31" date="1995-03-03 14:38:36"/>
+		<rom name="PROPHET/SOUND_PM.EXE" size="481869" crc="a50d7da8" md5="cb7b90ca4e876743f78449536842ac51" sha1="8219131ed9502b78461bb8fe6f8b74e8a522581c" date="1994-04-14 10:07:36"/>
+		<rom name="PROPHET/SP.EXE" size="12736" crc="42c3a125" md5="d902239279cc3ab1fff98d882298b69e" sha1="95ac5888e0bf546a5a2a95b9e443ea7ac816376d" date="1995-02-24 09:32:18"/>
+		<rom name="PROPHET/T" size="192023" crc="6e959977" md5="d45152ed403869187750102fcc263287" sha1="4ea9f80b1ebc9083fab804c0ea25989ad743190c" date="1995-03-03 08:33:10"/>
+		<rom name="Ravenloft Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
 	<game name="Realms of Chaos (1995) (Apogee Software).dosz">
 		<description>Realms of Chaos</description>
 		<year>1995</year>
