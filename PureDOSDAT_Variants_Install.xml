@@ -10,6 +10,22 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
 	</header>
+	<game name="AD&amp;D Masterpiece Collection - Disc 1 (1996) (Mindscape) (Installation).dosz">
+		<description>AD&amp;D Masterpiece Collection - Disc 1</description>
+		<year>1996</year>
+		<developer>Mindscape</developer>
+		<variant>Installation</variant>
+		<comment>
+			Redump-verified CD-ROM: Advanced Dungeons &amp; Dragons - Masterpiece Collection (USA) (Disc 1) (Shattered Lands + Strahd's Possession + Genie's Curse)
+			Also matches TDC#23 entry: Advanced Dungeons &amp; Dragons Masterpiece Collection (1996)(Mindscape, Inc., Strategic Simulations, Inc.) [bin-cue]
+			Used to install Ravenloft: Strahd's Possession v1.2
+		</comment>
+		<link type="media">https://redump.info/disc/90624</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Advanced+Dungeons+&amp;+Dragons+Masterpiece+Collection+(1996)(Mindscape,+Inc.,+Strategic+Simulations,+Inc.)+%5Bbin-cue%5D</link>
+		<rom name="Advanced Dungeons &amp; Dragons - Masterpiece Collection (USA) (Disc 1) (Shattered Lands + Strahd's Possession + Genie's Curse).chd" size="518055552" crc="c811c5a6" md5="01f4a65eec135e80a25bb8cc9485336b" sha1="1d8eff91f49d244400de630ebc751ebb239abe9e">
+			<track number="1" type="MODE1_RAW" frames="211570" pregap="0" duration="47:00:70" size="497612640" crc="1f43e218" md5="56fb9e6505863cd2a3d57081ae3997c0" sha1="966005cf074a64f4cad6cf66e20561199c315aac"/>
+		</rom>
+	</game>
 	<game name="Alien Breed (1993) (Team 17) (Installation).dosz">
 		<description>Alien Breed</description>
 		<comment>Disk image that matches The Good Old Days ID:708</comment>
