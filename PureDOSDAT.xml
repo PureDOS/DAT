@@ -3419,6 +3419,172 @@
 		<rom name="VGAHEAD.VSI" size="747" crc="4447c3ce" md5="31c0301eb320718029efaa3b275f689c" sha1="ad5fed9de5d1d82145df3ff2286e4bc62cb80e2a" date="1994-10-01 13:00:00"/>
 		<rom name="VSWAP.VSI" size="3195112" crc="61ba741f" md5="24827f8b2920acc60bab0e57b6e9937e" sha1="4113ce83c42e69dc5cb20de79f41971a100f876e" date="1994-10-01 13:00:00"/>
 	</game>
+	<game name="Blood &amp; Magic (1996) (Tachyon Studios).dosz">
+		<description>Blood &amp; Magic</description>
+		<year>1996</year>
+		<developer>Tachyon Studios</developer>
+		<comment>
+			Installed using Redump-verified CD-ROM: Blood &amp; Magic (USA)
+			Removed AUTORUN.ICO and other Windows-related files
+			DoDAT can build this directly from the disc image
+		</comment>
+		<comment_dosc>Auto-starts, config and General MIDI option</comment_dosc>
+		<link type="media">https://redump.info/disc/46019</link>
+		<rom name="1.BNK" size="5404" crc="dd3c2fe5" md5="207a481f17604e42fe380021c4d5ea92" sha1="993825da2b90dee1e7824fbee2c676e4d17d70c3" date="1996-02-13 17:40:00"/>
+		<rom name="1.HMP" size="5167" crc="da20c249" md5="677297358fa2499e4a04fcf27b1e8c52" sha1="b13e07f02ca77e2fac050dbc483995e3e9dcd2bb" date="1995-05-18 15:07:10"/>
+		<rom name="1.MID" size="4709" crc="932b02e1" md5="adeefc558301420c40219d5b3722f3c6" sha1="4e9bc3325afdaf104156e6c2f83c3ee7e28a6e3e" date="1995-02-13 09:28:46"/>
+		<rom name="15.SMK" size="11492" crc="55585944" md5="d2e289348827643fc352e4197b198e8e" sha1="fea3e231664f5ca70a5b4d2e22be941ab94dc5f8" date="1996-05-24 11:19:38"/>
+		<rom name="2.BNK" size="5404" crc="f93be9b4" md5="87ba20bbb50a61c22f38be0026e793e4" sha1="42acb74a0f79cffbc078bed831ea30bcffa216fc" date="1996-02-05 17:14:00"/>
+		<rom name="20.SCR" size="133" crc="f34ae96d" md5="f65c1e2ee70ef5a452cd90a2c24a630c" sha1="d4efcf57fb2e8080121f50917d9e44bd0cd451f8" date="1996-03-04 12:08:04"/>
+		<rom name="20.SMK" size="1023988" crc="0ae9bcc4" md5="1d7899b5b50d8584728a15ad8a6af69b" sha1="d4837f038a71746469f28749a86a9a9ba96afb43" date="1996-04-11 13:04:18"/>
+		<rom name="30.SCR" size="121" crc="f751bd2d" md5="ec6903c3e3250a335f4dec3917f05367" sha1="d5a7f70a359fc551b5db747728ed47b899b6e4bb" date="1996-05-14 15:46:40"/>
+		<rom name="30.SMK" size="206160" crc="a4437ad9" md5="6c68a7058b3e9801673cf73d25c3c19e" sha1="7179b3fb503b604cd1fc3fe2e8ac12439a821be9" date="1996-11-05 13:20:08"/>
+		<rom name="3502.SCR" size="1931" crc="789d2a00" md5="f39f95cd32574ed9a93773bee1025789" sha1="a44048c3bd90d6f7761df0f8cf0faaf1fcbb3271" date="1996-06-18 19:12:14"/>
+		<rom name="3502.SMK" size="5197400" crc="fb5d32a7" md5="845a70914a31eef4164f5f0b1aa6d7b3" sha1="3eabf43ab04d800d6e3a6507ef52ab02aaf639f3" date="1996-05-30 13:25:58"/>
+		<rom name="3520.SCR" size="1593" crc="05515f21" md5="1e1a5f7feed747624b23eb50a1c35e5b" sha1="704c6a96c31c917f7c86faab96b50da4cdeae007" date="1996-06-18 19:13:48"/>
+		<rom name="3520.SMK" size="3434808" crc="1c3c2f17" md5="b233d10613edf186bacf3419bd2af434" sha1="e705b0d512b220428b5fd847f7e207ddecc0e2e1" date="1996-05-30 16:25:14"/>
+		<rom name="3525.SCR" size="1307" crc="d20e4ef7" md5="453e878af08a3100d6cf1bc1d1b84b72" sha1="f7ee1ed89d01d4015f3b7ea9f45186e61f7939b5" date="1996-06-17 19:50:08"/>
+		<rom name="3525.SMK" size="2715168" crc="afcc850a" md5="33b513b858e3b78c359e83ba097f09a6" sha1="de41d21279f53e4352f7a280ef709d01a1e0a1f1" date="1996-05-30 16:27:32"/>
+		<rom name="3530.SCR" size="1165" crc="f1a04736" md5="ebe70a6acedb95084f4f493d8bda0638" sha1="c91584d8d1f4596e6f1929af1b3b3506a830a7a5" date="1996-06-18 19:04:40"/>
+		<rom name="3530.SMK" size="2105760" crc="ea9b7b8f" md5="5cab3f9dddc2bb8e3b00deb6e779ea45" sha1="950bfde74f4f561fc4cfd514a35fa1f6884d17ea" date="1996-05-30 16:28:34"/>
+		<rom name="3540.SCR" size="1023" crc="a59206ae" md5="600c23172d8fbff912fe289761649772" sha1="c1c438ab791dc5d39f07c1096055de5b9f7cbac8" date="1996-06-18 19:15:02"/>
+		<rom name="3540.SMK" size="1834344" crc="5bac15fd" md5="6daf517499e4627db2b2a2ed7112b008" sha1="01bd24e65de8a92778c52faeb0f518dcd45aa113" date="1996-05-30 16:29:42"/>
+		<rom name="3545.SCR" size="1378" crc="8a18bb35" md5="069a684f7199a1beabf2fa760212dc2e" sha1="c1e87a629881fc68ad4b04b956891bef68f8d701" date="1996-06-18 19:25:18"/>
+		<rom name="3545.SMK" size="2941364" crc="ddbd5ee8" md5="e68a58425a9cae557910627d2ad07231" sha1="4f8711dd9e305235d983592f74cf9db8a1cde963" date="1996-05-30 16:31:52"/>
+		<rom name="3550.SCR" size="1165" crc="16c97038" md5="69179f2965126108f81423fd8c8ded6c" sha1="d5be2e366358419be6f15f0d1cdc95aef1c7a7a3" date="1996-06-18 19:05:24"/>
+		<rom name="3550.SMK" size="2412820" crc="ba5ae664" md5="6ecb085355fd7eb43e93124cc0bec05a" sha1="5c6b7eaa05b50c7a4d7a89e1b7465484a7bb1985" date="1996-05-30 16:33:40"/>
+		<rom name="3555.SCR" size="1094" crc="e1efc12e" md5="a353fe7b6b44fa2f48a511d7c5193a4e" sha1="58572283ef005cdc7cd1f2383e52db53c856385c" date="1996-06-18 19:05:40"/>
+		<rom name="3555.SMK" size="2245616" crc="d49b92fe" md5="f13faee67c209f5c8c94f57385825d8d" sha1="87c33b01889f8fc3a49a6ddc119636f9f667d606" date="1996-05-30 16:35:04"/>
+		<rom name="3564.SCR" size="1094" crc="c8a70934" md5="f54a615206951ec42cf23fa6fc79ea38" sha1="3d6bc7e39c480a9123a547b3a795979bc7a04f48" date="1996-06-18 19:15:20"/>
+		<rom name="3564.SMK" size="2138628" crc="72530e75" md5="50c5e7b20cdc99b86298e2353afc9592" sha1="a526adc0166a8353ba9d210c807ca88c29f3f2f7" date="1996-05-30 16:36:00"/>
+		<rom name="3575.SCR" size="1716" crc="a6dc1e7a" md5="5b5913a149e646868bcc4b2895f08921" sha1="493d0751c9d0d24055bff520abd90e51a184f622" date="1996-06-18 19:26:00"/>
+		<rom name="3575.SMK" size="4606956" crc="4dc0698d" md5="97d16bac36cca13358b99d5d9399193d" sha1="d5d0426a9d694aeb9a79ae86ad45722c6c15201f" date="1996-05-30 14:14:02"/>
+		<rom name="3590.SCR" size="1307" crc="8cb4d87a" md5="6d0dae1ef867c32093cdf07b14a42c38" sha1="cb51989d8047552ba15d34d8ed6208f1dfc0c621" date="1996-06-18 19:06:44"/>
+		<rom name="3590.SMK" size="2869904" crc="8123eaae" md5="542e226c6640842030221856b7dd8ce8" sha1="d6f9cd4786928827e75f9ba8a585894bb7ae0cfd" date="1996-05-30 18:58:30"/>
+		<rom name="3594.SCR" size="1236" crc="3387365b" md5="30d2ce1386d84a3a17deb34d86f7d592" sha1="47d4bc4daa64cded50b858d5c24b5a9c98417198" date="1996-06-18 19:06:54"/>
+		<rom name="3594.SMK" size="2794952" crc="be894446" md5="89fa049f00afef1ca2942f81bdbfa48a" sha1="69cf9c709c442a30efbc94f8ba9828bec0fba04d" date="1996-05-30 19:01:40"/>
+		<rom name="3598.SCR" size="1449" crc="5d750de5" md5="4c0743ad48cca73d26019de142ef879f" sha1="c32ad15ec4a59710c8e844c4f5423e2817238f0a" date="1996-06-18 19:16:08"/>
+		<rom name="3598.SMK" size="3107412" crc="ecb7f322" md5="35c70ca93f09bf8253689f38091afff9" sha1="46f335ac5fbed9e6f8ffd8b83a8f202c3040a464" date="1996-05-30 19:04:28"/>
+		<rom name="3605.SCR" size="1023" crc="29624e97" md5="4d296d149471cb500d11424bd263b4c2" sha1="fdc222a18b1895079c9d3641321826eee08c2cf6" date="1996-06-18 19:31:02"/>
+		<rom name="3605.SMK" size="1994796" crc="8b68b963" md5="795d76ad3ea1116560c6f07ba3fbbd7e" sha1="2169d5cad5f27743f41f42f3e8760731ada413ab" date="1996-05-30 19:06:38"/>
+		<rom name="3610.SCR" size="1449" crc="a8557042" md5="7547aef0a029fce0e3b1b79bf2cca6b2" sha1="3e5b380691671ee48d48bcf44979ec5d695bc6e4" date="1996-06-18 19:52:36"/>
+		<rom name="3610.SMK" size="3184008" crc="e7ec6256" md5="adf98318832cca00a04121ab177d6e61" sha1="c65911d1aa93a55309d8f2345d6e73a26b9dea3a" date="1996-05-30 19:08:00"/>
+		<rom name="3614.SCR" size="1449" crc="13493855" md5="a75e5fb4fee15fab058b371ec84a7a61" sha1="3776fe68479a6cde2100a6778665fd2ef0e58ff6" date="1996-06-18 19:50:48"/>
+		<rom name="3614.SMK" size="3148320" crc="5c7de37c" md5="1a5789edbd3c9e5c5593b671acb0bbf0" sha1="9e3a1d035b8b3b9ed8d4fcd1c723aa14835abce9" date="1996-05-30 19:09:14"/>
+		<rom name="3618.SCR" size="1449" crc="c0af87fd" md5="14d83e2eee7f834ab164b4e575a930d0" sha1="4e025a1c383925a00f8557fbefc8e2fd125c7f08" date="1996-06-18 19:31:22"/>
+		<rom name="3618.SMK" size="3085208" crc="c8bb0c42" md5="ad0ea911bd637758e590721a174d650d" sha1="ed49add7dfa2839676b5453369cbea4b8267c77c" date="1996-05-30 19:10:30"/>
+		<rom name="3625.SCR" size="1165" crc="f20e968c" md5="e8b81e1914b5a4e67db4df004eec5ec5" sha1="6f1b3b2c9596c999ca8cd073d572403d355fba54" date="1996-06-18 19:31:56"/>
+		<rom name="3625.SMK" size="2481984" crc="916d0ff3" md5="29908f66d4a562e6b0cda55d72fa31a4" sha1="908619df5741f19147301f60e57b0c9788930a1d" date="1996-05-30 19:16:20"/>
+		<rom name="3635.SCR" size="1858" crc="8a243a54" md5="8e98d4a3d3c0d1715a89593e01ef741a" sha1="dd566fc2b5b8c622b835c40582e035d5af46464c" date="1996-06-18 20:00:00"/>
+		<rom name="3635.SMK" size="4156836" crc="0b3adfa2" md5="a67f230253ae175b325b06f028a58177" sha1="b170329f94a90a1c2e5f1500af5d1cbdab8475b2" date="1996-05-30 14:15:40"/>
+		<rom name="3645.SCR" size="1733" crc="194059a8" md5="81f1e16094f93cb8b2d34c58740e434e" sha1="a2f0525721de8c58ab8e4c7002ebd8e03061d98e" date="1996-06-18 19:36:34"/>
+		<rom name="3645.SMK" size="3861172" crc="453246d8" md5="65c40372998cd9c22d49e35c17b7fbee" sha1="ede0604c8f9ae8779dde2cbad7bd54b35dc64f43" date="1996-05-31 11:54:06"/>
+		<rom name="3650.SCR" size="1305" crc="86cc2183" md5="0eb54999e44c253fc5be5f7165c86d4b" sha1="05718803ab4dbe2352e0c3ba062f09a30c5fb4bd" date="1996-06-18 20:04:04"/>
+		<rom name="3650.SMK" size="2530600" crc="063616b4" md5="e0d6f7d354a628e9abe8385a3e192d0a" sha1="d74623e27ed319f847e63fe5ee54da49229a3872" date="1996-05-31 11:56:26"/>
+		<rom name="3655.SCR" size="1376" crc="cf11bad3" md5="2c011c8eb84fcbefff9db04c14f2f1ca" sha1="791b2f036cf411fb89197fc5444da6844b158f23" date="1996-06-18 20:04:12"/>
+		<rom name="3655.SMK" size="2962988" crc="574e5579" md5="46a3768bb99e262cbb16cc8caba9eccb" sha1="950a5f189f7166aa7d704ab49b9b5ecf15782ed3" date="1996-05-31 11:58:18"/>
+		<rom name="3662.SCR" size="1305" crc="5a3a7743" md5="21700f8e8977ceda602c038c181021a9" sha1="05fe03ca96974a2b0b852f3c7c4277030bb35c4d" date="1996-06-18 19:35:32"/>
+		<rom name="3662.SMK" size="2460572" crc="dd1829aa" md5="729b378df180e446886b9ee1d93ce8a2" sha1="3bd9d401ebcf53157f3b5562fee7c3d3e36b9fb3" date="1996-05-31 11:59:46"/>
+		<rom name="3666.SCR" size="1376" crc="eb87a456" md5="0835bf6c50f392a43b33ea98bca2e49a" sha1="51d616d1c4908033486f32cb32f2ecdcb3d2f0b3" date="1996-06-18 20:00:32"/>
+		<rom name="3666.SMK" size="2852544" crc="0be8a921" md5="72de730a44ad1733034c29d540b9f613" sha1="7696401c2b7a81ae6bf78a7119e16327c46628ca" date="1996-05-31 12:01:44"/>
+		<rom name="3670.SCR" size="1234" crc="b5370ee5" md5="acf74ac450563fbf73d278ee285f87b2" sha1="6175ec96f53fc58919ffc08a35a15439cd03ce16" date="1996-06-18 19:35:22"/>
+		<rom name="3670.SMK" size="2234360" crc="c5590ed2" md5="f39bb307dd297c29da7de9f8587f4a7f" sha1="69349306ab1c2967604bf1c589b63880bc5612ca" date="1996-05-31 12:04:02"/>
+		<rom name="3674.SCR" size="1163" crc="456d23fe" md5="e72b7029482bd388becf8d00a1f6f775" sha1="a51125d8913d934835e0f5de2559ceb508e60571" date="1996-09-05 14:46:40"/>
+		<rom name="3674.SMK" size="2164484" crc="8f2c1131" md5="fda6267a657d20c931846f8f10a2e99c" sha1="9c596cf82f49759d423ee3f098c554206d947492" date="1996-09-05 15:03:04"/>
+		<rom name="3680.SCR" size="1092" crc="e9877b37" md5="00984b07dbaf5839318efb4fbebafce8" sha1="782e4649a928c95a936141ffd31f1d5f06ddebb3" date="1996-09-05 14:52:40"/>
+		<rom name="3680.SMK" size="1653484" crc="0559ab57" md5="33f192ebceb67df10897f70069c57210" sha1="9681eecfda4b4478e8b8ff5eb2fefa74eb125e26" date="1996-09-05 15:03:40"/>
+		<rom name="3687.SCR" size="1927" crc="99c785e9" md5="7cddaf74ef52ba60c48dfc70a8d4e27e" sha1="0b108d6700603ab750db7988fc303a16d95ed512" date="1996-06-18 20:14:32"/>
+		<rom name="3687.SMK" size="4638684" crc="3beb3fb9" md5="e1f1d5f72d541cb1f7dd0475b92511a5" sha1="347e617f26ef69f528b2d4dca00929d53a34f542" date="1996-05-30 14:17:30"/>
+		<rom name="3696.SCR" size="1309" crc="f05af145" md5="1b8cc9238c63cb4a03b81520b04106f4" sha1="234c491a75da8eb7ed4bddbd9cb88363d8c24c85" date="1996-06-18 20:14:42"/>
+		<rom name="3696.SMK" size="2706392" crc="56ae7943" md5="c8fb5123aac1a3796934ec4e27e29f07" sha1="40620fa33d381b7b553509fab56e8aeeb54ff891" date="1996-05-31 12:58:42"/>
+		<rom name="3700.SCR" size="1451" crc="26201011" md5="de0c54435a42069c218e880f6cc73e97" sha1="0330b69ef2c1ee42ba0701c358b0a159a5335521" date="1996-06-18 20:39:08"/>
+		<rom name="3700.SMK" size="3066924" crc="6336e600" md5="84d3c9e22f482a79f9bae22ee9396fba" sha1="5616041256cf80c8de353891b0d463b6b1e23031" date="1996-05-31 13:01:22"/>
+		<rom name="3705.SCR" size="1309" crc="96a9e4f9" md5="8e1fbf210d17b62b7bbc4d7d54dbd920" sha1="b553e2d0c4385f5d74028fe1d22c80e7a06cea0d" date="1996-06-18 20:39:22"/>
+		<rom name="3705.SMK" size="2922568" crc="7f5b56d3" md5="0e56721e5b9fe0a1ef4401619c3c73dd" sha1="2157466b623c36f72a5c12d873807582e1518cb5" date="1996-05-31 13:02:38"/>
+		<rom name="3712.SCR" size="1167" crc="60710917" md5="72f289075c5f212c5211934a27226936" sha1="ea7e3303b5f8a44354d135599b4ab20daa406c62" date="1996-06-18 20:39:32"/>
+		<rom name="3712.SMK" size="1858336" crc="bdd03050" md5="ec1f69ca6552b0395440fb1d0b959ff5" sha1="5ec63ceebb6d1f9d0018ca9bd416b2f4c25b1e9c" date="1996-05-31 13:04:26"/>
+		<rom name="3716.SCR" size="1522" crc="9ec546de" md5="f56948b08fcecbcd2efad9d2422e5c9a" sha1="99807a66122e5d328aa49619e9fa353808bfb05a" date="1996-06-18 20:39:42"/>
+		<rom name="3716.SMK" size="2906504" crc="b0754a67" md5="b9cd19a32947c6b3374b7f9df0538201" sha1="1e020ee65c3ff97b6015d4ff89b67376b6baa31b" date="1996-05-31 13:06:44"/>
+		<rom name="3720.SCR" size="1451" crc="263ccb46" md5="3f1dc5cb3e2dcb5fe37a8a692b751f7d" sha1="359b3a0c311dedff5b55d7be4fc402138edce279" date="1996-06-18 20:39:54"/>
+		<rom name="3720.SMK" size="2901732" crc="ae3123a9" md5="a4fae344f148ef4e916fa6fddb64e5e1" sha1="8bb6a9e5b20eaa68162967ec029403c4aa22cde6" date="1996-05-31 13:08:40"/>
+		<rom name="3725.SCR" size="1309" crc="ae62c62c" md5="9cee7fb94cad617bc98d2fca3cdb5135" sha1="4a29fc041e8b642c99647f4c256d6eb632db2c63" date="1996-06-18 20:40:04"/>
+		<rom name="3725.SMK" size="2506068" crc="ab944597" md5="d6051d18d0bdb8b9e06afa187ddc09e3" sha1="5ce093c25970cab4e2021d2432d75002d73e75a5" date="1996-05-31 13:09:50"/>
+		<rom name="3735.SCR" size="1309" crc="beb713d9" md5="c13f229da1188f4ec4a5877dca7c915b" sha1="b2e763076de7a06f80c3f7f6d3f7c58f95a57160" date="1996-06-18 20:40:14"/>
+		<rom name="3735.SMK" size="3427268" crc="7300d2d9" md5="250473cc52d3398ccf84d6fd2cf834de" sha1="2158e37e8114ea3b5db177af7aba6ce4c9e97a96" date="1996-05-31 13:11:16"/>
+		<rom name="3745.SCR" size="2069" crc="513e7f48" md5="149871084e03bce431136da755c559cf" sha1="759da06ce3131abf03d98215c440e9a2afeefa79" date="1996-06-18 20:19:24"/>
+		<rom name="3745.SMK" size="6070176" crc="479f700b" md5="4fee72f68c8b74f9d5f95b63ddda4ac4" sha1="40fe938ea6d2952f69576c742d5131500a2e6761" date="1996-05-30 14:20:00"/>
+		<rom name="3755.SCR" size="1234" crc="7eed1d31" md5="bf4c73f6bf922551ab5f5fda47c853af" sha1="282e491f24ca6c6234526ff300cdb0d134cef69a" date="1996-06-18 20:40:24"/>
+		<rom name="3755.SMK" size="3203536" crc="7593524f" md5="9358f583efed00a01222e50cf510d989" sha1="62d8031ae2447123bab5455b4d2d6d586201100c" date="1996-05-31 14:01:24"/>
+		<rom name="3760.SCR" size="1234" crc="5b4e3883" md5="3c9333d11dc3803033298d5ec4ceeef2" sha1="6407e3580ca844f9aecc0947d0e7d2b80b8564fd" date="1996-06-18 20:40:34"/>
+		<rom name="3760.SMK" size="2579188" crc="2d5be4c6" md5="87765177e8d6d1fc4fb0cdda2c4d7949" sha1="9e8aec551c99bc242ce564690dbeda204fd8cb4e" date="1996-05-31 14:03:24"/>
+		<rom name="3765.SCR" size="1163" crc="a65c6ddc" md5="1e145e7d94510ddc74baf30a54efcabc" sha1="7f0e9ea3600ad8207a9a4c1d46440c41c1da3fba" date="1996-06-18 20:40:44"/>
+		<rom name="3765.SMK" size="2205632" crc="3a13e7c1" md5="865469c916a182a25bf9abbe597bf8df" sha1="4444e2003511fb399bdf44d5208d96571ea50660" date="1996-05-31 14:05:04"/>
+		<rom name="3775.SCR" size="1447" crc="abfd5159" md5="afc8aeab6626198300b5f550a6ae6089" sha1="a1fe16bd1d95a08951afd41dd14bbace4e75ba18" date="1996-06-18 20:40:52"/>
+		<rom name="3775.SMK" size="3249600" crc="3fbf6310" md5="274cd356c99e597e4535e6235f6c39de" sha1="a0bf74c3c1a51548080d4c468e033eea9d44038b" date="1996-05-31 14:06:26"/>
+		<rom name="3780.SCR" size="1873" crc="5a2d7e75" md5="af41fb57647e3d35333700d1f6d511ef" sha1="017a23ba4f744b3c837a7142d203ef99c86df9c6" date="1996-06-18 20:19:34"/>
+		<rom name="3780.SMK" size="4492716" crc="67ff8852" md5="fbfcec8450ce6e9da404c06ff4d11c5f" sha1="c1cec12312d085cd0ed4d05c30e8179748d38bbb" date="1996-05-31 14:09:22"/>
+		<rom name="3785.SCR" size="1518" crc="0719dcdf" md5="eea5c77cd7463bbca6248d8e4a8a2cac" sha1="32e8281b4c68273218a2ae85e0b4ecf5fab7ee10" date="1996-06-18 20:41:04"/>
+		<rom name="3785.SMK" size="3403308" crc="b100e210" md5="3a4282dbb1ba780bf1db493613719ae0" sha1="17fcda4b04ffb7318a55ed233848fa639e621fe3" date="1996-05-31 15:52:14"/>
+		<rom name="3790.SCR" size="1518" crc="a1e6ebd2" md5="73d3e5cfa91aae9df10e910c543049c0" sha1="71a38e712a41bdfee12e7cd5d785f21df4646511" date="1996-06-18 20:41:14"/>
+		<rom name="3790.SMK" size="3143068" crc="e99aea54" md5="cb3fb3c3796413064683c77be31aa359" sha1="f5bb378f8d4fe05301feca287ab27273b45c948a" date="1996-05-31 14:13:48"/>
+		<rom name="3800.SCR" size="1447" crc="d488408d" md5="93086cc02de0fd4f2b08df3582cc73bf" sha1="1b03272f231361eb7f5b45b9ef37ec12e7ab2b9b" date="1996-06-18 20:19:56"/>
+		<rom name="3800.SMK" size="3129584" crc="515eb072" md5="d1266e1d6d1d51707f480414777a0a57" sha1="7e210eefef17e35b0ec5b9b1a50329b678ca4d26" date="1996-05-31 14:15:00"/>
+		<rom name="3805.SCR" size="2073" crc="c1706928" md5="b6718015bb3885888cc48c710f4add0c" sha1="ea2e96b469b3acffc19854e941facc7f799adf26" date="1996-06-18 20:41:26"/>
+		<rom name="3805.SMK" size="5820292" crc="f2e81899" md5="4df9e0359949f41df066054a4b9a2d80" sha1="c3478c9b1d69f5298ec4ae13d3daa68ffbfc12c8" date="1996-05-30 14:22:04"/>
+		<rom name="3815.SCR" size="1877" crc="4b24ccb6" md5="7100021a251d07ce69cc54133e83153f" sha1="eaef39cfb326373d2453eb002ab272226e312d43" date="1996-06-18 20:41:34"/>
+		<rom name="3815.SMK" size="4136028" crc="41849593" md5="858db5990e3901e0b1a912b13e2c8d1b" sha1="89387d5ed5cf5fe709da990f11899e38c0ca7c29" date="1996-05-30 17:53:16"/>
+		<rom name="BAM.BAT" size="194" crc="0ed28384" md5="6b32734cb4f8e97adb01bf4458f6f835" sha1="7df788ae958121ae6f15a621b9b5a5407730b1cc" date="1996-11-14 16:39:14"/>
+		<rom name="BAM.DAT" size="1225319" crc="93570bc7" md5="a210451f51cb831703d48b224a7edfbf" sha1="1623edfdb602a43eff8a33d7b5a3344e90bf78bc" date="1996-11-14 01:00:00"/>
+		<rom name="BAMD.DAT" size="1225319" crc="6bfa6ce7" md5="75daba5ffa1c080bc17b98c8484705e8" sha1="c3c7e7aae07b9f31b13c82a0016ed159e99196de" date="1996-11-14 01:00:00"/>
+		<rom name="BAMF.DAT" size="1225319" crc="e98272f6" md5="20a15af3996a55a48fefb48fd2746db7" sha1="7e9183bcfe1ffd76a0b09fc8c26633a016baa6f7" date="1996-11-14 01:00:00"/>
+		<rom name="BAMMAIN.EXE" size="1225319" crc="93570bc7" md5="a210451f51cb831703d48b224a7edfbf" sha1="1623edfdb602a43eff8a33d7b5a3344e90bf78bc" date="1996-11-14 01:00:00"/>
+		<rom name="BOOTME.EXE" size="31590" crc="fcd6c553" md5="621d3f5726281e2d75b77b72f752b43b" sha1="796e194c0d3f6b28b858d43d98ebd49780b64b72" date="1995-07-17 12:23:02"/>
+		<rom name="CINES.DAT" size="4318552" crc="c3f40f62" md5="45128e9327308e8f9b32a4f6811ed65a" sha1="58da35af33fd2e93266fc2f147f48efb22cb3ccf" date="1996-11-06 14:20:14"/>
+		<rom name="CINES.IDX" size="121" crc="f751bd2d" md5="ec6903c3e3250a335f4dec3917f05367" sha1="d5a7f70a359fc551b5db747728ed47b899b6e4bb" date="1996-11-06 14:22:06"/>
+		<rom name="CINES.MAP" size="56277" crc="6c0ca415" md5="24c35b3fde3a1aa3e33cc2a6ca267a55" sha1="03c78d9054d10c775a9ae7a8fc75b62ddea66af8" date="1996-11-05 23:35:40"/>
+		<rom name="CINES.SCR" size="121" crc="f751bd2d" md5="ec6903c3e3250a335f4dec3917f05367" sha1="d5a7f70a359fc551b5db747728ed47b899b6e4bb" date="1996-05-14 15:46:40"/>
+		<rom name="CINES.STF" size="49294499" crc="07edd4bc" md5="320477e923d794de2b18d932a4ec33b5" sha1="cf5219e01993ac0d482d16bc2f1ade9c24a98fe7" date="1996-11-06 14:01:02"/>
+		<rom name="DOS4GW.EXE" size="265420" crc="cb214447" md5="ee4033581845b3b8d28c4b7287eb4fc2" sha1="a897c7eb79145a308c4e60b43413bb2daa360506" date="1994-09-22 13:07:40"/>
+		<rom name="EREGCARD.EXE" size="85609" crc="d2e6bb29" md5="bef38da621fe89f8ff7b4e3e8db04276" sha1="2840622ff7eb6069aa7c497be9875047ab04a79f" date="1996-07-26 06:36:14"/>
+		<rom name="EREGCARD.INI" size="43" crc="c858be87" md5="07ed357b1bdf4fdf3cecbb5ce51273db" sha1="3d315dbb656989f1618f759d297f4ae3ecbc427c" date="1996-11-11 15:20:16"/>
+		<rom name="GETSRC.BAT" size="141" crc="d2ef6d24" md5="40bcdacca2975504b85b6bbde2eeb3ee" sha1="443c7f2e7db5f361705ee63f3cd226e9107e6782" date="1996-10-11 10:37:54"/>
+		<rom name="GRVDET.EXE" size="191294" crc="a75a8ce4" md5="63264f953cfd9a9dd98efa7aa787341a" sha1="5e4c0a565a67fa5a536c013ee0117cb934e89fbd" date="1995-06-22 09:24:06"/>
+		<rom name="HMICARDS.386" size="24820" crc="0bf9da0b" md5="fcfe75223d18dd77acab9265a7a65e33" sha1="08129595db2ea1991faf49fd35a8629f2c32fcb7" date="1995-02-06 02:00:00"/>
+		<rom name="HMIDET.386" size="81956" crc="9ebfe500" md5="4262f607e983978d66f1d4db9002e564" sha1="cb36bd50000c5fbc0a5c80a5f74b60f5015686b5" date="1995-02-06 02:00:00"/>
+		<rom name="HMIDRV.386" size="261305" crc="de98c221" md5="02643fe4d51551c69c698cc4152fbbae" sha1="76f7ed5b4b0a0c86a579a8c6e10891017811ca3f" date="1995-02-06 02:00:00"/>
+		<rom name="HMIMDRV.386" size="117816" crc="b7d651e1" md5="9cb79e2d5947ced61c4c8865d84f60ab" sha1="1bbeec4012d30e1347e4c886a91841a10312dc9e" date="1995-02-16 21:50:58"/>
+		<rom name="INSTALL.EXE" size="264852" crc="3f06f922" md5="9d95484c9e72ec02ed478ca0ae8fa7e1" sha1="a2231335137c1cfd018749921dc5a3e5d1364b2a" date="1996-10-23 16:17:22"/>
+		<rom name="INSTDEUT.CFG" size="2107" crc="b81144b0" md5="29dda276d47ccc7e44df3f557ac5c367" sha1="fcc679a0521cc7128377ef18e4e2c878a5e77901" date="1996-11-08 05:00:30"/>
+		<rom name="INSTDEUT.EXE" size="78632" crc="29ea1365" md5="3e263f9cb86ec51e27d0888ce0666e13" sha1="2a9f2bf4c2859b3d72624bb3c04e66858f9829de" date="1996-10-23 18:22:22"/>
+		<rom name="INSTENGL.CFG" size="1968" crc="2b738b1e" md5="88f771834de35c28b6239e54e7a39d15" sha1="d6ca8297819afb8810317a0f10b63176b498bcf2" date="1996-11-08 05:00:04"/>
+		<rom name="INSTENGL.EXE" size="78632" crc="60d5683a" md5="3eb295b5c9ff9d15b2ab81f132872175" sha1="819cd8f6ea50b8dad0d3de6c333632ac9083564c" date="1995-05-26 02:05:00"/>
+		<rom name="INSTFREN.CFG" size="2096" crc="57dfd647" md5="e9ae07bb73d29fbc46590e9adf9c032b" sha1="ff9219077275aafa0477a52ee95a5b7a84ffbf79" date="1996-11-08 05:00:12"/>
+		<rom name="INSTFREN.EXE" size="78632" crc="1fd0f814" md5="34a1d18d0c21bf89ea33dbf899abfd11" sha1="cc37253531f6ecb25eca32a826ec8c99e8c749c9" date="1996-10-23 21:56:12"/>
+		<rom name="LAST1D.COM" size="1534" crc="d781186b" md5="eec2ddde6af553e111d4b8e147d46583" sha1="fadb14f7ef51665cb3dffd4036e17843de8bc176" date="1996-10-23 20:12:14"/>
+		<rom name="LAST1E.COM" size="1522" crc="44d94b5c" md5="4fa4b8760c2b58488964aaeaf3f1b3e7" sha1="ab53b43a89d167e450c09a098fa7fb54ce1549d2" date="1996-08-28 16:29:48"/>
+		<rom name="LAST1F.COM" size="1551" crc="34bed99e" md5="bf576b0f7214a52c9f5523d7acc2ee66" sha1="4729c4e8a86f9eada7cab872c4c15f717159f118" date="1996-10-24 15:41:26"/>
+		<rom name="LOADPATS.EXE" size="49194" crc="066c5e51" md5="b24134b3fab09b2727b49a0fe1d64d8e" sha1="d9ba6f21e0e7a7210fc7bdc99495343cadd07d9d" date="1995-02-06 02:00:00"/>
+		<rom name="MAIN.MAP" size="155067" crc="d237ef54" md5="25c1584baa8c1285d7405980b12d218f" sha1="45269cb741b8b6dca97b3fe43cddcb4b658dd876" date="1996-11-05 23:14:16"/>
+		<rom name="MAIN.STF" size="17389219" crc="57b08076" md5="eef94920d612b667eef4fdc2a616ac8d" sha1="aac498476bf449c66339b401591869e257dedd6a" date="1996-11-05 23:14:16"/>
+		<rom name="MAP.IDX" size="36" crc="f6f75f44" md5="35366109b6c12889f558393fda3f57b0" sha1="99f6ff1bd7f7c6ab07e85d5446ecc21bdf026898" date="1996-11-05 23:35:38"/>
+		<rom name="NETNOW.INI" size="537" crc="65d94e1c" md5="385c7b98a9f9c099a3ea6c0872914925" sha1="0535a51620fc36a41eda74e1b4ff35914e016999" date="1995-05-01 13:04:48"/>
+		<rom name="PATCHES.INI" size="9825" crc="ff05cbf8" md5="2a68daebe37948e12afccf3bccd1b5bb" sha1="7c76a17c7922d992975c4a4e7a434b5af60d1b51" date="1995-02-06 02:00:00"/>
+		<rom name="README.TXT" size="18878" crc="4abbae71" md5="aeee0b2b3b55ce9d51fe7674703ded1b" sha1="119f8ee9b46357cb2b35af3c735fe66081180bd1" date="1996-11-14 15:57:50"/>
+		<rom name="READMEF.TXT" size="15356" crc="e00e8928" md5="0cabfad2047550c87118ead7bb25271a" sha1="973ca935553bc171e6a4c3a3731f8c3e0224c337" date="1996-11-14 15:08:36"/>
+		<rom name="READMEG.TXT" size="16591" crc="99e2c79f" md5="2c05f4d97bb35876b4b1627e27133bd1" sha1="cdc48a29ce74a8f12d9c9216d9d8f85874a61eb4" date="1996-11-14 15:09:06"/>
+		<rom name="RES_CFG.HPP" size="1955" crc="45eb1edb" md5="65012bee143f9b52b1fd1843c220bc8d" sha1="95743ab4bab2943a9e57f028c00aa148392ee97a"/>
+		<rom name="SILLY.EXE" size="6992" crc="074983b9" md5="2127b1f9d0c849f5a634cfb5d27b3001" sha1="9cf0b4384260cf73c8450ba63aa28652eb163a01" date="1996-01-29 15:17:46"/>
+		<rom name="SNDSET2.EXE" size="324299" crc="0547aa1a" md5="829c9e54b11c008fb1c1c3aadab45cdd" sha1="babb6e39f063541735269cac091824dbaecae00b" date="1995-10-17 13:22:28"/>
+		<rom name="SNDSET2.INI" size="4075" crc="81d26c54" md5="06ca3a8941fdc7bb9b548e951928da26" sha1="72112dd0c451d7f237f6e689dc9771d02d02bb0a" date="1995-10-17 10:11:04"/>
+		<rom name="SNDSET2F.EXE" size="324391" crc="83358992" md5="d677a33cb3d803f88a64c40b6f4ed511" sha1="8042946e2087eedb3e69a3c2df9ab0874586dcfa" date="1996-10-23 23:08:42"/>
+		<rom name="SNDSET2F.INI" size="4074" crc="602cdfcf" md5="61326fba869a25c6d820acf50d02c195" sha1="4e1ee4bcbc11d6c3dbee1ccd655a4b5d31f1429d" date="1996-10-23 21:02:02"/>
+		<rom name="SNDSET2G.EXE" size="324391" crc="c1b797ba" md5="2ad8e7e189e26a35defbfe7a0f4afbce" sha1="991ea0394994a4b8791234e67c33c21f46b3179a" date="1996-10-23 17:18:40"/>
+		<rom name="SNDSET2G.INI" size="4079" crc="f694e20a" md5="5e744aa85917e3aa5cd0612f783052f0" sha1="8dcd84cef378679e202b00a1593756ed1998b2d9" date="1996-10-23 20:54:42"/>
+		<rom name="SNDSETUP.BAT" size="151" crc="886fde40" md5="d1fa907d56ca8ea1857982f6960e06f2" sha1="0c155c3bcb9ff85c4c06e9dc85d4b128cb763a03" date="1996-08-19 21:36:14"/>
+		<rom name="TEST.HMP" size="7222" crc="feaf4da7" md5="5e56e436be0a806f41fddf10089f994d" sha1="cb9a473749468cfced7bf904945394b195d4d049" date="1995-10-17 09:46:12"/>
+		<rom name="TEST.RAW" size="18123" crc="a7b86a43" md5="13c5f922e3f029373d54b87d63615781" sha1="820727678cc3b0b597e0bbb1aa660748e1363de3" date="1995-08-09 14:15:10"/>
+		<rom name="VSWITCH.EXE" size="183658" crc="a90780b1" md5="e4c7e1d093e72f84ea8cf2e5edfb730e" sha1="8573a7b555cd5205fc60ca0e9640cee3e390f7a9" date="1996-05-02 17:13:42"/>
+	</game>
 	<game name="Boulder Dash (1984) (First Star Software).dosz">
 		<description>Boulder Dash</description>
 		<comment>DOS conversion from PC booter. Super Boulder Dash version, which adds a Tandy mode. Matches with TDC</comment>
