@@ -717,6 +717,21 @@
 		<rom name="disk3.img" size="1474560" crc="47b30c95" md5="c389825d1a53cf6612e7299fc3e374ee" sha1="7b069ce1bf888f8db026464730166509ae722333"/>
 		<rom name="disk4.img" size="1474560" crc="c978f133" md5="ceaba81663191daeff5960c1ebfe0b1b" sha1="225b8f1d8a49c60389f9e57d7b7019722866cc94"/>
 	</game>
+	<game name="Police Quest 4 - Open Season (1993) (Sierra On-Line) (Installation).dosz">
+		<description>Police Quest 4 - Open Season</description>
+		<year>1993</year>
+		<developer>Sierra On-Line</developer>
+		<variant>Installation</variant>
+		<comment>
+			Matches with Redump-verified CD-ROM: Police Quest IV - Open Season (USA)
+			Also matches with TDC#23 entry: Police Quest- Open Season v1.100.000 (1994)(Sierra On-Line, Inc.) [bin-cue]
+		</comment>
+		<link type="media">https://redump.info/disc/49962</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Police+Quest-+Open+Season+v1.100.000+(1994)(Sierra+On-Line,+Inc.)+%5Bbin-cue%5D</link>
+		<rom name="Police Quest IV - Open Season (USA).chd" size="601953408" crc="5f6a96c8" md5="b68b1260717b26e09077c35987845c36" sha1="6b2943e2c0e0e34d6c0c213fce1c4b295a9b876a">
+			<track number="1" type="MODE1_RAW" frames="245839" duration="54:37:64" size="578213328" crc="881642b1" md5="4a20d9a142c7cd9313f4002a0b34e7b7" sha1="b76315d9c8bef448568c307cc92d81f75f8a58d8"/>
+		</rom>
+	</game>
 	<game name="Prince of Persia (1990) (Broderbund Software) (Installation).dosz">
 		<description>Prince of Persia</description>
 		<comment>v1.3, 3.5" floppy disk</comment>
