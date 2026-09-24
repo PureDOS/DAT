@@ -19112,6 +19112,25 @@
 		<rom name="VERSION.TXT" size="24" crc="4c683baa" md5="921821ff44c39c541babfba6cd101cca" sha1="0d1051c6eba9f13feb865a5681e301d455edab2c" date="1996-05-20 14:24:48"/>
 		<rom name="VOICES.WAD" size="27319149" crc="cd12ebcf" md5="082234d6a3f7086424856478b5aa9e95" sha1="ec6883100d807b894a98f426d024d22c77b63e7f" date="1996-04-15 15:49:46"/>
 	</game>
+	<game name="Stronghold - Kingdom Simulator (1993) (Stormfront Studios).dosz">
+		<description>Stronghold - Kingdom Simulator</description>
+		<year>1993</year>
+		<developer>Stormfront Studios</developer>
+		<comment>
+			Installed from CD-ROM matching with TDC#23 entry: Fantasy Fest! (1994)(Strategic Simulations, Inc.) [ISO]
+			Also matches with TDC#23 entry: Stronghold v1.00 (1993)(Strategic Simulations, Inc.) [Role-Playing (RPG), Strategy]
+			DoDAT cannot build this directly from the disc image
+			Also matches with GOG (using the embedded patch for STRONG.EXE)
+		</comment>
+		<comment_dosc>Auto-starts, reduces game speed, enables direct mouse, config, MT-32 option, and IPS patch that bypasses copy protection</comment_dosc>
+		<link type="media">https://puredos.github.io/dat-browser/?/Fantasy+Fest!+(1994)(Strategic+Simulations,+Inc.)+%5BISO%5D</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Stronghold+v1.00+(1993)(Strategic+Simulations,+Inc.)+%5BRole-Playing+(RPG),+Strategy%5D</link>
+		<link type="store">https://www.gog.com/en/game/dd_stronghold_kingdom_simulator</link>
+		<rom name="STRONG.DAT" size="5259205" crc="7220334e" md5="96557d434c8960699a125b0fc5e2f96b" sha1="448d282640c04435a294a5275fbdeb4adc47c73c" date="1993-07-16 23:01:56"/>
+		<rom name="STRONG.EXE" size="511280" crc="2d3d589d" md5="81d23814efc42db5674352469697d654" sha1="4ada6dd99e4c6d1555f4dde6be25ff1ffe550636" date="1993-07-18 14:22:36">
+			<patch data="UEFUQ0gChxEAAQtFT0Y=" size="511280" crc="c21800da" md5="21625d4804fb38fb33437abbe4287926" sha1="e17c593af630b6fc6037697d20b892ed65f43876"/>
+		</rom>
+	</game>
 	<game name="Super C (1990) (Konami).dosz">
 		<description>Super C</description>
 		<year>1990</year>
