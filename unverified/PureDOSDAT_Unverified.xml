@@ -68604,21 +68604,6 @@
 		<rom name="YOU.I4N" size="447" crc="b79effed" md5="b0855b8822199b01090959f8884cd107" sha1="59e3acadefa28b61d540ea5f02231bd1c97cc5a5" date="1985-03-10 20:19:46"/>
 		<rom name="ZOMBIE.I4N" size="1419" crc="dd4244e1" md5="ea8fc4fb6c1d4ad63b076957a0568e24" sha1="f07da54acb990521828df398f30d302fd355993f" date="1985-03-14 17:43:12"/>
 	</game>
-	<game name="Terminator 2029, The (1992) (Bethesda Softworks).dosz">
-		<description>Terminator 2029, The</description>
-		<year>1992</year>
-		<developer>Bethesda Softworks</developer>
-		<comment>
-			Deluxe CD Edition - Includes Operation Scour expansion. Matches with Redump-verified CD-ROM: Terminator 2029, The (USA)
-			Runs almost entirely from the disc - just run INSTALL.EXE to set up config and default save files
-			DoDAT can build this directly from the disc image
-		</comment>
-		<comment_dosc>Sound config, BAT file for running the game, default save files, enables direct mouse, and auto-starts. General MIDI option</comment_dosc>
-		<link type="media">https://redump.info/disc/21161</link>
-		<rom name="CD/Terminator 2029, The (USA).chd" size="471700224" crc="20fd24b0" md5="ade30352fd39c13b7ec5869bb4c80423" sha1="7438c571f6e405c7a45659010b0d16d5394d8275">
-			<track number="1" type="MODE1_RAW" frames="192647" pregap="0" duration="42:48:47" size="453105744" crc="22fd684f" md5="a33d5d3fe565a0c6d94b24d763db70b9" sha1="c20d296c47163a334cfd39fc555b1bac8954bfdc" in_zeros="1" out_zeros="0"/>
-		</rom>
-	</game>
 	<game name="Terminator, The (1991) (Bethesda Softworks).dosz">
 		<description>Terminator, The</description>
 		<comment>Installed using floppies matching TGOD ID: 1669</comment>
