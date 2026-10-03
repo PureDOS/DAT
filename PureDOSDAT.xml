@@ -20306,6 +20306,21 @@
 		<rom name="Temple.wrs" size="1067467" crc="97b04853" md5="bca4b1dbbe714bb23951f7cdff0a8330" sha1="f46b44f5899f1ded9b2e4f9b67b769303c77113f" date="2000-02-07 15:22:20"/>
 		<rom name="Vrun.exe" size="662203" crc="86757a5f" md5="429a470a380a709ede8fcce5b0749afa" sha1="23528b7a44c1f52787f613313313dec138b72a39" date="2000-02-07 15:22:20"/>
 	</game>
+	<game name="Terminator, The - Rampage (1993) (Bethesda Softworks).dosz">
+		<description>Terminator, The - Rampage</description>
+		<year>1993</year>
+		<developer>Bethesda Softworks</developer>
+		<comment>
+			Matches with Redump-verified CD-ROM: Terminator, The - Rampage (USA) (Rerelease)
+			Runs almost entirely from the disc - just run the installer to set up BAT files with config
+			DoDAT can build this directly from the disc image
+		</comment>
+		<comment_dosc>Sound config, enables direct mouse, and auto-starts. General MIDI option</comment_dosc>
+		<link type="media">https://redump.info/disc/88760</link>
+		<rom name="CD/Terminator, The - Rampage (USA) (Rerelease).chd" size="26986752" crc="6d918d33" md5="fff5ec88385da6bf972cda33274b253d" sha1="0298061bd34821d67bae326287aea1c02d87d850">
+			<track number="1" type="MODE1_RAW" frames="11012" pregap="0" duration="02:26:62" size="25900224" crc="1672395f" md5="f67079c14cb603a2124de8624c9522d8" sha1="c45460eedcbd7fd74af61e1d5ad8d79c864b9c03" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
 	<game name="Theme Hospital (1997) (Bullfrog Productions).dosz">
 		<description>Theme Hospital</description>
 		<comment>Max install from EU/AU Beta Five 13-5-9 CD-ROM, CD image made from BIN/CUE</comment>
