@@ -22,7 +22,7 @@ To use other ROM management tools, see the section on [RomVault](#romvault)
 Similar to the primary file this contains secondary variants of game packages which includes regional variants as well as original installation media.
 
 ## Technical Specs
-You can find the technical specs describing [DOSZ and DOSC files](../../../Specs/blob/main/DOSZ-and-DOSC.md) as well as [DOS.YML files](../../../Specs/blob/main/DOS.YML) on the [Specs repository](../../../Specs).
+You can find the technical specs describing [DOSZ and DOSC files](../../../Specs/blob/main/DOSZ-and-DOSC.md) as well as [DOS.YML files](../../../Specs/blob/main/DOS.YML.md) on the [Specs repository](../../../Specs).
 
 All official DOSC files can be found in the [dosc directory](dosc) and the DOS.YML files referenced by the DAT file can be found in the [yml directory](yml).
 
@@ -91,8 +91,11 @@ Floppy disk images should be included in the .DOSZ file in uncompressed raw disk
 To generate the data file XML elements you can use the [MakePureDOSDAT utility](../../../MakePureDOSDAT).
 
 ## RomVault
-[RomVault](https://www.romvault.com/) can optionally be used to build DOSZ files but they will not be fully correct because date and time information will be missing.
-Depending on your Windows or .NET installation, you might want to use [version 3.2.5](https://www.romvault.com/download/ROMVault_V3.2.5.zip) or the latest available.
+[RomVault](https://www.romvault.com/) can optionally be used to build DOSZ files but they will not be fully correct because date and time information will be missing
+so [DoDAT](https://github.com/schellingb/DoDAT) is recommended over that.
+
+Certain small configuration files are embedded in the DAT file. DoDAT will automatically use the embedded data but for other ROM managers the files need to get extracted first.
+To do so, use the [ExtractDATEmbeds utility](../../../ExtractDATEmbeds) in an empty folder with just the XML DAT file inside the ROM managers unsorted input folder (or move the files there afterwards).
 
 While working with a ROM manager other than the recommended DoDAT, the files will need to be named .DOSZ.ZIP.
 To do this easily in Windows, create a file named `_swap_zip_extension.bat` with the content:
@@ -101,11 +104,9 @@ IF EXIST *.DOSZ ( ren *.dosz *.dosz.zip ) ELSE ( ren *.dosz.zip *. )
 ```
 
 <details>
-  <summary>Alternatively as a shell script:</summary>
-
+  <summary>Alternatively as a shell script for Linux/macOS</summary>
   ```sh
   #!/bin/sh
-
   if ls -- *.dosz > /dev/null 2>&1
   then
       for file in *.dosz
