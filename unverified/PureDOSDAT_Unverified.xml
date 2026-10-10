@@ -22762,6 +22762,132 @@
 		<rom name="DTU/YPINN.TAP" size="481" crc="28059739" md5="8068e25d42b777e0dbf0808002245a8d" sha1="f75dae327a03c0e00bf188941bc10e115226dea5"/>
 		<rom name="DTU/YPINN.TIG" size="2963" crc="43e931ba" md5="84974d213683a573544fd47d211f6496" sha1="d88466233cf58306880358a4a6b4682be34af6c1"/>
 	</game>
+		<game name="Destruction Derby (1995) (Reflections Interactive).dosz">
+		<description>Destruction Derby</description>
+		<comment>Installed from Redump-verified CD-ROM: Destruction Derby (USA)</comment>
+		<comment_dosc>CPU_max_year set to 1995, auto-start, and contains sound config</comment_dosc>
+		<year>1995</year>
+		<developer>Reflections Interactive</developer>
+		<link type="media">http://redump.info/disc/45604/</link>
+		<rom name="ADRV688.DIG" size="11278" crc="96dfb75d" md5="feabc78729e3a458ae2f6ab40146f0d9" sha1="255ecb5d649895d65bca49bd6afcbdf875e34bf2"/>
+		<rom name="AILDRVR.LST" size="16131" crc="3749ea2a" md5="c9077875e2399b42a186ff6b815273b9" sha1="fb6441868a3cb09d9efc7ab4f31bf93b32affe8a"/>
+		<rom name="DD.EXE" size="625281" crc="775731c6" md5="9536a4e7ef28616736d39bfca45bf570" sha1="0d3f00a814cffd6efd1ae28cfded7bc72239475d"/>
+		<rom name="Destruction Derby (USA).chd" size="665425152" crc="c3246eed" md5="ca67baccc7ac097e4701f670dd5e71fb" sha1="e68028b4013749a6726dad2f8e3de3f5e93ce5ee">
+			<track number="1" type="MODE1_RAW" frames="4464" duration="00:59:39" size="10499328" crc="17bd1482" md5="3713aa28deb14774f19a0a59cea75de6" sha1="f5f0ad296e47e7733218b37fcbb3bedca511ab6a"/>
+			<track number="2" type="AUDIO" frames="25180" pregap="150" duration="05:35:55" size="59223360" crc="896b55bf" md5="00901d5163d859a28eb9e34b2ea2408b" sha1="c1a34dc96148df32785cf1fbead6f0df1e3930c4" in_zeros="352944" out_zeros="8395"/>
+			<track number="3" type="AUDIO" frames="24095" pregap="150" duration="05:21:20" size="56671440" crc="001253ae" md5="bf4662268c50f02be4453238f08d2186" sha1="0327f0b93ad8996f5402830e22d6bad15ec87dc9" in_zeros="352950" out_zeros="1708"/>
+			<track number="4" type="AUDIO" frames="24309" pregap="150" duration="05:24:09" size="57174768" crc="6ec65808" md5="7617d4cfbcc37c9031e96e471863f4ec" sha1="9bda1d67ecb0a27d037d980d1ac6cd5d2e62f326" in_zeros="353052" out_zeros="2694"/>
+			<track number="5" type="AUDIO" frames="23609" pregap="150" duration="05:14:59" size="55528368" crc="2274c268" md5="a3099106843a3ace21c7405429ebdbfd" sha1="2e206482b3f7a0bb2ee7a13bae62597b7c8de8bd" in_zeros="352916" out_zeros="1933"/>
+			<track number="6" type="AUDIO" frames="23897" pregap="150" duration="05:18:47" size="56205744" crc="7ec00bb5" md5="a6eeda717e40b1e82fa272b061b612ec" sha1="30e514ae2dec661b0e1708f6d20e4c6b8f0d3c8d" in_zeros="352800" out_zeros="911"/>
+			<track number="7" type="AUDIO" frames="23476" pregap="150" duration="05:13:01" size="55215552" crc="5a93aff9" md5="7e5928416388ff2a5dd88c5351c9fe27" sha1="d7cc86f878f78d7f24027fc8f45c0023d2367cc6" in_zeros="352912" out_zeros="924"/>
+			<track number="8" type="AUDIO" frames="10684" pregap="150" duration="02:22:34" size="25128768" crc="f8911a3b" md5="b497ff7d12511efdba25ec66726d108e" sha1="3554854af1eccb0d56d778e086dca14390ce4279" in_zeros="353016" out_zeros="1823"/>
+			<track number="9" type="AUDIO" frames="14088" pregap="150" duration="03:07:63" size="33134976" crc="941bcf94" md5="9d86413272993d8756c1939521c87741" sha1="357213d2b55c2736ab5036d9e4982c37e7d35539" in_zeros="352868" out_zeros="1885"/>
+			<track number="10" type="AUDIO" frames="1855" pregap="150" duration="00:24:55" size="4362960" crc="bbf925b8" md5="d605efb38155e2992a7f16f984bb0290" sha1="1eaffb499307901fb0a32e9b759f945bf349541d" in_zeros="352920" out_zeros="34607"/>
+			<track number="11" type="AUDIO" frames="887" pregap="150" duration="00:11:62" size="2086224" crc="03ffb915" md5="568f7ffd4465792ebfbc6d1782c4cfc9" sha1="79f256ecd44c1e666f2fce27cd772ff887876166" in_zeros="352964" out_zeros="301"/>
+			<track number="12" type="AUDIO" frames="934" pregap="150" duration="00:12:34" size="2196768" crc="3ef1a02d" md5="d1cc2db64833706e1331bdcdffcf9820" sha1="65950aa143fd632118d494d7f66b4026c9b9b9f1" in_zeros="352950" out_zeros="1277"/>
+			<track number="13" type="AUDIO" frames="11981" pregap="150" duration="02:39:56" size="28179312" crc="4d9d34cb" md5="c2437e070237d366a6597cb8b2365347" sha1="c8c8ad58bb01dead245a25461363c8b5ade05b85" in_zeros="353120" out_zeros="1868"/>
+			<track number="14" type="AUDIO" frames="11876" pregap="150" duration="02:38:26" size="27932352" crc="6c5b8c62" md5="c69ebfdba6d1336156c443484f183552" sha1="1c61620cf4fbd926ffd02375785696f61b01dd23" in_zeros="352920" out_zeros="669"/>
+			<track number="15" type="AUDIO" frames="23316" pregap="150" duration="05:10:66" size="54839232" crc="4d627b50" md5="fafbbe8feca370e3ce07f926e5639998" sha1="704db645b35f6d254fe7b46b1d2f65da62612617" in_zeros="353106" out_zeros="1437"/>
+			<track number="16" type="AUDIO" frames="20760" pregap="150" duration="04:36:60" size="48827520" crc="d76e51bc" md5="99cf2ddbe098867e815b22b8fbde346b" sha1="8b58cad991bf24d6f0cac9c12f5ec39147add59e" in_zeros="352874" out_zeros="95"/>
+			<track number="17" type="AUDIO" frames="806" pregap="150" duration="00:10:56" size="1895712" crc="abf7914f" md5="3f3d54d5865807918a84acc205198f5e" sha1="8e1bb57e7979037aa4e3bbc073259a4358e2acdf" in_zeros="353496" out_zeros="765"/>
+			<track number="18" type="AUDIO" frames="22383" pregap="150" duration="04:58:33" size="52644816" crc="c58030c2" md5="392ce53e717a9fe0eff3deea10b8e80e" sha1="4ba8802110c5f79cd80bb1633f868f5035b8e30e" in_zeros="352978" out_zeros="4151"/>
+			<track number="19" type="AUDIO" frames="1567" pregap="150" duration="00:20:67" size="3685584" crc="2210dbee" md5="bf4c4cba8f7b8cd980a999c01b94d208" sha1="63d22e75c6124750fbcbe7a1f50e79d801d7a566" in_zeros="352876" out_zeros="794"/>
+			<track number="20" type="AUDIO" frames="4543" pregap="150" duration="01:00:43" size="10685136" crc="2f2584c3" md5="a6080babea444c488197dfec47f548ca" sha1="80ce7b3121667cf234c396eeb6a972e28e2e70e2" in_zeros="352818" out_zeros="529628"/>
+		</rom>
+		<rom name="DOS4GW.EXE" size="265396" crc="5cc34b0f" md5="006211ca60fa3d4b38a9a8da2ade1056" sha1="c489f83dc15a9ffc3c502707da40e581ec79bfe6"/>
+		<rom name="INTRO/DD" size="25856" crc="83a9adb6" md5="82c1d34348ef89d2d83ec95ac96c5462" sha1="d4e94ee4c314d649cbc5e0e7302947791d4dc6b1"/>
+		<rom name="INTRO/PSY" size="32490" crc="e21c93be" md5="16d67fbbbf818b9c60b0552a8640f9ec" sha1="1d1115a4c40ce3c8230f4ce5bd4d7f96a17621f3"/>
+		<rom name="INTRO/REFLECT" size="92254" crc="1fa73590" md5="cb35cd55fe1aa4431d242dca02e833d4" sha1="fdc3a88bfc6b2bdd3b54bd8f463cb6d4fb994e22"/>
+		<rom name="INTRO/REPCOLS" size="245" crc="b46bc3b9" md5="e8025a1745714f5336c98a36c710dd8b" sha1="f5c562e441096471f9bf5c99ceed9526fa856920"/>
+		<rom name="JAMMER.DIG" size="3219" crc="230129e0" md5="4922c729c5e7b347089a2be44f296859" sha1="103e0bf92c6fd1c9fc925fd57bdc22e56170b395"/>
+		<rom name="LEVEL001/BLOCKS0.RAW" size="401900" crc="3ace2518" md5="dc90839429649739da51a72cb08ea02d" sha1="79b474187eef81ed873466c9db250d474a31102d"/>
+		<rom name="LEVEL001/BLOCKS1.RAW" size="329239" crc="b8eaa7aa" md5="a883964636cfed3a057a26b6df0cfbd2" sha1="f67931fd1bacc4795843b6eccaaa747f34cb61fc"/>
+		<rom name="LEVEL001/COLOURS" size="33536" crc="6140fcea" md5="94a19742c212339f776789e7e05e28c9" sha1="754ab6bcccab9a12362542cfabb5043dcd0fad7f"/>
+		<rom name="LEVEL001/COLOURS.000" size="756" crc="a77bdd79" md5="4dc6b8a2e675c4fba868800248bfa7dc" sha1="9f8cc23fecd2ccd3472619e7e147c3e5368f5f39"/>
+		<rom name="LEVEL001/COLOURS.001" size="16352" crc="526942e7" md5="c948f95fed4b89fc5aaad0e3dce03a30" sha1="d089ff0f5e8018782835fa9a172a535e9aa5a6c3"/>
+		<rom name="LEVEL001/COLTAB" size="8038" crc="a4d0ba17" md5="80de0965ed3233af8d512b46c49debba" sha1="4db32a7fe9057b110e138a4e0aac5de26b879554"/>
+		<rom name="LEVEL001/LEVEL001.000" size="936463" crc="b77b50b4" md5="a4341ccb322a8fadc37c6febd53c12bc" sha1="8be49a8db411e6f0e02b683e3455a84c00495a1e"/>
+		<rom name="LEVEL001/LEVEL001.001" size="155065" crc="e47c067f" md5="47f14ddcd2d5739fb6f4c208fac89912" sha1="4d6fc94a5c47ff60a848605244aba99d051dd8f4"/>
+		<rom name="LEVEL001/MAP" size="4096" crc="03af633d" md5="2cab6b7dbbed30579df0485ed483c3b3" sha1="f3e0fb585bedace8b839989c8b0f4d0644e9a6e9"/>
+		<rom name="LEVEL001/MAP2" size="4096" crc="833345e4" md5="1d5f15c98a2c085072b3c20c5d95b577" sha1="d8bee97e2626f546fd70308acda2d5dcf0f8e679"/>
+		<rom name="LEVEL002/BLOCKS.RAW" size="398431" crc="12667783" md5="64d759191ac61f0369a59dcd48200fcc" sha1="7bed87e4944effae36b6fc51667707e87cc6cdd3"/>
+		<rom name="LEVEL002/COLOURS" size="33536" crc="a82e5ac6" md5="a86a3f89a106bf79e8195c0eb7a1152c" sha1="cd173eaea259b32de79fd77a224d4ed71e95abe4"/>
+		<rom name="LEVEL002/COLOURS.000" size="756" crc="2f202829" md5="924ab01652beff192590d39cc35c03ec" sha1="3f3392ffa4a0987e5840247bddccdacadb758ac9"/>
+		<rom name="LEVEL002/COLOURS.001" size="16538" crc="6e1b9789" md5="6c7057dd584707ce6326af22b6e3ec3d" sha1="8f00a73186e14a01cbf7d3c16086cce4f74ce417"/>
+		<rom name="LEVEL002/COLTAB" size="8048" crc="73eff457" md5="4a0825ced8fbfd26a2661bce1fec6360" sha1="ee3f63341220b222010e381a614380c1e86854ed"/>
+		<rom name="LEVEL002/LEVEL002.000" size="923957" crc="ec9ff5e6" md5="e718983b42fa6987deeb6fab6337d66a" sha1="b6f35c6ee3eebbf0e27f7bfdffac184113ff1a92"/>
+		<rom name="LEVEL002/LEVEL002.001" size="164518" crc="2de1869f" md5="ae171d5065e24768e9c27680db31d3fe" sha1="a2959dcb14f7c4ad52de941847497cdbc0fea8d0"/>
+		<rom name="LEVEL002/MAP" size="4096" crc="abd0c3e4" md5="35b112c13f8dd8a8564fa40992d18871" sha1="b8311e52a663197c841aa27d9f88242ee3bf9757"/>
+		<rom name="LEVEL002/MAP2" size="4096" crc="a883db89" md5="0b04eec4f3794a3aad1a9727eaa7a58f" sha1="79ab376ad28f20b57c612c5841006fcfa9ba3d1e"/>
+		<rom name="LEVEL003/BLOCKS.RAW" size="493677" crc="7964d636" md5="e47b6f383f95820c2a5bef525f164757" sha1="fe88667789b36ff77220f1b11b7b18f3dece49f8"/>
+		<rom name="LEVEL003/COLOURS" size="33536" crc="6c29234d" md5="b3882d2b65b695a64d892192b06aac58" sha1="d000d100bd9aeabb668e02aeff531e7cb4a6c52c"/>
+		<rom name="LEVEL003/COLOURS.000" size="756" crc="25294023" md5="edd65dbfb36093e32dcb344f91e2b64a" sha1="1f956c90aff2f70d7442e5739a3856662fcdde84"/>
+		<rom name="LEVEL003/COLOURS.001" size="16365" crc="2b71a986" md5="808a49edeb0df4113f3baf66919e77d3" sha1="c2cae62d89a37cb9936a4e396cb6936f103c522a"/>
+		<rom name="LEVEL003/COLTAB" size="7953" crc="e6e2346d" md5="d29bbbf6664d2833b5ac311882fe07a4" sha1="8e213cec4133e056700c50dd2ce83b52ad0136b0"/>
+		<rom name="LEVEL003/LEVEL003.000" size="931923" crc="bdfa4af6" md5="e6f36a4fb47c7a2298a4f9c356996463" sha1="5dd2dc5990c786d7cab428087aa6d9fe8b9a169e"/>
+		<rom name="LEVEL003/LEVEL003.001" size="163028" crc="cf8fcc61" md5="38ad83aa4774ec55d9caaae61b16043b" sha1="917a11cd41edcc32bce135c1646199db1d73ad3c"/>
+		<rom name="LEVEL003/MAP" size="4096" crc="0d22c0b6" md5="31192a17441bc12052a50d17e9204186" sha1="b3754ffa699daa801207aed1fcc72f5d2b45fae4"/>
+		<rom name="LEVEL004/BLOCKS.RAW" size="417952" crc="20216856" md5="7ad93147d99a067380a3d44243188fe7" sha1="dc70465aae6cbd186dbc2f1c2164b9b990ec83bb"/>
+		<rom name="LEVEL004/COLOURS" size="33536" crc="056130e7" md5="370492c9aec178e326a1c259d7f52175" sha1="6bcd338e5d478403e90aabfc5ac563860d67307f"/>
+		<rom name="LEVEL004/COLOURS.000" size="756" crc="fb88c626" md5="3ccfbc0b4339fbf5faedf10c353c4446" sha1="3277f69d8ddbdc3a0c6152b7171e904096b1d5ee"/>
+		<rom name="LEVEL004/COLOURS.001" size="16288" crc="8b3df861" md5="3058a8c59c4dbd57d51ef3c56bbe1e85" sha1="3022f7e8ce0716261a43767cb79cb2f5d298a3a4"/>
+		<rom name="LEVEL004/COLTAB" size="8037" crc="51ab7188" md5="2e137b0b62a965d60f98048adc34bd09" sha1="86264ea0497f9abecd1c23ab92fd2d0c4a76c539"/>
+		<rom name="LEVEL004/LEVEL004.000" size="957453" crc="c89084ab" md5="7bd56cffc0c62457374e9da24801e742" sha1="3662b268f6c495e729784ee1ee42974c753c052d"/>
+		<rom name="LEVEL004/LEVEL004.001" size="171938" crc="5302c069" md5="97b7018fd276297f3b391c6805b7b4fd" sha1="0235d2e5cf739c6e7a65f4f2e64304196e2e3e8b"/>
+		<rom name="LEVEL004/MAP" size="4096" crc="fe59b23c" md5="55870ac8f60f99c242890656978b0851" sha1="d014ad7959aa21053e9936b8eff0f55a50eb36f6"/>
+		<rom name="LEVEL004/MAP2" size="4096" crc="81387897" md5="5e9181ac7bfaba3822ed121b97b1ae73" sha1="850c50dfaff7a66f4a19ae40f86024a3ea91a4b4"/>
+		<rom name="LEVEL005/BLOCKS.RAW" size="410438" crc="f06ed0d0" md5="07e5cd09aed984af978f51ba90c72b29" sha1="339d8152796ec7177914f3a5e1c05afe55ec06c1"/>
+		<rom name="LEVEL005/COLOURS" size="33536" crc="8a1fd79d" md5="96b346473a59ca15e235081904a3afa2" sha1="88a42c3b2e011574456e546115dcc0b658ec5632"/>
+		<rom name="LEVEL005/COLOURS.000" size="745" crc="1a3cf41a" md5="6ebaff683ae24c143e59f58586700056" sha1="714a3dd5e19767ed0d3f85b070aa93cddd0d2999"/>
+		<rom name="LEVEL005/COLOURS.001" size="16307" crc="d0e55185" md5="33eacca3dba0a7176eca44e0d104475c" sha1="1a89beaeb84792930b952de28fd867c4531a4def"/>
+		<rom name="LEVEL005/COLTAB" size="7953" crc="302de165" md5="12cce331eca73bd651d1ab0ce390b233" sha1="2b5edc839bfa5d01b24593d7adb71defc99e5a6b"/>
+		<rom name="LEVEL005/LEVEL005.000" size="1025004" crc="a9cc158e" md5="adf4aeb1aebbd7f879acfce9a148fbf4" sha1="c124e26f2e282683bac5fadad7c8ac19d0816351"/>
+		<rom name="LEVEL005/LEVEL005.001" size="191023" crc="52aa2cbf" md5="87b8ce320b84d9e1cc9249f0d122b41b" sha1="3bc6816942e4732f0fdeca9d68f39c0516f7da98"/>
+		<rom name="LEVEL005/MAP" size="4096" crc="e4b3c81d" md5="fb13d9f63b786e1085c9841779003a96" sha1="32953b1167b6e89498ed83dcb19a27c5f4ec1749"/>
+		<rom name="LEVEL005/MAP2" size="4096" crc="a26f65ed" md5="741a87b70afeeaa876b56262f9c63e68" sha1="d75b6f236f87e3afada374d8a197d4aaa234f644"/>
+		<rom name="LEVEL006/COLOURS" size="33536" crc="81e93d26" md5="36e4a5640668827505506199ce0c726b" sha1="6f0d3cc62d7ee41597c0ae9766fd5ccada7cc248"/>
+		<rom name="LEVEL006/COLOURS.000" size="755" crc="f55c76cd" md5="305e44242606b94582006f089b7e99d1" sha1="2cff32a09995b0c3cd10bc816edc8556b15e4a33"/>
+		<rom name="LEVEL006/COLOURS.001" size="16458" crc="89ae8185" md5="6b33621be3e0d63f7213e266a0a6dbeb" sha1="c2cff5816d7c281e390363eceee663f6962cf331"/>
+		<rom name="LEVEL006/COLTAB" size="8050" crc="b03c2455" md5="8e322d35af1d51483b1db95bd1bf51ed" sha1="01dfee07e9c9e5ebd4abf5272d3ec6502f5090e6"/>
+		<rom name="LEVEL006/LEVEL006.000" size="947197" crc="880f972a" md5="a0f20e0f983d0f7062c7a63721996b61" sha1="62b3760c2ab7a23917239e6b2da1e033a5d67295"/>
+		<rom name="LEVEL006/LEVEL006.001" size="153673" crc="5457b7ac" md5="a327968514f95b9af8a4d86746ecafb1" sha1="927f2a431072001841774934fca7f600dd729946"/>
+		<rom name="LEVEL006/PALETTE" size="33536" crc="81e93d26" md5="36e4a5640668827505506199ce0c726b" sha1="6f0d3cc62d7ee41597c0ae9766fd5ccada7cc248"/>
+		<rom name="LEVEL007/COLOURS" size="8605" crc="fe7d8cd7" md5="44b4f197f8d4e2dd3d4d7995ff6f91b7" sha1="c9d22856905389d38bf27cc30765dfe1901f0436"/>
+		<rom name="LEVEL007/COLTAB" size="27558" crc="843e36ab" md5="496ad7643c4cab69ce92a3cbb7cb869d" sha1="766985e7813e61571e21a372f9fd30ef456685d2"/>
+		<rom name="LEVEL007/COLTAB3" size="136" crc="42f2e689" md5="c436f8694d2222949f097346257f16fe" sha1="a998bc08647010c3e3dd49f107ba194a5fafbbd1"/>
+		<rom name="LEVEL007/LEVEL007.000" size="2097152" crc="2460be30" md5="272a531e92ab0240cad72af433d8a96f" sha1="d537613da6859b8b64f69f83d944d79ad6020fb3"/>
+		<rom name="LEVEL007/LEVEL007.001" size="6012" crc="c441ffb5" md5="b09daf7691b73bb9d85e1acc55eb35de" sha1="09e683c9fae71d3cd182e2b6ce448963f9746bd2"/>
+		<rom name="LEVEL007/PALETTE" size="33536" crc="0f9563ac" md5="31d14ebbbab5ceca8e56db4d004a9695" sha1="1523d0b218d1304cd4b5b63771147a2bb5df38ff"/>
+		<rom name="LEVEL008/COLOURS" size="17063" crc="f889c7cd" md5="1fdaad5507d30ac4dbff7f2dd1c36ac7" sha1="be8353f430392bbf5c40094eecf3190b2cb525ac"/>
+		<rom name="LEVEL008/LEVEL008.000" size="390075" crc="5a4419b5" md5="2276fc0f8361e5de42265a8b1a2e71c9" sha1="cef8ca70f7b8eb1a19876f0e8b1d39b04cda975f"/>
+		<rom name="LEVEL008/LEVEL008.001" size="91044" crc="c1934d7d" md5="8529d81e6221a82fc1d036d210e7e51a" sha1="46dbd0714b8b5a3a4eb8952c187bc69342a6c592"/>
+		<rom name="LEVEL008/PAL2" size="33536" crc="68b651ff" md5="f685e62e9508005e45e46ca5ecc20988" sha1="d3219602498c65ef362caeaf1102fdb3f3e76dde"/>
+		<rom name="LEVEL008/XXX" size="17664" crc="7b460221" md5="a4113be9a512e18ac766887fa63f5ab1" sha1="cdffaf0659b981e50cb8dd85270fd66f11028177"/>
+		<rom name="LEVEL010/COLOURS" size="33536" crc="8c8781fd" md5="57cd9d543dae46593aa95d398ad76e05" sha1="ca0fa98ebab1483673e7d312750c584c07fbe6f6"/>
+		<rom name="LEVEL010/LEVEL010.000" size="476508" crc="b0ad6fb8" md5="b73e01352f89780b210dc2db3304516f" sha1="3fccb6d1a53c12bf9a5be1f09856e720e611b5de"/>
+		<rom name="LEVEL010/LEVEL010.001" size="13056" crc="353e1fb4" md5="c691672edf55cb918e5f638d3c8e4f4f" sha1="3971ec45fdddfa206169bf2df443385b6afbbbcb"/>
+		<rom name="PCAR1.RAW" size="68585" crc="88ae1699" md5="14fc83da2880abbde12e3eba50dde976" sha1="2de5ae95226f1b636eb0e5c8a2194b74c135b330"/>
+		<rom name="PCAR2.RAW" size="60528" crc="29a010cb" md5="1c92494bc00df3757136d6060334a9d1" sha1="2f82146221d672e930132e7e6f600f0fbc2fcdfb"/>
+		<rom name="PCAR21.RAW" size="60344" crc="cd75edc3" md5="87e7c4224583a4c4348d3a7ee1c9425d" sha1="8cad77760fdeebe710808d832bf35234f5750e95"/>
+		<rom name="PCAR22.RAW" size="67674" crc="fd07d900" md5="faefbee34a8f3fb21d958506799d3777" sha1="2a4efba74b3f0bce4d25dccf1b251a52ef00ccee"/>
+		<rom name="PCAR23.RAW" size="64429" crc="02b96cea" md5="f251215d051c5bf5a0e968f3eec11b26" sha1="7e57e984ce461d2612157d5512c33aadafc51497"/>
+		<rom name="PCAR3.RAW" size="65516" crc="b939d65c" md5="4b4e8f20744b9b842c64edff96bd8650" sha1="2e540009a9603bc456178903d12b67a9c4a0c851"/>
+		<rom name="PROAUDIO.DIG" size="2127" crc="4b071066" md5="a054071be574b2bcf47a0386f1a98ae6" sha1="8debfb262849ebce1da3d45387d1595712c2667b"/>
+		<rom name="RAP10.DIG" size="2849" crc="47373ef0" md5="bb846bb23ee9065a09373afdb73cf054" sha1="6081bc6e447afeaad48a8361c92e7ce280f6ea7e"/>
+		<rom name="REPLAY/REPLAY.001" size="32768" crc="08ac94c5" md5="92a9f9a2d6b41175b349e35fef3efd83" sha1="5c54b133876b872c8815d40d44c657630b83ef79"/>
+		<rom name="REPLAY/REPLAY.002" size="32768" crc="92028289" md5="476ae4533c955faa8935dcbaa410565a" sha1="6f8957b6ce299b2bdb6ef6e62e5974aadfe0dc5a"/>
+		<rom name="REPLAY/REPLAY.003" size="32768" crc="e0978173" md5="d044ea1ffbd2d1d37e94e3ea11923979" sha1="6311b3185025945bdfb061e375b862a6989cee1c"/>
+		<rom name="REPLAYS.RAW" size="12931" crc="b0269da6" md5="833a25914596a9b8187a207e1151b6f4" sha1="09a2169f6ff0c3ca1e493884a75e645151f1fc42"/>
+		<rom name="SAMPLES/SAMPLES.BIN" size="851568" crc="f69b403f" md5="a6497ab18663a1c5ba1ee983408755f0" sha1="01003d07626c17f29c57748e6464be1b8b0dfc7d"/>
+		<rom name="SAVES/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-12-31 00:00:00"/>
+		<rom name="SB16.DIG" size="2812" crc="c5d3dc1a" md5="d821437468279994b5aeeecad67ac0ad" sha1="75dec727034779d4550d6a769cf292ce176189e6"/>
+		<rom name="SBLASTER.DIG" size="2984" crc="bf414d3b" md5="fafa23a9df15ca6451344b71e50bcb0a" sha1="4b19974321eabbd40cfbf2fbb781e0799c092b95"/>
+		<rom name="SBPRO.DIG" size="2763" crc="1061490f" md5="b0fe50da778c24cc4066e960a3d1a7c3" sha1="8bc27ebd0ec30dabfd354b948801946b7e8f33d8"/>
+		<rom name="SETSOUND.EXE" size="167953" crc="3d6e21d3" md5="86c1da4152c939a786de713887bbd32b" sha1="edae462675fad5b61c79dfef8e14be4b55d152d4"/>
+		<rom name="SETUP.EXE" size="44392" crc="18b9dccb" md5="ec2d4a6665dde0f77e82849ff9809bdb" sha1="02286ddd4ba3d947e85ce6642394d413761f5bd1"/>
+		<rom name="SNDSCAPE.DIG" size="4171" crc="708a96a2" md5="9d7a052a680f45d244e0ee4735b7b55f" sha1="f9902b74d545813315194f5a1791c4ea0a9a1e0d"/>
+		<rom name="ULTRA.DIG" size="9478" crc="430d67f5" md5="000e584a06712d2f2b58eb2e17b65248" sha1="4327d6bb924b4e40fa7ff035bdfb73a879c31836"/>
+	</game>
 	<game name="Deus (1996) (Silmarils).dosz">
 		<description>Deus</description>
 		<year>1996</year>
