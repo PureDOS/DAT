@@ -90,7 +90,7 @@ foreach my $m (@files)
 					elsif ($description =~ /, (The|An|A)/ && !$unverified) { } # reported with Err below
 					elsif (!$unverified) # too many errors in unverified
 					{
-						my $expectdesc = $ingame; $expectdesc =~ s/^(.*?), (The|An|A)/\2 \1/;
+						my $expectdesc = $ingame; $expectdesc =~ s/^(.*?), (The|An|A)/\2 \1/; $expectdesc =~ s/\) \[([^\]]+)\]$/\)/;
 						my $expectname = $description.' ('.$year.') ('.$developer.')'.($g->{variant}?' ('.$g->{variant}.')' : ''); $expectname =~ s/\: / - /;
 						if ($expectdesc ne $expectname) { $XMLErr->("Game name doesn't match 'DESCRIPTION (YEAR) (DEVELOPER) (VARIANT)' template (expected  '$expectname')"); }
 					}
