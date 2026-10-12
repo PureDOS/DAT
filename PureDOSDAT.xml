@@ -7040,20 +7040,17 @@
 	</game>
 	<game name="Duke Nukem 3D - Atomic Edition (1996) (3D Realms).dosz">
 		<description>Duke Nukem 3D: Atomic Edition</description>
-		<comment>Installed v1.5 from CD. CD image converted with CHDtoOGG, BUILD.EXE and SETUP.DAT copied from the CD</comment>
+		<comment>
+			Installed v1.5 from CD, then applied NO-CD patch
+			BUILD.EXE and SETUP.DAT copied from the CD
+			DoDAT can build this directly from the disc image
+		</comment>
 		<comment_dosc>Sound Blaster 16 config, 640x480 resolution, and auto start. General MIDI option</comment_dosc>
 		<year>1996</year>
 		<developer>3D Realms</developer>
 		<link type="media">http://redump.org/disc/20161/</link>
-		<rom name="CD/Duke Nukem 3D - Atomic Edition (USA) (Track 1).bin" size="754199376" crc="5813bf88" md5="8aa5a9c9c351ea7d7dbb2cc750f9b87a" sha1="ae0f352b77125b520c94348f56146787eae10a86">
-			<source type="MODE1_RAW" frames="320663" duration="71:15:38"/>
-		</rom>
-		<rom name="CD/Duke Nukem 3D - Atomic Edition (USA) (Track 2).ogg" size="4282426" crc="81e71631" md5="0300533cf1b88eb53b0d14b10a90ef38" sha1="cc609ec8d475886392c337b9874aab6469ceb114">
-			<source type="AUDIO" frames="9532" omitted_pregap="224" duration="02:07:07" size="22419264" crc="13b3904b" md5="6fb27228ab87c6fbce2b6f4c937bf943" sha1="7539e036fc7a9db47efca6671b14a08896a3447d" in_zeros="1780" out_zeros="147133" quality="8" non_silence_pregap="1"/>
-		</rom>
-		<rom name="CD/Duke Nukem 3D - Atomic Edition (USA).cue" size="237" crc="300b1d3c" md5="7f165b91c71538c3386e22c71c4c340b" sha1="2009a3fb398082087417db9c27e2f14f54029682"/>
+		<link type="patch">https://dukeworld.com/2001-current/rtcm/duke3d-patchs/_Dukecd.zip</link>
 		<rom name="BUILD.EXE" size="588681" crc="fab19963" md5="ad529c7de3399fa3cd47f805f770f231" sha1="d19c7b9ec812982737028ca4c628ea6af0044ce0" date="1996-10-10 13:40:00"/>
-		<rom name="CDROM.INI" size="13" crc="b7b8acef" md5="c650d2f940963618422e61f0a861e72c" sha1="779f1a9f9cab30548950726c524017063e77181f" data="RDpcc3VwcG9ydFwNCg=="/>
 		<rom name="COMMIT.EXE" size="76554" crc="80deedcc" md5="6bb54698231ec5490c5933af8cb5d7d3" sha1="8832f0fc61f7286b14cac0cd1ff0a56e179c5d6f" date="1996-12-11 13:50:00"/>
 		<rom name="DEFS.CON" size="35992" crc="a869321d" md5="844c7525d96f7b1c048b288bbff36e50" sha1="38bac752f2814559b791e51ab0c7414eb11fbc4c" date="1996-12-11 13:50:00"/>
 		<rom name="DEMO1.DMO" size="11140" crc="c4cc3006" md5="7384ebef6414de7c3e960837a4774971" sha1="1589409d5ea11ef1dcaebd124cf28b8a71e99ec9" date="1996-12-11 13:50:00"/>
@@ -7061,7 +7058,9 @@
 		<rom name="DEMO3.DMO" size="9225" crc="30aa57c9" md5="32211000e7af8dafec33ef84a92c4a85" sha1="632f0d9d7e20df11a717db8f401145b624ec0842" date="1996-12-11 13:50:00"/>
 		<rom name="DN3DHELP.EXE" size="80316" crc="18fa7177" md5="37e65ae44527fed6f414f2ebe742529e" sha1="eeb5666d6e1b705e3684f8ed84ab5ac50b30a690" date="1996-12-11 13:50:00"/>
 		<rom name="DUKE.RTS" size="188954" crc="504086c1" md5="9d29f9673bbdb56068acf7645c13749c" sha1="738c7f5fd0c8b57ee2e87ae7a97bf8e21a821d07" date="1996-12-11 13:50:00"/>
-		<rom name="DUKE3D.EXE" size="1246231" crc="0167875d" md5="7f92da0bd971a64a1cfde828eb98899b" sha1="f0dc7f1ca810aa517fcad544a3bf5af623a3e44e" date="1996-12-11 13:50:00"/>
+		<rom name="DUKE3D.EXE" size="1246231" crc="cd3146c5" md5="5aa6815498f8e5a7ce1f6f1524531a1e" sha1="37407775d08c5a2177f9ede8e0a289841cf2761b" date="1996-12-11 13:50:00">
+			<patch data="UEFUQ0gIf5MAASoR4xgACXNldHVwLmV4ZUVPRg==" size="1246231" crc="0167875d" md5="7f92da0bd971a64a1cfde828eb98899b" sha1="f0dc7f1ca810aa517fcad544a3bf5af623a3e44e"/>
+		</rom>
 		<rom name="DUKE3D.GRP" size="44356548" crc="fd3dcff1" md5="22b6938fe767e5cc57d1fe13080cd522" sha1="4fdef8559e2d35b1727fe92f021df9c148cf696c" date="1996-12-11 13:50:00"/>
 		<rom name="GAME.CON" size="151190" crc="e5fdae10" md5="d54ee955de154402587912fd9358b4de" sha1="656d8d47cc7406539865a7aaf19d00f8120062a1" date="1996-12-11 13:50:00"/>
 		<rom name="LICENSE.DOC" size="4765" crc="3971fc47" md5="d54382723eebb61e61df3728846ddcae" sha1="ce1a1bb1afbd714bb96ec0c0d8e0b23a94f14c0b" date="1996-12-11 13:50:00"/>
