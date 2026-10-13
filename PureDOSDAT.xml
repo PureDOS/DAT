@@ -13018,25 +13018,49 @@
 	</game>
 	<game name="Grand Theft Auto (1997) (DMA Design).dosz">
 		<description>Grand Theft Auto</description>
-		<comment>Installed from directors cut CD with GLIDE2X.OVL extracted from 3DFX\GRTVGR.EXE off the CD</comment>
-		<comment_dosc>Sound configured and video mode calibrated, resolution set to 640x480</comment_dosc>
 		<year>1997</year>
 		<developer>DMA Design</developer>
+		<comment>
+			Installed from directors cut CD with GLIDE2X.OVL extracted from 3DFX\GRTVGR.EXE off the CD.
+			CD image converted with CHDtoOGG using -n option.
+			DoDAT can build this directly from the disc image.
+		</comment>
+		<comment_dosc>Sound configured, resolution set to 640x480, 3dfx and language launch configurations</comment_dosc>
+		<link type="media">https://redump.info/disc/30124</link>
+		<rom name="CD/Grand Theft Auto (Track 1).bin" size="43008" crc="10d89042" md5="73db37b47ede9da7e9fbaae52c6c8a8b" sha1="8a2846aac1e2ceb8a08a9cd5591e9a85228d5cab"/>
+		<rom name="CD/Grand Theft Auto (Track 2).ogg" size="4159772" crc="54b7d2dd" md5="234370ac7b4ab547021d9633ac32d0e2" sha1="64a0f9ade106f491ff8c5a5a2f5245dd116cb36e">
+			<source type="AUDIO" frames="10427" omitted_pregap="150" duration="02:19:02" size="24524304" crc="856734b8" md5="29abb60c9f6bcff03f6f9cc5ee4bf165" sha1="f51234cbf837a232b303b61646cbeaa281ff03f3" in_zeros="202448" out_zeros="564362" quality="8"/>
+		</rom>
+		<rom name="CD/Grand Theft Auto (Track 3).ogg" size="14951994" crc="713f56cf" md5="efac76cf6154d2f10cbfcf783973e079" sha1="64b6bdfdf5d43a966c66917d97ab39b6092ea6ac">
+			<source type="AUDIO" frames="33527" duration="07:27:02" size="78855504" crc="52a8774a" md5="0f8f44d1062091edc5a67fdb28477e4d" sha1="9fab4170065041d569fa6ef216700ec33ae4bb23" in_zeros="237784" out_zeros="588160" quality="8"/>
+		</rom>
+		<rom name="CD/Grand Theft Auto (Track 4).ogg" size="20245749" crc="f96c44b7" md5="bc14f841086a9a17ce70ad792e9456c6" sha1="f690aac25185e557dc7380ef5bcea7a63e7a19bd">
+			<source type="AUDIO" frames="43727" duration="09:43:02" size="102845904" crc="acd853cd" md5="e1a3affcbe8568ad935cdd6b05ce2ed3" sha1="dab995b1c8612282cc4d5446db7400449eef7b1a" in_zeros="171840" out_zeros="538068" quality="8"/>
+		</rom>
+		<rom name="CD/Grand Theft Auto (Track 5).ogg" size="18762556" crc="88002728" md5="c30f87db53ebf54ee72c972fa2a86f35" sha1="4c8423280a689d0b32111091b173a3e919cc0c62">
+			<source type="AUDIO" frames="43427" duration="09:39:02" size="102140304" crc="d6408dbb" md5="2ffa45a141c1e9877e1063cefdc5aa92" sha1="e87b02b8defa4e109e985980c7f5f677489f5c4e" in_zeros="183788" out_zeros="1083604" quality="8"/>
+		</rom>
+		<rom name="CD/Grand Theft Auto (Track 6).ogg" size="15251225" crc="75a369b7" md5="a3ff913e4ececf16879cdb00c31744bb" sha1="aedebe2a12cb17f56bcde56b9313870460002075">
+			<source type="AUDIO" frames="33977" duration="07:33:02" size="79913904" crc="7a88172a" md5="e8758b261c95f262c780acd45fe6e47f" sha1="a763e061de1781bfe09e1b84d43b4e056e136cb5" in_zeros="201128" out_zeros="591082" quality="8"/>
+		</rom>
+		<rom name="CD/Grand Theft Auto (Track 7).ogg" size="21748541" crc="e3d559ee" md5="ed6cd9c4e66056f4fbda94ecefa56d19" sha1="3e9bb8b579e5a0ea8c09ff2d1b32ae8583ae22a8">
+			<source type="AUDIO" frames="49577" duration="11:01:02" size="116605104" crc="2000df14" md5="eda9085c2d4163b58c207aa1413c97eb" sha1="5be03aa30a13602634ee78a6863755c985630854" in_zeros="197724" out_zeros="676940" quality="8"/>
+		</rom>
+		<rom name="CD/Grand Theft Auto (Track 8).ogg" size="7238428" crc="6157e9a6" md5="cac65c14f3f1ab87f6081679219a9ae0" sha1="2625756b1c0b00365c15250017b8ff1913528330">
+			<source type="AUDIO" frames="14477" duration="03:13:02" size="34049904" crc="88772d84" md5="a66b7826573717b74a1c3408a32df5f7" sha1="3823e70bdcf943f3eda7a0ba97e7b146c9ddd313" in_zeros="204308" out_zeros="477976" quality="8"/>
+		</rom>
+		<rom name="CD/Grand Theft Auto (Track 9).ogg" size="20280061" crc="e8be17c1" md5="6def9041275ce4b771016d8baa1cda95" sha1="29739eb23c7fd40aa30e7e5dc97c2eac9cb693ac">
+			<source type="AUDIO" frames="39527" duration="08:47:02" size="92967504" crc="61bb4131" md5="961fc3e896f905b816f22c8e5b251a50" sha1="1c0b61562c846839fe46142aeaa2e56fca801c85" in_zeros="157672" out_zeros="731260" quality="8"/>
+		</rom>
+		<rom name="CD/Grand Theft Auto (Track 10).ogg" size="1306850" crc="d9baebae" md5="0e1ae48ce905acbca92cb158c8c105cf" sha1="56297e7ba6e489c3f14aa37c0743cb5b60c4d0a6">
+			<source type="AUDIO" frames="4727" duration="01:03:02" size="11117904" crc="18e892f2" md5="10710c5f3ab5a0b9974a2b6c1f7b21bf" sha1="3faad28ce97aa68a59d6df1878c0a4cc014c24a4" in_zeros="109946" out_zeros="564668" quality="8"/>
+		</rom>
+		<rom name="CD/Grand Theft Auto (Track 11).ogg" size="1944069" crc="546af9ab" md5="f4b826cd2979ea64c9623d855ac3f319" sha1="17e34a2ee90a1de0e5919ab4e2d0652122ce9b06">
+			<source type="AUDIO" frames="5402" duration="01:12:02" size="12705504" crc="794c56c7" md5="033c8fb34665890712d509679b010b9b" sha1="9f9c15bec5ac5089d49bb2d26b73320498821b84" in_zeros="107930" out_zeros="155008" quality="8"/>
+		</rom>
+		<rom name="CD/Grand Theft Auto.cue" size="955" crc="10a8ad66" md5="c5ccbcd4a1dd148666c4361d50d5ebf0" sha1="719b6bc0f6380c0f6f64046b6734713b5fc19196"/>
 		<rom name="FREADME.DOC" size="5682" crc="f5f6fd34" md5="2a5094ad3156b4a1dba6162df7b262c1" sha1="2bd574abad43072439b7b685228cadd79c6c0617" date="1997-10-16 17:14:34"/>
 		<rom name="FREADME.TXT" size="3233" crc="6170401b" md5="a57e46dff33026b5a36bef7e6df5ecb4" sha1="be8e895636ad35df444f8b127bd6c671eb2d32ea" date="1997-10-16 17:12:18"/>
-		<rom name="Grand Theft Auto (USA) (En,Fr,De,It).chd" size="777935232" crc="5eb4de07" md5="7c51c8fc4826d19b4b4697996edec26d" sha1="8b34c35a2916010418085b7c9c788898b77add50">
-			<track number="1" type="MODE1_RAW" frames="42134" pregap="0" duration="09:21:59" size="99099168" crc="69c082af" md5="35dea81046e8eac3053374cd637c0b2b" sha1="e0232c49cb60bbfc634bb284bad002e0c8fdf962" in_zeros="1" out_zeros="0"/>
-			<track number="2" type="AUDIO" frames="10577" pregap="150" duration="02:21:02" size="24877104" crc="469da377" md5="f2c0e227d3c21da0672f45b4a312f674" sha1="dbb65c9eb00e4cdd91889b46095aa9445a764c88" in_zeros="555248" out_zeros="564362"/>
-			<track number="3" type="AUDIO" frames="33527" pregap="0" duration="07:27:02" size="78855504" crc="52a8774a" md5="0f8f44d1062091edc5a67fdb28477e4d" sha1="9fab4170065041d569fa6ef216700ec33ae4bb23" in_zeros="237784" out_zeros="588160"/>
-			<track number="4" type="AUDIO" frames="43727" pregap="0" duration="09:43:02" size="102845904" crc="acd853cd" md5="e1a3affcbe8568ad935cdd6b05ce2ed3" sha1="dab995b1c8612282cc4d5446db7400449eef7b1a" in_zeros="171840" out_zeros="538068"/>
-			<track number="5" type="AUDIO" frames="43427" pregap="0" duration="09:39:02" size="102140304" crc="d6408dbb" md5="2ffa45a141c1e9877e1063cefdc5aa92" sha1="e87b02b8defa4e109e985980c7f5f677489f5c4e" in_zeros="183788" out_zeros="1083604"/>
-			<track number="6" type="AUDIO" frames="33977" pregap="0" duration="07:33:02" size="79913904" crc="7a88172a" md5="e8758b261c95f262c780acd45fe6e47f" sha1="a763e061de1781bfe09e1b84d43b4e056e136cb5" in_zeros="201128" out_zeros="591082"/>
-			<track number="7" type="AUDIO" frames="49577" pregap="0" duration="11:01:02" size="116605104" crc="2000df14" md5="eda9085c2d4163b58c207aa1413c97eb" sha1="5be03aa30a13602634ee78a6863755c985630854" in_zeros="197724" out_zeros="676940"/>
-			<track number="8" type="AUDIO" frames="14477" pregap="0" duration="03:13:02" size="34049904" crc="88772d84" md5="a66b7826573717b74a1c3408a32df5f7" sha1="3823e70bdcf943f3eda7a0ba97e7b146c9ddd313" in_zeros="204308" out_zeros="477976"/>
-			<track number="9" type="AUDIO" frames="39527" pregap="0" duration="08:47:02" size="92967504" crc="61bb4131" md5="961fc3e896f905b816f22c8e5b251a50" sha1="1c0b61562c846839fe46142aeaa2e56fca801c85" in_zeros="157672" out_zeros="731260"/>
-			<track number="10" type="AUDIO" frames="4727" pregap="0" duration="01:03:02" size="11117904" crc="18e892f2" md5="10710c5f3ab5a0b9974a2b6c1f7b21bf" sha1="3faad28ce97aa68a59d6df1878c0a4cc014c24a4" in_zeros="109946" out_zeros="564668"/>
-			<track number="11" type="AUDIO" frames="5402" pregap="0" duration="01:12:02" size="12705504" crc="794c56c7" md5="033c8fb34665890712d509679b010b9b" sha1="9f9c15bec5ac5089d49bb2d26b73320498821b84" in_zeros="107930" out_zeros="155008"/>
-		</rom>
 		<rom name="GREADME.DOC" size="5825" crc="58cc7e2a" md5="10049d4e6944f911ae0697d79899fb4e" sha1="82fb7385d8311c1101addfb454d3683488cd1c77" date="1997-10-16 17:19:52"/>
 		<rom name="GREADME.TXT" size="2953" crc="6d008ba5" md5="5279768c66a948b1ad3c3d70d41fd4c3" sha1="e799fb3a7b1bc6625ab468630b5122dcb833aa3b" date="1997-10-16 17:20:10"/>
 		<rom name="GTA.BAT" size="53" crc="4c5bc5c7" md5="726a334a53adb5860783c91d4b31a667" sha1="a9119263b296fc10dc8046e9c9cea29ba0cc936e" date="1997-06-23 15:54:50"/>
