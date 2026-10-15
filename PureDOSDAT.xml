@@ -19298,12 +19298,18 @@
 		<rom name="WILL4U.PCX" size="4508" crc="cf862378" md5="40a6e1d31bae11c9e75286a49a1a3221" sha1="b374ad3952b2f6ca038b727c08595931f3da104f"/>
 		<rom name="WILLTV.EXE" size="600858" crc="615b12a5" md5="0c6c651b2a427e43de209645b39dc32e" sha1="82f7031454b1f54796ca848078ce98cd22674215"/>
 	</game>
-	<game name="SimCity Classic (1992) (Maxis).dosz">
+	<game name="SimCity Classic (1993) (Maxis).dosz">
 		<description>SimCity Classic</description>
-		<comment>Installed from the two 3.5" v2.0 floppy disks</comment>
-		<comment_dosc>Sound config, video config, and auto run</comment_dosc>
-		<year>1992</year>
+		<year>1993</year>
 		<developer>Maxis</developer>
+		<comment>
+			Installed from two 3.5" v2.0 floppy disks matching with TGOD ID: 623
+			Also matches with TDC#23 entry: SimCity Classic v2.0 (1993)(CTO S.p.A, Maxis Software Inc.) [Simulation, Strategy]
+			DoDAT cannot build this directly from the disk images
+		</comment>
+		<comment_dosc>Sound config, video config, game speed reduced, direct mouse enabled, and auto run. MT-32 and General MIDI options</comment_dosc>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=623</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/SimCity+Classic+v2.0+(1993)(CTO+S.p.A,+Maxis+Software+Inc.)+%5BSimulation,+Strategy%5D</link>
 		<rom name="CEGA/CEGADAT.PGF" size="90675" crc="0b3d84be" md5="b5e0329343f15d3bdf2786ca1d2ee264" sha1="55fc40ec2d0ca7d5f0cec053f830e4ec31394eaa"/>
 		<rom name="CEGA/CEGANTRO.PPF" size="40531" crc="c0545d15" md5="54ec9a09c73930e6385f72b218f7ad30" sha1="df6ee2761be8abdd1e1ee52098d3bfaa7edc48d1"/>
 		<rom name="CEGA/CEGASCEN.PPF" size="34432" crc="f730d5b7" md5="4a5c2c51b9b0b74cd0c247b917e207ac" sha1="dca0c019a9f7cbfa32ef267b2a650010ef65d511"/>
