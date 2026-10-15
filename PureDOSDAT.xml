@@ -15486,15 +15486,6 @@
 		<rom name="MM-DATA4.DAT" size="2790" crc="41fd1ed3" md5="7c8d05a4d883289ca4ef260fc8c060f4" sha1="0a01e9260c623a172fc745e629edec042154a4ee" date="1997-09-21 14:29:24"/>
 		<rom name="README.TXT" size="12353" crc="405f5ddf" md5="444d79490287520533b86e8cca8c6930" sha1="ec211b8898b5569c49bedc3a58eec0501b5e313d" date="1998-09-26 17:16:12"/>
 	</game>
-	<game name="Mario &amp; Luigi (1994) (Wiering Software).dosz">
-		<description>Mario &amp; Luigi</description>
-		<comment>Freeware</comment>
-		<comment_dosc>Auto start</comment_dosc>
-		<year>1994</year>
-		<developer>Wiering Software</developer>
-		<link type="freeware">https://wieringsoftware.nl/mario/index.html</link>
-		<rom name="MARIO.EXE" size="57480" crc="9ba96c89" md5="a74e4bae413b0782a348000e69d6ffd1" sha1="2ec3105c87afa08f47e495386c762318ea5e0698"/>
-	</game>
 	<game name="Mario Brothers VGA (1990) (Dave Sharpless).dosz">
 		<description>Mario Brothers VGA</description>
 		<comment_dosc>Auto run</comment_dosc>
@@ -15515,10 +15506,20 @@
 	</game>
 	<game name="Mario Teaches Typing (1992) (Interplay Entertainment).dosz">
 		<description>Mario Teaches Typing</description>
-		<comment>Installed from USA CD-ROM, CD image made from BIN/CUE</comment>
+		<comment>
+			Installed from USA CD-ROM, CD image converted with CHDtoOGG.
+			DoDAT can build this directly from the disc images.
+		</comment>
 		<comment_dosc>Sound config and auto start</comment_dosc>
 		<year>1992</year>
 		<developer>Interplay Entertainment</developer>
+		<rom name="CD/Mario Teaches Typing (Track 1).bin" size="274433712" crc="cd815612" md5="4b443974d60062432dfdacd79022c589" sha1="15eb553e1ea975369a89ca41680507bd0641e1d4">
+			<source type="MODE1_RAW" frames="116681" duration="25:55:56"/>
+		</rom>
+		<rom name="CD/Mario Teaches Typing (Track 2).ogg" size="8289453" crc="fd1ad0f9" md5="456fcce8e72d68ef2345676c84d2c0d6" sha1="2ac7432ade8d4b4a8334f62bd3fdcb172ac15b50">
+			<source type="AUDIO" frames="17912" omitted_pregap="150" duration="03:58:62" size="42129024" crc="8da480e2" md5="0b953e36a4424f7fe27cb738773b3bfe" sha1="24a03a9cb6edd249e0916537b2dc5a315c672122" in_zeros="7330" out_zeros="880067" quality="8"/>
+		</rom>
+		<rom name="CD/Mario Teaches Typing.cue" size="205" crc="390023d3" md5="422bfbcfb4894d0e8a5bd9658e4f63da" sha1="3f896a4b02688110fe270bfd7a472071360d10a0"/>
 		<rom name="ADLIB.ADV" size="14693" crc="6239a125" md5="8bd638f49996219564f7937f23b47ff9" sha1="570dab8f5beb99dcf53cba6e8dbb45e40164beb7"/>
 		<rom name="ATYP1.PC" size="920" crc="7856d8b4" md5="e84e8e5b8d16cbcffa2a430ed0718602" sha1="5b6facf1ec0c72cbd74234f353b4dba2f6facff0"/>
 		<rom name="ATYP1.XMI" size="2896" crc="ae4f58d8" md5="58b84e1175b03cc98cf1e54e6b5fb892" sha1="4ce59cee919e3953374b50ec307c79cae86be15a"/>
@@ -15600,10 +15601,6 @@
 		<rom name="LSWM.BAN" size="45144" crc="5b2dc7eb" md5="5c3752df16948bfb082f0d1efcb14add" sha1="e0b38147a5b1e57f27b18327a8ac740bdb02fd57"/>
 		<rom name="MAINMENU.CRX" size="12241" crc="ce516162" md5="2f64aa53c7545f30af9f8f70dc7a6186" sha1="2cfd15be90261628a31eba9269f1aba1176dbb58"/>
 		<rom name="MARCD.EXE" size="281337" crc="5c97f4cb" md5="44d0f4ddbf0e399bd26a8f925b8d6f76" sha1="deb9d6190bd5784ce6263c6fbb908e185c3b03ad"/>
-		<rom name="Mario Teaches Typing (USA).chd" size="328697856" crc="22c82217" md5="8c274d93e54bc9f58b87682f0170995f" sha1="cdb95b49b794d9c47d31b2a0e238f0436b02e659">
-			<track number="1" type="MODE1_RAW" frames="116681" pregap="0" duration="25:55:56" size="274433712" crc="cd815612" md5="4b443974d60062432dfdacd79022c589" sha1="15eb553e1ea975369a89ca41680507bd0641e1d4" in_zeros="1" out_zeros="0"/>
-			<track number="2" type="AUDIO" frames="18062" pregap="150" duration="04:00:62" size="42481824" crc="0b3672b9" md5="3d975b5d1bcd2ca5d8955d1e3150e588" sha1="ea7a421eaa51474b5e7bceb27c7798d969f23c11" in_zeros="360130" out_zeros="880067"/>
-		</rom>
 		<rom name="MARIO.BAT" size="20" crc="35579606" md5="55e23129cc73d3c1395806a61f174fa8" sha1="1c929e2fe796b26ac458e47e65e3ff837372746c"/>
 		<rom name="MARIO1.HLP" size="1446" crc="483fcaf9" md5="c2f877f582bcf9da2957e768f176c4ab" sha1="3f11103895fe4134aa3a5e67ac4f3a56849aa2c3"/>
 		<rom name="MARIO2.HLP" size="206" crc="fe8b7859" md5="bc167d7e89e919e025c2f4913774b5c7" sha1="173d15fc0d3bebefbcef5abb426361e029c524ed"/>
@@ -15702,55 +15699,100 @@
 	</game>
 	<game name="Mario's Early Years CD-ROM Collection (1994) (The Software Toolworks).dosz">
 		<description>Mario's Early Years CD-ROM Collection</description>
-		<comment>Installed from USA v1.01 CD-ROM with sound set to Sound Blaster with default settings and system speed set to fast</comment>
-		<comment_dosc>Auto start</comment_dosc>
+		<comment>
+			Installed from USA v1.01 CD-ROM, sound set to Sound Blaster with default settings and system speed set to fast, other files copied from CD.
+			The required MARIO.BAT and TODDLER.BAT can be created by DoDAT or ExtractDATEmbeds using the embedded data.
+			Otherwise they need to be created by installing and have "-RESD:\MEY -RUNC:\MEYCD" changed to "-RESC: -RUNC:".
+			DoDAT can build this directly from the disc images.
+		</comment>
+		<comment_dosc>Auto start, MIDI launch config</comment_dosc>
 		<year>1994</year>
 		<developer>The Software Toolworks</developer>
-		<rom name="Mario's Early Years CD-ROM Collection (USA) (v1.01).chd" size="56597760" crc="fffa8d2b" md5="d534a232bf00419925716d4cfbdf7d43" sha1="eb95ff1b58a37a9c482bcccccbcebc98055097e0">
-			<track number="1" type="MODE1_RAW" frames="23110" pregap="0" duration="05:08:10" size="54354720" crc="8d7ec152" md5="7c1fae85f953d5d359756fa123b59270" sha1="ca5f1f15f4da9ebf88efb9b85c3e9e84de369cef" in_zeros="1" out_zeros="0"/>
+		<rom name="LAUNCHER.EXE" size="138384" crc="0a36d2d9" md5="b566c7681011e278fe57dbc5cd1a6766" sha1="45589e6fe00aa26b0b1895db2294528cef6638cb" date="1994-02-09 10:21:36"/>
+		<rom name="LAUNCHER.RES" size="21677" crc="ddf043a7" md5="0e82bbf4ad4019851f263806f1ee62a4" sha1="c6142e67a26197af4fb5f284bf17f9eb3d77a353" date="1994-02-15 17:38:26"/>
+		<rom name="GENMID.ADD" size="43" crc="5d2a7081" md5="dfdfbb181d5a3a7ea2e84629ca8d9ee1" sha1="74665a2761b3b1752b54b2aad2124438e3c69d67" date="1993-07-26 10:55:10"/>
+		<rom name="GENMID.ADV" size="10590" crc="98055012" md5="831cbca7eea44a3ea422d2fbe498c2d5" sha1="fc1e05000d6c812ac614642969117929b568fdfe" date="1992-03-16 12:00:00"/>
+		<rom name="MARIO.BAT" size="194" crc="135dfc56" md5="a9fc6f660c11c3f26cc148a905f2ce73" sha1="3c7616e8a394d10667fa3985729b6ab7dbfafcf1" data="QEVDSE8gT0ZGDQpSRU0gTWFyaW8ncyBFYXJseSBZZWFycyBEZWx1eGUgVmVyc2lvbiAxLjAuMQ0KUkVNIFRNICYgQ29weXJpZ2h0IChDKSAxOTk0IE5pbnRlbmRvDQpDOg0KY2QgQzpcDQo6c3RhcnQNCkM6XExBVU5DSEVSLkVYRSAtUkVTQzogLVJVTkM6ICAlMSAlMiAlMyAlNCAlNQ0KaWYgbm90IGVycm9ybGV2ZWwgMSBnb3RvIHN0YXJ0DQo="/>
+		<rom name="MARIO.BIN" size="305008" crc="49862619" md5="12043e80a597ed7e0dd0ce42d3f15429" sha1="9eecf1403f2921e5f71ea2eeda6c9551b1385196" date="1994-03-10 14:50:58"/>
+		<rom name="MATH/ANIMS.RES" size="135048" crc="07ee1888" md5="6f5dd6bc172e741c5a710479d576d1c2" sha1="622c401b477a1b37e25565d1806ee613987be55a" date="1994-02-15 17:47:50"/>
+		<rom name="MATH/BOTH.RES" size="100732" crc="e3b60ea0" md5="78b3aabd8d4cbbd620b96c379954348d" sha1="6605fb8a939d1d8567bde8f1c836750c16ff774c" date="1994-02-15 17:49:24"/>
+		<rom name="MATH/EFFECTS.RES" size="759509" crc="bc4d6ff3" md5="4e563b4efe919fd32cfef9d0bd3ab328" sha1="95f1b986f6a49f21e0f35926d1a0b679ff9371ba" date="1994-02-15 17:49:44"/>
+		<rom name="MATH/FAST.RES" size="2523798" crc="903c3c5d" md5="e6847296c29d14bfd55e79c87cc4fa2c" sha1="9f4fed798393e644eedaf95da1d3b9698611005b" date="1994-02-15 17:51:04"/>
+		<rom name="MATH/HELPTEXT.RES" size="40875" crc="9dc4c47c" md5="b395d7949158c3416cda5bbb0408d530" sha1="bf0ae264d1444511133ff928387e5203a52ae182" date="1994-02-15 17:49:30"/>
+		<rom name="MATH/MENUS.RES" size="100010" crc="0e7eff7e" md5="3dc0b688306dc30216d4cbb5431123cb" sha1="d8b3956fcc4fae4aa4c494db49cd449bb81b2408" date="1994-02-15 17:48:02"/>
+		<rom name="MATH/MUSIC.RES" size="38392" crc="866690b1" md5="ad29dbe3ba5805506e09c2e98210b61e" sha1="e30e373792238659177598bfd4613e5445f3d385" date="1994-02-15 17:47:52"/>
+		<rom name="MATH/OPTION.RES" size="15156" crc="2d69f8c1" md5="58eb6f8f3771179e0bbbca602a163d31" sha1="4b522f74f110a613a6fdf7da315d42f5e38ad194" date="1994-02-15 17:49:32"/>
+		<rom name="MATH/PROMPTS.RES" size="1090571" crc="d54d7ebb" md5="b2abfd15e84dfa4afee33a048717a33f" sha1="c46b71df3164364e31e03a6ad9ceb3095a45adb8" date="1994-02-15 17:49:52"/>
+		<rom name="MATH/RESOURCE.CFG" size="450" crc="d657eccf" md5="d6eb8f2dca32691496c54e4e3b05591b" sha1="a74efb820cffc256e3f10b88a988cad13f25c08c" date="1993-12-08 23:20:46"/>
+		<rom name="MATH/RESOURCE.LST" size="2070" crc="c565f108" md5="7d95e87b9561edab708e40848902cbad" sha1="ef30c359717d4ccbe3fe618add1c7000d6f9168c" date="1994-02-15 17:50:38"/>
+		<rom name="MATH/SCRIPTS.RES" size="20058" crc="77de0587" md5="142f86ddb4a1a9f0550e7b412882cbfd" sha1="4c5ed237ae9aa4fe566991cf86f34b5b3a0f041a" date="1994-02-15 17:47:18"/>
+		<rom name="MATH/SLOW.RES" size="1134306" crc="eca97be5" md5="407e2a66e49e736e9a4f091c1c7c6da7" sha1="7cbb61a1f6553e7a5813c54ef31e5f90cb917304" date="1994-02-15 17:50:50"/>
+		<rom name="MATH/SONGS.RES" size="925462" crc="9d4dd537" md5="eb6edebbfdc04dc200b7bd1bbc5ce7a6" sha1="fff9725e3141daa6b5d2e5c4bde33d6d1553fa1d" date="1994-02-15 17:49:38"/>
+		<rom name="MATH/STRING.LST" size="30687" crc="33819f5f" md5="aef8b8b4bfdb7d561bd329f393f1b5d7" sha1="1fe7e7003fe10ddb9b53ef81e833ab5ac6aa7396" date="1994-02-15 17:50:38"/>
+		<rom name="MATH/TGI.RES" size="102555" crc="dd5bc1f0" md5="24d1e36589ebbd689a1d7ec59fa4c145" sha1="6e586678195df55ff7a8c852d1bc52a957cb07ac" date="1994-02-15 17:47:22"/>
+		<rom name="MATH/VANIMS.RES" size="49033" crc="8d031eeb" md5="06f0decdacab1bb6ddf608d9ece3d9d0" sha1="a84b906716be51deed2bbdd0dc893c01ea7cd07a" date="1994-02-15 17:47:28"/>
+		<rom name="MATH/WORDS.RES" size="4366938" crc="c4b86559" md5="6b9349c8ae84b418f34bebab35cbe1f4" sha1="6c1ea58057f297cdb5141bf8b0c6df6b69b0be32" date="1994-02-15 17:50:26"/>
+		<rom name="MATH/WORDSTXT.RES" size="3892" crc="432552be" md5="f94b6c49bf59d01aaf7f7cbad79d02b6" sha1="2db103e8d3bc94cc6548b05e3f4f9a175765ebe8" date="1994-02-15 17:49:26"/>
+		<rom name="MATH/WORLD.RES" size="506527" crc="9440e615" md5="896f8acab6c28f4af6a761b62a59c637" sha1="3e4b02c36367efdcb85c65b7b8e26ae77b8ef12d" date="1994-02-15 17:50:44"/>
+		<rom name="MIDPAK.AD" size="3622" crc="bbdffaba" md5="af1e30f375f049dfabace2063956a414" sha1="3a31669ff9a1b04688ac8eacaed9982a07b52187" date="1993-02-20 13:07:26"/>
+		<rom name="MIDPAK.ADD" size="41" crc="423e4f7d" md5="1a6947a0f5c9b83c5e1191d23c112dfb" sha1="12a7d3c38cddd425205393dbd7ceb5a297b99d6e" date="1993-07-26 16:31:30"/>
+		<rom name="MIDPAK.ADV" size="16263" crc="8a32bcf4" md5="ca471c65d07cca072094a0cb369c1404" sha1="27f560c56ad3a7037cc99b3ae2a0ad517e34102d" date="1992-07-07 06:00:00"/>
+		<rom name="MIDPAK.COM" size="13216" crc="a7065fac" md5="82ae26e569692c30527abdaffd8af87c" sha1="6708d3e9077abdb58fc6a8933f49dde9aac4fcc6" date="1993-07-26 09:28:02">
+			<patch data="UEFUQ0gAAQYABiACBwABAEVPRg==" size="13216" crc="d095e935" md5="95816413ab00a5fea0c46ad64f3f1f2e" sha1="c21101ffbf0318dbcf25acb6431c43c3457f94fa"/>
 		</rom>
-		<rom name="MEYCD/LAUNCHER.EXE" size="138384" crc="0a36d2d9" md5="b566c7681011e278fe57dbc5cd1a6766" sha1="45589e6fe00aa26b0b1895db2294528cef6638cb" date="1994-02-09 10:21:36"/>
-		<rom name="MEYCD/LAUNCHER.RES" size="21677" crc="ddf043a7" md5="0e82bbf4ad4019851f263806f1ee62a4" sha1="c6142e67a26197af4fb5f284bf17f9eb3d77a353" date="1994-02-15 17:38:26"/>
-		<rom name="MEYCD/MARIO.BAT" size="215" crc="7c75aa54" md5="3742bfbbf60f6e84d0ef8bd7451e5853" sha1="5012d45847567485191c04ee6668c342bc7a2a53"/>
-		<rom name="MEYCD/MARIO.BIN" size="305008" crc="49862619" md5="12043e80a597ed7e0dd0ce42d3f15429" sha1="9eecf1403f2921e5f71ea2eeda6c9551b1385196" date="1994-03-10 14:50:58"/>
-		<rom name="MEYCD/MARIOCD.ICO" size="766" crc="03a12dc6" md5="7d4babcf651c0b610a906fa588d85d9b" sha1="b0113d79e9d6163326162631360364512cb35b90" date="1994-03-08 11:14:24"/>
-		<rom name="MEYCD/MARIOCD.PIF" size="545" crc="da08d511" md5="318e8a3e934aba327e788342d0c66931" sha1="935f6404549e25d5c0ef1635c0ab6e2d433c60c7" date="1994-03-10 14:58:44"/>
-		<rom name="MEYCD/MATH/MUSIC.RES" size="38392" crc="866690b1" md5="ad29dbe3ba5805506e09c2e98210b61e" sha1="e30e373792238659177598bfd4613e5445f3d385" date="1994-02-15 17:47:52"/>
-		<rom name="MEYCD/MATH/RESOURCE.CFG" size="450" crc="d657eccf" md5="d6eb8f2dca32691496c54e4e3b05591b" sha1="a74efb820cffc256e3f10b88a988cad13f25c08c" date="1993-12-08 23:20:46"/>
-		<rom name="MEYCD/MATH/RESOURCE.LST" size="2070" crc="c565f108" md5="7d95e87b9561edab708e40848902cbad" sha1="ef30c359717d4ccbe3fe618add1c7000d6f9168c" date="1994-02-15 17:50:38"/>
-		<rom name="MEYCD/MATH/SCRIPTS.RES" size="20058" crc="77de0587" md5="142f86ddb4a1a9f0550e7b412882cbfd" sha1="4c5ed237ae9aa4fe566991cf86f34b5b3a0f041a" date="1994-02-15 17:47:18"/>
-		<rom name="MEYCD/MATH/SONGS.RES" size="925462" crc="9d4dd537" md5="eb6edebbfdc04dc200b7bd1bbc5ce7a6" sha1="fff9725e3141daa6b5d2e5c4bde33d6d1553fa1d" date="1994-02-15 17:49:38"/>
-		<rom name="MEYCD/MATH/STRING.LST" size="30687" crc="33819f5f" md5="aef8b8b4bfdb7d561bd329f393f1b5d7" sha1="1fe7e7003fe10ddb9b53ef81e833ab5ac6aa7396" date="1994-02-15 17:50:38"/>
-		<rom name="MEYCD/MIDPAK.AD" size="3622" crc="bbdffaba" md5="af1e30f375f049dfabace2063956a414" sha1="3a31669ff9a1b04688ac8eacaed9982a07b52187" date="1993-02-20 13:07:26"/>
-		<rom name="MEYCD/MIDPAK.ADD" size="41" crc="423e4f7d" md5="1a6947a0f5c9b83c5e1191d23c112dfb" sha1="12a7d3c38cddd425205393dbd7ceb5a297b99d6e" date="1993-07-26 16:31:30"/>
-		<rom name="MEYCD/MIDPAK.ADV" size="16263" crc="8a32bcf4" md5="ca471c65d07cca072094a0cb369c1404" sha1="27f560c56ad3a7037cc99b3ae2a0ad517e34102d" date="1992-07-07 06:00:00"/>
-		<rom name="MEYCD/MIDPAK.COM" size="13216" crc="a7065fac" md5="82ae26e569692c30527abdaffd8af87c" sha1="6708d3e9077abdb58fc6a8933f49dde9aac4fcc6" date="1993-07-26 09:28:02"/>
-		<rom name="MEYCD/PRE/MUSIC.RES" size="40586" crc="201a6486" md5="e1fcd502ef216ffdaa408642ceb94f8a" sha1="9d53f700cab99407255f4d199ff7882ff569a40a" date="1994-02-15 17:41:32"/>
-		<rom name="MEYCD/PRE/RESOURCE.CFG" size="450" crc="d657eccf" md5="d6eb8f2dca32691496c54e4e3b05591b" sha1="a74efb820cffc256e3f10b88a988cad13f25c08c" date="1993-12-08 23:20:46"/>
-		<rom name="MEYCD/PRE/RESOURCE.LST" size="2070" crc="6835cae2" md5="969f4e83b78ab95ce3320432a84f0b45" sha1="2a86e6356f01a0dd65eaa41fcb406e45326f41ca" date="1994-02-15 17:44:16"/>
-		<rom name="MEYCD/PRE/SCRIPTS.RES" size="15938" crc="449bec33" md5="a119a212736fba113267601d0a3bb861" sha1="1a04619069f9ce2c377d1303fec869227f82061d" date="1994-02-15 17:40:42"/>
-		<rom name="MEYCD/PRE/SONGS.RES" size="1885671" crc="1a5dfb22" md5="5e74a7fd58823d99c9a3eb40ee0173bd" sha1="25dd9c448a7dd265b9f73a36c8341fc766ef3a90" date="1994-02-15 17:43:14"/>
-		<rom name="MEYCD/PRE/STRING.LST" size="23543" crc="26a68488" md5="f87d63e6d8854d24d0fc1795181066cf" sha1="4267e71c3b686d246204893bde123b89a83a2b07" date="1994-02-15 17:44:16"/>
-		<rom name="MEYCD/READ/MUSIC.RES" size="39457" crc="fcc14567" md5="1dca128a6e334b905ebffde685d6f996" sha1="d8c9439fa76cca732dc4917754a2a10c529deacf" date="1994-02-15 17:53:44"/>
-		<rom name="MEYCD/READ/RESOURCE.CFG" size="450" crc="d657eccf" md5="d6eb8f2dca32691496c54e4e3b05591b" sha1="a74efb820cffc256e3f10b88a988cad13f25c08c" date="1993-12-08 23:21:08"/>
-		<rom name="MEYCD/READ/RESOURCE.LST" size="2070" crc="cb266f8e" md5="849ac81524f129dc3c463701e8dc69e8" sha1="2015ee04799d5846c786efd27b0dd4f0a057565b" date="1994-02-15 17:57:22"/>
-		<rom name="MEYCD/READ/SCRIPTS.RES" size="17501" crc="64db3724" md5="30243cbcb62154410688da2ca5936caa" sha1="ce9907da37010847f5884a586f3b080686e3710d" date="1994-02-15 17:53:10"/>
-		<rom name="MEYCD/READ/SONGS.RES" size="1318732" crc="1ba584f7" md5="ced85c07b2cc92eba9dd59d16a0cc463" sha1="156aaeb6d2af517baa9418d3ece58bf885a34c2e" date="1994-02-15 17:55:38"/>
-		<rom name="MEYCD/READ/STRING.LST" size="29642" crc="8634cc10" md5="a92fb13f566c6011c85f409eb6accf0a" sha1="cb2a5f92fd5848849792b4d54d708dd7681403f5" date="1994-02-15 17:57:22"/>
-		<rom name="MEYCD/README.TXT" size="10001" crc="6dd20ded" md5="3818466f3ad0a6ef8aede61e79d8be16" sha1="13374e0b8095dab98aef4f2dfb2ea3e281f55432" date="1994-05-02 13:55:36"/>
-		<rom name="MEYCD/RESOURCE.LST" size="115" crc="a00dce97" md5="20c66f16bdf5c881e661598bd4e057aa" sha1="c88e3ca91383f280e406e2fb104c74792c5ca58a" date="1994-02-15 17:38:26"/>
-		<rom name="MEYCD/SNAP.EXE" size="34054" crc="91785de2" md5="96ce1c08145ce9fa81926eaff271ffd5" sha1="dae61649fcd9f97ce2cbc9c4705372bd064344a6" date="1992-05-05 16:01:42"/>
-		<rom name="MEYCD/SOUNDRV.COM" size="4560" crc="f1e23f2d" md5="bc5824725e63aa6a9a39851a3f2756f7" sha1="c5c6474ee174791e56915c0a03ffa8eb896d8684" date="1993-08-02 17:16:20"/>
-		<rom name="MEYCD/SSTPLAN.CFG" size="11" crc="246ea40a" md5="cccb1069163a23e36ffe1b2959b6d644" sha1="05706f7553cd183013c829375d4d4c59016a0e24"/>
-		<rom name="MEYCD/STRING.LST" size="382" crc="36ee341f" md5="448f6cf710cca0416e782b59c71f1dae" sha1="b77c100118ece4114b1dfb905ef13531d5e0f815" date="1994-02-15 17:38:26"/>
-		<rom name="MEYCD/TODDLECD.ICO" size="766" crc="a8c13e36" md5="2d1cf34ead953a34e9ee52f02d13be30" sha1="72e34d40ed86008524b533490984d785f669d3c7" date="1994-03-08 11:15:38"/>
-		<rom name="MEYCD/TODDLECD.PIF" size="545" crc="7e6d1777" md5="f28922a47d1e11251935b3d8070116cd" sha1="7a0eede9b9b6bd0b2a0b831e7fced9494e2ba12d" date="1994-03-10 15:01:08"/>
-		<rom name="MEYCD/TODDLER.BAT" size="224" crc="0781ddc4" md5="cd358630f59953b5c6eac8ada225d09e" sha1="44d12dd765a568d01859c80f135af9778dd9b5a5"/>
+		<rom name="PRE/ANIMS.RES" size="321183" crc="45ec5238" md5="15bcaa94a78654977f99539c654ddef3" sha1="7cfa43d5fe66540a707509ecfd28f5d3d4d922c8" date="1994-02-15 17:41:30"/>
+		<rom name="PRE/BOTH.RES" size="221659" crc="dccb2c82" md5="33724e7965708b852939c87cab32394b" sha1="c17635c82b3711b05d0f8b1c1d89117c885583b8" date="1994-02-15 17:44:56"/>
+		<rom name="PRE/EFFECTS.RES" size="1409749" crc="c4653228" md5="9433dad9f5529f261308e65075e208a9" sha1="c7011ee3c8fec97ee240cdb717ffc77fff27a225" date="1994-02-15 17:43:24"/>
+		<rom name="PRE/FAST.RES" size="4677990" crc="1d7e61cc" md5="e81f2fdf0f33fb9fd1e898d6b5e36169" sha1="ca343544d47b18b9dfe54a087763a4eb6cdf1236" date="1994-02-15 17:44:44"/>
+		<rom name="PRE/HELPTEXT.RES" size="38160" crc="2130909f" md5="69980eec5b7bf801a300456a7af53b74" sha1="211b3a278dc70a9432104041179055289e25379c" date="1994-02-15 17:43:00"/>
+		<rom name="PRE/MENUS.RES" size="116776" crc="a0af6569" md5="18b23810281e54e3bd68b3809b2483e5" sha1="d11cb06ef87e072b63759b6c92e12c3348504334" date="1994-02-15 17:41:44"/>
+		<rom name="PRE/MUSIC.RES" size="40586" crc="201a6486" md5="e1fcd502ef216ffdaa408642ceb94f8a" sha1="9d53f700cab99407255f4d199ff7882ff569a40a" date="1994-02-15 17:41:32"/>
+		<rom name="PRE/OPTION.RES" size="15156" crc="2d69f8c1" md5="58eb6f8f3771179e0bbbca602a163d31" sha1="4b522f74f110a613a6fdf7da315d42f5e38ad194" date="1994-02-15 17:43:02"/>
+		<rom name="PRE/PROMPTS.RES" size="1083345" crc="87519310" md5="6feb823530d85e9e6b993cb2e284f209" sha1="f5eb49b39312af63c4c127629c19025ea8aba67c" date="1994-02-15 17:43:30"/>
+		<rom name="PRE/RESOURCE.CFG" size="450" crc="d657eccf" md5="d6eb8f2dca32691496c54e4e3b05591b" sha1="a74efb820cffc256e3f10b88a988cad13f25c08c" date="1993-12-08 23:20:46"/>
+		<rom name="PRE/RESOURCE.LST" size="2070" crc="6835cae2" md5="969f4e83b78ab95ce3320432a84f0b45" sha1="2a86e6356f01a0dd65eaa41fcb406e45326f41ca" date="1994-02-15 17:44:16"/>
+		<rom name="PRE/SCRIPTS.RES" size="15938" crc="449bec33" md5="a119a212736fba113267601d0a3bb861" sha1="1a04619069f9ce2c377d1303fec869227f82061d" date="1994-02-15 17:40:42"/>
+		<rom name="PRE/SLOW.RES" size="1997548" crc="b4c1b355" md5="6144ac73355b8224c382ed411dd5f088" sha1="dfda4bb5532ec49d1cf5ef402e1af48850b99503" date="1994-02-15 17:44:54"/>
+		<rom name="PRE/SONGS.RES" size="1885671" crc="1a5dfb22" md5="5e74a7fd58823d99c9a3eb40ee0173bd" sha1="25dd9c448a7dd265b9f73a36c8341fc766ef3a90" date="1994-02-15 17:43:14"/>
+		<rom name="PRE/STRING.LST" size="23543" crc="26a68488" md5="f87d63e6d8854d24d0fc1795181066cf" sha1="4267e71c3b686d246204893bde123b89a83a2b07" date="1994-02-15 17:44:16"/>
+		<rom name="PRE/TGI.RES" size="102554" crc="774db9cc" md5="ddfe11042ca3a4d403705a6b221b7cb3" sha1="019df26e6e54c878e41214a7f733c15bb25f143e" date="1994-02-15 17:40:46"/>
+		<rom name="PRE/VANIMS.RES" size="42398" crc="5df93e61" md5="7591f465992371c1c7c20340919ac725" sha1="66fcb1773f86e83566bc2edd81ed680a8e829d12" date="1994-02-15 17:40:52"/>
+		<rom name="PRE/WORDS.RES" size="4688894" crc="6e903a81" md5="b418359ad45cb66d4e040f5da48aa82a" sha1="b6702c5ae119afa268d8ade829efbf1f29b1b8e0" date="1994-02-15 17:44:06"/>
+		<rom name="PRE/WORDSTXT.RES" size="4075" crc="25119824" md5="d55e49bf2ff99cd59576de8fcb238822" sha1="0e67b7f5ec7d6b89dbd0737a1b5f8772baa2a90b" date="1994-02-15 17:42:56"/>
+		<rom name="PRE/WORLD.RES" size="341333" crc="b514e025" md5="1fa5bb619a73c12ce53d5f333d0867b9" sha1="b7422d4bc6c7f00471854c98ae70cdc56b92c182" date="1994-02-15 17:44:20"/>
+		<rom name="READ/ANIMS.RES" size="80514" crc="bb7481cc" md5="e14e61c00a7e8bd74c1fa419ca52df34" sha1="cf1c780d6631c43a25c5a641e0cb194630249f83" date="1994-02-15 17:53:42"/>
+		<rom name="READ/BOTH.RES" size="1730938" crc="ebaea05c" md5="9e442cd03277714aade48a118b48a019" sha1="fa1c486c01bfe4f993ca7261a8effada5686b578" date="1994-02-15 17:55:16"/>
+		<rom name="READ/EFFECTS.RES" size="540400" crc="c3e7d15b" md5="5b7e38758cdfbe31d62bc6066c70567a" sha1="247e2f4466ecc2d6f0463291506ef0c2e0c04252" date="1994-02-15 17:55:42"/>
+		<rom name="READ/FAST.RES" size="2810858" crc="9e29cdd5" md5="d6eb0141e2485db251c26b65af805e76" sha1="ed8ee7525267778b84faf8792a30a75f7c08f9c4" date="1994-02-15 17:57:48"/>
+		<rom name="READ/HELPTEXT.RES" size="42404" crc="c91fd653" md5="9032a7ee2eae3f1fc05faa237abb3366" sha1="a0ebdf8946eedf04041dea1187d609b3010beddd" date="1994-02-15 17:55:26"/>
+		<rom name="READ/MENUS.RES" size="119037" crc="2efd5d80" md5="29e9cf8d095dd6173a6e5da6ef2622f9" sha1="7e138d2084c18ef99de379fbcd7c06de61ef0427" date="1994-02-15 17:53:56"/>
+		<rom name="READ/MUSIC.RES" size="39457" crc="fcc14567" md5="1dca128a6e334b905ebffde685d6f996" sha1="d8c9439fa76cca732dc4917754a2a10c529deacf" date="1994-02-15 17:53:44"/>
+		<rom name="READ/OPTION.RES" size="15156" crc="2d69f8c1" md5="58eb6f8f3771179e0bbbca602a163d31" sha1="4b522f74f110a613a6fdf7da315d42f5e38ad194" date="1994-02-15 17:55:28"/>
+		<rom name="READ/PROMPTS.RES" size="1093348" crc="448a7391" md5="9d834f5631adc920153667b5bc1b5740" sha1="eef522cea9d52bea7c5a9fcbe2292345c3add175" date="1994-02-15 17:55:54"/>
+		<rom name="READ/RESOURCE.CFG" size="450" crc="d657eccf" md5="d6eb8f2dca32691496c54e4e3b05591b" sha1="a74efb820cffc256e3f10b88a988cad13f25c08c" date="1993-12-08 23:21:08"/>
+		<rom name="READ/RESOURCE.LST" size="2070" crc="cb266f8e" md5="849ac81524f129dc3c463701e8dc69e8" sha1="2015ee04799d5846c786efd27b0dd4f0a057565b" date="1994-02-15 17:57:22"/>
+		<rom name="READ/SCRIPTS.RES" size="17501" crc="64db3724" md5="30243cbcb62154410688da2ca5936caa" sha1="ce9907da37010847f5884a586f3b080686e3710d" date="1994-02-15 17:53:10"/>
+		<rom name="READ/SLOW.RES" size="1474275" crc="2552e7a3" md5="c3255ef1d01f54b9cb94e2efc090254b" sha1="d5c9ce40804c0a79be2e51617dbfa40b6fc73733" date="1994-02-15 17:57:34"/>
+		<rom name="READ/SONGS.RES" size="1318732" crc="1ba584f7" md5="ced85c07b2cc92eba9dd59d16a0cc463" sha1="156aaeb6d2af517baa9418d3ece58bf885a34c2e" date="1994-02-15 17:55:38"/>
+		<rom name="READ/STRING.LST" size="29642" crc="8634cc10" md5="a92fb13f566c6011c85f409eb6accf0a" sha1="cb2a5f92fd5848849792b4d54d708dd7681403f5" date="1994-02-15 17:57:22"/>
+		<rom name="READ/TGI.RES" size="102555" crc="ecd9c2df" md5="207c28670909f33a23c2531897b865ab" sha1="11d21ab578711531d730c0d54cbca4e75e50e1f8" date="1994-02-15 17:53:14"/>
+		<rom name="READ/VANIMS.RES" size="49033" crc="8d031eeb" md5="06f0decdacab1bb6ddf608d9ece3d9d0" sha1="a84b906716be51deed2bbdd0dc893c01ea7cd07a" date="1994-02-15 17:53:20"/>
+		<rom name="READ/WORDS.RES" size="6058821" crc="1e66d5e5" md5="253e6eadbadaf9f80bc41c5c46522689" sha1="c4b1feef6e2cb777250b181f91a730e318712f3f" date="1994-02-15 17:57:10"/>
+		<rom name="READ/WORDSTXT.RES" size="4420" crc="9c684834" md5="1998895b96a30145225344b8261f6ab2" sha1="09084215ed0d03b030aef97937438dc475e12d04" date="1994-02-15 17:55:18"/>
+		<rom name="READ/WORLD.RES" size="484849" crc="bb7901d8" md5="6cd50e36d3f9791d1978573a6763d493" sha1="2ccb611e97e1528bda9b682880cfd4954c1b698b" date="1994-02-15 17:57:28"/>
+		<rom name="README.TXT" size="10001" crc="6dd20ded" md5="3818466f3ad0a6ef8aede61e79d8be16" sha1="13374e0b8095dab98aef4f2dfb2ea3e281f55432" date="1994-05-02 13:55:36"/>
+		<rom name="RESOURCE.LST" size="115" crc="a00dce97" md5="20c66f16bdf5c881e661598bd4e057aa" sha1="c88e3ca91383f280e406e2fb104c74792c5ca58a" date="1994-02-15 17:38:26"/>
+		<rom name="RUN/MARIO.BIN" size="305008" crc="49862619" md5="12043e80a597ed7e0dd0ce42d3f15429" sha1="9eecf1403f2921e5f71ea2eeda6c9551b1385196" date="1994-03-10 14:50:58"/>
+		<rom name="SNAP.EXE" size="34054" crc="91785de2" md5="96ce1c08145ce9fa81926eaff271ffd5" sha1="dae61649fcd9f97ce2cbc9c4705372bd064344a6" date="1992-05-05 16:01:42"/>
+		<rom name="SOUNDRV.COM" size="4560" crc="f1e23f2d" md5="bc5824725e63aa6a9a39851a3f2756f7" sha1="c5c6474ee174791e56915c0a03ffa8eb896d8684" date="1993-08-02 17:16:20"/>
+		<rom name="SSTPLAN.CFG" size="11" crc="246ea40a" md5="cccb1069163a23e36ffe1b2959b6d644" sha1="05706f7553cd183013c829375d4d4c59016a0e24" data="U1NUUExBTj1BDQo="/>
+		<rom name="STRING.LST" size="382" crc="36ee341f" md5="448f6cf710cca0416e782b59c71f1dae" sha1="b77c100118ece4114b1dfb905ef13531d5e0f815" date="1994-02-15 17:38:26"/>
+		<rom name="TODDLER.BAT" size="203" crc="bfcec577" md5="03a36374b71182f5526a96b53f86de10" sha1="12e4b49b87537f465a36416446322b7a39a4b9d8" data="QEVDSE8gT0ZGDQpSRU0gTWFyaW8ncyBFYXJseSBZZWFycyBEZWx1eGUgVmVyc2lvbiAxLjAuMQ0KUkVNIFRNICYgQ29weXJpZ2h0IChDKSAxOTk0IE5pbnRlbmRvDQpDOg0KY2QgQzpcDQo6c3RhcnQNCkM6XExBVU5DSEVSLkVYRSAtUkVTQzogLVJVTkM6IC1UT0RETEVSICAlMSAlMiAlMyAlNCAlNQ0KaWYgbm90IGVycm9ybGV2ZWwgMSBnb3RvIHN0YXJ0DQo="/>
 	</game>
 	<game name="Mario's Game Gallery (1995) (Presage Software).dosz">
 		<description>Mario's Game Gallery</description>
 		<comment>Installed from USA CD-ROM</comment>
-		<comment_dosc>Sound config and auto start</comment_dosc>
+		<comment_dosc>Sound config, auto start, MIDI launch config</comment_dosc>
 		<year>1995</year>
 		<developer>Presage Software</developer>
 		<rom name="ADLIB.ADV" size="14693" crc="93779685" md5="d649a80db341ebf961f751f8f6d90e5c" sha1="9ccf42334c0eccc63f0365c74be7a53ce53e08e5"/>
@@ -15779,20 +15821,25 @@
 	</game>
 	<game name="Mario's Time Machine (1993) (The Software Toolworks).dosz">
 		<description>Mario's Time Machine</description>
-		<comment>Installed from the four v1.0.1 3.5" floppy disks</comment>
-		<comment_dosc>Sound config and auto start</comment_dosc>
+		<comment>
+			Installed from the four v1.0.1 3.5" floppy disks with the following selections:
+				Use Sound Card
+				Music Option: Creative Labs Sound Blaster Pro 16-bit (I/O port 220, IRQ 7)
+				Digitized Sound: Creative Labs Sound Blaster Pro 16-bit (I/O port 220, IRQ 7)
+		</comment>
+		<comment_dosc>Auto start</comment_dosc>
 		<year>1993</year>
 		<developer>The Software Toolworks</developer>
-		<rom name="disk1.img" size="1474560" crc="da1d9743" md5="3ffc771c2913f57e1f494532b2ccae04" sha1="49819581c8f9d4292bbf76f26807641d3c7c80c8"/>
-		<rom name="disk2.img" size="1474560" crc="42f5b50c" md5="9d907541a61e9e1df38ecf7a0c3c4a67" sha1="ec65e6260a5b9591031ade79fc8a1c5dca8a1ea0"/>
-		<rom name="disk3.img" size="1474560" crc="e6d1342f" md5="94772c0a042d72dfb66f42c2d49c018d" sha1="1d2435c179b05650a4a2291728d584e910523072"/>
-		<rom name="disk4.img" size="1474560" crc="1c15e3de" md5="7991742957f84cae8c7d73193638712b" sha1="cf7ea29ed9538f19aa781157bcc9e95e483bdfcf"/>
-		<rom name="MARIO.BIN" size="308368" crc="89cacc88" md5="df291ce8ad504990b655b0220ac05e14" sha1="b2f484bd3f6c30dd3aab6d037421c347780eec8c"/>
-		<rom name="MARIO.EXE" size="132320" crc="bf3341f2" md5="2a67906a87910bd56b096117ab51e1d6" sha1="d9d0eece818b2d0954bd66d0b2f0794edf01caa0"/>
-		<rom name="MARIO.V2L" size="5574142" crc="4fdf15b9" md5="56b241b513f2e9009eaf420a4d909d97" sha1="b0d0c0318b062944559e01c0b5d42ffbfeb0cabf"/>
-		<rom name="RESOURCE.LST" size="230" crc="788077e1" md5="a565d58246d0445efc8a990082b8133d" sha1="034d40161fb1677d875b3a546e95eadf95e45e33"/>
-		<rom name="SOUND.V2L" size="1575809" crc="7113eea8" md5="4b9cbaec1dec470c41e1b347d84f712c" sha1="a12b0abfd33fcd51a3e3401db912fff3c19033e5"/>
-		<rom name="STRING.LST" size="16722" crc="dce00f5b" md5="57d4b77c0194f4eecd1043b80c7a1f8d" sha1="4e55bdc512cff760ddd0fbc344dc3eb6f7d97c44"/>
+		<rom name="CMIDPAK.COM" size="13376" crc="c156d234" md5="a3dd0f381d8c1bca9386749abf058968" sha1="0fab48e997dd35e4066deca631eeee74669ba550" date="1993-11-16 01:00:02"/>
+		<rom name="MARIO.BIN" size="308368" crc="89cacc88" md5="df291ce8ad504990b655b0220ac05e14" sha1="b2f484bd3f6c30dd3aab6d037421c347780eec8c" date="1993-11-16 01:00:02"/>
+		<rom name="MARIO.EXE" size="132320" crc="bf3341f2" md5="2a67906a87910bd56b096117ab51e1d6" sha1="d9d0eece818b2d0954bd66d0b2f0794edf01caa0" date="1993-11-16 01:00:02"/>
+		<rom name="MARIO.V2L" size="5574142" crc="4fdf15b9" md5="56b241b513f2e9009eaf420a4d909d97" sha1="b0d0c0318b062944559e01c0b5d42ffbfeb0cabf" date="1993-11-16 01:00:02"/>
+		<rom name="MIDPAK.AD" size="3622" crc="bbdffaba" md5="af1e30f375f049dfabace2063956a414" sha1="3a31669ff9a1b04688ac8eacaed9982a07b52187" date="1993-11-16 01:00:02"/>
+		<rom name="MIDPAK.ADV" size="16263" crc="8a32bcf4" md5="ca471c65d07cca072094a0cb369c1404" sha1="27f560c56ad3a7037cc99b3ae2a0ad517e34102d" date="1993-11-16 01:00:02"/>
+		<rom name="RESOURCE.LST" size="230" crc="788077e1" md5="a565d58246d0445efc8a990082b8133d" sha1="034d40161fb1677d875b3a546e95eadf95e45e33" date="1993-11-16 01:00:02"/>
+		<rom name="SOUND.V2L" size="1575809" crc="7113eea8" md5="4b9cbaec1dec470c41e1b347d84f712c" sha1="a12b0abfd33fcd51a3e3401db912fff3c19033e5" date="1993-11-16 01:00:02"/>
+		<rom name="SOUNDRV.COM" size="4560" crc="f1e23f2d" md5="bc5824725e63aa6a9a39851a3f2756f7" sha1="c5c6474ee174791e56915c0a03ffa8eb896d8684" date="1993-11-16 01:00:02"/>
+		<rom name="STRING.LST" size="16722" crc="dce00f5b" md5="57d4b77c0194f4eecd1043b80c7a1f8d" sha1="4e55bdc512cff760ddd0fbc344dc3eb6f7d97c44" date="1993-11-16 01:00:02"/>
 	</game>
 	<game name="Mega Man (1990) (Capcom).dosz">
 		<description>Mega Man</description>
