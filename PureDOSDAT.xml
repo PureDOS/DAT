@@ -14012,10 +14012,11 @@
 	</game>
 	<game name="Jazz Jackrabbit (1994) (Epic MegaGames).dosz">
 		<description>Jazz Jackrabbit</description>
-		<comment>Installed from USA Enhanced CD-ROM packaged with Jazz Jackrabbit 2</comment>
-		<comment_dosc>English language and sound config</comment_dosc>
+		<comment>Installed v1.3 from CD-ROM release</comment>
+		<comment_dosc>Sound config and auto start</comment_dosc>
 		<year>1994</year>
 		<developer>Epic MegaGames</developer>
+		<link type="media">https://redump.info/disc/30629</link>
 		<rom name="BLOCKS.000" size="143876" crc="ade1fc09" md5="9c46dc9a8ecbf0e458f8844254df205e" sha1="c7ee1aefcc71f1466a967d89850a29a0df932882" date="1994-07-07 14:40:06"/>
 		<rom name="BLOCKS.001" size="96389" crc="7a0eb466" md5="3e96f14a0e82854e682467ecc74fd670" sha1="2ef5b450e7968f0efced0a8f70b479b3535d10a5" date="1994-07-06 19:05:58"/>
 		<rom name="BLOCKS.002" size="101307" crc="72cd057d" md5="c0ae642f03b0b43a71014b224a00aea0" sha1="4973ade1dab4930d2865ca3be6f3ceb8189e1dc5" date="1994-07-06 19:06:34"/>
@@ -14123,7 +14124,6 @@
 		<rom name="HISCORES" size="120" crc="f156fce1" md5="f38a9e4b3867c4dd3635f8273f5c508a" sha1="307e851aa12070a2e3a4e2a14847bbd7bc7a1ef0" date="1994-12-03 18:52:50"/>
 		<rom name="INSTRUCT.0SC" size="91906" crc="7de8ee53" md5="35916b77d37f026ab02c201b5f399570" sha1="de9b6c0d8f0ff68867626d825550fffe7b92dabf" date="1994-08-01 23:55:14"/>
 		<rom name="JAZZ.EXE" size="3680" crc="ff8092e9" md5="47ad6fefedaab3b3ee49c836e24b2faa" sha1="5be6c8937e38221c90b93491b70c4549f27200cb" date="1994-10-15 09:32:44"/>
-		<rom name="JAZZ.PIF" size="545" crc="0d0ea723" md5="a3860781b796b77c9d53876919f0d6f5" sha1="b2910f6e06bbb93ee6806dbb12ae0e459f797219" date="1994-07-09 17:14:04"/>
 		<rom name="LEVEL0.000" size="20390" crc="5cb75393" md5="91062611900dd8a35107de7a937a1aa0" sha1="303ba67d079f2c47393da9321bdb0ee3dfebc491" date="1994-07-28 15:09:24"/>
 		<rom name="LEVEL0.001" size="36234" crc="ec3916a5" md5="a8435263e1634aa04d2e3f187e98678d" sha1="237f1f3e19ae3b012388c6c97d344b59a47c6575" date="1994-07-28 15:09:26"/>
 		<rom name="LEVEL0.002" size="20642" crc="06025b8e" md5="323c50d3f03c81da9842923f2c047d0d" sha1="78b39276637216c4243945890f2988eabe3b976d" date="1994-07-28 15:09:26"/>
@@ -14340,149 +14340,6 @@
 		<rom name="STARTUP.0SC" size="277504" crc="67587b3e" md5="31cb0230ac17f7143944a070ba781cd4" sha1="e03d41781ed45c18afb862bd43d6e996625e3abc" date="1995-01-30 16:32:28"/>
 		<rom name="XM2.PSM" size="140563" crc="0f435417" md5="ac55bce6ac9c849e940964d2ba9b730f" sha1="808202b58347dd0dff3fa5be326f952b591970b3" date="1994-11-29 18:14:46"/>
 		<rom name="XM3.PSM" size="86521" crc="9795981d" md5="782580588c0b6698907d367665cd9fe2" sha1="37a2ecd5d4e24dfaad007f9bcab835d952df1f84" date="1994-11-29 18:33:58"/>
-	</game>
-	<game name="Jazz Jackrabbit - Holiday Hare (1994) (Epic MegaGames).dosz">
-		<description>Jazz Jackrabbit: Holiday Hare</description>
-		<comment>Shareware standalone expansion</comment>
-		<comment_dosc>Sound config</comment_dosc>
-		<year>1994</year>
-		<developer>Epic MegaGames</developer>
-		<rom name="BLOCKS.050" size="96581" crc="ecc86ebf" md5="de7401f0f86332510d35f070e1030ddf" sha1="f52d8befa022197526afc2b389f0e64f310a6a54" date="1994-11-30 08:46:18"/>
-		<rom name="BLOCKS.051" size="96580" crc="d447cd3e" md5="b8f2977ee00e51c4659cf7c1346c9a90" sha1="c0a6b92d137e78651f90e7233b8a24ec2c37c12b" date="1994-11-21 13:59:46"/>
-		<rom name="BLOCKS.052" size="96832" crc="2105582d" md5="c5e600a01671f77ff1e59a396da3e34d" sha1="9fcd2ace403995844a88fde1cffc25b07a62c9f3" date="1994-11-30 01:32:04"/>
-		<rom name="BONUS.000" size="161022" crc="2c2a30cb" md5="2e942c6f260b57f8bd515268becf873f" sha1="2bf3ee408bc1b7152811eecad3ec11ec541e03ec" date="1994-07-09 20:40:26"/>
-		<rom name="BONUS.0SC" size="51832" crc="bdbdb5ec" md5="a90a22d0fb4b7d1193299f57aa729ae8" sha1="6ae78ec6ddfaa328667d9531c6827ea52121e3ad" date="1994-05-17 22:42:44"/>
-		<rom name="BONUS.PSM" size="40760" crc="7dc2d4a7" md5="4f40fa95f03391cf0a5c992ec8a171dc" sha1="e7ea740eab6a595ac705aeab47a7041a08acb3fa" date="1994-10-13 12:21:08"/>
-		<rom name="BONUSMAP.027" size="5645" crc="71d307dd" md5="bebe03c0c6af8623352122c5692a88f1" sha1="5df8e287adb0cb29b296b41a8d58edd556f50d89" date="1994-10-01 16:39:44"/>
-		<rom name="BONUSMAP.028" size="5817" crc="e0f06df9" md5="f22ada02b88b1bdd1bd10a659f9c4803" sha1="4ece68b3b1934bd01e6d49f92af69af632ad957d" date="1994-09-21 22:28:42"/>
-		<rom name="BONUSMAP.029" size="5524" crc="925f4477" md5="09500d61bd9fa7f77ca2c7a8ea121295" sha1="46e013d3142ed81776016f2a22e9a0727f983159" date="1994-09-21 22:23:04"/>
-		<rom name="CDBONUS1.000" size="50804" crc="2d699b91" md5="1c886bcacbf8bf6bf2288681350939ae" sha1="58ddd4661d24b135f38f6c2632d051039b1e3da4" date="1994-10-01 16:39:46"/>
-		<rom name="CHEAT.0SC" size="20569" crc="fd30bbd8" md5="63d45013d53fb717e8d9a4e106963247" sha1="e2f1a5e4a696f02cd6ee5159374d4a7bfe5ea032" date="1994-08-01 00:00:00"/>
-		<rom name="CONTINUE.0SC" size="57609" crc="a8e913cc" md5="306c1abf07f6cbee2a13ba749dd717a2" sha1="757edc6dbda29cb2b23b8fd3ae57474df3992b20" date="1994-07-01 17:24:56"/>
-		<rom name="DPMI.000" size="65376" crc="04c478a9" md5="4e330f58c1070793e8a301638b5a26a7" sha1="be55ea0bf848db9fcb596ecdd2eb893104c370ae" date="1994-02-05 17:03:46"/>
-		<rom name="END.0SC" size="3207" crc="c3e7ff38" md5="731d805157724f4262d34014874cf08d" sha1="c18e6574ca5b1c1e60c48dcc0a66933e3bf50a85" date="1994-08-02 00:56:24"/>
-		<rom name="ENDEX.0SC" size="221662" crc="7ecd9325" md5="d1623d8cf0171ff4a3142428031a9b91" sha1="89d5fc995191289f4abe1837a7ac29e5751f0099" date="1994-12-02 19:26:12"/>
-		<rom name="ENDING.000" size="4000" crc="3ff978a5" md5="715326adf09774b0dd5d0233e68badbf" sha1="eb36e44334e7f2fe39c34e5e1cf1d1107064f603" date="1994-12-04 04:24:36"/>
-		<rom name="ENDLEVEL.PSM" size="58884" crc="0bc83978" md5="52432dcf098176c3c91fb8a7c4e3c539" sha1="a126f302bc90a20523e531b7c17ccf29ed2700ce" date="1994-05-10 17:22:50"/>
-		<rom name="FILE_ID.DIZ" size="462" crc="7900fbbd" md5="d6738fe6c67de28f0f95eb2a0cc82ade" sha1="94ba8c54d9af4e13893614d15787fc0a374ec01e" date="1995-12-05 01:54:38"/>
-		<rom name="FONT2.0FN" size="3819" crc="ad13fe53" md5="35c4a217f51195015197daff53224cdf" sha1="c69885bd7df880d3da4dacab080de134114f765d" date="1994-08-01 00:00:00"/>
-		<rom name="FONTBIG.0FN" size="6463" crc="1a3a24b6" md5="a7f73ec4227294e266fddde8f217582b" sha1="e91df4ba1a62a48fd5ff800d729ca9fe98323556" date="1994-08-01 00:00:00"/>
-		<rom name="FONTINY.0FN" size="3339" crc="e544b3b2" md5="c958c44dec1dfe657f54d23f0b41ace3" sha1="dee3373a5b527ece7dde43cc77aa26279dbddd5b" date="1994-08-01 00:00:00"/>
-		<rom name="FONTMN1.0FN" size="8982" crc="43e21af0" md5="dc75400edee3b5280374422352bedcb5" sha1="884aee914512f49287ceee092771e60437a9ad4d" date="1994-08-01 00:00:00"/>
-		<rom name="FONTMN2.0FN" size="6789" crc="417bca3a" md5="8a2bec985a728319c4d5181ceb2ffdd3" sha1="836fa15d4b175c05cbd693739039b6d244058b8a" date="1994-08-01 00:00:00"/>
-		<rom name="FONTS.000" size="14542" crc="1325227f" md5="2713e1bd1691e0ceddd20ddec99b68cc" sha1="cc76c0df7a0a95ddc751f619d57a711208587398" date="1994-05-17 23:12:20"/>
-		<rom name="HELPME.DOC" size="14934" crc="48c40353" md5="983d4d879496d69d7372b83b6cfd6038" sha1="da6cd281eec7a45e81566a31791a520f25fdce42" date="1994-08-15 15:01:36"/>
-		<rom name="HELPME.EXE" size="15360" crc="0324b2ac" md5="9ef7f51c7c9fb9ee32e8f054f89b3b3a" sha1="881d57a8026463c42bc6659e36551e777de12efe" date="1994-08-01 00:00:00"/>
-		<rom name="INSTRUCT.0SC" size="145067" crc="a9ec1ac3" md5="1ba893b0eaad293327977223a6d3ee5b" sha1="aef59024f5f71d27dfd0c994d28c63f927610741" date="1994-08-01 00:49:26"/>
-		<rom name="JAZZ.EXE" size="239872" crc="6c91a6ec" md5="aef49c041bdf3b32510e1841b3cf19f6" sha1="f6635dad9a6c713cb5f7ba5a5b2242bd89e79f0d" date="1994-12-03 01:31:26"/>
-		<rom name="JAZZ.PIF" size="545" crc="0d0ea723" md5="a3860781b796b77c9d53876919f0d6f5" sha1="b2910f6e06bbb93ee6806dbb12ae0e459f797219" date="1994-08-01 00:00:00"/>
-		<rom name="LEVEL0.050" size="37218" crc="0a2c3721" md5="298e8b01c8f87e695582e7fb9a777254" sha1="832290757d959fe390c0b8432e808dbe6f16cd08" date="1994-12-04 03:59:26"/>
-		<rom name="LEVEL0.051" size="37071" crc="febbddd5" md5="7a1b4f9015948d8761562b1c16610694" sha1="0bd87ed679c94ef7680c4cc9433c1d8853bcbbbd" date="1994-12-05 01:32:12"/>
-		<rom name="LEVEL0.052" size="37599" crc="7acf34dd" md5="82a5dfc622b7854061c61be460092667" sha1="db155235522259ba4dda96ec4ac3d113c444c940" date="1994-12-02 19:36:28"/>
-		<rom name="LEVEL1.050" size="36777" crc="76d42c14" md5="b06323ca61fcc567d86dd52575786906" sha1="34753ed7bf3a0be13746dafb294de4e6282bb7a7" date="1994-12-02 19:22:24"/>
-		<rom name="LICENSE.DOC" size="5221" crc="5faa9812" md5="035e60b4fb6db075411ad259aa4184c4" sha1="7d6ff37ab02925d44f3da173a3acc844769257e0" date="1995-12-05 01:56:46"/>
-		<rom name="MAINCHAR.000" size="156514" crc="b2250664" md5="928b5518a8a18c4a5f746dd6dce26205" sha1="6e369775105394b7cdfbb5f99d6fe19e53c28b43" date="1994-11-30 08:46:14"/>
-		<rom name="MANUAL.DOC" size="27637" crc="5db4b939" md5="6c8841bdcda2347b2a51538932b69b59" sha1="64c9ba8e63e5a03310b86987b12ad083bc1af15d" date="1994-07-31 23:26:36"/>
-		<rom name="MDRV000D.MUS" size="4694" crc="d4d2fd84" md5="71a445b0957edc362335acc7e2f0b338" sha1="98658e4e1b126f61a561dc002b4e6e9192e50515" date="1994-08-01 00:00:00"/>
-		<rom name="MDRV002D.MUS" size="509" crc="b92ef38d" md5="f224f68de6b6643fee0a12727787e799" sha1="277a44668f5827d47e47094dce5fd273ae6a50fc" date="1994-08-01 00:00:00"/>
-		<rom name="MDRV003D.MUS" size="4747" crc="f3147de3" md5="f9b74395b0dacbac77aa2f236009ddd9" sha1="e555c754624db386f2b0893381b89dff5142f928" date="1994-08-01 00:00:00"/>
-		<rom name="MDRV004D.MUS" size="9969" crc="839a199d" md5="fd54ca82619633b04bf660f22ba5ab48" sha1="001abfe2fd1308770626c1820601c9d972f2a434" date="1994-08-01 00:00:00"/>
-		<rom name="MDRV005D.MUS" size="9437" crc="d36d32c8" md5="2ff588805152c676671d78a540d1bdde" sha1="b38f98e89c77aa28e2f2000d34fc06394e8f07c2" date="1994-08-01 00:00:00"/>
-		<rom name="MDRVINFO.INT" size="2253" crc="a64ddc36" md5="ad8a3d3788910b11e46a1ee286bf0867" sha1="6a28d0ab7b034c849e7b31492b806416d47bad28" date="1994-12-03 19:08:06"/>
-		<rom name="MENU.000" size="220509" crc="1e5a79a9" md5="bacc09fb4351261256203e8a8827f589" sha1="ca65dcc6a3b8b535f399b639620adfc86525e88a" date="1994-12-02 19:03:30"/>
-		<rom name="MENUSNG.PSM" size="79609" crc="fd1e4e27" md5="3aaee41290193b20af044f496b12bd61" sha1="09c1f14ef8ed844186c11c5b7392d868befbddc8" date="1994-05-10 17:31:40"/>
-		<rom name="ORDER.0SC" size="203728" crc="7a8793cc" md5="ddc107a9c338d00f03c9ae6eb7d3044a" sha1="12d7420ed889c2b97ba57c33131a60dbeefaed96" date="1994-12-05 02:04:04"/>
-		<rom name="ORDER.DOC" size="4408" crc="61613d1e" md5="ccc861595b739e05c4523481f3ce11ba" sha1="1081fb4726831fe9da0cbee7bb21fc383baee1f4" date="1995-12-05 02:13:42"/>
-		<rom name="ORDER_DE.DOC" size="3838" crc="7035b385" md5="d335a211b6178a6dbcfa128540579dfe" sha1="dc60caed1c67630a15cdf5032a278ceedc0efdaa" date="1995-12-05 02:18:06"/>
-		<rom name="ORDER_UK.DOC" size="3873" crc="dbd3adf8" md5="29a516b322206e79849bbd911908d578" sha1="3b9d0f0fd2d0771df9d477dc32f9480d4702d6cc" date="1995-12-05 02:15:10"/>
-		<rom name="PANEL.000" size="13391" crc="ade21f65" md5="ab3c052db2738f437e8be81c23d90347" sha1="95170b58e0ced071a7b84f20b1b1dcda2de07b1c" date="1994-09-30 18:07:32"/>
-		<rom name="PLANET.050" size="4300" crc="16b8b70f" md5="01c0425407fbe1c0ee6b856a60c9e47c" sha1="98ae8f7d71021f5a4ce7e0de6282128136ed5ab5" date="1994-11-30 03:41:04"/>
-		<rom name="PLANET.051" size="4300" crc="16b8b70f" md5="01c0425407fbe1c0ee6b856a60c9e47c" sha1="98ae8f7d71021f5a4ce7e0de6282128136ed5ab5" date="1994-11-30 03:41:04"/>
-		<rom name="PLANET.052" size="4300" crc="16b8b70f" md5="01c0425407fbe1c0ee6b856a60c9e47c" sha1="98ae8f7d71021f5a4ce7e0de6282128136ed5ab5" date="1994-11-30 03:41:04"/>
-		<rom name="RTM.000" size="108846" crc="2e89f6e4" md5="591559541934942bdc2e9c1542d9c010" sha1="0db290e1843688dbd802d7516321feafe30f3c1f" date="1994-02-05 17:03:46"/>
-		<rom name="SETUP.EXE" size="141859" crc="9bcb8e12" md5="9ecce9b04c9617da516893a3dd9983e0" sha1="583b42725dd04b7f1966966a10924750ac567e1e" date="1994-12-03 19:07:06"/>
-		<rom name="SETUP.INT" size="2912" crc="baff0909" md5="4642be84470f7e08da357d77d7d01d5d" sha1="5f55472352c3ec54f40697e946896211e575a0cb" date="1994-12-03 19:08:06"/>
-		<rom name="SOUNDS.000" size="130603" crc="af9910e0" md5="45a942d9da1e4a7d9604a67addfdacc3" sha1="35c18e17bb4722a5ac70b98016350527c58285e6" date="1994-07-19 04:02:22"/>
-		<rom name="SOUNDS.009" size="404" crc="da4da924" md5="70fce31185573db57254b3a887f19625" sha1="52495a6838d129c5f690e16fa73eb0c6d96b5b5f" date="1994-07-06 19:15:20"/>
-		<rom name="SPRITES.050" size="67774" crc="84c3185e" md5="8ad0462eb41518e370afe87c7b5c700c" sha1="fa5b50b4a49fe06af1394ca646ee18c0123572ab" date="1994-11-30 08:46:22"/>
-		<rom name="SPRITES.051" size="16653" crc="bc34e19a" md5="29b834b05a70feb73f25f7b746b401a1" sha1="9973850c578183016780b036a68128fa47274461" date="1994-11-21 13:59:48"/>
-		<rom name="SPRITES.052" size="14986" crc="f30a6710" md5="76607201d9f2ba82efea97281c0b9cf8" sha1="76d0e5f16ecfb812ddda19c045094733ce8e0664" date="1994-11-30 01:32:06"/>
-		<rom name="STARTUP.0SC" size="123360" crc="2e7b74a0" md5="311d5d4abb6697a7bf89bd0adfe266f1" sha1="ddace9ec368966bd8df23d3e837a01e737f99c2d" date="1994-07-29 20:33:10"/>
-		<rom name="SYSOP.DOC" size="5781" crc="96bda91a" md5="36efdda8b2f40ea4b51cac29fe3b8909" sha1="30110be07cde29f7e0c07e8a8ca62d8a1a46a4f5" date="1994-08-01 00:00:00"/>
-		<rom name="VENDOR.DOC" size="3963" crc="1953a390" md5="ad0f5f5e7ff16b691d5338228d88488c" sha1="99a13f3eb6d47f72350cbc930464394859ded34a" date="1995-12-05 01:41:28"/>
-		<rom name="XM2.PSM" size="140563" crc="0f435417" md5="ac55bce6ac9c849e940964d2ba9b730f" sha1="808202b58347dd0dff3fa5be326f952b591970b3" date="1994-11-29 18:14:46"/>
-		<rom name="XM3.PSM" size="86521" crc="9795981d" md5="782580588c0b6698907d367665cd9fe2" sha1="37a2ecd5d4e24dfaad007f9bcab835d952df1f84" date="1994-11-29 18:33:58"/>
-	</game>
-	<game name="Jazz Jackrabbit - Holiday Hare 95 (1995) (Epic MegaGames).dosz">
-		<description>Jazz Jackrabbit: Holiday Hare 95</description>
-		<comment>Shareware standalone expansion</comment>
-		<comment_dosc>Sound config</comment_dosc>
-		<year>1995</year>
-		<developer>Epic MegaGames</developer>
-		<rom name="BLOCKS.050" size="113568" crc="ed0b2bea" md5="e2ff81572e50a52c31facdd4226dd0c7" sha1="25aac1a114390368cf57baaba062d13b09bde12e" date="1995-09-13 01:46:28"/>
-		<rom name="BLOCKS.051" size="126269" crc="a61d0dfa" md5="9925385e47cd2b9588752e9fa3723850" sha1="5e1b105e5591b2321b202b57941b2273a104280c" date="1995-09-01 05:10:28"/>
-		<rom name="BONUS.0SC" size="51832" crc="bdbdb5ec" md5="a90a22d0fb4b7d1193299f57aa729ae8" sha1="6ae78ec6ddfaa328667d9531c6827ea52121e3ad" date="1994-05-17 22:42:44"/>
-		<rom name="CHEAT.0SC" size="20569" crc="fd30bbd8" md5="63d45013d53fb717e8d9a4e106963247" sha1="e2f1a5e4a696f02cd6ee5159374d4a7bfe5ea032" date="1994-08-01 00:00:00"/>
-		<rom name="CONTINUE.0SC" size="57609" crc="a8e913cc" md5="306c1abf07f6cbee2a13ba749dd717a2" sha1="757edc6dbda29cb2b23b8fd3ae57474df3992b20" date="1994-07-01 17:24:56"/>
-		<rom name="DPMI.000" size="65376" crc="04c478a9" md5="4e330f58c1070793e8a301638b5a26a7" sha1="be55ea0bf848db9fcb596ecdd2eb893104c370ae" date="1994-02-05 17:03:46"/>
-		<rom name="END.0SC" size="3207" crc="c3e7ff38" md5="731d805157724f4262d34014874cf08d" sha1="c18e6574ca5b1c1e60c48dcc0a66933e3bf50a85" date="1994-08-02 00:56:24"/>
-		<rom name="ENDEX.0SC" size="84815" crc="31ea0595" md5="6340780c16f103e7125a2b225d847d3b" sha1="9a3d2f98f9bdabc0f82ef464bcacd06f58f585c8" date="1995-10-15 02:03:24"/>
-		<rom name="ENDING.000" size="4000" crc="5412f08c" md5="944baa7d3e08445846feb421f7b1a93f" sha1="fe4905332efadc81264bb9333b8254aff98d9e95" date="1995-10-15 02:26:10"/>
-		<rom name="ENDLEVEL.PSM" size="58884" crc="0bc83978" md5="52432dcf098176c3c91fb8a7c4e3c539" sha1="a126f302bc90a20523e531b7c17ccf29ed2700ce" date="1994-05-10 17:22:50"/>
-		<rom name="FILE_ID.DIZ" size="276" crc="a6c6be16" md5="4a8f864349f7e2ae7488499268b7e018" sha1="e4d50a703a90ac59879a18c1d9d914c68e391997" date="1995-10-17 13:26:56"/>
-		<rom name="FONT2.0FN" size="3819" crc="ad13fe53" md5="35c4a217f51195015197daff53224cdf" sha1="c69885bd7df880d3da4dacab080de134114f765d" date="1994-08-01 00:00:00"/>
-		<rom name="FONTBIG.0FN" size="6463" crc="1a3a24b6" md5="a7f73ec4227294e266fddde8f217582b" sha1="e91df4ba1a62a48fd5ff800d729ca9fe98323556" date="1994-08-01 00:00:00"/>
-		<rom name="FONTINY.0FN" size="3339" crc="e544b3b2" md5="c958c44dec1dfe657f54d23f0b41ace3" sha1="dee3373a5b527ece7dde43cc77aa26279dbddd5b" date="1994-08-01 00:00:00"/>
-		<rom name="FONTMN1.0FN" size="8982" crc="43e21af0" md5="dc75400edee3b5280374422352bedcb5" sha1="884aee914512f49287ceee092771e60437a9ad4d" date="1994-08-01 00:00:00"/>
-		<rom name="FONTMN2.0FN" size="6789" crc="417bca3a" md5="8a2bec985a728319c4d5181ceb2ffdd3" sha1="836fa15d4b175c05cbd693739039b6d244058b8a" date="1994-08-01 00:00:00"/>
-		<rom name="FONTS.000" size="14542" crc="1325227f" md5="2713e1bd1691e0ceddd20ddec99b68cc" sha1="cc76c0df7a0a95ddc751f619d57a711208587398" date="1994-05-17 23:12:20"/>
-		<rom name="HELPME.DOC" size="17867" crc="27c51035" md5="83cc4101aa33d5b5ab3d768ab5b2ed17" sha1="5ad1bfc69c76baf2f320b7ca8bbdfc50c581e716" date="1995-10-17 18:31:24"/>
-		<rom name="HELPME.EXE" size="15360" crc="0324b2ac" md5="9ef7f51c7c9fb9ee32e8f054f89b3b3a" sha1="881d57a8026463c42bc6659e36551e777de12efe" date="1994-08-01 00:00:00"/>
-		<rom name="INSTRUCT.0SC" size="145067" crc="a9ec1ac3" md5="1ba893b0eaad293327977223a6d3ee5b" sha1="aef59024f5f71d27dfd0c994d28c63f927610741" date="1994-08-01 00:49:26"/>
-		<rom name="JAZZ.EXE" size="239616" crc="ac6ea9b5" md5="5cec6c5f04b234459b228c727709ec68" sha1="7e49387a17429fba459aa1c390872935ac34ee24" date="1995-09-28 22:29:14"/>
-		<rom name="JAZZ.PIF" size="545" crc="0d0ea723" md5="a3860781b796b77c9d53876919f0d6f5" sha1="b2910f6e06bbb93ee6806dbb12ae0e459f797219" date="1994-08-01 00:00:00"/>
-		<rom name="LEVEL0.050" size="44078" crc="2c4295e9" md5="9e337ebb16f6c0c869d9336076b586a0" sha1="3c71d8c06ecad218813f34c3385e1d173fb259b3" date="1995-09-28 17:26:42"/>
-		<rom name="LEVEL0.051" size="34386" crc="4ba0c450" md5="56134d2cb43b961f4842da492c270fc8" sha1="e74d4f70aa84dba91ea9a491470c09b9d8b427ed" date="1995-09-28 16:55:42"/>
-		<rom name="LEVEL1.050" size="32424" crc="b905bd2c" md5="9cfc28346762e697b6b394718b84dc23" sha1="7b496548d64c95977a4275b66730eaa1d211ef88" date="1995-09-27 14:50:06"/>
-		<rom name="LEVEL1.051" size="23659" crc="0a6f0d28" md5="9f78ac7c29f2659124df572877d5d3bc" sha1="599b5716762e6064b4bcd37db7ccf786856c3160" date="1995-09-15 15:35:06"/>
-		<rom name="LEVEL2.050" size="23075" crc="b9de6f95" md5="a079562596743f42323d4ac7c504d34a" sha1="2ffb0a18b7ede3b79fb1cbd7c08fe0c5c831489e" date="1995-09-28 23:46:26"/>
-		<rom name="LICENSE.DOC" size="15026" crc="62689a7e" md5="f7018ad71b97a0e9ba666962b27f5a86" sha1="673e4dbb2fbf252b7b87ddf0b17fc43728af9deb" date="1995-10-17 17:36:40"/>
-		<rom name="MAINCHAR.000" size="23202" crc="bbc63012" md5="87074b84fc3c1e231953a0ce3ecd0d45" sha1="7c8f102586b27ebc18221355a7784a4630b6fa0c" date="1995-09-01 05:10:28"/>
-		<rom name="MDRV000D.MUS" size="4694" crc="d4d2fd84" md5="71a445b0957edc362335acc7e2f0b338" sha1="98658e4e1b126f61a561dc002b4e6e9192e50515" date="1994-08-01 00:00:00"/>
-		<rom name="MDRV001D.MUS" size="515" crc="e8c1bb35" md5="3560ea6b3d7e329983f9d0e5c0acbf33" sha1="d9d02625294e1275b8c4f6ac1d7a89d5e2cc180f" date="1995-10-17 13:11:30"/>
-		<rom name="MDRV002D.MUS" size="509" crc="b92ef38d" md5="f224f68de6b6643fee0a12727787e799" sha1="277a44668f5827d47e47094dce5fd273ae6a50fc" date="1995-08-23 19:06:54"/>
-		<rom name="MDRV003D.MUS" size="4747" crc="f3147de3" md5="f9b74395b0dacbac77aa2f236009ddd9" sha1="e555c754624db386f2b0893381b89dff5142f928" date="1994-08-01 00:00:00"/>
-		<rom name="MDRV004D.MUS" size="9969" crc="8e442d74" md5="87ed8abc9506c798de2d3eb59ad76132" sha1="d9db3c5af85a281f88806b59ce8c37abf47068e2" date="1995-12-18 09:22:40"/>
-		<rom name="MDRV005D.MUS" size="9437" crc="d36d32c8" md5="2ff588805152c676671d78a540d1bdde" sha1="b38f98e89c77aa28e2f2000d34fc06394e8f07c2" date="1994-08-01 00:00:00"/>
-		<rom name="MDRVINFO.INT" size="2253" crc="a64ddc36" md5="ad8a3d3788910b11e46a1ee286bf0867" sha1="6a28d0ab7b034c849e7b31492b806416d47bad28" date="1994-12-03 19:08:06"/>
-		<rom name="MENU.000" size="220509" crc="1e5a79a9" md5="bacc09fb4351261256203e8a8827f589" sha1="ca65dcc6a3b8b535f399b639620adfc86525e88a" date="1994-12-02 19:03:30"/>
-		<rom name="MENUSNG.PSM" size="79609" crc="fd1e4e27" md5="3aaee41290193b20af044f496b12bd61" sha1="09c1f14ef8ed844186c11c5b7392d868befbddc8" date="1994-05-10 17:31:40"/>
-		<rom name="ORDER.0SC" size="60660" crc="3b0c3b2b" md5="c10282bdc436442e2e5d06722e68bbe7" sha1="d060ecad77a8b29b25da6df89267979267786381" date="1995-10-15 02:03:26"/>
-		<rom name="ORDER.DOC" size="6164" crc="e627adf6" md5="5dd3db954a468af996f6128e1901f6fb" sha1="09d2d05faf4227e97c5d7820c9a4113328e48dbc" date="1995-10-17 13:28:16"/>
-		<rom name="ORDER_DE.DOC" size="3885" crc="70108792" md5="29bab04dbfd4731504884416b0fd7596" sha1="0b611563c21a17a42f3691236a13d9c496bb6bff" date="1995-08-08 00:00:08"/>
-		<rom name="ORDER_UK.DOC" size="5742" crc="4c89ec4b" md5="d8337ec370c2ff918e71b1aa96a583ce" sha1="5c5fc228e5e9a02a080dca61279989bd8ffffc68" date="1995-10-17 13:28:36"/>
-		<rom name="PANEL.000" size="13391" crc="ade21f65" md5="ab3c052db2738f437e8be81c23d90347" sha1="95170b58e0ced071a7b84f20b1b1dcda2de07b1c" date="1994-09-30 18:07:32"/>
-		<rom name="PLANET.050" size="4300" crc="d35610fb" md5="3e90a7d624c302e8afb50b37784e0a50" sha1="8012da4f467456c9986591879023a7350cdb86c9" date="1994-11-30 03:41:04"/>
-		<rom name="PLANET.051" size="4300" crc="6d4e8f82" md5="165d0368e484a17ec55d4f676de791af" sha1="2a34e2cffde74263e076c9a172030d2006e34523" date="1994-11-30 03:41:04"/>
-		<rom name="README.TXT" size="514" crc="60a2a1c8" md5="eb9c992c70498b4958a5170c55f0f747" sha1="925470babf3378a84bd231b5c2e876c377a284c7" date="1995-10-17 13:22:50"/>
-		<rom name="RTM.000" size="108846" crc="2e89f6e4" md5="591559541934942bdc2e9c1542d9c010" sha1="0db290e1843688dbd802d7516321feafe30f3c1f" date="1994-02-05 17:03:46"/>
-		<rom name="SETUP.EXE" size="141859" crc="9bcb8e12" md5="9ecce9b04c9617da516893a3dd9983e0" sha1="583b42725dd04b7f1966966a10924750ac567e1e" date="1994-12-03 19:07:06"/>
-		<rom name="SETUP.INT" size="2912" crc="baff0909" md5="4642be84470f7e08da357d77d7d01d5d" sha1="5f55472352c3ec54f40697e946896211e575a0cb" date="1994-12-03 19:08:06"/>
-		<rom name="SETUP.ITS" size="2804" crc="28098255" md5="9931ff6d226c5fd411bcf246d6d4ff9f" sha1="9b04ac0f5fc3e470c96493d0e5296fd12bb13a43" date="1994-05-05 23:32:44"/>
-		<rom name="SOUNDS.000" size="130603" crc="af9910e0" md5="45a942d9da1e4a7d9604a67addfdacc3" sha1="35c18e17bb4722a5ac70b98016350527c58285e6" date="1994-07-19 04:02:22"/>
-		<rom name="SOUNDS.001" size="404" crc="da4da924" md5="70fce31185573db57254b3a887f19625" sha1="52495a6838d129c5f690e16fa73eb0c6d96b5b5f" date="1994-07-06 19:15:20"/>
-		<rom name="SOUNDS.006" size="404" crc="da4da924" md5="70fce31185573db57254b3a887f19625" sha1="52495a6838d129c5f690e16fa73eb0c6d96b5b5f" date="1994-07-06 19:15:20"/>
-		<rom name="SOUNDS.007" size="404" crc="da4da924" md5="70fce31185573db57254b3a887f19625" sha1="52495a6838d129c5f690e16fa73eb0c6d96b5b5f" date="1994-07-06 19:15:20"/>
-		<rom name="SOUNDS.008" size="404" crc="da4da924" md5="70fce31185573db57254b3a887f19625" sha1="52495a6838d129c5f690e16fa73eb0c6d96b5b5f" date="1994-07-06 19:15:20"/>
-		<rom name="SOUNDS.009" size="404" crc="da4da924" md5="70fce31185573db57254b3a887f19625" sha1="52495a6838d129c5f690e16fa73eb0c6d96b5b5f" date="1994-07-06 19:15:20"/>
-		<rom name="SPRITES.000" size="33434" crc="3d259941" md5="5e60e454cf2ebbf04a0c36d3e987dd3e" sha1="e4f7176b27067955d06833fc20bfd3b6e18032a0" date="1994-07-07 14:40:08"/>
-		<rom name="SPRITES.050" size="193776" crc="78061dd1" md5="74fe1ccea6f1fcfb4acd2d79f91ead35" sha1="e90dd6c7f9a5b7af710ba0b286acde92911cf2f7" date="1995-10-15 02:06:32"/>
-		<rom name="SPRITES.051" size="213471" crc="5c0d2344" md5="6ff6aaa52a46521165ef359428699c33" sha1="16bc15c58ab49fdb38ce99829184a4d9c166edef" date="1995-09-13 01:46:42"/>
-		<rom name="STARTUP.0SC" size="92654" crc="0fadda4f" md5="95a31ce54178ef1aa264313fe9c787b3" sha1="b1932f424a2402c8dbc9405f5107ac1138078d6e" date="1995-10-15 02:03:28"/>
-		<rom name="VENDOR.DOC" size="3973" crc="96fb5915" md5="b01bac146b094a2ce4a3a35be3a49cdd" sha1="1c386d65737318ec87af6d56bbe600193740da01" date="1995-10-17 17:41:10"/>
-		<rom name="XM3.PSM" size="86521" crc="9795981d" md5="782580588c0b6698907d367665cd9fe2" sha1="37a2ecd5d4e24dfaad007f9bcab835d952df1f84" date="1994-11-29 18:33:58"/>
-		<rom name="XMAS2.PSM" size="136849" crc="4bf10799" md5="2cff502e4831a658b1c63257838a3ebf" sha1="cb1483acc93019333d5923abead301e10b565afb" date="1995-09-27 03:01:40"/>
-		<rom name="XMAS3.PSM" size="181650" crc="fe0ed271" md5="f1f1b66abb6fa42dcb0221fb21c97319" sha1="d08254373447fc0e68b5f280f6367030dd27b2a7" date="1995-09-27 03:03:42"/>
 	</game>
 	<game name="Jet Set Willy PC (1999) (Andy Noble).dosz">
 		<description>Jet Set Willy PC</description>
