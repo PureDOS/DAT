@@ -2727,6 +2727,42 @@
 		<rom name="VGALEMMI.EX_" size="32706" crc="c3b7db59" md5="a540f2649ae6790ea3fb679f5acefd02" sha1="17e79989a0019e3e23f0733e01b1b2fbd937ee08" date="1991-11-14 13:34:32"/>
 		<rom name="VGALEMMI.EXE" size="33007" crc="17aba803" md5="08f692190f6af437155a34a2404e3492" sha1="67aee5b891e9d2e99f988e167e51f6681f10363c" date="1991-11-29 00:56:44"/>
 	</game>
+		<game name="QBasic Gorillas (1990) (Sparcie, Microsoft) (CPU opponent variant).dosz">
+		<description>QBasic Gorillas</description>
+		<year>1990</year>
+		<developer>Sparcie, Microsoft</developer>
+		<comment>Matches TDC #23 Entry: Microsoft Gorillas [f2] (1990)(Microsoft Corporation) [Strategy]</comment>
+		<comment_dosc>Auto-start, CPU_max_year set to 1990</comment_dosc>
+		<variant>Adds a CPU opponent if you enter player 2's name as Computer</variant>
+		<link type="media">https://puredos.github.io/tdc-browser/?/Microsoft+Gorillas+%5Bf2%5D+(1990)(Microsoft+Corporation)+%5BStrategy%5D</link>
+		<rom name="GO.BAT" size="26" crc="5211f9cb" md5="26550ffb3ea8db1595048fa4f63b5cfd" sha1="19cf1f64be23b71faebb2e61bdee84ce094a6964" date="2018-02-09 13:22:10"/>
+		<rom name="GOR-AI.BAS" size="31463" crc="548cb1ab" md5="fd8f81c61319769ac2636cf1676e0b75" sha1="4f9473c40c271d7eddf70a6f55149234320af3ea" date="2016-05-04 19:11:20"/>
+		<rom name="QBASIC.EXE" size="254799" crc="19f6ed75" md5="cfe8a767cf1df5a35ce61839dbf09b74" sha1="9cbe4360df33fbfeeb005d4da5f43e814ac0f365" date="1991-04-08 17:28:02"/>
+	</game>
+		<game name="QBasic Gorillas (1991) (IBM) (IBM variant).dosz">
+		<description>QBasic Gorillas</description>
+		<year>1991</year>
+		<developer>IBM</developer>
+		<comment>Matches TDC #23 Entry: QBasic Gorillas (1991)(IBM, Microsoft Corporation) [Strategy]</comment>
+		<comment_dosc>Auto-start, CPU_max_year set to 1991</comment_dosc>
+		<variant>IBM has replaced Microsoft in the copyright screen</variant>
+		<link type="media">https://puredos.github.io/tdc-browser/?/QBasic+Gorillas+(1991)(IBM,+Microsoft+Corporation)+%5BStrategy%5D</link>
+		<rom name="gorilla.bas" size="30702" crc="660b3cbe" md5="d183af2b5f81aecc692a681a81869a7e" sha1="03154783ae603b38c51f24f3c655198188f920ba" date="1996-08-13 10:52:56"/>
+		<rom name="Gorillas.bat" size="27" crc="1471bb31" md5="cf36686c7287865fa24151ae7871a8ea" sha1="30b88308699ebe6ddd68026972f670202feebf98" date="2008-03-20 01:24:52"/>
+		<rom name="qbasic.exe" size="194309" crc="3152911c" md5="f84f0bf74b830603a29f77b11b9e4833" sha1="92be77d638779de9e65a9798cd413197907bfab8" date="1998-05-11 20:01:00"/>
+	</game>
+		<game name="QBasic Gorillas (1997) (Daniel Beardsmore, Microsoft) (Deluxe Edition Variant).dosz">
+		<description>QBasic Gorillas</description>
+		<year>1990</year>
+		<developer>Daniel Beardsmore, Microsoft</developer>
+		<comment>Matches TDC #23 Entry: GORILLAS- The Deluxe Edition v2.2 (2007)(Daniel Beardsmore) [Strategy]</comment>
+		<comment_dosc>Auto-start, CPU_max_year set to 1990</comment_dosc>
+		<variant>Adds a more sophisticated name entry screen</variant>
+		<link type="media">https://puredos.github.io/tdc-browser/?/23/GORILLAS-+The+Deluxe+Edition+v2.2+(2007)(Daniel+Beardsmore)+%5BStrategy%5D</link>
+		<rom name="Gorillas.bas" size="71477" crc="64abb4d9" md5="30da0df4b875f85841cb8ed5f8834541" sha1="0eed28347e4cea2758d970e34650934bfe89bfea" date="2007-11-25 04:59:10"/>
+		<rom name="Gorillas.bat" size="67" crc="9d690295" md5="161664e8d0a8a75e5dc815414604273c" sha1="8034697f271fe115821091aee0490de9e3df4e68" date="1998-07-17 01:00:38"/>
+		<rom name="QBasic.exe" size="194309" crc="3152911c" md5="f84f0bf74b830603a29f77b11b9e4833" sha1="92be77d638779de9e65a9798cd413197907bfab8" date="1993-09-30 06:20:00"/>
+	</game>
 	<game name="Raptor - Call of the Shadows (1994) (Cygnus Studios) (Shareware).dosz">
 		<description>Raptor - Call of the Shadows</description>
 		<year>1994</year>
