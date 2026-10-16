@@ -14204,10 +14204,14 @@
 	</game>
 	<game name="I Have No Mouth, and I Must Scream (1995) (Cyberdreams).dosz">
 		<description>I Have No Mouth, and I Must Scream</description>
-		<comment>Installed from Redump-verified disc image. ISBN: 0-7928-2733-3</comment>
+		<comment>
+			Installed from US CD-ROM release.
+			The required SCREAM.INI with lines "[SCREAM]" and "CD=C:" can be created by DoDAT or ExtractDATEmbeds using the embedded data.
+		</comment>
 		<comment_dosc>Sound config and auto start</comment_dosc>
 		<year>1995</year>
 		<developer>Cyberdreams</developer>
+		<link type="media">https://redump.info/disc/82875</link>
 		<rom name="DRIVERS/ADLIB.MDI" size="14986" crc="6871f64c" md5="5cb112d060d70a43ee7c89b7ffe4f029" sha1="1f19c757259cac7b5f04281ac8830f8bece3c8d2" date="1995-03-15 06:09:36"/>
 		<rom name="DRIVERS/ADLIBG.MDI" size="16377" crc="1d2a278b" md5="79d8137d4e6b78735b78cd8a4bd14827" sha1="14f61539bf8438f68add723fef2ef76821fa9fd8" date="1995-03-15 06:09:36"/>
 		<rom name="DRIVERS/ADRV688.DIG" size="11278" crc="96dfb75d" md5="feabc78729e3a458ae2f6ab40146f0d9" sha1="255ecb5d649895d65bca49bd6afcbdf875e34bf2" date="1995-03-15 06:09:36"/>
@@ -14248,7 +14252,7 @@
 		<rom name="PATCH.RE_" size="5038599" crc="55a0883e" md5="a88a9182abd95ed2af059ef28af9f470" sha1="34b0d202bbe914326129a77cf06b55f6bd5b138b" date="1995-10-17 02:24:42"/>
 		<rom name="README.TXT" size="376" crc="87433af2" md5="df41d19d75655d48785d5b7e0fec355c" sha1="e5777af962257caece8d7df68d8059bd4f6d20ea" date="1995-09-27 06:59:40"/>
 		<rom name="S.EXE" size="542311" crc="6ef5e3f8" md5="85aca234beafe0c7ba45f2e61556cb57" sha1="d7cea85aa8f1d47d3abc37a71a20f31599aa21e7" date="1995-10-17 11:11:12"/>
-		<rom name="SCREAM.BAT" size="427" crc="30beca65" md5="8486e0577ddde96a59ca1f05db0d11f0" sha1="caca4c003e6ba76312f21974877e0ce5e2e0507e" date="1995-07-31 08:16:40"/>
+		<rom name="SCREAM.INI" size="17" crc="bd605b4b" md5="3dc1ca85ce2513653886f7bb2395e254" sha1="d679e4d40e863e0ec54e6f74c45df7bd93210773" data="W1NDUkVBTV0NCkNEPUM6DQo="/>
 		<rom name="SCREAM.PRF" size="29" crc="37ed7e26" md5="3ad45d00705cfb5c7c7ebc714c47a6cf" sha1="cce73a70810ed8674e5cbb5f5fdc52408ce59894" date="1995-10-19 07:17:40"/>
 		<rom name="SCREAM.RES" size="79211140" crc="9cb225a9" md5="0cf2947caaa466c16267b8284efa4617" sha1="1c66d19dfa0cb6714e22dd1d17975b7896edb4b7" date="1995-10-17 07:39:38"/>
 		<rom name="SCREAM.SAV" size="15" crc="60dbc1f3" md5="a7f0c4115d781356538b8259903d6da4" sha1="7aebf04abeb64debe139866c819ae89ae27a6fc7" date="1995-07-17 17:57:56"/>
