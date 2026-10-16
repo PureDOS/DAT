@@ -10,6 +10,22 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
 	</header>
+	<game name="AD&amp;D - Collector's Edition (1995) (WizardWorks Group) (Installation).dosz">
+		<description>AD&amp;D - Collector's Edition</description>
+		<year>1995</year>
+		<developer>WizardWorks Group</developer>
+		<variant>Installation</variant>
+		<comment>
+			Redump verified CD-ROM: Advanced Dungeons &amp; Dragons - 5 Game Collector's Edition (USA)
+			Also matches with TDC#23 entry: Advanced Dungeons &amp; Dragons- Collector's Edition r1 (1994)(WizardWorks Group, Inc., Strategic Simulations, Inc.) [bin-cue]
+			Used to install Champions of Krynn, Dark Queen of Krynn, and Death Knights of Krynn
+		</comment>
+		<link type="media">https://redump.info/disc/88105</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Advanced+Dungeons+&amp;+Dragons-+Collector%27s+Edition+r1+(1994)(WizardWorks+Group,+Inc.,+Strategic+Simulations,+Inc.)+%5Bbin-cue%5D</link>
+		<rom name="Advanced Dungeons &amp; Dragons - 5 Game Collector's Edition (USA).chd" size="88891776" crc="bc98d192" md5="6d52062ada9a0e151c2602fb70e3639d" sha1="e10d15b5c889b690428aa457a1f7a197150fe226">
+			<track number="1" type="MODE1_RAW" frames="36300" pregap="0" duration="08:04:00" size="85377600" crc="0032c46f" md5="57902f6fb20e661f6e59d070c6de38f3" sha1="1df1aa991230f92d86cc3de84350d84b214c6b6a"/>
+		</rom>
+	</game>
 	<game name="Alien Breed (1993) (Team 17) (Installation).dosz">
 		<description>Alien Breed</description>
 		<comment>Disk image that matches The Good Old Days ID:708</comment>
