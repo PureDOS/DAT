@@ -4841,23 +4841,43 @@
 	</game>
 	<game name="Capitalism Plus (1997) (Enlight Software).dosz">
 		<description>Capitalism Plus</description>
-		<comment>Installed from European CD, CD image made from BIN/CUE</comment>
-		<comment_dosc>Sound config</comment_dosc>
 		<year>1997</year>
 		<developer>Enlight Software</developer>
+		<comment>
+			Installed from European CD, CD image converted with CHDtoOGG.
+			DoDAT can build this directly from the disk images.
+		</comment>
+		<comment_dosc>Sound config</comment_dosc>
+		<rom name="CD/Capitalism Plus (Track 1).bin" size="553552608" crc="2407d973" md5="81bd7eb5119d6a776bf8c53c9290b44d" sha1="869e8d9b433f7a95e395b5081ea74668b817d0fb">
+			<source type="MODE1_RAW" frames="235354" duration="52:18:04"/>
+		</rom>
+		<rom name="CD/Capitalism Plus (Track 2).ogg" size="1813156" crc="a48659f5" md5="8c1d149170024b13272546ab4cb7f0e7" sha1="4477d990d79a633d341ff221895a51cd8ee1e52c">
+			<source type="AUDIO" frames="4293" omitted_pregap="150" duration="00:57:18" size="10097136" crc="12aca9b6" md5="38be98fbbd03aa6711d202b4157fc8b8" sha1="d6073102cb4c4d3bddc2adde9b9e0577fa4d7426" in_zeros="2768" out_zeros="1" quality="8" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Capitalism Plus (Track 3).ogg" size="2106447" crc="db678dc7" md5="9ccf5228e352c4a0702a1f5fa9abb2ba" sha1="731f2189240fc05f7142c1d57dc6473cab99c97e">
+			<source type="AUDIO" frames="4150" duration="00:55:25" size="9760800" crc="b3447e1e" md5="2e0448fb2cea65a9130793ad09faec2a" sha1="451178d369dd98d85aa5ddf85a44559c2d4ca9fd" in_zeros="0" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="CD/Capitalism Plus (Track 4).ogg" size="1656050" crc="d4c97340" md5="7611dfe5cdde28b5a2ce6f410648c3f0" sha1="0dc076d22f1f266301a05e1526169f2d3eed96dc">
+			<source type="AUDIO" frames="4120" duration="00:54:70" size="9690240" crc="986c2ee1" md5="cef7b912ccec98e9704662e2e5087083" sha1="d3a62ec6026f5175a424a7f9feacb4f03d80f0e1" in_zeros="0" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="CD/Capitalism Plus (Track 5).ogg" size="1728845" crc="4b1e205e" md5="472565d4bdb675c26eb0321631ddcccd" sha1="5f3cebffa83ff7d472c079db2177ed1e18fb3b33">
+			<source type="AUDIO" frames="4508" duration="01:00:08" size="10602816" crc="dbd88e4a" md5="e3e2efac33a68aba64d22b1306c3ac4b" sha1="5225ff0e68ce3ab9f9c9a54852b12cfa8b6c360e" in_zeros="0" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="CD/Capitalism Plus (Track 6).ogg" size="2041475" crc="fef88af8" md5="1e3faccdd5c9e8f43352fd235a4b3eb9" sha1="43fea510a15d8de370f8c316f287a065954990d4">
+			<source type="AUDIO" frames="4311" duration="00:57:36" size="10139472" crc="c8db87bb" md5="bd1df8c85a2e5333eccebaeea6fc618f" sha1="11ba2e6415bc8518b0a6bbb36b5d6fc012666a9c" in_zeros="0" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="CD/Capitalism Plus (Track 7).ogg" size="1281090" crc="0d9b73c1" md5="e5b583e15c0dba4d234fa61ceff1832f" sha1="aa9c6a517e6d01849f203e7243f68a0df88cf4e6">
+			<source type="AUDIO" frames="3562" duration="00:47:37" size="8377824" crc="95f5c4b1" md5="b78c63bb90ee84f6f47fd40e5377b5e4" sha1="e50ea75958abd692ff97519641483583891da79a" in_zeros="0" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="CD/Capitalism Plus (Track 8).ogg" size="1768993" crc="8bcfbdb6" md5="90c09872d3144c53799f742aad61221f" sha1="2066e61ed0465be73521e592400daa1772a9c6f4">
+			<source type="AUDIO" frames="4513" duration="01:00:13" size="10614576" crc="dd58c9d2" md5="fe7ddbed8817c04fc63a7d5f179d43c1" sha1="e89370821a2866c8605bc9e6de3ca502c8eed885" in_zeros="0" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="CD/Capitalism Plus (Track 9).ogg" size="1902149" crc="74757dbd" md5="671ac2499e2c4c240b29f8f4d43b3099" sha1="166b01de68400d4d144bd6b713ed9623c9dcc632">
+			<source type="AUDIO" frames="4644" duration="01:01:69" size="10922688" crc="525c1ed4" md5="665e216b3ef41b6a1b2613ec663c7e5b" sha1="507a659dae36dd568460f5a9dfa15180c8c457d8" in_zeros="0" out_zeros="0" quality="8"/>
+		</rom>
+		<rom name="CD/Capitalism Plus.cue" size="776" crc="1f93710f" md5="ca1c5a19958d3fb012c03661f21bacb9" sha1="d7db7ceca9e2f93e461f5132740088e2fb547c35"/>
 		<rom name="CAP.BAT" size="182" crc="1fab9c70" md5="e2f86cb2a49af0cbefc05c4da42dfabc" sha1="3a80dc184d234df3dc2198fcaf3b44e3f3d8ecc8" date="1997-04-10 17:03:12"/>
 		<rom name="CAP.VMC" size="36" crc="47cb9877" md5="b8ff5d0247f869976a283795796acdc1" sha1="bd6595c4721a47b9f2638ac30fb8d33955751234" date="1995-05-21 19:26:08"/>
-		<rom name="Capitalism Plus.chd" size="659804544" crc="e3ab902a" md5="d62e3fa959a5a8d1e8c71e7d04d932bd" sha1="b9d91397d242da25d5a5d8d1c4d220c60133febc">
-			<track number="1" type="MODE1_RAW" frames="235354" pregap="0" duration="52:18:04" size="553552608" crc="2407d973" md5="81bd7eb5119d6a776bf8c53c9290b44d" sha1="869e8d9b433f7a95e395b5081ea74668b817d0fb" in_zeros="1" out_zeros="0"/>
-			<track number="2" type="AUDIO" frames="4443" pregap="150" duration="00:59:18" size="10449936" crc="2aed7abf" md5="495e6156a04ca64c9647f8a5f54c4597" sha1="33bb30f889ab0203303969f28911b6623a555ffd" in_zeros="0" out_zeros="1"/>
-			<track number="3" type="AUDIO" frames="4150" pregap="0" duration="00:55:25" size="9760800" crc="b3447e1e" md5="2e0448fb2cea65a9130793ad09faec2a" sha1="451178d369dd98d85aa5ddf85a44559c2d4ca9fd" in_zeros="0" out_zeros="0"/>
-			<track number="4" type="AUDIO" frames="4120" pregap="0" duration="00:54:70" size="9690240" crc="986c2ee1" md5="cef7b912ccec98e9704662e2e5087083" sha1="d3a62ec6026f5175a424a7f9feacb4f03d80f0e1" in_zeros="0" out_zeros="0"/>
-			<track number="5" type="AUDIO" frames="4508" pregap="0" duration="01:00:08" size="10602816" crc="dbd88e4a" md5="e3e2efac33a68aba64d22b1306c3ac4b" sha1="5225ff0e68ce3ab9f9c9a54852b12cfa8b6c360e" in_zeros="0" out_zeros="0"/>
-			<track number="6" type="AUDIO" frames="4311" pregap="0" duration="00:57:36" size="10139472" crc="c8db87bb" md5="bd1df8c85a2e5333eccebaeea6fc618f" sha1="11ba2e6415bc8518b0a6bbb36b5d6fc012666a9c" in_zeros="0" out_zeros="0"/>
-			<track number="7" type="AUDIO" frames="3562" pregap="0" duration="00:47:37" size="8377824" crc="95f5c4b1" md5="b78c63bb90ee84f6f47fd40e5377b5e4" sha1="e50ea75958abd692ff97519641483583891da79a" in_zeros="0" out_zeros="0"/>
-			<track number="8" type="AUDIO" frames="4513" pregap="0" duration="01:00:13" size="10614576" crc="dd58c9d2" md5="fe7ddbed8817c04fc63a7d5f179d43c1" sha1="e89370821a2866c8605bc9e6de3ca502c8eed885" in_zeros="0" out_zeros="0"/>
-			<track number="9" type="AUDIO" frames="4644" pregap="0" duration="01:01:69" size="10922688" crc="525c1ed4" md5="665e216b3ef41b6a1b2613ec663c7e5b" sha1="507a659dae36dd568460f5a9dfa15180c8c457d8" in_zeros="0" out_zeros="0"/>
-		</rom>
 		<rom name="CAPPLUS.EXE" size="848637" crc="1c52972c" md5="aed8268ee21a31ae4c120ef0fa85f60e" sha1="10141215143bd1cf379cc1cdf62821f3f0eb6153" date="1997-04-29 10:06:02"/>
 		<rom name="CAPSTART.EXE" size="25868" crc="29e408d5" md5="5b85102eaa4aeef174a7585bd855286b" sha1="a55c4e9f2a6ca5495c073cefe0b1da442d8f766e" date="1995-10-07 16:03:54"/>
 		<rom name="DOS4GW.EXE" size="265420" crc="cb214447" md5="ee4033581845b3b8d28c4b7287eb4fc2" sha1="a897c7eb79145a308c4e60b43413bb2daa360506" date="1994-09-01 15:00:00"/>
