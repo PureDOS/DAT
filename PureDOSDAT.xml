@@ -5664,27 +5664,253 @@
 	<game name="Crusader - No Regret (1996) (Origin Systems).dosz">
 		<description>Crusader: No Regret</description>
 		<year>1996</year>
-		<comment>Installed from v1.06 CD-ROM rerelease, configured with any settings but CRUSADER.CFG needs its content replaced with just "cdletter=D" (no quotes and no line breaks).</comment>
+		<comment>
+			Installed from USA v1.06 CD-ROM rerelease, other files copied from CD.
+			The required CRUSADER.CFG can be created by DoDAT or ExtractDATEmbeds using the embedded data.
+			DoDAT can build this directly from the disc image.
+		</comment>
 		<comment_dosc>Sound configuration and auto start</comment_dosc>
 		<developer>Origin Systems</developer>
-		<link type="media">http://redump.org/disc/82348/</link>
+		<link type="media">https://redump.info/disc/82348</link>
 		<rom name="ASYLUM.DLL" size="97344" crc="dcc10144" md5="c3d042d0e2448ffd15f9ee5107f4c08e" sha1="b72ecdd74ea8d1245088d0ff7dcc9a9ac2dbb08b" date="1996-08-07 20:33:28"/>
-		<rom name="Crusader - No Regret (USA) (Rerelease).chd" size="744583680" crc="275fbf0a" md5="e84f69fd5d2175a214f16b8d06aad8b1" sha1="6fb894353ace1b83b36ed1f86efeac04b9b73bd8">
-			<track number="1" type="MODE1_RAW" frames="304089" pregap="0" duration="67:34:39" size="715217328" crc="c54e67af" md5="a8d47019193a5098ea6673c46089655f" sha1="d9cd4edc33d2506287278c3d8aeae0c3b317d4d5"/>
-		</rom>
-		<rom name="CRUSADER.CFG" size="10" crc="5a2aaefb" md5="eaa3972081b3a85465f6e8e746d59bb9" sha1="fcf80cbf484cd0e879281040851a451853ed16f5"/>
+		<rom name="CRUSADER.CFG" size="28" crc="e9a686e0" md5="c11efbc3d50591db64e3d853d8f5627b" sha1="7248a5a4d5ada4359ad65cacaead6a78ee27241a" data="Y2RsZXR0ZXI9Yw0KZmxpY3BhdGg9ZmxpY3MNCg=="/>
+		<rom name="FLICS/01A.AVI" size="7119622" crc="dd83578d" md5="02b5fd5e7195b1989117e6597eb47694" sha1="f26d0a03cc2fb2a26e39e442cf70980d2fcd6708" date="1996-07-24 20:40:12"/>
+		<rom name="FLICS/01A.IFF" size="2052" crc="6068253a" md5="26e46c1e2b44075ef77ef16b8ababd6d" sha1="90783211f898debe6274368c447bb1023bb7531d" date="1996-08-04 19:34:16"/>
+		<rom name="FLICS/01B.AVI" size="5249112" crc="1dcbdc8e" md5="95fa429acc3d70c256bb22d3bf30ed22" sha1="ebeff1f16d2e8f00664feec34740f2608de012e7" date="1996-07-14 18:06:42"/>
+		<rom name="FLICS/01B.IFF" size="1126" crc="3ffd6437" md5="aaec927f6ab51cc5d76b1271606a7929" sha1="e97a730bc0d61f8542d7785b6e270d8b05ac8a54" date="1996-07-29 19:59:18"/>
+		<rom name="FLICS/01C.AVI" size="3631822" crc="cd3d32e8" md5="56183ca5e0149865c544f5b4cc8c6fec" sha1="deeb5fff80ffa18ab1cda61eff65dd371a93297c" date="1996-07-15 21:38:48"/>
+		<rom name="FLICS/01C.IFF" size="804" crc="60cbc88e" md5="8788ed1c3fec32105d9479ce9053348f" sha1="478334c0071d264bdb711cc2b8e3d5a72b00544d" date="1996-07-13 21:41:56"/>
+		<rom name="FLICS/01D.AVI" size="4745366" crc="25ef6869" md5="51f41cae26a52bd2649e7ec77ef6d535" sha1="6ca54287827261e13ede8750bf9135f31043dee4" date="1996-07-15 22:21:56"/>
+		<rom name="FLICS/01D.IFF" size="988" crc="2d9494d6" md5="8091a86678b4388d3a56ed26a268dca2" sha1="06b98c98d0bde39aef78084bf3b24a6d99d44369" date="1996-07-29 20:05:04"/>
+		<rom name="FLICS/01E.AVI" size="2800064" crc="efac1096" md5="86c77836d9ed0e79f50f7b83e5258f94" sha1="9c750eb7c0aa56d74cc1511b3f3eaa2409117b8d" date="1996-07-15 22:36:58"/>
+		<rom name="FLICS/01E.IFF" size="710" crc="4892ac8f" md5="1ee208ef81f751c90aef267ebe908ff5" sha1="2a1b40a9b94aac5a0f615cffa70138ecf08fd285" date="1996-07-29 20:07:36"/>
+		<rom name="FLICS/01F.AVI" size="5167594" crc="c9c7deed" md5="b1f9004623536e566f29ee361003d900" sha1="1ae44f5bb61b6c9ba9669a2e57086638faa475e8" date="1996-07-15 22:58:40"/>
+		<rom name="FLICS/01F.IFF" size="1006" crc="7b76cb9b" md5="6b825d6e832785bc3423d192f5723078" sha1="c929359f2d26d7f6ed10c2e84304356249e6af56" date="1996-07-29 20:15:22"/>
+		<rom name="FLICS/01G.AVI" size="6283424" crc="103ab0f3" md5="57b090379e30d8c51f71a640db0179d3" sha1="7c527731fa8a349988e1e714cf757f957278602d" date="1996-07-15 23:36:50"/>
+		<rom name="FLICS/01G.IFF" size="1154" crc="402730b0" md5="d1d7532d13e4ab9af5a05ad896c4d4a2" sha1="732a38416e842f11196e0610e9bc51aca2d6d5c4" date="1996-07-29 20:17:00"/>
+		<rom name="FLICS/01H.AVI" size="5953994" crc="b948ce23" md5="d32dea4d482c3ede1807d3a7d166de3e" sha1="08e8fe8b0576b16c8d3ed231e872af1d28c0e778" date="1996-07-16 16:56:42"/>
+		<rom name="FLICS/01H.IFF" size="1438" crc="0d8d2c92" md5="dbe6be799044c14abd1df50332423556" sha1="90d2d8957fef8e598b193eac68027588857f898a" date="1996-07-29 20:18:06"/>
+		<rom name="FLICS/01I.AVI" size="12157184" crc="65b138ce" md5="38ed2309b142801e939d587642da9c76" sha1="658aa8a4184499277247d4c1ba259fd77c133855" date="1996-07-10 19:29:06"/>
+		<rom name="FLICS/01I.IFF" size="2492" crc="40fa62fe" md5="bbca7c716cad8e32b7acc50e107f0717" sha1="054898cc678309fd80f2b90cfbb87e92850c73a1" date="1996-07-29 20:20:48"/>
+		<rom name="FLICS/02A.AVI" size="5147938" crc="8ddf91a3" md5="ac35f322715a0c13075b2e8ecb22ca8e" sha1="89ab3d0acb379909689e10a35dfef38700e1deed" date="1996-07-11 14:53:46"/>
+		<rom name="FLICS/02A.IFF" size="1312" crc="bc36c31a" md5="5bc9e83de01372f1c618c807cb85032d" sha1="8b3ba7b2e449243dd840d88d85adf8b25ced866d" date="1996-07-29 20:28:42"/>
+		<rom name="FLICS/02B.AVI" size="2744476" crc="4b8c4383" md5="5f0a737cce7e424e1d8f28c0a6d4b071" sha1="2b82c9e02801d22999bb48c46a36fd1df2803517" date="1996-07-10 20:59:40"/>
+		<rom name="FLICS/02B.IFF" size="950" crc="970f1c46" md5="89b3e22c9ea01b1f65b92c3f33eb3a67" sha1="69cc19dff11f03861f077a7db3e8aaa468dabc6d" date="1996-07-29 20:30:12"/>
+		<rom name="FLICS/02C.AVI" size="3468474" crc="ce8ed277" md5="2751089927ea8c2ed97b86fce21b79a3" sha1="fdd7e6f92986f5073a5402069cb65403089a086c" date="1996-07-31 15:41:10"/>
+		<rom name="FLICS/02C.IFF" size="960" crc="fa926944" md5="66cb20f2418b54a27c6cd71d648a76e7" sha1="6b63d435fd0007ba9e0d62f40619a8dac57e3633" date="1996-07-29 20:31:30"/>
+		<rom name="FLICS/02D.AVI" size="2043092" crc="7789ca84" md5="d0b46ec03077096ead497ea426bdb573" sha1="ea3d066287037332f5be323cb991d5b739add406" date="1996-05-20 14:33:40"/>
+		<rom name="FLICS/02D.IFF" size="570" crc="ecca40a7" md5="8d172dd24e2a12f22ea0aa9a4e4acdab" sha1="faa4a5e17e88f4359f1f9dcc75aae7a9145fc612" date="1996-06-19 19:32:00"/>
+		<rom name="FLICS/02E.AVI" size="3396126" crc="f2999f96" md5="f52ad0836a984ae77e44a8e5840ccc59" sha1="394846cd058c49f8b926a0aa11b7b869932dea79" date="1996-05-20 15:05:32"/>
+		<rom name="FLICS/02E.IFF" size="1154" crc="450744d1" md5="174cf181f2315fe88541a46f76c2aaa1" sha1="545331a8b7fbfb46fa6b0bc3d708eed519d123b7" date="1996-07-29 20:37:32"/>
+		<rom name="FLICS/02F.AVI" size="12238394" crc="fde96c8e" md5="79ce57d01022a33d8361e8c15d067be9" sha1="1f111b240323df975ee51c8c3daef1460ce682b0" date="1996-07-11 18:08:42"/>
+		<rom name="FLICS/02F.IFF" size="2858" crc="0e9cd0d5" md5="5fc6b3ab3f6299c503cc8813ef58694d" sha1="288034f5b0ffbf269c3d8abfa08b528de03a4450" date="1996-07-29 20:42:02"/>
+		<rom name="FLICS/03A.AVI" size="5345476" crc="63f55ceb" md5="b31e7f24b6ece74cfde8d6f8efe576fc" sha1="95d08f4d687c789543e15add19ff74088f16b265" date="1996-07-31 15:39:26"/>
+		<rom name="FLICS/03A.IFF" size="1610" crc="bce53880" md5="f43267a7e85f45f602e584945d6e8698" sha1="7045ce55fea4b3701c4f47c03f5c8b7253504000" date="1996-07-29 20:46:20"/>
+		<rom name="FLICS/03B.AVI" size="2973364" crc="6d6f21d8" md5="351b039bfc092f52b91a2049d21a6ee5" sha1="248034e782814e8ccea459f155456219e77313d7" date="1996-07-11 14:56:58"/>
+		<rom name="FLICS/03B.IFF" size="424" crc="e5728978" md5="cca7dcfb971c7d62819f5c9c1e4ad3b5" sha1="cf05aebac54c2ae4698bbe365b5e143379543e04" date="1996-06-19 19:52:26"/>
+		<rom name="FLICS/03C.AVI" size="2513094" crc="f98364c5" md5="82ff283a9ad0b7eb2164e114e70d2a68" sha1="de8c26b57384c506b84a521f102ed27e663b0291" date="1996-05-20 16:15:32"/>
+		<rom name="FLICS/03C.IFF" size="390" crc="1632eb00" md5="837fda4d61d03dfa9e3366ecc8b3bfa1" sha1="b7e83465c85e9b9b3b42b372f2360f8c72d5ba49" date="1996-07-29 20:48:26"/>
+		<rom name="FLICS/03D.AVI" size="3626894" crc="e547ce53" md5="2516636be53712afdedad7c9a55e15ba" sha1="53b01fde3d18b093e279a76b027aa0d3861ff0d0" date="1996-05-20 16:14:28"/>
+		<rom name="FLICS/03D.IFF" size="682" crc="d2b0fe87" md5="af274155b56c4b8e7f9a80591e43aab6" sha1="808abca4559015815dded55df99fd1f0277aff26" date="1996-06-19 20:28:32"/>
+		<rom name="FLICS/03E.AVI" size="1909094" crc="c54e8a1a" md5="54c33010b75e2f4295d1e17106b88d2f" sha1="7ffaa0ad6ed1418c20d84c7a7063cffc13a3103b" date="1996-05-20 16:43:14"/>
+		<rom name="FLICS/03E.IFF" size="326" crc="448a8150" md5="80e8a16036cd66287e688a71c0beee3e" sha1="9973a0d341646a2712653afe7ad57b0f17c59a9e" date="1996-07-29 20:50:56"/>
+		<rom name="FLICS/03F.AVI" size="3532530" crc="b3305763" md5="76a94353a592a6df2d70d5610d87e4e1" sha1="6f4366e655e44a1063f33cdd324a857ad5e18ff9" date="1996-07-11 14:57:58"/>
+		<rom name="FLICS/03F.IFF" size="670" crc="da623c55" md5="de3b02d212ab87ccef8c8b18ede8b072" sha1="78688bc61e47e2de5702ec73b9fe5a0681559603" date="1996-07-29 20:52:54"/>
+		<rom name="FLICS/03G.AVI" size="3769522" crc="f21f8fb7" md5="56276c9db8a344c5b2a78fb855f46ed0" sha1="f6abd8515b3412045edb37d7398ccddb4383e306" date="1996-07-11 14:59:06"/>
+		<rom name="FLICS/03G.IFF" size="634" crc="08cae588" md5="a9c0f650e581733014e197e25d16b216" sha1="b83d765f7fedcf17165ab02a6d9941659befb318" date="1996-07-29 20:54:34"/>
+		<rom name="FLICS/03H.AVI" size="14276198" crc="34686610" md5="b04e9fd1c0471714b841250ee894a0a1" sha1="9628762f052a306520421e49437e5d207a6f1cf6" date="1996-07-11 20:17:42"/>
+		<rom name="FLICS/03H.IFF" size="1662" crc="d5318349" md5="98f18e433d996076982885c405e13224" sha1="b66db94eb758203c48692f44516702e9004f7637" date="1996-07-25 15:54:14"/>
+		<rom name="FLICS/04A.AVI" size="7946554" crc="31cb78ff" md5="507e3f416e5ac162fd5b65553b844f60" sha1="a031cfd50891096f60d7dbba8e764519bcc57964" date="1996-07-26 16:07:38"/>
+		<rom name="FLICS/04A.IFF" size="1048" crc="41a8948e" md5="e031730336420ff302a4523e2b362a20" sha1="c20d9220f314baada927a4b0732fbb9ad4d2c4ef" date="1996-07-29 20:59:24"/>
+		<rom name="FLICS/04B.AVI" size="5020974" crc="b0e3c866" md5="215298fb93d4deaeb70eebadae7c8792" sha1="f5a4308444d453f89019287efaf5edfabe2b04c5" date="1996-07-11 21:00:06"/>
+		<rom name="FLICS/04B.IFF" size="1126" crc="358c8d73" md5="5494386920be06426212efc7fcda210c" sha1="f7185bd9b5c83ca2d1684be766043a407c4e985f" date="1996-07-29 21:01:00"/>
+		<rom name="FLICS/04C.AVI" size="4464714" crc="dc28efb9" md5="b17b27df23a0141c86fb19414e82f43e" sha1="59a9c7acd8b6054b1c158f66058b92cc5bf232e2" date="1996-07-11 15:01:50"/>
+		<rom name="FLICS/04C.IFF" size="1018" crc="3d6c4217" md5="265f20ffef04652fdcb49ae4c18fef39" sha1="1e1e33f80d2dd0a074f75cd409cacb15b62e848a" date="1996-07-29 21:17:16"/>
+		<rom name="FLICS/04D.AVI" size="3140688" crc="4b8511db" md5="85f0bba78adf07e1ad51693c628e81f1" sha1="a1cb7888b0bb55620d608a8045b13a8c888e061b" date="1996-05-21 17:17:42"/>
+		<rom name="FLICS/04D.IFF" size="584" crc="aa2c907a" md5="1df0a181bab458c48e67ff2485fac28e" sha1="3e4461dc0b11f1a27bf50f4b3af35485800a933c" date="1996-07-29 21:18:20"/>
+		<rom name="FLICS/04E.AVI" size="4172442" crc="ccef659d" md5="919d0abd4fa436c69d4162eb6997a634" sha1="679bd2889b1350032bcda72e019905fb2d84eda5" date="1996-07-11 20:58:56"/>
+		<rom name="FLICS/04E.IFF" size="868" crc="1589b529" md5="99c2f6e1e21382fcd04de94664c08606" sha1="2d78694f42763c60b5b10d77d6be0f1b3af196f9" date="1996-07-29 21:49:20"/>
+		<rom name="FLICS/04F.AVI" size="2497106" crc="6a463744" md5="bb877cba9de330696abe025139834f8b" sha1="37501846bc416ecafcfeea736583749c826b813a" date="1996-05-21 17:43:56"/>
+		<rom name="FLICS/04F.IFF" size="446" crc="3d35a386" md5="2b3d2c6dc5f24fe59987387170dbb7ed" sha1="0bfafada77c955d5ff1bab8b1f5a2fb92e1e52ad" date="1996-07-30 10:36:10"/>
+		<rom name="FLICS/04G.AVI" size="2872948" crc="13502c01" md5="54a113a7651cc5f24343cae9b53d3684" sha1="0a88927d87c95bf82cb5369b15e00bacfa33c85a" date="1996-07-11 15:03:02"/>
+		<rom name="FLICS/04G.IFF" size="636" crc="9ecb0a64" md5="e9ec04fce4f5a6b8182cea0ab5ed601b" sha1="17fe997a32ab822c8c9d6f0476a2c5cda005792c" date="1996-07-30 10:38:04"/>
+		<rom name="FLICS/04H.AVI" size="13647648" crc="be5ba77b" md5="31f30a2745b2d6ea8591aa941e770c35" sha1="a88382116c83602af76167733771bdaec39325a7" date="1996-07-24 17:15:00"/>
+		<rom name="FLICS/04H.IFF" size="1278" crc="d2930952" md5="34e4a4a99c5eb053929ccc7b5fceb0f5" sha1="79fd5e2ede56a58e95d094c02d48c78f314fc4bb" date="1996-07-30 10:41:28"/>
+		<rom name="FLICS/05A.AVI" size="2977988" crc="c2dd91f2" md5="6d7c3627cb20f46753ccb45152bfe2d5" sha1="acf7af5ba4a72d67076f3ce37d1fbe254bf0be93" date="1996-07-12 11:24:20"/>
+		<rom name="FLICS/05A.IFF" size="814" crc="0ba92b29" md5="9e2d4cd5e4af8eb57e84500f39604a89" sha1="29698d0a369a05eede0ad357b3e332b323f3e6f9" date="1996-07-30 10:44:02"/>
+		<rom name="FLICS/05B.AVI" size="3335858" crc="a7d27f66" md5="2cc55879d9f8ac457c554187ffa3b000" sha1="ebf89cd9fcc55a58de5bd86aca75220b75e68bf3" date="1996-05-23 17:20:56"/>
+		<rom name="FLICS/05B.IFF" size="646" crc="46b85f1a" md5="b301d87e45dad63ee7495b26a0c81aa4" sha1="44cb2f469729002ef9dd77fad550d90061983223" date="1996-07-30 10:46:18"/>
+		<rom name="FLICS/05C.AVI" size="3084538" crc="b6f29a42" md5="e068c0ce0ec1aab2fe9be9a480b0f40e" sha1="8b7be995422a0163a176f05d69340bd935ac4a4b" date="1996-07-11 15:04:18"/>
+		<rom name="FLICS/05C.IFF" size="562" crc="57f26bd5" md5="2a0ff43008f5e25d60c8cd79385debf2" sha1="cf9e6361b1f39c58f803b83ca1005fd1a343e938" date="1996-07-30 10:47:32"/>
+		<rom name="FLICS/05D.AVI" size="3860254" crc="dcd13edf" md5="49b7b42c6045b9da79e673488ec460a3" sha1="2c06c97008a0feada3805a3dc86e9dae733b9660" date="1996-05-23 17:22:12"/>
+		<rom name="FLICS/05D.IFF" size="652" crc="609feb1a" md5="b2f445bd06cb434cd0c04f7ff608d775" sha1="0ec2fb74b8647575506226de3145ca9ab593be72" date="1996-07-30 10:48:32"/>
+		<rom name="FLICS/05E.AVI" size="4062766" crc="d948b7a1" md5="69acd348b570b606753f57a4cb72e1fb" sha1="b47b22a23e1c1389b4401b48f6ef2280badcb8ca" date="1996-07-24 18:04:12"/>
+		<rom name="FLICS/05E.IFF" size="684" crc="8869b833" md5="dee9298fc27699754c248569128c7e8b" sha1="27e888dcbbd6bc42b683a2b9d7c06141e7da3c13" date="1996-07-30 11:01:12"/>
+		<rom name="FLICS/05F.AVI" size="6567006" crc="dce907f2" md5="61bf0152ba4944571c4ea53b823c61fd" sha1="7d041dddf0b75103e6ba6800fa9838f13c84112f" date="1996-05-23 17:39:18"/>
+		<rom name="FLICS/05F.IFF" size="968" crc="c5dd92c1" md5="66ba31803b19f2cd2ebb251038963096" sha1="9519918fac09f461b09671aaa4c225b51024be8c" date="1996-07-30 11:02:40"/>
+		<rom name="FLICS/05G.AVI" size="8611740" crc="1c3bf194" md5="0c04708d8e5784c3e299b6f9c44ffe12" sha1="7b5a5c099e7e8ff66baf9373068cf1e09334e930" date="1996-07-12 18:49:30"/>
+		<rom name="FLICS/05G.IFF" size="1062" crc="d94b2814" md5="9f14dfee64334b929f821e6566236056" sha1="d805e40268f1805c214cf74dc078e9173bc7e335" date="1996-07-30 11:04:36"/>
+		<rom name="FLICS/06A.AVI" size="5299302" crc="09209e6a" md5="a89ed4a917520f5ee9a57573da4cdb79" sha1="a866d4a6514d01cc8d99170a8570e995eed185f7" date="1996-07-11 15:05:52"/>
+		<rom name="FLICS/06A.IFF" size="1304" crc="887bfd04" md5="c4579e36c0d4e400ebb4afdadcd8b5ec" sha1="afa26232d88e22ace4e41823d1fcc0eb0c85cfdf" date="1996-07-30 13:35:12"/>
+		<rom name="FLICS/06B.AVI" size="2896072" crc="b9ccd981" md5="40f403888050ded18d1ee62e2b4bb574" sha1="7dc0bb3855219d61e94e77f52e007079bebbce31" date="1996-07-11 15:06:52"/>
+		<rom name="FLICS/06B.IFF" size="532" crc="b1c5fd02" md5="623c85f4c45f8a8059ec91ed97422467" sha1="5d3dbf67ca312cb4f49b84881b962c40eeb84eeb" date="1996-07-30 13:36:42"/>
+		<rom name="FLICS/06C.AVI" size="9896762" crc="ce55d5be" md5="4a759c7364384081915fe007442e8da2" sha1="cf232dbaf3cc9c53858b62d032c22cf334c06547" date="1996-07-12 15:25:28"/>
+		<rom name="FLICS/06C.IFF" size="2374" crc="31a4ab14" md5="330b3176cfae9396a94e124a6e3ea301" sha1="be5c1538520b340c072f46ccfdb02b053f1a4bf3" date="1996-07-30 13:41:28"/>
+		<rom name="FLICS/06D.AVI" size="3529420" crc="b1476892" md5="f0bae73203d311bbb2c9cfe22e501344" sha1="c263027b21352643542de8117c1f91dad1403c46" date="1996-07-11 15:08:20"/>
+		<rom name="FLICS/06D.IFF" size="784" crc="614a5212" md5="a8bb85d9daef86339aac9e64bc7d17fd" sha1="553199c477960a8f1c6cf4c784032e4362b90138" date="1996-07-31 12:12:00"/>
+		<rom name="FLICS/06E.AVI" size="3381572" crc="57ec2297" md5="14c1cbf9b53117e1df9d2995db63abc5" sha1="d4af43ba0abb366d86990678a8c41c1206908f17" date="1996-05-28 11:13:42"/>
+		<rom name="FLICS/06E.IFF" size="750" crc="91b66bb3" md5="b54f2ebdc03535dc73a118636873024c" sha1="a73722285898482f786a85fb9ee77dd919980d33" date="1996-07-31 12:13:22"/>
+		<rom name="FLICS/06F.AVI" size="2959202" crc="14af2136" md5="e232fc19821e88b953e1c05d694f7412" sha1="01a90b84d5d957c3582e30cada65fff7c902e040" date="1996-07-11 15:09:24"/>
+		<rom name="FLICS/06F.IFF" size="696" crc="33968fe9" md5="df14889be44557d9aced4bffc194be20" sha1="f1d911a19fbc7c61b2802edec296e5763e613d82" date="1996-07-31 12:16:26"/>
+		<rom name="FLICS/06G.AVI" size="1495578" crc="6099ff1e" md5="c6e94b8948e12ef83a7a68ea71809b44" sha1="30235c5072cc14b211e59d1563c41db093557848" date="1996-07-11 15:10:26"/>
+		<rom name="FLICS/06G.IFF" size="292" crc="b1373575" md5="0e83240cadc991771c8cd3830f2ef5a6" sha1="3f6652b4421751b4c5e3de723b8086a5a141f2f3" date="1996-07-14 16:34:20"/>
+		<rom name="FLICS/06H.AVI" size="4495896" crc="a416bf6f" md5="0b7a3a75fa2646a03e023c727c84d3c3" sha1="a6fb1c4c992ab38ba7829a12185e35f023be07bb" date="1996-05-28 11:14:22"/>
+		<rom name="FLICS/06H.IFF" size="1146" crc="3f898bdd" md5="9ab6021672acba8f13b6444801d3162a" sha1="43a65cac37baaec837dcf35defd721256daa61bb" date="1996-07-31 12:21:14"/>
+		<rom name="FLICS/06I.AVI" size="11874284" crc="b1e2803c" md5="3e4c52b20b1d8ab2e452237eaea5d8e3" sha1="527b380416b29f7606a3744b15bd98d572911d18" date="1996-07-14 22:44:16"/>
+		<rom name="FLICS/06I.IFF" size="1060" crc="594fa3c9" md5="b81396e9616a11d61883e5cc6c508654" sha1="4207fc58c327e365243635a556098e38130d6d1b" date="1996-07-31 12:25:10"/>
+		<rom name="FLICS/06J.AVI" size="10793094" crc="7f834fce" md5="04dbdfc73eb1abe4dd429d16530ce9af" sha1="ae7fb8258177e086e838f8e6632b89e95d38d5ea" date="1996-07-24 16:31:50"/>
+		<rom name="FLICS/06J.IFF" size="896" crc="b595082a" md5="c17b37b1a3494c5b1ccfab1409cd3e49" sha1="e24f6c2c716de3d2404a39eda16ba4bf0d49f17f" date="1996-07-14 18:01:28"/>
+		<rom name="FLICS/07A.AVI" size="8260504" crc="d744b5f0" md5="90f7a26b4d10e5923aa3bdafbaf6de50" sha1="e9644d87135a02be5792171665da37d16108085e" date="1996-07-11 15:11:50"/>
+		<rom name="FLICS/07A.IFF" size="1936" crc="e10c1436" md5="6c0ccc22b8f750bbcdea62d1ae293050" sha1="c73ed1e3a6bb2f9b6517e23a0d0726935b395e2e" date="1996-07-31 16:50:30"/>
+		<rom name="FLICS/07B.AVI" size="8246792" crc="ce09f8fb" md5="dee1dc0a6c48574186b3ec2c908c191a" sha1="da25b1dfeacf43d3b4dacba45d046549b622ea31" date="1996-07-11 15:13:28"/>
+		<rom name="FLICS/07B.IFF" size="1970" crc="7afc2ba0" md5="502f27959b9220eb5b6b3314128a467e" sha1="161a6b3ec6a6224b20e812bf29c65268db3e4553" date="1996-07-14 00:30:34"/>
+		<rom name="FLICS/07C.IFF" size="584" crc="2fd1d324" md5="aeb35f585742bd28b4034207a4327588" sha1="7489bde05e39e8ec47de9a5b91962e8761238a9b" date="1996-06-28 13:05:02"/>
+		<rom name="FLICS/07D.AVI" size="2425150" crc="ca0a0624" md5="ec1082cfcf08ddc9e982b3d6c52dd812" sha1="86817c99e4a7ab398560ecb1db51ac50c1e72a3b" date="1996-07-11 15:15:52"/>
+		<rom name="FLICS/07D.IFF" size="524" crc="73775d94" md5="427623cca38daa100aa5176caedbca4b" sha1="610dca2d60a900369d3d411d9358387271223fd4" date="1996-06-28 13:01:30"/>
+		<rom name="FLICS/07E.AVI" size="10532198" crc="6917b920" md5="e50713337185bdf0d3ce00d278ce3916" sha1="28429219d65572487ce4726ac86f72acde9f8f8d" date="1996-07-12 17:11:14"/>
+		<rom name="FLICS/07E.IFF" size="1338" crc="81e4e54a" md5="07e5cd6d3997a19058f6b20101ff5bbd" sha1="cb84392059d4ed29475abb989af984ce71516b37" date="1996-07-13 23:04:52"/>
+		<rom name="FLICS/07G.AVI" size="7796146" crc="d756f30c" md5="e52b8981a7ecccb4e144e2d21319438e" sha1="86cfea0ee4fd709908c4f74a8156e29b33ff4cf8" date="1996-07-11 15:20:02"/>
+		<rom name="FLICS/07G.IFF" size="850" crc="ddf98489" md5="a913a74c021790b39996241d84254424" sha1="1a8de092d77ae47c5ce8e4e4b1801fd9657adb9a" date="1996-07-13 22:53:16"/>
+		<rom name="FLICS/08A.AVI" size="3941118" crc="feab91c9" md5="dac63d1cc9f78ebf2a46ce7d73051c83" sha1="b7b3fc87b05061e480071d796a1e6d2be87a9d07" date="1996-07-12 20:12:24"/>
+		<rom name="FLICS/08A.IFF" size="868" crc="bad30f1a" md5="205b5fe69536350594fe86bb6803974c" sha1="5b3cc3ce68a528f019cbfaa49eee58a8b2dee6ba" date="1996-07-13 22:41:42"/>
+		<rom name="FLICS/08B.AVI" size="2953160" crc="90a39ff3" md5="277e24ae09bf9ebe97e881564980c7b0" sha1="10441f87de73b6f098a3733202079de09227fecb" date="1996-07-11 15:21:50"/>
+		<rom name="FLICS/08B.IFF" size="534" crc="766774b1" md5="5416b97cd1cf99a371d42b4ce5061d4d" sha1="c44ad676071ef91e47e313d44d7df75830ed1b99" date="1996-06-28 12:57:16"/>
+		<rom name="FLICS/08C.AVI" size="1979666" crc="97c36e86" md5="ef95fc1576935d36182d6395ef7cf795" sha1="b7eed55a0e846dd0cb78d0659ea6db8916c9fc18" date="1996-07-11 15:22:56"/>
+		<rom name="FLICS/08C.IFF" size="424" crc="e9a948b5" md5="cdd4a176d00d4770d21334cd08ce9635" sha1="1251de12630264d625c9695458996dd43b90e3aa" date="1996-06-28 12:53:20"/>
+		<rom name="FLICS/08D.AVI" size="4937246" crc="d0983708" md5="a444815d1778a5dc514b942974fba09d" sha1="0abae1713137cfe344716a8eafdcc2796ad41663" date="1996-07-24 14:26:14"/>
+		<rom name="FLICS/08D.IFF" size="318" crc="094fde18" md5="2cc29e4354d01fccc671c65e58db61d7" sha1="140dfed9f213b621bdfb54a74ea6809d97a02318" date="1996-07-17 23:52:40"/>
+		<rom name="FLICS/08E.AVI" size="3113026" crc="6c2d9aa2" md5="4e729bf36f740ac846f8466d70e6d953" sha1="c47e36ff31e693b695abf19651d1705a19a5d10a" date="1996-07-11 15:24:04"/>
+		<rom name="FLICS/08E.IFF" size="492" crc="1a79397e" md5="26d68ecce8a98442f6e556002771fc87" sha1="cf2680d1a84c038a2e6f4d9e3d6a2e0838491b8d" date="1996-06-28 12:49:50"/>
+		<rom name="FLICS/08F.AVI" size="16964654" crc="32df3416" md5="5aa220bfce4fe5d0f3d198f7b7f8015c" sha1="c417bfbb3d71edb5a9f3334149b81eb425d5903e" date="1996-07-17 12:22:04"/>
+		<rom name="FLICS/08F.IFF" size="1354" crc="10a1d07c" md5="98047c56051eb6d0a779923401eea794" sha1="6d26e84f9e97c70d8a45d84e02c88c47267fa64a" date="1996-07-17 15:45:32"/>
+		<rom name="FLICS/09A.AVI" size="3977616" crc="8dd65e90" md5="87e0d981c37981abc657ebdd246b0f1c" sha1="37adde6f12f9567ef2aaef441c1fc229e6774585" date="1996-07-11 15:25:32"/>
+		<rom name="FLICS/09A.IFF" size="840" crc="808dc04e" md5="3d620771ab70fd813900906c9b8f39ae" sha1="41f8e7ff10c02c2f8109c1007cc7864c47b27334" date="1996-07-13 03:49:32"/>
+		<rom name="FLICS/09B.AVI" size="2461786" crc="257e1dd2" md5="be4394ade42379894f84a763974a1b06" sha1="6fffe071bdea635cf530f836680c7ff6e1236fd4" date="1996-05-28 16:02:44"/>
+		<rom name="FLICS/09B.IFF" size="480" crc="50d0bc17" md5="870ec87d98d509c0bbdabdfa6e19de1e" sha1="33d154a9b89627bab0c0db7fdb5cc4ad3232ee8a" date="1996-06-28 10:52:20"/>
+		<rom name="FLICS/09C.AVI" size="2481830" crc="7b31130e" md5="fd53ef313345fbabfdfb49916cd3c31d" sha1="8de9b4a5c4cd1e8d8cbda4c85a8ad9f3550023f1" date="1996-05-28 16:02:56"/>
+		<rom name="FLICS/09C.IFF" size="520" crc="2fe00274" md5="8fa9ed22a2b80896e4da0ad875fc7536" sha1="dd2dc746529406a05c8adfffb79eb55d9617df5a" date="1996-06-28 10:56:18"/>
+		<rom name="FLICS/09D.AVI" size="3586352" crc="9a010232" md5="f520969189db4bf2d81989d816e474ec" sha1="b785fc16f1d1e80014e7806b252deffe90ab0546" date="1996-05-28 16:03:06"/>
+		<rom name="FLICS/09D.IFF" size="810" crc="b5938fcf" md5="5a7d9795c992590bfb68c2fc5b913021" sha1="b92dd0bca441530836c34b9e0bd38a7ee04d7874" date="1996-06-28 12:42:04"/>
+		<rom name="FLICS/10A.AVI" size="3516164" crc="df89aa93" md5="6a4a70f67d002731957fed031d478275" sha1="037660a643318e99a9bc7d607822baf8fe4e620b" date="1996-05-28 17:39:32"/>
+		<rom name="FLICS/10A.IFF" size="732" crc="d6e493f0" md5="d1df9490ac3690e0e4dd006b1b006bc2" sha1="fa9f19d4cd731d1ab1aa80a0b0b8a0b0e335bd33" date="1996-07-13 22:25:38"/>
+		<rom name="FLICS/10B.AVI" size="10890360" crc="6c56224e" md5="eb880714638097bd889fb94b85366188" sha1="b38ca8caeda21b40331b4c2ef22eeabf7b06d922" date="1996-07-18 12:23:22"/>
+		<rom name="FLICS/10B.IFF" size="1358" crc="63e60626" md5="6b5d30d045dfac0407c6cc3671665b3b" sha1="56c3833db756afab57629c955662850449af99dc" date="1996-07-18 15:51:26"/>
+		<rom name="FLICS/10C.AVI" size="13933354" crc="8142feb7" md5="02dd26146aba63393a9cb2049167b52a" sha1="0263e5b2d07d95a9fb2dec147821879de16f6be4" date="1996-07-25 11:19:40"/>
+		<rom name="FLICS/10C.IFF" size="1388" crc="4b13931a" md5="93004bd6a07ef6af729ec4abb71acd1e" sha1="c18f01549c4044dcf59a3a1c2c22af0ed5f7fdbb" date="1996-07-17 12:33:42"/>
+		<rom name="FLICS/10D.AVI" size="3444590" crc="09cc7c73" md5="1e68dbf1ab8e4ddbcc4d9f1c4c1af2a4" sha1="f980db7854aeb9104075296d92c7c409ca5cb2c1" date="1996-05-28 17:49:46"/>
+		<rom name="FLICS/10D.IFF" size="764" crc="1e06c106" md5="606415ad6f9998df7abd05cacfe6e44e" sha1="5d6b119eece03e5b3c6f9565ccd8048543ad01d4" date="1996-07-13 22:21:44"/>
+		<rom name="FLICS/10E.AVI" size="2746100" crc="2581725e" md5="fcc0cdcb4261955116ac12081c1af754" sha1="1483213191b4fcca631a266d8a2b9367a8052752" date="1996-07-18 16:48:22"/>
+		<rom name="FLICS/10E.IFF" size="620" crc="bef184fc" md5="6e9f07be8b08a0eeef103551a5989662" sha1="f7c73afddc55ea5b8c8661e7c315b2cc4c91a06e" date="1996-07-13 22:16:24"/>
+		<rom name="FLICS/10F.AVI" size="11742876" crc="90a00a49" md5="ec0fdfc545cd89ecf4c7eaf6854729dd" sha1="532e573acbbc6fd4a2bad48cf4c609c2c0d4b654" date="1996-07-25 13:46:18"/>
+		<rom name="FLICS/10F.IFF" size="1058" crc="543f7a7b" md5="f7ed38e515dec2076de7e1408363b062" sha1="c3c5339417e6634e5d424959811c29ce4a986c63" date="1996-07-15 15:00:46"/>
+		<rom name="FLICS/ABPMCMVA.AVI" size="1225354" crc="5978d542" md5="8e30d64f66f3698e0c6d613352eed351" sha1="8f4a1ad33f75bb768916b19088ce14231540bbda" date="1996-07-10 22:16:26"/>
+		<rom name="FLICS/ANATSMVA.AVI" size="1193594" crc="92239ef5" md5="6200ec93e7c11449cfa387d67dc23332" sha1="e7778d91c89d1872d1af23cd840dc4493f93f56b" date="1996-07-10 22:24:58"/>
+		<rom name="FLICS/ANIM01.AVI" size="26142708" crc="3801a59d" md5="485cd124b0b21a54366ca150f9843ad7" sha1="ecf419e800db6f78e82942419f49c0df3a2d411b" date="1996-08-02 12:57:36"/>
+		<rom name="FLICS/ANIM01.IFF" size="2404" crc="2f624147" md5="e9df8063ab66ba4bcab80a709150abd1" sha1="3feaab8448bf54a2607e3450bffc7024eb42b7a9" date="1996-07-31 19:13:28"/>
+		<rom name="FLICS/ANIM02.AVI" size="1658860" crc="32d8cd35" md5="b438afb72d1e59c8e4ced789d2ce91df" sha1="b21956c4fcb1f27e1953905c8f9ad85e348080be" date="1996-07-18 18:53:54"/>
+		<rom name="FLICS/ANIM03.AVI" size="5488024" crc="a7b7d2d0" md5="3950f5d76c0a7f91906456f224da0ff1" sha1="5c55515e82f2170708f438468f22eef5f539759a" date="1996-07-30 16:24:18"/>
+		<rom name="FLICS/ANIM05.AVI" size="1833666" crc="b7f07d03" md5="0b3fa1995978c931735755a77d5bcc9b" sha1="5cf2b57bf92a5124016a4926e78fd431b8e7d46b" date="1996-07-15 19:06:30"/>
+		<rom name="FLICS/ANIM07.AVI" size="6340688" crc="1b14a7ca" md5="b42cd2f32ee39a055c34a117f51665f3" sha1="97dc2aebe3633298042abe5e40f969d4871004d5" date="1996-07-15 19:24:00"/>
+		<rom name="FLICS/ANIM11.AVI" size="1872006" crc="c9097111" md5="fc5add49754c9d9474b60550069ea6c4" sha1="b55ec15bcd1afa90ff2eb95c4477d7a9f4921f82" date="1996-07-18 18:56:04"/>
+		<rom name="FLICS/ANIM13.AVI" size="8151232" crc="db00eb2c" md5="f12fb51de64a24e7010f0d9dff9ede2c" sha1="6268da91470c8af06b184cf6100447bd0ff15b37" date="1996-07-30 16:12:50"/>
+		<rom name="FLICS/ANIM13.IFF" size="618" crc="04b6bb35" md5="9f671492e96b01416288df3179fa0b74" sha1="98dfa1bdc78a2de69a07fb0d5d459e1862f17b16" date="1996-07-30 17:09:22"/>
+		<rom name="FLICS/ANIM14.AVI" size="2092996" crc="49c349d9" md5="83785ffa0f7cf5d74683e6153bc4f52d" sha1="5d05e3ef97e69ce827af3f9ede125820693a9f5b" date="1996-07-30 13:57:04"/>
+		<rom name="FLICS/ATGSMVA.AVI" size="1117522" crc="53c32bb1" md5="dfd3a4ea7f1b13cd07dde82fb87ff2b3" sha1="572baa222494899d4defa011336ee52fd0ea5cdd" date="1996-07-10 22:26:38"/>
+		<rom name="FLICS/CCOREMVA.AVI" size="1077720" crc="b2cbfa44" md5="8897cfb514efb31f29ccc85e81abe204" sha1="ac08b6b09820a46f09d881d35ab0ccbaf3ada202" date="1996-07-10 22:29:28"/>
+		<rom name="FLICS/CRYOMVA.AVI" size="1009618" crc="37a05453" md5="f23726924ec8c36340dee7aac85d05a2" sha1="a439b726c881c1d329ea4f1e328192b6cca08888" date="1996-07-10 22:31:02"/>
+		<rom name="FLICS/FRETUMVA.AVI" size="834428" crc="333fb7d6" md5="3d19b21a00b122aad2191940229b9039" sha1="221cbb9e95ab6d8a6647d3d69e9a16c087c297ab" date="1996-07-10 22:34:32"/>
+		<rom name="FLICS/IMAGER.AVI" size="965392" crc="550d5afa" md5="6122e9f1ad6675cf0def1c8a341fb15e" sha1="1fe3c3d64e716594e74bd3a030a0c45b2eabc88b" date="1996-07-10 22:36:22"/>
+		<rom name="FLICS/INHIBMVA.AVI" size="1026210" crc="21029a85" md5="f4e269553f06bcc838fc7df43fbb0261" sha1="d0915500d17d8c5d9336a85c0498da29356e2e2d" date="1996-07-10 22:38:24"/>
+		<rom name="FLICS/LDBMVA.AVI" size="1042768" crc="258e6214" md5="2c88aca7e3a5a7ca7f6c15a9f82528cb" sha1="b85e2ba37e63f4cebbbd829006bf2030f78348f6" date="1996-07-10 22:41:30"/>
+		<rom name="FLICS/MFHCAN.AVI" size="828292" crc="c4ac506c" md5="6fbbd532b782f49ae7fac39b1c7de2c6" sha1="f49b2f70df71c56c0c831e0f315150fecb589bf0" date="1996-07-10 22:44:40"/>
+		<rom name="FLICS/MORPHMVA.AVI" size="1034940" crc="2fa656b8" md5="ec98c2c498579bd92ab90da75aec6060" sha1="729c70ec1e0a54b559aad5498917d83929d5b200" date="1996-07-10 22:47:04"/>
+		<rom name="FLICS/ORE-SEPR.AVI" size="870004" crc="f8dd0ac3" md5="9ebb232255f77f03598d3ce72e142b18" sha1="7599b51462d4c7207e71bef72583069c8f86c59e" date="1996-07-10 22:48:34"/>
+		<rom name="FLICS/ORIGIN.AVI" size="3274766" crc="fd96e820" md5="44cb9decc65eb271146cae9c2df7bc4e" sha1="dd67cfbbcdc83ea2e909932f6887313308245917" date="1996-07-31 17:23:30"/>
+		<rom name="FLICS/PINFOMVA.AVI" size="883522" crc="3e2b44ea" md5="42ddf01937c6f8723fefe6a5979a3134" sha1="575c284ada89e24bc1cba65b12dfebd6c15f8e1a" date="1996-07-29 14:35:08"/>
+		<rom name="FLICS/PRISNMVA.AVI" size="1112486" crc="c3b2654f" md5="a6a8f62e8f4cbbc257f6541e6974b185" sha1="06662510228985b7aae565cdaea99a9503673d33" date="1996-07-10 22:51:04"/>
+		<rom name="FLICS/REACTMVA.AVI" size="1180040" crc="7f648430" md5="07f4e388c4fb95d1760a81178eedf7b9" sha1="66c679be2a0d145b2143c897e99d6eacd5cb81c1" date="1996-07-10 22:53:48"/>
+		<rom name="FLICS/RSHLDMVA.AVI" size="1104262" crc="07af6695" md5="4e2e8c4085893d20b2439d52bb41e088" sha1="5804f7d6258493d46a399bde07362c2e363f34c3" date="1996-07-10 22:55:18"/>
+		<rom name="FLICS/TRANSMVA.AVI" size="909042" crc="fbe2550f" md5="42df94371d35379cd6042e2c2e7e6596" sha1="b57cd628f94ece815448b55c893df7c64eea1465" date="1996-07-10 22:56:58"/>
+		<rom name="FLICS/VIRUSMVA.AVI" size="926136" crc="511ad8d4" md5="f839c334d5b91714614382ae39e0861d" sha1="18ea79f73260f6f1c2c661199bf1893cf95199be" date="1996-07-29 14:37:34"/>
+		<rom name="FLICS/WEAVED.AVI" size="14336" crc="d7ee9c09" md5="fab58ddcfd325a04ab92c0889914459e" sha1="ad0998b262862b884f4569e8247173cac3f096e5" date="1996-07-31 19:16:22"/>
+		<rom name="IDATA/FONTS.DAT" size="25897" crc="f16f466a" md5="45294dee06ee9ea20ccc166143e78fc6" sha1="2c56fbfd9a275750b173f679a6a6ef3bca4d21c9" date="1995-08-18 21:45:52"/>
+		<rom name="IDATA/ICONS.DAT" size="975" crc="c45088e1" md5="79ae3ae3cadee81dec35d85ee4d687db" sha1="a06f69fdc4f2726070603184e55658833db2ce34" date="1995-06-14 14:34:30"/>
+		<rom name="IDATA/MOUSE.SHP" size="15179" crc="8f1e8d23" md5="376d5a1ded5b80194949b9e8888c83a9" sha1="de5c77d91f052b163c2507c1747f85bee1d8bc34" date="1995-09-06 09:47:48"/>
+		<rom name="IDATA/MUSIC.AMF" size="334352" crc="79fd981f" md5="1a827f0de9453fcee921d5cc44ffbb01" sha1="95c31df927ae540af792ba18c9a41c376788ff20" date="1996-04-08 11:42:02"/>
+		<rom name="IDATA/PALETTE.DAT" size="768" crc="e381eaf9" md5="d940c09cb7cdf1febf72ab03900eb7a0" sha1="017d37b2d53ced7fd42b25c51ec3530699124523" date="1995-03-17 17:31:34"/>
 		<rom name="INSTALL.EXE" size="471154" crc="f87a27ad" md5="ad418b6368e9aa28df7158f13c54fb05" sha1="21072ec062a432ad999a8b54744b474b789356f7" date="1996-08-19 10:20:44"/>
 		<rom name="REGRET.EXE" size="1005584" crc="c9271b29" md5="1510f5dead256562767a331a4c75c137" sha1="67e6166f9eb08002401e975b266a76f2e1e6646e" date="1996-08-21 12:02:52"/>
+		<rom name="SAVEGAME/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="SOUND/CRED.AMF" size="337076" crc="88a5d953" md5="b5be9f702f0c5ed6a451ea5d9d4eddac" sha1="48dc3c8db4342a6c8bdce025912e23b62702ad51" date="1995-09-06 19:12:24"/>
+		<rom name="SOUND/D3.AMF" size="416546" crc="61d735a6" md5="55bdd86485d1ce8099019ea966688643" sha1="b29aa8cbafbad6969e9161b2f4c8aa4d40ce5246" date="1996-06-06 13:38:34"/>
+		<rom name="SOUND/DARK.AMF" size="233022" crc="494c3dc9" md5="0ec305439a5aaa5f9151f04e7e7e33bd" sha1="17af6eb62779affd21c0a25409212765fc951db0" date="1996-03-14 12:47:06"/>
+		<rom name="SOUND/DEMO.AMF" size="389742" crc="1e94e87e" md5="1dc0ba11c4ab89722c648ca9e8808038" sha1="b45cc69f5532b4eba9363c92f316cbb89bb34381" date="1996-07-29 10:53:52"/>
+		<rom name="SOUND/DISTORT.AMF" size="325474" crc="102a3af7" md5="da507563e972ddc1e777754301972aee" sha1="2823329562dd31bfb9077568ff962ca50a6184cf" date="1996-06-24 15:40:36"/>
+		<rom name="SOUND/INTENT.AMF" size="281390" crc="a91be60b" md5="2d54687c792d6fa48dc8ce6e65546514" sha1="ad93ba3a0ef129fa779cea061b5f19d331f6c26f" date="1996-06-26 11:52:36"/>
+		<rom name="SOUND/M01.AMF" size="368770" crc="788bdb7d" md5="826893366f05b2475322eb62544943a4" sha1="683a24b711a72032eee91db16b80324bf7e65f71" date="1995-09-06 19:09:38"/>
+		<rom name="SOUND/M02.AMF" size="199228" crc="fad5c421" md5="be05979e8fef29ab633f6cbd8e7a5d56" sha1="c6ce720a67f28bb73ce7185bfe538248ab28d75d" date="1995-09-06 19:09:44"/>
+		<rom name="SOUND/M03.AMF" size="294088" crc="7ef9c7d2" md5="53beb2170f3dba1c2e7a82d8cc762739" sha1="f4d31bc1c03d610e019d16e8292f8f4935b3416c" date="1995-09-06 19:09:50"/>
+		<rom name="SOUND/M04.AMF" size="247900" crc="0d18af5a" md5="2d678b9aa261e0bf198fbdd51ef3eb37" sha1="0d8aa02099d382b137bc4d86c6505459d981404b" date="1995-09-06 19:09:56"/>
+		<rom name="SOUND/M05.AMF" size="282446" crc="f3ec58ab" md5="a340836e52215d009e59e06469d67ba7" sha1="778c94a5c94032ac9be83c321094e25fb7eec57d" date="1995-09-06 19:10:02"/>
+		<rom name="SOUND/M06.AMF" size="82896" crc="e005d106" md5="e7e27c866bdcaa501213726edaaeb787" sha1="4fce5490b95735bfee374ed86d75033f91edf4ce" date="1995-09-06 19:10:06"/>
+		<rom name="SOUND/M07.AMF" size="149001" crc="4e84a9f7" md5="a3457371efb275a5b37714fe5395c4f3" sha1="a8a39ea2a46c414f747d8f9f5d4d0f594c27072d" date="1995-09-06 19:10:14"/>
+		<rom name="SOUND/M08.AMF" size="143584" crc="792cb160" md5="3c422e67a831b6895884829e83357f81" sha1="f692d6336f8d7c61fb8894c9e78e8e9849e3cd1e" date="1995-09-06 19:10:20"/>
+		<rom name="SOUND/M09.AMF" size="347676" crc="0c15d08c" md5="8373a6e28ac65a16dcdb374c17c81765" sha1="c7bd53c25b988d6a1b688218b19f115c5e958c6b" date="1995-09-06 19:10:26"/>
+		<rom name="SOUND/M10.AMF" size="172090" crc="8b1f3ab8" md5="7705ed695ac0b8d879689cbefd382e33" sha1="bf7f7ebca0cba660f2678f9c477caa177d0c4e3e" date="1995-09-06 19:10:32"/>
+		<rom name="SOUND/M11.AMF" size="287020" crc="dd3d158f" md5="c41787cf0f96b18da9e13a55f0922d98" sha1="5cbd62c75164dd4e4e20fe35f9fb78b354cc62e2" date="1995-09-06 19:10:36"/>
+		<rom name="SOUND/M12.AMF" size="139774" crc="8dfc2088" md5="b136f8dd5fd9e113326dc90ae3a7db5b" sha1="c6d2b7b32de3a6e5fb33d5afb3122fc3ba020487" date="1995-09-06 19:10:46"/>
+		<rom name="SOUND/M13.AMF" size="338074" crc="f4f5217c" md5="f204daf330bedc9cb18898ab0cecf1b5" sha1="200124957db3ac93f3a51b6d4bdc7cbeda84dcd6" date="1995-09-06 19:10:50"/>
+		<rom name="SOUND/M14.AMF" size="219378" crc="958c0a4b" md5="15535832d2088439f45b7398e21befef" sha1="7ed62ac052c432b105184d76a16c6c90f10b2272" date="1995-09-06 19:10:56"/>
+		<rom name="SOUND/M15.AMF" size="304862" crc="b791621e" md5="558fbfcaacc4afd2ec665027d23c489c" sha1="e6b4dfea6bc6dfb97ad35c3d12405285085de825" date="1995-09-06 19:11:02"/>
+		<rom name="SOUND/M16A.AMF" size="248710" crc="72cfc688" md5="a07f855b046b4c10dd1d37a8505fd17f" sha1="98a54019254a3e0e27c9b329047a84b96d20e823" date="1995-09-06 19:11:08"/>
+		<rom name="SOUND/M16B.AMF" size="208960" crc="446f58fd" md5="76c3ca46430f3577b3c337836b20bd83" sha1="b8b5054c5130006aae475cc5db5ec09b2d1cb6ca" date="1995-09-06 19:11:20"/>
+		<rom name="SOUND/M16C.AMF" size="229746" crc="1a1eb6d1" md5="ff97477c74ed4d72ec8db1c2e76f7308" sha1="da57ca21f7c35b1af158fd04c3fb10348ebdd9c3" date="1995-09-06 19:11:26"/>
+		<rom name="SOUND/MENU.AMF" size="275960" crc="ac222fde" md5="265ce3c2c456055580b592cfb67f7f23" sha1="51f286f6298b7dbced0ee17f6297295fee4a855d" date="1995-09-06 19:11:30"/>
+		<rom name="SOUND/METAL.AMF" size="420832" crc="e060291b" md5="728d6f7dd612f71a79699ce5c7b7bbf1" sha1="2925a8cae0c46926f0421dea4d7cb143d28f9513" date="1996-06-26 11:53:50"/>
+		<rom name="SOUND/MK.AMF" size="274320" crc="3ea39e36" md5="0965b23fef188f733946128afcd0020b" sha1="ad8b809f9a3d2571aa5490437eb8a2974907eef8" date="1996-07-11 19:56:40"/>
+		<rom name="SOUND/NINTH.AMF" size="438010" crc="1ca8c24f" md5="504f0f84970e4d7013bea4164763ce64" sha1="4b994e8b7a21eaa5f12d595fddecba3770298dd5" date="1996-05-24 14:24:52"/>
+		<rom name="SOUND/PARTY.AMF" size="266120" crc="47afe2d2" md5="97bd5a3a0f37c509f01160051159c3c0" sha1="09f27962aedbe5cf3f7fefc6620cc7b0a34e4599" date="1996-06-26 11:57:08"/>
+		<rom name="SOUND/PHIL.AMF" size="334352" crc="79fd981f" md5="1a827f0de9453fcee921d5cc44ffbb01" sha1="95c31df927ae540af792ba18c9a41c376788ff20" date="1996-04-08 11:42:02"/>
+		<rom name="SOUND/REGRET.AMF" size="516576" crc="bd5dad34" md5="54fa7aafe57fdb248c52031f4188b805" sha1="af911ce54bc607aa008664c0a52098f72ff98216" date="1996-04-08 11:41:58"/>
+		<rom name="SOUND/RETRO.AMF" size="264226" crc="b20c5065" md5="8516bfca943ce4da5516de6b05fcbd08" sha1="aa7a1dec3c88180e9f04eef4181227dd254636d5" date="1996-04-08 11:42:16"/>
+		<rom name="SOUND/RHYTHM.AMF" size="372700" crc="acfd6233" md5="69ab7dffa52f58f8713971c5f9ace3a0" sha1="ecb293d088478f6cc4f0368a96c8cf278778d617" date="1996-06-10 18:25:32"/>
+		<rom name="SOUND/SILVER.AMF" size="362876" crc="c7c8c35d" md5="e715f2a3f16ce878efd279b02e7f5cb2" sha1="731942495a3aa654a5714530da752e5ab2c8efd9" date="1996-05-24 14:25:10"/>
 		<rom name="SOUND/SOUND.FLX" size="9885548" crc="93730174" md5="a4854b08cbe746e7a417e92f08423f9b" sha1="60b7bf54be61ef760c1c2e2f6b2c51e9f7817253" date="1996-08-09 16:20:34"/>
+		<rom name="SOUND/SPACE.AMF" size="327390" crc="8004baff" md5="07d7601689cb86ec0f0ea6ebb182089e" sha1="d2e52db6b3c86bb4fa171c22420dc85fdec9906c" date="1996-07-28 23:55:36"/>
+		<rom name="SOUND/SPACE2.AMF" size="306694" crc="4fcf8b76" md5="65de72bf8f9fef33d434d04fd05a33bf" sha1="4216231c7c23b5df0b8405ccd4acb53172142aa3" date="1996-05-10 10:37:02"/>
+		<rom name="SOUND/STINT.AMF" size="383926" crc="ecb3300c" md5="5fe7da281198610f723b71acfb2ec327" sha1="5bcca4cad1f3a0df4d1e3ef4f708df463a6b5938" date="1996-07-11 19:56:54"/>
+		<rom name="SOUND/STRAIGHT.AMF" size="315846" crc="6018c1b3" md5="1a0c57a582d10f3d5040f7e6a8bca494" sha1="78ca931c1f894d292b6d43b8098ffb2765c72c79" date="1996-06-10 17:33:58"/>
+		<rom name="SOUND/TECHNO.AMF" size="193872" crc="df436e25" md5="020cce65b1b7792fa3b59a2be3eb5884" sha1="f02fb9e56bc3634bb473a4a71d6f7d80be61c345" date="1996-06-24 15:40:40"/>
+		<rom name="SOUND/THIRD.AMF" size="182450" crc="aba91b6b" md5="3afe18ca4e770aca0eac3f8155224737" sha1="d5c94c639ead3c5ea90aaa3d8f2ad859f2a79bc3" date="1996-05-31 15:06:54"/>
+		<rom name="SOUND/XMAS.AMF" size="325934" crc="86b6d33c" md5="6ee7e68821f58d59ed53c5dcf3dc2c88" sha1="98282f226c83aeb210b87f8e2639b8123f8f904b" date="1996-08-08 16:54:50"/>
 		<rom name="STATIC/ANIM.DAT" size="295728" crc="aebdc160" md5="cdf032f72d73d0bcf3bd920bf0ac7263" sha1="ce78ce12988d0874294626df1aef2cbfff714d4a" date="1996-08-20 16:43:54"/>
 		<rom name="STATIC/COMBAT.DAT" size="1734" crc="32350a00" md5="349a37391b6fe7278c0dbf4811ad5a1d" sha1="024848ad082c6c14e79c749854c41e5571544bbf" date="1995-05-02 10:34:14"/>
+		<rom name="STATIC/CRED.DAT" size="308278" crc="5b1ae79e" md5="4c9333cb45836ac9f141ea730b44aae9" sha1="ff0a37f62283047c66507e268b89b3079a44e0a5" date="1995-09-05 21:09:00"/>
+		<rom name="STATIC/CRED.PAL" size="768" crc="ec3434ff" md5="c53fa056aed2ec3e0c9290a82a86e979" sha1="1ad2249f05a7184a84342b6b0df37404ee579641" date="1995-09-05 01:12:00"/>
+		<rom name="STATIC/CREDITS.DAT" size="4002" crc="901fee21" md5="26fb59f0fd24b0a25c4e1a6ba053fac7" sha1="640e199ada01add60fcb7fa37ec883f38a93b3e4" date="1996-08-09 21:39:12"/>
 		<rom name="STATIC/DAMAGE.FLX" size="12424" crc="e67a9289" md5="2ecec30c547901919241431ff511ef92" sha1="b822240dbd0f753d33ce1144223bd2d4413a71dc" date="1996-08-15 14:25:28"/>
 		<rom name="STATIC/DIFF.PAL" size="768" crc="0870267b" md5="d098d70bb64d5b8481724310d68b757d" sha1="fa79bcae462aaa066da9ad4ec99a51d707339006" date="1995-08-18 19:28:18"/>
 		<rom name="STATIC/DTABLE.FLX" size="31488" crc="3935cb23" md5="aaf395b491ccc64f87505fda59e1be11" sha1="492e2e5aceb4d2413bdfeb99561a77415e0cf4c9" date="1996-07-28 17:56:16"/>
+		<rom name="STATIC/FIXED.DAT" size="1822656" crc="61856474" md5="4aae58feb61f9aaebff5dcdb2b780b48" sha1="8cfa9894e605ab7858b025cbb81cf030b11dff6d" date="1996-08-20 15:45:44"/>
 		<rom name="STATIC/FONTS.FLX" size="229994" crc="aeb15f8b" md5="65adaccd107fcce44aca14af205f2da6" sha1="c5f5fd4674de90418b3cecbe581e56f6690755fb" date="1996-07-28 17:56:20"/>
 		<rom name="STATIC/GAMEPAL.PAL" size="768" crc="e381eaf9" md5="d940c09cb7cdf1febf72ab03900eb7a0" sha1="017d37b2d53ced7fd42b25c51ec3530699124523" date="1995-03-17 17:31:34"/>
 		<rom name="STATIC/GLOB.FLX" size="105500" crc="ce6aa954" md5="035ccf68e3491f3c1abc2a0ab7085698" sha1="52bf1eb9c9f3e608046e25aa9ee89382302dba8f" date="1996-08-12 12:32:28"/>
 		<rom name="STATIC/GUMPS.FLX" size="489560" crc="2c490fb6" md5="2fa558dd9c936c90dbf01436d328d4ab" sha1="67368bf03d2f7706bd76d14d8fc6e10331ab874a" date="1996-08-07 20:05:54"/>
+		<rom name="STATIC/HELP1.BMP" size="308278" crc="5e03b24e" md5="6ac602bb5dbd1e5ee84b0b0cd998684c" sha1="254fe1112ba3fc9b23425f1a5776b2931adeba57" date="1996-08-07 13:21:24"/>
+		<rom name="STATIC/HELP2.BMP" size="308278" crc="2d6e4b3d" md5="11cc7651ad9ecf27347741682aaf9e73" sha1="02cb4769a8e484efd57d315defd1be8e6f094bef" date="1996-08-07 13:21:32"/>
+		<rom name="STATIC/HELP3.BMP" size="308278" crc="7e142abe" md5="651f8c609fb9b52a5cfcf413e56e457b" sha1="6cbd4cc3f2def40be7f9f0dc398c275e34d6d2e9" date="1996-08-07 13:21:40"/>
+		<rom name="STATIC/HELP4.BMP" size="308278" crc="260c9f8f" md5="1bec3f22fa33c9a90fdd88771d12d94e" sha1="abbd53993c720d0fa88ba7f2726c2df287d14e91" date="1996-08-07 13:21:48"/>
+		<rom name="STATIC/HELP5.BMP" size="308278" crc="d344e0a6" md5="4de1baa2e4a666cb7e2e09e12155622e" sha1="9e3e3e6a75b1fa1609a8e3ac99eb9c1166407377" date="1996-08-07 13:22:08"/>
 		<rom name="STATIC/LOAD.BMP" size="308280" crc="1e44f1b9" md5="8e9b138f3de8484631d9693ab1473af7" sha1="17001255f3ad7bc6f7a88a64db53eb63505a9a71" date="1996-07-26 20:43:44"/>
 		<rom name="STATIC/MISC.PAL" size="768" crc="6344a76d" md5="d6273bb4f9f6d181e28b6c2250019496" sha1="2bf51a63d3eda516df457bc9219e7521941faf74" date="1996-07-25 10:52:56"/>
 		<rom name="STATIC/MISC2.PAL" size="768" crc="0870267b" md5="d098d70bb64d5b8481724310d68b757d" sha1="fa79bcae462aaa066da9ad4ec99a51d707339006" date="1995-08-18 19:28:18"/>
@@ -5705,32 +5931,362 @@
 	</game>
 	<game name="Crusader - No Remorse (1995) (Origin Systems).dosz">
 		<description>Crusader: No Remorse</description>
-		<comment>Full install from v1.21 CD-ROM rerelease, configured with any settings but CRUSADER.CFG needs its content replaced with just "cdletter=D" (no quotes and no line breaks).</comment>
+		<comment>
+			Installed from USA v1.21 CD-ROM rerelease, other files copied from CD.
+			The required CRUSADER.CFG can be created by DoDAT or ExtractDATEmbeds using the embedded data.
+			DoDAT can build this directly from the disc image.
+		</comment>
 		<comment_dosc>Sound configuration and auto start</comment_dosc>
 		<year>1995</year>
 		<developer>Origin Systems</developer>
-		<link type="media">http://redump.org/disc/17451/</link>
+		<link type="media">https://redump.info/disc/17451</link>
 		<rom name="ASYLUM.DLL" size="116440" crc="8be52a4a" md5="cf01473ea7fc03b8b393b1e719854cfb" sha1="66670941ca4364359884a2bacee1625c2f59d53d" date="1996-01-04 15:23:40"/>
 		<rom name="CDROM.DAT" size="20" crc="22cf43b6" md5="aec80c498ed269d93ccc9cbd5b0688af" sha1="0ea3e70158386d21d0e675f8c55399d7fe678dc9" date="1996-09-27 15:21:56"/>
-		<rom name="Crusader - No Remorse (USA) (Rerelease) (1997-02-02).chd" size="805352832" crc="432908ab" md5="0c7e6a026cf1b46301016c0146302db5" sha1="e430247043c6886cd6c07a44e339fd7a21f2ed81">
-			<track number="1" type="MODE1_RAW" frames="328908" pregap="0" duration="73:05:33" size="773591616" crc="740f2fa9" md5="71defca82899595376996c19a552e89a" sha1="d9d56d352036cd0be4efc16835258db84aa20d24"/>
-		</rom>
-		<rom name="CRUSADER.CFG" size="10" crc="5a2aaefb" md5="eaa3972081b3a85465f6e8e746d59bb9" sha1="fcf80cbf484cd0e879281040851a451853ed16f5"/>
+		<rom name="CRUSADER.CFG" size="46" crc="3491b905" md5="e4919db60d0be9ef5c43928cb38c97f5" sha1="dc9d516b24f4d8f015d0c495788aaf9b9fd92ec3" data="ZnVsbGluc3RhbGw9dHJ1ZQ0KY2RsZXR0ZXI9Yw0KZmxpY3BhdGg9ZmxpY3MNCg=="/>
 		<rom name="CRUSADER.EXE" size="991878" crc="09e186bf" md5="13a9250b280d4889c7b48a1fd084a8b1" sha1="5f3eb75202fa54cdc6703b875bfc505eb1ee320d" date="1995-11-28 16:50:36"/>
+		<rom name="FLICS/01A.AVI" size="6009344" crc="89ce733c" md5="6dd68b93eeb4c055ef5f19586e4a197f" sha1="e8d9235d864c6d37dbb940cc20939d64529c6f0a" date="1995-09-01 10:09:52"/>
+		<rom name="FLICS/01A.TXT" size="923" crc="2cf6ce80" md5="a4aee6d8ca8e87282eda43cae91cb6a8" sha1="4eb9f4522a2b61594af0b9d16e0f9536294d1c4e" date="1995-09-05 07:48:32"/>
+		<rom name="FLICS/01B.AVI" size="2541568" crc="837d77a5" md5="de2046ffc44d482b0a9678f75517b2fe" sha1="6fafacfd50402fea3d5e929955a84c9f7cf37e6c" date="1995-08-28 15:36:32"/>
+		<rom name="FLICS/01B.TXT" size="419" crc="c8e532d5" md5="4799e332ee86a3533e006f9ca08c5e47" sha1="d07ca53937b783e2c26650be724b71592c246274" date="1995-09-05 07:54:44"/>
+		<rom name="FLICS/01C.AVI" size="3186176" crc="99dd7ac5" md5="bf6cfd99ba9294fd02536bb7a96e8489" sha1="5e86779a8a12c5760c886659951485dadea0098b" date="1995-08-28 15:40:48"/>
+		<rom name="FLICS/01C.TXT" size="406" crc="077e4b08" md5="d323d26f4c53f90cf41e27a2ee2fdbc9" sha1="54737f07228513cc40061c6b59e015e34563bd0b" date="1995-09-05 07:54:60"/>
+		<rom name="FLICS/01D.AVI" size="6873600" crc="86b1e4d2" md5="151f85afd3c839f1d5a4a25a4c732341" sha1="38a052b50f2550240557a328075adeb97b0d10af" date="1995-09-06 14:13:20"/>
+		<rom name="FLICS/01D.TXT" size="1097" crc="6b76b82d" md5="4ef5e0d6f2c82f18c800e8957b716236" sha1="dcf04d674fc2cb91a37efb06b57e399eeab49fde" date="1995-09-10 10:48:32"/>
+		<rom name="FLICS/01E.AVI" size="1849344" crc="3e7fd5e9" md5="e99946503e48802b7a8305cf28fa4894" sha1="f606d44789031e7f784886e0774e927bd2806ca0" date="1995-08-28 15:49:52"/>
+		<rom name="FLICS/01E.TXT" size="391" crc="31434942" md5="cef06b67f98f10ea821d795c3bf6be20" sha1="744ad3e3dd50d18655df689556457d3fc9855ad0" date="1995-09-05 08:14:12"/>
+		<rom name="FLICS/02B.AVI" size="3552256" crc="08f962ef" md5="415c34999cafbfbb3520c1cfb8d52f43" sha1="014962dd27fe9f0c297990d8c95d18cac8c35f3b" date="1995-08-30 10:19:44"/>
+		<rom name="FLICS/02B.TXT" size="657" crc="65d69d77" md5="4024ae09c59d63822184b994b54090ec" sha1="0bdfa2b99a4f1bf904a453cb636d100f6af96cb0" date="1995-09-05 08:06:60"/>
+		<rom name="FLICS/02C.AVI" size="1417728" crc="a050748c" md5="69c7f59487676068e07998da36f52d11" sha1="667bc5d23bcaf8aa3bfcbbe9f14d12fd82bda89c" date="1995-08-28 16:01:32"/>
+		<rom name="FLICS/02C.TXT" size="482" crc="eafca43e" md5="0e8d231fbc8a64728830dcc4ffdbd471" sha1="4c416d465eaef2c817483e34bcbb88cae0a1484f" date="1995-09-05 08:06:60"/>
+		<rom name="FLICS/02D.AVI" size="1165312" crc="af1296e3" md5="7d45f4fd6265c5a284ba646b3ac255a8" sha1="4a3ddb4762b36aca09ce53d94076704aee25be2c" date="1995-08-28 16:09:04"/>
+		<rom name="FLICS/02D.TXT" size="246" crc="ed8579f8" md5="46cbd8c5a4d3f5c77df82ecf653cbbd1" sha1="842b3c44f32e133de4a190b9b975b2346bfd0490" date="1995-09-05 08:06:60"/>
+		<rom name="FLICS/02E.AVI" size="1915392" crc="8599cb58" md5="84b24d06666bca89ced6d4f3f3867d80" sha1="72213de2c346b894748c7e4b5ad1b094d170bb1f" date="1995-08-28 16:21:40"/>
+		<rom name="FLICS/02E.TXT" size="435" crc="0615c4a0" md5="65f510d8a41e920e45a810b43a2b05ea" sha1="e78d30984590c1e005097ce16dff52d0b2052dc8" date="1995-09-05 08:06:60"/>
+		<rom name="FLICS/02F.AVI" size="3566080" crc="3629eb7f" md5="85763d3e55dbbf8b5ce22170a52027ba" sha1="c56478ba7155c8dc46dfe463e431029ff4d81985" date="1995-08-28 16:40:60"/>
+		<rom name="FLICS/02F.TXT" size="717" crc="78a0be9d" md5="b9ec2beb7901df139e74ceeb79ce7cb2" sha1="39a8252943789683495e5ba03b6d3e05d16b5dfd" date="1995-09-05 08:06:60"/>
+		<rom name="FLICS/02G.AVI" size="2484224" crc="54716d8f" md5="1249194aecc04d07dd9c63a238716e25" sha1="8a1dba56842bd111c2cb87b95a5f513f16f1399c" date="1995-08-28 16:44:44"/>
+		<rom name="FLICS/02G.TXT" size="355" crc="32a33a11" md5="57b299faad0960142bd19800f7018043" sha1="85e84b7681d025002b5b0ab28de98d6314bf4e7c" date="1995-09-05 08:06:60"/>
+		<rom name="FLICS/02H.AVI" size="2805248" crc="588bedc1" md5="c93e47336b8c42a37f90524ffb8a65e7" sha1="1ca28b68fe974977057e9849b739c7f726dfcf61" date="1995-08-28 17:05:20"/>
+		<rom name="FLICS/02H.TXT" size="638" crc="72fcbe44" md5="c281c8c72d391fc38b29c7738f791824" sha1="1bf5fc1dc2a2adb523ab4598a0f8a4071ea6e0c5" date="1995-09-05 09:10:24"/>
+		<rom name="FLICS/02I.AVI" size="3525632" crc="6a7dc8b0" md5="76cb4e0bb24952bd75ef679473c23671" sha1="29794b4a8f4452a15d3e7b9c8222c8e8558f83ca" date="1995-08-28 16:49:32"/>
+		<rom name="FLICS/02I.TXT" size="412" crc="27549144" md5="62ede88cc78a51adb96c039b289b1d50" sha1="be6ca3dbd64d21a741d246bb687bfc3ca0497999" date="1995-09-05 09:10:24"/>
+		<rom name="FLICS/02J.AVI" size="1754112" crc="db3e3733" md5="025795b5ab49b8ebc569006cc7b6098c" sha1="7d33e0d359f211b5defe883367d1c53986f1113f" date="1995-08-29 00:19:16"/>
+		<rom name="FLICS/02J.TXT" size="329" crc="7266305c" md5="e2efe2a85fdf0020c13696d58f95135e" sha1="d52d269daacbd1c26ece2dc4678ad0208170bd67" date="1995-09-05 09:10:24"/>
+		<rom name="FLICS/02K.AVI" size="1524736" crc="a738a5b6" md5="b8778f7fdd6077888d5c370d8dddd596" sha1="6a12f5cc468f31691ae069ed9a305b694273788e" date="1995-08-28 17:25:20"/>
+		<rom name="FLICS/02K.TXT" size="353" crc="5276169f" md5="a06d221171b4585c56e2a269b3ee73f0" sha1="8ca4b2d6a04bd125ad0b330f77aa2c0b2033845f" date="1995-09-05 09:10:24"/>
+		<rom name="FLICS/03A.AVI" size="730624" crc="287aa87a" md5="1f8c951e45d01d48d5702f4cb7aa4ec0" sha1="38f0dc7b49643d63241af85f6ef2c98267176732" date="1995-08-28 17:29:28"/>
+		<rom name="FLICS/03A.TXT" size="162" crc="21232870" md5="4a9a35e48c1f74b155e5b612875e443d" sha1="7551c30ac3c4250e4fc169d07a6d63f76d0f7edd" date="1995-09-05 09:10:24"/>
+		<rom name="FLICS/03C.AVI" size="2405376" crc="355613a9" md5="6ed7de7a73da711911f31de90dc490d9" sha1="81c18b0d9041f688165a40a3ee9244f72e96a8fe" date="1995-08-28 17:50:24"/>
+		<rom name="FLICS/03C.TXT" size="632" crc="ed50848c" md5="5f690c2ff4aba870531efb25e9034ac1" sha1="24fae00667ddcbed2483ec01ff83bcda1e76a03c" date="1995-09-05 09:10:24"/>
+		<rom name="FLICS/03D.AVI" size="1783808" crc="05f37f0b" md5="a67432ff6dde5c03a9fc0022212f30f5" sha1="fddee822396cba75d8db0842cbceed605d589662" date="1995-08-28 17:56:08"/>
+		<rom name="FLICS/03D.TXT" size="427" crc="78656212" md5="3a54ca9953b2c7d020ae6580620b8cf1" sha1="16dd6ee84be497f40eef14a15814f75c853080bd" date="1995-09-05 09:10:24"/>
+		<rom name="FLICS/03E.AVI" size="929792" crc="b609f0ae" md5="3aee3dc8fbf1dd43a99b51c0fab84439" sha1="4de35a8401f867fa91d30d2cfdb0190ebcc8bad5" date="1995-08-28 18:01:00"/>
+		<rom name="FLICS/03E.TXT" size="215" crc="7a7e9f24" md5="fae7ce63564d66f9a9791ef32dea2821" sha1="dd9888c43a449e3eb2f4a2676a194f71bb8d4548" date="1995-09-08 15:12:48"/>
+		<rom name="FLICS/03F.AVI" size="4477440" crc="c6d2285a" md5="f4f304e225b2ec53a4e8c6c19413c00a" sha1="6efb1aae3fb578b97b6d0c3aa27312430de5e835" date="1995-08-28 18:14:00"/>
+		<rom name="FLICS/03F.TXT" size="771" crc="a88bc0fd" md5="9db550b2f3f534237b428633de9f9e4d" sha1="2e95845e3f3f78d14a232f66e2c31124de1b0dbc" date="1995-09-05 09:10:24"/>
+		<rom name="FLICS/03G.AVI" size="3127296" crc="1f474752" md5="b5463fcd8a6d625e2393b8f1590e5449" sha1="03e7365d17cb53c8791b6c237bdb3b479a39791c" date="1995-08-28 18:17:16"/>
+		<rom name="FLICS/03G.TXT" size="374" crc="94206740" md5="0e4a5c3b91926c77f70be04e67cd93aa" sha1="fde1885f3bb24ea6866d2e4d21ea9ec0ecdbe0af" date="1995-09-05 09:10:24"/>
+		<rom name="FLICS/03H.AVI" size="6872064" crc="60dc630e" md5="0bf58d7db8aa758e132818d33caebd8e" sha1="b9d69eab8be0fb960e4058216eb1a288f98a8a65" date="1995-08-28 17:05:44"/>
+		<rom name="FLICS/03H.TXT" size="678" crc="ff525715" md5="9dda02dd07a5c63cd620d3d9bfc00c4d" sha1="a6788fdfdfe2ec29c06a3a826f9e4906001cdaa0" date="1995-09-05 09:10:24"/>
+		<rom name="FLICS/03I.AVI" size="1505280" crc="acfdb170" md5="f9da7f01727c46c6d4a41c387124ee7f" sha1="4414f258495c7976600af5675184e446e4d91457" date="1995-08-28 17:11:36"/>
+		<rom name="FLICS/03I.TXT" size="233" crc="e6b89daa" md5="999f6c5488a5ac1683a35739c21f2494" sha1="3b56db0f0cde2ee05224c0d628346fb64ae024e3" date="1995-09-05 09:10:24"/>
+		<rom name="FLICS/03J.AVI" size="1595904" crc="ab4ae568" md5="e6def03201a41dec2dc2d09eda7ca27c" sha1="3f179d5651a9a31a2793f936f6be703d9cf8c71b" date="1995-08-28 18:22:00"/>
+		<rom name="FLICS/03J.TXT" size="334" crc="d5d36ac7" md5="658ac9351a76dd02504eb9d4778074c3" sha1="4a8482ed84f272ea2400ec852f82ea6929e8d9df" date="1995-09-05 09:10:24"/>
+		<rom name="FLICS/04A.AVI" size="5143040" crc="5cd93f86" md5="a795f3336a5dfda767d467beec00e029" sha1="45791faaa0ac9a1a58b5b7db010f590a0a07b5d3" date="1995-09-06 15:25:44"/>
+		<rom name="FLICS/04A.TXT" size="562" crc="34971040" md5="30a4a04edf69b4e890e2e427f21c7c17" sha1="74f3ecbfa570e77e7acac06a6aa7c731b875ae9a" date="1995-09-05 09:10:24"/>
+		<rom name="FLICS/04B.AVI" size="2713600" crc="d89fb27d" md5="475dc23f9652ecbc6b272c59b65d23ba" sha1="b86ef680b565224480a011b5ff89fb8904d1feea" date="1995-08-30 10:41:28"/>
+		<rom name="FLICS/04B.TXT" size="603" crc="afe0cd29" md5="e83e8adce1dae84879f21f9c1a5be030" sha1="ea1b953831f180b47c1e79e1a51c2a3cd8ff1501" date="1995-09-05 09:52:04"/>
+		<rom name="FLICS/04C.AVI" size="2711552" crc="15ad05ef" md5="dbca8c321f017d1d46120aed6dd5f9bc" sha1="cf7f8db36f3fe3bd73138501247cc93186b71f86" date="1995-08-28 18:36:48"/>
+		<rom name="FLICS/04C.TXT" size="816" crc="1162671f" md5="575ef32dbeea8e617e096c2730dac550" sha1="cbc131ac436c454beea0b21fb3aba272d679715b" date="1995-09-10 16:56:36"/>
+		<rom name="FLICS/04D.AVI" size="2478592" crc="add23d8e" md5="f4cda49e0e330ce48b7d1900dc4661aa" sha1="7935dd6c00c710f3de7cdfada07d4b0b931a7502" date="1995-08-28 21:13:28"/>
+		<rom name="FLICS/04D.TXT" size="667" crc="45592005" md5="e7c38a3c021062292ebd5d5343022014" sha1="bcecad29efac8b384594aaaa13c70f535bbacaae" date="1995-09-05 09:52:04"/>
+		<rom name="FLICS/04E.AVI" size="6066176" crc="98f684db" md5="dedfc715f066624beeeeeb798d52e4f7" sha1="3a0914d74bf9601dae8e428178982c633ff4c913" date="1995-08-30 10:60:40"/>
+		<rom name="FLICS/04E.TXT" size="1028" crc="a604f5e4" md5="de7d51d2edc49c70c4c9d0219eda043d" sha1="a82ff07e3fb897889b56219d65b10017c939b186" date="1995-09-05 09:52:04"/>
+		<rom name="FLICS/04F.AVI" size="4343296" crc="632c32c7" md5="c6c671ece6ddc715c7c7fe38971b1d6d" sha1="a9755fbf5d6efeac893ca6268869cb32e617872a" date="1995-08-29 00:26:04"/>
+		<rom name="FLICS/04F.TXT" size="519" crc="149b84ce" md5="bc6c73e3ee704eb4ea63ccb4b0cd03d3" sha1="41be399e05b5bbc4596505f61adb3bbf17eb5a32" date="1995-07-25 08:22:20"/>
+		<rom name="FLICS/04G.AVI" size="7019520" crc="3d7fa29f" md5="f1d867a6326b29dc9d0432f93bcd6b67" sha1="05d38e82b4bf58f7d03a9350e9e1139a1e056c83" date="1995-08-30 11:06:52"/>
+		<rom name="FLICS/04G.TXT" size="674" crc="a2c8d7b8" md5="dc4158a38c69de946ab87953bf80aec9" sha1="0494765dc05b3b6cb37ca841a57a0e48bdda7232" date="1995-09-05 09:52:04"/>
+		<rom name="FLICS/04H.AVI" size="2008576" crc="a4980f03" md5="5515a6866fa17a074670f60e5822449c" sha1="9a61eca0f33db639f4f66323650770a889c0d91c" date="1995-08-28 21:19:44"/>
+		<rom name="FLICS/04H.TXT" size="503" crc="ab58e7f5" md5="c45bc0314566412b6573ae474febdb05" sha1="067bb8008fa5026ac72d7b63cd2df7dbb581a808" date="1995-09-05 09:52:04"/>
+		<rom name="FLICS/05A.AVI" size="2429440" crc="fa427b87" md5="d8be0b85beb8a6c14eabf6ca122701dd" sha1="1c211036edcb625e275ba61bcc83754d071717cb" date="1995-08-28 21:29:36"/>
+		<rom name="FLICS/05A.TXT" size="549" crc="7f26b57c" md5="947e7f5af10eeb3c40c8903b0c624eec" sha1="79ab8baa9c2832e8b2181a36c62743e6722c75ff" date="1995-09-05 09:52:04"/>
+		<rom name="FLICS/05B.AVI" size="4169216" crc="f8cf76e1" md5="74f9f35b1ad05dc4808abd161eae3934" sha1="a74cde1d370a1eec1c557434ed8a8a5d2a89aa66" date="1995-08-28 21:38:44"/>
+		<rom name="FLICS/05B.TXT" size="551" crc="6c41270c" md5="c6574e0054d5d95ec9ad4064dbd5495e" sha1="2b72e2db71ab481ab428de925ec875fe4ea7fb40" date="1995-07-19 14:12:16"/>
+		<rom name="FLICS/05C.AVI" size="3475968" crc="4649618c" md5="41ec7b0dfce44be109a4de391df81c9b" sha1="f247e0077cef60ea7b5be3570c5c3d83363ab10e" date="1995-08-30 11:24:16"/>
+		<rom name="FLICS/05C.TXT" size="637" crc="7a0e068a" md5="65ec8ea0cb7afc7ee876ed543e860f79" sha1="f8110749498e42a437612eaacb4b3ed207991551" date="1995-09-05 09:52:04"/>
+		<rom name="FLICS/05D.AVI" size="1046528" crc="c05aa5d2" md5="532064ff91c3913a68a68eaba561c1d2" sha1="a9e3211b6a19acfea1e59b9d3800170ed1bc1d46" date="1995-08-28 21:44:12"/>
+		<rom name="FLICS/05D.TXT" size="313" crc="50d58726" md5="460835ab835cdae694d45f4cdb3a263e" sha1="4992eb72b0bc1346474d9a51c3b4a64f2f0c0088" date="1995-09-05 09:52:04"/>
+		<rom name="FLICS/05E.AVI" size="6153728" crc="0758b023" md5="523546cda558a57aa4164c23f38e17ec" sha1="027d28ed532033c4478019b13c7b6167c7deabeb" date="1995-08-28 22:02:48"/>
+		<rom name="FLICS/05E.TXT" size="998" crc="cb2f2c6c" md5="8212789d1bf7a66d2caacda6bd2ce79a" sha1="b3fb94f4a18f554912005535fa531529cb82e7fe" date="1995-09-05 09:52:04"/>
+		<rom name="FLICS/05F.AVI" size="3572736" crc="5382d263" md5="4ddb70e049ff6d632e14623b11cd8652" sha1="b302839ad9ad76f224a9709e5b1bb3f6ae988255" date="1995-08-28 22:13:60"/>
+		<rom name="FLICS/05F.TXT" size="588" crc="7735c15e" md5="94b3d5c02ee451ac65fa211aff472bf1" sha1="9fbd14f3781584f7ceade23a73954ff72fc75b8a" date="1995-07-12 16:34:44"/>
+		<rom name="FLICS/05G.AVI" size="4389888" crc="129386b2" md5="e9c4a945ab7136ac5f9f26444d39b9f0" sha1="939e43a630739b8ad3a01dd7a4440ab08e56c6f2" date="1995-08-28 18:43:00"/>
+		<rom name="FLICS/05G.TXT" size="742" crc="038dfd6b" md5="9e0da5e2dd1500efec3ca7f179f453e2" sha1="57391b0838ddcaef0a4214fe63168c304b09bf41" date="1995-09-05 09:52:04"/>
+		<rom name="FLICS/05H.AVI" size="2082304" crc="1e1a0dca" md5="0ca5ebdaa786d4351bea0c1713445aae" sha1="50f8c74a914197207b3d64f51f897d7a94db05a2" date="1995-08-28 22:21:04"/>
+		<rom name="FLICS/05H.TXT" size="582" crc="171ed24b" md5="7e945ec4f1881f6b200d9f934665a4d5" sha1="1bd615576c71fe4e6d84b81bffbd329bcdb1a92b" date="1995-09-05 09:52:04"/>
+		<rom name="FLICS/06A.AVI" size="4746752" crc="2750d3db" md5="942f85e5284b364e93caccf5717e8168" sha1="540014bfe45865ade12067063d8d88b9408c8a24" date="1995-08-30 11:40:08"/>
+		<rom name="FLICS/06A.TXT" size="742" crc="e274aa06" md5="b45a79ffe7ef97e063076ff788341365" sha1="61c261d5097aeded8f6cac5498116fb28e98f986" date="1995-09-05 09:52:04"/>
+		<rom name="FLICS/06B.AVI" size="2252800" crc="1ebfc339" md5="2ea228d51d1c6f36718203511c875677" sha1="6d0b42dc4caaa96d168987fc86ed90764b13979e" date="1995-08-28 22:33:00"/>
+		<rom name="FLICS/06B.TXT" size="468" crc="2149fbb7" md5="84a146350aacc653f8f020cdf41757ed" sha1="ee10eceba45ef8f9238406f79ff09328ecff2cec" date="1995-09-05 09:52:04"/>
+		<rom name="FLICS/06D.AVI" size="1438208" crc="a862c836" md5="a72971d6c3cdb688750109468c405f96" sha1="75c055aae77796d9360aaa14da6713beb83cbb5e" date="1995-08-28 22:52:12"/>
+		<rom name="FLICS/06D.TXT" size="403" crc="3979d119" md5="e90e5f29c4bb25190e80aa03e5ee720a" sha1="0b61287738786353c7b8d4c1eca17163da5d859b" date="1995-09-05 09:52:04"/>
+		<rom name="FLICS/06E.AVI" size="4820480" crc="c6417d90" md5="918f63c7d46a4ff35fdee51d38aa0d83" sha1="091d5000c05388caf48c82f9e213b3b06ca21ab9" date="1995-08-28 23:06:40"/>
+		<rom name="FLICS/06E.TXT" size="827" crc="3c11aa2e" md5="1136e7e5c243ad9d6567600511328b44" sha1="da91e0daa2909c6a4430999185abd8331e906550" date="1995-09-05 09:52:04"/>
+		<rom name="FLICS/06F.AVI" size="1641984" crc="718dab51" md5="44ba0db72d5a8f416af1e636f6f19e3f" sha1="a70f518bc13cb929286af3305dfd98a71f211398" date="1995-08-28 17:32:16"/>
+		<rom name="FLICS/06F.TXT" size="257" crc="11259665" md5="90e3f2965262e27240ec5748ebb82e05" sha1="15a1a3e9a2e1d64a71efa9c55d4e4659dffe742d" date="1995-09-05 09:52:04"/>
+		<rom name="FLICS/06G.AVI" size="2047488" crc="4e5c8afc" md5="d017af5c77d4ea63848c9fb11cd0aec8" sha1="e69fcd600ae31e6a87cdbd711b02bc339c9a7bb5" date="1995-08-28 23:16:32"/>
+		<rom name="FLICS/06G.TXT" size="580" crc="20514a65" md5="a6909389b5adae0a4ff671f7e5372996" sha1="68054c304399530c7d69a22e1e49ab2f3d8827f7" date="1995-07-13 10:27:16"/>
+		<rom name="FLICS/06H.AVI" size="1816576" crc="ae5132d9" md5="a7ca80974444f023b383333a07a2f579" sha1="74eccdf54dae620ffe4f46808087130c577d331e" date="1995-08-30 11:42:12"/>
+		<rom name="FLICS/06H.TXT" size="259" crc="fa174f17" md5="645e46d0b152d35f46c038aa67ca26d1" sha1="8657a91392f0a0bf40d155f0535eb56d4124693f" date="1995-09-05 09:52:04"/>
+		<rom name="FLICS/06I.AVI" size="671232" crc="50c3cba7" md5="8649493a937236a683636e5b3853ec9a" sha1="c8ed6c03ef22e112e814e113493e5c7548178050" date="1995-08-30 11:46:44"/>
+		<rom name="FLICS/06I.TXT" size="205" crc="228b48d7" md5="671116547e2503b9283e54f8c3e0a636" sha1="9fd0d565b0ff51bba0f516a33649a50f4aff192b" date="1995-07-13 10:32:44"/>
+		<rom name="FLICS/06J.AVI" size="4524032" crc="66d23953" md5="9199d3ab1e343303fb4f745ae1826f20" sha1="3344ddcefdbcde0990f2489af085e1cc283c7dbb" date="1995-09-11 21:13:40"/>
+		<rom name="FLICS/06J.TXT" size="617" crc="91a8b9e2" md5="dc1b1124cd72f6e8fd7755d7f97bd118" sha1="db2e70aa612a4b28432880ebc0b3b0268a4045b8" date="1995-09-10 10:54:56"/>
+		<rom name="FLICS/07A.AVI" size="3936256" crc="f010b16a" md5="2229f22e1bb5c1678c535671391470f3" sha1="0986b33f660ea035be61524b328062342e1caadc" date="1995-08-28 18:01:16"/>
+		<rom name="FLICS/07A.TXT" size="597" crc="eaa4d3cc" md5="473375b8ede89ef7ffe51bf3a3a4ab5a" sha1="50a478ae8baef203b84a7d29b854f4643412fcce" date="1995-09-05 09:52:04"/>
+		<rom name="FLICS/07B.AVI" size="2402816" crc="7d9b4290" md5="970160b2163c8421d8c5d13a7c898be0" sha1="0af3091c399ab4a87e83fbcec12522382092112b" date="1995-08-30 11:56:20"/>
+		<rom name="FLICS/07B.TXT" size="500" crc="142cac3c" md5="6b103145302dd62da8aa76eaacf95a62" sha1="2e36234545622f961b4b77f814a36109a71a5a43" date="1995-09-05 09:52:04"/>
+		<rom name="FLICS/07C.AVI" size="2549248" crc="db103ea2" md5="0789b5a74536cbe43a7a3b9528b27346" sha1="51afb362c4ab494e316ca9ed2b3052515a08e1b9" date="1995-08-28 18:25:28"/>
+		<rom name="FLICS/07C.TXT" size="615" crc="5da62a23" md5="485b57e976d1799cffba8443620d9fb1" sha1="3615e05abc9ab08c19f4393599f53c88ff69b4cb" date="1995-09-05 09:52:04"/>
+		<rom name="FLICS/07D.AVI" size="4197376" crc="7d9ca943" md5="37edd8285643d8c63bb3978895822df8" sha1="ea4b740d26155db5361029785914d6496f51b2f2" date="1995-08-28 19:04:24"/>
+		<rom name="FLICS/07D.TXT" size="672" crc="270a8136" md5="4c7f4b700d5ac8d7893f1eefcb4e10ba" sha1="77ebdd8f37eac3a16f14be58886ca42c4ec5528c" date="1995-07-13 11:56:16"/>
+		<rom name="FLICS/07E.AVI" size="3111424" crc="eca705c4" md5="54e4a4438c2114c3da00b48d248f02fb" sha1="46d579788d08bd655a28f4eafca77bf47d3b3f31" date="1995-08-30 12:44:00"/>
+		<rom name="FLICS/07E.TXT" size="431" crc="aca9a553" md5="b6b59589832bce4c5ec362df9c77e352" sha1="5a4ed0a001c6d49beb7127d79ad5a857d49359e5" date="1995-09-05 09:52:04"/>
+		<rom name="FLICS/07F.AVI" size="2358784" crc="95e995c4" md5="ba6c0e9c4f373c177b574f615900d885" sha1="7dd09f78f4612fe10412e8b3542ad92d1b496be6" date="1995-08-28 19:13:32"/>
+		<rom name="FLICS/07F.TXT" size="722" crc="eced140a" md5="628ab6d5dc0a1701a05056860c8e44ff" sha1="1e637f2205c9b0563e2634b6ed4b571baa3deaac" date="1995-07-13 12:13:04"/>
+		<rom name="FLICS/08A.AVI" size="5149696" crc="6f75e0ba" md5="8464f490a1bd77547a456e00c2aa17d7" sha1="56bbce364a0f091bc6b7619404a6b2fcbc96d1ba" date="1995-08-28 19:03:36"/>
+		<rom name="FLICS/08A.TXT" size="860" crc="bb4f6152" md5="80c98bcb0a451d4269d04f0fde540bd5" sha1="801660b203e709c9945f40e8794e83776275eeb8" date="1995-09-05 09:52:04"/>
+		<rom name="FLICS/08B.AVI" size="4745216" crc="ffe7ed53" md5="1fd166a9c9ee9f83a863aa24b68e995f" sha1="41b544cd5d244a16c39f775adf36c8bb8434315f" date="1995-08-28 19:24:24"/>
+		<rom name="FLICS/08B.TXT" size="512" crc="666ae12e" md5="a50d0ece9d65f6a21c6c31a81adad6ab" sha1="9da6ab8c46d684fb49eaf21f13d40ad70cec8907" date="1995-07-13 12:28:08"/>
+		<rom name="FLICS/08C.AVI" size="1607168" crc="34b78db4" md5="558ca13cec1336abc9d7ee816e7eaa89" sha1="9f0a4cc8434a597805607d93b5cf4742ff3715f1" date="1995-08-28 19:30:48"/>
+		<rom name="FLICS/08C.TXT" size="364" crc="0d7419ff" md5="a667e8c12b6b8a7b7da0a79c03a534d0" sha1="fc77a85f2b0f32d6eb5681a292d3ef12c54e714e" date="1995-07-13 12:32:04"/>
+		<rom name="FLICS/08D.AVI" size="3870720" crc="a9235ab7" md5="5182cf230bfb4159d0a33642ab395d8b" sha1="af2fc16152059d10d83b8cc890a1b47be2600df8" date="1995-08-28 19:43:08"/>
+		<rom name="FLICS/08D.TXT" size="791" crc="3ca685d2" md5="df03be4c1db1d285752f746bf1e19268" sha1="227106e52ae10f059b2934bc4e99e391bee6bb25" date="1995-09-05 09:52:04"/>
+		<rom name="FLICS/08E.AVI" size="1958400" crc="c0122b42" md5="21ac32dc111d2cc76b0f89e3a0eaf907" sha1="8e9185d402587c5a687f6cdf681cd97de337e2bd" date="1995-08-28 19:51:08"/>
+		<rom name="FLICS/08E.TXT" size="432" crc="fd5386c1" md5="5006a16d446a5fa18e6c17195f5bb9c3" sha1="5455721ff2c7cb797cad33c07f61f78b6e01da9b" date="1995-09-08 15:10:60"/>
+		<rom name="FLICS/08F.AVI" size="4259328" crc="4a111185" md5="f1ef072fad47da363b0a383bc1864955" sha1="9f4f04a7a9622c939913be6cbc057bbdb499efd7" date="1995-08-28 19:55:20"/>
+		<rom name="FLICS/08F.TXT" size="446" crc="2d3a0412" md5="b9179a792b7ecfff02091fd61f9ee24b" sha1="e9bb528c7d8685cad376f0c24ef3257ac3d45657" date="1995-09-05 09:52:04"/>
+		<rom name="FLICS/08G.TXT" size="109" crc="23468a29" md5="e76d7c85f1b872264bed4559e0009bf4" sha1="59a197ea77e86c7a0e22b418079edb803e7225f8" date="1995-07-10 10:07:04"/>
+		<rom name="FLICS/08H.AVI" size="3808768" crc="33e7c1eb" md5="09491883998585f0cf8ed6be2b453db4" sha1="49200f175b40f9139f1566196742fc9da66d9f7e" date="1995-08-28 19:58:36"/>
+		<rom name="FLICS/08H.TXT" size="428" crc="7e85a5f2" md5="e5a157ee03fa57424d3c0d2c879128ae" sha1="3123062d9698d208ca1d005092c74896c948b917" date="1995-09-05 09:52:04"/>
+		<rom name="FLICS/08I.AVI" size="10236416" crc="ad2cb8b0" md5="dd3fc524817f93dc1b126f37f92e7b05" sha1="aa4897500b802c6855ce1ffa83c7678cbf0dce0a" date="1995-09-11 17:46:28"/>
+		<rom name="FLICS/08I.TXT" size="1896" crc="d541d41f" md5="75e7342aca275e9f137662890514f03f" sha1="66df87be2afc9c5a80efddfdeee240651646f968" date="1995-09-12 22:04:08"/>
+		<rom name="FLICS/08J.AVI" size="2132480" crc="f43429ec" md5="22b4f5c2a538618353de3f0d4ca5562f" sha1="2017f1d539d214b1e0e40b44632c5a4fd425533e" date="1995-09-11 17:22:48"/>
+		<rom name="FLICS/08J.TXT" size="467" crc="f4696ae7" md5="168e5c6298a5bb93594f00078a9210bb" sha1="ddf38033886fc7a8a5dd5e87466d7704b5a205a6" date="1995-09-11 16:59:24"/>
+		<rom name="FLICS/09A.AVI" size="1630208" crc="10ea6747" md5="a8178e9c15ec65ab373b097de4823777" sha1="55b530379c0b8057af3f9877e78b9b446bd6d52a" date="1995-08-28 20:05:60"/>
+		<rom name="FLICS/09A.TXT" size="444" crc="61bb637e" md5="3232cb06b6af8460b0548df63358257a" sha1="05c6ed21f12b0396c1eeb0c1a4064f92fc330c4f" date="1995-09-05 09:52:04"/>
+		<rom name="FLICS/09B.AVI" size="884736" crc="0435a1c8" md5="6609464ac80c1e259adc16e80cdff345" sha1="f18532add4228197bae884f691c66c6c26a33a8d" date="1995-08-28 19:13:44"/>
+		<rom name="FLICS/09B.TXT" size="232" crc="029617f3" md5="6688c7c814230eb5adfea96b95cbda34" sha1="f3564c689df12a515d176017c9ca33e4cc4b4a17" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/09C.AVI" size="2357248" crc="3f457c8c" md5="24a7f03b73629084d1a06f35971ad8a6" sha1="055c6912b88a8f458b51e59bf18be794bf85393e" date="1995-08-28 19:30:32"/>
+		<rom name="FLICS/09C.TXT" size="393" crc="a5e73e4a" md5="b235956d80e79bf54cf711b9b7271ccf" sha1="1c62e50d61d8587fa66e50e67d2aa3b70c416d80" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/09D.AVI" size="3950592" crc="fb63831d" md5="cc754f4102bee93ee501d98dd58decf9" sha1="2c6665a9b3a20998b5987007c2834ae3618a3bfe" date="1995-08-28 20:16:32"/>
+		<rom name="FLICS/09D.TXT" size="687" crc="2ce8df69" md5="29675e9a31da4f05529559c68d360ad0" sha1="40f8fe2e656f7feaf9809334cbb5486b67115d02" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/09E.AVI" size="5078528" crc="c6e4c18a" md5="f329f6875105c6e789a4e1ae8fa54c09" sha1="9f26b0de17967ff8e83c2cdd3245a4f634c25ecc" date="1995-08-28 20:26:00"/>
+		<rom name="FLICS/09E.TXT" size="1142" crc="9b414d9b" md5="a49fb3b9ec01f8ead87a33010fbf3c78" sha1="22c7b17ede58ba07a0aa664b35ba6f792c2f828b" date="1995-07-21 10:52:04"/>
+		<rom name="FLICS/09F.AVI" size="2134528" crc="d00ed58a" md5="bfc9a7fb2da8b99da9278add0ecc2912" sha1="4ac8fe994cacea9686ca9e9c4e2e70052aa32eda" date="1995-08-28 20:19:48"/>
+		<rom name="FLICS/09F.TXT" size="284" crc="d5f596bd" md5="6d55352e2fd84b1de563f1cad3fc4bf2" sha1="39d907f187aaa77307747440a12ffea5c93c162a" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/09G.AVI" size="1552384" crc="b196a6f3" md5="59350f6c228f7eed1f929ac16839f1cd" sha1="18fb9b40b1bb330a4f5772c7a9619485bb4618fa" date="1995-08-30 12:49:60"/>
+		<rom name="FLICS/09G.TXT" size="393" crc="d7828a8a" md5="e57d1b5a5deacf37c36fa0c06601b177" sha1="1e101659f857919afe670a4142927b90b6c16b7a" date="1995-09-10 13:30:32"/>
+		<rom name="FLICS/10A.AVI" size="2467328" crc="e75ad246" md5="0b952d76d6ca60f8038c0b643c56df5e" sha1="bf123dced7898a8878dc748e759d26d0c340a485" date="1995-08-30 13:01:08"/>
+		<rom name="FLICS/10A.TXT" size="523" crc="0db0077f" md5="2c01d392903e24b448d263de152bd383" sha1="53ff42f8dd839f14db46022d001eb26c5efc66d9" date="1995-07-19 14:00:52"/>
+		<rom name="FLICS/10B.AVI" size="1747456" crc="72b12901" md5="9433424687f3b9a5f0ac7802d1ebf3f4" sha1="e27df23c40ba26ffaa97eaa15b0d4e7c56dcc70e" date="1995-08-30 13:09:28"/>
+		<rom name="FLICS/10B.TXT" size="324" crc="d3e1b7c5" md5="32c240745795c929e0bfc50d07e59b11" sha1="757a14d8e04e9e81682f09d329d90b897547fccb" date="1995-07-13 09:29:28"/>
+		<rom name="FLICS/10D.AVI" size="2777600" crc="bcb2ca2c" md5="160bf8f54837a3069d348989ba4eb792" sha1="bb5e2eae0a1b5c662756ea32dddc0ce58190ed7d" date="1995-08-30 13:32:20"/>
+		<rom name="FLICS/10D.TXT" size="678" crc="bc7c9260" md5="0ed5965b4140f04754179cb1372eff22" sha1="d126bdbe0b05d86e125a918196c6d1176a024aef" date="1995-07-13 09:52:32"/>
+		<rom name="FLICS/10E.AVI" size="2921472" crc="d72918fa" md5="f0250757827d913a11d61d71133f5273" sha1="d6baa7319704b16f29fe2b610c908ea7a2cf8575" date="1995-08-30 13:45:40"/>
+		<rom name="FLICS/10E.TXT" size="555" crc="26c4cb26" md5="ddf3b46066ee5b19aa9dc41898ac6ba2" sha1="76b6f5d6fbd71092190e42c1524722c58a2baabf" date="1995-07-13 10:04:04"/>
+		<rom name="FLICS/10F.AVI" size="1441792" crc="264f4143" md5="dd74d83bb518373fb63f669bf48c8a66" sha1="ae90c44be436e639ac070869fa5411cdb62ce7ae" date="1995-08-28 20:38:20"/>
+		<rom name="FLICS/10F.TXT" size="111" crc="50a52b47" md5="b5beec453e510f9c55da9ee4e7657d14" sha1="bd94dcb048a6679cdd7bf8cdc5ed37358a7b9aa1" date="1995-07-13 10:06:12"/>
+		<rom name="FLICS/10G.AVI" size="2200576" crc="21aebf2c" md5="97c951abdc385d2216eef11aff2e11eb" sha1="2868aded3493dd7aa270d6d360c2ad64c5a75185" date="1995-08-30 13:48:52"/>
+		<rom name="FLICS/10G.TXT" size="368" crc="0f10f3e0" md5="74700e4014b8dd8aa539e38aa2bf6f8e" sha1="8f01561c63fd15fa20a98b29832ddd67274c27fe" date="1995-07-13 10:12:12"/>
+		<rom name="FLICS/10H.AVI" size="1701888" crc="2104d7c1" md5="3069258618994b395a60952c7a06b4d2" sha1="f88fa295bfcf1bc237be18a6af2dd6eb88bd9504" date="1995-08-30 13:55:12"/>
+		<rom name="FLICS/10H.TXT" size="421" crc="9ba14338" md5="a608e84739edc6387177288e865fbc38" sha1="38c8157e673ddf5d920e7e6ffb402f0fb93d2e29" date="1995-07-19 13:58:52"/>
+		<rom name="FLICS/11A.AVI" size="2355200" crc="826dca56" md5="41cf0e137283fea199e70cdf6128a4a6" sha1="27cb86122f6f18f62729b1dbcea7b17dd818048b" date="1995-08-30 14:05:36"/>
+		<rom name="FLICS/11A.TXT" size="528" crc="c1f1bacc" md5="755a5ef62c06e5416f6fc751281b50c8" sha1="c0f92c4ea42eafb1597016781600bd73e13f7488" date="1995-09-09 19:02:32"/>
+		<rom name="FLICS/11B.AVI" size="4317184" crc="bef21d9e" md5="6ac26468f66d9419df043f90bca7a652" sha1="8e52e81e59f2cd2de86f3bc69243e7f99ec81407" date="1995-08-28 21:08:20"/>
+		<rom name="FLICS/11B.TXT" size="643" crc="0c725c99" md5="89d0e960dd3ffba97c8e0c8828948ca9" sha1="7682821df9ca1f0242584cebca67ef426da6920e" date="1995-07-13 10:33:08"/>
+		<rom name="FLICS/11D.AVI" size="1422336" crc="34e918a9" md5="0a44700c36a43fb8feb2cfcc7a8febe5" sha1="6208784cba79c4076af1e8f047f0a5faa733c7b9" date="1995-08-30 14:19:04"/>
+		<rom name="FLICS/11D.TXT" size="394" crc="f5ec1bc8" md5="b5108e84976b656ca1538a030dc97009" sha1="1ba5ac8978f3a46d3871f15605862c55e40c62e0" date="1995-07-13 10:42:52"/>
+		<rom name="FLICS/11E.AVI" size="2612224" crc="b7872be0" md5="63b4cf7dbe92b6184bcbe2d6a2d08dea" sha1="92cedf3ea9e3f4c6498096bf716df443771925fe" date="1995-08-30 14:32:20"/>
+		<rom name="FLICS/11E.TXT" size="745" crc="80441748" md5="16e287fa5aed554b5f7d3ab439af1bca" sha1="62a555b5047931507916507f4f3773631f76881d" date="1995-07-13 10:58:08"/>
+		<rom name="FLICS/11F.AVI" size="3185152" crc="15b65ba5" md5="5d2eec36b6ee426324d446127567a4eb" sha1="c1cabed4b3c626537931620ee22c731aabf004ca" date="1995-08-28 21:16:00"/>
+		<rom name="FLICS/11F.TXT" size="274" crc="ae0e4921" md5="f456c7799d41304a471fdeec8afee6bf" sha1="b7f1184ee14a40a4da49ca363ddad4309f0a0925" date="1995-07-13 11:01:24"/>
+		<rom name="FLICS/11G.AVI" size="3847168" crc="dfebaeff" md5="bf59a5c7e3104961463ff9c3bc0536cd" sha1="781ffb934c94585320df649812be0c453de1cbb4" date="1995-08-28 21:21:28"/>
+		<rom name="FLICS/11G.TXT" size="212" crc="3a7b6cb0" md5="5477ad9aaba0648bb52467ff13c4fa3c" sha1="b3d50b1ad26167d69dd6aedbaf89dc89778510f3" date="1995-07-19 13:54:56"/>
+		<rom name="FLICS/11H.AVI" size="1741312" crc="10f00e14" md5="87fb906f15c3120db70caf27bb92756e" sha1="208d81e88027d68e71ffabe61682807271e72615" date="1995-08-30 14:38:32"/>
+		<rom name="FLICS/11H.TXT" size="405" crc="177b6a30" md5="740e0255ccec03486258fede6851343f" sha1="abe0a15c03f85cf36380ccd70806f86e5e2e5822" date="1995-07-13 11:10:40"/>
+		<rom name="FLICS/12A.AVI" size="3747328" crc="56c7a313" md5="2c9d37c0d09ba38c57670ef29580bad4" sha1="f954f5a36352132436e7147aa1f03eab1140fa50" date="1995-08-28 21:56:40"/>
+		<rom name="FLICS/12A.TXT" size="619" crc="7aea4a37" md5="e9b1571902b4922df8c39a0f0282ce74" sha1="327374a5eeb8df433653610be0b64f9ce645cef5" date="1995-09-05 08:29:12"/>
+		<rom name="FLICS/12B.AVI" size="2374656" crc="e9ec4e8b" md5="329622615c938032fdc03e9c5103d524" sha1="5e41cf7c9dc714e88e31679e68add9cea7781bdd" date="1995-08-30 14:44:36"/>
+		<rom name="FLICS/12B.TXT" size="288" crc="b57a403c" md5="fca052893cdf09b5bbb2758efcfe86cd" sha1="702c3635c4e03f8ea88511f9db32d6c34d31d80c" date="1995-07-13 11:30:16"/>
+		<rom name="FLICS/12C.AVI" size="1677242" crc="10bdf20b" md5="2aa27992adab97f6bc7e678db9c418ab" sha1="2a4e1592fb00b42cdff71abc7356a3e87e2b6b39" date="1995-08-30 14:50:28"/>
+		<rom name="FLICS/12C.TXT" size="283" crc="cbdc035d" md5="de435fd6c88f20f6f65e4cfcbfa4f937" sha1="e43959f46fcc63e0d3f76fee08d90346ee7b2dbc" date="1995-07-13 11:35:28"/>
+		<rom name="FLICS/12D.AVI" size="3946496" crc="0df2861f" md5="4c05f7b66ce8246d9cc68417f5ef4d4c" sha1="662cb51cab7e0f0bccdc0d8e2c56f7de3d2ce880" date="1995-08-30 12:51:32"/>
+		<rom name="FLICS/12D.TXT" size="791" crc="707ccab4" md5="ed1fdf94bf8b0156f8dfaeb4cd1f4ebc" sha1="3075875c870f31133ee276acb4346c8dce55fdf7" date="1995-07-13 11:48:08"/>
+		<rom name="FLICS/12E.AVI" size="2743808" crc="4bae588b" md5="29b1b64588a9e76817a73fa77332a8dd" sha1="04143a7d132c6094fba90fcd914029a81f197465" date="1995-08-28 22:07:32"/>
+		<rom name="FLICS/12E.TXT" size="392" crc="a7cac492" md5="33421f55e58489ebe9863069fb4afd4e" sha1="954b1f5c0e85306492896aff00aa7b3e8987da99" date="1995-07-13 11:54:36"/>
+		<rom name="FLICS/12F.AVI" size="1860096" crc="ea2180d0" md5="c57fdcd4905355688f7a05590e503e23" sha1="3e0db1311393d30433896c9a8378b7030b2551df" date="1995-08-30 12:57:60"/>
+		<rom name="FLICS/12F.TXT" size="499" crc="26927c03" md5="2e3ac84566a41149b7a181e9c82b0b39" sha1="f73cebf4565d21545a37e731d50f634029b01643" date="1995-07-13 12:01:20"/>
+		<rom name="FLICS/12G.AVI" size="1835008" crc="9beb45fe" md5="167d34b5be7cf1766ab37bfa0ead6987" sha1="be51921ed1eda6f211e2ae0bcfcc3945c1e1d2df" date="1995-08-30 13:04:28"/>
+		<rom name="FLICS/12G.TXT" size="447" crc="1c7c7a22" md5="8f73e0e56fb22ba5aac79302b31778d7" sha1="bb2f406496d13dca878b051e80a1dd6799a08cb7" date="1995-07-13 12:08:40"/>
+		<rom name="FLICS/13A.AVI" size="2103808" crc="87477190" md5="a928bdbce9ee3e4985c3f7a8e8242e3e" sha1="22d9d386518bdba8403411a314b6b242f882f655" date="1995-08-30 13:10:28"/>
+		<rom name="FLICS/13A.TXT" size="397" crc="c5bc066f" md5="a65687acfd806a44d00bb3b56a4753b3" sha1="9e45be566987f7a785a1c29fc0d9530bc66dbd0a" date="1995-07-13 12:37:04"/>
+		<rom name="FLICS/13C.AVI" size="1986560" crc="541e7ffc" md5="b68246076ee93b53f9698e5e366690c9" sha1="ca754a5a67073919be7f5bfebcdea03dade9b70b" date="1995-08-30 13:23:12"/>
+		<rom name="FLICS/13C.TXT" size="445" crc="7749d29a" md5="58bef668619c8f773ba838c2a6bd5c52" sha1="2451ef39b42cc585d2472512e0735a0b5cc81a95" date="1995-07-13 12:55:12"/>
+		<rom name="FLICS/13D.AVI" size="7369216" crc="c2285948" md5="49d16bbf6f83ae56144abed4287a9bc4" sha1="484dcadb0b78b28604f8154f3441e91ad0aca3df" date="1995-08-28 23:09:28"/>
+		<rom name="FLICS/13D.TXT" size="983" crc="86b752d3" md5="bc130d85206c97cf4e2e834328acfcad" sha1="efc5621ed4acaea97919e6d55e853b3ffc16b7b7" date="1995-07-21 11:05:00"/>
+		<rom name="FLICS/13E.AVI" size="1643008" crc="9f82ad79" md5="e4a6d563f615f5ee78881e293f6cca0c" sha1="87681faa2dc94db2146ae9a25d3f2a9625fc7960" date="1995-08-28 23:22:12"/>
+		<rom name="FLICS/13E.TXT" size="264" crc="f3c1d881" md5="553481e6039fd993d623fbcf21fa49d4" sha1="4d787913196701f7f8a8659c275e675efcb58a0e" date="1995-07-13 13:00:24"/>
+		<rom name="FLICS/13F.AVI" size="833536" crc="b93f8e26" md5="c10a5585bfceff5878be00a47f5e0b58" sha1="b0e9cd5e0e6612daf6341748f7718e80229ee8cb" date="1995-08-30 13:25:32"/>
+		<rom name="FLICS/13F.TXT" size="149" crc="e555c80f" md5="ef606bed69b2d4950dac42d26817f9e2" sha1="d92d35ccbd220f2e018fbb925328fd9aba47faa6" date="1995-07-13 13:03:24"/>
+		<rom name="FLICS/14A.AVI" size="3767296" crc="ac494fae" md5="b4a4ed30dcef50827bce874da7a8713d" sha1="e20ad771574411594b655e26bef21871a0780363" date="1995-08-28 23:40:44"/>
+		<rom name="FLICS/14A.TXT" size="941" crc="6d50e80b" md5="4f3d36a72653ca1face8f69917ee24ae" sha1="8c055c3d2258cdda9db03f4b1a1dc4accc53a9b4" date="1995-09-10 13:46:28"/>
+		<rom name="FLICS/14B.AVI" size="4516352" crc="bdb4d501" md5="a12c23035f658d61455f7fd78dcbe765" sha1="962cb89b516d52c7a5c1451d78f84b559e80f731" date="1995-08-29 00:39:12"/>
+		<rom name="FLICS/14B.TXT" size="721" crc="aa8ee45a" md5="df951e60d526fb670f4501d4817d0a28" sha1="9bab961d3d68caafd6e7ca24eaf3e4c842b86e79" date="1995-07-13 13:58:20"/>
+		<rom name="FLICS/14D.AVI" size="3024384" crc="171f9565" md5="af57aa567b76e6d3906b25bb83e844e2" sha1="0e27ba73b21ba6aebb30bcedd99a2d12db4ca8f3" date="1995-08-28 23:51:04"/>
+		<rom name="FLICS/14D.TXT" size="533" crc="17927705" md5="5e163a1e1120535c9d8b36fcd656ccc8" sha1="d3cd20c3f9851051858d18f92752c2b01383b3ae" date="1995-07-13 14:11:36"/>
+		<rom name="FLICS/14E.AVI" size="3729408" crc="0bdd1358" md5="bb0e6cc7aac827415f59ad265b763747" sha1="67c796a2052da785fb8f740efe3eafa5878d3e82" date="1995-09-14 14:58:24"/>
+		<rom name="FLICS/14E.TXT" size="466" crc="69e29889" md5="6f3435bf7df5a370dc622639a44eee9e" sha1="c21e3684bcc195614779aa1b0793af9036cfcc89" date="1995-07-13 14:28:44"/>
+		<rom name="FLICS/15A.AVI" size="4303360" crc="808a071d" md5="edb9dfabafcbc0317387beac995e5a4b" sha1="215d5b44dd29085f22c535a231dbfc07bc78178b" date="1995-08-29 00:29:44"/>
+		<rom name="FLICS/15A.TXT" size="1338" crc="f6f55944" md5="af561d2da31f0faa64309b8717196780" sha1="1897d910cb897d9413c5f8ca1c393440dc757eb3" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/15B.AVI" size="1926144" crc="995dff7d" md5="5933f5fe9d4f51070f72cfa482080e61" sha1="8326c477aede1f0b3f9003dddf601de6a4ce3bb2" date="1995-08-29 00:36:28"/>
+		<rom name="FLICS/15B.TXT" size="337" crc="146c0065" md5="9f57cb0a2208df1609c427061c19b88f" sha1="9fa7917019c3fd0bfa079c51f4483492cbfb78d0" date="1995-07-13 14:34:40"/>
+		<rom name="FLICS/15C.AVI" size="1708544" crc="85a6d0f1" md5="98cb97fd2d548dbc80eb793a4ceba393" sha1="8db4b2416d69808c1b2e24b147b0a28bd9e034c3" date="1995-08-29 00:42:40"/>
+		<rom name="FLICS/15C.TXT" size="302" crc="924c1adc" md5="a929a4dfc27d5557ae45567e88a071b3" sha1="7077c7171db19c2daf173e841526c3c6cf2af68e" date="1995-07-13 14:37:28"/>
+		<rom name="FLICS/15D.AVI" size="5828096" crc="e0ceb3ce" md5="19ac31f86590d6e82875a9d1cfe0b922" sha1="78beb6d91272272b56f39753e0aaf56096ef6083" date="1995-09-14 15:13:24"/>
+		<rom name="FLICS/15D.TXT" size="716" crc="401cd6d7" md5="dc4665b53099c92091fed97fcc7a478d" sha1="a49950058ff804d8f9f0a4ee237b2e959e3dc772" date="1995-07-13 14:44:32"/>
+		<rom name="FLICS/15E.AVI" size="6916608" crc="0215a6f7" md5="9e19dc88657e32d92e50f1de1d898d64" sha1="b5f44ce0071f578cbe0d45fb42b200e7fdf8029c" date="1995-08-29 01:15:40"/>
+		<rom name="FLICS/15E.TXT" size="608" crc="90d9edeb" md5="f0dcbc0aee2c169dc623451c424315c7" sha1="612e937c7fdc4af368805f5dba41b8f8cb2d588d" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/16A.AVI" size="2863616" crc="b2e0c002" md5="c8c9ed643f1b887cc73bdfc015cf6cdf" sha1="352f8681d7646f17a51994ce4cf7f13a05b08537" date="1995-08-29 02:26:32"/>
+		<rom name="FLICS/17A.AVI" size="5854720" crc="48591771" md5="7abd3eaa7540502b5bf5966ef31c7125" sha1="cfb77378b01dbafac6d698e50ddfbac17ff6357d" date="1995-09-03 13:19:60"/>
+		<rom name="FLICS/17A.TXT" size="460" crc="ff5d55ef" md5="b9384ee2e73a0fc7e470f8594f065df2" sha1="5567447a1cf04744b3eed8bedb014915dc95d05e" date="1995-07-19 13:44:32"/>
+		<rom name="FLICS/18A.AVI" size="1671168" crc="c9bf2283" md5="23e618f080416ff0fa6d5bd5b7f1b5b6" sha1="aaa147559956a3881467ffb01b85382795cb400b" date="1995-08-30 11:07:60"/>
+		<rom name="FLICS/18A.TXT" size="318" crc="8938d543" md5="c4c177990d496fd43cbfd2f09581e824" sha1="e625491c7753c209e824deb63ec4a254f9b50f65" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/18B.AVI" size="3555328" crc="d05bad70" md5="b36a68a764ae860c377eb95cd480b328" sha1="f4a30086bdcfb8c3a3a677019fbc6f813766c703" date="1995-09-03 13:25:48"/>
+		<rom name="FLICS/18B.TXT" size="310" crc="ebdeb29f" md5="01af6294c7fefc6f919965b7bf135abf" sha1="d58a6f904bf79e4610e322fd080ca6cc26d7418d" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/18C.AVI" size="6400000" crc="29cc2821" md5="65030b8278a31a84f19c28bb2543fbdd" sha1="f1adf2c84e47f9e02c98406c77f3cac1a28f5b9c" date="1995-09-03 13:35:52"/>
+		<rom name="FLICS/18C.TXT" size="448" crc="99e23402" md5="3067066fe996803a4ec6785ff484034a" sha1="394aa1e950b4fd90ca11bd7173bdae666862198d" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/18D.AVI" size="4930560" crc="61704907" md5="c1660ebef8f32bd25f87da072fec71e4" sha1="ab184cab016e0ebaf2ad52349aecdb38b24a1955" date="1995-09-03 13:42:28"/>
+		<rom name="FLICS/18D.TXT" size="392" crc="42604082" md5="96f15753cc647c7bbccfde7e0f174a31" sha1="ba47a7411357ddbd9912e3ccae7a1975d70618c0" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/18E.AVI" size="4739584" crc="65f87000" md5="7ec4780402f93f5d3631bee3974fe9d2" sha1="c73532bda648b8a457150532c5e2ab824c34e8eb" date="1995-09-03 13:50:00"/>
+		<rom name="FLICS/18E.TXT" size="372" crc="7f4d7a5c" md5="0dcb4d679d6a72b9ce8e231aaf2372fc" sha1="8056fa3ed62cadb8f19da0ff8b0d4bfd3dd7c908" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/18F.AVI" size="3048448" crc="f001ebc7" md5="3e7ec1e74c3f0d385373511d17a11df5" sha1="ebab6b708e55c60de76ff2a3492cdf7f706bffca" date="1995-08-29 02:58:32"/>
+		<rom name="FLICS/18F.TXT" size="370" crc="d895eb96" md5="759f8090173520c62d3abf846e92e6a1" sha1="2f85a8d11e30893d365857768e36b50956d486b4" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/19A.AVI" size="1849856" crc="ef1fede1" md5="b480cd8378007f1087e1d20f3f5dad19" sha1="475e46760d8cbeaa3c336974e6ddceca301871b4" date="1995-09-03 13:54:00"/>
+		<rom name="FLICS/19A.TXT" size="189" crc="161cbffa" md5="1c79f922750801fb79729d203f182744" sha1="e10f96e7f6d32d2e50eb415b9610973aa2e06c47" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/19B.AVI" size="2831360" crc="e9d90da9" md5="6f4935b91f6505e64ad608b3f83a670e" sha1="b9cc036840511f15d76b880b7aa78c9b954ae32a" date="1995-09-03 13:59:32"/>
+		<rom name="FLICS/19B.TXT" size="249" crc="c12b4190" md5="328ec60890c5c84519f5be5f1c61e246" sha1="f348af6a0c9e0292591094c23f146a4f3cd71920" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/19C.AVI" size="2696704" crc="6c22d950" md5="94babebbc6ca619d45558f22fc4d2cea" sha1="129a5c533ec2cc2d59bc109128e37a913fcf9b4b" date="1995-09-03 14:04:04"/>
+		<rom name="FLICS/19C.TXT" size="240" crc="e7b8bdc0" md5="96e6a2f51267d43f0043db92be5343e0" sha1="4855ec4bcd675532fecc49b6d09bab8f3817a472" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/19D.AVI" size="4193792" crc="ab19ac43" md5="0b65d5122d114fdc605cb1636915a859" sha1="9d41a65d4d1554725280891d050a7e39ca357984" date="1995-09-03 14:10:00"/>
+		<rom name="FLICS/19D.TXT" size="351" crc="f0acb3b6" md5="8c499c0816b60f62a7051eef41284597" sha1="e038814c51b603959ef27d2a906b919ecc7a18c5" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/19E.AVI" size="976384" crc="3631926a" md5="7c93e6cf219b840ddfd2d31d5850a5a3" sha1="fe82ffa86714b71be6659d14abaa314964193313" date="1995-09-03 14:12:24"/>
+		<rom name="FLICS/19E.TXT" size="118" crc="d69fe246" md5="16b2e098a32b4dc90f5f6d468ff0610e" sha1="7c6420afb999b9f20dffee18581644c235e060ab" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/20A.AVI" size="5074432" crc="b775f222" md5="3b795ee7d564a8410c69cf199459008e" sha1="3cc1e167c77863da85f1dcd78a990f8fcb4fa972" date="1995-09-03 14:17:40"/>
+		<rom name="FLICS/20A.TXT" size="254" crc="2dfe1c22" md5="6bf0a1b0ac0d4428b7ff5449ace5ac16" sha1="d94a6a46a057ae3d45626926f1d2a5683a903e0b" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/20B.AVI" size="3067392" crc="9920d78a" md5="2c0cf50f0d29abd71e6ad36a3fe10c22" sha1="6c4ce1959203de1f5e70c639f5af9539187dd5ef" date="1995-09-03 14:23:08"/>
+		<rom name="FLICS/20B.TXT" size="240" crc="161c1a0e" md5="4ebbf06e32e98a9a96cee32ff06a2650" sha1="7386927224b00358354ab36137bc74d03fd03b0d" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/20C.AVI" size="2617856" crc="fe04c472" md5="c4bba068094b61a0abfafa718cadb02f" sha1="8b5f9389c63038df872c6b5c5edbc98e11df6033" date="1995-09-03 14:28:36"/>
+		<rom name="FLICS/20C.TXT" size="274" crc="8dd6cca4" md5="8b70c2234706f21615137f33d89a3167" sha1="423244b3923d49e395edec97331a8bdfadb2c4fe" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/20D.AVI" size="4729856" crc="f1dbd9f3" md5="24eeb70cb49fffe18429f0af3228432f" sha1="68e90cc5d1f44ee85384f0c195dcbe301aabd3e8" date="1995-09-03 14:36:40"/>
+		<rom name="FLICS/20D.TXT" size="326" crc="42da9c94" md5="57fa5bb04679e1e0ecf235977a85f0c2" sha1="4cf43e1a6ebf22c66c166e85fb46423e658439e7" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/21A.AVI" size="1644544" crc="67aec096" md5="14cf97e404800cec6066377018ea6959" sha1="33eb121449fc33ea7a765a488c22f7d7ce0182fe" date="1995-09-03 14:39:36"/>
+		<rom name="FLICS/21A.TXT" size="90" crc="3d30ffe5" md5="c9080b0bf0c4fc57f8a2e25eeb7bd35f" sha1="0705ff4e1537dd8947511b343311e476c731b200" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/21B.AVI" size="2094080" crc="60f0beb5" md5="21ac6fae5e582e622401ee2fa2d944ca" sha1="837010db7a4f22776b3ab38ae1a6bab8b13d7951" date="1995-09-03 14:43:00"/>
+		<rom name="FLICS/21B.TXT" size="154" crc="b1829568" md5="31d9e72ec4a3cef0ec0fa76ed3e6836e" sha1="716a8d34d3259f9b74621d5f45d8173f7ac5a12d" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/21C.AVI" size="1930752" crc="e647bbfd" md5="4ee29af33cb339679f756e120477ca02" sha1="0684731d33fb0cddd7e4349a50855ddad8266fa8" date="1995-09-03 14:46:16"/>
+		<rom name="FLICS/21C.TXT" size="186" crc="6e3945a5" md5="cc5383ce4dec51c0c87185ff2c461f10" sha1="260c9c5bddd20f32e1d614fecce1784a00d06124" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/21D.AVI" size="2828288" crc="cca9cfd6" md5="7cd309abe48f4182068fdaa43ceeb4c8" sha1="11dd4083d20cae45421a20860bc8740345bd998b" date="1995-09-03 14:51:36"/>
+		<rom name="FLICS/21D.TXT" size="216" crc="ccbefe3f" md5="c11eb84064fbb25a9a7112451ed48d45" sha1="0f279b0810a39b991aff3e72cd110997e00a4cea" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/21E.AVI" size="3536384" crc="2ab99c62" md5="b72295bdd67dcb0770953f17b2391d2b" sha1="d784e39c685ca21017afd1b5971281143493aeb0" date="1995-09-03 14:56:48"/>
+		<rom name="FLICS/21E.TXT" size="271" crc="06871807" md5="b6b7a2a5d44620d84e57276f0ae2a64e" sha1="e01389e1100b364f54e7f7cb668104ee9a593c24" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/21F.AVI" size="1659392" crc="dc9c5581" md5="f7695cb9d968a4daf19f422d28a8567b" sha1="46a8ad884748cb15e75e4f3ad9a686f636eb5fb5" date="1995-09-03 14:60:52"/>
+		<rom name="FLICS/21F.TXT" size="139" crc="174e916c" md5="88bd7bcb9e9c15caafb109d0c0b30020" sha1="28ddacd5842c4882878a67c7e91efa67d87e4fa5" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/B01.AVI" size="6452224" crc="0c3c247d" md5="35aabe02bc17626b1f52ec318d9bc769" sha1="805096950ec3565af72d90f2c3b37c21934e962a" date="1995-09-04 00:58:40"/>
+		<rom name="FLICS/H01.AVI" size="296448" crc="8a1ccfc7" md5="aff9b19a48acd113eaf81833061d5bb8" sha1="bab4c46b12cef195eb2d11f8c649e8239decc614" date="1995-09-01 02:53:48"/>
+		<rom name="FLICS/H01.TXT" size="56" crc="367c9606" md5="31befb591e7c6321893538b1c37a885b" sha1="b0708876ba7b70968440b2c804ed221a8c0400d5" date="1995-09-11 19:53:56"/>
+		<rom name="FLICS/MVA01.AVI" size="461824" crc="add31250" md5="2381a2cb1a39ff93b2a92b336b4b4810" sha1="4b733c6a70fb27061a0ebcec69d320b6e0a7f292" date="1995-08-29 15:20:00"/>
+		<rom name="FLICS/MVA03A.AVI" size="197120" crc="0d88d7f8" md5="4fc598d03074470ef06243a47a03b7e4" sha1="cfa36c7155b6c7875df0d44b03458f9cf7cdd35f" date="1995-08-29 15:21:52"/>
+		<rom name="FLICS/MVA03B.AVI" size="453632" crc="132b71e7" md5="d9fa5545a9609c73c6941a779c76d163" sha1="1777c7e52be77df740f543d7fd1ff29777802c54" date="1995-08-29 15:24:32"/>
+		<rom name="FLICS/MVA04.AVI" size="151552" crc="2b1888f2" md5="6272e983ddf8e902521d563d085b3092" sha1="0d632f99601a35ea0c118eb01329285f66198281" date="1995-08-29 15:26:00"/>
+		<rom name="FLICS/MVA05A.AVI" size="347648" crc="721bd5b1" md5="cca46507be09407d0ca4175f327cc94b" sha1="8c298697c2a7c16136dea3e5c0255261295be1e1" date="1995-08-29 15:29:12"/>
+		<rom name="FLICS/MVA05B.AVI" size="426496" crc="044cc650" md5="6aa5adc57b967cd0774af13d5f055fe2" sha1="c67f93f3c683860caa73ca50fb070ee231e76823" date="1995-08-29 15:31:52"/>
+		<rom name="FLICS/MVA06.AVI" size="50688" crc="4cecd767" md5="a3dc1fad9b39409d8d12cb335c680383" sha1="80bd99cdfa626f4b5d16f8779f581aadcbc52796" date="1995-08-29 15:32:24"/>
+		<rom name="FLICS/MVA07.AVI" size="222208" crc="b56d59a7" md5="7593f0623841a6d602c24e05ac73887b" sha1="e199f097b99149c74c9f296320c3ff2339f12acf" date="1995-08-29 15:34:36"/>
+		<rom name="FLICS/MVA08.AVI" size="65536" crc="1df077c9" md5="18bea1f7fd6604bde06586741ca6bf32" sha1="c70e271ef266ace9c245a46364d685e31208accf" date="1995-08-29 15:35:36"/>
+		<rom name="FLICS/MVA09.AVI" size="44032" crc="d78a700a" md5="57d2c27397b86dfe9692efb4706fb8c2" sha1="d7f8e1abeb17415297aca0d21c72f534c9eb3bda" date="1995-08-29 15:35:20"/>
+		<rom name="FLICS/MVA10.AVI" size="27136" crc="5b7d04de" md5="b096807a329ec0a59875fab861d11d19" sha1="313a7ddf4e156a989fcdfc04e8979f5a1b04fd6f" date="1995-08-29 15:35:28"/>
+		<rom name="FLICS/MVA11A.AVI" size="190976" crc="b818a6f6" md5="e6935e3aee6c9a167873b4ec84bf7b38" sha1="22cd8fa78445a8435a1f17fe7b4eccc0969a272d" date="1995-08-29 15:36:56"/>
+		<rom name="FLICS/MVA11B.AVI" size="163840" crc="86fafe91" md5="018f7a7319627145525886a91684f476" sha1="3276072389ad1554c480487043634b389d36c0b0" date="1995-08-29 15:39:52"/>
+		<rom name="FLICS/MVA12A.AVI" size="208896" crc="c842fc97" md5="864949c27f1b27e1f717edd646d8a90e" sha1="6d4f9f5326bdba7e741fefe317cad0d634cce0be" date="1995-08-29 15:55:24"/>
+		<rom name="FLICS/MVA12B.AVI" size="387584" crc="cc3a12da" md5="29956d4bab710515cdb8becbdd383c78" sha1="538ef6a35efd13bf332127c58c2f36338f686f0b" date="1995-08-29 15:60:24"/>
+		<rom name="FLICS/MVA13.AVI" size="61952" crc="7027d79c" md5="e3a4a20a127d75ea0acdf75036d83c06" sha1="3202ff893d1471cd650c03d236438d3a7070fe84" date="1995-08-29 16:01:00"/>
+		<rom name="FLICS/MVA14.AVI" size="198656" crc="6d3d4b31" md5="ea4b0be54837245ddd9529934af1de55" sha1="9a6828b77b98b1788d5f6f2b121f4af154cd6931" date="1995-08-29 16:02:24"/>
+		<rom name="FLICS/MVA15A.AVI" size="216576" crc="70115a46" md5="1b9fde9bf9f5cc43db6da0ca9412081f" sha1="a06290f59a046914e45556edde8c4acc964e2d4d" date="1995-08-29 16:03:12"/>
+		<rom name="FLICS/MVA15B.AVI" size="243200" crc="9d4179d5" md5="2b3fa5b7ce1b578f7fd7da6904660d62" sha1="b61c36efc2fcc6c0698f5120a7b5dced8d4f50ee" date="1995-08-29 16:07:00"/>
+		<rom name="FLICS/MVA15C.AVI" size="495104" crc="3cc14cf7" md5="7377a754ffb71820030bdd42499ae87d" sha1="d4856aea66cfad15cecd66ac41dd1e24c9a22a8f" date="1995-08-29 16:10:20"/>
+		<rom name="FLICS/O01.AVI" size="10287616" crc="a8b6b67e" md5="85ce0d1c0e3405bdd9bb8ce73e3ea6ab" sha1="b8b9e761855ccf0234687bc523ee0c87e2de682e" date="1995-09-01 09:11:08"/>
+		<rom name="FLICS/O01.TXT" size="642" crc="062f806c" md5="247b06f192591a2e373b9f69d83b5933" sha1="a102dba3fd9bc2097e0ef29b32f3f9d37a936ae8" date="1995-08-02 16:19:20"/>
+		<rom name="FLICS/O02.AVI" size="2852864" crc="b28bd42e" md5="c195e051b002947051db413c53f30b1d" sha1="8e41a045a1bb40a887007194fb197ca8ff637ec6" date="1995-09-04 01:13:32"/>
+		<rom name="FLICS/R01.AVI" size="5252608" crc="5e8004e0" md5="f9c298726829a73e6ff581ab04954b27" sha1="fee8eea9fbaedbff83470a63f828e45a5c35ef45" date="1995-09-01 09:45:52"/>
+		<rom name="FLICS/S01.AVI" size="9585152" crc="68d3b5ad" md5="a594ab3e4395b4ece328754e378177b1" sha1="9f53598bc08786383615c29c94eabbdd992d689c" date="1995-08-30 09:20:40"/>
+		<rom name="FLICS/T01.AVI" size="4405760" crc="4240ec68" md5="dea1494c881941969ba438037163c8fe" sha1="f6d57d25bd7d786a8fbb1fe80ac7a911740d20ec" date="1995-09-14 16:03:40"/>
+		<rom name="FLICS/T02.AVI" size="16483840" crc="c6f51d3f" md5="e666142c0a20f4a840c920ce576e52c6" sha1="03cd0478c30fd40577bb9ac279c7b88817a262c7" date="1995-09-14 17:03:08"/>
+		<rom name="FLICS/T02.TXT" size="832" crc="2ee8cfeb" md5="e842883d43775401510c7db3af905f64" sha1="187fecbf472399b21e111f0536f19f2a73409e24" date="1995-09-09 18:56:60"/>
+		<rom name="FLICS/WEC.AVI" size="7221760" crc="960061f9" md5="550b1c87084bd5c1e88f788e1f3a93f8" sha1="3f85d413463ff067ecfc10a1018b1670dd080df6" date="1995-09-01 10:60:16"/>
+		<rom name="FLICS/Z01.AVI" size="306176" crc="c91c5432" md5="5a90866f12f5f89067b3deec639c055a" sha1="bf12af51190cccd3f513e77db89d86c1a82bc04e" date="1995-08-29 04:44:20"/>
+		<rom name="FLICS/Z01.TXT" size="79" crc="6e0b79c7" md5="6230f45d7ff76e635ff40bc546c8f56b" sha1="c3cca1fc22c0eecfe3019ad9b010b95357645854" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/Z02.AVI" size="248320" crc="e0ab8182" md5="d4d7e601adb1252606f285454c54be40" sha1="e668ed8447e31a00ffa9a6c95350176ec4914e32" date="1995-08-29 04:48:12"/>
+		<rom name="FLICS/Z02.TXT" size="53" crc="a948e3ab" md5="92a9217bb947fb9c71117ac955dadecf" sha1="425dcfb06e0ca78ececbe578af67342139726a7f" date="1995-09-05 09:52:08"/>
+		<rom name="FLICS/Z03.AVI" size="3591168" crc="ad1863bc" md5="4b8e0fba85bc6072cab006578280bd1b" sha1="1ef5917fe9da2a42425a5fe43bba9139da73581f" date="1995-08-29 05:32:32"/>
+		<rom name="FLICS/Z03.TXT" size="8" crc="726ca477" md5="86b80ace9331020cfa3effeb8d8335f7" sha1="3865c81bae669e34c72415f500004c32ff7bcc31" date="1995-07-13 10:45:44"/>
+		<rom name="IDATA/FONTS.DAT" size="25897" crc="f16f466a" md5="45294dee06ee9ea20ccc166143e78fc6" sha1="2c56fbfd9a275750b173f679a6a6ef3bca4d21c9" date="1995-08-18 21:46:40"/>
+		<rom name="IDATA/ICONS.DAT" size="975" crc="c45088e1" md5="79ae3ae3cadee81dec35d85ee4d687db" sha1="a06f69fdc4f2726070603184e55658833db2ce34" date="1995-06-14 14:34:60"/>
+		<rom name="IDATA/MOUSE.SHP" size="15179" crc="8f1e8d23" md5="376d5a1ded5b80194949b9e8888c83a9" sha1="de5c77d91f052b163c2507c1747f85bee1d8bc34" date="1995-09-06 09:48:32"/>
+		<rom name="IDATA/MUSIC.AMF" size="251078" crc="046e47e5" md5="9e526223962de834b4fa169c8e412864" sha1="f2e8c447f6e0db2d6b6098af9aa624fb7259c48f" date="1995-09-01 12:16:36"/>
+		<rom name="IDATA/PALETTE.DAT" size="768" crc="e381eaf9" md5="d940c09cb7cdf1febf72ab03900eb7a0" sha1="017d37b2d53ced7fd42b25c51ec3530699124523" date="1995-03-17 17:32:04"/>
 		<rom name="INSTALL.EXE" size="456754" crc="e18f55a6" md5="6ba663b953d15961ba1e567ec69e4892" sha1="de973d6e59d768192fd96c924231720e4475a7ad" date="1995-10-15 15:52:00"/>
 		<rom name="JOYTEST.EXE" size="13572" crc="4354f240" md5="149a9a2234ec65583f6f6f661d62a1e7" sha1="28f8b0f39c26523aa0943f180a5e1871704a1c56" date="1995-10-15 15:52:00"/>
 		<rom name="MOD2AMF.EXE" size="351086" crc="cbcfd269" md5="44ea74293b417739b6ddc27354e9bca3" sha1="9eb2ed82e446145bcb0727edfec53eeffa596716" date="1995-10-15 15:52:00"/>
 		<rom name="README.TXT" size="17689" crc="d8c4bb40" md5="7b2564c253d0d08474e63cec6c639f20" sha1="727825b94224ba60055f17d14de81805ba7c7c5a" date="1995-10-11 09:39:08"/>
+		<rom name="SAVEGAME/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="SOUND/CRED.AMF" size="337076" crc="88a5d953" md5="b5be9f702f0c5ed6a451ea5d9d4eddac" sha1="48dc3c8db4342a6c8bdce025912e23b62702ad51" date="1995-09-06 19:12:48"/>
+		<rom name="SOUND/M01.AMF" size="368770" crc="788bdb7d" md5="826893366f05b2475322eb62544943a4" sha1="683a24b711a72032eee91db16b80324bf7e65f71" date="1995-09-06 19:13:20"/>
+		<rom name="SOUND/M02.AMF" size="199228" crc="fad5c421" md5="be05979e8fef29ab633f6cbd8e7a5d56" sha1="c6ce720a67f28bb73ce7185bfe538248ab28d75d" date="1995-09-06 19:13:24"/>
+		<rom name="SOUND/M03.AMF" size="294088" crc="7ef9c7d2" md5="53beb2170f3dba1c2e7a82d8cc762739" sha1="f4d31bc1c03d610e019d16e8292f8f4935b3416c" date="1995-09-06 19:13:32"/>
+		<rom name="SOUND/M04.AMF" size="247900" crc="0d18af5a" md5="2d678b9aa261e0bf198fbdd51ef3eb37" sha1="0d8aa02099d382b137bc4d86c6505459d981404b" date="1995-09-06 19:13:36"/>
+		<rom name="SOUND/M05.AMF" size="282446" crc="f3ec58ab" md5="a340836e52215d009e59e06469d67ba7" sha1="778c94a5c94032ac9be83c321094e25fb7eec57d" date="1995-09-06 19:13:44"/>
+		<rom name="SOUND/M06.AMF" size="82896" crc="e005d106" md5="e7e27c866bdcaa501213726edaaeb787" sha1="4fce5490b95735bfee374ed86d75033f91edf4ce" date="1995-09-06 19:13:48"/>
+		<rom name="SOUND/M07.AMF" size="149001" crc="4e84a9f7" md5="a3457371efb275a5b37714fe5395c4f3" sha1="a8a39ea2a46c414f747d8f9f5d4d0f594c27072d" date="1995-09-06 19:13:48"/>
+		<rom name="SOUND/M08.AMF" size="143584" crc="792cb160" md5="3c422e67a831b6895884829e83357f81" sha1="f692d6336f8d7c61fb8894c9e78e8e9849e3cd1e" date="1995-09-06 19:13:52"/>
+		<rom name="SOUND/M09.AMF" size="347676" crc="0c15d08c" md5="8373a6e28ac65a16dcdb374c17c81765" sha1="c7bd53c25b988d6a1b688218b19f115c5e958c6b" date="1995-09-06 19:13:04"/>
+		<rom name="SOUND/M10.AMF" size="172090" crc="8b1f3ab8" md5="7705ed695ac0b8d879689cbefd382e33" sha1="bf7f7ebca0cba660f2678f9c477caa177d0c4e3e" date="1995-09-06 19:13:08"/>
+		<rom name="SOUND/M11.AMF" size="287020" crc="dd3d158f" md5="c41787cf0f96b18da9e13a55f0922d98" sha1="5cbd62c75164dd4e4e20fe35f9fb78b354cc62e2" date="1995-09-06 19:13:16"/>
+		<rom name="SOUND/M12.AMF" size="139774" crc="8dfc2088" md5="b136f8dd5fd9e113326dc90ae3a7db5b" sha1="c6d2b7b32de3a6e5fb33d5afb3122fc3ba020487" date="1995-09-06 19:13:20"/>
+		<rom name="SOUND/M13.AMF" size="338074" crc="f4f5217c" md5="f204daf330bedc9cb18898ab0cecf1b5" sha1="200124957db3ac93f3a51b6d4bdc7cbeda84dcd6" date="1995-09-06 19:13:52"/>
+		<rom name="SOUND/M14.AMF" size="219378" crc="958c0a4b" md5="15535832d2088439f45b7398e21befef" sha1="7ed62ac052c432b105184d76a16c6c90f10b2272" date="1995-09-06 19:13:56"/>
+		<rom name="SOUND/M15.AMF" size="304862" crc="b791621e" md5="558fbfcaacc4afd2ec665027d23c489c" sha1="e6b4dfea6bc6dfb97ad35c3d12405285085de825" date="1995-09-06 19:14:00"/>
+		<rom name="SOUND/M16A.AMF" size="248710" crc="72cfc688" md5="a07f855b046b4c10dd1d37a8505fd17f" sha1="98a54019254a3e0e27c9b329047a84b96d20e823" date="1995-09-06 19:14:04"/>
+		<rom name="SOUND/M16B.AMF" size="208960" crc="446f58fd" md5="76c3ca46430f3577b3c337836b20bd83" sha1="b8b5054c5130006aae475cc5db5ec09b2d1cb6ca" date="1995-09-06 19:14:24"/>
+		<rom name="SOUND/M16C.AMF" size="229746" crc="1a1eb6d1" md5="ff97477c74ed4d72ec8db1c2e76f7308" sha1="da57ca21f7c35b1af158fd04c3fb10348ebdd9c3" date="1995-09-06 19:14:44"/>
+		<rom name="SOUND/MENU.AMF" size="275960" crc="ac222fde" md5="265ce3c2c456055580b592cfb67f7f23" sha1="51f286f6298b7dbced0ee17f6297295fee4a855d" date="1995-09-06 19:14:00"/>
 		<rom name="SOUND/SOUND.FLX" size="4504087" crc="fe3dd21c" md5="00b3f8e8e7e7d5a2d5d71508c2425a25" sha1="15a67046d1fe863365f27169c7e2a67bc4d14cd1" date="1995-09-26 11:21:52"/>
 		<rom name="STATIC/ANIM.DAT" size="228052" crc="34896104" md5="99d650f00233a39def64891b63f2f729" sha1="e2534c012968b813fbe3595740fa59349f0c1050" date="1995-10-12 12:04:52"/>
 		<rom name="STATIC/COMBAT.DAT" size="1734" crc="32350a00" md5="349a37391b6fe7278c0dbf4811ad5a1d" sha1="024848ad082c6c14e79c749854c41e5571544bbf" date="1995-05-02 10:34:28"/>
+		<rom name="STATIC/CRED.DAT" size="308278" crc="5b1ae79e" md5="4c9333cb45836ac9f141ea730b44aae9" sha1="ff0a37f62283047c66507e268b89b3079a44e0a5" date="1995-09-05 21:09:00"/>
+		<rom name="STATIC/CRED.PAL" size="768" crc="ec3434ff" md5="c53fa056aed2ec3e0c9290a82a86e979" sha1="1ad2249f05a7184a84342b6b0df37404ee579641" date="1995-09-05 01:12:00"/>
+		<rom name="STATIC/CREDITS.DAT" size="3539" crc="fce66934" md5="ee0ac3fce5915a2b5f38fc30c03dd0b8" sha1="deaf457f805364bf0e5ff796fc255eecab28f0d7" date="1995-10-09 15:53:36"/>
 		<rom name="STATIC/DAMAGE.FLX" size="12424" crc="b46f5575" md5="b463d1be42d56320fb7b968b50c03fd4" sha1="9671e66e1fc3801be4071da8d744ddf4ac51cdfa" date="1995-10-12 11:59:24"/>
 		<rom name="STATIC/DIFF.PAL" size="768" crc="0870267b" md5="d098d70bb64d5b8481724310d68b757d" sha1="fa79bcae462aaa066da9ad4ec99a51d707339006" date="1995-08-18 19:28:36"/>
 		<rom name="STATIC/DTABLE.FLX" size="11520" crc="f6b97814" md5="37d4c7eca90471d88e6bcc90e76e4ef2" sha1="2961ce1c2fb592814b74c0575ec29b3471be717e" date="1995-09-10 23:13:16"/>
+		<rom name="STATIC/FIXED.DAT" size="3735392" crc="6e27b432" md5="27b743c570f702837ff5bcdf5fea78fe" sha1="4a8cf1ed99996b8b37a3a0fd33acf09c1bb642e5" date="1995-11-02 15:25:48"/>
 		<rom name="STATIC/FONTS.FLX" size="198877" crc="1c73fb78" md5="38f0129c43f580439215cff2415755fb" sha1="b85b3f2f6a69eb3328c070ccb1a6d188abd54085" date="1995-10-05 12:15:52"/>
 		<rom name="STATIC/GAMEPAL.PAL" size="768" crc="e381eaf9" md5="d940c09cb7cdf1febf72ab03900eb7a0" sha1="017d37b2d53ced7fd42b25c51ec3530699124523" date="1995-03-17 17:32:04"/>
 		<rom name="STATIC/GLOB.FLX" size="264974" crc="40e5320e" md5="63cec4ebc233f2fafc4d360169ebb8b8" sha1="9e26b13f81e425c33cfb1d5a6cf202aaeb8c0f00" date="1995-10-12 11:59:24"/>
 		<rom name="STATIC/GUMPS.FLX" size="501404" crc="93886491" md5="6f6b807697ade0ed647412659bbb0d00" sha1="2532dbe66f616ccdc565ec6c786a9022155ebb02" date="1995-09-07 14:49:04"/>
+		<rom name="STATIC/HELP1.DAT" size="308278" crc="8fc41309" md5="c1ebd054f6b700edbe5105c14fe4662b" sha1="9a45e8d11a7292b2ca460f04bbf27e7a40abe526" date="1995-08-29 13:16:60"/>
+		<rom name="STATIC/HELP2.DAT" size="308278" crc="c46c8795" md5="26c6f6c355ee2e124ecf33522230dd5f" sha1="e9af584617ff8cac4daf1c99fbb2e16d9d7e71be" date="1995-08-22 15:32:44"/>
+		<rom name="STATIC/HELP3.DAT" size="308280" crc="f1212cbb" md5="31eb2c1ace5df0e23e3c8ecc5701b40f" sha1="92a3efa8ef31387f9598bf77ae78edea8c6511bb" date="1995-05-12 22:03:12"/>
 		<rom name="STATIC/MISC.PAL" size="768" crc="a74a9d5b" md5="c9e20056033bd5266280af13a57e639d" sha1="2b67a5e797d3574a04bed2c8513698acf5ee3da0" date="1995-08-15 21:19:48"/>
 		<rom name="STATIC/MISC2.PAL" size="768" crc="0870267b" md5="d098d70bb64d5b8481724310d68b757d" sha1="fa79bcae462aaa066da9ad4ec99a51d707339006" date="1995-08-18 19:28:36"/>
 		<rom name="STATIC/MOUSE.SHP" size="15617" crc="7cf8d765" md5="1d48c4771fe9113da7c9b4a4ebafb189" sha1="3dbe7d693ea907911f0b64e0e739f2c2d8cd4cff" date="1995-09-08 21:37:36"/>
@@ -15528,7 +16084,7 @@
 		<description>Mario Teaches Typing</description>
 		<comment>
 			Installed from USA CD-ROM, CD image converted with CHDtoOGG.
-			DoDAT can build this directly from the disc images.
+			DoDAT can build this directly from the disc image.
 		</comment>
 		<comment_dosc>Sound config and auto start</comment_dosc>
 		<year>1992</year>
@@ -15723,7 +16279,7 @@
 			Installed from USA v1.01 CD-ROM, sound set to Sound Blaster with default settings and system speed set to fast, other files copied from CD.
 			The required MARIO.BAT and TODDLER.BAT can be created by DoDAT or ExtractDATEmbeds using the embedded data.
 			Otherwise they need to be created by installing and have "-RESD:\MEY -RUNC:\MEYCD" changed to "-RESC: -RUNC:".
-			DoDAT can build this directly from the disc images.
+			DoDAT can build this directly from the disc image.
 		</comment>
 		<comment_dosc>Auto start, MIDI launch config</comment_dosc>
 		<year>1994</year>
