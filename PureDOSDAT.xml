@@ -19202,12 +19202,18 @@
 		<rom name="WILL4U.PCX" size="4508" crc="cf862378" md5="40a6e1d31bae11c9e75286a49a1a3221" sha1="b374ad3952b2f6ca038b727c08595931f3da104f"/>
 		<rom name="WILLTV.EXE" size="600858" crc="615b12a5" md5="0c6c651b2a427e43de209645b39dc32e" sha1="82f7031454b1f54796ca848078ce98cd22674215"/>
 	</game>
-	<game name="SimCity Classic (1992) (Maxis).dosz">
+	<game name="SimCity Classic (1993) (Maxis).dosz">
 		<description>SimCity Classic</description>
-		<comment>Installed from the two 3.5" v2.0 floppy disks</comment>
-		<comment_dosc>Sound config, video config, and auto run</comment_dosc>
-		<year>1992</year>
+		<year>1993</year>
 		<developer>Maxis</developer>
+		<comment>
+			Installed from two 3.5" v2.0 floppy disks matching with TGOD ID: 623
+			Also matches with TDC#23 entry: SimCity Classic v2.0 (1993)(CTO S.p.A, Maxis Software Inc.) [Simulation, Strategy]
+			DoDAT cannot build this directly from the disk images
+		</comment>
+		<comment_dosc>Sound config, video config, game speed reduced, direct mouse enabled, and auto run. MT-32 and General MIDI options</comment_dosc>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=623</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/SimCity+Classic+v2.0+(1993)(CTO+S.p.A,+Maxis+Software+Inc.)+%5BSimulation,+Strategy%5D</link>
 		<rom name="CEGA/CEGADAT.PGF" size="90675" crc="0b3d84be" md5="b5e0329343f15d3bdf2786ca1d2ee264" sha1="55fc40ec2d0ca7d5f0cec053f830e4ec31394eaa"/>
 		<rom name="CEGA/CEGANTRO.PPF" size="40531" crc="c0545d15" md5="54ec9a09c73930e6385f72b218f7ad30" sha1="df6ee2761be8abdd1e1ee52098d3bfaa7edc48d1"/>
 		<rom name="CEGA/CEGASCEN.PPF" size="34432" crc="f730d5b7" md5="4a5c2c51b9b0b74cd0c247b917e207ac" sha1="dca0c019a9f7cbfa32ef267b2a650010ef65d511"/>
@@ -19270,6 +19276,43 @@
 		<rom name="SETTINGS.EXE" size="96280" crc="00c35225" md5="7357a4b617d727e9e81f3379f67c2f03" sha1="360888f0f4d6d3f006cb8a17909724509c68fdfe"/>
 		<rom name="SIMCITY.EXE" size="282913" crc="5b1e614e" md5="1680da91842fedbaf5dbc099a7544a7e" sha1="9d566c2725079c6a79003545475517a116950e0b"/>
 		<rom name="VRF_ADV.EXE" size="18686" crc="f2a2ff24" md5="e01c75d7e44a54cd7783f180c8f80120" sha1="5da730e91d2c2623d793125a6f170bb1bc2f96f7"/>
+	</game>
+	<game name="SimCity Classic - Graphics (1994) (Maxis).dosz">
+		<description>SimCity Classic: Graphics</description>
+		<year>1994</year>
+		<developer>Maxis</developer>
+		<parent>SimCity Classic (1993) (Maxis).dosz</parent>
+		<comment>
+			After installing SimCity Classic v2.0 - Graphics expansion installed from two 3.5" floppy disks matching with TGOD ID: 624
+			DoDAT can build this directly from the disk images
+		</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=624</link>
+		<rom name="CEGA/ASIACEGA.PGF" size="101221" crc="e9292da8" md5="64fcee4b74be055af9138e18b2681fa4" sha1="0ff7dfe023bb46f05d2382cb5f6de8f8e48582e1"/>
+		<rom name="CEGA/FEURCEGA.PGF" size="110634" crc="102d4e82" md5="d77126a9b9efd4bcc229c584c5a7526e" sha1="f01dbe0afba80b42ee5be895d8a98b9c5b568656"/>
+		<rom name="CEGA/FUSACEGA.PGF" size="84791" crc="5b0aba83" md5="73a46426167d18780202a8d3d12c32ff" sha1="f705c39648bb59702d9f3276bdafe6c0f4fe411b"/>
+		<rom name="CEGA/MEDICEGA.PGF" size="109931" crc="0478d7ae" md5="211ac77fdcef18589b2e190c28cefde6" sha1="82366425be5beb2bc7823148e4c2c79089b0f971"/>
+		<rom name="CEGA/MOONCEGA.PGF" size="86739" crc="1b8140dd" md5="6d4e5d8642c4c46c962857597fa610fe" sha1="9dfffff85b258f279957c7cf4645acbc90d6fd09"/>
+		<rom name="CEGA/WESTCEGA.PGF" size="91403" crc="8ef4fbf3" md5="137e991f3f6f5605f4228f1eb465098a" sha1="ea8c3ed6877bba78547c71eefdd331f2700c3957"/>
+		<rom name="DATA/ASIA_MSG.PTF" size="4608" crc="1b4ecc2e" md5="5725d25b2ecb159bd4c92f93321a932f" sha1="b6de733e959491b482e6f1f51ac7ee34e4926b94"/>
+		<rom name="DATA/FEUR_MSG.PTF" size="5099" crc="1e196fa5" md5="bb755f71dea705b0aec4c204c1285d82" sha1="fe0da7367b1d5140ce0e9604c016ad7a7f096fef"/>
+		<rom name="DATA/FUSA_MSG.PTF" size="5346" crc="cbbd79dc" md5="5e1a554dbc0662309a0bac19793b4bbd" sha1="1fd15b9be778fdb099dcfc67dea335d8b4aba1f0"/>
+		<rom name="DATA/MEDI_MSG.PTF" size="4885" crc="3adef72d" md5="339fafb15acc8e5ccf9854cfbc5fc3b5" sha1="87f77828bc516ed6ed139cd85d988cef8e208661"/>
+		<rom name="DATA/MOON_MSG.PTF" size="5372" crc="2606127e" md5="71418454786a10e9bd707846d4054095" sha1="01ec6eda606c4c766944cda01960e3ae23a4eb3b"/>
+		<rom name="DATA/WEST_MSG.PTF" size="5091" crc="a8d0f952" md5="d5f40022961cf344485b3ac5e0d66c60" sha1="2e4ebe8a027e39836a70010c02ce6242cdd0583c"/>
+		<rom name="MCGA/ASIAMCGA.PGF" size="44606" crc="10e97a9d" md5="70479a43d96b6a87ef611c3b1d756adb" sha1="de346b67ea9a35b878ffd6bcaa0b051178a2a066"/>
+		<rom name="MCGA/FEURMCGA.PGF" size="50131" crc="9f3e5dce" md5="be4abda61ec25fd911228eac35f1b3fd" sha1="6ae7de6f914dcfbf134cc6351e96423e2426f243"/>
+		<rom name="MCGA/FUSAMCGA.PGF" size="44688" crc="d2cebbe0" md5="50974093e75e063c1074bf1d3d0f9d98" sha1="86ff2a4a2b2432e5fd4966214b1805bbf449e5ba"/>
+		<rom name="MCGA/MEDIMCGA.PGF" size="52235" crc="da73281c" md5="f2bdd5a812c22184e8095c6da28ff972" sha1="c26b44ecec1efc103cc72d9eb7e90432315c4d9f"/>
+		<rom name="MCGA/MOONMCGA.PGF" size="42550" crc="55611922" md5="c21cc0c4b20c2e7727718279acc16101" sha1="130c9d8daa03cbe67d31b03bf0ec3f84c6ab605f"/>
+		<rom name="MCGA/WESTMCGA.PGF" size="45023" crc="aaa3bbe0" md5="8fe9ca90d34b8757c1ce20fc58d89bca" sha1="1a9771e2f53a1b03e5586f0ad7a3e966e3f824b1"/>
+		<rom name="MONO/ASIAMONO.PGF" size="37534" crc="b574bef8" md5="2b718c4a4c55fad0494f5944bc8859cd" sha1="e3f98c54a5624ccbad245dadf74c5af087c8f4e8"/>
+		<rom name="MONO/FEURMONO.PGF" size="40199" crc="4cd7f609" md5="e3dbda09710bfb2d3f02897294c47757" sha1="21f01c6ee8bd09d044c38c82f4966afa1e45d053"/>
+		<rom name="MONO/FUSAMONO.PGF" size="35501" crc="af649ab5" md5="e1c16b89d21c491d9f1fd18021ffba69" sha1="e61aaa7917dedc645feeb593dce2d38db46e26e4"/>
+		<rom name="MONO/MEDIMONO.PGF" size="44359" crc="3855350e" md5="748a5f0517d6700908bfa4d6a77e4c7a" sha1="4a7f73d45a1fabac70acdf57d9e49be1961de683"/>
+		<rom name="MONO/MOONMONO.PGF" size="37420" crc="763e377f" md5="d14544561f538cde777fe0a863b6ee7d" sha1="07834c86e8bd30b49d9ba966a235da9e172276b6"/>
+		<rom name="MONO/WESTMONO.PGF" size="33010" crc="25f933df" md5="e4c1a339571a3b3875f3337ff4da967e" sha1="c174b8a967637608e2291fdaca875e19df423d0e"/>
+		<rom name="README_G.TXT" size="397" crc="e3c58893" md5="be3bd3f405e0c4f2bcbfc7d1700fb01a" sha1="18acb9d1e4c299c7c4c1cd6a18b0b2b139361b46"/>
+		<rom name="SimCity Classic (1993) (Maxis).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
 	<game name="SimCity Enhanced CD-ROM (1993) (Maxis).dosz">
 		<description>SimCity Enhanced CD-ROM</description>
