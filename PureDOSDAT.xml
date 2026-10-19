@@ -15956,39 +15956,6 @@
 		<rom name="TILES.CTP" size="13064" crc="71275904" md5="9c3de7409390d161db0eb8c30232ae87" sha1="d649fcbd3ca33115fee28505b5ec3735d04f13d0" date="2018-04-07 20:56:24"/>
 		<rom name="W40CHAR.CLU" size="167" crc="aacd2a8e" md5="539cf66b42a5899b8d3a19b958dda0b3" sha1="4191055c0f3124ea43129c3f77ecab0c082f1a4a" date="2018-04-07 20:56:26"/>
 	</game>
-	<game name="Malice (1997) (Quantum Axcess).dosz">
-		<description>Malice</description>
-		<comment>Installed from CD</comment>
-		<comment_dosc>Auto start</comment_dosc>
-		<year>1997</year>
-		<developer>Quantum Axcess</developer>
-		<parent>Quake (1996) (id Software).dosz</parent>
-		<rom name="Malice (USA).chd" size="596841984" crc="41a4d7f7" md5="2907557a4d5b565e9f4e1b32dd7b8d46" sha1="b52ca5e0265f2bf84057632f793bd9d12279d3e4">
-			<track number="1" type="MODE2_RAW" frames="39182" pregap="0" duration="08:42:32" size="92156064" crc="16a0bedd" md5="e73ddab27fc08d83ab4f88e9e7ff0506" sha1="6eb343270f75f0650d939ea095cda8da2a5fb774" in_zeros="1" out_zeros="4681"/>
-			<track number="2" type="AUDIO" frames="24646" pregap="224" duration="05:28:46" size="57967392" crc="1773f345" md5="59e16bd63da11a05017a732813803e17" sha1="9f3969d769702553fdbfa90d6236436ab927387f" in_zeros="526856" out_zeros="10537"/>
-			<track number="3" type="AUDIO" frames="10333" pregap="148" duration="02:17:58" size="24303216" crc="62c972cd" md5="d8217d584c2e1d93e5853f9143a4bbf3" sha1="c667d6fecabe630cd20b6de049e0813cd70f67b4" in_zeros="348124" out_zeros="7029"/>
-			<track number="4" type="AUDIO" frames="25439" pregap="149" duration="05:39:14" size="59832528" crc="3a5e9b0d" md5="76a567a3c092de4ee377fdd4e8f45071" sha1="75cf4d8a6c090aa7851669eaeb2efa5341f6f2f3" in_zeros="350460" out_zeros="10725"/>
-			<track number="5" type="AUDIO" frames="29732" pregap="148" duration="06:36:32" size="69929664" crc="8d579ae8" md5="e7ab05cc72eb6c8c4f27560634f6d115" sha1="b60af19f3f10e3c2c5e88646f73bcd417d927356" in_zeros="348172" out_zeros="9413"/>
-			<track number="6" type="AUDIO" frames="29176" pregap="148" duration="06:29:01" size="68621952" crc="ce35a72e" md5="b8b47ef30c502f861d9ad293157de218" sha1="3c8ff5cb781b41fa6749b63dd17c5572640eb593" in_zeros="348188" out_zeros="10357"/>
-			<track number="7" type="AUDIO" frames="30722" pregap="148" duration="06:49:47" size="72258144" crc="6479655a" md5="12228f3910c134ee23a4a0736e3182fd" sha1="2febe71704f99b106429ecec6783e874d5f54234" in_zeros="348228" out_zeros="10797"/>
-			<track number="8" type="AUDIO" frames="20791" pregap="148" duration="04:37:16" size="48900432" crc="6bbe0a73" md5="feb3af0171d4e2250d2ad355b63ff4cc" sha1="333b498e03f122b2ddca1d14651e406f2b7bbc93" in_zeros="348260" out_zeros="11005"/>
-			<track number="9" type="AUDIO" frames="26305" pregap="148" duration="05:50:55" size="61869360" crc="1cb03548" md5="5d3b178354bbac3e3668920dc533891f" sha1="95176c6068c8b2b3fb29497abe85f9aba1428daf" in_zeros="348292" out_zeros="9213"/>
-			<track number="10" type="AUDIO" frames="8823" pregap="148" duration="01:57:48" size="20751696" crc="ca0dfff0" md5="c949c6db0ff439744c9858c2a0e70009" sha1="f91a31b26bb208a5cf78244c66a418dc375e700e" in_zeros="348308" out_zeros="4704"/>
-		</rom>
-		<rom name="MALICE.BAT" size="59" crc="bc65b89e" md5="10e7d94a4bc7d9e1d00adfcf06b6b0f8" sha1="0e704055fc15d65e70d1c9e7fcc313b340937b4a"/>
-		<rom name="MALICE/MALICE.TXT" size="31171" crc="37abfde2" md5="ccc71fd16121f2941ae394ba8503f320" sha1="873db30331e0d414c7999cc8ca6aca864159cae2"/>
-		<rom name="MALICE/MLICENSE.TXT" size="8529" crc="de591a11" md5="18a16ad94cb3f175c3c382bd9609173a" sha1="7c11678f80a4b8cacbb489db4a36afea23a65cbd"/>
-		<rom name="MALICE/PAK0.PAK" size="18989583" crc="5d79b74d" md5="36eca7e938f5d93922d58c42eccc2895" sha1="40788cb50fab2acba022cc89db8e1431820ef0bb"/>
-		<rom name="MALICE/PAK1.PAK" size="604424" crc="0c44bf19" md5="2ee378919cdd78e63dc809bc3707c1ba" sha1="a859fde7c0faa1dc2eb3c8cd8110574db49d6898"/>
-		<rom name="MALICE/PAK2.PAK" size="12644111" crc="2faec885" md5="2c7e3de6cff6dc5a972a305ed3351a03" sha1="f98386f7f5947cb8862879eefdf127c4faa05797"/>
-		<rom name="MALICE/PAK3.PAK" size="46749039" crc="ad99e9ba" md5="54f371884c588da16694e564b0f73a98" sha1="a733c8cebf615183818fcb97c4b1711649b0c8f4"/>
-		<rom name="MALICE/README.TXT" size="5423" crc="8765929a" md5="a788e872bcb1d565ead69dc9945b2b68" sha1="5882e6bb8a6f1ec0655099acc2c247562e816e2e"/>
-		<rom name="MALICE/REGISTER.TXT" size="2458" crc="122a63ea" md5="780de6c30706ea9a67dc16ff3b68d7ed" sha1="a6a46846ee82a7b9dedb9ba68634687d99505c53"/>
-		<rom name="MALICE/STRAT1.TXT" size="5441" crc="4c4e5cf6" md5="d550dab2f1b2c24b3adcaf92e95403e3" sha1="78859460c93d476b589a73c1fbb2f39c527f374d"/>
-		<rom name="MALICE/STRAT2.TXT" size="7537" crc="faa6cace" md5="3a167fd9a63d59b65bdf38ee2d69ed53" sha1="8e4046625e0a5316834d70998d42e655f6487849"/>
-		<rom name="MALICE/STRAT3.TXT" size="5068" crc="3b8be95a" md5="9e053c63e4165897ad470f56899a5fab" sha1="53d43a765f98f9d9efe0ae3903de1f535237e7a9"/>
-		<rom name="Quake (1996) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-	</game>
 	<game name="Maniac Mansion (1988) (Lucasfilm Games).dosz">
 		<description>Maniac Mansion</description>
 		<comment>Enhanced 1989 version. Files copied from 3.5" floppy disk</comment>
@@ -17817,56 +17784,50 @@
 		<description>Quake</description>
 		<year>1996</year>
 		<developer>id Software</developer>
-		<comment>
-			Installed v1.08 from Quake: The Offering CD matching with Redump: Quake (USA) (Rerelease) (1998-09-21)
-			Windows-only files and VQuake removed
-			CD image converted with CHDtoOGG using -n option
-		</comment>
-		<comment_dosc>640x480 resolution, mouse look enabled, and auto start</comment_dosc>
-		<link type="media">http://redump.org/disc/29723/</link>
-		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 1).bin" size="43008" crc="10d89042" md5="73db37b47ede9da7e9fbaae52c6c8a8b" sha1="8a2846aac1e2ceb8a08a9cd5591e9a85228d5cab"/>
-		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 2).ogg" size="7882049" crc="90fd2c67" md5="8434fb843b4f483e3e5e8c2f12cb646a" sha1="418d4206672139ffdc017a76f98e559421ff39e4">
+		<comment>Installed v1.08 from Quake: The Offering CD-ROM release, CD image converted with CHDtoOGG using -n option</comment>
+		<comment_dosc>640x480 resolution, mouse look enabled, auto start</comment_dosc>
+		<link type="media">https://redump.info/disc/29723</link>
+		<rom name="CD/Quake (Track 1).bin" size="43008" crc="10d89042" md5="73db37b47ede9da7e9fbaae52c6c8a8b" sha1="8a2846aac1e2ceb8a08a9cd5591e9a85228d5cab"/>
+		<rom name="CD/Quake (Track 2).ogg" size="7882049" crc="90fd2c67" md5="8434fb843b4f483e3e5e8c2f12cb646a" sha1="418d4206672139ffdc017a76f98e559421ff39e4">
 			<source type="AUDIO" frames="23145" omitted_pregap="75" duration="05:08:45" size="54437040" crc="f0ddb393" md5="d7ebb4809c11ffd6ee6ba2b5152d2836" sha1="fa71ae4549d9d2bcfcaa3409eb40d0f0acb85049" in_zeros="5533" out_zeros="352525" quality="8"/>
 		</rom>
-		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 3).ogg" size="3250277" crc="d4d0c05c" md5="cafb407a2bb79ee4593721e61eb2ba89" sha1="caf37fba8593b42f33053e7abd8be6ff5d5bf705">
+		<rom name="CD/Quake (Track 3).ogg" size="3250277" crc="d4d0c05c" md5="cafb407a2bb79ee4593721e61eb2ba89" sha1="caf37fba8593b42f33053e7abd8be6ff5d5bf705">
 			<source type="AUDIO" frames="10801" duration="02:24:01" size="25403952" crc="622f9b43" md5="d4a7e714c62e318b4b1d652276c180ad" sha1="9c38d7cdcde4fc75c38c5b5a3f14ff3065825b56" in_zeros="5532" out_zeros="2089" quality="8"/>
 		</rom>
-		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 4).ogg" size="16653400" crc="7ee022c4" md5="d3dbca00f1f5a8e2d758cf0efdec8c02" sha1="0f9fce4e21a3f79841d44e20af109704e4684aaa">
+		<rom name="CD/Quake (Track 4).ogg" size="16653400" crc="7ee022c4" md5="d3dbca00f1f5a8e2d758cf0efdec8c02" sha1="0f9fce4e21a3f79841d44e20af109704e4684aaa">
 			<source type="AUDIO" frames="37369" omitted_pregap="149" duration="08:18:19" size="87891888" crc="e6371adb" md5="78913834582b44a12eb5beacbf7afc42" sha1="4f34c6b22cb30328e8c3c197140bd8975a82b533" in_zeros="5556" out_zeros="2048" quality="8"/>
 		</rom>
-		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 5).ogg" size="8135266" crc="55961eea" md5="b061a81810ed9aa20f0202b7978580f5" sha1="8b9822b90e13eb028d0f69294aa6ac2036f4babd">
+		<rom name="CD/Quake (Track 5).ogg" size="8135266" crc="55961eea" md5="b061a81810ed9aa20f0202b7978580f5" sha1="8b9822b90e13eb028d0f69294aa6ac2036f4babd">
 			<source type="AUDIO" frames="27254" omitted_pregap="149" duration="06:03:29" size="64101408" crc="ea0baadb" md5="974685a374d51596949a63ba87282450" sha1="91656b7c0e117ec37a9ae96667a3f65d5bbede6c" in_zeros="5532" out_zeros="2096" quality="8"/>
 		</rom>
-		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 6).ogg" size="11904206" crc="4e938f4d" md5="7913a127d3b194dfeaf7702c9bcb0c20" sha1="c08f6d2f2c88346889a19aea20fac0955b297035">
+		<rom name="CD/Quake (Track 6).ogg" size="11904206" crc="4e938f4d" md5="7913a127d3b194dfeaf7702c9bcb0c20" sha1="c08f6d2f2c88346889a19aea20fac0955b297035">
 			<source type="AUDIO" frames="33194" omitted_pregap="149" duration="07:22:44" size="78072288" crc="84f20473" md5="3105cbde6e0eaa040a950faafc91cef6" sha1="24c93b59b52c4eece28cd2c7d0c5e9a16746ac8e" in_zeros="5532" out_zeros="2073" quality="8"/>
 		</rom>
-		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 7).ogg" size="11762356" crc="fe6fdb25" md5="a961d6243134793411e746456463aa24" sha1="eb9df21a47387b8607f37b212b14027664a25862">
+		<rom name="CD/Quake (Track 7).ogg" size="11762356" crc="fe6fdb25" md5="a961d6243134793411e746456463aa24" sha1="eb9df21a47387b8607f37b212b14027664a25862">
 			<source type="AUDIO" frames="38717" omitted_pregap="149" duration="08:36:17" size="91062384" crc="2cbfc1f6" md5="088b518cb9ad059ff7dd7a26c6a7e40b" sha1="5f1f5166bde990c2b85d361ae83a6976a3fd5620" in_zeros="5532" out_zeros="2073" quality="8"/>
 		</rom>
-		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 8).ogg" size="8472179" crc="82de3b37" md5="e4be8731435b80e9d702964adbcd3f48" sha1="9c7cfd51e36f59f3457f8877eee1ed8ef50df00c">
+		<rom name="CD/Quake (Track 8).ogg" size="8472179" crc="82de3b37" md5="e4be8731435b80e9d702964adbcd3f48" sha1="9c7cfd51e36f59f3457f8877eee1ed8ef50df00c">
 			<source type="AUDIO" frames="25044" omitted_pregap="149" duration="05:33:69" size="58903488" crc="09147515" md5="0b55a52a9d64e560658de02088e55c1d" sha1="bd56524c4225bb6f52c054aac5036c695aa9a5ef" in_zeros="5532" out_zeros="2079" quality="8"/>
 		</rom>
-		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 9).ogg" size="8433685" crc="a3093295" md5="6ef68ebad08f3052e98667567323ae5c" sha1="f0921af7612019441f40120a099f798e5493e0ab">
+		<rom name="CD/Quake (Track 9).ogg" size="8433685" crc="a3093295" md5="6ef68ebad08f3052e98667567323ae5c" sha1="f0921af7612019441f40120a099f798e5493e0ab">
 			<source type="AUDIO" frames="29019" omitted_pregap="149" duration="06:26:69" size="68252688" crc="f3a08665" md5="3c9c0f563c884bd13d874098ce4493dc" sha1="ca6af4796bf2f941db998c2c719109ba6d13ed81" in_zeros="5534" out_zeros="2568" quality="8"/>
 		</rom>
-		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 10).ogg" size="5309838" crc="799aee70" md5="d9fb36992f79643fd9dad992187f7ad1" sha1="d016abfaf9f399437f24cba283f99d31e2aa5647">
+		<rom name="CD/Quake (Track 10).ogg" size="5309838" crc="799aee70" md5="d9fb36992f79643fd9dad992187f7ad1" sha1="d016abfaf9f399437f24cba283f99d31e2aa5647">
 			<source type="AUDIO" frames="15792" omitted_pregap="149" duration="03:30:42" size="37142784" crc="ab3b0b3d" md5="737aa2d29c723031660594920058350b" sha1="8adac6ae596dd3cfe4d1969fa50f8993194a204a" in_zeros="5532" out_zeros="2632" quality="8"/>
 		</rom>
-		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21) (Track 11).ogg" size="7701553" crc="f55e2fbb" md5="20fdbac3acd63eaf810bb49e98206f5a" sha1="c5346338a7803a023e8487ff0a30caa46eaeb081">
+		<rom name="CD/Quake (Track 11).ogg" size="7701553" crc="f55e2fbb" md5="20fdbac3acd63eaf810bb49e98206f5a" sha1="c5346338a7803a023e8487ff0a30caa46eaeb081">
 			<source type="AUDIO" frames="23504" omitted_pregap="149" duration="05:13:29" size="55281408" crc="64af806f" md5="b9fda1614fbf6eda08e9653ce81d088c" sha1="32b027006d87e8fb504929a885fd12ed88de0872" in_zeros="5532" out_zeros="63" quality="8"/>
 		</rom>
-		<rom name="CD/Quake (USA) (Rerelease) (1998-09-21).cue" size="1343" crc="10526352" md5="24e5a9b8ea47bbd7cc7e324f9fffcd6b" sha1="d5ba75606ec255a3c2bdf505b2ea26023d0f061f"/>
+		<rom name="CD/Quake.cue" size="1002" crc="516eb9d9" md5="7c640a8bc8b3a3b2dafeebc4045186a9" sha1="8b241b77d3fa463e2de05f610bacf00b60822888"/>
 		<rom name="CWSDPMI.EXE" size="25920" crc="4fc60ecd" md5="cdba7e5b5050d3f3be9ddaf79a943ed4" sha1="d7a811b9d2f887dc94e145ce80dd9ced5fdf1548" date="1996-09-26 12:07:22"/>
-		<rom name="DOCS/DOS/COMEXP.TXT" size="25462" crc="68bda64a" md5="0575bbd0df753f6e44b7a0f67ffc1413" sha1="606c21d258d58823a605fc20f5c45600d9b0ffb0" date="1996-07-12 17:31:50"/>
-		<rom name="DOCS/DOS/HELP.TXT" size="9510" crc="ec075939" md5="be86e294465931e700eeac0539ccdb51" sha1="3945b34a83af2acce1a233bc03f7f277302975c0" date="1998-09-16 13:04:36"/>
-		<rom name="DOCS/DOS/LICENSE.TXT" size="14554" crc="a5a1215a" md5="be58e6beab67da309eabc3a4048e943f" sha1="5154fe8f92a174b273152bfbe24aad6668ffb980" date="1998-09-17 19:31:28"/>
-		<rom name="DOCS/DOS/LICINFO.TXT" size="9308" crc="53dc674a" md5="0f77362a55b35e623d9f4710ed86cda7" sha1="130760d7c88c66bdbfae26e5a75aecdf783532f9" date="1996-10-29 16:33:10"/>
-		<rom name="DOCS/DOS/MANUAL.TXT" size="39341" crc="efaab6f8" md5="16823ee496b1e315fa7a2561393f816f" sha1="cee7df229bca857462d00c1f4280460ae74cc43a" date="1996-10-29 19:24:44"/>
-		<rom name="DOCS/DOS/ORDER.TXT" size="5654" crc="53119f69" md5="02afa1f00f8372b2dc1bc28ac2af94db" sha1="3883c4a6969a10d02de414f46e49a0791d209cf5" date="1996-11-02 17:09:32"/>
-		<rom name="DOCS/DOS/README.TXT" size="9729" crc="68439b0b" md5="78d545344bdd390b8407ad8b6bef9261" sha1="a77229305eeb0fe524ba0ad40de2e638d8c050eb" date="1998-09-21 14:46:16"/>
-		<rom name="DOCS/DOS/TECHINFO.TXT" size="72454" crc="bc82690e" md5="ce3466883b6012f39a4b82e214dcbb37" sha1="4526db82113ba62e34c6b08f284e97cf73d98f4e" date="1996-10-31 16:18:52"/>
-		<rom name="DOCS/QUAKE.CNT" size="1394" crc="ee0acce3" md5="ebe85b3e57c0314e53e2a52b360747e3" sha1="c9a1470bc939cec2dbb9ad8f72b35b151192c893" date="1998-09-16 16:51:00"/>
-		<rom name="DOCS/QUAKE.HLP" size="2142857" crc="a26eb96d" md5="a78512171c7392bf35cd1177ef7ecd62" sha1="0ee8004c53bf2e2ba1de8d0f26fb08081159b61e" date="1998-09-18 11:44:38"/>
+		<rom name="DOCS/COMEXP.TXT" size="25462" crc="68bda64a" md5="0575bbd0df753f6e44b7a0f67ffc1413" sha1="606c21d258d58823a605fc20f5c45600d9b0ffb0" date="1996-07-12 17:31:50"/>
+		<rom name="DOCS/HELP.TXT" size="9510" crc="ec075939" md5="be86e294465931e700eeac0539ccdb51" sha1="3945b34a83af2acce1a233bc03f7f277302975c0" date="1998-09-16 13:04:36"/>
+		<rom name="DOCS/LICENSE.TXT" size="14554" crc="a5a1215a" md5="be58e6beab67da309eabc3a4048e943f" sha1="5154fe8f92a174b273152bfbe24aad6668ffb980" date="1998-09-17 19:31:28"/>
+		<rom name="DOCS/LICINFO.TXT" size="9308" crc="53dc674a" md5="0f77362a55b35e623d9f4710ed86cda7" sha1="130760d7c88c66bdbfae26e5a75aecdf783532f9" date="1996-10-29 16:33:10"/>
+		<rom name="DOCS/MANUAL.TXT" size="39341" crc="efaab6f8" md5="16823ee496b1e315fa7a2561393f816f" sha1="cee7df229bca857462d00c1f4280460ae74cc43a" date="1996-10-29 19:24:44"/>
+		<rom name="DOCS/ORDER.TXT" size="5654" crc="53119f69" md5="02afa1f00f8372b2dc1bc28ac2af94db" sha1="3883c4a6969a10d02de414f46e49a0791d209cf5" date="1996-11-02 17:09:32"/>
+		<rom name="DOCS/README.TXT" size="9729" crc="68439b0b" md5="78d545344bdd390b8407ad8b6bef9261" sha1="a77229305eeb0fe524ba0ad40de2e638d8c050eb" date="1998-09-21 14:46:16"/>
+		<rom name="DOCS/TECHINFO.TXT" size="72454" crc="bc82690e" md5="ce3466883b6012f39a4b82e214dcbb37" sha1="4526db82113ba62e34c6b08f284e97cf73d98f4e" date="1996-10-31 16:18:52"/>
 		<rom name="ID1/PAK0.PAK" size="18689235" crc="74e3b084" md5="5906e5998fc3d896ddaf5e6a62e03abb" sha1="36b42dc7b6313fd9cabc0be8b9e9864840929735" date="1996-10-01 14:25:58"/>
 		<rom name="ID1/PAK1.PAK" size="34257856" crc="2e803216" md5="d76b3e5678f0b64ac74ce5e340e6a685" sha1="6fd0d1643047612f41afb2001b972d830c792921" date="1996-07-12 17:31:52"/>
 		<rom name="QUAKE.EXE" size="409600" crc="3bc26700" md5="e3e7fcc920610a5fa66c1dd030939fac" sha1="97427017467717a78b1b9e4a01b70ef0f7161856" date="1997-03-11 18:29:24"/>
@@ -18280,79 +18241,73 @@
 		<year>1997</year>
 		<developer>Hipnotic Interactive</developer>
 		<parent>Quake (1996) (id Software).dosz</parent>
-		<comment>
-			Installed v1.0 from CD matching with Redump: Quake Mission Pack No. 1 - Scourge of Armagon (USA)
-			Converted CD image with CHDtoOGG using -n option
-		</comment>
-		<comment_dosc>640x480 resolution and auto start</comment_dosc>
-		<link type="media">http://redump.org/disc/20166/</link>
-		<rom name="CD/Quake Mission Pack No. 1 - Scourge of Armagon (USA) (Track 1).bin" size="43008" crc="10d89042" md5="73db37b47ede9da7e9fbaae52c6c8a8b" sha1="8a2846aac1e2ceb8a08a9cd5591e9a85228d5cab"/>
-		<rom name="CD/Quake Mission Pack No. 1 - Scourge of Armagon (USA) (Track 2).ogg" size="6128086" crc="f98349ee" md5="ef97401c590ff6b1745c0e790a06fd37" sha1="fde092292d71cbfbd3d5a664432da94b5e46b7a2">
+		<comment>Installed v1.0 from US CD-ROM, CD image converted with CHDtoOGG using -n option</comment>
+		<link type="media">https://redump.info/disc/20166</link>
+		<rom name="Quake (1996) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="CD/Scourge of Armagon (Track 1).bin" size="43008" crc="10d89042" md5="73db37b47ede9da7e9fbaae52c6c8a8b" sha1="8a2846aac1e2ceb8a08a9cd5591e9a85228d5cab"/>
+		<rom name="CD/Scourge of Armagon (Track 2).ogg" size="6128086" crc="f98349ee" md5="ef97401c590ff6b1745c0e790a06fd37" sha1="fde092292d71cbfbd3d5a664432da94b5e46b7a2">
 			<source type="AUDIO" frames="14313" omitted_pregap="74" duration="03:10:63" size="33664176" crc="b198eb07" md5="7e58ce218190b5247ea175f24e5efd1f" sha1="3469e5d4b1f1607d84c3019c04708655e9c04dd9" in_zeros="10004" out_zeros="349633" quality="8"/>
 		</rom>
-		<rom name="CD/Quake Mission Pack No. 1 - Scourge of Armagon (USA) (Track 3).ogg" size="5164782" crc="97f2da8d" md5="78c724b9b2e1a57347f68b50c6f9da5c" sha1="b2d877504cb8d35d72e100bfb29f4691bb64f641">
+		<rom name="CD/Scourge of Armagon (Track 3).ogg" size="5164782" crc="97f2da8d" md5="78c724b9b2e1a57347f68b50c6f9da5c" sha1="b2d877504cb8d35d72e100bfb29f4691bb64f641">
 			<source type="AUDIO" frames="14338" duration="03:11:13" size="33722976" crc="d7105bc2" md5="8f01257507bc713b2f6b40cc6b0fcd77" sha1="a0c240af8660a5a1ab6429cc8d21183a7b06c5f5" in_zeros="10004" out_zeros="347981" quality="8"/>
 		</rom>
-		<rom name="CD/Quake Mission Pack No. 1 - Scourge of Armagon (USA) (Track 4).ogg" size="6735071" crc="3e5bea07" md5="4bfde5d184d06424c0302931e005e9d5" sha1="f1c088cfb76c9a5984a4ce9ac20f12d601dd2847">
+		<rom name="CD/Scourge of Armagon (Track 4).ogg" size="6735071" crc="3e5bea07" md5="4bfde5d184d06424c0302931e005e9d5" sha1="f1c088cfb76c9a5984a4ce9ac20f12d601dd2847">
 			<source type="AUDIO" frames="13778" duration="03:03:53" size="32405856" crc="9b11d7bb" md5="a8b4a692c17b82b587b7dfcd1cdd51cc" sha1="eab1020eb2f52a33c4aa2496479b9fa5b7c0fc2a" in_zeros="10004" out_zeros="348080" quality="8"/>
 		</rom>
-		<rom name="CD/Quake Mission Pack No. 1 - Scourge of Armagon (USA) (Track 5).ogg" size="5647048" crc="3cdd4969" md5="8c2cae908f3bf32250acc041c4726d6b" sha1="084f13c236e2dc054092183581425795b0f72dc0">
+		<rom name="CD/Scourge of Armagon (Track 5).ogg" size="5647048" crc="3cdd4969" md5="8c2cae908f3bf32250acc041c4726d6b" sha1="084f13c236e2dc054092183581425795b0f72dc0">
 			<source type="AUDIO" frames="14422" duration="03:12:22" size="33920544" crc="79007ec7" md5="e203ad2d10f345944a5aeeaef5a84dd5" sha1="ef8264ff8a04cbf1d8f5b8a84c70218a9c9f014d" in_zeros="10004" out_zeros="347684" quality="8"/>
 		</rom>
-		<rom name="CD/Quake Mission Pack No. 1 - Scourge of Armagon (USA) (Track 6).ogg" size="5562125" crc="c8414b1e" md5="a5e0d2a8e7194a41860ae4722ab5f8d5" sha1="68ee38ddfe0ef315afe8c5ec0300c6dffa387c84">
+		<rom name="CD/Scourge of Armagon (Track 6).ogg" size="5562125" crc="c8414b1e" md5="a5e0d2a8e7194a41860ae4722ab5f8d5" sha1="68ee38ddfe0ef315afe8c5ec0300c6dffa387c84">
 			<source type="AUDIO" frames="14480" duration="03:13:05" size="34056960" crc="910d6668" md5="a12a309a9653cdf6aa7941eff3fe7ae4" sha1="9bb4dc0d07709aa14c7d6f2ffc16ae61f28a5b44" in_zeros="10004" out_zeros="348961" quality="8"/>
 		</rom>
-		<rom name="CD/Quake Mission Pack No. 1 - Scourge of Armagon (USA) (Track 7).ogg" size="5266927" crc="71f9dc01" md5="c3a877352efe61f68f709c0f7c820c31" sha1="9b8681e8132dbe9cc248b4ec8869e5972b6ab51c">
+		<rom name="CD/Scourge of Armagon (Track 7).ogg" size="5266927" crc="71f9dc01" md5="c3a877352efe61f68f709c0f7c820c31" sha1="9b8681e8132dbe9cc248b4ec8869e5972b6ab51c">
 			<source type="AUDIO" frames="13999" duration="03:06:49" size="32925648" crc="5002c01f" md5="39e407d7ed3b816adcb81b72443257b5" sha1="e2ae714998cc2759d57606cd07a13f90f0efb270" in_zeros="10004" out_zeros="347628" quality="8"/>
 		</rom>
-		<rom name="CD/Quake Mission Pack No. 1 - Scourge of Armagon (USA) (Track 8).ogg" size="5783761" crc="e8630264" md5="8ac2ab96b4d12672b3b27a25ae1177d3" sha1="835aef3e5afeba85f7bf23a1e20c258cf5e59e6c">
+		<rom name="CD/Scourge of Armagon (Track 8).ogg" size="5783761" crc="e8630264" md5="8ac2ab96b4d12672b3b27a25ae1177d3" sha1="835aef3e5afeba85f7bf23a1e20c258cf5e59e6c">
 			<source type="AUDIO" frames="13743" duration="03:03:18" size="32323536" crc="89352c41" md5="1f809397db12d9e97e96e08bf2c80582" sha1="9a626606f0208d632b9dc6ea50710022d465ff8d" in_zeros="10004" out_zeros="349252" quality="8"/>
 		</rom>
-		<rom name="CD/Quake Mission Pack No. 1 - Scourge of Armagon (USA) (Track 9).ogg" size="5022574" crc="bc6c5222" md5="4e84efd61bdf52e0c978fd974a047145" sha1="f09ca5e00acb393ddd1ee320bf0bda03686ae220">
+		<rom name="CD/Scourge of Armagon (Track 9).ogg" size="5022574" crc="bc6c5222" md5="4e84efd61bdf52e0c978fd974a047145" sha1="f09ca5e00acb393ddd1ee320bf0bda03686ae220">
 			<source type="AUDIO" frames="13755" duration="03:03:30" size="32351760" crc="58d2a520" md5="cd5c07fb049ada0a22ea5b5d831d447a" sha1="dc775a80ca4da3fbbee22a42ca382637a9c89e68" in_zeros="10004" out_zeros="2352" quality="8"/>
 		</rom>
-		<rom name="CD/Quake Mission Pack No. 1 - Scourge of Armagon (USA).cue" size="1100" crc="6876041b" md5="13b150a33ac55f04f9b5a98637edba95" sha1="230936d9149b985740391ec1e88b28c3b046556c"/>
+		<rom name="CD/Scourge of Armagon.cue" size="803" crc="875cd650" md5="84d20527cedf28c64cce9729efc88b19" sha1="bc11c013e7f6d8a27a11059273c63565d0cfe22f"/>
 		<rom name="HIPNOTIC/PAK0.PAK" size="35527205" crc="d17835fb" md5="0ab83681aaf841c4320269e02941a14a" sha1="1b089a41dd0cf9268668a5072acfb858a7fb8cc2" date="1997-02-11 18:41:06"/>
-		<rom name="Quake (1996) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="PLAY.BAT" size="17" crc="181ab458" md5="1674a08ccbb0abaf5ca5deddae067519" sha1="82823c2b2c7c7428d315993098536dfb8da8edb0" data="cXVha2UgLWhpcG5vdGljDQo="/>
 	</game>
 	<game name="Quake Mission Pack No. 2 - Dissolution of Eternity (1997) (Rogue Entertainment).dosz">
 		<description>Quake Mission Pack No. 2: Dissolution of Eternity</description>
 		<year>1997</year>
 		<developer>Rogue Entertainment</developer>
 		<parent>Quake (1996) (id Software).dosz</parent>
-		<comment>
-			Installed v1.0 from CD matching with Redump: Quake Mission Pack No. 2 - Dissolution of Eternity (USA)
-			Converted CD image with CHDtoOGG using -n option
-		</comment>
-		<comment_dosc>640x480 resolution and auto start</comment_dosc>
-		<link type="media">http://redump.org/disc/20167/</link>
-		<rom name="CD/Quake Mission Pack No. 2 - Dissolution of Eternity (USA) (Track 1).bin" size="43008" crc="10d89042" md5="73db37b47ede9da7e9fbaae52c6c8a8b" sha1="8a2846aac1e2ceb8a08a9cd5591e9a85228d5cab"/>
-		<rom name="CD/Quake Mission Pack No. 2 - Dissolution of Eternity (USA) (Track 2).ogg" size="5994620" crc="3289adde" md5="5a806935ddbd02d8faaee42a2e73b4f8" sha1="bdae25903d945c92acb149873955dc7dbd38f29a">
+		<comment>Installed v1.0 from US CD-ROM, CD image converted with CHDtoOGG using -n option</comment>
+		<link type="media">https://redump.info/disc/20167</link>
+		<rom name="Quake (1996) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="CD/Dissolution of Eternity (Track 1).bin" size="43008" crc="10d89042" md5="73db37b47ede9da7e9fbaae52c6c8a8b" sha1="8a2846aac1e2ceb8a08a9cd5591e9a85228d5cab"/>
+		<rom name="CD/Dissolution of Eternity (Track 2).ogg" size="5994620" crc="3289adde" md5="5a806935ddbd02d8faaee42a2e73b4f8" sha1="bdae25903d945c92acb149873955dc7dbd38f29a">
 			<source type="AUDIO" frames="14400" omitted_pregap="74" duration="03:12:00" size="33868800" crc="0c4470cd" md5="78f6da0a387136ca7797dfd749f0f797" sha1="c804d5683f9436f818f67666ea02e8c926bae3fa" in_zeros="10024" out_zeros="348376" quality="8"/>
 		</rom>
-		<rom name="CD/Quake Mission Pack No. 2 - Dissolution of Eternity (USA) (Track 3).ogg" size="5648861" crc="b928faa0" md5="3ee1e439dba3c4bd423c2cf6d2df80cd" sha1="7e49e0f348ba40b6253a38adb547ea6f3c29632b">
+		<rom name="CD/Dissolution of Eternity (Track 3).ogg" size="5648861" crc="b928faa0" md5="3ee1e439dba3c4bd423c2cf6d2df80cd" sha1="7e49e0f348ba40b6253a38adb547ea6f3c29632b">
 			<source type="AUDIO" frames="14226" duration="03:09:51" size="33459552" crc="5212126e" md5="c19802eff59dfa7ce3aeaba9338200d9" sha1="9db85ec87d30ebdc045d3cbae5ff2545c7b50fe2" in_zeros="10024" out_zeros="349241" quality="8"/>
 		</rom>
-		<rom name="CD/Quake Mission Pack No. 2 - Dissolution of Eternity (USA) (Track 4).ogg" size="5776683" crc="11a2e96a" md5="9cc017a344a51825fd22fae3d08a8119" sha1="3d2cf1ccc25c1935274f8bc5bed11c577c8ea2e8">
+		<rom name="CD/Dissolution of Eternity (Track 4).ogg" size="5776683" crc="11a2e96a" md5="9cc017a344a51825fd22fae3d08a8119" sha1="3d2cf1ccc25c1935274f8bc5bed11c577c8ea2e8">
 			<source type="AUDIO" frames="14011" duration="03:06:61" size="32953872" crc="ddddf093" md5="25141df52cb2bd6968a0708616e68400" sha1="f2919ff443c37086edd5e3de425266967a63800c" in_zeros="10024" out_zeros="349416" quality="8"/>
 		</rom>
-		<rom name="CD/Quake Mission Pack No. 2 - Dissolution of Eternity (USA) (Track 5).ogg" size="5702261" crc="42cf707e" md5="899897ab66692073b70b5b47bdb41c8d" sha1="640797a59d6ff4407c5fbe82c61c5c12556425e7">
+		<rom name="CD/Dissolution of Eternity (Track 5).ogg" size="5702261" crc="42cf707e" md5="899897ab66692073b70b5b47bdb41c8d" sha1="640797a59d6ff4407c5fbe82c61c5c12556425e7">
 			<source type="AUDIO" frames="14191" duration="03:09:16" size="33377232" crc="94456e87" md5="6e3fffced88c1a4538f68bcc77fc7f29" sha1="280a51dbd9ce110395a7eef7619db9344cf1de1c" in_zeros="10024" out_zeros="349109" quality="8"/>
 		</rom>
-		<rom name="CD/Quake Mission Pack No. 2 - Dissolution of Eternity (USA) (Track 6).ogg" size="6167698" crc="9b1f0a50" md5="3f2893f213d7ecda251a4ba5204c0887" sha1="51e7035dd8301dd284f2ef80f1410515a31e5ba1">
+		<rom name="CD/Dissolution of Eternity (Track 6).ogg" size="6167698" crc="9b1f0a50" md5="3f2893f213d7ecda251a4ba5204c0887" sha1="51e7035dd8301dd284f2ef80f1410515a31e5ba1">
 			<source type="AUDIO" frames="14801" duration="03:17:26" size="34811952" crc="24fcc35c" md5="68ab61da8b4b9db836eb83949ae9e02a" sha1="eada1f8086a329b96e80ca94127a895a8e5c85b1" in_zeros="10024" out_zeros="348936" quality="8"/>
 		</rom>
-		<rom name="CD/Quake Mission Pack No. 2 - Dissolution of Eternity (USA) (Track 7).ogg" size="5458352" crc="26aa25ba" md5="4e05dd0bbd5307b32c73d3c44a7c7a30" sha1="f703daf00ceafb2c190288e757b14bc3355734c1">
+		<rom name="CD/Dissolution of Eternity (Track 7).ogg" size="5458352" crc="26aa25ba" md5="4e05dd0bbd5307b32c73d3c44a7c7a30" sha1="f703daf00ceafb2c190288e757b14bc3355734c1">
 			<source type="AUDIO" frames="13801" duration="03:04:01" size="32459952" crc="68f087e0" md5="d57bf13bc84fd8ede31465f04f7d4703" sha1="37c5e14ee825f6bb60155ce3da696dd5c9cd3c73" in_zeros="10024" out_zeros="348553" quality="8"/>
 		</rom>
-		<rom name="CD/Quake Mission Pack No. 2 - Dissolution of Eternity (USA) (Track 8).ogg" size="5167313" crc="582533ac" md5="fb60ff6d06a04ea8da269ff51e2f31d3" sha1="28e3c823954417ea9bf1bf2d59e252d898001fab">
+		<rom name="CD/Dissolution of Eternity (Track 8).ogg" size="5167313" crc="582533ac" md5="fb60ff6d06a04ea8da269ff51e2f31d3" sha1="28e3c823954417ea9bf1bf2d59e252d898001fab">
 			<source type="AUDIO" frames="13993" duration="03:06:43" size="32911536" crc="48c07fc5" md5="3e88c53cb6f7ecb432d0a31db743a6e8" sha1="b6a690f24cbacc80bf3c4fbebbcb6e98e4faf57e" in_zeros="10024" out_zeros="347529" quality="8"/>
 		</rom>
-		<rom name="CD/Quake Mission Pack No. 2 - Dissolution of Eternity (USA) (Track 9).ogg" size="5342441" crc="66f174fd" md5="d75546248cf36e9c217ffc5b14781125" sha1="49fa175c127ac2cf1b6233b5f25a2dd638806487">
+		<rom name="CD/Dissolution of Eternity (Track 9).ogg" size="5342441" crc="66f174fd" md5="d75546248cf36e9c217ffc5b14781125" sha1="49fa175c127ac2cf1b6233b5f25a2dd638806487">
 			<source type="AUDIO" frames="14210" duration="03:09:35" size="33421920" crc="c35710a0" md5="5eb5f76728db7f619fe6b6380550daa8" sha1="fa3cf0a0c7b66b8c620ca364ae952aca8bd6b5e6" in_zeros="10024" out_zeros="0" quality="8"/>
 		</rom>
-		<rom name="CD/Quake Mission Pack No. 2 - Dissolution of Eternity (USA).cue" size="1145" crc="2bdc5354" md5="0fa7c55e016933f72ab394cba45bc7ae" sha1="bf4dbef8e431cc17a31d5136eb3bbe0f9d4b5aed"/>
-		<rom name="Quake (1996) (id Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="CD/Dissolution of Eternity.cue" size="848" crc="502c9f4e" md5="92883f998183dcd170dcf98542a0a3d2" sha1="810c45c207be9150b66bd4dc38b5aeb393934cd4"/>
+		<rom name="PLAY.BAT" size="14" crc="f88ff68e" md5="119fcb30dd5f3406145dbbdbba620c61" sha1="410599a0980b4da16ae82a7b9b2442c2a13b946e" data="cXVha2UgLXJvZ3VlDQo="/>
 		<rom name="ROGUE/1FLAG.BAT" size="48" crc="b78e9625" md5="5508244d4357015601337588783db89d" sha1="c48fd909948932789aba974a0fb215af49776dd9" date="1997-03-09 11:52:14"/>
 		<rom name="ROGUE/3TEAM.BAT" size="48" crc="2e6cf024" md5="a01a32476eed878f7ecee4967c3bde76" sha1="af879a3562f3bb46bf24002ee0a0e74d92985be1" date="1997-03-09 11:52:20"/>
 		<rom name="ROGUE/CTF.BAT" size="48" crc="760049e5" md5="150688afdaa5750e28a943fccda8c5c5" sha1="b524e7f4a2888df9b11877af4329510c92af1a74" date="1997-03-09 11:52:26"/>
