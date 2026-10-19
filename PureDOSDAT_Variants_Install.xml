@@ -1042,13 +1042,14 @@
 		<variant>Installation</variant>
 		<rom name="disk1.img" size="737280" crc="3c572a40" md5="59679b378c22dc1502fe4a0eaf343364" sha1="d2b26ed8f7456930d8a05ed4354b3746f9a68215"/>
 	</game>
-	<game name="SimCity 2000 Special Edition (1994) (Maxis) (Installation).dosz">
-		<description>SimCity 2000 Special Edition</description>
-		<comment>USA v1.1 CD-ROM</comment>
-		<year>1994</year>
+	<game name="SimCity 2000 (1993) (Maxis) (Installation).dosz">
+		<description>SimCity 2000</description>
+		<year>1993</year>
 		<developer>Maxis</developer>
 		<variant>Installation</variant>
-		<rom name="SimCity 2000 Special Edition (USA) (Rerelease) (1998-04-14).chd" size="233695872" crc="4694fb10" md5="03f849bb69b650a833ee26cc6b0b8f73" sha1="f717280ecadc80bf2cf2dbecd50b99483174a24c">
+		<comment>USA Special Edition v1.1 CD-ROM</comment>
+		<link type="media">https://redump.info/disc/8274</link>
+		<rom name="SimCity 2000 Special Edition (USA, Korea) (Rerelease).chd" size="233695872" crc="4694fb10" md5="03f849bb69b650a833ee26cc6b0b8f73" sha1="f717280ecadc80bf2cf2dbecd50b99483174a24c">
 			<track number="1" type="MODE1_RAW" frames="95433" pregap="0" duration="21:12:33" size="224458416" crc="b30cca9d" md5="51680bae5680f7de339a9645a5b01ff4" sha1="272e44bfbe15ab5f00bc3d9ee2671cbf8f55e487" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
