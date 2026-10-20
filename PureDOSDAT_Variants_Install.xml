@@ -10,6 +10,21 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
 	</header>
+	<game name="Al-Qadim - The Genie's Curse (1994) (Cyberlore Studios) (Installation).dosz">
+		<description>Al-Qadim - The Genie's Curse</description>
+		<year>1994</year>
+		<developer>Cyberlore Studios</developer>
+		<variant>Installation</variant>
+		<comment>
+			v1.1. Redump-verified CD-ROM: Al-Qadim - The Genie's Curse (USA)
+			Also matches TDC#23 entry: Al-Qadim- The Genie's Curse v1.1 (1995)(Strategic Simulations, Inc.) [bin-cue]
+		</comment>
+		<link type="media">https://redump.info/disc/2887</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Al-Qadim-+The+Genie%27s+Curse+v1.1+(1995)(Strategic+Simulations,+Inc.)+%5Bbin-cue%5D</link>
+		<rom name="Al-Qadim - The Genie's Curse (USA).chd" size="25087104" crc="cfee2d29" md5="984e5215c5e7b716db3a75f6495403ef" sha1="e6ecb0a80a2cac54c4423cdefc4f4ca598d3466f">
+			<track number="1" type="MODE1_RAW" frames="10237" pregap="0" duration="02:16:37" size="24077424" crc="6ca978aa" md5="ed9f3ca0920c49d41f74d966f0cab2dd" sha1="5f4e8e471b4b1d18a632e32b92f092b272e546ce"/>
+		</rom>
+	</game>
 	<game name="Alien Breed (1993) (Team 17) (Installation).dosz">
 		<description>Alien Breed</description>
 		<comment>Disk image that matches The Good Old Days ID:708</comment>
