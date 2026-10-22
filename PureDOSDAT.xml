@@ -19490,10 +19490,18 @@
 	</game>
 	<game name="SimAnt (1991) (Maxis).dosz">
 		<description>SimAnt</description>
-		<comment>Installed from the v1.08 floppy disks with VGA 640x480 16-colors video, Sound Blaster sound, and "SimAnt" as full name and company</comment>
-		<comment_dosc>Auto run</comment_dosc>
 		<year>1991</year>
 		<developer>Maxis</developer>
+		<comment>
+			Installed from the v1.08 3.5" floppy disks matching with TGOD ID: 535
+			Can also be installed from 5.25" floppy disks matching with TGOD ID: 536
+			Installation settings: VGA 640x480 16-colors video, Sound Blaster sound, and "SimAnt" as full name and company.
+			Using "SimAnt" for both name and company is crucial; all files are modified by the names you choose.
+			DoDAT cannot build this directly from the disk images.
+		</comment>
+		<comment_dosc>Auto run, direct mouse enabled, config, and MT-32 option</comment_dosc>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=535</link>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=536</link>
 		<rom name="FONT1" size="2950" crc="3d24a471" md5="313651ffce9a4a51fdd7ac7b5eb732b2" sha1="fa53e69ef5704a8b29cce1bebfb13436ee7d78f4"/>
 		<rom name="FONT2" size="2930" crc="e7ed970d" md5="8856d406223f90abdba68e9cb65288a1" sha1="87a041108b0c0966a807502fbcf733200b0c59f8"/>
 		<rom name="FONT3" size="3198" crc="4215300d" md5="58be52f2f7ab9315e79a7f447e51cd81" sha1="aec3e317fca2c22f8caaa66d242e9f3bc8b6a4bc"/>
@@ -19506,7 +19514,6 @@
 		<rom name="SAT.EXE" size="1299" crc="119310b7" md5="d973ca5f04134932b7f6d388336b4167" sha1="d97ad3d2cc77cf840b175e7cd98bd724dbafe80e"/>
 		<rom name="SHARED.DAT" size="96117" crc="d7b19736" md5="37d2d98f1cae380845cad7f2cf7b09b7" sha1="b0fac62d28088498b80ca0fb4726b7a40cf6929d"/>
 		<rom name="SHARED.NDX" size="3868" crc="bff6e381" md5="0c235bf67f0aacc98a0207d6937696d9" sha1="04a21480d6dab0fa74269dc515c89a17ed733f35"/>
-		<rom name="SIMANT.CFG" size="32" crc="9da3095b" md5="3b24f16fd96c0793ba26362a942c507d" sha1="1b46f4dac93ce18c344061f603e3204c1a6313d8"/>
 		<rom name="SIMANT.EXE" size="493273" crc="aca392cf" md5="8cc6ba4ea5118dd6dbda30162fcf9e70" sha1="77cb68e6bccead7426cb55f453b2f2465a6e66b4"/>
 		<rom name="SOUND.DAT" size="111470" crc="fa3e77b8" md5="dc2da151ca5fae822a3e9e55d2afb64a" sha1="17a40ba9da764cadb7a0e131efb2b8baf4a86d1d"/>
 		<rom name="SOUND.NDX" size="1236" crc="e1c54492" md5="7a29c19f810de53e724efeeabba3f374" sha1="170f23c1735010f50beae386fd84ee23b071b089"/>
