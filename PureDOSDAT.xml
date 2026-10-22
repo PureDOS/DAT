@@ -19807,12 +19807,18 @@
 		<rom name="SIMCITY.EXE" size="282913" crc="5b1e614e" md5="1680da91842fedbaf5dbc099a7544a7e" sha1="9d566c2725079c6a79003545475517a116950e0b"/>
 		<rom name="VRF_ADV.EXE" size="18686" crc="f2a2ff24" md5="e01c75d7e44a54cd7783f180c8f80120" sha1="5da730e91d2c2623d793125a6f170bb1bc2f96f7"/>
 	</game>
-	<game name="SimCity Enhanced CD-ROM (1993) (Maxis).dosz">
+	<game name="SimCity Enhanced CD-ROM (1994) (Maxis).dosz">
 		<description>SimCity Enhanced CD-ROM</description>
-		<comment>Full installation with audio and video copied from Europe White Label CD-ROM</comment>
-		<comment_dosc>Data path and sound config and auto run</comment_dosc>
-		<year>1993</year>
+		<year>1994</year>
 		<developer>Maxis</developer>
+		<comment>
+			Full installation with audio and video copied from Europe White Label CD-ROM, matching with Redump: SimCity Enhanced CD-ROM (Europe) (Rev 1)
+			Can also be installed from Redump-verified CD-ROM: SimCity Enhanced CD-ROM (USA) (Rerelease) (1995-09-01)
+			DoDAT can build this directly from the disc image
+		</comment>
+		<comment_dosc>Data path and sound config and auto run</comment_dosc>
+		<link type="media">https://redump.info/disc/52354</link>
+		<link type="media">https://redump.info/disc/67603</link>
 		<rom name="ALGDIG.ADV" size="5770" crc="a7ecbb4b" md5="6b0b2bae9437e8451b306061750b1152" sha1="5e894a3bee42dc08d50240ec395f2b5eeafb84df" date="1992-11-14 15:00:00"/>
 		<rom name="AUDIO/CITY2601.VOC" size="37519" crc="a4587125" md5="9a9a1a5e90f2f7acf747dc2d5a5bf8c0" sha1="9a1025061bf9da21f59cdbdcf447bda4a5c67176" date="1994-03-31 03:44:32"/>
 		<rom name="AUDIO/CITY2602.VOC" size="34852" crc="f0265a85" md5="bd85e6425e619313a660e1a20d043b3c" sha1="e7daf2d8521c1b34f1e9bde292b2ddca986f3e14" date="1994-03-31 03:44:32"/>
