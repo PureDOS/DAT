@@ -1052,14 +1052,24 @@
 			<track number="1" type="MODE1_RAW" frames="95433" pregap="0" duration="21:12:33" size="224458416" crc="b30cca9d" md5="51680bae5680f7de339a9645a5b01ff4" sha1="272e44bfbe15ab5f00bc3d9ee2671cbf8f55e487" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
-	<game name="SimCity Classic (1992) (Maxis) (Installation).dosz">
+	<game name="SimCity Classic (1993) (Maxis) (Installation).dosz">
 		<description>SimCity Classic</description>
-		<comment>Two 3.5" v2.0 floppy disks</comment>
-		<year>1992</year>
+		<year>1993</year>
 		<developer>Maxis</developer>
 		<variant>Installation</variant>
-		<rom name="disk1.img" size="737280" crc="40e80233" md5="db2b5cd7be99c3b4b46ec25247b95f07" sha1="6fc894f9e8abb25e1429d6df9aea93abfdc3c670" date="2009-10-14 00:15:24"/>
-		<rom name="disk2.img" size="737280" crc="83292905" md5="810d1ecb875aecbe69e8aef67c3c707a" sha1="6512895b53e3132195b8e7b0d18391188d08ee13" date="2009-10-14 00:16:02"/>
+		<comment>Two 3.5" v2.0 floppy disks</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=623</link>
+		<rom name="disk1.img" size="737280" crc="40e80233" md5="db2b5cd7be99c3b4b46ec25247b95f07" sha1="6fc894f9e8abb25e1429d6df9aea93abfdc3c670"/>
+		<rom name="disk2.img" size="737280" crc="83292905" md5="810d1ecb875aecbe69e8aef67c3c707a" sha1="6512895b53e3132195b8e7b0d18391188d08ee13"/>
+	</game>
+	<game name="SimCity Classic - Graphics (1994) (Maxis) (Installation).dosz">
+		<description>SimCity Classic: Graphics</description>
+		<year>1994</year>
+		<developer>Maxis</developer>
+		<variant>Installation</variant>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=624</link>
+		<rom name="disk1.img" size="737280" crc="3f50caad" md5="45849056050d2f1f4fa4562fe766c862" sha1="2719e16277cec240876649246c5a79bde77c67b4"/>
+		<rom name="disk2.img" size="737280" crc="e4047260" md5="df13477011ddab7096fa885aa12d4e7a" sha1="785316e028a64a31d57e352cb87a234a7ddcf742"/>
 	</game>
 	<game name="SimCity Enhanced CD-ROM (1993) (Maxis) (Installation).dosz">
 		<description>SimCity Enhanced CD-ROM</description>
