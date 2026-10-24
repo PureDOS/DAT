@@ -2619,6 +2619,7 @@
 		<comment_dosc>Auto run</comment_dosc>
 		<year>1987</year>
 		<developer>Infocom</developer>
+		<link type="media">https://puredos.github.io/dat-browser/?/TGOD+0814/Beyond+Zork:+The+Coconut+of+Quendor</link>
 		<rom name="BEYONDZO.DAT" size="262190" crc="f12ead7c" md5="98ec47f0c4d46e9509e5c7a4ac57d868" sha1="b8697c12d9971f33cc59ba725d6ff60962607ae5"/>
 		<rom name="BEYONDZO.EXE" size="32713" crc="1a98c06f" md5="0e34132aa0442384ecfc52c3cc4ebc41" sha1="00e3010ae760116dea066868d689b63d82e72820"/>
 	</game>
@@ -18442,9 +18443,89 @@
 	<game name="Return to Zork (1993) (Infocom).dosz">
 		<description>Return to Zork</description>
 		<comment>Installed from v1.1 USA Bundle Version OEM CD-ROM with patch v1.2 applied</comment>
-		<comment_dosc>Sound config, BAT file, and auto run</comment_dosc>
+		<comment_dosc>Sound config, auto run, MT-32 option</comment_dosc>
 		<year>1993</year>
 		<developer>Infocom</developer>
+		<link type="media">https://redump.info/disc/33185</link>
+		<rom name="CD/Return to Zork (Track 1).bin" size="192487680" crc="f43bec91" md5="f314b6664af73206efd4c6b4f33ec813" sha1="e53fa4b2fa7c738689f207babf3362c0c143e578">
+			<source type="MODE1_RAW" frames="81840" duration="18:11:15"/>
+		</rom>
+		<rom name="CD/Return to Zork (Track 2).ogg" size="340145" crc="2f0f6dd0" md5="b73904ea3c955a967b5f787a3755930b" sha1="fb533dcd0533d8206ba9d713f23868b0acc100a1">
+			<source type="AUDIO" frames="1336" omitted_pregap="150" duration="00:17:61" size="3142272" crc="7e3d07ff" md5="bf85448726931b121b97a616a5cddb63" sha1="684dd24112a77ebed753dd525da3df0cf41ccc46" in_zeros="6790" out_zeros="708725" quality="8"/>
+		</rom>
+		<rom name="CD/Return to Zork (Track 3).ogg" size="375444" crc="bdd4cb9f" md5="d211754c88e51b87d3404c7893e06568" sha1="84b62090640152d7c4d3ae6fe95b7edf8c00af91">
+			<source type="AUDIO" frames="1138" duration="00:15:13" size="2676576" crc="a4cbcbed" md5="6542b214fa34a8080679c053ca1e6516" sha1="42b4f5ed43a1a34f43f8494dfa911e9a3ae2cba3" in_zeros="4174" out_zeros="709051" quality="8"/>
+		</rom>
+		<rom name="CD/Return to Zork (Track 4).ogg" size="1568085" crc="8ee54ba8" md5="7f5fee42cbfde89625d4b585f4fd2205" sha1="83bf32c2f55ee684e5cb3b5994da3293668fa11a">
+			<source type="AUDIO" frames="4793" duration="01:03:68" size="11273136" crc="55c1e126" md5="b984ddcd349edf210bdce0973f3fbf71" sha1="ebebdba0e7fbca1dad84e5791bb802c1b3ab4763" in_zeros="4338" out_zeros="709195" quality="8"/>
+		</rom>
+		<rom name="CD/Return to Zork (Track 5).ogg" size="916951" crc="58fb2e73" md5="db50c9b1bdc4487bc1e7cd3d40632c3e" sha1="81831460ebea411eaa67ca4c6a6dc16aab88116e">
+			<source type="AUDIO" frames="2724" duration="00:36:24" size="6406848" crc="5a7a66bf" md5="1d04b5ef607e4607d5ef781a700e06d3" sha1="7e279a4ac6f4a2a33f886e433c37ba8bb2c4057e" in_zeros="6178" out_zeros="709709" quality="8"/>
+		</rom>
+		<rom name="CD/Return to Zork (Track 6).ogg" size="854755" crc="dc71d8f1" md5="186cb44ee74d0f9c8e6575e2dda1d0b8" sha1="799fd895e3d66394f587d91558251512564ed14f">
+			<source type="AUDIO" frames="2735" duration="00:36:35" size="6432720" crc="83602fd7" md5="0a2a050256d668c79e182853cfc410ef" sha1="0ec11a05d286d090c0dc38e7a677ad839765f7ed" in_zeros="4794" out_zeros="709307" quality="8"/>
+		</rom>
+		<rom name="CD/Return to Zork (Track 7).ogg" size="1751781" crc="ae4d522a" md5="c0e0ead03b7813b38d03199c67003a68" sha1="21982916240bf4c1daef7140cd726e460c754763">
+			<source type="AUDIO" frames="5139" duration="01:08:39" size="12086928" crc="1ea8eda8" md5="f7545552c0a4b5733130831cf161e14b" sha1="7aa4f649f96a56ef87efd9986612bd3dce06aa07" in_zeros="6654" out_zeros="708173" quality="8"/>
+		</rom>
+		<rom name="CD/Return to Zork (Track 8).ogg" size="3170195" crc="1477433d" md5="7ecfc2518ed2b3e6ddf861b0efe49461" sha1="d8b1bff10d24401c11283667a28cb0db755727d5">
+			<source type="AUDIO" frames="9112" duration="02:01:37" size="21431424" crc="b9c2146a" md5="98fa20cf0ccc9438d4e0146a5efee02f" sha1="1d85a5e655c6a65c76472702efb96c0800194dba" in_zeros="5154" out_zeros="708555" quality="8"/>
+		</rom>
+		<rom name="CD/Return to Zork (Track 9).ogg" size="2127339" crc="4c09abc9" md5="b838a5381b7b7b3f055a4350bb0fb745" sha1="853836fdfdea3bce9f53cc3149668db5fada5297">
+			<source type="AUDIO" frames="6054" duration="01:20:54" size="14239008" crc="94d7755a" md5="eab2e037e1469b8da350f019b31b04dd" sha1="f47dbfd515fc6dddca9145d31c94a8d8a37134be" in_zeros="4674" out_zeros="706897" quality="8"/>
+		</rom>
+		<rom name="CD/Return to Zork (Track 10).ogg" size="649504" crc="b72c4bda" md5="72dbd1f23985df5f0052f5f385e1908f" sha1="d6f50b31ea7faecb8d9668ec4e5e810b58ce60c4">
+			<source type="AUDIO" frames="1910" duration="00:25:35" size="4492320" crc="a0a91803" md5="921d31109e026cbe50fcf63d6d10ff5e" sha1="d27cd3fdf557f0dc7b409651907aeee9569746b4" in_zeros="4710" out_zeros="707329" quality="8"/>
+		</rom>
+		<rom name="CD/Return to Zork (Track 11).ogg" size="573995" crc="436ab6b0" md5="a0e8caf3e78b0cec3c2afd40e27a051e" sha1="e0344c156d4e66f0b1d1811f9ef22a6da90496a0">
+			<source type="AUDIO" frames="1909" duration="00:25:34" size="4489968" crc="7854ca85" md5="5533e84a7c809d0facccb2da395c1f73" sha1="6bb245a9d3cf55f3f494d46879b04f54a0d8ac7b" in_zeros="3714" out_zeros="709965" quality="8"/>
+		</rom>
+		<rom name="CD/Return to Zork (Track 12).ogg" size="954383" crc="27b00685" md5="ae602e8e69da333b55b8a642ca9113b5" sha1="e9e520830f258ff269a891d57ff350b854e0611b">
+			<source type="AUDIO" frames="2633" duration="00:35:08" size="6192816" crc="c82cc973" md5="aa715e0ffc895fd7e7e3d74d8e25dc5d" sha1="e7514eed371cfb881dbd362977ccb7c928822a1d" in_zeros="5162" out_zeros="710595" quality="8"/>
+		</rom>
+		<rom name="CD/Return to Zork (Track 13).ogg" size="1177807" crc="0ae585ee" md5="c7897ff7446a9f749de610046c2d581a" sha1="d1a9e586f086876c58e51d9c6b7d164200cd6261">
+			<source type="AUDIO" frames="3199" duration="00:42:49" size="7524048" crc="766fa5f6" md5="b4edc57c982b55d6aaf1fbcee168c59c" sha1="e724cdfb36ca64c28db0af79e5825c826516230e" in_zeros="3714" out_zeros="706053" quality="8"/>
+		</rom>
+		<rom name="CD/Return to Zork (Track 14).ogg" size="788387" crc="b8cb47ad" md5="d90169fc318234f17d2dda45ac59406b" sha1="1044e6d96ea19e2d554413791dbe872cabd81b76">
+			<source type="AUDIO" frames="2582" duration="00:34:32" size="6072864" crc="24df660a" md5="6a7df8e27d5f2fa547004e9dd42dcd4c" sha1="c07c055c613fca6a3a823ba2beaee8fde5c258ce" in_zeros="4166" out_zeros="707969" quality="8"/>
+		</rom>
+		<rom name="CD/Return to Zork (Track 15).ogg" size="673193" crc="3902445b" md5="359c1b940227a3afae0a8daae58dd30a" sha1="50bea5515ed1255d913120864b0bcb5f3db61329">
+			<source type="AUDIO" frames="1965" duration="00:26:15" size="4621680" crc="19339fd7" md5="512e19d7c2de4180d95cc55137c49690" sha1="7c00ec97bffd8710164fa068ed94aceab3c90e75" in_zeros="5142" out_zeros="713217" quality="8"/>
+		</rom>
+		<rom name="CD/Return to Zork (Track 16).ogg" size="1893304" crc="495e5ef5" md5="5582eaded71da248c88b692a58c4e16a" sha1="0a310f5e90e4f8dcb1e49a8e6b5aa19a8f7aaa11">
+			<source type="AUDIO" frames="5349" duration="01:11:24" size="12580848" crc="6f49a935" md5="7a93bfad914a7409d5715583e7e1a790" sha1="dac5a1ccbbd8dcb908f4f184bc4ba25311affd2f" in_zeros="2402" out_zeros="706159" quality="8"/>
+		</rom>
+		<rom name="CD/Return to Zork (Track 17).ogg" size="1361748" crc="b96b8c1d" md5="45cf972e2a31f417a8e91ed6a2feab18" sha1="073427c3f8dd3c83a97dd95a94f769b0a3d6f655">
+			<source type="AUDIO" frames="4103" duration="00:54:53" size="9650256" crc="0f3402ff" md5="be9e2f65f8fe814d07c45d5e6adbe7e7" sha1="3f6321820832e4bd490d20dbcae32cd302835900" in_zeros="5154" out_zeros="709179" quality="8"/>
+		</rom>
+		<rom name="CD/Return to Zork (Track 18).ogg" size="1551830" crc="5d877a3d" md5="ada9a82905dda22a0b34a9a1f4061245" sha1="89baebb706b6aada72507f60bd7f298bca7a7e2d">
+			<source type="AUDIO" frames="4581" duration="01:01:06" size="10774512" crc="d72b327c" md5="5cb51616abc2ab094f07dc96e8fc0d54" sha1="2da9e500322cfcf85c09d083b3b73f3bc78ffaab" in_zeros="1144" out_zeros="710601" quality="8"/>
+		</rom>
+		<rom name="CD/Return to Zork (Track 19).ogg" size="487328" crc="9b9c1a1a" md5="1671ea42502c59b2f47607706cfc8150" sha1="5c703a6271eece9fec953e3b1540d757add5a50e">
+			<source type="AUDIO" frames="1476" duration="00:19:51" size="3471552" crc="9f28bb4e" md5="80ddd4265a22b62a6f9efe71c84b7a55" sha1="a261bc4914e5eab84f30bcbc8abc413d99f9a562" in_zeros="5142" out_zeros="709585" quality="8"/>
+		</rom>
+		<rom name="CD/Return to Zork (Track 20).ogg" size="1519535" crc="5abaebcf" md5="75407930a1e156097a4d40487afc6e44" sha1="a73289e6b94490763740f87a0cdc8d321232e4de">
+			<source type="AUDIO" frames="4468" duration="00:59:43" size="10508736" crc="51567815" md5="f4326732b2f48d040620b64e2c1ba079" sha1="c57b81238b01a9e58f1077317371ed0211d563ae" in_zeros="5238" out_zeros="706872" quality="8"/>
+		</rom>
+		<rom name="CD/Return to Zork (Track 21).ogg" size="992417" crc="389a0519" md5="63f3a43ce6a79dcfb0c7c7a3f11e056e" sha1="176b0df2ff57b5aae17a30ee1e944b8944bc5ea4">
+			<source type="AUDIO" frames="2838" duration="00:37:63" size="6674976" crc="a282f3bb" md5="8d9798ecaf1ec8b2ba591c3f687c85d2" sha1="1fee5438cf4eea3cb0bfc7b7bc40418f50612b89" in_zeros="7170" out_zeros="710547" quality="8"/>
+		</rom>
+		<rom name="CD/Return to Zork (Track 22).ogg" size="1139307" crc="c0a626af" md5="b7c16d37ff980068abab1b2385dd88a0" sha1="06e49291833d60cbc26809ddc7a8cb4bc8f1b678">
+			<source type="AUDIO" frames="3662" duration="00:48:62" size="8613024" crc="4277c793" md5="e3d29b1f9e64e13d1566bbefcd96f276" sha1="35fbf554ce5ec64d9122245f964114ef81382bbf" in_zeros="4714" out_zeros="710065" quality="8"/>
+		</rom>
+		<rom name="CD/Return to Zork (Track 23).ogg" size="2798749" crc="cbbd0a5d" md5="ed3d0a4089da9c59d59612d15648c953" sha1="eb6eb7e3183b02c961b2a4a5b27fcfab8b19b318">
+			<source type="AUDIO" frames="8259" duration="01:50:09" size="19425168" crc="45926830" md5="c9ffc3421f2ada0304a6e5a0a9e3997a" sha1="b3f7b18911f94696c8b71f0c5cef5e1c136e05e8" in_zeros="4182" out_zeros="705938" quality="8"/>
+		</rom>
+		<rom name="CD/Return to Zork (Track 24).ogg" size="2337986" crc="afcf7b14" md5="fd85d2361f72405b57ff21a7d43628b5" sha1="71bd345200a7ca289c343d0ca73ae3cf6a03bd32">
+			<source type="AUDIO" frames="6555" duration="01:27:30" size="15417360" crc="46642d8f" md5="d7fe13990902ab3660e772b0ed482b5c" sha1="083a0922a78b042468684c5c004b7cb4158581d5" in_zeros="4646" out_zeros="707826" quality="8"/>
+		</rom>
+		<rom name="CD/Return to Zork (Track 25).ogg" size="2290169" crc="a3e841c5" md5="531e20af5d523671c6689afff1bbab47" sha1="2599040fcfd7cc0d82707a5c2fc2e4257f1b0c1b">
+			<source type="AUDIO" frames="5931" duration="01:19:06" size="13949712" crc="cd7a063e" md5="e66d9471f116852478158e8e8813a897" sha1="fe02b89d34ae7eca703778a8eb70242926860ac8" in_zeros="5246" out_zeros="709805" quality="8"/>
+		</rom>
+		<rom name="CD/Return to Zork (Track 26).ogg" size="5310369" crc="8e16a279" md5="359eca3c0eea293b4ddc8f5acf37eed5" sha1="8fc1ea54a7b57396965063227121449847e78476">
+			<source type="AUDIO" frames="15157" duration="03:22:07" size="35649264" crc="247638d1" md5="034de21dc51c3ed2ad023f8c2e9dc2a6" sha1="5be3fd840b666919a6a8ed4f58d7dc3312ed4d27" in_zeros="4190" out_zeros="710201" quality="8"/>
+		</rom>
+		<rom name="CD/Return to Zork.cue" size="2178" crc="6458db98" md5="2408af10a036dd97f20f01f7f8c8a7d8" sha1="e8b0f04f870105eaaf1f2df5d053b049111726cf"/>
 		<rom name="CDPLAY.EXE" size="21561" crc="0f7b1510" md5="050d2a734fd89b981c18e3e009e9f31f" sha1="a9a32c1213b48b7e5fd0e103ca56197b5a65cf78" date="1992-06-30 01:10:22"/>
 		<rom name="DRIVERS/ADLIB.ADV" size="14693" crc="93779685" md5="d649a80db341ebf961f751f8f6d90e5c" sha1="9ccf42334c0eccc63f0365c74be7a53ce53e08e5" date="1992-07-07 06:00:00"/>
 		<rom name="DRIVERS/ADLIBG.ADV" size="16175" crc="a69ed60d" md5="e8ac816367d0b4352e007ca81a8d7c85" sha1="d4e0392d8881c310a4f5bf8c8d7a0d5950b8e5bc" date="1992-07-07 06:00:00"/>
@@ -18471,34 +18552,6 @@
 		<rom name="ITXT.TXT" size="8386" crc="f8cfcdf6" md5="3e7da7fbbbfbc5fc7ba72663a3dc508c" sha1="df124bf3da10cd9863c2b6e27cc9e6e3904c2e58" date="1993-12-08 01:10:10"/>
 		<rom name="MADECD.EXE" size="143440" crc="1ccccb93" md5="01c4143809555690e5b76c855b830e9c" sha1="988eaddc28b069d8273bdc89ef5425802eafd182" date="1994-01-26 11:38:06"/>
 		<rom name="READ.ME" size="10120" crc="959193cb" md5="378719699b626711b863b5e8b01248ba" sha1="66827c5d4970c65e9c50aac946287ed9e105047e" date="1980-01-08 13:36:20"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22).chd" size="450706176" crc="1d37734f" md5="d40b95c16d55a1c9b734fc5b5eeb7503" sha1="f123cfe95df6ddf352cde2ca01dea31fba21541f">
-			<track number="1" type="MODE1_RAW" frames="81840" pregap="0" duration="18:11:15" size="192487680" crc="f43bec91" md5="f314b6664af73206efd4c6b4f33ec813" sha1="e53fa4b2fa7c738689f207babf3362c0c143e578" in_zeros="1" out_zeros="0"/>
-			<track number="2" type="AUDIO" frames="1486" pregap="150" duration="00:19:61" size="3495072" crc="63759ef1" md5="e6257dc24d147b1eef11d93188226192" sha1="bf699a62ff23151034a6213519e8b333fb3dc690" in_zeros="359590" out_zeros="708725"/>
-			<track number="3" type="AUDIO" frames="1138" pregap="0" duration="00:15:13" size="2676576" crc="a4cbcbed" md5="6542b214fa34a8080679c053ca1e6516" sha1="42b4f5ed43a1a34f43f8494dfa911e9a3ae2cba3" in_zeros="4174" out_zeros="709051"/>
-			<track number="4" type="AUDIO" frames="4793" pregap="0" duration="01:03:68" size="11273136" crc="55c1e126" md5="b984ddcd349edf210bdce0973f3fbf71" sha1="ebebdba0e7fbca1dad84e5791bb802c1b3ab4763" in_zeros="4338" out_zeros="709195"/>
-			<track number="5" type="AUDIO" frames="2724" pregap="0" duration="00:36:24" size="6406848" crc="5a7a66bf" md5="1d04b5ef607e4607d5ef781a700e06d3" sha1="7e279a4ac6f4a2a33f886e433c37ba8bb2c4057e" in_zeros="6178" out_zeros="709709"/>
-			<track number="6" type="AUDIO" frames="2735" pregap="0" duration="00:36:35" size="6432720" crc="83602fd7" md5="0a2a050256d668c79e182853cfc410ef" sha1="0ec11a05d286d090c0dc38e7a677ad839765f7ed" in_zeros="4794" out_zeros="709307"/>
-			<track number="7" type="AUDIO" frames="5139" pregap="0" duration="01:08:39" size="12086928" crc="1ea8eda8" md5="f7545552c0a4b5733130831cf161e14b" sha1="7aa4f649f96a56ef87efd9986612bd3dce06aa07" in_zeros="6654" out_zeros="708173"/>
-			<track number="8" type="AUDIO" frames="9112" pregap="0" duration="02:01:37" size="21431424" crc="b9c2146a" md5="98fa20cf0ccc9438d4e0146a5efee02f" sha1="1d85a5e655c6a65c76472702efb96c0800194dba" in_zeros="5154" out_zeros="708555"/>
-			<track number="9" type="AUDIO" frames="6054" pregap="0" duration="01:20:54" size="14239008" crc="94d7755a" md5="eab2e037e1469b8da350f019b31b04dd" sha1="f47dbfd515fc6dddca9145d31c94a8d8a37134be" in_zeros="4674" out_zeros="706897"/>
-			<track number="10" type="AUDIO" frames="1910" pregap="0" duration="00:25:35" size="4492320" crc="a0a91803" md5="921d31109e026cbe50fcf63d6d10ff5e" sha1="d27cd3fdf557f0dc7b409651907aeee9569746b4" in_zeros="4710" out_zeros="707329"/>
-			<track number="11" type="AUDIO" frames="1909" pregap="0" duration="00:25:34" size="4489968" crc="7854ca85" md5="5533e84a7c809d0facccb2da395c1f73" sha1="6bb245a9d3cf55f3f494d46879b04f54a0d8ac7b" in_zeros="3714" out_zeros="709965"/>
-			<track number="12" type="AUDIO" frames="2633" pregap="0" duration="00:35:08" size="6192816" crc="c82cc973" md5="aa715e0ffc895fd7e7e3d74d8e25dc5d" sha1="e7514eed371cfb881dbd362977ccb7c928822a1d" in_zeros="5162" out_zeros="710595"/>
-			<track number="13" type="AUDIO" frames="3199" pregap="0" duration="00:42:49" size="7524048" crc="766fa5f6" md5="b4edc57c982b55d6aaf1fbcee168c59c" sha1="e724cdfb36ca64c28db0af79e5825c826516230e" in_zeros="3714" out_zeros="706053"/>
-			<track number="14" type="AUDIO" frames="2582" pregap="0" duration="00:34:32" size="6072864" crc="24df660a" md5="6a7df8e27d5f2fa547004e9dd42dcd4c" sha1="c07c055c613fca6a3a823ba2beaee8fde5c258ce" in_zeros="4166" out_zeros="707969"/>
-			<track number="15" type="AUDIO" frames="1965" pregap="0" duration="00:26:15" size="4621680" crc="19339fd7" md5="512e19d7c2de4180d95cc55137c49690" sha1="7c00ec97bffd8710164fa068ed94aceab3c90e75" in_zeros="5142" out_zeros="713217"/>
-			<track number="16" type="AUDIO" frames="5349" pregap="0" duration="01:11:24" size="12580848" crc="6f49a935" md5="7a93bfad914a7409d5715583e7e1a790" sha1="dac5a1ccbbd8dcb908f4f184bc4ba25311affd2f" in_zeros="2402" out_zeros="706159"/>
-			<track number="17" type="AUDIO" frames="4103" pregap="0" duration="00:54:53" size="9650256" crc="0f3402ff" md5="be9e2f65f8fe814d07c45d5e6adbe7e7" sha1="3f6321820832e4bd490d20dbcae32cd302835900" in_zeros="5154" out_zeros="709179"/>
-			<track number="18" type="AUDIO" frames="4581" pregap="0" duration="01:01:06" size="10774512" crc="d72b327c" md5="5cb51616abc2ab094f07dc96e8fc0d54" sha1="2da9e500322cfcf85c09d083b3b73f3bc78ffaab" in_zeros="1144" out_zeros="710601"/>
-			<track number="19" type="AUDIO" frames="1476" pregap="0" duration="00:19:51" size="3471552" crc="9f28bb4e" md5="80ddd4265a22b62a6f9efe71c84b7a55" sha1="a261bc4914e5eab84f30bcbc8abc413d99f9a562" in_zeros="5142" out_zeros="709585"/>
-			<track number="20" type="AUDIO" frames="4468" pregap="0" duration="00:59:43" size="10508736" crc="51567815" md5="f4326732b2f48d040620b64e2c1ba079" sha1="c57b81238b01a9e58f1077317371ed0211d563ae" in_zeros="5238" out_zeros="706872"/>
-			<track number="21" type="AUDIO" frames="2838" pregap="0" duration="00:37:63" size="6674976" crc="a282f3bb" md5="8d9798ecaf1ec8b2ba591c3f687c85d2" sha1="1fee5438cf4eea3cb0bfc7b7bc40418f50612b89" in_zeros="7170" out_zeros="710547"/>
-			<track number="22" type="AUDIO" frames="3662" pregap="0" duration="00:48:62" size="8613024" crc="4277c793" md5="e3d29b1f9e64e13d1566bbefcd96f276" sha1="35fbf554ce5ec64d9122245f964114ef81382bbf" in_zeros="4714" out_zeros="710065"/>
-			<track number="23" type="AUDIO" frames="8259" pregap="0" duration="01:50:09" size="19425168" crc="45926830" md5="c9ffc3421f2ada0304a6e5a0a9e3997a" sha1="b3f7b18911f94696c8b71f0c5cef5e1c136e05e8" in_zeros="4182" out_zeros="705938"/>
-			<track number="24" type="AUDIO" frames="6555" pregap="0" duration="01:27:30" size="15417360" crc="46642d8f" md5="d7fe13990902ab3660e772b0ed482b5c" sha1="083a0922a78b042468684c5c004b7cb4158581d5" in_zeros="4646" out_zeros="707826"/>
-			<track number="25" type="AUDIO" frames="5931" pregap="0" duration="01:19:06" size="13949712" crc="cd7a063e" md5="e66d9471f116852478158e8e8813a897" sha1="fe02b89d34ae7eca703778a8eb70242926860ac8" in_zeros="5246" out_zeros="709805"/>
-			<track number="26" type="AUDIO" frames="15157" pregap="0" duration="03:22:07" size="35649264" crc="247638d1" md5="034de21dc51c3ed2ad023f8c2e9dc2a6" sha1="5be3fd840b666919a6a8ed4f58d7dc3312ed4d27" in_zeros="4190" out_zeros="710201"/>
-		</rom>
 		<rom name="RTZCD.DAT" size="536064" crc="862993e2" md5="f5c3c3740e9a20bbb26f7f952cf020bd" sha1="7e9abf399d0b93cad1b49eb91b88da5ca69e00cf" date="1994-09-29 16:52:48"/>
 		<rom name="RTZCD12.TXT" size="1253" crc="98ddf5f3" md5="ea6ea5b6f254bf55cce3e42088aaa2bf" sha1="c892f05b943658cd78ccaab0ce1fd2ef2beae5b8" date="1994-11-29 12:02:06"/>
 		<rom name="SAMPLE.AD" size="5248" crc="ae36f58d" md5="72369b94e914bd74509923a62901b4e7" sha1="4f259362bfb6538489ffecd41aacc9a2cf0b8a92" date="1993-01-15 01:10:26"/>
@@ -26942,6 +26995,7 @@
 		<comment_dosc>Auto run</comment_dosc>
 		<year>1980</year>
 		<developer>Infocom</developer>
+		<link type="media">https://puredos.github.io/dat-browser/?/TGOD+3307/Zork+I:+The+Great+Underground+Empire</link>
 		<rom name="SETUP.EXE" size="1584" crc="62ddb282" md5="fecde7d40080b881c21b5212c7d350c3" sha1="d1d43de13c64bd32c3788b19ae2bb5572befb3b6"/>
 		<rom name="SETUP.INF" size="3" crc="8bdcb97d" md5="56d258bd897f5bb1b04ce55d31431366" sha1="b24951cc8c9d943894c558fa045e943e8916946a"/>
 		<rom name="STATLINE.BAT" size="2304" crc="a605f617" md5="d39f347955716b8c0fa3d6b64e2b098c" sha1="d515a1bd5771885421a5330227e890a60d21be8b"/>
@@ -26954,6 +27008,7 @@
 		<comment_dosc>Auto run</comment_dosc>
 		<year>1981</year>
 		<developer>Infocom</developer>
+		<link type="media">https://puredos.github.io/dat-browser/?/TDC24/Zork+II-+The+Wizard+of+Frobozz+r48-L+(1985)(Infocom,+Inc.)+%5BIMA%5D%5B180k%5D%5B!%5D</link>
 		<rom name="SETUP.EXE" size="1584" crc="62ddb282" md5="fecde7d40080b881c21b5212c7d350c3" sha1="d1d43de13c64bd32c3788b19ae2bb5572befb3b6"/>
 		<rom name="SETUP.INF" size="3" crc="8bdcb97d" md5="56d258bd897f5bb1b04ce55d31431366" sha1="b24951cc8c9d943894c558fa045e943e8916946a"/>
 		<rom name="STATLINE.BAT" size="2304" crc="a605f617" md5="d39f347955716b8c0fa3d6b64e2b098c" sha1="d515a1bd5771885421a5330227e890a60d21be8b"/>
@@ -26966,6 +27021,7 @@
 		<comment_dosc>Auto run</comment_dosc>
 		<year>1982</year>
 		<developer>Infocom</developer>
+		<link type="media">https://puredos.github.io/dat-browser/?/TDC24/Zork+III-+The+Dungeon+Master+r17-L+(1985)(Infocom,+Inc.)+%5BIMA%5D%5B180k%5D%5B!%5D</link>
 		<rom name="SETUP.EXE" size="1584" crc="62ddb282" md5="fecde7d40080b881c21b5212c7d350c3" sha1="d1d43de13c64bd32c3788b19ae2bb5572befb3b6"/>
 		<rom name="SETUP.INF" size="3" crc="8bdcb97d" md5="56d258bd897f5bb1b04ce55d31431366" sha1="b24951cc8c9d943894c558fa045e943e8916946a"/>
 		<rom name="STATLINE.BAT" size="2304" crc="a605f617" md5="d39f347955716b8c0fa3d6b64e2b098c" sha1="d515a1bd5771885421a5330227e890a60d21be8b"/>
@@ -26978,6 +27034,7 @@
 		<comment_dosc>Auto run</comment_dosc>
 		<year>1988</year>
 		<developer>Infocom</developer>
+		<link type="media">https://puredos.github.io/dat-browser/?/TGOD+3311/Zork+Zero</link>
 		<rom name="ZORK0.CG1" size="244507" crc="180f5fa6" md5="8693505c6363b319613a5711186bf179" sha1="02591d4fe0151733fa5555c294e658385b463ee6"/>
 		<rom name="ZORK0.EG1" size="333654" crc="dc4dec33" md5="115f4f4e62a433f64ef7068899b182b4" sha1="31fb447303d493b7f3a4f09e40c87710674aee77"/>
 		<rom name="ZORK0.ZIP" size="300032" crc="3da54ffa" md5="d83c343d71ac4c03661488148876b370" sha1="9a1d7dff71e1a571295c81439ffe706460af03fb"/>
