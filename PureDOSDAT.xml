@@ -20576,10 +20576,14 @@
 	</game>
 	<game name="SimLife (1992) (Maxis).dosz">
 		<description>SimLife</description>
-		<comment>Installed from the two v1.04d 3.5" floppy disks with VGA 800x600 16 colors video and Sound Blaster sound</comment>
-		<comment_dosc>Auto run</comment_dosc>
 		<year>1992</year>
 		<developer>Maxis</developer>
+		<comment>
+			Installed from the two v1.04d 3.5" floppy disks matching with TGOD ID: 3034
+			DoDAT cannot build this directly from the disk images - many files need to be installed.
+		</comment>
+		<comment_dosc>Auto run, BAT file with config, direct mouse enabled, and MT-32 option</comment_dosc>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=3034</link>
 		<rom name="CPL4LIFE.DAT" size="1297071" crc="3feb6fd0" md5="3f67938856e193be31663926959ced74" sha1="524a5ef03019111e26c8a73b06b516adc79016ba"/>
 		<rom name="CPL4LIFE.NDX" size="10164" crc="7db67e98" md5="78cab6d9ea01c5b559e0a21fb0ef9d44" sha1="2ad1b8f0d6a6d56c87fe95d3f9fdf714097041bf"/>
 		<rom name="FONT1" size="2694" crc="93dc8098" md5="30d8df802ddb68392f573cb64adddb11" sha1="ca46b001fbb33af8d6ea5a1da1029bd980f487c3"/>
@@ -20589,7 +20593,7 @@
 		<rom name="FONT5" size="2468" crc="192df44b" md5="c1d6c2bf86d6a29828e79018284e583b" sha1="6d60022e08b04203dc2350c88033e375a879c1cb"/>
 		<rom name="FONT6" size="2906" crc="cff5c00d" md5="d86e17cfd90c0436d2b26fb6a4b9dff1" sha1="ce65e68b1a95bc72adf6f7263bcbd576c604520c"/>
 		<rom name="FONT7" size="3438" crc="bf550c05" md5="2aa858728fb76cf11b1280068d603307" sha1="7ad14bdedcf2b271470b5cda54ca20dfd99cab21"/>
-		<rom name="GAMES.TXT" size="6562" crc="46de07f6" md5="b01be8040d02bfd2c29c0f82965daef8" sha1="2e6152079e640674f93461f5af60dd613fcde240"/>
+		<rom name="GAMES.TXT" size="6562" crc="46de07f6" md5="b01be8040d02bfd2c29c0f82965daef8" sha1="2e6152079e640674f93461f5af60dd613fcde240" date="1993-03-16 17:26:20"/>
 		<rom name="GAMES/BREMSBIZ.LIF" size="45440" crc="bfc1d548" md5="5e27c3596cd92299d6e5c829583e6180" sha1="59e8467e61508ef49f4c65932520b6f51319507c"/>
 		<rom name="GAMES/ECONOMIC.LIF" size="20352" crc="d58aa71e" md5="578a22fb6fb166df616de0e15f295e9a" sha1="3b9999cfcebc9c362823e9a178541ac585fd8b5e"/>
 		<rom name="GAMES/PRELUDE.LIF" size="21760" crc="ea8220f3" md5="516d706ade89e12bd8c1e1a25c3cd28b" sha1="b1c20beac911292d67b8d0a6cdc28fbff938ddb6"/>
@@ -20597,8 +20601,8 @@
 		<rom name="GAMES/SIMCITYE.LIF" size="38912" crc="3f21f1ee" md5="d082de81c4ecd61aa1f0ee9fe4f4ab31" sha1="38303419e48ff9eeadabdd5b894657434926e8ee"/>
 		<rom name="GAMES/SIMOFFIC.LIF" size="25216" crc="415659c8" md5="947ec10de16eff6c108be6e70f8a3587" sha1="4849297c973e72efbb561d1ef388b0b95944d438"/>
 		<rom name="GAMES/SOCIALLE.LIF" size="52736" crc="9b6ee7b5" md5="18095db3f9fd3373cc97fd0fbfd56003" sha1="606e4f0ffd87b38bd928cfa2a7e50f45e51faf88"/>
-		<rom name="INFO.EXE" size="10601" crc="57e6d335" md5="c0d880ef2d14fbcce461dc9200285f56" sha1="ffe8159a615ed755a9b41afa47c48bf357213e52"/>
-		<rom name="INSTALL.EXE" size="104647" crc="7cadf6b3" md5="dbb5953e40f8f63fcbe14bc4d6c4d39b" sha1="fc48da3d2f8a1082975d9edf94782c7910b79d77"/>
+		<rom name="INFO.EXE" size="10601" crc="57e6d335" md5="c0d880ef2d14fbcce461dc9200285f56" sha1="ffe8159a615ed755a9b41afa47c48bf357213e52" date="1993-01-19 15:56:30"/>
+		<rom name="INSTALL.EXE" size="104647" crc="7cadf6b3" md5="dbb5953e40f8f63fcbe14bc4d6c4d39b" sha1="fc48da3d2f8a1082975d9edf94782c7910b79d77" date="1993-06-17 09:07:20"/>
 		<rom name="MAP.X32" size="86448" crc="320f8c27" md5="00423ddb8724cb93db03f671b5733e50" sha1="feaf310f9226af08d014a48c159934ed9078f899"/>
 		<rom name="ORGOTS/ANIMALS/FANCIFUL/BIGFATRA.ANL" size="640" crc="cb546f38" md5="311762a99dda1f23c938c2df675692d2" sha1="281e5fa65c67c162a549401cfb6bae02a0e74f18"/>
 		<rom name="ORGOTS/ANIMALS/FANCIFUL/DRAGON.ANL" size="640" crc="a4377131" md5="3a84409713647b8fcbeb6bf3656e04a1" sha1="0c1ef9627b7d94736fa36803b678c8637459e3ae"/>
@@ -20704,8 +20708,7 @@
 		<rom name="ORGOTS/ZOOS/EXPERIME.ZPL" size="22016" crc="880c922b" md5="a96801d920e3e6bd89045b89b173ace4" sha1="881ef79584b5690f6fa0424bffa4d6b2641ca849"/>
 		<rom name="ORGOTS/ZOOS/MYANIM2.ZAN" size="12544" crc="c88e4bbf" md5="dcaab1a38d9aedccad7a550251bd6a3c" sha1="62fc6fb5307f23d30f1b194428612da6216cfed3"/>
 		<rom name="ORGOTS/ZOOS/MYANIMAL.ZAN" size="12544" crc="b0b4eaac" md5="e3bdb6d7b8626c6c175a2a9c92fae26c" sha1="8a0c6b071e20abc8af3b57391e6251767a038630"/>
-		<rom name="README.TXT" size="15311" crc="0c52bd56" md5="9c3ada43809e7aa450d2d1d9bf829dca" sha1="e2881b268b6985326f48024392db4013e717fe84"/>
-		<rom name="SIMLIFE.BAT" size="15" crc="ba4c9e76" md5="2bfd579278ed3d484411b8991f29d85a" sha1="c5ab4d973ab56e72504b80de6b838ea16fd5e775"/>
+		<rom name="README.TXT" size="15311" crc="0c52bd56" md5="9c3ada43809e7aa450d2d1d9bf829dca" sha1="e2881b268b6985326f48024392db4013e717fe84" date="1993-07-20 15:10:08"/>
 		<rom name="SML.EXE" size="657559" crc="62e5f25e" md5="424fc17ed45d9a4d3a9fa22981e81f63" sha1="8aac6bf5d5f971374163ca892bb19d1954013e3b"/>
 	</game>
 	<game name="SimRefinery (1992) (Maxis).dosz">
