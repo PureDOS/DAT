@@ -13180,13 +13180,14 @@
 		<year>1991</year>
 		<developer>Westwood</developer>
 		<comment>
-			Files extracted from Forgotten Realms Archives: Silver Edition CD-ROM set disc 1
-			DoDAT can build this directly from the disc image
-			Also matches with GOG (using the embedded patch for EOB.EXE)
-			Files are in C:\DARKMOON for ease of transferring characters to Eye of the Beholder II to III
+			Files extracted from Advanced Dungeons &amp; Dragons - Eye of the Beholder I, II &amp; III US CD-ROM release or from Forgotten Realms Archives: Silver Edition CD-ROM set disc 1.
+			DoDAT can build this directly from the disc images.
+			Also matches with GOG (using the embedded patch for EOB.EXE).
+			Files are in C:\DARKMOON for ease of transferring characters to Eye of the Beholder II to III.
 		</comment>
 		<comment_dosc>Selects VGA, Sound Blaster and mouse support, auto start, copy protection removal, enables direct mouse</comment_dosc>
 		<link type="media">https://redump.info/disc/79882</link>
+		<link type="media">https://redump.info/disc/90457</link>
 		<link type="media">https://puredos.github.io/dat-browser/?/Forgotten+Realms+Archives,+The+(Silver+Edition)+(1999)(Interplay+Entertainment+Corp.)+%5Bbin-cue%5D</link>
 		<link type="store">https://www.gog.com/en/game/forgotten_realms_the_archives_collection_one</link>
 		<rom name="Eye of the Beholder Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
@@ -13216,11 +13217,14 @@
 		<year>1991</year>
 		<developer>Westwood</developer>
 		<comment>
-			Files extracted from Forgotten Realms Archives: Silver Edition CD-ROM set disc 1
-			DoDAT can build this directly from the disc image
-			Also matches with GOG (using the embedded patches)
+			Files extracted from Advanced Dungeons &amp; Dragons - Eye of the Beholder I, II &amp; III US CD-ROM release or from Forgotten Realms Archives: Silver Edition CD-ROM set disc 1.
+			DoDAT can build this directly from the disc images.
+			Also matches with GOG (using the embedded patches).
 		</comment>
 		<comment_dosc>Auto-starts, enables direct mouse, copy protection removal, and config - Selected options for MCGA/VGA, Adlib or Sound Blaster, and mouse support</comment_dosc>
+		<link type="media">https://redump.info/disc/79882</link>
+		<link type="media">https://redump.info/disc/90457</link>
+		<link type="store">https://www.gog.com/en/game/forgotten_realms_the_archives_collection_one</link>
 		<rom name="Eye of the Beholder Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="DARKMOON/AIRSEAL.CPS" size="21530" crc="933112e9" md5="806cb1776e784cfc2af65a942faab4d3" sha1="28811325918990a7bcc028b4aa150877788f4352" date="1991-10-04 15:46:42"/>
 		<rom name="DARKMOON/ALTAR.CPS" size="18510" crc="602837ad" md5="8a8f78e442941dbf41f166ada1bfb7d4" sha1="f297834dd876984451a5fb26594333bf8526ffae" date="1991-11-15 17:38:28"/>
@@ -13461,17 +13465,17 @@
 		<rom name="DARKMOON/XGA.OVL" size="12587" crc="591943fc" md5="04e72b8014323b5177d959aa35eab12f" sha1="2f81ac1c0ef7c0befb059fcfeb9c12cf6f299b63" date="1991-12-03 22:06:52"/>
 	</game>
 	<game name="Eye of the Beholder III - Assault on Myth Drannor (1993) (SSI).dosz">
-		<description>Eye of the Beholder III - Assault on Myth Drannor</description>
+		<description>Eye of the Beholder III: Assault on Myth Drannor</description>
 		<year>1993</year>
 		<developer>SSI</developer>
 		<comment>
-			Installed v1.1 from Redump-verified CD-ROM: Advanced Dungeons &amp; Dragons - Eye of the Beholder I, II &amp; III (USA)
-			CD also matches with TDC#23 entry: Advanced Dungeons &amp; Dragons - Eye of the Beholder I, II &amp; III (1995)(Strategic Simulations, Inc.) [bin-cue]
-			DoDAT can build this directly from the disc image
+			Installed v1.1 from Advanced Dungeons &amp; Dragons - Eye of the Beholder I, II &amp; III US CD-ROM release.
+			DoDAT can build this directly from the disc image.
 		</comment>
 		<comment_dosc>Auto-starts, enables direct mouse, copy protection removal, and config. MT-32, General MIDI, and Character Transfer Utility options</comment_dosc>
 		<link type="media">https://redump.info/disc/90457</link>
 		<link type="media">https://puredos.github.io/dat-browser/?/TDC23/Advanced+Dungeons+&amp;+Dragons+-+Eye+of+the+Beholder+I,+II+&amp;+III+(1995)(Strategic+Simulations,+Inc.)+%5Bbin-cue%5D</link>
+		<rom name="Eye of the Beholder Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="EOB3/ADLIB.ADV" size="14775" crc="865e52d2" md5="ee12a7f90e99376ac3ca7526deccbd65" sha1="5223b1b79c06ca36a576d1827119d3b9122ed8db" date="1992-11-14 06:00:00"/>
 		<rom name="EOB3/AESOP.EXE" size="142704" crc="b265ff69" md5="f519d7e9c28a94219a3a4dc296209522" sha1="37725b386490d70170cfedfbdbf2dd69b74c4f49" date="1993-04-14 15:43:22"/>
 		<rom name="EOB3/CHARCOPY.DAT" size="102" crc="5ebc21e1" md5="9febcf478a822399b0e1f50e62093237" sha1="6fc89a759429679f0894f3347d0f610676da87b9" date="1993-04-08 16:47:00"/>
@@ -13550,7 +13554,6 @@
 		<rom name="EOB3/SOUND.EXE" size="34681" crc="37e9ebe4" md5="10227c67b4469a1088010ec90a9d586f" sha1="c8238ccb5a7ecaa296623a55600220f4e89d1a13" date="1993-07-14 10:33:12"/>
 		<rom name="EOB3/STDPATCH.AD" size="5162" crc="a9e2ea82" md5="8b34ba98e9f0ef42b84f953df2c36411" sha1="aca805802ea65a6003665fe4bcd998a9edaa239c" date="1992-07-21 17:25:02"/>
 		<rom name="EOB3/XVA.DRV" size="33086" crc="40402a9a" md5="9b9a12068077890d0bb5c9bfd27962cf" sha1="7ed0bb8147f88764e1fce5927ab542f7081dae64" date="1992-12-17 16:46:20"/>
-		<rom name="Eye of the Beholder Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
 	<game name="Fallout (1997) (Interplay).dosz">
 		<description>Fallout</description>
