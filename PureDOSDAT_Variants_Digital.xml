@@ -3741,6 +3741,101 @@
 		<rom name="SONG8.PSM" size="48923" crc="f8ef93f4" md5="3f95988349a0745bd16e62022d26f357" sha1="c38baef41942a96182a78d05ee111f0b4aaebe61"/>
 		<rom name="SONG9.PSM" size="86068" crc="f5665edc" md5="b1364fa6c2b92815acb561033f8d6685" sha1="b1056cb2d79c0bb92663d1a1fadd708a4b9eccdf"/>
 	</game>
+	<game name="Eye of the Beholder III - Assault on Myth Drannor (1993) (SSI) (GOG).dosz">
+		<description>Eye of the Beholder III: Assault on Myth Drannor</description>
+		<year>1993</year>
+		<developer>SSI</developer>
+		<variant>GOG</variant>
+		<comment>v1.1, with semi-official AESOP/32 patch added</comment>
+		<comment_dosc>Auto start, enables direct mouse, and sound config. MT-32, General MIDI, and Character Transfer Utility options</comment_dosc>
+		<link type="store">https://www.gog.com/en/game/forgotten_realms_the_archives_collection_one</link>
+		<rom name="EOB3/A32ADLIB.DLL" size="19968" crc="178fc82a" md5="801977c75c37c8d6d13c8639f8f63992" sha1="e475ab944f100102c2a9810830878f88dff9ef50" date="1993-08-03 12:00:00"/>
+		<rom name="EOB3/A32MT32.DLL" size="14336" crc="e354610a" md5="d09d5dc2188ddcec3878d57ce59566f7" sha1="3bd3c48c902776e14a22af026e57688b6a41a3d1" date="1993-08-03 12:00:00"/>
+		<rom name="EOB3/A32SBDG.DLL" size="8464" crc="966d9a5a" md5="283ca5a12f7b3f96038780b9f274b34f" sha1="3778c7b13914f83a0439229b46c35a311accaa06" date="1993-10-26 00:02:44"/>
+		<rom name="EOB3/A32SPKR.DLL" size="14848" crc="0e0bf9af" md5="5dcb7c1c726eb4c60472e834703797f6" sha1="b27872fa9206a361b1bc3eae476b1f2d701ad4f9" date="1993-08-03 12:00:00"/>
+		<rom name="EOB3/ADLIB.ADV" size="14775" crc="865e52d2" md5="ee12a7f90e99376ac3ca7526deccbd65" sha1="5223b1b79c06ca36a576d1827119d3b9122ed8db" date="2015-06-10 13:17:30"/>
+		<rom name="EOB3/AESOP.EXE" size="52857" crc="0385b6af" md5="49428694eea835541efc49168a689963" sha1="baca7683f03e46c537b9419618ce75cf68724903" date="1996-02-17 22:05:30"/>
+		<rom name="EOB3/CHARCOPY.DAT" size="102" crc="5ebc21e1" md5="9febcf478a822399b0e1f50e62093237" sha1="6fc89a759429679f0894f3347d0f610676da87b9" date="2015-06-10 13:17:30"/>
+		<rom name="EOB3/CHARCOPY.EXE" size="21504" crc="791c7e5f" md5="dacd81785ad1cdaf638547f7d08b1235" sha1="1899ceea2f37d0a544bee1e3a6dac721f7dad745" date="2015-06-10 13:17:30"/>
+		<rom name="EOB3/CHARGEN/CHARGEN.CPS" size="25914" crc="11d794bc" md5="720a0b092989972b08af80a9e221515f" sha1="5aff3328e5cbe315400fadcf93b1bf18e0ba036d" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/CHARGEN/CHARGENB.CPS" size="7888" crc="cc1661d7" md5="42951c212a1a70ad248706ede9dcee99" sha1="51b4993ca0c797624a76023f2de78145e799becf" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/CHARGEN/CHARPICS.BMP" size="82005" crc="a025e46a" md5="5cf273685ce72fb1b98a4d92b90223c9" sha1="54d73ced911a1d39253dbab8b25a4e79fc073a55" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/CHARGEN/CHGEN.EXE" size="152512" crc="e011cd64" md5="03e13637fbcae31933a2e160dfa68cb2" sha1="a09e666415f5f9ca92d4d505d5104f86ce5667c6" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/CHARGEN/CREATE.SAV" size="46891" crc="a88a98df" md5="10d8bcb1bb9d899e16dfe77096e1f290" sha1="e41464663e1e70aec1ab40612fcc861175084478" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/CHARGEN/EOSPREFS.DAT" size="6" crc="2e4de24c" md5="98c4663d188d55f695716735fe60cbbd" sha1="5fa6e9a74105c1e2297cce17c68288c84a8bda07" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/CHARGEN/FONT6.FNT" size="1028" crc="c787782e" md5="35a29d118c027c2963d6be6d113950b6" sha1="3ee0e066cbbbed927334948c9b120dcd15638c3d" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/CHARGEN/FONT8.FNT" size="1284" crc="a2d675c5" md5="f83e15b5780ff8669cadc30e89730a89" sha1="d815e2efcec753eaefc3f349f0f47f7308f35dbb" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/CHARGEN/ITEM.DAT" size="10385" crc="caae6ed7" md5="5b8c11c3c6d036f308a4cfeb9cb74091" sha1="e07fe7373215b36a983fd201c832dbb5f96fe96d" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/CHARGEN/ITEMICN.CPS" size="11056" crc="78f375a5" md5="1eeb747262e8490b4c557e05a375887d" sha1="b6939d710b03f522cd63d0fc3f44c61684ba9ac1" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/CHARGEN/ITEMTYPE.DAT" size="1026" crc="cf71995c" md5="14e1399c2b293848ae7a7f81a6cd2473" sha1="c98f8a72e81aa90f38714954d1cf46a185e0594a" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/CHARGEN/MGA.OVL" size="9994" crc="50010673" md5="be12f36e4803d7462ba8011b8ce71a84" sha1="52a03c755df301accfd6f2f39ed7b802d6c24f85" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/CHARGEN/PALETTE.COL" size="768" crc="d6f2a62e" md5="b55088b48e62867847c529ae50c4e896" sha1="9656ac560662ec51252a616d3337f648b656a4c4" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/CHARGEN/XGA.OVL" size="12587" crc="591943fc" md5="04e72b8014323b5177d959aa35eab12f" sha1="2f81ac1c0ef7c0befb059fcfeb9c12cf6f299b63" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/CINE.EXE" size="106752" crc="da2e2ae8" md5="21bee9161e9973f6ad58e7f8ceae850c" sha1="2fadc969d0a1caa710e4ef77d4fa05ef6aa48bc9" date="2015-06-10 13:17:30"/>
+		<rom name="EOB3/DARK.GFF" size="609406" crc="bfda4500" md5="e48619d5509c9ed575c4b906831d46a2" sha1="1227717a9f0d55be008dedcdf246264d15d9f14c" date="2015-06-10 13:17:30"/>
+		<rom name="EOB3/DOS4GW.EXE" size="265396" crc="5cc34b0f" md5="006211ca60fa3d4b38a9a8da2ade1056" sha1="c489f83dc15a9ffc3c502707da40e581ec79bfe6" date="1995-07-11 15:05:00"/>
+		<rom name="EOB3/EYE.BAT" size="36" crc="528975ce" md5="0348422bd2d2918961eb84c936e1e738" sha1="7485906e77335ca11d8ba583ebd0793c8335d645" date="2015-06-10 13:53:36"/>
+		<rom name="EOB3/EYE.RES" size="6845522" crc="1448d2f0" md5="4abf3d0e6321a757154e5ad2a72b10ff" sha1="2e0a0e2ef9d1d177def49dd560379628991d4953" date="2015-08-17 10:42:02"/>
+		<rom name="EOB3/FINALE.GFF" size="1135264" crc="b93b9541" md5="a504a8281d46cd4f5940054c7840585a" sha1="3760577b9fc331861df9857c29b07c89e79fc499" date="2015-06-10 13:17:30"/>
+		<rom name="EOB3/INTERP.EXE" size="160629" crc="ba184e61" md5="07484b9679af00c1fbd5928288f19c64" sha1="df57a3f505db93225c87a41bc4ce71724b0e0268" date="1993-10-18 23:03:16"/>
+		<rom name="EOB3/INTRO.GFF" size="1281119" crc="9d596ff9" md5="0485dc8700249d2c1483f3d44db0c03c" sha1="3b2b3d45e5e1bd9419ebb90b3a1de1a7f87b1080" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/LICH.GFF" size="713460" crc="1d65767a" md5="44605127bebabaec54dcc34f58704d79" sha1="44e07a50712f1dfddcfad9476c95eb0e6f7f59b6" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/MCGA.DLL" size="5120" crc="08e0b8d9" md5="36fd343ed7c0011cd56b971c85001094" sha1="48ddf4bbaf8b27d7e7eb088057f735ebeb4af861" date="1993-08-04 12:00:00"/>
+		<rom name="EOB3/MT32MPU.ADV" size="10707" crc="cfd00e6c" md5="0efb9fdfd0827889a34c757fe1df1dd3" sha1="cea64dbdc3c655f5677f892d7e5b33173903d4f4" date="2015-06-10 13:17:30"/>
+		<rom name="EOB3/PCSPKR.ADV" size="8434" crc="092c07c9" md5="da7dbae2f8fb7eab93e752b83192f025" sha1="6b222ac2139362a4648645eb9bedb3a55aa4fd3b" date="2015-06-10 13:17:30"/>
+		<rom name="EOB3/SAVEGAME/ITEMS.TMP" size="20407" crc="a66e8824" md5="a37395d8e019900c6aaa243ebab638a7" sha1="2ea05f14622b3aeaf70a17c59cbbc4202c80fe4d" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/ITEMS_00.BIN" size="20495" crc="5687a4fa" md5="d04382869bf14e0ee4046407d9299421" sha1="f8aadc78fdbed8f9e851e36cffbe4dc644deb7d9" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/ITEMS_01.BIN" size="20407" crc="4af5856b" md5="34556e7b8b1dd4a1ce8f9d662982f336" sha1="59d36890b04ae06b36880df8996d89f3a0060f2a" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL01.TMP" size="12514" crc="73713cc2" md5="da91c96b500b0b506da8b38dd27eba01" sha1="1739afd029f31732cdd5fcbfb97c5eef646cdece" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL01_00.BIN" size="12514" crc="73713cc2" md5="da91c96b500b0b506da8b38dd27eba01" sha1="1739afd029f31732cdd5fcbfb97c5eef646cdece" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL01_01.BIN" size="12514" crc="73713cc2" md5="da91c96b500b0b506da8b38dd27eba01" sha1="1739afd029f31732cdd5fcbfb97c5eef646cdece" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL02.TMP" size="11839" crc="e31d99fe" md5="7b357b22f5f4e0696ecc8940f4aca80e" sha1="291b94864363efa0ea3a3c5fd5da6ecee9b6b7b4" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL02_00.BIN" size="11839" crc="e31d99fe" md5="7b357b22f5f4e0696ecc8940f4aca80e" sha1="291b94864363efa0ea3a3c5fd5da6ecee9b6b7b4" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL02_01.BIN" size="11839" crc="e31d99fe" md5="7b357b22f5f4e0696ecc8940f4aca80e" sha1="291b94864363efa0ea3a3c5fd5da6ecee9b6b7b4" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL03.TMP" size="13436" crc="a5bc6487" md5="62d7715706cdc6f376a70ad77fbbae8c" sha1="fa347ba7d72d579258122718c363e92cd0e801af" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL03_00.BIN" size="13436" crc="a5bc6487" md5="62d7715706cdc6f376a70ad77fbbae8c" sha1="fa347ba7d72d579258122718c363e92cd0e801af" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL03_01.BIN" size="13436" crc="ef2c07f6" md5="252e207951f133292d1d9f184c57f9c0" sha1="49b4c72f438a146b1e81babb94975c33b3d81400" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL04.TMP" size="10249" crc="ab11d2c9" md5="d59b0271daf4827876282bc7d7296dfa" sha1="46860a87fe0d76e5b5eca1eea88ce14bc297290c" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL04_00.BIN" size="10249" crc="ab11d2c9" md5="d59b0271daf4827876282bc7d7296dfa" sha1="46860a87fe0d76e5b5eca1eea88ce14bc297290c" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL04_01.BIN" size="10249" crc="ab11d2c9" md5="d59b0271daf4827876282bc7d7296dfa" sha1="46860a87fe0d76e5b5eca1eea88ce14bc297290c" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL05.TMP" size="10717" crc="484888d7" md5="a40c121a767ae58436fbd3589b72781f" sha1="cdb3ed9d2ccb3ff828a89803930e6366adddaa23" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL05_00.BIN" size="10717" crc="484888d7" md5="a40c121a767ae58436fbd3589b72781f" sha1="cdb3ed9d2ccb3ff828a89803930e6366adddaa23" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL05_01.BIN" size="10717" crc="484888d7" md5="a40c121a767ae58436fbd3589b72781f" sha1="cdb3ed9d2ccb3ff828a89803930e6366adddaa23" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL06.TMP" size="11431" crc="fb6d2b20" md5="a88bc7593e25580f7259bac171c54510" sha1="25ab100cf8a5bc6c4db4c830c5a1e66d4255deec" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL06_00.BIN" size="11431" crc="fb6d2b20" md5="a88bc7593e25580f7259bac171c54510" sha1="25ab100cf8a5bc6c4db4c830c5a1e66d4255deec" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL06_01.BIN" size="11431" crc="fb6d2b20" md5="a88bc7593e25580f7259bac171c54510" sha1="25ab100cf8a5bc6c4db4c830c5a1e66d4255deec" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL07.TMP" size="9929" crc="2ceba184" md5="052f060b9a31ec19291053829b8d8b87" sha1="7aa1eb6121ffe0958cf7c6a20e7a846ea629a7fa" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL07_00.BIN" size="9929" crc="2ceba184" md5="052f060b9a31ec19291053829b8d8b87" sha1="7aa1eb6121ffe0958cf7c6a20e7a846ea629a7fa" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL07_01.BIN" size="9929" crc="2ceba184" md5="052f060b9a31ec19291053829b8d8b87" sha1="7aa1eb6121ffe0958cf7c6a20e7a846ea629a7fa" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL08.TMP" size="11852" crc="d628b764" md5="ad38c83f5a23a1656d02c6280ff1a6c2" sha1="056438de49e1032e91b8af9118d92530057fea78" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL08_00.BIN" size="11852" crc="d628b764" md5="ad38c83f5a23a1656d02c6280ff1a6c2" sha1="056438de49e1032e91b8af9118d92530057fea78" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL08_01.BIN" size="11852" crc="d628b764" md5="ad38c83f5a23a1656d02c6280ff1a6c2" sha1="056438de49e1032e91b8af9118d92530057fea78" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL09.TMP" size="10532" crc="49762066" md5="dead001a2a63b27273738e7ff43791bb" sha1="2934e76b811adcc1fef359c29c90139df2a2c931" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL09_00.BIN" size="10532" crc="49762066" md5="dead001a2a63b27273738e7ff43791bb" sha1="2934e76b811adcc1fef359c29c90139df2a2c931" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL09_01.BIN" size="10532" crc="49762066" md5="dead001a2a63b27273738e7ff43791bb" sha1="2934e76b811adcc1fef359c29c90139df2a2c931" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL10.TMP" size="11267" crc="fc1083a2" md5="90b05c78fd68c09ce582b95360d2001d" sha1="fcce8134b0303d77c51ae3bbef996f36e5b5f25b" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL10_00.BIN" size="11267" crc="fc1083a2" md5="90b05c78fd68c09ce582b95360d2001d" sha1="fcce8134b0303d77c51ae3bbef996f36e5b5f25b" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL10_01.BIN" size="11267" crc="fc1083a2" md5="90b05c78fd68c09ce582b95360d2001d" sha1="fcce8134b0303d77c51ae3bbef996f36e5b5f25b" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL11.TMP" size="9332" crc="71735fae" md5="0541e635e12c1540ed314232a619319b" sha1="97675bef1a462bf731e3c2bccb6299a11d2f55b1" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL11_00.BIN" size="9332" crc="71735fae" md5="0541e635e12c1540ed314232a619319b" sha1="97675bef1a462bf731e3c2bccb6299a11d2f55b1" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL11_01.BIN" size="9332" crc="71735fae" md5="0541e635e12c1540ed314232a619319b" sha1="97675bef1a462bf731e3c2bccb6299a11d2f55b1" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL12.TMP" size="10251" crc="9e1c784b" md5="532966d47ff579dea93059423240567c" sha1="ee9191b1213b4645eefe2f2ac919716fc6c12567" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL12_00.BIN" size="10251" crc="9e1c784b" md5="532966d47ff579dea93059423240567c" sha1="ee9191b1213b4645eefe2f2ac919716fc6c12567" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL12_01.BIN" size="10251" crc="9e1c784b" md5="532966d47ff579dea93059423240567c" sha1="ee9191b1213b4645eefe2f2ac919716fc6c12567" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL13.TMP" size="10122" crc="ecd6cbed" md5="8da56b9c2ebae7737ebb3c57907729a8" sha1="1324d43cb589c4870f5615cfd2f027f71431df77" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL13_00.BIN" size="10122" crc="ecd6cbed" md5="8da56b9c2ebae7737ebb3c57907729a8" sha1="1324d43cb589c4870f5615cfd2f027f71431df77" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL13_01.BIN" size="10122" crc="ecd6cbed" md5="8da56b9c2ebae7737ebb3c57907729a8" sha1="1324d43cb589c4870f5615cfd2f027f71431df77" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL14.TMP" size="10746" crc="31e58618" md5="5ac89cdb441aff9e888d3b4cf26a3c19" sha1="6dabdc5d67a5dc36b8b822d89bf25e9d3f3dac6c" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL14_00.BIN" size="10746" crc="31e58618" md5="5ac89cdb441aff9e888d3b4cf26a3c19" sha1="6dabdc5d67a5dc36b8b822d89bf25e9d3f3dac6c" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/LVL14_01.BIN" size="10746" crc="31e58618" md5="5ac89cdb441aff9e888d3b4cf26a3c19" sha1="6dabdc5d67a5dc36b8b822d89bf25e9d3f3dac6c" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SAVEGAME/SAVEGAME.DIR" size="328" crc="55a005bc" md5="2d642a6af4af15547836a4f17060b2b9" sha1="cc9f96dfd0c88577d80a37e8c21dbb656747a726" date="2015-06-10 13:17:32"/>
+		<rom name="EOB3/SBDIG.ADV" size="4853" crc="a08394cf" md5="9611d829aa3c4c5fcc9310fb2549383d" sha1="f7ba7266ba6b5d7f0f67f8b298f103cda94e77ca" date="2015-06-10 13:17:30"/>
+		<rom name="EOB3/SBLASTER.COM" size="3904" crc="560b7fc6" md5="7251f3dbc311c77f8ca1608777066b59" sha1="1376214ff3bad3cf5bbd1e8944d6b526e2632117" date="2015-06-10 13:17:30"/>
+		<rom name="EOB3/SOUND.EXE" size="34681" crc="37e9ebe4" md5="10227c67b4469a1088010ec90a9d586f" sha1="c8238ccb5a7ecaa296623a55600220f4e89d1a13" date="2015-06-10 13:17:30"/>
+		<rom name="EOB3/STDPATCH.AD" size="5162" crc="a9e2ea82" md5="8b34ba98e9f0ef42b84f953df2c36411" sha1="aca805802ea65a6003665fe4bcd998a9edaa239c" date="2015-06-10 13:17:30"/>
+		<rom name="EOB3/XVA.DRV" size="33086" crc="40402a9a" md5="9b9a12068077890d0bb5c9bfd27962cf" sha1="7ed0bb8147f88764e1fce5927ab542f7081dae64" date="2015-06-10 13:17:30"/>
+		<rom name="Eye of the Beholder Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
 	<game name="Final Doom - The Plutonia Experiment (1996) (id Software) (Steam).dosz">
 		<description>Final Doom: The Plutonia Experiment</description>
 		<year>1996</year>
@@ -5747,20 +5842,21 @@
 	</game>
 	<game name="Quake (1996) (id Software) (GOG).dosz">
 		<description>Quake</description>
-		<comment>v1.08</comment>
-		<comment_dosc>Default GOG config</comment_dosc>
 		<year>1996</year>
 		<developer>id Software</developer>
 		<variant>GOG</variant>
-		<rom name="CWSDPMI.EXE" size="25920" crc="4fc60ecd" md5="cdba7e5b5050d3f3be9ddaf79a943ed4" sha1="d7a811b9d2f887dc94e145ce80dd9ced5fdf1548" date="1996-09-26 14:07:22"/>
-		<rom name="Docs/COMEXP.TXT" size="25462" crc="68bda64a" md5="0575bbd0df753f6e44b7a0f67ffc1413" sha1="606c21d258d58823a605fc20f5c45600d9b0ffb0" date="1996-07-12 18:31:50"/>
-		<rom name="Docs/LICINFO.TXT" size="9308" crc="53dc674a" md5="0f77362a55b35e623d9f4710ed86cda7" sha1="130760d7c88c66bdbfae26e5a75aecdf783532f9" date="1996-10-29 17:33:10"/>
-		<rom name="Docs/TECHINFO.TXT" size="73444" crc="ec4ce17b" md5="d77f9db740e1ab65b874f2727dc68c34" sha1="61b853d47347950936e53fe16f133b725a095108" date="2001-09-06 17:57:12"/>
+		<comment>v1.08</comment>
+		<comment_dosc>640x480 resolution, mouse look enabled, auto start</comment_dosc>
+		<link type="store">https://www.gog.com/en/game/quake_the_offering</link>
 		<rom name="game.cue" size="477" crc="913f3c04" md5="904c3b60ea72df51529f5f2e7338ccd4" sha1="e3d6350abcee29451a8c2f378ca60078dc9659d8" date="2015-08-26 20:49:10"/>
 		<rom name="game.gog" size="767725728" crc="44136b44" md5="f91e5688efd91eefc6d42c6626cb89a4" sha1="041c0a99c3c6cdad3c8cb8605f0a6151ddef8a3a" date="2007-01-29 00:34:14"/>
-		<rom name="id1/PAK0.PAK" size="18689235" crc="74e3b084" md5="5906e5998fc3d896ddaf5e6a62e03abb" sha1="36b42dc7b6313fd9cabc0be8b9e9864840929735" date="1996-10-01 16:25:58"/>
-		<rom name="id1/PAK1.PAK" size="34257856" crc="2e803216" md5="d76b3e5678f0b64ac74ce5e340e6a685" sha1="6fd0d1643047612f41afb2001b972d830c792921" date="1996-07-12 19:31:52"/>
-		<rom name="quake.exe" size="409600" crc="3bc26700" md5="e3e7fcc920610a5fa66c1dd030939fac" sha1="97427017467717a78b1b9e4a01b70ef0f7161856" date="1997-03-11 20:29:24"/>
+		<rom name="CWSDPMI.EXE" size="25920" crc="4fc60ecd" md5="cdba7e5b5050d3f3be9ddaf79a943ed4" sha1="d7a811b9d2f887dc94e145ce80dd9ced5fdf1548" date="1996-09-26 14:07:22"/>
+		<rom name="DOCS/COMEXP.TXT" size="25462" crc="68bda64a" md5="0575bbd0df753f6e44b7a0f67ffc1413" sha1="606c21d258d58823a605fc20f5c45600d9b0ffb0" date="1996-07-12 18:31:50"/>
+		<rom name="DOCS/LICINFO.TXT" size="9308" crc="53dc674a" md5="0f77362a55b35e623d9f4710ed86cda7" sha1="130760d7c88c66bdbfae26e5a75aecdf783532f9" date="1996-10-29 17:33:10"/>
+		<rom name="DOCS/TECHINFO.TXT" size="73444" crc="ec4ce17b" md5="d77f9db740e1ab65b874f2727dc68c34" sha1="61b853d47347950936e53fe16f133b725a095108" date="2001-09-06 17:57:12"/>
+		<rom name="ID1/PAK0.PAK" size="18689235" crc="74e3b084" md5="5906e5998fc3d896ddaf5e6a62e03abb" sha1="36b42dc7b6313fd9cabc0be8b9e9864840929735" date="1996-10-01 16:25:58"/>
+		<rom name="ID1/PAK1.PAK" size="34257856" crc="2e803216" md5="d76b3e5678f0b64ac74ce5e340e6a685" sha1="6fd0d1643047612f41afb2001b972d830c792921" date="1996-07-12 19:31:52"/>
+		<rom name="QUAKE.EXE" size="409600" crc="3bc26700" md5="e3e7fcc920610a5fa66c1dd030939fac" sha1="97427017467717a78b1b9e4a01b70ef0f7161856" date="1997-03-11 20:29:24"/>
 	</game>
 	<game name="Quake Mission Pack No. 1 - Scourge of Armagon (1997) (Hipnotic Interactive) (GOG).dosz">
 		<description>Quake Mission Pack No. 1: Scourge of Armagon</description>
@@ -5769,14 +5865,14 @@
 		<variant>GOG</variant>
 		<parent>Quake (1996) (id Software) (GOG).dosz</parent>
 		<comment>v1.0</comment>
-		<comment_dosc>640x480 resolution and auto start</comment_dosc>
 		<link type="store">https://www.gog.com/en/game/quake_the_offering</link>
+		<rom name="Quake (1996) (id Software) (GOG).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="gamea.cue" size="443" crc="892191f7" md5="af2fff72a5e58eb4c73cdf66ea95ebc3" sha1="255b3cea7126f97d35e562337a78685f80109c01" date="2015-08-26 20:52:38"/>
 		<rom name="gamea.gog" size="335849136" crc="49aa1fa3" md5="c50f090c78438469986d8dbeb01274cf" sha1="d5d40211953c35293fbb055a8566ae8a09d77731" date="2015-08-26 20:51:06"/>
-		<rom name="hipnotic/docs/manual.txt" size="26289" crc="8549c5af" md5="fa009a559420f7a123826a7d97151df3" sha1="64107644b9ae9f59ee30c2e093ec03d5d196e0c1" date="2015-08-06 12:29:38"/>
-		<rom name="hipnotic/docs/readme.txt" size="15337" crc="f32f48d6" md5="c7873e445ff24aae561dea2c90d9aa7e" sha1="d94f9b12d07b643561bcf6eb34f4c39efb26a965" date="2015-08-06 12:28:56"/>
-		<rom name="hipnotic/pak0.pak" size="35527205" crc="d17835fb" md5="0ab83681aaf841c4320269e02941a14a" sha1="1b089a41dd0cf9268668a5072acfb858a7fb8cc2" date="1997-02-11 20:41:06"/>
-		<rom name="Quake (1996) (id Software) (GOG).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="HIPNOTIC/DOCS/MANUAL.TXT" size="26289" crc="8549c5af" md5="fa009a559420f7a123826a7d97151df3" sha1="64107644b9ae9f59ee30c2e093ec03d5d196e0c1" date="2015-08-06 12:29:38"/>
+		<rom name="HIPNOTIC/DOCS/README.TXT" size="15337" crc="f32f48d6" md5="c7873e445ff24aae561dea2c90d9aa7e" sha1="d94f9b12d07b643561bcf6eb34f4c39efb26a965" date="2015-08-06 12:28:56"/>
+		<rom name="HIPNOTIC/PAK0.PAK" size="35527205" crc="d17835fb" md5="0ab83681aaf841c4320269e02941a14a" sha1="1b089a41dd0cf9268668a5072acfb858a7fb8cc2" date="1997-02-11 20:41:06"/>
+		<rom name="PLAY.BAT" size="17" crc="181ab458" md5="1674a08ccbb0abaf5ca5deddae067519" sha1="82823c2b2c7c7428d315993098536dfb8da8edb0" data="cXVha2UgLWhpcG5vdGljDQo="/>
 	</game>
 	<game name="Quake Mission Pack No. 2 - Dissolution of Eternity (1997) (Rogue Entertainment) (GOG).dosz">
 		<description>Quake Mission Pack No. 2: Dissolution of Eternity</description>
@@ -5785,22 +5881,22 @@
 		<variant>GOG</variant>
 		<parent>Quake (1996) (id Software) (GOG).dosz</parent>
 		<comment>v1.0</comment>
-		<comment_dosc>640x480 resolution and auto start</comment_dosc>
 		<link type="store">https://www.gog.com/en/game/quake_the_offering</link>
+		<rom name="Quake (1996) (id Software) (GOG).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="gamed.cue" size="400" crc="2c041db7" md5="a4762f868ee0921608d23f92a3c3b981" sha1="42f3cd8b313c5b66bf717c34cebbdb6ab7b68d54" date="2015-08-26 20:51:56"/>
 		<rom name="gamed.gog" size="349963488" crc="f98c0282" md5="7461d62fdd7f0fa0b4fc369281784cac" sha1="5c979a8cbfb0e01f54a455741df54b5bf8daf6a2" date="2006-11-08 02:29:20"/>
-		<rom name="Quake (1996) (id Software) (GOG).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
-		<rom name="rogue/1FLAG.BAT" size="48" crc="b78e9625" md5="5508244d4357015601337588783db89d" sha1="c48fd909948932789aba974a0fb215af49776dd9" date="1997-03-09 13:52:14"/>
-		<rom name="rogue/3TEAM.BAT" size="48" crc="2e6cf024" md5="a01a32476eed878f7ecee4967c3bde76" sha1="af879a3562f3bb46bf24002ee0a0e74d92985be1" date="1997-03-09 13:52:20"/>
-		<rom name="rogue/CTF.BAT" size="48" crc="760049e5" md5="150688afdaa5750e28a943fccda8c5c5" sha1="b524e7f4a2888df9b11877af4329510c92af1a74" date="1997-03-09 13:52:26"/>
-		<rom name="rogue/DEDICATE.BAT" size="40" crc="c0a14592" md5="d4d713a98401ada0aef5028ccc3d9429" sha1="4b15224854b17187d5347a151299ac078eaf7926" date="1997-03-09 13:52:36"/>
-		<rom name="rogue/DISS.BAT" size="18" crc="4b474473" md5="d75b4947393954004557acfb67e1f213" sha1="797fd4f47b23c9b0731fbb56875ec4b9f7849650" date="1997-03-11 11:31:32"/>
-		<rom name="rogue/docs/ctf.txt" size="5951" crc="a7298bcd" md5="4b041f0feaa269e8c056e55673351a77" sha1="09f5bd9d54985afce030ece22aa020786aab6110" date="1997-03-10 19:55:16"/>
-		<rom name="rogue/docs/manual.txt" size="29498" crc="92d2176a" md5="f2026e6931b687e9da80cc5b94aa6b05" sha1="ea099ea22290a0867fd3582536863aa2c932de8c" date="2015-08-06 12:31:38"/>
-		<rom name="rogue/docs/readme.txt" size="15652" crc="1b4d8549" md5="7ec51151004a1ab1f930a81bff520812" sha1="7200895a08d2be3f9114c108d2c8bf4027dd866a" date="2015-08-06 12:30:52"/>
-		<rom name="rogue/LISTEN.BAT" size="26" crc="ee3db7a8" md5="2aa14e2dfe1476f3f7f4e8fc5800d216" sha1="ed95dde24333db09a2b3b308ccfc7d8fb3370b2e" date="1997-03-11 11:31:24"/>
-		<rom name="rogue/pak0.pak" size="37875279" crc="38b70ce8" md5="c38a4e04219c317cd1b02f386bdfe11f" sha1="78df8ce771d1bef5eb9da3d51c7628b11b4ae2c8" date="1997-03-11 16:35:30"/>
-		<rom name="rogue/TAG.BAT" size="49" crc="6200c184" md5="76e402dbe29b4ef690d1782317722a9a" sha1="555bdf58d60674d735fffe9a14d5610f9cbe89b5" date="1997-03-07 17:38:20"/>
+		<rom name="PLAY.BAT" size="14" crc="f88ff68e" md5="119fcb30dd5f3406145dbbdbba620c61" sha1="410599a0980b4da16ae82a7b9b2442c2a13b946e" data="cXVha2UgLXJvZ3VlDQo="/>
+		<rom name="ROGUE/1FLAG.BAT" size="48" crc="b78e9625" md5="5508244d4357015601337588783db89d" sha1="c48fd909948932789aba974a0fb215af49776dd9" date="1997-03-09 13:52:14"/>
+		<rom name="ROGUE/3TEAM.BAT" size="48" crc="2e6cf024" md5="a01a32476eed878f7ecee4967c3bde76" sha1="af879a3562f3bb46bf24002ee0a0e74d92985be1" date="1997-03-09 13:52:20"/>
+		<rom name="ROGUE/CTF.BAT" size="48" crc="760049e5" md5="150688afdaa5750e28a943fccda8c5c5" sha1="b524e7f4a2888df9b11877af4329510c92af1a74" date="1997-03-09 13:52:26"/>
+		<rom name="ROGUE/DEDICATE.BAT" size="40" crc="c0a14592" md5="d4d713a98401ada0aef5028ccc3d9429" sha1="4b15224854b17187d5347a151299ac078eaf7926" date="1997-03-09 13:52:36"/>
+		<rom name="ROGUE/DISS.BAT" size="18" crc="4b474473" md5="d75b4947393954004557acfb67e1f213" sha1="797fd4f47b23c9b0731fbb56875ec4b9f7849650" date="1997-03-11 11:31:32"/>
+		<rom name="ROGUE/DOCS/CTF.TXT" size="5951" crc="a7298bcd" md5="4b041f0feaa269e8c056e55673351a77" sha1="09f5bd9d54985afce030ece22aa020786aab6110" date="1997-03-10 19:55:16"/>
+		<rom name="ROGUE/DOCS/MANUAL.TXT" size="29498" crc="92d2176a" md5="f2026e6931b687e9da80cc5b94aa6b05" sha1="ea099ea22290a0867fd3582536863aa2c932de8c" date="2015-08-06 12:31:38"/>
+		<rom name="ROGUE/DOCS/README.TXT" size="15652" crc="1b4d8549" md5="7ec51151004a1ab1f930a81bff520812" sha1="7200895a08d2be3f9114c108d2c8bf4027dd866a" date="2015-08-06 12:30:52"/>
+		<rom name="ROGUE/LISTEN.BAT" size="26" crc="ee3db7a8" md5="2aa14e2dfe1476f3f7f4e8fc5800d216" sha1="ed95dde24333db09a2b3b308ccfc7d8fb3370b2e" date="1997-03-11 11:31:24"/>
+		<rom name="ROGUE/PAK0.PAK" size="37875279" crc="38b70ce8" md5="c38a4e04219c317cd1b02f386bdfe11f" sha1="78df8ce771d1bef5eb9da3d51c7628b11b4ae2c8" date="1997-03-11 16:35:30"/>
+		<rom name="ROGUE/TAG.BAT" size="49" crc="6200c184" md5="76e402dbe29b4ef690d1782317722a9a" sha1="555bdf58d60674d735fffe9a14d5610f9cbe89b5" date="1997-03-07 17:38:20"/>
 	</game>
 	<game name="Red Baron (1990) (Dynamix) (GOG).dosz">
 		<description>Red Baron</description>
