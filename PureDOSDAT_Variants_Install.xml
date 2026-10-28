@@ -1016,12 +1016,13 @@
 		<rom name="disk1.img" size="1474560" crc="1bb37ea8" md5="c3b2b01d5b35e1bb42b9006abc28389d" sha1="5e52568cafa2038d241cc728f9b07e9b97d30c14"/>
 		<rom name="disk2.img" size="1474560" crc="1e1cbaf8" md5="a888d1f6983f13e99948db19146762aa" sha1="ea0e8799b8678b5f8c0ae3ccf853827f9e1f921b"/>
 	</game>
-	<game name="Sid Meier's Colonization (1994) (MPS Labs) (Installation, v2.25).dosz">
+	<game name="Sid Meier's Colonization (1994) (MPS Labs) (Installation).dosz">
 		<description>Sid Meier's Colonization</description>
-		<comment>European CD-ROM re-release</comment>
 		<year>1994</year>
 		<developer>MPS Labs</developer>
-		<variant>Installation, v2.25</variant>
+		<variant>Installation</variant>
+		<comment>European CD-ROM re-release</comment>
+		<link type="media">https://redump.info/disc/49894</link>
 		<rom name="Sid Meier's Colonization (Europe) (En,Fr,De) (Rerelease).chd" size="59104512" crc="6ff5acac" md5="ed43df0b966de8944799722dca0d1268" sha1="4e02ed0af815d380da331624c542d3d57dc25d26">
 			<track number="1" type="MODE1_RAW" frames="24132" pregap="0" duration="05:21:57" size="56758464" crc="854b6737" md5="1dd27943431d88d96d0df47baaf6d9a0" sha1="3e020778aa2e6bd89f6a3186e3be73a963ab619b" in_zeros="1" out_zeros="0"/>
 		</rom>
