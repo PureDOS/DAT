@@ -42,6 +42,7 @@ foreach my $m (@files)
 					my ($fname, $fsize, $fcrc, $fmd5, $fsha1, $fyear,$fmon,$fday,$fhour,$fmin,$fsec, $fdata, $romslash) = ($1, int($2), $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13);
 					$fname =~ s/\\/\//g;$fname=~s/\&amp;/\&/g;$fname=~s/\&\#(\d+);/pack("C",$1)/eg;$fname=~s/\&lt;/</g;$fname=~s/\&quot;/\"/g;$fname=~s/\&gt;/>/g;$fname=~s/\&apos;/\'/g;
 					if ($fname =~ /([\x7F-\xFF])/) { $XMLErr->("Bad character contained in file list (in '$fname')"); }
+					if ($fsize > 0xFFFFFFFF) { $XMLErr->("Size of file '$fname' exceeds maximum of 4GB"); }
 					if (index($fname, ".parent") >= 0)
 					{
 						if ($fsize) { $XMLErr->("Parent file '$fname' has size $fsize (should be 0)"); }
@@ -90,7 +91,7 @@ foreach my $m (@files)
 					elsif ($description =~ /, (The|An|A)/ && !$unverified) { } # reported with Err below
 					elsif (!$unverified) # too many errors in unverified
 					{
-						my $expectdesc = $ingame; $expectdesc =~ s/^(.*?), (The|An|A)/\2 \1/;
+						my $expectdesc = $ingame; $expectdesc =~ s/^(.*?), (The|An|A)/\2 \1/; $expectdesc =~ s/\) \[([^\]]+)\]$/\)/;
 						my $expectname = $description.' ('.$year.') ('.$developer.')'.($g->{variant}?' ('.$g->{variant}.')' : ''); $expectname =~ s/\: / - /;
 						if ($expectdesc ne $expectname) { $XMLErr->("Game name doesn't match 'DESCRIPTION (YEAR) (DEVELOPER) (VARIANT)' template (expected  '$expectname')"); }
 					}
@@ -149,7 +150,12 @@ foreach my $m (@files)
 				if ($lastingame && ("\L$lastingame" cmp "\L$ingame") > 0) { $XMLErr->("Wrongly sorted after '$lastingame'"); }
 				$lastingame = $ingame;
 			}
-			elsif ($inheader == 1) { if ($ln eq "</header>") { $inheader = 2; } }
+			elsif ($inheader == 1)
+			{
+				if ($ln eq "</header>") { $inheader = 2; }
+				elsif ($ln =~ /^<(name|description|version|date|author|homepage|url)>([^<]+)<\/\1>$/) { }
+				else { $XMLErr->("Unknown XML header line [$ln]"); $inheader = 2; }
+			}
 			elsif ($ln eq "<header>" && !$inheader) { $inheader = 1; }
 			elsif ($ln eq '<datafile>') {}
 			elsif ($ln eq '</datafile>') { $inheader = 0; }
