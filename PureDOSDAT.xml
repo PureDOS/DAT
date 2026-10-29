@@ -19848,10 +19848,14 @@
 	</game>
 	<game name="Sid Meier's Railroad Tycoon (1990) (MPS Labs).dosz">
 		<description>Sid Meier's Railroad Tycoon</description>
-		<comment>Installed from v455.03 1995 re-release CD</comment>
-		<comment_dosc>Sound config, patch to disable copy protection, and auto run</comment_dosc>
 		<year>1990</year>
 		<developer>MPS Labs</developer>
+		<comment>
+			Installed from v455.03 1995 re-release CD matching with Redump: Sid Meier's Railroad Tycoon (USA) (Rerelease)
+			DoDAT can build this directly from the disc image.
+		</comment>
+		<comment_dosc>Sound config, patch to disable copy protection, game speed reduced, direct mouse enabled, and auto run. MT-32 and General MIDI options</comment_dosc>
+		<link type="media">https://redump.info/disc/86388</link>
 		<rom name="ADVERT.PIC" size="8905" crc="c02f5e45" md5="6e1402e0877a778939ae03642ff7f3ae" sha1="ccb0db61aed1cf01837b0b472253bcebfff82931" date="1990-03-26 16:38:00"/>
 		<rom name="ASOUND.RR" size="16844" crc="9dde887e" md5="f4fb04621df7b6d66415cf0a7c3952b1" sha1="f59097ed9bf8648fd6f551a7b9a8f6edb715e2a3" date="1995-04-28 12:48:16"/>
 		<rom name="BOOTALT.EXE" size="88239" crc="687c55e8" md5="636b2981f0c5aec49ad2c05c5e01c6e7" sha1="1bcd4c4c0f995eb94b9406977ea173ff2d390cee" date="1995-04-26 19:51:58"/>
