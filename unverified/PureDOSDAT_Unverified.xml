@@ -60998,9 +60998,14 @@
 		<description>Sid Meier's Covert Action</description>
 		<year>1990</year>
 		<developer>MPS Labs</developer>
-		<comment>Installed v447.01 from 3.5" floppy disks matching The Good Old Days ID: 737</comment>
-		<comment_dosc>Auto start, VGA mode, AdLib and MT-32 options, keyboard only</comment_dosc>
+		<comment>
+			Installed v447.01 from 3.5" floppy disks matching The Good Old Days ID: 737
+			Also matches with TDC#23 entry: Sid Meier's Covert Action v447.01 (1990)(MicroProse Software, Inc.) [Action, Adventure, Simulation][!]
+			DoDAT can build this directly from the disk images.
+		</comment>
+		<comment_dosc>Auto start, VGA mode, AdLib and MT-32 options, keyboard only, game speed reduced, and copy protection removal</comment_dosc>
 		<link type="media">https://www.goodolddays.net/en/diskimages/?id=737</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Sid+Meier%27s+Covert+Action+v447.01+(1990)(MicroProse+Software,+Inc.)+%5BAction,+Adventure,+Simulation%5D%5B!%5D</link>
 		<rom name="AD.PIC" size="8965" crc="f5ab696e" md5="c0157200d41415fd707bc03bc411de2d" sha1="01f26363142d1e4b04916e9c96df7f6b48227241" date="1990-10-10 12:02:16"/>
 		<rom name="AFRICA.PIC" size="4222" crc="3dded814" md5="af39e535846712116514f2b988269808" sha1="2e69548431120a056f66e50d9a862650aa3d99ee" date="1990-10-02 14:52:50"/>
 		<rom name="ASOUND.CA" size="16333" crc="58ee637d" md5="070766e87feb1be1cc2a865a9c8f2f5d" sha1="40f670e720d6b72037bf8416766bbb5137ed3484" date="1990-10-18 10:27:22"/>
