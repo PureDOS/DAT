@@ -31608,6 +31608,40 @@
 		<rom name="416.CC" size="340961" crc="819f9ca0" md5="ce80764504c428e0943c189abb1f7fb9" sha1="32bdc454d19669dc593715abd7f39d2a4880ea8b" date="1995-12-20 11:58:34"/>
 		<rom name="KB.EXE" size="113718" crc="b5c41801" md5="691a88edbf0a2a1244dd1239ed4421f0" sha1="9a1c18fcfb5c2496ab0dc361d4db7d0788e64006" date="1995-12-20 12:10:58"/>
 	</game>
+	<game name="King's Quest I - Quest for the Crown (1990) (Sierra On-Line).dosz">
+		<description>King's Quest I: Quest for the Crown</description>
+		<year>1990</year>
+		<developer>Sierra On-Line</developer>
+		<comment>
+			Installed from King's Quest - Collector's Edition CD-ROM US release, verified by Redump: King's Quest - Collector's Edition (USA) (En,Fr,De) (Disc 1)
+			Can also be installed from Redump-verified CD-ROM: King's Quest - Collector's Edition (Europe) (En,Fr,De) (Disc 1)
+			Or TDC#23 entry: King's Quest- Collection Series (1997)(Sierra On-Line, Inc.) [bin-cue]
+			DoDAT can build this directly from the disc image.
+		</comment>
+		<comment_dosc>Config file, MT-32 launch option, game speed reduced, direct mouse enabled, and auto start</comment_dosc>
+		<link type="media">https://redump.info/disc/14878</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/King%27s+Quest-+Collection+Series+(1997)(Sierra+On-Line,+Inc.)+%5Bbin-cue%5D</link>
+		<rom name="ADL.DRV" size="9778" crc="9f2cea3f" md5="e022fac068d78e62b21a1cc938a2f450" sha1="9ff3c144724819c7cd3bb2c773daab7332cc4beb" date="1990-01-31 11:47:24"/>
+		<rom name="EGA320.DRV" size="2816" crc="39394665" md5="582e472629f183ec55c113c0363c9c69" sha1="665b85e357c71d313677f279dca4b26ce7bbfabe" date="1990-05-14 17:14:48"/>
+		<rom name="IBMKBD.DRV" size="449" crc="1f125b48" md5="fdf344726b857a44934eb14dd0d37c59" sha1="e94d542e4d78d09f3cc4a3784a411d825fb7d3ff" date="1990-07-06 14:48:14"/>
+		<rom name="INSTALL.EXE" size="142232" crc="0142dc19" md5="eb99d7e054fd9cc8547268c1b2619e03" sha1="17ee3e86f5fbd522f6b557fa1bbbed2230dea836" date="1993-03-01 01:04:00"/>
+		<rom name="INSTALL.HLP" size="20894" crc="529f6fee" md5="a6636010a5ee0abb053464dab88bde48" sha1="4cad7fe245343c27c0e53686845e5cf3c6374bde" date="1994-04-13 18:04:22"/>
+		<rom name="INSTALL.SCR" size="1924" crc="6206536c" md5="0f27a048b3bd2068289d6e0a49ac4c1b" sha1="466f3691eb44c7b1c13bbb6f2983cf60094e9ee5" date="1994-07-22 14:17:10"/>
+		<rom name="INSTALL.TXT" size="9501" crc="d4bce6c5" md5="c959ec0cbe3be152ac9586d95745b0d2" sha1="6f2f38de945e117e96a5459981d90e0717532d9d" date="1993-12-20 16:30:24"/>
+		<rom name="JOYSTICK.DRV" size="541" crc="fa815721" md5="c1a273f3ac6f9e39ae14b1399f0b26a7" sha1="c15c5563076bbc7531e71b337c8384c190889b2c" date="1990-02-21 08:51:20"/>
+		<rom name="MCGA320.DRV" size="2763" crc="db0e22be" md5="38bce122a5fb4315cf337c132143634a" sha1="0bd5b9d2cb1839a4b8258271699938dfbc8386ec" date="1990-07-27 09:31:10"/>
+		<rom name="MT32.DRV" size="3176" crc="0e2cbcc9" md5="672de4b90b174ef93f53324afe0eb77a" sha1="17c17d21a806bbb6d187f97ca5f64a2ccbbf3b91" date="1990-07-17 15:32:34"/>
+		<rom name="README" size="30" crc="02ba7421" md5="a4d8c200c1be2c4ca1ee52ece146dbc0" sha1="2fafedfd1deeb3bb38721ccf81410c773a6c1220" date="1994-06-14 09:06:52"/>
+		<rom name="RESOURCE.001" size="555439" crc="53cb0dcb" md5="61d2c18d417757a243ee23530e2b66f7" sha1="e5bbb71b8733e736844110f4fa77ca730e1c3b8b" date="1990-09-18 14:11:14"/>
+		<rom name="RESOURCE.002" size="714062" crc="035896e3" md5="535cff6caffa8a136a510b83e53e6a37" sha1="350a9d5fbe63f225edfbac5b43559d6976401f00" date="1990-09-18 14:13:28"/>
+		<rom name="RESOURCE.003" size="717478" crc="ef6e1625" md5="399526394f0f7174ba39f6cc99b777ef" sha1="044e9d7e59846e6ef0a10e4491e4396cf4783fff" date="1990-09-18 14:15:44"/>
+		<rom name="RESOURCE.MAP" size="5790" crc="448df636" md5="fcf6a00f2ff4715bf8ea65388458179d" sha1="3545e5cbd0d530ed1db14cb2170f7c383d333075" date="1990-09-18 14:15:44"/>
+		<rom name="SCIV.EXE" size="56504" crc="ed429261" md5="8fc1a3d2c9c60654b02caf0b88ea7c20" sha1="42bf8855f4b88c53567e3569b94e55ab9a20920e" date="1990-09-11 12:41:40"/>
+		<rom name="SIERRA.COM" size="538" crc="0d3eab36" md5="48e6faeb6af8e540fed0523f17ec4c0d" sha1="7929b8884810aad1ac234fba46769837b609aa14" date="1988-11-29 13:44:48"/>
+		<rom name="SNDBLAST.DRV" size="11296" crc="3acb9056" md5="f95cabc527abb7a15680def67ab6dc46" sha1="dbb0dd9fd6ee87d410f225ab9db0604cb6f005d3" date="1990-07-19 13:24:10"/>
+		<rom name="STD.DRV" size="2466" crc="05dbf64a" md5="53f67f80f57577c0ef2e8bf897f45b4c" sha1="0e31e9ad630caa682e4ffcf236ed51f062fe6291" date="1990-01-18 10:38:16"/>
+		<rom name="VERSION" size="11" crc="fbc8ec09" md5="68e24836e1d647b9d54a80ed0eae7e56" sha1="c6bc7b7bd61966657d0603a402af7240d3303e8a" date="1990-09-17 18:07:36"/>
+	</game>
 	<game name="Kingdom - The Far Reaches (1996) (Interplay).dosz">
 		<description>Kingdom - The Far Reaches</description>
 		<comment>Files extracted from Redump-verified CD-ROM: Kingdom - The Far Reaches (Europe)</comment>
