@@ -2727,6 +2727,42 @@
 		<rom name="VGALEMMI.EX_" size="32706" crc="c3b7db59" md5="a540f2649ae6790ea3fb679f5acefd02" sha1="17e79989a0019e3e23f0733e01b1b2fbd937ee08" date="1991-11-14 13:34:32"/>
 		<rom name="VGALEMMI.EXE" size="33007" crc="17aba803" md5="08f692190f6af437155a34a2404e3492" sha1="67aee5b891e9d2e99f988e167e51f6681f10363c" date="1991-11-29 00:56:44"/>
 	</game>
+	<game name="QBasic Gorillas (1990) (Sparcie, Microsoft) (CPU Opponent).dosz">
+		<description>QBasic Gorillas</description>
+		<year>1990</year>
+		<developer>Sparcie, Microsoft</developer>
+		<variant>CPU Opponent</variant>
+		<comment>See main variant comment for instructions how to build</comment>
+		<comment_dosc>Auto start, limit CPU speed</comment_dosc>
+		<link type="media">https://puredos.github.io/dat-browser/?/Microsoft+Gorillas+%5Bf2%5D+(1990)(Microsoft+Corporation)+%5BStrategy%5D</link>
+		<rom name="GORILLA.BAT" size="23" crc="fae7ccfa" md5="eeb8ba0ceba522b7ce17c5a61599ff35" sha1="b293a3f6a79670230c91a06df139af7f0cd9d407" data="UUJBU0lDIC9SVU4gR09SSUxMQS5CQVM="/>
+		<rom name="GORILLA.BAS" size="31463" crc="548cb1ab" md5="fd8f81c61319769ac2636cf1676e0b75" sha1="4f9473c40c271d7eddf70a6f55149234320af3ea" date="2016-05-04 19:11:20"/>
+		<rom name="QBASIC.EXE" size="194309" crc="3152911c" md5="f84f0bf74b830603a29f77b11b9e4833" sha1="92be77d638779de9e65a9798cd413197907bfab8" date="1993-09-30 06:20:00"/>
+	</game>
+	<game name="QBasic Gorillas (1991) (IBM) (IBM Release).dosz">
+		<description>QBasic Gorillas</description>
+		<year>1991</year>
+		<developer>IBM</developer>
+		<variant>IBM Release</variant>
+		<comment>See main variant comment for instructions how to build</comment>
+		<comment_dosc>Auto start, limit CPU speed</comment_dosc>
+		<link type="media">https://puredos.github.io/dat-browser/?/QBasic+Gorillas+(1991)(IBM,+Microsoft+Corporation)+%5BStrategy%5D</link>
+		<rom name="GORILLA.BAT" size="23" crc="fae7ccfa" md5="eeb8ba0ceba522b7ce17c5a61599ff35" sha1="b293a3f6a79670230c91a06df139af7f0cd9d407" data="UUJBU0lDIC9SVU4gR09SSUxMQS5CQVM="/>
+		<rom name="GORILLA.BAS" size="30702" crc="660b3cbe" md5="d183af2b5f81aecc692a681a81869a7e" sha1="03154783ae603b38c51f24f3c655198188f920ba" date="1996-08-13 10:52:56"/>
+		<rom name="QBASIC.EXE" size="194309" crc="3152911c" md5="f84f0bf74b830603a29f77b11b9e4833" sha1="92be77d638779de9e65a9798cd413197907bfab8" date="1993-09-30 06:20:00"/>
+	</game>
+	<game name="QBasic Gorillas (1997) (Daniel Beardsmore, Microsoft) (Deluxe Edition).dosz">
+		<description>QBasic Gorillas</description>
+		<year>1997</year>
+		<developer>Daniel Beardsmore, Microsoft</developer>
+		<variant>Deluxe Edition</variant>
+		<comment>Available on homepage</comment>
+		<comment_dosc>Auto star, limit CPU speed</comment_dosc>
+		<link type="freeware">https://telcontar.net/Misc/Gorillas/</link>
+		<rom name="GORILLA.BAT" size="23" crc="fae7ccfa" md5="eeb8ba0ceba522b7ce17c5a61599ff35" sha1="b293a3f6a79670230c91a06df139af7f0cd9d407" data="UUJBU0lDIC9SVU4gR09SSUxMQS5CQVM="/>
+		<rom name="GORILLA.BAS" size="71477" crc="64abb4d9" md5="30da0df4b875f85841cb8ed5f8834541" sha1="0eed28347e4cea2758d970e34650934bfe89bfea" date="2007-11-25 04:59:10"/>
+		<rom name="QBASIC.EXE" size="194309" crc="3152911c" md5="f84f0bf74b830603a29f77b11b9e4833" sha1="92be77d638779de9e65a9798cd413197907bfab8" date="1993-09-30 06:20:00"/>
+	</game>
 	<game name="Raptor - Call of the Shadows (1994) (Cygnus Studios) (Shareware).dosz">
 		<description>Raptor - Call of the Shadows</description>
 		<year>1994</year>
