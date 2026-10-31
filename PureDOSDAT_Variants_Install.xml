@@ -10,6 +10,30 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
 	</header>
+	<game name="Advanced Dungeons &amp; Dragons - Eye of the Beholder I, II &amp; III (1995) (SSI) (Installation).dosz">
+		<description>Advanced Dungeons &amp; Dragons: Eye of the Beholder I, II &amp; III</description>
+		<year>1995</year>
+		<developer>SSI</developer>
+		<variant>Installation</variant>
+		<comment>Contains Eye of the Beholder I, II and III</comment>
+		<link type="media">https://redump.info/disc/90457</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Forgotten+Realms+Archives,+The+(Silver+Edition)+(1999)(Interplay+Entertainment+Corp.)+%5Bbin-cue%5D</link>
+		<rom name="Advanced Dungeons &amp; Dragons - Eye of the Beholder I, II &amp; III (USA).chd" size="38639232" crc="98d608bb" md5="7e028f66b43cc779334e2fdbcb3c8cac" sha1="68d0b41dc5b26008e9089399f0ff6f0ba9fc846f">
+			<track number="1" type="MODE1_RAW" frames="15774" duration="03:30:24" size="37100448" crc="2a6448e9" md5="4fe66dff9529d9771bccf7c99826c809" sha1="22b67b054abf2e9e29aa6e9e33fb92d237b79844"/>
+		</rom>
+	</game>
+	<game name="Advanced Dungeons &amp; Dragons - Masterpiece Collection - Disc 1 (1996) (Mindscape) (Installation).dosz">
+		<description>Advanced Dungeons &amp; Dragons: Masterpiece Collection - Disc 1</description>
+		<year>1996</year>
+		<developer>Mindscape</developer>
+		<variant>Installation</variant>
+		<comment>Used to install Ravenloft: Strahd's Possession v1.2</comment>
+		<link type="media">https://redump.info/disc/90624</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Advanced+Dungeons+&amp;+Dragons+Masterpiece+Collection+(1996)(Mindscape,+Inc.,+Strategic+Simulations,+Inc.)+%5Bbin-cue%5D</link>
+		<rom name="Advanced Dungeons &amp; Dragons - Masterpiece Collection (USA) (Disc 1) (Shattered Lands + Strahd's Possession + Genie's Curse).chd" size="518055552" crc="c811c5a6" md5="01f4a65eec135e80a25bb8cc9485336b" sha1="1d8eff91f49d244400de630ebc751ebb239abe9e">
+			<track number="1" type="MODE1_RAW" frames="211570" pregap="0" duration="47:00:70" size="497612640" crc="1f43e218" md5="56fb9e6505863cd2a3d57081ae3997c0" sha1="966005cf074a64f4cad6cf66e20561199c315aac"/>
+		</rom>
+	</game>
 	<game name="Alien Breed (1993) (Team 17) (Installation).dosz">
 		<description>Alien Breed</description>
 		<comment>Disk image that matches The Good Old Days ID:708</comment>
@@ -160,7 +184,7 @@
 		<year>1990</year>
 		<developer>Konami</developer>
 		<variant>Installation</variant>
-		<media_link>https://www.goodolddays.net/diskimages/id%2C1898/</media_link>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C1898/</link>
 		<rom name="disk01.img" size="737280" crc="9776cd95" md5="b4788f1222eda2d3e751cfb5084f9b4d" sha1="444fd99964e5c8e1b8fdbeae5c07299d966186a6"/>
 	</game>
 	<game name="Chex Quest (1996) (Digital Cafe) (Installation).dosz">
@@ -526,6 +550,16 @@
 		<link type="media">https://puredos.github.io/dat-browser/?/Roberta+Williams%27+King%27s+Quest+VII-+The+Princeless+Bride+v2.00b+(1995)(Sierra+On-Line,+Inc.)+%5Bbin-cue%5D</link>
 		<rom name="King's Quest VII - The Princeless Bride (USA) (v2.00b).chd" size="723413376" crc="c75959ba" md5="4fe9302d682a9f8798432a3a1432a2b2" sha1="343c39fe395b06e4c233d1f08a53e4b04dc23467">
 			<track number="1" type="MODE1_RAW" frames="295446" duration="65:39:21" size="694888992" crc="91338b36" md5="988290e2bd03771e2f24b67ae705160d" sha1="91d2e6a0681cd4e63ea037065c4a2bdf7a8a0d7a"/>
+		</rom>
+	</game>
+	<game name="Laura Bow in The Dagger of Amon Ra (1992) (Sierra On-Line) (Installation).dosz">
+		<description>Laura Bow in The Dagger of Amon Ra</description>
+		<year>1992</year>
+		<developer>Sierra On-Line</developer>
+		<variant>Installation</variant>
+		<link type="media">https://redump.info/disc/28898</link>
+		<rom name="Laura Bow in the Dagger of Amon Ra (USA).chd" size="441266688" crc="a65c4675" md5="9fd43be09fa2fb1ad5660b15dd1348fe" sha1="2a4724e1642cddaf28e18f7213d8bc380aab13fa">
+			<track number="1" type="MODE1_RAW" frames="180214" duration="40:02:64" size="423863328" crc="5ecf13b2" md5="a286dbeaf79728f0351d97768c59220b" sha1="3b6dd24c84016262c4747a309eb02548052aea83"/>
 		</rom>
 	</game>
 	<game name="Leisure Suit Larry - Collection Series - Disc 1 (1997) (Sierra On-Line) (Installation).dosz">
@@ -934,7 +968,7 @@
 		<year>1990</year>
 		<developer>Dynamix</developer>
 		<variant>Installation</variant>
-		<media_link>http://redump.org/disc/10602/</media_link>
+		<link type="media">http://redump.org/disc/10602/</link>
 		<rom name="Red Baron (USA).chd" size="48372480" crc="f942e723" md5="69f53c684ee16443919cc913005d5ff3" sha1="71a447272cfde5dbfdcc63ad1a5b6c3effd5ee90">
 			<track number="1" type="MODE1_RAW" frames="19746" pregap="0" duration="04:23:21" size="46442592" crc="e80700a1" md5="e997bc0ce05e9a46489ebab6662b9433" sha1="8eb230db83fa549b2f059fe5aae8656b4a535058" in_zeros="1" out_zeros="0"/>
 		</rom>
