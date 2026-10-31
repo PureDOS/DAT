@@ -10,6 +10,30 @@
 		<homepage>Pure DOS DAT</homepage>
 		<url>https://github.com/PureDOS/DAT</url>
 	</header>
+	<game name="Advanced Dungeons &amp; Dragons - Eye of the Beholder I, II &amp; III (1995) (SSI) (Installation).dosz">
+		<description>Advanced Dungeons &amp; Dragons: Eye of the Beholder I, II &amp; III</description>
+		<year>1995</year>
+		<developer>SSI</developer>
+		<variant>Installation</variant>
+		<comment>Contains Eye of the Beholder I, II and III</comment>
+		<link type="media">https://redump.info/disc/90457</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Forgotten+Realms+Archives,+The+(Silver+Edition)+(1999)(Interplay+Entertainment+Corp.)+%5Bbin-cue%5D</link>
+		<rom name="Advanced Dungeons &amp; Dragons - Eye of the Beholder I, II &amp; III (USA).chd" size="38639232" crc="98d608bb" md5="7e028f66b43cc779334e2fdbcb3c8cac" sha1="68d0b41dc5b26008e9089399f0ff6f0ba9fc846f">
+			<track number="1" type="MODE1_RAW" frames="15774" duration="03:30:24" size="37100448" crc="2a6448e9" md5="4fe66dff9529d9771bccf7c99826c809" sha1="22b67b054abf2e9e29aa6e9e33fb92d237b79844"/>
+		</rom>
+	</game>
+	<game name="Advanced Dungeons &amp; Dragons - Masterpiece Collection - Disc 1 (1996) (Mindscape) (Installation).dosz">
+		<description>Advanced Dungeons &amp; Dragons: Masterpiece Collection - Disc 1</description>
+		<year>1996</year>
+		<developer>Mindscape</developer>
+		<variant>Installation</variant>
+		<comment>Used to install Ravenloft: Strahd's Possession v1.2</comment>
+		<link type="media">https://redump.info/disc/90624</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Advanced+Dungeons+&amp;+Dragons+Masterpiece+Collection+(1996)(Mindscape,+Inc.,+Strategic+Simulations,+Inc.)+%5Bbin-cue%5D</link>
+		<rom name="Advanced Dungeons &amp; Dragons - Masterpiece Collection (USA) (Disc 1) (Shattered Lands + Strahd's Possession + Genie's Curse).chd" size="518055552" crc="c811c5a6" md5="01f4a65eec135e80a25bb8cc9485336b" sha1="1d8eff91f49d244400de630ebc751ebb239abe9e">
+			<track number="1" type="MODE1_RAW" frames="211570" pregap="0" duration="47:00:70" size="497612640" crc="1f43e218" md5="56fb9e6505863cd2a3d57081ae3997c0" sha1="966005cf074a64f4cad6cf66e20561199c315aac"/>
+		</rom>
+	</game>
 	<game name="Alien Breed (1993) (Team 17) (Installation).dosz">
 		<description>Alien Breed</description>
 		<comment>Disk image that matches The Good Old Days ID:708</comment>
@@ -160,7 +184,7 @@
 		<year>1990</year>
 		<developer>Konami</developer>
 		<variant>Installation</variant>
-		<media_link>https://www.goodolddays.net/diskimages/id%2C1898/</media_link>
+		<link type="media">https://www.goodolddays.net/diskimages/id%2C1898/</link>
 		<rom name="disk01.img" size="737280" crc="9776cd95" md5="b4788f1222eda2d3e751cfb5084f9b4d" sha1="444fd99964e5c8e1b8fdbeae5c07299d966186a6"/>
 	</game>
 	<game name="Chex Quest (1996) (Digital Cafe) (Installation).dosz">
@@ -182,6 +206,18 @@
 		<comment>1 5.25" floppy disk matching The Good Old Days ID: 980</comment>
 		<link type="media">https://www.goodolddays.net/en/diskimages/?id=980</link>
 		<rom name="disk1.img" size="368640" crc="18ad8582" md5="070752d8c337b1211f58e29d66d319bd" sha1="6614dd53a7141db8eeb4435a5b021296831fb8d0" date="2001-01-01 10:00:00"/>
+	</game>
+	<game name="Colonel's Bequest, The (1989) (Sierra On-Line) (Installation).dosz">
+		<description>The Colonel's Bequest</description>
+		<year>1989</year>
+		<developer>Sierra On-Line</developer>
+		<variant>Installation</variant>
+		<comment>4 3.5" floppy disks matching The Good Old Days ID: 171</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=171</link>
+		<rom name="disk1.img" size="737280" crc="558c812d" md5="dec7bf07c8dbbb36b6517f7b955a9a5f" sha1="04f26bb4af9b442d820eb19a8fdd002a901eecf1"/>
+		<rom name="disk2.img" size="737280" crc="61663864" md5="33de5549d78ee7674b91e3e8d90a5396" sha1="02865bc61fe45a8031c608ec7c76ef9f05ac8ae3"/>
+		<rom name="disk3.img" size="737280" crc="1e6c2f9b" md5="c52eea8b23e025474dc31e19da44ffa1" sha1="95f5673450c7f81d296887506e7109b45d022b32"/>
+		<rom name="disk4.img" size="737280" crc="a35399e0" md5="6a3520b494adfdc2e9221b69a823fafa" sha1="da4d4814782be5a14429c193e66993764a1cd0cc"/>
 	</game>
 	<game name="Commander Keen Combo CD (1998) (id Software) (Installation).dosz">
 		<description>Commander Keen Combo CD</description>
@@ -469,10 +505,11 @@
 	</game>
 	<game name="Jazz Jackrabbit (1994) (Epic MegaGames) (Installation).dosz">
 		<description>Jazz Jackrabbit</description>
-		<comment>Enhanced CD-ROM packaged with Jazz Jackrabbit 2</comment>
 		<year>1994</year>
 		<developer>Epic MegaGames</developer>
 		<variant>Installation</variant>
+		<comment>Enhanced CD-ROM packaged with Jazz Jackrabbit 2</comment>
+		<link type="media">https://redump.info/disc/30629</link>
 		<rom name="Jazz Jackrabbit (USA) (Rerelease).chd" size="69346944" crc="627806bc" md5="5c3b08ba42c4b6995209ec8a113fde2b" sha1="dece219ba9323f6469554d2487753bd4213ef79c">
 			<track number="1" type="MODE1_RAW" frames="28318" pregap="0" duration="06:17:43" size="66603936" crc="eb4ea23a" md5="d6e97ef537d0bb30af57630c6efac168" sha1="b430f2a6e63e4e93bb2db3ac54fd2f0c6d573336" in_zeros="1" out_zeros="0"/>
 		</rom>
@@ -484,7 +521,9 @@
 		<developer>Epic MegaGames</developer>
 		<variant>Installation</variant>
 		<link type="media">http://redump.org/disc/58954/</link>
-		<rom name="Jill of the Jungle (Europe) (Rev 1).cue" size="101" crc="bfdd3e15" md5="432a64bb3ac6c41015ebee2faa8b1811" sha1="393d00855efb6aa1272212f8e9826c038ec99365"/>
+		<rom name="Jill of the Jungle (Europe) (Rev 1).chd" size="18036864" crc="f54f0db0" md5="b0a5ed7eb91f687b1944642b6e0af00c" sha1="524f43277023c49976ba94426a05d2f7fa2aa5d1">
+			<track number="1" type="MODE1_RAW" frames="7355" duration="01:38:05" size="17298960" crc="48fda4c7" md5="f5af20f2bf966047585da15981c18641" sha1="c8764ba7f6d335abf29c1b56e180ddf52b9154b5"/>
+		</rom>
 	</game>
 	<game name="King's Quest - Collector's Edition (1994) (Sierra On-Line) (Installation).dosz">
 		<description>King's Quest: Collector's Edition</description>
@@ -511,6 +550,51 @@
 		<link type="media">https://puredos.github.io/dat-browser/?/Roberta+Williams%27+King%27s+Quest+VII-+The+Princeless+Bride+v2.00b+(1995)(Sierra+On-Line,+Inc.)+%5Bbin-cue%5D</link>
 		<rom name="King's Quest VII - The Princeless Bride (USA) (v2.00b).chd" size="723413376" crc="c75959ba" md5="4fe9302d682a9f8798432a3a1432a2b2" sha1="343c39fe395b06e4c233d1f08a53e4b04dc23467">
 			<track number="1" type="MODE1_RAW" frames="295446" duration="65:39:21" size="694888992" crc="91338b36" md5="988290e2bd03771e2f24b67ae705160d" sha1="91d2e6a0681cd4e63ea037065c4a2bdf7a8a0d7a"/>
+		</rom>
+	</game>
+	<game name="Laura Bow in The Dagger of Amon Ra (1992) (Sierra On-Line) (Installation).dosz">
+		<description>Laura Bow in The Dagger of Amon Ra</description>
+		<year>1992</year>
+		<developer>Sierra On-Line</developer>
+		<variant>Installation</variant>
+		<link type="media">https://redump.info/disc/28898</link>
+		<rom name="Laura Bow in the Dagger of Amon Ra (USA).chd" size="441266688" crc="a65c4675" md5="9fd43be09fa2fb1ad5660b15dd1348fe" sha1="2a4724e1642cddaf28e18f7213d8bc380aab13fa">
+			<track number="1" type="MODE1_RAW" frames="180214" duration="40:02:64" size="423863328" crc="5ecf13b2" md5="a286dbeaf79728f0351d97768c59220b" sha1="3b6dd24c84016262c4747a309eb02548052aea83"/>
+		</rom>
+	</game>
+	<game name="Leisure Suit Larry - Collection Series - Disc 1 (1997) (Sierra On-Line) (Installation).dosz">
+		<description>Leisure Suit Larry: Collection Series - Disc 1</description>
+		<year>1997</year>
+		<developer>Sierra On-Line</developer>
+		<variant>Installation</variant>
+		<comment>Contains Leisure Suit Larry 1, 2, 3, 5, 6 (VGA), Casino, and Softporn Adventure</comment>
+		<link type="media">https://redump.info/disc/2212</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Leisure+Suit+Larry-+Collection+Series+(1997)(Sierra+On-Line,+Inc.)+%5Bbin-cue%5D</link>
+		<rom name="Leisure Suit Larry - Collection Series (USA) (Disc 1).chd" size="316124928" crc="0be28e2e" md5="cd66d3d68a6dfc1ef1c52a59581c67cb" sha1="3b67b91940d48b08c9c971fe834a9b48919383d5">
+			<track number="1" type="MODE1_RAW" frames="129102" duration="28:41:27" size="303647904" crc="72de9ad0" md5="2bcc527f436ccf7689b3da78a7430dca" sha1="db24dac28bfaa00f3f0d0261a04443229ba3084c"/>
+		</rom>
+	</game>
+	<game name="Leisure Suit Larry - Collection Series - Disc 2 (1997) (Sierra On-Line) (Installation).dosz">
+		<description>Leisure Suit Larry: Collection Series - Disc 2</description>
+		<year>1997</year>
+		<developer>Sierra On-Line</developer>
+		<variant>Installation</variant>
+		<comment>Contains Leisure Suit Larry 6 (SVGA)</comment>
+		<link type="media">https://redump.info/disc/2213</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Leisure+Suit+Larry-+Collection+Series+(1997)(Sierra+On-Line,+Inc.)+%5Bbin-cue%5D</link>
+		<rom name="Leisure Suit Larry - Collection Series (USA) (Disc 2).chd" size="675197568" crc="1ed9b9cd" md5="29dd65225c956c275addbe7733fc4f93" sha1="66a677b663f50aaeeaf2548584ffd46fecc154a3">
+			<track number="1" type="MODE1_RAW" frames="275747" pregap="0" duration="61:16:47" size="648556944" crc="9314e7c4" md5="87d5aae2b061c5bba19fcef8f2fe6c04" sha1="6e02bfbcf4e5ac6eff3c5c8080c2da97ff4b3612" in_zeros="1" out_zeros="0"/>
+		</rom>
+	</game>
+	<game name="Leisure Suit Larry - Love for Sail! (1996) (Sierra On-Line) (Installation).dosz">
+		<description>Leisure Suit Larry: Love for Sail!</description>
+		<year>1996</year>
+		<developer>Sierra On-Line</developer>
+		<variant>Installation</variant>
+		<comment>Redump-verified CD-ROM: Leisure Suit Larry - Love for Sail! (USA)</comment>
+		<link type="media">https://redump.info/disc/10228</link>
+		<rom name="Leisure Suit Larry - Love for Sail! (USA).chd" size="775722240" crc="4eda3048" md5="8c6ba76a95570f3db9f59e2e5c7e6f18" sha1="baec6c59a013b5a29891881f57dc0aff0465e5df">
+			<track number="1" type="MODE1_RAW" frames="316808" duration="70:24:08" size="745132416" crc="97a025c2" md5="cfaa93c43158664b12a5981717b2e08c" sha1="108a66d6f64d8bd3924f423511234c28f4a30540"/>
 		</rom>
 	</game>
 	<game name="Maniac Mansion (1988) (Lucasfilm Games) (Installation).dosz">
@@ -711,6 +795,21 @@
 		<rom name="disk3.img" size="1474560" crc="47b30c95" md5="c389825d1a53cf6612e7299fc3e374ee" sha1="7b069ce1bf888f8db026464730166509ae722333"/>
 		<rom name="disk4.img" size="1474560" crc="c978f133" md5="ceaba81663191daeff5960c1ebfe0b1b" sha1="225b8f1d8a49c60389f9e57d7b7019722866cc94"/>
 	</game>
+	<game name="Police Quest 4 - Open Season (1993) (Sierra On-Line) (Installation).dosz">
+		<description>Police Quest 4: Open Season</description>
+		<year>1993</year>
+		<developer>Sierra On-Line</developer>
+		<variant>Installation</variant>
+		<comment>
+			Matches with Redump-verified CD-ROM: Police Quest IV - Open Season (USA)
+			Also matches with TDC#23 entry: Police Quest- Open Season v1.100.000 (1994)(Sierra On-Line, Inc.) [bin-cue]
+		</comment>
+		<link type="media">https://redump.info/disc/49962</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Police+Quest-+Open+Season+v1.100.000+(1994)(Sierra+On-Line,+Inc.)+%5Bbin-cue%5D</link>
+		<rom name="Police Quest IV - Open Season (USA).chd" size="601953408" crc="5f6a96c8" md5="b68b1260717b26e09077c35987845c36" sha1="6b2943e2c0e0e34d6c0c213fce1c4b295a9b876a">
+			<track number="1" type="MODE1_RAW" frames="245839" duration="54:37:64" size="578213328" crc="881642b1" md5="4a20d9a142c7cd9313f4002a0b34e7b7" sha1="b76315d9c8bef448568c307cc92d81f75f8a58d8"/>
+		</rom>
+	</game>
 	<game name="Prince of Persia (1990) (Broderbund Software) (Installation).dosz">
 		<description>Prince of Persia</description>
 		<comment>v1.3, 3.5" floppy disk</comment>
@@ -869,7 +968,7 @@
 		<year>1990</year>
 		<developer>Dynamix</developer>
 		<variant>Installation</variant>
-		<media_link>http://redump.org/disc/10602/</media_link>
+		<link type="media">http://redump.org/disc/10602/</link>
 		<rom name="Red Baron (USA).chd" size="48372480" crc="f942e723" md5="69f53c684ee16443919cc913005d5ff3" sha1="71a447272cfde5dbfdcc63ad1a5b6c3effd5ee90">
 			<track number="1" type="MODE1_RAW" frames="19746" pregap="0" duration="04:23:21" size="46442592" crc="e80700a1" md5="e997bc0ce05e9a46489ebab6662b9433" sha1="8eb230db83fa549b2f059fe5aae8656b4a535058" in_zeros="1" out_zeros="0"/>
 		</rom>
