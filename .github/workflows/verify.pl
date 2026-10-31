@@ -30,18 +30,19 @@ foreach my $m (@files)
 	{
 		my ($dat, $i, $cut_r, $unverified) = ($mcontents, 0, (index($mcontents, "\r") == -1 ? 0 : 1), ($mname =~ /PureDOSDAT_Unverified/));
 		my $XMLErr = sub { my ($ln, $p) = (1, -1); $ln++ while (($p = index($dat, "\n", $p+1)) >= 0 && $p < $i); Err($_[0], $ln); };
-		for (my ($iNext, $iEnd, $lastingame, $inheader, $inrom, $rommeta, $x, $y, $z, $g, @filearr) = (0, length($dat)); $i < $iEnd; $i = ($iNext == -1 ? $iEnd : $iNext + 1))
+		for (my ($iNext, $iEnd, $lastingame, $inheader, $inrom, $rommeta, $tab, $x, $y, $z, $g, @filearr) = (0, length($dat)); $i < $iEnd; $i = ($iNext == -1 ? $iEnd : $iNext + 1))
 		{
 			$iNext = index($dat, "\n", $i);
-			while (index($dat, "\t", $i) == $i) { $i++; }
+			for ($tab = 0; vec($dat, $i, 8) == 9; $tab++, $i++) { }
 			my $ln = substr($dat, $i, ($iNext == -1 ? $iEnd : ($iNext - $cut_r)) - $i);
 			if ($ingame)
 			{
-				if ($ln =~ /^<rom name="([^\"]+)" size="(\d+)" crc="([0-9a-f]{8})" md5="([0-9a-f]{32})" sha1="([0-9a-f]{40})"(?: date="(\d{4})-(\d\d)-(\d\d) (\d\d):(\d\d):(\d\d)"|)(?: data="([^\"]+)"|)(\/?)>$/)
+				if ($tab == 2 && $ln =~ /^<rom name="([^\"]+)" size="(\d+)" crc="([0-9a-f]{8})" md5="([0-9a-f]{32})" sha1="([0-9a-f]{40})"(?: date="(\d{4})-(\d\d)-(\d\d) (\d\d):(\d\d):(\d\d)"|)(?: data="([^\"]+)"|)(\/?)>$/)
 				{
 					my ($fname, $fsize, $fcrc, $fmd5, $fsha1, $fyear,$fmon,$fday,$fhour,$fmin,$fsec, $fdata, $romslash) = ($1, int($2), $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13);
 					$fname =~ s/\\/\//g;$fname=~s/\&amp;/\&/g;$fname=~s/\&\#(\d+);/pack("C",$1)/eg;$fname=~s/\&lt;/</g;$fname=~s/\&quot;/\"/g;$fname=~s/\&gt;/>/g;$fname=~s/\&apos;/\'/g;
 					if ($fname =~ /([\x7F-\xFF])/) { $XMLErr->("Bad character contained in file list (in '$fname')"); }
+					if ($fsize > 0xFFFFFFFF) { $XMLErr->("Size of file '$fname' exceeds maximum of 4GB"); }
 					if (index($fname, ".parent") >= 0)
 					{
 						if ($fsize) { $XMLErr->("Parent file '$fname' has size $fsize (should be 0)"); }
@@ -57,30 +58,30 @@ foreach my $m (@files)
 					push(@filearr, '"'.$fname.'"');
 					$inrom = ($romslash ? undef : $fname);
 				}
-				elsif ($ln =~ /^<source type="([^\"]+)" frames="([^\"]+)"(?: pregap="([^\"]+)"|)(?: omitted_pregap="([^\"]+)"|) duration="([^\"]+)"(?: size="([^\"]+)" crc="([^\"]+)" md5="([^\"]+)" sha1="([^\"]+)" in_zeros="([^\"]+)" out_zeros="([^\"]+)" quality="([^\"]+)"|)(?: non_silence_pregap="([^\"]+)"|)\/>$/ && $inrom)
+				elsif ($tab == 3 && $ln =~ /^<source type="([^\"]+)" frames="([^\"]+)"(?: pregap="([^\"]+)"|)(?: omitted_pregap="([^\"]+)"|) duration="([^\"]+)"(?: size="([^\"]+)" crc="([^\"]+)" md5="([^\"]+)" sha1="([^\"]+)" in_zeros="([^\"]+)" out_zeros="([^\"]+)" quality="([^\"]+)"|)(?: non_silence_pregap="([^\"]+)"|)\/>$/ && $inrom)
 				{
 					my ($stype, $sframes, $spregap, $somittedpregap, $sduration, $ssize, $scrc, $smd5, $ssha1, $sinzeros, $soutzeros, $squality, $snonsilencepregap) = ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13);
 					if (!$rommeta) { $rommeta = 'S'; } elsif (substr($rommeta, 0, 1) ne 'S') { $XMLErr->("Mixed child-tags in <rom> '$inrom'"); }
 					$rommeta .= "#$stype#$sframes#$spregap#$somittedpregap#$sduration#$ssize#$scrc#$smd5#$ssha1#$sinzeros#$soutzeros#$squality#$snonsilencepregap";
 				}
-				elsif ($ln =~ /^<track number="([^\"]+)" type="([^\"]+)" frames="([^\"]+)"(?: pregap="([^\"]+)"|)(?: omitted_pregap="([^\"]+)"|) duration="([^\"]+)" size="([^\"]+)" crc="([^\"]+)" md5="([^\"]+)" sha1="([^\"]+)"(?: in_zeros="([^\"]+)" out_zeros="([^\"]+)"|)(?: trimmed_crc="([^\"]+)"|)\/>$/ && $inrom)
+				elsif ($tab == 3 && $ln =~ /^<track number="([^\"]+)" type="([^\"]+)" frames="([^\"]+)"(?: pregap="([^\"]+)"|)(?: omitted_pregap="([^\"]+)"|) duration="([^\"]+)" size="([^\"]+)" crc="([^\"]+)" md5="([^\"]+)" sha1="([^\"]+)"(?: in_zeros="([^\"]+)" out_zeros="([^\"]+)"|)(?: trimmed_crc="([^\"]+)"|)\/>$/ && $inrom)
 				{
 					my ($tnumber, $ttype, $tframes, $tpregap, $tomittedpregap, $tduration, $tsize, $tcrc, $tmd5, $tsha1, $tinzeros, $toutzeros, $ttrimmedcrc) = ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13);
 					if (!$rommeta) { $rommeta = 'T'; } elsif (substr($rommeta, 0, 1) ne 'T') { $XMLErr->("Mixed child-tags in <rom> '$inrom'"); }
 					$rommeta .= "#$tnumber#$ttype#$tframes#$tpregap#$tomittedpregap#$tduration#$tsize#$tcrc#$tmd5#$tsha1#$tinzeros#$toutzeros#$ttrimmedcrc";
 				}
-				elsif ($ln =~ /^<patch data="([^\"]+)" size="([^\"]+)" crc="([^\"]+)" md5="([^\"]+)" sha1="([^\"]+)"\/>$/ && $inrom)
+				elsif ($tab == 3 && $ln =~ /^<patch data="([^\"]+)" size="([^\"]+)" crc="([^\"]+)" md5="([^\"]+)" sha1="([^\"]+)"\/>$/ && $inrom)
 				{
 					my ($pdata, $psize, $pcrc, $pmd5, $psha1) = ($1, $2, $3, $4, $5);
 					if (!$rommeta) { $rommeta = 'P'; } elsif (substr($rommeta, 0, 1) ne 'P') { $XMLErr->("Mixed child-tags in <rom> '$inrom'"); }
 					$rommeta .= "#$pdata#$psize#$pcrc#$pmd5#$psha1";
 				}
-				elsif ($ln =~ /^<\/rom>$/ && $inrom)
+				elsif ($tab == 2 && $ln =~ /^<\/rom>$/ && $inrom)
 				{
 					if ($rommeta) { $rommeta = ''; }
 					$inrom = 0;
 				}
-				elsif ($ln =~ /^<\/game>$/)
+				elsif ($tab == 1 && $ln =~ /^<\/game>$/)
 				{
 					my ($description, $year, $developer) = ($g->{description}, $g->{year}, $g->{developer});
 					if (!$developer) { $XMLErr->("Missing <developer> element"); }
@@ -105,7 +106,7 @@ foreach my $m (@files)
 					$g->{files} = $filars || "-";
 					($ingame, $g, @filearr) = (0);
 				}
-				elsif ($ln =~ /^<(description|year|comment|comment_dosc|developer|parent|variant)>([^<]+)<\/\1>$/)
+				elsif ($tab == 2 && $ln =~ /^<(description|year|comment|comment_dosc|developer|parent|variant)>([^<]+)<\/\1>$/)
 				{
 					($x, $y) = ($1, $2);
 					metafield:
@@ -118,10 +119,10 @@ foreach my $m (@files)
 						if ($y =~ /, (The|An|A)/ && !$unverified) { $XMLErr->("In the <description> tag ('$y') the common article '$1' should be at the beginning not like ', $1'");  }
 					}
 				}
-				elsif ($ln eq "<comment>")      { my $j = index($dat, "</", $iNext); if (substr($dat, $j, 10) ne "</comment>"     ) { $XMLErr->("Bad <comment> tag");      next; } ($x, $y) = ("comment",      substr($dat, $iNext+1, $j-$iNext-1)); $iNext = $j + 10 + $cut_r; goto metafield; }
-				elsif ($ln eq "<comment_dosc>") { my $j = index($dat, "</", $iNext); if (substr($dat, $j, 15) ne "</comment_dosc>") { $XMLErr->("Bad <comment_desc> tag"); next; } ($x, $y) = ("comment_dosc", substr($dat, $iNext+1, $j-$iNext-1)); $iNext = $j + 15 + $cut_r; goto metafield; }
-				elsif ($ln =~ /^<media_link>([^<]+)<\/media_link>$/) { ($x, $y, $z) = ("media", "", $1); goto metalink; }
-				elsif ($ln =~ /^<link type="([^\"]+)"(?: name="([^\"]+)"|)>([^<]+)<\/link>$/)
+				elsif ($tab == 2 && $ln eq "<comment>")      { my $j = index($dat, "</", $iNext); if (substr($dat, $j, 10) ne "</comment>"     ) { $XMLErr->("Bad <comment> tag");      next; } ($x, $y) = ("comment",      substr($dat, $iNext+1, $j-$iNext-1)); $iNext = $j + 10 + $cut_r; goto metafield; }
+				elsif ($tab == 2 && $ln eq "<comment_dosc>") { my $j = index($dat, "</", $iNext); if (substr($dat, $j, 15) ne "</comment_dosc>") { $XMLErr->("Bad <comment_desc> tag"); next; } ($x, $y) = ("comment_dosc", substr($dat, $iNext+1, $j-$iNext-1)); $iNext = $j + 15 + $cut_r; goto metafield; }
+				elsif ($tab == 2 && $ln =~ /^<media_link>([^<]+)<\/media_link>$/ && $unverified) { ($x, $y, $z) = ("media", "", $1); goto metalink; }
+				elsif ($tab == 2 && $ln =~ /^<link type="([^\"]+)"(?: name="([^\"]+)"|)>([^<]+)<\/link>$/)
 				{
 					($x, $y, $z) = ($1, $2, $3);
 					metalink:
@@ -131,7 +132,7 @@ foreach my $m (@files)
 				elsif ($ln eq '') { $XMLErr->("Unexpected empty line"); }
 				else { $XMLErr->("Unknown XML game line [$ln]"); }
 			}
-			elsif ($ln =~ /^<game name="([^\"]+)\.(dosz|dosx|chd)">$/ && !$ingame)
+			elsif ($tab == 1 && $ln =~ /^<game name="([^\"]+)\.(dosz|dosx|chd)">$/ && !$ingame)
 			{
 				($ingame, @filearr) = ($1);
 				$ingame=~s/\&amp;/\&/g;$ingame=~s/\&\#(\d+);/pack("C",$1)/eg;$ingame=~s/\&lt;/</g;$ingame=~s/\&quot;/\"/g;$ingame=~s/\&gt;/>/g;$ingame=~s/\&apos;/\'/g;
@@ -149,12 +150,17 @@ foreach my $m (@files)
 				if ($lastingame && ("\L$lastingame" cmp "\L$ingame") > 0) { $XMLErr->("Wrongly sorted after '$lastingame'"); }
 				$lastingame = $ingame;
 			}
-			elsif ($inheader == 1) { if ($ln eq "</header>") { $inheader = 2; } }
-			elsif ($ln eq "<header>" && !$inheader) { $inheader = 1; }
-			elsif ($ln eq '<datafile>') {}
-			elsif ($ln eq '</datafile>') { $inheader = 0; }
-			elsif ($ln eq '<?xml version="1.0"?>') {}
-			elsif ($ln eq '<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">') {}
+			elsif ($inheader == 1)
+			{
+				if ($tab == 1 && $ln eq "</header>") { $inheader = 2; }
+				elsif ($tab == 2 && $ln =~ /^<(name|description|version|date|author|homepage|url)>([^<]+)<\/\1>$/) { }
+				else { $XMLErr->("Unknown XML header line [$ln]"); $inheader = 2; }
+			}
+			elsif ($tab == 1 && $ln eq "<header>" && !$inheader) { $inheader = 1; }
+			elsif ($tab == 0 && $ln eq '<datafile>') {}
+			elsif ($tab == 0 && $ln eq '</datafile>') { $inheader = 0; }
+			elsif ($tab == 0 && $ln eq '<?xml version="1.0"?>') {}
+			elsif ($tab == 0 && $ln eq '<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">') {}
 			elsif ($ln eq '') { $XMLErr->("Unexpected empty line"); }
 			else { $XMLErr->("Unknown XML root line [$ln]"); }
 		}
