@@ -2618,11 +2618,15 @@
 	</game>
 	<game name="Sid Meier's Colonization (1994) (MPS Labs) (v2.25).dosz">
 		<description>Sid Meier's Colonization</description>
-		<comment>Installed English language from European CD-ROM re-release</comment>
-		<comment_dosc>Sound config and auto start</comment_dosc>
 		<year>1994</year>
 		<developer>MPS Labs</developer>
 		<variant>v2.25</variant>
+		<comment>
+			Installed English language from European re-release CD-ROM matching with Redump: Sid Meier's Colonization (Europe) (En,Fr,De) (Rerelease)
+			DoDAT can build this directly from the disc image.
+		</comment>
+		<comment_dosc>Sound config, game speed reduced, direct mouse enabled, and auto start. MT-32 and General MIDI options</comment_dosc>
+		<link type="media">https://redump.info/disc/49894</link>
 		<rom name="AMER2.MP" size="12534" crc="a43d15f7" md5="d21008d2d54ff0f4838387f1d5390493" sha1="6acc851c3840f8db24d83602d15c5b8e02d1a651" date="1994-03-01 10:47:56"/>
 		<rom name="AMERICA.MOV" size="572" crc="bc7a0009" md5="0e2b6c9ee1c74b0366cc55af281f48c7" sha1="44d31fac17a9977b203b7f6fcd9d89bfff4c1645" date="1994-02-22 09:51:52"/>
 		<rom name="ASOUND.COL" size="48651" crc="65d3a922" md5="8fdcf3eaa8d5f99d969dd183f64f0b8d" sha1="20bafe2facefa17d33f540a14880714c7a520696" date="1994-09-14 16:41:06"/>
@@ -2779,9 +2783,9 @@
 		<rom name="IND7A1.SS" size="6038" crc="eafbe1d3" md5="1b9b7de6821ef13a672ae367e2d61ea5" sha1="0e0766d726bf0121890c797caeb4e90722548b6f" date="1994-08-03 17:28:50"/>
 		<rom name="IND7A2.SS" size="5807" crc="9eecc72d" md5="2e32d1b545381910ec84632273332420" sha1="6eb94df04e4c2c3a623be72c946ffc5f703eced6" date="1994-08-03 17:29:08"/>
 		<rom name="IND7A3.SS" size="5104" crc="138dd44f" md5="678e01970c672b9c3d6f77f3ffb0956b" sha1="51df4cbfdcf89640b30a3366cbabc4ba5ae1a172" date="1994-08-03 17:29:40"/>
-		<rom name="INSTALL.DAT" size="14153" crc="fc4bfdaf" md5="196f1497f7652fa3a59f26cc968ac647" sha1="e3f9cd7ee27739e4f2a60e71d89afaa791ff2f21"/>
-		<rom name="INSTALL.EXE" size="51285" crc="c83bcad0" md5="6970cc29c471c058b1c806b69b713cc9" sha1="c23d57f254948070cf83b798fe6dd61eceaac7e3"/>
-		<rom name="INSTALL.GIF" size="125667" crc="84b6a017" md5="edb06b96a50026a655f565c87be5cb96" sha1="98759188928ef554c917033bef9d4591b35b1e59"/>
+		<rom name="INSTALL.DAT" size="14153" crc="fc4bfdaf" md5="196f1497f7652fa3a59f26cc968ac647" sha1="e3f9cd7ee27739e4f2a60e71d89afaa791ff2f21" date="1996-10-09 03:47:30"/>
+		<rom name="INSTALL.EXE" size="51285" crc="c83bcad0" md5="6970cc29c471c058b1c806b69b713cc9" sha1="c23d57f254948070cf83b798fe6dd61eceaac7e3" date="1996-10-09 03:47:30"/>
+		<rom name="INSTALL.GIF" size="125667" crc="84b6a017" md5="edb06b96a50026a655f565c87be5cb96" sha1="98759188928ef554c917033bef9d4591b35b1e59" date="1996-10-09 03:47:30"/>
 		<rom name="KING.SS" size="4068" crc="22daae93" md5="72f8a2daeac5d385327eb1663ad24f90" sha1="dfb1293062a3ec3a59ae2e6b177f895ae0d3f8d2" date="1994-09-09 09:04:06"/>
 		<rom name="KING1.SS" size="9719" crc="80eee422" md5="a6745d3403b9de73bdc5f263a1abcbf9" sha1="47d7179b8b82825100c1f6a8dd9b1cf4fc1b3c17" date="1994-09-11 11:00:38"/>
 		<rom name="KING2.SS" size="4460" crc="b94183fd" md5="84aff431117837c55005e60e1661f624" sha1="bf94fec79170f0dded3274dcea96be1791a55086" date="1994-09-09 09:04:48"/>
@@ -2804,7 +2808,7 @@
 		<rom name="MEMORY2.TXT" size="540" crc="496c90a3" md5="aafc85579c811c6ba9ece2694ba8c10f" sha1="0c0dfb153cd30e6b1281ebac53387a530c0ae4d0" date="1994-09-05 09:58:50"/>
 		<rom name="MENU.TXT" size="1801" crc="e5ec14b0" md5="233c28e92e558cfa90058d8dfccab31a" sha1="c6f09624fea42d04b7ea58af68d9a52f3eefe48b" date="1994-08-12 16:15:14"/>
 		<rom name="MODULES.DB" size="421" crc="b6b2dc43" md5="f857a347c31f4600311b8dea702c093b" sha1="027727fda064de48779c0f4f7e61c0d8b205dc66" date="1994-05-31 12:08:28"/>
-		<rom name="MPSCOPY.EXE" size="38620" crc="bbf2456f" md5="219d3f0563e338b63353d3eb661708f4" sha1="a8d8011922f2f3c0f96a82868e0d197983f30045"/>
+		<rom name="MPSCOPY.EXE" size="38620" crc="bbf2456f" md5="219d3f0563e338b63353d3eb661708f4" sha1="a8d8011922f2f3c0f96a82868e0d197983f30045" date="1996-10-09 03:47:30"/>
 		<rom name="MPSLOGO.SS" size="56149" crc="ff9ae10f" md5="9c85cf3410bc5029f38952ff55fdbdfe" sha1="085a918eefb25d8b0a4f0c9588a187dd9ef0ba77" date="1994-06-13 11:33:48"/>
 		<rom name="MPSNAME.SS" size="44138" crc="84ac6584" md5="e0fb8208d30bff8d158c9e1faf338652" sha1="1d9e37582aca08ee7a41106a03d3a333d781bb0e" date="1994-06-13 09:14:00"/>
 		<rom name="MSS0.SS" size="3131" crc="75e0974c" md5="599c0b34aa72cbbf6e252a2317d954d2" sha1="a8596fb7b10656fa071b211cd5668d1ebbabcbff" date="1994-05-26 10:25:34"/>
@@ -2844,9 +2848,9 @@
 		<rom name="PATH.DAT" size="6459" crc="b437aa3b" md5="51b36f4c56ede391c79d9d8d5f1978f7" sha1="816c41c11a3ab552310a245f8b120b8ac086989f" date="1994-06-16 15:41:04"/>
 		<rom name="PEDIA.TXT" size="55561" crc="d692d2df" md5="730d33a4cca1adb441ad578dc4120b57" sha1="0ea2f28f1ec464861a03af2afb4871ad25df466f" date="1994-09-15 09:18:46"/>
 		<rom name="PHYS0.SS" size="13605" crc="a09c769d" md5="ad57f8e0dfbd03613b4af8005d06545a" sha1="be11fb07967808deb79b6880356e1d8038b918f1" date="1994-08-11 16:46:04"/>
-		<rom name="PKUNZJR.COM" size="2750" crc="bc15451f" md5="fc72d8a3b1d36ec6789645073c150670" sha1="d5c55bbf6a3acf83cd348019d45561c686db0e24"/>
+		<rom name="PKUNZJR.COM" size="2750" crc="bc15451f" md5="fc72d8a3b1d36ec6789645073c150670" sha1="d5c55bbf6a3acf83cd348019d45561c686db0e24" date="1996-10-09 03:47:30"/>
 		<rom name="PSOUND.COL" size="48599" crc="e4740986" md5="c294733957d12c68fdbbad2b73442f34" sha1="22955b4c3bd5c4084665aa20c39bf45aa95a8267" date="1994-09-13 17:54:22"/>
-		<rom name="README.TXT" size="669" crc="b0194c33" md5="9b45e491d67a7f415c8ba89b9ebf2c12" sha1="42129f83105b9a32f6515dd057bbe3afd8832149"/>
+		<rom name="README.TXT" size="669" crc="b0194c33" md5="9b45e491d67a7f415c8ba89b9ebf2c12" sha1="42129f83105b9a32f6515dd057bbe3afd8832149" date="1996-10-09 03:47:30"/>
 		<rom name="REPORT1.PIK" size="20919" crc="020607a0" md5="c87757770e217f0bc21ce6232f53652b" sha1="0e3c71cdf11e135f4f4e982020080b53a0809b36" date="1994-09-15 09:45:30"/>
 		<rom name="REPORT2.PIK" size="42268" crc="9d29832b" md5="e662ead0d84fc67890f1775999a05546" sha1="f3d0dfc8b7d14f2aa400e9b3844321cd61db118e" date="1994-09-12 16:27:26"/>
 		<rom name="REPORT3.PIK" size="41458" crc="cfb84a14" md5="1c68d997961b689502496c2e9cc419f9" sha1="077e65cbd3471a3b40a0c2da3b23757d1f383fc8" date="1994-09-01 16:20:50"/>
