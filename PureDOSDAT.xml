@@ -27148,10 +27148,17 @@
 	</game>
 	<game name="Wolfenstein 3D (1992) (id Software).dosz">
 		<description>Wolfenstein 3D</description>
-		<comment>Based on version 1.4g with Activision branding</comment>
-		<comment_dosc>Maximized view setting</comment_dosc>
 		<year>1992</year>
 		<developer>id Software</developer>
+		<comment>
+			Based on version 1.4g with Activision branding, including Nocturnal Missions. Can be installed from Redump-verified CD-ROM: Wolfenstein 3D (USA) (Rerelease)
+			DoDAT can build this directly from the disc image.
+			Also matches with GOG and Steam.
+		</comment>
+		<comment_dosc>Maximized view setting, game speed reduced, and auto start</comment_dosc>
+		<link type="media">https://redump.info/disc/43388</link>
+		<link type="store">https://www.gog.com/en/game/wolfenstein_3d</link>
+		<link type="store">https://store.steampowered.com/app/2270/Wolfenstein_3D/</link>
 		<rom name="AUDIOHED.WL6" size="1156" crc="2f3bcb70" md5="a41af25a2f193e7d4afbcc4301b3d1ce" sha1="2a8407cd436250b6df9d6022c971030882ae37ca" date="1994-04-13 14:40:00"/>
 		<rom name="AUDIOT.WL6" size="320209" crc="c79efd4c" md5="2385b488b18f8721633e5b2bdf054853" sha1="8a1e19ec1dc669ebe6916b1e24a261d10d9d5ff3" date="1994-04-13 14:40:00"/>
 		<rom name="GAMEMAPS.WL6" size="150652" crc="ada5c827" md5="a4e73706e100dc0cadfb02d23de46481" sha1="22bfcde221efec232b48258117d7fc04337cce3a" date="1994-04-13 14:40:00"/>
