@@ -6,6 +6,8 @@
 #--------------------------------------------#
 
 use strict;
+use Digest::SHA qw(sha1_hex);
+use MIME::Base64 qw(decode_base64);
 
 our $datdir = (($0 =~ /(.*[\/\\])/)[0])."../..";
 
@@ -54,6 +56,10 @@ foreach my $m (@files)
 						if ($fsize) { $XMLErr->("Savename file '$fname' has size $fsize (should be 0)"); }
 						if ($fmon) { $XMLErr->("Savename file '$fname' has a date (should not be set)"); }
 						if (index(join(",", @filearr), ".savename") >= 0) { $XMLErr->("Game has multiple .savename files"); }
+					}
+					if ($fdata && sha1_hex($fdata = decode_base64($fdata)) ne $fsha1)
+					{
+						$XMLErr->("Embedded data of '$fname' results in wrong file - Embedded: ".length($fdata)." bytes ".sha1_hex($fdata)." - Need: $fsize bytes $fsha1");
 					}
 					push(@filearr, '"'.$fname.'"');
 					$inrom = ($romslash ? undef : $fname);

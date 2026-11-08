@@ -409,6 +409,18 @@
 			<track number="1" type="MODE1_RAW" frames="109799" pregap="0" duration="24:23:74" size="258247248" crc="67f957e2" md5="8e9b2d949f26282e79888eec7646c956" sha1="606d4048c9ec9f8bc0b0b430d02545c09cfaa6f5" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
+	<game name="Fool's Errand, The (1989) (Miles Computing) (Installation).dosz">
+		<description>The Fool's Errand</description>
+		<year>1989</year>
+		<developer>Miles Computing</developer>
+		<variant>Installation</variant>
+		<comment>4 5.25" floppy disks matching The Good Old Days ID: 3312</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=3312</link>
+		<rom name="disk01prologue.img" size="368640" crc="7ee6957b" md5="ec201c4f494a1fd0c7dfbb16279103c2" sha1="19a9c181cbfd37144b2ef255c718dea445f50606" date="1989-10-06 15:15:06"/>
+		<rom name="disk02game.img" size="368640" crc="73c658e9" md5="95a2ac5452ff127ccc08cce02aafedae" sha1="32a8535c1b42627ff0df12e3e7c0c026b0aa7800" date="1989-10-06 15:15:06"/>
+		<rom name="disk03puzzle.img" size="368640" crc="c96b8d83" md5="5ddbef3f7298d6f8e5f172ddce47d796" sha1="47327cd03cb180472dc66459d56bec7d3f89cd41" date="1989-10-06 15:15:06"/>
+		<rom name="disk04finale.img" size="368640" crc="0ef6bfa3" md5="282a2d7140d91210a6519807189415b9" sha1="96b24af57f290e6753663a31683541fd6ba9f842" date="1989-10-06 15:15:06"/>
+	</game>
 	<game name="Heretic (1994) (Raven Software) (Installation).dosz">
 		<description>Heretic</description>
 		<year>1994</year>
@@ -1391,6 +1403,18 @@
 			<track number="7" type="AUDIO" frames="16352" pregap="0" duration="03:38:02" size="38459904" crc="03a04050" md5="91572bec099bf08e29a254d96be6f2c3" sha1="ab1ca0881d21f24cfb1eea8302cacc72cc5dce4a" in_zeros="21266" out_zeros="1073089"/>
 			<track number="8" type="AUDIO" frames="17779" pregap="0" duration="03:57:04" size="41816208" crc="53e0141c" md5="5d7ca6b788c30b78c7ae456d391c6d3e" sha1="07d2a9d51fa6742ff6430d5057e81650e80d94be" in_zeros="18942" out_zeros="1055089"/>
 		</rom>
+	</game>
+	<game name="Waxworks (1992) (Accolade) (Installation).dosz">
+		<description>Waxworks</description>
+		<year>1992</year>
+		<developer>Accolade</developer>
+		<variant>Installation</variant>
+		<comment>4 3.5" floppy disks matching The Good Old Days ID: 107</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=107</link>
+		<rom name="disk1.img" size="1474560" crc="c9ad3e52" md5="e1c2a04edb1e26ffc445c3c202af18df" sha1="8d03b1d4614fc7c17f8353f1d12e6c4e4d251200"/>
+		<rom name="disk2.img" size="1474560" crc="c34c7c70" md5="4003743a49242205d4b91c555a65edda" sha1="5a0c66f17ba80d9fc58400090131794ce0fe01b4"/>
+		<rom name="disk3.img" size="1474560" crc="51341c68" md5="61bc47958d465e6aa3f2123600bba6c4" sha1="2f58bc66d52ddfe2bb66beb49dee7094aaf7e640"/>
+		<rom name="disk4.img" size="1474560" crc="09d0c4c4" md5="88383be982cc77ec25c8e8111d9af098" sha1="d936e2cd7ae0cab668d5bf7d62ee6e843061d699"/>
 	</game>
 	<game name="X-COM - Terror from the Deep (1995) (Microprose) (Installation).dosz">
 		<description>X-COM: Terror from the Deep</description>
