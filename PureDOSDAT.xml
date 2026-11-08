@@ -17042,8 +17042,7 @@
 		<year>1995</year>
 		<developer>Activision</developer>
 		<comment>
-			Installed from Redump-verified CD-ROM: MechWarrior 2 - 31st Century Combat (USA, Australia) (v1.1)
-			Minimal installation size.
+			Installed v1.1 from 1996 CD-ROM re-release with the minimal installation size.
 			CD image converted with CHDtoOGG (quality level -q9).
 			DoDAT can build this directly from the disc image.
 		</comment>
@@ -17053,8 +17052,6 @@
 			General MIDI launch option
 		</comment_dosc>
 		<link type="media">https://redump.info/disc/24337</link>
-		<rom name="ARCHJF.MW2" size="971158" crc="83143b0d" md5="e698aa9843fb110b1b264c2e92a04256" sha1="5b1ceda44a10dd9eccf69ec3fcbf1bbf65c6cde5" date="1995-07-10 22:44:56"/>
-		<rom name="ARCHWO.MW2" size="719392" crc="27c0fe2c" md5="9f06e8d3aacd32a13245070a3761c976" sha1="bbb7b491fb293eba3300f6c4f5c8a8685cf9f24c" date="1995-07-10 22:47:30"/>
 		<rom name="CD/MechWarrior 2 - 31st Century Combat (USA, Australia) (v1.1) (Track 1).bin" size="132100080" crc="e0a8aa24" md5="84c13c2d181c7e97ea2a85eb3eab473a" sha1="5def9c16a4ddccf342732dd520827ae1b286b53d">
 			<source type="MODE1_RAW" frames="56165" duration="12:28:65"/>
 		</rom>
@@ -17137,6 +17134,8 @@
 			<source type="AUDIO" frames="412" omitted_pregap="148" duration="00:05:37" size="969024" crc="f7760698" md5="b058e922582228a08628a0e66670b7eb" sha1="51472e28c431b7a821d3c0106d088d3977099296" in_zeros="7424" out_zeros="5764" quality="9"/>
 		</rom>
 		<rom name="CD/MechWarrior 2 - 31st Century Combat (USA, Australia) (v1.1).cue" size="4001" crc="5b04277d" md5="5e90577d482716d771803e784cad27b5" sha1="099d2dd94ab52aa5b8e8bf8d5955e3a7370aa7cc"/>
+		<rom name="ARCHJF.MW2" size="971158" crc="83143b0d" md5="e698aa9843fb110b1b264c2e92a04256" sha1="5b1ceda44a10dd9eccf69ec3fcbf1bbf65c6cde5" date="1995-07-10 22:44:56"/>
+		<rom name="ARCHWO.MW2" size="719392" crc="27c0fe2c" md5="9f06e8d3aacd32a13245070a3761c976" sha1="bbb7b491fb293eba3300f6c4f5c8a8685cf9f24c" date="1995-07-10 22:47:30"/>
 		<rom name="CFGS/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-12-31 00:00:00"/>
 		<rom name="COMIO.EXE" size="22128" crc="9b012f0b" md5="9f5f42722edb66ba9730ef294ef27053" sha1="6afcce8bb7fd1c970e92c1cbdb0ae0dd6b7703b4" date="1993-11-02 13:40:42"/>
 		<rom name="DATABASE.MW2" size="3989669" crc="36ce3aa4" md5="cbcb49c6953a63b0c3e8cd22cc059e81" sha1="8d7d90e86de5adec64bed582eb74f0e61b4ea5e9" date="1995-07-09 11:01:48"/>
@@ -17232,7 +17231,11 @@
 		<rom name="MW2.INI" size="4659" crc="ec83d667" md5="c6064354da98b4a7b0f54da15ef0f5f0" sha1="ccbd54b3354fde7387f0c2352cb0204ffd915465" date="1995-07-10 03:09:48"/>
 		<rom name="MW2.PHX" size="1674" crc="a305e3a6" md5="2cbef90af4aceb0930a77aedcdae9697" sha1="fbaba3c48a6bf5a14b986ea458605fefd9afca34" date="1995-06-28 10:13:24"/>
 		<rom name="MW2.PRJ" size="19960257" crc="f8dac94c" md5="29bdd8f54e29df53408495e8b4ff2172" sha1="2c2b609199239a23943b75219cf2c4a41d26d117" date="1995-07-11 15:09:32"/>
+		<rom name="MW2DIF.CFG" size="8" crc="2a60282e" md5="932af893fa319915dbd69520bfdaa4ff" sha1="555b63daf1526cdb9ce97806f3cee7de810b0ae9" date="1995-07-07 12:22:44"/>
 		<rom name="MW2INFO.TXT" size="185391" crc="8bfe6bf9" md5="80e2dfe58e87a1bc16b2a3b7a3fcce13" sha1="9804dad1ccb1f151dfa136231fd79a83772083bc" date="1995-10-31 19:04:50"/>
+		<rom name="MW2MSN.CFG" size="2516" crc="a5d03868" md5="168df7e4c666d75826f7efb82f9ee1c3" sha1="2569834c5e19d50a09089d22faa40acd5040a8eb" date="1995-07-07 12:21:54"/>
+		<rom name="MW2PRM.CFG" size="536" crc="55b4474a" md5="14c68faa2412f24b36950bdb88b59836" sha1="222ef6b42f4871766446fe8e75e1fde041dcbad5" date="1995-07-08 12:37:36"/>
+		<rom name="MW2REG.CFG" size="1200" crc="bbece1c0" md5="bd773e3453f328e86c556256e370e21e" sha1="7981a55896a02ace1086b60fe32889cffa68fd28" date="1995-07-08 12:37:34"/>
 		<rom name="MW2SETUP.EXE" size="230915" crc="d33e1656" md5="bded902e151b39f2e0d7b35ae0fa59d5" sha1="39ddfea5444f2a0682cce892aca8c8a19c66d92b" date="1995-10-27 13:31:46"/>
 		<rom name="MW2SHELL.EXE" size="603735" crc="9a026ba3" md5="1e4f3457e59c01b693b9f925fbb781a9" sha1="f8626a074fae30fdfa3abf7085bab04c0b31bf37" date="1995-10-09 15:48:56"/>
 		<rom name="NETB2.EXE" size="20576" crc="ab5664f7" md5="2d76f9a2490b2ffa1cf355c901bee5ad" sha1="c152ee0126e01e6aafef858af3efd335d3c31c95" date="1994-02-09 08:22:24"/>
@@ -17286,8 +17289,8 @@
 		<year>1995</year>
 		<developer>Activision</developer>
 		<comment>
-			Installed from Redump-verified CD-ROM: MechWarrior 2 - Ghost Bear's Legacy (USA). Requires inserting the CD for MechWarrior 2: 31st Century Combat during installation.
-			Minimal installation size.
+			Installed from US CD-ROM release with the minimal installation size.
+			Requires inserting the CD for MechWarrior 2: 31st Century Combat during installation.
 			CD image converted with CHDtoOGG (quality level -q9).
 			DoDAT can build this directly from the disc image.
 		</comment>
@@ -17298,11 +17301,6 @@
 			Patch to fix Jump Jet Fuel
 		</comment_dosc>
 		<link type="media">https://redump.info/disc/10597</link>
-		<rom name="ANDYSCN1.BWD" size="9734" crc="f66c5a03" md5="b7d7daa59daf5a5b940f5fdab4b3e73a" sha1="c7a06f55b6a947cf7d79033372f92ba00cc9bbad" date="1995-11-08 16:10:30"/>
-		<rom name="ASAHSCN1.BWD" size="4940" crc="6d2eb1b1" md5="134f3b3beab8b1cde27851281195925c" sha1="294b10ad4fc84a855307ae13551ee268d322dc15" date="1995-11-07 20:19:40"/>
-		<rom name="BASSSCN1.BWD" size="4960" crc="6a8ca977" md5="399afde16845223c2ba13034980e8825" sha1="85196e249fa32ddfda6fe19f50634f310d9dc307" date="1995-11-11 15:12:32"/>
-		<rom name="BRANSCN1.BWD" size="12868" crc="5b822ecf" md5="daeba2c30a4cfc7be9eaadf1f5c196ce" sha1="e6ab48f29a87573b8b095e020f9ec9849f8aef84" date="1995-11-11 15:15:20"/>
-		<rom name="CATHSCN1.BWD" size="5104" crc="11cdda61" md5="5e621648f544fc4ec909ab1f7738e1a0" sha1="6db04fb9d99bcd7c8f57604be09881fb86308305" date="1995-11-11 15:15:12"/>
 		<rom name="CD/MechWarrior 2 - Ghost Bear's Legacy (USA) (Track 1).bin" size="192471216" crc="40521814" md5="dc013a77f4ab8aeacf7a5b8a536ef3bc" sha1="f5de23d7f11b3769c5460ae0fb1311aa11379346">
 			<source type="MODE1_RAW" frames="81833" duration="18:11:08"/>
 		</rom>
@@ -17367,6 +17365,11 @@
 			<source type="AUDIO" frames="5464" omitted_pregap="148" duration="01:12:64" size="12851328" crc="9225b33e" md5="7386cdfbde49ba9fdb9b4d0860b34ff5" sha1="cad3f0f68765907615f5834eba381e361ee9b2c0" in_zeros="1304" out_zeros="3401" quality="9"/>
 		</rom>
 		<rom name="CD/MechWarrior 2 - Ghost Bear's Legacy (USA).cue" size="2729" crc="ee454b2b" md5="40531caad00dd522ac5c12a6336b5add" sha1="522248f92b3dc1e9556804abaff13e521d87943a"/>
+		<rom name="ANDYSCN1.BWD" size="9734" crc="f66c5a03" md5="b7d7daa59daf5a5b940f5fdab4b3e73a" sha1="c7a06f55b6a947cf7d79033372f92ba00cc9bbad" date="1995-11-08 16:10:30"/>
+		<rom name="ASAHSCN1.BWD" size="4940" crc="6d2eb1b1" md5="134f3b3beab8b1cde27851281195925c" sha1="294b10ad4fc84a855307ae13551ee268d322dc15" date="1995-11-07 20:19:40"/>
+		<rom name="BASSSCN1.BWD" size="4960" crc="6a8ca977" md5="399afde16845223c2ba13034980e8825" sha1="85196e249fa32ddfda6fe19f50634f310d9dc307" date="1995-11-11 15:12:32"/>
+		<rom name="BRANSCN1.BWD" size="12868" crc="5b822ecf" md5="daeba2c30a4cfc7be9eaadf1f5c196ce" sha1="e6ab48f29a87573b8b095e020f9ec9849f8aef84" date="1995-11-11 15:15:20"/>
+		<rom name="CATHSCN1.BWD" size="5104" crc="11cdda61" md5="5e621648f544fc4ec909ab1f7738e1a0" sha1="6db04fb9d99bcd7c8f57604be09881fb86308305" date="1995-11-11 15:15:12"/>
 		<rom name="CFGS/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-12-31 00:00:00"/>
 		<rom name="CLAISCN1.BWD" size="9143" crc="00890241" md5="4b18deaea81750312bacdedc46d066c7" sha1="566db9d562670f0e4a3f2bdffca7fd7bf9df0e73" date="1995-11-11 15:12:44"/>
 		<rom name="DATABASE.MW2" size="3526397" crc="c904d057" md5="b0bad8f9e30542e7803647f2f5c6aac0" sha1="42e8e72791bdcc53b1d0f1f82b5292273fd0e028" date="1995-11-10 18:20:48"/>
@@ -17437,6 +17440,9 @@
 		<rom name="MW2.INI" size="6458" crc="20a3dfe8" md5="0f97d7a0e57a6394771924d7a19a2da0" sha1="86213ff318b9b5daee8c6f6f5e11bd9ee4ec8dc7" date="1995-10-31 15:52:14"/>
 		<rom name="MW2.PHX" size="1661" crc="aec0025d" md5="922fa20b00aa2fe6e73b43973f2c3933" sha1="705982faf13fa8541cd83df2d5de0a9a86dd9984" date="1995-08-09 13:18:58"/>
 		<rom name="MW2.PRJ" size="30815361" crc="58e980b7" md5="86c37e3b1505706a98642b9031d1b574" sha1="d646be2360de684145e84a1af84cbb27b2fc66c7" date="1995-11-12 03:20:02"/>
+		<rom name="MW2DIF.CFG" size="8" crc="2a60282e" md5="932af893fa319915dbd69520bfdaa4ff" sha1="555b63daf1526cdb9ce97806f3cee7de810b0ae9" date="1995-07-07 12:22:44"/>
+		<rom name="MW2MSN.CFG" size="2516" crc="a5d03868" md5="168df7e4c666d75826f7efb82f9ee1c3" sha1="2569834c5e19d50a09089d22faa40acd5040a8eb" date="1995-07-07 12:21:54"/>
+		<rom name="MW2PRM.CFG" size="536" crc="55b4474a" md5="14c68faa2412f24b36950bdb88b59836" sha1="222ef6b42f4871766446fe8e75e1fde041dcbad5" date="1995-07-08 12:37:36"/>
 		<rom name="MW2SETUP.EXE" size="231631" crc="1cf7c3e3" md5="4b0dae1bcac6d70f4e300b732297c579" sha1="10df60eeabdcbc982297b20c0f70bf4fa245f6e9" date="1995-10-05 16:45:46"/>
 		<rom name="MW2SHELL.EXE" size="621979" crc="343446d8" md5="62e69ef74a5a614fe1fb93cab8799a95" sha1="f882d537e85fb95ffa44f559e14b4e1855e80f66" date="1995-11-12 16:14:10"/>
 		<rom name="NEWCSCN1.BWD" size="3732" crc="f5da6934" md5="c56dd5a1188e40a2f7824b22266e11e5" sha1="a64b7fd671ce661bff9b99c22eeeebf9fecf608b" date="1995-11-11 15:13:42"/>
