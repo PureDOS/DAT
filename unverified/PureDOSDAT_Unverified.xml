@@ -76025,13 +76025,20 @@
 		<description>Waxworks</description>
 		<year>1992</year>
 		<developer>Accolade</developer>
-		<comment>Installed from 4 3.5" floppy disks matching The Good Old Days ID: 107</comment>
+		<comment>
+			Installed from 4 3.5" floppy disks matching The Good Old Days ID: 107
+			Also matches with TDC#23 entry: WaxWorks [a1] (1992)(Accolade, Inc.) [Adventure, Role-Playing (RPG)]
+			DoDAT cannot build this directly from the disk images - many files need to be installed.
+		</comment>
 		<comment_dosc>
 			Auto start
 			Copy protection patch
 			MT-32 sound option
+			Game speed reduced
+			Direct mouse enabled
 		</comment_dosc>
 		<link type="media">https://www.goodolddays.net/en/diskimages/?id=107</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/WaxWorks+%5Ba1%5D+(1992)(Accolade,+Inc.)+%5BAdventure,+Role-Playing+(RPG)%5D</link>
 		<rom name="001.VGA" size="372" crc="deaceccc" md5="ba43de14718ef63bb3723d8389a95f9e" sha1="350b97bfbd79f45a0b62667c9476a29b1bb56739" date="1992-09-27 15:44:52"/>
 		<rom name="002.VGA" size="12578" crc="a450f5f6" md5="10c9b618a47ddc6f8cab54ed6287a823" sha1="ada0bd5420fc4f589586e7614726f168ebd878ee" date="1992-09-25 20:35:46"/>
 		<rom name="011.VGA" size="3806" crc="a3b6de48" md5="4116cb3ef4da633ce21ba4ca99b22222" sha1="f02a16c331cdef7539a8e9b92323971fa3fa4a38" date="1992-09-27 15:43:20"/>
