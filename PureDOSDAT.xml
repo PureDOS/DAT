@@ -27334,12 +27334,24 @@
 		<rom name="VOLFIED.EXE" size="2877" crc="414bf40a" md5="685597e4c6d965073bbc7e0c7d759c70" sha1="b3f0fa91f97e760f48efc3fe844fcfcd7e44b750" date="1991-12-05 13:57:36"/>
 	</game>
 	<game name="Warcraft - Orcs &amp; Humans (1994) (Blizzard Entertainment).dosz">
-		<description>Warcraft: Orcs &amp; Humans</description>
+		<description>Warcraft - Orcs &amp; Humans</description>
 		<year>1994</year>
 		<developer>Blizzard Entertainment</developer>
-		<comment>Installed v1.22h from CD matching with Redump: WarCraft - Orcs &amp; Humans (USA) (Rerelease) (1996-10-13)</comment>
-		<comment_dosc>Sound Blaster 16 config and auto start. General MIDI option</comment_dosc>
-		<link type="media">http://redump.org/disc/35137/</link>
+		<comment>
+			Installed v1.22h from CD matching Redump version: WarCraft - Orcs &amp; Humans (USA) (Rerelease) (1996-10-13)
+			DoDAT cannot build this directly from the disc image
+			DoDAT can build this using the GOG release
+			DODAT can build this using TDC#23 entry: Warcraft- Orcs & Humans v1.22h (1994)(Blizzard Entertainment Inc.) [Strategy]
+		</comment>
+		<comment_dosc>
+			Auto-start
+			Sound Blaster 16 config
+			General MIDI option
+			Refurbished Edition (v9.0) (joelek) patch
+		</comment_dosc>
+		<link type="media">http://redump.info/disc/35137/</link>
+		<link type="media">https://puredos.github.io/tdc-browser/?/Warcraft-++Orcs+&+Humans+v1.22h+(1994)(Blizzard+Entertainment+Inc.)+%5BStrategy%5D</link>
+		<link type="patch">https://github.com/joelek/wc-refurbished</link>
 		<rom name="DATA/CAVE1.WAR" size="3249252" crc="de16ca10" md5="ae8fcf5bf23f337c013f134acaa67176" sha1="c204475b73aa2cb86caf1da17360f1c542763cea" date="1994-10-15 03:46:06"/>
 		<rom name="DATA/CAVE2.WAR" size="72094" crc="fce1f529" md5="0aed9e150dcb64708820f4237af5624d" sha1="0e0511efedbe9814925c7a61b56d844b7bb772db" date="1994-10-15 03:46:12"/>
 		<rom name="DATA/CAVE3.WAR" size="1081692" crc="5729b05f" md5="81554cf0730d0f76474a61e2a536f1e2" sha1="4c7485c83c672d23c6c62ace0da38ef3951482d5" date="1994-10-15 03:46:08"/>
