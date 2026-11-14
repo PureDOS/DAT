@@ -819,7 +819,7 @@
 		<rom name="WORLDS/TOWN.LIB" size="440535" crc="0637f1ac" md5="646db64c92db01004045bf31c921a42b" sha1="8335116576e126995589afec64d438cd2851da84"/>
 		<rom name="WORLDS/VOICE.LIB" size="287791" crc="f0450c07" md5="9572d583756c776d721285d1feab48c2" sha1="5d59490bbe4089517048566e6d8a1dfd9afe52e5"/>
 	</game>
-`	<game name="Aladdin (1994) (Virgin Interactive Entertainment).dosz">
+	<game name="Aladdin (1994) (Virgin Interactive Entertainment).dosz">
 		<description>Aladdin</description>
 		<year>1994</year>
 		<developer>Virgin Interactive Entertainment</developer>
@@ -6270,11 +6270,10 @@
 	</game>
 	<game name="Bandit Kings of Ancient China (1989) (Koei).dosz">
 		<description>Bandit Kings of Ancient China</description>
-		<year>1989</year>
-		<developer>Koei</developer>
 		<comment>Matches TDC 23 entry: Bandit Kings of Ancient China (1989)(KOEI Co., Ltd.) [Role-Playing (RPG), Strategy]</comment>
 		<comment_dosc>Auto-starts, sets cpu year to 1989</comment_dosc>
-		<link type="media">https://puredos.github.io/tdc-browser/?/Bandit+Kings+of+Ancient+China+(1989)(KOEI+Co.,+Ltd.)+%5BRole-Playing+(RPG),+Strategy%5D</link>
+		<year>1989</year>
+		<developer>Koei</developer>
 		<rom name="ANIMEIBM.DAT" size="57569" crc="a0f26f43" md5="733f0d2fdae3f651768fb994324af502" sha1="3add71e25c1a992a654efcc97c330a37756727a7" date="1989-06-29 16:46:18"/>
 		<rom name="END.EXE" size="22011" crc="607c573c" md5="50d0ae35157ded961e8053905d880d2b" sha1="08b97d049ce3e7cf22760b4e4b657fa0cba341a8" date="1989-08-25 10:04:34"/>
 		<rom name="ENDING.DAT" size="172436" crc="8fb8cf75" md5="4ec6c874180df56a12dc7c828f5ff3eb" sha1="60d4e70338a59428d1dccef02a7a62ee19e1d6ac" date="1989-07-07 11:21:54"/>
