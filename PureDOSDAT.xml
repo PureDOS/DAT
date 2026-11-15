@@ -3431,7 +3431,7 @@
 			CD image converted with CHDtoOGG using -n option.
 			DoDAT cannot build this directly from the disc image - many files need to be installed.
 		</comment>
-		<comment_dosc>Set CPU max year 2000, sound and video config, auto start, setup and map editor launch config</comment_dosc>
+		<comment_dosc>Set CPU max year 2000, sound and video config, build mouse fix, auto start, setup and map editor launch config</comment_dosc>
 		<link type="media">https://redump.info/disc/1715</link>
 		<link type="media">https://puredos.github.io/dat-browser/?/One+Unit+Whole+Blood+v1.21+(1998)(GT+Interactive+Software+Corp.)+%5Bbin-cue%5D</link>
 		<rom name="DOS.YML" size="15" crc="2a433b80" md5="e40323ccb78915a6535905685cda44bc" sha1="983c1eead36b04246fb65738d2b7c5fdea46951f" data="bWVtX3NpemU6IDY1NTM2"/>
@@ -7875,7 +7875,7 @@
 	<game name="Duke Nukem 3D (1996) (3D Realms).dosz">
 		<description>Duke Nukem 3D</description>
 		<comment>Installed v1.3d from CD, BUILD.EXE and SETUP.DAT copied from the CD</comment>
-		<comment_dosc>Sound Blaster 16 config, 640x480 resolution, and auto start. General MIDI option</comment_dosc>
+		<comment_dosc>Sound Blaster 16 config, 640x480 resolution, build mouse fix, and auto start. General MIDI option</comment_dosc>
 		<year>1996</year>
 		<developer>3D Realms</developer>
 		<rom name="BUILD.EXE" size="526957" crc="f7f2f14f" md5="2f663fa4fabddcd808dd4ab73508c5bc" sha1="0e3071c2e13cf60ee984c6c51602a91387f87cc3" date="1996-04-19 13:30:00"/>
@@ -7902,7 +7902,7 @@
 			BUILD.EXE and SETUP.DAT copied from the CD
 			DoDAT can build this directly from the disc image
 		</comment>
-		<comment_dosc>Sound Blaster 16 config, 640x480 resolution, and auto start. General MIDI option</comment_dosc>
+		<comment_dosc>Sound Blaster 16 config, 640x480 resolution, build mouse fix, and auto start. General MIDI option</comment_dosc>
 		<year>1996</year>
 		<developer>3D Realms</developer>
 		<link type="media">http://redump.org/disc/20161/</link>
@@ -20304,7 +20304,7 @@
 		<year>1997</year>
 		<developer>3D Realms</developer>
 		<comment>Installed v1.2 from CD. Audio tracks converted with CHDtoOGG using -n option</comment>
-		<comment_dosc>Sound Blaster 16 config, 640x480 resolution, and auto start</comment_dosc>
+		<comment_dosc>Sound Blaster 16 config, 640x480 resolution, build mouse fix, and auto start</comment_dosc>
 		<link type="media">http://redump.org/disc/2010/</link>
 		<rom name="CD/Shadow Warrior (USA) (Track 1).bin" size="43008" crc="10d89042" md5="73db37b47ede9da7e9fbaae52c6c8a8b" sha1="8a2846aac1e2ceb8a08a9cd5591e9a85228d5cab"/>
 		<rom name="CD/Shadow Warrior (USA) (Track 2).ogg" size="6104316" crc="3985ddec" md5="f5e6a199b879c103e506fa8a927693a4" sha1="8a43143995583f91c37b42c64f31f1d9131c47c9">
