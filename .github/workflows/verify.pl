@@ -61,7 +61,7 @@ foreach my $m (@files)
 					{
 						$XMLErr->("Embedded data of '$fname' results in wrong file - Embedded: ".length($fdata)." bytes ".sha1_hex($fdata)." - Need: $fsize bytes $fsha1");
 					}
-					push(@filearr, '"'.$fname.'"');
+					push(@filearr, "\"$fname\",$fsize,\"$fsha1\"");
 					$inrom = ($romslash ? undef : $fname);
 				}
 				elsif ($tab == 3 && $ln =~ /^<source type="([^\"]+)" frames="([^\"]+)"(?: pregap="([^\"]+)"|)(?: omitted_pregap="([^\"]+)"|) duration="([^\"]+)"(?: size="([^\"]+)" crc="([^\"]+)" md5="([^\"]+)" sha1="([^\"]+)" in_zeros="([^\"]+)" out_zeros="([^\"]+)" quality="([^\"]+)"|)(?: non_silence_pregap="([^\"]+)"|)\/>$/ && $inrom)
@@ -84,7 +84,7 @@ foreach my $m (@files)
 				}
 				elsif ($tab == 2 && $ln =~ /^<\/rom>$/ && $inrom)
 				{
-					if ($rommeta) { $rommeta = ''; }
+					if ($rommeta) { $filearr[-1].= ",\"$rommeta\""; $rommeta = ''; }
 					$inrom = 0;
 				}
 				elsif ($tab == 1 && $ln =~ /^<\/game>$/)
@@ -100,6 +100,28 @@ foreach my $m (@files)
 						my $expectdesc = $ingame; $expectdesc =~ s/^(.*?), (The|An|A)/\2 \1/; $expectdesc =~ s/\) \[([^\]]+)\]$/\)/;
 						my $expectname = $description.' ('.$year.') ('.$developer.')'.($g->{variant}?' ('.$g->{variant}.')' : ''); $expectname =~ s/\: / - /;
 						if ($expectdesc ne $expectname) { $XMLErr->("Game name doesn't match 'DESCRIPTION (YEAR) (DEVELOPER) (VARIANT)' template (expected  '$expectname')"); }
+
+						foreach my $f (@filearr) # test if matching CUE files can be generated
+						{
+							next unless $f =~ /^(\".*)\.cue\",\d+,"(\w+)"/i;
+							my ($cuebase, $cuebaselen, $ofs, $cuesha1, $cue) = ($1, length($1), (rindex($1, '/') > 0 ? rindex($1, '/') + 1 : 1), $2, '');
+							foreach my $tf (@filearr)
+							{
+								next if substr($tf, 0, $cuebaselen) ne $cuebase or $tf !~ / \(Track (\d+)\)\.(bin|ogg)\",(\d+),"\w+"(.*)$/;
+								my ($tname, $tbin, $tnum, $tsize, $tmeta, $ttype, $tframes, $tpg, $tomitpg) = (substr($tf, $ofs, $+[2] - $ofs), ($2 eq 'bin'), $1, $3, $4);
+								if ($tmeta =~ /^,\"S\#(\w+)\#(\d+)\#(\d*)\#(\d*)/) { ($ttype, $tframes, $tpg, $tomitpg) = ($1, $2, $3, $4); }
+								$cue .= "FILE \"$tname\" ".($tbin ? 'BINARY' : 'MP3')."\r\n";
+								$cue .= '  TRACK '.($tnum<10 ? '0' : '')."$tnum ".($tbin ? 'MODE'.((substr($ttype,4,1)|0)||1).'/'.($tframes ? ($tsize/$tframes)|0 : 2048) : 'AUDIO')."\r\n";
+								if (!$tpg && !$tomitpg) # Data or audio track without pregap
+									{ $cue .= "    INDEX 01 00:00:00\r\n"; }
+								elsif ($tpg) # Audio track with included pregap use a pair of INDEX 00 and INDEX 01 tags
+									{ $cue .= sprintf("    INDEX 00 00:00:00\r\n    INDEX 01 %02d:%02d:%02d\r\n", $tpg/4500|0, ($tpg/75|0)%60, $tpg%75); }
+								else # Audio track with omitted pregap use PREGAP and INDEX 01 tags
+									{ $cue .= sprintf("    PREGAP %02d:%02d:%02d\r\n    INDEX 01 00:00:00\r\n", $tomitpg/4500|0, ($tomitpg/75|0)%60, $tomitpg%75); }
+							}
+							my $gensha1 = sha1_hex($cue);
+							if ($cue && $gensha1 ne $cuesha1) { $XMLErr->("CUE file $cuebase.cue\" with SHA1 $cuesha1 could not be generated correctly (generated CUE file has SHA1 $gensha1). Wrong track file order? Missing track meta data?\n\n    Generated CUE file:\n".("-"x100)."\n$cue\n".("-"x100)."\n"); }
+						}
 					}
 
 					my $filars = join(",", @filearr);
