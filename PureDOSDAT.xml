@@ -19930,9 +19930,7 @@
 		<year>1994</year>
 		<developer>Imagexcel</developer>
 		<comment>
-			Installed from Redump-verified CD-ROM: Quarantine (USA)
-			CD also matches with TDC#23 entry: Quarantine CD (1994)(GameTek, Inc.) [bin-cue]
-			Basic install size.
+			Installed from original US CD-ROM release entering directory "C:" using BASIC INSTALL option.
 			CD image converted with CHDtoOGG (quality level -q9).
 			DoDAT can build this directly from the disc image.
 		</comment>
@@ -19940,7 +19938,7 @@
 			Auto start
 			Sound Blaster 16 config
 			CPU max year set to 1992
-			Option to run the game with intro sequences
+			Option to run the game with intro and outro sequences
 			IPS patch that bypasses copy protection
 		</comment_dosc>
 		<link type="media">https://redump.info/disc/74947</link>
@@ -19982,22 +19980,22 @@
 			<source type="AUDIO" frames="21875" omitted_pregap="150" duration="04:51:50" size="51450000" crc="a8db21cb" md5="1854b1d3bffc3564c5dfdf039008af55" sha1="173682232ec3a06f4a433a5ba9c2407c6ae3b050" in_zeros="3614" out_zeros="526960" quality="9" non_silence_pregap="1"/>
 		</rom>
 		<rom name="CD/Quarantine (USA).cue" size="1250" crc="34527580" md5="0715ad234fb34ebbe4cdc0ff8d370651" sha1="dc08347fd09db5fd39735b1d064f1fc695e184c0"/>
-		<rom name="Q/CD.DAT" size="5" crc="c41a51d6" md5="b399d328972476895810676d9d5e931e" sha1="cb32897560b2b37b6d96a0bba9787d3c645ce1b9"/>
-		<rom name="Q/CDTYPE.DAT" size="2" crc="41d912ff" md5="c4103f122d27677c9db144cae1394a66" sha1="1489f923c4dca729178b3e3233458550d8dddf29"/>
-		<rom name="Q/CONFIG.DAT" size="1" crc="a2681b02" md5="8bb6c17838643f9691cc6a4de6c51709" sha1="8dc00598417d4eb788a77ac6ccef3cb484905d8b" date="1994-05-10 09:10:42"/>
-		<rom name="Q/DOS4GW.EXE" size="221045" crc="099efb69" md5="4716107431eb3bf2e054770a496ae84f" sha1="a7f5060bfb54a8b3208298a43dc487acc2f7582a" date="1994-09-26 09:02:52"/>
-		<rom name="Q/INPUT.DAT" size="2" crc="b2816d2f" md5="46028609922581afcfc377a820ab5684" sha1="9d60f706cc3ceb8fb2fb98aa9db3265458997974" date="1994-09-07 14:13:10"/>
-		<rom name="Q/NORMAL.DAT" size="5" crc="bb8f5648" md5="f9bf993bc4903f5857716211726337ed" sha1="a3d08c81e7474ee2caacf2a13f4f213a71854753"/>
-		<rom name="Q/Q.BAT" size="39" crc="8c4cb4ce" md5="97a493956289c1074aa334d154ac2f37" sha1="d5bf13acff3f4f21cd73556b78a1074ca5387675" data="QGVjaG8gb2ZmDQpzZXQgRE9TNEc9cXVpZXQNCnNraXBpdCAlMQ0K"/>
-		<rom name="Q/QVIDAUD.BAT" size="97" crc="f891af7f" md5="26a51cba59fecb87cf05ce3a17d1db30" sha1="f310be98161b6715ca3142f4c4b1e38a40eacc9d" data="QGVjaG8gb2ZmDQpzZXQgRE9TNEc9cXVpZXQNCkQ6DQpEVUtET1MgQlFVQVIxREsuQVZJDQpDOg0Kc2tpcGl0ICUxDQpEOg0KRFVLRE9TIEJRVUFSMkRLLkFWSQ0KQzoNCg=="/>
-		<rom name="Q/QVIDEO.BAT" size="101" crc="cd53c3a6" md5="759546f942df6f751c93fdc3484ed795" sha1="9eac2e6b849f5f5edce1bdd630f894b5b14cd577" data="QGVjaG8gb2ZmDQpzZXQgRE9TNEc9cXVpZXQNCkQ6DQpEVUtET1NOQSBCUVVBUjFESy5BVkkNCkM6DQpza2lwaXQgJTENCkQ6DQpEVUtET1NOQSBCUVVBUjJESy5BVkkNCkM6DQo="/>
-		<rom name="Q/SAVE0.GAM" size="16" crc="243a5fda" md5="ec7f5513a6a0de2f11c8e7dba36073bb" sha1="70825a3ffb56d62b70d4a1abf4d5e0e88ac44274" date="1994-09-26 09:04:04"/>
-		<rom name="Q/SAVE1.GAM" size="16" crc="243a5fda" md5="ec7f5513a6a0de2f11c8e7dba36073bb" sha1="70825a3ffb56d62b70d4a1abf4d5e0e88ac44274" date="1994-09-26 09:04:04"/>
-		<rom name="Q/SAVE2.GAM" size="16" crc="243a5fda" md5="ec7f5513a6a0de2f11c8e7dba36073bb" sha1="70825a3ffb56d62b70d4a1abf4d5e0e88ac44274" date="1994-09-26 09:04:06"/>
-		<rom name="Q/SAVE3.GAM" size="16" crc="243a5fda" md5="ec7f5513a6a0de2f11c8e7dba36073bb" sha1="70825a3ffb56d62b70d4a1abf4d5e0e88ac44274" date="1994-09-26 09:04:06"/>
-		<rom name="Q/SAVE4.GAM" size="16" crc="243a5fda" md5="ec7f5513a6a0de2f11c8e7dba36073bb" sha1="70825a3ffb56d62b70d4a1abf4d5e0e88ac44274" date="1994-09-26 09:04:06"/>
-		<rom name="Q/SETUP.EXE" size="24534" crc="d2954fed" md5="e40fe788f83121414e234ca90f4f4c68" sha1="f49449ec3a6048123d958ae3b0bd1ec5661dcd1f" date="1994-09-28 08:46:02"/>
-		<rom name="Q/SKIPIT.EXE" size="572501" crc="a6479c2d" md5="8434d4f238109ce8a89acf4e5cc16700" sha1="65844dd668c8cc934be1cde055cd835ce3095424" date="1994-09-28 11:02:18"/>
+		<rom name="CD.DAT" size="5" crc="c41a51d6" md5="b399d328972476895810676d9d5e931e" sha1="cb32897560b2b37b6d96a0bba9787d3c645ce1b9"/>
+		<rom name="CDTYPE.DAT" size="2" crc="41d912ff" md5="c4103f122d27677c9db144cae1394a66" sha1="1489f923c4dca729178b3e3233458550d8dddf29"/>
+		<rom name="CONFIG.DAT" size="1" crc="a2681b02" md5="8bb6c17838643f9691cc6a4de6c51709" sha1="8dc00598417d4eb788a77ac6ccef3cb484905d8b" date="1994-05-10 14:10:42"/>
+		<rom name="DOS4GW.EXE" size="221045" crc="099efb69" md5="4716107431eb3bf2e054770a496ae84f" sha1="a7f5060bfb54a8b3208298a43dc487acc2f7582a" date="1994-09-26 14:02:52"/>
+		<rom name="INPUT.DAT" size="2" crc="b2816d2f" md5="46028609922581afcfc377a820ab5684" sha1="9d60f706cc3ceb8fb2fb98aa9db3265458997974" date="1994-09-07 19:13:10"/>
+		<rom name="NORMAL.DAT" size="3" crc="935a143a" md5="bf66384531b1056244573dfaf4288043" sha1="35d45d983d89475ff64356483409c6379ce22328"/>
+		<rom name="Q.BAT" size="39" crc="8c4cb4ce" md5="97a493956289c1074aa334d154ac2f37" sha1="d5bf13acff3f4f21cd73556b78a1074ca5387675" data="QGVjaG8gb2ZmDQpzZXQgRE9TNEc9cXVpZXQNCnNraXBpdCAlMQ0K"/>
+		<rom name="QVIDAUD.BAT" size="97" crc="f891af7f" md5="26a51cba59fecb87cf05ce3a17d1db30" sha1="f310be98161b6715ca3142f4c4b1e38a40eacc9d" data="QGVjaG8gb2ZmDQpzZXQgRE9TNEc9cXVpZXQNCkQ6DQpEVUtET1MgQlFVQVIxREsuQVZJDQpDOg0Kc2tpcGl0ICUxDQpEOg0KRFVLRE9TIEJRVUFSMkRLLkFWSQ0KQzoNCg=="/>
+		<rom name="QVIDEO.BAT" size="101" crc="cd53c3a6" md5="759546f942df6f751c93fdc3484ed795" sha1="9eac2e6b849f5f5edce1bdd630f894b5b14cd577" data="QGVjaG8gb2ZmDQpzZXQgRE9TNEc9cXVpZXQNCkQ6DQpEVUtET1NOQSBCUVVBUjFESy5BVkkNCkM6DQpza2lwaXQgJTENCkQ6DQpEVUtET1NOQSBCUVVBUjJESy5BVkkNCkM6DQo="/>
+		<rom name="SAVE0.GAM" size="16" crc="243a5fda" md5="ec7f5513a6a0de2f11c8e7dba36073bb" sha1="70825a3ffb56d62b70d4a1abf4d5e0e88ac44274" date="1994-09-26 14:04:04"/>
+		<rom name="SAVE1.GAM" size="16" crc="243a5fda" md5="ec7f5513a6a0de2f11c8e7dba36073bb" sha1="70825a3ffb56d62b70d4a1abf4d5e0e88ac44274" date="1994-09-26 14:04:04"/>
+		<rom name="SAVE2.GAM" size="16" crc="243a5fda" md5="ec7f5513a6a0de2f11c8e7dba36073bb" sha1="70825a3ffb56d62b70d4a1abf4d5e0e88ac44274" date="1994-09-26 14:04:06"/>
+		<rom name="SAVE3.GAM" size="16" crc="243a5fda" md5="ec7f5513a6a0de2f11c8e7dba36073bb" sha1="70825a3ffb56d62b70d4a1abf4d5e0e88ac44274" date="1994-09-26 14:04:06"/>
+		<rom name="SAVE4.GAM" size="16" crc="243a5fda" md5="ec7f5513a6a0de2f11c8e7dba36073bb" sha1="70825a3ffb56d62b70d4a1abf4d5e0e88ac44274" date="1994-09-26 14:04:06"/>
+		<rom name="SETUP.EXE" size="24534" crc="d2954fed" md5="e40fe788f83121414e234ca90f4f4c68" sha1="f49449ec3a6048123d958ae3b0bd1ec5661dcd1f" date="1994-09-28 13:46:02"/>
+		<rom name="SKIPIT.EXE" size="572501" crc="a6479c2d" md5="8434d4f238109ce8a89acf4e5cc16700" sha1="65844dd668c8cc934be1cde055cd835ce3095424" date="1994-09-28 16:02:18"/>
 	</game>
 	<game name="Ravenloft - Strahd's Possession (1994) (DreamForge Intertainment).dosz">
 		<description>Ravenloft: Strahd's Possession</description>
