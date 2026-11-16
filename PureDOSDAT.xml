@@ -6603,10 +6603,11 @@
 	</game>
 	<game name="D-Generation (1991) (Mindscape).dosz">
 		<description>D-Generation</description>
-		<comment>English VGA version, files from CD version</comment>
-		<comment_dosc>Auto start, fixed CPU speed</comment_dosc>
 		<year>1991</year>
 		<developer>Mindscape</developer>
+		<comment>English VGA version installed from Redump-verified CD-ROM: D-Generation (USA)</comment>
+		<comment_dosc>Auto start, fixed CPU speed</comment_dosc>
+		<link type="media">https://redump.info/disc/116796</link>
 		<rom name="ADLIBFX.DRV" size="25470" crc="2e5c246a" md5="a6c6853efdf650a1d2e493c5e3ff2fd0" sha1="369e1563c88a26d5b2972ce71a80406d37a8944b" date="1995-06-19 21:36:56"/>
 		<rom name="DATA/BACK1.DAT" size="64000" crc="f5d895f8" md5="424ab15f99c823f0b69f769f2899e8f4" sha1="659f607bd000cc5ac6029a2144d1928a06bac7be" date="1995-06-19 21:36:56"/>
 		<rom name="DATA/BLUE.PAL" size="144" crc="05583be8" md5="9505c0f3792af2f79bde4e63c2cae843" sha1="2ccbeb3243830ed4f52c479f809f7bc707c34e0a" date="1995-06-19 21:38:00"/>
@@ -6832,10 +6833,11 @@
 	</game>
 	<game name="Descent (1995) (Parallax Software).dosz">
 		<description>Descent</description>
-		<comment>Installed v1.4a from Descent Anniversary Edition CD</comment>
-		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
 		<year>1995</year>
 		<developer>Parallax Software</developer>
+		<comment>Installed v1.4a with Redump-verified CD-ROM: Descent - Anniversary Edition (USA).</comment>
+		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
+		<link type="media">https://redump.info/disc/23720</link>
 		<rom name="CHAOS.HOG" size="174751" crc="56fc6f36" md5="42dd3b986ed1dfc89b88caafafd7f0e9" sha1="85d6ffca86b3458b9349e4ece4615bf825baf7e9"/>
 		<rom name="CHAOS.MSN" size="309" crc="939c5b26" md5="b426bdb95acdf7dddde503ad079e3a94" sha1="20cf5157d021e456551478d40fa9cdea725c2a21"/>
 		<rom name="DESCENT.B50" size="1503" crc="ed3d22e4" md5="8036f548c67100b56fd10b86e60e0724" sha1="471aa5a1c827e84eeed210f54a8255d6ba9345cb"/>
@@ -6859,10 +6861,11 @@
 	</game>
 	<game name="Descent - Anniversary Edition Levels (1996) (Parallax Software).dosz">
 		<description>Descent: Anniversary Edition Levels</description>
-		<comment>Installed from Descent Anniversary Edition CD</comment>
 		<year>1996</year>
 		<developer>Parallax Software</developer>
+		<comment>Installed from Redump-verified CD-ROM: Descent - Anniversary Edition (USA)</comment>
 		<parent>Descent (1995) (Parallax Software).dosz</parent>
+		<link type="media">https://redump.info/disc/23720</link>
 		<rom name="COMDELUX.HOG" size="76864" crc="528cd375" md5="626ec9daab6328a28be9b71d5e3fedca" sha1="181ca505467f141f8c9401caea08c01e14498aeb"/>
 		<rom name="COMDELUX.MSN" size="67" crc="6c694be7" md5="c2555d180000899936593feec840d345" sha1="dc8483cf87aee4423872bde620e055735d71dd76"/>
 		<rom name="CORR11.HOG" size="43779" crc="601b3ec3" md5="7fa8c6a1beb08542e2f7cbd907ac00f2" sha1="e2e7d67b2d5824078d46f4e85aa2e32980242412"/>
@@ -6907,10 +6910,13 @@
 	</game>
 	<game name="Descent - Levels of the World (1995) (Parallax Software).dosz">
 		<description>Descent: Levels of the World</description>
-		<comment>Extracted from Descent Anniversary Edition CD</comment>
 		<year>1995</year>
 		<developer>Parallax Software</developer>
+		<comment>Extracted from Redump-verified CD-ROM: Descent - Anniversary Edition (USA)
+		Matches TDC#23 Entry: Descent- Levels of the World (1995)(Interplay Entertainment Corp.) [Action, Addon]</comment>
 		<parent>Descent (1995) (Parallax Software).dosz</parent>
+		<link type="media">https://redump.info/disc/23720</link>
+		<link type="media">https://puredos.github.io/tdc-browser/?/Descent-+Levels+of+the+World+(1995)(Interplay+Entertainment+Corp.)+%5BAction,+Addon%5D</link>
 		<rom name="Descent (1995) (Parallax Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="_DLOW.MSN" size="66" crc="29d2dabb" md5="da51ced38776e295cdf3f8201c514134" sha1="717777239f1cac2a0fd92c762f542b9c7adc0280" date="1995-10-30 19:21:26"/>
 		<rom name="ABANDN10.MSN" size="138" crc="124c8d75" md5="05a10e03f2247fa4ddd57081764d416c" sha1="c24071dc3fedb31a5530bde6709f40b09e50b0e8" date="1995-09-13 00:00:00"/>
@@ -7165,6 +7171,8 @@
 	</game>
 	<game name="Descent II (1996) (Parallax Software).dosz">
 		<description>Descent II</description>
+		<year>1996</year>
+		<developer>Parallax Software</developer>
 		<comment>
 			Installed v1.0 from CD.
 			Options:
@@ -7179,9 +7187,7 @@
 			DESCENT.CFG is needed in the DOSZ for SETUP.EXE to work without reinstalling
 		</comment>
 		<comment_dosc>Required DESCENT.CFG file and auto start. 3dfx option</comment_dosc>
-		<year>1996</year>
-		<developer>Parallax Software</developer>
-		<link type="media">http://redump.org/disc/1947/</link>
+		<link type="media">https://redump.info/disc/1947/</link>
 		<link type="patch">https://soggi.org/misc/game-patches.htm</link>
 		<link type="patch">https://soggi.org/misc/3dfx-voodoo-game-patches.htm</link>
 		<link type="driver">https://www.vogonsdrivers.com/getfile.php?fileid=158&amp;menustate=2,1</link>
@@ -7259,10 +7265,11 @@
 	</game>
 	<game name="Descent II - The Vertigo Series (1996) (Parallax Software).dosz">
 		<description>Descent II: The Vertigo Series</description>
-		<comment>Installed from CD</comment>
 		<year>1996</year>
 		<developer>Parallax Software</developer>
+		<comment>Installed from Redump-verified CD-ROM: Descent II - The Vertigo Series (USA)</comment>
 		<parent>Descent II (1996) (Parallax Software).dosz</parent>
+		<link type="media">https://redump.info/disc/37289</link>
 		<rom name="Descent II (1996) (Parallax Software).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="Descent II.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="D2X-H.MVL" size="6076634" crc="ce778842" md5="c8925d2bc5c72ab9baf4b9d86cbfcca8" sha1="e04995cd04bd75024156b094968f84ab8dc23c7a" date="1996-10-15 17:19:20"/>
@@ -25002,11 +25009,32 @@
 		<year>1997</year>
 		<developer>Bullfrog Productions</developer>
 		<comment>
-			Installed from EU/AU multi-language CD-ROM release, other files copied from CD.
-			The required HOSPITAL.CFG can be created by DoDAT or ExtractDATEmbeds using the embedded data.
-			DoDAT can build this directly from the disc image.
+			Installed from Redump-verified CD-ROM. The required HOSPITAL.CFG can be created by DoDAT or ExtractDATEmbeds using
+			the embedded data. DoDAT can build this directly from the disc image.
+			Redump-verified CD-ROMs that can build this DOSZ:
+				Theme Hospital (Europe) (En,Fr,De,Es,It,Sv)
+				Theme Hospital (Europe, Australia) (En,Fr,De,Es,It,Sv) (Rev 1)
+				Theme Hospital (Europe) (Rev 1) (Alt)
+				Theme Hospital (Europe) (En,Fr,De,Es,It,Sv) (Rerelease) (2000-06-16)
+				Theme Hospital (Europe) (En,Fr,De,Es,It,Sv) (Rerelease) (2002-08-09)
+				Theme Hospital (Europe) (En,Fr,De,Es,It,Sv) (Rerelease) (2002-08-09) (Alt)
+				Theme Hospital (Europe) (En,Fr,De,Es,It,Sv) (Sold Out Software)
+				Theme Hospital (Europe) (En,Fr,De,Es,It,Sv) (Sold Out Software) (Rerelease)
+				Theme Hospital (Europe) (Rerelease) (2001-05-14)
+				Theme Hospital (Germany) (En,Fr,De,Es,It,Sv) (Rerelease) (1999-07-08)
+			Can also install from TDC#23 Entry: Theme Hospital (Installer) (En)(Fr)(De)(It)(Es)(Sv) (1997)(Electronic Arts, Inc.) [Simulation, Strategy]
 		</comment>
 		<comment_dosc>Sound config, MIDI and language launch configurations</comment_dosc>
+		<link type="media">https://redump.info/disc/6814</link>
+		<link type="media">https://redump.info/disc/15805</link>
+		<link type="media">https://redump.info/disc/88716</link>
+		<link type="media">https://redump.info/disc/15804</link>
+		<link type="media">https://redump.info/disc/88099</link>
+		<link type="media">https://redump.info/disc/94819</link>
+		<link type="media">https://redump.info/disc/19689</link>
+		<link type="media">https://redump.info/disc/111335</link>
+		<link type="media">https://redump.info/disc/52464</link>
+		<link type="media">https://redump.info/disc/56951</link>
 		<rom name="ANIMS/320X2401.SMK" size="872896" crc="3b409017" md5="4d0c496b10b1b451e91775b11d836f75" sha1="cdc8d8db5f52c95ba19efd04b3e5e28a40b53967" date="1996-12-05 17:11:20"/>
 		<rom name="ANIMS/320X2402.SMK" size="1122228" crc="a563d9bc" md5="2482104ac9d185994dc31ac4eecb1fb1" sha1="959bd1438315ae34ffd32c8cdf139a6adc46d1ba" date="1996-12-09 14:34:16"/>
 		<rom name="ANIMS/320X2403.SMK" size="1447988" crc="34af5288" md5="241a38b84de945e52af66acfceeeb4ea" sha1="f4077b0a0a24d2efe0c3fdb9c2841fd4c472125b" date="1996-12-05 17:12:28"/>
