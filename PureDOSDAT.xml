@@ -6552,7 +6552,10 @@
 		<description>Cyberbykes: Shadow Racer VR</description>
 		<year>1995</year>
 		<developer>Gametek</developer>
-		<comment>Files extracted from Redump-verified CD-ROM: Cyberbykes - Shadow Racer VR (USA)</comment>
+		<comment>
+			Files extracted from Redump-verified CD-ROM: Cyberbykes - Shadow Racer VR (USA)
+			DoDAT can build this directly from the disc image.
+		</comment>
 		<comment_dosc>Sound and video config file, auto start</comment_dosc>
 		<link type="media">https://redump.info/disc/2298</link>
 		<rom name="ABORTD.FLC" size="610422" crc="fe55ba07" md5="f9690c0695989d33860fd4c8082313cc" sha1="d2bca0b016473e9f0f774d29cf80b368bf9d6bdd" date="1995-06-22 08:31:40"/>
@@ -6605,7 +6608,10 @@
 		<description>D-Generation</description>
 		<year>1991</year>
 		<developer>Mindscape</developer>
-		<comment>English VGA version installed from Redump-verified CD-ROM: D-Generation (USA)</comment>
+		<comment>
+			English VGA version installed from Redump-verified CD-ROM: D-Generation (USA)
+			DoDAT can build this directly from the disc image.
+		</comment>
 		<comment_dosc>Auto start, fixed CPU speed</comment_dosc>
 		<link type="media">https://redump.info/disc/116796</link>
 		<rom name="ADLIBFX.DRV" size="25470" crc="2e5c246a" md5="a6c6853efdf650a1d2e493c5e3ff2fd0" sha1="369e1563c88a26d5b2972ce71a80406d37a8944b" date="1995-06-19 21:36:56"/>
@@ -6835,7 +6841,10 @@
 		<description>Descent</description>
 		<year>1995</year>
 		<developer>Parallax Software</developer>
-		<comment>Installed v1.4a with Redump-verified CD-ROM: Descent - Anniversary Edition (USA).</comment>
+		<comment>
+			Installed v1.4a with Redump-verified CD-ROM: Descent - Anniversary Edition (USA)
+			DoDAT can build this directly from the disc image.
+		</comment>
 		<comment_dosc>Sound Blaster 16 config and auto start</comment_dosc>
 		<link type="media">https://redump.info/disc/23720</link>
 		<rom name="CHAOS.HOG" size="174751" crc="56fc6f36" md5="42dd3b986ed1dfc89b88caafafd7f0e9" sha1="85d6ffca86b3458b9349e4ece4615bf825baf7e9"/>
@@ -6863,7 +6872,10 @@
 		<description>Descent: Anniversary Edition Levels</description>
 		<year>1996</year>
 		<developer>Parallax Software</developer>
-		<comment>Installed from Redump-verified CD-ROM: Descent - Anniversary Edition (USA)</comment>
+		<comment>
+			Installed from Redump-verified CD-ROM: Descent - Anniversary Edition (USA)
+			DoDAT can build this directly from the disc image.
+		</comment>
 		<parent>Descent (1995) (Parallax Software).dosz</parent>
 		<link type="media">https://redump.info/disc/23720</link>
 		<rom name="COMDELUX.HOG" size="76864" crc="528cd375" md5="626ec9daab6328a28be9b71d5e3fedca" sha1="181ca505467f141f8c9401caea08c01e14498aeb"/>
@@ -6913,8 +6925,9 @@
 		<year>1995</year>
 		<developer>Parallax Software</developer>
 		<comment>
-		Extracted from Redump-verified CD-ROM: Descent - Anniversary Edition (USA)
-		Matches TDC#23 Entry: Descent- Levels of the World (1995)(Interplay Entertainment Corp.) [Action, Addon]
+			Extracted from Redump-verified CD-ROM: Descent - Anniversary Edition (USA)
+			Also matches TDC#23 Entry: Descent- Levels of the World (1995)(Interplay Entertainment Corp.) [Action, Addon]
+			DoDAT can build this directly from the disc image.
 		</comment>
 		<parent>Descent (1995) (Parallax Software).dosz</parent>
 		<link type="media">https://redump.info/disc/23720</link>
@@ -25011,10 +25024,10 @@
 		<year>1997</year>
 		<developer>Bullfrog Productions</developer>
 		<comment>
-			Installed from Redump-verified CD-ROM. The required HOSPITAL.CFG can be created by DoDAT or ExtractDATEmbeds using
-			the embedded data. DoDAT can build this directly from the disc image.
-			Redump-verified CD-ROMs that can build this DOSZ:
-				Theme Hospital (Europe) (En,Fr,De,Es,It,Sv)
+			Installed from Redump-verified CD-ROM: Theme Hospital (Europe) (En,Fr,De,Es,It,Sv)
+			The required HOSPITAL.CFG can be created by DoDAT or ExtractDATEmbeds using the embedded data.
+			DoDAT can build this directly from the disc image.
+			Other Redump-verified CD-ROMs that can build this DOSZ:
 				Theme Hospital (Europe, Australia) (En,Fr,De,Es,It,Sv) (Rev 1)
 				Theme Hospital (Europe) (Rev 1) (Alt)
 				Theme Hospital (Europe) (En,Fr,De,Es,It,Sv) (Rerelease) (2000-06-16)
@@ -25024,7 +25037,7 @@
 				Theme Hospital (Europe) (En,Fr,De,Es,It,Sv) (Sold Out Software) (Rerelease)
 				Theme Hospital (Europe) (Rerelease) (2001-05-14)
 				Theme Hospital (Germany) (En,Fr,De,Es,It,Sv) (Rerelease) (1999-07-08)
-			Can also install from TDC#23 Entry: Theme Hospital (Installer) (En)(Fr)(De)(It)(Es)(Sv) (1997)(Electronic Arts, Inc.) [Simulation, Strategy]
+			Can also build using TDC#23 Entry: Theme Hospital (Installer) (En)(Fr)(De)(It)(Es)(Sv) (1997)(Electronic Arts, Inc.) [Simulation, Strategy]
 		</comment>
 		<comment_dosc>Sound config, MIDI and language launch configurations</comment_dosc>
 		<link type="media">https://redump.info/disc/6814</link>
