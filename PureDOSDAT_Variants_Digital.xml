@@ -209,10 +209,14 @@
 	</game>
 	<game name="Caesar II (1995) (Impressions Games) (GOG).dosz">
 		<description>Caesar II</description>
-		<comment_dosc>Default GOG config and auto run</comment_dosc>
 		<year>1995</year>
 		<developer>Impressions Games</developer>
 		<variant>GOG</variant>
+		<comment_dosc>
+			Autoruns
+			Sound config, including MT-32 and General MIDI options
+			Enables direct mouse input
+		</comment_dosc>
 		<rom name="A09.WAV" size="11604" crc="17c4e783" md5="16e412fa21829a5176a33715df410e31" sha1="98be5dfa7ec08c86fc3e08c96451f039292a5bc9"/>
 		<rom name="AAQUADU.256" size="768" crc="a4c64800" md5="50d8f0d99ac1634c1ab5e06559c948b7" sha1="8f60dbc235688c2578e6d31094f94ed0548e21d6"/>
 		<rom name="AARENA.256" size="768" crc="a4c64800" md5="50d8f0d99ac1634c1ab5e06559c948b7" sha1="8f60dbc235688c2578e6d31094f94ed0548e21d6"/>
@@ -492,7 +496,6 @@
 		<rom name="REGIONS.DAT" size="158400" crc="63a0d8aa" md5="94c6f4f3d2fe83c6199658811f2581ea" sha1="4c1bfe56c892dce16c523d0160826afca94b0652"/>
 		<rom name="RELEASE.TXT" size="25169" crc="08f34b55" md5="e217b6d4661c8ec7aa2807a7a127c0b1" sha1="169a57acb1c3fe329e33a6e98a2a0cb28ae68338"/>
 		<rom name="RESERV.WAV" size="19966" crc="d1ece67e" md5="3e2c4e770b7d4c929cc418005ad71ddd" sha1="a9cdf3f9d1be573d65012fc4748d881146da4590"/>
-		<rom name="RESOURCE.CFG" size="392" crc="fd24ad22" md5="c9779b972b6fec244e9b9af2dfac902b" sha1="624f0f0e5aef10a646a2a4e3465615919fe0020e"/>
 		<rom name="RHETOR.WAV" size="19696" crc="2da72f25" md5="0b2936c5e896cd45f228c7f3a6889ac3" sha1="c6f3b8999bd234456eaeac8f7faa3d710ba1e805"/>
 		<rom name="RIOTERS.256" size="768" crc="acce0322" md5="66bbeab7c3480ffa87df6c2dce3ca426" sha1="fdc2ba27b54db250f04e580bf26505a8b9b29e8a"/>
 		<rom name="RIOTERS.PL8" size="48664" crc="7768dd35" md5="d269b59d0677577d05bef336a3c8b43e" sha1="88bab9e0442eae1b3f2b18c24eaa7612b917463c"/>
