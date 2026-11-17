@@ -4288,10 +4288,19 @@
 	</game>
 	<game name="Caesar II (1995) (Impressions Games).dosz">
 		<description>Caesar II</description>
-		<comment>Installed directly to C:\ from Europe 1997 v1.2 CD-ROM rerelease, sound and music set to Sound Blaster 16, directories PL8, RAW, SMK and XMI copied from the CD and RESOURCE.CFG modified with all occurences of D: changed to C:</comment>
-		<comment_dosc>Sound config and auto run</comment_dosc>
 		<year>1995</year>
 		<developer>Impressions Games</developer>
+		<comment>
+			Installed using Redump-verified CD-ROM: Caesar II (Europe) (Rerelease) (1997-09-12)
+			Directories PL8, RAW, SMK and XMI copied from the CD
+			DoDAT can build this directly from the disc image.
+		</comment>
+		<comment_dosc>
+			Autoruns
+			Sound config, including MT-32 and General MIDI options
+			Enables direct mouse input
+		</comment_dosc>
+		<link type="media">https://redump.info/disc/31608</link>
 		<rom name="A09.WAV" size="11604" crc="17c4e783" md5="16e412fa21829a5176a33715df410e31" sha1="98be5dfa7ec08c86fc3e08c96451f039292a5bc9" date="1995-09-11 11:10:50"/>
 		<rom name="AAQUADU.256" size="768" crc="a4c64800" md5="50d8f0d99ac1634c1ab5e06559c948b7" sha1="8f60dbc235688c2578e6d31094f94ed0548e21d6" date="1995-08-21 17:41:14"/>
 		<rom name="AARENA.256" size="768" crc="a4c64800" md5="50d8f0d99ac1634c1ab5e06559c948b7" sha1="8f60dbc235688c2578e6d31094f94ed0548e21d6" date="1995-08-21 17:41:26"/>
@@ -4390,7 +4399,6 @@
 		<rom name="BUILD3F.PL8" size="5918" crc="24e4ef4d" md5="6508fcffaeee4845cc51e8ec5361f547" sha1="a689d354e009a67e8b0c71889761cb315b3d1d1a" date="1995-09-10 17:44:50"/>
 		<rom name="C2.BAT" size="71" crc="1c27bbb7" md5="3484f33ac19ec34405fd7dc4a069d537" sha1="7816671268da43337808b301808a01b4387e93da"/>
 		<rom name="C2.ENG" size="32734" crc="6968fd2a" md5="dfbaa27d08b356bc4585a235d485fd2e" sha1="53997efc219911f02b90aeaf46e68166f564b2ef" date="1996-08-28 13:49:12"/>
-		<rom name="C2.PIF" size="967" crc="484b76c0" md5="05842e062a25f23e75ae7b787c5b2591" sha1="70f7886191fbf636cffc61a1dd1ef9911a1388d2" date="1995-09-14 20:40:36"/>
 		<rom name="C2MODEL.DAT" size="4360" crc="e451b91f" md5="2d58a7fe2a0e142310a2ac2377d452cc" sha1="26920073e6803d143ec5161f9d7f4c4717e80c34" date="1995-09-10 17:37:46"/>
 		<rom name="CAESAR.AD" size="2142" crc="e7ef1d53" md5="4efa7f3b46f37d69fde3ce9234650252" sha1="460bfbbfb7f4a8675607eb1147273dc75aac9743" date="1995-07-18 09:34:10"/>
 		<rom name="CAESAR.OPL" size="2347" crc="6a9ab9d6" md5="1a725d29b777da9298b88400ae774a09" sha1="bb37cd4fb88f22137f3f5b084ebf2bd965e34cbf" date="1995-07-18 09:34:16"/>
@@ -4424,7 +4432,6 @@
 		<rom name="DEATH.WAV" size="10456" crc="fedb8d38" md5="384e8014ef793f6ee25c375f7e5ff471" sha1="58750a1ff95426d84e51456538e652aad80e66c7" date="1995-07-25 01:21:16"/>
 		<rom name="DEATHB.WAV" size="5636" crc="ed90b8f3" md5="b867c74f79bc3c7bc2fa660cdeab231f" sha1="3546c84a48071b78168302245fc345c03b7617a8" date="1995-07-25 01:34:26"/>
 		<rom name="DEATHR.WAV" size="4344" crc="f6e65029" md5="a130c77f4bb89a0fcc4a67a35f2afbbc" sha1="4503a332fa904bfe4fb5fba10123365d2444a2a1" date="1995-07-25 01:34:48"/>
-		<rom name="DIG.INI" size="207" crc="44443172" md5="422428d5c66cdf2dbdacf2346e7dc3e4" sha1="367e61fd8e4dbec2c8d05a77c5d20747a80e0a1f"/>
 		<rom name="DISCS.DAT" size="256" crc="2d158994" md5="b16402f4e50353c9095eafed9eaecb65" sha1="a99ac27be9c6e6840b97af2db6c13f55ef3b7c37" date="1995-08-25 16:22:54"/>
 		<rom name="DISCS.IX" size="1996" crc="16a910bd" md5="8725c2065549ad746dd308d2dfe52816" sha1="0c84e2c851d65b6ba430154a1e9b671018e4d449" date="1995-05-03 13:59:56"/>
 		<rom name="DOMIBUST.256" size="768" crc="e8479862" md5="7602d640e8194d2f21321411955fdd70" sha1="96bd87288f1c025ddb504d0c746fba9b415820f0" date="1995-09-01 14:04:26"/>
@@ -4473,7 +4480,6 @@
 		<rom name="ICONS.PL8" size="99848" crc="584e71b4" md5="51de1d60a42003ff7989dee51de8776b" sha1="1724b2a4842b75fa5aff66045ea30f1646d4957b" date="1995-04-12 16:24:08"/>
 		<rom name="INSTALL.EXE" size="87524" crc="82607fdb" md5="70a5e183e06dfedc09b7d0f31b31dbc4" sha1="81498daa5f39d2464a8d82e1ecdc5ba17141c01f" date="1995-08-01 15:23:54"/>
 		<rom name="INSTALL.HLP" size="21747" crc="d0a87b17" md5="5c32f4440df4ad932d036b3908feb613" sha1="d9d772cd77a6e15042d51ea36f080252fc39e2b7" date="1995-08-03 13:19:26"/>
-		<rom name="INSTALL.PIF" size="995" crc="399a1c50" md5="6bc3aebf44001e57da6d7bb736ee3ed3" sha1="275e407d69c3bcbdc67f6b1e86b2ce460daf1085" date="1995-09-02 16:42:12"/>
 		<rom name="INSTALL.SCR" size="2458" crc="f0c8c13d" md5="a0b357c006bf083180cc0fa7bd3b47c8" sha1="1d22633dc1819d1251795d4d0eaccea336bdef01" date="1995-09-21 16:44:46"/>
 		<rom name="INSTALL.TXT" size="9590" crc="eba20f31" md5="de8f1f93678f6c928628b87b4a102838" sha1="a1d4a8935c1affff4a43f5a75f7e04f79e00aa6a" date="1995-03-17 15:28:50"/>
 		<rom name="INSULA.256" size="768" crc="56cb415b" md5="497e3eaad60328146123f8c3ea58038e" sha1="549a96cad88102e1dda7920576a63ddb51db4b77" date="1995-09-01 14:09:22"/>
@@ -4504,7 +4510,6 @@
 		<rom name="MARCSTAT.256" size="768" crc="fe6eb816" md5="2ec637a66688a770650ad0fe21108db7" sha1="d6f420901f7280049e4d620e949752b85147ed7d" date="1995-09-03 16:38:50"/>
 		<rom name="MARKETH.WAV" size="19894" crc="f1d79f18" md5="3447862566b97c69ba719e30125f40c7" sha1="9984a70776553607002a44d6d0ea1a1b00b4ad79" date="1995-07-25 01:24:44"/>
 		<rom name="MARKETL.WAV" size="19782" crc="38a750dd" md5="628b4f373f11e42d0f81e6dc52705ed3" sha1="b59d3d0ff48c5e3892e02fd05c54bd3288a9e1ea" date="1995-07-25 01:24:56"/>
-		<rom name="MDI.INI" size="204" crc="68a722e0" md5="b0f84e01ab53812f79118fd603c768c2" sha1="14105c50c5a505f85164397453803523c6874bec"/>
 		<rom name="MEDRUB.WAV" size="19894" crc="5592865c" md5="9c674dabd9b60ca349a173783ef11845" sha1="f74a3d127352792e8fb7ae4250e257d8117a3e22" date="1995-08-12 21:44:20"/>
 		<rom name="MELEE2A.WAV" size="19640" crc="9c762131" md5="facb909439f20a935005a4c19f6294fb" sha1="5abd634fbad8ca24019cbf34ba09126a761f86e1" date="1995-07-25 01:35:24"/>
 		<rom name="MELEEAM.WAV" size="19856" crc="2fcbf02f" md5="d1507dd1f622ab40a29d4c42f936ec5a" sha1="610cc60f0c6c2f9c7a16c68b632c6e166f543fdc" date="1995-07-25 01:35:38"/>
@@ -4867,7 +4872,6 @@
 		<rom name="REGIONS.DAT" size="158400" crc="63a0d8aa" md5="94c6f4f3d2fe83c6199658811f2581ea" sha1="4c1bfe56c892dce16c523d0160826afca94b0652" date="1995-09-21 15:47:18"/>
 		<rom name="RELEASE.TXT" size="25169" crc="08f34b55" md5="e217b6d4661c8ec7aa2807a7a127c0b1" sha1="169a57acb1c3fe329e33a6e98a2a0cb28ae68338" date="1995-08-01 15:39:54"/>
 		<rom name="RESERV.WAV" size="19966" crc="d1ece67e" md5="3e2c4e770b7d4c929cc418005ad71ddd" sha1="a9cdf3f9d1be573d65012fc4748d881146da4590" date="1995-09-13 10:31:46"/>
-		<rom name="RESOURCE.CFG" size="392" crc="38a80146" md5="e10a9a74311e2f8b39a569e9121c4c03" sha1="7cca7ea57f61f18e66ac07b4e4cb4e1d05d8f3fe" date="1995-09-15 15:50:06"/>
 		<rom name="RHETOR.WAV" size="19696" crc="2da72f25" md5="0b2936c5e896cd45f228c7f3a6889ac3" sha1="c6f3b8999bd234456eaeac8f7faa3d710ba1e805" date="1995-07-25 01:29:24"/>
 		<rom name="RIOTERS.256" size="768" crc="acce0322" md5="66bbeab7c3480ffa87df6c2dce3ca426" sha1="fdc2ba27b54db250f04e580bf26505a8b9b29e8a" date="1995-09-13 17:29:00"/>
 		<rom name="RIOTERS.PL8" size="48664" crc="7768dd35" md5="d269b59d0677577d05bef336a3c8b43e" sha1="88bab9e0442eae1b3f2b18c24eaa7612b917463c" date="1995-09-13 17:29:02"/>
@@ -4883,7 +4887,6 @@
 		<rom name="SBPRO1.MDI" size="15471" crc="25370f67" md5="998eced7549230f6d621766f0cce4c39" sha1="92775d93ad5ee563ae8bf2b6f51ba8d444039e52" date="1995-01-18 06:00:00"/>
 		<rom name="SBPRO2.MDI" size="16541" crc="0ab0493a" md5="8879265bf3b414346f66c326389e32ae" sha1="4a9d598979e14f4f8c0e76fe0246b305fb848955" date="1995-01-18 06:00:00"/>
 		<rom name="SETSOUND.EXE" size="167953" crc="1ef79742" md5="d1e58aba65e756d0586eb7ceea8c854f" sha1="c038a08de27cbf42b2decbcf386ef997e468ed4a" date="1995-01-31 06:00:00"/>
-		<rom name="SETSOUND.PIF" size="545" crc="1414bebb" md5="420f30071dcad2a4656eaa2d0692f67b" sha1="24d3bbd1e8285ed703c8a0b104c797bc87003787" date="1995-08-23 09:00:04"/>
 		<rom name="SHIP5.WAV" size="19750" crc="964b4f06" md5="f4598cbfb04eb0d4a131aec41d888a20" sha1="c64f9704af81e3c1c992e82a5e1cc89bcf298f85" date="1995-07-25 01:42:48"/>
 		<rom name="SHIP6.WAV" size="19882" crc="fd587719" md5="44212ccf22157fabdaa1ac2e367c0e86" sha1="8690be76a30703103908aa78040bb216fb3e392d" date="1995-07-25 01:43:06"/>
 		<rom name="SHIPYRD1.WAV" size="19904" crc="8b39c26b" md5="f8dabd5fe951a8ce0a689de78dde84f6" sha1="328af4878afee1f2374ed57b32ac824633d12597" date="1995-07-25 01:43:18"/>
