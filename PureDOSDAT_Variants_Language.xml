@@ -17,12 +17,15 @@
 		<variant>Deutsch</variant>
 		<comment>
 			Installed using Redump-verified CD-ROM: Siedler II, Die - Gold Edition (Germany) (Rerelease) (2000-03-08)
-			CD image converted with CHDtoOGG using -n option.
+			WORLDS files extracted from the disc after.
+			CD image converted with CHDtoOGG.
 			DoDAT can build this directly from the disc image.
 		</comment>
 		<comment_dosc>Auto-starts, config, General MIDI and Map Editor launch options</comment_dosc>
 		<link type="media">https://redump.info/disc/56407</link>
-		<rom name="CD/Siedler II, Die - Gold Edition (Germany) (Rerelease) (2000-03-08) (Track 1).bin" size="43008" crc="10d89042" md5="73db37b47ede9da7e9fbaae52c6c8a8b" sha1="8a2846aac1e2ceb8a08a9cd5591e9a85228d5cab"/>
+		<rom name="CD/Siedler II, Die - Gold Edition (Germany) (Rerelease) (2000-03-08) (Track 1).bin" size="245104272" crc="fcdcab71" md5="286c96f5daabfbfad8f06e5630d7c1fb" sha1="c0e52c5a90c16cb6bc9a75f58c44cc51d66633c9">
+			<source type="MODE1_RAW" frames="104211" duration="23:09:36"/>
+		</rom>
 		<rom name="CD/Siedler II, Die - Gold Edition (Germany) (Rerelease) (2000-03-08) (Track 2).ogg" size="4583896" crc="0647fb75" md5="dd4520d030ec05d8f47f03fbc852e8e7" sha1="72e16421ebb3438062ed80c181807b1a01bb16d3">
 			<source type="AUDIO" frames="11695" omitted_pregap="151" duration="02:35:70" size="27506640" crc="8ef2b18b" md5="1e8d3c822ab70f9eaa7a09670cd4614f" sha1="d0ec8347a8846ace6eae49c6cb1928fdaed6b8da" in_zeros="535884" out_zeros="361527" quality="8" non_silence_pregap="1"/>
 		</rom>
@@ -47,7 +50,7 @@
 		<rom name="CD/Siedler II, Die - Gold Edition (Germany) (Rerelease) (2000-03-08) (Track 9).ogg" size="5223261" crc="b2a33663" md5="d8f83d541e44c116515e99d4e58169f3" sha1="89402ec7763dcda8c8a0747ae1f99587d14e0ef8">
 			<source type="AUDIO" frames="13051" omitted_pregap="149" duration="02:54:01" size="30695952" crc="16bb2678" md5="7670cdf86254b120d5c0f5f09c2c4b64" sha1="9e2c0993de5ae6655f71b4b55060bf4cf84e39bf" in_zeros="535948" out_zeros="355152" quality="8"/>
 		</rom>
-		<rom name="CD/Siedler II, Die - Gold Edition (Germany) (Rerelease) (2000-03-08).cue" size="1373" crc="4e13789d" md5="f41df80de1232786f64fda6ff92a38de" sha1="55448e9d0ef949b97cbbb7dbd67e3b389c0ec18f"/>
+		<rom name="CD/Siedler II, Die - Gold Edition (Germany) (Rerelease) (2000-03-08).cue" size="1373" crc="f76fd6e1" md5="1285ddd0ea71a4c77001aebf15930ef9" sha1="d2a327c84824b91e7507649975e4c05ee2038f0b"/>
 		<rom name="DATA/ANIMDAT/ROM_ANIM.DAT" size="38404" crc="235c8d08" md5="d64a04f1078d7ba056172b2f6e9f296e" sha1="d64312bedc78ff3169f8d101f58490d61a8f40cf"/>
 		<rom name="DATA/BOBS/BOAT.LST" size="20784" crc="5e6018e8" md5="18cf46f14a5e3665c8a163d45879b42b" sha1="8af99a597d5252d9d14124426239888a9b930e8d"/>
 		<rom name="DATA/BOBS/CARRIER.BOB" size="79988" crc="ae3ff796" md5="491b567b1f884420db25c75c8ca616f4" sha1="9dfe4c40548af68ae3909de67be403e8da5a3188"/>
@@ -389,7 +392,136 @@
 		<rom name="SETUP.INI" size="423" crc="66dfe094" md5="c40f075eecc3eef696868654cab17f59" sha1="1caad7e9a4cfb35d506ce442175e1d7aa6664694" data="W1NZU1RFTV0NClZFU0E9WQ0KRlBVPVkNClNPVVJDRV9QQVRIPUQ6XFMyXA0KTEFOR1VBR0U9MQ0KRURJVF9TQ1JFRU49MA0KW1ZFU0FdDQpNT0RFXzEwMjR4NzY4eDE2LjJNPU4NCk1PREVfODAweDYwMHgxNi4yTT1ZDQpNT0RFXzY0MHg0ODB4MTYuMk09WQ0KTU9ERV8xMDI0eDc2OHg2NGs9WQ0KTU9ERV84MDB4NjAweDY0az1ZDQpNT0RFXzY0MHg0ODB4NjRrPVkNCk1PREVfMTAyNHg3Njh4MzJrPVkNCk1PREVfODAweDYwMHgzMms9WQ0KTU9ERV82NDB4NDgweDMyaz1ZDQpNT0RFXzEwMjR4NzY4eDI1Nj1ZDQpNT0RFXzgwMHg2MDB4MjU2PVkNCk1PREVfNjQweDQ4MHgyNTY9WQ0KTU9ERV82NDB4NDAweDI1Nj1ZDQpNRU1PUlk9MjA5NzE1Mg0KVkVTQV9WRVJTSU9OX1NVQk5VTUJFUj0wDQpWRVNBX1ZFUlNJT05fTlVNQkVSPTINCk9FTT1TMw0K"/>
 		<rom name="SIEDLER2.EXE" size="19108" crc="6a829ea7" md5="445c039df0949a316d0fe8b4e08dc74d" sha1="8f8e41849afe28cc06bf9c7b4e4422129cc9a582"/>
 		<rom name="START.BAT" size="30" crc="cb38812c" md5="37948262cc396af615b4f61353e0124f" sha1="e1d4bf3cc3b46b8e990f62da8bd50eee41a7d108"/>
-		<rom name="WORLDS/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-12-31 00:00:00"/>
+		<rom name="WORLDS/3VULKANE.SWD" size="132286" crc="9a6660a8" md5="e10c67b075d4b36a4edecc13e419aa90" sha1="b9d33d6945adcdf6080b6243efcb5883f1d599aa"/>
+		<rom name="WORLDS/4F_RSTEN.SWD" size="178263" crc="1956c068" md5="30292c5110cd9737dbb92c86becdabbd" sha1="4f17e2e82f86b84364c96accf37ba4309872fa80"/>
+		<rom name="WORLDS/ANDRE.SWD" size="525363" crc="83a546b6" md5="021640b4b53720ade61d203478908335" sha1="ae6c5e5abcd0ece5bb1bbc51cc8e270659f896c1"/>
+		<rom name="WORLDS/ANDRE2.SWD" size="60106" crc="68aa2d06" md5="7dd3cef0c64c2018d314098448d50b8a" sha1="e22abdc3ec855a9fdc63138d2ce322aecb781e18"/>
+		<rom name="WORLDS/AUG.SWD" size="102969" crc="90118f56" md5="25099e18bd1bb725b936ee3034aa3c8a" sha1="66ab6db43167dabdbdc8d8b2d486d8c8dbe47804"/>
+		<rom name="WORLDS/AUSTRIA.SWD" size="224492" crc="9ec6e929" md5="4393904a18ed0453a59a653028581b50" sha1="2a17009ca10ab9285c43243af3bb1f76512e33a3"/>
+		<rom name="WORLDS/BBLUME.SWD" size="295636" crc="a4b37808" md5="54141c78a3f60e62f9f90f5146903281" sha1="47e11255322e26e8fb1a68007c0ef664f192e3ee"/>
+		<rom name="WORLDS/BLUEBYTE.SWD" size="523753" crc="9aa8ed7f" md5="4913c7b825c7cebb9c707ec8cdb7c69e" sha1="be9372ad77a3f8b6658736411c65700fd73379a5"/>
+		<rom name="WORLDS/BORKUM.SWD" size="203526" crc="c7f30428" md5="40d155c347897763801c82751449e193" sha1="04542d078e13cd6293d9efea8574e85ac8c5b26c"/>
+		<rom name="WORLDS/BRUEDER.SWD" size="131966" crc="8bb41a18" md5="873de8a6c5efc9e29658736d62213f3f" sha1="1a438eff2cb4cd5f98cbbd5c9af782924350f757"/>
+		<rom name="WORLDS/CALEDOR.SWD" size="524098" crc="d8dff61c" md5="4a1e79b3509fd5670d94c4b73fa96b85" sha1="6e952c76d0846ac65f5ab86f49089786f87b641f"/>
+		<rom name="WORLDS/DASBLATT.SWD" size="519148" crc="a807b42f" md5="4e96227fa6d60878d493b10edff6d74c" sha1="771acd4c26189cd8fad01cbb78290c4d059eef6e"/>
+		<rom name="WORLDS/DEUTSCH.SWD" size="952471" crc="0e2689c3" md5="29b645fb9cfbe998c97e01fd0ffc556c" sha1="142505c439b57048496cd6aad459f456fdb14f3c"/>
+		<rom name="WORLDS/DIEZWEI.SWD" size="299926" crc="0a35570c" md5="d8508de6ceea689d4ea90204a7dc7ac5" sha1="537acc424f1e18b07577a2f095f332cf2ae32f55"/>
+		<rom name="WORLDS/DINOLAND.SWD" size="516664" crc="e5551ef2" md5="41cbbefe4fa09301fc9ce3ff92dd07c1" sha1="79076a613a28fb95ff4922874ba7b945cb264665"/>
+		<rom name="WORLDS/DREIECK.SWD" size="132471" crc="a83eef23" md5="2dafc6baf69d61559a5e8abeb25e6764" sha1="b23055d86a85cd0b1ca4a4d4824412b50669aa3c"/>
+		<rom name="WORLDS/DREISEEN.SWD" size="232203" crc="a138cd00" md5="c813559934ff654b71216ab69865f3b0" sha1="93142d4051aa08a467b0c3ae5b29f0ac13438555"/>
+		<rom name="WORLDS/DUELL.SWD" size="132401" crc="bea53e58" md5="85965ff432d357cfaefed864996996d9" sha1="5fa13604dd4caaff0ef99fbcfcd7f3d27b313717"/>
+		<rom name="WORLDS/EARTH3.SWD" size="372632" crc="cec165fe" md5="bf2514e4bd084fa64d8719704e421c67" sha1="f0828eb1d085dcc7e99c9332a2b8168ed1e084d2"/>
+		<rom name="WORLDS/EDEN.SWD" size="131961" crc="ace29b77" md5="be7b3071224578d91bca20ceb97266c2" sha1="00252e9b538d8088e25fc978938978398dde0f46"/>
+		<rom name="WORLDS/EIGEN.SWD" size="153490" crc="d5eae7ca" md5="4178fb9611d01612217e018fddeac0ca" sha1="351afe3366915309ad6e11cd5851ccf3a0254256"/>
+		<rom name="WORLDS/EIGEN2.SWD" size="164007" crc="197005d6" md5="d532744676e768e4ffe2d6415059a13b" sha1="e8644ceb06872a0b6f013ffec8c30e276434abc8"/>
+		<rom name="WORLDS/EIGEN3.SWD" size="179298" crc="7e81aa75" md5="898dd738a92234da9778a9fe1a62f877" sha1="d31fc32498a9c61ba47189841b641c2465c5ee58"/>
+		<rom name="WORLDS/EILE.SWD" size="232613" crc="e4ff0bcc" md5="77af066f4d632612c957020dd15f2022" sha1="df745e0d16f1777b2e6d992a24aea3fc09b36e69"/>
+		<rom name="WORLDS/EISBERGE.SWD" size="131676" crc="6a478337" md5="840cb8aabf1086d4bb1fba91e15282a1" sha1="787e53bad61723457490564fc40169977ba7c7d0"/>
+		<rom name="WORLDS/EISZEIT.SWD" size="178588" crc="204dec7f" md5="6acb47fc8791b505ba633e3c0e71bf3e" sha1="4aa423be64b3e70df98a9bd513af6b420650676a"/>
+		<rom name="WORLDS/ETNA.SWD" size="131686" crc="bb918bde" md5="6145acd5d2b9788c9b0b32ef38ba2ed3" sha1="32fd8281c880f353c1384aca381c44f21caf79a0"/>
+		<rom name="WORLDS/FARUS.SWD" size="131781" crc="15f850f2" md5="d93f62c0996728270cd155eced6f7275" sha1="6f83a54a4421f84144b6305ba93e0fb3d030a11a"/>
+		<rom name="WORLDS/FRANKEN.SWD" size="705181" crc="f5486f1b" md5="70f95245edd4542fc10e91851f6cce02" sha1="04af2ee9056080ad6e93ccd36812f2a3dfc16ac5"/>
+		<rom name="WORLDS/FRANKEN1.SWD" size="261095" crc="eb2858d2" md5="f00c986a654bbcac3cf5bf37332e11fa" sha1="3839df96b01699d214e31ff8722c1e11bb3baa2a"/>
+		<rom name="WORLDS/FRANKEN2.SWD" size="176469" crc="acc59d71" md5="686b27374590c17a4d667425e897b6ae" sha1="57971adec8fe3d54e8e49f217d2e7e3177cb8bae"/>
+		<rom name="WORLDS/G_EDEN.SWD" size="132286" crc="2f2f0192" md5="29da7d2aa2235fd029a4e592e78e58e2" sha1="fc32ec220bf6d9090c650f02efeca706e56b868b"/>
+		<rom name="WORLDS/GEBIRGE.SWD" size="366612" crc="cef19593" md5="9f641f4ff0ff0e000d478c9573e3a5e1" sha1="773ed12aaaeaa1f351d322d9e2b6beee01b4aa4b"/>
+		<rom name="WORLDS/GEBIRGSS.SWD" size="347571" crc="25c3056e" md5="740dde92f2dc9036b0abf2bec615d484" sha1="82c29d8e993cdb959b7d7f5e5d4f48aa97b7f3d9"/>
+		<rom name="WORLDS/GLEICH.SWD" size="519228" crc="8f117d7b" md5="1367d0be4043dab19d767134d6c09bbf" sha1="a285a2a3d38557bcb9dfab96ff7555240a1553dd"/>
+		<rom name="WORLDS/GOLDV3.SWD" size="154145" crc="3cee065a" md5="370d54bfd327125fb9ef2c507b9fc436" sha1="65ecccdbce6de1b76709b3fc7ad2ece014d4d2b4"/>
+		<rom name="WORLDS/GREENISL.SWD" size="134946" crc="32ca7cff" md5="1f4879fd5bce3d49f9cf322a1be69b06" sha1="9156157faa3f16833a1be698c49aa4a8753c6342"/>
+		<rom name="WORLDS/GROSS.SWD" size="361762" crc="1c381f8a" md5="1ed0127221bce6dc6b740414bc9d4cd3" sha1="a82f6520c8dfc3486832f5702f40036836c4390a"/>
+		<rom name="WORLDS/GRUENLND.SWD" size="293786" crc="e6c1414c" md5="40e5829eef6c0fa6ed48ce08a5ab346f" sha1="f7f312a0bb88558587ab7ff357e91d80e759fe45"/>
+		<rom name="WORLDS/HIMALAYA.SWD" size="132421" crc="fdc35219" md5="5697de464d8ff7df39e8b866ca3ce5b2" sha1="aea80cf63246d26f25e86db6799ffa826807c92f"/>
+		<rom name="WORLDS/HOLLYDAY.SWD" size="362497" crc="95d7b921" md5="6ce7cd8db3d47a7803132a0546f666c5" sha1="2585c308aee8fa763d6029b93680468bc992b485"/>
+		<rom name="WORLDS/ICE.SWD" size="362372" crc="496f1ed7" md5="22ab388f643f2378e1d3a4b53d069d19" sha1="1e0ef303e7f1ccd53401fdffcb2d8a595d14e74e"/>
+		<rom name="WORLDS/ICELAND.SWD" size="132021" crc="fe2ec0cb" md5="68d86c1a9c19d2e0374dc4f243655e2e" sha1="aab7ca2ab4c095f8454b074401b0b2eb8c6335e4"/>
+		<rom name="WORLDS/ICELAND2.SWD" size="35438" crc="6c4d60c7" md5="444718ee75d736bd6232d28303ad5877" sha1="867817498d66aa95839257412db353f8294bbb9b"/>
+		<rom name="WORLDS/INSEL.SWD" size="131966" crc="39421944" md5="84aee4b1abc83ee809388d7b484dd204" sha1="7c7148e7a51bd75cd86bc523bcf54df58a6616a4"/>
+		<rom name="WORLDS/INSEL2.SWD" size="153980" crc="6eee7738" md5="ad7d7e2767737653c4b09260f7da7677" sha1="db481820f67524e1c09d6734dfd88b087c1e5060"/>
+		<rom name="WORLDS/INSEL3.SWD" size="232608" crc="b813f021" md5="58a34e9ee80ac4197472a40377955b18" sha1="ebe86a15b158c5abc224ef15185173a629ebd0dd"/>
+		<rom name="WORLDS/INSEL4.SWD" size="131966" crc="39421944" md5="84aee4b1abc83ee809388d7b484dd204" sha1="7c7148e7a51bd75cd86bc523bcf54df58a6616a4"/>
+		<rom name="WORLDS/INSEL5-2.SWD" size="437101" crc="cd32a870" md5="3368dde928f51d9ba925e07abf585601" sha1="66e7a6e09be9815703707955c1ddc3c3ea2f1633"/>
+		<rom name="WORLDS/INSEL6-6.SWD" size="519448" crc="4b889eb9" md5="9f7b69b4a3ba46fdfdf1f2e980471ea4" sha1="797c9f3fc7d6243d9cc24c9ac3bd2b8c4f23088f"/>
+		<rom name="WORLDS/INSELN.SWD" size="361642" crc="209876ef" md5="6a847d08652e3ad5ea5a6e89c69d973a" sha1="98b6dc065ec0b09b72e0da9050942ae18dc7a14c"/>
+		<rom name="WORLDS/INSELN2.SWD" size="132336" crc="dc3891b8" md5="712843e8354db631964ba832fa15448f" sha1="913399602639e99585f32335fca3862c355ddd27"/>
+		<rom name="WORLDS/ISLAND.SWD" size="327332" crc="da5c5900" md5="be1f4037069686221af435d1698f93db" sha1="6284a0935b706156476cfd2652e24276b352765d"/>
+		<rom name="WORLDS/JAGD.SWD" size="594352" crc="4a94e04c" md5="594bb2d108702e6eb691211a43234623" sha1="7933751e856d3321402c7332495d29b6ee5f102e"/>
+		<rom name="WORLDS/K003.SWD" size="178738" crc="02e9043c" md5="7edb0fd1168cac7902a03dac09b7cfed" sha1="d3f4404ac0cfc157ec4153935bad6fcff3e6f9f7"/>
+		<rom name="WORLDS/K004.SWD" size="261210" crc="53393131" md5="ab6fb10953f106600bfebbc0ce62b42c" sha1="4f394f8b55b40416a3893a8533da5d2b0d8b8500"/>
+		<rom name="WORLDS/K006.SWD" size="132506" crc="242261b8" md5="139e53e5c0197df5f346c752882d1491" sha1="9d500378aca58e314c1cfc65b1ca246da72ddafd"/>
+		<rom name="WORLDS/K007.SWD" size="93657" crc="c51d95a8" md5="1f170d4ce5457462d9803942415e4e09" sha1="28958f9a77a3a4af1f62f21433e8417033414543"/>
+		<rom name="WORLDS/KANADA.SWD" size="132721" crc="528fe7c0" md5="cef57e567684ee49ae3f78cccfc6cfd3" sha1="564f35d262f11ceeb0930fb6c05b02a8b0dac4a0"/>
+		<rom name="WORLDS/KARIBIK2.SWD" size="920521" crc="bf279b37" md5="479549396fe1d5dafee35a8f23928078" sha1="32b573a109dadfb10f04917b54db8c400b90aaf0"/>
+		<rom name="WORLDS/KARTE_2.SWD" size="361447" crc="6206072a" md5="3ad530f811b685b1cea3b7397703025a" sha1="eb210ac33ed57895a2344182fa8fa61d2ab52f20"/>
+		<rom name="WORLDS/KAVASAKI.SWD" size="133396" crc="d9f9cf9e" md5="c712b08e45b29e7e176d7b3d09362cf0" sha1="19e1922176771c0e74be96f33368c015a04edfba"/>
+		<rom name="WORLDS/KORSIKA.SWD" size="232728" crc="1df0216f" md5="95d89ca2e09d146a4ad0f0947c70775a" sha1="55bf6c7e761e003356f65e5ab94314d06baf3fe4"/>
+		<rom name="WORLDS/KREUZ.SWD" size="232438" crc="72295e73" md5="4b1495dcda027ba3959afb1388801f00" sha1="37eacf3be4f7fdc9604353f911635fa9cea80681"/>
+		<rom name="WORLDS/LAND1.SWD" size="421905" crc="82238cfd" md5="3210f395a19e9a27da84013d19f6f119" sha1="c6776146b2e7f14a42d26b22f55701f5c8da8005"/>
+		<rom name="WORLDS/LAND2.SWD" size="132061" crc="9c79070b" md5="84fee2eecf68a2bfbce3f62a5efa6c6f" sha1="b737ad299dade549b634b9e8dd6d6885d7f548fc"/>
+		<rom name="WORLDS/LAND3.SWD" size="132376" crc="d1dc30d9" md5="11e3d32fca697511ae2f1738b666bae7" sha1="cf07b46afcc5c33256a4fce655b183a8070c100b"/>
+		<rom name="WORLDS/LAPPLAND.SWD" size="132786" crc="bd518b17" md5="157c4a639c90e9ea75290c0438f4b583" sha1="eef0724f36028b7d74986782776c6d4eca3f5675"/>
+		<rom name="WORLDS/MAP.SWD" size="178383" crc="704b0265" md5="a7075905ab6ccdb6db22f1dca4443974" sha1="71c7a347c5bda4106c080b1386b79929f5763b49"/>
+		<rom name="WORLDS/MARTIN1.SWD" size="133566" crc="7d6b0fd2" md5="c0b3d22ab7272ae38aca8bd5e91ef3fd" sha1="1bd62fbd01270a3eb6e3b70b051fb736271ea654"/>
+		<rom name="WORLDS/MATTS1.SWD" size="180658" crc="2fab1a25" md5="dffda82c7e8c957bc4bd9fff09a8a31e" sha1="277bbbff4bb0cc8851a099ec459287c32db05fcd"/>
+		<rom name="WORLDS/MOIN.SWD" size="178588" crc="e728b762" md5="58c96389e3a07b900adec03a49e8d80e" sha1="82c9977ea246ede717d4f7780c726b0a79999a7a"/>
+		<rom name="WORLDS/NEUEKA.SWD" size="180033" crc="4ba0fb6c" md5="28e1cbf8ab703a6d2cc11f83fbc2c122" sha1="042742a8584e3355b8e4832848afc8579900dfcf"/>
+		<rom name="WORLDS/NEUEWELT.SWD" size="199878" crc="cc3a9bd8" md5="e4d33598c91f9595300b1f1b67705fc7" sha1="6f98a52c26550bbc6e441c5bc31b22b1c8b3b2a5"/>
+		<rom name="WORLDS/OASE.SWD" size="132461" crc="489c3580" md5="32376170f248f42c7ff9b9dcc189684b" sha1="a06f6a3b4c4b56be0ded570f1c926c6385bc2efb"/>
+		<rom name="WORLDS/OASE2.SWD" size="203966" crc="491ff43f" md5="6bc05cd2ca12f43985001f52a8fd0da0" sha1="31ff50fbd3e5d12136c530a3f15a6d912cb3e113"/>
+		<rom name="WORLDS/OASIS.SWD" size="132281" crc="c289bdd9" md5="f76ca63ac4a45a3ed17bf2042d5db5b8" sha1="791f24015adf023a6c77e99a020775e01ff0e939"/>
+		<rom name="WORLDS/OLYMPUS.SWD" size="131746" crc="3b2864fa" md5="52f0a7226caeee2ca674dcf392f920b7" sha1="64abb202204012665499362b9095c2cfd97b6836"/>
+		<rom name="WORLDS/OST_WEST.SWD" size="519778" crc="d56167d0" md5="d3a59b3d451772f52c4c975e3f8c3284" sha1="fd34a0c91044bb21c7029dbe150a681460ff7f6e"/>
+		<rom name="WORLDS/OWL.SWD" size="131796" crc="5d957bde" md5="5b15a4ecd5bfc366222b45c5b987d1f3" sha1="636b41200807e47d662e1ff105129b94ddce685c"/>
+		<rom name="WORLDS/PARADISE.SWD" size="74372" crc="1ed78509" md5="c06e01efa6fd9da29c321e3168dcce1f" sha1="0bc29edf20fbc8eca1a6dd1bbfac98897c3ce132"/>
+		<rom name="WORLDS/RALF001.SWD" size="92697" crc="563a4720" md5="30b5a0202b3dd98bcb2c5df67638b344" sha1="502db95dbb4c4f9ac5e7d6f81a15f37da7ef0be1"/>
+		<rom name="WORLDS/RENE.SWD" size="132086" crc="76318edf" md5="a3c6534b5f3796eb8812eb4a9c43082a" sha1="fe8b6ed5be7fb994f95b700531f8d90b30e8c8b8"/>
+		<rom name="WORLDS/RHEIN.SWD" size="518958" crc="f96e4f47" md5="d61517b526409bdc4ae1551cd1b0a56d" sha1="5c44f9d40eadee370948637dc8307cd5569419ea"/>
+		<rom name="WORLDS/RIEGLER1.SWD" size="614238" crc="39cadc45" md5="8a4c36a051ea8084e1c68f80bde59c23" sha1="fe7567293497a4a405fa869d142ad1a193cf1f61"/>
+		<rom name="WORLDS/RIEGLER2.SWD" size="132521" crc="1ab67045" md5="c2958b7a54d6d6878aaf43400f1b924b" sha1="6adf73e2fd855fef1f58c84931c61988ec36d04d"/>
+		<rom name="WORLDS/RIESENV.SWD" size="131731" crc="68b89ee0" md5="b14ac873934280de87eb663ac90363ae" sha1="166c85d61e36883386dd50f62b245121b2c1e46b"/>
+		<rom name="WORLDS/RSI01.SWD" size="363597" crc="67ca86c0" md5="206f79ca3e6a54148f64bf37e8152962" sha1="e63d6fdae0e1d671146c4f5617da816bb145bcdd"/>
+		<rom name="WORLDS/S_NTIS1.SWD" size="132421" crc="1f7c9ac4" md5="5200b0da8c57ef8adea48bdccd9a0160" sha1="ea3f2db15d978d39703dd1d92a417293f3c5e2e2"/>
+		<rom name="WORLDS/SACHSEN.SWD" size="692085" crc="a0413cdf" md5="87bdc868edc5a0da9c3c6297d5914b7c" sha1="c00ca2c226fcdbde198fc4fe83df2c1a52e7542b"/>
+		<rom name="WORLDS/SAGALAND.SWD" size="178908" crc="f4c5a16a" md5="31cca4d7b933a074eb7229b70e8de0c9" sha1="54f7e227b3a79ae7b1c796d532eb7565ec61777e"/>
+		<rom name="WORLDS/SALVODOR.SWD" size="925941" crc="ed31ffb1" md5="d66d0ce72e6e7a1509898bc5a06b59a2" sha1="65558cc649f9682879ff86b1199c413c85315787"/>
+		<rom name="WORLDS/SANDGRUB.SWD" size="131951" crc="a8bc4fe4" md5="b07f0f54089d4745f7d5744fc9d2d676" sha1="50ad89fe68d4597b8a2b35403d98e426d5d0fa1d"/>
+		<rom name="WORLDS/SCHATZIN.SWD" size="361092" crc="dd23b4ab" md5="2f6b324ebdde98453b0ef80b6c6ed4a0" sha1="53298ef5521186c9c89ce3cf83537406338fa5ed"/>
+		<rom name="WORLDS/SECHS.SWD" size="519578" crc="1652a0b6" md5="a791775d98219f8fad5cc0f1a631b36d" sha1="f840babce890f75202799e3e8dd2459c0f3a63ad"/>
+		<rom name="WORLDS/SEE.SWD" size="133026" crc="9277532c" md5="db9a134a7244dc5c11927e8b1dc5d36f" sha1="2932c593fe6d886d31696660e9c6490b1c6d4673"/>
+		<rom name="WORLDS/SIEDLE.SWD" size="134686" crc="27f910a7" md5="31f673c24d559d7bf5da9430155842c3" sha1="3e49c030b948c441f8e92d003ac3a52235fdb92a"/>
+		<rom name="WORLDS/SIEDLE2.SWD" size="929001" crc="97cbe404" md5="cdb3a56686df6b5a3ddb82c6c1d2a261" sha1="dc8caf61c60fdbbc611f9de2b745cee23becb224"/>
+		<rom name="WORLDS/SIEDLE3.SWD" size="232898" crc="c11a267b" md5="d4f7a500eb7366230999c14a78d814f4" sha1="1ceec5f3f0022eac903b140905444ee795a0fffd"/>
+		<rom name="WORLDS/SIEDLE4.SWD" size="132121" crc="008b9e55" md5="eecaf077b3748e7cc532832bf821cef6" sha1="eb49e37e4fa07f257993ee7dcfcc24ecb86f60fb"/>
+		<rom name="WORLDS/SIEDLE5.SWD" size="922996" crc="e517529d" md5="1f5d6de2d9cbc48c0a9833d3b139ba8a" sha1="0e590c6f9738f331581d3f2c64bb2049e285f333"/>
+		<rom name="WORLDS/SIEDLE7.SWD" size="476925" crc="28af8089" md5="87e5fa8724ddc705c62c4f6ff192b17c" sha1="5b5b85e9733e514feccc1e5394ce0ca2f3554dab"/>
+		<rom name="WORLDS/SKANVALL.SWD" size="705111" crc="e40b6dcc" md5="fd124f18b40832daf16db7312b4c4211" sha1="63d2aad0a5158a684d1ce27bd74882645e85a56b"/>
+		<rom name="WORLDS/STEFF3.SWD" size="179883" crc="747e1c1a" md5="ba8b83d38988c6d8ad6a4c9bc7b99133" sha1="bed814bdafb1e6ab11af8b6b5fbfffbdd4fbac7a"/>
+		<rom name="WORLDS/STEFFEN2.SWD" size="93567" crc="6598d7ac" md5="e1d9feceda5cc6af38be8b2113124f05" sha1="10e568ac6916125b7cc6e76b018f43fd2cfd19d8"/>
+		<rom name="WORLDS/STEFFEN4.SWD" size="923596" crc="923e9740" md5="ac33479d21ac512041d3685f9cfe1707" sha1="2262fe8a0bc11782fa3a05fa83e7704b00c4d042"/>
+		<rom name="WORLDS/STEFFEN5.SWD" size="92177" crc="88d9c2da" md5="9fbb3af969820383283339caec58d3c4" sha1="8c76251985ed4f22394785af228784c636315ff2"/>
+		<rom name="WORLDS/STEFIES.SWD" size="466989" crc="123b1cc4" md5="a6449fb98f769f849a82c3d3a469d83e" sha1="916c103329a1f057ae468e614f01ac8fad1b25b9"/>
+		<rom name="WORLDS/SUCHE01.SWD" size="924531" crc="36bf61d5" md5="4f1fd75a331f5d7ff839c00cd18bf9cf" sha1="231f753e22c768bda87d7db60df847137c597ab2"/>
+		<rom name="WORLDS/SUEMPFE.SWD" size="74577" crc="34f4ebb5" md5="75a55f0f27807d6b87bfc633e79a8298" sha1="8841579dfaab7e1c12305afc2590bd8472b3d968"/>
+		<rom name="WORLDS/SUMPF.SWD" size="197338" crc="70a0d00c" md5="b072bd256e0cdbce030651584e5ce0da" sha1="61e9bc3a3bab4d7f41cf4001b3cb70d3475a691f"/>
+		<rom name="WORLDS/SVEN1.SWD" size="154070" crc="6eb8218e" md5="6aeea5d5497d71bae3659e5f81fa5104" sha1="a6b6b486158a1ceb0595c802506c12aeff0b62ad"/>
+		<rom name="WORLDS/THOMAS1.SWD" size="232688" crc="26de94c7" md5="4f4feaeff99d99083b6f9afdf2937e0a" sha1="5cb2228f0b2e8277708bb9d51254291348eb6ffd"/>
+		<rom name="WORLDS/TRIO.SWD" size="134446" crc="7c4a6abc" md5="e1dce1454b9baaa1fe3156d8f6166060" sha1="4e37325a04f12e7f6c1f64ede91fb40884c4da6e" date="1998-12-10 11:23:00"/>
+		<rom name="WORLDS/UTOPIA.SWD" size="564781" crc="38e81f10" md5="938fdfd09420871ba9a322e392a720af" sha1="f21b6cacbb869e3dfb4ac48962e9f57d9f48f79d"/>
+		<rom name="WORLDS/VIER.SWD" size="361707" crc="89b91e19" md5="ae16cff077e59b8437253e1fd7f7c08d" sha1="3bccbf588619f3d6b144949a7631d57eb25103b5"/>
+		<rom name="WORLDS/VULKAN.SWD" size="362262" crc="f4502aac" md5="71f6182398cfc05b030f3e5a966c02f3" sha1="c8789c90c4412b5875aa4af5c2016c8eefb3b06c"/>
+		<rom name="WORLDS/VULKAN2.SWD" size="132196" crc="e0bb7451" md5="8621244e8ef2639b30faae0f33c75890" sha1="e9ac66d8080f66e1881142abd5acd508ce898d3a"/>
+		<rom name="WORLDS/VULKANO.SWD" size="75577" crc="28844417" md5="daf6868f2e7748203cd7eb19f8e7122f" sha1="ba70e2647003c54b51d51bece9cc64c8d1e68a5b"/>
+		<rom name="WORLDS/WAIDHEIL.SWD" size="132646" crc="965dd4a4" md5="03ddafc3cc15407b8dd07b38a13db5f9" sha1="a156fbbebc46a469f1d5d11c18fce29a97fc04b8"/>
+		<rom name="WORLDS/WATER.SWD" size="361242" crc="8dc4d5b5" md5="ab1863bc11dca253800c2358790188f6" sha1="eecc2c49f7b2350c0d12d31e2afbb915ec704201"/>
+		<rom name="WORLDS/WELT_001.SWD" size="232368" crc="b6629ebf" md5="cacb9d6a034b7f13069c99829429872b" sha1="6508131155557f8be5099a334f6fc9be85943f3c"/>
+		<rom name="WORLDS/WELT_002.SWD" size="178723" crc="7bd54b77" md5="25e551801efb38ae88181748a4bbb473" sha1="36db166304e669a17e1eadbf7fc0f065a4e4bc86"/>
+		<rom name="WORLDS/WIESE1.SWD" size="131751" crc="d5fddbeb" md5="8f68e88a228c4ac8703e59ea47adf2c7" sha1="a734185d3fdeb284eab971fa76d0f948e76bb248"/>
+		<rom name="WORLDS/WINTER.SWD" size="131886" crc="985e8624" md5="dd5c1bfc117a08065d5b9796f7f663c1" sha1="b37790089454bc950d640fb9fefd3b6ccb711ba7"/>
+		<rom name="WORLDS/WINTER18.SWD" size="132126" crc="2c6a1ed9" md5="bd1b052fa759090776fa194eee09298b" sha1="1122ab7ef805e0daeef200ddb99cf62fd51706bd"/>
+		<rom name="WORLDS/WIRLAND.SWD" size="132836" crc="f2131ca5" md5="122a0a0d23efa886bd55900dc8f9a577" sha1="be9e15421bd56d13564df562b584a0fee20ea0d6"/>
+		<rom name="WORLDS/WORLDS.SWD" size="519258" crc="b1849b13" md5="ea6ca3e504e95a3cdbb0c8eddc559198" sha1="3a38ed1089d1d926dd33b94744efdff243a367a6"/>
+		<rom name="WORLDS/YY.SWD" size="132396" crc="5a195cae" md5="e232205d5de17ed96225a83ba97dd903" sha1="24c4b1363a37da2d3e119eb70393433ed01e858c"/>
+		<rom name="WORLDS/ZB.SWD" size="131926" crc="6c63a7f5" md5="3f95f54aba1d6d35fb174e78d1d2946d" sha1="6bce1a60d35f5ad3ce789d987752fd69726b2048"/>
 	</game>
 	<game name="Sid Meier's Colonization (1994) (MPS Labs) (v2.26, French).dosz">
 		<description>Sid Meier's Colonization</description>
