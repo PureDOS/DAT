@@ -6118,7 +6118,7 @@
 		<year>1996</year>
 		<developer>Blue Byte Software</developer>
 		<variant>GOG</variant>
-		<comment>Needs GOG's default IO.IDX and RESOURCE.IDX files</comment>
+		<comment>Needs GOG's default unmodified IO.IDX, RESOURCE.IDX and MISSION.DAT files (modified while playing)</comment>
 		<comment_dosc>Auto-starts, config, General MIDI and Map Editor launch options</comment_dosc>
 		<link type="store">https://www.gog.com/en/game/the_settlers_2_gold_edition</link>
 		<rom name="DATA/ANIMDAT/ROM_ANIM.DAT" size="38404" crc="235c8d08" md5="d64a04f1078d7ba056172b2f6e9f296e" sha1="d64312bedc78ff3169f8d101f58490d61a8f40cf"/>
@@ -6450,6 +6450,7 @@
 		<rom name="README.TXT" size="11658" crc="7ca7b274" md5="824bd93940548fb6e28a5246b570e92b" sha1="5f0ba38e83a8d6d39173148808788b50a9f24615"/>
 		<rom name="S2.EXE" size="1934962" crc="98c4e727" md5="e94c2b1d56fbe76ca6e57001e6aba161" sha1="23039e9d266d00d427c3f057ccf943da1ca91e0a"/>
 		<rom name="S2EDIT.EXE" size="974450" crc="62aec0c3" md5="1f1284c45e6f911bf852729167d9b796" sha1="ae6e0208c4a658adf32120ebd63abf2fbd18921c"/>
+		<rom name="SAVE/MISSION.DAT" size="30" crc="596f6c31" md5="8f42ba59f0876826c3ed3ddadff1e72a" sha1="68e6c857d28af21deeacb557619aad8aae22cb82"/>
 		<rom name="SETTLER2.VMC" size="100" crc="9de8b8b6" md5="8d8a03e6108ea40d209371ea274e9b88" sha1="cb3629942fe8ee6d5b4a68cb781047985d0bd7cd"/>
 		<rom name="SETTLERS2.gog" size="292426512" crc="c2f28082" md5="f7a31c9130f4d421a7a06ffb80189a92" sha1="79bed1dae31fad8780fc08e7bd113eb51f7567a6"/>
 		<rom name="SETTLERS2.ins" size="403" crc="0a00e8e4" md5="d334a616d4c0261a121a3ec2a7cbb30f" sha1="4b3b2b9c6e3f7bc1c6e17991e2bc86980febca81"/>
@@ -6457,7 +6458,7 @@
 		<rom name="SETUP.INI" size="420" crc="daa0c6cd" md5="03e01481bbdd8b835bcfc762d5687379" sha1="95ede0d05900cfdd0f385164cdb5543b15e03f17"/>
 		<rom name="VIDEO/INTRO.SMK" size="16383164" crc="e4e551ba" md5="780526a4997e948c2c5dd8d61028d20e" sha1="4bf8909c871e3e43158dafd88de68bd7900b9281"/>
 		<rom name="VIDEO/SMACKPLY.EXE" size="94906" crc="6645582e" md5="465d289f13cc7b60ba23f06f3755cd32" sha1="befa4afc7ee57207798fc8b0109d8f6f68df3628"/>
-		<rom name="WORLDS/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="1999-12-31 00:00:00"/>
+		<rom name="WORLDS/" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 	</game>
 	<game name="Shadow Warrior (1997) (3D Realms) (GOG, Steam).dosz">
 		<description>Shadow Warrior</description>
