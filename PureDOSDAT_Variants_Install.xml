@@ -693,20 +693,28 @@
 	</game>
 	<game name="Mega Man (1990) (Capcom) (Installation).dosz">
 		<description>Mega Man</description>
-		<comment>5.25" floppy disk</comment>
 		<year>1990</year>
 		<developer>Capcom</developer>
 		<variant>Installation</variant>
+		<comment>
+			5.25" floppy disk matching TGOD ID: 463
+			Also matches TDC#23 Entry: Mega Man (1990)(Hi-Tech Expressions, Inc.) [IMA][360k][!]
+		</comment>
 		<link type="media">https://www.goodolddays.net/diskimages/id%2C463/</link>
+		<link type="media">https://puredos.github.io/tdc-browser/?/Mega+Man+(1990)(Hi-Tech+Expressions,+Inc.)+%5BIMA%5D%5B360k%5D%5B!%5D</link>
 		<rom name="disk1.img" size="368640" crc="1d82bd43" md5="be23a7de4ad34fac8a4101fe39b35d9a" sha1="39f02096d6c9b20cf19bdc3542f3129f2e464bc2" date="2000-12-31 20:00:00"/>
 	</game>
 	<game name="Mega Man 3 (1992) (Capcom) (Installation).dosz">
 		<description>Mega Man 3</description>
-		<comment>3.5" floppy disk</comment>
 		<year>1992</year>
 		<developer>Capcom</developer>
 		<variant>Installation</variant>
+		<comment>
+			3.5" floppy disk matching TGOD ID: 896
+			Also matches TDC#23 Entry: Mega Man III (1992)(Hi-Tech Expressions, Inc.) [IMA][720k][!]
+		</comment>
 		<link type="media">https://www.goodolddays.net/diskimages/id%2C896/</link>
+		<link type="media">https://puredos.github.io/tdc-browser/?/Mega+Man+III+(1992)(Hi-Tech+Expressions,+Inc.)+%5BIMA%5D%5B720k%5D%5B!%5D</link>
 		<rom name="disk1.img" size="737280" crc="d536e5ee" md5="aa7c8943fab3126b1f7874f632a46b0f" sha1="59e22f2332f1ba270817a2a809348d000423219b" date="2010-12-31 21:58:06"/>
 	</game>
 	<game name="Mega Man X (1995) (Capcom) (Installation).dosz">
@@ -714,7 +722,7 @@
 		<year>1995</year>
 		<developer>Capcom</developer>
 		<variant>Installation</variant>
-		<link type="media">http://redump.org/disc/13025/</link>
+		<link type="media">https://redump.info/disc/13025/</link>
 		<rom name="Mega Man X (USA).chd" size="59104512" crc="dc608651" md5="f24c5f4638914ede4f0374fe9389a7db" sha1="46a07133e26f6c33911cb354e8f8c4622ae0a8a3">
 			<track number="1" type="MODE1_RAW" frames="24135" pregap="0" duration="05:21:60" size="56765520" crc="f7420385" md5="8228100fd61d98634a9ee9dfdbf0e769" sha1="ab158d2d3da8423aaca8d3e9212c9133099b0b87" in_zeros="1" out_zeros="0"/>
 		</rom>
