@@ -22577,36 +22577,77 @@
 	</game>
 	<game name="Destruction Derby (1995) (Reflections Interactive).dosz">
 		<description>Destruction Derby</description>
-		<comment>Installed from Redump-verified CD-ROM: Destruction Derby (USA)</comment>
-		<comment_dosc>CPU_max_year set to 1995, auto-start, and contains sound config</comment_dosc>
 		<year>1995</year>
 		<developer>Reflections Interactive</developer>
-		<link type="media">http://redump.info/disc/45604/</link>
+		<comment>
+			Installed from Redump-verified CD-ROM: Destruction Derby (USA)
+			CD image converted with CHDtoOGG using -n option.
+			DoDAT cannot build this directly from the disc image - files must be installed.
+		</comment>
+		<comment_dosc>CPU_max_year set to 1995, auto-start, and contains sound config</comment_dosc>
+		<link type="media">https://redump.info/disc/45604</link>
 		<rom name="ADRV688.DIG" size="11278" crc="96dfb75d" md5="feabc78729e3a458ae2f6ab40146f0d9" sha1="255ecb5d649895d65bca49bd6afcbdf875e34bf2"/>
 		<rom name="AILDRVR.LST" size="16131" crc="3749ea2a" md5="c9077875e2399b42a186ff6b815273b9" sha1="fb6441868a3cb09d9efc7ab4f31bf93b32affe8a"/>
-		<rom name="DD.EXE" size="625281" crc="775731c6" md5="9536a4e7ef28616736d39bfca45bf570" sha1="0d3f00a814cffd6efd1ae28cfded7bc72239475d"/>
-		<rom name="Destruction Derby (USA).chd" size="665425152" crc="c3246eed" md5="ca67baccc7ac097e4701f670dd5e71fb" sha1="e68028b4013749a6726dad2f8e3de3f5e93ce5ee">
-			<track number="1" type="MODE1_RAW" frames="4464" duration="00:59:39" size="10499328" crc="17bd1482" md5="3713aa28deb14774f19a0a59cea75de6" sha1="f5f0ad296e47e7733218b37fcbb3bedca511ab6a"/>
-			<track number="2" type="AUDIO" frames="25180" pregap="150" duration="05:35:55" size="59223360" crc="896b55bf" md5="00901d5163d859a28eb9e34b2ea2408b" sha1="c1a34dc96148df32785cf1fbead6f0df1e3930c4" in_zeros="352944" out_zeros="8395"/>
-			<track number="3" type="AUDIO" frames="24095" pregap="150" duration="05:21:20" size="56671440" crc="001253ae" md5="bf4662268c50f02be4453238f08d2186" sha1="0327f0b93ad8996f5402830e22d6bad15ec87dc9" in_zeros="352950" out_zeros="1708"/>
-			<track number="4" type="AUDIO" frames="24309" pregap="150" duration="05:24:09" size="57174768" crc="6ec65808" md5="7617d4cfbcc37c9031e96e471863f4ec" sha1="9bda1d67ecb0a27d037d980d1ac6cd5d2e62f326" in_zeros="353052" out_zeros="2694"/>
-			<track number="5" type="AUDIO" frames="23609" pregap="150" duration="05:14:59" size="55528368" crc="2274c268" md5="a3099106843a3ace21c7405429ebdbfd" sha1="2e206482b3f7a0bb2ee7a13bae62597b7c8de8bd" in_zeros="352916" out_zeros="1933"/>
-			<track number="6" type="AUDIO" frames="23897" pregap="150" duration="05:18:47" size="56205744" crc="7ec00bb5" md5="a6eeda717e40b1e82fa272b061b612ec" sha1="30e514ae2dec661b0e1708f6d20e4c6b8f0d3c8d" in_zeros="352800" out_zeros="911"/>
-			<track number="7" type="AUDIO" frames="23476" pregap="150" duration="05:13:01" size="55215552" crc="5a93aff9" md5="7e5928416388ff2a5dd88c5351c9fe27" sha1="d7cc86f878f78d7f24027fc8f45c0023d2367cc6" in_zeros="352912" out_zeros="924"/>
-			<track number="8" type="AUDIO" frames="10684" pregap="150" duration="02:22:34" size="25128768" crc="f8911a3b" md5="b497ff7d12511efdba25ec66726d108e" sha1="3554854af1eccb0d56d778e086dca14390ce4279" in_zeros="353016" out_zeros="1823"/>
-			<track number="9" type="AUDIO" frames="14088" pregap="150" duration="03:07:63" size="33134976" crc="941bcf94" md5="9d86413272993d8756c1939521c87741" sha1="357213d2b55c2736ab5036d9e4982c37e7d35539" in_zeros="352868" out_zeros="1885"/>
-			<track number="10" type="AUDIO" frames="1855" pregap="150" duration="00:24:55" size="4362960" crc="bbf925b8" md5="d605efb38155e2992a7f16f984bb0290" sha1="1eaffb499307901fb0a32e9b759f945bf349541d" in_zeros="352920" out_zeros="34607"/>
-			<track number="11" type="AUDIO" frames="887" pregap="150" duration="00:11:62" size="2086224" crc="03ffb915" md5="568f7ffd4465792ebfbc6d1782c4cfc9" sha1="79f256ecd44c1e666f2fce27cd772ff887876166" in_zeros="352964" out_zeros="301"/>
-			<track number="12" type="AUDIO" frames="934" pregap="150" duration="00:12:34" size="2196768" crc="3ef1a02d" md5="d1cc2db64833706e1331bdcdffcf9820" sha1="65950aa143fd632118d494d7f66b4026c9b9b9f1" in_zeros="352950" out_zeros="1277"/>
-			<track number="13" type="AUDIO" frames="11981" pregap="150" duration="02:39:56" size="28179312" crc="4d9d34cb" md5="c2437e070237d366a6597cb8b2365347" sha1="c8c8ad58bb01dead245a25461363c8b5ade05b85" in_zeros="353120" out_zeros="1868"/>
-			<track number="14" type="AUDIO" frames="11876" pregap="150" duration="02:38:26" size="27932352" crc="6c5b8c62" md5="c69ebfdba6d1336156c443484f183552" sha1="1c61620cf4fbd926ffd02375785696f61b01dd23" in_zeros="352920" out_zeros="669"/>
-			<track number="15" type="AUDIO" frames="23316" pregap="150" duration="05:10:66" size="54839232" crc="4d627b50" md5="fafbbe8feca370e3ce07f926e5639998" sha1="704db645b35f6d254fe7b46b1d2f65da62612617" in_zeros="353106" out_zeros="1437"/>
-			<track number="16" type="AUDIO" frames="20760" pregap="150" duration="04:36:60" size="48827520" crc="d76e51bc" md5="99cf2ddbe098867e815b22b8fbde346b" sha1="8b58cad991bf24d6f0cac9c12f5ec39147add59e" in_zeros="352874" out_zeros="95"/>
-			<track number="17" type="AUDIO" frames="806" pregap="150" duration="00:10:56" size="1895712" crc="abf7914f" md5="3f3d54d5865807918a84acc205198f5e" sha1="8e1bb57e7979037aa4e3bbc073259a4358e2acdf" in_zeros="353496" out_zeros="765"/>
-			<track number="18" type="AUDIO" frames="22383" pregap="150" duration="04:58:33" size="52644816" crc="c58030c2" md5="392ce53e717a9fe0eff3deea10b8e80e" sha1="4ba8802110c5f79cd80bb1633f868f5035b8e30e" in_zeros="352978" out_zeros="4151"/>
-			<track number="19" type="AUDIO" frames="1567" pregap="150" duration="00:20:67" size="3685584" crc="2210dbee" md5="bf4c4cba8f7b8cd980a999c01b94d208" sha1="63d22e75c6124750fbcbe7a1f50e79d801d7a566" in_zeros="352876" out_zeros="794"/>
-			<track number="20" type="AUDIO" frames="4543" pregap="150" duration="01:00:43" size="10685136" crc="2f2584c3" md5="a6080babea444c488197dfec47f548ca" sha1="80ce7b3121667cf234c396eeb6a972e28e2e70e2" in_zeros="352818" out_zeros="529628"/>
+		<rom name="CD/Destruction Derby (USA) (Track 1).bin" size="43008" crc="10d89042" md5="73db37b47ede9da7e9fbaae52c6c8a8b" sha1="8a2846aac1e2ceb8a08a9cd5591e9a85228d5cab"/>
+		<rom name="CD/Destruction Derby (USA) (Track 2).ogg" size="10882955" crc="5ab670e8" md5="de03cd880083249115b55e19b4e624fe" sha1="4ccf7c25385016255cf6efc45e0b210b206a9081">
+			<source type="AUDIO" frames="25030" omitted_pregap="150" duration="05:33:55" size="58870560" crc="9dbd0030" md5="6c726bb8813de6251baac8d02058d8bc" sha1="0958698bdb70782aadbef844b2ab635fa534cae7" in_zeros="144" out_zeros="8395" quality="8"/>
 		</rom>
+		<rom name="CD/Destruction Derby (USA) (Track 3).ogg" size="10835357" crc="7da05aff" md5="ec72a88028eb0bb975f7631d862cebe3" sha1="0bab6d87e5359dc007a44f96eb6e6d7a02b2b800">
+			<source type="AUDIO" frames="23945" omitted_pregap="150" duration="05:19:20" size="56318640" crc="d533dc3f" md5="a7cac8aa740ca2487cef271f2a1fb155" sha1="c1cfadf9ce699e3336d528318988aba4b98cf10b" in_zeros="150" out_zeros="1708" quality="8"/>
+		</rom>
+		<rom name="CD/Destruction Derby (USA) (Track 4).ogg" size="10798182" crc="369b11f2" md5="101ec017926c3ee0b42748f5b27ec937" sha1="dfc51b1678f5d5cfeb87b250506828f2846f64d4">
+			<source type="AUDIO" frames="24159" omitted_pregap="150" duration="05:22:09" size="56821968" crc="8649c12a" md5="050679318739c44d3290ec6e85768d93" sha1="0708331103a90f5c8297b07721e4651d4759ad74" in_zeros="252" out_zeros="2694" quality="8"/>
+		</rom>
+		<rom name="CD/Destruction Derby (USA) (Track 5).ogg" size="9151995" crc="02474f7e" md5="cfd217d81182b64ab4a7c8b463cd58f0" sha1="a92fc121c62381bb7b3043adc76f1500e4090ca1">
+			<source type="AUDIO" frames="23459" omitted_pregap="150" duration="05:12:59" size="55175568" crc="037b3552" md5="e8b57cbb1b48b0769bc8767bcc20fe89" sha1="bcbdb3155b9867677c204b05ddf2b9f2e001dc79" in_zeros="116" out_zeros="1933" quality="8"/>
+		</rom>
+		<rom name="CD/Destruction Derby (USA) (Track 6).ogg" size="9668392" crc="7c028205" md5="39e7a4d2dd77cb87c7a8060ec5b56de9" sha1="c02ece5aede492384561dc662362543ea6bd283f">
+			<source type="AUDIO" frames="23747" omitted_pregap="150" duration="05:16:47" size="55852944" crc="55f5a7fe" md5="4d14e88488f07b65b31b1ffce8595b2c" sha1="af5638cfb9208aa547e59b5c06264422990a8156" in_zeros="0" out_zeros="911" quality="8"/>
+		</rom>
+		<rom name="CD/Destruction Derby (USA) (Track 7).ogg" size="9916139" crc="12b6af00" md5="9fe79cafab9afefb8528a97b85ef9086" sha1="64f58a25ae9452473f9975c9af39b0100a99eb30">
+			<source type="AUDIO" frames="23326" omitted_pregap="150" duration="05:11:01" size="54862752" crc="b4f479bb" md5="ab49d21c03b2c6df09666022c4f2484d" sha1="eafc858e4cc06bad1ad0d1796264b1c1267add17" in_zeros="112" out_zeros="924" quality="8"/>
+		</rom>
+		<rom name="CD/Destruction Derby (USA) (Track 8).ogg" size="4397714" crc="98a87246" md5="9d64c196b4cc5538ce963cbc561b4d9d" sha1="0190b87f2ccafcbf619912123770478b8fe4c998">
+			<source type="AUDIO" frames="10534" omitted_pregap="150" duration="02:20:34" size="24775968" crc="eb2833b2" md5="a794357d480aa989044f0ed6b6aa3e10" sha1="9da8728dbbe63bb513bb72370c03a1b3e661c77c" in_zeros="216" out_zeros="1823" quality="8"/>
+		</rom>
+		<rom name="CD/Destruction Derby (USA) (Track 9).ogg" size="6048196" crc="bbdab8e7" md5="cab75a101785ec4313e9e0fbdbfaa555" sha1="0b88a0d339daea73a7f702911d9c7d3d9908af02">
+			<source type="AUDIO" frames="13938" omitted_pregap="150" duration="03:05:63" size="32782176" crc="21926004" md5="dd18782f9f7b6c90c7ff8b723c6dfc39" sha1="27b7c2bbec21e2fdd9c75a2253607afa1979295b" in_zeros="68" out_zeros="1885" quality="8"/>
+		</rom>
+		<rom name="CD/Destruction Derby (USA) (Track 10).ogg" size="752364" crc="505c4e5e" md5="fae7ffa38d925566db9376af8f2e5e99" sha1="1485ee0437cac54a4b2cef5ad897b6137eb3e47f">
+			<source type="AUDIO" frames="1705" omitted_pregap="150" duration="00:22:55" size="4010160" crc="889abb94" md5="2d51cee61035e0060bbcc71e8e747ac7" sha1="d8a0a0479a7aa0b99014d1de65ca21b4a94da246" in_zeros="120" out_zeros="34607" quality="8"/>
+		</rom>
+		<rom name="CD/Destruction Derby (USA) (Track 11).ogg" size="260971" crc="13523537" md5="4b0fbe0f9076835bcb965424e43b9dca" sha1="4e2ae02b715b271875410a39ee9b70b9d8cdd2d3">
+			<source type="AUDIO" frames="737" omitted_pregap="150" duration="00:09:62" size="1733424" crc="8cfc7f3c" md5="7eed8e0b86c72b54ae593bf946778c58" sha1="f25e6d7e1d6a3b341b071bd52e8d045afb31c91d" in_zeros="164" out_zeros="301" quality="8"/>
+		</rom>
+		<rom name="CD/Destruction Derby (USA) (Track 12).ogg" size="278416" crc="7d7bd69f" md5="b6f60119853c404cc4cd7b6692041dc6" sha1="c6409af0e69f10a40050c6bedf12560d499c65a2">
+			<source type="AUDIO" frames="784" omitted_pregap="150" duration="00:10:34" size="1843968" crc="300ac0d6" md5="d7da10a469bc356f11ca737512caee39" sha1="4dd1d68d39bf01f13784b9849959b0bb6746cc38" in_zeros="150" out_zeros="1277" quality="8"/>
+		</rom>
+		<rom name="CD/Destruction Derby (USA) (Track 13).ogg" size="5354316" crc="bc3bf31d" md5="fd539a8ffd371aeffe0e1f0a55b950e6" sha1="29fdacf01687182b06b6906552f5dd4f34977461">
+			<source type="AUDIO" frames="11831" omitted_pregap="150" duration="02:37:56" size="27826512" crc="4d114c02" md5="96b1302664cd7a17b9715a38828e55be" sha1="755ce962152d38e23f8040e25bf3ff6fd199334e" in_zeros="320" out_zeros="1868" quality="8"/>
+		</rom>
+		<rom name="CD/Destruction Derby (USA) (Track 14).ogg" size="4813959" crc="f1940126" md5="524c44d3344fd35222d546d7a6c4c0ff" sha1="a87fd200309d9e57b8cbf55a41b4a359dda91d41">
+			<source type="AUDIO" frames="11726" omitted_pregap="150" duration="02:36:26" size="27579552" crc="6099eff8" md5="7ede71dee288eadc83459a0555fc2cfd" sha1="9c4ee003e321b2ad512e18573306f15aa13b93c5" in_zeros="120" out_zeros="669" quality="8"/>
+		</rom>
+		<rom name="CD/Destruction Derby (USA) (Track 15).ogg" size="10369055" crc="b1e58bdb" md5="d7f46bdd4cb5455733a55c7af6166d72" sha1="f2f30cf6ed5cea114e736ec2b4abeba8da4e9061">
+			<source type="AUDIO" frames="23166" omitted_pregap="150" duration="05:08:66" size="54486432" crc="4ab6b8cb" md5="981f49a55e96dd4586fcaac0ca0b7940" sha1="a67afe2373f9efec5c1bc174789d00d4dcb06da1" in_zeros="306" out_zeros="1437" quality="8"/>
+		</rom>
+		<rom name="CD/Destruction Derby (USA) (Track 16).ogg" size="9177534" crc="d491eb38" md5="f86f70c502759cf0339c562ac79574ca" sha1="9500edf666c7a67d6ba5730c943acebc873b701e">
+			<source type="AUDIO" frames="20610" omitted_pregap="150" duration="04:34:60" size="48474720" crc="aa497276" md5="b0ceb0b6d54e0dafcd4ab21b112bd318" sha1="a4707fdb5cab5bcee33e7e169453805ca09c5703" in_zeros="74" out_zeros="95" quality="8"/>
+		</rom>
+		<rom name="CD/Destruction Derby (USA) (Track 17).ogg" size="225182" crc="7a43639d" md5="e84b8e1e8a02318e74633885ac73b4cc" sha1="37baf38d2a2cc0021a261e47c062e980cbd85987">
+			<source type="AUDIO" frames="656" omitted_pregap="150" duration="00:08:56" size="1542912" crc="5852cdee" md5="3f5080a30587d9dce6305934d6a0799b" sha1="9eb34308b516ae375a02bed75307153944df5c53" in_zeros="696" out_zeros="765" quality="8"/>
+		</rom>
+		<rom name="CD/Destruction Derby (USA) (Track 18).ogg" size="10553317" crc="53aaf3a8" md5="2b53250e72d9a7381192a799fb562da4" sha1="ec3b50643625c35c5215281a4e7a7f85ba906e59">
+			<source type="AUDIO" frames="22233" omitted_pregap="150" duration="04:56:33" size="52292016" crc="906fa8f2" md5="f1180861ba53e9332b6a8ed7058ffa3d" sha1="cbe0a64c00514118871d3ce88a3653cf3b276610" in_zeros="178" out_zeros="4151" quality="8"/>
+		</rom>
+		<rom name="CD/Destruction Derby (USA) (Track 19).ogg" size="576544" crc="17cef2ec" md5="9654d3716a36f3f3755c9627e0cb0a39" sha1="12bfe894e8e62b4a29fb1a0b85993d091f1159f3">
+			<source type="AUDIO" frames="1417" omitted_pregap="150" duration="00:18:67" size="3332784" crc="23729c32" md5="2c4c6b1ccbde247210487f95fb1428fb" sha1="70efa6e767f785efc8211bcedd2e0a6c1ecce51a" in_zeros="76" out_zeros="794" quality="8"/>
+		</rom>
+		<rom name="CD/Destruction Derby (USA) (Track 20).ogg" size="1723742" crc="7854a0ed" md5="12ec8e59a13e9a2544d303a4e83292e0" sha1="f0c5de913dd7e2fb48f3b1430516ed9e98cb06db">
+			<source type="AUDIO" frames="4393" omitted_pregap="150" duration="00:58:43" size="10332336" crc="184c671b" md5="bd7974f5342ef21e77f90823c20622d4" sha1="cdf59680992e9cd6244da67602bcd4c728bd2574" in_zeros="18" out_zeros="529628" quality="8"/>
+		</rom>
+		<rom name="CD/Destruction Derby (USA).cue" size="2238" crc="36853745" md5="078e5412379c277ed5916b203f0fa811" sha1="99afaf3589c8b83322eed5b3e92aaf7617cf6d06"/>
+		<rom name="DD.EXE" size="625281" crc="775731c6" md5="9536a4e7ef28616736d39bfca45bf570" sha1="0d3f00a814cffd6efd1ae28cfded7bc72239475d"/>
 		<rom name="DOS4GW.EXE" size="265396" crc="5cc34b0f" md5="006211ca60fa3d4b38a9a8da2ade1056" sha1="c489f83dc15a9ffc3c502707da40e581ec79bfe6"/>
 		<rom name="INTRO/DD" size="25856" crc="83a9adb6" md5="82c1d34348ef89d2d83ec95ac96c5462" sha1="d4e94ee4c314d649cbc5e0e7302947791d4dc6b1"/>
 		<rom name="INTRO/PSY" size="32490" crc="e21c93be" md5="16d67fbbbf818b9c60b0552a8640f9ec" sha1="1d1115a4c40ce3c8230f4ce5bd4d7f96a17621f3"/>
