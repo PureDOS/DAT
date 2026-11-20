@@ -94,12 +94,12 @@ foreach my $m (@files)
 					if (!$year) { $XMLErr->("Missing <year> element"); }
 					if (!$description) { $XMLErr->("Missing <description> element"); }
 					elsif ($description =~ / - / && $description !~ /:/ && !$unverified) { } # reported with Err below
-					elsif ($description =~ /, (The|An|A)/ && !$unverified) { } # reported with Err below
+					elsif ($description =~ /, (The|An|A|Der|Die|Das|Le|La|Les|Il|Lo|Del)\b/ && !$unverified) { } # reported with Err below
 					elsif (!$unverified) # too many errors in unverified
 					{
-						my $expectdesc = $ingame; $expectdesc =~ s/^(.*?), (The|An|A)/\2 \1/; $expectdesc =~ s/\) \[([^\]]+)\]$/\)/;
+						my $expectdesc = $ingame; $expectdesc =~ s/^(.*?), (The|An|A|Der|Die|Das|Le|La|Les|Il|Lo|Del)\b/\2 \1/; $expectdesc =~ s/\) \[([^\]]+)\]$/\)/;
 						my $expectname = $description.' ('.$year.') ('.$developer.')'.($g->{variant}?' ('.$g->{variant}.')' : ''); $expectname =~ s/\: / - /;
-						if ($expectdesc ne $expectname) { $XMLErr->("Game name doesn't match 'DESCRIPTION (YEAR) (DEVELOPER) (VARIANT)' template (expected  '$expectname')"); }
+						if ($expectdesc ne $expectname) { $XMLErr->("Game name doesn't match 'DESCRIPTION (YEAR) (DEVELOPER) (VARIANT)' template (expected '$expectname')"); }
 
 						foreach my $f (@filearr) # test if matching CUE files can be generated
 						{
@@ -144,7 +144,7 @@ foreach my $m (@files)
 					if ($x eq 'description')
 					{
 						if ($y =~ / - / && $y !~ /:/ && !$unverified) { $XMLErr->("In the <description> tag ('$y') the first occurence of ' - ' should be changed to ': '"); }
-						if ($y =~ /, (The|An|A)/ && !$unverified) { $XMLErr->("In the <description> tag ('$y') the common article '$1' should be at the beginning not like ', $1'");  }
+						if ($y =~ /, (The|An|A|Der|Die|Das|Le|La|Les|Il|Lo|Del)\b/ && !$unverified) { $XMLErr->("In the <description> tag ('$y') the common article '$1' should be at the beginning not like ', $1'");  }
 					}
 				}
 				elsif ($tab == 2 && $ln eq "<comment>")      { my $j = index($dat, "</", $iNext); if (substr($dat, $j, 10) ne "</comment>"     ) { $XMLErr->("Bad <comment> tag");      next; } ($x, $y) = ("comment",      substr($dat, $iNext+1, $j-$iNext-1)); $iNext = $j + 10 + $cut_r; goto metafield; }
