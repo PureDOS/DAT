@@ -29759,6 +29759,88 @@
 		<rom name="WC.EXE" size="304976" crc="1ee589a4" md5="c3b891e4a90c126fe33f543595e0e8aa" sha1="872ca4b6fbd9647289fe833928314e603bdf3608"/>
 		<rom name="WINGCMDR.CFG" size="11" crc="d10d4513" md5="e1781f0f9935194117ffc29a0ba12c42" sha1="b84271c4227fca6042f95f1e0d38669c8efa5a33" data="diBhOTA0IA0KACA="/>
 	</game>
+	<game name="Wing Commander - The Secret Missions (1990) (Origin Systems).dosz">
+		<description>Wing Commander - The Secret Missions</description>
+		<year>1990</year>
+		<developer>Origin Systems</developer>
+		<comment>
+			Installed from Redump-verified CD-ROM: Wing Commander &amp; Wing Commander II (USA)
+			Installation options:
+				Directory: C:\WING (default)
+				Uncompressed files (Save Time)
+				Graphics: MCGA/VGA
+				Sound: Sound Blaster
+				Copy from D drive
+			WINGCMDR.CFG is embedded data since it needs to exist or INSTALL.EXE will try to reinstall the game.
+			DoDAT cannot build this directly from the disk image
+		</comment>
+		<comment_dosc>
+			Auto start.
+			MT-32 and character transfer options
+			Direct mouse input enabled
+		</comment_dosc>
+		<parent>Wing Commander (1990) (Origin Systems).dosz</parent>
+		<rom name="GAMEDAT/BRIEFING.001" size="85455" crc="7a240924" md5="9e9a05acd55a0e3c73dce8688b22ec13" sha1="19b2a1abe2153d646eba5b0d4f0908d4c1a8d3df"/>
+		<rom name="GAMEDAT/CAMP.001" size="456" crc="df02d891" md5="8002d8e35f0c37edef6866e86149a10c" sha1="db686d44abe2134dc183dda4860c95546cda2f55"/>
+		<rom name="GAMEDAT/DISK.004" size="8" crc="922564ae" md5="6dd4566eb245627b49f3abb7e4502dd6" sha1="f58dcba483dda1773372c0cddcc702960404308b"/>
+		<rom name="GAMEDAT/INSTALL.DAT" size="1120" crc="8ee54f07" md5="73496fb9d16c6a69c8002f07e22bccce" sha1="875652a85855b5a3917cb45562b2d239f2bd27aa"/>
+		<rom name="GAMEDAT/INTRO.DAT" size="687" crc="d277ca71" md5="ee51a4f443226442e723c4897c0854af" sha1="94db99906a827ad0d5382405db029d4b9551948a"/>
+		<rom name="GAMEDAT/MIDGAME.V04" size="51688" crc="f723b548" md5="365aaee4a9efa7aad57f853c220f7e7a" sha1="568cfdd2ca00c905e9e9e1154064739d8eb128d2"/>
+		<rom name="GAMEDAT/MIDGAME.V05" size="239200" crc="e9812079" md5="0db9a90dc5193c6ecff3091e600a4f2c" sha1="fdb5eb65bc2c4e53f3b78eca5201ec472fa1da47"/>
+		<rom name="GAMEDAT/MODULE.001" size="18595" crc="c11c1aec" md5="8930d6c13b12b4f338b36e5e86df9e19" sha1="8b6ac71525c9580402616bec32b68f6d019d6546"/>
+		<rom name="GAMEDAT/SERIES.VGA" size="24674" crc="8b8ec40b" md5="01c70af94644551643c6573b1bcc4ba7" sha1="21e1e1b0f6eedccad920e4fa3851889d524ab0e9"/>
+		<rom name="GAMEDAT/SHIP.V04" size="148513" crc="831ca9b3" md5="486655b0ab97fc98366d8a5a50292c1c" sha1="c5358261bb061a07112c6a470a5e61a7471e64a5"/>
+		<rom name="GAMEDAT/SHIP.V05" size="160192" crc="714c6c4f" md5="ddfc4dd996a074c37092801c19a5e2d1" sha1="e526d5554a96537350fc80c3d0763e0340ba412c"/>
+		<rom name="GAMEDAT/SHIP.V16" size="148816" crc="4a502079" md5="08ca7b7cbb9db5d982ecc9cec834212d" sha1="e413c10c179e5a75e9f5f71a6fc1b356a38464b1"/>
+		<rom name="GAMEDAT/SHIP.V20" size="155135" crc="8bce578e" md5="f40a356d99395f407d082c01d373c01b" sha1="9572dabfba084e0a56e39fbd96e738bc7dbf36dd"/>
+		<rom name="TRANSFER.EXE" size="71088" crc="7262b235" md5="af28084a53ae392145911b738201e3a1" sha1="79c6a0c66b968e3681eddd22b2d25cdf957aaebe"/>
+		<rom name="Wing Commander (1990) (Origin Systems).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+		<rom name="WINGCMDR.CFG" size="11" crc="e32b03f1" md5="4bc769a72ab209cd33ee8c1d0a4fac1e" sha1="8b06a783bd358b8d068d012283d156a1907a146b" data="diBhOTA0IHoNCgA="/>
+	</game>
+	<game name="Wing Commander - The Secret Missions 2 - Crusade (1991) (Origin Systems).dosz">
+		<description>Wing Commander - The Secret Missions 2 - Crusade</description>
+		<year>1991</year>
+		<developer>Origin Systems</developer>
+		<comment>
+			Installed from Redump-verified CD-ROM: Wing Commander &amp; Wing Commander II (USA)
+			Installation options:
+				Directory: C:\WING
+				Uncompressed files (Save Time)
+				Graphics: MCGA/VGA
+				Sound: Sound Blaster
+				Copy from D drive
+			CRUSADE.CFG is embedded data since it needs to exist or INSTALL.EXE will try to reinstall the game.
+			DoDAT cannot build this directly from the disk image
+		</comment>
+		<comment_dosc>
+			Copy protection patch
+			Auto start
+			MT-32 and character transfer options
+			Direct mouse input enabled
+		</comment_dosc>
+		<parent>Wing Commander - The Secret Missions (1990) (Origin Systems).dosz</parent>
+		<rom name="CRUSADE.CFG" size="11" crc="e32b03f1" md5="4bc769a72ab209cd33ee8c1d0a4fac1e" sha1="8b06a783bd358b8d068d012283d156a1907a146b" data="diBhOTA0IHoNCgA="/>
+		<rom name="GAMEDAT/BRIEFING.002" size="90407" crc="3b316453" md5="589bc762902452178e5fd42f68c90277" sha1="2e27f30fbe620d806dbd3019be9a6a79006e7eaa"/>
+		<rom name="GAMEDAT/CAMP.002" size="437" crc="a676880b" md5="d91dc05a30c401eeb38c776e3156528f" sha1="b74d39731b6b6808ea9673fba8084b17781509b5"/>
+		<rom name="GAMEDAT/COMMSM2.DAT" size="12320" crc="386026f5" md5="7dbd1689cf8867488a970189a60118f0" sha1="9bac6025a0b78b2727cc9d66ba2dad633b7be8d5"/>
+		<rom name="GAMEDAT/DISK.005" size="8" crc="922564ae" md5="6dd4566eb245627b49f3abb7e4502dd6" sha1="f58dcba483dda1773372c0cddcc702960404308b"/>
+		<rom name="GAMEDAT/INSTALL.DAT" size="1120" crc="b0504b33" md5="494f0f08ef836110df4d94d3159f7ca0" sha1="73792c91748518b69ac0665cf3f9b51b3cbae8cb"/>
+		<rom name="GAMEDAT/INTRO1.DAT" size="743" crc="3c6dda3e" md5="28ba720b9851ba8f0c393be107b9da86" sha1="e83cb9bcc4d13cdf10df0af535e9ded75e24d6f2"/>
+		<rom name="GAMEDAT/MIDGAME.V06" size="81061" crc="3143b0c5" md5="278c9f7758993f1b44374603e45f2fbf" sha1="d0d821f3e063d3349535a3e64d8b03245cfe831f"/>
+		<rom name="GAMEDAT/MIDGAME.V07" size="266976" crc="58223480" md5="ac2398fc6f2791e4c5cc9607cf17547c" sha1="7f0129ffe94cf00360acab7f8523ff20214f58e4"/>
+		<rom name="GAMEDAT/MIDGAME.V08" size="132430" crc="0dec69b6" md5="e344e17223ccca24f7114db55f503fee" sha1="a6b536df25021041aa004cb05a9ad6b4912dcc8c"/>
+		<rom name="GAMEDAT/MODULE.002" size="17765" crc="6ca31359" md5="27da62ae410620039e9584f2d0270637" sha1="11b75b68108889454cdc198b3e34ef5b8111a2b2"/>
+		<rom name="GAMEDAT/PCSHIP.V05" size="182409" crc="2371c473" md5="97ea678693e746796be732c889ed9702" sha1="f77266d8ba67408dec7f4ccfe07c3305c8bf083c"/>
+		<rom name="GAMEDAT/PLANETS1.VGA" size="12422" crc="39b5d154" md5="2dde839cf30598efc902673cc43ef715" sha1="10ab0e41597ef976f038a732c2ce6bef7575dce7"/>
+		<rom name="GAMEDAT/SHIP.V19" size="120946" crc="a6ed5663" md5="940c4afa52a2369f087354f75a4293e5" sha1="4ccb9774fb72ff4b879126cc3c6aaad1ee95edc7"/>
+		<rom name="GAMEDAT/SHIPTYPE.V14" size="71007" crc="72deac5a" md5="a002b4dfd9eccc5ee0521217a79a3f9b" sha1="fba4fc2812b9b9fb9e4d5bec3734d7135e0f735f"/>
+		<rom name="GAMEDAT/TALKING1.VGA" size="56027" crc="113c4d18" md5="d414962438637513ccb609336349f9f2" sha1="a81787f76f4f690c8fadb071c553d55d17976b43"/>
+		<rom name="GAMEDAT/TITLE1.VGA" size="50118" crc="fe069c12" md5="2601aa9698cdc424edd09c2d3f409e96" sha1="8afcc438125722f5a0879fdc067580785eada7f1"/>
+		<rom name="GAMEDAT/WINGMEN1.VGA" size="3774" crc="c9373d14" md5="1bcab040df00a13cd02e1b1554fc89ee" sha1="eb6a63cdacb6a6740037b2da7560c233543eb398"/>
+		<rom name="SM2.EXE" size="305024" crc="c8a18881" md5="ce4352973846abc055c0d625c88f074f" sha1="8f201a8f0271ef43ddbb5b77aa6dc69cce5b8669"/>
+		<rom name="TRANS2.EXE" size="71200" crc="578cb9a2" md5="58506c1f5d9440b6f2f54c3062c4f52d" sha1="3a4b3d6ddfe8cc7794ab59c8712b186ec97cbf8e"/>
+		<rom name="Wing Commander - The Secret Missions (1990) (Origin Systems).dosz.parent" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" data="diBhOTA0IHoNCgA="/>
+	</game>
 	<game name="Wolfenstein 3D (1992) (id Software).dosz">
 		<description>Wolfenstein 3D</description>
 		<comment>Based on version 1.4g with Activision branding</comment>
